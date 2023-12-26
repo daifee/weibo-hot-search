@@ -1,0 +1,410 @@
+{
+  "runTime": 1703558225412,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 401375,
+        "num": 882416,
+        "word": "毛主席诞辰130周年",
+        "onboard_time": 1703547326,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1888711,
+        "num": 880955,
+        "word": "孩子有超雄综合征就是天生坏种吗",
+        "onboard_time": 1703554651,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 49230,
+        "num": 855497,
+        "word": "网信办处置一批仿冒企业诈骗网站",
+        "onboard_time": 1703552374,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1225222,
+        "num": 842254,
+        "word": "重庆一疑似智障女子与五旬男子结婚",
+        "onboard_time": 1703554832,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962403,
+        "num": 831783,
+        "word": "23岁的普通人到底应该有多少钱",
+        "onboard_time": 1703547747,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 827063,
+        "num": 827063,
+        "word": "去有风的地方获200万元补助",
+        "onboard_time": 1703550273,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580008,
+        "num": 580008,
+        "word": "我国月收入2000元以下人口约9.64亿",
+        "onboard_time": 1703557653,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541674,
+        "num": 541674,
+        "word": "中国象棋协会处罚全国冠军",
+        "onboard_time": 1703555734,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 440099,
+        "num": 440099,
+        "word": "胡海泉再被冻结115万股权",
+        "onboard_time": 1703554231,
+        "rank": 8,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 437682,
+        "num": 437682,
+        "word": "经济学家预测明年美股或将大跌86%",
+        "onboard_time": 1703556091,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 902876,
+        "num": 437439,
+        "word": "订婚强奸案后女方家属想尽快结婚",
+        "onboard_time": 1703511515,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759518,
+        "num": 432390,
+        "word": "况盛",
+        "onboard_time": 1703547266,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 590020,
+        "num": 425091,
+        "word": "女子遭未婚夫强奸曾逃出房呼救被拖回",
+        "onboard_time": 1703510916,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415072,
+        "num": 415072,
+        "word": "甄嬛传演员进组的第一场戏",
+        "onboard_time": 1703554592,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402569,
+        "num": 402569,
+        "word": "3娃非亲生男子称3个孩子没一个理我",
+        "onboard_time": 1703556933,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385271,
+        "num": 385271,
+        "word": "3娃非亲生案",
+        "onboard_time": 1703554478,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283250,
+        "num": 283250,
+        "word": "冯小刚三句话不离优子",
+        "onboard_time": 1703550029,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281608,
+        "num": 281608,
+        "word": "网易暴雪复合",
+        "onboard_time": 1703502338,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244456,
+        "num": 244456,
+        "word": "大熊猫睡觉口水被冻成冰溜子",
+        "onboard_time": 1703548471,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240498,
+        "num": 240498,
+        "word": "同学你好这里不能写字",
+        "onboard_time": 1703549492,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290841,
+        "num": 239781,
+        "word": "经常吃这些食物更容易患糖尿病",
+        "onboard_time": 1703553874,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243738,
+        "num": 239349,
+        "word": "有些老年痴呆30到40岁就有苗头了",
+        "onboard_time": 1703554171,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238717,
+        "num": 238717,
+        "word": "年底进口化妆品价格跳水几乎腰斩",
+        "onboard_time": 1703556154,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 228413,
+        "num": 228413,
+        "word": "本地泡菜太贵韩国人囤中国泡菜",
+        "onboard_time": 1703557293,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228184,
+        "num": 228184,
+        "word": "赵昭仪的担心真的多虑了",
+        "onboard_time": 1703555252,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221116,
+        "num": 221116,
+        "word": "当周深汪苏泷得知对手是韩红时",
+        "onboard_time": 1703551415,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213712,
+        "num": 213712,
+        "word": "特斯拉失控撞山致5人受伤",
+        "onboard_time": 1703557653,
+        "rank": 26,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 196489,
+        "num": 196489,
+        "word": "谢谢你出生之后一直等我",
+        "onboard_time": 1703555373,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186512,
+        "num": 186512,
+        "word": "超雄综合征",
+        "onboard_time": 1703557955,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166095,
+        "num": 166095,
+        "word": "吴磊银色王冠",
+        "onboard_time": 1703547326,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164363,
+        "num": 164363,
+        "word": "陈卓璇英文",
+        "onboard_time": 1703558193,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151343,
+        "num": 151343,
+        "word": "魔兽世界社区已重新在网易大神上线",
+        "onboard_time": 1703556933,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145547,
+        "num": 145547,
+        "word": "陈都灵下眼影 红色渐变感晕染",
+        "onboard_time": 1703550876,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141773,
+        "num": 141773,
+        "word": "鸣龙少年 校长",
+        "onboard_time": 1703554773,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139116,
+        "num": 139116,
+        "word": "内娱人自己也无法超越的TOP角色",
+        "onboard_time": 1703552194,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135745,
+        "num": 135745,
+        "word": "化妆前敷面膜真的有用吗",
+        "onboard_time": 1703556813,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 129879,
+        "num": 129879,
+        "word": "试验二十四号C卫星成功发射",
+        "onboard_time": 1703557473,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128278,
+        "num": 128278,
+        "word": "本溪花28亿外包环卫却除不干净雪",
+        "onboard_time": 1703536514,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 127049,
+        "num": 127049,
+        "word": "把毕业论文打印成了小票",
+        "onboard_time": 1703547566,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124761,
+        "num": 124761,
+        "word": "莫言写书有多快",
+        "onboard_time": 1703557234,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 124524,
+        "num": 124524,
+        "word": "第一眼看到的3个单词就是你2024年",
+        "onboard_time": 1703557711,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124365,
+        "num": 124365,
+        "word": "我们只是师生关系 你越界了",
+        "onboard_time": 1703500956,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116385,
+        "num": 116385,
+        "word": "2024天蝎座年度关键词",
+        "onboard_time": 1703516615,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113358,
+        "num": 113358,
+        "word": "姐姐与妹妹争吵后将其双手肌腱割断",
+        "onboard_time": 1703509420,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113215,
+        "num": 113215,
+        "word": "魏晨醉酒戏真的喝了",
+        "onboard_time": 1703522786,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150013,
+        "num": 110532,
+        "word": "董宇辉一气呵成讲人类历史",
+        "onboard_time": 1703549011,
+        "rank": 45,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 103289,
+        "num": 103289,
+        "word": "成毅文明打码见外了",
+        "onboard_time": 1703551114,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98948,
+        "num": 98948,
+        "word": "十个勤天西装正经不了三秒",
+        "onboard_time": 1703555794,
+        "rank": 47,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 96450,
+        "num": 96450,
+        "word": "广东千万净资产家庭近40万户",
+        "onboard_time": 1703545702,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 93419,
+        "num": 93419,
+        "word": "男子回乡请全村老人免费吃8年饭",
+        "onboard_time": 1703554353,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进重点领域改革#"
+    }
+  }
+}
