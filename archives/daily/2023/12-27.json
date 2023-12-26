@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703625313522,
+  "endTime": 1703626444994,
   "band_list": [
     {
       "raw_hot": 935631,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34892,
+      "num": 34892,
+      "word": "山科大休学学生行凶案凶手被判死刑",
+      "onboard_time": 1703624054,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25972,
       "num": 40663,
       "word": "小狗掉冰河被消防心肺复苏救活",
@@ -475,20 +483,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19274,
-      "num": 19274,
-      "word": "山科大休学学生行凶案凶手被判死刑",
-      "onboard_time": 1703624054,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16351,
       "num": 21187,
       "word": "猫咪 别在这里发电",
       "onboard_time": 1703614100,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16066,
+      "num": 16066,
+      "word": "阿音 短暂一生悲剧收尾",
+      "onboard_time": 1703623635,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 15572,
@@ -499,20 +507,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 13233,
-      "num": 13233,
-      "word": "阿音 短暂一生悲剧收尾",
-      "onboard_time": 1703623635,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 13135,
       "num": 19806,
       "word": "馒头夹香肠山东人的快乐",
       "onboard_time": 1703616077,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 11234,
+      "num": 11234,
+      "word": "太爷爷带着孙子骑车兜风",
+      "onboard_time": 1703625732,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 10521,
