@@ -1,0 +1,410 @@
+{
+  "runTime": 1703554407596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1617530,
+        "num": 1617530,
+        "word": "23岁的普通人到底应该有多少钱",
+        "onboard_time": 1703547747,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1112174,
+        "num": 1112174,
+        "word": "去有风的地方获200万元补助",
+        "onboard_time": 1703550273,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71016,
+        "num": 643527,
+        "word": "网信办处置一批仿冒企业诈骗网站",
+        "onboard_time": 1703552374,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555895,
+        "num": 555895,
+        "word": "毛主席诞辰130周年",
+        "onboard_time": 1703547326,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 495910,
+        "num": 495910,
+        "word": "大熊猫睡觉口水被冻成冰溜子",
+        "onboard_time": 1703548471,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478410,
+        "num": 478410,
+        "word": "网易暴雪复合",
+        "onboard_time": 1703502338,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 422580,
+        "num": 422580,
+        "word": "同学你好这里不能写字",
+        "onboard_time": 1703549492,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401775,
+        "num": 401775,
+        "word": "冯小刚三句话不离优子",
+        "onboard_time": 1703550029,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400758,
+        "num": 400758,
+        "word": "本溪花28亿外包环卫却除不干净雪",
+        "onboard_time": 1703536514,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 310506,
+        "num": 310506,
+        "word": "陈都灵下眼影 红色渐变感晕染",
+        "onboard_time": 1703550876,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1465694,
+        "num": 310420,
+        "word": "订婚强奸案后女方家属想尽快结婚",
+        "onboard_time": 1703511515,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1155341,
+        "num": 307163,
+        "word": "况盛",
+        "onboard_time": 1703547266,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 923866,
+        "num": 303504,
+        "word": "女子遭未婚夫强奸曾逃出房呼救被拖回",
+        "onboard_time": 1703510916,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395950,
+        "num": 301304,
+        "word": "董宇辉一气呵成讲人类历史",
+        "onboard_time": 1703549011,
+        "rank": 13,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 300795,
+        "num": 300795,
+        "word": "姐姐与妹妹争吵后将其双手肌腱割断",
+        "onboard_time": 1703509420,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294106,
+        "num": 294106,
+        "word": "我们只是师生关系 你越界了",
+        "onboard_time": 1703500956,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272672,
+        "num": 272672,
+        "word": "警方通报理想L7清远2死1伤车祸",
+        "onboard_time": 1703541314,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255966,
+        "num": 255966,
+        "word": "广东千万净资产家庭近40万户",
+        "onboard_time": 1703545702,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 241780,
+        "num": 241780,
+        "word": "男子买房放女友名下分手后全要回",
+        "onboard_time": 1703513135,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225500,
+        "num": 225500,
+        "word": "你跟他讲道理 他跟你讲伦理",
+        "onboard_time": 1703545220,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275409,
+        "num": 221655,
+        "word": "经常吃这些食物更容易患糖尿病",
+        "onboard_time": 1703553874,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238608,
+        "num": 220604,
+        "word": "把毕业论文打印成了小票",
+        "onboard_time": 1703547566,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217255,
+        "num": 217255,
+        "word": "当周深汪苏泷得知对手是韩红时",
+        "onboard_time": 1703551415,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214580,
+        "num": 214580,
+        "word": "内娱人自己也无法超越的TOP角色",
+        "onboard_time": 1703552194,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198496,
+        "num": 198496,
+        "word": "魏晨醉酒戏真的喝了",
+        "onboard_time": 1703522786,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191290,
+        "num": 191290,
+        "word": "男子隔空猥亵8名幼女获刑7年半",
+        "onboard_time": 1703506474,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181711,
+        "num": 181711,
+        "word": "为什么大家又爱上头戴式耳机",
+        "onboard_time": 1703516136,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181651,
+        "num": 181651,
+        "word": "2024天蝎座年度关键词",
+        "onboard_time": 1703516615,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180886,
+        "num": 180886,
+        "word": "吴磊银色王冠",
+        "onboard_time": 1703547326,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177256,
+        "num": 177256,
+        "word": "张雨绮肩膀上好大的两朵花",
+        "onboard_time": 1703520451,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172736,
+        "num": 172736,
+        "word": "成毅文明打码见外了",
+        "onboard_time": 1703551114,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161691,
+        "num": 161691,
+        "word": "浓眉苦苦支撑",
+        "onboard_time": 1703553275,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152205,
+        "num": 152205,
+        "word": "紫金陈考虑把1818黄金眼写进书",
+        "onboard_time": 1703552257,
+        "rank": 32,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 147955,
+        "num": 147955,
+        "word": "2023国际乒联年终排名",
+        "onboard_time": 1703553874,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146783,
+        "num": 146783,
+        "word": "暴雪国服回归为何最大绯闻对象仍是网易",
+        "onboard_time": 1703553275,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140372,
+        "num": 140372,
+        "word": "3D还原订婚强奸案",
+        "onboard_time": 1703502215,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139547,
+        "num": 139547,
+        "word": "胡海泉再被冻结115万股权",
+        "onboard_time": 1703554231,
+        "rank": 36,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 137855,
+        "num": 137855,
+        "word": "订婚强奸案男方亲属发声",
+        "onboard_time": 1703509176,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137518,
+        "num": 137518,
+        "word": "薛之谦 吉隆坡",
+        "onboard_time": 1703549912,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136629,
+        "num": 136629,
+        "word": "有仇必报紫金陈",
+        "onboard_time": 1703552855,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 132717,
+        "num": 132717,
+        "word": "迪士尼 狐朋狗友",
+        "onboard_time": 1703551896,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132568,
+        "num": 132568,
+        "word": "网友质疑理想汽车侵犯隐私",
+        "onboard_time": 1703551716,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130651,
+        "num": 130651,
+        "word": "长头发小技巧",
+        "onboard_time": 1703552493,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 128305,
+        "num": 128305,
+        "word": "林长民爱女儿林徽因的方式",
+        "onboard_time": 1703548950,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 122396,
+        "num": 122396,
+        "word": "男子回乡请全村老人免费吃8年饭",
+        "onboard_time": 1703554353,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120027,
+        "num": 120027,
+        "word": "杜兰特对太阳沮丧",
+        "onboard_time": 1703552792,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119784,
+        "num": 119784,
+        "word": "月经推迟 身体缺血",
+        "onboard_time": 1703498377,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115036,
+        "num": 115036,
+        "word": "大便出现这些异常千万要当心",
+        "onboard_time": 1703509477,
+        "rank": 47,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 112873,
+        "num": 112873,
+        "word": "有些老年痴呆30到40岁就有苗头了",
+        "onboard_time": 1703554171,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108019,
+        "num": 108019,
+        "word": "贴身衣物穿黑色易患癌系谣传",
+        "onboard_time": 1703554231,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}

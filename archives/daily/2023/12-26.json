@@ -1,6 +1,6 @@
 {
   "startTime": 1703521370249,
-  "endTime": 1703553190225,
+  "endTime": 1703554407596,
   "band_list": [
     {
       "raw_hot": 1829484,
@@ -11,7 +11,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1307556,
+      "raw_hot": 1465694,
       "num": 453788,
       "word": "订婚强奸案后女方家属想尽快结婚",
       "onboard_time": 1703511515,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1078426,
-      "num": 1078426,
+      "raw_hot": 1112174,
+      "num": 1112174,
       "word": "去有风的地方获200万元补助",
       "onboard_time": 1703550273,
       "rank": 1,
@@ -113,6 +113,14 @@
       "onboard_time": 1703549011,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 422580,
+      "num": 422580,
+      "word": "同学你好这里不能写字",
+      "onboard_time": 1703549492,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 396774,
@@ -211,12 +219,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 261937,
-      "num": 261937,
-      "word": "同学你好这里不能写字",
-      "onboard_time": 1703549492,
-      "rank": 19,
-      "category": "幽默"
+      "raw_hot": 275409,
+      "num": 221655,
+      "word": "经常吃这些食物更容易患糖尿病",
+      "onboard_time": 1703553874,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 257877,
@@ -259,6 +267,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 217255,
+      "num": 217255,
+      "word": "当周深汪苏泷得知对手是韩红时",
+      "onboard_time": 1703551415,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 214580,
+      "num": 214580,
+      "word": "内娱人自己也无法超越的TOP角色",
+      "onboard_time": 1703552194,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213127,
       "num": 213127,
       "word": "王一博新歌歌词",
@@ -288,6 +312,14 @@
       "word": "孙红雷含泪cue张艺兴",
       "onboard_time": 1703499275,
       "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 198496,
+      "num": 198496,
+      "word": "魏晨醉酒戏真的喝了",
+      "onboard_time": 1703522786,
+      "rank": 24,
       "category": "电影"
     },
     {
@@ -323,28 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186728,
-      "num": 186728,
-      "word": "当周深汪苏泷得知对手是韩红时",
-      "onboard_time": 1703551415,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184481,
       "num": 151501,
       "word": "大便出现这些异常千万要当心",
       "onboard_time": 1703509477,
       "rank": 22,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 183032,
-      "num": 183032,
-      "word": "魏晨醉酒戏真的喝了",
-      "onboard_time": 1703522786,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 179422,
@@ -363,12 +379,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 170187,
-      "num": 170187,
-      "word": "内娱人自己也无法超越的TOP角色",
-      "onboard_time": 1703552194,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 172736,
+      "num": 172736,
+      "word": "成毅文明打码见外了",
+      "onboard_time": 1703551114,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 168386,
@@ -395,12 +411,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 158266,
-      "num": 158266,
-      "word": "成毅文明打码见外了",
-      "onboard_time": 1703551114,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 161691,
+      "num": 161691,
+      "word": "浓眉苦苦支撑",
+      "onboard_time": 1703553275,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 155793,
@@ -427,12 +443,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147955,
+      "num": 147955,
+      "word": "2023国际乒联年终排名",
+      "onboard_time": 1703553874,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147572,
       "num": 147572,
       "word": "考研戒断反应",
       "onboard_time": 1703515414,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 146783,
+      "num": 146783,
+      "word": "暴雪国服回归为何最大绯闻对象仍是网易",
+      "onboard_time": 1703553275,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 139547,
+      "num": 139547,
+      "word": "胡海泉再被冻结115万股权",
+      "onboard_time": 1703554231,
+      "rank": 36,
+      "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 136629,
+      "num": 136629,
+      "word": "有仇必报紫金陈",
+      "onboard_time": 1703552855,
+      "rank": 43,
+      "category": "读书作家"
     },
     {
       "raw_hot": 133474,
@@ -451,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130651,
+      "num": 130651,
+      "word": "长头发小技巧",
+      "onboard_time": 1703552493,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 127477,
       "num": 127477,
       "word": "杜兰特对太阳沮丧",
@@ -459,20 +515,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122396,
+      "num": 122396,
+      "word": "男子回乡请全村老人免费吃8年饭",
+      "onboard_time": 1703554353,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121233,
       "num": 121233,
       "word": "5亿辈子很长吗 武艺被子就是短",
       "onboard_time": 1703504496,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121155,
-      "num": 121155,
-      "word": "有仇必报紫金陈",
-      "onboard_time": 1703552855,
-      "rank": 43,
-      "category": "读书作家"
     },
     {
       "raw_hot": 120468,
@@ -491,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112873,
+      "num": 112873,
+      "word": "有些老年痴呆30到40岁就有苗头了",
+      "onboard_time": 1703554171,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112209,
       "num": 112209,
       "word": "易烊千玺是艾佳妮心目中的女婿标杆",
@@ -499,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103687,
-      "num": 103687,
-      "word": "长头发小技巧",
-      "onboard_time": 1703552493,
-      "rank": 46,
-      "category": "美妆"
+      "raw_hot": 108019,
+      "num": 108019,
+      "word": "贴身衣物穿黑色易患癌系谣传",
+      "onboard_time": 1703554231,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103197,
@@ -675,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71016,
+      "num": 643527,
+      "word": "网信办处置一批仿冒企业诈骗网站",
+      "onboard_time": 1703552374,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70818,
       "num": 93959,
       "word": "原来长大后真的会去弥补童年",
@@ -721,14 +793,6 @@
       "onboard_time": 1703514276,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56085,
-      "num": 589401,
-      "word": "网信办处置一批仿冒企业诈骗网站",
-      "onboard_time": 1703552374,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51455,
