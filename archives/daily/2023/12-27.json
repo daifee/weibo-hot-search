@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703612039385,
+  "endTime": 1703614864054,
   "band_list": [
     {
       "raw_hot": 935631,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233731,
+      "num": 233731,
+      "word": "学校花1500万买下大飞机供学生练手",
+      "onboard_time": 1703610262,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213771,
       "num": 213771,
       "word": "晚晚 Valentino到底18条还是19条",
@@ -281,14 +289,6 @@
       "onboard_time": 1703596053,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124392,
-      "num": 155921,
-      "word": "学校花1500万买下大飞机供学生练手",
-      "onboard_time": 1703610262,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120256,
@@ -457,6 +457,14 @@
       "onboard_time": 1703611760,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22672,
+      "num": 25078,
+      "word": "你是流动的 别停下来",
+      "onboard_time": 1703613618,
+      "rank": 47,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
