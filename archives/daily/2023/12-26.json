@@ -1,6 +1,6 @@
 {
   "startTime": 1703521370249,
-  "endTime": 1703596774413,
+  "endTime": 1703597638620,
   "band_list": [
     {
       "raw_hot": 3837371,
@@ -83,8 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1594046,
-      "num": 1594046,
+      "raw_hot": 1670484,
+      "num": 1670484,
       "word": "青簪行有消息了",
       "onboard_time": 1703594973,
       "rank": 0,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 885986,
+      "num": 885986,
+      "word": "鞠婧祎方辟谣和刘宇宁合作",
+      "onboard_time": 1703594794,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 865116,
       "num": 865116,
       "word": "赵丽颖知否知否独唱版",
@@ -347,8 +355,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 671910,
-      "num": 230840,
+      "raw_hot": 672881,
+      "num": 241893,
       "word": "孕妇因一口草莓吐血差点丧命",
       "onboard_time": 1703593234,
       "rank": 21,
@@ -361,14 +369,6 @@
       "onboard_time": 1703583033,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 654081,
-      "num": 455127,
-      "word": "鞠婧祎方辟谣和刘宇宁合作",
-      "onboard_time": 1703594794,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 638479,
@@ -427,6 +427,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 600989,
+      "num": 530971,
+      "word": "香港演员黎淑贤去世",
+      "onboard_time": 1703597256,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 599416,
+      "num": 599416,
+      "word": "腿不直原来才是正常的",
+      "onboard_time": 1703595755,
+      "rank": 17,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 590077,
+      "num": 590077,
+      "word": "江苏一公司不发工资发积分",
+      "onboard_time": 1703593473,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588578,
       "num": 588578,
       "word": "EDG 天才",
@@ -481,14 +505,6 @@
       "onboard_time": 1703518055,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 563731,
-      "num": 563731,
-      "word": "江苏一公司不发工资发积分",
-      "onboard_time": 1703593473,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 557546,
@@ -851,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354545,
+      "num": 335239,
+      "word": "辛芷蕾 哑巴额娘",
+      "onboard_time": 1703596413,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 341960,
       "num": 341960,
       "word": "他只是做错题 又没有做错人",
@@ -1011,20 +1035,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291530,
+      "num": 291530,
+      "word": "电子请柬 社死",
+      "onboard_time": 1703595996,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 287322,
       "num": 287322,
       "word": "詹库杜全拉了",
       "onboard_time": 1703572593,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286347,
-      "num": 286347,
-      "word": "腿不直原来才是正常的",
-      "onboard_time": 1703595755,
-      "rank": 17,
-      "category": "运动健身"
     },
     {
       "raw_hot": 281134,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1703563658,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253142,
+      "num": 235547,
+      "word": "张晚意 背德文学",
+      "onboard_time": 1703596053,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 252823,
@@ -1451,6 +1483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205678,
+      "num": 188067,
+      "word": "孙丞潇因为金莎夸此沙帅吃醋",
+      "onboard_time": 1703595572,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204748,
       "num": 204748,
       "word": "湖人不敌绿军",
@@ -1491,23 +1531,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 199988,
-      "num": 199988,
-      "word": "孙红雷含泪cue张艺兴",
-      "onboard_time": 1703499275,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 199947,
-      "num": 199947,
-      "word": "张晚意 背德文学",
-      "onboard_time": 1703596053,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 199054,
+      "raw_hot": 200304,
       "num": 180809,
       "word": "三大队 俄罗斯方块线索",
       "onboard_time": 1703596053,
@@ -1515,12 +1539,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 198928,
-      "num": 180752,
-      "word": "电子请柬 社死",
-      "onboard_time": 1703595996,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 199988,
+      "num": 199988,
+      "word": "孙红雷含泪cue张艺兴",
+      "onboard_time": 1703499275,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 198692,
@@ -1675,14 +1699,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 188067,
-      "num": 188067,
-      "word": "孙丞潇因为金莎夸此沙帅吃醋",
-      "onboard_time": 1703595572,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187773,
       "num": 187773,
       "word": "时代少年团 宋亚轩碎碎念",
@@ -1697,14 +1713,6 @@
       "onboard_time": 1703571818,
       "rank": 34,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 185242,
-      "num": 185242,
-      "word": "辛芷蕾 哑巴额娘",
-      "onboard_time": 1703596413,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 184481,
@@ -1777,6 +1785,22 @@
       "onboard_time": 1703578718,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174366,
+      "num": 174366,
+      "word": "今年小说TOP推荐",
+      "onboard_time": 1703596595,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 173147,
+      "num": 173147,
+      "word": "想看贾玲张小斐",
+      "onboard_time": 1703597432,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 173140,
@@ -1907,6 +1931,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 162104,
+      "num": 173227,
+      "word": "新人花400元租公交车当婚车",
+      "onboard_time": 1703596773,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162070,
       "num": 162070,
       "word": "最美的夜刮刮卡把节目透了一半",
@@ -1929,6 +1961,14 @@
       "onboard_time": 1703584235,
       "rank": 6,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 159246,
+      "num": 153558,
+      "word": "魏晨 调起猛了",
+      "onboard_time": 1703597313,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 159226,
@@ -2323,14 +2363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127154,
-      "num": 127154,
-      "word": "今年小说TOP推荐",
-      "onboard_time": 1703596595,
-      "rank": 43,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 126674,
       "num": 126674,
       "word": "2023TOP播客",
@@ -2377,6 +2409,14 @@
       "onboard_time": 1703557711,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122941,
+      "num": 122941,
+      "word": "你用电热毯一般开多久",
+      "onboard_time": 1703594373,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122396,
@@ -2497,14 +2537,6 @@
       "onboard_time": 1703594735,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110441,
-      "num": 110441,
-      "word": "你用电热毯一般开多久",
-      "onboard_time": 1703594373,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108019,
