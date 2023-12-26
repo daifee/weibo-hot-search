@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703589275791,
+  "endTime": 1703590448778,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2953596,
+      "num": 2953596,
+      "word": "羽生结弦前妻首度发声",
+      "onboard_time": 1703588433,
+      "rank": 0,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 2824075,
       "num": 1375802,
       "word": "女研究生制售色情书被抓",
@@ -131,12 +139,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2423193,
-      "num": 2423193,
-      "word": "羽生结弦前妻首度发声",
-      "onboard_time": 1703588433,
-      "rank": 0,
-      "category": "体育,网红"
+      "raw_hot": 2379641,
+      "num": 2379641,
+      "word": "明星助理工资5000块",
+      "onboard_time": 1703588673,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2344608,
@@ -851,6 +859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 830198,
+      "num": 830198,
+      "word": "老师 我们家沈腾马丽呢",
+      "onboard_time": 1703589035,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 816524,
       "num": 816524,
       "word": "姐姐与妹妹争吵后将其双手肌腱割断",
@@ -897,6 +913,14 @@
       "onboard_time": 1703576493,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 787166,
+      "num": 787166,
+      "word": "最难嗑CP",
+      "onboard_time": 1703584896,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 785351,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1703473415,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 710753,
-      "num": 710753,
-      "word": "最难嗑CP",
-      "onboard_time": 1703584896,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 700133,
@@ -1305,14 +1321,6 @@
       "onboard_time": 1703465735,
       "rank": 11,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 623027,
-      "num": 623027,
-      "word": "明星助理工资5000块",
-      "onboard_time": 1703588673,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 620376,
@@ -1852,7 +1860,7 @@
     },
     {
       "raw_hot": 479153,
-      "num": 1554482,
+      "num": 2396772,
       "word": "3岁娃介绍家庭成员唯独忘了警察爸爸",
       "onboard_time": 1703584534,
       "rank": 1,
@@ -1865,6 +1873,14 @@
       "onboard_time": 1703394214,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477938,
+      "num": 477938,
+      "word": "邓为经纪公司仅2人参保",
+      "onboard_time": 1703588794,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 475947,
@@ -2105,6 +2121,14 @@
       "onboard_time": 1703412274,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 428066,
+      "num": 428066,
+      "word": "冻梨 吸妃回宫了",
+      "onboard_time": 1703588312,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 427410,
@@ -2611,14 +2635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 335562,
-      "num": 335562,
-      "word": "冻梨 吸妃回宫了",
-      "onboard_time": 1703588312,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 334954,
       "num": 334954,
       "word": "迪士尼",
@@ -2721,6 +2737,14 @@
       "onboard_time": 1703396192,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321889,
+      "num": 321889,
+      "word": "雷军回应小米汽车定价",
+      "onboard_time": 1703588974,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 321373,
@@ -3659,6 +3683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238570,
+      "num": 187833,
+      "word": "papi酱 我的导购妈妈",
+      "onboard_time": 1703588433,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238011,
       "num": 238011,
       "word": "张晚意第一部现偶剧",
@@ -3777,14 +3809,6 @@
       "onboard_time": 1703403692,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231468,
-      "num": 231468,
-      "word": "邓为经纪公司仅2人参保",
-      "onboard_time": 1703588794,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 230665,
@@ -4411,14 +4435,6 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 199466,
-      "num": 199466,
-      "word": "老师 我们家沈腾马丽呢",
-      "onboard_time": 1703589035,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199360,
       "num": 199360,
       "word": "361官宣签下约基奇",
@@ -4793,14 +4809,6 @@
       "onboard_time": 1703551896,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 187833,
-      "num": 187833,
-      "word": "papi酱 我的导购妈妈",
-      "onboard_time": 1703588433,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 187483,
@@ -5219,6 +5227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172748,
+      "num": 172748,
+      "word": "纪念毛泽东同志诞辰130周年座谈会",
+      "onboard_time": 1703589696,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172736,
       "num": 172736,
       "word": "成毅文明打码见外了",
@@ -5475,14 +5491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 164853,
-      "num": 164853,
-      "word": "雷军回应小米汽车定价",
-      "onboard_time": 1703588974,
-      "rank": 39,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 164840,
       "num": 164840,
       "word": "赵冬苓转发张巍相关采访",
@@ -5617,6 +5625,14 @@
       "onboard_time": 1703503533,
       "rank": 33,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 159998,
+      "num": 1351021,
+      "word": "消防员冲进火场一把抱起小孩就跑",
+      "onboard_time": 1703584235,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 159671,
@@ -6211,14 +6227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143344,
-      "num": 1030918,
-      "word": "消防员冲进火场一把抱起小孩就跑",
-      "onboard_time": 1703584235,
-      "rank": 6,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 143261,
       "num": 143261,
       "word": "看了八秒才确定这是猫",
@@ -6523,6 +6531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134374,
+      "num": 134374,
+      "word": "韩味腮红",
+      "onboard_time": 1703589393,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 134051,
       "num": 134051,
       "word": "地震致青海海东32人遇难",
@@ -6817,6 +6833,14 @@
       "onboard_time": 1703487154,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126674,
+      "num": 126674,
+      "word": "2023TOP播客",
+      "onboard_time": 1703590172,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 126636,
@@ -7940,7 +7964,7 @@
     },
     {
       "raw_hot": 37850,
-      "num": 1399993,
+      "num": 2382547,
       "word": "2023中国时刻",
       "onboard_time": 1703580577,
       "rank": 2,
