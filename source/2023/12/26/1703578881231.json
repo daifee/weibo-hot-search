@@ -1,0 +1,410 @@
+{
+  "runTime": 1703578881231,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2535506,
+        "num": 2535506,
+        "word": "麦当劳明起涨价",
+        "onboard_time": 1703574157,
+        "rank": 0,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 1169110,
+        "num": 1169110,
+        "word": "金莎因为孙丞潇戴初恋送的项链哭了",
+        "onboard_time": 1703570974,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37943,
+        "num": 862655,
+        "word": "甘肃震区已有序复商复市复课",
+        "onboard_time": 1703562454,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796200,
+        "num": 796200,
+        "word": "迪丽热巴告别克罗地亚",
+        "onboard_time": 1703576493,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 688992,
+        "num": 688992,
+        "word": "华为耳夹耳机",
+        "onboard_time": 1703577217,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 588995,
+        "num": 588995,
+        "word": "官方回应加鹅羽绒服疑被挂闲鱼倒卖",
+        "onboard_time": 1703570974,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527509,
+        "num": 527509,
+        "word": "南京胖哥说如果重来不会再去肉搏",
+        "onboard_time": 1703576614,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512700,
+        "num": 512700,
+        "word": "董明珠称矿井空调让矿工从裸体上班到穿西装",
+        "onboard_time": 1703571515,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507599,
+        "num": 507599,
+        "word": "我知道我爱你 男一人设",
+        "onboard_time": 1703571456,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265954,
+        "num": 507469,
+        "word": "我国北斗系统性能再次提升",
+        "onboard_time": 1703577694,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78602,
+        "num": 506696,
+        "word": "nova12搭载鸿蒙智慧通信",
+        "onboard_time": 1703575597,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 898583,
+        "num": 506010,
+        "word": "月经推迟可不只有贫血",
+        "onboard_time": 1703566177,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 603702,
+        "num": 505635,
+        "word": "迪丽热巴与摄像头决裂",
+        "onboard_time": 1703576316,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538587,
+        "num": 505093,
+        "word": "网红狐狸死在雪地里",
+        "onboard_time": 1703560654,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552244,
+        "num": 504551,
+        "word": "王安宇胡先煦饭都不香了",
+        "onboard_time": 1703576976,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504309,
+        "num": 504309,
+        "word": "娜然说封神上映后头发白了一半",
+        "onboard_time": 1703572415,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 391048,
+        "num": 391048,
+        "word": "柠萌影视请徐梦洁拍兽药广告被罚",
+        "onboard_time": 1703573074,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374665,
+        "num": 374665,
+        "word": "这不得租个房子慢慢吃",
+        "onboard_time": 1703570736,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 337895,
+        "num": 337895,
+        "word": "华为发布会",
+        "onboard_time": 1703575236,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 335053,
+        "num": 335053,
+        "word": "王传君希望王鹤棣演他爸爸",
+        "onboard_time": 1703573495,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379071,
+        "num": 334906,
+        "word": "象棋比赛的肛珠作弊是什么",
+        "onboard_time": 1703576854,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332275,
+        "num": 332275,
+        "word": "排尿时发现这6个异常应及早检查",
+        "onboard_time": 1703570736,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 325652,
+        "num": 325652,
+        "word": "春夜",
+        "onboard_time": 1703577336,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321014,
+        "num": 321014,
+        "word": "不要和同班同学谈恋爱",
+        "onboard_time": 1703578236,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299605,
+        "num": 299605,
+        "word": "陶勇回应近期网络风波",
+        "onboard_time": 1703564918,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295121,
+        "num": 295121,
+        "word": "狼队 抽象",
+        "onboard_time": 1703577459,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 287626,
+        "num": 287626,
+        "word": "建议关闭免密支付功能",
+        "onboard_time": 1703569055,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286084,
+        "num": 286084,
+        "word": "震区加鹅羽绒服疑被挂闲鱼倒卖",
+        "onboard_time": 1703572834,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263064,
+        "num": 263064,
+        "word": "吴千语施伯雄求婚视频",
+        "onboard_time": 1703575236,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130787,
+        "num": 250395,
+        "word": "电热毯不要直接接触皮肤",
+        "onboard_time": 1703571818,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 241658,
+        "num": 241658,
+        "word": "华为nova12发布",
+        "onboard_time": 1703574277,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 220380,
+        "num": 220380,
+        "word": "问界M9",
+        "onboard_time": 1703575360,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 213984,
+        "num": 213984,
+        "word": "禾伙人",
+        "onboard_time": 1703576014,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212117,
+        "num": 212117,
+        "word": "订婚强奸案后女方家属想尽快结婚",
+        "onboard_time": 1703511515,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210452,
+        "num": 210452,
+        "word": "肺结节离肺癌还有非常远的距离",
+        "onboard_time": 1703573856,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196401,
+        "num": 196401,
+        "word": "公司一年多骗领生育津贴980万元",
+        "onboard_time": 1703564918,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188711,
+        "num": 188711,
+        "word": "花海澜如约而至",
+        "onboard_time": 1703578236,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182886,
+        "num": 182886,
+        "word": "少年歌行2 原班人马",
+        "onboard_time": 1703562996,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179154,
+        "num": 179154,
+        "word": "韩后创始人卖豪宅还债",
+        "onboard_time": 1703564497,
+        "rank": 38,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 176485,
+        "num": 176485,
+        "word": "蒙古科目三",
+        "onboard_time": 1703578535,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175615,
+        "num": 175615,
+        "word": "第一次吃冻梨",
+        "onboard_time": 1703574637,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168267,
+        "num": 168267,
+        "word": "曲敏被决定逮捕",
+        "onboard_time": 1703575956,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160088,
+        "num": 160088,
+        "word": "股市",
+        "onboard_time": 1703564079,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145833,
+        "num": 145833,
+        "word": "李灿签售延期",
+        "onboard_time": 1703576435,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143092,
+        "num": 143092,
+        "word": "北京二手房业主连夜涨价",
+        "onboard_time": 1703573016,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140993,
+        "num": 140993,
+        "word": "青年教师月薪被指难养家糊口",
+        "onboard_time": 1703570673,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135777,
+        "num": 135777,
+        "word": "小猫 你再玩一个手机试试呢",
+        "onboard_time": 1703577274,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135145,
+        "num": 135145,
+        "word": "无心是刘学义吗",
+        "onboard_time": 1703567258,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132818,
+        "num": 132818,
+        "word": "庄达菲工作人员当众摸鱼",
+        "onboard_time": 1703578776,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50939,
+        "num": 131075,
+        "word": "问界M9满配十屏",
+        "onboard_time": 1703576674,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}
