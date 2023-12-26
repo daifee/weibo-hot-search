@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703621886918,
+  "endTime": 1703622868334,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -8995,20 +8995,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 15572,
+      "num": 16177,
+      "word": "下雪能让人少生病是真的吗",
+      "onboard_time": 1703618415,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 15223,
       "num": 15223,
       "word": "真爱至上",
       "onboard_time": 1703449574,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 15063,
-      "num": 15652,
-      "word": "下雪能让人少生病是真的吗",
-      "onboard_time": 1703618415,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 15056,
