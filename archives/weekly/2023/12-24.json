@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703622868334,
+  "endTime": 1703625313522,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -8955,6 +8955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19274,
+      "num": 19274,
+      "word": "山科大休学学生行凶案凶手被判死刑",
+      "onboard_time": 1703624054,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18271,
       "num": 24860,
       "word": "在家走一万步",
@@ -9019,6 +9027,14 @@
       "category": "剧集,时尚"
     },
     {
+      "raw_hot": 13233,
+      "num": 13233,
+      "word": "阿音 短暂一生悲剧收尾",
+      "onboard_time": 1703623635,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13135,
       "num": 19806,
       "word": "馒头夹香肠山东人的快乐",
@@ -9041,6 +9057,14 @@
       "onboard_time": 1703364493,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10521,
+      "num": 10521,
+      "word": "繁花预约破300万",
+      "onboard_time": 1703624712,
+      "rank": 48,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
