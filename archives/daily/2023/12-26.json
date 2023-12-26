@@ -1,6 +1,6 @@
 {
   "startTime": 1703521370249,
-  "endTime": 1703600134279,
+  "endTime": 1703601243733,
   "band_list": [
     {
       "raw_hot": 3837371,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2053975,
-      "num": 2053975,
+      "raw_hot": 2187813,
+      "num": 2187813,
       "word": "人生若如初见 空降",
       "onboard_time": 1703598456,
       "rank": 0,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1210869,
+      "num": 1210869,
+      "word": "家长被通知接走发烧孩子后大怒",
+      "onboard_time": 1703599418,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1184997,
       "num": 1184997,
       "word": "张杰谢娜跳单案中介公司注销",
@@ -188,11 +196,19 @@
     },
     {
       "raw_hot": 1080089,
-      "num": 775396,
+      "num": 1004029,
       "word": "香港演员黎淑贤去世",
       "onboard_time": 1703597256,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1079846,
+      "num": 1079846,
+      "word": "莎头 可口可乐",
+      "onboard_time": 1703599658,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 1073656,
@@ -232,6 +248,14 @@
       "word": "女子酒店里踩空摔瘫痪获赔119万",
       "onboard_time": 1703580394,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 890987,
+      "num": 890987,
+      "word": "央视揭朋友圈少儿才艺投票骗局",
+      "onboard_time": 1703597975,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -339,15 +363,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 710518,
-      "num": 710518,
-      "word": "央视揭朋友圈少儿才艺投票骗局",
-      "onboard_time": 1703597975,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 703017,
+      "raw_hot": 713749,
       "num": 703017,
       "word": "四川多名医护人员集体爬窗讨薪",
       "onboard_time": 1703598095,
@@ -691,6 +707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 458174,
+      "num": 458174,
+      "word": "王一博顺毛长发",
+      "onboard_time": 1703600077,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 455141,
       "num": 455141,
       "word": "甄嬛传演员进组的第一场戏",
@@ -771,14 +795,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 399697,
-      "num": 399697,
-      "word": "家长被通知接走发烧孩子后大怒",
-      "onboard_time": 1703599418,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 398363,
       "num": 398363,
       "word": "经常吃这些食物更容易患糖尿病",
@@ -817,14 +833,6 @@
       "onboard_time": 1703587893,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 391847,
-      "num": 391847,
-      "word": "王一博顺毛长发",
-      "onboard_time": 1703600077,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 388394,
@@ -939,14 +947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 345596,
-      "num": 345596,
-      "word": "莎头 可口可乐",
-      "onboard_time": 1703599658,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 341960,
       "num": 341960,
       "word": "他只是做错题 又没有做错人",
@@ -1012,7 +1012,7 @@
     },
     {
       "raw_hot": 317992,
-      "num": 1147945,
+      "num": 1202510,
       "word": "我国北斗系统性能再次提升",
       "onboard_time": 1703577694,
       "rank": 9,
@@ -1139,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278960,
+      "num": 278960,
+      "word": "无痛胃镜",
+      "onboard_time": 1703599658,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 274637,
       "num": 274637,
       "word": "月经总推迟或增大不孕风险",
@@ -1187,6 +1195,22 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 261871,
+      "num": 261871,
+      "word": "i人e人 meme图",
+      "onboard_time": 1703599777,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 259750,
+      "num": 259750,
+      "word": "热播剧长尾效应",
+      "onboard_time": 1703600498,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257922,
       "num": 257922,
       "word": "张晚意 背德文学",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1703564618,
       "rank": 34,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 252202,
+      "num": 252202,
+      "word": "碳水晕厥",
+      "onboard_time": 1703599958,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 251273,
@@ -1579,14 +1611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204680,
-      "num": 204680,
-      "word": "无痛胃镜",
-      "onboard_time": 1703599658,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 202620,
       "num": 202620,
       "word": "陈卓璇英文",
@@ -1673,6 +1697,14 @@
       "onboard_time": 1703564795,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195388,
+      "num": 195388,
+      "word": "两个人一起戴的帽子",
+      "onboard_time": 1703600015,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 194780,
@@ -1843,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181704,
+      "num": 181704,
+      "word": "KSG世冠淘汰",
+      "onboard_time": 1703601034,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180659,
       "num": 180659,
       "word": "电影三大队主题路演",
@@ -1875,6 +1915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 176744,
+      "num": 176744,
+      "word": "易烊千玺 跨年电影愿",
+      "onboard_time": 1703601034,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176552,
       "num": 176552,
       "word": "今年小说TOP推荐",
@@ -1905,6 +1953,14 @@
       "onboard_time": 1703597313,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173276,
+      "num": 173276,
+      "word": "TF家族三代齿轮舞台总结",
+      "onboard_time": 1703601160,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173140,
@@ -1947,12 +2003,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169476,
-      "num": 169476,
-      "word": "i人e人 meme图",
-      "onboard_time": 1703599777,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 169785,
+      "num": 169785,
+      "word": "李燃发现雷鸣秘密",
+      "onboard_time": 1703600977,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 168386,
@@ -1977,6 +2033,14 @@
       "onboard_time": 1703573375,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 167025,
+      "num": 174414,
+      "word": "研究生复试准备",
+      "onboard_time": 1703600435,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 166558,
@@ -2187,19 +2251,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153243,
+      "num": 153243,
+      "word": "何猷君以为奚梦瑶说求婚土",
+      "onboard_time": 1703601217,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151693,
       "num": 151693,
       "word": "加拿大最敷衍的地名",
       "onboard_time": 1703568815,
       "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 151493,
-      "num": 151493,
-      "word": "两个人一起戴的帽子",
-      "onboard_time": 1703600015,
-      "rank": 44,
       "category": "幽默"
     },
     {
@@ -2259,14 +2323,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 147545,
-      "num": 147545,
-      "word": "碳水晕厥",
-      "onboard_time": 1703599958,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 147377,
       "num": 147377,
       "word": "冬天里的脆皮年轻人该如何养生",
@@ -2321,6 +2377,14 @@
       "onboard_time": 1703594495,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143088,
+      "num": 147494,
+      "word": "李梦给今年的自己打90分",
+      "onboard_time": 1703601160,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 141276,
@@ -2425,6 +2489,14 @@
       "onboard_time": 1703548950,
       "rank": 40,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 132766,
+      "num": 147413,
+      "word": "我国将系统重塑疾控体系",
+      "onboard_time": 1703601217,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132402,

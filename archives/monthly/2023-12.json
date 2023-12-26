@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703600134279,
+  "endTime": 1703601243733,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -2051,6 +2051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2187813,
+      "num": 2187813,
+      "word": "人生若如初见 空降",
+      "onboard_time": 1703598456,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2187149,
       "num": 2187149,
       "word": "俞敏洪面临CEO董宇辉二选一",
@@ -2305,14 +2313,6 @@
       "onboard_time": 1703323721,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2053975,
-      "num": 2053975,
-      "word": "人生若如初见 空降",
-      "onboard_time": 1703598456,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 2052212,
@@ -5467,6 +5467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1210869,
+      "num": 1210869,
+      "word": "家长被通知接走发烧孩子后大怒",
+      "onboard_time": 1703599418,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1210188,
       "num": 1210188,
       "word": "吴露可逃",
@@ -6380,11 +6388,19 @@
     },
     {
       "raw_hot": 1080089,
-      "num": 775396,
+      "num": 1004029,
       "word": "香港演员黎淑贤去世",
       "onboard_time": 1703597256,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1079846,
+      "num": 1079846,
+      "word": "莎头 可口可乐",
+      "onboard_time": 1703599658,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 1079805,
@@ -8256,6 +8272,14 @@
       "word": "高耀洁医生去世",
       "onboard_time": 1702264653,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 890987,
+      "num": 890987,
+      "word": "央视揭朋友圈少儿才艺投票骗局",
+      "onboard_time": 1703597975,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -11139,6 +11163,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 713749,
+      "num": 703017,
+      "word": "四川多名医护人员集体爬窗讨薪",
+      "onboard_time": 1703598095,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713443,
       "num": 713443,
       "word": "29岁中国男子刺死日本女友",
@@ -11185,14 +11217,6 @@
       "onboard_time": 1701854918,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 710518,
-      "num": 710518,
-      "word": "央视揭朋友圈少儿才艺投票骗局",
-      "onboard_time": 1703597975,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 709235,
@@ -11336,14 +11360,6 @@
       "word": "日本一海岸现大量沙丁鱼尸体",
       "onboard_time": 1702085793,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 703017,
-      "num": 703017,
-      "word": "四川多名医护人员集体爬窗讨薪",
-      "onboard_time": 1703598095,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -19427,6 +19443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458174,
+      "num": 458174,
+      "word": "王一博顺毛长发",
+      "onboard_time": 1703600077,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 458166,
       "num": 653743,
       "word": "雷神崩了",
@@ -22683,14 +22707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399697,
-      "num": 399697,
-      "word": "家长被通知接走发烧孩子后大怒",
-      "onboard_time": 1703599418,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399615,
       "num": 399615,
       "word": "俞敏洪称孙东旭还在现在的团队",
@@ -23209,14 +23225,6 @@
       "onboard_time": 1702394631,
       "rank": 17,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 391847,
-      "num": 391847,
-      "word": "王一博顺毛长发",
-      "onboard_time": 1703600077,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 391673,
@@ -26427,14 +26435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345596,
-      "num": 345596,
-      "word": "莎头 可口可乐",
-      "onboard_time": 1703599658,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 345315,
       "num": 345315,
       "word": "WBG主教练Daeny继续连接",
@@ -28780,7 +28780,7 @@
     },
     {
       "raw_hot": 317992,
-      "num": 1147945,
+      "num": 1202510,
       "word": "我国北斗系统性能再次提升",
       "onboard_time": 1703577694,
       "rank": 9,
@@ -33123,6 +33123,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 278960,
+      "num": 278960,
+      "word": "无痛胃镜",
+      "onboard_time": 1703599658,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 278958,
       "num": 278958,
       "word": "北京的雪呢",
@@ -35155,6 +35163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 261871,
+      "num": 261871,
+      "word": "i人e人 meme图",
+      "onboard_time": 1703599777,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261861,
       "num": 216053,
       "word": "vocal许凯的腹肌",
@@ -35496,6 +35512,14 @@
       "word": "赵嘉敏",
       "onboard_time": 1703296593,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 259750,
+      "num": 259750,
+      "word": "热播剧长尾效应",
+      "onboard_time": 1703600498,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -36673,6 +36697,14 @@
       "onboard_time": 1702566695,
       "rank": 41,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 252202,
+      "num": 252202,
+      "word": "碳水晕厥",
+      "onboard_time": 1703599958,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 252179,
@@ -45467,14 +45499,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 204680,
-      "num": 204680,
-      "word": "无痛胃镜",
-      "onboard_time": 1703599658,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 204673,
       "num": 204673,
       "word": "热依扎红毯妆教",
@@ -48009,6 +48033,14 @@
       "onboard_time": 1701530015,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195388,
+      "num": 195388,
+      "word": "两个人一起戴的帽子",
+      "onboard_time": 1703600015,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 195377,
@@ -52091,6 +52123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181704,
+      "num": 181704,
+      "word": "KSG世冠淘汰",
+      "onboard_time": 1703601034,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181597,
       "num": 181597,
       "word": "黄河要告别地上河了吗",
@@ -53083,6 +53123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176744,
+      "num": 176744,
+      "word": "易烊千玺 跨年电影愿",
+      "onboard_time": 1703601034,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176677,
       "num": 182141,
       "word": "一卡车鲜花售价不到千元",
@@ -53817,6 +53865,14 @@
       "onboard_time": 1703241273,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173276,
+      "num": 173276,
+      "word": "TF家族三代齿轮舞台总结",
+      "onboard_time": 1703601160,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173212,
@@ -54635,6 +54691,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 169785,
+      "num": 169785,
+      "word": "李燃发现雷鸣秘密",
+      "onboard_time": 1703600977,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169780,
       "num": 210221,
       "word": "只有两个人也得整个四菜一汤",
@@ -54729,14 +54793,6 @@
       "onboard_time": 1701692140,
       "rank": 43,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 169476,
-      "num": 169476,
-      "word": "i人e人 meme图",
-      "onboard_time": 1703599777,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 169461,
@@ -55369,6 +55425,14 @@
       "onboard_time": 1703224833,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167025,
+      "num": 174414,
+      "word": "研究生复试准备",
+      "onboard_time": 1703600435,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 166991,
@@ -58667,6 +58731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153243,
+      "num": 153243,
+      "word": "何猷君以为奚梦瑶说求婚土",
+      "onboard_time": 1703601217,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153195,
       "num": 153195,
       "word": "你的新衣服是用来讨好自己的",
@@ -59065,14 +59137,6 @@
       "onboard_time": 1702038455,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151493,
-      "num": 151493,
-      "word": "两个人一起戴的帽子",
-      "onboard_time": 1703600015,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 151478,
@@ -59977,14 +60041,6 @@
       "onboard_time": 1702118315,
       "rank": 46,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 147545,
-      "num": 147545,
-      "word": "碳水晕厥",
-      "onboard_time": 1703599958,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 147532,
@@ -61081,6 +61137,14 @@
       "onboard_time": 1702114593,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 143088,
+      "num": 147494,
+      "word": "李梦给今年的自己打90分",
+      "onboard_time": 1703601160,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 143055,
@@ -63121,6 +63185,14 @@
       "onboard_time": 1701529596,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132766,
+      "num": 147413,
+      "word": "我国将系统重塑疾控体系",
+      "onboard_time": 1703601217,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132693,

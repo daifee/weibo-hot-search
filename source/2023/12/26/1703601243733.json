@@ -1,0 +1,410 @@
+{
+  "runTime": 1703601243733,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2187813,
+        "num": 2187813,
+        "word": "人生若如初见 空降",
+        "onboard_time": 1703598456,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1210869,
+        "num": 1210869,
+        "word": "家长被通知接走发烧孩子后大怒",
+        "onboard_time": 1703599418,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56903,
+        "num": 1202510,
+        "word": "我国北斗系统性能再次提升",
+        "onboard_time": 1703577694,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1195251,
+        "num": 1195251,
+        "word": "青簪行有消息了",
+        "onboard_time": 1703594973,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1079846,
+        "num": 1079846,
+        "word": "莎头 可口可乐",
+        "onboard_time": 1703599658,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1004029,
+        "num": 1004029,
+        "word": "香港演员黎淑贤去世",
+        "onboard_time": 1703597256,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998554,
+        "num": 998554,
+        "word": "腿不直原来才是正常的",
+        "onboard_time": 1703595755,
+        "rank": 6,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 890987,
+        "num": 890987,
+        "word": "央视揭朋友圈少儿才艺投票骗局",
+        "onboard_time": 1703597975,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653103,
+        "num": 653103,
+        "word": "老师 我们家沈腾马丽呢",
+        "onboard_time": 1703589035,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531690,
+        "num": 531690,
+        "word": "一诺 救赎了自己",
+        "onboard_time": 1703597975,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1823946,
+        "num": 517259,
+        "word": "明星助理工资5000块",
+        "onboard_time": 1703588673,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1095988,
+        "num": 516643,
+        "word": "羽生结弦前妻首度发声",
+        "onboard_time": 1703588433,
+        "rank": 11,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 713749,
+        "num": 513890,
+        "word": "四川多名医护人员集体爬窗讨薪",
+        "onboard_time": 1703598095,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493977,
+        "num": 493977,
+        "word": "二手玫瑰 邪剑仙",
+        "onboard_time": 1703597916,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487145,
+        "num": 487145,
+        "word": "鞠婧祎方辟谣和刘宇宁合作",
+        "onboard_time": 1703594794,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467408,
+        "num": 467408,
+        "word": "2024央视春晚彩排",
+        "onboard_time": 1703584955,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458174,
+        "num": 458174,
+        "word": "王一博顺毛长发",
+        "onboard_time": 1703600077,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384754,
+        "num": 384754,
+        "word": "王嘉尔三观",
+        "onboard_time": 1703592874,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342241,
+        "num": 342241,
+        "word": "江苏一公司不发工资发积分",
+        "onboard_time": 1703593473,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326835,
+        "num": 326835,
+        "word": "电子请柬 社死",
+        "onboard_time": 1703595996,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 441926,
+        "num": 325646,
+        "word": "孕妇因一口草莓吐血差点丧命",
+        "onboard_time": 1703593234,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299083,
+        "num": 299083,
+        "word": "麦当劳一年内两次涨价",
+        "onboard_time": 1703599176,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 280023,
+        "num": 280023,
+        "word": "邓为经纪公司仅2人参保",
+        "onboard_time": 1703588794,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278960,
+        "num": 278960,
+        "word": "无痛胃镜",
+        "onboard_time": 1703599658,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 269007,
+        "num": 269007,
+        "word": "闲鱼回应援助加拿大鹅被倒卖",
+        "onboard_time": 1703591672,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261871,
+        "num": 261871,
+        "word": "i人e人 meme图",
+        "onboard_time": 1703599777,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259750,
+        "num": 259750,
+        "word": "热播剧长尾效应",
+        "onboard_time": 1703600498,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252202,
+        "num": 252202,
+        "word": "碳水晕厥",
+        "onboard_time": 1703599958,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246014,
+        "num": 246014,
+        "word": "张晚意 背德文学",
+        "onboard_time": 1703596053,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242477,
+        "num": 242477,
+        "word": "辛芷蕾 哑巴额娘",
+        "onboard_time": 1703596413,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239295,
+        "num": 239295,
+        "word": "麦当劳明起涨价",
+        "onboard_time": 1703574157,
+        "rank": 30,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 204043,
+        "num": 204043,
+        "word": "赵丽颖知否知否独唱版",
+        "onboard_time": 1703585194,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197217,
+        "num": 197217,
+        "word": "这3种伤肝水劝你少喝",
+        "onboard_time": 1703592153,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195388,
+        "num": 195388,
+        "word": "两个人一起戴的帽子",
+        "onboard_time": 1703600015,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192893,
+        "num": 192893,
+        "word": "想看贾玲张小斐",
+        "onboard_time": 1703597432,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187312,
+        "num": 187312,
+        "word": "雷军回应小米汽车定价",
+        "onboard_time": 1703588974,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 186526,
+        "num": 186526,
+        "word": "对乙酰氨基酚与布洛芬区别",
+        "onboard_time": 1703592334,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181704,
+        "num": 181704,
+        "word": "KSG世冠淘汰",
+        "onboard_time": 1703601034,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176744,
+        "num": 176744,
+        "word": "易烊千玺 跨年电影愿",
+        "onboard_time": 1703601034,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167025,
+        "num": 174414,
+        "word": "研究生复试准备",
+        "onboard_time": 1703600435,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173276,
+        "num": 173276,
+        "word": "TF家族三代齿轮舞台总结",
+        "onboard_time": 1703601160,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169785,
+        "num": 169785,
+        "word": "李燃发现雷鸣秘密",
+        "onboard_time": 1703600977,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165394,
+        "num": 165394,
+        "word": "今年小说TOP推荐",
+        "onboard_time": 1703596595,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 154117,
+        "num": 154117,
+        "word": "三大队 俄罗斯方块线索",
+        "onboard_time": 1703596053,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153243,
+        "num": 153243,
+        "word": "何猷君以为奚梦瑶说求婚土",
+        "onboard_time": 1703601217,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150758,
+        "num": 150758,
+        "word": "方言版晚安",
+        "onboard_time": 1703598878,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150204,
+        "num": 150204,
+        "word": "魏晨 调起猛了",
+        "onboard_time": 1703597313,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148703,
+        "num": 148703,
+        "word": "没想到科目三火遍世界",
+        "onboard_time": 1703599117,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143088,
+        "num": 147494,
+        "word": "李梦给今年的自己打90分",
+        "onboard_time": 1703601160,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132766,
+        "num": 147413,
+        "word": "我国将系统重塑疾控体系",
+        "onboard_time": 1703601217,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念毛泽东同志诞辰130周年座谈会#"
+    }
+  }
+}
