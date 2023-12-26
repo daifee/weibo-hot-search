@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703578881231,
+  "endTime": 1703579666424,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2729302,
+      "num": 2729302,
+      "word": "麦当劳明起涨价",
+      "onboard_time": 1703574157,
+      "rank": 14,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 2690175,
       "num": 521295,
       "word": "陶勇",
@@ -121,14 +129,6 @@
       "onboard_time": 1703407894,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2535506,
-      "num": 2535506,
-      "word": "麦当劳明起涨价",
-      "onboard_time": 1703574157,
-      "rank": 14,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 2344608,
@@ -1043,20 +1043,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 691857,
+      "num": 691857,
+      "word": "华为耳夹耳机",
+      "onboard_time": 1703577217,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 691510,
       "num": 551186,
       "word": "股市",
       "onboard_time": 1703564079,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 688992,
-      "num": 688992,
-      "word": "华为耳夹耳机",
-      "onboard_time": 1703577217,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 683762,
@@ -1243,6 +1243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 613234,
+      "num": 613234,
+      "word": "南京胖哥说如果重来不会再去肉搏",
+      "onboard_time": 1703576614,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611631,
       "num": 611631,
       "word": "公司一年多骗领生育津贴980万元",
@@ -1251,20 +1259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610217,
+      "num": 505635,
+      "word": "迪丽热巴与摄像头决裂",
+      "onboard_time": 1703576316,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 608051,
       "num": 608051,
       "word": "金靖一比一复刻昨天女团妆",
       "onboard_time": 1703460806,
       "rank": 39,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 603702,
-      "num": 505635,
-      "word": "迪丽热巴与摄像头决裂",
-      "onboard_time": 1703576316,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 596978,
@@ -1561,14 +1569,6 @@
       "onboard_time": 1703516615,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 527509,
-      "num": 527509,
-      "word": "南京胖哥说如果重来不会再去肉搏",
-      "onboard_time": 1703576614,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 525869,
@@ -1979,6 +1979,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 423741,
+      "num": 423741,
+      "word": "邓为前助理被拖欠工资",
+      "onboard_time": 1703579074,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422580,
       "num": 422580,
       "word": "同学你好这里不能写字",
@@ -2049,6 +2057,14 @@
       "onboard_time": 1703480080,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413330,
+      "num": 321014,
+      "word": "不要和同班同学谈恋爱",
+      "onboard_time": 1703578236,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 411972,
@@ -2507,8 +2523,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 325652,
-      "num": 325652,
+      "raw_hot": 326390,
+      "num": 326390,
       "word": "春夜",
       "onboard_time": 1703577336,
       "rank": 22,
@@ -2571,14 +2587,6 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 321014,
-      "num": 321014,
-      "word": "不要和同班同学谈恋爱",
-      "onboard_time": 1703578236,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 320469,
       "num": 320469,
       "word": "多邻国油炸小绿鸟",
@@ -2609,6 +2617,14 @@
       "onboard_time": 1703488232,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 317992,
+      "num": 507469,
+      "word": "我国北斗系统性能再次提升",
+      "onboard_time": 1703577694,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 317532,
@@ -3033,14 +3049,6 @@
       "onboard_time": 1703430218,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265954,
-      "num": 507469,
-      "word": "我国北斗系统性能再次提升",
-      "onboard_time": 1703577694,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 265812,
@@ -3651,6 +3659,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 222662,
+      "num": 222662,
+      "word": "庄达菲工作人员当众摸鱼",
+      "onboard_time": 1703578776,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221971,
       "num": 221971,
       "word": "张碧晨 出去闯一闯的女孩",
@@ -3731,6 +3747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217028,
+      "num": 217028,
+      "word": "辛芷蕾 别问",
+      "onboard_time": 1703579253,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216575,
       "num": 216575,
       "word": "星穹铁道阮梅",
@@ -3801,6 +3825,14 @@
       "onboard_time": 1703521648,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 212208,
+      "num": 212208,
+      "word": "跨年搭子",
+      "onboard_time": 1703578836,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 211676,
@@ -4371,6 +4403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188761,
+      "num": 188761,
+      "word": "蒙古科目三",
+      "onboard_time": 1703578535,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188711,
       "num": 188711,
       "word": "花海澜如约而至",
@@ -4699,20 +4739,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176485,
-      "num": 176485,
-      "word": "蒙古科目三",
-      "onboard_time": 1703578535,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176284,
       "num": 176284,
       "word": "一顿火锅进军五一档",
       "onboard_time": 1703559277,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175962,
+      "num": 175962,
+      "word": "热心老板龙丹妮",
+      "onboard_time": 1703578718,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 175925,
@@ -6091,14 +6131,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 132818,
-      "num": 132818,
-      "word": "庄达菲工作人员当众摸鱼",
-      "onboard_time": 1703578776,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 132570,
       "num": 132570,
       "word": "一诺孙尚香四杀",
@@ -6129,6 +6161,14 @@
       "onboard_time": 1703395830,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 131104,
+      "num": 131104,
+      "word": "奥克斯诉格力侵权获赔5849万",
+      "onboard_time": 1703579494,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131102,
@@ -6185,6 +6225,14 @@
       "onboard_time": 1703421395,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 129446,
+      "num": 129446,
+      "word": "民政局回应疑智障女子与五旬男子结婚",
+      "onboard_time": 1703579611,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129243,
@@ -7323,6 +7371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45187,
+      "num": 862655,
+      "word": "甘肃震区已有序复商复市复课",
+      "onboard_time": 1703562454,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44881,
       "num": 44881,
       "word": "花饽饽龙年限定款也太可爱了",
@@ -7377,14 +7433,6 @@
       "onboard_time": 1703546485,
       "rank": 46,
       "category": "汽车,社会新闻"
-    },
-    {
-      "raw_hot": 37943,
-      "num": 862655,
-      "word": "甘肃震区已有序复商复市复课",
-      "onboard_time": 1703562454,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37926,
@@ -7465,6 +7513,14 @@
       "onboard_time": 1703525661,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 29610,
+      "num": 805844,
+      "word": "硬核国之重器能给太空做超级CT",
+      "onboard_time": 1703579554,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29324,

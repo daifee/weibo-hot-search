@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703578881231,
+  "endTime": 1703579666424,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -1179,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2729302,
+      "num": 2729302,
+      "word": "麦当劳明起涨价",
+      "onboard_time": 1703574157,
+      "rank": 14,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 2715226,
       "num": 611492,
       "word": "刘浩存 粉底",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1702950876,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2535506,
-      "num": 2535506,
-      "word": "麦当劳明起涨价",
-      "onboard_time": 1703574157,
-      "rank": 14,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 2535458,
@@ -11427,6 +11427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 691857,
+      "num": 691857,
+      "word": "华为耳夹耳机",
+      "onboard_time": 1703577217,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 691803,
       "num": 621271,
       "word": "腾讯港股市值蒸发超3600亿",
@@ -11497,14 +11505,6 @@
       "onboard_time": 1701847294,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 688992,
-      "num": 688992,
-      "word": "华为耳夹耳机",
-      "onboard_time": 1703577217,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 688588,
@@ -13379,6 +13379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613234,
+      "num": 613234,
+      "word": "南京胖哥说如果重来不会再去肉搏",
+      "onboard_time": 1703576614,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 612245,
       "num": 509615,
       "word": "丁太升 不开麦半开麦都是假唱",
@@ -13457,6 +13465,14 @@
       "onboard_time": 1701865538,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 610217,
+      "num": 505635,
+      "word": "迪丽热巴与摄像头决裂",
+      "onboard_time": 1703576316,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 610151,
@@ -13608,14 +13624,6 @@
       "word": "内娱活人不如顶级素人",
       "onboard_time": 1703336793,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 603702,
-      "num": 505635,
-      "word": "迪丽热巴与摄像头决裂",
-      "onboard_time": 1703576316,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -16265,14 +16273,6 @@
       "onboard_time": 1701670717,
       "rank": 41,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 527509,
-      "num": 527509,
-      "word": "南京胖哥说如果重来不会再去肉搏",
-      "onboard_time": 1703576614,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 526723,
@@ -20995,6 +20995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423741,
+      "num": 423741,
+      "word": "邓为前助理被拖欠工资",
+      "onboard_time": 1703579074,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423375,
       "num": 423375,
       "word": "万鹏因为选上女主崩溃大哭",
@@ -21529,6 +21537,14 @@
       "onboard_time": 1703480080,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413330,
+      "num": 321014,
+      "word": "不要和同班同学谈恋爱",
+      "onboard_time": 1703578236,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 413096,
@@ -27667,6 +27683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 326390,
+      "num": 326390,
+      "word": "春夜",
+      "onboard_time": 1703577336,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326366,
       "num": 326366,
       "word": "东方卫视跨年阵容",
@@ -27761,14 +27785,6 @@
       "onboard_time": 1703250636,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325652,
-      "num": 325652,
-      "word": "春夜",
-      "onboard_time": 1703577336,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 324935,
@@ -28131,14 +28147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 321014,
-      "num": 321014,
-      "word": "不要和同班同学谈恋爱",
-      "onboard_time": 1703578236,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 320963,
       "num": 295767,
       "word": "玩梗 林俊杰舞蹈",
@@ -28425,6 +28433,14 @@
       "onboard_time": 1702220020,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 317992,
+      "num": 507469,
+      "word": "我国北斗系统性能再次提升",
+      "onboard_time": 1703577694,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 317811,
@@ -34241,14 +34257,6 @@
       "onboard_time": 1703430218,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265954,
-      "num": 507469,
-      "word": "我国北斗系统性能再次提升",
-      "onboard_time": 1703577694,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 265931,
@@ -41027,6 +41035,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 222662,
+      "num": 222662,
+      "word": "庄达菲工作人员当众摸鱼",
+      "onboard_time": 1703578776,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222634,
       "num": 222634,
       "word": "73万元手表4个月就起雾",
@@ -41945,6 +41961,14 @@
       "onboard_time": 1702266691,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217028,
+      "num": 217028,
+      "word": "辛芷蕾 别问",
+      "onboard_time": 1703579253,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 217016,
@@ -42889,6 +42913,14 @@
       "onboard_time": 1702449274,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212208,
+      "num": 212208,
+      "word": "跨年搭子",
+      "onboard_time": 1703578836,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 212197,
@@ -49491,6 +49523,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 188761,
+      "num": 188761,
+      "word": "蒙古科目三",
+      "onboard_time": 1703578535,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188731,
       "num": 188731,
       "word": "海王2今日上映",
@@ -52355,14 +52395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176485,
-      "num": 176485,
-      "word": "蒙古科目三",
-      "onboard_time": 1703578535,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176472,
       "num": 176472,
       "word": "95后大学生摆摊卖猪头肉日入800元",
@@ -52473,6 +52505,14 @@
       "onboard_time": 1702166965,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 175962,
+      "num": 175962,
+      "word": "热心老板龙丹妮",
+      "onboard_time": 1703578718,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 175959,
@@ -62163,14 +62203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132818,
-      "num": 132818,
-      "word": "庄达菲工作人员当众摸鱼",
-      "onboard_time": 1703578776,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 132805,
       "num": 132805,
       "word": "北控男篮vs辽宁男篮",
@@ -62443,6 +62475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131104,
+      "num": 131104,
+      "word": "奥克斯诉格力侵权获赔5849万",
+      "onboard_time": 1703579494,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131102,
       "num": 131102,
       "word": "C罗中国行门票秒没",
@@ -62697,6 +62737,14 @@
       "onboard_time": 1702165824,
       "rank": 45,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 129446,
+      "num": 129446,
+      "word": "民政局回应疑智障女子与五旬男子结婚",
+      "onboard_time": 1703579611,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129422,
@@ -68763,6 +68811,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 45187,
+      "num": 862655,
+      "word": "甘肃震区已有序复商复市复课",
+      "onboard_time": 1703562454,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45085,
       "num": 48221,
       "word": "侯雯元真人CS身材",
@@ -69153,14 +69209,6 @@
       "onboard_time": 1701557656,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37943,
-      "num": 862655,
-      "word": "甘肃震区已有序复商复市复课",
-      "onboard_time": 1703562454,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37926,
@@ -69783,6 +69831,14 @@
       "num": 725349,
       "word": "数读中央经济工作会议",
       "onboard_time": 1702469432,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 29610,
+      "num": 805844,
+      "word": "硬核国之重器能给太空做超级CT",
+      "onboard_time": 1703579554,
       "rank": 2,
       "category": "国内时政"
     },
