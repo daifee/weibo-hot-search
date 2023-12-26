@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703626444994,
+  "endTime": 1703628967799,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -8395,6 +8395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 77769,
+      "num": 51558,
+      "word": "山科大休学学生行凶案凶手被判死刑",
+      "onboard_time": 1703624054,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77423,
       "num": 77423,
       "word": "徐涛老师真好",
@@ -8787,14 +8795,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 34892,
-      "num": 34892,
-      "word": "山科大休学学生行凶案凶手被判死刑",
-      "onboard_time": 1703624054,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34569,
       "num": 34569,
       "word": "利物浦1比1阿森纳",
@@ -8931,6 +8931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22325,
+      "num": 22325,
+      "word": "阿音 短暂一生悲剧收尾",
+      "onboard_time": 1703623635,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20606,
       "num": 26507,
       "word": "电影潜行北京首映礼",
@@ -8979,12 +8987,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 17856,
+      "num": 17856,
+      "word": "太爷爷带着孙子骑车兜风",
+      "onboard_time": 1703625732,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 17828,
       "num": 17828,
       "word": "中医专家教你看手掌测健康",
       "onboard_time": 1703366112,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 16936,
+      "num": 16936,
+      "word": "繁花预约破300万",
+      "onboard_time": 1703624712,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 16667,
@@ -9001,14 +9025,6 @@
       "onboard_time": 1703614100,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16066,
-      "num": 16066,
-      "word": "阿音 短暂一生悲剧收尾",
-      "onboard_time": 1703623635,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 15572,
@@ -9043,12 +9059,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 11234,
-      "num": 11234,
-      "word": "太爷爷带着孙子骑车兜风",
-      "onboard_time": 1703625732,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 12000,
+      "num": 16078,
+      "word": "巧用甘蔗水止咳还美颜",
+      "onboard_time": 1703628915,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 10887,
@@ -9065,14 +9081,6 @@
       "onboard_time": 1703364493,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 10521,
-      "num": 10521,
-      "word": "繁花预约破300万",
-      "onboard_time": 1703624712,
-      "rank": 48,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
