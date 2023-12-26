@@ -1,0 +1,410 @@
+{
+  "runTime": 1703586889242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1797322,
+        "num": 1797322,
+        "word": "麦当劳明起涨价",
+        "onboard_time": 1703574157,
+        "rank": 0,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 445885,
+        "num": 1554482,
+        "word": "3岁娃介绍家庭成员唯独忘了警察爸爸",
+        "onboard_time": 1703584534,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34449,
+        "num": 1399993,
+        "word": "2023中国时刻",
+        "onboard_time": 1703580577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1346468,
+        "num": 1346468,
+        "word": "2024央视春晚彩排",
+        "onboard_time": 1703584955,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205587,
+        "num": 1190204,
+        "word": "男子突发低血糖酒店员工暖心相助",
+        "onboard_time": 1703584476,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1135132,
+        "num": 1135132,
+        "word": "邓为前助理被拖欠工资",
+        "onboard_time": 1703579074,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133053,
+        "num": 934305,
+        "word": "消防员冲进火场一把抱起小孩就跑",
+        "onboard_time": 1703584235,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 865116,
+        "num": 865116,
+        "word": "赵丽颖知否知否独唱版",
+        "onboard_time": 1703585194,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 786508,
+        "num": 786508,
+        "word": "刘宇宁鞠婧祎 合作",
+        "onboard_time": 1703581774,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 740100,
+        "num": 740100,
+        "word": "女子酒店里踩空摔瘫痪获赔119万",
+        "onboard_time": 1703580394,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727902,
+        "num": 727902,
+        "word": "迪丽热巴撒谎憋不了一秒",
+        "onboard_time": 1703584059,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569485,
+        "num": 569485,
+        "word": "EDG 天才",
+        "onboard_time": 1703583094,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 552448,
+        "num": 552448,
+        "word": "何猷君跟狗吵架",
+        "onboard_time": 1703583033,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508204,
+        "num": 508204,
+        "word": "最难嗑CP",
+        "onboard_time": 1703584896,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498366,
+        "num": 498366,
+        "word": "金莎因为孙丞潇戴初恋送的项链哭了",
+        "onboard_time": 1703570974,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486313,
+        "num": 486313,
+        "word": "暗访广州一代孕灰产机构",
+        "onboard_time": 1703585854,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458631,
+        "num": 458631,
+        "word": "上班装忙",
+        "onboard_time": 1703583033,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409002,
+        "num": 409002,
+        "word": "官方回应加鹅羽绒服疑被挂闲鱼倒卖",
+        "onboard_time": 1703570974,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388294,
+        "num": 388294,
+        "word": "陈伟霆开健身房",
+        "onboard_time": 1703585316,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323344,
+        "num": 323344,
+        "word": "华为耳夹耳机",
+        "onboard_time": 1703577217,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 91204,
+        "num": 295426,
+        "word": "余承东称问界M9安全领先一代",
+        "onboard_time": 1703585435,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 282209,
+        "num": 282209,
+        "word": "娜然说封神上映后头发白了一半",
+        "onboard_time": 1703572415,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272658,
+        "num": 272658,
+        "word": "章若楠 春晚彩排",
+        "onboard_time": 1703584896,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259714,
+        "num": 259714,
+        "word": "月经总推迟或增大不孕风险",
+        "onboard_time": 1703581114,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244689,
+        "num": 244689,
+        "word": "上海晚霞",
+        "onboard_time": 1703586036,
+        "rank": 24,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 241284,
+        "num": 241284,
+        "word": "民政局回应疑智障女子与五旬男子结婚",
+        "onboard_time": 1703579611,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238940,
+        "num": 238940,
+        "word": "雷鸣父亲病逝",
+        "onboard_time": 1703584833,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235687,
+        "num": 235687,
+        "word": "网红狐狸死在雪地里",
+        "onboard_time": 1703560654,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233102,
+        "num": 233102,
+        "word": "不要和同班同学谈恋爱",
+        "onboard_time": 1703578236,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229389,
+        "num": 229389,
+        "word": "董明珠称矿井空调让矿工从裸体上班到穿西装",
+        "onboard_time": 1703571515,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222059,
+        "num": 222059,
+        "word": "肯德基客服称目前暂无涨价计划",
+        "onboard_time": 1703582975,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 220709,
+        "num": 220709,
+        "word": "迪丽热巴潜水服",
+        "onboard_time": 1703586036,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211409,
+        "num": 211409,
+        "word": "小众冷门的唇膏",
+        "onboard_time": 1703586093,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 205488,
+        "num": 205488,
+        "word": "问界M9价格",
+        "onboard_time": 1703584116,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 197557,
+        "num": 197557,
+        "word": "余承东回应四年来如何重返市场",
+        "onboard_time": 1703585733,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 194417,
+        "num": 194417,
+        "word": "护肤的尽头 养气血",
+        "onboard_time": 1703583814,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 190337,
+        "num": 190337,
+        "word": "98年辞掉工作做直播是什么体验",
+        "onboard_time": 1703581055,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187225,
+        "num": 187225,
+        "word": "知网 我只想赶个ddl",
+        "onboard_time": 1703580339,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176357,
+        "num": 176357,
+        "word": "排尿时发现这6个异常应及早检查",
+        "onboard_time": 1703570736,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175531,
+        "num": 175531,
+        "word": "象棋比赛的肛珠作弊是什么",
+        "onboard_time": 1703576854,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175382,
+        "num": 175382,
+        "word": "辛芷蕾 别问",
+        "onboard_time": 1703579253,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174551,
+        "num": 174551,
+        "word": "陶勇回应近期网络风波",
+        "onboard_time": 1703564918,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170281,
+        "num": 170281,
+        "word": "1700元的livehouse",
+        "onboard_time": 1703582975,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157087,
+        "num": 157087,
+        "word": "烈士墓11年间不止一次遭打砸",
+        "onboard_time": 1703586512,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156915,
+        "num": 156915,
+        "word": "复制C盘想干什么",
+        "onboard_time": 1703586334,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142357,
+        "num": 142357,
+        "word": "成毅 实时追剧人",
+        "onboard_time": 1703582556,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141951,
+        "num": 141951,
+        "word": "RW世冠淘汰",
+        "onboard_time": 1703584713,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141734,
+        "num": 141734,
+        "word": "春夜",
+        "onboard_time": 1703577336,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138227,
+        "num": 138227,
+        "word": "眼睛为什么不怕冷",
+        "onboard_time": 1703581232,
+        "rank": 48,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 134344,
+        "num": 134344,
+        "word": "狼队晋级败者组半决赛",
+        "onboard_time": 1703585255,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}

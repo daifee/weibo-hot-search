@@ -1,6 +1,6 @@
 {
   "startTime": 1703521370249,
-  "endTime": 1703585909040,
+  "endTime": 1703586889242,
   "band_list": [
     {
       "raw_hot": 3837371,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1346468,
+      "num": 1346468,
+      "word": "2024央视春晚彩排",
+      "onboard_time": 1703584955,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1296015,
       "num": 540422,
       "word": "况盛",
@@ -147,14 +155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 954183,
-      "num": 954183,
-      "word": "2024央视春晚彩排",
-      "onboard_time": 1703584955,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 913563,
       "num": 913563,
       "word": "网易暴雪复合",
@@ -177,6 +177,14 @@
       "onboard_time": 1703559813,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 865116,
+      "num": 865116,
+      "word": "赵丽颖知否知否独唱版",
+      "onboard_time": 1703585194,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 846204,
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727902,
+      "num": 727902,
+      "word": "迪丽热巴撒谎憋不了一秒",
+      "onboard_time": 1703584059,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 691857,
       "num": 691857,
       "word": "华为耳夹耳机",
@@ -241,14 +257,6 @@
       "onboard_time": 1703564079,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 685372,
-      "num": 685372,
-      "word": "迪丽热巴撒谎憋不了一秒",
-      "onboard_time": 1703584059,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 682333,
@@ -443,6 +451,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 508204,
+      "num": 508204,
+      "word": "最难嗑CP",
+      "onboard_time": 1703584896,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 507599,
       "num": 507599,
       "word": "我知道我爱你 男一人设",
@@ -473,6 +489,14 @@
       "onboard_time": 1703549011,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 486313,
+      "num": 486313,
+      "word": "暗访广州一代孕灰产机构",
+      "onboard_time": 1703585854,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475947,
@@ -523,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445885,
+      "num": 1554482,
+      "word": "3岁娃介绍家庭成员唯独忘了警察爸爸",
+      "onboard_time": 1703584534,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444592,
       "num": 444592,
       "word": "王楚钦领衔年度十佳运动员",
@@ -547,28 +579,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 436575,
-      "num": 436575,
-      "word": "赵丽颖知否知否独唱版",
-      "onboard_time": 1703585194,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 422580,
       "num": 422580,
       "word": "同学你好这里不能写字",
       "onboard_time": 1703549492,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 419143,
-      "num": 1383268,
-      "word": "3岁娃介绍家庭成员唯独忘了警察爸爸",
-      "onboard_time": 1703584534,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 413330,
@@ -633,6 +649,14 @@
       "onboard_time": 1703516615,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388294,
+      "num": 388294,
+      "word": "陈伟霆开健身房",
+      "onboard_time": 1703585316,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 388216,
@@ -713,14 +737,6 @@
       "onboard_time": 1703505032,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 332037,
-      "num": 332037,
-      "word": "最难嗑CP",
-      "onboard_time": 1703584896,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 326692,
@@ -971,12 +987,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 244294,
-      "num": 244294,
-      "word": "陈伟霆开健身房",
-      "onboard_time": 1703585316,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 244689,
+      "num": 244689,
+      "word": "上海晚霞",
+      "onboard_time": 1703586036,
+      "rank": 24,
+      "category": "自然"
     },
     {
       "raw_hot": 243725,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1703579794,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238940,
+      "num": 238940,
+      "word": "雷鸣父亲病逝",
+      "onboard_time": 1703584833,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 238717,
@@ -1041,14 +1065,6 @@
       "onboard_time": 1703579253,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234932,
-      "num": 234932,
-      "word": "雷鸣父亲病逝",
-      "onboard_time": 1703584833,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 234669,
@@ -1115,8 +1131,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220709,
+      "num": 220709,
+      "word": "迪丽热巴潜水服",
+      "onboard_time": 1703586036,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220597,
-      "num": 1051540,
+      "num": 1190204,
       "word": "男子突发低血糖酒店员工暖心相助",
       "onboard_time": 1703584476,
       "rank": 4,
@@ -1203,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211409,
+      "num": 211409,
+      "word": "小众冷门的唇膏",
+      "onboard_time": 1703586093,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 210452,
       "num": 210452,
       "word": "肺结节离肺癌还有非常远的距离",
@@ -1283,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197557,
+      "num": 197557,
+      "word": "余承东回应四年来如何重返市场",
+      "onboard_time": 1703585733,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 196047,
       "num": 196047,
       "word": "北京卫视跨年首波阵容",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1703582014,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194417,
+      "num": 194417,
+      "word": "护肤的尽头 养气血",
+      "onboard_time": 1703583814,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 193353,
@@ -1337,14 +1385,6 @@
       "onboard_time": 1703501014,
       "rank": 35,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 189464,
-      "num": 189464,
-      "word": "护肤的尽头 养气血",
-      "onboard_time": 1703583814,
-      "rank": 37,
-      "category": "美妆"
     },
     {
       "raw_hot": 188761,
@@ -1457,14 +1497,6 @@
       "onboard_time": 1703578718,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 174777,
-      "num": 174777,
-      "word": "余承东回应四年来如何重返市场",
-      "onboard_time": 1703585733,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 173140,
@@ -1593,6 +1625,22 @@
       "onboard_time": 1703585556,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 157087,
+      "num": 157087,
+      "word": "烈士墓11年间不止一次遭打砸",
+      "onboard_time": 1703586512,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156915,
+      "num": 156915,
+      "word": "复制C盘想干什么",
+      "onboard_time": 1703586334,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 155793,
@@ -1731,14 +1779,6 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 145584,
-      "num": 145584,
-      "word": "暗访广州一代孕灰产机构",
-      "onboard_time": 1703585854,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144792,
       "num": 144792,
       "word": "伊能静给秦昊戴假发",
@@ -1804,7 +1844,7 @@
     },
     {
       "raw_hot": 135966,
-      "num": 927186,
+      "num": 934305,
       "word": "消防员冲进火场一把抱起小孩就跑",
       "onboard_time": 1703584235,
       "rank": 6,
@@ -2124,7 +2164,7 @@
     },
     {
       "raw_hot": 91845,
-      "num": 226899,
+      "num": 295426,
       "word": "余承东称问界M9安全领先一代",
       "onboard_time": 1703585435,
       "rank": 31,
@@ -2372,7 +2412,7 @@
     },
     {
       "raw_hot": 37850,
-      "num": 1286578,
+      "num": 1399993,
       "word": "2023中国时刻",
       "onboard_time": 1703580577,
       "rank": 2,
