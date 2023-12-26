@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703610925455,
+  "endTime": 1703612039385,
   "band_list": [
     {
       "raw_hot": 935631,
@@ -163,8 +163,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 210921,
-      "num": 148802,
+      "raw_hot": 213470,
+      "num": 213470,
       "word": "学会上高铁的卫生间",
       "onboard_time": 1703607625,
       "rank": 49,
@@ -281,6 +281,14 @@
       "onboard_time": 1703596053,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124392,
+      "num": 155921,
+      "word": "学校花1500万买下大飞机供学生练手",
+      "onboard_time": 1703610262,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120256,
@@ -411,14 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55946,
-      "num": 55946,
-      "word": "学校花1500万买下大飞机供学生练手",
-      "onboard_time": 1703610262,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55280,
       "num": 509475,
       "word": "三条高铁今日开通",
@@ -433,6 +433,30 @@
       "onboard_time": 1703609483,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41137,
+      "num": 41137,
+      "word": "赵露思红衣妆造",
+      "onboard_time": 1703611220,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 37016,
+      "num": 40700,
+      "word": "小奇迹回国后首次出外场",
+      "onboard_time": 1703611041,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25972,
+      "num": 40663,
+      "word": "小狗掉冰河被消防心肺复苏救活",
+      "onboard_time": 1703611760,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1703612039385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 602036,
+        "num": 602036,
+        "word": "流量褪去的淄博鸭头小哥",
+        "onboard_time": 1703606490,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318106,
+        "num": 318106,
+        "word": "胡先煦不让赵昭仪喝冰的",
+        "onboard_time": 1703606249,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33339,
+        "num": 234043,
+        "word": "三条高铁今日开通",
+        "onboard_time": 1703594735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213470,
+        "num": 213470,
+        "word": "学会上高铁的卫生间",
+        "onboard_time": 1703607625,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 189861,
+        "num": 189861,
+        "word": "腿不直原来才是正常的",
+        "onboard_time": 1703595755,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 183345,
+        "num": 183345,
+        "word": "青簪行有消息了",
+        "onboard_time": 1703594973,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180668,
+        "num": 180668,
+        "word": "人生若如初见 空降",
+        "onboard_time": 1703598456,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179135,
+        "num": 179135,
+        "word": "刘浩存演技",
+        "onboard_time": 1703602178,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157502,
+        "num": 157502,
+        "word": "刘耀文的粉底",
+        "onboard_time": 1703610200,
+        "rank": 8,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 124392,
+        "num": 155921,
+        "word": "学校花1500万买下大飞机供学生练手",
+        "onboard_time": 1703610262,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337461,
+        "num": 152405,
+        "word": "明星助理工资5000块",
+        "onboard_time": 1703588673,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319954,
+        "num": 151431,
+        "word": "家长被通知接走发烧孩子后大怒",
+        "onboard_time": 1703599418,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240310,
+        "num": 149076,
+        "word": "羽生结弦前妻首度发声",
+        "onboard_time": 1703588433,
+        "rank": 12,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 146457,
+        "num": 146457,
+        "word": "何猷君以为奚梦瑶说求婚土",
+        "onboard_time": 1703601217,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129803,
+        "num": 129803,
+        "word": "白鹿湿发晚安照",
+        "onboard_time": 1703605591,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123761,
+        "num": 123761,
+        "word": "香港演员黎淑贤去世",
+        "onboard_time": 1703597256,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116385,
+        "num": 116385,
+        "word": "老师 我们家沈腾马丽呢",
+        "onboard_time": 1703589035,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108215,
+        "num": 108215,
+        "word": "莎头 可口可乐",
+        "onboard_time": 1703599658,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99557,
+        "num": 99557,
+        "word": "央视揭朋友圈少儿才艺投票骗局",
+        "onboard_time": 1703597975,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89245,
+        "num": 89245,
+        "word": "闲鱼回应援助加拿大鹅被倒卖",
+        "onboard_time": 1703591672,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102205,
+        "num": 88332,
+        "word": "孕妇因一口草莓吐血差点丧命",
+        "onboard_time": 1703593234,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101321,
+        "num": 86306,
+        "word": "晚晚 Valentino到底18条还是19条",
+        "onboard_time": 1703602115,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 90379,
+        "num": 82224,
+        "word": "脱轨里出现了时代少年团",
+        "onboard_time": 1703602476,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73501,
+        "num": 73501,
+        "word": "电子请柬 社死",
+        "onboard_time": 1703595996,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67577,
+        "num": 67577,
+        "word": "麦当劳一年内两次涨价",
+        "onboard_time": 1703599176,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 74574,
+        "num": 67140,
+        "word": "王嘉尔三观",
+        "onboard_time": 1703592874,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71639,
+        "num": 66908,
+        "word": "迪丽热巴八百个假动作偷帽子",
+        "onboard_time": 1703608466,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70154,
+        "num": 66727,
+        "word": "张晚意 背德文学",
+        "onboard_time": 1703596053,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61231,
+        "num": 61231,
+        "word": "这3种伤肝水劝你少喝",
+        "onboard_time": 1703592153,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53515,
+        "num": 53515,
+        "word": "i人e人 meme图",
+        "onboard_time": 1703599777,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68068,
+        "num": 53457,
+        "word": "2024央视春晚彩排",
+        "onboard_time": 1703584955,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62935,
+        "num": 53426,
+        "word": "邓为经纪公司仅2人参保",
+        "onboard_time": 1703588794,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62658,
+        "num": 53139,
+        "word": "鞠婧祎方辟谣和刘宇宁合作",
+        "onboard_time": 1703594794,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52800,
+        "num": 52800,
+        "word": "雷军回应小米汽车定价",
+        "onboard_time": 1703588974,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 50840,
+        "num": 50840,
+        "word": "一诺 救赎了自己",
+        "onboard_time": 1703597975,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50496,
+        "num": 50496,
+        "word": "王俊凯年会不能停观后感",
+        "onboard_time": 1703601877,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49857,
+        "num": 49857,
+        "word": "麦当劳明起涨价",
+        "onboard_time": 1703574157,
+        "rank": 36,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 44714,
+        "num": 44714,
+        "word": "王一博顺毛长发",
+        "onboard_time": 1703600077,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39949,
+        "num": 43835,
+        "word": "2023最出圈中国运动员",
+        "onboard_time": 1703602718,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39806,
+        "num": 43484,
+        "word": "我国将系统重塑疾控体系",
+        "onboard_time": 1703601217,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43360,
+        "num": 43360,
+        "word": "热播剧长尾效应",
+        "onboard_time": 1703600498,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41358,
+        "num": 41358,
+        "word": "胡先煦多大了还告状",
+        "onboard_time": 1703605172,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41137,
+        "num": 41137,
+        "word": "赵露思红衣妆造",
+        "onboard_time": 1703611220,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40731,
+        "num": 40731,
+        "word": "杨旭逆袭获央视主持人大赛冠军",
+        "onboard_time": 1703609483,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38775,
+        "num": 40730,
+        "word": "江苏一公司不发工资发积分",
+        "onboard_time": 1703593473,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37024,
+        "num": 40704,
+        "word": "二手玫瑰 邪剑仙",
+        "onboard_time": 1703597916,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37016,
+        "num": 40700,
+        "word": "小奇迹回国后首次出外场",
+        "onboard_time": 1703611041,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35977,
+        "num": 40689,
+        "word": "2024年处女座吉相清单",
+        "onboard_time": 1703602178,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34253,
+        "num": 40672,
+        "word": "无痛胃镜",
+        "onboard_time": 1703599658,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25972,
+        "num": 40663,
+        "word": "小狗掉冰河被消防心肺复苏救活",
+        "onboard_time": 1703611760,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#团结一致敢于斗争力量源于团结#"
+    }
+  }
+}
