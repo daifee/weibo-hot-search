@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703582226472,
+  "endTime": 1703583274726,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -569,6 +569,14 @@
       "onboard_time": 1703341117,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1073656,
+      "num": 1073656,
+      "word": "刘宇宁鞠婧祎 合作",
+      "onboard_time": 1703581774,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 1064811,
@@ -1353,6 +1361,14 @@
       "onboard_time": 1703547326,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 582486,
+      "num": 582486,
+      "word": "女子酒店里踩空摔瘫痪获赔119万",
+      "onboard_time": 1703580394,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 582388,
@@ -2779,14 +2795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 303578,
-      "num": 303578,
-      "word": "女子酒店里踩空摔瘫痪获赔119万",
-      "onboard_time": 1703580394,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300930,
       "num": 300930,
       "word": "105款国产游戏获批",
@@ -2809,14 +2817,6 @@
       "onboard_time": 1703412097,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 298693,
-      "num": 298693,
-      "word": "刘宇宁鞠婧祎 合作",
-      "onboard_time": 1703581774,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 297563,
@@ -2883,6 +2883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 294371,
+      "num": 294371,
+      "word": "麦门信徒落泪",
+      "onboard_time": 1703580995,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 294107,
       "num": 294107,
       "word": "游戏版号单次审批数量首次突破百款",
@@ -2937,14 +2945,6 @@
       "onboard_time": 1703427337,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284612,
-      "num": 293928,
-      "word": "麦门信徒落泪",
-      "onboard_time": 1703580995,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 284181,
@@ -3008,6 +3008,14 @@
       "word": "洗牙是智商税吗",
       "onboard_time": 1703405794,
       "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 274637,
+      "num": 274637,
+      "word": "月经总推迟或增大不孕风险",
+      "onboard_time": 1703581114,
+      "rank": 27,
       "category": "健康医疗"
     },
     {
@@ -3107,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265814,
+      "num": 265814,
+      "word": "一网民造谣阿里献血事件被行拘",
+      "onboard_time": 1703581834,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265812,
       "num": 209864,
       "word": "洗澡后立刻睡觉可能影响睡眠",
@@ -3137,6 +3153,14 @@
       "onboard_time": 1703501135,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 263096,
+      "num": 263096,
+      "word": "眼睛为什么不怕冷",
+      "onboard_time": 1703581232,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 261975,
@@ -3259,14 +3283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 252937,
-      "num": 252937,
-      "word": "月经总推迟或增大不孕风险",
-      "onboard_time": 1703581114,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 252823,
       "num": 252823,
       "word": "盒马山姆贴脸商战引围观",
@@ -3345,14 +3361,6 @@
       "onboard_time": 1703414793,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 245702,
-      "num": 245702,
-      "word": "眼睛为什么不怕冷",
-      "onboard_time": 1703581232,
-      "rank": 30,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 245111,
@@ -3843,6 +3851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215890,
+      "num": 215890,
+      "word": "StrayKids是会阴阳怪气的",
+      "onboard_time": 1703582675,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215493,
       "num": 215493,
       "word": "李永乐爷爷 八十岁还在工作",
@@ -4131,14 +4147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 203170,
-      "num": 203170,
-      "word": "一网民造谣阿里献血事件被行拘",
-      "onboard_time": 1703581834,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202620,
       "num": 202620,
       "word": "陈卓璇英文",
@@ -4187,6 +4195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200465,
+      "num": 200465,
+      "word": "税务师查分时间",
+      "onboard_time": 1703582556,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 200405,
       "num": 200405,
       "word": "vivo称对印度的拘捕行动深表震惊",
@@ -4233,6 +4249,14 @@
       "onboard_time": 1703522786,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198369,
+      "num": 198369,
+      "word": "董思成 于正剧",
+      "onboard_time": 1703582135,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 197966,
@@ -4355,6 +4379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 194780,
+      "num": 194780,
+      "word": "狼队扳平比分",
+      "onboard_time": 1703582014,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194743,
       "num": 194743,
       "word": "Hero战胜KSG",
@@ -4457,6 +4489,14 @@
       "onboard_time": 1703401531,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190623,
+      "num": 190623,
+      "word": "成毅 实时追剧人",
+      "onboard_time": 1703582556,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 190372,
@@ -4603,6 +4643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184803,
+      "num": 184803,
+      "word": "何猷君跟狗吵架",
+      "onboard_time": 1703583033,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184265,
       "num": 184265,
       "word": "钱来圣诞树",
@@ -4723,14 +4771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178952,
-      "num": 178952,
-      "word": "狼队扳平比分",
-      "onboard_time": 1703582014,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 178801,
       "num": 173186,
       "word": "给孩子取名字的好办法",
@@ -4769,6 +4809,14 @@
       "onboard_time": 1703516974,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 178278,
+      "num": 178278,
+      "word": "EDG 天才",
+      "onboard_time": 1703583094,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 178042,
@@ -5227,6 +5275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163028,
+      "num": 163028,
+      "word": "又幸福了江",
+      "onboard_time": 1703583033,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162649,
       "num": 162649,
       "word": "腿姐 为不平凡的你自豪",
@@ -5505,6 +5561,14 @@
       "onboard_time": 1703373439,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 154000,
+      "num": 154000,
+      "word": "肯德基客服称目前暂无涨价计划",
+      "onboard_time": 1703582975,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153952,
@@ -6587,14 +6651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122831,
-      "num": 122831,
-      "word": "董思成 于正剧",
-      "onboard_time": 1703582135,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122640,
       "num": 122640,
       "word": "水晶牛肉冻",
@@ -7180,7 +7236,7 @@
     },
     {
       "raw_hot": 90964,
-      "num": 372234,
+      "num": 417952,
       "word": "可变光圈会成为手机刚需吗",
       "onboard_time": 1703579794,
       "rank": 11,
@@ -7308,7 +7364,7 @@
     },
     {
       "raw_hot": 71212,
-      "num": 121031,
+      "num": 265998,
       "word": "问界M9搭载首个车规级投影系统",
       "onboard_time": 1703582194,
       "rank": 49,
@@ -7491,6 +7547,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 46745,
+      "num": 247804,
+      "word": "问界M9首搭华为最强ARHUD",
+      "onboard_time": 1703581413,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46707,
       "num": 1067019,
       "word": "遇见2023的中国",
@@ -7539,14 +7603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42527,
-      "num": 202086,
-      "word": "问界M9首搭华为最强ARHUD",
-      "onboard_time": 1703581413,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 42206,
       "num": 42206,
       "word": "陕西近万个锅盔送往甘肃",
@@ -7587,6 +7643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37850,
+      "num": 1162272,
+      "word": "2023中国时刻",
+      "onboard_time": 1703580577,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36811,
       "num": 36811,
       "word": "男生晒3张准考证为考研之旅画句号",
@@ -7609,14 +7673,6 @@
       "onboard_time": 1703373741,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 35938,
-      "num": 804837,
-      "word": "2023中国时刻",
-      "onboard_time": 1703580577,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35651,
