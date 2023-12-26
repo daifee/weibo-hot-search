@@ -1,7 +1,15 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703630021453,
+  "endTime": 1703632796801,
   "band_list": [
+    {
+      "raw_hot": 942028,
+      "num": 942028,
+      "word": "流量褪去的淄博鸭头小哥",
+      "onboard_time": 1703606490,
+      "rank": 9,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 935631,
       "num": 299745,
@@ -17,14 +25,6 @@
       "onboard_time": 1703588673,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 768787,
-      "num": 768787,
-      "word": "流量褪去的淄博鸭头小哥",
-      "onboard_time": 1703606490,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 717444,
@@ -57,6 +57,14 @@
       "onboard_time": 1703594973,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 419498,
+      "num": 419498,
+      "word": "央视揭朋友圈少儿才艺投票骗局",
+      "onboard_time": 1703597975,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417595,
@@ -99,11 +107,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 311001,
-      "num": 311001,
-      "word": "央视揭朋友圈少儿才艺投票骗局",
-      "onboard_time": 1703597975,
-      "rank": 8,
+      "raw_hot": 328717,
+      "num": 328717,
+      "word": "学校花1500万买下大飞机供学生练手",
+      "onboard_time": 1703610262,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -155,11 +163,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233731,
-      "num": 233731,
-      "word": "学校花1500万买下大飞机供学生练手",
-      "onboard_time": 1703610262,
-      "rank": 39,
+      "raw_hot": 245139,
+      "num": 245139,
+      "word": "闲鱼回应援助加拿大鹅被倒卖",
+      "onboard_time": 1703591672,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244714,
+      "num": 244714,
+      "word": "山科大休学学生行凶案凶手被判死刑",
+      "onboard_time": 1703624054,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -203,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175622,
-      "num": 175622,
-      "word": "闲鱼回应援助加拿大鹅被倒卖",
-      "onboard_time": 1703591672,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 166480,
+      "num": 166480,
+      "word": "杨旭逆袭获央视主持人大赛冠军",
+      "onboard_time": 1703609483,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 166445,
@@ -275,6 +291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130075,
+      "num": 130075,
+      "word": "曼联3比2阿斯顿维拉",
+      "onboard_time": 1703632702,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129801,
       "num": 129801,
       "word": "这3种伤肝水劝你少喝",
@@ -289,6 +313,14 @@
       "onboard_time": 1703596053,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126376,
+      "num": 126376,
+      "word": "甘肃积石山发生3.3级地震",
+      "onboard_time": 1703632402,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120256,
@@ -331,6 +363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 110988,
+      "num": 110988,
+      "word": "29岁女儿常吃外卖爸爸送自制预制菜",
+      "onboard_time": 1703631981,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108422,
       "num": 108422,
       "word": "易烊千玺 跨年电影愿",
@@ -339,20 +379,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106625,
+      "num": 109421,
+      "word": "江苏一公司不发工资发积分",
+      "onboard_time": 1703593473,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102644,
+      "num": 102644,
+      "word": "每天坚持这样做一觉睡到大天亮",
+      "onboard_time": 1703630238,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 102506,
       "num": 102506,
       "word": "i人e人 meme图",
       "onboard_time": 1703599777,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 101202,
-      "num": 66704,
-      "word": "山科大休学学生行凶案凶手被判死刑",
-      "onboard_time": 1703624054,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97883,
@@ -377,14 +425,6 @@
       "onboard_time": 1703603917,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 90603,
-      "num": 109421,
-      "word": "江苏一公司不发工资发积分",
-      "onboard_time": 1703593473,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87238,
@@ -419,12 +459,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69629,
+      "num": 69629,
+      "word": "电费刺客",
+      "onboard_time": 1703632702,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68370,
       "num": 92593,
       "word": "鸣龙少年 群像",
       "onboard_time": 1703603497,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66166,
+      "num": 66166,
+      "word": "卫健委否认医护集体跳楼",
+      "onboard_time": 1703632764,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55280,
@@ -435,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52290,
-      "num": 52290,
-      "word": "杨旭逆袭获央视主持人大赛冠军",
-      "onboard_time": 1703609483,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 48184,
+      "num": 48184,
+      "word": "小奇迹回国后首次出外场",
+      "onboard_time": 1703611041,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41137,
@@ -451,16 +507,24 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37016,
-      "num": 40700,
-      "word": "小奇迹回国后首次出外场",
-      "onboard_time": 1703611041,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 40436,
+      "num": 40436,
+      "word": "下雪能让人少生病是真的吗",
+      "onboard_time": 1703618415,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 26575,
-      "num": 26575,
+      "raw_hot": 40142,
+      "num": 40142,
+      "word": "太爷爷带着孙子骑车兜风",
+      "onboard_time": 1703625732,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 38566,
+      "num": 38566,
       "word": "阿音 短暂一生悲剧收尾",
       "onboard_time": 1703623635,
       "rank": 36,
@@ -473,14 +537,6 @@
       "onboard_time": 1703611760,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23338,
-      "num": 23338,
-      "word": "太爷爷带着孙子骑车兜风",
-      "onboard_time": 1703625732,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 22672,
@@ -505,14 +561,6 @@
       "onboard_time": 1703624712,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17467,
-      "num": 20983,
-      "word": "下雪能让人少生病是真的吗",
-      "onboard_time": 1703618415,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16351,
