@@ -1,0 +1,410 @@
+{
+  "runTime": 1703557570574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1481966,
+        "num": 1481966,
+        "word": "孩子有超雄综合征就是天生坏种吗",
+        "onboard_time": 1703554651,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1161145,
+        "num": 1161145,
+        "word": "23岁的普通人到底应该有多少钱",
+        "onboard_time": 1703547747,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50542,
+        "num": 1077432,
+        "word": "网信办处置一批仿冒企业诈骗网站",
+        "onboard_time": 1703552374,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054002,
+        "num": 1054002,
+        "word": "重庆一疑似智障女子与五旬男子结婚",
+        "onboard_time": 1703554832,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864133,
+        "num": 864133,
+        "word": "去有风的地方获200万元补助",
+        "onboard_time": 1703550273,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 682333,
+        "num": 682333,
+        "word": "中国象棋协会处罚全国冠军",
+        "onboard_time": 1703555734,
+        "rank": 5,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 490410,
+        "num": 490410,
+        "word": "毛主席诞辰130周年",
+        "onboard_time": 1703547326,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 475223,
+        "num": 475223,
+        "word": "胡海泉再被冻结115万股权",
+        "onboard_time": 1703554231,
+        "rank": 7,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 412272,
+        "num": 412272,
+        "word": "甄嬛传演员进组的第一场戏",
+        "onboard_time": 1703554592,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388394,
+        "num": 388394,
+        "word": "3娃非亲生案",
+        "onboard_time": 1703554478,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012465,
+        "num": 386244,
+        "word": "订婚强奸案后女方家属想尽快结婚",
+        "onboard_time": 1703511515,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855223,
+        "num": 386084,
+        "word": "况盛",
+        "onboard_time": 1703547266,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 682269,
+        "num": 383466,
+        "word": "女子遭未婚夫强奸曾逃出房呼救被拖回",
+        "onboard_time": 1703510916,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379131,
+        "num": 379131,
+        "word": "网易暴雪复合",
+        "onboard_time": 1703502338,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 340749,
+        "num": 340749,
+        "word": "经济学家预测明年美股或将大跌86%",
+        "onboard_time": 1703556091,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299050,
+        "num": 299050,
+        "word": "同学你好这里不能写字",
+        "onboard_time": 1703549492,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291823,
+        "num": 291823,
+        "word": "冯小刚三句话不离优子",
+        "onboard_time": 1703550029,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263665,
+        "num": 263665,
+        "word": "大熊猫睡觉口水被冻成冰溜子",
+        "onboard_time": 1703548471,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258560,
+        "num": 258560,
+        "word": "3娃非亲生男子称3个孩子没一个理我",
+        "onboard_time": 1703556933,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251273,
+        "num": 251273,
+        "word": "当周深汪苏泷得知对手是韩红时",
+        "onboard_time": 1703551415,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333465,
+        "num": 251094,
+        "word": "经常吃这些食物更容易患糖尿病",
+        "onboard_time": 1703553874,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263710,
+        "num": 249976,
+        "word": "有些老年痴呆30到40岁就有苗头了",
+        "onboard_time": 1703554171,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248298,
+        "num": 248298,
+        "word": "赵昭仪的担心真的多虑了",
+        "onboard_time": 1703555252,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233750,
+        "num": 233750,
+        "word": "年底进口化妆品价格跳水几乎腰斩",
+        "onboard_time": 1703556154,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 208954,
+        "num": 208954,
+        "word": "谢谢你出生之后一直等我",
+        "onboard_time": 1703555373,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171677,
+        "num": 171677,
+        "word": "陈都灵下眼影 红色渐变感晕染",
+        "onboard_time": 1703550876,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163504,
+        "num": 163504,
+        "word": "魔兽世界社区已重新在网易大神上线",
+        "onboard_time": 1703556933,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159083,
+        "num": 159083,
+        "word": "内娱人自己也无法超越的TOP角色",
+        "onboard_time": 1703552194,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153432,
+        "num": 153432,
+        "word": "鸣龙少年 校长",
+        "onboard_time": 1703554773,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153277,
+        "num": 153277,
+        "word": "吴磊银色王冠",
+        "onboard_time": 1703547326,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152398,
+        "num": 152398,
+        "word": "本溪花28亿外包环卫却除不干净雪",
+        "onboard_time": 1703536514,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 145180,
+        "num": 145180,
+        "word": "我们只是师生关系 你越界了",
+        "onboard_time": 1703500956,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137613,
+        "num": 137613,
+        "word": "把毕业论文打印成了小票",
+        "onboard_time": 1703547566,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134548,
+        "num": 134548,
+        "word": "姐姐与妹妹争吵后将其双手肌腱割断",
+        "onboard_time": 1703509420,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132402,
+        "num": 132402,
+        "word": "2024天蝎座年度关键词",
+        "onboard_time": 1703516615,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132248,
+        "num": 132248,
+        "word": "魏晨醉酒戏真的喝了",
+        "onboard_time": 1703522786,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160659,
+        "num": 132200,
+        "word": "董宇辉一气呵成讲人类历史",
+        "onboard_time": 1703549011,
+        "rank": 36,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 131718,
+        "num": 131718,
+        "word": "化妆前敷面膜真的有用吗",
+        "onboard_time": 1703556813,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 129259,
+        "num": 129259,
+        "word": "本地泡菜太贵韩国人囤中国泡菜",
+        "onboard_time": 1703557293,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117698,
+        "num": 117698,
+        "word": "十个勤天西装正经不了三秒",
+        "onboard_time": 1703555794,
+        "rank": 39,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 116971,
+        "num": 116971,
+        "word": "成毅文明打码见外了",
+        "onboard_time": 1703551114,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115220,
+        "num": 115220,
+        "word": "广东千万净资产家庭近40万户",
+        "onboard_time": 1703545702,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 114971,
+        "num": 114971,
+        "word": "莫言写书有多快",
+        "onboard_time": 1703557234,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 114497,
+        "num": 114497,
+        "word": "男子回乡请全村老人免费吃8年饭",
+        "onboard_time": 1703554353,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114018,
+        "num": 114018,
+        "word": "我团要是能像SHINee一样就好了",
+        "onboard_time": 1703555492,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111105,
+        "num": 111105,
+        "word": "男子买房放女友名下分手后全要回",
+        "onboard_time": 1703513135,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103993,
+        "num": 103993,
+        "word": "试验二十四号C卫星成功发射",
+        "onboard_time": 1703557473,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101959,
+        "num": 101959,
+        "word": "为什么大家又爱上头戴式耳机",
+        "onboard_time": 1703516136,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100701,
+        "num": 100701,
+        "word": "男子隔空猥亵8名幼女获刑7年半",
+        "onboard_time": 1703506474,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99700,
+        "num": 99700,
+        "word": "警方通报理想L7清远2死1伤车祸",
+        "onboard_time": 1703541314,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}

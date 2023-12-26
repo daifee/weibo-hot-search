@@ -1,6 +1,6 @@
 {
   "startTime": 1703521370249,
-  "endTime": 1703554407596,
+  "endTime": 1703557570574,
   "band_list": [
     {
       "raw_hot": 1829484,
@@ -9,6 +9,14 @@
       "onboard_time": 1703547747,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1481966,
+      "num": 1481966,
+      "word": "孩子有超雄综合征就是天生坏种吗",
+      "onboard_time": 1703554651,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1465694,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1296015,
-      "num": 332038,
+      "num": 386084,
       "word": "况盛",
       "onboard_time": 1703547266,
       "rank": 44,
@@ -43,12 +51,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1054002,
+      "num": 1054002,
+      "word": "重庆一疑似智障女子与五旬男子结婚",
+      "onboard_time": 1703554832,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 913563,
       "num": 913563,
       "word": "网易暴雪复合",
       "onboard_time": 1703502338,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 682333,
+      "num": 682333,
+      "word": "中国象棋协会处罚全国冠军",
+      "onboard_time": 1703555734,
+      "rank": 5,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 625914,
@@ -115,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 475223,
+      "num": 475223,
+      "word": "胡海泉再被冻结115万股权",
+      "onboard_time": 1703554231,
+      "rank": 36,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 422580,
       "num": 422580,
       "word": "同学你好这里不能写字",
@@ -123,12 +155,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 412272,
+      "num": 412272,
+      "word": "甄嬛传演员进组的第一场戏",
+      "onboard_time": 1703554592,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396774,
       "num": 396774,
       "word": "你跟他讲道理 他跟你讲伦理",
       "onboard_time": 1703545220,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388394,
+      "num": 388394,
+      "word": "3娃非亲生案",
+      "onboard_time": 1703554478,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388308,
@@ -179,6 +227,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340749,
+      "num": 340749,
+      "word": "经济学家预测明年美股或将大跌86%",
+      "onboard_time": 1703556091,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 333465,
+      "num": 251094,
+      "word": "经常吃这些食物更容易患糖尿病",
+      "onboard_time": 1703553874,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 326692,
       "num": 326692,
       "word": "陈都灵下眼影 红色渐变感晕染",
@@ -219,12 +283,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 275409,
-      "num": 221655,
-      "word": "经常吃这些食物更容易患糖尿病",
-      "onboard_time": 1703553874,
-      "rank": 20,
+      "raw_hot": 263710,
+      "num": 249976,
+      "word": "有些老年痴呆30到40岁就有苗头了",
+      "onboard_time": 1703554171,
+      "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 258560,
+      "num": 258560,
+      "word": "3娃非亲生男子称3个孩子没一个理我",
+      "onboard_time": 1703556933,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257877,
@@ -243,6 +315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251273,
+      "num": 251273,
+      "word": "当周深汪苏泷得知对手是韩红时",
+      "onboard_time": 1703551415,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248298,
+      "num": 248298,
+      "word": "赵昭仪的担心真的多虑了",
+      "onboard_time": 1703555252,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 238669,
       "num": 238669,
       "word": "张雨绮肩膀上好大的两朵花",
@@ -259,20 +347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233750,
+      "num": 233750,
+      "word": "年底进口化妆品价格跳水几乎腰斩",
+      "onboard_time": 1703556154,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 223060,
       "num": 223060,
       "word": "吴磊银色王冠",
       "onboard_time": 1703547326,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 217255,
-      "num": 217255,
-      "word": "当周深汪苏泷得知对手是韩红时",
-      "onboard_time": 1703551415,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 214580,
@@ -289,6 +377,14 @@
       "onboard_time": 1703521648,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208954,
+      "num": 208954,
+      "word": "谢谢你出生之后一直等我",
+      "onboard_time": 1703555373,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206241,
@@ -403,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163504,
+      "num": 163504,
+      "word": "魔兽世界社区已重新在网易大神上线",
+      "onboard_time": 1703556933,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162404,
       "num": 150901,
       "word": "张艺兴将担任C罗中国行表演嘉宾",
@@ -443,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153432,
+      "num": 153432,
+      "word": "鸣龙少年 校长",
+      "onboard_time": 1703554773,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147955,
       "num": 147955,
       "word": "2023国际乒联年终排名",
@@ -465,14 +577,6 @@
       "onboard_time": 1703553275,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139547,
-      "num": 139547,
-      "word": "胡海泉再被冻结115万股权",
-      "onboard_time": 1703554231,
-      "rank": 36,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 136629,
@@ -499,12 +603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131718,
+      "num": 131718,
+      "word": "化妆前敷面膜真的有用吗",
+      "onboard_time": 1703556813,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 130651,
       "num": 130651,
       "word": "长头发小技巧",
       "onboard_time": 1703552493,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 129259,
+      "num": 129259,
+      "word": "本地泡菜太贵韩国人囤中国泡菜",
+      "onboard_time": 1703557293,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 127477,
@@ -539,6 +659,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 117698,
+      "num": 117698,
+      "word": "十个勤天西装正经不了三秒",
+      "onboard_time": 1703555794,
+      "rank": 39,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 114971,
+      "num": 114971,
+      "word": "莫言写书有多快",
+      "onboard_time": 1703557234,
+      "rank": 42,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 114129,
       "num": 114129,
       "word": "小伙地震逃生撞伤腰意外查出肝癌",
@@ -547,12 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112873,
-      "num": 112873,
-      "word": "有些老年痴呆30到40岁就有苗头了",
-      "onboard_time": 1703554171,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 114018,
+      "num": 114018,
+      "word": "我团要是能像SHINee一样就好了",
+      "onboard_time": 1703555492,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 112209,
@@ -569,6 +705,14 @@
       "onboard_time": 1703554231,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103993,
+      "num": 103993,
+      "word": "试验二十四号C卫星成功发射",
+      "onboard_time": 1703557473,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103197,
@@ -740,7 +884,7 @@
     },
     {
       "raw_hot": 71016,
-      "num": 643527,
+      "num": 1077432,
       "word": "网信办处置一批仿冒企业诈骗网站",
       "onboard_time": 1703552374,
       "rank": 2,
