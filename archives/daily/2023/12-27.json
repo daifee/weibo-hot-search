@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703619234990,
+  "endTime": 1703621886918,
   "band_list": [
     {
       "raw_hot": 935631,
@@ -483,20 +483,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 15063,
+      "num": 15652,
+      "word": "下雪能让人少生病是真的吗",
+      "onboard_time": 1703618415,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 13135,
       "num": 19806,
       "word": "馒头夹香肠山东人的快乐",
       "onboard_time": 1703616077,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 12757,
-      "num": 15652,
-      "word": "下雪能让人少生病是真的吗",
-      "onboard_time": 1703618415,
-      "rank": 48,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
