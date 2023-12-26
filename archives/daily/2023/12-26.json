@@ -1,6 +1,6 @@
 {
   "startTime": 1703521370249,
-  "endTime": 1703593888631,
+  "endTime": 1703594801371,
   "band_list": [
     {
       "raw_hot": 3837371,
@@ -187,6 +187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 900710,
+      "num": 900710,
+      "word": "王嘉尔三观",
+      "onboard_time": 1703592874,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 898896,
       "num": 898896,
       "word": "女子酒店里踩空摔瘫痪获赔119万",
@@ -280,6 +288,14 @@
       "word": "南京胖哥说2023像经历了半辈子",
       "onboard_time": 1703563900,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 701502,
+      "num": 701502,
+      "word": "闲鱼回应援助加拿大鹅被倒卖",
+      "onboard_time": 1703591672,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -443,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564119,
+      "num": 230840,
+      "word": "孕妇因一口草莓吐血差点丧命",
+      "onboard_time": 1703593234,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557546,
       "num": 557546,
       "word": "知网 我只想赶个ddl",
@@ -465,14 +489,6 @@
       "onboard_time": 1703509420,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546586,
-      "num": 452197,
-      "word": "王嘉尔三观",
-      "onboard_time": 1703592874,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 545197,
@@ -539,12 +555,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 486632,
-      "num": 486632,
-      "word": "闲鱼回应援助加拿大鹅被倒卖",
-      "onboard_time": 1703591672,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 484441,
+      "num": 484441,
+      "word": "对乙酰氨基酚与布洛芬区别",
+      "onboard_time": 1703592334,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 479153,
@@ -579,6 +595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 468200,
+      "num": 468200,
+      "word": "腿姐 大学生躺平只是说说而已",
+      "onboard_time": 1703591373,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 459731,
       "num": 459731,
       "word": "上班装忙",
@@ -601,14 +625,6 @@
       "onboard_time": 1703569895,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454378,
-      "num": 454378,
-      "word": "腿姐 大学生躺平只是说说而已",
-      "onboard_time": 1703591373,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 444592,
@@ -641,14 +657,6 @@
       "onboard_time": 1703585316,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434240,
-      "num": 434240,
-      "word": "对乙酰氨基酚与布洛芬区别",
-      "onboard_time": 1703592334,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 428066,
@@ -915,6 +923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 309665,
+      "num": 309665,
+      "word": "江苏一公司不发工资发积分",
+      "onboard_time": 1703593473,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298590,
       "num": 230766,
       "word": "这3种伤肝水劝你少喝",
@@ -1107,14 +1123,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 244411,
-      "num": 228401,
-      "word": "孕妇因一口草莓吐血差点丧命",
-      "onboard_time": 1703593234,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243725,
       "num": 243725,
       "word": "天鹅幼崽被冻冰面大爷踏冰解救",
@@ -1203,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231443,
+      "num": 231443,
+      "word": "情绪稳定 倒霉惯了",
+      "onboard_time": 1703592692,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229199,
       "num": 229199,
       "word": "青年教师月薪被指难养家糊口",
@@ -1281,14 +1297,6 @@
       "onboard_time": 1703570736,
       "rank": 25,
       "category": "艺人,财经"
-    },
-    {
-      "raw_hot": 219869,
-      "num": 219869,
-      "word": "情绪稳定 倒霉惯了",
-      "onboard_time": 1703592692,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 216575,
@@ -1547,6 +1555,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 190026,
+      "num": 190026,
+      "word": "WB扳回一城",
+      "onboard_time": 1703593832,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188761,
       "num": 188761,
       "word": "蒙古科目三",
@@ -1593,14 +1609,6 @@
       "onboard_time": 1703571818,
       "rank": 34,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 185556,
-      "num": 185556,
-      "word": "江苏一公司不发工资发积分",
-      "onboard_time": 1703593473,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184481,
@@ -1729,6 +1737,14 @@
       "onboard_time": 1703479479,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166398,
+      "num": 166398,
+      "word": "梁朝伟刘德华自拍",
+      "onboard_time": 1703594254,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 165984,
@@ -1899,6 +1915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150960,
+      "num": 150960,
+      "word": "广州男篮vs辽宁男篮",
+      "onboard_time": 1703594432,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150787,
       "num": 150787,
       "word": "2023嗑cp年度报告",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1703581535,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144259,
+      "num": 144259,
+      "word": "KSG对战WB",
+      "onboard_time": 1703594495,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 141276,
@@ -2219,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121762,
+      "num": 121762,
+      "word": "北京橘红色晚霞",
+      "onboard_time": 1703594674,
+      "rank": 40,
+      "category": "自然"
+    },
+    {
       "raw_hot": 121233,
       "num": 121233,
       "word": "5亿辈子很长吗 武艺被子就是短",
@@ -2259,6 +2299,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118630,
+      "num": 118630,
+      "word": "将太郎西村力Siren Challenge",
+      "onboard_time": 1703594674,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 118219,
+      "num": 118219,
+      "word": "大鹅偷偷练芭蕾",
+      "onboard_time": 1703594254,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118090,
       "num": 118090,
       "word": "繁花央八版首播日预告",
@@ -2273,14 +2329,6 @@
       "onboard_time": 1703555794,
       "rank": 39,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 116539,
-      "num": 116539,
-      "word": "WB扳回一城",
-      "onboard_time": 1703593832,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 116301,
@@ -2313,6 +2361,22 @@
       "onboard_time": 1703506294,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111722,
+      "num": 111722,
+      "word": "KSG 打野",
+      "onboard_time": 1703594735,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 110858,
+      "num": 110858,
+      "word": "神隐",
+      "onboard_time": 1703594735,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 108019,
@@ -2745,6 +2809,14 @@
       "onboard_time": 1703529377,
       "rank": 43,
       "category": "剧集,时尚"
+    },
+    {
+      "raw_hot": 14849,
+      "num": 905907,
+      "word": "三条高铁今日开通",
+      "onboard_time": 1703594735,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10887,
