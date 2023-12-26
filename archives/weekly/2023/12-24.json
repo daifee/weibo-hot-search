@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703594801371,
+  "endTime": 1703596774413,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -337,6 +337,14 @@
       "onboard_time": 1703415337,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1594046,
+      "num": 1594046,
+      "word": "青簪行有消息了",
+      "onboard_time": 1703594973,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1574803,
@@ -723,8 +731,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 900710,
-      "num": 900710,
+      "raw_hot": 905400,
+      "num": 905400,
       "word": "王嘉尔三观",
       "onboard_time": 1703592874,
       "rank": 10,
@@ -1051,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 730561,
+      "num": 730561,
+      "word": "闲鱼回应援助加拿大鹅被倒卖",
+      "onboard_time": 1703591672,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 729746,
       "num": 729746,
       "word": "迪丽热巴黑粉拒不道歉被强执",
@@ -1121,14 +1137,6 @@
       "onboard_time": 1703473415,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 701502,
-      "num": 701502,
-      "word": "闲鱼回应援助加拿大鹅被倒卖",
-      "onboard_time": 1703591672,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 700133,
@@ -1219,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 671910,
+      "num": 230840,
+      "word": "孕妇因一口草莓吐血差点丧命",
+      "onboard_time": 1703593234,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667818,
       "num": 263698,
       "word": "民众手持白菊悼念朱令",
@@ -1264,6 +1280,14 @@
       "word": "陈都灵跳舞 学霸的自信",
       "onboard_time": 1703421515,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 654081,
+      "num": 455127,
+      "word": "鞠婧祎方辟谣和刘宇宁合作",
+      "onboard_time": 1703594794,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1539,11 +1563,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 564119,
-      "num": 230840,
-      "word": "孕妇因一口草莓吐血差点丧命",
-      "onboard_time": 1703593234,
-      "rank": 21,
+      "raw_hot": 563731,
+      "num": 563731,
+      "word": "江苏一公司不发工资发积分",
+      "onboard_time": 1703593473,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -2683,6 +2707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336696,
+      "num": 291469,
+      "word": "企查查辟谣邓为是工作室老板",
+      "onboard_time": 1703594794,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334954,
       "num": 334954,
       "word": "迪士尼",
@@ -2836,7 +2868,7 @@
     },
     {
       "raw_hot": 317992,
-      "num": 507469,
+      "num": 987851,
       "word": "我国北斗系统性能再次提升",
       "onboard_time": 1703577694,
       "rank": 9,
@@ -2913,14 +2945,6 @@
       "onboard_time": 1703575360,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 309665,
-      "num": 309665,
-      "word": "江苏一公司不发工资发积分",
-      "onboard_time": 1703593473,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307972,
@@ -3145,6 +3169,14 @@
       "onboard_time": 1703386293,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286347,
+      "num": 286347,
+      "word": "腿不直原来才是正常的",
+      "onboard_time": 1703595755,
+      "rank": 17,
+      "category": "运动健身"
     },
     {
       "raw_hot": 285224,
@@ -3803,6 +3835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 236455,
+      "num": 236455,
+      "word": "赵露思粉色绒翎纱裙",
+      "onboard_time": 1703596114,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236318,
       "num": 236318,
       "word": "三大队 看哭了",
@@ -3993,6 +4033,14 @@
       "onboard_time": 1703469333,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223269,
+      "num": 214263,
+      "word": "将太郎西村力Siren Challenge",
+      "onboard_time": 1703594674,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 223141,
@@ -4507,6 +4555,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 199947,
+      "num": 199947,
+      "word": "张晚意 背德文学",
+      "onboard_time": 1703596053,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199360,
       "num": 199360,
       "word": "361官宣签下约基奇",
@@ -4529,6 +4585,22 @@
       "onboard_time": 1703415274,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199054,
+      "num": 180809,
+      "word": "三大队 俄罗斯方块线索",
+      "onboard_time": 1703596053,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 198928,
+      "num": 180752,
+      "word": "电子请柬 社死",
+      "onboard_time": 1703595996,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 198825,
@@ -4795,6 +4867,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 191953,
+      "num": 191953,
+      "word": "周深 蒙古长调",
+      "onboard_time": 1703596294,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191346,
       "num": 191346,
       "word": "暴雪称希望确保中国玩家能玩暴雪游戏",
@@ -4899,6 +4979,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 188067,
+      "num": 188067,
+      "word": "孙丞潇因为金莎夸此沙帅吃醋",
+      "onboard_time": 1703595572,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187483,
       "num": 226575,
       "word": "还是孩子的哥哥为妹妹撑起一片天",
@@ -4985,6 +5073,14 @@
       "onboard_time": 1703388571,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185242,
+      "num": 185242,
+      "word": "辛芷蕾 哑巴额娘",
+      "onboard_time": 1703596413,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184265,
@@ -5081,6 +5177,14 @@
       "onboard_time": 1703507135,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180659,
+      "num": 180659,
+      "word": "电影三大队主题路演",
+      "onboard_time": 1703596114,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 180306,
@@ -5875,6 +5979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156997,
+      "num": 156997,
+      "word": "KSG 打野",
+      "onboard_time": 1703594735,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156937,
       "num": 156937,
       "word": "如何正确预防抑郁症",
@@ -6419,6 +6531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140855,
+      "num": 140855,
+      "word": "跑着的是高铁更是飞速发展的祖国",
+      "onboard_time": 1703596294,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140816,
       "num": 140816,
       "word": "美妆蛋不仅可上妆还能卸妆",
@@ -6739,6 +6859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 132343,
+      "num": 132343,
+      "word": "神隐 晋神的代价",
+      "onboard_time": 1703595153,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131894,
       "num": 131894,
       "word": "当地称智障女子结婚不存在违法情形",
@@ -6961,6 +7089,14 @@
       "onboard_time": 1703306021,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127154,
+      "num": 127154,
+      "word": "今年小说TOP推荐",
+      "onboard_time": 1703596595,
+      "rank": 43,
+      "category": "读书作家"
     },
     {
       "raw_hot": 126883,
@@ -7235,14 +7371,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 118630,
-      "num": 118630,
-      "word": "将太郎西村力Siren Challenge",
-      "onboard_time": 1703594674,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 118511,
       "num": 118511,
       "word": "萌兰眼疾手快接笋笋",
@@ -7467,20 +7595,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111722,
-      "num": 111722,
-      "word": "KSG 打野",
-      "onboard_time": 1703594735,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 111712,
       "num": 111712,
       "word": "这一截小狗算是被你玩明白了",
       "onboard_time": 1703464775,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110441,
+      "num": 110441,
+      "word": "你用电热毯一般开多久",
+      "onboard_time": 1703594373,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110258,
@@ -8451,6 +8579,9 @@
     },
     {
       "word": "#团结一致敢于斗争力量源于团结#"
+    },
+    {
+      "word": "#纪念毛泽东同志诞辰130周年座谈会#"
     }
   ]
 }
