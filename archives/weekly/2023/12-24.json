@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703565305975,
+  "endTime": 1703567814510,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -184,6 +184,14 @@
       "word": "曾参与朱令铊中毒抢救诊治医生发声",
       "onboard_time": 1703391813,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1932684,
+      "num": 1932684,
+      "word": "陶勇回应近期网络风波",
+      "onboard_time": 1703564918,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -635,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 892563,
+      "num": 892563,
+      "word": "月经推迟可不只有贫血",
+      "onboard_time": 1703566177,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 888428,
       "num": 567858,
       "word": "胡一天发长文谈三十岁",
@@ -715,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 846204,
+      "num": 846204,
+      "word": "韩后创始人卖豪宅还债",
+      "onboard_time": 1703564497,
+      "rank": 21,
+      "category": "美妆,财经"
+    },
+    {
       "raw_hot": 841661,
       "num": 841661,
       "word": "可可西里网红狼铁饭碗被端",
@@ -729,14 +753,6 @@
       "onboard_time": 1703480380,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 831908,
-      "num": 831908,
-      "word": "陶勇回应近期网络风波",
-      "onboard_time": 1703564918,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 830512,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1703499275,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 611631,
+      "num": 611631,
+      "word": "公司一年多骗领生育津贴980万元",
+      "onboard_time": 1703564918,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608051,
@@ -1691,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 455141,
+      "num": 455141,
+      "word": "甄嬛传演员进组的第一场戏",
+      "onboard_time": 1703554592,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 454779,
       "num": 454779,
       "word": "小猫辛辛苦苦抢了一块白菜帮",
@@ -1809,14 +1841,6 @@
       "onboard_time": 1703427277,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 421316,
-      "num": 421316,
-      "word": "甄嬛传演员进组的第一场戏",
-      "onboard_time": 1703554592,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 421277,
@@ -2131,12 +2155,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 355898,
-      "num": 355898,
-      "word": "韩后创始人卖豪宅还债",
-      "onboard_time": 1703564497,
-      "rank": 21,
-      "category": "美妆,财经"
+      "raw_hot": 354214,
+      "num": 354214,
+      "word": "刘浩存台词",
+      "onboard_time": 1703564618,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 353799,
@@ -2489,6 +2513,14 @@
       "onboard_time": 1703514035,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302334,
+      "num": 302334,
+      "word": "况盛售卖服饰被指抄袭",
+      "onboard_time": 1703566658,
+      "rank": 23,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 300930,
@@ -3019,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242403,
+      "num": 242403,
+      "word": "盒马山姆贴脸商战引围观",
+      "onboard_time": 1703564618,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 241602,
       "num": 241602,
       "word": "电子中药",
@@ -3147,6 +3187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 236151,
+      "num": 236151,
+      "word": "无心是刘学义吗",
+      "onboard_time": 1703567258,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236129,
       "num": 236129,
       "word": "理想汽车公布L7广东车祸视频",
@@ -3193,14 +3241,6 @@
       "onboard_time": 1703403211,
       "rank": 44,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 233268,
-      "num": 233268,
-      "word": "刘浩存台词",
-      "onboard_time": 1703564618,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 232230,
@@ -3273,6 +3313,14 @@
       "onboard_time": 1703560895,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225279,
+      "num": 225279,
+      "word": "孙颖莎统治2023",
+      "onboard_time": 1703566234,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 224955,
@@ -3387,12 +3435,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216575,
+      "num": 216575,
+      "word": "星穹铁道阮梅",
+      "onboard_time": 1703566897,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216134,
       "num": 216134,
       "word": "越南版长月烬明太搞笑了",
       "onboard_time": 1703472754,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215534,
+      "num": 215534,
+      "word": "冯唐建议年轻人在职场先学会跟随",
+      "onboard_time": 1703565638,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 215493,
@@ -3481,14 +3545,6 @@
       "onboard_time": 1703555373,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208907,
-      "num": 208907,
-      "word": "盒马山姆贴脸商战引围观",
-      "onboard_time": 1703564618,
-      "rank": 34,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 208659,
@@ -3921,14 +3977,6 @@
       "onboard_time": 1703559277,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 192557,
-      "num": 192557,
-      "word": "公司一年多骗领生育津贴980万元",
-      "onboard_time": 1703564918,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192116,
@@ -4811,6 +4859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157920,
+      "num": 458689,
+      "word": "雷军说泄密很遗憾",
+      "onboard_time": 1703565218,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157912,
       "num": 157912,
       "word": "麻辣烫糖葫芦在韩国爆火",
@@ -5329,6 +5385,14 @@
       "onboard_time": 1703403572,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139993,
+      "num": 139993,
+      "word": "豆瓣2023年度电影榜单",
+      "onboard_time": 1703566298,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 139490,
@@ -6035,6 +6099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117029,
+      "num": 117029,
+      "word": "庄达菲新浪扫楼",
+      "onboard_time": 1703567617,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115599,
       "num": 115599,
       "word": "张新成回应为什么客串三大队",
@@ -6267,6 +6339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104728,
+      "num": 104728,
+      "word": "独行侠vs太阳",
+      "onboard_time": 1703566962,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104195,
       "num": 1040294,
       "word": "甘肃震区中小学有序复课",
@@ -6340,7 +6420,7 @@
     },
     {
       "raw_hot": 98744,
-      "num": 1095565,
+      "num": 1264631,
       "word": "盘点2023大国重器新突破",
       "onboard_time": 1703551534,
       "rank": 48,
@@ -6483,6 +6563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80176,
+      "num": 456439,
+      "word": "蜜雪冰城回应免单造型",
+      "onboard_time": 1703566835,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 78166,
       "num": 78166,
       "word": "李雪琴给李现挡水挡上瘾了",
@@ -6560,14 +6648,6 @@
       "word": "男孩忘带家门钥匙趴在派出所门口写作业",
       "onboard_time": 1703545160,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68273,
-      "num": 126426,
-      "word": "雷军说泄密很遗憾",
-      "onboard_time": 1703565218,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
