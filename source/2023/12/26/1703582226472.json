@@ -1,0 +1,410 @@
+{
+  "runTime": 1703582226472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2439904,
+        "num": 2439904,
+        "word": "麦当劳明起涨价",
+        "onboard_time": 1703574157,
+        "rank": 0,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 1688479,
+        "num": 1688479,
+        "word": "邓为前助理被拖欠工资",
+        "onboard_time": 1703579074,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35938,
+        "num": 804837,
+        "word": "2023中国时刻",
+        "onboard_time": 1703580577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771054,
+        "num": 771054,
+        "word": "民政局回应疑智障女子与五旬男子结婚",
+        "onboard_time": 1703579611,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666543,
+        "num": 666543,
+        "word": "金莎因为孙丞潇戴初恋送的项链哭了",
+        "onboard_time": 1703570974,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630052,
+        "num": 630052,
+        "word": "华为耳夹耳机",
+        "onboard_time": 1703577217,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 557546,
+        "num": 557546,
+        "word": "知网 我只想赶个ddl",
+        "onboard_time": 1703580339,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 539004,
+        "num": 539004,
+        "word": "迪丽热巴与摄像头决裂",
+        "onboard_time": 1703576316,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494121,
+        "num": 494121,
+        "word": "南京胖哥说如果重来不会再去肉搏",
+        "onboard_time": 1703576614,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440558,
+        "num": 440558,
+        "word": "春夜",
+        "onboard_time": 1703577336,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441051,
+        "num": 415792,
+        "word": "官方回应加鹅羽绒服疑被挂闲鱼倒卖",
+        "onboard_time": 1703570974,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90964,
+        "num": 372234,
+        "word": "可变光圈会成为手机刚需吗",
+        "onboard_time": 1703579794,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 459831,
+        "num": 371618,
+        "word": "迪丽热巴告别克罗地亚",
+        "onboard_time": 1703576493,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368671,
+        "num": 368671,
+        "word": "月经推迟可不只有贫血",
+        "onboard_time": 1703566177,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 374503,
+        "num": 367625,
+        "word": "王安宇胡先煦饭都不香了",
+        "onboard_time": 1703576976,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362232,
+        "num": 362232,
+        "word": "董明珠称矿井空调让矿工从裸体上班到穿西装",
+        "onboard_time": 1703571515,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347753,
+        "num": 347753,
+        "word": "娜然说封神上映后头发白了一半",
+        "onboard_time": 1703572415,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332855,
+        "num": 332855,
+        "word": "网红狐狸死在雪地里",
+        "onboard_time": 1703560654,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309940,
+        "num": 309940,
+        "word": "问界M9",
+        "onboard_time": 1703575360,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 303578,
+        "num": 303578,
+        "word": "女子酒店里踩空摔瘫痪获赔119万",
+        "onboard_time": 1703580394,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348497,
+        "num": 303379,
+        "word": "不要和同班同学谈恋爱",
+        "onboard_time": 1703578236,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319913,
+        "num": 303369,
+        "word": "98年辞掉工作做直播是什么体验",
+        "onboard_time": 1703581055,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302783,
+        "num": 302783,
+        "word": "象棋比赛的肛珠作弊是什么",
+        "onboard_time": 1703576854,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298693,
+        "num": 298693,
+        "word": "刘宇宁鞠婧祎 合作",
+        "onboard_time": 1703581774,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284612,
+        "num": 293928,
+        "word": "麦门信徒落泪",
+        "onboard_time": 1703580995,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 292793,
+        "num": 292793,
+        "word": "这不得租个房子慢慢吃",
+        "onboard_time": 1703570736,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 262362,
+        "num": 262362,
+        "word": "排尿时发现这6个异常应及早检查",
+        "onboard_time": 1703570736,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252937,
+        "num": 252937,
+        "word": "月经总推迟或增大不孕风险",
+        "onboard_time": 1703581114,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249795,
+        "num": 249795,
+        "word": "建议关闭免密支付功能",
+        "onboard_time": 1703569055,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136401,
+        "num": 247292,
+        "word": "我国北斗系统性能再次提升",
+        "onboard_time": 1703577694,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245702,
+        "num": 245702,
+        "word": "眼睛为什么不怕冷",
+        "onboard_time": 1703581232,
+        "rank": 30,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 239731,
+        "num": 239731,
+        "word": "仪式感是自己给的 包括离婚",
+        "onboard_time": 1703579794,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238072,
+        "num": 238072,
+        "word": "陶勇回应近期网络风波",
+        "onboard_time": 1703564918,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215217,
+        "num": 215217,
+        "word": "SBS歌谣大战出现的状况",
+        "onboard_time": 1703581357,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203170,
+        "num": 203170,
+        "word": "一网民造谣阿里献血事件被行拘",
+        "onboard_time": 1703581834,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42527,
+        "num": 202086,
+        "word": "问界M9首搭华为最强ARHUD",
+        "onboard_time": 1703581413,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201226,
+        "num": 201226,
+        "word": "柠萌影视请徐梦洁拍兽药广告被罚",
+        "onboard_time": 1703573074,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197262,
+        "num": 197262,
+        "word": "辛芷蕾 别问",
+        "onboard_time": 1703579253,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184032,
+        "num": 184032,
+        "word": "王传君希望王鹤棣演他爸爸",
+        "onboard_time": 1703573495,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181972,
+        "num": 181972,
+        "word": "读者开年封面是萌兰",
+        "onboard_time": 1703580697,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178952,
+        "num": 178952,
+        "word": "狼队扳平比分",
+        "onboard_time": 1703582014,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161262,
+        "num": 161262,
+        "word": "庄达菲工作人员当众摸鱼",
+        "onboard_time": 1703578776,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160307,
+        "num": 160307,
+        "word": "狼队 抽象",
+        "onboard_time": 1703577459,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149080,
+        "num": 149080,
+        "word": "华为nova12发布",
+        "onboard_time": 1703574277,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147605,
+        "num": 147605,
+        "word": "A股",
+        "onboard_time": 1703579973,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144703,
+        "num": 144703,
+        "word": "央美学子打麻将打出10幅仕女图",
+        "onboard_time": 1703581535,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131503,
+        "num": 131503,
+        "word": "华为发布会",
+        "onboard_time": 1703575236,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122831,
+        "num": 122831,
+        "word": "董思成 于正剧",
+        "onboard_time": 1703582135,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122019,
+        "num": 122019,
+        "word": "少年歌行2 原班人马",
+        "onboard_time": 1703562996,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71212,
+        "num": 121031,
+        "word": "问界M9搭载首个车规级投影系统",
+        "onboard_time": 1703582194,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#团结一致敢于斗争力量源于团结#"
+    }
+  }
+}
