@@ -1,6 +1,6 @@
 {
   "startTime": 1703521370249,
-  "endTime": 1703568863532,
+  "endTime": 1703571745846,
   "band_list": [
     {
       "raw_hot": 3837371,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1251977,
+      "num": 1251977,
+      "word": "月经推迟可不只有贫血",
+      "onboard_time": 1703566177,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1225222,
       "num": 1076088,
       "word": "重庆一疑似智障女子与五旬男子结婚",
@@ -91,12 +99,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1030406,
-      "num": 1030406,
-      "word": "月经推迟可不只有贫血",
-      "onboard_time": 1703566177,
-      "rank": 3,
-      "category": "健康医疗"
+      "raw_hot": 1015969,
+      "num": 1015969,
+      "word": "金莎因为孙丞潇戴初恋送的项链哭了",
+      "onboard_time": 1703570974,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 913563,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638479,
+      "num": 229360,
+      "word": "建议关闭免密支付功能",
+      "onboard_time": 1703569055,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625914,
       "num": 327170,
       "word": "我们只是师生关系 你越界了",
@@ -201,6 +217,14 @@
       "onboard_time": 1703547326,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 575284,
+      "num": 227811,
+      "word": "排尿时发现这6个异常应及早检查",
+      "onboard_time": 1703570736,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 572290,
@@ -291,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 454717,
+      "num": 302094,
+      "word": "龍行龘龘著作版权无偿公开",
+      "onboard_time": 1703569895,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444592,
       "num": 444592,
       "word": "王楚钦领衔年度十佳运动员",
@@ -363,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386838,
+      "num": 386838,
+      "word": "无心是刘学义吗",
+      "onboard_time": 1703567258,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 381566,
       "num": 381566,
       "word": "男子买房放女友名下分手后全要回",
@@ -400,14 +440,6 @@
       "word": "刘浩存台词",
       "onboard_time": 1703564618,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 364093,
-      "num": 364093,
-      "word": "无心是刘学义吗",
-      "onboard_time": 1703567258,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -523,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253791,
+      "num": 253791,
+      "word": "官方回应加鹅羽绒服疑被挂闲鱼倒卖",
+      "onboard_time": 1703570974,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252823,
       "num": 252823,
       "word": "盒马山姆贴脸商战引围观",
@@ -603,6 +643,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233771,
+      "num": 233771,
+      "word": "孩子的差距主要输在周末和晚上",
+      "onboard_time": 1703569833,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 229019,
+      "num": 191503,
+      "word": "这不得租个房子慢慢吃",
+      "onboard_time": 1703570736,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 228938,
       "num": 228938,
       "word": "超雄综合征",
@@ -659,12 +715,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214019,
+      "num": 214019,
+      "word": "王一博蓝色高领毛衣",
+      "onboard_time": 1703568754,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213127,
       "num": 213127,
       "word": "王一博新歌歌词",
       "onboard_time": 1703521648,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209286,
+      "num": 209286,
+      "word": "关晓彤代言的天然呆再被执行430万",
+      "onboard_time": 1703570736,
+      "rank": 25,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 208954,
@@ -696,6 +768,14 @@
       "word": "陈卓璇英文",
       "onboard_time": 1703558193,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201319,
+      "num": 201319,
+      "word": "秦海璐胡先煦信任危机",
+      "onboard_time": 1703571095,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -755,14 +835,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 188967,
-      "num": 188967,
-      "word": "王一博蓝色高领毛衣",
-      "onboard_time": 1703568754,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188617,
       "num": 180904,
       "word": "迪士尼 狐朋狗友",
@@ -779,12 +851,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186322,
+      "num": 186322,
+      "word": "青年教师月薪被指难养家糊口",
+      "onboard_time": 1703570673,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184481,
       "num": 151501,
       "word": "大便出现这些异常千万要当心",
       "onboard_time": 1703509477,
       "rank": 22,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 183651,
+      "num": 183651,
+      "word": "我知道我爱你 男小三",
+      "onboard_time": 1703571456,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 179422,
@@ -915,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153952,
+      "num": 153952,
+      "word": "广东惠东10多万就能买到海景房",
+      "onboard_time": 1703569956,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 153432,
       "num": 153432,
       "word": "鸣龙少年 校长",
@@ -937,6 +1033,14 @@
       "onboard_time": 1703553874,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147623,
+      "num": 147623,
+      "word": "董明珠称矿井空调让矿工从裸体上班到穿西装",
+      "onboard_time": 1703571515,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147572,
@@ -993,6 +1097,14 @@
       "onboard_time": 1703567617,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138175,
+      "num": 138175,
+      "word": "不要随意投喂野生动物",
+      "onboard_time": 1703570736,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 138074,
@@ -1121,6 +1233,14 @@
       "onboard_time": 1703560233,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120748,
+      "num": 120748,
+      "word": "订婚强奸案为何会引发争议",
+      "onboard_time": 1703570259,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120468,

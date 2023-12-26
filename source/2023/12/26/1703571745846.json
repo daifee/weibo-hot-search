@@ -1,0 +1,410 @@
+{
+  "runTime": 1703571745846,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1251977,
+        "num": 1251977,
+        "word": "月经推迟可不只有贫血",
+        "onboard_time": 1703566177,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1015969,
+        "num": 1015969,
+        "word": "金莎因为孙丞潇戴初恋送的项链哭了",
+        "onboard_time": 1703570974,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31595,
+        "num": 882934,
+        "word": "盘点2023大国重器新突破",
+        "onboard_time": 1703551534,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1243024,
+        "num": 882677,
+        "word": "网红狐狸死在雪地里",
+        "onboard_time": 1703560654,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855376,
+        "num": 855376,
+        "word": "陶勇回应近期网络风波",
+        "onboard_time": 1703564918,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592557,
+        "num": 592557,
+        "word": "公司一年多骗领生育津贴980万元",
+        "onboard_time": 1703564918,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495110,
+        "num": 495110,
+        "word": "韩后创始人卖豪宅还债",
+        "onboard_time": 1703564497,
+        "rank": 6,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 386838,
+        "num": 386838,
+        "word": "无心是刘学义吗",
+        "onboard_time": 1703567258,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354030,
+        "num": 354030,
+        "word": "张杰谢娜跳单案中介公司注销",
+        "onboard_time": 1703559393,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311577,
+        "num": 311577,
+        "word": "迪丽热巴水上钢琴光影大片",
+        "onboard_time": 1703561855,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 602895,
+        "num": 309801,
+        "word": "订婚强奸案后女方家属想尽快结婚",
+        "onboard_time": 1703511515,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454717,
+        "num": 302094,
+        "word": "龍行龘龘著作版权无偿公开",
+        "onboard_time": 1703569895,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394134,
+        "num": 296631,
+        "word": "孩子有超雄综合征就是天生坏种吗",
+        "onboard_time": 1703554651,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 322633,
+        "num": 287538,
+        "word": "股市",
+        "onboard_time": 1703564079,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 282410,
+        "num": 282410,
+        "word": "况盛",
+        "onboard_time": 1703547266,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272710,
+        "num": 272710,
+        "word": "况盛售卖服饰被指抄袭",
+        "onboard_time": 1703566658,
+        "rank": 15,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 253791,
+        "num": 253791,
+        "word": "官方回应加鹅羽绒服疑被挂闲鱼倒卖",
+        "onboard_time": 1703570974,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247712,
+        "num": 247712,
+        "word": "刘浩存台词",
+        "onboard_time": 1703564618,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233771,
+        "num": 233771,
+        "word": "孩子的差距主要输在周末和晚上",
+        "onboard_time": 1703569833,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229480,
+        "num": 229480,
+        "word": "王安宇 摄影博主",
+        "onboard_time": 1703567855,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 638479,
+        "num": 229360,
+        "word": "建议关闭免密支付功能",
+        "onboard_time": 1703569055,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575284,
+        "num": 227811,
+        "word": "排尿时发现这6个异常应及早检查",
+        "onboard_time": 1703570736,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223926,
+        "num": 223926,
+        "word": "3娃非亲生男子称3个孩子没一个理我",
+        "onboard_time": 1703556933,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215186,
+        "num": 215186,
+        "word": "甄嬛传演员进组的第一场戏",
+        "onboard_time": 1703554592,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214019,
+        "num": 214019,
+        "word": "王一博蓝色高领毛衣",
+        "onboard_time": 1703568754,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209286,
+        "num": 209286,
+        "word": "关晓彤代言的天然呆再被执行430万",
+        "onboard_time": 1703570736,
+        "rank": 25,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 201319,
+        "num": 201319,
+        "word": "秦海璐胡先煦信任危机",
+        "onboard_time": 1703571095,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200845,
+        "num": 200845,
+        "word": "重庆一疑似智障女子与五旬男子结婚",
+        "onboard_time": 1703554832,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200604,
+        "num": 200604,
+        "word": "网剧少年歌行2官宣",
+        "onboard_time": 1703561253,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135463,
+        "num": 192082,
+        "word": "毛主席诞辰130周年",
+        "onboard_time": 1703547326,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 229019,
+        "num": 191503,
+        "word": "这不得租个房子慢慢吃",
+        "onboard_time": 1703570736,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186322,
+        "num": 186322,
+        "word": "青年教师月薪被指难养家糊口",
+        "onboard_time": 1703570673,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183651,
+        "num": 183651,
+        "word": "我知道我爱你 男小三",
+        "onboard_time": 1703571456,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155174,
+        "num": 155174,
+        "word": "盒马山姆贴脸商战引围观",
+        "onboard_time": 1703564618,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 153952,
+        "num": 153952,
+        "word": "广东惠东10多万就能买到海景房",
+        "onboard_time": 1703569956,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 151559,
+        "num": 151559,
+        "word": "胡一天发长文谈三十岁",
+        "onboard_time": 1703559813,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147623,
+        "num": 147623,
+        "word": "董明珠称矿井空调让矿工从裸体上班到穿西装",
+        "onboard_time": 1703571515,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143388,
+        "num": 143388,
+        "word": "加拿大最敷衍的地名",
+        "onboard_time": 1703568815,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142155,
+        "num": 142155,
+        "word": "冯唐建议年轻人在职场先学会跟随",
+        "onboard_time": 1703565638,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 142080,
+        "num": 142080,
+        "word": "经常吃这些食物更容易患糖尿病",
+        "onboard_time": 1703553874,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141656,
+        "num": 141656,
+        "word": "孙颖莎统治2023",
+        "onboard_time": 1703566234,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139476,
+        "num": 139476,
+        "word": "本地泡菜太贵韩国人囤中国泡菜",
+        "onboard_time": 1703557293,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138175,
+        "num": 138175,
+        "word": "不要随意投喂野生动物",
+        "onboard_time": 1703570736,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127866,
+        "num": 127866,
+        "word": "丈夫去世后她带公婆改嫁照顾19年",
+        "onboard_time": 1703562277,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 127509,
+        "num": 127509,
+        "word": "去有风的地方获200万元补助",
+        "onboard_time": 1703550273,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120748,
+        "num": 120748,
+        "word": "订婚强奸案为何会引发争议",
+        "onboard_time": 1703570259,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120109,
+        "num": 120109,
+        "word": "冯小刚三句话不离优子",
+        "onboard_time": 1703550029,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116426,
+        "num": 116426,
+        "word": "少年歌行2 原班人马",
+        "onboard_time": 1703562996,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113603,
+        "num": 113603,
+        "word": "女子遭未婚夫强奸曾逃出房呼救被拖回",
+        "onboard_time": 1703510916,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104822,
+        "num": 104822,
+        "word": "23岁的普通人到底应该有多少钱",
+        "onboard_time": 1703547747,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#团结一致敢于斗争力量源于团结#"
+    }
+  }
+}
