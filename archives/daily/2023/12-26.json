@@ -1,6 +1,6 @@
 {
   "startTime": 1703521370249,
-  "endTime": 1703586889242,
+  "endTime": 1703589275791,
   "band_list": [
     {
       "raw_hot": 3837371,
@@ -25,6 +25,14 @@
       "onboard_time": 1703574157,
       "rank": 14,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 2423193,
+      "num": 2423193,
+      "word": "羽生结弦前妻首度发声",
+      "onboard_time": 1703588433,
+      "rank": 0,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 1932684,
@@ -195,6 +203,14 @@
       "category": "美妆,财经"
     },
     {
+      "raw_hot": 836813,
+      "num": 836813,
+      "word": "迪丽热巴撒谎憋不了一秒",
+      "onboard_time": 1703584059,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 796200,
       "num": 796200,
       "word": "迪丽热巴告别克罗地亚",
@@ -235,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 727902,
-      "num": 727902,
-      "word": "迪丽热巴撒谎憋不了一秒",
-      "onboard_time": 1703584059,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 710753,
+      "num": 710753,
+      "word": "最难嗑CP",
+      "onboard_time": 1703584896,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 691857,
@@ -313,6 +329,14 @@
       "onboard_time": 1703500956,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 623027,
+      "num": 623027,
+      "word": "明星助理工资5000块",
+      "onboard_time": 1703588673,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 613952,
@@ -451,12 +475,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 508204,
-      "num": 508204,
-      "word": "最难嗑CP",
-      "onboard_time": 1703584896,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 531111,
+      "num": 531111,
+      "word": "暗访广州一代孕灰产机构",
+      "onboard_time": 1703585854,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507599,
@@ -491,11 +515,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 486313,
-      "num": 486313,
-      "word": "暗访广州一代孕灰产机构",
-      "onboard_time": 1703585854,
-      "rank": 48,
+      "raw_hot": 479153,
+      "num": 1554482,
+      "word": "3岁娃介绍家庭成员唯独忘了警察爸爸",
+      "onboard_time": 1703584534,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -547,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445885,
-      "num": 1554482,
-      "word": "3岁娃介绍家庭成员唯独忘了警察爸爸",
-      "onboard_time": 1703584534,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 444592,
       "num": 444592,
       "word": "王楚钦领衔年度十佳运动员",
@@ -577,6 +593,14 @@
       "onboard_time": 1703556091,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 437090,
+      "num": 437090,
+      "word": "陈伟霆开健身房",
+      "onboard_time": 1703585316,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 422580,
@@ -635,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392080,
+      "num": 392080,
+      "word": "A股除夕休市",
+      "onboard_time": 1703587893,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 388394,
       "num": 388394,
       "word": "3娃非亲生案",
@@ -649,14 +681,6 @@
       "onboard_time": 1703516615,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 388294,
-      "num": 388294,
-      "word": "陈伟霆开健身房",
-      "onboard_time": 1703585316,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 388216,
@@ -737,6 +761,14 @@
       "onboard_time": 1703505032,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 335562,
+      "num": 335562,
+      "word": "冻梨 吸妃回宫了",
+      "onboard_time": 1703588312,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 326692,
@@ -907,6 +939,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 268068,
+      "num": 268068,
+      "word": "泉水牛肉",
+      "onboard_time": 1703587832,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 265814,
       "num": 265814,
       "word": "一网民造谣阿里献血事件被行拘",
@@ -1075,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231468,
+      "num": 231468,
+      "word": "邓为经纪公司仅2人参保",
+      "onboard_time": 1703588794,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229199,
       "num": 229199,
       "word": "青年教师月薪被指难养家糊口",
@@ -1140,7 +1188,7 @@
     },
     {
       "raw_hot": 220597,
-      "num": 1190204,
+      "num": 1190931,
       "word": "男子突发低血糖酒店员工暖心相助",
       "onboard_time": 1703584476,
       "rank": 4,
@@ -1283,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200501,
+      "num": 200501,
+      "word": "烈士墓11年间不止一次遭打砸",
+      "onboard_time": 1703586512,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200465,
       "num": 200465,
       "word": "税务师查分时间",
@@ -1297,6 +1353,22 @@
       "onboard_time": 1703499275,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199466,
+      "num": 199466,
+      "word": "老师 我们家沈腾马丽呢",
+      "onboard_time": 1703589035,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198692,
+      "num": 198692,
+      "word": "护肤的尽头 养气血",
+      "onboard_time": 1703583814,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 198496,
@@ -1339,14 +1411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 194417,
-      "num": 194417,
-      "word": "护肤的尽头 养气血",
-      "onboard_time": 1703583814,
-      "rank": 37,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 193353,
       "num": 193353,
       "word": "为什么大家又爱上头戴式耳机",
@@ -1361,6 +1425,14 @@
       "onboard_time": 1703559277,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191346,
+      "num": 191346,
+      "word": "暴雪称希望确保中国玩家能玩暴雪游戏",
+      "onboard_time": 1703587473,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 190796,
@@ -1417,6 +1489,14 @@
       "onboard_time": 1703551896,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 187833,
+      "num": 187833,
+      "word": "papi酱 我的导购妈妈",
+      "onboard_time": 1703588433,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 187773,
@@ -1563,12 +1643,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165806,
+      "num": 165806,
+      "word": "NIP战胜EDG",
+      "onboard_time": 1703588612,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164864,
       "num": 164864,
       "word": "央视回顾游戏2023",
       "onboard_time": 1703574813,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164853,
+      "num": 164853,
+      "word": "雷军回应小米汽车定价",
+      "onboard_time": 1703588974,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 164285,
@@ -1625,14 +1721,6 @@
       "onboard_time": 1703585556,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 157087,
-      "num": 157087,
-      "word": "烈士墓11年间不止一次遭打砸",
-      "onboard_time": 1703586512,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156915,
@@ -1795,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143344,
+      "num": 1030918,
+      "word": "消防员冲进火场一把抱起小孩就跑",
+      "onboard_time": 1703584235,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 141276,
       "num": 141276,
       "word": "游戏产业正向效益不亚于烟草白酒",
@@ -1841,14 +1937,6 @@
       "onboard_time": 1703552855,
       "rank": 43,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 135966,
-      "num": 934305,
-      "word": "消防员冲进火场一把抱起小孩就跑",
-      "onboard_time": 1703584235,
-      "rank": 6,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 135777,
@@ -1905,6 +1993,14 @@
       "onboard_time": 1703511336,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131894,
+      "num": 131894,
+      "word": "当地称智障女子结婚不存在违法情形",
+      "onboard_time": 1703587357,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131104,

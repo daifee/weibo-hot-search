@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703586889242,
+  "endTime": 1703589275791,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -129,6 +129,14 @@
       "onboard_time": 1703407894,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2423193,
+      "num": 2423193,
+      "word": "羽生结弦前妻首度发声",
+      "onboard_time": 1703588433,
+      "rank": 0,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 2344608,
@@ -819,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 836813,
+      "num": 836813,
+      "word": "迪丽热巴撒谎憋不了一秒",
+      "onboard_time": 1703584059,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 833072,
       "num": 833072,
       "word": "马立奥肖允儿湖南跨年合体",
@@ -1019,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 727902,
-      "num": 727902,
-      "word": "迪丽热巴撒谎憋不了一秒",
-      "onboard_time": 1703584059,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 724680,
       "num": 724680,
       "word": "女子捡到银行卡猜对密码取走4万被抓",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1703473415,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 710753,
+      "num": 710753,
+      "word": "最难嗑CP",
+      "onboard_time": 1703584896,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 700133,
@@ -1289,6 +1305,14 @@
       "onboard_time": 1703465735,
       "rank": 11,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 623027,
+      "num": 623027,
+      "word": "明星助理工资5000块",
+      "onboard_time": 1703588673,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 620376,
@@ -1643,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531111,
+      "num": 531111,
+      "word": "暗访广州一代孕灰产机构",
+      "onboard_time": 1703585854,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529102,
       "num": 529102,
       "word": "2024天蝎座年度关键词",
@@ -1689,14 +1721,6 @@
       "onboard_time": 1703379388,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 508204,
-      "num": 508204,
-      "word": "最难嗑CP",
-      "onboard_time": 1703584896,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 507599,
@@ -1795,14 +1819,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 486313,
-      "num": 486313,
-      "word": "暗访广州一代孕灰产机构",
-      "onboard_time": 1703585854,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 486040,
       "num": 486040,
       "word": "喻言 美得眼前一亮",
@@ -1832,6 +1848,14 @@
       "word": "人类历史上第一条手机短信",
       "onboard_time": 1703510974,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479153,
+      "num": 1554482,
+      "word": "3岁娃介绍家庭成员唯独忘了警察爸爸",
+      "onboard_time": 1703584534,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2035,14 +2059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445885,
-      "num": 1554482,
-      "word": "3岁娃介绍家庭成员唯独忘了警察爸爸",
-      "onboard_time": 1703584534,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 444592,
       "num": 444592,
       "word": "王楚钦领衔年度十佳运动员",
@@ -2065,6 +2081,14 @@
       "onboard_time": 1703556091,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 437090,
+      "num": 437090,
+      "word": "陈伟霆开健身房",
+      "onboard_time": 1703585316,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 437085,
@@ -2291,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392080,
+      "num": 392080,
+      "word": "A股除夕休市",
+      "onboard_time": 1703587893,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 391143,
       "num": 391143,
       "word": "孙思邈睡眠法",
@@ -2305,14 +2337,6 @@
       "onboard_time": 1703554478,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388294,
-      "num": 388294,
-      "word": "陈伟霆开健身房",
-      "onboard_time": 1703585316,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 388216,
@@ -2584,6 +2608,14 @@
       "word": "乾隆的十只猫",
       "onboard_time": 1703395294,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 335562,
+      "num": 335562,
+      "word": "冻梨 吸妃回宫了",
+      "onboard_time": 1703588312,
+      "rank": 19,
       "category": "幽默"
     },
     {
@@ -3187,6 +3219,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 268068,
+      "num": 268068,
+      "word": "泉水牛肉",
+      "onboard_time": 1703587832,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 267006,
       "num": 267006,
       "word": "王一博跨年邀请函",
@@ -3739,6 +3779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231468,
+      "num": 231468,
+      "word": "邓为经纪公司仅2人参保",
+      "onboard_time": 1703588794,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230665,
       "num": 207350,
       "word": "我们的歌第五季收官",
@@ -3892,7 +3940,7 @@
     },
     {
       "raw_hot": 220597,
-      "num": 1190204,
+      "num": 1190931,
       "word": "男子突发低血糖酒店员工暖心相助",
       "onboard_time": 1703584476,
       "rank": 4,
@@ -4339,6 +4387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200501,
+      "num": 200501,
+      "word": "烈士墓11年间不止一次遭打砸",
+      "onboard_time": 1703586512,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200465,
       "num": 200465,
       "word": "税务师查分时间",
@@ -4353,6 +4409,14 @@
       "onboard_time": 1703383894,
       "rank": 26,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 199466,
+      "num": 199466,
+      "word": "老师 我们家沈腾马丽呢",
+      "onboard_time": 1703589035,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 199360,
@@ -4385,6 +4449,14 @@
       "onboard_time": 1703508632,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198692,
+      "num": 198692,
+      "word": "护肤的尽头 养气血",
+      "onboard_time": 1703583814,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 198496,
@@ -4547,14 +4619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 194417,
-      "num": 194417,
-      "word": "护肤的尽头 养气血",
-      "onboard_time": 1703583814,
-      "rank": 37,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 194134,
       "num": 194134,
       "word": "陈哲远 看我不迷死你们",
@@ -4633,6 +4697,14 @@
       "onboard_time": 1703481580,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 191346,
+      "num": 191346,
+      "word": "暴雪称希望确保中国玩家能玩暴雪游戏",
+      "onboard_time": 1703587473,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 190796,
@@ -4721,6 +4793,14 @@
       "onboard_time": 1703551896,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 187833,
+      "num": 187833,
+      "word": "papi酱 我的导购妈妈",
+      "onboard_time": 1703588433,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 187483,
@@ -5331,6 +5411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165806,
+      "num": 165806,
+      "word": "NIP战胜EDG",
+      "onboard_time": 1703588612,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165549,
       "num": 165549,
       "word": "卢昱晓进组杀青都会减肥",
@@ -5385,6 +5473,14 @@
       "onboard_time": 1703574813,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164853,
+      "num": 164853,
+      "word": "雷军回应小米汽车定价",
+      "onboard_time": 1703588974,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 164840,
@@ -5665,14 +5761,6 @@
       "onboard_time": 1703489072,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157087,
-      "num": 157087,
-      "word": "烈士墓11年间不止一次遭打砸",
-      "onboard_time": 1703586512,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156937,
@@ -6123,6 +6211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143344,
+      "num": 1030918,
+      "word": "消防员冲进火场一把抱起小孩就跑",
+      "onboard_time": 1703584235,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 143261,
       "num": 143261,
       "word": "看了八秒才确定这是猫",
@@ -6339,14 +6435,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 135966,
-      "num": 934305,
-      "word": "消防员冲进火场一把抱起小孩就跑",
-      "onboard_time": 1703584235,
-      "rank": 6,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 135777,
       "num": 135777,
       "word": "小猫 你再玩一个手机试试呢",
@@ -6513,6 +6601,14 @@
       "onboard_time": 1703566835,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 131894,
+      "num": 131894,
+      "word": "当地称智障女子结婚不存在违法情形",
+      "onboard_time": 1703587357,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131567,
