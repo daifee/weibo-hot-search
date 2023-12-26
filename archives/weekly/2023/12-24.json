@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703603848581,
+  "endTime": 1703604871167,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -793,6 +793,14 @@
       "onboard_time": 1703422656,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 897963,
+      "num": 437692,
+      "word": "胡歌资助的女孩成了中科院博士",
+      "onboard_time": 1703603975,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 890987,
@@ -1987,6 +1995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 482943,
+      "num": 482943,
+      "word": "麦当劳一年内两次涨价",
+      "onboard_time": 1703599176,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 482759,
       "num": 482759,
       "word": "朱令再见",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1703461587,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 461322,
+      "num": 461322,
+      "word": "脱轨里出现了时代少年团",
+      "onboard_time": 1703602476,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 459731,
@@ -2561,14 +2585,6 @@
       "onboard_time": 1703500772,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 384386,
-      "num": 384386,
-      "word": "脱轨里出现了时代少年团",
-      "onboard_time": 1703602476,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 384100,
@@ -3051,6 +3067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 311325,
+      "num": 311325,
+      "word": "无痛胃镜",
+      "onboard_time": 1703599658,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 311128,
       "num": 311128,
       "word": "吉林浮桥案",
@@ -3075,14 +3099,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 308231,
-      "num": 308231,
-      "word": "无痛胃镜",
-      "onboard_time": 1703599658,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 307972,
       "num": 307972,
       "word": "光与夜之恋",
@@ -3105,6 +3121,14 @@
       "onboard_time": 1703471074,
       "rank": 31,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 306061,
+      "num": 306061,
+      "word": "晚晚 Valentino到底18条还是19条",
+      "onboard_time": 1703602115,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 305552,
@@ -3139,14 +3163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 303750,
-      "num": 282081,
-      "word": "晚晚 Valentino到底18条还是19条",
-      "onboard_time": 1703602115,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 300930,
       "num": 300930,
       "word": "105款国产游戏获批",
@@ -3160,14 +3176,6 @@
       "word": "自助草莓火锅",
       "onboard_time": 1703333555,
       "rank": 14,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 299146,
-      "num": 299146,
-      "word": "麦当劳一年内两次涨价",
-      "onboard_time": 1703599176,
-      "rank": 24,
       "category": "美食"
     },
     {
@@ -4849,6 +4857,14 @@
       "onboard_time": 1703430338,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 197578,
+      "num": 184221,
+      "word": "张杰新歌",
+      "onboard_time": 1703603917,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 197557,
@@ -6723,6 +6739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144825,
+      "num": 144825,
+      "word": "鸣龙少年 群像",
+      "onboard_time": 1703603497,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144792,
       "num": 144792,
       "word": "伊能静给秦昊戴假发",
@@ -6769,14 +6793,6 @@
       "onboard_time": 1703594495,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 144058,
-      "num": 144058,
-      "word": "鸣龙少年 群像",
-      "onboard_time": 1703603497,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 143556,
@@ -7057,6 +7073,14 @@
       "onboard_time": 1703575597,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 135575,
+      "num": 135575,
+      "word": "WB晋级败者组半决赛",
+      "onboard_time": 1703601939,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 135571,
