@@ -1,7 +1,31 @@
 {
   "startTime": 1703521370249,
-  "endTime": 1703547277308,
+  "endTime": 1703553190225,
   "band_list": [
+    {
+      "raw_hot": 1829484,
+      "num": 1829484,
+      "word": "23岁的普通人到底应该有多少钱",
+      "onboard_time": 1703547747,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1307556,
+      "num": 453788,
+      "word": "订婚强奸案后女方家属想尽快结婚",
+      "onboard_time": 1703511515,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1296015,
+      "num": 332038,
+      "word": "况盛",
+      "onboard_time": 1703547266,
+      "rank": 44,
+      "category": "网红"
+    },
     {
       "raw_hot": 1279110,
       "num": 456963,
@@ -9,6 +33,14 @@
       "onboard_time": 1703510916,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1078426,
+      "num": 1078426,
+      "word": "去有风的地方获200万元补助",
+      "onboard_time": 1703550273,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 913563,
@@ -19,20 +51,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 679636,
-      "num": 453788,
-      "word": "订婚强奸案后女方家属想尽快结婚",
-      "onboard_time": 1703511515,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 625914,
-      "num": 318179,
+      "num": 327170,
       "word": "我们只是师生关系 你越界了",
       "onboard_time": 1703500956,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 583407,
+      "num": 583407,
+      "word": "毛主席诞辰130周年",
+      "onboard_time": 1703547326,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 572290,
+      "num": 572290,
+      "word": "冯小刚三句话不离优子",
+      "onboard_time": 1703550029,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 569498,
@@ -51,12 +91,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 458269,
-      "num": 458269,
+      "raw_hot": 545197,
+      "num": 545197,
+      "word": "大熊猫睡觉口水被冻成冰溜子",
+      "onboard_time": 1703548471,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535404,
+      "num": 535404,
       "word": "本溪花28亿外包环卫却除不干净雪",
       "onboard_time": 1703536514,
       "rank": 14,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 488170,
+      "num": 329888,
+      "word": "董宇辉一气呵成讲人类历史",
+      "onboard_time": 1703549011,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 396774,
@@ -73,6 +129,14 @@
       "onboard_time": 1703516615,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388216,
+      "num": 388216,
+      "word": "警方通报理想L7清远2死1伤车祸",
+      "onboard_time": 1703541314,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381566,
@@ -99,20 +163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353660,
-      "num": 155889,
-      "word": "警方通报理想L7清远2死1伤车祸",
-      "onboard_time": 1703541314,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341960,
       "num": 341960,
       "word": "他只是做错题 又没有做错人",
       "onboard_time": 1703505032,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 326692,
+      "num": 326692,
+      "word": "陈都灵下眼影 红色渐变感晕染",
+      "onboard_time": 1703550876,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 318206,
@@ -129,6 +193,30 @@
       "onboard_time": 1703506474,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316056,
+      "num": 255146,
+      "word": "把毕业论文打印成了小票",
+      "onboard_time": 1703547566,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 295355,
+      "num": 295355,
+      "word": "广东千万净资产家庭近40万户",
+      "onboard_time": 1703545702,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 261937,
+      "num": 261937,
+      "word": "同学你好这里不能写字",
+      "onboard_time": 1703549492,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 257877,
@@ -156,11 +244,19 @@
     },
     {
       "raw_hot": 234669,
-      "num": 144930,
+      "num": 167949,
       "word": "订婚强奸案男方亲属发声",
       "onboard_time": 1703509176,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223060,
+      "num": 223060,
+      "word": "吴磊银色王冠",
+      "onboard_time": 1703547326,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 213127,
@@ -179,12 +275,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204748,
+      "num": 204748,
+      "word": "湖人不敌绿军",
+      "onboard_time": 1703552012,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199988,
       "num": 199988,
       "word": "孙红雷含泪cue张艺兴",
       "onboard_time": 1703499275,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193353,
+      "num": 193353,
+      "word": "为什么大家又爱上头戴式耳机",
+      "onboard_time": 1703516136,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 190086,
@@ -195,12 +307,12 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 188424,
-      "num": 152898,
-      "word": "为什么大家又爱上头戴式耳机",
-      "onboard_time": 1703516136,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 188617,
+      "num": 180904,
+      "word": "迪士尼 狐朋狗友",
+      "onboard_time": 1703551896,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 187773,
@@ -211,12 +323,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186728,
+      "num": 186728,
+      "word": "当周深汪苏泷得知对手是韩红时",
+      "onboard_time": 1703551415,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184481,
       "num": 151501,
       "word": "大便出现这些异常千万要当心",
       "onboard_time": 1703509477,
       "rank": 22,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 183032,
+      "num": 183032,
+      "word": "魏晨醉酒戏真的喝了",
+      "onboard_time": 1703522786,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 179422,
+      "num": 179422,
+      "word": "紫金陈考虑把1818黄金眼写进书",
+      "onboard_time": 1703552257,
+      "rank": 31,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 178434,
+      "num": 178434,
+      "word": "网友质疑理想汽车侵犯隐私",
+      "onboard_time": 1703551716,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 170187,
+      "num": 170187,
+      "word": "内娱人自己也无法超越的TOP角色",
+      "onboard_time": 1703552194,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168386,
+      "num": 168386,
+      "word": "玲娜贝儿 女团狐",
+      "onboard_time": 1703550336,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 166558,
@@ -233,6 +393,22 @@
       "onboard_time": 1703505696,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 158266,
+      "num": 158266,
+      "word": "成毅文明打码见外了",
+      "onboard_time": 1703551114,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155793,
+      "num": 155793,
+      "word": "薛之谦 吉隆坡",
+      "onboard_time": 1703549912,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 155337,
@@ -259,12 +435,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 141670,
-      "num": 124142,
-      "word": "广东千万净资产家庭近40万户",
-      "onboard_time": 1703545702,
-      "rank": 25,
-      "category": "财经,社会新闻"
+      "raw_hot": 133474,
+      "num": 133474,
+      "word": "林长民爱女儿林徽因的方式",
+      "onboard_time": 1703548950,
+      "rank": 40,
+      "category": "读书作家"
     },
     {
       "raw_hot": 132199,
@@ -275,12 +451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122275,
-      "num": 122275,
-      "word": "魏晨醉酒戏真的喝了",
-      "onboard_time": 1703522786,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 127477,
+      "num": 127477,
+      "word": "杜兰特对太阳沮丧",
+      "onboard_time": 1703552792,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 121233,
@@ -291,12 +467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121155,
+      "num": 121155,
+      "word": "有仇必报紫金陈",
+      "onboard_time": 1703552855,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 120468,
       "num": 120468,
       "word": "冬季甘蔗煮水是大补",
       "onboard_time": 1703516974,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 114129,
+      "num": 114129,
+      "word": "小伙地震逃生撞伤腰意外查出肝癌",
+      "onboard_time": 1703545160,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112209,
@@ -307,12 +499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103687,
+      "num": 103687,
+      "word": "长头发小技巧",
+      "onboard_time": 1703552493,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 103197,
       "num": 103197,
       "word": "喻言 美得眼前一亮",
       "onboard_time": 1703506594,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 101645,
+      "num": 101645,
+      "word": "业内人士称暴雪国服回归正逐步加快",
+      "onboard_time": 1703550575,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 101548,
@@ -347,12 +555,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 98744,
+      "num": 98744,
+      "word": "盘点2023大国重器新突破",
+      "onboard_time": 1703551534,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94279,
       "num": 94279,
       "word": "赵露思神隐白发",
       "onboard_time": 1703515655,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93964,
+      "num": 93964,
+      "word": "内娱有自己的小品女团",
+      "onboard_time": 1703548829,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 88727,
@@ -401,14 +625,6 @@
       "onboard_time": 1703507676,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 76455,
-      "num": 76455,
-      "word": "小伙地震逃生撞伤腰意外查出肝癌",
-      "onboard_time": 1703545160,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76145,
@@ -507,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56085,
+      "num": 589401,
+      "word": "网信办处置一批仿冒企业诈骗网站",
+      "onboard_time": 1703552374,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51455,
       "num": 51455,
       "word": "掘金战胜勇士",
@@ -521,14 +745,6 @@
       "onboard_time": 1703530756,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43934,
-      "num": 43934,
-      "word": "况盛",
-      "onboard_time": 1703547266,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 41108,
