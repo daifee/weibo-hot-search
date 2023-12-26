@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703583274726,
+  "endTime": 1703585909040,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -651,6 +651,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 954183,
+      "num": 954183,
+      "word": "2024央视春晚彩排",
+      "onboard_time": 1703584955,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 945422,
       "num": 945422,
       "word": "中国化妆品在韩国火了",
@@ -689,6 +697,14 @@
       "onboard_time": 1703400752,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 898896,
+      "num": 898896,
+      "word": "女子酒店里踩空摔瘫痪获赔119万",
+      "onboard_time": 1703580394,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 898309,
@@ -1083,6 +1099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 685372,
+      "num": 685372,
+      "word": "迪丽热巴撒谎憋不了一秒",
+      "onboard_time": 1703584059,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 683762,
       "num": 683762,
       "word": "一念关山被骂癫剧冤吗",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1703336138,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 658157,
+      "num": 658157,
+      "word": "何猷君跟狗吵架",
+      "onboard_time": 1703583033,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 657227,
@@ -1331,6 +1363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 588578,
+      "num": 588578,
+      "word": "EDG 天才",
+      "onboard_time": 1703583094,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 586159,
       "num": 586159,
       "word": "一念关山编剧回应争议",
@@ -1361,14 +1401,6 @@
       "onboard_time": 1703547326,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 582486,
-      "num": 582486,
-      "word": "女子酒店里踩空摔瘫痪获赔119万",
-      "onboard_time": 1703580394,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 582388,
@@ -1883,6 +1915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 459731,
+      "num": 459731,
+      "word": "上班装忙",
+      "onboard_time": 1703583033,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 457553,
       "num": 457553,
       "word": "你们真的不爱棣棣了吗",
@@ -2003,6 +2043,14 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 436575,
+      "num": 436575,
+      "word": "赵丽颖知否知否独唱版",
+      "onboard_time": 1703585194,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 434699,
       "num": 1041851,
       "word": "高考和考研结束走出考场的心情图鉴",
@@ -2057,6 +2105,14 @@
       "onboard_time": 1703387430,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 419143,
+      "num": 1383268,
+      "word": "3岁娃介绍家庭成员唯独忘了警察爸爸",
+      "onboard_time": 1703584534,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418983,
@@ -2523,6 +2579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 332037,
+      "num": 332037,
+      "word": "最难嗑CP",
+      "onboard_time": 1703584896,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331702,
       "num": 331702,
       "word": "我为什么追星",
@@ -2827,6 +2891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297397,
+      "num": 297397,
+      "word": "肯德基客服称目前暂无涨价计划",
+      "onboard_time": 1703582975,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296789,
       "num": 296789,
       "word": "繁花",
@@ -2897,6 +2969,14 @@
       "onboard_time": 1703467232,
       "rank": 22,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 294105,
+      "num": 294105,
+      "word": "章若楠 春晚彩排",
+      "onboard_time": 1703584896,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 290856,
@@ -3081,6 +3161,14 @@
       "onboard_time": 1703382509,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268514,
+      "num": 268514,
+      "word": "问界M9价格",
+      "onboard_time": 1703584116,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 267006,
@@ -3371,6 +3459,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 244294,
+      "num": 244294,
+      "word": "陈伟霆开健身房",
+      "onboard_time": 1703585316,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243725,
       "num": 243725,
       "word": "天鹅幼崽被冻冰面大爷踏冰解救",
@@ -3571,12 +3667,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235328,
+      "num": 235328,
+      "word": "辛芷蕾 别问",
+      "onboard_time": 1703579253,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235305,
       "num": 235305,
       "word": "肖战2024新年祝福视频",
       "onboard_time": 1703394093,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234932,
+      "num": 234932,
+      "word": "雷鸣父亲病逝",
+      "onboard_time": 1703584833,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 234642,
@@ -3755,6 +3867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 220597,
+      "num": 1051540,
+      "word": "男子突发低血糖酒店员工暖心相助",
+      "onboard_time": 1703584476,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 220557,
       "num": 220557,
       "word": "中岛美嘉眼含热泪告别女大",
@@ -3825,14 +3945,6 @@
       "onboard_time": 1703478279,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217028,
-      "num": 217028,
-      "word": "辛芷蕾 别问",
-      "onboard_time": 1703579253,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 216575,
@@ -4515,6 +4627,14 @@
       "category": "数码,社会新闻"
     },
     {
+      "raw_hot": 189464,
+      "num": 189464,
+      "word": "护肤的尽头 养气血",
+      "onboard_time": 1703583814,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 189133,
       "num": 189133,
       "word": "鼓励落实带薪年假安排职工除夕休息",
@@ -4544,6 +4664,14 @@
       "word": "花海澜如约而至",
       "onboard_time": 1703578236,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 188657,
+      "num": 188657,
+      "word": "狼队晋级败者组半决赛",
+      "onboard_time": 1703585255,
+      "rank": 38,
       "category": "电竞"
     },
     {
@@ -4643,20 +4771,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184803,
-      "num": 184803,
-      "word": "何猷君跟狗吵架",
-      "onboard_time": 1703583033,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184265,
       "num": 184265,
       "word": "钱来圣诞树",
       "onboard_time": 1703399252,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183583,
+      "num": 183583,
+      "word": "RW世冠淘汰",
+      "onboard_time": 1703584713,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 183531,
@@ -4811,14 +4939,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 178278,
-      "num": 178278,
-      "word": "EDG 天才",
-      "onboard_time": 1703583094,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 178042,
       "num": 178042,
       "word": "北京二手房业主连夜涨价",
@@ -4931,6 +5051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174777,
+      "num": 174777,
+      "word": "余承东回应四年来如何重返市场",
+      "onboard_time": 1703585733,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 174645,
       "num": 826125,
       "word": "何老师和他的放牛班",
@@ -5025,6 +5153,14 @@
       "onboard_time": 1703501855,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171390,
+      "num": 171390,
+      "word": "1700元的livehouse",
+      "onboard_time": 1703582975,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 171304,
@@ -5395,6 +5531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159226,
+      "num": 159226,
+      "word": "问界M9首发评测",
+      "onboard_time": 1703585556,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 159119,
       "num": 159119,
       "word": "送礼焦虑症",
@@ -5561,14 +5705,6 @@
       "onboard_time": 1703373439,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 154000,
-      "num": 154000,
-      "word": "肯德基客服称目前暂无涨价计划",
-      "onboard_time": 1703582975,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153952,
@@ -5875,6 +6011,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 145584,
+      "num": 145584,
+      "word": "暗访广州一代孕灰产机构",
+      "onboard_time": 1703585854,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144993,
       "num": 144993,
       "word": "柯南新剧场版特别角色 中森青子",
@@ -6153,6 +6297,14 @@
       "onboard_time": 1703552855,
       "rank": 43,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 135966,
+      "num": 927186,
+      "word": "消防员冲进火场一把抱起小孩就跑",
+      "onboard_time": 1703584235,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 135777,
@@ -7235,6 +7387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 91845,
+      "num": 226899,
+      "word": "余承东称问界M9安全领先一代",
+      "onboard_time": 1703585435,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90964,
       "num": 417952,
       "word": "可变光圈会成为手机刚需吗",
@@ -7644,7 +7804,7 @@
     },
     {
       "raw_hot": 37850,
-      "num": 1162272,
+      "num": 1286578,
       "word": "2023中国时刻",
       "onboard_time": 1703580577,
       "rank": 2,
