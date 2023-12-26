@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703601243733,
+  "endTime": 1703603848581,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -185,6 +185,14 @@
       "onboard_time": 1703408318,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2189021,
+      "num": 2189021,
+      "word": "家长被通知接走发烧孩子后大怒",
+      "onboard_time": 1703599418,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2187813,
@@ -505,14 +513,6 @@
       "onboard_time": 1703388453,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1210869,
-      "num": 1210869,
-      "word": "家长被通知接走发烧孩子后大怒",
-      "onboard_time": 1703599418,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1184997,
@@ -1219,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 695852,
+      "num": 695852,
+      "word": "何猷君以为奚梦瑶说求婚土",
+      "onboard_time": 1703601217,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 695607,
       "num": 695607,
       "word": "订婚强奸案男方亲属发声",
@@ -1795,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532316,
+      "num": 532316,
+      "word": "刘浩存演技",
+      "onboard_time": 1703602178,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531365,
       "num": 531365,
       "word": "偶遇王嘉尔边伯贤",
@@ -2259,6 +2275,14 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 435538,
+      "num": 435538,
+      "word": "我国将系统重塑疾控体系",
+      "onboard_time": 1703601217,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434699,
       "num": 1041851,
       "word": "高考和考研结束走出考场的心情图鉴",
@@ -2537,6 +2561,14 @@
       "onboard_time": 1703500772,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 384386,
+      "num": 384386,
+      "word": "脱轨里出现了时代少年团",
+      "onboard_time": 1703602476,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 384100,
@@ -2964,7 +2996,7 @@
     },
     {
       "raw_hot": 317992,
-      "num": 1202510,
+      "num": 1202941,
       "word": "我国北斗系统性能再次提升",
       "onboard_time": 1703577694,
       "rank": 9,
@@ -3043,6 +3075,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 308231,
+      "num": 308231,
+      "word": "无痛胃镜",
+      "onboard_time": 1703599658,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 307972,
       "num": 307972,
       "word": "光与夜之恋",
@@ -3097,6 +3137,14 @@
       "onboard_time": 1703514035,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 303750,
+      "num": 282081,
+      "word": "晚晚 Valentino到底18条还是19条",
+      "onboard_time": 1703602115,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 300930,
@@ -3337,14 +3385,6 @@
       "onboard_time": 1703482957,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278960,
-      "num": 278960,
-      "word": "无痛胃镜",
-      "onboard_time": 1703599658,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 277693,
@@ -3635,6 +3675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257556,
+      "num": 257556,
+      "word": "王俊凯年会不能停观后感",
+      "onboard_time": 1703601877,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 256784,
       "num": 256784,
       "word": "天杀的396 你敢耍老子",
@@ -3905,6 +3953,14 @@
       "onboard_time": 1703584833,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238846,
+      "num": 207403,
+      "word": "易烊千玺 跨年电影愿",
+      "onboard_time": 1703601034,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 238717,
@@ -4523,6 +4579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 206961,
+      "num": 206961,
+      "word": "上班发疯",
+      "onboard_time": 1703602961,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206485,
       "num": 206485,
       "word": "这小说我夸了一整年",
@@ -4857,6 +4921,14 @@
       "onboard_time": 1703564795,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195591,
+      "num": 195591,
+      "word": "2024年处女座吉相清单",
+      "onboard_time": 1703602178,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 195556,
@@ -5219,6 +5291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185876,
+      "num": 185876,
+      "word": "减小肚腩的两个训练",
+      "onboard_time": 1703602776,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 184265,
       "num": 184265,
       "word": "钱来圣诞树",
@@ -5419,6 +5499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178027,
+      "num": 178027,
+      "word": "2023最出圈中国运动员",
+      "onboard_time": 1703602718,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177895,
       "num": 177895,
       "word": "檀健次泼李现一击即中",
@@ -5481,14 +5569,6 @@
       "onboard_time": 1703401112,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176744,
-      "num": 176744,
-      "word": "易烊千玺 跨年电影愿",
-      "onboard_time": 1703601034,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 176552,
@@ -6347,14 +6427,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 153243,
-      "num": 153243,
-      "word": "何猷君以为奚梦瑶说求婚土",
-      "onboard_time": 1703601217,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153195,
       "num": 153195,
       "word": "你的新衣服是用来讨好自己的",
@@ -6627,6 +6699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145753,
+      "num": 145753,
+      "word": "脸油 手干",
+      "onboard_time": 1703601763,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145601,
       "num": 145601,
       "word": "管泽元余霜婚礼大合照",
@@ -6689,6 +6769,14 @@
       "onboard_time": 1703594495,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144058,
+      "num": 144058,
+      "word": "鸣龙少年 群像",
+      "onboard_time": 1703603497,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 143556,
@@ -7097,14 +7185,6 @@
       "onboard_time": 1703396373,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 132766,
-      "num": 147413,
-      "word": "我国将系统重塑疾控体系",
-      "onboard_time": 1703601217,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132570,
