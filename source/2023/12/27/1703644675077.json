@@ -1,0 +1,410 @@
+{
+  "runTime": 1703644675077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6666547,
+        "num": 6666547,
+        "word": "李善均去世",
+        "onboard_time": 1703643755,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1714924,
+        "num": 1714924,
+        "word": "房东举报诡异绿光获重大奖励",
+        "onboard_time": 1703637275,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58985,
+        "num": 1615910,
+        "word": "三条高铁今日开通",
+        "onboard_time": 1703594735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1558929,
+        "num": 1558929,
+        "word": "张艺谋 浩存就是适合吃这碗饭",
+        "onboard_time": 1703640871,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 899495,
+        "num": 899495,
+        "word": "穷鬼套餐不涨价",
+        "onboard_time": 1703641352,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 758262,
+        "num": 758262,
+        "word": "失孤原型案人贩子1人死缓1人无期",
+        "onboard_time": 1703642011,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673006,
+        "num": 673006,
+        "word": "我不是土豆 我一米七",
+        "onboard_time": 1703635171,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 577734,
+        "num": 577734,
+        "word": "邓为前助理被开除原因",
+        "onboard_time": 1703638355,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519585,
+        "num": 519585,
+        "word": "29岁女儿常吃外卖爸爸送自制预制菜",
+        "onboard_time": 1703631981,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458919,
+        "num": 458919,
+        "word": "孙怡张晚意是在演他追她逃吗",
+        "onboard_time": 1703638176,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 864876,
+        "num": 452096,
+        "word": "非得上那个死班啊",
+        "onboard_time": 1703637634,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 683619,
+        "num": 433075,
+        "word": "安陵容小产甄嬛为什么要捂住鼻子",
+        "onboard_time": 1703643693,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398034,
+        "num": 398034,
+        "word": "家长被通知接走发烧孩子后大怒",
+        "onboard_time": 1703599418,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336792,
+        "num": 336792,
+        "word": "考研后的年轻人在做什么",
+        "onboard_time": 1703642912,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320529,
+        "num": 320529,
+        "word": "麦当劳涨价0.5至1元",
+        "onboard_time": 1703640153,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 303464,
+        "num": 303464,
+        "word": "胡歌对接否认资助女孩成了中科院博士",
+        "onboard_time": 1703633966,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300415,
+        "num": 300415,
+        "word": "萨摩耶真的不适合吵架",
+        "onboard_time": 1703643030,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298490,
+        "num": 298490,
+        "word": "跨年晚会 神仙打架",
+        "onboard_time": 1703636674,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258391,
+        "num": 258391,
+        "word": "明星助理工资5000块",
+        "onboard_time": 1703588673,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255242,
+        "num": 255242,
+        "word": "何以琛才是最会阴阳怪气的",
+        "onboard_time": 1703644174,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249184,
+        "num": 249184,
+        "word": "青簪行有消息了",
+        "onboard_time": 1703594973,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248166,
+        "num": 248166,
+        "word": "9点后吃早饭患上糖尿病的概率更高",
+        "onboard_time": 1703638895,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226539,
+        "num": 226539,
+        "word": "人生若如初见 空降",
+        "onboard_time": 1703598456,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209388,
+        "num": 209388,
+        "word": "郭刚堂之子不去宣判现场",
+        "onboard_time": 1703642912,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207061,
+        "num": 207061,
+        "word": "举报间谍活动有三种途径",
+        "onboard_time": 1703643573,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194395,
+        "num": 194395,
+        "word": "失孤",
+        "onboard_time": 1703643573,
+        "rank": 25,
+        "category": "电影,社会新闻"
+      },
+      {
+        "raw_hot": 193924,
+        "num": 193924,
+        "word": "刘浩存演技",
+        "onboard_time": 1703602178,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186837,
+        "num": 186837,
+        "word": "帕梅拉 麻辣烫yyds",
+        "onboard_time": 1703633127,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 152613,
+        "num": 152613,
+        "word": "炊事班官兵陪灾区小朋友嬉戏玩耍",
+        "onboard_time": 1703642912,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149902,
+        "num": 149902,
+        "word": "高校内湖捞3000斤鱼直送食堂",
+        "onboard_time": 1703636432,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149879,
+        "num": 149879,
+        "word": "央视揭朋友圈少儿才艺投票骗局",
+        "onboard_time": 1703597975,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149630,
+        "num": 149630,
+        "word": "我知道我爱你",
+        "onboard_time": 1703642855,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145290,
+        "num": 145290,
+        "word": "卫健委否认医护集体跳楼",
+        "onboard_time": 1703632764,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144391,
+        "num": 144391,
+        "word": "女警把走失男童小脚放进怀里取暖",
+        "onboard_time": 1703640992,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140945,
+        "num": 140945,
+        "word": "葡萄干 图书馆官方零食",
+        "onboard_time": 1703634268,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135381,
+        "num": 135381,
+        "word": "好友替患癌去世老人还近四万元债务",
+        "onboard_time": 1703636611,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133371,
+        "num": 133371,
+        "word": "于正五福临门演员阵容",
+        "onboard_time": 1703644174,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126886,
+        "num": 126886,
+        "word": "羽生结弦前妻首度发声",
+        "onboard_time": 1703588433,
+        "rank": 37,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 123543,
+        "num": 123543,
+        "word": "脱轨里出现了时代少年团",
+        "onboard_time": 1703602476,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122714,
+        "num": 122714,
+        "word": "电费刺客",
+        "onboard_time": 1703632702,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118728,
+        "num": 118728,
+        "word": "一杯奶茶两代人的沉默",
+        "onboard_time": 1703638955,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118044,
+        "num": 118044,
+        "word": "咖啡强制开机 褪黑素强制关机",
+        "onboard_time": 1703641113,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112767,
+        "num": 116281,
+        "word": "奶茶 大冰少杯",
+        "onboard_time": 1703644413,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116196,
+        "num": 116196,
+        "word": "国之重器拍照能看清10公里外乒乓球",
+        "onboard_time": 1703642912,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110842,
+        "num": 110842,
+        "word": "他带领村民在新疆沙漠里养出澳洲龙虾",
+        "onboard_time": 1703644294,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109252,
+        "num": 109252,
+        "word": "何猷君王彦霖 人体挂件",
+        "onboard_time": 1703636674,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103811,
+        "num": 103811,
+        "word": "周一围 我看见了她的失落",
+        "onboard_time": 1703634567,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102593,
+        "num": 102593,
+        "word": "新年壁纸",
+        "onboard_time": 1703639257,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102225,
+        "num": 102225,
+        "word": "流量褪去的淄博鸭头小哥",
+        "onboard_time": 1703606490,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100410,
+        "num": 100410,
+        "word": "C罗登顶年度射手榜",
+        "onboard_time": 1703641831,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念毛泽东同志诞辰130周年座谈会#"
+    }
+  }
+}

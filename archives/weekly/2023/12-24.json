@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703643988635,
+  "endTime": 1703644675077,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -9,6 +9,14 @@
       "onboard_time": 1703390733,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 6666547,
+      "num": 6666547,
+      "word": "李善均去世",
+      "onboard_time": 1703643755,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 4111859,
@@ -489,14 +497,6 @@
       "onboard_time": 1703477257,
       "rank": 1,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1306833,
-      "num": 1306833,
-      "word": "李善均去世",
-      "onboard_time": 1703643755,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1304971,
@@ -1352,6 +1352,14 @@
       "word": "一念关山被骂癫剧冤吗",
       "onboard_time": 1703422117,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 683619,
+      "num": 433075,
+      "word": "安陵容小产甄嬛为什么要捂住鼻子",
+      "onboard_time": 1703643693,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -3355,6 +3363,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 300415,
+      "num": 300415,
+      "word": "萨摩耶真的不适合吵架",
+      "onboard_time": 1703643030,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299259,
       "num": 299259,
       "word": "自助草莓火锅",
@@ -3409,14 +3425,6 @@
       "onboard_time": 1703477498,
       "rank": 25,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 295931,
-      "num": 159896,
-      "word": "萨摩耶真的不适合吵架",
-      "onboard_time": 1703643030,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 295545,
@@ -3923,6 +3931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 255242,
+      "num": 255242,
+      "word": "何以琛才是最会阴阳怪气的",
+      "onboard_time": 1703644174,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254253,
       "num": 254253,
       "word": "解清帅回应直播带货",
@@ -4371,14 +4387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229193,
-      "num": 157938,
-      "word": "安陵容小产甄嬛为什么要捂住鼻子",
-      "onboard_time": 1703643693,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 228938,
       "num": 228938,
       "word": "超雄综合征",
@@ -4771,6 +4779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209388,
+      "num": 209388,
+      "word": "郭刚堂之子不去宣判现场",
+      "onboard_time": 1703642912,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209140,
       "num": 209140,
       "word": "考研人桌子上有啥都不奇怪",
@@ -4833,6 +4849,14 @@
       "onboard_time": 1703409876,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 207061,
+      "num": 207061,
+      "word": "举报间谍活动有三种途径",
+      "onboard_time": 1703643573,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 206961,
@@ -4977,14 +5001,6 @@
       "onboard_time": 1703638233,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203069,
-      "num": 203069,
-      "word": "郭刚堂之子不去宣判现场",
-      "onboard_time": 1703642912,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202620,
@@ -6739,14 +6755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155347,
-      "num": 155347,
-      "word": "举报间谍活动有三种途径",
-      "onboard_time": 1703643573,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 155055,
       "num": 155055,
       "word": "新年壁纸",
@@ -7595,6 +7603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133371,
+      "num": 133371,
+      "word": "于正五福临门演员阵容",
+      "onboard_time": 1703644174,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133354,
       "num": 133354,
       "word": "张凌赫雨中撑伞路透",
@@ -8427,6 +8443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112767,
+      "num": 116281,
+      "word": "奶茶 大冰少杯",
+      "onboard_time": 1703644413,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112250,
       "num": 112250,
       "word": "RW晋级败者组第二轮",
@@ -8449,6 +8473,14 @@
       "onboard_time": 1703464775,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110842,
+      "num": 110842,
+      "word": "他带领村民在新疆沙漠里养出澳洲龙虾",
+      "onboard_time": 1703644294,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110258,
@@ -8724,7 +8756,7 @@
     },
     {
       "raw_hot": 93205,
-      "num": 1438663,
+      "num": 1615910,
       "word": "三条高铁今日开通",
       "onboard_time": 1703594735,
       "rank": 2,
