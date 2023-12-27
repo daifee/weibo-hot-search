@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703708277892,
+  "endTime": 1703709244992,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -11595,6 +11595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29515,
+      "num": 21970,
+      "word": "幼儿园的单子不接了",
+      "onboard_time": 1703705594,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 29324,
       "num": 29324,
       "word": "圣诞节房屋装饰 压力给到邻居",
@@ -11657,14 +11665,6 @@
       "onboard_time": 1703372659,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25144,
-      "num": 21970,
-      "word": "幼儿园的单子不接了",
-      "onboard_time": 1703705594,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 24664,
@@ -11873,6 +11873,22 @@
       "onboard_time": 1703364493,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10362,
+      "num": 13541,
+      "word": "男孩雪后主动搀扶残疾同学上厕所",
+      "onboard_time": 1703709193,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 10360,
+      "num": 13518,
+      "word": "2023对人民警察说声谢谢",
+      "onboard_time": 1703709193,
+      "rank": 49,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [

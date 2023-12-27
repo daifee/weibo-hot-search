@@ -1,6 +1,6 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703708277892,
+  "endTime": 1703709244992,
   "band_list": [
     {
       "raw_hot": 1802839,
@@ -483,7 +483,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25144,
+      "raw_hot": 29515,
       "num": 21970,
       "word": "幼儿园的单子不接了",
       "onboard_time": 1703705594,
@@ -523,7 +523,23 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 5315,
+      "raw_hot": 10362,
+      "num": 13541,
+      "word": "男孩雪后主动搀扶残疾同学上厕所",
+      "onboard_time": 1703709193,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 10360,
+      "num": 13518,
+      "word": "2023对人民警察说声谢谢",
+      "onboard_time": 1703709193,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 5442,
       "num": 170398,
       "word": "2023中国航天高燃时刻",
       "onboard_time": 1703670635,
