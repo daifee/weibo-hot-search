@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703672311617,
+  "endTime": 1703673319000,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3581278,
-      "num": 639099,
+      "num": 726772,
       "word": "章泽天二胎 双胞胎",
       "onboard_time": 1703666136,
       "rank": 10,
@@ -883,6 +883,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1002363,
+      "num": 1002363,
+      "word": "唐嫣繁花 妆造颠覆",
+      "onboard_time": 1703671537,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 994447,
+      "num": 994447,
+      "word": "花卷哭了",
+      "onboard_time": 1703672497,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 992968,
       "num": 992968,
       "word": "盒马被曝贝果中吃出螺丝",
@@ -1235,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 787350,
+      "num": 787350,
+      "word": "狼队 悬着的心终于死了",
+      "onboard_time": 1703672497,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 787166,
       "num": 787166,
       "word": "最难嗑CP",
@@ -1360,6 +1384,14 @@
       "word": "南京胖哥说2023像经历了半辈子",
       "onboard_time": 1703563900,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 732673,
+      "num": 1034821,
+      "word": "两名临时工离职老板强行送厚衣服告别",
+      "onboard_time": 1703668537,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1627,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 658901,
+      "num": 658901,
+      "word": "景甜短发",
+      "onboard_time": 1703669316,
+      "rank": 26,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 658157,
       "num": 658157,
       "word": "何猷君跟狗吵架",
@@ -1732,7 +1772,7 @@
     },
     {
       "raw_hot": 629639,
-      "num": 329908,
+      "num": 354719,
       "word": "巴西男子与15岁侄女发生关系被妻子阉割",
       "onboard_time": 1703667395,
       "rank": 20,
@@ -1768,14 +1808,6 @@
       "word": "南京胖哥说如果重来不会再去肉搏",
       "onboard_time": 1703576614,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 613179,
-      "num": 1034821,
-      "word": "两名临时工离职老板强行送厚衣服告别",
-      "onboard_time": 1703668537,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1817,14 +1849,6 @@
       "onboard_time": 1703665054,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 607298,
-      "num": 607298,
-      "word": "景甜短发",
-      "onboard_time": 1703669316,
-      "rank": 26,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 596978,
@@ -1995,14 +2019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 567714,
-      "num": 567714,
-      "word": "唐嫣繁花 妆造颠覆",
-      "onboard_time": 1703671537,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 567224,
       "num": 567224,
       "word": "河南多地宣布部分单位停止供暖",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1703576976,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 549101,
+      "num": 549101,
+      "word": "红月亮",
+      "onboard_time": 1703671895,
+      "rank": 26,
+      "category": "自然"
     },
     {
       "raw_hot": 545562,
@@ -3052,7 +3076,7 @@
     },
     {
       "raw_hot": 396916,
-      "num": 861678,
+      "num": 968715,
       "word": "妈妈去世3年手机收到爱的童言",
       "onboard_time": 1703647357,
       "rank": 23,
@@ -3387,6 +3411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351987,
+      "num": 351987,
+      "word": "把喜欢的人删了再加回来会发生什么",
+      "onboard_time": 1703670820,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 351746,
       "num": 351746,
       "word": "杨迪 我都想告节目组",
@@ -3513,14 +3545,6 @@
       "onboard_time": 1703409635,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328159,
-      "num": 328159,
-      "word": "把喜欢的人删了再加回来会发生什么",
-      "onboard_time": 1703670820,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 328020,
@@ -3681,6 +3705,14 @@
       "onboard_time": 1703560714,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 317443,
+      "num": 995296,
+      "word": "女孩头发长虱子老师趁晴天帮其洗头",
+      "onboard_time": 1703668656,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316834,
@@ -4019,8 +4051,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285264,
-      "num": 285264,
+      "raw_hot": 285332,
+      "num": 285332,
       "word": "王安宇 哭戏",
       "onboard_time": 1703671118,
       "rank": 25,
@@ -4065,14 +4097,6 @@
       "onboard_time": 1703659113,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 282350,
-      "num": 282350,
-      "word": "红月亮",
-      "onboard_time": 1703671895,
-      "rank": 26,
-      "category": "自然"
     },
     {
       "raw_hot": 282165,
@@ -4139,11 +4163,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279068,
+      "num": 279068,
+      "word": "黄雅莉晒与王源合照",
+      "onboard_time": 1703672857,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277693,
       "num": 277693,
       "word": "TES",
       "onboard_time": 1703494958,
       "rank": 18,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 277386,
+      "num": 277386,
+      "word": "WB战胜狼队",
+      "onboard_time": 1703672435,
+      "rank": 26,
       "category": "电竞"
     },
     {
@@ -4393,6 +4433,14 @@
       "onboard_time": 1703509895,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259164,
+      "num": 259164,
+      "word": "淘宝回应调整服装发货时间",
+      "onboard_time": 1703671416,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 258968,
@@ -4971,12 +5019,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231263,
-      "num": 231263,
-      "word": "淘宝回应调整服装发货时间",
-      "onboard_time": 1703671416,
+      "raw_hot": 231148,
+      "num": 231148,
+      "word": "上厕所不是献哈达",
+      "onboard_time": 1703672377,
       "rank": 32,
-      "category": "互联网"
+      "category": "幽默"
     },
     {
       "raw_hot": 230778,
@@ -5355,14 +5403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214565,
-      "num": 932043,
-      "word": "女孩头发长虱子老师趁晴天帮其洗头",
-      "onboard_time": 1703668656,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214177,
       "num": 214177,
       "word": "长津湖战役胜利",
@@ -5411,6 +5451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212126,
+      "num": 212126,
+      "word": "WB 不止奇迹",
+      "onboard_time": 1703672916,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211676,
       "num": 211676,
       "word": "WB对战TTG",
@@ -5449,6 +5497,14 @@
       "onboard_time": 1703586093,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 210969,
+      "num": 210969,
+      "word": "周震南还没通网",
+      "onboard_time": 1703672676,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 210822,
@@ -5979,6 +6035,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196785,
+      "num": 196785,
+      "word": "WB晋级世冠败者组决赛",
+      "onboard_time": 1703673097,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196741,
       "num": 196741,
       "word": "EXO初雪周冠",
@@ -6099,6 +6163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 194797,
+      "num": 194797,
+      "word": "狼队世冠淘汰",
+      "onboard_time": 1703673157,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194780,
       "num": 194780,
       "word": "狼队扳平比分",
@@ -6161,6 +6233,14 @@
       "onboard_time": 1703413354,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193599,
+      "num": 193599,
+      "word": "脸型 流畅度",
+      "onboard_time": 1703671597,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 193511,
@@ -6265,6 +6345,14 @@
       "onboard_time": 1703596294,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191858,
+      "num": 191858,
+      "word": "AG对战Hero",
+      "onboard_time": 1703672316,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 191346,
@@ -6545,14 +6633,6 @@
       "onboard_time": 1703384011,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182530,
-      "num": 182530,
-      "word": "脸型 流畅度",
-      "onboard_time": 1703671597,
-      "rank": 44,
-      "category": "美妆"
     },
     {
       "raw_hot": 182500,
@@ -8467,6 +8547,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 136950,
+      "num": 172712,
+      "word": "胡锡进谈除夕不放假",
+      "onboard_time": 1703673097,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136919,
       "num": 136919,
       "word": "克罗斯 续约",
@@ -10140,7 +10228,7 @@
     },
     {
       "raw_hot": 86285,
-      "num": 477581,
+      "num": 557448,
       "word": "国产手机进入卫星时代",
       "onboard_time": 1703651860,
       "rank": 15,

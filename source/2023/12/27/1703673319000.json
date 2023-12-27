@@ -1,0 +1,410 @@
+{
+  "runTime": 1703673319000,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260457,
+        "num": 1260457,
+        "word": "红果果绿泡泡 寻人启事",
+        "onboard_time": 1703660614,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732673,
+        "num": 1012433,
+        "word": "两名临时工离职老板强行送厚衣服告别",
+        "onboard_time": 1703668537,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73848,
+        "num": 1005767,
+        "word": "我国八纵八横高铁网建成约80%",
+        "onboard_time": 1703663853,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1002363,
+        "num": 1002363,
+        "word": "唐嫣繁花 妆造颠覆",
+        "onboard_time": 1703671537,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317443,
+        "num": 995296,
+        "word": "女孩头发长虱子老师趁晴天帮其洗头",
+        "onboard_time": 1703668656,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994447,
+        "num": 994447,
+        "word": "花卷哭了",
+        "onboard_time": 1703672497,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174581,
+        "num": 968715,
+        "word": "妈妈去世3年手机收到爱的童言",
+        "onboard_time": 1703647357,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963717,
+        "num": 963717,
+        "word": "韩国娱乐圈因李善均去世暂停活动",
+        "onboard_time": 1703670214,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 787350,
+        "num": 787350,
+        "word": "狼队 悬着的心终于死了",
+        "onboard_time": 1703672497,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 763205,
+        "num": 763205,
+        "word": "吃不下饭是身体在保护你",
+        "onboard_time": 1703666315,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1876413,
+        "num": 726772,
+        "word": "章泽天二胎 双胞胎",
+        "onboard_time": 1703666136,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 658901,
+        "num": 658901,
+        "word": "景甜短发",
+        "onboard_time": 1703669316,
+        "rank": 11,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 644527,
+        "num": 644527,
+        "word": "难哄 白敬亭章若楠",
+        "onboard_time": 1703661215,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 589915,
+        "num": 589915,
+        "word": "淘宝将支持仅退款",
+        "onboard_time": 1703651860,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 58903,
+        "num": 557448,
+        "word": "国产手机进入卫星时代",
+        "onboard_time": 1703651860,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 549101,
+        "num": 549101,
+        "word": "红月亮",
+        "onboard_time": 1703671895,
+        "rank": 15,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 491536,
+        "num": 491536,
+        "word": "妆发 艺人自己决定",
+        "onboard_time": 1703669976,
+        "rank": 16,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 457766,
+        "num": 457766,
+        "word": "邓为前助理讨薪录音",
+        "onboard_time": 1703668176,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360072,
+        "num": 360072,
+        "word": "南京38年前入室抢劫杀人案告破",
+        "onboard_time": 1703668656,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301875,
+        "num": 355756,
+        "word": "盒马被曝贝果中吃出螺丝",
+        "onboard_time": 1703659052,
+        "rank": 19,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 551862,
+        "num": 354719,
+        "word": "巴西男子与15岁侄女发生关系被妻子阉割",
+        "onboard_time": 1703667395,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366186,
+        "num": 354120,
+        "word": "繁花首映礼",
+        "onboard_time": 1703670335,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351987,
+        "num": 351987,
+        "word": "把喜欢的人删了再加回来会发生什么",
+        "onboard_time": 1703670820,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331019,
+        "num": 331019,
+        "word": "李善均去世",
+        "onboard_time": 1703643755,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285332,
+        "num": 285332,
+        "word": "王安宇 哭戏",
+        "onboard_time": 1703671118,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279068,
+        "num": 279068,
+        "word": "黄雅莉晒与王源合照",
+        "onboard_time": 1703672857,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277386,
+        "num": 277386,
+        "word": "WB战胜狼队",
+        "onboard_time": 1703672435,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 265450,
+        "num": 265450,
+        "word": "Doinb停播超一个月",
+        "onboard_time": 1703669316,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223285,
+        "num": 260230,
+        "word": "河南宁陵通报一学生高空坠亡",
+        "onboard_time": 1703671177,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214635,
+        "num": 259686,
+        "word": "复旦教授称中国退休年龄还是太早",
+        "onboard_time": 1703661995,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259164,
+        "num": 259164,
+        "word": "淘宝回应调整服装发货时间",
+        "onboard_time": 1703671416,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 254530,
+        "num": 254530,
+        "word": "刘亦菲机场贝雷帽",
+        "onboard_time": 1703667395,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231148,
+        "num": 231148,
+        "word": "上厕所不是献哈达",
+        "onboard_time": 1703672377,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231143,
+        "num": 231143,
+        "word": "痘痘里的白色物质其实是油脂",
+        "onboard_time": 1703661395,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 219548,
+        "num": 219548,
+        "word": "张靓颖一年瘦了15斤",
+        "onboard_time": 1703669736,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215596,
+        "num": 215596,
+        "word": "仙剑四排播",
+        "onboard_time": 1703663915,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212126,
+        "num": 212126,
+        "word": "WB 不止奇迹",
+        "onboard_time": 1703672916,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210969,
+        "num": 210969,
+        "word": "周震南还没通网",
+        "onboard_time": 1703672676,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204492,
+        "num": 204492,
+        "word": "刘诗诗半扎发",
+        "onboard_time": 1703668716,
+        "rank": 38,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 186185,
+        "num": 200423,
+        "word": "结婚16年3娃非亲生竟有案中案",
+        "onboard_time": 1703661333,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196785,
+        "num": 196785,
+        "word": "WB晋级世冠败者组决赛",
+        "onboard_time": 1703673097,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194797,
+        "num": 194797,
+        "word": "狼队世冠淘汰",
+        "onboard_time": 1703673157,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189300,
+        "num": 193732,
+        "word": "根本认不出是刘德华",
+        "onboard_time": 1703665897,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193599,
+        "num": 193599,
+        "word": "脸型 流畅度",
+        "onboard_time": 1703671597,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 193352,
+        "num": 193352,
+        "word": "仿生食品不宜多吃",
+        "onboard_time": 1703671356,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191858,
+        "num": 191858,
+        "word": "AG对战Hero",
+        "onboard_time": 1703672316,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173728,
+        "num": 188474,
+        "word": "狼队对战WB",
+        "onboard_time": 1703667935,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187767,
+        "num": 187767,
+        "word": "15号之前离职 社保",
+        "onboard_time": 1703665054,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183333,
+        "num": 183333,
+        "word": "吉利高管回应未被小米汽车致敬",
+        "onboard_time": 1703669617,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 136950,
+        "num": 172712,
+        "word": "胡锡进谈除夕不放假",
+        "onboard_time": 1703673097,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以中国式现代化全面推进强国建设#"
+    }
+  }
+}
