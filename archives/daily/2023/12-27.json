@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703669659776,
+  "endTime": 1703672311617,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3581278,
-      "num": 482105,
+      "num": 639099,
       "word": "章泽天二胎 双胞胎",
       "onboard_time": 1703666136,
       "rank": 10,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1491739,
+      "num": 1491739,
+      "word": "红果果绿泡泡 寻人启事",
+      "onboard_time": 1703660614,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1424196,
       "num": 433075,
       "word": "安陵容小产甄嬛为什么要捂住鼻子",
@@ -129,14 +137,6 @@
       "onboard_time": 1703649578,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1238704,
-      "num": 1238704,
-      "word": "红果果绿泡泡 寻人启事",
-      "onboard_time": 1703660614,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1194280,
@@ -185,6 +185,14 @@
       "onboard_time": 1703659052,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 987157,
+      "num": 987157,
+      "word": "韩国娱乐圈因李善均去世暂停活动",
+      "onboard_time": 1703670214,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 974959,
@@ -316,10 +324,18 @@
     },
     {
       "raw_hot": 629639,
-      "num": 260947,
+      "num": 329908,
       "word": "巴西男子与15岁侄女发生关系被妻子阉割",
       "onboard_time": 1703667395,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 613179,
+      "num": 1034821,
+      "word": "两名临时工离职老板强行送厚衣服告别",
+      "onboard_time": 1703668537,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -339,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 607298,
+      "num": 607298,
+      "word": "景甜短发",
+      "onboard_time": 1703669316,
+      "rank": 26,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 594182,
       "num": 594182,
       "word": "孙怡张晚意是在演他追她逃吗",
@@ -352,6 +376,14 @@
       "word": "刘浩存演技",
       "onboard_time": 1703602178,
       "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 567714,
+      "num": 567714,
+      "word": "唐嫣繁花 妆造颠覆",
+      "onboard_time": 1703671537,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -379,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522378,
+      "num": 522378,
+      "word": "妆发 艺人自己决定",
+      "onboard_time": 1703669976,
+      "rank": 13,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 510831,
       "num": 510831,
       "word": "结婚16年3娃非亲生竟有案中案",
@@ -388,7 +428,7 @@
     },
     {
       "raw_hot": 505869,
-      "num": 260893,
+      "num": 286650,
       "word": "刘亦菲机场贝雷帽",
       "onboard_time": 1703667395,
       "rank": 21,
@@ -507,6 +547,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 440584,
+      "num": 440584,
+      "word": "根本认不出是刘德华",
+      "onboard_time": 1703665897,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 439039,
       "num": 439039,
       "word": "考研后的年轻人在做什么",
@@ -571,8 +619,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397798,
+      "num": 397798,
+      "word": "繁花首映礼",
+      "onboard_time": 1703670335,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396916,
-      "num": 473404,
+      "num": 861678,
       "word": "妈妈去世3年手机收到爱的童言",
       "onboard_time": 1703647357,
       "rank": 23,
@@ -585,6 +641,14 @@
       "onboard_time": 1703602476,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 390053,
+      "num": 390053,
+      "word": "南京38年前入室抢劫杀人案告破",
+      "onboard_time": 1703668656,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382677,
@@ -627,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 362404,
-      "num": 362404,
-      "word": "根本认不出是刘德华",
-      "onboard_time": 1703665897,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 358232,
       "num": 358232,
       "word": "郭刚堂儿子被拐案",
@@ -659,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 328159,
+      "num": 328159,
+      "word": "把喜欢的人删了再加回来会发生什么",
+      "onboard_time": 1703670820,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 326460,
       "num": 326460,
       "word": "萨摩耶真的不适合吵架",
@@ -673,6 +737,14 @@
       "onboard_time": 1703636674,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323887,
+      "num": 323887,
+      "word": "Doinb停播超一个月",
+      "onboard_time": 1703669316,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 316834,
@@ -707,11 +779,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288357,
+      "num": 288357,
+      "word": "狼队对战WB",
+      "onboard_time": 1703667935,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 286784,
       "num": 286784,
       "word": "胡歌唐嫣新剧排骨年糕吃五年",
       "onboard_time": 1703655156,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 285264,
+      "num": 285264,
+      "word": "王安宇 哭戏",
+      "onboard_time": 1703671118,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -745,6 +833,14 @@
       "onboard_time": 1703589035,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282350,
+      "num": 282350,
+      "word": "红月亮",
+      "onboard_time": 1703671895,
+      "rank": 26,
+      "category": "自然"
     },
     {
       "raw_hot": 282165,
@@ -784,14 +880,6 @@
       "word": "闲鱼回应援助加拿大鹅被倒卖",
       "onboard_time": 1703591672,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261251,
-      "num": 261251,
-      "word": "南京38年前入室抢劫杀人案告破",
-      "onboard_time": 1703668656,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -867,6 +955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 237309,
+      "num": 237309,
+      "word": "张靓颖一年瘦了15斤",
+      "onboard_time": 1703669736,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237010,
       "num": 183423,
       "word": "贾玲 不能抢刘德华",
@@ -891,20 +987,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231263,
+      "num": 231263,
+      "word": "淘宝回应调整服装发货时间",
+      "onboard_time": 1703671416,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 230778,
+      "num": 230778,
+      "word": "吉利高管回应未被小米汽车致敬",
+      "onboard_time": 1703669617,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 230112,
       "num": 230112,
       "word": "秦岚迪丽热巴拍照一秒变脸",
       "onboard_time": 1703657915,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 227657,
-      "num": 227657,
-      "word": "景甜短发",
-      "onboard_time": 1703669316,
-      "rank": 26,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 227525,
@@ -929,6 +1033,14 @@
       "onboard_time": 1703654198,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 226415,
+      "num": 260232,
+      "word": "河南宁陵通报一学生高空坠亡",
+      "onboard_time": 1703671177,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224319,
@@ -961,6 +1073,14 @@
       "onboard_time": 1703650959,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214565,
+      "num": 932043,
+      "word": "女孩头发长虱子老师趁晴天帮其洗头",
+      "onboard_time": 1703668656,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213771,
@@ -1035,14 +1155,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 205664,
-      "num": 205664,
-      "word": "Doinb停播超一个月",
-      "onboard_time": 1703669316,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 204633,
       "num": 204633,
       "word": "外国人眼中董宇辉英语口音问题",
@@ -1081,14 +1193,6 @@
       "onboard_time": 1703647835,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 203647,
-      "num": 203647,
-      "word": "两名临时工离职老板强行送厚衣服告别",
-      "onboard_time": 1703668537,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203294,
@@ -1163,6 +1267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194180,
+      "num": 194180,
+      "word": "仿生食品不宜多吃",
+      "onboard_time": 1703671356,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 193952,
       "num": 193952,
       "word": "水果口感的姜",
@@ -1225,6 +1337,14 @@
       "onboard_time": 1703658693,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182530,
+      "num": 182530,
+      "word": "脸型 流畅度",
+      "onboard_time": 1703671597,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 181826,
@@ -1323,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164084,
-      "num": 164084,
-      "word": "女孩头发长虱子老师趁晴天帮其洗头",
-      "onboard_time": 1703668656,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163898,
       "num": 163898,
       "word": "等了恋人10年还要继续等吗",
@@ -1345,14 +1457,6 @@
       "onboard_time": 1703640992,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161307,
-      "num": 161307,
-      "word": "狼队对战WB",
-      "onboard_time": 1703667935,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 160899,
@@ -1377,6 +1481,14 @@
       "onboard_time": 1703652518,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159264,
+      "num": 159264,
+      "word": "麦当劳客服回应汉堡变小",
+      "onboard_time": 1703669434,
+      "rank": 46,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 159147,
@@ -1465,14 +1577,6 @@
       "onboard_time": 1703667633,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147591,
-      "num": 147591,
-      "word": "麦当劳客服回应汉堡变小",
-      "onboard_time": 1703669434,
-      "rank": 46,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 146672,
@@ -1587,12 +1691,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 137680,
-      "num": 137680,
-      "word": "吉利高管回应未被小米汽车致敬",
-      "onboard_time": 1703669617,
-      "rank": 47,
-      "category": "汽车"
+      "raw_hot": 136891,
+      "num": 230933,
+      "word": "关晓彤cos孙尚香",
+      "onboard_time": 1703669196,
+      "rank": 37,
+      "category": "作品衍生,游戏"
     },
     {
       "raw_hot": 136467,
@@ -1641,6 +1745,14 @@
       "onboard_time": 1703642912,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132315,
+      "num": 156202,
+      "word": "武大靖周也 以雪会友",
+      "onboard_time": 1703670516,
+      "rank": 49,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 132269,
@@ -1891,14 +2003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113192,
-      "num": 179615,
-      "word": "关晓彤cos孙尚香",
-      "onboard_time": 1703669196,
-      "rank": 37,
-      "category": "作品衍生,游戏"
-    },
-    {
       "raw_hot": 113067,
       "num": 113067,
       "word": "美女拍照法",
@@ -2108,7 +2212,7 @@
     },
     {
       "raw_hot": 86285,
-      "num": 388286,
+      "num": 477581,
       "word": "国产手机进入卫星时代",
       "onboard_time": 1703651860,
       "rank": 15,
