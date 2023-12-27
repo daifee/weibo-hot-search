@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703704473837,
+  "endTime": 1703705623622,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -72811,6 +72811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44462,
+      "num": 44462,
+      "word": "四川男子售卖自家26棵香樟判缓刑",
+      "onboard_time": 1703702417,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44460,
       "num": 39630,
       "word": "杨超越身披星光",
@@ -73667,14 +73675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32731,
-      "num": 32731,
-      "word": "四川男子售卖自家26棵香樟判缓刑",
-      "onboard_time": 1703702417,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32566,
       "num": 393333,
       "word": "苏慧伦Amber唱出暗恋酸涩感",
@@ -74363,6 +74363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22441,
+      "num": 22441,
+      "word": "Kpop一家人",
+      "onboard_time": 1703703617,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22056,
       "num": 22988,
       "word": "属于3RACHA的第一个奖",
@@ -74577,14 +74585,6 @@
       "onboard_time": 1702580473,
       "rank": 44,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 19414,
-      "num": 20532,
-      "word": "Kpop一家人",
-      "onboard_time": 1703703617,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 19360,
@@ -75052,7 +75052,7 @@
     },
     {
       "raw_hot": 13831,
-      "num": 20507,
+      "num": 22014,
       "word": "XG后台打歌",
       "onboard_time": 1703703975,
       "rank": 48,
@@ -75185,6 +75185,14 @@
       "onboard_time": 1701637993,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 11276,
+      "num": 21970,
+      "word": "幼儿园的单子不接了",
+      "onboard_time": 1703705594,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 10967,
