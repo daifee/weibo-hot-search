@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/27 22:33:47
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/27 23:17:16
 </p>
 </blockquote>
 <p>
@@ -4191,6 +4191,12 @@ E6（热度：1247213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%9D%97%E9%92%B1%E7%9A%84%E9%A5%AE%E6%96%99%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E6%B6%88%E5%A4%B1%23" target="weibo">
+3块钱的饮料正在集体消失（热度：1217872）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%AF%A5%E4%BB%A5%E8%87%AA%E6%88%91%E4%B8%BA%E4%B8%AD%E5%BF%83%23" target="weibo">
 董明珠称年轻人不该以自我为中心（热度：1216695）
 </a>
@@ -6005,12 +6011,6 @@ GQ内涵（热度：1094599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BC%BA%20%E8%A2%AB%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%81%AE%E4%BD%8F%E7%9A%84%E7%94%B7%E4%BA%BA%23" target="weibo">
 王强 被俞敏洪遮住的男人（热度：937380）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88%E7%BD%B2%E5%9B%9E%E5%BA%94%E7%BD%91%E6%B8%B8%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95%E8%8D%89%E6%A1%88%23" target="weibo">
-国家新闻出版署回应网游管理办法草案（热度：935579）
 </a>
 </li>
 
