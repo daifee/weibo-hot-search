@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703680281470,
+  "endTime": 1703681213994,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -83,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1517353,
-      "num": 1517353,
+      "raw_hot": 1518508,
+      "num": 1518508,
       "word": "唐嫣繁花 妆造颠覆",
       "onboard_time": 1703671537,
       "rank": 12,
@@ -147,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1314949,
+      "num": 1314949,
+      "word": "柯洁 今后不会再发动态",
+      "onboard_time": 1703675914,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1289101,
       "num": 1289101,
       "word": "寄生虫",
       "onboard_time": 1703649578,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1276936,
-      "num": 1276936,
-      "word": "柯洁 今后不会再发动态",
-      "onboard_time": 1703675914,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 1194280,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 873877,
+      "num": 828563,
+      "word": "繁花 金宇澄原著",
+      "onboard_time": 1703680297,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 870386,
       "num": 870386,
       "word": "邓为前助理被开除原因",
@@ -307,6 +315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 769234,
+      "num": 769234,
+      "word": "小鹿爆料 抄袭认可",
+      "onboard_time": 1703676874,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 742797,
       "num": 742797,
       "word": "赵昭仪被吓哭",
@@ -329,14 +345,6 @@
       "onboard_time": 1703598456,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 710894,
-      "num": 710894,
-      "word": "小鹿爆料 抄袭认可",
-      "onboard_time": 1703676874,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 700565,
@@ -443,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 597442,
+      "num": 597442,
+      "word": "中共中央印发中国共产党纪律处分条例",
+      "onboard_time": 1703678797,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 594182,
       "num": 594182,
       "word": "孙怡张晚意是在演他追她逃吗",
@@ -475,6 +491,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 552909,
+      "num": 552909,
+      "word": "特斯拉瞒报工厂机器人袭击工人次数",
+      "onboard_time": 1703678617,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 549101,
       "num": 549101,
       "word": "红月亮",
@@ -489,14 +513,6 @@
       "onboard_time": 1703672857,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 544336,
-      "num": 544336,
-      "word": "特斯拉瞒报工厂机器人袭击工人次数",
-      "onboard_time": 1703678617,
-      "rank": 8,
-      "category": "汽车"
     },
     {
       "raw_hot": 538328,
@@ -603,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463548,
-      "num": 463548,
-      "word": "中共中央印发中国共产党纪律处分条例",
-      "onboard_time": 1703678797,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 450592,
       "num": 450592,
       "word": "青簪行有消息了",
@@ -697,6 +705,14 @@
       "onboard_time": 1703654077,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424053,
+      "num": 381782,
+      "word": "小时代之繁花时代",
+      "onboard_time": 1703680895,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 423254,
@@ -795,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387023,
+      "num": 387023,
+      "word": "无畏 被研究透了",
+      "onboard_time": 1703677533,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 382677,
       "num": 382677,
       "word": "学校花1500万买下大飞机供学生练手",
@@ -841,6 +865,14 @@
       "onboard_time": 1703606249,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358469,
+      "num": 229393,
+      "word": "发发 作弊",
+      "onboard_time": 1703680532,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 358232,
@@ -891,14 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 324525,
-      "num": 324525,
-      "word": "无畏 被研究透了",
-      "onboard_time": 1703677533,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 323887,
       "num": 323887,
       "word": "Doinb停播超一个月",
@@ -913,6 +937,22 @@
       "onboard_time": 1703638895,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 316124,
+      "num": 316124,
+      "word": "Hero镜子碎了",
+      "onboard_time": 1703676275,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 308849,
+      "num": 308849,
+      "word": "唐嫣 上海话台词",
+      "onboard_time": 1703681014,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 307430,
@@ -931,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305445,
-      "num": 305445,
-      "word": "Hero镜子碎了",
-      "onboard_time": 1703676275,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 303906,
       "num": 293838,
       "word": "李善均曾因毒品案件受到要挟恐吓",
@@ -953,6 +985,22 @@
       "onboard_time": 1703650780,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299367,
+      "num": 299367,
+      "word": "白羊座 魅力",
+      "onboard_time": 1703679635,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 297275,
+      "num": 332505,
+      "word": "母亲谈女童玩热力追踪项目受伤过程",
+      "onboard_time": 1703679696,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288807,
@@ -1227,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229421,
-      "num": 229421,
-      "word": "母亲谈女童玩热力追踪项目受伤过程",
-      "onboard_time": 1703679696,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227525,
       "num": 227525,
       "word": "难哄 遛人时间轴",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1703675374,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218520,
-      "num": 218520,
-      "word": "白羊座 魅力",
-      "onboard_time": 1703679635,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 215285,
@@ -1451,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203944,
+      "num": 203944,
+      "word": "AG 拿下",
+      "onboard_time": 1703676515,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203795,
       "num": 203795,
       "word": "杨幂机场皮草大衣",
@@ -1520,14 +1560,6 @@
       "word": "RNG对战RST",
       "onboard_time": 1703676035,
       "rank": 37,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 197028,
-      "num": 197028,
-      "word": "AG 拿下",
-      "onboard_time": 1703676515,
-      "rank": 38,
       "category": "电竞"
     },
     {
@@ -1659,6 +1691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186715,
+      "num": 186715,
+      "word": "三大队任敏破碎感",
+      "onboard_time": 1703680175,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185481,
       "num": 185481,
       "word": "我国首艘大洋钻探船完成首次试航",
@@ -1729,6 +1769,14 @@
       "onboard_time": 1703664334,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171313,
+      "num": 171313,
+      "word": "酸奶界爱马仕能走多远",
+      "onboard_time": 1703679934,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 167188,
@@ -1833,14 +1881,6 @@
       "onboard_time": 1703597975,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160750,
-      "num": 160750,
-      "word": "酸奶界爱马仕能走多远",
-      "onboard_time": 1703679934,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 160223,
@@ -1979,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145487,
+      "num": 229441,
+      "word": "纯电轿车之王",
+      "onboard_time": 1703680595,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 144745,
       "num": 144745,
       "word": "李燃搬出沈耀家",
@@ -2025,14 +2073,6 @@
       "onboard_time": 1703656954,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 140751,
-      "num": 140751,
-      "word": "三大队任敏破碎感",
-      "onboard_time": 1703680175,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 139688,
@@ -2777,6 +2817,14 @@
       "onboard_time": 1703623635,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30540,
+      "num": 140106,
+      "word": "iQOONeo9年轻人的游戏搭子",
+      "onboard_time": 1703681014,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 25972,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1703681213994,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1518508,
+        "num": 1518508,
+        "word": "唐嫣繁花 妆造颠覆",
+        "onboard_time": 1703671537,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1314949,
+        "num": 1314949,
+        "word": "柯洁 今后不会再发动态",
+        "onboard_time": 1703675914,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68511,
+        "num": 1049534,
+        "word": "我国八纵八横高铁网建成约80%",
+        "onboard_time": 1703663853,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892024,
+        "num": 892024,
+        "word": "繁花 继承之战",
+        "onboard_time": 1703678134,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 829089,
+        "num": 829089,
+        "word": "吃不下饭是身体在保护你",
+        "onboard_time": 1703666315,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 873877,
+        "num": 828563,
+        "word": "繁花 金宇澄原著",
+        "onboard_time": 1703680297,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 769234,
+        "num": 769234,
+        "word": "小鹿爆料 抄袭认可",
+        "onboard_time": 1703676874,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 829574,
+        "num": 704719,
+        "word": "繁花开播",
+        "onboard_time": 1703676515,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 597442,
+        "num": 597442,
+        "word": "中共中央印发中国共产党纪律处分条例",
+        "onboard_time": 1703678797,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 552909,
+        "num": 552909,
+        "word": "特斯拉瞒报工厂机器人袭击工人次数",
+        "onboard_time": 1703678617,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1587590,
+        "num": 507252,
+        "word": "周海媚为突发心脏病猝死",
+        "onboard_time": 1703674418,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1123127,
+        "num": 490252,
+        "word": "章泽天二胎 双胞胎",
+        "onboard_time": 1703666136,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 619704,
+        "num": 476200,
+        "word": "韩国娱乐圈因李善均去世暂停活动",
+        "onboard_time": 1703670214,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451945,
+        "num": 451945,
+        "word": "淘宝将支持仅退款",
+        "onboard_time": 1703651860,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 387023,
+        "num": 387023,
+        "word": "无畏 被研究透了",
+        "onboard_time": 1703677533,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 603654,
+        "num": 383439,
+        "word": "繁花首映礼",
+        "onboard_time": 1703670335,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424053,
+        "num": 381782,
+        "word": "小时代之繁花时代",
+        "onboard_time": 1703680895,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374113,
+        "num": 374113,
+        "word": "老板 以后不许员工和孩子同时出现",
+        "onboard_time": 1703677473,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332888,
+        "num": 332888,
+        "word": "患儿妈妈买被子发现7000元现金报警送回",
+        "onboard_time": 1703676935,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 297275,
+        "num": 332505,
+        "word": "母亲谈女童玩热力追踪项目受伤过程",
+        "onboard_time": 1703679696,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332201,
+        "num": 332201,
+        "word": "人生若如初见 播不播",
+        "onboard_time": 1703676634,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316124,
+        "num": 316124,
+        "word": "Hero镜子碎了",
+        "onboard_time": 1703676275,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 315803,
+        "num": 315803,
+        "word": "巴西男子与15岁侄女发生关系被妻子阉割",
+        "onboard_time": 1703667395,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308849,
+        "num": 308849,
+        "word": "唐嫣 上海话台词",
+        "onboard_time": 1703681014,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299367,
+        "num": 299367,
+        "word": "白羊座 魅力",
+        "onboard_time": 1703679635,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272627,
+        "num": 272627,
+        "word": "难哄 白敬亭章若楠",
+        "onboard_time": 1703661215,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240734,
+        "num": 240734,
+        "word": "红果果绿泡泡 寻人启事",
+        "onboard_time": 1703660614,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238007,
+        "num": 238007,
+        "word": "景甜短发",
+        "onboard_time": 1703669316,
+        "rank": 27,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 230544,
+        "num": 230544,
+        "word": "女孩头发长虱子老师趁晴天帮其洗头",
+        "onboard_time": 1703668656,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206403,
+        "num": 229652,
+        "word": "两名临时工离职老板强行送厚衣服告别",
+        "onboard_time": 1703668537,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145487,
+        "num": 229441,
+        "word": "纯电轿车之王",
+        "onboard_time": 1703680595,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 358469,
+        "num": 229393,
+        "word": "发发 作弊",
+        "onboard_time": 1703680532,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229261,
+        "num": 229261,
+        "word": "王安宇 哭戏",
+        "onboard_time": 1703671118,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208304,
+        "num": 208304,
+        "word": "苏培盛英文名",
+        "onboard_time": 1703677533,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203944,
+        "num": 203944,
+        "word": "AG 拿下",
+        "onboard_time": 1703676515,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188098,
+        "num": 188098,
+        "word": "黄雅莉晒与王源合照",
+        "onboard_time": 1703672857,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186715,
+        "num": 186715,
+        "word": "三大队任敏破碎感",
+        "onboard_time": 1703680175,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80968,
+        "num": 177965,
+        "word": "iQOONeo9双芯战神",
+        "onboard_time": 1703678134,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177569,
+        "num": 177569,
+        "word": "菠菜 马面裙",
+        "onboard_time": 1703675076,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 128145,
+        "num": 173741,
+        "word": "官方通报因大气污染叫停面条加工",
+        "onboard_time": 1703673340,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171650,
+        "num": 171650,
+        "word": "李善均曾因毒品案件受到要挟恐吓",
+        "onboard_time": 1703675496,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171450,
+        "num": 171450,
+        "word": "把喜欢的人删了再加回来会发生什么",
+        "onboard_time": 1703670820,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171313,
+        "num": 171313,
+        "word": "酸奶界爱马仕能走多远",
+        "onboard_time": 1703679934,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160737,
+        "num": 160737,
+        "word": "今年多家Doinb相关公司注销",
+        "onboard_time": 1703677415,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155219,
+        "num": 155219,
+        "word": "王者开年版本云梦有灵",
+        "onboard_time": 1703679216,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154357,
+        "num": 154357,
+        "word": "东方甄选拟15亿出售教育业务",
+        "onboard_time": 1703673874,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100422,
+        "num": 148829,
+        "word": "复旦教授称中国退休年龄还是太早",
+        "onboard_time": 1703661995,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98351,
+        "num": 146706,
+        "word": "南京38年前入室抢劫杀人案告破",
+        "onboard_time": 1703668656,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146373,
+        "num": 146373,
+        "word": "檀健次说相柳得到了喜欢和认可",
+        "onboard_time": 1703679035,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30540,
+        "num": 140106,
+        "word": "iQOONeo9年轻人的游戏搭子",
+        "onboard_time": 1703681014,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#以中国式现代化全面推进强国建设#"
+    }
+  }
+}

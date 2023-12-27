@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703680281470,
+  "endTime": 1703681213994,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -4099,20 +4099,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1518508,
+      "num": 1518508,
+      "word": "唐嫣繁花 妆造颠覆",
+      "onboard_time": 1703671537,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1518202,
       "num": 1490950,
       "word": "68岁女子感染HPV称老伴都去世30多年",
       "onboard_time": 1702620635,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1517353,
-      "num": 1517353,
-      "word": "唐嫣繁花 妆造颠覆",
-      "onboard_time": 1703671537,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 1517230,
@@ -4995,6 +4995,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1314949,
+      "num": 1314949,
+      "word": "柯洁 今后不会再发动态",
+      "onboard_time": 1703675914,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1311535,
       "num": 620295,
       "word": "艾福杰尼结婚",
@@ -5169,14 +5177,6 @@
       "onboard_time": 1702383275,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1276936,
-      "num": 1276936,
-      "word": "柯洁 今后不会再发动态",
-      "onboard_time": 1703675914,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 1276348,
@@ -8763,6 +8763,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 873877,
+      "num": 828563,
+      "word": "繁花 金宇澄原著",
+      "onboard_time": 1703680297,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 873246,
       "num": 873246,
       "word": "刘诗诗刘宇宁吻戏",
@@ -10427,6 +10435,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 769234,
+      "num": 769234,
+      "word": "小鹿爆料 抄袭认可",
+      "onboard_time": 1703676874,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 768080,
       "num": 768080,
       "word": "董明珠称矿井空调让矿工从裸体上班到穿西装",
@@ -11529,14 +11545,6 @@
       "onboard_time": 1701854918,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 710894,
-      "num": 710894,
-      "word": "小鹿爆料 抄袭认可",
-      "onboard_time": 1703676874,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 709235,
@@ -14379,6 +14387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597442,
+      "num": 597442,
+      "word": "中共中央印发中国共产党纪律处分条例",
+      "onboard_time": 1703678797,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 596978,
       "num": 596978,
       "word": "法硕 汗流浃背",
@@ -15883,6 +15899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552909,
+      "num": 552909,
+      "word": "特斯拉瞒报工厂机器人袭击工人次数",
+      "onboard_time": 1703678617,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 552623,
       "num": 458663,
       "word": "张婧仪范丞丞 眼神好慌乱",
@@ -16217,14 +16241,6 @@
       "onboard_time": 1702379374,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 544336,
-      "num": 544336,
-      "word": "特斯拉瞒报工厂机器人袭击工人次数",
-      "onboard_time": 1703678617,
-      "rank": 8,
-      "category": "汽车"
     },
     {
       "raw_hot": 544206,
@@ -19723,14 +19739,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 463548,
-      "num": 463548,
-      "word": "中共中央印发中国共产党纪律处分条例",
-      "onboard_time": 1703678797,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 463291,
       "num": 463291,
       "word": "淘票票 有心了",
@@ -21995,6 +22003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424053,
+      "num": 381782,
+      "word": "小时代之繁花时代",
+      "onboard_time": 1703680895,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 423375,
       "num": 423375,
       "word": "万鹏因为选上女主崩溃大哭",
@@ -24243,6 +24259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 387023,
+      "num": 387023,
+      "word": "无畏 被研究透了",
+      "onboard_time": 1703677533,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 386956,
       "num": 386956,
       "word": "王安宇 少来",
@@ -26369,6 +26393,14 @@
       "onboard_time": 1701954524,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 358469,
+      "num": 229393,
+      "word": "发发 作弊",
+      "onboard_time": 1703680532,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 358261,
@@ -28987,14 +29019,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 324525,
-      "num": 324525,
-      "word": "无畏 被研究透了",
-      "onboard_time": 1703677533,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 324446,
       "num": 324446,
       "word": "天美工作室 请吃饭",
@@ -29851,6 +29875,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 316124,
+      "num": 316124,
+      "word": "Hero镜子碎了",
+      "onboard_time": 1703676275,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 316056,
       "num": 255146,
       "word": "把毕业论文打印成了小票",
@@ -30523,6 +30555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308849,
+      "num": 308849,
+      "word": "唐嫣 上海话台词",
+      "onboard_time": 1703681014,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308827,
       "num": 308827,
       "word": "徐若晗演张若昀学生",
@@ -30985,14 +31025,6 @@
       "onboard_time": 1703375544,
       "rank": 13,
       "category": "美食"
-    },
-    {
-      "raw_hot": 305445,
-      "num": 305445,
-      "word": "Hero镜子碎了",
-      "onboard_time": 1703676275,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 305324,
@@ -31635,6 +31667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 299367,
+      "num": 299367,
+      "word": "白羊座 魅力",
+      "onboard_time": 1703679635,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 299366,
       "num": 299366,
       "word": "白敬亭 一晚上演出了场连续剧",
@@ -31865,6 +31905,14 @@
       "onboard_time": 1702348953,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 297275,
+      "num": 332505,
+      "word": "母亲谈女童玩热力追踪项目受伤过程",
+      "onboard_time": 1703679696,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297268,
@@ -41419,14 +41467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 229421,
-      "num": 229421,
-      "word": "母亲谈女童玩热力追踪项目受伤过程",
-      "onboard_time": 1703679696,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229389,
       "num": 229389,
       "word": "东方甄选市值蒸发22%",
@@ -43497,14 +43537,6 @@
       "onboard_time": 1702438357,
       "rank": 36,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 218520,
-      "num": 218520,
-      "word": "白羊座 魅力",
-      "onboard_time": 1703679635,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 218517,
@@ -47027,6 +47059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203944,
+      "num": 203944,
+      "word": "AG 拿下",
+      "onboard_time": 1703676515,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203943,
       "num": 203943,
       "word": "马哲重组EP",
@@ -49041,14 +49081,6 @@
       "onboard_time": 1703229512,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197028,
-      "num": 197028,
-      "word": "AG 拿下",
-      "onboard_time": 1703676515,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 197025,
@@ -52417,6 +52449,14 @@
       "onboard_time": 1703422656,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186715,
+      "num": 186715,
+      "word": "三大队任敏破碎感",
+      "onboard_time": 1703680175,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 186705,
@@ -56003,6 +56043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171313,
+      "num": 171313,
+      "word": "酸奶界爱马仕能走多远",
+      "onboard_time": 1703679934,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 171304,
       "num": 171304,
       "word": "狼队2比1切尔西",
@@ -58609,14 +58657,6 @@
       "onboard_time": 1702519831,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160750,
-      "num": 160750,
-      "word": "酸奶界爱马仕能走多远",
-      "onboard_time": 1703679934,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 160706,
@@ -62363,6 +62403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145487,
+      "num": 229441,
+      "word": "纯电轿车之王",
+      "onboard_time": 1703680595,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 145464,
       "num": 145464,
       "word": "人体约70%免疫力来自肠道",
@@ -63545,14 +63593,6 @@
       "onboard_time": 1703246075,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140751,
-      "num": 140751,
-      "word": "三大队任敏破碎感",
-      "onboard_time": 1703680175,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 140686,
@@ -73361,6 +73401,14 @@
       "onboard_time": 1702289376,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30540,
+      "num": 140106,
+      "word": "iQOONeo9年轻人的游戏搭子",
+      "onboard_time": 1703681014,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 30472,
