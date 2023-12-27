@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703662424946,
+  "endTime": 1703665269888,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -75,6 +75,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1496277,
+      "num": 1496277,
+      "word": "难哄 白敬亭章若楠",
+      "onboard_time": 1703661215,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1424196,
       "num": 433075,
       "word": "安陵容小产甄嬛为什么要捂住鼻子",
@@ -89,6 +97,14 @@
       "onboard_time": 1703637634,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1358321,
+      "num": 1358321,
+      "word": "复旦教授称中国退休年龄还是太早",
+      "onboard_time": 1703661995,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1326880,
@@ -131,20 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1080481,
-      "num": 1080481,
-      "word": "难哄 白敬亭章若楠",
-      "onboard_time": 1703661215,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1031350,
       "num": 1031350,
       "word": "穷鬼套餐不涨价",
       "onboard_time": 1703641352,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 993980,
+      "num": 993980,
+      "word": "红果果绿泡泡 寻人启事",
+      "onboard_time": 1703660614,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 992968,
@@ -171,20 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 871881,
-      "num": 871881,
-      "word": "红果果绿泡泡 寻人启事",
-      "onboard_time": 1703660614,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 870386,
       "num": 870386,
       "word": "邓为前助理被开除原因",
       "onboard_time": 1703638355,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 839265,
+      "num": 839265,
+      "word": "痘痘里的白色物质其实是油脂",
+      "onboard_time": 1703661395,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 809323,
@@ -227,12 +243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 696901,
+      "num": 696901,
+      "word": "迪丽热巴 我这个人就不能再饿一下吗",
+      "onboard_time": 1703661812,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 696356,
       "num": 696356,
       "word": "胡歌对接否认资助女孩成了中科院博士",
       "onboard_time": 1703633966,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 683434,
+      "num": 683434,
+      "word": "他在买和偷之间选择了捐",
+      "onboard_time": 1703659415,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 678115,
@@ -315,6 +347,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493473,
+      "num": 471306,
+      "word": "赵昭仪 能退钱吗",
+      "onboard_time": 1703663493,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 492440,
+      "num": 492440,
+      "word": "结婚16年3娃非亲生竟有案中案",
+      "onboard_time": 1703661333,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491441,
       "num": 491441,
       "word": "小米汽车向华为比亚迪致敬",
@@ -331,12 +379,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 480809,
-      "num": 454159,
-      "word": "他在买和偷之间选择了捐",
-      "onboard_time": 1703659415,
-      "rank": 12,
-      "category": "幽默"
+      "raw_hot": 481906,
+      "num": 453927,
+      "word": "王安宇 迪丽热巴副驾",
+      "onboard_time": 1703664396,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 472725,
@@ -347,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463040,
-      "num": 463040,
-      "word": "迪丽热巴 我这个人就不能再饿一下吗",
-      "onboard_time": 1703661812,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 455243,
+      "num": 455243,
+      "word": "多个经纪公司招聘艺人助理月薪不过万",
+      "onboard_time": 1703662054,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 450592,
@@ -451,14 +499,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 409798,
-      "num": 409798,
-      "word": "痘痘里的白色物质其实是油脂",
-      "onboard_time": 1703661395,
-      "rank": 16,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 407992,
       "num": 407992,
       "word": "春花厌阵容官宣",
@@ -529,6 +569,14 @@
       "onboard_time": 1703601217,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337813,
+      "num": 337813,
+      "word": "仙剑四排播",
+      "onboard_time": 1703663915,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 333617,
@@ -667,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261569,
-      "num": 261569,
-      "word": "复旦教授称中国退休年龄还是太早",
-      "onboard_time": 1703661995,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257812,
       "num": 205747,
       "word": "金城武 讨厌在拍戏时看到动物",
@@ -712,6 +752,14 @@
       "word": "2024央视春晚彩排",
       "onboard_time": 1703584955,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 242469,
+      "num": 202859,
+      "word": "朱丹秀婚戒",
+      "onboard_time": 1703662418,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -760,14 +808,6 @@
       "word": "炊事班官兵陪灾区小朋友嬉戏玩耍",
       "onboard_time": 1703642912,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216831,
-      "num": 216831,
-      "word": "结婚16年3娃非亲生竟有案中案",
-      "onboard_time": 1703661333,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -899,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202936,
+      "num": 202936,
+      "word": "WB 状态",
+      "onboard_time": 1703664217,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201023,
       "num": 201023,
       "word": "西安限行",
@@ -955,6 +1003,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 193358,
+      "num": 193358,
+      "word": "在老家相亲400次",
+      "onboard_time": 1703664035,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192308,
       "num": 192308,
       "word": "曼联3比2阿斯顿维拉",
@@ -969,14 +1025,6 @@
       "onboard_time": 1703636611,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191058,
-      "num": 191058,
-      "word": "多个经纪公司招聘艺人助理月薪不过万",
-      "onboard_time": 1703662054,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 191048,
@@ -1033,6 +1081,22 @@
       "onboard_time": 1703654315,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172541,
+      "num": 170488,
+      "word": "15号之前离职 社保",
+      "onboard_time": 1703665054,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 171418,
+      "num": 171418,
+      "word": "经超 琳姐做饭是世界大战",
+      "onboard_time": 1703664334,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 167188,
@@ -1203,6 +1267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151158,
+      "num": 151158,
+      "word": "外国人眼中董宇辉英语口音问题",
+      "onboard_time": 1703664814,
+      "rank": 34,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 146672,
       "num": 340063,
       "word": "一杯奶茶两代人的沉默",
@@ -1217,6 +1289,14 @@
       "onboard_time": 1703646759,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144745,
+      "num": 144745,
+      "word": "李燃搬出沈耀家",
+      "onboard_time": 1703662656,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 144394,
@@ -1323,6 +1403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132013,
+      "num": 132013,
+      "word": "咒术回战 我是咒术师",
+      "onboard_time": 1703664155,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 131699,
       "num": 131699,
       "word": "2024考证时间表",
@@ -1403,6 +1491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123828,
+      "num": 123828,
+      "word": "莫兰特忍不住了",
+      "onboard_time": 1703664217,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122143,
       "num": 122143,
       "word": "迪丽热巴烈艳红唇妆",
@@ -1449,6 +1545,14 @@
       "onboard_time": 1703602961,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120119,
+      "num": 120119,
+      "word": "考公暗黑偏方",
+      "onboard_time": 1703663074,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 119814,
@@ -1595,6 +1699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105809,
+      "num": 1360525,
+      "word": "我国八纵八横高铁网建成约80%",
+      "onboard_time": 1703663853,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104617,
       "num": 104617,
       "word": "每天的体力分配",
@@ -1609,6 +1721,14 @@
       "onboard_time": 1703599777,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98531,
+      "num": 98531,
+      "word": "檀健次跨年舞台舞还没编好",
+      "onboard_time": 1703665115,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 97883,
@@ -1659,6 +1779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 91770,
+      "num": 91770,
+      "word": "王一博EP概念预告",
+      "onboard_time": 1703662475,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 89328,
       "num": 89328,
       "word": "羽生结弦回应传言",
@@ -1681,6 +1809,14 @@
       "onboard_time": 1703608466,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86560,
+      "num": 86560,
+      "word": "小猫的第一根逗猫棒",
+      "onboard_time": 1703665234,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 86285,
