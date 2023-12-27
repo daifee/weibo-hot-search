@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703648043934,
+  "endTime": 1703650846901,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -23,6 +23,14 @@
       "num": 365631,
       "word": "全慧珍报警称李善均留下遗书",
       "onboard_time": 1703646577,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1711427,
+      "num": 474750,
+      "word": "李善均昨天请求警方测谎",
+      "onboard_time": 1703650838,
       "rank": 10,
       "category": "艺人"
     },
@@ -83,6 +91,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1017586,
+      "num": 1017586,
+      "word": "欠4600万在杭卖烤肠还债的大叔回家了",
+      "onboard_time": 1703648676,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 976312,
+      "num": 976312,
+      "word": "寄生虫",
+      "onboard_time": 1703649578,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 958201,
       "num": 958201,
       "word": "流量褪去的淄博鸭头小哥",
@@ -129,6 +153,14 @@
       "onboard_time": 1703633966,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 670043,
+      "num": 670043,
+      "word": "北京一男子骑电动车闯红灯被撞身亡",
+      "onboard_time": 1703646880,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 630883,
@@ -179,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 486255,
+      "num": 486255,
+      "word": "奶茶 大冰少杯",
+      "onboard_time": 1703644413,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 472725,
       "num": 472725,
       "word": "央视揭朋友圈少儿才艺投票骗局",
@@ -219,14 +259,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 422747,
-      "num": 422747,
-      "word": "北京一男子骑电动车闯红灯被撞身亡",
-      "onboard_time": 1703646880,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 417595,
       "num": 417595,
       "word": "腿不直原来才是正常的",
@@ -257,14 +289,6 @@
       "onboard_time": 1703644953,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 407647,
-      "num": 407647,
-      "word": "奶茶 大冰少杯",
-      "onboard_time": 1703644413,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 392245,
@@ -347,6 +371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 298715,
+      "num": 298715,
+      "word": "迪丽热巴胡先煦 双人相声",
+      "onboard_time": 1703649635,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288807,
       "num": 288807,
       "word": "香港演员黎淑贤去世",
@@ -395,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274318,
+      "num": 221450,
+      "word": "拆字在国外意外走红",
+      "onboard_time": 1703648256,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 271908,
       "num": 271908,
       "word": "闲鱼回应援助加拿大鹅被倒卖",
       "onboard_time": 1703591672,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257812,
+      "num": 203107,
+      "word": "金城武 讨厌在拍戏时看到动物",
+      "onboard_time": 1703649277,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 250514,
@@ -425,6 +473,14 @@
       "onboard_time": 1703584955,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234271,
+      "num": 158242,
+      "word": "原来痘痘冒尖只在一瞬间",
+      "onboard_time": 1703650838,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 221811,
@@ -515,6 +571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 203671,
+      "num": 203671,
+      "word": "电影一闪一闪亮星星终极预告",
+      "onboard_time": 1703647835,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203252,
       "num": 203252,
       "word": "谢娜在线关心张含韵感情问题",
@@ -555,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193952,
+      "num": 193952,
+      "word": "水果口感的姜",
+      "onboard_time": 1703647956,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192308,
       "num": 192308,
       "word": "曼联3比2阿斯顿维拉",
@@ -585,6 +657,14 @@
       "onboard_time": 1703639737,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 181826,
+      "num": 158214,
+      "word": "跟家里人说要考研但没考上时",
+      "onboard_time": 1703649635,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 181336,
@@ -659,6 +739,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158244,
+      "num": 158244,
+      "word": "苏醒要给0713开中老年婚介所",
+      "onboard_time": 1703649456,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158181,
+      "num": 158181,
+      "word": "活塞27连败",
+      "onboard_time": 1703649937,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157768,
       "num": 157768,
       "word": "代号鸢 郃广瑜修罗场",
@@ -707,14 +803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 153214,
-      "num": 153214,
-      "word": "水果口感的姜",
-      "onboard_time": 1703647956,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 146672,
       "num": 340063,
       "word": "一杯奶茶两代人的沉默",
@@ -729,6 +817,14 @@
       "onboard_time": 1703646759,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144394,
+      "num": 144394,
+      "word": "何小鹏回应雷军致敬",
+      "onboard_time": 1703648496,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 144241,
@@ -771,11 +867,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 134396,
-      "num": 134396,
-      "word": "电影一闪一闪亮星星终极预告",
-      "onboard_time": 1703647835,
-      "rank": 41,
+      "raw_hot": 136338,
+      "num": 140487,
+      "word": "郭刚堂可能提起抗诉程序",
+      "onboard_time": 1703649456,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133933,
+      "num": 133933,
+      "word": "非诚勿扰3是一场告别",
+      "onboard_time": 1703649516,
+      "rank": 38,
       "category": "电影"
     },
     {
@@ -809,6 +913,14 @@
       "onboard_time": 1703638895,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126444,
+      "num": 126444,
+      "word": "光与夜之恋",
+      "onboard_time": 1703650780,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 124965,
@@ -1009,6 +1121,14 @@
       "onboard_time": 1703602718,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81765,
+      "num": 979070,
+      "word": "盘点2023我国重大科技成就",
+      "onboard_time": 1703635893,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81621,
