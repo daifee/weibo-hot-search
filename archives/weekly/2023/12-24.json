@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703640849703,
+  "endTime": 1703643988635,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1657936,
+      "num": 1657936,
+      "word": "张艺谋 浩存就是适合吃这碗饭",
+      "onboard_time": 1703640871,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1625031,
       "num": 1625031,
       "word": "男子仅有10万元买下191万的房子后悔",
@@ -481,6 +489,14 @@
       "onboard_time": 1703477257,
       "rank": 1,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1306833,
+      "num": 1306833,
+      "word": "李善均去世",
+      "onboard_time": 1703643755,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1304971,
@@ -721,6 +737,14 @@
       "onboard_time": 1703389776,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1031350,
+      "num": 1031350,
+      "word": "穷鬼套餐不涨价",
+      "onboard_time": 1703641352,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 1022536,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1703336015,
       "rank": 3,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 809323,
+      "num": 809323,
+      "word": "失孤原型案人贩子1人死缓1人无期",
+      "onboard_time": 1703642011,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 808178,
@@ -1561,6 +1593,14 @@
       "onboard_time": 1703388934,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 594182,
+      "num": 594182,
+      "word": "孙怡张晚意是在演他追她逃吗",
+      "onboard_time": 1703638176,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 592659,
@@ -2355,6 +2395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439039,
+      "num": 439039,
+      "word": "考研后的年轻人在做什么",
+      "onboard_time": 1703642912,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437682,
       "num": 437682,
       "word": "经济学家预测明年美股或将大跌86%",
@@ -2395,6 +2443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 430898,
+      "num": 430898,
+      "word": "麦当劳涨价0.5至1元",
+      "onboard_time": 1703640153,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 428066,
       "num": 428066,
       "word": "冻梨 吸妃回宫了",
@@ -2417,14 +2473,6 @@
       "onboard_time": 1703434651,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 423822,
-      "num": 423822,
-      "word": "孙怡张晚意是在演他追她逃吗",
-      "onboard_time": 1703638176,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 422580,
@@ -3035,6 +3083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 326455,
+      "num": 326455,
+      "word": "跨年晚会 神仙打架",
+      "onboard_time": 1703636674,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323369,
       "num": 323369,
       "word": "2023十大热播剧",
@@ -3355,6 +3411,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 295931,
+      "num": 159896,
+      "word": "萨摩耶真的不适合吵架",
+      "onboard_time": 1703643030,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295545,
       "num": 295545,
       "word": "吴千语施伯雄求婚视频",
@@ -3609,14 +3673,6 @@
       "onboard_time": 1703516136,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 271376,
-      "num": 271376,
-      "word": "麦当劳涨价0.5至1元",
-      "onboard_time": 1703640153,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 269715,
@@ -3960,14 +4016,6 @@
       "word": "想看贾玲张小斐",
       "onboard_time": 1703597432,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 248676,
-      "num": 248676,
-      "word": "跨年晚会 神仙打架",
-      "onboard_time": 1703636674,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -4323,6 +4371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229193,
+      "num": 157938,
+      "word": "安陵容小产甄嬛为什么要捂住鼻子",
+      "onboard_time": 1703643693,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228938,
       "num": 228938,
       "word": "超雄综合征",
@@ -4457,6 +4513,14 @@
       "onboard_time": 1703397811,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221811,
+      "num": 221811,
+      "word": "炊事班官兵陪灾区小朋友嬉戏玩耍",
+      "onboard_time": 1703642912,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220709,
@@ -4915,6 +4979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203069,
+      "num": 203069,
+      "word": "郭刚堂之子不去宣判现场",
+      "onboard_time": 1703642912,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202620,
       "num": 202620,
       "word": "陈卓璇英文",
@@ -5145,6 +5217,14 @@
       "onboard_time": 1703470173,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196348,
+      "num": 196348,
+      "word": "失孤",
+      "onboard_time": 1703643573,
+      "rank": 24,
+      "category": "电影,社会新闻"
     },
     {
       "raw_hot": 196182,
@@ -6347,6 +6427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162536,
+      "num": 162536,
+      "word": "女警把走失男童小脚放进怀里取暖",
+      "onboard_time": 1703640992,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162070,
       "num": 162070,
       "word": "最美的夜刮刮卡把节目透了一半",
@@ -6649,6 +6737,14 @@
       "onboard_time": 1703560895,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155347,
+      "num": 155347,
+      "word": "举报间谍活动有三种途径",
+      "onboard_time": 1703643573,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155055,
@@ -6977,6 +7073,14 @@
       "onboard_time": 1703553275,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146672,
+      "num": 340063,
+      "word": "一杯奶茶两代人的沉默",
+      "onboard_time": 1703638955,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146409,
@@ -7499,6 +7603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133229,
+      "num": 133229,
+      "word": "国之重器拍照能看清10公里外乒乓球",
+      "onboard_time": 1703642912,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133196,
       "num": 133196,
       "word": "猫猫起床第一件事",
@@ -7585,14 +7697,6 @@
       "onboard_time": 1703395893,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130857,
-      "num": 340063,
-      "word": "一杯奶茶两代人的沉默",
-      "onboard_time": 1703638955,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130651,
@@ -8027,6 +8131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120296,
+      "num": 120296,
+      "word": "咖啡强制开机 褪黑素强制关机",
+      "onboard_time": 1703641113,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120116,
       "num": 120116,
       "word": "311教育学",
@@ -8089,6 +8201,14 @@
       "onboard_time": 1703515898,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118445,
+      "num": 118445,
+      "word": "C罗登顶年度射手榜",
+      "onboard_time": 1703641831,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 118369,
@@ -8443,6 +8563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104617,
+      "num": 104617,
+      "word": "每天的体力分配",
+      "onboard_time": 1703643334,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104195,
       "num": 1040294,
       "word": "甘肃震区中小学有序复课",
@@ -8553,6 +8681,14 @@
       "onboard_time": 1703559573,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97625,
+      "num": 97625,
+      "word": "2023人民警察温暖图鉴",
+      "onboard_time": 1703643935,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 96997,

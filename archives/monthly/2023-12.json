@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703640849703,
+  "endTime": 1703643988635,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -3475,6 +3475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1657936,
+      "num": 1657936,
+      "word": "张艺谋 浩存就是适合吃这碗饭",
+      "onboard_time": 1703640871,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1651224,
       "num": 1651224,
       "word": "成毅 礼仪小姐请下班",
@@ -4905,6 +4913,14 @@
       "onboard_time": 1702824707,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1306833,
+      "num": 1306833,
+      "word": "李善均去世",
+      "onboard_time": 1703643755,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1306488,
@@ -6817,6 +6833,14 @@
       "onboard_time": 1702181672,
       "rank": 20,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1031350,
+      "num": 1031350,
+      "word": "穷鬼套餐不涨价",
+      "onboard_time": 1703641352,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 1030581,
@@ -9489,6 +9513,14 @@
       "onboard_time": 1702025980,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 809323,
+      "num": 809323,
+      "word": "失孤原型案人贩子1人死缓1人无期",
+      "onboard_time": 1703642011,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 809239,
@@ -14113,6 +14145,14 @@
       "onboard_time": 1701858219,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594182,
+      "num": 594182,
+      "word": "孙怡张晚意是在演他追她逃吗",
+      "onboard_time": 1703638176,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 594024,
@@ -20483,6 +20523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 439039,
+      "num": 439039,
+      "word": "考研后的年轻人在做什么",
+      "onboard_time": 1703642912,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438774,
       "num": 438774,
       "word": "刘少昂 抢跑",
@@ -21067,6 +21115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430898,
+      "num": 430898,
+      "word": "麦当劳涨价0.5至1元",
+      "onboard_time": 1703640153,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 430453,
       "num": 411202,
       "word": "因为太耐用导致自己快失传",
@@ -21433,14 +21489,6 @@
       "onboard_time": 1701929614,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423822,
-      "num": 423822,
-      "word": "孙怡张晚意是在演他追她逃吗",
-      "onboard_time": 1703638176,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 423375,
@@ -28171,6 +28219,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 326455,
+      "num": 326455,
+      "word": "跨年晚会 神仙打架",
+      "onboard_time": 1703636674,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326410,
       "num": 326410,
       "word": "郑秀妍和Amber拍了MV",
@@ -31315,6 +31371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 295931,
+      "num": 159896,
+      "word": "萨摩耶真的不适合吵架",
+      "onboard_time": 1703643030,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295929,
       "num": 295929,
       "word": "董宇辉评论区清一色加油鼓劲",
@@ -34257,14 +34321,6 @@
       "onboard_time": 1702914391,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271376,
-      "num": 271376,
-      "word": "麦当劳涨价0.5至1元",
-      "onboard_time": 1703640153,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 271368,
@@ -37361,14 +37417,6 @@
       "onboard_time": 1702008276,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 248676,
-      "num": 248676,
-      "word": "跨年晚会 神仙打架",
-      "onboard_time": 1703636674,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 248617,
@@ -40587,6 +40635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229193,
+      "num": 157938,
+      "word": "安陵容小产甄嬛为什么要捂住鼻子",
+      "onboard_time": 1703643693,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229190,
       "num": 140771,
       "word": "高途CEO评罗永浩喊话董宇辉",
@@ -41921,6 +41977,14 @@
       "onboard_time": 1701617432,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221811,
+      "num": 221811,
+      "word": "炊事班官兵陪灾区小朋友嬉戏玩耍",
+      "onboard_time": 1703642912,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221709,
@@ -46283,6 +46347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 203069,
+      "num": 203069,
+      "word": "郭刚堂之子不去宣判现场",
+      "onboard_time": 1703642912,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203017,
       "num": 203017,
       "word": "全剧唯一的虐点是断更",
@@ -48073,6 +48145,14 @@
       "onboard_time": 1702563636,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196348,
+      "num": 196348,
+      "word": "失孤",
+      "onboard_time": 1703643573,
+      "rank": 24,
+      "category": "电影,社会新闻"
     },
     {
       "raw_hot": 196333,
@@ -56915,6 +56995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162536,
+      "num": 162536,
+      "word": "女警把走失男童小脚放进怀里取暖",
+      "onboard_time": 1703640992,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162424,
       "num": 162424,
       "word": "柯南全员黑化",
@@ -58673,6 +58761,14 @@
       "onboard_time": 1702476998,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155347,
+      "num": 155347,
+      "word": "举报间谍活动有三种途径",
+      "onboard_time": 1703643573,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155296,
@@ -60665,6 +60761,14 @@
       "onboard_time": 1702049138,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 146672,
+      "num": 340063,
+      "word": "一杯奶茶两代人的沉默",
+      "onboard_time": 1703638955,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146648,
@@ -63499,6 +63603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133229,
+      "num": 133229,
+      "word": "国之重器拍照能看清10公里外乒乓球",
+      "onboard_time": 1703642912,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133212,
       "num": 133212,
       "word": "马景涛怀念周海媚",
@@ -63945,14 +64057,6 @@
       "onboard_time": 1703395893,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130857,
-      "num": 340063,
-      "word": "一杯奶茶两代人的沉默",
-      "onboard_time": 1703638955,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130835,
@@ -65803,6 +65907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120296,
+      "num": 120296,
+      "word": "咖啡强制开机 褪黑素强制关机",
+      "onboard_time": 1703641113,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120281,
       "num": 120281,
       "word": "听说福建线面会繁殖",
@@ -65993,6 +66105,14 @@
       "onboard_time": 1703515898,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118445,
+      "num": 118445,
+      "word": "C罗登顶年度射手榜",
+      "onboard_time": 1703641831,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 118219,
@@ -67219,6 +67339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104617,
+      "num": 104617,
+      "word": "每天的体力分配",
+      "onboard_time": 1703643334,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104459,
       "num": 736789,
       "word": "小伙为救被困母子双手缝了11针",
@@ -67641,6 +67769,14 @@
       "onboard_time": 1703559573,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97625,
+      "num": 97625,
+      "word": "2023人民警察温暖图鉴",
+      "onboard_time": 1703643935,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 97607,
