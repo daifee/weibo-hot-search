@@ -1,6 +1,6 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703705623622,
+  "endTime": 1703708277892,
   "band_list": [
     {
       "raw_hot": 1802839,
@@ -395,6 +395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 68721,
+      "num": 68721,
+      "word": "四川男子售卖自家26棵香樟判缓刑",
+      "onboard_time": 1703702417,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63478,
       "num": 106191,
       "word": "苏培盛英文名",
@@ -433,14 +441,6 @@
       "onboard_time": 1703700562,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 44462,
-      "num": 44462,
-      "word": "四川男子售卖自家26棵香樟判缓刑",
-      "onboard_time": 1703702417,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44412,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25144,
+      "num": 21970,
+      "word": "幼儿园的单子不接了",
+      "onboard_time": 1703705594,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22441,
       "num": 22441,
       "word": "Kpop一家人",
@@ -515,15 +523,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 11276,
-      "num": 21970,
-      "word": "幼儿园的单子不接了",
-      "onboard_time": 1703705594,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 5156,
+      "raw_hot": 5315,
       "num": 170398,
       "word": "2023中国航天高燃时刻",
       "onboard_time": 1703670635,
