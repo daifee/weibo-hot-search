@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703684036561,
+  "endTime": 1703686533967,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -257,6 +257,14 @@
       "onboard_time": 1703418092,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2033383,
+      "num": 2033383,
+      "word": "发发 作弊",
+      "onboard_time": 1703680532,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 1996193,
@@ -659,14 +667,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1228780,
-      "num": 1228780,
-      "word": "发发 作弊",
-      "onboard_time": 1703680532,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1225222,
       "num": 1076088,
       "word": "重庆一疑似智障女子与五旬男子结婚",
@@ -1067,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 896429,
+      "num": 896429,
+      "word": "小时代之繁花时代",
+      "onboard_time": 1703680895,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 890987,
       "num": 890987,
       "word": "央视揭朋友圈少儿才艺投票骗局",
@@ -1331,14 +1339,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 781128,
-      "num": 781128,
-      "word": "小时代之繁花时代",
-      "onboard_time": 1703680895,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 778561,
       "num": 706222,
       "word": "邓为卷毛",
@@ -1539,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 716788,
+      "num": 716788,
+      "word": "shuuun",
+      "onboard_time": 1703685322,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 713749,
       "num": 703017,
       "word": "四川多名医护人员集体爬窗讨薪",
@@ -1617,6 +1625,22 @@
       "onboard_time": 1703564079,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 689525,
+      "num": 689525,
+      "word": "晚安计划",
+      "onboard_time": 1703514035,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 683907,
+      "num": 683907,
+      "word": "迪丽热巴 StrayKids",
+      "onboard_time": 1703684918,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 683762,
@@ -2169,6 +2193,14 @@
       "onboard_time": 1703580339,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 552565,
+      "num": 552565,
+      "word": "AG晋级KIC世冠总决赛",
+      "onboard_time": 1703685400,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 552244,
@@ -3065,6 +3097,14 @@
       "onboard_time": 1703647178,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416350,
+      "num": 416350,
+      "word": "3块钱的饮料正在集体消失",
+      "onboard_time": 1703683597,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 416045,
@@ -4059,14 +4099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304161,
-      "num": 304161,
-      "word": "晚安计划",
-      "onboard_time": 1703514035,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 303906,
       "num": 293838,
       "word": "李善均曾因毒品案件受到要挟恐吓",
@@ -4219,8 +4251,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291605,
-      "num": 291605,
+      "raw_hot": 292121,
+      "num": 292121,
       "word": "舌头下面的小刺是什么",
       "onboard_time": 1703682213,
       "rank": 30,
@@ -4875,6 +4907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248664,
+      "num": 248664,
+      "word": "AG 拿下",
+      "onboard_time": 1703676515,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 248298,
       "num": 248298,
       "word": "赵昭仪的担心真的多虑了",
@@ -5275,6 +5315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232203,
+      "num": 251202,
+      "word": "9岁女孩2个月剪出清明上河图",
+      "onboard_time": 1703685100,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231443,
       "num": 231443,
       "word": "情绪稳定 倒霉惯了",
@@ -5459,6 +5507,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 224381,
+      "num": 249056,
+      "word": "雷军连续多条微博致敬同行",
+      "onboard_time": 1703685698,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224319,
       "num": 224319,
       "word": "东方卫视跨年宣了好多演员",
@@ -5577,14 +5633,6 @@
       "onboard_time": 1703476476,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218456,
-      "num": 218456,
-      "word": "AG 拿下",
-      "onboard_time": 1703676515,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 218421,
@@ -5897,6 +5945,14 @@
       "onboard_time": 1703413233,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207405,
+      "num": 178610,
+      "word": "繁花片头",
+      "onboard_time": 1703678016,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 207247,
@@ -6289,6 +6345,14 @@
       "onboard_time": 1703522786,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198422,
+      "num": 198422,
+      "word": "好看又耐装的毛绒包包",
+      "onboard_time": 1703685579,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 198369,
@@ -7171,6 +7235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177936,
+      "num": 177936,
+      "word": "学化妆自己出片",
+      "onboard_time": 1703684678,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 177895,
       "num": 177895,
       "word": "檀健次泼李现一击即中",
@@ -7283,14 +7355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174956,
-      "num": 174956,
-      "word": "3块钱的饮料正在集体消失",
-      "onboard_time": 1703683597,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 174846,
       "num": 174846,
       "word": "王者年度版本云梦有灵",
@@ -7393,6 +7457,14 @@
       "onboard_time": 1703477319,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172332,
+      "num": 172332,
+      "word": "龙凤胎颜值差距有多大",
+      "onboard_time": 1703686358,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172273,
@@ -8331,6 +8403,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 153041,
+      "num": 153041,
+      "word": "丁程鑫与恒星制造",
+      "onboard_time": 1703685038,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152864,
       "num": 152864,
       "word": "师妹教博士师兄怎么谈恋爱",
@@ -8508,7 +8588,7 @@
     },
     {
       "raw_hot": 148801,
-      "num": 157112,
+      "num": 481957,
       "word": "极氪智驾放大招",
       "onboard_time": 1703683895,
       "rank": 42,
@@ -11489,6 +11569,14 @@
       "onboard_time": 1703616077,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 10967,
+      "num": 1156957,
+      "word": "2023中国航天高燃时刻",
+      "onboard_time": 1703670635,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10887,
