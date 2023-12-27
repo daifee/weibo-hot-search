@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703681213994,
+  "endTime": 1703683220500,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -3667,6 +3667,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1618953,
+      "num": 1618953,
+      "word": "唐嫣繁花 妆造颠覆",
+      "onboard_time": 1703671537,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1613057,
       "num": 1613057,
       "word": "出道六年她占五年",
@@ -4097,14 +4105,6 @@
       "onboard_time": 1703391334,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1518508,
-      "num": 1518508,
-      "word": "唐嫣繁花 妆造颠覆",
-      "onboard_time": 1703671537,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 1518202,
@@ -9755,6 +9755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 808049,
+      "num": 808049,
+      "word": "发发 作弊",
+      "onboard_time": 1703680532,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 807711,
       "num": 373721,
       "word": "水逆来了 重灾区的星座要小心",
@@ -12019,6 +12027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 689877,
+      "num": 628160,
+      "word": "小时代之繁花时代",
+      "onboard_time": 1703680895,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 689652,
       "num": 380546,
       "word": "孙维",
@@ -13491,6 +13507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 636924,
+      "num": 636924,
+      "word": "特斯拉瞒报工厂机器人袭击工人次数",
+      "onboard_time": 1703678617,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 636843,
       "num": 636843,
       "word": "娜然说封神上映后头发白了一半",
@@ -13561,6 +13585,14 @@
       "onboard_time": 1703670335,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 633045,
+      "num": 633045,
+      "word": "中共中央印发中国共产党纪律处分条例",
+      "onboard_time": 1703678797,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 632302,
@@ -13979,6 +14011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614810,
+      "num": 614810,
+      "word": "繁花 王菲老歌",
+      "onboard_time": 1703682155,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 614286,
       "num": 614286,
       "word": "周杰伦真不把观众当外人",
@@ -14385,14 +14425,6 @@
       "onboard_time": 1703059833,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 597442,
-      "num": 597442,
-      "word": "中共中央印发中国共产党纪律处分条例",
-      "onboard_time": 1703678797,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 596978,
@@ -15897,14 +15929,6 @@
       "onboard_time": 1702448495,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 552909,
-      "num": 552909,
-      "word": "特斯拉瞒报工厂机器人袭击工人次数",
-      "onboard_time": 1703678617,
-      "rank": 8,
-      "category": "汽车"
     },
     {
       "raw_hot": 552623,
@@ -22003,14 +22027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424053,
-      "num": 381782,
-      "word": "小时代之繁花时代",
-      "onboard_time": 1703680895,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 423375,
       "num": 423375,
       "word": "万鹏因为选上女主崩溃大哭",
@@ -24955,6 +24971,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 378715,
+      "num": 378715,
+      "word": "老板 以后不许员工和孩子同时出现",
+      "onboard_time": 1703677473,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 378586,
       "num": 378586,
       "word": "震区加鹅羽绒服疑被挂闲鱼倒卖",
@@ -25137,14 +25161,6 @@
       "onboard_time": 1702267535,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375905,
-      "num": 375905,
-      "word": "老板 以后不许员工和孩子同时出现",
-      "onboard_time": 1703677473,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 375686,
@@ -26075,6 +26091,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 362937,
+      "num": 362937,
+      "word": "天官赐福 官方糖",
+      "onboard_time": 1703681854,
+      "rank": 22,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 362658,
       "num": 362658,
       "word": "BSS 大赏",
@@ -26393,14 +26417,6 @@
       "onboard_time": 1701954524,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 358469,
-      "num": 229393,
-      "word": "发发 作弊",
-      "onboard_time": 1703680532,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 358261,
@@ -31555,6 +31571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 300506,
+      "num": 332505,
+      "word": "母亲谈女童玩热力追踪项目受伤过程",
+      "onboard_time": 1703679696,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300447,
       "num": 233779,
       "word": "原来平安夜送苹果是国内习俗",
@@ -31905,14 +31929,6 @@
       "onboard_time": 1702348953,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 297275,
-      "num": 332505,
-      "word": "母亲谈女童玩热力追踪项目受伤过程",
-      "onboard_time": 1703679696,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297268,
@@ -33321,6 +33337,14 @@
       "onboard_time": 1702123594,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 286244,
+      "num": 286244,
+      "word": "AG3比0拿到赛点",
+      "onboard_time": 1703682632,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 286137,
@@ -34793,6 +34817,14 @@
       "onboard_time": 1703413713,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 274192,
+      "num": 529105,
+      "word": "纯电轿车之王",
+      "onboard_time": 1703680595,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 274191,
@@ -37529,6 +37561,14 @@
       "onboard_time": 1702214321,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 253551,
+      "num": 218797,
+      "word": "舌头下面的小刺是什么",
+      "onboard_time": 1703682213,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 253549,
@@ -43547,6 +43587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218456,
+      "num": 218456,
+      "word": "AG 拿下",
+      "onboard_time": 1703676515,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 218339,
       "num": 218339,
       "word": "瞒天过海",
@@ -45484,7 +45532,7 @@
     },
     {
       "raw_hot": 209334,
-      "num": 190714,
+      "num": 581249,
       "word": "MK檀健次锁了",
       "onboard_time": 1703646099,
       "rank": 30,
@@ -47057,14 +47105,6 @@
       "onboard_time": 1702711534,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203944,
-      "num": 203944,
-      "word": "AG 拿下",
-      "onboard_time": 1703676515,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 203943,
@@ -49849,6 +49889,14 @@
       "onboard_time": 1701586892,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194631,
+      "num": 194631,
+      "word": "对眼睛友好的冷知识",
+      "onboard_time": 1703682575,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 194608,
@@ -56371,6 +56419,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 169952,
+      "num": 169952,
+      "word": "男爱豆发型模板",
+      "onboard_time": 1703683056,
+      "rank": 41,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 169923,
       "num": 169923,
       "word": "5天后考研",
@@ -58305,6 +58361,14 @@
       "onboard_time": 1703640992,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162522,
+      "num": 162522,
+      "word": "准备的茶歇客户一口没吃",
+      "onboard_time": 1703682453,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 162424,
@@ -62403,14 +62467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145487,
-      "num": 229441,
-      "word": "纯电轿车之王",
-      "onboard_time": 1703680595,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 145464,
       "num": 145464,
       "word": "人体约70%免疫力来自肠道",
@@ -65345,6 +65401,14 @@
       "onboard_time": 1701646769,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131948,
+      "num": 131948,
+      "word": "张杰新歌忍受回音挑战",
+      "onboard_time": 1703683177,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 131904,
