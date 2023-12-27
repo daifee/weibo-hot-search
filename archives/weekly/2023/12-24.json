@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703673319000,
+  "endTime": 1703675695959,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -153,6 +153,14 @@
       "onboard_time": 1703409815,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2682169,
+      "num": 2682169,
+      "word": "周海媚为突发心脏病猝死",
+      "onboard_time": 1703674418,
+      "rank": 0,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 2583518,
@@ -675,6 +683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1176436,
+      "num": 1176436,
+      "word": "唐嫣繁花 妆造颠覆",
+      "onboard_time": 1703671537,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1174871,
       "num": 456524,
       "word": "结婚的婚 左边是女右边是昏",
@@ -881,14 +897,6 @@
       "onboard_time": 1703394336,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1002363,
-      "num": 1002363,
-      "word": "唐嫣繁花 妆造颠覆",
-      "onboard_time": 1703671537,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 994447,
@@ -1388,7 +1396,7 @@
     },
     {
       "raw_hot": 732673,
-      "num": 1034821,
+      "num": 1546105,
       "word": "两名临时工离职老板强行送厚衣服告别",
       "onboard_time": 1703668537,
       "rank": 45,
@@ -2083,6 +2091,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 546236,
+      "num": 546236,
+      "word": "黄雅莉晒与王源合照",
+      "onboard_time": 1703672857,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545562,
       "num": 545562,
       "word": "被斗鱼索赔8000万女生三年赚不足20万",
@@ -2441,6 +2457,14 @@
       "onboard_time": 1703549011,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 487864,
+      "num": 487864,
+      "word": "官方通报因大气污染叫停面条加工",
+      "onboard_time": 1703673340,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486255,
@@ -3115,6 +3139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 393392,
+      "num": 393392,
+      "word": "把喜欢的人删了再加回来会发生什么",
+      "onboard_time": 1703670820,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 392387,
       "num": 392387,
       "word": "陈学冬终于有剧要播了",
@@ -3140,7 +3172,7 @@
     },
     {
       "raw_hot": 390053,
-      "num": 390053,
+      "num": 399197,
       "word": "南京38年前入室抢劫杀人案告破",
       "onboard_time": 1703668656,
       "rank": 19,
@@ -3265,6 +3297,14 @@
       "onboard_time": 1703663915,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 376755,
+      "num": 995296,
+      "word": "女孩头发长虱子老师趁晴天帮其洗头",
+      "onboard_time": 1703668656,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376498,
@@ -3411,20 +3451,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351987,
-      "num": 351987,
-      "word": "把喜欢的人删了再加回来会发生什么",
-      "onboard_time": 1703670820,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 351746,
       "num": 351746,
       "word": "杨迪 我都想告节目组",
       "onboard_time": 1703482656,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349374,
+      "num": 349374,
+      "word": "刘诗诗为胡歌唐嫣新剧打call",
+      "onboard_time": 1703675197,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 347574,
@@ -3529,6 +3569,14 @@
       "onboard_time": 1703486672,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 333615,
+      "num": 333615,
+      "word": "东方甄选拟15亿出售教育业务",
+      "onboard_time": 1703673874,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 331702,
@@ -3707,14 +3755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 317443,
-      "num": 995296,
-      "word": "女孩头发长虱子老师趁晴天帮其洗头",
-      "onboard_time": 1703668656,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316834,
       "num": 281304,
       "word": "9点后吃早饭患上糖尿病的概率更高",
@@ -3811,6 +3851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307430,
+      "num": 307430,
+      "word": "你的朋友圈和微博是俩人在运营吗",
+      "onboard_time": 1703673874,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 306491,
       "num": 306491,
       "word": "游戏版号",
@@ -3865,6 +3913,14 @@
       "onboard_time": 1703514035,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 303906,
+      "num": 203060,
+      "word": "李善均曾因毒品案件受到要挟恐吓",
+      "onboard_time": 1703675496,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 300930,
@@ -4163,14 +4219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279068,
-      "num": 279068,
-      "word": "黄雅莉晒与王源合照",
-      "onboard_time": 1703672857,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277693,
       "num": 277693,
       "word": "TES",
@@ -4249,6 +4297,14 @@
       "onboard_time": 1703516136,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 269830,
+      "num": 269830,
+      "word": "无畏契约CN联赛晋升赛",
+      "onboard_time": 1703675197,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 269715,
@@ -6051,6 +6107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196606,
+      "num": 196606,
+      "word": "薛之谦返场海口",
+      "onboard_time": 1703674478,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196409,
       "num": 196409,
       "word": "张杰未你好吗跨年演唱会",
@@ -6361,6 +6425,14 @@
       "onboard_time": 1703587473,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191339,
+      "num": 191339,
+      "word": "周海媚家属声明",
+      "onboard_time": 1703675316,
+      "rank": 35,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 191048,
@@ -6675,6 +6747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181749,
+      "num": 181749,
+      "word": "京东回应支持仅退款",
+      "onboard_time": 1703673815,
+      "rank": 37,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 181704,
       "num": 181704,
       "word": "KSG世冠淘汰",
@@ -6881,6 +6961,14 @@
       "onboard_time": 1703559277,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176176,
+      "num": 176176,
+      "word": "菠菜 马面裙",
+      "onboard_time": 1703675076,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 175962,
@@ -7395,6 +7483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162960,
+      "num": 814621,
+      "word": "长沙广场舞大妈成跨年氛围组",
+      "onboard_time": 1703674056,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162649,
       "num": 162649,
       "word": "腿姐 为不平凡的你自豪",
@@ -7633,6 +7729,14 @@
       "onboard_time": 1703491475,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158135,
+      "num": 158135,
+      "word": "古偶男主101",
+      "onboard_time": 1703675374,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 158074,
