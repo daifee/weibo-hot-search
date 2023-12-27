@@ -1,0 +1,410 @@
+{
+  "runTime": 1703655230967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3840424,
+        "num": 3840424,
+        "word": "淘宝将支持仅退款",
+        "onboard_time": 1703651860,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1293507,
+        "num": 1293507,
+        "word": "欠4600万在杭卖烤肠还债的大叔回家了",
+        "onboard_time": 1703648676,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48595,
+        "num": 804992,
+        "word": "盘点2023我国重大科技成就",
+        "onboard_time": 1703635893,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1513480,
+        "num": 799631,
+        "word": "李善均疑似被夜店公关等勒索3.5亿韩元",
+        "onboard_time": 1703651860,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 744186,
+        "num": 744186,
+        "word": "寄生虫",
+        "onboard_time": 1703649578,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 490294,
+        "num": 490294,
+        "word": "全面禁燃烟花爆竹不合法",
+        "onboard_time": 1703653959,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461497,
+        "num": 461497,
+        "word": "小米汽车向华为比亚迪致敬",
+        "onboard_time": 1703652635,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 443559,
+        "num": 443559,
+        "word": "何以琛才是最会阴阳怪气的",
+        "onboard_time": 1703644174,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428257,
+        "num": 428257,
+        "word": "花儿与少年",
+        "onboard_time": 1703651860,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415191,
+        "num": 415191,
+        "word": "我不是土豆 我一米七",
+        "onboard_time": 1703635171,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1797720,
+        "num": 409080,
+        "word": "李善均去世",
+        "onboard_time": 1703643755,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 725254,
+        "num": 399452,
+        "word": "非得上那个死班啊",
+        "onboard_time": 1703637634,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 678115,
+        "num": 392686,
+        "word": "王安宇 克罗地亚旅拍",
+        "onboard_time": 1703651679,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630011,
+        "num": 385648,
+        "word": "山区小学女生来例假后写了遗书",
+        "onboard_time": 1703651138,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81129,
+        "num": 374423,
+        "word": "阿胶奶茶还怪好喝嘞",
+        "onboard_time": 1703653238,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86285,
+        "num": 358206,
+        "word": "国产手机进入卫星时代",
+        "onboard_time": 1703651860,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 357725,
+        "num": 357725,
+        "word": "房东举报诡异绿光获重大奖励",
+        "onboard_time": 1703637275,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322406,
+        "num": 322406,
+        "word": "张艺谋 浩存就是适合吃这碗饭",
+        "onboard_time": 1703640871,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305404,
+        "num": 305404,
+        "word": "邓为前助理被开除原因",
+        "onboard_time": 1703638355,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224319,
+        "num": 224319,
+        "word": "东方卫视跨年宣了好多演员",
+        "onboard_time": 1703654376,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125523,
+        "num": 223886,
+        "word": "雷军谈人车家全生态",
+        "onboard_time": 1703653417,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 470071,
+        "num": 223868,
+        "word": "原来痘痘冒尖只在一瞬间",
+        "onboard_time": 1703650838,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 409421,
+        "num": 223861,
+        "word": "2岁女童和妈妈洗澡后感染妇科病",
+        "onboard_time": 1703654077,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223841,
+        "num": 223841,
+        "word": "迪丽热巴胡先煦 双人相声",
+        "onboard_time": 1703649635,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216898,
+        "num": 216898,
+        "word": "29岁女儿常吃外卖爸爸送自制预制菜",
+        "onboard_time": 1703631981,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362049,
+        "num": 215972,
+        "word": "安陵容小产甄嬛为什么要捂住鼻子",
+        "onboard_time": 1703643693,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226858,
+        "num": 215771,
+        "word": "原来胡萝卜不是萝卜",
+        "onboard_time": 1703654198,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214756,
+        "num": 214756,
+        "word": "穷鬼套餐不涨价",
+        "onboard_time": 1703641352,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208287,
+        "num": 208287,
+        "word": "王一博私下酷爱电影",
+        "onboard_time": 1703654615,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190712,
+        "num": 190712,
+        "word": "彭小苒 画眉是我的圆梦时刻",
+        "onboard_time": 1703653361,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188561,
+        "num": 188561,
+        "word": "北京一男子骑电动车闯红灯被撞身亡",
+        "onboard_time": 1703646880,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182341,
+        "num": 182341,
+        "word": "萨摩耶真的不适合吵架",
+        "onboard_time": 1703643030,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180717,
+        "num": 180717,
+        "word": "茨木童子典藏皮肤首日免费",
+        "onboard_time": 1703654793,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177478,
+        "num": 177478,
+        "word": "奶茶 大冰少杯",
+        "onboard_time": 1703644413,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176336,
+        "num": 176336,
+        "word": "杨幂最出圈血脉觉醒推荐官",
+        "onboard_time": 1703650959,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174846,
+        "num": 174846,
+        "word": "王者年度版本云梦有灵",
+        "onboard_time": 1703654315,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168020,
+        "num": 168020,
+        "word": "金城武 讨厌在拍戏时看到动物",
+        "onboard_time": 1703649277,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167292,
+        "num": 167292,
+        "word": "郭刚堂称对死缓判决不满意",
+        "onboard_time": 1703651199,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163578,
+        "num": 163578,
+        "word": "跨年晚会 神仙打架",
+        "onboard_time": 1703636674,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162207,
+        "num": 162207,
+        "word": "妈妈去世3年手机收到爱的童言",
+        "onboard_time": 1703647357,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160843,
+        "num": 160843,
+        "word": "你要公开努力 以便笑死所有人",
+        "onboard_time": 1703654915,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150877,
+        "num": 150877,
+        "word": "春花厌阵容官宣",
+        "onboard_time": 1703644953,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133668,
+        "num": 133668,
+        "word": "木头是从空气中长出来的",
+        "onboard_time": 1703654496,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 130559,
+        "num": 130559,
+        "word": "拆字在国外意外走红",
+        "onboard_time": 1703648256,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130500,
+        "num": 130500,
+        "word": "朱丹不喜欢惊喜的原因",
+        "onboard_time": 1703655095,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125402,
+        "num": 125402,
+        "word": "等了恋人10年还要继续等吗",
+        "onboard_time": 1703653180,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122497,
+        "num": 122497,
+        "word": "博主B太称打假不是为了流量",
+        "onboard_time": 1703647178,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120924,
+        "num": 120924,
+        "word": "胡歌唐嫣新剧排骨年糕吃五年",
+        "onboard_time": 1703655156,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119206,
+        "num": 119206,
+        "word": "于适笑着看负评",
+        "onboard_time": 1703652339,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117038,
+        "num": 117038,
+        "word": "李艾 被动容貌焦虑是不可以的",
+        "onboard_time": 1703653746,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念毛泽东同志诞辰130周年座谈会#"
+    }
+  }
+}

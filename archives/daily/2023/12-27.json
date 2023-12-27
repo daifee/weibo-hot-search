@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703654214754,
+  "endTime": 1703655230967,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3688393,
-      "num": 3688393,
+      "raw_hot": 3840424,
+      "num": 3840424,
       "word": "淘宝将支持仅退款",
       "onboard_time": 1703651860,
       "rank": 0,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 678115,
+      "num": 422856,
+      "word": "王安宇 克罗地亚旅拍",
+      "onboard_time": 1703651679,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670043,
       "num": 670043,
       "word": "北京一男子骑电动车闯红灯被撞身亡",
@@ -179,19 +187,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 664987,
-      "num": 422856,
-      "word": "王安宇 克罗地亚旅拍",
-      "onboard_time": 1703651679,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 630883,
       "num": 630883,
       "word": "卫健委否认医护集体跳楼",
       "onboard_time": 1703632764,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630011,
+      "num": 403973,
+      "word": "山区小学女生来例假后写了遗书",
+      "onboard_time": 1703651138,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -235,14 +243,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 527788,
-      "num": 403973,
-      "word": "山区小学女生来例假后写了遗书",
-      "onboard_time": 1703651138,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 501273,
       "num": 501273,
       "word": "周一围 我看见了她的失落",
@@ -265,6 +265,14 @@
       "onboard_time": 1703652635,
       "rank": 7,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 490294,
+      "num": 490294,
+      "word": "全面禁燃烟花爆竹不合法",
+      "onboard_time": 1703653959,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486255,
@@ -337,6 +345,14 @@
       "onboard_time": 1703633127,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 409421,
+      "num": 223861,
+      "word": "2岁女童和妈妈洗澡后感染妇科病",
+      "onboard_time": 1703654077,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407992,
@@ -563,6 +579,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226858,
+      "num": 215771,
+      "word": "原来胡萝卜不是萝卜",
+      "onboard_time": 1703654198,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 224319,
+      "num": 224319,
+      "word": "东方卫视跨年宣了好多演员",
+      "onboard_time": 1703654376,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221811,
       "num": 221811,
       "word": "炊事班官兵陪灾区小朋友嬉戏玩耍",
@@ -625,6 +657,14 @@
       "onboard_time": 1703647357,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208287,
+      "num": 208287,
+      "word": "王一博私下酷爱电影",
+      "onboard_time": 1703654615,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 207061,
@@ -771,6 +811,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180717,
+      "num": 180717,
+      "word": "茨木童子典藏皮肤首日免费",
+      "onboard_time": 1703654793,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 174846,
+      "num": 174846,
+      "word": "王者年度版本云梦有灵",
+      "onboard_time": 1703654315,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167188,
       "num": 167188,
       "word": "曼联让二追三",
@@ -843,6 +899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160843,
+      "num": 160843,
+      "word": "你要公开努力 以便笑死所有人",
+      "onboard_time": 1703654915,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159432,
       "num": 159432,
       "word": "体检疾病对照表",
@@ -891,14 +955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156899,
-      "num": 156899,
-      "word": "原来胡萝卜不是萝卜",
-      "onboard_time": 1703654198,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 155055,
       "num": 155055,
       "word": "新年壁纸",
@@ -937,14 +993,6 @@
       "onboard_time": 1703633304,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 150471,
-      "num": 150471,
-      "word": "全面禁燃烟花爆竹不合法",
-      "onboard_time": 1703653959,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146672,
@@ -1035,6 +1083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133668,
+      "num": 133668,
+      "word": "木头是从空气中长出来的",
+      "onboard_time": 1703654496,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 133229,
       "num": 133229,
       "word": "国之重器拍照能看清10公里外乒乓球",
@@ -1043,12 +1099,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 131068,
-      "num": 131068,
-      "word": "2岁女童和妈妈洗澡后感染妇科病",
-      "onboard_time": 1703654077,
+      "raw_hot": 130500,
+      "num": 130500,
+      "word": "朱丹不喜欢惊喜的原因",
+      "onboard_time": 1703655095,
       "rank": 44,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 129801,
@@ -1075,6 +1131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125523,
+      "num": 223886,
+      "word": "雷军谈人车家全生态",
+      "onboard_time": 1703653417,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 124965,
       "num": 124965,
       "word": "张含韵 少女会老但少女心不会",
@@ -1089,6 +1153,14 @@
       "onboard_time": 1703651800,
       "rank": 46,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 120924,
+      "num": 120924,
+      "word": "胡歌唐嫣新剧排骨年糕吃五年",
+      "onboard_time": 1703655156,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 120877,
@@ -1299,15 +1371,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84828,
-      "num": 92598,
-      "word": "2023最出圈中国运动员",
-      "onboard_time": 1703602718,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 83880,
+      "raw_hot": 86285,
       "num": 388286,
       "word": "国产手机进入卫星时代",
       "onboard_time": 1703651860,
@@ -1315,12 +1379,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 82821,
-      "num": 200911,
-      "word": "雷军谈人车家全生态",
-      "onboard_time": 1703653417,
-      "rank": 28,
-      "category": "互联网"
+      "raw_hot": 84828,
+      "num": 92598,
+      "word": "2023最出圈中国运动员",
+      "onboard_time": 1703602718,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 81621,
@@ -1337,6 +1401,14 @@
       "onboard_time": 1703633127,
       "rank": 36,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 81129,
+      "num": 397398,
+      "word": "阿胶奶茶还怪好喝嘞",
+      "onboard_time": 1703653238,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 79556,
@@ -1377,14 +1449,6 @@
       "onboard_time": 1703633063,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55378,
-      "num": 397398,
-      "word": "阿胶奶茶还怪好喝嘞",
-      "onboard_time": 1703653238,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 53175,
