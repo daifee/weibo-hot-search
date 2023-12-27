@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703675695959,
+  "endTime": 1703676851440,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2682169,
-      "num": 2682169,
+      "raw_hot": 2739096,
+      "num": 2739096,
       "word": "周海媚为突发心脏病猝死",
       "onboard_time": 1703674418,
       "rank": 0,
@@ -347,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 670642,
+      "num": 496251,
+      "word": "刘诗诗为胡歌唐嫣新剧打call",
+      "onboard_time": 1703675197,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 670043,
       "num": 670043,
       "word": "北京一男子骑电动车闯红灯被撞身亡",
@@ -483,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 498693,
+      "num": 498693,
+      "word": "繁花开播",
+      "onboard_time": 1703676515,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 498636,
       "num": 498636,
       "word": "王安宇 迪丽热巴副驾",
@@ -507,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492009,
+      "num": 492009,
+      "word": "官方通报因大气污染叫停面条加工",
+      "onboard_time": 1703673340,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491441,
       "num": 491441,
       "word": "小米汽车向华为比亚迪致敬",
@@ -521,14 +545,6 @@
       "onboard_time": 1703665294,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 487864,
-      "num": 487864,
-      "word": "官方通报因大气污染叫停面条加工",
-      "onboard_time": 1703673340,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486255,
@@ -707,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389093,
+      "num": 995296,
+      "word": "女孩头发长虱子老师趁晴天帮其洗头",
+      "onboard_time": 1703668656,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382677,
       "num": 382677,
       "word": "学校花1500万买下大飞机供学生练手",
@@ -729,14 +753,6 @@
       "onboard_time": 1703663915,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 376755,
-      "num": 995296,
-      "word": "女孩头发长虱子老师趁晴天帮其洗头",
-      "onboard_time": 1703668656,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370357,
@@ -769,14 +785,6 @@
       "onboard_time": 1703601217,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 349374,
-      "num": 349374,
-      "word": "刘诗诗为胡歌唐嫣新剧打call",
-      "onboard_time": 1703675197,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 333617,
@@ -843,8 +851,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305445,
+      "num": 305445,
+      "word": "Hero镜子碎了",
+      "onboard_time": 1703676275,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 303906,
-      "num": 203060,
+      "num": 293838,
       "word": "李善均曾因毒品案件受到要挟恐吓",
       "onboard_time": 1703675496,
       "rank": 30,
@@ -857,6 +873,14 @@
       "onboard_time": 1703650780,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290643,
+      "num": 379537,
+      "word": "柯洁 今后不会再发动态",
+      "onboard_time": 1703675914,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 288807,
@@ -1001,6 +1025,14 @@
       "onboard_time": 1703651319,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 250555,
+      "num": 250555,
+      "word": "菠菜 马面裙",
+      "onboard_time": 1703675076,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 250514,
@@ -1163,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219417,
+      "num": 219417,
+      "word": "古偶男主101",
+      "onboard_time": 1703675374,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215285,
       "num": 215285,
       "word": "今年逛商场只敢去负一",
@@ -1227,6 +1267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 209073,
+      "num": 209073,
+      "word": "周海媚家属声明",
+      "onboard_time": 1703675316,
+      "rank": 35,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 208746,
       "num": 208746,
       "word": "我的大叔",
@@ -1265,6 +1313,22 @@
       "onboard_time": 1703634268,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 205379,
+      "num": 205379,
+      "word": "周海媚遗产由母亲继承",
+      "onboard_time": 1703675856,
+      "rank": 35,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 205243,
+      "num": 205243,
+      "word": "人生若如初见 播不播",
+      "onboard_time": 1703676634,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 204633,
@@ -1345,6 +1409,22 @@
       "onboard_time": 1703610200,
       "rank": 7,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 197879,
+      "num": 197879,
+      "word": "RNG对战RST",
+      "onboard_time": 1703676035,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 197028,
+      "num": 197028,
+      "word": "AG 拿下",
+      "onboard_time": 1703676515,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 196785,
@@ -1467,14 +1547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 191339,
-      "num": 191339,
-      "word": "周海媚家属声明",
-      "onboard_time": 1703675316,
-      "rank": 35,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 191048,
       "num": 191048,
       "word": "亲情是柔软的也是坚韧的",
@@ -1529,14 +1601,6 @@
       "onboard_time": 1703654793,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 176176,
-      "num": 176176,
-      "word": "菠菜 马面裙",
-      "onboard_time": 1703675076,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 174846,
@@ -1627,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162884,
+      "num": 162884,
+      "word": "淘宝新规女装预售不得超15天",
+      "onboard_time": 1703676515,
+      "rank": 45,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 162536,
       "num": 162536,
       "word": "女警把走失男童小脚放进怀里取暖",
@@ -1689,14 +1761,6 @@
       "onboard_time": 1703649937,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158135,
-      "num": 158135,
-      "word": "古偶男主101",
-      "onboard_time": 1703675374,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 157768,

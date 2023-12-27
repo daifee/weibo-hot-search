@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703675695959,
+  "endTime": 1703676851440,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -1219,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2739096,
+      "num": 2739096,
+      "word": "周海媚为突发心脏病猝死",
+      "onboard_time": 1703674418,
+      "rank": 0,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 2729302,
       "num": 2729302,
       "word": "麦当劳明起涨价",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1702865974,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2682169,
-      "num": 2682169,
-      "word": "周海媚为突发心脏病猝死",
-      "onboard_time": 1703674418,
-      "rank": 0,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 2672537,
@@ -12515,6 +12515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 670642,
+      "num": 496251,
+      "word": "刘诗诗为胡歌唐嫣新剧打call",
+      "onboard_time": 1703675197,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 670366,
       "num": 663923,
       "word": "西方臻选称被东方甄选举报",
@@ -18059,6 +18067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 498693,
+      "num": 498693,
+      "word": "繁花开播",
+      "onboard_time": 1703676515,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 498636,
       "num": 498636,
       "word": "王安宇 迪丽热巴副驾",
@@ -18371,6 +18387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492009,
+      "num": 492009,
+      "word": "官方通报因大气污染叫停面条加工",
+      "onboard_time": 1703673340,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491886,
       "num": 491886,
       "word": "YSKM",
@@ -18520,14 +18544,6 @@
       "word": "福州烟台山",
       "onboard_time": 1701957640,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 487864,
-      "num": 487864,
-      "word": "官方通报因大气污染叫停面条加工",
-      "onboard_time": 1703673340,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -24019,6 +24035,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 389093,
+      "num": 995296,
+      "word": "女孩头发长虱子老师趁晴天帮其洗头",
+      "onboard_time": 1703668656,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389043,
       "num": 389043,
       "word": "在新疆被炒米粉暴打了一顿",
@@ -24960,14 +24984,6 @@
       "word": "解清帅一夜涨粉近百万",
       "onboard_time": 1701752985,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376755,
-      "num": 995296,
-      "word": "女孩头发长虱子老师趁晴天帮其洗头",
-      "onboard_time": 1703668656,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -26929,14 +26945,6 @@
       "onboard_time": 1703340158,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 349374,
-      "num": 349374,
-      "word": "刘诗诗为胡歌唐嫣新剧打call",
-      "onboard_time": 1703675197,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 349229,
@@ -30899,6 +30907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 305445,
+      "num": 305445,
+      "word": "Hero镜子碎了",
+      "onboard_time": 1703676275,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 305324,
       "num": 305324,
       "word": "故宫雪景",
@@ -31084,7 +31100,7 @@
     },
     {
       "raw_hot": 303906,
-      "num": 203060,
+      "num": 293838,
       "word": "李善均曾因毒品案件受到要挟恐吓",
       "onboard_time": 1703675496,
       "rank": 30,
@@ -32705,6 +32721,14 @@
       "onboard_time": 1702681700,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290643,
+      "num": 379537,
+      "word": "柯洁 今后不会再发动态",
+      "onboard_time": 1703675914,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 290619,
@@ -37857,6 +37881,14 @@
       "onboard_time": 1702713452,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250555,
+      "num": 250555,
+      "word": "菠菜 马面裙",
+      "onboard_time": 1703675076,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 250514,
@@ -43187,6 +43219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219417,
+      "num": 219417,
+      "word": "古偶男主101",
+      "onboard_time": 1703675374,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219384,
       "num": 219384,
       "word": "确诊为孙悟空",
@@ -45371,6 +45411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209073,
+      "num": 209073,
+      "word": "周海媚家属声明",
+      "onboard_time": 1703675316,
+      "rank": 35,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 209036,
       "num": 240247,
       "word": "有放射性的石头",
@@ -46451,6 +46499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205379,
+      "num": 205379,
+      "word": "周海媚遗产由母亲继承",
+      "onboard_time": 1703675856,
+      "rank": 35,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 205354,
       "num": 205354,
       "word": "闪耀暖暖",
@@ -46513,6 +46569,14 @@
       "onboard_time": 1701401195,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 205243,
+      "num": 205243,
+      "word": "人生若如初见 播不播",
+      "onboard_time": 1703676634,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 205203,
@@ -48627,6 +48691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197879,
+      "num": 197879,
+      "word": "RNG对战RST",
+      "onboard_time": 1703676035,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197860,
       "num": 197860,
       "word": "演员争番位伤害的是作品本身",
@@ -48865,6 +48937,14 @@
       "onboard_time": 1703229512,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197028,
+      "num": 197028,
+      "word": "AG 拿下",
+      "onboard_time": 1703676515,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 197025,
@@ -50817,14 +50897,6 @@
       "onboard_time": 1703587473,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 191339,
-      "num": 191339,
-      "word": "周海媚家属声明",
-      "onboard_time": 1703675316,
-      "rank": 35,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 191277,
@@ -54643,14 +54715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176176,
-      "num": 176176,
-      "word": "菠菜 马面裙",
-      "onboard_time": 1703675076,
-      "rank": 38,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 176152,
       "num": 176152,
       "word": "狗好 猫也好",
@@ -57979,6 +58043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162884,
+      "num": 162884,
+      "word": "淘宝新规女装预售不得超15天",
+      "onboard_time": 1703676515,
+      "rank": 45,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 162874,
       "num": 162874,
       "word": "好心态是你最好的风水",
@@ -59169,14 +59241,6 @@
       "onboard_time": 1702069694,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158135,
-      "num": 158135,
-      "word": "古偶男主101",
-      "onboard_time": 1703675374,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 158127,
