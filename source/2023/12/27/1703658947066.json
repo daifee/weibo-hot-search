@@ -1,0 +1,410 @@
+{
+  "runTime": 1703658947066,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2802018,
+        "num": 2802018,
+        "word": "淘宝将支持仅退款",
+        "onboard_time": 1703651860,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 742797,
+        "num": 742797,
+        "word": "赵昭仪被吓哭",
+        "onboard_time": 1703655574,
+        "rank": 1,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 31258,
+        "num": 693819,
+        "word": "盘点2023我国重大科技成就",
+        "onboard_time": 1703635893,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1014611,
+        "num": 681655,
+        "word": "杨紫进组",
+        "onboard_time": 1703655814,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 654162,
+        "num": 654162,
+        "word": "全面禁燃烟花爆竹不合法",
+        "onboard_time": 1703653959,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974959,
+        "num": 642168,
+        "word": "你要公开努力 以便笑死所有人",
+        "onboard_time": 1703654915,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 625768,
+        "num": 625768,
+        "word": "寄生虫",
+        "onboard_time": 1703649578,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 446073,
+        "num": 446073,
+        "word": "何猷君和奚梦瑶为睡姿吵架",
+        "onboard_time": 1703655274,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437398,
+        "num": 437398,
+        "word": "王安宇 克罗地亚旅拍",
+        "onboard_time": 1703651679,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429397,
+        "num": 429397,
+        "word": "欠4600万在杭卖烤肠还债的大叔回家了",
+        "onboard_time": 1703648676,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1195429,
+        "num": 409910,
+        "word": "李善均疑似被夜店公关等勒索3.5亿韩元",
+        "onboard_time": 1703651860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637060,
+        "num": 403839,
+        "word": "山区小学女生来例假后写了遗书",
+        "onboard_time": 1703651138,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381353,
+        "num": 381353,
+        "word": "迪丽热巴开车演我考驾照",
+        "onboard_time": 1703656714,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287451,
+        "num": 287451,
+        "word": "非得上那个死班啊",
+        "onboard_time": 1703637634,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280270,
+        "num": 280270,
+        "word": "小米汽车向华为比亚迪致敬",
+        "onboard_time": 1703652635,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 892017,
+        "num": 278994,
+        "word": "李善均去世",
+        "onboard_time": 1703643755,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307504,
+        "num": 278723,
+        "word": "果郡王和甄嬛原剧本有吻戏",
+        "onboard_time": 1703657432,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270496,
+        "num": 270496,
+        "word": "胡歌唐嫣新剧排骨年糕吃五年",
+        "onboard_time": 1703655156,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226963,
+        "num": 270316,
+        "word": "房东举报诡异绿光获重大奖励",
+        "onboard_time": 1703637275,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183200,
+        "num": 270057,
+        "word": "妈妈去世3年手机收到爱的童言",
+        "onboard_time": 1703647357,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123043,
+        "num": 269711,
+        "word": "阮梅声里寻江南",
+        "onboard_time": 1703656954,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 414090,
+        "num": 269575,
+        "word": "2岁女童和妈妈洗澡后感染妇科病",
+        "onboard_time": 1703654077,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316853,
+        "num": 269100,
+        "word": "原来痘痘冒尖只在一瞬间",
+        "onboard_time": 1703650838,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 269076,
+        "num": 269076,
+        "word": "何以琛才是最会阴阳怪气的",
+        "onboard_time": 1703644174,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266866,
+        "num": 266866,
+        "word": "花少5冰岛一日导游制",
+        "onboard_time": 1703655514,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247232,
+        "num": 247232,
+        "word": "安陵容小产甄嬛为什么要捂住鼻子",
+        "onboard_time": 1703643693,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230112,
+        "num": 230112,
+        "word": "秦岚迪丽热巴拍照一秒变脸",
+        "onboard_time": 1703657915,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206470,
+        "num": 206470,
+        "word": "原来胡萝卜不是萝卜",
+        "onboard_time": 1703654198,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193398,
+        "num": 193398,
+        "word": "今年逛商场只敢去负一",
+        "onboard_time": 1703656115,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183781,
+        "num": 183781,
+        "word": "RNG战胜OMG",
+        "onboard_time": 1703658693,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237010,
+        "num": 183423,
+        "word": "贾玲 不能抢刘德华",
+        "onboard_time": 1703658032,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182377,
+        "num": 182377,
+        "word": "我不是土豆 我一米七",
+        "onboard_time": 1703635171,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179392,
+        "num": 179392,
+        "word": "Alex2024星座年运",
+        "onboard_time": 1703657557,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167231,
+        "num": 167231,
+        "word": "张艺谋 浩存就是适合吃这碗饭",
+        "onboard_time": 1703640871,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155915,
+        "num": 155915,
+        "word": "29岁女儿常吃外卖爸爸送自制预制菜",
+        "onboard_time": 1703631981,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155827,
+        "num": 155827,
+        "word": "北京一男子骑电动车闯红灯被撞身亡",
+        "onboard_time": 1703646880,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153766,
+        "num": 153766,
+        "word": "邓为前助理被开除原因",
+        "onboard_time": 1703638355,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140800,
+        "num": 140800,
+        "word": "朱丹不喜欢惊喜的原因",
+        "onboard_time": 1703655095,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138739,
+        "num": 138739,
+        "word": "东方卫视跨年宣了好多演员",
+        "onboard_time": 1703654376,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130004,
+        "num": 130004,
+        "word": "穷鬼套餐不涨价",
+        "onboard_time": 1703641352,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125297,
+        "num": 125297,
+        "word": "赵今麦粉紫细闪眼妆",
+        "onboard_time": 1703658453,
+        "rank": 40,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 121860,
+        "num": 121860,
+        "word": "萨摩耶真的不适合吵架",
+        "onboard_time": 1703643030,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117676,
+        "num": 117676,
+        "word": "奶茶 大冰少杯",
+        "onboard_time": 1703644413,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113331,
+        "num": 113331,
+        "word": "王一博私下酷爱电影",
+        "onboard_time": 1703654615,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111059,
+        "num": 111059,
+        "word": "林北星 无人知晓的爱",
+        "onboard_time": 1703657196,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110184,
+        "num": 110184,
+        "word": "2024考证时间表",
+        "onboard_time": 1703656654,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108834,
+        "num": 108834,
+        "word": "莫兰特31分",
+        "onboard_time": 1703657494,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102752,
+        "num": 102752,
+        "word": "杨幂最出圈血脉觉醒推荐官",
+        "onboard_time": 1703650959,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102375,
+        "num": 102375,
+        "word": "东北人玩南方小土豆",
+        "onboard_time": 1703656832,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100040,
+        "num": 100040,
+        "word": "当地回应菜场因大气污染停止面条加工",
+        "onboard_time": 1703658873,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念毛泽东同志诞辰130周年座谈会#"
+    }
+  }
+}
