@@ -1,0 +1,410 @@
+{
+  "runTime": 1703651691295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1718069,
+        "num": 1718069,
+        "word": "欠4600万在杭卖烤肠还债的大叔回家了",
+        "onboard_time": 1703648676,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289101,
+        "num": 1289101,
+        "word": "寄生虫",
+        "onboard_time": 1703649578,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87275,
+        "num": 1044774,
+        "word": "盘点2023我国重大科技成就",
+        "onboard_time": 1703635893,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 821519,
+        "num": 821519,
+        "word": "房东举报诡异绿光获重大奖励",
+        "onboard_time": 1703637275,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631180,
+        "num": 631180,
+        "word": "我不是土豆 我一米七",
+        "onboard_time": 1703635171,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 612832,
+        "num": 612832,
+        "word": "何以琛才是最会阴阳怪气的",
+        "onboard_time": 1703644174,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489247,
+        "num": 489247,
+        "word": "邓为前助理被开除原因",
+        "onboard_time": 1703638355,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426024,
+        "num": 426024,
+        "word": "奶茶 大冰少杯",
+        "onboard_time": 1703644413,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370357,
+        "num": 370357,
+        "word": "迪丽热巴胡先煦 双人相声",
+        "onboard_time": 1703649635,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4333928,
+        "num": 344113,
+        "word": "李善均去世",
+        "onboard_time": 1703643755,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1017612,
+        "num": 331907,
+        "word": "非得上那个死班啊",
+        "onboard_time": 1703637634,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427841,
+        "num": 323142,
+        "word": "张艺谋 浩存就是适合吃这碗饭",
+        "onboard_time": 1703640871,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301832,
+        "num": 301832,
+        "word": "萨摩耶真的不适合吵架",
+        "onboard_time": 1703643030,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290529,
+        "num": 290529,
+        "word": "29岁女儿常吃外卖爸爸送自制预制菜",
+        "onboard_time": 1703631981,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285559,
+        "num": 285559,
+        "word": "春花厌阵容官宣",
+        "onboard_time": 1703644953,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267519,
+        "num": 267519,
+        "word": "博主B太称打假不是为了流量",
+        "onboard_time": 1703647178,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253735,
+        "num": 253735,
+        "word": "跨年晚会 神仙打架",
+        "onboard_time": 1703636674,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251529,
+        "num": 251529,
+        "word": "阴阳师",
+        "onboard_time": 1703651319,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221518,
+        "num": 221518,
+        "word": "郭刚堂儿子被拐案",
+        "onboard_time": 1703646939,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214287,
+        "num": 214287,
+        "word": "妈妈去世3年手机收到爱的童言",
+        "onboard_time": 1703647357,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590696,
+        "num": 212782,
+        "word": "北京一男子骑电动车闯红灯被撞身亡",
+        "onboard_time": 1703646880,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509798,
+        "num": 211712,
+        "word": "穷鬼套餐不涨价",
+        "onboard_time": 1703641352,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 497258,
+        "num": 210927,
+        "word": "安陵容小产甄嬛为什么要捂住鼻子",
+        "onboard_time": 1703643693,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301603,
+        "num": 209146,
+        "word": "光与夜之恋",
+        "onboard_time": 1703650780,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250479,
+        "num": 207814,
+        "word": "拆字在国外意外走红",
+        "onboard_time": 1703648256,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233647,
+        "num": 205747,
+        "word": "金城武 讨厌在拍戏时看到动物",
+        "onboard_time": 1703649277,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214709,
+        "num": 203452,
+        "word": "杨幂最出圈血脉觉醒推荐官",
+        "onboard_time": 1703650959,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203294,
+        "num": 203294,
+        "word": "最狠反派刘德华遭遇林家栋背刺",
+        "onboard_time": 1703651199,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199272,
+        "num": 199272,
+        "word": "郭刚堂称对死缓判决不满意",
+        "onboard_time": 1703651199,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197413,
+        "num": 197413,
+        "word": "山区小学女生来例假后写了遗书",
+        "onboard_time": 1703651138,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558694,
+        "num": 195234,
+        "word": "原来痘痘冒尖只在一瞬间",
+        "onboard_time": 1703650838,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 179224,
+        "num": 179224,
+        "word": "水果口感的姜",
+        "onboard_time": 1703647956,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178843,
+        "num": 178843,
+        "word": "家长被通知接走发烧孩子后大怒",
+        "onboard_time": 1703599418,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174411,
+        "num": 174411,
+        "word": "电影一闪一闪亮星星终极预告",
+        "onboard_time": 1703647835,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170640,
+        "num": 170640,
+        "word": "考研后的年轻人在做什么",
+        "onboard_time": 1703642912,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1875845,
+        "num": 170432,
+        "word": "李善均昨天请求警方测谎",
+        "onboard_time": 1703650838,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169345,
+        "num": 169345,
+        "word": "跟家里人说要考研但没考上时",
+        "onboard_time": 1703649635,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145519,
+        "num": 145519,
+        "word": "苏醒要给0713开中老年婚介所",
+        "onboard_time": 1703649456,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140742,
+        "num": 140742,
+        "word": "活塞27连败",
+        "onboard_time": 1703649937,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128815,
+        "num": 128815,
+        "word": "明星助理工资5000块",
+        "onboard_time": 1703588673,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128360,
+        "num": 128360,
+        "word": "胡歌对接否认资助女孩成了中科院博士",
+        "onboard_time": 1703633966,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127874,
+        "num": 127874,
+        "word": "何小鹏回应雷军致敬",
+        "onboard_time": 1703648496,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127646,
+        "num": 127646,
+        "word": "非诚勿扰3是一场告别",
+        "onboard_time": 1703649516,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116962,
+        "num": 116962,
+        "word": "2023年度五十大喜感新闻",
+        "onboard_time": 1703651679,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116085,
+        "num": 116085,
+        "word": "王安宇 克罗地亚旅拍",
+        "onboard_time": 1703651679,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114295,
+        "num": 114295,
+        "word": "于正五福临门演员阵容",
+        "onboard_time": 1703644174,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113673,
+        "num": 113673,
+        "word": "葡萄干 图书馆官方零食",
+        "onboard_time": 1703634268,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113042,
+        "num": 113042,
+        "word": "我的大叔",
+        "onboard_time": 1703647357,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112667,
+        "num": 112667,
+        "word": "孙怡张晚意是在演他追她逃吗",
+        "onboard_time": 1703638176,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111576,
+        "num": 111576,
+        "word": "帕梅拉 麻辣烫yyds",
+        "onboard_time": 1703633127,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念毛泽东同志诞辰130周年座谈会#"
+    }
+  }
+}

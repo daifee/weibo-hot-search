@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703650846901,
+  "endTime": 1703651691295,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -27,12 +27,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1711427,
+      "raw_hot": 1875845,
       "num": 474750,
       "word": "李善均昨天请求警方测谎",
       "onboard_time": 1703650838,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1718069,
+      "num": 1718069,
+      "word": "欠4600万在杭卖烤肠还债的大叔回家了",
+      "onboard_time": 1703648676,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1657936,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1289101,
+      "num": 1289101,
+      "word": "寄生虫",
+      "onboard_time": 1703649578,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1151180,
       "num": 488590,
       "word": "家长被通知接走发烧孩子后大怒",
@@ -89,22 +105,6 @@
       "onboard_time": 1703641352,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1017586,
-      "num": 1017586,
-      "word": "欠4600万在杭卖烤肠还债的大叔回家了",
-      "onboard_time": 1703648676,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 976312,
-      "num": 976312,
-      "word": "寄生虫",
-      "onboard_time": 1703649578,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 958201,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612832,
+      "num": 612832,
+      "word": "何以琛才是最会阴阳怪气的",
+      "onboard_time": 1703644174,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 594182,
       "num": 594182,
       "word": "孙怡张晚意是在演他追她逃吗",
@@ -187,20 +195,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 567057,
-      "num": 567057,
-      "word": "何以琛才是最会阴阳怪气的",
-      "onboard_time": 1703644174,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 560261,
       "num": 293757,
       "word": "羽生结弦前妻首度发声",
       "onboard_time": 1703588433,
       "rank": 12,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 558694,
+      "num": 195234,
+      "word": "原来痘痘冒尖只在一瞬间",
+      "onboard_time": 1703650838,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 501273,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370357,
+      "num": 370357,
+      "word": "迪丽热巴胡先煦 双人相声",
+      "onboard_time": 1703649635,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367813,
       "num": 367813,
       "word": "胡先煦不让赵昭仪喝冰的",
@@ -371,12 +387,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 298715,
-      "num": 298715,
-      "word": "迪丽热巴胡先煦 双人相声",
-      "onboard_time": 1703649635,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 301603,
+      "num": 209146,
+      "word": "光与夜之恋",
+      "onboard_time": 1703650780,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 288807,
@@ -444,11 +460,19 @@
     },
     {
       "raw_hot": 257812,
-      "num": 203107,
+      "num": 205747,
       "word": "金城武 讨厌在拍戏时看到动物",
       "onboard_time": 1703649277,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251529,
+      "num": 251529,
+      "word": "阴阳师",
+      "onboard_time": 1703651319,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 250514,
@@ -475,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234271,
-      "num": 158242,
-      "word": "原来痘痘冒尖只在一瞬间",
-      "onboard_time": 1703650838,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 221811,
       "num": 221811,
       "word": "炊事班官兵陪灾区小朋友嬉戏玩耍",
@@ -497,6 +513,14 @@
       "onboard_time": 1703647357,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214709,
+      "num": 203452,
+      "word": "杨幂最出圈血脉觉醒推荐官",
+      "onboard_time": 1703650959,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 213771,
@@ -579,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203294,
+      "num": 203294,
+      "word": "最狠反派刘德华遭遇林家栋背刺",
+      "onboard_time": 1703651199,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203252,
       "num": 203252,
       "word": "谢娜在线关心张含韵感情问题",
@@ -601,6 +633,22 @@
       "onboard_time": 1703610200,
       "rank": 7,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 199272,
+      "num": 199272,
+      "word": "郭刚堂称对死缓判决不满意",
+      "onboard_time": 1703651199,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197413,
+      "num": 197413,
+      "word": "山区小学女生来例假后写了遗书",
+      "onboard_time": 1703651138,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196348,
@@ -660,7 +708,7 @@
     },
     {
       "raw_hot": 181826,
-      "num": 158214,
+      "num": 169345,
       "word": "跟家里人说要考研但没考上时",
       "onboard_time": 1703649635,
       "rank": 31,
@@ -915,14 +963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126444,
-      "num": 126444,
-      "word": "光与夜之恋",
-      "onboard_time": 1703650780,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 124965,
       "num": 124965,
       "word": "张含韵 少女会老但少女心不会",
@@ -993,6 +1033,22 @@
       "onboard_time": 1703641831,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116962,
+      "num": 116962,
+      "word": "2023年度五十大喜感新闻",
+      "onboard_time": 1703651679,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116085,
+      "num": 116085,
+      "word": "王安宇 克罗地亚旅拍",
+      "onboard_time": 1703651679,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 115578,
@@ -1107,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87275,
+      "num": 1044774,
+      "word": "盘点2023我国重大科技成就",
+      "onboard_time": 1703635893,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87238,
       "num": 76442,
       "word": "迪丽热巴八百个假动作偷帽子",
@@ -1121,14 +1185,6 @@
       "onboard_time": 1703602718,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81765,
-      "num": 979070,
-      "word": "盘点2023我国重大科技成就",
-      "onboard_time": 1703635893,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81621,

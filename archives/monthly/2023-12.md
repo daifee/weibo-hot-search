@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/27 12:20:46
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/27 12:34:51
 </p>
 </blockquote>
 <p>
@@ -2055,6 +2055,12 @@ WBG宣布TheShy离队（热度：1896260）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E6%98%A8%E5%A4%A9%E8%AF%B7%E6%B1%82%E8%AD%A6%E6%96%B9%E6%B5%8B%E8%B0%8E%23" target="weibo">
+李善均昨天请求警方测谎（热度：1875845）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8D%9A%E4%B8%BB%E7%A7%B0%E6%B2%A1%E6%9C%89%E6%94%B6%E9%92%B1%E8%AF%B4%E5%81%87%E8%AF%9D%23" target="weibo">
 举报五月天博主称没有收钱说假话（热度：1873806）
 </a>
@@ -2439,6 +2445,12 @@ B站 评论没了（热度：1768484）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A04600%E4%B8%87%E5%9C%A8%E6%9D%AD%E5%8D%96%E7%83%A4%E8%82%A0%E8%BF%98%E5%80%BA%E7%9A%84%E5%A4%A7%E5%8F%94%E5%9B%9E%E5%AE%B6%E4%BA%86%23" target="weibo">
+欠4600万在杭卖烤肠还债的大叔回家了（热度：1718069）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E7%96%91%E5%9B%A0%E5%9C%A8%E5%A4%96%E6%97%85%E6%B8%B8%E4%BD%8F%E5%AE%BF%E6%84%9F%E6%9F%93HPV%23" target="weibo">
 情侣疑因在外旅游住宿感染HPV（热度：1717073）
 </a>
@@ -2453,12 +2465,6 @@ B站 评论没了（热度：1768484）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%86%B7%E7%9A%8440%E4%BA%BF%23" target="weibo">
 冰冷的40亿（热度：1712671）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E6%98%A8%E5%A4%A9%E8%AF%B7%E6%B1%82%E8%AD%A6%E6%96%B9%E6%B5%8B%E8%B0%8E%23" target="weibo">
-李善均昨天请求警方测谎（热度：1711427）
 </a>
 </li>
 
@@ -3797,6 +3803,12 @@ Kitty官宣离职（热度：1320510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%AE%8C%E5%9B%9B%E5%85%AD%E7%BA%A7%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86%23" target="weibo">
 考完四六级 悬着的心终于死了（热度：1291499）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%84%E7%94%9F%E8%99%AB%23" target="weibo">
+寄生虫（热度：1289101）
 </a>
 </li>
 
@@ -5265,12 +5277,6 @@ GQ内涵（热度：1094599）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A04600%E4%B8%87%E5%9C%A8%E6%9D%AD%E5%8D%96%E7%83%A4%E8%82%A0%E8%BF%98%E5%80%BA%E7%9A%84%E5%A4%A7%E5%8F%94%E5%9B%9E%E5%AE%B6%E4%BA%86%23" target="weibo">
-欠4600万在杭卖烤肠还债的大叔回家了（热度：1017586）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0%20%E7%9B%B4%E6%92%AD%E7%9D%A1%E8%A7%89%23" target="weibo">
 快乐老友记 直播睡觉（热度：1017377）
 </a>
@@ -5495,12 +5501,6 @@ GQ内涵（热度：1094599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E8%BD%A8%23" target="weibo">
 脱轨（热度：977372）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%84%E7%94%9F%E8%99%AB%23" target="weibo">
-寄生虫（热度：976312）
 </a>
 </li>
 
