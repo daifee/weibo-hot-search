@@ -1,21 +1,29 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703639602518,
+  "endTime": 1703640849703,
   "band_list": [
     {
-      "raw_hot": 2406165,
-      "num": 2406165,
+      "raw_hot": 2775816,
+      "num": 2775816,
       "word": "房东举报诡异绿光获重大奖励",
       "onboard_time": 1703637275,
       "rank": 0,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1483149,
-      "num": 1483149,
+      "raw_hot": 1516626,
+      "num": 1516626,
       "word": "我不是土豆 我一米七",
       "onboard_time": 1703635171,
       "rank": 1,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1418427,
+      "num": 1418427,
+      "word": "非得上那个死班啊",
+      "onboard_time": 1703637634,
+      "rank": 4,
       "category": "幽默"
     },
     {
@@ -35,20 +43,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1122426,
-      "num": 1122426,
-      "word": "非得上那个死班啊",
-      "onboard_time": 1703637634,
-      "rank": 4,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 958201,
       "num": 958201,
       "word": "流量褪去的淄博鸭头小哥",
       "onboard_time": 1703606490,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 870386,
+      "num": 870386,
+      "word": "邓为前助理被开除原因",
+      "onboard_time": 1703638355,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 801586,
@@ -65,14 +73,6 @@
       "onboard_time": 1703598456,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 714467,
-      "num": 714467,
-      "word": "邓为前助理被开除原因",
-      "onboard_time": 1703638355,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 696356,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423822,
+      "num": 423822,
+      "word": "孙怡张晚意是在演他追她逃吗",
+      "onboard_time": 1703638176,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417595,
       "num": 417595,
       "word": "腿不直原来才是正常的",
@@ -203,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316834,
+      "num": 281304,
+      "word": "9点后吃早饭患上糖尿病的概率更高",
+      "onboard_time": 1703638895,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 288807,
       "num": 288807,
       "word": "香港演员黎淑贤去世",
@@ -235,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282165,
+      "num": 282165,
+      "word": "自制预制菜",
+      "onboard_time": 1703639314,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 279269,
       "num": 180484,
       "word": "四川多名医护人员集体爬窗讨薪",
@@ -249,6 +273,14 @@
       "onboard_time": 1703591672,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271376,
+      "num": 271376,
+      "word": "麦当劳涨价0.5至1元",
+      "onboard_time": 1703640153,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 250514,
@@ -275,12 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240533,
-      "num": 240533,
-      "word": "9点后吃早饭患上糖尿病的概率更高",
-      "onboard_time": 1703638895,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 248676,
+      "num": 248676,
+      "word": "跨年晚会 神仙打架",
+      "onboard_time": 1703636674,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 213771,
@@ -297,14 +329,6 @@
       "onboard_time": 1703607625,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 213318,
-      "num": 213318,
-      "word": "孙怡张晚意是在演他追她逃吗",
-      "onboard_time": 1703638176,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 206031,
@@ -355,14 +379,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 198592,
-      "num": 198592,
-      "word": "跨年晚会 神仙打架",
-      "onboard_time": 1703636674,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192308,
       "num": 192308,
       "word": "曼联3比2阿斯顿维拉",
@@ -387,12 +403,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184462,
-      "num": 184462,
-      "word": "自制预制菜",
-      "onboard_time": 1703639314,
-      "rank": 32,
-      "category": "美食"
+      "raw_hot": 185481,
+      "num": 185481,
+      "word": "我国首艘大洋钻探船完成首次试航",
+      "onboard_time": 1703639737,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 181336,
@@ -401,6 +417,14 @@
       "onboard_time": 1703601217,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167188,
+      "num": 167188,
+      "word": "曼联让二追三",
+      "onboard_time": 1703640630,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 166706,
@@ -443,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155055,
+      "num": 155055,
+      "word": "新年壁纸",
+      "onboard_time": 1703639257,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154575,
       "num": 154575,
       "word": "二手玫瑰 邪剑仙",
@@ -483,11 +515,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 140977,
-      "num": 140977,
-      "word": "新年壁纸",
-      "onboard_time": 1703639257,
-      "rank": 42,
+      "raw_hot": 139688,
+      "num": 139688,
+      "word": "恋老癖",
+      "onboard_time": 1703640511,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -497,6 +529,14 @@
       "onboard_time": 1703599658,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130857,
+      "num": 340063,
+      "word": "一杯奶茶两代人的沉默",
+      "onboard_time": 1703638955,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129801,
@@ -521,6 +561,14 @@
       "onboard_time": 1703638895,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124965,
+      "num": 124965,
+      "word": "张含韵 少女会老但少女心不会",
+      "onboard_time": 1703640692,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 120877,
@@ -587,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112954,
+      "num": 112954,
+      "word": "医护人员爬窗讨薪等说法不属实",
+      "onboard_time": 1703640811,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111270,
       "num": 111270,
       "word": "雷军回应小米汽车定价",
@@ -611,14 +667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101668,
-      "num": 160902,
-      "word": "一杯奶茶两代人的沉默",
-      "onboard_time": 1703638955,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97883,
       "num": 97883,
       "word": "麦当劳明起涨价",
@@ -636,7 +684,7 @@
     },
     {
       "raw_hot": 93205,
-      "num": 1354105,
+      "num": 1438663,
       "word": "三条高铁今日开通",
       "onboard_time": 1703594735,
       "rank": 2,
