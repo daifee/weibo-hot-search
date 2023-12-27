@@ -1,0 +1,410 @@
+{
+  "runTime": 1703701258185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 326368,
+        "num": 326368,
+        "word": "全面禁放烟花爆竹是时候终结了",
+        "onboard_time": 1703689359,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246199,
+        "num": 246199,
+        "word": "男生被教授催眠后眼睛无神",
+        "onboard_time": 1703693491,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 5156,
+        "num": 170398,
+        "word": "2023中国航天高燃时刻",
+        "onboard_time": 1703670635,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151084,
+        "num": 151084,
+        "word": "唐嫣繁花 妆造颠覆",
+        "onboard_time": 1703671537,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137607,
+        "num": 137607,
+        "word": "何猷君和奚梦瑶结婚后不装了",
+        "onboard_time": 1703690377,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134608,
+        "num": 134608,
+        "word": "大肠发圈丸子头",
+        "onboard_time": 1703691933,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 139460,
+        "num": 133908,
+        "word": "小时代之繁花时代",
+        "onboard_time": 1703680895,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132362,
+        "num": 132362,
+        "word": "3块钱的饮料正在集体消失",
+        "onboard_time": 1703683597,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120653,
+        "num": 120653,
+        "word": "迪丽热巴 StrayKids",
+        "onboard_time": 1703684918,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117719,
+        "num": 117719,
+        "word": "冯小刚 肯定很多人愿等舒淇10年",
+        "onboard_time": 1703689777,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119520,
+        "num": 116966,
+        "word": "章泽天二胎 双胞胎",
+        "onboard_time": 1703666136,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115447,
+        "num": 115447,
+        "word": "繁花开播",
+        "onboard_time": 1703676515,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114280,
+        "num": 114280,
+        "word": "发发 作弊",
+        "onboard_time": 1703680532,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95817,
+        "num": 95817,
+        "word": "订婚强奸案后女方家属想尽快结婚",
+        "onboard_time": 1703681675,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92853,
+        "num": 92853,
+        "word": "八旬老人摔倒遭无视高中生毫不犹豫扶起",
+        "onboard_time": 1703688459,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92690,
+        "num": 92690,
+        "word": "周海媚为突发心脏病猝死",
+        "onboard_time": 1703674418,
+        "rank": 15,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 87749,
+        "num": 87749,
+        "word": "淘宝将支持仅退款",
+        "onboard_time": 1703651860,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 79557,
+        "num": 79557,
+        "word": "2023最出圈男演员",
+        "onboard_time": 1703686962,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61527,
+        "num": 61527,
+        "word": "雷军连续多条微博致敬同行",
+        "onboard_time": 1703685698,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 50881,
+        "num": 58112,
+        "word": "柯洁 今后不会再发动态",
+        "onboard_time": 1703675914,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57392,
+        "num": 57392,
+        "word": "杭州大姐把旧羽绒服翻新成羽绒被火了",
+        "onboard_time": 1703693252,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57184,
+        "num": 57184,
+        "word": "繁花 王菲老歌",
+        "onboard_time": 1703682155,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49746,
+        "num": 49746,
+        "word": "李善均遗书内容不公开",
+        "onboard_time": 1703688997,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48412,
+        "num": 48412,
+        "word": "2024射手座 自由",
+        "onboard_time": 1703686779,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48251,
+        "num": 48251,
+        "word": "繁花 沪语版",
+        "onboard_time": 1703679336,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44797,
+        "num": 44797,
+        "word": "特斯拉瞒报工厂机器人袭击工人次数",
+        "onboard_time": 1703678617,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 43797,
+        "num": 43797,
+        "word": "王安宇 哭戏",
+        "onboard_time": 1703671118,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43785,
+        "num": 43785,
+        "word": "韩国娱乐圈因李善均去世暂停活动",
+        "onboard_time": 1703670214,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42125,
+        "num": 42125,
+        "word": "天降祁媛",
+        "onboard_time": 1703689958,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31403,
+        "num": 40365,
+        "word": "患儿妈妈买被子发现7000元现金报警送回",
+        "onboard_time": 1703676935,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 39990,
+        "num": 39990,
+        "word": "身上的痣出现5个变化当心癌症",
+        "onboard_time": 1703700562,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38587,
+        "num": 38587,
+        "word": "把喜欢的人删了再加回来会发生什么",
+        "onboard_time": 1703670820,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37801,
+        "num": 37801,
+        "word": "难哄 白敬亭章若楠",
+        "onboard_time": 1703661215,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36552,
+        "num": 36552,
+        "word": "阿离在等一个叫一诺的人",
+        "onboard_time": 1703687080,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35737,
+        "num": 35737,
+        "word": "直球式恋爱",
+        "onboard_time": 1703696902,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35459,
+        "num": 35459,
+        "word": "两个穴位帮你补气养血",
+        "onboard_time": 1703697383,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35265,
+        "num": 35265,
+        "word": "林一演技",
+        "onboard_time": 1703689236,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33992,
+        "num": 33992,
+        "word": "YJJ 挂在身边",
+        "onboard_time": 1703689236,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10165,
+        "num": 32809,
+        "word": "这条高铁沿途串起9个5A景区",
+        "onboard_time": 1703667575,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29096,
+        "num": 32719,
+        "word": "9岁女孩2个月剪出清明上河图",
+        "onboard_time": 1703685100,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32671,
+        "num": 32671,
+        "word": "天官赐福 官方糖",
+        "onboard_time": 1703681854,
+        "rank": 40,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 31594,
+        "num": 31594,
+        "word": "吃不下饭是身体在保护你",
+        "onboard_time": 1703666315,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29140,
+        "num": 29140,
+        "word": "白羊座 魅力",
+        "onboard_time": 1703679635,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27066,
+        "num": 29107,
+        "word": "中共中央印发中国共产党纪律处分条例",
+        "onboard_time": 1703678797,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25186,
+        "num": 28994,
+        "word": "龙凤胎颜值差距有多大",
+        "onboard_time": 1703686358,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23629,
+        "num": 28947,
+        "word": "小鹿爆料 抄袭认可",
+        "onboard_time": 1703676874,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22973,
+        "num": 28859,
+        "word": "巴西男子与15岁侄女发生关系被妻子阉割",
+        "onboard_time": 1703667395,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20944,
+        "num": 28807,
+        "word": "阿云嘎音乐剧窈窕淑女",
+        "onboard_time": 1703693970,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19691,
+        "num": 28687,
+        "word": "AG晋级给王铮亮高兴坏了",
+        "onboard_time": 1703690676,
+        "rank": 48,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 19577,
+        "num": 28670,
+        "word": "力丸 WOD世界舞蹈大赛裁判",
+        "onboard_time": 1703698279,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#以中国式现代化全面推进强国建设#"
+    }
+  }
+}
