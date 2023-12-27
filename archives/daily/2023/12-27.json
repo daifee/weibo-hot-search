@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703668610321,
+  "endTime": 1703669659776,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -131,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1238704,
+      "num": 1238704,
+      "word": "红果果绿泡泡 寻人启事",
+      "onboard_time": 1703660614,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1194280,
       "num": 1194280,
       "word": "杨紫进组",
@@ -147,20 +155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1088906,
-      "num": 1088906,
-      "word": "红果果绿泡泡 寻人启事",
-      "onboard_time": 1703660614,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1084568,
       "num": 1084568,
       "word": "全面禁燃烟花爆竹不合法",
       "onboard_time": 1703653959,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1062444,
+      "num": 1062444,
+      "word": "吃不下饭是身体在保护你",
+      "onboard_time": 1703666315,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1031350,
@@ -187,20 +195,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 967445,
+      "num": 967445,
+      "word": "邓为前助理讨薪录音",
+      "onboard_time": 1703668176,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 958201,
       "num": 958201,
       "word": "流量褪去的淄博鸭头小哥",
       "onboard_time": 1703606490,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 958138,
-      "num": 958138,
-      "word": "吃不下饭是身体在保护你",
-      "onboard_time": 1703666315,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 870386,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629639,
+      "num": 260947,
+      "word": "巴西男子与15岁侄女发生关系被妻子阉割",
+      "onboard_time": 1703667395,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 612832,
       "num": 612832,
       "word": "何以琛才是最会阴阳怪气的",
@@ -329,14 +345,6 @@
       "onboard_time": 1703638176,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 568399,
-      "num": 240126,
-      "word": "巴西男子与15岁侄女发生关系被妻子阉割",
-      "onboard_time": 1703667395,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 568397,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 505869,
-      "num": 239761,
+      "num": 260893,
       "word": "刘亦菲机场贝雷帽",
       "onboard_time": 1703667395,
       "rank": 21,
@@ -427,8 +435,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 487478,
-      "num": 487478,
+      "raw_hot": 490018,
+      "num": 490018,
       "word": "京东也将支持仅退款",
       "onboard_time": 1703665294,
       "rank": 19,
@@ -449,14 +457,6 @@
       "onboard_time": 1703597975,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457434,
-      "num": 457434,
-      "word": "邓为前助理讨薪录音",
-      "onboard_time": 1703668176,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 450592,
@@ -497,6 +497,14 @@
       "onboard_time": 1703659531,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 443411,
+      "num": 443411,
+      "word": "刘诗诗半扎发",
+      "onboard_time": 1703668716,
+      "rank": 11,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 439039,
@@ -779,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261251,
+      "num": 261251,
+      "word": "南京38年前入室抢劫杀人案告破",
+      "onboard_time": 1703668656,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257812,
       "num": 205747,
       "word": "金城武 讨厌在拍戏时看到动物",
@@ -827,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240516,
+      "num": 240516,
+      "word": "郭艾伦复出",
+      "onboard_time": 1703667874,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238504,
       "num": 238504,
       "word": "海南澄迈发生重大刑案嫌疑人在逃",
@@ -851,6 +875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235123,
+      "num": 235123,
+      "word": "不谈恋爱因为累点很低",
+      "onboard_time": 1703669257,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233563,
       "num": 233563,
       "word": "清华大学教授说人口老龄化是社会在进步",
@@ -865,6 +897,22 @@
       "onboard_time": 1703657915,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227657,
+      "num": 227657,
+      "word": "景甜短发",
+      "onboard_time": 1703669316,
+      "rank": 26,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 227525,
+      "num": 227525,
+      "word": "难哄 遛人时间轴",
+      "onboard_time": 1703668896,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 227515,
@@ -921,14 +969,6 @@
       "onboard_time": 1703602115,
       "rank": 17,
       "category": "网红"
-    },
-    {
-      "raw_hot": 213539,
-      "num": 213539,
-      "word": "郭艾伦复出",
-      "onboard_time": 1703667874,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 213470,
@@ -995,6 +1035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 205664,
+      "num": 205664,
+      "word": "Doinb停播超一个月",
+      "onboard_time": 1703669316,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204633,
       "num": 204633,
       "word": "外国人眼中董宇辉英语口音问题",
@@ -1033,6 +1081,14 @@
       "onboard_time": 1703647835,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203647,
+      "num": 203647,
+      "word": "两名临时工离职老板强行送厚衣服告别",
+      "onboard_time": 1703668537,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203294,
@@ -1243,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165770,
+      "num": 165770,
+      "word": "素人综艺 必杀技",
+      "onboard_time": 1703668775,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165276,
       "num": 165276,
       "word": "我知道我爱你",
@@ -1257,6 +1321,14 @@
       "onboard_time": 1703653746,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164084,
+      "num": 164084,
+      "word": "女孩头发长虱子老师趁晴天帮其洗头",
+      "onboard_time": 1703668656,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163898,
@@ -1395,6 +1467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147591,
+      "num": 147591,
+      "word": "麦当劳客服回应汉堡变小",
+      "onboard_time": 1703669434,
+      "rank": 46,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 146672,
       "num": 340063,
       "word": "一杯奶茶两代人的沉默",
@@ -1507,6 +1587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 137680,
+      "num": 137680,
+      "word": "吉利高管回应未被小米汽车致敬",
+      "onboard_time": 1703669617,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 136467,
       "num": 136467,
       "word": "于适笑着看负评",
@@ -1521,6 +1609,14 @@
       "onboard_time": 1703649456,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135659,
+      "num": 135659,
+      "word": "猫 我不信你两眼空空",
+      "onboard_time": 1703669555,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 133933,
@@ -1683,14 +1779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121051,
-      "num": 121051,
-      "word": "两名临时工离职老板强行送厚衣服告别",
-      "onboard_time": 1703668537,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120877,
       "num": 120877,
       "word": "每天坚持这样做一觉睡到大天亮",
@@ -1801,6 +1889,14 @@
       "onboard_time": 1703594794,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113192,
+      "num": 179615,
+      "word": "关晓彤cos孙尚香",
+      "onboard_time": 1703669196,
+      "rank": 37,
+      "category": "作品衍生,游戏"
     },
     {
       "raw_hot": 113067,
@@ -1980,7 +2076,7 @@
     },
     {
       "raw_hot": 89402,
-      "num": 203936,
+      "num": 354535,
       "word": "每个座位都该是头等座",
       "onboard_time": 1703667994,
       "rank": 29,
