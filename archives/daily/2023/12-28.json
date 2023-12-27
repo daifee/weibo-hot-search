@@ -1,6 +1,6 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703695101680,
+  "endTime": 1703697320089,
   "band_list": [
     {
       "raw_hot": 1802839,
@@ -33,6 +33,14 @@
       "onboard_time": 1703680532,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 596268,
+      "num": 596268,
+      "word": "男生被教授催眠后眼睛无神",
+      "onboard_time": 1703693491,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 586890,
@@ -121,14 +129,6 @@
       "onboard_time": 1703686962,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 263625,
-      "num": 302690,
-      "word": "男生被教授催眠后眼睛无神",
-      "onboard_time": 1703693491,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 255160,
@@ -411,12 +411,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 61581,
+      "num": 51961,
+      "word": "繁花片头",
+      "onboard_time": 1703678016,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38684,
       "num": 684836,
       "word": "这条高铁沿途串起9个5A景区",
       "onboard_time": 1703667575,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38549,
+      "num": 51943,
+      "word": "直球式恋爱",
+      "onboard_time": 1703696902,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 37688,
+      "num": 51940,
+      "word": "景天为紫萱动手了",
+      "onboard_time": 1703687740,
+      "rank": 49,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

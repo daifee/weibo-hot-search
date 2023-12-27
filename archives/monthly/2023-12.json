@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703695101680,
+  "endTime": 1703697320089,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -14545,6 +14545,14 @@
       "onboard_time": 1702962043,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596268,
+      "num": 596268,
+      "word": "男生被教授催眠后眼睛无神",
+      "onboard_time": 1703693491,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 595899,
@@ -36185,14 +36193,6 @@
       "onboard_time": 1703554171,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 263625,
-      "num": 302690,
-      "word": "男生被教授催眠后眼睛无神",
-      "onboard_time": 1703693491,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 263518,
@@ -73169,6 +73169,14 @@
       "onboard_time": 1703623635,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38549,
+      "num": 51943,
+      "word": "直球式恋爱",
+      "onboard_time": 1703696902,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 38254,
