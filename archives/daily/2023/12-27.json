@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703686533967,
+  "endTime": 1703687627653,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 874182,
+      "num": 874182,
+      "word": "迪丽热巴 StrayKids",
+      "onboard_time": 1703684918,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 873877,
       "num": 828563,
       "word": "繁花 金宇澄原著",
@@ -379,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 716678,
+      "num": 716678,
+      "word": "3块钱的饮料正在集体消失",
+      "onboard_time": 1703683597,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 700565,
       "num": 403973,
       "word": "山区小学女生来例假后写了遗书",
@@ -409,14 +425,6 @@
       "onboard_time": 1703685579,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 683907,
-      "num": 683907,
-      "word": "迪丽热巴 StrayKids",
-      "onboard_time": 1703684918,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 683434,
@@ -795,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416350,
-      "num": 416350,
-      "word": "3块钱的饮料正在集体消失",
-      "onboard_time": 1703683597,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 416045,
       "num": 416045,
       "word": "迪丽热巴开车演我考驾照",
@@ -971,6 +971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 327835,
+      "num": 327835,
+      "word": "阿离在等一个叫一诺的人",
+      "onboard_time": 1703687080,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 326460,
       "num": 326460,
       "word": "萨摩耶真的不适合吵架",
@@ -995,6 +1003,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 320630,
+      "num": 333052,
+      "word": "雷军连续多条微博致敬同行",
+      "onboard_time": 1703685698,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318219,
+      "num": 318219,
+      "word": "2023最出圈男演员",
+      "onboard_time": 1703686962,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316834,
       "num": 281304,
       "word": "9点后吃早饭患上糖尿病的概率更高",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1703676275,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 314112,
+      "num": 314112,
+      "word": "2024射手座 自由",
+      "onboard_time": 1703686779,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 309310,
@@ -1219,6 +1251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 260053,
+      "num": 260053,
+      "word": "龙凤胎颜值差距有多大",
+      "onboard_time": 1703686358,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259164,
       "num": 259164,
       "word": "淘宝回应调整服装发货时间",
@@ -1379,20 +1419,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 230562,
+      "num": 230562,
+      "word": "对眼睛友好的冷知识",
+      "onboard_time": 1703682575,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 230112,
       "num": 230112,
       "word": "秦岚迪丽热巴拍照一秒变脸",
       "onboard_time": 1703657915,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229627,
-      "num": 229627,
-      "word": "对眼睛友好的冷知识",
-      "onboard_time": 1703682575,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 227525,
@@ -1433,14 +1473,6 @@
       "onboard_time": 1703679216,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 224381,
-      "num": 249056,
-      "word": "雷军连续多条微博致敬同行",
-      "onboard_time": 1703685698,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224319,
@@ -1827,6 +1859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191498,
+      "num": 191498,
+      "word": "轩染花木兰偷家",
+      "onboard_time": 1703686900,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191048,
       "num": 191048,
       "word": "亲情是柔软的也是坚韧的",
@@ -1923,14 +1963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 172332,
-      "num": 172332,
-      "word": "龙凤胎颜值差距有多大",
-      "onboard_time": 1703686358,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171418,
       "num": 171418,
       "word": "经超 琳姐做饭是世界大战",
@@ -2011,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164042,
+      "num": 481957,
+      "word": "极氪智驾放大招",
+      "onboard_time": 1703683895,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 163898,
       "num": 163898,
       "word": "等了恋人10年还要继续等吗",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1703655095,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160077,
+      "num": 160077,
+      "word": "王家卫镜头下的辛芷蕾",
+      "onboard_time": 1703681557,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 159432,
@@ -2195,14 +2243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148801,
-      "num": 481957,
-      "word": "极氪智驾放大招",
-      "onboard_time": 1703683895,
-      "rank": 42,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 146672,
       "num": 340063,
       "word": "一杯奶茶两代人的沉默",
@@ -2260,7 +2300,7 @@
     },
     {
       "raw_hot": 141863,
-      "num": 141863,
+      "num": 991938,
       "word": "这条高铁沿途串起9个5A景区",
       "onboard_time": 1703667575,
       "rank": 39,
