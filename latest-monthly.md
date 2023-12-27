@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/27 23:34:07
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/28 00:22:15
 </p>
 </blockquote>
 <p>
@@ -2285,6 +2285,12 @@ GQ 你好癫啊（热度：1837301）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%20%E7%BA%AA%E5%BD%95%E7%89%87%23" target="weibo">
 梨泰院踩踏事故 纪录片（热度：1803596）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E6%94%BE%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E6%98%AF%E6%97%B6%E5%80%99%E7%BB%88%E7%BB%93%E4%BA%86%23" target="weibo">
+全面禁放烟花爆竹是时候终结了（热度：1802839）
 </a>
 </li>
 
@@ -5609,12 +5615,6 @@ GQ内涵（热度：1094599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E8%BD%A8%23" target="weibo">
 脱轨（热度：977372）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E6%94%BE%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E6%98%AF%E6%97%B6%E5%80%99%E7%BB%88%E7%BB%93%E4%BA%86%23" target="weibo">
-全面禁放烟花爆竹是时候终结了（热度：976696）
 </a>
 </li>
 

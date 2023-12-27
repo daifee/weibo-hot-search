@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703691247977,
+  "endTime": 1703694135877,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -353,6 +353,14 @@
       "onboard_time": 1703651860,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1802839,
+      "num": 1802839,
+      "word": "全面禁放烟花爆竹是时候终结了",
+      "onboard_time": 1703689359,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1796415,
@@ -955,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 976696,
-      "num": 976696,
-      "word": "全面禁放烟花爆竹是时候终结了",
-      "onboard_time": 1703689359,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 974959,
       "num": 818371,
       "word": "你要公开努力 以便笑死所有人",
@@ -1481,6 +1481,14 @@
       "onboard_time": 1703408916,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 738331,
+      "num": 738331,
+      "word": "何猷君和奚梦瑶结婚后不装了",
+      "onboard_time": 1703690377,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 737513,
@@ -2337,6 +2345,14 @@
       "onboard_time": 1703404651,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 539729,
+      "num": 539729,
+      "word": "大肠发圈丸子头",
+      "onboard_time": 1703691933,
+      "rank": 5,
+      "category": "美妆"
     },
     {
       "raw_hot": 539204,
@@ -3243,20 +3259,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406377,
+      "num": 427010,
+      "word": "八旬老人摔倒遭无视高中生毫不犹豫扶起",
+      "onboard_time": 1703688459,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404779,
       "num": 404779,
       "word": "云南一农村5桌以上聚餐需报备",
       "onboard_time": 1703381190,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 403977,
-      "num": 295611,
-      "word": "何猷君和奚梦瑶结婚后不装了",
-      "onboard_time": 1703690377,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 403879,
@@ -3745,14 +3761,6 @@
       "onboard_time": 1703488172,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 339431,
-      "num": 339431,
-      "word": "八旬老人摔倒遭无视高中生毫不犹豫扶起",
-      "onboard_time": 1703688459,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339406,
@@ -9747,6 +9755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127810,
+      "num": 127810,
+      "word": "男生被教授催眠后眼睛无神",
+      "onboard_time": 1703693491,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 127477,
       "num": 127477,
       "word": "杜兰特对太阳沮丧",
@@ -10243,6 +10259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117759,
+      "num": 106508,
+      "word": "繁花 盖茨比男主人设",
+      "onboard_time": 1703679097,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117698,
       "num": 117698,
       "word": "十个勤天西装正经不了三秒",
@@ -10416,6 +10440,14 @@
       "word": "外卖小哥救人后拒绝百万捐款",
       "onboard_time": 1703475156,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112972,
+      "num": 112972,
+      "word": "杭州大姐把旧羽绒服翻新成羽绒被火了",
+      "onboard_time": 1703693252,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
