@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703665269888,
+  "endTime": 1703666061392,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1088906,
+      "num": 1088906,
+      "word": "红果果绿泡泡 寻人启事",
+      "onboard_time": 1703660614,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1084568,
       "num": 1084568,
       "word": "全面禁燃烟花爆竹不合法",
@@ -153,14 +161,6 @@
       "onboard_time": 1703641352,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 993980,
-      "num": 993980,
-      "word": "红果果绿泡泡 寻人启事",
-      "onboard_time": 1703660614,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 992968,
@@ -331,11 +331,35 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 538328,
+      "num": 538328,
+      "word": "多个经纪公司招聘艺人助理月薪不过万",
+      "onboard_time": 1703662054,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 510831,
+      "num": 510831,
+      "word": "结婚16年3娃非亲生竟有案中案",
+      "onboard_time": 1703661333,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501273,
       "num": 501273,
       "word": "周一围 我看见了她的失落",
       "onboard_time": 1703634567,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 498636,
+      "num": 498636,
+      "word": "王安宇 迪丽热巴副驾",
+      "onboard_time": 1703664396,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -355,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 492440,
-      "num": 492440,
-      "word": "结婚16年3娃非亲生竟有案中案",
-      "onboard_time": 1703661333,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491441,
       "num": 491441,
       "word": "小米汽车向华为比亚迪致敬",
@@ -379,28 +395,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 481906,
-      "num": 453927,
-      "word": "王安宇 迪丽热巴副驾",
-      "onboard_time": 1703664396,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 472725,
       "num": 472725,
       "word": "央视揭朋友圈少儿才艺投票骗局",
       "onboard_time": 1703597975,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 455243,
-      "num": 455243,
-      "word": "多个经纪公司招聘艺人助理月薪不过万",
-      "onboard_time": 1703662054,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 450592,
@@ -531,12 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379711,
+      "num": 379711,
+      "word": "15号之前离职 社保",
+      "onboard_time": 1703665054,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 379575,
       "num": 379575,
       "word": "高校内湖捞3000斤鱼直送食堂",
       "onboard_time": 1703636432,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377205,
+      "num": 377205,
+      "word": "仙剑四排播",
+      "onboard_time": 1703663915,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 370357,
@@ -569,14 +585,6 @@
       "onboard_time": 1703601217,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 337813,
-      "num": 337813,
-      "word": "仙剑四排播",
-      "onboard_time": 1703663915,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 333617,
@@ -707,6 +715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274293,
+      "num": 274293,
+      "word": "京东也将支持仅退款",
+      "onboard_time": 1703665294,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 271908,
       "num": 271908,
       "word": "闲鱼回应援助加拿大鹅被倒卖",
@@ -756,11 +772,19 @@
     },
     {
       "raw_hot": 242469,
-      "num": 202859,
+      "num": 212067,
       "word": "朱丹秀婚戒",
       "onboard_time": 1703662418,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237686,
+      "num": 237686,
+      "word": "WB 状态",
+      "onboard_time": 1703664217,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 237010,
@@ -899,6 +923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 204633,
+      "num": 204633,
+      "word": "外国人眼中董宇辉英语口音问题",
+      "onboard_time": 1703664814,
+      "rank": 34,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 204489,
       "num": 204489,
       "word": "杨旭逆袭获央视主持人大赛冠军",
@@ -937,14 +969,6 @@
       "onboard_time": 1703638233,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202936,
-      "num": 202936,
-      "word": "WB 状态",
-      "onboard_time": 1703664217,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 201023,
@@ -995,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195282,
+      "num": 195282,
+      "word": "新华网评价电影三大队",
+      "onboard_time": 1703665294,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193952,
       "num": 193952,
       "word": "水果口感的姜",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1703664035,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193162,
+      "num": 193162,
+      "word": "杨紫知性通勤妆",
+      "onboard_time": 1703665655,
+      "rank": 30,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 192308,
@@ -1083,14 +1123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 172541,
-      "num": 170488,
-      "word": "15号之前离职 社保",
-      "onboard_time": 1703665054,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 171418,
       "num": 171418,
       "word": "经超 琳姐做饭是世界大战",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1703642855,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165181,
+      "num": 165181,
+      "word": "清华大学教授说人口老龄化是社会在进步",
+      "onboard_time": 1703665715,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164229,
@@ -1265,14 +1305,6 @@
       "onboard_time": 1703633304,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 151158,
-      "num": 151158,
-      "word": "外国人眼中董宇辉英语口音问题",
-      "onboard_time": 1703664814,
-      "rank": 34,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 146672,
@@ -1443,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128897,
+      "num": 128897,
+      "word": "猫和狗的区别",
+      "onboard_time": 1703665715,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126986,
       "num": 126986,
       "word": "当你在美国找工作时",
@@ -1563,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119644,
+      "num": 119644,
+      "word": "根本认不出是刘德华",
+      "onboard_time": 1703665897,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119388,
       "num": 119388,
       "word": "王一博顺毛长发",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1703641831,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118363,
+      "num": 118363,
+      "word": "檀健次跨年舞台舞还没编好",
+      "onboard_time": 1703665115,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 116962,
@@ -1683,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108557,
+      "num": 1360525,
+      "word": "我国八纵八横高铁网建成约80%",
+      "onboard_time": 1703663853,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108422,
       "num": 108422,
       "word": "易烊千玺 跨年电影愿",
@@ -1691,20 +1755,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106875,
+      "num": 106875,
+      "word": "小猫的第一根逗猫棒",
+      "onboard_time": 1703665234,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106404,
       "num": 106404,
       "word": "狗和狗的差距真是太大了",
       "onboard_time": 1703660854,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105809,
-      "num": 1360525,
-      "word": "我国八纵八横高铁网建成约80%",
-      "onboard_time": 1703663853,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104617,
@@ -1721,14 +1785,6 @@
       "onboard_time": 1703599777,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98531,
-      "num": 98531,
-      "word": "檀健次跨年舞台舞还没编好",
-      "onboard_time": 1703665115,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 97883,
@@ -1809,14 +1865,6 @@
       "onboard_time": 1703608466,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 86560,
-      "num": 86560,
-      "word": "小猫的第一根逗猫棒",
-      "onboard_time": 1703665234,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 86285,
@@ -2049,6 +2097,9 @@
     },
     {
       "word": "#团结一致敢于斗争力量源于团结#"
+    },
+    {
+      "word": "#以中国式现代化全面推进强国建设#"
     }
   ]
 }
