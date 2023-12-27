@@ -1,0 +1,410 @@
+{
+  "runTime": 1703661363280,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2289133,
+        "num": 2289133,
+        "word": "淘宝将支持仅退款",
+        "onboard_time": 1703651860,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1018013,
+        "num": 1018013,
+        "word": "全面禁燃烟花爆竹不合法",
+        "onboard_time": 1703653959,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23446,
+        "num": 958900,
+        "word": "盘点2023我国重大科技成就",
+        "onboard_time": 1703635893,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 948478,
+        "num": 948478,
+        "word": "盒马被曝贝果中吃出螺丝",
+        "onboard_time": 1703659052,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733063,
+        "num": 733063,
+        "word": "赵昭仪被吓哭",
+        "onboard_time": 1703655574,
+        "rank": 4,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 677289,
+        "num": 677289,
+        "word": "杨紫进组",
+        "onboard_time": 1703655814,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 616146,
+        "num": 616146,
+        "word": "寄生虫",
+        "onboard_time": 1703649578,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 449881,
+        "num": 449881,
+        "word": "果郡王和甄嬛原剧本有吻戏",
+        "onboard_time": 1703657432,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416045,
+        "num": 416045,
+        "word": "迪丽热巴开车演我考驾照",
+        "onboard_time": 1703656714,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396916,
+        "num": 396916,
+        "word": "妈妈去世3年手机收到爱的童言",
+        "onboard_time": 1703647357,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093520,
+        "num": 394361,
+        "word": "李善均疑似被夜店公关等勒索3.5亿韩元",
+        "onboard_time": 1703651860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 839359,
+        "num": 370291,
+        "word": "你要公开努力 以便笑死所有人",
+        "onboard_time": 1703654915,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 480809,
+        "num": 346896,
+        "word": "他在买和偷之间选择了捐",
+        "onboard_time": 1703659415,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 444468,
+        "num": 336291,
+        "word": "王安宇终于又要当导游了",
+        "onboard_time": 1703659531,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328824,
+        "num": 328824,
+        "word": "山区小学女生来例假后写了遗书",
+        "onboard_time": 1703651138,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833450,
+        "num": 326176,
+        "word": "李善均去世",
+        "onboard_time": 1703643755,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286784,
+        "num": 286784,
+        "word": "胡歌唐嫣新剧排骨年糕吃五年",
+        "onboard_time": 1703655156,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283513,
+        "num": 283513,
+        "word": "草莓麻薯冰",
+        "onboard_time": 1703659113,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 50226,
+        "num": 280794,
+        "word": "最有理有据的请假条",
+        "onboard_time": 1703659472,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 280013,
+        "num": 280013,
+        "word": "红果果绿泡泡 寻人启事",
+        "onboard_time": 1703660614,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324154,
+        "num": 276619,
+        "word": "2岁女童和妈妈洗澡后感染妇科病",
+        "onboard_time": 1703654077,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268641,
+        "num": 268641,
+        "word": "原来痘痘冒尖只在一瞬间",
+        "onboard_time": 1703650838,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 260413,
+        "num": 260413,
+        "word": "王安宇 克罗地亚旅拍",
+        "onboard_time": 1703651679,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215285,
+        "num": 215285,
+        "word": "今年逛商场只敢去负一",
+        "onboard_time": 1703656115,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212501,
+        "num": 212501,
+        "word": "安陵容小产甄嬛为什么要捂住鼻子",
+        "onboard_time": 1703643693,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207630,
+        "num": 207630,
+        "word": "秦岚迪丽热巴拍照一秒变脸",
+        "onboard_time": 1703657915,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205004,
+        "num": 205004,
+        "word": "何猷君和奚梦瑶为睡姿吵架",
+        "onboard_time": 1703655274,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204745,
+        "num": 204745,
+        "word": "难哄 白敬亭章若楠",
+        "onboard_time": 1703661215,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186402,
+        "num": 186402,
+        "word": "小米汽车向华为比亚迪致敬",
+        "onboard_time": 1703652635,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 186245,
+        "num": 186245,
+        "word": "欠4600万在杭卖烤肠还债的大叔回家了",
+        "onboard_time": 1703648676,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180579,
+        "num": 180579,
+        "word": "贾玲 不能抢刘德华",
+        "onboard_time": 1703658032,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157535,
+        "num": 157535,
+        "word": "原来胡萝卜不是萝卜",
+        "onboard_time": 1703654198,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156367,
+        "num": 156367,
+        "word": "花少5冰岛一日导游制",
+        "onboard_time": 1703655514,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153948,
+        "num": 153948,
+        "word": "房东举报诡异绿光获重大奖励",
+        "onboard_time": 1703637275,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151288,
+        "num": 151288,
+        "word": "RNG战胜OMG",
+        "onboard_time": 1703658693,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147928,
+        "num": 147928,
+        "word": "何以琛才是最会阴阳怪气的",
+        "onboard_time": 1703644174,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144296,
+        "num": 144296,
+        "word": "非得上那个死班啊",
+        "onboard_time": 1703637634,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139520,
+        "num": 139520,
+        "word": "微博之夜观礼名额",
+        "onboard_time": 1703659953,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130616,
+        "num": 130616,
+        "word": "这小子竟然比我还帅",
+        "onboard_time": 1703660973,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11424,
+        "num": 127433,
+        "word": "为什么氛围美人都喜欢阿胶滋补",
+        "onboard_time": 1703660431,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127197,
+        "num": 127197,
+        "word": "北京一男子骑电动车闯红灯被撞身亡",
+        "onboard_time": 1703646880,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125004,
+        "num": 125004,
+        "word": "无论猫做什么我爸都会夸赞",
+        "onboard_time": 1703659230,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114866,
+        "num": 114866,
+        "word": "赵今麦粉紫细闪眼妆",
+        "onboard_time": 1703658453,
+        "rank": 42,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 109411,
+        "num": 109411,
+        "word": "鬼谷子天穹祈灯皮肤",
+        "onboard_time": 1703659593,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109376,
+        "num": 109376,
+        "word": "当地回应菜场因大气污染停止面条加工",
+        "onboard_time": 1703658873,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105477,
+        "num": 105477,
+        "word": "狗和狗的差距真是太大了",
+        "onboard_time": 1703660854,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105118,
+        "num": 105118,
+        "word": "张艺谋 浩存就是适合吃这碗饭",
+        "onboard_time": 1703640871,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104395,
+        "num": 104395,
+        "word": "邓为前助理被开除原因",
+        "onboard_time": 1703638355,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104088,
+        "num": 104088,
+        "word": "Alex2024星座年运",
+        "onboard_time": 1703657557,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102885,
+        "num": 102885,
+        "word": "结婚16年3娃非亲生竟有案中案",
+        "onboard_time": 1703661333,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念毛泽东同志诞辰130周年座谈会#"
+    }
+  }
+}
