@@ -1,0 +1,410 @@
+{
+  "runTime": 1703648043934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7114929,
+        "num": 7114929,
+        "word": "李善均去世",
+        "onboard_time": 1703643755,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1283586,
+        "num": 1283586,
+        "word": "房东举报诡异绿光获重大奖励",
+        "onboard_time": 1703637275,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53175,
+        "num": 913958,
+        "word": "2023你被哪些瞬间治愈",
+        "onboard_time": 1703646577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681630,
+        "num": 681630,
+        "word": "我不是土豆 我一米七",
+        "onboard_time": 1703635171,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 567057,
+        "num": 567057,
+        "word": "何以琛才是最会阴阳怪气的",
+        "onboard_time": 1703644174,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486347,
+        "num": 486347,
+        "word": "邓为前助理被开除原因",
+        "onboard_time": 1703638355,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422747,
+        "num": 422747,
+        "word": "北京一男子骑电动车闯红灯被撞身亡",
+        "onboard_time": 1703646880,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407647,
+        "num": 407647,
+        "word": "奶茶 大冰少杯",
+        "onboard_time": 1703644413,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 397724,
+        "num": 397724,
+        "word": "春花厌阵容官宣",
+        "onboard_time": 1703644953,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358232,
+        "num": 358232,
+        "word": "郭刚堂儿子被拐案",
+        "onboard_time": 1703646939,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2440591,
+        "num": 356171,
+        "word": "全慧珍报警称李善均留下遗书",
+        "onboard_time": 1703646577,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774763,
+        "num": 354868,
+        "word": "非得上那个死班啊",
+        "onboard_time": 1703637634,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 769843,
+        "num": 349292,
+        "word": "张艺谋 浩存就是适合吃这碗饭",
+        "onboard_time": 1703640871,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674399,
+        "num": 347995,
+        "word": "穷鬼套餐不涨价",
+        "onboard_time": 1703641352,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41362,
+        "num": 345238,
+        "word": "vocal被阿胶暖到了",
+        "onboard_time": 1703646036,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 417315,
+        "num": 341395,
+        "word": "博主B太称打假不是为了流量",
+        "onboard_time": 1703647178,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76592,
+        "num": 338846,
+        "word": "00后的第一口贵妇养生汤",
+        "onboard_time": 1703645073,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 336676,
+        "num": 336676,
+        "word": "29岁女儿常吃外卖爸爸送自制预制菜",
+        "onboard_time": 1703631981,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274062,
+        "num": 274062,
+        "word": "考研后的年轻人在做什么",
+        "onboard_time": 1703642912,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273004,
+        "num": 273004,
+        "word": "萨摩耶真的不适合吵架",
+        "onboard_time": 1703643030,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 991641,
+        "num": 270165,
+        "word": "安陵容小产甄嬛为什么要捂住鼻子",
+        "onboard_time": 1703643693,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257406,
+        "num": 257406,
+        "word": "家长被通知接走发烧孩子后大怒",
+        "onboard_time": 1703599418,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249269,
+        "num": 249269,
+        "word": "跨年晚会 神仙打架",
+        "onboard_time": 1703636674,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221630,
+        "num": 221630,
+        "word": "妈妈去世3年手机收到爱的童言",
+        "onboard_time": 1703647357,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209227,
+        "num": 209227,
+        "word": "失孤原型案人贩子1人死缓1人无期",
+        "onboard_time": 1703642011,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208746,
+        "num": 208746,
+        "word": "我的大叔",
+        "onboard_time": 1703647357,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200336,
+        "num": 200336,
+        "word": "孙怡张晚意是在演他追她逃吗",
+        "onboard_time": 1703638176,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68323,
+        "num": 197460,
+        "word": "年轻人的养生血脉被觉醒",
+        "onboard_time": 1703646217,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196242,
+        "num": 196242,
+        "word": "郭刚堂妻子开庭前失声痛哭",
+        "onboard_time": 1703646999,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190714,
+        "num": 190714,
+        "word": "MK檀健次锁了",
+        "onboard_time": 1703646099,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171492,
+        "num": 171492,
+        "word": "明星助理工资5000块",
+        "onboard_time": 1703588673,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170719,
+        "num": 170719,
+        "word": "帕梅拉 麻辣烫yyds",
+        "onboard_time": 1703633127,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 170466,
+        "num": 170466,
+        "word": "青簪行有消息了",
+        "onboard_time": 1703594973,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160145,
+        "num": 160145,
+        "word": "胡歌对接否认资助女孩成了中科院博士",
+        "onboard_time": 1703633966,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157768,
+        "num": 157768,
+        "word": "代号鸢 郃广瑜修罗场",
+        "onboard_time": 1703647956,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155760,
+        "num": 155760,
+        "word": "于正五福临门演员阵容",
+        "onboard_time": 1703644174,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153214,
+        "num": 153214,
+        "word": "水果口感的姜",
+        "onboard_time": 1703647956,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151616,
+        "num": 151616,
+        "word": "人生若如初见 空降",
+        "onboard_time": 1703598456,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145976,
+        "num": 145976,
+        "word": "王家卫的受害者们",
+        "onboard_time": 1703646759,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138171,
+        "num": 138171,
+        "word": "9点后吃早饭患上糖尿病的概率更高",
+        "onboard_time": 1703638895,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137602,
+        "num": 137602,
+        "word": "麦当劳涨价0.5至1元",
+        "onboard_time": 1703640153,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134396,
+        "num": 134396,
+        "word": "电影一闪一闪亮星星终极预告",
+        "onboard_time": 1703647835,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123085,
+        "num": 123085,
+        "word": "举报间谍活动有三种途径",
+        "onboard_time": 1703643573,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118859,
+        "num": 118859,
+        "word": "女警把走失男童小脚放进怀里取暖",
+        "onboard_time": 1703640992,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117201,
+        "num": 117201,
+        "word": "葡萄干 图书馆官方零食",
+        "onboard_time": 1703634268,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114285,
+        "num": 114285,
+        "word": "刘浩存演技",
+        "onboard_time": 1703602178,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113637,
+        "num": 113637,
+        "word": "好友替患癌去世老人还近四万元债务",
+        "onboard_time": 1703636611,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108398,
+        "num": 108398,
+        "word": "体育生黑长袄爆改东北门帘",
+        "onboard_time": 1703645618,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105338,
+        "num": 105338,
+        "word": "郭刚堂之子不去宣判现场",
+        "onboard_time": 1703642912,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104380,
+        "num": 104380,
+        "word": "脱轨里出现了时代少年团",
+        "onboard_time": 1703602476,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#团结一致敢于斗争力量源于团结#"
+    }
+  }
+}
