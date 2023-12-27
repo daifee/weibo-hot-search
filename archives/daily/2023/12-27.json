@@ -1,10 +1,10 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703644675077,
+  "endTime": 1703647125472,
   "band_list": [
     {
-      "raw_hot": 6666547,
-      "num": 6666547,
+      "raw_hot": 8687807,
+      "num": 8687807,
       "word": "李善均去世",
       "onboard_time": 1703643755,
       "rank": 3,
@@ -17,6 +17,14 @@
       "onboard_time": 1703637275,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2454386,
+      "num": 365631,
+      "word": "全慧珍报警称李善均留下遗书",
+      "onboard_time": 1703646577,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1657936,
@@ -33,6 +41,14 @@
       "onboard_time": 1703635171,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1424196,
+      "num": 433075,
+      "word": "安陵容小产甄嬛为什么要捂住鼻子",
+      "onboard_time": 1703643693,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 1418427,
@@ -115,14 +131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 683619,
-      "num": 433075,
-      "word": "安陵容小产甄嬛为什么要捂住鼻子",
-      "onboard_time": 1703643693,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 630883,
       "num": 630883,
       "word": "卫健委否认医护集体跳楼",
@@ -203,6 +211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 420764,
+      "num": 420764,
+      "word": "何以琛才是最会阴阳怪气的",
+      "onboard_time": 1703644174,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417595,
       "num": 417595,
       "word": "腿不直原来才是正常的",
@@ -217,6 +233,14 @@
       "onboard_time": 1703633127,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 407992,
+      "num": 407992,
+      "word": "春花厌阵容官宣",
+      "onboard_time": 1703644953,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 392245,
@@ -259,12 +283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354874,
+      "num": 354874,
+      "word": "奶茶 大冰少杯",
+      "onboard_time": 1703644413,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 333617,
       "num": 333617,
       "word": "莎头 可口可乐",
       "onboard_time": 1703599658,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 326460,
+      "num": 326460,
+      "word": "萨摩耶真的不适合吵架",
+      "onboard_time": 1703643030,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 326455,
@@ -281,14 +321,6 @@
       "onboard_time": 1703638895,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 300415,
-      "num": 300415,
-      "word": "萨摩耶真的不适合吵架",
-      "onboard_time": 1703643030,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 288807,
@@ -347,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255242,
-      "num": 255242,
-      "word": "何以琛才是最会阴阳怪气的",
-      "onboard_time": 1703644174,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250514,
       "num": 250514,
       "word": "甘肃积石山发生3.3级地震",
@@ -409,6 +433,14 @@
       "onboard_time": 1703642912,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209334,
+      "num": 163342,
+      "word": "MK檀健次锁了",
+      "onboard_time": 1703646099,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 207061,
@@ -467,6 +499,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 197453,
+      "num": 197453,
+      "word": "北京一男子骑电动车闯红灯被撞身亡",
+      "onboard_time": 1703646880,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196348,
       "num": 196348,
       "word": "失孤",
@@ -512,6 +552,14 @@
       "word": "我国将系统重塑疾控体系",
       "onboard_time": 1703601217,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174062,
+      "num": 174062,
+      "word": "郭刚堂儿子被拐案",
+      "onboard_time": 1703646939,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -569,6 +617,14 @@
       "onboard_time": 1703597975,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159147,
+      "num": 159147,
+      "word": "于正五福临门演员阵容",
+      "onboard_time": 1703644174,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 157201,
@@ -643,20 +699,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139433,
+      "num": 139433,
+      "word": "体育生黑长袄爆改东北门帘",
+      "onboard_time": 1703645618,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138014,
       "num": 138014,
       "word": "无痛胃镜",
       "onboard_time": 1703599658,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 133371,
-      "num": 133371,
-      "word": "于正五福临门演员阵容",
-      "onboard_time": 1703644174,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 133229,
@@ -689,6 +745,14 @@
       "onboard_time": 1703638895,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126729,
+      "num": 126729,
+      "word": "王家卫的受害者们",
+      "onboard_time": 1703646759,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 124965,
@@ -755,6 +819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118512,
+      "num": 118512,
+      "word": "郭刚堂妻子开庭前失声痛哭",
+      "onboard_time": 1703646999,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118445,
       "num": 118445,
       "word": "C罗登顶年度射手榜",
@@ -785,14 +857,6 @@
       "onboard_time": 1703640811,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112767,
-      "num": 116281,
-      "word": "奶茶 大冰少杯",
-      "onboard_time": 1703644413,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 111270,
@@ -923,6 +987,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78119,
+      "num": 165306,
+      "word": "年轻人的养生血脉被觉醒",
+      "onboard_time": 1703646217,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 74625,
+      "num": 332825,
+      "word": "00后的第一口贵妇养生汤",
+      "onboard_time": 1703645073,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 68370,
       "num": 92593,
       "word": "鸣龙少年 群像",
@@ -952,6 +1032,14 @@
       "word": "小奇迹回国后首次出外场",
       "onboard_time": 1703611041,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47828,
+      "num": 1032360,
+      "word": "2023你被哪些瞬间治愈",
+      "onboard_time": 1703646577,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -993,6 +1081,14 @@
       "onboard_time": 1703623635,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28951,
+      "num": 348721,
+      "word": "vocal被阿胶暖到了",
+      "onboard_time": 1703646036,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 25972,

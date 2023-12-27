@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1703644675077,
+  "endTime": 1703647125472,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1707,6 +1707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 8687807,
+      "num": 8687807,
+      "word": "李善均去世",
+      "onboard_time": 1703643755,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8687096,
       "num": 1462595,
       "word": "李玟",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1674304933,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 7398770,
-      "num": 8648770,
-      "word": "银川烧烤店爆炸事故31人经抢救无效死亡",
-      "onboard_time": 1687398511,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

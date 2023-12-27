@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/12/27 10:37:55
+本榜单时间：2023/01/01 00:23:37 ~ 2023/12/27 11:18:45
 </p>
 </blockquote>
 <p>
@@ -1293,6 +1293,12 @@ TFBOYS演唱会官宣（热度：9361784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E5%8E%BB%E4%B8%96%23" target="weibo">
+李善均去世（热度：8687807）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%23" target="weibo">
 李玟（热度：8687096）
 </a>
@@ -1805,12 +1811,6 @@ TFBOYS演唱会官宣（热度：9361784）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A8%E5%A6%82%E8%84%B1%E5%85%94%E7%9A%84%E9%82%93%E8%B6%85%23" target="weibo">
 动如脱兔的邓超（热度：7420684）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%8531%E4%BA%BA%E7%BB%8F%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E6%AD%BB%E4%BA%A1%23" target="weibo">
-银川烧烤店爆炸事故31人经抢救无效死亡（热度：7398770）
 </a>
 </li>
 
