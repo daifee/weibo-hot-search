@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703676851440,
+  "endTime": 1703680281470,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1517353,
+      "num": 1517353,
+      "word": "唐嫣繁花 妆造颠覆",
+      "onboard_time": 1703671537,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1516626,
       "num": 1516626,
       "word": "我不是土豆 我一米七",
@@ -147,19 +155,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1276936,
+      "num": 1276936,
+      "word": "柯洁 今后不会再发动态",
+      "onboard_time": 1703675914,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1194280,
       "num": 1194280,
       "word": "杨紫进组",
       "onboard_time": 1703655814,
       "rank": 1,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1176436,
-      "num": 1176436,
-      "word": "唐嫣繁花 妆造颠覆",
-      "onboard_time": 1703671537,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -177,6 +185,14 @@
       "onboard_time": 1703653959,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1066757,
+      "num": 1066757,
+      "word": "繁花 继承之战",
+      "onboard_time": 1703678134,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1062444,
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928916,
+      "num": 816277,
+      "word": "繁花开播",
+      "onboard_time": 1703676515,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 870386,
       "num": 870386,
       "word": "邓为前助理被开除原因",
@@ -307,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 710894,
+      "num": 710894,
+      "word": "小鹿爆料 抄袭认可",
+      "onboard_time": 1703676874,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 700565,
       "num": 403973,
       "word": "山区小学女生来例假后写了遗书",
@@ -369,6 +401,14 @@
       "onboard_time": 1703669316,
       "rank": 26,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 633074,
+      "num": 633074,
+      "word": "繁花首映礼",
+      "onboard_time": 1703670335,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 630883,
@@ -451,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544336,
+      "num": 544336,
+      "word": "特斯拉瞒报工厂机器人袭击工人次数",
+      "onboard_time": 1703678617,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 538328,
       "num": 538328,
       "word": "多个经纪公司招聘艺人助理月薪不过万",
@@ -489,14 +537,6 @@
       "onboard_time": 1703634567,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 498693,
-      "num": 498693,
-      "word": "繁花开播",
-      "onboard_time": 1703676515,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 498636,
@@ -561,6 +601,14 @@
       "onboard_time": 1703597975,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463548,
+      "num": 463548,
+      "word": "中共中央印发中国共产党纪律处分条例",
+      "onboard_time": 1703678797,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 450592,
@@ -635,12 +683,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 427491,
+      "num": 539218,
+      "word": "患儿妈妈买被子发现7000元现金报警送回",
+      "onboard_time": 1703676935,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 425331,
       "num": 279932,
       "word": "2岁女童和妈妈洗澡后感染妇科病",
       "onboard_time": 1703654077,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423254,
+      "num": 195380,
+      "word": "繁花 沪语版",
+      "onboard_time": 1703679336,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 417595,
@@ -683,20 +747,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 397798,
-      "num": 397798,
-      "word": "繁花首映礼",
-      "onboard_time": 1703670335,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 396916,
       "num": 968715,
       "word": "妈妈去世3年手机收到爱的童言",
       "onboard_time": 1703647357,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394088,
+      "num": 394088,
+      "word": "人生若如初见 播不播",
+      "onboard_time": 1703676634,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 393392,
@@ -753,6 +817,14 @@
       "onboard_time": 1703663915,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 375905,
+      "num": 375905,
+      "word": "老板 以后不许员工和孩子同时出现",
+      "onboard_time": 1703677473,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 370357,
@@ -819,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324525,
+      "num": 324525,
+      "word": "无畏 被研究透了",
+      "onboard_time": 1703677533,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 323887,
       "num": 323887,
       "word": "Doinb停播超一个月",
@@ -873,14 +953,6 @@
       "onboard_time": 1703650780,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 290643,
-      "num": 379537,
-      "word": "柯洁 今后不会再发动态",
-      "onboard_time": 1703675914,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 288807,
@@ -1067,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241408,
+      "num": 241408,
+      "word": "苏培盛英文名",
+      "onboard_time": 1703677533,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240516,
       "num": 240516,
       "word": "郭艾伦复出",
@@ -1147,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229421,
+      "num": 229421,
+      "word": "母亲谈女童玩热力追踪项目受伤过程",
+      "onboard_time": 1703679696,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227525,
       "num": 227525,
       "word": "难哄 遛人时间轴",
@@ -1179,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225602,
+      "num": 225602,
+      "word": "王者开年版本云梦有灵",
+      "onboard_time": 1703679216,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224319,
       "num": 224319,
       "word": "东方卫视跨年宣了好多演员",
@@ -1201,6 +1297,14 @@
       "onboard_time": 1703675374,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218520,
+      "num": 218520,
+      "word": "白羊座 魅力",
+      "onboard_time": 1703679635,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 215285,
@@ -1323,12 +1427,12 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 205243,
-      "num": 205243,
-      "word": "人生若如初见 播不播",
-      "onboard_time": 1703676634,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 204847,
+      "num": 204847,
+      "word": "iQOO价格",
+      "onboard_time": 1703679336,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 204633,
@@ -1611,6 +1715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173157,
+      "num": 173157,
+      "word": "今年多家Doinb相关公司注销",
+      "onboard_time": 1703677415,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171418,
       "num": 171418,
       "word": "经超 琳姐做饭是世界大战",
@@ -1649,6 +1761,14 @@
       "onboard_time": 1703592874,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165801,
+      "num": 209274,
+      "word": "吴宣仪爆改瑶妹",
+      "onboard_time": 1703676935,
+      "rank": 33,
+      "category": "作品衍生,游戏"
     },
     {
       "raw_hot": 165770,
@@ -1715,6 +1835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160750,
+      "num": 160750,
+      "word": "酸奶界爱马仕能走多远",
+      "onboard_time": 1703679934,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 160223,
       "num": 160223,
       "word": "朱丹不喜欢惊喜的原因",
@@ -1761,6 +1889,14 @@
       "onboard_time": 1703649937,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158089,
+      "num": 158089,
+      "word": "檀健次说相柳得到了喜欢和认可",
+      "onboard_time": 1703679035,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 157768,
@@ -1889,6 +2025,14 @@
       "onboard_time": 1703656954,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140751,
+      "num": 140751,
+      "word": "三大队任敏破碎感",
+      "onboard_time": 1703680175,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 139688,
@@ -2393,6 +2537,14 @@
       "onboard_time": 1703643935,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 97141,
+      "num": 252733,
+      "word": "iQOONeo9双芯战神",
+      "onboard_time": 1703678134,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 96551,
