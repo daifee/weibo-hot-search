@@ -1,0 +1,410 @@
+{
+  "runTime": 1703691247977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1387815,
+        "num": 1387815,
+        "word": "发发 作弊",
+        "onboard_time": 1703680532,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1029124,
+        "num": 1029124,
+        "word": "3块钱的饮料正在集体消失",
+        "onboard_time": 1703683597,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 62516,
+        "num": 1010331,
+        "word": "这条高铁沿途串起9个5A景区",
+        "onboard_time": 1703667575,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996656,
+        "num": 996656,
+        "word": "唐嫣繁花 妆造颠覆",
+        "onboard_time": 1703671537,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 976696,
+        "num": 976696,
+        "word": "全面禁放烟花爆竹是时候终结了",
+        "onboard_time": 1703689359,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810237,
+        "num": 810237,
+        "word": "雷军连续多条微博致敬同行",
+        "onboard_time": 1703685698,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 794742,
+        "num": 794742,
+        "word": "李善均遗书内容不公开",
+        "onboard_time": 1703688997,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704610,
+        "num": 704610,
+        "word": "阿离在等一个叫一诺的人",
+        "onboard_time": 1703687080,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 688040,
+        "num": 688040,
+        "word": "小时代之繁花时代",
+        "onboard_time": 1703680895,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345648,
+        "num": 684714,
+        "word": "柯洁 今后不会再发动态",
+        "onboard_time": 1703675914,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 796841,
+        "num": 684112,
+        "word": "章泽天二胎 双胞胎",
+        "onboard_time": 1703666136,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 754113,
+        "num": 683684,
+        "word": "周海媚为突发心脏病猝死",
+        "onboard_time": 1703674418,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 681528,
+        "num": 681528,
+        "word": "2023最出圈男演员",
+        "onboard_time": 1703686962,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 611882,
+        "num": 611882,
+        "word": "冯小刚 肯定很多人愿等舒淇10年",
+        "onboard_time": 1703689777,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 554510,
+        "num": 554510,
+        "word": "迪丽热巴 StrayKids",
+        "onboard_time": 1703684918,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496541,
+        "num": 496541,
+        "word": "繁花 继承之战",
+        "onboard_time": 1703678134,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339431,
+        "num": 339431,
+        "word": "八旬老人摔倒遭无视高中生毫不犹豫扶起",
+        "onboard_time": 1703688459,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333308,
+        "num": 333308,
+        "word": "订婚强奸案后女方家属想尽快结婚",
+        "onboard_time": 1703681675,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490680,
+        "num": 318325,
+        "word": "繁花开播",
+        "onboard_time": 1703676515,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297471,
+        "num": 297471,
+        "word": "淘宝将支持仅退款",
+        "onboard_time": 1703651860,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 403977,
+        "num": 295611,
+        "word": "何猷君和奚梦瑶结婚后不装了",
+        "onboard_time": 1703690377,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322402,
+        "num": 295215,
+        "word": "繁花 王菲老歌",
+        "onboard_time": 1703682155,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284813,
+        "num": 284813,
+        "word": "2024射手座 自由",
+        "onboard_time": 1703686779,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229358,
+        "num": 229358,
+        "word": "特斯拉瞒报工厂机器人袭击工人次数",
+        "onboard_time": 1703678617,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 216611,
+        "num": 216611,
+        "word": "患儿妈妈买被子发现7000元现金报警送回",
+        "onboard_time": 1703676935,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 274098,
+        "num": 214932,
+        "word": "天降祁媛",
+        "onboard_time": 1703689958,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242351,
+        "num": 212891,
+        "word": "韩国娱乐圈因李善均去世暂停活动",
+        "onboard_time": 1703670214,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266988,
+        "num": 212658,
+        "word": "林一演技",
+        "onboard_time": 1703689236,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209540,
+        "num": 209540,
+        "word": "龙凤胎颜值差距有多大",
+        "onboard_time": 1703686358,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140330,
+        "num": 208203,
+        "word": "女孩头发长虱子老师趁晴天帮其洗头",
+        "onboard_time": 1703668656,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230395,
+        "num": 208064,
+        "word": "难哄 白敬亭章若楠",
+        "onboard_time": 1703661215,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211129,
+        "num": 207913,
+        "word": "邓为前助理劳资纠纷已解决",
+        "onboard_time": 1703689062,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207484,
+        "num": 207484,
+        "word": "吃不下饭是身体在保护你",
+        "onboard_time": 1703666315,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204926,
+        "num": 204926,
+        "word": "YJJ 挂在身边",
+        "onboard_time": 1703689236,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204894,
+        "num": 204894,
+        "word": "繁花 沪语版",
+        "onboard_time": 1703679336,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179702,
+        "num": 179702,
+        "word": "王安宇 哭戏",
+        "onboard_time": 1703671118,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176985,
+        "num": 176985,
+        "word": "天官赐福 官方糖",
+        "onboard_time": 1703681854,
+        "rank": 36,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 166941,
+        "num": 166941,
+        "word": "AG晋级给王铮亮高兴坏了",
+        "onboard_time": 1703690676,
+        "rank": 37,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 153599,
+        "num": 153599,
+        "word": "对眼睛友好的冷知识",
+        "onboard_time": 1703682575,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134789,
+        "num": 146712,
+        "word": "中共中央印发中国共产党纪律处分条例",
+        "onboard_time": 1703678797,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145517,
+        "num": 145517,
+        "word": "白羊座 魅力",
+        "onboard_time": 1703679635,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137188,
+        "num": 137188,
+        "word": "冬天 恋爱助攻",
+        "onboard_time": 1703689178,
+        "rank": 41,
+        "category": "情感,科学科普"
+      },
+      {
+        "raw_hot": 132238,
+        "num": 132238,
+        "word": "小鹿爆料 抄袭认可",
+        "onboard_time": 1703676874,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130693,
+        "num": 130693,
+        "word": "把喜欢的人删了再加回来会发生什么",
+        "onboard_time": 1703670820,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114997,
+        "num": 114997,
+        "word": "9岁女孩2个月剪出清明上河图",
+        "onboard_time": 1703685100,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198539,
+        "num": 114698,
+        "word": "景天为紫萱动手了",
+        "onboard_time": 1703687740,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114222,
+        "num": 114222,
+        "word": "巴西男子与15岁侄女发生关系被妻子阉割",
+        "onboard_time": 1703667395,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110915,
+        "num": 110915,
+        "word": "苏培盛英文名",
+        "onboard_time": 1703677533,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106258,
+        "num": 106258,
+        "word": "景甜短发",
+        "onboard_time": 1703669316,
+        "rank": 48,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 105132,
+        "num": 105132,
+        "word": "Cat 决赛我来啦",
+        "onboard_time": 1703687920,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#以中国式现代化全面推进强国建设#"
+    }
+  }
+}
