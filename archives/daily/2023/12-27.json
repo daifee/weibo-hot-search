@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703683220500,
+  "endTime": 1703684036561,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -163,6 +163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1228780,
+      "num": 1228780,
+      "word": "发发 作弊",
+      "onboard_time": 1703680532,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1194280,
       "num": 1194280,
       "word": "杨紫进组",
@@ -299,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 808049,
-      "num": 808049,
-      "word": "发发 作弊",
-      "onboard_time": 1703680532,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 801586,
       "num": 484309,
       "word": "明星助理工资5000块",
@@ -321,6 +321,14 @@
       "onboard_time": 1703672497,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 781128,
+      "num": 781128,
+      "word": "小时代之繁花时代",
+      "onboard_time": 1703680895,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 769234,
@@ -379,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 689877,
-      "num": 628160,
-      "word": "小时代之繁花时代",
-      "onboard_time": 1703680895,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 683434,
       "num": 683434,
       "word": "他在买和偷之间选择了捐",
@@ -433,6 +433,14 @@
       "onboard_time": 1703678617,
       "rank": 8,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 635552,
+      "num": 635552,
+      "word": "订婚强奸案后女方家属想尽快结婚",
+      "onboard_time": 1703681675,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 633074,
@@ -593,14 +601,6 @@
       "onboard_time": 1703651860,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 493552,
-      "num": 493552,
-      "word": "订婚强奸案后女方家属想尽快结婚",
-      "onboard_time": 1703681675,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 493473,
@@ -891,8 +891,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 362937,
-      "num": 362937,
+      "raw_hot": 365892,
+      "num": 365892,
       "word": "天官赐福 官方糖",
       "onboard_time": 1703681854,
       "rank": 22,
@@ -971,6 +971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 309310,
+      "num": 309310,
+      "word": "男爱豆发型模板",
+      "onboard_time": 1703683056,
+      "rank": 41,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 308849,
       "num": 308849,
       "word": "唐嫣 上海话台词",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1703679635,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 291605,
+      "num": 291605,
+      "word": "舌头下面的小刺是什么",
+      "onboard_time": 1703682213,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 288807,
@@ -1179,14 +1195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253551,
-      "num": 218797,
-      "word": "舌头下面的小刺是什么",
-      "onboard_time": 1703682213,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 251529,
       "num": 251529,
       "word": "阴阳师",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1703657915,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229627,
+      "num": 229627,
+      "word": "对眼睛友好的冷知识",
+      "onboard_time": 1703682575,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227525,
@@ -1579,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202031,
+      "num": 202031,
+      "word": "张杰新歌忍受回音挑战",
+      "onboard_time": 1703683177,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201023,
       "num": 201023,
       "word": "西安限行",
@@ -1667,14 +1691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 194631,
-      "num": 194631,
-      "word": "对眼睛友好的冷知识",
-      "onboard_time": 1703682575,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 194180,
       "num": 194180,
       "word": "仿生食品不宜多吃",
@@ -1747,6 +1763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188365,
+      "num": 188365,
+      "word": "极氪007上市",
+      "onboard_time": 1703683835,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 186715,
       "num": 186715,
       "word": "三大队任敏破碎感",
@@ -1803,6 +1827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174956,
+      "num": 174956,
+      "word": "3块钱的饮料正在集体消失",
+      "onboard_time": 1703683597,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174846,
       "num": 174846,
       "word": "王者年度版本云梦有灵",
@@ -1833,14 +1865,6 @@
       "onboard_time": 1703679934,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 169952,
-      "num": 169952,
-      "word": "男爱豆发型模板",
-      "onboard_time": 1703683056,
-      "rank": 41,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 167188,
@@ -1995,6 +2019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158211,
+      "num": 158211,
+      "word": "非诚勿扰3直播",
+      "onboard_time": 1703683597,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158181,
       "num": 158181,
       "word": "活塞27连败",
@@ -2075,6 +2107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148801,
+      "num": 157112,
+      "word": "极氪智驾放大招",
+      "onboard_time": 1703683895,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 146672,
       "num": 340063,
       "word": "一杯奶茶两代人的沉默",
@@ -2113,6 +2153,14 @@
       "onboard_time": 1703588794,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143218,
+      "num": 143218,
+      "word": "王家卫风格",
+      "onboard_time": 1703684013,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 142954,
@@ -2273,14 +2321,6 @@
       "onboard_time": 1703664155,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 131948,
-      "num": 131948,
-      "word": "张杰新歌忍受回音挑战",
-      "onboard_time": 1703683177,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 131699,

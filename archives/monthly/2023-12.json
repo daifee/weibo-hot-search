@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703683220500,
+  "endTime": 1703684036561,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -5491,6 +5491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1228780,
+      "num": 1228780,
+      "word": "发发 作弊",
+      "onboard_time": 1703680532,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1228606,
       "num": 1228606,
       "word": "甘肃积石山地震致134人遇难",
@@ -9755,14 +9763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 808049,
-      "num": 808049,
-      "word": "发发 作弊",
-      "onboard_time": 1703680532,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 807711,
       "num": 373721,
       "word": "水逆来了 重灾区的星座要小心",
@@ -10265,6 +10265,14 @@
       "onboard_time": 1701576511,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 781128,
+      "num": 781128,
+      "word": "小时代之繁花时代",
+      "onboard_time": 1703680895,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 780939,
@@ -12025,14 +12033,6 @@
       "onboard_time": 1701758497,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 689877,
-      "num": 628160,
-      "word": "小时代之繁花时代",
-      "onboard_time": 1703680895,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 689652,
@@ -25867,6 +25867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365892,
+      "num": 365892,
+      "word": "天官赐福 官方糖",
+      "onboard_time": 1703681854,
+      "rank": 22,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 365837,
       "num": 365837,
       "word": "ZAKER",
@@ -26089,14 +26097,6 @@
       "onboard_time": 1702509624,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 362937,
-      "num": 362937,
-      "word": "天官赐福 官方糖",
-      "onboard_time": 1703681854,
-      "rank": 22,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 362658,
@@ -30523,6 +30523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309310,
+      "num": 309310,
+      "word": "男爱豆发型模板",
+      "onboard_time": 1703683056,
+      "rank": 41,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 309304,
       "num": 273036,
       "word": "莲花楼观感",
@@ -32745,6 +32753,14 @@
       "onboard_time": 1702217860,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 291605,
+      "num": 291605,
+      "word": "舌头下面的小刺是什么",
+      "onboard_time": 1703682213,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 291528,
@@ -37563,14 +37579,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 253551,
-      "num": 218797,
-      "word": "舌头下面的小刺是什么",
-      "onboard_time": 1703682213,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 253549,
       "num": 253549,
       "word": "恋与深空",
@@ -41457,6 +41465,14 @@
       "onboard_time": 1703217754,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229627,
+      "num": 229627,
+      "word": "对眼睛友好的冷知识",
+      "onboard_time": 1703682575,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 229626,
@@ -47723,6 +47739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202031,
+      "num": 202031,
+      "word": "张杰新歌忍受回音挑战",
+      "onboard_time": 1703683177,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202025,
       "num": 202025,
       "word": "Jiejie问Meiko要去哪",
@@ -49891,14 +49915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194631,
-      "num": 194631,
-      "word": "对眼睛友好的冷知识",
-      "onboard_time": 1703682575,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 194608,
       "num": 186727,
       "word": "于适 占用一首歌的时间",
@@ -52009,6 +52025,14 @@
       "onboard_time": 1701407318,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188365,
+      "num": 188365,
+      "word": "极氪007上市",
+      "onboard_time": 1703683835,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 188349,
@@ -55203,6 +55227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174956,
+      "num": 174956,
+      "word": "3块钱的饮料正在集体消失",
+      "onboard_time": 1703683597,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174947,
       "num": 174947,
       "word": "张万森林北星倒是亲啊",
@@ -56417,14 +56449,6 @@
       "onboard_time": 1701873040,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 169952,
-      "num": 169952,
-      "word": "男爱豆发型模板",
-      "onboard_time": 1703683056,
-      "rank": 41,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 169923,
@@ -59443,6 +59467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158211,
+      "num": 158211,
+      "word": "非诚勿扰3直播",
+      "onboard_time": 1703683597,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158181,
       "num": 158181,
       "word": "活塞27连败",
@@ -61675,6 +61707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148801,
+      "num": 157112,
+      "word": "极氪智驾放大招",
+      "onboard_time": 1703683895,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 148702,
       "num": 148702,
       "word": "艺术家对AI的反击开始了",
@@ -63097,6 +63137,14 @@
       "onboard_time": 1703414557,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143218,
+      "num": 143218,
+      "word": "王家卫风格",
+      "onboard_time": 1703684013,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 143176,
@@ -65401,14 +65449,6 @@
       "onboard_time": 1701646769,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131948,
-      "num": 131948,
-      "word": "张杰新歌忍受回音挑战",
-      "onboard_time": 1703683177,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 131904,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1703684036561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1493735,
+        "num": 1493735,
+        "word": "唐嫣繁花 妆造颠覆",
+        "onboard_time": 1703671537,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1228780,
+        "num": 1228780,
+        "word": "发发 作弊",
+        "onboard_time": 1703680532,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54981,
+        "num": 1132360,
+        "word": "我国八纵八横高铁网建成约80%",
+        "onboard_time": 1703663853,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109227,
+        "num": 1109227,
+        "word": "柯洁 今后不会再发动态",
+        "onboard_time": 1703675914,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 781128,
+        "num": 781128,
+        "word": "小时代之繁花时代",
+        "onboard_time": 1703680895,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 635552,
+        "num": 635552,
+        "word": "订婚强奸案后女方家属想尽快结婚",
+        "onboard_time": 1703681675,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598042,
+        "num": 598042,
+        "word": "吃不下饭是身体在保护你",
+        "onboard_time": 1703666315,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 761602,
+        "num": 595803,
+        "word": "繁花 继承之战",
+        "onboard_time": 1703678134,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581102,
+        "num": 581102,
+        "word": "特斯拉瞒报工厂机器人袭击工人次数",
+        "onboard_time": 1703678617,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 537246,
+        "num": 537246,
+        "word": "中共中央印发中国共产党纪律处分条例",
+        "onboard_time": 1703678797,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1383633,
+        "num": 537175,
+        "word": "周海媚为突发心脏病猝死",
+        "onboard_time": 1703674418,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1044622,
+        "num": 519716,
+        "word": "章泽天二胎 双胞胎",
+        "onboard_time": 1703666136,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 721054,
+        "num": 496609,
+        "word": "繁花开播",
+        "onboard_time": 1703676515,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613982,
+        "num": 470492,
+        "word": "韩国娱乐圈因李善均去世暂停活动",
+        "onboard_time": 1703670214,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44375,
+        "num": 451110,
+        "word": "MK檀健次锁了",
+        "onboard_time": 1703646099,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 605597,
+        "num": 437303,
+        "word": "繁花 王菲老歌",
+        "onboard_time": 1703682155,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433048,
+        "num": 433048,
+        "word": "小鹿爆料 抄袭认可",
+        "onboard_time": 1703676874,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412829,
+        "num": 412829,
+        "word": "淘宝将支持仅退款",
+        "onboard_time": 1703651860,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 365892,
+        "num": 365892,
+        "word": "天官赐福 官方糖",
+        "onboard_time": 1703681854,
+        "rank": 18,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 325566,
+        "num": 325566,
+        "word": "患儿妈妈买被子发现7000元现金报警送回",
+        "onboard_time": 1703676935,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 309310,
+        "num": 309310,
+        "word": "男爱豆发型模板",
+        "onboard_time": 1703683056,
+        "rank": 20,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 301942,
+        "num": 301942,
+        "word": "老板 以后不许员工和孩子同时出现",
+        "onboard_time": 1703677473,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291605,
+        "num": 291605,
+        "word": "舌头下面的小刺是什么",
+        "onboard_time": 1703682213,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 271398,
+        "num": 271398,
+        "word": "难哄 白敬亭章若楠",
+        "onboard_time": 1703661215,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259310,
+        "num": 259310,
+        "word": "巴西男子与15岁侄女发生关系被妻子阉割",
+        "onboard_time": 1703667395,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243238,
+        "num": 243238,
+        "word": "纯电轿车之王",
+        "onboard_time": 1703680595,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 239588,
+        "num": 239588,
+        "word": "白羊座 魅力",
+        "onboard_time": 1703679635,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235272,
+        "num": 235272,
+        "word": "母亲谈女童玩热力追踪项目受伤过程",
+        "onboard_time": 1703679696,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229627,
+        "num": 229627,
+        "word": "对眼睛友好的冷知识",
+        "onboard_time": 1703682575,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198255,
+        "num": 222056,
+        "word": "女孩头发长虱子老师趁晴天帮其洗头",
+        "onboard_time": 1703668656,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217618,
+        "num": 217618,
+        "word": "王安宇 哭戏",
+        "onboard_time": 1703671118,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211295,
+        "num": 211295,
+        "word": "苏培盛英文名",
+        "onboard_time": 1703677533,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202031,
+        "num": 202031,
+        "word": "张杰新歌忍受回音挑战",
+        "onboard_time": 1703683177,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196121,
+        "num": 196121,
+        "word": "景甜短发",
+        "onboard_time": 1703669316,
+        "rank": 33,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 192751,
+        "num": 192751,
+        "word": "红果果绿泡泡 寻人启事",
+        "onboard_time": 1703660614,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188365,
+        "num": 188365,
+        "word": "极氪007上市",
+        "onboard_time": 1703683835,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178938,
+        "num": 178938,
+        "word": "把喜欢的人删了再加回来会发生什么",
+        "onboard_time": 1703670820,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174956,
+        "num": 174956,
+        "word": "3块钱的饮料正在集体消失",
+        "onboard_time": 1703683597,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174476,
+        "num": 174476,
+        "word": "AG3比0拿到赛点",
+        "onboard_time": 1703682632,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133356,
+        "num": 163652,
+        "word": "两名临时工离职老板强行送厚衣服告别",
+        "onboard_time": 1703668537,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161215,
+        "num": 161215,
+        "word": "刘亦菲机场贝雷帽",
+        "onboard_time": 1703667395,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158211,
+        "num": 158211,
+        "word": "非诚勿扰3直播",
+        "onboard_time": 1703683597,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148801,
+        "num": 157112,
+        "word": "极氪智驾放大招",
+        "onboard_time": 1703683895,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 156562,
+        "num": 156562,
+        "word": "李善均曾因毒品案件受到要挟恐吓",
+        "onboard_time": 1703675496,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155229,
+        "num": 155229,
+        "word": "黄雅莉晒与王源合照",
+        "onboard_time": 1703672857,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144606,
+        "num": 144606,
+        "word": "人生若如初见 播不播",
+        "onboard_time": 1703676634,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143218,
+        "num": 143218,
+        "word": "王家卫风格",
+        "onboard_time": 1703684013,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134391,
+        "num": 134391,
+        "word": "Hero镜子碎了",
+        "onboard_time": 1703676275,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85574,
+        "num": 133281,
+        "word": "复旦教授称中国退休年龄还是太早",
+        "onboard_time": 1703661995,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80405,
+        "num": 131992,
+        "word": "官方通报因大气污染叫停面条加工",
+        "onboard_time": 1703673340,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以中国式现代化全面推进强国建设#"
+    }
+  }
+}
