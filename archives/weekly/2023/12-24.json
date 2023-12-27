@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703655230967,
+  "endTime": 1703658175467,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -619,6 +619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1194280,
+      "num": 1194280,
+      "word": "杨紫进组",
+      "onboard_time": 1703655814,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1184997,
       "num": 1184997,
       "word": "张杰谢娜跳单案中介公司注销",
@@ -1083,6 +1091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 818371,
+      "num": 818371,
+      "word": "你要公开努力 以便笑死所有人",
+      "onboard_time": 1703654915,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 816524,
       "num": 816524,
       "word": "姐姐与妹妹争吵后将其双手肌腱割断",
@@ -1347,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700565,
+      "num": 403973,
+      "word": "山区小学女生来例假后写了遗书",
+      "onboard_time": 1703651138,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700133,
       "num": 700133,
       "word": "金智媛睡六个小时被说瞌睡虫",
@@ -1428,7 +1452,7 @@
     },
     {
       "raw_hot": 678115,
-      "num": 422856,
+      "num": 490209,
       "word": "王安宇 克罗地亚旅拍",
       "onboard_time": 1703651679,
       "rank": 44,
@@ -1595,14 +1619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 630011,
-      "num": 403973,
-      "word": "山区小学女生来例假后写了遗书",
-      "onboard_time": 1703651138,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 629889,
       "num": 629889,
       "word": "SM真的什么都保存起来了",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1703465735,
       "rank": 11,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 624160,
+      "num": 624160,
+      "word": "赵昭仪被吓哭",
+      "onboard_time": 1703655574,
+      "rank": 5,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 620376,
@@ -1681,6 +1705,14 @@
       "onboard_time": 1703388934,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 596457,
+      "num": 596457,
+      "word": "全面禁燃烟花爆竹不合法",
+      "onboard_time": 1703653959,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594182,
@@ -2187,14 +2219,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 490294,
-      "num": 490294,
-      "word": "全面禁燃烟花爆竹不合法",
-      "onboard_time": 1703653959,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 489462,
       "num": 489462,
       "word": "特斯拉失控撞山致5人受伤",
@@ -2603,6 +2627,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 425331,
+      "num": 245593,
+      "word": "2岁女童和妈妈洗澡后感染妇科病",
+      "onboard_time": 1703654077,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422580,
       "num": 422580,
       "word": "同学你好这里不能写字",
@@ -2721,14 +2753,6 @@
       "onboard_time": 1703386590,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409421,
-      "num": 223861,
-      "word": "2岁女童和妈妈洗澡后感染妇科病",
-      "onboard_time": 1703654077,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407992,
@@ -3016,6 +3040,14 @@
       "word": "胡先煦不让赵昭仪喝冰的",
       "onboard_time": 1703606249,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 366778,
+      "num": 366778,
+      "word": "何猷君和奚梦瑶为睡姿吵架",
+      "onboard_time": 1703655274,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -3659,6 +3691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293092,
+      "num": 293092,
+      "word": "迪丽热巴开车演我考驾照",
+      "onboard_time": 1703656714,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290856,
       "num": 290856,
       "word": "别问雪多大 动物园里就剩它了",
@@ -3745,6 +3785,14 @@
       "onboard_time": 1703571933,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280999,
+      "num": 280999,
+      "word": "花少5冰岛一日导游制",
+      "onboard_time": 1703655514,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 280998,
@@ -4659,6 +4707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225141,
+      "num": 225141,
+      "word": "胡歌唐嫣新剧排骨年糕吃五年",
+      "onboard_time": 1703655156,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224955,
       "num": 224955,
       "word": "江苏卫视跨年第三波阵容官宣",
@@ -4865,6 +4921,14 @@
       "onboard_time": 1703404411,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215319,
+      "num": 215319,
+      "word": "果郡王和甄嬛原剧本有吻戏",
+      "onboard_time": 1703657432,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 215217,
@@ -5299,6 +5363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201430,
+      "num": 201430,
+      "word": "今年逛商场只敢去负一",
+      "onboard_time": 1703656115,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201319,
       "num": 201319,
       "word": "秦海璐胡先煦信任危机",
@@ -5345,6 +5417,14 @@
       "onboard_time": 1703383894,
       "rank": 26,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 200337,
+      "num": 182732,
+      "word": "Alex2024星座年运",
+      "onboard_time": 1703657557,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 200304,
@@ -6827,12 +6907,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 160843,
-      "num": 160843,
-      "word": "你要公开努力 以便笑死所有人",
-      "onboard_time": 1703654915,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 160223,
+      "num": 160223,
+      "word": "朱丹不喜欢惊喜的原因",
+      "onboard_time": 1703655095,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 159998,
@@ -7241,6 +7321,14 @@
       "onboard_time": 1703405133,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152647,
+      "num": 152647,
+      "word": "秦岚迪丽热巴拍照一秒变脸",
+      "onboard_time": 1703657915,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 152336,
@@ -7673,6 +7761,14 @@
       "onboard_time": 1703562454,
       "rank": 42,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 141213,
+      "num": 251029,
+      "word": "阮梅声里寻江南",
+      "onboard_time": 1703656954,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 141128,
@@ -8147,14 +8243,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 130500,
-      "num": 130500,
-      "word": "朱丹不喜欢惊喜的原因",
-      "onboard_time": 1703655095,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130194,
       "num": 130194,
       "word": "请假条堪比当代华佗",
@@ -8419,6 +8507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124823,
+      "num": 124823,
+      "word": "林北星 无人知晓的爱",
+      "onboard_time": 1703657196,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124761,
       "num": 124761,
       "word": "莫言写书有多快",
@@ -8457,6 +8553,14 @@
       "onboard_time": 1703397631,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123545,
+      "num": 123545,
+      "word": "贾玲 不能抢刘德华",
+      "onboard_time": 1703658032,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 123437,
@@ -8547,6 +8651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121401,
+      "num": 121401,
+      "word": "莫兰特31分",
+      "onboard_time": 1703657494,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121338,
       "num": 122446,
       "word": "9个女性相关冷知识",
@@ -8569,14 +8681,6 @@
       "onboard_time": 1703560233,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 120924,
-      "num": 120924,
-      "word": "胡歌唐嫣新剧排骨年糕吃五年",
-      "onboard_time": 1703655156,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 120877,
@@ -8913,6 +9017,14 @@
       "onboard_time": 1703384671,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112839,
+      "num": 112839,
+      "word": "东北人玩南方小土豆",
+      "onboard_time": 1703656832,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 112250,

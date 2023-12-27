@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703655230967,
+  "endTime": 1703658175467,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -107,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1194280,
+      "num": 1194280,
+      "word": "杨紫进组",
+      "onboard_time": 1703655814,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1151180,
       "num": 488590,
       "word": "家长被通知接走发烧孩子后大怒",
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 818371,
+      "num": 818371,
+      "word": "你要公开努力 以便笑死所有人",
+      "onboard_time": 1703654915,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 809323,
       "num": 809323,
       "word": "失孤原型案人贩子1人死缓1人无期",
@@ -163,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 700565,
+      "num": 403973,
+      "word": "山区小学女生来例假后写了遗书",
+      "onboard_time": 1703651138,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 696356,
       "num": 696356,
       "word": "胡歌对接否认资助女孩成了中科院博士",
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 678115,
-      "num": 422856,
+      "num": 490209,
       "word": "王安宇 克罗地亚旅拍",
       "onboard_time": 1703651679,
       "rank": 44,
@@ -195,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 630011,
-      "num": 403973,
-      "word": "山区小学女生来例假后写了遗书",
-      "onboard_time": 1703651138,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 624160,
+      "num": 624160,
+      "word": "赵昭仪被吓哭",
+      "onboard_time": 1703655574,
+      "rank": 5,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 612832,
@@ -209,6 +233,14 @@
       "onboard_time": 1703644174,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 596457,
+      "num": 596457,
+      "word": "全面禁燃烟花爆竹不合法",
+      "onboard_time": 1703653959,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594182,
@@ -267,14 +299,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 490294,
-      "num": 490294,
-      "word": "全面禁燃烟花爆竹不合法",
-      "onboard_time": 1703653959,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 486255,
       "num": 486255,
       "word": "奶茶 大冰少杯",
@@ -323,6 +347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 425331,
+      "num": 245593,
+      "word": "2岁女童和妈妈洗澡后感染妇科病",
+      "onboard_time": 1703654077,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417595,
       "num": 417595,
       "word": "腿不直原来才是正常的",
@@ -345,14 +377,6 @@
       "onboard_time": 1703633127,
       "rank": 31,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 409421,
-      "num": 223861,
-      "word": "2岁女童和妈妈洗澡后感染妇科病",
-      "onboard_time": 1703654077,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407992,
@@ -400,6 +424,14 @@
       "word": "胡先煦不让赵昭仪喝冰的",
       "onboard_time": 1703606249,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 366778,
+      "num": 366778,
+      "word": "何猷君和奚梦瑶为睡姿吵架",
+      "onboard_time": 1703655274,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -467,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 293092,
+      "num": 293092,
+      "word": "迪丽热巴开车演我考驾照",
+      "onboard_time": 1703656714,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288807,
       "num": 288807,
       "word": "香港演员黎淑贤去世",
@@ -505,6 +545,14 @@
       "onboard_time": 1703639314,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 280999,
+      "num": 280999,
+      "word": "花少5冰岛一日导游制",
+      "onboard_time": 1703655514,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 279269,
@@ -587,6 +635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 225141,
+      "num": 225141,
+      "word": "胡歌唐嫣新剧排骨年糕吃五年",
+      "onboard_time": 1703655156,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224319,
       "num": 224319,
       "word": "东方卫视跨年宣了好多演员",
@@ -609,6 +665,14 @@
       "onboard_time": 1703647357,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215319,
+      "num": 215319,
+      "word": "果郡王和甄嬛原剧本有吻戏",
+      "onboard_time": 1703657432,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 214709,
@@ -723,12 +787,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201430,
+      "num": 201430,
+      "word": "今年逛商场只敢去负一",
+      "onboard_time": 1703656115,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201023,
       "num": 201023,
       "word": "西安限行",
       "onboard_time": 1703633907,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200337,
+      "num": 182732,
+      "word": "Alex2024星座年运",
+      "onboard_time": 1703657557,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 199478,
@@ -899,12 +979,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 160843,
-      "num": 160843,
-      "word": "你要公开努力 以便笑死所有人",
-      "onboard_time": 1703654915,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 160223,
+      "num": 160223,
+      "word": "朱丹不喜欢惊喜的原因",
+      "onboard_time": 1703655095,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 159432,
@@ -995,6 +1075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152647,
+      "num": 152647,
+      "word": "秦岚迪丽热巴拍照一秒变脸",
+      "onboard_time": 1703657915,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146672,
       "num": 340063,
       "word": "一杯奶茶两代人的沉默",
@@ -1033,6 +1121,14 @@
       "onboard_time": 1703601877,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141213,
+      "num": 251029,
+      "word": "阮梅声里寻江南",
+      "onboard_time": 1703656954,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 139688,
@@ -1099,12 +1195,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 130500,
-      "num": 130500,
-      "word": "朱丹不喜欢惊喜的原因",
-      "onboard_time": 1703655095,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 131699,
+      "num": 131699,
+      "word": "2024考证时间表",
+      "onboard_time": 1703656654,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 129801,
@@ -1147,6 +1243,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124823,
+      "num": 124823,
+      "word": "林北星 无人知晓的爱",
+      "onboard_time": 1703657196,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 123545,
+      "num": 123545,
+      "word": "贾玲 不能抢刘德华",
+      "onboard_time": 1703658032,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122143,
       "num": 122143,
       "word": "迪丽热巴烈艳红唇妆",
@@ -1155,12 +1267,12 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 120924,
-      "num": 120924,
-      "word": "胡歌唐嫣新剧排骨年糕吃五年",
-      "onboard_time": 1703655156,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 121401,
+      "num": 121401,
+      "word": "莫兰特31分",
+      "onboard_time": 1703657494,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 120877,
@@ -1265,6 +1377,14 @@
       "onboard_time": 1703640811,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112839,
+      "num": 112839,
+      "word": "东北人玩南方小土豆",
+      "onboard_time": 1703656832,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 111270,
