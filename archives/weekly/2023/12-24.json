@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703633653600,
+  "endTime": 1703639602518,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -145,6 +145,14 @@
       "onboard_time": 1703588673,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2406165,
+      "num": 2406165,
+      "word": "房东举报诡异绿光获重大奖励",
+      "onboard_time": 1703637275,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2344608,
@@ -395,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1483149,
+      "num": 1483149,
+      "word": "我不是土豆 我一米七",
+      "onboard_time": 1703635171,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1465694,
       "num": 1106976,
       "word": "订婚强奸案后女方家属想尽快结婚",
@@ -441,6 +457,14 @@
       "onboard_time": 1703584955,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1326880,
+      "num": 1326880,
+      "word": "29岁女儿常吃外卖爸爸送自制预制菜",
+      "onboard_time": 1703631981,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1321934,
@@ -577,6 +601,14 @@
       "onboard_time": 1703426199,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1122426,
+      "num": 1122426,
+      "word": "非得上那个死班啊",
+      "onboard_time": 1703637634,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 1113916,
@@ -1211,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 714467,
+      "num": 714467,
+      "word": "邓为前助理被开除原因",
+      "onboard_time": 1703638355,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713749,
       "num": 703017,
       "word": "四川多名医护人员集体爬窗讨薪",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1703492074,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 696356,
+      "num": 696356,
+      "word": "胡歌对接否认资助女孩成了中科院博士",
+      "onboard_time": 1703633966,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 695852,
@@ -1433,6 +1481,14 @@
       "onboard_time": 1703572415,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 630883,
+      "num": 630883,
+      "word": "卫健委否认医护集体跳楼",
+      "onboard_time": 1703632764,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 629889,
@@ -1915,6 +1971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 501273,
+      "num": 501273,
+      "word": "周一围 我看见了她的失落",
+      "onboard_time": 1703634567,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 500983,
       "num": 500983,
       "word": "你一共经历了7434次精神内耗",
@@ -2259,6 +2323,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 447510,
+      "num": 447510,
+      "word": "电费刺客",
+      "onboard_time": 1703632702,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447491,
       "num": 447491,
       "word": "吉林发现被东北虎咬死的东北豹",
@@ -2425,6 +2497,14 @@
       "onboard_time": 1703578236,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 412685,
+      "num": 412685,
+      "word": "帕梅拉 麻辣烫yyds",
+      "onboard_time": 1703633127,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 411972,
@@ -2617,6 +2697,14 @@
       "onboard_time": 1703429619,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 379575,
+      "num": 379575,
+      "word": "高校内湖捞3000斤鱼直送食堂",
+      "onboard_time": 1703636432,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379071,
@@ -3323,14 +3411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 288356,
-      "num": 288356,
-      "word": "29岁女儿常吃外卖爸爸送自制预制菜",
-      "onboard_time": 1703631981,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 287625,
       "num": 287625,
       "word": "变成小时候觉得冷漠的姐姐了",
@@ -3979,6 +4059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240533,
+      "num": 240533,
+      "word": "9点后吃早饭患上糖尿病的概率更高",
+      "onboard_time": 1703638895,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 240052,
       "num": 240052,
       "word": "陆虎冻的嘴唇粘麦克风上了",
@@ -4515,6 +4603,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 213318,
+      "num": 213318,
+      "word": "孙怡张晚意是在演他追她逃吗",
+      "onboard_time": 1703638176,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213127,
       "num": 213127,
       "word": "王一博新歌歌词",
@@ -4691,6 +4787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206031,
+      "num": 206031,
+      "word": "葡萄干 图书馆官方零食",
+      "onboard_time": 1703634268,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 206015,
       "num": 206015,
       "word": "谢可寅黄子弘凡主持",
@@ -4779,6 +4883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203252,
+      "num": 203252,
+      "word": "谢娜在线关心张含韵感情问题",
+      "onboard_time": 1703638233,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202620,
       "num": 202620,
       "word": "陈卓璇英文",
@@ -4817,6 +4929,14 @@
       "onboard_time": 1703571095,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201023,
+      "num": 201023,
+      "word": "西安限行",
+      "onboard_time": 1703633907,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200943,
@@ -4905,6 +5025,14 @@
       "onboard_time": 1703583814,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 198592,
+      "num": 198592,
+      "word": "跨年晚会 神仙打架",
+      "onboard_time": 1703636674,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 198496,
@@ -5179,6 +5307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192268,
+      "num": 192268,
+      "word": "好友替患癌去世老人还近四万元债务",
+      "onboard_time": 1703636611,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192116,
       "num": 192116,
       "word": "黄子弘凡 小雪人",
@@ -5209,6 +5345,14 @@
       "onboard_time": 1703587473,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191048,
+      "num": 191048,
+      "word": "亲情是柔软的也是坚韧的",
+      "onboard_time": 1703639431,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 190796,
@@ -5401,6 +5545,14 @@
       "onboard_time": 1703602776,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 184462,
+      "num": 184462,
+      "word": "自制预制菜",
+      "onboard_time": 1703639314,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 184265,
@@ -5875,14 +6027,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 170762,
-      "num": 170762,
-      "word": "电费刺客",
-      "onboard_time": 1703632702,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169785,
       "num": 169785,
       "word": "李燃发现雷鸣秘密",
@@ -6041,14 +6185,6 @@
       "onboard_time": 1703499335,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165300,
-      "num": 165300,
-      "word": "卫健委否认医护集体跳楼",
-      "onboard_time": 1703632764,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165265,
@@ -6523,12 +6659,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 153862,
+      "num": 153862,
+      "word": "何猷君王彦霖 人体挂件",
+      "onboard_time": 1703636674,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153706,
       "num": 153706,
       "word": "檀健次卷王的自我修养",
       "onboard_time": 1703485713,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153597,
+      "num": 153597,
+      "word": "金莎说孙丞潇是她的人生礼物",
+      "onboard_time": 1703633304,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153469,
@@ -6993,6 +7145,14 @@
       "onboard_time": 1703375544,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140977,
+      "num": 140977,
+      "word": "新年壁纸",
+      "onboard_time": 1703639257,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 140968,
@@ -7571,6 +7731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126986,
+      "num": 126986,
+      "word": "当你在美国找工作时",
+      "onboard_time": 1703638895,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126883,
       "num": 126883,
       "word": "雷鸣十一班雨中决裂",
@@ -7859,6 +8027,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 118687,
+      "num": 118687,
+      "word": "小老虎出现在摄像机镜头前",
+      "onboard_time": 1703634268,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118511,
       "num": 118511,
       "word": "萌兰眼疾手快接笋笋",
@@ -7955,20 +8131,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 116115,
-      "num": 116115,
-      "word": "金莎说孙丞潇是她的人生礼物",
-      "onboard_time": 1703633304,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 115599,
       "num": 115599,
       "word": "张新成回应为什么客串三大队",
       "onboard_time": 1703400931,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115578,
+      "num": 115578,
+      "word": "汽车扎进冰河村民砸窗救出1大3小",
+      "onboard_time": 1703638176,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 115330,
@@ -7985,14 +8161,6 @@
       "onboard_time": 1703517994,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115206,
-      "num": 115206,
-      "word": "帕梅拉 麻辣烫yyds",
-      "onboard_time": 1703633127,
-      "rank": 31,
-      "category": "运动健身"
     },
     {
       "raw_hot": 115020,
@@ -8243,6 +8411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 101668,
+      "num": 160902,
+      "word": "一杯奶茶两代人的沉默",
+      "onboard_time": 1703638955,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101645,
       "num": 101645,
       "word": "业内人士称暴雪国服回归正逐步加快",
@@ -8361,6 +8537,14 @@
       "onboard_time": 1703548829,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 93205,
+      "num": 1354105,
+      "word": "三条高铁今日开通",
+      "onboard_time": 1703594735,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91935,
@@ -8633,14 +8817,6 @@
       "onboard_time": 1703522544,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59868,
-      "num": 905907,
-      "word": "三条高铁今日开通",
-      "onboard_time": 1703594735,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55340,
