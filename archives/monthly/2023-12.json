@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703781496288,
+  "endTime": 1703783720587,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -72187,6 +72187,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 98699,
+      "num": 87221,
+      "word": "太把奢侈品当成奢侈品",
+      "onboard_time": 1703781445,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98694,
       "num": 117881,
       "word": "超大芋泥锅",
@@ -75219,6 +75227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47142,
+      "num": 48520,
+      "word": "新疆是北欧平替吗",
+      "onboard_time": 1703782644,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 46872,
       "num": 46872,
       "word": "瞒天过海 看不见的客人",
@@ -75513,14 +75529,6 @@
       "onboard_time": 1702720837,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 42287,
-      "num": 77170,
-      "word": "太把奢侈品当成奢侈品",
-      "onboard_time": 1703781445,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 42246,

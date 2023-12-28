@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703781496288,
+  "endTime": 1703783720587,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -13211,6 +13211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 98699,
+      "num": 87221,
+      "word": "太把奢侈品当成奢侈品",
+      "onboard_time": 1703781445,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98540,
       "num": 98540,
       "word": "湖人vs雷霆",
@@ -13915,6 +13923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47142,
+      "num": 48520,
+      "word": "新疆是北欧平替吗",
+      "onboard_time": 1703782644,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 46745,
       "num": 247804,
       "word": "问界M9首搭华为最强ARHUD",
@@ -13985,14 +14001,6 @@
       "onboard_time": 1703560953,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42287,
-      "num": 77170,
-      "word": "太把奢侈品当成奢侈品",
-      "onboard_time": 1703781445,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 42206,
