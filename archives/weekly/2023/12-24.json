@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703748834123,
+  "endTime": 1703751720459,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -193,6 +193,14 @@
       "onboard_time": 1703646577,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2427889,
+      "num": 2427889,
+      "word": "年终奖 十三薪",
+      "onboard_time": 1703749052,
+      "rank": 0,
+      "category": "科学科普"
     },
     {
       "raw_hot": 2344608,
@@ -1019,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1026495,
+      "num": 1026495,
+      "word": "王一博加入朵拉头宇宙",
+      "onboard_time": 1703748513,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1022536,
       "num": 477267,
       "word": "平安夜",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1703505696,
       "rank": 3,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 877176,
+      "num": 877176,
+      "word": "小米汽车颜值",
+      "onboard_time": 1703750554,
+      "rank": 6,
+      "category": "汽车"
     },
     {
       "raw_hot": 874182,
@@ -2267,6 +2291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 592235,
+      "num": 642510,
+      "word": "小米集团股价转跌",
+      "onboard_time": 1703750193,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 591735,
       "num": 591735,
       "word": "杭州女子刷视频发现老公另有2妻3娃",
@@ -2409,6 +2441,14 @@
       "onboard_time": 1703550029,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 571167,
+      "num": 571167,
+      "word": "雷军想让苹果用户也开小米汽车",
+      "onboard_time": 1703749412,
+      "rank": 12,
+      "category": "汽车,数码"
     },
     {
       "raw_hot": 570319,
@@ -3627,6 +3667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402526,
+      "num": 402526,
+      "word": "孙怡的大衣T台",
+      "onboard_time": 1703749292,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401970,
       "num": 401970,
       "word": "Jennie成立个人厂牌",
@@ -3737,6 +3785,14 @@
       "onboard_time": 1703587893,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 391976,
+      "num": 391976,
+      "word": "加拿大新规要求男厕也备卫生巾",
+      "onboard_time": 1703739814,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391143,
@@ -4169,14 +4225,6 @@
       "onboard_time": 1703419835,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 338876,
-      "num": 284311,
-      "word": "加拿大新规要求男厕也备卫生巾",
-      "onboard_time": 1703739814,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338536,
@@ -5035,6 +5083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 277189,
+      "num": 277189,
+      "word": "田嘉瑞的眉毛",
+      "onboard_time": 1703749652,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276773,
       "num": 276773,
       "word": "洗牙是智商税吗",
@@ -5305,6 +5361,14 @@
       "onboard_time": 1703348732,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260417,
+      "num": 260417,
+      "word": "买折叠手机的人后悔了吗",
+      "onboard_time": 1703746710,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 260352,
@@ -6683,6 +6747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208339,
+      "num": 208339,
+      "word": "二笔到底是谁在过",
+      "onboard_time": 1703750193,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 208287,
       "num": 208287,
       "word": "王一博私下酷爱电影",
@@ -7003,14 +7075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202005,
-      "num": 202005,
-      "word": "王一博加入朵拉头宇宙",
-      "onboard_time": 1703748513,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201763,
       "num": 990546,
       "word": "女孩给陌生猫咪送暖宝宝取暖",
@@ -7041,6 +7105,14 @@
       "onboard_time": 1703512775,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200739,
+      "num": 200739,
+      "word": "卫健委发布元旦健康提示",
+      "onboard_time": 1703749473,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200501,
@@ -7777,6 +7849,14 @@
       "onboard_time": 1703571818,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 186631,
+      "num": 186631,
+      "word": "恋爱内存",
+      "onboard_time": 1703750614,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 186561,
@@ -8985,14 +9065,6 @@
       "onboard_time": 1703681557,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160016,
-      "num": 160016,
-      "word": "买折叠手机的人后悔了吗",
-      "onboard_time": 1703746710,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 159998,
@@ -10435,6 +10507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 132636,
+      "num": 132636,
+      "word": "陈梦日常训练记",
+      "onboard_time": 1703751213,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132570,
       "num": 132570,
       "word": "一诺孙尚香四杀",
@@ -10875,6 +10955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125394,
+      "num": 125394,
+      "word": "小狗发自拍了",
+      "onboard_time": 1703751693,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125297,
       "num": 125297,
       "word": "赵今麦粉紫细闪眼妆",
@@ -11243,6 +11331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118451,
+      "num": 118451,
+      "word": "金靖韩系妆容教程",
+      "onboard_time": 1703751513,
+      "rank": 45,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 118445,
       "num": 118445,
       "word": "C罗登顶年度射手榜",
@@ -11273,6 +11369,14 @@
       "onboard_time": 1703330318,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118269,
+      "num": 118269,
+      "word": "赵露思2024想带来更多好作品",
+      "onboard_time": 1703750433,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 118219,
@@ -11417,6 +11521,14 @@
       "onboard_time": 1703746953,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 115187,
+      "num": 115187,
+      "word": "企鹅的两种赶路方式",
+      "onboard_time": 1703751396,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 115020,
@@ -11617,6 +11729,14 @@
       "onboard_time": 1703398412,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110258,
+      "num": 110258,
+      "word": "王心凌要迈向四川话五级",
+      "onboard_time": 1703751693,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 110257,
