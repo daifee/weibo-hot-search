@@ -1,7 +1,15 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703752462685,
+  "endTime": 1703755038031,
   "band_list": [
+    {
+      "raw_hot": 7599565,
+      "num": 7599565,
+      "word": "小米汽车价格",
+      "onboard_time": 1703745873,
+      "rank": 1,
+      "category": "汽车"
+    },
     {
       "raw_hot": 2587376,
       "num": 2587376,
@@ -59,12 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1573322,
-      "num": 1573322,
-      "word": "小米汽车价格",
-      "onboard_time": 1703745873,
-      "rank": 1,
+      "raw_hot": 1668063,
+      "num": 1668063,
+      "word": "小米汽车颜值",
+      "onboard_time": 1703750554,
+      "rank": 6,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1545577,
+      "num": 1545577,
+      "word": "姜涛全球最帅面孔第三",
+      "onboard_time": 1703753977,
+      "rank": 4,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1341304,
@@ -83,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1267903,
+      "num": 1267903,
+      "word": "小米汽车发布会",
+      "onboard_time": 1703743654,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1162795,
       "num": 1162795,
       "word": "上海杀妻欲藏尸冰柜案二审维持死刑",
@@ -91,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1119709,
-      "num": 1119709,
-      "word": "小米汽车发布会",
-      "onboard_time": 1703743654,
-      "rank": 4,
-      "category": "汽车"
+      "raw_hot": 1130142,
+      "num": 1130142,
+      "word": "19.9交个朋友",
+      "onboard_time": 1703752234,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 1099405,
@@ -147,14 +171,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 903960,
-      "num": 903960,
-      "word": "小米汽车颜值",
-      "onboard_time": 1703750554,
-      "rank": 6,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 851479,
       "num": 851479,
       "word": "繁花里的papi酱",
@@ -185,6 +201,14 @@
       "onboard_time": 1703746231,
       "rank": 8,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 775070,
+      "num": 775070,
+      "word": "员工离婚未主动报备遭开除",
+      "onboard_time": 1703753196,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 767029,
@@ -235,6 +259,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 639863,
+      "num": 639863,
+      "word": "李善均家属不愿尸检",
+      "onboard_time": 1703753977,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 615999,
+      "num": 615999,
+      "word": "小米汽车 保时捷",
+      "onboard_time": 1703751934,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 615742,
       "num": 615742,
       "word": "发发 作弊",
@@ -252,7 +292,7 @@
     },
     {
       "raw_hot": 598338,
-      "num": 642510,
+      "num": 716904,
       "word": "小米集团股价转跌",
       "onboard_time": 1703750193,
       "rank": 9,
@@ -523,12 +563,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371816,
-      "num": 237875,
+      "raw_hot": 378646,
+      "num": 378646,
       "word": "雷军称小米从小就是被卷大的",
       "onboard_time": 1703752234,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 373846,
+      "num": 373846,
+      "word": "李宏毅工作室严正声明",
+      "onboard_time": 1703751874,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 371437,
@@ -537,6 +585,14 @@
       "onboard_time": 1703737834,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 364459,
+      "num": 364459,
+      "word": "学者评繁花前四集",
+      "onboard_time": 1703753435,
+      "rank": 18,
+      "category": "剧集,读书作家"
     },
     {
       "raw_hot": 364162,
@@ -667,14 +723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302603,
-      "num": 302603,
-      "word": "李宏毅工作室严正声明",
-      "onboard_time": 1703751874,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 289507,
       "num": 289507,
       "word": "雷军",
@@ -747,6 +795,14 @@
       "category": "社会新闻,综艺"
     },
     {
+      "raw_hot": 269682,
+      "num": 213128,
+      "word": "花少这段味儿太大了",
+      "onboard_time": 1703754753,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268734,
       "num": 268734,
       "word": "檀健次 病娇感",
@@ -779,20 +835,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 254150,
+      "num": 254150,
+      "word": "b站年度报告",
+      "onboard_time": 1703753555,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 253020,
       "num": 253020,
       "word": "二笔到底是谁在过",
       "onboard_time": 1703750193,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 251992,
-      "num": 251992,
-      "word": "小米汽车 保时捷",
-      "onboard_time": 1703751934,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 250044,
@@ -875,6 +931,14 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 228872,
+      "num": 228872,
+      "word": "小狗发自拍了",
+      "onboard_time": 1703751693,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228358,
       "num": 228358,
       "word": "繁花",
@@ -889,14 +953,6 @@
       "onboard_time": 1703736511,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223444,
-      "num": 223444,
-      "word": "小狗发自拍了",
-      "onboard_time": 1703751693,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 220285,
@@ -953,6 +1009,14 @@
       "onboard_time": 1703748031,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207657,
+      "num": 207657,
+      "word": "林医生 杜海涛99%会反弹",
+      "onboard_time": 1703754753,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 206496,
@@ -1048,6 +1112,14 @@
       "word": "天降祁媛",
       "onboard_time": 1703689958,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187081,
+      "num": 187081,
+      "word": "唐嫣复刻汪小姐探头",
+      "onboard_time": 1703752891,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1275,6 +1347,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151332,
+      "num": 151332,
+      "word": "A股全线放量大涨",
+      "onboard_time": 1703754693,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 150891,
+      "num": 150891,
+      "word": "喜提子涵妈妈的称呼",
+      "onboard_time": 1703753435,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147780,
       "num": 147780,
       "word": "大雾",
@@ -1305,14 +1393,6 @@
       "onboard_time": 1703727691,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146018,
-      "num": 146018,
-      "word": "19.9交个朋友",
-      "onboard_time": 1703752234,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 145340,
@@ -1355,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141077,
+      "num": 149926,
+      "word": "2024元旦假期天气地图",
+      "onboard_time": 1703754815,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139172,
       "num": 139172,
       "word": "韩国娱乐圈因李善均去世暂停活动",
@@ -1369,6 +1457,22 @@
       "onboard_time": 1703720306,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134013,
+      "num": 134013,
+      "word": "亚冠抽签",
+      "onboard_time": 1703754875,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133353,
+      "num": 133353,
+      "word": "华姝你糊涂啊",
+      "onboard_time": 1703752714,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 133223,
@@ -1401,6 +1505,14 @@
       "onboard_time": 1703725534,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 130413,
+      "num": 130413,
+      "word": "小米平板上车",
+      "onboard_time": 1703752654,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 129805,
@@ -1876,7 +1988,7 @@
     },
     {
       "raw_hot": 24728,
-      "num": 1275187,
+      "num": 1674805,
       "word": "2023那些对于热爱的回答",
       "onboard_time": 1703722713,
       "rank": 2,

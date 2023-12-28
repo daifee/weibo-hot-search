@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1703752462685,
+  "endTime": 1703755038031,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -2315,6 +2315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 7599565,
+      "num": 7599565,
+      "word": "小米汽车价格",
+      "onboard_time": 1703745873,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 7578605,
       "num": 7578605,
       "word": "玉骨遥今日开播",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1698884075,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 7420684,
-      "num": 2162913,
-      "word": "动如脱兔的邓超",
-      "onboard_time": 1674304933,
-      "rank": 10,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
