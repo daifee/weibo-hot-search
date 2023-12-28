@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/29 00:22:15 ~ 2023/12/29 05:34:14
+本榜单时间：2023/12/29 00:22:15 ~ 2023/12/29 06:16:35
 </p>
 </blockquote>
 <p>
@@ -171,6 +171,12 @@ A股久违大涨的原因找到了（热度：202926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A5%B3%E6%96%B9%E7%A7%B0DNA%E4%B9%9F%E4%B8%8D%E6%98%AF100%25%E5%87%86%E7%A1%AE%23" target="weibo">
+三孩非亲生案女方称DNA也不是100%准确（热度：160211）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E8%80%85%E8%AF%84%E7%B9%81%E8%8A%B1%E5%89%8D%E5%9B%9B%E9%9B%86%23" target="weibo">
 学者评繁花前四集（热度：148217）
 </a>
@@ -215,12 +221,6 @@ Doinb ip上海（热度：129519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A3%E9%BE%99%E5%B0%91%E5%B9%B4%20%E5%8D%81%E4%B8%80%E7%8F%AD%E6%8B%9B%E7%94%9F%E5%A4%A7%E5%B1%8F%23" target="weibo">
 鸣龙少年 十一班招生大屏（热度：105990）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A5%B3%E6%96%B9%E7%A7%B0DNA%E4%B9%9F%E4%B8%8D%E6%98%AF100%25%E5%87%86%E7%A1%AE%23" target="weibo">
-三孩非亲生案女方称DNA也不是100%准确（热度：105914）
 </a>
 </li>
 
@@ -327,6 +327,12 @@ papi酱 向电影市场道歉（热度：79936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%85%E9%80%80%E6%AC%BE%E4%BD%95%E4%BB%A5%E6%88%90%E5%A4%B4%E9%83%A8%E7%94%B5%E5%95%86%E6%A0%87%E9%85%8D%23" target="weibo">
+仅退款何以成头部电商标配（热度：52225）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%99%A4%E5%86%85%E8%84%8F%E8%84%82%E8%82%AA%E6%96%B9%E6%B3%95%23" target="weibo">
 消除内脏脂肪方法（热度：48574）
 </a>
@@ -345,14 +351,14 @@ papi酱 向电影市场道歉（热度：79936）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E9%AC%BC%E8%84%B8%E5%AF%B9%E9%95%9C%E6%8B%8D%23" target="weibo">
-田曦薇鬼脸对镜拍（热度：29325）
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%8E%82%E9%95%BF%E8%B8%A2%E7%90%83%23" target="weibo">
+鹿晗厂长踢球（热度：35835）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%85%E9%80%80%E6%AC%BE%E4%BD%95%E4%BB%A5%E6%88%90%E5%A4%B4%E9%83%A8%E7%94%B5%E5%95%86%E6%A0%87%E9%85%8D%23" target="weibo">
-仅退款何以成头部电商标配（热度：27775）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E9%AC%BC%E8%84%B8%E5%AF%B9%E9%95%9C%E6%8B%8D%23" target="weibo">
+田曦薇鬼脸对镜拍（热度：29325）
 </a>
 </li>
 
@@ -369,6 +375,12 @@ papi酱 向电影市场道歉（热度：79936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E6%B0%B4%E7%83%AB%E7%A2%97%E7%9C%9F%E7%9A%84%E8%83%BD%E6%B6%88%E6%AF%92%E6%9D%80%E8%8F%8C%E5%90%97%23" target="weibo">
+热水烫碗真的能消毒杀菌吗（热度：23958）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232023%E5%BE%AE%E5%8D%9A%E6%98%9FIP%E5%B9%B4%E5%BA%A6%E6%8E%A8%E8%8D%90Top10%23" target="weibo">
 2023微博星IP年度推荐Top10（热度：22989）
 </a>
@@ -381,26 +393,14 @@ papi酱 向电影市场道歉（热度：79936）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%8E%82%E9%95%BF%E8%B8%A2%E7%90%83%23" target="weibo">
-鹿晗厂长踢球（热度：21866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E6%B0%B4%E7%83%AB%E7%A2%97%E7%9C%9F%E7%9A%84%E8%83%BD%E6%B6%88%E6%AF%92%E6%9D%80%E8%8F%8C%E5%90%97%23" target="weibo">
-热水烫碗真的能消毒杀菌吗（热度：20651）
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%B1%E5%8E%8C%E5%85%A8%E9%98%B5%E5%AE%B9%23" target="weibo">
+春花厌全阵容（热度：14741）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E8%B7%AF%E6%BC%94%E4%BB%B7%E6%A0%BC%23" target="weibo">
 电影路演价格（热度：13202）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%B1%E5%8E%8C%E5%85%A8%E9%98%B5%E5%AE%B9%23" target="weibo">
-春花厌全阵容（热度：12567）
 </a>
 </li>
 

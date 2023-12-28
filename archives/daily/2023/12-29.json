@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703799254669,
+  "endTime": 1703801795351,
   "band_list": [
     {
       "raw_hot": 1404189,
@@ -211,6 +211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 160211,
+      "num": 160211,
+      "word": "三孩非亲生案女方称DNA也不是100%准确",
+      "onboard_time": 1703759732,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148217,
       "num": 123668,
       "word": "学者评繁花前四集",
@@ -273,14 +281,6 @@
       "onboard_time": 1703776833,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105914,
-      "num": 105914,
-      "word": "三孩非亲生案女方称DNA也不是100%准确",
-      "onboard_time": 1703759732,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104633,
@@ -419,6 +419,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 52225,
+      "num": 40288,
+      "word": "仅退款何以成头部电商标配",
+      "onboard_time": 1703797335,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 48574,
       "num": 48574,
       "word": "消除内脏脂肪方法",
@@ -443,20 +451,20 @@
       "category": "作品衍生,健康医疗"
     },
     {
+      "raw_hot": 35835,
+      "num": 35835,
+      "word": "鹿晗厂长踢球",
+      "onboard_time": 1703797275,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29325,
       "num": 29325,
       "word": "田曦薇鬼脸对镜拍",
       "onboard_time": 1703786119,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27775,
-      "num": 18810,
-      "word": "仅退款何以成头部电商标配",
-      "onboard_time": 1703797335,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 24066,
@@ -475,6 +483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23958,
+      "num": 23958,
+      "word": "热水烫碗真的能消毒杀菌吗",
+      "onboard_time": 1703792294,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 22989,
       "num": 20713,
       "word": "2023微博星IP年度推荐Top10",
@@ -491,20 +507,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21866,
-      "num": 21218,
-      "word": "鹿晗厂长踢球",
-      "onboard_time": 1703797275,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 20651,
-      "num": 20651,
-      "word": "热水烫碗真的能消毒杀菌吗",
-      "onboard_time": 1703792294,
-      "rank": 30,
-      "category": "科学科普"
+      "raw_hot": 14741,
+      "num": 14741,
+      "word": "春花厌全阵容",
+      "onboard_time": 1703795534,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 13202,
@@ -513,14 +521,6 @@
       "onboard_time": 1703793254,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 12567,
-      "num": 14309,
-      "word": "春花厌全阵容",
-      "onboard_time": 1703795534,
-      "rank": 46,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
