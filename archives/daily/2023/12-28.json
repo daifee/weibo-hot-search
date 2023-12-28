@@ -1,10 +1,10 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703733518279,
+  "endTime": 1703734465089,
   "band_list": [
     {
-      "raw_hot": 1988815,
-      "num": 1988815,
+      "raw_hot": 2013170,
+      "num": 2013170,
       "word": "因病少上1天班没了年终奖",
       "onboard_time": 1703729194,
       "rank": 8,
@@ -48,6 +48,14 @@
       "word": "小白80万上海开面馆6天濒临倒闭",
       "onboard_time": 1703726671,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 911507,
+      "num": 911507,
+      "word": "3娃非亲生案女方跟别人生下第4个女儿",
+      "onboard_time": 1703733155,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -155,6 +163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 532071,
+      "num": 532071,
+      "word": "女生大学毕业卖烤猪月入3万",
+      "onboard_time": 1703729733,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516961,
       "num": 425470,
       "word": "章泽天二胎 双胞胎",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 511985,
-      "num": 266602,
+      "num": 275564,
       "word": "卷生卷死的韩国人开始逃了",
       "onboard_time": 1703730268,
       "rank": 21,
@@ -200,14 +216,6 @@
       "word": "3娃非亲生案",
       "onboard_time": 1703730332,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444464,
-      "num": 444464,
-      "word": "女生大学毕业卖烤猪月入3万",
-      "onboard_time": 1703729733,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416496,
+      "num": 416496,
+      "word": "老师把婚礼办到了幼儿园里",
+      "onboard_time": 1703730211,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415512,
       "num": 415512,
       "word": "迪丽热巴 StrayKids",
@@ -267,20 +283,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406309,
-      "num": 406309,
-      "word": "老师把婚礼办到了幼儿园里",
-      "onboard_time": 1703730211,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 404516,
       "num": 404516,
       "word": "周海媚为突发心脏病猝死",
       "onboard_time": 1703674418,
       "rank": 13,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 394044,
+      "num": 394044,
+      "word": "肖战嘉人开年刊预告",
+      "onboard_time": 1703733692,
+      "rank": 13,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 364705,
+      "num": 272612,
+      "word": "痛经 缺维生素D",
+      "onboard_time": 1703732913,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 357761,
@@ -363,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 309261,
+      "num": 309261,
+      "word": "春楠给关晓彤化的新年好运妆",
+      "onboard_time": 1703733872,
+      "rank": 16,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 289507,
       "num": 289507,
       "word": "雷军",
@@ -427,14 +459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 244460,
-      "num": 244460,
-      "word": "3娃非亲生案女方跟别人生下第4个女儿",
-      "onboard_time": 1703733155,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241629,
       "num": 241629,
       "word": "适合冬天女性喝的",
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217414,
+      "num": 217414,
+      "word": "A股",
+      "onboard_time": 1703732793,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 216768,
       "num": 95548,
       "word": "帕梅拉 在中国遇到最惊讶的事情",
@@ -491,6 +523,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208312,
+      "num": 208312,
+      "word": "间歇性冷漠",
+      "onboard_time": 1703733632,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 205965,
+      "num": 205965,
+      "word": "中小学老师为什么越来越累",
+      "onboard_time": 1703732671,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205141,
       "num": 205141,
       "word": "唐嫣繁花 90年代女白领",
@@ -499,11 +547,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200315,
-      "num": 191693,
-      "word": "痛经 缺维生素D",
-      "onboard_time": 1703732913,
-      "rank": 30,
+      "raw_hot": 203362,
+      "num": 203362,
+      "word": "眼前突然一黑或是器官缺血了",
+      "onboard_time": 1703733273,
+      "rank": 45,
       "category": "健康医疗"
     },
     {
@@ -547,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183178,
-      "num": 183178,
-      "word": "A股",
-      "onboard_time": 1703732793,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 183006,
       "num": 183006,
       "word": "郑恺恭喜魏总正式上线",
@@ -579,12 +619,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 179060,
-      "num": 179060,
-      "word": "中小学老师为什么越来越累",
-      "onboard_time": 1703732671,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 178643,
+      "num": 178643,
+      "word": "可爱多光与夜之恋联动",
+      "onboard_time": 1703734173,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 177511,
@@ -747,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128439,
+      "num": 354719,
+      "word": "长沙霸王茶姬有多火爆",
+      "onboard_time": 1703733213,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 127472,
       "num": 127472,
       "word": "杨过的雕可能是真的",
@@ -809,14 +857,6 @@
       "onboard_time": 1703679097,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116015,
-      "num": 116015,
-      "word": "眼前突然一黑或是器官缺血了",
-      "onboard_time": 1703733273,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 113430,
@@ -1073,14 +1113,6 @@
       "onboard_time": 1703698279,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26981,
-      "num": 350457,
-      "word": "长沙霸王茶姬有多火爆",
-      "onboard_time": 1703733213,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 22441,
