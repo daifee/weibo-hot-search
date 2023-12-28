@@ -1,6 +1,6 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703730405591,
+  "endTime": 1703731066274,
   "band_list": [
     {
       "raw_hot": 1984471,
@@ -35,11 +35,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1026798,
-      "num": 1026798,
+      "raw_hot": 1050953,
+      "num": 1050953,
       "word": "小白80万上海开面馆6天濒临倒闭",
       "onboard_time": 1703726671,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 969993,
+      "num": 969993,
+      "word": "因病少上1天班没了年终奖",
+      "onboard_time": 1703729194,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -80,6 +88,14 @@
       "word": "唐嫣繁花 妆造颠覆",
       "onboard_time": 1703671537,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 651339,
+      "num": 651339,
+      "word": "繁花收视率",
+      "onboard_time": 1703729073,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -131,22 +147,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 580320,
-      "num": 580320,
-      "word": "繁花收视率",
-      "onboard_time": 1703729073,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 544363,
-      "num": 544363,
-      "word": "因病少上1天班没了年终奖",
-      "onboard_time": 1703729194,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 533589,
       "num": 533589,
       "word": "棉服 鲨鱼裤",
@@ -171,8 +171,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 487412,
-      "num": 487412,
+      "raw_hot": 499356,
+      "num": 499356,
       "word": "南方小土豆",
       "onboard_time": 1703726312,
       "rank": 19,
@@ -185,6 +185,22 @@
       "onboard_time": 1703683597,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 434989,
+      "num": 434989,
+      "word": "吉利高管称小米汽车宣发过了",
+      "onboard_time": 1703728953,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 429196,
+      "num": 264240,
+      "word": "卷生卷死的韩国人开始逃了",
+      "onboard_time": 1703730268,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425064,
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351385,
+      "num": 351385,
+      "word": "一闻就很贵的香水",
+      "onboard_time": 1703727091,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 348973,
       "num": 348973,
       "word": "胡先煦迪丽热巴 驾校教练与学员",
@@ -267,28 +291,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 346024,
-      "num": 346024,
-      "word": "吉利高管称小米汽车宣发过了",
-      "onboard_time": 1703728953,
-      "rank": 14,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 345790,
       "num": 327059,
       "word": "身上的痣出现5个变化当心癌症",
       "onboard_time": 1703700562,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 343415,
-      "num": 343415,
-      "word": "一闻就很贵的香水",
-      "onboard_time": 1703727091,
-      "rank": 45,
-      "category": "美妆"
     },
     {
       "raw_hot": 341923,
@@ -355,11 +363,11 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 264240,
-      "num": 264240,
-      "word": "卷生卷死的韩国人开始逃了",
-      "onboard_time": 1703730268,
-      "rank": 21,
+      "raw_hot": 272366,
+      "num": 242483,
+      "word": "女生大学毕业卖烤猪月入3万",
+      "onboard_time": 1703729733,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -403,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238652,
+      "num": 238652,
+      "word": "3娃非亲生案",
+      "onboard_time": 1703730332,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237508,
       "num": 237508,
       "word": "男子造谣倒卖捐赠地震灾区羽绒服被刑拘",
@@ -419,19 +435,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 235362,
+      "num": 235362,
+      "word": "老师把婚礼办到了幼儿园里",
+      "onboard_time": 1703730211,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235306,
       "num": 235306,
       "word": "3娃非亲生男子否认因生不出男孩家暴传闻",
       "onboard_time": 1703728772,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226930,
-      "num": 226930,
-      "word": "女生大学毕业卖烤猪月入3万",
-      "onboard_time": 1703729733,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 212113,
-      "num": 189430,
+      "num": 191971,
       "word": "繁花",
       "onboard_time": 1703719223,
       "rank": 16,
@@ -563,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174604,
+      "num": 174604,
+      "word": "梁朝伟刘德华 不愧从20岁就一起营业",
+      "onboard_time": 1703730030,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172594,
       "num": 172594,
       "word": "2024射手座 自由",
@@ -579,18 +603,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169451,
-      "num": 169451,
-      "word": "梁朝伟刘德华 不愧从20岁就一起营业",
-      "onboard_time": 1703730030,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 158203,
       "num": 158203,
       "word": "小学生自创游戏在班里开公司",
       "onboard_time": 1703724634,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156991,
+      "num": 156991,
+      "word": "3娃非亲生案当事人称拒绝道德绑架",
+      "onboard_time": 1703730511,
       "rank": 40,
       "category": "社会新闻"
     },
@@ -643,14 +667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140191,
-      "num": 140191,
-      "word": "老师把婚礼办到了幼儿园里",
-      "onboard_time": 1703730211,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139172,
       "num": 139172,
       "word": "韩国娱乐圈因李善均去世暂停活动",
@@ -665,14 +681,6 @@
       "onboard_time": 1703720306,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 134198,
-      "num": 134198,
-      "word": "3娃非亲生案",
-      "onboard_time": 1703730332,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133223,
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 57490,
-      "num": 265943,
+      "num": 404190,
       "word": "如果给2023一个关键词",
       "onboard_time": 1703729250,
       "rank": 19,
