@@ -1,6 +1,6 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703745347525,
+  "endTime": 1703747768415,
   "band_list": [
     {
       "raw_hot": 2198038,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1114297,
+      "num": 1114297,
+      "word": "小米汽车价格",
+      "onboard_time": 1703745873,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1099405,
       "num": 1099405,
       "word": "韩媒曝李善均遗书内容",
@@ -83,6 +91,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1065360,
+      "num": 1065360,
+      "word": "李善均身亡前疑似最后监控曝光",
+      "onboard_time": 1703746231,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1050953,
       "num": 1050953,
       "word": "小白80万上海开面馆6天濒临倒闭",
@@ -91,12 +107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1031313,
+      "num": 1031313,
+      "word": "威胁李善均女室长抱孩子出席庭审",
+      "onboard_time": 1703744851,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1011000,
       "num": 1011000,
       "word": "儿子诈骗30万母亲只愿退赔9000",
       "onboard_time": 1703737115,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 863944,
+      "num": 863944,
+      "word": "2023全球最帅最美面孔",
+      "onboard_time": 1703746113,
+      "rank": 7,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 851479,
@@ -121,6 +153,14 @@
       "onboard_time": 1703718922,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 787734,
+      "num": 787734,
+      "word": "雷军回应不向吉利致敬",
+      "onboard_time": 1703746231,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 767029,
@@ -347,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423901,
+      "num": 706756,
+      "word": "1只边牧被救咕噜咕噜变3只",
+      "onboard_time": 1703738673,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423817,
       "num": 423817,
       "word": "李善均遗书内容不公开",
@@ -387,27 +435,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407890,
-      "num": 407890,
-      "word": "威胁李善均女室长抱孩子出席庭审",
-      "onboard_time": 1703744851,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 406377,
       "num": 427010,
       "word": "八旬老人摔倒遭无视高中生毫不犹豫扶起",
       "onboard_time": 1703688459,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406099,
-      "num": 406099,
-      "word": "1只边牧被救咕噜咕噜变3只",
-      "onboard_time": 1703738673,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -441,6 +473,14 @@
       "onboard_time": 1703681675,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351494,
+      "num": 351494,
+      "word": "屈楚萧张佳宁穿校服扫楼",
+      "onboard_time": 1703744133,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 351385,
@@ -507,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 333868,
+      "num": 333868,
+      "word": "小米SU7官方实拍照首曝",
+      "onboard_time": 1703741609,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 333421,
       "num": 333421,
       "word": "幼儿园的单子不接了",
@@ -547,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 292830,
-      "num": 292830,
-      "word": "屈楚萧张佳宁穿校服扫楼",
-      "onboard_time": 1703744133,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 289507,
       "num": 289507,
       "word": "雷军",
@@ -593,14 +633,6 @@
       "onboard_time": 1703737654,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 277549,
-      "num": 262138,
-      "word": "小米SU7官方实拍照首曝",
-      "onboard_time": 1703741609,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 274687,
@@ -739,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227431,
+      "num": 218704,
+      "word": "雷军称小米汽车要媲美保时捷特斯拉",
+      "onboard_time": 1703747009,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 225102,
       "num": 225102,
       "word": "辛芷蕾繁花 脑子比脸更迷人",
@@ -795,8 +835,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206231,
-      "num": 206231,
+      "raw_hot": 206496,
+      "num": 206496,
       "word": "鹿晗超话翻牌",
       "onboard_time": 1703744492,
       "rank": 34,
@@ -817,6 +857,14 @@
       "onboard_time": 1703733273,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197944,
+      "num": 197944,
+      "word": "薛之谦谈和戚薇拍mv",
+      "onboard_time": 1703744672,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 193591,
@@ -987,12 +1035,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 167718,
+      "num": 167718,
+      "word": "北京15米高恐龙移走大爷能睡着了",
+      "onboard_time": 1703745090,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164304,
       "num": 164304,
       "word": "娟子仿妆",
       "onboard_time": 1703737596,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 160016,
+      "num": 160016,
+      "word": "买折叠手机的人后悔了吗",
+      "onboard_time": 1703746710,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 158203,
@@ -1008,6 +1072,14 @@
       "word": "3娃非亲生案当事人称拒绝道德绑架",
       "onboard_time": 1703730511,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152886,
+      "num": 152886,
+      "word": "渐冻症患者研发药物为未来病友增加希望",
+      "onboard_time": 1703746592,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1067,14 +1139,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 143677,
-      "num": 143677,
-      "word": "薛之谦谈和戚薇拍mv",
-      "onboard_time": 1703744672,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143211,
       "num": 143211,
       "word": "YJJ 挂在身边",
@@ -1091,12 +1155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140583,
+      "num": 140583,
+      "word": "张万森 新浪下雪了",
+      "onboard_time": 1703747610,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139172,
       "num": 139172,
       "word": "韩国娱乐圈因李善均去世暂停活动",
       "onboard_time": 1703670214,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136915,
+      "num": 136915,
+      "word": "3孩非亲生案不公开开庭审理",
+      "onboard_time": 1703747430,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136785,
@@ -1155,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126044,
+      "num": 126044,
+      "word": "他51年走遍866个村子放万场电影",
+      "onboard_time": 1703746592,
+      "rank": 40,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 125593,
       "num": 125593,
       "word": "2023余额已不足",
@@ -1187,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123548,
-      "num": 123548,
-      "word": "北京15米高恐龙移走大爷能睡着了",
-      "onboard_time": 1703745090,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121692,
       "num": 121692,
       "word": "初中生跳拉丁科目三嗨翻全场",
@@ -1209,6 +1289,14 @@
       "onboard_time": 1703682575,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119409,
+      "num": 119409,
+      "word": "CATTI成绩",
+      "onboard_time": 1703745632,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 118934,
@@ -1241,6 +1329,14 @@
       "onboard_time": 1703742030,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 113777,
+      "num": 113777,
+      "word": "小孩哥拉着妈妈给心仪女同学买衣服",
+      "onboard_time": 1703747252,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113430,
@@ -1337,6 +1433,14 @@
       "onboard_time": 1703719405,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89126,
+      "num": 174052,
+      "word": "荣耀魔法OS新功能曝光",
+      "onboard_time": 1703746953,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 86862,
@@ -1547,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19984,
+      "num": 1099787,
+      "word": "2023那些对于热爱的回答",
+      "onboard_time": 1703722713,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18921,
       "num": 26017,
       "word": "胡歌腹肌镜头",
@@ -1630,6 +1742,9 @@
   "hotgov_list": [
     {
       "word": "#以中国式现代化全面推进强国建设#"
+    },
+    {
+      "word": "#总书记和人民在一起的暖心瞬间#"
     }
   ]
 }

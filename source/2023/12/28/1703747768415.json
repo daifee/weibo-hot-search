@@ -1,0 +1,410 @@
+{
+  "runTime": 1703747768415,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1144106,
+        "num": 1144106,
+        "word": "不回微信不一定忙",
+        "onboard_time": 1703736634,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1114297,
+        "num": 1114297,
+        "word": "小米汽车价格",
+        "onboard_time": 1703745873,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 19984,
+        "num": 1099787,
+        "word": "2023那些对于热爱的回答",
+        "onboard_time": 1703722713,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085374,
+        "num": 1085374,
+        "word": "上海杀妻欲藏尸冰柜案二审维持死刑",
+        "onboard_time": 1703741191,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065360,
+        "num": 1065360,
+        "word": "李善均身亡前疑似最后监控曝光",
+        "onboard_time": 1703746231,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1031313,
+        "num": 1031313,
+        "word": "威胁李善均女室长抱孩子出席庭审",
+        "onboard_time": 1703744851,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 975314,
+        "num": 975314,
+        "word": "小米汽车发布会",
+        "onboard_time": 1703743654,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 863944,
+        "num": 863944,
+        "word": "2023全球最帅最美面孔",
+        "onboard_time": 1703746113,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 787734,
+        "num": 787734,
+        "word": "雷军回应不向吉利致敬",
+        "onboard_time": 1703746231,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 423901,
+        "num": 706756,
+        "word": "1只边牧被救咕噜咕噜变3只",
+        "onboard_time": 1703738673,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687711,
+        "num": 687711,
+        "word": "3娃非亲生案女方跟别人生下第4个女儿",
+        "onboard_time": 1703733155,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604655,
+        "num": 604655,
+        "word": "小米汽车",
+        "onboard_time": 1703741673,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 561552,
+        "num": 561552,
+        "word": "卷生卷死的韩国人开始逃了",
+        "onboard_time": 1703730268,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463456,
+        "num": 463456,
+        "word": "繁花居然是用单机位拍的",
+        "onboard_time": 1703735494,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351494,
+        "num": 351494,
+        "word": "屈楚萧张佳宁穿校服扫楼",
+        "onboard_time": 1703744133,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 333868,
+        "num": 333868,
+        "word": "小米SU7官方实拍照首曝",
+        "onboard_time": 1703741609,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 332765,
+        "num": 332765,
+        "word": "丁克夫妻感情更像爱情吗",
+        "onboard_time": 1703739454,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284894,
+        "num": 284894,
+        "word": "老师把婚礼办到了幼儿园里",
+        "onboard_time": 1703730211,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228401,
+        "num": 228401,
+        "word": "儿子诈骗30万母亲只愿退赔9000",
+        "onboard_time": 1703737115,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219644,
+        "num": 219644,
+        "word": "文森特手术成功",
+        "onboard_time": 1703743472,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227431,
+        "num": 218704,
+        "word": "雷军称小米汽车要媲美保时捷特斯拉",
+        "onboard_time": 1703747009,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 213770,
+        "num": 213770,
+        "word": "繁花里的papi酱",
+        "onboard_time": 1703724573,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206496,
+        "num": 206496,
+        "word": "鹿晗超话翻牌",
+        "onboard_time": 1703744492,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202889,
+        "num": 202889,
+        "word": "魅族称要成为小米首位车主",
+        "onboard_time": 1703736994,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 202561,
+        "num": 202561,
+        "word": "痛经 缺维生素D",
+        "onboard_time": 1703732913,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200490,
+        "num": 200490,
+        "word": "加拿大新规要求男厕也备卫生巾",
+        "onboard_time": 1703739814,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199568,
+        "num": 199568,
+        "word": "重庆近2万单身人士在凌晨搬家",
+        "onboard_time": 1703740473,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197944,
+        "num": 197944,
+        "word": "薛之谦谈和戚薇拍mv",
+        "onboard_time": 1703744672,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89126,
+        "num": 174052,
+        "word": "荣耀魔法OS新功能曝光",
+        "onboard_time": 1703746953,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173318,
+        "num": 173318,
+        "word": "郑强卸任后参加湖南台综艺节目",
+        "onboard_time": 1703744791,
+        "rank": 29,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 227120,
+        "num": 171308,
+        "word": "古茗莲花楼联名",
+        "onboard_time": 1703739936,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167718,
+        "num": 167718,
+        "word": "北京15米高恐龙移走大爷能睡着了",
+        "onboard_time": 1703745090,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163973,
+        "num": 163973,
+        "word": "繁花收视率",
+        "onboard_time": 1703729073,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160016,
+        "num": 160016,
+        "word": "买折叠手机的人后悔了吗",
+        "onboard_time": 1703746710,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152886,
+        "num": 152886,
+        "word": "渐冻症患者研发药物为未来病友增加希望",
+        "onboard_time": 1703746592,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147923,
+        "num": 147923,
+        "word": "因病少上1天班没了年终奖",
+        "onboard_time": 1703729194,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145774,
+        "num": 145774,
+        "word": "韩媒曝李善均遗书内容",
+        "onboard_time": 1703725594,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140583,
+        "num": 140583,
+        "word": "张万森 新浪下雪了",
+        "onboard_time": 1703747610,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136915,
+        "num": 136915,
+        "word": "3孩非亲生案不公开开庭审理",
+        "onboard_time": 1703747430,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135473,
+        "num": 135473,
+        "word": "男子拉横幅侮辱前女友被行拘",
+        "onboard_time": 1703737052,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126044,
+        "num": 126044,
+        "word": "他51年走遍866个村子放万场电影",
+        "onboard_time": 1703746592,
+        "rank": 40,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 125593,
+        "num": 125593,
+        "word": "美国设备总出问题中国直接自己造了",
+        "onboard_time": 1703737834,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123790,
+        "num": 123790,
+        "word": "内娱红毯的神TOP10",
+        "onboard_time": 1703737654,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122233,
+        "num": 122233,
+        "word": "张译杨紫豆瓣年度扛剧演员",
+        "onboard_time": 1703738556,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119409,
+        "num": 119409,
+        "word": "CATTI成绩",
+        "onboard_time": 1703745632,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119082,
+        "num": 119082,
+        "word": "雷军",
+        "onboard_time": 1703724335,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117562,
+        "num": 117562,
+        "word": "魅族CEO怼小米汽车",
+        "onboard_time": 1703737896,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 116502,
+        "num": 116502,
+        "word": "檀健次 病娇感",
+        "onboard_time": 1703738556,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 115736,
+        "num": 115736,
+        "word": "肖战嘉人开年刊预告",
+        "onboard_time": 1703733692,
+        "rank": 48,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 113777,
+        "num": 113777,
+        "word": "小孩哥拉着妈妈给心仪女同学买衣服",
+        "onboard_time": 1703747252,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和人民在一起的暖心瞬间#"
+    }
+  }
+}
