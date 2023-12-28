@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703766718432,
+  "endTime": 1703767622159,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -5931,6 +5931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1190595,
+      "num": 1190595,
+      "word": "胖东来宣布员工将提前3小时下班",
+      "onboard_time": 1703763093,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1188136,
       "num": 1188136,
       "word": "妈妈去世前一晚满眼慈爱看熟睡儿子",
@@ -6689,14 +6697,6 @@
       "onboard_time": 1703303502,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1086642,
-      "num": 1086642,
-      "word": "胖东来宣布员工将提前3小时下班",
-      "onboard_time": 1703763093,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1085408,
@@ -12408,6 +12408,14 @@
       "word": "晚安计划",
       "onboard_time": 1703514035,
       "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 689458,
+      "num": 305790,
+      "word": "2024富婆星座",
+      "onboard_time": 1703766453,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -18275,6 +18283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 510331,
+      "num": 510331,
+      "word": "文在寅对李善均去世表示哀悼",
+      "onboard_time": 1703766513,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509972,
       "num": 427386,
       "word": "老师我们家诗晴没怀孕",
@@ -20667,6 +20683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458485,
+      "num": 458485,
+      "word": "Doinb ip上海",
+      "onboard_time": 1703765433,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 458174,
       "num": 458174,
       "word": "王一博顺毛长发",
@@ -21793,14 +21817,6 @@
       "onboard_time": 1701758799,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 436852,
-      "num": 436852,
-      "word": "Doinb ip上海",
-      "onboard_time": 1703765433,
-      "rank": 10,
-      "category": "游戏"
     },
     {
       "raw_hot": 436806,
@@ -25715,6 +25731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377992,
+      "num": 377992,
+      "word": "学者评繁花前四集",
+      "onboard_time": 1703753435,
+      "rank": 18,
+      "category": "剧集,读书作家"
+    },
+    {
       "raw_hot": 377908,
       "num": 377908,
       "word": "小满生活 隐形出轨男",
@@ -26419,6 +26443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368981,
+      "num": 368981,
+      "word": "林一 妮妮",
+      "onboard_time": 1703766873,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368862,
       "num": 368862,
       "word": "莎头",
@@ -26745,14 +26777,6 @@
       "onboard_time": 1701959567,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 364459,
-      "num": 364459,
-      "word": "学者评繁花前四集",
-      "onboard_time": 1703753435,
-      "rank": 18,
-      "category": "剧集,读书作家"
     },
     {
       "raw_hot": 364162,
@@ -32345,14 +32369,6 @@
       "onboard_time": 1701680856,
       "rank": 28,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 301276,
-      "num": 301276,
-      "word": "文在寅对李善均去世表示哀悼",
-      "onboard_time": 1703766513,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301191,
@@ -46291,14 +46307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211054,
-      "num": 179748,
-      "word": "2024富婆星座",
-      "onboard_time": 1703766453,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211039,
       "num": 189138,
       "word": "哈尔滨出现海王2冰雕",
@@ -49001,6 +49009,14 @@
       "onboard_time": 1703402793,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202032,
+      "num": 202032,
+      "word": "中央外事工作会议举行",
+      "onboard_time": 1703766814,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 202031,
@@ -52249,6 +52265,14 @@
       "onboard_time": 1702556674,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191790,
+      "num": 191790,
+      "word": "非诚勿扰3首映礼",
+      "onboard_time": 1703766991,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 191778,
@@ -57579,6 +57603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171510,
+      "num": 171510,
+      "word": "澳门国际电影节",
+      "onboard_time": 1703767292,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171483,
       "num": 171483,
       "word": "范可新首尔站500米晋级决赛",
@@ -62003,6 +62035,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 154953,
+      "num": 154953,
+      "word": "花卷莉莉安没输过",
+      "onboard_time": 1703766755,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154823,
       "num": 154823,
       "word": "古晋的恋爱脑康复了",
@@ -63337,6 +63377,14 @@
       "onboard_time": 1702137394,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149398,
+      "num": 149398,
+      "word": "老人地铁上要求年轻人让座未果拿水杯泼水撵人",
+      "onboard_time": 1703763273,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149397,
@@ -65665,14 +65713,6 @@
       "onboard_time": 1702142723,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 140139,
-      "num": 140139,
-      "word": "老人地铁上要求年轻人让座未果拿水杯泼水撵人",
-      "onboard_time": 1703763273,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140128,
@@ -70883,6 +70923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110773,
+      "num": 110773,
+      "word": "杂耍版科目三",
+      "onboard_time": 1703764292,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110698,
       "num": 110698,
       "word": "化妆公式学习",
@@ -74211,6 +74259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55628,
+      "num": 369857,
+      "word": "戚薇王者直播",
+      "onboard_time": 1703765313,
+      "rank": 14,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 55571,
       "num": 271944,
       "word": "蛋仔派对百款免费皮肤",
@@ -75201,14 +75257,6 @@
       "onboard_time": 1701753102,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39346,
-      "num": 354512,
-      "word": "戚薇王者直播",
-      "onboard_time": 1703765313,
-      "rank": 14,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 39194,
