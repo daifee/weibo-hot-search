@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703759720386,
+  "endTime": 1703762084092,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -451,6 +451,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1701810,
+      "num": 1701810,
+      "word": "向太宣布将出售耗时十年建成豪宅",
+      "onboard_time": 1703760874,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1688479,
       "num": 1688479,
       "word": "邓为前助理被拖欠工资",
@@ -641,6 +649,14 @@
       "onboard_time": 1703412936,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1387146,
+      "num": 1387146,
+      "word": "康康都一米八了",
+      "onboard_time": 1703757633,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1368275,
@@ -939,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1090713,
+      "num": 1090713,
+      "word": "退款不退货",
+      "onboard_time": 1703759195,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1084568,
       "num": 1084568,
       "word": "全面禁燃烟花爆竹不合法",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1703726671,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1046948,
-      "num": 1046948,
-      "word": "康康都一米八了",
-      "onboard_time": 1703757633,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1042055,
@@ -2211,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627806,
+      "num": 627806,
+      "word": "三孩非亲生案女方称DNA也不是100%准确",
+      "onboard_time": 1703759732,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625785,
       "num": 625785,
       "word": "本周狗屎运最旺的星座",
@@ -2513,6 +2537,14 @@
       "onboard_time": 1703749412,
       "rank": 12,
       "category": "汽车,数码"
+    },
+    {
+      "raw_hot": 571052,
+      "num": 2387748,
+      "word": "大学辅导员带媳妇走遍全国去家访",
+      "onboard_time": 1703757033,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570319,
@@ -3580,7 +3612,7 @@
     },
     {
       "raw_hot": 423901,
-      "num": 1065907,
+      "num": 1215931,
       "word": "1只边牧被救咕噜咕噜变3只",
       "onboard_time": 1703738673,
       "rank": 12,
@@ -4083,6 +4115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 374785,
+      "num": 374785,
+      "word": "A股大涨胡锡进赚了7800元",
+      "onboard_time": 1703760694,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 373846,
       "num": 373846,
       "word": "李宏毅工作室严正声明",
@@ -4283,6 +4323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 348403,
+      "num": 257570,
+      "word": "单依纯 出道三年还是大学生",
+      "onboard_time": 1703760154,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 347574,
       "num": 347574,
       "word": "一些留学生回国后的报复性行为",
@@ -4433,6 +4481,14 @@
       "onboard_time": 1703429978,
       "rank": 24,
       "category": "情感,作品衍生"
+    },
+    {
+      "raw_hot": 330610,
+      "num": 166487,
+      "word": "雷军吐槽B级车也叫7",
+      "onboard_time": 1703760514,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 330253,
@@ -4649,6 +4705,14 @@
       "onboard_time": 1703734716,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317246,
+      "num": 1484732,
+      "word": "捐献者15年不换手机号成功救人一命",
+      "onboard_time": 1703759913,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 316834,
@@ -4993,14 +5057,6 @@
       "onboard_time": 1703584896,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 294029,
-      "num": 294029,
-      "word": "退款不退货",
-      "onboard_time": 1703759195,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292121,
@@ -5867,14 +5923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245250,
-      "num": 2387748,
-      "word": "大学辅导员带媳妇走遍全国去家访",
-      "onboard_time": 1703757033,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245111,
       "num": 245111,
       "word": "Yuna红发",
@@ -6441,6 +6489,14 @@
       "onboard_time": 1703498377,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226300,
+      "num": 226300,
+      "word": "全球最美面孔 西村力第四",
+      "onboard_time": 1703759375,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 225623,
@@ -7899,6 +7955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191647,
+      "num": 166457,
+      "word": "papi酱 2023道歉信",
+      "onboard_time": 1703762073,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 191498,
       "num": 191498,
       "word": "轩染花木兰偷家",
@@ -7985,6 +8049,14 @@
       "onboard_time": 1703593832,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189311,
+      "num": 189311,
+      "word": "日本北海道地区发生6.4级地震",
+      "onboard_time": 1703761654,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189133,
@@ -8665,14 +8737,6 @@
       "onboard_time": 1703487871,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 175077,
-      "num": 175077,
-      "word": "全球最美面孔 西村力第四",
-      "onboard_time": 1703759375,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 174846,
@@ -9387,6 +9451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160119,
+      "num": 160119,
+      "word": "羽生结弦直播出演幕后花絮",
+      "onboard_time": 1703761654,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160077,
       "num": 160077,
       "word": "王家卫镜头下的辛芷蕾",
@@ -9707,6 +9779,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 156161,
+      "num": 156161,
+      "word": "谁投的西村力",
+      "onboard_time": 1703760575,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155793,
       "num": 155793,
       "word": "薛之谦 吉隆坡",
@@ -9867,6 +9947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152758,
+      "num": 152758,
+      "word": "孙颖莎76周世界第一",
+      "onboard_time": 1703761710,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152336,
       "num": 152336,
       "word": "陈楚生 潮起又潮落",
@@ -10009,6 +10097,14 @@
       "onboard_time": 1703334214,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 150119,
+      "num": 150119,
+      "word": "侯明昊 银发麻花马尾辫",
+      "onboard_time": 1703760033,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 149982,
@@ -10651,6 +10747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136683,
+      "num": 136683,
+      "word": "朴志效 Killin Me Good",
+      "onboard_time": 1703760874,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136660,
       "num": 136660,
       "word": "蝴蝶落在了狗狗的鼻子上",
@@ -11171,6 +11275,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 128496,
+      "num": 128496,
+      "word": "神隐凤隐回归",
+      "onboard_time": 1703758654,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128494,
       "num": 128494,
       "word": "狗狗出趟门回来给自己染了个头",
@@ -11353,14 +11465,6 @@
       "onboard_time": 1703467112,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125765,
-      "num": 125765,
-      "word": "神隐凤隐回归",
-      "onboard_time": 1703758654,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 125593,
@@ -12337,6 +12441,14 @@
       "onboard_time": 1703643334,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104197,
+      "num": 104197,
+      "word": "文心一言用户规模已突破1亿",
+      "onboard_time": 1703759732,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 104195,
@@ -13348,7 +13460,7 @@
     },
     {
       "raw_hot": 27717,
-      "num": 1706890,
+      "num": 1738858,
       "word": "第二届链博会展期确定",
       "onboard_time": 1703755837,
       "rank": 2,
