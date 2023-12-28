@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703783720587,
+  "endTime": 1703784850014,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -13667,6 +13667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65379,
+      "num": 65379,
+      "word": "新疆是北欧平替吗",
+      "onboard_time": 1703782644,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 64310,
       "num": 64310,
       "word": "特斯拉儿童版cybertruck将进入中国",
@@ -13761,6 +13769,14 @@
       "onboard_time": 1703720006,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 55987,
+      "num": 55987,
+      "word": "薛凯琪沉迷东北大饭包",
+      "onboard_time": 1703784619,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 55679,
@@ -13923,14 +13939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47142,
-      "num": 48520,
-      "word": "新疆是北欧平替吗",
-      "onboard_time": 1703782644,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 46745,
       "num": 247804,
       "word": "问界M9首搭华为最强ARHUD",
@@ -14041,6 +14049,14 @@
       "onboard_time": 1703546485,
       "rank": 46,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 40648,
+      "num": 43950,
+      "word": "消除内脏脂肪方法",
+      "onboard_time": 1703784378,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 40436,
