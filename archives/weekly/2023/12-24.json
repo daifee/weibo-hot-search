@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703720089268,
+  "endTime": 1703726006327,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -271,6 +271,14 @@
       "num": 1996193,
       "word": "我们只是师生关系 你越界了",
       "onboard_time": 1703500956,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1984471,
+      "num": 1984471,
+      "word": "大学生不要再发求捞表情包了",
+      "onboard_time": 1703721811,
       "rank": 0,
       "category": "幽默"
     },
@@ -625,6 +633,14 @@
       "onboard_time": 1703421395,
       "rank": 23,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 1304553,
+      "num": 1304553,
+      "word": "新生儿遭月子中心月嫂虐待",
+      "onboard_time": 1703722412,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1296015,
@@ -1283,6 +1299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 829321,
+      "num": 741904,
+      "word": "我这一年辛辛苦苦挣了很少钱",
+      "onboard_time": 1703718922,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 816524,
       "num": 816524,
       "word": "姐姐与妹妹争吵后将其双手肌腱割断",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1703482475,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 749869,
+      "num": 749869,
+      "word": "繁花里的papi酱",
+      "onboard_time": 1703724573,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 748497,
@@ -1699,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 687161,
+      "num": 687161,
+      "word": "美国14岁男孩为争夺礼物枪杀姐姐",
+      "onboard_time": 1703723493,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 683762,
       "num": 683762,
       "word": "一念关山被骂癫剧冤吗",
@@ -1915,6 +1955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 634467,
+      "num": 634467,
+      "word": "韩媒曝李善均遗书内容",
+      "onboard_time": 1703725594,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 633074,
       "num": 633074,
       "word": "繁花首映礼",
@@ -1977,6 +2025,14 @@
       "onboard_time": 1703682155,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 614755,
+      "num": 614755,
+      "word": "京东宣布采销等一线员工涨薪近100%",
+      "onboard_time": 1703720547,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 613952,
@@ -3123,6 +3179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424554,
+      "num": 392387,
+      "word": "许光汉悼念李善均",
+      "onboard_time": 1703720907,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423254,
       "num": 204894,
       "word": "繁花 沪语版",
@@ -3361,6 +3425,14 @@
       "onboard_time": 1703573074,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394701,
+      "num": 394701,
+      "word": "棉服 鲨鱼裤",
+      "onboard_time": 1703719824,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 394226,
@@ -3739,12 +3811,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345790,
+      "num": 327059,
+      "word": "身上的痣出现5个变化当心癌症",
+      "onboard_time": 1703700562,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 344960,
       "num": 286984,
       "word": "照片被男朋友拍成了山顶洞人",
       "onboard_time": 1703401352,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342170,
+      "num": 342170,
+      "word": "胡先煦迪丽热巴 驾校教练与学员",
+      "onboard_time": 1703723313,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 342151,
@@ -3811,6 +3899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336141,
+      "num": 224665,
+      "word": "泰国前女总理英拉被判无罪",
+      "onboard_time": 1703724756,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 334954,
       "num": 334954,
       "word": "迪士尼",
@@ -3833,6 +3929,14 @@
       "onboard_time": 1703673874,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 333421,
+      "num": 333421,
+      "word": "幼儿园的单子不接了",
+      "onboard_time": 1703705594,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 331702,
@@ -3993,6 +4097,14 @@
       "onboard_time": 1703560533,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 319539,
+      "num": 319539,
+      "word": "王者荣耀维护",
+      "onboard_time": 1703724335,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 319194,
@@ -4707,6 +4819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 266351,
+      "num": 266351,
+      "word": "雷军",
+      "onboard_time": 1703724335,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 266214,
       "num": 255418,
       "word": "2024年是个什么年",
@@ -4857,6 +4977,14 @@
       "onboard_time": 1703476057,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258555,
+      "num": 258555,
+      "word": "胡歌新戏演技",
+      "onboard_time": 1703709253,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 258258,
@@ -5011,14 +5139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250427,
-      "num": 250427,
-      "word": "幼儿园的单子不接了",
-      "onboard_time": 1703705594,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 250357,
       "num": 250357,
       "word": "很想很想你大结局",
@@ -5065,6 +5185,14 @@
       "onboard_time": 1703321373,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247860,
+      "num": 247860,
+      "word": "牛马和牛马的区别",
+      "onboard_time": 1703723734,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 247705,
@@ -5305,6 +5433,14 @@
       "onboard_time": 1703664217,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 237508,
+      "num": 237508,
+      "word": "男子造谣倒卖捐赠地震灾区羽绒服被刑拘",
+      "onboard_time": 1703721929,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237479,
@@ -5827,14 +5963,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216386,
-      "num": 216386,
-      "word": "胡歌新戏演技",
-      "onboard_time": 1703709253,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216134,
       "num": 216134,
       "word": "越南版长月烬明太搞笑了",
@@ -6227,6 +6355,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 205141,
+      "num": 205141,
+      "word": "唐嫣繁花 90年代女白领",
+      "onboard_time": 1703724214,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204847,
       "num": 204847,
       "word": "iQOO价格",
@@ -6401,14 +6537,6 @@
       "onboard_time": 1703512775,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200672,
-      "num": 132343,
-      "word": "身上的痣出现5个变化当心癌症",
-      "onboard_time": 1703700562,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 200501,
@@ -7259,6 +7387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182106,
+      "num": 182106,
+      "word": "英雄联盟维护",
+      "onboard_time": 1703723614,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181972,
       "num": 181972,
       "word": "读者开年封面是萌兰",
@@ -7467,6 +7603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176998,
+      "num": 176998,
+      "word": "赵昭仪英文给王安宇听乐了",
+      "onboard_time": 1703701938,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176876,
       "num": 176876,
       "word": "赵继伟生涯首个三双",
@@ -7476,7 +7620,7 @@
     },
     {
       "raw_hot": 176836,
-      "num": 161530,
+      "num": 172471,
       "word": "杭州大姐把旧羽绒服翻新成羽绒被火了",
       "onboard_time": 1703693252,
       "rank": 38,
@@ -7561,6 +7705,14 @@
       "onboard_time": 1703502454,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174615,
+      "num": 174615,
+      "word": "2名儿童车祸送医私家车一路让行",
+      "onboard_time": 1703722532,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 174263,
@@ -7723,12 +7875,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 170204,
-      "num": 95494,
-      "word": "棉服 鲨鱼裤",
-      "onboard_time": 1703719824,
-      "rank": 31,
-      "category": "时尚"
+      "raw_hot": 170619,
+      "num": 170619,
+      "word": "戈登被狗咬伤",
+      "onboard_time": 1703722290,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 169785,
@@ -8051,6 +8203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163347,
+      "num": 163347,
+      "word": "出现这些症状可能是糖尿病前期",
+      "onboard_time": 1703725714,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163185,
       "num": 163185,
       "word": "NCT127 暖呼呼的舞台",
@@ -8337,6 +8497,14 @@
       "onboard_time": 1703683597,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158203,
+      "num": 158203,
+      "word": "小学生自创游戏在班里开公司",
+      "onboard_time": 1703724634,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158181,
@@ -8816,6 +8984,14 @@
       "word": "北京一公交车行驶途中司机晕倒",
       "onboard_time": 1703574516,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147780,
+      "num": 147780,
+      "word": "大雾",
+      "onboard_time": 1703724032,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -9315,6 +9491,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 136785,
+      "num": 136785,
+      "word": "曝网易暴雪复合已在日程中",
+      "onboard_time": 1703720306,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136660,
       "num": 136660,
       "word": "蝴蝶落在了狗狗的鼻子上",
@@ -9539,14 +9723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132934,
-      "num": 132934,
-      "word": "赵昭仪英文给王安宇听乐了",
-      "onboard_time": 1703701938,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132914,
       "num": 132914,
       "word": "数学这东西 三分天注定",
@@ -9641,6 +9817,14 @@
       "onboard_time": 1703496457,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130937,
+      "num": 130937,
+      "word": "韩路采访韩寒",
+      "onboard_time": 1703725534,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130864,
@@ -9833,6 +10017,14 @@
       "onboard_time": 1703552792,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127472,
+      "num": 127472,
+      "word": "杨过的雕可能是真的",
+      "onboard_time": 1703709914,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 127470,
@@ -10475,6 +10667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113430,
+      "num": 113430,
+      "word": "艺考生车库练舞压力大到坐地痛哭",
+      "onboard_time": 1703722412,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113366,
       "num": 385269,
       "word": "蛋仔三丽鸥好碰友",
@@ -10899,14 +11099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95099,
-      "num": 95099,
-      "word": "杨过的雕可能是真的",
-      "onboard_time": 1703709914,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94923,
       "num": 94923,
       "word": "黄景瑜柔术棕带",
@@ -10937,14 +11129,6 @@
       "onboard_time": 1703594735,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92991,
-      "num": 92991,
-      "word": "我这一年辛辛苦苦挣了很少钱",
-      "onboard_time": 1703718922,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 91935,
@@ -11835,6 +12019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21454,
+      "num": 1156957,
+      "word": "2023中国航天高燃时刻",
+      "onboard_time": 1703670635,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20606,
       "num": 26507,
       "word": "电影潜行北京首映礼",
@@ -11881,14 +12073,6 @@
       "onboard_time": 1703701757,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18917,
-      "num": 1156957,
-      "word": "2023中国航天高燃时刻",
-      "onboard_time": 1703670635,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18874,
