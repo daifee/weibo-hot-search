@@ -1,0 +1,410 @@
+{
+  "runTime": 1703737266435,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2078192,
+        "num": 2078192,
+        "word": "3娃非亲生案女方跟别人生下第4个女儿",
+        "onboard_time": 1703733155,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1524437,
+        "num": 1524437,
+        "word": "因病少上1天班没了年终奖",
+        "onboard_time": 1703729194,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7030,
+        "num": 931124,
+        "word": "2023中国航天高燃时刻",
+        "onboard_time": 1703670635,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800647,
+        "num": 800647,
+        "word": "卷生卷死的韩国人开始逃了",
+        "onboard_time": 1703730268,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688592,
+        "num": 688592,
+        "word": "繁花居然是用单机位拍的",
+        "onboard_time": 1703735494,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 679990,
+        "num": 679990,
+        "word": "大学生不要再发求捞表情包了",
+        "onboard_time": 1703721811,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 506038,
+        "num": 506038,
+        "word": "繁花里的papi酱",
+        "onboard_time": 1703724573,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486638,
+        "num": 486638,
+        "word": "春楠给关晓彤化的新年好运妆",
+        "onboard_time": 1703733872,
+        "rank": 7,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 442383,
+        "num": 442383,
+        "word": "不回微信不一定忙",
+        "onboard_time": 1703736634,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 438382,
+        "num": 438382,
+        "word": "小白80万上海开面馆6天濒临倒闭",
+        "onboard_time": 1703726671,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429550,
+        "num": 429550,
+        "word": "新生儿遭月子中心月嫂虐待",
+        "onboard_time": 1703722412,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421093,
+        "num": 421093,
+        "word": "肖战嘉人开年刊预告",
+        "onboard_time": 1703733692,
+        "rank": 11,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 385222,
+        "num": 385222,
+        "word": "韩媒曝李善均遗书内容",
+        "onboard_time": 1703725594,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379420,
+        "num": 379420,
+        "word": "老师把婚礼办到了幼儿园里",
+        "onboard_time": 1703730211,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379024,
+        "num": 379024,
+        "word": "女生大学毕业卖烤猪月入3万",
+        "onboard_time": 1703729733,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90810,
+        "num": 366240,
+        "word": "光与夜之恋可爱多",
+        "onboard_time": 1703734595,
+        "rank": 15,
+        "category": "动漫,美食"
+      },
+      {
+        "raw_hot": 355119,
+        "num": 355119,
+        "word": "繁花收视率",
+        "onboard_time": 1703729073,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329072,
+        "num": 329072,
+        "word": "吉利高管称小米汽车宣发过了",
+        "onboard_time": 1703728953,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 308932,
+        "num": 308932,
+        "word": "杨紫小夭2023最出圈女性角色",
+        "onboard_time": 1703734716,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288266,
+        "num": 288266,
+        "word": "何猷君和奚梦瑶结婚后不装了",
+        "onboard_time": 1703690377,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401650,
+        "num": 283168,
+        "word": "痛经 缺维生素D",
+        "onboard_time": 1703732913,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275793,
+        "num": 275793,
+        "word": "代号鸢海岛",
+        "onboard_time": 1703736093,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271535,
+        "num": 271535,
+        "word": "曹德旺称培养一名大学生四年补贴20多万",
+        "onboard_time": 1703728049,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271004,
+        "num": 271004,
+        "word": "中小学老师为什么越来越累",
+        "onboard_time": 1703732671,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250546,
+        "num": 250546,
+        "word": "3娃非亲生案",
+        "onboard_time": 1703730332,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247056,
+        "num": 247056,
+        "word": "2005年除夕夜的烟花",
+        "onboard_time": 1703735494,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246117,
+        "num": 246117,
+        "word": "全面禁放烟花爆竹是时候终结了",
+        "onboard_time": 1703689359,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244557,
+        "num": 244557,
+        "word": "间歇性冷漠",
+        "onboard_time": 1703733632,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228358,
+        "num": 228358,
+        "word": "繁花",
+        "onboard_time": 1703719223,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198492,
+        "num": 198492,
+        "word": "魅族称要成为小米首位车主",
+        "onboard_time": 1703736994,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 222849,
+        "num": 197849,
+        "word": "辛芷蕾繁花 脑子比脸更迷人",
+        "onboard_time": 1703736511,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192820,
+        "num": 192820,
+        "word": "美国14岁男孩为争夺礼物枪杀姐姐",
+        "onboard_time": 1703723493,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181450,
+        "num": 181450,
+        "word": "鸣龙少年豆瓣开分8.0",
+        "onboard_time": 1703735733,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181275,
+        "num": 181275,
+        "word": "A股",
+        "onboard_time": 1703732793,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178195,
+        "num": 178195,
+        "word": "小伙做了一个梦后竟刮中100万",
+        "onboard_time": 1703729431,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176179,
+        "num": 176179,
+        "word": "眼前突然一黑或是器官缺血了",
+        "onboard_time": 1703733273,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176096,
+        "num": 176096,
+        "word": "杜兰特太想赢了",
+        "onboard_time": 1703735612,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173848,
+        "num": 173848,
+        "word": "一闻就很贵的香水",
+        "onboard_time": 1703727091,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 172435,
+        "num": 172435,
+        "word": "南方小土豆",
+        "onboard_time": 1703726312,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168730,
+        "num": 168730,
+        "word": "长沙霸王茶姬有多火爆",
+        "onboard_time": 1703733213,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168242,
+        "num": 168242,
+        "word": "雷军",
+        "onboard_time": 1703724335,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162055,
+        "num": 162055,
+        "word": "出现这些症状可能是糖尿病前期",
+        "onboard_time": 1703725714,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147050,
+        "num": 147050,
+        "word": "春花厌开机路透",
+        "onboard_time": 1703735852,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144542,
+        "num": 144542,
+        "word": "泰国前女总理英拉被判无罪",
+        "onboard_time": 1703724756,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 143800,
+        "num": 143800,
+        "word": "梁朝伟刘德华 不愧从20岁就一起营业",
+        "onboard_time": 1703730030,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136835,
+        "num": 136835,
+        "word": "许光汉悼念李善均",
+        "onboard_time": 1703720907,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131868,
+        "num": 131868,
+        "word": "冯小刚 肯定很多人愿等舒淇10年",
+        "onboard_time": 1703689777,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131043,
+        "num": 131043,
+        "word": "男子拉横幅侮辱前女友被行拘",
+        "onboard_time": 1703737052,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131003,
+        "num": 131003,
+        "word": "棉服 鲨鱼裤",
+        "onboard_time": 1703719824,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 125512,
+        "num": 125512,
+        "word": "儿子诈骗30万母亲只愿退赔9000",
+        "onboard_time": 1703737115,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以中国式现代化全面推进强国建设#"
+    }
+  }
+}

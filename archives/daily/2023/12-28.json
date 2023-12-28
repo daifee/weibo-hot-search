@@ -1,7 +1,15 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703734465089,
+  "endTime": 1703737266435,
   "band_list": [
+    {
+      "raw_hot": 2078192,
+      "num": 2078192,
+      "word": "3娃非亲生案女方跟别人生下第4个女儿",
+      "onboard_time": 1703733155,
+      "rank": 21,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2013170,
       "num": 2013170,
@@ -51,14 +59,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 911507,
-      "num": 911507,
-      "word": "3娃非亲生案女方跟别人生下第4个女儿",
-      "onboard_time": 1703733155,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 851479,
       "num": 851479,
       "word": "繁花里的papi酱",
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 800647,
+      "num": 800647,
+      "word": "卷生卷死的韩国人开始逃了",
+      "onboard_time": 1703730268,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738331,
       "num": 738331,
       "word": "何猷君和奚梦瑶结婚后不装了",
@@ -89,6 +97,14 @@
       "onboard_time": 1703723493,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 688592,
+      "num": 688592,
+      "word": "繁花居然是用单机位拍的",
+      "onboard_time": 1703735494,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 667323,
@@ -187,20 +203,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 511985,
-      "num": 275564,
-      "word": "卷生卷死的韩国人开始逃了",
-      "onboard_time": 1703730268,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 499356,
       "num": 499356,
       "word": "南方小土豆",
       "onboard_time": 1703726312,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 486638,
+      "num": 486638,
+      "word": "春楠给关晓彤化的新年好运妆",
+      "onboard_time": 1703733872,
+      "rank": 16,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 465341,
@@ -227,6 +243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 442383,
+      "num": 442383,
+      "word": "不回微信不一定忙",
+      "onboard_time": 1703736634,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 425064,
       "num": 425064,
       "word": "泰国前女总理英拉被判无罪",
@@ -249,6 +273,14 @@
       "onboard_time": 1703688997,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421093,
+      "num": 421093,
+      "word": "肖战嘉人开年刊预告",
+      "onboard_time": 1703733692,
+      "rank": 13,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 416496,
@@ -291,16 +323,8 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 394044,
-      "num": 394044,
-      "word": "肖战嘉人开年刊预告",
-      "onboard_time": 1703733692,
-      "rank": 13,
-      "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 364705,
-      "num": 272612,
+      "raw_hot": 401650,
+      "num": 283168,
       "word": "痛经 缺维生素D",
       "onboard_time": 1703732913,
       "rank": 30,
@@ -387,12 +411,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 309261,
-      "num": 309261,
-      "word": "春楠给关晓彤化的新年好运妆",
-      "onboard_time": 1703733872,
-      "rank": 16,
-      "category": "艺人,美妆"
+      "raw_hot": 308932,
+      "num": 308932,
+      "word": "杨紫小夭2023最出圈女性角色",
+      "onboard_time": 1703734716,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 289507,
@@ -417,6 +441,22 @@
       "onboard_time": 1703727269,
       "rank": 17,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 275793,
+      "num": 275793,
+      "word": "代号鸢海岛",
+      "onboard_time": 1703736093,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 271004,
+      "num": 271004,
+      "word": "中小学老师为什么越来越累",
+      "onboard_time": 1703732671,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258555,
@@ -459,6 +499,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247056,
+      "num": 247056,
+      "word": "2005年除夕夜的烟花",
+      "onboard_time": 1703735494,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 244557,
+      "num": 244557,
+      "word": "间歇性冷漠",
+      "onboard_time": 1703733632,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241629,
       "num": 241629,
       "word": "适合冬天女性喝的",
@@ -491,6 +547,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228358,
+      "num": 228358,
+      "word": "繁花",
+      "onboard_time": 1703719223,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222849,
+      "num": 197849,
+      "word": "辛芷蕾繁花 脑子比脸更迷人",
+      "onboard_time": 1703736511,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217414,
       "num": 217414,
       "word": "A股",
@@ -507,36 +579,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 212113,
-      "num": 191971,
-      "word": "繁花",
-      "onboard_time": 1703719223,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210659,
       "num": 210659,
       "word": "梁朝伟刘德华 不愧从20岁就一起营业",
       "onboard_time": 1703730030,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 208312,
-      "num": 208312,
-      "word": "间歇性冷漠",
-      "onboard_time": 1703733632,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 205965,
-      "num": 205965,
-      "word": "中小学老师为什么越来越累",
-      "onboard_time": 1703732671,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205141,
@@ -553,6 +601,14 @@
       "onboard_time": 1703733273,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198492,
+      "num": 198492,
+      "word": "魅族称要成为小米首位车主",
+      "onboard_time": 1703736994,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 193591,
@@ -619,6 +675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181450,
+      "num": 181450,
+      "word": "鸣龙少年豆瓣开分8.0",
+      "onboard_time": 1703735733,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178643,
       "num": 178643,
       "word": "可爱多光与夜之恋联动",
@@ -659,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176096,
+      "num": 176096,
+      "word": "杜兰特太想赢了",
+      "onboard_time": 1703735612,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175153,
       "num": 149716,
       "word": "林一演技",
@@ -681,6 +753,14 @@
       "onboard_time": 1703722290,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168730,
+      "num": 354719,
+      "word": "长沙霸王茶姬有多火爆",
+      "onboard_time": 1703733213,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 158203,
@@ -713,6 +793,14 @@
       "onboard_time": 1703724032,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147050,
+      "num": 147050,
+      "word": "春花厌开机路透",
+      "onboard_time": 1703735852,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 146808,
@@ -779,20 +867,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131043,
+      "num": 131043,
+      "word": "男子拉横幅侮辱前女友被行拘",
+      "onboard_time": 1703737052,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130937,
       "num": 130937,
       "word": "韩路采访韩寒",
       "onboard_time": 1703725534,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 128439,
-      "num": 354719,
-      "word": "长沙霸王茶姬有多火爆",
-      "onboard_time": 1703733213,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 127472,
@@ -809,6 +897,14 @@
       "onboard_time": 1703719102,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125512,
+      "num": 125512,
+      "word": "儿子诈骗30万母亲只愿退赔9000",
+      "onboard_time": 1703737115,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124379,
@@ -929,6 +1025,14 @@
       "onboard_time": 1703719405,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 90810,
+      "num": 366240,
+      "word": "光与夜之恋可爱多",
+      "onboard_time": 1703734595,
+      "rank": 15,
+      "category": "动漫,美食"
     },
     {
       "raw_hot": 86862,
