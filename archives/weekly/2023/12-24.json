@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703744567786,
+  "endTime": 1703745347525,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -779,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1162795,
+      "num": 1162795,
+      "word": "上海杀妻欲藏尸冰柜案二审维持死刑",
+      "onboard_time": 1703741191,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1153593,
       "num": 1153593,
       "word": "男子供养女友及其丈夫一家5年",
@@ -875,14 +883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1087543,
-      "num": 1087543,
-      "word": "上海杀妻欲藏尸冰柜案二审维持死刑",
-      "onboard_time": 1703741191,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1084568,
       "num": 1084568,
       "word": "全面禁燃烟花爆竹不合法",
@@ -905,6 +905,14 @@
       "onboard_time": 1703599658,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1078466,
+      "num": 1078466,
+      "word": "小米汽车发布会",
+      "onboard_time": 1703743654,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 1073656,
@@ -1097,14 +1105,6 @@
       "onboard_time": 1703475874,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 935397,
-      "num": 935397,
-      "word": "小米汽车发布会",
-      "onboard_time": 1703743654,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 931610,
@@ -3219,6 +3219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445176,
+      "num": 402631,
+      "word": "文森特手术成功",
+      "onboard_time": 1703743472,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444592,
       "num": 444592,
       "word": "王楚钦领衔年度十佳运动员",
@@ -3537,6 +3545,14 @@
       "onboard_time": 1703644953,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 407890,
+      "num": 407890,
+      "word": "威胁李善均女室长抱孩子出席庭审",
+      "onboard_time": 1703744851,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 406377,
@@ -4180,7 +4196,7 @@
     },
     {
       "raw_hot": 328736,
-      "num": 251007,
+      "num": 255096,
       "word": "重庆近2万单身人士在凌晨搬家",
       "onboard_time": 1703740473,
       "rank": 45,
@@ -4305,14 +4321,6 @@
       "onboard_time": 1703566658,
       "rank": 23,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 321070,
-      "num": 321070,
-      "word": "文森特手术成功",
-      "onboard_time": 1703743472,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 320469,
@@ -4723,6 +4731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292830,
+      "num": 292830,
+      "word": "屈楚萧张佳宁穿校服扫楼",
+      "onboard_time": 1703744133,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 292121,
       "num": 292121,
       "word": "舌头下面的小刺是什么",
@@ -4964,7 +4980,7 @@
     },
     {
       "raw_hot": 277549,
-      "num": 261961,
+      "num": 262138,
       "word": "小米SU7官方实拍照首曝",
       "onboard_time": 1703741609,
       "rank": 21,
@@ -5073,6 +5089,14 @@
       "onboard_time": 1703732671,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270645,
+      "num": 261518,
+      "word": "郑强卸任后参加湖南台综艺节目",
+      "onboard_time": 1703744791,
+      "rank": 21,
+      "category": "社会新闻,综艺"
     },
     {
       "raw_hot": 269830,
@@ -6715,6 +6739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206231,
+      "num": 206231,
+      "word": "鹿晗超话翻牌",
+      "onboard_time": 1703744492,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206054,
       "num": 206054,
       "word": "这节目单不像假的",
@@ -7209,14 +7241,6 @@
       "onboard_time": 1703564795,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195781,
-      "num": 195781,
-      "word": "屈楚萧张佳宁穿校服扫楼",
-      "onboard_time": 1703744133,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 195591,
@@ -8723,14 +8747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163373,
-      "num": 163373,
-      "word": "鹿晗超话翻牌",
-      "onboard_time": 1703744492,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163185,
       "num": 163185,
       "word": "NCT127 暖呼呼的舞台",
@@ -9739,6 +9755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143677,
+      "num": 143677,
+      "word": "薛之谦谈和戚薇拍mv",
+      "onboard_time": 1703744672,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143556,
       "num": 143556,
       "word": "撒贝宁好会说",
@@ -10619,6 +10643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127256,
+      "num": 127256,
+      "word": "何炅挑战张杰新歌",
+      "onboard_time": 1703744611,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126994,
       "num": 126994,
       "word": "江苏卫视跨年全阵容",
@@ -10825,6 +10857,14 @@
       "onboard_time": 1703397631,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123548,
+      "num": 123548,
+      "word": "北京15米高恐龙移走大爷能睡着了",
+      "onboard_time": 1703745090,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123437,
@@ -11195,6 +11235,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 115741,
+      "num": 115741,
+      "word": "GQ胶片",
+      "onboard_time": 1703742030,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 115599,
       "num": 115599,
       "word": "张新成回应为什么客串三大队",
@@ -11337,14 +11385,6 @@
       "onboard_time": 1703384671,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112858,
-      "num": 112858,
-      "word": "GQ胶片",
-      "onboard_time": 1703742030,
-      "rank": 45,
-      "category": "时尚"
     },
     {
       "raw_hot": 112839,
@@ -11987,6 +12027,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 75314,
+      "num": 323020,
+      "word": "小米SU7即将上台",
+      "onboard_time": 1703743231,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 74727,
       "num": 74727,
       "word": "山东蓬莱海面雪后现海滋奇观",
@@ -12281,14 +12329,6 @@
       "onboard_time": 1703611041,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47305,
-      "num": 307519,
-      "word": "小米SU7即将上台",
-      "onboard_time": 1703743231,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 47304,
