@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703747768415,
+  "endTime": 1703748834123,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -515,6 +515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1573322,
+      "num": 1573322,
+      "word": "小米汽车价格",
+      "onboard_time": 1703745873,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1531937,
       "num": 1462440,
       "word": "如果不是地震没人知道我们有多穷",
@@ -633,6 +641,14 @@
       "onboard_time": 1703584955,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1341304,
+      "num": 1341304,
+      "word": "李善均身亡前疑似最后监控曝光",
+      "onboard_time": 1703746231,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1326880,
@@ -827,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1114297,
-      "num": 1114297,
-      "word": "小米汽车价格",
-      "onboard_time": 1703745873,
-      "rank": 1,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 1113916,
       "num": 1113916,
       "word": "他只是做错题 又没有做错人",
@@ -937,14 +945,6 @@
       "onboard_time": 1703678134,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1065360,
-      "num": 1065360,
-      "word": "李善均身亡前疑似最后监控曝光",
-      "onboard_time": 1703746231,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1064811,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1703670214,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 977640,
+      "num": 977640,
+      "word": "2023全球最帅最美面孔",
+      "onboard_time": 1703746113,
+      "rank": 7,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 974959,
@@ -1305,14 +1313,6 @@
       "onboard_time": 1703585194,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 863944,
-      "num": 863944,
-      "word": "2023全球最帅最美面孔",
-      "onboard_time": 1703746113,
-      "rank": 7,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 862422,
@@ -3403,6 +3403,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 426848,
+      "num": 426848,
+      "word": "小米SU7官方实拍照首曝",
+      "onboard_time": 1703741609,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 425331,
       "num": 279932,
       "word": "2岁女童和妈妈洗澡后感染妇科病",
@@ -3979,6 +3987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 364162,
+      "num": 364162,
+      "word": "雷军称小米汽车要媲美保时捷特斯拉",
+      "onboard_time": 1703747009,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 363690,
       "num": 363690,
       "word": "倪妮唐嫣工作室 卧龙凤雏",
@@ -4201,14 +4217,6 @@
       "onboard_time": 1703486672,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 333868,
-      "num": 333868,
-      "word": "小米SU7官方实拍照首曝",
-      "onboard_time": 1703741609,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 333615,
@@ -6131,14 +6139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227431,
-      "num": 218704,
-      "word": "雷军称小米汽车要媲美保时捷特斯拉",
-      "onboard_time": 1703747009,
-      "rank": 20,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 226858,
       "num": 215771,
       "word": "原来胡萝卜不是萝卜",
@@ -6691,6 +6691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208248,
+      "num": 208248,
+      "word": "华晨宇 公主请看官摄",
+      "onboard_time": 1703748031,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 207915,
       "num": 207915,
       "word": "张小斐一开口就有年味了",
@@ -6993,6 +7001,14 @@
       "onboard_time": 1703427101,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202005,
+      "num": 202005,
+      "word": "王一博加入朵拉头宇宙",
+      "onboard_time": 1703748513,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 201763,
@@ -7627,6 +7643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190305,
+      "num": 190305,
+      "word": "中国队已获142个巴黎奥运席位",
+      "onboard_time": 1703748274,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190188,
       "num": 190188,
       "word": "印度逮捕vivo两名高管",
@@ -7825,6 +7849,14 @@
       "onboard_time": 1703399252,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184038,
+      "num": 184038,
+      "word": "张万森 新浪下雪了",
+      "onboard_time": 1703747610,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 183781,
@@ -8531,8 +8563,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167718,
-      "num": 167718,
+      "raw_hot": 167884,
+      "num": 167884,
       "word": "北京15米高恐龙移走大爷能睡着了",
       "onboard_time": 1703745090,
       "rank": 44,
@@ -8633,6 +8665,14 @@
       "onboard_time": 1703572173,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165924,
+      "num": 165924,
+      "word": "3孩非亲生案不公开开庭审理",
+      "onboard_time": 1703747430,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165806,
@@ -9451,6 +9491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151776,
+      "num": 151776,
+      "word": "小米汽车目标全球前五",
+      "onboard_time": 1703747853,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 151693,
       "num": 151693,
       "word": "加拿大最敷衍的地名",
@@ -9971,14 +10019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140583,
-      "num": 140583,
-      "word": "张万森 新浪下雪了",
-      "onboard_time": 1703747610,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 140380,
       "num": 2859868,
       "word": "不管多晚我们都会让每个帐篷有盏亮灯",
@@ -10137,14 +10177,6 @@
       "onboard_time": 1703433214,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136915,
-      "num": 136915,
-      "word": "3孩非亲生案不公开开庭审理",
-      "onboard_time": 1703747430,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136891,
@@ -10537,6 +10569,14 @@
       "onboard_time": 1703557473,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129805,
+      "num": 129805,
+      "word": "爱情长跑",
+      "onboard_time": 1703748690,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 129786,
@@ -11315,6 +11355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116442,
+      "num": 116442,
+      "word": "一键关机的小狗",
+      "onboard_time": 1703748394,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116301,
       "num": 116301,
       "word": "经营方回应况盛售卖服饰被指抄袭",
@@ -11361,6 +11409,14 @@
       "onboard_time": 1703517994,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115308,
+      "num": 185636,
+      "word": "荣耀魔法OS新功能曝光",
+      "onboard_time": 1703746953,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 115020,
@@ -11969,14 +12025,6 @@
       "onboard_time": 1703633304,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89126,
-      "num": 174052,
-      "word": "荣耀魔法OS新功能曝光",
-      "onboard_time": 1703746953,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 88362,
@@ -12771,6 +12819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24728,
+      "num": 1175475,
+      "word": "2023那些对于热爱的回答",
+      "onboard_time": 1703722713,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24664,
       "num": 818071,
       "word": "卫星视角看中国",
@@ -12840,14 +12896,6 @@
       "word": "2023年最后一周",
       "onboard_time": 1703452515,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19984,
-      "num": 1099787,
-      "word": "2023那些对于热爱的回答",
-      "onboard_time": 1703722713,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
