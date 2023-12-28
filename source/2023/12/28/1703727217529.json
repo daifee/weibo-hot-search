@@ -1,0 +1,410 @@
+{
+  "runTime": 1703727217529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1834467,
+        "num": 1834467,
+        "word": "大学生不要再发求捞表情包了",
+        "onboard_time": 1703721811,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1317355,
+        "num": 1317355,
+        "word": "新生儿遭月子中心月嫂虐待",
+        "onboard_time": 1703722412,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20015,
+        "num": 1206531,
+        "word": "2023中国航天高燃时刻",
+        "onboard_time": 1703670635,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150595,
+        "num": 1150595,
+        "word": "全面禁放烟花爆竹是时候终结了",
+        "onboard_time": 1703689359,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099405,
+        "num": 1099405,
+        "word": "韩媒曝李善均遗书内容",
+        "onboard_time": 1703725594,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 851479,
+        "num": 851479,
+        "word": "繁花里的papi酱",
+        "onboard_time": 1703724573,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 737038,
+        "num": 737038,
+        "word": "美国14岁男孩为争夺礼物枪杀姐姐",
+        "onboard_time": 1703723493,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534066,
+        "num": 534066,
+        "word": "何猷君和奚梦瑶结婚后不装了",
+        "onboard_time": 1703690377,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533589,
+        "num": 533589,
+        "word": "棉服 鲨鱼裤",
+        "onboard_time": 1703719824,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 468612,
+        "num": 468612,
+        "word": "冯小刚 肯定很多人愿等舒淇10年",
+        "onboard_time": 1703689777,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 379119,
+        "num": 379119,
+        "word": "京东宣布采销等一线员工涨薪近100%",
+        "onboard_time": 1703720547,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 377492,
+        "num": 377492,
+        "word": "八旬老人摔倒遭无视高中生毫不犹豫扶起",
+        "onboard_time": 1703688459,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348973,
+        "num": 348973,
+        "word": "胡先煦迪丽热巴 驾校教练与学员",
+        "onboard_time": 1703723313,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306373,
+        "num": 306373,
+        "word": "许光汉悼念李善均",
+        "onboard_time": 1703720907,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295706,
+        "num": 295706,
+        "word": "四川男子售卖自家26棵香樟判缓刑",
+        "onboard_time": 1703702417,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291999,
+        "num": 291999,
+        "word": "订婚强奸案后女方家属想尽快结婚",
+        "onboard_time": 1703681675,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289507,
+        "num": 289507,
+        "word": "雷军",
+        "onboard_time": 1703724335,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 289162,
+        "num": 289162,
+        "word": "唐嫣繁花 妆造颠覆",
+        "onboard_time": 1703671537,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282549,
+        "num": 282549,
+        "word": "男生被教授催眠后眼睛无神",
+        "onboard_time": 1703693491,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245849,
+        "num": 245849,
+        "word": "南方小土豆",
+        "onboard_time": 1703726312,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 543496,
+        "num": 245260,
+        "word": "我这一年辛辛苦苦挣了很少钱",
+        "onboard_time": 1703718922,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332748,
+        "num": 245243,
+        "word": "身上的痣出现5个变化当心癌症",
+        "onboard_time": 1703700562,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 288234,
+        "num": 244939,
+        "word": "出现这些症状可能是糖尿病前期",
+        "onboard_time": 1703725714,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244083,
+        "num": 244083,
+        "word": "牛马和牛马的区别",
+        "onboard_time": 1703723734,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243192,
+        "num": 243192,
+        "word": "幼儿园的单子不接了",
+        "onboard_time": 1703705594,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235924,
+        "num": 235924,
+        "word": "胡歌新戏演技",
+        "onboard_time": 1703709253,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233654,
+        "num": 233654,
+        "word": "小白80万上海开面馆6天濒临倒闭",
+        "onboard_time": 1703726671,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227299,
+        "num": 227299,
+        "word": "王者荣耀维护",
+        "onboard_time": 1703724335,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210269,
+        "num": 210269,
+        "word": "3块钱的饮料正在集体消失",
+        "onboard_time": 1703683597,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209811,
+        "num": 209811,
+        "word": "章泽天二胎 双胞胎",
+        "onboard_time": 1703666136,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 300882,
+        "num": 209425,
+        "word": "泰国前女总理英拉被判无罪",
+        "onboard_time": 1703724756,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 189430,
+        "num": 189430,
+        "word": "繁花",
+        "onboard_time": 1703719223,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188646,
+        "num": 188646,
+        "word": "被东北的哥的热心震惊了",
+        "onboard_time": 1703726493,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186938,
+        "num": 186938,
+        "word": "小时代之繁花时代",
+        "onboard_time": 1703680895,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182516,
+        "num": 182516,
+        "word": "2名儿童车祸送医私家车一路让行",
+        "onboard_time": 1703722532,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 177511,
+        "num": 177511,
+        "word": "官方回应韩信母亲墓被盗挖5米",
+        "onboard_time": 1703726493,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164468,
+        "num": 164468,
+        "word": "特斯拉瞒报工厂机器人袭击工人次数",
+        "onboard_time": 1703678617,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 162386,
+        "num": 162386,
+        "word": "迪丽热巴 StrayKids",
+        "onboard_time": 1703684918,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162256,
+        "num": 162256,
+        "word": "英雄联盟维护",
+        "onboard_time": 1703723614,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159172,
+        "num": 159172,
+        "word": "周海媚为突发心脏病猝死",
+        "onboard_time": 1703674418,
+        "rank": 39,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 152083,
+        "num": 152083,
+        "word": "男子造谣倒卖捐赠地震灾区羽绒服被刑拘",
+        "onboard_time": 1703721929,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151861,
+        "num": 151861,
+        "word": "杭州大姐把旧羽绒服翻新成羽绒被火了",
+        "onboard_time": 1703693252,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147384,
+        "num": 147384,
+        "word": "赵昭仪英文给王安宇听乐了",
+        "onboard_time": 1703701938,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130181,
+        "num": 130181,
+        "word": "戈登被狗咬伤",
+        "onboard_time": 1703722290,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122504,
+        "num": 122504,
+        "word": "2024射手座 自由",
+        "onboard_time": 1703686779,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111377,
+        "num": 111377,
+        "word": "一闻就很贵的香水",
+        "onboard_time": 1703727091,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 108711,
+        "num": 108711,
+        "word": "小学生自创游戏在班里开公司",
+        "onboard_time": 1703724634,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107537,
+        "num": 107537,
+        "word": "发发 作弊",
+        "onboard_time": 1703680532,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106532,
+        "num": 106532,
+        "word": "大雾",
+        "onboard_time": 1703724032,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102898,
+        "num": 102898,
+        "word": "韩路采访韩寒",
+        "onboard_time": 1703725534,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#以中国式现代化全面推进强国建设#"
+    }
+  }
+}

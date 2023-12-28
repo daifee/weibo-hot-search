@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703726006327,
+  "endTime": 1703727217529,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -619,6 +619,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1317355,
+      "num": 1317355,
+      "word": "新生儿遭月子中心月嫂虐待",
+      "onboard_time": 1703722412,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1314949,
       "num": 1314949,
       "word": "柯洁 今后不会再发动态",
@@ -633,14 +641,6 @@
       "onboard_time": 1703421395,
       "rank": 23,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 1304553,
-      "num": 1304553,
-      "word": "新生儿遭月子中心月嫂虐待",
-      "onboard_time": 1703722412,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1296015,
@@ -817,6 +817,14 @@
       "onboard_time": 1703467413,
       "rank": 11,
       "category": "剧集,幽默"
+    },
+    {
+      "raw_hot": 1099405,
+      "num": 1099405,
+      "word": "韩媒曝李善均遗书内容",
+      "onboard_time": 1703725594,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 1098861,
@@ -1243,6 +1251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 851479,
+      "num": 851479,
+      "word": "繁花里的papi酱",
+      "onboard_time": 1703724573,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 846204,
       "num": 846204,
       "word": "韩后创始人卖豪宅还债",
@@ -1475,14 +1491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 749869,
-      "num": 749869,
-      "word": "繁花里的papi酱",
-      "onboard_time": 1703724573,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 748497,
       "num": 748497,
       "word": "陈都灵 美艳女妖",
@@ -1528,6 +1536,14 @@
       "word": "男子心脏停跳90分钟医生接力救回",
       "onboard_time": 1703494836,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 737038,
+      "num": 737038,
+      "word": "美国14岁男孩为争夺礼物枪杀姐姐",
+      "onboard_time": 1703723493,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1729,14 +1745,6 @@
       "onboard_time": 1703514035,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 687161,
-      "num": 687161,
-      "word": "美国14岁男孩为争夺礼物枪杀姐姐",
-      "onboard_time": 1703723493,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 683762,
@@ -1953,14 +1961,6 @@
       "onboard_time": 1703572415,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 634467,
-      "num": 634467,
-      "word": "韩媒曝李善均遗书内容",
-      "onboard_time": 1703725594,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 633074,
@@ -2465,6 +2465,14 @@
       "onboard_time": 1703497236,
       "rank": 12,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 533589,
+      "num": 533589,
+      "word": "棉服 鲨鱼裤",
+      "onboard_time": 1703719824,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 533554,
@@ -3427,14 +3435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 394701,
-      "num": 394701,
-      "word": "棉服 鲨鱼裤",
-      "onboard_time": 1703719824,
-      "rank": 31,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 394226,
       "num": 394226,
       "word": "小米官宣汽车发布会",
@@ -3795,6 +3795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348973,
+      "num": 348973,
+      "word": "胡先煦迪丽热巴 驾校教练与学员",
+      "onboard_time": 1703723313,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347574,
       "num": 347574,
       "word": "一些留学生回国后的报复性行为",
@@ -3825,14 +3833,6 @@
       "onboard_time": 1703401352,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 342170,
-      "num": 342170,
-      "word": "胡先煦迪丽热巴 驾校教练与学员",
-      "onboard_time": 1703723313,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 342151,
@@ -4491,12 +4491,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289507,
+      "num": 289507,
+      "word": "雷军",
+      "onboard_time": 1703724335,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 288357,
       "num": 288357,
       "word": "狼队对战WB",
       "onboard_time": 1703667935,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 288234,
+      "num": 244939,
+      "word": "出现这些症状可能是糖尿病前期",
+      "onboard_time": 1703725714,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 287625,
@@ -4817,14 +4833,6 @@
       "onboard_time": 1703480858,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 266351,
-      "num": 266351,
-      "word": "雷军",
-      "onboard_time": 1703724335,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 266214,
@@ -5211,6 +5219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245849,
+      "num": 245849,
+      "word": "南方小土豆",
+      "onboard_time": 1703726312,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245111,
       "num": 245111,
       "word": "Yuna红发",
@@ -5577,6 +5593,14 @@
       "onboard_time": 1703403211,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 233654,
+      "num": 233654,
+      "word": "小白80万上海开面馆6天濒临倒闭",
+      "onboard_time": 1703726671,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233563,
@@ -7171,6 +7195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188646,
+      "num": 188646,
+      "word": "被东北的哥的热心震惊了",
+      "onboard_time": 1703726493,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188617,
       "num": 180904,
       "word": "迪士尼 狐朋狗友",
@@ -7361,6 +7393,14 @@
       "onboard_time": 1703384011,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182516,
+      "num": 182516,
+      "word": "2名儿童车祸送医私家车一路让行",
+      "onboard_time": 1703722532,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 182500,
@@ -7563,6 +7603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177511,
+      "num": 177511,
+      "word": "官方回应韩信母亲墓被盗挖5米",
+      "onboard_time": 1703726493,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177460,
       "num": 177460,
       "word": "工作坏但是妈妈好",
@@ -7705,14 +7753,6 @@
       "onboard_time": 1703502454,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174615,
-      "num": 174615,
-      "word": "2名儿童车祸送医私家车一路让行",
-      "onboard_time": 1703722532,
-      "rank": 36,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 174263,
@@ -8201,14 +8241,6 @@
       "onboard_time": 1703556933,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163347,
-      "num": 163347,
-      "word": "出现这些症状可能是糖尿病前期",
-      "onboard_time": 1703725714,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 163185,
@@ -10779,6 +10811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111377,
+      "num": 111377,
+      "word": "一闻就很贵的香水",
+      "onboard_time": 1703727091,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 110842,
       "num": 110842,
       "word": "他带领村民在新疆沙漠里养出澳洲龙虾",
@@ -12020,7 +12060,7 @@
     },
     {
       "raw_hot": 21454,
-      "num": 1156957,
+      "num": 1206531,
       "word": "2023中国航天高燃时刻",
       "onboard_time": 1703670635,
       "rank": 2,

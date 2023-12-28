@@ -1,6 +1,6 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703726006327,
+  "endTime": 1703727217529,
   "band_list": [
     {
       "raw_hot": 1984471,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1304553,
-      "num": 1304553,
+      "raw_hot": 1317355,
+      "num": 1317355,
       "word": "新生儿遭月子中心月嫂虐待",
       "onboard_time": 1703722412,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1099405,
+      "num": 1099405,
+      "word": "韩媒曝李善均遗书内容",
+      "onboard_time": 1703725594,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 851479,
+      "num": 851479,
+      "word": "繁花里的papi酱",
+      "onboard_time": 1703724573,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 829321,
@@ -35,14 +51,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 749869,
-      "num": 749869,
-      "word": "繁花里的papi酱",
-      "onboard_time": 1703724573,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 738331,
       "num": 738331,
       "word": "何猷君和奚梦瑶结婚后不装了",
@@ -51,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 687161,
-      "num": 687161,
+      "raw_hot": 737038,
+      "num": 737038,
       "word": "美国14岁男孩为争夺礼物枪杀姐姐",
       "onboard_time": 1703723493,
       "rank": 6,
@@ -65,14 +73,6 @@
       "onboard_time": 1703671537,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 634467,
-      "num": 634467,
-      "word": "韩媒曝李善均遗书内容",
-      "onboard_time": 1703725594,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 615742,
@@ -113,6 +113,14 @@
       "onboard_time": 1703691933,
       "rank": 5,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 533589,
+      "num": 533589,
+      "word": "棉服 鲨鱼裤",
+      "onboard_time": 1703719824,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 516961,
@@ -187,20 +195,20 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 394701,
-      "num": 394701,
-      "word": "棉服 鲨鱼裤",
-      "onboard_time": 1703719824,
-      "rank": 31,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 357761,
       "num": 357761,
       "word": "订婚强奸案后女方家属想尽快结婚",
       "onboard_time": 1703681675,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348973,
+      "num": 348973,
+      "word": "胡先煦迪丽热巴 驾校教练与学员",
+      "onboard_time": 1703723313,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 348868,
@@ -217,14 +225,6 @@
       "onboard_time": 1703700562,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 342170,
-      "num": 342170,
-      "word": "胡先煦迪丽热巴 驾校教练与学员",
-      "onboard_time": 1703723313,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 341923,
@@ -267,12 +267,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 266351,
-      "num": 266351,
+      "raw_hot": 289507,
+      "num": 289507,
       "word": "雷军",
       "onboard_time": 1703724335,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 288234,
+      "num": 244939,
+      "word": "出现这些症状可能是糖尿病前期",
+      "onboard_time": 1703725714,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 258555,
@@ -307,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245849,
+      "num": 245849,
+      "word": "南方小土豆",
+      "onboard_time": 1703726312,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237508,
       "num": 237508,
       "word": "男子造谣倒卖捐赠地震灾区羽绒服被刑拘",
@@ -323,6 +339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 233654,
+      "num": 233654,
+      "word": "小白80万上海开面馆6天濒临倒闭",
+      "onboard_time": 1703726671,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216768,
       "num": 95548,
       "word": "帕梅拉 在中国遇到最惊讶的事情",
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 212113,
-      "num": 186034,
+      "num": 189430,
       "word": "繁花",
       "onboard_time": 1703719223,
       "rank": 16,
@@ -355,6 +379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 188646,
+      "num": 188646,
+      "word": "被东北的哥的热心震惊了",
+      "onboard_time": 1703726493,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187334,
       "num": 187334,
       "word": "天降祁媛",
@@ -363,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182516,
+      "num": 182516,
+      "word": "2名儿童车祸送医私家车一路让行",
+      "onboard_time": 1703722532,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 182106,
       "num": 182106,
       "word": "英雄联盟维护",
       "onboard_time": 1703723614,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177511,
+      "num": 177511,
+      "word": "官方回应韩信母亲墓被盗挖5米",
+      "onboard_time": 1703726493,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176998,
@@ -403,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174615,
-      "num": 174615,
-      "word": "2名儿童车祸送医私家车一路让行",
-      "onboard_time": 1703722532,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 172594,
       "num": 172594,
       "word": "2024射手座 自由",
@@ -425,14 +465,6 @@
       "onboard_time": 1703722290,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163347,
-      "num": 163347,
-      "word": "出现这些症状可能是糖尿病前期",
-      "onboard_time": 1703725714,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 158203,
@@ -585,6 +617,14 @@
       "onboard_time": 1703666315,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111377,
+      "num": 111377,
+      "word": "一闻就很贵的香水",
+      "onboard_time": 1703727091,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 107871,
@@ -812,7 +852,7 @@
     },
     {
       "raw_hot": 21454,
-      "num": 885341,
+      "num": 1206531,
       "word": "2023中国航天高燃时刻",
       "onboard_time": 1703670635,
       "rank": 2,
