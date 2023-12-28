@@ -1,0 +1,410 @@
+{
+  "runTime": 1703763239895,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2101160,
+        "num": 2101160,
+        "word": "小米汽车价格",
+        "onboard_time": 1703745873,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 435363,
+        "num": 1894297,
+        "word": "捐献者15年不换手机号成功救人一命",
+        "onboard_time": 1703759913,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 18379,
+        "num": 1827765,
+        "word": "第二届链博会展期确定",
+        "onboard_time": 1703755837,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1800225,
+        "num": 1800225,
+        "word": "向太宣布将出售耗时十年建成豪宅",
+        "onboard_time": 1703760874,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130302,
+        "num": 1246923,
+        "word": "1只边牧被救咕噜咕噜变3只",
+        "onboard_time": 1703738673,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1245762,
+        "num": 1245762,
+        "word": "康康都一米八了",
+        "onboard_time": 1703757633,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53261,
+        "num": 1095842,
+        "word": "北京西站民警的这个妙招应周知所有旅客",
+        "onboard_time": 1703762616,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1077559,
+        "num": 1077559,
+        "word": "退款不退货",
+        "onboard_time": 1703759195,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 919263,
+        "num": 919263,
+        "word": "姜涛全球最帅面孔第三",
+        "onboard_time": 1703753977,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 792511,
+        "num": 792511,
+        "word": "papi酱 2023道歉信",
+        "onboard_time": 1703762073,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 739098,
+        "num": 739098,
+        "word": "三孩非亲生案女方称DNA也不是100%准确",
+        "onboard_time": 1703759732,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529768,
+        "num": 529768,
+        "word": "小米汽车颜值",
+        "onboard_time": 1703750554,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 491501,
+        "num": 491501,
+        "word": "刘亦菲单肩透视粉裙",
+        "onboard_time": 1703758416,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 459287,
+        "num": 459287,
+        "word": "年终奖 十三薪",
+        "onboard_time": 1703749052,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 437106,
+        "num": 437106,
+        "word": "大学辅导员带媳妇走遍全国去家访",
+        "onboard_time": 1703757033,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389749,
+        "num": 389749,
+        "word": "韩媒曝李善均身亡前细节",
+        "onboard_time": 1703759254,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380434,
+        "num": 380434,
+        "word": "A股大涨胡锡进赚了7800元",
+        "onboard_time": 1703760694,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 359969,
+        "num": 359969,
+        "word": "小米汽车发布会",
+        "onboard_time": 1703743654,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 335397,
+        "num": 335397,
+        "word": "员工离婚未主动报备遭开除",
+        "onboard_time": 1703753196,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324465,
+        "num": 324465,
+        "word": "日本北海道地区发生6.4级地震",
+        "onboard_time": 1703761654,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335426,
+        "num": 314472,
+        "word": "李善均身亡前疑似最后监控曝光",
+        "onboard_time": 1703746231,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301374,
+        "num": 301374,
+        "word": "雷军吐槽B级车也叫7",
+        "onboard_time": 1703760514,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 265594,
+        "num": 265594,
+        "word": "学者评繁花前四集",
+        "onboard_time": 1703753435,
+        "rank": 22,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 260630,
+        "num": 260630,
+        "word": "邓为经纪人黄卉发文",
+        "onboard_time": 1703755295,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248941,
+        "num": 248941,
+        "word": "原来我小时候装睡这么明显",
+        "onboard_time": 1703757395,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213734,
+        "num": 213734,
+        "word": "陈漫拍的郭晶晶",
+        "onboard_time": 1703755358,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201061,
+        "num": 201061,
+        "word": "胡歌上海话",
+        "onboard_time": 1703762432,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191801,
+        "num": 191801,
+        "word": "小米汽车",
+        "onboard_time": 1703741673,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 176990,
+        "num": 176990,
+        "word": "孙颖莎76周世界第一",
+        "onboard_time": 1703761710,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30875,
+        "num": 176674,
+        "word": "老师把婚礼办到了幼儿园里",
+        "onboard_time": 1703730211,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176379,
+        "num": 176379,
+        "word": "小爱将小米汽车识别为保时捷",
+        "onboard_time": 1703759375,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175073,
+        "num": 175073,
+        "word": "全球最美面孔 西村力第四",
+        "onboard_time": 1703759375,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167952,
+        "num": 167952,
+        "word": "于适主持首秀妆",
+        "onboard_time": 1703762193,
+        "rank": 32,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 161551,
+        "num": 161551,
+        "word": "神隐",
+        "onboard_time": 1703762733,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145518,
+        "num": 145518,
+        "word": "曾黎 2023年我把很多人吓到了",
+        "onboard_time": 1703757156,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145268,
+        "num": 145268,
+        "word": "花少这段味儿太大了",
+        "onboard_time": 1703754753,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142307,
+        "num": 142307,
+        "word": "全球最帅谁评的",
+        "onboard_time": 1703758233,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141057,
+        "num": 141057,
+        "word": "WB去成都吧",
+        "onboard_time": 1703763093,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140250,
+        "num": 140250,
+        "word": "羽生结弦直播出演幕后花絮",
+        "onboard_time": 1703761654,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134212,
+        "num": 134212,
+        "word": "侯明昊 银发麻花马尾辫",
+        "onboard_time": 1703760033,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133180,
+        "num": 133180,
+        "word": "马伊琍演技",
+        "onboard_time": 1703762015,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129312,
+        "num": 129312,
+        "word": "谁投的西村力",
+        "onboard_time": 1703760575,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109498,
+        "num": 109498,
+        "word": "胖东来宣布员工将提前3小时下班",
+        "onboard_time": 1703763093,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107158,
+        "num": 107158,
+        "word": "神隐凤隐回归",
+        "onboard_time": 1703758654,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300152,
+        "num": 106603,
+        "word": "单依纯 出道三年还是大学生",
+        "onboard_time": 1703760154,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49184,
+        "num": 105834,
+        "word": "搜救犬肥肥和战友们回家啦",
+        "onboard_time": 1703762253,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105371,
+        "num": 105371,
+        "word": "朴志效 Killin Me Good",
+        "onboard_time": 1703760874,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105009,
+        "num": 105009,
+        "word": "雷军称小米汽车要媲美保时捷特斯拉",
+        "onboard_time": 1703747009,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 104035,
+        "num": 104035,
+        "word": "刘嘉玲晒与康康同框照",
+        "onboard_time": 1703757395,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91563,
+        "num": 91563,
+        "word": "男朋友送的一周年纪念礼物",
+        "onboard_time": 1703756014,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和人民在一起的暖心瞬间#"
+    }
+  }
+}
