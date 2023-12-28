@@ -1,7 +1,15 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703731066274,
+  "endTime": 1703733518279,
   "band_list": [
+    {
+      "raw_hot": 1988815,
+      "num": 1988815,
+      "word": "因病少上1天班没了年终奖",
+      "onboard_time": 1703729194,
+      "rank": 8,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1984471,
       "num": 1984471,
@@ -40,14 +48,6 @@
       "word": "小白80万上海开面馆6天濒临倒闭",
       "onboard_time": 1703726671,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 969993,
-      "num": 969993,
-      "word": "因病少上1天班没了年终奖",
-      "onboard_time": 1703729194,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 511985,
+      "num": 266602,
+      "word": "卷生卷死的韩国人开始逃了",
+      "onboard_time": 1703730268,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499356,
       "num": 499356,
       "word": "南方小土豆",
@@ -179,28 +187,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 443221,
-      "num": 443221,
-      "word": "3块钱的饮料正在集体消失",
-      "onboard_time": 1703683597,
-      "rank": 7,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 434989,
-      "num": 434989,
+      "raw_hot": 465341,
+      "num": 465341,
       "word": "吉利高管称小米汽车宣发过了",
       "onboard_time": 1703728953,
       "rank": 14,
       "category": "汽车"
     },
     {
-      "raw_hot": 429196,
-      "num": 264240,
-      "word": "卷生卷死的韩国人开始逃了",
-      "onboard_time": 1703730268,
-      "rank": 21,
+      "raw_hot": 461854,
+      "num": 461854,
+      "word": "3娃非亲生案",
+      "onboard_time": 1703730332,
+      "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444464,
+      "num": 444464,
+      "word": "女生大学毕业卖烤猪月入3万",
+      "onboard_time": 1703729733,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443221,
+      "num": 443221,
+      "word": "3块钱的饮料正在集体消失",
+      "onboard_time": 1703683597,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 425064,
@@ -248,6 +264,14 @@
       "word": "八旬老人摔倒遭无视高中生毫不犹豫扶起",
       "onboard_time": 1703688459,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406309,
+      "num": 406309,
+      "word": "老师把婚礼办到了幼儿园里",
+      "onboard_time": 1703730211,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 321705,
-      "num": 265737,
+      "num": 305808,
       "word": "曹德旺称培养一名大学生四年补贴20多万",
       "onboard_time": 1703728049,
       "rank": 20,
@@ -361,14 +385,6 @@
       "onboard_time": 1703727269,
       "rank": 17,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 272366,
-      "num": 242483,
-      "word": "女生大学毕业卖烤猪月入3万",
-      "onboard_time": 1703729733,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258555,
@@ -411,12 +427,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 238652,
-      "num": 238652,
-      "word": "3娃非亲生案",
-      "onboard_time": 1703730332,
-      "rank": 45,
+      "raw_hot": 244460,
+      "num": 244460,
+      "word": "3娃非亲生案女方跟别人生下第4个女儿",
+      "onboard_time": 1703733155,
+      "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241629,
+      "num": 241629,
+      "word": "适合冬天女性喝的",
+      "onboard_time": 1703729133,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 237508,
@@ -433,14 +457,6 @@
       "onboard_time": 1703687080,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 235362,
-      "num": 235362,
-      "word": "老师把婚礼办到了幼儿园里",
-      "onboard_time": 1703730211,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235306,
@@ -467,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208908,
-      "num": 208908,
-      "word": "适合冬天女性喝的",
-      "onboard_time": 1703729133,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 210659,
+      "num": 210659,
+      "word": "梁朝伟刘德华 不愧从20岁就一起营业",
+      "onboard_time": 1703730030,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 205141,
@@ -483,12 +499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200315,
+      "num": 191693,
+      "word": "痛经 缺维生素D",
+      "onboard_time": 1703732913,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 193591,
       "num": 193591,
       "word": "淘宝将支持仅退款",
       "onboard_time": 1703651860,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 192190,
+      "num": 192190,
+      "word": "我的2023年度总结",
+      "onboard_time": 1703732491,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 191728,
@@ -515,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183178,
+      "num": 183178,
+      "word": "A股",
+      "onboard_time": 1703732793,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 183006,
       "num": 183006,
       "word": "郑恺恭喜魏总正式上线",
@@ -537,6 +577,14 @@
       "onboard_time": 1703723614,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179060,
+      "num": 179060,
+      "word": "中小学老师为什么越来越累",
+      "onboard_time": 1703732671,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177511,
@@ -577,14 +625,6 @@
       "onboard_time": 1703689236,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174604,
-      "num": 174604,
-      "word": "梁朝伟刘德华 不愧从20岁就一起营业",
-      "onboard_time": 1703730030,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 172594,
@@ -633,6 +673,14 @@
       "onboard_time": 1703724032,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146808,
+      "num": 120956,
+      "word": "秦岚和胡先煦的幽默对话",
+      "onboard_time": 1703732131,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 146741,
@@ -723,6 +771,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 121692,
+      "num": 121692,
+      "word": "初中生跳拉丁科目三嗨翻全场",
+      "onboard_time": 1703732913,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119815,
       "num": 119815,
       "word": "对眼睛友好的冷知识",
@@ -753,6 +809,14 @@
       "onboard_time": 1703679097,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116015,
+      "num": 116015,
+      "word": "眼前突然一黑或是器官缺血了",
+      "onboard_time": 1703733273,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113430,
@@ -793,6 +857,14 @@
       "onboard_time": 1703670820,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103459,
+      "num": 103459,
+      "word": "今天穿什么",
+      "onboard_time": 1703733451,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 100651,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1703698279,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26981,
+      "num": 350457,
+      "word": "长沙霸王茶姬有多火爆",
+      "onboard_time": 1703733213,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 22441,

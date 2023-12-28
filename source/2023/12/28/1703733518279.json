@@ -1,0 +1,410 @@
+{
+  "runTime": 1703733518279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1988815,
+        "num": 1988815,
+        "word": "因病少上1天班没了年终奖",
+        "onboard_time": 1703729194,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800085,
+        "num": 800085,
+        "word": "大学生不要再发求捞表情包了",
+        "onboard_time": 1703721811,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9098,
+        "num": 751374,
+        "word": "2023中国航天高燃时刻",
+        "onboard_time": 1703670635,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744796,
+        "num": 744796,
+        "word": "新生儿遭月子中心月嫂虐待",
+        "onboard_time": 1703722412,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670102,
+        "num": 670102,
+        "word": "小白80万上海开面馆6天濒临倒闭",
+        "onboard_time": 1703726671,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640434,
+        "num": 640434,
+        "word": "韩媒曝李善均遗书内容",
+        "onboard_time": 1703725594,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634615,
+        "num": 634615,
+        "word": "繁花里的papi酱",
+        "onboard_time": 1703724573,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465341,
+        "num": 465341,
+        "word": "吉利高管称小米汽车宣发过了",
+        "onboard_time": 1703728953,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 490610,
+        "num": 464882,
+        "word": "繁花收视率",
+        "onboard_time": 1703729073,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461854,
+        "num": 461854,
+        "word": "3娃非亲生案",
+        "onboard_time": 1703730332,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444464,
+        "num": 444464,
+        "word": "女生大学毕业卖烤猪月入3万",
+        "onboard_time": 1703729733,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406309,
+        "num": 406309,
+        "word": "老师把婚礼办到了幼儿园里",
+        "onboard_time": 1703730211,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363801,
+        "num": 363801,
+        "word": "棉服 鲨鱼裤",
+        "onboard_time": 1703719824,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 351093,
+        "num": 351093,
+        "word": "全面禁放烟花爆竹是时候终结了",
+        "onboard_time": 1703689359,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26981,
+        "num": 350457,
+        "word": "长沙霸王茶姬有多火爆",
+        "onboard_time": 1703733213,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 350377,
+        "num": 350377,
+        "word": "何猷君和奚梦瑶结婚后不装了",
+        "onboard_time": 1703690377,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328927,
+        "num": 328927,
+        "word": "南方小土豆",
+        "onboard_time": 1703726312,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306851,
+        "num": 306851,
+        "word": "一闻就很贵的香水",
+        "onboard_time": 1703727091,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 305808,
+        "num": 305808,
+        "word": "曹德旺称培养一名大学生四年补贴20多万",
+        "onboard_time": 1703728049,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268402,
+        "num": 268402,
+        "word": "美国14岁男孩为争夺礼物枪杀姐姐",
+        "onboard_time": 1703723493,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511985,
+        "num": 266602,
+        "word": "卷生卷死的韩国人开始逃了",
+        "onboard_time": 1703730268,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244460,
+        "num": 244460,
+        "word": "3娃非亲生案女方跟别人生下第4个女儿",
+        "onboard_time": 1703733155,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241629,
+        "num": 241629,
+        "word": "适合冬天女性喝的",
+        "onboard_time": 1703729133,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235028,
+        "num": 235028,
+        "word": "小伙做了一个梦后竟刮中100万",
+        "onboard_time": 1703729431,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234845,
+        "num": 234845,
+        "word": "3娃非亲生男子否认因生不出男孩家暴传闻",
+        "onboard_time": 1703728772,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37480,
+        "num": 233767,
+        "word": "如果给2023一个关键词",
+        "onboard_time": 1703729250,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233641,
+        "num": 233641,
+        "word": "冯小刚 肯定很多人愿等舒淇10年",
+        "onboard_time": 1703689777,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212611,
+        "num": 212611,
+        "word": "泰国前女总理英拉被判无罪",
+        "onboard_time": 1703724756,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 210659,
+        "num": 210659,
+        "word": "梁朝伟刘德华 不愧从20岁就一起营业",
+        "onboard_time": 1703730030,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192190,
+        "num": 192190,
+        "word": "我的2023年度总结",
+        "onboard_time": 1703732491,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 200315,
+        "num": 191693,
+        "word": "痛经 缺维生素D",
+        "onboard_time": 1703732913,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183178,
+        "num": 183178,
+        "word": "A股",
+        "onboard_time": 1703732793,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179060,
+        "num": 179060,
+        "word": "中小学老师为什么越来越累",
+        "onboard_time": 1703732671,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174665,
+        "num": 174665,
+        "word": "税务师成绩",
+        "onboard_time": 1703729133,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173785,
+        "num": 173785,
+        "word": "许光汉悼念李善均",
+        "onboard_time": 1703720907,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172349,
+        "num": 172349,
+        "word": "出现这些症状可能是糖尿病前期",
+        "onboard_time": 1703725714,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170003,
+        "num": 170003,
+        "word": "胡先煦迪丽热巴 驾校教练与学员",
+        "onboard_time": 1703723313,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166459,
+        "num": 166459,
+        "word": "繁花",
+        "onboard_time": 1703719223,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121692,
+        "num": 121692,
+        "word": "初中生跳拉丁科目三嗨翻全场",
+        "onboard_time": 1703732913,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158521,
+        "num": 121427,
+        "word": "唐嫣繁花 妆造颠覆",
+        "onboard_time": 1703671537,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121137,
+        "num": 121137,
+        "word": "身上的痣出现5个变化当心癌症",
+        "onboard_time": 1703700562,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146808,
+        "num": 120956,
+        "word": "秦岚和胡先煦的幽默对话",
+        "onboard_time": 1703732131,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118297,
+        "num": 118297,
+        "word": "雷军",
+        "onboard_time": 1703724335,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117826,
+        "num": 117826,
+        "word": "特斯拉机器人暴起伤人",
+        "onboard_time": 1703727269,
+        "rank": 43,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 117740,
+        "num": 117740,
+        "word": "00后女警零下39度骑马巡边",
+        "onboard_time": 1703728953,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116015,
+        "num": 116015,
+        "word": "眼前突然一黑或是器官缺血了",
+        "onboard_time": 1703733273,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113405,
+        "num": 113405,
+        "word": "我这一年辛辛苦苦挣了很少钱",
+        "onboard_time": 1703718922,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112324,
+        "num": 112324,
+        "word": "章泽天二胎 双胞胎",
+        "onboard_time": 1703666136,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 108683,
+        "num": 108683,
+        "word": "八旬老人摔倒遭无视高中生毫不犹豫扶起",
+        "onboard_time": 1703688459,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103459,
+        "num": 103459,
+        "word": "今天穿什么",
+        "onboard_time": 1703733451,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#以中国式现代化全面推进强国建设#"
+    }
+  }
+}
