@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703798115194,
+  "endTime": 1703799254669,
   "band_list": [
     {
       "raw_hot": 1404189,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27775,
+      "num": 18810,
+      "word": "仅退款何以成头部电商标配",
+      "onboard_time": 1703797335,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 24066,
       "num": 777576,
       "word": "跟着AI重走2023中国科技之旅",
@@ -483,28 +491,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20651,
-      "num": 20651,
-      "word": "热水烫碗真的能消毒杀菌吗",
-      "onboard_time": 1703792294,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 16744,
-      "num": 16744,
+      "raw_hot": 21866,
+      "num": 21218,
       "word": "鹿晗厂长踢球",
       "onboard_time": 1703797275,
       "rank": 38,
       "category": "艺人"
     },
     {
-      "raw_hot": 14998,
-      "num": 14998,
-      "word": "仅退款何以成头部电商标配",
-      "onboard_time": 1703797335,
-      "rank": 40,
-      "category": "互联网"
+      "raw_hot": 20651,
+      "num": 20651,
+      "word": "热水烫碗真的能消毒杀菌吗",
+      "onboard_time": 1703792294,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 13202,
@@ -515,8 +515,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 12550,
-      "num": 14117,
+      "raw_hot": 12567,
+      "num": 14309,
       "word": "春花厌全阵容",
       "onboard_time": 1703795534,
       "rank": 46,
