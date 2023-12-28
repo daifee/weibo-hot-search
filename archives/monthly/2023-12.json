@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703792030059,
+  "endTime": 1703794570655,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -77227,6 +77227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19869,
+      "num": 19869,
+      "word": "热水烫碗真的能消毒杀菌吗",
+      "onboard_time": 1703792294,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 19603,
       "num": 19603,
       "word": "华人博主记录在美失业",
@@ -77769,6 +77777,14 @@
       "onboard_time": 1703278994,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 13202,
+      "num": 14875,
+      "word": "电影路演价格",
+      "onboard_time": 1703793254,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 13135,
