@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703801795351,
+  "endTime": 1703802827037,
   "band_list": [
     {
       "raw_hot": 1404189,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211395,
+      "num": 211395,
+      "word": "三孩非亲生案女方称DNA也不是100%准确",
+      "onboard_time": 1703759732,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202926,
       "num": 202926,
       "word": "A股久违大涨的原因找到了",
@@ -209,14 +217,6 @@
       "onboard_time": 1703759195,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 160211,
-      "num": 160211,
-      "word": "三孩非亲生案女方称DNA也不是100%准确",
-      "onboard_time": 1703759732,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148217,
@@ -275,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111680,
+      "num": 111680,
+      "word": "大爷以为胃病护士一个坚持救回一命",
+      "onboard_time": 1703773356,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105990,
       "num": 105592,
       "word": "鸣龙少年 十一班招生大屏",
@@ -321,14 +329,6 @@
       "onboard_time": 1703776175,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 94809,
-      "num": 94809,
-      "word": "大爷以为胃病护士一个坚持救回一命",
-      "onboard_time": 1703773356,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92573,
@@ -395,6 +395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 66440,
+      "num": 50023,
+      "word": "仅退款何以成头部电商标配",
+      "onboard_time": 1703797335,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 65379,
       "num": 65379,
       "word": "新疆是北欧平替吗",
@@ -419,12 +427,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 52225,
-      "num": 40288,
-      "word": "仅退款何以成头部电商标配",
-      "onboard_time": 1703797335,
-      "rank": 40,
-      "category": "互联网"
+      "raw_hot": 49017,
+      "num": 49017,
+      "word": "鹿晗厂长踢球",
+      "onboard_time": 1703797275,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 48574,
@@ -451,20 +459,20 @@
       "category": "作品衍生,健康医疗"
     },
     {
-      "raw_hot": 35835,
-      "num": 35835,
-      "word": "鹿晗厂长踢球",
-      "onboard_time": 1703797275,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29325,
       "num": 29325,
       "word": "田曦薇鬼脸对镜拍",
       "onboard_time": 1703786119,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27330,
+      "num": 27330,
+      "word": "热水烫碗真的能消毒杀菌吗",
+      "onboard_time": 1703792294,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 24066,
@@ -483,14 +491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 23958,
-      "num": 23958,
-      "word": "热水烫碗真的能消毒杀菌吗",
-      "onboard_time": 1703792294,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 22989,
       "num": 20713,
       "word": "2023微博星IP年度推荐Top10",
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 22006,
-      "num": 20696,
+      "num": 20832,
       "word": "陈都灵 宿命感这不就来了吗",
       "onboard_time": 1703789954,
       "rank": 41,
