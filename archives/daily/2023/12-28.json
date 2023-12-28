@@ -1,6 +1,6 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703758718135,
+  "endTime": 1703759720386,
   "band_list": [
     {
       "raw_hot": 8404330,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1046948,
+      "num": 1046948,
+      "word": "康康都一米八了",
+      "onboard_time": 1703757633,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1031313,
       "num": 1031313,
       "word": "威胁李善均女室长抱孩子出席庭审",
@@ -275,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 622450,
-      "num": 622450,
-      "word": "康康都一米八了",
-      "onboard_time": 1703757633,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 615999,
       "num": 615999,
       "word": "小米汽车 保时捷",
@@ -371,6 +371,14 @@
       "category": "汽车,数码"
     },
     {
+      "raw_hot": 543805,
+      "num": 543805,
+      "word": "刘亦菲单肩透视粉裙",
+      "onboard_time": 1703758416,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 533589,
       "num": 533589,
       "word": "棉服 鲨鱼裤",
@@ -441,6 +449,14 @@
       "onboard_time": 1703733872,
       "rank": 16,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 481054,
+      "num": 481054,
+      "word": "韩媒曝李善均身亡前细节",
+      "onboard_time": 1703759254,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 476634,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 423901,
-      "num": 770256,
+      "num": 1065907,
       "word": "1只边牧被救咕噜咕噜变3只",
       "onboard_time": 1703738673,
       "rank": 12,
@@ -539,16 +555,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 421738,
-      "num": 421738,
-      "word": "刘亦菲单肩透视粉裙",
-      "onboard_time": 1703758416,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 416496,
-      "num": 622714,
+      "num": 845265,
       "word": "老师把婚礼办到了幼儿园里",
       "onboard_time": 1703730211,
       "rank": 43,
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324718,
+      "num": 313320,
+      "word": "原来我小时候装睡这么明显",
+      "onboard_time": 1703757395,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 321705,
       "num": 305808,
       "word": "曹德旺称培养一名大学生四年补贴20多万",
@@ -787,20 +803,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 313320,
-      "num": 313320,
-      "word": "原来我小时候装睡这么明显",
-      "onboard_time": 1703757395,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 301668,
       "num": 301668,
       "word": "公安机关公开通缉10名缅北地区重大涉毒逃犯",
       "onboard_time": 1703756196,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 294029,
+      "num": 294029,
+      "word": "退款不退货",
+      "onboard_time": 1703759195,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289507,
@@ -963,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245250,
+      "num": 2387748,
+      "word": "大学辅导员带媳妇走遍全国去家访",
+      "onboard_time": 1703757033,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244557,
       "num": 244557,
       "word": "间歇性冷漠",
@@ -1043,6 +1067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 223779,
+      "num": 223779,
+      "word": "全球最帅谁评的",
+      "onboard_time": 1703758233,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220285,
       "num": 220285,
       "word": "吴谨言春花厌发型",
@@ -1083,14 +1115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208566,
-      "num": 208566,
-      "word": "全球最帅谁评的",
-      "onboard_time": 1703758233,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208469,
       "num": 208469,
       "word": "林一做体前屈能及格吗",
@@ -1115,12 +1139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205688,
-      "num": 794151,
-      "word": "大学辅导员带媳妇走遍全国去家访",
-      "onboard_time": 1703757033,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 206439,
+      "num": 206439,
+      "word": "代号鸢 暴打策划",
+      "onboard_time": 1703759434,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 205141,
@@ -1259,6 +1283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183098,
+      "num": 183098,
+      "word": "小爱将小米汽车识别为保时捷",
+      "onboard_time": 1703759375,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 183006,
       "num": 183006,
       "word": "郑恺恭喜魏总正式上线",
@@ -1323,6 +1355,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 177845,
+      "num": 177845,
+      "word": "WB对战Hero",
+      "onboard_time": 1703759014,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177511,
       "num": 177511,
       "word": "官方回应韩信母亲墓被盗挖5米",
@@ -1371,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175077,
+      "num": 175077,
+      "word": "全球最美面孔 西村力第四",
+      "onboard_time": 1703759375,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174836,
       "num": 174836,
       "word": "曾黎 2023年我把很多人吓到了",
@@ -1385,6 +1433,14 @@
       "onboard_time": 1703686779,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171411,
+      "num": 171411,
+      "word": "RA 离谱",
+      "onboard_time": 1703758356,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 170619,
@@ -1433,14 +1489,6 @@
       "onboard_time": 1703737596,
       "rank": 44,
       "category": "网红"
-    },
-    {
-      "raw_hot": 163259,
-      "num": 163259,
-      "word": "RA 离谱",
-      "onboard_time": 1703758356,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 163149,
@@ -1667,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131682,
+      "num": 131682,
+      "word": "游本昌演的爷叔",
+      "onboard_time": 1703758717,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130937,
       "num": 130937,
       "word": "韩路采访韩寒",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1703746592,
       "rank": 40,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 125765,
+      "num": 125765,
+      "word": "神隐凤隐回归",
+      "onboard_time": 1703758654,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 125593,
@@ -1931,14 +1995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108450,
-      "num": 108450,
-      "word": "神隐凤隐回归",
-      "onboard_time": 1703758654,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107871,
       "num": 107871,
       "word": "白羊座 魅力",
@@ -2017,6 +2073,14 @@
       "onboard_time": 1703756734,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 81915,
+      "num": 544085,
+      "word": "戚薇李承铉解锁王者情侣皮肤",
+      "onboard_time": 1703757276,
+      "rank": 12,
+      "category": "作品衍生,游戏"
     },
     {
       "raw_hot": 78115,
@@ -2129,14 +2193,6 @@
       "onboard_time": 1703729250,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57219,
-      "num": 538892,
-      "word": "戚薇李承铉解锁王者情侣皮肤",
-      "onboard_time": 1703757276,
-      "rank": 12,
-      "category": "作品衍生,游戏"
     },
     {
       "raw_hot": 56559,
