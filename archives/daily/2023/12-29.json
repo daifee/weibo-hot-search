@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703802827037,
+  "endTime": 1703805502220,
   "band_list": [
     {
       "raw_hot": 1404189,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 487936,
+      "num": 487936,
+      "word": "三孩非亲生案女方称DNA也不是100%准确",
+      "onboard_time": 1703759732,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480535,
       "num": 480535,
       "word": "25至29岁年龄段未婚率超50%",
@@ -105,6 +113,14 @@
       "onboard_time": 1703769093,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 342987,
+      "num": 342987,
+      "word": "大爷以为胃病护士一个坚持救回一命",
+      "onboard_time": 1703773356,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331730,
@@ -147,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 250741,
+      "num": 250741,
+      "word": "向太宣布将出售耗时十年建成豪宅",
+      "onboard_time": 1703760874,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238830,
       "num": 172934,
       "word": "只有郑恺被拍成了东北大姨",
@@ -163,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211395,
-      "num": 211395,
-      "word": "三孩非亲生案女方称DNA也不是100%准确",
-      "onboard_time": 1703759732,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202926,
       "num": 202926,
       "word": "A股久违大涨的原因找到了",
@@ -185,14 +201,6 @@
       "onboard_time": 1703768972,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189185,
-      "num": 171387,
-      "word": "向太宣布将出售耗时十年建成豪宅",
-      "onboard_time": 1703760874,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 180299,
@@ -235,6 +243,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140609,
+      "num": 140609,
+      "word": "阿森纳0比2西汉姆联",
+      "onboard_time": 1703804962,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140180,
+      "num": 140180,
+      "word": "2023最后一个工作日",
+      "onboard_time": 1703805204,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132949,
       "num": 132949,
       "word": "除夕三件套",
@@ -249,6 +273,14 @@
       "onboard_time": 1703765433,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123493,
+      "num": 123493,
+      "word": "致敬每一个拼过2023的平凡人",
+      "onboard_time": 1703805082,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122772,
@@ -275,12 +307,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 111680,
-      "num": 111680,
-      "word": "大爷以为胃病护士一个坚持救回一命",
-      "onboard_time": 1703773356,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 106649,
+      "num": 106649,
+      "word": "薛凯琪沉迷东北大饭包",
+      "onboard_time": 1703784619,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 105990,
@@ -331,12 +363,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97465,
+      "num": 97465,
+      "word": "仅退款何以成头部电商标配",
+      "onboard_time": 1703797335,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92573,
       "num": 92573,
       "word": "邓为经纪人黄卉发文",
       "onboard_time": 1703755295,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91449,
+      "num": 91449,
+      "word": "消除内脏脂肪方法",
+      "onboard_time": 1703784378,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 90832,
@@ -363,14 +411,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 82743,
-      "num": 82743,
-      "word": "薛凯琪沉迷东北大饭包",
-      "onboard_time": 1703784619,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82487,
       "num": 124034,
       "word": "中国军队永远做你可以依靠的坚强臂膀",
@@ -395,12 +435,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 66440,
-      "num": 50023,
-      "word": "仅退款何以成头部电商标配",
-      "onboard_time": 1703797335,
-      "rank": 40,
-      "category": "互联网"
+      "raw_hot": 74927,
+      "num": 74927,
+      "word": "鹿晗厂长踢球",
+      "onboard_time": 1703797275,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 66468,
+      "num": 66468,
+      "word": "王铮亮去蘑菇屋是救场的",
+      "onboard_time": 1703769153,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 65379,
@@ -419,6 +467,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 59445,
+      "num": 59445,
+      "word": "成毅拱手礼",
+      "onboard_time": 1703803879,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58353,
       "num": 78772,
       "word": "年终奖 十三薪",
@@ -427,28 +483,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 49017,
-      "num": 49017,
-      "word": "鹿晗厂长踢球",
-      "onboard_time": 1703797275,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 48574,
-      "num": 48574,
-      "word": "消除内脏脂肪方法",
-      "onboard_time": 1703784378,
-      "rank": 47,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 46937,
-      "num": 48500,
-      "word": "王铮亮去蘑菇屋是救场的",
-      "onboard_time": 1703769153,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 55786,
+      "num": 55786,
+      "word": "热水烫碗真的能消毒杀菌吗",
+      "onboard_time": 1703792294,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 40073,
@@ -465,14 +505,6 @@
       "onboard_time": 1703786119,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27330,
-      "num": 27330,
-      "word": "热水烫碗真的能消毒杀菌吗",
-      "onboard_time": 1703792294,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 24066,
