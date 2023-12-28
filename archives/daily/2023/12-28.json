@@ -1,6 +1,6 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703763239895,
+  "endTime": 1703766718432,
   "band_list": [
     {
       "raw_hot": 8404330,
@@ -49,6 +49,14 @@
       "onboard_time": 1703730268,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1901664,
+      "num": 1901664,
+      "word": "papi酱 2023道歉信",
+      "onboard_time": 1703762073,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 1897367,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1086642,
+      "num": 1086642,
+      "word": "胖东来宣布员工将提前3小时下班",
+      "onboard_time": 1703763093,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1050953,
       "num": 1050953,
       "word": "小白80万上海开面馆6天濒临倒闭",
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 891914,
+      "num": 891914,
+      "word": "只有郑恺被拍成了东北大姨",
+      "onboard_time": 1703763932,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 851479,
       "num": 851479,
       "word": "繁花里的papi酱",
@@ -225,14 +249,6 @@
       "onboard_time": 1703718922,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 792511,
-      "num": 792511,
-      "word": "papi酱 2023道歉信",
-      "onboard_time": 1703762073,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 787734,
@@ -411,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544792,
+      "num": 544792,
+      "word": "日本北海道地区发生6.4级地震",
+      "onboard_time": 1703761654,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543805,
       "num": 543805,
       "word": "刘亦菲单肩透视粉裙",
@@ -553,6 +577,14 @@
       "onboard_time": 1703733692,
       "rank": 13,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 436852,
+      "num": 436852,
+      "word": "Doinb ip上海",
+      "onboard_time": 1703765433,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 435363,
@@ -851,14 +883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 324465,
-      "num": 324465,
-      "word": "日本北海道地区发生6.4级地震",
-      "onboard_time": 1703761654,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321705,
       "num": 305808,
       "word": "曹德旺称培养一名大学生四年补贴20多万",
@@ -891,6 +915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 301276,
+      "num": 301276,
+      "word": "文在寅对李善均去世表示哀悼",
+      "onboard_time": 1703766513,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289507,
       "num": 289507,
       "word": "雷军",
@@ -905,6 +937,14 @@
       "onboard_time": 1703725714,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 285528,
+      "num": 285528,
+      "word": "王一博 头盔",
+      "onboard_time": 1703763273,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 279433,
@@ -1107,6 +1147,14 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 230827,
+      "num": 230827,
+      "word": "云南保山3.2级地震",
+      "onboard_time": 1703765313,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228358,
       "num": 228358,
       "word": "繁花",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1703713394,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 211054,
+      "num": 179748,
+      "word": "2024富婆星座",
+      "onboard_time": 1703766453,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 210659,
@@ -1251,12 +1307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200983,
+      "num": 200983,
+      "word": "京东零售公布涨薪细节",
+      "onboard_time": 1703765492,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 200739,
       "num": 200739,
       "word": "卫健委发布元旦健康提示",
       "onboard_time": 1703749473,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198596,
+      "num": 198596,
+      "word": "WB 只打逆风局",
+      "onboard_time": 1703766273,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 197944,
@@ -1427,6 +1499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179196,
+      "num": 179196,
+      "word": "鸣龙少年 翻牌",
+      "onboard_time": 1703763332,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178643,
       "num": 178643,
       "word": "可爱多光与夜之恋联动",
@@ -1547,6 +1627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 167994,
+      "num": 167994,
+      "word": "Hero稳稳的幸福",
+      "onboard_time": 1703763513,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167952,
       "num": 167952,
       "word": "于适主持首秀妆",
@@ -1585,6 +1673,22 @@
       "onboard_time": 1703752174,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161693,
+      "num": 161693,
+      "word": "大梦归离路透",
+      "onboard_time": 1703764891,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161568,
+      "num": 161568,
+      "word": "我只是下学早 但我并不是坏孩子",
+      "onboard_time": 1703764292,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 161551,
@@ -1643,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152500,
+      "num": 152500,
+      "word": "211减肥大法",
+      "onboard_time": 1703766155,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 151776,
       "num": 151776,
       "word": "小米汽车目标全球前五",
@@ -1657,6 +1769,14 @@
       "onboard_time": 1703679336,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151467,
+      "num": 151467,
+      "word": "马哲复出",
+      "onboard_time": 1703764592,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 150891,
@@ -1747,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144774,
+      "num": 144774,
+      "word": "南方小土豆的皴运黑科技",
+      "onboard_time": 1703765672,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144265,
       "num": 144265,
       "word": "天官赐福 官方糖",
@@ -1787,6 +1915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140139,
+      "num": 140139,
+      "word": "老人地铁上要求年轻人让座未果拿水杯泼水撵人",
+      "onboard_time": 1703763273,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139172,
       "num": 139172,
       "word": "韩国娱乐圈因李善均去世暂停活动",
@@ -1809,6 +1945,14 @@
       "onboard_time": 1703760874,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135483,
+      "num": 135483,
+      "word": "日食记 砂锅胡椒鸡煲",
+      "onboard_time": 1703764533,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 134013,
@@ -1881,6 +2025,14 @@
       "onboard_time": 1703752654,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 129949,
+      "num": 180281,
+      "word": "退休前最后一课黑板依然满是板书",
+      "onboard_time": 1703764292,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 129805,
@@ -2099,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112790,
+      "num": 112790,
+      "word": "张佳宁 我走你旁边",
+      "onboard_time": 1703765013,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112238,
       "num": 112238,
       "word": "你好种地少年",
@@ -2131,12 +2291,12 @@
       "category": "动漫,美食"
     },
     {
-      "raw_hot": 109498,
-      "num": 109498,
-      "word": "胖东来宣布员工将提前3小时下班",
-      "onboard_time": 1703763093,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 110046,
+      "num": 110046,
+      "word": "京东采销回应涨薪",
+      "onboard_time": 1703763332,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 108962,
@@ -2401,6 +2561,14 @@
       "onboard_time": 1703714475,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 39346,
+      "num": 354512,
+      "word": "戚薇王者直播",
+      "onboard_time": 1703765313,
+      "rank": 14,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 38684,

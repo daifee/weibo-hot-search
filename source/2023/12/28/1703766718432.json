@@ -1,0 +1,410 @@
+{
+  "runTime": 1703766718432,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1901664,
+        "num": 1901664,
+        "word": "papi酱 2023道歉信",
+        "onboard_time": 1703762073,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1528609,
+        "num": 1528609,
+        "word": "小米汽车价格",
+        "onboard_time": 1703745873,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16109,
+        "num": 1384765,
+        "word": "第二届链博会展期确定",
+        "onboard_time": 1703755837,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1353334,
+        "num": 1353334,
+        "word": "向太宣布将出售耗时十年建成豪宅",
+        "onboard_time": 1703760874,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1086642,
+        "num": 1086642,
+        "word": "胖东来宣布员工将提前3小时下班",
+        "onboard_time": 1703763093,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891914,
+        "num": 891914,
+        "word": "只有郑恺被拍成了东北大姨",
+        "onboard_time": 1703763932,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 769542,
+        "num": 769542,
+        "word": "康康都一米八了",
+        "onboard_time": 1703757633,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671562,
+        "num": 671562,
+        "word": "退款不退货",
+        "onboard_time": 1703759195,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 610048,
+        "num": 610048,
+        "word": "姜涛全球最帅面孔第三",
+        "onboard_time": 1703753977,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 544792,
+        "num": 544792,
+        "word": "日本北海道地区发生6.4级地震",
+        "onboard_time": 1703761654,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436852,
+        "num": 436852,
+        "word": "Doinb ip上海",
+        "onboard_time": 1703765433,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 434884,
+        "num": 434884,
+        "word": "三孩非亲生案女方称DNA也不是100%准确",
+        "onboard_time": 1703759732,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399087,
+        "num": 399087,
+        "word": "小米汽车颜值",
+        "onboard_time": 1703750554,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 368253,
+        "num": 368253,
+        "word": "刘亦菲单肩透视粉裙",
+        "onboard_time": 1703758416,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39346,
+        "num": 354512,
+        "word": "戚薇王者直播",
+        "onboard_time": 1703765313,
+        "rank": 14,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 349068,
+        "num": 349068,
+        "word": "学者评繁花前四集",
+        "onboard_time": 1703753435,
+        "rank": 15,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 348913,
+        "num": 348913,
+        "word": "年终奖 十三薪",
+        "onboard_time": 1703749052,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 311861,
+        "num": 311861,
+        "word": "捐献者15年不换手机号成功救人一命",
+        "onboard_time": 1703759913,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 301276,
+        "num": 301276,
+        "word": "文在寅对李善均去世表示哀悼",
+        "onboard_time": 1703766513,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285528,
+        "num": 285528,
+        "word": "王一博 头盔",
+        "onboard_time": 1703763273,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274206,
+        "num": 274206,
+        "word": "A股大涨胡锡进赚了7800元",
+        "onboard_time": 1703760694,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240320,
+        "num": 240320,
+        "word": "小米汽车发布会",
+        "onboard_time": 1703743654,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 230827,
+        "num": 230827,
+        "word": "云南保山3.2级地震",
+        "onboard_time": 1703765313,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277258,
+        "num": 226686,
+        "word": "李善均身亡前疑似最后监控曝光",
+        "onboard_time": 1703746231,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220459,
+        "num": 220459,
+        "word": "雷军吐槽B级车也叫7",
+        "onboard_time": 1703760514,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 207692,
+        "num": 207692,
+        "word": "原来我小时候装睡这么明显",
+        "onboard_time": 1703757395,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200983,
+        "num": 200983,
+        "word": "京东零售公布涨薪细节",
+        "onboard_time": 1703765492,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198596,
+        "num": 198596,
+        "word": "WB 只打逆风局",
+        "onboard_time": 1703766273,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182585,
+        "num": 182585,
+        "word": "邓为经纪人黄卉发文",
+        "onboard_time": 1703755295,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129949,
+        "num": 180281,
+        "word": "退休前最后一课黑板依然满是板书",
+        "onboard_time": 1703764292,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 211054,
+        "num": 179748,
+        "word": "2024富婆星座",
+        "onboard_time": 1703766453,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179196,
+        "num": 179196,
+        "word": "鸣龙少年 翻牌",
+        "onboard_time": 1703763332,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167994,
+        "num": 167994,
+        "word": "Hero稳稳的幸福",
+        "onboard_time": 1703763513,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165444,
+        "num": 165444,
+        "word": "陈漫拍的郭晶晶",
+        "onboard_time": 1703755358,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161693,
+        "num": 161693,
+        "word": "大梦归离路透",
+        "onboard_time": 1703764891,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161568,
+        "num": 161568,
+        "word": "我只是下学早 但我并不是坏孩子",
+        "onboard_time": 1703764292,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153109,
+        "num": 153109,
+        "word": "花少这段味儿太大了",
+        "onboard_time": 1703754753,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152500,
+        "num": 152500,
+        "word": "211减肥大法",
+        "onboard_time": 1703766155,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 151467,
+        "num": 151467,
+        "word": "马哲复出",
+        "onboard_time": 1703764592,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145452,
+        "num": 145452,
+        "word": "员工离婚未主动报备遭开除",
+        "onboard_time": 1703753196,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144774,
+        "num": 144774,
+        "word": "南方小土豆的皴运黑科技",
+        "onboard_time": 1703765672,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140139,
+        "num": 140139,
+        "word": "老人地铁上要求年轻人让座未果拿水杯泼水撵人",
+        "onboard_time": 1703763273,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138678,
+        "num": 138678,
+        "word": "WB去成都吧",
+        "onboard_time": 1703763093,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135483,
+        "num": 135483,
+        "word": "日食记 砂锅胡椒鸡煲",
+        "onboard_time": 1703764533,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116563,
+        "num": 116563,
+        "word": "大学辅导员带媳妇走遍全国去家访",
+        "onboard_time": 1703757033,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113662,
+        "num": 113662,
+        "word": "小米汽车",
+        "onboard_time": 1703741673,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 112790,
+        "num": 112790,
+        "word": "张佳宁 我走你旁边",
+        "onboard_time": 1703765013,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112566,
+        "num": 112566,
+        "word": "曾黎 2023年我把很多人吓到了",
+        "onboard_time": 1703757156,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110046,
+        "num": 110046,
+        "word": "京东采销回应涨薪",
+        "onboard_time": 1703763332,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108928,
+        "num": 108928,
+        "word": "羽生结弦直播出演幕后花絮",
+        "onboard_time": 1703761654,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#盘点2023大国外交高光时刻#"
+    }
+  }
+}
