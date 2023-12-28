@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703780535813,
+  "endTime": 1703781496288,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -1491,6 +1491,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 852965,
+      "num": 852965,
+      "word": "我知道我爱你 官博疯了",
+      "onboard_time": 1703777493,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 851715,
       "num": 851715,
       "word": "张颂文宋佳 风中有朵雨做的云",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1703718922,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 824575,
-      "num": 824575,
-      "word": "我知道我爱你 官博疯了",
-      "onboard_time": 1703777493,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 816524,
@@ -1865,6 +1865,14 @@
       "onboard_time": 1703668537,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 731495,
+      "num": 731495,
+      "word": "关晓彤虞书欣同框合照",
+      "onboard_time": 1703778453,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 730561,
@@ -2328,14 +2336,6 @@
       "word": "娜然说封神上映后头发白了一半",
       "onboard_time": 1703572415,
       "rank": 13,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 633153,
-      "num": 633153,
-      "word": "关晓彤虞书欣同框合照",
-      "onboard_time": 1703778453,
-      "rank": 5,
       "category": "电影"
     },
     {
@@ -13985,6 +13985,14 @@
       "onboard_time": 1703560953,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42287,
+      "num": 77170,
+      "word": "太把奢侈品当成奢侈品",
+      "onboard_time": 1703781445,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 42206,
