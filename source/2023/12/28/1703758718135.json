@@ -1,0 +1,410 @@
+{
+  "runTime": 1703758718135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6795321,
+        "num": 6795321,
+        "word": "小米汽车价格",
+        "onboard_time": 1703745873,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1307998,
+        "num": 1307998,
+        "word": "姜涛全球最帅面孔第三",
+        "onboard_time": 1703753977,
+        "rank": 1,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 27717,
+        "num": 987246,
+        "word": "第二届链博会展期确定",
+        "onboard_time": 1703755837,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859431,
+        "num": 859431,
+        "word": "小米汽车颜值",
+        "onboard_time": 1703750554,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205688,
+        "num": 794151,
+        "word": "大学辅导员带媳妇走遍全国去家访",
+        "onboard_time": 1703757033,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784165,
+        "num": 784165,
+        "word": "年终奖 十三薪",
+        "onboard_time": 1703749052,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 149339,
+        "num": 770256,
+        "word": "1只边牧被救咕噜咕噜变3只",
+        "onboard_time": 1703738673,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759673,
+        "num": 759673,
+        "word": "员工离婚未主动报备遭开除",
+        "onboard_time": 1703753196,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652778,
+        "num": 652778,
+        "word": "小米汽车发布会",
+        "onboard_time": 1703743654,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 81581,
+        "num": 622714,
+        "word": "老师把婚礼办到了幼儿园里",
+        "onboard_time": 1703730211,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622450,
+        "num": 622450,
+        "word": "康康都一米八了",
+        "onboard_time": 1703757633,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602580,
+        "num": 602580,
+        "word": "邓为经纪人黄卉发文",
+        "onboard_time": 1703755295,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57219,
+        "num": 538892,
+        "word": "戚薇李承铉解锁王者情侣皮肤",
+        "onboard_time": 1703757276,
+        "rank": 12,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 504456,
+        "num": 504456,
+        "word": "王一博五年前跳科目三",
+        "onboard_time": 1703756554,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465922,
+        "num": 465922,
+        "word": "陈漫拍的郭晶晶",
+        "onboard_time": 1703755358,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421738,
+        "num": 421738,
+        "word": "刘亦菲单肩透视粉裙",
+        "onboard_time": 1703758416,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 417280,
+        "num": 417280,
+        "word": "李善均身亡前疑似最后监控曝光",
+        "onboard_time": 1703746231,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394203,
+        "num": 394203,
+        "word": "刘嘉玲晒与康康同框照",
+        "onboard_time": 1703757395,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374637,
+        "num": 374637,
+        "word": "19.9交个朋友",
+        "onboard_time": 1703752234,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 336597,
+        "num": 336597,
+        "word": "小米汽车",
+        "onboard_time": 1703741673,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 313320,
+        "num": 313320,
+        "word": "原来我小时候装睡这么明显",
+        "onboard_time": 1703757395,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301668,
+        "num": 301668,
+        "word": "公安机关公开通缉10名缅北地区重大涉毒逃犯",
+        "onboard_time": 1703756196,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 290273,
+        "num": 290273,
+        "word": "李善均家属不愿尸检",
+        "onboard_time": 1703753977,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254501,
+        "num": 254501,
+        "word": "学者评繁花前四集",
+        "onboard_time": 1703753435,
+        "rank": 23,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 224782,
+        "num": 224782,
+        "word": "A股全线放量大涨",
+        "onboard_time": 1703754693,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208566,
+        "num": 208566,
+        "word": "全球最帅谁评的",
+        "onboard_time": 1703758233,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197168,
+        "num": 197168,
+        "word": "花少这段味儿太大了",
+        "onboard_time": 1703754753,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194657,
+        "num": 194657,
+        "word": "小米集团股价转跌",
+        "onboard_time": 1703750193,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82184,
+        "num": 192502,
+        "word": "到底是科技大厂造车",
+        "onboard_time": 1703756734,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191027,
+        "num": 191027,
+        "word": "程雨杉揭穿继父",
+        "onboard_time": 1703756374,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185650,
+        "num": 185650,
+        "word": "雷军称小米从小就是被卷大的",
+        "onboard_time": 1703752234,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181264,
+        "num": 181264,
+        "word": "周一围怕朱丹写错字",
+        "onboard_time": 1703758233,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180000,
+        "num": 180000,
+        "word": "男朋友送的一周年纪念礼物",
+        "onboard_time": 1703756014,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177802,
+        "num": 177802,
+        "word": "小狗发自拍了",
+        "onboard_time": 1703751693,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174836,
+        "num": 174836,
+        "word": "曾黎 2023年我把很多人吓到了",
+        "onboard_time": 1703757156,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172638,
+        "num": 172638,
+        "word": "b站年度报告",
+        "onboard_time": 1703753555,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170554,
+        "num": 170554,
+        "word": "雷军称小米汽车要媲美保时捷特斯拉",
+        "onboard_time": 1703747009,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168276,
+        "num": 168276,
+        "word": "张晚意 网速慢不了一点",
+        "onboard_time": 1703755113,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163259,
+        "num": 163259,
+        "word": "RA 离谱",
+        "onboard_time": 1703758356,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156570,
+        "num": 156570,
+        "word": "被面试8轮是种什么体验",
+        "onboard_time": 1703756254,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149433,
+        "num": 149433,
+        "word": "专家称牛市只会迟到不会缺席",
+        "onboard_time": 1703757935,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148952,
+        "num": 148952,
+        "word": "春晚这样演我可就不困了啊",
+        "onboard_time": 1703756795,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139651,
+        "num": 139651,
+        "word": "李宏毅工作室严正声明",
+        "onboard_time": 1703751874,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138004,
+        "num": 138004,
+        "word": "孙怡的大衣T台",
+        "onboard_time": 1703749292,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123491,
+        "num": 123491,
+        "word": "清理C盘四大绝招",
+        "onboard_time": 1703757935,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121066,
+        "num": 121066,
+        "word": "小米汽车 保时捷",
+        "onboard_time": 1703751934,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 116517,
+        "num": 116517,
+        "word": "上海杀妻欲藏尸冰柜案二审维持死刑",
+        "onboard_time": 1703741191,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113454,
+        "num": 113454,
+        "word": "2023全球最帅最美面孔",
+        "onboard_time": 1703746113,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 108794,
+        "num": 108794,
+        "word": "加拿大新规要求男厕也备卫生巾",
+        "onboard_time": 1703739814,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108450,
+        "num": 108450,
+        "word": "神隐凤隐回归",
+        "onboard_time": 1703758654,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#盘点2023大国外交高光时刻#"
+    }
+  }
+}
