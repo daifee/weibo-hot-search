@@ -1,6 +1,6 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703741642952,
+  "endTime": 1703744567786,
   "band_list": [
     {
       "raw_hot": 2198038,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1897367,
+      "num": 1897367,
+      "word": "不回微信不一定忙",
+      "onboard_time": 1703736634,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1802839,
       "num": 1802839,
       "word": "全面禁放烟花爆竹是时候终结了",
       "onboard_time": 1703689359,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1686344,
-      "num": 1686344,
-      "word": "不回微信不一定忙",
-      "onboard_time": 1703736634,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 1317355,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1087543,
+      "num": 1087543,
+      "word": "上海杀妻欲藏尸冰柜案二审维持死刑",
+      "onboard_time": 1703741191,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1050953,
       "num": 1050953,
       "word": "小白80万上海开面馆6天濒临倒闭",
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 935397,
+      "num": 935397,
+      "word": "小米汽车发布会",
+      "onboard_time": 1703743654,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 851479,
       "num": 851479,
       "word": "繁花里的papi酱",
@@ -91,11 +107,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 848950,
+      "num": 848950,
+      "word": "小米汽车",
+      "onboard_time": 1703741673,
+      "rank": 5,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 829321,
       "num": 741904,
       "word": "我这一年辛辛苦苦挣了很少钱",
       "onboard_time": 1703718922,
       "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 767029,
+      "num": 767029,
+      "word": "丁克夫妻感情更像爱情吗",
+      "onboard_time": 1703739454,
+      "rank": 26,
       "category": "情感"
     },
     {
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406099,
+      "num": 406099,
+      "word": "1只边牧被救咕噜咕噜变3只",
+      "onboard_time": 1703738673,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404516,
       "num": 404516,
       "word": "周海媚为突发心脏病猝死",
@@ -369,14 +409,6 @@
       "onboard_time": 1703732913,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 382937,
-      "num": 382937,
-      "word": "1只边牧被救咕噜咕噜变3只",
-      "onboard_time": 1703738673,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371437,
@@ -468,19 +500,11 @@
     },
     {
       "raw_hot": 328736,
-      "num": 189192,
+      "num": 251007,
       "word": "重庆近2万单身人士在凌晨搬家",
       "onboard_time": 1703740473,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327829,
-      "num": 327829,
-      "word": "丁克夫妻感情更像爱情吗",
-      "onboard_time": 1703739454,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 321705,
@@ -489,6 +513,14 @@
       "onboard_time": 1703728049,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321070,
+      "num": 321070,
+      "word": "文森特手术成功",
+      "onboard_time": 1703743472,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 319539,
@@ -723,6 +755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208994,
+      "num": 208994,
+      "word": "最强大脑11嘉宾阵容官宣",
+      "onboard_time": 1703743593,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208469,
       "num": 208469,
       "word": "林一做体前屈能及格吗",
@@ -745,6 +785,14 @@
       "onboard_time": 1703733273,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195781,
+      "num": 195781,
+      "word": "屈楚萧张佳宁穿校服扫楼",
+      "onboard_time": 1703744133,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 193591,
@@ -771,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191402,
-      "num": 191402,
-      "word": "上海杀妻欲藏尸冰柜案二审维持死刑",
-      "onboard_time": 1703741191,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188646,
       "num": 188646,
       "word": "被东北的哥的热心震惊了",
@@ -793,6 +833,14 @@
       "onboard_time": 1703689958,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183464,
+      "num": 183464,
+      "word": "张杰新歌在玩一种很新的挑战",
+      "onboard_time": 1703743891,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 183006,
@@ -827,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179784,
+      "num": 179784,
+      "word": "红果果绿泡泡 想做你们的树洞",
+      "onboard_time": 1703741250,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178643,
       "num": 178643,
       "word": "可爱多光与夜之恋联动",
@@ -841,14 +897,6 @@
       "onboard_time": 1703726493,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177138,
-      "num": 177138,
-      "word": "红果果绿泡泡 想做你们的树洞",
-      "onboard_time": 1703741250,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 176998,
@@ -923,6 +971,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 163373,
+      "num": 163373,
+      "word": "鹿晗超话翻牌",
+      "onboard_time": 1703744492,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158203,
       "num": 158203,
       "word": "小学生自创游戏在班里开公司",
@@ -979,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145263,
+      "num": 145263,
+      "word": "杨洋拜年穿得好喜庆",
+      "onboard_time": 1703741250,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144265,
       "num": 144265,
       "word": "天官赐福 官方糖",
@@ -1001,14 +1065,6 @@
       "onboard_time": 1703671118,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139397,
-      "num": 139397,
-      "word": "杨洋拜年穿得好喜庆",
-      "onboard_time": 1703741250,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 139172,
@@ -1147,6 +1203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112858,
+      "num": 112858,
+      "word": "GQ胶片",
+      "onboard_time": 1703742030,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 112238,
+      "num": 112238,
+      "word": "你好种地少年",
+      "onboard_time": 1703742992,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112128,
       "num": 146570,
       "word": "龙凤胎颜值差距有多大",
@@ -1185,6 +1257,14 @@
       "onboard_time": 1703670820,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106279,
+      "num": 110365,
+      "word": "盘点2023",
+      "onboard_time": 1703743231,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103459,
@@ -1345,6 +1425,14 @@
       "onboard_time": 1703720006,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 47305,
+      "num": 307519,
+      "word": "小米SU7即将上台",
+      "onboard_time": 1703743231,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 47164,
