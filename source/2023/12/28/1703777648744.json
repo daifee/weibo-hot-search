@@ -1,0 +1,410 @@
+{
+  "runTime": 1703777648744,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1419948,
+        "num": 1419948,
+        "word": "papi酱 2023道歉信",
+        "onboard_time": 1703762073,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 846726,
+        "num": 846726,
+        "word": "迪丽热巴想买断自己表情包",
+        "onboard_time": 1703774197,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32077,
+        "num": 835369,
+        "word": "跟着AI重走2023中国科技之旅",
+        "onboard_time": 1703774795,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830449,
+        "num": 830449,
+        "word": "小米汽车价格",
+        "onboard_time": 1703745873,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 817791,
+        "num": 817791,
+        "word": "刘亦菲金莲花视后",
+        "onboard_time": 1703769093,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 787755,
+        "num": 787755,
+        "word": "胖东来宣布员工将提前3小时下班",
+        "onboard_time": 1703763093,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784817,
+        "num": 784817,
+        "word": "25至29岁年龄段未婚率超50%",
+        "onboard_time": 1703769815,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716046,
+        "num": 716046,
+        "word": "关门吻",
+        "onboard_time": 1703772516,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 685208,
+        "num": 685208,
+        "word": "天天跺脚表情包",
+        "onboard_time": 1703775693,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514919,
+        "num": 514919,
+        "word": "掉进眼睛的异物最后都去哪儿了",
+        "onboard_time": 1703768432,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 448777,
+        "num": 448777,
+        "word": "罗翔 我可没说过",
+        "onboard_time": 1703775515,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 439231,
+        "num": 439231,
+        "word": "退款不退货",
+        "onboard_time": 1703759195,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 437756,
+        "num": 437756,
+        "word": "周冬雨金莲花影后",
+        "onboard_time": 1703768672,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 426426,
+        "num": 426426,
+        "word": "只有郑恺被拍成了东北大姨",
+        "onboard_time": 1703763932,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390217,
+        "num": 390217,
+        "word": "A股久违大涨的原因找到了",
+        "onboard_time": 1703772156,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 384720,
+        "num": 384720,
+        "word": "毛不易摘掉耳返",
+        "onboard_time": 1703776714,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 364990,
+        "num": 364990,
+        "word": "康康都一米八了",
+        "onboard_time": 1703757633,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350968,
+        "num": 350968,
+        "word": "向太宣布将出售耗时十年建成豪宅",
+        "onboard_time": 1703760874,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341785,
+        "num": 341785,
+        "word": "文在寅对李善均去世表示哀悼",
+        "onboard_time": 1703766513,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259053,
+        "num": 259053,
+        "word": "除夕三件套",
+        "onboard_time": 1703768014,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544265,
+        "num": 252874,
+        "word": "女子离职后把手机静音1年",
+        "onboard_time": 1703771014,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339049,
+        "num": 246173,
+        "word": "2024富婆星座",
+        "onboard_time": 1703766453,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331137,
+        "num": 223082,
+        "word": "刘亦菲文咏珊坐一起",
+        "onboard_time": 1703777313,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300611,
+        "num": 219138,
+        "word": "朱一龙第四个影帝",
+        "onboard_time": 1703768972,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210489,
+        "num": 210489,
+        "word": "三孩非亲生案女方称DNA也不是100%准确",
+        "onboard_time": 1703759732,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294428,
+        "num": 205759,
+        "word": "繁花商战剧情",
+        "onboard_time": 1703772576,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268383,
+        "num": 201630,
+        "word": "姜涛全球最帅面孔第三",
+        "onboard_time": 1703753977,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 218334,
+        "num": 199786,
+        "word": "虞书欣心形镂空裙",
+        "onboard_time": 1703769815,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188458,
+        "num": 188458,
+        "word": "月嫂虐待新生儿掐脖子打耳光",
+        "onboard_time": 1703774017,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75428,
+        "num": 187606,
+        "word": "新疆沙漠现雾凇奇观",
+        "onboard_time": 1703773594,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 324479,
+        "num": 187467,
+        "word": "抗癌宝贝毅玲去世",
+        "onboard_time": 1703776893,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215333,
+        "num": 187460,
+        "word": "学者评繁花前四集",
+        "onboard_time": 1703753435,
+        "rank": 31,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 187268,
+        "num": 187268,
+        "word": "韩媒曝李善均身亡前细节",
+        "onboard_time": 1703759254,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185767,
+        "num": 185767,
+        "word": "于适寸头",
+        "onboard_time": 1703772757,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161722,
+        "num": 184990,
+        "word": "果然恋爱还得看别人谈",
+        "onboard_time": 1703776175,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184415,
+        "num": 184415,
+        "word": "鸣龙少年 十一班招生大屏",
+        "onboard_time": 1703776833,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172670,
+        "num": 172670,
+        "word": "我知道我爱你 官博疯了",
+        "onboard_time": 1703777493,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167012,
+        "num": 167012,
+        "word": "papi酱 向电影市场道歉",
+        "onboard_time": 1703772818,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149464,
+        "num": 149464,
+        "word": "小米汽车颜值",
+        "onboard_time": 1703750554,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142128,
+        "num": 142128,
+        "word": "捐献者15年不换手机号成功救人一命",
+        "onboard_time": 1703759913,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 149946,
+        "num": 141854,
+        "word": "我们的翻译官定档",
+        "onboard_time": 1703773059,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143587,
+        "num": 141823,
+        "word": "林一 妮妮",
+        "onboard_time": 1703766873,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140448,
+        "num": 140448,
+        "word": "Doinb ip上海",
+        "onboard_time": 1703765433,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138611,
+        "num": 138611,
+        "word": "大爷以为胃病护士一个坚持救回一命",
+        "onboard_time": 1703773356,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137979,
+        "num": 137979,
+        "word": "日本北海道地区发生6.4级地震",
+        "onboard_time": 1703761654,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131167,
+        "num": 131167,
+        "word": "王一博五年前跳科目三",
+        "onboard_time": 1703756554,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113925,
+        "num": 113925,
+        "word": "年终奖 十三薪",
+        "onboard_time": 1703749052,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 107124,
+        "num": 113798,
+        "word": "雷军吐槽B级车也叫7",
+        "onboard_time": 1703760514,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 104155,
+        "num": 113577,
+        "word": "WB一穿四",
+        "onboard_time": 1703772997,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89784,
+        "num": 113198,
+        "word": "LGD诚C挂牌",
+        "onboard_time": 1703775457,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#盘点2023大国外交高光时刻#"
+    }
+  }
+}
