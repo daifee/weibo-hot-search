@@ -1,6 +1,6 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703740605063,
+  "endTime": 1703741642952,
   "band_list": [
     {
       "raw_hot": 2198038,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1672928,
-      "num": 1672928,
+      "raw_hot": 1686344,
+      "num": 1686344,
       "word": "不回微信不一定忙",
       "onboard_time": 1703736634,
       "rank": 8,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 879427,
-      "num": 879427,
+      "raw_hot": 1011000,
+      "num": 1011000,
       "word": "儿子诈骗30万母亲只愿退赔9000",
       "onboard_time": 1703737115,
       "rank": 49,
@@ -187,6 +187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 572343,
+      "num": 572343,
+      "word": "中国人辛劳一年有仰望烟花权利",
+      "onboard_time": 1703738016,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 533589,
       "num": 533589,
       "word": "棉服 鲨鱼裤",
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529064,
+      "num": 529064,
+      "word": "古茗莲花楼联名",
+      "onboard_time": 1703739936,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 516961,
       "num": 425470,
       "word": "章泽天二胎 双胞胎",
@@ -217,14 +233,6 @@
       "onboard_time": 1703680895,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 512934,
-      "num": 512934,
-      "word": "中国人辛劳一年有仰望烟花权利",
-      "onboard_time": 1703738016,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 499356,
@@ -323,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410297,
+      "num": 410297,
+      "word": "魅族CEO怼小米汽车",
+      "onboard_time": 1703737896,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 409532,
       "num": 409532,
       "word": "四川男子售卖自家26棵香樟判缓刑",
@@ -355,12 +371,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 395084,
-      "num": 395084,
-      "word": "魅族CEO怼小米汽车",
-      "onboard_time": 1703737896,
-      "rank": 37,
-      "category": "汽车"
+      "raw_hot": 382937,
+      "num": 382937,
+      "word": "1只边牧被救咕噜咕噜变3只",
+      "onboard_time": 1703738673,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371437,
+      "num": 371437,
+      "word": "美国设备总出问题中国直接自己造了",
+      "onboard_time": 1703737834,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 357761,
@@ -403,19 +427,27 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 343972,
-      "num": 343972,
-      "word": "1只边牧被救咕噜咕噜变3只",
-      "onboard_time": 1703738673,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341923,
       "num": 306878,
       "word": "繁花开播",
       "onboard_time": 1703676515,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 338876,
+      "num": 284311,
+      "word": "加拿大新规要求男厕也备卫生巾",
+      "onboard_time": 1703739814,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338536,
+      "num": 338536,
+      "word": "张译杨紫豆瓣年度扛剧演员",
+      "onboard_time": 1703738556,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -435,20 +467,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 328736,
+      "num": 189192,
+      "word": "重庆近2万单身人士在凌晨搬家",
+      "onboard_time": 1703740473,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327829,
+      "num": 327829,
+      "word": "丁克夫妻感情更像爱情吗",
+      "onboard_time": 1703739454,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 321705,
       "num": 305808,
       "word": "曹德旺称培养一名大学生四年补贴20多万",
       "onboard_time": 1703728049,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321093,
-      "num": 321093,
-      "word": "张译杨紫豆瓣年度扛剧演员",
-      "onboard_time": 1703738556,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 319539,
@@ -467,22 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 308125,
-      "num": 308125,
-      "word": "美国设备总出问题中国直接自己造了",
-      "onboard_time": 1703737834,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 290517,
-      "num": 290517,
-      "word": "古茗莲花楼联名",
-      "onboard_time": 1703739936,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 289507,
       "num": 289507,
       "word": "雷军",
@@ -497,14 +521,6 @@
       "onboard_time": 1703725714,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 284311,
-      "num": 284311,
-      "word": "加拿大新规要求男厕也备卫生巾",
-      "onboard_time": 1703739814,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279433,
@@ -529,6 +545,14 @@
       "onboard_time": 1703737654,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277549,
+      "num": 261961,
+      "word": "小米SU7官方实拍照首曝",
+      "onboard_time": 1703741609,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 274687,
@@ -593,14 +617,6 @@
       "onboard_time": 1703723734,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 247507,
-      "num": 247507,
-      "word": "丁克夫妻感情更像爱情吗",
-      "onboard_time": 1703739454,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 247056,
@@ -755,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191402,
+      "num": 191402,
+      "word": "上海杀妻欲藏尸冰柜案二审维持死刑",
+      "onboard_time": 1703741191,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188646,
       "num": 188646,
       "word": "被东北的哥的热心震惊了",
@@ -817,6 +841,14 @@
       "onboard_time": 1703726493,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177138,
+      "num": 177138,
+      "word": "红果果绿泡泡 想做你们的树洞",
+      "onboard_time": 1703741250,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 176998,
@@ -971,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139397,
+      "num": 139397,
+      "word": "杨洋拜年穿得好喜庆",
+      "onboard_time": 1703741250,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139172,
       "num": 139172,
       "word": "韩国娱乐圈因李善均去世暂停活动",
@@ -1001,14 +1041,6 @@
       "onboard_time": 1703740295,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 131850,
-      "num": 131850,
-      "word": "重庆近2万单身人士在凌晨搬家",
-      "onboard_time": 1703740473,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130937,
@@ -1049,6 +1081,22 @@
       "onboard_time": 1703728891,
       "rank": 47,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 124147,
+      "num": 124147,
+      "word": "动画版肖申克的救赎",
+      "onboard_time": 1703740712,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 124135,
+      "num": 124135,
+      "word": "魏大勋2023最热烈的事是大家的喜欢",
+      "onboard_time": 1703741556,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 121692,

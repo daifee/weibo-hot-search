@@ -1,0 +1,410 @@
+{
+  "runTime": 1703741642952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1686344,
+        "num": 1686344,
+        "word": "不回微信不一定忙",
+        "onboard_time": 1703736634,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1011000,
+        "num": 1011000,
+        "word": "儿子诈骗30万母亲只愿退赔9000",
+        "onboard_time": 1703737115,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6601,
+        "num": 688513,
+        "word": "2023中国航天高燃时刻",
+        "onboard_time": 1703670635,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1882476,
+        "num": 642087,
+        "word": "卷生卷死的韩国人开始逃了",
+        "onboard_time": 1703730268,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572343,
+        "num": 572343,
+        "word": "中国人辛劳一年有仰望烟花权利",
+        "onboard_time": 1703738016,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529064,
+        "num": 529064,
+        "word": "古茗莲花楼联名",
+        "onboard_time": 1703739936,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 483443,
+        "num": 483443,
+        "word": "繁花居然是用单机位拍的",
+        "onboard_time": 1703735494,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458089,
+        "num": 458089,
+        "word": "因病少上1天班没了年终奖",
+        "onboard_time": 1703729194,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414657,
+        "num": 414657,
+        "word": "魅族称要成为小米首位车主",
+        "onboard_time": 1703736994,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 410297,
+        "num": 410297,
+        "word": "魅族CEO怼小米汽车",
+        "onboard_time": 1703737896,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1106064,
+        "num": 403115,
+        "word": "3娃非亲生案女方跟别人生下第4个女儿",
+        "onboard_time": 1703733155,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390315,
+        "num": 390315,
+        "word": "繁花里的papi酱",
+        "onboard_time": 1703724573,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382937,
+        "num": 382937,
+        "word": "1只边牧被救咕噜咕噜变3只",
+        "onboard_time": 1703738673,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371437,
+        "num": 371437,
+        "word": "美国设备总出问题中国直接自己造了",
+        "onboard_time": 1703737834,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 338536,
+        "num": 338536,
+        "word": "张译杨紫豆瓣年度扛剧演员",
+        "onboard_time": 1703738556,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327829,
+        "num": 327829,
+        "word": "丁克夫妻感情更像爱情吗",
+        "onboard_time": 1703739454,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313964,
+        "num": 313964,
+        "word": "老师把婚礼办到了幼儿园里",
+        "onboard_time": 1703730211,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308507,
+        "num": 308507,
+        "word": "大学生不要再发求捞表情包了",
+        "onboard_time": 1703721811,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307486,
+        "num": 307486,
+        "word": "韩媒曝李善均遗书内容",
+        "onboard_time": 1703725594,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268073,
+        "num": 268073,
+        "word": "小白80万上海开面馆6天濒临倒闭",
+        "onboard_time": 1703726671,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338876,
+        "num": 264302,
+        "word": "加拿大新规要求男厕也备卫生巾",
+        "onboard_time": 1703739814,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277549,
+        "num": 261961,
+        "word": "小米SU7官方实拍照首曝",
+        "onboard_time": 1703741609,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 255517,
+        "num": 255517,
+        "word": "内娱红毯的神TOP10",
+        "onboard_time": 1703737654,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253011,
+        "num": 253011,
+        "word": "痛经 缺维生素D",
+        "onboard_time": 1703732913,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241335,
+        "num": 241335,
+        "word": "男子拉横幅侮辱前女友被行拘",
+        "onboard_time": 1703737052,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239793,
+        "num": 239793,
+        "word": "繁花收视率",
+        "onboard_time": 1703729073,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226202,
+        "num": 226202,
+        "word": "檀健次 病娇感",
+        "onboard_time": 1703738556,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212794,
+        "num": 212794,
+        "word": "肖战嘉人开年刊预告",
+        "onboard_time": 1703733692,
+        "rank": 27,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 193543,
+        "num": 193543,
+        "word": "新生儿遭月子中心月嫂虐待",
+        "onboard_time": 1703722412,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191402,
+        "num": 191402,
+        "word": "上海杀妻欲藏尸冰柜案二审维持死刑",
+        "onboard_time": 1703741191,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328736,
+        "num": 189192,
+        "word": "重庆近2万单身人士在凌晨搬家",
+        "onboard_time": 1703740473,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184274,
+        "num": 184274,
+        "word": "景甜清宫美人妆",
+        "onboard_time": 1703739094,
+        "rank": 31,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 177138,
+        "num": 177138,
+        "word": "红果果绿泡泡 想做你们的树洞",
+        "onboard_time": 1703741250,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170278,
+        "num": 170278,
+        "word": "春楠给关晓彤化的新年好运妆",
+        "onboard_time": 1703733872,
+        "rank": 33,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 165468,
+        "num": 165468,
+        "word": "林一做体前屈能及格吗",
+        "onboard_time": 1703739752,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160906,
+        "num": 160906,
+        "word": "中小学老师为什么越来越累",
+        "onboard_time": 1703732671,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153862,
+        "num": 153862,
+        "word": "繁花",
+        "onboard_time": 1703719223,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153500,
+        "num": 153500,
+        "word": "小伙做了一个梦后竟刮中100万",
+        "onboard_time": 1703729431,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146358,
+        "num": 146358,
+        "word": "雷军",
+        "onboard_time": 1703724335,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144387,
+        "num": 144387,
+        "word": "一闻就很贵的香水",
+        "onboard_time": 1703727091,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 141295,
+        "num": 141295,
+        "word": "南方小土豆",
+        "onboard_time": 1703726312,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139397,
+        "num": 139397,
+        "word": "杨洋拜年穿得好喜庆",
+        "onboard_time": 1703741250,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131266,
+        "num": 131266,
+        "word": "女生大学毕业卖烤猪月入3万",
+        "onboard_time": 1703729733,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129687,
+        "num": 129687,
+        "word": "2005年除夕夜的烟花",
+        "onboard_time": 1703735494,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124147,
+        "num": 124147,
+        "word": "动画版肖申克的救赎",
+        "onboard_time": 1703740712,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124135,
+        "num": 124135,
+        "word": "魏大勋2023最热烈的事是大家的喜欢",
+        "onboard_time": 1703741556,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122036,
+        "num": 122036,
+        "word": "杨紫小夭2023最出圈女性角色",
+        "onboard_time": 1703734716,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118658,
+        "num": 118658,
+        "word": "间歇性冷漠",
+        "onboard_time": 1703733632,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116347,
+        "num": 116347,
+        "word": "美国14岁男孩为争夺礼物枪杀姐姐",
+        "onboard_time": 1703723493,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115331,
+        "num": 115331,
+        "word": "何猷君和奚梦瑶结婚后不装了",
+        "onboard_time": 1703690377,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#以中国式现代化全面推进强国建设#"
+    }
+  }
+}
