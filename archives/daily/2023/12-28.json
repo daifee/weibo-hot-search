@@ -1,10 +1,10 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703751720459,
+  "endTime": 1703752462685,
   "band_list": [
     {
-      "raw_hot": 2427889,
-      "num": 2427889,
+      "raw_hot": 2587376,
+      "num": 2587376,
       "word": "年终奖 十三薪",
       "onboard_time": 1703749052,
       "rank": 0,
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1119709,
+      "num": 1119709,
+      "word": "小米汽车发布会",
+      "onboard_time": 1703743654,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1099405,
       "num": 1099405,
       "word": "韩媒曝李善均遗书内容",
       "onboard_time": 1703725594,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1078466,
-      "num": 1078466,
-      "word": "小米汽车发布会",
-      "onboard_time": 1703743654,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 1050953,
@@ -147,8 +147,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 877176,
-      "num": 877176,
+      "raw_hot": 903960,
+      "num": 903960,
       "word": "小米汽车颜值",
       "onboard_time": 1703750554,
       "rank": 6,
@@ -251,20 +251,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 598338,
+      "num": 642510,
+      "word": "小米集团股价转跌",
+      "onboard_time": 1703750193,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 596268,
       "num": 596268,
       "word": "男生被教授催眠后眼睛无神",
       "onboard_time": 1703693491,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 592235,
-      "num": 642510,
-      "word": "小米集团股价转跌",
-      "onboard_time": 1703750193,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 589725,
@@ -369,6 +369,14 @@
       "onboard_time": 1703733872,
       "rank": 16,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 476634,
+      "num": 476634,
+      "word": "孙怡的大衣T台",
+      "onboard_time": 1703749292,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 465341,
@@ -499,14 +507,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 402526,
-      "num": 402526,
-      "word": "孙怡的大衣T台",
-      "onboard_time": 1703749292,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 401650,
       "num": 290472,
       "word": "痛经 缺维生素D",
@@ -521,6 +521,14 @@
       "onboard_time": 1703739814,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371816,
+      "num": 237875,
+      "word": "雷军称小米从小就是被卷大的",
+      "onboard_time": 1703752234,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 371437,
@@ -576,6 +584,14 @@
       "word": "特斯拉瞒报工厂机器人袭击工人次数",
       "onboard_time": 1703678617,
       "rank": 24,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 348433,
+      "num": 301798,
+      "word": "雷军称决定造车时便登门拜访各家车企",
+      "onboard_time": 1703751993,
+      "rank": 20,
       "category": "汽车"
     },
     {
@@ -649,6 +665,14 @@
       "onboard_time": 1703734716,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302603,
+      "num": 302603,
+      "word": "李宏毅工作室严正声明",
+      "onboard_time": 1703751874,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 289507,
@@ -755,6 +779,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 253020,
+      "num": 253020,
+      "word": "二笔到底是谁在过",
+      "onboard_time": 1703750193,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 251992,
+      "num": 251992,
+      "word": "小米汽车 保时捷",
+      "onboard_time": 1703751934,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 250044,
       "num": 250044,
       "word": "小伙做了一个梦后竟刮中100万",
@@ -851,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223444,
+      "num": 223444,
+      "word": "小狗发自拍了",
+      "onboard_time": 1703751693,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220285,
       "num": 220285,
       "word": "吴谨言春花厌发型",
@@ -899,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208339,
-      "num": 208339,
-      "word": "二笔到底是谁在过",
-      "onboard_time": 1703750193,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 208248,
       "num": 208248,
       "word": "华晨宇 公主请看官摄",
@@ -953,6 +993,14 @@
       "onboard_time": 1703744672,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195489,
+      "num": 246580,
+      "word": "烟花爆竹",
+      "onboard_time": 1703752054,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193591,
@@ -1139,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169484,
+      "num": 169484,
+      "word": "暮光之城花絮图",
+      "onboard_time": 1703751874,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168730,
       "num": 354719,
       "word": "长沙霸王茶姬有多火爆",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1703737596,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 163149,
+      "num": 163149,
+      "word": "赵昭仪上了重要的一课",
+      "onboard_time": 1703752174,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 158203,
@@ -1241,6 +1305,22 @@
       "onboard_time": 1703727691,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146018,
+      "num": 146018,
+      "word": "19.9交个朋友",
+      "onboard_time": 1703752234,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 145340,
+      "num": 145340,
+      "word": "王心凌要迈向四川话五级",
+      "onboard_time": 1703751693,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 145263,
@@ -1355,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126366,
+      "num": 126366,
+      "word": "金靖韩系妆容教程",
+      "onboard_time": 1703751513,
+      "rank": 45,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 126044,
       "num": 126044,
       "word": "他51年走遍866个村子放万场电影",
@@ -1369,14 +1457,6 @@
       "onboard_time": 1703719102,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125394,
-      "num": 125394,
-      "word": "小狗发自拍了",
-      "onboard_time": 1703751693,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 124379,
@@ -1433,14 +1513,6 @@
       "onboard_time": 1703690676,
       "rank": 37,
       "category": "电竞,艺人"
-    },
-    {
-      "raw_hot": 118451,
-      "num": 118451,
-      "word": "金靖韩系妆容教程",
-      "onboard_time": 1703751513,
-      "rank": 45,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 118395,
@@ -1547,12 +1619,12 @@
       "category": "动漫,美食"
     },
     {
-      "raw_hot": 110258,
-      "num": 110258,
-      "word": "王心凌要迈向四川话五级",
-      "onboard_time": 1703751693,
+      "raw_hot": 108962,
+      "num": 120032,
+      "word": "传统超市过时了吗",
+      "onboard_time": 1703752294,
       "rank": 49,
-      "category": "演出"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107871,
@@ -1804,7 +1876,7 @@
     },
     {
       "raw_hot": 24728,
-      "num": 1175475,
+      "num": 1275187,
       "word": "2023那些对于热爱的回答",
       "onboard_time": 1703722713,
       "rank": 2,

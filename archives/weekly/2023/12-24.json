@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703751720459,
+  "endTime": 1703752462685,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -163,6 +163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2587376,
+      "num": 2587376,
+      "word": "年终奖 十三薪",
+      "onboard_time": 1703749052,
+      "rank": 0,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 2583518,
       "num": 2583518,
       "word": "滦州地震",
@@ -193,14 +201,6 @@
       "onboard_time": 1703646577,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2427889,
-      "num": 2427889,
-      "word": "年终奖 十三薪",
-      "onboard_time": 1703749052,
-      "rank": 0,
-      "category": "科学科普"
     },
     {
       "raw_hot": 2344608,
@@ -851,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1119709,
+      "num": 1119709,
+      "word": "小米汽车发布会",
+      "onboard_time": 1703743654,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1113916,
       "num": 1113916,
       "word": "他只是做错题 又没有做错人",
@@ -929,14 +937,6 @@
       "onboard_time": 1703599658,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1078466,
-      "num": 1078466,
-      "word": "小米汽车发布会",
-      "onboard_time": 1703743654,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 1073656,
@@ -1195,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 903960,
+      "num": 903960,
+      "word": "小米汽车颜值",
+      "onboard_time": 1703750554,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 898896,
       "num": 898896,
       "word": "女子酒店里踩空摔瘫痪获赔119万",
@@ -1281,14 +1289,6 @@
       "onboard_time": 1703505696,
       "rank": 3,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 877176,
-      "num": 877176,
-      "word": "小米汽车颜值",
-      "onboard_time": 1703750554,
-      "rank": 6,
-      "category": "汽车"
     },
     {
       "raw_hot": 874182,
@@ -2259,6 +2259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 598338,
+      "num": 642510,
+      "word": "小米集团股价转跌",
+      "onboard_time": 1703750193,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 596978,
       "num": 596978,
       "word": "法硕 汗流浃背",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1703379330,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 592235,
-      "num": 642510,
-      "word": "小米集团股价转跌",
-      "onboard_time": 1703750193,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 591735,
@@ -3043,6 +3043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476634,
+      "num": 476634,
+      "word": "孙怡的大衣T台",
+      "onboard_time": 1703749292,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 475947,
       "num": 475947,
       "word": "王传君希望王鹤棣演他爸爸",
@@ -3667,14 +3675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402526,
-      "num": 402526,
-      "word": "孙怡的大衣T台",
-      "onboard_time": 1703749292,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 401970,
       "num": 401970,
       "word": "Jennie成立个人厂牌",
@@ -3971,6 +3971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 371816,
+      "num": 237875,
+      "word": "雷军称小米从小就是被卷大的",
+      "onboard_time": 1703752234,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 371495,
       "num": 371495,
       "word": "5亿辈子很长吗 武艺被子就是短",
@@ -4145,6 +4153,14 @@
       "onboard_time": 1703723313,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348433,
+      "num": 301798,
+      "word": "雷军称决定造车时便登门拜访各家车企",
+      "onboard_time": 1703751993,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 347574,
@@ -4680,6 +4696,14 @@
       "word": "李善均曾因毒品案件受到要挟恐吓",
       "onboard_time": 1703675496,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 302603,
+      "num": 302603,
+      "word": "李宏毅工作室严正声明",
+      "onboard_time": 1703751874,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -5523,6 +5547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253020,
+      "num": 253020,
+      "word": "二笔到底是谁在过",
+      "onboard_time": 1703750193,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 252823,
       "num": 252823,
       "word": "盒马山姆贴脸商战引围观",
@@ -5537,6 +5569,14 @@
       "onboard_time": 1703599958,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 251992,
+      "num": 251992,
+      "word": "小米汽车 保时捷",
+      "onboard_time": 1703751934,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 251626,
@@ -6299,6 +6339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223444,
+      "num": 223444,
+      "word": "小狗发自拍了",
+      "onboard_time": 1703751693,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223348,
       "num": 223348,
       "word": "上海迪士尼疯狂动物城遭遇了什么",
@@ -6745,14 +6793,6 @@
       "onboard_time": 1703739752,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208339,
-      "num": 208339,
-      "word": "二笔到底是谁在过",
-      "onboard_time": 1703750193,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 208287,
@@ -7401,6 +7441,14 @@
       "onboard_time": 1703492913,
       "rank": 26,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 195489,
+      "num": 246580,
+      "word": "烟花爆竹",
+      "onboard_time": 1703752054,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195388,
@@ -8579,6 +8627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169484,
+      "num": 169484,
+      "word": "暮光之城花絮图",
+      "onboard_time": 1703751874,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169066,
       "num": 169066,
       "word": "白鹿遇事先播好运来",
@@ -8929,6 +8985,14 @@
       "onboard_time": 1703502995,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 163149,
+      "num": 163149,
+      "word": "赵昭仪上了重要的一课",
+      "onboard_time": 1703752174,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 163112,
@@ -9819,6 +9883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146018,
+      "num": 146018,
+      "word": "19.9交个朋友",
+      "onboard_time": 1703752234,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 145976,
       "num": 145976,
       "word": "王家卫的受害者们",
@@ -9857,6 +9929,14 @@
       "onboard_time": 1703559331,
       "rank": 32,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 145340,
+      "num": 145340,
+      "word": "王心凌要迈向四川话五级",
+      "onboard_time": 1703751693,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 145263,
@@ -10891,6 +10971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 126366,
+      "num": 126366,
+      "word": "金靖韩系妆容教程",
+      "onboard_time": 1703751513,
+      "rank": 45,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 126142,
       "num": 323598,
       "word": "小米汽车技术发布会",
@@ -10953,14 +11041,6 @@
       "onboard_time": 1703381729,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125394,
-      "num": 125394,
-      "word": "小狗发自拍了",
-      "onboard_time": 1703751693,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 125297,
@@ -11329,14 +11409,6 @@
       "onboard_time": 1703515898,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118451,
-      "num": 118451,
-      "word": "金靖韩系妆容教程",
-      "onboard_time": 1703751513,
-      "rank": 45,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 118445,
@@ -11731,14 +11803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110258,
-      "num": 110258,
-      "word": "王心凌要迈向四川话五级",
-      "onboard_time": 1703751693,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 110257,
       "num": 110257,
       "word": "工作独立后的这几年确实是最幸福的",
@@ -11775,6 +11839,14 @@
       "num": 109376,
       "word": "当地回应菜场因大气污染停止面条加工",
       "onboard_time": 1703658873,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108962,
+      "num": 120032,
+      "word": "传统超市过时了吗",
+      "onboard_time": 1703752294,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -12940,7 +13012,7 @@
     },
     {
       "raw_hot": 24728,
-      "num": 1175475,
+      "num": 1275187,
       "word": "2023那些对于热爱的回答",
       "onboard_time": 1703722713,
       "rank": 2,

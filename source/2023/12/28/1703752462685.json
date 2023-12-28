@@ -1,0 +1,410 @@
+{
+  "runTime": 1703752462685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2587376,
+        "num": 2587376,
+        "word": "年终奖 十三薪",
+        "onboard_time": 1703749052,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1537756,
+        "num": 1537756,
+        "word": "小米汽车价格",
+        "onboard_time": 1703745873,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 19277,
+        "num": 1275187,
+        "word": "2023那些对于热爱的回答",
+        "onboard_time": 1703722713,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1119709,
+        "num": 1119709,
+        "word": "小米汽车发布会",
+        "onboard_time": 1703743654,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 969930,
+        "num": 969930,
+        "word": "王一博加入朵拉头宇宙",
+        "onboard_time": 1703748513,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 903960,
+        "num": 903960,
+        "word": "小米汽车颜值",
+        "onboard_time": 1703750554,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 840419,
+        "num": 840419,
+        "word": "李善均身亡前疑似最后监控曝光",
+        "onboard_time": 1703746231,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 763822,
+        "num": 763822,
+        "word": "2023全球最帅最美面孔",
+        "onboard_time": 1703746113,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 629796,
+        "num": 629796,
+        "word": "上海杀妻欲藏尸冰柜案二审维持死刑",
+        "onboard_time": 1703741191,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598338,
+        "num": 626458,
+        "word": "小米集团股价转跌",
+        "onboard_time": 1703750193,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 625423,
+        "num": 625423,
+        "word": "小米汽车",
+        "onboard_time": 1703741673,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 568179,
+        "num": 568179,
+        "word": "雷军回应不向吉利致敬",
+        "onboard_time": 1703746231,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 492545,
+        "num": 492545,
+        "word": "雷军想让苹果用户也开小米汽车",
+        "onboard_time": 1703749412,
+        "rank": 12,
+        "category": "汽车,数码"
+      },
+      {
+        "raw_hot": 476634,
+        "num": 476634,
+        "word": "孙怡的大衣T台",
+        "onboard_time": 1703749292,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446574,
+        "num": 446574,
+        "word": "3娃非亲生案女方跟别人生下第4个女儿",
+        "onboard_time": 1703733155,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387711,
+        "num": 387711,
+        "word": "加拿大新规要求男厕也备卫生巾",
+        "onboard_time": 1703739814,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353039,
+        "num": 353039,
+        "word": "小米SU7官方实拍照首曝",
+        "onboard_time": 1703741609,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 329374,
+        "num": 329374,
+        "word": "卷生卷死的韩国人开始逃了",
+        "onboard_time": 1703730268,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314521,
+        "num": 314521,
+        "word": "雷军称小米汽车要媲美保时捷特斯拉",
+        "onboard_time": 1703747009,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 302603,
+        "num": 302603,
+        "word": "李宏毅工作室严正声明",
+        "onboard_time": 1703751874,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348433,
+        "num": 301798,
+        "word": "雷军称决定造车时便登门拜访各家车企",
+        "onboard_time": 1703751993,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 300010,
+        "num": 300010,
+        "word": "威胁李善均女室长抱孩子出席庭审",
+        "onboard_time": 1703744851,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276619,
+        "num": 276619,
+        "word": "繁花居然是用单机位拍的",
+        "onboard_time": 1703735494,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276337,
+        "num": 276337,
+        "word": "不回微信不一定忙",
+        "onboard_time": 1703736634,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274832,
+        "num": 274832,
+        "word": "田嘉瑞的眉毛",
+        "onboard_time": 1703749652,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253020,
+        "num": 253020,
+        "word": "二笔到底是谁在过",
+        "onboard_time": 1703750193,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251992,
+        "num": 251992,
+        "word": "小米汽车 保时捷",
+        "onboard_time": 1703751934,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 226705,
+        "num": 248477,
+        "word": "1只边牧被救咕噜咕噜变3只",
+        "onboard_time": 1703738673,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195489,
+        "num": 246580,
+        "word": "烟花爆竹",
+        "onboard_time": 1703752054,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168213,
+        "num": 239237,
+        "word": "老师把婚礼办到了幼儿园里",
+        "onboard_time": 1703730211,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371816,
+        "num": 237875,
+        "word": "雷军称小米从小就是被卷大的",
+        "onboard_time": 1703752234,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 234934,
+        "num": 234934,
+        "word": "买折叠手机的人后悔了吗",
+        "onboard_time": 1703746710,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 223444,
+        "num": 223444,
+        "word": "小狗发自拍了",
+        "onboard_time": 1703751693,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188594,
+        "num": 188594,
+        "word": "屈楚萧张佳宁穿校服扫楼",
+        "onboard_time": 1703744133,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179358,
+        "num": 179358,
+        "word": "雷军",
+        "onboard_time": 1703724335,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169484,
+        "num": 169484,
+        "word": "暮光之城花絮图",
+        "onboard_time": 1703751874,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164590,
+        "num": 164590,
+        "word": "重庆近2万单身人士在凌晨搬家",
+        "onboard_time": 1703740473,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163149,
+        "num": 163149,
+        "word": "赵昭仪上了重要的一课",
+        "onboard_time": 1703752174,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156432,
+        "num": 156432,
+        "word": "卫健委发布元旦健康提示",
+        "onboard_time": 1703749473,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155095,
+        "num": 155095,
+        "word": "肖战嘉人开年刊预告",
+        "onboard_time": 1703733692,
+        "rank": 39,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 154826,
+        "num": 154826,
+        "word": "魅族称要成为小米首位车主",
+        "onboard_time": 1703736994,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152822,
+        "num": 152822,
+        "word": "古茗莲花楼联名",
+        "onboard_time": 1703739936,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152252,
+        "num": 152252,
+        "word": "儿子诈骗30万母亲只愿退赔9000",
+        "onboard_time": 1703737115,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146018,
+        "num": 146018,
+        "word": "19.9交个朋友",
+        "onboard_time": 1703752234,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145340,
+        "num": 145340,
+        "word": "王心凌要迈向四川话五级",
+        "onboard_time": 1703751693,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141280,
+        "num": 141280,
+        "word": "恋爱内存",
+        "onboard_time": 1703750614,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140535,
+        "num": 140535,
+        "word": "因病少上1天班没了年终奖",
+        "onboard_time": 1703729194,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137701,
+        "num": 137701,
+        "word": "中国队已获142个巴黎奥运席位",
+        "onboard_time": 1703748274,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126366,
+        "num": 126366,
+        "word": "金靖韩系妆容教程",
+        "onboard_time": 1703751513,
+        "rank": 48,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 108962,
+        "num": 120032,
+        "word": "传统超市过时了吗",
+        "onboard_time": 1703752294,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和人民在一起的暖心瞬间#"
+    }
+  }
+}
