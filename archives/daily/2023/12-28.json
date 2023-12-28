@@ -1,10 +1,10 @@
 {
   "startTime": 1703694135877,
-  "endTime": 1703755038031,
+  "endTime": 1703756052452,
   "band_list": [
     {
-      "raw_hot": 7599565,
-      "num": 7599565,
+      "raw_hot": 8404330,
+      "num": 8404330,
       "word": "小米汽车价格",
       "onboard_time": 1703745873,
       "rank": 1,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1704093,
+      "num": 1704093,
+      "word": "姜涛全球最帅面孔第三",
+      "onboard_time": 1703753977,
+      "rank": 4,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1668063,
       "num": 1668063,
       "word": "小米汽车颜值",
       "onboard_time": 1703750554,
       "rank": 6,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1545577,
-      "num": 1545577,
-      "word": "姜涛全球最帅面孔第三",
-      "onboard_time": 1703753977,
-      "rank": 4,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1341304,
@@ -115,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1130142,
-      "num": 1130142,
+      "raw_hot": 1160328,
+      "num": 1160328,
       "word": "19.9交个朋友",
       "onboard_time": 1703752234,
       "rank": 43,
@@ -171,6 +171,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 946012,
+      "num": 946012,
+      "word": "员工离婚未主动报备遭开除",
+      "onboard_time": 1703753196,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 851479,
       "num": 851479,
       "word": "繁花里的papi酱",
@@ -203,14 +211,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 775070,
-      "num": 775070,
-      "word": "员工离婚未主动报备遭开除",
-      "onboard_time": 1703753196,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 767029,
       "num": 767029,
       "word": "丁克夫妻感情更像爱情吗",
@@ -233,6 +233,14 @@
       "onboard_time": 1703723493,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 734749,
+      "num": 734749,
+      "word": "林医生 杜海涛99%会反弹",
+      "onboard_time": 1703754753,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 688592,
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421232,
+      "num": 421232,
+      "word": "陈漫拍的郭晶晶",
+      "onboard_time": 1703755358,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 416496,
       "num": 416496,
       "word": "老师把婚礼办到了幼儿园里",
@@ -553,6 +569,14 @@
       "onboard_time": 1703732913,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 396567,
+      "num": 396567,
+      "word": "邓为经纪人黄卉发文",
+      "onboard_time": 1703755295,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 391976,
@@ -665,6 +689,14 @@
       "onboard_time": 1703676515,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 340164,
+      "num": 340164,
+      "word": "花少这段味儿太大了",
+      "onboard_time": 1703754753,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 338536,
@@ -795,14 +827,6 @@
       "category": "社会新闻,综艺"
     },
     {
-      "raw_hot": 269682,
-      "num": 213128,
-      "word": "花少这段味儿太大了",
-      "onboard_time": 1703754753,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 268734,
       "num": 268734,
       "word": "檀健次 病娇感",
@@ -859,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249530,
+      "num": 249530,
+      "word": "小狗发自拍了",
+      "onboard_time": 1703751693,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248436,
       "num": 193720,
       "word": "繁花 王菲老歌",
@@ -899,6 +931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 239060,
+      "num": 239060,
+      "word": "张晚意 网速慢不了一点",
+      "onboard_time": 1703755113,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237508,
       "num": 237508,
       "word": "男子造谣倒卖捐赠地震灾区羽绒服被刑拘",
@@ -929,14 +969,6 @@
       "onboard_time": 1703739094,
       "rank": 28,
       "category": "综艺,美妆"
-    },
-    {
-      "raw_hot": 228872,
-      "num": 228872,
-      "word": "小狗发自拍了",
-      "onboard_time": 1703751693,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 228358,
@@ -987,6 +1019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209442,
+      "num": 229352,
+      "word": "A股全线放量大涨",
+      "onboard_time": 1703754693,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 208994,
       "num": 208994,
       "word": "最强大脑11嘉宾阵容官宣",
@@ -1011,14 +1051,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 207657,
-      "num": 207657,
-      "word": "林医生 杜海涛99%会反弹",
-      "onboard_time": 1703754753,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206496,
       "num": 206496,
       "word": "鹿晗超话翻牌",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1703733273,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201519,
+      "num": 201519,
+      "word": "逍遥散人为广州TTG练胆",
+      "onboard_time": 1703755415,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 200739,
@@ -1347,20 +1387,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151332,
-      "num": 151332,
-      "word": "A股全线放量大涨",
-      "onboard_time": 1703754693,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 150891,
       "num": 150891,
       "word": "喜提子涵妈妈的称呼",
       "onboard_time": 1703753435,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147910,
+      "num": 147910,
+      "word": "DK洪知秀challenge",
+      "onboard_time": 1703755535,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147780,
@@ -1595,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122113,
+      "num": 122113,
+      "word": "王嘉尔深圳站官宣",
+      "onboard_time": 1703755956,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121692,
       "num": 121692,
       "word": "初中生跳拉丁科目三嗨翻全场",
@@ -1643,12 +1691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118193,
+      "num": 118193,
+      "word": "狗都有瑜伽课了",
+      "onboard_time": 1703753017,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117759,
       "num": 106508,
       "word": "繁花 盖茨比男主人设",
       "onboard_time": 1703679097,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117480,
+      "num": 117480,
+      "word": "男朋友送的一周年纪念礼物",
+      "onboard_time": 1703756014,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 116442,
@@ -2035,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18141,
+      "num": 310677,
+      "word": "2023这些温暖开心的瞬间",
+      "onboard_time": 1703755415,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13831,
       "num": 22014,
       "word": "XG后台打歌",
@@ -2089,6 +2161,14 @@
       "onboard_time": 1703711894,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 8245,
+      "num": 1706890,
+      "word": "第二届链博会展期确定",
+      "onboard_time": 1703755837,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

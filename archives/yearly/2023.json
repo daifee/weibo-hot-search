@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1703755038031,
+  "endTime": 1703756052452,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1891,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8404330,
+      "num": 8404330,
+      "word": "小米汽车价格",
+      "onboard_time": 1703745873,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 8402780,
       "num": 8402780,
       "word": "你留下的爱",
@@ -2313,14 +2321,6 @@
       "onboard_time": 1678592608,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 7599565,
-      "num": 7599565,
-      "word": "小米汽车价格",
-      "onboard_time": 1703745873,
-      "rank": 1,
-      "category": "汽车"
     },
     {
       "raw_hot": 7578605,

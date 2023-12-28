@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703755038031,
+  "endTime": 1703756052452,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 7599565,
-      "num": 7599565,
+      "raw_hot": 8404330,
+      "num": 8404330,
       "word": "小米汽车价格",
       "onboard_time": 1703745873,
       "rank": 1,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1704093,
+      "num": 1704093,
+      "word": "姜涛全球最帅面孔第三",
+      "onboard_time": 1703753977,
+      "rank": 4,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1688479,
       "num": 1688479,
       "word": "邓为前助理被拖欠工资",
@@ -537,14 +545,6 @@
       "onboard_time": 1703376806,
       "rank": 5,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1545577,
-      "num": 1545577,
-      "word": "姜涛全球最帅面孔第三",
-      "onboard_time": 1703753977,
-      "rank": 4,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1531937,
@@ -835,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1160328,
+      "num": 1160328,
+      "word": "19.9交个朋友",
+      "onboard_time": 1703752234,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1153593,
       "num": 1153593,
       "word": "男子供养女友及其丈夫一家5年",
@@ -857,14 +865,6 @@
       "onboard_time": 1703570974,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1130142,
-      "num": 1130142,
-      "word": "19.9交个朋友",
-      "onboard_time": 1703752234,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 1127864,
@@ -1160,6 +1160,14 @@
       "word": "流量褪去的淄博鸭头小哥",
       "onboard_time": 1703606490,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 946012,
+      "num": 946012,
+      "word": "员工离婚未主动报备遭开除",
+      "onboard_time": 1703753196,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1595,14 +1603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 775070,
-      "num": 775070,
-      "word": "员工离婚未主动报备遭开除",
-      "onboard_time": 1703753196,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 771054,
       "num": 771054,
       "word": "民政局回应疑智障女子与五旬男子结婚",
@@ -1721,6 +1721,14 @@
       "onboard_time": 1703563900,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 734749,
+      "num": 734749,
+      "word": "林医生 杜海涛99%会反弹",
+      "onboard_time": 1703754753,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 732673,
@@ -3555,6 +3563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 421232,
+      "num": 421232,
+      "word": "陈漫拍的郭晶晶",
+      "onboard_time": 1703755358,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420109,
       "num": 420109,
       "word": "宋江戴花",
@@ -3777,6 +3793,14 @@
       "onboard_time": 1703422297,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 396567,
+      "num": 396567,
+      "word": "邓为经纪人黄卉发文",
+      "onboard_time": 1703755295,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 396176,
@@ -4265,6 +4289,14 @@
       "onboard_time": 1703362274,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 340164,
+      "num": 340164,
+      "word": "花少这段味儿太大了",
+      "onboard_time": 1703754753,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 339831,
@@ -5283,14 +5315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269682,
-      "num": 213128,
-      "word": "花少这段味儿太大了",
-      "onboard_time": 1703754753,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269214,
       "num": 269214,
       "word": "导盲犬 明白是因为自己才被拒绝",
@@ -5707,6 +5731,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 249530,
+      "num": 249530,
+      "word": "小狗发自拍了",
+      "onboard_time": 1703751693,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249093,
       "num": 249093,
       "word": "想看贾玲张小斐",
@@ -5945,6 +5977,14 @@
       "onboard_time": 1703419835,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239060,
+      "num": 239060,
+      "word": "张晚意 网速慢不了一点",
+      "onboard_time": 1703755113,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 238940,
@@ -6257,14 +6297,6 @@
       "onboard_time": 1703557955,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 228872,
-      "num": 228872,
-      "word": "小狗发自拍了",
-      "onboard_time": 1703751693,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 228689,
@@ -6771,6 +6803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209442,
+      "num": 229352,
+      "word": "A股全线放量大涨",
+      "onboard_time": 1703754693,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 209388,
       "num": 209388,
       "word": "郭刚堂之子不去宣判现场",
@@ -6873,14 +6913,6 @@
       "onboard_time": 1703413233,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207657,
-      "num": 207657,
-      "word": "林医生 杜海涛99%会反弹",
-      "onboard_time": 1703754753,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 207405,
@@ -7185,6 +7217,14 @@
       "onboard_time": 1703497834,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201519,
+      "num": 201519,
+      "word": "逍遥散人为广州TTG练胆",
+      "onboard_time": 1703755415,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 201319,
@@ -9731,14 +9771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 151332,
-      "num": 151332,
-      "word": "A股全线放量大涨",
-      "onboard_time": 1703754693,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 151164,
       "num": 151164,
       "word": "大喜的日子却苦了猫猫",
@@ -9865,6 +9897,14 @@
       "onboard_time": 1703553874,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147910,
+      "num": 147910,
+      "word": "DK洪知秀challenge",
+      "onboard_time": 1703755535,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147823,
@@ -11331,6 +11371,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 122113,
+      "num": 122113,
+      "word": "王嘉尔深圳站官宣",
+      "onboard_time": 1703755956,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122086,
       "num": 122086,
       "word": "2023年中国军事大场面",
@@ -11571,6 +11619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118193,
+      "num": 118193,
+      "word": "狗都有瑜伽课了",
+      "onboard_time": 1703753017,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118090,
       "num": 118090,
       "word": "繁花央八版首播日预告",
@@ -11617,6 +11673,14 @@
       "onboard_time": 1703404773,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117480,
+      "num": 117480,
+      "word": "男朋友送的一周年纪念礼物",
+      "onboard_time": 1703756014,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 117372,
@@ -13251,6 +13315,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 18141,
+      "num": 310677,
+      "word": "2023这些温暖开心的瞬间",
+      "onboard_time": 1703755415,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17889,
       "num": 17889,
       "word": "老北京为啥爱吃铜锅涮羊肉",
@@ -13385,6 +13457,14 @@
       "onboard_time": 1703711894,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 8245,
+      "num": 1706890,
+      "word": "第二届链博会展期确定",
+      "onboard_time": 1703755837,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
