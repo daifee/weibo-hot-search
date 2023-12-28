@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703787699171,
+  "endTime": 1703788462356,
   "band_list": [
     {
       "raw_hot": 1404189,
@@ -363,6 +363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82743,
+      "num": 82743,
+      "word": "薛凯琪沉迷东北大饭包",
+      "onboard_time": 1703784619,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82487,
       "num": 124034,
       "word": "中国军队永远做你可以依靠的坚强臂膀",
@@ -385,14 +393,6 @@
       "onboard_time": 1703770173,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 77860,
-      "num": 77860,
-      "word": "薛凯琪沉迷东北大饭包",
-      "onboard_time": 1703784619,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 65379,
@@ -435,8 +435,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33799,
-      "num": 32653,
+      "raw_hot": 40073,
+      "num": 40073,
       "word": "易胖体质",
       "onboard_time": 1703787261,
       "rank": 40,
@@ -457,6 +457,14 @@
       "onboard_time": 1703774795,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23977,
+      "num": 24997,
+      "word": "2023王者世冠KIC总决赛",
+      "onboard_time": 1703788276,
+      "rank": 49,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

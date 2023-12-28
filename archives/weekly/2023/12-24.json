@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703787699171,
+  "endTime": 1703788462356,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -13443,6 +13443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 82743,
+      "num": 82743,
+      "word": "薛凯琪沉迷东北大饭包",
+      "onboard_time": 1703784619,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82487,
       "num": 124034,
       "word": "中国军队永远做你可以依靠的坚强臂膀",
@@ -13529,14 +13537,6 @@
       "onboard_time": 1703342740,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 77860,
-      "num": 77860,
-      "word": "薛凯琪沉迷东北大饭包",
-      "onboard_time": 1703784619,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 77423,
@@ -14083,6 +14083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 40073,
+      "num": 40073,
+      "word": "易胖体质",
+      "onboard_time": 1703787261,
+      "rank": 40,
+      "category": "作品衍生,健康医疗"
+    },
+    {
       "raw_hot": 38566,
       "num": 38566,
       "word": "阿音 短暂一生悲剧收尾",
@@ -14177,14 +14185,6 @@
       "onboard_time": 1703538194,
       "rank": 40,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 33799,
-      "num": 32653,
-      "word": "易胖体质",
-      "onboard_time": 1703787261,
-      "rank": 40,
-      "category": "作品衍生,健康医疗"
     },
     {
       "raw_hot": 32077,
@@ -14321,6 +14321,14 @@
       "onboard_time": 1703334155,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23977,
+      "num": 24997,
+      "word": "2023王者世冠KIC总决赛",
+      "onboard_time": 1703788276,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 23974,

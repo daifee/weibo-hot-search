@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703787699171,
+  "endTime": 1703788462356,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -73115,6 +73115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82743,
+      "num": 82743,
+      "word": "薛凯琪沉迷东北大饭包",
+      "onboard_time": 1703784619,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82644,
       "num": 82644,
       "word": "迷路娃牢牢牵住民警伸出的手",
@@ -73425,14 +73433,6 @@
       "onboard_time": 1703646217,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 77860,
-      "num": 77860,
-      "word": "薛凯琪沉迷东北大饭包",
-      "onboard_time": 1703784619,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 77716,
@@ -75715,6 +75715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40073,
+      "num": 40073,
+      "word": "易胖体质",
+      "onboard_time": 1703787261,
+      "rank": 40,
+      "category": "作品衍生,健康医疗"
+    },
+    {
       "raw_hot": 40044,
       "num": 199827,
       "word": "美团2023年度报告来了",
@@ -76169,14 +76177,6 @@
       "onboard_time": 1703267120,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33799,
-      "num": 32653,
-      "word": "易胖体质",
-      "onboard_time": 1703787261,
-      "rank": 40,
-      "category": "作品衍生,健康医疗"
     },
     {
       "raw_hot": 33689,
@@ -76865,6 +76865,14 @@
       "onboard_time": 1702009177,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23977,
+      "num": 24997,
+      "word": "2023王者世冠KIC总决赛",
+      "onboard_time": 1703788276,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 23974,
