@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703856002959,
+  "endTime": 1703856839391,
   "band_list": [
     {
       "raw_hot": 2773795,
@@ -91,12 +91,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1482257,
+      "num": 969413,
+      "word": "图书馆30秒 平等发生在每个人身上",
+      "onboard_time": 1703854470,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1404189,
       "num": 1404189,
       "word": "女子离职后把手机静音1年",
       "onboard_time": 1703771014,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1337462,
+      "num": 413021,
+      "word": "王鹤棣宋茜 跨年跳屋顶着火",
+      "onboard_time": 1703855493,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1320486,
@@ -113,14 +129,6 @@
       "onboard_time": 1703841272,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1285550,
-      "num": 395690,
-      "word": "王鹤棣宋茜 跨年跳屋顶着火",
-      "onboard_time": 1703855493,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1180990,
@@ -185,14 +193,6 @@
       "onboard_time": 1703851112,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 969413,
-      "num": 969413,
-      "word": "图书馆30秒 平等发生在每个人身上",
-      "onboard_time": 1703854470,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 945588,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428274,
+      "num": 428274,
+      "word": "内娱出圈新人TOP1",
+      "onboard_time": 1703854891,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424031,
       "num": 424031,
       "word": "繁花 明星带货",
@@ -731,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384937,
+      "num": 384937,
+      "word": "第一眼见就不对劲的人",
+      "onboard_time": 1703849132,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380855,
       "num": 380855,
       "word": "刘亦菲金莲花视后",
@@ -761,14 +777,6 @@
       "onboard_time": 1703816192,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357784,
-      "num": 357784,
-      "word": "第一眼见就不对劲的人",
-      "onboard_time": 1703849132,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 357091,
@@ -899,6 +907,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 308785,
+      "num": 308785,
+      "word": "花楼 eStar",
+      "onboard_time": 1703854651,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 299328,
       "num": 299328,
       "word": "康康都一米八了",
@@ -907,12 +923,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298302,
-      "num": 298302,
-      "word": "花楼 eStar",
-      "onboard_time": 1703854651,
-      "rank": 18,
-      "category": "电竞"
+      "raw_hot": 294011,
+      "num": 294011,
+      "word": "土灵珠",
+      "onboard_time": 1703855974,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 292638,
+      "num": 292638,
+      "word": "3孩非亲生案当事人自述始末",
+      "onboard_time": 1703853874,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292460,
@@ -937,14 +961,6 @@
       "onboard_time": 1703832332,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283784,
-      "num": 283784,
-      "word": "内娱出圈新人TOP1",
-      "onboard_time": 1703854891,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 280136,
@@ -1027,12 +1043,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249164,
-      "num": 286550,
-      "word": "3孩非亲生案当事人自述始末",
-      "onboard_time": 1703853874,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 254155,
+      "num": 254155,
+      "word": "SBS演技大赏",
+      "onboard_time": 1703855854,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 249033,
@@ -1131,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229118,
+      "num": 229118,
+      "word": "孙颖莎参加30米冲刺跑",
+      "onboard_time": 1703855432,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229057,
       "num": 229057,
       "word": "1月星座好运排行榜",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1703830591,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 221260,
-      "num": 221260,
-      "word": "SBS演技大赏",
-      "onboard_time": 1703855854,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 219589,
@@ -1475,14 +1491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189305,
-      "num": 142226,
-      "word": "孙颖莎参加30米冲刺跑",
-      "onboard_time": 1703855432,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188641,
       "num": 188641,
       "word": "挑战心平气和度过最后一个工作日",
@@ -1576,6 +1584,14 @@
       "word": "鸣龙十一班脱下校服颜值加倍",
       "onboard_time": 1703845291,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178615,
+      "num": 178615,
+      "word": "宋佳演的张桂梅校长",
+      "onboard_time": 1703856516,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1883,6 +1899,14 @@
       "category": "剧集,读书作家"
     },
     {
+      "raw_hot": 147269,
+      "num": 147269,
+      "word": "Wolves对战MRC",
+      "onboard_time": 1703855793,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147095,
       "num": 147095,
       "word": "2023IVL秋季赛",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1703854713,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141005,
+      "num": 141005,
+      "word": "王曼昱参加3000米跑",
+      "onboard_time": 1703856634,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 140970,
@@ -2123,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130190,
+      "num": 130190,
+      "word": "老婆打扮成章鱼哥和老公出门约会",
+      "onboard_time": 1703854832,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130078,
       "num": 130078,
       "word": "我也想这样把侯明昊脸掰过来",
@@ -2145,6 +2185,14 @@
       "onboard_time": 1703765433,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129082,
+      "num": 129082,
+      "word": "易建联球衣退役仪式高朋满座",
+      "onboard_time": 1703855314,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 128194,
@@ -2193,14 +2241,6 @@
       "onboard_time": 1703807485,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123198,
-      "num": 123198,
-      "word": "Wolves对战MRC",
-      "onboard_time": 1703855793,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 122772,
@@ -2427,12 +2467,12 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 107582,
-      "num": 107582,
-      "word": "易建联球衣退役仪式高朋满座",
-      "onboard_time": 1703855314,
+      "raw_hot": 106582,
+      "num": 106582,
+      "word": "网之易深圳成立",
+      "onboard_time": 1703856454,
       "rank": 46,
-      "category": "体育"
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 106157,
@@ -2529,14 +2569,6 @@
       "onboard_time": 1703776175,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 97745,
-      "num": 97745,
-      "word": "土灵珠",
-      "onboard_time": 1703855974,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 96397,
@@ -2795,6 +2827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 50501,
+      "num": 337109,
+      "word": "元梦之星狼人杀都是男大",
+      "onboard_time": 1703854832,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 46705,
       "num": 333066,
       "word": "吴宣仪王者直播",
@@ -2825,14 +2865,6 @@
       "onboard_time": 1703787261,
       "rank": 40,
       "category": "作品衍生,健康医疗"
-    },
-    {
-      "raw_hot": 39217,
-      "num": 337109,
-      "word": "元梦之星狼人杀都是男大",
-      "onboard_time": 1703854832,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 31136,
