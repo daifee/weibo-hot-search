@@ -1,0 +1,410 @@
+{
+  "runTime": 1703846155266,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2054108,
+        "num": 2054108,
+        "word": "阿里被判赔京东10亿",
+        "onboard_time": 1703841630,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 518602,
+        "num": 1873901,
+        "word": "女子因思念亡父泪崩被6岁女儿治愈",
+        "onboard_time": 1703843433,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55272,
+        "num": 1769430,
+        "word": "雪龙号抵达长城站",
+        "onboard_time": 1703842593,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1764451,
+        "num": 1764451,
+        "word": "下班了 今年的苦就吃到这里了",
+        "onboard_time": 1703843791,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288056,
+        "num": 1371998,
+        "word": "南方小土豆被东北大姨拉手手系围巾",
+        "onboard_time": 1703832332,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1154134,
+        "num": 1154134,
+        "word": "中医不相信张远38岁了",
+        "onboard_time": 1703841272,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175996,
+        "num": 770709,
+        "word": "小伙9年无偿献血20次",
+        "onboard_time": 1703843433,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701831,
+        "num": 701831,
+        "word": "结婚的好处",
+        "onboard_time": 1703844393,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 548813,
+        "num": 548813,
+        "word": "杨迪吐槽的是哪个综艺",
+        "onboard_time": 1703843013,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493477,
+        "num": 493477,
+        "word": "李善均出殡现场全慧珍痛哭",
+        "onboard_time": 1703839112,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646039,
+        "num": 493313,
+        "word": "正主卖cp 真嫂子没眼看",
+        "onboard_time": 1703829512,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 461938,
+        "num": 461938,
+        "word": "藏海传官微开通",
+        "onboard_time": 1703843733,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394271,
+        "num": 394271,
+        "word": "郑秀妍郑秀晶cha新歌差点打起来",
+        "onboard_time": 1703844513,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379113,
+        "num": 379113,
+        "word": "熟人作案 影视化",
+        "onboard_time": 1703836353,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28660,
+        "num": 363272,
+        "word": "在蛋仔岛实现一个小目标",
+        "onboard_time": 1703844032,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 427545,
+        "num": 361490,
+        "word": "许光汉现身李善均灵堂哀悼",
+        "onboard_time": 1703840672,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357808,
+        "num": 357808,
+        "word": "冥河水母",
+        "onboard_time": 1703840731,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 333949,
+        "num": 333949,
+        "word": "阿里回应被判赔京东10亿",
+        "onboard_time": 1703843971,
+        "rank": 17,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 319698,
+        "num": 319698,
+        "word": "招商银行向员工逆向讨薪近6000万",
+        "onboard_time": 1703831193,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259686,
+        "num": 259686,
+        "word": "BLACKPINK个人不与YG续约",
+        "onboard_time": 1703824236,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243914,
+        "num": 243914,
+        "word": "张钰琪毕业回国",
+        "onboard_time": 1703828072,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218949,
+        "num": 218949,
+        "word": "99元羽绒服商家回应品质问题",
+        "onboard_time": 1703844091,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211897,
+        "num": 211897,
+        "word": "顾客摸草莓不买遭商家泼水",
+        "onboard_time": 1703828614,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207167,
+        "num": 207167,
+        "word": "王一博万物可爱短片",
+        "onboard_time": 1703845653,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204288,
+        "num": 204288,
+        "word": "胡歌除了自拍谁拍都帅",
+        "onboard_time": 1703834013,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203539,
+        "num": 203539,
+        "word": "孟羽童发声",
+        "onboard_time": 1703814872,
+        "rank": 25,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 199148,
+        "num": 199148,
+        "word": "母亲含泪喂被拐35年男子儿时吃过的蜂蜜",
+        "onboard_time": 1703820931,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178674,
+        "num": 178674,
+        "word": "鸣龙十一班脱下校服颜值加倍",
+        "onboard_time": 1703845291,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175355,
+        "num": 175355,
+        "word": "换乘恋爱3开播",
+        "onboard_time": 1703844932,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174570,
+        "num": 174570,
+        "word": "何炅居然是i人",
+        "onboard_time": 1703833531,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248596,
+        "num": 166328,
+        "word": "上交所通报兴业银行股价异常",
+        "onboard_time": 1703845473,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149587,
+        "num": 149587,
+        "word": "一家8口住酒店称很划算准备住一辈子",
+        "onboard_time": 1703820752,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145435,
+        "num": 145435,
+        "word": "狼队 我破防了",
+        "onboard_time": 1703834972,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131449,
+        "num": 131449,
+        "word": "跨年档电影",
+        "onboard_time": 1703844091,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127444,
+        "num": 127444,
+        "word": "和姐姐谈恋爱的好处",
+        "onboard_time": 1703840971,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126972,
+        "num": 126972,
+        "word": "山西一小区上百人中毒",
+        "onboard_time": 1703831312,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119074,
+        "num": 119074,
+        "word": "女子花575万公款请大师绑姻缘获刑5年",
+        "onboard_time": 1703833652,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89094,
+        "num": 118458,
+        "word": "哈妮克孜COS甄姬",
+        "onboard_time": 1703842892,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111591,
+        "num": 111591,
+        "word": "办公室恋情会长久吗",
+        "onboard_time": 1703845835,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111219,
+        "num": 111219,
+        "word": "奶奶咬绳子示范教狗狗关门",
+        "onboard_time": 1703845773,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108831,
+        "num": 108831,
+        "word": "期末考官是胡歌",
+        "onboard_time": 1703825018,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108403,
+        "num": 108403,
+        "word": "何猷君抽中香港澳门一日游",
+        "onboard_time": 1703822556,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102970,
+        "num": 102970,
+        "word": "肖战晒图了",
+        "onboard_time": 1703826756,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93307,
+        "num": 93307,
+        "word": "堵车",
+        "onboard_time": 1703846132,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92762,
+        "num": 92762,
+        "word": "王嘉尔 从练习生到老板",
+        "onboard_time": 1703835031,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91714,
+        "num": 91714,
+        "word": "张杰跨年演唱会",
+        "onboard_time": 1703833412,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91040,
+        "num": 91040,
+        "word": "老板娘 这次我真是自愿加班的",
+        "onboard_time": 1703822073,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90887,
+        "num": 90887,
+        "word": "2023素昧平生的我们却在互相治愈",
+        "onboard_time": 1703845172,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90013,
+        "num": 90728,
+        "word": "苏轼名字竟然来源于马车",
+        "onboard_time": 1703845711,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90570,
+        "num": 90570,
+        "word": "大山里的女校 重点抓对了",
+        "onboard_time": 1703842112,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创中国特色大国外交新局面#"
+    }
+  }
+}

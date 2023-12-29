@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703845116149,
+  "endTime": 1703846155266,
   "band_list": [
     {
       "raw_hot": 2773795,
@@ -41,6 +41,14 @@
       "onboard_time": 1703820752,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1764451,
+      "num": 1764451,
+      "word": "下班了 今年的苦就吃到这里了",
+      "onboard_time": 1703843791,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 1700310,
@@ -171,14 +179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 839888,
-      "num": 839888,
-      "word": "下班了 今年的苦就吃到这里了",
-      "onboard_time": 1703843791,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 731495,
       "num": 731495,
       "word": "关晓彤虞书欣同框合照",
@@ -209,6 +209,14 @@
       "onboard_time": 1703762073,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 701831,
+      "num": 701831,
+      "word": "结婚的好处",
+      "onboard_time": 1703844393,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 697968,
@@ -371,6 +379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 548813,
+      "num": 548813,
+      "word": "杨迪吐槽的是哪个综艺",
+      "onboard_time": 1703843013,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546050,
       "num": 546050,
       "word": "武汉大学书画大赛获奖44人39人为干部",
@@ -395,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 533911,
-      "num": 533911,
-      "word": "杨迪吐槽的是哪个综艺",
-      "onboard_time": 1703843013,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 529155,
       "num": 529155,
       "word": "大爷以为胃病护士一个坚持救回一命",
@@ -417,6 +425,14 @@
       "onboard_time": 1703824776,
       "rank": 9,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 518602,
+      "num": 1873901,
+      "word": "女子因思念亡父泪崩被6岁女儿治愈",
+      "onboard_time": 1703843433,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511849,
@@ -451,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 486831,
-      "num": 1436998,
-      "word": "女子因思念亡父泪崩被6岁女儿治愈",
-      "onboard_time": 1703843433,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 482672,
       "num": 482672,
       "word": "期末考官是胡歌",
@@ -491,6 +499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 461938,
+      "num": 461938,
+      "word": "藏海传官微开通",
+      "onboard_time": 1703843733,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 455179,
       "num": 455179,
       "word": "狼队 我破防了",
@@ -513,14 +529,6 @@
       "onboard_time": 1703810672,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 432476,
-      "num": 432476,
-      "word": "藏海传官微开通",
-      "onboard_time": 1703843733,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 431622,
@@ -587,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394271,
+      "num": 394271,
+      "word": "郑秀妍郑秀晶cha新歌差点打起来",
+      "onboard_time": 1703844513,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 388729,
       "num": 388729,
       "word": "大叔登机插队遇到机场判官",
@@ -633,14 +649,6 @@
       "onboard_time": 1703816192,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359993,
-      "num": 359993,
-      "word": "结婚的好处",
-      "onboard_time": 1703844393,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 357091,
@@ -715,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333949,
+      "num": 333949,
+      "word": "阿里回应被判赔京东10亿",
+      "onboard_time": 1703843971,
+      "rank": 22,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 331730,
       "num": 194932,
       "word": "刘亦菲文咏珊坐一起",
@@ -763,19 +779,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 291397,
-      "num": 291397,
-      "word": "阿里回应被判赔京东10亿",
-      "onboard_time": 1703843971,
-      "rank": 22,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 288667,
       "num": 288667,
       "word": "3娃非亲生案女方称我俩有感情",
       "onboard_time": 1703809772,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288056,
+      "num": 1371998,
+      "word": "南方小土豆被东北大姨拉手手系围巾",
+      "onboard_time": 1703832332,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -867,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248596,
+      "num": 166328,
+      "word": "上交所通报兴业银行股价异常",
+      "onboard_time": 1703845473,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 246084,
       "num": 246084,
       "word": "华为预计23年营收超7000亿元",
@@ -897,22 +921,6 @@
       "onboard_time": 1703814632,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 235596,
-      "num": 235596,
-      "word": "郑秀妍郑秀晶cha新歌差点打起来",
-      "onboard_time": 1703844513,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 235248,
-      "num": 1054862,
-      "word": "南方小土豆被东北大姨拉手手系围巾",
-      "onboard_time": 1703832332,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233804,
@@ -1073,6 +1081,14 @@
       "onboard_time": 1703840911,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207167,
+      "num": 207167,
+      "word": "王一博万物可爱短片",
+      "onboard_time": 1703845653,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 207161,
@@ -1292,7 +1308,7 @@
     },
     {
       "raw_hot": 183726,
-      "num": 682755,
+      "num": 770709,
       "word": "小伙9年无偿献血20次",
       "onboard_time": 1703843433,
       "rank": 6,
@@ -1331,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178674,
+      "num": 178674,
+      "word": "鸣龙十一班脱下校服颜值加倍",
+      "onboard_time": 1703845291,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178253,
       "num": 178253,
       "word": "咒术回战 乙骨忧太",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1703753977,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 175355,
+      "num": 175355,
+      "word": "换乘恋爱3开播",
+      "onboard_time": 1703844932,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 174803,
@@ -1939,6 +1971,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111591,
+      "num": 111591,
+      "word": "办公室恋情会长久吗",
+      "onboard_time": 1703845835,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 111219,
+      "num": 111219,
+      "word": "奶奶咬绳子示范教狗狗关门",
+      "onboard_time": 1703845773,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110870,
       "num": 110870,
       "word": "小猫的年终总结",
@@ -2035,14 +2083,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 99047,
-      "num": 99047,
-      "word": "换乘恋爱3开播",
-      "onboard_time": 1703844932,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98699,
       "num": 87221,
       "word": "太把奢侈品当成奢侈品",
@@ -2075,12 +2115,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93307,
+      "num": 93307,
+      "word": "堵车",
+      "onboard_time": 1703846132,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92573,
       "num": 92573,
       "word": "邓为经纪人黄卉发文",
       "onboard_time": 1703755295,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90887,
+      "num": 90887,
+      "word": "2023素昧平生的我们却在互相治愈",
+      "onboard_time": 1703845172,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90832,
@@ -2091,7 +2147,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87253,
+      "raw_hot": 90013,
+      "num": 90728,
+      "word": "苏轼名字竟然来源于马车",
+      "onboard_time": 1703845711,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 89094,
       "num": 292932,
       "word": "哈妮克孜COS甄姬",
       "onboard_time": 1703842892,
@@ -2227,8 +2291,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 54175,
-      "num": 1340929,
+      "raw_hot": 55272,
+      "num": 1769430,
       "word": "雪龙号抵达长城站",
       "onboard_time": 1703842593,
       "rank": 2,
@@ -2291,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28660,
+      "num": 377674,
+      "word": "在蛋仔岛实现一个小目标",
+      "onboard_time": 1703844032,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 28335,
       "num": 199542,
       "word": "企业家创始人之间独有的浪漫",
@@ -2321,14 +2393,6 @@
       "onboard_time": 1703789954,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17807,
-      "num": 377674,
-      "word": "在蛋仔岛实现一个小目标",
-      "onboard_time": 1703844032,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 14741,
