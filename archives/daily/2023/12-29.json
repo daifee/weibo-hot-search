@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703863025022,
+  "endTime": 1703864090305,
   "band_list": [
     {
       "raw_hot": 2773795,
@@ -91,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1622266,
+      "num": 1622266,
+      "word": "明年一定是个好年",
+      "onboard_time": 1703857414,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1532322,
       "num": 1532322,
       "word": "上海宝格丽酒店跨年夜房费高达30余万",
@@ -104,14 +112,6 @@
       "word": "图书馆30秒 平等发生在每个人身上",
       "onboard_time": 1703854470,
       "rank": 0,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1466395,
-      "num": 1466395,
-      "word": "明年一定是个好年",
-      "onboard_time": 1703857414,
-      "rank": 17,
       "category": "情感"
     },
     {
@@ -145,6 +145,14 @@
       "onboard_time": 1703841272,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1302553,
+      "num": 1302553,
+      "word": "鸣龙少年 癫剧",
+      "onboard_time": 1703861918,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1292779,
@@ -275,14 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 796769,
-      "num": 796769,
-      "word": "鸣龙少年 癫剧",
-      "onboard_time": 1703861918,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 763600,
       "num": 763600,
       "word": "唐嫣 这里是酒吧",
@@ -403,6 +403,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 649055,
+      "num": 649055,
+      "word": "宋江金裕贞获最佳cp奖",
+      "onboard_time": 1703860835,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 646824,
       "num": 646824,
       "word": "胡歌除了自拍谁拍都帅",
@@ -449,14 +457,6 @@
       "onboard_time": 1703853994,
       "rank": 7,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 599479,
-      "num": 599479,
-      "word": "宋江金裕贞获最佳cp奖",
-      "onboard_time": 1703860835,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 598210,
@@ -585,6 +585,14 @@
       "onboard_time": 1703858554,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 531847,
+      "num": 531847,
+      "word": "全国人民代表大会常务委员会公告",
+      "onboard_time": 1703863114,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 529951,
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 384729,
-      "num": 224699,
+      "num": 268082,
       "word": "易建联球衣升空",
       "onboard_time": 1703862093,
       "rank": 30,
@@ -897,6 +905,22 @@
       "onboard_time": 1703816192,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367867,
+      "num": 367867,
+      "word": "9号球衣",
+      "onboard_time": 1703863055,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 363863,
+      "num": 363863,
+      "word": "游本昌 北京爷叔来看上海爷叔",
+      "onboard_time": 1703862933,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 357091,
@@ -1131,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272539,
+      "num": 272539,
+      "word": "我在2元店都不敢这么买",
+      "onboard_time": 1703863475,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269207,
       "num": 269207,
       "word": "国乒体能大比武",
@@ -1355,6 +1387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 220253,
+      "num": 197393,
+      "word": "唐嫣斓曦蓝盈莹都是张晓龙的学生",
+      "onboard_time": 1703863292,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219589,
       "num": 219589,
       "word": "武艺说孙千你好高",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1703820572,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196914,
+      "num": 196914,
+      "word": "广东宏远全家福",
+      "onboard_time": 1703863475,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 196477,
@@ -1939,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164856,
+      "num": 224783,
+      "word": "适合上班族的腰椎颈椎健身操",
+      "onboard_time": 1703862695,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 163486,
       "num": 163486,
       "word": "马伊琍上海话",
@@ -2083,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151320,
+      "num": 151320,
+      "word": "烟花爆竹禁限还是放",
+      "onboard_time": 1703863414,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149069,
       "num": 149069,
       "word": "全红婵参加体能大比武",
@@ -2169,14 +2233,6 @@
       "onboard_time": 1703831552,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143309,
-      "num": 224783,
-      "word": "适合上班族的腰椎颈椎健身操",
-      "onboard_time": 1703862695,
-      "rank": 29,
-      "category": "运动健身"
     },
     {
       "raw_hot": 142797,
@@ -2329,6 +2385,14 @@
       "onboard_time": 1703820572,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135018,
+      "num": 135018,
+      "word": "枸杞泡着喝不如直接吃",
+      "onboard_time": 1703863414,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 133485,
@@ -2491,14 +2555,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 123923,
-      "num": 123923,
-      "word": "游本昌 北京爷叔来看上海爷叔",
-      "onboard_time": 1703862933,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 123212,
       "num": 123212,
       "word": "怎么吃一堑吃一堑又吃一堑的",
@@ -2569,6 +2625,14 @@
       "onboard_time": 1703844991,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 119001,
+      "num": 468873,
+      "word": "元旦假期全国大部天气晴好适宜出行",
+      "onboard_time": 1703862575,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118673,
@@ -2777,6 +2841,14 @@
       "onboard_time": 1703772757,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103405,
+      "num": 103405,
+      "word": "女子185万买江景房完全看不到江",
+      "onboard_time": 1703864072,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101319,
@@ -3091,6 +3163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 57332,
+      "num": 457353,
+      "word": "小孩哥称霸滑雪场",
+      "onboard_time": 1703862035,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 55272,
       "num": 1769430,
       "word": "雪龙号抵达长城站",
@@ -3121,14 +3201,6 @@
       "onboard_time": 1703851951,
       "rank": 14,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 46074,
-      "num": 457353,
-      "word": "小孩哥称霸滑雪场",
-      "onboard_time": 1703862035,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 42025,
@@ -3195,14 +3267,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 27601,
-      "num": 468873,
-      "word": "元旦假期全国大部天气晴好适宜出行",
-      "onboard_time": 1703862575,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23977,
       "num": 24997,
       "word": "2023王者世冠KIC总决赛",
@@ -3235,6 +3299,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 17599,
+      "num": 1390173,
+      "word": "2023这些凡人微光照亮前路",
+      "onboard_time": 1703862994,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14741,
       "num": 14741,
       "word": "春花厌全阵容",
@@ -3249,14 +3321,6 @@
       "onboard_time": 1703793254,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 10270,
-      "num": 1046853,
-      "word": "2023这些凡人微光照亮前路",
-      "onboard_time": 1703862994,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

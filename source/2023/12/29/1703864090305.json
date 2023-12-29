@@ -1,0 +1,410 @@
+{
+  "runTime": 1703864090305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1778549,
+        "num": 1778549,
+        "word": "图书馆30秒",
+        "onboard_time": 1703858496,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1622266,
+        "num": 1622266,
+        "word": "明年一定是个好年",
+        "onboard_time": 1703857414,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17599,
+        "num": 1390173,
+        "word": "2023这些凡人微光照亮前路",
+        "onboard_time": 1703862994,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1302553,
+        "num": 1302553,
+        "word": "鸣龙少年 癫剧",
+        "onboard_time": 1703861918,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 649055,
+        "num": 649055,
+        "word": "宋江金裕贞获最佳cp奖",
+        "onboard_time": 1703860835,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 596060,
+        "num": 596060,
+        "word": "宋佳演的张桂梅校长",
+        "onboard_time": 1703856516,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 556143,
+        "num": 556143,
+        "word": "张杰天下炸场",
+        "onboard_time": 1703857234,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 545079,
+        "num": 545079,
+        "word": "内娱出圈新人TOP1",
+        "onboard_time": 1703854891,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531847,
+        "num": 531847,
+        "word": "全国人民代表大会常务委员会公告",
+        "onboard_time": 1703863114,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392953,
+        "num": 519554,
+        "word": "易建联说我回来了",
+        "onboard_time": 1703859876,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1125423,
+        "num": 519260,
+        "word": "图书馆30秒 平等发生在每个人身上",
+        "onboard_time": 1703854470,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 518582,
+        "num": 518582,
+        "word": "阿里被判赔京东10亿",
+        "onboard_time": 1703841630,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 445291,
+        "num": 445291,
+        "word": "张震倪妮自拍",
+        "onboard_time": 1703858554,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367867,
+        "num": 367867,
+        "word": "9号球衣",
+        "onboard_time": 1703863055,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57332,
+        "num": 365750,
+        "word": "小孩哥称霸滑雪场",
+        "onboard_time": 1703862035,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 363863,
+        "num": 363863,
+        "word": "游本昌 北京爷叔来看上海爷叔",
+        "onboard_time": 1703862933,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354278,
+        "num": 354278,
+        "word": "王博",
+        "onboard_time": 1703858554,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356760,
+        "num": 351567,
+        "word": "辛芷蕾 风情万种",
+        "onboard_time": 1703859634,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346142,
+        "num": 346142,
+        "word": "王鹤棣宋茜 跨年跳屋顶着火",
+        "onboard_time": 1703855493,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306351,
+        "num": 306351,
+        "word": "肖战直播",
+        "onboard_time": 1703852013,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444735,
+        "num": 300059,
+        "word": "女子因不孕离婚后逃离家乡小城",
+        "onboard_time": 1703856936,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288503,
+        "num": 288503,
+        "word": "易建联球衣退役仪式",
+        "onboard_time": 1703847452,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285612,
+        "num": 285612,
+        "word": "土灵珠",
+        "onboard_time": 1703855974,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272539,
+        "num": 272539,
+        "word": "我在2元店都不敢这么买",
+        "onboard_time": 1703863475,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268082,
+        "num": 268082,
+        "word": "易建联球衣升空",
+        "onboard_time": 1703862093,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243867,
+        "num": 243867,
+        "word": "唐嫣 这里是酒吧",
+        "onboard_time": 1703849011,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226013,
+        "num": 226013,
+        "word": "重返未来1999",
+        "onboard_time": 1703861675,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210576,
+        "num": 210576,
+        "word": "陌生人发来的晚安",
+        "onboard_time": 1703858014,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203571,
+        "num": 203571,
+        "word": "结婚的好处",
+        "onboard_time": 1703844393,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164856,
+        "num": 197781,
+        "word": "适合上班族的腰椎颈椎健身操",
+        "onboard_time": 1703862695,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 220253,
+        "num": 197393,
+        "word": "唐嫣斓曦蓝盈莹都是张晓龙的学生",
+        "onboard_time": 1703863292,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196914,
+        "num": 196914,
+        "word": "广东宏远全家福",
+        "onboard_time": 1703863475,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192780,
+        "num": 192780,
+        "word": "中医不相信张远38岁了",
+        "onboard_time": 1703841272,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191438,
+        "num": 191438,
+        "word": "成毅DK制服",
+        "onboard_time": 1703858856,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187673,
+        "num": 187673,
+        "word": "9块9两个的玻璃杯真的会炸",
+        "onboard_time": 1703861675,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184953,
+        "num": 184953,
+        "word": "董军任国防部部长",
+        "onboard_time": 1703846972,
+        "rank": 35,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 174945,
+        "num": 174945,
+        "word": "第一眼见就不对劲的人",
+        "onboard_time": 1703849132,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174539,
+        "num": 174539,
+        "word": "陈奕迅好久不见出续集了",
+        "onboard_time": 1703860656,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168285,
+        "num": 168285,
+        "word": "不要对睡觉有罪恶感",
+        "onboard_time": 1703861675,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166061,
+        "num": 166061,
+        "word": "为什么一觉醒来身上会有淤青",
+        "onboard_time": 1703858856,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158461,
+        "num": 158461,
+        "word": "张晚意 最纯情的脸演最禁忌的爱",
+        "onboard_time": 1703859515,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158067,
+        "num": 158067,
+        "word": "朴志效红毯图",
+        "onboard_time": 1703862093,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151320,
+        "num": 151320,
+        "word": "烟花爆竹禁限还是放",
+        "onboard_time": 1703863414,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146394,
+        "num": 146394,
+        "word": "易建联球衣退役感言",
+        "onboard_time": 1703861733,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137013,
+        "num": 137013,
+        "word": "KARINA中国首封",
+        "onboard_time": 1703853994,
+        "rank": 44,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 135018,
+        "num": 135018,
+        "word": "枸杞泡着喝不如直接吃",
+        "onboard_time": 1703863414,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 130282,
+        "num": 130282,
+        "word": "景甜临场发挥飞吻韩雪",
+        "onboard_time": 1703862633,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119001,
+        "num": 119001,
+        "word": "元旦假期全国大部天气晴好适宜出行",
+        "onboard_time": 1703862575,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116849,
+        "num": 116849,
+        "word": "在北欧打工9年被同事举报1000次",
+        "onboard_time": 1703846613,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103405,
+        "num": 103405,
+        "word": "女子185万买江景房完全看不到江",
+        "onboard_time": 1703864072,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色大国外交踏上新征程#"
+    }
+  }
+}
