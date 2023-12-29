@@ -1,6 +1,6 @@
 {
   "startTime": 1703867016595,
-  "endTime": 1703885643353,
+  "endTime": 1703888197011,
   "band_list": [
     {
       "raw_hot": 1302988,
@@ -209,6 +209,14 @@
       "onboard_time": 1703863292,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157101,
+      "num": 157101,
+      "word": "官方通报一小区上百居民呕吐腹泻",
+      "onboard_time": 1703884274,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154104,
@@ -443,11 +451,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33897,
-      "num": 45697,
-      "word": "官方通报一小区上百居民呕吐腹泻",
-      "onboard_time": 1703884274,
-      "rank": 48,
+      "raw_hot": 28841,
+      "num": 28841,
+      "word": "自来水公司回应上百人疑因水中毒",
+      "onboard_time": 1703886913,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25756,
+      "num": 25756,
+      "word": "杨紫出发海口",
+      "onboard_time": 1703884993,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23234,
+      "num": 23234,
+      "word": "高敏感是一种天赋",
+      "onboard_time": 1703884695,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 22809,
+      "num": 23718,
+      "word": "千年古树有70多个巨大蜂巢",
+      "onboard_time": 1703882894,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -467,36 +499,28 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 16985,
-      "num": 17551,
-      "word": "千年古树有70多个巨大蜂巢",
-      "onboard_time": 1703882894,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16096,
-      "num": 16096,
-      "word": "高敏感是一种天赋",
-      "onboard_time": 1703884695,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 14612,
-      "num": 14612,
+      "raw_hot": 19406,
+      "num": 19406,
       "word": "山东人能把一碗面做到多精致",
       "onboard_time": 1703881694,
       "rank": 45,
       "category": "美食"
     },
     {
-      "raw_hot": 13881,
-      "num": 13881,
-      "word": "杨紫出发海口",
-      "onboard_time": 1703884993,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 16280,
+      "num": 16280,
+      "word": "周深不知道怎么当上的哥哥",
+      "onboard_time": 1703887695,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13645,
+      "num": 13645,
+      "word": "瘦小肚腩最炸裂的组合",
+      "onboard_time": 1703886855,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 12465,
