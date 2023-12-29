@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703849641265,
+  "endTime": 1703852966088,
   "band_list": [
     {
       "raw_hot": 2773795,
@@ -73,6 +73,14 @@
       "onboard_time": 1703817151,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1547100,
+      "num": 1547100,
+      "word": "支原体肺炎明显症状 爆咳",
+      "onboard_time": 1703849311,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1532322,
@@ -195,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 844626,
+      "num": 844626,
+      "word": "刘强东京东内网发声",
+      "onboard_time": 1703851112,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 731495,
       "num": 731495,
       "word": "关晓彤虞书欣同框合照",
@@ -249,6 +265,22 @@
       "onboard_time": 1703813611,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672169,
+      "num": 672169,
+      "word": "肖战直播",
+      "onboard_time": 1703852013,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 671818,
+      "num": 671818,
+      "word": "唐嫣 这里是酒吧",
+      "onboard_time": 1703849011,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 670595,
@@ -313,6 +345,14 @@
       "onboard_time": 1703833531,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 622285,
+      "num": 622285,
+      "word": "两家单位拒收人民币现金被罚",
+      "onboard_time": 1703847274,
+      "rank": 30,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 598210,
@@ -473,6 +513,14 @@
       "onboard_time": 1703823997,
       "rank": 30,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 500444,
+      "num": 500444,
+      "word": "关晓彤cos甄嬛跳惊鸿舞",
+      "onboard_time": 1703850210,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 494676,
@@ -755,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336173,
+      "num": 336173,
+      "word": "脱轨",
+      "onboard_time": 1703851650,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333949,
       "num": 333949,
       "word": "阿里回应被判赔京东10亿",
@@ -827,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285217,
+      "num": 285217,
+      "word": "不良人",
+      "onboard_time": 1703849612,
+      "rank": 28,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 280136,
       "num": 280136,
       "word": "向太宣布将出售耗时十年建成豪宅",
@@ -851,14 +915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 275204,
-      "num": 275204,
-      "word": "唐嫣 这里是酒吧",
-      "onboard_time": 1703849011,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 275087,
       "num": 275087,
       "word": "2023年的班就上到这里",
@@ -867,20 +923,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270512,
-      "num": 270512,
-      "word": "两家单位拒收人民币现金被罚",
-      "onboard_time": 1703847274,
-      "rank": 30,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 269207,
       "num": 269207,
       "word": "国乒体能大比武",
       "onboard_time": 1703837732,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268070,
+      "num": 268070,
+      "word": "在北欧打工9年被同事举报1000次",
+      "onboard_time": 1703846613,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266840,
@@ -985,14 +1041,6 @@
       "onboard_time": 1703847452,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231652,
-      "num": 231652,
-      "word": "在北欧打工9年被同事举报1000次",
-      "onboard_time": 1703846613,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230947,
@@ -1195,6 +1243,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 202366,
+      "num": 202366,
+      "word": "郭艾伦复出",
+      "onboard_time": 1703851832,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199699,
+      "num": 255168,
+      "word": "丫丫雪地大口大口干饭",
+      "onboard_time": 1703846733,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199584,
       "num": 176128,
       "word": "小米汽车三段自驾测试",
@@ -1305,14 +1369,6 @@
       "onboard_time": 1703824656,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190830,
-      "num": 136527,
-      "word": "支原体肺炎明显症状 爆咳",
-      "onboard_time": 1703849311,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 190720,
@@ -1547,12 +1603,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167586,
+      "num": 167586,
+      "word": "一个演的不像一个不像演的",
+      "onboard_time": 1703848890,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167315,
       "num": 167315,
       "word": "B榜年度最佳kpop歌曲",
       "onboard_time": 1703830714,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166816,
+      "num": 166816,
+      "word": "虞书欣拍的葛优",
+      "onboard_time": 1703849789,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 166177,
@@ -1569,6 +1641,14 @@
       "onboard_time": 1703820811,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162860,
+      "num": 162860,
+      "word": "第一眼见就不对劲的人",
+      "onboard_time": 1703849132,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 162604,
@@ -1683,28 +1763,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 155509,
-      "num": 255168,
-      "word": "丫丫雪地大口大口干饭",
-      "onboard_time": 1703846733,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154070,
       "num": 154070,
       "word": "万物可爱",
       "onboard_time": 1703825557,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153928,
-      "num": 153928,
-      "word": "不良人",
-      "onboard_time": 1703849612,
-      "rank": 28,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 152351,
@@ -1720,6 +1784,14 @@
       "word": "易建联球衣退役仪式感",
       "onboard_time": 1703824178,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149069,
+      "num": 149069,
+      "word": "全红婵参加体能大比武",
+      "onboard_time": 1703851232,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -1859,12 +1931,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137574,
-      "num": 136329,
-      "word": "一个演的不像一个不像演的",
-      "onboard_time": 1703848890,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 137883,
+      "num": 137883,
+      "word": "甄嬛传给老外看流泪了",
+      "onboard_time": 1703851354,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 136807,
@@ -1881,6 +1953,14 @@
       "onboard_time": 1703820572,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133485,
+      "num": 133485,
+      "word": "共迎2024年元旦",
+      "onboard_time": 1703852133,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133100,
@@ -2083,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118481,
+      "num": 118481,
+      "word": "小鬼 这是条喜庆的视频",
+      "onboard_time": 1703851472,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117873,
       "num": 117873,
       "word": "韩媒曝李善均身亡前细节",
@@ -2163,6 +2251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108096,
+      "num": 108096,
+      "word": "徐明浩直播",
+      "onboard_time": 1703850392,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107937,
       "num": 107937,
       "word": "明星代言的护肤品会翻车吗",
@@ -2201,6 +2297,30 @@
       "onboard_time": 1703772757,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103299,
+      "num": 103299,
+      "word": "新闻女王终极彩蛋",
+      "onboard_time": 1703852732,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102404,
+      "num": 102404,
+      "word": "河边的错误成绩超出业内预期",
+      "onboard_time": 1703851891,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 101637,
+      "num": 101637,
+      "word": "冬天擦再多面霜怎么还是起皮",
+      "onboard_time": 1703849670,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 101319,
@@ -2259,12 +2379,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94909,
+      "num": 94909,
+      "word": "换乘到哪去啊",
+      "onboard_time": 1703849851,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94186,
       "num": 94186,
       "word": "TREASURE 初雪Challenge",
       "onboard_time": 1703846912,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 93613,
+      "num": 93613,
+      "word": "潜行",
+      "onboard_time": 1703846253,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 92577,
@@ -2323,12 +2459,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 87828,
-      "num": 87828,
-      "word": "潜行",
-      "onboard_time": 1703846253,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 87617,
+      "num": 87617,
+      "word": "广东男篮vs广厦男篮",
+      "onboard_time": 1703850570,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 86338,
@@ -2451,6 +2587,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 58295,
+      "num": 182786,
+      "word": "被蛋仔三丽鸥语音包可爱到了",
+      "onboard_time": 1703849971,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 58144,
       "num": 359612,
       "word": "元梦之星蜡笔小新怎么获得",
@@ -2537,6 +2681,14 @@
       "onboard_time": 1703833592,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 24599,
+      "num": 333066,
+      "word": "吴宣仪王者直播",
+      "onboard_time": 1703851951,
+      "rank": 14,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 23977,
