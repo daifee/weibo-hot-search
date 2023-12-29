@@ -1,7 +1,15 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703806472029,
+  "endTime": 1703811877673,
   "band_list": [
+    {
+      "raw_hot": 2337540,
+      "num": 2337540,
+      "word": "削皮草莓",
+      "onboard_time": 1703807848,
+      "rank": 0,
+      "category": "美食"
+    },
     {
       "raw_hot": 1404189,
       "num": 1404189,
@@ -9,6 +17,22 @@
       "onboard_time": 1703771014,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1067148,
+      "num": 1067148,
+      "word": "雷军致敬车企仅华为未回应",
+      "onboard_time": 1703807127,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 945588,
+      "num": 945588,
+      "word": "小三最可恨了 但晚意一定有苦衷",
+      "onboard_time": 1703807667,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 852965,
@@ -67,6 +91,30 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 560850,
+      "num": 560850,
+      "word": "花楼 不是已婚也没俩娃",
+      "onboard_time": 1703808449,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 555115,
+      "num": 555115,
+      "word": "papi酱 向电影市场道歉",
+      "onboard_time": 1703772818,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 543130,
+      "num": 543130,
+      "word": "武汉大学书画大赛获奖44人39人为干部",
+      "onboard_time": 1703808628,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529155,
       "num": 529155,
       "word": "大爷以为胃病护士一个坚持救回一命",
@@ -81,6 +129,14 @@
       "onboard_time": 1703774197,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 483260,
+      "num": 483260,
+      "word": "早睡1小时有哪些好处",
+      "onboard_time": 1703809052,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 480535,
@@ -99,8 +155,16 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 388525,
-      "num": 388525,
+      "raw_hot": 424031,
+      "num": 424031,
+      "word": "繁花 明星带货",
+      "onboard_time": 1703808388,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 405173,
+      "num": 405173,
       "word": "天天跺脚表情包",
       "onboard_time": 1703775693,
       "rank": 12,
@@ -121,6 +185,14 @@
       "onboard_time": 1703769093,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 337745,
+      "num": 337745,
+      "word": "只有郑恺被拍成了东北大姨",
+      "onboard_time": 1703763932,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 331730,
@@ -163,6 +235,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 292003,
+      "num": 292003,
+      "word": "古茗莲花楼 喝到了",
+      "onboard_time": 1703810431,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 288667,
+      "num": 288667,
+      "word": "3娃非亲生案女方称我俩有感情",
+      "onboard_time": 1703809772,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280136,
       "num": 280136,
       "word": "向太宣布将出售耗时十年建成豪宅",
@@ -171,12 +259,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238830,
-      "num": 182940,
-      "word": "只有郑恺被拍成了东北大姨",
-      "onboard_time": 1703763932,
-      "rank": 21,
+      "raw_hot": 266348,
+      "num": 266348,
+      "word": "辛芷蕾演我过年回家状态",
+      "onboard_time": 1703810672,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 241845,
+      "num": 241845,
+      "word": "亡夫三部曲",
+      "onboard_time": 1703810493,
+      "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228123,
+      "num": 228123,
+      "word": "不能互相打听工资",
+      "onboard_time": 1703808510,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 224024,
@@ -195,12 +299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210110,
+      "num": 210110,
+      "word": "经常久坐的朋友们有福了",
+      "onboard_time": 1703807367,
+      "rank": 27,
+      "category": "作品衍生,运动健身"
+    },
+    {
       "raw_hot": 202926,
       "num": 202926,
       "word": "A股久违大涨的原因找到了",
       "onboard_time": 1703772156,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 199584,
+      "num": 176128,
+      "word": "小米汽车三段自驾测试",
+      "onboard_time": 1703809830,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 189534,
@@ -219,12 +339,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178253,
+      "num": 178253,
+      "word": "咒术回战 乙骨忧太",
+      "onboard_time": 1703808150,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 175886,
       "num": 130832,
       "word": "姜涛全球最帅面孔第三",
       "onboard_time": 1703753977,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 174593,
+      "num": 174593,
+      "word": "范丞丞说要久久爱马上来",
+      "onboard_time": 1703810132,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173734,
+      "num": 173734,
+      "word": "班主任怕学生冻腿用纸箱围课桌挡风",
+      "onboard_time": 1703811091,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173286,
+      "num": 176189,
+      "word": "她放下书包后我只想说女侠失敬",
+      "onboard_time": 1703808573,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168731,
+      "num": 168731,
+      "word": "多数存量房贷利率明年下调10个基点",
+      "onboard_time": 1703811271,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 168264,
@@ -235,12 +395,60 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 168152,
+      "num": 168152,
+      "word": "陈晓好喜欢冰雨火的团队和氛围",
+      "onboard_time": 1703810014,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162609,
+      "num": 162609,
+      "word": "放寒假",
+      "onboard_time": 1703808330,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 159521,
+      "num": 159521,
+      "word": "剧版三大队 难哄",
+      "onboard_time": 1703809229,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158548,
+      "num": 161444,
+      "word": "追光的你终会光芒万丈",
+      "onboard_time": 1703810555,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153098,
+      "num": 153098,
+      "word": "王家卫镜头下的胡歌",
+      "onboard_time": 1703809170,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148217,
       "num": 123668,
       "word": "学者评繁花前四集",
       "onboard_time": 1703753435,
       "rank": 30,
       "category": "剧集,读书作家"
+    },
+    {
+      "raw_hot": 142468,
+      "num": 142468,
+      "word": "AG 复仇剧本",
+      "onboard_time": 1703810251,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 140970,
@@ -259,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139445,
-      "num": 139445,
-      "word": "papi酱 向电影市场道歉",
-      "onboard_time": 1703772818,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 138283,
       "num": 138283,
       "word": "薛凯琪沉迷东北大饭包",
@@ -283,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132654,
+      "num": 132654,
+      "word": "繁花镜头美学",
+      "onboard_time": 1703811693,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129519,
       "num": 129519,
       "word": "Doinb ip上海",
@@ -297,6 +505,22 @@
       "onboard_time": 1703805082,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123523,
+      "num": 123523,
+      "word": "繁花沪语版 上头",
+      "onboard_time": 1703811450,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123212,
+      "num": 123212,
+      "word": "怎么吃一堑吃一堑又吃一堑的",
+      "onboard_time": 1703807485,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 122772,
@@ -507,20 +731,20 @@
       "category": "作品衍生,健康医疗"
     },
     {
+      "raw_hot": 31136,
+      "num": 977305,
+      "word": "跟着AI重走2023中国科技之旅",
+      "onboard_time": 1703774795,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29325,
       "num": 29325,
       "word": "田曦薇鬼脸对镜拍",
       "onboard_time": 1703786119,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24066,
-      "num": 777576,
-      "word": "跟着AI重走2023中国科技之旅",
-      "onboard_time": 1703774795,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23977,
