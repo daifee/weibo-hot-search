@@ -1,0 +1,410 @@
+{
+  "runTime": 1703845116149,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2377819,
+        "num": 2377819,
+        "word": "阿里被判赔京东10亿",
+        "onboard_time": 1703841630,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 486831,
+        "num": 1436998,
+        "word": "女子因思念亡父泪崩被6岁女儿治愈",
+        "onboard_time": 1703843433,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54175,
+        "num": 1340929,
+        "word": "雪龙号抵达长城站",
+        "onboard_time": 1703842593,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1311465,
+        "num": 1311465,
+        "word": "中医不相信张远38岁了",
+        "onboard_time": 1703841272,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235248,
+        "num": 1054862,
+        "word": "南方小土豆被东北大姨拉手手系围巾",
+        "onboard_time": 1703832332,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839888,
+        "num": 839888,
+        "word": "下班了 今年的苦就吃到这里了",
+        "onboard_time": 1703843791,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183726,
+        "num": 682755,
+        "word": "小伙9年无偿献血20次",
+        "onboard_time": 1703843433,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567829,
+        "num": 567829,
+        "word": "李善均出殡现场全慧珍痛哭",
+        "onboard_time": 1703839112,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533911,
+        "num": 533911,
+        "word": "杨迪吐槽的是哪个综艺",
+        "onboard_time": 1703843013,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432476,
+        "num": 432476,
+        "word": "藏海传官微开通",
+        "onboard_time": 1703843733,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 738420,
+        "num": 429534,
+        "word": "正主卖cp 真嫂子没眼看",
+        "onboard_time": 1703829512,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 426176,
+        "num": 426176,
+        "word": "熟人作案 影视化",
+        "onboard_time": 1703836353,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 491787,
+        "num": 425324,
+        "word": "许光汉现身李善均灵堂哀悼",
+        "onboard_time": 1703840672,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416856,
+        "num": 416856,
+        "word": "冥河水母",
+        "onboard_time": 1703840731,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 17807,
+        "num": 377674,
+        "word": "在蛋仔岛实现一个小目标",
+        "onboard_time": 1703844032,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 359993,
+        "num": 359993,
+        "word": "结婚的好处",
+        "onboard_time": 1703844393,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351616,
+        "num": 351616,
+        "word": "招商银行向员工逆向讨薪近6000万",
+        "onboard_time": 1703831193,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348275,
+        "num": 348275,
+        "word": "母亲含泪喂被拐35年男子儿时吃过的蜂蜜",
+        "onboard_time": 1703820931,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296234,
+        "num": 296234,
+        "word": "张钰琪毕业回国",
+        "onboard_time": 1703828072,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294826,
+        "num": 294826,
+        "word": "BLACKPINK个人不与YG续约",
+        "onboard_time": 1703824236,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87253,
+        "num": 292932,
+        "word": "哈妮克孜COS甄姬",
+        "onboard_time": 1703842892,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 292448,
+        "num": 292448,
+        "word": "顾客摸草莓不买遭商家泼水",
+        "onboard_time": 1703828614,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291397,
+        "num": 291397,
+        "word": "阿里回应被判赔京东10亿",
+        "onboard_time": 1703843971,
+        "rank": 22,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 249033,
+        "num": 249033,
+        "word": "99元羽绒服商家回应品质问题",
+        "onboard_time": 1703844091,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241863,
+        "num": 241863,
+        "word": "胡歌除了自拍谁拍都帅",
+        "onboard_time": 1703834013,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236905,
+        "num": 236905,
+        "word": "孟羽童发声",
+        "onboard_time": 1703814872,
+        "rank": 25,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 235596,
+        "num": 235596,
+        "word": "郑秀妍郑秀晶cha新歌差点打起来",
+        "onboard_time": 1703844513,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204283,
+        "num": 204283,
+        "word": "何炅居然是i人",
+        "onboard_time": 1703833531,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177651,
+        "num": 177651,
+        "word": "一家8口住酒店称很划算准备住一辈子",
+        "onboard_time": 1703820752,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171208,
+        "num": 171208,
+        "word": "和姐姐谈恋爱的好处",
+        "onboard_time": 1703840971,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170640,
+        "num": 170640,
+        "word": "山西一小区上百人中毒",
+        "onboard_time": 1703831312,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157041,
+        "num": 157041,
+        "word": "狼队 我破防了",
+        "onboard_time": 1703834972,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152351,
+        "num": 152351,
+        "word": "跨年档电影",
+        "onboard_time": 1703844091,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144084,
+        "num": 144084,
+        "word": "逆向讨薪",
+        "onboard_time": 1703843852,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139550,
+        "num": 139550,
+        "word": "女子花575万公款请大师绑姻缘获刑5年",
+        "onboard_time": 1703833652,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125443,
+        "num": 125443,
+        "word": "何猷君抽中香港澳门一日游",
+        "onboard_time": 1703822556,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124291,
+        "num": 124291,
+        "word": "大山里的女校 重点抓对了",
+        "onboard_time": 1703842112,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122564,
+        "num": 122564,
+        "word": "年会不能停",
+        "onboard_time": 1703844272,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121616,
+        "num": 121616,
+        "word": "期末考官是胡歌",
+        "onboard_time": 1703825018,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119043,
+        "num": 119043,
+        "word": "傅盛称买特斯拉股票是最成功的投资",
+        "onboard_time": 1703844991,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 110495,
+        "num": 110495,
+        "word": "肖战晒图了",
+        "onboard_time": 1703826756,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105772,
+        "num": 105772,
+        "word": "3娃非亲生案女方要求分割房产",
+        "onboard_time": 1703829452,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104311,
+        "num": 104311,
+        "word": "杨幂复古红唇妆",
+        "onboard_time": 1703838270,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 104217,
+        "num": 104217,
+        "word": "天启异闻录定档",
+        "onboard_time": 1703837193,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103726,
+        "num": 103726,
+        "word": "东北大葱宠南方小土豆",
+        "onboard_time": 1703839293,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102998,
+        "num": 102998,
+        "word": "王嘉尔 从练习生到老板",
+        "onboard_time": 1703835031,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73848,
+        "num": 100721,
+        "word": "蛋仔皮肤挑花眼了",
+        "onboard_time": 1703841450,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99047,
+        "num": 99047,
+        "word": "换乘恋爱3开播",
+        "onboard_time": 1703844932,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93345,
+        "num": 93345,
+        "word": "去年GDP现价总量为1204724亿元",
+        "onboard_time": 1703839892,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 88898,
+        "num": 88898,
+        "word": "元旦假期",
+        "onboard_time": 1703840911,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创中国特色大国外交新局面#"
+    }
+  }
+}
