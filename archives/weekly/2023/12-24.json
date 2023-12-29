@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703856839391,
+  "endTime": 1703859339557,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -820,7 +820,7 @@
     },
     {
       "raw_hot": 1337462,
-      "num": 413021,
+      "num": 474536,
       "word": "王鹤棣宋茜 跨年跳屋顶着火",
       "onboard_time": 1703855493,
       "rank": 10,
@@ -889,6 +889,14 @@
       "onboard_time": 1703547266,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1292779,
+      "num": 1292779,
+      "word": "陌生人发来的晚安",
+      "onboard_time": 1703858014,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 1289101,
@@ -1683,6 +1691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 864235,
+      "num": 864235,
+      "word": "宋佳演的张桂梅校长",
+      "onboard_time": 1703856516,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 862422,
       "num": 862422,
       "word": "官方通报订婚强奸案",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1703724573,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 850591,
+      "num": 850591,
+      "word": "内娱出圈新人TOP1",
+      "onboard_time": 1703854891,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 848950,
@@ -2379,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 680820,
+      "num": 327328,
+      "word": "女子因不孕离婚后逃离家乡小城",
+      "onboard_time": 1703856936,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 678115,
       "num": 490209,
       "word": "王安宇 克罗地亚旅拍",
@@ -2899,6 +2931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589256,
+      "num": 589256,
+      "word": "土灵珠",
+      "onboard_time": 1703855974,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 588578,
       "num": 588578,
       "word": "EDG 天才",
@@ -3161,6 +3201,14 @@
       "onboard_time": 1703834852,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 554809,
+      "num": 554809,
+      "word": "张杰天下炸场",
+      "onboard_time": 1703857234,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 552565,
@@ -3747,6 +3795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 486834,
+      "num": 486834,
+      "word": "王博",
+      "onboard_time": 1703858554,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 486638,
       "num": 486638,
       "word": "春楠给关晓彤化的新年好运妆",
@@ -4299,20 +4355,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 428274,
-      "num": 428274,
-      "word": "内娱出圈新人TOP1",
-      "onboard_time": 1703854891,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 428066,
       "num": 428066,
       "word": "冻梨 吸妃回宫了",
       "onboard_time": 1703588312,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 427595,
+      "num": 427595,
+      "word": "第一眼见就不对劲的人",
+      "onboard_time": 1703849132,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 427491,
@@ -4361,6 +4417,14 @@
       "onboard_time": 1703724756,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 424562,
+      "num": 424562,
+      "word": "明年一定是个好年",
+      "onboard_time": 1703857414,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 424554,
@@ -4643,6 +4707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 400243,
+      "num": 400243,
+      "word": "图书馆30秒",
+      "onboard_time": 1703858496,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 398363,
       "num": 398363,
       "word": "经常吃这些食物更容易患糖尿病",
@@ -4833,14 +4905,6 @@
       "onboard_time": 1703500772,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 384937,
-      "num": 384937,
-      "word": "第一眼见就不对劲的人",
-      "onboard_time": 1703849132,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 384720,
@@ -5347,6 +5411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 339425,
+      "num": 432427,
+      "word": "广厦男篮换下首发",
+      "onboard_time": 1703857356,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339406,
       "num": 339406,
       "word": "外卖员偷了另一个外卖员送的外卖",
@@ -5472,6 +5544,14 @@
       "word": "重庆近2万单身人士在凌晨搬家",
       "onboard_time": 1703740473,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328357,
+      "num": 328357,
+      "word": "3孩非亲生案当事人自述始末",
+      "onboard_time": 1703853874,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -5753,6 +5833,14 @@
       "onboard_time": 1703402671,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312932,
+      "num": 312932,
+      "word": "张震倪妮自拍",
+      "onboard_time": 1703858554,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 311325,
@@ -6065,22 +6153,6 @@
       "onboard_time": 1703584896,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 294011,
-      "num": 294011,
-      "word": "土灵珠",
-      "onboard_time": 1703855974,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 292638,
-      "num": 292638,
-      "word": "3孩非亲生案当事人自述始末",
-      "onboard_time": 1703853874,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292121,
@@ -7003,6 +7075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248997,
+      "num": 248997,
+      "word": "易建联球衣退役仪式",
+      "onboard_time": 1703847452,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248664,
       "num": 248664,
       "word": "AG 拿下",
@@ -7513,14 +7593,6 @@
       "onboard_time": 1703665715,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233088,
-      "num": 233088,
-      "word": "易建联球衣退役仪式",
-      "onboard_time": 1703847452,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 232230,
@@ -8641,6 +8713,14 @@
       "onboard_time": 1703483433,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204258,
+      "num": 204258,
+      "word": "成毅DK制服",
+      "onboard_time": 1703858856,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 204149,
@@ -10219,6 +10299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178956,
+      "num": 178956,
+      "word": "王曼昱参加3000米跑",
+      "onboard_time": 1703856634,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178801,
       "num": 173186,
       "word": "给孩子取名字的好办法",
@@ -10257,14 +10345,6 @@
       "onboard_time": 1703734173,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 178615,
-      "num": 178615,
-      "word": "宋佳演的张桂梅校长",
-      "onboard_time": 1703856516,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 178581,
@@ -10505,6 +10585,14 @@
       "onboard_time": 1703844932,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175212,
+      "num": 175212,
+      "word": "易建联球衣退役仪式高朋满座",
+      "onboard_time": 1703855314,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 174846,
@@ -11233,6 +11321,14 @@
       "onboard_time": 1703556933,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163486,
+      "num": 163486,
+      "word": "马伊琍上海话",
+      "onboard_time": 1703857533,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 163185,
@@ -12283,6 +12379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149221,
+      "num": 149221,
+      "word": "为什么一觉醒来身上会有淤青",
+      "onboard_time": 1703858856,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 149091,
       "num": 149091,
       "word": "刮通这里才知道自己屯了多少湿",
@@ -12433,6 +12537,14 @@
       "onboard_time": 1703727691,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146681,
+      "num": 146681,
+      "word": "孙铭徽张皓嘉冲突",
+      "onboard_time": 1703858616,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 146672,
@@ -12843,14 +12955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141005,
-      "num": 141005,
-      "word": "王曼昱参加3000米跑",
-      "onboard_time": 1703856634,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140970,
       "num": 123552,
       "word": "王一博李沁金色征途下证",
@@ -13161,6 +13265,14 @@
       "onboard_time": 1703854772,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135849,
+      "num": 135849,
+      "word": "重返未来1.6新春版本",
+      "onboard_time": 1703858196,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 135777,
@@ -13745,14 +13857,6 @@
       "onboard_time": 1703388994,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129082,
-      "num": 129082,
-      "word": "易建联球衣退役仪式高朋满座",
-      "onboard_time": 1703855314,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 129006,
@@ -16331,6 +16435,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 46607,
+      "num": 175571,
+      "word": "吴宣仪说想cos黄忠",
+      "onboard_time": 1703858735,
+      "rank": 34,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 45187,
       "num": 862655,
       "word": "甘肃震区已有序复商复市复课",
@@ -16473,6 +16585,14 @@
       "onboard_time": 1703787261,
       "rank": 40,
       "category": "作品衍生,健康医疗"
+    },
+    {
+      "raw_hot": 38679,
+      "num": 429377,
+      "word": "元梦之星年轻人的4399",
+      "onboard_time": 1703858434,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 38566,
