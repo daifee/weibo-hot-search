@@ -1,0 +1,410 @@
+{
+  "runTime": 1703817330975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2716975,
+        "num": 2716975,
+        "word": "孟羽童发声",
+        "onboard_time": 1703814872,
+        "rank": 0,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 1147824,
+        "num": 1147824,
+        "word": "削皮草莓",
+        "onboard_time": 1703807848,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 23230,
+        "num": 1098263,
+        "word": "跟着AI重走2023中国科技之旅",
+        "onboard_time": 1703774795,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1088874,
+        "num": 1088874,
+        "word": "82岁院士自曝每天熬夜到2点",
+        "onboard_time": 1703813131,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706161,
+        "num": 706161,
+        "word": "肖战嘉人开年刊封面",
+        "onboard_time": 1703816551,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1255664,
+        "num": 694499,
+        "word": "上海宝格丽酒店跨年夜房费高达30余万",
+        "onboard_time": 1703812771,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 677866,
+        "num": 677866,
+        "word": "东莞业主600万买96平房现280万没人要",
+        "onboard_time": 1703813611,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633450,
+        "num": 633450,
+        "word": "女子离职后把手机静音1年",
+        "onboard_time": 1703771014,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582982,
+        "num": 582982,
+        "word": "古茗莲花楼 喝到了",
+        "onboard_time": 1703810431,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463667,
+        "num": 463667,
+        "word": "南方小土豆想吃麻辣烫司机动用人脉打听",
+        "onboard_time": 1703813731,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418132,
+        "num": 418132,
+        "word": "余承东疑与雷军隔空打擂",
+        "onboard_time": 1703814752,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 354305,
+        "num": 354305,
+        "word": "全面禁售禁燃烟花爆竹规定应予修改",
+        "onboard_time": 1703816192,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353363,
+        "num": 353363,
+        "word": "辛芷蕾想当母女 赵昭仪想当姐妹",
+        "onboard_time": 1703815171,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337651,
+        "num": 337651,
+        "word": "papi酱 向电影市场道歉",
+        "onboard_time": 1703772818,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 333161,
+        "num": 333161,
+        "word": "天天本人玩梗跺脚表情包",
+        "onboard_time": 1703816249,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61501,
+        "num": 328953,
+        "word": "新年有新E",
+        "onboard_time": 1703816132,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 327963,
+        "num": 327963,
+        "word": "美国缅因州禁止特朗普参加总统初选",
+        "onboard_time": 1703815290,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 333433,
+        "num": 327876,
+        "word": "辛芷蕾演我过年回家状态",
+        "onboard_time": 1703810672,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325398,
+        "num": 325398,
+        "word": "天天跺脚表情包",
+        "onboard_time": 1703775693,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311158,
+        "num": 311158,
+        "word": "亡夫三部曲",
+        "onboard_time": 1703810493,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 576831,
+        "num": 301209,
+        "word": "小三最可恨了 但晚意一定有苦衷",
+        "onboard_time": 1703807667,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276666,
+        "num": 276666,
+        "word": "逆水寒 老登我半价券呢",
+        "onboard_time": 1703816071,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259217,
+        "num": 259217,
+        "word": "雷军致敬车企仅华为未回应",
+        "onboard_time": 1703807127,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 239395,
+        "num": 239395,
+        "word": "我知道我爱你 官博疯了",
+        "onboard_time": 1703777493,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239081,
+        "num": 239081,
+        "word": "早睡1小时有哪些好处",
+        "onboard_time": 1703809052,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224850,
+        "num": 224850,
+        "word": "2023年的班就上到这里",
+        "onboard_time": 1703813611,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195066,
+        "num": 195066,
+        "word": "这三种水果的果皮营养堪比果肉",
+        "onboard_time": 1703813850,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188314,
+        "num": 188314,
+        "word": "大熊猫强生风雪中思考熊生",
+        "onboard_time": 1703814030,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166786,
+        "num": 166786,
+        "word": "抗癌宝贝毅玲去世",
+        "onboard_time": 1703776893,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166242,
+        "num": 166242,
+        "word": "花楼 不是已婚也没俩娃",
+        "onboard_time": 1703808449,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162699,
+        "num": 162699,
+        "word": "武汉大学书画大赛获奖44人39人为干部",
+        "onboard_time": 1703808628,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150990,
+        "num": 150990,
+        "word": "193的英国网友去荷兰后",
+        "onboard_time": 1703811991,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150562,
+        "num": 150562,
+        "word": "繁花 明星带货",
+        "onboard_time": 1703808388,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145221,
+        "num": 145221,
+        "word": "大爷以为胃病护士一个坚持救回一命",
+        "onboard_time": 1703773356,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142381,
+        "num": 142381,
+        "word": "2023有哪些暖心瞬间",
+        "onboard_time": 1703815954,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 137313,
+        "num": 137313,
+        "word": "繁花",
+        "onboard_time": 1703814632,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136888,
+        "num": 136888,
+        "word": "蒲熠星的狗跑个马拉松胖2斤",
+        "onboard_time": 1703816852,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133541,
+        "num": 133541,
+        "word": "刘亦菲文咏珊听到了什么",
+        "onboard_time": 1703811871,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131313,
+        "num": 131313,
+        "word": "高校元旦晚会",
+        "onboard_time": 1703816971,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131076,
+        "num": 131076,
+        "word": "迪丽热巴想买断自己表情包",
+        "onboard_time": 1703774197,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122855,
+        "num": 122855,
+        "word": "地铁帅哥",
+        "onboard_time": 1703817151,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115761,
+        "num": 115761,
+        "word": "湖人拒绝用里夫斯换穆雷",
+        "onboard_time": 1703813792,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111713,
+        "num": 111713,
+        "word": "咒术回战 乙骨忧太",
+        "onboard_time": 1703808150,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 109021,
+        "num": 109021,
+        "word": "刘亦菲金莲花视后",
+        "onboard_time": 1703769093,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107869,
+        "num": 107869,
+        "word": "3娃非亲生案女方称我俩有感情",
+        "onboard_time": 1703809772,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106610,
+        "num": 106610,
+        "word": "她放下书包后我只想说女侠失敬",
+        "onboard_time": 1703808573,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104530,
+        "num": 104530,
+        "word": "掉进眼睛的异物最后都去哪儿了",
+        "onboard_time": 1703768432,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104158,
+        "num": 104158,
+        "word": "经常久坐的朋友们有福了",
+        "onboard_time": 1703807367,
+        "rank": 47,
+        "category": "作品衍生,运动健身"
+      },
+      {
+        "raw_hot": 98587,
+        "num": 98587,
+        "word": "班主任怕学生冻腿用纸箱围课桌挡风",
+        "onboard_time": 1703811091,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98348,
+        "num": 98348,
+        "word": "2023年最后一个周五",
+        "onboard_time": 1703813611,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央外事工作会议举行#"
+    }
+  }
+}
