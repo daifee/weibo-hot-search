@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703864090305,
+  "endTime": 1703867016595,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -5785,6 +5785,14 @@
       "onboard_time": 1703322998,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1237326,
+      "num": 1237326,
+      "word": "我在2元店都不敢这么买",
+      "onboard_time": 1703863475,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 1234522,
@@ -23627,6 +23635,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 422071,
+      "num": 422071,
+      "word": "游本昌 北京爷叔来看上海爷叔",
+      "onboard_time": 1703862933,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 421725,
       "num": 421725,
       "word": "明年起广州地铁内将禁止电子设备外放声音",
@@ -27739,14 +27755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363863,
-      "num": 363863,
-      "word": "游本昌 北京爷叔来看上海爷叔",
-      "onboard_time": 1703862933,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 363515,
       "num": 363515,
       "word": "杨紫 立体玫瑰黑纱长裙",
@@ -27969,6 +27977,14 @@
       "onboard_time": 1703049994,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 360608,
+      "num": 360608,
+      "word": "赵灵儿曲布等多名百万粉丝网红被判刑",
+      "onboard_time": 1703864792,
+      "rank": 11,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 360585,
@@ -30649,6 +30665,14 @@
       "onboard_time": 1703296771,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 328147,
+      "num": 248350,
+      "word": "女子185万买江景房完全看不到江",
+      "onboard_time": 1703864072,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328020,
@@ -33995,6 +34019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 296925,
+      "num": 296925,
+      "word": "张杰下雪了",
+      "onboard_time": 1703864373,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 296915,
       "num": 296915,
       "word": "梅西 最疯狂的一年",
@@ -37129,14 +37161,6 @@
       "onboard_time": 1701863795,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 272539,
-      "num": 272539,
-      "word": "我在2元店都不敢这么买",
-      "onboard_time": 1703863475,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 272504,
@@ -52084,7 +52108,7 @@
     },
     {
       "raw_hot": 196914,
-      "num": 196914,
+      "num": 200173,
       "word": "广东宏远全家福",
       "onboard_time": 1703863475,
       "rank": 31,
@@ -65283,6 +65307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150546,
+      "num": 150546,
+      "word": "GISELLE YEJI DramaChallenge",
+      "onboard_time": 1703865151,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150530,
       "num": 150530,
       "word": "皮卡堂 开门啊",
@@ -68883,6 +68915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136707,
+      "num": 136707,
+      "word": "鸣龙少年 换乘恋爱",
+      "onboard_time": 1703865991,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136683,
       "num": 136683,
       "word": "朴志效 Killin Me Good",
@@ -69809,6 +69849,14 @@
       "onboard_time": 1703566835,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 132366,
+      "num": 132366,
+      "word": "ENHYPEN 一款两极分化的男团",
+      "onboard_time": 1703865451,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 132350,
@@ -71259,6 +71307,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 126022,
+      "num": 124426,
+      "word": "来人给景甜上清宫本",
+      "onboard_time": 1703864315,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125957,
       "num": 392999,
       "word": "不要把命运系在任何人身上",
@@ -72163,6 +72219,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 121573,
+      "num": 117230,
+      "word": "花少团随时都惦记着迪丽热巴",
+      "onboard_time": 1703866530,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121555,
       "num": 121555,
       "word": "文明办回应网格员多次入户纠正蹲地吃饭",
@@ -72553,6 +72617,14 @@
       "onboard_time": 1703846190,
       "rank": 41,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 119613,
+      "num": 119613,
+      "word": "国足vs阿曼",
+      "onboard_time": 1703865811,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 119459,
@@ -73643,6 +73715,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 111682,
+      "num": 111682,
+      "word": "李春江也来了",
+      "onboard_time": 1703865210,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111591,
       "num": 111591,
       "word": "办公室恋情会长久吗",
@@ -74369,14 +74449,6 @@
       "onboard_time": 1703733451,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 103405,
-      "num": 103405,
-      "word": "女子185万买江景房完全看不到江",
-      "onboard_time": 1703864072,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102973,
@@ -75401,6 +75473,14 @@
       "onboard_time": 1701466994,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87814,
+      "num": 87814,
+      "word": "现在的玩具也太吓人了",
+      "onboard_time": 1703866889,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 87662,
@@ -78283,6 +78363,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 41680,
+      "num": 1390173,
+      "word": "2023这些凡人微光照亮前路",
+      "onboard_time": 1703862994,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41377,
       "num": 974122,
       "word": "这就是长三角",
@@ -80137,14 +80225,6 @@
       "onboard_time": 1702760714,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17599,
-      "num": 1390173,
-      "word": "2023这些凡人微光照亮前路",
-      "onboard_time": 1703862994,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17472,
