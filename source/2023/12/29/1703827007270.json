@@ -1,0 +1,410 @@
+{
+  "runTime": 1703827007270,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1488868,
+        "num": 1488868,
+        "word": "一家8口住酒店称很划算准备住一辈子",
+        "onboard_time": 1703820752,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1320486,
+        "num": 1320486,
+        "word": "BLACKPINK个人不与YG续约",
+        "onboard_time": 1703824236,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61782,
+        "num": 1245089,
+        "word": "2023那些被瞬间治愈的时刻",
+        "onboard_time": 1703808028,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1239599,
+        "num": 1239599,
+        "word": "孟羽童发声",
+        "onboard_time": 1703814872,
+        "rank": 3,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 1134422,
+        "num": 1134422,
+        "word": "女子急诊科猝死家属质疑护士玩手机",
+        "onboard_time": 1703822253,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697968,
+        "num": 697968,
+        "word": "何猷君抽中香港澳门一日游",
+        "onboard_time": 1703822556,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658988,
+        "num": 658988,
+        "word": "陈牧驰名下工作室注销",
+        "onboard_time": 1703824835,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654367,
+        "num": 654367,
+        "word": "iPhone遭遇史上最复杂攻击",
+        "onboard_time": 1703817630,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 633159,
+        "num": 633159,
+        "word": "母亲含泪喂被拐35年男子儿时吃过的蜂蜜",
+        "onboard_time": 1703820931,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525931,
+        "num": 525931,
+        "word": "全球首位身家超1000亿美元女性",
+        "onboard_time": 1703824776,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 625385,
+        "num": 525598,
+        "word": "原来买一送一不是打五折",
+        "onboard_time": 1703823517,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 511203,
+        "num": 511203,
+        "word": "地铁帅哥",
+        "onboard_time": 1703817151,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 503047,
+        "num": 503047,
+        "word": "肖战晒图了",
+        "onboard_time": 1703826756,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449442,
+        "num": 449442,
+        "word": "韩后创始人称欠一空姐1500万",
+        "onboard_time": 1703823997,
+        "rank": 13,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 426598,
+        "num": 426598,
+        "word": "等等的嘴随了邓超",
+        "onboard_time": 1703822674,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417535,
+        "num": 417535,
+        "word": "繁花 不响",
+        "onboard_time": 1703821832,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410897,
+        "num": 410897,
+        "word": "王一博新歌",
+        "onboard_time": 1703825856,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 403983,
+        "num": 403983,
+        "word": "期末考官是胡歌",
+        "onboard_time": 1703825018,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388660,
+        "num": 388660,
+        "word": "武艺 不知道什么时候喜欢我的人就少了",
+        "onboard_time": 1703824056,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352076,
+        "num": 352076,
+        "word": "削皮草莓",
+        "onboard_time": 1703807848,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 325467,
+        "num": 325467,
+        "word": "女子离职后把手机静音1年",
+        "onboard_time": 1703771014,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283100,
+        "num": 283100,
+        "word": "上海宝格丽酒店跨年夜房费高达30余万",
+        "onboard_time": 1703812771,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 261753,
+        "num": 261753,
+        "word": "刘嘉玲梁朝伟 经纪人代班正主",
+        "onboard_time": 1703819492,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229057,
+        "num": 229057,
+        "word": "1月星座好运排行榜",
+        "onboard_time": 1703825197,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228323,
+        "num": 228323,
+        "word": "老板娘 这次我真是自愿加班的",
+        "onboard_time": 1703822073,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226017,
+        "num": 226017,
+        "word": "天天本人玩梗跺脚表情包",
+        "onboard_time": 1703816249,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225473,
+        "num": 225473,
+        "word": "古茗莲花楼 喝到了",
+        "onboard_time": 1703810431,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225040,
+        "num": 225040,
+        "word": "南方小土豆想吃麻辣烫司机动用人脉打听",
+        "onboard_time": 1703813731,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210185,
+        "num": 210185,
+        "word": "82岁院士自曝每天熬夜到2点",
+        "onboard_time": 1703813131,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112838,
+        "num": 198821,
+        "word": "大熊猫强生风雪中思考熊生",
+        "onboard_time": 1703814030,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214536,
+        "num": 197629,
+        "word": "刘亦菲周冬雨G社生图",
+        "onboard_time": 1703820333,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196155,
+        "num": 196155,
+        "word": "肠胃不好或会让你变丑",
+        "onboard_time": 1703824835,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196035,
+        "num": 196035,
+        "word": "不良人 恭迎大帅",
+        "onboard_time": 1703823636,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 192278,
+        "num": 192278,
+        "word": "魏大勋画了大勋花",
+        "onboard_time": 1703824656,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189956,
+        "num": 189956,
+        "word": "小三最可恨了 但晚意一定有苦衷",
+        "onboard_time": 1703807667,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188261,
+        "num": 188261,
+        "word": "王牌对王牌开启清宫副本",
+        "onboard_time": 1703826455,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184734,
+        "num": 184734,
+        "word": "2岁弟弟用身体护住姐姐躲汽车",
+        "onboard_time": 1703823757,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182951,
+        "num": 182951,
+        "word": "天天跺脚表情包",
+        "onboard_time": 1703775693,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164273,
+        "num": 164273,
+        "word": "陈奕迅跨年演唱会被曝强退门票",
+        "onboard_time": 1703823757,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157471,
+        "num": 157471,
+        "word": "决战平安京",
+        "onboard_time": 1703825436,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154070,
+        "num": 154070,
+        "word": "万物可爱",
+        "onboard_time": 1703825557,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146736,
+        "num": 146736,
+        "word": "东莞业主600万买96平房现280万没人要",
+        "onboard_time": 1703813611,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145205,
+        "num": 145205,
+        "word": "在暴雪时分",
+        "onboard_time": 1703824416,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144644,
+        "num": 144644,
+        "word": "当大鹅发现自己落单",
+        "onboard_time": 1703826035,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137470,
+        "num": 137470,
+        "word": "达尔文结节",
+        "onboard_time": 1703823935,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 136807,
+        "num": 136807,
+        "word": "李梦说我的字典里没有放弃",
+        "onboard_time": 1703826936,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133100,
+        "num": 133100,
+        "word": "米粉期望小米汽车30万左右",
+        "onboard_time": 1703825737,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131511,
+        "num": 131511,
+        "word": "A股2023年最后一个交易日",
+        "onboard_time": 1703821231,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130706,
+        "num": 130706,
+        "word": "突然对化妆技巧起了敬意",
+        "onboard_time": 1703822974,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 130632,
+        "num": 130632,
+        "word": "繁花",
+        "onboard_time": 1703814632,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和人民在一起的暖心瞬间#"
+    }
+  }
+}
