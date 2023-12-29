@@ -1,0 +1,410 @@
+{
+  "runTime": 1703892860466,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 510987,
+        "num": 510987,
+        "word": "我在2元店都不敢这么买",
+        "onboard_time": 1703863475,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341309,
+        "num": 341309,
+        "word": "赵灵儿曲布等多名百万粉丝网红被判刑",
+        "onboard_time": 1703864792,
+        "rank": 1,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 29444,
+        "num": 304919,
+        "word": "2023这些凡人微光照亮前路",
+        "onboard_time": 1703862994,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364223,
+        "num": 298334,
+        "word": "官方通报一小区上百居民呕吐腹泻",
+        "onboard_time": 1703884274,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285502,
+        "num": 285502,
+        "word": "明年一定是个好年",
+        "onboard_time": 1703857414,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399902,
+        "num": 281261,
+        "word": "图书馆30秒",
+        "onboard_time": 1703858496,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238695,
+        "num": 238695,
+        "word": "被邻居投诉让我收走猫窝",
+        "onboard_time": 1703880135,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224466,
+        "num": 224466,
+        "word": "张晚意 最纯情的脸演最禁忌的爱",
+        "onboard_time": 1703859515,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175547,
+        "num": 175547,
+        "word": "鸣龙少年 癫剧",
+        "onboard_time": 1703861918,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105551,
+        "num": 153732,
+        "word": "2023最后2天",
+        "onboard_time": 1703891721,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596467,
+        "num": 150866,
+        "word": "女子因不孕离婚后逃离家乡小城",
+        "onboard_time": 1703856936,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143293,
+        "num": 143293,
+        "word": "游本昌 北京爷叔来看上海爷叔",
+        "onboard_time": 1703862933,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128037,
+        "num": 128037,
+        "word": "元旦假期第一天",
+        "onboard_time": 1703891721,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116353,
+        "num": 116353,
+        "word": "自来水公司回应上百人疑因水中毒",
+        "onboard_time": 1703886913,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112657,
+        "num": 112657,
+        "word": "唐嫣斓曦蓝盈莹都是张晓龙的学生",
+        "onboard_time": 1703863292,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103480,
+        "num": 103480,
+        "word": "图书馆30秒 平等发生在每个人身上",
+        "onboard_time": 1703854470,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100743,
+        "num": 100743,
+        "word": "阿里被判赔京东10亿",
+        "onboard_time": 1703841630,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98015,
+        "num": 98015,
+        "word": "建议春晚给大学生一个赛道",
+        "onboard_time": 1703891839,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97447,
+        "num": 97447,
+        "word": "第一眼见就不对劲的人",
+        "onboard_time": 1703849132,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66133,
+        "num": 94356,
+        "word": "国足vs阿曼",
+        "onboard_time": 1703865811,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153765,
+        "num": 94185,
+        "word": "女子185万买江景房完全看不到江",
+        "onboard_time": 1703864072,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142044,
+        "num": 93995,
+        "word": "男子半夜刷卡进女生房间看隐私视频",
+        "onboard_time": 1703873482,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93670,
+        "num": 93670,
+        "word": "为什么血管有斑块的年轻人变多了",
+        "onboard_time": 1703889136,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71040,
+        "num": 71040,
+        "word": "王鹤棣宋茜 跨年跳屋顶着火",
+        "onboard_time": 1703855493,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70600,
+        "num": 70600,
+        "word": "内娱出圈新人TOP1",
+        "onboard_time": 1703854891,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64320,
+        "num": 64320,
+        "word": "现在的玩具也太吓人了",
+        "onboard_time": 1703866889,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63204,
+        "num": 63204,
+        "word": "熬夜之后为什么从头到脚都不舒服",
+        "onboard_time": 1703873361,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62997,
+        "num": 62997,
+        "word": "辛芷蕾 风情万种",
+        "onboard_time": 1703859634,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58452,
+        "num": 58452,
+        "word": "成毅DK制服",
+        "onboard_time": 1703858856,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56701,
+        "num": 56701,
+        "word": "5岁孩子上课发现对面着火大声提醒",
+        "onboard_time": 1703892319,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 459402,
+        "num": 56552,
+        "word": "俄女网红办半裸派对引普京不满",
+        "onboard_time": 1703891839,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 55223,
+        "num": 55223,
+        "word": "千年古树有70多个巨大蜂巢",
+        "onboard_time": 1703882894,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53700,
+        "num": 53700,
+        "word": "唐嫣 这里是酒吧",
+        "onboard_time": 1703849011,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53285,
+        "num": 53285,
+        "word": "9块9两个的玻璃杯真的会炸",
+        "onboard_time": 1703861675,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51538,
+        "num": 51538,
+        "word": "张杰下雪了",
+        "onboard_time": 1703864373,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51504,
+        "num": 51504,
+        "word": "肖战直播",
+        "onboard_time": 1703852013,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50511,
+        "num": 50511,
+        "word": "周深不知道怎么当上的哥哥",
+        "onboard_time": 1703887695,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48889,
+        "num": 48889,
+        "word": "花少团随时都惦记着迪丽热巴",
+        "onboard_time": 1703866530,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47044,
+        "num": 47044,
+        "word": "急诊科需要抢救的患者",
+        "onboard_time": 1703892441,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45421,
+        "num": 45421,
+        "word": "中医不相信张远38岁了",
+        "onboard_time": 1703841272,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45166,
+        "num": 45166,
+        "word": "我知道我爱你 男二人设",
+        "onboard_time": 1703892561,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44953,
+        "num": 44953,
+        "word": "宋江金裕贞获最佳cp奖",
+        "onboard_time": 1703860835,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44497,
+        "num": 44497,
+        "word": "董军任国防部部长",
+        "onboard_time": 1703846972,
+        "rank": 42,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 44485,
+        "num": 44485,
+        "word": "尹锡悦邀朴槿惠共进午餐",
+        "onboard_time": 1703892624,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 44141,
+        "num": 44141,
+        "word": "杨紫出发海口",
+        "onboard_time": 1703884993,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43259,
+        "num": 43259,
+        "word": "王曼昱王艺迪准备走向大比武现场",
+        "onboard_time": 1703892742,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43190,
+        "num": 43190,
+        "word": "易建联说我回来了",
+        "onboard_time": 1703859876,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42003,
+        "num": 42003,
+        "word": "旭旭宝宝 复播",
+        "onboard_time": 1703846972,
+        "rank": 47,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 39701,
+        "num": 39701,
+        "word": "张震倪妮自拍",
+        "onboard_time": 1703858554,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34961,
+        "num": 34961,
+        "word": "高敏感是一种天赋",
+        "onboard_time": 1703884695,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创中国特色大国外交新局面#"
+    }
+  }
+}
