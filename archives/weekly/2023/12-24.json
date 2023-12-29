@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703860434939,
+  "endTime": 1703863025022,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1891641,
+      "num": 1891641,
+      "word": "图书馆30秒",
+      "onboard_time": 1703858496,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1890788,
       "num": 1890788,
       "word": "上海迪士尼发布通知",
@@ -704,6 +712,14 @@
       "word": "图书馆30秒 平等发生在每个人身上",
       "onboard_time": 1703854470,
       "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1466395,
+      "num": 1466395,
+      "word": "明年一定是个好年",
+      "onboard_time": 1703857414,
+      "rank": 17,
       "category": "情感"
     },
     {
@@ -1555,14 +1571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 897876,
-      "num": 897876,
-      "word": "图书馆30秒",
-      "onboard_time": 1703858496,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 896429,
       "num": 896429,
       "word": "小时代之繁花时代",
@@ -1891,12 +1899,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 802211,
-      "num": 802211,
-      "word": "明年一定是个好年",
-      "onboard_time": 1703857414,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 796769,
+      "num": 796769,
+      "word": "鸣龙少年 癫剧",
+      "onboard_time": 1703861918,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 796200,
@@ -2321,6 +2329,14 @@
       "onboard_time": 1703661812,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 696854,
+      "num": 696854,
+      "word": "张杰天下炸场",
+      "onboard_time": 1703857234,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 696356,
@@ -2883,6 +2899,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 599479,
+      "num": 599479,
+      "word": "宋江金裕贞获最佳cp奖",
+      "onboard_time": 1703860835,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 598338,
       "num": 716904,
       "word": "小米集团股价转跌",
@@ -3027,20 +3051,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 582696,
-      "num": 582696,
-      "word": "张杰天下炸场",
-      "onboard_time": 1703857234,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 582388,
       "num": 582388,
       "word": "长津湖",
       "onboard_time": 1703383894,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 580628,
+      "num": 580628,
+      "word": "易建联说我回来了",
+      "onboard_time": 1703859876,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 580610,
@@ -3451,6 +3475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532538,
+      "num": 492011,
+      "word": "张震倪妮自拍",
+      "onboard_time": 1703858554,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 532071,
       "num": 532071,
       "word": "女生大学毕业卖烤猪月入3万",
@@ -3561,14 +3593,6 @@
       "onboard_time": 1703505937,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 513190,
-      "num": 513190,
-      "word": "易建联说我回来了",
-      "onboard_time": 1703859876,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 511731,
@@ -3769,14 +3793,6 @@
       "onboard_time": 1703403390,
       "rank": 6,
       "category": "美食"
-    },
-    {
-      "raw_hot": 492011,
-      "num": 492011,
-      "word": "张震倪妮自拍",
-      "onboard_time": 1703858554,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 492009,
@@ -4001,6 +4017,14 @@
       "onboard_time": 1703570736,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 469330,
+      "num": 469330,
+      "word": "易建联球衣退役仪式",
+      "onboard_time": 1703847452,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 468944,
@@ -4369,6 +4393,14 @@
       "onboard_time": 1703412274,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 433380,
+      "num": 433380,
+      "word": "辛芷蕾 风情万种",
+      "onboard_time": 1703859634,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 432335,
@@ -4921,6 +4953,14 @@
       "onboard_time": 1703500772,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 384729,
+      "num": 224699,
+      "word": "易建联球衣升空",
+      "onboard_time": 1703862093,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 384720,
@@ -5979,14 +6019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303958,
-      "num": 389386,
-      "word": "易建联球衣退役仪式",
-      "onboard_time": 1703847452,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 303906,
       "num": 293838,
       "word": "李善均曾因毒品案件受到要挟恐吓",
@@ -6345,6 +6377,14 @@
       "onboard_time": 1703659113,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 282653,
+      "num": 282653,
+      "word": "重返未来1999",
+      "onboard_time": 1703861675,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 282165,
@@ -6987,14 +7027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 253539,
-      "num": 253539,
-      "word": "辛芷蕾 风情万种",
-      "onboard_time": 1703859634,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253020,
       "num": 253020,
       "word": "二笔到底是谁在过",
@@ -7627,6 +7659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232392,
+      "num": 232392,
+      "word": "为什么一觉醒来身上会有淤青",
+      "onboard_time": 1703858856,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 232230,
       "num": 232230,
       "word": "疯狂动物城热力追踪 停运",
@@ -7713,6 +7753,14 @@
       "onboard_time": 1703426435,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230653,
+      "num": 230653,
+      "word": "易建联球衣退役感言",
+      "onboard_time": 1703861733,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 230562,
@@ -7947,6 +7995,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 224460,
+      "num": 224460,
+      "word": "陈奕迅好久不见出续集了",
+      "onboard_time": 1703860656,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 224319,
       "num": 224319,
       "word": "东方卫视跨年宣了好多演员",
@@ -8035,6 +8091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 221387,
+      "num": 221387,
+      "word": "9块9两个的玻璃杯真的会炸",
+      "onboard_time": 1703861675,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220709,
       "num": 220709,
       "word": "迪丽热巴潜水服",
@@ -8073,14 +8137,6 @@
       "onboard_time": 1703737473,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219754,
-      "num": 219754,
-      "word": "为什么一觉醒来身上会有淤青",
-      "onboard_time": 1703858856,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 219589,
@@ -9779,6 +9835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189722,
+      "num": 189722,
+      "word": "不要对睡觉有罪恶感",
+      "onboard_time": 1703861675,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189133,
       "num": 189133,
       "word": "鼓励落实带薪年假安排职工除夕休息",
@@ -10593,6 +10657,14 @@
       "onboard_time": 1703487513,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175794,
+      "num": 175794,
+      "word": "朴志效红毯图",
+      "onboard_time": 1703862093,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 175611,
@@ -12491,6 +12563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 147318,
+      "num": 147318,
+      "word": "景甜临场发挥飞吻韩雪",
+      "onboard_time": 1703862633,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147269,
       "num": 147269,
       "word": "Wolves对战MRC",
@@ -12793,6 +12873,14 @@
       "onboard_time": 1703404834,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143309,
+      "num": 224783,
+      "word": "适合上班族的腰椎颈椎健身操",
+      "onboard_time": 1703862695,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 143261,
@@ -13145,6 +13233,14 @@
       "onboard_time": 1703408797,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 138501,
+      "num": 138501,
+      "word": "警察版科目三一身正气",
+      "onboard_time": 1703862035,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138283,
@@ -14075,6 +14171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126716,
+      "num": 126716,
+      "word": "狼王外表萨摩心",
+      "onboard_time": 1703862812,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126674,
       "num": 126674,
       "word": "2023TOP播客",
@@ -14195,6 +14299,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 125172,
+      "num": 125172,
+      "word": "Meiko评价TES队友",
+      "onboard_time": 1703861853,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125009,
       "num": 125009,
       "word": "官方回应105款新游获批",
@@ -14297,6 +14409,14 @@
       "onboard_time": 1703859454,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 123923,
+      "num": 123923,
+      "word": "游本昌 北京爷叔来看上海爷叔",
+      "onboard_time": 1703862933,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123828,
@@ -16491,6 +16611,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 46074,
+      "num": 457353,
+      "word": "小孩哥称霸滑雪场",
+      "onboard_time": 1703862035,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 45187,
       "num": 862655,
       "word": "甘肃震区已有序复商复市复课",
@@ -16824,6 +16952,14 @@
       "word": "第二届链博会展期确定",
       "onboard_time": 1703755837,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27601,
+      "num": 468873,
+      "word": "元旦假期全国大部天气晴好适宜出行",
+      "onboard_time": 1703862575,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -17177,6 +17313,14 @@
       "onboard_time": 1703709193,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 10270,
+      "num": 1046853,
+      "word": "2023这些凡人微光照亮前路",
+      "onboard_time": 1703862994,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10200,
