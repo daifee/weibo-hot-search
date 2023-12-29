@@ -1,0 +1,410 @@
+{
+  "runTime": 1703885643353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 127718,
+        "num": 127718,
+        "word": "图书馆30秒",
+        "onboard_time": 1703858496,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113139,
+        "num": 113139,
+        "word": "我在2元店都不敢这么买",
+        "onboard_time": 1703863475,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10059,
+        "num": 94472,
+        "word": "2023这些凡人微光照亮前路",
+        "onboard_time": 1703862994,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94467,
+        "num": 94467,
+        "word": "被邻居投诉让我收走猫窝",
+        "onboard_time": 1703880135,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93844,
+        "num": 93844,
+        "word": "女子因不孕离婚后逃离家乡小城",
+        "onboard_time": 1703856936,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85321,
+        "num": 85321,
+        "word": "赵灵儿曲布等多名百万粉丝网红被判刑",
+        "onboard_time": 1703864792,
+        "rank": 5,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 70333,
+        "num": 70333,
+        "word": "明年一定是个好年",
+        "onboard_time": 1703857414,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59872,
+        "num": 59872,
+        "word": "阿里被判赔京东10亿",
+        "onboard_time": 1703841630,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 50140,
+        "num": 50140,
+        "word": "第一眼见就不对劲的人",
+        "onboard_time": 1703849132,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33897,
+        "num": 45697,
+        "word": "官方通报一小区上百居民呕吐腹泻",
+        "onboard_time": 1703884274,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44164,
+        "num": 44164,
+        "word": "鸣龙少年 癫剧",
+        "onboard_time": 1703861918,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36003,
+        "num": 36003,
+        "word": "图书馆30秒 平等发生在每个人身上",
+        "onboard_time": 1703854470,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32888,
+        "num": 32888,
+        "word": "游本昌 北京爷叔来看上海爷叔",
+        "onboard_time": 1703862933,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30136,
+        "num": 30136,
+        "word": "王鹤棣宋茜 跨年跳屋顶着火",
+        "onboard_time": 1703855493,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28698,
+        "num": 28698,
+        "word": "旭旭宝宝 复播",
+        "onboard_time": 1703846972,
+        "rank": 14,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 26761,
+        "num": 26761,
+        "word": "唐嫣 这里是酒吧",
+        "onboard_time": 1703849011,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25661,
+        "num": 25661,
+        "word": "张震倪妮自拍",
+        "onboard_time": 1703858554,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25323,
+        "num": 25323,
+        "word": "内娱出圈新人TOP1",
+        "onboard_time": 1703854891,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24146,
+        "num": 24146,
+        "word": "国足vs阿曼",
+        "onboard_time": 1703865811,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20802,
+        "num": 20802,
+        "word": "全国人民代表大会常务委员会公告",
+        "onboard_time": 1703863114,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46848,
+        "num": 20750,
+        "word": "男子半夜刷卡进女生房间看隐私视频",
+        "onboard_time": 1703873482,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43609,
+        "num": 20218,
+        "word": "女子185万买江景房完全看不到江",
+        "onboard_time": 1703864072,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25135,
+        "num": 19951,
+        "word": "熬夜之后为什么从头到脚都不舒服",
+        "onboard_time": 1703873361,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20831,
+        "num": 19596,
+        "word": "现在的玩具也太吓人了",
+        "onboard_time": 1703866889,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19554,
+        "num": 19554,
+        "word": "中医不相信张远38岁了",
+        "onboard_time": 1703841272,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19415,
+        "num": 19415,
+        "word": "唐嫣斓曦蓝盈莹都是张晓龙的学生",
+        "onboard_time": 1703863292,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18861,
+        "num": 18861,
+        "word": "辛芷蕾 风情万种",
+        "onboard_time": 1703859634,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18834,
+        "num": 18834,
+        "word": "成毅DK制服",
+        "onboard_time": 1703858856,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17819,
+        "num": 17819,
+        "word": "9块9两个的玻璃杯真的会炸",
+        "onboard_time": 1703861675,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16985,
+        "num": 17551,
+        "word": "千年古树有70多个巨大蜂巢",
+        "onboard_time": 1703882894,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17453,
+        "num": 17453,
+        "word": "易建联说我回来了",
+        "onboard_time": 1703859876,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16776,
+        "num": 16776,
+        "word": "张晚意 最纯情的脸演最禁忌的爱",
+        "onboard_time": 1703859515,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16432,
+        "num": 16432,
+        "word": "董军任国防部部长",
+        "onboard_time": 1703846972,
+        "rank": 32,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 16096,
+        "num": 16096,
+        "word": "高敏感是一种天赋",
+        "onboard_time": 1703884695,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15330,
+        "num": 15330,
+        "word": "来人给景甜上清宫本",
+        "onboard_time": 1703864315,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14850,
+        "num": 14850,
+        "word": "宋江金裕贞获最佳cp奖",
+        "onboard_time": 1703860835,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14725,
+        "num": 14725,
+        "word": "张杰下雪了",
+        "onboard_time": 1703864373,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14694,
+        "num": 14694,
+        "word": "烟花爆竹禁限还是放",
+        "onboard_time": 1703863414,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14612,
+        "num": 14612,
+        "word": "山东人能把一碗面做到多精致",
+        "onboard_time": 1703881694,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14488,
+        "num": 14488,
+        "word": "李春江也来了",
+        "onboard_time": 1703865210,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13881,
+        "num": 13881,
+        "word": "杨紫出发海口",
+        "onboard_time": 1703884993,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13375,
+        "num": 13375,
+        "word": "结婚的好处",
+        "onboard_time": 1703844393,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13294,
+        "num": 13294,
+        "word": "肖战直播",
+        "onboard_time": 1703852013,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13164,
+        "num": 13164,
+        "word": "花少团随时都惦记着迪丽热巴",
+        "onboard_time": 1703866530,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13157,
+        "num": 13157,
+        "word": "我处理人际关系的方式 失踪",
+        "onboard_time": 1703876776,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13005,
+        "num": 13005,
+        "word": "易建联球衣退役仪式",
+        "onboard_time": 1703847452,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12580,
+        "num": 12580,
+        "word": "广东宏远全家福",
+        "onboard_time": 1703863475,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12328,
+        "num": 12328,
+        "word": "鸣龙少年 换乘恋爱",
+        "onboard_time": 1703865991,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11691,
+        "num": 11691,
+        "word": "陌生人发来的晚安",
+        "onboard_time": 1703858014,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11355,
+        "num": 11355,
+        "word": "KARINA中国首封",
+        "onboard_time": 1703853994,
+        "rank": 49,
+        "category": "时尚,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国政协举行新年茶话会#"
+    }
+  }
+}
