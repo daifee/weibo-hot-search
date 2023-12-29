@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703877240965,
+  "endTime": 1703878455735,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -17283,12 +17283,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20232,
+      "num": 20232,
+      "word": "我处理人际关系的方式 失踪",
+      "onboard_time": 1703876776,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20006,
       "num": 20006,
       "word": "2023年最后一周",
       "onboard_time": 1703452515,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19845,
+      "num": 19845,
+      "word": "不良人天罡传",
+      "onboard_time": 1703874198,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 19603,
@@ -17329,22 +17345,6 @@
       "onboard_time": 1703701396,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18833,
-      "num": 18833,
-      "word": "我处理人际关系的方式 失踪",
-      "onboard_time": 1703876776,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 18711,
-      "num": 18711,
-      "word": "不良人天罡传",
-      "onboard_time": 1703874198,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 18584,

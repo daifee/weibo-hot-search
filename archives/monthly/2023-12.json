@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703877240965,
+  "endTime": 1703878455735,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -80019,6 +80019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 20232,
+      "num": 20232,
+      "word": "我处理人际关系的方式 失踪",
+      "onboard_time": 1703876776,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20198,
       "num": 20603,
       "word": "福建提醒这些咖啡检出致癌物",
@@ -80065,6 +80073,14 @@
       "onboard_time": 1701812774,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19845,
+      "num": 19845,
+      "word": "不良人天罡传",
+      "onboard_time": 1703874198,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 19603,
@@ -80139,14 +80155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 18833,
-      "num": 18833,
-      "word": "我处理人际关系的方式 失踪",
-      "onboard_time": 1703876776,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 18821,
       "num": 36083,
       "word": "小伙用电子表掐着成年时间去网吧",
@@ -80161,14 +80169,6 @@
       "onboard_time": 1701548653,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18711,
-      "num": 18711,
-      "word": "不良人天罡传",
-      "onboard_time": 1703874198,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 18584,
