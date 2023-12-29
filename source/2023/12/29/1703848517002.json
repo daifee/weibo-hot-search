@@ -1,0 +1,410 @@
+{
+  "runTime": 1703848517002,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2130532,
+        "num": 2130532,
+        "word": "下班了 今年的苦就吃到这里了",
+        "onboard_time": 1703843791,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 494087,
+        "num": 1430072,
+        "word": "女子因思念亡父泪崩被6岁女儿治愈",
+        "onboard_time": 1703843433,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46267,
+        "num": 1289255,
+        "word": "雪龙号抵达长城站",
+        "onboard_time": 1703842593,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1255312,
+        "num": 1255312,
+        "word": "董军任国防部部长",
+        "onboard_time": 1703846972,
+        "rank": 3,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 270495,
+        "num": 883916,
+        "word": "南方小土豆被东北大姨拉手手系围巾",
+        "onboard_time": 1703832332,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1476028,
+        "num": 862613,
+        "word": "阿里被判赔京东10亿",
+        "onboard_time": 1703841630,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175482,
+        "num": 835736,
+        "word": "小伙9年无偿献血20次",
+        "onboard_time": 1703843433,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810827,
+        "num": 810827,
+        "word": "中医不相信张远38岁了",
+        "onboard_time": 1703841272,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529951,
+        "num": 529951,
+        "word": "旭旭宝宝 复播",
+        "onboard_time": 1703846972,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 494676,
+        "num": 494676,
+        "word": "堵车",
+        "onboard_time": 1703846132,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870035,
+        "num": 477594,
+        "word": "结婚的好处",
+        "onboard_time": 1703844393,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 397446,
+        "num": 397446,
+        "word": "正主卖cp 真嫂子没眼看",
+        "onboard_time": 1703829512,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 380144,
+        "num": 380144,
+        "word": "李善均出殡现场全慧珍痛哭",
+        "onboard_time": 1703839112,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378947,
+        "num": 378947,
+        "word": "杨迪吐槽的是哪个综艺",
+        "onboard_time": 1703843013,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9651,
+        "num": 360893,
+        "word": "新年有新意",
+        "onboard_time": 1703847633,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 356424,
+        "num": 356424,
+        "word": "熟人作案 影视化",
+        "onboard_time": 1703836353,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291682,
+        "num": 291682,
+        "word": "藏海传官微开通",
+        "onboard_time": 1703843733,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262173,
+        "num": 262173,
+        "word": "郑秀妍郑秀晶cha新歌差点打起来",
+        "onboard_time": 1703844513,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227271,
+        "num": 227271,
+        "word": "许光汉现身李善均灵堂哀悼",
+        "onboard_time": 1703840672,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220139,
+        "num": 220139,
+        "word": "招商银行向员工逆向讨薪近6000万",
+        "onboard_time": 1703831193,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217499,
+        "num": 217499,
+        "word": "易建联球衣退役仪式",
+        "onboard_time": 1703847452,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203039,
+        "num": 203039,
+        "word": "在北欧打工9年被同事举报1000次",
+        "onboard_time": 1703846613,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198953,
+        "num": 198953,
+        "word": "BLACKPINK个人不与YG续约",
+        "onboard_time": 1703824236,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192601,
+        "num": 192601,
+        "word": "时代少年团空降超话",
+        "onboard_time": 1703847572,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187333,
+        "num": 187333,
+        "word": "阿里回应被判赔京东10亿",
+        "onboard_time": 1703843971,
+        "rank": 24,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 172192,
+        "num": 172192,
+        "word": "上交所通报兴业银行股价异常",
+        "onboard_time": 1703845473,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160064,
+        "num": 160064,
+        "word": "张钰琪毕业回国",
+        "onboard_time": 1703828072,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159093,
+        "num": 159093,
+        "word": "冥河水母",
+        "onboard_time": 1703840731,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 148157,
+        "num": 148157,
+        "word": "孟羽童发声",
+        "onboard_time": 1703814872,
+        "rank": 28,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 145535,
+        "num": 145535,
+        "word": "99元羽绒服商家回应品质问题",
+        "onboard_time": 1703844091,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213815,
+        "num": 145535,
+        "word": "两家单位拒收人民币现金被罚",
+        "onboard_time": 1703847274,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 145453,
+        "num": 145453,
+        "word": "丫丫雪地大口大口干饭",
+        "onboard_time": 1703846733,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142663,
+        "num": 142663,
+        "word": "井柏然方打假",
+        "onboard_time": 1703847153,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142659,
+        "num": 142659,
+        "word": "张杰跨年演唱会",
+        "onboard_time": 1703833412,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138498,
+        "num": 138498,
+        "word": "王一博万物可爱短片",
+        "onboard_time": 1703845653,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138269,
+        "num": 138269,
+        "word": "换乘恋爱3开播",
+        "onboard_time": 1703844932,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133862,
+        "num": 133862,
+        "word": "何炅居然是i人",
+        "onboard_time": 1703833531,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133565,
+        "num": 133565,
+        "word": "胡歌除了自拍谁拍都帅",
+        "onboard_time": 1703834013,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131076,
+        "num": 131076,
+        "word": "鸣龙十一班脱下校服颜值加倍",
+        "onboard_time": 1703845291,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130710,
+        "num": 130710,
+        "word": "孙颖莎体能比武",
+        "onboard_time": 1703846253,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121378,
+        "num": 121378,
+        "word": "花椒直播被要求整改",
+        "onboard_time": 1703847991,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119637,
+        "num": 119637,
+        "word": "清华逐步实现校园常态化开放",
+        "onboard_time": 1703846190,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 116688,
+        "num": 116688,
+        "word": "狼队 我破防了",
+        "onboard_time": 1703834972,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110331,
+        "num": 110331,
+        "word": "顾客摸草莓不买遭商家泼水",
+        "onboard_time": 1703828614,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110318,
+        "num": 110318,
+        "word": "一家8口住酒店称很划算准备住一辈子",
+        "onboard_time": 1703820752,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94186,
+        "num": 94186,
+        "word": "TREASURE 初雪Challenge",
+        "onboard_time": 1703846912,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92577,
+        "num": 92577,
+        "word": "护肤不仅要补水也要锁水",
+        "onboard_time": 1703847873,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 91662,
+        "num": 91662,
+        "word": "跨年档电影",
+        "onboard_time": 1703844091,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88871,
+        "num": 88871,
+        "word": "昭和米国物语",
+        "onboard_time": 1703848292,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87828,
+        "num": 87828,
+        "word": "潜行",
+        "onboard_time": 1703846253,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色大国外交踏上新征程#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703846155266,
+  "endTime": 1703848517002,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -315,6 +315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 2130532,
+      "num": 2130532,
+      "word": "下班了 今年的苦就吃到这里了",
+      "onboard_time": 1703843791,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2033383,
       "num": 2033383,
       "word": "发发 作弊",
@@ -489,14 +497,6 @@
       "onboard_time": 1703403932,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1764451,
-      "num": 1764451,
-      "word": "下班了 今年的苦就吃到这里了",
-      "onboard_time": 1703843791,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 1718069,
@@ -897,6 +897,14 @@
       "onboard_time": 1703415935,
       "rank": 3,
       "category": "作品衍生,电竞"
+    },
+    {
+      "raw_hot": 1255312,
+      "num": 1255312,
+      "word": "董军任国防部部长",
+      "onboard_time": 1703846972,
+      "rank": 3,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 1251977,
@@ -1603,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 870035,
+      "num": 701831,
+      "word": "结婚的好处",
+      "onboard_time": 1703844393,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 869560,
       "num": 869560,
       "word": "迪丽热巴想买断自己表情包",
@@ -2153,14 +2169,6 @@
       "onboard_time": 1703816551,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 701831,
-      "num": 701831,
-      "word": "结婚的好处",
-      "onboard_time": 1703844393,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 700565,
@@ -3331,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529951,
+      "num": 529951,
+      "word": "旭旭宝宝 复播",
+      "onboard_time": 1703846972,
+      "rank": 8,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 529155,
       "num": 529155,
       "word": "大爷以为胃病护士一个坚持救回一命",
@@ -3545,6 +3561,14 @@
       "onboard_time": 1703651860,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494676,
+      "num": 494676,
+      "word": "堵车",
+      "onboard_time": 1703846132,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494602,
@@ -6836,7 +6860,7 @@
     },
     {
       "raw_hot": 248596,
-      "num": 166328,
+      "num": 172192,
       "word": "上交所通报兴业银行股价异常",
       "onboard_time": 1703845473,
       "rank": 30,
@@ -7851,6 +7875,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 217499,
+      "num": 217499,
+      "word": "易建联球衣退役仪式",
+      "onboard_time": 1703847452,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217116,
       "num": 217116,
       "word": "最猛的1其实是周一",
@@ -7985,6 +8017,14 @@
       "onboard_time": 1703576014,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213815,
+      "num": 145535,
+      "word": "两家单位拒收人民币现金被罚",
+      "onboard_time": 1703847274,
+      "rank": 30,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 213470,
@@ -8537,6 +8577,14 @@
       "onboard_time": 1703638233,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203039,
+      "num": 203039,
+      "word": "在北欧打工9年被同事举报1000次",
+      "onboard_time": 1703846613,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202620,
@@ -9259,6 +9307,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 192601,
+      "num": 192601,
+      "word": "时代少年团空降超话",
+      "onboard_time": 1703847572,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192308,
       "num": 192308,
       "word": "曼联3比2阿斯顿维拉",
@@ -9724,7 +9780,7 @@
     },
     {
       "raw_hot": 183726,
-      "num": 770709,
+      "num": 835736,
       "word": "小伙9年无偿献血20次",
       "onboard_time": 1703843433,
       "rank": 6,
@@ -12251,6 +12307,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 145453,
+      "num": 145453,
+      "word": "丫丫雪地大口大口干饭",
+      "onboard_time": 1703846733,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145340,
       "num": 145340,
       "word": "王心凌要迈向四川话五级",
@@ -12448,6 +12512,14 @@
       "word": "刘亦菲2024新年祝福",
       "onboard_time": 1703817689,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142663,
+      "num": 142663,
+      "word": "井柏然方打假",
+      "onboard_time": 1703847153,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -13267,6 +13339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130710,
+      "num": 130710,
+      "word": "孙颖莎体能比武",
+      "onboard_time": 1703846253,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130651,
       "num": 130651,
       "word": "长头发小技巧",
@@ -13979,6 +14059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121378,
+      "num": 121378,
+      "word": "花椒直播被要求整改",
+      "onboard_time": 1703847991,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 121338,
       "num": 122446,
       "word": "9个女性相关冷知识",
@@ -14105,6 +14193,14 @@
       "onboard_time": 1703797335,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 119637,
+      "num": 119637,
+      "word": "清华逐步实现校园常态化开放",
+      "onboard_time": 1703846190,
+      "rank": 41,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 119409,
@@ -15059,6 +15155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94186,
+      "num": 94186,
+      "word": "TREASURE 初雪Challenge",
+      "onboard_time": 1703846912,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 93964,
       "num": 93964,
       "word": "内娱有自己的小品女团",
@@ -15067,20 +15171,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 93307,
-      "num": 93307,
-      "word": "堵车",
-      "onboard_time": 1703846132,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93205,
       "num": 1615910,
       "word": "三条高铁今日开通",
       "onboard_time": 1703594735,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92577,
+      "num": 92577,
+      "word": "护肤不仅要补水也要锁水",
+      "onboard_time": 1703847873,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 91935,
@@ -15171,12 +15275,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 88871,
+      "num": 88871,
+      "word": "昭和米国物语",
+      "onboard_time": 1703848292,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88362,
       "num": 85141,
       "word": "虞书欣晒凌妙妙杀青照",
       "onboard_time": 1703351006,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87828,
+      "num": 87828,
+      "word": "潜行",
+      "onboard_time": 1703846253,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 87662,
@@ -16497,6 +16617,14 @@
       "onboard_time": 1703711894,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 9651,
+      "num": 360893,
+      "word": "新年有新意",
+      "onboard_time": 1703847633,
+      "rank": 14,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
