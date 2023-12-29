@@ -1,0 +1,410 @@
+{
+  "runTime": 1703813179461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2396159,
+        "num": 2396159,
+        "word": "削皮草莓",
+        "onboard_time": 1703807848,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 907719,
+        "num": 907719,
+        "word": "雷军致敬车企仅华为未回应",
+        "onboard_time": 1703807127,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 26610,
+        "num": 819427,
+        "word": "跟着AI重走2023中国科技之旅",
+        "onboard_time": 1703774795,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058745,
+        "num": 811615,
+        "word": "女子离职后把手机静音1年",
+        "onboard_time": 1703771014,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779951,
+        "num": 779951,
+        "word": "小三最可恨了 但晚意一定有苦衷",
+        "onboard_time": 1703807667,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 666525,
+        "num": 666525,
+        "word": "早睡1小时有哪些好处",
+        "onboard_time": 1703809052,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 664582,
+        "num": 664582,
+        "word": "小米汽车价格",
+        "onboard_time": 1703745873,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 566943,
+        "num": 566943,
+        "word": "papi酱 向电影市场道歉",
+        "onboard_time": 1703772818,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 546050,
+        "num": 546050,
+        "word": "武汉大学书画大赛获奖44人39人为干部",
+        "onboard_time": 1703808628,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431622,
+        "num": 431622,
+        "word": "天天跺脚表情包",
+        "onboard_time": 1703775693,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404562,
+        "num": 404562,
+        "word": "古茗莲花楼 喝到了",
+        "onboard_time": 1703810431,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402734,
+        "num": 402734,
+        "word": "辛芷蕾演我过年回家状态",
+        "onboard_time": 1703810672,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382876,
+        "num": 382876,
+        "word": "繁花 明星带货",
+        "onboard_time": 1703808388,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375534,
+        "num": 375534,
+        "word": "我知道我爱你 官博疯了",
+        "onboard_time": 1703777493,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337045,
+        "num": 337045,
+        "word": "花楼 不是已婚也没俩娃",
+        "onboard_time": 1703808449,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 317971,
+        "num": 317971,
+        "word": "抗癌宝贝毅玲去世",
+        "onboard_time": 1703776893,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299070,
+        "num": 299070,
+        "word": "掉进眼睛的异物最后都去哪儿了",
+        "onboard_time": 1703768432,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 292153,
+        "num": 292153,
+        "word": "大爷以为胃病护士一个坚持救回一命",
+        "onboard_time": 1703773356,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288157,
+        "num": 288157,
+        "word": "只有郑恺被拍成了东北大姨",
+        "onboard_time": 1703763932,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260421,
+        "num": 260421,
+        "word": "3娃非亲生案女方称我俩有感情",
+        "onboard_time": 1703809772,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258649,
+        "num": 258649,
+        "word": "亡夫三部曲",
+        "onboard_time": 1703810493,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257777,
+        "num": 257777,
+        "word": "多数存量房贷利率明年下调10个基点",
+        "onboard_time": 1703811271,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245626,
+        "num": 245626,
+        "word": "上海宝格丽酒店跨年夜房费高达30余万",
+        "onboard_time": 1703812771,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 244523,
+        "num": 244523,
+        "word": "迪丽热巴想买断自己表情包",
+        "onboard_time": 1703774197,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234717,
+        "num": 234717,
+        "word": "关晓彤虞书欣同框合照",
+        "onboard_time": 1703778453,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230803,
+        "num": 230803,
+        "word": "不能互相打听工资",
+        "onboard_time": 1703808510,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228552,
+        "num": 228552,
+        "word": "刘亦菲文咏珊听到了什么",
+        "onboard_time": 1703811871,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222764,
+        "num": 222764,
+        "word": "三孩非亲生案女方称DNA也不是100%准确",
+        "onboard_time": 1703759732,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187438,
+        "num": 187438,
+        "word": "82岁院士自曝每天熬夜到2点",
+        "onboard_time": 1703813131,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158990,
+        "num": 184252,
+        "word": "她放下书包后我只想说女侠失敬",
+        "onboard_time": 1703808573,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259003,
+        "num": 183607,
+        "word": "193的英国网友去荷兰后",
+        "onboard_time": 1703811991,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182079,
+        "num": 182079,
+        "word": "刘亦菲金莲花视后",
+        "onboard_time": 1703769093,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178690,
+        "num": 178690,
+        "word": "班主任怕学生冻腿用纸箱围课桌挡风",
+        "onboard_time": 1703811091,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173771,
+        "num": 173771,
+        "word": "小米汽车三段自驾测试",
+        "onboard_time": 1703809830,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172296,
+        "num": 172296,
+        "word": "经常久坐的朋友们有福了",
+        "onboard_time": 1703807367,
+        "rank": 34,
+        "category": "作品衍生,运动健身"
+      },
+      {
+        "raw_hot": 172062,
+        "num": 172062,
+        "word": "放寒假",
+        "onboard_time": 1703808330,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169327,
+        "num": 169327,
+        "word": "咒术回战 乙骨忧太",
+        "onboard_time": 1703808150,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 166628,
+        "num": 166628,
+        "word": "陈晓好喜欢冰雨火的团队和氛围",
+        "onboard_time": 1703810014,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165850,
+        "num": 165850,
+        "word": "范丞丞说要久久爱马上来",
+        "onboard_time": 1703810132,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160424,
+        "num": 160424,
+        "word": "王家卫镜头下的胡歌",
+        "onboard_time": 1703809170,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151985,
+        "num": 151985,
+        "word": "向太宣布将出售耗时十年建成豪宅",
+        "onboard_time": 1703760874,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142058,
+        "num": 142058,
+        "word": "繁花镜头美学",
+        "onboard_time": 1703811693,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141400,
+        "num": 141400,
+        "word": "胖东来宣布员工将提前3小时下班",
+        "onboard_time": 1703763093,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130669,
+        "num": 130669,
+        "word": "周冬雨金莲花影后",
+        "onboard_time": 1703768672,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125750,
+        "num": 125750,
+        "word": "繁花沪语版 上头",
+        "onboard_time": 1703811450,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115285,
+        "num": 115285,
+        "word": "罗翔 我可没说过",
+        "onboard_time": 1703775515,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112008,
+        "num": 112008,
+        "word": "繁花商战剧情",
+        "onboard_time": 1703772576,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110962,
+        "num": 110962,
+        "word": "魅族CEO沈子瑜质疑小米汽车审美",
+        "onboard_time": 1703813071,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 109945,
+        "num": 109945,
+        "word": "追光的你终会光芒万丈",
+        "onboard_time": 1703810555,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109546,
+        "num": 109546,
+        "word": "周深 一款有礼貌的百灵鸟",
+        "onboard_time": 1703813131,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央外事工作会议举行#"
+    }
+  }
+}

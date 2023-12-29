@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703811877673,
+  "endTime": 1703813179461,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -211,20 +211,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2396159,
+      "num": 2396159,
+      "word": "削皮草莓",
+      "onboard_time": 1703807848,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2344608,
       "num": 2344608,
       "word": "郑爽被法院公告",
       "onboard_time": 1703493336,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2337540,
-      "num": 2337540,
-      "word": "削皮草莓",
-      "onboard_time": 1703807848,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 2315939,
@@ -2211,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666525,
+      "num": 666525,
+      "word": "早睡1小时有哪些好处",
+      "onboard_time": 1703809052,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 663560,
       "num": 663560,
       "word": "除夕三件套",
@@ -2763,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566943,
+      "num": 566943,
+      "word": "papi酱 向电影市场道歉",
+      "onboard_time": 1703772818,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 563608,
       "num": 443589,
       "word": "权志龙为防治毒品捐款3亿韩元",
@@ -2811,14 +2827,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 555115,
-      "num": 555115,
-      "word": "papi酱 向电影市场道歉",
-      "onboard_time": 1703772818,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 552565,
       "num": 552565,
       "word": "AG晋级KIC世冠总决赛",
@@ -2851,6 +2859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546050,
+      "num": 546050,
+      "word": "武汉大学书画大赛获奖44人39人为干部",
+      "onboard_time": 1703808628,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545562,
       "num": 545562,
       "word": "被斗鱼索赔8000万女生三年赚不足20万",
@@ -2881,14 +2897,6 @@
       "onboard_time": 1703758416,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 543130,
-      "num": 543130,
-      "word": "武汉大学书画大赛获奖44人39人为干部",
-      "onboard_time": 1703808628,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 542417,
@@ -3336,14 +3344,6 @@
       "word": "对乙酰氨基酚与布洛芬区别",
       "onboard_time": 1703592334,
       "rank": 11,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 483260,
-      "num": 483260,
-      "word": "早睡1小时有哪些好处",
-      "onboard_time": 1703809052,
-      "rank": 10,
       "category": "健康医疗"
     },
     {
@@ -4075,12 +4075,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404562,
+      "num": 404562,
+      "word": "古茗莲花楼 喝到了",
+      "onboard_time": 1703810431,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403879,
       "num": 379841,
       "word": "我在芬兰3年不上班",
       "onboard_time": 1703473774,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402734,
+      "num": 402734,
+      "word": "辛芷蕾演我过年回家状态",
+      "onboard_time": 1703810672,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 401970,
@@ -5379,14 +5395,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 292003,
-      "num": 292003,
-      "word": "古茗莲花楼 喝到了",
-      "onboard_time": 1703810431,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 291610,
       "num": 224641,
       "word": "YJJ 挂在身边",
@@ -5827,14 +5835,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 266348,
-      "num": 266348,
-      "word": "辛芷蕾演我过年回家状态",
-      "onboard_time": 1703810672,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266214,
       "num": 255418,
       "word": "2024年是个什么年",
@@ -5987,12 +5987,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 259003,
+      "num": 183607,
+      "word": "193的英国网友去荷兰后",
+      "onboard_time": 1703811991,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258968,
       "num": 258968,
       "word": "东方卫视跨年首发阵容",
       "onboard_time": 1703476057,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258649,
+      "num": 258649,
+      "word": "亡夫三部曲",
+      "onboard_time": 1703810493,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 258555,
@@ -6041,6 +6057,14 @@
       "onboard_time": 1703649277,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257777,
+      "num": 257777,
+      "word": "多数存量房贷利率明年下调10个基点",
+      "onboard_time": 1703811271,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 257556,
@@ -6267,6 +6291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245626,
+      "num": 245626,
+      "word": "上海宝格丽酒店跨年夜房费高达30余万",
+      "onboard_time": 1703812771,
+      "rank": 22,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 245111,
       "num": 245111,
       "word": "Yuna红发",
@@ -6329,14 +6361,6 @@
       "onboard_time": 1703662418,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241845,
-      "num": 241845,
-      "word": "亡夫三部曲",
-      "onboard_time": 1703810493,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 241629,
@@ -6747,6 +6771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230803,
+      "num": 230803,
+      "word": "不能互相打听工资",
+      "onboard_time": 1703808510,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230778,
       "num": 230778,
       "word": "吉利高管回应未被小米汽车致敬",
@@ -6819,6 +6851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 228552,
+      "num": 228552,
+      "word": "刘亦菲文咏珊听到了什么",
+      "onboard_time": 1703811871,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 228456,
       "num": 228456,
       "word": "国家卫健委新闻发布会",
@@ -6833,14 +6873,6 @@
       "onboard_time": 1703430398,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228123,
-      "num": 228123,
-      "word": "不能互相打听工资",
-      "onboard_time": 1703808510,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 227525,
@@ -8611,6 +8643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187438,
+      "num": 187438,
+      "word": "82岁院士自曝每天熬夜到2点",
+      "onboard_time": 1703813131,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187397,
       "num": 187397,
       "word": "假如沈耀是孟宴臣的弟弟",
@@ -9035,6 +9075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178690,
+      "num": 178690,
+      "word": "班主任怕学生冻腿用纸箱围课桌挡风",
+      "onboard_time": 1703811091,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178643,
       "num": 178643,
       "word": "可爱多光与夜之恋联动",
@@ -9315,14 +9363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173734,
-      "num": 173734,
-      "word": "班主任怕学生冻腿用纸箱围课桌挡风",
-      "onboard_time": 1703811091,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173627,
       "num": 173627,
       "word": "211减肥大法",
@@ -9348,7 +9388,7 @@
     },
     {
       "raw_hot": 173286,
-      "num": 176189,
+      "num": 184252,
       "word": "她放下书包后我只想说女侠失敬",
       "onboard_time": 1703808573,
       "rank": 29,
@@ -9425,6 +9465,14 @@
       "onboard_time": 1703337160,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172062,
+      "num": 172062,
+      "word": "放寒假",
+      "onboard_time": 1703808330,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 171843,
@@ -9545,14 +9593,6 @@
       "onboard_time": 1703499516,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168731,
-      "num": 168731,
-      "word": "多数存量房贷利率明年下调10个基点",
-      "onboard_time": 1703811271,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 168730,
@@ -9987,14 +10027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162609,
-      "num": 162609,
-      "word": "放寒假",
-      "onboard_time": 1703808330,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162536,
       "num": 162536,
       "word": "女警把走失男童小脚放进怀里取暖",
@@ -10105,6 +10137,14 @@
       "onboard_time": 1703503533,
       "rank": 33,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 160424,
+      "num": 160424,
+      "word": "王家卫镜头下的胡歌",
+      "onboard_time": 1703809170,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 160223,
@@ -10617,14 +10657,6 @@
       "onboard_time": 1703482298,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 153098,
-      "num": 153098,
-      "word": "王家卫镜头下的胡歌",
-      "onboard_time": 1703809170,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 153041,
@@ -11251,6 +11283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142058,
+      "num": 142058,
+      "word": "繁花镜头美学",
+      "onboard_time": 1703811693,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142030,
       "num": 142030,
       "word": "十几岁和二十几岁的考场",
@@ -11835,14 +11875,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 132654,
-      "num": 132654,
-      "word": "繁花镜头美学",
-      "onboard_time": 1703811693,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132636,
       "num": 132636,
       "word": "陈梦日常训练记",
@@ -12347,6 +12379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125750,
+      "num": 125750,
+      "word": "繁花沪语版 上头",
+      "onboard_time": 1703811450,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125593,
       "num": 125593,
       "word": "2023余额已不足",
@@ -12481,14 +12521,6 @@
       "onboard_time": 1703397631,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 123523,
-      "num": 123523,
-      "word": "繁花沪语版 上头",
-      "onboard_time": 1703811450,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 123491,
@@ -13171,6 +13203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110962,
+      "num": 110962,
+      "word": "魅族CEO沈子瑜质疑小米汽车审美",
+      "onboard_time": 1703813071,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 110842,
       "num": 110842,
       "word": "他带领村民在新疆沙漠里养出澳洲龙虾",
@@ -13249,6 +13289,14 @@
       "onboard_time": 1703406271,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 109546,
+      "num": 109546,
+      "word": "周深 一款有礼貌的百灵鸟",
+      "onboard_time": 1703813131,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 109411,
