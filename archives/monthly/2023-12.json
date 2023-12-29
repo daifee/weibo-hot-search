@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703830978773,
+  "endTime": 1703831747095,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -1595,6 +1595,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2461137,
+      "num": 2461137,
+      "word": "正主卖cp 真嫂子没眼看",
+      "onboard_time": 1703829512,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2454386,
       "num": 365631,
       "word": "全慧珍报警称李善均留下遗书",
@@ -2601,14 +2609,6 @@
       "onboard_time": 1702473457,
       "rank": 10,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1953381,
-      "num": 1953381,
-      "word": "正主卖cp 真嫂子没眼看",
-      "onboard_time": 1703829512,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1949197,
@@ -12059,6 +12059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 712671,
+      "num": 712671,
+      "word": "特斯拉官方暗讽理想汽车",
+      "onboard_time": 1703827895,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 712066,
       "num": 712066,
       "word": "女子起诉父母不肯出钱给自己出国留学",
@@ -12385,14 +12393,6 @@
       "onboard_time": 1703822556,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 697858,
-      "num": 697858,
-      "word": "特斯拉官方暗讽理想汽车",
-      "onboard_time": 1703827895,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 697693,
@@ -16003,6 +16003,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 572615,
+      "num": 572615,
+      "word": "顾客摸草莓不买遭商家泼水",
+      "onboard_time": 1703828614,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572581,
       "num": 572581,
       "word": "王鹤棣 杀青",
@@ -19353,6 +19361,14 @@
       "onboard_time": 1701675816,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 493241,
+      "num": 493241,
+      "word": "3娃非亲生案女方要求分割房产",
+      "onboard_time": 1703829452,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493164,
@@ -23241,14 +23257,6 @@
       "onboard_time": 1702739321,
       "rank": 30,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 421380,
-      "num": 421380,
-      "word": "3娃非亲生案女方要求分割房产",
-      "onboard_time": 1703829452,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 421371,
@@ -28841,14 +28849,6 @@
       "onboard_time": 1702525711,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 342154,
-      "num": 342154,
-      "word": "顾客摸草莓不买遭商家泼水",
-      "onboard_time": 1703828614,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342151,
@@ -40699,6 +40699,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 243994,
+      "num": 243994,
+      "word": "容祖儿 我很欣赏你们演社恐的演技",
+      "onboard_time": 1703830893,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243898,
       "num": 243898,
       "word": "花33 华宵一",
@@ -44107,6 +44115,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 226095,
+      "num": 187472,
+      "word": "招商银行向员工逆向讨薪近6000万",
+      "onboard_time": 1703831193,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226016,
       "num": 226016,
       "word": "成毅 热爱是每次开机时的期待",
@@ -45073,6 +45089,14 @@
       "onboard_time": 1702039234,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 220959,
+      "num": 220959,
+      "word": "你愿意不买房住酒店一辈子吗",
+      "onboard_time": 1703830232,
+      "rank": 27,
+      "category": "社会议题"
     },
     {
       "raw_hot": 220919,
@@ -46129,6 +46153,14 @@
       "onboard_time": 1702954598,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215341,
+      "num": 215341,
+      "word": "元旦小长假出行",
+      "onboard_time": 1703830953,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 215285,
@@ -49195,6 +49227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203981,
+      "num": 203981,
+      "word": "刘德华说南京话把彭于晏听懵了",
+      "onboard_time": 1703830893,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203943,
       "num": 203943,
       "word": "马哲重组EP",
@@ -50849,6 +50889,14 @@
       "onboard_time": 1701765637,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198986,
+      "num": 198986,
+      "word": "元旦去哪玩",
+      "onboard_time": 1703831492,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 198968,
@@ -52761,14 +52809,6 @@
       "onboard_time": 1702480176,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192841,
-      "num": 192841,
-      "word": "你愿意不买房住酒店一辈子吗",
-      "onboard_time": 1703830232,
-      "rank": 27,
-      "category": "社会议题"
     },
     {
       "raw_hot": 192840,
@@ -55468,7 +55508,7 @@
     },
     {
       "raw_hot": 184864,
-      "num": 184864,
+      "num": 187750,
       "word": "谭棉花组合一年300多天都在一起",
       "onboard_time": 1703829811,
       "rank": 28,
@@ -57859,6 +57899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174803,
+      "num": 174803,
+      "word": "BLACKPINK成员将分别成立个人厂牌",
+      "onboard_time": 1703831430,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174793,
       "num": 174793,
       "word": "再见李可乐",
@@ -59817,6 +59865,14 @@
       "onboard_time": 1702713098,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167315,
+      "num": 167315,
+      "word": "B榜年度最佳kpop歌曲",
+      "onboard_time": 1703830714,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 167282,
@@ -63691,14 +63747,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 153077,
-      "num": 153077,
-      "word": "B榜年度最佳kpop歌曲",
-      "onboard_time": 1703830714,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 153073,
       "num": 91617,
       "word": "张译 南极拒绝合影事件",
@@ -65003,14 +65051,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147869,
-      "num": 147869,
-      "word": "元旦小长假出行",
-      "onboard_time": 1703830953,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 147852,
       "num": 147852,
       "word": "琵琶行翻译成现代汉语",
@@ -66147,6 +66187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143843,
+      "num": 143843,
+      "word": "湖人战胜黄蜂",
+      "onboard_time": 1703831552,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143814,
       "num": 234258,
       "word": "105厘米长锦鲤入池",
@@ -66185,6 +66233,14 @@
       "onboard_time": 1702452155,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143686,
+      "num": 143686,
+      "word": "山西一小区上百人中毒",
+      "onboard_time": 1703831312,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143681,
@@ -69187,6 +69243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 130409,
+      "num": 130409,
+      "word": "陈学冬新剧开播",
+      "onboard_time": 1703831374,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130347,
       "num": 130347,
       "word": "张远在杨丞琳演唱会上唱乌梅子酱",
@@ -69233,14 +69297,6 @@
       "onboard_time": 1701600456,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129998,
-      "num": 129998,
-      "word": "容祖儿 我很欣赏你们演社恐的演技",
-      "onboard_time": 1703830893,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 129993,
@@ -70265,14 +70321,6 @@
       "onboard_time": 1701429274,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125388,
-      "num": 125388,
-      "word": "刘德华说南京话把彭于晏听懵了",
-      "onboard_time": 1703830893,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 125297,
@@ -71379,6 +71427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119728,
+      "num": 388026,
+      "word": "小米超级电机V8s超30000转",
+      "onboard_time": 1703829633,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 119658,
       "num": 119658,
       "word": "仅退款何以成头部电商标配",
@@ -71913,6 +71969,14 @@
       "onboard_time": 1703751396,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115184,
+      "num": 115184,
+      "word": "家的不同形态",
+      "onboard_time": 1703831732,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 115020,
@@ -74035,14 +74099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87339,
-      "num": 388026,
-      "word": "小米超级电机V8s超30000转",
-      "onboard_time": 1703829633,
-      "rank": 14,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 87330,
       "num": 94218,
       "word": "刘雨昕直到世界尽头舞台",
@@ -75107,6 +75163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70331,
+      "num": 280740,
+      "word": "蛋仔三丽鸥平替",
+      "onboard_time": 1703828792,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 69994,
       "num": 87323,
       "word": "阿云嘎音乐剧窈窕淑女",
@@ -75633,14 +75697,6 @@
       "onboard_time": 1702639532,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61577,
-      "num": 280740,
-      "word": "蛋仔三丽鸥平替",
-      "onboard_time": 1703828792,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 61570,
