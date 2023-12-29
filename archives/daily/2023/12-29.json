@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703820866166,
+  "endTime": 1703823660467,
   "band_list": [
     {
       "raw_hot": 2773795,
@@ -17,6 +17,14 @@
       "onboard_time": 1703807848,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1769432,
+      "num": 1769432,
+      "word": "一家8口住酒店称很划算准备住一辈子",
+      "onboard_time": 1703820752,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1624393,
@@ -139,6 +147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607629,
+      "num": 454118,
+      "word": "何猷君抽中香港澳门一日游",
+      "onboard_time": 1703822556,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 598210,
+      "num": 598210,
+      "word": "刘嘉玲梁朝伟 经纪人代班正主",
+      "onboard_time": 1703819492,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 585260,
       "num": 487936,
       "word": "三孩非亲生案女方称DNA也不是100%准确",
@@ -195,6 +219,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534998,
+      "num": 534998,
+      "word": "繁花 不响",
+      "onboard_time": 1703821832,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 534384,
+      "num": 534384,
+      "word": "女子急诊科猝死家属质疑护士玩手机",
+      "onboard_time": 1703822253,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529155,
       "num": 529155,
       "word": "大爷以为胃病护士一个坚持救回一命",
@@ -211,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 503880,
-      "num": 503880,
-      "word": "刘嘉玲梁朝伟 经纪人代班正主",
-      "onboard_time": 1703819492,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 480535,
       "num": 480535,
       "word": "25至29岁年龄段未婚率超50%",
@@ -233,6 +265,14 @@
       "onboard_time": 1703768432,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 447716,
+      "num": 308640,
+      "word": "母亲含泪喂被拐35年男子儿时吃过的蜂蜜",
+      "onboard_time": 1703820931,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435837,
@@ -291,12 +331,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 380268,
+      "num": 380268,
+      "word": "等等的嘴随了邓超",
+      "onboard_time": 1703822674,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368331,
       "num": 368331,
       "word": "全面禁售禁燃烟花爆竹规定应予修改",
       "onboard_time": 1703816192,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355563,
+      "num": 355563,
+      "word": "原来买一送一不是打五折",
+      "onboard_time": 1703823517,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 355199,
@@ -313,6 +369,14 @@
       "onboard_time": 1703815171,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350395,
+      "num": 350395,
+      "word": "刘亦菲周冬雨G社生图",
+      "onboard_time": 1703820333,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 345885,
@@ -531,6 +595,14 @@
       "category": "作品衍生,运动健身"
     },
     {
+      "raw_hot": 208388,
+      "num": 208388,
+      "word": "老板娘 这次我真是自愿加班的",
+      "onboard_time": 1703822073,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206256,
       "num": 206256,
       "word": "大熊猫强生风雪中思考熊生",
@@ -587,6 +659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193094,
+      "num": 193094,
+      "word": "张真源唱蝴蝶画蝴蝶",
+      "onboard_time": 1703823158,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192763,
       "num": 192763,
       "word": "戚薇玩甄姬一杠十",
@@ -595,12 +675,12 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 190373,
-      "num": 190373,
-      "word": "刘亦菲周冬雨G社生图",
-      "onboard_time": 1703820333,
+      "raw_hot": 190280,
+      "num": 190280,
+      "word": "A股2023年最后一个交易日",
+      "onboard_time": 1703821231,
       "rank": 31,
-      "category": "作品衍生"
+      "category": "财经"
     },
     {
       "raw_hot": 189534,
@@ -617,6 +697,22 @@
       "onboard_time": 1703820091,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188481,
+      "num": 188481,
+      "word": "蔡国庆演许仙",
+      "onboard_time": 1703822433,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187940,
+      "num": 187940,
+      "word": "2023新流量生TOP4",
+      "onboard_time": 1703823158,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 182888,
@@ -707,6 +803,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167875,
+      "num": 167875,
+      "word": "猫咪偷了一窝小鸡",
+      "onboard_time": 1703823214,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 165272,
+      "num": 165272,
+      "word": "活塞28连败",
+      "onboard_time": 1703820811,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161871,
+      "num": 161871,
+      "word": "从业者称小米教会了车圈如何开发布会",
+      "onboard_time": 1703821592,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 160424,
       "num": 160424,
       "word": "王家卫镜头下的胡歌",
@@ -755,12 +875,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148989,
+      "num": 148989,
+      "word": "突然对化妆技巧起了敬意",
+      "onboard_time": 1703822974,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 148217,
       "num": 123668,
       "word": "学者评繁花前四集",
       "onboard_time": 1703753435,
       "rank": 30,
       "category": "剧集,读书作家"
+    },
+    {
+      "raw_hot": 145552,
+      "num": 145552,
+      "word": "景甜妆造全记录",
+      "onboard_time": 1703822376,
+      "rank": 44,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 142797,
@@ -907,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119869,
+      "num": 119869,
+      "word": "不良人 恭迎大帅",
+      "onboard_time": 1703823636,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 119658,
       "num": 119658,
       "word": "仅退款何以成头部电商标配",
@@ -939,14 +1083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114865,
-      "num": 114865,
-      "word": "一家8口住酒店称很划算准备住一辈子",
-      "onboard_time": 1703820752,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110870,
       "num": 110870,
       "word": "小猫的年终总结",
@@ -969,14 +1105,6 @@
       "onboard_time": 1703784378,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 108796,
-      "num": 108796,
-      "word": "活塞28连败",
-      "onboard_time": 1703820811,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 108638,
@@ -1161,6 +1289,14 @@
       "onboard_time": 1703759913,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 59582,
+      "num": 388915,
+      "word": "跨年来蛋仔派对分1亿",
+      "onboard_time": 1703822852,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 58353,
