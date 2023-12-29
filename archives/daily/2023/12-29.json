@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703841438094,
+  "endTime": 1703842449971,
   "band_list": [
     {
       "raw_hot": 2773795,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1260953,
+      "num": 1260953,
+      "word": "阿里被判赔京东10亿",
+      "onboard_time": 1703841630,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1180990,
       "num": 1180990,
       "word": "iPhone遭遇史上最复杂攻击",
@@ -145,6 +153,14 @@
       "onboard_time": 1703836353,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 864232,
+      "num": 864232,
+      "word": "中医不相信张远38岁了",
+      "onboard_time": 1703841272,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 852965,
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 447692,
-      "num": 153368,
+      "num": 379575,
       "word": "许光汉现身李善均灵堂哀悼",
       "onboard_time": 1703840672,
       "rank": 30,
@@ -681,6 +697,14 @@
       "onboard_time": 1703768672,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 308707,
+      "num": 308707,
+      "word": "冥河水母",
+      "onboard_time": 1703840731,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 299328,
@@ -939,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213015,
+      "num": 213015,
+      "word": "和姐姐谈恋爱的好处",
+      "onboard_time": 1703840971,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212400,
       "num": 212400,
       "word": "庄达菲 我人生中第一部电影",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1703818533,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196166,
-      "num": 152048,
-      "word": "冥河水母",
-      "onboard_time": 1703840731,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 196113,
@@ -1363,14 +1387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164056,
-      "num": 164056,
-      "word": "中医不相信张远38岁了",
-      "onboard_time": 1703841272,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162604,
       "num": 162604,
       "word": "化妆冷知识",
@@ -1512,6 +1528,14 @@
       "word": "2023IVL秋季赛",
       "onboard_time": 1703837852,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 145801,
+      "num": 145801,
+      "word": "向鱼妖刀告别赛训组",
+      "onboard_time": 1703841450,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -1723,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125776,
-      "num": 125776,
-      "word": "和姐姐谈恋爱的好处",
-      "onboard_time": 1703840971,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 125750,
       "num": 125750,
       "word": "繁花沪语版 上头",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1703797335,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 118867,
+      "num": 118867,
+      "word": "大山里的女校 重点抓对了",
+      "onboard_time": 1703842112,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 118559,
@@ -1851,6 +1875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107937,
+      "num": 107937,
+      "word": "明星代言的护肤品会翻车吗",
+      "onboard_time": 1703841513,
+      "rank": 45,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 106157,
       "num": 106157,
       "word": "小女孩疯狂拆礼物",
@@ -1889,6 +1921,14 @@
       "onboard_time": 1703766873,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99954,
+      "num": 268798,
+      "word": "蛋仔皮肤挑花眼了",
+      "onboard_time": 1703841450,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 98699,
@@ -2083,6 +2123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41966,
+      "num": 309590,
+      "word": "有比这台7系更舒适的7吗",
+      "onboard_time": 1703840430,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40073,
       "num": 40073,
       "word": "易胖体质",
@@ -2099,20 +2147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29490,
+      "num": 1089290,
+      "word": "2023中国航天书写傲人答卷",
+      "onboard_time": 1703841872,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29325,
       "num": 29325,
       "word": "田曦薇鬼脸对镜拍",
       "onboard_time": 1703786119,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29186,
-      "num": 270315,
-      "word": "有比这台7系更舒适的7吗",
-      "onboard_time": 1703840430,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 28335,

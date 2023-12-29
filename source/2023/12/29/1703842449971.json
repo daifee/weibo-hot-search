@@ -1,0 +1,410 @@
+{
+  "runTime": 1703842449971,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260953,
+        "num": 1260953,
+        "word": "阿里被判赔京东10亿",
+        "onboard_time": 1703841630,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1127811,
+        "num": 1127811,
+        "word": "正主卖cp 真嫂子没眼看",
+        "onboard_time": 1703829512,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29490,
+        "num": 1089290,
+        "word": "2023中国航天书写傲人答卷",
+        "onboard_time": 1703841872,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1051851,
+        "num": 1051851,
+        "word": "李善均出殡现场全慧珍痛哭",
+        "onboard_time": 1703839112,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 864232,
+        "num": 864232,
+        "word": "中医不相信张远38岁了",
+        "onboard_time": 1703841272,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729976,
+        "num": 729976,
+        "word": "熟人作案 影视化",
+        "onboard_time": 1703836353,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 627609,
+        "num": 627609,
+        "word": "招商银行向员工逆向讨薪近6000万",
+        "onboard_time": 1703831193,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584541,
+        "num": 584541,
+        "word": "母亲含泪喂被拐35年男子儿时吃过的蜂蜜",
+        "onboard_time": 1703820931,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509614,
+        "num": 509614,
+        "word": "顾客摸草莓不买遭商家泼水",
+        "onboard_time": 1703828614,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396639,
+        "num": 396639,
+        "word": "张钰琪毕业回国",
+        "onboard_time": 1703828072,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379575,
+        "num": 379575,
+        "word": "许光汉现身李善均灵堂哀悼",
+        "onboard_time": 1703840672,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376576,
+        "num": 376576,
+        "word": "胡歌除了自拍谁拍都帅",
+        "onboard_time": 1703834013,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316371,
+        "num": 316371,
+        "word": "何炅居然是i人",
+        "onboard_time": 1703833531,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310529,
+        "num": 310529,
+        "word": "孟羽童发声",
+        "onboard_time": 1703814872,
+        "rank": 13,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 41966,
+        "num": 309590,
+        "word": "有比这台7系更舒适的7吗",
+        "onboard_time": 1703840430,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 308707,
+        "num": 308707,
+        "word": "冥河水母",
+        "onboard_time": 1703840731,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 308019,
+        "num": 308019,
+        "word": "BLACKPINK个人不与YG续约",
+        "onboard_time": 1703824236,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300102,
+        "num": 300102,
+        "word": "一家8口住酒店称很划算准备住一辈子",
+        "onboard_time": 1703820752,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279939,
+        "num": 279939,
+        "word": "狼队 我破防了",
+        "onboard_time": 1703834972,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99954,
+        "num": 268798,
+        "word": "蛋仔皮肤挑花眼了",
+        "onboard_time": 1703841450,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259548,
+        "num": 259548,
+        "word": "山西一小区上百人中毒",
+        "onboard_time": 1703831312,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213015,
+        "num": 213015,
+        "word": "和姐姐谈恋爱的好处",
+        "onboard_time": 1703840971,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201863,
+        "num": 201863,
+        "word": "何猷君抽中香港澳门一日游",
+        "onboard_time": 1703822556,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200866,
+        "num": 200866,
+        "word": "王嘉尔 从练习生到老板",
+        "onboard_time": 1703835031,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196223,
+        "num": 196223,
+        "word": "女子花575万公款请大师绑姻缘获刑5年",
+        "onboard_time": 1703833652,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177708,
+        "num": 177708,
+        "word": "元旦假期",
+        "onboard_time": 1703840911,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175892,
+        "num": 175892,
+        "word": "东北大葱宠南方小土豆",
+        "onboard_time": 1703839293,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174914,
+        "num": 174914,
+        "word": "兴业银行尾盘直线涨停",
+        "onboard_time": 1703835334,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164138,
+        "num": 164138,
+        "word": "期末考官是胡歌",
+        "onboard_time": 1703825018,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112010,
+        "num": 158105,
+        "word": "云南这棵古茶树已2700多岁",
+        "onboard_time": 1703838270,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152572,
+        "num": 152572,
+        "word": "杨幂复古红唇妆",
+        "onboard_time": 1703838270,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145801,
+        "num": 145801,
+        "word": "向鱼妖刀告别赛训组",
+        "onboard_time": 1703841450,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139141,
+        "num": 139141,
+        "word": "当小狗用这种眼神看着你",
+        "onboard_time": 1703837971,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137724,
+        "num": 137724,
+        "word": "肖战晒图了",
+        "onboard_time": 1703826756,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136158,
+        "num": 136158,
+        "word": "甘肃村民收到赈灾加拿大鹅称不会卖",
+        "onboard_time": 1703832032,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135474,
+        "num": 135474,
+        "word": "去年GDP现价总量为1204724亿元",
+        "onboard_time": 1703839892,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 133804,
+        "num": 133804,
+        "word": "女子急诊科猝死家属质疑护士玩手机",
+        "onboard_time": 1703822253,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125835,
+        "num": 125835,
+        "word": "天启异闻录定档",
+        "onboard_time": 1703837193,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123856,
+        "num": 123856,
+        "word": "3娃非亲生案女方要求分割房产",
+        "onboard_time": 1703829452,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120590,
+        "num": 120590,
+        "word": "国乒体能大比武",
+        "onboard_time": 1703837732,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118867,
+        "num": 118867,
+        "word": "大山里的女校 重点抓对了",
+        "onboard_time": 1703842112,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117084,
+        "num": 117084,
+        "word": "老林黎洛离队",
+        "onboard_time": 1703834312,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113473,
+        "num": 113473,
+        "word": "WBG获胜",
+        "onboard_time": 1703838331,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109466,
+        "num": 109466,
+        "word": "湖南跨年晚会彩排路透",
+        "onboard_time": 1703835152,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108899,
+        "num": 108899,
+        "word": "黑执事 貌美的少爷",
+        "onboard_time": 1703834430,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 107937,
+        "num": 107937,
+        "word": "明星代言的护肤品会翻车吗",
+        "onboard_time": 1703841513,
+        "rank": 45,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 102346,
+        "num": 102346,
+        "word": "南方小土豆被东北大姨拉手手系围巾",
+        "onboard_time": 1703832332,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102332,
+        "num": 102332,
+        "word": "对线下追星没什么欲望",
+        "onboard_time": 1703832451,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99438,
+        "num": 99438,
+        "word": "特斯拉官方暗讽理想汽车",
+        "onboard_time": 1703827895,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 29066,
+        "num": 95913,
+        "word": "2023那些被瞬间治愈的时刻",
+        "onboard_time": 1703808028,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色大国外交踏上新征程#"
+    }
+  }
+}
