@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703853989730,
+  "endTime": 1703856002959,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -883,6 +883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1285550,
+      "num": 395690,
+      "word": "王鹤棣宋茜 跨年跳屋顶着火",
+      "onboard_time": 1703855493,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1281825,
       "num": 1281825,
       "word": "上班睡觉被辞退能拿到赔偿吗",
@@ -1371,6 +1379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 969413,
+      "num": 969413,
+      "word": "图书馆30秒 平等发生在每个人身上",
+      "onboard_time": 1703854470,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 968763,
       "num": 968763,
       "word": "00后小伙年销7万单爱因斯坦的脑子",
@@ -1468,7 +1484,7 @@
     },
     {
       "raw_hot": 927794,
-      "num": 672169,
+      "num": 754746,
       "word": "肖战直播",
       "onboard_time": 1703852013,
       "rank": 4,
@@ -1947,6 +1963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 763600,
+      "num": 763600,
+      "word": "唐嫣 这里是酒吧",
+      "onboard_time": 1703849011,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 761654,
       "num": 761654,
       "word": "脱轨 恐怖片",
@@ -2187,6 +2211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 706382,
+      "num": 706382,
+      "word": "两家单位拒收人民币现金被罚",
+      "onboard_time": 1703847274,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 706161,
       "num": 706161,
       "word": "肖战嘉人开年刊封面",
@@ -2395,14 +2427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 671818,
-      "num": 671818,
-      "word": "唐嫣 这里是酒吧",
-      "onboard_time": 1703849011,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 670642,
       "num": 496251,
       "word": "刘诗诗为胡歌唐嫣新剧打call",
@@ -2425,14 +2449,6 @@
       "onboard_time": 1703646880,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 669803,
-      "num": 669803,
-      "word": "两家单位拒收人民币现金被罚",
-      "onboard_time": 1703847274,
-      "rank": 30,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 667818,
@@ -2801,6 +2817,14 @@
       "onboard_time": 1703755295,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 601787,
+      "num": 601787,
+      "word": "KARINA中国首封",
+      "onboard_time": 1703853994,
+      "rank": 7,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 598338,
@@ -4259,6 +4283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 432335,
+      "num": 432335,
+      "word": "在北欧打工9年被同事举报1000次",
+      "onboard_time": 1703846613,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430898,
       "num": 430898,
       "word": "麦当劳涨价0.5至1元",
@@ -5091,6 +5123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357784,
+      "num": 357784,
+      "word": "第一眼见就不对劲的人",
+      "onboard_time": 1703849132,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 357091,
       "num": 357091,
       "word": "女子花575万公款请大师绑姻缘获刑5年",
@@ -5257,14 +5297,6 @@
       "onboard_time": 1703401352,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 344089,
-      "num": 344089,
-      "word": "在北欧打工9年被同事举报1000次",
-      "onboard_time": 1703846613,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342151,
@@ -5907,6 +5939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 298302,
+      "num": 298302,
+      "word": "花楼 eStar",
+      "onboard_time": 1703854651,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 297563,
       "num": 297563,
       "word": "山东鲁能乒超男团夺冠",
@@ -6168,6 +6208,14 @@
       "word": "白鹿湿发晚安照",
       "onboard_time": 1703605591,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 283784,
+      "num": 283784,
+      "word": "内娱出圈新人TOP1",
+      "onboard_time": 1703854891,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -6913,6 +6961,14 @@
       "onboard_time": 1703751693,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 249164,
+      "num": 286550,
+      "word": "3孩非亲生案当事人自述始末",
+      "onboard_time": 1703853874,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249093,
@@ -7851,6 +7907,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 221260,
+      "num": 221260,
+      "word": "SBS演技大赏",
+      "onboard_time": 1703855854,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 220709,
       "num": 220709,
       "word": "迪丽热巴潜水服",
@@ -8265,14 +8329,6 @@
       "onboard_time": 1703675316,
       "rank": 35,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 209000,
-      "num": 209000,
-      "word": "第一眼见就不对劲的人",
-      "onboard_time": 1703849132,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 208994,
@@ -9592,6 +9648,14 @@
       "word": "赵睿也来了",
       "onboard_time": 1703852974,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189305,
+      "num": 142226,
+      "word": "孙颖莎参加30米冲刺跑",
+      "onboard_time": 1703855432,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -12723,6 +12787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141185,
+      "num": 141185,
+      "word": "鸣龙少年片尾如梗在喉",
+      "onboard_time": 1703854713,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141128,
       "num": 141128,
       "word": "张靓颖又瘦了",
@@ -12979,6 +13051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136915,
+      "num": 135117,
+      "word": "李燃奶奶乱点鸳鸯谱",
+      "onboard_time": 1703854470,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136891,
       "num": 230933,
       "word": "关晓彤cos孙尚香",
@@ -13041,6 +13121,14 @@
       "onboard_time": 1703649456,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136060,
+      "num": 136060,
+      "word": "看繁花被安妮洗脑了",
+      "onboard_time": 1703854772,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 135777,
@@ -14059,6 +14147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123198,
+      "num": 123198,
+      "word": "Wolves对战MRC",
+      "onboard_time": 1703855793,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123151,
       "num": 123151,
       "word": "德杯",
@@ -14371,6 +14467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118673,
+      "num": 118673,
+      "word": "潜行",
+      "onboard_time": 1703846253,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118559,
       "num": 118559,
       "word": "活塞vs凯尔特人",
@@ -14507,6 +14611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117376,
+      "num": 117376,
+      "word": "皇马官宣续约安切洛蒂",
+      "onboard_time": 1703854651,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117372,
       "num": 117372,
       "word": "开合跳瘦上半身",
@@ -14531,6 +14643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116561,
+      "num": 116561,
+      "word": "兴业银行发布关于股票波动情况说明",
+      "onboard_time": 1703854292,
+      "rank": 40,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 116442,
       "num": 116442,
       "word": "一键关机的小狗",
@@ -14545,6 +14665,14 @@
       "onboard_time": 1703591015,
       "rank": 49,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 116227,
+      "num": 116227,
+      "word": "边晓晓好懂程雨杉",
+      "onboard_time": 1703855130,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 115741,
@@ -15019,6 +15147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107582,
+      "num": 107582,
+      "word": "易建联球衣退役仪式高朋满座",
+      "onboard_time": 1703855314,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107014,
       "num": 208983,
       "word": "老师为09后孩子练习演唱北京欢迎你",
@@ -15203,14 +15339,6 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 98787,
-      "num": 96034,
-      "word": "潜行",
-      "onboard_time": 1703846253,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 98744,
       "num": 1264631,
       "word": "盘点2023大国重器新突破",
@@ -15265,6 +15393,14 @@
       "onboard_time": 1703342858,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97745,
+      "num": 97745,
+      "word": "土灵珠",
+      "onboard_time": 1703855974,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 97688,
@@ -15617,14 +15753,6 @@
       "onboard_time": 1703653238,
       "rank": 14,
       "category": "美食"
-    },
-    {
-      "raw_hot": 80945,
-      "num": 84766,
-      "word": "3孩非亲生案当事人自述始末",
-      "onboard_time": 1703853874,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80908,
@@ -16305,6 +16433,14 @@
       "onboard_time": 1703787261,
       "rank": 40,
       "category": "作品衍生,健康医疗"
+    },
+    {
+      "raw_hot": 39217,
+      "num": 337109,
+      "word": "元梦之星狼人杀都是男大",
+      "onboard_time": 1703854832,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 38566,

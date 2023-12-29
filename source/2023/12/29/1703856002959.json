@@ -1,0 +1,410 @@
+{
+  "runTime": 1703856002959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 969413,
+        "num": 969413,
+        "word": "图书馆30秒 平等发生在每个人身上",
+        "onboard_time": 1703854470,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 763600,
+        "num": 763600,
+        "word": "唐嫣 这里是酒吧",
+        "onboard_time": 1703849011,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36688,
+        "num": 758597,
+        "word": "雪龙号抵达长城站",
+        "onboard_time": 1703842593,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1409595,
+        "num": 757665,
+        "word": "支原体肺炎明显症状 爆咳",
+        "onboard_time": 1703849311,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 754746,
+        "num": 754746,
+        "word": "肖战直播",
+        "onboard_time": 1703852013,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711019,
+        "num": 711019,
+        "word": "阿里被判赔京东10亿",
+        "onboard_time": 1703841630,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 706382,
+        "num": 706382,
+        "word": "两家单位拒收人民币现金被罚",
+        "onboard_time": 1703847274,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 601787,
+        "num": 601787,
+        "word": "KARINA中国首封",
+        "onboard_time": 1703853994,
+        "rank": 7,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 432335,
+        "num": 432335,
+        "word": "在北欧打工9年被同事举报1000次",
+        "onboard_time": 1703846613,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414286,
+        "num": 414286,
+        "word": "董军任国防部部长",
+        "onboard_time": 1703846972,
+        "rank": 9,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 1285550,
+        "num": 395690,
+        "word": "王鹤棣宋茜 跨年跳屋顶着火",
+        "onboard_time": 1703855493,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360058,
+        "num": 360058,
+        "word": "结婚的好处",
+        "onboard_time": 1703844393,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359451,
+        "num": 359451,
+        "word": "中医不相信张远38岁了",
+        "onboard_time": 1703841272,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357784,
+        "num": 357784,
+        "word": "第一眼见就不对劲的人",
+        "onboard_time": 1703849132,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39217,
+        "num": 337109,
+        "word": "元梦之星狼人杀都是男大",
+        "onboard_time": 1703854832,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 328114,
+        "num": 328114,
+        "word": "正主卖cp 真嫂子没眼看",
+        "onboard_time": 1703829512,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 308477,
+        "num": 308477,
+        "word": "脱轨",
+        "onboard_time": 1703851650,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306160,
+        "num": 306160,
+        "word": "关晓彤cos甄嬛跳惊鸿舞",
+        "onboard_time": 1703850210,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298302,
+        "num": 298302,
+        "word": "花楼 eStar",
+        "onboard_time": 1703854651,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249164,
+        "num": 286550,
+        "word": "3孩非亲生案当事人自述始末",
+        "onboard_time": 1703853874,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283784,
+        "num": 283784,
+        "word": "内娱出圈新人TOP1",
+        "onboard_time": 1703854891,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278276,
+        "num": 278276,
+        "word": "李善均出殡现场全慧珍痛哭",
+        "onboard_time": 1703839112,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277050,
+        "num": 277050,
+        "word": "不良人",
+        "onboard_time": 1703849612,
+        "rank": 22,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 272937,
+        "num": 272937,
+        "word": "旭旭宝宝 复播",
+        "onboard_time": 1703846972,
+        "rank": 23,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 229227,
+        "num": 229227,
+        "word": "女子因思念亡父泪崩被6岁女儿治愈",
+        "onboard_time": 1703843433,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221260,
+        "num": 221260,
+        "word": "SBS演技大赏",
+        "onboard_time": 1703855854,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190779,
+        "num": 190779,
+        "word": "EXO初雪获音银一位",
+        "onboard_time": 1703849252,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153104,
+        "num": 153104,
+        "word": "易建联球衣退役仪式",
+        "onboard_time": 1703847452,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145107,
+        "num": 145107,
+        "word": "一个演的不像一个不像演的",
+        "onboard_time": 1703848890,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143060,
+        "num": 143060,
+        "word": "丫丫雪地大口大口干饭",
+        "onboard_time": 1703846733,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189305,
+        "num": 142226,
+        "word": "孙颖莎参加30米冲刺跑",
+        "onboard_time": 1703855432,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141185,
+        "num": 141185,
+        "word": "鸣龙少年片尾如梗在喉",
+        "onboard_time": 1703854713,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136060,
+        "num": 136060,
+        "word": "看繁花被安妮洗脑了",
+        "onboard_time": 1703854772,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136915,
+        "num": 135117,
+        "word": "李燃奶奶乱点鸳鸯谱",
+        "onboard_time": 1703854470,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131979,
+        "num": 131979,
+        "word": "郭艾伦复出",
+        "onboard_time": 1703851832,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128100,
+        "num": 128100,
+        "word": "张杰跨年演唱会",
+        "onboard_time": 1703833412,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123198,
+        "num": 123198,
+        "word": "Wolves对战MRC",
+        "onboard_time": 1703855793,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118673,
+        "num": 118673,
+        "word": "潜行",
+        "onboard_time": 1703846253,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118234,
+        "num": 118234,
+        "word": "藏海传官微开通",
+        "onboard_time": 1703843733,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117376,
+        "num": 117376,
+        "word": "皇马官宣续约安切洛蒂",
+        "onboard_time": 1703854651,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116561,
+        "num": 116561,
+        "word": "兴业银行发布关于股票波动情况说明",
+        "onboard_time": 1703854292,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 116227,
+        "num": 116227,
+        "word": "边晓晓好懂程雨杉",
+        "onboard_time": 1703855130,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116087,
+        "num": 116087,
+        "word": "赵睿也来了",
+        "onboard_time": 1703852974,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111094,
+        "num": 111094,
+        "word": "杨迪吐槽的是哪个综艺",
+        "onboard_time": 1703843013,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110759,
+        "num": 110759,
+        "word": "许光汉现身李善均灵堂哀悼",
+        "onboard_time": 1703840672,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108001,
+        "num": 108001,
+        "word": "甄嬛传给老外看流泪了",
+        "onboard_time": 1703851354,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107582,
+        "num": 107582,
+        "word": "易建联球衣退役仪式高朋满座",
+        "onboard_time": 1703855314,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107223,
+        "num": 107223,
+        "word": "新闻女王终极彩蛋",
+        "onboard_time": 1703852732,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103283,
+        "num": 103283,
+        "word": "虞书欣拍的葛优",
+        "onboard_time": 1703849789,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97745,
+        "num": 97745,
+        "word": "土灵珠",
+        "onboard_time": 1703855974,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央外事工作会议举行#"
+    }
+  }
+}
