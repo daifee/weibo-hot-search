@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/29 09:26:19
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/29 10:00:13
 </p>
 </blockquote>
 <p>
@@ -3111,6 +3111,12 @@ BLACKPINK全员与YG完成续约（热度：1668669）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%85%92%E5%BA%97%E8%B7%A8%E5%B9%B4%E5%A4%9C%E6%88%BF%E8%B4%B9%E9%AB%98%E8%BE%BE30%E4%BD%99%E4%B8%87%23" target="weibo">
+上海宝格丽酒店跨年夜房费高达30余万（热度：1532322）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E6%85%95%E5%B8%8C%20%E7%99%BD%E9%B9%BF%23" target="weibo">
 安慕希 白鹿（热度：1532143）
 </a>
@@ -6005,12 +6011,6 @@ GQ内涵（热度：1094599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%9D%83%E8%87%B4%E6%AD%89%23" target="weibo">
 天权致歉（热度：959191）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%86%8D%E5%9B%9E%E5%BA%94%E7%AD%BE%E7%BA%A6%E8%91%A3%E5%AE%87%E8%BE%89%23" target="weibo">
-小杨哥再回应签约董宇辉（热度：958965）
 </a>
 </li>
 

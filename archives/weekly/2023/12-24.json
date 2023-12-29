@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703813179461,
+  "endTime": 1703815213591,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -569,6 +569,14 @@
       "onboard_time": 1703376806,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1532322,
+      "num": 1532322,
+      "word": "上海宝格丽酒店跨年夜房费高达30余万",
+      "onboard_time": 1703812771,
+      "rank": 22,
+      "category": "旅游"
     },
     {
       "raw_hot": 1531937,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1703680895,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 895784,
+      "num": 895784,
+      "word": "82岁院士自曝每天熬夜到2点",
+      "onboard_time": 1703813131,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 891914,
@@ -2249,6 +2265,14 @@
       "onboard_time": 1703669316,
       "rank": 26,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 658762,
+      "num": 658762,
+      "word": "东莞业主600万买96平房现280万没人要",
+      "onboard_time": 1703813611,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 658157,
@@ -3403,6 +3427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477462,
+      "num": 477462,
+      "word": "古茗莲花楼 喝到了",
+      "onboard_time": 1703810431,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476634,
       "num": 476634,
       "word": "孙怡的大衣T台",
@@ -3545,6 +3577,14 @@
       "onboard_time": 1703461587,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 461459,
+      "num": 461459,
+      "word": "孟羽童发声",
+      "onboard_time": 1703814872,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 461322,
@@ -3777,6 +3817,14 @@
       "onboard_time": 1703422894,
       "rank": 19,
       "category": "数码,财经"
+    },
+    {
+      "raw_hot": 435837,
+      "num": 435837,
+      "word": "辛芷蕾演我过年回家状态",
+      "onboard_time": 1703810672,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 435538,
@@ -4075,28 +4123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404562,
-      "num": 404562,
-      "word": "古茗莲花楼 喝到了",
-      "onboard_time": 1703810431,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 403879,
       "num": 379841,
       "word": "我在芬兰3年不上班",
       "onboard_time": 1703473774,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402734,
-      "num": 402734,
-      "word": "辛芷蕾演我过年回家状态",
-      "onboard_time": 1703810672,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 401970,
@@ -4569,6 +4601,14 @@
       "onboard_time": 1703488414,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 355199,
+      "num": 355199,
+      "word": "亡夫三部曲",
+      "onboard_time": 1703810493,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 354545,
@@ -5667,6 +5707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 275087,
+      "num": 275087,
+      "word": "2023年的班就上到这里",
+      "onboard_time": 1703813611,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274687,
       "num": 274687,
       "word": "男子拉横幅侮辱前女友被行拘",
@@ -5988,7 +6036,7 @@
     },
     {
       "raw_hot": 259003,
-      "num": 183607,
+      "num": 191508,
       "word": "193的英国网友去荷兰后",
       "onboard_time": 1703811991,
       "rank": 30,
@@ -6001,14 +6049,6 @@
       "onboard_time": 1703476057,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258649,
-      "num": 258649,
-      "word": "亡夫三部曲",
-      "onboard_time": 1703810493,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 258555,
@@ -6289,14 +6329,6 @@
       "onboard_time": 1703414793,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 245626,
-      "num": 245626,
-      "word": "上海宝格丽酒店跨年夜房费高达30余万",
-      "onboard_time": 1703812771,
-      "rank": 22,
-      "category": "旅游"
     },
     {
       "raw_hot": 245111,
@@ -6819,6 +6851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229336,
+      "num": 229336,
+      "word": "2023货车司机这一年",
+      "onboard_time": 1703814572,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229260,
       "num": 229260,
       "word": "WB一穿四",
@@ -6889,6 +6929,14 @@
       "onboard_time": 1703653361,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227401,
+      "num": 227401,
+      "word": "南方小土豆想吃麻辣烫司机动用人脉打听",
+      "onboard_time": 1703813731,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226858,
@@ -7595,6 +7643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206256,
+      "num": 206256,
+      "word": "大熊猫强生风雪中思考熊生",
+      "onboard_time": 1703814030,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206241,
       "num": 154435,
       "word": "杨超越头肩比",
@@ -8267,6 +8323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 195024,
+      "num": 195024,
+      "word": "这三种水果的果皮营养堪比果肉",
+      "onboard_time": 1703813850,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 194797,
       "num": 194797,
       "word": "狼队世冠淘汰",
@@ -8643,14 +8707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187438,
-      "num": 187438,
-      "word": "82岁院士自曝每天熬夜到2点",
-      "onboard_time": 1703813131,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187397,
       "num": 187397,
       "word": "假如沈耀是孟宴臣的弟弟",
@@ -9017,6 +9073,14 @@
       "onboard_time": 1703467232,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180056,
+      "num": 180056,
+      "word": "余承东疑与雷军隔空打擂",
+      "onboard_time": 1703814752,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 180000,
@@ -10307,6 +10371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158473,
+      "num": 158473,
+      "word": "湖人拒绝用里夫斯换穆雷",
+      "onboard_time": 1703813792,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158387,
       "num": 158387,
       "word": "甘肃24处不可移动文物在地震中受损",
@@ -10505,6 +10577,14 @@
       "onboard_time": 1703760575,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155852,
+      "num": 155852,
+      "word": "2023坚持最久的事",
+      "onboard_time": 1703814872,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 155793,
@@ -11875,6 +11955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 132732,
+      "num": 132732,
+      "word": "魅族CEO沈子瑜质疑小米汽车审美",
+      "onboard_time": 1703813071,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 132636,
       "num": 132636,
       "word": "陈梦日常训练记",
@@ -11929,6 +12017,14 @@
       "onboard_time": 1703664155,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 131990,
+      "num": 131990,
+      "word": "辛芷蕾想当母女 赵昭仪想当姐妹",
+      "onboard_time": 1703815171,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 131894,
@@ -12715,6 +12811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120558,
+      "num": 120558,
+      "word": "周深 一款有礼貌的百灵鸟",
+      "onboard_time": 1703813131,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120296,
       "num": 120296,
       "word": "咖啡强制开机 褪黑素强制关机",
@@ -13203,14 +13307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110962,
-      "num": 110962,
-      "word": "魅族CEO沈子瑜质疑小米汽车审美",
-      "onboard_time": 1703813071,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 110842,
       "num": 110842,
       "word": "他带领村民在新疆沙漠里养出澳洲龙虾",
@@ -13289,14 +13385,6 @@
       "onboard_time": 1703406271,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 109546,
-      "num": 109546,
-      "word": "周深 一款有礼貌的百灵鸟",
-      "onboard_time": 1703813131,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 109411,
@@ -14524,7 +14612,7 @@
     },
     {
       "raw_hot": 32077,
-      "num": 977305,
+      "num": 1201949,
       "word": "跟着AI重走2023中国科技之旅",
       "onboard_time": 1703774795,
       "rank": 2,
