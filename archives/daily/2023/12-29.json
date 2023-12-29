@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703823660467,
+  "endTime": 1703824496522,
   "band_list": [
     {
       "raw_hot": 2773795,
@@ -19,8 +19,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1769432,
-      "num": 1769432,
+      "raw_hot": 1782501,
+      "num": 1782501,
       "word": "一家8口住酒店称很划算准备住一辈子",
       "onboard_time": 1703820752,
       "rank": 47,
@@ -81,6 +81,14 @@
       "onboard_time": 1703807667,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 885988,
+      "num": 885988,
+      "word": "女子急诊科猝死家属质疑护士玩手机",
+      "onboard_time": 1703822253,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 852965,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639372,
+      "num": 439585,
+      "word": "原来买一送一不是打五折",
+      "onboard_time": 1703823517,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 607629,
       "num": 454118,
       "word": "何猷君抽中香港澳门一日游",
@@ -203,6 +219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 559162,
+      "num": 559162,
+      "word": "等等的嘴随了邓超",
+      "onboard_time": 1703822674,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 546050,
       "num": 546050,
       "word": "武汉大学书画大赛获奖44人39人为干部",
@@ -225,14 +249,6 @@
       "onboard_time": 1703821832,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 534384,
-      "num": 534384,
-      "word": "女子急诊科猝死家属质疑护士玩手机",
-      "onboard_time": 1703822253,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 529155,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 447716,
-      "num": 308640,
+      "num": 313669,
       "word": "母亲含泪喂被拐35年男子儿时吃过的蜂蜜",
       "onboard_time": 1703820931,
       "rank": 20,
@@ -315,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389764,
+      "num": 389764,
+      "word": "BLACKPINK个人不与YG续约",
+      "onboard_time": 1703824236,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387202,
       "num": 387202,
       "word": "关门吻",
@@ -331,28 +355,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 380268,
-      "num": 380268,
-      "word": "等等的嘴随了邓超",
-      "onboard_time": 1703822674,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 368331,
       "num": 368331,
       "word": "全面禁售禁燃烟花爆竹规定应予修改",
       "onboard_time": 1703816192,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355563,
-      "num": 355563,
-      "word": "原来买一送一不是打五折",
-      "onboard_time": 1703823517,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 355199,
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277449,
+      "num": 277449,
+      "word": "不良人 恭迎大帅",
+      "onboard_time": 1703823636,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 276666,
       "num": 276666,
       "word": "逆水寒 老登我半价券呢",
@@ -480,6 +496,14 @@
       "word": "2023年的班就上到这里",
       "onboard_time": 1703813611,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266840,
+      "num": 266840,
+      "word": "2岁弟弟用身体护住姐姐躲汽车",
+      "onboard_time": 1703823757,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -507,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250163,
+      "num": 225215,
+      "word": "韩后创始人称欠一空姐1500万",
+      "onboard_time": 1703823997,
+      "rank": 30,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 246084,
       "num": 246084,
       "word": "华为预计23年营收超7000亿元",
@@ -515,12 +547,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 244247,
+      "num": 244247,
+      "word": "老板娘 这次我真是自愿加班的",
+      "onboard_time": 1703822073,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 242449,
+      "num": 242449,
+      "word": "在暴雪时分",
+      "onboard_time": 1703824416,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240187,
       "num": 228895,
       "word": "繁花",
       "onboard_time": 1703814632,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230947,
+      "num": 230947,
+      "word": "陈奕迅跨年演唱会被曝强退门票",
+      "onboard_time": 1703823757,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 230803,
@@ -579,6 +635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 215639,
+      "num": 215639,
+      "word": "武艺 不知道什么时候喜欢我的人就少了",
+      "onboard_time": 1703824056,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214421,
       "num": 151236,
       "word": "繁花商战剧情",
@@ -595,16 +659,8 @@
       "category": "作品衍生,运动健身"
     },
     {
-      "raw_hot": 208388,
-      "num": 208388,
-      "word": "老板娘 这次我真是自愿加班的",
-      "onboard_time": 1703822073,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 206256,
-      "num": 206256,
+      "num": 225911,
       "word": "大熊猫强生风雪中思考熊生",
       "onboard_time": 1703814030,
       "rank": 26,
@@ -811,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166177,
+      "num": 166177,
+      "word": "外国人可在线开A股账户",
+      "onboard_time": 1703823815,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165272,
       "num": 165272,
       "word": "活塞28连败",
@@ -825,6 +889,22 @@
       "onboard_time": 1703821592,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 161280,
+      "num": 161280,
+      "word": "达尔文结节",
+      "onboard_time": 1703823935,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 160790,
+      "num": 160790,
+      "word": "突然对化妆技巧起了敬意",
+      "onboard_time": 1703822974,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 160424,
@@ -875,12 +955,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148989,
-      "num": 148989,
-      "word": "突然对化妆技巧起了敬意",
-      "onboard_time": 1703822974,
-      "rank": 43,
-      "category": "美妆"
+      "raw_hot": 151793,
+      "num": 151793,
+      "word": "易建联球衣退役仪式感",
+      "onboard_time": 1703824178,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 148217,
@@ -1041,14 +1121,6 @@
       "onboard_time": 1703813131,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119869,
-      "num": 119869,
-      "word": "不良人 恭迎大帅",
-      "onboard_time": 1703823636,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 119658,
@@ -1283,20 +1355,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 65162,
+      "num": 401412,
+      "word": "跨年来蛋仔派对分1亿",
+      "onboard_time": 1703822852,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 60517,
       "num": 78784,
       "word": "捐献者15年不换手机号成功救人一命",
       "onboard_time": 1703759913,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 59582,
-      "num": 388915,
-      "word": "跨年来蛋仔派对分1亿",
-      "onboard_time": 1703822852,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 58353,
