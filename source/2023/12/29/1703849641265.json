@@ -1,0 +1,410 @@
+{
+  "runTime": 1703849641265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1833280,
+        "num": 1833280,
+        "word": "董军任国防部部长",
+        "onboard_time": 1703846972,
+        "rank": 0,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 436790,
+        "num": 1781295,
+        "word": "女子因思念亡父泪崩被6岁女儿治愈",
+        "onboard_time": 1703843433,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39957,
+        "num": 1755066,
+        "word": "雪龙号抵达长城站",
+        "onboard_time": 1703842593,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1743119,
+        "num": 1743119,
+        "word": "下班了 今年的苦就吃到这里了",
+        "onboard_time": 1703843791,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233787,
+        "num": 1424539,
+        "word": "南方小土豆被东北大姨拉手手系围巾",
+        "onboard_time": 1703832332,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1168254,
+        "num": 1168254,
+        "word": "阿里被判赔京东10亿",
+        "onboard_time": 1703841630,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 590020,
+        "num": 590020,
+        "word": "中医不相信张远38岁了",
+        "onboard_time": 1703841272,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525892,
+        "num": 525892,
+        "word": "EXO初雪获音银一位",
+        "onboard_time": 1703849252,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459230,
+        "num": 459230,
+        "word": "旭旭宝宝 复播",
+        "onboard_time": 1703846972,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 294440,
+        "num": 294440,
+        "word": "郑秀妍郑秀晶cha新歌差点打起来",
+        "onboard_time": 1703844513,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 678239,
+        "num": 290041,
+        "word": "结婚的好处",
+        "onboard_time": 1703844393,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340695,
+        "num": 287179,
+        "word": "李善均出殡现场全慧珍痛哭",
+        "onboard_time": 1703839112,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318242,
+        "num": 286330,
+        "word": "正主卖cp 真嫂子没眼看",
+        "onboard_time": 1703829512,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276298,
+        "num": 276298,
+        "word": "堵车",
+        "onboard_time": 1703846132,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18584,
+        "num": 276056,
+        "word": "新年有新意",
+        "onboard_time": 1703847633,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 276048,
+        "num": 276048,
+        "word": "熟人作案 影视化",
+        "onboard_time": 1703836353,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146106,
+        "num": 275330,
+        "word": "小伙9年无偿献血20次",
+        "onboard_time": 1703843433,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275204,
+        "num": 275204,
+        "word": "唐嫣 这里是酒吧",
+        "onboard_time": 1703849011,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270512,
+        "num": 270512,
+        "word": "两家单位拒收人民币现金被罚",
+        "onboard_time": 1703847274,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 155509,
+        "num": 255168,
+        "word": "丫丫雪地大口大口干饭",
+        "onboard_time": 1703846733,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249582,
+        "num": 249582,
+        "word": "杨迪吐槽的是哪个综艺",
+        "onboard_time": 1703843013,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233088,
+        "num": 233088,
+        "word": "易建联球衣退役仪式",
+        "onboard_time": 1703847452,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231652,
+        "num": 231652,
+        "word": "在北欧打工9年被同事举报1000次",
+        "onboard_time": 1703846613,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219735,
+        "num": 219735,
+        "word": "藏海传官微开通",
+        "onboard_time": 1703843733,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192611,
+        "num": 192611,
+        "word": "BLACKPINK个人不与YG续约",
+        "onboard_time": 1703824236,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188730,
+        "num": 188730,
+        "word": "许光汉现身李善均灵堂哀悼",
+        "onboard_time": 1703840672,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169582,
+        "num": 169582,
+        "word": "张杰跨年演唱会",
+        "onboard_time": 1703833412,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156206,
+        "num": 156206,
+        "word": "招商银行向员工逆向讨薪近6000万",
+        "onboard_time": 1703831193,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153928,
+        "num": 153928,
+        "word": "不良人",
+        "onboard_time": 1703849612,
+        "rank": 28,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 137028,
+        "num": 137028,
+        "word": "换乘恋爱3开播",
+        "onboard_time": 1703844932,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190830,
+        "num": 136527,
+        "word": "支原体肺炎明显症状 爆咳",
+        "onboard_time": 1703849311,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137574,
+        "num": 136329,
+        "word": "一个演的不像一个不像演的",
+        "onboard_time": 1703848890,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135060,
+        "num": 135060,
+        "word": "孟羽童发声",
+        "onboard_time": 1703814872,
+        "rank": 32,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 134268,
+        "num": 134268,
+        "word": "99元羽绒服商家回应品质问题",
+        "onboard_time": 1703844091,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133081,
+        "num": 133081,
+        "word": "王一博万物可爱短片",
+        "onboard_time": 1703845653,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132206,
+        "num": 132206,
+        "word": "阿里回应被判赔京东10亿",
+        "onboard_time": 1703843971,
+        "rank": 35,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 124223,
+        "num": 124223,
+        "word": "张钰琪毕业回国",
+        "onboard_time": 1703828072,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123386,
+        "num": 123386,
+        "word": "胡歌除了自拍谁拍都帅",
+        "onboard_time": 1703834013,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123179,
+        "num": 123179,
+        "word": "何炅居然是i人",
+        "onboard_time": 1703833531,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121751,
+        "num": 121751,
+        "word": "时代少年团空降超话",
+        "onboard_time": 1703847572,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118053,
+        "num": 118053,
+        "word": "上交所通报兴业银行股价异常",
+        "onboard_time": 1703845473,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112078,
+        "num": 112078,
+        "word": "鸣龙十一班脱下校服颜值加倍",
+        "onboard_time": 1703845291,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104217,
+        "num": 104217,
+        "word": "狼队 我破防了",
+        "onboard_time": 1703834972,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102849,
+        "num": 102849,
+        "word": "孙颖莎体能比武",
+        "onboard_time": 1703846253,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101184,
+        "num": 101184,
+        "word": "一家8口住酒店称很划算准备住一辈子",
+        "onboard_time": 1703820752,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100337,
+        "num": 100337,
+        "word": "井柏然方打假",
+        "onboard_time": 1703847153,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98902,
+        "num": 98902,
+        "word": "一次性让三位明星化妆师爆改",
+        "onboard_time": 1703846253,
+        "rank": 46,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 98718,
+        "num": 98718,
+        "word": "冥河水母",
+        "onboard_time": 1703840731,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 96514,
+        "num": 96514,
+        "word": "清华逐步实现校园常态化开放",
+        "onboard_time": 1703846190,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 94558,
+        "num": 94558,
+        "word": "花椒直播被要求整改",
+        "onboard_time": 1703847991,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色大国外交踏上新征程#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703848517002,
+  "endTime": 1703849641265,
   "band_list": [
     {
       "raw_hot": 2773795,
@@ -41,6 +41,14 @@
       "onboard_time": 1703843791,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1833280,
+      "num": 1833280,
+      "word": "董军任国防部部长",
+      "onboard_time": 1703846972,
+      "rank": 3,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 1782501,
@@ -97,14 +105,6 @@
       "onboard_time": 1703841272,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1255312,
-      "num": 1255312,
-      "word": "董军任国防部部长",
-      "onboard_time": 1703846972,
-      "rank": 3,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 1180990,
@@ -441,6 +441,14 @@
       "onboard_time": 1703824776,
       "rank": 9,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 525892,
+      "num": 525892,
+      "word": "EXO初雪获音银一位",
+      "onboard_time": 1703849252,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 518602,
@@ -812,7 +820,7 @@
     },
     {
       "raw_hot": 288056,
-      "num": 1371998,
+      "num": 1424539,
       "word": "南方小土豆被东北大姨拉手手系围巾",
       "onboard_time": 1703832332,
       "rank": 26,
@@ -843,12 +851,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 275204,
+      "num": 275204,
+      "word": "唐嫣 这里是酒吧",
+      "onboard_time": 1703849011,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275087,
       "num": 275087,
       "word": "2023年的班就上到这里",
       "onboard_time": 1703813611,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270512,
+      "num": 270512,
+      "word": "两家单位拒收人民币现金被罚",
+      "onboard_time": 1703847274,
+      "rank": 30,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 269207,
@@ -955,6 +979,22 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 233088,
+      "num": 233088,
+      "word": "易建联球衣退役仪式",
+      "onboard_time": 1703847452,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 231652,
+      "num": 231652,
+      "word": "在北欧打工9年被同事举报1000次",
+      "onboard_time": 1703846613,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230947,
       "num": 230947,
       "word": "陈奕迅跨年演唱会被曝强退门票",
@@ -1035,14 +1075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217499,
-      "num": 217499,
-      "word": "易建联球衣退役仪式",
-      "onboard_time": 1703847452,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 216046,
       "num": 190382,
       "word": "双胞胎互相脱袜子",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1703772576,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213815,
-      "num": 145535,
-      "word": "两家单位拒收人民币现金被罚",
-      "onboard_time": 1703847274,
-      "rank": 30,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 213015,
@@ -1161,14 +1185,6 @@
       "onboard_time": 1703830893,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 203039,
-      "num": 203039,
-      "word": "在北欧打工9年被同事举报1000次",
-      "onboard_time": 1703846613,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202926,
@@ -1289,6 +1305,14 @@
       "onboard_time": 1703824656,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190830,
+      "num": 136527,
+      "word": "支原体肺炎明显症状 爆咳",
+      "onboard_time": 1703849311,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 190720,
@@ -1659,12 +1683,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155509,
+      "num": 255168,
+      "word": "丫丫雪地大口大口干饭",
+      "onboard_time": 1703846733,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154070,
       "num": 154070,
       "word": "万物可爱",
       "onboard_time": 1703825557,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153928,
+      "num": 153928,
+      "word": "不良人",
+      "onboard_time": 1703849612,
+      "rank": 28,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 152351,
@@ -1713,14 +1753,6 @@
       "onboard_time": 1703822376,
       "rank": 44,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 145453,
-      "num": 145453,
-      "word": "丫丫雪地大口大口干饭",
-      "onboard_time": 1703846733,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144644,
@@ -1825,6 +1857,14 @@
       "onboard_time": 1703784619,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137574,
+      "num": 136329,
+      "word": "一个演的不像一个不像演的",
+      "onboard_time": 1703848890,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 136807,
@@ -2179,6 +2219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98902,
+      "num": 98902,
+      "word": "一次性让三位明星化妆师爆改",
+      "onboard_time": 1703846253,
+      "rank": 46,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 98699,
       "num": 87221,
       "word": "太把奢侈品当成奢侈品",
@@ -2515,6 +2563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 18584,
+      "num": 360893,
+      "word": "新年有新意",
+      "onboard_time": 1703847633,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 14741,
       "num": 14741,
       "word": "春花厌全阵容",
@@ -2529,14 +2585,6 @@
       "onboard_time": 1703793254,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 9651,
-      "num": 360893,
-      "word": "新年有新意",
-      "onboard_time": 1703847633,
-      "rank": 14,
-      "category": "汽车"
     }
   ],
   "hotgov_list": [
