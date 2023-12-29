@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703835243626,
+  "endTime": 1703838061535,
   "band_list": [
     {
       "raw_hot": 2773795,
@@ -219,6 +219,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 646824,
+      "num": 646824,
+      "word": "胡歌除了自拍谁拍都帅",
+      "onboard_time": 1703834013,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 641686,
       "num": 641686,
       "word": "抗癌宝贝毅玲去世",
@@ -241,6 +249,14 @@
       "onboard_time": 1703820931,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629815,
+      "num": 629815,
+      "word": "何炅居然是i人",
+      "onboard_time": 1703833531,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 598210,
@@ -267,20 +283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 580610,
+      "num": 580610,
+      "word": "对线下追星没什么欲望",
+      "onboard_time": 1703832451,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 571882,
       "num": 571882,
       "word": "罗翔 我可没说过",
       "onboard_time": 1703775515,
       "rank": 6,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 567421,
-      "num": 567421,
-      "word": "对线下追星没什么欲望",
-      "onboard_time": 1703832451,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 566943,
@@ -307,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 555623,
+      "num": 555623,
+      "word": "2024年全国两会召开时间",
+      "onboard_time": 1703834852,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 546050,
       "num": 546050,
       "word": "武汉大学书画大赛获奖44人39人为干部",
@@ -329,14 +353,6 @@
       "onboard_time": 1703821832,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 530591,
-      "num": 530591,
-      "word": "何炅居然是i人",
-      "onboard_time": 1703833531,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 529155,
@@ -403,6 +419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 448732,
+      "num": 448732,
+      "word": "狼队 我破防了",
+      "onboard_time": 1703834972,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 445880,
       "num": 445880,
       "word": "武艺 不知道什么时候喜欢我的人就少了",
@@ -417,6 +441,14 @@
       "onboard_time": 1703810672,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 434069,
+      "num": 434069,
+      "word": "王嘉尔 从练习生到老板",
+      "onboard_time": 1703835031,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 431622,
@@ -467,8 +499,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 393422,
-      "num": 393422,
+      "raw_hot": 398009,
+      "num": 398009,
       "word": "甘肃村民收到赈灾加拿大鹅称不会卖",
       "onboard_time": 1703832032,
       "rank": 15,
@@ -539,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353947,
+      "num": 353947,
+      "word": "兴业银行尾盘直线涨停",
+      "onboard_time": 1703835334,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 353363,
       "num": 353363,
       "word": "辛芷蕾想当母女 赵昭仪想当姐妹",
@@ -553,6 +593,14 @@
       "onboard_time": 1703820333,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 350002,
+      "num": 350002,
+      "word": "女子花575万公款请大师绑姻缘获刑5年",
+      "onboard_time": 1703833652,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345885,
@@ -603,11 +651,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320441,
-      "num": 320441,
-      "word": "胡歌除了自拍谁拍都帅",
-      "onboard_time": 1703834013,
-      "rank": 37,
+      "raw_hot": 322622,
+      "num": 322622,
+      "word": "熟人作案 影视化",
+      "onboard_time": 1703836353,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -619,28 +667,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 311102,
-      "num": 311102,
-      "word": "女子花575万公款请大师绑姻缘获刑5年",
-      "onboard_time": 1703833652,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299328,
       "num": 299328,
       "word": "康康都一米八了",
       "onboard_time": 1703757633,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293621,
-      "num": 293621,
-      "word": "2024年全国两会召开时间",
-      "onboard_time": 1703834852,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 292460,
@@ -744,6 +776,14 @@
       "word": "在暴雪时分",
       "onboard_time": 1703824416,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 241022,
+      "num": 241022,
+      "word": "天启异闻录定档",
+      "onboard_time": 1703837193,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -1059,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186666,
+      "num": 186666,
+      "word": "黑执事 貌美的少爷",
+      "onboard_time": 1703834430,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 184864,
       "num": 187750,
       "word": "谭棉花组合一年300多天都在一起",
@@ -1067,12 +1115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184602,
+      "num": 180889,
+      "word": "国乒体能大比武",
+      "onboard_time": 1703837732,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182888,
       "num": 182888,
       "word": "张译说非诚勿扰3太疯了",
       "onboard_time": 1703820156,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182371,
+      "num": 182371,
+      "word": "湖南跨年晚会彩排路透",
+      "onboard_time": 1703835152,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 181463,
@@ -1089,14 +1153,6 @@
       "onboard_time": 1703766513,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179220,
-      "num": 179220,
-      "word": "狼队 我破防了",
-      "onboard_time": 1703834972,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 178748,
@@ -1227,12 +1283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163016,
-      "num": 163016,
-      "word": "王嘉尔 从练习生到老板",
-      "onboard_time": 1703835031,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 162604,
+      "num": 162604,
+      "word": "化妆冷知识",
+      "onboard_time": 1703837732,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 161871,
@@ -1249,6 +1305,14 @@
       "onboard_time": 1703823935,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 160806,
+      "num": 361420,
+      "word": "今天星期五有事明年再说",
+      "onboard_time": 1703834613,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 160790,
@@ -1353,6 +1417,14 @@
       "onboard_time": 1703753435,
       "rank": 30,
       "category": "剧集,读书作家"
+    },
+    {
+      "raw_hot": 147095,
+      "num": 147095,
+      "word": "2023IVL秋季赛",
+      "onboard_time": 1703837852,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 145552,
@@ -1531,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126761,
+      "num": 126761,
+      "word": "2023年A股红盘收官",
+      "onboard_time": 1703836289,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 125917,
       "num": 125917,
       "word": "致敬每一个拼过2023的平凡人",
@@ -1611,14 +1691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115640,
-      "num": 115640,
-      "word": "湖南跨年晚会彩排路透",
-      "onboard_time": 1703835152,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115184,
       "num": 115184,
       "word": "家的不同形态",
@@ -1667,6 +1739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106157,
+      "num": 106157,
+      "word": "小女孩疯狂拆礼物",
+      "onboard_time": 1703835211,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105990,
       "num": 105592,
       "word": "鸣龙少年 十一班招生大屏",
@@ -1691,11 +1771,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 102742,
-      "num": 102742,
-      "word": "小女孩疯狂拆礼物",
-      "onboard_time": 1703835211,
-      "rank": 48,
+      "raw_hot": 104001,
+      "num": 104001,
+      "word": "当小狗用这种眼神看着你",
+      "onboard_time": 1703837971,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -1859,14 +1939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 60561,
-      "num": 361420,
-      "word": "今天星期五有事明年再说",
-      "onboard_time": 1703834613,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 60517,
       "num": 78784,
       "word": "捐献者15年不换手机号成功救人一命",
@@ -1892,7 +1964,7 @@
     },
     {
       "raw_hot": 49498,
-      "num": 120254,
+      "num": 392860,
       "word": "这周边怎么喝能拿全",
       "onboard_time": 1703827955,
       "rank": 49,

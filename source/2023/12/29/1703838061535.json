@@ -1,0 +1,410 @@
+{
+  "runTime": 1703838061535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1628099,
+        "num": 1628099,
+        "word": "正主卖cp 真嫂子没眼看",
+        "onboard_time": 1703829512,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1008949,
+        "num": 1008949,
+        "word": "招商银行向员工逆向讨薪近6000万",
+        "onboard_time": 1703831193,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24651,
+        "num": 865870,
+        "word": "2023那些被瞬间治愈的时刻",
+        "onboard_time": 1703808028,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865707,
+        "num": 865707,
+        "word": "顾客摸草莓不买遭商家泼水",
+        "onboard_time": 1703828614,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646824,
+        "num": 646824,
+        "word": "胡歌除了自拍谁拍都帅",
+        "onboard_time": 1703834013,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 629815,
+        "num": 629815,
+        "word": "何炅居然是i人",
+        "onboard_time": 1703833531,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601490,
+        "num": 601490,
+        "word": "张钰琪毕业回国",
+        "onboard_time": 1703828072,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580610,
+        "num": 580610,
+        "word": "对线下追星没什么欲望",
+        "onboard_time": 1703832451,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 555623,
+        "num": 555623,
+        "word": "2024年全国两会召开时间",
+        "onboard_time": 1703834852,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448732,
+        "num": 448732,
+        "word": "狼队 我破防了",
+        "onboard_time": 1703834972,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 529275,
+        "num": 444545,
+        "word": "孟羽童发声",
+        "onboard_time": 1703814872,
+        "rank": 10,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 434069,
+        "num": 434069,
+        "word": "王嘉尔 从练习生到老板",
+        "onboard_time": 1703835031,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398009,
+        "num": 398009,
+        "word": "甘肃村民收到赈灾加拿大鹅称不会卖",
+        "onboard_time": 1703832032,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396712,
+        "num": 396712,
+        "word": "母亲含泪喂被拐35年男子儿时吃过的蜂蜜",
+        "onboard_time": 1703820931,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34615,
+        "num": 392860,
+        "word": "这周边怎么喝能拿全",
+        "onboard_time": 1703827955,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 392371,
+        "num": 392371,
+        "word": "BLACKPINK个人不与YG续约",
+        "onboard_time": 1703824236,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353947,
+        "num": 353947,
+        "word": "兴业银行尾盘直线涨停",
+        "onboard_time": 1703835334,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 350002,
+        "num": 350002,
+        "word": "女子花575万公款请大师绑姻缘获刑5年",
+        "onboard_time": 1703833652,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344578,
+        "num": 344578,
+        "word": "山西一小区上百人中毒",
+        "onboard_time": 1703831312,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322622,
+        "num": 322622,
+        "word": "熟人作案 影视化",
+        "onboard_time": 1703836353,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302934,
+        "num": 302934,
+        "word": "一家8口住酒店称很划算准备住一辈子",
+        "onboard_time": 1703820752,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241022,
+        "num": 241022,
+        "word": "天启异闻录定档",
+        "onboard_time": 1703837193,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234729,
+        "num": 234729,
+        "word": "何猷君抽中香港澳门一日游",
+        "onboard_time": 1703822556,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226842,
+        "num": 226842,
+        "word": "老林黎洛离队",
+        "onboard_time": 1703834312,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220145,
+        "num": 220145,
+        "word": "女子急诊科猝死家属质疑护士玩手机",
+        "onboard_time": 1703822253,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201897,
+        "num": 201897,
+        "word": "期末考官是胡歌",
+        "onboard_time": 1703825018,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186666,
+        "num": 186666,
+        "word": "黑执事 貌美的少爷",
+        "onboard_time": 1703834430,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 185602,
+        "num": 185602,
+        "word": "特斯拉官方暗讽理想汽车",
+        "onboard_time": 1703827895,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 184327,
+        "num": 184327,
+        "word": "肖战晒图了",
+        "onboard_time": 1703826756,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182371,
+        "num": 182371,
+        "word": "湖南跨年晚会彩排路透",
+        "onboard_time": 1703835152,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184602,
+        "num": 180889,
+        "word": "国乒体能大比武",
+        "onboard_time": 1703837732,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178899,
+        "num": 178899,
+        "word": "3娃非亲生案女方要求分割房产",
+        "onboard_time": 1703829452,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176129,
+        "num": 176129,
+        "word": "庄达菲 我人生中第一部电影",
+        "onboard_time": 1703834734,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168845,
+        "num": 168845,
+        "word": "iPhone遭遇史上最复杂攻击",
+        "onboard_time": 1703817630,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162604,
+        "num": 162604,
+        "word": "化妆冷知识",
+        "onboard_time": 1703837732,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 160806,
+        "num": 160806,
+        "word": "今天星期五有事明年再说",
+        "onboard_time": 1703834613,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147095,
+        "num": 147095,
+        "word": "2023IVL秋季赛",
+        "onboard_time": 1703837852,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146383,
+        "num": 146383,
+        "word": "老板娘 这次我真是自愿加班的",
+        "onboard_time": 1703822073,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129272,
+        "num": 129272,
+        "word": "王源 双开门儿童",
+        "onboard_time": 1703827055,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128048,
+        "num": 128048,
+        "word": "容祖儿 我很欣赏你们演社恐的演技",
+        "onboard_time": 1703830893,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126761,
+        "num": 126761,
+        "word": "2023年A股红盘收官",
+        "onboard_time": 1703836289,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125747,
+        "num": 125747,
+        "word": "南方小土豆被东北大姨拉手手系围巾",
+        "onboard_time": 1703832332,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120301,
+        "num": 120301,
+        "word": "你愿意不买房住酒店一辈子吗",
+        "onboard_time": 1703830232,
+        "rank": 42,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 120198,
+        "num": 120198,
+        "word": "张杰跨年演唱会",
+        "onboard_time": 1703833412,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115605,
+        "num": 115605,
+        "word": "武艺 不知道什么时候喜欢我的人就少了",
+        "onboard_time": 1703824056,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111492,
+        "num": 111492,
+        "word": "肠胃不好或会让你变丑",
+        "onboard_time": 1703824835,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110926,
+        "num": 110926,
+        "word": "周也 冷脸千金",
+        "onboard_time": 1703827294,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107398,
+        "num": 107398,
+        "word": "刘亦菲周冬雨G社生图",
+        "onboard_time": 1703820333,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106157,
+        "num": 106157,
+        "word": "小女孩疯狂拆礼物",
+        "onboard_time": 1703835211,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104001,
+        "num": 104001,
+        "word": "当小狗用这种眼神看着你",
+        "onboard_time": 1703837971,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色大国外交踏上新征程#"
+    }
+  }
+}
