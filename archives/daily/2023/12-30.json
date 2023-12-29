@@ -1,6 +1,6 @@
 {
   "startTime": 1703867016595,
-  "endTime": 1703888197011,
+  "endTime": 1703889256807,
   "band_list": [
     {
       "raw_hot": 1302988,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 298387,
-      "num": 248052,
+      "num": 278427,
       "word": "女子因不孕离婚后逃离家乡小城",
       "onboard_time": 1703856936,
       "rank": 21,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203247,
+      "num": 203247,
+      "word": "官方通报一小区上百居民呕吐腹泻",
+      "onboard_time": 1703884274,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202621,
       "num": 202621,
       "word": "唐嫣 这里是酒吧",
@@ -209,14 +217,6 @@
       "onboard_time": 1703863292,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157101,
-      "num": 157101,
-      "word": "官方通报一小区上百居民呕吐腹泻",
-      "onboard_time": 1703884274,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154104,
@@ -443,6 +443,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 56283,
+      "num": 56283,
+      "word": "自来水公司回应上百人疑因水中毒",
+      "onboard_time": 1703886913,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41680,
       "num": 1029325,
       "word": "2023这些凡人微光照亮前路",
@@ -451,36 +459,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28841,
-      "num": 28841,
-      "word": "自来水公司回应上百人疑因水中毒",
-      "onboard_time": 1703886913,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25756,
-      "num": 25756,
+      "raw_hot": 31814,
+      "num": 31814,
       "word": "杨紫出发海口",
       "onboard_time": 1703884993,
       "rank": 40,
       "category": "艺人"
     },
     {
-      "raw_hot": 23234,
-      "num": 23234,
+      "raw_hot": 28972,
+      "num": 28972,
       "word": "高敏感是一种天赋",
       "onboard_time": 1703884695,
       "rank": 33,
       "category": "情感"
     },
     {
-      "raw_hot": 22809,
-      "num": 23718,
+      "raw_hot": 25458,
+      "num": 27737,
       "word": "千年古树有70多个巨大蜂巢",
       "onboard_time": 1703882894,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23628,
+      "num": 23628,
+      "word": "周深不知道怎么当上的哥哥",
+      "onboard_time": 1703887695,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 20843,
+      "num": 20843,
+      "word": "山东人能把一碗面做到多精致",
+      "onboard_time": 1703881694,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 20232,
@@ -499,28 +515,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 19406,
-      "num": 19406,
-      "word": "山东人能把一碗面做到多精致",
-      "onboard_time": 1703881694,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 16280,
-      "num": 16280,
-      "word": "周深不知道怎么当上的哥哥",
-      "onboard_time": 1703887695,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 13645,
-      "num": 13645,
+      "raw_hot": 14711,
+      "num": 17549,
       "word": "瘦小肚腩最炸裂的组合",
       "onboard_time": 1703886855,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 14264,
+      "num": 17526,
+      "word": "为什么血管有斑块的年轻人变多了",
+      "onboard_time": 1703889136,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12465,
