@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703817330975,
+  "endTime": 1703819917108,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -579,6 +579,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1571867,
+      "num": 1571867,
+      "word": "地铁帅哥",
+      "onboard_time": 1703817151,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1532322,
       "num": 1532322,
       "word": "上海宝格丽酒店跨年夜房费高达30余万",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1703494719,
       "rank": 10,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1052132,
+      "num": 1052132,
+      "word": "iPhone遭遇史上最复杂攻击",
+      "onboard_time": 1703817630,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 1051362,
@@ -3003,6 +3019,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 538520,
+      "num": 538520,
+      "word": "南方小土豆想吃麻辣烫司机动用人脉打听",
+      "onboard_time": 1703813731,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 538328,
       "num": 538328,
       "word": "多个经纪公司招聘艺人助理月薪不过万",
@@ -3569,14 +3593,6 @@
       "onboard_time": 1703509477,
       "rank": 21,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 463667,
-      "num": 463667,
-      "word": "南方小土豆想吃麻辣烫司机动用人脉打听",
-      "onboard_time": 1703813731,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462033,
@@ -4467,6 +4483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376733,
+      "num": 376733,
+      "word": "孙千行李",
+      "onboard_time": 1703817392,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376498,
       "num": 376498,
       "word": "温太医张晓龙真的拜高人学切脉学中医",
@@ -4537,6 +4561,14 @@
       "onboard_time": 1703460445,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 368331,
+      "num": 368331,
+      "word": "全面禁售禁燃烟花爆竹规定应予修改",
+      "onboard_time": 1703816192,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367813,
@@ -4641,14 +4673,6 @@
       "onboard_time": 1703596413,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 354305,
-      "num": 354305,
-      "word": "全面禁售禁燃烟花爆竹规定应予修改",
-      "onboard_time": 1703816192,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353799,
@@ -4803,6 +4827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 338969,
+      "num": 338969,
+      "word": "天天本人玩梗跺脚表情包",
+      "onboard_time": 1703816249,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338536,
       "num": 338536,
       "word": "张译杨紫豆瓣年度扛剧演员",
@@ -4857,14 +4889,6 @@
       "onboard_time": 1703705594,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 333161,
-      "num": 333161,
-      "word": "天天本人玩梗跺脚表情包",
-      "onboard_time": 1703816249,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 331730,
@@ -5585,6 +5609,14 @@
       "onboard_time": 1703682632,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 286148,
+      "num": 286148,
+      "word": "亲人患癌离世7年后他开共享厨房",
+      "onboard_time": 1703818411,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285528,
@@ -7123,6 +7155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223679,
+      "num": 223679,
+      "word": "王一博出发参加跨年晚会",
+      "onboard_time": 1703818951,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223348,
       "num": 223348,
       "word": "上海迪士尼疯狂动物城遭遇了什么",
@@ -7219,6 +7259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219589,
+      "num": 219589,
+      "word": "武艺说孙千你好高",
+      "onboard_time": 1703819612,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219417,
       "num": 219417,
       "word": "古偶男主101",
@@ -7241,6 +7289,14 @@
       "onboard_time": 1703476476,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219044,
+      "num": 188187,
+      "word": "刘嘉玲梁朝伟 经纪人代班正主",
+      "onboard_time": 1703819492,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 218421,
@@ -8267,6 +8323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196477,
+      "num": 196477,
+      "word": "豆瓣2023评分最高华语剧集",
+      "onboard_time": 1703818533,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196409,
       "num": 196409,
       "word": "张杰未你好吗跨年演唱会",
@@ -8529,6 +8593,14 @@
       "onboard_time": 1703559277,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192763,
+      "num": 192763,
+      "word": "戚薇玩甄姬一杠十",
+      "onboard_time": 1703817630,
+      "rank": 28,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 192308,
@@ -8889,6 +8961,14 @@
       "onboard_time": 1703639737,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 185391,
+      "num": 185391,
+      "word": "华为预计23年营收超7000亿元",
+      "onboard_time": 1703819313,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 184415,
@@ -9713,6 +9793,14 @@
       "onboard_time": 1703733213,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 168556,
+      "num": 168556,
+      "word": "蒲熠星的狗跑个马拉松胖2斤",
+      "onboard_time": 1703816852,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 168386,
@@ -11395,6 +11483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142797,
+      "num": 230181,
+      "word": "刘亦菲2024新年祝福",
+      "onboard_time": 1703817689,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142615,
       "num": 142615,
       "word": "职场人一天的面积",
@@ -11433,6 +11529,14 @@
       "onboard_time": 1703416657,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 141971,
+      "num": 141971,
+      "word": "春花厌开机捧花照 人设暗示",
+      "onboard_time": 1703819132,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 141966,
@@ -11721,14 +11825,6 @@
       "onboard_time": 1703669196,
       "rank": 37,
       "category": "作品衍生,游戏"
-    },
-    {
-      "raw_hot": 136888,
-      "num": 136888,
-      "word": "蒲熠星的狗跑个马拉松胖2斤",
-      "onboard_time": 1703816852,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 136785,
@@ -12097,6 +12193,14 @@
       "onboard_time": 1703758717,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131616,
+      "num": 131616,
+      "word": "烟花",
+      "onboard_time": 1703818053,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131567,
@@ -12739,14 +12843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122855,
-      "num": 122855,
-      "word": "地铁帅哥",
-      "onboard_time": 1703817151,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 122640,
       "num": 122640,
       "word": "水晶牛肉冻",
@@ -12987,6 +13083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118559,
+      "num": 118559,
+      "word": "活塞vs凯尔特人",
+      "onboard_time": 1703819612,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118511,
       "num": 118511,
       "word": "萌兰眼疾手快接笋笋",
@@ -13203,6 +13307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114862,
+      "num": 114862,
+      "word": "动视暴雪CEO今日离职",
+      "onboard_time": 1703819792,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114694,
       "num": 114694,
       "word": "张若昀挨巴掌演技",
@@ -13375,6 +13487,14 @@
       "num": 111712,
       "word": "这一截小狗算是被你玩明白了",
       "onboard_time": 1703464775,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 110870,
+      "num": 110870,
+      "word": "小猫的年终总结",
+      "onboard_time": 1703818172,
       "rank": 48,
       "category": "幽默"
     },
@@ -14195,6 +14315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67669,
+      "num": 1225170,
+      "word": "2023那些被瞬间治愈的时刻",
+      "onboard_time": 1703808028,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66950,
       "num": 375730,
       "word": "天猫过节三件套成为新流行",
@@ -14545,6 +14673,14 @@
       "onboard_time": 1703459723,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41859,
+      "num": 351351,
+      "word": "元梦之星蜡笔小新怎么获得",
+      "onboard_time": 1703818831,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 41777,

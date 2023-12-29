@@ -1,0 +1,410 @@
+{
+  "runTime": 1703819917108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2457872,
+        "num": 2457872,
+        "word": "孟羽童发声",
+        "onboard_time": 1703814872,
+        "rank": 0,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 1571867,
+        "num": 1571867,
+        "word": "地铁帅哥",
+        "onboard_time": 1703817151,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67669,
+        "num": 1225170,
+        "word": "2023那些被瞬间治愈的时刻",
+        "onboard_time": 1703808028,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1052132,
+        "num": 1052132,
+        "word": "iPhone遭遇史上最复杂攻击",
+        "onboard_time": 1703817630,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 733271,
+        "num": 733271,
+        "word": "削皮草莓",
+        "onboard_time": 1703807848,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 903516,
+        "num": 713819,
+        "word": "上海宝格丽酒店跨年夜房费高达30余万",
+        "onboard_time": 1703812771,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 673713,
+        "num": 673713,
+        "word": "82岁院士自曝每天熬夜到2点",
+        "onboard_time": 1703813131,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562164,
+        "num": 562164,
+        "word": "古茗莲花楼 喝到了",
+        "onboard_time": 1703810431,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538520,
+        "num": 538520,
+        "word": "南方小土豆想吃麻辣烫司机动用人脉打听",
+        "onboard_time": 1703813731,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514923,
+        "num": 514923,
+        "word": "肖战嘉人开年刊封面",
+        "onboard_time": 1703816551,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 520416,
+        "num": 490220,
+        "word": "女子离职后把手机静音1年",
+        "onboard_time": 1703771014,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443126,
+        "num": 443126,
+        "word": "东莞业主600万买96平房现280万没人要",
+        "onboard_time": 1703813611,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376733,
+        "num": 376733,
+        "word": "孙千行李",
+        "onboard_time": 1703817392,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368331,
+        "num": 368331,
+        "word": "全面禁售禁燃烟花爆竹规定应予修改",
+        "onboard_time": 1703816192,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41859,
+        "num": 351351,
+        "word": "元梦之星蜡笔小新怎么获得",
+        "onboard_time": 1703818831,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 338969,
+        "num": 338969,
+        "word": "天天本人玩梗跺脚表情包",
+        "onboard_time": 1703816249,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324191,
+        "num": 324191,
+        "word": "余承东疑与雷军隔空打擂",
+        "onboard_time": 1703814752,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 286148,
+        "num": 286148,
+        "word": "亲人患癌离世7年后他开共享厨房",
+        "onboard_time": 1703818411,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277757,
+        "num": 277757,
+        "word": "辛芷蕾想当母女 赵昭仪想当姐妹",
+        "onboard_time": 1703815171,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248737,
+        "num": 248737,
+        "word": "美国缅因州禁止特朗普参加总统初选",
+        "onboard_time": 1703815290,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142797,
+        "num": 230181,
+        "word": "刘亦菲2024新年祝福",
+        "onboard_time": 1703817689,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349346,
+        "num": 229774,
+        "word": "小三最可恨了 但晚意一定有苦衷",
+        "onboard_time": 1703807667,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223679,
+        "num": 223679,
+        "word": "王一博出发参加跨年晚会",
+        "onboard_time": 1703818951,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219589,
+        "num": 219589,
+        "word": "武艺说孙千你好高",
+        "onboard_time": 1703819612,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212774,
+        "num": 212774,
+        "word": "天天跺脚表情包",
+        "onboard_time": 1703775693,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200769,
+        "num": 200769,
+        "word": "我知道我爱你 官博疯了",
+        "onboard_time": 1703777493,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196477,
+        "num": 196477,
+        "word": "豆瓣2023评分最高华语剧集",
+        "onboard_time": 1703818533,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196144,
+        "num": 196144,
+        "word": "papi酱 向电影市场道歉",
+        "onboard_time": 1703772818,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 192763,
+        "num": 192763,
+        "word": "戚薇玩甄姬一杠十",
+        "onboard_time": 1703817630,
+        "rank": 28,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 144594,
+        "num": 188830,
+        "word": "大熊猫强生风雪中思考熊生",
+        "onboard_time": 1703814030,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219044,
+        "num": 188187,
+        "word": "刘嘉玲梁朝伟 经纪人代班正主",
+        "onboard_time": 1703819492,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185391,
+        "num": 185391,
+        "word": "华为预计23年营收超7000亿元",
+        "onboard_time": 1703819313,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168556,
+        "num": 168556,
+        "word": "蒲熠星的狗跑个马拉松胖2斤",
+        "onboard_time": 1703816852,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151952,
+        "num": 151952,
+        "word": "雷军致敬车企仅华为未回应",
+        "onboard_time": 1703807127,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150020,
+        "num": 150020,
+        "word": "早睡1小时有哪些好处",
+        "onboard_time": 1703809052,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149956,
+        "num": 149956,
+        "word": "这三种水果的果皮营养堪比果肉",
+        "onboard_time": 1703813850,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141971,
+        "num": 141971,
+        "word": "春花厌开机捧花照 人设暗示",
+        "onboard_time": 1703819132,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136526,
+        "num": 136526,
+        "word": "繁花 明星带货",
+        "onboard_time": 1703808388,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131616,
+        "num": 131616,
+        "word": "烟花",
+        "onboard_time": 1703818053,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125972,
+        "num": 125972,
+        "word": "繁花",
+        "onboard_time": 1703814632,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121112,
+        "num": 121112,
+        "word": "2023年的班就上到这里",
+        "onboard_time": 1703813611,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120114,
+        "num": 120114,
+        "word": "辛芷蕾演我过年回家状态",
+        "onboard_time": 1703810672,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119629,
+        "num": 119629,
+        "word": "抗癌宝贝毅玲去世",
+        "onboard_time": 1703776893,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119295,
+        "num": 119295,
+        "word": "逆水寒 老登我半价券呢",
+        "onboard_time": 1703816071,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118559,
+        "num": 118559,
+        "word": "活塞vs凯尔特人",
+        "onboard_time": 1703819612,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29094,
+        "num": 115753,
+        "word": "新年有新E",
+        "onboard_time": 1703816132,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114862,
+        "num": 114862,
+        "word": "动视暴雪CEO今日离职",
+        "onboard_time": 1703819792,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112576,
+        "num": 112576,
+        "word": "刘亦菲文咏珊听到了什么",
+        "onboard_time": 1703811871,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110870,
+        "num": 110870,
+        "word": "小猫的年终总结",
+        "onboard_time": 1703818172,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110731,
+        "num": 110731,
+        "word": "武汉大学书画大赛获奖44人39人为干部",
+        "onboard_time": 1703808628,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和人民在一起的暖心瞬间#"
+    }
+  }
+}

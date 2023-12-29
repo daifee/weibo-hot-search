@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703817330975,
+  "endTime": 1703819917108,
   "band_list": [
     {
       "raw_hot": 2773795,
@@ -17,6 +17,14 @@
       "onboard_time": 1703807848,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1571867,
+      "num": 1571867,
+      "word": "地铁帅哥",
+      "onboard_time": 1703817151,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 1532322,
@@ -49,6 +57,14 @@
       "onboard_time": 1703807127,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1052132,
+      "num": 1052132,
+      "word": "iPhone遭遇史上最复杂攻击",
+      "onboard_time": 1703817630,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 945588,
@@ -171,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538520,
+      "num": 538520,
+      "word": "南方小土豆想吃麻辣烫司机动用人脉打听",
+      "onboard_time": 1703813731,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529155,
       "num": 529155,
       "word": "大爷以为胃病护士一个坚持救回一命",
@@ -201,14 +225,6 @@
       "onboard_time": 1703768432,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 463667,
-      "num": 463667,
-      "word": "南方小土豆想吃麻辣烫司机动用人脉打听",
-      "onboard_time": 1703813731,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 435837,
@@ -259,20 +275,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 376733,
+      "num": 376733,
+      "word": "孙千行李",
+      "onboard_time": 1703817392,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 368331,
+      "num": 368331,
+      "word": "全面禁售禁燃烟花爆竹规定应予修改",
+      "onboard_time": 1703816192,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355199,
       "num": 355199,
       "word": "亡夫三部曲",
       "onboard_time": 1703810493,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 354305,
-      "num": 354305,
-      "word": "全面禁售禁燃烟花爆竹规定应予修改",
-      "onboard_time": 1703816192,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353363,
@@ -283,20 +307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338969,
+      "num": 338969,
+      "word": "天天本人玩梗跺脚表情包",
+      "onboard_time": 1703816249,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337745,
       "num": 337745,
       "word": "只有郑恺被拍成了东北大姨",
       "onboard_time": 1703763932,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 333161,
-      "num": 333161,
-      "word": "天天本人玩梗跺脚表情包",
-      "onboard_time": 1703816249,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 331730,
@@ -352,6 +376,14 @@
       "word": "3娃非亲生案女方称我俩有感情",
       "onboard_time": 1703809772,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286148,
+      "num": 286148,
+      "word": "亲人患癌离世7年后他开共享厨房",
+      "onboard_time": 1703818411,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -435,6 +467,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223679,
+      "num": 223679,
+      "word": "王一博出发参加跨年晚会",
+      "onboard_time": 1703818951,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219589,
+      "num": 219589,
+      "word": "武艺说孙千你好高",
+      "onboard_time": 1703819612,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219044,
+      "num": 188187,
+      "word": "刘嘉玲梁朝伟 经纪人代班正主",
+      "onboard_time": 1703819492,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214421,
       "num": 151236,
       "word": "繁花商战剧情",
@@ -483,12 +539,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 196477,
+      "num": 196477,
+      "word": "豆瓣2023评分最高华语剧集",
+      "onboard_time": 1703818533,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192763,
+      "num": 192763,
+      "word": "戚薇玩甄姬一杠十",
+      "onboard_time": 1703817630,
+      "rank": 28,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 189534,
       "num": 132655,
       "word": "朱一龙第四个影帝",
       "onboard_time": 1703768972,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185391,
+      "num": 185391,
+      "word": "华为预计23年营收超7000亿元",
+      "onboard_time": 1703819313,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 180299,
@@ -545,6 +625,14 @@
       "onboard_time": 1703808330,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168556,
+      "num": 168556,
+      "word": "蒲熠星的狗跑个马拉松胖2斤",
+      "onboard_time": 1703816852,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 168264,
@@ -619,6 +707,14 @@
       "category": "剧集,读书作家"
     },
     {
+      "raw_hot": 142797,
+      "num": 230181,
+      "word": "刘亦菲2024新年祝福",
+      "onboard_time": 1703817689,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142468,
       "num": 142468,
       "word": "AG 复仇剧本",
@@ -632,6 +728,14 @@
       "word": "繁花镜头美学",
       "onboard_time": 1703811693,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141971,
+      "num": 141971,
+      "word": "春花厌开机捧花照 人设暗示",
+      "onboard_time": 1703819132,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -659,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136888,
-      "num": 136888,
-      "word": "蒲熠星的狗跑个马拉松胖2斤",
-      "onboard_time": 1703816852,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132949,
       "num": 132949,
       "word": "除夕三件套",
@@ -681,6 +777,14 @@
       "onboard_time": 1703813071,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 131616,
+      "num": 131616,
+      "word": "烟花",
+      "onboard_time": 1703818053,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131313,
@@ -723,14 +827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122855,
-      "num": 122855,
-      "word": "地铁帅哥",
-      "onboard_time": 1703817151,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 122772,
       "num": 122772,
       "word": "日本北海道地区发生6.4级地震",
@@ -755,6 +851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 118559,
+      "num": 118559,
+      "word": "活塞vs凯尔特人",
+      "onboard_time": 1703819612,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117873,
       "num": 117873,
       "word": "韩媒曝李善均身亡前细节",
@@ -769,6 +873,22 @@
       "onboard_time": 1703769815,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114862,
+      "num": 114862,
+      "word": "动视暴雪CEO今日离职",
+      "onboard_time": 1703819792,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 110870,
+      "num": 110870,
+      "word": "小猫的年终总结",
+      "onboard_time": 1703818172,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 110057,
@@ -947,6 +1067,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 67669,
+      "num": 1225170,
+      "word": "2023那些被瞬间治愈的时刻",
+      "onboard_time": 1703808028,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60517,
       "num": 78784,
       "word": "捐献者15年不换手机号成功救人一命",
@@ -961,6 +1089,14 @@
       "onboard_time": 1703749052,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 41859,
+      "num": 351351,
+      "word": "元梦之星蜡笔小新怎么获得",
+      "onboard_time": 1703818831,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 40073,
