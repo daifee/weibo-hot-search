@@ -1,6 +1,6 @@
 {
   "startTime": 1703780535813,
-  "endTime": 1703819917108,
+  "endTime": 1703820866166,
   "band_list": [
     {
       "raw_hot": 2773795,
@@ -19,8 +19,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1571867,
-      "num": 1571867,
+      "raw_hot": 1624393,
+      "num": 1624393,
       "word": "地铁帅哥",
       "onboard_time": 1703817151,
       "rank": 40,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1180990,
+      "num": 1180990,
+      "word": "iPhone遭遇史上最复杂攻击",
+      "onboard_time": 1703817630,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1088874,
       "num": 1088874,
       "word": "82岁院士自曝每天熬夜到2点",
@@ -57,14 +65,6 @@
       "onboard_time": 1703807127,
       "rank": 1,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1052132,
-      "num": 1052132,
-      "word": "iPhone遭遇史上最复杂攻击",
-      "onboard_time": 1703817630,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 945588,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 503880,
+      "num": 503880,
+      "word": "刘嘉玲梁朝伟 经纪人代班正主",
+      "onboard_time": 1703819492,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 480535,
       "num": 480535,
       "word": "25至29岁年龄段未婚率超50%",
@@ -259,6 +267,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 404621,
+      "num": 404621,
+      "word": "孙千行李",
+      "onboard_time": 1703817392,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387202,
       "num": 387202,
       "word": "关门吻",
@@ -273,14 +289,6 @@
       "onboard_time": 1703769093,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 376733,
-      "num": 376733,
-      "word": "孙千行李",
-      "onboard_time": 1703817392,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 368331,
@@ -305,6 +313,14 @@
       "onboard_time": 1703815171,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345885,
+      "num": 345885,
+      "word": "亲人患癌离世7年后他开共享厨房",
+      "onboard_time": 1703818411,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338969,
@@ -379,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286148,
-      "num": 286148,
-      "word": "亲人患癌离世7年后他开共享厨房",
-      "onboard_time": 1703818411,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280136,
       "num": 280136,
       "word": "向太宣布将出售耗时十年建成豪宅",
@@ -425,6 +433,22 @@
       "onboard_time": 1703811271,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 256164,
+      "num": 256164,
+      "word": "王一博出发参加跨年晚会",
+      "onboard_time": 1703818951,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246084,
+      "num": 246084,
+      "word": "华为预计23年营收超7000亿元",
+      "onboard_time": 1703819313,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 240187,
@@ -467,14 +491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 223679,
-      "num": 223679,
-      "word": "王一博出发参加跨年晚会",
-      "onboard_time": 1703818951,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219589,
       "num": 219589,
       "word": "武艺说孙千你好高",
@@ -483,12 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219044,
-      "num": 188187,
-      "word": "刘嘉玲梁朝伟 经纪人代班正主",
-      "onboard_time": 1703819492,
+      "raw_hot": 216046,
+      "num": 190382,
+      "word": "双胞胎互相脱袜子",
+      "onboard_time": 1703820033,
       "rank": 30,
-      "category": "电影"
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 215783,
+      "num": 215783,
+      "word": "年度报告",
+      "onboard_time": 1703820272,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 214421,
@@ -539,12 +563,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 198725,
+      "num": 198725,
+      "word": "马嘉祺华鼎奖华语最具潜力歌手",
+      "onboard_time": 1703820572,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196477,
       "num": 196477,
       "word": "豆瓣2023评分最高华语剧集",
       "onboard_time": 1703818533,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193373,
+      "num": 193373,
+      "word": "动视暴雪CEO今日离职",
+      "onboard_time": 1703819792,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 192763,
@@ -555,6 +595,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 190373,
+      "num": 190373,
+      "word": "刘亦菲周冬雨G社生图",
+      "onboard_time": 1703820333,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189534,
       "num": 132655,
       "word": "朱一龙第四个影帝",
@@ -563,12 +611,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 185391,
-      "num": 185391,
-      "word": "华为预计23年营收超7000亿元",
-      "onboard_time": 1703819313,
-      "rank": 31,
-      "category": "数码"
+      "raw_hot": 188641,
+      "num": 188641,
+      "word": "挑战心平气和度过最后一个工作日",
+      "onboard_time": 1703820091,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 182888,
+      "num": 182888,
+      "word": "张译说非诚勿扰3太疯了",
+      "onboard_time": 1703820156,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 180299,
@@ -763,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135044,
+      "num": 135044,
+      "word": "电影潜行上映",
+      "onboard_time": 1703820572,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132949,
       "num": 132949,
       "word": "除夕三件套",
@@ -875,12 +939,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114862,
-      "num": 114862,
-      "word": "动视暴雪CEO今日离职",
-      "onboard_time": 1703819792,
-      "rank": 46,
-      "category": "游戏"
+      "raw_hot": 114865,
+      "num": 114865,
+      "word": "一家8口住酒店称很划算准备住一辈子",
+      "onboard_time": 1703820752,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110870,
@@ -907,12 +971,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 108796,
+      "num": 108796,
+      "word": "活塞28连败",
+      "onboard_time": 1703820811,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108638,
       "num": 108638,
       "word": "精神上小狗养我",
       "onboard_time": 1703815892,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108213,
+      "num": 108213,
+      "word": "久酷 季军和八强没有区别",
+      "onboard_time": 1703820752,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 105990,
@@ -1035,6 +1115,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 80908,
+      "num": 1232276,
+      "word": "2023那些被瞬间治愈的时刻",
+      "onboard_time": 1703808028,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78788,
       "num": 78788,
       "word": "无畏的镜",
@@ -1067,14 +1155,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 67669,
-      "num": 1225170,
-      "word": "2023那些被瞬间治愈的时刻",
-      "onboard_time": 1703808028,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60517,
       "num": 78784,
       "word": "捐献者15年不换手机号成功救人一命",
@@ -1091,8 +1171,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 41859,
-      "num": 351351,
+      "raw_hot": 58144,
+      "num": 359612,
       "word": "元梦之星蜡笔小新怎么获得",
       "onboard_time": 1703818831,
       "rank": 14,
