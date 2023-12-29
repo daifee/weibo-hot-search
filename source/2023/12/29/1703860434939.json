@@ -1,0 +1,410 @@
+{
+  "runTime": 1703860434939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 992000,
+        "num": 992000,
+        "word": "陌生人发来的晚安",
+        "onboard_time": 1703858014,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 970499,
+        "num": 970499,
+        "word": "宋佳演的张桂梅校长",
+        "onboard_time": 1703856516,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29502,
+        "num": 922525,
+        "word": "雪龙号抵达长城站",
+        "onboard_time": 1703842593,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1133030,
+        "num": 918018,
+        "word": "图书馆30秒 平等发生在每个人身上",
+        "onboard_time": 1703854470,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 906621,
+        "num": 906621,
+        "word": "内娱出圈新人TOP1",
+        "onboard_time": 1703854891,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 897876,
+        "num": 897876,
+        "word": "图书馆30秒",
+        "onboard_time": 1703858496,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 802211,
+        "num": 802211,
+        "word": "明年一定是个好年",
+        "onboard_time": 1703857414,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 759718,
+        "num": 759718,
+        "word": "王博",
+        "onboard_time": 1703858554,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 720659,
+        "num": 720659,
+        "word": "肖战直播",
+        "onboard_time": 1703852013,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321983,
+        "num": 712498,
+        "word": "董军任国防部部长",
+        "onboard_time": 1703846972,
+        "rank": 9,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 898258,
+        "num": 712048,
+        "word": "支原体肺炎明显症状 爆咳",
+        "onboard_time": 1703849311,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 708408,
+        "num": 708408,
+        "word": "王鹤棣宋茜 跨年跳屋顶着火",
+        "onboard_time": 1703855493,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 632146,
+        "num": 632146,
+        "word": "阿里被判赔京东10亿",
+        "onboard_time": 1703841630,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 582696,
+        "num": 582696,
+        "word": "张杰天下炸场",
+        "onboard_time": 1703857234,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61096,
+        "num": 532442,
+        "word": "元梦之星年轻人的4399",
+        "onboard_time": 1703858434,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 513190,
+        "num": 513190,
+        "word": "易建联说我回来了",
+        "onboard_time": 1703859876,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95702,
+        "num": 494216,
+        "word": "吴宣仪说想cos黄忠",
+        "onboard_time": 1703858735,
+        "rank": 16,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 492011,
+        "num": 492011,
+        "word": "张震倪妮自拍",
+        "onboard_time": 1703858554,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488498,
+        "num": 488498,
+        "word": "土灵珠",
+        "onboard_time": 1703855974,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303958,
+        "num": 389386,
+        "word": "易建联球衣退役仪式",
+        "onboard_time": 1703847452,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 710552,
+        "num": 384337,
+        "word": "女子因不孕离婚后逃离家乡小城",
+        "onboard_time": 1703856936,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378881,
+        "num": 378881,
+        "word": "唐嫣 这里是酒吧",
+        "onboard_time": 1703849011,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343193,
+        "num": 343193,
+        "word": "第一眼见就不对劲的人",
+        "onboard_time": 1703849132,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305493,
+        "num": 305493,
+        "word": "中医不相信张远38岁了",
+        "onboard_time": 1703841272,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293025,
+        "num": 293025,
+        "word": "成毅DK制服",
+        "onboard_time": 1703858856,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267708,
+        "num": 267708,
+        "word": "张晚意 最纯情的脸演最禁忌的爱",
+        "onboard_time": 1703859515,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253539,
+        "num": 253539,
+        "word": "辛芷蕾 风情万种",
+        "onboard_time": 1703859634,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230408,
+        "num": 230408,
+        "word": "3孩非亲生案当事人自述始末",
+        "onboard_time": 1703853874,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222022,
+        "num": 222022,
+        "word": "广厦男篮换下首发",
+        "onboard_time": 1703857356,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141241,
+        "num": 220158,
+        "word": "两家单位拒收人民币现金被罚",
+        "onboard_time": 1703847274,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 219754,
+        "num": 219754,
+        "word": "为什么一觉醒来身上会有淤青",
+        "onboard_time": 1703858856,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214081,
+        "num": 214081,
+        "word": "在北欧打工9年被同事举报1000次",
+        "onboard_time": 1703846613,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213940,
+        "num": 213940,
+        "word": "KARINA中国首封",
+        "onboard_time": 1703853994,
+        "rank": 32,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 206057,
+        "num": 206057,
+        "word": "结婚的好处",
+        "onboard_time": 1703844393,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186348,
+        "num": 186348,
+        "word": "李善均出殡现场全慧珍痛哭",
+        "onboard_time": 1703839112,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182162,
+        "num": 182162,
+        "word": "旭旭宝宝 复播",
+        "onboard_time": 1703846972,
+        "rank": 35,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 164663,
+        "num": 164663,
+        "word": "SBS演技大赏",
+        "onboard_time": 1703855854,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158355,
+        "num": 158355,
+        "word": "正主卖cp 真嫂子没眼看",
+        "onboard_time": 1703829512,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148234,
+        "num": 148234,
+        "word": "易建联球衣退役仪式高朋满座",
+        "onboard_time": 1703855314,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144145,
+        "num": 144145,
+        "word": "脱轨",
+        "onboard_time": 1703851650,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142584,
+        "num": 142584,
+        "word": "EXO初雪获音银一位",
+        "onboard_time": 1703849252,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141852,
+        "num": 141852,
+        "word": "企鹅的脚为什么不怕冷",
+        "onboard_time": 1703859695,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 138588,
+        "num": 138588,
+        "word": "孙颖莎参加30米冲刺跑",
+        "onboard_time": 1703855432,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137766,
+        "num": 137766,
+        "word": "花楼 eStar",
+        "onboard_time": 1703854651,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136112,
+        "num": 136112,
+        "word": "关晓彤cos甄嬛跳惊鸿舞",
+        "onboard_time": 1703850210,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131070,
+        "num": 131070,
+        "word": "王曼昱参加3000米跑",
+        "onboard_time": 1703856634,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130215,
+        "num": 130215,
+        "word": "马伊琍上海话",
+        "onboard_time": 1703857533,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126689,
+        "num": 126689,
+        "word": "重返未来1.6新春版本",
+        "onboard_time": 1703858196,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124118,
+        "num": 124118,
+        "word": "辛美尔 烟花般的男子",
+        "onboard_time": 1703859454,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 123802,
+        "num": 123802,
+        "word": "不良人",
+        "onboard_time": 1703849612,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色大国外交踏上新征程#"
+    }
+  }
+}
