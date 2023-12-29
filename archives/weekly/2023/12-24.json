@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703838841104,
+  "endTime": 1703841438094,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -979,6 +979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1159564,
+      "num": 1159564,
+      "word": "李善均出殡现场全慧珍痛哭",
+      "onboard_time": 1703839112,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1159524,
       "num": 1159524,
       "word": "顾客摸草莓不买遭商家泼水",
@@ -1456,6 +1464,14 @@
       "word": "小时代之繁花时代",
       "onboard_time": 1703680895,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 894208,
+      "num": 894208,
+      "word": "熟人作案 影视化",
+      "onboard_time": 1703836353,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -3947,6 +3963,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 447692,
+      "num": 153368,
+      "word": "许光汉现身李善均灵堂哀悼",
+      "onboard_time": 1703840672,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447510,
       "num": 447510,
       "word": "电费刺客",
@@ -4024,14 +4048,6 @@
       "word": "春夜",
       "onboard_time": 1703577336,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 439804,
-      "num": 439804,
-      "word": "熟人作案 影视化",
-      "onboard_time": 1703836353,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -8067,6 +8083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208641,
+      "num": 208641,
+      "word": "元旦假期",
+      "onboard_time": 1703840911,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208469,
       "num": 208469,
       "word": "林一做体前屈能及格吗",
@@ -8305,6 +8329,14 @@
       "onboard_time": 1703483433,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204149,
+      "num": 204149,
+      "word": "东北大葱宠南方小土豆",
+      "onboard_time": 1703839293,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 203981,
@@ -8817,6 +8849,14 @@
       "onboard_time": 1703430816,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196166,
+      "num": 152048,
+      "word": "冥河水母",
+      "onboard_time": 1703840731,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 196113,
@@ -10275,6 +10315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172090,
+      "num": 172090,
+      "word": "去年GDP现价总量为1204724亿元",
+      "onboard_time": 1703839892,
+      "rank": 24,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 172062,
       "num": 172062,
       "word": "放寒假",
@@ -10777,6 +10825,14 @@
       "onboard_time": 1703494477,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164056,
+      "num": 164056,
+      "word": "中医不相信张远38岁了",
+      "onboard_time": 1703841272,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 164042,
@@ -12267,6 +12323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142356,
+      "num": 142356,
+      "word": "当小狗用这种眼神看着你",
+      "onboard_time": 1703837971,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142104,
       "num": 142104,
       "word": "多地辟谣医保统筹额度将清零",
@@ -13099,6 +13163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130078,
+      "num": 130078,
+      "word": "我也想这样把侯明昊脸掰过来",
+      "onboard_time": 1703840849,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129949,
       "num": 180281,
       "word": "退休前最后一课黑板依然满是板书",
@@ -13467,6 +13539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125776,
+      "num": 125776,
+      "word": "和姐姐谈恋爱的好处",
+      "onboard_time": 1703840971,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125750,
       "num": 125750,
       "word": "繁花沪语版 上头",
@@ -13801,14 +13881,6 @@
       "onboard_time": 1703668116,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120633,
-      "num": 120633,
-      "word": "当小狗用这种眼神看着你",
-      "onboard_time": 1703837971,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 120558,
@@ -15785,6 +15857,14 @@
       "onboard_time": 1703372599,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 29186,
+      "num": 270315,
+      "word": "有比这台7系更舒适的7吗",
+      "onboard_time": 1703840430,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 28833,
