@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703852966088,
+  "endTime": 1703853989730,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -3339,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1753146,
+      "num": 1753146,
+      "word": "支原体肺炎明显症状 爆咳",
+      "onboard_time": 1703849311,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1751761,
       "num": 1751761,
       "word": "易烊千玺 评委",
@@ -4129,14 +4137,6 @@
       "onboard_time": 1701585092,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1547100,
-      "num": 1547100,
-      "word": "支原体肺炎明显症状 爆咳",
-      "onboard_time": 1703849311,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1544547,
@@ -7251,6 +7251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1047586,
+      "num": 844626,
+      "word": "刘强东京东内网发声",
+      "onboard_time": 1703851112,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1045770,
       "num": 796717,
       "word": "五月天",
@@ -9705,14 +9713,6 @@
       "onboard_time": 1702739920,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 844626,
-      "num": 844626,
-      "word": "刘强东京东内网发声",
-      "onboard_time": 1703851112,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 844483,
@@ -13323,6 +13323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669803,
+      "num": 669803,
+      "word": "两家单位拒收人民币现金被罚",
+      "onboard_time": 1703847274,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 669734,
       "num": 669734,
       "word": "一92年男子已当老丈人",
@@ -14657,14 +14665,6 @@
       "onboard_time": 1702217200,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 622285,
-      "num": 622285,
-      "word": "两家单位拒收人民币现金被罚",
-      "onboard_time": 1703847274,
-      "rank": 30,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 622166,
@@ -29011,6 +29011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344089,
+      "num": 344089,
+      "word": "在北欧打工9年被同事举报1000次",
+      "onboard_time": 1703846613,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343954,
       "num": 305787,
       "word": "网红铁头因言语不当向长春道歉",
@@ -31633,6 +31641,14 @@
       "onboard_time": 1702738837,
       "rank": 34,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 316156,
+      "num": 316156,
+      "word": "不良人",
+      "onboard_time": 1703849612,
+      "rank": 28,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 316124,
@@ -35323,14 +35339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 285217,
-      "num": 285217,
-      "word": "不良人",
-      "onboard_time": 1703849612,
-      "rank": 28,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 285185,
       "num": 285185,
       "word": "杨紫仿妆",
@@ -37440,14 +37448,6 @@
       "word": "日本一餐馆顾客争相花钱被扇耳光",
       "onboard_time": 1701836801,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268070,
-      "num": 268070,
-      "word": "在北欧打工9年被同事举报1000次",
-      "onboard_time": 1703846613,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -48027,6 +48027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209000,
+      "num": 209000,
+      "word": "第一眼见就不对劲的人",
+      "onboard_time": 1703849132,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208994,
       "num": 208994,
       "word": "最强大脑11嘉宾阵容官宣",
@@ -54267,6 +54275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190055,
+      "num": 190055,
+      "word": "一个演的不像一个不像演的",
+      "onboard_time": 1703848890,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190026,
       "num": 190026,
       "word": "WB扳回一城",
@@ -54305,6 +54321,14 @@
       "onboard_time": 1701865057,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189876,
+      "num": 189876,
+      "word": "赵睿也来了",
+      "onboard_time": 1703852974,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 189864,
@@ -60267,14 +60291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 167586,
-      "num": 167586,
-      "word": "一个演的不像一个不像演的",
-      "onboard_time": 1703848890,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167561,
       "num": 167561,
       "word": "檀健次周也这个吻戏竟然还有后续",
@@ -60496,6 +60512,14 @@
       "word": "繁花 商战",
       "onboard_time": 1703768555,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166767,
+      "num": 166767,
+      "word": "新闻女王终极彩蛋",
+      "onboard_time": 1703852732,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -61616,14 +61640,6 @@
       "word": "好心态是你最好的风水",
       "onboard_time": 1701737259,
       "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 162860,
-      "num": 162860,
-      "word": "第一眼见就不对劲的人",
-      "onboard_time": 1703849132,
-      "rank": 25,
       "category": "情感"
     },
     {
@@ -72339,6 +72355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117589,
+      "num": 117589,
+      "word": "关晓彤清宫素雅妆",
+      "onboard_time": 1703852974,
+      "rank": 32,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 117565,
       "num": 117565,
       "word": "三大队 程兵的人生逆旅",
@@ -72681,6 +72705,14 @@
       "onboard_time": 1701796761,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114870,
+      "num": 114870,
+      "word": "河边的错误成绩超出业内预期",
+      "onboard_time": 1703851891,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 114782,
@@ -73699,6 +73731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105363,
+      "num": 105363,
+      "word": "冬天擦再多面霜怎么还是起皮",
+      "onboard_time": 1703849670,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 105199,
       "num": 339104,
       "word": "KPL元梦团建",
@@ -73827,14 +73867,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 103299,
-      "num": 103299,
-      "word": "新闻女王终极彩蛋",
-      "onboard_time": 1703852732,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102973,
       "num": 102973,
       "word": "白鹿烟熏眼妆",
@@ -73849,14 +73881,6 @@
       "onboard_time": 1702299223,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102404,
-      "num": 102404,
-      "word": "河边的错误成绩超出业内预期",
-      "onboard_time": 1703851891,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 102358,
@@ -73913,14 +73937,6 @@
       "onboard_time": 1703550575,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 101637,
-      "num": 101637,
-      "word": "冬天擦再多面霜怎么还是起皮",
-      "onboard_time": 1703849670,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 101499,
@@ -74089,6 +74105,14 @@
       "onboard_time": 1703846253,
       "rank": 46,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 98787,
+      "num": 96034,
+      "word": "潜行",
+      "onboard_time": 1703846253,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 98780,
@@ -74313,6 +74337,14 @@
       "onboard_time": 1702335864,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96397,
+      "num": 96397,
+      "word": "1首歌的时间用川剧告别2023",
+      "onboard_time": 1703853693,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96372,
@@ -74553,14 +74585,6 @@
       "onboard_time": 1702921880,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93613,
-      "num": 93613,
-      "word": "潜行",
-      "onboard_time": 1703846253,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 93513,
@@ -74955,6 +74979,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 86956,
+      "num": 86956,
+      "word": "怎么遮黑眼圈",
+      "onboard_time": 1703853812,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 86805,
       "num": 2028116,
       "word": "呼吸道传染病个人健康手册",
@@ -75323,6 +75355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80945,
+      "num": 84766,
+      "word": "3孩非亲生案当事人自述始末",
+      "onboard_time": 1703853874,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80908,
       "num": 1245089,
       "word": "2023那些被瞬间治愈的时刻",
@@ -75625,6 +75665,14 @@
       "onboard_time": 1702249400,
       "rank": 37,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 75491,
+      "num": 84280,
+      "word": "福建男篮vs辽宁男篮",
+      "onboard_time": 1703853572,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 75421,
@@ -77387,6 +77435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46705,
+      "num": 333066,
+      "word": "吴宣仪王者直播",
+      "onboard_time": 1703851951,
+      "rank": 14,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 46646,
       "num": 373361,
       "word": "今天的蛋搭子是肯爷爷",
@@ -78985,14 +79041,6 @@
       "onboard_time": 1702213236,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24599,
-      "num": 333066,
-      "word": "吴宣仪王者直播",
-      "onboard_time": 1703851951,
-      "rank": 14,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 24569,

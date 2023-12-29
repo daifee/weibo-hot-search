@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703852966088,
+  "endTime": 1703853989730,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -507,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1753146,
+      "num": 1753146,
+      "word": "支原体肺炎明显症状 爆咳",
+      "onboard_time": 1703849311,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1718069,
       "num": 1718069,
       "word": "欠4600万在杭卖烤肠还债的大叔回家了",
@@ -633,14 +641,6 @@
       "onboard_time": 1703376806,
       "rank": 5,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1547100,
-      "num": 1547100,
-      "word": "支原体肺炎明显症状 爆咳",
-      "onboard_time": 1703849311,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1532322,
@@ -1259,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1047586,
+      "num": 844626,
+      "word": "刘强东京东内网发声",
+      "onboard_time": 1703851112,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1042055,
       "num": 1042055,
       "word": "396 写不完",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1703460082,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 927794,
+      "num": 672169,
+      "word": "肖战直播",
+      "onboard_time": 1703852013,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 914980,
@@ -1713,14 +1729,6 @@
       "onboard_time": 1703564497,
       "rank": 21,
       "category": "美妆,财经"
-    },
-    {
-      "raw_hot": 844626,
-      "num": 844626,
-      "word": "刘强东京东内网发声",
-      "onboard_time": 1703851112,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 841661,
@@ -2387,14 +2395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 672169,
-      "num": 672169,
-      "word": "肖战直播",
-      "onboard_time": 1703852013,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 671818,
       "num": 671818,
       "word": "唐嫣 这里是酒吧",
@@ -2425,6 +2425,14 @@
       "onboard_time": 1703646880,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 669803,
+      "num": 669803,
+      "word": "两家单位拒收人民币现金被罚",
+      "onboard_time": 1703847274,
+      "rank": 30,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 667818,
@@ -2681,14 +2689,6 @@
       "onboard_time": 1703465735,
       "rank": 11,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 622285,
-      "num": 622285,
-      "word": "两家单位拒收人民币现金被罚",
-      "onboard_time": 1703847274,
-      "rank": 30,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 620376,
@@ -5099,6 +5099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356475,
+      "num": 356475,
+      "word": "脱轨",
+      "onboard_time": 1703505334,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356277,
       "num": 248643,
       "word": "帝释天典藏皮肤",
@@ -5251,6 +5259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 344089,
+      "num": 344089,
+      "word": "在北欧打工9年被同事举报1000次",
+      "onboard_time": 1703846613,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342151,
       "num": 342151,
       "word": "何炅要久久爱片头曲MV",
@@ -5337,14 +5353,6 @@
       "onboard_time": 1703594794,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 336173,
-      "num": 336173,
-      "word": "脱轨",
-      "onboard_time": 1703505334,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 334954,
@@ -5665,6 +5673,14 @@
       "onboard_time": 1703405794,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 316156,
+      "num": 316156,
+      "word": "不良人",
+      "onboard_time": 1703849612,
+      "rank": 28,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 316124,
@@ -6139,14 +6155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 285217,
-      "num": 285217,
-      "word": "不良人",
-      "onboard_time": 1703849612,
-      "rank": 28,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 284181,
       "num": 256081,
       "word": "叫大东北是有原因的",
@@ -6473,14 +6481,6 @@
       "onboard_time": 1703584116,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 268070,
-      "num": 268070,
-      "word": "在北欧打工9年被同事举报1000次",
-      "onboard_time": 1703846613,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268068,
@@ -8267,6 +8267,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 209000,
+      "num": 209000,
+      "word": "第一眼见就不对劲的人",
+      "onboard_time": 1703849132,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208994,
       "num": 208994,
       "word": "最强大脑11嘉宾阵容官宣",
@@ -9563,12 +9571,28 @@
       "category": "数码,社会新闻"
     },
     {
+      "raw_hot": 190055,
+      "num": 190055,
+      "word": "一个演的不像一个不像演的",
+      "onboard_time": 1703848890,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190026,
       "num": 190026,
       "word": "WB扳回一城",
       "onboard_time": 1703593832,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189876,
+      "num": 189876,
+      "word": "赵睿也来了",
+      "onboard_time": 1703852974,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 189133,
@@ -10803,14 +10827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167586,
-      "num": 167586,
-      "word": "一个演的不像一个不像演的",
-      "onboard_time": 1703848890,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167315,
       "num": 167315,
       "word": "B榜年度最佳kpop歌曲",
@@ -10896,6 +10912,14 @@
       "word": "繁花 商战",
       "onboard_time": 1703768555,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166767,
+      "num": 166767,
+      "word": "新闻女王终极彩蛋",
+      "onboard_time": 1703852732,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -11177,14 +11201,6 @@
       "onboard_time": 1703676515,
       "rank": 45,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 162860,
-      "num": 162860,
-      "word": "第一眼见就不对劲的人",
-      "onboard_time": 1703849132,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 162649,
@@ -14475,6 +14491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117589,
+      "num": 117589,
+      "word": "关晓彤清宫素雅妆",
+      "onboard_time": 1703852974,
+      "rank": 32,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 117501,
       "num": 117501,
       "word": "礼物 爱的具象化",
@@ -14593,6 +14617,14 @@
       "onboard_time": 1703421335,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114870,
+      "num": 114870,
+      "word": "河边的错误成绩超出业内预期",
+      "onboard_time": 1703851891,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 114694,
@@ -15043,6 +15075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105363,
+      "num": 105363,
+      "word": "冬天擦再多面霜怎么还是起皮",
+      "onboard_time": 1703849670,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 104728,
       "num": 104728,
       "word": "独行侠vs太阳",
@@ -15091,14 +15131,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 103299,
-      "num": 103299,
-      "word": "新闻女王终极彩蛋",
-      "onboard_time": 1703852732,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102868,
       "num": 102868,
       "word": "英语二 平等地创飞所有人",
@@ -15107,28 +15139,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 102404,
-      "num": 102404,
-      "word": "河边的错误成绩超出业内预期",
-      "onboard_time": 1703851891,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 101645,
       "num": 101645,
       "word": "业内人士称暴雪国服回归正逐步加快",
       "onboard_time": 1703550575,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 101637,
-      "num": 101637,
-      "word": "冬天擦再多面霜怎么还是起皮",
-      "onboard_time": 1703849670,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 101317,
@@ -15185,6 +15201,14 @@
       "onboard_time": 1703846253,
       "rank": 46,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 98787,
+      "num": 96034,
+      "word": "潜行",
+      "onboard_time": 1703846253,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 98744,
@@ -15283,6 +15307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96397,
+      "num": 96397,
+      "word": "1首歌的时间用川剧告别2023",
+      "onboard_time": 1703853693,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95498,
       "num": 1275927,
       "word": "这些科技硬实力彰显中国底气",
@@ -15329,14 +15361,6 @@
       "onboard_time": 1703548829,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 93613,
-      "num": 93613,
-      "word": "潜行",
-      "onboard_time": 1703846253,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 93205,
@@ -15499,6 +15523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86956,
+      "num": 86956,
+      "word": "怎么遮黑眼圈",
+      "onboard_time": 1703853812,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 86285,
       "num": 557448,
       "word": "国产手机进入卫星时代",
@@ -15587,6 +15619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 80945,
+      "num": 84766,
+      "word": "3孩非亲生案当事人自述始末",
+      "onboard_time": 1703853874,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80908,
       "num": 1245089,
       "word": "2023那些被瞬间治愈的时刻",
@@ -15665,6 +15705,14 @@
       "onboard_time": 1703482415,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 75491,
+      "num": 84280,
+      "word": "福建男篮vs辽宁男篮",
+      "onboard_time": 1703853572,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 75314,
@@ -16107,6 +16155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46705,
+      "num": 333066,
+      "word": "吴宣仪王者直播",
+      "onboard_time": 1703851951,
+      "rank": 14,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 45187,
       "num": 862655,
       "word": "甘肃震区已有序复商复市复课",
@@ -16505,14 +16561,6 @@
       "onboard_time": 1703334155,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24599,
-      "num": 333066,
-      "word": "吴宣仪王者直播",
-      "onboard_time": 1703851951,
-      "rank": 14,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 23977,
