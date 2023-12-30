@@ -1,0 +1,410 @@
+{
+  "runTime": 1703910963917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2195503,
+        "num": 2195503,
+        "word": "古茗 做不完根本做不完",
+        "onboard_time": 1703906433,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 718874,
+        "num": 718874,
+        "word": "新人演员陈学冬",
+        "onboard_time": 1703902954,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21752,
+        "num": 686008,
+        "word": "2023这些凡人微光照亮前路",
+        "onboard_time": 1703862994,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2007725,
+        "num": 681288,
+        "word": "王诗龄 天天你刚才是发疯了吗",
+        "onboard_time": 1703907030,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 910910,
+        "num": 681014,
+        "word": "胡歌床上抽烟镜头",
+        "onboard_time": 1703908832,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 670433,
+        "num": 670433,
+        "word": "肖战张婧仪开机路透",
+        "onboard_time": 1703899531,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471079,
+        "num": 471079,
+        "word": "旭旭宝宝开播1分钟在线10万人",
+        "onboard_time": 1703904692,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 457914,
+        "num": 457914,
+        "word": "刘嘉玲 阿Sa吻梁朝伟可以再猛点",
+        "onboard_time": 1703907873,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 413270,
+        "num": 413270,
+        "word": "哥嫂去世女子养3名遗孤13年获奖",
+        "onboard_time": 1703903610,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384750,
+        "num": 384750,
+        "word": "姑姑把所有好脾气都留给了我",
+        "onboard_time": 1703907572,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 552967,
+        "num": 374083,
+        "word": "孙怡 天天跺脚",
+        "onboard_time": 1703908413,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 520896,
+        "num": 371401,
+        "word": "俄女网红办半裸派对引普京不满",
+        "onboard_time": 1703891839,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 422105,
+        "num": 366738,
+        "word": "藏海传 大男主",
+        "onboard_time": 1703899649,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359986,
+        "num": 359986,
+        "word": "何蓝逗有呼吸性碱中毒",
+        "onboard_time": 1703894365,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42622,
+        "num": 341811,
+        "word": "蛋仔派对送疯了",
+        "onboard_time": 1703909133,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 338664,
+        "num": 338664,
+        "word": "派出所回应男子在电梯内猥亵小女孩",
+        "onboard_time": 1703906313,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325229,
+        "num": 325229,
+        "word": "藏海传女主人设",
+        "onboard_time": 1703906670,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305632,
+        "num": 305632,
+        "word": "电影一闪一闪亮星星今日公映",
+        "onboard_time": 1703902293,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294167,
+        "num": 294167,
+        "word": "警方通报多人斗殴持礼花互射",
+        "onboard_time": 1703908231,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54145,
+        "num": 283612,
+        "word": "跨年晚会大奖天花板还得看京东",
+        "onboard_time": 1703909011,
+        "rank": 19,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 391091,
+        "num": 282970,
+        "word": "小警犬因太友好而被开除",
+        "onboard_time": 1703909736,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280962,
+        "num": 280962,
+        "word": "一闪一闪亮星星",
+        "onboard_time": 1703909374,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238822,
+        "num": 238822,
+        "word": "7元一斤的猪肉还会跌多久",
+        "onboard_time": 1703906491,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 219111,
+        "num": 219111,
+        "word": "我在2元店都不敢这么买",
+        "onboard_time": 1703863475,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201270,
+        "num": 201270,
+        "word": "藏海传阵容",
+        "onboard_time": 1703899412,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189290,
+        "num": 189290,
+        "word": "侃爷道歉信 ChatGPT写的",
+        "onboard_time": 1703903071,
+        "rank": 25,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 178564,
+        "num": 178564,
+        "word": "藏海传开机",
+        "onboard_time": 1703898870,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176783,
+        "num": 176783,
+        "word": "人民日报评禁放烟花",
+        "onboard_time": 1703893885,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17244,
+        "num": 164420,
+        "word": "莲花楼联名快闪",
+        "onboard_time": 1703910093,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157118,
+        "num": 157118,
+        "word": "长在这3个部位的痣要当心",
+        "onboard_time": 1703904272,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178946,
+        "num": 154047,
+        "word": "100集的剧7分钟就演完了",
+        "onboard_time": 1703909073,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161062,
+        "num": 151725,
+        "word": "胡先煦 麻木的驾校教练",
+        "onboard_time": 1703909793,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140765,
+        "num": 140765,
+        "word": "弃港大选北大女生自曝曾遭遇校园霸凌",
+        "onboard_time": 1703910152,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136395,
+        "num": 136395,
+        "word": "鼻炎 腋下夹空塑料瓶",
+        "onboard_time": 1703899472,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134776,
+        "num": 134776,
+        "word": "燃油费这么贵飞机烧的是什么油",
+        "onboard_time": 1703910211,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134404,
+        "num": 134404,
+        "word": "杨幂人物封面",
+        "onboard_time": 1703903911,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130721,
+        "num": 130721,
+        "word": "上班迟到上网全勤",
+        "onboard_time": 1703906791,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128757,
+        "num": 128757,
+        "word": "王俊凯野孩子贴片",
+        "onboard_time": 1703908652,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126887,
+        "num": 126887,
+        "word": "船长下令斩断价值10多万的蟹笼救下16人",
+        "onboard_time": 1703893524,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122653,
+        "num": 122653,
+        "word": "迷你蔬菜到底是不是智商税",
+        "onboard_time": 1703910690,
+        "rank": 39,
+        "category": "美食,科学科普"
+      },
+      {
+        "raw_hot": 121915,
+        "num": 121915,
+        "word": "繁花打光",
+        "onboard_time": 1703901393,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121314,
+        "num": 121314,
+        "word": "意兴阑珊",
+        "onboard_time": 1703910752,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118930,
+        "num": 118930,
+        "word": "各个国家的病号餐",
+        "onboard_time": 1703908953,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118066,
+        "num": 118066,
+        "word": "什么是假性亲密关系",
+        "onboard_time": 1703893284,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115203,
+        "num": 115203,
+        "word": "金智秀将专注演员事业",
+        "onboard_time": 1703910813,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113859,
+        "num": 113859,
+        "word": "HPV治疗性疫苗能抵御宫颈癌吗",
+        "onboard_time": 1703902714,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108397,
+        "num": 108397,
+        "word": "奔跑吧生态篇今晚收官",
+        "onboard_time": 1703905412,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105465,
+        "num": 105465,
+        "word": "LASER异域风单曲塞外弦",
+        "onboard_time": 1703910935,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 105289,
+        "num": 105289,
+        "word": "丁程鑫发来一段早安问候",
+        "onboard_time": 1703910511,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103846,
+        "num": 103846,
+        "word": "繁花 歌嫣党上桌",
+        "onboard_time": 1703905591,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创中国特色大国外交新局面#"
+    }
+  }
+}
