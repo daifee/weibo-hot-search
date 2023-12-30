@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1703970875941,
+  "endTime": 1703972045277,
   "band_list": [
     {
       "raw_hot": 1008806,
@@ -411,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58118,
+      "num": 58118,
+      "word": "郝蕾 不是我冷是那个角色冷",
+      "onboard_time": 1703970854,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56980,
       "num": 56980,
       "word": "丁真浙江跨年彩排",
@@ -433,14 +441,6 @@
       "onboard_time": 1703956345,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48640,
-      "num": 44194,
-      "word": "郝蕾 不是我冷是那个角色冷",
-      "onboard_time": 1703970854,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 48179,
@@ -467,8 +467,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23801,
-      "num": 23801,
+      "raw_hot": 24556,
+      "num": 24556,
       "word": "王家卫好会拍美女",
       "onboard_time": 1703964075,
       "rank": 35,
@@ -491,8 +491,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16214,
-      "num": 16214,
+      "raw_hot": 16430,
+      "num": 16430,
       "word": "外国人最爱中国美食是这道川菜",
       "onboard_time": 1703966417,
       "rank": 42,
@@ -505,6 +505,14 @@
       "onboard_time": 1703967253,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10495,
+      "num": 10495,
+      "word": "回望2023",
+      "onboard_time": 1703971695,
+      "rank": 47,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
