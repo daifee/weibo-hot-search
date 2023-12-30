@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1703967449644,
+  "endTime": 1703968436299,
   "band_list": [
     {
       "raw_hot": 1008806,
@@ -481,6 +481,14 @@
       "onboard_time": 1703941294,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13029,
+      "num": 13029,
+      "word": "外国人最爱中国美食是这道川菜",
+      "onboard_time": 1703966417,
+      "rank": 42,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 12461,

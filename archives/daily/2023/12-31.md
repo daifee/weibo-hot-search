@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/31 00:21:53 ~ 2023/12/31 04:17:29
+本榜单时间：2023/12/31 00:21:53 ~ 2023/12/31 04:33:56
 </p>
 </blockquote>
 <p>
@@ -371,6 +371,12 @@ SEVENTEEN绑架情况下的正确应对（热度：48179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%95%B0%E4%B8%AA1%E5%88%86%E9%92%9F%E6%88%90%E5%B0%B1%E6%B0%94%E8%B1%A1%E4%B8%87%E5%8D%83%E7%9A%84%E4%B8%AD%E5%9B%BD%23" target="weibo">
 无数个1分钟成就气象万千的中国（热度：18283）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9C%80%E7%88%B1%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%A3%9F%E6%98%AF%E8%BF%99%E9%81%93%E5%B7%9D%E8%8F%9C%23" target="weibo">
+外国人最爱中国美食是这道川菜（热度：13029）
 </a>
 </li>
 
