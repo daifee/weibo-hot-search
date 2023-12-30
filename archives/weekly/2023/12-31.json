@@ -1,10 +1,10 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1703956492571,
+  "endTime": 1703957645985,
   "band_list": [
     {
-      "raw_hot": 977064,
-      "num": 977064,
+      "raw_hot": 1008806,
+      "num": 1008806,
       "word": "我已经很勇敢了 我也不遗憾",
       "onboard_time": 1703946937,
       "rank": 10,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266105,
+      "num": 266105,
+      "word": "萌兰的小jiojio穿大号雪地靴",
+      "onboard_time": 1703950412,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260384,
       "num": 260384,
       "word": "吴京会把酒砸向MOSS并说新年快乐",
@@ -147,11 +155,11 @@
       "category": "电影,幽默"
     },
     {
-      "raw_hot": 258778,
-      "num": 258778,
-      "word": "萌兰的小jiojio穿大号雪地靴",
-      "onboard_time": 1703950412,
-      "rank": 21,
+      "raw_hot": 252085,
+      "num": 252085,
+      "word": "爷爷赶集给娃买裤子拿去学校让试穿",
+      "onboard_time": 1703951311,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -177,14 +185,6 @@
       "onboard_time": 1703921612,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 201718,
-      "num": 201718,
-      "word": "爷爷赶集给娃买裤子拿去学校让试穿",
-      "onboard_time": 1703951311,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171783,
@@ -427,15 +427,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47857,
-      "num": 48288,
+      "raw_hot": 49216,
+      "num": 49216,
       "word": "小狗总跑回老宅等已过世的主人",
       "onboard_time": 1703956345,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10349,
+      "raw_hot": 12933,
       "num": 427690,
       "word": "无数个1分钟成就气象万千的中国",
       "onboard_time": 1703941294,
