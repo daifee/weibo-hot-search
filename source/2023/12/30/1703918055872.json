@@ -1,0 +1,410 @@
+{
+  "runTime": 1703918055872,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1039896,
+        "num": 1039896,
+        "word": "央视2024跨年晚会官宣",
+        "onboard_time": 1703916692,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1036242,
+        "num": 1036242,
+        "word": "张万森撑伞",
+        "onboard_time": 1703911651,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69456,
+        "num": 723604,
+        "word": "告别2023写给自己的话",
+        "onboard_time": 1703901331,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1464930,
+        "num": 690822,
+        "word": "王诗龄 天天你刚才是发疯了吗",
+        "onboard_time": 1703907030,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615598,
+        "num": 615598,
+        "word": "胡歌床上抽烟镜头",
+        "onboard_time": 1703908832,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456588,
+        "num": 456588,
+        "word": "新人演员陈学冬",
+        "onboard_time": 1703902954,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337984,
+        "num": 337984,
+        "word": "燃油费这么贵飞机烧的是什么油",
+        "onboard_time": 1703910211,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261837,
+        "num": 261837,
+        "word": "我国修订公司法",
+        "onboard_time": 1703913751,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254334,
+        "num": 254334,
+        "word": "旭旭宝宝开播1分钟在线10万人",
+        "onboard_time": 1703904692,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251611,
+        "num": 251611,
+        "word": "姑姑把所有好脾气都留给了我",
+        "onboard_time": 1703907572,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 883683,
+        "num": 250854,
+        "word": "甲流",
+        "onboard_time": 1703913451,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 627794,
+        "num": 249622,
+        "word": "央视前名嘴段暄行贿逾950万元",
+        "onboard_time": 1703911053,
+        "rank": 11,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 498232,
+        "num": 247790,
+        "word": "初三女生设卫生巾互助盒供同学自取",
+        "onboard_time": 1703914593,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490004,
+        "num": 246203,
+        "word": "三宋 怎么有人婚礼办得像春晚",
+        "onboard_time": 1703915313,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 413025,
+        "num": 244933,
+        "word": "刘强东要送的猛士越野车曝光",
+        "onboard_time": 1703913156,
+        "rank": 14,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 399579,
+        "num": 243265,
+        "word": "肖战张婧仪开机路透",
+        "onboard_time": 1703899531,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314296,
+        "num": 241802,
+        "word": "一闪一闪亮星星",
+        "onboard_time": 1703909374,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265897,
+        "num": 240409,
+        "word": "跨年节目单",
+        "onboard_time": 1703916812,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259894,
+        "num": 238607,
+        "word": "刘嘉玲 阿Sa吻梁朝伟可以再猛点",
+        "onboard_time": 1703907873,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237412,
+        "num": 237412,
+        "word": "俄女网红办半裸派对引普京不满",
+        "onboard_time": 1703891839,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 595890,
+        "num": 237044,
+        "word": "男子突闻儿子去世火车上嚎啕大哭",
+        "onboard_time": 1703915911,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291173,
+        "num": 235666,
+        "word": "小警犬因太友好而被开除",
+        "onboard_time": 1703909736,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233870,
+        "num": 233870,
+        "word": "何蓝逗有呼吸性碱中毒",
+        "onboard_time": 1703894365,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220153,
+        "num": 220153,
+        "word": "孙怡 天天跺脚",
+        "onboard_time": 1703908413,
+        "rank": 23,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 214433,
+        "num": 214433,
+        "word": "段暄",
+        "onboard_time": 1703913933,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 217448,
+        "num": 210503,
+        "word": "极盗者 刘诗诗白客",
+        "onboard_time": 1703916152,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187744,
+        "num": 187744,
+        "word": "尔滨你让我感到陌生",
+        "onboard_time": 1703916391,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 182833,
+        "num": 182833,
+        "word": "罗云熙澹台烬年度最热古偶剧角色",
+        "onboard_time": 1703917532,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180604,
+        "num": 180604,
+        "word": "藏海传 大男主",
+        "onboard_time": 1703899649,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170276,
+        "num": 178325,
+        "word": "快船战胜灰熊",
+        "onboard_time": 1703917771,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 933579,
+        "num": 178235,
+        "word": "古茗 做不完根本做不完",
+        "onboard_time": 1703906433,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177846,
+        "num": 177846,
+        "word": "金手指",
+        "onboard_time": 1703916752,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175862,
+        "num": 175862,
+        "word": "情绪不成熟的五个迹象",
+        "onboard_time": 1703916212,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168625,
+        "num": 168625,
+        "word": "王安宇 好细腻的infp",
+        "onboard_time": 1703915973,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162786,
+        "num": 162786,
+        "word": "你的婚礼改结局了吗",
+        "onboard_time": 1703914593,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151632,
+        "num": 151632,
+        "word": "妈妈真的有在尊重他的爱好",
+        "onboard_time": 1703916631,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66795,
+        "num": 143967,
+        "word": "蛋仔三丽鸥搭配美学",
+        "onboard_time": 1703915670,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143261,
+        "num": 143261,
+        "word": "王楚钦林高远多哈连轴转",
+        "onboard_time": 1703917173,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140741,
+        "num": 140741,
+        "word": "哥嫂去世女子养3名遗孤13年获奖",
+        "onboard_time": 1703903610,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138387,
+        "num": 138387,
+        "word": "挂科",
+        "onboard_time": 1703917413,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131689,
+        "num": 131689,
+        "word": "脱轨 火车站宣传",
+        "onboard_time": 1703915552,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130557,
+        "num": 130557,
+        "word": "电影一闪一闪亮星星今日公映",
+        "onboard_time": 1703902293,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128668,
+        "num": 128668,
+        "word": "藏海传女主人设",
+        "onboard_time": 1703906670,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124804,
+        "num": 124804,
+        "word": "凄美地音源呢",
+        "onboard_time": 1703911232,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117289,
+        "num": 117289,
+        "word": "跨年彩排",
+        "onboard_time": 1703915132,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113735,
+        "num": 113735,
+        "word": "东北是什么东西都必须大吗",
+        "onboard_time": 1703911113,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112592,
+        "num": 112592,
+        "word": "难看",
+        "onboard_time": 1703918014,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109819,
+        "num": 109819,
+        "word": "繁花打光",
+        "onboard_time": 1703901393,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103043,
+        "num": 109739,
+        "word": "派出所回应男子在电梯内猥亵小女孩",
+        "onboard_time": 1703906313,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94511,
+        "num": 109702,
+        "word": "水墨猫咪尽显国画意境之美",
+        "onboard_time": 1703917352,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家主席习近平将发表二〇二四年新年贺词#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703917277723,
+  "endTime": 1703918055872,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -1403,6 +1403,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1039896,
+      "num": 1039896,
+      "word": "央视2024跨年晚会官宣",
+      "onboard_time": 1703916692,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1036242,
+      "num": 1036242,
+      "word": "张万森撑伞",
+      "onboard_time": 1703911651,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1031350,
       "num": 1031350,
       "word": "穷鬼套餐不涨价",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1703654915,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 973066,
-      "num": 973066,
-      "word": "张万森撑伞",
-      "onboard_time": 1703911651,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 970499,
@@ -1771,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 883683,
+      "num": 349742,
+      "word": "甲流",
+      "onboard_time": 1703913451,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 880338,
       "num": 880338,
       "word": "张艺兴将担任C罗中国行表演嘉宾",
@@ -1833,14 +1849,6 @@
       "onboard_time": 1703407052,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 868217,
-      "num": 349742,
-      "word": "甲流",
-      "onboard_time": 1703913451,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 865116,
@@ -3099,6 +3107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 595890,
+      "num": 237044,
+      "word": "男子突闻儿子去世火车上嚎啕大哭",
+      "onboard_time": 1703915911,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594182,
       "num": 594182,
       "word": "孙怡张晚意是在演他追她逃吗",
@@ -3675,14 +3691,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 531684,
-      "num": 227560,
-      "word": "男子突闻儿子去世火车上嚎啕大哭",
-      "onboard_time": 1703915911,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 531365,
       "num": 531365,
       "word": "偶遇王嘉尔边伯贤",
@@ -3777,14 +3785,6 @@
       "onboard_time": 1703907873,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 521133,
-      "num": 521133,
-      "word": "央视2024跨年晚会官宣",
-      "onboard_time": 1703916692,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 518602,
@@ -3939,6 +3939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 498232,
+      "num": 247790,
+      "word": "初三女生设卫生巾互助盒供同学自取",
+      "onboard_time": 1703914593,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498217,
       "num": 498217,
       "word": "魅族称要成为小米首位车主",
@@ -4049,6 +4057,14 @@
       "onboard_time": 1703665294,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 490004,
+      "num": 246203,
+      "word": "三宋 怎么有人婚礼办得像春晚",
+      "onboard_time": 1703915313,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 489462,
@@ -4587,14 +4603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 439441,
-      "num": 239915,
-      "word": "初三女生设卫生巾互助盒供同学自取",
-      "onboard_time": 1703914593,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 439039,
       "num": 439039,
       "word": "考研后的年轻人在做什么",
@@ -4649,14 +4657,6 @@
       "onboard_time": 1703810672,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 435655,
-      "num": 237937,
-      "word": "三宋 怎么有人婚礼办得像春晚",
-      "onboard_time": 1703915313,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 435538,
@@ -7211,6 +7211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265897,
+      "num": 240409,
+      "word": "跨年节目单",
+      "onboard_time": 1703916812,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265814,
       "num": 265814,
       "word": "一网民造谣阿里献血事件被行拘",
@@ -7289,6 +7297,14 @@
       "onboard_time": 1703599777,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 261837,
+      "num": 261837,
+      "word": "我国修订公司法",
+      "onboard_time": 1703913751,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 260917,
@@ -7713,14 +7729,6 @@
       "onboard_time": 1703819313,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 245286,
-      "num": 245286,
-      "word": "我国修订公司法",
-      "onboard_time": 1703913751,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 245111,
@@ -8771,6 +8779,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 217448,
+      "num": 210503,
+      "word": "极盗者 刘诗诗白客",
+      "onboard_time": 1703916152,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217116,
       "num": 217116,
       "word": "最猛的1其实是周一",
@@ -9747,14 +9763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199037,
-      "num": 199037,
-      "word": "跨年节目单",
-      "onboard_time": 1703916812,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198986,
       "num": 198986,
       "word": "元旦去哪玩",
@@ -9793,14 +9801,6 @@
       "onboard_time": 1703583814,
       "rank": 37,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 198553,
-      "num": 198553,
-      "word": "极盗者 刘诗诗白客",
-      "onboard_time": 1703916152,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 198539,
@@ -10635,6 +10635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187744,
+      "num": 187744,
+      "word": "尔滨你让我感到陌生",
+      "onboard_time": 1703916391,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 187483,
       "num": 226575,
       "word": "还是孩子的哥哥为妹妹撑起一片天",
@@ -10897,6 +10905,14 @@
       "onboard_time": 1703820156,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182833,
+      "num": 182833,
+      "word": "罗云熙澹台烬年度最热古偶剧角色",
+      "onboard_time": 1703917532,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 182792,
@@ -11403,6 +11419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175862,
+      "num": 175862,
+      "word": "情绪不成熟的五个迹象",
+      "onboard_time": 1703916212,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175794,
       "num": 175794,
       "word": "朴志效红毯图",
@@ -11441,14 +11465,6 @@
       "onboard_time": 1703855314,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175051,
-      "num": 175051,
-      "word": "尔滨你让我感到陌生",
-      "onboard_time": 1703916391,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 174846,
@@ -11720,6 +11736,14 @@
       "word": "戈登被狗咬伤",
       "onboard_time": 1703722290,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170276,
+      "num": 178325,
+      "word": "快船战胜灰熊",
+      "onboard_time": 1703917771,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -12177,14 +12201,6 @@
       "onboard_time": 1703683895,
       "rank": 42,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 164019,
-      "num": 164019,
-      "word": "情绪不成熟的五个迹象",
-      "onboard_time": 1703916212,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 163898,
@@ -13763,6 +13779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143261,
+      "num": 143261,
+      "word": "王楚钦林高远多哈连轴转",
+      "onboard_time": 1703917173,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143254,
       "num": 143254,
       "word": "银河战舰 启航",
@@ -14129,6 +14153,14 @@
       "onboard_time": 1703862035,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138387,
+      "num": 138387,
+      "word": "挂科",
+      "onboard_time": 1703917413,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 138283,
@@ -14707,6 +14739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131689,
+      "num": 131689,
+      "word": "脱轨 火车站宣传",
+      "onboard_time": 1703915552,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131682,
       "num": 131682,
       "word": "游本昌演的爷叔",
@@ -14737,14 +14777,6 @@
       "onboard_time": 1703775095,
       "rank": 46,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 131425,
-      "num": 131425,
-      "word": "脱轨 火车站宣传",
-      "onboard_time": 1703915552,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 131313,
@@ -16339,6 +16371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112592,
+      "num": 112592,
+      "word": "难看",
+      "onboard_time": 1703918014,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112250,
       "num": 112250,
       "word": "RW晋级败者组第二轮",
@@ -17051,6 +17091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94511,
+      "num": 109702,
+      "word": "水墨猫咪尽显国画意境之美",
+      "onboard_time": 1703917352,
+      "rank": 49,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 94235,
       "num": 94235,
       "word": "非诚勿扰3是秦奋的一场梦",
@@ -17137,14 +17185,6 @@
       "onboard_time": 1703579794,
       "rank": 11,
       "category": "数码"
-    },
-    {
-      "raw_hot": 90907,
-      "num": 100986,
-      "word": "王楚钦林高远多哈连轴转",
-      "onboard_time": 1703917173,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 90887,
@@ -18843,6 +18883,9 @@
     },
     {
       "word": "#全国政协举行新年茶话会#"
+    },
+    {
+      "word": "#国家主席习近平将发表二〇二四年新年贺词#"
     }
   ]
 }
