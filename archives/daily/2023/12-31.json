@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1703972045277,
+  "endTime": 1703974544375,
   "band_list": [
     {
       "raw_hot": 1008806,
@@ -387,6 +387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 82963,
+      "num": 82963,
+      "word": "郝蕾 不是我冷是那个角色冷",
+      "onboard_time": 1703970854,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82266,
       "num": 82266,
       "word": "一等功喜报到家他和家人却不能露脸",
@@ -411,12 +419,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 58118,
-      "num": 58118,
-      "word": "郝蕾 不是我冷是那个角色冷",
-      "onboard_time": 1703970854,
+      "raw_hot": 66394,
+      "num": 63543,
+      "word": "五星酒店回应大早上室外擦玻璃",
+      "onboard_time": 1703972234,
       "rank": 10,
-      "category": "综艺"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56980,
@@ -499,20 +507,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 13929,
+      "num": 13929,
+      "word": "回望2023",
+      "onboard_time": 1703971695,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12461,
       "num": 12461,
       "word": "小兔子睡觉觉好惬意",
       "onboard_time": 1703967253,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10495,
-      "num": 10495,
-      "word": "回望2023",
-      "onboard_time": 1703971695,
-      "rank": 47,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
