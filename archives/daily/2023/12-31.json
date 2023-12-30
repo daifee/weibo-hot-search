@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1703975657855,
+  "endTime": 1703978198988,
   "band_list": [
     {
       "raw_hot": 1008806,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308525,
+      "num": 308525,
+      "word": "爷爷赶集给娃买裤子拿去学校让试穿",
+      "onboard_time": 1703951311,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273675,
       "num": 240655,
       "word": "2023新生儿爆款名字",
@@ -155,11 +163,11 @@
       "category": "电影,幽默"
     },
     {
-      "raw_hot": 252085,
-      "num": 252085,
-      "word": "爷爷赶集给娃买裤子拿去学校让试穿",
-      "onboard_time": 1703951311,
-      "rank": 24,
+      "raw_hot": 252151,
+      "num": 252151,
+      "word": "五星酒店回应大早上室外擦玻璃",
+      "onboard_time": 1703972234,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -185,6 +193,14 @@
       "onboard_time": 1703921612,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207236,
+      "num": 207236,
+      "word": "郝蕾 不是我冷是那个角色冷",
+      "onboard_time": 1703970854,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 171783,
@@ -283,6 +299,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 122633,
+      "num": 122633,
+      "word": "一等功喜报到家他和家人却不能露脸",
+      "onboard_time": 1703934937,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120767,
       "num": 120767,
       "word": "北京什刹海冰场游客爆满",
@@ -297,14 +321,6 @@
       "onboard_time": 1703948614,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119139,
-      "num": 73979,
-      "word": "五星酒店回应大早上室外擦玻璃",
-      "onboard_time": 1703972234,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116057,
@@ -355,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99800,
-      "num": 99800,
-      "word": "郝蕾 不是我冷是那个角色冷",
-      "onboard_time": 1703970854,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 100988,
+      "num": 100988,
+      "word": "再见2023",
+      "onboard_time": 1703977639,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 95809,
@@ -387,6 +403,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 90376,
+      "num": 40891,
+      "word": "跨年朋友圈文案",
+      "onboard_time": 1703977818,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 86573,
+      "num": 86573,
+      "word": "繁花饭店后厨集体离职",
+      "onboard_time": 1703977639,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86235,
+      "num": 86235,
+      "word": "2023年最后1天",
+      "onboard_time": 1703977639,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85275,
       "num": 85275,
       "word": "陈楚生 周深我看你是成心的",
@@ -401,14 +441,6 @@
       "onboard_time": 1703929956,
       "rank": 46,
       "category": "网红"
-    },
-    {
-      "raw_hot": 82266,
-      "num": 82266,
-      "word": "一等功喜报到家他和家人却不能露脸",
-      "onboard_time": 1703934937,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79755,
@@ -427,11 +459,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75400,
+      "num": 75400,
+      "word": "常吃酸菜真的增加致癌风险吗",
+      "onboard_time": 1703975418,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 56980,
       "num": 56980,
       "word": "丁真浙江跨年彩排",
       "onboard_time": 1703956164,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 56338,
+      "num": 56338,
+      "word": "戚薇李承铉 美女总裁与保镖",
+      "onboard_time": 1703977277,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -441,6 +489,14 @@
       "onboard_time": 1703941535,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55008,
+      "num": 55008,
+      "word": "孙怡哭戏",
+      "onboard_time": 1703977940,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 49216,
@@ -459,12 +515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48105,
+      "num": 48105,
+      "word": "老师我们家周深在升降台上起不来了",
+      "onboard_time": 1703941353,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40908,
       "num": 40908,
       "word": "毅玲爸爸",
       "onboard_time": 1703961858,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38569,
+      "num": 38569,
+      "word": "郑恺繁花出洋相场场不一样",
+      "onboard_time": 1703974817,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 33403,
@@ -475,12 +547,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24556,
-      "num": 24556,
+      "raw_hot": 30098,
+      "num": 30098,
+      "word": "外向一小次内向一辈子",
+      "onboard_time": 1703977818,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 26854,
+      "num": 26854,
+      "word": "周深被宋雨琦的话笑出鹅叫",
+      "onboard_time": 1703978060,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26396,
+      "num": 26396,
       "word": "王家卫好会拍美女",
       "onboard_time": 1703964075,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23698,
+      "num": 23698,
+      "word": "武汉地铁部分站点31日晚8点后停止运营",
+      "onboard_time": 1703977578,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23317,
+      "num": 23317,
+      "word": "外国人最爱中国美食是这道川菜",
+      "onboard_time": 1703966417,
+      "rank": 42,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 23146,
@@ -491,36 +595,12 @@
       "category": "电竞,艺人"
     },
     {
-      "raw_hot": 19766,
-      "num": 19766,
-      "word": "郑恺繁花出洋相场场不一样",
-      "onboard_time": 1703974817,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18283,
       "num": 427690,
       "word": "无数个1分钟成就气象万千的中国",
       "onboard_time": 1703941294,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17289,
-      "num": 17289,
-      "word": "外国人最爱中国美食是这道川菜",
-      "onboard_time": 1703966417,
-      "rank": 42,
-      "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 14982,
-      "num": 17228,
-      "word": "常吃酸菜真的增加致癌风险吗",
-      "onboard_time": 1703975418,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 13929,
