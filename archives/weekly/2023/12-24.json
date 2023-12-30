@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703939419836,
+  "endTime": 1703940330751,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -2563,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 698556,
+      "num": 245378,
+      "word": "吴京会把酒砸向MOSS并说新年快乐",
+      "onboard_time": 1703938714,
+      "rank": 31,
+      "category": "电影,幽默"
+    },
+    {
       "raw_hot": 697968,
       "num": 697968,
       "word": "何猷君抽中香港澳门一日游",
@@ -3073,6 +3081,14 @@
       "onboard_time": 1703935295,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 620604,
+      "num": 551523,
+      "word": "张万森你现在没有遗憾了吧",
+      "onboard_time": 1703936013,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 620376,
@@ -3611,14 +3627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 551523,
-      "num": 551523,
-      "word": "张万森你现在没有遗憾了吧",
-      "onboard_time": 1703936013,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 549101,
       "num": 549101,
       "word": "红月亮",
@@ -3891,6 +3899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 526990,
+      "num": 526990,
+      "word": "娜扎小学被爸爸剃光头",
+      "onboard_time": 1703937933,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525931,
       "num": 525931,
       "word": "全球首位身家超1000亿美元女性",
@@ -4113,14 +4129,6 @@
       "onboard_time": 1703736994,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 498134,
-      "num": 498134,
-      "word": "娜扎小学被爸爸剃光头",
-      "onboard_time": 1703937933,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 497561,
@@ -7083,20 +7091,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285802,
+      "num": 285802,
+      "word": "跨年怎么过",
+      "onboard_time": 1703938897,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285528,
       "num": 285528,
       "word": "王一博 头盔",
       "onboard_time": 1703763273,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 285470,
-      "num": 204271,
-      "word": "吴京会把酒砸向MOSS并说新年快乐",
-      "onboard_time": 1703938714,
-      "rank": 31,
-      "category": "电影,幽默"
     },
     {
       "raw_hot": 285332,
@@ -7508,7 +7516,7 @@
     },
     {
       "raw_hot": 267144,
-      "num": 229645,
+      "num": 239614,
       "word": "你好星期六全员wave",
       "onboard_time": 1703937336,
       "rank": 22,
@@ -8091,6 +8099,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 246003,
+      "num": 246003,
+      "word": "林孝埈说2024我来了",
+      "onboard_time": 1703938897,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245111,
       "num": 245111,
       "word": "Yuna红发",
@@ -8329,6 +8345,14 @@
       "onboard_time": 1703601034,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238757,
+      "num": 238757,
+      "word": "唐毅 欧美妆VS中国妆",
+      "onboard_time": 1703939493,
+      "rank": 23,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 238717,
@@ -8571,6 +8595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232666,
+      "num": 216541,
+      "word": "王心凌 假嘟假嘟",
+      "onboard_time": 1703938174,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232392,
       "num": 232392,
       "word": "为什么一觉醒来身上会有淤青",
@@ -8729,14 +8761,6 @@
       "onboard_time": 1703838270,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 229624,
-      "num": 229624,
-      "word": "跨年怎么过",
-      "onboard_time": 1703938897,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 229336,
@@ -9187,14 +9211,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 217450,
-      "num": 217450,
-      "word": "林孝埈说2024我来了",
-      "onboard_time": 1703938897,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217448,
       "num": 210503,
       "word": "极盗者 刘诗诗白客",
@@ -9241,14 +9257,6 @@
       "onboard_time": 1703566897,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 216541,
-      "num": 216541,
-      "word": "王心凌 假嘟假嘟",
-      "onboard_time": 1703938174,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 216134,
@@ -10283,6 +10291,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 198663,
+      "num": 198662,
+      "word": "跨年电影",
+      "onboard_time": 1703939313,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198539,
       "num": 114698,
       "word": "景天为紫萱动手了",
@@ -10513,6 +10529,14 @@
       "onboard_time": 1703564795,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195700,
+      "num": 195700,
+      "word": "汪苏泷KIC中场表演",
+      "onboard_time": 1703939313,
+      "rank": 44,
+      "category": "演出,电竞"
     },
     {
       "raw_hot": 195591,
@@ -11361,6 +11385,14 @@
       "onboard_time": 1703399252,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184245,
+      "num": 184245,
+      "word": "哈尔滨 南方小土豆",
+      "onboard_time": 1703938956,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 184038,
@@ -13419,14 +13451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157269,
-      "num": 157269,
-      "word": "哈尔滨 南方小土豆",
-      "onboard_time": 1703938956,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 157201,
       "num": 157201,
       "word": "胡先煦多大了还告状",
@@ -13857,6 +13881,14 @@
       "onboard_time": 1703768071,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151233,
+      "num": 166314,
+      "word": "赛博舞狮燃炸了",
+      "onboard_time": 1703939852,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 151164,
@@ -14595,6 +14627,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 141812,
+      "num": 141812,
+      "word": "乔兮公孙离太秀了",
+      "onboard_time": 1703940093,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141727,
       "num": 138469,
       "word": "周深 这鞋垫又不增高又不加大鞋",
@@ -14673,14 +14713,6 @@
       "onboard_time": 1703475996,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140864,
-      "num": 140864,
-      "word": "汪苏泷KIC中场表演",
-      "onboard_time": 1703939313,
-      "rank": 44,
-      "category": "演出,电竞"
     },
     {
       "raw_hot": 140855,
@@ -14913,6 +14945,14 @@
       "onboard_time": 1703673097,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136950,
+      "num": 136950,
+      "word": "哈尔滨旅游",
+      "onboard_time": 1703939973,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 136919,
@@ -15513,14 +15553,6 @@
       "onboard_time": 1703496457,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131015,
-      "num": 131015,
-      "word": "跨年电影",
-      "onboard_time": 1703939313,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 130937,
@@ -18155,6 +18187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87027,
+      "num": 114449,
+      "word": "卢顿vs切尔西",
+      "onboard_time": 1703939675,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86956,
       "num": 86956,
       "word": "怎么遮黑眼圈",
@@ -18539,6 +18579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 63917,
+      "num": 252906,
+      "word": "新年最想实现的愿望",
+      "onboard_time": 1703937634,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 62592,
       "num": 62592,
       "word": "村BA广东站现场惊现民星姚明",
@@ -18921,14 +18969,6 @@
       "onboard_time": 1703562454,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45086,
-      "num": 252906,
-      "word": "新年最想实现的愿望",
-      "onboard_time": 1703937634,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 44881,
