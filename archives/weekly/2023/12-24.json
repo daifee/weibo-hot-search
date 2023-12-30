@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703892860466,
+  "endTime": 1703898755269,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1858354,
+      "num": 320901,
+      "word": "五百万去世",
+      "onboard_time": 1703896530,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1856821,
       "num": 1856821,
       "word": "男朋友考研 我好无助",
@@ -689,6 +697,14 @@
       "onboard_time": 1703635171,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1496441,
+      "num": 1496441,
+      "word": "俄女网红办半裸派对引普京不满",
+      "onboard_time": 1703891839,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1496277,
@@ -1163,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1108529,
+      "num": 1108529,
+      "word": "何蓝逗有呼吸性碱中毒",
+      "onboard_time": 1703894365,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1106559,
       "num": 1106559,
       "word": "周一确诊为大娘子",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1703670214,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 981313,
+      "num": 981313,
+      "word": "人民日报评禁放烟花",
+      "onboard_time": 1703893885,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 977640,
@@ -2249,6 +2281,14 @@
       "onboard_time": 1703685322,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 714143,
+      "num": 714143,
+      "word": "弃港大选北大女孩刘丁宁现状",
+      "onboard_time": 1703893703,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 713749,
@@ -4147,14 +4187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 459402,
-      "num": 56552,
-      "word": "俄女网红办半裸派对引普京不满",
-      "onboard_time": 1703891839,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 458485,
       "num": 458485,
       "word": "Doinb ip上海",
@@ -4443,6 +4475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 428837,
+      "num": 428837,
+      "word": "船长下令斩断价值10多万的蟹笼救下16人",
+      "onboard_time": 1703893524,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428066,
       "num": 428066,
       "word": "冻梨 吸妃回宫了",
@@ -4625,6 +4665,14 @@
       "onboard_time": 1703730211,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416168,
+      "num": 416168,
+      "word": "温太医 癫公",
+      "onboard_time": 1703895807,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 416045,
@@ -5187,6 +5235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 370460,
+      "num": 370460,
+      "word": "南京南站 慌不择路",
+      "onboard_time": 1703895149,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 370357,
       "num": 370357,
       "word": "迪丽热巴胡先煦 双人相声",
@@ -5385,6 +5441,14 @@
       "onboard_time": 1703815171,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352318,
+      "num": 198772,
+      "word": "什么是假性亲密关系",
+      "onboard_time": 1703893284,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 351746,
@@ -6195,6 +6259,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 295761,
+      "num": 195284,
+      "word": "男朋友让我给他住院的妈妈做饭",
+      "onboard_time": 1703893223,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295545,
       "num": 295545,
       "word": "吴千语施伯雄求婚视频",
@@ -6281,6 +6353,14 @@
       "onboard_time": 1703858856,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292469,
+      "num": 292469,
+      "word": "呼吸性碱中毒",
+      "onboard_time": 1703897429,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 292121,
@@ -6465,6 +6545,14 @@
       "onboard_time": 1703639314,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 281353,
+      "num": 281353,
+      "word": "5岁孩子上课发现对面着火大声提醒",
+      "onboard_time": 1703892319,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 281134,
@@ -7289,6 +7377,14 @@
       "onboard_time": 1703819313,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 246045,
+      "num": 194052,
+      "word": "狠狠避雷这款羽绒服",
+      "onboard_time": 1703894365,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 245111,
@@ -8220,7 +8316,7 @@
     },
     {
       "raw_hot": 220253,
-      "num": 197393,
+      "num": 201751,
       "word": "唐嫣斓曦蓝盈莹都是张晓龙的学生",
       "onboard_time": 1703863292,
       "rank": 30,
@@ -8456,6 +8552,14 @@
       "word": "和姐姐谈恋爱的好处",
       "onboard_time": 1703840971,
       "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 212848,
+      "num": 189006,
+      "word": "2024适合结婚的星座",
+      "onboard_time": 1703893284,
+      "rank": 23,
       "category": "情感"
     },
     {
@@ -9152,6 +9256,14 @@
       "word": "三大队 俄罗斯方块线索",
       "onboard_time": 1703596053,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 200089,
+      "num": 200089,
+      "word": "我知道我爱你 男二人设",
+      "onboard_time": 1703892561,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -10035,6 +10147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188048,
+      "num": 188048,
+      "word": "男子半夜刷卡进女生房间看隐私视频",
+      "onboard_time": 1703873482,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187940,
       "num": 187940,
       "word": "2023新流量生TOP4",
@@ -10387,6 +10507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181667,
+      "num": 181667,
+      "word": "易建联退役 一个时代的结束",
+      "onboard_time": 1703893885,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181555,
       "num": 181555,
       "word": "一个好消息和一个坏消息",
@@ -10417,6 +10545,14 @@
       "onboard_time": 1703773296,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 180984,
+      "num": 180984,
+      "word": "2024跨年多巴胺壁纸",
+      "onboard_time": 1703898151,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180865,
@@ -11153,6 +11289,14 @@
       "onboard_time": 1703575956,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168239,
+      "num": 168239,
+      "word": "尹锡悦邀朴槿惠共进午餐",
+      "onboard_time": 1703892624,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 168209,
@@ -12171,6 +12315,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156010,
+      "num": 156010,
+      "word": "易烊千玺代言特仑苏",
+      "onboard_time": 1703898689,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155968,
+      "num": 155968,
+      "word": "张艺兴 Qeelin代言人",
+      "onboard_time": 1703898030,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155852,
       "num": 155852,
       "word": "2023坚持最久的事",
@@ -12987,6 +13147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143713,
+      "num": 143713,
+      "word": "繁花 爽剧",
+      "onboard_time": 1703897371,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143556,
       "num": 143556,
       "word": "撒贝宁好会说",
@@ -13099,14 +13267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142044,
-      "num": 93995,
-      "word": "男子半夜刷卡进女生房间看隐私视频",
-      "onboard_time": 1703873482,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142030,
       "num": 142030,
       "word": "十几岁和二十几岁的考场",
@@ -13153,6 +13313,14 @@
       "onboard_time": 1703378728,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141505,
+      "num": 141505,
+      "word": "迪丽热巴的流浪行李",
+      "onboard_time": 1703893462,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 141276,
@@ -13409,6 +13577,14 @@
       "onboard_time": 1703851354,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137849,
+      "num": 137849,
+      "word": "山东雾太大了",
+      "onboard_time": 1703896588,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137820,
@@ -13675,6 +13851,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 134374,
+      "num": 134374,
+      "word": "她曾经有机会 她把握住了",
+      "onboard_time": 1703898030,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134051,
       "num": 134051,
       "word": "地震致青海海东32人遇难",
@@ -13801,6 +13985,14 @@
       "onboard_time": 1703740295,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132917,
+      "num": 132917,
+      "word": "武大书协通报活动获奖44人39人为干部",
+      "onboard_time": 1703894546,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132914,
@@ -14155,6 +14347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129075,
+      "num": 129075,
+      "word": "陈楚生 天大地大火锅最大",
+      "onboard_time": 1703893524,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129006,
       "num": 129006,
       "word": "救人外卖小哥说2024活在当下",
@@ -14387,6 +14587,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 126233,
+      "num": 126233,
+      "word": "1月十二星座注意事项",
+      "onboard_time": 1703894365,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126142,
       "num": 323598,
       "word": "小米汽车技术发布会",
@@ -14529,6 +14737,14 @@
       "onboard_time": 1703557234,
       "rank": 42,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 124757,
+      "num": 124757,
+      "word": "丫丫的皮袄子又厚啦",
+      "onboard_time": 1703895927,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124677,
@@ -14697,6 +14913,14 @@
       "onboard_time": 1703554353,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122368,
+      "num": 122368,
+      "word": "勇士或交易维金斯",
+      "onboard_time": 1703898391,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 122143,
@@ -15267,6 +15491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114137,
+      "num": 114137,
+      "word": "1岁娃叫不醒妈妈转头监控求助爸爸",
+      "onboard_time": 1703897973,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114129,
       "num": 114129,
       "word": "王者世冠淘汰赛",
@@ -15483,6 +15715,14 @@
       "category": "动漫,美食"
     },
     {
+      "raw_hot": 110590,
+      "num": 110590,
+      "word": "国足0比2阿曼",
+      "onboard_time": 1703892862,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110258,
       "num": 110258,
       "word": "秦海璐拍的花少团合影",
@@ -15521,6 +15761,14 @@
       "onboard_time": 1703517275,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109869,
+      "num": 109869,
+      "word": "苹果或将支持多点触控功能",
+      "onboard_time": 1703894786,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 109589,
@@ -16643,14 +16891,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 56701,
-      "num": 56701,
-      "word": "5岁孩子上课发现对面着火大声提醒",
-      "onboard_time": 1703892319,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 56559,
       "num": 56559,
       "word": "两个方法判断粉扑干用还是湿用",
@@ -16875,6 +17115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 46815,
+      "num": 1390173,
+      "word": "2023这些凡人微光照亮前路",
+      "onboard_time": 1703862994,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46745,
       "num": 247804,
       "word": "问界M9首搭华为最强ARHUD",
@@ -16907,14 +17155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45166,
-      "num": 45166,
-      "word": "我知道我爱你 男二人设",
-      "onboard_time": 1703892561,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 44881,
       "num": 44881,
       "word": "花饽饽龙年限定款也太可爱了",
@@ -16929,14 +17169,6 @@
       "onboard_time": 1703530756,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44485,
-      "num": 44485,
-      "word": "尹锡悦邀朴槿惠共进午餐",
-      "onboard_time": 1703892624,
-      "rank": 43,
-      "category": "国外时政"
     },
     {
       "raw_hot": 44412,
@@ -17009,14 +17241,6 @@
       "onboard_time": 1703353579,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 41680,
-      "num": 1390173,
-      "word": "2023这些凡人微光照亮前路",
-      "onboard_time": 1703862994,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41362,
