@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703899966243,
+  "endTime": 1703903184258,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -699,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1501876,
+      "num": 1501876,
+      "word": "肖战张婧仪开机路透",
+      "onboard_time": 1703899531,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1496441,
       "num": 1496441,
       "word": "俄女网红办半裸派对引普京不满",
@@ -825,6 +833,14 @@
       "onboard_time": 1703661995,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1346510,
+      "num": 1346510,
+      "word": "每艘邮轮都有停尸房",
+      "onboard_time": 1703900851,
+      "rank": 3,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1346468,
@@ -1436,7 +1452,7 @@
     },
     {
       "raw_hot": 981313,
-      "num": 981313,
+      "num": 1349361,
       "word": "人民日报评禁放烟花",
       "onboard_time": 1703893885,
       "rank": 3,
@@ -1569,6 +1585,14 @@
       "onboard_time": 1703852013,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 916834,
+      "num": 916834,
+      "word": "藏海传 大男主",
+      "onboard_time": 1703899649,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 914980,
@@ -3731,6 +3755,14 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 503402,
+      "num": 503402,
+      "word": "鼻炎 腋下夹空塑料瓶",
+      "onboard_time": 1703899472,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 501273,
       "num": 501273,
       "word": "周一围 我看见了她的失落",
@@ -4273,14 +4305,6 @@
       "onboard_time": 1703389595,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 450305,
-      "num": 387185,
-      "word": "肖战张婧仪开机路透",
-      "onboard_time": 1703899531,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 450210,
@@ -4867,6 +4891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 401185,
+      "num": 401185,
+      "word": "她曾经有机会 她把握住了",
+      "onboard_time": 1703898030,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400267,
       "num": 400267,
       "word": "华为发布会",
@@ -5209,6 +5241,14 @@
       "onboard_time": 1703395893,
       "rank": 37,
       "category": "健康医疗,剧集"
+    },
+    {
+      "raw_hot": 375675,
+      "num": 375675,
+      "word": "藏海传阵容",
+      "onboard_time": 1703899412,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 375661,
@@ -6147,14 +6187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305893,
-      "num": 305893,
-      "word": "她曾经有机会 她把握住了",
-      "onboard_time": 1703898030,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 305552,
       "num": 305552,
       "word": "农村老式火锅",
@@ -6627,6 +6659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280486,
+      "num": 280486,
+      "word": "张惠妹周杰伦 如果你也听说",
+      "onboard_time": 1703900491,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 279855,
       "num": 279855,
       "word": "C罗中国行预售不支持退款",
@@ -6721,6 +6761,14 @@
       "onboard_time": 1703816071,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 275390,
+      "num": 275390,
+      "word": "赵昭仪王安宇 小太阳和忧郁哥",
+      "onboard_time": 1703902412,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 275087,
@@ -6969,6 +7017,14 @@
       "onboard_time": 1703554171,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 263187,
+      "num": 232656,
+      "word": "1岁娃叫不醒妈妈转头监控求助爸爸",
+      "onboard_time": 1703897973,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263123,
@@ -7419,14 +7475,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 245943,
-      "num": 245943,
-      "word": "鼻炎 腋下夹空塑料瓶",
-      "onboard_time": 1703899472,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 245111,
       "num": 245111,
       "word": "Yuna红发",
@@ -7585,14 +7633,6 @@
       "onboard_time": 1703509654,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 240044,
-      "num": 240044,
-      "word": "藏海传阵容",
-      "onboard_time": 1703899412,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 239975,
@@ -8323,14 +8363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 220850,
-      "num": 220850,
-      "word": "1岁娃叫不醒妈妈转头监控求助爸爸",
-      "onboard_time": 1703897973,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220709,
       "num": 220709,
       "word": "迪丽热巴潜水服",
@@ -8625,14 +8657,6 @@
       "onboard_time": 1703834734,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 212250,
-      "num": 212250,
-      "word": "藏海传 大男主",
-      "onboard_time": 1703899649,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 212208,
@@ -9483,6 +9507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197892,
+      "num": 197892,
+      "word": "繁花打光",
+      "onboard_time": 1703901393,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197879,
       "num": 197879,
       "word": "RNG对战RST",
@@ -10027,6 +10059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191338,
+      "num": 191338,
+      "word": "HPV治疗性疫苗能抵御宫颈癌吗",
+      "onboard_time": 1703902714,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 191048,
       "num": 191048,
       "word": "亲情是柔软的也是坚韧的",
@@ -10137,6 +10177,14 @@
       "onboard_time": 1703861675,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189384,
+      "num": 189384,
+      "word": "电影一闪一闪亮星星今日公映",
+      "onboard_time": 1703902293,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 189133,
@@ -10297,6 +10345,14 @@
       "onboard_time": 1703750614,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186615,
+      "num": 186615,
+      "word": "非诚勿扰3今日上映",
+      "onboard_time": 1703902652,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 186561,
@@ -11283,6 +11339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169981,
+      "num": 169981,
+      "word": "新人演员陈学冬",
+      "onboard_time": 1703902954,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169785,
       "num": 169785,
       "word": "李燃发现雷鸣秘密",
@@ -12063,6 +12127,14 @@
       "num": 164651,
       "word": "甘肃地震危重伤员从42人降至12人",
       "onboard_time": 1703493394,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159310,
+      "num": 189514,
+      "word": "一家8口长住酒店被质疑炒作",
+      "onboard_time": 1703901331,
       "rank": 29,
       "category": "社会新闻"
     },
@@ -13899,6 +13971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134624,
+      "num": 134624,
+      "word": "电影金手指今日上映",
+      "onboard_time": 1703902532,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134428,
       "num": 134428,
       "word": "做饭阿姨好像活在霸道总裁文",
@@ -14267,6 +14347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130572,
+      "num": 130572,
+      "word": "丫丫的皮袄子又厚啦",
+      "onboard_time": 1703895927,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130413,
       "num": 130413,
       "word": "小米平板上车",
@@ -14345,6 +14433,14 @@
       "onboard_time": 1703421395,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 129643,
+      "num": 129643,
+      "word": "查干湖冬捕一网捞出36万斤鱼",
+      "onboard_time": 1703901690,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129630,
@@ -14465,6 +14561,14 @@
       "onboard_time": 1703509895,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128261,
+      "num": 128261,
+      "word": "现在的仙侠剧情绪太不稳定了",
+      "onboard_time": 1703902233,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 128216,
@@ -14715,6 +14819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125631,
+      "num": 125631,
+      "word": "侃爷道歉信 ChatGPT写的",
+      "onboard_time": 1703903071,
+      "rank": 42,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 125593,
       "num": 125593,
       "word": "2023余额已不足",
@@ -14801,14 +14913,6 @@
       "onboard_time": 1703557234,
       "rank": 42,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 124757,
-      "num": 124757,
-      "word": "丫丫的皮袄子又厚啦",
-      "onboard_time": 1703895927,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124677,
@@ -15025,6 +15129,14 @@
       "onboard_time": 1703732913,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121604,
+      "num": 121604,
+      "word": "一闪一闪亮星星路演官宣",
+      "onboard_time": 1703900313,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 121435,
@@ -15401,6 +15513,14 @@
       "onboard_time": 1703396432,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 117294,
+      "num": 117294,
+      "word": "我国卫星互联网技术试验卫星发射成功",
+      "onboard_time": 1703901510,
+      "rank": 47,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 117058,
@@ -15855,6 +15975,14 @@
       "num": 120032,
       "word": "传统超市过时了吗",
       "onboard_time": 1703752294,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108944,
+      "num": 108944,
+      "word": "告别2023写给自己的话",
+      "onboard_time": 1703901331,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -17169,6 +17297,14 @@
       "onboard_time": 1703862994,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46762,
+      "num": 285060,
+      "word": "元梦蜡笔小新跳舞",
+      "onboard_time": 1703901631,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 46745,
