@@ -1,6 +1,6 @@
 {
   "startTime": 1703867016595,
-  "endTime": 1703940330751,
+  "endTime": 1703942315931,
   "band_list": [
     {
       "raw_hot": 2739282,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1583054,
-      "num": 581298,
+      "num": 629545,
       "word": "太原地震",
       "onboard_time": 1703936434,
       "rank": 4,
@@ -113,6 +113,14 @@
       "onboard_time": 1703857414,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1181912,
+      "num": 1181912,
+      "word": "吴京会把酒砸向MOSS并说新年快乐",
+      "onboard_time": 1703938714,
+      "rank": 31,
+      "category": "电影,幽默"
     },
     {
       "raw_hot": 1136564,
@@ -267,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 769887,
+      "num": 769887,
+      "word": "张万森你现在没有遗憾了吧",
+      "onboard_time": 1703936013,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 752046,
       "num": 627168,
       "word": "白鹿穿背背佳",
@@ -289,14 +305,6 @@
       "onboard_time": 1703893703,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 698556,
-      "num": 245378,
-      "word": "吴京会把酒砸向MOSS并说新年快乐",
-      "onboard_time": 1703938714,
-      "rank": 31,
-      "category": "电影,幽默"
     },
     {
       "raw_hot": 680211,
@@ -329,14 +337,6 @@
       "onboard_time": 1703935295,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 620604,
-      "num": 551523,
-      "word": "张万森你现在没有遗憾了吧",
-      "onboard_time": 1703936013,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 601613,
@@ -417,6 +417,14 @@
       "onboard_time": 1703907873,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 519025,
+      "num": 519025,
+      "word": "中国留学生在美寄宿家庭被强行掳走",
+      "onboard_time": 1703940695,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511116,
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423084,
+      "num": 423084,
+      "word": "AG对战WB",
+      "onboard_time": 1703929956,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 422071,
       "num": 422071,
       "word": "游本昌 北京爷叔来看上海爷叔",
@@ -675,6 +691,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 369012,
+      "num": 265348,
+      "word": "AG进入赛点",
+      "onboard_time": 1703941954,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 364223,
       "num": 346383,
       "word": "官方通报一小区上百居民呕吐腹泻",
@@ -729,6 +753,14 @@
       "onboard_time": 1703906670,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343239,
+      "num": 343239,
+      "word": "跨年怎么过",
+      "onboard_time": 1703938897,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 339429,
@@ -795,14 +827,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 304191,
-      "num": 304191,
-      "word": "AG对战WB",
-      "onboard_time": 1703929956,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 295761,
       "num": 239855,
       "word": "男朋友让我给他住院的妈妈做饭",
@@ -835,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287695,
+      "num": 287695,
+      "word": "王心凌 假嘟假嘟",
+      "onboard_time": 1703938174,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287666,
       "num": 361539,
       "word": "9号球衣",
@@ -857,14 +889,6 @@
       "onboard_time": 1703898689,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285802,
-      "num": 285802,
-      "word": "跨年怎么过",
-      "onboard_time": 1703938897,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 282271,
@@ -915,8 +939,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 271775,
+      "num": 271775,
+      "word": "唐毅 欧美妆VS中国妆",
+      "onboard_time": 1703939493,
+      "rank": 23,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 267144,
-      "num": 239614,
+      "num": 262141,
       "word": "你好星期六全员wave",
       "onboard_time": 1703937336,
       "rank": 22,
@@ -996,7 +1028,7 @@
     },
     {
       "raw_hot": 246003,
-      "num": 246003,
+      "num": 271943,
       "word": "林孝埈说2024我来了",
       "onboard_time": 1703938897,
       "rank": 27,
@@ -1012,19 +1044,11 @@
     },
     {
       "raw_hot": 240838,
-      "num": 219355,
+      "num": 229292,
       "word": "又在想请回答1997了",
       "onboard_time": 1703936915,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 238757,
-      "num": 238757,
-      "word": "唐毅 欧美妆VS中国妆",
-      "onboard_time": 1703939493,
-      "rank": 23,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 238695,
@@ -1049,14 +1073,6 @@
       "onboard_time": 1703904272,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 232666,
-      "num": 216541,
-      "word": "王心凌 假嘟假嘟",
-      "onboard_time": 1703938174,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 232589,
@@ -1315,6 +1331,14 @@
       "category": "演出,电竞"
     },
     {
+      "raw_hot": 194723,
+      "num": 201791,
+      "word": "物业连续3年免费为业主擦玻璃",
+      "onboard_time": 1703940393,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194295,
       "num": 194295,
       "word": "男子半夜刷卡进女生房间看隐私视频",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1703893885,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181579,
+      "num": 181579,
+      "word": "每天喝牛奶真的有助于长高吗",
+      "onboard_time": 1703941776,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 180984,
@@ -1611,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160111,
+      "num": 160111,
+      "word": "冻梨摆盘",
+      "onboard_time": 1703941115,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 160010,
       "num": 160010,
       "word": "妈妈真的有在尊重他的爱好",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1703901331,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159008,
+      "num": 159008,
+      "word": "WB美美一波拿下",
+      "onboard_time": 1703942134,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 157306,
@@ -1649,6 +1697,14 @@
       "onboard_time": 1703898030,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155452,
+      "num": 155452,
+      "word": "差点不认识哈尔滨了",
+      "onboard_time": 1703940574,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 154104,
@@ -1676,7 +1732,7 @@
     },
     {
       "raw_hot": 151233,
-      "num": 166314,
+      "num": 272192,
       "word": "赛博舞狮燃炸了",
       "onboard_time": 1703939852,
       "rank": 35,
@@ -1809,6 +1865,14 @@
       "onboard_time": 1703865991,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138864,
+      "num": 138864,
+      "word": "张万森下雪了其实是在说我想你",
+      "onboard_time": 1703940574,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 138387,
@@ -2019,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125589,
+      "num": 125589,
+      "word": "老师我们家周深在升降台上起不来了",
+      "onboard_time": 1703941353,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125068,
       "num": 125068,
       "word": "魏大勋演好人身份的信念感",
@@ -2121,6 +2193,14 @@
       "onboard_time": 1703910752,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120084,
+      "num": 120084,
+      "word": "哈尔滨好像是一只开屏的孔雀",
+      "onboard_time": 1703942012,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 120011,
@@ -2289,6 +2369,14 @@
       "onboard_time": 1703934513,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111488,
+      "num": 111488,
+      "word": "美警方回应17岁中国留学生被强行掳走",
+      "onboard_time": 1703942253,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110590,
@@ -2539,6 +2627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 79159,
+      "num": 107156,
+      "word": "孩子们元旦晚会合唱如愿让人泪目",
+      "onboard_time": 1703942012,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72184,
       "num": 63204,
       "word": "熬夜之后为什么从头到脚都不舒服",
@@ -2601,6 +2697,14 @@
       "onboard_time": 1703933433,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52826,
+      "num": 343627,
+      "word": "关晓彤王者直播",
+      "onboard_time": 1703941234,
+      "rank": 14,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 50511,
@@ -2675,6 +2779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41256,
+      "num": 636070,
+      "word": "来自光年之外的新年祝福",
+      "onboard_time": 1703941535,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36468,
       "num": 36468,
       "word": "高敏感是一种天赋",
@@ -2697,6 +2809,14 @@
       "onboard_time": 1703881694,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 28781,
+      "num": 161741,
+      "word": "iQOO12打出来的世冠神操作",
+      "onboard_time": 1703940934,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 28060,
