@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1703968436299,
+  "endTime": 1703970875941,
   "band_list": [
     {
       "raw_hot": 1008806,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48640,
+      "num": 44194,
+      "word": "郝蕾 不是我冷是那个角色冷",
+      "onboard_time": 1703970854,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48179,
       "num": 47038,
       "word": "SEVENTEEN绑架情况下的正确应对",
@@ -459,8 +467,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23196,
-      "num": 20401,
+      "raw_hot": 23801,
+      "num": 23801,
       "word": "王家卫好会拍美女",
       "onboard_time": 1703964075,
       "rank": 35,
@@ -483,8 +491,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13029,
-      "num": 13029,
+      "raw_hot": 16214,
+      "num": 16214,
       "word": "外国人最爱中国美食是这道川菜",
       "onboard_time": 1703966417,
       "rank": 42,
