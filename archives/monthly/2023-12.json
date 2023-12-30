@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703943236318,
+  "endTime": 1703945701576,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -257,6 +257,14 @@
       "onboard_time": 1702869993,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7147002,
+      "num": 7147002,
+      "word": "AG冠军",
+      "onboard_time": 1703943036,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 7104914,
@@ -1665,6 +1673,14 @@
       "onboard_time": 1702995040,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2421667,
+      "num": 2421667,
+      "word": "一诺FMVP",
+      "onboard_time": 1703943336,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 2421229,
@@ -3393,14 +3409,6 @@
       "onboard_time": 1701356500,
       "rank": 20,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 1756142,
-      "num": 1756142,
-      "word": "AG冠军",
-      "onboard_time": 1703943036,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 1755734,
@@ -7675,6 +7683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1025359,
+      "num": 1025359,
+      "word": "青岛大火",
+      "onboard_time": 1703944541,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1024004,
       "num": 1024004,
       "word": "美国一架F16战斗机在黄海坠毁",
@@ -10747,6 +10763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 804173,
+      "num": 804173,
+      "word": "公孙离皮肤",
+      "onboard_time": 1703944896,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 803906,
       "num": 803906,
       "word": "央视曝9元机票实际到手价格接近600元",
@@ -10969,6 +10993,14 @@
       "onboard_time": 1703287583,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 791233,
+      "num": 791233,
+      "word": "Cat双位置冠军",
+      "onboard_time": 1703943514,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 790762,
@@ -11273,6 +11305,14 @@
       "onboard_time": 1703911471,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 774113,
+      "num": 774113,
+      "word": "张杰一个人pk所有卫视",
+      "onboard_time": 1703943336,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 774102,
@@ -26171,6 +26211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 392154,
+      "num": 392154,
+      "word": "梦泪也捧杯了",
+      "onboard_time": 1703944837,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 392080,
       "num": 392080,
       "word": "A股除夕休市",
@@ -27009,6 +27057,14 @@
       "onboard_time": 1702982196,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380583,
+      "num": 380583,
+      "word": "Cat给了自己一巴掌",
+      "onboard_time": 1703943457,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 380550,
@@ -27937,6 +27993,14 @@
       "onboard_time": 1702203093,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 369494,
+      "num": 286152,
+      "word": "每天喝牛奶真的有助于长高吗",
+      "onboard_time": 1703941776,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 369445,
@@ -30049,6 +30113,14 @@
       "onboard_time": 1702967563,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 341192,
+      "num": 341192,
+      "word": "钟意镜杀疯了",
+      "onboard_time": 1703934333,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 341144,
@@ -32595,6 +32667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 315641,
+      "num": 315641,
+      "word": "美警方回应17岁中国留学生被强行掳走",
+      "onboard_time": 1703942253,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315616,
       "num": 300659,
       "word": "戚薇的妆造师审美",
@@ -32737,14 +32817,6 @@
       "onboard_time": 1703920654,
       "rank": 28,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 314707,
-      "num": 314707,
-      "word": "美警方回应17岁中国留学生被强行掳走",
-      "onboard_time": 1703942253,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314550,
@@ -40491,14 +40563,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 254363,
-      "num": 254363,
-      "word": "每天喝牛奶真的有助于长高吗",
-      "onboard_time": 1703941776,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 254349,
       "num": 249438,
       "word": "第一次坐飞机的人三成来自小城市",
@@ -41496,6 +41560,14 @@
       "word": "女子在医院大哭倒地众人合力扶起",
       "onboard_time": 1702368813,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248375,
+      "num": 248375,
+      "word": "杭州一小区年赚200万给业主分红",
+      "onboard_time": 1703943577,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -42665,6 +42737,14 @@
       "onboard_time": 1702427442,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 240640,
+      "num": 206074,
+      "word": "瘦腰腹训练",
+      "onboard_time": 1703944181,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 240582,
@@ -44755,14 +44835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230528,
-      "num": 230528,
-      "word": "钟意镜杀疯了",
-      "onboard_time": 1703934333,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 230440,
       "num": 230440,
       "word": "内行揭秘羽绒服吊牌价真相",
@@ -46067,6 +46139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224312,
+      "num": 224312,
+      "word": "国航悉尼飞北京航班出现故障返航悉尼",
+      "onboard_time": 1703944059,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224179,
       "num": 224179,
       "word": "西方臻选主播疑似模仿董宇辉",
@@ -46465,6 +46545,14 @@
       "onboard_time": 1701859716,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222213,
+      "num": 206662,
+      "word": "宋亚轩奔跑出场 青春具象化",
+      "onboard_time": 1703944781,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 222163,
@@ -47529,6 +47617,14 @@
       "onboard_time": 1701912697,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 216647,
+      "num": 205779,
+      "word": "东方卫视跨年彩排剧透",
+      "onboard_time": 1703945197,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 216596,
@@ -50395,6 +50491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205744,
+      "num": 205744,
+      "word": "胡歌片场给唐嫣擦眼泪",
+      "onboard_time": 1703944059,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205723,
       "num": 205723,
       "word": "普京为一名坐轮椅女学生中断会议",
@@ -50771,6 +50875,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 204654,
+      "num": 204654,
+      "word": "藏海传以男主复仇为主线",
+      "onboard_time": 1703945318,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204633,
       "num": 204633,
       "word": "外国人眼中董宇辉英语口音问题",
@@ -50849,6 +50961,14 @@
       "onboard_time": 1702368214,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204368,
+      "num": 204368,
+      "word": "AG金色的雨",
+      "onboard_time": 1703944119,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 204365,
@@ -51795,6 +51915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201438,
+      "num": 201438,
+      "word": "老师我们家周深在升降台上起不来了",
+      "onboard_time": 1703941353,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201357,
       "num": 201357,
       "word": "辛芷蕾是不是吃醋了",
@@ -52728,6 +52856,14 @@
       "word": "WB小组第一出线",
       "onboard_time": 1702044878,
       "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 198922,
+      "num": 198922,
+      "word": "徐必成已过万重山",
+      "onboard_time": 1703945497,
+      "rank": 40,
       "category": "电竞"
     },
     {
@@ -54273,6 +54409,14 @@
       "onboard_time": 1703500236,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194125,
+      "num": 194125,
+      "word": "杨紫湖南卫视跨年彩排上班",
+      "onboard_time": 1703945557,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 194095,
@@ -56873,6 +57017,14 @@
       "onboard_time": 1703125411,
       "rank": 42,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 186827,
+      "num": 186827,
+      "word": "DRG获临时席位",
+      "onboard_time": 1703943816,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 186821,
@@ -65105,14 +65257,6 @@
       "onboard_time": 1702515873,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157321,
-      "num": 157321,
-      "word": "老师我们家周深在升降台上起不来了",
-      "onboard_time": 1703941353,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 157306,
@@ -75395,6 +75539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113703,
+      "num": 1514793,
+      "word": "来自光年之外的新年祝福",
+      "onboard_time": 1703941535,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113664,
       "num": 113664,
       "word": "黄渤新歌 林素娟",
@@ -78395,14 +78547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76750,
-      "num": 1514793,
-      "word": "来自光年之外的新年祝福",
-      "onboard_time": 1703941535,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76592,
       "num": 338846,
       "word": "00后的第一口贵妇养生汤",
@@ -79715,6 +79859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56112,
+      "num": 206285,
+      "word": "关晓彤本命蔡文姬",
+      "onboard_time": 1703945078,
+      "rank": 32,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 55874,
       "num": 571530,
       "word": "别克E5",
@@ -80105,6 +80257,14 @@
       "onboard_time": 1703633127,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50843,
+      "num": 397560,
+      "word": "王者李白3D动画定档0113",
+      "onboard_time": 1703944837,
+      "rank": 14,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 50674,

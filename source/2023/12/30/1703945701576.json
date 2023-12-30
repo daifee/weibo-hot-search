@@ -1,0 +1,410 @@
+{
+  "runTime": 1703945701576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7147002,
+        "num": 7147002,
+        "word": "AG冠军",
+        "onboard_time": 1703943036,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2421667,
+        "num": 2421667,
+        "word": "一诺FMVP",
+        "onboard_time": 1703943336,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113703,
+        "num": 1297576,
+        "word": "来自光年之外的新年祝福",
+        "onboard_time": 1703941535,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025359,
+        "num": 1025359,
+        "word": "青岛大火",
+        "onboard_time": 1703944541,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828629,
+        "num": 828629,
+        "word": "王诗龄 天天你刚才是发疯了吗",
+        "onboard_time": 1703907030,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 804173,
+        "num": 804173,
+        "word": "公孙离皮肤",
+        "onboard_time": 1703944896,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 796526,
+        "num": 796526,
+        "word": "太原地震",
+        "onboard_time": 1703936434,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791233,
+        "num": 791233,
+        "word": "Cat双位置冠军",
+        "onboard_time": 1703943514,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 774113,
+        "num": 774113,
+        "word": "张杰一个人pk所有卫视",
+        "onboard_time": 1703943336,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 740797,
+        "num": 740797,
+        "word": "中国留学生在美寄宿家庭被强行掳走",
+        "onboard_time": 1703940695,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633004,
+        "num": 633004,
+        "word": "张万森你现在没有遗憾了吧",
+        "onboard_time": 1703936013,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 630604,
+        "num": 630604,
+        "word": "吴京会把酒砸向MOSS并说新年快乐",
+        "onboard_time": 1703938714,
+        "rank": 11,
+        "category": "电影,幽默"
+      },
+      {
+        "raw_hot": 475171,
+        "num": 475171,
+        "word": "下雪场 尴尬",
+        "onboard_time": 1703921612,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 449397,
+        "num": 449397,
+        "word": "难看",
+        "onboard_time": 1703918014,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50843,
+        "num": 397560,
+        "word": "王者李白3D动画定档0113",
+        "onboard_time": 1703944837,
+        "rank": 14,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 392154,
+        "num": 392154,
+        "word": "梦泪也捧杯了",
+        "onboard_time": 1703944837,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 380583,
+        "num": 380583,
+        "word": "Cat给了自己一巴掌",
+        "onboard_time": 1703943457,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 356256,
+        "num": 356256,
+        "word": "白鹿穿背背佳",
+        "onboard_time": 1703932235,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341192,
+        "num": 341192,
+        "word": "钟意镜杀疯了",
+        "onboard_time": 1703934333,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 315641,
+        "num": 315641,
+        "word": "美警方回应17岁中国留学生被强行掳走",
+        "onboard_time": 1703942253,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400038,
+        "num": 290150,
+        "word": "女子离婚冷静期遭丈夫当街杀害",
+        "onboard_time": 1703929831,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369494,
+        "num": 286152,
+        "word": "每天喝牛奶真的有助于长高吗",
+        "onboard_time": 1703941776,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 264160,
+        "num": 264160,
+        "word": "娜扎小学被爸爸剃光头",
+        "onboard_time": 1703937933,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248375,
+        "num": 248375,
+        "word": "杭州一小区年赚200万给业主分红",
+        "onboard_time": 1703943577,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241255,
+        "num": 241255,
+        "word": "电梯内猥亵小女孩男子已被警方抓获",
+        "onboard_time": 1703925033,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228522,
+        "num": 228522,
+        "word": "张万森 局部暴雪了",
+        "onboard_time": 1703924734,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224312,
+        "num": 224312,
+        "word": "国航悉尼飞北京航班出现故障返航悉尼",
+        "onboard_time": 1703944059,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223834,
+        "num": 223834,
+        "word": "王心凌 假嘟假嘟",
+        "onboard_time": 1703938174,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221492,
+        "num": 221492,
+        "word": "林一说有韩国公司找过他",
+        "onboard_time": 1703935295,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206672,
+        "num": 206672,
+        "word": "一等功喜报到家他和家人却不能露脸",
+        "onboard_time": 1703934937,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222213,
+        "num": 206662,
+        "word": "宋亚轩奔跑出场 青春具象化",
+        "onboard_time": 1703944781,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311699,
+        "num": 206333,
+        "word": "古茗 做不完根本做不完",
+        "onboard_time": 1703906433,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 56112,
+        "num": 206285,
+        "word": "关晓彤本命蔡文姬",
+        "onboard_time": 1703945078,
+        "rank": 32,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 240640,
+        "num": 206074,
+        "word": "瘦腰腹训练",
+        "onboard_time": 1703944181,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 216647,
+        "num": 205779,
+        "word": "东方卫视跨年彩排剧透",
+        "onboard_time": 1703945197,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205744,
+        "num": 205744,
+        "word": "胡歌片场给唐嫣擦眼泪",
+        "onboard_time": 1703944059,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204654,
+        "num": 204654,
+        "word": "藏海传以男主复仇为主线",
+        "onboard_time": 1703945318,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204368,
+        "num": 204368,
+        "word": "AG金色的雨",
+        "onboard_time": 1703944119,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202826,
+        "num": 202826,
+        "word": "妈妈平时是睡得很早的人",
+        "onboard_time": 1703929831,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201438,
+        "num": 201438,
+        "word": "老师我们家周深在升降台上起不来了",
+        "onboard_time": 1703941353,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198922,
+        "num": 198922,
+        "word": "徐必成已过万重山",
+        "onboard_time": 1703945497,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194125,
+        "num": 194125,
+        "word": "杨紫湖南卫视跨年彩排上班",
+        "onboard_time": 1703945557,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186827,
+        "num": 186827,
+        "word": "DRG获临时席位",
+        "onboard_time": 1703943816,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186068,
+        "num": 186068,
+        "word": "为什么我不再沉迷买衣服了",
+        "onboard_time": 1703925453,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181716,
+        "num": 181716,
+        "word": "央视2024跨年晚会官宣",
+        "onboard_time": 1703916692,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180832,
+        "num": 180832,
+        "word": "奔跑吧",
+        "onboard_time": 1703942856,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172560,
+        "num": 172560,
+        "word": "卡琳娜更新动态",
+        "onboard_time": 1703929956,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170973,
+        "num": 170973,
+        "word": "张杰谁能忙过你",
+        "onboard_time": 1703942738,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105752,
+        "num": 170737,
+        "word": "物业连续3年免费为业主擦玻璃",
+        "onboard_time": 1703940393,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95600,
+        "num": 167843,
+        "word": "小伙娶领导女儿因观念差距大闪离",
+        "onboard_time": 1703921672,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国政协举行新年茶话会#"
+    }
+  }
+}

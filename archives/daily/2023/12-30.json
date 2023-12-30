@@ -1,7 +1,15 @@
 {
   "startTime": 1703867016595,
-  "endTime": 1703943236318,
+  "endTime": 1703945701576,
   "band_list": [
+    {
+      "raw_hot": 7147002,
+      "num": 7147002,
+      "word": "AG冠军",
+      "onboard_time": 1703943036,
+      "rank": 1,
+      "category": "电竞"
+    },
     {
       "raw_hot": 2739282,
       "num": 2739282,
@@ -25,6 +33,14 @@
       "onboard_time": 1703921612,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2421667,
+      "num": 2421667,
+      "word": "一诺FMVP",
+      "onboard_time": 1703943336,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 2195503,
@@ -56,14 +72,6 @@
       "word": "AG进入赛点",
       "onboard_time": 1703941954,
       "rank": 23,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 1756142,
-      "num": 1756142,
-      "word": "AG冠军",
-      "onboard_time": 1703943036,
-      "rank": 1,
       "category": "电竞"
     },
     {
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1025359,
+      "num": 1025359,
+      "word": "青岛大火",
+      "onboard_time": 1703944541,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 995070,
       "num": 995070,
       "word": "胡歌床上抽烟镜头",
@@ -275,12 +291,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 804173,
+      "num": 804173,
+      "word": "公孙离皮肤",
+      "onboard_time": 1703944896,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 794938,
       "num": 794938,
       "word": "中国留学生在美寄宿家庭被强行掳走",
       "onboard_time": 1703940695,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 791233,
+      "num": 791233,
+      "word": "Cat双位置冠军",
+      "onboard_time": 1703943514,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 779873,
@@ -305,6 +337,14 @@
       "onboard_time": 1703911471,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 774113,
+      "num": 774113,
+      "word": "张杰一个人pk所有卫视",
+      "onboard_time": 1703943336,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 769887,
@@ -659,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392154,
+      "num": 392154,
+      "word": "梦泪也捧杯了",
+      "onboard_time": 1703944837,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 391091,
       "num": 288401,
       "word": "小警犬因太友好而被开除",
@@ -683,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380583,
+      "num": 380583,
+      "word": "Cat给了自己一巴掌",
+      "onboard_time": 1703943457,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 377113,
       "num": 377113,
       "word": "张常宁上场了",
@@ -705,6 +761,14 @@
       "onboard_time": 1703911053,
       "rank": 15,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 369494,
+      "num": 286152,
+      "word": "每天喝牛奶真的有助于长高吗",
+      "onboard_time": 1703941776,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 364223,
@@ -771,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 341192,
+      "num": 341192,
+      "word": "钟意镜杀疯了",
+      "onboard_time": 1703934333,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 339429,
       "num": 273236,
       "word": "一闪一闪亮星星彩蛋",
@@ -803,20 +875,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315641,
+      "num": 315641,
+      "word": "美警方回应17岁中国留学生被强行掳走",
+      "onboard_time": 1703942253,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314707,
       "num": 314707,
       "word": "全家住酒店当事人称拍视频都是为涨粉",
       "onboard_time": 1703920654,
       "rank": 28,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 314707,
-      "num": 314707,
-      "word": "美警方回应17岁中国留学生被强行掳走",
-      "onboard_time": 1703942253,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310797,
@@ -1011,14 +1083,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 254363,
-      "num": 254363,
-      "word": "每天喝牛奶真的有助于长高吗",
-      "onboard_time": 1703941776,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 252851,
       "num": 243408,
       "word": "段暄",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1703931633,
       "rank": 25,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 248375,
+      "num": 248375,
+      "word": "杭州一小区年赚200万给业主分红",
+      "onboard_time": 1703943577,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247716,
@@ -1081,6 +1153,14 @@
       "onboard_time": 1703936915,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 240640,
+      "num": 206074,
+      "word": "瘦腰腹训练",
+      "onboard_time": 1703944181,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 238930,
@@ -1139,14 +1219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230528,
-      "num": 230528,
-      "word": "钟意镜杀疯了",
-      "onboard_time": 1703934333,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 228941,
       "num": 228941,
       "word": "奔跑吧生态篇今晚收官",
@@ -1161,6 +1233,22 @@
       "onboard_time": 1703942134,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224312,
+      "num": 224312,
+      "word": "国航悉尼飞北京航班出现故障返航悉尼",
+      "onboard_time": 1703944059,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222213,
+      "num": 206662,
+      "word": "宋亚轩奔跑出场 青春具象化",
+      "onboard_time": 1703944781,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 219418,
@@ -1193,6 +1281,14 @@
       "onboard_time": 1703919391,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 216647,
+      "num": 205779,
+      "word": "东方卫视跨年彩排剧透",
+      "onboard_time": 1703945197,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 215244,
@@ -1235,12 +1331,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205744,
+      "num": 205744,
+      "word": "胡歌片场给唐嫣擦眼泪",
+      "onboard_time": 1703944059,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205645,
       "num": 205645,
       "word": "刘宇宁跨年后台",
       "onboard_time": 1703927191,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204654,
+      "num": 204654,
+      "word": "藏海传以男主复仇为主线",
+      "onboard_time": 1703945318,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204368,
+      "num": 204368,
+      "word": "AG金色的雨",
+      "onboard_time": 1703944119,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 203872,
@@ -1281,6 +1401,14 @@
       "onboard_time": 1703937995,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201438,
+      "num": 201438,
+      "word": "老师我们家周深在升降台上起不来了",
+      "onboard_time": 1703941353,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 200510,
@@ -1329,6 +1457,14 @@
       "onboard_time": 1703914593,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198922,
+      "num": 198922,
+      "word": "徐必成已过万重山",
+      "onboard_time": 1703945497,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 198663,
@@ -1393,6 +1529,14 @@
       "onboard_time": 1703873482,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194125,
+      "num": 194125,
+      "word": "杨紫湖南卫视跨年彩排上班",
+      "onboard_time": 1703945557,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 193036,
@@ -1480,6 +1624,14 @@
       "word": "爱丽 下次会走的更远",
       "onboard_time": 1703929772,
       "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 186827,
+      "num": 186827,
+      "word": "DRG获临时席位",
+      "onboard_time": 1703943816,
+      "rank": 42,
       "category": "电竞"
     },
     {
@@ -1721,14 +1873,6 @@
       "onboard_time": 1703940574,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 157321,
-      "num": 157321,
-      "word": "老师我们家周深在升降台上起不来了",
-      "onboard_time": 1703941353,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 157306,
@@ -2355,6 +2499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113703,
+      "num": 1514793,
+      "word": "来自光年之外的新年祝福",
+      "onboard_time": 1703941535,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113664,
       "num": 113664,
       "word": "黄渤新歌 林素娟",
@@ -2691,14 +2843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76750,
-      "num": 1514793,
-      "word": "来自光年之外的新年祝福",
-      "onboard_time": 1703941535,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72184,
       "num": 63204,
       "word": "熬夜之后为什么从头到脚都不舒服",
@@ -2747,6 +2891,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 56112,
+      "num": 206285,
+      "word": "关晓彤本命蔡文姬",
+      "onboard_time": 1703945078,
+      "rank": 32,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 55223,
       "num": 55223,
       "word": "千年古树有70多个巨大蜂巢",
@@ -2761,6 +2913,14 @@
       "onboard_time": 1703933433,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 50843,
+      "num": 397560,
+      "word": "王者李白3D动画定档0113",
+      "onboard_time": 1703944837,
+      "rank": 14,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 50511,
