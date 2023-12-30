@@ -1,0 +1,410 @@
+{
+  "runTime": 1703934835540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1580029,
+        "num": 1580029,
+        "word": "央行同意支付宝变更为无实际控制人",
+        "onboard_time": 1703934333,
+        "rank": 0,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 348717,
+        "num": 1127505,
+        "word": "姥姥摔倒起不来一岁多萌娃哭着求助",
+        "onboard_time": 1703927975,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14282,
+        "num": 1119109,
+        "word": "我国卫星互联网技术试验卫星发射成功",
+        "onboard_time": 1703901510,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118309,
+        "num": 1118309,
+        "word": "下雪场 尴尬",
+        "onboard_time": 1703921612,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241597,
+        "num": 796679,
+        "word": "患癌母亲织完给女儿最后的礼物安心离世",
+        "onboard_time": 1703929474,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791852,
+        "num": 791852,
+        "word": "王诗龄 天天你刚才是发疯了吗",
+        "onboard_time": 1703907030,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198148,
+        "num": 722840,
+        "word": "当社恐老师遇上一群社牛学生",
+        "onboard_time": 1703929772,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722332,
+        "num": 722332,
+        "word": "卡琳娜更新动态",
+        "onboard_time": 1703929956,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 683261,
+        "num": 683261,
+        "word": "央视2024跨年晚会官宣",
+        "onboard_time": 1703916692,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637890,
+        "num": 637890,
+        "word": "妈妈平时是睡得很早的人",
+        "onboard_time": 1703929831,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 906376,
+        "num": 628678,
+        "word": "难看",
+        "onboard_time": 1703918014,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 752046,
+        "num": 627168,
+        "word": "白鹿穿背背佳",
+        "onboard_time": 1703932235,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 678572,
+        "num": 619524,
+        "word": "电梯内猥亵小女孩男子已被警方抓获",
+        "onboard_time": 1703925033,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586723,
+        "num": 586723,
+        "word": "歌手黄宣结婚",
+        "onboard_time": 1703933614,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585929,
+        "num": 585929,
+        "word": "郑云龙 云中君",
+        "onboard_time": 1703932534,
+        "rank": 14,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 570713,
+        "num": 570713,
+        "word": "张万森 局部暴雪了",
+        "onboard_time": 1703924734,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 497455,
+        "num": 497455,
+        "word": "警方通报女子举报国企董事长强奸未遂",
+        "onboard_time": 1703930853,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328585,
+        "num": 328585,
+        "word": "为什么我不再沉迷买衣服了",
+        "onboard_time": 1703925453,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284459,
+        "num": 284459,
+        "word": "阿根廷正式拒绝加入金砖国家",
+        "onboard_time": 1703934273,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52761,
+        "num": 274102,
+        "word": "蛋仔瓜分小目标现场",
+        "onboard_time": 1703933433,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 779873,
+        "num": 269579,
+        "word": "女子离婚冷静期遭丈夫当街杀害",
+        "onboard_time": 1703929831,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310536,
+        "num": 268287,
+        "word": "初三女生设卫生巾互助盒供同学自取",
+        "onboard_time": 1703914593,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264713,
+        "num": 264713,
+        "word": "张万森撑伞",
+        "onboard_time": 1703911651,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260991,
+        "num": 260991,
+        "word": "王一博霓虹甜心",
+        "onboard_time": 1703930252,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253156,
+        "num": 253156,
+        "word": "AG对战WB",
+        "onboard_time": 1703929956,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249451,
+        "num": 249451,
+        "word": "曝东方甄选金桔虚假宣传博主再发声",
+        "onboard_time": 1703931633,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 230528,
+        "num": 230528,
+        "word": "钟意镜杀疯了",
+        "onboard_time": 1703934333,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221678,
+        "num": 221678,
+        "word": "年终奖老板发了三千万",
+        "onboard_time": 1703923355,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218554,
+        "num": 221576,
+        "word": "官方通报多名公职人员当街对他人拳打脚踢",
+        "onboard_time": 1703932415,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221540,
+        "num": 221540,
+        "word": "藏海传 权谋",
+        "onboard_time": 1703928872,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377833,
+        "num": 221011,
+        "word": "古茗 做不完根本做不完",
+        "onboard_time": 1703906433,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 219227,
+        "num": 219227,
+        "word": "胡歌床上抽烟镜头",
+        "onboard_time": 1703908832,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202526,
+        "num": 202526,
+        "word": "AG反打一波",
+        "onboard_time": 1703934513,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198537,
+        "num": 198537,
+        "word": "一闪一闪亮星星彩蛋",
+        "onboard_time": 1703921073,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197828,
+        "num": 197828,
+        "word": "王者荣耀",
+        "onboard_time": 1703931573,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190243,
+        "num": 190243,
+        "word": "成毅彩排",
+        "onboard_time": 1703930073,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43698,
+        "num": 177498,
+        "word": "胡锡进称中国人喜欢挣钱存钱数钱",
+        "onboard_time": 1703932831,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 165943,
+        "num": 165943,
+        "word": "小伙娶领导女儿因观念差距大闪离",
+        "onboard_time": 1703921672,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 148069,
+        "num": 148069,
+        "word": "男子突闻儿子去世火车上嚎啕大哭",
+        "onboard_time": 1703915911,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147113,
+        "num": 147113,
+        "word": "盗墓笔记",
+        "onboard_time": 1703934513,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 140663,
+        "num": 140663,
+        "word": "跨年节目单",
+        "onboard_time": 1703916812,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136626,
+        "num": 136626,
+        "word": "金手指",
+        "onboard_time": 1703916752,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89251,
+        "num": 127675,
+        "word": "不投新能源就像20年前没买房",
+        "onboard_time": 1703933074,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 123654,
+        "num": 123654,
+        "word": "李承铉 我都有点嗑你俩了",
+        "onboard_time": 1703919452,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123535,
+        "num": 123535,
+        "word": "周深换个声线开大",
+        "onboard_time": 1703932893,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120854,
+        "num": 120854,
+        "word": "张晚意 晚来的情意",
+        "onboard_time": 1703931334,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118192,
+        "num": 118192,
+        "word": "陈楚生 凄美地尽兴又遗憾",
+        "onboard_time": 1703919211,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116793,
+        "num": 116793,
+        "word": "年会不能停票房破亿",
+        "onboard_time": 1703934155,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111671,
+        "num": 111671,
+        "word": "AG世冠逐光而行",
+        "onboard_time": 1703934513,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107062,
+        "num": 107062,
+        "word": "什么是蛋白矫正",
+        "onboard_time": 1703931272,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国政协举行新年茶话会#"
+    }
+  }
+}
