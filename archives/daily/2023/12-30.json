@@ -1,6 +1,6 @@
 {
   "startTime": 1703867016595,
-  "endTime": 1703931440135,
+  "endTime": 1703932421858,
   "band_list": [
     {
       "raw_hot": 2595650,
@@ -203,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 817068,
+      "num": 817068,
+      "word": "卡琳娜更新动态",
+      "onboard_time": 1703929956,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 812481,
       "num": 812481,
       "word": "藏海传开机",
       "onboard_time": 1703898870,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 779366,
-      "num": 779366,
-      "word": "卡琳娜更新动态",
-      "onboard_time": 1703929956,
-      "rank": 8,
-      "category": "网红"
     },
     {
       "raw_hot": 776664,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586093,
+      "num": 271271,
+      "word": "女子离婚冷静期遭丈夫当街杀害",
+      "onboard_time": 1703929831,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564759,
       "num": 564759,
       "word": "电影一闪一闪亮星星今日公映",
@@ -307,6 +315,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 523719,
+      "num": 523719,
+      "word": "警方通报女子举报国企董事长强奸未遂",
+      "onboard_time": 1703930853,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522008,
       "num": 522008,
       "word": "刘嘉玲 阿Sa吻梁朝伟可以再猛点",
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 511116,
-      "num": 334501,
+      "num": 362268,
       "word": "初三女生设卫生巾互助盒供同学自取",
       "onboard_time": 1703914593,
       "rank": 13,
@@ -337,14 +353,6 @@
       "onboard_time": 1703899472,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 496876,
-      "num": 264511,
-      "word": "女子离婚冷静期遭丈夫当街杀害",
-      "onboard_time": 1703929831,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 490834,
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410688,
+      "num": 410688,
+      "word": "妈妈平时是睡得很早的人",
+      "onboard_time": 1703929831,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 409786,
       "num": 249826,
       "word": "跨年节目单",
@@ -489,6 +505,14 @@
       "onboard_time": 1703895149,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 406797,
+      "num": 1086823,
+      "word": "姥姥摔倒起不来一岁多萌娃哭着求助",
+      "onboard_time": 1703927975,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403201,
@@ -528,6 +552,14 @@
       "word": "陈楚生 凄美地尽兴又遗憾",
       "onboard_time": 1703919211,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 381060,
+      "num": 381060,
+      "word": "王一博霓虹甜心",
+      "onboard_time": 1703930252,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -587,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352681,
-      "num": 1086823,
-      "word": "姥姥摔倒起不来一岁多萌娃哭着求助",
-      "onboard_time": 1703927975,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352318,
       "num": 273939,
       "word": "什么是假性亲密关系",
@@ -627,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330654,
-      "num": 330654,
-      "word": "王一博霓虹甜心",
-      "onboard_time": 1703930252,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 325333,
+      "num": 325333,
+      "word": "藏海传 权谋",
+      "onboard_time": 1703928872,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 321141,
@@ -673,14 +697,6 @@
       "onboard_time": 1703925811,
       "rank": 9,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 300706,
-      "num": 300706,
-      "word": "藏海传 权谋",
-      "onboard_time": 1703928872,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 295761,
@@ -779,12 +795,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 269850,
-      "num": 269850,
-      "word": "妈妈平时是睡得很早的人",
-      "onboard_time": 1703929831,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 267858,
+      "num": 267858,
+      "word": "AG对战WB",
+      "onboard_time": 1703929956,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 264871,
@@ -827,6 +843,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 252548,
+      "num": 252548,
+      "word": "王者荣耀",
+      "onboard_time": 1703931573,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247716,
       "num": 247716,
       "word": "张杰天下炸场",
@@ -841,22 +865,6 @@
       "onboard_time": 1703929474,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246136,
-      "num": 264621,
-      "word": "警方通报女子举报国企董事长强奸未遂",
-      "onboard_time": 1703930853,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245232,
-      "num": 245232,
-      "word": "AG对战WB",
-      "onboard_time": 1703929956,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 241478,
@@ -913,6 +921,14 @@
       "onboard_time": 1703905412,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221581,
+      "num": 221581,
+      "word": "曝东方甄选金桔虚假宣传博主再发声",
+      "onboard_time": 1703931633,
+      "rank": 25,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 219418,
@@ -1371,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151676,
+      "num": 151676,
+      "word": "张晚意 晚来的情意",
+      "onboard_time": 1703931334,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150962,
       "num": 200173,
       "word": "广东宏远全家福",
@@ -1393,6 +1417,14 @@
       "onboard_time": 1703899051,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148098,
+      "num": 148098,
+      "word": "什么是蛋白矫正",
+      "onboard_time": 1703931272,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 147800,
@@ -1465,6 +1497,14 @@
       "onboard_time": 1703893462,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140706,
+      "num": 140706,
+      "word": "白鹿穿背背佳",
+      "onboard_time": 1703932235,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 139366,
@@ -1771,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120011,
+      "num": 120011,
+      "word": "KPL",
+      "onboard_time": 1703932173,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119708,
       "num": 119708,
       "word": "结婚的好处",
@@ -1801,14 +1849,6 @@
       "onboard_time": 1703918912,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 117576,
-      "num": 117576,
-      "word": "什么是蛋白矫正",
-      "onboard_time": 1703931272,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 117294,
@@ -1881,14 +1921,6 @@
       "onboard_time": 1703860656,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 112961,
-      "num": 112961,
-      "word": "张晚意 晚来的情意",
-      "onboard_time": 1703931334,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 112753,
@@ -2329,6 +2361,14 @@
       "onboard_time": 1703874198,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 18080,
+      "num": 144127,
+      "word": "王者决赛美团外卖送一塔",
+      "onboard_time": 1703931573,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 17244,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1703932421858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1396587,
+        "num": 1396587,
+        "word": "下雪场 尴尬",
+        "onboard_time": 1703921612,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 406797,
+        "num": 873871,
+        "word": "姥姥摔倒起不来一岁多萌娃哭着求助",
+        "onboard_time": 1703927975,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24661,
+        "num": 850978,
+        "word": "我国卫星互联网技术试验卫星发射成功",
+        "onboard_time": 1703901510,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843394,
+        "num": 843394,
+        "word": "王诗龄 天天你刚才是发疯了吗",
+        "onboard_time": 1703907030,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237228,
+        "num": 825880,
+        "word": "患癌母亲织完给女儿最后的礼物安心离世",
+        "onboard_time": 1703929474,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817068,
+        "num": 817068,
+        "word": "卡琳娜更新动态",
+        "onboard_time": 1703929956,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 167713,
+        "num": 748909,
+        "word": "当社恐老师遇上一群社牛学生",
+        "onboard_time": 1703929772,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746572,
+        "num": 746572,
+        "word": "张万森 局部暴雪了",
+        "onboard_time": 1703924734,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 717255,
+        "num": 717255,
+        "word": "央视2024跨年晚会官宣",
+        "onboard_time": 1703916692,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 643933,
+        "num": 643933,
+        "word": "为什么我不再沉迷买衣服了",
+        "onboard_time": 1703925453,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1110867,
+        "num": 588271,
+        "word": "难看",
+        "onboard_time": 1703918014,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 794520,
+        "num": 564487,
+        "word": "电梯内猥亵小女孩男子已被警方抓获",
+        "onboard_time": 1703925033,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523719,
+        "num": 523719,
+        "word": "警方通报女子举报国企董事长强奸未遂",
+        "onboard_time": 1703930853,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509595,
+        "num": 509595,
+        "word": "女子实名举报遭国企董事长性侵未遂",
+        "onboard_time": 1703921973,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410688,
+        "num": 410688,
+        "word": "妈妈平时是睡得很早的人",
+        "onboard_time": 1703929831,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381060,
+        "num": 381060,
+        "word": "王一博霓虹甜心",
+        "onboard_time": 1703930252,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371078,
+        "num": 371078,
+        "word": "张万森撑伞",
+        "onboard_time": 1703911651,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 362268,
+        "num": 362268,
+        "word": "初三女生设卫生巾互助盒供同学自取",
+        "onboard_time": 1703914593,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325333,
+        "num": 325333,
+        "word": "藏海传 权谋",
+        "onboard_time": 1703928872,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272778,
+        "num": 272778,
+        "word": "胡歌床上抽烟镜头",
+        "onboard_time": 1703908832,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 586093,
+        "num": 271271,
+        "word": "女子离婚冷静期遭丈夫当街杀害",
+        "onboard_time": 1703929831,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267858,
+        "num": 267858,
+        "word": "AG对战WB",
+        "onboard_time": 1703929956,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 252548,
+        "num": 252548,
+        "word": "王者荣耀",
+        "onboard_time": 1703931573,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 250792,
+        "num": 250792,
+        "word": "成毅彩排",
+        "onboard_time": 1703930073,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249862,
+        "num": 249862,
+        "word": "年终奖老板发了三千万",
+        "onboard_time": 1703923355,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221581,
+        "num": 221581,
+        "word": "曝东方甄选金桔虚假宣传博主再发声",
+        "onboard_time": 1703931633,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 210409,
+        "num": 210409,
+        "word": "小伙娶领导女儿因观念差距大闪离",
+        "onboard_time": 1703921672,
+        "rank": 26,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 198895,
+        "num": 198895,
+        "word": "男子突闻儿子去世火车上嚎啕大哭",
+        "onboard_time": 1703915911,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192979,
+        "num": 192979,
+        "word": "一闪一闪亮星星彩蛋",
+        "onboard_time": 1703921073,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174387,
+        "num": 174387,
+        "word": "陈楚生 凄美地尽兴又遗憾",
+        "onboard_time": 1703919211,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434293,
+        "num": 174387,
+        "word": "古茗 做不完根本做不完",
+        "onboard_time": 1703906433,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174380,
+        "num": 174380,
+        "word": "张常宁上场了",
+        "onboard_time": 1703926473,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172813,
+        "num": 172813,
+        "word": "李承铉 我都有点嗑你俩了",
+        "onboard_time": 1703919452,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164526,
+        "num": 164526,
+        "word": "张真源在奔跑吧收获了多少外号",
+        "onboard_time": 1703926292,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162295,
+        "num": 162295,
+        "word": "饱满后脑勺发型",
+        "onboard_time": 1703925811,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 162218,
+        "num": 162218,
+        "word": "跨年节目单",
+        "onboard_time": 1703916812,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158104,
+        "num": 158104,
+        "word": "金手指",
+        "onboard_time": 1703916752,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151676,
+        "num": 151676,
+        "word": "张晚意 晚来的情意",
+        "onboard_time": 1703931334,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148098,
+        "num": 148098,
+        "word": "什么是蛋白矫正",
+        "onboard_time": 1703931272,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 18080,
+        "num": 144127,
+        "word": "王者决赛美团外卖送一塔",
+        "onboard_time": 1703931573,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140706,
+        "num": 140706,
+        "word": "白鹿穿背背佳",
+        "onboard_time": 1703932235,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137463,
+        "num": 137463,
+        "word": "甲流",
+        "onboard_time": 1703913451,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136228,
+        "num": 136228,
+        "word": "燃油费这么贵飞机烧的是什么油",
+        "onboard_time": 1703910211,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133363,
+        "num": 133363,
+        "word": "爱丽 下次会走的更远",
+        "onboard_time": 1703929772,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130136,
+        "num": 132210,
+        "word": "KIC总决赛",
+        "onboard_time": 1703930972,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131311,
+        "num": 131311,
+        "word": "2023年马斯克赚了7700亿",
+        "onboard_time": 1703919753,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120011,
+        "num": 120011,
+        "word": "KPL",
+        "onboard_time": 1703932173,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119832,
+        "num": 119832,
+        "word": "肖战张婧仪开机路透",
+        "onboard_time": 1703899531,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111515,
+        "num": 111515,
+        "word": "苏醒有少爷命但没少爷病",
+        "onboard_time": 1703921012,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106492,
+        "num": 106492,
+        "word": "鸣龙少年 雷鸣往事被曝光",
+        "onboard_time": 1703928272,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家主席习近平将发表二〇二四年新年贺词#"
+    }
+  }
+}
