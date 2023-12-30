@@ -1,0 +1,410 @@
+{
+  "runTime": 1703975657855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 200859,
+        "num": 200859,
+        "word": "我已经很勇敢了 我也不遗憾",
+        "onboard_time": 1703946937,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152855,
+        "num": 152855,
+        "word": "爷爷赶集给娃买裤子拿去学校让试穿",
+        "onboard_time": 1703951311,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12868,
+        "num": 129337,
+        "word": "无数个1分钟成就气象万千的中国",
+        "onboard_time": 1703941294,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127624,
+        "num": 127624,
+        "word": "2024狗屎运最旺的星座",
+        "onboard_time": 1703948135,
+        "rank": 3,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 104416,
+        "num": 104416,
+        "word": "中国留学生在美寄宿家庭被强行掳走",
+        "onboard_time": 1703940695,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99800,
+        "num": 99800,
+        "word": "郝蕾 不是我冷是那个角色冷",
+        "onboard_time": 1703970854,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97443,
+        "num": 97443,
+        "word": "王诗龄 天天你刚才是发疯了吗",
+        "onboard_time": 1703907030,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95487,
+        "num": 95487,
+        "word": "太原地震",
+        "onboard_time": 1703936434,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77196,
+        "num": 77196,
+        "word": "三大队 七叔去世",
+        "onboard_time": 1703950292,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76273,
+        "num": 76273,
+        "word": "杭州一小区年赚200万给业主分红",
+        "onboard_time": 1703943577,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119139,
+        "num": 73979,
+        "word": "五星酒店回应大早上室外擦玻璃",
+        "onboard_time": 1703972234,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64540,
+        "num": 64540,
+        "word": "张杰一个人pk所有卫视",
+        "onboard_time": 1703943336,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64053,
+        "num": 64053,
+        "word": "萌兰的小jiojio穿大号雪地靴",
+        "onboard_time": 1703950412,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56750,
+        "num": 56750,
+        "word": "一等功喜报到家他和家人却不能露脸",
+        "onboard_time": 1703934937,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53126,
+        "num": 53126,
+        "word": "每天喝牛奶真的有助于长高吗",
+        "onboard_time": 1703941776,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40238,
+        "num": 40238,
+        "word": "官方通报青岛一保税仓库起火",
+        "onboard_time": 1703948614,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39155,
+        "num": 39155,
+        "word": "马思唯嘉宾白敬亭",
+        "onboard_time": 1703946695,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33871,
+        "num": 33871,
+        "word": "辛芷蕾 李李吃香蕉吗",
+        "onboard_time": 1703950891,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27418,
+        "num": 27418,
+        "word": "北京什刹海冰场游客爆满",
+        "onboard_time": 1703948375,
+        "rank": 18,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 27177,
+        "num": 27177,
+        "word": "难看",
+        "onboard_time": 1703918014,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46226,
+        "num": 26651,
+        "word": "2023新生儿爆款名字",
+        "onboard_time": 1703949095,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46105,
+        "num": 26546,
+        "word": "女子离婚冷静期遭丈夫当街杀害",
+        "onboard_time": 1703929831,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26081,
+        "num": 26081,
+        "word": "公孙离皮肤",
+        "onboard_time": 1703944896,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25296,
+        "num": 25296,
+        "word": "吴京会把酒砸向MOSS并说新年快乐",
+        "onboard_time": 1703938714,
+        "rank": 23,
+        "category": "电影,幽默"
+      },
+      {
+        "raw_hot": 25100,
+        "num": 25100,
+        "word": "小狗总跑回老宅等已过世的主人",
+        "onboard_time": 1703956345,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25052,
+        "num": 25052,
+        "word": "AG冠军",
+        "onboard_time": 1703943036,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24193,
+        "num": 24193,
+        "word": "张万森你现在没有遗憾了吧",
+        "onboard_time": 1703936013,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23219,
+        "num": 23219,
+        "word": "王家卫好会拍美女",
+        "onboard_time": 1703964075,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22492,
+        "num": 22492,
+        "word": "繁花",
+        "onboard_time": 1703946578,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20497,
+        "num": 20497,
+        "word": "藏海传以男主复仇为主线",
+        "onboard_time": 1703945318,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20366,
+        "num": 20366,
+        "word": "郑业成纸嫁衣还原度",
+        "onboard_time": 1703952390,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20149,
+        "num": 20149,
+        "word": "暖阳明年见",
+        "onboard_time": 1703949635,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19766,
+        "num": 19766,
+        "word": "郑恺繁花出洋相场场不一样",
+        "onboard_time": 1703974817,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19626,
+        "num": 19626,
+        "word": "金手指 从偷渡客到百亿巨鳄",
+        "onboard_time": 1703951610,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19316,
+        "num": 19316,
+        "word": "一诺FMVP",
+        "onboard_time": 1703943336,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17834,
+        "num": 17834,
+        "word": "戚薇李承铉跨年双人舞台",
+        "onboard_time": 1703949456,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17748,
+        "num": 17748,
+        "word": "SEVENTEEN绑架情况下的正确应对",
+        "onboard_time": 1703963116,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17289,
+        "num": 17289,
+        "word": "外国人最爱中国美食是这道川菜",
+        "onboard_time": 1703966417,
+        "rank": 37,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 16657,
+        "num": 17276,
+        "word": "王一博声音穿透力",
+        "onboard_time": 1703960180,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16127,
+        "num": 17273,
+        "word": "又在想请回答1997了",
+        "onboard_time": 1703936915,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15649,
+        "num": 17250,
+        "word": "电梯内猥亵小女孩男子已被警方抓获",
+        "onboard_time": 1703925033,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15019,
+        "num": 17242,
+        "word": "Cat御三家冠军大满贯",
+        "onboard_time": 1703951251,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14982,
+        "num": 17228,
+        "word": "常吃酸菜真的增加致癌风险吗",
+        "onboard_time": 1703975418,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13862,
+        "num": 17219,
+        "word": "白鹿穿背背佳",
+        "onboard_time": 1703932235,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13640,
+        "num": 17210,
+        "word": "Fly 好兄弟给我狠狠的哭",
+        "onboard_time": 1703946216,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13512,
+        "num": 17192,
+        "word": "巨瘦大腿根的运动",
+        "onboard_time": 1703946336,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 13498,
+        "num": 17178,
+        "word": "王者动画李白新形象",
+        "onboard_time": 1703953886,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13144,
+        "num": 17167,
+        "word": "回望2023",
+        "onboard_time": 1703971695,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13082,
+        "num": 17156,
+        "word": "Cat双位置冠军",
+        "onboard_time": 1703943514,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12168,
+        "num": 17137,
+        "word": "毅玲爸爸",
+        "onboard_time": 1703961858,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家主席习近平将发表二〇二四年新年贺词#"
+    }
+  }
+}
