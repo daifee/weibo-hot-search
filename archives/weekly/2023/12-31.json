@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1703978198988,
+  "endTime": 1703979238076,
   "band_list": [
     {
       "raw_hot": 1008806,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 349676,
+      "num": 349676,
+      "word": "爷爷赶集给娃买裤子拿去学校让试穿",
+      "onboard_time": 1703951311,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343974,
       "num": 343974,
       "word": "难看",
@@ -131,11 +139,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308525,
-      "num": 308525,
-      "word": "爷爷赶集给娃买裤子拿去学校让试穿",
-      "onboard_time": 1703951311,
-      "rank": 24,
+      "raw_hot": 305029,
+      "num": 305029,
+      "word": "五星酒店回应大早上室外擦玻璃",
+      "onboard_time": 1703972234,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -163,12 +171,12 @@
       "category": "电影,幽默"
     },
     {
-      "raw_hot": 252151,
-      "num": 252151,
-      "word": "五星酒店回应大早上室外擦玻璃",
-      "onboard_time": 1703972234,
+      "raw_hot": 257587,
+      "num": 257587,
+      "word": "郝蕾 不是我冷是那个角色冷",
+      "onboard_time": 1703970854,
       "rank": 10,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 241773,
@@ -195,12 +203,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 207236,
-      "num": 207236,
-      "word": "郝蕾 不是我冷是那个角色冷",
-      "onboard_time": 1703970854,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 195112,
+      "num": 182569,
+      "word": "跨年朋友圈文案",
+      "onboard_time": 1703977818,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 171783,
@@ -211,11 +219,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171689,
+      "num": 171689,
+      "word": "北京什刹海冰场游客爆满",
+      "onboard_time": 1703948375,
+      "rank": 37,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 169734,
       "num": 169734,
       "word": "郑业成纸嫁衣还原度",
       "onboard_time": 1703952390,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154925,
+      "num": 154925,
+      "word": "孙怡哭戏",
+      "onboard_time": 1703977940,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -235,6 +259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152538,
+      "num": 152538,
+      "word": "一等功喜报到家他和家人却不能露脸",
+      "onboard_time": 1703934937,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146361,
       "num": 146361,
       "word": "Fly 好兄弟给我狠狠的哭",
@@ -249,6 +281,14 @@
       "onboard_time": 1703951610,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140873,
+      "num": 140873,
+      "word": "繁花饭店后厨集体离职",
+      "onboard_time": 1703977639,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 140114,
@@ -297,22 +337,6 @@
       "onboard_time": 1703946336,
       "rank": 36,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 122633,
-      "num": 122633,
-      "word": "一等功喜报到家他和家人却不能露脸",
-      "onboard_time": 1703934937,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120767,
-      "num": 120767,
-      "word": "北京什刹海冰场游客爆满",
-      "onboard_time": 1703948375,
-      "rank": 37,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 119496,
@@ -379,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100467,
+      "num": 100467,
+      "word": "AG四年",
+      "onboard_time": 1703978721,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95809,
       "num": 95809,
       "word": "王者动画李白新形象",
@@ -395,6 +427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92139,
+      "num": 92139,
+      "word": "常吃酸菜真的增加致癌风险吗",
+      "onboard_time": 1703975418,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91193,
       "num": 91193,
       "word": "又在想请回答1997了",
@@ -403,20 +443,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 90376,
-      "num": 40891,
-      "word": "跨年朋友圈文案",
-      "onboard_time": 1703977818,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 86573,
-      "num": 86573,
-      "word": "繁花饭店后厨集体离职",
-      "onboard_time": 1703977639,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 86371,
+      "num": 86371,
+      "word": "戚薇李承铉 美女总裁与保镖",
+      "onboard_time": 1703977277,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 86235,
@@ -459,12 +491,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 75400,
-      "num": 75400,
-      "word": "常吃酸菜真的增加致癌风险吗",
-      "onboard_time": 1703975418,
-      "rank": 42,
-      "category": "健康医疗"
+      "raw_hot": 69532,
+      "num": 65058,
+      "word": "哈尔滨冰雪大世界跨年夜将延时闭园",
+      "onboard_time": 1703978360,
+      "rank": 30,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 65046,
+      "num": 65046,
+      "word": "朴宰范看二手玫瑰",
+      "onboard_time": 1703978542,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 58597,
+      "num": 58597,
+      "word": "诺丁汉森林2比1曼联",
+      "onboard_time": 1703978420,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 56980,
@@ -472,14 +520,6 @@
       "word": "丁真浙江跨年彩排",
       "onboard_time": 1703956164,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 56338,
-      "num": 56338,
-      "word": "戚薇李承铉 美女总裁与保镖",
-      "onboard_time": 1703977277,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -491,12 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55008,
-      "num": 55008,
-      "word": "孙怡哭戏",
-      "onboard_time": 1703977940,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 50028,
+      "num": 50028,
+      "word": "外向一小次内向一辈子",
+      "onboard_time": 1703977818,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 49237,
+      "num": 49237,
+      "word": "武汉地铁部分站点31日晚8点后停止运营",
+      "onboard_time": 1703977578,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49216,
@@ -523,6 +571,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45323,
+      "num": 45323,
+      "word": "周深被宋雨琦的话笑出鹅叫",
+      "onboard_time": 1703978060,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 42942,
+      "num": 42942,
+      "word": "郑恺繁花出洋相场场不一样",
+      "onboard_time": 1703974817,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 41137,
+      "num": 41137,
+      "word": "王一博声音穿透力",
+      "onboard_time": 1703960180,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40908,
       "num": 40908,
       "word": "毅玲爸爸",
@@ -531,35 +603,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38569,
-      "num": 38569,
-      "word": "郑恺繁花出洋相场场不一样",
-      "onboard_time": 1703974817,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 33403,
-      "num": 33403,
-      "word": "王一博声音穿透力",
-      "onboard_time": 1703960180,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 30098,
-      "num": 30098,
-      "word": "外向一小次内向一辈子",
-      "onboard_time": 1703977818,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 26854,
-      "num": 26854,
-      "word": "周深被宋雨琦的话笑出鹅叫",
-      "onboard_time": 1703978060,
-      "rank": 44,
+      "raw_hot": 37132,
+      "num": 37132,
+      "word": "鞠婧祎彩排",
+      "onboard_time": 1703979082,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -569,14 +617,6 @@
       "onboard_time": 1703964075,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23698,
-      "num": 23698,
-      "word": "武汉地铁部分站点31日晚8点后停止运营",
-      "onboard_time": 1703977578,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23317,
@@ -595,7 +635,7 @@
       "category": "电竞,艺人"
     },
     {
-      "raw_hot": 18283,
+      "raw_hot": 22589,
       "num": 427690,
       "word": "无数个1分钟成就气象万千的中国",
       "onboard_time": 1703941294,
