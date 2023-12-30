@@ -1,7 +1,15 @@
 {
   "startTime": 1703867016595,
-  "endTime": 1703934835540,
+  "endTime": 1703936033092,
   "band_list": [
+    {
+      "raw_hot": 2739282,
+      "num": 2739282,
+      "word": "央行同意支付宝变更为无实际控制人",
+      "onboard_time": 1703934333,
+      "rank": 0,
+      "category": "互联网,社会新闻"
+    },
     {
       "raw_hot": 2595650,
       "num": 628678,
@@ -49,14 +57,6 @@
       "onboard_time": 1703902954,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1580029,
-      "num": 1580029,
-      "word": "央行同意支付宝变更为无实际控制人",
-      "onboard_time": 1703934333,
-      "rank": 0,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1501876,
@@ -137,6 +137,14 @@
       "onboard_time": 1703911053,
       "rank": 1,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1071118,
+      "num": 1071118,
+      "word": "阿根廷正式拒绝加入金砖国家",
+      "onboard_time": 1703934273,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1062838,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 779873,
-      "num": 271271,
+      "num": 300022,
       "word": "女子离婚冷静期遭丈夫当街杀害",
       "onboard_time": 1703929831,
       "rank": 20,
@@ -321,6 +329,14 @@
       "onboard_time": 1703915911,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593631,
+      "num": 593631,
+      "word": "林一说有韩国公司找过他",
+      "onboard_time": 1703935295,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 586723,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 406797,
-      "num": 1127505,
+      "num": 1563148,
       "word": "姥姥摔倒起不来一岁多萌娃哭着求助",
       "onboard_time": 1703927975,
       "rank": 48,
@@ -659,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 346290,
+      "num": 346290,
+      "word": "盗墓笔记",
+      "onboard_time": 1703934513,
+      "rank": 39,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 345913,
       "num": 345913,
       "word": "藏海传女主人设",
@@ -739,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295486,
+      "num": 295486,
+      "word": "AG对战WB",
+      "onboard_time": 1703929956,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 294167,
       "num": 294167,
       "word": "警方通报多人斗殴持礼花互射",
@@ -787,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284459,
-      "num": 284459,
-      "word": "阿根廷正式拒绝加入金砖国家",
-      "onboard_time": 1703934273,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 281353,
       "num": 281353,
       "word": "5岁孩子上课发现对面着火大声提醒",
@@ -832,14 +856,6 @@
       "word": "T1跳科目三",
       "onboard_time": 1703919690,
       "rank": 32,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 267858,
-      "num": 267858,
-      "word": "AG对战WB",
-      "onboard_time": 1703929956,
-      "rank": 24,
       "category": "电竞"
     },
     {
@@ -908,7 +924,7 @@
     },
     {
       "raw_hot": 246608,
-      "num": 866279,
+      "num": 1000120,
       "word": "患癌母亲织完给女儿最后的礼物安心离世",
       "onboard_time": 1703929474,
       "rank": 4,
@@ -963,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231114,
+      "num": 231114,
+      "word": "名侦探学院100期快乐",
+      "onboard_time": 1703935414,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230528,
       "num": 230528,
       "word": "钟意镜杀疯了",
@@ -1011,12 +1035,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215244,
+      "num": 215244,
+      "word": "AG反打一波",
+      "onboard_time": 1703934513,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 212848,
       "num": 189006,
       "word": "2024适合结婚的星座",
       "onboard_time": 1703893284,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211705,
+      "num": 585903,
+      "word": "一等功喜报到家他和家人却不能露脸",
+      "onboard_time": 1703934937,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206523,
@@ -1073,14 +1113,6 @@
       "onboard_time": 1703849011,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202526,
-      "num": 202526,
-      "word": "AG反打一波",
-      "onboard_time": 1703934513,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 201751,
@@ -1195,6 +1227,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191206,
+      "num": 191206,
+      "word": "一闪一闪亮星星 he",
+      "onboard_time": 1703935358,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 189441,
+      "num": 189441,
+      "word": "喜欢同一个人超级久是什么感觉",
+      "onboard_time": 1703935414,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189008,
       "num": 189008,
       "word": "不是瑞士去不起威海更有性价比",
@@ -1267,6 +1315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182149,
+      "num": 182149,
+      "word": "孙颖莎年度总结",
+      "onboard_time": 1703935897,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181667,
       "num": 181667,
       "word": "易建联退役 一个时代的结束",
@@ -1305,6 +1361,14 @@
       "onboard_time": 1703915973,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178100,
+      "num": 178100,
+      "word": "你的婚礼",
+      "onboard_time": 1703934994,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 177735,
@@ -1369,6 +1433,14 @@
       "onboard_time": 1703892624,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 166661,
+      "num": 166661,
+      "word": "鸣龙少年",
+      "onboard_time": 1703934874,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 164284,
@@ -1499,14 +1571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147113,
-      "num": 147113,
-      "word": "盗墓笔记",
-      "onboard_time": 1703934513,
-      "rank": 39,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 146204,
       "num": 146204,
       "word": "山东雾太大了",
@@ -1529,6 +1593,14 @@
       "onboard_time": 1703902233,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144195,
+      "num": 144195,
+      "word": "蚂蚁集团完成股东投票权结构调整",
+      "onboard_time": 1703935897,
+      "rank": 46,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 143919,
@@ -1569,6 +1641,14 @@
       "onboard_time": 1703893462,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139885,
+      "num": 139885,
+      "word": "张万森你现在没有遗憾了吧",
+      "onboard_time": 1703936013,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 139366,
@@ -1924,7 +2004,7 @@
     },
     {
       "raw_hot": 117294,
-      "num": 1119109,
+      "num": 1192919,
       "word": "我国卫星互联网技术试验卫星发射成功",
       "onboard_time": 1703901510,
       "rank": 47,
@@ -2268,7 +2348,7 @@
     },
     {
       "raw_hot": 89251,
-      "num": 127675,
+      "num": 161988,
       "word": "不投新能源就像20年前没买房",
       "onboard_time": 1703933074,
       "rank": 42,
@@ -2339,8 +2419,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52761,
-      "num": 274102,
+      "raw_hot": 54384,
+      "num": 304151,
       "word": "蛋仔瓜分小目标现场",
       "onboard_time": 1703933433,
       "rank": 19,

@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703934835540,
+  "endTime": 1703936033092,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -153,6 +153,14 @@
       "onboard_time": 1703489373,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2739282,
+      "num": 2739282,
+      "word": "央行同意支付宝变更为无实际控制人",
+      "onboard_time": 1703934333,
+      "rank": 0,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 2739096,
@@ -697,14 +705,6 @@
       "onboard_time": 1703671537,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1580029,
-      "num": 1580029,
-      "word": "央行同意支付宝变更为无实际控制人",
-      "onboard_time": 1703934333,
-      "rank": 0,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1574803,
@@ -1369,6 +1369,14 @@
       "onboard_time": 1703581774,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1071118,
+      "num": 1071118,
+      "word": "阿根廷正式拒绝加入金砖国家",
+      "onboard_time": 1703934273,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1067148,
@@ -2164,7 +2172,7 @@
     },
     {
       "raw_hot": 779873,
-      "num": 271271,
+      "num": 300022,
       "word": "女子离婚冷静期遭丈夫当街杀害",
       "onboard_time": 1703929831,
       "rank": 20,
@@ -3225,6 +3233,14 @@
       "onboard_time": 1703638176,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 593631,
+      "num": 593631,
+      "word": "林一说有韩国公司找过他",
+      "onboard_time": 1703935295,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 592659,
@@ -5188,7 +5204,7 @@
     },
     {
       "raw_hot": 406797,
-      "num": 1127505,
+      "num": 1563148,
       "word": "姥姥摔倒起不来一岁多萌娃哭着求助",
       "onboard_time": 1703927975,
       "rank": 48,
@@ -5985,6 +6001,14 @@
       "onboard_time": 1703461707,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346290,
+      "num": 346290,
+      "word": "盗墓笔记",
+      "onboard_time": 1703934513,
+      "rank": 39,
+      "category": "读书作家"
     },
     {
       "raw_hot": 345913,
@@ -6795,6 +6819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295486,
+      "num": 295486,
+      "word": "AG对战WB",
+      "onboard_time": 1703929956,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 295395,
       "num": 295395,
       "word": "考研英语",
@@ -7041,14 +7073,6 @@
       "onboard_time": 1703427337,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284459,
-      "num": 284459,
-      "word": "阿根廷正式拒绝加入金砖国家",
-      "onboard_time": 1703934273,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 284181,
@@ -7425,14 +7449,6 @@
       "onboard_time": 1703587832,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 267858,
-      "num": 267858,
-      "word": "AG对战WB",
-      "onboard_time": 1703929956,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 267708,
@@ -7996,7 +8012,7 @@
     },
     {
       "raw_hot": 246608,
-      "num": 866279,
+      "num": 1000120,
       "word": "患癌母亲织完给女儿最后的礼物安心离世",
       "onboard_time": 1703929474,
       "rank": 4,
@@ -8553,6 +8569,14 @@
       "onboard_time": 1703739094,
       "rank": 28,
       "category": "综艺,美妆"
+    },
+    {
+      "raw_hot": 231114,
+      "num": 231114,
+      "word": "名侦探学院100期快乐",
+      "onboard_time": 1703935414,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 230947,
@@ -9187,6 +9211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215244,
+      "num": 215244,
+      "word": "AG反打一波",
+      "onboard_time": 1703934513,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 215217,
       "num": 215217,
       "word": "SBS歌谣大战出现的状况",
@@ -9297,6 +9329,14 @@
       "onboard_time": 1703672916,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 211705,
+      "num": 585903,
+      "word": "一等功喜报到家他和家人却不能露脸",
+      "onboard_time": 1703934937,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211676,
@@ -9857,14 +9897,6 @@
       "onboard_time": 1703558193,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202526,
-      "num": 202526,
-      "word": "AG反打一波",
-      "onboard_time": 1703934513,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 202037,
@@ -10795,6 +10827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191206,
+      "num": 191206,
+      "word": "一闪一闪亮星星 he",
+      "onboard_time": 1703935358,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191048,
       "num": 191048,
       "word": "亲情是柔软的也是坚韧的",
@@ -10905,6 +10945,14 @@
       "onboard_time": 1703861675,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189441,
+      "num": 189441,
+      "word": "喜欢同一个人超级久是什么感觉",
+      "onboard_time": 1703935414,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 189133,
@@ -11371,6 +11419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182149,
+      "num": 182149,
+      "word": "孙颖莎年度总结",
+      "onboard_time": 1703935897,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182106,
       "num": 182106,
       "word": "英雄联盟维护",
@@ -11649,6 +11705,14 @@
       "onboard_time": 1703808150,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 178100,
+      "num": 178100,
+      "word": "你的婚礼",
+      "onboard_time": 1703934994,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 178042,
@@ -13923,14 +13987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147113,
-      "num": 147113,
-      "word": "盗墓笔记",
-      "onboard_time": 1703934513,
-      "rank": 39,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 147095,
       "num": 147095,
       "word": "2023IVL秋季赛",
@@ -14201,6 +14257,14 @@
       "onboard_time": 1703594495,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144195,
+      "num": 144195,
+      "word": "蚂蚁集团完成股东投票权结构调整",
+      "onboard_time": 1703935897,
+      "rank": 46,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 144084,
@@ -14544,6 +14608,14 @@
       "word": "豆瓣2023年度电影榜单",
       "onboard_time": 1703566298,
       "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 139885,
+      "num": 139885,
+      "word": "张万森你现在没有遗憾了吧",
+      "onboard_time": 1703936013,
+      "rank": 49,
       "category": "电影"
     },
     {
@@ -16628,7 +16700,7 @@
     },
     {
       "raw_hot": 117294,
-      "num": 1119109,
+      "num": 1192919,
       "word": "我国卫星互联网技术试验卫星发射成功",
       "onboard_time": 1703901510,
       "rank": 47,
@@ -17884,7 +17956,7 @@
     },
     {
       "raw_hot": 89251,
-      "num": 127675,
+      "num": 161988,
       "word": "不投新能源就像20年前没买房",
       "onboard_time": 1703933074,
       "rank": 42,
@@ -18499,6 +18571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54384,
+      "num": 304151,
+      "word": "蛋仔瓜分小目标现场",
+      "onboard_time": 1703933433,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54052,
       "num": 52692,
       "word": "考研第2天",
@@ -18529,14 +18609,6 @@
       "onboard_time": 1703646577,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52761,
-      "num": 274102,
-      "word": "蛋仔瓜分小目标现场",
-      "onboard_time": 1703933433,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 52366,
