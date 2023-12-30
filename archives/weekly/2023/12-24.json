@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703921626165,
+  "endTime": 1703924435089,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 2595650,
-      "num": 254837,
+      "num": 271511,
       "word": "难看",
       "onboard_time": 1703918014,
       "rank": 46,
@@ -217,6 +217,14 @@
       "onboard_time": 1703588673,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2525509,
+      "num": 2525509,
+      "word": "下雪场 尴尬",
+      "onboard_time": 1703921612,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 2461137,
@@ -1584,6 +1592,14 @@
       "word": "流量褪去的淄博鸭头小哥",
       "onboard_time": 1703606490,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 949441,
+      "num": 693644,
+      "word": "女子实名举报遭国企董事长性侵未遂",
+      "onboard_time": 1703921973,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -3155,6 +3171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591445,
+      "num": 241141,
+      "word": "男子当街抽打并脱裤侮辱老人",
+      "onboard_time": 1703919690,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590335,
       "num": 590335,
       "word": "赵昭仪手写8套花少穿搭",
@@ -4243,6 +4267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 475447,
+      "num": 171572,
+      "word": "年终奖老板发了三千万",
+      "onboard_time": 1703923355,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 475223,
       "num": 475223,
       "word": "胡海泉再被冻结115万股权",
@@ -4361,6 +4393,14 @@
       "onboard_time": 1703509477,
       "rank": 21,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 463789,
+      "num": 170084,
+      "word": "小伙娶领导女儿因观念差距大闪离",
+      "onboard_time": 1703921672,
+      "rank": 21,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 462033,
@@ -7003,14 +7043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277879,
-      "num": 241141,
-      "word": "男子当街抽打并脱裤侮辱老人",
-      "onboard_time": 1703919690,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277693,
       "num": 277693,
       "word": "TES",
@@ -7073,6 +7105,14 @@
       "onboard_time": 1703813611,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274721,
+      "num": 274721,
+      "word": "T1跳科目三",
+      "onboard_time": 1703919690,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 274687,
@@ -7491,14 +7531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257922,
-      "num": 257922,
-      "word": "T1跳科目三",
-      "onboard_time": 1703919690,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 257875,
       "num": 257875,
       "word": "订婚强奸案",
@@ -7889,6 +7921,14 @@
       "onboard_time": 1703560353,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241478,
+      "num": 164793,
+      "word": "潜行",
+      "onboard_time": 1703846253,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 241408,
@@ -11203,6 +11243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179683,
+      "num": 144865,
+      "word": "谈恋爱 落差感",
+      "onboard_time": 1703921912,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179422,
       "num": 179422,
       "word": "紫金陈考虑把1818黄金眼写进书",
@@ -11689,6 +11737,14 @@
       "onboard_time": 1703562816,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172954,
+      "num": 172954,
+      "word": "汇川技术回应参与小米汽车电机研发",
+      "onboard_time": 1703922630,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 172866,
@@ -12291,14 +12347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164270,
-      "num": 164270,
-      "word": "下雪场 尴尬",
-      "onboard_time": 1703921612,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 164229,
       "num": 164229,
       "word": "李艾 被动容貌焦虑是不可以的",
@@ -12633,6 +12681,14 @@
       "onboard_time": 1703584235,
       "rank": 6,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 159814,
+      "num": 159814,
+      "word": "全家住酒店当事人称拍视频都是为涨粉",
+      "onboard_time": 1703920654,
+      "rank": 28,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 159671,
@@ -15051,6 +15107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 129840,
+      "num": 129840,
+      "word": "汪苏泷2023最后一场音乐节",
+      "onboard_time": 1703923836,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129805,
       "num": 129805,
       "word": "爱情长跑",
@@ -16035,14 +16099,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118673,
-      "num": 118673,
-      "word": "潜行",
-      "onboard_time": 1703846253,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 118559,
       "num": 118559,
       "word": "活塞vs凯尔特人",
@@ -16867,6 +16923,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 106506,
+      "num": 106506,
+      "word": "宁波共享奶奶和小朋友的双向奔赴",
+      "onboard_time": 1703923836,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106404,
       "num": 106404,
       "word": "狗和狗的差距真是太大了",
@@ -16969,6 +17033,22 @@
       "onboard_time": 1703643334,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104332,
+      "num": 104332,
+      "word": "秋冬香水",
+      "onboard_time": 1703924013,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 104237,
+      "num": 104237,
+      "word": "2023王者世冠kic",
+      "onboard_time": 1703924374,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 104197,
