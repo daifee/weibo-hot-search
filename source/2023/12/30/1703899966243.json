@@ -1,0 +1,410 @@
+{
+  "runTime": 1703899966243,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1494765,
+        "num": 1494765,
+        "word": "俄女网红办半裸派对引普京不满",
+        "onboard_time": 1703891839,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1044673,
+        "num": 1044673,
+        "word": "何蓝逗有呼吸性碱中毒",
+        "onboard_time": 1703894365,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42359,
+        "num": 920454,
+        "word": "2023这些凡人微光照亮前路",
+        "onboard_time": 1703862994,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885924,
+        "num": 885924,
+        "word": "人民日报评禁放烟花",
+        "onboard_time": 1703893885,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812481,
+        "num": 812481,
+        "word": "藏海传开机",
+        "onboard_time": 1703898870,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 662713,
+        "num": 662713,
+        "word": "弃港大选北大女孩刘丁宁现状",
+        "onboard_time": 1703893703,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482309,
+        "num": 482309,
+        "word": "我在2元店都不敢这么买",
+        "onboard_time": 1703863475,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412625,
+        "num": 412625,
+        "word": "温太医 癫公",
+        "onboard_time": 1703895807,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409208,
+        "num": 409208,
+        "word": "南京南站 慌不择路",
+        "onboard_time": 1703895149,
+        "rank": 8,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 391079,
+        "num": 391079,
+        "word": "船长下令斩断价值10多万的蟹笼救下16人",
+        "onboard_time": 1703893524,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1913968,
+        "num": 388665,
+        "word": "五百万去世",
+        "onboard_time": 1703896530,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450305,
+        "num": 387185,
+        "word": "肖战张婧仪开机路透",
+        "onboard_time": 1703899531,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382175,
+        "num": 382175,
+        "word": "女子因不孕离婚后逃离家乡小城",
+        "onboard_time": 1703856936,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311182,
+        "num": 311182,
+        "word": "图书馆30秒",
+        "onboard_time": 1703858496,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305893,
+        "num": 305893,
+        "word": "她曾经有机会 她把握住了",
+        "onboard_time": 1703898030,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285863,
+        "num": 285863,
+        "word": "易烊千玺代言特仑苏",
+        "onboard_time": 1703898689,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281761,
+        "num": 281761,
+        "word": "赵灵儿曲布等多名百万粉丝网红被判刑",
+        "onboard_time": 1703864792,
+        "rank": 16,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 269252,
+        "num": 269252,
+        "word": "女子185万买江景房完全看不到江",
+        "onboard_time": 1703864072,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245943,
+        "num": 245943,
+        "word": "鼻炎 腋下夹空塑料瓶",
+        "onboard_time": 1703899472,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242613,
+        "num": 242613,
+        "word": "5岁孩子上课发现对面着火大声提醒",
+        "onboard_time": 1703892319,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 342852,
+        "num": 242197,
+        "word": "什么是假性亲密关系",
+        "onboard_time": 1703893284,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291134,
+        "num": 241713,
+        "word": "狠狠避雷这款羽绒服",
+        "onboard_time": 1703894365,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240233,
+        "num": 240233,
+        "word": "呼吸性碱中毒",
+        "onboard_time": 1703897429,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240044,
+        "num": 240044,
+        "word": "藏海传阵容",
+        "onboard_time": 1703899412,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239855,
+        "num": 239855,
+        "word": "男朋友让我给他住院的妈妈做饭",
+        "onboard_time": 1703893223,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237323,
+        "num": 237323,
+        "word": "鸣龙少年 癫剧",
+        "onboard_time": 1703861918,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220850,
+        "num": 220850,
+        "word": "1岁娃叫不醒妈妈转头监控求助爸爸",
+        "onboard_time": 1703897973,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212250,
+        "num": 212250,
+        "word": "藏海传 大男主",
+        "onboard_time": 1703899649,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206260,
+        "num": 206260,
+        "word": "大雾",
+        "onboard_time": 1703898931,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201399,
+        "num": 201399,
+        "word": "张晚意 最纯情的脸演最禁忌的爱",
+        "onboard_time": 1703859515,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194295,
+        "num": 194295,
+        "word": "男子半夜刷卡进女生房间看隐私视频",
+        "onboard_time": 1703873482,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164776,
+        "num": 164776,
+        "word": "2024适合结婚的星座",
+        "onboard_time": 1703893284,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159741,
+        "num": 159741,
+        "word": "我知道我爱你 男二人设",
+        "onboard_time": 1703892561,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150176,
+        "num": 150176,
+        "word": "任子威学韩语了",
+        "onboard_time": 1703899051,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146204,
+        "num": 146204,
+        "word": "山东雾太大了",
+        "onboard_time": 1703896588,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146046,
+        "num": 146046,
+        "word": "游本昌 北京爷叔来看上海爷叔",
+        "onboard_time": 1703862933,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144027,
+        "num": 144027,
+        "word": "唐嫣斓曦蓝盈莹都是张晓龙的学生",
+        "onboard_time": 1703863292,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142856,
+        "num": 142856,
+        "word": "尹锡悦邀朴槿惠共进午餐",
+        "onboard_time": 1703892624,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142366,
+        "num": 142366,
+        "word": "2024跨年多巴胺壁纸",
+        "onboard_time": 1703898151,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139210,
+        "num": 139210,
+        "word": "繁花 爽剧",
+        "onboard_time": 1703897371,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134232,
+        "num": 134232,
+        "word": "陈楚生 天大地大火锅最大",
+        "onboard_time": 1703893524,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133202,
+        "num": 133202,
+        "word": "张艺兴 Qeelin代言人",
+        "onboard_time": 1703898030,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128480,
+        "num": 128480,
+        "word": "迪丽热巴的流浪行李",
+        "onboard_time": 1703893462,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124779,
+        "num": 124779,
+        "word": "勇士或交易维金斯",
+        "onboard_time": 1703898391,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122963,
+        "num": 122963,
+        "word": "易建联退役 一个时代的结束",
+        "onboard_time": 1703893885,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122383,
+        "num": 122383,
+        "word": "丫丫的皮袄子又厚啦",
+        "onboard_time": 1703895927,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120074,
+        "num": 120074,
+        "word": "明年一定是个好年",
+        "onboard_time": 1703857414,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115360,
+        "num": 115360,
+        "word": "1月十二星座注意事项",
+        "onboard_time": 1703894365,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113038,
+        "num": 113038,
+        "word": "武大书协通报活动获奖44人39人为干部",
+        "onboard_time": 1703894546,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105265,
+        "num": 105265,
+        "word": "官方通报一小区上百居民呕吐腹泻",
+        "onboard_time": 1703884274,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国政协举行新年茶话会#"
+    }
+  }
+}

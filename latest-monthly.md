@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/30 09:12:35
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/30 09:32:46
 </p>
 </blockquote>
 <p>
@@ -2055,6 +2055,12 @@ TFBOYS你们敢耍老子（热度：2341092）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E7%99%BE%E4%B8%87%E5%8E%BB%E4%B8%96%23" target="weibo">
+五百万去世（热度：1913968）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E5%AB%96%E5%A8%BC%E8%B5%8C%E5%8D%9A%E6%94%B6%E5%9B%9E%E6%89%A3%23" target="weibo">
 女子实名举报武汉大学教授嫖娼赌博收回扣（热度：1911454）
 </a>
@@ -2219,12 +2225,6 @@ WBG宣布TheShy离队（热度：1896260）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%9B%B4%E6%92%AD%23" target="weibo">
 五月天直播（热度：1860037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E7%99%BE%E4%B8%87%E5%8E%BB%E4%B8%96%23" target="weibo">
-五百万去世（热度：1858354）
 </a>
 </li>
 

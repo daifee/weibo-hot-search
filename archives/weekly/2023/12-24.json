@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703898755269,
+  "endTime": 1703899966243,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1913968,
+      "num": 388665,
+      "word": "五百万去世",
+      "onboard_time": 1703896530,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1901664,
       "num": 1901664,
       "word": "papi酱 2023道歉信",
@@ -431,14 +439,6 @@
       "num": 474750,
       "word": "李善均昨天请求警方测谎",
       "onboard_time": 1703650838,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1858354,
-      "num": 320901,
-      "word": "五百万去世",
-      "onboard_time": 1703896530,
       "rank": 10,
       "category": "艺人"
     },
@@ -1905,6 +1905,14 @@
       "onboard_time": 1703408256,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 812481,
+      "num": 812481,
+      "word": "藏海传开机",
+      "onboard_time": 1703898870,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 812257,
@@ -4267,6 +4275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 450305,
+      "num": 387185,
+      "word": "肖战张婧仪开机路透",
+      "onboard_time": 1703899531,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 450210,
       "num": 450210,
       "word": "AG对战狼队",
@@ -4779,6 +4795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409208,
+      "num": 409208,
+      "word": "南京南站 慌不择路",
+      "onboard_time": 1703895149,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 407992,
       "num": 407992,
       "word": "春花厌阵容官宣",
@@ -5235,14 +5259,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 370460,
-      "num": 370460,
-      "word": "南京南站 慌不择路",
-      "onboard_time": 1703895149,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 370357,
       "num": 370357,
       "word": "迪丽热巴胡先煦 双人相声",
@@ -5444,7 +5460,7 @@
     },
     {
       "raw_hot": 352318,
-      "num": 198772,
+      "num": 242197,
       "word": "什么是假性亲密关系",
       "onboard_time": 1703893284,
       "rank": 20,
@@ -5660,7 +5676,7 @@
     },
     {
       "raw_hot": 334494,
-      "num": 248350,
+      "num": 269252,
       "word": "女子185万买江景房完全看不到江",
       "onboard_time": 1703864072,
       "rank": 49,
@@ -6131,6 +6147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305893,
+      "num": 305893,
+      "word": "她曾经有机会 她把握住了",
+      "onboard_time": 1703898030,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305552,
       "num": 305552,
       "word": "农村老式火锅",
@@ -6260,7 +6284,7 @@
     },
     {
       "raw_hot": 295761,
-      "num": 195284,
+      "num": 239855,
       "word": "男朋友让我给他住院的妈妈做饭",
       "onboard_time": 1703893223,
       "rank": 21,
@@ -6379,6 +6403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 291134,
+      "num": 241713,
+      "word": "狠狠避雷这款羽绒服",
+      "onboard_time": 1703894365,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 290856,
       "num": 290856,
       "word": "别问雪多大 动物园里就剩它了",
@@ -6473,6 +6505,14 @@
       "onboard_time": 1703682632,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 285863,
+      "num": 285863,
+      "word": "易烊千玺代言特仑苏",
+      "onboard_time": 1703898689,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 285528,
@@ -7379,12 +7419,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 246045,
-      "num": 194052,
-      "word": "狠狠避雷这款羽绒服",
-      "onboard_time": 1703894365,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 245943,
+      "num": 245943,
+      "word": "鼻炎 腋下夹空塑料瓶",
+      "onboard_time": 1703899472,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245111,
@@ -7545,6 +7585,14 @@
       "onboard_time": 1703509654,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 240044,
+      "num": 240044,
+      "word": "藏海传阵容",
+      "onboard_time": 1703899412,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 239975,
@@ -8275,6 +8323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 220850,
+      "num": 220850,
+      "word": "1岁娃叫不醒妈妈转头监控求助爸爸",
+      "onboard_time": 1703897973,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220709,
       "num": 220709,
       "word": "迪丽热巴潜水服",
@@ -8569,6 +8625,14 @@
       "onboard_time": 1703834734,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 212250,
+      "num": 212250,
+      "word": "藏海传 大男主",
+      "onboard_time": 1703899649,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 212208,
@@ -8881,6 +8945,14 @@
       "onboard_time": 1703513615,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206260,
+      "num": 206260,
+      "word": "大雾",
+      "onboard_time": 1703724032,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206256,
@@ -9683,6 +9755,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194295,
+      "num": 194295,
+      "word": "男子半夜刷卡进女生房间看隐私视频",
+      "onboard_time": 1703873482,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194180,
       "num": 194180,
       "word": "仿生食品不宜多吃",
@@ -10145,14 +10225,6 @@
       "onboard_time": 1703826455,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188048,
-      "num": 188048,
-      "word": "男子半夜刷卡进女生房间看隐私视频",
-      "onboard_time": 1703873482,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187940,
@@ -12315,14 +12387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156010,
-      "num": 156010,
-      "word": "易烊千玺代言特仑苏",
-      "onboard_time": 1703898689,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155968,
       "num": 155968,
       "word": "张艺兴 Qeelin代言人",
@@ -12723,6 +12787,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 150176,
+      "num": 150176,
+      "word": "任子威学韩语了",
+      "onboard_time": 1703899051,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150119,
       "num": 150119,
       "word": "侯明昊 银发麻花马尾辫",
@@ -12832,14 +12904,6 @@
       "word": "北京一公交车行驶途中司机晕倒",
       "onboard_time": 1703574516,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147780,
-      "num": 147780,
-      "word": "大雾",
-      "onboard_time": 1703724032,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -12953,6 +13017,14 @@
       "onboard_time": 1703488172,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146204,
+      "num": 146204,
+      "word": "山东雾太大了",
+      "onboard_time": 1703896588,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146024,
@@ -13579,14 +13651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137849,
-      "num": 137849,
-      "word": "山东雾太大了",
-      "onboard_time": 1703896588,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137820,
       "num": 137820,
       "word": "考研数学考前提示",
@@ -13851,11 +13915,11 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 134374,
-      "num": 134374,
-      "word": "她曾经有机会 她把握住了",
-      "onboard_time": 1703898030,
-      "rank": 36,
+      "raw_hot": 134232,
+      "num": 134232,
+      "word": "陈楚生 天大地大火锅最大",
+      "onboard_time": 1703893524,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -14347,14 +14411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129075,
-      "num": 129075,
-      "word": "陈楚生 天大地大火锅最大",
-      "onboard_time": 1703893524,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129006,
       "num": 129006,
       "word": "救人外卖小哥说2024活在当下",
@@ -14731,6 +14787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124779,
+      "num": 124779,
+      "word": "勇士或交易维金斯",
+      "onboard_time": 1703898391,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124761,
       "num": 124761,
       "word": "莫言写书有多快",
@@ -14913,14 +14977,6 @@
       "onboard_time": 1703554353,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122368,
-      "num": 122368,
-      "word": "勇士或交易维金斯",
-      "onboard_time": 1703898391,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 122143,
@@ -15489,14 +15545,6 @@
       "onboard_time": 1703465914,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114137,
-      "num": 114137,
-      "word": "1岁娃叫不醒妈妈转头监控求助爸爸",
-      "onboard_time": 1703897973,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114129,
