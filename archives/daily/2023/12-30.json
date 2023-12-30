@@ -1,6 +1,6 @@
 {
   "startTime": 1703867016595,
-  "endTime": 1703925231808,
+  "endTime": 1703927746543,
   "band_list": [
     {
       "raw_hot": 2595650,
@@ -107,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1116437,
+      "num": 1116437,
+      "word": "张万森 局部暴雪了",
+      "onboard_time": 1703924734,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1108529,
       "num": 1108529,
       "word": "何蓝逗有呼吸性碱中毒",
@@ -179,6 +187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 843496,
+      "num": 613340,
+      "word": "电梯内猥亵小女孩男子已被警方抓获",
+      "onboard_time": 1703925033,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 812481,
       "num": 812481,
       "word": "藏海传开机",
@@ -233,6 +249,14 @@
       "onboard_time": 1703903610,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643089,
+      "num": 643089,
+      "word": "为什么我不再沉迷买衣服了",
+      "onboard_time": 1703925453,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 601613,
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 475447,
-      "num": 179904,
+      "num": 198420,
       "word": "年终奖老板发了三千万",
       "onboard_time": 1703923355,
       "rank": 20,
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 463789,
-      "num": 180547,
+      "num": 198394,
       "word": "小伙娶领导女儿因观念差距大闪离",
       "onboard_time": 1703921672,
       "rank": 21,
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 339429,
-      "num": 248581,
+      "num": 248804,
       "word": "一闪一闪亮星星彩蛋",
       "onboard_time": 1703921073,
       "rank": 21,
@@ -569,6 +593,22 @@
       "onboard_time": 1703864072,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321141,
+      "num": 255747,
+      "word": "张真源在奔跑吧收获了多少外号",
+      "onboard_time": 1703926292,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 314707,
+      "num": 314707,
+      "word": "全家住酒店当事人称拍视频都是为涨粉",
+      "onboard_time": 1703920654,
+      "rank": 28,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 310797,
@@ -659,6 +699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 279322,
+      "num": 250549,
+      "word": "张常宁上场了",
+      "onboard_time": 1703926473,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278712,
       "num": 278712,
       "word": "王鹤棣宋茜 跨年跳屋顶着火",
@@ -691,6 +739,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 264799,
+      "num": 264799,
+      "word": "饱满后脑勺发型",
+      "onboard_time": 1703925811,
+      "rank": 9,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 263187,
       "num": 232656,
       "word": "1岁娃叫不醒妈妈转头监控求助爸爸",
@@ -713,14 +769,6 @@
       "onboard_time": 1703913933,
       "rank": 23,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 247963,
-      "num": 247963,
-      "word": "全家住酒店当事人称拍视频都是为涨粉",
-      "onboard_time": 1703920654,
-      "rank": 28,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 247716,
@@ -761,14 +809,6 @@
       "onboard_time": 1703904272,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 233070,
-      "num": 179100,
-      "word": "张万森 局部暴雪了",
-      "onboard_time": 1703924734,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 232589,
@@ -848,6 +888,14 @@
       "word": "花少团随时都惦记着迪丽热巴",
       "onboard_time": 1703866530,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205645,
+      "num": 205645,
+      "word": "刘宇宁跨年后台",
+      "onboard_time": 1703927191,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -931,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198053,
+      "num": 198053,
+      "word": "唐嫣繁花演技",
+      "onboard_time": 1703925033,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197892,
       "num": 197892,
       "word": "繁花打光",
@@ -979,6 +1035,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 187691,
+      "num": 187691,
+      "word": "刘德华 反派角色",
+      "onboard_time": 1703927254,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186543,
       "num": 186543,
       "word": "肖战直播",
@@ -1017,14 +1081,6 @@
       "onboard_time": 1703893885,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181259,
-      "num": 181259,
-      "word": "电梯内猥亵小女孩男子已被警方抓获",
-      "onboard_time": 1703925033,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180984,
@@ -1171,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156601,
+      "num": 165053,
+      "word": "全国多所高校开放校园",
+      "onboard_time": 1703925213,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 155968,
       "num": 155968,
       "word": "张艺兴 Qeelin代言人",
@@ -1185,6 +1249,14 @@
       "onboard_time": 1703858554,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152095,
+      "num": 152095,
+      "word": "曾舜晞AI出发图",
+      "onboard_time": 1703924913,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 150962,
@@ -1241,6 +1313,14 @@
       "onboard_time": 1703902233,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143919,
+      "num": 143919,
+      "word": "杨汝晴的2023人生关键词",
+      "onboard_time": 1703926054,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 143713,
@@ -1435,14 +1515,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 126567,
-      "num": 126567,
-      "word": "唐嫣繁花演技",
-      "onboard_time": 1703925033,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126233,
       "num": 126233,
       "word": "1月十二星座注意事项",
@@ -1579,12 +1651,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 117383,
-      "num": 117383,
-      "word": "曾舜晞AI出发图",
-      "onboard_time": 1703924913,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 117644,
+      "num": 117644,
+      "word": "魏大勋演好人身份的信念感",
+      "onboard_time": 1703925453,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 117294,
@@ -1617,6 +1689,14 @@
       "onboard_time": 1703905830,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 115638,
+      "num": 115638,
+      "word": "3个动作提升心肺功能",
+      "onboard_time": 1703927491,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 114005,
@@ -1739,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106587,
+      "num": 106587,
+      "word": "这个小猫好幸福啊",
+      "onboard_time": 1703925934,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106506,
       "num": 106506,
       "word": "宁波共享奶奶和小朋友的双向奔赴",
@@ -1851,20 +1939,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96035,
+      "num": 96035,
+      "word": "持妆眼线笔",
+      "onboard_time": 1703925934,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 94511,
       "num": 109702,
       "word": "水墨猫咪尽显国画意境之美",
       "onboard_time": 1703917352,
       "rank": 49,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 94506,
-      "num": 96623,
-      "word": "全国多所高校开放校园",
-      "onboard_time": 1703925213,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 93670,
@@ -2052,7 +2140,7 @@
     },
     {
       "raw_hot": 21975,
-      "num": 98845,
+      "num": 991828,
       "word": "如果文物们来一场新年音乐会",
       "onboard_time": 1703912253,
       "rank": 48,
