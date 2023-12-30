@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1703963617656,
+  "endTime": 1703964833871,
   "band_list": [
     {
       "raw_hot": 1008806,
@@ -435,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47038,
+      "raw_hot": 48179,
       "num": 47038,
       "word": "SEVENTEEN绑架情况下的正确应对",
       "onboard_time": 1703963116,
@@ -443,8 +443,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33699,
-      "num": 33699,
+      "raw_hot": 40908,
+      "num": 40908,
       "word": "毅玲爸爸",
       "onboard_time": 1703961858,
       "rank": 28,
@@ -465,6 +465,14 @@
       "onboard_time": 1703961737,
       "rank": 36,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 20401,
+      "num": 20401,
+      "word": "王家卫好会拍美女",
+      "onboard_time": 1703964075,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 18283,

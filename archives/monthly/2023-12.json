@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703963617656,
+  "endTime": 1703964833871,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -80691,6 +80691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48179,
+      "num": 47038,
+      "word": "SEVENTEEN绑架情况下的正确应对",
+      "onboard_time": 1703963116,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48109,
       "num": 48109,
       "word": "谢娜扣杀许昕",
@@ -80769,14 +80777,6 @@
       "onboard_time": 1703892441,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 47038,
-      "num": 47038,
-      "word": "SEVENTEEN绑架情况下的正确应对",
-      "onboard_time": 1703963116,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 46872,
@@ -81233,6 +81233,14 @@
       "onboard_time": 1703546485,
       "rank": 46,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 40908,
+      "num": 40908,
+      "word": "毅玲爸爸",
+      "onboard_time": 1703961858,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40821,
@@ -81793,14 +81801,6 @@
       "onboard_time": 1703267120,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33699,
-      "num": 33699,
-      "word": "毅玲爸爸",
-      "onboard_time": 1703961858,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33689,
@@ -82849,6 +82849,14 @@
       "onboard_time": 1702930453,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 20401,
+      "num": 20401,
+      "word": "王家卫好会拍美女",
+      "onboard_time": 1703964075,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 20368,
