@@ -1,6 +1,6 @@
 {
   "startTime": 1703867016595,
-  "endTime": 1703945701576,
+  "endTime": 1703946830037,
   "band_list": [
     {
       "raw_hot": 7147002,
@@ -41,6 +41,14 @@
       "onboard_time": 1703943336,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2288933,
+      "num": 2288933,
+      "word": "青岛大火",
+      "onboard_time": 1703944541,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2195503,
@@ -203,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1025359,
-      "num": 1025359,
-      "word": "青岛大火",
-      "onboard_time": 1703944541,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 995070,
       "num": 995070,
       "word": "胡歌床上抽烟镜头",
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862851,
+      "num": 862851,
+      "word": "公孙离皮肤",
+      "onboard_time": 1703944896,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 817068,
       "num": 817068,
       "word": "卡琳娜更新动态",
@@ -291,12 +299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 804173,
-      "num": 804173,
-      "word": "公孙离皮肤",
-      "onboard_time": 1703944896,
-      "rank": 5,
-      "category": "游戏"
+      "raw_hot": 812357,
+      "num": 812357,
+      "word": "张杰一个人pk所有卫视",
+      "onboard_time": 1703943336,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 794938,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 779873,
-      "num": 312460,
+      "num": 330371,
       "word": "女子离婚冷静期遭丈夫当街杀害",
       "onboard_time": 1703929831,
       "rank": 20,
@@ -337,14 +345,6 @@
       "onboard_time": 1703911471,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 774113,
-      "num": 774113,
-      "word": "张杰一个人pk所有卫视",
-      "onboard_time": 1703943336,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 769887,
@@ -667,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 408090,
+      "num": 408090,
+      "word": "每天喝牛奶真的有助于长高吗",
+      "onboard_time": 1703941776,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 406797,
       "num": 1563148,
       "word": "姥姥摔倒起不来一岁多萌娃哭着求助",
@@ -747,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375958,
+      "num": 375958,
+      "word": "阿离等到了一诺",
+      "onboard_time": 1703946458,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 373878,
       "num": 373878,
       "word": "派出所回应男子在电梯内猥亵小女孩",
@@ -761,14 +777,6 @@
       "onboard_time": 1703911053,
       "rank": 15,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 369494,
-      "num": 286152,
-      "word": "每天喝牛奶真的有助于长高吗",
-      "onboard_time": 1703941776,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 364223,
@@ -835,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 342166,
+      "num": 234993,
+      "word": "Fly 好兄弟给我狠狠的哭",
+      "onboard_time": 1703946216,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 341192,
       "num": 341192,
       "word": "钟意镜杀疯了",
@@ -857,6 +873,22 @@
       "onboard_time": 1703864072,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334265,
+      "num": 334265,
+      "word": "藏海传以男主复仇为主线",
+      "onboard_time": 1703945318,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 330011,
+      "num": 330011,
+      "word": "繁花",
+      "onboard_time": 1703946578,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 325333,
@@ -1027,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276414,
+      "num": 330992,
+      "word": "2024新年许愿",
+      "onboard_time": 1703946275,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274721,
       "num": 274721,
       "word": "T1跳科目三",
@@ -1139,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244564,
+      "num": 244564,
+      "word": "Cat是KPL最长的河",
+      "onboard_time": 1703946216,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 241478,
       "num": 178653,
       "word": "潜行",
@@ -1179,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238330,
+      "num": 238330,
+      "word": "宋亚轩奔跑出场 青春具象化",
+      "onboard_time": 1703944781,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236869,
       "num": 236869,
       "word": "凄美地音源呢",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1703904272,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 234376,
+      "num": 234376,
+      "word": "杨紫湖南卫视跨年彩排上班",
+      "onboard_time": 1703945557,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 232589,
@@ -1243,12 +1307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222213,
-      "num": 206662,
-      "word": "宋亚轩奔跑出场 青春具象化",
-      "onboard_time": 1703944781,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 223732,
+      "num": 223732,
+      "word": "AG全员亲吻奖杯",
+      "onboard_time": 1703946098,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 219418,
@@ -1307,6 +1371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208508,
+      "num": 208508,
+      "word": "马思唯嘉宾白敬亭",
+      "onboard_time": 1703946695,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206523,
       "num": 206523,
       "word": "金手指",
@@ -1345,14 +1417,6 @@
       "onboard_time": 1703927191,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204654,
-      "num": 204654,
-      "word": "藏海传以男主复仇为主线",
-      "onboard_time": 1703945318,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 204368,
@@ -1523,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194564,
+      "num": 194564,
+      "word": "巨瘦大腿根的运动",
+      "onboard_time": 1703946336,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 194295,
       "num": 194295,
       "word": "男子半夜刷卡进女生房间看隐私视频",
@@ -1531,19 +1603,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194125,
-      "num": 194125,
-      "word": "杨紫湖南卫视跨年彩排上班",
-      "onboard_time": 1703945557,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193036,
       "num": 193036,
       "word": "鸣龙少年片尾",
       "onboard_time": 1703905171,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192893,
+      "num": 192893,
+      "word": "繁花 歌嫣过年",
+      "onboard_time": 1703946516,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1633,6 +1705,14 @@
       "onboard_time": 1703943816,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186803,
+      "num": 186803,
+      "word": "陈楚生 周深我看你是成心的",
+      "onboard_time": 1703944781,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 186543,
@@ -1777,6 +1857,14 @@
       "onboard_time": 1703859876,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173689,
+      "num": 173689,
+      "word": "二次元初恋",
+      "onboard_time": 1703946759,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 172954,
@@ -2089,6 +2177,14 @@
       "onboard_time": 1703939973,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 136490,
+      "num": 1514793,
+      "word": "来自光年之外的新年祝福",
+      "onboard_time": 1703941535,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135817,
@@ -2499,14 +2595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113703,
-      "num": 1514793,
-      "word": "来自光年之外的新年祝福",
-      "onboard_time": 1703941535,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113664,
       "num": 113664,
       "word": "黄渤新歌 林素娟",
@@ -2641,6 +2729,14 @@
       "onboard_time": 1703923836,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106465,
+      "num": 397560,
+      "word": "王者李白3D动画定档0113",
+      "onboard_time": 1703944837,
+      "rank": 14,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 105649,
@@ -2883,20 +2979,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63650,
+      "num": 330381,
+      "word": "关晓彤本命蔡文姬",
+      "onboard_time": 1703945078,
+      "rank": 32,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 61072,
       "num": 61072,
       "word": "旭旭宝宝 复播",
       "onboard_time": 1703846972,
       "rank": 48,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 56112,
-      "num": 206285,
-      "word": "关晓彤本命蔡文姬",
-      "onboard_time": 1703945078,
-      "rank": 32,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 55223,
@@ -2913,14 +3009,6 @@
       "onboard_time": 1703933433,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 50843,
-      "num": 397560,
-      "word": "王者李白3D动画定档0113",
-      "onboard_time": 1703944837,
-      "rank": 14,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 50511,
