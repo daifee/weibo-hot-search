@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703946830037,
+  "endTime": 1703949373992,
   "band_list": [
     {
       "raw_hot": 8687807,
@@ -1195,6 +1195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1176615,
+      "num": 1176615,
+      "word": "马思唯嘉宾白敬亭",
+      "onboard_time": 1703946695,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1174871,
       "num": 456524,
       "word": "结婚的婚 左边是女右边是昏",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1703501254,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1112465,
+      "num": 1112465,
+      "word": "2024狗屎运最旺的星座",
+      "onboard_time": 1703948135,
+      "rank": 4,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 1112174,
@@ -1577,6 +1593,14 @@
       "onboard_time": 1703737115,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1009658,
+      "num": 1009658,
+      "word": "张杰一个人pk所有卫视",
+      "onboard_time": 1703943336,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 995070,
@@ -2137,14 +2161,6 @@
       "onboard_time": 1703898870,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 812357,
-      "num": 812357,
-      "word": "张杰一个人pk所有卫视",
-      "onboard_time": 1703943336,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 812257,
@@ -4739,6 +4755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454295,
+      "num": 454295,
+      "word": "每天喝牛奶真的有助于长高吗",
+      "onboard_time": 1703941776,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 451462,
       "num": 451462,
       "word": "Last Christmas",
@@ -5307,12 +5331,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 408090,
-      "num": 408090,
-      "word": "每天喝牛奶真的有助于长高吗",
-      "onboard_time": 1703941776,
-      "rank": 33,
-      "category": "美食"
+      "raw_hot": 409142,
+      "num": 308574,
+      "word": "我已经很勇敢了 我也不遗憾",
+      "onboard_time": 1703946937,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 407992,
@@ -6196,7 +6220,7 @@
     },
     {
       "raw_hot": 342166,
-      "num": 234993,
+      "num": 304856,
       "word": "Fly 好兄弟给我狠狠的哭",
       "onboard_time": 1703946216,
       "rank": 30,
@@ -6635,6 +6659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 318201,
+      "num": 309431,
+      "word": "胡歌片场给唐嫣擦眼泪",
+      "onboard_time": 1703944059,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317992,
       "num": 1202941,
       "word": "我国北斗系统性能再次提升",
@@ -6737,6 +6769,14 @@
       "onboard_time": 1703402671,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 311881,
+      "num": 311881,
+      "word": "杭州一小区年赚200万给业主分红",
+      "onboard_time": 1703943577,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311325,
@@ -8195,14 +8235,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 248375,
-      "num": 248375,
-      "word": "杭州一小区年赚200万给业主分红",
-      "onboard_time": 1703943577,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248298,
       "num": 248298,
       "word": "赵昭仪的担心真的多虑了",
@@ -8843,6 +8875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231405,
+      "num": 231405,
+      "word": "北京什刹海冰场游客爆满",
+      "onboard_time": 1703948375,
+      "rank": 26,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 231148,
       "num": 231148,
       "word": "上厕所不是献哈达",
@@ -9251,6 +9291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 222379,
+      "num": 222379,
+      "word": "官方通报青岛一保税仓库起火",
+      "onboard_time": 1703948614,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221971,
       "num": 221971,
       "word": "张碧晨 出去闯一闯的女孩",
@@ -9505,6 +9553,14 @@
       "onboard_time": 1703404411,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215457,
+      "num": 215457,
+      "word": "巨瘦大腿根的运动",
+      "onboard_time": 1703946336,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 215341,
@@ -9811,14 +9867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208508,
-      "num": 208508,
-      "word": "马思唯嘉宾白敬亭",
-      "onboard_time": 1703946695,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 208469,
       "num": 208469,
       "word": "林一做体前屈能及格吗",
@@ -10019,14 +10067,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 205744,
-      "num": 205744,
-      "word": "胡歌片场给唐嫣擦眼泪",
-      "onboard_time": 1703944059,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205678,
       "num": 188067,
       "word": "孙丞潇因为金莎夸此沙帅吃醋",
@@ -10217,6 +10257,14 @@
       "onboard_time": 1703921012,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202806,
+      "num": 202806,
+      "word": "瓶子解说",
+      "onboard_time": 1703948614,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 202620,
@@ -10915,14 +10963,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 194564,
-      "num": 194564,
-      "word": "巨瘦大腿根的运动",
-      "onboard_time": 1703946336,
-      "rank": 41,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 194295,
       "num": 194295,
       "word": "男子半夜刷卡进女生房间看隐私视频",
@@ -11283,6 +11323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190567,
+      "num": 190567,
+      "word": "陈楚生 周深我看你是成心的",
+      "onboard_time": 1703944781,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190546,
       "num": 190546,
       "word": "2023年终总结",
@@ -11361,6 +11409,14 @@
       "onboard_time": 1703935414,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189300,
+      "num": 189300,
+      "word": "2023新生儿爆款名字",
+      "onboard_time": 1703949095,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189133,
@@ -11529,14 +11585,6 @@
       "onboard_time": 1703943816,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 186803,
-      "num": 186803,
-      "word": "陈楚生 周深我看你是成心的",
-      "onboard_time": 1703944781,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 186752,
@@ -12843,6 +12891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167573,
+      "num": 167573,
+      "word": "卢顿2比3切尔西",
+      "onboard_time": 1703948135,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167315,
       "num": 167315,
       "word": "B榜年度最佳kpop歌曲",
@@ -14011,6 +14067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153617,
+      "num": 153617,
+      "word": "藏海传是原创系列故事",
+      "onboard_time": 1703947114,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153597,
       "num": 153597,
       "word": "金莎说孙丞潇是她的人生礼物",
@@ -14761,6 +14825,14 @@
       "onboard_time": 1703843852,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 143975,
+      "num": 143975,
+      "word": "王铮亮尽我荣耀",
+      "onboard_time": 1703947957,
+      "rank": 49,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 143924,
@@ -19649,6 +19721,14 @@
       "onboard_time": 1703886855,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 33494,
+      "num": 400921,
+      "word": "都是哪些人在元梦放恐怖片",
+      "onboard_time": 1703948436,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 32077,
