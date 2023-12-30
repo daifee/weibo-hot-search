@@ -1,10 +1,10 @@
 {
   "startTime": 1703867016595,
-  "endTime": 1703920541473,
+  "endTime": 1703921626165,
   "band_list": [
     {
-      "raw_hot": 2304195,
-      "num": 232344,
+      "raw_hot": 2595650,
+      "num": 254837,
       "word": "难看",
       "onboard_time": 1703918014,
       "rank": 46,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 680211,
+      "num": 680211,
+      "word": "李承铉 我都有点嗑你俩了",
+      "onboard_time": 1703919452,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 668283,
       "num": 668283,
       "word": "哥嫂去世女子养3名遗孤13年获奖",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 595890,
-      "num": 237044,
+      "num": 238053,
       "word": "男子突闻儿子去世火车上嚎啕大哭",
       "onboard_time": 1703915911,
       "rank": 20,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 511116,
-      "num": 247790,
+      "num": 252856,
       "word": "初三女生设卫生巾互助盒供同学自取",
       "onboard_time": 1703914593,
       "rank": 13,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 487148,
-      "num": 351595,
+      "num": 483392,
       "word": "一闪一闪亮星星",
       "onboard_time": 1703909374,
       "rank": 23,
@@ -305,6 +313,14 @@
       "onboard_time": 1703907572,
       "rank": 9,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 469602,
+      "num": 469602,
+      "word": "2023年马斯克赚了7700亿",
+      "onboard_time": 1703919753,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 459610,
@@ -379,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409786,
+      "num": 249826,
+      "word": "跨年节目单",
+      "onboard_time": 1703916812,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409208,
       "num": 409208,
       "word": "南京南站 慌不择路",
@@ -393,14 +417,6 @@
       "onboard_time": 1703864792,
       "rank": 11,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 402060,
-      "num": 240409,
-      "word": "跨年节目单",
-      "onboard_time": 1703916812,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 401185,
@@ -427,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 386344,
+      "num": 247045,
+      "word": "陈楚生 凄美地尽兴又遗憾",
+      "onboard_time": 1703919211,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373878,
       "num": 373878,
       "word": "派出所回应男子在电梯内猥亵小女孩",
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 371659,
-      "num": 228848,
+      "num": 242639,
       "word": "段暄向体育总局原高官行贿逾950万",
       "onboard_time": 1703911053,
       "rank": 15,
@@ -491,28 +515,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339429,
+      "num": 236206,
+      "word": "一闪一闪亮星星彩蛋",
+      "onboard_time": 1703921073,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 334494,
       "num": 269252,
       "word": "女子185万买江景房完全看不到江",
       "onboard_time": 1703864072,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329714,
-      "num": 226577,
-      "word": "陈楚生 凄美地尽兴又遗憾",
-      "onboard_time": 1703919211,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 316626,
-      "num": 226502,
-      "word": "李承铉 我都有点嗑你俩了",
-      "onboard_time": 1703919452,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 310797,
@@ -611,6 +627,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277879,
+      "num": 241141,
+      "word": "男子当街抽打并脱裤侮辱老人",
+      "onboard_time": 1703919690,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277485,
+      "num": 235220,
+      "word": "欧阳娜娜否认从小赚钱养家",
+      "onboard_time": 1703920654,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264871,
       "num": 238822,
       "word": "7元一斤的猪肉还会跌多久",
@@ -635,6 +667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 257922,
+      "num": 257922,
+      "word": "T1跳科目三",
+      "onboard_time": 1703919690,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 252851,
       "num": 243408,
       "word": "段暄",
@@ -649,14 +689,6 @@
       "onboard_time": 1703857234,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 246112,
-      "num": 246112,
-      "word": "2023年马斯克赚了7700亿",
-      "onboard_time": 1703919753,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 238695,
@@ -771,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203025,
+      "num": 183689,
+      "word": "苏醒有少爷命但没少爷病",
+      "onboard_time": 1703921012,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202621,
       "num": 202621,
       "word": "唐嫣 这里是酒吧",
@@ -793,6 +833,14 @@
       "onboard_time": 1703910813,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200204,
+      "num": 182808,
+      "word": "藏海传",
+      "onboard_time": 1703920892,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 200089,
@@ -851,14 +899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191643,
-      "num": 191643,
-      "word": "男子当街抽打并脱裤侮辱老人",
-      "onboard_time": 1703919690,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189008,
       "num": 189008,
       "word": "不是瑞士去不起威海更有性价比",
@@ -905,6 +945,14 @@
       "onboard_time": 1703917532,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182481,
+      "num": 182481,
+      "word": "徐磊 瓶邪",
+      "onboard_time": 1703920771,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181667,
@@ -995,6 +1043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164270,
+      "num": 164270,
+      "word": "下雪场 尴尬",
+      "onboard_time": 1703921612,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162696,
       "num": 162696,
       "word": "跨年彩排",
@@ -1025,14 +1081,6 @@
       "onboard_time": 1703901331,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159158,
-      "num": 159158,
-      "word": "T1跳科目三",
-      "onboard_time": 1703919690,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 157306,
@@ -1291,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127851,
+      "num": 127851,
+      "word": "南方小土豆逛东北沉迷哄娃神器",
+      "onboard_time": 1703920354,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 126233,
       "num": 126233,
       "word": "1月十二星座注意事项",
@@ -1305,6 +1361,14 @@
       "onboard_time": 1703916391,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126191,
+      "num": 129801,
+      "word": "郑钦文2比1万卓索娃",
+      "onboard_time": 1703921375,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 126022,
@@ -1409,6 +1473,14 @@
       "onboard_time": 1703912673,
       "rank": 41,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 118328,
+      "num": 184943,
+      "word": "我好像知道数学学不好的原因了",
+      "onboard_time": 1703918912,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 117294,
@@ -1571,20 +1643,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105578,
+      "num": 124291,
+      "word": "联合杯中国队开门红",
+      "onboard_time": 1703920832,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105551,
       "num": 153732,
       "word": "2023最后2天",
       "onboard_time": 1703891721,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105483,
-      "num": 105483,
-      "word": "南方小土豆逛东北沉迷哄娃神器",
-      "onboard_time": 1703920354,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 105465,
@@ -1641,14 +1713,6 @@
       "onboard_time": 1703908714,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98410,
-      "num": 108097,
-      "word": "我好像知道数学学不好的原因了",
-      "onboard_time": 1703918912,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 98015,
@@ -1716,7 +1780,7 @@
     },
     {
       "raw_hot": 71857,
-      "num": 177740,
+      "num": 184440,
       "word": "张大仙也要来元梦做地图了",
       "onboard_time": 1703919635,
       "rank": 29,
@@ -1843,8 +1907,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 27617,
-      "num": 233618,
+      "raw_hot": 28060,
+      "num": 257274,
       "word": "梦想连接世界",
       "onboard_time": 1703918310,
       "rank": 10,

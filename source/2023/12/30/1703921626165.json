@@ -1,0 +1,410 @@
+{
+  "runTime": 1703921626165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1125412,
+        "num": 1125412,
+        "word": "央视2024跨年晚会官宣",
+        "onboard_time": 1703916692,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 989786,
+        "num": 989786,
+        "word": "张万森撑伞",
+        "onboard_time": 1703911651,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57546,
+        "num": 812543,
+        "word": "告别2023写给自己的话",
+        "onboard_time": 1703901331,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1187102,
+        "num": 793045,
+        "word": "王诗龄 天天你刚才是发疯了吗",
+        "onboard_time": 1703907030,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680211,
+        "num": 680211,
+        "word": "李承铉 我都有点嗑你俩了",
+        "onboard_time": 1703919452,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483392,
+        "num": 483392,
+        "word": "一闪一闪亮星星",
+        "onboard_time": 1703909374,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 469602,
+        "num": 469602,
+        "word": "2023年马斯克赚了7700亿",
+        "onboard_time": 1703919753,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 307612,
+        "num": 307612,
+        "word": "燃油费这么贵飞机烧的是什么油",
+        "onboard_time": 1703910211,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269382,
+        "num": 269382,
+        "word": "姑姑把所有好脾气都留给了我",
+        "onboard_time": 1703907572,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 257922,
+        "num": 257922,
+        "word": "T1跳科目三",
+        "onboard_time": 1703919690,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28060,
+        "num": 257274,
+        "word": "梦想连接世界",
+        "onboard_time": 1703918310,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2595650,
+        "num": 254837,
+        "word": "难看",
+        "onboard_time": 1703918014,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 464509,
+        "num": 252856,
+        "word": "初三女生设卫生巾互助盒供同学自取",
+        "onboard_time": 1703914593,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452878,
+        "num": 252148,
+        "word": "甲流",
+        "onboard_time": 1703913451,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 409786,
+        "num": 249826,
+        "word": "跨年节目单",
+        "onboard_time": 1703916812,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386344,
+        "num": 247045,
+        "word": "陈楚生 凄美地尽兴又遗憾",
+        "onboard_time": 1703919211,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376895,
+        "num": 246561,
+        "word": "新人演员陈学冬",
+        "onboard_time": 1703902954,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365987,
+        "num": 244260,
+        "word": "胡歌床上抽烟镜头",
+        "onboard_time": 1703908832,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299120,
+        "num": 242639,
+        "word": "段暄向体育总局原高官行贿逾950万",
+        "onboard_time": 1703911053,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 277879,
+        "num": 241141,
+        "word": "男子当街抽打并脱裤侮辱老人",
+        "onboard_time": 1703919690,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491942,
+        "num": 238053,
+        "word": "男子突闻儿子去世火车上嚎啕大哭",
+        "onboard_time": 1703915911,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339429,
+        "num": 236206,
+        "word": "一闪一闪亮星星彩蛋",
+        "onboard_time": 1703921073,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277485,
+        "num": 235220,
+        "word": "欧阳娜娜否认从小赚钱养家",
+        "onboard_time": 1703920654,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234165,
+        "num": 234165,
+        "word": "小警犬因太友好而被开除",
+        "onboard_time": 1703909736,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186682,
+        "num": 186682,
+        "word": "旭旭宝宝开播1分钟在线10万人",
+        "onboard_time": 1703904692,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238326,
+        "num": 186673,
+        "word": "肖战张婧仪开机路透",
+        "onboard_time": 1703899531,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214534,
+        "num": 186069,
+        "word": "三宋 怎么有人婚礼办得像春晚",
+        "onboard_time": 1703915313,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159327,
+        "num": 185391,
+        "word": "我国修订公司法",
+        "onboard_time": 1703913751,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118328,
+        "num": 184943,
+        "word": "我好像知道数学学不好的原因了",
+        "onboard_time": 1703918912,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 51349,
+        "num": 184440,
+        "word": "张大仙也要来元梦做地图了",
+        "onboard_time": 1703919635,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 734793,
+        "num": 184198,
+        "word": "古茗 做不完根本做不完",
+        "onboard_time": 1703906433,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203025,
+        "num": 183689,
+        "word": "苏醒有少爷命但没少爷病",
+        "onboard_time": 1703921012,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202838,
+        "num": 183000,
+        "word": "于适进组红海行动2",
+        "onboard_time": 1703919391,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200204,
+        "num": 182808,
+        "word": "藏海传",
+        "onboard_time": 1703920892,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182481,
+        "num": 182481,
+        "word": "徐磊 瓶邪",
+        "onboard_time": 1703920771,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165335,
+        "num": 165335,
+        "word": "尔滨你让我感到陌生",
+        "onboard_time": 1703916391,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 164270,
+        "num": 164270,
+        "word": "下雪场 尴尬",
+        "onboard_time": 1703921612,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139319,
+        "num": 139319,
+        "word": "刘嘉玲 阿Sa吻梁朝伟可以再猛点",
+        "onboard_time": 1703907873,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130031,
+        "num": 130031,
+        "word": "情绪不成熟的五个迹象",
+        "onboard_time": 1703916212,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126191,
+        "num": 129801,
+        "word": "郑钦文2比1万卓索娃",
+        "onboard_time": 1703921375,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133599,
+        "num": 129425,
+        "word": "极盗者 刘诗诗白客",
+        "onboard_time": 1703916152,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132654,
+        "num": 129269,
+        "word": "藏海传 大男主",
+        "onboard_time": 1703899649,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132071,
+        "num": 128580,
+        "word": "罗云熙澹台烬年度最热古偶剧角色",
+        "onboard_time": 1703917532,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126916,
+        "num": 128529,
+        "word": "星穹铁道跨年占卜",
+        "onboard_time": 1703920354,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130426,
+        "num": 127861,
+        "word": "电影一闪一闪亮星星今日公映",
+        "onboard_time": 1703902293,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127851,
+        "num": 127851,
+        "word": "南方小土豆逛东北沉迷哄娃神器",
+        "onboard_time": 1703920354,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 126874,
+        "num": 126874,
+        "word": "金手指",
+        "onboard_time": 1703916752,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125443,
+        "num": 125443,
+        "word": "孙怡 天天跺脚",
+        "onboard_time": 1703908413,
+        "rank": 47,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 105578,
+        "num": 124291,
+        "word": "联合杯中国队开门红",
+        "onboard_time": 1703920832,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124119,
+        "num": 124119,
+        "word": "刘强东要送的猛士越野车曝光",
+        "onboard_time": 1703913156,
+        "rank": 49,
+        "category": "互联网,汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创中国特色大国外交新局面#"
+    }
+  }
+}
