@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1703957645985,
+  "endTime": 1703960490307,
   "band_list": [
     {
       "raw_hot": 1008806,
@@ -435,7 +435,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12933,
+      "raw_hot": 30173,
+      "num": 30173,
+      "word": "王一博声音穿透力",
+      "onboard_time": 1703960180,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 18283,
       "num": 427690,
       "word": "无数个1分钟成就气象万千的中国",
       "onboard_time": 1703941294,
