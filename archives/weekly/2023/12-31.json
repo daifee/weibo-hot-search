@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704036825949,
+  "endTime": 1704039665829,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -9,6 +9,14 @@
       "onboard_time": 1704023921,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12688562,
+      "num": 12688562,
+      "word": "新年快乐",
+      "onboard_time": 1704037678,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10039041,
@@ -155,12 +163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2711739,
+      "num": 2711739,
+      "word": "刘宇宁哭了",
+      "onboard_time": 1704037142,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2674835,
       "num": 3907445,
       "word": "2024新年贺词",
       "onboard_time": 1704019895,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2617111,
+      "num": 2617111,
+      "word": "许嵩冯禧同台",
+      "onboard_time": 1704037559,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 2616401,
@@ -291,6 +315,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 1879135,
+      "num": 1879135,
+      "word": "2024",
+      "onboard_time": 1704038452,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1807512,
       "num": 1807512,
       "word": "冷门歌手孙燕姿",
@@ -355,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1400530,
+      "num": 702484,
+      "word": "华晨宇压轴",
+      "onboard_time": 1704038992,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1398055,
       "num": 2432870,
       "word": "四川自贡发生3.2级地震",
@@ -408,6 +448,14 @@
       "word": "江苏卫视跨年节目单",
       "onboard_time": 1703990070,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1266145,
+      "num": 662766,
+      "word": "谢谢李健老师拯救耳朵",
+      "onboard_time": 1704037918,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -561,6 +609,14 @@
       "onboard_time": 1703948135,
       "rank": 3,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 947576,
+      "num": 947576,
+      "word": "新年红包",
+      "onboard_time": 1704037142,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 945206,
@@ -795,6 +851,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 677341,
+      "num": 558352,
+      "word": "周深居然蹦迪又跳水",
+      "onboard_time": 1704038932,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 661748,
       "num": 661748,
       "word": "北京什刹海有小孩落水众人接力救援",
@@ -912,6 +976,14 @@
       "word": "张杰一个人pk所有卫视",
       "onboard_time": 1703943336,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 556630,
+      "num": 556630,
+      "word": "李宇春",
+      "onboard_time": 1704039052,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1131,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426800,
+      "num": 3875253,
+      "word": "烟花",
+      "onboard_time": 1704022117,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423693,
       "num": 423693,
       "word": "红白歌会",
@@ -1192,14 +1272,6 @@
       "word": "祖国统一是历史必然",
       "onboard_time": 1704021699,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375455,
-      "num": 3875253,
-      "word": "烟花",
-      "onboard_time": 1704022117,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2033,6 +2105,14 @@
       "onboard_time": 1703988870,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183906,
+      "num": 560869,
+      "word": "2024年财神来到我们家门前",
+      "onboard_time": 1704038217,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 182425,
@@ -2875,6 +2955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115034,
+      "num": 557210,
+      "word": "西安钟楼跨年夜人山人海",
+      "onboard_time": 1704039181,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114949,
       "num": 821570,
       "word": "郑钦文 联合杯",
@@ -3187,6 +3275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 83830,
+      "num": 551794,
+      "word": "两个小朋友你们被警方点名表扬了",
+      "onboard_time": 1704037734,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 83612,
       "num": 1355042,
       "word": "祝愿大家福暖四季顺遂安康",
@@ -3288,6 +3384,14 @@
       "word": "来自光年之外的新年祝福",
       "onboard_time": 1703941535,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52990,
+      "num": 562333,
+      "word": "长沙地铁暖心广播太戳了",
+      "onboard_time": 1704038753,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3409,6 +3513,14 @@
       "onboard_time": 1704013235,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 33516,
+      "num": 559017,
+      "word": "阿达娃被玲花追着投喂阿胶",
+      "onboard_time": 1704038452,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 32320,
