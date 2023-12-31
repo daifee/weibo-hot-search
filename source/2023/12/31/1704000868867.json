@@ -1,0 +1,410 @@
+{
+  "runTime": 1704000868867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1897510,
+        "num": 1897510,
+        "word": "挖呀挖黄老师当妈妈啦",
+        "onboard_time": 1703998051,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 1468592,
+        "num": 1468592,
+        "word": "跨年节目单",
+        "onboard_time": 1703994332,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73766,
+        "num": 990852,
+        "word": "2023手机里最舍不得删的照片",
+        "onboard_time": 1703981847,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988142,
+        "num": 988142,
+        "word": "樊振东重返微博",
+        "onboard_time": 1703997569,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 856776,
+        "num": 856776,
+        "word": "日本发现大地震海底断层悬崖",
+        "onboard_time": 1703989588,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621485,
+        "num": 621485,
+        "word": "肖战工作室包场非诚勿扰3",
+        "onboard_time": 1703998110,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 610606,
+        "num": 610606,
+        "word": "央视跨年节目",
+        "onboard_time": 1703999671,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567787,
+        "num": 567787,
+        "word": "咬手指 变丑",
+        "onboard_time": 1703997512,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 559965,
+        "num": 559965,
+        "word": "湖南卫视节目单 什么时候出",
+        "onboard_time": 1703995831,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478632,
+        "num": 478632,
+        "word": "机场判官称在昆明机场被打",
+        "onboard_time": 1703996011,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437691,
+        "num": 437691,
+        "word": "曾黎主持央视跨年",
+        "onboard_time": 1703992053,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428019,
+        "num": 428019,
+        "word": "小沈阳 不要带假唱节奏",
+        "onboard_time": 1703997870,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400297,
+        "num": 400297,
+        "word": "姐弟坠亡案母亲希望死刑尽快执行",
+        "onboard_time": 1703986291,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397052,
+        "num": 397052,
+        "word": "胡歌唐嫣聊了半天才发现是直播",
+        "onboard_time": 1703985089,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49213,
+        "num": 354979,
+        "word": "李一桐给公主王子们的语音",
+        "onboard_time": 1703998834,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348596,
+        "num": 348596,
+        "word": "十二星座2024年运势",
+        "onboard_time": 1703997870,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345575,
+        "num": 345575,
+        "word": "刘宇宁 奉上全开麦直拍",
+        "onboard_time": 1703998531,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336759,
+        "num": 336759,
+        "word": "原神 钟离皮肤出啊",
+        "onboard_time": 1703998531,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264007,
+        "num": 264007,
+        "word": "詹姆斯绝平三分踩线",
+        "onboard_time": 1703996011,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232967,
+        "num": 232967,
+        "word": "为什么睡觉时会突然抖一下",
+        "onboard_time": 1703980824,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 538332,
+        "num": 232818,
+        "word": "半岁女婴哭闹不止医生从脚底取出4cm头发",
+        "onboard_time": 1703996191,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251548,
+        "num": 232401,
+        "word": "为什么有人指甲上有月牙有人却没有",
+        "onboard_time": 1703999671,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220057,
+        "num": 220057,
+        "word": "袁天罡 美强惨",
+        "onboard_time": 1704000211,
+        "rank": 22,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 210572,
+        "num": 210572,
+        "word": "虞书欣湖南卫视跨年彩排路透",
+        "onboard_time": 1703998771,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188851,
+        "num": 188851,
+        "word": "中等生为什么成绩上不去",
+        "onboard_time": 1703990130,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183718,
+        "num": 183718,
+        "word": "68元锅包肉巴掌大店家转888致歉",
+        "onboard_time": 1704000510,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179953,
+        "num": 179953,
+        "word": "跨年文案",
+        "onboard_time": 1703984130,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179444,
+        "num": 179444,
+        "word": "睡觉频繁出现这5种表现要留意",
+        "onboard_time": 1703989891,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165935,
+        "num": 165935,
+        "word": "灰原哀跨年",
+        "onboard_time": 1703997991,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118210,
+        "num": 164216,
+        "word": "2022年高中阶段教育在校生中女生占比46.7%",
+        "onboard_time": 1703998834,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 163249,
+        "num": 163249,
+        "word": "辛芷蕾 繁花拍3年长江图拍4年",
+        "onboard_time": 1704000572,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160284,
+        "num": 160284,
+        "word": "鹿晗祝哈友们2024年全方位升级",
+        "onboard_time": 1704000153,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157435,
+        "num": 157435,
+        "word": "纯爱战神汪小姐",
+        "onboard_time": 1703991332,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155715,
+        "num": 155715,
+        "word": "易烊千玺 新的一年愿大家好运常在",
+        "onboard_time": 1703994990,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145071,
+        "num": 145071,
+        "word": "挖鼻孔会导致鼻孔变大吗",
+        "onboard_time": 1703984850,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141748,
+        "num": 141748,
+        "word": "一闪一闪亮星星票房破4亿",
+        "onboard_time": 1703982689,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141625,
+        "num": 141625,
+        "word": "这种咸鱼曾一次导致18人死亡",
+        "onboard_time": 1703996911,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139891,
+        "num": 139891,
+        "word": "红丝绒草莓蛋糕",
+        "onboard_time": 1703999972,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137088,
+        "num": 137088,
+        "word": "魏大勋湖南卫视跨年值日生",
+        "onboard_time": 1703999012,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133421,
+        "num": 133421,
+        "word": "江苏卫视跨年节目单",
+        "onboard_time": 1703990070,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132494,
+        "num": 132494,
+        "word": "十个勤天跨年直播",
+        "onboard_time": 1703996970,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127912,
+        "num": 127912,
+        "word": "Cat 冠军的家人们早上好",
+        "onboard_time": 1703996011,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122886,
+        "num": 122886,
+        "word": "白鹿晒18宫格",
+        "onboard_time": 1703995112,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122657,
+        "num": 122657,
+        "word": "金手指 股市版狂飙",
+        "onboard_time": 1704000632,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116024,
+        "num": 116024,
+        "word": "为什么父母吃饭越来越咸了",
+        "onboard_time": 1703991872,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115700,
+        "num": 115700,
+        "word": "繁花第十集群像戏",
+        "onboard_time": 1703998472,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113051,
+        "num": 113051,
+        "word": "勒索李善均女子正脸照曝光",
+        "onboard_time": 1704000810,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117148,
+        "num": 112683,
+        "word": "白鹿陈立农合唱",
+        "onboard_time": 1703996249,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112040,
+        "num": 112040,
+        "word": "吉克隽逸丁真一个过夏天一个过冬天",
+        "onboard_time": 1703999853,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107323,
+        "num": 107323,
+        "word": "2023故宫二十四节气图鉴",
+        "onboard_time": 1704000572,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将发表2024新年贺词#"
+    }
+  }
+}

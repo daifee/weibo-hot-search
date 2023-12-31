@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1703999789517,
+  "endTime": 1704000868867,
   "band_list": [
     {
       "raw_hot": 3417841,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1808216,
-      "num": 1808216,
+      "raw_hot": 1897510,
+      "num": 1897510,
       "word": "挖呀挖黄老师当妈妈啦",
       "onboard_time": 1703998051,
       "rank": 0,
@@ -139,6 +139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 610606,
+      "num": 610606,
+      "word": "央视跨年节目",
+      "onboard_time": 1703999671,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 607584,
       "num": 607584,
       "word": "男子地铁站排队被人放倒用脚踩头",
@@ -169,6 +177,14 @@
       "onboard_time": 1703950292,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 567787,
+      "num": 567787,
+      "word": "咬手指 变丑",
+      "onboard_time": 1703997512,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 567684,
@@ -209,14 +225,6 @@
       "onboard_time": 1703989289,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 528878,
-      "num": 528878,
-      "word": "咬手指 变丑",
-      "onboard_time": 1703997512,
-      "rank": 7,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 524656,
@@ -363,6 +371,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 348596,
+      "num": 348596,
+      "word": "十二星座2024年运势",
+      "onboard_time": 1703997870,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 345575,
+      "num": 345575,
+      "word": "刘宇宁 奉上全开麦直拍",
+      "onboard_time": 1703998531,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343974,
       "num": 343974,
       "word": "难看",
@@ -387,8 +411,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 336100,
-      "num": 336100,
+      "raw_hot": 336759,
+      "num": 336759,
       "word": "原神 钟离皮肤出啊",
       "onboard_time": 1703998531,
       "rank": 13,
@@ -409,14 +433,6 @@
       "onboard_time": 1703989891,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 326831,
-      "num": 326831,
-      "word": "十二星座2024年运势",
-      "onboard_time": 1703997870,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 309105,
@@ -465,14 +481,6 @@
       "onboard_time": 1703977940,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275236,
-      "num": 275236,
-      "word": "央视跨年节目",
-      "onboard_time": 1703999671,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 274541,
@@ -539,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253399,
-      "num": 253399,
-      "word": "刘宇宁 奉上全开麦直拍",
-      "onboard_time": 1703998531,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 251548,
+      "num": 232401,
+      "word": "为什么有人指甲上有月牙有人却没有",
+      "onboard_time": 1703999671,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 246725,
@@ -625,6 +633,14 @@
       "onboard_time": 1703993067,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 220057,
+      "num": 220057,
+      "word": "袁天罡 美强惨",
+      "onboard_time": 1704000211,
+      "rank": 22,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 216675,
@@ -715,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183718,
+      "num": 183718,
+      "word": "68元锅包肉巴掌大店家转888致歉",
+      "onboard_time": 1704000510,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175697,
       "num": 175697,
       "word": "医生90秒盲眼放入支架和死神抢人",
@@ -755,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165935,
+      "num": 165935,
+      "word": "灰原哀跨年",
+      "onboard_time": 1703997991,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 165355,
       "num": 165355,
       "word": "被低估了的国漫",
@@ -768,6 +800,22 @@
       "word": "鞠婧祎彩排",
       "onboard_time": 1703979082,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163249,
+      "num": 163249,
+      "word": "辛芷蕾 繁花拍3年长江图拍4年",
+      "onboard_time": 1704000572,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160284,
+      "num": 160284,
+      "word": "鹿晗祝哈友们2024年全方位升级",
+      "onboard_time": 1704000153,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -801,22 +849,6 @@
       "onboard_time": 1703994692,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156829,
-      "num": 156829,
-      "word": "为什么有人指甲上有月牙有人却没有",
-      "onboard_time": 1703999671,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 156696,
-      "num": 156696,
-      "word": "灰原哀跨年",
-      "onboard_time": 1703997991,
-      "rank": 34,
-      "category": "动漫"
     },
     {
       "raw_hot": 154114,
@@ -963,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139891,
+      "num": 139891,
+      "word": "红丝绒草莓蛋糕",
+      "onboard_time": 1703999972,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 138744,
       "num": 138744,
       "word": "王楚钦8分钟纪录片",
@@ -1052,7 +1092,7 @@
     },
     {
       "raw_hot": 124518,
-      "num": 124518,
+      "num": 164216,
       "word": "2022年高中阶段教育在校生中女生占比46.7%",
       "onboard_time": 1703998834,
       "rank": 43,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1703946336,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 122657,
+      "num": 122657,
+      "word": "金手指 股市版狂飙",
+      "onboard_time": 1704000632,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 121702,
@@ -1147,6 +1195,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113051,
+      "num": 113051,
+      "word": "勒索李善均女子正脸照曝光",
+      "onboard_time": 1704000810,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112040,
+      "num": 112040,
+      "word": "吉克隽逸丁真一个过夏天一个过冬天",
+      "onboard_time": 1703999853,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109684,
       "num": 109684,
       "word": "钢腿女孩拒绝内耗不想被定义",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1703983288,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107323,
+      "num": 107323,
+      "word": "2023故宫二十四节气图鉴",
+      "onboard_time": 1704000572,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 106030,
@@ -1331,6 +1403,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 73766,
+      "num": 1528946,
+      "word": "2023手机里最舍不得删的照片",
+      "onboard_time": 1703981847,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69532,
       "num": 65058,
       "word": "哈尔滨冰雪大世界跨年夜将延时闭园",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1703956345,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49213,
+      "num": 354979,
+      "word": "李一桐给公主王子们的语音",
+      "onboard_time": 1703998834,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 48179,
@@ -1451,28 +1539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34394,
-      "num": 330503,
-      "word": "李一桐给公主王子们的语音",
-      "onboard_time": 1703998834,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 30098,
       "num": 274793,
       "word": "我在蛋仔抢红包",
       "onboard_time": 1703995231,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27779,
-      "num": 1528946,
-      "word": "2023手机里最舍不得删的照片",
-      "onboard_time": 1703981847,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26396,
