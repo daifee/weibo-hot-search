@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704008037017,
+  "endTime": 1704010846379,
   "band_list": [
     {
       "raw_hot": 3417841,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2205480,
-      "num": 2205480,
+      "raw_hot": 2255710,
+      "num": 2255710,
       "word": "苏翊鸣大方示爱朱易",
       "onboard_time": 1704006270,
       "rank": 5,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1037813,
+      "num": 1037813,
+      "word": "王一博彩排了7次旁观者",
+      "onboard_time": 1704005432,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1008806,
       "num": 1008806,
       "word": "我已经很勇敢了 我也不遗憾",
@@ -147,12 +155,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 727998,
-      "num": 727998,
-      "word": "王一博彩排了7次旁观者",
-      "onboard_time": 1704005432,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 737364,
+      "num": 737364,
+      "word": "年会不能停 裁员广进",
+      "onboard_time": 1704007593,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 711617,
@@ -177,6 +185,14 @@
       "onboard_time": 1703985810,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 661424,
+      "num": 661424,
+      "word": "为什么有人指甲上有月牙有人却没有",
+      "onboard_time": 1703999671,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 618141,
@@ -323,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499232,
+      "num": 209954,
+      "word": "不小心误吃了颗布洛芬会怎么样",
+      "onboard_time": 1704006692,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 482881,
       "num": 516557,
       "word": "太原地震",
@@ -377,14 +401,6 @@
       "onboard_time": 1703992411,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 455126,
-      "num": 198425,
-      "word": "不小心误吃了颗布洛芬会怎么样",
-      "onboard_time": 1704006692,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 448476,
@@ -539,8 +555,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 329471,
+      "num": 329471,
+      "word": "四川自贡发生3.2级地震",
+      "onboard_time": 1704008371,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324644,
-      "num": 199175,
+      "num": 208876,
       "word": "杨紫杏色花朵裙",
       "onboard_time": 1704004713,
       "rank": 21,
@@ -595,6 +619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 286865,
+      "num": 178327,
+      "word": "北京什刹海有小孩落水众人接力救援",
+      "onboard_time": 1704009870,
+      "rank": 30,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 280096,
       "num": 280096,
       "word": "孙怡哭戏",
@@ -632,14 +664,6 @@
       "word": "揉开这里才知道自己憋了多少气",
       "onboard_time": 1703980706,
       "rank": 23,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 268190,
-      "num": 232401,
-      "word": "为什么有人指甲上有月牙有人却没有",
-      "onboard_time": 1703999671,
-      "rank": 33,
       "category": "健康医疗"
     },
     {
@@ -811,12 +835,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 209218,
-      "num": 172441,
-      "word": "年会不能停 裁员广进",
-      "onboard_time": 1704007593,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 207523,
+      "num": 207523,
+      "word": "胡歌唐嫣跨年合体彩排",
+      "onboard_time": 1704010470,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 204935,
@@ -843,6 +867,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201806,
+      "num": 201806,
+      "word": "王源烟熏妆",
+      "onboard_time": 1704010770,
+      "rank": 25,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 199857,
+      "num": 199857,
+      "word": "罗密欧 救救我",
+      "onboard_time": 1704008612,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198059,
       "num": 198059,
       "word": "AG投票",
@@ -857,6 +897,14 @@
       "onboard_time": 1703989651,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 190769,
+      "num": 203446,
+      "word": "Even宠儿告别赛场",
+      "onboard_time": 1704010350,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 189492,
@@ -899,12 +947,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182425,
+      "num": 182425,
+      "word": "三类人容易长结节",
+      "onboard_time": 1704008190,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 178716,
       "num": 178716,
       "word": "茅台集团年利润首破千亿元",
       "onboard_time": 1704002071,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178344,
+      "num": 178344,
+      "word": "国民初恋不是白叫的",
+      "onboard_time": 1704007713,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177496,
+      "num": 177496,
+      "word": "身材娇小女子哈尔滨玩雪圈被当成小孩",
+      "onboard_time": 1704007593,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175697,
@@ -955,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167563,
+      "num": 167563,
+      "word": "AR新赛季阵容官宣",
+      "onboard_time": 1704009632,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165935,
       "num": 165935,
       "word": "灰原哀跨年",
@@ -977,14 +1057,6 @@
       "onboard_time": 1703979082,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162136,
-      "num": 162136,
-      "word": "身材娇小女子哈尔滨玩雪圈被当成小孩",
-      "onboard_time": 1704007593,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160284,
@@ -1025,6 +1097,14 @@
       "onboard_time": 1703994692,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157185,
+      "num": 157185,
+      "word": "雷鸣终于洗刷冤屈",
+      "onboard_time": 1704010110,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 154114,
@@ -1203,12 +1283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137149,
-      "num": 137149,
-      "word": "国民初恋不是白叫的",
-      "onboard_time": 1704007713,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 136706,
+      "num": 136706,
+      "word": "萌兰也被自己的长teitei迷住了",
+      "onboard_time": 1704009153,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136124,
@@ -1225,6 +1305,14 @@
       "onboard_time": 1703951251,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134667,
+      "num": 121655,
+      "word": "对齐颗粒度",
+      "onboard_time": 1704010292,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 133208,
@@ -1347,6 +1435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122643,
+      "num": 119750,
+      "word": "俞灏明在东北穿破洞裤",
+      "onboard_time": 1704009392,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121702,
       "num": 121702,
       "word": "女生发烧失声嗓音神似唐老鸭",
@@ -1361,6 +1457,14 @@
       "onboard_time": 1703990311,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119680,
+      "num": 119680,
+      "word": "权志龙悼念李善均",
+      "onboard_time": 1704010712,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 119496,
@@ -1388,7 +1492,7 @@
     },
     {
       "raw_hot": 116628,
-      "num": 116628,
+      "num": 850967,
       "word": "2023走在中国的大地上",
       "onboard_time": 1703992110,
       "rank": 39,
@@ -1449,6 +1553,14 @@
       "onboard_time": 1704002252,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110496,
+      "num": 110496,
+      "word": "不要刻意画本身没有的生理结构",
+      "onboard_time": 1704009392,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 109684,
@@ -1617,6 +1729,14 @@
       "onboard_time": 1703936915,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 88815,
+      "num": 385514,
+      "word": "2023杀青了",
+      "onboard_time": 1704008190,
+      "rank": 11,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 86235,
@@ -1817,6 +1937,14 @@
       "onboard_time": 1704007653,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30465,
+      "num": 331442,
+      "word": "hey girl你还好吗",
+      "onboard_time": 1704009632,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 30098,
