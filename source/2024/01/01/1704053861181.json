@@ -1,0 +1,410 @@
+{
+  "runTime": 1704053861181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 294911,
+        "num": 294911,
+        "word": "新街口全是人",
+        "onboard_time": 1704042941,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 260797,
+        "num": 260797,
+        "word": "假唱",
+        "onboard_time": 1704027053,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54890,
+        "num": 214036,
+        "word": "央视跨年晚会",
+        "onboard_time": 1704024348,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202650,
+        "num": 202650,
+        "word": "上海迪士尼发文致歉",
+        "onboard_time": 1704025247,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 169347,
+        "num": 169347,
+        "word": "刘宇宁哭了",
+        "onboard_time": 1704037142,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166130,
+        "num": 166130,
+        "word": "新年快乐",
+        "onboard_time": 1704037678,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163504,
+        "num": 163504,
+        "word": "宋茜唱跳给Amber镜头",
+        "onboard_time": 1704026514,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153102,
+        "num": 155526,
+        "word": "2024",
+        "onboard_time": 1704038452,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74286,
+        "num": 154704,
+        "word": "女子1张彩票中奖571次总计860万",
+        "onboard_time": 1704020796,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43635,
+        "num": 154612,
+        "word": "2024年第一条微博",
+        "onboard_time": 1704040435,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154524,
+        "num": 154524,
+        "word": "许嵩冯禧同台",
+        "onboard_time": 1704037559,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138974,
+        "num": 138974,
+        "word": "赵露思 敦煌神女",
+        "onboard_time": 1704029763,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134203,
+        "num": 134203,
+        "word": "王鹤棣宋茜后台也在着火",
+        "onboard_time": 1704042045,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117540,
+        "num": 117540,
+        "word": "白鹿范丞丞牵手合唱",
+        "onboard_time": 1704044793,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85209,
+        "num": 116175,
+        "word": "甘肃白银4.9级地震",
+        "onboard_time": 1704033795,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115550,
+        "num": 115550,
+        "word": "红楼梦 绝杀",
+        "onboard_time": 1704050298,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111221,
+        "num": 111221,
+        "word": "鞠婧祎好稳",
+        "onboard_time": 1704036365,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77217,
+        "num": 77217,
+        "word": "跨年朋友圈",
+        "onboard_time": 1704033013,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62638,
+        "num": 75432,
+        "word": "甘肃平川4.9级地震与积石山地震无关",
+        "onboard_time": 1704043060,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45789,
+        "num": 71618,
+        "word": "西安钟楼跨年夜人山人海",
+        "onboard_time": 1704039181,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206522,
+        "num": 69177,
+        "word": "孟子义跑调很突出",
+        "onboard_time": 1704032709,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205615,
+        "num": 65971,
+        "word": "宋茜王鹤棣亲上了吗",
+        "onboard_time": 1704030245,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65868,
+        "num": 65868,
+        "word": "熬夜一次多久能恢复",
+        "onboard_time": 1704052038,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37196,
+        "num": 65857,
+        "word": "新年红包",
+        "onboard_time": 1704037142,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36890,
+        "num": 65853,
+        "word": "当代年轻人的跨年现状",
+        "onboard_time": 1704029278,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175605,
+        "num": 65844,
+        "word": "杨紫好瘦",
+        "onboard_time": 1704031872,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126569,
+        "num": 65822,
+        "word": "王源破音",
+        "onboard_time": 1704030481,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123324,
+        "num": 65813,
+        "word": "孟子义开口吓死我了",
+        "onboard_time": 1704034090,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28529,
+        "num": 65802,
+        "word": "跨年",
+        "onboard_time": 1704024106,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19330,
+        "num": 65799,
+        "word": "2024新年贺词",
+        "onboard_time": 1704019895,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120750,
+        "num": 65782,
+        "word": "蔡依林 天后来了",
+        "onboard_time": 1704035651,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108947,
+        "num": 65773,
+        "word": "孟宴臣杀回来了",
+        "onboard_time": 1704032475,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101828,
+        "num": 65759,
+        "word": "王一博 所有人都是可爱的旁观者",
+        "onboard_time": 1704035829,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32476,
+        "num": 65753,
+        "word": "韩国地铁站竟然有宋词",
+        "onboard_time": 1704031085,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27300,
+        "num": 65733,
+        "word": "两个小朋友你们被警方点名表扬了",
+        "onboard_time": 1704037734,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 97353,
+        "num": 65724,
+        "word": "凤凰传奇赵露思 吉祥三宝",
+        "onboard_time": 1704041387,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94699,
+        "num": 65711,
+        "word": "家有儿女 尴尬",
+        "onboard_time": 1704032173,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26815,
+        "num": 65703,
+        "word": "烟花",
+        "onboard_time": 1704022117,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26002,
+        "num": 65685,
+        "word": "王曼昱新头像",
+        "onboard_time": 1704025429,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23291,
+        "num": 65679,
+        "word": "狗狗的前世可能没忘干净",
+        "onboard_time": 1704031026,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89855,
+        "num": 65665,
+        "word": "马立奥镜头太少了",
+        "onboard_time": 1704035170,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82872,
+        "num": 65652,
+        "word": "11个王俊凯",
+        "onboard_time": 1704023921,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67376,
+        "num": 65645,
+        "word": "猫幂一起跨年",
+        "onboard_time": 1704047785,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65639,
+        "num": 65639,
+        "word": "陶喆真的老了",
+        "onboard_time": 1704053476,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65234,
+        "num": 65234,
+        "word": "苏醒 今晚都全开麦了",
+        "onboard_time": 1704037678,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53567,
+        "num": 65153,
+        "word": "hot summer热冬",
+        "onboard_time": 1704053597,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21072,
+        "num": 64881,
+        "word": "李国庆宣布离婚成功",
+        "onboard_time": 1704011011,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20631,
+        "num": 64661,
+        "word": "苏翊鸣大方示爱朱易",
+        "onboard_time": 1704006270,
+        "rank": 47,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 17910,
+        "num": 64532,
+        "word": "废文邀请码",
+        "onboard_time": 1704028682,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 17906,
+        "num": 64362,
+        "word": "海底捞客服回应小程序崩了",
+        "onboard_time": 1704053655,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#二〇二四年新年贺词#"
+    }
+  }
+}
