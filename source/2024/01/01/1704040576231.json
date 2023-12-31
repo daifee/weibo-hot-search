@@ -1,0 +1,410 @@
+{
+  "runTime": 1704040576231,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12008077,
+        "num": 12008077,
+        "word": "新年快乐",
+        "onboard_time": 1704037678,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3366080,
+        "num": 3366080,
+        "word": "刘宇宁哭了",
+        "onboard_time": 1704037142,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406781,
+        "num": 2833283,
+        "word": "央视跨年晚会",
+        "onboard_time": 1704024348,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2456619,
+        "num": 2456619,
+        "word": "许嵩冯禧同台",
+        "onboard_time": 1704037559,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1832515,
+        "num": 1832515,
+        "word": "华晨宇压轴",
+        "onboard_time": 1704038992,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1616914,
+        "num": 1616914,
+        "word": "谢谢李健老师拯救耳朵",
+        "onboard_time": 1704037918,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1448073,
+        "num": 1448073,
+        "word": "2024",
+        "onboard_time": 1704038452,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884466,
+        "num": 884466,
+        "word": "新年红包",
+        "onboard_time": 1704037142,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 415506,
+        "num": 882214,
+        "word": "跨年",
+        "onboard_time": 1704024106,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405947,
+        "num": 879876,
+        "word": "2024新年贺词",
+        "onboard_time": 1704019895,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3477554,
+        "num": 876103,
+        "word": "甘肃白银4.9级地震",
+        "onboard_time": 1704033795,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2554514,
+        "num": 872467,
+        "word": "蔡依林 天后来了",
+        "onboard_time": 1704035651,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1366711,
+        "num": 870905,
+        "word": "王一博 所有人都是可爱的旁观者",
+        "onboard_time": 1704035829,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510347,
+        "num": 867050,
+        "word": "上海迪士尼发文致歉",
+        "onboard_time": 1704025247,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1229233,
+        "num": 865853,
+        "word": "赵露思 敦煌神女",
+        "onboard_time": 1704029763,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1218184,
+        "num": 861693,
+        "word": "假唱",
+        "onboard_time": 1704027053,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1144216,
+        "num": 859583,
+        "word": "周深居然蹦迪又跳水",
+        "onboard_time": 1704038932,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1047541,
+        "num": 855126,
+        "word": "冷门歌手孙燕姿",
+        "onboard_time": 1704035769,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387541,
+        "num": 852570,
+        "word": "跨年朋友圈",
+        "onboard_time": 1704033013,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356952,
+        "num": 850597,
+        "word": "烟花",
+        "onboard_time": 1704022117,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1786561,
+        "num": 846349,
+        "word": "宋茜王鹤棣亲上了吗",
+        "onboard_time": 1704030245,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282027,
+        "num": 844196,
+        "word": "2024年第一条微博",
+        "onboard_time": 1704040435,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277725,
+        "num": 840787,
+        "word": "兰州震感",
+        "onboard_time": 1704034993,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259043,
+        "num": 837569,
+        "word": "韩国地铁站竟然有宋词",
+        "onboard_time": 1704031085,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230557,
+        "num": 834996,
+        "word": "西安钟楼跨年夜人山人海",
+        "onboard_time": 1704039181,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1733094,
+        "num": 830344,
+        "word": "孟子义跑调很突出",
+        "onboard_time": 1704032709,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1554414,
+        "num": 827484,
+        "word": "杨紫好瘦",
+        "onboard_time": 1704031872,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1226715,
+        "num": 826297,
+        "word": "孟宴臣杀回来了",
+        "onboard_time": 1704032475,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 946213,
+        "num": 821063,
+        "word": "鞠婧祎好稳",
+        "onboard_time": 1704036365,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223121,
+        "num": 819667,
+        "word": "跨年文案",
+        "onboard_time": 1703984130,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 939927,
+        "num": 815447,
+        "word": "马立奥镜头太少了",
+        "onboard_time": 1704035170,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 909202,
+        "num": 812789,
+        "word": "王源破音",
+        "onboard_time": 1704030481,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215619,
+        "num": 810380,
+        "word": "女子1张彩票中奖571次总计860万",
+        "onboard_time": 1704020796,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174274,
+        "num": 808087,
+        "word": "2024年财神来到我们家门前",
+        "onboard_time": 1704038217,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165704,
+        "num": 805466,
+        "word": "跨年图片",
+        "onboard_time": 1704032597,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 802669,
+        "num": 802669,
+        "word": "许嵩 可以考虑结婚",
+        "onboard_time": 1704027843,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 773386,
+        "num": 773386,
+        "word": "难听",
+        "onboard_time": 1704034635,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129037,
+        "num": 766745,
+        "word": "当代年轻人的跨年现状",
+        "onboard_time": 1704029278,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119202,
+        "num": 764023,
+        "word": "一个人跨年 仪式感",
+        "onboard_time": 1704028141,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37920,
+        "num": 763990,
+        "word": "阿达娃被玲花追着投喂阿胶",
+        "onboard_time": 1704038452,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 763972,
+        "num": 763972,
+        "word": "苏醒 今晚都全开麦了",
+        "onboard_time": 1704037678,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724253,
+        "num": 724253,
+        "word": "李宇春压轴",
+        "onboard_time": 1704040489,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 704545,
+        "num": 704545,
+        "word": "时代少年团唱奇迹再现好开心",
+        "onboard_time": 1704039835,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77656,
+        "num": 694526,
+        "word": "长沙地铁暖心广播太戳了",
+        "onboard_time": 1704038753,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687354,
+        "num": 687354,
+        "word": "11个王俊凯",
+        "onboard_time": 1704023921,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103168,
+        "num": 678138,
+        "word": "两个小朋友你们被警方点名表扬了",
+        "onboard_time": 1704037734,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 86067,
+        "num": 665259,
+        "word": "王曼昱新头像",
+        "onboard_time": 1704025429,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81651,
+        "num": 651934,
+        "word": "银川震感",
+        "onboard_time": 1704036782,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79074,
+        "num": 638644,
+        "word": "爸妈弟弟拎上百包子扛羊腿陪女生跨年",
+        "onboard_time": 1704040013,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71252,
+        "num": 620948,
+        "word": "江苏小学幼儿园花式迎新年",
+        "onboard_time": 1704040552,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二〇二四年新年贺词#"
+    }
+  }
+}

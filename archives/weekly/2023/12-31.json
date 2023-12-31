@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704039665829,
+  "endTime": 1704040576231,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3366080,
+      "num": 3366080,
+      "word": "刘宇宁哭了",
+      "onboard_time": 1704037142,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3228029,
       "num": 3228029,
       "word": "听出来是真唱了",
@@ -160,14 +168,6 @@
       "word": "江苏卫视跨年",
       "onboard_time": 1704022178,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2711739,
-      "num": 2711739,
-      "word": "刘宇宁哭了",
-      "onboard_time": 1704037142,
-      "rank": 4,
       "category": "综艺"
     },
     {
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1832515,
+      "num": 1832515,
+      "word": "华晨宇压轴",
+      "onboard_time": 1704038992,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1807512,
       "num": 1807512,
       "word": "冷门歌手孙燕姿",
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1616914,
+      "num": 1616914,
+      "word": "谢谢李健老师拯救耳朵",
+      "onboard_time": 1704037918,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1614279,
       "num": 1614279,
       "word": "为什么睡觉时会突然抖一下",
@@ -384,14 +400,6 @@
       "word": "汪涵哭了",
       "onboard_time": 1704028447,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1400530,
-      "num": 702484,
-      "word": "华晨宇压轴",
-      "onboard_time": 1704038992,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -451,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1266145,
-      "num": 662766,
-      "word": "谢谢李健老师拯救耳朵",
-      "onboard_time": 1704037918,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1218075,
       "num": 869071,
       "word": "魏大勋好帅",
@@ -496,6 +496,14 @@
       "word": "爱如火上跨年 癫了",
       "onboard_time": 1704025188,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1144216,
+      "num": 859583,
+      "word": "周深居然蹦迪又跳水",
+      "onboard_time": 1704038932,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 763972,
+      "num": 763972,
+      "word": "苏醒 今晚都全开麦了",
+      "onboard_time": 1704037678,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 750074,
       "num": 503047,
       "word": "跨年晚会",
@@ -795,6 +811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 724253,
+      "num": 724253,
+      "word": "李宇春压轴",
+      "onboard_time": 1704040489,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 712310,
       "num": 609636,
       "word": "周深和安达配合呼麦",
@@ -809,6 +833,14 @@
       "onboard_time": 1703941776,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 704545,
+      "num": 704545,
+      "word": "时代少年团唱奇迹再现好开心",
+      "onboard_time": 1704039835,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 701757,
@@ -849,14 +881,6 @@
       "onboard_time": 1703985810,
       "rank": 11,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 677341,
-      "num": 558352,
-      "word": "周深居然蹦迪又跳水",
-      "onboard_time": 1704038932,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 661748,
@@ -1555,6 +1579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 282027,
+      "num": 844196,
+      "word": "2024年第一条微博",
+      "onboard_time": 1704040435,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280096,
       "num": 280096,
       "word": "孙怡哭戏",
@@ -1761,6 +1793,14 @@
       "onboard_time": 1704013534,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 230557,
+      "num": 834996,
+      "word": "西安钟楼跨年夜人山人海",
+      "onboard_time": 1704039181,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229947,
@@ -2108,7 +2148,7 @@
     },
     {
       "raw_hot": 183906,
-      "num": 560869,
+      "num": 808087,
       "word": "2024年财神来到我们家门前",
       "onboard_time": 1704038217,
       "rank": 33,
@@ -2955,14 +2995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115034,
-      "num": 557210,
-      "word": "西安钟楼跨年夜人山人海",
-      "onboard_time": 1704039181,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114949,
       "num": 821570,
       "word": "郑钦文 联合杯",
@@ -3105,6 +3137,14 @@
       "onboard_time": 1704010892,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103168,
+      "num": 678138,
+      "word": "两个小朋友你们被警方点名表扬了",
+      "onboard_time": 1704037734,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 103116,
@@ -3275,14 +3315,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 83830,
-      "num": 551794,
-      "word": "两个小朋友你们被警方点名表扬了",
-      "onboard_time": 1704037734,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 83612,
       "num": 1355042,
       "word": "祝愿大家福暖四季顺遂安康",
@@ -3315,12 +3347,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79074,
+      "num": 638644,
+      "word": "爸妈弟弟拎上百包子扛羊腿陪女生跨年",
+      "onboard_time": 1704040013,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77916,
       "num": 77916,
       "word": "妈妈平时是睡得很早的人",
       "onboard_time": 1703929831,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77656,
+      "num": 694526,
+      "word": "长沙地铁暖心广播太戳了",
+      "onboard_time": 1704038753,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77635,
@@ -3337,6 +3385,14 @@
       "onboard_time": 1704032654,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 71252,
+      "num": 620948,
+      "word": "江苏小学幼儿园花式迎新年",
+      "onboard_time": 1704040552,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 69532,
@@ -3384,14 +3440,6 @@
       "word": "来自光年之外的新年祝福",
       "onboard_time": 1703941535,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52990,
-      "num": 562333,
-      "word": "长沙地铁暖心广播太戳了",
-      "onboard_time": 1704038753,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3499,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37920,
+      "num": 763990,
+      "word": "阿达娃被玲花追着投喂阿胶",
+      "onboard_time": 1704038452,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37257,
       "num": 246714,
       "word": "最适合E人的跨年方式",
@@ -3513,14 +3569,6 @@
       "onboard_time": 1704013235,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 33516,
-      "num": 559017,
-      "word": "阿达娃被玲花追着投喂阿胶",
-      "onboard_time": 1704038452,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 32320,
