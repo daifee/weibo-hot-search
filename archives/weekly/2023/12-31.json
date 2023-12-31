@@ -1,7 +1,15 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1703993659819,
+  "endTime": 1703996465562,
   "band_list": [
+    {
+      "raw_hot": 3417841,
+      "num": 3417841,
+      "word": "跨年节目单",
+      "onboard_time": 1703994332,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1901372,
       "num": 1901372,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 524656,
-      "num": 224529,
+      "num": 226288,
       "word": "挖鼻孔会导致鼻孔变大吗",
       "onboard_time": 1703984850,
       "rank": 21,
@@ -259,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392385,
+      "num": 392385,
+      "word": "机场判官称在昆明机场被打",
+      "onboard_time": 1703996011,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371805,
       "num": 371805,
       "word": "女儿的发型被同学吐槽了",
       "onboard_time": 1703984009,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 365070,
+      "num": 365070,
+      "word": "湖南卫视节目单 什么时候出",
+      "onboard_time": 1703995831,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 363798,
@@ -316,11 +340,19 @@
     },
     {
       "raw_hot": 330599,
-      "num": 211670,
+      "num": 228995,
       "word": "睡觉频繁出现这5种表现要留意",
       "onboard_time": 1703989891,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 325672,
+      "num": 231353,
+      "word": "半岁女婴哭闹不止医生从脚底取出4cm头发",
+      "onboard_time": 1703996191,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309105,
@@ -329,6 +361,22 @@
       "onboard_time": 1703985150,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 301781,
+      "num": 301781,
+      "word": "詹姆斯绝平三分踩线",
+      "onboard_time": 1703996011,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298008,
+      "num": 229808,
+      "word": "易烊千玺 新的一年愿大家好运常在",
+      "onboard_time": 1703994990,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 293363,
@@ -347,12 +395,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288442,
+      "num": 182279,
+      "word": "Cat 冠军的家人们早上好",
+      "onboard_time": 1703996011,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 280096,
       "num": 280096,
       "word": "孙怡哭戏",
       "onboard_time": 1703977940,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274541,
+      "num": 274541,
+      "word": "红白歌会节目单",
+      "onboard_time": 1703993430,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 273675,
@@ -404,7 +468,7 @@
     },
     {
       "raw_hot": 246725,
-      "num": 211655,
+      "num": 226769,
       "word": "为什么父母吃饭越来越咸了",
       "onboard_time": 1703991872,
       "rank": 22,
@@ -433,6 +497,14 @@
       "onboard_time": 1703946578,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231358,
+      "num": 231358,
+      "word": "白鹿陈立农合唱",
+      "onboard_time": 1703996249,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 229833,
@@ -491,6 +563,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 202992,
+      "num": 202992,
+      "word": "中使馆回应中国留学生在美疑遭绑架",
+      "onboard_time": 1703993249,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 194035,
       "num": 194035,
       "word": "2024年1月新规来了",
@@ -529,6 +609,14 @@
       "onboard_time": 1703989651,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174671,
+      "num": 174671,
+      "word": "白鹿晒18宫格",
+      "onboard_time": 1703995112,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 171783,
@@ -571,11 +659,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158753,
+      "num": 158753,
+      "word": "湖人惜败森林狼",
+      "onboard_time": 1703995112,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158661,
       "num": 158661,
       "word": "朴宰范看二手玫瑰",
       "onboard_time": 1703978542,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157775,
+      "num": 157775,
+      "word": "希林娜依高带司机师傅上跨年晚会",
+      "onboard_time": 1703994692,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -593,6 +697,14 @@
       "onboard_time": 1703949456,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153327,
+      "num": 153327,
+      "word": "vivo印度子公司2名高管被释放",
+      "onboard_time": 1703995891,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 153223,
@@ -651,6 +763,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 144976,
+      "num": 228458,
+      "word": "王者荣耀跨年电话",
+      "onboard_time": 1703996071,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 143784,
+      "num": 143784,
+      "word": "别人睡觉跨年我是上班跨年",
+      "onboard_time": 1703993012,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143142,
       "num": 143142,
       "word": "12星座本周运势",
@@ -691,28 +819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136140,
-      "num": 136140,
-      "word": "红白歌会节目单",
-      "onboard_time": 1703993430,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136124,
       "num": 136124,
       "word": "gidle舞台侧面视角",
       "onboard_time": 1703991929,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 135049,
-      "num": 135049,
-      "word": "中使馆回应中国留学生在美疑遭绑架",
-      "onboard_time": 1703993249,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 135036,
@@ -723,12 +835,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 130846,
-      "num": 130846,
-      "word": "别人睡觉跨年我是上班跨年",
-      "onboard_time": 1703993012,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 132572,
+      "num": 132572,
+      "word": "C罗年收入超2亿欧元",
+      "onboard_time": 1703994332,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 130136,
@@ -745,6 +857,14 @@
       "onboard_time": 1703943514,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127380,
+      "num": 127380,
+      "word": "今晚看哪台跨年晚会",
+      "onboard_time": 1703994570,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 127105,
@@ -777,6 +897,14 @@
       "onboard_time": 1703946336,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 123048,
+      "num": 123048,
+      "word": "雷鸣 下雪了",
+      "onboard_time": 1703996369,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 121702,
@@ -849,6 +977,30 @@
       "onboard_time": 1703987489,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113867,
+      "num": 113867,
+      "word": "明天会更好",
+      "onboard_time": 1703993851,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 111687,
+      "num": 111687,
+      "word": "电影一闪一闪亮星星和剧版关联",
+      "onboard_time": 1703996311,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 109684,
+      "num": 109684,
+      "word": "钢腿女孩拒绝内耗不想被定义",
+      "onboard_time": 1703994210,
+      "rank": 48,
+      "category": "读书作家"
     },
     {
       "raw_hot": 108072,
@@ -1019,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77635,
+      "num": 227361,
+      "word": "2024超舒适",
+      "onboard_time": 1703994088,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 69532,
       "num": 65058,
       "word": "哈尔滨冰雪大世界跨年夜将延时闭园",
@@ -1161,6 +1321,14 @@
       "onboard_time": 1703961737,
       "rank": 36,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 22070,
+      "num": 274793,
+      "word": "我在蛋仔抢红包",
+      "onboard_time": 1703995231,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 13929,
