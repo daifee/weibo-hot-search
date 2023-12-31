@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1704022437622,
+  "endTime": 1704025849706,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -41,6 +41,14 @@
       "onboard_time": 1702698283,
       "rank": 0,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 12920979,
+      "num": 12920979,
+      "word": "11个王俊凯",
+      "onboard_time": 1704023921,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 12484422,
@@ -297,6 +305,14 @@
       "onboard_time": 1703390733,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 6583605,
+      "num": 6583605,
+      "word": "湖南卫视跨年晚会",
+      "onboard_time": 1704022117,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 6546722,
@@ -1179,6 +1195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2794575,
+      "num": 2794575,
+      "word": "江苏卫视跨年",
+      "onboard_time": 1704022178,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2793837,
       "num": 2793837,
       "word": "男子订婚后被告强奸一审被判3年",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1702260272,
       "rank": 5,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 2321733,
+      "num": 2321733,
+      "word": "浙江卫视跨年晚会",
+      "onboard_time": 1704022360,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 2320857,
@@ -5267,6 +5299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1368850,
+      "num": 3202243,
+      "word": "央视跨年晚会",
+      "onboard_time": 1704024348,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1368275,
       "num": 1352055,
       "word": "黄子韬cue徐艺洋发言",
@@ -5376,6 +5416,14 @@
       "word": "女孩念台词掐同学脖子确诊狼疮脑病",
       "onboard_time": 1702453534,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1338908,
+      "num": 1338908,
+      "word": "女子1张彩票中奖571次总计860万",
+      "onboard_time": 1704020796,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -6199,6 +6247,14 @@
       "num": 457421,
       "word": "妈妈 上班好累啊",
       "onboard_time": 1703125110,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1213316,
+      "num": 742646,
+      "word": "加个哦真的不一样",
+      "onboard_time": 1704017853,
       "rank": 30,
       "category": "情感"
     },
@@ -7785,6 +7841,14 @@
       "onboard_time": 1702872882,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1029813,
+      "num": 639318,
+      "word": "湖南卫视开场秀",
+      "onboard_time": 1704024769,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1029360,
@@ -9795,6 +9859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 870439,
+      "num": 498419,
+      "word": "B站跨年晚会",
+      "onboard_time": 1704024769,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 870425,
       "num": 870425,
       "word": "台湾中学教师怒批去中国化课纲",
@@ -10033,14 +10105,6 @@
       "onboard_time": 1702994381,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 859177,
-      "num": 859177,
-      "word": "江苏卫视跨年",
-      "onboard_time": 1704022178,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 858002,
@@ -11451,14 +11515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 779488,
-      "num": 779488,
-      "word": "湖南卫视跨年晚会",
-      "onboard_time": 1704022117,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 779364,
       "num": 779364,
       "word": "17岁女孩吃下半斤生豆角中毒送医急救",
@@ -11648,6 +11704,14 @@
       "word": "小鹿爆料 抄袭认可",
       "onboard_time": 1703676874,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 768354,
+      "num": 487790,
+      "word": "爱如火上跨年 癫了",
+      "onboard_time": 1704025188,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -11961,6 +12025,14 @@
       "onboard_time": 1702446515,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 750074,
+      "num": 462831,
+      "word": "跨年晚会",
+      "onboard_time": 1704021517,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 750054,
@@ -12785,6 +12857,14 @@
       "onboard_time": 1701766121,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 714241,
+      "num": 714241,
+      "word": "跨年",
+      "onboard_time": 1704024106,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 714230,
@@ -14129,14 +14209,6 @@
       "onboard_time": 1702813235,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 668323,
-      "num": 668323,
-      "word": "加个哦真的不一样",
-      "onboard_time": 1704017853,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 668283,
@@ -16027,6 +16099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 601361,
+      "num": 350296,
+      "word": "虞书欣女团亮片妆",
+      "onboard_time": 1704024464,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 601129,
       "num": 457553,
       "word": "GQ座位",
@@ -16577,14 +16657,6 @@
       "onboard_time": 1702428942,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 584952,
-      "num": 584952,
-      "word": "女子1张彩票中奖571次总计860万",
-      "onboard_time": 1704020796,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 584947,
@@ -17473,6 +17545,14 @@
       "onboard_time": 1702948005,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 561802,
+      "num": 561802,
+      "word": "上海迪士尼发文致歉",
+      "onboard_time": 1704025247,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 560928,
@@ -19379,6 +19459,14 @@
       "category": "读书作家,幽默"
     },
     {
+      "raw_hot": 521514,
+      "num": 341789,
+      "word": "东方卫视跨年晚会",
+      "onboard_time": 1704022540,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 521510,
       "num": 521510,
       "word": "杨鸣曾数次起诉离婚",
@@ -19585,6 +19673,14 @@
       "onboard_time": 1701766301,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 515092,
+      "num": 515092,
+      "word": "80000和800的翡翠区别在哪",
+      "onboard_time": 1704024106,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 514965,
@@ -22161,14 +22257,6 @@
       "onboard_time": 1702623092,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 462831,
-      "num": 462831,
-      "word": "跨年晚会",
-      "onboard_time": 1704021517,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 462699,
@@ -27979,6 +28067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377295,
+      "num": 2539438,
+      "word": "祖国统一是历史必然",
+      "onboard_time": 1704021699,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377205,
       "num": 377205,
       "word": "仙剑四排播",
@@ -31041,6 +31137,14 @@
       "onboard_time": 1703816249,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338912,
+      "num": 338912,
+      "word": "全球高考 全新版",
+      "onboard_time": 1704024348,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 338823,
@@ -36283,6 +36387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 292406,
+      "num": 211071,
+      "word": "张小斐新年桃花妆",
+      "onboard_time": 1704023140,
+      "rank": 43,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 292210,
       "num": 292210,
       "word": "谷爱凌晋级世界杯决赛",
@@ -36569,6 +36681,14 @@
       "onboard_time": 1702892133,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 290394,
+      "num": 224788,
+      "word": "林俊杰 亲爱的2023再见",
+      "onboard_time": 1704022781,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 290376,
@@ -37577,6 +37697,14 @@
       "onboard_time": 1702813478,
       "rank": 29,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 281711,
+      "num": 192347,
+      "word": "MBC节目单",
+      "onboard_time": 1704025670,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 281673,
@@ -41899,6 +42027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252658,
+      "num": 252658,
+      "word": "王曼昱新头像",
+      "onboard_time": 1704025429,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252652,
       "num": 252652,
       "word": "女生洗头都是有规划的",
@@ -42025,6 +42161,14 @@
       "onboard_time": 1702624354,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251928,
+      "num": 251928,
+      "word": "烟花",
+      "onboard_time": 1703818053,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251741,
@@ -44081,14 +44225,6 @@
       "onboard_time": 1702279472,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239061,
-      "num": 2539438,
-      "word": "祖国统一是历史必然",
-      "onboard_time": 1704021699,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239060,
@@ -51545,14 +51681,6 @@
       "onboard_time": 1703049755,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206096,
-      "num": 206096,
-      "word": "烟花",
-      "onboard_time": 1703818053,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206054,
@@ -61123,6 +61251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176836,
+      "num": 176836,
+      "word": "2024新年愿望是什么",
+      "onboard_time": 1704025004,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176830,
       "num": 176830,
       "word": "星光大赏 颜值盛宴",
@@ -65305,6 +65441,14 @@
       "onboard_time": 1701760597,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161978,
+      "num": 526259,
+      "word": "谁会开走刘强东的车",
+      "onboard_time": 1704024464,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 161937,
@@ -73123,14 +73267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134273,
-      "num": 180640,
-      "word": "浙江卫视跨年晚会",
-      "onboard_time": 1704022360,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134259,
       "num": 274590,
       "word": "没办法拒绝雪中的易烊千玺",
@@ -76505,6 +76641,14 @@
       "onboard_time": 1703942012,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 120046,
+      "num": 1464328,
+      "word": "新能源汽车等给中国制造增添了新亮色",
+      "onboard_time": 1704021756,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 119935,
@@ -80251,14 +80395,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 85096,
-      "num": 1464328,
-      "word": "新能源汽车等给中国制造增添了新亮色",
-      "onboard_time": 1704021756,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 84954,
       "num": 84954,
       "word": "侯明昊大梦归离",
@@ -82315,6 +82451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53961,
+      "num": 227753,
+      "word": "京东千万份好礼一分钱",
+      "onboard_time": 1704024042,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 53831,
       "num": 196622,
       "word": "蛋仔派对洗脑神曲",
@@ -82489,6 +82633,14 @@
       "onboard_time": 1702164559,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 51268,
+      "num": 656343,
+      "word": "哈妮克孜王者直播",
+      "onboard_time": 1704024042,
+      "rank": 14,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 51217,
@@ -83721,6 +83873,14 @@
       "onboard_time": 1702278032,
       "rank": 14,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 35571,
+      "num": 246714,
+      "word": "最适合E人的跨年方式",
+      "onboard_time": 1704024042,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 35469,
