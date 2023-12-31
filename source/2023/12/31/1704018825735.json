@@ -1,0 +1,410 @@
+{
+  "runTime": 1704018825735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2025265,
+        "num": 2025265,
+        "word": "妈妈在洗手间 不要打扰妈妈",
+        "onboard_time": 1704014372,
+        "rank": 0,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 397722,
+        "num": 1358048,
+        "word": "哈尔滨冰雪大世界万人蹦迪",
+        "onboard_time": 1704013052,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 73659,
+        "num": 1355089,
+        "word": "两岸群星共唱明天会更好",
+        "onboard_time": 1703991270,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1354819,
+        "num": 1354819,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1704004590,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173469,
+        "num": 1210414,
+        "word": "乡村教师靠一条腿撑起2000多个孩子求学路",
+        "onboard_time": 1704017673,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1179289,
+        "num": 1179289,
+        "word": "跨年节目单",
+        "onboard_time": 1703994332,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91108,
+        "num": 947819,
+        "word": "地铁暖心祝福大家新年一往无前",
+        "onboard_time": 1704016236,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 868797,
+        "num": 868797,
+        "word": "苏翊鸣大方示爱朱易",
+        "onboard_time": 1704006270,
+        "rank": 7,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 540918,
+        "num": 540918,
+        "word": "B站跨年晚会节目单",
+        "onboard_time": 1704014433,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301980,
+        "num": 520487,
+        "word": "中俄两国元首互致新年贺电",
+        "onboard_time": 1704015271,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1417154,
+        "num": 512343,
+        "word": "李国庆宣布离婚成功",
+        "onboard_time": 1704011011,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 768334,
+        "num": 511269,
+        "word": "导演是怎么选中屈楚萧演张万森的",
+        "onboard_time": 1704012153,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 501296,
+        "num": 501296,
+        "word": "68元锅包肉巴掌大店家转888致歉",
+        "onboard_time": 1704000510,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496874,
+        "num": 496874,
+        "word": "央视跨年节目单",
+        "onboard_time": 1703999671,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30294,
+        "num": 476738,
+        "word": "元梦蹦迪跨年",
+        "onboard_time": 1704016835,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 714153,
+        "num": 470596,
+        "word": "关晓彤假发的毛娘",
+        "onboard_time": 1704015271,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 461482,
+        "num": 461482,
+        "word": "三个人的舞台 六个人的名字",
+        "onboard_time": 1704013471,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444771,
+        "num": 444771,
+        "word": "上海迪士尼称或将取消跨年烟花秀",
+        "onboard_time": 1704011131,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 441234,
+        "num": 441234,
+        "word": "年会不能停 裁员广进",
+        "onboard_time": 1704007593,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 395657,
+        "num": 395657,
+        "word": "海底捞小程序崩了",
+        "onboard_time": 1704016772,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 75158,
+        "num": 370313,
+        "word": "24年的第一场烟花",
+        "onboard_time": 1704015932,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 353128,
+        "num": 353128,
+        "word": "鞠婧祎双马尾辣妹",
+        "onboard_time": 1704017312,
+        "rank": 21,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 342561,
+        "num": 342561,
+        "word": "红白歌会",
+        "onboard_time": 1704017913,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 282733,
+        "num": 282733,
+        "word": "老太买房记孙子名下后发现孙子非亲生",
+        "onboard_time": 1704017732,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276928,
+        "num": 276928,
+        "word": "不小心误吃了颗布洛芬会怎么样",
+        "onboard_time": 1704006692,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 295660,
+        "num": 274215,
+        "word": "霉霉 中文字幕",
+        "onboard_time": 1704003030,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267339,
+        "num": 267339,
+        "word": "BLG对战RNG",
+        "onboard_time": 1704016891,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197625,
+        "num": 267110,
+        "word": "樊振东重返微博",
+        "onboard_time": 1703997569,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193641,
+        "num": 266572,
+        "word": "北京什刹海有小孩落水众人接力救援",
+        "onboard_time": 1704009870,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 60950,
+        "num": 265897,
+        "word": "火箭军成立8周年",
+        "onboard_time": 1704016236,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 446192,
+        "num": 265106,
+        "word": "加个哦真的不一样",
+        "onboard_time": 1704017853,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273210,
+        "num": 264345,
+        "word": "MBC歌谣大祭典",
+        "onboard_time": 1704018033,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263932,
+        "num": 263932,
+        "word": "霉霉大电影诞生的原因",
+        "onboard_time": 1704016835,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242405,
+        "num": 242405,
+        "word": "你长这么慢 我很难看到你长大",
+        "onboard_time": 1704017673,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229789,
+        "num": 229789,
+        "word": "挖呀挖黄老师当妈妈啦",
+        "onboard_time": 1703998051,
+        "rank": 34,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 227595,
+        "num": 227595,
+        "word": "王一博彩排了7次旁观者",
+        "onboard_time": 1704005432,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217329,
+        "num": 217329,
+        "word": "繁花汪小姐被举报调查",
+        "onboard_time": 1704018092,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214976,
+        "num": 214976,
+        "word": "明星cos",
+        "onboard_time": 1704015753,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201849,
+        "num": 201849,
+        "word": "田曦薇双马尾彩排照",
+        "onboard_time": 1704012634,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201533,
+        "num": 201533,
+        "word": "我推的孩子 合作舞台",
+        "onboard_time": 1704018391,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192764,
+        "num": 192764,
+        "word": "江苏卫视跨年节目单",
+        "onboard_time": 1703990070,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185695,
+        "num": 185695,
+        "word": "北京卫视跨年节目单",
+        "onboard_time": 1704016052,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164960,
+        "num": 164960,
+        "word": "张天爱孙怡乔欣 劈你的雷正在路上",
+        "onboard_time": 1704012570,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154968,
+        "num": 154968,
+        "word": "哈尔滨旅游",
+        "onboard_time": 1704018754,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 151736,
+        "num": 151736,
+        "word": "段永平向浙大再捐10亿多",
+        "onboard_time": 1704017493,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146023,
+        "num": 146023,
+        "word": "MRC获胜",
+        "onboard_time": 1704016293,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145963,
+        "num": 145963,
+        "word": "哈尔滨冰雪大世界暂停销售今日门票",
+        "onboard_time": 1704012514,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 145590,
+        "num": 145590,
+        "word": "为什么有人指甲上有月牙有人却没有",
+        "onboard_time": 1703999671,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142121,
+        "num": 142121,
+        "word": "猫妈带娃也崩溃",
+        "onboard_time": 1704018573,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135802,
+        "num": 135802,
+        "word": "东玄深渊见",
+        "onboard_time": 1704017732,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#历年新年贺词中这些话温暖人心#"
+    }
+  }
+}
