@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704011655879,
+  "endTime": 1704014173067,
   "band_list": [
     {
       "raw_hot": 3417841,
@@ -17,6 +17,14 @@
       "onboard_time": 1704006270,
       "rank": 5,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1976323,
+      "num": 564877,
+      "word": "李国庆宣布离婚成功",
+      "onboard_time": 1704011011,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 1901372,
@@ -131,6 +139,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 867808,
+      "num": 867808,
+      "word": "上海迪士尼称或将取消跨年烟花秀",
+      "onboard_time": 1704011131,
+      "rank": 21,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 839076,
       "num": 839076,
       "word": "马思唯嘉宾白敬亭",
@@ -187,6 +203,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 661748,
+      "num": 661748,
+      "word": "北京什刹海有小孩落水众人接力救援",
+      "onboard_time": 1704009870,
+      "rank": 30,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 661424,
       "num": 661424,
       "word": "为什么有人指甲上有月牙有人却没有",
@@ -217,6 +241,14 @@
       "onboard_time": 1703983469,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599965,
+      "num": 599965,
+      "word": "导演是怎么选中屈楚萧演张万森的",
+      "onboard_time": 1704012153,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 590487,
@@ -275,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 564877,
-      "num": 564877,
-      "word": "李国庆宣布离婚成功",
-      "onboard_time": 1704011011,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 561120,
       "num": 561120,
       "word": "张杰一个人pk所有卫视",
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 531446,
-      "num": 395701,
+      "num": 398660,
       "word": "央视跨年节目单",
       "onboard_time": 1703999671,
       "rank": 10,
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 499232,
-      "num": 255457,
+      "num": 307843,
       "word": "不小心误吃了颗布洛芬会怎么样",
       "onboard_time": 1704006692,
       "rank": 30,
@@ -401,14 +425,6 @@
       "onboard_time": 1703948614,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461333,
-      "num": 461333,
-      "word": "北京什刹海有小孩落水众人接力救援",
-      "onboard_time": 1704009870,
-      "rank": 30,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 461177,
@@ -491,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 365561,
+      "num": 365561,
+      "word": "田曦薇双马尾彩排照",
+      "onboard_time": 1704012634,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363798,
       "num": 363798,
       "word": "纯爱战神汪小姐",
@@ -520,6 +544,14 @@
       "word": "刘宇宁 奉上全开麦直拍",
       "onboard_time": 1703998531,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 344853,
+      "num": 307241,
+      "word": "张天爱孙怡乔欣 劈你的雷正在路上",
+      "onboard_time": 1704012570,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -572,11 +604,19 @@
     },
     {
       "raw_hot": 329471,
-      "num": 329471,
+      "num": 457786,
       "word": "四川自贡发生3.2级地震",
       "onboard_time": 1704008371,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326365,
+      "num": 314274,
+      "word": "胡歌唐嫣跨年合体彩排",
+      "onboard_time": 1704010470,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 324644,
@@ -585,6 +625,14 @@
       "onboard_time": 1704004713,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318913,
+      "num": 318913,
+      "word": "哈尔滨冰雪大世界暂停销售今日门票",
+      "onboard_time": 1704012514,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 309105,
@@ -627,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290840,
+      "num": 290840,
+      "word": "三个人的舞台 六个人的名字",
+      "onboard_time": 1704013471,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288442,
       "num": 237887,
       "word": "Cat 冠军的家人们早上好",
@@ -641,6 +697,14 @@
       "onboard_time": 1704010770,
       "rank": 25,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 283299,
+      "num": 283299,
+      "word": "砂糖桔",
+      "onboard_time": 1704011491,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 280096,
@@ -681,14 +745,6 @@
       "onboard_time": 1703980706,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 269116,
-      "num": 269116,
-      "word": "胡歌唐嫣跨年合体彩排",
-      "onboard_time": 1704010470,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 266103,
@@ -771,12 +827,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234268,
-      "num": 234268,
-      "word": "上海迪士尼称或将取消跨年烟花秀",
-      "onboard_time": 1704011131,
-      "rank": 21,
-      "category": "旅游"
+      "raw_hot": 230723,
+      "num": 230723,
+      "word": "金手指",
+      "onboard_time": 1704013534,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 229833,
@@ -785,6 +841,14 @@
       "onboard_time": 1703929831,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228907,
+      "num": 228907,
+      "word": "哈尔滨冰雪大世界万人蹦迪",
+      "onboard_time": 1704013052,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 228872,
@@ -843,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215767,
+      "num": 215767,
+      "word": "AG全员cos",
+      "onboard_time": 1704012212,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 214642,
       "num": 214642,
       "word": "张万森拿回了展宇偷走的那十年",
@@ -852,7 +924,7 @@
     },
     {
       "raw_hot": 212125,
-      "num": 212125,
+      "num": 877860,
       "word": "两岸群星共唱明天会更好",
       "onboard_time": 1703991270,
       "rank": 19,
@@ -891,12 +963,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200449,
+      "num": 200449,
+      "word": "泰勒大电影",
+      "onboard_time": 1704013353,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199857,
       "num": 199857,
       "word": "罗密欧 救救我",
       "onboard_time": 1704008612,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198756,
+      "num": 198756,
+      "word": "年会不能停 社畜共情",
+      "onboard_time": 1704013353,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 198643,
+      "num": 198643,
+      "word": "成毅莲花国风造型",
+      "onboard_time": 1704011733,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 198059,
@@ -947,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187595,
+      "num": 187595,
+      "word": "WBG对战NIP",
+      "onboard_time": 1704001710,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185874,
       "num": 185874,
       "word": "魏大勋湖南卫视跨年值日生",
@@ -988,7 +1092,7 @@
     },
     {
       "raw_hot": 177496,
-      "num": 177496,
+      "num": 219962,
       "word": "身材娇小女子哈尔滨玩雪圈被当成小孩",
       "onboard_time": 1704007593,
       "rank": 32,
@@ -1001,6 +1105,14 @@
       "onboard_time": 1703989651,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175492,
+      "num": 175492,
+      "word": "权志龙悼念李善均",
+      "onboard_time": 1704010712,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 174671,
@@ -1081,6 +1193,14 @@
       "onboard_time": 1703979082,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163266,
+      "num": 163266,
+      "word": "雪地瞎滑大赛成花式翻车现场",
+      "onboard_time": 1704013712,
+      "rank": 39,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 160284,
@@ -1171,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152121,
+      "num": 152121,
+      "word": "东风高管回应刘强东送猛士越野车",
+      "onboard_time": 1704013411,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 150360,
       "num": 150360,
       "word": "内娱妈生音综",
@@ -1219,14 +1347,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 145493,
-      "num": 145493,
-      "word": "WBG对战NIP",
-      "onboard_time": 1704001710,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 144976,
       "num": 239860,
       "word": "王者荣耀跨年电话",
@@ -1273,6 +1393,14 @@
       "onboard_time": 1703977639,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140646,
+      "num": 140646,
+      "word": "跨年约会",
+      "onboard_time": 1704013654,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 140114,
@@ -1371,14 +1499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 129006,
-      "num": 129006,
-      "word": "砂糖桔",
-      "onboard_time": 1704011491,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 127523,
       "num": 127523,
       "word": "金抹布年度烂剧颁奖典礼",
@@ -1393,6 +1513,14 @@
       "onboard_time": 1703943514,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127453,
+      "num": 127453,
+      "word": "三大队 陈明昊反派演技",
+      "onboard_time": 1704013953,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 127380,
@@ -1499,14 +1627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121409,
-      "num": 121409,
-      "word": "权志龙悼念李善均",
-      "onboard_time": 1704010712,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119496,
       "num": 119496,
       "word": "瓶子解说",
@@ -1569,6 +1689,14 @@
       "onboard_time": 1703993851,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112530,
+      "num": 112530,
+      "word": "一诺一口气20个俯卧撑",
+      "onboard_time": 1704014132,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 112399,
@@ -1721,6 +1849,14 @@
       "onboard_time": 1704004530,
       "rank": 43,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 97235,
+      "num": 111145,
+      "word": "燃油附加费回落至40元或70元",
+      "onboard_time": 1704013834,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 95809,
@@ -2003,6 +2139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27159,
+      "num": 401345,
+      "word": "元梦之星影院怎么造",
+      "onboard_time": 1704013235,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26396,
       "num": 26396,
       "word": "王家卫好会拍美女",
@@ -2060,6 +2204,9 @@
     },
     {
       "word": "#历年新年贺词中这些话温暖人心#"
+    },
+    {
+      "word": "#重温习主席新年贺词#"
     }
   ]
 }
