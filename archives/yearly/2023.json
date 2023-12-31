@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1704033237249,
+  "endTime": 1704035793731,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1684327348,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 10039041,
+      "num": 10039041,
+      "word": "甘肃白银4.9级地震",
+      "onboard_time": 1704033795,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10028023,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1681921705,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7516988,
-      "num": 8351842,
-      "word": "丰县八孩案一审宣判",
-      "onboard_time": 1680840993,
-      "rank": 8,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
