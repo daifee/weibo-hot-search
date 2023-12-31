@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704047654537,
+  "endTime": 1704050033287,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -2713,6 +2713,14 @@
       "onboard_time": 1703977639,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140256,
+      "num": 127942,
+      "word": "猫幂一起跨年",
+      "onboard_time": 1704047785,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 140114,

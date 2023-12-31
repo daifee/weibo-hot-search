@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704047654537,
+  "endTime": 1704050033287,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -467,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140256,
+      "num": 127942,
+      "word": "猫幂一起跨年",
+      "onboard_time": 1704047785,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110960,
       "num": 665259,
       "word": "王曼昱新头像",
@@ -561,6 +569,14 @@
       "onboard_time": 1704038452,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21106,
+      "num": 127474,
+      "word": "狗狗的前世可能没忘干净",
+      "onboard_time": 1704031026,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

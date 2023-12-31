@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/31 00:21:53 ~ 2024/01/01 02:34:14
+本榜单时间：2023/12/31 00:21:53 ~ 2024/01/01 03:13:53
 </p>
 </blockquote>
 <p>
@@ -2045,6 +2045,12 @@ MRC获胜（热度：146023）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%A5%AD%E5%BA%97%E5%90%8E%E5%8E%A8%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C%23" target="weibo">
 繁花饭店后厨集体离职（热度：140873）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%B9%82%E4%B8%80%E8%B5%B7%E8%B7%A8%E5%B9%B4%23" target="weibo">
+猫幂一起跨年（热度：140256）
 </a>
 </li>
 
