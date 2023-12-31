@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1704025849706,
+  "endTime": 1704026760205,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1259,6 +1259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 9779427,
+      "num": 9779427,
+      "word": "湖南卫视跨年晚会",
+      "onboard_time": 1704022117,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9774315,
       "num": 9774315,
       "word": "超级月亮",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1689076054,
       "rank": 0,
       "category": "社会新闻,时尚"
-    },
-    {
-      "raw_hot": 7463239,
-      "num": 7463239,
-      "word": "高考英语",
-      "onboard_time": 1686213514,
-      "rank": 0,
-      "category": "社会新闻,教育"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1704026760205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10393390,
+        "num": 10393390,
+        "word": "11个王俊凯",
+        "onboard_time": 1704023921,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9779427,
+        "num": 9779427,
+        "word": "湖南卫视跨年晚会",
+        "onboard_time": 1704022117,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1331860,
+        "num": 2917417,
+        "word": "央视跨年晚会",
+        "onboard_time": 1704024348,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2616401,
+        "num": 2616401,
+        "word": "湖南卫视 全是广告",
+        "onboard_time": 1704025852,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1908902,
+        "num": 1908902,
+        "word": "江苏卫视跨年",
+        "onboard_time": 1704022178,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1787484,
+        "num": 1787484,
+        "word": "听出来是真唱了",
+        "onboard_time": 1704026035,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1048965,
+        "num": 1238313,
+        "word": "女子1张彩票中奖571次总计860万",
+        "onboard_time": 1704020796,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862043,
+        "num": 1172575,
+        "word": "2024新年贺词",
+        "onboard_time": 1704019895,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1171556,
+        "num": 1171556,
+        "word": "上海迪士尼发文致歉",
+        "onboard_time": 1704025247,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 108976,
+        "num": 1154791,
+        "word": "新能源汽车等给中国制造增添了新亮色",
+        "onboard_time": 1704021756,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1498658,
+        "num": 1151381,
+        "word": "刘宇宁毛不易为啥唱这首歌",
+        "onboard_time": 1704025911,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1147480,
+        "num": 1147480,
+        "word": "爱如火上跨年 癫了",
+        "onboard_time": 1704025188,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606118,
+        "num": 606118,
+        "word": "跨年",
+        "onboard_time": 1704024106,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506367,
+        "num": 506367,
+        "word": "妈妈在洗手间 不要打扰妈妈",
+        "onboard_time": 1704014372,
+        "rank": 13,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 57543,
+        "num": 394401,
+        "word": "哈妮克孜王者直播",
+        "onboard_time": 1704024042,
+        "rank": 14,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 1108711,
+        "num": 380942,
+        "word": "浙江卫视跨年晚会",
+        "onboard_time": 1704022360,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362258,
+        "num": 362258,
+        "word": "80000和800的翡翠区别在哪",
+        "onboard_time": 1704024106,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 323119,
+        "num": 323119,
+        "word": "老太买房记孙子名下后发现孙子非亲生",
+        "onboard_time": 1704017732,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157878,
+        "num": 313693,
+        "word": "谁会开走刘强东的车",
+        "onboard_time": 1704024464,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 309232,
+        "num": 309232,
+        "word": "王曼昱新头像",
+        "onboard_time": 1704025429,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 870488,
+        "num": 307657,
+        "word": "B站跨年晚会",
+        "onboard_time": 1704024769,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 835711,
+        "num": 304987,
+        "word": "加个哦真的不一样",
+        "onboard_time": 1704017853,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804307,
+        "num": 303352,
+        "word": "单依纯陶喆会唱多唱",
+        "onboard_time": 1704026153,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476765,
+        "num": 301677,
+        "word": "2024新年贺词全文",
+        "onboard_time": 1704021638,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300720,
+        "num": 300720,
+        "word": "苏翊鸣大方示爱朱易",
+        "onboard_time": 1704006270,
+        "rank": 24,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 758737,
+        "num": 299573,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1704004590,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 687517,
+        "num": 298721,
+        "word": "李荣浩眼睛大了",
+        "onboard_time": 1704026215,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296075,
+        "num": 296075,
+        "word": "全球高考 全新版",
+        "onboard_time": 1704024348,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 288313,
+        "num": 288313,
+        "word": "跨年文案",
+        "onboard_time": 1703984130,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278171,
+        "num": 278171,
+        "word": "祖国统一是历史必然",
+        "onboard_time": 1704021699,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684783,
+        "num": 273771,
+        "word": "湖南卫视开场秀",
+        "onboard_time": 1704024769,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661304,
+        "num": 268105,
+        "word": "跨年晚会",
+        "onboard_time": 1704021517,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603073,
+        "num": 258038,
+        "word": "虞书欣女团亮片妆",
+        "onboard_time": 1704024464,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504237,
+        "num": 255628,
+        "word": "宋茜唱跳给Amber镜头",
+        "onboard_time": 1704026514,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333691,
+        "num": 249153,
+        "word": "李国庆宣布离婚成功",
+        "onboard_time": 1704011011,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 397749,
+        "num": 236813,
+        "word": "导演是怎么选中屈楚萧演张万森的",
+        "onboard_time": 1704012153,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236005,
+        "num": 236005,
+        "word": "烟花",
+        "onboard_time": 1704022117,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214571,
+        "num": 214571,
+        "word": "BLG对战RNG",
+        "onboard_time": 1704016891,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207663,
+        "num": 207663,
+        "word": "女生被求婚后的真实反应",
+        "onboard_time": 1704025188,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37257,
+        "num": 207585,
+        "word": "最适合E人的跨年方式",
+        "onboard_time": 1704024042,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392871,
+        "num": 207535,
+        "word": "东方卫视跨年晚会",
+        "onboard_time": 1704022540,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393258,
+        "num": 207431,
+        "word": "B站是童年回忆杀吧",
+        "onboard_time": 1704025852,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354715,
+        "num": 207361,
+        "word": "鞠婧祎双马尾辣妹",
+        "onboard_time": 1704017312,
+        "rank": 42,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 340843,
+        "num": 207296,
+        "word": "关晓彤假发的毛娘",
+        "onboard_time": 1704015271,
+        "rank": 43,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 458919,
+        "num": 207255,
+        "word": "跨年夜",
+        "onboard_time": 1704020194,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269509,
+        "num": 207163,
+        "word": "周深和安达配合呼麦",
+        "onboard_time": 1704026691,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295756,
+        "num": 207117,
+        "word": "MBC节目单",
+        "onboard_time": 1704025670,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246385,
+        "num": 206973,
+        "word": "罗大佑已是满头白发",
+        "onboard_time": 1704026578,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206963,
+        "num": 206963,
+        "word": "春楠给关晓彤化的妆面",
+        "onboard_time": 1704026578,
+        "rank": 48,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 195936,
+        "num": 195936,
+        "word": "徐涛 2023年没什么突出的成绩",
+        "onboard_time": 1704026277,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二〇二四年新年贺词#"
+    }
+  }
+}
