@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704046827369,
+  "endTime": 1704047654537,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -1825,6 +1825,14 @@
       "onboard_time": 1703946578,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241384,
+      "num": 184179,
+      "word": "戚薇李承铉 真夫妻",
+      "onboard_time": 1704047005,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 238930,
