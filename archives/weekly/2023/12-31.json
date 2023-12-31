@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704026760205,
+  "endTime": 1704028723122,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -24,6 +24,30 @@
       "word": "跨年节目单",
       "onboard_time": 1703994332,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3368472,
+      "num": 1135628,
+      "word": "假唱",
+      "onboard_time": 1704027053,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3228029,
+      "num": 3228029,
+      "word": "听出来是真唱了",
+      "onboard_time": 1704026035,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2947130,
+      "num": 2947130,
+      "word": "宋茜唱跳给Amber镜头",
+      "onboard_time": 1704026514,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -57,6 +81,14 @@
       "onboard_time": 1704021638,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2423958,
+      "num": 2423958,
+      "word": "许嵩 可以考虑结婚",
+      "onboard_time": 1704027843,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 2321733,
@@ -115,11 +147,11 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 1787484,
-      "num": 1787484,
-      "word": "听出来是真唱了",
-      "onboard_time": 1704026035,
-      "rank": 5,
+      "raw_hot": 1649245,
+      "num": 1151381,
+      "word": "刘宇宁毛不易为啥唱这首歌",
+      "onboard_time": 1704025911,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -139,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1498658,
-      "num": 1151381,
-      "word": "刘宇宁毛不易为啥唱这首歌",
-      "onboard_time": 1704025911,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1435282,
       "num": 1435282,
       "word": "姐弟坠亡案母亲希望死刑尽快执行",
@@ -164,11 +188,19 @@
     },
     {
       "raw_hot": 1368850,
-      "num": 3202243,
+      "num": 5348635,
       "word": "央视跨年晚会",
       "onboard_time": 1704024348,
       "rank": 2,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1353557,
+      "num": 506647,
+      "word": "鞠婧祎双马尾辣妹",
+      "onboard_time": 1704017312,
+      "rank": 36,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1338908,
@@ -184,6 +216,14 @@
       "word": "江苏卫视跨年节目单",
       "onboard_time": 1703990070,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1254448,
+      "num": 505889,
+      "word": "薛之谦笑死我了",
+      "onboard_time": 1704028500,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -217,6 +257,14 @@
       "onboard_time": 1703985089,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1067283,
+      "num": 505382,
+      "word": "Queencard中文版",
+      "onboard_time": 1704027654,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1037813,
@@ -267,6 +315,22 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 886723,
+      "num": 505207,
+      "word": "张天爱 婚纱",
+      "onboard_time": 1704027414,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 884010,
+      "num": 505012,
+      "word": "汪涵哭了",
+      "onboard_time": 1704028447,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 882151,
       "num": 882151,
       "word": "老太买房记孙子名下后发现孙子非亲生",
@@ -276,7 +340,7 @@
     },
     {
       "raw_hot": 870488,
-      "num": 498419,
+      "num": 502857,
       "word": "B站跨年晚会",
       "onboard_time": 1704024769,
       "rank": 20,
@@ -339,12 +403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 800818,
+      "num": 504597,
+      "word": "虞书欣女团亮片妆",
+      "onboard_time": 1704024464,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 787420,
       "num": 787420,
       "word": "肖战工作室包场非诚勿扰3",
       "onboard_time": 1703998110,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 776600,
+      "num": 504235,
+      "word": "李荣浩眼睛大了",
+      "onboard_time": 1704026215,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 772586,
@@ -356,7 +436,7 @@
     },
     {
       "raw_hot": 750074,
-      "num": 462831,
+      "num": 503047,
       "word": "跨年晚会",
       "onboard_time": 1704021517,
       "rank": 24,
@@ -371,6 +451,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 745151,
+      "num": 504183,
+      "word": "谁让娜扎来跳我没K的",
+      "onboard_time": 1704027777,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 737364,
       "num": 737364,
       "word": "年会不能停 裁员广进",
@@ -380,11 +468,19 @@
     },
     {
       "raw_hot": 714241,
-      "num": 714241,
+      "num": 2333594,
       "word": "跨年",
       "onboard_time": 1704024106,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 712310,
+      "num": 503849,
+      "word": "周深和安达配合呼麦",
+      "onboard_time": 1704026691,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 711617,
@@ -409,14 +505,6 @@
       "onboard_time": 1703985810,
       "rank": 11,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 687517,
-      "num": 298721,
-      "word": "李荣浩眼睛大了",
-      "onboard_time": 1704026215,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 661748,
@@ -459,11 +547,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 603073,
-      "num": 350296,
-      "word": "虞书欣女团亮片妆",
-      "onboard_time": 1704024464,
-      "rank": 26,
+      "raw_hot": 603545,
+      "num": 502926,
+      "word": "B站是童年回忆杀吧",
+      "onboard_time": 1704025852,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -505,6 +593,14 @@
       "onboard_time": 1703950292,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 568431,
+      "num": 502622,
+      "word": "魏大勋好帅",
+      "onboard_time": 1704028563,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 567787,
@@ -619,20 +715,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 504237,
-      "num": 255628,
-      "word": "宋茜唱跳给Amber镜头",
-      "onboard_time": 1704026514,
-      "rank": 33,
+      "raw_hot": 502578,
+      "num": 502578,
+      "word": "于适弹唱好野",
+      "onboard_time": 1704026933,
+      "rank": 44,
       "category": "综艺"
     },
     {
       "raw_hot": 499232,
-      "num": 340295,
+      "num": 500619,
       "word": "不小心误吃了颗布洛芬会怎么样",
       "onboard_time": 1704006692,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 491317,
+      "num": 507147,
+      "word": "春楠给关晓彤化的妆面",
+      "onboard_time": 1704026578,
+      "rank": 48,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 482881,
@@ -652,7 +756,7 @@
     },
     {
       "raw_hot": 477917,
-      "num": 477917,
+      "num": 506587,
       "word": "跨年文案",
       "onboard_time": 1703984130,
       "rank": 4,
@@ -771,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393258,
-      "num": 207431,
-      "word": "B站是童年回忆杀吧",
-      "onboard_time": 1704025852,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 387778,
       "num": 387778,
       "word": "詹姆斯绝平三分踩线",
@@ -835,14 +931,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 354715,
-      "num": 353128,
-      "word": "鞠婧祎双马尾辣妹",
-      "onboard_time": 1704017312,
-      "rank": 36,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 353351,
       "num": 323298,
       "word": "乔欣吊带裙搭皮草",
@@ -892,7 +980,7 @@
     },
     {
       "raw_hot": 338912,
-      "num": 338912,
+      "num": 505729,
       "word": "全球高考 全新版",
       "onboard_time": 1704024348,
       "rank": 29,
@@ -924,7 +1012,7 @@
     },
     {
       "raw_hot": 331873,
-      "num": 331873,
+      "num": 502451,
       "word": "BLG对战RNG",
       "onboard_time": 1704016891,
       "rank": 24,
@@ -972,7 +1060,7 @@
     },
     {
       "raw_hot": 309232,
-      "num": 309232,
+      "num": 505508,
       "word": "王曼昱新头像",
       "onboard_time": 1704025429,
       "rank": 37,
@@ -1139,14 +1227,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 269509,
-      "num": 207163,
-      "word": "周深和安达配合呼麦",
-      "onboard_time": 1704026691,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266103,
       "num": 198320,
       "word": "关晓彤第30套高定",
@@ -1203,20 +1283,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 257532,
+      "num": 506248,
+      "word": "烟花",
+      "onboard_time": 1704022117,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255924,
       "num": 255924,
       "word": "白鹿陈立农合唱",
       "onboard_time": 1703996249,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251928,
-      "num": 251928,
-      "word": "烟花",
-      "onboard_time": 1704022117,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246725,
@@ -1281,6 +1361,14 @@
       "onboard_time": 1703929831,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229320,
+      "num": 504977,
+      "word": "一个人跨年 仪式感",
+      "onboard_time": 1704028141,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 228872,
@@ -1404,19 +1492,11 @@
     },
     {
       "raw_hot": 207663,
-      "num": 207663,
+      "num": 503382,
       "word": "女生被求婚后的真实反应",
       "onboard_time": 1704025188,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206963,
-      "num": 206963,
-      "word": "春楠给关晓彤化的妆面",
-      "onboard_time": 1704026578,
-      "rank": 48,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 204935,
@@ -1665,6 +1745,14 @@
       "onboard_time": 1703995112,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174579,
+      "num": 503677,
+      "word": "邱贻可晒和孙颖莎年终总结",
+      "onboard_time": 1704027959,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 173469,
@@ -2123,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135606,
+      "num": 501600,
+      "word": "废文邀请码",
+      "onboard_time": 1704028682,
+      "rank": 46,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 135036,
       "num": 135036,
       "word": "Cat御三家冠军大满贯",
@@ -2377,6 +2473,14 @@
       "onboard_time": 1703987489,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 114292,
+      "num": 499705,
+      "word": "杭州地铁是懂浪漫的",
+      "onboard_time": 1704028200,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113867,
@@ -2643,6 +2747,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 83438,
+      "num": 507040,
+      "word": "京东千万份好礼一分钱",
+      "onboard_time": 1704024042,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 81251,
       "num": 81251,
       "word": "尼克斯猛龙交易",
@@ -2729,14 +2841,6 @@
       "onboard_time": 1703941535,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53961,
-      "num": 227753,
-      "word": "京东千万份好礼一分钱",
-      "onboard_time": 1704024042,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 50028,
@@ -2945,6 +3049,14 @@
       "onboard_time": 1703967253,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11762,
+      "num": 503233,
+      "word": "阿达娃的广告曲太扎心了",
+      "onboard_time": 1704027654,
+      "rank": 39,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
