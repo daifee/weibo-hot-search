@@ -1,0 +1,410 @@
+{
+  "runTime": 1704032096537,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8889765,
+        "num": 8889765,
+        "word": "宋茜王鹤棣亲上了吗",
+        "onboard_time": 1704030245,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6558077,
+        "num": 6558077,
+        "word": "湖南卫视跨年晚会",
+        "onboard_time": 1704022117,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750943,
+        "num": 5857032,
+        "word": "央视跨年晚会",
+        "onboard_time": 1704024348,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5445912,
+        "num": 5445912,
+        "word": "还得是林俊杰",
+        "onboard_time": 1704030186,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4878753,
+        "num": 4878753,
+        "word": "11个王俊凯",
+        "onboard_time": 1704023921,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3672850,
+        "num": 3672850,
+        "word": "赵露思 敦煌神女",
+        "onboard_time": 1704029763,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 827436,
+        "num": 827436,
+        "word": "上海迪士尼发文致歉",
+        "onboard_time": 1704025247,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 660349,
+        "num": 825199,
+        "word": "跨年",
+        "onboard_time": 1704024106,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561861,
+        "num": 823874,
+        "word": "2024新年贺词",
+        "onboard_time": 1704019895,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 351650,
+        "num": 821624,
+        "word": "烟花",
+        "onboard_time": 1704022117,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2861398,
+        "num": 817740,
+        "word": "王源破音",
+        "onboard_time": 1704030481,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2679473,
+        "num": 815440,
+        "word": "杨紫好瘦",
+        "onboard_time": 1704031872,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514547,
+        "num": 812247,
+        "word": "韩国地铁站竟然有宋词",
+        "onboard_time": 1704031085,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342958,
+        "num": 808718,
+        "word": "女子1张彩票中奖571次总计860万",
+        "onboard_time": 1704020796,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289951,
+        "num": 807834,
+        "word": "跨年文案",
+        "onboard_time": 1703984130,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2378392,
+        "num": 803680,
+        "word": "听出来是真唱了",
+        "onboard_time": 1704026035,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2225424,
+        "num": 801747,
+        "word": "假唱",
+        "onboard_time": 1704027053,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229878,
+        "num": 798994,
+        "word": "全球高考 全新版",
+        "onboard_time": 1704024348,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 219385,
+        "num": 797151,
+        "word": "当代年轻人的跨年现状",
+        "onboard_time": 1704029278,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175549,
+        "num": 793374,
+        "word": "苏翊鸣大方示爱朱易",
+        "onboard_time": 1704006270,
+        "rank": 19,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 2214032,
+        "num": 791500,
+        "word": "成毅从天而降",
+        "onboard_time": 1704030962,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2010536,
+        "num": 788005,
+        "word": "虞书欣跳舞没看够",
+        "onboard_time": 1704029882,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1896386,
+        "num": 784790,
+        "word": "江苏卫视跨年",
+        "onboard_time": 1704022178,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260540,
+        "num": 783819,
+        "word": "一个人跨年 仪式感",
+        "onboard_time": 1704028141,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249742,
+        "num": 780522,
+        "word": "我的2023全剧终",
+        "onboard_time": 1704030602,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1736462,
+        "num": 778378,
+        "word": "张信哲唱悬溺 痛苦面具",
+        "onboard_time": 1704030899,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1637797,
+        "num": 774575,
+        "word": "宋茜唱跳给Amber镜头",
+        "onboard_time": 1704026514,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165350,
+        "num": 773609,
+        "word": "王曼昱新头像",
+        "onboard_time": 1704025429,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114949,
+        "num": 770193,
+        "word": "郑钦文 联合杯",
+        "onboard_time": 1704030123,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83612,
+        "num": 766590,
+        "word": "祝愿大家福暖四季顺遂安康",
+        "onboard_time": 1704030186,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215722,
+        "num": 764646,
+        "word": "李国庆称与俞渝平分1.3亿",
+        "onboard_time": 1704029400,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1532784,
+        "num": 761896,
+        "word": "许嵩 可以考虑结婚",
+        "onboard_time": 1704027843,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1317509,
+        "num": 759460,
+        "word": "薛之谦笑死我了",
+        "onboard_time": 1704028500,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1295131,
+        "num": 755733,
+        "word": "被王一博大张伟的合唱戳到",
+        "onboard_time": 1704028859,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235798,
+        "num": 753972,
+        "word": "狗狗的前世可能没忘干净",
+        "onboard_time": 1704031026,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1256814,
+        "num": 752390,
+        "word": "湖南卫视 全是广告",
+        "onboard_time": 1704025852,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1218075,
+        "num": 749865,
+        "word": "魏大勋好帅",
+        "onboard_time": 1704028563,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198770,
+        "num": 746021,
+        "word": "MRC下次会更好",
+        "onboard_time": 1704031085,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196864,
+        "num": 742348,
+        "word": "Wolves晋级总决赛",
+        "onboard_time": 1704031268,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176172,
+        "num": 741207,
+        "word": "废文邀请码",
+        "onboard_time": 1704028682,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 851500,
+        "num": 737095,
+        "word": "张艺兴高烧表演状态",
+        "onboard_time": 1704031632,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736512,
+        "num": 736512,
+        "word": "鞠婧祎双马尾辣妹",
+        "onboard_time": 1704017312,
+        "rank": 41,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 722650,
+        "num": 722650,
+        "word": "白鹿ending脸颊比心",
+        "onboard_time": 1704028799,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 722387,
+        "num": 722387,
+        "word": "汪涵哭了",
+        "onboard_time": 1704028447,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697331,
+        "num": 697331,
+        "word": "周深 吟唱的神",
+        "onboard_time": 1704031811,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694810,
+        "num": 694810,
+        "word": "刘宇宁毛不易为啥唱这首歌",
+        "onboard_time": 1704025911,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163180,
+        "num": 685485,
+        "word": "40分钟无重复减肥操",
+        "onboard_time": 1704031689,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 158949,
+        "num": 681630,
+        "word": "这才是新年的意义",
+        "onboard_time": 1704031331,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111494,
+        "num": 673549,
+        "word": "延时摄影看重庆解放碑跨年现场",
+        "onboard_time": 1704031872,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92440,
+        "num": 658814,
+        "word": "情侣坠入冰窟路人源源不断赶来救人",
+        "onboard_time": 1704031872,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#二〇二四年新年贺词#"
+    }
+  }
+}

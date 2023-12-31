@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1704029638393,
+  "endTime": 1704032096537,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1667,6 +1667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 8889765,
+      "num": 8889765,
+      "word": "宋茜王鹤棣亲上了吗",
+      "onboard_time": 1704030245,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8882317,
       "num": 13595049,
       "word": "习近平当选中央军委主席",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1695821921,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7504189,
-      "num": 8211135,
-      "word": "宝格丽致歉",
-      "onboard_time": 1689076054,
-      "rank": 0,
-      "category": "社会新闻,时尚"
     }
   ],
   "hotgov_list": [

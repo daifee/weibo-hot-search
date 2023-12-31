@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1704029638393,
+  "endTime": 1704032096537,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -169,6 +169,14 @@
       "onboard_time": 1702440397,
       "rank": 0,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 8889765,
+      "num": 8889765,
+      "word": "宋茜王鹤棣亲上了吗",
+      "onboard_time": 1704030245,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 8850310,
@@ -395,6 +403,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 5445912,
+      "num": 5445912,
+      "word": "还得是林俊杰",
+      "onboard_time": 1704030186,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5425346,
       "num": 5425346,
       "word": "五月天经纪方多次挂断媒体电话",
@@ -601,6 +617,14 @@
       "onboard_time": 1702722036,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3672850,
+      "num": 3672850,
+      "word": "赵露思 敦煌神女",
+      "onboard_time": 1704029763,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 3671070,
@@ -1091,6 +1115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2861398,
+      "num": 817740,
+      "word": "王源破音",
+      "onboard_time": 1704030481,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2851231,
       "num": 2851231,
       "word": "考研英语 轻舟已撞大冰山",
@@ -1401,6 +1433,14 @@
       "onboard_time": 1702865974,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2679473,
+      "num": 815440,
+      "word": "杨紫好瘦",
+      "onboard_time": 1704031872,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 2674835,
@@ -2235,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2214032,
+      "num": 791500,
+      "word": "成毅从天而降",
+      "onboard_time": 1704030962,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2212514,
       "num": 2060939,
       "word": "周扬青家的圣诞树",
@@ -2689,6 +2737,14 @@
       "onboard_time": 1703729194,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2010536,
+      "num": 788005,
+      "word": "虞书欣跳舞没看够",
+      "onboard_time": 1704029882,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 2009480,
@@ -3649,6 +3705,14 @@
       "onboard_time": 1702714715,
       "rank": 38,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 1736462,
+      "num": 778378,
+      "word": "张信哲唱悬溺 痛苦面具",
+      "onboard_time": 1704030899,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1732098,
@@ -5372,7 +5436,7 @@
     },
     {
       "raw_hot": 1368850,
-      "num": 5348635,
+      "num": 5857032,
       "word": "央视跨年晚会",
       "onboard_time": 1704024348,
       "rank": 2,
@@ -6273,6 +6337,14 @@
       "onboard_time": 1701759398,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1218075,
+      "num": 869071,
+      "word": "魏大勋好帅",
+      "onboard_time": 1704028563,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 1217872,
@@ -8331,14 +8403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 996930,
-      "num": 869071,
-      "word": "魏大勋好帅",
-      "onboard_time": 1704028563,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 996747,
       "num": 398600,
       "word": "解清帅已开始直播带货",
@@ -10361,6 +10425,14 @@
       "onboard_time": 1703461949,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 851500,
+      "num": 737095,
+      "word": "张艺兴高烧表演状态",
+      "onboard_time": 1704031632,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 851479,
@@ -13473,6 +13545,14 @@
       "onboard_time": 1702441302,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697331,
+      "num": 697331,
+      "word": "周深 吟唱的神",
+      "onboard_time": 1704031811,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 697031,
@@ -19889,6 +19969,14 @@
       "onboard_time": 1702732179,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 514547,
+      "num": 812247,
+      "word": "韩国地铁站竟然有宋词",
+      "onboard_time": 1704031085,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 514528,
@@ -30275,6 +30363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351650,
+      "num": 893048,
+      "word": "烟花",
+      "onboard_time": 1703818053,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351632,
       "num": 351632,
       "word": "雪天护士把早产婴儿贴胸口一路护送",
@@ -39083,14 +39179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 274096,
-      "num": 893048,
-      "word": "烟花",
-      "onboard_time": 1703818053,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274091,
       "num": 274091,
       "word": "杨洋韩立造型",
@@ -42667,6 +42755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 249742,
+      "num": 780522,
+      "word": "我的2023全剧终",
+      "onboard_time": 1704030602,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249687,
       "num": 249687,
       "word": "北京地铁昌平线明起全线正常运营",
@@ -45041,6 +45137,14 @@
       "onboard_time": 1701872565,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235798,
+      "num": 753972,
+      "word": "狗狗的前世可能没忘干净",
+      "onboard_time": 1704031026,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 235763,
@@ -48529,6 +48633,14 @@
       "onboard_time": 1703675374,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219385,
+      "num": 797151,
+      "word": "当代年轻人的跨年现状",
+      "onboard_time": 1704029278,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 219384,
@@ -54467,6 +54579,14 @@
       "category": "数码,游戏"
     },
     {
+      "raw_hot": 198770,
+      "num": 746021,
+      "word": "MRC下次会更好",
+      "onboard_time": 1704031085,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198756,
       "num": 198756,
       "word": "年会不能停 社畜共情",
@@ -55001,6 +55121,14 @@
       "onboard_time": 1703863475,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196864,
+      "num": 742348,
+      "word": "Wolves晋级总决赛",
+      "onboard_time": 1704031268,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 196833,
@@ -56545,14 +56673,6 @@
       "onboard_time": 1703126193,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192667,
-      "num": 709648,
-      "word": "当代年轻人的跨年现状",
-      "onboard_time": 1704029278,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 192650,
@@ -65347,6 +65467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163180,
+      "num": 685485,
+      "word": "40分钟无重复减肥操",
+      "onboard_time": 1704031689,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 163165,
       "num": 163165,
       "word": "杀破狼2024星座年运",
@@ -66649,6 +66777,14 @@
       "onboard_time": 1703071956,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158949,
+      "num": 681630,
+      "word": "这才是新年的意义",
+      "onboard_time": 1704031331,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 158947,
@@ -77715,6 +77851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114949,
+      "num": 770193,
+      "word": "郑钦文 联合杯",
+      "onboard_time": 1704030123,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114931,
       "num": 114931,
       "word": "讨好型人格真的很累",
@@ -78304,6 +78448,14 @@
       "word": "红嘴鸥与滇池蓝同框宛如大片",
       "onboard_time": 1701607183,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111494,
+      "num": 673549,
+      "word": "延时摄影看重庆解放碑跨年现场",
+      "onboard_time": 1704031872,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -80155,6 +80307,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 92440,
+      "num": 658814,
+      "word": "情侣坠入冰窟路人源源不断赶来救人",
+      "onboard_time": 1704031872,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 92139,
       "num": 92139,
       "word": "常吃酸菜真的增加致癌风险吗",
@@ -80697,6 +80857,14 @@
       "onboard_time": 1701901396,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83612,
+      "num": 766590,
+      "word": "祝愿大家福暖四季顺遂安康",
+      "onboard_time": 1704030186,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83567,
