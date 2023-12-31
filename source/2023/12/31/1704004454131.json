@@ -1,0 +1,410 @@
+{
+  "runTime": 1704004454131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1448955,
+        "num": 1448955,
+        "word": "挖呀挖黄老师当妈妈啦",
+        "onboard_time": 1703998051,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 1376877,
+        "num": 1376877,
+        "word": "68元锅包肉巴掌大店家转888致歉",
+        "onboard_time": 1704000510,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92276,
+        "num": 819036,
+        "word": "2023手机里最舍不得删的照片",
+        "onboard_time": 1703981847,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765236,
+        "num": 765236,
+        "word": "跨年节目单",
+        "onboard_time": 1703994332,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 705053,
+        "num": 705053,
+        "word": "霉霉 中文字幕",
+        "onboard_time": 1704003030,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 654134,
+        "num": 654134,
+        "word": "勒索李善均女子正脸照曝光",
+        "onboard_time": 1704000810,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584720,
+        "num": 584720,
+        "word": "辛芷蕾 繁花拍3年长江图拍4年",
+        "onboard_time": 1704000572,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572401,
+        "num": 572401,
+        "word": "日本发现大地震海底断层悬崖",
+        "onboard_time": 1703989588,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570887,
+        "num": 570887,
+        "word": "樊振东重返微博",
+        "onboard_time": 1703997569,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378160,
+        "num": 378160,
+        "word": "讨好型市格",
+        "onboard_time": 1704001291,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 531446,
+        "num": 372246,
+        "word": "央视跨年节目单",
+        "onboard_time": 1703999671,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447490,
+        "num": 362379,
+        "word": "D社为李善均发声",
+        "onboard_time": 1704001051,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316566,
+        "num": 316566,
+        "word": "肖战工作室包场非诚勿扰3",
+        "onboard_time": 1703998110,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 301631,
+        "num": 301631,
+        "word": "姐弟坠亡案母亲希望死刑尽快执行",
+        "onboard_time": 1703986291,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298151,
+        "num": 298151,
+        "word": "咬手指 变丑",
+        "onboard_time": 1703997512,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 313977,
+        "num": 289797,
+        "word": "曾黎主持央视跨年",
+        "onboard_time": 1703992053,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280656,
+        "num": 280656,
+        "word": "小沈阳 不要带假唱节奏",
+        "onboard_time": 1703997870,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244799,
+        "num": 244799,
+        "word": "长沙多景区取消跨年烟花秀",
+        "onboard_time": 1704002791,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 222847,
+        "num": 222847,
+        "word": "原神 钟离皮肤出啊",
+        "onboard_time": 1703998531,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188618,
+        "num": 222603,
+        "word": "机场判官称在昆明机场被打",
+        "onboard_time": 1703996011,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427697,
+        "num": 219814,
+        "word": "半岁女婴哭闹不止医生从脚底取出4cm头发",
+        "onboard_time": 1703996191,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254432,
+        "num": 217659,
+        "word": "湖南卫视节目单 什么时候出",
+        "onboard_time": 1703995831,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268190,
+        "num": 215553,
+        "word": "为什么有人指甲上有月牙有人却没有",
+        "onboard_time": 1703999671,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214642,
+        "num": 214642,
+        "word": "张万森拿回了展宇偷走的那十年",
+        "onboard_time": 1704003272,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205743,
+        "num": 205743,
+        "word": "十二星座2024年运势",
+        "onboard_time": 1703997870,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188506,
+        "num": 188506,
+        "word": "胡歌唐嫣聊了半天才发现是直播",
+        "onboard_time": 1703985089,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186002,
+        "num": 186002,
+        "word": "AG投票",
+        "onboard_time": 1704002910,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25897,
+        "num": 179303,
+        "word": "蛋仔贺图画师阵容",
+        "onboard_time": 1704002193,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174236,
+        "num": 174236,
+        "word": "茅台集团年利润首破千亿元",
+        "onboard_time": 1704002071,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171813,
+        "num": 171813,
+        "word": "2024年是个什么年",
+        "onboard_time": 1704001291,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209749,
+        "num": 168012,
+        "word": "樊振东微博头像是皇马",
+        "onboard_time": 1704003930,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152700,
+        "num": 152700,
+        "word": "虞书欣湖南卫视跨年彩排路透",
+        "onboard_time": 1703998771,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149335,
+        "num": 149335,
+        "word": "睡觉频繁出现这5种表现要留意",
+        "onboard_time": 1703989891,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145493,
+        "num": 145493,
+        "word": "WBG对战NIP",
+        "onboard_time": 1704001710,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135656,
+        "num": 135656,
+        "word": "跨年文案",
+        "onboard_time": 1703984130,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128855,
+        "num": 128855,
+        "word": "袁天罡 美强惨",
+        "onboard_time": 1704000211,
+        "rank": 35,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 122019,
+        "num": 122019,
+        "word": "刘宇宁 奉上全开麦直拍",
+        "onboard_time": 1703998531,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114861,
+        "num": 114861,
+        "word": "江苏卫视跨年节目单",
+        "onboard_time": 1703990070,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110187,
+        "num": 110187,
+        "word": "陈梦 新的一年一起努力加油",
+        "onboard_time": 1704002130,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108433,
+        "num": 108433,
+        "word": "鹿晗祝哈友们2024年全方位升级",
+        "onboard_time": 1704000153,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106098,
+        "num": 106098,
+        "word": "中等生为什么成绩上不去",
+        "onboard_time": 1703990130,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105437,
+        "num": 105437,
+        "word": "灰原哀跨年",
+        "onboard_time": 1703997991,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 103262,
+        "num": 103262,
+        "word": "挖鼻孔会导致鼻孔变大吗",
+        "onboard_time": 1703984850,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98765,
+        "num": 98765,
+        "word": "2023德玛西亚杯",
+        "onboard_time": 1704002791,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96068,
+        "num": 96068,
+        "word": "一张图找准你适合养啥宠物",
+        "onboard_time": 1704002252,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95603,
+        "num": 95603,
+        "word": "易烊千玺 新的一年愿大家好运常在",
+        "onboard_time": 1703994990,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93638,
+        "num": 93638,
+        "word": "詹姆斯绝平三分踩线",
+        "onboard_time": 1703996011,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92305,
+        "num": 92305,
+        "word": "文俊辉直播",
+        "onboard_time": 1704002130,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91973,
+        "num": 91973,
+        "word": "克莱又拉了",
+        "onboard_time": 1704001890,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89504,
+        "num": 89504,
+        "word": "一闪一闪亮星星票房破4亿",
+        "onboard_time": 1703982689,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#历年新年贺词中这些话温暖人心#"
+    }
+  }
+}

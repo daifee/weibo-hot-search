@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704003674303,
+  "endTime": 1704004454131,
   "band_list": [
     {
       "raw_hot": 3417841,
@@ -51,20 +51,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1376877,
+      "num": 1376877,
+      "word": "68元锅包肉巴掌大店家转888致歉",
+      "onboard_time": 1704000510,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1275914,
       "num": 1275914,
       "word": "江苏卫视跨年节目单",
       "onboard_time": 1703990070,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1263361,
-      "num": 1263361,
-      "word": "68元锅包肉巴掌大店家转888致歉",
-      "onboard_time": 1704000510,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1105902,
@@ -131,6 +131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 705053,
+      "num": 705053,
+      "word": "霉霉 中文字幕",
+      "onboard_time": 1704003030,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 698169,
       "num": 698169,
       "word": "勒索李善均女子正脸照曝光",
@@ -177,6 +185,14 @@
       "onboard_time": 1703995831,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 584720,
+      "num": 584720,
+      "word": "辛芷蕾 繁花拍3年长江图拍4年",
+      "onboard_time": 1704000572,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 580478,
@@ -235,6 +251,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 531446,
+      "num": 395701,
+      "word": "央视跨年节目单",
+      "onboard_time": 1703999671,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 529678,
       "num": 529678,
       "word": "英国演员汤姆威尔金森去世",
@@ -267,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 498619,
-      "num": 498619,
-      "word": "辛芷蕾 繁花拍3年长江图拍4年",
-      "onboard_time": 1704000572,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 482881,
       "num": 516557,
       "word": "太原地震",
@@ -305,14 +321,6 @@
       "onboard_time": 1703982689,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 473861,
-      "num": 395701,
-      "word": "央视跨年节目单",
-      "onboard_time": 1703999671,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 470395,
@@ -387,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378160,
+      "num": 378160,
+      "word": "讨好型市格",
+      "onboard_time": 1704001291,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 371805,
       "num": 371805,
       "word": "女儿的发型被同学吐槽了",
@@ -409,22 +425,6 @@
       "onboard_time": 1703936013,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 354125,
-      "num": 303263,
-      "word": "霉霉 中文字幕",
-      "onboard_time": 1704003030,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 351641,
-      "num": 351641,
-      "word": "讨好型市格",
-      "onboard_time": 1704001291,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 348596,
@@ -571,6 +571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 268190,
+      "num": 232401,
+      "word": "为什么有人指甲上有月牙有人却没有",
+      "onboard_time": 1703999671,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 261484,
       "num": 261484,
       "word": "活塞结束28连败",
@@ -593,14 +601,6 @@
       "onboard_time": 1703970854,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258371,
-      "num": 232401,
-      "word": "为什么有人指甲上有月牙有人却没有",
-      "onboard_time": 1703999671,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 255924,
@@ -633,6 +633,14 @@
       "onboard_time": 1703977818,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244799,
+      "num": 244799,
+      "word": "长沙多景区取消跨年烟花秀",
+      "onboard_time": 1704002791,
+      "rank": 25,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 241773,
@@ -707,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214642,
+      "num": 214642,
+      "word": "张万森拿回了展宇偷走的那十年",
+      "onboard_time": 1704003272,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212125,
       "num": 212125,
       "word": "两岸群星共唱明天会更好",
@@ -721,6 +737,14 @@
       "onboard_time": 1703992951,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 209749,
+      "num": 168012,
+      "word": "樊振东微博头像是皇马",
+      "onboard_time": 1704003930,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 204935,
@@ -795,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184696,
-      "num": 184696,
-      "word": "长沙多景区取消跨年烟花秀",
-      "onboard_time": 1704002791,
-      "rank": 25,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 184304,
       "num": 184304,
       "word": "男子吐槽跨年活动现场像灵堂",
@@ -857,14 +873,6 @@
       "onboard_time": 1703952390,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166433,
-      "num": 166433,
-      "word": "张万森拿回了展宇偷走的那十年",
-      "onboard_time": 1704003272,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 165935,
@@ -1019,6 +1027,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145493,
+      "num": 145493,
+      "word": "WBG对战NIP",
+      "onboard_time": 1704001710,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144976,
       "num": 239860,
       "word": "王者荣耀跨年电话",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1703992831,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126455,
-      "num": 126455,
-      "word": "WBG对战NIP",
-      "onboard_time": 1704001710,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 126377,
@@ -1668,7 +1676,7 @@
     },
     {
       "raw_hot": 28916,
-      "num": 162018,
+      "num": 179303,
       "word": "蛋仔贺图画师阵容",
       "onboard_time": 1704002193,
       "rank": 29,
@@ -1729,6 +1737,9 @@
     },
     {
       "word": "#国家主席习近平将发表二〇二四年新年贺词#"
+    },
+    {
+      "word": "#历年新年贺词中这些话温暖人心#"
     }
   ]
 }
