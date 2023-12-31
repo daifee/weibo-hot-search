@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704058437365,
+  "endTime": 1704060958564,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -523,6 +523,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 86244,
+      "num": 86244,
+      "word": "谁是2024跨年晚会最忙艺人",
+      "onboard_time": 1704058455,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85242,
       "num": 77375,
       "word": "陶喆真的老了",
@@ -587,6 +595,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 60067,
+      "num": 42538,
+      "word": "丈夫喝酒电话不通孕妻腹痛求助110",
+      "onboard_time": 1704059234,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53567,
       "num": 65153,
       "word": "hot summer热冬",
@@ -595,7 +611,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38061,
+      "raw_hot": 48970,
       "num": 64362,
       "word": "海底捞客服回应小程序崩了",
       "onboard_time": 1704053655,

@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704058437365,
+  "endTime": 1704060958564,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -3371,6 +3371,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 86244,
+      "num": 86244,
+      "word": "谁是2024跨年晚会最忙艺人",
+      "onboard_time": 1704058455,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86235,
       "num": 86235,
       "word": "2023年最后1天",
@@ -3499,6 +3507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60067,
+      "num": 42538,
+      "word": "丈夫喝酒电话不通孕妻腹痛求助110",
+      "onboard_time": 1704059234,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58597,
       "num": 58597,
       "word": "诺丁汉森林2比1曼联",
@@ -3571,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48970,
+      "num": 64362,
+      "word": "海底捞客服回应小程序崩了",
+      "onboard_time": 1704053655,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 48179,
       "num": 47038,
       "word": "SEVENTEEN绑架情况下的正确应对",
@@ -3641,14 +3665,6 @@
       "onboard_time": 1703941294,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38061,
-      "num": 64362,
-      "word": "海底捞客服回应小程序崩了",
-      "onboard_time": 1704053655,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 37920,
