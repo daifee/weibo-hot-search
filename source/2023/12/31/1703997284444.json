@@ -1,0 +1,410 @@
+{
+  "runTime": 1703997284444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2993568,
+        "num": 2993568,
+        "word": "跨年节目单",
+        "onboard_time": 1703994332,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1108803,
+        "num": 1108803,
+        "word": "日本发现大地震海底断层悬崖",
+        "onboard_time": 1703989588,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10857,
+        "num": 894013,
+        "word": "无数个1分钟成就气象万千的中国",
+        "onboard_time": 1703941294,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784324,
+        "num": 784324,
+        "word": "曾黎主持央视跨年",
+        "onboard_time": 1703992053,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567684,
+        "num": 567684,
+        "word": "机场判官称在昆明机场被打",
+        "onboard_time": 1703996011,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524327,
+        "num": 524327,
+        "word": "湖南卫视节目单 什么时候出",
+        "onboard_time": 1703995831,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393961,
+        "num": 393961,
+        "word": "胡歌唐嫣聊了半天才发现是直播",
+        "onboard_time": 1703985089,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387778,
+        "num": 387778,
+        "word": "詹姆斯绝平三分踩线",
+        "onboard_time": 1703996011,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356822,
+        "num": 356822,
+        "word": "中等生为什么成绩上不去",
+        "onboard_time": 1703990130,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 305537,
+        "num": 305537,
+        "word": "江苏卫视跨年节目单",
+        "onboard_time": 1703990070,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455684,
+        "num": 303952,
+        "word": "姐弟坠亡案母亲希望死刑尽快执行",
+        "onboard_time": 1703986291,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290938,
+        "num": 290938,
+        "word": "为什么睡觉时会突然抖一下",
+        "onboard_time": 1703980824,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 255924,
+        "num": 255924,
+        "word": "白鹿陈立农合唱",
+        "onboard_time": 1703996249,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254960,
+        "num": 254960,
+        "word": "我已经很勇敢了 我也不遗憾",
+        "onboard_time": 1703946937,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30098,
+        "num": 244205,
+        "word": "我在蛋仔抢红包",
+        "onboard_time": 1703995231,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120324,
+        "num": 239860,
+        "word": "王者荣耀跨年电话",
+        "onboard_time": 1703996071,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237887,
+        "num": 237887,
+        "word": "Cat 冠军的家人们早上好",
+        "onboard_time": 1703996011,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237805,
+        "num": 237805,
+        "word": "浙江卫视跨年节目单",
+        "onboard_time": 1703992411,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237548,
+        "num": 237548,
+        "word": "纯爱战神汪小姐",
+        "onboard_time": 1703991332,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230009,
+        "num": 230009,
+        "word": "一闪一闪亮星星票房破4亿",
+        "onboard_time": 1703982689,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 580478,
+        "num": 229536,
+        "word": "半岁女婴哭闹不止医生从脚底取出4cm头发",
+        "onboard_time": 1703996191,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263483,
+        "num": 229492,
+        "word": "易烊千玺 新的一年愿大家好运常在",
+        "onboard_time": 1703994990,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230592,
+        "num": 228475,
+        "word": "挖鼻孔会导致鼻孔变大吗",
+        "onboard_time": 1703984850,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226876,
+        "num": 226876,
+        "word": "为什么父母吃饭越来越咸了",
+        "onboard_time": 1703991872,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218085,
+        "num": 218085,
+        "word": "红白歌会节目单",
+        "onboard_time": 1703993430,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216675,
+        "num": 216675,
+        "word": "雷鸣 下雪了",
+        "onboard_time": 1703996369,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212948,
+        "num": 212948,
+        "word": "睡觉频繁出现这5种表现要留意",
+        "onboard_time": 1703989891,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205089,
+        "num": 205089,
+        "word": "跨年文案",
+        "onboard_time": 1703984130,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158334,
+        "num": 204968,
+        "word": "中使馆回应中国留学生在美疑遭绑架",
+        "onboard_time": 1703993249,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146483,
+        "num": 204939,
+        "word": "2024年1月新规来了",
+        "onboard_time": 1703989651,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204935,
+        "num": 204935,
+        "word": "十个勤天跨年直播",
+        "onboard_time": 1703996970,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189492,
+        "num": 189492,
+        "word": "勇士三连败",
+        "onboard_time": 1703997031,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172238,
+        "num": 172238,
+        "word": "英国演员汤姆威尔金森去世",
+        "onboard_time": 1703989289,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167127,
+        "num": 167127,
+        "word": "冬天穿羽绒服就扎高马尾",
+        "onboard_time": 1703985810,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 159028,
+        "num": 159028,
+        "word": "白鹿晒18宫格",
+        "onboard_time": 1703995112,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147034,
+        "num": 147034,
+        "word": "电影一闪一闪亮星星和剧版关联",
+        "onboard_time": 1703996311,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133407,
+        "num": 133407,
+        "word": "这种咸鱼曾一次导致18人死亡",
+        "onboard_time": 1703996911,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132837,
+        "num": 132837,
+        "word": "别人睡觉跨年我是上班跨年",
+        "onboard_time": 1703993012,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 719568,
+        "num": 132245,
+        "word": "明年更多幼儿园或面临关停",
+        "onboard_time": 1703989711,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 128721,
+        "num": 128721,
+        "word": "雪乡酒店民宿价格突破想象",
+        "onboard_time": 1703988512,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 127803,
+        "num": 127803,
+        "word": "vivo印度子公司2名高管被释放",
+        "onboard_time": 1703995891,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125304,
+        "num": 125304,
+        "word": "女儿的发型被同学吐槽了",
+        "onboard_time": 1703984009,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120123,
+        "num": 120123,
+        "word": "韩家长雇私人侦探避免孩子被霸凌",
+        "onboard_time": 1703986771,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117831,
+        "num": 117831,
+        "word": "希林娜依高带司机师傅上跨年晚会",
+        "onboard_time": 1703994692,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117701,
+        "num": 117701,
+        "word": "C罗年收入超2亿欧元",
+        "onboard_time": 1703994332,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114319,
+        "num": 114319,
+        "word": "南方小土豆的倔强",
+        "onboard_time": 1703985150,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109630,
+        "num": 109630,
+        "word": "明天会更好",
+        "onboard_time": 1703993851,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104403,
+        "num": 104403,
+        "word": "广州萤火虫漫展惊现醒狮",
+        "onboard_time": 1703992951,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 100628,
+        "num": 100628,
+        "word": "2024狗屎运最旺的星座",
+        "onboard_time": 1703948135,
+        "rank": 48,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 100317,
+        "num": 100317,
+        "word": "gidle舞台侧面视角",
+        "onboard_time": 1703991929,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家主席习近平将发表二〇二四年新年贺词#"
+    }
+  }
+}

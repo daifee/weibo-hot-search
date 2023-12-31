@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1703996465562,
+  "endTime": 1703997284444,
   "band_list": [
     {
       "raw_hot": 3417841,
@@ -123,12 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580478,
+      "num": 231353,
+      "word": "半岁女婴哭闹不止医生从脚底取出4cm头发",
+      "onboard_time": 1703996191,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571288,
       "num": 571288,
       "word": "三大队 七叔去世",
       "onboard_time": 1703950292,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 567684,
+      "num": 567684,
+      "word": "机场判官称在昆明机场被打",
+      "onboard_time": 1703996011,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 566626,
@@ -164,11 +180,19 @@
     },
     {
       "raw_hot": 524656,
-      "num": 226288,
+      "num": 228475,
       "word": "挖鼻孔会导致鼻孔变大吗",
       "onboard_time": 1703984850,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 524327,
+      "num": 524327,
+      "word": "湖南卫视节目单 什么时候出",
+      "onboard_time": 1703995831,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 509952,
@@ -267,12 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392385,
-      "num": 392385,
-      "word": "机场判官称在昆明机场被打",
+      "raw_hot": 387778,
+      "num": 387778,
+      "word": "詹姆斯绝平三分踩线",
       "onboard_time": 1703996011,
-      "rank": 7,
-      "category": "社会新闻"
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 371805,
@@ -281,14 +305,6 @@
       "onboard_time": 1703984009,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 365070,
-      "num": 365070,
-      "word": "湖南卫视节目单 什么时候出",
-      "onboard_time": 1703995831,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 363798,
@@ -347,28 +363,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 325672,
-      "num": 231353,
-      "word": "半岁女婴哭闹不止医生从脚底取出4cm头发",
-      "onboard_time": 1703996191,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309105,
       "num": 309105,
       "word": "南方小土豆的倔强",
       "onboard_time": 1703985150,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 301781,
-      "num": 301781,
-      "word": "詹姆斯绝平三分踩线",
-      "onboard_time": 1703996011,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 298008,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 288442,
-      "num": 182279,
+      "num": 237887,
       "word": "Cat 冠军的家人们早上好",
       "onboard_time": 1703996011,
       "rank": 31,
@@ -467,8 +467,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255924,
+      "num": 255924,
+      "word": "白鹿陈立农合唱",
+      "onboard_time": 1703996249,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246725,
-      "num": 226769,
+      "num": 226876,
       "word": "为什么父母吃饭越来越咸了",
       "onboard_time": 1703991872,
       "rank": 22,
@@ -497,14 +505,6 @@
       "onboard_time": 1703946578,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231358,
-      "num": 231358,
-      "word": "白鹿陈立农合唱",
-      "onboard_time": 1703996249,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 229833,
@@ -547,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216675,
+      "num": 216675,
+      "word": "雷鸣 下雪了",
+      "onboard_time": 1703996369,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212125,
       "num": 212125,
       "word": "两岸群星共唱明天会更好",
@@ -563,8 +571,16 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 204935,
+      "num": 204935,
+      "word": "十个勤天跨年直播",
+      "onboard_time": 1703996970,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202992,
-      "num": 202992,
+      "num": 204968,
       "word": "中使馆回应中国留学生在美疑遭绑架",
       "onboard_time": 1703993249,
       "rank": 35,
@@ -572,11 +588,19 @@
     },
     {
       "raw_hot": 194035,
-      "num": 194035,
+      "num": 204939,
       "word": "2024年1月新规来了",
       "onboard_time": 1703989651,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 189492,
+      "num": 189492,
+      "word": "勇士三连败",
+      "onboard_time": 1703997031,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 188958,
@@ -739,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147034,
+      "num": 147034,
+      "word": "电影一闪一闪亮星星和剧版关联",
+      "onboard_time": 1703996311,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146361,
       "num": 146361,
       "word": "Fly 好兄弟给我狠狠的哭",
@@ -764,7 +796,7 @@
     },
     {
       "raw_hot": 144976,
-      "num": 228458,
+      "num": 239860,
       "word": "王者荣耀跨年电话",
       "onboard_time": 1703996071,
       "rank": 23,
@@ -835,6 +867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133407,
+      "num": 133407,
+      "word": "这种咸鱼曾一次导致18人死亡",
+      "onboard_time": 1703996911,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132572,
       "num": 132572,
       "word": "C罗年收入超2亿欧元",
@@ -897,14 +937,6 @@
       "onboard_time": 1703946336,
       "rank": 36,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 123048,
-      "num": 123048,
-      "word": "雷鸣 下雪了",
-      "onboard_time": 1703996369,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 121702,
@@ -985,14 +1017,6 @@
       "onboard_time": 1703993851,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 111687,
-      "num": 111687,
-      "word": "电影一闪一闪亮星星和剧版关联",
-      "onboard_time": 1703996311,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 109684,
@@ -1299,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30098,
+      "num": 274793,
+      "word": "我在蛋仔抢红包",
+      "onboard_time": 1703995231,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26396,
       "num": 26396,
       "word": "王家卫好会拍美女",
@@ -1321,14 +1353,6 @@
       "onboard_time": 1703961737,
       "rank": 36,
       "category": "电竞,艺人"
-    },
-    {
-      "raw_hot": 22070,
-      "num": 274793,
-      "word": "我在蛋仔抢红包",
-      "onboard_time": 1703995231,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 13929,
