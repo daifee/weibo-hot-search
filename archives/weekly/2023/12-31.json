@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704060958564,
+  "endTime": 1704062026574,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -2707,6 +2707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141966,
+      "num": 141966,
+      "word": "谁是2024跨年晚会最忙艺人",
+      "onboard_time": 1704058455,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140873,
       "num": 140873,
       "word": "繁花饭店后厨集体离职",
@@ -3363,20 +3371,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 89317,
+      "num": 42538,
+      "word": "丈夫喝酒电话不通孕妻腹痛求助110",
+      "onboard_time": 1704059234,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88815,
       "num": 468685,
       "word": "2023杀青了",
       "onboard_time": 1704008190,
       "rank": 11,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 86244,
-      "num": 86244,
-      "word": "谁是2024跨年晚会最忙艺人",
-      "onboard_time": 1704058455,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 86235,
@@ -3505,14 +3513,6 @@
       "onboard_time": 1704016236,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 60067,
-      "num": 42538,
-      "word": "丈夫喝酒电话不通孕妻腹痛求助110",
-      "onboard_time": 1704059234,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58597,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/01 06:15:58
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/01 06:33:46
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF2024%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%80%E5%BF%99%E8%89%BA%E4%BA%BA%23" target="weibo">
+谁是2024跨年晚会最忙艺人（热度：141966）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%B9%82%E4%B8%80%E8%B5%B7%E8%B7%A8%E5%B9%B4%23" target="weibo">
 猫幂一起跨年（热度：140256）
 </a>
@@ -405,8 +411,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF2024%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%80%E5%BF%99%E8%89%BA%E4%BA%BA%23" target="weibo">
-谁是2024跨年晚会最忙艺人（热度：86244）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%96%9D%E9%85%92%E7%94%B5%E8%AF%9D%E4%B8%8D%E9%80%9A%E5%AD%95%E5%A6%BB%E8%85%B9%E7%97%9B%E6%B1%82%E5%8A%A9110%23" target="weibo">
+丈夫喝酒电话不通孕妻腹痛求助110（热度：89317）
 </a>
 </li>
 
@@ -459,12 +465,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%96%9D%E9%85%92%E7%94%B5%E8%AF%9D%E4%B8%8D%E9%80%9A%E5%AD%95%E5%A6%BB%E8%85%B9%E7%97%9B%E6%B1%82%E5%8A%A9110%23" target="weibo">
-丈夫喝酒电话不通孕妻腹痛求助110（热度：60067）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23hot%20summer%E7%83%AD%E5%86%AC%23" target="weibo">
 hot summer热冬（热度：53567）
 </a>
@@ -484,7 +484,7 @@ hot summer热冬（热度：53567）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E7%9A%84%E5%89%8D%E4%B8%96%E5%8F%AF%E8%83%BD%E6%B2%A1%E5%BF%98%E5%B9%B2%E5%87%80%23" target="weibo">
-狗狗的前世可能没忘干净（热度：23291）
+狗狗的前世可能没忘干净（热度：25611）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704060958564,
+  "endTime": 1704062026574,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -467,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141966,
+      "num": 141966,
+      "word": "谁是2024跨年晚会最忙艺人",
+      "onboard_time": 1704058455,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140256,
       "num": 127942,
       "word": "猫幂一起跨年",
@@ -523,12 +531,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 86244,
-      "num": 86244,
-      "word": "谁是2024跨年晚会最忙艺人",
-      "onboard_time": 1704058455,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 89317,
+      "num": 42538,
+      "word": "丈夫喝酒电话不通孕妻腹痛求助110",
+      "onboard_time": 1704059234,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85242,
@@ -595,14 +603,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 60067,
-      "num": 42538,
-      "word": "丈夫喝酒电话不通孕妻腹痛求助110",
-      "onboard_time": 1704059234,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53567,
       "num": 65153,
       "word": "hot summer热冬",
@@ -627,7 +627,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23291,
+      "raw_hot": 25611,
       "num": 127474,
       "word": "狗狗的前世可能没忘干净",
       "onboard_time": 1704031026,
