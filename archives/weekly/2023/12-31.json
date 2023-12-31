@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704054838774,
+  "endTime": 1704057286162,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -3388,7 +3388,7 @@
     },
     {
       "raw_hot": 85242,
-      "num": 65639,
+      "num": 77375,
       "word": "陶喆真的老了",
       "onboard_time": 1704053476,
       "rank": 43,
@@ -3683,6 +3683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31617,
+      "num": 64362,
+      "word": "海底捞客服回应小程序崩了",
+      "onboard_time": 1704053655,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 30294,
       "num": 476738,
       "word": "元梦蹦迪跨年",
@@ -3697,14 +3705,6 @@
       "onboard_time": 1703995231,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 29663,
-      "num": 64362,
-      "word": "海底捞客服回应小程序崩了",
-      "onboard_time": 1704053655,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 28916,
