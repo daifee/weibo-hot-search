@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704062026574,
+  "endTime": 1704064645890,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -1507,6 +1507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 309760,
+      "num": 309760,
+      "word": "谁是2024跨年晚会最忙艺人",
+      "onboard_time": 1704058455,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309232,
       "num": 1361619,
       "word": "王曼昱新头像",
@@ -1649,6 +1657,14 @@
       "onboard_time": 1703977940,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278400,
+      "num": 278400,
+      "word": "跨年收视率",
+      "onboard_time": 1704063919,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 274541,
@@ -2411,6 +2427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 161359,
+      "num": 72019,
+      "word": "丈夫喝酒电话不通孕妻腹痛求助110",
+      "onboard_time": 1704059234,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160766,
       "num": 2603023,
       "word": "向大家致以新年的祝福",
@@ -2705,14 +2729,6 @@
       "onboard_time": 1704018573,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 141966,
-      "num": 141966,
-      "word": "谁是2024跨年晚会最忙艺人",
-      "onboard_time": 1704058455,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 140873,
@@ -3283,12 +3299,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100170,
+      "num": 62010,
+      "word": "OST届的红白喜事同框了",
+      "onboard_time": 1704063378,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100133,
       "num": 100133,
       "word": "元旦有人等你一起跨年吗",
       "onboard_time": 1704004530,
       "rank": 43,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 98925,
+      "num": 98925,
+      "word": "元旦",
+      "onboard_time": 1704064459,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97235,
@@ -3371,12 +3403,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 89317,
-      "num": 42538,
-      "word": "丈夫喝酒电话不通孕妻腹痛求助110",
-      "onboard_time": 1704059234,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 90768,
+      "num": 60069,
+      "word": "迪丽热巴新年首套高定",
+      "onboard_time": 1704064339,
+      "rank": 36,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 88815,
@@ -3409,6 +3441,14 @@
       "onboard_time": 1704053476,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84416,
+      "num": 70913,
+      "word": "罪犯子女考公限制是否应取消",
+      "onboard_time": 1704063858,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84199,
@@ -3497,6 +3537,14 @@
       "onboard_time": 1704032654,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 70780,
+      "num": 70780,
+      "word": "熬大夜后第二天睡觉能补回来吗",
+      "onboard_time": 1704063858,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 69532,
