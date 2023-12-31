@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704050033287,
+  "endTime": 1704051249590,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -3121,6 +3121,14 @@
       "onboard_time": 1704002252,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110513,
+      "num": 110513,
+      "word": "红楼梦 绝杀",
+      "onboard_time": 1704050298,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 110488,
