@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704057286162,
+  "endTime": 1704058437365,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -3643,6 +3643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38061,
+      "num": 64362,
+      "word": "海底捞客服回应小程序崩了",
+      "onboard_time": 1704053655,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 37920,
       "num": 763990,
       "word": "阿达娃被玲花追着投喂阿胶",
@@ -3681,14 +3689,6 @@
       "onboard_time": 1704007653,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 31617,
-      "num": 64362,
-      "word": "海底捞客服回应小程序崩了",
-      "onboard_time": 1704053655,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 30294,
