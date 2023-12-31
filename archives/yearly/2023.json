@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1704032096537,
+  "endTime": 1704033237249,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -2259,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7696985,
+      "num": 7696985,
+      "word": "孟子义跑调很突出",
+      "onboard_time": 1704032709,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7668874,
       "num": 7668874,
       "word": "西安震感",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1680840993,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7511705,
-      "num": 10264047,
-      "word": "中国男足晋级八强",
-      "onboard_time": 1695821921,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
