@@ -1,10 +1,10 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1703992703867,
+  "endTime": 1703993659819,
   "band_list": [
     {
-      "raw_hot": 1764005,
-      "num": 1764005,
+      "raw_hot": 1901372,
+      "num": 1901372,
       "word": "日本发现大地震海底断层悬崖",
       "onboard_time": 1703989588,
       "rank": 40,
@@ -51,6 +51,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1006107,
+      "num": 1006107,
+      "word": "曾黎主持央视跨年",
+      "onboard_time": 1703992053,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 987065,
+      "num": 408226,
+      "word": "明年更多幼儿园或面临关停",
+      "onboard_time": 1703989711,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 950641,
       "num": 692334,
       "word": "2024狗屎运最旺的星座",
@@ -65,14 +81,6 @@
       "onboard_time": 1703946695,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 826877,
-      "num": 408226,
-      "word": "明年更多幼儿园或面临关停",
-      "onboard_time": 1703989711,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 711617,
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461177,
+      "num": 461177,
+      "word": "浙江卫视跨年节目单",
+      "onboard_time": 1703992411,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448476,
       "num": 448476,
       "word": "韩家长雇私人侦探避免孩子被霸凌",
@@ -219,20 +235,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 434163,
-      "num": 434163,
-      "word": "曾黎主持央视跨年",
-      "onboard_time": 1703992053,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 421872,
       "num": 421872,
       "word": "戚薇李承铉 美女总裁与保镖",
       "onboard_time": 1703977277,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400534,
+      "num": 400534,
+      "word": "中等生为什么成绩上不去",
+      "onboard_time": 1703990130,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 393752,
@@ -299,20 +315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330599,
+      "num": 211670,
+      "word": "睡觉频繁出现这5种表现要留意",
+      "onboard_time": 1703989891,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 309105,
       "num": 309105,
       "word": "南方小土豆的倔强",
       "onboard_time": 1703985150,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 293474,
-      "num": 211462,
-      "word": "睡觉频繁出现这5种表现要留意",
-      "onboard_time": 1703989891,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 293363,
@@ -363,14 +379,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 268593,
-      "num": 268593,
-      "word": "中等生为什么成绩上不去",
-      "onboard_time": 1703990130,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 261484,
       "num": 261484,
       "word": "活塞结束28连败",
@@ -393,6 +401,14 @@
       "onboard_time": 1703970854,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246725,
+      "num": 211655,
+      "word": "为什么父母吃饭越来越咸了",
+      "onboard_time": 1703991872,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245159,
@@ -451,12 +467,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 217251,
-      "num": 195456,
-      "word": "为什么父母吃饭越来越咸了",
-      "onboard_time": 1703991872,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 220426,
+      "num": 220426,
+      "word": "一闪一闪亮星星告白曲喜欢你",
+      "onboard_time": 1703993067,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 212125,
@@ -467,20 +483,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211626,
+      "num": 211626,
+      "word": "广州萤火虫漫展惊现醒狮",
+      "onboard_time": 1703992951,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 194035,
+      "num": 194035,
+      "word": "2024年1月新规来了",
+      "onboard_time": 1703989651,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 188958,
+      "num": 188958,
+      "word": "一句话送给2024年的自己",
+      "onboard_time": 1703992651,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187817,
       "num": 187817,
       "word": "2024心愿壁纸",
       "onboard_time": 1703984730,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184719,
-      "num": 184719,
-      "word": "浙江卫视跨年节目单",
-      "onboard_time": 1703992411,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 184304,
@@ -497,14 +529,6 @@
       "onboard_time": 1703989651,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175084,
-      "num": 175084,
-      "word": "2024年1月新规来了",
-      "onboard_time": 1703989651,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 171783,
@@ -667,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136140,
+      "num": 136140,
+      "word": "红白歌会节目单",
+      "onboard_time": 1703993430,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136124,
       "num": 136124,
       "word": "gidle舞台侧面视角",
@@ -675,12 +707,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135049,
+      "num": 135049,
+      "word": "中使馆回应中国留学生在美疑遭绑架",
+      "onboard_time": 1703993249,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 135036,
       "num": 135036,
       "word": "Cat御三家冠军大满贯",
       "onboard_time": 1703951251,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130846,
+      "num": 130846,
+      "word": "别人睡觉跨年我是上班跨年",
+      "onboard_time": 1703993012,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 130136,
@@ -697,6 +745,14 @@
       "onboard_time": 1703943514,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127105,
+      "num": 127105,
+      "word": "繁花 90年代金曲57首",
+      "onboard_time": 1703992831,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 126377,
@@ -819,16 +875,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 103655,
-      "num": 103655,
-      "word": "一句话送给2024年的自己",
-      "onboard_time": 1703992651,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 103116,
-      "num": 103116,
+      "num": 106455,
       "word": "油价或迎来新年第一涨",
       "onboard_time": 1703991872,
       "rank": 46,
