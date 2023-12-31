@@ -1,7 +1,15 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1703990441021,
+  "endTime": 1703992703867,
   "band_list": [
+    {
+      "raw_hot": 1764005,
+      "num": 1764005,
+      "word": "日本发现大地震海底断层悬崖",
+      "onboard_time": 1703989588,
+      "rank": 40,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1614279,
       "num": 1614279,
@@ -17,6 +25,14 @@
       "onboard_time": 1703986291,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1275914,
+      "num": 1275914,
+      "word": "江苏卫视跨年节目单",
+      "onboard_time": 1703990070,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1105902,
@@ -49,6 +65,14 @@
       "onboard_time": 1703946695,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 826877,
+      "num": 408226,
+      "word": "明年更多幼儿园或面临关停",
+      "onboard_time": 1703989711,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 711617,
@@ -105,14 +129,6 @@
       "onboard_time": 1703943336,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 557043,
-      "num": 557043,
-      "word": "日本发现大地震海底断层悬崖",
-      "onboard_time": 1703989588,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 540150,
@@ -203,19 +219,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 434163,
+      "num": 434163,
+      "word": "曾黎主持央视跨年",
+      "onboard_time": 1703992053,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421872,
       "num": 421872,
       "word": "戚薇李承铉 美女总裁与保镖",
       "onboard_time": 1703977277,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 415628,
-      "num": 415628,
-      "word": "江苏卫视跨年节目单",
-      "onboard_time": 1703990070,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -233,6 +249,14 @@
       "onboard_time": 1703984009,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 363798,
+      "num": 363798,
+      "word": "纯爱战神汪小姐",
+      "onboard_time": 1703991332,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 356487,
@@ -283,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293474,
+      "num": 211462,
+      "word": "睡觉频繁出现这5种表现要留意",
+      "onboard_time": 1703989891,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 293363,
       "num": 210366,
       "word": "我那个说要上床学习的室友",
@@ -331,6 +363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 268593,
+      "num": 268593,
+      "word": "中等生为什么成绩上不去",
+      "onboard_time": 1703990130,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 261484,
       "num": 261484,
       "word": "活塞结束28连败",
@@ -345,14 +385,6 @@
       "onboard_time": 1703938714,
       "rank": 18,
       "category": "电影,幽默"
-    },
-    {
-      "raw_hot": 260314,
-      "num": 260314,
-      "word": "明年更多幼儿园或面临关停",
-      "onboard_time": 1703989711,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 259520,
@@ -419,12 +451,36 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 217251,
+      "num": 195456,
+      "word": "为什么父母吃饭越来越咸了",
+      "onboard_time": 1703991872,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 212125,
+      "num": 212125,
+      "word": "两岸群星共唱明天会更好",
+      "onboard_time": 1703991270,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187817,
       "num": 187817,
       "word": "2024心愿壁纸",
       "onboard_time": 1703984730,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184719,
+      "num": 184719,
+      "word": "浙江卫视跨年节目单",
+      "onboard_time": 1703992411,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 184304,
@@ -441,6 +497,14 @@
       "onboard_time": 1703989651,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175084,
+      "num": 175084,
+      "word": "2024年1月新规来了",
+      "onboard_time": 1703989651,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 171783,
@@ -467,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165466,
-      "num": 165466,
-      "word": "睡觉频繁出现这5种表现要留意",
-      "onboard_time": 1703989891,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 165355,
       "num": 165355,
       "word": "被低估了的国漫",
@@ -496,6 +552,14 @@
       "word": "朴宰范看二手玫瑰",
       "onboard_time": 1703978542,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154114,
+      "num": 154114,
+      "word": "卢昱晓跨年彩排路透",
+      "onboard_time": 1703990791,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -529,6 +593,14 @@
       "onboard_time": 1703989110,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148568,
+      "num": 154455,
+      "word": "浓眉当爹又当妈",
+      "onboard_time": 1703990969,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 146361,
@@ -571,14 +643,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 142144,
-      "num": 142144,
-      "word": "中等生为什么成绩上不去",
-      "onboard_time": 1703990130,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 140873,
       "num": 140873,
       "word": "繁花饭店后厨集体离职",
@@ -601,6 +665,14 @@
       "onboard_time": 1703986950,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136124,
+      "num": 136124,
+      "word": "gidle舞台侧面视角",
+      "onboard_time": 1703991929,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 135036,
@@ -659,14 +731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121644,
-      "num": 121644,
-      "word": "2024年1月新规来了",
-      "onboard_time": 1703989651,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 121573,
       "num": 121573,
       "word": "年会不能停",
@@ -697,6 +761,14 @@
       "onboard_time": 1703985089,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116628,
+      "num": 116628,
+      "word": "2023走在中国的大地上",
+      "onboard_time": 1703992110,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 116057,
@@ -747,6 +819,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103655,
+      "num": 103655,
+      "word": "一句话送给2024年的自己",
+      "onboard_time": 1703992651,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 103116,
+      "num": 103116,
+      "word": "油价或迎来新年第一涨",
+      "onboard_time": 1703991872,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 102718,
       "num": 381734,
       "word": "iQOO12打出来的世冠神操作",
@@ -785,6 +873,14 @@
       "onboard_time": 1703953886,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94873,
+      "num": 94873,
+      "word": "一个动作定格2023",
+      "onboard_time": 1703991929,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93032,
@@ -988,7 +1084,7 @@
     },
     {
       "raw_hot": 40309,
-      "num": 832209,
+      "num": 1037249,
       "word": "无数个1分钟成就气象万千的中国",
       "onboard_time": 1703941294,
       "rank": 2,
