@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704015246071,
+  "endTime": 1704017844155,
   "band_list": [
     {
       "raw_hot": 3417841,
@@ -41,6 +41,14 @@
       "onboard_time": 1703998051,
       "rank": 0,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 1711444,
+      "num": 1711444,
+      "word": "妈妈在洗手间 不要打扰妈妈",
+      "onboard_time": 1704014372,
+      "rank": 30,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 1614279,
@@ -179,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 746307,
+      "num": 467655,
+      "word": "关晓彤假发的毛娘",
+      "onboard_time": 1704015271,
+      "rank": 15,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 737364,
       "num": 737364,
       "word": "年会不能停 裁员广进",
@@ -315,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545443,
+      "num": 545443,
+      "word": "B站跨年晚会节目单",
+      "onboard_time": 1704014433,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540150,
       "num": 540150,
       "word": "雪乡酒店民宿价格突破想象",
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 531446,
-      "num": 403079,
+      "num": 454863,
       "word": "央视跨年节目单",
       "onboard_time": 1703999671,
       "rank": 10,
@@ -451,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444485,
-      "num": 203074,
-      "word": "妈妈在洗手间 不要打扰妈妈",
-      "onboard_time": 1704014372,
-      "rank": 30,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 442568,
       "num": 442568,
       "word": "哈尔滨冰雪大世界暂停销售今日门票",
@@ -547,20 +563,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359803,
+      "num": 359803,
+      "word": "海底捞小程序崩了",
+      "onboard_time": 1704016772,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 356487,
       "num": 356487,
       "word": "张万森你现在没有遗憾了吧",
       "onboard_time": 1703936013,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 350866,
-      "num": 350866,
-      "word": "B站跨年晚会节目单",
-      "onboard_time": 1704014433,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 348596,
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331873,
+      "num": 331873,
+      "word": "BLG对战RNG",
+      "onboard_time": 1704016891,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 330599,
       "num": 228995,
       "word": "睡觉频繁出现这5种表现要留意",
@@ -659,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318819,
+      "num": 535486,
+      "word": "中俄两国元首互致新年贺电",
+      "onboard_time": 1704015271,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 309105,
       "num": 309105,
       "word": "南方小土豆的倔强",
@@ -673,6 +705,14 @@
       "onboard_time": 1704003930,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298316,
+      "num": 298316,
+      "word": "新年新发型",
+      "onboard_time": 1704015691,
+      "rank": 26,
+      "category": "美妆"
     },
     {
       "raw_hot": 298008,
@@ -731,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278578,
+      "num": 278578,
+      "word": "明星cos",
+      "onboard_time": 1704015753,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 274541,
       "num": 274541,
       "word": "红白歌会节目单",
@@ -771,12 +819,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264245,
+      "num": 1457820,
+      "word": "哈尔滨冰雪大世界万人蹦迪",
+      "onboard_time": 1704013052,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 261484,
       "num": 261484,
       "word": "活塞结束28连败",
       "onboard_time": 1703987431,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261261,
+      "num": 261261,
+      "word": "霉霉大电影诞生的原因",
+      "onboard_time": 1704016835,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 260384,
@@ -859,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228907,
-      "num": 228907,
-      "word": "哈尔滨冰雪大世界万人蹦迪",
-      "onboard_time": 1704013052,
-      "rank": 28,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 228872,
       "num": 228872,
       "word": "虞书欣湖南卫视跨年彩排路透",
@@ -915,6 +971,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 217614,
+      "num": 217614,
+      "word": "鞠婧祎双马尾辣妹",
+      "onboard_time": 1704017312,
+      "rank": 36,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 216675,
       "num": 216675,
       "word": "雷鸣 下雪了",
@@ -948,7 +1012,7 @@
     },
     {
       "raw_hot": 212125,
-      "num": 981638,
+      "num": 1277517,
       "word": "两岸群星共唱明天会更好",
       "onboard_time": 1703991270,
       "rank": 19,
@@ -995,6 +1059,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 200863,
+      "num": 200863,
+      "word": "你长这么慢 我很难看到你长大",
+      "onboard_time": 1704017673,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200449,
       "num": 200449,
       "word": "泰勒大电影",
@@ -1017,6 +1089,14 @@
       "onboard_time": 1704013353,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198731,
+      "num": 198731,
+      "word": "北京卫视跨年节目单",
+      "onboard_time": 1704016052,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 198643,
@@ -1211,6 +1291,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 165595,
+      "num": 165595,
+      "word": "段永平向浙大再捐10亿多",
+      "onboard_time": 1704017493,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 165355,
       "num": 165355,
       "word": "被低估了的国漫",
@@ -1267,12 +1355,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158088,
+      "num": 158088,
+      "word": "王心凌 粉色全糖跨年妆",
+      "onboard_time": 1704015812,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157775,
       "num": 157775,
       "word": "希林娜依高带司机师傅上跨年晚会",
       "onboard_time": 1703994692,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157198,
+      "num": 157198,
+      "word": "东玄深渊见",
+      "onboard_time": 1704017732,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 157185,
@@ -1347,6 +1451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 151994,
+      "num": 151994,
+      "word": "老太买房记孙子名下后发现孙子非亲生",
+      "onboard_time": 1704017732,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150360,
       "num": 150360,
       "word": "内娱妈生音综",
@@ -1363,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147425,
+      "num": 147425,
+      "word": "穿戴甲推荐",
+      "onboard_time": 1704015993,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 147034,
       "num": 147034,
       "word": "电影一闪一闪亮星星和剧版关联",
@@ -1377,6 +1497,14 @@
       "onboard_time": 1703946216,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146310,
+      "num": 146310,
+      "word": "张小斐跨年彩排",
+      "onboard_time": 1704017194,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 145976,
@@ -1619,6 +1747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125616,
+      "num": 331908,
+      "word": "乡村教师靠一条腿撑起2000多个孩子求学路",
+      "onboard_time": 1704017673,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125306,
       "num": 125306,
       "word": "藏海传以男主复仇为主线",
@@ -1691,6 +1827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120410,
+      "num": 278726,
+      "word": "盘点2023",
+      "onboard_time": 1704016652,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119496,
       "num": 119496,
       "word": "瓶子解说",
@@ -1761,6 +1905,14 @@
       "onboard_time": 1704006151,
       "rank": 44,
       "category": "综艺,美妆"
+    },
+    {
+      "raw_hot": 112223,
+      "num": 359890,
+      "word": "24年的第一场烟花",
+      "onboard_time": 1704015932,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 112040,
@@ -1971,6 +2123,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 86669,
+      "num": 713435,
+      "word": "地铁暖心祝福大家新年一往无前",
+      "onboard_time": 1704016236,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 86235,
       "num": 86235,
       "word": "2023年最后1天",
@@ -2041,6 +2201,14 @@
       "onboard_time": 1703978360,
       "rank": 30,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 67564,
+      "num": 332988,
+      "word": "火箭军成立8周年",
+      "onboard_time": 1704016236,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58597,
@@ -2225,6 +2393,14 @@
       "onboard_time": 1703961737,
       "rank": 36,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 23111,
+      "num": 469734,
+      "word": "元梦蹦迪跨年",
+      "onboard_time": 1704016835,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 22862,
