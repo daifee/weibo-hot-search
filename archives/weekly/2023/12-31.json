@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704000868867,
+  "endTime": 1704003674303,
   "band_list": [
     {
       "raw_hot": 3417841,
@@ -57,6 +57,14 @@
       "onboard_time": 1703990070,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1263361,
+      "num": 1263361,
+      "word": "68元锅包肉巴掌大店家转888致歉",
+      "onboard_time": 1704000510,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1105902,
@@ -121,6 +129,14 @@
       "onboard_time": 1703941776,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 698169,
+      "num": 698169,
+      "word": "勒索李善均女子正脸照曝光",
+      "onboard_time": 1704000810,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 693378,
@@ -243,6 +259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506466,
+      "num": 506466,
+      "word": "D社为李善均发声",
+      "onboard_time": 1704001051,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 498619,
+      "num": 498619,
+      "word": "辛芷蕾 繁花拍3年长江图拍4年",
+      "onboard_time": 1704000572,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 482881,
       "num": 516557,
       "word": "太原地震",
@@ -273,6 +305,14 @@
       "onboard_time": 1703982689,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 473861,
+      "num": 395701,
+      "word": "央视跨年节目单",
+      "onboard_time": 1703999671,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 470395,
@@ -369,6 +409,22 @@
       "onboard_time": 1703936013,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 354125,
+      "num": 303263,
+      "word": "霉霉 中文字幕",
+      "onboard_time": 1704003030,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 351641,
+      "num": 351641,
+      "word": "讨好型市格",
+      "onboard_time": 1704001291,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 348596,
@@ -539,20 +595,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258371,
+      "num": 232401,
+      "word": "为什么有人指甲上有月牙有人却没有",
+      "onboard_time": 1703999671,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 255924,
       "num": 255924,
       "word": "白鹿陈立农合唱",
       "onboard_time": 1703996249,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251548,
-      "num": 232401,
-      "word": "为什么有人指甲上有月牙有人却没有",
-      "onboard_time": 1703999671,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 246725,
@@ -683,6 +739,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 202187,
+      "num": 202187,
+      "word": "2024年是个什么年",
+      "onboard_time": 1704001291,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198059,
+      "num": 198059,
+      "word": "AG投票",
+      "onboard_time": 1704002910,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194035,
       "num": 204939,
       "word": "2024年1月新规来了",
@@ -723,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184696,
+      "num": 184696,
+      "word": "长沙多景区取消跨年烟花秀",
+      "onboard_time": 1704002791,
+      "rank": 25,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 184304,
       "num": 184304,
       "word": "男子吐槽跨年活动现场像灵堂",
@@ -731,12 +811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183718,
-      "num": 183718,
-      "word": "68元锅包肉巴掌大店家转888致歉",
-      "onboard_time": 1704000510,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 178716,
+      "num": 178716,
+      "word": "茅台集团年利润首破千亿元",
+      "onboard_time": 1704002071,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 175697,
@@ -779,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166433,
+      "num": 166433,
+      "word": "张万森拿回了展宇偷走的那十年",
+      "onboard_time": 1704003272,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165935,
       "num": 165935,
       "word": "灰原哀跨年",
@@ -801,14 +889,6 @@
       "onboard_time": 1703979082,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163249,
-      "num": 163249,
-      "word": "辛芷蕾 繁花拍3年长江图拍4年",
-      "onboard_time": 1704000572,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 160284,
@@ -1027,6 +1107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133208,
+      "num": 133208,
+      "word": "陈梦 新的一年一起努力加油",
+      "onboard_time": 1704002130,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132572,
       "num": 132572,
       "word": "C罗年收入超2亿欧元",
@@ -1075,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126455,
+      "num": 126455,
+      "word": "WBG对战NIP",
+      "onboard_time": 1704001710,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126377,
       "num": 126377,
       "word": "钟意镜杀疯了",
@@ -1097,6 +1193,14 @@
       "onboard_time": 1703998834,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 124175,
+      "num": 124175,
+      "word": "文俊辉直播",
+      "onboard_time": 1704002130,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 124155,
@@ -1195,14 +1299,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 113051,
-      "num": 113051,
-      "word": "勒索李善均女子正脸照曝光",
-      "onboard_time": 1704000810,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112040,
       "num": 112040,
       "word": "吉克隽逸丁真一个过夏天一个过冬天",
@@ -1211,12 +1307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111143,
+      "num": 111143,
+      "word": "一张图找准你适合养啥宠物",
+      "onboard_time": 1704002252,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109684,
       "num": 109684,
       "word": "钢腿女孩拒绝内耗不想被定义",
       "onboard_time": 1703994210,
       "rank": 48,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 109212,
+      "num": 109212,
+      "word": "2023德玛西亚杯",
+      "onboard_time": 1704002791,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 108072,
@@ -1243,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104593,
+      "num": 1528946,
+      "word": "2023手机里最舍不得删的照片",
+      "onboard_time": 1703981847,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104042,
       "num": 104042,
       "word": "年会不能停豆瓣开分8.0",
@@ -1265,6 +1385,14 @@
       "onboard_time": 1703940934,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101839,
+      "num": 101839,
+      "word": "克莱又拉了",
+      "onboard_time": 1704001890,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 101244,
@@ -1403,14 +1531,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 73766,
-      "num": 1528946,
-      "word": "2023手机里最舍不得删的照片",
-      "onboard_time": 1703981847,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69532,
       "num": 65058,
       "word": "哈尔滨冰雪大世界跨年夜将延时闭园",
@@ -1544,6 +1664,14 @@
       "word": "我在蛋仔抢红包",
       "onboard_time": 1703995231,
       "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 28916,
+      "num": 162018,
+      "word": "蛋仔贺图画师阵容",
+      "onboard_time": 1704002193,
+      "rank": 29,
       "category": "游戏"
     },
     {
