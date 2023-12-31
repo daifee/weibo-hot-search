@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704053861181,
+  "endTime": 1704054838774,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -3387,6 +3387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85242,
+      "num": 65639,
+      "word": "陶喆真的老了",
+      "onboard_time": 1704053476,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84199,
       "num": 84199,
       "word": "卡琳娜更新动态",
@@ -3459,6 +3467,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 74103,
+      "num": 65868,
+      "word": "熬夜一次多久能恢复",
+      "onboard_time": 1704052038,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73510,
       "num": 802174,
       "word": "患儿妈妈拾还7000元现金后续超暖心",
@@ -3481,22 +3497,6 @@
       "onboard_time": 1704016236,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 65868,
-      "num": 65868,
-      "word": "熬夜一次多久能恢复",
-      "onboard_time": 1704052038,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 65639,
-      "num": 65639,
-      "word": "陶喆真的老了",
-      "onboard_time": 1704053476,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 58597,
@@ -3699,6 +3699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 29663,
+      "num": 64362,
+      "word": "海底捞客服回应小程序崩了",
+      "onboard_time": 1704053655,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 28916,
       "num": 179303,
       "word": "蛋仔贺图画师阵容",
@@ -3745,14 +3753,6 @@
       "onboard_time": 1704027654,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17906,
-      "num": 64362,
-      "word": "海底捞客服回应小程序崩了",
-      "onboard_time": 1704053655,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 13929,
