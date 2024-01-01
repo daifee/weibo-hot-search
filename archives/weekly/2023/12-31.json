@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704143721196,
+  "endTime": 1704144846377,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -5907,6 +5907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25892,
+      "num": 25892,
+      "word": "压力过大衰老速度比常人快6倍",
+      "onboard_time": 1704141734,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25338,
       "num": 25338,
       "word": "cos的风还是吹到了霉霉大电影",
@@ -5969,14 +5977,6 @@
       "onboard_time": 1704134418,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18526,
-      "num": 18526,
-      "word": "压力过大衰老速度比常人快6倍",
-      "onboard_time": 1704141734,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16711,
