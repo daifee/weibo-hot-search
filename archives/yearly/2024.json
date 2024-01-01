@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704147418985,
+  "endTime": 1704148429521,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -907,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 476694,
+      "num": 476694,
+      "word": "今天凌晨太阳爆发一个强耀斑",
+      "onboard_time": 1704136395,
+      "rank": 49,
+      "category": "自然"
+    },
+    {
       "raw_hot": 475570,
       "num": 456980,
       "word": "鹿晗空降发歌",
@@ -1137,14 +1145,6 @@
       "onboard_time": 1704074794,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347498,
-      "num": 347498,
-      "word": "今天凌晨太阳爆发一个强耀斑",
-      "onboard_time": 1704136395,
-      "rank": 49,
-      "category": "自然"
     },
     {
       "raw_hot": 343204,

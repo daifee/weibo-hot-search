@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/02 06:16:58
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/02 06:33:49
 </p>
 </blockquote>
 <p>
@@ -693,6 +693,12 @@ JDG战胜TES（热度：502747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91%23" target="weibo">
+今天凌晨太阳爆发一个强耀斑（热度：476694）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%A9%BA%E9%99%8D%E5%8F%91%E6%AD%8C%23" target="weibo">
 鹿晗空降发歌（热度：475570）
 </a>
@@ -863,12 +869,6 @@ JDG战胜TES（热度：502747）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B64.9%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%9A%82%E6%9C%AA%E6%9C%89%E4%BC%A4%E4%BA%A1%E6%8A%A5%E5%91%8A%23" target="weibo">
 白银4.9级地震暂未有伤亡报告（热度：350487）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91%23" target="weibo">
-今天凌晨太阳爆发一个强耀斑（热度：347498）
 </a>
 </li>
 
