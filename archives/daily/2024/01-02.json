@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704129336009,
+  "endTime": 1704130462975,
   "band_list": [
     {
       "raw_hot": 1154352,
@@ -403,20 +403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62092,
+      "num": 65896,
+      "word": "容祖儿想认宋亚轩当干儿子",
+      "onboard_time": 1704128424,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61854,
       "num": 86580,
       "word": "日本强震引发5米海啸",
       "onboard_time": 1704095075,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55097,
-      "num": 65896,
-      "word": "容祖儿想认宋亚轩当干儿子",
-      "onboard_time": 1704128424,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 45601,
@@ -430,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#2024新年贺词#"
+    },
+    {
+      "word": "#足迹2023#"
     }
   ]
 }

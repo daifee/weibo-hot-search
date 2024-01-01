@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704129336009,
+  "endTime": 1704130462975,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -5555,6 +5555,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 62092,
+      "num": 65896,
+      "word": "容祖儿想认宋亚轩当干儿子",
+      "onboard_time": 1704128424,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58597,
       "num": 58597,
       "word": "诺丁汉森林2比1曼联",
@@ -5585,14 +5593,6 @@
       "onboard_time": 1703941535,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55097,
-      "num": 65896,
-      "word": "容祖儿想认宋亚轩当干儿子",
-      "onboard_time": 1704128424,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 55074,

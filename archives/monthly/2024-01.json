@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704129336009,
+  "endTime": 1704130462975,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2659,20 +2659,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 62092,
+      "num": 65896,
+      "word": "容祖儿想认宋亚轩当干儿子",
+      "onboard_time": 1704128424,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61426,
       "num": 214126,
       "word": "苏翊鸣大方示爱朱易",
       "onboard_time": 1704006270,
       "rank": 46,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 55097,
-      "num": 65896,
-      "word": "容祖儿想认宋亚轩当干儿子",
-      "onboard_time": 1704128424,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 55074,
