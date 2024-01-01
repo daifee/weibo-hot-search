@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704122259348,
+  "endTime": 1704123258754,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -219,8 +219,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2486991,
-      "num": 269900,
+      "raw_hot": 2491617,
+      "num": 406295,
       "word": "日本气象厅修正地震震度",
       "onboard_time": 1704119801,
       "rank": 10,
@@ -489,6 +489,14 @@
       "onboard_time": 1703986291,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1427162,
+      "num": 1427162,
+      "word": "iPhone为什么只有P大写",
+      "onboard_time": 1704121303,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 1420447,
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 934352,
-      "num": 264646,
+      "num": 390929,
       "word": "日本地震已经造成至少2人受伤",
       "onboard_time": 1704119563,
       "rank": 34,
@@ -988,7 +996,7 @@
     },
     {
       "raw_hot": 830891,
-      "num": 284179,
+      "num": 377130,
       "word": "日本两小时内发生了40多次地震",
       "onboard_time": 1704118902,
       "rank": 19,
@@ -1267,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 665970,
-      "num": 267846,
-      "word": "iPhone为什么只有P大写",
-      "onboard_time": 1704121303,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 661748,
       "num": 661748,
       "word": "北京什刹海有小孩落水众人接力救援",
@@ -1331,12 +1331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632257,
+      "num": 632257,
+      "word": "胡歌 第一个吻戏是咸的",
+      "onboard_time": 1704121060,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 630748,
       "num": 630748,
       "word": "年会不能停 梗过于密集",
       "onboard_time": 1704116922,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 625694,
+      "num": 550912,
+      "word": "从此排骨是排骨 年糕是年糕",
+      "onboard_time": 1704121419,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 618141,
@@ -1675,14 +1691,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 493975,
-      "num": 385453,
-      "word": "胡歌 第一个吻戏是咸的",
-      "onboard_time": 1704121060,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 491409,
       "num": 491409,
       "word": "新年壁纸",
@@ -1995,6 +2003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394577,
+      "num": 394577,
+      "word": "2024朋友圈背景图",
+      "onboard_time": 1704121419,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394390,
       "num": 394390,
       "word": "周深孟子义又唠上了",
@@ -2024,6 +2040,14 @@
       "word": "丈夫喝酒电话不通孕妻腹痛求助110",
       "onboard_time": 1704059234,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379247,
+      "num": 379247,
+      "word": "男子2000买金包银首饰典当5.3万",
+      "onboard_time": 1704121602,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -2196,7 +2220,7 @@
     },
     {
       "raw_hot": 335973,
-      "num": 258131,
+      "num": 263532,
       "word": "繁花 排骨年糕",
       "onboard_time": 1704120043,
       "rank": 17,
@@ -2315,14 +2339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 309051,
-      "num": 252795,
-      "word": "从此排骨是排骨 年糕是年糕",
-      "onboard_time": 1704121419,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 308491,
       "num": 241420,
       "word": "屋顶着火直拍",
@@ -2345,6 +2361,14 @@
       "onboard_time": 1704076475,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305623,
+      "num": 305623,
+      "word": "国足vs中国香港",
+      "onboard_time": 1704122139,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 302169,
@@ -2745,14 +2769,6 @@
       "onboard_time": 1704089852,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 247017,
-      "num": 247017,
-      "word": "2024朋友圈背景图",
-      "onboard_time": 1704121419,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246725,
@@ -3227,6 +3243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201581,
+      "num": 201581,
+      "word": "檀健次秦霄贤吴泽林 真的惊到我了",
+      "onboard_time": 1704122319,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200912,
       "num": 200912,
       "word": "新年美甲",
@@ -3297,14 +3321,6 @@
       "onboard_time": 1704016052,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198659,
-      "num": 198659,
-      "word": "男子2000买金包银首饰典当5.3万",
-      "onboard_time": 1704121602,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198643,
@@ -4307,6 +4323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141748,
+      "num": 141748,
+      "word": "惊恐的雪琴和淡定的耀庆",
+      "onboard_time": 1704122857,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141256,
       "num": 311822,
       "word": "2024有个神奇的数字24",
@@ -4505,14 +4529,6 @@
       "onboard_time": 1703987669,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129277,
-      "num": 129277,
-      "word": "国足vs中国香港",
-      "onboard_time": 1704122139,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 129126,
@@ -5379,6 +5395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77746,
+      "num": 384842,
+      "word": "小鹏X9上市35.98万起",
+      "onboard_time": 1704116862,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 77656,
       "num": 694526,
       "word": "长沙地铁暖心广播太戳了",
@@ -5401,14 +5425,6 @@
       "onboard_time": 1704071912,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 75748,
-      "num": 287063,
-      "word": "小鹏X9上市35.98万起",
-      "onboard_time": 1704116862,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 74103,
