@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704140277688,
+  "endTime": 1704141261585,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1531,6 +1531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223635,
+      "num": 223635,
+      "word": "今天凌晨太阳爆发一个强耀斑",
+      "onboard_time": 1704136395,
+      "rank": 49,
+      "category": "自然"
+    },
+    {
       "raw_hot": 221753,
       "num": 805466,
       "word": "跨年图片",
@@ -1601,14 +1609,6 @@
       "onboard_time": 1704078876,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208768,
-      "num": 208768,
-      "word": "今天凌晨太阳爆发一个强耀斑",
-      "onboard_time": 1704136395,
-      "rank": 49,
-      "category": "自然"
     },
     {
       "raw_hot": 208501,

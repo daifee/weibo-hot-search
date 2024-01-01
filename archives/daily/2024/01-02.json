@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704140277688,
+  "endTime": 1704141261585,
   "band_list": [
     {
       "raw_hot": 1154352,
@@ -139,20 +139,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223635,
+      "num": 223635,
+      "word": "今天凌晨太阳爆发一个强耀斑",
+      "onboard_time": 1704136395,
+      "rank": 49,
+      "category": "自然"
+    },
+    {
       "raw_hot": 221658,
       "num": 221658,
       "word": "年会不能停 梗过于密集",
       "onboard_time": 1704116922,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 208768,
-      "num": 208768,
-      "word": "今天凌晨太阳爆发一个强耀斑",
-      "onboard_time": 1704136395,
-      "rank": 49,
-      "category": "自然"
     },
     {
       "raw_hot": 181253,
