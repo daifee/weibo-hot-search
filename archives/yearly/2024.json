@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704113260305,
+  "endTime": 1704115219779,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -65,6 +65,14 @@
       "onboard_time": 1704109476,
       "rank": 0,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 1985499,
+      "num": 1985499,
+      "word": "一个月不换的床单有多脏",
+      "onboard_time": 1704100598,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1880895,
@@ -363,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 931028,
-      "num": 605550,
-      "word": "一个月不换的床单有多脏",
-      "onboard_time": 1704100598,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 922842,
       "num": 419530,
       "word": "为裁员西安某公司从CBD搬进秦岭山区",
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 625586,
+      "num": 322337,
+      "word": "日本连续地震前乌鸦满天飞",
+      "onboard_time": 1704112840,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 613725,
       "num": 613725,
       "word": "白鹿范丞丞牵手合唱",
@@ -785,6 +793,14 @@
       "onboard_time": 1704094296,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 482074,
+      "num": 482074,
+      "word": "JDG战胜TES",
+      "onboard_time": 1704114821,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 478403,
@@ -1067,6 +1083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 310002,
+      "num": 310002,
+      "word": "JDG对战TES",
+      "onboard_time": 1704101259,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 308491,
       "num": 241420,
       "word": "屋顶着火直拍",
@@ -1211,20 +1235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261827,
+      "num": 261827,
+      "word": "刘德华陪孩子写作业也会鸡飞狗跳",
+      "onboard_time": 1704107738,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 261792,
       "num": 162544,
       "word": "运镜跟不上黄明昊",
       "onboard_time": 1704074675,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260746,
-      "num": 260746,
-      "word": "日本连续地震前乌鸦满天飞",
-      "onboard_time": 1704112840,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251515,
@@ -1241,14 +1265,6 @@
       "onboard_time": 1704089852,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 246289,
-      "num": 246289,
-      "word": "刘德华陪孩子写作业也会鸡飞狗跳",
-      "onboard_time": 1704107738,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 244848,
@@ -1323,14 +1339,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 228281,
-      "num": 228281,
-      "word": "JDG对战TES",
-      "onboard_time": 1704101259,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 228236,
       "num": 228236,
       "word": "花少5冰岛站超长加期",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1704104377,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224231,
+      "num": 224231,
+      "word": "JDG对战TES战歌起",
+      "onboard_time": 1704114639,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 221753,
@@ -1459,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203751,
+      "num": 203751,
+      "word": "总台大湾区新年音乐会",
+      "onboard_time": 1704112540,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202407,
       "num": 202407,
       "word": "kms线下签售",
@@ -1497,14 +1521,6 @@
       "onboard_time": 1704080316,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195187,
-      "num": 195187,
-      "word": "总台大湾区新年音乐会",
-      "onboard_time": 1704112540,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 193390,
@@ -1553,6 +1569,14 @@
       "onboard_time": 1704078455,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188808,
+      "num": 188808,
+      "word": "繁花",
+      "onboard_time": 1704113680,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 188767,
@@ -1609,6 +1633,14 @@
       "onboard_time": 1704089312,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174400,
+      "num": 174400,
+      "word": "RW FLY",
+      "onboard_time": 1704113018,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 174047,
@@ -1683,6 +1715,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 162068,
+      "num": 162068,
+      "word": "石宇奇 不介意我复制粘贴下吧",
+      "onboard_time": 1704113018,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161237,
       "num": 161237,
       "word": "繁花排播好浪漫",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1704113138,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160315,
+      "num": 160315,
+      "word": "张靓颖没有汇率的E6",
+      "onboard_time": 1704114639,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 159349,
@@ -1731,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158145,
+      "num": 158145,
+      "word": "这朵花竟然是废弃窗帘布做出来的",
+      "onboard_time": 1704111878,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156394,
       "num": 560581,
       "word": "四川自贡发生3.2级地震",
@@ -1753,6 +1809,14 @@
       "onboard_time": 1704096219,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150615,
+      "num": 150615,
+      "word": "年会不能停 超出预期",
+      "onboard_time": 1704113440,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 150223,
@@ -1891,14 +1955,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 134508,
-      "num": 134508,
-      "word": "RW FLY",
-      "onboard_time": 1704113018,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 132885,
       "num": 132885,
       "word": "沈阳数百人齐跳科目三打破世界纪录",
@@ -1913,14 +1969,6 @@
       "onboard_time": 1704099937,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131600,
-      "num": 131600,
-      "word": "石宇奇 不介意我复制粘贴下吧",
-      "onboard_time": 1704113018,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 129126,
@@ -1955,6 +2003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126178,
+      "num": 126178,
+      "word": "WTT男子总决赛抽签结果",
+      "onboard_time": 1704114279,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125455,
       "num": 125455,
       "word": "新年第一天就被狗狗整笑了",
@@ -1979,12 +2035,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 120616,
-      "num": 120616,
-      "word": "这朵花竟然是废弃窗帘布做出来的",
-      "onboard_time": 1704111878,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 120508,
+      "num": 120508,
+      "word": "叱咤乐坛流行榜颁奖典礼",
+      "onboard_time": 1704114759,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 120490,
@@ -1993,6 +2049,14 @@
       "onboard_time": 1704092970,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119897,
+      "num": 119897,
+      "word": "九岁女孩放学后在校门口练拳热身",
+      "onboard_time": 1704114580,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116582,
@@ -2337,70 +2401,6 @@
       "onboard_time": 1704031026,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46257,
-      "num": 250731,
-      "word": "周深千灯之约舞台",
-      "onboard_time": 1704079777,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 39102,
-      "num": 252777,
-      "word": "羡慕带S23看跨年晚会的人",
-      "onboard_time": 1704079836,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 37920,
-      "num": 763990,
-      "word": "阿达娃被玲花追着投喂阿胶",
-      "onboard_time": 1704038452,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 32498,
-      "num": 522235,
-      "word": "和平精英女郎挑衅威震天",
-      "onboard_time": 1704097363,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 32434,
-      "num": 226277,
-      "word": "2024年的第一台新车",
-      "onboard_time": 1704095315,
-      "rank": 20,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 31866,
-      "num": 419058,
-      "word": "浮生忆玲珑预捏脸",
-      "onboard_time": 1704081632,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 30375,
-      "num": 237105,
-      "word": "谢谢元梦帮我圆梦",
-      "onboard_time": 1704107919,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 27314,
-      "num": 1163854,
-      "word": "一句话送给2024年的自己",
-      "onboard_time": 1703992651,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
