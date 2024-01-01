@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704134100332,
+  "endTime": 1704136473823,
   "band_list": [
     {
       "raw_hot": 1154352,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58568,
+      "num": 58568,
+      "word": "垃圾line永存",
+      "onboard_time": 1704133757,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 45601,
       "num": 737794,
       "word": "元旦起这些新规施行",
@@ -443,12 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23534,
-      "num": 23534,
-      "word": "垃圾line永存",
-      "onboard_time": 1704133757,
-      "rank": 36,
-      "category": "音乐"
+      "raw_hot": 25338,
+      "num": 25338,
+      "word": "cos的风还是吹到了霉霉大电影",
+      "onboard_time": 1704133997,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 21763,
@@ -459,12 +467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19008,
-      "num": 19672,
-      "word": "cos的风还是吹到了霉霉大电影",
-      "onboard_time": 1704133997,
+      "raw_hot": 19028,
+      "num": 19028,
+      "word": "北京卫视 摇滚大乱炖",
+      "onboard_time": 1704134418,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13391,
+      "num": 18988,
+      "word": "今天凌晨太阳爆发一个强耀斑",
+      "onboard_time": 1704136395,
       "rank": 49,
-      "category": "电影"
+      "category": "自然"
     }
   ],
   "hotgov_list": [
