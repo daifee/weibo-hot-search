@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704073447871,
+  "endTime": 1704076505481,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1872991,
+      "num": 1872991,
+      "word": "愿逆风如解意 税后十个亿",
+      "onboard_time": 1704070354,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1872018,
       "num": 1872018,
       "word": "王一博 所有人都是可爱的旁观者",
@@ -89,14 +97,6 @@
       "onboard_time": 1704027053,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1632927,
-      "num": 1632927,
-      "word": "愿逆风如解意 税后十个亿",
-      "onboard_time": 1704070354,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1616914,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 998672,
+      "num": 189772,
+      "word": "D社 该上班了",
+      "onboard_time": 1704074136,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 971992,
       "num": 971992,
       "word": "跨年收视率",
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 806211,
+      "num": 806211,
+      "word": "谁是2024跨年晚会最忙艺人",
+      "onboard_time": 1704058455,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 805080,
       "num": 802669,
       "word": "许嵩 可以考虑结婚",
@@ -267,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 772503,
-      "num": 772503,
-      "word": "谁是2024跨年晚会最忙艺人",
-      "onboard_time": 1704058455,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 769858,
       "num": 724253,
       "word": "李宇春压轴",
@@ -288,6 +296,14 @@
       "word": "孟子义开口吓死我了",
       "onboard_time": 1704034090,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 732049,
+      "num": 489539,
+      "word": "希林娜依高戒指丢了",
+      "onboard_time": 1704071672,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -339,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 575925,
+      "num": 575925,
+      "word": "2024年确定为中朝友好年",
+      "onboard_time": 1704075636,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 566732,
       "num": 852570,
       "word": "跨年朋友圈",
@@ -355,7 +379,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 524689,
+      "raw_hot": 534964,
       "num": 524689,
       "word": "迪丽热巴新年首套高定",
       "onboard_time": 1704064339,
@@ -363,8 +387,16 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 530870,
+      "num": 678138,
+      "word": "两个小朋友你们被警方点名表扬了",
+      "onboard_time": 1704037734,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 502642,
-      "num": 243218,
+      "num": 472330,
       "word": "罪犯子女考公限制是否应取消",
       "onboard_time": 1704063858,
       "rank": 23,
@@ -379,28 +411,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 489539,
-      "num": 489539,
-      "word": "希林娜依高戒指丢了",
-      "onboard_time": 1704071672,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 478403,
+      "num": 311782,
+      "word": "张凌赫 语音回复",
+      "onboard_time": 1704074016,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 478073,
-      "num": 243094,
+      "num": 301714,
       "word": "父亲说没钱没人脉的送礼方法",
       "onboard_time": 1704069872,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 449406,
-      "num": 678138,
-      "word": "两个小朋友你们被警方点名表扬了",
-      "onboard_time": 1704037734,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 435892,
@@ -459,6 +483,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 391046,
+      "num": 391046,
+      "word": "新年壁纸",
+      "onboard_time": 1704073957,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 389366,
       "num": 337566,
       "word": "湖南卫视 全是广告",
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 385713,
-      "num": 243069,
+      "num": 302366,
       "word": "丈夫喝酒电话不通孕妻腹痛求助110",
       "onboard_time": 1704059234,
       "rank": 21,
@@ -483,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 350487,
+      "num": 350487,
+      "word": "白银4.9级地震暂未有伤亡报告",
+      "onboard_time": 1704074794,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332890,
       "num": 697793,
       "word": "甘肃平川4.9级地震与积石山地震无关",
@@ -491,8 +531,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315573,
+      "num": 315573,
+      "word": "林俊杰跨年演出完整版",
+      "onboard_time": 1704076358,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310440,
-      "num": 242911,
+      "num": 258097,
       "word": "熬大夜后第二天睡觉能补回来吗",
       "onboard_time": 1704063858,
       "rank": 24,
@@ -505,6 +553,14 @@
       "onboard_time": 1704031085,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289052,
+      "num": 196486,
+      "word": "十年了 雷鸣终于清白了",
+      "onboard_time": 1704073476,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 282027,
@@ -521,6 +577,14 @@
       "onboard_time": 1704034993,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261792,
+      "num": 162544,
+      "word": "运镜跟不上黄明昊",
+      "onboard_time": 1704074675,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 244533,
@@ -563,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218635,
+      "num": 137397,
+      "word": "粉丝给林俊杰唱撇嘴了",
+      "onboard_time": 1704073714,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204789,
       "num": 243391,
       "word": "元旦",
@@ -571,11 +643,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189867,
+      "num": 189867,
+      "word": "当东北出现68的锅包肉后",
+      "onboard_time": 1704074192,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 183906,
       "num": 808087,
       "word": "2024年财神来到我们家门前",
       "onboard_time": 1704038217,
       "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 182973,
+      "num": 182973,
+      "word": "跨年烟花秀",
+      "onboard_time": 1704073536,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 163401,
+      "num": 163401,
+      "word": "元旦文案",
+      "onboard_time": 1704073957,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -619,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137187,
+      "num": 134114,
+      "word": "男孩什刹海落水10余人合力施救",
+      "onboard_time": 1704071254,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 128824,
       "num": 128824,
       "word": "心碎综合症",
@@ -651,12 +755,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 105056,
-      "num": 122511,
-      "word": "男孩什刹海落水10余人合力施救",
-      "onboard_time": 1704071254,
-      "rank": 45,
-      "category": "社会正能量"
+      "raw_hot": 108608,
+      "num": 118276,
+      "word": "跨年夜被迫挤地铁的警犬",
+      "onboard_time": 1704076475,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102218,
@@ -811,7 +915,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2484,
+      "raw_hot": 27273,
       "num": 971848,
       "word": "一句话送给2024年的自己",
       "onboard_time": 1703992651,

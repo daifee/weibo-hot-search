@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704073447871,
+  "endTime": 1704076505481,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1872991,
+      "num": 1872991,
+      "word": "愿逆风如解意 税后十个亿",
+      "onboard_time": 1704070354,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1832515,
       "num": 1832515,
       "word": "华晨宇压轴",
@@ -361,14 +369,6 @@
       "onboard_time": 1704025911,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1632927,
-      "num": 1632927,
-      "word": "愿逆风如解意 税后十个亿",
-      "onboard_time": 1704070354,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1616914,
@@ -627,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 998672,
+      "num": 189772,
+      "word": "D社 该上班了",
+      "onboard_time": 1704074136,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 987065,
       "num": 408226,
       "word": "明年更多幼儿园或面临关停",
@@ -795,6 +803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 806211,
+      "num": 806211,
+      "word": "谁是2024跨年晚会最忙艺人",
+      "onboard_time": 1704058455,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 804307,
       "num": 303352,
       "word": "单依纯陶喆会唱多唱",
@@ -835,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 772503,
-      "num": 772503,
-      "word": "谁是2024跨年晚会最忙艺人",
-      "onboard_time": 1704058455,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 769858,
       "num": 724253,
       "word": "李宇春压轴",
@@ -881,6 +889,14 @@
       "onboard_time": 1704007593,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 732049,
+      "num": 489539,
+      "word": "希林娜依高戒指丢了",
+      "onboard_time": 1704071672,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 712310,
@@ -1035,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575925,
+      "num": 575925,
+      "word": "2024年确定为中朝友好年",
+      "onboard_time": 1704075636,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 571288,
       "num": 571288,
       "word": "三大队 七叔去世",
@@ -1099,12 +1123,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 534964,
+      "num": 524689,
+      "word": "迪丽热巴新年首套高定",
+      "onboard_time": 1704064339,
+      "rank": 36,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 532523,
       "num": 532523,
       "word": "长沙多景区取消跨年烟花秀",
       "onboard_time": 1704002791,
       "rank": 25,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 530870,
+      "num": 678138,
+      "word": "两个小朋友你们被警方点名表扬了",
+      "onboard_time": 1704037734,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 529678,
@@ -1121,14 +1161,6 @@
       "onboard_time": 1704013471,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 524689,
-      "num": 524689,
-      "word": "迪丽热巴新年首套高定",
-      "onboard_time": 1704064339,
-      "rank": 36,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 524656,
@@ -1180,7 +1212,7 @@
     },
     {
       "raw_hot": 502642,
-      "num": 243218,
+      "num": 472330,
       "word": "罪犯子女考公限制是否应取消",
       "onboard_time": 1704063858,
       "rank": 23,
@@ -1211,14 +1243,6 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 489539,
-      "num": 489539,
-      "word": "希林娜依高戒指丢了",
-      "onboard_time": 1704071672,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 482881,
       "num": 516557,
       "word": "太原地震",
@@ -1235,8 +1259,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 478403,
+      "num": 311782,
+      "word": "张凌赫 语音回复",
+      "onboard_time": 1704074016,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 478073,
-      "num": 243094,
+      "num": 301714,
       "word": "父亲说没钱没人脉的送礼方法",
       "onboard_time": 1704069872,
       "rank": 22,
@@ -1289,14 +1321,6 @@
       "onboard_time": 1704013052,
       "rank": 28,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 449406,
-      "num": 678138,
-      "word": "两个小朋友你们被警方点名表扬了",
-      "onboard_time": 1704037734,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 448476,
@@ -1411,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391046,
+      "num": 391046,
+      "word": "新年壁纸",
+      "onboard_time": 1704073957,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 387778,
       "num": 387778,
       "word": "詹姆斯绝平三分踩线",
@@ -1420,7 +1452,7 @@
     },
     {
       "raw_hot": 385713,
-      "num": 243069,
+      "num": 302366,
       "word": "丈夫喝酒电话不通孕妻腹痛求助110",
       "onboard_time": 1704059234,
       "rank": 21,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1704021817,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350487,
+      "num": 350487,
+      "word": "白银4.9级地震暂未有伤亡报告",
+      "onboard_time": 1704074794,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348596,
@@ -1603,8 +1643,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 315573,
+      "num": 315573,
+      "word": "林俊杰跨年演出完整版",
+      "onboard_time": 1704076358,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310440,
-      "num": 242911,
+      "num": 258097,
       "word": "熬大夜后第二天睡觉能补回来吗",
       "onboard_time": 1704063858,
       "rank": 24,
@@ -1697,6 +1745,14 @@
       "onboard_time": 1704022781,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289052,
+      "num": 196486,
+      "word": "十年了 雷鸣终于清白了",
+      "onboard_time": 1704073476,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 288442,
@@ -1809,6 +1865,14 @@
       "onboard_time": 1704016835,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261792,
+      "num": 162544,
+      "word": "运镜跟不上黄明昊",
+      "onboard_time": 1704074675,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 261484,
@@ -2041,6 +2105,14 @@
       "onboard_time": 1704000211,
       "rank": 22,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 218635,
+      "num": 137397,
+      "word": "粉丝给林俊杰唱撇嘴了",
+      "onboard_time": 1704073714,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 217968,
@@ -2283,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189867,
+      "num": 189867,
+      "word": "当东北出现68的锅包肉后",
+      "onboard_time": 1704074192,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 189492,
       "num": 189492,
       "word": "勇士三连败",
@@ -2337,6 +2417,14 @@
       "onboard_time": 1704038217,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182973,
+      "num": 182973,
+      "word": "跨年烟花秀",
+      "onboard_time": 1704073536,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 182425,
@@ -2521,6 +2609,14 @@
       "onboard_time": 1703979082,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163401,
+      "num": 163401,
+      "word": "元旦文案",
+      "onboard_time": 1704073957,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 163266,
@@ -2889,6 +2985,14 @@
       "onboard_time": 1703986950,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137187,
+      "num": 134114,
+      "word": "男孩什刹海落水10余人合力施救",
+      "onboard_time": 1704071254,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 136706,
@@ -3299,6 +3403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108608,
+      "num": 118276,
+      "word": "跨年夜被迫挤地铁的警犬",
+      "onboard_time": 1704076475,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108072,
       "num": 108072,
       "word": "贝克曼 不要假装专业当懂哥",
@@ -3337,14 +3449,6 @@
       "onboard_time": 1703949814,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105056,
-      "num": 122511,
-      "word": "男孩什刹海落水10余人合力施救",
-      "onboard_time": 1704071254,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 104593,
