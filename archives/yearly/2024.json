@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704082912201,
+  "endTime": 1704083727895,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 781171,
+      "num": 781171,
+      "word": "樊振东2024第一条微博",
+      "onboard_time": 1704082772,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 769858,
       "num": 724253,
       "word": "李宇春压轴",
@@ -371,20 +379,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 678307,
+      "num": 678307,
+      "word": "十年了 雷鸣终于清白了",
+      "onboard_time": 1704073476,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 669289,
       "num": 557981,
       "word": "湖南卫视跨年晚会",
       "onboard_time": 1704022117,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 664041,
-      "num": 664041,
-      "word": "十年了 雷鸣终于清白了",
-      "onboard_time": 1704073476,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 637196,
@@ -579,8 +587,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359112,
-      "num": 227967,
+      "raw_hot": 362106,
+      "num": 362106,
       "word": "罗非鱼皮移植",
       "onboard_time": 1704081575,
       "rank": 33,
@@ -747,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212406,
+      "num": 212406,
+      "word": "刘亦菲新年vlog",
+      "onboard_time": 1704083494,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209611,
       "num": 271056,
       "word": "小女孩 真的你不如让我站着",
@@ -763,7 +779,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189975,
+      "raw_hot": 195515,
       "num": 249891,
       "word": "为什么童谣里一般都唱外婆",
       "onboard_time": 1704080316,
@@ -787,12 +803,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188462,
-      "num": 223840,
-      "word": "樊振东2024第一条微博",
-      "onboard_time": 1704082772,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 188767,
+      "num": 247933,
+      "word": "广州成都深圳成元旦假期最火城市",
+      "onboard_time": 1704080134,
+      "rank": 24,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 183906,
@@ -809,14 +825,6 @@
       "onboard_time": 1704073536,
       "rank": 32,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 182266,
-      "num": 247933,
-      "word": "广州成都深圳成元旦假期最火城市",
-      "onboard_time": 1704080134,
-      "rank": 24,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 163401,
@@ -881,6 +889,14 @@
       "onboard_time": 1704081873,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140278,
+      "num": 190177,
+      "word": "一些旺自己的小玄学",
+      "onboard_time": 1704082712,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 140256,
@@ -1059,6 +1075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 62041,
+      "num": 951164,
+      "word": "2024年愿美好如约而至",
+      "onboard_time": 1704082353,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61426,
       "num": 214126,
       "word": "苏翊鸣大方示爱朱易",
@@ -1073,14 +1097,6 @@
       "onboard_time": 1704078033,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54444,
-      "num": 951164,
-      "word": "2024年愿美好如约而至",
-      "onboard_time": 1704082353,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53567,
@@ -1139,20 +1155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31866,
+      "num": 419058,
+      "word": "浮生忆玲珑预捏脸",
+      "onboard_time": 1704081632,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 27314,
       "num": 1163854,
       "word": "一句话送给2024年的自己",
       "onboard_time": 1703992651,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26801,
-      "num": 419058,
-      "word": "浮生忆玲珑预捏脸",
-      "onboard_time": 1704081632,
-      "rank": 14,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [
@@ -1161,6 +1177,9 @@
     },
     {
       "word": "#新年贺词完整视频#"
+    },
+    {
+      "word": "#2024新年贺词#"
     }
   ]
 }
