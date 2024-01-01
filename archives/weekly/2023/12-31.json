@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704123258754,
+  "endTime": 1704126108827,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -1267,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 667738,
+      "num": 667738,
+      "word": "从此排骨是排骨 年糕是年糕",
+      "onboard_time": 1704121419,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 666858,
       "num": 529758,
       "word": "日本多条新干线因地震停运",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1704116922,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 625694,
-      "num": 550912,
-      "word": "从此排骨是排骨 年糕是年糕",
-      "onboard_time": 1704121419,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 618141,
@@ -1457,6 +1457,14 @@
       "onboard_time": 1704109901,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 575411,
+      "num": 575411,
+      "word": "2024朋友圈背景图",
+      "onboard_time": 1704121419,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571288,
@@ -1875,6 +1883,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 440171,
+      "num": 440171,
+      "word": "男子2000买金包银首饰典当5.3万",
+      "onboard_time": 1704121602,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436495,
       "num": 1912769,
       "word": "兰州震感",
@@ -2003,14 +2019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 394577,
-      "num": 394577,
-      "word": "2024朋友圈背景图",
-      "onboard_time": 1704121419,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394390,
       "num": 394390,
       "word": "周深孟子义又唠上了",
@@ -2040,14 +2048,6 @@
       "word": "丈夫喝酒电话不通孕妻腹痛求助110",
       "onboard_time": 1704059234,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379247,
-      "num": 379247,
-      "word": "男子2000买金包银首饰典当5.3万",
-      "onboard_time": 1704121602,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -3859,6 +3859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162026,
+      "num": 135233,
+      "word": "日本华人讲述地震灾情",
+      "onboard_time": 1704124834,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161978,
       "num": 526259,
       "word": "谁会开走刘强东的车",
@@ -4273,6 +4281,14 @@
       "onboard_time": 1703986110,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143072,
+      "num": 143072,
+      "word": "跨年档票房",
+      "onboard_time": 1704123696,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 142923,
@@ -4755,6 +4771,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 121608,
+      "num": 121608,
+      "word": "LOL",
+      "onboard_time": 1704124355,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120508,
       "num": 120508,
       "word": "叱咤乐坛流行榜颁奖典礼",
@@ -4939,6 +4963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111450,
+      "num": 111450,
+      "word": "魏大勋一下台就去撸串了",
+      "onboard_time": 1704125373,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111143,
       "num": 111143,
       "word": "一张图找准你适合养啥宠物",
@@ -4969,6 +5001,14 @@
       "onboard_time": 1704002791,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108900,
+      "num": 108900,
+      "word": "CBA",
+      "onboard_time": 1704124355,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 108072,
@@ -5225,6 +5265,14 @@
       "onboard_time": 1704095674,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93070,
+      "num": 93070,
+      "word": "汪小姐没等到宝总",
+      "onboard_time": 1704125911,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 93032,

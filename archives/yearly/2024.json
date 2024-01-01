@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704123258754,
+  "endTime": 1704126108827,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -643,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 667738,
+      "num": 667738,
+      "word": "从此排骨是排骨 年糕是年糕",
+      "onboard_time": 1704121419,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 666858,
       "num": 529758,
       "word": "日本多条新干线因地震停运",
@@ -715,14 +723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 625694,
-      "num": 550912,
-      "word": "从此排骨是排骨 年糕是年糕",
-      "onboard_time": 1704121419,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 613725,
       "num": 613725,
       "word": "白鹿范丞丞牵手合唱",
@@ -761,6 +761,14 @@
       "onboard_time": 1704109901,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 575411,
+      "num": 575411,
+      "word": "2024朋友圈背景图",
+      "onboard_time": 1704121419,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 566732,
@@ -963,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440171,
+      "num": 440171,
+      "word": "男子2000买金包银首饰典当5.3万",
+      "onboard_time": 1704121602,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435892,
       "num": 371567,
       "word": "家有儿女 尴尬",
@@ -1059,14 +1075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 394577,
-      "num": 394577,
-      "word": "2024朋友圈背景图",
-      "onboard_time": 1704121419,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394390,
       "num": 394390,
       "word": "周深孟子义又唠上了",
@@ -1088,14 +1096,6 @@
       "word": "丈夫喝酒电话不通孕妻腹痛求助110",
       "onboard_time": 1704059234,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379247,
-      "num": 379247,
-      "word": "男子2000买金包银首饰典当5.3万",
-      "onboard_time": 1704121602,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1915,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162026,
+      "num": 135233,
+      "word": "日本华人讲述地震灾情",
+      "onboard_time": 1704124834,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161237,
       "num": 161237,
       "word": "繁花排播好浪漫",
@@ -2073,6 +2081,14 @@
       "onboard_time": 1704071254,
       "rank": 45,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 143072,
+      "num": 143072,
+      "word": "跨年档票房",
+      "onboard_time": 1704123696,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 142923,
@@ -2267,6 +2283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 121608,
+      "num": 121608,
+      "word": "LOL",
+      "onboard_time": 1704124355,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120508,
       "num": 120508,
       "word": "叱咤乐坛流行榜颁奖典礼",
@@ -2323,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111450,
+      "num": 111450,
+      "word": "魏大勋一下台就去撸串了",
+      "onboard_time": 1704125373,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110960,
       "num": 665259,
       "word": "王曼昱新头像",
@@ -2337,6 +2369,14 @@
       "onboard_time": 1704040552,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 108900,
+      "num": 108900,
+      "word": "CBA",
+      "onboard_time": 1704124355,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 107637,
@@ -2361,46 +2401,6 @@
       "onboard_time": 1704088472,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106022,
-      "num": 106022,
-      "word": "B站 奥特曼",
-      "onboard_time": 1704108939,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 105742,
-      "num": 233124,
-      "word": "张艺兴新年开门红",
-      "onboard_time": 1704082353,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 105031,
-      "num": 202749,
-      "word": "深圳一步一个瑶妹",
-      "onboard_time": 1704091832,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 104561,
-      "num": 104561,
-      "word": "雷鸣教案存了20多个U盘",
-      "onboard_time": 1704095556,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 102940,
-      "num": 192646,
-      "word": "2024要开心",
-      "onboard_time": 1704081275,
-      "rank": 48,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
