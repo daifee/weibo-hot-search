@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704065660732,
+  "endTime": 1704072099380,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -163,11 +163,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1102692,
+      "num": 1102692,
+      "word": "愿逆风如解意 税后十个亿",
+      "onboard_time": 1704070354,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1023825,
       "num": 563242,
       "word": "张小斐 发光的神女",
       "onboard_time": 1704033555,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 971992,
+      "num": 971992,
+      "word": "跨年收视率",
+      "onboard_time": 1704063919,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -192,6 +208,22 @@
       "word": "鞠婧祎好稳",
       "onboard_time": 1704036365,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 922842,
+      "num": 416218,
+      "word": "为裁员西安某公司从CBD搬进秦岭山区",
+      "onboard_time": 1704066266,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 913558,
+      "num": 913558,
+      "word": "杨紫李现合照 今夕是何年",
+      "onboard_time": 1704065061,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -248,6 +280,14 @@
       "word": "孟子义开口吓死我了",
       "onboard_time": 1704034090,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 715047,
+      "num": 715047,
+      "word": "谁是2024跨年晚会最忙艺人",
+      "onboard_time": 1704058455,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -315,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 517448,
+      "num": 517448,
+      "word": "迪丽热巴新年首套高定",
+      "onboard_time": 1704064339,
+      "rank": 36,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 492595,
       "num": 3438539,
       "word": "央视跨年晚会",
@@ -323,12 +371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 439688,
-      "num": 439688,
-      "word": "跨年收视率",
-      "onboard_time": 1704063919,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 483195,
+      "num": 243218,
+      "word": "罪犯子女考公限制是否应取消",
+      "onboard_time": 1704063858,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438716,
+      "num": 243094,
+      "word": "父亲说没钱没人脉的送礼方法",
+      "onboard_time": 1704069872,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 435892,
@@ -345,6 +401,14 @@
       "onboard_time": 1704042462,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 431197,
+      "num": 678138,
+      "word": "两个小朋友你们被警方点名表扬了",
+      "onboard_time": 1704037734,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 426800,
@@ -379,20 +443,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 389366,
+      "num": 337566,
+      "word": "湖南卫视 全是广告",
+      "onboard_time": 1704025852,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 385713,
+      "num": 243069,
+      "word": "丈夫喝酒电话不通孕妻腹痛求助110",
+      "onboard_time": 1704059234,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369053,
+      "num": 369053,
+      "word": "梅德韦杰夫预测2024年",
+      "onboard_time": 1704067405,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 355504,
       "num": 819667,
       "word": "跨年文案",
       "onboard_time": 1703984130,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 351303,
-      "num": 351303,
-      "word": "谁是2024跨年晚会最忙艺人",
-      "onboard_time": 1704058455,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 332890,
@@ -403,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310440,
+      "num": 242911,
+      "word": "熬大夜后第二天睡觉能补回来吗",
+      "onboard_time": 1704063858,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 307006,
       "num": 837569,
       "word": "韩国地铁站竟然有宋词",
       "onboard_time": 1704031085,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 298474,
-      "num": 157480,
-      "word": "杨紫李现合照 今夕是何年",
-      "onboard_time": 1704065061,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 282027,
@@ -435,19 +515,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248623,
-      "num": 248623,
-      "word": "迪丽热巴新年首套高定",
-      "onboard_time": 1704064339,
-      "rank": 36,
-      "category": "综艺,时尚"
+      "raw_hot": 244533,
+      "num": 242194,
+      "word": "他们经理饿了 就贴我们锅里了",
+      "onboard_time": 1704068307,
+      "rank": 32,
+      "category": "幽默"
     },
     {
-      "raw_hot": 241384,
-      "num": 184179,
+      "raw_hot": 242188,
+      "num": 242188,
       "word": "戚薇李承铉 真夫妻",
       "onboard_time": 1704047005,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 226557,
+      "num": 226557,
+      "word": "红楼梦 绝杀",
+      "onboard_time": 1704050298,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -467,27 +555,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214250,
-      "num": 102321,
-      "word": "罪犯子女考公限制是否应取消",
-      "onboard_time": 1704063858,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 213927,
+      "num": 125256,
+      "word": "希林娜依高戒指丢了",
+      "onboard_time": 1704071672,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 204789,
-      "num": 204789,
+      "num": 243391,
       "word": "元旦",
       "onboard_time": 1704064459,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203736,
-      "num": 102295,
-      "word": "丈夫喝酒电话不通孕妻腹痛求助110",
-      "onboard_time": 1704059234,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -499,12 +579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165038,
-      "num": 102134,
-      "word": "湖南卫视 全是广告",
-      "onboard_time": 1704025852,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 158986,
+      "num": 125037,
+      "word": "TF家族2024公式照",
+      "onboard_time": 1704068368,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156394,
@@ -513,14 +593,6 @@
       "onboard_time": 1704008371,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152244,
-      "num": 102176,
-      "word": "熬大夜后第二天睡觉能补回来吗",
-      "onboard_time": 1704063858,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 150223,
@@ -547,20 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123686,
-      "num": 678138,
-      "word": "两个小朋友你们被警方点名表扬了",
-      "onboard_time": 1704037734,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 115550,
-      "num": 115550,
-      "word": "红楼梦 绝杀",
-      "onboard_time": 1704050298,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 125416,
+      "num": 125416,
+      "word": "这是2024年第1天的中国",
+      "onboard_time": 1704066384,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110960,
@@ -577,6 +641,14 @@
       "onboard_time": 1704040552,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 108223,
+      "num": 125348,
+      "word": "心碎综合症",
+      "onboard_time": 1704070533,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 102218,
@@ -619,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81052,
+      "num": 124969,
+      "word": "全球共赏维港烟花",
+      "onboard_time": 1704069331,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 79074,
       "num": 638644,
       "word": "爸妈弟弟拎上百包子扛羊腿陪女生跨年",
@@ -651,12 +731,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 67755,
+      "num": 124904,
+      "word": "猫猫 游戏就这么好玩是吧",
+      "onboard_time": 1704071912,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64779,
       "num": 369355,
       "word": "废文邀请码",
       "onboard_time": 1704028682,
       "rank": 48,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 63243,
+      "num": 124843,
+      "word": "夏目友人帐 新年贺图",
+      "onboard_time": 1704068670,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 61426,
