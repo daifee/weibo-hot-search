@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704087256772,
+  "endTime": 1704090255977,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1732661,
+      "num": 1732661,
+      "word": "小破站跨年 还是你会玩",
+      "onboard_time": 1704087332,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1707044,
       "num": 1707044,
       "word": "孟子义开口吓死我了",
@@ -651,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1000364,
+      "num": 543255,
+      "word": "洗草莓时不要摘掉草莓蒂",
+      "onboard_time": 1704085773,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1000226,
       "num": 1000226,
       "word": "鞠婧祎好稳",
@@ -713,14 +729,6 @@
       "onboard_time": 1704035409,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 926570,
-      "num": 543255,
-      "word": "洗草莓时不要摘掉草莓蒂",
-      "onboard_time": 1704085773,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 922842,
@@ -833,6 +841,14 @@
       "onboard_time": 1704019654,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 827568,
+      "num": 827568,
+      "word": "丹麦女王宣布将退位",
+      "onboard_time": 1704086314,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 818687,
@@ -1059,12 +1075,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 654206,
-      "num": 654206,
-      "word": "丹麦女王宣布将退位",
-      "onboard_time": 1704086314,
+      "raw_hot": 659450,
+      "num": 659450,
+      "word": "白鹿在生张大大的闷气",
+      "onboard_time": 1704088053,
       "rank": 4,
-      "category": "国外时政"
+      "category": "综艺"
     },
     {
       "raw_hot": 652254,
@@ -1467,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446733,
+      "num": 348868,
+      "word": "窦靖童等的不是公交是孙燕姿吧",
+      "onboard_time": 1704087813,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442568,
       "num": 442568,
       "word": "哈尔滨冰雪大世界暂停销售今日门票",
@@ -1755,6 +1779,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 331155,
+      "num": 331155,
+      "word": "血型瘦身法",
+      "onboard_time": 1704088413,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 330654,
+      "num": 330654,
+      "word": "樊振东实名羡慕贾一凡奖金",
+      "onboard_time": 1704089852,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330599,
       "num": 228995,
       "word": "睡觉频繁出现这5种表现要留意",
@@ -1985,6 +2025,14 @@
       "onboard_time": 1704077792,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275041,
+      "num": 275041,
+      "word": "名侦探柯南",
+      "onboard_time": 1704088472,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 274541,
@@ -2219,6 +2267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233885,
+      "num": 251159,
+      "word": "覃海洋樊振东上榜最佳运动员",
+      "onboard_time": 1704088775,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230723,
       "num": 230723,
       "word": "金手指",
@@ -2395,12 +2451,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208658,
+      "num": 208658,
+      "word": "LNG 新年的折磨",
+      "onboard_time": 1704089852,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 208460,
+      "num": 191497,
+      "word": "繁花 A先生",
+      "onboard_time": 1704089609,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207663,
       "num": 604274,
       "word": "女生被求婚后的真实反应",
       "onboard_time": 1704025188,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205243,
+      "num": 178299,
+      "word": "这是陆虎陈曌旭恋爱MV吧",
+      "onboard_time": 1704086974,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 204935,
@@ -2715,12 +2795,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 178299,
-      "num": 178299,
-      "word": "这是陆虎陈曌旭恋爱MV吧",
-      "onboard_time": 1704086974,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 177552,
+      "num": 146095,
+      "word": "张万森把林北星背在身上啦",
+      "onboard_time": 1704089312,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 177496,
@@ -3227,6 +3307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141494,
+      "num": 141494,
+      "word": "LNG对战RA",
+      "onboard_time": 1704089672,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140873,
       "num": 140873,
       "word": "繁花饭店后厨集体离职",
@@ -3241,6 +3329,14 @@
       "onboard_time": 1704047785,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140234,
+      "num": 134338,
+      "word": "百变赵兆",
+      "onboard_time": 1704088235,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 140114,
@@ -3321,6 +3417,14 @@
       "onboard_time": 1704010292,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134306,
+      "num": 134306,
+      "word": "2024年三倍工资日历",
+      "onboard_time": 1704089794,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 133208,
@@ -3465,6 +3569,14 @@
       "onboard_time": 1704031872,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124561,
+      "num": 124561,
+      "word": "詹姆斯1分钟连得9分",
+      "onboard_time": 1704087695,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 124518,
@@ -3721,6 +3833,14 @@
       "onboard_time": 1704000572,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 106939,
+      "num": 106939,
+      "word": "峨眉山的吗喽都有对象了",
+      "onboard_time": 1704088472,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 106543,
@@ -4353,6 +4473,14 @@
       "onboard_time": 1704016835,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30236,
+      "num": 338273,
+      "word": "王一博跨年舞台又来了",
+      "onboard_time": 1704088834,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 30098,
