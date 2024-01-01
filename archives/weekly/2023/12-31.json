@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704076505481,
+  "endTime": 1704077080664,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -315,20 +315,20 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 1880895,
+      "num": 1880895,
+      "word": "愿逆风如解意 税后十个亿",
+      "onboard_time": 1704070354,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1879135,
       "num": 1879135,
       "word": "2024",
       "onboard_time": 1704038452,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1872991,
-      "num": 1872991,
-      "word": "愿逆风如解意 税后十个亿",
-      "onboard_time": 1704070354,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1832515,
@@ -723,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 881629,
+      "num": 881629,
+      "word": "2024年确定为中朝友好年",
+      "onboard_time": 1704075636,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 880762,
       "num": 880762,
       "word": "丞磊田曦薇在台上说悄悄话",
@@ -891,7 +899,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 732049,
+      "raw_hot": 732327,
       "num": 489539,
       "word": "希林娜依高戒指丢了",
       "onboard_time": 1704071672,
@@ -1051,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 575925,
-      "num": 575925,
-      "word": "2024年确定为中朝友好年",
-      "onboard_time": 1704075636,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 571288,
       "num": 571288,
       "word": "三大队 七叔去世",
@@ -1105,6 +1105,14 @@
       "onboard_time": 1704039052,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 556010,
+      "num": 556010,
+      "word": "罪犯子女考公限制是否应取消",
+      "onboard_time": 1704063858,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 545443,
@@ -1209,14 +1217,6 @@
       "onboard_time": 1704001051,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 502642,
-      "num": 472330,
-      "word": "罪犯子女考公限制是否应取消",
-      "onboard_time": 1704063858,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 502578,
@@ -1377,6 +1377,14 @@
       "onboard_time": 1704022117,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424070,
+      "num": 380878,
+      "word": "林俊杰跨年演出完整版",
+      "onboard_time": 1704076358,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 423693,
@@ -1579,6 +1587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 337008,
+      "num": 337008,
+      "word": "十年了 雷鸣终于清白了",
+      "onboard_time": 1704073476,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 336759,
       "num": 336759,
       "word": "原神 钟离皮肤出啊",
@@ -1641,14 +1657,6 @@
       "onboard_time": 1704015271,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 315573,
-      "num": 315573,
-      "word": "林俊杰跨年演出完整版",
-      "onboard_time": 1704076358,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 310440,
@@ -1747,20 +1755,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289052,
-      "num": 196486,
-      "word": "十年了 雷鸣终于清白了",
-      "onboard_time": 1704073476,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 288442,
       "num": 237887,
       "word": "Cat 冠军的家人们早上好",
       "onboard_time": 1703996011,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 287297,
+      "num": 155115,
+      "word": "王鹤棣宋茜 rapper和他的爱豆女友",
+      "onboard_time": 1704076716,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 283343,
@@ -2315,6 +2323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197113,
+      "num": 156964,
+      "word": "跨年夜被迫挤地铁的警犬",
+      "onboard_time": 1704076475,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196864,
       "num": 742348,
       "word": "Wolves晋级总决赛",
@@ -2723,6 +2739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155490,
+      "num": 155490,
+      "word": "元旦加班3倍工资",
+      "onboard_time": 1704076716,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 154968,
       "num": 154968,
       "word": "哈尔滨旅游",
@@ -2907,6 +2931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143412,
+      "num": 143412,
+      "word": "男孩什刹海落水10余人合力施救",
+      "onboard_time": 1704071254,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 143142,
       "num": 143142,
       "word": "12星座本周运势",
@@ -2985,14 +3017,6 @@
       "onboard_time": 1703986950,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137187,
-      "num": 134114,
-      "word": "男孩什刹海落水10余人合力施救",
-      "onboard_time": 1704071254,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 136706,
@@ -3177,6 +3201,14 @@
       "onboard_time": 1703998834,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 124176,
+      "num": 124176,
+      "word": "中美建交45周年",
+      "onboard_time": 1704076895,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124175,
@@ -3401,14 +3433,6 @@
       "onboard_time": 1704002791,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108608,
-      "num": 118276,
-      "word": "跨年夜被迫挤地铁的警犬",
-      "onboard_time": 1704076475,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108072,
