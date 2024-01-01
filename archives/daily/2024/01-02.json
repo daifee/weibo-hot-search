@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704126108827,
+  "endTime": 1704127036848,
   "band_list": [
     {
       "raw_hot": 1154352,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440171,
-      "num": 440171,
+      "raw_hot": 457840,
+      "num": 457840,
       "word": "男子2000买金包银首饰典当5.3万",
       "onboard_time": 1704121602,
       "rank": 5,
@@ -139,6 +139,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195995,
+      "num": 195995,
+      "word": "汪小姐没等到宝总",
+      "onboard_time": 1704125911,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181253,
+      "num": 135233,
+      "word": "日本华人讲述地震灾情",
+      "onboard_time": 1704124834,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175580,
       "num": 142357,
       "word": "日本7.4级地震现场画面",
@@ -153,14 +169,6 @@
       "onboard_time": 1704085773,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 162026,
-      "num": 135233,
-      "word": "日本华人讲述地震灾情",
-      "onboard_time": 1704124834,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161919,
@@ -211,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130004,
+      "num": 130004,
+      "word": "魏大勋一下台就去撸串了",
+      "onboard_time": 1704125373,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121608,
       "num": 121608,
       "word": "LOL",
@@ -225,14 +241,6 @@
       "onboard_time": 1704109476,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 111450,
-      "num": 111450,
-      "word": "魏大勋一下台就去撸串了",
-      "onboard_time": 1704125373,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 108900,
@@ -281,14 +289,6 @@
       "onboard_time": 1704097304,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93070,
-      "num": 93070,
-      "word": "汪小姐没等到宝总",
-      "onboard_time": 1704125911,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 90465,
@@ -377,6 +377,22 @@
       "onboard_time": 1704119502,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71847,
+      "num": 71847,
+      "word": "檀健次李兰迪CP感",
+      "onboard_time": 1704126749,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 70922,
+      "num": 70922,
+      "word": "三大队",
+      "onboard_time": 1704125850,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 64218,

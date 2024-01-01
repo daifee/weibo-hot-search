@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704126108827,
+  "endTime": 1704127036848,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -1851,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457840,
+      "num": 457840,
+      "word": "男子2000买金包银首饰典当5.3万",
+      "onboard_time": 1704121602,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454529,
       "num": 454529,
       "word": "比亚迪销量",
@@ -1881,14 +1889,6 @@
       "onboard_time": 1704012514,
       "rank": 18,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 440171,
-      "num": 440171,
-      "word": "男子2000买金包银首饰典当5.3万",
-      "onboard_time": 1704121602,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 436495,
@@ -3355,6 +3355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195995,
+      "num": 195995,
+      "word": "汪小姐没等到宝总",
+      "onboard_time": 1704125911,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195936,
       "num": 195936,
       "word": "徐涛 2023年没什么突出的成绩",
@@ -3545,6 +3553,14 @@
       "onboard_time": 1704022297,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181253,
+      "num": 135233,
+      "word": "日本华人讲述地震灾情",
+      "onboard_time": 1704124834,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180778,
@@ -3857,14 +3873,6 @@
       "onboard_time": 1704113018,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162026,
-      "num": 135233,
-      "word": "日本华人讲述地震灾情",
-      "onboard_time": 1704124834,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161978,
@@ -4547,6 +4555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130004,
+      "num": 130004,
+      "word": "魏大勋一下台就去撸串了",
+      "onboard_time": 1704125373,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129126,
       "num": 133941,
       "word": "太阳三巨头合砍77分",
@@ -4963,14 +4979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111450,
-      "num": 111450,
-      "word": "魏大勋一下台就去撸串了",
-      "onboard_time": 1704125373,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111143,
       "num": 111143,
       "word": "一张图找准你适合养啥宠物",
@@ -5267,14 +5275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93070,
-      "num": 93070,
-      "word": "汪小姐没等到宝总",
-      "onboard_time": 1704125911,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 93032,
       "num": 93032,
       "word": "张万森 局部暴雪了",
@@ -5489,6 +5489,22 @@
       "onboard_time": 1704032654,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 71847,
+      "num": 71847,
+      "word": "檀健次李兰迪CP感",
+      "onboard_time": 1704126749,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 70922,
+      "num": 70922,
+      "word": "三大队",
+      "onboard_time": 1704125850,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 69532,
