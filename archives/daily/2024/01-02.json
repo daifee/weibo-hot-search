@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704130462975,
+  "endTime": 1704133318293,
   "band_list": [
     {
       "raw_hot": 1154352,
@@ -265,6 +265,14 @@
       "onboard_time": 1704120339,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99248,
+      "num": 99248,
+      "word": "黄景瑜零点跨年去哪儿了",
+      "onboard_time": 1704130700,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 96554,
