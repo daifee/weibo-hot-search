@@ -1,0 +1,410 @@
+{
+  "runTime": 1704122259348,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1714961,
+        "num": 1714961,
+        "word": "一个月不换的床单有多脏",
+        "onboard_time": 1704100598,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 630748,
+        "num": 630748,
+        "word": "年会不能停 梗过于密集",
+        "onboard_time": 1704116922,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92789,
+        "num": 625735,
+        "word": "元旦起这些新规施行",
+        "onboard_time": 1704103420,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667205,
+        "num": 624990,
+        "word": "跨年无人机表演取消主办方下跪道歉",
+        "onboard_time": 1704115539,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622787,
+        "num": 622787,
+        "word": "张文逝世",
+        "onboard_time": 1704115300,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541397,
+        "num": 541397,
+        "word": "天价麻辣烫",
+        "onboard_time": 1704110681,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 501198,
+        "num": 501198,
+        "word": "繁花 范志毅",
+        "onboard_time": 1704118662,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403793,
+        "num": 403793,
+        "word": "宋茜王鹤棣最后一下 雪琴表情",
+        "onboard_time": 1704104739,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493975,
+        "num": 385453,
+        "word": "胡歌 第一个吻戏是咸的",
+        "onboard_time": 1704121060,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270047,
+        "num": 270047,
+        "word": "樊振东说无队内cp",
+        "onboard_time": 1704109901,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2486991,
+        "num": 269900,
+        "word": "日本气象厅修正地震震度",
+        "onboard_time": 1704119801,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665970,
+        "num": 267846,
+        "word": "iPhone为什么只有P大写",
+        "onboard_time": 1704121303,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 589598,
+        "num": 266525,
+        "word": "网红欧可爱因车祸溺水离世",
+        "onboard_time": 1704109476,
+        "rank": 12,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 934352,
+        "num": 264646,
+        "word": "日本地震已经造成至少2人受伤",
+        "onboard_time": 1704119563,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69822,
+        "num": 263086,
+        "word": "小鹏X9上市35.98万起",
+        "onboard_time": 1704116862,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 354618,
+        "num": 261630,
+        "word": "日本一地火山喷发",
+        "onboard_time": 1704100537,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830891,
+        "num": 260103,
+        "word": "日本两小时内发生了40多次地震",
+        "onboard_time": 1704118902,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335973,
+        "num": 258131,
+        "word": "繁花 排骨年糕",
+        "onboard_time": 1704120043,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311974,
+        "num": 255696,
+        "word": "黄子弘凡 MAMA",
+        "onboard_time": 1704117640,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 629742,
+        "num": 254511,
+        "word": "日本地震",
+        "onboard_time": 1704093755,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309051,
+        "num": 252795,
+        "word": "从此排骨是排骨 年糕是年糕",
+        "onboard_time": 1704121419,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307125,
+        "num": 250781,
+        "word": "洗草莓时不要摘掉草莓蒂",
+        "onboard_time": 1704085773,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 286686,
+        "num": 249138,
+        "word": "日本7.4级地震现场画面",
+        "onboard_time": 1704100780,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271499,
+        "num": 247243,
+        "word": "凤隐大婚休夫",
+        "onboard_time": 1704120339,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247017,
+        "num": 247017,
+        "word": "2024朋友圈背景图",
+        "onboard_time": 1704121419,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207795,
+        "num": 207795,
+        "word": "孟子义叫江苏卫视大哥",
+        "onboard_time": 1704101077,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207485,
+        "num": 207485,
+        "word": "日本连续地震前乌鸦满天飞",
+        "onboard_time": 1704112840,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206195,
+        "num": 206195,
+        "word": "卡琳娜有笑容了",
+        "onboard_time": 1704109476,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 48623,
+        "num": 204129,
+        "word": "小米央视人车家全生态战略合作",
+        "onboard_time": 1704119320,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 162459,
+        "num": 203861,
+        "word": "日当局称核电站未发现异常",
+        "onboard_time": 1704117221,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203635,
+        "num": 203635,
+        "word": "繁花",
+        "onboard_time": 1704113680,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199725,
+        "num": 199725,
+        "word": "杨洋 男频",
+        "onboard_time": 1704101020,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198659,
+        "num": 198659,
+        "word": "男子2000买金包银首饰典当5.3万",
+        "onboard_time": 1704121602,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195635,
+        "num": 195635,
+        "word": "美国女子遭家暴报警被警察击毙",
+        "onboard_time": 1704100837,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194906,
+        "num": 194906,
+        "word": "年会不能停",
+        "onboard_time": 1704121781,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178586,
+        "num": 178586,
+        "word": "俄罗斯远东地区多地发布海啸预警",
+        "onboard_time": 1704119502,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178215,
+        "num": 178215,
+        "word": "陶喆 蝴蝶",
+        "onboard_time": 1704120522,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164859,
+        "num": 164859,
+        "word": "日本强震引发5米海啸",
+        "onboard_time": 1704095075,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161319,
+        "num": 161319,
+        "word": "不要再瞎练八段锦了",
+        "onboard_time": 1704103303,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 160974,
+        "num": 160974,
+        "word": "女子孕吐请4天假被开除",
+        "onboard_time": 1704097304,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153850,
+        "num": 153850,
+        "word": "航拍日本轮岛市震后大规模火灾现场",
+        "onboard_time": 1704121541,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153006,
+        "num": 153006,
+        "word": "刘德华陪孩子写作业也会鸡飞狗跳",
+        "onboard_time": 1704107738,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140396,
+        "num": 140396,
+        "word": "玲花是来争夺赵露思抚养权的",
+        "onboard_time": 1704106238,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136711,
+        "num": 136711,
+        "word": "终于到了谈恋爱不怕爸妈知道的年纪",
+        "onboard_time": 1704103303,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131366,
+        "num": 131366,
+        "word": "比亚迪销量",
+        "onboard_time": 1704108398,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129683,
+        "num": 129683,
+        "word": "日本志贺核电站变压器起火",
+        "onboard_time": 1704107139,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129277,
+        "num": 129277,
+        "word": "国足vs中国香港",
+        "onboard_time": 1704122139,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125508,
+        "num": 125508,
+        "word": "李荣浩 去年的事儿先不提了",
+        "onboard_time": 1704104918,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121899,
+        "num": 121899,
+        "word": "日本地震互助",
+        "onboard_time": 1704117880,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117899,
+        "num": 117899,
+        "word": "JDG战胜TES",
+        "onboard_time": 1704114821,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024新年贺词#"
+    }
+  }
+}

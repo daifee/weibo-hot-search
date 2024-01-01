@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704119630113,
+  "endTime": 1704122259348,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -57,6 +57,14 @@
       "onboard_time": 1704037559,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2486991,
+      "num": 269900,
+      "word": "日本气象厅修正地震震度",
+      "onboard_time": 1704119801,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2356867,
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 934352,
+      "num": 264646,
+      "word": "日本地震已经造成至少2人受伤",
+      "onboard_time": 1704119563,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 922842,
       "num": 419530,
       "word": "为裁员西安某公司从CBD搬进秦岭山区",
@@ -441,6 +457,14 @@
       "onboard_time": 1704101020,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 830891,
+      "num": 284179,
+      "word": "日本两小时内发生了40多次地震",
+      "onboard_time": 1704118902,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 827568,
@@ -619,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665970,
+      "num": 267846,
+      "word": "iPhone为什么只有P大写",
+      "onboard_time": 1704121303,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 659807,
       "num": 659807,
       "word": "樊振东实名羡慕贾一凡奖金",
@@ -665,6 +697,14 @@
       "onboard_time": 1704024106,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630748,
+      "num": 630748,
+      "word": "年会不能停 梗过于密集",
+      "onboard_time": 1704116922,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 613725,
@@ -787,6 +827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 501198,
+      "num": 501198,
+      "word": "繁花 范志毅",
+      "onboard_time": 1704118662,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500881,
       "num": 500881,
       "word": "易烊千玺在网站撒娇",
@@ -795,12 +843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 498583,
-      "num": 498583,
-      "word": "年会不能停 梗过于密集",
-      "onboard_time": 1704116922,
+      "raw_hot": 493975,
+      "num": 385453,
+      "word": "胡歌 第一个吻戏是咸的",
+      "onboard_time": 1704121060,
       "rank": 8,
-      "category": "电影"
+      "category": "剧集"
     },
     {
       "raw_hot": 492595,
@@ -825,14 +873,6 @@
       "onboard_time": 1704094296,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 489853,
-      "num": 489853,
-      "word": "繁花 范志毅",
-      "onboard_time": 1704118662,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 478403,
@@ -987,14 +1027,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 398299,
-      "num": 284179,
-      "word": "日本两小时内发生了40多次地震",
-      "onboard_time": 1704118902,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 397568,
       "num": 397568,
       "word": "终于到了谈恋爱不怕爸妈知道的年纪",
@@ -1099,6 +1131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 335973,
+      "num": 258131,
+      "word": "繁花 排骨年糕",
+      "onboard_time": 1704120043,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332890,
       "num": 697793,
       "word": "甘肃平川4.9级地震与积石山地震无关",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1704101259,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 309051,
+      "num": 252795,
+      "word": "从此排骨是排骨 年糕是年糕",
+      "onboard_time": 1704121419,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 308491,
@@ -1267,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271499,
+      "num": 247243,
+      "word": "凤隐大婚休夫",
+      "onboard_time": 1704120339,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269015,
       "num": 256638,
       "word": "真的相信女生生来就有爱人的能力",
@@ -1329,6 +1385,14 @@
       "onboard_time": 1704089852,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 247017,
+      "num": 247017,
+      "word": "2024朋友圈背景图",
+      "onboard_time": 1704121419,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244848,
@@ -1595,12 +1659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198659,
+      "num": 198659,
+      "word": "男子2000买金包银首饰典当5.3万",
+      "onboard_time": 1704121602,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195515,
       "num": 249891,
       "word": "为什么童谣里一般都唱外婆",
       "onboard_time": 1704080316,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194906,
+      "num": 194906,
+      "word": "年会不能停",
+      "onboard_time": 1704121781,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 193390,
@@ -1659,14 +1739,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 185287,
-      "num": 185287,
-      "word": "日本地震已经造成至少2人受伤",
-      "onboard_time": 1704119563,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184069,
       "num": 184069,
       "word": "在AG许的愿望实现了吗",
@@ -1704,6 +1776,22 @@
       "word": "王一博汪涵大张伟零点拥抱",
       "onboard_time": 1704103597,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178586,
+      "num": 178586,
+      "word": "俄罗斯远东地区多地发布海啸预警",
+      "onboard_time": 1704119502,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178215,
+      "num": 178215,
+      "word": "陶喆 蝴蝶",
+      "onboard_time": 1704120522,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1883,6 +1971,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 153850,
+      "num": 153850,
+      "word": "航拍日本轮岛市震后大规模火灾现场",
+      "onboard_time": 1704121541,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151714,
       "num": 151714,
       "word": "英雄联盟",
@@ -2035,14 +2131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137542,
-      "num": 137542,
-      "word": "俄罗斯远东地区多地发布海啸预警",
-      "onboard_time": 1704119502,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137043,
       "num": 137043,
       "word": "RA战胜LNG",
@@ -2073,6 +2161,14 @@
       "onboard_time": 1704099937,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129277,
+      "num": 129277,
+      "word": "国足vs中国香港",
+      "onboard_time": 1704122139,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 129126,
@@ -2531,6 +2627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 48623,
+      "num": 204129,
+      "word": "小米央视人车家全生态战略合作",
+      "onboard_time": 1704119320,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47472,
       "num": 127474,
       "word": "狗狗的前世可能没忘干净",
@@ -2601,14 +2705,6 @@
       "onboard_time": 1704107919,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 28728,
-      "num": 139256,
-      "word": "小米央视人车家全生态战略合作",
-      "onboard_time": 1704119320,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 27314,
