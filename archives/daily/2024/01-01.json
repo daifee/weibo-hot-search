@@ -1,12 +1,20 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704094439697,
+  "endTime": 1704097344102,
   "band_list": [
     {
       "raw_hot": 12688562,
       "num": 12688562,
       "word": "新年快乐",
       "onboard_time": 1704037678,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8084962,
+      "num": 8084962,
+      "word": "日本地震",
+      "onboard_time": 1704093755,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -27,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3135611,
+      "num": 3135611,
+      "word": "日本强震引发5米海啸",
+      "onboard_time": 1704095075,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2968826,
       "num": 2968826,
       "word": "蔡依林 天后来了",
@@ -41,14 +57,6 @@
       "onboard_time": 1704037559,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2530985,
-      "num": 2530985,
-      "word": "日本地震",
-      "onboard_time": 1704093755,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1880895,
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1420447,
+      "num": 1420447,
+      "word": "日本本州西岸近海7.8级左右地震",
+      "onboard_time": 1704094296,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1317787,
       "num": 1317787,
       "word": "连风都偏爱张小斐",
@@ -185,6 +201,14 @@
       "onboard_time": 1704032475,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1167332,
+      "num": 1167332,
+      "word": "日本今日已连发3次地震",
+      "onboard_time": 1704095795,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1146547,
@@ -475,12 +499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 654119,
+      "num": 654119,
+      "word": "苏醒蹭镜头",
+      "onboard_time": 1704093032,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 652254,
       "num": 652254,
       "word": "屈楚萧整个人都快熟了",
       "onboard_time": 1704084154,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 641346,
+      "num": 641346,
+      "word": "曾毅老师 我都有点嗑你俩了",
+      "onboard_time": 1704094834,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 637196,
@@ -496,14 +536,6 @@
       "word": "白鹿范丞丞牵手合唱",
       "onboard_time": 1704044793,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 593846,
-      "num": 593846,
-      "word": "苏醒蹭镜头",
-      "onboard_time": 1704093032,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -576,6 +608,14 @@
       "word": "新年壁纸",
       "onboard_time": 1704073957,
       "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 489932,
+      "num": 489932,
+      "word": "父母一句话心理医生和朋友全白干",
+      "onboard_time": 1704094296,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -657,14 +697,6 @@
       "onboard_time": 1704042462,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 432898,
-      "num": 432898,
-      "word": "日本本州西岸近海7.8级左右地震",
-      "onboard_time": 1704094296,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 426800,
@@ -867,8 +899,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278461,
-      "num": 278461,
+      "raw_hot": 278576,
+      "num": 278576,
       "word": "北京新年宝宝叫一博",
       "onboard_time": 1704093032,
       "rank": 37,
@@ -923,14 +955,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 247125,
-      "num": 179798,
-      "word": "父母一句话心理医生和朋友全白干",
-      "onboard_time": 1704094296,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 244533,
       "num": 254150,
       "word": "他们经理饿了 就贴我们锅里了",
@@ -961,6 +985,14 @@
       "onboard_time": 1704088775,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229401,
+      "num": 229401,
+      "word": "喝酒脸红的人 心脑血管疾病",
+      "onboard_time": 1704096101,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226954,
@@ -1019,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208146,
+      "num": 208146,
+      "word": "哥们这真不是免费广告位吗",
+      "onboard_time": 1704094895,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205243,
       "num": 178299,
       "word": "这是陆虎陈曌旭恋爱MV吧",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1704064459,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201931,
+      "num": 201931,
+      "word": "周深很幸运可以被看见",
+      "onboard_time": 1704096160,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 199691,
@@ -1139,6 +1187,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 159105,
+      "num": 159105,
+      "word": "LNG对战RA",
+      "onboard_time": 1704089672,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158986,
       "num": 125037,
       "word": "TF家族2024公式照",
@@ -1163,6 +1219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148466,
+      "num": 148466,
+      "word": "唐嫣繁花演技",
+      "onboard_time": 1704096219,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146678,
       "num": 146678,
       "word": "灵隐寺新年一早人从众",
@@ -1185,14 +1249,6 @@
       "onboard_time": 1704071254,
       "rank": 45,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 143089,
-      "num": 143089,
-      "word": "LNG对战RA",
-      "onboard_time": 1704089672,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 142923,
@@ -1291,6 +1347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119153,
+      "num": 119153,
+      "word": "一直以为科目三是明星跳出来的",
+      "onboard_time": 1704096459,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116582,
       "num": 116582,
       "word": "来自武林外传的2024新年贺词",
@@ -1347,6 +1411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104561,
+      "num": 104561,
+      "word": "雷鸣教案存了20多个U盘",
+      "onboard_time": 1704095556,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102940,
       "num": 192646,
       "word": "2024要开心",
@@ -1379,12 +1451,36 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 95875,
+      "num": 95875,
+      "word": "女子孕吐请4天假被开除",
+      "onboard_time": 1704097304,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95496,
       "num": 237672,
       "word": "大蒜呼吸法",
       "onboard_time": 1704079593,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 94295,
+      "num": 94295,
+      "word": "舞剧红楼梦 大梦一场",
+      "onboard_time": 1704095674,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91371,
+      "num": 91371,
+      "word": "高级香水合集",
+      "onboard_time": 1704096101,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 85242,
@@ -1459,6 +1555,14 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 64994,
+      "num": 1968652,
+      "word": "2024年愿美好如约而至",
+      "onboard_time": 1704082353,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64779,
       "num": 369355,
       "word": "废文邀请码",
@@ -1481,14 +1585,6 @@
       "onboard_time": 1704068670,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 62041,
-      "num": 1159997,
-      "word": "2024年愿美好如约而至",
-      "onboard_time": 1704082353,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61426,
@@ -1577,6 +1673,14 @@
       "onboard_time": 1704081632,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 29242,
+      "num": 226277,
+      "word": "2024年的第一台新车",
+      "onboard_time": 1704095315,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 27314,
