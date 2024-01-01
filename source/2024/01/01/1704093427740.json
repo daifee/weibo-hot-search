@@ -1,0 +1,410 @@
+{
+  "runTime": 1704093427740,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1435635,
+        "num": 1435635,
+        "word": "小破站跨年 还是你会玩",
+        "onboard_time": 1704087332,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 954177,
+        "num": 954177,
+        "word": "2024年三倍工资日历",
+        "onboard_time": 1704089794,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 33587,
+        "num": 775517,
+        "word": "2024年愿美好如约而至",
+        "onboard_time": 1704082353,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659807,
+        "num": 659807,
+        "word": "樊振东实名羡慕贾一凡奖金",
+        "onboard_time": 1704089852,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 616624,
+        "num": 616624,
+        "word": "白鹿在生张大大的闷气",
+        "onboard_time": 1704088053,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587996,
+        "num": 587996,
+        "word": "大侦探 正归来",
+        "onboard_time": 1704092370,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450702,
+        "num": 450702,
+        "word": "愿逆风如解意 税后十个亿",
+        "onboard_time": 1704070354,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443163,
+        "num": 443163,
+        "word": "杨迪 他们给的还是太多了",
+        "onboard_time": 1704091411,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414946,
+        "num": 414946,
+        "word": "血型瘦身法",
+        "onboard_time": 1704088413,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 387850,
+        "num": 387850,
+        "word": "连风都偏爱张小斐",
+        "onboard_time": 1704079236,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695839,
+        "num": 381244,
+        "word": "洗草莓时不要摘掉草莓蒂",
+        "onboard_time": 1704085773,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 447289,
+        "num": 373778,
+        "word": "吐槽美甲太丑忘记屏蔽美甲店",
+        "onboard_time": 1704085412,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 346188,
+        "num": 346188,
+        "word": "樊振东2024第一条微博",
+        "onboard_time": 1704082772,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330143,
+        "num": 330143,
+        "word": "王鹤棣宋茜 rapper和他的爱豆女友",
+        "onboard_time": 1704076716,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325007,
+        "num": 325007,
+        "word": "阴阳师 水龙王",
+        "onboard_time": 1704092312,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300867,
+        "num": 300867,
+        "word": "屈楚萧整个人都快熟了",
+        "onboard_time": 1704084154,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291892,
+        "num": 291892,
+        "word": "周深孟子义又唠上了",
+        "onboard_time": 1704091533,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275553,
+        "num": 275553,
+        "word": "丹麦女王宣布将退位",
+        "onboard_time": 1704086314,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 260329,
+        "num": 260329,
+        "word": "跨年收视率",
+        "onboard_time": 1704063919,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257362,
+        "num": 257362,
+        "word": "窦靖童等的不是公交是孙燕姿吧",
+        "onboard_time": 1704087813,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277210,
+        "num": 257025,
+        "word": "为什么小诊所啥病都能治",
+        "onboard_time": 1704085833,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 307671,
+        "num": 256978,
+        "word": "孟子义跑调很突出",
+        "onboard_time": 1704032709,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269015,
+        "num": 256638,
+        "word": "真的相信女生生来就有爱人的能力",
+        "onboard_time": 1704091292,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253061,
+        "num": 253061,
+        "word": "苏醒蹭镜头",
+        "onboard_time": 1704093032,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235127,
+        "num": 235127,
+        "word": "LNG 新年的折磨",
+        "onboard_time": 1704089852,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 252475,
+        "num": 228740,
+        "word": "名侦探柯南",
+        "onboard_time": 1704088472,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220286,
+        "num": 220286,
+        "word": "法老不是要退圈吗",
+        "onboard_time": 1704093032,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167389,
+        "num": 217998,
+        "word": "覃海洋樊振东上榜最佳运动员",
+        "onboard_time": 1704088775,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137271,
+        "num": 204372,
+        "word": "青海海东最后一名地震失联人员被找到",
+        "onboard_time": 1704089554,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74427,
+        "num": 202749,
+        "word": "深圳一步一个瑶妹",
+        "onboard_time": 1704091832,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239404,
+        "num": 195249,
+        "word": "D社 该上班了",
+        "onboard_time": 1704074136,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235106,
+        "num": 184124,
+        "word": "新式神泷",
+        "onboard_time": 1704092912,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180334,
+        "num": 180334,
+        "word": "宋茜王鹤棣亲上了吗",
+        "onboard_time": 1704030245,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175234,
+        "num": 175234,
+        "word": "迪丽热巴新年首套高定",
+        "onboard_time": 1704064339,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171844,
+        "num": 171844,
+        "word": "杨紫李现合照 今夕是何年",
+        "onboard_time": 1704065061,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158900,
+        "num": 158900,
+        "word": "十年了 雷鸣终于清白了",
+        "onboard_time": 1704073476,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153948,
+        "num": 153948,
+        "word": "繁花 A先生",
+        "onboard_time": 1704089609,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149745,
+        "num": 149745,
+        "word": "北京新年宝宝叫一博",
+        "onboard_time": 1704093032,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143959,
+        "num": 143959,
+        "word": "新年壁纸",
+        "onboard_time": 1704073957,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143089,
+        "num": 143089,
+        "word": "LNG对战RA",
+        "onboard_time": 1704089672,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138029,
+        "num": 138029,
+        "word": "生气了王源自己猜",
+        "onboard_time": 1704080855,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136507,
+        "num": 136507,
+        "word": "刘亦菲新年vlog",
+        "onboard_time": 1704083494,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132885,
+        "num": 132885,
+        "word": "沈阳数百人齐跳科目三打破世界纪录",
+        "onboard_time": 1704091473,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126080,
+        "num": 126080,
+        "word": "灵隐寺新年一早人从众",
+        "onboard_time": 1704092791,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 125189,
+        "num": 125189,
+        "word": "光与夜之恋 强娶了",
+        "onboard_time": 1704085715,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125153,
+        "num": 125153,
+        "word": "张万森把林北星背在身上啦",
+        "onboard_time": 1704089312,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121414,
+        "num": 121414,
+        "word": "金手指 看完戒股",
+        "onboard_time": 1704090272,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111734,
+        "num": 111734,
+        "word": "新年快乐",
+        "onboard_time": 1704037678,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65026,
+        "num": 102615,
+        "word": "元梦之星央视跨晚",
+        "onboard_time": 1704091292,
+        "rank": 48,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 120117,
+        "num": 102605,
+        "word": "江苏卫视 设备",
+        "onboard_time": 1704078273,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024新年贺词#"
+    }
+  }
+}
