@@ -1,0 +1,410 @@
+{
+  "runTime": 1704105349486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5985004,
+        "num": 5985004,
+        "word": "日本地震",
+        "onboard_time": 1704093755,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1665186,
+        "num": 1665186,
+        "word": "日本一地火山喷发",
+        "onboard_time": 1704100537,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62066,
+        "num": 1374269,
+        "word": "新年第1天打卡热气腾腾的中国",
+        "onboard_time": 1704103719,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1253118,
+        "num": 1253118,
+        "word": "孟子义叫江苏卫视大哥",
+        "onboard_time": 1704101077,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241506,
+        "num": 921603,
+        "word": "30岁小伙和60岁阿姨处成闺蜜",
+        "onboard_time": 1704102701,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846459,
+        "num": 846459,
+        "word": "美国女子遭家暴报警被警察击毙",
+        "onboard_time": 1704100837,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 824117,
+        "num": 824117,
+        "word": "杨洋 男频",
+        "onboard_time": 1704101020,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 549750,
+        "num": 549750,
+        "word": "曾毅老师 我都有点嗑你俩了",
+        "onboard_time": 1704094834,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399448,
+        "num": 399448,
+        "word": "樊振东2024第一条微博",
+        "onboard_time": 1704082772,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82431,
+        "num": 396649,
+        "word": "足迹2023",
+        "onboard_time": 1704102642,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 631312,
+        "num": 396279,
+        "word": "日本强震引发5米海啸",
+        "onboard_time": 1704095075,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395252,
+        "num": 395252,
+        "word": "林高远 Happy new year",
+        "onboard_time": 1704104259,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80738,
+        "num": 386642,
+        "word": "西湖边跨年夜再现最美牵手",
+        "onboard_time": 1704103420,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396838,
+        "num": 385081,
+        "word": "日本7.4级地震现场画面",
+        "onboard_time": 1704100780,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381404,
+        "num": 381404,
+        "word": "不要再瞎练八段锦了",
+        "onboard_time": 1704103303,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 349173,
+        "num": 349173,
+        "word": "南方小土豆涌入哈市洗浴店爆满",
+        "onboard_time": 1704097660,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335742,
+        "num": 335742,
+        "word": "GALA 哭了",
+        "onboard_time": 1704101137,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 333202,
+        "num": 333202,
+        "word": "洗草莓时不要摘掉草莓蒂",
+        "onboard_time": 1704085773,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 321362,
+        "num": 321362,
+        "word": "吐槽美甲太丑忘记屏蔽美甲店",
+        "onboard_time": 1704085412,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 308104,
+        "num": 308104,
+        "word": "中国驻大阪总领馆提醒中国公民加强防范",
+        "onboard_time": 1704103057,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771307,
+        "num": 299552,
+        "word": "一个月不换的床单有多脏",
+        "onboard_time": 1704100598,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 371926,
+        "num": 297850,
+        "word": "女子孕吐请4天假被开除",
+        "onboard_time": 1704097304,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355200,
+        "num": 293302,
+        "word": "终于到了谈恋爱不怕爸妈知道的年纪",
+        "onboard_time": 1704103303,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287862,
+        "num": 287862,
+        "word": "易烊千玺在网站撒娇",
+        "onboard_time": 1704098619,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77578,
+        "num": 272912,
+        "word": "老人就餐被卡喉幸亏邻桌是医学生",
+        "onboard_time": 1704104561,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270101,
+        "num": 270101,
+        "word": "檀健次衣服不太懂事了",
+        "onboard_time": 1704102701,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238244,
+        "num": 238244,
+        "word": "王鹤棣田曦薇玩萝卜刀",
+        "onboard_time": 1704100537,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232054,
+        "num": 232054,
+        "word": "甘肃敦煌的旅游现在竟如此之冷淡",
+        "onboard_time": 1704103057,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 228281,
+        "num": 228281,
+        "word": "JDG对战TES",
+        "onboard_time": 1704101259,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 225007,
+        "num": 225007,
+        "word": "排便时长应不超10分钟",
+        "onboard_time": 1704102397,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256383,
+        "num": 223603,
+        "word": "李荣浩 去年的事儿先不提了",
+        "onboard_time": 1704104918,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268981,
+        "num": 222183,
+        "word": "宋茜王鹤棣最后一下 雪琴表情",
+        "onboard_time": 1704104739,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219874,
+        "num": 219874,
+        "word": "樊振东实名羡慕贾一凡奖金",
+        "onboard_time": 1704089852,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224293,
+        "num": 219246,
+        "word": "文旅局也找它谈话了吗",
+        "onboard_time": 1704104377,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218024,
+        "num": 218024,
+        "word": "成本14.6元卖6980的复活丹实则淀粉丸",
+        "onboard_time": 1704099161,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216836,
+        "num": 216836,
+        "word": "法老不是要退圈吗",
+        "onboard_time": 1704093032,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208109,
+        "num": 208109,
+        "word": "爷爷赶集忘买泡泡机宝宝抱腿大哭",
+        "onboard_time": 1704102642,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206195,
+        "num": 206195,
+        "word": "存量房贷利率迎来下调",
+        "onboard_time": 1704103962,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203661,
+        "num": 203661,
+        "word": "苏醒蹭镜头",
+        "onboard_time": 1704093032,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201823,
+        "num": 201823,
+        "word": "父母一句话心理医生和朋友全白干",
+        "onboard_time": 1704094296,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192947,
+        "num": 192947,
+        "word": "日本地震亲历者发声",
+        "onboard_time": 1704104680,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190348,
+        "num": 190348,
+        "word": "武汉一家3口的雕塑变成一家5口",
+        "onboard_time": 1704099999,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180778,
+        "num": 180778,
+        "word": "狗狗的耳朵被风吹得软软的",
+        "onboard_time": 1704104318,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169225,
+        "num": 169225,
+        "word": "王一博汪涵大张伟零点拥抱",
+        "onboard_time": 1704103597,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168245,
+        "num": 168245,
+        "word": "大侦探 正归来",
+        "onboard_time": 1704092370,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167990,
+        "num": 167990,
+        "word": "灌篮高手 流川枫",
+        "onboard_time": 1704103903,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 158529,
+        "num": 158529,
+        "word": "B站跨年 补课",
+        "onboard_time": 1704104619,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153377,
+        "num": 153377,
+        "word": "日本今日已连发3次地震",
+        "onboard_time": 1704095795,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146088,
+        "num": 146088,
+        "word": "虞书欣祝绪丹捧花杀青照",
+        "onboard_time": 1704104199,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141865,
+        "num": 141865,
+        "word": "哥们这真不是免费广告位吗",
+        "onboard_time": 1704094895,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年贺词这些话暖人心#"
+    }
+  }
+}
