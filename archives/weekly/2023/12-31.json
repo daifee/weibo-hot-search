@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704090255977,
+  "endTime": 1704091035714,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -1035,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 697100,
+      "num": 697100,
+      "word": "白鹿在生张大大的闷气",
+      "onboard_time": 1704088053,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 695395,
       "num": 695395,
       "word": "生气了王源自己猜",
@@ -1075,20 +1083,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 659450,
-      "num": 659450,
-      "word": "白鹿在生张大大的闷气",
-      "onboard_time": 1704088053,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 652254,
       "num": 652254,
       "word": "屈楚萧整个人都快熟了",
       "onboard_time": 1704084154,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 630206,
+      "num": 630206,
+      "word": "樊振东实名羡慕贾一凡奖金",
+      "onboard_time": 1704089852,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 618141,
@@ -1452,7 +1460,7 @@
     },
     {
       "raw_hot": 467310,
-      "num": 269008,
+      "num": 270301,
       "word": "为什么小诊所啥病都能治",
       "onboard_time": 1704085833,
       "rank": 22,
@@ -1484,7 +1492,7 @@
     },
     {
       "raw_hot": 446733,
-      "num": 348868,
+      "num": 412357,
       "word": "窦靖童等的不是公交是孙燕姿吧",
       "onboard_time": 1704087813,
       "rank": 12,
@@ -1609,6 +1617,14 @@
       "onboard_time": 1703996011,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 387213,
+      "num": 387213,
+      "word": "血型瘦身法",
+      "onboard_time": 1704088413,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 385713,
@@ -1779,22 +1795,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 331155,
-      "num": 331155,
-      "word": "血型瘦身法",
-      "onboard_time": 1704088413,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 330654,
-      "num": 330654,
-      "word": "樊振东实名羡慕贾一凡奖金",
-      "onboard_time": 1704089852,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 330599,
       "num": 228995,
       "word": "睡觉频繁出现这5种表现要留意",
@@ -1825,6 +1825,14 @@
       "onboard_time": 1704015271,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 316490,
+      "num": 316490,
+      "word": "名侦探柯南",
+      "onboard_time": 1704088472,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 310440,
@@ -1955,6 +1963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 288308,
+      "num": 288308,
+      "word": "2024年三倍工资日历",
+      "onboard_time": 1704089794,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 286420,
       "num": 273484,
       "word": "戚薇李承铉 真夫妻",
@@ -2025,14 +2041,6 @@
       "onboard_time": 1704077792,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275041,
-      "num": 275041,
-      "word": "名侦探柯南",
-      "onboard_time": 1704088472,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 274541,
@@ -2185,6 +2193,14 @@
       "onboard_time": 1704030602,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248262,
+      "num": 248262,
+      "word": "LNG 新年的折磨",
+      "onboard_time": 1704089852,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 246725,
@@ -2347,6 +2363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220303,
+      "num": 191497,
+      "word": "繁花 A先生",
+      "onboard_time": 1704089609,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220057,
       "num": 220057,
       "word": "袁天罡 美强惨",
@@ -2449,22 +2473,6 @@
       "onboard_time": 1704078876,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208658,
-      "num": 208658,
-      "word": "LNG 新年的折磨",
-      "onboard_time": 1704089852,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 208460,
-      "num": 191497,
-      "word": "繁花 A先生",
-      "onboard_time": 1704089609,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 207663,
@@ -2641,6 +2649,14 @@
       "onboard_time": 1703989651,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 191859,
+      "num": 162124,
+      "word": "金手指 看完戒股",
+      "onboard_time": 1704090272,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 190769,
@@ -3419,14 +3435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 134306,
-      "num": 134306,
-      "word": "2024年三倍工资日历",
-      "onboard_time": 1704089794,
-      "rank": 45,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 133208,
       "num": 133208,
       "word": "陈梦 新的一年一起努力加油",
@@ -3531,6 +3539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126567,
+      "num": 126567,
+      "word": "詹姆斯1分钟连得9分",
+      "onboard_time": 1704087695,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126511,
       "num": 126511,
       "word": "德杯",
@@ -3569,14 +3585,6 @@
       "onboard_time": 1704031872,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124561,
-      "num": 124561,
-      "word": "詹姆斯1分钟连得9分",
-      "onboard_time": 1704087695,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 124518,
@@ -3705,6 +3713,14 @@
       "onboard_time": 1703992110,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116582,
+      "num": 116582,
+      "word": "来自武林外传的2024新年贺词",
+      "onboard_time": 1704090995,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 116057,
@@ -3836,7 +3852,7 @@
     },
     {
       "raw_hot": 106939,
-      "num": 106939,
+      "num": 114039,
       "word": "峨眉山的吗喽都有对象了",
       "onboard_time": 1704088472,
       "rank": 49,
@@ -3985,6 +4001,14 @@
       "onboard_time": 1703953886,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95745,
+      "num": 114876,
+      "word": "青海海东最后一名地震失联人员被找到",
+      "onboard_time": 1704089554,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95696,
@@ -4283,6 +4307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52111,
+      "num": 371468,
+      "word": "王一博跨年舞台又来了",
+      "onboard_time": 1704088834,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51022,
       "num": 102163,
       "word": "2024年元旦升旗",
@@ -4473,14 +4505,6 @@
       "onboard_time": 1704016835,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 30236,
-      "num": 338273,
-      "word": "王一博跨年舞台又来了",
-      "onboard_time": 1704088834,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 30098,

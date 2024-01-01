@@ -1,0 +1,410 @@
+{
+  "runTime": 1704091035714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1680017,
+        "num": 1680017,
+        "word": "小破站跨年 还是你会玩",
+        "onboard_time": 1704087332,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697100,
+        "num": 697100,
+        "word": "白鹿在生张大大的闷气",
+        "onboard_time": 1704088053,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34851,
+        "num": 674887,
+        "word": "2024年愿美好如约而至",
+        "onboard_time": 1704082353,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672748,
+        "num": 672748,
+        "word": "丹麦女王宣布将退位",
+        "onboard_time": 1704086314,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 630206,
+        "num": 630206,
+        "word": "樊振东实名羡慕贾一凡奖金",
+        "onboard_time": 1704089852,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 567408,
+        "num": 567408,
+        "word": "愿逆风如解意 税后十个亿",
+        "onboard_time": 1704070354,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 551155,
+        "num": 551155,
+        "word": "樊振东2024第一条微博",
+        "onboard_time": 1704082772,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547796,
+        "num": 547796,
+        "word": "连风都偏爱张小斐",
+        "onboard_time": 1704079236,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492406,
+        "num": 492406,
+        "word": "跨年收视率",
+        "onboard_time": 1704063919,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445014,
+        "num": 445014,
+        "word": "屈楚萧整个人都快熟了",
+        "onboard_time": 1704084154,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 943725,
+        "num": 441593,
+        "word": "洗草莓时不要摘掉草莓蒂",
+        "onboard_time": 1704085773,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 567922,
+        "num": 435047,
+        "word": "吐槽美甲太丑忘记屏蔽美甲店",
+        "onboard_time": 1704085412,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 412357,
+        "num": 412357,
+        "word": "窦靖童等的不是公交是孙燕姿吧",
+        "onboard_time": 1704087813,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387213,
+        "num": 387213,
+        "word": "血型瘦身法",
+        "onboard_time": 1704088413,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52111,
+        "num": 371468,
+        "word": "王一博跨年舞台又来了",
+        "onboard_time": 1704088834,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370484,
+        "num": 370484,
+        "word": "王鹤棣宋茜 rapper和他的爱豆女友",
+        "onboard_time": 1704076716,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316490,
+        "num": 316490,
+        "word": "名侦探柯南",
+        "onboard_time": 1704088472,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300894,
+        "num": 300894,
+        "word": "光与夜之恋 强娶了",
+        "onboard_time": 1704085715,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298088,
+        "num": 298088,
+        "word": "生气了王源自己猜",
+        "onboard_time": 1704080855,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288308,
+        "num": 288308,
+        "word": "2024年三倍工资日历",
+        "onboard_time": 1704089794,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 422773,
+        "num": 270301,
+        "word": "为什么小诊所啥病都能治",
+        "onboard_time": 1704085833,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 377788,
+        "num": 263343,
+        "word": "孟子义跑调很突出",
+        "onboard_time": 1704032709,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248262,
+        "num": 248262,
+        "word": "LNG 新年的折磨",
+        "onboard_time": 1704089852,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239636,
+        "num": 239636,
+        "word": "迪丽热巴新年首套高定",
+        "onboard_time": 1704064339,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220154,
+        "num": 220154,
+        "word": "2024年确定为中朝友好年",
+        "onboard_time": 1704075636,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230919,
+        "num": 210256,
+        "word": "杨紫李现合照 今夕是何年",
+        "onboard_time": 1704065061,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228189,
+        "num": 205768,
+        "word": "宋茜王鹤棣亲上了吗",
+        "onboard_time": 1704030245,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227543,
+        "num": 200993,
+        "word": "十年了 雷鸣终于清白了",
+        "onboard_time": 1704073476,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195747,
+        "num": 195747,
+        "word": "新年壁纸",
+        "onboard_time": 1704073957,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185797,
+        "num": 185797,
+        "word": "覃海洋樊振东上榜最佳运动员",
+        "onboard_time": 1704088775,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326800,
+        "num": 181694,
+        "word": "D社 该上班了",
+        "onboard_time": 1704074136,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220303,
+        "num": 178494,
+        "word": "繁花 A先生",
+        "onboard_time": 1704089609,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193803,
+        "num": 177524,
+        "word": "刘亦菲新年vlog",
+        "onboard_time": 1704083494,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174837,
+        "num": 174837,
+        "word": "新年快乐",
+        "onboard_time": 1704037678,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163113,
+        "num": 163113,
+        "word": "中国乒乓球队元旦祝福",
+        "onboard_time": 1704086192,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191859,
+        "num": 162124,
+        "word": "金手指 看完戒股",
+        "onboard_time": 1704090272,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176477,
+        "num": 159928,
+        "word": "江苏卫视 设备",
+        "onboard_time": 1704078273,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135630,
+        "num": 135630,
+        "word": "LNG对战RA",
+        "onboard_time": 1704089672,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126567,
+        "num": 126567,
+        "word": "詹姆斯1分钟连得9分",
+        "onboard_time": 1704087695,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120876,
+        "num": 120876,
+        "word": "武汉跨年气球碰电线炸出火花",
+        "onboard_time": 1704084635,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161627,
+        "num": 120874,
+        "word": "张万森把林北星背在身上啦",
+        "onboard_time": 1704089312,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147320,
+        "num": 120864,
+        "word": "鹿晗空降发歌",
+        "onboard_time": 1704080015,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142684,
+        "num": 120863,
+        "word": "这是陆虎陈曌旭恋爱MV吧",
+        "onboard_time": 1704086974,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141394,
+        "num": 120850,
+        "word": "孟子义开口吓死我了",
+        "onboard_time": 1704034090,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120850,
+        "num": 120849,
+        "word": "跨年夜被迫挤地铁的警犬",
+        "onboard_time": 1704076475,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116976,
+        "num": 116976,
+        "word": "上海迪士尼发文致歉",
+        "onboard_time": 1704025247,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 116582,
+        "num": 116582,
+        "word": "来自武林外传的2024新年贺词",
+        "onboard_time": 1704090995,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114908,
+        "num": 114908,
+        "word": "罗非鱼皮移植",
+        "onboard_time": 1704081575,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 95745,
+        "num": 114876,
+        "word": "青海海东最后一名地震失联人员被找到",
+        "onboard_time": 1704089554,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91471,
+        "num": 114039,
+        "word": "峨眉山的吗喽都有对象了",
+        "onboard_time": 1704088472,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024新年贺词#"
+    }
+  }
+}
