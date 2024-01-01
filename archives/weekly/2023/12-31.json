@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704080072882,
+  "endTime": 1704082912201,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1317787,
+      "num": 1317787,
+      "word": "连风都偏爱张小斐",
+      "onboard_time": 1704079236,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1275914,
       "num": 1275914,
       "word": "江苏卫视跨年节目单",
@@ -700,7 +708,7 @@
     },
     {
       "raw_hot": 922842,
-      "num": 416218,
+      "num": 419530,
       "word": "为裁员西安某公司从CBD搬进秦岭山区",
       "onboard_time": 1704066266,
       "rank": 11,
@@ -979,12 +987,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 695395,
+      "num": 695395,
+      "word": "生气了王源自己猜",
+      "onboard_time": 1704080855,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 693378,
       "num": 693378,
       "word": "冬天穿羽绒服就扎高马尾",
       "onboard_time": 1703985810,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 664041,
+      "num": 664041,
+      "word": "十年了 雷鸣终于清白了",
+      "onboard_time": 1704073476,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 661748,
@@ -1040,14 +1064,6 @@
       "word": "B站是童年回忆杀吧",
       "onboard_time": 1704025852,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 600964,
-      "num": 600964,
-      "word": "连风都偏爱张小斐",
-      "onboard_time": 1704079236,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -1299,14 +1315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 481216,
-      "num": 386762,
-      "word": "十年了 雷鸣终于清白了",
-      "onboard_time": 1704073476,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 478403,
       "num": 311782,
       "word": "张凌赫 语音回复",
@@ -1337,6 +1345,22 @@
       "onboard_time": 1703982689,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 475570,
+      "num": 456980,
+      "word": "鹿晗空降发歌",
+      "onboard_time": 1704080015,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 474051,
+      "num": 474051,
+      "word": "元旦加班3倍工资",
+      "onboard_time": 1704076716,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 470395,
@@ -1451,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418635,
+      "num": 418635,
+      "word": "何老师 大米爆代表",
+      "onboard_time": 1704078755,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400534,
       "num": 400534,
       "word": "中等生为什么成绩上不去",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1703991332,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359112,
+      "num": 227967,
+      "word": "罗非鱼皮移植",
+      "onboard_time": 1704081575,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 356487,
@@ -1683,14 +1723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 324641,
-      "num": 324641,
-      "word": "何老师 大米爆代表",
-      "onboard_time": 1704078755,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 318819,
       "num": 535486,
       "word": "中俄两国元首互致新年贺电",
@@ -1721,6 +1753,14 @@
       "onboard_time": 1703985150,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308491,
+      "num": 241420,
+      "word": "屋顶着火直拍",
+      "onboard_time": 1704081934,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 307389,
@@ -1883,14 +1923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279481,
-      "num": 279481,
-      "word": "元旦加班3倍工资",
-      "onboard_time": 1704076716,
-      "rank": 34,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 274541,
       "num": 274541,
       "word": "红白歌会节目单",
@@ -2009,14 +2041,6 @@
       "onboard_time": 1703996249,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251775,
-      "num": 251775,
-      "word": "鹿晗空降发歌",
-      "onboard_time": 1704080015,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 251749,
@@ -2451,6 +2475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189975,
+      "num": 249891,
+      "word": "为什么童谣里一般都唱外婆",
+      "onboard_time": 1704080316,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189867,
       "num": 274849,
       "word": "当东北出现68的锅包肉后",
@@ -2480,6 +2512,14 @@
       "word": "湖人不敌鹈鹕",
       "onboard_time": 1704078455,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188462,
+      "num": 223840,
+      "word": "樊振东2024第一条微博",
+      "onboard_time": 1704082772,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -2537,6 +2577,14 @@
       "onboard_time": 1704008190,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182266,
+      "num": 247933,
+      "word": "广州成都深圳成元旦假期最火城市",
+      "onboard_time": 1704080134,
+      "rank": 24,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 182074,
@@ -2729,6 +2777,14 @@
       "onboard_time": 1704013712,
       "rank": 39,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 162723,
+      "num": 217514,
+      "word": "西双版纳的化妆师都会魔法吧",
+      "onboard_time": 1704081157,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 161978,
@@ -3027,6 +3083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142537,
+      "num": 238569,
+      "word": "奶奶的爱跨千山万水而来",
+      "onboard_time": 1704081873,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142310,
       "num": 142310,
       "word": "金手指 从偷渡客到百亿巨鳄",
@@ -3097,6 +3161,14 @@
       "onboard_time": 1703986950,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138352,
+      "num": 244429,
+      "word": "越南网红教的捕猎方法",
+      "onboard_time": 1704079836,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 136706,
@@ -3451,14 +3523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 112764,
-      "num": 244429,
-      "word": "越南网红教的捕猎方法",
-      "onboard_time": 1704079836,
-      "rank": 45,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 112399,
       "num": 112399,
       "word": "宋茜爆闪开年妆",
@@ -3555,6 +3619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105742,
+      "num": 233124,
+      "word": "张艺兴新年开门红",
+      "onboard_time": 1704082353,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104593,
       "num": 1528946,
       "word": "2023手机里最舍不得删的照片",
@@ -3585,6 +3657,14 @@
       "onboard_time": 1703991872,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102940,
+      "num": 192646,
+      "word": "2024要开心",
+      "onboard_time": 1704081275,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 102718,
@@ -3931,6 +4011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54444,
+      "num": 951164,
+      "word": "2024年愿美好如约而至",
+      "onboard_time": 1704082353,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53567,
       "num": 65153,
       "word": "hot summer热冬",
@@ -4000,6 +4088,14 @@
       "word": "老师我们家周深在升降台上起不来了",
       "onboard_time": 1703941353,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46257,
+      "num": 250731,
+      "word": "周深千灯之约舞台",
+      "onboard_time": 1704079777,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -4131,6 +4227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26801,
+      "num": 419058,
+      "word": "浮生忆玲珑预捏脸",
+      "onboard_time": 1704081632,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26396,
       "num": 26396,
       "word": "王家卫好会拍美女",
@@ -4161,14 +4265,6 @@
       "onboard_time": 1703980706,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22620,
-      "num": 250731,
-      "word": "周深千灯之约舞台",
-      "onboard_time": 1704079777,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 19577,
