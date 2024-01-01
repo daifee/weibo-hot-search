@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/02 03:34:04
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/02 04:17:57
 </p>
 </blockquote>
 <p>
@@ -1215,6 +1215,12 @@ JDG对战TES战歌起（热度：224231）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91%23" target="weibo">
+今天凌晨太阳爆发一个强耀斑（热度：208768）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%8F%B0%E5%A4%A7%E6%B9%BE%E5%8C%BA%E6%96%B0%E5%B9%B4%E9%9F%B3%E4%B9%90%E4%BC%9A%23" target="weibo">
 总台大湾区新年音乐会（热度：208501）
 </a>
@@ -1805,12 +1811,6 @@ LOL（热度：121608）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23CBA%23" target="weibo">
 CBA（热度：108900）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%9F%B3%E5%B7%9D%E5%8E%BF%E9%87%91%E6%B3%BD%E8%BD%A6%E7%AB%99%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88%23" target="weibo">
-日本石川县金泽车站震感强烈（热度：107637）
 </a>
 </li>
 

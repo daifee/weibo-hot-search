@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704137644679,
+  "endTime": 1704140277688,
   "band_list": [
     {
       "raw_hot": 1154352,
@@ -145,6 +145,14 @@
       "onboard_time": 1704116922,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208768,
+      "num": 208768,
+      "word": "今天凌晨太阳爆发一个强耀斑",
+      "onboard_time": 1704136395,
+      "rank": 49,
+      "category": "自然"
     },
     {
       "raw_hot": 181253,
@@ -435,14 +443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 47623,
-      "num": 47623,
-      "word": "今天凌晨太阳爆发一个强耀斑",
-      "onboard_time": 1704136395,
-      "rank": 49,
-      "category": "自然"
-    },
-    {
       "raw_hot": 45601,
       "num": 737794,
       "word": "元旦起这些新规施行",
@@ -484,10 +484,18 @@
     },
     {
       "raw_hot": 11445,
-      "num": 17138,
+      "num": 20074,
       "word": "凤凰传奇嗨翻",
       "onboard_time": 1704137535,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 11064,
+      "num": 20148,
+      "word": "小野丽莎吴青峰合唱",
+      "onboard_time": 1704137894,
+      "rank": 42,
       "category": "综艺"
     }
   ],

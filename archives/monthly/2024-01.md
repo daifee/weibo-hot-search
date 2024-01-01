@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/02 03:34:04
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/02 04:17:57
 </p>
 </blockquote>
 <p>
@@ -1215,6 +1215,12 @@ JDG对战TES战歌起（热度：224231）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91%23" target="weibo">
+今天凌晨太阳爆发一个强耀斑（热度：208768）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%8F%B0%E5%A4%A7%E6%B9%BE%E5%8C%BA%E6%96%B0%E5%B9%B4%E9%9F%B3%E4%B9%90%E4%BC%9A%23" target="weibo">
 总台大湾区新年音乐会（热度：208501）
 </a>
@@ -2067,12 +2073,6 @@ hot summer热冬（热度：53567）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91%23" target="weibo">
-今天凌晨太阳爆发一个强耀斑（热度：47623）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E7%9A%84%E5%89%8D%E4%B8%96%E5%8F%AF%E8%83%BD%E6%B2%A1%E5%BF%98%E5%B9%B2%E5%87%80%23" target="weibo">
 狗狗的前世可能没忘干净（热度：47472）
 </a>
@@ -2171,6 +2171,12 @@ cos的风还是吹到了霉霉大电影（热度：25338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%97%A8%E7%BF%BB%23" target="weibo">
 凤凰传奇嗨翻（热度：11445）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%87%8E%E4%B8%BD%E8%8E%8E%E5%90%B4%E9%9D%92%E5%B3%B0%E5%90%88%E5%94%B1%23" target="weibo">
+小野丽莎吴青峰合唱（热度：11064）
 </a>
 </li>
 
