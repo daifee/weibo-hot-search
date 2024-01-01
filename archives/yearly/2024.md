@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/02 05:34:06
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/02 06:16:58
 </p>
 </blockquote>
 <p>
@@ -867,6 +867,12 @@ JDG战胜TES（热度：502747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91%23" target="weibo">
+今天凌晨太阳爆发一个强耀斑（热度：347498）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%83%BD%E7%99%BB%E5%9C%B0%E5%8C%BA%E7%9F%AD%E6%97%B6%E9%97%B4%E5%86%85%E8%BF%9E%E5%8F%917%E6%AC%A1%E5%9C%B0%E9%9C%87%23" target="weibo">
 日本能登地区短时间内连发7次地震（热度：343204）
 </a>
@@ -1157,12 +1163,6 @@ LNG 新年的折磨（热度：248262）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98TES%E6%88%98%E6%AD%8C%E8%B5%B7%23" target="weibo">
 JDG对战TES战歌起（热度：224231）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91%23" target="weibo">
-今天凌晨太阳爆发一个强耀斑（热度：223635）
 </a>
 </li>
 

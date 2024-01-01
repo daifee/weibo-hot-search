@@ -1,0 +1,410 @@
+{
+  "runTime": 1704147418985,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 347498,
+        "num": 347498,
+        "word": "今天凌晨太阳爆发一个强耀斑",
+        "onboard_time": 1704136395,
+        "rank": 0,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 117125,
+        "num": 117125,
+        "word": "一个月不换的床单有多脏",
+        "onboard_time": 1704100598,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 12576,
+        "num": 106363,
+        "word": "元旦起这些新规施行",
+        "onboard_time": 1704103420,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99806,
+        "num": 99806,
+        "word": "iPhone为什么只有P大写",
+        "onboard_time": 1704121303,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94861,
+        "num": 94861,
+        "word": "男子2000买金包银首饰典当5.3万",
+        "onboard_time": 1704121602,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84088,
+        "num": 84088,
+        "word": "汪小姐没等到宝总",
+        "onboard_time": 1704125911,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82057,
+        "num": 82057,
+        "word": "压力过大衰老速度比常人快6倍",
+        "onboard_time": 1704141734,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63070,
+        "num": 63070,
+        "word": "从此排骨是排骨 年糕是年糕",
+        "onboard_time": 1704121419,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60175,
+        "num": 60175,
+        "word": "美国女子遭家暴报警被警察击毙",
+        "onboard_time": 1704100837,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49800,
+        "num": 49800,
+        "word": "魏大勋一下台就去撸串了",
+        "onboard_time": 1704125373,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156118,
+        "num": 47318,
+        "word": "日本气象厅修正地震震度",
+        "onboard_time": 1704119801,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57095,
+        "num": 44761,
+        "word": "网红欧可爱因车祸溺水离世",
+        "onboard_time": 1704109476,
+        "rank": 11,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 41310,
+        "num": 41310,
+        "word": "天价麻辣烫",
+        "onboard_time": 1704110681,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103166,
+        "num": 40827,
+        "word": "日本地震已经造成至少2人受伤",
+        "onboard_time": 1704119563,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40253,
+        "num": 40253,
+        "word": "张文逝世",
+        "onboard_time": 1704115300,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38877,
+        "num": 38877,
+        "word": "黄景瑜零点跨年去哪儿了",
+        "onboard_time": 1704130700,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82764,
+        "num": 37218,
+        "word": "日本两小时内发生了40多次地震",
+        "onboard_time": 1704118902,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35519,
+        "num": 35519,
+        "word": "胡歌 第一个吻戏是咸的",
+        "onboard_time": 1704121060,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31464,
+        "num": 31464,
+        "word": "宋茜王鹤棣最后一下 雪琴表情",
+        "onboard_time": 1704104739,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47964,
+        "num": 31419,
+        "word": "日本地震",
+        "onboard_time": 1704093755,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31140,
+        "num": 31140,
+        "word": "国足vs中国香港",
+        "onboard_time": 1704122139,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29614,
+        "num": 29614,
+        "word": "刘德华陪孩子写作业也会鸡飞狗跳",
+        "onboard_time": 1704107738,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28172,
+        "num": 28172,
+        "word": "航拍日本轮岛市震后大规模火灾现场",
+        "onboard_time": 1704121541,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25990,
+        "num": 25990,
+        "word": "洗草莓时不要摘掉草莓蒂",
+        "onboard_time": 1704085773,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24857,
+        "num": 24857,
+        "word": "CBA",
+        "onboard_time": 1704124355,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27026,
+        "num": 24645,
+        "word": "日本华人讲述地震灾情",
+        "onboard_time": 1704124834,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24405,
+        "num": 24405,
+        "word": "2024朋友圈背景图",
+        "onboard_time": 1704121419,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23860,
+        "num": 23860,
+        "word": "繁花 范志毅",
+        "onboard_time": 1704118662,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24984,
+        "num": 23841,
+        "word": "日本7.4级地震现场画面",
+        "onboard_time": 1704100780,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22655,
+        "num": 22655,
+        "word": "不要再瞎练八段锦了",
+        "onboard_time": 1704103303,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 20152,
+        "num": 20152,
+        "word": "女子孕吐请4天假被开除",
+        "onboard_time": 1704097304,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19770,
+        "num": 19770,
+        "word": "惊恐的雪琴和淡定的耀庆",
+        "onboard_time": 1704122857,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18579,
+        "num": 19770,
+        "word": "檀健次秦霄贤吴泽林 真的惊到我了",
+        "onboard_time": 1704122319,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16189,
+        "num": 19763,
+        "word": "凤隐大婚休夫",
+        "onboard_time": 1704120339,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15863,
+        "num": 19761,
+        "word": "跨年档票房",
+        "onboard_time": 1704123696,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15240,
+        "num": 19757,
+        "word": "樊振东说无队内cp",
+        "onboard_time": 1704109901,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14744,
+        "num": 19752,
+        "word": "孟子义叫江苏卫视大哥",
+        "onboard_time": 1704101077,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13674,
+        "num": 19750,
+        "word": "卡琳娜有笑容了",
+        "onboard_time": 1704109476,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 13616,
+        "num": 19745,
+        "word": "三大队",
+        "onboard_time": 1704125850,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13560,
+        "num": 19738,
+        "word": "LOL",
+        "onboard_time": 1704124355,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13254,
+        "num": 19736,
+        "word": "杨洋 男频",
+        "onboard_time": 1704101020,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13035,
+        "num": 19731,
+        "word": "日本一地火山喷发",
+        "onboard_time": 1704100537,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13018,
+        "num": 19726,
+        "word": "容祖儿想认宋亚轩当干儿子",
+        "onboard_time": 1704128424,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13018,
+        "num": 19724,
+        "word": "檀健次李兰迪CP感",
+        "onboard_time": 1704126749,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12187,
+        "num": 19719,
+        "word": "龚俊 新装的四肢",
+        "onboard_time": 1704133518,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11757,
+        "num": 19714,
+        "word": "垃圾line永存",
+        "onboard_time": 1704133757,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11754,
+        "num": 19713,
+        "word": "cos的风还是吹到了霉霉大电影",
+        "onboard_time": 1704133997,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11646,
+        "num": 19705,
+        "word": "繁花",
+        "onboard_time": 1704113680,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11594,
+        "num": 19701,
+        "word": "年会不能停",
+        "onboard_time": 1704121781,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10338,
+        "num": 19701,
+        "word": "JDG战胜TES",
+        "onboard_time": 1704114821,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024新年贺词#"
+    }
+  }
+}

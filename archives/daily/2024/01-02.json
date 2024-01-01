@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704144846377,
+  "endTime": 1704147418985,
   "band_list": [
     {
       "raw_hot": 1154352,
@@ -65,6 +65,14 @@
       "onboard_time": 1704118902,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347498,
+      "num": 347498,
+      "word": "今天凌晨太阳爆发一个强耀斑",
+      "onboard_time": 1704136395,
+      "rank": 49,
+      "category": "自然"
     },
     {
       "raw_hot": 342126,
@@ -137,14 +145,6 @@
       "onboard_time": 1704104739,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223635,
-      "num": 223635,
-      "word": "今天凌晨太阳爆发一个强耀斑",
-      "onboard_time": 1704136395,
-      "rank": 49,
-      "category": "自然"
     },
     {
       "raw_hot": 221658,
@@ -347,6 +347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82057,
+      "num": 82057,
+      "word": "压力过大衰老速度比常人快6倍",
+      "onboard_time": 1704141734,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 81236,
       "num": 86616,
       "word": "陶喆 蝴蝶",
@@ -457,14 +465,6 @@
       "onboard_time": 1704133518,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25892,
-      "num": 25892,
-      "word": "压力过大衰老速度比常人快6倍",
-      "onboard_time": 1704141734,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 25338,

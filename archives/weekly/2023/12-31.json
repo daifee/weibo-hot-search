@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704144846377,
+  "endTime": 1704147418985,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -2147,6 +2147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 347498,
+      "num": 347498,
+      "word": "今天凌晨太阳爆发一个强耀斑",
+      "onboard_time": 1704136395,
+      "rank": 49,
+      "category": "自然"
+    },
+    {
       "raw_hot": 345575,
       "num": 345575,
       "word": "刘宇宁 奉上全开麦直拍",
@@ -3001,14 +3009,6 @@
       "onboard_time": 1704114639,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 223635,
-      "num": 223635,
-      "word": "今天凌晨太阳爆发一个强耀斑",
-      "onboard_time": 1704136395,
-      "rank": 49,
-      "category": "自然"
     },
     {
       "raw_hot": 220426,
@@ -5411,6 +5411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82057,
+      "num": 82057,
+      "word": "压力过大衰老速度比常人快6倍",
+      "onboard_time": 1704141734,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 81251,
       "num": 81251,
       "word": "尼克斯猛龙交易",
@@ -5905,14 +5913,6 @@
       "onboard_time": 1703964075,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25892,
-      "num": 25892,
-      "word": "压力过大衰老速度比常人快6倍",
-      "onboard_time": 1704141734,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 25338,
