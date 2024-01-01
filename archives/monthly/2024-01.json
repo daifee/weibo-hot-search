@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704115219779,
+  "endTime": 1704116036564,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -59,20 +59,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2293822,
+      "num": 2293822,
+      "word": "一个月不换的床单有多脏",
+      "onboard_time": 1704100598,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 2087562,
       "num": 2087562,
       "word": "网红欧可爱因车祸溺水离世",
       "onboard_time": 1704109476,
       "rank": 0,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 1985499,
-      "num": 1985499,
-      "word": "一个月不换的床单有多脏",
-      "onboard_time": 1704100598,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1880895,
@@ -571,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 681118,
+      "num": 322337,
+      "word": "日本连续地震前乌鸦满天飞",
+      "onboard_time": 1704112840,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 678307,
       "num": 678307,
       "word": "十年了 雷鸣终于清白了",
@@ -640,14 +648,6 @@
       "word": "跨年",
       "onboard_time": 1704024106,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 625586,
-      "num": 322337,
-      "word": "日本连续地震前乌鸦满天飞",
-      "onboard_time": 1704112840,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -763,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502747,
+      "num": 502747,
+      "word": "JDG战胜TES",
+      "onboard_time": 1704114821,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 500881,
       "num": 500881,
       "word": "易烊千玺在网站撒娇",
@@ -793,14 +801,6 @@
       "onboard_time": 1704094296,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 482074,
-      "num": 482074,
-      "word": "JDG战胜TES",
-      "onboard_time": 1704114821,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 478403,
@@ -1227,20 +1227,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266272,
+      "num": 266272,
+      "word": "刘德华陪孩子写作业也会鸡飞狗跳",
+      "onboard_time": 1704107738,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 264857,
       "num": 1033152,
       "word": "老人就餐被卡喉幸亏邻桌是医学生",
       "onboard_time": 1704104561,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261827,
-      "num": 261827,
-      "word": "刘德华陪孩子写作业也会鸡飞狗跳",
-      "onboard_time": 1704107738,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 261792,
@@ -1435,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208501,
+      "num": 208501,
+      "word": "总台大湾区新年音乐会",
+      "onboard_time": 1704112540,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207738,
       "num": 207738,
       "word": "一直以为科目三是明星跳出来的",
@@ -1475,14 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203751,
-      "num": 203751,
-      "word": "总台大湾区新年音乐会",
-      "onboard_time": 1704112540,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202407,
       "num": 202407,
       "word": "kms线下签售",
@@ -1497,6 +1497,22 @@
       "onboard_time": 1704096160,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200987,
+      "num": 200987,
+      "word": "繁花",
+      "onboard_time": 1704113680,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200313,
+      "num": 200313,
+      "word": "跨年无人机表演取消主办方下跪道歉",
+      "onboard_time": 1704115539,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199691,
@@ -1529,6 +1545,14 @@
       "onboard_time": 1704107861,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193202,
+      "num": 193202,
+      "word": "张文逝世",
+      "onboard_time": 1704115300,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192947,
@@ -1571,14 +1595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188808,
-      "num": 188808,
-      "word": "繁花",
-      "onboard_time": 1704113680,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188767,
       "num": 247933,
       "word": "广州成都深圳成元旦假期最火城市",
@@ -1609,6 +1625,14 @@
       "onboard_time": 1704073536,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 180817,
+      "num": 180817,
+      "word": "张靓颖没有汇率的E6",
+      "onboard_time": 1704114639,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 180778,
@@ -1691,6 +1715,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 166696,
+      "num": 166696,
+      "word": "年会不能停 超出预期",
+      "onboard_time": 1704113440,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165137,
       "num": 190177,
       "word": "一些旺自己的小玄学",
@@ -1737,14 +1769,6 @@
       "onboard_time": 1704113138,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160315,
-      "num": 160315,
-      "word": "张靓颖没有汇率的E6",
-      "onboard_time": 1704114639,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 159349,
@@ -1803,20 +1827,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 151714,
+      "num": 151714,
+      "word": "英雄联盟",
+      "onboard_time": 1704115241,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150976,
       "num": 150976,
       "word": "唐嫣繁花演技",
       "onboard_time": 1704096219,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150615,
-      "num": 150615,
-      "word": "年会不能停 超出预期",
-      "onboard_time": 1704113440,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 150223,
@@ -1971,6 +1995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130353,
+      "num": 130353,
+      "word": "九岁女孩放学后在校门口练拳热身",
+      "onboard_time": 1704114580,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129126,
       "num": 133941,
       "word": "太阳三巨头合砍77分",
@@ -2027,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121999,
+      "num": 121999,
+      "word": "JDG晋级德杯四强",
+      "onboard_time": 1704115899,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121651,
       "num": 121651,
       "word": "小鹏X9",
@@ -2049,14 +2089,6 @@
       "onboard_time": 1704092970,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119897,
-      "num": 119897,
-      "word": "九岁女孩放学后在校门口练拳热身",
-      "onboard_time": 1704114580,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116582,
@@ -2379,6 +2411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51994,
+      "num": 559422,
+      "word": "元旦起这些新规施行",
+      "onboard_time": 1704103420,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51022,
       "num": 102163,
       "word": "2024年元旦升旗",
@@ -2475,16 +2515,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21983,
-      "num": 500759,
-      "word": "元旦起这些新规施行",
-      "onboard_time": 1704103420,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21617,
-      "num": 190378,
+      "raw_hot": 22575,
+      "num": 200331,
       "word": "小鹏真智驾 疯狂200城",
       "onboard_time": 1704114337,
       "rank": 29,
