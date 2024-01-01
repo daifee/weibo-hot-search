@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704086296906,
+  "endTime": 1704087256772,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1543055,
+      "num": 639771,
+      "word": "吐槽美甲太丑忘记屏蔽美甲店",
+      "onboard_time": 1704085412,
+      "rank": 10,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1514250,
       "num": 1514250,
       "word": "江苏卫视 设备",
@@ -667,14 +675,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 980189,
-      "num": 544918,
-      "word": "吐槽美甲太丑忘记屏蔽美甲店",
-      "onboard_time": 1704085412,
-      "rank": 10,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 971992,
       "num": 971992,
       "word": "跨年收视率",
@@ -713,6 +713,14 @@
       "onboard_time": 1704035409,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 926570,
+      "num": 543255,
+      "word": "洗草莓时不要摘掉草莓蒂",
+      "onboard_time": 1704085773,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 922842,
@@ -1051,6 +1059,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 654206,
+      "num": 654206,
+      "word": "丹麦女王宣布将退位",
+      "onboard_time": 1704086314,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 652254,
+      "num": 652254,
+      "word": "屈楚萧整个人都快熟了",
+      "onboard_time": 1704084154,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 618141,
       "num": 618141,
       "word": "公孙离皮肤",
@@ -1089,14 +1113,6 @@
       "onboard_time": 1704025852,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 595069,
-      "num": 595069,
-      "word": "屈楚萧整个人都快熟了",
-      "onboard_time": 1704084154,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 590487,
@@ -1259,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 516722,
-      "num": 516722,
-      "word": "洗草莓时不要摘掉草莓蒂",
-      "onboard_time": 1704085773,
-      "rank": 12,
-      "category": "美食"
-    },
-    {
       "raw_hot": 516584,
       "num": 2778701,
       "word": "韩国地铁站竟然有宋词",
@@ -1403,6 +1411,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 472633,
+      "num": 472633,
+      "word": "光与夜之恋 强娶了",
+      "onboard_time": 1704085715,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 470395,
       "num": 470395,
       "word": "小沈阳 不要带假唱节奏",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1703948614,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467310,
+      "num": 269008,
+      "word": "为什么小诊所啥病都能治",
+      "onboard_time": 1704085833,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 461177,
@@ -1739,14 +1763,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 327088,
-      "num": 269008,
-      "word": "为什么小诊所啥病都能治",
-      "onboard_time": 1704085833,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 326365,
       "num": 314274,
       "word": "胡歌唐嫣跨年合体彩排",
@@ -1851,6 +1867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292895,
+      "num": 292895,
+      "word": "刘亦菲新年vlog",
+      "onboard_time": 1704083494,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292406,
       "num": 211071,
       "word": "张小斐新年桃花妆",
@@ -1883,14 +1907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289211,
-      "num": 289211,
-      "word": "刘亦菲新年vlog",
-      "onboard_time": 1704083494,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288442,
       "num": 237887,
       "word": "Cat 冠军的家人们早上好",
@@ -1905,14 +1921,6 @@
       "onboard_time": 1704047005,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286259,
-      "num": 286259,
-      "word": "光与夜之恋 强娶了",
-      "onboard_time": 1704085715,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 285621,
@@ -2107,6 +2115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 251515,
+      "num": 251515,
+      "word": "中国乒乓球队元旦祝福",
+      "onboard_time": 1704086192,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250158,
       "num": 1767200,
       "word": "如果2023是一种情绪",
@@ -2284,7 +2300,7 @@
     },
     {
       "raw_hot": 219401,
-      "num": 198604,
+      "num": 210115,
       "word": "在暴雪时分2024年第一吻",
       "onboard_time": 1704083914,
       "rank": 35,
@@ -2697,6 +2713,14 @@
       "onboard_time": 1704007713,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178299,
+      "num": 178299,
+      "word": "这是陆虎陈曌旭恋爱MV吧",
+      "onboard_time": 1704086974,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 177496,
@@ -3297,14 +3321,6 @@
       "onboard_time": 1704010292,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 134028,
-      "num": 134028,
-      "word": "中国乒乓球队元旦祝福",
-      "onboard_time": 1704086192,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 133208,
@@ -4075,6 +4091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63535,
+      "num": 143521,
+      "word": "周杰伦启源",
+      "onboard_time": 1704085113,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63243,
       "num": 124843,
       "word": "夏目友人帐 新年贺图",
@@ -4129,14 +4153,6 @@
       "onboard_time": 1704078033,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54576,
-      "num": 138736,
-      "word": "周杰伦启源",
-      "onboard_time": 1704085113,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 53567,
