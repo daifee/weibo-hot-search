@@ -1,0 +1,410 @@
+{
+  "runTime": 1704080072882,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1678990,
+        "num": 1678990,
+        "word": "愿逆风如解意 税后十个亿",
+        "onboard_time": 1704070354,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1514250,
+        "num": 1514250,
+        "word": "江苏卫视 设备",
+        "onboard_time": 1704078273,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22605,
+        "num": 1163854,
+        "word": "一句话送给2024年的自己",
+        "onboard_time": 1703992651,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010509,
+        "num": 1010509,
+        "word": "2024年确定为中朝友好年",
+        "onboard_time": 1704075636,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 674774,
+        "num": 674774,
+        "word": "杨紫李现合照 今夕是何年",
+        "onboard_time": 1704065061,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646116,
+        "num": 646116,
+        "word": "新年快乐",
+        "onboard_time": 1704037678,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600964,
+        "num": 600964,
+        "word": "连风都偏爱张小斐",
+        "onboard_time": 1704079236,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575261,
+        "num": 575261,
+        "word": "谁是2024跨年晚会最忙艺人",
+        "onboard_time": 1704058455,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560956,
+        "num": 560956,
+        "word": "跨年收视率",
+        "onboard_time": 1704063919,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374552,
+        "num": 374552,
+        "word": "新年壁纸",
+        "onboard_time": 1704073957,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 871981,
+        "num": 372466,
+        "word": "王鹤棣宋茜 rapper和他的爱豆女友",
+        "onboard_time": 1704076716,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481216,
+        "num": 360288,
+        "word": "十年了 雷鸣终于清白了",
+        "onboard_time": 1704073476,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421095,
+        "num": 350300,
+        "word": "林俊杰跨年演出完整版",
+        "onboard_time": 1704076358,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420863,
+        "num": 343800,
+        "word": "上海迪士尼发文致歉",
+        "onboard_time": 1704025247,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 55074,
+        "num": 339941,
+        "word": "在淘宝过生日还有这种待遇",
+        "onboard_time": 1704078033,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403542,
+        "num": 332806,
+        "word": "为裁员西安某公司从CBD搬进秦岭山区",
+        "onboard_time": 1704066266,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324641,
+        "num": 324641,
+        "word": "何老师 大米爆代表",
+        "onboard_time": 1704078755,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310707,
+        "num": 310707,
+        "word": "两个小朋友你们被警方点名表扬了",
+        "onboard_time": 1704037734,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 308049,
+        "num": 308049,
+        "word": "中美建交45周年",
+        "onboard_time": 1704076895,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 305821,
+        "num": 305821,
+        "word": "跨年夜被迫挤地铁的警犬",
+        "onboard_time": 1704076475,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685126,
+        "num": 298694,
+        "word": "孟子义跑调很突出",
+        "onboard_time": 1704032709,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513695,
+        "num": 292127,
+        "word": "迪丽热巴新年首套高定",
+        "onboard_time": 1704064339,
+        "rank": 21,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 280655,
+        "num": 280655,
+        "word": "丈夫喝酒电话不通孕妻腹痛求助110",
+        "onboard_time": 1704059234,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279481,
+        "num": 279481,
+        "word": "元旦加班3倍工资",
+        "onboard_time": 1704076716,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 191691,
+        "num": 279385,
+        "word": "父亲说没钱没人脉的送礼方法",
+        "onboard_time": 1704069872,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 475874,
+        "num": 277961,
+        "word": "宋茜王鹤棣亲上了吗",
+        "onboard_time": 1704030245,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468566,
+        "num": 277691,
+        "word": "希林娜依高戒指丢了",
+        "onboard_time": 1704071672,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434257,
+        "num": 277006,
+        "word": "孟子义开口吓死我了",
+        "onboard_time": 1704034090,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187888,
+        "num": 275943,
+        "word": "熬大夜后第二天睡觉能补回来吗",
+        "onboard_time": 1704063858,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176106,
+        "num": 274849,
+        "word": "当东北出现68的锅包肉后",
+        "onboard_time": 1704074192,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 722776,
+        "num": 273993,
+        "word": "D社 该上班了",
+        "onboard_time": 1704074136,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286420,
+        "num": 273484,
+        "word": "戚薇李承铉 真夫妻",
+        "onboard_time": 1704047005,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283522,
+        "num": 272911,
+        "word": "孙燕姿给我开演唱会",
+        "onboard_time": 1704077314,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153973,
+        "num": 271517,
+        "word": "白银4.9级地震暂未有伤亡报告",
+        "onboard_time": 1704074794,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146282,
+        "num": 271056,
+        "word": "小女孩 真的你不如让我站着",
+        "onboard_time": 1704078876,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270638,
+        "num": 270638,
+        "word": "许嵩冯禧同台",
+        "onboard_time": 1704037559,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266333,
+        "num": 266333,
+        "word": "白月梵星首发剧照",
+        "onboard_time": 1704079414,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258852,
+        "num": 258852,
+        "word": "赵露思 敦煌神女",
+        "onboard_time": 1704029763,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130615,
+        "num": 255724,
+        "word": "湖人不敌鹈鹕",
+        "onboard_time": 1704078455,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127138,
+        "num": 254150,
+        "word": "他们经理饿了 就贴我们锅里了",
+        "onboard_time": 1704068307,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254070,
+        "num": 254070,
+        "word": "王俊凯心引力舞台好甜",
+        "onboard_time": 1704077792,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39102,
+        "num": 252777,
+        "word": "羡慕带S23看跨年晚会的人",
+        "onboard_time": 1704079836,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251775,
+        "num": 251775,
+        "word": "鹿晗空降发歌",
+        "onboard_time": 1704080015,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22620,
+        "num": 250731,
+        "word": "周深千灯之约舞台",
+        "onboard_time": 1704079777,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110884,
+        "num": 247599,
+        "word": "元旦",
+        "onboard_time": 1704064459,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112764,
+        "num": 244429,
+        "word": "越南网红教的捕猎方法",
+        "onboard_time": 1704079836,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 102745,
+        "num": 240740,
+        "word": "元旦文案",
+        "onboard_time": 1704073957,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102203,
+        "num": 238136,
+        "word": "2024年第一条微博",
+        "onboard_time": 1704040435,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95496,
+        "num": 237672,
+        "word": "大蒜呼吸法",
+        "onboard_time": 1704079593,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92512,
+        "num": 233418,
+        "word": "2024",
+        "onboard_time": 1704038452,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二〇二四年新年贺词#"
+    }
+  }
+}
