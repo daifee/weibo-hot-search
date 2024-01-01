@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704108843108,
+  "endTime": 1704112343598,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -57,6 +57,14 @@
       "onboard_time": 1704037559,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2043747,
+      "num": 2043747,
+      "word": "网红欧可爱因车祸溺水离世",
+      "onboard_time": 1704109476,
+      "rank": 0,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1880895,
@@ -169,6 +177,14 @@
       "onboard_time": 1704094296,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1352673,
+      "num": 618654,
+      "word": "天价麻辣烫",
+      "onboard_time": 1704110681,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 1317787,
@@ -659,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 575184,
+      "num": 575184,
+      "word": "樊振东说无队内cp",
+      "onboard_time": 1704109901,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 566732,
       "num": 852570,
       "word": "跨年朋友圈",
@@ -803,6 +827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 464530,
+      "num": 464530,
+      "word": "卡琳娜有笑容了",
+      "onboard_time": 1704109476,
+      "rank": 7,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 459757,
       "num": 443163,
       "word": "杨迪 他们给的还是太多了",
@@ -817,6 +849,14 @@
       "onboard_time": 1704087813,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440778,
+      "num": 440778,
+      "word": "比亚迪销量",
+      "onboard_time": 1704108398,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 435892,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1704092312,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 324498,
+      "num": 324498,
+      "word": "金智秀疑似成立新公司",
+      "onboard_time": 1704108761,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 316490,
@@ -1201,14 +1249,6 @@
       "onboard_time": 1704099999,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244788,
-      "num": 244788,
-      "word": "比亚迪销量",
-      "onboard_time": 1704108398,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 244533,
@@ -1579,20 +1619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169772,
+      "num": 169772,
+      "word": "白客演社畜",
+      "onboard_time": 1704111519,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 169249,
+      "num": 169249,
+      "word": "成都狼队四冠",
+      "onboard_time": 1704108819,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167990,
       "num": 167990,
       "word": "灌篮高手 流川枫",
       "onboard_time": 1704103903,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 167436,
-      "num": 167436,
-      "word": "金智秀疑似成立新公司",
-      "onboard_time": 1704108761,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 165137,
@@ -1625,14 +1673,6 @@
       "onboard_time": 1704105940,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161225,
-      "num": 161225,
-      "word": "成都狼队四冠",
-      "onboard_time": 1704108819,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 159349,
@@ -1891,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121651,
+      "num": 121651,
+      "word": "小鹏X9",
+      "onboard_time": 1704109657,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 120490,
       "num": 120490,
       "word": "好像正在慢慢失去跨年的真实感",
@@ -1915,6 +1963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112900,
+      "num": 112900,
+      "word": "2024年第一个洋相",
+      "onboard_time": 1704109302,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110960,
       "num": 665259,
       "word": "王曼昱新头像",
@@ -1931,12 +1987,36 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 109097,
+      "num": 109097,
+      "word": "鸣龙少年",
+      "onboard_time": 1704112181,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106939,
       "num": 114039,
       "word": "峨眉山的吗喽都有对象了",
       "onboard_time": 1704088472,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106022,
+      "num": 106022,
+      "word": "B站 奥特曼",
+      "onboard_time": 1704108939,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 105962,
+      "num": 105962,
+      "word": "元旦晚会",
+      "onboard_time": 1704112241,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105742,
