@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704077080664,
+  "endTime": 1704079162118,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -691,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922215,
+      "num": 922215,
+      "word": "2024年确定为中朝友好年",
+      "onboard_time": 1704075636,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 905394,
       "num": 905394,
       "word": "张艺兴高烧表演状态",
@@ -707,6 +715,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 900793,
+      "num": 900793,
+      "word": "江苏卫视 设备",
+      "onboard_time": 1704078273,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 886723,
       "num": 744244,
       "word": "张天爱 婚纱",
@@ -721,14 +737,6 @@
       "onboard_time": 1704017732,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 881629,
-      "num": 881629,
-      "word": "2024年确定为中朝友好年",
-      "onboard_time": 1704075636,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 880762,
@@ -897,6 +905,14 @@
       "onboard_time": 1704007593,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 736500,
+      "num": 478773,
+      "word": "王鹤棣宋茜 rapper和他的爱豆女友",
+      "onboard_time": 1704076716,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 732327,
@@ -1219,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502919,
+      "num": 502919,
+      "word": "林俊杰跨年演出完整版",
+      "onboard_time": 1704076358,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502578,
       "num": 502578,
       "word": "于适弹唱好野",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1704006692,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 491409,
+      "num": 491409,
+      "word": "新年壁纸",
+      "onboard_time": 1704073957,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 491317,
@@ -1379,14 +1411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424070,
-      "num": 380878,
-      "word": "林俊杰跨年演出完整版",
-      "onboard_time": 1704076358,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 423693,
       "num": 423693,
       "word": "红白歌会",
@@ -1443,20 +1467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391046,
-      "num": 391046,
-      "word": "新年壁纸",
-      "onboard_time": 1704073957,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 387778,
       "num": 387778,
       "word": "詹姆斯绝平三分踩线",
       "onboard_time": 1703996011,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 386762,
+      "num": 386762,
+      "word": "十年了 雷鸣终于清白了",
+      "onboard_time": 1704073476,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 385713,
@@ -1523,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351800,
+      "num": 351800,
+      "word": "中美建交45周年",
+      "onboard_time": 1704076895,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 350487,
       "num": 350487,
       "word": "白银4.9级地震暂未有伤亡报告",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1703982388,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 337008,
-      "num": 337008,
-      "word": "十年了 雷鸣终于清白了",
-      "onboard_time": 1704073476,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 336759,
@@ -1763,10 +1787,18 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 287297,
-      "num": 155115,
-      "word": "王鹤棣宋茜 rapper和他的爱豆女友",
-      "onboard_time": 1704076716,
+      "raw_hot": 285875,
+      "num": 285875,
+      "word": "跨年夜被迫挤地铁的警犬",
+      "onboard_time": 1704076475,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285621,
+      "num": 168021,
+      "word": "孙燕姿给我开演唱会",
+      "onboard_time": 1704077314,
       "rank": 35,
       "category": "综艺"
     },
@@ -1817,6 +1849,14 @@
       "onboard_time": 1703977940,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279938,
+      "num": 166809,
+      "word": "王俊凯心引力舞台好甜",
+      "onboard_time": 1704077792,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 274541,
@@ -1953,6 +1993,14 @@
       "onboard_time": 1704030602,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249143,
+      "num": 249143,
+      "word": "元旦加班3倍工资",
+      "onboard_time": 1704076716,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 246725,
@@ -2115,6 +2163,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 219248,
+      "num": 154812,
+      "word": "何老师 大米爆代表",
+      "onboard_time": 1704078755,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218635,
       "num": 137397,
       "word": "粉丝给林俊杰唱撇嘴了",
@@ -2193,6 +2249,14 @@
       "onboard_time": 1703992951,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 209611,
+      "num": 184100,
+      "word": "小女孩 真的你不如让我站着",
+      "onboard_time": 1704078876,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 207663,
@@ -2323,14 +2387,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 197113,
-      "num": 156964,
-      "word": "跨年夜被迫挤地铁的警犬",
-      "onboard_time": 1704076475,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196864,
       "num": 742348,
       "word": "Wolves晋级总决赛",
@@ -2393,6 +2449,14 @@
       "onboard_time": 1703992651,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188846,
+      "num": 188846,
+      "word": "湖人不敌鹈鹕",
+      "onboard_time": 1704078455,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 187817,
@@ -2737,14 +2801,6 @@
       "onboard_time": 1704010110,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155490,
-      "num": 155490,
-      "word": "元旦加班3倍工资",
-      "onboard_time": 1704076716,
-      "rank": 34,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 154968,
@@ -3201,14 +3257,6 @@
       "onboard_time": 1703998834,
       "rank": 43,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 124176,
-      "num": 124176,
-      "word": "中美建交45周年",
-      "onboard_time": 1704076895,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 124175,
@@ -4001,6 +4049,14 @@
       "onboard_time": 1704007653,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 31972,
+      "num": 400302,
+      "word": "在淘宝过生日还有这种待遇",
+      "onboard_time": 1704078033,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 30294,
