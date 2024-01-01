@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704127036848,
+  "endTime": 1704129336009,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -2371,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304234,
+      "num": 281103,
+      "word": "汪小姐没等到宝总",
+      "onboard_time": 1704125911,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302169,
       "num": 302169,
       "word": "檀健次衣服不太懂事了",
@@ -3353,14 +3361,6 @@
       "onboard_time": 1704031268,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 195995,
-      "num": 195995,
-      "word": "汪小姐没等到宝总",
-      "onboard_time": 1704125911,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 195936,
@@ -5585,6 +5585,14 @@
       "onboard_time": 1703941535,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55097,
+      "num": 65896,
+      "word": "容祖儿想认宋亚轩当干儿子",
+      "onboard_time": 1704128424,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 55074,

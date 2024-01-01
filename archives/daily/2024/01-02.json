@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704127036848,
+  "endTime": 1704129336009,
   "band_list": [
     {
       "raw_hot": 1154352,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304234,
+      "num": 281103,
+      "word": "汪小姐没等到宝总",
+      "onboard_time": 1704125911,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272233,
       "num": 160293,
       "word": "日本地震",
@@ -137,14 +145,6 @@
       "onboard_time": 1704116922,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 195995,
-      "num": 195995,
-      "word": "汪小姐没等到宝总",
-      "onboard_time": 1704125911,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 181253,
@@ -409,6 +409,14 @@
       "onboard_time": 1704095075,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55097,
+      "num": 65896,
+      "word": "容祖儿想认宋亚轩当干儿子",
+      "onboard_time": 1704128424,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 45601,
