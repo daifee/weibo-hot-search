@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704107689322,
+  "endTime": 1704108843108,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 931028,
-      "num": 304850,
+      "num": 405559,
       "word": "一个月不换的床单有多脏",
       "onboard_time": 1704100598,
       "rank": 21,
@@ -361,6 +361,14 @@
       "onboard_time": 1704066266,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 909949,
+      "num": 909949,
+      "word": "宋茜王鹤棣最后一下 雪琴表情",
+      "onboard_time": 1704104739,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 904335,
@@ -376,14 +384,6 @@
       "word": "王鹤棣宋茜 rapper和他的爱豆女友",
       "onboard_time": 1704076716,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 856097,
-      "num": 856097,
-      "word": "宋茜王鹤棣最后一下 雪琴表情",
-      "onboard_time": 1704104739,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -417,6 +417,14 @@
       "onboard_time": 1704086314,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 815025,
+      "num": 815025,
+      "word": "李荣浩 去年的事儿先不提了",
+      "onboard_time": 1704104918,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 806211,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 751625,
-      "num": 304367,
+      "num": 319893,
       "word": "女子孕吐请4天假被开除",
       "onboard_time": 1704097304,
       "rank": 47,
@@ -499,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 714062,
-      "num": 714062,
-      "word": "李荣浩 去年的事儿先不提了",
-      "onboard_time": 1704104918,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 720176,
+      "num": 720176,
+      "word": "日本志贺核电站变压器起火",
+      "onboard_time": 1704107139,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710370,
@@ -595,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 647062,
+      "num": 647062,
+      "word": "玲花是来争夺赵露思抚养权的",
+      "onboard_time": 1704106238,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 642623,
       "num": 642623,
       "word": "日本7.4级地震现场画面",
@@ -667,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539405,
+      "num": 476047,
+      "word": "韩国东海岸发生地震海啸",
+      "onboard_time": 1704106600,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534964,
       "num": 524689,
       "word": "迪丽热巴新年首套高定",
@@ -681,6 +705,14 @@
       "onboard_time": 1704037734,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 525501,
+      "num": 1193108,
+      "word": "30岁小伙和60岁阿姨处成闺蜜",
+      "onboard_time": 1704102701,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502919,
@@ -761,14 +793,6 @@
       "onboard_time": 1704085715,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 469473,
-      "num": 1193108,
-      "word": "30岁小伙和60岁阿姨处成闺蜜",
-      "onboard_time": 1704102701,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 467310,
@@ -859,20 +883,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 414884,
-      "num": 414884,
-      "word": "玲花是来争夺赵露思抚养权的",
-      "onboard_time": 1704106238,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 405947,
       "num": 908033,
       "word": "2024新年贺词",
       "onboard_time": 1704019895,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 397568,
+      "num": 397568,
+      "word": "终于到了谈恋爱不怕爸妈知道的年纪",
+      "onboard_time": 1704103303,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 396493,
@@ -897,14 +921,6 @@
       "onboard_time": 1704091533,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 393717,
-      "num": 301448,
-      "word": "终于到了谈恋爱不怕爸妈知道的年纪",
-      "onboard_time": 1704103303,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 389366,
@@ -979,28 +995,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327281,
-      "num": 327281,
-      "word": "韩国东海岸发生地震海啸",
-      "onboard_time": 1704106600,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325007,
       "num": 325007,
       "word": "阴阳师 水龙王",
       "onboard_time": 1704092312,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 320639,
-      "num": 320639,
-      "word": "日本志贺核电站变压器起火",
-      "onboard_time": 1704107139,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316490,
@@ -1155,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264857,
+      "num": 1033152,
+      "word": "老人就餐被卡喉幸亏邻桌是医学生",
+      "onboard_time": 1704104561,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261792,
       "num": 162544,
       "word": "运镜跟不上黄明昊",
@@ -1179,12 +1187,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 246289,
+      "num": 246289,
+      "word": "刘德华陪孩子写作业也会鸡飞狗跳",
+      "onboard_time": 1704107738,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244848,
       "num": 244848,
       "word": "武汉一家3口的雕塑变成一家5口",
       "onboard_time": 1704099999,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244788,
+      "num": 244788,
+      "word": "比亚迪销量",
+      "onboard_time": 1704108398,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 244533,
@@ -1339,14 +1363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 210056,
-      "num": 1033152,
-      "word": "老人就餐被卡喉幸亏邻桌是医学生",
-      "onboard_time": 1704104561,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209611,
       "num": 271056,
       "word": "小女孩 真的你不如让我站着",
@@ -1376,6 +1392,14 @@
       "word": "这是陆虎陈曌旭恋爱MV吧",
       "onboard_time": 1704086974,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205004,
+      "num": 205004,
+      "word": "龙珠粉只是老了不是死了",
+      "onboard_time": 1704107500,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1411,12 +1435,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199606,
+      "num": 199606,
+      "word": "汪大东陈德修 够爱",
+      "onboard_time": 1704108219,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195515,
       "num": 249891,
       "word": "为什么童谣里一般都唱外婆",
       "onboard_time": 1704080316,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193390,
+      "num": 193390,
+      "word": "狼队第五人格",
+      "onboard_time": 1704107861,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 192947,
@@ -1531,12 +1571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169912,
+      "num": 827206,
+      "word": "00后小伙在南极20米高处拧螺丝",
+      "onboard_time": 1704107558,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167990,
       "num": 167990,
       "word": "灌篮高手 流川枫",
       "onboard_time": 1704103903,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 167436,
+      "num": 167436,
+      "word": "金智秀疑似成立新公司",
+      "onboard_time": 1704108761,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 165137,
@@ -1569,6 +1625,14 @@
       "onboard_time": 1704105940,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161225,
+      "num": 161225,
+      "word": "成都狼队四冠",
+      "onboard_time": 1704108819,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 159349,
@@ -1635,14 +1699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148824,
-      "num": 148824,
-      "word": "龙珠粉只是老了不是死了",
-      "onboard_time": 1704107500,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148738,
       "num": 148738,
       "word": "杨紫范丞丞元旦合照",
@@ -1704,6 +1760,14 @@
       "word": "奶奶的爱跨千山万水而来",
       "onboard_time": 1704081873,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141256,
+      "num": 311822,
+      "word": "2024有个神奇的数字24",
+      "onboard_time": 1704106961,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1777,14 +1841,6 @@
       "onboard_time": 1704099937,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129356,
-      "num": 314846,
-      "word": "00后小伙在南极20米高处拧螺丝",
-      "onboard_time": 1704107558,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129126,
@@ -1969,14 +2025,6 @@
       "onboard_time": 1704095674,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92419,
-      "num": 311822,
-      "word": "2024有个神奇的数字24",
-      "onboard_time": 1704106961,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91371,
@@ -2187,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32498,
+      "num": 522235,
+      "word": "和平精英女郎挑衅威震天",
+      "onboard_time": 1704097363,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 32434,
       "num": 226277,
       "word": "2024年的第一台新车",
@@ -2203,20 +2259,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30375,
+      "num": 237105,
+      "word": "谢谢元梦帮我圆梦",
+      "onboard_time": 1704107919,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 27314,
       "num": 1163854,
       "word": "一句话送给2024年的自己",
       "onboard_time": 1703992651,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24963,
-      "num": 367870,
-      "word": "和平精英女郎挑衅威震天",
-      "onboard_time": 1704097363,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 16711,
