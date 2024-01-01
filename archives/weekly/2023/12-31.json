@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704136473823,
+  "endTime": 1704137644679,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -5707,6 +5707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47623,
+      "num": 47623,
+      "word": "今天凌晨太阳爆发一个强耀斑",
+      "onboard_time": 1704136395,
+      "rank": 49,
+      "category": "自然"
+    },
+    {
       "raw_hot": 46257,
       "num": 250731,
       "word": "周深千灯之约舞台",
@@ -5979,20 +5987,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13391,
-      "num": 18988,
-      "word": "今天凌晨太阳爆发一个强耀斑",
-      "onboard_time": 1704136395,
-      "rank": 49,
-      "category": "自然"
-    },
-    {
       "raw_hot": 12461,
       "num": 12461,
       "word": "小兔子睡觉觉好惬意",
       "onboard_time": 1703967253,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11445,
+      "num": 17138,
+      "word": "凤凰传奇嗨翻",
+      "onboard_time": 1704137535,
+      "rank": 49,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
