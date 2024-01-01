@@ -1,0 +1,410 @@
+{
+  "runTime": 1704113260305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2087562,
+        "num": 2087562,
+        "word": "网红欧可爱因车祸溺水离世",
+        "onboard_time": 1704109476,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 727000,
+        "num": 727000,
+        "word": "宋茜王鹤棣最后一下 雪琴表情",
+        "onboard_time": 1704104739,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57994,
+        "num": 624708,
+        "word": "新年第1天打卡热气腾腾的中国",
+        "onboard_time": 1704103719,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1878703,
+        "num": 619587,
+        "word": "天价麻辣烫",
+        "onboard_time": 1704110681,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 605550,
+        "num": 605550,
+        "word": "一个月不换的床单有多脏",
+        "onboard_time": 1704100598,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 577325,
+        "num": 577325,
+        "word": "樊振东说无队内cp",
+        "onboard_time": 1704109901,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 540564,
+        "num": 540564,
+        "word": "孟子义叫江苏卫视大哥",
+        "onboard_time": 1704101077,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533640,
+        "num": 533640,
+        "word": "卡琳娜有笑容了",
+        "onboard_time": 1704109476,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 454529,
+        "num": 454529,
+        "word": "比亚迪销量",
+        "onboard_time": 1704108398,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 364577,
+        "num": 425996,
+        "word": "美国女子遭家暴报警被警察击毙",
+        "onboard_time": 1704100837,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1338237,
+        "num": 425722,
+        "word": "日本地震",
+        "onboard_time": 1704093755,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655783,
+        "num": 425447,
+        "word": "日本一地火山喷发",
+        "onboard_time": 1704100537,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422507,
+        "num": 422507,
+        "word": "日本志贺核电站变压器起火",
+        "onboard_time": 1704107139,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503129,
+        "num": 420002,
+        "word": "日本7.4级地震现场画面",
+        "onboard_time": 1704100780,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415497,
+        "num": 415497,
+        "word": "李荣浩 去年的事儿先不提了",
+        "onboard_time": 1704104918,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365886,
+        "num": 365886,
+        "word": "玲花是来争夺赵露思抚养权的",
+        "onboard_time": 1704106238,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334919,
+        "num": 334919,
+        "word": "韩国东海岸发生地震海啸",
+        "onboard_time": 1704106600,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300602,
+        "num": 300602,
+        "word": "杨洋 男频",
+        "onboard_time": 1704101020,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292777,
+        "num": 292777,
+        "word": "不要再瞎练八段锦了",
+        "onboard_time": 1704103303,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 303566,
+        "num": 290774,
+        "word": "日本强震引发5米海啸",
+        "onboard_time": 1704095075,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298513,
+        "num": 290418,
+        "word": "女子孕吐请4天假被开除",
+        "onboard_time": 1704097304,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286738,
+        "num": 286738,
+        "word": "金智秀疑似成立新公司",
+        "onboard_time": 1704108761,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260746,
+        "num": 260746,
+        "word": "日本连续地震前乌鸦满天飞",
+        "onboard_time": 1704112840,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242164,
+        "num": 242164,
+        "word": "刘德华陪孩子写作业也会鸡飞狗跳",
+        "onboard_time": 1704107738,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203555,
+        "num": 203555,
+        "word": "30岁小伙和60岁阿姨处成闺蜜",
+        "onboard_time": 1704102701,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195187,
+        "num": 195187,
+        "word": "总台大湾区新年音乐会",
+        "onboard_time": 1704112540,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184603,
+        "num": 184603,
+        "word": "吐槽美甲太丑忘记屏蔽美甲店",
+        "onboard_time": 1704085412,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 176097,
+        "num": 176097,
+        "word": "成本14.6元卖6980的复活丹实则淀粉丸",
+        "onboard_time": 1704099161,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174751,
+        "num": 174751,
+        "word": "终于到了谈恋爱不怕爸妈知道的年纪",
+        "onboard_time": 1704103303,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171190,
+        "num": 171190,
+        "word": "曾毅老师 我都有点嗑你俩了",
+        "onboard_time": 1704094834,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160805,
+        "num": 160805,
+        "word": "WTT多哈男子总决赛",
+        "onboard_time": 1704113138,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154321,
+        "num": 154321,
+        "word": "南方小土豆涌入哈市洗浴店爆满",
+        "onboard_time": 1704097660,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151014,
+        "num": 151014,
+        "word": "洗草莓时不要摘掉草莓蒂",
+        "onboard_time": 1704085773,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141871,
+        "num": 141871,
+        "word": "苏醒蹭镜头",
+        "onboard_time": 1704093032,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138963,
+        "num": 138963,
+        "word": "龙珠粉只是老了不是死了",
+        "onboard_time": 1704107500,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138101,
+        "num": 138101,
+        "word": "JDG对战TES",
+        "onboard_time": 1704101259,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136001,
+        "num": 136001,
+        "word": "白客演社畜",
+        "onboard_time": 1704111519,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135587,
+        "num": 135587,
+        "word": "成都狼队四冠",
+        "onboard_time": 1704108819,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134508,
+        "num": 134508,
+        "word": "RW FLY",
+        "onboard_time": 1704113018,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131600,
+        "num": 131600,
+        "word": "石宇奇 不介意我复制粘贴下吧",
+        "onboard_time": 1704113018,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127359,
+        "num": 127359,
+        "word": "易烊千玺在网站撒娇",
+        "onboard_time": 1704098619,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125381,
+        "num": 125381,
+        "word": "汪大东陈德修 够爱",
+        "onboard_time": 1704108219,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121058,
+        "num": 121058,
+        "word": "日本气象厅再次呼吁民众撤离",
+        "onboard_time": 1704106179,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120616,
+        "num": 120616,
+        "word": "这朵花竟然是废弃窗帘布做出来的",
+        "onboard_time": 1704111878,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119401,
+        "num": 119401,
+        "word": "GALA 哭了",
+        "onboard_time": 1704101137,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112631,
+        "num": 112631,
+        "word": "鸣龙少年",
+        "onboard_time": 1704112181,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112520,
+        "num": 112520,
+        "word": "大侦探 正归来",
+        "onboard_time": 1704092370,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107220,
+        "num": 107220,
+        "word": "元旦晚会",
+        "onboard_time": 1704112241,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106558,
+        "num": 106558,
+        "word": "老人就餐被卡喉幸亏邻桌是医学生",
+        "onboard_time": 1704104561,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105652,
+        "num": 105652,
+        "word": "甘肃敦煌的旅游现在竟如此之冷淡",
+        "onboard_time": 1704103057,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024新年贺词#"
+    }
+  }
+}

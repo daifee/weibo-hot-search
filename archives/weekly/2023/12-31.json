@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704112343598,
+  "endTime": 1704113260305,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -267,8 +267,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2043747,
-      "num": 2043747,
+      "raw_hot": 2087562,
+      "num": 2087562,
       "word": "网红欧可爱因车祸溺水离世",
       "onboard_time": 1704109476,
       "rank": 0,
@@ -353,6 +353,14 @@
       "onboard_time": 1704038452,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1878703,
+      "num": 619587,
+      "word": "天价麻辣烫",
+      "onboard_time": 1704110681,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 1832515,
@@ -513,14 +521,6 @@
       "onboard_time": 1704017312,
       "rank": 36,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1352673,
-      "num": 618654,
-      "word": "天价麻辣烫",
-      "onboard_time": 1704110681,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 1338908,
@@ -820,7 +820,7 @@
     },
     {
       "raw_hot": 931028,
-      "num": 405559,
+      "num": 605550,
       "word": "一个月不换的床单有多脏",
       "onboard_time": 1704100598,
       "rank": 21,
@@ -1371,8 +1371,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 575184,
-      "num": 575184,
+      "raw_hot": 577325,
+      "num": 577325,
       "word": "樊振东说无队内cp",
       "onboard_time": 1704109901,
       "rank": 4,
@@ -1465,6 +1465,14 @@
       "onboard_time": 1704064339,
       "rank": 36,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 533640,
+      "num": 533640,
+      "word": "卡琳娜有笑容了",
+      "onboard_time": 1704109476,
+      "rank": 7,
+      "category": "动漫"
     },
     {
       "raw_hot": 532523,
@@ -1707,14 +1715,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 464530,
-      "num": 464530,
-      "word": "卡琳娜有笑容了",
-      "onboard_time": 1704109476,
-      "rank": 7,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 461177,
       "num": 461177,
       "word": "浙江卫视跨年节目单",
@@ -1739,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 454529,
+      "num": 454529,
+      "word": "比亚迪销量",
+      "onboard_time": 1704108398,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 448476,
       "num": 448476,
       "word": "韩家长雇私人侦探避免孩子被霸凌",
@@ -1761,14 +1769,6 @@
       "onboard_time": 1704012514,
       "rank": 18,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 440778,
-      "num": 440778,
-      "word": "比亚迪销量",
-      "onboard_time": 1704108398,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 436495,
@@ -2515,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260746,
+      "num": 260746,
+      "word": "日本连续地震前乌鸦满天飞",
+      "onboard_time": 1704112840,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260384,
       "num": 260384,
       "word": "吴京会把酒砸向MOSS并说新年快乐",
@@ -3179,6 +3187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195187,
+      "num": 195187,
+      "word": "总台大湾区新年音乐会",
+      "onboard_time": 1704112540,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194035,
       "num": 204939,
       "word": "2024年1月新规来了",
@@ -3633,6 +3649,14 @@
       "onboard_time": 1704105940,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160805,
+      "num": 160805,
+      "word": "WTT多哈男子总决赛",
+      "onboard_time": 1704113138,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 160766,
@@ -4179,6 +4203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134508,
+      "num": 134508,
+      "word": "RW FLY",
+      "onboard_time": 1704113018,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133208,
       "num": 133208,
       "word": "陈梦 新的一年一起努力加油",
@@ -4217,6 +4249,14 @@
       "onboard_time": 1704099937,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131600,
+      "num": 131600,
+      "word": "石宇奇 不介意我复制粘贴下吧",
+      "onboard_time": 1704113018,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 131457,
@@ -4443,6 +4483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120616,
+      "num": 120616,
+      "word": "这朵花竟然是废弃窗帘布做出来的",
+      "onboard_time": 1704111878,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120490,
       "num": 120490,
       "word": "好像正在慢慢失去跨年的真实感",
@@ -4579,6 +4627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112631,
+      "num": 112631,
+      "word": "鸣龙少年",
+      "onboard_time": 1704112181,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112399,
       "num": 112399,
       "word": "宋茜爆闪开年妆",
@@ -4635,14 +4691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109097,
-      "num": 109097,
-      "word": "鸣龙少年",
-      "onboard_time": 1704112181,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108072,
       "num": 108072,
       "word": "贝克曼 不要假装专业当懂哥",
@@ -4657,6 +4705,14 @@
       "onboard_time": 1704000572,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 107220,
+      "num": 107220,
+      "word": "元旦晚会",
+      "onboard_time": 1704112241,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106939,
@@ -4697,14 +4753,6 @@
       "onboard_time": 1704108939,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105962,
-      "num": 105962,
-      "word": "元旦晚会",
-      "onboard_time": 1704112241,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105742,
