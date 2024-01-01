@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704097344102,
+  "endTime": 1704098120050,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8084962,
-      "num": 8084962,
+      "raw_hot": 8995172,
+      "num": 8995172,
       "word": "日本地震",
       "onboard_time": 1704093755,
       "rank": 0,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 723910,
+      "num": 723910,
+      "word": "曾毅老师 我都有点嗑你俩了",
+      "onboard_time": 1704094834,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 710370,
       "num": 559584,
       "word": "谢娜唱哭了",
@@ -515,14 +523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 641346,
-      "num": 641346,
-      "word": "曾毅老师 我都有点嗑你俩了",
-      "onboard_time": 1704094834,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 637196,
       "num": 882214,
       "word": "跨年",
@@ -587,12 +587,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 529758,
+      "num": 529758,
+      "word": "日本多条新干线因地震停运",
+      "onboard_time": 1704097419,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502919,
       "num": 502919,
       "word": "林俊杰跨年演出完整版",
       "onboard_time": 1704076358,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 497414,
+      "num": 213966,
+      "word": "女子孕吐请4天假被开除",
+      "onboard_time": 1704097304,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492595,
@@ -1043,6 +1059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 214131,
+      "num": 214131,
+      "word": "哥们这真不是免费广告位吗",
+      "onboard_time": 1704094895,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209611,
       "num": 271056,
       "word": "小女孩 真的你不如让我站着",
@@ -1051,12 +1075,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 208146,
-      "num": 208146,
-      "word": "哥们这真不是免费广告位吗",
-      "onboard_time": 1704094895,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 207738,
+      "num": 207738,
+      "word": "一直以为科目三是明星跳出来的",
+      "onboard_time": 1704096459,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 205243,
@@ -1139,6 +1163,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 184338,
+      "num": 184338,
+      "word": "日本能登地区大海啸预警",
+      "onboard_time": 1704097837,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183906,
       "num": 808087,
       "word": "2024年财神来到我们家门前",
@@ -1203,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158426,
+      "num": 158426,
+      "word": "南方小土豆涌入哈市洗浴店爆满",
+      "onboard_time": 1704097660,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156394,
       "num": 560581,
       "word": "四川自贡发生3.2级地震",
@@ -1211,20 +1251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150976,
+      "num": 150976,
+      "word": "唐嫣繁花演技",
+      "onboard_time": 1704096219,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150223,
       "num": 766745,
       "word": "当代年轻人的跨年现状",
       "onboard_time": 1704029278,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148466,
-      "num": 148466,
-      "word": "唐嫣繁花演技",
-      "onboard_time": 1704096219,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 146678,
@@ -1332,7 +1372,7 @@
     },
     {
       "raw_hot": 125416,
-      "num": 125416,
+      "num": 1239198,
       "word": "这是2024年第1天的中国",
       "onboard_time": 1704066384,
       "rank": 37,
@@ -1345,14 +1385,6 @@
       "onboard_time": 1704092970,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119153,
-      "num": 119153,
-      "word": "一直以为科目三是明星跳出来的",
-      "onboard_time": 1704096459,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 116582,
@@ -1369,6 +1401,14 @@
       "onboard_time": 1704084695,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112223,
+      "num": 112223,
+      "word": "2024上半年女兵应征报名今天开始",
+      "onboard_time": 1704098079,
+      "rank": 43,
+      "category": "军事"
     },
     {
       "raw_hot": 110960,
@@ -1449,14 +1489,6 @@
       "onboard_time": 1704031689,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 95875,
-      "num": 95875,
-      "word": "女子孕吐请4天假被开除",
-      "onboard_time": 1704097304,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95496,
@@ -1667,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32434,
+      "num": 226277,
+      "word": "2024年的第一台新车",
+      "onboard_time": 1704095315,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 31866,
       "num": 419058,
       "word": "浮生忆玲珑预捏脸",
@@ -1675,20 +1715,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 29242,
-      "num": 226277,
-      "word": "2024年的第一台新车",
-      "onboard_time": 1704095315,
-      "rank": 20,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 27314,
       "num": 1163854,
       "word": "一句话送给2024年的自己",
       "onboard_time": 1703992651,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24963,
+      "num": 98486,
+      "word": "和平精英女郎挑衅威震天",
+      "onboard_time": 1704097363,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 16711,

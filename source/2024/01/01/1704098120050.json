@@ -1,0 +1,410 @@
+{
+  "runTime": 1704098120050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8995172,
+        "num": 8995172,
+        "word": "日本地震",
+        "onboard_time": 1704093755,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3113648,
+        "num": 3113648,
+        "word": "日本强震引发5米海啸",
+        "onboard_time": 1704095075,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36227,
+        "num": 1239198,
+        "word": "这是2024年第1天的中国",
+        "onboard_time": 1704066384,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1083909,
+        "num": 1083909,
+        "word": "日本今日已连发3次地震",
+        "onboard_time": 1704095795,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1074267,
+        "num": 1074267,
+        "word": "日本本州西岸近海7.8级左右地震",
+        "onboard_time": 1704094296,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758947,
+        "num": 758947,
+        "word": "小破站跨年 还是你会玩",
+        "onboard_time": 1704087332,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 723910,
+        "num": 723910,
+        "word": "曾毅老师 我都有点嗑你俩了",
+        "onboard_time": 1704094834,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 629569,
+        "num": 629569,
+        "word": "苏醒蹭镜头",
+        "onboard_time": 1704093032,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529758,
+        "num": 529758,
+        "word": "日本多条新干线因地震停运",
+        "onboard_time": 1704097419,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483109,
+        "num": 483109,
+        "word": "法老不是要退圈吗",
+        "onboard_time": 1704093032,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585363,
+        "num": 478677,
+        "word": "洗草莓时不要摘掉草莓蒂",
+        "onboard_time": 1704085773,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 472887,
+        "num": 472887,
+        "word": "大侦探 正归来",
+        "onboard_time": 1704092370,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437721,
+        "num": 437721,
+        "word": "吐槽美甲太丑忘记屏蔽美甲店",
+        "onboard_time": 1704085412,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 421363,
+        "num": 421363,
+        "word": "父母一句话心理医生和朋友全白干",
+        "onboard_time": 1704094296,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 378099,
+        "num": 378099,
+        "word": "2024年三倍工资日历",
+        "onboard_time": 1704089794,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 300779,
+        "num": 300779,
+        "word": "连风都偏爱张小斐",
+        "onboard_time": 1704079236,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266091,
+        "num": 266091,
+        "word": "北京新年宝宝叫一博",
+        "onboard_time": 1704093032,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251017,
+        "num": 251017,
+        "word": "樊振东实名羡慕贾一凡奖金",
+        "onboard_time": 1704089852,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231265,
+        "num": 231265,
+        "word": "王鹤棣宋茜 rapper和他的爱豆女友",
+        "onboard_time": 1704076716,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214131,
+        "num": 214131,
+        "word": "哥们这真不是免费广告位吗",
+        "onboard_time": 1704094895,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497414,
+        "num": 213966,
+        "word": "女子孕吐请4天假被开除",
+        "onboard_time": 1704097304,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221902,
+        "num": 213769,
+        "word": "孟子义跑调很突出",
+        "onboard_time": 1704032709,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212963,
+        "num": 212963,
+        "word": "喝酒脸红的人 心脑血管疾病",
+        "onboard_time": 1704096101,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32434,
+        "num": 212014,
+        "word": "2024年的第一台新车",
+        "onboard_time": 1704095315,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 209270,
+        "num": 211798,
+        "word": "周深孟子义又唠上了",
+        "onboard_time": 1704091533,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211764,
+        "num": 211764,
+        "word": "樊振东2024第一条微博",
+        "onboard_time": 1704082772,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208416,
+        "num": 208416,
+        "word": "杨迪 他们给的还是太多了",
+        "onboard_time": 1704091411,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207738,
+        "num": 207738,
+        "word": "一直以为科目三是明星跳出来的",
+        "onboard_time": 1704096459,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207555,
+        "num": 207555,
+        "word": "LNG 新年的折磨",
+        "onboard_time": 1704089852,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184338,
+        "num": 184338,
+        "word": "日本能登地区大海啸预警",
+        "onboard_time": 1704097837,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166283,
+        "num": 166283,
+        "word": "愿逆风如解意 税后十个亿",
+        "onboard_time": 1704070354,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163669,
+        "num": 163669,
+        "word": "D社 该上班了",
+        "onboard_time": 1704074136,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160090,
+        "num": 160090,
+        "word": "为什么小诊所啥病都能治",
+        "onboard_time": 1704085833,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158426,
+        "num": 158426,
+        "word": "南方小土豆涌入哈市洗浴店爆满",
+        "onboard_time": 1704097660,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157803,
+        "num": 157803,
+        "word": "白鹿在生张大大的闷气",
+        "onboard_time": 1704088053,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151325,
+        "num": 151325,
+        "word": "真的相信女生生来就有爱人的能力",
+        "onboard_time": 1704091292,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150976,
+        "num": 150976,
+        "word": "唐嫣繁花演技",
+        "onboard_time": 1704096219,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145047,
+        "num": 145047,
+        "word": "LNG对战RA",
+        "onboard_time": 1704089672,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139694,
+        "num": 139694,
+        "word": "宋茜王鹤棣亲上了吗",
+        "onboard_time": 1704030245,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136917,
+        "num": 136917,
+        "word": "周深很幸运可以被看见",
+        "onboard_time": 1704096160,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133283,
+        "num": 133283,
+        "word": "阴阳师 水龙王",
+        "onboard_time": 1704092312,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121150,
+        "num": 121150,
+        "word": "灵隐寺新年一早人从众",
+        "onboard_time": 1704092791,
+        "rank": 41,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 117850,
+        "num": 117850,
+        "word": "血型瘦身法",
+        "onboard_time": 1704088413,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112223,
+        "num": 112223,
+        "word": "2024上半年女兵应征报名今天开始",
+        "onboard_time": 1704098079,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 111316,
+        "num": 111316,
+        "word": "好像正在慢慢失去跨年的真实感",
+        "onboard_time": 1704092970,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48861,
+        "num": 106548,
+        "word": "2024年愿美好如约而至",
+        "onboard_time": 1704082353,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104943,
+        "num": 104943,
+        "word": "屈楚萧整个人都快熟了",
+        "onboard_time": 1704084154,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101284,
+        "num": 101284,
+        "word": "雷鸣教案存了20多个U盘",
+        "onboard_time": 1704095556,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99613,
+        "num": 99613,
+        "word": "丹麦女王宣布将退位",
+        "onboard_time": 1704086314,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 24963,
+        "num": 98486,
+        "word": "和平精英女郎挑衅威震天",
+        "onboard_time": 1704097363,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024新年贺词#"
+    }
+  }
+}
