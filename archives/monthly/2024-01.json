@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704151071172,
+  "endTime": 1704152084166,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1588901,
+      "num": 1588901,
+      "word": "今天凌晨太阳爆发一个强耀斑",
+      "onboard_time": 1704136395,
+      "rank": 49,
+      "category": "自然"
+    },
+    {
       "raw_hot": 1554414,
       "num": 827484,
       "word": "杨紫好瘦",
@@ -233,14 +241,6 @@
       "onboard_time": 1704101077,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1279869,
-      "num": 1279869,
-      "word": "今天凌晨太阳爆发一个强耀斑",
-      "onboard_time": 1704136395,
-      "rank": 49,
-      "category": "自然"
     },
     {
       "raw_hot": 1239716,
@@ -987,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436010,
+      "num": 436010,
+      "word": "赵露思 终于知道邓超上春晚的感觉了",
+      "onboard_time": 1704151284,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435892,
       "num": 371567,
       "word": "家有儿女 尴尬",
@@ -1251,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 306452,
+      "num": 284610,
+      "word": "宝总初恋恋情",
+      "onboard_time": 1704150141,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305821,
       "num": 305821,
       "word": "跨年夜被迫挤地铁的警犬",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1704117880,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286532,
+      "num": 286532,
+      "word": "压力过大衰老速度比常人快6倍",
+      "onboard_time": 1704141734,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 286423,
@@ -1419,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260737,
+      "num": 90892,
+      "word": "服用紧急避孕药后身体会有何变化",
+      "onboard_time": 1704151707,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 251515,
       "num": 251515,
       "word": "中国乒乓球队元旦祝福",
@@ -1433,6 +1465,14 @@
       "onboard_time": 1704089852,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 247713,
+      "num": 192094,
+      "word": "日本地震已致6人死亡",
+      "onboard_time": 1704151647,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244848,
@@ -1457,14 +1497,6 @@
       "onboard_time": 1704084635,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240657,
-      "num": 240657,
-      "word": "压力过大衰老速度比常人快6倍",
-      "onboard_time": 1704141734,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 235965,
@@ -1553,6 +1585,14 @@
       "onboard_time": 1704114639,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224097,
+      "num": 224097,
+      "word": "杨迪檀健次 P图",
+      "onboard_time": 1704151404,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 221753,
@@ -1675,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202839,
-      "num": 202839,
-      "word": "宝总初恋恋情",
-      "onboard_time": 1704150141,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202407,
       "num": 202407,
       "word": "kms线下签售",
@@ -1739,6 +1771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194784,
+      "num": 273161,
+      "word": "国足1比2中国香港",
+      "onboard_time": 1704150503,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193390,
       "num": 193390,
       "word": "狼队第五人格",
@@ -1755,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192526,
+      "num": 192526,
+      "word": "国足3人染红",
+      "onboard_time": 1704150743,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191859,
       "num": 162124,
       "word": "金手指 看完戒股",
@@ -1769,6 +1817,14 @@
       "onboard_time": 1704074192,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 189791,
+      "num": 189791,
+      "word": "黄景瑜零点跨年去哪儿了",
+      "onboard_time": 1704130700,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 188884,
@@ -2091,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148128,
+      "num": 148128,
+      "word": "王彦霖认证王鹤棣是单身",
+      "onboard_time": 1704151647,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146678,
       "num": 146678,
       "word": "灵隐寺新年一早人从众",
@@ -2107,12 +2171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145779,
-      "num": 145779,
-      "word": "黄景瑜零点跨年去哪儿了",
-      "onboard_time": 1704130700,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 145331,
+      "num": 145331,
+      "word": "国足38年首负中国香港",
+      "onboard_time": 1704150923,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 145160,
@@ -2323,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123220,
+      "num": 123220,
+      "word": "为什么有的香蕉是直的",
+      "onboard_time": 1704150985,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 121999,
       "num": 121999,
       "word": "JDG晋级德杯四强",
@@ -2467,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105367,
+      "num": 105367,
+      "word": "2024年上班第一天",
+      "onboard_time": 1704151284,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105031,
       "num": 202749,
       "word": "深圳一步一个瑶妹",
@@ -2497,14 +2577,6 @@
       "onboard_time": 1704036782,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102208,
-      "num": 102208,
-      "word": "国足1比2中国香港",
-      "onboard_time": 1704150503,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 101572,
@@ -2571,6 +2643,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 91202,
+      "num": 91202,
+      "word": "2024新年plog",
+      "onboard_time": 1704151345,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88693,
       "num": 265762,
       "word": "富得流油这种祝福谁能拒绝",
@@ -2603,12 +2683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81583,
+      "num": 81583,
+      "word": "张钧甯 新年第一天就要跟爱的人在一起",
+      "onboard_time": 1704151585,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81052,
       "num": 124969,
       "word": "全球共赏维港烟花",
       "onboard_time": 1704069331,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 79489,
+      "num": 79489,
+      "word": "中短发半扎马尾",
+      "onboard_time": 1704150141,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 79074,
@@ -2633,6 +2729,14 @@
       "onboard_time": 1704038753,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77276,
+      "num": 77276,
+      "word": "女生不主动发消息还要联系吗",
+      "onboard_time": 1704151947,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 77130,
@@ -2699,14 +2803,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 63843,
-      "num": 63843,
-      "word": "国足3人染红",
-      "onboard_time": 1704150743,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 63535,
       "num": 143521,
       "word": "周杰伦启源",
@@ -2723,12 +2819,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 62739,
-      "num": 62739,
-      "word": "为什么有的香蕉是直的",
-      "onboard_time": 1704150985,
-      "rank": 29,
-      "category": "科学科普"
+      "raw_hot": 63206,
+      "num": 63206,
+      "word": "时代少年团 哥几个是真饿了",
+      "onboard_time": 1704148818,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 62092,
@@ -2747,12 +2843,12 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 60963,
-      "num": 60963,
-      "word": "时代少年团 哥几个是真饿了",
-      "onboard_time": 1704148818,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 59538,
+      "num": 59538,
+      "word": "哥们你躺下怎么有延迟呢",
+      "onboard_time": 1704151225,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 58568,
@@ -2761,6 +2857,14 @@
       "onboard_time": 1704133757,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 56945,
+      "num": 56945,
+      "word": "陈妍希兑现瘦十斤flag",
+      "onboard_time": 1704152006,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 55074,
@@ -2787,20 +2891,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51944,
-      "num": 51944,
-      "word": "中短发半扎马尾",
-      "onboard_time": 1704150141,
-      "rank": 33,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 51022,
       "num": 102163,
       "word": "2024年元旦升旗",
       "onboard_time": 1704065242,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50955,
+      "num": 50955,
+      "word": "萌兰选竹妃凹出字母A",
+      "onboard_time": 1704151225,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48970,
@@ -2841,14 +2945,6 @@
       "onboard_time": 1704148637,
       "rank": 39,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 40815,
-      "num": 46176,
-      "word": "国足38年首负中国香港",
-      "onboard_time": 1704150923,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 39102,
