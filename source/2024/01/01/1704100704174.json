@@ -1,0 +1,410 @@
+{
+  "runTime": 1704100704174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6366600,
+        "num": 6366600,
+        "word": "日本地震",
+        "onboard_time": 1704093755,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1183714,
+        "num": 1183714,
+        "word": "曾毅老师 我都有点嗑你俩了",
+        "onboard_time": 1704094834,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50776,
+        "num": 758211,
+        "word": "这是2024年第1天的中国",
+        "onboard_time": 1704066384,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2341538,
+        "num": 738489,
+        "word": "日本强震引发5米海啸",
+        "onboard_time": 1704095075,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613265,
+        "num": 613265,
+        "word": "南方小土豆涌入哈市洗浴店爆满",
+        "onboard_time": 1704097660,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486844,
+        "num": 486844,
+        "word": "易烊千玺在网站撒娇",
+        "onboard_time": 1704098619,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 666858,
+        "num": 481253,
+        "word": "日本多条新干线因地震停运",
+        "onboard_time": 1704097419,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442100,
+        "num": 442100,
+        "word": "樊振东2024第一条微博",
+        "onboard_time": 1704082772,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437108,
+        "num": 437108,
+        "word": "父母一句话心理医生和朋友全白干",
+        "onboard_time": 1704094296,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 647049,
+        "num": 436468,
+        "word": "日本今日已连发3次地震",
+        "onboard_time": 1704095795,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553690,
+        "num": 435653,
+        "word": "洗草莓时不要摘掉草莓蒂",
+        "onboard_time": 1704085773,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 434590,
+        "num": 434590,
+        "word": "吐槽美甲太丑忘记屏蔽美甲店",
+        "onboard_time": 1704085412,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 451844,
+        "num": 433974,
+        "word": "日本本州西岸近海7.8级左右地震",
+        "onboard_time": 1704094296,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431178,
+        "num": 431178,
+        "word": "苏醒蹭镜头",
+        "onboard_time": 1704093032,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423727,
+        "num": 423727,
+        "word": "成本14.6元卖6980的复活丹实则淀粉丸",
+        "onboard_time": 1704099161,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407918,
+        "num": 407918,
+        "word": "日本一地火山喷发",
+        "onboard_time": 1704100537,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350852,
+        "num": 350852,
+        "word": "小破站跨年 还是你会玩",
+        "onboard_time": 1704087332,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343204,
+        "num": 343204,
+        "word": "日本能登地区短时间内连发7次地震",
+        "onboard_time": 1704098798,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329579,
+        "num": 329579,
+        "word": "大侦探 正归来",
+        "onboard_time": 1704092370,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305020,
+        "num": 305020,
+        "word": "樊振东实名羡慕贾一凡奖金",
+        "onboard_time": 1704089852,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 751625,
+        "num": 304367,
+        "word": "女子孕吐请4天假被开除",
+        "onboard_time": 1704097304,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503361,
+        "num": 304155,
+        "word": "一个月不换的床单有多脏",
+        "onboard_time": 1704100598,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 298172,
+        "num": 298172,
+        "word": "法老不是要退圈吗",
+        "onboard_time": 1704093032,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286423,
+        "num": 286423,
+        "word": "日首相下令全力应对地震灾情",
+        "onboard_time": 1704100119,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269012,
+        "num": 269012,
+        "word": "哥们这真不是免费广告位吗",
+        "onboard_time": 1704094895,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256657,
+        "num": 256657,
+        "word": "连风都偏爱张小斐",
+        "onboard_time": 1704079236,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228236,
+        "num": 228236,
+        "word": "花少5冰岛站超长加期",
+        "onboard_time": 1704099397,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210271,
+        "num": 210271,
+        "word": "孟子义跑调很突出",
+        "onboard_time": 1704032709,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208434,
+        "num": 208434,
+        "word": "日本能登地区大海啸预警",
+        "onboard_time": 1704097837,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208161,
+        "num": 208161,
+        "word": "北京新年宝宝叫一博",
+        "onboard_time": 1704093032,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193401,
+        "num": 193401,
+        "word": "武汉一家3口的雕塑变成一家5口",
+        "onboard_time": 1704099999,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174047,
+        "num": 174047,
+        "word": "黑龙江致信感谢游客",
+        "onboard_time": 1704098500,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171501,
+        "num": 171501,
+        "word": "看得出来陶喆真的很满意",
+        "onboard_time": 1704098678,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165117,
+        "num": 165117,
+        "word": "王鹤棣宋茜 rapper和他的爱豆女友",
+        "onboard_time": 1704076716,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157565,
+        "num": 157565,
+        "word": "喝酒脸红的人 心脑血管疾病",
+        "onboard_time": 1704096101,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151825,
+        "num": 151825,
+        "word": "D社 该上班了",
+        "onboard_time": 1704074136,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138849,
+        "num": 138849,
+        "word": "2024上半年女兵应征报名今天开始",
+        "onboard_time": 1704098079,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 137743,
+        "num": 137743,
+        "word": "一直以为科目三是明星跳出来的",
+        "onboard_time": 1704096459,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137043,
+        "num": 137043,
+        "word": "RA战胜LNG",
+        "onboard_time": 1704099339,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131802,
+        "num": 131802,
+        "word": "RA晋级德杯四强",
+        "onboard_time": 1704099937,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125455,
+        "num": 125455,
+        "word": "新年第一天就被狗狗整笑了",
+        "onboard_time": 1704100299,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125311,
+        "num": 125311,
+        "word": "周深孟子义又唠上了",
+        "onboard_time": 1704091533,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124247,
+        "num": 124247,
+        "word": "杨迪 他们给的还是太多了",
+        "onboard_time": 1704091411,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121860,
+        "num": 121860,
+        "word": "2024年三倍工资日历",
+        "onboard_time": 1704089794,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 120635,
+        "num": 120635,
+        "word": "王鹤棣田曦薇玩萝卜刀",
+        "onboard_time": 1704100537,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113939,
+        "num": 113939,
+        "word": "愿逆风如解意 税后十个亿",
+        "onboard_time": 1704070354,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110456,
+        "num": 110456,
+        "word": "唐嫣繁花演技",
+        "onboard_time": 1704096219,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109841,
+        "num": 109841,
+        "word": "为什么小诊所啥病都能治",
+        "onboard_time": 1704085833,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109649,
+        "num": 109649,
+        "word": "真的相信女生生来就有爱人的能力",
+        "onboard_time": 1704091292,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106698,
+        "num": 106698,
+        "word": "阴阳师 水龙王",
+        "onboard_time": 1704092312,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024新年贺词#"
+    }
+  }
+}
