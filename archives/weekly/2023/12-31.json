@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704093427740,
+  "endTime": 1704094439697,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -193,6 +193,14 @@
       "onboard_time": 1704025852,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2530985,
+      "num": 2530985,
+      "word": "日本地震",
+      "onboard_time": 1704093755,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2495282,
@@ -603,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1064930,
+      "num": 1064930,
+      "word": "2024年三倍工资日历",
+      "onboard_time": 1704089794,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1057941,
       "num": 1057941,
       "word": "阿B你可以的 XG都来了",
@@ -705,14 +721,6 @@
       "onboard_time": 1704065061,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 954177,
-      "num": 954177,
-      "word": "2024年三倍工资日历",
-      "onboard_time": 1704089794,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 950641,
@@ -987,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 731786,
+      "num": 731786,
+      "word": "大侦探 正归来",
+      "onboard_time": 1704092370,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 712310,
       "num": 609636,
       "word": "周深和安达配合呼麦",
@@ -1147,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 593846,
+      "num": 593846,
+      "word": "苏醒蹭镜头",
+      "onboard_time": 1704093032,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590487,
       "num": 590487,
       "word": "湖南卫视节目单 什么时候出",
@@ -1160,14 +1184,6 @@
       "word": "央视跨年节目单",
       "onboard_time": 1703999671,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 587996,
-      "num": 587996,
-      "word": "大侦探 正归来",
-      "onboard_time": 1704092370,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -1185,6 +1201,14 @@
       "onboard_time": 1703996191,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579458,
+      "num": 579458,
+      "word": "法老不是要退圈吗",
+      "onboard_time": 1704093032,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 571288,
@@ -1499,6 +1523,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 459757,
+      "num": 443163,
+      "word": "杨迪 他们给的还是太多了",
+      "onboard_time": 1704091411,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448476,
       "num": 448476,
       "word": "韩家长雇私人侦探避免孩子被霸凌",
@@ -1512,14 +1544,6 @@
       "word": "窦靖童等的不是公交是孙燕姿吧",
       "onboard_time": 1704087813,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 443163,
-      "num": 443163,
-      "word": "杨迪 他们给的还是太多了",
-      "onboard_time": 1704091411,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -1561,6 +1585,14 @@
       "onboard_time": 1704042462,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 432898,
+      "num": 432898,
+      "word": "日本本州西岸近海7.8级左右地震",
+      "onboard_time": 1704094296,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426800,
@@ -1633,6 +1665,14 @@
       "onboard_time": 1704016772,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 394390,
+      "num": 394390,
+      "word": "周深孟子义又唠上了",
+      "onboard_time": 1704091533,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 393752,
@@ -1963,14 +2003,6 @@
       "category": "综艺,美妆"
     },
     {
-      "raw_hot": 291892,
-      "num": 291892,
-      "word": "周深孟子义又唠上了",
-      "onboard_time": 1704091533,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 291645,
       "num": 291645,
       "word": "积石山地震最后两名失联人员已找到",
@@ -2073,6 +2105,14 @@
       "onboard_time": 1704077792,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278461,
+      "num": 278461,
+      "word": "北京新年宝宝叫一博",
+      "onboard_time": 1704093032,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274541,
@@ -2203,14 +2243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253061,
-      "num": 253061,
-      "word": "苏醒蹭镜头",
-      "onboard_time": 1704093032,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251749,
       "num": 1154581,
       "word": "李国庆称与俞渝平分1.3亿",
@@ -2249,6 +2281,14 @@
       "onboard_time": 1704089852,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 247125,
+      "num": 179798,
+      "word": "父母一句话心理医生和朋友全白干",
+      "onboard_time": 1704094296,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 246725,
@@ -2425,14 +2465,6 @@
       "onboard_time": 1704089609,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220286,
-      "num": 220286,
-      "word": "法老不是要退圈吗",
-      "onboard_time": 1704093032,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 220057,
@@ -3243,14 +3275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149745,
-      "num": 149745,
-      "word": "北京新年宝宝叫一博",
-      "onboard_time": 1704093032,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148568,
       "num": 154455,
       "word": "浓眉当爹又当妈",
@@ -3273,6 +3297,14 @@
       "onboard_time": 1703996311,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146678,
+      "num": 146678,
+      "word": "灵隐寺新年一早人从众",
+      "onboard_time": 1704092791,
+      "rank": 43,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 146521,
@@ -3371,6 +3403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142923,
+      "num": 142923,
+      "word": "故宫2024开门红壁纸",
+      "onboard_time": 1704093873,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 142537,
       "num": 238569,
       "word": "奶奶的爱跨千山万水而来",
@@ -3467,7 +3507,7 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 137271,
+      "raw_hot": 138299,
       "num": 204372,
       "word": "青海海东最后一名地震失联人员被找到",
       "onboard_time": 1704089554,
@@ -3651,14 +3691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126080,
-      "num": 126080,
-      "word": "灵隐寺新年一早人从众",
-      "onboard_time": 1704092791,
-      "rank": 43,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 125416,
       "num": 125416,
       "word": "这是2024年第1天的中国",
@@ -3753,6 +3785,14 @@
       "onboard_time": 1703990311,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120490,
+      "num": 120490,
+      "word": "好像正在慢慢失去跨年的真实感",
+      "onboard_time": 1704092970,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 120410,
@@ -3985,6 +4025,14 @@
       "onboard_time": 1704082353,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105031,
+      "num": 202749,
+      "word": "深圳一步一个瑶妹",
+      "onboard_time": 1704091832,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 104593,
@@ -4291,14 +4339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74427,
-      "num": 202749,
-      "word": "深圳一步一个瑶妹",
-      "onboard_time": 1704091832,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 74103,
       "num": 102040,
       "word": "熬夜一次多久能恢复",
@@ -4356,7 +4396,7 @@
     },
     {
       "raw_hot": 62041,
-      "num": 951164,
+      "num": 1159997,
       "word": "2024年愿美好如约而至",
       "onboard_time": 1704082353,
       "rank": 2,
@@ -4665,6 +4705,14 @@
       "onboard_time": 1704027654,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16711,
+      "num": 176434,
+      "word": "2024的第一场自驾游",
+      "onboard_time": 1704093512,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 13929,
