@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704100704174,
+  "endTime": 1704101659262,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1338339,
+      "num": 813162,
+      "word": "日本一地火山喷发",
+      "onboard_time": 1704100537,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1317787,
       "num": 1317787,
       "word": "连风都偏爱张小斐",
@@ -203,8 +211,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1183714,
-      "num": 1183714,
+      "raw_hot": 1189051,
+      "num": 1189051,
       "word": "曾毅老师 我都有点嗑你俩了",
       "onboard_time": 1704094834,
       "rank": 7,
@@ -323,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 931028,
+      "num": 304155,
+      "word": "一个月不换的床单有多脏",
+      "onboard_time": 1704100598,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 922842,
       "num": 419530,
       "word": "为裁员西安某公司从CBD搬进秦岭山区",
@@ -401,6 +417,14 @@
       "onboard_time": 1704082772,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 776103,
+      "num": 776103,
+      "word": "孟子义叫江苏卫视大哥",
+      "onboard_time": 1704101077,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 769858,
@@ -603,6 +627,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 533640,
+      "num": 533640,
+      "word": "杨洋 男频",
+      "onboard_time": 1704101020,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 530870,
       "num": 678138,
       "word": "两个小朋友你们被警方点名表扬了",
@@ -611,20 +643,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 503361,
-      "num": 304155,
-      "word": "一个月不换的床单有多脏",
-      "onboard_time": 1704100598,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 502919,
       "num": 502919,
       "word": "林俊杰跨年演出完整版",
       "onboard_time": 1704076358,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 500881,
+      "num": 500881,
+      "word": "易烊千玺在网站撒娇",
+      "onboard_time": 1704098619,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 492595,
@@ -649,14 +681,6 @@
       "onboard_time": 1704094296,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 486844,
-      "num": 486844,
-      "word": "易烊千玺在网站撒娇",
-      "onboard_time": 1704098619,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 478403,
@@ -787,14 +811,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 407918,
-      "num": 407918,
-      "word": "日本一地火山喷发",
-      "onboard_time": 1704100537,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405947,
       "num": 908033,
       "word": "2024新年贺词",
@@ -923,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295372,
+      "num": 216304,
+      "word": "GALA 哭了",
+      "onboard_time": 1704101137,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 292895,
       "num": 292895,
       "word": "刘亦菲新年vlog",
@@ -987,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272989,
+      "num": 215450,
+      "word": "美国女子遭家暴报警被警察击毙",
+      "onboard_time": 1704100837,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269015,
       "num": 256638,
       "word": "真的相信女生生来就有爱人的能力",
@@ -1035,6 +1067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 244848,
+      "num": 244848,
+      "word": "武汉一家3口的雕塑变成一家5口",
+      "onboard_time": 1704099999,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244533,
       "num": 254150,
       "word": "他们经理饿了 就贴我们锅里了",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1704084635,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239766,
+      "num": 239766,
+      "word": "王鹤棣田曦薇玩萝卜刀",
+      "onboard_time": 1704100537,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 235106,
@@ -1131,20 +1179,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216456,
+      "num": 216456,
+      "word": "日本能登地区大海啸预警",
+      "onboard_time": 1704097837,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213532,
+      "num": 213532,
+      "word": "日本7.4级地震现场画面",
+      "onboard_time": 1704100780,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211239,
+      "num": 211239,
+      "word": "JDG对战TES",
+      "onboard_time": 1704101259,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209611,
       "num": 271056,
       "word": "小女孩 真的你不如让我站着",
       "onboard_time": 1704078876,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208434,
-      "num": 208434,
-      "word": "日本能登地区大海啸预警",
-      "onboard_time": 1704097837,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207738,
@@ -1193,14 +1257,6 @@
       "onboard_time": 1704080316,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 193401,
-      "num": 193401,
-      "word": "武汉一家3口的雕塑变成一家5口",
-      "onboard_time": 1704099999,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191859,
@@ -1329,6 +1385,14 @@
       "onboard_time": 1704008371,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155728,
+      "num": 155728,
+      "word": "肯德基小甜豆",
+      "onboard_time": 1704100958,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 150976,
@@ -1467,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127352,
+      "num": 127352,
+      "word": "更好的2024",
+      "onboard_time": 1704099037,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126567,
       "num": 126567,
       "word": "詹姆斯1分钟连得9分",
@@ -1489,14 +1561,6 @@
       "onboard_time": 1704066384,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120635,
-      "num": 120635,
-      "word": "王鹤棣田曦薇玩萝卜刀",
-      "onboard_time": 1704100537,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 120490,
@@ -1737,6 +1801,14 @@
       "onboard_time": 1704006270,
       "rank": 46,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 56276,
+      "num": 265762,
+      "word": "富得流油这种祝福谁能拒绝",
+      "onboard_time": 1704100902,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 55074,
