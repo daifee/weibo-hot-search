@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704198756297,
+  "endTime": 1704199676980,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -1323,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 800164,
+      "num": 800164,
+      "word": "哈尔滨元旦3天旅游总收入59.14亿",
+      "onboard_time": 1704197013,
+      "rank": 8,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 798544,
       "num": 798544,
       "word": "小杨哥称他不得已才当网红",
@@ -2283,12 +2291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 484120,
-      "num": 484120,
-      "word": "哈尔滨元旦3天旅游总收入59.14亿",
-      "onboard_time": 1704197013,
-      "rank": 8,
-      "category": "旅游,社会新闻"
+      "raw_hot": 483667,
+      "num": 483667,
+      "word": "80后男子中奖以为是电诈差点弃奖",
+      "onboard_time": 1704195991,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482881,
@@ -2491,14 +2499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 438544,
-      "num": 438544,
-      "word": "80后男子中奖以为是电诈差点弃奖",
-      "onboard_time": 1704195991,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 436495,
       "num": 1912769,
       "word": "兰州震感",
@@ -2595,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 421448,
+      "num": 421448,
+      "word": "繁花",
+      "onboard_time": 1703946578,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418635,
       "num": 418635,
       "word": "何老师 大米爆代表",
@@ -2633,6 +2641,14 @@
       "onboard_time": 1704168700,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 411930,
+      "num": 179234,
+      "word": "董事长发的红包被我一个人领了",
+      "onboard_time": 1704199174,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 411540,
@@ -3291,6 +3307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305556,
+      "num": 305556,
+      "word": "肖程皓发不当言论暂停其主持人工作",
+      "onboard_time": 1704199231,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304979,
       "num": 277780,
       "word": "李在明遇袭细节曝光",
@@ -3691,14 +3715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266861,
-      "num": 266861,
-      "word": "繁花",
-      "onboard_time": 1703946578,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 266333,
       "num": 266333,
       "word": "白月梵星首发剧照",
@@ -3825,6 +3841,14 @@
       "onboard_time": 1704020374,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 257812,
+      "num": 257812,
+      "word": "爷爷治愈了我多年的焦虑",
+      "onboard_time": 1704197313,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 255924,
@@ -4257,14 +4281,6 @@
       "onboard_time": 1704162820,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221903,
-      "num": 221903,
-      "word": "爷爷治愈了我多年的焦虑",
-      "onboard_time": 1704197313,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 220563,
@@ -5163,6 +5179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 179713,
+      "num": 179713,
+      "word": "滑雪的尽头 骨科",
+      "onboard_time": 1704198991,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178716,
       "num": 178716,
       "word": "茅台集团年利润首破千亿元",
@@ -5403,6 +5427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168920,
+      "num": 168920,
+      "word": "鸣龙少年",
+      "onboard_time": 1704112181,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167990,
       "num": 167990,
       "word": "灌篮高手 流川枫",
@@ -5459,6 +5491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166118,
+      "num": 166118,
+      "word": "东北大哥给台湾同胞茶倒满糖塞满",
+      "onboard_time": 1704198815,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 165935,
       "num": 165935,
       "word": "灰原哀跨年",
@@ -5505,14 +5545,6 @@
       "onboard_time": 1704155016,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163981,
-      "num": 163981,
-      "word": "鸣龙少年",
-      "onboard_time": 1704112181,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 163593,
@@ -5641,6 +5673,14 @@
       "onboard_time": 1704089672,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159102,
+      "num": 159102,
+      "word": "这只萨摩耶怎么走起路来乱七八糟",
+      "onboard_time": 1704198391,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 158995,
@@ -5929,14 +5969,6 @@
       "onboard_time": 1704102103,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 148738,
-      "num": 148738,
-      "word": "这只萨摩耶怎么走起路来乱七八糟",
-      "onboard_time": 1704198391,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 148568,
@@ -6385,6 +6417,14 @@
       "onboard_time": 1704010292,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134612,
+      "num": 134612,
+      "word": "日本海上保安厅飞机原定飞往灾区",
+      "onboard_time": 1704199471,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134450,
