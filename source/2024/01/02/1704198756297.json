@@ -1,0 +1,410 @@
+{
+  "runTime": 1704198756297,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2463164,
+        "num": 2463164,
+        "word": "日本海上保安厅飞机上已确认有5人死亡",
+        "onboard_time": 1704195332,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1228980,
+        "num": 1228980,
+        "word": "雷军 50万以内有对手吗",
+        "onboard_time": 1704193294,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38729,
+        "num": 1034888,
+        "word": "2024我们将共同见证",
+        "onboard_time": 1704184475,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996737,
+        "num": 996737,
+        "word": "日本羽田机场中国旅客发声",
+        "onboard_time": 1704193591,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786353,
+        "num": 786353,
+        "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
+        "onboard_time": 1704188012,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 720741,
+        "num": 720741,
+        "word": "张大大白鹿关晓彤合照",
+        "onboard_time": 1704195873,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512787,
+        "num": 512787,
+        "word": "赵丽颖辛芷蕾与素人合影",
+        "onboard_time": 1704190895,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 509104,
+        "num": 509104,
+        "word": "林一刘浩存全剧尺度最大的吻戏",
+        "onboard_time": 1704184775,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484120,
+        "num": 484120,
+        "word": "哈尔滨元旦3天旅游总收入59.14亿",
+        "onboard_time": 1704197013,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 450536,
+        "num": 450536,
+        "word": "日航起火客机上17人受伤",
+        "onboard_time": 1704197013,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555591,
+        "num": 450358,
+        "word": "日本地震已致至少48人死亡",
+        "onboard_time": 1704183034,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 438544,
+        "num": 438544,
+        "word": "80后男子中奖以为是电诈差点弃奖",
+        "onboard_time": 1704195991,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432182,
+        "num": 432182,
+        "word": "婚礼现场父亲两次起身为女儿披棉袄",
+        "onboard_time": 1704189876,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399969,
+        "num": 399969,
+        "word": "日本一飞机机场跑道起火",
+        "onboard_time": 1704188133,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399211,
+        "num": 399211,
+        "word": "向佐用婴儿车推郭碧婷",
+        "onboard_time": 1704190293,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342532,
+        "num": 342532,
+        "word": "次弟",
+        "onboard_time": 1704190956,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323831,
+        "num": 323831,
+        "word": "杨紫许龄月二搭",
+        "onboard_time": 1704192815,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321949,
+        "num": 321949,
+        "word": "童漠男人设崩了",
+        "onboard_time": 1704191616,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296127,
+        "num": 296127,
+        "word": "前世界冠军疑似被丈夫撞死",
+        "onboard_time": 1704178231,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284910,
+        "num": 284910,
+        "word": "东北司机傲娇向乘客炫耀小土豆送的娃娃",
+        "onboard_time": 1704188793,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 281671,
+        "num": 281671,
+        "word": "蒋欣 华妃13年后再演反派",
+        "onboard_time": 1704182977,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266861,
+        "num": 266861,
+        "word": "繁花",
+        "onboard_time": 1704197853,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259446,
+        "num": 259446,
+        "word": "出现这2个字你买到的是假牛奶",
+        "onboard_time": 1704177630,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 233170,
+        "num": 233170,
+        "word": "好想去哈尔滨",
+        "onboard_time": 1704197555,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 228207,
+        "num": 228207,
+        "word": "杨迪回应发未P图",
+        "onboard_time": 1704187532,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221903,
+        "num": 221903,
+        "word": "爷爷治愈了我多年的焦虑",
+        "onboard_time": 1704197313,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206673,
+        "num": 206673,
+        "word": "被指肛珠作弊象棋冠军起诉中国棋协",
+        "onboard_time": 1704180032,
+        "rank": 26,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 197367,
+        "num": 197367,
+        "word": "新疆姑娘在广西送外卖走红",
+        "onboard_time": 1704195632,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192728,
+        "num": 192728,
+        "word": "拜登全年37%时间在度假胜地",
+        "onboard_time": 1704194553,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187926,
+        "num": 187926,
+        "word": "消费左移深圳30元就能吃好",
+        "onboard_time": 1704196533,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 194691,
+        "num": 185437,
+        "word": "三招告别蒜头鼻",
+        "onboard_time": 1704197555,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 182377,
+        "num": 182377,
+        "word": "首尔歌谣大赏",
+        "onboard_time": 1704196413,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179097,
+        "num": 179097,
+        "word": "李在明遇袭后文在寅发声",
+        "onboard_time": 1704183758,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169684,
+        "num": 169684,
+        "word": "杨紫琼当奶奶",
+        "onboard_time": 1704189756,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167427,
+        "num": 167427,
+        "word": "中泰永久互相免签",
+        "onboard_time": 1704173134,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 165691,
+        "num": 165691,
+        "word": "咒术回战 五条悟宿傩对决",
+        "onboard_time": 1704197431,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 163981,
+        "num": 163981,
+        "word": "鸣龙少年",
+        "onboard_time": 1704196832,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151132,
+        "num": 151132,
+        "word": "把268元的裤子砍成了60元",
+        "onboard_time": 1704177630,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148738,
+        "num": 148738,
+        "word": "这只萨摩耶怎么走起路来乱七八糟",
+        "onboard_time": 1704198391,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145825,
+        "num": 145825,
+        "word": "把仓鼠带回老家好像更可怜了",
+        "onboard_time": 1704197974,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145073,
+        "num": 145073,
+        "word": "吴千语很爱听施伯雄讲前任",
+        "onboard_time": 1704191136,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144738,
+        "num": 144738,
+        "word": "郭晓婷草莓妆",
+        "onboard_time": 1704193832,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140616,
+        "num": 140616,
+        "word": "鲜虾一口酥",
+        "onboard_time": 1704194313,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139263,
+        "num": 139263,
+        "word": "别拿孩子出气有本事找家长",
+        "onboard_time": 1704193473,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135356,
+        "num": 135356,
+        "word": "王一博沈梦辰犹豫的那几秒在想什么",
+        "onboard_time": 1704189335,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135231,
+        "num": 135231,
+        "word": "虞书欣戏份 删减",
+        "onboard_time": 1704175531,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131061,
+        "num": 131061,
+        "word": "新马泰免签了也变贵了",
+        "onboard_time": 1704184176,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 126902,
+        "num": 126902,
+        "word": "新京报电竞专访一诺Cat",
+        "onboard_time": 1704198270,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125629,
+        "num": 125629,
+        "word": "国色芳华 经商题材",
+        "onboard_time": 1704187233,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120182,
+        "num": 120182,
+        "word": "小杨哥称他不得已才当网红",
+        "onboard_time": 1704180514,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024继续向星辰大海阔步前行#"
+    }
+  }
+}

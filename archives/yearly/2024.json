@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704195255223,
+  "endTime": 1704198756297,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -96,6 +96,14 @@
       "word": "日本气象厅修正地震震度",
       "onboard_time": 1704119801,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2463164,
+      "num": 2463164,
+      "word": "日本海上保安厅飞机上已确认有5人死亡",
+      "onboard_time": 1704195332,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -371,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1228980,
+      "num": 1228980,
+      "word": "雷军 50万以内有对手吗",
+      "onboard_time": 1704193294,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1226715,
       "num": 826297,
       "word": "孟宴臣杀回来了",
@@ -433,14 +449,6 @@
       "onboard_time": 1704038932,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1143895,
-      "num": 1143895,
-      "word": "雷军 50万以内有对手吗",
-      "onboard_time": 1704193294,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 1127116,
@@ -523,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 996737,
+      "num": 996737,
+      "word": "日本羽田机场中国旅客发声",
+      "onboard_time": 1704193591,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 985845,
       "num": 985845,
       "word": "罗志祥演唱会跳科目三",
@@ -561,14 +577,6 @@
       "onboard_time": 1704065061,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 956327,
-      "num": 614336,
-      "word": "日本羽田机场中国旅客发声",
-      "onboard_time": 1704193591,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 951553,
@@ -895,6 +903,14 @@
       "num": 731786,
       "word": "大侦探 正归来",
       "onboard_time": 1704092370,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 720741,
+      "num": 720741,
+      "word": "张大大白鹿关晓彤合照",
+      "onboard_time": 1704195873,
       "rank": 5,
       "category": "综艺"
     },
@@ -1435,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 484120,
+      "num": 484120,
+      "word": "哈尔滨元旦3天旅游总收入59.14亿",
+      "onboard_time": 1704197013,
+      "rank": 8,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 482437,
       "num": 482437,
       "word": "赵露思后悔拒绝王安宇拍照",
@@ -1523,6 +1547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 450536,
+      "num": 450536,
+      "word": "日航起火客机上17人受伤",
+      "onboard_time": 1704197013,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446733,
       "num": 412357,
       "word": "窦靖童等的不是公交是孙燕姿吧",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1704163297,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438544,
+      "num": 438544,
+      "word": "80后男子中奖以为是电诈差点弃奖",
+      "onboard_time": 1704195991,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435892,
@@ -2361,46 +2401,6 @@
       "onboard_time": 1704091292,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 269012,
-      "num": 269012,
-      "word": "哥们这真不是免费广告位吗",
-      "onboard_time": 1704094895,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 267052,
-      "num": 267052,
-      "word": "王源去新疆了",
-      "onboard_time": 1704171818,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 266333,
-      "num": 266333,
-      "word": "白月梵星首发剧照",
-      "onboard_time": 1704079414,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 266272,
-      "num": 266272,
-      "word": "刘德华陪孩子写作业也会鸡飞狗跳",
-      "onboard_time": 1704107738,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 264857,
-      "num": 1033152,
-      "word": "老人就餐被卡喉幸亏邻桌是医学生",
-      "onboard_time": 1704104561,
-      "rank": 24,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

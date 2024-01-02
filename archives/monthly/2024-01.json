@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704195255223,
+  "endTime": 1704198756297,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -96,6 +96,14 @@
       "word": "日本气象厅修正地震震度",
       "onboard_time": 1704119801,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2463164,
+      "num": 2463164,
+      "word": "日本海上保安厅飞机上已确认有5人死亡",
+      "onboard_time": 1704195332,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -371,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1228980,
+      "num": 1228980,
+      "word": "雷军 50万以内有对手吗",
+      "onboard_time": 1704193294,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1226715,
       "num": 826297,
       "word": "孟宴臣杀回来了",
@@ -433,14 +449,6 @@
       "onboard_time": 1704038932,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1143895,
-      "num": 1143895,
-      "word": "雷军 50万以内有对手吗",
-      "onboard_time": 1704193294,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 1127116,
@@ -523,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 996737,
+      "num": 996737,
+      "word": "日本羽田机场中国旅客发声",
+      "onboard_time": 1704193591,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 985845,
       "num": 985845,
       "word": "罗志祥演唱会跳科目三",
@@ -561,14 +577,6 @@
       "onboard_time": 1704065061,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 956327,
-      "num": 614336,
-      "word": "日本羽田机场中国旅客发声",
-      "onboard_time": 1704193591,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 951553,
@@ -895,6 +903,14 @@
       "num": 731786,
       "word": "大侦探 正归来",
       "onboard_time": 1704092370,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 720741,
+      "num": 720741,
+      "word": "张大大白鹿关晓彤合照",
+      "onboard_time": 1704195873,
       "rank": 5,
       "category": "综艺"
     },
@@ -1435,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 484120,
+      "num": 484120,
+      "word": "哈尔滨元旦3天旅游总收入59.14亿",
+      "onboard_time": 1704197013,
+      "rank": 8,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 482437,
       "num": 482437,
       "word": "赵露思后悔拒绝王安宇拍照",
@@ -1523,6 +1547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 450536,
+      "num": 450536,
+      "word": "日航起火客机上17人受伤",
+      "onboard_time": 1704197013,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446733,
       "num": 412357,
       "word": "窦靖童等的不是公交是孙燕姿吧",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1704163297,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438544,
+      "num": 438544,
+      "word": "80后男子中奖以为是电诈差点弃奖",
+      "onboard_time": 1704195991,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435892,
@@ -2379,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266861,
+      "num": 266861,
+      "word": "繁花",
+      "onboard_time": 1704113680,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266333,
       "num": 266333,
       "word": "白月梵星首发剧照",
@@ -2635,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233170,
+      "num": 233170,
+      "word": "好想去哈尔滨",
+      "onboard_time": 1704197555,
+      "rank": 23,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 232680,
       "num": 226158,
       "word": "情侣必做的100件事",
@@ -2739,6 +2795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221903,
+      "num": 221903,
+      "word": "爷爷治愈了我多年的焦虑",
+      "onboard_time": 1704197313,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221753,
       "num": 805466,
       "word": "跨年图片",
@@ -2824,14 +2888,6 @@
       "word": "永夜星河",
       "onboard_time": 1704165215,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 214553,
-      "num": 214553,
-      "word": "繁花",
-      "onboard_time": 1704113680,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -3043,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197367,
+      "num": 197367,
+      "word": "新疆姑娘在广西送外卖走红",
+      "onboard_time": 1704195632,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195515,
       "num": 249891,
       "word": "为什么童谣里一般都唱外婆",
@@ -3073,6 +3137,14 @@
       "onboard_time": 1704150503,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194691,
+      "num": 185437,
+      "word": "三招告别蒜头鼻",
+      "onboard_time": 1704197555,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 194559,
@@ -3211,6 +3283,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 187926,
+      "num": 187926,
+      "word": "消费左移深圳30元就能吃好",
+      "onboard_time": 1704196533,
+      "rank": 29,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 186784,
       "num": 186784,
       "word": "一闪一闪亮星星 时间线",
@@ -3257,6 +3337,14 @@
       "onboard_time": 1704073536,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 182377,
+      "num": 182377,
+      "word": "首尔歌谣大赏",
+      "onboard_time": 1704196413,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 181253,
@@ -3467,6 +3555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165691,
+      "num": 165691,
+      "word": "咒术回战 五条悟宿傩对决",
+      "onboard_time": 1704197431,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 165137,
       "num": 190177,
       "word": "一些旺自己的小玄学",
@@ -3481,6 +3577,14 @@
       "onboard_time": 1704155016,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163981,
+      "num": 163981,
+      "word": "鸣龙少年",
+      "onboard_time": 1704112181,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 163401,
@@ -3731,6 +3835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148738,
+      "num": 148738,
+      "word": "这只萨摩耶怎么走起路来乱七八糟",
+      "onboard_time": 1704198391,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148382,
       "num": 148382,
       "word": "九岁女孩放学后在校门口练拳热身",
@@ -3761,6 +3873,14 @@
       "onboard_time": 1704104199,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145825,
+      "num": 145825,
+      "word": "把仓鼠带回老家好像更可怜了",
+      "onboard_time": 1704197974,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 145331,
@@ -4083,6 +4203,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 126902,
+      "num": 126902,
+      "word": "新京报电竞专访一诺Cat",
+      "onboard_time": 1704198270,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126567,
       "num": 126567,
       "word": "詹姆斯1分钟连得9分",
@@ -4249,14 +4377,6 @@
       "onboard_time": 1704109302,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112631,
-      "num": 112631,
-      "word": "鸣龙少年",
-      "onboard_time": 1704112181,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 112604,
