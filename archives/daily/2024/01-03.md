@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/03 00:21:08 ~ 2024/01/03 02:35:11
+本榜单时间：2024/01/03 00:21:08 ~ 2024/01/03 03:14:12
 </p>
 </blockquote>
 <p>
@@ -353,6 +353,12 @@ ITZY新歌MV公开（热度：20332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E5%BC%80%E9%A5%AD%E5%89%8D%E4%BA%92%E9%A3%9E%E9%A5%BA%E5%AD%90%23" target="weibo">
 航天员太空开饭前互飞饺子（热度：20256）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23106%E5%9C%A8%E4%B8%9C%E5%8C%97%E8%83%BD%E5%90%83%E5%A4%9A%E5%B0%91%E9%BA%BB%E8%BE%A3%E7%83%AB%23" target="weibo">
+106在东北能吃多少麻辣烫（热度：16537）
 </a>
 </li>
 
