@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704165504745,
+  "endTime": 1704166448200,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -251,8 +251,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1345823,
-      "num": 1345823,
+      "raw_hot": 1360274,
+      "num": 1360274,
       "word": "尹锡悦回应李在明遇袭",
       "onboard_time": 1704163717,
       "rank": 3,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1016858,
+      "num": 1016858,
+      "word": "李在明暂无生命危险",
+      "onboard_time": 1704164561,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1010509,
       "num": 1010509,
       "word": "2024年确定为中朝友好年",
@@ -417,14 +425,6 @@
       "onboard_time": 1704163537,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 974846,
-      "num": 974846,
-      "word": "李在明暂无生命危险",
-      "onboard_time": 1704164561,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 973921,
@@ -515,6 +515,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 903569,
+      "num": 409625,
+      "word": "李在明被30厘米长刀刺中颈部",
+      "onboard_time": 1704165336,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 901947,
       "num": 901947,
       "word": "王家卫拍出了辛芷蕾的人生镜头",
@@ -585,6 +593,14 @@
       "onboard_time": 1704104918,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 811412,
+      "num": 811412,
+      "word": "小杨哥劝大家别发大财",
+      "onboard_time": 1704166236,
+      "rank": 6,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 806211,
@@ -915,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 578047,
+      "num": 277369,
+      "word": "男子患胃癌一查一家5口全感染幽门螺杆菌",
+      "onboard_time": 1704165158,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 577325,
       "num": 577325,
       "word": "樊振东说无队内cp",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1704121602,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457729,
+      "num": 404363,
+      "word": "赵露思后悔拒绝王安宇拍照",
+      "onboard_time": 1704164918,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 454529,
@@ -1393,6 +1425,14 @@
       "onboard_time": 1704152488,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 344919,
+      "num": 344919,
+      "word": "男子冒充特种兵混进前线跟总理合影",
+      "onboard_time": 1704164980,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343204,
@@ -1731,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262188,
+      "num": 262188,
+      "word": "奚梦瑶回应网友说何猷君不犟嘴",
+      "onboard_time": 1704165517,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262068,
       "num": 262068,
       "word": "国足3人染红",
@@ -1761,14 +1809,6 @@
       "onboard_time": 1704157777,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251723,
-      "num": 232637,
-      "word": "赵露思后悔拒绝王安宇拍照",
-      "onboard_time": 1704164918,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 251515,
@@ -1835,12 +1875,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 239040,
-      "num": 239040,
-      "word": "男子冒充特种兵混进前线跟总理合影",
-      "onboard_time": 1704164980,
+      "raw_hot": 238660,
+      "num": 238660,
+      "word": "袭击李在明嫌疑人照片曝光",
+      "onboard_time": 1704165817,
       "rank": 27,
-      "category": "社会新闻"
+      "category": "国外时政"
     },
     {
       "raw_hot": 235965,
@@ -1897,14 +1937,6 @@
       "onboard_time": 1704088775,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232621,
-      "num": 232621,
-      "word": "李在明被30厘米长刀刺中颈部",
-      "onboard_time": 1704165336,
-      "rank": 32,
-      "category": "国外时政"
     },
     {
       "raw_hot": 232054,
@@ -2401,14 +2433,6 @@
       "onboard_time": 1704156819,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175396,
-      "num": 175396,
-      "word": "男子患胃癌一查一家5口全感染幽门螺杆菌",
-      "onboard_time": 1704165158,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 174400,
@@ -3171,6 +3195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103590,
+      "num": 1312722,
+      "word": "2024开年第1个工作日",
+      "onboard_time": 1704166056,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102940,
       "num": 192646,
       "word": "2024要开心",
@@ -3297,6 +3329,14 @@
       "onboard_time": 1704069331,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 80214,
+      "num": 1443083,
+      "word": "高清图看中国人自己建造的大型邮轮",
+      "onboard_time": 1704165336,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79489,
@@ -3561,14 +3601,6 @@
       "onboard_time": 1704133518,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33247,
-      "num": 1443083,
-      "word": "高清图看中国人自己建造的大型邮轮",
-      "onboard_time": 1704165336,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32498,
