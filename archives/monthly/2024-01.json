@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704231262271,
+  "endTime": 1704233792256,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -4483,6 +4483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137569,
+      "num": 67549,
+      "word": "主播声称几万元貂皮卖399大妈狂下单",
+      "onboard_time": 1704224235,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137147,
       "num": 137147,
       "word": "张靓颖唱了刘亦菲想听的歌",
@@ -5051,14 +5059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87890,
-      "num": 42571,
-      "word": "主播声称几万元貂皮卖399大妈狂下单",
-      "onboard_time": 1704224235,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85242,
       "num": 77375,
       "word": "陶喆真的老了",
@@ -5363,12 +5363,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 43925,
+      "num": 26980,
+      "word": "多家卫视晒跨年晚会战报均称获得第一",
+      "onboard_time": 1704228553,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39999,
       "num": 642492,
       "word": "2024继续出发",
       "onboard_time": 1704168400,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39683,
+      "num": 22638,
+      "word": "终于明白为什么喜欢安小鸟了",
+      "onboard_time": 1704224055,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 39102,
@@ -5409,14 +5425,6 @@
       "onboard_time": 1704170801,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 34590,
-      "num": 17173,
-      "word": "终于明白为什么喜欢安小鸟了",
-      "onboard_time": 1704224055,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 33831,
@@ -5467,14 +5475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25392,
-      "num": 20797,
-      "word": "多家卫视晒跨年晚会战报均称获得第一",
-      "onboard_time": 1704228553,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 25338,
       "num": 25338,
       "word": "cos的风还是吹到了霉霉大电影",
@@ -5507,12 +5507,44 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 19411,
+      "num": 19411,
+      "word": "繁花胡歌马伊琍初遇镜头",
+      "onboard_time": 1704232693,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19028,
       "num": 19028,
       "word": "北京卫视 摇滚大乱炖",
       "onboard_time": 1704134418,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18466,
+      "num": 18466,
+      "word": "谢娜说爱人拼尽全力的样子是最迷人的",
+      "onboard_time": 1704228194,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17750,
+      "num": 17750,
+      "word": "永远的天天兄弟",
+      "onboard_time": 1704231852,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17297,
+      "num": 17297,
+      "word": "哈尔滨有甜豆腐脑了",
+      "onboard_time": 1704225674,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 16711,
@@ -5531,20 +5563,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 15094,
-      "num": 15094,
+      "raw_hot": 16431,
+      "num": 16431,
       "word": "游客吐槽摩天轮跨年倒数变广告",
       "onboard_time": 1704222915,
       "rank": 41,
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 13063,
-      "num": 13063,
-      "word": "谢娜说爱人拼尽全力的样子是最迷人的",
-      "onboard_time": 1704228194,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 13623,
+      "num": 15956,
+      "word": "脱轨结局he",
+      "onboard_time": 1704227592,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 11944,
@@ -5561,14 +5593,6 @@
       "onboard_time": 1704137535,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11429,
-      "num": 11429,
-      "word": "脱轨结局he",
-      "onboard_time": 1704227592,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 11064,
@@ -5601,14 +5625,6 @@
       "onboard_time": 1704227653,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 9684,
-      "num": 9684,
-      "word": "哈尔滨有甜豆腐脑了",
-      "onboard_time": 1704225674,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 8547,
