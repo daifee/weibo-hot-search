@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/03 00:21:08 ~ 2024/01/03 04:18:39
+本榜单时间：2024/01/03 00:21:08 ~ 2024/01/03 04:34:37
 </p>
 </blockquote>
 <p>
@@ -279,6 +279,12 @@ Jaemin和GISELLE的cha（热度：91183）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E5%A3%B0%E7%A7%B0%E5%87%A0%E4%B8%87%E5%85%83%E8%B2%82%E7%9A%AE%E5%8D%96399%E5%A4%A7%E5%A6%88%E7%8B%82%E4%B8%8B%E5%8D%95%23" target="weibo">
+主播声称几万元貂皮卖399大妈狂下单（热度：87890）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%96%91%E4%BC%BC%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%92%9E%E6%AD%BB%23" target="weibo">
 前世界冠军疑似被丈夫撞死（热度：84904）
 </a>
@@ -287,12 +293,6 @@ Jaemin和GISELLE的cha（热度：91183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%20%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%23" target="weibo">
 陈哲远 枭起青壤（热度：79540）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E5%A3%B0%E7%A7%B0%E5%87%A0%E4%B8%87%E5%85%83%E8%B2%82%E7%9A%AE%E5%8D%96399%E5%A4%A7%E5%A6%88%E7%8B%82%E4%B8%8B%E5%8D%95%23" target="weibo">
-主播声称几万元貂皮卖399大妈狂下单（热度：76895）
 </a>
 </li>
 
@@ -352,7 +352,7 @@ Jaemin和GISELLE的cha（热度：91183）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E5%AE%89%E5%B0%8F%E9%B8%9F%E4%BA%86%23" target="weibo">
-终于明白为什么喜欢安小鸟了（热度：21440）
+终于明白为什么喜欢安小鸟了（热度：26542）
 </a>
 </li>
 
@@ -388,7 +388,13 @@ ITZY新歌MV公开（热度：20332）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%A5%E8%82%89%E7%82%BC%E7%8C%AA%E6%B2%B9%23" target="weibo">
-肥肉炼猪油（热度：10426）
+肥肉炼猪油（热度：11038）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E8%8A%A5%E8%A7%81%E4%B8%8B%E4%B8%8B%E6%96%B0%E5%B9%B4%E8%AF%84%E8%AE%BA%23" target="weibo">
+咒术回战芥见下下新年评论（热度：10296）
 </a>
 </li>
 

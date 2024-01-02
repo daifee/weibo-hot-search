@@ -1,6 +1,6 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704226719666,
+  "endTime": 1704227677704,
   "band_list": [
     {
       "raw_hot": 1317466,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87890,
+      "num": 37654,
+      "word": "主播声称几万元貂皮卖399大妈狂下单",
+      "onboard_time": 1704224235,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84904,
       "num": 84904,
       "word": "前世界冠军疑似被丈夫撞死",
@@ -369,14 +377,6 @@
       "onboard_time": 1704201936,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76895,
-      "num": 37654,
-      "word": "主播声称几万元貂皮卖399大妈狂下单",
-      "onboard_time": 1704224235,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73851,
@@ -451,7 +451,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21440,
+      "raw_hot": 26542,
       "num": 17173,
       "word": "终于明白为什么喜欢安小鸟了",
       "onboard_time": 1704224055,
@@ -499,12 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10426,
-      "num": 10426,
+      "raw_hot": 11038,
+      "num": 11038,
       "word": "肥肉炼猪油",
       "onboard_time": 1704225852,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 10296,
+      "num": 10296,
+      "word": "咒术回战芥见下下新年评论",
+      "onboard_time": 1704227653,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 9684,
