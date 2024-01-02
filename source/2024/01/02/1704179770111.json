@@ -1,0 +1,410 @@
+{
+  "runTime": 1704179770111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4372575,
+        "num": 4372575,
+        "word": "中泰永久互相免签",
+        "onboard_time": 1704173134,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1209567,
+        "num": 1209567,
+        "word": "前世界冠军疑似被丈夫撞死",
+        "onboard_time": 1704178231,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81441,
+        "num": 1113378,
+        "word": "2024开年第1个工作日",
+        "onboard_time": 1704166056,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055554,
+        "num": 1055554,
+        "word": "虞书欣戏份 删减",
+        "onboard_time": 1704175531,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 860048,
+        "num": 860048,
+        "word": "把268元的裤子砍成了60元",
+        "onboard_time": 1704177630,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 717513,
+        "num": 717513,
+        "word": "小杨哥劝大家别发大财",
+        "onboard_time": 1704166236,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 671520,
+        "num": 671520,
+        "word": "出现这2个字你买到的是假牛奶",
+        "onboard_time": 1704177630,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 658355,
+        "num": 658355,
+        "word": "李在明被30厘米长刀刺中颈部",
+        "onboard_time": 1704165336,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 654331,
+        "num": 654331,
+        "word": "青岛保安刺死外卖员背后",
+        "onboard_time": 1704174691,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609871,
+        "num": 609871,
+        "word": "孟佳评价金莎孙丞潇感情",
+        "onboard_time": 1704179014,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611159,
+        "num": 595105,
+        "word": "李在明疑似颈静脉损伤",
+        "onboard_time": 1704176912,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 562501,
+        "num": 562501,
+        "word": "李在明遇袭",
+        "onboard_time": 1704160295,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 497075,
+        "num": 497075,
+        "word": "官方通报湖南一碗麻辣烫106元",
+        "onboard_time": 1704166538,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 419629,
+        "num": 419629,
+        "word": "日本地震已致至少30人死亡",
+        "onboard_time": 1704173313,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415989,
+        "num": 415989,
+        "word": "李现国色芳华妆造",
+        "onboard_time": 1704177092,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373085,
+        "num": 373085,
+        "word": "你好香啊 你也是",
+        "onboard_time": 1704177630,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 362101,
+        "num": 362101,
+        "word": "学校回应高校干部酒后家暴打死妻子",
+        "onboard_time": 1704176014,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 338978,
+        "num": 338978,
+        "word": "B站2023百大UP主",
+        "onboard_time": 1704167978,
+        "rank": 17,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 325321,
+        "num": 325321,
+        "word": "苏醒一家三口同框",
+        "onboard_time": 1704175412,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275369,
+        "num": 275369,
+        "word": "金智秀与哥哥成立新公司",
+        "onboard_time": 1704174033,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264368,
+        "num": 264368,
+        "word": "男子患胃癌一查一家5口全感染幽门螺杆菌",
+        "onboard_time": 1704165158,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250214,
+        "num": 250214,
+        "word": "李在明暂无生命危险",
+        "onboard_time": 1704164561,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 250046,
+        "num": 250046,
+        "word": "涉嫌代孕的武汉普仁医院被罚5万",
+        "onboard_time": 1704167677,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248899,
+        "num": 248899,
+        "word": "何润东都演任嘉伦爸爸了",
+        "onboard_time": 1704170801,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75282,
+        "num": 238189,
+        "word": "出差去过最冷门的地方",
+        "onboard_time": 1704177993,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 235936,
+        "num": 235936,
+        "word": "迪丽热巴吐槽王安宇擦脸",
+        "onboard_time": 1704177332,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226419,
+        "num": 226419,
+        "word": "王者荣耀上央视了",
+        "onboard_time": 1704179735,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206014,
+        "num": 206014,
+        "word": "樊振东 签表",
+        "onboard_time": 1704179434,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189832,
+        "num": 189832,
+        "word": "哈尔滨已经人均夹子音",
+        "onboard_time": 1704173558,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 188603,
+        "num": 188603,
+        "word": "田曦薇花钿妆",
+        "onboard_time": 1704174933,
+        "rank": 29,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 188011,
+        "num": 188011,
+        "word": "杨紫李现二搭",
+        "onboard_time": 1704167256,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186024,
+        "num": 186024,
+        "word": "深圳街头放免费钢琴大叔弹到忘记时间",
+        "onboard_time": 1704176553,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177819,
+        "num": 177819,
+        "word": "微博开新年",
+        "onboard_time": 1704178833,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182564,
+        "num": 177682,
+        "word": "长大后为什么总会留意路边的小孩呢",
+        "onboard_time": 1704179253,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177222,
+        "num": 177222,
+        "word": "禹洋吴凡",
+        "onboard_time": 1704177873,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171561,
+        "num": 171561,
+        "word": "小米汽车电池扛子弹",
+        "onboard_time": 1704179014,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158638,
+        "num": 158638,
+        "word": "呼伦贝尔天空出现幻日奇观",
+        "onboard_time": 1704179614,
+        "rank": 36,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 152242,
+        "num": 152242,
+        "word": "5人跨年夜捡4小时烟花筒卖了9块",
+        "onboard_time": 1704171339,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149240,
+        "num": 149240,
+        "word": "非诚勿扰3票房",
+        "onboard_time": 1704175531,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141503,
+        "num": 141503,
+        "word": "关晓彤父亲持股的天然呆奶茶被限消",
+        "onboard_time": 1704170438,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137058,
+        "num": 137058,
+        "word": "赵露思后悔拒绝王安宇拍照",
+        "onboard_time": 1704164918,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127503,
+        "num": 127503,
+        "word": "鸣龙少年别搞逆袭了",
+        "onboard_time": 1704173733,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126322,
+        "num": 126322,
+        "word": "今年的哈尔滨本地人也没见过",
+        "onboard_time": 1704176014,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124336,
+        "num": 124336,
+        "word": "156家A股上市公司被证监会立案调查",
+        "onboard_time": 1704174393,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 520220,
+        "num": 122974,
+        "word": "王一博这几天别上网了",
+        "onboard_time": 1704171876,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121090,
+        "num": 121090,
+        "word": "爷爷忘给孙女买玩具被太奶挥拐催促",
+        "onboard_time": 1704160655,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118468,
+        "num": 118468,
+        "word": "微博之夜",
+        "onboard_time": 1704178173,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115975,
+        "num": 115975,
+        "word": "罗志祥演唱会跳科目三",
+        "onboard_time": 1704163537,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115391,
+        "num": 115391,
+        "word": "早知道去你家跨年了",
+        "onboard_time": 1704179674,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114229,
+        "num": 114229,
+        "word": "iPhone为什么只有P大写",
+        "onboard_time": 1704121303,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹2023#"
+    }
+  }
+}
