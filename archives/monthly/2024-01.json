@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704206037653,
+  "endTime": 1704208687899,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -137,6 +137,22 @@
       "onboard_time": 1704109476,
       "rank": 0,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 1892107,
+      "num": 534553,
+      "word": "日本地震死亡人数增至55人",
+      "onboard_time": 1704207035,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1891044,
+      "num": 1891044,
+      "word": "7年情侣上恋综被所有人劝分",
+      "onboard_time": 1704206677,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1880895,
@@ -459,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1154144,
+      "num": 1154144,
+      "word": "纽约",
+      "onboard_time": 1704204094,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1146547,
       "num": 1146547,
       "word": "凤凰传奇赵露思 吉祥三宝",
@@ -489,14 +513,6 @@
       "onboard_time": 1704182977,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1119858,
-      "num": 1119858,
-      "word": "纽约",
-      "onboard_time": 1704204094,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1092981,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 1013321,
-      "num": 317612,
+      "num": 328515,
       "word": "女子二胎分娩后肠子内脏往外凸",
       "onboard_time": 1704200852,
       "rank": 30,
@@ -947,6 +963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 736527,
+      "num": 736527,
+      "word": "林墨 电梯夹层",
+      "onboard_time": 1704205358,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 733327,
       "num": 733327,
       "word": "孕妇被坠窗砸伤为治疗终止妊娠",
@@ -969,6 +993,14 @@
       "onboard_time": 1704092370,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 725766,
+      "num": 725766,
+      "word": "纽约发生一系列爆炸",
+      "onboard_time": 1704205298,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 720741,
@@ -1240,6 +1272,14 @@
       "word": "日本地震已致至少30人死亡",
       "onboard_time": 1704173313,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616561,
+      "num": 616561,
+      "word": "日本飞机相撞事故为航空事故",
+      "onboard_time": 1704206916,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1563,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 481327,
+      "num": 481327,
+      "word": "跨年晚会真假唱鉴定",
+      "onboard_time": 1704207758,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478403,
       "num": 311782,
       "word": "张凌赫 语音回复",
@@ -1617,14 +1665,6 @@
       "onboard_time": 1704204033,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 470896,
-      "num": 470896,
-      "word": "纽约发生一系列爆炸",
-      "onboard_time": 1704205298,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 467310,
@@ -1689,6 +1729,14 @@
       "onboard_time": 1704087813,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445374,
+      "num": 445374,
+      "word": "太超前了尔滨",
+      "onboard_time": 1704207095,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 443073,
@@ -2139,14 +2187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333289,
-      "num": 333289,
-      "word": "林墨 电梯夹层",
-      "onboard_time": 1704205358,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 332916,
       "num": 332916,
       "word": "马立奥热情营业干脆收工",
@@ -2233,6 +2273,14 @@
       "onboard_time": 1704189335,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314936,
+      "num": 314936,
+      "word": "生孩子对痛经的影响",
+      "onboard_time": 1704207335,
+      "rank": 21,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 310440,
@@ -2331,11 +2379,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 296931,
+      "num": 296931,
+      "word": "今年我一定瘦",
+      "onboard_time": 1704207155,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 296618,
       "num": 296618,
       "word": "日本15小时内地震155次",
       "onboard_time": 1704163899,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294486,
+      "num": 294486,
+      "word": "59岁外卖员元旦当晚倒在送餐路上",
+      "onboard_time": 1704205714,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2465,6 +2529,14 @@
       "onboard_time": 1704165158,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 281278,
+      "num": 281278,
+      "word": "南方小土豆是什么梗",
+      "onboard_time": 1704207635,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 279938,
@@ -3531,6 +3603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185606,
+      "num": 185606,
+      "word": "王鹤棣derder进化史",
+      "onboard_time": 1704208298,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185599,
       "num": 185599,
       "word": "永夜星河官宣杀青",
@@ -3705,6 +3785,14 @@
       "onboard_time": 1704098500,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173675,
+      "num": 173675,
+      "word": "双色球",
+      "onboard_time": 1704208115,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 172879,
@@ -4139,14 +4227,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 146210,
-      "num": 146210,
-      "word": "59岁外卖员元旦当晚倒在送餐路上",
-      "onboard_time": 1704205714,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146088,
       "num": 146088,
       "word": "虞书欣祝绪丹捧花杀青照",
@@ -4427,6 +4507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131944,
+      "num": 131944,
+      "word": "国产镜片就比进口镜片差吗",
+      "onboard_time": 1704208298,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 131802,
       "num": 131802,
       "word": "RA晋级德杯四强",
@@ -4665,6 +4753,14 @@
       "onboard_time": 1704178173,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117582,
+      "num": 117582,
+      "word": "特斯拉2023年交付量达181万辆",
+      "onboard_time": 1704206317,
+      "rank": 49,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 116582,
