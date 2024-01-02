@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704170116214,
+  "endTime": 1704172644518,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -227,6 +227,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1523908,
+      "num": 1523908,
+      "word": "李在明暂无生命危险",
+      "onboard_time": 1704164561,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1514250,
       "num": 1514250,
       "word": "江苏卫视 设备",
@@ -411,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1016858,
-      "num": 1016858,
-      "word": "李在明暂无生命危险",
-      "onboard_time": 1704164561,
-      "rank": 5,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1010509,
       "num": 1010509,
       "word": "2024年确定为中朝友好年",
@@ -473,6 +473,14 @@
       "onboard_time": 1704065061,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 951553,
+      "num": 951553,
+      "word": "涉嫌代孕的武汉普仁医院被罚5万",
+      "onboard_time": 1704167677,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 949767,
@@ -755,6 +763,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 702382,
+      "num": 555950,
+      "word": "王一博这几天别上网了",
+      "onboard_time": 1704171876,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 699477,
+      "num": 699477,
+      "word": "何润东都演任嘉伦爸爸了",
+      "onboard_time": 1704170801,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 698042,
       "num": 687354,
       "word": "11个王俊凯",
@@ -995,12 +1019,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 558425,
-      "num": 558425,
-      "word": "涉嫌代孕的武汉普仁医院被罚5万",
-      "onboard_time": 1704167677,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 557985,
+      "num": 557985,
+      "word": "关晓彤父亲持股的天然呆奶茶被限消",
+      "onboard_time": 1704170438,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 556630,
@@ -1387,6 +1411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 404740,
+      "num": 404740,
+      "word": "成都千斤香肠最壕窗台主人回应",
+      "onboard_time": 1704168578,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397568,
       "num": 397568,
       "word": "终于到了谈恋爱不怕爸妈知道的年纪",
@@ -1467,11 +1499,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356225,
-      "num": 356225,
-      "word": "成都千斤香肠最壕窗台主人回应",
-      "onboard_time": 1704168578,
-      "rank": 30,
+      "raw_hot": 356374,
+      "num": 318565,
+      "word": "5人跨年夜捡4小时烟花筒卖了9块",
+      "onboard_time": 1704171339,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1715,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294396,
+      "num": 294396,
+      "word": "果然女生了解女生不分年龄",
+      "onboard_time": 1704169899,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 292895,
       "num": 292895,
       "word": "刘亦菲新年vlog",
@@ -1827,6 +1867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277825,
+      "num": 277825,
+      "word": "唐嫣脏脏妆",
+      "onboard_time": 1704171995,
+      "rank": 28,
+      "category": "剧集,美妆"
+    },
+    {
       "raw_hot": 277725,
       "num": 840787,
       "word": "兰州震感",
@@ -1865,6 +1913,14 @@
       "onboard_time": 1704094895,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267052,
+      "num": 267052,
+      "word": "王源去新疆了",
+      "onboard_time": 1704171818,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 266333,
@@ -1937,6 +1993,14 @@
       "onboard_time": 1704086192,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250164,
+      "num": 250164,
+      "word": "顾客带猫进星巴克吐槽被赶走",
+      "onboard_time": 1704169780,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248262,
@@ -2139,6 +2203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222736,
+      "num": 222736,
+      "word": "毕业后最可怕的事",
+      "onboard_time": 1704171818,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222136,
       "num": 222136,
       "word": "微博之夜首波阵容",
@@ -2193,6 +2265,14 @@
       "onboard_time": 1704097837,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215602,
+      "num": 215602,
+      "word": "凤凰传奇 百大UP主",
+      "onboard_time": 1704171163,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 214873,
@@ -2315,11 +2395,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201878,
+      "num": 201878,
+      "word": "哈尔滨旅游",
+      "onboard_time": 1704172361,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 201581,
       "num": 201581,
       "word": "檀健次秦霄贤吴泽林 真的惊到我了",
       "onboard_time": 1704122319,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200789,
+      "num": 200789,
+      "word": "蔡依林跨年舞台 芭比联动",
+      "onboard_time": 1704170801,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -2387,14 +2483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193961,
-      "num": 193961,
-      "word": "果然女生了解女生不分年龄",
-      "onboard_time": 1704169899,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 193390,
       "num": 193390,
       "word": "狼队第五人格",
@@ -2417,6 +2505,14 @@
       "onboard_time": 1704090272,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191548,
+      "num": 191548,
+      "word": "袭击李在明的男子被捕后一直沉默",
+      "onboard_time": 1704171461,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 191248,
@@ -2529,14 +2625,6 @@
       "onboard_time": 1704104318,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 180471,
-      "num": 180471,
-      "word": "顾客带猫进星巴克吐槽被赶走",
-      "onboard_time": 1704169780,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180067,
@@ -2947,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141461,
+      "num": 411240,
+      "word": "天官赐福可爱多",
+      "onboard_time": 1704170020,
+      "rank": 47,
+      "category": "动漫,美食"
+    },
+    {
       "raw_hot": 141256,
       "num": 311822,
       "word": "2024有个神奇的数字24",
@@ -3068,7 +3164,7 @@
     },
     {
       "raw_hot": 130005,
-      "num": 417189,
+      "num": 547008,
       "word": "浮生忆玲珑邀你共赴玲珑局",
       "onboard_time": 1704168938,
       "rank": 38,
@@ -3228,7 +3324,7 @@
     },
     {
       "raw_hot": 119464,
-      "num": 1333016,
+      "num": 1526312,
       "word": "2024开年第1个工作日",
       "onboard_time": 1704166056,
       "rank": 2,
@@ -3457,14 +3553,6 @@
       "onboard_time": 1704100902,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 88664,
-      "num": 165816,
-      "word": "天官赐福可爱多",
-      "onboard_time": 1704170020,
-      "rank": 47,
-      "category": "动漫,美食"
     },
     {
       "raw_hot": 88628,
@@ -3761,6 +3849,14 @@
       "onboard_time": 1704114580,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36378,
+      "num": 269444,
+      "word": "X9重新定义大七座",
+      "onboard_time": 1704170801,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 33831,
