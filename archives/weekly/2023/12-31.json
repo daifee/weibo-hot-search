@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704184496876,
+  "endTime": 1704187044028,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -787,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1121285,
+      "num": 1121285,
+      "word": "蒋欣 华妃13年后再演反派",
+      "onboard_time": 1704182977,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1107945,
       "num": 881081,
       "word": "明星cos",
@@ -1171,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 836224,
+      "num": 792985,
+      "word": "林一刘浩存全剧尺度最大的吻戏",
+      "onboard_time": 1704184775,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 835331,
       "num": 835331,
       "word": "五月天有跨年演唱会吗",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1704082772,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 795468,
+      "num": 795468,
+      "word": "新马泰免签了也变贵了",
+      "onboard_time": 1704184176,
+      "rank": 23,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 789511,
@@ -1657,14 +1681,6 @@
       "onboard_time": 1704116922,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 628467,
-      "num": 628467,
-      "word": "蒋欣 华妃13年后再演反派",
-      "onboard_time": 1704182977,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 622728,
@@ -2171,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 481643,
+      "num": 481643,
+      "word": "杨紫何惟芳人设",
+      "onboard_time": 1704186032,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 478403,
       "num": 311782,
       "word": "张凌赫 语音回复",
@@ -2225,6 +2249,14 @@
       "onboard_time": 1704085715,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 471622,
+      "num": 471622,
+      "word": "网红欧可爱车祸事件肇事司机被刑拘",
+      "onboard_time": 1704185674,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470395,
@@ -2617,6 +2649,14 @@
       "onboard_time": 1703984009,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 366435,
+      "num": 366435,
+      "word": "李在明遇袭后文在寅发声",
+      "onboard_time": 1704183758,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 365561,
@@ -3187,6 +3227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 287696,
+      "num": 287696,
+      "word": "第一批00后老师教最后一批00后",
+      "onboard_time": 1704181416,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 287619,
       "num": 287619,
       "word": "四川省考准考证",
@@ -3265,14 +3313,6 @@
       "onboard_time": 1704029278,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 282770,
-      "num": 282770,
-      "word": "新马泰免签了也变贵了",
-      "onboard_time": 1704184176,
-      "rank": 23,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 282027,
@@ -3377,14 +3417,6 @@
       "onboard_time": 1703950412,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271995,
-      "num": 195543,
-      "word": "李在明遇袭后文在寅发声",
-      "onboard_time": 1704183758,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 271499,
@@ -3531,14 +3563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258468,
-      "num": 258468,
-      "word": "第一批00后老师教最后一批00后",
-      "onboard_time": 1704181416,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 258177,
       "num": 258177,
       "word": "男朋友珍藏十年的宝物是根棒子",
@@ -3561,6 +3585,14 @@
       "onboard_time": 1703996249,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253941,
+      "num": 253941,
+      "word": "刺伤李在明嫌疑人信息",
+      "onboard_time": 1704185134,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 252984,
@@ -4131,6 +4163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211886,
+      "num": 211886,
+      "word": "武庚纪 坐等开播",
+      "onboard_time": 1704181897,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211722,
       "num": 211722,
       "word": "张靓颖没有汇率的E6",
@@ -4667,14 +4707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184783,
-      "num": 184783,
-      "word": "武庚纪 坐等开播",
-      "onboard_time": 1704181897,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184304,
       "num": 184304,
       "word": "男子吐槽跨年活动现场像灵堂",
@@ -4840,6 +4872,14 @@
       "word": "2024新年愿望是什么",
       "onboard_time": 1704025004,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176232,
+      "num": 176232,
+      "word": "日本地震震后破坏情况航拍",
+      "onboard_time": 1704186512,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -5027,6 +5067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166550,
+      "num": 166550,
+      "word": "东北虎接客南方小土豆擦玻璃互动",
+      "onboard_time": 1704183093,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166144,
       "num": 166144,
       "word": "世界催着我长大 只有B站把我当小孩",
@@ -5065,14 +5113,6 @@
       "onboard_time": 1704082712,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164813,
-      "num": 164813,
-      "word": "东北虎接客南方小土豆擦玻璃互动",
-      "onboard_time": 1704183093,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164311,
@@ -5339,6 +5379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153547,
+      "num": 153547,
+      "word": "苹果头显或1月27日上市",
+      "onboard_time": 1704181775,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 153327,
       "num": 153327,
       "word": "vivo印度子公司2名高管被释放",
@@ -5361,6 +5409,14 @@
       "onboard_time": 1703943336,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152648,
+      "num": 152648,
+      "word": "鞠婧祎怼脸的七秒",
+      "onboard_time": 1704186332,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 152538,
@@ -5883,14 +5939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133733,
-      "num": 133733,
-      "word": "苹果头显或1月27日上市",
-      "onboard_time": 1704181775,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 133208,
       "num": 133208,
       "word": "陈梦 新的一年一起努力加油",
@@ -5929,6 +5977,14 @@
       "onboard_time": 1704099937,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131467,
+      "num": 131467,
+      "word": "高合否认所有工作暂停",
+      "onboard_time": 1704185072,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 131457,
@@ -6097,6 +6153,14 @@
       "onboard_time": 1704114279,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125557,
+      "num": 125557,
+      "word": "广西小朋友来哈尔滨被送外号小砂糖橘",
+      "onboard_time": 1704186932,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125455,
@@ -7147,6 +7211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56440,
+      "num": 1010923,
+      "word": "2024我们将共同见证",
+      "onboard_time": 1704184475,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55859,
       "num": 692351,
       "word": "来自光年之外的新年祝福",
@@ -7561,14 +7633,6 @@
       "onboard_time": 1703967253,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 11989,
-      "num": 1010923,
-      "word": "2024我们将共同见证",
-      "onboard_time": 1704184475,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11445,
