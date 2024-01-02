@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704219742915,
+  "endTime": 1704220511507,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -5473,6 +5473,14 @@
       "onboard_time": 1704133817,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20332,
+      "num": 20332,
+      "word": "ITZY新歌MV公开",
+      "onboard_time": 1704219738,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 19028,

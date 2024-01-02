@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/31 00:21:53 ~ 2024/01/03 02:22:22
+本榜单时间：2023/12/31 00:21:53 ~ 2024/01/03 02:35:11
 </p>
 </blockquote>
 <p>
@@ -6431,6 +6431,12 @@ cos的风还是吹到了霉霉大电影（热度：25338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%81%E7%A5%9EV%20%E5%B8%85%E5%B8%85%E7%9A%84%E5%BE%88%E5%AE%89%E5%BF%83%23" target="weibo">
 威神V 帅帅的很安心（热度：21763）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23ITZY%E6%96%B0%E6%AD%8CMV%E5%85%AC%E5%BC%80%23" target="weibo">
+ITZY新歌MV公开（热度：20332）
 </a>
 </li>
 

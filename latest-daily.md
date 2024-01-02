@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/03 00:21:08 ~ 2024/01/03 02:22:22
+本榜单时间：2024/01/03 00:21:08 ~ 2024/01/03 02:35:11
 </p>
 </blockquote>
 <p>
@@ -341,6 +341,12 @@ Jaemin和GISELLE的cha（热度：91183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E9%A3%9E%E6%9C%BA%E6%9C%BA%E5%9C%BA%E8%B7%91%E9%81%93%E8%B5%B7%E7%81%AB%23" target="weibo">
 日本一飞机机场跑道起火（热度：27826）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23ITZY%E6%96%B0%E6%AD%8CMV%E5%85%AC%E5%BC%80%23" target="weibo">
+ITZY新歌MV公开（热度：20332）
 </a>
 </li>
 
