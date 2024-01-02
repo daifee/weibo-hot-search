@@ -1,0 +1,410 @@
+{
+  "runTime": 1704188054569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1096726,
+        "num": 1096726,
+        "word": "蒋欣 华妃13年后再演反派",
+        "onboard_time": 1704182977,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 964532,
+        "num": 964532,
+        "word": "新马泰免签了也变贵了",
+        "onboard_time": 1704184176,
+        "rank": 1,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 46318,
+        "num": 915569,
+        "word": "2024我们将共同见证",
+        "onboard_time": 1704184475,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879245,
+        "num": 879245,
+        "word": "林一刘浩存全剧尺度最大的吻戏",
+        "onboard_time": 1704184775,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 741433,
+        "num": 741433,
+        "word": "网红欧可爱车祸事件肇事司机被刑拘",
+        "onboard_time": 1704185674,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599333,
+        "num": 599333,
+        "word": "中泰永久互相免签",
+        "onboard_time": 1704173134,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 811493,
+        "num": 597170,
+        "word": "被指肛珠作弊象棋冠军起诉中国棋协",
+        "onboard_time": 1704180032,
+        "rank": 6,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 575634,
+        "num": 575634,
+        "word": "出现这2个字你买到的是假牛奶",
+        "onboard_time": 1704177630,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 693380,
+        "num": 566045,
+        "word": "前世界冠军疑似被丈夫撞死",
+        "onboard_time": 1704178231,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541410,
+        "num": 541410,
+        "word": "智性恋",
+        "onboard_time": 1704182195,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1048917,
+        "num": 534693,
+        "word": "日本地震已致至少48人死亡",
+        "onboard_time": 1704183034,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 499464,
+        "num": 499464,
+        "word": "杨紫何惟芳人设",
+        "onboard_time": 1704186032,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488651,
+        "num": 488651,
+        "word": "李在明遇袭后文在寅发声",
+        "onboard_time": 1704183758,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 427022,
+        "num": 427022,
+        "word": "小杨哥称他不得已才当网红",
+        "onboard_time": 1704180514,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 411190,
+        "num": 411190,
+        "word": "把268元的裤子砍成了60元",
+        "onboard_time": 1704177630,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380823,
+        "num": 380823,
+        "word": "李在明被30厘米长刀刺中颈部",
+        "onboard_time": 1704165336,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 360856,
+        "num": 360856,
+        "word": "谢娜紧紧抓住马立奥的原因",
+        "onboard_time": 1704180696,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329686,
+        "num": 329686,
+        "word": "虞书欣戏份 删减",
+        "onboard_time": 1704175531,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318254,
+        "num": 318254,
+        "word": "官方通报湖南一碗麻辣烫106元",
+        "onboard_time": 1704166538,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 317663,
+        "num": 317663,
+        "word": "国色芳华 经商题材",
+        "onboard_time": 1704187233,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291349,
+        "num": 291349,
+        "word": "杨迪回应发未P图",
+        "onboard_time": 1704187532,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290780,
+        "num": 290780,
+        "word": "李在明遇袭时身边有50多名警察",
+        "onboard_time": 1704181177,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 282111,
+        "num": 282111,
+        "word": "TWS出道先行曲",
+        "onboard_time": 1704187532,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264378,
+        "num": 264378,
+        "word": "第一批00后老师教最后一批00后",
+        "onboard_time": 1704181416,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259018,
+        "num": 259018,
+        "word": "日本地震震后破坏情况航拍",
+        "onboard_time": 1704186512,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216276,
+        "num": 216276,
+        "word": "王一博 请做礼貌的旁观者",
+        "onboard_time": 1704177692,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207338,
+        "num": 207338,
+        "word": "刺伤李在明嫌疑人信息",
+        "onboard_time": 1704185134,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 201726,
+        "num": 201726,
+        "word": "杨紫李现二搭",
+        "onboard_time": 1704167256,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195031,
+        "num": 195031,
+        "word": "你好香啊 你也是",
+        "onboard_time": 1704177630,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194606,
+        "num": 194606,
+        "word": "TWS成员首次公开",
+        "onboard_time": 1704187773,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190138,
+        "num": 190138,
+        "word": "武庚纪 坐等开播",
+        "onboard_time": 1704181897,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180834,
+        "num": 180834,
+        "word": "孟佳评价金莎孙丞潇感情",
+        "onboard_time": 1704179014,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174989,
+        "num": 174989,
+        "word": "鱼 我是穿越了吗",
+        "onboard_time": 1704183394,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171325,
+        "num": 171325,
+        "word": "广西小朋友来哈尔滨被送外号小砂糖橘",
+        "onboard_time": 1704186932,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170213,
+        "num": 170213,
+        "word": "李在明遇袭",
+        "onboard_time": 1704160295,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 164914,
+        "num": 164914,
+        "word": "东北虎接客南方小土豆擦玻璃互动",
+        "onboard_time": 1704183093,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164631,
+        "num": 164631,
+        "word": "上海至哈尔滨2月热门航班票价破3千元",
+        "onboard_time": 1704183093,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 162812,
+        "num": 162812,
+        "word": "男子患胃癌一查一家5口全感染幽门螺杆菌",
+        "onboard_time": 1704165158,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162123,
+        "num": 162123,
+        "word": "秦岚喊错和迪丽热巴的cp名",
+        "onboard_time": 1704179795,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160440,
+        "num": 160440,
+        "word": "小杨哥劝大家别发大财",
+        "onboard_time": 1704166236,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157045,
+        "num": 157045,
+        "word": "新马泰均已免签",
+        "onboard_time": 1704187831,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150864,
+        "num": 150864,
+        "word": "李泳知李马克安宥真Baggy Jeans",
+        "onboard_time": 1704187413,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134255,
+        "num": 134255,
+        "word": "B站 学英语神器",
+        "onboard_time": 1704180759,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128073,
+        "num": 128073,
+        "word": "鞠婧祎怼脸的七秒",
+        "onboard_time": 1704186332,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126671,
+        "num": 126671,
+        "word": "涉嫌代孕的武汉普仁医院被罚5万",
+        "onboard_time": 1704167677,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123977,
+        "num": 123977,
+        "word": "李在明暂无生命危险",
+        "onboard_time": 1704164561,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 116613,
+        "num": 116613,
+        "word": "苹果头显或1月27日上市",
+        "onboard_time": 1704181775,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115884,
+        "num": 115884,
+        "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
+        "onboard_time": 1704188012,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 115795,
+        "num": 115795,
+        "word": "青岛保安刺死外卖员背后",
+        "onboard_time": 1704174691,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112519,
+        "num": 112519,
+        "word": "李现国色芳华妆造",
+        "onboard_time": 1704177092,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年新的开始新的征途#"
+    }
+  }
+}

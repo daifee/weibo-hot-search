@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704187044028,
+  "endTime": 1704188054569,
   "band_list": [
     {
       "raw_hot": 9066763,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 964532,
+      "num": 964532,
+      "word": "新马泰免签了也变贵了",
+      "onboard_time": 1704184176,
+      "rank": 23,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 962585,
       "num": 962585,
       "word": "iPhone为什么只有P大写",
@@ -211,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 879245,
+      "num": 879245,
+      "word": "林一刘浩存全剧尺度最大的吻戏",
+      "onboard_time": 1704184775,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 863523,
       "num": 555950,
       "word": "王一博这几天别上网了",
@@ -227,28 +243,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 836224,
-      "num": 792985,
-      "word": "林一刘浩存全剧尺度最大的吻戏",
-      "onboard_time": 1704184775,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 798544,
       "num": 798544,
       "word": "小杨哥称他不得已才当网红",
       "onboard_time": 1704180514,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 795468,
-      "num": 795468,
-      "word": "新马泰免签了也变贵了",
-      "onboard_time": 1704184176,
-      "rank": 23,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 789511,
@@ -264,6 +264,14 @@
       "word": "日本地震已致至少20人死亡",
       "onboard_time": 1704164496,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741433,
+      "num": 741433,
+      "word": "网红欧可爱车祸事件肇事司机被刑拘",
+      "onboard_time": 1704185674,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -483,6 +491,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 499464,
+      "num": 499464,
+      "word": "杨紫何惟芳人设",
+      "onboard_time": 1704186032,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 488651,
+      "num": 488651,
+      "word": "李在明遇袭后文在寅发声",
+      "onboard_time": 1704183758,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 485386,
       "num": 485386,
       "word": "钟欣潼演丁禹兮母亲",
@@ -497,22 +521,6 @@
       "onboard_time": 1704164918,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 481643,
-      "num": 481643,
-      "word": "杨紫何惟芳人设",
-      "onboard_time": 1704186032,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 471622,
-      "num": 471622,
-      "word": "网红欧可爱车祸事件肇事司机被刑拘",
-      "onboard_time": 1704185674,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 457840,
@@ -643,14 +651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 366435,
-      "num": 366435,
-      "word": "李在明遇袭后文在寅发声",
-      "onboard_time": 1704183758,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 365528,
       "num": 365528,
       "word": "iOS17.2.1被曝无法接打电话",
@@ -771,6 +771,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 317663,
+      "num": 317663,
+      "word": "国色芳华 经商题材",
+      "onboard_time": 1704187233,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316896,
       "num": 316896,
       "word": "田曦薇许凯出妆路透",
@@ -835,6 +843,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 291349,
+      "num": 291349,
+      "word": "杨迪回应发未P图",
+      "onboard_time": 1704187532,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 291080,
       "num": 291080,
       "word": "陈都灵镜妖妆造",
@@ -873,6 +889,14 @@
       "onboard_time": 1704141734,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 282111,
+      "num": 282111,
+      "word": "TWS出道先行曲",
+      "onboard_time": 1704187532,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 281295,
@@ -937,6 +961,14 @@
       "onboard_time": 1704150743,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259018,
+      "num": 259018,
+      "word": "日本地震震后破坏情况航拍",
+      "onboard_time": 1704186512,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258790,
@@ -1259,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194606,
+      "num": 194606,
+      "word": "TWS成员首次公开",
+      "onboard_time": 1704187773,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194559,
       "num": 398586,
       "word": "开工第一天海阔天空为啥火了",
@@ -1395,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176232,
-      "num": 176232,
-      "word": "日本地震震后破坏情况航拍",
-      "onboard_time": 1704186512,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175580,
       "num": 142357,
       "word": "日本7.4级地震现场画面",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1704179014,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 171325,
+      "num": 171325,
+      "word": "广西小朋友来哈尔滨被送外号小砂糖橘",
+      "onboard_time": 1704186932,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166550,
@@ -1491,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157045,
+      "num": 157045,
+      "word": "新马泰均已免签",
+      "onboard_time": 1704187831,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 155804,
       "num": 155804,
       "word": "迪士尼这只米老鼠终于自由了",
@@ -1537,6 +1585,14 @@
       "onboard_time": 1704155919,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150864,
+      "num": 150864,
+      "word": "李泳知李马克安宥真Baggy Jeans",
+      "onboard_time": 1704187413,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 146725,
@@ -1723,14 +1779,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 125557,
-      "num": 125557,
-      "word": "广西小朋友来哈尔滨被送外号小砂糖橘",
-      "onboard_time": 1704186932,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123868,
       "num": 123868,
       "word": "王鹤棣时代少年团对蔡依林喊巨星",
@@ -1785,6 +1833,14 @@
       "onboard_time": 1704178173,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115884,
+      "num": 115884,
+      "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
+      "onboard_time": 1704188012,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 115391,
