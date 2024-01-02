@@ -1,0 +1,410 @@
+{
+  "runTime": 1704170116214,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6118760,
+        "num": 6118760,
+        "word": "李在明遇袭",
+        "onboard_time": 1704160295,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2284324,
+        "num": 2284324,
+        "word": "小杨哥劝大家别发大财",
+        "onboard_time": 1704166236,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119464,
+        "num": 1333016,
+        "word": "2024开年第1个工作日",
+        "onboard_time": 1704166056,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1290383,
+        "num": 1290383,
+        "word": "官方通报湖南一碗麻辣烫106元",
+        "onboard_time": 1704166538,
+        "rank": 3,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1092981,
+        "num": 1092981,
+        "word": "李在明被30厘米长刀刺中颈部",
+        "onboard_time": 1704165336,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 927768,
+        "num": 927768,
+        "word": "B站2023百大UP主",
+        "onboard_time": 1704167978,
+        "rank": 5,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 582414,
+        "num": 582414,
+        "word": "杨紫李现二搭",
+        "onboard_time": 1704167256,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 558425,
+        "num": 558425,
+        "word": "涉嫌代孕的武汉普仁医院被罚5万",
+        "onboard_time": 1704167677,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529693,
+        "num": 529693,
+        "word": "河南宁陵县通报一学生坠亡事件",
+        "onboard_time": 1704166895,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542202,
+        "num": 512873,
+        "word": "罗志祥演唱会跳科目三",
+        "onboard_time": 1704163537,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 668881,
+        "num": 499950,
+        "word": "日本地震已造成至少24人死亡",
+        "onboard_time": 1704166538,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485724,
+        "num": 485724,
+        "word": "尹锡悦回应李在明遇袭",
+        "onboard_time": 1704163717,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 485386,
+        "num": 485386,
+        "word": "钟欣潼演丁禹兮母亲",
+        "onboard_time": 1704167978,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474734,
+        "num": 474734,
+        "word": "赵露思后悔拒绝王安宇拍照",
+        "onboard_time": 1704164918,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445185,
+        "num": 445185,
+        "word": "床癌",
+        "onboard_time": 1704155016,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118881,
+        "num": 417189,
+        "word": "浮生忆玲珑邀你共赴玲珑局",
+        "onboard_time": 1704168938,
+        "rank": 15,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 412231,
+        "num": 412231,
+        "word": "李在明为轻伤",
+        "onboard_time": 1704168700,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 371899,
+        "num": 371899,
+        "word": "疑似袭击李在明男子被捕",
+        "onboard_time": 1704160655,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 361449,
+        "num": 361449,
+        "word": "iPhone为什么只有P大写",
+        "onboard_time": 1704121303,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 356225,
+        "num": 356225,
+        "word": "成都千斤香肠最壕窗台主人回应",
+        "onboard_time": 1704168578,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739523,
+        "num": 354993,
+        "word": "男子患胃癌一查一家5口全感染幽门螺杆菌",
+        "onboard_time": 1704165158,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 342410,
+        "num": 342410,
+        "word": "韩国警方对李在明遇刺展开调查",
+        "onboard_time": 1704169059,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 332916,
+        "num": 332916,
+        "word": "马立奥热情营业干脆收工",
+        "onboard_time": 1704168278,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323544,
+        "num": 323544,
+        "word": "国色芳华开拍",
+        "onboard_time": 1704163297,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318853,
+        "num": 318853,
+        "word": "李在明遇袭后接受缝合手术",
+        "onboard_time": 1704168879,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 295265,
+        "num": 295265,
+        "word": "张杰听到加班吓跪了",
+        "onboard_time": 1704156036,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291442,
+        "num": 291442,
+        "word": "李在明暂无生命危险",
+        "onboard_time": 1704164561,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 291080,
+        "num": 291080,
+        "word": "陈都灵镜妖妆造",
+        "onboard_time": 1704168162,
+        "rank": 27,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 285874,
+        "num": 285874,
+        "word": "日本多个核电站燃料池水溢出",
+        "onboard_time": 1704154296,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284615,
+        "num": 284615,
+        "word": "赵露思 终于知道邓超上春晚的感觉了",
+        "onboard_time": 1704151284,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410364,
+        "num": 284126,
+        "word": "李在明曾绝食抗议24天",
+        "onboard_time": 1704169422,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 280796,
+        "num": 280796,
+        "word": "孕妇被坠窗砸伤为治疗终止妊娠",
+        "onboard_time": 1704158495,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278421,
+        "num": 278421,
+        "word": "不用排名 感受到多少就回馈多少",
+        "onboard_time": 1704168938,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274546,
+        "num": 274546,
+        "word": "服用紧急避孕药后身体会有何变化",
+        "onboard_time": 1704151707,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237329,
+        "num": 237329,
+        "word": "爷爷忘给孙女买玩具被太奶挥拐催促",
+        "onboard_time": 1704160655,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234859,
+        "num": 234859,
+        "word": "男子冒充特种兵混进前线跟总理合影",
+        "onboard_time": 1704164980,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226525,
+        "num": 226525,
+        "word": "田曦薇许凯出妆路透",
+        "onboard_time": 1704163717,
+        "rank": 36,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 211490,
+        "num": 211490,
+        "word": "男子送女友9.9元鲜花被强拒",
+        "onboard_time": 1704156638,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199539,
+        "num": 199539,
+        "word": "日本15小时内地震155次",
+        "onboard_time": 1704163899,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193961,
+        "num": 193961,
+        "word": "果然女生了解女生不分年龄",
+        "onboard_time": 1704169899,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187896,
+        "num": 187896,
+        "word": "王家卫拍出了辛芷蕾的人生镜头",
+        "onboard_time": 1704155318,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185496,
+        "num": 185496,
+        "word": "李在明遇袭颈部流血紧急送医救治",
+        "onboard_time": 1704160534,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 181052,
+        "num": 181052,
+        "word": "微博之夜首波阵容",
+        "onboard_time": 1704162820,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180471,
+        "num": 180471,
+        "word": "顾客带猫进星巴克吐槽被赶走",
+        "onboard_time": 1704169780,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178155,
+        "num": 178155,
+        "word": "A股2024年首个交易日",
+        "onboard_time": 1704166895,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175333,
+        "num": 175333,
+        "word": "从此排骨是排骨 年糕是年糕",
+        "onboard_time": 1704121419,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166341,
+        "num": 166341,
+        "word": "永夜星河",
+        "onboard_time": 1704165215,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88664,
+        "num": 165816,
+        "word": "天官赐福可爱多",
+        "onboard_time": 1704170020,
+        "rank": 47,
+        "category": "动漫,美食"
+      },
+      {
+        "raw_hot": 165394,
+        "num": 165394,
+        "word": "日本气象厅修正地震震度",
+        "onboard_time": 1704119801,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144489,
+        "num": 144489,
+        "word": "王者24年新赛季倒计时2天",
+        "onboard_time": 1704170080,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年新的开始新的征途#"
+    }
+  }
+}
