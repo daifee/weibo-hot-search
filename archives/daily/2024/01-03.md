@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/03 00:21:08 ~ 2024/01/03 05:15:30
+本榜单时间：2024/01/03 00:21:08 ~ 2024/01/03 05:34:22
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ Jaemin和GISELLE的cha（热度：91183）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8D%AB%E8%A7%86%E6%99%92%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%88%98%E6%8A%A5%E5%9D%87%E7%A7%B0%E8%8E%B7%E5%BE%97%E7%AC%AC%E4%B8%80%23" target="weibo">
+多家卫视晒跨年晚会战报均称获得第一（热度：25392）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23ITZY%E6%96%B0%E6%AD%8CMV%E5%85%AC%E5%BC%80%23" target="weibo">
 ITZY新歌MV公开（热度：20332）
 </a>
@@ -365,12 +371,6 @@ ITZY新歌MV公开（热度：20332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E5%BC%80%E9%A5%AD%E5%89%8D%E4%BA%92%E9%A3%9E%E9%A5%BA%E5%AD%90%23" target="weibo">
 航天员太空开饭前互飞饺子（热度：20256）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8D%AB%E8%A7%86%E6%99%92%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%88%98%E6%8A%A5%E5%9D%87%E7%A7%B0%E8%8E%B7%E5%BE%97%E7%AC%AC%E4%B8%80%23" target="weibo">
-多家卫视晒跨年晚会战报均称获得第一（热度：20099）
 </a>
 </li>
 

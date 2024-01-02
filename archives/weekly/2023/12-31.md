@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/31 00:21:53 ~ 2024/01/03 05:15:30
+本榜单时间：2023/12/31 00:21:53 ~ 2024/01/03 05:34:22
 </p>
 </blockquote>
 <p>
@@ -6411,6 +6411,12 @@ X9重新定义大七座（热度：36378）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8D%AB%E8%A7%86%E6%99%92%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%88%98%E6%8A%A5%E5%9D%87%E7%A7%B0%E8%8E%B7%E5%BE%97%E7%AC%AC%E4%B8%80%23" target="weibo">
+多家卫视晒跨年晚会战报均称获得第一（热度：25392）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23cos%E7%9A%84%E9%A3%8E%E8%BF%98%E6%98%AF%E5%90%B9%E5%88%B0%E4%BA%86%E9%9C%89%E9%9C%89%E5%A4%A7%E7%94%B5%E5%BD%B1%23" target="weibo">
 cos的风还是吹到了霉霉大电影（热度：25338）
 </a>
@@ -6449,12 +6455,6 @@ cos的风还是吹到了霉霉大电影（热度：25338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23ITZY%E6%96%B0%E6%AD%8CMV%E5%85%AC%E5%BC%80%23" target="weibo">
 ITZY新歌MV公开（热度：20332）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8D%AB%E8%A7%86%E6%99%92%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%88%98%E6%8A%A5%E5%9D%87%E7%A7%B0%E8%8E%B7%E5%BE%97%E7%AC%AC%E4%B8%80%23" target="weibo">
-多家卫视晒跨年晚会战报均称获得第一（热度：20099）
 </a>
 </li>
 
