@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704188054569,
+  "endTime": 1704190733518,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -33,6 +33,14 @@
       "onboard_time": 1704173134,
       "rank": 0,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 4566409,
+      "num": 4566409,
+      "word": "日本一飞机机场跑道起火",
+      "onboard_time": 1704188133,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4140986,
@@ -443,6 +451,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1055792,
+      "num": 1055792,
+      "word": "向佐用婴儿车推郭碧婷",
+      "onboard_time": 1704190293,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1055554,
       "num": 1055554,
       "word": "虞书欣戏份 删减",
@@ -699,6 +715,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 821178,
+      "num": 821178,
+      "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
+      "onboard_time": 1704188012,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 815025,
       "num": 815025,
       "word": "李荣浩 去年的事儿先不提了",
@@ -873,6 +897,14 @@
       "onboard_time": 1704039835,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 699601,
+      "num": 699601,
+      "word": "杨迪回应发未P图",
+      "onboard_time": 1704187532,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 699477,
@@ -1715,6 +1747,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361720,
+      "num": 361720,
+      "word": "羽田机场",
+      "onboard_time": 1704188854,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361490,
+      "num": 361490,
+      "word": "杨紫琼当奶奶",
+      "onboard_time": 1704189756,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360480,
       "num": 360480,
       "word": "中国驻大阪总领馆提醒中国公民加强防范",
@@ -1729,6 +1777,14 @@
       "onboard_time": 1703984130,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 353156,
+      "num": 353156,
+      "word": "爆燃日航搭载人员已全部撤离",
+      "onboard_time": 1704189030,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351800,
@@ -1787,6 +1843,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 340892,
+      "num": 340892,
+      "word": "TWS成员首次公开",
+      "onboard_time": 1704187773,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 339962,
       "num": 339962,
       "word": "GALA 哭了",
@@ -1809,6 +1873,14 @@
       "onboard_time": 1704179735,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 336298,
+      "num": 1263687,
+      "word": "广西小朋友来哈尔滨被送外号小砂糖橘",
+      "onboard_time": 1704186932,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335973,
@@ -1897,6 +1969,14 @@
       "onboard_time": 1704088472,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 315574,
+      "num": 315574,
+      "word": "王一博沈梦辰犹豫的那几秒在想什么",
+      "onboard_time": 1704189335,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 310440,
@@ -2017,14 +2097,6 @@
       "onboard_time": 1704173558,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 291349,
-      "num": 291349,
-      "word": "杨迪回应发未P图",
-      "onboard_time": 1704187532,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 291080,
@@ -2283,6 +2355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258091,
+      "num": 258091,
+      "word": "点杯奶茶哄自己上班",
+      "onboard_time": 1704190234,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 253941,
       "num": 253941,
       "word": "刺伤李在明嫌疑人信息",
@@ -2321,86 +2401,6 @@
       "onboard_time": 1704089852,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 247713,
-      "num": 192094,
-      "word": "日本地震已致6人死亡",
-      "onboard_time": 1704151647,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244848,
-      "num": 244848,
-      "word": "武汉一家3口的雕塑变成一家5口",
-      "onboard_time": 1704099999,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244533,
-      "num": 254150,
-      "word": "他们经理饿了 就贴我们锅里了",
-      "onboard_time": 1704068307,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 244410,
-      "num": 244410,
-      "word": "日本网民吐槽新年第一天灾害",
-      "onboard_time": 1704157177,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243063,
-      "num": 243063,
-      "word": "武汉跨年气球碰电线炸出火花",
-      "onboard_time": 1704084635,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241994,
-      "num": 241994,
-      "word": "苹果2023年首度停更iPad",
-      "onboard_time": 1704154114,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 238660,
-      "num": 238660,
-      "word": "袭击李在明嫌疑人照片曝光",
-      "onboard_time": 1704165817,
-      "rank": 27,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 237009,
-      "num": 237009,
-      "word": "樊振东 签表",
-      "onboard_time": 1704179434,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 236243,
-      "num": 236243,
-      "word": "非诚勿扰3票房",
-      "onboard_time": 1704175531,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 235965,
-      "num": 235965,
-      "word": "爷爷赶集忘买泡泡机宝宝抱腿大哭",
-      "onboard_time": 1704102642,
-      "rank": 28,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

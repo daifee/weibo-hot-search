@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704188054569,
+  "endTime": 1704190733518,
   "band_list": [
     {
       "raw_hot": 9066763,
@@ -17,6 +17,14 @@
       "onboard_time": 1704173134,
       "rank": 0,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 4566409,
+      "num": 4566409,
+      "word": "日本一飞机机场跑道起火",
+      "onboard_time": 1704188133,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2766954,
@@ -139,6 +147,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1055792,
+      "num": 1055792,
+      "word": "向佐用婴儿车推郭碧婷",
+      "onboard_time": 1704190293,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1055554,
       "num": 1055554,
       "word": "虞书欣戏份 删减",
@@ -243,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 821178,
+      "num": 821178,
+      "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
+      "onboard_time": 1704188012,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 798544,
       "num": 798544,
       "word": "小杨哥称他不得已才当网红",
@@ -305,6 +329,14 @@
       "onboard_time": 1704176912,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 699601,
+      "num": 699601,
+      "word": "杨迪回应发未P图",
+      "onboard_time": 1704187532,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 699477,
@@ -675,6 +707,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361720,
+      "num": 361720,
+      "word": "羽田机场",
+      "onboard_time": 1704188854,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361490,
+      "num": 361490,
+      "word": "杨紫琼当奶奶",
+      "onboard_time": 1704189756,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 353156,
+      "num": 353156,
+      "word": "爆燃日航搭载人员已全部撤离",
+      "onboard_time": 1704189030,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349366,
       "num": 349366,
       "word": "为什么睡觉时人会翻身",
@@ -715,6 +771,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 340892,
+      "num": 340892,
+      "word": "TWS成员首次公开",
+      "onboard_time": 1704187773,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 338183,
       "num": 124630,
       "word": "地震已导致日本石川县5人死亡",
@@ -729,6 +793,14 @@
       "onboard_time": 1704179735,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 336298,
+      "num": 1263687,
+      "word": "广西小朋友来哈尔滨被送外号小砂糖橘",
+      "onboard_time": 1704186932,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336060,
@@ -787,6 +859,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 315574,
+      "num": 315574,
+      "word": "王一博沈梦辰犹豫的那几秒在想什么",
+      "onboard_time": 1704189335,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310006,
       "num": 310006,
       "word": "田曦薇花钿妆",
@@ -841,14 +921,6 @@
       "onboard_time": 1704173558,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 291349,
-      "num": 291349,
-      "word": "杨迪回应发未P图",
-      "onboard_time": 1704187532,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 291080,
@@ -993,6 +1065,14 @@
       "onboard_time": 1704179795,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258091,
+      "num": 258091,
+      "word": "点杯奶茶哄自己上班",
+      "onboard_time": 1704190234,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 254921,
@@ -1179,6 +1259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220661,
+      "num": 908045,
+      "word": "东北司机傲娇向乘客炫耀小土豆送的娃娃",
+      "onboard_time": 1704188793,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 220563,
       "num": 220563,
       "word": "B站 学英语神器",
@@ -1193,6 +1281,14 @@
       "onboard_time": 1704173733,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218721,
+      "num": 700340,
+      "word": "婚礼现场父亲两次起身为女儿披棉袄",
+      "onboard_time": 1704189876,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217514,
@@ -1259,6 +1355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 201665,
+      "num": 201665,
+      "word": "日本航空",
+      "onboard_time": 1704190474,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200789,
       "num": 200789,
       "word": "蔡依林跨年舞台 芭比联动",
@@ -1289,14 +1393,6 @@
       "onboard_time": 1704150503,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194606,
-      "num": 194606,
-      "word": "TWS成员首次公开",
-      "onboard_time": 1704187773,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 194559,
@@ -1339,6 +1435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190991,
+      "num": 190991,
+      "word": "脱轨",
+      "onboard_time": 1704190113,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190237,
       "num": 186957,
       "word": "鱼 我是穿越了吗",
@@ -1361,6 +1465,14 @@
       "onboard_time": 1704176553,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188515,
+      "num": 188515,
+      "word": "黑龙江松花江上有白狐狸可以抱",
+      "onboard_time": 1704190413,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 186784,
@@ -1475,14 +1587,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 171325,
-      "num": 171325,
-      "word": "广西小朋友来哈尔滨被送外号小砂糖橘",
-      "onboard_time": 1704186932,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166550,
       "num": 166550,
       "word": "东北虎接客南方小土豆擦玻璃互动",
@@ -1547,6 +1651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155551,
+      "num": 155551,
+      "word": "蔡磊说自己越来越逼近死亡的风险",
+      "onboard_time": 1704188071,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153547,
       "num": 153547,
       "word": "苹果头显或1月27日上市",
@@ -1593,6 +1705,14 @@
       "onboard_time": 1704187413,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148746,
+      "num": 148746,
+      "word": "韩振 河南老乡",
+      "onboard_time": 1704189756,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 146725,
@@ -1723,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132978,
+      "num": 132978,
+      "word": "小象无聊的时候会玩自己的鼻子",
+      "onboard_time": 1704188974,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132747,
       "num": 132747,
       "word": "杨洋 男频",
@@ -1779,6 +1907,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 126283,
+      "num": 126283,
+      "word": "花花沐浴在阳光里吃果果",
+      "onboard_time": 1704189815,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124318,
+      "num": 261495,
+      "word": "罗云熙空降浮生忆玲珑",
+      "onboard_time": 1704190052,
+      "rank": 25,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 123868,
       "num": 123868,
       "word": "王鹤棣时代少年团对蔡依林喊巨星",
@@ -1833,14 +1977,6 @@
       "onboard_time": 1704178173,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115884,
-      "num": 115884,
-      "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
-      "onboard_time": 1704188012,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 115391,
@@ -2116,7 +2252,7 @@
     },
     {
       "raw_hot": 56440,
-      "num": 1010923,
+      "num": 1127659,
       "word": "2024我们将共同见证",
       "onboard_time": 1704184475,
       "rank": 2,
