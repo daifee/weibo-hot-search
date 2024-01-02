@@ -1,0 +1,410 @@
+{
+  "runTime": 1704184496876,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1464481,
+        "num": 1464481,
+        "word": "被指肛珠作弊象棋冠军起诉中国棋协",
+        "onboard_time": 1704180032,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1118353,
+        "num": 1118353,
+        "word": "中泰永久互相免签",
+        "onboard_time": 1704173134,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 11989,
+        "num": 1010923,
+        "word": "2024我们将共同见证",
+        "onboard_time": 1704184475,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005430,
+        "num": 1005430,
+        "word": "前世界冠军疑似被丈夫撞死",
+        "onboard_time": 1704178231,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798544,
+        "num": 798544,
+        "word": "小杨哥称他不得已才当网红",
+        "onboard_time": 1704180514,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 673646,
+        "num": 673646,
+        "word": "把268元的裤子砍成了60元",
+        "onboard_time": 1704177630,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39999,
+        "num": 642492,
+        "word": "2024继续出发",
+        "onboard_time": 1704168400,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641097,
+        "num": 641097,
+        "word": "智性恋",
+        "onboard_time": 1704182195,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 637721,
+        "num": 637721,
+        "word": "出现这2个字你买到的是假牛奶",
+        "onboard_time": 1704177630,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 628467,
+        "num": 628467,
+        "word": "蒋欣 华妃13年后再演反派",
+        "onboard_time": 1704182977,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1355059,
+        "num": 617495,
+        "word": "日本地震已致至少48人死亡",
+        "onboard_time": 1704183034,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 523785,
+        "num": 523785,
+        "word": "谢娜紧紧抓住马立奥的原因",
+        "onboard_time": 1704180696,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523548,
+        "num": 523548,
+        "word": "李在明遇袭时身边有50多名警察",
+        "onboard_time": 1704181177,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 476341,
+        "num": 476341,
+        "word": "李在明被30厘米长刀刺中颈部",
+        "onboard_time": 1704165336,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 475045,
+        "num": 475045,
+        "word": "虞书欣戏份 删减",
+        "onboard_time": 1704175531,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 380072,
+        "num": 380072,
+        "word": "官方通报湖南一碗麻辣烫106元",
+        "onboard_time": 1704166538,
+        "rank": 15,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 324414,
+        "num": 324414,
+        "word": "李在明疑似颈静脉损伤",
+        "onboard_time": 1704176912,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127336,
+        "num": 322747,
+        "word": "为什么中国设计越来越火",
+        "onboard_time": 1704182674,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 321652,
+        "num": 321652,
+        "word": "小杨哥劝大家别发大财",
+        "onboard_time": 1704166236,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 309345,
+        "num": 309345,
+        "word": "孟佳评价金莎孙丞潇感情",
+        "onboard_time": 1704179014,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303216,
+        "num": 303216,
+        "word": "秦岚喊错和迪丽热巴的cp名",
+        "onboard_time": 1704179795,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300791,
+        "num": 300791,
+        "word": "王一博 请做礼貌的旁观者",
+        "onboard_time": 1704177692,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291074,
+        "num": 291074,
+        "word": "李在明遇袭",
+        "onboard_time": 1704160295,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 282770,
+        "num": 282770,
+        "word": "新马泰免签了也变贵了",
+        "onboard_time": 1704184176,
+        "rank": 23,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 260023,
+        "num": 260023,
+        "word": "你好香啊 你也是",
+        "onboard_time": 1704177630,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258468,
+        "num": 258468,
+        "word": "第一批00后老师教最后一批00后",
+        "onboard_time": 1704181416,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239797,
+        "num": 239797,
+        "word": "杨紫李现二搭",
+        "onboard_time": 1704167256,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220563,
+        "num": 220563,
+        "word": "B站 学英语神器",
+        "onboard_time": 1704180759,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 203739,
+        "num": 203739,
+        "word": "男子患胃癌一查一家5口全感染幽门螺杆菌",
+        "onboard_time": 1704165158,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195824,
+        "num": 195824,
+        "word": "李现国色芳华妆造",
+        "onboard_time": 1704177092,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271995,
+        "num": 195543,
+        "word": "李在明遇袭后文在寅发声",
+        "onboard_time": 1704183758,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 193558,
+        "num": 193558,
+        "word": "上海至哈尔滨2月热门航班票价破3千元",
+        "onboard_time": 1704183093,
+        "rank": 31,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 190746,
+        "num": 190746,
+        "word": "李在明暂无生命危险",
+        "onboard_time": 1704164561,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 188054,
+        "num": 188054,
+        "word": "青岛保安刺死外卖员背后",
+        "onboard_time": 1704174691,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190237,
+        "num": 186957,
+        "word": "鱼 我是穿越了吗",
+        "onboard_time": 1704183394,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184783,
+        "num": 184783,
+        "word": "武庚纪 坐等开播",
+        "onboard_time": 1704181897,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179884,
+        "num": 179884,
+        "word": "中方期待中泰互免签证早日落地生效",
+        "onboard_time": 1704183996,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177211,
+        "num": 177211,
+        "word": "男朋友珍藏十年的宝物是根棒子",
+        "onboard_time": 1704179795,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164813,
+        "num": 164813,
+        "word": "东北虎接客南方小土豆擦玻璃互动",
+        "onboard_time": 1704183093,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152557,
+        "num": 152557,
+        "word": "B站2023百大UP主",
+        "onboard_time": 1704167978,
+        "rank": 39,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 151906,
+        "num": 151906,
+        "word": "涉嫌代孕的武汉普仁医院被罚5万",
+        "onboard_time": 1704167677,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150040,
+        "num": 150040,
+        "word": "樊振东 签表",
+        "onboard_time": 1704179434,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146725,
+        "num": 146725,
+        "word": "哈尔滨旅游 鄂伦春人",
+        "onboard_time": 1704181594,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 143947,
+        "num": 143947,
+        "word": "学校回应高校干部酒后家暴打死妻子",
+        "onboard_time": 1704176014,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 143476,
+        "num": 143476,
+        "word": "林北星小号",
+        "onboard_time": 1704182734,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138983,
+        "num": 138983,
+        "word": "免签落地签国家汇总",
+        "onboard_time": 1704181476,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 133733,
+        "num": 133733,
+        "word": "苹果头显或1月27日上市",
+        "onboard_time": 1704181775,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132218,
+        "num": 132218,
+        "word": "苏醒一家三口同框",
+        "onboard_time": 1704175412,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128696,
+        "num": 128696,
+        "word": "尹锡悦回应李在明遇袭",
+        "onboard_time": 1704163717,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127957,
+        "num": 127957,
+        "word": "何润东都演任嘉伦爸爸了",
+        "onboard_time": 1704170801,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹2023#"
+    }
+  }
+}

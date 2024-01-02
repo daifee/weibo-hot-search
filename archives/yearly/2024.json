@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704183717561,
+  "endTime": 1704184496876,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -259,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1464481,
+      "num": 1464481,
+      "word": "被指肛珠作弊象棋冠军起诉中国棋协",
+      "onboard_time": 1704180032,
+      "rank": 10,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1427162,
       "num": 1427162,
       "word": "iPhone为什么只有P大写",
@@ -288,6 +296,14 @@
       "word": "尹锡悦回应李在明遇袭",
       "onboard_time": 1704163717,
       "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1355059,
+      "num": 617495,
+      "word": "日本地震已致至少48人死亡",
+      "onboard_time": 1704183034,
+      "rank": 10,
       "category": "国外时政"
     },
     {
@@ -683,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 798544,
+      "num": 798544,
+      "word": "小杨哥称他不得已才当网红",
+      "onboard_time": 1704180514,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 796133,
       "num": 763972,
       "word": "苏醒 今晚都全开麦了",
@@ -971,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641097,
+      "num": 641097,
+      "word": "智性恋",
+      "onboard_time": 1704182195,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 637196,
       "num": 882214,
       "word": "跨年",
@@ -993,6 +1025,14 @@
       "onboard_time": 1704116922,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 628467,
+      "num": 628467,
+      "word": "蒋欣 华妃13年后再演反派",
+      "onboard_time": 1704182977,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 622728,
@@ -1025,14 +1065,6 @@
       "onboard_time": 1704179014,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 605188,
-      "num": 536233,
-      "word": "被指肛珠作弊象棋冠军起诉中国棋协",
-      "onboard_time": 1704180032,
-      "rank": 10,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 603697,
@@ -1177,6 +1209,22 @@
       "onboard_time": 1704102701,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523785,
+      "num": 523785,
+      "word": "谢娜紧紧抓住马立奥的原因",
+      "onboard_time": 1704180696,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 523548,
+      "num": 523548,
+      "word": "李在明遇袭时身边有50多名警察",
+      "onboard_time": 1704181177,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 522564,
@@ -1987,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282770,
+      "num": 282770,
+      "word": "新马泰免签了也变贵了",
+      "onboard_time": 1704184176,
+      "rank": 23,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 282027,
       "num": 1023884,
       "word": "2024年第一条微博",
@@ -2057,6 +2113,14 @@
       "onboard_time": 1704160655,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271995,
+      "num": 195543,
+      "word": "李在明遇袭后文在寅发声",
+      "onboard_time": 1704183758,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 271499,
@@ -2147,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258468,
+      "num": 258468,
+      "word": "第一批00后老师教最后一批00后",
+      "onboard_time": 1704181416,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258177,
       "num": 258177,
       "word": "男朋友珍藏十年的宝物是根棒子",
@@ -2177,14 +2249,6 @@
       "onboard_time": 1704169780,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249537,
-      "num": 249537,
-      "word": "小杨哥称他不得已才当网红",
-      "onboard_time": 1704180514,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 248262,
@@ -2337,70 +2401,6 @@
       "onboard_time": 1704172896,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 232054,
-      "num": 232054,
-      "word": "甘肃敦煌的旅游现在竟如此之冷淡",
-      "onboard_time": 1704103057,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 229401,
-      "num": 229401,
-      "word": "喝酒脸红的人 心脑血管疾病",
-      "onboard_time": 1704096101,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 228236,
-      "num": 228236,
-      "word": "花少5冰岛站超长加期",
-      "onboard_time": 1704099397,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 226954,
-      "num": 226557,
-      "word": "红楼梦 绝杀",
-      "onboard_time": 1704050298,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 226397,
-      "num": 226397,
-      "word": "女生不主动发消息还要联系吗",
-      "onboard_time": 1704151947,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 225262,
-      "num": 225262,
-      "word": "A股",
-      "onboard_time": 1704161618,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 225172,
-      "num": 225172,
-      "word": "毕业后最可怕的事",
-      "onboard_time": 1704171818,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 224584,
-      "num": 224584,
-      "word": "陶喆 难道失败就永远翻不了身",
-      "onboard_time": 1704159274,
-      "rank": 48,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

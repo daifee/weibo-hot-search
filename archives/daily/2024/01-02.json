@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704183717561,
+  "endTime": 1704184496876,
   "band_list": [
     {
       "raw_hot": 9066763,
@@ -59,6 +59,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1464481,
+      "num": 1464481,
+      "word": "被指肛珠作弊象棋冠军起诉中国棋协",
+      "onboard_time": 1704180032,
+      "rank": 10,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1417384,
       "num": 1417384,
       "word": "前世界冠军疑似被丈夫撞死",
@@ -72,6 +80,14 @@
       "word": "尹锡悦回应李在明遇袭",
       "onboard_time": 1704163717,
       "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1355059,
+      "num": 617495,
+      "word": "日本地震已致至少48人死亡",
+      "onboard_time": 1704183034,
+      "rank": 10,
       "category": "国外时政"
     },
     {
@@ -203,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 798544,
+      "num": 798544,
+      "word": "小杨哥称他不得已才当网红",
+      "onboard_time": 1704180514,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 789511,
       "num": 499950,
       "word": "日本地震已造成至少24人死亡",
@@ -307,6 +331,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 641097,
+      "num": 641097,
+      "word": "智性恋",
+      "onboard_time": 1704182195,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 628467,
+      "num": 628467,
+      "word": "蒋欣 华妃13年后再演反派",
+      "onboard_time": 1704182977,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 622728,
       "num": 435583,
       "word": "日本地震已致至少30人死亡",
@@ -321,14 +361,6 @@
       "onboard_time": 1704179014,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 605188,
-      "num": 536233,
-      "word": "被指肛珠作弊象棋冠军起诉中国棋协",
-      "onboard_time": 1704180032,
-      "rank": 10,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 603697,
@@ -393,6 +425,22 @@
       "onboard_time": 1704166895,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523785,
+      "num": 523785,
+      "word": "谢娜紧紧抓住马立奥的原因",
+      "onboard_time": 1704180696,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 523548,
+      "num": 523548,
+      "word": "李在明遇袭时身边有50多名警察",
+      "onboard_time": 1704181177,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 522564,
@@ -779,6 +827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 282770,
+      "num": 282770,
+      "word": "新马泰免签了也变贵了",
+      "onboard_time": 1704184176,
+      "rank": 23,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 281295,
       "num": 281295,
       "word": "霉霉大电影中国影史音乐纪录片冠军",
@@ -817,6 +873,14 @@
       "onboard_time": 1704093755,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271995,
+      "num": 195543,
+      "word": "李在明遇袭后文在寅发声",
+      "onboard_time": 1704183758,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 267052,
@@ -859,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258468,
+      "num": 258468,
+      "word": "第一批00后老师教最后一批00后",
+      "onboard_time": 1704181416,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258177,
       "num": 258177,
       "word": "男朋友珍藏十年的宝物是根棒子",
@@ -897,14 +969,6 @@
       "onboard_time": 1704169780,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249537,
-      "num": 249537,
-      "word": "小杨哥称他不得已才当网红",
-      "onboard_time": 1704180514,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 247713,
@@ -1051,6 +1115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220563,
+      "num": 220563,
+      "word": "B站 学英语神器",
+      "onboard_time": 1704180759,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 219274,
       "num": 219274,
       "word": "鸣龙少年别搞逆袭了",
@@ -1163,6 +1235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193558,
+      "num": 193558,
+      "word": "上海至哈尔滨2月热门航班票价破3千元",
+      "onboard_time": 1704183093,
+      "rank": 31,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 191548,
       "num": 191548,
       "word": "袭击李在明的男子被捕后一直沉默",
@@ -1177,6 +1257,14 @@
       "onboard_time": 1704166895,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190237,
+      "num": 186957,
+      "word": "鱼 我是穿越了吗",
+      "onboard_time": 1704183394,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 189791,
@@ -1219,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184783,
+      "num": 184783,
+      "word": "武庚纪 坐等开播",
+      "onboard_time": 1704181897,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181253,
       "num": 135233,
       "word": "日本华人讲述地震灾情",
@@ -1233,6 +1329,14 @@
       "onboard_time": 1704100837,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179884,
+      "num": 179884,
+      "word": "中方期待中泰互免签证早日落地生效",
+      "onboard_time": 1704183996,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 177819,
@@ -1307,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164813,
+      "num": 164813,
+      "word": "东北虎接客南方小土豆擦玻璃互动",
+      "onboard_time": 1704183093,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164311,
       "num": 164311,
       "word": "自贬是种极为严重的破窗效应",
@@ -1347,14 +1459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 153459,
-      "num": 153459,
-      "word": "谢娜紧紧抓住马立奥的原因",
-      "onboard_time": 1704180696,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153303,
       "num": 153303,
       "word": "百大UP主海报",
@@ -1377,6 +1481,14 @@
       "onboard_time": 1704155919,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146725,
+      "num": 146725,
+      "word": "哈尔滨旅游 鄂伦春人",
+      "onboard_time": 1704181594,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 145331,
@@ -1409,6 +1521,14 @@
       "onboard_time": 1704113680,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143476,
+      "num": 143476,
+      "word": "林北星小号",
+      "onboard_time": 1704182734,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 143262,
@@ -1451,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138983,
+      "num": 138983,
+      "word": "免签落地签国家汇总",
+      "onboard_time": 1704181476,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 138334,
       "num": 138334,
       "word": "外卖小哥送独行小孩回家称超时也值得",
@@ -1475,20 +1603,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135049,
-      "num": 135049,
-      "word": "B站 学英语神器",
-      "onboard_time": 1704180759,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 134450,
       "num": 134450,
       "word": "2024国际乒联第1周排名",
       "onboard_time": 1704162339,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133733,
+      "num": 133733,
+      "word": "苹果头显或1月27日上市",
+      "onboard_time": 1704181775,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 132747,
@@ -1529,6 +1657,14 @@
       "onboard_time": 1704174393,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127336,
+      "num": 322747,
+      "word": "为什么中国设计越来越火",
+      "onboard_time": 1704182674,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 123868,
@@ -1875,6 +2011,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 39999,
+      "num": 642492,
+      "word": "2024继续出发",
+      "onboard_time": 1704168400,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36378,
       "num": 269444,
       "word": "X9重新定义大七座",
@@ -1913,6 +2057,14 @@
       "onboard_time": 1704134418,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11989,
+      "num": 1010923,
+      "word": "2024我们将共同见证",
+      "onboard_time": 1704184475,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11445,
