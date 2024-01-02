@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704204987044,
+  "endTime": 1704206037653,
   "band_list": [
     {
       "raw_hot": 9066763,
@@ -57,6 +57,14 @@
       "onboard_time": 1704166236,
       "rank": 6,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1769127,
+      "num": 471121,
+      "word": "日本地震死亡人数上升至50人",
+      "onboard_time": 1704204396,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1661700,
@@ -155,14 +163,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1221662,
-      "num": 443167,
-      "word": "日本地震死亡人数上升至50人",
-      "onboard_time": 1704204396,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1212992,
       "num": 1212992,
       "word": "向佐用婴儿车推郭碧婷",
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1119858,
+      "num": 1119858,
+      "word": "纽约",
+      "onboard_time": 1704204094,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1092981,
       "num": 1092981,
       "word": "李在明被30厘米长刀刺中颈部",
@@ -209,6 +217,14 @@
       "onboard_time": 1704175531,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1013321,
+      "num": 317612,
+      "word": "女子二胎分娩后肠子内脏往外凸",
+      "onboard_time": 1704200852,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 996737,
@@ -257,14 +273,6 @@
       "onboard_time": 1704121303,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 954253,
-      "num": 312566,
-      "word": "女子二胎分娩后肠子内脏往外凸",
-      "onboard_time": 1704200852,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 951553,
@@ -347,6 +355,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 790162,
+      "num": 790162,
+      "word": "枭起青壤 迪丽热巴陈哲远",
+      "onboard_time": 1704204577,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 789511,
       "num": 499950,
       "word": "日本地震已造成至少24人死亡",
@@ -379,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 756526,
+      "num": 726424,
+      "word": "陈哲远 枭起青壤",
+      "onboard_time": 1704201936,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 741433,
       "num": 741433,
       "word": "网红欧可爱车祸事件肇事司机被刑拘",
@@ -401,14 +425,6 @@
       "onboard_time": 1704158495,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 726424,
-      "num": 726424,
-      "word": "陈哲远 枭起青壤",
-      "onboard_time": 1704201936,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 720741,
@@ -475,6 +491,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 680131,
+      "num": 680131,
+      "word": "繁花",
+      "onboard_time": 1704113680,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 669705,
       "num": 669705,
       "word": "陈妍希兑现瘦十斤flag",
@@ -507,20 +531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 647514,
+      "num": 647514,
+      "word": "江晴朗放弃高考",
+      "onboard_time": 1704203434,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 641097,
       "num": 641097,
       "word": "智性恋",
       "onboard_time": 1704182195,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 623207,
-      "num": 623207,
-      "word": "繁花",
-      "onboard_time": 1704113680,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 622728,
@@ -707,11 +731,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 461501,
-      "num": 431011,
-      "word": "纽约",
-      "onboard_time": 1704204094,
-      "rank": 12,
+      "raw_hot": 471137,
+      "num": 471137,
+      "word": "瞧给虞书欣都吓出烟嗓了",
+      "onboard_time": 1704204033,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 470896,
+      "num": 470896,
+      "word": "纽约发生一系列爆炸",
+      "onboard_time": 1704205298,
+      "rank": 13,
       "category": "国外时政"
     },
     {
@@ -729,14 +761,6 @@
       "onboard_time": 1704121602,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451950,
-      "num": 451950,
-      "word": "江晴朗放弃高考",
-      "onboard_time": 1704203434,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 450536,
@@ -1035,6 +1059,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 333289,
+      "num": 333289,
+      "word": "林墨 电梯夹层",
+      "onboard_time": 1704205358,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332916,
       "num": 332916,
       "word": "马立奥热情营业干脆收工",
@@ -1123,6 +1155,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 297573,
+      "num": 297573,
+      "word": "重庆婆婆卖抄手2块10个",
+      "onboard_time": 1704203676,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 296618,
       "num": 296618,
       "word": "日本15小时内地震155次",
@@ -1137,14 +1177,6 @@
       "onboard_time": 1704169899,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 293742,
-      "num": 293742,
-      "word": "瞧给虞书欣都吓出烟嗓了",
-      "onboard_time": 1704204033,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 291471,
@@ -1243,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276358,
-      "num": 276358,
-      "word": "枭起青壤 迪丽热巴陈哲远",
-      "onboard_time": 1704204577,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 272566,
       "num": 272566,
       "word": "吴千语很爱听施伯雄讲前任",
@@ -1281,14 +1305,6 @@
       "onboard_time": 1704171818,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265193,
-      "num": 265193,
-      "word": "重庆婆婆卖抄手2块10个",
-      "onboard_time": 1704203676,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 264940,
@@ -1355,6 +1371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255849,
+      "num": 255849,
+      "word": "一位澳门游客眼中的哈尔滨",
+      "onboard_time": 1704203916,
+      "rank": 27,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 254921,
       "num": 254921,
       "word": "张文逝世",
@@ -1379,12 +1403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252098,
-      "num": 252098,
-      "word": "一位澳门游客眼中的哈尔滨",
-      "onboard_time": 1704203916,
-      "rank": 27,
-      "category": "旅游,社会新闻"
+      "raw_hot": 252225,
+      "num": 252225,
+      "word": "95后班主任爆改女团舞为高三学生减压",
+      "onboard_time": 1704205058,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 251489,
@@ -1603,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216701,
+      "num": 216701,
+      "word": "2024双子座爱情事业两全",
+      "onboard_time": 1704205358,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216427,
       "num": 216427,
       "word": "WTT",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1704157598,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207784,
+      "num": 207784,
+      "word": "99年小伙在制造业工作两年买新房",
+      "onboard_time": 1704204816,
+      "rank": 42,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 205561,
@@ -1803,6 +1843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192442,
+      "num": 192442,
+      "word": "武庚纪",
+      "onboard_time": 1704205058,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191548,
       "num": 191548,
       "word": "袭击李在明的男子被捕后一直沉默",
@@ -1881,6 +1929,14 @@
       "onboard_time": 1704164018,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184771,
+      "num": 184771,
+      "word": "哈尔滨让我感到陌生",
+      "onboard_time": 1704205536,
+      "rank": 34,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 182377,
@@ -1971,6 +2027,14 @@
       "category": "动漫,美食"
     },
     {
+      "raw_hot": 174564,
+      "num": 174564,
+      "word": "汪小姐磨砺成虹口小汪",
+      "onboard_time": 1704204517,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172879,
       "num": 172879,
       "word": "白狐出来接客 东北虎被泼雪",
@@ -2035,14 +2099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166079,
-      "num": 166079,
-      "word": "汪小姐磨砺成虹口小汪",
-      "onboard_time": 1704204517,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165691,
       "num": 165691,
       "word": "咒术回战 五条悟宿傩对决",
@@ -2057,6 +2113,14 @@
       "onboard_time": 1704155016,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163440,
+      "num": 163440,
+      "word": "小狗每次吃饭都要找饭搭子",
+      "onboard_time": 1704205478,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 163319,
@@ -2203,6 +2267,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 146210,
+      "num": 146210,
+      "word": "59岁外卖员元旦当晚倒在送餐路上",
+      "onboard_time": 1704205714,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145825,
       "num": 145825,
       "word": "把仓鼠带回老家好像更可怜了",
@@ -2217,6 +2289,14 @@
       "onboard_time": 1704150923,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144921,
+      "num": 144921,
+      "word": "蜜雪冰城拟转战港交所上市",
+      "onboard_time": 1704205598,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 144489,
@@ -2353,14 +2433,6 @@
       "onboard_time": 1704162339,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133678,
-      "num": 133678,
-      "word": "99年小伙在制造业工作两年买新房",
-      "onboard_time": 1704204816,
-      "rank": 42,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 132978,

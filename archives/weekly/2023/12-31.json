@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704204987044,
+  "endTime": 1704206037653,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1769127,
+      "num": 471121,
+      "word": "日本地震死亡人数上升至50人",
+      "onboard_time": 1704204396,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1736462,
       "num": 1491120,
       "word": "张信哲唱悬溺 痛苦面具",
@@ -747,14 +755,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1221662,
-      "num": 443167,
-      "word": "日本地震死亡人数上升至50人",
-      "onboard_time": 1704204396,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1218075,
       "num": 869071,
       "word": "魏大勋好帅",
@@ -859,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1119858,
+      "num": 1119858,
+      "word": "纽约",
+      "onboard_time": 1704204094,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1107945,
       "num": 881081,
       "word": "明星cos",
@@ -953,6 +961,14 @@
       "onboard_time": 1704024769,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1013321,
+      "num": 317612,
+      "word": "女子二胎分娩后肠子内脏往外凸",
+      "onboard_time": 1704200852,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1010509,
@@ -1057,14 +1073,6 @@
       "onboard_time": 1704065061,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 954253,
-      "num": 312566,
-      "word": "女子二胎分娩后肠子内脏往外凸",
-      "onboard_time": 1704200852,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 951553,
@@ -1387,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 790162,
+      "num": 790162,
+      "word": "枭起青壤 迪丽热巴陈哲远",
+      "onboard_time": 1704204577,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 789511,
       "num": 499950,
       "word": "日本地震已造成至少24人死亡",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1704191616,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 756526,
+      "num": 726424,
+      "word": "陈哲远 枭起青壤",
+      "onboard_time": 1704201936,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 751793,
@@ -1537,14 +1561,6 @@
       "onboard_time": 1704092370,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 726424,
-      "num": 726424,
-      "word": "陈哲远 枭起青壤",
-      "onboard_time": 1704201936,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 720741,
@@ -1707,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 680131,
+      "num": 680131,
+      "word": "繁花",
+      "onboard_time": 1703946578,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 678307,
       "num": 678307,
       "word": "十年了 雷鸣终于清白了",
@@ -1795,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 647514,
+      "num": 647514,
+      "word": "江晴朗放弃高考",
+      "onboard_time": 1704203434,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 647062,
       "num": 647062,
       "word": "玲花是来争夺赵露思抚养权的",
@@ -1833,14 +1865,6 @@
       "onboard_time": 1704116922,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 623207,
-      "num": 623207,
-      "word": "繁花",
-      "onboard_time": 1703946578,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 622728,
@@ -2451,6 +2475,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 471137,
+      "num": 471137,
+      "word": "瞧给虞书欣都吓出烟嗓了",
+      "onboard_time": 1704204033,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 470896,
+      "num": 470896,
+      "word": "纽约发生一系列爆炸",
+      "onboard_time": 1704205298,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 470395,
       "num": 470395,
       "word": "小沈阳 不要带假唱节奏",
@@ -2473,14 +2513,6 @@
       "onboard_time": 1704085833,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 461501,
-      "num": 431011,
-      "word": "纽约",
-      "onboard_time": 1704204094,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 461177,
@@ -2537,14 +2569,6 @@
       "onboard_time": 1704108398,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 451950,
-      "num": 451950,
-      "word": "江晴朗放弃高考",
-      "onboard_time": 1704203434,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 450536,
@@ -3187,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333289,
+      "num": 333289,
+      "word": "林墨 电梯夹层",
+      "onboard_time": 1704205358,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332916,
       "num": 332916,
       "word": "马立奥热情营业干脆收工",
@@ -3427,6 +3459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297573,
+      "num": 297573,
+      "word": "重庆婆婆卖抄手2块10个",
+      "onboard_time": 1704203676,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 297409,
       "num": 297409,
       "word": "排便时长应不超10分钟",
@@ -3457,14 +3497,6 @@
       "onboard_time": 1704169899,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 293742,
-      "num": 293742,
-      "word": "瞧给虞书欣都吓出烟嗓了",
-      "onboard_time": 1704204033,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 293363,
@@ -3723,14 +3755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276358,
-      "num": 276358,
-      "word": "枭起青壤 迪丽热巴陈哲远",
-      "onboard_time": 1704204577,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 274541,
       "num": 274541,
       "word": "红白歌会节目单",
@@ -3841,14 +3865,6 @@
       "onboard_time": 1704006331,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265193,
-      "num": 265193,
-      "word": "重庆婆婆卖抄手2块10个",
-      "onboard_time": 1704203676,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 264940,
@@ -3979,6 +3995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255849,
+      "num": 255849,
+      "word": "一位澳门游客眼中的哈尔滨",
+      "onboard_time": 1704203916,
+      "rank": 27,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 253941,
       "num": 253941,
       "word": "刺伤李在明嫌疑人信息",
@@ -3995,12 +4019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252098,
-      "num": 252098,
-      "word": "一位澳门游客眼中的哈尔滨",
-      "onboard_time": 1704203916,
-      "rank": 27,
-      "category": "旅游,社会新闻"
+      "raw_hot": 252225,
+      "num": 252225,
+      "word": "95后班主任爆改女团舞为高三学生减压",
+      "onboard_time": 1704205058,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 251749,
@@ -4507,6 +4531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216701,
+      "num": 216701,
+      "word": "2024双子座爱情事业两全",
+      "onboard_time": 1704205358,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216675,
       "num": 216675,
       "word": "雷鸣 下雪了",
@@ -4649,6 +4681,14 @@
       "onboard_time": 1704157598,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207784,
+      "num": 207784,
+      "word": "99年小伙在制造业工作两年买新房",
+      "onboard_time": 1704204816,
+      "rank": 42,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 207738,
@@ -5059,6 +5099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192442,
+      "num": 192442,
+      "word": "武庚纪",
+      "onboard_time": 1704205058,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191859,
       "num": 162124,
       "word": "金手指 看完戒股",
@@ -5233,6 +5281,14 @@
       "onboard_time": 1704164018,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184771,
+      "num": 184771,
+      "word": "哈尔滨让我感到陌生",
+      "onboard_time": 1704205536,
+      "rank": 34,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 184304,
@@ -5467,6 +5523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174564,
+      "num": 174564,
+      "word": "汪小姐磨砺成虹口小汪",
+      "onboard_time": 1704204517,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174400,
       "num": 174400,
       "word": "RW FLY",
@@ -5651,14 +5715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166079,
-      "num": 166079,
-      "word": "汪小姐磨砺成虹口小汪",
-      "onboard_time": 1704204517,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165935,
       "num": 165935,
       "word": "灰原哀跨年",
@@ -5713,6 +5769,14 @@
       "onboard_time": 1703979082,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163440,
+      "num": 163440,
+      "word": "小狗每次吃饭都要找饭搭子",
+      "onboard_time": 1704205478,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 163401,
@@ -6219,6 +6283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146210,
+      "num": 146210,
+      "word": "59岁外卖员元旦当晚倒在送餐路上",
+      "onboard_time": 1704205714,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146088,
       "num": 146088,
       "word": "虞书欣祝绪丹捧花杀青照",
@@ -6273,6 +6345,14 @@
       "onboard_time": 1703996071,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144921,
+      "num": 144921,
+      "word": "蜜雪冰城拟转战港交所上市",
+      "onboard_time": 1704205598,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 144598,
@@ -6625,14 +6705,6 @@
       "onboard_time": 1704162339,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133678,
-      "num": 133678,
-      "word": "99年小伙在制造业工作两年买新房",
-      "onboard_time": 1704204816,
-      "rank": 42,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 133208,
