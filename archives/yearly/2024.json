@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704202434135,
+  "endTime": 1704204987044,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -64,6 +64,14 @@
       "word": "日本强震引发5米海啸",
       "onboard_time": 1704095075,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2996543,
+      "num": 450291,
+      "word": "开封一11岁女生在KTV被未成年人强暴",
+      "onboard_time": 1704202593,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -411,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1221662,
+      "num": 443167,
+      "word": "日本地震死亡人数上升至50人",
+      "onboard_time": 1704204396,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1212992,
       "num": 1212992,
       "word": "向佐用婴儿车推郭碧婷",
@@ -587,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 954253,
+      "num": 312566,
+      "word": "女子二胎分娩后肠子内脏往外凸",
+      "onboard_time": 1704200852,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 951553,
       "num": 951553,
       "word": "涉嫌代孕的武汉普仁医院被罚5万",
@@ -755,14 +779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 834389,
-      "num": 246475,
-      "word": "女子二胎分娩后肠子内脏往外凸",
-      "onboard_time": 1704200852,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 830891,
       "num": 377130,
       "word": "日本两小时内发生了40多次地震",
@@ -929,6 +945,14 @@
       "onboard_time": 1704092370,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 726424,
+      "num": 726424,
+      "word": "陈哲远 枭起青壤",
+      "onboard_time": 1704201936,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 720741,
@@ -1179,6 +1203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 623207,
+      "num": 623207,
+      "word": "繁花",
+      "onboard_time": 1704113680,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 622728,
       "num": 435583,
       "word": "日本地震已致至少30人死亡",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1704151707,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 596178,
+      "num": 596178,
+      "word": "5岁吃不到10种食物的女孩长大了",
+      "onboard_time": 1704201154,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 588343,
@@ -1555,12 +1595,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 466354,
-      "num": 466354,
-      "word": "繁花",
-      "onboard_time": 1704113680,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 461501,
+      "num": 431011,
+      "word": "纽约",
+      "onboard_time": 1704204094,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 460366,
@@ -1579,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458620,
+      "num": 458620,
+      "word": "刘诗诗的晚安短信",
+      "onboard_time": 1704202833,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457840,
       "num": 457840,
       "word": "男子2000买金包银首饰典当5.3万",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1704108398,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 451950,
+      "num": 451950,
+      "word": "江晴朗放弃高考",
+      "onboard_time": 1704203434,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 450536,
@@ -1857,14 +1913,6 @@
       "onboard_time": 1704174033,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380177,
-      "num": 380177,
-      "word": "5岁吃不到10种食物的女孩长大了",
-      "onboard_time": 1704201154,
-      "rank": 33,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 377691,
@@ -2259,6 +2307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293742,
+      "num": 293742,
+      "word": "瞧给虞书欣都吓出烟嗓了",
+      "onboard_time": 1704204033,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292895,
       "num": 292895,
       "word": "刘亦菲新年vlog",
@@ -2289,6 +2345,14 @@
       "onboard_time": 1704117880,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288658,
+      "num": 288658,
+      "word": "王哲林三分绝杀",
+      "onboard_time": 1704204215,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 287696,
@@ -2337,70 +2401,6 @@
       "onboard_time": 1704047005,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285621,
-      "num": 272911,
-      "word": "孙燕姿给我开演唱会",
-      "onboard_time": 1704077314,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 282111,
-      "num": 282111,
-      "word": "TWS出道先行曲",
-      "onboard_time": 1704187532,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 282027,
-      "num": 1023884,
-      "word": "2024年第一条微博",
-      "onboard_time": 1704040435,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281295,
-      "num": 281295,
-      "word": "霉霉大电影中国影史音乐纪录片冠军",
-      "onboard_time": 1704165158,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 279938,
-      "num": 254070,
-      "word": "王俊凯心引力舞台好甜",
-      "onboard_time": 1704077792,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 278884,
-      "num": 278884,
-      "word": "王鹤棣田曦薇玩萝卜刀",
-      "onboard_time": 1704100537,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 278576,
-      "num": 278576,
-      "word": "北京新年宝宝叫一博",
-      "onboard_time": 1704093032,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278421,
-      "num": 278421,
-      "word": "不用排名 感受到多少就回馈多少",
-      "onboard_time": 1704168938,
-      "rank": 31,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
