@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704176561518,
+  "endTime": 1704177334987,
   "band_list": [
     {
       "raw_hot": 9066763,
@@ -11,8 +11,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 5448256,
-      "num": 5448256,
+      "raw_hot": 5860108,
+      "num": 5860108,
       "word": "中泰永久互相免签",
       "onboard_time": 1704173134,
       "rank": 0,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 938626,
+      "num": 938626,
+      "word": "虞书欣戏份 删减",
+      "onboard_time": 1704175531,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 929134,
       "num": 589507,
       "word": "日本多个核电站燃料池水溢出",
@@ -259,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 626853,
-      "num": 626853,
-      "word": "虞书欣戏份 删减",
-      "onboard_time": 1704175531,
-      "rank": 7,
-      "category": "电影"
+      "raw_hot": 630342,
+      "num": 630342,
+      "word": "青岛保安刺死外卖员背后",
+      "onboard_time": 1704174691,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 622728,
@@ -297,14 +305,6 @@
       "onboard_time": 1704152730,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 580619,
-      "num": 580619,
-      "word": "青岛保安刺死外卖员背后",
-      "onboard_time": 1704174691,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 575411,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393943,
+      "num": 393943,
+      "word": "苏醒一家三口同框",
+      "onboard_time": 1704175412,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381523,
       "num": 381523,
       "word": "金智秀与哥哥成立新公司",
@@ -475,20 +483,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377551,
+      "num": 377551,
+      "word": "学校回应高校干部酒后家暴打死妻子",
+      "onboard_time": 1704176014,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 365528,
       "num": 365528,
       "word": "iOS17.2.1被曝无法接打电话",
       "onboard_time": 1704160960,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 365104,
-      "num": 365104,
-      "word": "苏醒一家三口同框",
-      "onboard_time": 1704175412,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 364546,
@@ -643,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 291471,
+      "num": 291471,
+      "word": "哈尔滨已经人均夹子音",
+      "onboard_time": 1704173558,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 291080,
       "num": 291080,
       "word": "陈都灵镜妖妆造",
@@ -715,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272080,
-      "num": 272080,
-      "word": "哈尔滨已经人均夹子音",
-      "onboard_time": 1704173558,
-      "rank": 45,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 267052,
       "num": 267052,
       "word": "王源去新疆了",
@@ -777,14 +785,6 @@
       "onboard_time": 1704157777,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252327,
-      "num": 252327,
-      "word": "学校回应高校干部酒后家暴打死妻子",
-      "onboard_time": 1704176014,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 251489,
@@ -1003,6 +1003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199487,
+      "num": 179094,
+      "word": "李在明疑似颈静脉损伤",
+      "onboard_time": 1704176912,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 197574,
       "num": 197574,
       "word": "今年的哈尔滨本地人也没见过",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1704130700,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189186,
+      "num": 189186,
+      "word": "深圳街头放免费钢琴大叔弹到忘记时间",
+      "onboard_time": 1704176553,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186784,
@@ -1177,6 +1193,22 @@
       "onboard_time": 1704161741,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155365,
+      "num": 155365,
+      "word": "李现国色芳华妆造",
+      "onboard_time": 1704177092,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153303,
+      "num": 153303,
+      "word": "百大UP主海报",
+      "onboard_time": 1704177032,
+      "rank": 38,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 151784,
@@ -1323,8 +1355,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126295,
-      "num": 126295,
+      "raw_hot": 128393,
+      "num": 128393,
       "word": "156家A股上市公司被证监会立案调查",
       "onboard_time": 1704174393,
       "rank": 44,
@@ -1376,14 +1408,6 @@
       "word": "2024开年第1个工作日",
       "onboard_time": 1704166056,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116211,
-      "num": 116211,
-      "word": "深圳街头放免费钢琴大叔弹到忘记时间",
-      "onboard_time": 1704176553,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
