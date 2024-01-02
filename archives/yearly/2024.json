@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704152084166,
+  "endTime": 1704158028089,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1169423,
+      "num": 1169423,
+      "word": "赵露思 终于知道邓超上春晚的感觉了",
+      "onboard_time": 1704151284,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1167332,
       "num": 1167332,
       "word": "日本今日已连发3次地震",
@@ -305,6 +313,14 @@
       "onboard_time": 1704038932,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1134253,
+      "num": 1134253,
+      "word": "床癌",
+      "onboard_time": 1704155016,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1127116,
@@ -363,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 973921,
+      "num": 973921,
+      "word": "百度宣布终止收购YY直播",
+      "onboard_time": 1704153813,
+      "rank": 4,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 971992,
       "num": 971992,
       "word": "跨年收视率",
@@ -411,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 929134,
+      "num": 589507,
+      "word": "日本多个核电站燃料池水溢出",
+      "onboard_time": 1704154296,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 922842,
       "num": 419530,
       "word": "为裁员西安某公司从CBD搬进秦岭山区",
@@ -433,6 +465,14 @@
       "onboard_time": 1704042941,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 901947,
+      "num": 901947,
+      "word": "王家卫拍出了辛芷蕾的人生镜头",
+      "onboard_time": 1704155318,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 873008,
@@ -627,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690923,
+      "num": 528124,
+      "word": "日本地震震区中国游客夫妇发声",
+      "onboard_time": 1704153572,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 681118,
       "num": 325708,
       "word": "日本连续地震前乌鸦满天飞",
@@ -641,6 +689,14 @@
       "onboard_time": 1704073476,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 669705,
+      "num": 669705,
+      "word": "陈妍希兑现瘦十斤flag",
+      "onboard_time": 1704152006,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 669289,
@@ -747,12 +803,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603697,
+      "num": 603697,
+      "word": "广东一地公示8名躺平休闲人员",
+      "onboard_time": 1704152730,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596688,
+      "num": 351331,
+      "word": "服用紧急避孕药后身体会有何变化",
+      "onboard_time": 1704151707,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 588343,
       "num": 588343,
       "word": "不要再瞎练八段锦了",
       "onboard_time": 1704103303,
       "rank": 18,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 588148,
+      "num": 588148,
+      "word": "黄晓明小海绵亲子装",
+      "onboard_time": 1704152730,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 579458,
@@ -819,6 +899,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 534626,
+      "num": 420484,
+      "word": "日本导演竹内亮地震后发声",
+      "onboard_time": 1704154415,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 533640,
       "num": 533640,
       "word": "卡琳娜有笑容了",
@@ -841,6 +929,14 @@
       "onboard_time": 1704102701,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509411,
+      "num": 509411,
+      "word": "王彦霖认证王鹤棣是单身",
+      "onboard_time": 1704151647,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 502919,
@@ -987,12 +1083,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436010,
-      "num": 436010,
-      "word": "赵露思 终于知道邓超上春晚的感觉了",
-      "onboard_time": 1704151284,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 443073,
+      "num": 443073,
+      "word": "杨迪檀健次 P图",
+      "onboard_time": 1704151404,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 435892,
@@ -1057,6 +1153,14 @@
       "onboard_time": 1704088413,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 411540,
+      "num": 590540,
+      "word": "成都雾霾",
+      "onboard_time": 1704154777,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405947,
@@ -1139,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352307,
+      "num": 352307,
+      "word": "张杰听到加班吓跪了",
+      "onboard_time": 1704156036,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351800,
       "num": 351800,
       "word": "中美建交45周年",
@@ -1153,6 +1265,14 @@
       "onboard_time": 1704074794,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349366,
+      "num": 349366,
+      "word": "为什么睡觉时人会翻身",
+      "onboard_time": 1704152488,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 343204,
@@ -1209,6 +1329,14 @@
       "onboard_time": 1704092312,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 324729,
+      "num": 324729,
+      "word": "男子送女友9.9元鲜花被强拒",
+      "onboard_time": 1704156638,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324498,
@@ -1313,6 +1441,14 @@
       "onboard_time": 1704117880,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287619,
+      "num": 287619,
+      "word": "四川省考准考证",
+      "onboard_time": 1704156459,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 286532,
@@ -1435,6 +1571,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263849,
+      "num": 263849,
+      "word": "日本地震已致8人死亡",
+      "onboard_time": 1704157717,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262068,
+      "num": 262068,
+      "word": "国足3人染红",
+      "onboard_time": 1704150743,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261792,
       "num": 162544,
       "word": "运镜跟不上黄明昊",
@@ -1443,12 +1595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260737,
-      "num": 90892,
-      "word": "服用紧急避孕药后身体会有何变化",
-      "onboard_time": 1704151707,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 258790,
+      "num": 258790,
+      "word": "武汉汉口江滩雕塑一孩变三孩",
+      "onboard_time": 1704153993,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251515,
@@ -1491,12 +1643,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244410,
+      "num": 244410,
+      "word": "日本网民吐槽新年第一天灾害",
+      "onboard_time": 1704157177,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243063,
       "num": 243063,
       "word": "武汉跨年气球碰电线炸出火花",
       "onboard_time": 1704084635,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241994,
+      "num": 241994,
+      "word": "苹果2023年首度停更iPad",
+      "onboard_time": 1704154114,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 235965,
@@ -1563,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226397,
+      "num": 226397,
+      "word": "女生不主动发消息还要联系吗",
+      "onboard_time": 1704151947,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224367,
       "num": 810380,
       "word": "女子1张彩票中奖571次总计860万",
@@ -1585,14 +1761,6 @@
       "onboard_time": 1704114639,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 224097,
-      "num": 224097,
-      "word": "杨迪檀健次 P图",
-      "onboard_time": 1704151404,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 221753,
@@ -1667,11 +1835,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209302,
+      "num": 198015,
+      "word": "日本核电站",
+      "onboard_time": 1704157777,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208501,
       "num": 208501,
       "word": "总台大湾区新年音乐会",
       "onboard_time": 1704112540,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 208171,
+      "num": 208171,
+      "word": "2024跨年最佳舞台",
+      "onboard_time": 1704157598,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1795,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192526,
-      "num": 192526,
-      "word": "国足3人染红",
-      "onboard_time": 1704150743,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191859,
       "num": 162124,
       "word": "金手指 看完戒股",
@@ -1923,6 +2099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176997,
+      "num": 161947,
+      "word": "日本火灾已造成约一百栋建筑被烧毁",
+      "onboard_time": 1704156819,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174400,
       "num": 174400,
       "word": "RW FLY",
@@ -1937,6 +2121,14 @@
       "onboard_time": 1704098500,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171674,
+      "num": 171674,
+      "word": "鼻子不通的时候按压此处",
+      "onboard_time": 1704156278,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171501,
@@ -1979,6 +2171,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 167115,
+      "num": 167115,
+      "word": "1992年的李李",
+      "onboard_time": 1704157834,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166696,
       "num": 166696,
       "word": "年会不能停 超出预期",
@@ -1987,11 +2187,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166144,
+      "num": 166144,
+      "word": "世界催着我长大 只有B站把我当小孩",
+      "onboard_time": 1704155196,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165137,
       "num": 190177,
       "word": "一些旺自己的小玄学",
       "onboard_time": 1704082712,
       "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 164311,
+      "num": 164311,
+      "word": "自贬是种极为严重的破窗效应",
+      "onboard_time": 1704155016,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -2107,6 +2323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151429,
+      "num": 151429,
+      "word": "2024狮子座好运苏醒",
+      "onboard_time": 1704155919,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150976,
       "num": 150976,
       "word": "唐嫣繁花演技",
@@ -2147,14 +2371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148128,
-      "num": 148128,
-      "word": "王彦霖认证王鹤棣是单身",
-      "onboard_time": 1704151647,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146678,
       "num": 146678,
       "word": "灵隐寺新年一早人从众",
@@ -2185,222 +2401,6 @@
       "onboard_time": 1704028141,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143412,
-      "num": 143412,
-      "word": "男孩什刹海落水10余人合力施救",
-      "onboard_time": 1704071254,
-      "rank": 45,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 143072,
-      "num": 143072,
-      "word": "跨年档票房",
-      "onboard_time": 1704123696,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 142923,
-      "num": 142923,
-      "word": "故宫2024开门红壁纸",
-      "onboard_time": 1704093873,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 142797,
-      "num": 142797,
-      "word": "男生囤二十张优惠券给女友买婚戒",
-      "onboard_time": 1704102820,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142537,
-      "num": 238569,
-      "word": "奶奶的爱跨千山万水而来",
-      "onboard_time": 1704081873,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141748,
-      "num": 141748,
-      "word": "惊恐的雪琴和淡定的耀庆",
-      "onboard_time": 1704122857,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 141256,
-      "num": 311822,
-      "word": "2024有个神奇的数字24",
-      "onboard_time": 1704106961,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140256,
-      "num": 127942,
-      "word": "猫幂一起跨年",
-      "onboard_time": 1704047785,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 140234,
-      "num": 134338,
-      "word": "百变赵兆",
-      "onboard_time": 1704088235,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 138849,
-      "num": 138849,
-      "word": "2024上半年女兵应征报名今天开始",
-      "onboard_time": 1704098079,
-      "rank": 43,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 138352,
-      "num": 244429,
-      "word": "越南网红教的捕猎方法",
-      "onboard_time": 1704079836,
-      "rank": 45,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 138299,
-      "num": 204372,
-      "word": "青海海东最后一名地震失联人员被找到",
-      "onboard_time": 1704089554,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137043,
-      "num": 137043,
-      "word": "RA战胜LNG",
-      "onboard_time": 1704099339,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 134994,
-      "num": 134994,
-      "word": "陈飞宇祝樊振东新年快乐",
-      "onboard_time": 1704105460,
-      "rank": 49,
-      "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 132885,
-      "num": 132885,
-      "word": "沈阳数百人齐跳科目三打破世界纪录",
-      "onboard_time": 1704091473,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131802,
-      "num": 131802,
-      "word": "RA晋级德杯四强",
-      "onboard_time": 1704099937,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 130004,
-      "num": 130004,
-      "word": "魏大勋一下台就去撸串了",
-      "onboard_time": 1704125373,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 129126,
-      "num": 133941,
-      "word": "太阳三巨头合砍77分",
-      "onboard_time": 1704085593,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 128824,
-      "num": 128824,
-      "word": "心碎综合症",
-      "onboard_time": 1704070533,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 127980,
-      "num": 996119,
-      "word": "元旦起这些新规施行",
-      "onboard_time": 1704103420,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127352,
-      "num": 127352,
-      "word": "更好的2024",
-      "onboard_time": 1704099037,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126567,
-      "num": 126567,
-      "word": "詹姆斯1分钟连得9分",
-      "onboard_time": 1704087695,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 126178,
-      "num": 126178,
-      "word": "WTT男子总决赛抽签结果",
-      "onboard_time": 1704114279,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 125455,
-      "num": 125455,
-      "word": "新年第一天就被狗狗整笑了",
-      "onboard_time": 1704100299,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 125416,
-      "num": 1239198,
-      "word": "这是2024年第1天的中国",
-      "onboard_time": 1704066384,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123220,
-      "num": 123220,
-      "word": "为什么有的香蕉是直的",
-      "onboard_time": 1704150985,
-      "rank": 29,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 121999,
-      "num": 121999,
-      "word": "JDG晋级德杯四强",
-      "onboard_time": 1704115899,
-      "rank": 45,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [

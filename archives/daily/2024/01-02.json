@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704152084166,
+  "endTime": 1704158028089,
   "band_list": [
     {
       "raw_hot": 1588901,
@@ -11,6 +11,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 1169423,
+      "num": 1169423,
+      "word": "赵露思 终于知道邓超上春晚的感觉了",
+      "onboard_time": 1704151284,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1154352,
       "num": 1154352,
       "word": "一个月不换的床单有多脏",
@@ -19,8 +27,24 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1134253,
+      "num": 1134253,
+      "word": "床癌",
+      "onboard_time": 1704155016,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 973921,
+      "num": 973921,
+      "word": "百度宣布终止收购YY直播",
+      "onboard_time": 1704153813,
+      "rank": 4,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 968062,
-      "num": 269892,
+      "num": 351764,
       "word": "日本气象厅修正地震震度",
       "onboard_time": 1704119801,
       "rank": 10,
@@ -35,12 +59,68 @@
       "category": "数码"
     },
     {
+      "raw_hot": 929134,
+      "num": 589507,
+      "word": "日本多个核电站燃料池水溢出",
+      "onboard_time": 1704154296,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 901947,
+      "num": 901947,
+      "word": "王家卫拍出了辛芷蕾的人生镜头",
+      "onboard_time": 1704155318,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 690923,
+      "num": 528124,
+      "word": "日本地震震区中国游客夫妇发声",
+      "onboard_time": 1704153572,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 669705,
+      "num": 669705,
+      "word": "陈妍希兑现瘦十斤flag",
+      "onboard_time": 1704152006,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 667738,
       "num": 667738,
       "word": "从此排骨是排骨 年糕是年糕",
       "onboard_time": 1704121419,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 603697,
+      "num": 603697,
+      "word": "广东一地公示8名躺平休闲人员",
+      "onboard_time": 1704152730,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596688,
+      "num": 351331,
+      "word": "服用紧急避孕药后身体会有何变化",
+      "onboard_time": 1704151707,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 588148,
+      "num": 588148,
+      "word": "黄晓明小海绵亲子装",
+      "onboard_time": 1704152730,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 575411,
@@ -59,6 +139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534626,
+      "num": 420484,
+      "word": "日本导演竹内亮地震后发声",
+      "onboard_time": 1704154415,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509411,
+      "num": 509411,
+      "word": "王彦霖认证王鹤棣是单身",
+      "onboard_time": 1704151647,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457840,
       "num": 457840,
       "word": "男子2000买金包银首饰典当5.3万",
@@ -67,20 +163,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436010,
-      "num": 436010,
-      "word": "赵露思 终于知道邓超上春晚的感觉了",
-      "onboard_time": 1704151284,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 443073,
+      "num": 443073,
+      "word": "杨迪檀健次 P图",
+      "onboard_time": 1704151404,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 426580,
-      "num": 216892,
+      "num": 222218,
       "word": "日本两小时内发生了40多次地震",
       "onboard_time": 1704118902,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411540,
+      "num": 590540,
+      "word": "成都雾霾",
+      "onboard_time": 1704154777,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352307,
+      "num": 352307,
+      "word": "张杰听到加班吓跪了",
+      "onboard_time": 1704156036,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349366,
+      "num": 349366,
+      "word": "为什么睡觉时人会翻身",
+      "onboard_time": 1704152488,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 342126,
@@ -115,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324729,
+      "num": 324729,
+      "word": "男子送女友9.9元鲜花被强拒",
+      "onboard_time": 1704156638,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308767,
       "num": 308767,
       "word": "胡歌 第一个吻戏是咸的",
@@ -131,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287619,
+      "num": 287619,
+      "word": "四川省考准考证",
+      "onboard_time": 1704156459,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 286532,
       "num": 286532,
       "word": "压力过大衰老速度比常人快6倍",
@@ -140,19 +276,35 @@
     },
     {
       "raw_hot": 272233,
-      "num": 160293,
+      "num": 166949,
       "word": "日本地震",
       "onboard_time": 1704093755,
       "rank": 19,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260737,
-      "num": 90892,
-      "word": "服用紧急避孕药后身体会有何变化",
-      "onboard_time": 1704151707,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 263849,
+      "num": 263849,
+      "word": "日本地震已致8人死亡",
+      "onboard_time": 1704157717,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262068,
+      "num": 262068,
+      "word": "国足3人染红",
+      "onboard_time": 1704150743,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 258790,
+      "num": 258790,
+      "word": "武汉汉口江滩雕塑一孩变三孩",
+      "onboard_time": 1704153993,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258671,
@@ -195,12 +347,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224097,
-      "num": 224097,
-      "word": "杨迪檀健次 P图",
-      "onboard_time": 1704151404,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 244410,
+      "num": 244410,
+      "word": "日本网民吐槽新年第一天灾害",
+      "onboard_time": 1704157177,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241994,
+      "num": 241994,
+      "word": "苹果2023年首度停更iPad",
+      "onboard_time": 1704154114,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 226397,
+      "num": 226397,
+      "word": "女生不主动发消息还要联系吗",
+      "onboard_time": 1704151947,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 221658,
@@ -211,19 +379,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209302,
+      "num": 198015,
+      "word": "日本核电站",
+      "onboard_time": 1704157777,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208171,
+      "num": 208171,
+      "word": "2024跨年最佳舞台",
+      "onboard_time": 1704157598,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194784,
       "num": 273161,
       "word": "国足1比2中国香港",
       "onboard_time": 1704150503,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 192526,
-      "num": 192526,
-      "word": "国足3人染红",
-      "onboard_time": 1704150743,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -251,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176997,
+      "num": 161947,
+      "word": "日本火灾已造成约一百栋建筑被烧毁",
+      "onboard_time": 1704156819,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175580,
       "num": 142357,
       "word": "日本7.4级地震现场画面",
@@ -267,6 +451,38 @@
       "category": "美食"
     },
     {
+      "raw_hot": 171674,
+      "num": 171674,
+      "word": "鼻子不通的时候按压此处",
+      "onboard_time": 1704156278,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167115,
+      "num": 167115,
+      "word": "1992年的李李",
+      "onboard_time": 1704157834,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166144,
+      "num": 166144,
+      "word": "世界催着我长大 只有B站把我当小孩",
+      "onboard_time": 1704155196,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164311,
+      "num": 164311,
+      "word": "自贬是种极为严重的破窗效应",
+      "onboard_time": 1704155016,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161919,
       "num": 161919,
       "word": "日本一地火山喷发",
@@ -275,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148128,
-      "num": 148128,
-      "word": "王彦霖认证王鹤棣是单身",
-      "onboard_time": 1704151647,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 151429,
+      "num": 151429,
+      "word": "2024狮子座好运苏醒",
+      "onboard_time": 1704155919,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 145331,
@@ -297,6 +513,14 @@
       "onboard_time": 1704113680,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143262,
+      "num": 143262,
+      "word": "为什么有的香蕉是直的",
+      "onboard_time": 1704150985,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 143072,
@@ -331,6 +555,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131371,
+      "num": 131371,
+      "word": "张钧甯 新年第一天就要跟爱的人在一起",
+      "onboard_time": 1704151585,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 131249,
+      "num": 131249,
+      "word": "张靓颖唱了刘亦菲想听的歌",
+      "onboard_time": 1704153632,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130004,
       "num": 130004,
       "word": "魏大勋一下台就去撸串了",
@@ -339,12 +579,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123220,
-      "num": 123220,
-      "word": "为什么有的香蕉是直的",
-      "onboard_time": 1704150985,
-      "rank": 29,
-      "category": "科学科普"
+      "raw_hot": 123868,
+      "num": 123868,
+      "word": "王鹤棣时代少年团对蔡依林喊巨星",
+      "onboard_time": 1704154777,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122969,
+      "num": 122969,
+      "word": "梅里雪山日照金山太震撼",
+      "onboard_time": 1704154474,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 121608,
@@ -353,6 +601,14 @@
       "onboard_time": 1704124355,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121548,
+      "num": 121548,
+      "word": "白鹿请白月梵星剧组人员喝奶茶",
+      "onboard_time": 1704156877,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 111984,
@@ -475,14 +731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 81583,
-      "num": 81583,
-      "word": "张钧甯 新年第一天就要跟爱的人在一起",
-      "onboard_time": 1704151585,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 81236,
       "num": 86616,
       "word": "陶喆 蝴蝶",
@@ -505,14 +753,6 @@
       "onboard_time": 1704108398,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 77276,
-      "num": 77276,
-      "word": "女生不主动发消息还要联系吗",
-      "onboard_time": 1704151947,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 75521,
@@ -571,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63118,
+      "num": 1145741,
+      "word": "元旦起这些新规施行",
+      "onboard_time": 1704103420,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62092,
       "num": 65896,
       "word": "容祖儿想认宋亚轩当干儿子",
@@ -601,22 +849,6 @@
       "onboard_time": 1704133757,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 56945,
-      "num": 56945,
-      "word": "陈妍希兑现瘦十斤flag",
-      "onboard_time": 1704152006,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 52153,
-      "num": 737794,
-      "word": "元旦起这些新规施行",
-      "onboard_time": 1704103420,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50955,
