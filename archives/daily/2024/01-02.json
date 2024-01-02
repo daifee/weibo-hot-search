@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704208687899,
+  "endTime": 1704209657427,
   "band_list": [
     {
       "raw_hot": 9066763,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1892107,
-      "num": 534553,
+      "num": 579353,
       "word": "日本地震死亡人数增至55人",
       "onboard_time": 1704207035,
       "rank": 10,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 745083,
+      "num": 745083,
+      "word": "林墨 电梯夹层",
+      "onboard_time": 1704205358,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 741433,
       "num": 741433,
       "word": "网红欧可爱车祸事件肇事司机被刑拘",
@@ -433,14 +441,6 @@
       "onboard_time": 1704165158,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 736527,
-      "num": 736527,
-      "word": "林墨 电梯夹层",
-      "onboard_time": 1704205358,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 733327,
@@ -587,8 +587,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 616561,
-      "num": 616561,
+      "raw_hot": 618045,
+      "num": 618045,
       "word": "日本飞机相撞事故为航空事故",
       "onboard_time": 1704206916,
       "rank": 8,
@@ -600,6 +600,14 @@
       "word": "孟佳评价金莎孙丞潇感情",
       "onboard_time": 1704179014,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 609674,
+      "num": 609674,
+      "word": "跨年晚会真假唱鉴定",
+      "onboard_time": 1704207758,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -633,6 +641,14 @@
       "onboard_time": 1704201154,
       "rank": 33,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 590793,
+      "num": 590793,
+      "word": "太超前了尔滨",
+      "onboard_time": 1704207095,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 588148,
@@ -763,14 +779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 481327,
-      "num": 481327,
-      "word": "跨年晚会真假唱鉴定",
-      "onboard_time": 1704207758,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 477562,
       "num": 477562,
       "word": "Jaemin和GISELLE的cha",
@@ -809,14 +817,6 @@
       "onboard_time": 1704197013,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445374,
-      "num": 445374,
-      "word": "太超前了尔滨",
-      "onboard_time": 1704207095,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 443073,
@@ -1131,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319311,
+      "num": 314936,
+      "word": "生孩子对痛经的影响",
+      "onboard_time": 1704207335,
+      "rank": 21,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 318853,
       "num": 318853,
       "word": "李在明遇袭后接受缝合手术",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1704189335,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314936,
-      "num": 314936,
-      "word": "生孩子对痛经的影响",
-      "onboard_time": 1704207335,
-      "rank": 21,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 310006,
@@ -1203,20 +1203,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 301963,
+      "num": 301963,
+      "word": "今年我一定瘦",
+      "onboard_time": 1704207155,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 297573,
       "num": 297573,
       "word": "重庆婆婆卖抄手2块10个",
       "onboard_time": 1704203676,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 296931,
-      "num": 296931,
-      "word": "今年我一定瘦",
-      "onboard_time": 1704207155,
-      "rank": 22,
-      "category": "运动健身"
     },
     {
       "raw_hot": 296618,
@@ -1227,7 +1227,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294486,
+      "raw_hot": 296612,
       "num": 294486,
       "word": "59岁外卖员元旦当晚倒在送餐路上",
       "onboard_time": 1704205714,
@@ -1569,6 +1569,14 @@
       "onboard_time": 1704175531,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 235975,
+      "num": 235975,
+      "word": "王鹤棣derder进化史",
+      "onboard_time": 1704208298,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 235936,
@@ -1979,6 +1987,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 187767,
+      "num": 187767,
+      "word": "双色球",
+      "onboard_time": 1704208115,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 186784,
       "num": 186784,
       "word": "一闪一闪亮星星 时间线",
@@ -1993,14 +2009,6 @@
       "onboard_time": 1704163418,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185606,
-      "num": 185606,
-      "word": "王鹤棣derder进化史",
-      "onboard_time": 1704208298,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 185599,
@@ -2113,14 +2121,6 @@
       "onboard_time": 1704204517,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173675,
-      "num": 173675,
-      "word": "双色球",
-      "onboard_time": 1704208115,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 172879,
@@ -2395,6 +2395,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 143998,
+      "num": 143998,
+      "word": "国产镜片就比进口镜片差吗",
+      "onboard_time": 1704208298,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 143476,
       "num": 143476,
       "word": "林北星小号",
@@ -2529,14 +2537,6 @@
       "onboard_time": 1704101020,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131944,
-      "num": 131944,
-      "word": "国产镜片就比进口镜片差吗",
-      "onboard_time": 1704208298,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 131467,
@@ -2729,6 +2729,14 @@
       "onboard_time": 1704151284,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103761,
+      "num": 103761,
+      "word": "胡歌唐嫣繁花微博开分9.2",
+      "onboard_time": 1704209611,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 102407,
