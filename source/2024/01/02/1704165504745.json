@@ -1,0 +1,410 @@
+{
+  "runTime": 1704165504745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7950008,
+        "num": 7950008,
+        "word": "李在明遇袭",
+        "onboard_time": 1704160295,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1709652,
+        "num": 1709652,
+        "word": "疑似袭击李在明男子被捕",
+        "onboard_time": 1704160655,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 33247,
+        "num": 1443083,
+        "word": "高清图看中国人自己建造的大型邮轮",
+        "onboard_time": 1704165336,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1345823,
+        "num": 1345823,
+        "word": "尹锡悦回应李在明遇袭",
+        "onboard_time": 1704163717,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 985845,
+        "num": 985845,
+        "word": "罗志祥演唱会跳科目三",
+        "onboard_time": 1704163537,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 974846,
+        "num": 974846,
+        "word": "李在明暂无生命危险",
+        "onboard_time": 1704164561,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 638607,
+        "num": 638607,
+        "word": "赵露思 终于知道邓超上春晚的感觉了",
+        "onboard_time": 1704151284,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488066,
+        "num": 488066,
+        "word": "孕妇被坠窗砸伤为治疗终止妊娠",
+        "onboard_time": 1704158495,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441693,
+        "num": 441693,
+        "word": "国色芳华开拍",
+        "onboard_time": 1704163297,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438471,
+        "num": 438471,
+        "word": "iPhone为什么只有P大写",
+        "onboard_time": 1704121303,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 778239,
+        "num": 437749,
+        "word": "日本地震已致至少20人死亡",
+        "onboard_time": 1704164496,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649482,
+        "num": 437534,
+        "word": "床癌",
+        "onboard_time": 1704155016,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 434264,
+        "num": 434264,
+        "word": "王家卫拍出了辛芷蕾的人生镜头",
+        "onboard_time": 1704155318,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471021,
+        "num": 430330,
+        "word": "日本多个核电站燃料池水溢出",
+        "onboard_time": 1704154296,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406986,
+        "num": 406986,
+        "word": "在美疑似遭绑架中国留学生已找到",
+        "onboard_time": 1704162519,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26683,
+        "num": 370910,
+        "word": "元旦起这些新规施行",
+        "onboard_time": 1704103420,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364546,
+        "num": 364546,
+        "word": "张杰听到加班吓跪了",
+        "onboard_time": 1704156036,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343317,
+        "num": 343317,
+        "word": "拜登就日本强震发声明",
+        "onboard_time": 1704159996,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 326264,
+        "num": 326264,
+        "word": "李在明遇袭颈部流血紧急送医救治",
+        "onboard_time": 1704160534,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 316896,
+        "num": 316896,
+        "word": "田曦薇许凯出妆路透",
+        "onboard_time": 1704163717,
+        "rank": 19,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 379370,
+        "num": 316604,
+        "word": "服用紧急避孕药后身体会有何变化",
+        "onboard_time": 1704151707,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 313062,
+        "num": 313062,
+        "word": "从此排骨是排骨 年糕是年糕",
+        "onboard_time": 1704121419,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296618,
+        "num": 296618,
+        "word": "日本15小时内地震155次",
+        "onboard_time": 1704163899,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281295,
+        "num": 281295,
+        "word": "霉霉大电影中国影史音乐纪录片冠军",
+        "onboard_time": 1704165158,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277780,
+        "num": 277780,
+        "word": "李在明遇袭细节曝光",
+        "onboard_time": 1704162999,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 276560,
+        "num": 276560,
+        "word": "爷爷忘给孙女买玩具被太奶挥拐催促",
+        "onboard_time": 1704160655,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260072,
+        "num": 260072,
+        "word": "黄晓明小海绵亲子装",
+        "onboard_time": 1704152730,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239040,
+        "num": 239040,
+        "word": "男子冒充特种兵混进前线跟总理合影",
+        "onboard_time": 1704164980,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236372,
+        "num": 236372,
+        "word": "iOS17.2.1被曝无法接打电话",
+        "onboard_time": 1704160960,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 232713,
+        "num": 232713,
+        "word": "男子送女友9.9元鲜花被强拒",
+        "onboard_time": 1704156638,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194559,
+        "num": 232649,
+        "word": "开工第一天海阔天空为啥火了",
+        "onboard_time": 1704161256,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251723,
+        "num": 232637,
+        "word": "赵露思后悔拒绝王安宇拍照",
+        "onboard_time": 1704164918,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232621,
+        "num": 232621,
+        "word": "李在明被30厘米长刀刺中颈部",
+        "onboard_time": 1704165336,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 229871,
+        "num": 229871,
+        "word": "霉霉 我的嗓子",
+        "onboard_time": 1704162039,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224283,
+        "num": 224283,
+        "word": "日本气象厅修正地震震度",
+        "onboard_time": 1704119801,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222136,
+        "num": 222136,
+        "word": "微博之夜首波阵容",
+        "onboard_time": 1704162820,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214873,
+        "num": 214873,
+        "word": "永夜星河",
+        "onboard_time": 1704165215,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214114,
+        "num": 214114,
+        "word": "王彦霖认证王鹤棣是单身",
+        "onboard_time": 1704151647,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200509,
+        "num": 200509,
+        "word": "2024最期待的事情",
+        "onboard_time": 1704165158,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191856,
+        "num": 191856,
+        "word": "杨迪檀健次 P图",
+        "onboard_time": 1704151404,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190917,
+        "num": 190917,
+        "word": "陈楚生清唱直到世界尽头",
+        "onboard_time": 1704162339,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186178,
+        "num": 186178,
+        "word": "子夜归开机",
+        "onboard_time": 1704163418,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185599,
+        "num": 185599,
+        "word": "永夜星河官宣杀青",
+        "onboard_time": 1704164018,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183357,
+        "num": 183357,
+        "word": "今天凌晨太阳爆发一个强耀斑",
+        "onboard_time": 1704136395,
+        "rank": 43,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 181101,
+        "num": 181101,
+        "word": "陈妍希兑现瘦十斤flag",
+        "onboard_time": 1704152006,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175396,
+        "num": 175396,
+        "word": "男子患胃癌一查一家5口全感染幽门螺杆菌",
+        "onboard_time": 1704165158,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160185,
+        "num": 160185,
+        "word": "为什么睡觉时人会翻身",
+        "onboard_time": 1704152488,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 155804,
+        "num": 155804,
+        "word": "迪士尼这只米老鼠终于自由了",
+        "onboard_time": 1704161741,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146955,
+        "num": 146955,
+        "word": "日本石川县能登地区发生5.6级地震",
+        "onboard_time": 1704161978,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144961,
+        "num": 144961,
+        "word": "陶喆 难道失败就永远翻不了身",
+        "onboard_time": 1704159274,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹2023#"
+    }
+  }
+}

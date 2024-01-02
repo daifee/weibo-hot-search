@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704163249353,
+  "endTime": 1704165504745,
   "band_list": [
     {
       "raw_hot": 9066763,
@@ -35,6 +35,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1345823,
+      "num": 1345823,
+      "word": "尹锡悦回应李在明遇袭",
+      "onboard_time": 1704163717,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1324062,
       "num": 495963,
       "word": "日本地震已致8人死亡",
@@ -57,6 +65,22 @@
       "onboard_time": 1704100598,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 985845,
+      "num": 985845,
+      "word": "罗志祥演唱会跳科目三",
+      "onboard_time": 1704163537,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 974846,
+      "num": 974846,
+      "word": "李在明暂无生命危险",
+      "onboard_time": 1704164561,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 973921,
@@ -97,6 +121,14 @@
       "onboard_time": 1704155318,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 778239,
+      "num": 437749,
+      "word": "日本地震已致至少20人死亡",
+      "onboard_time": 1704164496,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733327,
@@ -219,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441693,
+      "num": 441693,
+      "word": "国色芳华开拍",
+      "onboard_time": 1704163297,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426580,
       "num": 222218,
       "word": "日本两小时内发生了40多次地震",
@@ -251,6 +291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 406986,
+      "num": 406986,
+      "word": "在美疑似遭绑架中国留学生已找到",
+      "onboard_time": 1704162519,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365528,
       "num": 365528,
       "word": "iOS17.2.1被曝无法接打电话",
@@ -259,8 +307,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 352307,
-      "num": 352307,
+      "raw_hot": 364546,
+      "num": 364546,
       "word": "张杰听到加班吓跪了",
       "onboard_time": 1704156036,
       "rank": 18,
@@ -315,12 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 319953,
-      "num": 319953,
-      "word": "在美疑似遭绑架中国留学生已找到",
-      "onboard_time": 1704162519,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 316896,
+      "num": 316896,
+      "word": "田曦薇许凯出妆路透",
+      "onboard_time": 1704163717,
+      "rank": 19,
+      "category": "剧集,美妆"
     },
     {
       "raw_hot": 308767,
@@ -340,11 +388,19 @@
     },
     {
       "raw_hot": 304979,
-      "num": 226673,
+      "num": 277780,
       "word": "李在明遇袭细节曝光",
       "onboard_time": 1704162999,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 296618,
+      "num": 296618,
+      "word": "日本15小时内地震155次",
+      "onboard_time": 1704163899,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287619,
@@ -361,6 +417,22 @@
       "onboard_time": 1704141734,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 281295,
+      "num": 281295,
+      "word": "霉霉大电影中国影史音乐纪录片冠军",
+      "onboard_time": 1704165158,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 276560,
+      "num": 276560,
+      "word": "爷爷忘给孙女买玩具被太奶挥拐催促",
+      "onboard_time": 1704160655,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272233,
@@ -395,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256285,
-      "num": 256285,
-      "word": "爷爷忘给孙女买玩具被太奶挥拐催促",
-      "onboard_time": 1704160655,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254921,
       "num": 254921,
       "word": "张文逝世",
@@ -417,6 +481,14 @@
       "onboard_time": 1704157777,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251723,
+      "num": 232637,
+      "word": "赵露思后悔拒绝王安宇拍照",
+      "onboard_time": 1704164918,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 251489,
@@ -459,6 +531,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 239040,
+      "num": 239040,
+      "word": "男子冒充特种兵混进前线跟总理合影",
+      "onboard_time": 1704164980,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235140,
       "num": 235140,
       "word": "陈楚生清唱直到世界尽头",
@@ -481,6 +561,14 @@
       "onboard_time": 1704161678,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 232621,
+      "num": 232621,
+      "word": "李在明被30厘米长刀刺中颈部",
+      "onboard_time": 1704165336,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 226397,
@@ -507,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222136,
+      "num": 222136,
+      "word": "微博之夜首波阵容",
+      "onboard_time": 1704162820,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221658,
       "num": 221658,
       "word": "年会不能停 梗过于密集",
@@ -523,12 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212157,
-      "num": 212157,
-      "word": "微博之夜首波阵容",
-      "onboard_time": 1704162820,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 214873,
+      "num": 214873,
+      "word": "永夜星河",
+      "onboard_time": 1704165215,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 208171,
@@ -547,12 +643,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 200509,
+      "num": 200509,
+      "word": "2024最期待的事情",
+      "onboard_time": 1704165158,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194784,
       "num": 273161,
       "word": "国足1比2中国香港",
       "onboard_time": 1704150503,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194559,
+      "num": 398586,
+      "word": "开工第一天海阔天空为啥火了",
+      "onboard_time": 1704161256,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194241,
@@ -577,6 +689,22 @@
       "onboard_time": 1704158317,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186178,
+      "num": 186178,
+      "word": "子夜归开机",
+      "onboard_time": 1704163418,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185599,
+      "num": 185599,
+      "word": "永夜星河官宣杀青",
+      "onboard_time": 1704164018,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 181253,
@@ -609,6 +737,14 @@
       "onboard_time": 1704100780,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175396,
+      "num": 175396,
+      "word": "男子患胃癌一查一家5口全感染幽门螺杆菌",
+      "onboard_time": 1704165158,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172474,
@@ -657,6 +793,14 @@
       "onboard_time": 1704160054,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155804,
+      "num": 155804,
+      "word": "迪士尼这只米老鼠终于自由了",
+      "onboard_time": 1704161741,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151429,
@@ -720,14 +864,6 @@
       "word": "外卖小哥送独行小孩回家称超时也值得",
       "onboard_time": 1704162879,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137614,
-      "num": 398586,
-      "word": "开工第一天海阔天空为啥火了",
-      "onboard_time": 1704161256,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1089,6 +1225,14 @@
       "onboard_time": 1704133518,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33247,
+      "num": 1443083,
+      "word": "高清图看中国人自己建造的大型邮轮",
+      "onboard_time": 1704165336,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25338,
