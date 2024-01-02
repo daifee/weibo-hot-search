@@ -1,6 +1,6 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704213435250,
+  "endTime": 1704215774771,
   "band_list": [
     {
       "raw_hot": 1317466,
@@ -107,6 +107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 305495,
+      "num": 305495,
+      "word": "哈尔滨整不会了背后是整会了",
+      "onboard_time": 1704211709,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 282661,
       "num": 282661,
       "word": "江晴朗放弃高考",
@@ -185,14 +193,6 @@
       "onboard_time": 1704184775,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166245,
-      "num": 166245,
-      "word": "哈尔滨整不会了背后是整会了",
-      "onboard_time": 1704211709,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 161763,
@@ -395,12 +395,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 68057,
+      "num": 68057,
+      "word": "高合汽车声明",
+      "onboard_time": 1704213683,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 66583,
       "num": 66583,
       "word": "国产镜片就比进口镜片差吗",
       "onboard_time": 1704208298,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 53805,
+      "num": 53805,
+      "word": "白狐出来接客 东北虎被泼雪",
+      "onboard_time": 1704202417,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 51719,
+      "num": 51719,
+      "word": "汪小姐不会让自己不可以",
+      "onboard_time": 1704215181,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 50762,
@@ -422,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#新年新的开始新的征途#"
+    },
+    {
+      "word": "#归根到底就是让老百姓过上更好的日子#"
     }
   ]
 }
