@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704172644518,
+  "endTime": 1704173646771,
   "band_list": [
     {
       "raw_hot": 9066763,
@@ -27,6 +27,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1875715,
+      "num": 1875715,
+      "word": "中泰永久互相免签",
+      "onboard_time": 1704173134,
+      "rank": 0,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1588901,
       "num": 1588901,
       "word": "今天凌晨太阳爆发一个强耀斑",
@@ -35,8 +43,8 @@
       "category": "自然"
     },
     {
-      "raw_hot": 1523908,
-      "num": 1523908,
+      "raw_hot": 1575695,
+      "num": 1575695,
       "word": "李在明暂无生命危险",
       "onboard_time": 1704164561,
       "rank": 5,
@@ -163,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 863523,
+      "num": 555950,
+      "word": "王一博这几天别上网了",
+      "onboard_time": 1704171876,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 789511,
       "num": 499950,
       "word": "日本地震已造成至少24人死亡",
@@ -193,14 +209,6 @@
       "onboard_time": 1704158495,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 702382,
-      "num": 555950,
-      "word": "王一博这几天别上网了",
-      "onboard_time": 1704171876,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 699477,
@@ -451,8 +459,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356374,
-      "num": 318565,
+      "raw_hot": 362659,
+      "num": 362659,
       "word": "5人跨年夜捡4小时烟花筒卖了9块",
       "onboard_time": 1704171339,
       "rank": 21,
@@ -595,12 +603,28 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 291054,
+      "num": 291054,
+      "word": "日本地震已致至少30人死亡",
+      "onboard_time": 1704173313,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287619,
       "num": 287619,
       "word": "四川省考准考证",
       "onboard_time": 1704156459,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 286623,
+      "num": 286623,
+      "word": "哈尔滨旅游",
+      "onboard_time": 1704172361,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 286532,
@@ -787,6 +811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232680,
+      "num": 226158,
+      "word": "情侣必做的100件事",
+      "onboard_time": 1704172896,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226397,
       "num": 226397,
       "word": "女生不主动发消息还要联系吗",
@@ -803,20 +835,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 225172,
+      "num": 225172,
+      "word": "毕业后最可怕的事",
+      "onboard_time": 1704171818,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224584,
       "num": 224584,
       "word": "陶喆 难道失败就永远翻不了身",
       "onboard_time": 1704159274,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222736,
-      "num": 222736,
-      "word": "毕业后最可怕的事",
-      "onboard_time": 1704171818,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 222136,
@@ -867,20 +899,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204537,
+      "num": 204537,
+      "word": "子夜归全阵容官宣",
+      "onboard_time": 1704173252,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202006,
       "num": 202006,
       "word": "李在明遇袭现场",
       "onboard_time": 1704162218,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 201878,
-      "num": 201878,
-      "word": "哈尔滨旅游",
-      "onboard_time": 1704172361,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 200789,
@@ -1003,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175407,
+      "num": 411240,
+      "word": "天官赐福可爱多",
+      "onboard_time": 1704170020,
+      "rank": 47,
+      "category": "动漫,美食"
+    },
+    {
       "raw_hot": 172474,
       "num": 172474,
       "word": "洗草莓时不要摘掉草莓蒂",
@@ -1051,12 +1091,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156046,
+      "num": 156046,
+      "word": "哈尔滨已经人均夹子音",
+      "onboard_time": 1704173558,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 155804,
       "num": 155804,
       "word": "迪士尼这只米老鼠终于自由了",
       "onboard_time": 1704161741,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151784,
+      "num": 151784,
+      "word": "脖颈酸痛 肺部寒气",
+      "onboard_time": 1704173558,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 151429,
@@ -1105,14 +1161,6 @@
       "onboard_time": 1704123696,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 141461,
-      "num": 411240,
-      "word": "天官赐福可爱多",
-      "onboard_time": 1704170020,
-      "rank": 47,
-      "category": "动漫,美食"
     },
     {
       "raw_hot": 139769,
@@ -1236,7 +1284,7 @@
     },
     {
       "raw_hot": 119464,
-      "num": 1526312,
+      "num": 1601501,
       "word": "2024开年第1个工作日",
       "onboard_time": 1704166056,
       "rank": 2,
