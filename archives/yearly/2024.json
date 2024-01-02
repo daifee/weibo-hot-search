@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704190733518,
+  "endTime": 1704191745388,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1212992,
+      "num": 1212992,
+      "word": "向佐用婴儿车推郭碧婷",
+      "onboard_time": 1704190293,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1189051,
       "num": 1189051,
       "word": "曾毅老师 我都有点嗑你俩了",
@@ -451,14 +459,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1055792,
-      "num": 1055792,
-      "word": "向佐用婴儿车推郭碧婷",
-      "onboard_time": 1704190293,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1055554,
       "num": 1055554,
       "word": "虞书欣戏份 删减",
@@ -529,6 +529,14 @@
       "onboard_time": 1704063919,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 968997,
+      "num": 968997,
+      "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
+      "onboard_time": 1704188012,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 964532,
@@ -713,14 +721,6 @@
       "onboard_time": 1704086314,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 821178,
-      "num": 821178,
-      "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
-      "onboard_time": 1704188012,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 815025,
@@ -1155,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 583093,
+      "num": 583093,
+      "word": "赵丽颖辛芷蕾与素人合影",
+      "onboard_time": 1704190895,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 579458,
       "num": 579458,
       "word": "法老不是要退圈吗",
@@ -1531,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423494,
+      "num": 2115797,
+      "word": "广西小朋友来哈尔滨被送外号小砂糖橘",
+      "onboard_time": 1704186932,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423348,
       "num": 1055772,
       "word": "西安钟楼跨年夜人山人海",
@@ -1675,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391170,
+      "num": 325993,
+      "word": "点杯奶茶哄自己上班",
+      "onboard_time": 1704190234,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 389366,
       "num": 337566,
       "word": "湖南卫视 全是广告",
@@ -1707,6 +1731,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 376801,
+      "num": 376801,
+      "word": "杨紫琼当奶奶",
+      "onboard_time": 1704189756,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373085,
       "num": 373085,
       "word": "你好香啊 你也是",
@@ -1731,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364018,
+      "num": 364018,
+      "word": "次弟",
+      "onboard_time": 1704190956,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362948,
       "num": 362948,
       "word": "黄子弘凡 MAMA",
@@ -1753,14 +1793,6 @@
       "onboard_time": 1704188854,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361490,
-      "num": 361490,
-      "word": "杨紫琼当奶奶",
-      "onboard_time": 1704189756,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 360480,
@@ -1875,14 +1907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 336298,
-      "num": 1263687,
-      "word": "广西小朋友来哈尔滨被送外号小砂糖橘",
-      "onboard_time": 1704186932,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 335973,
       "num": 263532,
       "word": "繁花 排骨年糕",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1704108761,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322398,
+      "num": 978648,
+      "word": "东北司机傲娇向乘客炫耀小土豆送的娃娃",
+      "onboard_time": 1704188793,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 318853,
@@ -2251,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275206,
+      "num": 740852,
+      "word": "婚礼现场父亲两次起身为女儿披棉袄",
+      "onboard_time": 1704189876,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271499,
       "num": 247243,
       "word": "凤隐大婚休夫",
@@ -2355,52 +2395,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 258091,
-      "num": 258091,
-      "word": "点杯奶茶哄自己上班",
-      "onboard_time": 1704190234,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 253941,
       "num": 253941,
       "word": "刺伤李在明嫌疑人信息",
       "onboard_time": 1704185134,
       "rank": 21,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 252984,
-      "num": 219258,
-      "word": "日本核电站",
-      "onboard_time": 1704157777,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251515,
-      "num": 251515,
-      "word": "中国乒乓球队元旦祝福",
-      "onboard_time": 1704086192,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 250164,
-      "num": 250164,
-      "word": "顾客带猫进星巴克吐槽被赶走",
-      "onboard_time": 1704169780,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248262,
-      "num": 248262,
-      "word": "LNG 新年的折磨",
-      "onboard_time": 1704089852,
-      "rank": 27,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [
