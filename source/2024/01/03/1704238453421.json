@@ -1,0 +1,410 @@
+{
+  "runTime": 1704238453421,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 745276,
+        "num": 745276,
+        "word": "主播声称几万元貂皮卖399大妈狂下单",
+        "onboard_time": 1704224235,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573295,
+        "num": 573295,
+        "word": "上海调整公积金个人住房贷款政策",
+        "onboard_time": 1704235637,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12799,
+        "num": 512990,
+        "word": "航天员太空开饭前互飞饺子",
+        "onboard_time": 1704181358,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 990345,
+        "num": 495559,
+        "word": "7年情侣上恋综被所有人劝分",
+        "onboard_time": 1704206677,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475620,
+        "num": 475620,
+        "word": "郭麒麟亲了郭德纲一口",
+        "onboard_time": 1704236298,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 430270,
+        "num": 430270,
+        "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
+        "onboard_time": 1704188012,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 410074,
+        "num": 410074,
+        "word": "95后班主任爆改女团舞为高三学生减压",
+        "onboard_time": 1704205058,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 386300,
+        "num": 386300,
+        "word": "日本飞机相撞事故为航空事故",
+        "onboard_time": 1704206916,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368630,
+        "num": 368630,
+        "word": "跨年晚会真假唱鉴定",
+        "onboard_time": 1704207758,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366239,
+        "num": 366239,
+        "word": "太超前了尔滨",
+        "onboard_time": 1704207095,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 308642,
+        "num": 308642,
+        "word": "董事长发的红包被我一个人领了",
+        "onboard_time": 1704199174,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308043,
+        "num": 308043,
+        "word": "日本地震死亡人数增至55人",
+        "onboard_time": 1704207035,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 275702,
+        "num": 275702,
+        "word": "59岁外卖员元旦当晚倒在送餐路上",
+        "onboard_time": 1704205714,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275565,
+        "num": 275565,
+        "word": "南方小土豆是什么梗",
+        "onboard_time": 1704207635,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 260945,
+        "num": 260945,
+        "word": "纽约发生一系列爆炸",
+        "onboard_time": 1704205298,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 190707,
+        "num": 190707,
+        "word": "日本地震死亡升至57人",
+        "onboard_time": 1704238103,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189123,
+        "num": 189123,
+        "word": "99年小伙在制造业工作两年买新房",
+        "onboard_time": 1704204816,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 179472,
+        "num": 179472,
+        "word": "被唐嫣这个镜头美到了",
+        "onboard_time": 1704203492,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174420,
+        "num": 174420,
+        "word": "哈尔滨整不会了背后是整会了",
+        "onboard_time": 1704211709,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154522,
+        "num": 154522,
+        "word": "白狐出来接客 东北虎被泼雪",
+        "onboard_time": 1704202417,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 270046,
+        "num": 144503,
+        "word": "女子二胎分娩后肠子内脏往外凸",
+        "onboard_time": 1704200852,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128502,
+        "num": 128502,
+        "word": "雷军 50万以内有对手吗",
+        "onboard_time": 1704193294,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120717,
+        "num": 120717,
+        "word": "多家卫视晒跨年晚会战报均称获得第一",
+        "onboard_time": 1704228553,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115918,
+        "num": 115918,
+        "word": "生孩子对痛经的影响",
+        "onboard_time": 1704207335,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 114012,
+        "num": 114012,
+        "word": "王栎鑫帮王一博整理领结",
+        "onboard_time": 1704237864,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109767,
+        "num": 109767,
+        "word": "繁花胡歌马伊琍初遇镜头",
+        "onboard_time": 1704232693,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108235,
+        "num": 108235,
+        "word": "枭起青壤 迪丽热巴陈哲远",
+        "onboard_time": 1704204577,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102556,
+        "num": 102556,
+        "word": "林墨 电梯夹层",
+        "onboard_time": 1704205358,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100146,
+        "num": 100146,
+        "word": "一位澳门游客眼中的哈尔滨",
+        "onboard_time": 1704203916,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 95221,
+        "num": 95221,
+        "word": "肖程皓发不当言论暂停其主持人工作",
+        "onboard_time": 1704199231,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93134,
+        "num": 93134,
+        "word": "新娘在酒店隔窗给工人师傅发喜糖",
+        "onboard_time": 1704237205,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87069,
+        "num": 87069,
+        "word": "前世界冠军疑似被丈夫撞死",
+        "onboard_time": 1704178231,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84944,
+        "num": 84944,
+        "word": "5岁吃不到10种食物的女孩长大了",
+        "onboard_time": 1704201154,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 84689,
+        "num": 84689,
+        "word": "19岁景甜的西雅图vlog",
+        "onboard_time": 1704237741,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75687,
+        "num": 75687,
+        "word": "永远的天天兄弟",
+        "onboard_time": 1704231852,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72308,
+        "num": 72308,
+        "word": "女子蒸花卷颜色怪异神似梵高星空",
+        "onboard_time": 1704235699,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 71006,
+        "num": 71006,
+        "word": "终于明白为什么喜欢安小鸟了",
+        "onboard_time": 1704224055,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66068,
+        "num": 66068,
+        "word": "宋佳朵拉头",
+        "onboard_time": 1704234916,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 65215,
+        "num": 65215,
+        "word": "2024双子座爱情事业两全",
+        "onboard_time": 1704205358,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62684,
+        "num": 62684,
+        "word": "高合汽车声明",
+        "onboard_time": 1704213683,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 61375,
+        "num": 61375,
+        "word": "游客吐槽摩天轮跨年倒数变广告",
+        "onboard_time": 1704222915,
+        "rank": 40,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 60720,
+        "num": 60720,
+        "word": "向佐用婴儿车推郭碧婷",
+        "onboard_time": 1704190293,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56286,
+        "num": 56286,
+        "word": "外孙想吃排骨姥爷扛回半扇猪",
+        "onboard_time": 1704236239,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55889,
+        "num": 55889,
+        "word": "赵丽颖辛芷蕾与素人合影",
+        "onboard_time": 1704190895,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54325,
+        "num": 54325,
+        "word": "瞧给虞书欣都吓出烟嗓了",
+        "onboard_time": 1704204033,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53895,
+        "num": 53895,
+        "word": "哈尔滨元旦3天旅游总收入59.14亿",
+        "onboard_time": 1704197013,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 52432,
+        "num": 52432,
+        "word": "林一与刘浩存合作感受",
+        "onboard_time": 1704211888,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49869,
+        "num": 49869,
+        "word": "陈哲远 枭起青壤",
+        "onboard_time": 1704201936,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47761,
+        "num": 47761,
+        "word": "刘诗诗的晚安短信",
+        "onboard_time": 1704202833,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43627,
+        "num": 43627,
+        "word": "意大利杯",
+        "onboard_time": 1704238405,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024继续向星辰大海阔步前行#"
+    }
+  }
+}

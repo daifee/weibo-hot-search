@@ -1,6 +1,6 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704237443838,
+  "endTime": 1704238453421,
   "band_list": [
     {
       "raw_hot": 1317466,
@@ -27,10 +27,18 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 587674,
-      "num": 587674,
+      "raw_hot": 745276,
+      "num": 745276,
       "word": "主播声称几万元貂皮卖399大妈狂下单",
       "onboard_time": 1704224235,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573295,
+      "num": 573295,
+      "word": "上海调整公积金个人住房贷款政策",
+      "onboard_time": 1704235637,
       "rank": 10,
       "category": "社会新闻"
     },
@@ -83,12 +91,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475620,
+      "num": 475620,
+      "word": "郭麒麟亲了郭德纲一口",
+      "onboard_time": 1704236298,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 459512,
-      "num": 140583,
+      "num": 144503,
       "word": "女子二胎分娩后肠子内脏往外凸",
       "onboard_time": 1704200852,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410074,
+      "num": 410074,
+      "word": "95后班主任爆改女团舞为高三学生减压",
+      "onboard_time": 1704205058,
+      "rank": 32,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 391083,
@@ -99,36 +123,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 383188,
-      "num": 358492,
-      "word": "郭麒麟亲了郭德纲一口",
-      "onboard_time": 1704236298,
-      "rank": 4,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 348857,
-      "num": 348857,
-      "word": "95后班主任爆改女团舞为高三学生减压",
-      "onboard_time": 1704205058,
-      "rank": 32,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 327276,
       "num": 327276,
       "word": "枭起青壤 迪丽热巴陈哲远",
       "onboard_time": 1704204577,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 322760,
-      "num": 236243,
-      "word": "上海调整公积金个人住房贷款政策",
-      "onboard_time": 1704235637,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311987,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275702,
+      "num": 275702,
+      "word": "59岁外卖员元旦当晚倒在送餐路上",
+      "onboard_time": 1704205714,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251559,
       "num": 251559,
       "word": "繁花",
@@ -176,14 +184,6 @@
       "word": "日本羽田机场中国旅客发声",
       "onboard_time": 1704193591,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233892,
-      "num": 233892,
-      "word": "59岁外卖员元旦当晚倒在送餐路上",
-      "onboard_time": 1704205714,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -209,6 +209,22 @@
       "onboard_time": 1704211888,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190707,
+      "num": 190707,
+      "word": "日本地震死亡升至57人",
+      "onboard_time": 1704238103,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189123,
+      "num": 189123,
+      "word": "99年小伙在制造业工作两年买新房",
+      "onboard_time": 1704204816,
+      "rank": 36,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 186446,
@@ -243,6 +259,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 154522,
+      "num": 154522,
+      "word": "白狐出来接客 东北虎被泼雪",
+      "onboard_time": 1704202417,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 153432,
       "num": 140541,
       "word": "赵丽颖辛芷蕾与素人合影",
@@ -257,14 +281,6 @@
       "onboard_time": 1704210690,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 147830,
-      "num": 147830,
-      "word": "99年小伙在制造业工作两年买新房",
-      "onboard_time": 1704204816,
-      "rank": 36,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 143994,
@@ -307,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120717,
+      "num": 120717,
+      "word": "多家卫视晒跨年晚会战报均称获得第一",
+      "onboard_time": 1704228553,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120633,
       "num": 120633,
       "word": "2024双子座爱情事业两全",
@@ -321,14 +345,6 @@
       "onboard_time": 1704201154,
       "rank": 34,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 116217,
-      "num": 116217,
-      "word": "白狐出来接客 东北虎被泼雪",
-      "onboard_time": 1704202417,
-      "rank": 41,
-      "category": "旅游"
     },
     {
       "raw_hot": 115829,
@@ -347,6 +363,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 114012,
+      "num": 114012,
+      "word": "王栎鑫帮王一博整理领结",
+      "onboard_time": 1704237864,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109767,
+      "num": 109767,
+      "word": "繁花胡歌马伊琍初遇镜头",
+      "onboard_time": 1704232693,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103894,
       "num": 103894,
       "word": "单身即地狱3",
@@ -355,19 +387,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97083,
-      "num": 97083,
-      "word": "多家卫视晒跨年晚会战报均称获得第一",
-      "onboard_time": 1704228553,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 95066,
-      "num": 95066,
+      "raw_hot": 95221,
+      "num": 95221,
       "word": "肖程皓发不当言论暂停其主持人工作",
       "onboard_time": 1704199231,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93134,
+      "num": 93134,
+      "word": "新娘在酒店隔窗给工人师傅发喜糖",
+      "onboard_time": 1704237205,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -395,12 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84904,
-      "num": 84904,
+      "raw_hot": 87069,
+      "num": 87069,
       "word": "前世界冠军疑似被丈夫撞死",
       "onboard_time": 1704178231,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84689,
+      "num": 84689,
+      "word": "19岁景甜的西雅图vlog",
+      "onboard_time": 1704237741,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 79540,
@@ -427,12 +467,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 73144,
-      "num": 73144,
-      "word": "繁花胡歌马伊琍初遇镜头",
-      "onboard_time": 1704232693,
+      "raw_hot": 72308,
+      "num": 72308,
+      "word": "女子蒸花卷颜色怪异神似梵高星空",
+      "onboard_time": 1704235699,
       "rank": 33,
-      "category": "剧集"
+      "category": "美食"
     },
     {
       "raw_hot": 72128,
@@ -441,6 +481,14 @@
       "onboard_time": 1704182977,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71006,
+      "num": 71006,
+      "word": "终于明白为什么喜欢安小鸟了",
+      "onboard_time": 1704224055,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 68514,
@@ -467,20 +515,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 61141,
-      "num": 61141,
+      "raw_hot": 66068,
+      "num": 66068,
       "word": "宋佳朵拉头",
       "onboard_time": 1704234916,
       "rank": 31,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 57569,
-      "num": 57569,
-      "word": "女子蒸花卷颜色怪异神似梵高星空",
-      "onboard_time": 1704235699,
-      "rank": 33,
-      "category": "美食"
+      "raw_hot": 61375,
+      "num": 61375,
+      "word": "游客吐槽摩天轮跨年倒数变广告",
+      "onboard_time": 1704222915,
+      "rank": 41,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 56286,
+      "num": 56286,
+      "word": "外孙想吃排骨姥爷扛回半扇猪",
+      "onboard_time": 1704236239,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51719,
@@ -491,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51236,
-      "num": 51236,
-      "word": "游客吐槽摩天轮跨年倒数变广告",
-      "onboard_time": 1704222915,
-      "rank": 41,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 50762,
       "num": 50762,
       "word": "童漠男人设崩了",
@@ -507,28 +555,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 49037,
-      "num": 49037,
-      "word": "终于明白为什么喜欢安小鸟了",
-      "onboard_time": 1704224055,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 48882,
-      "num": 48882,
-      "word": "外孙想吃排骨姥爷扛回半扇猪",
-      "onboard_time": 1704236239,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40766,
-      "num": 40766,
-      "word": "新娘在酒店隔窗给工人师傅发喜糖",
-      "onboard_time": 1704237205,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 43627,
+      "num": 43627,
+      "word": "意大利杯",
+      "onboard_time": 1704238405,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 27826,
