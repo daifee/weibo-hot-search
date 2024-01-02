@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704158028089,
+  "endTime": 1704159425260,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1496042,
+      "num": 1496042,
+      "word": "床癌",
+      "onboard_time": 1704155016,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1427162,
       "num": 1427162,
       "word": "iPhone为什么只有P大写",
@@ -224,6 +232,14 @@
       "word": "日本本州西岸近海7.8级左右地震",
       "onboard_time": 1704094296,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1324062,
+      "num": 495963,
+      "word": "日本地震已致8人死亡",
+      "onboard_time": 1704157717,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -313,14 +329,6 @@
       "onboard_time": 1704038932,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1134253,
-      "num": 1134253,
-      "word": "床癌",
-      "onboard_time": 1704155016,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 1127116,
@@ -883,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551094,
+      "num": 420484,
+      "word": "日本导演竹内亮地震后发声",
+      "onboard_time": 1704154415,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539405,
       "num": 476047,
       "word": "韩国东海岸发生地震海啸",
@@ -897,14 +913,6 @@
       "onboard_time": 1704064339,
       "rank": 36,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 534626,
-      "num": 420484,
-      "word": "日本导演竹内亮地震后发声",
-      "onboard_time": 1704154415,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 533640,
@@ -1147,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415507,
+      "num": 341132,
+      "word": "男子送女友9.9元鲜花被强拒",
+      "onboard_time": 1704156638,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414946,
       "num": 414946,
       "word": "血型瘦身法",
@@ -1216,6 +1232,14 @@
       "word": "丈夫喝酒电话不通孕妻腹痛求助110",
       "onboard_time": 1704059234,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374944,
+      "num": 374944,
+      "word": "孕妇被坠窗砸伤为治疗终止妊娠",
+      "onboard_time": 1704158495,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1329,14 +1353,6 @@
       "onboard_time": 1704092312,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 324729,
-      "num": 324729,
-      "word": "男子送女友9.9元鲜花被强拒",
-      "onboard_time": 1704156638,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324498,
@@ -1571,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263849,
-      "num": 263849,
-      "word": "日本地震已致8人死亡",
-      "onboard_time": 1704157717,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262068,
       "num": 262068,
       "word": "国足3人染红",
@@ -1600,6 +1608,14 @@
       "word": "武汉汉口江滩雕塑一孩变三孩",
       "onboard_time": 1704153993,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252984,
+      "num": 219258,
+      "word": "日本核电站",
+      "onboard_time": 1704157777,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1795,6 +1811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217514,
+      "num": 217514,
+      "word": "1992年的李李",
+      "onboard_time": 1704157834,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216456,
       "num": 216456,
       "word": "日本能登地区大海啸预警",
@@ -1833,14 +1857,6 @@
       "onboard_time": 1704078876,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 209302,
-      "num": 198015,
-      "word": "日本核电站",
-      "onboard_time": 1704157777,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208501,
@@ -1963,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194241,
+      "num": 194241,
+      "word": "不想上班",
+      "onboard_time": 1704158737,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193390,
       "num": 193390,
       "word": "狼队第五人格",
@@ -2025,6 +2049,14 @@
       "onboard_time": 1704080134,
       "rank": 24,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 186784,
+      "num": 186784,
+      "word": "一闪一闪亮星星 时间线",
+      "onboard_time": 1704158317,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 184069,
@@ -2169,14 +2201,6 @@
       "onboard_time": 1704103903,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 167115,
-      "num": 167115,
-      "word": "1992年的李李",
-      "onboard_time": 1704157834,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 166696,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1704092791,
       "rank": 43,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 146088,
-      "num": 146088,
-      "word": "虞书欣祝绪丹捧花杀青照",
-      "onboard_time": 1704104199,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 145331,
-      "num": 145331,
-      "word": "国足38年首负中国香港",
-      "onboard_time": 1704150923,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 145160,
-      "num": 764023,
-      "word": "一个人跨年 仪式感",
-      "onboard_time": 1704028141,
-      "rank": 43,
-      "category": "情感"
     }
   ],
   "hotgov_list": [

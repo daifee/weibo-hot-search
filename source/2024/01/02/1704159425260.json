@@ -1,0 +1,410 @@
+{
+  "runTime": 1704159425260,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1496042,
+        "num": 1496042,
+        "word": "床癌",
+        "onboard_time": 1704155016,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1055933,
+        "num": 1055933,
+        "word": "今天凌晨太阳爆发一个强耀斑",
+        "onboard_time": 1704136395,
+        "rank": 1,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 55521,
+        "num": 1003566,
+        "word": "元旦起这些新规施行",
+        "onboard_time": 1704103420,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977660,
+        "num": 977660,
+        "word": "赵露思 终于知道邓超上春晚的感觉了",
+        "onboard_time": 1704151284,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729870,
+        "num": 729870,
+        "word": "百度宣布终止收购YY直播",
+        "onboard_time": 1704153813,
+        "rank": 4,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 722824,
+        "num": 722824,
+        "word": "王家卫拍出了辛芷蕾的人生镜头",
+        "onboard_time": 1704155318,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554659,
+        "num": 554659,
+        "word": "iPhone为什么只有P大写",
+        "onboard_time": 1704121303,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 505260,
+        "num": 505260,
+        "word": "陈妍希兑现瘦十斤flag",
+        "onboard_time": 1704152006,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456220,
+        "num": 498253,
+        "word": "广东一地公示8名躺平休闲人员",
+        "onboard_time": 1704152730,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358661,
+        "num": 495974,
+        "word": "成都雾霾",
+        "onboard_time": 1704154777,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1324062,
+        "num": 495963,
+        "word": "日本地震已致8人死亡",
+        "onboard_time": 1704157717,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495885,
+        "num": 495885,
+        "word": "黄晓明小海绵亲子装",
+        "onboard_time": 1704152730,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469011,
+        "num": 469011,
+        "word": "从此排骨是排骨 年糕是年糕",
+        "onboard_time": 1704121419,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 882065,
+        "num": 449060,
+        "word": "日本多个核电站燃料池水溢出",
+        "onboard_time": 1704154296,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424900,
+        "num": 424900,
+        "word": "王彦霖认证王鹤棣是单身",
+        "onboard_time": 1704151647,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374944,
+        "num": 374944,
+        "word": "孕妇被坠窗砸伤为治疗终止妊娠",
+        "onboard_time": 1704158495,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558298,
+        "num": 374817,
+        "word": "日本地震震区中国游客夫妇发声",
+        "onboard_time": 1704153572,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374145,
+        "num": 374145,
+        "word": "杨迪檀健次 P图",
+        "onboard_time": 1704151404,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347375,
+        "num": 347375,
+        "word": "张杰听到加班吓跪了",
+        "onboard_time": 1704156036,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551094,
+        "num": 343929,
+        "word": "日本导演竹内亮地震后发声",
+        "onboard_time": 1704154415,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492016,
+        "num": 341684,
+        "word": "服用紧急避孕药后身体会有何变化",
+        "onboard_time": 1704151707,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 415507,
+        "num": 341132,
+        "word": "男子送女友9.9元鲜花被强拒",
+        "onboard_time": 1704156638,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338873,
+        "num": 338873,
+        "word": "一个月不换的床单有多脏",
+        "onboard_time": 1704100598,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301423,
+        "num": 301423,
+        "word": "日本气象厅修正地震震度",
+        "onboard_time": 1704119801,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254495,
+        "num": 254495,
+        "word": "为什么睡觉时人会翻身",
+        "onboard_time": 1704152488,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 220972,
+        "num": 220972,
+        "word": "苹果2023年首度停更iPad",
+        "onboard_time": 1704154114,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 252984,
+        "num": 219258,
+        "word": "日本核电站",
+        "onboard_time": 1704157777,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217514,
+        "num": 217514,
+        "word": "1992年的李李",
+        "onboard_time": 1704157834,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212244,
+        "num": 212244,
+        "word": "男子2000买金包银首饰典当5.3万",
+        "onboard_time": 1704121602,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214372,
+        "num": 211263,
+        "word": "日本网民吐槽新年第一天灾害",
+        "onboard_time": 1704157177,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202273,
+        "num": 202273,
+        "word": "2024跨年最佳舞台",
+        "onboard_time": 1704157598,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200314,
+        "num": 200314,
+        "word": "武汉汉口江滩雕塑一孩变三孩",
+        "onboard_time": 1704153993,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194241,
+        "num": 194241,
+        "word": "不想上班",
+        "onboard_time": 1704158737,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187165,
+        "num": 187165,
+        "word": "四川省考准考证",
+        "onboard_time": 1704156459,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186784,
+        "num": 186784,
+        "word": "一闪一闪亮星星 时间线",
+        "onboard_time": 1704158317,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173224,
+        "num": 173224,
+        "word": "女生不主动发消息还要联系吗",
+        "onboard_time": 1704151947,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164561,
+        "num": 164561,
+        "word": "日本两小时内发生了40多次地震",
+        "onboard_time": 1704118902,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158249,
+        "num": 158249,
+        "word": "自贬是种极为严重的破窗效应",
+        "onboard_time": 1704155016,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152264,
+        "num": 152264,
+        "word": "国足3人染红",
+        "onboard_time": 1704150743,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161514,
+        "num": 150849,
+        "word": "日本地震",
+        "onboard_time": 1704093755,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149365,
+        "num": 149365,
+        "word": "世界催着我长大 只有B站把我当小孩",
+        "onboard_time": 1704155196,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147342,
+        "num": 147342,
+        "word": "宝总初恋恋情",
+        "onboard_time": 1704150141,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137147,
+        "num": 137147,
+        "word": "张靓颖唱了刘亦菲想听的歌",
+        "onboard_time": 1704153632,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136140,
+        "num": 136140,
+        "word": "鼻子不通的时候按压此处",
+        "onboard_time": 1704156278,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128287,
+        "num": 128287,
+        "word": "为什么有的香蕉是直的",
+        "onboard_time": 1704150985,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 126698,
+        "num": 126698,
+        "word": "2024狮子座好运苏醒",
+        "onboard_time": 1704155919,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123411,
+        "num": 123411,
+        "word": "箱根驿传",
+        "onboard_time": 1704158974,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 123195,
+        "num": 123195,
+        "word": "网红欧可爱因车祸溺水离世",
+        "onboard_time": 1704109476,
+        "rank": 47,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 119833,
+        "num": 119833,
+        "word": "陶喆 难道失败就永远翻不了身",
+        "onboard_time": 1704159274,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106704,
+        "num": 106704,
+        "word": "民间救援队8年救回80多条生命",
+        "onboard_time": 1704158737,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年贺词这些话暖人心#"
+    }
+  }
+}

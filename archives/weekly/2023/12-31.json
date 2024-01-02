@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704158028089,
+  "endTime": 1704159425260,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1496042,
+      "num": 1496042,
+      "word": "床癌",
+      "onboard_time": 1704155016,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1435282,
       "num": 1435282,
       "word": "姐弟坠亡案母亲希望死刑尽快执行",
@@ -568,6 +576,14 @@
       "word": "女子1张彩票中奖571次总计860万",
       "onboard_time": 1704020796,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1324062,
+      "num": 495963,
+      "word": "日本地震已致8人死亡",
+      "onboard_time": 1704157717,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -681,14 +697,6 @@
       "onboard_time": 1704038932,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1134253,
-      "num": 1134253,
-      "word": "床癌",
-      "onboard_time": 1704155016,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 1130576,
@@ -1611,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551094,
+      "num": 420484,
+      "word": "日本导演竹内亮地震后发声",
+      "onboard_time": 1704154415,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545443,
       "num": 545443,
       "word": "B站跨年晚会节目单",
@@ -1641,14 +1657,6 @@
       "onboard_time": 1704064339,
       "rank": 36,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 534626,
-      "num": 420484,
-      "word": "日本导演竹内亮地震后发声",
-      "onboard_time": 1704154415,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 533640,
@@ -2083,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415507,
+      "num": 341132,
+      "word": "男子送女友9.9元鲜花被强拒",
+      "onboard_time": 1704156638,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414946,
       "num": 414946,
       "word": "血型瘦身法",
@@ -2184,6 +2200,14 @@
       "word": "祖国统一是历史必然",
       "onboard_time": 1704021699,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374944,
+      "num": 374944,
+      "word": "孕妇被坠窗砸伤为治疗终止妊娠",
+      "onboard_time": 1704158495,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2425,14 +2449,6 @@
       "onboard_time": 1704092312,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 324729,
-      "num": 324729,
-      "word": "男子送女友9.9元鲜花被强拒",
-      "onboard_time": 1704156638,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324644,
@@ -2859,14 +2875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 263849,
-      "num": 263849,
-      "word": "日本地震已致8人死亡",
-      "onboard_time": 1704157717,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262068,
       "num": 262068,
       "word": "国足3人染红",
@@ -2937,6 +2945,14 @@
       "onboard_time": 1703996249,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252984,
+      "num": 219258,
+      "word": "日本核电站",
+      "onboard_time": 1704157777,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251749,
@@ -3283,6 +3299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217514,
+      "num": 217514,
+      "word": "1992年的李李",
+      "onboard_time": 1704157834,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217329,
       "num": 217329,
       "word": "繁花汪小姐被举报调查",
@@ -3377,14 +3401,6 @@
       "onboard_time": 1704078876,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 209302,
-      "num": 198015,
-      "word": "日本核电站",
-      "onboard_time": 1704157777,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208501,
@@ -3643,6 +3659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194241,
+      "num": 194241,
+      "word": "不想上班",
+      "onboard_time": 1704158737,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194035,
       "num": 204939,
       "word": "2024年1月新规来了",
@@ -3761,6 +3785,14 @@
       "onboard_time": 1704001710,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186784,
+      "num": 186784,
+      "word": "一闪一闪亮星星 时间线",
+      "onboard_time": 1704158317,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 185874,
@@ -4065,14 +4097,6 @@
       "onboard_time": 1704009632,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 167115,
-      "num": 167115,
-      "word": "1992年的李李",
-      "onboard_time": 1704157834,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 166997,
@@ -4771,6 +4795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137147,
+      "num": 137147,
+      "word": "张靓颖唱了刘亦菲想听的歌",
+      "onboard_time": 1704153632,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137043,
       "num": 137043,
       "word": "RA战胜LNG",
@@ -4880,14 +4912,6 @@
       "word": "张钧甯 新年第一天就要跟爱的人在一起",
       "onboard_time": 1704151585,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 131249,
-      "num": 131249,
-      "word": "张靓颖唱了刘亦菲想听的歌",
-      "onboard_time": 1704153632,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -5083,6 +5107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123411,
+      "num": 123411,
+      "word": "箱根驿传",
+      "onboard_time": 1704158974,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 123197,
       "num": 123197,
       "word": "贝克曼 ban不完",
@@ -5201,6 +5233,14 @@
       "onboard_time": 1704021756,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119833,
+      "num": 119833,
+      "word": "陶喆 难道失败就永远翻不了身",
+      "onboard_time": 1704159274,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 119582,
@@ -5425,6 +5465,14 @@
       "onboard_time": 1704088472,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106704,
+      "num": 106704,
+      "word": "民间救援队8年救回80多条生命",
+      "onboard_time": 1704158737,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106543,
