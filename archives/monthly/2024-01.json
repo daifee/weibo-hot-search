@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704191745388,
+  "endTime": 1704194098647,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1207231,
+      "num": 1207231,
+      "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
+      "onboard_time": 1704188012,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1189051,
       "num": 1189051,
       "word": "曾毅老师 我都有点嗑你俩了",
@@ -531,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 968997,
-      "num": 968997,
-      "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
-      "onboard_time": 1704188012,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 964532,
       "num": 964532,
       "word": "新马泰免签了也变贵了",
@@ -641,6 +641,14 @@
       "onboard_time": 1704155318,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 887551,
+      "num": 887551,
+      "word": "赵丽颖辛芷蕾与素人合影",
+      "onboard_time": 1704190895,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 879245,
@@ -779,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780131,
+      "num": 780131,
+      "word": "次弟",
+      "onboard_time": 1704190956,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778239,
       "num": 437749,
       "word": "日本地震已致至少20人死亡",
@@ -793,6 +809,14 @@
       "onboard_time": 1704040489,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 769095,
+      "num": 769095,
+      "word": "童漠男人设崩了",
+      "onboard_time": 1704191616,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 766854,
@@ -1123,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 604213,
+      "num": 1285667,
+      "word": "婚礼现场父亲两次起身为女儿披棉袄",
+      "onboard_time": 1704189876,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603697,
       "num": 603697,
       "word": "广东一地公示8名躺平休闲人员",
@@ -1153,14 +1185,6 @@
       "onboard_time": 1704152730,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 583093,
-      "num": 583093,
-      "word": "赵丽颖辛芷蕾与素人合影",
-      "onboard_time": 1704190895,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 579458,
@@ -1443,6 +1467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 468596,
+      "num": 468596,
+      "word": "雷军 50万以内有对手吗",
+      "onboard_time": 1704193294,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 467310,
       "num": 270301,
       "word": "为什么小诊所啥病都能治",
@@ -1715,12 +1747,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383344,
+      "num": 383344,
+      "word": "杨紫许龄月二搭",
+      "onboard_time": 1704192815,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 381523,
       "num": 381523,
       "word": "金智秀与哥哥成立新公司",
       "onboard_time": 1704174033,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379319,
+      "num": 204153,
+      "word": "日本羽田机场中国旅客发声",
+      "onboard_time": 1704193591,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377691,
+      "num": 1037338,
+      "word": "东北司机傲娇向乘客炫耀小土豆送的娃娃",
+      "onboard_time": 1704188793,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 377551,
@@ -1761,14 +1817,6 @@
       "onboard_time": 1704156036,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364018,
-      "num": 364018,
-      "word": "次弟",
-      "onboard_time": 1704190956,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 362948,
@@ -1961,14 +2009,6 @@
       "onboard_time": 1704108761,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322398,
-      "num": 978648,
-      "word": "东北司机傲娇向乘客炫耀小土豆送的娃娃",
-      "onboard_time": 1704188793,
-      "rank": 4,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 318853,
@@ -2283,12 +2323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275206,
-      "num": 740852,
-      "word": "婚礼现场父亲两次起身为女儿披棉袄",
-      "onboard_time": 1704189876,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 272566,
+      "num": 272566,
+      "word": "吴千语很爱听施伯雄讲前任",
+      "onboard_time": 1704191136,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 271499,
@@ -2297,6 +2337,14 @@
       "onboard_time": 1704120339,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269508,
+      "num": 269508,
+      "word": "日媒称爆炸起火飞机载367人",
+      "onboard_time": 1704191672,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269015,
@@ -2483,20 +2531,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 241001,
-      "num": 241001,
-      "word": "吴千语很爱听施伯雄讲前任",
-      "onboard_time": 1704191136,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238660,
       "num": 238660,
       "word": "袭击李在明嫌疑人照片曝光",
       "onboard_time": 1704165817,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 237829,
+      "num": 237829,
+      "word": "日本海岸警卫队飞机5人下落不明",
+      "onboard_time": 1704192334,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237009,
@@ -3187,6 +3235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180618,
+      "num": 180618,
+      "word": "王家卫 凤梨罐头排骨年糕",
+      "onboard_time": 1704191857,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180067,
       "num": 180067,
       "word": "王一博汪涵大张伟零点拥抱",
@@ -3219,6 +3275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177930,
+      "num": 490077,
+      "word": "罗云熙空降浮生忆玲珑",
+      "onboard_time": 1704190052,
+      "rank": 25,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 177819,
       "num": 177819,
       "word": "微博开新年",
@@ -3249,6 +3313,14 @@
       "onboard_time": 1704156819,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176508,
+      "num": 176508,
+      "word": "别拿孩子出气有本事找家长",
+      "onboard_time": 1704193473,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 175407,
@@ -3305,6 +3377,14 @@
       "onboard_time": 1704107558,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169781,
+      "num": 169781,
+      "word": "猫掌倒过来看是一个泰迪熊",
+      "onboard_time": 1704192154,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 169772,
@@ -3379,20 +3459,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163319,
+      "num": 163319,
+      "word": "郭晓婷草莓妆",
+      "onboard_time": 1704193832,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162723,
       "num": 217514,
       "word": "西双版纳的化妆师都会魔法吧",
       "onboard_time": 1704081157,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 162387,
-      "num": 162387,
-      "word": "童漠男人设崩了",
-      "onboard_time": 1704191616,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 162068,
@@ -3851,14 +3931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134091,
-      "num": 134091,
-      "word": "日媒称爆炸起火飞机载367人",
-      "onboard_time": 1704191672,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132978,
       "num": 132978,
       "word": "小象无聊的时候会玩自己的鼻子",
@@ -3913,6 +3985,14 @@
       "onboard_time": 1704125373,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129234,
+      "num": 129234,
+      "word": "四川男篮MC宣布离职",
+      "onboard_time": 1704193953,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 129126,
@@ -4001,14 +4081,6 @@
       "onboard_time": 1704066384,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124318,
-      "num": 490077,
-      "word": "罗云熙空降浮生忆玲珑",
-      "onboard_time": 1704190052,
-      "rank": 25,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 123868,

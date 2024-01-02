@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704191745388,
+  "endTime": 1704194098647,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1207231,
+      "num": 1207231,
+      "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
+      "onboard_time": 1704188012,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1189051,
       "num": 1189051,
       "word": "曾毅老师 我都有点嗑你俩了",
@@ -531,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 968997,
-      "num": 968997,
-      "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
-      "onboard_time": 1704188012,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 964532,
       "num": 964532,
       "word": "新马泰免签了也变贵了",
@@ -641,6 +641,14 @@
       "onboard_time": 1704155318,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 887551,
+      "num": 887551,
+      "word": "赵丽颖辛芷蕾与素人合影",
+      "onboard_time": 1704190895,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 879245,
@@ -779,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780131,
+      "num": 780131,
+      "word": "次弟",
+      "onboard_time": 1704190956,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778239,
       "num": 437749,
       "word": "日本地震已致至少20人死亡",
@@ -793,6 +809,14 @@
       "onboard_time": 1704040489,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 769095,
+      "num": 769095,
+      "word": "童漠男人设崩了",
+      "onboard_time": 1704191616,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 766854,
@@ -1123,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 604213,
+      "num": 1285667,
+      "word": "婚礼现场父亲两次起身为女儿披棉袄",
+      "onboard_time": 1704189876,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603697,
       "num": 603697,
       "word": "广东一地公示8名躺平休闲人员",
@@ -1153,14 +1185,6 @@
       "onboard_time": 1704152730,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 583093,
-      "num": 583093,
-      "word": "赵丽颖辛芷蕾与素人合影",
-      "onboard_time": 1704190895,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 579458,
@@ -1443,6 +1467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 468596,
+      "num": 468596,
+      "word": "雷军 50万以内有对手吗",
+      "onboard_time": 1704193294,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 467310,
       "num": 270301,
       "word": "为什么小诊所啥病都能治",
@@ -1715,12 +1747,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383344,
+      "num": 383344,
+      "word": "杨紫许龄月二搭",
+      "onboard_time": 1704192815,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 381523,
       "num": 381523,
       "word": "金智秀与哥哥成立新公司",
       "onboard_time": 1704174033,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379319,
+      "num": 204153,
+      "word": "日本羽田机场中国旅客发声",
+      "onboard_time": 1704193591,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377691,
+      "num": 1037338,
+      "word": "东北司机傲娇向乘客炫耀小土豆送的娃娃",
+      "onboard_time": 1704188793,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 377551,
@@ -1761,14 +1817,6 @@
       "onboard_time": 1704156036,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364018,
-      "num": 364018,
-      "word": "次弟",
-      "onboard_time": 1704190956,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 362948,
@@ -1961,14 +2009,6 @@
       "onboard_time": 1704108761,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322398,
-      "num": 978648,
-      "word": "东北司机傲娇向乘客炫耀小土豆送的娃娃",
-      "onboard_time": 1704188793,
-      "rank": 4,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 318853,
@@ -2283,12 +2323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275206,
-      "num": 740852,
-      "word": "婚礼现场父亲两次起身为女儿披棉袄",
-      "onboard_time": 1704189876,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 272566,
+      "num": 272566,
+      "word": "吴千语很爱听施伯雄讲前任",
+      "onboard_time": 1704191136,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 271499,
@@ -2297,6 +2337,14 @@
       "onboard_time": 1704120339,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269508,
+      "num": 269508,
+      "word": "日媒称爆炸起火飞机载367人",
+      "onboard_time": 1704191672,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269015,
@@ -2353,54 +2401,6 @@
       "onboard_time": 1704165517,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262068,
-      "num": 262068,
-      "word": "国足3人染红",
-      "onboard_time": 1704150743,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 261792,
-      "num": 162544,
-      "word": "运镜跟不上黄明昊",
-      "onboard_time": 1704074675,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 259018,
-      "num": 259018,
-      "word": "日本地震震后破坏情况航拍",
-      "onboard_time": 1704186512,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258790,
-      "num": 258790,
-      "word": "武汉汉口江滩雕塑一孩变三孩",
-      "onboard_time": 1704153993,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258177,
-      "num": 258177,
-      "word": "男朋友珍藏十年的宝物是根棒子",
-      "onboard_time": 1704179795,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 253941,
-      "num": 253941,
-      "word": "刺伤李在明嫌疑人信息",
-      "onboard_time": 1704185134,
-      "rank": 21,
-      "category": "国外时政"
     }
   ],
   "hotgov_list": [
