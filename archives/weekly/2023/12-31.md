@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/31 00:21:53 ~ 2024/01/03 03:14:12
+本榜单时间：2023/12/31 00:21:53 ~ 2024/01/03 03:33:59
 </p>
 </blockquote>
 <p>
@@ -6465,6 +6465,12 @@ ITZY新歌MV公开（热度：20332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E6%91%A9%E5%A4%A9%E8%BD%AE%E8%B7%A8%E5%B9%B4%E5%80%92%E6%95%B0%E5%8F%98%E5%B9%BF%E5%91%8A%23" target="weibo">
+游客吐槽摩天轮跨年倒数变广告（热度：15094）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9E%E6%9C%9B2023%23" target="weibo">
 回望2023（热度：13929）
 </a>
@@ -6473,6 +6479,12 @@ ITZY新歌MV公开（热度：20332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%85%94%E5%AD%90%E7%9D%A1%E8%A7%89%E8%A7%89%E5%A5%BD%E6%83%AC%E6%84%8F%23" target="weibo">
 小兔子睡觉觉好惬意（热度：12461）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%BB%94%E8%91%9B%E4%BC%98%E7%98%AB%E5%BC%8F%E7%82%AB%E5%8D%97%E7%93%9C%23" target="weibo">
+七仔葛优瘫式炫南瓜（热度：11944）
 </a>
 </li>
 
