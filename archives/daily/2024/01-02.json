@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704199676980,
+  "endTime": 1704201615110,
   "band_list": [
     {
       "raw_hot": 9066763,
@@ -91,6 +91,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1404002,
+      "num": 1404002,
+      "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
+      "onboard_time": 1704188012,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1390833,
+      "num": 1390833,
+      "word": "董事长发的红包被我一个人领了",
+      "onboard_time": 1704199174,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1360274,
       "num": 1360274,
       "word": "尹锡悦回应李在明遇袭",
@@ -137,14 +153,6 @@
       "onboard_time": 1704190293,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1207231,
-      "num": 1207231,
-      "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
-      "onboard_time": 1704188012,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1169423,
@@ -267,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 889026,
+      "num": 889026,
+      "word": "哈尔滨元旦3天旅游总收入59.14亿",
+      "onboard_time": 1704197013,
+      "rank": 8,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 887551,
       "num": 887551,
       "word": "赵丽颖辛芷蕾与素人合影",
@@ -297,14 +313,6 @@
       "onboard_time": 1704177630,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 800164,
-      "num": 800164,
-      "word": "哈尔滨元旦3天旅游总收入59.14亿",
-      "onboard_time": 1704197013,
-      "rank": 8,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 798544,
@@ -489,6 +497,14 @@
       "onboard_time": 1704179014,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 609071,
+      "num": 609071,
+      "word": "肖程皓发不当言论暂停其主持人工作",
+      "onboard_time": 1704199231,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 603697,
@@ -707,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 416148,
+      "num": 192370,
+      "word": "女子二胎分娩后肠子内脏往外凸",
+      "onboard_time": 1704200852,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415989,
       "num": 415989,
       "word": "李现国色芳华妆造",
@@ -729,14 +753,6 @@
       "onboard_time": 1704168700,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 411930,
-      "num": 179234,
-      "word": "董事长发的红包被我一个人领了",
-      "onboard_time": 1704199174,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 411540,
@@ -923,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339368,
+      "num": 339368,
+      "word": "单身即地狱3",
+      "onboard_time": 1704199713,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338183,
       "num": 124630,
       "word": "地震已导致日本石川县5人死亡",
@@ -1019,20 +1043,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307872,
+      "num": 307872,
+      "word": "Jaemin和GISELLE的cha",
+      "onboard_time": 1704201032,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 306452,
       "num": 284610,
       "word": "宝总初恋恋情",
       "onboard_time": 1704150141,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 305556,
-      "num": 305556,
-      "word": "肖程皓发不当言论暂停其主持人工作",
-      "onboard_time": 1704199231,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304979,
@@ -1475,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215496,
+      "num": 215496,
+      "word": "滑雪的尽头 骨科",
+      "onboard_time": 1704198991,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214873,
       "num": 214873,
       "word": "永夜星河",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1704181897,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209680,
+      "num": 209680,
+      "word": "戚薇狂恋舞台妆造解析",
+      "onboard_time": 1704201332,
+      "rank": 27,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 208171,
@@ -1587,12 +1627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196261,
+      "num": 196261,
+      "word": "王一博香槟色飘带上衣",
+      "onboard_time": 1704201154,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 195112,
       "num": 195112,
       "word": "韩振 河南老乡",
       "onboard_time": 1704189756,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194961,
+      "num": 194961,
+      "word": "东北大哥给台湾同胞茶倒满糖塞满",
+      "onboard_time": 1704198815,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 194784,
@@ -1763,14 +1819,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 179713,
-      "num": 179713,
-      "word": "滑雪的尽头 骨科",
-      "onboard_time": 1704198991,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 177930,
       "num": 490077,
       "word": "罗云熙空降浮生忆玲珑",
@@ -1875,20 +1923,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166118,
-      "num": 166118,
-      "word": "东北大哥给台湾同胞茶倒满糖塞满",
-      "onboard_time": 1704198815,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 165691,
       "num": 165691,
       "word": "咒术回战 五条悟宿傩对决",
       "onboard_time": 1704197431,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 165220,
+      "num": 165220,
+      "word": "5岁吃不到10种食物的女孩长大了",
+      "onboard_time": 1704201154,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 164311,
@@ -2241,6 +2289,14 @@
       "onboard_time": 1704189815,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124761,
+      "num": 124761,
+      "word": "会做饭的人都好会时间管理",
+      "onboard_time": 1704200973,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 123868,
@@ -2619,6 +2675,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38753,
+      "num": 120940,
+      "word": "开工首日第四架C919入列",
+      "onboard_time": 1704200555,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 36849,
+      "num": 1394365,
+      "word": "航天员太空开饭前互飞饺子",
+      "onboard_time": 1704181358,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36378,
       "num": 269444,
       "word": "X9重新定义大七座",
@@ -2698,6 +2770,9 @@
     },
     {
       "word": "#2024继续向星辰大海阔步前行#"
+    },
+    {
+      "word": "#归根到底就是让老百姓过上更好的日子#"
     }
   ]
 }

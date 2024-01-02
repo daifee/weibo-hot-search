@@ -1,0 +1,410 @@
+{
+  "runTime": 1704201615110,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1665441,
+        "num": 1665441,
+        "word": "日本海上保安厅飞机上已确认有5人死亡",
+        "onboard_time": 1704195332,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1404002,
+        "num": 1404002,
+        "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
+        "onboard_time": 1704188012,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 36849,
+        "num": 1394365,
+        "word": "航天员太空开饭前互飞饺子",
+        "onboard_time": 1704181358,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1390833,
+        "num": 1390833,
+        "word": "董事长发的红包被我一个人领了",
+        "onboard_time": 1704199174,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 889026,
+        "num": 889026,
+        "word": "哈尔滨元旦3天旅游总收入59.14亿",
+        "onboard_time": 1704197013,
+        "rank": 4,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 724904,
+        "num": 724904,
+        "word": "雷军 50万以内有对手吗",
+        "onboard_time": 1704193294,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 609071,
+        "num": 609071,
+        "word": "肖程皓发不当言论暂停其主持人工作",
+        "onboard_time": 1704199231,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589772,
+        "num": 589772,
+        "word": "日本羽田机场中国旅客发声",
+        "onboard_time": 1704193591,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580788,
+        "num": 580788,
+        "word": "张大大白鹿关晓彤合照",
+        "onboard_time": 1704195873,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469044,
+        "num": 469044,
+        "word": "向佐用婴儿车推郭碧婷",
+        "onboard_time": 1704190293,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461175,
+        "num": 461175,
+        "word": "日本地震已致至少48人死亡",
+        "onboard_time": 1704183034,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 404368,
+        "num": 404368,
+        "word": "林一刘浩存全剧尺度最大的吻戏",
+        "onboard_time": 1704184775,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387006,
+        "num": 387006,
+        "word": "赵丽颖辛芷蕾与素人合影",
+        "onboard_time": 1704190895,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 371307,
+        "num": 371307,
+        "word": "繁花",
+        "onboard_time": 1704197853,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339368,
+        "num": 339368,
+        "word": "单身即地狱3",
+        "onboard_time": 1704199713,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339107,
+        "num": 339107,
+        "word": "80后男子中奖以为是电诈差点弃奖",
+        "onboard_time": 1704195991,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307872,
+        "num": 307872,
+        "word": "Jaemin和GISELLE的cha",
+        "onboard_time": 1704201032,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252987,
+        "num": 252987,
+        "word": "日航起火客机上17人受伤",
+        "onboard_time": 1704197013,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243272,
+        "num": 243272,
+        "word": "婚礼现场父亲两次起身为女儿披棉袄",
+        "onboard_time": 1704189876,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243129,
+        "num": 243129,
+        "word": "前世界冠军疑似被丈夫撞死",
+        "onboard_time": 1704178231,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237294,
+        "num": 237294,
+        "word": "次弟",
+        "onboard_time": 1704190956,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231608,
+        "num": 231608,
+        "word": "爷爷治愈了我多年的焦虑",
+        "onboard_time": 1704197313,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230557,
+        "num": 230557,
+        "word": "蒋欣 华妃13年后再演反派",
+        "onboard_time": 1704182977,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230209,
+        "num": 230209,
+        "word": "杨紫许龄月二搭",
+        "onboard_time": 1704192815,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217973,
+        "num": 217973,
+        "word": "日本一飞机机场跑道起火",
+        "onboard_time": 1704188133,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215496,
+        "num": 215496,
+        "word": "滑雪的尽头 骨科",
+        "onboard_time": 1704198991,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214233,
+        "num": 214233,
+        "word": "童漠男人设崩了",
+        "onboard_time": 1704191616,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209680,
+        "num": 209680,
+        "word": "戚薇狂恋舞台妆造解析",
+        "onboard_time": 1704201332,
+        "rank": 27,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 196261,
+        "num": 196261,
+        "word": "王一博香槟色飘带上衣",
+        "onboard_time": 1704201154,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194961,
+        "num": 194961,
+        "word": "东北大哥给台湾同胞茶倒满糖塞满",
+        "onboard_time": 1704198815,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 416148,
+        "num": 192370,
+        "word": "女子二胎分娩后肠子内脏往外凸",
+        "onboard_time": 1704200852,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185512,
+        "num": 185512,
+        "word": "出现这2个字你买到的是假牛奶",
+        "onboard_time": 1704177630,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184292,
+        "num": 184292,
+        "word": "杨迪回应发未P图",
+        "onboard_time": 1704187532,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165220,
+        "num": 165220,
+        "word": "5岁吃不到10种食物的女孩长大了",
+        "onboard_time": 1704201154,
+        "rank": 33,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 156980,
+        "num": 156980,
+        "word": "李在明遇袭后文在寅发声",
+        "onboard_time": 1704183758,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 154619,
+        "num": 154619,
+        "word": "东北司机傲娇向乘客炫耀小土豆送的娃娃",
+        "onboard_time": 1704188793,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 151780,
+        "num": 151780,
+        "word": "被指肛珠作弊象棋冠军起诉中国棋协",
+        "onboard_time": 1704180032,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 144913,
+        "num": 144913,
+        "word": "三招告别蒜头鼻",
+        "onboard_time": 1704197555,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 138718,
+        "num": 138718,
+        "word": "杨紫琼当奶奶",
+        "onboard_time": 1704189756,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135994,
+        "num": 135994,
+        "word": "首尔歌谣大赏",
+        "onboard_time": 1704196413,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135420,
+        "num": 135420,
+        "word": "好想去哈尔滨",
+        "onboard_time": 1704197555,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 130718,
+        "num": 130718,
+        "word": "咒术回战 五条悟宿傩对决",
+        "onboard_time": 1704197431,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124761,
+        "num": 124761,
+        "word": "会做饭的人都好会时间管理",
+        "onboard_time": 1704200973,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122623,
+        "num": 122623,
+        "word": "拜登全年37%时间在度假胜地",
+        "onboard_time": 1704194553,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121043,
+        "num": 121043,
+        "word": "小杨哥称他不得已才当网红",
+        "onboard_time": 1704180514,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38753,
+        "num": 120940,
+        "word": "开工首日第四架C919入列",
+        "onboard_time": 1704200555,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120841,
+        "num": 120841,
+        "word": "这只萨摩耶怎么走起路来乱七八糟",
+        "onboard_time": 1704198391,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119485,
+        "num": 119485,
+        "word": "吴千语很爱听施伯雄讲前任",
+        "onboard_time": 1704191136,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116805,
+        "num": 116805,
+        "word": "新疆姑娘在广西送外卖走红",
+        "onboard_time": 1704195632,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116058,
+        "num": 116058,
+        "word": "中泰永久互相免签",
+        "onboard_time": 1704173134,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#归根到底就是让老百姓过上更好的日子#"
+    }
+  }
+}
