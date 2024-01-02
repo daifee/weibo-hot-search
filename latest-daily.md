@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/03 00:21:08 ~ 2024/01/03 03:33:59
+本榜单时间：2024/01/03 00:21:08 ~ 2024/01/03 04:18:39
 </p>
 </blockquote>
 <p>
@@ -291,6 +291,12 @@ Jaemin和GISELLE的cha（热度：91183）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E5%A3%B0%E7%A7%B0%E5%87%A0%E4%B8%87%E5%85%83%E8%B2%82%E7%9A%AE%E5%8D%96399%E5%A4%A7%E5%A6%88%E7%8B%82%E4%B8%8B%E5%8D%95%23" target="weibo">
+主播声称几万元貂皮卖399大妈狂下单（热度：76895）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A9%86%E5%A9%86%E5%8D%96%E6%8A%84%E6%89%8B2%E5%9D%9710%E4%B8%AA%23" target="weibo">
 重庆婆婆卖抄手2块10个（热度：73851）
 </a>
@@ -345,6 +351,12 @@ Jaemin和GISELLE的cha（热度：91183）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E5%AE%89%E5%B0%8F%E9%B8%9F%E4%BA%86%23" target="weibo">
+终于明白为什么喜欢安小鸟了（热度：21440）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23ITZY%E6%96%B0%E6%AD%8CMV%E5%85%AC%E5%BC%80%23" target="weibo">
 ITZY新歌MV公开（热度：20332）
 </a>
@@ -371,6 +383,18 @@ ITZY新歌MV公开（热度：20332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%BB%94%E8%91%9B%E4%BC%98%E7%98%AB%E5%BC%8F%E7%82%AB%E5%8D%97%E7%93%9C%23" target="weibo">
 七仔葛优瘫式炫南瓜（热度：11944）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%A5%E8%82%89%E7%82%BC%E7%8C%AA%E6%B2%B9%23" target="weibo">
+肥肉炼猪油（热度：10426）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%89%E7%94%9C%E8%B1%86%E8%85%90%E8%84%91%E4%BA%86%23" target="weibo">
+哈尔滨有甜豆腐脑了（热度：9684）
 </a>
 </li>
 
