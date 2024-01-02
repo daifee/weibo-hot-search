@@ -1,6 +1,6 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704233792256,
+  "endTime": 1704234836503,
   "band_list": [
     {
       "raw_hot": 1317466,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207186,
+      "num": 207186,
+      "word": "主播声称几万元貂皮卖399大妈狂下单",
+      "onboard_time": 1704224235,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189616,
       "num": 140564,
       "word": "59岁外卖员元旦当晚倒在送餐路上",
@@ -257,14 +265,6 @@
       "onboard_time": 1704208115,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 137569,
-      "num": 67549,
-      "word": "主播声称几万元貂皮卖399大妈狂下单",
-      "onboard_time": 1704224235,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133618,
@@ -427,6 +427,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 52937,
+      "num": 37719,
+      "word": "多家卫视晒跨年晚会战报均称获得第一",
+      "onboard_time": 1704228553,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51719,
       "num": 51719,
       "word": "汪小姐不会让自己不可以",
@@ -443,20 +451,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 43925,
-      "num": 26980,
-      "word": "多家卫视晒跨年晚会战报均称获得第一",
-      "onboard_time": 1704228553,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 39683,
-      "num": 22638,
+      "num": 28898,
       "word": "终于明白为什么喜欢安小鸟了",
       "onboard_time": 1704224055,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 33403,
+      "num": 33403,
+      "word": "永远的天天兄弟",
+      "onboard_time": 1704231852,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 29058,
+      "num": 29058,
+      "word": "繁花胡歌马伊琍初遇镜头",
+      "onboard_time": 1704232693,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 27826,
@@ -465,6 +481,14 @@
       "onboard_time": 1704188133,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20865,
+      "num": 20865,
+      "word": "游客吐槽摩天轮跨年倒数变广告",
+      "onboard_time": 1704222915,
+      "rank": 41,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 20332,
@@ -483,32 +507,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19411,
-      "num": 19411,
-      "word": "繁花胡歌马伊琍初遇镜头",
-      "onboard_time": 1704232693,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18466,
-      "num": 18466,
+      "raw_hot": 18968,
+      "num": 20141,
       "word": "谢娜说爱人拼尽全力的样子是最迷人的",
       "onboard_time": 1704228194,
       "rank": 36,
       "category": "综艺"
     },
     {
-      "raw_hot": 17750,
-      "num": 17750,
-      "word": "永远的天天兄弟",
-      "onboard_time": 1704231852,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 17297,
-      "num": 17297,
+      "raw_hot": 18262,
+      "num": 19451,
       "word": "哈尔滨有甜豆腐脑了",
       "onboard_time": 1704225674,
       "rank": 49,
@@ -523,16 +531,16 @@
       "category": "美食"
     },
     {
-      "raw_hot": 16431,
-      "num": 16431,
-      "word": "游客吐槽摩天轮跨年倒数变广告",
-      "onboard_time": 1704222915,
-      "rank": 41,
-      "category": "旅游,社会新闻"
+      "raw_hot": 15141,
+      "num": 19446,
+      "word": "想吃甜食怕长肉怎么办",
+      "onboard_time": 1704231672,
+      "rank": 48,
+      "category": "美食"
     },
     {
-      "raw_hot": 13623,
-      "num": 15956,
+      "raw_hot": 14562,
+      "num": 19443,
       "word": "脱轨结局he",
       "onboard_time": 1704227592,
       "rank": 42,

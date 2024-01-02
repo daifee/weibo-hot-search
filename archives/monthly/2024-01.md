@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/03 06:16:32
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/03 06:33:56
 </p>
 </blockquote>
 <p>
@@ -2451,6 +2451,12 @@ WTT（热度：216427）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E5%A3%B0%E7%A7%B0%E5%87%A0%E4%B8%87%E5%85%83%E8%B2%82%E7%9A%AE%E5%8D%96399%E5%A4%A7%E5%A6%88%E7%8B%82%E4%B8%8B%E5%8D%95%23" target="weibo">
+主播声称几万元貂皮卖399大妈狂下单（热度：207186）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E8%BF%8E%E6%9D%A5%E4%B8%8B%E8%B0%83%23" target="weibo">
 存量房贷利率迎来下调（热度：206195）
 </a>
@@ -3375,12 +3381,6 @@ B站跨年 补课（热度：158529）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E5%A3%B0%E7%A7%B0%E5%87%A0%E4%B8%87%E5%85%83%E8%B2%82%E7%9A%AE%E5%8D%96399%E5%A4%A7%E5%A6%88%E7%8B%82%E4%B8%8B%E5%8D%95%23" target="weibo">
-主播声称几万元貂皮卖399大妈狂下单（热度：137569）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E5%94%B1%E4%BA%86%E5%88%98%E4%BA%A6%E8%8F%B2%E6%83%B3%E5%90%AC%E7%9A%84%E6%AD%8C%23" target="weibo">
 张靓颖唱了刘亦菲想听的歌（热度：137147）
 </a>
@@ -3975,6 +3975,12 @@ hot summer热冬（热度：53567）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8D%AB%E8%A7%86%E6%99%92%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%88%98%E6%8A%A5%E5%9D%87%E7%A7%B0%E8%8E%B7%E5%BE%97%E7%AC%AC%E4%B8%80%23" target="weibo">
+多家卫视晒跨年晚会战报均称获得第一（热度：52937）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B7%A8%E5%B9%B4%E8%88%9E%E5%8F%B0%E5%8F%88%E6%9D%A5%E4%BA%86%23" target="weibo">
 王一博跨年舞台又来了（热度：52111）
 </a>
@@ -4035,12 +4041,6 @@ hot summer热冬（热度：53567）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8D%AB%E8%A7%86%E6%99%92%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%88%98%E6%8A%A5%E5%9D%87%E7%A7%B0%E8%8E%B7%E5%BE%97%E7%AC%AC%E4%B8%80%23" target="weibo">
-多家卫视晒跨年晚会战报均称获得第一（热度：43925）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232024%E7%BB%A7%E7%BB%AD%E5%87%BA%E5%8F%91%23" target="weibo">
 2024继续出发（热度：39999）
 </a>
@@ -4089,6 +4089,12 @@ X9重新定义大七座（热度：36378）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E7%9A%84%E5%A4%A9%E5%A4%A9%E5%85%84%E5%BC%9F%23" target="weibo">
+永远的天天兄弟（热度：33403）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E5%A5%B3%E9%83%8E%E6%8C%91%E8%A1%85%E5%A8%81%E9%9C%87%E5%A4%A9%23" target="weibo">
 和平精英女郎挑衅威震天（热度：32498）
 </a>
@@ -4109,6 +4115,12 @@ X9重新定义大七座（热度：36378）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E5%85%83%E6%A2%A6%E5%B8%AE%E6%88%91%E5%9C%86%E6%A2%A6%23" target="weibo">
 谢谢元梦帮我圆梦（热度：30375）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E8%83%A1%E6%AD%8C%E9%A9%AC%E4%BC%8A%E7%90%8D%E5%88%9D%E9%81%87%E9%95%9C%E5%A4%B4%23" target="weibo">
+繁花胡歌马伊琍初遇镜头（热度：29058）
 </a>
 </li>
 
@@ -4137,14 +4149,14 @@ cos的风还是吹到了霉霉大电影（热度：25338）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23ITZY%E6%96%B0%E6%AD%8CMV%E5%85%AC%E5%BC%80%23" target="weibo">
-ITZY新歌MV公开（热度：20332）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E6%91%A9%E5%A4%A9%E8%BD%AE%E8%B7%A8%E5%B9%B4%E5%80%92%E6%95%B0%E5%8F%98%E5%B9%BF%E5%91%8A%23" target="weibo">
+游客吐槽摩天轮跨年倒数变广告（热度：20865）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E8%83%A1%E6%AD%8C%E9%A9%AC%E4%BC%8A%E7%90%8D%E5%88%9D%E9%81%87%E9%95%9C%E5%A4%B4%23" target="weibo">
-繁花胡歌马伊琍初遇镜头（热度：19411）
+<a href="https://s.weibo.com/weibo?q=%23ITZY%E6%96%B0%E6%AD%8CMV%E5%85%AC%E5%BC%80%23" target="weibo">
+ITZY新歌MV公开（热度：20332）
 </a>
 </li>
 
@@ -4156,19 +4168,13 @@ ITZY新歌MV公开（热度：20332）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%AF%B4%E7%88%B1%E4%BA%BA%E6%8B%BC%E5%B0%BD%E5%85%A8%E5%8A%9B%E7%9A%84%E6%A0%B7%E5%AD%90%E6%98%AF%E6%9C%80%E8%BF%B7%E4%BA%BA%E7%9A%84%23" target="weibo">
-谢娜说爱人拼尽全力的样子是最迷人的（热度：18466）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E7%9A%84%E5%A4%A9%E5%A4%A9%E5%85%84%E5%BC%9F%23" target="weibo">
-永远的天天兄弟（热度：17750）
+谢娜说爱人拼尽全力的样子是最迷人的（热度：18968）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%89%E7%94%9C%E8%B1%86%E8%85%90%E8%84%91%E4%BA%86%23" target="weibo">
-哈尔滨有甜豆腐脑了（热度：17297）
+哈尔滨有甜豆腐脑了（热度：18262）
 </a>
 </li>
 
@@ -4185,14 +4191,14 @@ ITZY新歌MV公开（热度：20332）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E6%91%A9%E5%A4%A9%E8%BD%AE%E8%B7%A8%E5%B9%B4%E5%80%92%E6%95%B0%E5%8F%98%E5%B9%BF%E5%91%8A%23" target="weibo">
-游客吐槽摩天轮跨年倒数变广告（热度：16431）
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%90%83%E7%94%9C%E9%A3%9F%E6%80%95%E9%95%BF%E8%82%89%E6%80%8E%E4%B9%88%E5%8A%9E%23" target="weibo">
+想吃甜食怕长肉怎么办（热度：15141）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E8%BD%A8%E7%BB%93%E5%B1%80he%23" target="weibo">
-脱轨结局he（热度：13623）
+脱轨结局he（热度：14562）
 </a>
 </li>
 
