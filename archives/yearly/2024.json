@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704159425260,
+  "endTime": 1704162600012,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -17,6 +17,14 @@
       "onboard_time": 1704093755,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7870082,
+      "num": 7870082,
+      "word": "李在明遇袭",
+      "onboard_time": 1704160295,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 4140986,
@@ -49,6 +57,14 @@
       "onboard_time": 1704035651,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2766954,
+      "num": 2766954,
+      "word": "疑似袭击李在明男子被捕",
+      "onboard_time": 1704160655,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2617111,
@@ -611,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733327,
+      "num": 733327,
+      "word": "孕妇被坠窗砸伤为治疗终止妊娠",
+      "onboard_time": 1704158495,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732327,
       "num": 489539,
       "word": "希林娜依高戒指丢了",
@@ -681,6 +705,14 @@
       "onboard_time": 1704153572,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 682112,
+      "num": 682112,
+      "word": "李在明遇袭颈部流血紧急送医救治",
+      "onboard_time": 1704160534,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 681118,
@@ -1187,6 +1219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 398789,
+      "num": 378750,
+      "word": "拜登就日本强震发声明",
+      "onboard_time": 1704159996,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 397568,
       "num": 397568,
       "word": "终于到了谈恋爱不怕爸妈知道的年纪",
@@ -1235,12 +1275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374944,
-      "num": 374944,
-      "word": "孕妇被坠窗砸伤为治疗终止妊娠",
-      "onboard_time": 1704158495,
+      "raw_hot": 365528,
+      "num": 365528,
+      "word": "iOS17.2.1被曝无法接打电话",
+      "onboard_time": 1704160960,
       "rank": 15,
-      "category": "社会新闻"
+      "category": "数码"
     },
     {
       "raw_hot": 362948,
@@ -1304,6 +1344,14 @@
       "word": "日本能登地区短时间内连发7次地震",
       "onboard_time": 1704098798,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342819,
+      "num": 207372,
+      "word": "日本石川县能登地区发生5.6级地震",
+      "onboard_time": 1704161978,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1635,6 +1683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 248224,
+      "num": 248224,
+      "word": "爷爷忘给孙女买玩具被太奶挥拐催促",
+      "onboard_time": 1704160655,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247713,
       "num": 192094,
       "word": "日本地震已致6人死亡",
@@ -1707,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234087,
+      "num": 234087,
+      "word": "寻梦环游记太奶奶配音演员去世",
+      "onboard_time": 1704161678,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 233885,
       "num": 251159,
       "word": "覃海洋樊振东上榜最佳运动员",
@@ -1755,6 +1819,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225262,
+      "num": 225262,
+      "word": "A股",
+      "onboard_time": 1704161618,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 224584,
+      "num": 224584,
+      "word": "陶喆 难道失败就永远翻不了身",
+      "onboard_time": 1704159274,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224367,
       "num": 810380,
       "word": "女子1张彩票中奖571次总计860万",
@@ -1777,6 +1857,14 @@
       "onboard_time": 1704114639,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223206,
+      "num": 223206,
+      "word": "霉霉 我的嗓子",
+      "onboard_time": 1704162039,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 221753,
@@ -1921,6 +2009,14 @@
       "onboard_time": 1704107438,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202006,
+      "num": 202006,
+      "word": "李在明遇袭现场",
+      "onboard_time": 1704162218,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 201931,
@@ -2099,6 +2195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180481,
+      "num": 180481,
+      "word": "陈楚生清唱直到世界尽头",
+      "onboard_time": 1704162339,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180067,
       "num": 180067,
       "word": "王一博汪涵大张伟零点拥抱",
@@ -2275,6 +2379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160064,
+      "num": 160064,
+      "word": "出家人也戒不了猫",
+      "onboard_time": 1704160054,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159349,
       "num": 159349,
       "word": "男生跨年晒出全年140张火车票",
@@ -2289,118 +2401,6 @@
       "onboard_time": 1704089672,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158986,
-      "num": 125037,
-      "word": "TF家族2024公式照",
-      "onboard_time": 1704068368,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 158529,
-      "num": 158529,
-      "word": "B站跨年 补课",
-      "onboard_time": 1704104619,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 158145,
-      "num": 158145,
-      "word": "这朵花竟然是废弃窗帘布做出来的",
-      "onboard_time": 1704111878,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156394,
-      "num": 560581,
-      "word": "四川自贡发生3.2级地震",
-      "onboard_time": 1704008371,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155728,
-      "num": 155728,
-      "word": "肯德基小甜豆",
-      "onboard_time": 1704100958,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 153850,
-      "num": 153850,
-      "word": "航拍日本轮岛市震后大规模火灾现场",
-      "onboard_time": 1704121541,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151714,
-      "num": 151714,
-      "word": "英雄联盟",
-      "onboard_time": 1704115241,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 151429,
-      "num": 151429,
-      "word": "2024狮子座好运苏醒",
-      "onboard_time": 1704155919,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 150976,
-      "num": 150976,
-      "word": "唐嫣繁花演技",
-      "onboard_time": 1704096219,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 150545,
-      "num": 150545,
-      "word": "燃耀起立",
-      "onboard_time": 1704118544,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 150223,
-      "num": 766745,
-      "word": "当代年轻人的跨年现状",
-      "onboard_time": 1704029278,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 148738,
-      "num": 148738,
-      "word": "杨紫范丞丞元旦合照",
-      "onboard_time": 1704102103,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 148382,
-      "num": 148382,
-      "word": "九岁女孩放学后在校门口练拳热身",
-      "onboard_time": 1704114580,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146678,
-      "num": 146678,
-      "word": "灵隐寺新年一早人从众",
-      "onboard_time": 1704092791,
-      "rank": 43,
-      "category": "旅游,社会新闻"
     }
   ],
   "hotgov_list": [

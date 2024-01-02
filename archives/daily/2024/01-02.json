@@ -1,7 +1,23 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704159425260,
+  "endTime": 1704162600012,
   "band_list": [
+    {
+      "raw_hot": 7870082,
+      "num": 7870082,
+      "word": "李在明遇袭",
+      "onboard_time": 1704160295,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 2766954,
+      "num": 2766954,
+      "word": "疑似袭击李在明男子被捕",
+      "onboard_time": 1704160655,
+      "rank": 1,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 1588901,
       "num": 1588901,
@@ -83,12 +99,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 733327,
+      "num": 733327,
+      "word": "孕妇被坠窗砸伤为治疗终止妊娠",
+      "onboard_time": 1704158495,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690923,
       "num": 528124,
       "word": "日本地震震区中国游客夫妇发声",
       "onboard_time": 1704153572,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 682112,
+      "num": 682112,
+      "word": "李在明遇袭颈部流血紧急送医救治",
+      "onboard_time": 1704160534,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 669705,
@@ -203,12 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374944,
-      "num": 374944,
-      "word": "孕妇被坠窗砸伤为治疗终止妊娠",
-      "onboard_time": 1704158495,
+      "raw_hot": 398789,
+      "num": 378750,
+      "word": "拜登就日本强震发声明",
+      "onboard_time": 1704159996,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 365528,
+      "num": 365528,
+      "word": "iOS17.2.1被曝无法接打电话",
+      "onboard_time": 1704160960,
       "rank": 15,
-      "category": "社会新闻"
+      "category": "数码"
     },
     {
       "raw_hot": 352307,
@@ -225,6 +265,14 @@
       "onboard_time": 1704152488,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 342819,
+      "num": 207372,
+      "word": "日本石川县能登地区发生5.6级地震",
+      "onboard_time": 1704161978,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342126,
@@ -347,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248224,
+      "num": 248224,
+      "word": "爷爷忘给孙女买玩具被太奶挥拐催促",
+      "onboard_time": 1704160655,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247713,
       "num": 192094,
       "word": "日本地震已致6人死亡",
@@ -379,12 +435,44 @@
       "category": "数码"
     },
     {
+      "raw_hot": 234087,
+      "num": 234087,
+      "word": "寻梦环游记太奶奶配音演员去世",
+      "onboard_time": 1704161678,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 226397,
       "num": 226397,
       "word": "女生不主动发消息还要联系吗",
       "onboard_time": 1704151947,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225262,
+      "num": 225262,
+      "word": "A股",
+      "onboard_time": 1704161618,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 224584,
+      "num": 224584,
+      "word": "陶喆 难道失败就永远翻不了身",
+      "onboard_time": 1704159274,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223206,
+      "num": 223206,
+      "word": "霉霉 我的嗓子",
+      "onboard_time": 1704162039,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 221658,
@@ -409,6 +497,14 @@
       "onboard_time": 1704157598,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202006,
+      "num": 202006,
+      "word": "李在明遇袭现场",
+      "onboard_time": 1704162218,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 194784,
@@ -457,6 +553,14 @@
       "onboard_time": 1704100837,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180481,
+      "num": 180481,
+      "word": "陈楚生清唱直到世界尽头",
+      "onboard_time": 1704162339,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 176997,
@@ -515,12 +619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160064,
+      "num": 160064,
+      "word": "出家人也戒不了猫",
+      "onboard_time": 1704160054,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151429,
       "num": 151429,
       "word": "2024狮子座好运苏醒",
       "onboard_time": 1704155919,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148460,
+      "num": 148460,
+      "word": "在美疑似遭绑架中国留学生已找到",
+      "onboard_time": 1704162519,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145331,
@@ -563,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137205,
+      "num": 134396,
+      "word": "日本地震已致13人死亡",
+      "onboard_time": 1704162579,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137147,
       "num": 137147,
       "word": "张靓颖唱了刘亦菲想听的歌",
@@ -577,6 +705,14 @@
       "onboard_time": 1704122319,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134450,
+      "num": 134450,
+      "word": "2024国际乒联第1周排名",
+      "onboard_time": 1704162339,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 132747,
@@ -641,14 +777,6 @@
       "onboard_time": 1704156877,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119833,
-      "num": 119833,
-      "word": "陶喆 难道失败就永远翻不了身",
-      "onboard_time": 1704159274,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 111984,
@@ -721,6 +849,14 @@
       "onboard_time": 1704117640,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96201,
+      "num": 398586,
+      "word": "开工第一天海阔天空为啥火了",
+      "onboard_time": 1704161256,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94059,
