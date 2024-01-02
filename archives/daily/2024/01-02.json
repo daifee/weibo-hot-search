@@ -1,6 +1,6 @@
 {
   "startTime": 1704126108827,
-  "endTime": 1704166448200,
+  "endTime": 1704169279788,
   "band_list": [
     {
       "raw_hot": 9066763,
@@ -17,6 +17,14 @@
       "onboard_time": 1704160655,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2185167,
+      "num": 2185167,
+      "word": "小杨哥劝大家别发大财",
+      "onboard_time": 1704166236,
+      "rank": 6,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1588901,
@@ -57,6 +65,14 @@
       "onboard_time": 1704151284,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1160303,
+      "num": 1160303,
+      "word": "官方通报湖南一碗麻辣烫106元",
+      "onboard_time": 1704166538,
+      "rank": 3,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1154352,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 903569,
-      "num": 409625,
+      "num": 473148,
       "word": "李在明被30厘米长刀刺中颈部",
       "onboard_time": 1704165336,
       "rank": 32,
@@ -131,12 +147,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 811412,
-      "num": 811412,
-      "word": "小杨哥劝大家别发大财",
-      "onboard_time": 1704166236,
-      "rank": 6,
-      "category": "社会新闻,网红"
+      "raw_hot": 805401,
+      "num": 805401,
+      "word": "B站2023百大UP主",
+      "onboard_time": 1704167978,
+      "rank": 4,
+      "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 789511,
+      "num": 471719,
+      "word": "日本地震已造成至少24人死亡",
+      "onboard_time": 1704166538,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 778239,
@@ -153,6 +177,14 @@
       "onboard_time": 1704158495,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 705092,
+      "num": 340599,
+      "word": "男子患胃癌一查一家5口全感染幽门螺杆菌",
+      "onboard_time": 1704165158,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 690923,
@@ -187,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 651156,
+      "num": 651156,
+      "word": "杨紫李现二搭",
+      "onboard_time": 1704167256,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 603697,
       "num": 603697,
       "word": "广东一地公示8名躺平休闲人员",
@@ -209,14 +249,6 @@
       "onboard_time": 1704152730,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 578047,
-      "num": 277369,
-      "word": "男子患胃癌一查一家5口全感染幽门螺杆菌",
-      "onboard_time": 1704165158,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 575411,
@@ -243,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543978,
+      "num": 543978,
+      "word": "河南宁陵县通报一学生坠亡事件",
+      "onboard_time": 1704166895,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522564,
       "num": 368604,
       "word": "日本地震已致13人死亡",
@@ -259,20 +299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482437,
+      "num": 482437,
+      "word": "赵露思后悔拒绝王安宇拍照",
+      "onboard_time": 1704164918,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 463002,
+      "num": 463002,
+      "word": "钟欣潼演丁禹兮母亲",
+      "onboard_time": 1704167978,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 457840,
       "num": 457840,
       "word": "男子2000买金包银首饰典当5.3万",
       "onboard_time": 1704121602,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457729,
-      "num": 404363,
-      "word": "赵露思后悔拒绝王安宇拍照",
-      "onboard_time": 1704164918,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 443073,
@@ -329,6 +377,22 @@
       "onboard_time": 1704162519,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393704,
+      "num": 393704,
+      "word": "涉嫌代孕的武汉普仁医院被罚5万",
+      "onboard_time": 1704167677,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383049,
+      "num": 383049,
+      "word": "李在明为轻伤",
+      "onboard_time": 1704168700,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 365528,
@@ -443,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288317,
+      "num": 288317,
+      "word": "马立奥热情营业干脆收工",
+      "onboard_time": 1704168278,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287619,
       "num": 287619,
       "word": "四川省考准考证",
@@ -457,6 +529,14 @@
       "onboard_time": 1704141734,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 282636,
+      "num": 282636,
+      "word": "陈都灵镜妖妆造",
+      "onboard_time": 1704168162,
+      "rank": 25,
+      "category": "剧集,美妆"
     },
     {
       "raw_hot": 281295,
@@ -481,6 +561,14 @@
       "onboard_time": 1704093755,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269796,
+      "num": 269796,
+      "word": "李在明遇袭后接受缝合手术",
+      "onboard_time": 1704168879,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 262188,
@@ -579,6 +667,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 237004,
+      "num": 237004,
+      "word": "成都千斤香肠最壕窗台主人回应",
+      "onboard_time": 1704168578,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235140,
       "num": 235140,
       "word": "陈楚生清唱直到世界尽头",
@@ -601,6 +697,14 @@
       "onboard_time": 1704161678,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 233634,
+      "num": 233634,
+      "word": "不用排名 感受到多少就回馈多少",
+      "onboard_time": 1704168938,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 226397,
@@ -683,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199269,
+      "num": 199269,
+      "word": "韩国警方对李在明遇刺展开调查",
+      "onboard_time": 1704169059,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 194784,
       "num": 273161,
       "word": "国足1比2中国香港",
@@ -705,6 +817,14 @@
       "onboard_time": 1704158737,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191248,
+      "num": 191248,
+      "word": "A股2024年首个交易日",
+      "onboard_time": 1704166895,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 189791,
@@ -931,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130005,
+      "num": 199340,
+      "word": "浮生忆玲珑邀你共赴玲珑局",
+      "onboard_time": 1704168938,
+      "rank": 38,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 130004,
       "num": 130004,
       "word": "魏大勋一下台就去撸串了",
@@ -979,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112158,
+      "num": 1312722,
+      "word": "2024开年第1个工作日",
+      "onboard_time": 1704166056,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111984,
       "num": 111984,
       "word": "卡琳娜有笑容了",
@@ -1016,14 +1152,6 @@
       "word": "2024年上班第一天",
       "onboard_time": 1704151284,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103590,
-      "num": 1312722,
-      "word": "2024开年第1个工作日",
-      "onboard_time": 1704166056,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
