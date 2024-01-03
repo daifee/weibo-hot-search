@@ -1,6 +1,6 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704260047514,
+  "endTime": 1704262972196,
   "band_list": [
     {
       "raw_hot": 2250367,
@@ -25,6 +25,14 @@
       "onboard_time": 1704239306,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1387450,
+      "num": 1387450,
+      "word": "叶酸吃多了真的会致癌吗",
+      "onboard_time": 1704259951,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1317466,
@@ -179,6 +187,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 761800,
+      "num": 761800,
+      "word": "迪丽热巴展示泳衣",
+      "onboard_time": 1704261812,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 750717,
       "num": 750717,
       "word": "高校干部酒后家暴打死妻子母亲发声",
@@ -219,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 719520,
+      "num": 505070,
+      "word": "曝林靖恩入住饭店后精神失控",
+      "onboard_time": 1704261992,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 686888,
       "num": 686888,
       "word": "偶像剧顶配",
@@ -243,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 652128,
+      "num": 652128,
+      "word": "宝妈称洗浴中心未经允许给6岁娃搓背",
+      "onboard_time": 1704260310,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638646,
       "num": 458066,
       "word": "南方小土豆",
@@ -257,6 +289,14 @@
       "onboard_time": 1704248249,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 622962,
+      "num": 622962,
+      "word": "香港演员李子雄宣传哈尔滨",
+      "onboard_time": 1704260731,
+      "rank": 6,
+      "category": "艺人,旅游"
     },
     {
       "raw_hot": 613572,
@@ -347,6 +387,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 524666,
+      "num": 524666,
+      "word": "上海薪资连续4个季度领跑全国",
+      "onboard_time": 1704259111,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 523408,
       "num": 523408,
       "word": "冻梨咖啡",
@@ -385,6 +433,14 @@
       "onboard_time": 1704246509,
       "rank": 13,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 498243,
+      "num": 498243,
+      "word": "38城平均工资超1万元",
+      "onboard_time": 1704260130,
+      "rank": 11,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 476949,
@@ -643,20 +699,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 272380,
+      "num": 272380,
+      "word": "南方小土豆喊东北虎咪咪收获一声冷笑",
+      "onboard_time": 1704261751,
+      "rank": 20,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 269430,
       "num": 269430,
       "word": "Selena 最后一张专辑",
       "onboard_time": 1704253774,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 269214,
-      "num": 269214,
-      "word": "上海薪资连续4个季度领跑全国",
-      "onboard_time": 1704259111,
-      "rank": 23,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 267687,
@@ -707,12 +763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260201,
-      "num": 233981,
-      "word": "叶酸吃多了真的会致癌吗",
-      "onboard_time": 1704259951,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 258370,
+      "num": 258370,
+      "word": "小土豆文学",
+      "onboard_time": 1704262050,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 257502,
@@ -721,6 +777,14 @@
       "onboard_time": 1704246030,
       "rank": 24,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 252613,
+      "num": 252613,
+      "word": "74岁老人做眼部手术死亡",
+      "onboard_time": 1704262291,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252045,
@@ -787,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231445,
+      "num": 231445,
+      "word": "老伯看不懂英文误入女厕被指非礼",
+      "onboard_time": 1704260612,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228110,
       "num": 140569,
       "word": "纽约",
@@ -817,6 +889,14 @@
       "onboard_time": 1704249030,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224190,
+      "num": 224190,
+      "word": "还好我28了说的不是我",
+      "onboard_time": 1704259410,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 222963,
@@ -857,6 +937,14 @@
       "onboard_time": 1704259593,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217421,
+      "num": 217421,
+      "word": "仙剑 换乘恋爱",
+      "onboard_time": 1704262409,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 214710,
@@ -915,6 +1003,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 188192,
+      "num": 188192,
+      "word": "假唱",
+      "onboard_time": 1704262650,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186446,
       "num": 186446,
       "word": "王鹤棣derder进化史",
@@ -945,14 +1041,6 @@
       "onboard_time": 1704249271,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181663,
-      "num": 181663,
-      "word": "还好我28了说的不是我",
-      "onboard_time": 1704259410,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 181353,
@@ -1107,6 +1195,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 154183,
+      "num": 154183,
+      "word": "哈马斯",
+      "onboard_time": 1704260490,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 153432,
       "num": 140541,
       "word": "赵丽颖辛芷蕾与素人合影",
@@ -1153,6 +1249,22 @@
       "onboard_time": 1704247711,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144824,
+      "num": 144824,
+      "word": "屈楚萧张佳宁回应爸妈梗",
+      "onboard_time": 1704261271,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 144067,
+      "num": 144067,
+      "word": "日本民航局局长发布会多次发笑",
+      "onboard_time": 1704262892,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 143994,
@@ -1235,6 +1347,22 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 131572,
+      "num": 131572,
+      "word": "小说推荐",
+      "onboard_time": 1704262712,
+      "rank": 41,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 130188,
+      "num": 130188,
+      "word": "当代年轻人仪式感",
+      "onboard_time": 1704262591,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129241,
       "num": 129241,
       "word": "AI行业或成2024就业新风口",
@@ -1257,6 +1385,14 @@
       "onboard_time": 1704242071,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120670,
+      "num": 120670,
+      "word": "百分百歌手嘉宾阵容",
+      "onboard_time": 1704260191,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 120633,
@@ -1297,6 +1433,14 @@
       "onboard_time": 1704256474,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 106236,
+      "num": 106236,
+      "word": "逆流而上然后直接去世",
+      "onboard_time": 1704262231,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 103894,

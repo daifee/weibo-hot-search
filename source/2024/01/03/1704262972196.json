@@ -1,0 +1,410 @@
+{
+  "runTime": 1704262972196,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1387450,
+        "num": 1387450,
+        "word": "叶酸吃多了真的会致癌吗",
+        "onboard_time": 1704259951,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1051018,
+        "num": 1051018,
+        "word": "Jennie离开YG的原因",
+        "onboard_time": 1704258870,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54465,
+        "num": 901582,
+        "word": "神十七太空吃播上新",
+        "onboard_time": 1704253951,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761800,
+        "num": 761800,
+        "word": "迪丽热巴展示泳衣",
+        "onboard_time": 1704261812,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 733428,
+        "num": 733428,
+        "word": "家有儿女大电影定档",
+        "onboard_time": 1704256474,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 652128,
+        "num": 652128,
+        "word": "宝妈称洗浴中心未经允许给6岁娃搓背",
+        "onboard_time": 1704260310,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622962,
+        "num": 622962,
+        "word": "香港演员李子雄宣传哈尔滨",
+        "onboard_time": 1704260731,
+        "rank": 6,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 524666,
+        "num": 524666,
+        "word": "上海薪资连续4个季度领跑全国",
+        "onboard_time": 1704259111,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 509214,
+        "num": 509214,
+        "word": "辛芷蕾拍繁花学了两年舞蹈课",
+        "onboard_time": 1704248310,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506231,
+        "num": 506231,
+        "word": "12306推出购票新功能",
+        "onboard_time": 1704248549,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719520,
+        "num": 505070,
+        "word": "曝林靖恩入住饭店后精神失控",
+        "onboard_time": 1704261992,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498243,
+        "num": 498243,
+        "word": "38城平均工资超1万元",
+        "onboard_time": 1704260130,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 439292,
+        "num": 439292,
+        "word": "刘诗诗吴奇隆带娃出门",
+        "onboard_time": 1704248911,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352394,
+        "num": 352394,
+        "word": "冻梨咖啡",
+        "onboard_time": 1704256714,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 344079,
+        "num": 344079,
+        "word": "以军空袭致哈马斯领导人丧生",
+        "onboard_time": 1704258214,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 313980,
+        "num": 313980,
+        "word": "花儿与少年",
+        "onboard_time": 1704257974,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313443,
+        "num": 313443,
+        "word": "汪小姐 和过去决裂很彻底",
+        "onboard_time": 1704249212,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291451,
+        "num": 291451,
+        "word": "高校干部酒后家暴打死妻子母亲发声",
+        "onboard_time": 1704255395,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289753,
+        "num": 289753,
+        "word": "华为与懂车帝停止合作",
+        "onboard_time": 1704254792,
+        "rank": 18,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 280545,
+        "num": 280545,
+        "word": "王健林再卖一线城市万达广场",
+        "onboard_time": 1704244469,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 272380,
+        "num": 272380,
+        "word": "南方小土豆喊东北虎咪咪收获一声冷笑",
+        "onboard_time": 1704261751,
+        "rank": 20,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 258370,
+        "num": 258370,
+        "word": "小土豆文学",
+        "onboard_time": 1704262050,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252613,
+        "num": 252613,
+        "word": "74岁老人做眼部手术死亡",
+        "onboard_time": 1704262291,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236278,
+        "num": 236278,
+        "word": "科目三的风吹到了JYP",
+        "onboard_time": 1704245251,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231445,
+        "num": 231445,
+        "word": "老伯看不懂英文误入女厕被指非礼",
+        "onboard_time": 1704260612,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224190,
+        "num": 224190,
+        "word": "还好我28了说的不是我",
+        "onboard_time": 1704259410,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217421,
+        "num": 217421,
+        "word": "仙剑 换乘恋爱",
+        "onboard_time": 1704262409,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214662,
+        "num": 214662,
+        "word": "陈楚生 新年第一次抢票",
+        "onboard_time": 1704254614,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204294,
+        "num": 204294,
+        "word": "边伯贤成立公司",
+        "onboard_time": 1704259593,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194761,
+        "num": 194761,
+        "word": "日本地震死亡人数再上升",
+        "onboard_time": 1704251012,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188192,
+        "num": 188192,
+        "word": "假唱",
+        "onboard_time": 1704262650,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165113,
+        "num": 165113,
+        "word": "初中生学习压力大举报补习班",
+        "onboard_time": 1704257617,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 159523,
+        "num": 159523,
+        "word": "郑恺透露繁花与唐嫣结局HE",
+        "onboard_time": 1704249030,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154183,
+        "num": 154183,
+        "word": "哈马斯",
+        "onboard_time": 1704260490,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 145160,
+        "num": 145160,
+        "word": "脱轨美术组道歉",
+        "onboard_time": 1704254674,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144824,
+        "num": 144824,
+        "word": "屈楚萧张佳宁回应爸妈梗",
+        "onboard_time": 1704261271,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144703,
+        "num": 144703,
+        "word": "南方小土豆",
+        "onboard_time": 1704252753,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152725,
+        "num": 144471,
+        "word": "唐嫣繁花官配",
+        "onboard_time": 1704259650,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144067,
+        "num": 144067,
+        "word": "日本民航局局长发布会多次发笑",
+        "onboard_time": 1704262892,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 141590,
+        "num": 141590,
+        "word": "迪丽热巴椰汁pose",
+        "onboard_time": 1704256116,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133059,
+        "num": 133059,
+        "word": "2024待爆",
+        "onboard_time": 1704247949,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131572,
+        "num": 131572,
+        "word": "小说推荐",
+        "onboard_time": 1704262712,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 130188,
+        "num": 130188,
+        "word": "当代年轻人仪式感",
+        "onboard_time": 1704262591,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128356,
+        "num": 128356,
+        "word": "三亚冬天败给哈尔滨",
+        "onboard_time": 1704246151,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 120670,
+        "num": 120670,
+        "word": "百分百歌手嘉宾阵容",
+        "onboard_time": 1704260191,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117776,
+        "num": 117776,
+        "word": "华为知情人士回应与懂车帝停止合作",
+        "onboard_time": 1704258394,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115826,
+        "num": 115826,
+        "word": "脱轨被曝盗图",
+        "onboard_time": 1704245911,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106236,
+        "num": 106236,
+        "word": "逆流而上然后直接去世",
+        "onboard_time": 1704262231,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104423,
+        "num": 104423,
+        "word": "别让狮子座丢脸",
+        "onboard_time": 1704257913,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102682,
+        "num": 102682,
+        "word": "考研时没有生活 考研后不会生活",
+        "onboard_time": 1704248249,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024继续向星辰大海阔步前行#"
+    }
+  }
+}

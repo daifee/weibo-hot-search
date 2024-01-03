@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704260047514,
+  "endTime": 1704262972196,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -377,6 +377,14 @@
       "onboard_time": 1704188012,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1387450,
+      "num": 1387450,
+      "word": "叶酸吃多了真的会致癌吗",
+      "onboard_time": 1704259951,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1360274,
@@ -1083,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 761800,
+      "num": 761800,
+      "word": "迪丽热巴展示泳衣",
+      "onboard_time": 1704261812,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 756526,
       "num": 726424,
       "word": "陈哲远 枭起青壤",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1704107139,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 719520,
+      "num": 505070,
+      "word": "曝林靖恩入住饭店后精神失控",
+      "onboard_time": 1704261992,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 717934,
@@ -1427,6 +1451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 652128,
+      "num": 652128,
+      "word": "宝妈称洗浴中心未经允许给6岁娃搓背",
+      "onboard_time": 1704260310,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651156,
       "num": 651156,
       "word": "杨紫李现二搭",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1704248249,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 622962,
+      "num": 622962,
+      "word": "香港演员李子雄宣传哈尔滨",
+      "onboard_time": 1704260731,
+      "rank": 6,
+      "category": "艺人,旅游"
     },
     {
       "raw_hot": 622728,
@@ -1779,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524666,
+      "num": 524666,
+      "word": "上海薪资连续4个季度领跑全国",
+      "onboard_time": 1704259111,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 523785,
       "num": 523785,
       "word": "谢娜紧紧抓住马立奥的原因",
@@ -1881,6 +1929,14 @@
       "onboard_time": 1704186032,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 498243,
+      "num": 498243,
+      "word": "38城平均工资超1万元",
+      "onboard_time": 1704260130,
+      "rank": 11,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 492595,
@@ -2345,62 +2401,6 @@
       "onboard_time": 1704190234,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 389366,
-      "num": 337566,
-      "word": "湖南卫视 全是广告",
-      "onboard_time": 1704025852,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 385713,
-      "num": 302366,
-      "word": "丈夫喝酒电话不通孕妻腹痛求助110",
-      "onboard_time": 1704059234,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381523,
-      "num": 381523,
-      "word": "金智秀与哥哥成立新公司",
-      "onboard_time": 1704174033,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 381460,
-      "num": 328183,
-      "word": "迪丽热巴椰汁pose",
-      "onboard_time": 1704256116,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 379287,
-      "num": 379287,
-      "word": "日本地震死亡升至57人",
-      "onboard_time": 1704238103,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377691,
-      "num": 1097133,
-      "word": "东北司机傲娇向乘客炫耀小土豆送的娃娃",
-      "onboard_time": 1704188793,
-      "rank": 4,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 377551,
-      "num": 377551,
-      "word": "学校回应高校干部酒后家暴打死妻子",
-      "onboard_time": 1704176014,
-      "rank": 22,
-      "category": "社会新闻,教育"
     }
   ],
   "hotgov_list": [
