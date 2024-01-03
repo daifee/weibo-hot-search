@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704299870974,
+  "endTime": 1704302126933,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1169,6 +1169,14 @@
       "onboard_time": 1704104918,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 810050,
+      "num": 810050,
+      "word": "哈尔滨为小土豆连夜撤下破旧公交牌",
+      "onboard_time": 1704299007,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 806211,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704167978,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 483667,
-      "num": 483667,
-      "word": "80后男子中奖以为是电诈差点弃奖",
-      "onboard_time": 1704195991,
-      "rank": 11,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
