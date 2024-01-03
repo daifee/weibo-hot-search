@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704281653297,
+  "endTime": 1704285171360,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -169,6 +169,14 @@
       "onboard_time": 1704274475,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1924898,
+      "num": 1240800,
+      "word": "萧山通报郝劭文妻子曝女儿被霸凌",
+      "onboard_time": 1704283411,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1892107,
@@ -699,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1079735,
+      "num": 1079735,
+      "word": "女子在公园被陌生男子连刺30多刀",
+      "onboard_time": 1704282334,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1064930,
       "num": 1064930,
       "word": "2024年三倍工资日历",
@@ -729,6 +745,14 @@
       "onboard_time": 1704100837,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1035478,
+      "num": 1035478,
+      "word": "现在的导师骂人可真高级",
+      "onboard_time": 1704279456,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1029811,
@@ -1948,7 +1972,7 @@
     },
     {
       "raw_hot": 537474,
-      "num": 231037,
+      "num": 250664,
       "word": "清华一本科生转学至双非院校",
       "onboard_time": 1704279337,
       "rank": 20,
@@ -2001,6 +2025,14 @@
       "onboard_time": 1704273934,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 524363,
+      "num": 459347,
+      "word": "郝劭文发声",
+      "onboard_time": 1704285093,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 523785,
@@ -2219,20 +2251,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 477075,
-      "num": 431031,
-      "word": "现在的导师骂人可真高级",
-      "onboard_time": 1704279456,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 476949,
       "num": 476949,
       "word": "花儿与少年",
       "onboard_time": 1704257974,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476021,
+      "num": 476021,
+      "word": "石宇奇",
+      "onboard_time": 1704283290,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 475998,
@@ -2259,6 +2291,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 473652,
+      "num": 473652,
+      "word": "香港演员尹子维打卡哈尔滨盒饭一条街",
+      "onboard_time": 1704281613,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472633,
       "num": 472633,
       "word": "光与夜之恋 强娶了",
@@ -2273,6 +2313,14 @@
       "onboard_time": 1704204033,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 470453,
+      "num": 470453,
+      "word": "日本又发生4.8级地震",
+      "onboard_time": 1704282693,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467310,
@@ -2353,54 +2401,6 @@
       "onboard_time": 1704151404,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 441693,
-      "num": 441693,
-      "word": "国色芳华开拍",
-      "onboard_time": 1704163297,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 440777,
-      "num": 406172,
-      "word": "日本地震灾区一市90%房屋损毁",
-      "onboard_time": 1704263969,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438405,
-      "num": 438405,
-      "word": "以军空袭致哈马斯领导人丧生",
-      "onboard_time": 1704258214,
-      "rank": 22,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 436116,
-      "num": 436116,
-      "word": "宝宝在军营被爸爸战友抢着抱",
-      "onboard_time": 1704246151,
-      "rank": 14,
-      "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 435892,
-      "num": 371567,
-      "word": "家有儿女 尴尬",
-      "onboard_time": 1704032173,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 432964,
-      "num": 432964,
-      "word": "红海行动2阵容官宣",
-      "onboard_time": 1704042462,
-      "rank": 45,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

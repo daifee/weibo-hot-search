@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704281653297,
+  "endTime": 1704285171360,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -425,6 +425,14 @@
       "onboard_time": 1704034635,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1924898,
+      "num": 1240800,
+      "word": "萧山通报郝劭文妻子曝女儿被霸凌",
+      "onboard_time": 1704283411,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1901372,
@@ -1091,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1079735,
+      "num": 1079735,
+      "word": "女子在公园被陌生男子连刺30多刀",
+      "onboard_time": 1704282334,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1067283,
       "num": 867417,
       "word": "Queencard中文版",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1704005432,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1035478,
+      "num": 1035478,
+      "word": "现在的导师骂人可真高级",
+      "onboard_time": 1704279456,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1029813,
@@ -2692,7 +2716,7 @@
     },
     {
       "raw_hot": 537474,
-      "num": 231037,
+      "num": 250664,
       "word": "清华一本科生转学至双非院校",
       "onboard_time": 1704279337,
       "rank": 20,
@@ -2777,6 +2801,14 @@
       "onboard_time": 1704273934,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 524363,
+      "num": 459347,
+      "word": "郝劭文发声",
+      "onboard_time": 1704285093,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 523785,
@@ -3075,14 +3107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 477075,
-      "num": 431031,
-      "word": "现在的导师骂人可真高级",
-      "onboard_time": 1704279456,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 476949,
       "num": 476949,
       "word": "花儿与少年",
@@ -3097,6 +3121,14 @@
       "onboard_time": 1703982689,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 476021,
+      "num": 476021,
+      "word": "石宇奇",
+      "onboard_time": 1704283290,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 475998,
@@ -3123,6 +3155,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 473652,
+      "num": 473652,
+      "word": "香港演员尹子维打卡哈尔滨盒饭一条街",
+      "onboard_time": 1704281613,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472633,
       "num": 472633,
       "word": "光与夜之恋 强娶了",
@@ -3137,6 +3177,14 @@
       "onboard_time": 1704204033,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 470453,
+      "num": 470453,
+      "word": "日本又发生4.8级地震",
+      "onboard_time": 1704282693,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470395,
@@ -3323,6 +3371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434083,
+      "num": 434083,
+      "word": "尔滨背刺了整个东北",
+      "onboard_time": 1704283110,
+      "rank": 12,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 432964,
       "num": 432964,
       "word": "红海行动2阵容官宣",
@@ -3340,7 +3396,7 @@
     },
     {
       "raw_hot": 430651,
-      "num": 230916,
+      "num": 246720,
       "word": "美国妈妈流行给婴儿舌头划一刀",
       "onboard_time": 1704278374,
       "rank": 21,
@@ -4587,6 +4643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286967,
+      "num": 286967,
+      "word": "哈尔滨文旅回应火爆出圈",
+      "onboard_time": 1704281191,
+      "rank": 35,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 286623,
       "num": 286623,
       "word": "哈尔滨旅游",
@@ -4867,6 +4931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267855,
+      "num": 267855,
+      "word": "1460元繁花双人餐每天限20套",
+      "onboard_time": 1704284612,
+      "rank": 17,
+      "category": "社会新闻,剧集"
+    },
+    {
       "raw_hot": 267687,
       "num": 267687,
       "word": "邓为巴黎卡诗大中华区代言人",
@@ -5027,6 +5099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258912,
+      "num": 258912,
+      "word": "樊振东呼吁把比赛还给运动员",
+      "onboard_time": 1704284612,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258790,
       "num": 258790,
       "word": "武汉汉口江滩雕塑一孩变三孩",
@@ -5137,6 +5217,14 @@
       "onboard_time": 1704086192,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250699,
+      "num": 250699,
+      "word": "陈楚生也没抢到演唱会门票",
+      "onboard_time": 1704280892,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 250164,
@@ -5387,14 +5475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235339,
-      "num": 235339,
-      "word": "陈楚生也没抢到演唱会门票",
-      "onboard_time": 1704280892,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 235242,
       "num": 235242,
       "word": "唐嫣繁花官配",
@@ -5521,6 +5601,14 @@
       "onboard_time": 1704096101,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 229382,
+      "num": 229382,
+      "word": "婉拒彭于晏两次",
+      "onboard_time": 1704284133,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 228872,
@@ -6113,6 +6201,14 @@
       "onboard_time": 1704190413,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 203276,
+      "num": 203276,
+      "word": "nana tour",
+      "onboard_time": 1704283532,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 202992,
@@ -7195,14 +7291,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 171953,
-      "num": 171953,
-      "word": "哈尔滨文旅回应火爆出圈",
-      "onboard_time": 1704281191,
-      "rank": 35,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 171783,
       "num": 171783,
       "word": "暖阳明年见",
@@ -8283,6 +8371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142956,
+      "num": 142956,
+      "word": "学员考驾照太紧张坐到副驾驶",
+      "onboard_time": 1704284794,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142923,
       "num": 142923,
       "word": "故宫2024开门红壁纸",
@@ -8465,14 +8561,6 @@
       "onboard_time": 1704259531,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 139270,
-      "num": 139270,
-      "word": "香港演员尹子维打卡哈尔滨盒饭一条街",
-      "onboard_time": 1704281613,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 139265,
@@ -8979,6 +9067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125621,
+      "num": 125621,
+      "word": "在自己出生证明上按下爪印的小狗",
+      "onboard_time": 1704283110,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125455,
       "num": 125455,
       "word": "新年第一天就被狗狗整笑了",
@@ -9411,6 +9507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111953,
+      "num": 111953,
+      "word": "樊振东3比2约奇克",
+      "onboard_time": 1704282154,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111143,
       "num": 111143,
       "word": "一张图找准你适合养啥宠物",
@@ -9635,6 +9739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102229,
+      "num": 102229,
+      "word": "突然理解那些很少看手机的人了",
+      "onboard_time": 1704284193,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101839,
       "num": 101839,
       "word": "克莱又拉了",
@@ -9697,6 +9809,14 @@
       "onboard_time": 1704004530,
       "rank": 43,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 98998,
+      "num": 98998,
+      "word": "BLG战胜NIP",
+      "onboard_time": 1704282452,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 97235,
