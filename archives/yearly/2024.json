@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704270139904,
+  "endTime": 1704270900810,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -691,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1018800,
+      "num": 1018800,
+      "word": "小砂糖橘",
+      "onboard_time": 1704266490,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1013321,
       "num": 328515,
       "word": "女子二胎分娩后肠子内脏往外凸",
@@ -873,14 +881,6 @@
       "onboard_time": 1704155318,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 889322,
-      "num": 889322,
-      "word": "小砂糖橘",
-      "onboard_time": 1704266490,
-      "rank": 18,
-      "category": "旅游"
     },
     {
       "raw_hot": 889026,
@@ -1355,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 693711,
+      "num": 693711,
+      "word": "哈尔滨提醒宾馆酒店把握机遇",
+      "onboard_time": 1704268349,
+      "rank": 5,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 690923,
       "num": 528124,
       "word": "日本地震震区中国游客夫妇发声",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1704097419,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 666807,
+      "num": 380017,
+      "word": "秦岚泳衣外穿",
+      "onboard_time": 1704269370,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 663577,
@@ -1553,14 +1569,6 @@
       "onboard_time": 1704024106,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 636045,
-      "num": 636045,
-      "word": "哈尔滨提醒宾馆酒店把握机遇",
-      "onboard_time": 1704268349,
-      "rank": 5,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 632257,
@@ -1971,6 +1979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 501225,
+      "num": 501225,
+      "word": "新一小兰共用一条围巾",
+      "onboard_time": 1704267270,
+      "rank": 7,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 501198,
       "num": 501198,
       "word": "繁花 范志毅",
@@ -2105,14 +2121,6 @@
       "onboard_time": 1704076716,
       "rank": 34,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 472995,
-      "num": 472995,
-      "word": "新一小兰共用一条围巾",
-      "onboard_time": 1704267270,
-      "rank": 7,
-      "category": "动漫"
     },
     {
       "raw_hot": 472633,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704205058,
       "rank": 26,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 409928,
-      "num": 409928,
-      "word": "宋茜王鹤棣屋顶着火YouTube播放量",
-      "onboard_time": 1704263969,
-      "rank": 13,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
