@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704238453421,
+  "endTime": 1704244523909,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -323,6 +323,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1431104,
+      "num": 1431104,
+      "word": "孩子甲流刚好又中招乙流",
+      "onboard_time": 1704239306,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1427162,
       "num": 1427162,
       "word": "iPhone为什么只有P大写",
@@ -473,6 +481,14 @@
       "onboard_time": 1704095795,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1162080,
+      "num": 1162080,
+      "word": "苹果市值一夜蒸发7660亿元",
+      "onboard_time": 1704239187,
+      "rank": 1,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 1154144,
@@ -795,6 +811,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 835757,
+      "num": 835757,
+      "word": "鄂伦春族都请来了",
+      "onboard_time": 1704238585,
+      "rank": 3,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 835471,
       "num": 773386,
       "word": "难听",
@@ -809,6 +833,14 @@
       "onboard_time": 1704101020,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 831717,
+      "num": 831717,
+      "word": "警方通报高校干部酒后家暴打死妻子",
+      "onboard_time": 1704241652,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 830891,
@@ -889,6 +921,14 @@
       "onboard_time": 1704166538,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784715,
+      "num": 784715,
+      "word": "太超前了尔滨",
+      "onboard_time": 1704207095,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 780131,
@@ -1331,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606147,
+      "num": 547065,
+      "word": "周一围 这次赶上朱丹的嘴",
+      "onboard_time": 1704243213,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 603697,
       "num": 603697,
       "word": "广东一地公示8名躺平休闲人员",
@@ -1353,14 +1401,6 @@
       "onboard_time": 1704201154,
       "rank": 33,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 590793,
-      "num": 590793,
-      "word": "太超前了尔滨",
-      "onboard_time": 1704207095,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 588343,
@@ -1401,6 +1441,14 @@
       "onboard_time": 1704121419,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574290,
+      "num": 574290,
+      "word": "19岁景甜的西雅图vlog",
+      "onboard_time": 1704237741,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 573295,
@@ -1456,6 +1504,30 @@
       "word": "日本导演竹内亮地震后发声",
       "onboard_time": 1704154415,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548815,
+      "num": 548815,
+      "word": "美国哈佛大学校长宣布辞职",
+      "onboard_time": 1704240330,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 548510,
+      "num": 548510,
+      "word": "怪力侄女 病娇叔叔",
+      "onboard_time": 1704242014,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 546390,
+      "num": 546390,
+      "word": "未来一周日本可能还有强震",
+      "onboard_time": 1704238706,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1667,8 +1739,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 475620,
-      "num": 475620,
+      "raw_hot": 475998,
+      "num": 475998,
       "word": "郭麒麟亲了郭德纲一口",
       "onboard_time": 1704236298,
       "rank": 4,
@@ -1713,6 +1785,14 @@
       "onboard_time": 1704085833,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 466549,
+      "num": 466549,
+      "word": "日本以业务过失致人伤亡嫌疑调查飞机事故",
+      "onboard_time": 1704240933,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460366,
@@ -1867,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418071,
+      "num": 418071,
+      "word": "萌兰在院子里挖了4年宝贝",
+      "onboard_time": 1704238765,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415989,
       "num": 415989,
       "word": "李现国色芳华妆造",
@@ -2019,12 +2107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384526,
+      "num": 384526,
+      "word": "偶像剧顶配",
+      "onboard_time": 1704243391,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 381523,
       "num": 381523,
       "word": "金智秀与哥哥成立新公司",
       "onboard_time": 1704174033,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379287,
+      "num": 379287,
+      "word": "日本地震死亡升至57人",
+      "onboard_time": 1704238103,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377691,
@@ -2275,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320204,
+      "num": 320204,
+      "word": "迪丽热巴起诉两家商行维权",
+      "onboard_time": 1704238645,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319311,
       "num": 314936,
       "word": "生孩子对痛经的影响",
@@ -2305,6 +2417,14 @@
       "onboard_time": 1704163717,
       "rank": 19,
       "category": "剧集,美妆"
+    },
+    {
+      "raw_hot": 316531,
+      "num": 316531,
+      "word": "一等功喜报到家他和家人却被打码",
+      "onboard_time": 1704243453,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316490,
@@ -2417,6 +2537,14 @@
       "onboard_time": 1704207155,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 299863,
+      "num": 299863,
+      "word": "哈尔滨的惊喜每天不重样",
+      "onboard_time": 1704242614,
+      "rank": 25,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 297573,
@@ -2683,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267687,
+      "num": 267687,
+      "word": "邓为巴黎卡诗大中华区代言人",
+      "onboard_time": 1704241351,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267052,
       "num": 267052,
       "word": "王源去新疆了",
@@ -2715,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264699,
+      "num": 264699,
+      "word": "王栎鑫帮王一博整理领结",
+      "onboard_time": 1704237864,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262188,
       "num": 262188,
       "word": "奚梦瑶回应网友说何猷君不犟嘴",
@@ -2737,6 +2881,14 @@
       "onboard_time": 1704074675,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261495,
+      "num": 261495,
+      "word": "张雪峰将给贫困生发电脑",
+      "onboard_time": 1704240270,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 259018,
@@ -2793,6 +2945,14 @@
       "onboard_time": 1704157777,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252045,
+      "num": 252045,
+      "word": "一夜间松花江上蹦出N个大雪人",
+      "onboard_time": 1704243213,
+      "rank": 29,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 251515,
@@ -2859,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243070,
+      "num": 243070,
+      "word": "爸爸给4岁儿子种出一个果园",
+      "onboard_time": 1704243630,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243063,
       "num": 243063,
       "word": "武汉跨年气球碰电线炸出火花",
@@ -2872,6 +3040,14 @@
       "word": "苹果2023年首度停更iPad",
       "onboard_time": 1704154114,
       "rank": 29,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 239453,
+      "num": 239453,
+      "word": "分析师预计iPhone16销售疲软",
+      "onboard_time": 1704242192,
+      "rank": 31,
       "category": "数码"
     },
     {
@@ -3411,6 +3587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198330,
+      "num": 198330,
+      "word": "你怎么看南方小土豆这一称呼",
+      "onboard_time": 1704243692,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197657,
       "num": 196057,
       "word": "鲜虾一口酥",
@@ -3569,14 +3753,6 @@
       "onboard_time": 1704190113,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190707,
-      "num": 190707,
-      "word": "日本地震死亡升至57人",
-      "onboard_time": 1704238103,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190237,
@@ -3755,6 +3931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 179571,
+      "num": 179571,
+      "word": "繁花胡歌马伊琍初遇镜头",
+      "onboard_time": 1704232693,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178586,
       "num": 178586,
       "word": "俄罗斯远东地区多地发布海啸预警",
@@ -3793,6 +3977,14 @@
       "onboard_time": 1704089312,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177322,
+      "num": 177322,
+      "word": "韩最大在野党党首两度遇袭",
+      "onboard_time": 1704239427,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 177222,
@@ -3849,6 +4041,14 @@
       "onboard_time": 1704202417,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 171955,
+      "num": 171955,
+      "word": "国内油价新年首调或涨价",
+      "onboard_time": 1704243874,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 171674,
@@ -4099,6 +4299,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 156607,
+      "num": 156607,
+      "word": "李在明曾多次遭到死亡威胁",
+      "onboard_time": 1704238885,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 156394,
       "num": 560581,
       "word": "四川自贡发生3.2级地震",
@@ -4225,6 +4433,14 @@
       "onboard_time": 1704187413,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150694,
+      "num": 150694,
+      "word": "繁花剧评",
+      "onboard_time": 1704244235,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 150571,
@@ -4403,6 +4619,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141989,
+      "num": 141989,
+      "word": "多家卫视晒跨年晚会战报均称获得第一",
+      "onboard_time": 1704228553,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141878,
+      "num": 141878,
+      "word": "韩警方介绍李在明遇袭初步调查结果",
+      "onboard_time": 1704239427,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 141780,
       "num": 141780,
       "word": "张佳宁大碴子味女星",
@@ -4489,6 +4721,14 @@
       "onboard_time": 1704098079,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 138611,
+      "num": 138611,
+      "word": "偶遇庄达菲在酒馆唱民谣",
+      "onboard_time": 1704240988,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 138352,
@@ -4707,6 +4947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125980,
+      "num": 125980,
+      "word": "王健林再卖一线城市万达广场",
+      "onboard_time": 1704244469,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 125455,
       "num": 125455,
       "word": "新年第一天就被狗狗整笑了",
@@ -4747,6 +4995,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 122157,
+      "num": 122157,
+      "word": "B太敦煌游良心的姐走红",
+      "onboard_time": 1704242071,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121999,
       "num": 121999,
       "word": "JDG晋级德杯四强",
@@ -4777,14 +5033,6 @@
       "onboard_time": 1704156877,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120717,
-      "num": 120717,
-      "word": "多家卫视晒跨年晚会战报均称获得第一",
-      "onboard_time": 1704228553,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 120508,
@@ -4851,14 +5099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114012,
-      "num": 114012,
-      "word": "王栎鑫帮王一博整理领结",
-      "onboard_time": 1704237864,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113259,
       "num": 261381,
       "word": "元梦之星不放过2023任何一个梗",
@@ -4897,14 +5137,6 @@
       "onboard_time": 1704040552,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 109767,
-      "num": 109767,
-      "word": "繁花胡歌马伊琍初遇镜头",
-      "onboard_time": 1704232693,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 108900,
@@ -5121,14 +5353,6 @@
       "onboard_time": 1704053476,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84689,
-      "num": 84689,
-      "word": "19岁景甜的西雅图vlog",
-      "onboard_time": 1704237741,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 84639,

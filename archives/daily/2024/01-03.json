@@ -1,7 +1,15 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704238453421,
+  "endTime": 1704244523909,
   "band_list": [
+    {
+      "raw_hot": 1431104,
+      "num": 1431104,
+      "word": "孩子甲流刚好又中招乙流",
+      "onboard_time": 1704239306,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1317466,
       "num": 1317466,
@@ -9,6 +17,14 @@
       "onboard_time": 1704206677,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1162080,
+      "num": 1162080,
+      "word": "苹果市值一夜蒸发7660亿元",
+      "onboard_time": 1704239187,
+      "rank": 1,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 880268,
@@ -27,12 +43,52 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 835757,
+      "num": 835757,
+      "word": "鄂伦春族都请来了",
+      "onboard_time": 1704238585,
+      "rank": 3,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 831717,
+      "num": 831717,
+      "word": "警方通报高校干部酒后家暴打死妻子",
+      "onboard_time": 1704241652,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784715,
+      "num": 784715,
+      "word": "太超前了尔滨",
+      "onboard_time": 1704207095,
+      "rank": 4,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 745276,
       "num": 745276,
       "word": "主播声称几万元貂皮卖399大妈狂下单",
       "onboard_time": 1704224235,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606147,
+      "num": 547065,
+      "word": "周一围 这次赶上朱丹的嘴",
+      "onboard_time": 1704243213,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 574290,
+      "num": 574290,
+      "word": "19岁景甜的西雅图vlog",
+      "onboard_time": 1704237741,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 573295,
@@ -51,20 +107,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 557177,
-      "num": 557177,
-      "word": "太超前了尔滨",
-      "onboard_time": 1704207095,
-      "rank": 4,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 551900,
       "num": 551900,
       "word": "南方小土豆是什么梗",
       "onboard_time": 1704207635,
       "rank": 5,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 548815,
+      "num": 548815,
+      "word": "美国哈佛大学校长宣布辞职",
+      "onboard_time": 1704240330,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 548510,
+      "num": 548510,
+      "word": "怪力侄女 病娇叔叔",
+      "onboard_time": 1704242014,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 546390,
+      "num": 546390,
+      "word": "未来一周日本可能还有强震",
+      "onboard_time": 1704238706,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535489,
@@ -91,19 +163,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 475620,
-      "num": 475620,
+      "raw_hot": 475998,
+      "num": 475998,
       "word": "郭麒麟亲了郭德纲一口",
       "onboard_time": 1704236298,
       "rank": 4,
       "category": "演出"
     },
     {
+      "raw_hot": 466549,
+      "num": 466549,
+      "word": "日本以业务过失致人伤亡嫌疑调查飞机事故",
+      "onboard_time": 1704240933,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459512,
-      "num": 144503,
+      "num": 317738,
       "word": "女子二胎分娩后肠子内脏往外凸",
       "onboard_time": 1704200852,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418071,
+      "num": 418071,
+      "word": "萌兰在院子里挖了4年宝贝",
+      "onboard_time": 1704238765,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -123,12 +211,44 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 384526,
+      "num": 384526,
+      "word": "偶像剧顶配",
+      "onboard_time": 1704243391,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 379287,
+      "num": 379287,
+      "word": "日本地震死亡升至57人",
+      "onboard_time": 1704238103,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327276,
       "num": 327276,
       "word": "枭起青壤 迪丽热巴陈哲远",
       "onboard_time": 1704204577,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320204,
+      "num": 320204,
+      "word": "迪丽热巴起诉两家商行维权",
+      "onboard_time": 1704238645,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 316531,
+      "num": 316531,
+      "word": "一等功喜报到家他和家人却被打码",
+      "onboard_time": 1704243453,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311987,
@@ -145,6 +265,14 @@
       "onboard_time": 1704211709,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 299863,
+      "num": 299863,
+      "word": "哈尔滨的惊喜每天不重样",
+      "onboard_time": 1704242614,
+      "rank": 25,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 282661,
@@ -171,6 +299,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267687,
+      "num": 267687,
+      "word": "邓为巴黎卡诗大中华区代言人",
+      "onboard_time": 1704241351,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 264699,
+      "num": 264699,
+      "word": "王栎鑫帮王一博整理领结",
+      "onboard_time": 1704237864,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 261495,
+      "num": 261495,
+      "word": "张雪峰将给贫困生发电脑",
+      "onboard_time": 1704240270,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 252045,
+      "num": 252045,
+      "word": "一夜间松花江上蹦出N个大雪人",
+      "onboard_time": 1704243213,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 251559,
       "num": 251559,
       "word": "繁花",
@@ -179,12 +339,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243070,
+      "num": 243070,
+      "word": "爸爸给4岁儿子种出一个果园",
+      "onboard_time": 1704243630,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242316,
       "num": 78314,
       "word": "日本羽田机场中国旅客发声",
       "onboard_time": 1704193591,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239453,
+      "num": 239453,
+      "word": "分析师预计iPhone16销售疲软",
+      "onboard_time": 1704242192,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 228110,
@@ -196,7 +372,7 @@
     },
     {
       "raw_hot": 227595,
-      "num": 140574,
+      "num": 178598,
       "word": "生孩子对痛经的影响",
       "onboard_time": 1704207335,
       "rank": 21,
@@ -211,11 +387,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190707,
-      "num": 190707,
-      "word": "日本地震死亡升至57人",
-      "onboard_time": 1704238103,
-      "rank": 15,
+      "raw_hot": 198330,
+      "num": 198330,
+      "word": "你怎么看南方小土豆这一称呼",
+      "onboard_time": 1704243692,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -235,12 +411,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179571,
+      "num": 179571,
+      "word": "繁花胡歌马伊琍初遇镜头",
+      "onboard_time": 1704232693,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177322,
+      "num": 177322,
+      "word": "韩最大在野党党首两度遇袭",
+      "onboard_time": 1704239427,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 171955,
+      "num": 171955,
+      "word": "国内油价新年首调或涨价",
+      "onboard_time": 1704243874,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 166299,
       "num": 140558,
       "word": "林一刘浩存全剧尺度最大的吻戏",
       "onboard_time": 1704184775,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165281,
+      "num": 165281,
+      "word": "白狐出来接客 东北虎被泼雪",
+      "onboard_time": 1704202417,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 161763,
@@ -251,20 +459,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156607,
+      "num": 156607,
+      "word": "李在明曾多次遭到死亡威胁",
+      "onboard_time": 1704238885,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 155122,
       "num": 155122,
       "word": "今年我一定瘦",
       "onboard_time": 1704207155,
       "rank": 18,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 154522,
-      "num": 154522,
-      "word": "白狐出来接客 东北虎被泼雪",
-      "onboard_time": 1704202417,
-      "rank": 41,
-      "category": "旅游"
     },
     {
       "raw_hot": 153432,
@@ -283,12 +491,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150694,
+      "num": 150694,
+      "word": "繁花剧评",
+      "onboard_time": 1704244235,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143994,
       "num": 140532,
       "word": "刘诗诗的晚安短信",
       "onboard_time": 1704202833,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141989,
+      "num": 141989,
+      "word": "多家卫视晒跨年晚会战报均称获得第一",
+      "onboard_time": 1704228553,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141878,
+      "num": 141878,
+      "word": "韩警方介绍李在明遇袭初步调查结果",
+      "onboard_time": 1704239427,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 140583,
@@ -315,6 +547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138611,
+      "num": 138611,
+      "word": "偶遇庄达菲在酒馆唱民谣",
+      "onboard_time": 1704240988,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133618,
       "num": 133618,
       "word": "向佐用婴儿车推郭碧婷",
@@ -323,12 +563,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120717,
-      "num": 120717,
-      "word": "多家卫视晒跨年晚会战报均称获得第一",
-      "onboard_time": 1704228553,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 125980,
+      "num": 125980,
+      "word": "王健林再卖一线城市万达广场",
+      "onboard_time": 1704244469,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 122157,
+      "num": 122157,
+      "word": "B太敦煌游良心的姐走红",
+      "onboard_time": 1704242071,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120633,
@@ -361,22 +609,6 @@
       "onboard_time": 1704203916,
       "rank": 35,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 114012,
-      "num": 114012,
-      "word": "王栎鑫帮王一博整理领结",
-      "onboard_time": 1704237864,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 109767,
-      "num": 109767,
-      "word": "繁花胡歌马伊琍初遇镜头",
-      "onboard_time": 1704232693,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 103894,
@@ -433,14 +665,6 @@
       "onboard_time": 1704178231,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84689,
-      "num": 84689,
-      "word": "19岁景甜的西雅图vlog",
-      "onboard_time": 1704237741,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 79540,
@@ -563,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33070,
+      "num": 875112,
+      "word": "航天员太空开饭前互飞饺子",
+      "onboard_time": 1704181358,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27826,
       "num": 27826,
       "word": "日本一飞机机场跑道起火",
@@ -577,14 +809,6 @@
       "onboard_time": 1704219738,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 20256,
-      "num": 710815,
-      "word": "航天员太空开饭前互飞饺子",
-      "onboard_time": 1704181358,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18968,
