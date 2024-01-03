@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704280527960,
+  "endTime": 1704281653297,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1555,6 +1555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 656149,
+      "num": 656149,
+      "word": "加湿器肺炎",
+      "onboard_time": 1704279033,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 654331,
       "num": 654331,
       "word": "青岛保安刺死外卖员背后",
@@ -1803,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 577511,
+      "num": 577511,
+      "word": "樊振东vs达科",
+      "onboard_time": 1704281431,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 577325,
       "num": 577325,
       "word": "樊振东说无队内cp",
@@ -1931,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537474,
+      "num": 231037,
+      "word": "清华一本科生转学至双非院校",
+      "onboard_time": 1704279337,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534964,
       "num": 524689,
       "word": "迪丽热巴新年首套高定",
@@ -2035,14 +2059,6 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 504974,
-      "num": 504974,
-      "word": "加湿器肺炎",
-      "onboard_time": 1704279033,
-      "rank": 8,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 502919,
       "num": 502919,
       "word": "林俊杰跨年演出完整版",
@@ -2123,14 +2139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 491614,
-      "num": 211812,
-      "word": "清华一本科生转学至双非院校",
-      "onboard_time": 1704279337,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491409,
       "num": 491409,
       "word": "新年壁纸",
@@ -2209,6 +2217,14 @@
       "onboard_time": 1704201032,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 477075,
+      "num": 431031,
+      "word": "现在的导师骂人可真高级",
+      "onboard_time": 1704279456,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 476949,
@@ -2395,20 +2411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430651,
+      "num": 230916,
+      "word": "美国妈妈流行给婴儿舌头划一刀",
+      "onboard_time": 1704278374,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430631,
       "num": 430631,
       "word": "杨紫许龄月二搭",
       "onboard_time": 1704192815,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 429457,
-      "num": 206468,
-      "word": "美国妈妈流行给婴儿舌头划一刀",
-      "onboard_time": 1704278374,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 426800,
@@ -2587,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401276,
+      "num": 401276,
+      "word": "王安宇弥补了辛芷蕾的遗憾",
+      "onboard_time": 1704280052,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400578,
       "num": 400578,
       "word": "小猫出去打架打输了",
@@ -2625,6 +2649,14 @@
       "onboard_time": 1704104259,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 394585,
+      "num": 394585,
+      "word": "你也有今天定档",
+      "onboard_time": 1704280892,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 394390,
@@ -3265,14 +3297,6 @@
       "onboard_time": 1704258752,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 293039,
-      "num": 174948,
-      "word": "现在的导师骂人可真高级",
-      "onboard_time": 1704279456,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 292895,
@@ -3947,6 +3971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235339,
+      "num": 235339,
+      "word": "陈楚生也没抢到演唱会门票",
+      "onboard_time": 1704280892,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 235242,
       "num": 235242,
       "word": "唐嫣繁花官配",
@@ -4057,6 +4089,14 @@
       "onboard_time": 1704099397,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227695,
+      "num": 227695,
+      "word": "30岁大厂女生周末星巴克兼职",
+      "onboard_time": 1704281074,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227659,
@@ -4491,6 +4531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203608,
+      "num": 203608,
+      "word": "小米高管回应年会跳舞视频",
+      "onboard_time": 1704281012,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 203371,
       "num": 203371,
       "word": "黑龙江松花江上有白狐狸可以抱",
@@ -4651,6 +4699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195758,
+      "num": 195758,
+      "word": "广发基金高薪曝光",
+      "onboard_time": 1704280773,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195559,
       "num": 195559,
       "word": "日航起火客机 教科书般的紧急撤离",
@@ -4665,6 +4721,14 @@
       "onboard_time": 1704080316,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195226,
+      "num": 195226,
+      "word": "油价",
+      "onboard_time": 1704279754,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 195112,
@@ -4771,14 +4835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192863,
-      "num": 192863,
-      "word": "王安宇弥补了辛芷蕾的遗憾",
-      "onboard_time": 1704280052,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192442,
       "num": 192442,
       "word": "武庚纪",
@@ -4793,6 +4849,14 @@
       "onboard_time": 1704090272,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191623,
+      "num": 195249,
+      "word": "你也有今天",
+      "onboard_time": 1704280712,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 191548,
@@ -5283,6 +5347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171953,
+      "num": 171953,
+      "word": "哈尔滨文旅回应火爆出圈",
+      "onboard_time": 1704281191,
+      "rank": 35,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 171674,
       "num": 171674,
       "word": "鼻子不通的时候按压此处",
@@ -5321,6 +5393,14 @@
       "onboard_time": 1704272792,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169960,
+      "num": 169960,
+      "word": "汪小姐变脸",
+      "onboard_time": 1704281191,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 169912,
@@ -5649,14 +5729,6 @@
       "onboard_time": 1704008371,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155873,
-      "num": 155873,
-      "word": "油价",
-      "onboard_time": 1704279754,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 155804,
@@ -6099,6 +6171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140848,
+      "num": 140848,
+      "word": "网络延迟带走了我的爱情",
+      "onboard_time": 1704279993,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140528,
       "num": 140528,
       "word": "胡歌唐嫣繁花微博开分9.2",
@@ -6137,6 +6217,14 @@
       "onboard_time": 1704259531,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139270,
+      "num": 139270,
+      "word": "香港演员尹子维打卡哈尔滨盒饭一条街",
+      "onboard_time": 1704281613,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 139265,
@@ -6355,12 +6443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131309,
-      "num": 131309,
-      "word": "网络延迟带走了我的爱情",
-      "onboard_time": 1704279993,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 130329,
+      "num": 130329,
+      "word": "网球比赛中0被读作love",
+      "onboard_time": 1704281369,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 130188,
