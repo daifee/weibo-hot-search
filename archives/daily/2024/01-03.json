@@ -1,6 +1,6 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704256489906,
+  "endTime": 1704259061735,
   "band_list": [
     {
       "raw_hot": 2250367,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1292816,
+      "num": 1292816,
+      "word": "家有儿女大电影定档",
+      "onboard_time": 1704256474,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1277462,
       "num": 582937,
       "word": "刘诗诗吴奇隆带娃出门",
@@ -57,6 +65,14 @@
       "onboard_time": 1704239187,
       "rank": 1,
       "category": "数码,财经"
+    },
+    {
+      "raw_hot": 1098134,
+      "num": 1098134,
+      "word": "端木代言了美特斯邦威",
+      "onboard_time": 1704255574,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 1086952,
@@ -155,6 +171,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 750717,
+      "num": 750717,
+      "word": "高校干部酒后家暴打死妻子母亲发声",
+      "onboard_time": 1704255395,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746215,
       "num": 746215,
       "word": "脱轨被曝盗图",
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 739580,
-      "num": 437584,
+      "num": 457820,
       "word": "2024待爆",
       "onboard_time": 1704247949,
       "rank": 25,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 638646,
-      "num": 434909,
+      "num": 458066,
       "word": "南方小土豆",
       "onboard_time": 1704252753,
       "rank": 40,
@@ -267,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570368,
+      "num": 504219,
+      "word": "Jennie离开YG的原因",
+      "onboard_time": 1704258870,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561357,
       "num": 561357,
       "word": "董事长发的红包被我一个人领了",
@@ -307,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536107,
-      "num": 432977,
-      "word": "家有儿女大电影定档",
-      "onboard_time": 1704256474,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 535489,
       "num": 535489,
       "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
@@ -347,20 +371,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510747,
+      "num": 510747,
+      "word": "冻梨咖啡",
+      "onboard_time": 1704256714,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 505816,
       "num": 505816,
       "word": "新闻联播披露福建舰最新画面",
       "onboard_time": 1704246509,
       "rank": 13,
       "category": "军事,国内时政"
-    },
-    {
-      "raw_hot": 482942,
-      "num": 403515,
-      "word": "端木代言了美特斯邦威",
-      "onboard_time": 1704255574,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 475998,
@@ -395,14 +419,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 430648,
-      "num": 430648,
-      "word": "高校干部酒后家暴打死妻子母亲发声",
-      "onboard_time": 1704255395,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418291,
       "num": 418291,
       "word": "网易游戏上线未成年人模式",
@@ -435,6 +451,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 381460,
+      "num": 328183,
+      "word": "迪丽热巴椰汁pose",
+      "onboard_time": 1704256116,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379287,
       "num": 379287,
       "word": "日本地震死亡升至57人",
@@ -449,6 +473,14 @@
       "onboard_time": 1704248852,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365257,
+      "num": 303183,
+      "word": "花儿与少年",
+      "onboard_time": 1704257974,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 362553,
@@ -515,6 +547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 309104,
+      "num": 309104,
+      "word": "以军空袭致哈马斯领导人丧生",
+      "onboard_time": 1704258214,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 305495,
       "num": 305495,
       "word": "哈尔滨整不会了背后是整会了",
@@ -545,6 +585,14 @@
       "onboard_time": 1704251850,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289740,
+      "num": 289740,
+      "word": "原神 璃月食集",
+      "onboard_time": 1704258752,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 287521,
@@ -587,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273222,
+      "num": 273222,
+      "word": "初中生学习压力大举报补习班",
+      "onboard_time": 1704257617,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 269430,
       "num": 269430,
       "word": "Selena 最后一张专辑",
@@ -603,12 +659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266513,
+      "num": 266513,
+      "word": "李在明手术结束",
+      "onboard_time": 1704256116,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 264699,
       "num": 264699,
       "word": "王栎鑫帮王一博整理领结",
       "onboard_time": 1704237864,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263405,
+      "num": 263405,
+      "word": "原神流浪者",
+      "onboard_time": 1704257617,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 261495,
@@ -681,14 +753,6 @@
       "onboard_time": 1704193591,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239966,
-      "num": 239966,
-      "word": "迪丽热巴椰汁pose",
-      "onboard_time": 1704256116,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 239453,
@@ -779,12 +843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202585,
-      "num": 202585,
-      "word": "李在明手术结束",
-      "onboard_time": 1704256116,
-      "rank": 41,
-      "category": "国外时政"
+      "raw_hot": 207945,
+      "num": 207945,
+      "word": "华为知情人士回应与懂车帝停止合作",
+      "onboard_time": 1704258394,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 198330,
@@ -867,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178997,
+      "num": 178997,
+      "word": "别让狮子座丢脸",
+      "onboard_time": 1704257913,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178223,
       "num": 178223,
       "word": "脱轨",
@@ -915,6 +987,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 169424,
+      "num": 169424,
+      "word": "阿宝人情债",
+      "onboard_time": 1704258752,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169416,
       "num": 169416,
       "word": "2023Steam大奖",
@@ -961,6 +1041,14 @@
       "onboard_time": 1704202417,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 163998,
+      "num": 163998,
+      "word": "脱轨大结局 病号版燃冬",
+      "onboard_time": 1704256357,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 161763,
@@ -1147,6 +1235,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 106578,
+      "num": 443968,
+      "word": "呼伦贝尔的冬天有多壮美",
+      "onboard_time": 1704256474,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 103894,
       "num": 103894,
       "word": "单身即地狱3",
@@ -1275,6 +1371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 66646,
+      "num": 1045584,
+      "word": "神十七太空吃播上新",
+      "onboard_time": 1704253951,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66583,
       "num": 66583,
       "word": "国产镜片就比进口镜片差吗",
@@ -1283,28 +1387,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 66266,
-      "num": 164226,
-      "word": "呼伦贝尔的冬天有多壮美",
-      "onboard_time": 1704256474,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 66068,
       "num": 66068,
       "word": "宋佳朵拉头",
       "onboard_time": 1704234916,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 64796,
-      "num": 1029725,
-      "word": "神十七太空吃播上新",
-      "onboard_time": 1704253951,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61375,

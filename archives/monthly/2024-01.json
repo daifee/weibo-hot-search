@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704256489906,
+  "endTime": 1704259061735,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1292816,
+      "num": 1292816,
+      "word": "家有儿女大电影定档",
+      "onboard_time": 1704256474,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1290383,
       "num": 1290383,
       "word": "官方通报湖南一碗麻辣烫106元",
@@ -561,6 +569,14 @@
       "onboard_time": 1704182977,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1098134,
+      "num": 1098134,
+      "word": "端木代言了美特斯邦威",
+      "onboard_time": 1704255574,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 1092981,
@@ -1083,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750717,
+      "num": 750717,
+      "word": "高校干部酒后家暴打死妻子母亲发声",
+      "onboard_time": 1704255395,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746215,
       "num": 746215,
       "word": "脱轨被曝盗图",
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 739580,
-      "num": 437584,
+      "num": 457820,
       "word": "2024待爆",
       "onboard_time": 1704247949,
       "rank": 25,
@@ -1436,7 +1460,7 @@
     },
     {
       "raw_hot": 638646,
-      "num": 434909,
+      "num": 458066,
       "word": "南方小土豆",
       "onboard_time": 1704252753,
       "rank": 40,
@@ -1627,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570368,
+      "num": 504219,
+      "word": "Jennie离开YG的原因",
+      "onboard_time": 1704258870,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 566732,
       "num": 852570,
       "word": "跨年朋友圈",
@@ -1715,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536107,
-      "num": 432977,
-      "word": "家有儿女大电影定档",
-      "onboard_time": 1704256474,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 534964,
       "num": 524689,
       "word": "迪丽热巴新年首套高定",
@@ -1785,6 +1809,14 @@
       "onboard_time": 1704249630,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510747,
+      "num": 510747,
+      "word": "冻梨咖啡",
+      "onboard_time": 1704256714,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 509411,
@@ -1897,14 +1929,6 @@
       "onboard_time": 1704195991,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 482942,
-      "num": 403515,
-      "word": "端木代言了美特斯邦威",
-      "onboard_time": 1704255574,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 482437,
@@ -2096,14 +2120,6 @@
       "word": "与客机相撞日本保安厅飞机上已2人死亡",
       "onboard_time": 1704194672,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 430648,
-      "num": 430648,
-      "word": "高校干部酒后家暴打死妻子母亲发声",
-      "onboard_time": 1704255395,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2339,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381460,
+      "num": 328183,
+      "word": "迪丽热巴椰汁pose",
+      "onboard_time": 1704256116,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379287,
       "num": 379287,
       "word": "日本地震死亡升至57人",
@@ -2393,6 +2417,14 @@
       "onboard_time": 1704160960,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 365257,
+      "num": 303183,
+      "word": "花儿与少年",
+      "onboard_time": 1704257974,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 364546,
@@ -2723,6 +2755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 309104,
+      "num": 309104,
+      "word": "以军空袭致哈马斯领导人丧生",
+      "onboard_time": 1704258214,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 308491,
       "num": 241420,
       "word": "屋顶着火直拍",
@@ -2881,6 +2921,14 @@
       "onboard_time": 1704251850,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289740,
+      "num": 289740,
+      "word": "原神 璃月食集",
+      "onboard_time": 1704258752,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 289002,
@@ -3059,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273222,
+      "num": 273222,
+      "word": "初中生学习压力大举报补习班",
+      "onboard_time": 1704257617,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 272566,
       "num": 272566,
       "word": "吴千语很爱听施伯雄讲前任",
@@ -3123,6 +3179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266513,
+      "num": 266513,
+      "word": "李在明手术结束",
+      "onboard_time": 1704256116,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 266333,
       "num": 266333,
       "word": "白月梵星首发剧照",
@@ -3153,6 +3217,14 @@
       "onboard_time": 1704237864,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263405,
+      "num": 263405,
+      "word": "原神流浪者",
+      "onboard_time": 1704257617,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 262188,
@@ -3369,14 +3441,6 @@
       "onboard_time": 1704154114,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 239966,
-      "num": 239966,
-      "word": "迪丽热巴椰汁pose",
-      "onboard_time": 1704256116,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 239453,
@@ -3819,6 +3883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207945,
+      "num": 207945,
+      "word": "华为知情人士回应与懂车帝停止合作",
+      "onboard_time": 1704258394,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 207784,
       "num": 207784,
       "word": "99年小伙在制造业工作两年买新房",
@@ -3889,14 +3961,6 @@
       "onboard_time": 1704190413,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 202585,
-      "num": 202585,
-      "word": "李在明手术结束",
-      "onboard_time": 1704256116,
-      "rank": 41,
-      "category": "国外时政"
     },
     {
       "raw_hot": 202407,
@@ -4379,6 +4443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178997,
+      "num": 178997,
+      "word": "别让狮子座丢脸",
+      "onboard_time": 1704257913,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178586,
       "num": 178586,
       "word": "俄罗斯远东地区多地发布海啸预警",
@@ -4563,6 +4635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169424,
+      "num": 169424,
+      "word": "阿宝人情债",
+      "onboard_time": 1704258752,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169416,
       "num": 169416,
       "word": "2023Steam大奖",
@@ -4665,6 +4745,14 @@
       "onboard_time": 1704155016,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163998,
+      "num": 163998,
+      "word": "脱轨大结局 病号版燃冬",
+      "onboard_time": 1704256357,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 163440,
@@ -5699,6 +5787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106578,
+      "num": 443968,
+      "word": "呼伦贝尔的冬天有多壮美",
+      "onboard_time": 1704256474,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 106022,
       "num": 106022,
       "word": "B站 奥特曼",
@@ -6019,12 +6115,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 66266,
-      "num": 164226,
-      "word": "呼伦贝尔的冬天有多壮美",
-      "onboard_time": 1704256474,
-      "rank": 48,
-      "category": "旅游"
+      "raw_hot": 66646,
+      "num": 1045584,
+      "word": "神十七太空吃播上新",
+      "onboard_time": 1704253951,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66068,
@@ -6047,14 +6143,6 @@
       "num": 1968652,
       "word": "2024年愿美好如约而至",
       "onboard_time": 1704082353,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64796,
-      "num": 1029725,
-      "word": "神十七太空吃播上新",
-      "onboard_time": 1704253951,
       "rank": 2,
       "category": "社会新闻"
     },

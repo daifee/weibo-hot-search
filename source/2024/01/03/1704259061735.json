@@ -1,0 +1,410 @@
+{
+  "runTime": 1704259061735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1292816,
+        "num": 1292816,
+        "word": "家有儿女大电影定档",
+        "onboard_time": 1704256474,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1098134,
+        "num": 1098134,
+        "word": "端木代言了美特斯邦威",
+        "onboard_time": 1704255574,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66646,
+        "num": 1045584,
+        "word": "神十七太空吃播上新",
+        "onboard_time": 1704253951,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1043249,
+        "num": 1043249,
+        "word": "12306推出购票新功能",
+        "onboard_time": 1704248549,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773055,
+        "num": 773055,
+        "word": "辛芷蕾拍繁花学了两年舞蹈课",
+        "onboard_time": 1704248310,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 750717,
+        "num": 750717,
+        "word": "高校干部酒后家暴打死妻子母亲发声",
+        "onboard_time": 1704255395,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720421,
+        "num": 720421,
+        "word": "汪小姐 和过去决裂很彻底",
+        "onboard_time": 1704249212,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 700657,
+        "num": 700657,
+        "word": "华为与懂车帝停止合作",
+        "onboard_time": 1704254792,
+        "rank": 7,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 529407,
+        "num": 529407,
+        "word": "陈楚生 新年第一次抢票",
+        "onboard_time": 1704254614,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 510747,
+        "num": 510747,
+        "word": "冻梨咖啡",
+        "onboard_time": 1704256714,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 860722,
+        "num": 505694,
+        "word": "刘诗诗吴奇隆带娃出门",
+        "onboard_time": 1704248911,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570368,
+        "num": 504219,
+        "word": "Jennie离开YG的原因",
+        "onboard_time": 1704258870,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490038,
+        "num": 490038,
+        "word": "王健林再卖一线城市万达广场",
+        "onboard_time": 1704244469,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 461279,
+        "num": 461279,
+        "word": "脱轨美术组道歉",
+        "onboard_time": 1704254674,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429152,
+        "num": 458066,
+        "word": "南方小土豆",
+        "onboard_time": 1704252753,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457820,
+        "num": 457820,
+        "word": "2024待爆",
+        "onboard_time": 1704247949,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106578,
+        "num": 443968,
+        "word": "呼伦贝尔的冬天有多壮美",
+        "onboard_time": 1704256474,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 432886,
+        "num": 432886,
+        "word": "郑恺透露繁花与唐嫣结局HE",
+        "onboard_time": 1704249030,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350962,
+        "num": 350962,
+        "word": "日本地震死亡人数再上升",
+        "onboard_time": 1704251012,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339403,
+        "num": 339403,
+        "word": "三亚冬天败给哈尔滨",
+        "onboard_time": 1704246151,
+        "rank": 19,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 385870,
+        "num": 330593,
+        "word": "科目三的风吹到了JYP",
+        "onboard_time": 1704245251,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381460,
+        "num": 328183,
+        "word": "迪丽热巴椰汁pose",
+        "onboard_time": 1704256116,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309104,
+        "num": 309104,
+        "word": "以军空袭致哈马斯领导人丧生",
+        "onboard_time": 1704258214,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 365257,
+        "num": 303183,
+        "word": "花儿与少年",
+        "onboard_time": 1704257974,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289740,
+        "num": 289740,
+        "word": "原神 璃月食集",
+        "onboard_time": 1704258752,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 336834,
+        "num": 286783,
+        "word": "7年情侣上恋综被所有人劝分",
+        "onboard_time": 1704206677,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276297,
+        "num": 276297,
+        "word": "不想上班 领导是彭于晏也不行",
+        "onboard_time": 1704255693,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273222,
+        "num": 273222,
+        "word": "初中生学习压力大举报补习班",
+        "onboard_time": 1704257617,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 266513,
+        "num": 266513,
+        "word": "李在明手术结束",
+        "onboard_time": 1704256116,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 264562,
+        "num": 264562,
+        "word": "孩子甲流刚好又中招乙流",
+        "onboard_time": 1704239306,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263405,
+        "num": 263405,
+        "word": "原神流浪者",
+        "onboard_time": 1704257617,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245752,
+        "num": 245752,
+        "word": "脱轨被曝盗图",
+        "onboard_time": 1704245911,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216347,
+        "num": 216347,
+        "word": "宝宝在军营被爸爸战友抢着抱",
+        "onboard_time": 1704246151,
+        "rank": 32,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 207945,
+        "num": 207945,
+        "word": "华为知情人士回应与懂车帝停止合作",
+        "onboard_time": 1704258394,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201531,
+        "num": 201531,
+        "word": "周一围 这次赶上朱丹的嘴",
+        "onboard_time": 1704243213,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200907,
+        "num": 200907,
+        "word": "唐嫣繁花专访",
+        "onboard_time": 1704254852,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198243,
+        "num": 198243,
+        "word": "哈尔滨游客订不到房入住人大服务中心",
+        "onboard_time": 1704246929,
+        "rank": 36,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 194451,
+        "num": 194451,
+        "word": "网易游戏上线未成年人模式",
+        "onboard_time": 1704252632,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191996,
+        "num": 191996,
+        "word": "早晚餐吃得晚伤心脏",
+        "onboard_time": 1704244649,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182827,
+        "num": 182827,
+        "word": "繁花配角 戏里看表演",
+        "onboard_time": 1704250471,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181838,
+        "num": 181838,
+        "word": "考研时没有生活 考研后不会生活",
+        "onboard_time": 1704248249,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178997,
+        "num": 178997,
+        "word": "别让狮子座丢脸",
+        "onboard_time": 1704257913,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169424,
+        "num": 169424,
+        "word": "阿宝人情债",
+        "onboard_time": 1704258752,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165247,
+        "num": 165247,
+        "word": "扫地机器人咬狗尾巴半个小时不松口",
+        "onboard_time": 1704254733,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163998,
+        "num": 163998,
+        "word": "脱轨大结局 病号版燃冬",
+        "onboard_time": 1704256357,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163948,
+        "num": 163948,
+        "word": "董宇辉中国传媒大学演讲",
+        "onboard_time": 1704244531,
+        "rank": 45,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 156534,
+        "num": 156534,
+        "word": "JENNIE新综艺",
+        "onboard_time": 1704251850,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147060,
+        "num": 147060,
+        "word": "人体这5个器官最怕过冬",
+        "onboard_time": 1704248489,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146135,
+        "num": 146135,
+        "word": "新的一年如何年入百万",
+        "onboard_time": 1704250891,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145104,
+        "num": 145104,
+        "word": "Selena 最后一张专辑",
+        "onboard_time": 1704253774,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#归根到底就是让老百姓过上更好的日子#"
+    }
+  }
+}
