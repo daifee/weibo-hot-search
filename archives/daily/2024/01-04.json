@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704306149848,
+  "endTime": 1704306924699,
   "band_list": [
     {
       "raw_hot": 951561,
@@ -403,20 +403,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 67381,
+      "num": 67381,
+      "word": "女童上公交姥姥没追上急哭求助后车",
+      "onboard_time": 1704301642,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66186,
       "num": 66186,
       "word": "郭艾伦怎么了",
       "onboard_time": 1704289473,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64209,
-      "num": 64209,
-      "word": "女童上公交姥姥没追上急哭求助后车",
-      "onboard_time": 1704301642,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57856,
@@ -435,8 +435,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44943,
-      "num": 44943,
+      "raw_hot": 45172,
+      "num": 45172,
       "word": "迪丽热巴这多不好意思快走",
       "onboard_time": 1704303318,
       "rank": 24,
@@ -481,6 +481,14 @@
       "onboard_time": 1704303499,
       "rank": 31,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 16727,
+      "num": 19042,
+      "word": "美拉德小狗",
+      "onboard_time": 1704306436,
+      "rank": 49,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [
