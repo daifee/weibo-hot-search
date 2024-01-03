@@ -1,0 +1,410 @@
+{
+  "runTime": 1704286090203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1097198,
+        "num": 1097198,
+        "word": "福建地震",
+        "onboard_time": 1704277234,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731668,
+        "num": 731668,
+        "word": "现在的导师骂人可真高级",
+        "onboard_time": 1704279456,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60581,
+        "num": 576923,
+        "word": "为了让你2024去旅行多地开年晒美景",
+        "onboard_time": 1704273031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1992073,
+        "num": 576764,
+        "word": "萧山通报郝劭文妻子曝女儿被霸凌",
+        "onboard_time": 1704283411,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 573069,
+        "num": 573069,
+        "word": "尔滨背刺了整个东北",
+        "onboard_time": 1704283110,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 528570,
+        "num": 528570,
+        "word": "1460元繁花双人餐每天限20套",
+        "onboard_time": 1704284612,
+        "rank": 5,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 502516,
+        "num": 502516,
+        "word": "甜馨neinei十年后同框",
+        "onboard_time": 1704272133,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1498987,
+        "num": 494830,
+        "word": "女子在公园被陌生男子连刺30多刀",
+        "onboard_time": 1704282334,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474136,
+        "num": 474136,
+        "word": "石宇奇",
+        "onboard_time": 1704283290,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470461,
+        "num": 470461,
+        "word": "樊振东呼吁把比赛还给运动员",
+        "onboard_time": 1704284612,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 842131,
+        "num": 431786,
+        "word": "张雪峰回答1个亿和清华怎么选",
+        "onboard_time": 1704274475,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 791132,
+        "num": 416031,
+        "word": "郝劭文发声",
+        "onboard_time": 1704285093,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385747,
+        "num": 385747,
+        "word": "加湿器肺炎",
+        "onboard_time": 1704279033,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 367226,
+        "num": 367226,
+        "word": "香港演员尹子维打卡哈尔滨盒饭一条街",
+        "onboard_time": 1704281613,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358063,
+        "num": 358063,
+        "word": "小砂糖橘家长发声感谢东北朋友",
+        "onboard_time": 1704269971,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318999,
+        "num": 318999,
+        "word": "日本又发生4.8级地震",
+        "onboard_time": 1704282693,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305021,
+        "num": 305021,
+        "word": "拍繁花没有人相信自己真的杀青了",
+        "onboard_time": 1704273934,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265967,
+        "num": 265967,
+        "word": "陈楚生也没抢到演唱会门票",
+        "onboard_time": 1704280892,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264348,
+        "num": 264348,
+        "word": "哈尔滨文旅回应火爆出圈",
+        "onboard_time": 1704281191,
+        "rank": 18,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 248941,
+        "num": 248941,
+        "word": "婉拒彭于晏两次",
+        "onboard_time": 1704284133,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 377005,
+        "num": 248474,
+        "word": "清华一本科生转学至双非院校",
+        "onboard_time": 1704279337,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359839,
+        "num": 245953,
+        "word": "美国妈妈流行给婴儿舌头划一刀",
+        "onboard_time": 1704278374,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294007,
+        "num": 244417,
+        "word": "天官赐福",
+        "onboard_time": 1704285335,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 252896,
+        "num": 242847,
+        "word": "繁花",
+        "onboard_time": 1704285335,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241933,
+        "num": 241933,
+        "word": "你也有今天定档",
+        "onboard_time": 1704280892,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230820,
+        "num": 230820,
+        "word": "30岁大厂女生周末星巴克兼职",
+        "onboard_time": 1704281074,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209975,
+        "num": 209975,
+        "word": "王安宇弥补了辛芷蕾的遗憾",
+        "onboard_time": 1704280052,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207320,
+        "num": 207320,
+        "word": "我现在唯一的社交",
+        "onboard_time": 1704285392,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196452,
+        "num": 196452,
+        "word": "nana tour",
+        "onboard_time": 1704283532,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178532,
+        "num": 178532,
+        "word": "学员考驾照太紧张坐到副驾驶",
+        "onboard_time": 1704284794,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176197,
+        "num": 176197,
+        "word": "秦岚泳衣外穿",
+        "onboard_time": 1704269370,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165564,
+        "num": 165564,
+        "word": "胡歌 扛剧",
+        "onboard_time": 1704285454,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156814,
+        "num": 156814,
+        "word": "迪丽热巴展示泳衣",
+        "onboard_time": 1704261812,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163877,
+        "num": 155814,
+        "word": "王家卫 上海情结",
+        "onboard_time": 1704263850,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146000,
+        "num": 146000,
+        "word": "樊振东vs达科",
+        "onboard_time": 1704281431,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143088,
+        "num": 143088,
+        "word": "霉霉 恶女心态拒绝内耗",
+        "onboard_time": 1704270756,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136048,
+        "num": 136048,
+        "word": "班上转来一位新同学来自甘肃积石山",
+        "onboard_time": 1704285214,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125191,
+        "num": 125191,
+        "word": "哈尔滨已经把艺术家送上街头",
+        "onboard_time": 1704285392,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123324,
+        "num": 123324,
+        "word": "突然理解那些很少看手机的人了",
+        "onboard_time": 1704284193,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122348,
+        "num": 122348,
+        "word": "凤隐纳元启为夫",
+        "onboard_time": 1704285755,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121296,
+        "num": 121296,
+        "word": "在自己出生证明上按下爪印的小狗",
+        "onboard_time": 1704283110,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120232,
+        "num": 120232,
+        "word": "胡锡进预测今年A股将上涨",
+        "onboard_time": 1704285274,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120055,
+        "num": 120055,
+        "word": "广发基金高薪曝光",
+        "onboard_time": 1704280773,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115556,
+        "num": 115556,
+        "word": "小猫出去打架打输了",
+        "onboard_time": 1704273092,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107727,
+        "num": 107727,
+        "word": "上班久了感觉自己充满班张力",
+        "onboard_time": 1704273092,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105592,
+        "num": 105592,
+        "word": "将进酒的将读qiang",
+        "onboard_time": 1704269250,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 98746,
+        "num": 102983,
+        "word": "胡锡进开年两天亏4800元",
+        "onboard_time": 1704278374,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100905,
+        "num": 100905,
+        "word": "Jennie离开YG的原因",
+        "onboard_time": 1704258870,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96275,
+        "num": 96275,
+        "word": "林心如 武艺老在长沙",
+        "onboard_time": 1704270689,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91230,
+        "num": 91230,
+        "word": "油价",
+        "onboard_time": 1704279754,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}

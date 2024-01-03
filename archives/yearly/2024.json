@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704285171360,
+  "endTime": 1704286090203,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -171,7 +171,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1924898,
+      "raw_hot": 1992073,
       "num": 1240800,
       "word": "萧山通报郝劭文妻子曝女儿被霸凌",
       "onboard_time": 1704283411,
@@ -361,6 +361,14 @@
       "onboard_time": 1704078273,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1498987,
+      "num": 1079735,
+      "word": "女子在公园被陌生男子连刺30多刀",
+      "onboard_time": 1704282334,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1496042,
@@ -705,14 +713,6 @@
       "onboard_time": 1704249212,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1079735,
-      "num": 1079735,
-      "word": "女子在公园被陌生男子连刺30多刀",
-      "onboard_time": 1704282334,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1064930,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1704082772,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 791132,
+      "num": 459347,
+      "word": "郝劭文发声",
+      "onboard_time": 1704285093,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 790162,
@@ -1883,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573069,
+      "num": 573069,
+      "word": "尔滨背刺了整个东北",
+      "onboard_time": 1704283110,
+      "rank": 12,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 566732,
       "num": 852570,
       "word": "跨年朋友圈",
@@ -2003,6 +2019,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 528570,
+      "num": 528570,
+      "word": "1460元繁花双人餐每天限20套",
+      "onboard_time": 1704284612,
+      "rank": 17,
+      "category": "社会新闻,剧集"
+    },
+    {
       "raw_hot": 527298,
       "num": 527298,
       "word": "上海薪资连续4个季度领跑全国",
@@ -2025,14 +2049,6 @@
       "onboard_time": 1704273934,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 524363,
-      "num": 459347,
-      "word": "郝劭文发声",
-      "onboard_time": 1704285093,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 523785,
@@ -2315,6 +2331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470461,
+      "num": 470461,
+      "word": "樊振东呼吁把比赛还给运动员",
+      "onboard_time": 1704284612,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 470453,
       "num": 470453,
       "word": "日本又发生4.8级地震",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1704108398,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 450536,
-      "num": 450536,
-      "word": "日航起火客机上17人受伤",
-      "onboard_time": 1704197013,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 446733,
-      "num": 412357,
-      "word": "窦靖童等的不是公交是孙燕姿吧",
-      "onboard_time": 1704087813,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 443073,
-      "num": 443073,
-      "word": "杨迪檀健次 P图",
-      "onboard_time": 1704151404,
-      "rank": 12,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
