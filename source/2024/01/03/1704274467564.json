@@ -1,0 +1,410 @@
+{
+  "runTime": 1704274467564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 993052,
+        "num": 993052,
+        "word": "小砂糖橘",
+        "onboard_time": 1704266490,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 660697,
+        "num": 660697,
+        "word": "小砂糖橘家长发声感谢东北朋友",
+        "onboard_time": 1704269971,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55539,
+        "num": 629010,
+        "word": "为了让你2024去旅行多地开年晒美景",
+        "onboard_time": 1704273031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118071,
+        "num": 627205,
+        "word": "甜馨neinei十年后同框",
+        "onboard_time": 1704272133,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621394,
+        "num": 621394,
+        "word": "北大试点取消绩点",
+        "onboard_time": 1704272611,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 481045,
+        "num": 481045,
+        "word": "林心如 武艺老在长沙",
+        "onboard_time": 1704270689,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475729,
+        "num": 475729,
+        "word": "哈尔滨提醒宾馆酒店把握机遇",
+        "onboard_time": 1704268349,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 409587,
+        "num": 409587,
+        "word": "猫咪吞食顾客1克拉钻石",
+        "onboard_time": 1704268829,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404532,
+        "num": 404532,
+        "word": "叶酸吃多了真的会致癌吗",
+        "onboard_time": 1704259951,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 400643,
+        "num": 400643,
+        "word": "00后向太直播间拍下估值800万豪宅",
+        "onboard_time": 1704264449,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 948611,
+        "num": 398872,
+        "word": "霉霉 恶女心态拒绝内耗",
+        "onboard_time": 1704270756,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 883382,
+        "num": 398224,
+        "word": "郝劭文妻子曝女儿遭遇校园霸凌",
+        "onboard_time": 1704266850,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684616,
+        "num": 398198,
+        "word": "秦岚泳衣外穿",
+        "onboard_time": 1704269370,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396924,
+        "num": 396924,
+        "word": "将进酒的将读qiang",
+        "onboard_time": 1704269250,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 59536,
+        "num": 376517,
+        "word": "陈都灵原生妆好高级",
+        "onboard_time": 1704254251,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 376184,
+        "num": 376184,
+        "word": "广州平均月薪11186元",
+        "onboard_time": 1704267932,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 361838,
+        "num": 361838,
+        "word": "上班久了感觉自己充满班张力",
+        "onboard_time": 1704273092,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287783,
+        "num": 287783,
+        "word": "迪丽热巴展示泳衣",
+        "onboard_time": 1704261812,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279197,
+        "num": 279197,
+        "word": "小猫出去打架打输了",
+        "onboard_time": 1704273092,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253633,
+        "num": 253633,
+        "word": "74岁老人做眼部手术死亡",
+        "onboard_time": 1704262291,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253262,
+        "num": 253262,
+        "word": "东北虎排队等着被泼雪",
+        "onboard_time": 1704273575,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250658,
+        "num": 250658,
+        "word": "东北女生模仿南方小土豆一开口就露馅",
+        "onboard_time": 1704269971,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244152,
+        "num": 244152,
+        "word": "12306推出购票新功能",
+        "onboard_time": 1704248549,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240308,
+        "num": 240308,
+        "word": "辛芷蕾拍繁花学了两年舞蹈课",
+        "onboard_time": 1704248310,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224364,
+        "num": 224364,
+        "word": "警方通报女孩火车站遭猥亵",
+        "onboard_time": 1704273994,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221298,
+        "num": 221298,
+        "word": "曝林靖恩入住饭店后精神失控",
+        "onboard_time": 1704261992,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217794,
+        "num": 217794,
+        "word": "旅俄熊猫幼崽叫喀秋莎",
+        "onboard_time": 1704273215,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201664,
+        "num": 201664,
+        "word": "柳智敏 销量",
+        "onboard_time": 1704271111,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196506,
+        "num": 196506,
+        "word": "Jennie离开YG的原因",
+        "onboard_time": 1704258870,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196244,
+        "num": 196244,
+        "word": "阿根廷发生5.5级地震",
+        "onboard_time": 1704273393,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190179,
+        "num": 190179,
+        "word": "梁靖崑vs林昀儒",
+        "onboard_time": 1704271470,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185523,
+        "num": 185523,
+        "word": "新一小兰共用一条围巾",
+        "onboard_time": 1704267270,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 184949,
+        "num": 184949,
+        "word": "拍繁花没有人相信自己真的杀青了",
+        "onboard_time": 1704273934,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172905,
+        "num": 172905,
+        "word": "日本地震灾区一市90%房屋损毁",
+        "onboard_time": 1704263969,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169981,
+        "num": 169981,
+        "word": "校方工作人员回应干部酒后打死妻子",
+        "onboard_time": 1704272792,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156091,
+        "num": 156091,
+        "word": "王家卫 上海情结",
+        "onboard_time": 1704263850,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143446,
+        "num": 143446,
+        "word": "鸣龙少年 编剧",
+        "onboard_time": 1704268530,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143194,
+        "num": 143194,
+        "word": "哈尔滨站标注出租车价格表",
+        "onboard_time": 1704272133,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142218,
+        "num": 142218,
+        "word": "宋茜王鹤棣屋顶着火YouTube播放量",
+        "onboard_time": 1704263969,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141588,
+        "num": 141588,
+        "word": "黄杨钿甜 盛唐少女",
+        "onboard_time": 1704271771,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135813,
+        "num": 135813,
+        "word": "李国庆说1.3亿是双方平分",
+        "onboard_time": 1704274295,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134952,
+        "num": 134952,
+        "word": "外交部回应日航事故",
+        "onboard_time": 1704273756,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134187,
+        "num": 134187,
+        "word": "刘诗诗吴奇隆带娃出门",
+        "onboard_time": 1704248911,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133866,
+        "num": 133866,
+        "word": "交错战线",
+        "onboard_time": 1704273333,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123694,
+        "num": 123694,
+        "word": "小米汽车",
+        "onboard_time": 1704274354,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122879,
+        "num": 122879,
+        "word": "38城平均工资超1万元",
+        "onboard_time": 1704260130,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 120430,
+        "num": 120430,
+        "word": "云南小野生菌",
+        "onboard_time": 1704274234,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 119914,
+        "num": 119914,
+        "word": "第一次剪指甲的萨摩耶宝宝",
+        "onboard_time": 1704272251,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119905,
+        "num": 119905,
+        "word": "梁靖崑3比1林昀儒",
+        "onboard_time": 1704272792,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119640,
+        "num": 119640,
+        "word": "家有儿女大电影定档",
+        "onboard_time": 1704256474,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}

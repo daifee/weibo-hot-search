@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704273517372,
+  "endTime": 1704274467564,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -811,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 948611,
+      "num": 903016,
+      "word": "霉霉 恶女心态拒绝内耗",
+      "onboard_time": 1704270756,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 947576,
       "num": 1091912,
       "word": "新年红包",
@@ -881,14 +889,6 @@
       "onboard_time": 1704042941,
       "rank": 14,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 903016,
-      "num": 903016,
-      "word": "霉霉 恶女心态拒绝内耗",
-      "onboard_time": 1704270756,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 901947,
@@ -1491,6 +1491,14 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 660697,
+      "num": 660697,
+      "word": "小砂糖橘家长发声感谢东北朋友",
+      "onboard_time": 1704269971,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659807,
       "num": 659807,
       "word": "樊振东实名羡慕贾一凡奖金",
@@ -1619,19 +1627,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621394,
+      "num": 621394,
+      "word": "北大试点取消绩点",
+      "onboard_time": 1704272611,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 618045,
       "num": 618045,
       "word": "日本飞机相撞事故为航空事故",
       "onboard_time": 1704206916,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 617591,
-      "num": 617591,
-      "word": "小砂糖橘家长发声感谢东北朋友",
-      "onboard_time": 1704269971,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2451,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409587,
+      "num": 409587,
+      "word": "猫咪吞食顾客1克拉钻石",
+      "onboard_time": 1704268829,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409155,
       "num": 378750,
       "word": "拜登就日本强震发声明",
@@ -2491,20 +2507,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 396924,
+      "num": 396924,
+      "word": "将进酒的将读qiang",
+      "onboard_time": 1704269250,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 396493,
       "num": 396493,
       "word": "梅德韦杰夫预测2024年",
       "onboard_time": 1704067405,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 395284,
-      "num": 395284,
-      "word": "猫咪吞食顾客1克拉钻石",
-      "onboard_time": 1704268829,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395252,
@@ -2571,14 +2587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 380216,
-      "num": 276457,
-      "word": "将进酒的将读qiang",
-      "onboard_time": 1704269250,
-      "rank": 23,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 379287,
       "num": 379287,
       "word": "日本地震死亡升至57人",
@@ -2617,14 +2625,6 @@
       "onboard_time": 1704189756,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376080,
-      "num": 376080,
-      "word": "北大试点取消绩点",
-      "onboard_time": 1704272611,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 373085,
@@ -2681,6 +2681,14 @@
       "onboard_time": 1704244649,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 361838,
+      "num": 361838,
+      "word": "上班久了感觉自己充满班张力",
+      "onboard_time": 1704273092,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 361720,
@@ -3315,6 +3323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279197,
+      "num": 279197,
+      "word": "小猫出去打架打输了",
+      "onboard_time": 1704273092,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279015,
       "num": 279015,
       "word": "被唐嫣这个镜头美到了",
@@ -3593,6 +3609,14 @@
       "onboard_time": 1704185134,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 253262,
+      "num": 253262,
+      "word": "东北虎排队等着被泼雪",
+      "onboard_time": 1704273575,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 252984,
@@ -3995,6 +4019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224364,
+      "num": 224364,
+      "word": "警方通报女孩火车站遭猥亵",
+      "onboard_time": 1704273994,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224293,
       "num": 219246,
       "word": "文旅局也找它谈话了吗",
@@ -4115,12 +4147,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 217786,
-      "num": 191617,
-      "word": "上班久了感觉自己充满班张力",
-      "onboard_time": 1704273092,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 217794,
+      "num": 217794,
+      "word": "旅俄熊猫幼崽叫喀秋莎",
+      "onboard_time": 1704273215,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217514,
@@ -4467,6 +4499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196244,
+      "num": 196244,
+      "word": "阿根廷发生5.5级地震",
+      "onboard_time": 1704273393,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195559,
       "num": 195559,
       "word": "日航起火客机 教科书般的紧急撤离",
@@ -4481,14 +4521,6 @@
       "onboard_time": 1704080316,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195499,
-      "num": 195499,
-      "word": "旅俄熊猫幼崽叫喀秋莎",
-      "onboard_time": 1704273215,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195112,
@@ -4744,6 +4776,14 @@
       "word": "阿宝人情债",
       "onboard_time": 1704258752,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184949,
+      "num": 184949,
+      "word": "拍繁花没有人相信自己真的杀青了",
+      "onboard_time": 1704273934,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -5091,6 +5131,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 169981,
+      "num": 169981,
+      "word": "校方工作人员回应干部酒后打死妻子",
+      "onboard_time": 1704272792,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169912,
       "num": 827206,
       "word": "00后小伙在南极20米高处拧螺丝",
@@ -5153,14 +5201,6 @@
       "onboard_time": 1704103903,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 167720,
-      "num": 167720,
-      "word": "小猫出去打架打输了",
-      "onboard_time": 1704273092,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 166696,
@@ -5384,14 +5424,6 @@
       "word": "这朵花竟然是废弃窗帘布做出来的",
       "onboard_time": 1704111878,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157122,
-      "num": 157122,
-      "word": "校方工作人员回应干部酒后打死妻子",
-      "onboard_time": 1704272792,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -5755,6 +5787,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 143194,
+      "num": 143194,
+      "word": "哈尔滨站标注出租车价格表",
+      "onboard_time": 1704272133,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143072,
       "num": 143072,
       "word": "跨年档票房",
@@ -5971,6 +6011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135813,
+      "num": 135813,
+      "word": "李国庆说1.3亿是双方平分",
+      "onboard_time": 1704274295,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 135746,
       "num": 135746,
       "word": "格力玫瑰空调",
@@ -5985,6 +6033,14 @@
       "onboard_time": 1704105460,
       "rank": 49,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 134952,
+      "num": 134952,
+      "word": "外交部回应日航事故",
+      "onboard_time": 1704273756,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 134612,
@@ -6243,6 +6299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123694,
+      "num": 123694,
+      "word": "小米汽车",
+      "onboard_time": 1704274354,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123411,
       "num": 123411,
       "word": "箱根驿传",
@@ -6299,14 +6363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121056,
-      "num": 121056,
-      "word": "阿根廷发生5.5级地震",
-      "onboard_time": 1704273393,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120670,
       "num": 120670,
       "word": "百分百歌手嘉宾阵容",
@@ -6329,6 +6385,14 @@
       "onboard_time": 1704092970,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120430,
+      "num": 120430,
+      "word": "云南小野生菌",
+      "onboard_time": 1704274234,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 120329,
@@ -6947,6 +7011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55539,
+      "num": 861748,
+      "word": "为了让你2024去旅行多地开年晒美景",
+      "onboard_time": 1704273031,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55074,
       "num": 400302,
       "word": "在淘宝过生日还有这种待遇",
@@ -7183,14 +7255,6 @@
       "num": 744290,
       "word": "新年满弦开弓一起迈出新步伐",
       "onboard_time": 1704253829,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20549,
-      "num": 861748,
-      "word": "为了让你2024去旅行多地开年晒美景",
-      "onboard_time": 1704273031,
       "rank": 2,
       "category": "社会新闻"
     },
