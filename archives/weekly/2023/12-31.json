@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704252867300,
+  "endTime": 1704255672054,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -963,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1086952,
+      "num": 1086952,
+      "word": "汪小姐 和过去决裂很彻底",
+      "onboard_time": 1704249212,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1067283,
       "num": 867417,
       "word": "Queencard中文版",
@@ -1363,14 +1371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 848246,
-      "num": 848246,
-      "word": "汪小姐 和过去决裂很彻底",
-      "onboard_time": 1704249212,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 839076,
       "num": 839076,
       "word": "马思唯嘉宾白敬亭",
@@ -1611,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 752577,
+      "num": 752577,
+      "word": "华为与懂车帝停止合作",
+      "onboard_time": 1704254792,
+      "rank": 4,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 751793,
       "num": 751793,
       "word": "罗非鱼皮移植",
@@ -1689,6 +1697,14 @@
       "onboard_time": 1704185674,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 739580,
+      "num": 425516,
+      "word": "2024待爆",
+      "onboard_time": 1704247949,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 739523,
@@ -1947,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 663577,
+      "num": 663577,
+      "word": "郑恺透露繁花与唐嫣结局HE",
+      "onboard_time": 1704249030,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 661748,
       "num": 661748,
       "word": "北京什刹海有小孩落水众人接力救援",
@@ -2033,6 +2057,14 @@
       "onboard_time": 1704182195,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 638646,
+      "num": 424589,
+      "word": "南方小土豆",
+      "onboard_time": 1704252753,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 632257,
@@ -2153,6 +2185,14 @@
       "onboard_time": 1704025852,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 602109,
+      "num": 421045,
+      "word": "日本地震死亡人数再上升",
+      "onboard_time": 1704251012,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596688,
@@ -2411,6 +2451,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 534742,
+      "num": 534742,
+      "word": "陈楚生 新年第一次抢票",
+      "onboard_time": 1704254614,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 533640,
       "num": 533640,
       "word": "卡琳娜有笑容了",
@@ -2643,20 +2691,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 489128,
-      "num": 489128,
-      "word": "郑恺透露繁花与唐嫣结局HE",
-      "onboard_time": 1704249030,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 488651,
       "num": 488651,
       "word": "李在明遇袭后文在寅发声",
       "onboard_time": 1704183758,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 487583,
+      "num": 419901,
+      "word": "脱轨美术组道歉",
+      "onboard_time": 1704254674,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 485386,
@@ -3115,14 +3163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403684,
-      "num": 372816,
-      "word": "2024待爆",
-      "onboard_time": 1704247949,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 400534,
       "num": 400534,
       "word": "中等生为什么成绩上不去",
@@ -3185,6 +3225,14 @@
       "onboard_time": 1703951311,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391551,
+      "num": 391551,
+      "word": "网易游戏上线未成年人模式",
+      "onboard_time": 1704252632,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 391170,
@@ -3489,14 +3537,6 @@
       "onboard_time": 1704187773,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 340706,
-      "num": 340706,
-      "word": "日本地震死亡人数再上升",
-      "onboard_time": 1704251012,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339962,
@@ -4043,6 +4083,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 287521,
+      "num": 248274,
+      "word": "唐嫣繁花专访",
+      "onboard_time": 1704254852,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286623,
       "num": 286623,
       "word": "哈尔滨旅游",
@@ -4113,6 +4161,14 @@
       "onboard_time": 1704029278,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 282750,
+      "num": 282750,
+      "word": "A股",
+      "onboard_time": 1704161618,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 282111,
@@ -4265,6 +4321,14 @@
       "onboard_time": 1704191672,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269430,
+      "num": 269430,
+      "word": "Selena 最后一张专辑",
+      "onboard_time": 1704253774,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 269015,
@@ -4569,6 +4633,14 @@
       "onboard_time": 1704151647,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247075,
+      "num": 247075,
+      "word": "扫地机器人咬狗尾巴半个小时不松口",
+      "onboard_time": 1704254733,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 246725,
@@ -4915,14 +4987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225262,
-      "num": 225262,
-      "word": "A股",
-      "onboard_time": 1704161618,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 225172,
       "num": 225172,
       "word": "毕业后最可怕的事",
@@ -4987,6 +5051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222035,
+      "num": 222035,
+      "word": "新的一年如何年入百万",
+      "onboard_time": 1704250891,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220563,
       "num": 220563,
       "word": "B站 学英语神器",
@@ -5025,6 +5097,14 @@
       "onboard_time": 1704245552,
       "rank": 48,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 219455,
+      "num": 219455,
+      "word": "六代男团颜值",
+      "onboard_time": 1704252753,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 219401,
@@ -5555,14 +5635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 196335,
-      "num": 196335,
-      "word": "新的一年如何年入百万",
-      "onboard_time": 1704250891,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 195936,
       "num": 195936,
       "word": "徐涛 2023年没什么突出的成绩",
@@ -5691,6 +5763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192915,
+      "num": 192915,
+      "word": "高校干部酒后家暴打死妻子母亲发声",
+      "onboard_time": 1704255395,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192442,
       "num": 192442,
       "word": "武庚纪",
@@ -5737,14 +5817,6 @@
       "onboard_time": 1704010350,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 190505,
-      "num": 190505,
-      "word": "网易游戏上线未成年人模式",
-      "onboard_time": 1704252632,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 190361,
@@ -5969,6 +6041,14 @@
       "onboard_time": 1704022297,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181353,
+      "num": 181353,
+      "word": "走进鄂伦春族",
+      "onboard_time": 1704253473,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181253,
@@ -6283,6 +6363,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 170938,
+      "num": 170938,
+      "word": "端木代言了美特斯邦威",
+      "onboard_time": 1704255574,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170347,
       "num": 968858,
       "word": "这才是新年的意义",
@@ -6337,14 +6425,6 @@
       "onboard_time": 1704108819,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 169024,
-      "num": 169024,
-      "word": "南方小土豆",
-      "onboard_time": 1704252753,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168920,
@@ -6417,6 +6497,14 @@
       "onboard_time": 1703997991,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 165830,
+      "num": 165830,
+      "word": "2023内娱飞升榜",
+      "onboard_time": 1704254433,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 165691,
@@ -7321,14 +7409,6 @@
       "onboard_time": 1704004530,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140013,
-      "num": 140013,
-      "word": "六代男团颜值",
-      "onboard_time": 1704252753,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 139891,
@@ -8659,6 +8739,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 79215,
+      "num": 226183,
+      "word": "陈都灵原生妆好高级",
+      "onboard_time": 1704254251,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 79074,
       "num": 638644,
       "word": "爸妈弟弟拎上百包子扛羊腿陪女生跨年",
@@ -9011,6 +9099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 48750,
+      "num": 1029725,
+      "word": "神十七太空吃播上新",
+      "onboard_time": 1704253951,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48623,
       "num": 204129,
       "word": "小米央视人车家全生态战略合作",
@@ -9233,6 +9329,14 @@
       "onboard_time": 1704081632,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 31562,
+      "num": 219899,
+      "word": "当冬日江南遇上玲珑女孩",
+      "onboard_time": 1704253291,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 30375,
@@ -9503,6 +9607,9 @@
     },
     {
       "word": "#归根到底就是让老百姓过上更好的日子#"
+    },
+    {
+      "word": "#共同谱写中国式现代化的壮美华章#"
     }
   ]
 }

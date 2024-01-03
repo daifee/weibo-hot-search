@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704252867300,
+  "endTime": 1704255672054,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -571,6 +571,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1086952,
+      "num": 1086952,
+      "word": "汪小姐 和过去决裂很彻底",
+      "onboard_time": 1704249212,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1064930,
       "num": 1064930,
       "word": "2024年三倍工资日历",
@@ -859,14 +867,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 848246,
-      "num": 848246,
-      "word": "汪小姐 和过去决裂很彻底",
-      "onboard_time": 1704249212,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 835757,
       "num": 835757,
       "word": "鄂伦春族都请来了",
@@ -1051,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 752577,
+      "num": 752577,
+      "word": "华为与懂车帝停止合作",
+      "onboard_time": 1704254792,
+      "rank": 4,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 751793,
       "num": 751793,
       "word": "罗非鱼皮移植",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1704185674,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 739580,
+      "num": 425516,
+      "word": "2024待爆",
+      "onboard_time": 1704247949,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 739523,
@@ -1323,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 663577,
+      "num": 663577,
+      "word": "郑恺透露繁花与唐嫣结局HE",
+      "onboard_time": 1704249030,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 659807,
       "num": 659807,
       "word": "樊振东实名羡慕贾一凡奖金",
@@ -1393,6 +1417,14 @@
       "onboard_time": 1704182195,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 638646,
+      "num": 424589,
+      "word": "南方小土豆",
+      "onboard_time": 1704252753,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637196,
@@ -1488,6 +1520,14 @@
       "word": "广东一地公示8名躺平休闲人员",
       "onboard_time": 1704152730,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602109,
+      "num": 421045,
+      "word": "日本地震死亡人数再上升",
+      "onboard_time": 1704251012,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1667,6 +1707,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 534742,
+      "num": 534742,
+      "word": "陈楚生 新年第一次抢票",
+      "onboard_time": 1704254614,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 533640,
       "num": 533640,
       "word": "卡琳娜有笑容了",
@@ -1811,20 +1859,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 489128,
-      "num": 489128,
-      "word": "郑恺透露繁花与唐嫣结局HE",
-      "onboard_time": 1704249030,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 488651,
       "num": 488651,
       "word": "李在明遇袭后文在寅发声",
       "onboard_time": 1704183758,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 487583,
+      "num": 419901,
+      "word": "脱轨美术组道歉",
+      "onboard_time": 1704254674,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 485386,
@@ -2187,14 +2235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403684,
-      "num": 372816,
-      "word": "2024待爆",
-      "onboard_time": 1704247949,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 397568,
       "num": 397568,
       "word": "终于到了谈恋爱不怕爸妈知道的年纪",
@@ -2233,6 +2273,14 @@
       "onboard_time": 1704175412,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391551,
+      "num": 391551,
+      "word": "网易游戏上线未成年人模式",
+      "onboard_time": 1704252632,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 391170,
@@ -2353,54 +2401,6 @@
       "onboard_time": 1704244649,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 361720,
-      "num": 361720,
-      "word": "羽田机场",
-      "onboard_time": 1704188854,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360480,
-      "num": 360480,
-      "word": "中国驻大阪总领馆提醒中国公民加强防范",
-      "onboard_time": 1704103057,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355504,
-      "num": 819667,
-      "word": "跨年文案",
-      "onboard_time": 1703984130,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 353156,
-      "num": 353156,
-      "word": "爆燃日航搭载人员已全部撤离",
-      "onboard_time": 1704189030,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351800,
-      "num": 351800,
-      "word": "中美建交45周年",
-      "onboard_time": 1704076895,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 350487,
-      "num": 350487,
-      "word": "白银4.9级地震暂未有伤亡报告",
-      "onboard_time": 1704074794,
-      "rank": 15,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2427,6 +2427,9 @@
     },
     {
       "word": "#归根到底就是让老百姓过上更好的日子#"
+    },
+    {
+      "word": "#共同谱写中国式现代化的壮美华章#"
     }
   ]
 }
