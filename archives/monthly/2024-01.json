@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704292436986,
+  "endTime": 1704295099589,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2374677,
+      "num": 2374677,
+      "word": "龙年纪念币",
+      "onboard_time": 1704291034,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2356867,
       "num": 2356867,
       "word": "一个月不换的床单有多脏",
       "onboard_time": 1704100598,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2327633,
-      "num": 2327633,
-      "word": "龙年纪念币",
-      "onboard_time": 1704291034,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2284324,
@@ -513,6 +513,14 @@
       "onboard_time": 1704101077,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1298550,
+      "num": 1298550,
+      "word": "伊朗爆炸事件死亡人数上升至103人",
+      "onboard_time": 1704291879,
+      "rank": 6,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1292816,
@@ -1139,14 +1147,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 829647,
-      "num": 829647,
-      "word": "伊朗爆炸事件死亡人数上升至103人",
-      "onboard_time": 1704291879,
-      "rank": 6,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 827568,
       "num": 827568,
       "word": "丹麦女王宣布将退位",
@@ -1448,6 +1448,14 @@
       "word": "日本志贺核电站变压器起火",
       "onboard_time": 1704107139,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 718938,
+      "num": 718938,
+      "word": "龙年纪念钞预约",
+      "onboard_time": 1704293316,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2051,12 +2059,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 546460,
+      "num": 546460,
+      "word": "王楚钦比赛",
+      "onboard_time": 1704291336,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 546390,
       "num": 546390,
       "word": "未来一周日本可能还有强震",
       "onboard_time": 1704238706,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544137,
+      "num": 544137,
+      "word": "紧急避孕药的伤害",
+      "onboard_time": 1704290138,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 543978,
@@ -2089,14 +2113,6 @@
       "onboard_time": 1704109476,
       "rank": 7,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 531136,
-      "num": 531136,
-      "word": "紧急避孕药的伤害",
-      "onboard_time": 1704290138,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 530870,
@@ -2211,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 509239,
+      "num": 509239,
+      "word": "云南5人因不明炮弹落入受伤被送医",
+      "onboard_time": 1704293618,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505816,
       "num": 505816,
       "word": "新闻联播披露福建舰最新画面",
@@ -2291,14 +2315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 499361,
-      "num": 499361,
-      "word": "王楚钦比赛",
-      "onboard_time": 1704291336,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 496683,
       "num": 496683,
       "word": "林心如 武艺老在长沙",
@@ -2313,6 +2329,14 @@
       "onboard_time": 1704024348,
       "rank": 2,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 491558,
+      "num": 491558,
+      "word": "中行纪念币 进不去",
+      "onboard_time": 1704294396,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491409,
@@ -2449,6 +2473,14 @@
       "onboard_time": 1704085715,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 471645,
+      "num": 471645,
+      "word": "农行纪念币",
+      "onboard_time": 1704292535,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471137,
@@ -2728,6 +2760,14 @@
       "word": "警方通报女孩火车站遭猥亵",
       "onboard_time": 1704273994,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411578,
+      "num": 318095,
+      "word": "亚裔夫妇花10万美元试管诞下白人婴儿",
+      "onboard_time": 1704291698,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3187,6 +3227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338178,
+      "num": 338178,
+      "word": "辛芷蕾 影视综的花都开了",
+      "onboard_time": 1704293501,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337791,
       "num": 311900,
       "word": "王者荣耀上央视了",
@@ -3347,12 +3395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310819,
-      "num": 196797,
-      "word": "亚裔夫妇花10万美元试管诞下白人婴儿",
-      "onboard_time": 1704291698,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 315327,
+      "num": 315327,
+      "word": "王家卫在片场让马伊琍不要低头",
+      "onboard_time": 1704292716,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 310440,
@@ -3425,6 +3473,14 @@
       "onboard_time": 1704211709,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 305156,
+      "num": 305156,
+      "word": "李燃去桃李二班",
+      "onboard_time": 1704290435,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 304979,
@@ -3779,6 +3835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277041,
+      "num": 277041,
+      "word": "民警多问一句竟发现2名被拐孩子",
+      "onboard_time": 1704294576,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276560,
       "num": 276560,
       "word": "爷爷忘给孙女买玩具被太奶挥拐催促",
@@ -3817,6 +3881,14 @@
       "onboard_time": 1704269971,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271249,
+      "num": 271249,
+      "word": "巨蟹座的无所谓都是有所谓",
+      "onboard_time": 1704293433,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 269508,
@@ -3977,14 +4049,6 @@
       "onboard_time": 1704245429,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259964,
-      "num": 259964,
-      "word": "李燃去桃李二班",
-      "onboard_time": 1704290435,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 259018,
@@ -4347,6 +4411,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 231580,
+      "num": 231580,
+      "word": "陈都灵镜妖 妖怪界物理学霸",
+      "onboard_time": 1704292659,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231484,
       "num": 260139,
       "word": "期待2025",
@@ -4369,6 +4441,14 @@
       "onboard_time": 1704281074,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230489,
+      "num": 230489,
+      "word": "王者荣耀",
+      "onboard_time": 1704293857,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 229401,
@@ -4417,6 +4497,14 @@
       "onboard_time": 1704151947,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225867,
+      "num": 225867,
+      "word": "爱宝双胞胎女儿将正式与公众见面",
+      "onboard_time": 1704293316,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225562,
@@ -4529,6 +4617,14 @@
       "onboard_time": 1704032597,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221120,
+      "num": 221120,
+      "word": "二驴女儿",
+      "onboard_time": 1704294760,
+      "rank": 32,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 220563,
@@ -5275,6 +5371,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 188038,
+      "num": 188038,
+      "word": "热烈的爱和稳定的情绪无法共存",
+      "onboard_time": 1704294279,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187926,
       "num": 187926,
       "word": "消费左移深圳30元就能吃好",
@@ -5393,6 +5497,14 @@
       "onboard_time": 1704073536,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 182947,
+      "num": 182947,
+      "word": "我们家沈耀就不用浪费高三时间听了吧",
+      "onboard_time": 1704292055,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 182377,
@@ -5593,6 +5705,14 @@
       "onboard_time": 1704267992,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 175416,
+      "num": 175416,
+      "word": "付豪道歉",
+      "onboard_time": 1704294937,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 175407,
@@ -5907,14 +6027,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 164680,
-      "num": 164680,
-      "word": "我们家沈耀就不用浪费高三时间听了吧",
-      "onboard_time": 1704292055,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164311,
       "num": 164311,
       "word": "自贬是种极为严重的破窗效应",
@@ -6211,6 +6323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151691,
+      "num": 151691,
+      "word": "马龙赛后变追星现场",
+      "onboard_time": 1704294876,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151586,
       "num": 140537,
       "word": "张杰2024巡演",
@@ -6313,6 +6433,14 @@
       "onboard_time": 1704272133,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149250,
+      "num": 149250,
+      "word": "张万森林北星给孩子起名小菠萝",
+      "onboard_time": 1704294162,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 149117,

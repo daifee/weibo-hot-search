@@ -1,6 +1,6 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704292436986,
+  "endTime": 1704295099589,
   "band_list": [
     {
       "raw_hot": 5749865,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2327633,
-      "num": 2327633,
+      "raw_hot": 2374677,
+      "num": 2374677,
       "word": "龙年纪念币",
       "onboard_time": 1704291034,
       "rank": 1,
@@ -129,6 +129,14 @@
       "onboard_time": 1704206677,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1298550,
+      "num": 1298550,
+      "word": "伊朗爆炸事件死亡人数上升至103人",
+      "onboard_time": 1704291879,
+      "rank": 6,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1292816,
@@ -347,14 +355,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 829647,
-      "num": 829647,
-      "word": "伊朗爆炸事件死亡人数上升至103人",
-      "onboard_time": 1704291879,
-      "rank": 6,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 826343,
       "num": 826343,
       "word": "1460元繁花双人餐每天限20套",
@@ -449,6 +449,14 @@
       "onboard_time": 1704247949,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 718938,
+      "num": 718938,
+      "word": "龙年纪念钞预约",
+      "onboard_time": 1704293316,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 717152,
@@ -667,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 546460,
+      "num": 546460,
+      "word": "王楚钦比赛",
+      "onboard_time": 1704291336,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 546390,
       "num": 546390,
       "word": "未来一周日本可能还有强震",
@@ -675,20 +691,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544137,
+      "num": 544137,
+      "word": "紧急避孕药的伤害",
+      "onboard_time": 1704290138,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 535489,
       "num": 535489,
       "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
       "onboard_time": 1704188012,
       "rank": 6,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 531136,
-      "num": 531136,
-      "word": "紧急避孕药的伤害",
-      "onboard_time": 1704290138,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 527298,
@@ -771,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 509239,
+      "num": 509239,
+      "word": "云南5人因不明炮弹落入受伤被送医",
+      "onboard_time": 1704293618,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505816,
       "num": 505816,
       "word": "新闻联播披露福建舰最新画面",
@@ -803,20 +827,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 499361,
-      "num": 499361,
-      "word": "王楚钦比赛",
-      "onboard_time": 1704291336,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 496683,
       "num": 496683,
       "word": "林心如 武艺老在长沙",
       "onboard_time": 1704270689,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 491558,
+      "num": 491558,
+      "word": "中行纪念币 进不去",
+      "onboard_time": 1704294396,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486403,
@@ -857,6 +881,14 @@
       "onboard_time": 1704281613,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471645,
+      "num": 471645,
+      "word": "农行纪念币",
+      "onboard_time": 1704292535,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470461,
@@ -944,6 +976,14 @@
       "word": "警方通报女孩火车站遭猥亵",
       "onboard_time": 1704273994,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411578,
+      "num": 318095,
+      "word": "亚裔夫妇花10万美元试管诞下白人婴儿",
+      "onboard_time": 1704291698,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 338178,
+      "num": 338178,
+      "word": "辛芷蕾 影视综的花都开了",
+      "onboard_time": 1704293501,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 336896,
       "num": 336896,
       "word": "日本地震已致至少62人死亡",
@@ -1163,6 +1211,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 315327,
+      "num": 315327,
+      "word": "王家卫在片场让马伊琍不要低头",
+      "onboard_time": 1704292716,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311987,
       "num": 311987,
       "word": "雷军 50万以内有对手吗",
@@ -1171,20 +1227,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 310819,
-      "num": 196797,
-      "word": "亚裔夫妇花10万美元试管诞下白人婴儿",
-      "onboard_time": 1704291698,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305495,
       "num": 305495,
       "word": "哈尔滨整不会了背后是整会了",
       "onboard_time": 1704211709,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 305156,
+      "num": 305156,
+      "word": "李燃去桃李二班",
+      "onboard_time": 1704290435,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 304779,
@@ -1315,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277041,
+      "num": 277041,
+      "word": "民警多问一句竟发现2名被拐孩子",
+      "onboard_time": 1704294576,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275702,
       "num": 275702,
       "word": "59岁外卖员元旦当晚倒在送餐路上",
@@ -1337,6 +1401,14 @@
       "onboard_time": 1704269971,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271249,
+      "num": 271249,
+      "word": "巨蟹座的无所谓都是有所谓",
+      "onboard_time": 1704293433,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 269430,
@@ -1417,14 +1489,6 @@
       "onboard_time": 1704245429,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259964,
-      "num": 259964,
-      "word": "李燃去桃李二班",
-      "onboard_time": 1704290435,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 257502,
@@ -1539,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231580,
+      "num": 231580,
+      "word": "陈都灵镜妖 妖怪界物理学霸",
+      "onboard_time": 1704292659,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231484,
       "num": 260139,
       "word": "期待2025",
@@ -1563,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230489,
+      "num": 230489,
+      "word": "王者荣耀",
+      "onboard_time": 1704293857,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228110,
       "num": 140569,
       "word": "纽约",
@@ -1585,6 +1665,14 @@
       "onboard_time": 1704207335,
       "rank": 21,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 225867,
+      "num": 225867,
+      "word": "爱宝双胞胎女儿将正式与公众见面",
+      "onboard_time": 1704293316,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225562,
@@ -1641,6 +1729,14 @@
       "onboard_time": 1704276092,
       "rank": 25,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 221120,
+      "num": 221120,
+      "word": "二驴女儿",
+      "onboard_time": 1704294760,
+      "rank": 32,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 219745,
@@ -1883,6 +1979,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 188038,
+      "num": 188038,
+      "word": "热烈的爱和稳定的情绪无法共存",
+      "onboard_time": 1704294279,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186446,
       "num": 186446,
       "word": "王鹤棣derder进化史",
@@ -1937,6 +2041,14 @@
       "onboard_time": 1704249271,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182947,
+      "num": 182947,
+      "word": "我们家沈耀就不用浪费高三时间听了吧",
+      "onboard_time": 1704292055,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 182274,
@@ -2041,6 +2153,14 @@
       "onboard_time": 1704267992,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 175416,
+      "num": 175416,
+      "word": "付豪道歉",
+      "onboard_time": 1704294937,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 174950,
@@ -2219,14 +2339,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 164680,
-      "num": 164680,
-      "word": "我们家沈耀就不用浪费高三时间听了吧",
-      "onboard_time": 1704292055,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163998,
       "num": 163998,
       "word": "脱轨大结局 病号版燃冬",
@@ -2323,6 +2435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151691,
+      "num": 151691,
+      "word": "马龙赛后变追星现场",
+      "onboard_time": 1704294876,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151586,
       "num": 140537,
       "word": "张杰2024巡演",
@@ -2369,6 +2489,14 @@
       "onboard_time": 1704272133,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149250,
+      "num": 149250,
+      "word": "张万森林北星给孩子起名小菠萝",
+      "onboard_time": 1704294162,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 149117,
