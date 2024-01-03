@@ -1,6 +1,6 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704255672054,
+  "endTime": 1704256489906,
   "band_list": [
     {
       "raw_hot": 2250367,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 932808,
+      "num": 932808,
+      "word": "华为与懂车帝停止合作",
+      "onboard_time": 1704254792,
+      "rank": 4,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 880268,
       "num": 880268,
       "word": "跨年晚会真假唱鉴定",
@@ -131,20 +139,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 796230,
+      "num": 796230,
+      "word": "陈楚生 新年第一次抢票",
+      "onboard_time": 1704254614,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 784715,
       "num": 784715,
       "word": "太超前了尔滨",
       "onboard_time": 1704207095,
       "rank": 4,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 752577,
-      "num": 752577,
-      "word": "华为与懂车帝停止合作",
-      "onboard_time": 1704254792,
-      "rank": 4,
-      "category": "汽车,互联网"
     },
     {
       "raw_hot": 746215,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 739580,
-      "num": 425516,
+      "num": 437584,
       "word": "2024待爆",
       "onboard_time": 1704247949,
       "rank": 25,
@@ -187,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 676237,
+      "num": 436317,
+      "word": "日本地震死亡人数再上升",
+      "onboard_time": 1704251012,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663577,
       "num": 663577,
       "word": "郑恺透露繁花与唐嫣结局HE",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 638646,
-      "num": 424589,
+      "num": 434909,
       "word": "南方小土豆",
       "onboard_time": 1704252753,
       "rank": 40,
@@ -211,19 +227,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 613572,
+      "num": 613572,
+      "word": "脱轨美术组道歉",
+      "onboard_time": 1704254674,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 606701,
       "num": 606701,
       "word": "一等功喜报到家他和家人却被打码",
       "onboard_time": 1704243453,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 602109,
-      "num": 421045,
-      "word": "日本地震死亡人数再上升",
-      "onboard_time": 1704251012,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -291,20 +307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536107,
+      "num": 432977,
+      "word": "家有儿女大电影定档",
+      "onboard_time": 1704256474,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 535489,
       "num": 535489,
       "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
       "onboard_time": 1704188012,
       "rank": 6,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 534742,
-      "num": 534742,
-      "word": "陈楚生 新年第一次抢票",
-      "onboard_time": 1704254614,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 522207,
@@ -339,12 +355,12 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 487583,
-      "num": 419901,
-      "word": "脱轨美术组道歉",
-      "onboard_time": 1704254674,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 482942,
+      "num": 403515,
+      "word": "端木代言了美特斯邦威",
+      "onboard_time": 1704255574,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 475998,
@@ -379,6 +395,22 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 430648,
+      "num": 430648,
+      "word": "高校干部酒后家暴打死妻子母亲发声",
+      "onboard_time": 1704255395,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418291,
+      "num": 418291,
+      "word": "网易游戏上线未成年人模式",
+      "onboard_time": 1704252632,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 418071,
       "num": 418071,
       "word": "萌兰在院子里挖了4年宝贝",
@@ -393,14 +425,6 @@
       "onboard_time": 1704205058,
       "rank": 32,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 391551,
-      "num": 391551,
-      "word": "网易游戏上线未成年人模式",
-      "onboard_time": 1704252632,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 391083,
@@ -433,6 +457,14 @@
       "onboard_time": 1704244649,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 349230,
+      "num": 349230,
+      "word": "不想上班 领导是彭于晏也不行",
+      "onboard_time": 1704255693,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 336896,
@@ -516,7 +548,7 @@
     },
     {
       "raw_hot": 287521,
-      "num": 248274,
+      "num": 262469,
       "word": "唐嫣繁花专访",
       "onboard_time": 1704254852,
       "rank": 31,
@@ -651,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239966,
+      "num": 239966,
+      "word": "迪丽热巴椰汁pose",
+      "onboard_time": 1704256116,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239453,
       "num": 239453,
       "word": "分析师预计iPhone16销售疲软",
@@ -723,8 +763,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213078,
-      "num": 213078,
+      "raw_hot": 214710,
+      "num": 214710,
       "word": "他33岁失去左腿35岁站上世界舞台",
       "onboard_time": 1704248730,
       "rank": 48,
@@ -737,6 +777,14 @@
       "onboard_time": 1704251012,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202585,
+      "num": 202585,
+      "word": "李在明手术结束",
+      "onboard_time": 1704256116,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 198330,
@@ -761,14 +809,6 @@
       "onboard_time": 1704247469,
       "rank": 33,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 192915,
-      "num": 192915,
-      "word": "高校干部酒后家暴打死妻子母亲发声",
-      "onboard_time": 1704255395,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189123,
@@ -873,14 +913,6 @@
       "onboard_time": 1704245791,
       "rank": 40,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 170938,
-      "num": 170938,
-      "word": "端木代言了美特斯邦威",
-      "onboard_time": 1704255574,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 169416,
@@ -1251,12 +1283,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 66266,
+      "num": 164226,
+      "word": "呼伦贝尔的冬天有多壮美",
+      "onboard_time": 1704256474,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 66068,
       "num": 66068,
       "word": "宋佳朵拉头",
       "onboard_time": 1704234916,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 64796,
+      "num": 1029725,
+      "word": "神十七太空吃播上新",
+      "onboard_time": 1704253951,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61375,
@@ -1289,14 +1337,6 @@
       "onboard_time": 1704191616,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 48750,
-      "num": 1029725,
-      "word": "神十七太空吃播上新",
-      "onboard_time": 1704253951,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43627,
