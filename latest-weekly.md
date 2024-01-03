@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/31 00:21:53 ~ 2024/01/04 03:14:25
+本榜单时间：2023/12/31 00:21:53 ~ 2024/01/04 03:34:01
 </p>
 </blockquote>
 <p>
@@ -8663,6 +8663,12 @@ ITZY新歌MV公开（热度：20332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9E%E6%9C%9B2023%23" target="weibo">
 回望2023（热度：13929）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E9%83%BD%E8%83%BD%E6%88%90%E4%B8%BA%E6%98%8E%E5%BF%AB%E7%9A%84%E5%A5%B3%E5%AD%A9%23" target="weibo">
+希望大家都能成为明快的女孩（热度：13423）
 </a>
 </li>
 

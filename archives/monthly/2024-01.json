@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704309265584,
+  "endTime": 1704310441590,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -8433,6 +8433,14 @@
       "onboard_time": 1704227592,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13423,
+      "num": 13423,
+      "word": "希望大家都能成为明快的女孩",
+      "onboard_time": 1704309794,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 11944,
