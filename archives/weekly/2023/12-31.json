@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704291383890,
+  "endTime": 1704292436986,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -305,6 +305,14 @@
       "onboard_time": 1704100598,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2327633,
+      "num": 2327633,
+      "word": "龙年纪念币",
+      "onboard_time": 1704291034,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2321733,
@@ -995,14 +1003,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1149784,
-      "num": 1149784,
-      "word": "龙年纪念币",
-      "onboard_time": 1704291034,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1147480,
       "num": 1147480,
       "word": "爱如火上跨年 癫了",
@@ -1067,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1115123,
+      "num": 1115123,
+      "word": "女子每周拔罐放血200ml致重度贫血",
+      "onboard_time": 1704288034,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1109361,
       "num": 1109361,
       "word": "小砂糖橘",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1704258870,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1108661,
-      "num": 1108661,
-      "word": "女子每周拔罐放血200ml致重度贫血",
-      "onboard_time": 1704288034,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1107945,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1703946937,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1006362,
+      "num": 1006362,
+      "word": "网友街头偶遇刘强东越野车送出",
+      "onboard_time": 1704287735,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1006107,
@@ -1659,6 +1667,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 829647,
+      "num": 829647,
+      "word": "伊朗爆炸事件死亡人数上升至103人",
+      "onboard_time": 1704291879,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 827568,
       "num": 827568,
       "word": "丹麦女王宣布将退位",
@@ -1779,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789170,
+      "num": 789170,
+      "word": "清华一本科生转学至双非院校",
+      "onboard_time": 1704279337,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787922,
       "num": 2383195,
       "word": "小砂糖橘家长发声感谢东北朋友",
@@ -1793,14 +1817,6 @@
       "onboard_time": 1703998110,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 785998,
-      "num": 785998,
-      "word": "网友街头偶遇刘强东越野车送出",
-      "onboard_time": 1704287735,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 784715,
@@ -1952,14 +1968,6 @@
       "word": "网红欧可爱车祸事件肇事司机被刑拘",
       "onboard_time": 1704185674,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 739827,
-      "num": 739827,
-      "word": "清华一本科生转学至双非院校",
-      "onboard_time": 1704279337,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -2265,6 +2273,14 @@
       "onboard_time": 1704249030,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 662024,
+      "num": 662024,
+      "word": "付豪被驱逐",
+      "onboard_time": 1704290374,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 661748,
@@ -2827,6 +2843,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 531136,
+      "num": 531136,
+      "word": "紧急避孕药的伤害",
+      "onboard_time": 1704290138,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 530870,
       "num": 678138,
       "word": "两个小朋友你们被警方点名表扬了",
@@ -2868,7 +2892,7 @@
     },
     {
       "raw_hot": 525046,
-      "num": 339312,
+      "num": 344218,
       "word": "泡温泉会感染HPV吗",
       "onboard_time": 1704289657,
       "rank": 20,
@@ -3051,6 +3075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 502065,
+      "num": 502065,
+      "word": "林高远 多哈",
+      "onboard_time": 1704290614,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 501225,
       "num": 501225,
       "word": "新一小兰共用一条围巾",
@@ -3081,6 +3113,14 @@
       "onboard_time": 1704186032,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 499361,
+      "num": 499361,
+      "word": "王楚钦比赛",
+      "onboard_time": 1704291336,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 499232,
@@ -3787,14 +3827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 393975,
-      "num": 393975,
-      "word": "紧急避孕药的伤害",
-      "onboard_time": 1704290138,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 393943,
       "num": 393943,
       "word": "苏醒一家三口同框",
@@ -3921,14 +3953,6 @@
       "onboard_time": 1704189756,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 375609,
-      "num": 375609,
-      "word": "付豪被驱逐",
-      "onboard_time": 1704290374,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 373085,
@@ -4059,6 +4083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 351505,
+      "num": 351505,
+      "word": "琼斯被打掉三颗牙",
+      "onboard_time": 1704290797,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350487,
       "num": 350487,
       "word": "白银4.9级地震暂未有伤亡报告",
@@ -4089,14 +4121,6 @@
       "onboard_time": 1703997870,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 346555,
-      "num": 346555,
-      "word": "林高远 多哈",
-      "onboard_time": 1704290614,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 345575,
@@ -4433,6 +4457,14 @@
       "onboard_time": 1704189335,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310819,
+      "num": 196797,
+      "word": "亚裔夫妇花10万美元试管诞下白人婴儿",
+      "onboard_time": 1704291698,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310440,
@@ -4987,14 +5019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275255,
-      "num": 275255,
-      "word": "琼斯被打掉三颗牙",
-      "onboard_time": 1704290797,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 274541,
       "num": 274541,
       "word": "红白歌会节目单",
@@ -5257,6 +5281,14 @@
       "onboard_time": 1703938714,
       "rank": 18,
       "category": "电影,幽默"
+    },
+    {
+      "raw_hot": 259964,
+      "num": 259964,
+      "word": "李燃去桃李二班",
+      "onboard_time": 1704290435,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 259520,
@@ -5561,14 +5593,6 @@
       "onboard_time": 1704154114,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 241973,
-      "num": 241973,
-      "word": "李燃去桃李二班",
-      "onboard_time": 1704290435,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 239453,
@@ -7811,6 +7835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 164680,
+      "num": 164680,
+      "word": "我们家沈耀就不用浪费高三时间听了吧",
+      "onboard_time": 1704292055,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164311,
       "num": 164311,
       "word": "自贬是种极为严重的破窗效应",
@@ -9217,14 +9249,6 @@
       "onboard_time": 1704070533,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 128801,
-      "num": 128801,
-      "word": "王楚钦比赛",
-      "onboard_time": 1704291336,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 128393,
@@ -11108,7 +11132,7 @@
     },
     {
       "raw_hot": 21714,
-      "num": 1128511,
+      "num": 1197580,
       "word": "新年满弦开弓一起迈出新步伐",
       "onboard_time": 1704253829,
       "rank": 2,
