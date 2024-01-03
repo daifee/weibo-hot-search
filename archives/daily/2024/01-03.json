@@ -1,7 +1,15 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704245752639,
+  "endTime": 1704248889439,
   "band_list": [
+    {
+      "raw_hot": 1485559,
+      "num": 1485559,
+      "word": "王健林再卖一线城市万达广场",
+      "onboard_time": 1704244469,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
     {
       "raw_hot": 1431104,
       "num": 1431104,
@@ -25,6 +33,22 @@
       "onboard_time": 1704239187,
       "rank": 1,
       "category": "数码,财经"
+    },
+    {
+      "raw_hot": 962028,
+      "num": 962028,
+      "word": "科目三的风吹到了JYP",
+      "onboard_time": 1704245251,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 915180,
+      "num": 915180,
+      "word": "南方小土豆 刻板印象",
+      "onboard_time": 1704247110,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 880268,
@@ -59,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 806185,
+      "num": 806185,
+      "word": "董宇辉中国传媒大学演讲",
+      "onboard_time": 1704244531,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 784715,
       "num": 784715,
       "word": "太超前了尔滨",
@@ -83,20 +115,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 670200,
-      "num": 670200,
+      "raw_hot": 722780,
+      "num": 722780,
+      "word": "脱轨被曝盗图",
+      "onboard_time": 1704245911,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 686888,
+      "num": 686888,
       "word": "偶像剧顶配",
       "onboard_time": 1704243391,
       "rank": 19,
       "category": "剧集"
     },
     {
-      "raw_hot": 617998,
-      "num": 617998,
-      "word": "王健林再卖一线城市万达广场",
-      "onboard_time": 1704244469,
-      "rank": 47,
-      "category": "财经,社会新闻"
+      "raw_hot": 679744,
+      "num": 679744,
+      "word": "哈尔滨游客订不到房入住人大服务中心",
+      "onboard_time": 1704246929,
+      "rank": 8,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 606701,
@@ -105,6 +145,14 @@
       "onboard_time": 1704243453,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577029,
+      "num": 577029,
+      "word": "三亚冬天败给哈尔滨",
+      "onboard_time": 1704246151,
+      "rank": 11,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 574290,
@@ -163,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 540182,
-      "num": 487848,
-      "word": "董宇辉中国传媒大学演讲",
-      "onboard_time": 1704244531,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 535489,
       "num": 535489,
       "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
@@ -193,6 +233,14 @@
       "onboard_time": 1704206916,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505816,
+      "num": 505816,
+      "word": "新闻联播披露福建舰最新画面",
+      "onboard_time": 1704246509,
+      "rank": 13,
+      "category": "军事,国内时政"
     },
     {
       "raw_hot": 475998,
@@ -219,12 +267,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436116,
+      "num": 436116,
+      "word": "宝宝在军营被爸爸战友抢着抱",
+      "onboard_time": 1704246151,
+      "rank": 14,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 420771,
+      "num": 420771,
+      "word": "考研时没有生活 考研后不会生活",
+      "onboard_time": 1704248249,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 418071,
       "num": 418071,
       "word": "萌兰在院子里挖了4年宝贝",
       "onboard_time": 1704238765,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411751,
+      "num": 411751,
+      "word": "辛芷蕾拍繁花学了两年舞蹈课",
+      "onboard_time": 1704248310,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 410074,
@@ -251,16 +323,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343382,
-      "num": 332213,
+      "raw_hot": 362553,
+      "num": 334486,
       "word": "早晚餐吃得晚伤心脏",
       "onboard_time": 1704244649,
       "rank": 20,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 336819,
-      "num": 336819,
+      "raw_hot": 336896,
+      "num": 336896,
       "word": "日本地震已致至少62人死亡",
       "onboard_time": 1704244827,
       "rank": 19,
@@ -273,6 +345,14 @@
       "onboard_time": 1704204577,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322738,
+      "num": 322738,
+      "word": "上海已有三家万达广场被金融机构接手",
+      "onboard_time": 1704244768,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 320204,
@@ -323,28 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277306,
-      "num": 277306,
-      "word": "科目三的风吹到了JYP",
-      "onboard_time": 1704245251,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 275702,
       "num": 275702,
       "word": "59岁外卖员元旦当晚倒在送餐路上",
       "onboard_time": 1704205714,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275403,
-      "num": 243243,
-      "word": "上海已有三家万达广场被金融机构接手",
-      "onboard_time": 1704244768,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 267687,
@@ -371,6 +435,30 @@
       "category": "教育"
     },
     {
+      "raw_hot": 261384,
+      "num": 261384,
+      "word": "鞠婧祎跨年舞台 消音",
+      "onboard_time": 1704245429,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 257502,
+      "num": 257502,
+      "word": "孙艺洲说要cos吕布",
+      "onboard_time": 1704246030,
+      "rank": 24,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 253689,
+      "num": 253689,
+      "word": "2024待爆",
+      "onboard_time": 1704247949,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252045,
       "num": 252045,
       "word": "一夜间松花江上蹦出N个大雪人",
@@ -395,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242432,
+      "num": 242432,
+      "word": "56岁奶奶演13岁少年有多灵动",
+      "onboard_time": 1704245371,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242316,
       "num": 78314,
       "word": "日本羽田机场中国旅客发声",
@@ -403,20 +499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240458,
+      "num": 240458,
+      "word": "田曦薇人群中认出粉丝",
+      "onboard_time": 1704248852,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239453,
       "num": 239453,
       "word": "分析师预计iPhone16销售疲软",
       "onboard_time": 1704242192,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 234352,
-      "num": 234352,
-      "word": "56岁奶奶演13岁少年有多灵动",
-      "onboard_time": 1704245371,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228110,
@@ -443,6 +539,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219745,
+      "num": 219745,
+      "word": "谁在助长网红特权歪风",
+      "onboard_time": 1704245552,
+      "rank": 48,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 214061,
+      "num": 214061,
+      "word": "12306推出购票新功能",
+      "onboard_time": 1704248549,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198330,
       "num": 198330,
       "word": "你怎么看南方小土豆这一称呼",
@@ -457,6 +569,14 @@
       "onboard_time": 1704244591,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189224,
+      "num": 189224,
+      "word": "小伙摆摊舔铁体验5元起",
+      "onboard_time": 1704247469,
+      "rank": 33,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 189123,
@@ -475,19 +595,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184446,
-      "num": 184446,
-      "word": "鞠婧祎跨年舞台 消音",
-      "onboard_time": 1704245429,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179571,
       "num": 179571,
       "word": "繁花胡歌马伊琍初遇镜头",
       "onboard_time": 1704232693,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178223,
+      "num": 178223,
+      "word": "脱轨",
+      "onboard_time": 1704247589,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -507,12 +627,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172702,
+      "num": 172702,
+      "word": "人体这5个器官最怕过冬",
+      "onboard_time": 1704248489,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 172156,
+      "num": 172156,
+      "word": "李在明曾多次遭到死亡威胁",
+      "onboard_time": 1704238885,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 171955,
       "num": 171955,
       "word": "国内油价新年首调或涨价",
       "onboard_time": 1704243874,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 170069,
+      "num": 170069,
+      "word": "大哥送派出所20杯奶茶反获百元话费",
+      "onboard_time": 1704245791,
+      "rank": 40,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 166299,
@@ -523,12 +667,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165337,
-      "num": 165337,
-      "word": "李在明曾多次遭到死亡威胁",
-      "onboard_time": 1704238885,
-      "rank": 40,
-      "category": "国外时政"
+      "raw_hot": 165292,
+      "num": 165292,
+      "word": "哈铁元旦假期共发送旅客144.6万人次",
+      "onboard_time": 1704247829,
+      "rank": 41,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 165281,
@@ -579,12 +723,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147454,
-      "num": 147454,
-      "word": "谁在助长网红特权歪风",
-      "onboard_time": 1704245552,
-      "rank": 48,
-      "category": "社会新闻,网红"
+      "raw_hot": 147741,
+      "num": 147741,
+      "word": "吉赛尔一记扫堂腿 罗渽民一屁墩",
+      "onboard_time": 1704247711,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 143994,
@@ -657,6 +801,22 @@
       "onboard_time": 1704244531,
       "rank": 49,
       "category": "数码,财经"
+    },
+    {
+      "raw_hot": 128267,
+      "num": 128267,
+      "word": "他33岁失去左腿35岁站上世界舞台",
+      "onboard_time": 1704248730,
+      "rank": 48,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 124833,
+      "num": 124833,
+      "word": "饭后喝茶真的能刮油吗",
+      "onboard_time": 1704247351,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122157,
@@ -876,7 +1036,7 @@
     },
     {
       "raw_hot": 34240,
-      "num": 895774,
+      "num": 916740,
       "word": "航天员太空开饭前互飞饺子",
       "onboard_time": 1704181358,
       "rank": 2,
