@@ -1,0 +1,410 @@
+{
+  "runTime": 1704280527960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4097251,
+        "num": 4097251,
+        "word": "福建地震",
+        "onboard_time": 1704277234,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706738,
+        "num": 1341029,
+        "word": "小砂糖橘家长发声感谢东北朋友",
+        "onboard_time": 1704269971,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64231,
+        "num": 932839,
+        "word": "为了让你2024去旅行多地开年晒美景",
+        "onboard_time": 1704273031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733220,
+        "num": 733220,
+        "word": "甜馨neinei十年后同框",
+        "onboard_time": 1704272133,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263523,
+        "num": 710872,
+        "word": "尔滨劳斯莱斯大哥问如何练夹子音",
+        "onboard_time": 1704274953,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706921,
+        "num": 706921,
+        "word": "厦门震感",
+        "onboard_time": 1704277345,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184234,
+        "num": 522762,
+        "word": "哈尔滨交警在线教学到东北咋穿",
+        "onboard_time": 1704275615,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520289,
+        "num": 520289,
+        "word": "日本地震已致至少73人死亡",
+        "onboard_time": 1704279094,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504974,
+        "num": 504974,
+        "word": "加湿器肺炎",
+        "onboard_time": 1704279033,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 484062,
+        "num": 484062,
+        "word": "拍繁花没有人相信自己真的杀青了",
+        "onboard_time": 1704273934,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1319885,
+        "num": 479522,
+        "word": "张雪峰回答1个亿和清华怎么选",
+        "onboard_time": 1704274475,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 449228,
+        "num": 449228,
+        "word": "郝劭文妻子曝女儿遭遇校园霸凌",
+        "onboard_time": 1704266850,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345085,
+        "num": 345085,
+        "word": "胡锡进开年两天亏4800元",
+        "onboard_time": 1704278374,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 300757,
+        "num": 300757,
+        "word": "小猫出去打架打输了",
+        "onboard_time": 1704273092,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285093,
+        "num": 285093,
+        "word": "秦岚泳衣外穿",
+        "onboard_time": 1704269370,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279122,
+        "num": 279122,
+        "word": "上班久了感觉自己充满班张力",
+        "onboard_time": 1704273092,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268579,
+        "num": 268579,
+        "word": "霉霉 恶女心态拒绝内耗",
+        "onboard_time": 1704270756,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229831,
+        "num": 229831,
+        "word": "东北虎排队等着被泼雪",
+        "onboard_time": 1704273575,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219347,
+        "num": 219347,
+        "word": "AG严正声明",
+        "onboard_time": 1704277894,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216585,
+        "num": 216585,
+        "word": "终于看到了我喜欢的簪花",
+        "onboard_time": 1704278491,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 491614,
+        "num": 211812,
+        "word": "清华一本科生转学至双非院校",
+        "onboard_time": 1704279337,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429457,
+        "num": 206468,
+        "word": "美国妈妈流行给婴儿舌头划一刀",
+        "onboard_time": 1704278374,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200596,
+        "num": 200596,
+        "word": "情侣之间会越吵越爱吗",
+        "onboard_time": 1704276393,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197080,
+        "num": 197080,
+        "word": "漠河文旅局连夜开直播迎接小砂糖橘",
+        "onboard_time": 1704276092,
+        "rank": 23,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 192863,
+        "num": 192863,
+        "word": "王安宇弥补了辛芷蕾的遗憾",
+        "onboard_time": 1704280052,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187113,
+        "num": 187113,
+        "word": "00后向太直播间拍下估值800万豪宅",
+        "onboard_time": 1704264449,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186447,
+        "num": 186447,
+        "word": "林心如 武艺老在长沙",
+        "onboard_time": 1704270689,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184788,
+        "num": 184788,
+        "word": "2024LCK季前赛",
+        "onboard_time": 1704279512,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179888,
+        "num": 179888,
+        "word": "将进酒的将读qiang",
+        "onboard_time": 1704269250,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 174950,
+        "num": 174950,
+        "word": "鄂温克族",
+        "onboard_time": 1704278134,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 293039,
+        "num": 174948,
+        "word": "现在的导师骂人可真高级",
+        "onboard_time": 1704279456,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174876,
+        "num": 174876,
+        "word": "北大试点取消绩点",
+        "onboard_time": 1704272611,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174559,
+        "num": 174559,
+        "word": "终于学会正确刷牙了",
+        "onboard_time": 1704279157,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 170981,
+        "num": 170981,
+        "word": "王家卫 上海情结",
+        "onboard_time": 1704263850,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167607,
+        "num": 167607,
+        "word": "警方通报女孩火车站遭猥亵",
+        "onboard_time": 1704273994,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165048,
+        "num": 165048,
+        "word": "迪丽热巴展示泳衣",
+        "onboard_time": 1704261812,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155873,
+        "num": 155873,
+        "word": "油价",
+        "onboard_time": 1704279754,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154824,
+        "num": 154824,
+        "word": "叶酸吃多了真的会致癌吗",
+        "onboard_time": 1704259951,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154318,
+        "num": 154318,
+        "word": "吃得苦中苦伺候人上人",
+        "onboard_time": 1704274593,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149867,
+        "num": 149867,
+        "word": "Jennie离开YG的原因",
+        "onboard_time": 1704258870,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149833,
+        "num": 149833,
+        "word": "这几个星座将会迎来最美好的一月",
+        "onboard_time": 1704274593,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148643,
+        "num": 148643,
+        "word": "日本地震灾区一市90%房屋损毁",
+        "onboard_time": 1704263969,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148007,
+        "num": 148007,
+        "word": "曝林靖恩入住饭店后精神失控",
+        "onboard_time": 1704261992,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142688,
+        "num": 142688,
+        "word": "小米辟谣网传汽车售价",
+        "onboard_time": 1704278193,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139284,
+        "num": 139284,
+        "word": "广州平均月薪11186元",
+        "onboard_time": 1704267932,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 134191,
+        "num": 134191,
+        "word": "74岁老人做眼部手术死亡",
+        "onboard_time": 1704262291,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122869,
+        "num": 132719,
+        "word": "雷军请网友帮小米汽车辟谣",
+        "onboard_time": 1704276814,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132535,
+        "num": 132535,
+        "word": "阿鲁纳3比2雨果",
+        "onboard_time": 1704280472,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131309,
+        "num": 131309,
+        "word": "网络延迟带走了我的爱情",
+        "onboard_time": 1704279993,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126569,
+        "num": 126569,
+        "word": "哈尔滨提醒宾馆酒店把握机遇",
+        "onboard_time": 1704268349,
+        "rank": 49,
+        "category": "社会新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}

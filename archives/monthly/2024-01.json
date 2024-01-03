@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704278151373,
+  "endTime": 1704280527960,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2011,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520289,
+      "num": 520289,
+      "word": "日本地震已致至少73人死亡",
+      "onboard_time": 1704279094,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509411,
       "num": 509411,
       "word": "王彦霖认证王鹤棣是单身",
@@ -2025,6 +2033,14 @@
       "onboard_time": 1704246509,
       "rank": 13,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 504974,
+      "num": 504974,
+      "word": "加湿器肺炎",
+      "onboard_time": 1704279033,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 502919,
@@ -2105,6 +2121,14 @@
       "onboard_time": 1704024348,
       "rank": 2,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 491614,
+      "num": 211812,
+      "word": "清华一本科生转学至双非院校",
+      "onboard_time": 1704279337,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491409,
@@ -2377,6 +2401,14 @@
       "onboard_time": 1704192815,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 429457,
+      "num": 206468,
+      "word": "美国妈妈流行给婴儿舌头划一刀",
+      "onboard_time": 1704278374,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426800,
@@ -2827,6 +2859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 345085,
+      "num": 345085,
+      "word": "胡锡进开年两天亏4800元",
+      "onboard_time": 1704278374,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 344919,
       "num": 344919,
       "word": "男子冒充特种兵混进前线跟总理合影",
@@ -3225,6 +3265,14 @@
       "onboard_time": 1704258752,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293039,
+      "num": 174948,
+      "word": "现在的导师骂人可真高级",
+      "onboard_time": 1704279456,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 292895,
@@ -4243,6 +4291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216585,
+      "num": 216585,
+      "word": "终于看到了我喜欢的簪花",
+      "onboard_time": 1704278491,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216456,
       "num": 216456,
       "word": "日本能登地区大海啸预警",
@@ -4515,6 +4571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200596,
+      "num": 200596,
+      "word": "情侣之间会越吵越爱吗",
+      "onboard_time": 1704276393,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200509,
       "num": 200509,
       "word": "2024最期待的事情",
@@ -4707,6 +4771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192863,
+      "num": 192863,
+      "word": "王安宇弥补了辛芷蕾的遗憾",
+      "onboard_time": 1704280052,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192442,
       "num": 192442,
       "word": "武庚纪",
@@ -4867,6 +4939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184788,
+      "num": 184788,
+      "word": "2024LCK季前赛",
+      "onboard_time": 1704279512,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184771,
       "num": 184771,
       "word": "哈尔滨让我感到陌生",
@@ -4929,14 +5009,6 @@
       "onboard_time": 1704266549,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181921,
-      "num": 181921,
-      "word": "情侣之间会越吵越爱吗",
-      "onboard_time": 1704276393,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 181752,
@@ -5123,12 +5195,28 @@
       "category": "动漫,美食"
     },
     {
+      "raw_hot": 174950,
+      "num": 174950,
+      "word": "鄂温克族",
+      "onboard_time": 1704278134,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 174564,
       "num": 174564,
       "word": "汪小姐磨砺成虹口小汪",
       "onboard_time": 1704204517,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174559,
+      "num": 174559,
+      "word": "终于学会正确刷牙了",
+      "onboard_time": 1704279157,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 174400,
@@ -5563,6 +5651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155873,
+      "num": 155873,
+      "word": "油价",
+      "onboard_time": 1704279754,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 155804,
       "num": 155804,
       "word": "迪士尼这只米老鼠终于自由了",
@@ -5939,6 +6035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142688,
+      "num": 142688,
+      "word": "小米辟谣网传汽车售价",
+      "onboard_time": 1704278193,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142537,
       "num": 238569,
       "word": "奶奶的爱跨千山万水而来",
@@ -6211,6 +6315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132535,
+      "num": 132535,
+      "word": "阿鲁纳3比2雨果",
+      "onboard_time": 1704280472,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131897,
       "num": 131897,
       "word": "王嘉尔北京站",
@@ -6241,6 +6353,14 @@
       "onboard_time": 1704151585,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131309,
+      "num": 131309,
+      "word": "网络延迟带走了我的爱情",
+      "onboard_time": 1704279993,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 130188,
@@ -6427,6 +6547,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 122869,
+      "num": 287469,
+      "word": "雷军请网友帮小米汽车辟谣",
+      "onboard_time": 1704276814,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 122157,
       "num": 122157,
       "word": "B太敦煌游良心的姐走红",
@@ -6537,14 +6665,6 @@
       "onboard_time": 1704178173,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117986,
-      "num": 117986,
-      "word": "鄂温克族",
-      "onboard_time": 1704278134,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 117582,
@@ -6905,14 +7025,6 @@
       "onboard_time": 1704040013,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78526,
-      "num": 287469,
-      "word": "雷军请网友帮小米汽车辟谣",
-      "onboard_time": 1704276814,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 78312,
