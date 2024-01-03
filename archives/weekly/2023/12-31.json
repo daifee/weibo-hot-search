@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704288039728,
+  "endTime": 1704288831855,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -635,6 +635,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1537507,
+      "num": 1537507,
+      "word": "伊朗连环爆炸已致73死170伤",
+      "onboard_time": 1704288096,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1514250,
       "num": 1514250,
       "word": "江苏卫视 设备",
@@ -705,6 +713,14 @@
       "onboard_time": 1704121303,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1421194,
+      "num": 1013765,
+      "word": "伊朗连环爆炸已致53人死亡",
+      "onboard_time": 1704287434,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1420447,
@@ -1193,14 +1209,6 @@
       "onboard_time": 1704248310,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1013765,
-      "num": 1013765,
-      "word": "伊朗连环爆炸已致53人死亡",
-      "onboard_time": 1704287434,
-      "rank": 0,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1013321,
@@ -1995,6 +2003,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 717152,
+      "num": 717152,
+      "word": "伊朗连环爆炸被指系恐怖袭击",
+      "onboard_time": 1704287796,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 713273,
       "num": 713273,
       "word": "李在明疑似颈静脉损伤",
@@ -2748,7 +2764,7 @@
     },
     {
       "raw_hot": 537474,
-      "num": 250664,
+      "num": 276082,
       "word": "清华一本科生转学至双非院校",
       "onboard_time": 1704279337,
       "rank": 20,
@@ -2897,6 +2913,14 @@
       "onboard_time": 1704024106,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 510234,
+      "num": 510234,
+      "word": "炎亚纶申请撤销限制出境被驳回",
+      "onboard_time": 1704287313,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 509952,
@@ -3073,6 +3097,14 @@
       "onboard_time": 1704195991,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483622,
+      "num": 483622,
+      "word": "黄子弘凡 玄学巅峰",
+      "onboard_time": 1704287613,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 482881,
@@ -3420,7 +3452,7 @@
     },
     {
       "raw_hot": 430651,
-      "num": 246720,
+      "num": 278311,
       "word": "美国妈妈流行给婴儿舌头划一刀",
       "onboard_time": 1704278374,
       "rank": 21,
@@ -3473,6 +3505,14 @@
       "onboard_time": 1704039181,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422536,
+      "num": 422536,
+      "word": "突然理解那些很少看手机的人了",
+      "onboard_time": 1704284193,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 421872,
@@ -4211,6 +4251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326190,
+      "num": 326190,
+      "word": "天官赐福",
+      "onboard_time": 1704285335,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 325007,
       "num": 325007,
       "word": "阴阳师 水龙王",
@@ -4369,14 +4417,6 @@
       "onboard_time": 1704003930,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 307022,
-      "num": 307022,
-      "word": "炎亚纶申请撤销限制出境被驳回",
-      "onboard_time": 1704287313,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 306452,
@@ -4539,14 +4579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 294007,
-      "num": 292485,
-      "word": "天官赐福",
-      "onboard_time": 1704285335,
-      "rank": 22,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 293542,
       "num": 293542,
       "word": "原神 璃月食集",
@@ -4609,14 +4641,6 @@
       "onboard_time": 1704168162,
       "rank": 25,
       "category": "剧集,美妆"
-    },
-    {
-      "raw_hot": 290609,
-      "num": 290609,
-      "word": "突然理解那些很少看手机的人了",
-      "onboard_time": 1704284193,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 290563,
@@ -4972,7 +4996,7 @@
     },
     {
       "raw_hot": 269075,
-      "num": 231414,
+      "num": 247958,
       "word": "我现在唯一的社交",
       "onboard_time": 1704285392,
       "rank": 27,
@@ -5089,6 +5113,14 @@
       "onboard_time": 1704165517,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262082,
+      "num": 262082,
+      "word": "马龙比赛",
+      "onboard_time": 1704286955,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 262068,
@@ -5259,6 +5291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251987,
+      "num": 251987,
+      "word": "网友街头偶遇刘强东越野车送出",
+      "onboard_time": 1704287735,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251749,
       "num": 1154581,
       "word": "李国庆称与俞渝平分1.3亿",
@@ -5273,6 +5313,14 @@
       "onboard_time": 1704086192,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251218,
+      "num": 251218,
+      "word": "女子每周拔罐放血200ml致重度贫血",
+      "onboard_time": 1704288034,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250164,
@@ -5643,14 +5691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 230538,
-      "num": 230538,
-      "word": "马龙比赛",
-      "onboard_time": 1704286955,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 229947,
       "num": 2307706,
       "word": "跨年图片",
@@ -5953,14 +5993,6 @@
       "onboard_time": 1704018092,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216779,
-      "num": 216779,
-      "word": "黄子弘凡 玄学巅峰",
-      "onboard_time": 1704287613,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 216701,
@@ -6435,6 +6467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198770,
+      "num": 198770,
+      "word": "张本智和3比2奥恰洛夫",
+      "onboard_time": 1704287735,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198756,
       "num": 198756,
       "word": "年会不能停 社畜共情",
@@ -6657,6 +6697,14 @@
       "onboard_time": 1704183093,
       "rank": 31,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 193524,
+      "num": 193524,
+      "word": "小砂糖橘在漠河边防哨所唱起国歌",
+      "onboard_time": 1704288216,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193390,
@@ -6955,6 +7003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184012,
+      "num": 184012,
+      "word": "王牌对王牌第十期花絮",
+      "onboard_time": 1704287675,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183906,
       "num": 808087,
       "word": "2024年财神来到我们家门前",
@@ -7153,14 +7209,6 @@
       "onboard_time": 1704178833,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 177778,
-      "num": 177778,
-      "word": "网友街头偶遇刘强东越野车送出",
-      "onboard_time": 1704287735,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177552,
@@ -7427,14 +7475,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 170641,
-      "num": 170641,
-      "word": "伊朗连环爆炸被指系恐怖袭击",
-      "onboard_time": 1704287796,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 170347,
       "num": 968858,
       "word": "这才是新年的意义",
@@ -7545,14 +7585,6 @@
       "onboard_time": 1704009632,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 167559,
-      "num": 167559,
-      "word": "张本智和3比2奥恰洛夫",
-      "onboard_time": 1704287735,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 166997,
@@ -7955,6 +7987,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 156265,
+      "num": 156265,
+      "word": "班上转来一位新同学来自甘肃积石山",
+      "onboard_time": 1704285214,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155804,
       "num": 155804,
       "word": "迪士尼这只米老鼠终于自由了",
@@ -8153,14 +8193,6 @@
       "onboard_time": 1704203856,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151195,
-      "num": 151195,
-      "word": "王牌对王牌第十期花絮",
-      "onboard_time": 1704287675,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 150976,
@@ -8425,14 +8457,6 @@
       "onboard_time": 1703998472,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144544,
-      "num": 144544,
-      "word": "班上转来一位新同学来自甘肃积石山",
-      "onboard_time": 1704285214,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144489,
@@ -8851,6 +8875,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 134868,
+      "num": 134868,
+      "word": "东北研学",
+      "onboard_time": 1704288695,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 134667,
       "num": 121655,
       "word": "对齐颗粒度",
@@ -9089,6 +9121,22 @@
       "onboard_time": 1704103420,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127973,
+      "num": 127973,
+      "word": "全网呼唤的二埋汰出来营业了",
+      "onboard_time": 1704288635,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127631,
+      "num": 127631,
+      "word": "刘嘉玲 侧写大师",
+      "onboard_time": 1704288453,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 127523,
@@ -9537,6 +9585,14 @@
       "onboard_time": 1703985089,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117450,
+      "num": 117450,
+      "word": "给猫洗澡怎么洗出了准备下锅的感觉",
+      "onboard_time": 1704288816,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 116628,

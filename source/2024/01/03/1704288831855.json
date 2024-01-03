@@ -1,0 +1,410 @@
+{
+  "runTime": 1704288831855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1537507,
+        "num": 1537507,
+        "word": "伊朗连环爆炸已致73死170伤",
+        "onboard_time": 1704288096,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 910525,
+        "num": 910525,
+        "word": "福建地震",
+        "onboard_time": 1704277234,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5022,
+        "num": 830625,
+        "word": "新年满弦开弓一起迈出新步伐",
+        "onboard_time": 1704253829,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1943965,
+        "num": 817461,
+        "word": "萧山通报郝劭文妻子曝女儿被霸凌",
+        "onboard_time": 1704283411,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 796149,
+        "num": 796149,
+        "word": "1460元繁花双人餐每天限20套",
+        "onboard_time": 1704284612,
+        "rank": 4,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 717152,
+        "num": 717152,
+        "word": "伊朗连环爆炸被指系恐怖袭击",
+        "onboard_time": 1704287796,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 618647,
+        "num": 618647,
+        "word": "尔滨背刺了整个东北",
+        "onboard_time": 1704283110,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 514972,
+        "num": 514972,
+        "word": "甜馨neinei十年后同框",
+        "onboard_time": 1704272133,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510234,
+        "num": 510234,
+        "word": "炎亚纶申请撤销限制出境被驳回",
+        "onboard_time": 1704287313,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483622,
+        "num": 483622,
+        "word": "黄子弘凡 玄学巅峰",
+        "onboard_time": 1704287613,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603203,
+        "num": 454632,
+        "word": "张雪峰回答1个亿和清华怎么选",
+        "onboard_time": 1704274475,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 502773,
+        "num": 444046,
+        "word": "郝劭文发声",
+        "onboard_time": 1704285093,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422536,
+        "num": 422536,
+        "word": "突然理解那些很少看手机的人了",
+        "onboard_time": 1704284193,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1421194,
+        "num": 416708,
+        "word": "伊朗连环爆炸已致53人死亡",
+        "onboard_time": 1704287434,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 408514,
+        "num": 408514,
+        "word": "樊振东呼吁把比赛还给运动员",
+        "onboard_time": 1704284612,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390751,
+        "num": 390751,
+        "word": "伊朗一地连续发生两次爆炸",
+        "onboard_time": 1704287313,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327703,
+        "num": 327703,
+        "word": "现在的导师骂人可真高级",
+        "onboard_time": 1704279456,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326190,
+        "num": 326190,
+        "word": "天官赐福",
+        "onboard_time": 1704285335,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 297944,
+        "num": 297944,
+        "word": "小砂糖橘家长发声感谢东北朋友",
+        "onboard_time": 1704269971,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291292,
+        "num": 291292,
+        "word": "石宇奇",
+        "onboard_time": 1704283290,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372441,
+        "num": 278311,
+        "word": "美国妈妈流行给婴儿舌头划一刀",
+        "onboard_time": 1704278374,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321386,
+        "num": 276082,
+        "word": "清华一本科生转学至双非院校",
+        "onboard_time": 1704279337,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262082,
+        "num": 262082,
+        "word": "马龙比赛",
+        "onboard_time": 1704286955,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258275,
+        "num": 258275,
+        "word": "拍繁花没有人相信自己真的杀青了",
+        "onboard_time": 1704273934,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251987,
+        "num": 251987,
+        "word": "网友街头偶遇刘强东越野车送出",
+        "onboard_time": 1704287735,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251218,
+        "num": 251218,
+        "word": "女子每周拔罐放血200ml致重度贫血",
+        "onboard_time": 1704288034,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247958,
+        "num": 247958,
+        "word": "我现在唯一的社交",
+        "onboard_time": 1704285392,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245603,
+        "num": 245603,
+        "word": "哈尔滨文旅回应火爆出圈",
+        "onboard_time": 1704281191,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 218813,
+        "num": 218813,
+        "word": "30岁大厂女生周末星巴克兼职",
+        "onboard_time": 1704281074,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218325,
+        "num": 218325,
+        "word": "繁花",
+        "onboard_time": 1704285335,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198770,
+        "num": 198770,
+        "word": "张本智和3比2奥恰洛夫",
+        "onboard_time": 1704287735,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194740,
+        "num": 194740,
+        "word": "王安宇弥补了辛芷蕾的遗憾",
+        "onboard_time": 1704280052,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193524,
+        "num": 193524,
+        "word": "小砂糖橘在漠河边防哨所唱起国歌",
+        "onboard_time": 1704288216,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190410,
+        "num": 190410,
+        "word": "加湿器肺炎",
+        "onboard_time": 1704279033,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184012,
+        "num": 184012,
+        "word": "王牌对王牌第十期花絮",
+        "onboard_time": 1704287675,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178597,
+        "num": 178597,
+        "word": "王家卫太会拍了",
+        "onboard_time": 1704286537,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156265,
+        "num": 156265,
+        "word": "班上转来一位新同学来自甘肃积石山",
+        "onboard_time": 1704285214,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153894,
+        "num": 153894,
+        "word": "秦岚泳衣外穿",
+        "onboard_time": 1704269370,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153643,
+        "num": 153643,
+        "word": "香港演员尹子维打卡哈尔滨盒饭一条街",
+        "onboard_time": 1704281613,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150878,
+        "num": 150878,
+        "word": "王家卫 上海情结",
+        "onboard_time": 1704263850,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148538,
+        "num": 148538,
+        "word": "nana tour",
+        "onboard_time": 1704283532,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146027,
+        "num": 146027,
+        "word": "小猫出去打架打输了",
+        "onboard_time": 1704273092,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134868,
+        "num": 134868,
+        "word": "东北研学",
+        "onboard_time": 1704288695,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127973,
+        "num": 127973,
+        "word": "全网呼唤的二埋汰出来营业了",
+        "onboard_time": 1704288635,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127631,
+        "num": 127631,
+        "word": "刘嘉玲 侧写大师",
+        "onboard_time": 1704288453,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122603,
+        "num": 122603,
+        "word": "婉拒彭于晏两次",
+        "onboard_time": 1704284133,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122035,
+        "num": 122035,
+        "word": "陈楚生也没抢到演唱会门票",
+        "onboard_time": 1704280892,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118051,
+        "num": 118051,
+        "word": "你也有今天定档",
+        "onboard_time": 1704280892,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117450,
+        "num": 117450,
+        "word": "给猫洗澡怎么洗出了准备下锅的感觉",
+        "onboard_time": 1704288816,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116192,
+        "num": 116192,
+        "word": "日本又发生4.8级地震",
+        "onboard_time": 1704282693,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}
