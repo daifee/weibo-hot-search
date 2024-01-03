@@ -1,0 +1,410 @@
+{
+  "runTime": 1704299870974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 731543,
+        "num": 731543,
+        "word": "龙年纪念币",
+        "onboard_time": 1704291034,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575907,
+        "num": 575907,
+        "word": "付豪道歉",
+        "onboard_time": 1704294937,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57856,
+        "num": 522603,
+        "word": "程序员回乡种小时候味道的西红柿",
+        "onboard_time": 1704286775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483219,
+        "num": 483219,
+        "word": "清华一本科生转学至双非院校",
+        "onboard_time": 1704279337,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479620,
+        "num": 479620,
+        "word": "民警多问一句竟发现2名被拐孩子",
+        "onboard_time": 1704294576,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417468,
+        "num": 417468,
+        "word": "伊朗爆炸事件死亡人数上升至103人",
+        "onboard_time": 1704291879,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 395234,
+        "num": 395234,
+        "word": "突然理解那些很少看手机的人了",
+        "onboard_time": 1704284193,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372409,
+        "num": 372409,
+        "word": "紧急避孕药的伤害",
+        "onboard_time": 1704290138,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289727,
+        "num": 289727,
+        "word": "甜馨neinei十年后同框",
+        "onboard_time": 1704272133,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285375,
+        "num": 285375,
+        "word": "王家卫在片场让马伊琍不要低头",
+        "onboard_time": 1704292716,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279299,
+        "num": 279299,
+        "word": "哈尔滨为小土豆连夜撤下破旧公交牌",
+        "onboard_time": 1704299007,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237095,
+        "num": 237095,
+        "word": "辛芷蕾 影视综的花都开了",
+        "onboard_time": 1704293501,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196528,
+        "num": 196528,
+        "word": "王者荣耀",
+        "onboard_time": 1704293857,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190502,
+        "num": 190502,
+        "word": "蔡少芬问孙千哈尔滨冰雕",
+        "onboard_time": 1704296851,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186137,
+        "num": 186137,
+        "word": "女子每周拔罐放血200ml致重度贫血",
+        "onboard_time": 1704288034,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182642,
+        "num": 182642,
+        "word": "付豪被驱逐",
+        "onboard_time": 1704290374,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165985,
+        "num": 165985,
+        "word": "巨蟹座的无所谓都是有所谓",
+        "onboard_time": 1704293433,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149002,
+        "num": 149002,
+        "word": "1460元繁花双人餐每天限20套",
+        "onboard_time": 1704284612,
+        "rank": 17,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 138697,
+        "num": 138697,
+        "word": "龙年纪念钞预约",
+        "onboard_time": 1704293316,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134068,
+        "num": 134068,
+        "word": "网友街头偶遇刘强东越野车送出",
+        "onboard_time": 1704287735,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363162,
+        "num": 133689,
+        "word": "当老公发现了前男友写给我的情书",
+        "onboard_time": 1704296973,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189106,
+        "num": 133637,
+        "word": "亚裔夫妇花10万美元试管诞下白人婴儿",
+        "onboard_time": 1704291698,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170734,
+        "num": 133032,
+        "word": "泡温泉会感染HPV吗",
+        "onboard_time": 1704289657,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156771,
+        "num": 132633,
+        "word": "美国妈妈流行给婴儿舌头划一刀",
+        "onboard_time": 1704278374,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147868,
+        "num": 132124,
+        "word": "发烧让两个同事给我送钥匙都被拒绝了",
+        "onboard_time": 1704289832,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145073,
+        "num": 131682,
+        "word": "被小狗亲了一口然后亲手用雪埋了",
+        "onboard_time": 1704298228,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143265,
+        "num": 131334,
+        "word": "在哈尔滨甚至能吃到索菲亚教堂",
+        "onboard_time": 1704297213,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131095,
+        "num": 131095,
+        "word": "尔滨背刺了整个东北",
+        "onboard_time": 1704283110,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 126917,
+        "num": 126917,
+        "word": "繁花",
+        "onboard_time": 1704285335,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119227,
+        "num": 119227,
+        "word": "秦岚泳衣外穿",
+        "onboard_time": 1704269370,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115261,
+        "num": 115261,
+        "word": "黄子弘凡 玄学巅峰",
+        "onboard_time": 1704287613,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102829,
+        "num": 102829,
+        "word": "低成本的护肤好习惯",
+        "onboard_time": 1704297390,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 101054,
+        "num": 101054,
+        "word": "爱宝双胞胎女儿将正式与公众见面",
+        "onboard_time": 1704293316,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100907,
+        "num": 100907,
+        "word": "王家卫太会拍了",
+        "onboard_time": 1704286537,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96405,
+        "num": 96405,
+        "word": "李燃去桃李二班",
+        "onboard_time": 1704290435,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93420,
+        "num": 93420,
+        "word": "伊朗爆炸肇事者遥控引爆袋子内炸弹",
+        "onboard_time": 1704295115,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 88643,
+        "num": 88643,
+        "word": "农行纪念币",
+        "onboard_time": 1704292535,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84305,
+        "num": 84305,
+        "word": "我们家沈耀就不用浪费高三时间听了吧",
+        "onboard_time": 1704292055,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81193,
+        "num": 81193,
+        "word": "我现在唯一的社交",
+        "onboard_time": 1704285392,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78222,
+        "num": 78222,
+        "word": "30岁大厂女生周末星巴克兼职",
+        "onboard_time": 1704281074,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76324,
+        "num": 76324,
+        "word": "王楚钦3比1勒布伦",
+        "onboard_time": 1704297692,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73953,
+        "num": 73953,
+        "word": "张颂文领养了流浪狗",
+        "onboard_time": 1704290374,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72917,
+        "num": 72917,
+        "word": "萌兰为1根笋和爱么仕包决裂了",
+        "onboard_time": 1704296314,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71392,
+        "num": 71392,
+        "word": "龙年限定妆造",
+        "onboard_time": 1704297029,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 67617,
+        "num": 67617,
+        "word": "陈都灵镜妖 妖怪界物理学霸",
+        "onboard_time": 1704292659,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67187,
+        "num": 67187,
+        "word": "中行纪念币 进不去",
+        "onboard_time": 1704294396,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66186,
+        "num": 66186,
+        "word": "郭艾伦怎么了",
+        "onboard_time": 1704289473,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63871,
+        "num": 63871,
+        "word": "热烈的爱和稳定的情绪无法共存",
+        "onboard_time": 1704294279,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60223,
+        "num": 60223,
+        "word": "张佳宁为林北星流过的眼泪",
+        "onboard_time": 1704296551,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59712,
+        "num": 59712,
+        "word": "王楚钦比赛",
+        "onboard_time": 1704291336,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}
