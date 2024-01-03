@@ -1,13 +1,37 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704274467564,
+  "endTime": 1704277151818,
   "band_list": [
+    {
+      "raw_hot": 2879808,
+      "num": 409720,
+      "word": "日本地震遇难升至65人",
+      "onboard_time": 1704275973,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2250367,
       "num": 2250367,
       "word": "12306推出购票新功能",
       "onboard_time": 1704248549,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2042745,
+      "num": 2042745,
+      "word": "张雪峰回答1个亿和清华怎么选",
+      "onboard_time": 1704274475,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1714529,
+      "num": 404361,
+      "word": "日本石川县发生5.5级地震",
+      "onboard_time": 1704249630,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -299,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 712316,
+      "num": 712316,
+      "word": "小砂糖橘家长发声感谢东北朋友",
+      "onboard_time": 1704269971,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693711,
       "num": 693711,
       "word": "哈尔滨提醒宾馆酒店把握机遇",
@@ -339,12 +371,12 @@
       "category": "艺人,旅游"
     },
     {
-      "raw_hot": 660697,
-      "num": 660697,
-      "word": "小砂糖橘家长发声感谢东北朋友",
-      "onboard_time": 1704269971,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 659598,
+      "num": 659598,
+      "word": "上班久了感觉自己充满班张力",
+      "onboard_time": 1704273092,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 652128,
@@ -523,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 515280,
-      "num": 377619,
-      "word": "日本石川县发生5.5级地震",
-      "onboard_time": 1704249630,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 505816,
       "num": 505816,
       "word": "新闻联播披露福建舰最新画面",
@@ -643,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411606,
+      "num": 411606,
+      "word": "警方通报女孩火车站遭猥亵",
+      "onboard_time": 1704273994,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410074,
       "num": 410074,
       "word": "95后班主任爆改女团舞为高三学生减压",
@@ -667,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400578,
+      "num": 400578,
+      "word": "小猫出去打架打输了",
+      "onboard_time": 1704273092,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 396924,
       "num": 396924,
       "word": "将进酒的将读qiang",
@@ -683,6 +723,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 390719,
+      "num": 390719,
+      "word": "东北虎排队等着被泼雪",
+      "onboard_time": 1704273575,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 381460,
       "num": 328183,
       "word": "迪丽热巴椰汁pose",
@@ -696,6 +744,14 @@
       "word": "日本地震死亡升至57人",
       "onboard_time": 1704238103,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378187,
+      "num": 661778,
+      "word": "尔滨劳斯莱斯大哥问如何练夹子音",
+      "onboard_time": 1704274953,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -723,20 +779,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 361838,
-      "num": 361838,
-      "word": "上班久了感觉自己充满班张力",
-      "onboard_time": 1704273092,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 349230,
       "num": 349230,
       "word": "不想上班 领导是彭于晏也不行",
       "onboard_time": 1704255693,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 337795,
+      "num": 337795,
+      "word": "拍繁花没有人相信自己真的杀青了",
+      "onboard_time": 1704273934,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 336896,
@@ -899,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 279197,
-      "num": 279197,
-      "word": "小猫出去打架打输了",
-      "onboard_time": 1704273092,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 279015,
       "num": 279015,
       "word": "被唐嫣这个镜头美到了",
@@ -1003,14 +1051,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 253262,
-      "num": 253262,
-      "word": "东北虎排队等着被泼雪",
-      "onboard_time": 1704273575,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 252140,
       "num": 252140,
       "word": "金钟大金珉锡或在边伯贤公司活动",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1704197853,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249421,
+      "num": 552109,
+      "word": "哈尔滨交警在线教学到东北咋穿",
+      "onboard_time": 1704275615,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247075,
@@ -1163,14 +1211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224364,
-      "num": 224364,
-      "word": "警方通报女孩火车站遭猥亵",
-      "onboard_time": 1704273994,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224190,
       "num": 224190,
       "word": "还好我28了说的不是我",
@@ -1283,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197173,
+      "num": 197173,
+      "word": "漠河文旅局连夜开直播迎接小砂糖橘",
+      "onboard_time": 1704276092,
+      "rank": 25,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 196803,
       "num": 196803,
       "word": "00后特警新年第一天公主抱救人",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1704244591,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194925,
+      "num": 194925,
+      "word": "这几个星座将会迎来最美好的一月",
+      "onboard_time": 1704274593,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 194599,
@@ -1352,14 +1408,6 @@
       "word": "阿宝人情债",
       "onboard_time": 1704258752,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 184949,
-      "num": 184949,
-      "word": "拍繁花没有人相信自己真的杀青了",
-      "onboard_time": 1704273934,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1433,6 +1481,14 @@
       "onboard_time": 1704247589,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178157,
+      "num": 178157,
+      "word": "吃得苦中苦伺候人上人",
+      "onboard_time": 1704274593,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 177547,
@@ -1587,6 +1643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164857,
+      "num": 164857,
+      "word": "李国庆说1.3亿是双方平分",
+      "onboard_time": 1704274295,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 163998,
       "num": 163998,
       "word": "脱轨大结局 病号版燃冬",
@@ -1609,6 +1673,14 @@
       "onboard_time": 1704204033,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161056,
+      "num": 161056,
+      "word": "小米汽车",
+      "onboard_time": 1704274354,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 158939,
@@ -1651,6 +1723,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 154131,
+      "num": 154131,
+      "word": "NIP对战BLG",
+      "onboard_time": 1704276573,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153432,
       "num": 140541,
       "word": "赵丽颖辛芷蕾与素人合影",
@@ -1675,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151175,
+      "num": 151175,
+      "word": "情侣之间会越吵越爱吗",
+      "onboard_time": 1704276393,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150694,
       "num": 150694,
       "word": "繁花剧评",
@@ -1689,6 +1777,14 @@
       "onboard_time": 1704251609,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149741,
+      "num": 149741,
+      "word": "哈尔滨站标注出租车价格表",
+      "onboard_time": 1704272133,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148806,
@@ -1715,6 +1811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145318,
+      "num": 145318,
+      "word": "林诗栋vs邱党",
+      "onboard_time": 1704274772,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144824,
       "num": 144824,
       "word": "屈楚萧张佳宁回应爸妈梗",
@@ -1729,14 +1833,6 @@
       "onboard_time": 1704202833,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143194,
-      "num": 143194,
-      "word": "哈尔滨站标注出租车价格表",
-      "onboard_time": 1704272133,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141989,
@@ -1809,14 +1905,6 @@
       "onboard_time": 1704262712,
       "rank": 41,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 135813,
-      "num": 135813,
-      "word": "李国庆说1.3亿是双方平分",
-      "onboard_time": 1704274295,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 135746,
@@ -1915,14 +2003,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 123694,
-      "num": 123694,
-      "word": "小米汽车",
-      "onboard_time": 1704274354,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 122157,
       "num": 122157,
       "word": "B太敦煌游良心的姐走红",
@@ -1945,6 +2025,14 @@
       "onboard_time": 1704205358,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120525,
+      "num": 120525,
+      "word": "东北冻三样",
+      "onboard_time": 1704276152,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 120430,
@@ -2067,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79679,
+      "num": 861748,
+      "word": "为了让你2024去旅行多地开年晒美景",
+      "onboard_time": 1704273031,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79540,
       "num": 79540,
       "word": "陈哲远 枭起青壤",
@@ -2081,6 +2177,14 @@
       "onboard_time": 1704254251,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 78526,
+      "num": 164867,
+      "word": "雷军请网友帮小米汽车辟谣",
+      "onboard_time": 1704276814,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 78312,
@@ -2192,14 +2296,6 @@
       "word": "外孙想吃排骨姥爷扛回半扇猪",
       "onboard_time": 1704236239,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55539,
-      "num": 861748,
-      "word": "为了让你2024去旅行多地开年晒美景",
-      "onboard_time": 1704273031,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

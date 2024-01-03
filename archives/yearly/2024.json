@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704274467564,
+  "endTime": 1704277151818,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2879808,
+      "num": 409720,
+      "word": "日本地震遇难升至65人",
+      "onboard_time": 1704275973,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2766954,
       "num": 2766954,
       "word": "疑似袭击李在明男子被捕",
@@ -145,6 +153,14 @@
       "onboard_time": 1704109476,
       "rank": 0,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 2042745,
+      "num": 2042745,
+      "word": "张雪峰回答1个亿和清华怎么选",
+      "onboard_time": 1704274475,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1892107,
@@ -249,6 +265,14 @@
       "onboard_time": 1704087332,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1714529,
+      "num": 404361,
+      "word": "日本石川县发生5.5级地震",
+      "onboard_time": 1704249630,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1661700,
@@ -1315,6 +1339,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 712316,
+      "num": 712316,
+      "word": "小砂糖橘家长发声感谢东北朋友",
+      "onboard_time": 1704269971,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 710370,
       "num": 559584,
       "word": "谢娜唱哭了",
@@ -1491,20 +1523,20 @@
       "category": "艺人,旅游"
     },
     {
-      "raw_hot": 660697,
-      "num": 660697,
-      "word": "小砂糖橘家长发声感谢东北朋友",
-      "onboard_time": 1704269971,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 659807,
       "num": 659807,
       "word": "樊振东实名羡慕贾一凡奖金",
       "onboard_time": 1704089852,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 659598,
+      "num": 659598,
+      "word": "上班久了感觉自己充满班张力",
+      "onboard_time": 1704273092,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 654331,
@@ -1955,14 +1987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 515280,
-      "num": 377619,
-      "word": "日本石川县发生5.5级地震",
-      "onboard_time": 1704249630,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509411,
       "num": 509411,
       "word": "王彦霖认证王鹤棣是单身",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1704026514,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 418291,
-      "num": 418291,
-      "word": "网易游戏上线未成年人模式",
-      "onboard_time": 1704252632,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 418071,
-      "num": 418071,
-      "word": "萌兰在院子里挖了4年宝贝",
-      "onboard_time": 1704238765,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415989,
-      "num": 415989,
-      "word": "李现国色芳华妆造",
-      "onboard_time": 1704177092,
-      "rank": 36,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

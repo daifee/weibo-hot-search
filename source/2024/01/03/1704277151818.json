@@ -1,0 +1,410 @@
+{
+  "runTime": 1704277151818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2042745,
+        "num": 2042745,
+        "word": "张雪峰回答1个亿和清华怎么选",
+        "onboard_time": 1704274475,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 712316,
+        "num": 712316,
+        "word": "小砂糖橘家长发声感谢东北朋友",
+        "onboard_time": 1704269971,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79679,
+        "num": 669735,
+        "word": "为了让你2024去旅行多地开年晒美景",
+        "onboard_time": 1704273031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 938064,
+        "num": 665733,
+        "word": "甜馨neinei十年后同框",
+        "onboard_time": 1704272133,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378187,
+        "num": 661778,
+        "word": "尔滨劳斯莱斯大哥问如何练夹子音",
+        "onboard_time": 1704274953,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659598,
+        "num": 659598,
+        "word": "上班久了感觉自己充满班张力",
+        "onboard_time": 1704273092,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249421,
+        "num": 552109,
+        "word": "哈尔滨交警在线教学到东北咋穿",
+        "onboard_time": 1704275615,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530390,
+        "num": 530390,
+        "word": "北大试点取消绩点",
+        "onboard_time": 1704272611,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 482389,
+        "num": 482389,
+        "word": "小砂糖橘",
+        "onboard_time": 1704266490,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 411606,
+        "num": 411606,
+        "word": "警方通报女孩火车站遭猥亵",
+        "onboard_time": 1704273994,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2879808,
+        "num": 409720,
+        "word": "日本地震遇难升至65人",
+        "onboard_time": 1704275973,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633679,
+        "num": 408859,
+        "word": "郝劭文妻子曝女儿遭遇校园霸凌",
+        "onboard_time": 1704266850,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523500,
+        "num": 407002,
+        "word": "霉霉 恶女心态拒绝内耗",
+        "onboard_time": 1704270756,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1714529,
+        "num": 404361,
+        "word": "日本石川县发生5.5级地震",
+        "onboard_time": 1704249630,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424007,
+        "num": 400959,
+        "word": "秦岚泳衣外穿",
+        "onboard_time": 1704269370,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400578,
+        "num": 400578,
+        "word": "小猫出去打架打输了",
+        "onboard_time": 1704273092,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 390719,
+        "num": 390719,
+        "word": "东北虎排队等着被泼雪",
+        "onboard_time": 1704273575,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360332,
+        "num": 360332,
+        "word": "将进酒的将读qiang",
+        "onboard_time": 1704269250,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 337795,
+        "num": 337795,
+        "word": "拍繁花没有人相信自己真的杀青了",
+        "onboard_time": 1704273934,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333253,
+        "num": 333253,
+        "word": "林心如 武艺老在长沙",
+        "onboard_time": 1704270689,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331290,
+        "num": 331290,
+        "word": "叶酸吃多了真的会致癌吗",
+        "onboard_time": 1704259951,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304180,
+        "num": 304180,
+        "word": "00后向太直播间拍下估值800万豪宅",
+        "onboard_time": 1704264449,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230673,
+        "num": 230673,
+        "word": "迪丽热巴展示泳衣",
+        "onboard_time": 1704261812,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224483,
+        "num": 224483,
+        "word": "哈尔滨提醒宾馆酒店把握机遇",
+        "onboard_time": 1704268349,
+        "rank": 23,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 205563,
+        "num": 205563,
+        "word": "74岁老人做眼部手术死亡",
+        "onboard_time": 1704262291,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197173,
+        "num": 197173,
+        "word": "漠河文旅局连夜开直播迎接小砂糖橘",
+        "onboard_time": 1704276092,
+        "rank": 25,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 194925,
+        "num": 194925,
+        "word": "这几个星座将会迎来最美好的一月",
+        "onboard_time": 1704274593,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189821,
+        "num": 189821,
+        "word": "广州平均月薪11186元",
+        "onboard_time": 1704267932,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 185616,
+        "num": 185616,
+        "word": "猫咪吞食顾客1克拉钻石",
+        "onboard_time": 1704268829,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183987,
+        "num": 183987,
+        "word": "Jennie离开YG的原因",
+        "onboard_time": 1704258870,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181774,
+        "num": 181774,
+        "word": "曝林靖恩入住饭店后精神失控",
+        "onboard_time": 1704261992,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179342,
+        "num": 179342,
+        "word": "日本地震灾区一市90%房屋损毁",
+        "onboard_time": 1704263969,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178157,
+        "num": 178157,
+        "word": "吃得苦中苦伺候人上人",
+        "onboard_time": 1704274593,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175142,
+        "num": 175142,
+        "word": "东北女生模仿南方小土豆一开口就露馅",
+        "onboard_time": 1704269971,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166864,
+        "num": 166864,
+        "word": "旅俄熊猫幼崽叫喀秋莎",
+        "onboard_time": 1704273215,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78526,
+        "num": 164867,
+        "word": "雷军请网友帮小米汽车辟谣",
+        "onboard_time": 1704276814,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164857,
+        "num": 164857,
+        "word": "李国庆说1.3亿是双方平分",
+        "onboard_time": 1704274295,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163992,
+        "num": 163992,
+        "word": "王家卫 上海情结",
+        "onboard_time": 1704263850,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161056,
+        "num": 161056,
+        "word": "小米汽车",
+        "onboard_time": 1704274354,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159898,
+        "num": 159898,
+        "word": "12306推出购票新功能",
+        "onboard_time": 1704248549,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154131,
+        "num": 154131,
+        "word": "NIP对战BLG",
+        "onboard_time": 1704276573,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151175,
+        "num": 151175,
+        "word": "情侣之间会越吵越爱吗",
+        "onboard_time": 1704276393,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149741,
+        "num": 149741,
+        "word": "哈尔滨站标注出租车价格表",
+        "onboard_time": 1704272133,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145318,
+        "num": 145318,
+        "word": "林诗栋vs邱党",
+        "onboard_time": 1704274772,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143997,
+        "num": 143997,
+        "word": "辛芷蕾拍繁花学了两年舞蹈课",
+        "onboard_time": 1704248310,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133957,
+        "num": 133957,
+        "word": "阿根廷发生5.5级地震",
+        "onboard_time": 1704273393,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124944,
+        "num": 124944,
+        "word": "柳智敏 销量",
+        "onboard_time": 1704271111,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124633,
+        "num": 124633,
+        "word": "宋茜王鹤棣屋顶着火YouTube播放量",
+        "onboard_time": 1704263969,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120525,
+        "num": 120525,
+        "word": "东北冻三样",
+        "onboard_time": 1704276152,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115919,
+        "num": 115919,
+        "word": "黄杨钿甜 盛唐少女",
+        "onboard_time": 1704271771,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#归根到底就是让老百姓过上更好的日子#"
+    }
+  }
+}
