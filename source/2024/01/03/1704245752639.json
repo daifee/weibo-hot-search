@@ -1,0 +1,410 @@
+{
+  "runTime": 1704245752639,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1358014,
+        "num": 1358014,
+        "word": "孩子甲流刚好又中招乙流",
+        "onboard_time": 1704239306,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999949,
+        "num": 999949,
+        "word": "苹果市值一夜蒸发7660亿元",
+        "onboard_time": 1704239187,
+        "rank": 1,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 34240,
+        "num": 895774,
+        "word": "航天员太空开饭前互飞饺子",
+        "onboard_time": 1704181358,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 810347,
+        "num": 810347,
+        "word": "警方通报高校干部酒后家暴打死妻子",
+        "onboard_time": 1704241652,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742880,
+        "num": 742880,
+        "word": "周一围 这次赶上朱丹的嘴",
+        "onboard_time": 1704243213,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670200,
+        "num": 670200,
+        "word": "偶像剧顶配",
+        "onboard_time": 1704243391,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 617998,
+        "num": 617998,
+        "word": "王健林再卖一线城市万达广场",
+        "onboard_time": 1704244469,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 606701,
+        "num": 606701,
+        "word": "一等功喜报到家他和家人却被打码",
+        "onboard_time": 1704243453,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562502,
+        "num": 562502,
+        "word": "太超前了尔滨",
+        "onboard_time": 1704207095,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 510831,
+        "num": 510831,
+        "word": "鄂伦春族都请来了",
+        "onboard_time": 1704238585,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1062493,
+        "num": 495042,
+        "word": "7年情侣上恋综被所有人劝分",
+        "onboard_time": 1704206677,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540182,
+        "num": 487848,
+        "word": "董宇辉中国传媒大学演讲",
+        "onboard_time": 1704244531,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 476057,
+        "num": 476057,
+        "word": "19岁景甜的西雅图vlog",
+        "onboard_time": 1704237741,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422143,
+        "num": 422143,
+        "word": "上海调整公积金个人住房贷款政策",
+        "onboard_time": 1704235637,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406525,
+        "num": 406525,
+        "word": "日本以业务过失致人伤亡嫌疑调查飞机事故",
+        "onboard_time": 1704240933,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385589,
+        "num": 385589,
+        "word": "美国哈佛大学校长宣布辞职",
+        "onboard_time": 1704240330,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 384570,
+        "num": 384570,
+        "word": "怪力侄女 病娇叔叔",
+        "onboard_time": 1704242014,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376179,
+        "num": 376179,
+        "word": "萌兰在院子里挖了4年宝贝",
+        "onboard_time": 1704238765,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366280,
+        "num": 366280,
+        "word": "郭麒麟亲了郭德纲一口",
+        "onboard_time": 1704236298,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 336819,
+        "num": 336819,
+        "word": "日本地震已致至少62人死亡",
+        "onboard_time": 1704244827,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343382,
+        "num": 332213,
+        "word": "早晚餐吃得晚伤心脏",
+        "onboard_time": 1704244649,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 319871,
+        "num": 319871,
+        "word": "95后班主任爆改女团舞为高三学生减压",
+        "onboard_time": 1704205058,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 335186,
+        "num": 319845,
+        "word": "未来一周日本可能还有强震",
+        "onboard_time": 1704238706,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292379,
+        "num": 292379,
+        "word": "董事长发的红包被我一个人领了",
+        "onboard_time": 1704199174,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277306,
+        "num": 277306,
+        "word": "科目三的风吹到了JYP",
+        "onboard_time": 1704245251,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267593,
+        "num": 267593,
+        "word": "跨年晚会真假唱鉴定",
+        "onboard_time": 1704207758,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266540,
+        "num": 266540,
+        "word": "女子二胎分娩后肠子内脏往外凸",
+        "onboard_time": 1704200852,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257822,
+        "num": 257822,
+        "word": "主播声称几万元貂皮卖399大妈狂下单",
+        "onboard_time": 1704224235,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252005,
+        "num": 252005,
+        "word": "爸爸给4岁儿子种出一个果园",
+        "onboard_time": 1704243630,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246498,
+        "num": 246498,
+        "word": "哈尔滨的惊喜每天不重样",
+        "onboard_time": 1704242614,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 275403,
+        "num": 243243,
+        "word": "上海已有三家万达广场被金融机构接手",
+        "onboard_time": 1704244768,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 236778,
+        "num": 236778,
+        "word": "迪丽热巴起诉两家商行维权",
+        "onboard_time": 1704238645,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234352,
+        "num": 234352,
+        "word": "56岁奶奶演13岁少年有多灵动",
+        "onboard_time": 1704245371,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210342,
+        "num": 210342,
+        "word": "一夜间松花江上蹦出N个大雪人",
+        "onboard_time": 1704243213,
+        "rank": 33,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 197323,
+        "num": 197323,
+        "word": "王栎鑫帮王一博整理领结",
+        "onboard_time": 1704237864,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195559,
+        "num": 195559,
+        "word": "日航起火客机 教科书般的紧急撤离",
+        "onboard_time": 1704244591,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194049,
+        "num": 194049,
+        "word": "邓为巴黎卡诗大中华区代言人",
+        "onboard_time": 1704241351,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188962,
+        "num": 188962,
+        "word": "张雪峰将给贫困生发电脑",
+        "onboard_time": 1704240270,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184446,
+        "num": 184446,
+        "word": "鞠婧祎跨年舞台 消音",
+        "onboard_time": 1704245429,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173967,
+        "num": 173967,
+        "word": "被唐嫣这个镜头美到了",
+        "onboard_time": 1704203492,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173956,
+        "num": 173956,
+        "word": "中国古代雪花的名字好有诗意",
+        "onboard_time": 1704245731,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165337,
+        "num": 165337,
+        "word": "李在明曾多次遭到死亡威胁",
+        "onboard_time": 1704238885,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 164882,
+        "num": 164882,
+        "word": "韩最大在野党党首两度遇袭",
+        "onboard_time": 1704239427,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 164818,
+        "num": 164818,
+        "word": "南方小土豆是什么梗",
+        "onboard_time": 1704207635,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 158939,
+        "num": 158939,
+        "word": "你怎么看南方小土豆这一称呼",
+        "onboard_time": 1704243692,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158458,
+        "num": 158458,
+        "word": "生孩子对痛经的影响",
+        "onboard_time": 1704207335,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 158051,
+        "num": 158051,
+        "word": "分析师预计iPhone16销售疲软",
+        "onboard_time": 1704242192,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149864,
+        "num": 149864,
+        "word": "繁花胡歌马伊琍初遇镜头",
+        "onboard_time": 1704232693,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147454,
+        "num": 147454,
+        "word": "谁在助长网红特权歪风",
+        "onboard_time": 1704245552,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 132994,
+        "num": 132994,
+        "word": "巴克莱银行唱衰iPhone16",
+        "onboard_time": 1704244531,
+        "rank": 49,
+        "category": "数码,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#归根到底就是让老百姓过上更好的日子#"
+    }
+  }
+}

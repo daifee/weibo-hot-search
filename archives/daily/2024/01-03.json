@@ -1,6 +1,6 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704244523909,
+  "endTime": 1704245752639,
   "band_list": [
     {
       "raw_hot": 1431104,
@@ -75,12 +75,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 606147,
-      "num": 547065,
+      "raw_hot": 742880,
+      "num": 742880,
       "word": "周一围 这次赶上朱丹的嘴",
       "onboard_time": 1704243213,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 670200,
+      "num": 670200,
+      "word": "偶像剧顶配",
+      "onboard_time": 1704243391,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 617998,
+      "num": 617998,
+      "word": "王健林再卖一线城市万达广场",
+      "onboard_time": 1704244469,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 606701,
+      "num": 606701,
+      "word": "一等功喜报到家他和家人却被打码",
+      "onboard_time": 1704243453,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 574290,
@@ -137,6 +161,14 @@
       "onboard_time": 1704238706,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540182,
+      "num": 487848,
+      "word": "董宇辉中国传媒大学演讲",
+      "onboard_time": 1704244531,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 535489,
@@ -211,19 +243,27 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 384526,
-      "num": 384526,
-      "word": "偶像剧顶配",
-      "onboard_time": 1704243391,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 379287,
       "num": 379287,
       "word": "日本地震死亡升至57人",
       "onboard_time": 1704238103,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343382,
+      "num": 332213,
+      "word": "早晚餐吃得晚伤心脏",
+      "onboard_time": 1704244649,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 336819,
+      "num": 336819,
+      "word": "日本地震已致至少62人死亡",
+      "onboard_time": 1704244827,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -241,14 +281,6 @@
       "onboard_time": 1704238645,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316531,
-      "num": 316531,
-      "word": "一等功喜报到家他和家人却被打码",
-      "onboard_time": 1704243453,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311987,
@@ -291,12 +323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277306,
+      "num": 277306,
+      "word": "科目三的风吹到了JYP",
+      "onboard_time": 1704245251,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275702,
       "num": 275702,
       "word": "59岁外卖员元旦当晚倒在送餐路上",
       "onboard_time": 1704205714,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275403,
+      "num": 243243,
+      "word": "上海已有三家万达广场被金融机构接手",
+      "onboard_time": 1704244768,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 267687,
@@ -331,20 +379,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 252005,
+      "num": 252005,
+      "word": "爸爸给4岁儿子种出一个果园",
+      "onboard_time": 1704243630,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251559,
       "num": 251559,
       "word": "繁花",
       "onboard_time": 1704197853,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243070,
-      "num": 243070,
-      "word": "爸爸给4岁儿子种出一个果园",
-      "onboard_time": 1704243630,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242316,
@@ -361,6 +409,14 @@
       "onboard_time": 1704242192,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 234352,
+      "num": 234352,
+      "word": "56岁奶奶演13岁少年有多灵动",
+      "onboard_time": 1704245371,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228110,
@@ -395,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195559,
+      "num": 195559,
+      "word": "日航起火客机 教科书般的紧急撤离",
+      "onboard_time": 1704244591,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189123,
       "num": 189123,
       "word": "99年小伙在制造业工作两年买新房",
@@ -408,6 +472,14 @@
       "word": "王鹤棣derder进化史",
       "onboard_time": 1704208298,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184446,
+      "num": 184446,
+      "word": "鞠婧祎跨年舞台 消音",
+      "onboard_time": 1704245429,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -427,6 +499,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 173956,
+      "num": 173956,
+      "word": "中国古代雪花的名字好有诗意",
+      "onboard_time": 1704245731,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171955,
       "num": 171955,
       "word": "国内油价新年首调或涨价",
@@ -443,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165337,
+      "num": 165337,
+      "word": "李在明曾多次遭到死亡威胁",
+      "onboard_time": 1704238885,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 165281,
       "num": 165281,
       "word": "白狐出来接客 东北虎被泼雪",
@@ -457,14 +545,6 @@
       "onboard_time": 1704204033,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156607,
-      "num": 156607,
-      "word": "李在明曾多次遭到死亡威胁",
-      "onboard_time": 1704238885,
-      "rank": 40,
-      "category": "国外时政"
     },
     {
       "raw_hot": 155122,
@@ -497,6 +577,14 @@
       "onboard_time": 1704244235,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147454,
+      "num": 147454,
+      "word": "谁在助长网红特权歪风",
+      "onboard_time": 1704245552,
+      "rank": 48,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 143994,
@@ -563,12 +651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125980,
-      "num": 125980,
-      "word": "王健林再卖一线城市万达广场",
-      "onboard_time": 1704244469,
-      "rank": 47,
-      "category": "财经,社会新闻"
+      "raw_hot": 132994,
+      "num": 132994,
+      "word": "巴克莱银行唱衰iPhone16",
+      "onboard_time": 1704244531,
+      "rank": 49,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 122157,
@@ -787,8 +875,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33070,
-      "num": 875112,
+      "raw_hot": 34240,
+      "num": 895774,
       "word": "航天员太空开饭前互飞饺子",
       "onboard_time": 1704181358,
       "rank": 2,
