@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704270900810,
+  "endTime": 1704273517372,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 1561985,
-      "num": 677508,
+      "num": 759099,
       "word": "郝劭文妻子曝女儿遭遇校园霸凌",
       "onboard_time": 1704266850,
       "rank": 12,
@@ -955,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1134720,
+      "num": 853106,
+      "word": "甜馨neinei十年后同框",
+      "onboard_time": 1704272133,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1132312,
       "num": 1132312,
       "word": "端木代言了美特斯邦威",
@@ -977,6 +985,14 @@
       "onboard_time": 1704182977,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1109361,
+      "num": 1109361,
+      "word": "小砂糖橘",
+      "onboard_time": 1704266490,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 1109068,
@@ -1113,14 +1129,6 @@
       "onboard_time": 1704248310,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1018800,
-      "num": 1018800,
-      "word": "小砂糖橘",
-      "onboard_time": 1704266490,
-      "rank": 18,
-      "category": "旅游"
     },
     {
       "raw_hot": 1013321,
@@ -1339,6 +1347,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 903016,
+      "num": 903016,
+      "word": "霉霉 恶女心态拒绝内耗",
+      "onboard_time": 1704270756,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 901947,
       "num": 901947,
       "word": "王家卫拍出了辛芷蕾的人生镜头",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1704024106,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 837056,
+      "num": 837056,
+      "word": "秦岚泳衣外穿",
+      "onboard_time": 1704269370,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 835757,
@@ -2075,14 +2099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 666807,
-      "num": 380017,
-      "word": "秦岚泳衣外穿",
-      "onboard_time": 1704269370,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 663577,
       "num": 663577,
       "word": "郑恺透露繁花与唐嫣结局HE",
@@ -2248,6 +2264,14 @@
       "word": "日本飞机相撞事故为航空事故",
       "onboard_time": 1704206916,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617591,
+      "num": 617591,
+      "word": "小砂糖橘家长发声感谢东北朋友",
+      "onboard_time": 1704269971,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2843,6 +2867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 496683,
+      "num": 496683,
+      "word": "林心如 武艺老在长沙",
+      "onboard_time": 1704270689,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 491409,
       "num": 491409,
       "word": "新年壁纸",
@@ -2873,6 +2905,14 @@
       "onboard_time": 1704183758,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 486403,
+      "num": 486403,
+      "word": "广州平均月薪11186元",
+      "onboard_time": 1704267932,
+      "rank": 20,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 485386,
@@ -3403,6 +3443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 395284,
+      "num": 395284,
+      "word": "猫咪吞食顾客1克拉钻石",
+      "onboard_time": 1704268829,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395252,
       "num": 395252,
       "word": "林高远 Happy new year",
@@ -3475,6 +3523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380216,
+      "num": 276457,
+      "word": "将进酒的将读qiang",
+      "onboard_time": 1704269250,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 379287,
       "num": 379287,
       "word": "日本地震死亡升至57人",
@@ -3531,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376080,
+      "num": 376080,
+      "word": "北大试点取消绩点",
+      "onboard_time": 1704272611,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 373085,
       "num": 373085,
       "word": "你好香啊 你也是",
@@ -3553,14 +3617,6 @@
       "onboard_time": 1704262409,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 370393,
-      "num": 370393,
-      "word": "小砂糖橘家长发声感谢东北朋友",
-      "onboard_time": 1704269971,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365561,
@@ -3745,14 +3801,6 @@
       "onboard_time": 1704161978,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342782,
-      "num": 342782,
-      "word": "广州平均月薪11186元",
-      "onboard_time": 1704267932,
-      "rank": 20,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 342410,
@@ -4099,14 +4147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305741,
-      "num": 276457,
-      "word": "将进酒的将读qiang",
-      "onboard_time": 1704269250,
-      "rank": 23,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 305623,
       "num": 305623,
       "word": "国足vs中国香港",
@@ -4161,6 +4201,14 @@
       "onboard_time": 1704242614,
       "rank": 25,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 299158,
+      "num": 299158,
+      "word": "梁靖崑vs林昀儒",
+      "onboard_time": 1704271470,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 299143,
@@ -4611,6 +4659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271389,
+      "num": 271389,
+      "word": "东北女生模仿南方小土豆一开口就露馅",
+      "onboard_time": 1704269971,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270068,
       "num": 209030,
       "word": "揉开这里才知道自己憋了多少气",
@@ -4729,14 +4785,6 @@
       "onboard_time": 1704257617,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 262966,
-      "num": 262966,
-      "word": "猫咪吞食顾客1克拉钻石",
-      "onboard_time": 1704268829,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262188,
@@ -5043,6 +5091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244385,
+      "num": 244385,
+      "word": "柳智敏 销量",
+      "onboard_time": 1704271111,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 243063,
       "num": 243063,
       "word": "武汉跨年气球碰电线炸出火花",
@@ -5073,14 +5129,6 @@
       "onboard_time": 1704154114,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 239639,
-      "num": 239639,
-      "word": "东北女生模仿南方小土豆一开口就露馅",
-      "onboard_time": 1704269971,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239453,
@@ -5547,6 +5595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217786,
+      "num": 191617,
+      "word": "上班久了感觉自己充满班张力",
+      "onboard_time": 1704273092,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217514,
       "num": 217514,
       "word": "1992年的李李",
@@ -5907,6 +5963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201144,
+      "num": 201144,
+      "word": "哈尔滨南站标注出租车区域价格表",
+      "onboard_time": 1704272133,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200918,
       "num": 200918,
       "word": "拜登全年37%时间在度假胜地",
@@ -6099,6 +6163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195499,
+      "num": 195499,
+      "word": "旅俄熊猫幼崽叫喀秋莎",
+      "onboard_time": 1704273215,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195112,
       "num": 195112,
       "word": "韩振 河南老乡",
@@ -6289,6 +6361,14 @@
       "onboard_time": 1704130700,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189701,
+      "num": 189701,
+      "word": "梁靖崑3比1林昀儒",
+      "onboard_time": 1704272792,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 189492,
@@ -6619,14 +6699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178061,
-      "num": 178061,
-      "word": "霉霉 恶女心态拒绝内耗",
-      "onboard_time": 1704270756,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177930,
       "num": 490077,
       "word": "罗云熙空降浮生忆玲珑",
@@ -6705,14 +6777,6 @@
       "onboard_time": 1704025004,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176786,
-      "num": 176786,
-      "word": "林心如 武艺老在长沙",
-      "onboard_time": 1704270689,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 175697,
@@ -6979,6 +7043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167720,
+      "num": 167720,
+      "word": "小猫出去打架打输了",
+      "onboard_time": 1704273092,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167563,
       "num": 167563,
       "word": "AR新赛季阵容官宣",
@@ -7081,6 +7153,14 @@
       "onboard_time": 1704082712,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165137,
+      "num": 165137,
+      "word": "第一次剪指甲的萨摩耶宝宝",
+      "onboard_time": 1704272251,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 164311,
@@ -7339,6 +7419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157122,
+      "num": 157122,
+      "word": "校方工作人员回应干部酒后打死妻子",
+      "onboard_time": 1704272792,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157045,
       "num": 157045,
       "word": "新马泰均已免签",
@@ -7377,6 +7465,14 @@
       "onboard_time": 1704188071,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154942,
+      "num": 154942,
+      "word": "黄杨钿甜 盛唐少女",
+      "onboard_time": 1704271771,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 154461,
@@ -7649,6 +7745,14 @@
       "onboard_time": 1704015993,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 147286,
+      "num": 147286,
+      "word": "交错战线",
+      "onboard_time": 1704273333,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 147034,
@@ -8203,6 +8307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133757,
+      "num": 133757,
+      "word": "尔滨你变了",
+      "onboard_time": 1704271832,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133208,
       "num": 133208,
       "word": "陈梦 新的一年一起努力加油",
@@ -8665,6 +8777,14 @@
       "onboard_time": 1704156877,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121056,
+      "num": 121056,
+      "word": "阿根廷发生5.5级地震",
+      "onboard_time": 1704273393,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120670,
@@ -9444,7 +9564,7 @@
     },
     {
       "raw_hot": 79215,
-      "num": 226183,
+      "num": 379170,
       "word": "陈都灵原生妆好高级",
       "onboard_time": 1704254251,
       "rank": 33,
@@ -9601,6 +9721,14 @@
       "onboard_time": 1704270390,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 66288,
+      "num": 138600,
+      "word": "嫦娥四号探测器登月5周年",
+      "onboard_time": 1704272851,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66068,
@@ -10143,6 +10271,14 @@
       "num": 744290,
       "word": "新年满弦开弓一起迈出新步伐",
       "onboard_time": 1704253829,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20549,
+      "num": 861748,
+      "word": "为了让你2024去旅行多地开年晒美景",
+      "onboard_time": 1704273031,
       "rank": 2,
       "category": "社会新闻"
     },
