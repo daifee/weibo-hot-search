@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704320210285,
+  "endTime": 1704321242509,
   "band_list": [
     {
       "raw_hot": 951561,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107890,
+      "num": 107890,
+      "word": "女童上公交姥姥没追上急哭求助后车",
+      "onboard_time": 1704301642,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106815,
       "num": 106815,
       "word": "王家卫太会拍了",
@@ -403,14 +411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 73284,
-      "num": 73284,
-      "word": "女童上公交姥姥没追上急哭求助后车",
-      "onboard_time": 1704301642,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66186,
       "num": 66186,
       "word": "郭艾伦怎么了",
@@ -441,6 +441,14 @@
       "onboard_time": 1704303318,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44703,
+      "num": 32876,
+      "word": "杭州超100所小学30所初中爆表",
+      "onboard_time": 1704319815,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 43284,
@@ -483,28 +491,28 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 32117,
-      "num": 25645,
+      "raw_hot": 33385,
+      "num": 32796,
       "word": "办婚礼大半年没圆房男子要回彩礼",
       "onboard_time": 1704314654,
       "rank": 22,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19999,
-      "num": 19999,
+      "raw_hot": 22142,
+      "num": 22142,
       "word": "多地公布2023新生儿爆款名",
       "onboard_time": 1704313094,
       "rank": 35,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17372,
-      "num": 17372,
-      "word": "杭州超100所小学30所初中爆表",
-      "onboard_time": 1704319815,
-      "rank": 40,
-      "category": "教育,社会新闻"
+      "raw_hot": 19298,
+      "num": 21943,
+      "word": "小土豆初体验铲雪被东北大爷直夸",
+      "onboard_time": 1704315974,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16727,
@@ -515,12 +523,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 14907,
-      "num": 16527,
-      "word": "小土豆初体验铲雪被东北大爷直夸",
-      "onboard_time": 1704315974,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 13591,
+      "num": 21906,
+      "word": "金靖刘维你们上春晚演吧",
+      "onboard_time": 1704321196,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 13423,

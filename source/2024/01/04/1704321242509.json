@@ -1,0 +1,410 @@
+{
+  "runTime": 1704321242509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 398858,
+        "num": 398858,
+        "word": "哈尔滨为小土豆连夜撤下破旧公交牌",
+        "onboard_time": 1704299007,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167403,
+        "num": 167403,
+        "word": "民警多问一句竟发现2名被拐孩子",
+        "onboard_time": 1704294576,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24712,
+        "num": 150222,
+        "word": "程序员回乡种小时候味道的西红柿",
+        "onboard_time": 1704286775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145905,
+        "num": 145905,
+        "word": "付豪道歉",
+        "onboard_time": 1704294937,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141888,
+        "num": 141888,
+        "word": "清华一本科生转学至双非院校",
+        "onboard_time": 1704279337,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107890,
+        "num": 107890,
+        "word": "女童上公交姥姥没追上急哭求助后车",
+        "onboard_time": 1704301642,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100529,
+        "num": 100529,
+        "word": "被小狗亲了一口然后亲手用雪埋了",
+        "onboard_time": 1704298228,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91829,
+        "num": 91829,
+        "word": "伊朗爆炸事件死亡人数上升至103人",
+        "onboard_time": 1704291879,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 85366,
+        "num": 85366,
+        "word": "尔滨背刺了整个东北",
+        "onboard_time": 1704283110,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 73517,
+        "num": 73517,
+        "word": "王家卫在片场让马伊琍不要低头",
+        "onboard_time": 1704292716,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56546,
+        "num": 56546,
+        "word": "在哈尔滨甚至能吃到索菲亚教堂",
+        "onboard_time": 1704297213,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 54111,
+        "num": 54111,
+        "word": "女子每周拔罐放血200ml致重度贫血",
+        "onboard_time": 1704288034,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53444,
+        "num": 53444,
+        "word": "龙年纪念币",
+        "onboard_time": 1704291034,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53435,
+        "num": 53435,
+        "word": "甜馨neinei十年后同框",
+        "onboard_time": 1704272133,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50609,
+        "num": 50609,
+        "word": "付豪被驱逐",
+        "onboard_time": 1704290374,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48715,
+        "num": 48715,
+        "word": "爱宝双胞胎女儿将正式与公众见面",
+        "onboard_time": 1704293316,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42510,
+        "num": 42510,
+        "word": "突然理解那些很少看手机的人了",
+        "onboard_time": 1704284193,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38960,
+        "num": 38960,
+        "word": "紧急避孕药的伤害",
+        "onboard_time": 1704290138,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33664,
+        "num": 33664,
+        "word": "郭艾伦怎么了",
+        "onboard_time": 1704289473,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33116,
+        "num": 33116,
+        "word": "王者荣耀",
+        "onboard_time": 1704293857,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75174,
+        "num": 33069,
+        "word": "当老公发现了前男友写给我的情书",
+        "onboard_time": 1704296973,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65901,
+        "num": 33055,
+        "word": "亚裔夫妇花10万美元试管诞下白人婴儿",
+        "onboard_time": 1704291698,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49212,
+        "num": 33018,
+        "word": "发烧让两个同事给我送钥匙都被拒绝了",
+        "onboard_time": 1704289832,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27394,
+        "num": 32958,
+        "word": "秦岚泳衣外穿",
+        "onboard_time": 1704269370,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44703,
+        "num": 32876,
+        "word": "杭州超100所小学30所初中爆表",
+        "onboard_time": 1704319815,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 43985,
+        "num": 32853,
+        "word": "泡温泉会感染HPV吗",
+        "onboard_time": 1704289657,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33385,
+        "num": 32796,
+        "word": "办婚礼大半年没圆房男子要回彩礼",
+        "onboard_time": 1704314654,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32774,
+        "num": 32774,
+        "word": "美国妈妈流行给婴儿舌头划一刀",
+        "onboard_time": 1704278374,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29785,
+        "num": 29785,
+        "word": "蔡少芬问孙千哈尔滨冰雕",
+        "onboard_time": 1704296851,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28986,
+        "num": 28986,
+        "word": "龙年纪念钞预约",
+        "onboard_time": 1704293316,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28650,
+        "num": 28650,
+        "word": "1460元繁花双人餐每天限20套",
+        "onboard_time": 1704284612,
+        "rank": 30,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 28043,
+        "num": 28043,
+        "word": "迪丽热巴这多不好意思快走",
+        "onboard_time": 1704303318,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27807,
+        "num": 27807,
+        "word": "低成本的护肤好习惯",
+        "onboard_time": 1704297390,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 27706,
+        "num": 27706,
+        "word": "伊朗爆炸肇事者遥控引爆袋子内炸弹",
+        "onboard_time": 1704295115,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 26368,
+        "num": 26368,
+        "word": "网友街头偶遇刘强东越野车送出",
+        "onboard_time": 1704287735,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23571,
+        "num": 23571,
+        "word": "王楚钦比赛",
+        "onboard_time": 1704291336,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23269,
+        "num": 23269,
+        "word": "辛芷蕾 影视综的花都开了",
+        "onboard_time": 1704293501,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22298,
+        "num": 22298,
+        "word": "浙江这家企业一年从欧洲进账40亿",
+        "onboard_time": 1704299724,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22586,
+        "num": 22272,
+        "word": "王家卫太会拍了",
+        "onboard_time": 1704286537,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22142,
+        "num": 22142,
+        "word": "多地公布2023新生儿爆款名",
+        "onboard_time": 1704313094,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21950,
+        "num": 21950,
+        "word": "30岁大厂女生周末星巴克兼职",
+        "onboard_time": 1704281074,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19415,
+        "num": 21950,
+        "word": "农行纪念币",
+        "onboard_time": 1704292535,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19298,
+        "num": 21943,
+        "word": "小土豆初体验铲雪被东北大爷直夸",
+        "onboard_time": 1704315974,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19057,
+        "num": 21934,
+        "word": "巨蟹座的无所谓都是有所谓",
+        "onboard_time": 1704293433,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18839,
+        "num": 21928,
+        "word": "李燃去桃李二班",
+        "onboard_time": 1704290435,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17979,
+        "num": 21926,
+        "word": "黄子弘凡 玄学巅峰",
+        "onboard_time": 1704287613,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17222,
+        "num": 21918,
+        "word": "我现在唯一的社交",
+        "onboard_time": 1704285392,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16925,
+        "num": 21912,
+        "word": "王楚钦3比1勒布伦",
+        "onboard_time": 1704297692,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14580,
+        "num": 21911,
+        "word": "热烈的爱和稳定的情绪无法共存",
+        "onboard_time": 1704294279,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13591,
+        "num": 21906,
+        "word": "金靖刘维你们上春晚演吧",
+        "onboard_time": 1704321196,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}
