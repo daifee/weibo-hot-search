@@ -1,0 +1,410 @@
+{
+  "runTime": 1704313071333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 139608,
+        "num": 139608,
+        "word": "哈尔滨为小土豆连夜撤下破旧公交牌",
+        "onboard_time": 1704299007,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62936,
+        "num": 62936,
+        "word": "付豪道歉",
+        "onboard_time": 1704294937,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11777,
+        "num": 56984,
+        "word": "程序员回乡种小时候味道的西红柿",
+        "onboard_time": 1704286775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54662,
+        "num": 54662,
+        "word": "民警多问一句竟发现2名被拐孩子",
+        "onboard_time": 1704294576,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52826,
+        "num": 52826,
+        "word": "突然理解那些很少看手机的人了",
+        "onboard_time": 1704284193,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46990,
+        "num": 46990,
+        "word": "清华一本科生转学至双非院校",
+        "onboard_time": 1704279337,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41287,
+        "num": 41287,
+        "word": "女童上公交姥姥没追上急哭求助后车",
+        "onboard_time": 1704301642,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41135,
+        "num": 41135,
+        "word": "尔滨背刺了整个东北",
+        "onboard_time": 1704283110,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 40586,
+        "num": 40586,
+        "word": "伊朗爆炸事件死亡人数上升至103人",
+        "onboard_time": 1704291879,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 35663,
+        "num": 35663,
+        "word": "迪丽热巴这多不好意思快走",
+        "onboard_time": 1704303318,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34578,
+        "num": 34578,
+        "word": "紧急避孕药的伤害",
+        "onboard_time": 1704290138,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33476,
+        "num": 33476,
+        "word": "甜馨neinei十年后同框",
+        "onboard_time": 1704272133,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25931,
+        "num": 25931,
+        "word": "王家卫在片场让马伊琍不要低头",
+        "onboard_time": 1704292716,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25585,
+        "num": 25585,
+        "word": "龙年纪念币",
+        "onboard_time": 1704291034,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25301,
+        "num": 25301,
+        "word": "被小狗亲了一口然后亲手用雪埋了",
+        "onboard_time": 1704298228,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24478,
+        "num": 24478,
+        "word": "王者荣耀",
+        "onboard_time": 1704293857,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24088,
+        "num": 24088,
+        "word": "王家卫太会拍了",
+        "onboard_time": 1704286537,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24004,
+        "num": 24004,
+        "word": "秦岚泳衣外穿",
+        "onboard_time": 1704269370,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23824,
+        "num": 23824,
+        "word": "付豪被驱逐",
+        "onboard_time": 1704290374,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19144,
+        "num": 19144,
+        "word": "在哈尔滨甚至能吃到索菲亚教堂",
+        "onboard_time": 1704297213,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35600,
+        "num": 18995,
+        "word": "亚裔夫妇花10万美元试管诞下白人婴儿",
+        "onboard_time": 1704291698,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32270,
+        "num": 18628,
+        "word": "当老公发现了前男友写给我的情书",
+        "onboard_time": 1704296973,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26659,
+        "num": 18367,
+        "word": "泡温泉会感染HPV吗",
+        "onboard_time": 1704289657,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24042,
+        "num": 18242,
+        "word": "发烧让两个同事给我送钥匙都被拒绝了",
+        "onboard_time": 1704289832,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20537,
+        "num": 17788,
+        "word": "美国妈妈流行给婴儿舌头划一刀",
+        "onboard_time": 1704278374,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17693,
+        "num": 17693,
+        "word": "1460元繁花双人餐每天限20套",
+        "onboard_time": 1704284612,
+        "rank": 25,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 17307,
+        "num": 17307,
+        "word": "女子每周拔罐放血200ml致重度贫血",
+        "onboard_time": 1704288034,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16901,
+        "num": 16901,
+        "word": "辛芷蕾 影视综的花都开了",
+        "onboard_time": 1704293501,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16654,
+        "num": 16654,
+        "word": "黄子弘凡 玄学巅峰",
+        "onboard_time": 1704287613,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16066,
+        "num": 16066,
+        "word": "龙年纪念钞预约",
+        "onboard_time": 1704293316,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15895,
+        "num": 15895,
+        "word": "爱宝双胞胎女儿将正式与公众见面",
+        "onboard_time": 1704293316,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15832,
+        "num": 15832,
+        "word": "王楚钦比赛",
+        "onboard_time": 1704291336,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14417,
+        "num": 14417,
+        "word": "我现在唯一的社交",
+        "onboard_time": 1704285392,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14151,
+        "num": 14151,
+        "word": "繁花",
+        "onboard_time": 1704285335,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14004,
+        "num": 14004,
+        "word": "巨蟹座的无所谓都是有所谓",
+        "onboard_time": 1704293433,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13760,
+        "num": 13760,
+        "word": "低成本的护肤好习惯",
+        "onboard_time": 1704297390,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 13109,
+        "num": 13109,
+        "word": "王楚钦3比1勒布伦",
+        "onboard_time": 1704297692,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13019,
+        "num": 13019,
+        "word": "伊朗爆炸肇事者遥控引爆袋子内炸弹",
+        "onboard_time": 1704295115,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 12849,
+        "num": 12849,
+        "word": "蔡少芬问孙千哈尔滨冰雕",
+        "onboard_time": 1704296851,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12833,
+        "num": 12833,
+        "word": "浙江这家企业一年从欧洲进账40亿",
+        "onboard_time": 1704299724,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12759,
+        "num": 12759,
+        "word": "网友街头偶遇刘强东越野车送出",
+        "onboard_time": 1704287735,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12758,
+        "num": 12758,
+        "word": "30岁大厂女生周末星巴克兼职",
+        "onboard_time": 1704281074,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12616,
+        "num": 12616,
+        "word": "郭艾伦怎么了",
+        "onboard_time": 1704289473,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12038,
+        "num": 12038,
+        "word": "我这Eason如履薄冰",
+        "onboard_time": 1704303499,
+        "rank": 43,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 12014,
+        "num": 12014,
+        "word": "热烈的爱和稳定的情绪无法共存",
+        "onboard_time": 1704294279,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10983,
+        "num": 10983,
+        "word": "我们家沈耀就不用浪费高三时间听了吧",
+        "onboard_time": 1704292055,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10926,
+        "num": 10926,
+        "word": "农行纪念币",
+        "onboard_time": 1704292535,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10432,
+        "num": 10432,
+        "word": "李燃去桃李二班",
+        "onboard_time": 1704290435,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10359,
+        "num": 10359,
+        "word": "美拉德小狗",
+        "onboard_time": 1704306436,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 10262,
+        "num": 10262,
+        "word": "苏州和宁波大哥高速联手救人",
+        "onboard_time": 1704313034,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}

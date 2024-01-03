@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704310441590,
+  "endTime": 1704313071333,
   "band_list": [
     {
       "raw_hot": 951561,
@@ -497,6 +497,14 @@
       "onboard_time": 1704309794,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10262,
+      "num": 10262,
+      "word": "苏州和宁波大哥高速联手救人",
+      "onboard_time": 1704313034,
+      "rank": 49,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
