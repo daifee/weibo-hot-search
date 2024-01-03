@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704321242509,
+  "endTime": 1704323954910,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -731,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1107204,
+      "num": 1107204,
+      "word": "哈尔滨为小土豆连夜撤下破旧公交牌",
+      "onboard_time": 1704299007,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1093079,
       "num": 1093079,
       "word": "日本民航局局长发布会多次发笑",
@@ -1169,14 +1177,6 @@
       "onboard_time": 1704104918,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 810050,
-      "num": 810050,
-      "word": "哈尔滨为小土豆连夜撤下破旧公交牌",
-      "onboard_time": 1704299007,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 806211,
@@ -2395,12 +2395,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 485386,
-      "num": 485386,
-      "word": "钟欣潼演丁禹兮母亲",
-      "onboard_time": 1704167978,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 485758,
+      "num": 485758,
+      "word": "民警多问一句竟发现2名被拐孩子",
+      "onboard_time": 1704294576,
+      "rank": 25,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

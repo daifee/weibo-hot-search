@@ -1,21 +1,21 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704321242509,
+  "endTime": 1704323954910,
   "band_list": [
+    {
+      "raw_hot": 1107204,
+      "num": 1107204,
+      "word": "哈尔滨为小土豆连夜撤下破旧公交牌",
+      "onboard_time": 1704299007,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 951561,
       "num": 951561,
       "word": "龙年纪念币",
       "onboard_time": 1704291034,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 810050,
-      "num": 810050,
-      "word": "哈尔滨为小土豆连夜撤下破旧公交牌",
-      "onboard_time": 1704299007,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 479620,
-      "num": 479620,
+      "raw_hot": 485758,
+      "num": 485758,
       "word": "民警多问一句竟发现2名被拐孩子",
       "onboard_time": 1704294576,
       "rank": 6,
@@ -155,6 +155,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237448,
+      "num": 237448,
+      "word": "尔滨背刺了整个东北",
+      "onboard_time": 1704283110,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 227414,
+      "num": 227414,
+      "word": "女童上公交姥姥没追上急哭求助后车",
+      "onboard_time": 1704301642,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224325,
+      "num": 224325,
+      "word": "被小狗亲了一口然后亲手用雪埋了",
+      "onboard_time": 1704298228,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 213734,
+      "num": 213734,
+      "word": "张家口市张北县2.4级地震",
+      "onboard_time": 1704323479,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208170,
       "num": 208170,
       "word": "龙年纪念钞预约",
@@ -211,14 +243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157519,
-      "num": 157519,
-      "word": "尔滨背刺了整个东北",
-      "onboard_time": 1704283110,
-      "rank": 25,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 155123,
       "num": 155123,
       "word": "繁花",
@@ -227,28 +251,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154889,
+      "num": 154889,
+      "word": "爱宝双胞胎女儿将正式与公众见面",
+      "onboard_time": 1704293316,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154397,
       "num": 154397,
       "word": "在哈尔滨甚至能吃到索菲亚教堂",
       "onboard_time": 1704297213,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 145073,
-      "num": 143516,
-      "word": "被小狗亲了一口然后亲手用雪埋了",
-      "onboard_time": 1704298228,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 141414,
-      "num": 141414,
-      "word": "爱宝双胞胎女儿将正式与公众见面",
-      "onboard_time": 1704293316,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140228,
@@ -307,20 +323,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109871,
+      "num": 92720,
+      "word": "杭州超100所小学30所初中爆表",
+      "onboard_time": 1704319815,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 109724,
       "num": 109724,
       "word": "我们家沈耀就不用浪费高三时间听了吧",
       "onboard_time": 1704292055,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107890,
-      "num": 107890,
-      "word": "女童上公交姥姥没追上急哭求助后车",
-      "onboard_time": 1704301642,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106815,
@@ -355,12 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97074,
+      "num": 97074,
+      "word": "李在明遇袭后已恢复清醒",
+      "onboard_time": 1704323181,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 92957,
       "num": 92957,
       "word": "陈都灵镜妖 妖怪界物理学霸",
       "onboard_time": 1704292659,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92383,
+      "num": 92383,
+      "word": "官方回应深圳初中取消晚自习",
+      "onboard_time": 1704321135,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 92346,
@@ -419,12 +451,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57856,
+      "raw_hot": 65396,
+      "num": 65396,
+      "word": "金靖刘维你们上春晚演吧",
+      "onboard_time": 1704321196,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 63116,
       "num": 598265,
       "word": "程序员回乡种小时候味道的西红柿",
       "onboard_time": 1704286775,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60445,
+      "num": 60445,
+      "word": "当东北金渐层被叫咪咪",
+      "onboard_time": 1704323479,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 53725,
@@ -435,20 +483,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45172,
-      "num": 45172,
+      "raw_hot": 53399,
+      "num": 53399,
+      "word": "浙江这家企业一年从欧洲进账40亿",
+      "onboard_time": 1704299724,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52650,
+      "num": 52650,
       "word": "迪丽热巴这多不好意思快走",
       "onboard_time": 1704303318,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44703,
-      "num": 32876,
-      "word": "杭州超100所小学30所初中爆表",
-      "onboard_time": 1704319815,
-      "rank": 40,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 43284,
@@ -459,20 +507,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43190,
+      "num": 43190,
+      "word": "办婚礼大半年没圆房男子要回彩礼",
+      "onboard_time": 1704314654,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42595,
       "num": 45864,
       "word": "只有帅哥才能做的Little Bit challenge",
       "onboard_time": 1704301040,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 40561,
-      "num": 45866,
-      "word": "浙江这家企业一年从欧洲进账40亿",
-      "onboard_time": 1704299724,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40194,
@@ -483,28 +531,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39304,
+      "num": 39304,
+      "word": "多地公布2023新生儿爆款名",
+      "onboard_time": 1704313094,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34262,
       "num": 34262,
       "word": "我这Eason如履薄冰",
       "onboard_time": 1704303499,
       "rank": 31,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 33385,
-      "num": 32796,
-      "word": "办婚礼大半年没圆房男子要回彩礼",
-      "onboard_time": 1704314654,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22142,
-      "num": 22142,
-      "word": "多地公布2023新生儿爆款名",
-      "onboard_time": 1704313094,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19298,
@@ -521,14 +561,6 @@
       "onboard_time": 1704306436,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 13591,
-      "num": 21906,
-      "word": "金靖刘维你们上春晚演吧",
-      "onboard_time": 1704321196,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 13423,
