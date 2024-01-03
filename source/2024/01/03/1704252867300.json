@@ -1,0 +1,410 @@
+{
+  "runTime": 1704252867300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2250367,
+        "num": 2250367,
+        "word": "12306推出购票新功能",
+        "onboard_time": 1704248549,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026244,
+        "num": 1026244,
+        "word": "辛芷蕾拍繁花学了两年舞蹈课",
+        "onboard_time": 1704248310,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20644,
+        "num": 919125,
+        "word": "航天员太空开饭前互飞饺子",
+        "onboard_time": 1704181358,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 848246,
+        "num": 848246,
+        "word": "汪小姐 和过去决裂很彻底",
+        "onboard_time": 1704249212,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 781132,
+        "num": 781132,
+        "word": "王健林再卖一线城市万达广场",
+        "onboard_time": 1704244469,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 603648,
+        "num": 603648,
+        "word": "脱轨被曝盗图",
+        "onboard_time": 1704245911,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 564971,
+        "num": 564971,
+        "word": "考研时没有生活 考研后不会生活",
+        "onboard_time": 1704248249,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 533871,
+        "num": 533871,
+        "word": "科目三的风吹到了JYP",
+        "onboard_time": 1704245251,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489128,
+        "num": 489128,
+        "word": "郑恺透露繁花与唐嫣结局HE",
+        "onboard_time": 1704249030,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383172,
+        "num": 383172,
+        "word": "三亚冬天败给哈尔滨",
+        "onboard_time": 1704246151,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1160699,
+        "num": 381155,
+        "word": "刘诗诗吴奇隆带娃出门",
+        "onboard_time": 1704248911,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541814,
+        "num": 380268,
+        "word": "7年情侣上恋综被所有人劝分",
+        "onboard_time": 1704206677,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458412,
+        "num": 377619,
+        "word": "日本石川县发生5.5级地震",
+        "onboard_time": 1704249630,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456323,
+        "num": 376311,
+        "word": "哈尔滨游客订不到房入住人大服务中心",
+        "onboard_time": 1704246929,
+        "rank": 13,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 403684,
+        "num": 372816,
+        "word": "2024待爆",
+        "onboard_time": 1704247949,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371970,
+        "num": 371970,
+        "word": "孩子甲流刚好又中招乙流",
+        "onboard_time": 1704239306,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357652,
+        "num": 357652,
+        "word": "田曦薇人群中认出粉丝",
+        "onboard_time": 1704248852,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340706,
+        "num": 340706,
+        "word": "日本地震死亡人数再上升",
+        "onboard_time": 1704251012,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334523,
+        "num": 334523,
+        "word": "繁花配角 戏里看表演",
+        "onboard_time": 1704250471,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303300,
+        "num": 303300,
+        "word": "董宇辉中国传媒大学演讲",
+        "onboard_time": 1704244531,
+        "rank": 19,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 1195515,
+        "num": 301156,
+        "word": "南方小土豆 刻板印象",
+        "onboard_time": 1704247110,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307603,
+        "num": 300794,
+        "word": "周一围 这次赶上朱丹的嘴",
+        "onboard_time": 1704243213,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290272,
+        "num": 290272,
+        "word": "JENNIE新综艺",
+        "onboard_time": 1704251850,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281528,
+        "num": 281528,
+        "word": "苹果市值一夜蒸发7660亿元",
+        "onboard_time": 1704239187,
+        "rank": 23,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 278954,
+        "num": 278954,
+        "word": "人体这5个器官最怕过冬",
+        "onboard_time": 1704248489,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266164,
+        "num": 266164,
+        "word": "宝宝在军营被爸爸战友抢着抱",
+        "onboard_time": 1704246151,
+        "rank": 25,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 259131,
+        "num": 259131,
+        "word": "偶像剧顶配",
+        "onboard_time": 1704243391,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231777,
+        "num": 231777,
+        "word": "新闻联播披露福建舰最新画面",
+        "onboard_time": 1704246509,
+        "rank": 27,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 231046,
+        "num": 231046,
+        "word": "早晚餐吃得晚伤心脏",
+        "onboard_time": 1704244649,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227659,
+        "num": 227659,
+        "word": "袭击李在明嫌犯曾任公务员",
+        "onboard_time": 1704251190,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 213078,
+        "num": 213078,
+        "word": "他33岁失去左腿35岁站上世界舞台",
+        "onboard_time": 1704248730,
+        "rank": 30,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 197875,
+        "num": 197875,
+        "word": "王俊凯诉振东制药等侵犯肖像权",
+        "onboard_time": 1704249030,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196335,
+        "num": 196335,
+        "word": "新的一年如何年入百万",
+        "onboard_time": 1704250891,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194599,
+        "num": 194599,
+        "word": "小伙摆摊舔铁体验5元起",
+        "onboard_time": 1704247469,
+        "rank": 33,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 190505,
+        "num": 190505,
+        "word": "网易游戏上线未成年人模式",
+        "onboard_time": 1704252632,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184224,
+        "num": 184224,
+        "word": "WTT男单球员大合照",
+        "onboard_time": 1704251789,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181598,
+        "num": 181598,
+        "word": "鄂伦春族都请来了",
+        "onboard_time": 1704238585,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 177048,
+        "num": 177048,
+        "word": "56岁奶奶演13岁少年有多灵动",
+        "onboard_time": 1704245371,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176557,
+        "num": 176557,
+        "word": "球队冠名又可加赞助商名称",
+        "onboard_time": 1704251012,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169416,
+        "num": 169416,
+        "word": "2023Steam大奖",
+        "onboard_time": 1704252028,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169024,
+        "num": 169024,
+        "word": "南方小土豆",
+        "onboard_time": 1704252753,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168784,
+        "num": 168784,
+        "word": "上海已有三家万达广场被金融机构接手",
+        "onboard_time": 1704244768,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167849,
+        "num": 167849,
+        "word": "别管猫了旁边的鹅好像快咽气了",
+        "onboard_time": 1704249271,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165626,
+        "num": 165626,
+        "word": "WTT今日开赛",
+        "onboard_time": 1704252512,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164246,
+        "num": 164246,
+        "word": "警方通报高校干部酒后家暴打死妻子",
+        "onboard_time": 1704241652,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162480,
+        "num": 162480,
+        "word": "C罗中国行开票",
+        "onboard_time": 1704249990,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157851,
+        "num": 157851,
+        "word": "李在明曾多次遭到死亡威胁",
+        "onboard_time": 1704238885,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 157828,
+        "num": 157828,
+        "word": "迪丽热巴起诉两家商行维权",
+        "onboard_time": 1704238645,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140013,
+        "num": 140013,
+        "word": "六代男团颜值",
+        "onboard_time": 1704252753,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137574,
+        "num": 137574,
+        "word": "大哥送派出所20杯奶茶反获百元话费",
+        "onboard_time": 1704245791,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#归根到底就是让老百姓过上更好的日子#"
+    }
+  }
+}

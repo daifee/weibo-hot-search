@@ -1,10 +1,10 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704251980125,
+  "endTime": 1704252867300,
   "band_list": [
     {
-      "raw_hot": 2043853,
-      "num": 2043853,
+      "raw_hot": 2250367,
+      "num": 2250367,
       "word": "12306推出购票新功能",
       "onboard_time": 1704248549,
       "rank": 32,
@@ -43,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1195515,
+      "num": 915180,
+      "word": "南方小土豆 刻板印象",
+      "onboard_time": 1704247110,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1162080,
       "num": 1162080,
       "word": "苹果市值一夜蒸发7660亿元",
       "onboard_time": 1704239187,
       "rank": 1,
       "category": "数码,财经"
-    },
-    {
-      "raw_hot": 1149514,
-      "num": 915180,
-      "word": "南方小土豆 刻板印象",
-      "onboard_time": 1704247110,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1029811,
@@ -91,6 +91,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 848246,
+      "num": 848246,
+      "word": "汪小姐 和过去决裂很彻底",
+      "onboard_time": 1704249212,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 835757,
       "num": 835757,
       "word": "鄂伦春族都请来了",
@@ -113,14 +121,6 @@
       "onboard_time": 1704246929,
       "rank": 8,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 821027,
-      "num": 821027,
-      "word": "汪小姐 和过去决裂很彻底",
-      "onboard_time": 1704249212,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 806185,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 515280,
-      "num": 369841,
+      "num": 377619,
       "word": "日本石川县发生5.5级地震",
       "onboard_time": 1704249630,
       "rank": 14,
@@ -289,6 +289,14 @@
       "onboard_time": 1704246509,
       "rank": 13,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 489128,
+      "num": 489128,
+      "word": "郑恺透露繁花与唐嫣结局HE",
+      "onboard_time": 1704249030,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 475998,
@@ -339,6 +347,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 403684,
+      "num": 372816,
+      "word": "2024待爆",
+      "onboard_time": 1704247949,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391083,
       "num": 391083,
       "word": "纽约发生一系列爆炸",
@@ -371,12 +387,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 340706,
+      "num": 340706,
+      "word": "日本地震死亡人数再上升",
+      "onboard_time": 1704251012,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336896,
       "num": 336896,
       "word": "日本地震已致至少62人死亡",
       "onboard_time": 1704244827,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334523,
+      "num": 334523,
+      "word": "繁花配角 戏里看表演",
+      "onboard_time": 1704250471,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 327276,
@@ -411,22 +443,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 310730,
-      "num": 310730,
-      "word": "郑恺透露繁花与唐嫣结局HE",
-      "onboard_time": 1704249030,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 308809,
-      "num": 293811,
-      "word": "繁花配角 戏里看表演",
-      "onboard_time": 1704250471,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305495,
       "num": 305495,
       "word": "哈尔滨整不会了背后是整会了",
@@ -451,12 +467,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 283712,
-      "num": 283712,
-      "word": "2024待爆",
-      "onboard_time": 1704247949,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 290272,
+      "num": 290272,
+      "word": "JENNIE新综艺",
+      "onboard_time": 1704251850,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 282661,
@@ -480,14 +496,6 @@
       "word": "59岁外卖员元旦当晚倒在送餐路上",
       "onboard_time": 1704205714,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273255,
-      "num": 273255,
-      "word": "日本地震死亡人数再上升",
-      "onboard_time": 1704251012,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -587,6 +595,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 227659,
+      "num": 227659,
+      "word": "袭击李在明嫌犯曾任公务员",
+      "onboard_time": 1704251190,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 227595,
       "num": 178598,
       "word": "生孩子对痛经的影响",
@@ -619,20 +635,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 213078,
+      "num": 213078,
+      "word": "他33岁失去左腿35岁站上世界舞台",
+      "onboard_time": 1704248730,
+      "rank": 48,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 209948,
       "num": 209948,
       "word": "球队冠名又可加赞助商名称",
       "onboard_time": 1704251012,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207337,
-      "num": 207337,
-      "word": "袭击李在明嫌犯曾任公务员",
-      "onboard_time": 1704251190,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 198330,
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196335,
+      "num": 196335,
+      "word": "新的一年如何年入百万",
+      "onboard_time": 1704250891,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195559,
       "num": 195559,
       "word": "日航起火客机 教科书般的紧急撤离",
@@ -651,12 +675,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189224,
-      "num": 189224,
+      "raw_hot": 194599,
+      "num": 194599,
       "word": "小伙摆摊舔铁体验5元起",
       "onboard_time": 1704247469,
       "rank": 33,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 190505,
+      "num": 190505,
+      "word": "网易游戏上线未成年人模式",
+      "onboard_time": 1704252632,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 189123,
@@ -667,28 +699,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 189109,
-      "num": 189109,
-      "word": "他33岁失去左腿35岁站上世界舞台",
-      "onboard_time": 1704248730,
-      "rank": 48,
-      "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 187619,
-      "num": 187619,
-      "word": "新的一年如何年入百万",
-      "onboard_time": 1704250891,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 186446,
       "num": 186446,
       "word": "王鹤棣derder进化史",
       "onboard_time": 1704208298,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184224,
+      "num": 184224,
+      "word": "WTT男单球员大合照",
+      "onboard_time": 1704251789,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 183742,
@@ -763,12 +787,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 167262,
-      "num": 167262,
-      "word": "WTT男单球员大合照",
-      "onboard_time": 1704251789,
+      "raw_hot": 169416,
+      "num": 169416,
+      "word": "2023Steam大奖",
+      "onboard_time": 1704252028,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 169024,
+      "num": 169024,
+      "word": "南方小土豆",
+      "onboard_time": 1704252753,
       "rank": 40,
-      "category": "体育"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166299,
@@ -777,6 +809,14 @@
       "onboard_time": 1704184775,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165626,
+      "num": 165626,
+      "word": "WTT今日开赛",
+      "onboard_time": 1704252512,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 165292,
@@ -793,14 +833,6 @@
       "onboard_time": 1704202417,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 162069,
-      "num": 162069,
-      "word": "JENNIE新综艺",
-      "onboard_time": 1704251850,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 161763,
@@ -905,6 +937,14 @@
       "onboard_time": 1704209611,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140013,
+      "num": 140013,
+      "word": "六代男团颜值",
+      "onboard_time": 1704252753,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 138807,
@@ -1164,7 +1204,7 @@
     },
     {
       "raw_hot": 34240,
-      "num": 916740,
+      "num": 919125,
       "word": "航天员太空开饭前互飞饺子",
       "onboard_time": 1704181358,
       "rank": 2,

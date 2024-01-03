@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704251980125,
+  "endTime": 1704252867300,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -131,20 +131,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2250367,
+      "num": 2250367,
+      "word": "12306推出购票新功能",
+      "onboard_time": 1704248549,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2087562,
       "num": 2087562,
       "word": "网红欧可爱因车祸溺水离世",
       "onboard_time": 1704109476,
       "rank": 0,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 2043853,
-      "num": 2043853,
-      "word": "12306推出购票新功能",
-      "onboard_time": 1704248549,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1892107,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1195515,
+      "num": 915180,
+      "word": "南方小土豆 刻板印象",
+      "onboard_time": 1704247110,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1189051,
       "num": 1189051,
       "word": "曾毅老师 我都有点嗑你俩了",
@@ -521,14 +529,6 @@
       "onboard_time": 1704204094,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1149514,
-      "num": 915180,
-      "word": "南方小土豆 刻板印象",
-      "onboard_time": 1704247110,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1146547,
@@ -859,6 +859,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 848246,
+      "num": 848246,
+      "word": "汪小姐 和过去决裂很彻底",
+      "onboard_time": 1704249212,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 835757,
       "num": 835757,
       "word": "鄂伦春族都请来了",
@@ -913,14 +921,6 @@
       "onboard_time": 1704086314,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 821027,
-      "num": 821027,
-      "word": "汪小姐 和过去决裂很彻底",
-      "onboard_time": 1704249212,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 815025,
@@ -1716,7 +1716,7 @@
     },
     {
       "raw_hot": 515280,
-      "num": 369841,
+      "num": 377619,
       "word": "日本石川县发生5.5级地震",
       "onboard_time": 1704249630,
       "rank": 14,
@@ -1809,6 +1809,14 @@
       "onboard_time": 1704094296,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 489128,
+      "num": 489128,
+      "word": "郑恺透露繁花与唐嫣结局HE",
+      "onboard_time": 1704249030,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 488651,
@@ -2179,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403684,
+      "num": 372816,
+      "word": "2024待爆",
+      "onboard_time": 1704247949,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397568,
       "num": 397568,
       "word": "终于到了谈恋爱不怕爸妈知道的年纪",
@@ -2435,6 +2451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 340706,
+      "num": 340706,
+      "word": "日本地震死亡人数再上升",
+      "onboard_time": 1704251012,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339962,
       "num": 339962,
       "word": "GALA 哭了",
@@ -2480,6 +2504,14 @@
       "word": "繁花 排骨年糕",
       "onboard_time": 1704120043,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 334523,
+      "num": 334523,
+      "word": "繁花配角 戏里看表演",
+      "onboard_time": 1704250471,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -2595,14 +2627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310730,
-      "num": 310730,
-      "word": "郑恺透露繁花与唐嫣结局HE",
-      "onboard_time": 1704249030,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 310440,
       "num": 275943,
       "word": "熬大夜后第二天睡觉能补回来吗",
@@ -2625,14 +2649,6 @@
       "onboard_time": 1704101259,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 308809,
-      "num": 293811,
-      "word": "繁花配角 戏里看表演",
-      "onboard_time": 1704250471,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 308491,
@@ -2787,6 +2803,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 290272,
+      "num": 290272,
+      "word": "JENNIE新综艺",
+      "onboard_time": 1704251850,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289002,
       "num": 258519,
       "word": "日本地震互助",
@@ -2857,14 +2881,6 @@
       "onboard_time": 1704077314,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283712,
-      "num": 283712,
-      "word": "2024待爆",
-      "onboard_time": 1704247949,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 282111,
@@ -2952,14 +2968,6 @@
       "word": "爷爷忘给孙女买玩具被太奶挥拐催促",
       "onboard_time": 1704160655,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273255,
-      "num": 273255,
-      "word": "日本地震死亡人数再上升",
-      "onboard_time": 1704251012,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -3411,6 +3419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227659,
+      "num": 227659,
+      "word": "袭击李在明嫌犯曾任公务员",
+      "onboard_time": 1704251190,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 227099,
       "num": 227099,
       "word": "王一博香槟色飘带上衣",
@@ -3619,6 +3635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213078,
+      "num": 213078,
+      "word": "他33岁失去左腿35岁站上世界舞台",
+      "onboard_time": 1704248730,
+      "rank": 48,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 212258,
       "num": 212258,
       "word": "封神三部曲 走进第十年",
@@ -3689,14 +3713,6 @@
       "onboard_time": 1704096459,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 207337,
-      "num": 207337,
-      "word": "袭击李在明嫌犯曾任公务员",
-      "onboard_time": 1704251190,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 206195,
@@ -3867,6 +3883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196335,
+      "num": 196335,
+      "word": "新的一年如何年入百万",
+      "onboard_time": 1704250891,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195559,
       "num": 195559,
       "word": "日航起火客机 教科书般的紧急撤离",
@@ -3921,6 +3945,14 @@
       "onboard_time": 1704197555,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 194599,
+      "num": 194599,
+      "word": "小伙摆摊舔铁体验5元起",
+      "onboard_time": 1704247469,
+      "rank": 33,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 194559,
@@ -4011,6 +4043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190505,
+      "num": 190505,
+      "word": "网易游戏上线未成年人模式",
+      "onboard_time": 1704252632,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190237,
       "num": 186957,
       "word": "鱼 我是穿越了吗",
@@ -4035,28 +4075,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189224,
-      "num": 189224,
-      "word": "小伙摆摊舔铁体验5元起",
-      "onboard_time": 1704247469,
-      "rank": 33,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 189186,
       "num": 189186,
       "word": "深圳街头放免费钢琴大叔弹到忘记时间",
       "onboard_time": 1704176553,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189109,
-      "num": 189109,
-      "word": "他33岁失去左腿35岁站上世界舞台",
-      "onboard_time": 1704248730,
-      "rank": 48,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 188884,
@@ -4099,14 +4123,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 187619,
-      "num": 187619,
-      "word": "新的一年如何年入百万",
-      "onboard_time": 1704250891,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 186784,
       "num": 186784,
       "word": "一闪一闪亮星星 时间线",
@@ -4137,6 +4153,14 @@
       "onboard_time": 1704205536,
       "rank": 34,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 184224,
+      "num": 184224,
+      "word": "WTT男单球员大合照",
+      "onboard_time": 1704251789,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 184069,
@@ -4419,12 +4443,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169416,
+      "num": 169416,
+      "word": "2023Steam大奖",
+      "onboard_time": 1704252028,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169249,
       "num": 169249,
       "word": "成都狼队四冠",
       "onboard_time": 1704108819,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169024,
+      "num": 169024,
+      "word": "南方小土豆",
+      "onboard_time": 1704252753,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168920,
@@ -4441,14 +4481,6 @@
       "onboard_time": 1704103903,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 167262,
-      "num": 167262,
-      "word": "WTT男单球员大合照",
-      "onboard_time": 1704251789,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 166696,
@@ -4481,6 +4513,14 @@
       "onboard_time": 1704197431,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 165626,
+      "num": 165626,
+      "word": "WTT今日开赛",
+      "onboard_time": 1704252512,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 165292,
@@ -4537,14 +4577,6 @@
       "onboard_time": 1704081157,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 162069,
-      "num": 162069,
-      "word": "JENNIE新综艺",
-      "onboard_time": 1704251850,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 162068,
@@ -5049,6 +5081,14 @@
       "onboard_time": 1704088235,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140013,
+      "num": 140013,
+      "word": "六代男团颜值",
+      "onboard_time": 1704252753,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 139769,
