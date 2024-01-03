@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704314075893,
+  "endTime": 1704316546047,
   "band_list": [
     {
       "raw_hot": 951561,
@@ -483,20 +483,28 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 24808,
+      "num": 19843,
+      "word": "办婚礼大半年没圆房男子要回彩礼",
+      "onboard_time": 1704314654,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17442,
+      "num": 16291,
+      "word": "多地公布2023新生儿爆款名",
+      "onboard_time": 1704313094,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16727,
       "num": 19042,
       "word": "美拉德小狗",
       "onboard_time": 1704306436,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 13708,
-      "num": 13708,
-      "word": "多地公布2023新生儿爆款名",
-      "onboard_time": 1704313094,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13423,
@@ -529,6 +537,14 @@
       "onboard_time": 1704313034,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 10255,
+      "num": 10255,
+      "word": "小土豆初体验铲雪被东北大爷直夸",
+      "onboard_time": 1704315974,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
