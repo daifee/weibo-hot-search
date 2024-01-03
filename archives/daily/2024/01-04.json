@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704303238935,
+  "endTime": 1704306149848,
   "band_list": [
     {
       "raw_hot": 951561,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64209,
+      "num": 64209,
+      "word": "女童上公交姥姥没追上急哭求助后车",
+      "onboard_time": 1704301642,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57856,
       "num": 598265,
       "word": "程序员回乡种小时候味道的西红柿",
@@ -427,12 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47982,
-      "num": 47982,
-      "word": "女童上公交姥姥没追上急哭求助后车",
-      "onboard_time": 1704301642,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 44943,
+      "num": 44943,
+      "word": "迪丽热巴这多不好意思快走",
+      "onboard_time": 1704303318,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 43284,
@@ -459,12 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35167,
-      "num": 35167,
+      "raw_hot": 40194,
+      "num": 40194,
       "word": "不要在负面情绪沉静太久",
       "onboard_time": 1704302959,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34262,
+      "num": 34262,
+      "word": "我这Eason如履薄冰",
+      "onboard_time": 1704303499,
+      "rank": 31,
+      "category": "幽默,艺人"
     }
   ],
   "hotgov_list": [
