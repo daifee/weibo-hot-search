@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704248889439,
+  "endTime": 1704249531764,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -875,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 829852,
+      "num": 829852,
+      "word": "哈尔滨游客订不到房入住人大服务中心",
+      "onboard_time": 1704246929,
+      "rank": 8,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 827568,
       "num": 827568,
       "word": "丹麦女王宣布将退位",
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770492,
+      "num": 770492,
+      "word": "辛芷蕾拍繁花学了两年舞蹈课",
+      "onboard_time": 1704248310,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 769858,
       "num": 724253,
       "word": "李宇春压轴",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1704097304,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 746215,
+      "num": 746215,
+      "word": "脱轨被曝盗图",
+      "onboard_time": 1704245911,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 745276,
@@ -1097,14 +1121,6 @@
       "onboard_time": 1704205298,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 722780,
-      "num": 722780,
-      "word": "脱轨被曝盗图",
-      "onboard_time": 1704245911,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 720741,
@@ -1243,12 +1259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 679744,
-      "num": 679744,
-      "word": "哈尔滨游客订不到房入住人大服务中心",
-      "onboard_time": 1704246929,
-      "rank": 8,
-      "category": "社会新闻,旅游"
+      "raw_hot": 678435,
+      "num": 582937,
+      "word": "刘诗诗吴奇隆带娃出门",
+      "onboard_time": 1704248911,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 678307,
@@ -1385,6 +1401,14 @@
       "onboard_time": 1704116922,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 627632,
+      "num": 554127,
+      "word": "考研时没有生活 考研后不会生活",
+      "onboard_time": 1704248249,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 622728,
@@ -1641,6 +1665,14 @@
       "onboard_time": 1704037734,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 526910,
+      "num": 526910,
+      "word": "12306推出购票新功能",
+      "onboard_time": 1704248549,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 525501,
@@ -2019,14 +2051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 420771,
-      "num": 420771,
-      "word": "考研时没有生活 考研后不会生活",
-      "onboard_time": 1704248249,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 418635,
       "num": 418635,
       "word": "何老师 大米爆代表",
@@ -2081,14 +2105,6 @@
       "onboard_time": 1704168700,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 411751,
-      "num": 411751,
-      "word": "辛芷蕾拍繁花学了两年舞蹈课",
-      "onboard_time": 1704248310,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 411540,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704169059,
       "rank": 39,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 340892,
-      "num": 340892,
-      "word": "TWS成员首次公开",
-      "onboard_time": 1704187773,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 339962,
-      "num": 339962,
-      "word": "GALA 哭了",
-      "onboard_time": 1704101137,
-      "rank": 30,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [

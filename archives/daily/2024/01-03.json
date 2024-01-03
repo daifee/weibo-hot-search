@@ -1,6 +1,6 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704248889439,
+  "endTime": 1704249531764,
   "band_list": [
     {
       "raw_hot": 1485559,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 829852,
+      "num": 829852,
+      "word": "哈尔滨游客订不到房入住人大服务中心",
+      "onboard_time": 1704246929,
+      "rank": 8,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 806185,
       "num": 806185,
       "word": "董宇辉中国传媒大学演讲",
@@ -97,6 +105,22 @@
       "onboard_time": 1704207095,
       "rank": 4,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 770492,
+      "num": 770492,
+      "word": "辛芷蕾拍繁花学了两年舞蹈课",
+      "onboard_time": 1704248310,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 746215,
+      "num": 746215,
+      "word": "脱轨被曝盗图",
+      "onboard_time": 1704245911,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 745276,
@@ -115,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 722780,
-      "num": 722780,
-      "word": "脱轨被曝盗图",
-      "onboard_time": 1704245911,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 686888,
       "num": 686888,
       "word": "偶像剧顶配",
@@ -131,12 +147,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 679744,
-      "num": 679744,
-      "word": "哈尔滨游客订不到房入住人大服务中心",
-      "onboard_time": 1704246929,
-      "rank": 8,
-      "category": "社会新闻,旅游"
+      "raw_hot": 678435,
+      "num": 582937,
+      "word": "刘诗诗吴奇隆带娃出门",
+      "onboard_time": 1704248911,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 627632,
+      "num": 554127,
+      "word": "考研时没有生活 考研后不会生活",
+      "onboard_time": 1704248249,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 606701,
@@ -219,6 +243,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 526910,
+      "num": 526910,
+      "word": "12306推出购票新功能",
+      "onboard_time": 1704248549,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522207,
       "num": 522207,
       "word": "林墨 电梯夹层",
@@ -275,28 +307,12 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 420771,
-      "num": 420771,
-      "word": "考研时没有生活 考研后不会生活",
-      "onboard_time": 1704248249,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 418071,
       "num": 418071,
       "word": "萌兰在院子里挖了4年宝贝",
       "onboard_time": 1704238765,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 411751,
-      "num": 411751,
-      "word": "辛芷蕾拍繁花学了两年舞蹈课",
-      "onboard_time": 1704248310,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 410074,
@@ -387,6 +403,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 288018,
+      "num": 288018,
+      "word": "田曦薇人群中认出粉丝",
+      "onboard_time": 1704248852,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282661,
       "num": 282661,
       "word": "江晴朗放弃高考",
@@ -427,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261535,
+      "num": 261535,
+      "word": "2024待爆",
+      "onboard_time": 1704247949,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261495,
       "num": 261495,
       "word": "张雪峰将给贫困生发电脑",
@@ -449,14 +481,6 @@
       "onboard_time": 1704246030,
       "rank": 24,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 253689,
-      "num": 253689,
-      "word": "2024待爆",
-      "onboard_time": 1704247949,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 252045,
@@ -499,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240458,
-      "num": 240458,
-      "word": "田曦薇人群中认出粉丝",
-      "onboard_time": 1704248852,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 239453,
       "num": 239453,
       "word": "分析师预计iPhone16销售疲软",
@@ -531,6 +547,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 224392,
+      "num": 224392,
+      "word": "人体这5个器官最怕过冬",
+      "onboard_time": 1704248489,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 222963,
       "num": 222963,
       "word": "林一与刘浩存合作感受",
@@ -547,12 +571,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 214061,
-      "num": 214061,
-      "word": "12306推出购票新功能",
-      "onboard_time": 1704248549,
+      "raw_hot": 218692,
+      "num": 218692,
+      "word": "郑恺透露繁花与唐嫣结局HE",
+      "onboard_time": 1704249030,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217556,
+      "num": 217556,
+      "word": "王俊凯诉振东制药等侵犯肖像权",
+      "onboard_time": 1704249030,
       "rank": 32,
-      "category": "社会新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 198330,
@@ -595,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185434,
+      "num": 185434,
+      "word": "汪小姐 和过去决裂很彻底",
+      "onboard_time": 1704249212,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179571,
       "num": 179571,
       "word": "繁花胡歌马伊琍初遇镜头",
@@ -627,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172702,
-      "num": 172702,
-      "word": "人体这5个器官最怕过冬",
-      "onboard_time": 1704248489,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 172156,
       "num": 172156,
       "word": "李在明曾多次遭到死亡威胁",
@@ -651,8 +683,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 170069,
-      "num": 170069,
+      "raw_hot": 171250,
+      "num": 171250,
       "word": "大哥送派出所20杯奶茶反获百元话费",
       "onboard_time": 1704245791,
       "rank": 40,
@@ -689,6 +721,14 @@
       "onboard_time": 1704204033,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159250,
+      "num": 159250,
+      "word": "别管猫了旁边的鹅好像快咽气了",
+      "onboard_time": 1704249271,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 155122,
@@ -737,6 +777,14 @@
       "onboard_time": 1704202833,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143452,
+      "num": 143452,
+      "word": "他33岁失去左腿35岁站上世界舞台",
+      "onboard_time": 1704248730,
+      "rank": 48,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 141989,
@@ -801,14 +849,6 @@
       "onboard_time": 1704244531,
       "rank": 49,
       "category": "数码,财经"
-    },
-    {
-      "raw_hot": 128267,
-      "num": 128267,
-      "word": "他33岁失去左腿35岁站上世界舞台",
-      "onboard_time": 1704248730,
-      "rank": 48,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 124833,
