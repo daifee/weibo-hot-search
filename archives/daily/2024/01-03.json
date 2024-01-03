@@ -1,6 +1,6 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704262972196,
+  "endTime": 1704263756414,
   "band_list": [
     {
       "raw_hot": 2250367,
@@ -19,20 +19,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1442805,
+      "num": 1442805,
+      "word": "叶酸吃多了真的会致癌吗",
+      "onboard_time": 1704259951,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1431104,
       "num": 1431104,
       "word": "孩子甲流刚好又中招乙流",
       "onboard_time": 1704239306,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1387450,
-      "num": 1387450,
-      "word": "叶酸吃多了真的会致癌吗",
-      "onboard_time": 1704259951,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1317466,
@@ -75,6 +75,14 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 1145192,
+      "num": 761800,
+      "word": "迪丽热巴展示泳衣",
+      "onboard_time": 1704261812,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1132312,
       "num": 1132312,
       "word": "端木代言了美特斯邦威",
@@ -97,6 +105,14 @@
       "onboard_time": 1704249212,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1049575,
+      "num": 505070,
+      "word": "曝林靖恩入住饭店后精神失控",
+      "onboard_time": 1704261992,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1029811,
@@ -187,14 +203,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 761800,
-      "num": 761800,
-      "word": "迪丽热巴展示泳衣",
-      "onboard_time": 1704261812,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 750717,
       "num": 750717,
       "word": "高校干部酒后家暴打死妻子母亲发声",
@@ -235,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 719520,
-      "num": 505070,
-      "word": "曝林靖恩入住饭店后精神失控",
-      "onboard_time": 1704261992,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 686888,
       "num": 686888,
       "word": "偶像剧顶配",
@@ -265,6 +265,14 @@
       "onboard_time": 1704249030,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 661205,
+      "num": 661205,
+      "word": "香港演员李子雄宣传哈尔滨",
+      "onboard_time": 1704260731,
+      "rank": 6,
+      "category": "艺人,旅游"
     },
     {
       "raw_hot": 652128,
@@ -291,14 +299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 622962,
-      "num": 622962,
-      "word": "香港演员李子雄宣传哈尔滨",
-      "onboard_time": 1704260731,
-      "rank": 6,
-      "category": "艺人,旅游"
-    },
-    {
       "raw_hot": 613572,
       "num": 613572,
       "word": "脱轨美术组道歉",
@@ -313,6 +313,14 @@
       "onboard_time": 1704243453,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583626,
+      "num": 583626,
+      "word": "38城平均工资超1万元",
+      "onboard_time": 1704260130,
+      "rank": 11,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 577029,
@@ -387,8 +395,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 524666,
-      "num": 524666,
+      "raw_hot": 527298,
+      "num": 527298,
       "word": "上海薪资连续4个季度领跑全国",
       "onboard_time": 1704259111,
       "rank": 23,
@@ -435,14 +443,6 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 498243,
-      "num": 498243,
-      "word": "38城平均工资超1万元",
-      "onboard_time": 1704260130,
-      "rank": 11,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 476949,
       "num": 476949,
       "word": "花儿与少年",
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450839,
+      "num": 450839,
+      "word": "日本民航局局长发布会多次发笑",
+      "onboard_time": 1704262892,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 438405,
       "num": 438405,
       "word": "以军空袭致哈马斯领导人丧生",
@@ -489,6 +497,14 @@
       "onboard_time": 1704246151,
       "rank": 14,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 425797,
+      "num": 425797,
+      "word": "小土豆文学",
+      "onboard_time": 1704262050,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 418291,
@@ -507,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416942,
+      "num": 416942,
+      "word": "74岁老人做眼部手术死亡",
+      "onboard_time": 1704262291,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410074,
       "num": 410074,
       "word": "95后班主任爆改女团舞为高三学生减压",
@@ -521,6 +545,14 @@
       "onboard_time": 1704205298,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 387031,
+      "num": 387031,
+      "word": "假唱",
+      "onboard_time": 1704262650,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 381460,
@@ -545,6 +577,14 @@
       "onboard_time": 1704248852,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371137,
+      "num": 371137,
+      "word": "仙剑 换乘恋爱",
+      "onboard_time": 1704262409,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 362553,
@@ -617,6 +657,14 @@
       "onboard_time": 1704211709,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 302814,
+      "num": 277890,
+      "word": "南方小土豆喊东北虎咪咪收获一声冷笑",
+      "onboard_time": 1704261751,
+      "rank": 20,
+      "category": "旅游"
     },
     {
       "raw_hot": 299863,
@@ -699,14 +747,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 272380,
-      "num": 272380,
-      "word": "南方小土豆喊东北虎咪咪收获一声冷笑",
-      "onboard_time": 1704261751,
-      "rank": 20,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 269430,
       "num": 269430,
       "word": "Selena 最后一张专辑",
@@ -763,28 +803,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258370,
-      "num": 258370,
-      "word": "小土豆文学",
-      "onboard_time": 1704262050,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 257502,
       "num": 257502,
       "word": "孙艺洲说要cos吕布",
       "onboard_time": 1704246030,
       "rank": 24,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 252613,
-      "num": 252613,
-      "word": "74岁老人做眼部手术死亡",
-      "onboard_time": 1704262291,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252045,
@@ -939,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217421,
-      "num": 217421,
-      "word": "仙剑 换乘恋爱",
-      "onboard_time": 1704262409,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214710,
       "num": 214710,
       "word": "他33岁失去左腿35岁站上世界舞台",
@@ -995,20 +1011,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 190971,
+      "num": 190971,
+      "word": "NANATOUR发布会",
+      "onboard_time": 1704263433,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 189123,
       "num": 189123,
       "word": "99年小伙在制造业工作两年买新房",
       "onboard_time": 1704204816,
       "rank": 36,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 188192,
-      "num": 188192,
-      "word": "假唱",
-      "onboard_time": 1704262650,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 186446,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1704249990,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180180,
+      "num": 180180,
+      "word": "鄂温克族与鄂伦春族有什么区别",
+      "onboard_time": 1704263070,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 179571,
@@ -1259,14 +1283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144067,
-      "num": 144067,
-      "word": "日本民航局局长发布会多次发笑",
-      "onboard_time": 1704262892,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 143994,
       "num": 140532,
       "word": "刘诗诗的晚安短信",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1704239427,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 140910,
+      "num": 140910,
+      "word": "警方回应2人骑车朝路人射烟花",
+      "onboard_time": 1704263551,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140583,
@@ -1331,6 +1355,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137220,
+      "num": 137220,
+      "word": "小说推荐",
+      "onboard_time": 1704262712,
+      "rank": 41,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 134017,
+      "num": 134017,
+      "word": "库里36分",
+      "onboard_time": 1704263490,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133618,
       "num": 133618,
       "word": "向佐用婴儿车推郭碧婷",
@@ -1347,14 +1387,6 @@
       "category": "数码,财经"
     },
     {
-      "raw_hot": 131572,
-      "num": 131572,
-      "word": "小说推荐",
-      "onboard_time": 1704262712,
-      "rank": 41,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 130188,
       "num": 130188,
       "word": "当代年轻人仪式感",
@@ -1369,6 +1401,14 @@
       "onboard_time": 1704260012,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 128979,
+      "num": 128979,
+      "word": "2024男星待播剧",
+      "onboard_time": 1704263309,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 124833,
