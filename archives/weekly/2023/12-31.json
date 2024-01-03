@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704249531764,
+  "endTime": 1704251980125,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -345,6 +345,14 @@
       "onboard_time": 1704109476,
       "rank": 0,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 2043853,
+      "num": 2043853,
+      "word": "12306推出购票新功能",
+      "onboard_time": 1704248549,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2025565,
@@ -763,6 +771,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1277462,
+      "num": 582937,
+      "word": "刘诗诗吴奇隆带娃出门",
+      "onboard_time": 1704248911,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1275914,
       "num": 1275914,
       "word": "江苏卫视跨年节目单",
@@ -865,6 +881,14 @@
       "onboard_time": 1704204094,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1149514,
+      "num": 915180,
+      "word": "南方小土豆 刻板印象",
+      "onboard_time": 1704247110,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1147480,
@@ -1001,6 +1025,14 @@
       "onboard_time": 1704024769,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1029811,
+      "num": 1029811,
+      "word": "辛芷蕾拍繁花学了两年舞蹈课",
+      "onboard_time": 1704248310,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 1013321,
@@ -1184,14 +1216,6 @@
       "word": "为裁员西安某公司从CBD搬进秦岭山区",
       "onboard_time": 1704066266,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 915180,
-      "num": 915180,
-      "word": "南方小土豆 刻板印象",
-      "onboard_time": 1704247110,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1419,6 +1443,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 821027,
+      "num": 821027,
+      "word": "汪小姐 和过去决裂很彻底",
+      "onboard_time": 1704249212,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 818687,
       "num": 818687,
       "word": "导演是怎么选中屈楚萧演张万森的",
@@ -1553,14 +1585,6 @@
       "onboard_time": 1704020194,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 770492,
-      "num": 770492,
-      "word": "辛芷蕾拍繁花学了两年舞蹈课",
-      "onboard_time": 1704248310,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 769858,
@@ -1891,14 +1915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 678435,
-      "num": 582937,
-      "word": "刘诗诗吴奇隆带娃出门",
-      "onboard_time": 1704248911,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 678307,
       "num": 678307,
       "word": "十年了 雷鸣终于清白了",
@@ -2036,7 +2052,7 @@
     },
     {
       "raw_hot": 627632,
-      "num": 554127,
+      "num": 584799,
       "word": "考研时没有生活 考研后不会生活",
       "onboard_time": 1704248249,
       "rank": 15,
@@ -2427,14 +2443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 526910,
-      "num": 526910,
-      "word": "12306推出购票新功能",
-      "onboard_time": 1704248549,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 526739,
       "num": 526739,
       "word": "三个人的舞台 六个人的名字",
@@ -2497,6 +2505,14 @@
       "onboard_time": 1704031085,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 515280,
+      "num": 369841,
+      "word": "日本石川县发生5.5级地震",
+      "onboard_time": 1704249630,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515092,
@@ -3219,6 +3235,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 377348,
+      "num": 377348,
+      "word": "田曦薇人群中认出粉丝",
+      "onboard_time": 1704248852,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377295,
       "num": 2539438,
       "word": "祖国统一是历史必然",
@@ -3683,6 +3707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310730,
+      "num": 310730,
+      "word": "郑恺透露繁花与唐嫣结局HE",
+      "onboard_time": 1704249030,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310440,
       "num": 275943,
       "word": "熬大夜后第二天睡觉能补回来吗",
@@ -3721,6 +3753,14 @@
       "onboard_time": 1703985150,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308809,
+      "num": 293811,
+      "word": "繁花配角 戏里看表演",
+      "onboard_time": 1704250471,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 308491,
@@ -3891,6 +3931,14 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 292284,
+      "num": 292284,
+      "word": "人体这5个器官最怕过冬",
+      "onboard_time": 1704248489,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 291645,
       "num": 291645,
       "word": "积石山地震最后两名失联人员已找到",
@@ -3955,14 +4003,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 288018,
-      "num": 288018,
-      "word": "田曦薇人群中认出粉丝",
-      "onboard_time": 1704248852,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 287696,
       "num": 287696,
       "word": "第一批00后老师教最后一批00后",
@@ -4017,6 +4057,14 @@
       "onboard_time": 1704077314,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283712,
+      "num": 283712,
+      "word": "2024待爆",
+      "onboard_time": 1704247949,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 283343,
@@ -4152,6 +4200,14 @@
       "word": "2023新生儿爆款名字",
       "onboard_time": 1703949095,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273255,
+      "num": 273255,
+      "word": "日本地震死亡人数再上升",
+      "onboard_time": 1704251012,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -4305,14 +4361,6 @@
       "onboard_time": 1704074675,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261535,
-      "num": 261535,
-      "word": "2024待爆",
-      "onboard_time": 1704247949,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 261495,
@@ -4875,20 +4923,20 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 224699,
+      "num": 224699,
+      "word": "王俊凯诉振东制药等侵犯肖像权",
+      "onboard_time": 1704249030,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224584,
       "num": 224584,
       "word": "陶喆 难道失败就永远翻不了身",
       "onboard_time": 1704159274,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224392,
-      "num": 224392,
-      "word": "人体这5个器官最怕过冬",
-      "onboard_time": 1704248489,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 224293,
@@ -4979,14 +5027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218692,
-      "num": 218692,
-      "word": "郑恺透露繁花与唐嫣结局HE",
-      "onboard_time": 1704249030,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218635,
       "num": 137397,
       "word": "粉丝给林俊杰唱撇嘴了",
@@ -5001,14 +5041,6 @@
       "onboard_time": 1704018391,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 217556,
-      "num": 217556,
-      "word": "王俊凯诉振东制药等侵犯肖像权",
-      "onboard_time": 1704249030,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 217514,
@@ -5155,6 +5187,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 209948,
+      "num": 209948,
+      "word": "球队冠名又可加赞助商名称",
+      "onboard_time": 1704251012,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209611,
       "num": 271056,
       "word": "小女孩 真的你不如让我站着",
@@ -5201,6 +5241,14 @@
       "onboard_time": 1704025188,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207337,
+      "num": 207337,
+      "word": "袭击李在明嫌犯曾任公务员",
+      "onboard_time": 1704251190,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 206195,
@@ -5715,6 +5763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189109,
+      "num": 189109,
+      "word": "他33岁失去左腿35岁站上世界舞台",
+      "onboard_time": 1704248730,
+      "rank": 48,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 188958,
       "num": 1163854,
       "word": "一句话送给2024年的自己",
@@ -5771,6 +5827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 187619,
+      "num": 187619,
+      "word": "新的一年如何年入百万",
+      "onboard_time": 1704250891,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187595,
       "num": 187595,
       "word": "WBG对战NIP",
@@ -5811,14 +5875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185434,
-      "num": 185434,
-      "word": "汪小姐 和过去决裂很彻底",
-      "onboard_time": 1704249212,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184771,
       "num": 184771,
       "word": "哈尔滨让我感到陌生",
@@ -5849,6 +5905,14 @@
       "onboard_time": 1704038217,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183742,
+      "num": 183742,
+      "word": "别管猫了旁边的鹅好像快咽气了",
+      "onboard_time": 1704249271,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 182973,
@@ -5897,6 +5961,14 @@
       "onboard_time": 1704104318,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180697,
+      "num": 180697,
+      "word": "C罗中国行开票",
+      "onboard_time": 1704249990,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 180618,
@@ -6267,6 +6339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167262,
+      "num": 167262,
+      "word": "WTT男单球员大合照",
+      "onboard_time": 1704251789,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166997,
       "num": 166997,
       "word": "不要刻意画本身没有的生理结构",
@@ -6403,6 +6483,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 162069,
+      "num": 162069,
+      "word": "JENNIE新综艺",
+      "onboard_time": 1704251850,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162068,
       "num": 162068,
       "word": "石宇奇 不介意我复制粘贴下吧",
@@ -6481,14 +6569,6 @@
       "onboard_time": 1704101798,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159250,
-      "num": 159250,
-      "word": "别管猫了旁边的鹅好像快咽气了",
-      "onboard_time": 1704249271,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 159105,
@@ -6755,6 +6835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151546,
+      "num": 151546,
+      "word": "在暴雪时分花絮放粮",
+      "onboard_time": 1704251370,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151429,
       "num": 151429,
       "word": "2024狮子座好运苏醒",
@@ -6817,6 +6905,14 @@
       "onboard_time": 1703989110,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150332,
+      "num": 150332,
+      "word": "新赛季中超外援可上场5人",
+      "onboard_time": 1704251609,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 148738,
@@ -7017,14 +7113,6 @@
       "onboard_time": 1704182734,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 143452,
-      "num": 143452,
-      "word": "他33岁失去左腿35岁站上世界舞台",
-      "onboard_time": 1704248730,
-      "rank": 48,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 143412,
