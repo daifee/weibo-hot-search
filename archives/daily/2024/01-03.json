@@ -1,6 +1,6 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704267254195,
+  "endTime": 1704270139904,
   "band_list": [
     {
       "raw_hot": 2250367,
@@ -9,6 +9,14 @@
       "onboard_time": 1704248549,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1561985,
+      "num": 677508,
+      "word": "郝劭文妻子曝女儿遭遇校园霸凌",
+      "onboard_time": 1704266850,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1485559,
@@ -153,6 +161,14 @@
       "onboard_time": 1704254792,
       "rank": 4,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 889322,
+      "num": 889322,
+      "word": "小砂糖橘",
+      "onboard_time": 1704266490,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 880268,
@@ -305,6 +321,14 @@
       "onboard_time": 1704252753,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636045,
+      "num": 636045,
+      "word": "哈尔滨提醒宾馆酒店把握机遇",
+      "onboard_time": 1704268349,
+      "rank": 5,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 627632,
@@ -499,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 472995,
+      "num": 472995,
+      "word": "新一小兰共用一条围巾",
+      "onboard_time": 1704267270,
+      "rank": 7,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 466549,
       "num": 466549,
       "word": "日本以业务过失致人伤亡嫌疑调查飞机事故",
@@ -537,14 +569,6 @@
       "onboard_time": 1704246151,
       "rank": 14,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 433939,
-      "num": 405531,
-      "word": "郝劭文妻子曝女儿遭遇校园霸凌",
-      "onboard_time": 1704266850,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 418291,
@@ -683,6 +707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 318180,
+      "num": 318180,
+      "word": "秦岚泳衣外穿",
+      "onboard_time": 1704269370,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311987,
       "num": 311987,
       "word": "雷军 50万以内有对手吗",
@@ -713,6 +745,22 @@
       "onboard_time": 1704242614,
       "rank": 25,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 299143,
+      "num": 299143,
+      "word": "迪丽热巴终于要有拖鞋了",
+      "onboard_time": 1704269013,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 294980,
+      "num": 294980,
+      "word": "公募基金经理薪酬或将封顶350万元",
+      "onboard_time": 1704267391,
+      "rank": 18,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 293542,
@@ -747,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283219,
-      "num": 283219,
-      "word": "小砂糖橘",
-      "onboard_time": 1704266490,
-      "rank": 18,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 282750,
       "num": 282750,
       "word": "A股",
@@ -779,6 +819,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278478,
+      "num": 278478,
+      "word": "广州平均月薪11186元",
+      "onboard_time": 1704267932,
+      "rank": 20,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 276972,
+      "num": 276972,
+      "word": "李善均公司将起诉造谣者",
+      "onboard_time": 1704269071,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275702,
       "num": 275702,
       "word": "59岁外卖员元旦当晚倒在送餐路上",
@@ -793,6 +849,14 @@
       "onboard_time": 1704257617,
       "rank": 27,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 271456,
+      "num": 271456,
+      "word": "将进酒的将读qiang",
+      "onboard_time": 1704269250,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 269430,
@@ -912,6 +976,14 @@
       "word": "日本羽田机场中国旅客发声",
       "onboard_time": 1704193591,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241117,
+      "num": 241117,
+      "word": "猫咪吞食顾客1克拉钻石",
+      "onboard_time": 1704268829,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1067,6 +1139,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 210075,
+      "num": 210075,
+      "word": "小砂糖橘家长发声感谢东北朋友",
+      "onboard_time": 1704269971,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209948,
       "num": 209948,
       "word": "球队冠名又可加赞助商名称",
@@ -1081,6 +1161,14 @@
       "onboard_time": 1704258394,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 201830,
+      "num": 201830,
+      "word": "鸣龙少年 编剧",
+      "onboard_time": 1704268530,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 198330,
@@ -1211,6 +1299,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177547,
+      "num": 177547,
+      "word": "狗狗被主人叫后眼睛瞬间有了光",
+      "onboard_time": 1704268771,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 177491,
+      "num": 177491,
+      "word": "袭击李在明嫌疑人阐述犯罪动机",
+      "onboard_time": 1704267089,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 177322,
       "num": 177322,
       "word": "韩最大在野党党首两度遇袭",
@@ -1219,12 +1323,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 175444,
+      "num": 175444,
+      "word": "格力门店回应玫瑰空调销量差",
+      "onboard_time": 1704267992,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173956,
       "num": 173956,
       "word": "中国古代雪花的名字好有诗意",
       "onboard_time": 1704245731,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173059,
+      "num": 173059,
+      "word": "台湾同胞东北旅游被盛情招待",
+      "onboard_time": 1704268590,
+      "rank": 37,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 172947,
@@ -1265,6 +1385,14 @@
       "onboard_time": 1704252028,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168346,
+      "num": 168346,
+      "word": "兔牙时代",
+      "onboard_time": 1704268409,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 166299,
@@ -1331,6 +1459,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159713,
+      "num": 159713,
+      "word": "00后特警新年第一天公主抱救人",
+      "onboard_time": 1704269971,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158939,
+      "num": 158939,
+      "word": "秦岚想一个人刷碗有多难",
+      "onboard_time": 1704267511,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156553,
+      "num": 156553,
+      "word": "教授跨年连续讲课3小时却被要求拖堂",
+      "onboard_time": 1704270091,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 155122,
       "num": 155122,
       "word": "今年我一定瘦",
@@ -1387,12 +1539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148806,
+      "num": 148806,
+      "word": "小砂糖橘勇闯哈尔滨",
+      "onboard_time": 1704268829,
+      "rank": 45,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 147741,
       "num": 147741,
       "word": "吉赛尔一记扫堂腿 罗渽民一屁墩",
       "onboard_time": 1704247711,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147507,
+      "num": 147507,
+      "word": "东北女生模仿南方小土豆一开口就露馅",
+      "onboard_time": 1704269971,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144824,
@@ -1483,8 +1651,8 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 134683,
-      "num": 134683,
+      "raw_hot": 135746,
+      "num": 135746,
       "word": "格力玫瑰空调",
       "onboard_time": 1704266729,
       "rank": 40,
@@ -1649,14 +1817,6 @@
       "onboard_time": 1704199231,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94693,
-      "num": 94693,
-      "word": "袭击李在明嫌疑人阐述犯罪动机",
-      "onboard_time": 1704267089,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 93134,
@@ -1856,6 +2016,14 @@
       "word": "日本一飞机机场跑道起火",
       "onboard_time": 1704188133,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21093,
+      "num": 744290,
+      "word": "新年满弦开弓一起迈出新步伐",
+      "onboard_time": 1704253829,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

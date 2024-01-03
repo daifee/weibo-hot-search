@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704267254195,
+  "endTime": 1704270139904,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -289,6 +289,14 @@
       "onboard_time": 1704164561,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1561985,
+      "num": 677508,
+      "word": "郝劭文妻子曝女儿遭遇校园霸凌",
+      "onboard_time": 1704266850,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1554414,
@@ -865,6 +873,14 @@
       "onboard_time": 1704155318,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 889322,
+      "num": 889322,
+      "word": "小砂糖橘",
+      "onboard_time": 1704266490,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 889026,
@@ -1539,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 636045,
+      "num": 636045,
+      "word": "哈尔滨提醒宾馆酒店把握机遇",
+      "onboard_time": 1704268349,
+      "rank": 5,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 632257,
       "num": 632257,
       "word": "胡歌 第一个吻戏是咸的",
@@ -2083,6 +2107,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 472995,
+      "num": 472995,
+      "word": "新一小兰共用一条围巾",
+      "onboard_time": 1704267270,
+      "rank": 7,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 472633,
       "num": 472633,
       "word": "光与夜之恋 强娶了",
@@ -2217,14 +2249,6 @@
       "onboard_time": 1704032173,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 433939,
-      "num": 405531,
-      "word": "郝劭文妻子曝女儿遭遇校园霸凌",
-      "onboard_time": 1704266850,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 432964,
@@ -2835,6 +2859,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 318180,
+      "num": 318180,
+      "word": "秦岚泳衣外穿",
+      "onboard_time": 1704269370,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317663,
       "num": 317663,
       "word": "国色芳华 经商题材",
@@ -2979,6 +3011,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 299143,
+      "num": 299143,
+      "word": "迪丽热巴终于要有拖鞋了",
+      "onboard_time": 1704269013,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297573,
       "num": 297573,
       "word": "重庆婆婆卖抄手2块10个",
@@ -3009,6 +3049,14 @@
       "onboard_time": 1704205714,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294980,
+      "num": 294980,
+      "word": "公募基金经理薪酬或将封顶350万元",
+      "onboard_time": 1704267391,
+      "rank": 18,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 294396,
@@ -3147,14 +3195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283219,
-      "num": 283219,
-      "word": "小砂糖橘",
-      "onboard_time": 1704266490,
-      "rank": 18,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 282750,
       "num": 282750,
       "word": "A股",
@@ -3219,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278478,
+      "num": 278478,
+      "word": "广州平均月薪11186元",
+      "onboard_time": 1704267932,
+      "rank": 20,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 278421,
       "num": 278421,
       "word": "不用排名 感受到多少就回馈多少",
@@ -3241,6 +3289,14 @@
       "onboard_time": 1704034993,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276972,
+      "num": 276972,
+      "word": "李善均公司将起诉造谣者",
+      "onboard_time": 1704269071,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 276560,
@@ -3273,6 +3329,14 @@
       "onboard_time": 1704120339,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271456,
+      "num": 271456,
+      "word": "将进酒的将读qiang",
+      "onboard_time": 1704269250,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 269508,
@@ -3593,6 +3657,14 @@
       "onboard_time": 1704154114,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 241117,
+      "num": 241117,
+      "word": "猫咪吞食顾客1克拉钻石",
+      "onboard_time": 1704268829,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239453,
@@ -4075,6 +4147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210075,
+      "num": 210075,
+      "word": "小砂糖橘家长发声感谢东北朋友",
+      "onboard_time": 1704269971,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209948,
       "num": 209948,
       "word": "球队冠名又可加赞助商名称",
@@ -4209,6 +4289,14 @@
       "onboard_time": 1704096160,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201830,
+      "num": 201830,
+      "word": "鸣龙少年 编剧",
+      "onboard_time": 1704268530,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 201665,
@@ -4747,6 +4835,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177547,
+      "num": 177547,
+      "word": "狗狗被主人叫后眼睛瞬间有了光",
+      "onboard_time": 1704268771,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 177491,
+      "num": 177491,
+      "word": "袭击李在明嫌疑人阐述犯罪动机",
+      "onboard_time": 1704267089,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 177322,
       "num": 177322,
       "word": "韩最大在野党党首两度遇袭",
@@ -4769,6 +4873,14 @@
       "onboard_time": 1704156819,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175444,
+      "num": 175444,
+      "word": "格力门店回应玫瑰空调销量差",
+      "onboard_time": 1704267992,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 175407,
@@ -4809,6 +4921,14 @@
       "onboard_time": 1704245731,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173059,
+      "num": 173059,
+      "word": "台湾同胞东北旅游被盛情招待",
+      "onboard_time": 1704268590,
+      "rank": 37,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 172947,
@@ -4921,6 +5041,14 @@
       "onboard_time": 1704112181,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168346,
+      "num": 168346,
+      "word": "兔牙时代",
+      "onboard_time": 1704268409,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 167990,
@@ -5091,6 +5219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159713,
+      "num": 159713,
+      "word": "00后特警新年第一天公主抱救人",
+      "onboard_time": 1704269971,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159349,
       "num": 159349,
       "word": "男生跨年晒出全年140张火车票",
@@ -5123,6 +5259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158939,
+      "num": 158939,
+      "word": "秦岚想一个人刷碗有多难",
+      "onboard_time": 1704267511,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158529,
       "num": 158529,
       "word": "B站跨年 补课",
@@ -5145,6 +5289,14 @@
       "onboard_time": 1704187831,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 156553,
+      "num": 156553,
+      "word": "教授跨年连续讲课3小时却被要求拖堂",
+      "onboard_time": 1704270091,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 156394,
@@ -5331,6 +5483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148806,
+      "num": 148806,
+      "word": "小砂糖橘勇闯哈尔滨",
+      "onboard_time": 1704268829,
+      "rank": 45,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 148738,
       "num": 148738,
       "word": "杨紫范丞丞元旦合照",
@@ -5353,6 +5513,14 @@
       "onboard_time": 1704247711,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147507,
+      "num": 147507,
+      "word": "东北女生模仿南方小土豆一开口就露馅",
+      "onboard_time": 1704269971,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146725,
@@ -5683,20 +5851,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135746,
+      "num": 135746,
+      "word": "格力玫瑰空调",
+      "onboard_time": 1704266729,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 134994,
       "num": 134994,
       "word": "陈飞宇祝樊振东新年快乐",
       "onboard_time": 1704105460,
       "rank": 49,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 134683,
-      "num": 134683,
-      "word": "格力玫瑰空调",
-      "onboard_time": 1704266729,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 134612,
@@ -6283,14 +6451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94693,
-      "num": 94693,
-      "word": "袭击李在明嫌疑人阐述犯罪动机",
-      "onboard_time": 1704267089,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 94295,
       "num": 94295,
       "word": "舞剧红楼梦 大梦一场",
@@ -6857,6 +7017,14 @@
       "onboard_time": 1704133817,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21093,
+      "num": 744290,
+      "word": "新年满弦开弓一起迈出新步伐",
+      "onboard_time": 1704253829,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20332,
