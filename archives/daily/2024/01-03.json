@@ -1,6 +1,6 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704288831855,
+  "endTime": 1704291383890,
   "band_list": [
     {
       "raw_hot": 5749865,
@@ -43,6 +43,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2021299,
+      "num": 2021299,
+      "word": "伊朗连环爆炸已致73死170伤",
+      "onboard_time": 1704288096,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1714529,
       "num": 421464,
       "word": "日本石川县发生5.5级地震",
@@ -57,14 +65,6 @@
       "onboard_time": 1704266850,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1537507,
-      "num": 1537507,
-      "word": "伊朗连环爆炸已致73死170伤",
-      "onboard_time": 1704288096,
-      "rank": 0,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1498987,
@@ -163,6 +163,14 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 1149784,
+      "num": 1149784,
+      "word": "龙年纪念币",
+      "onboard_time": 1704291034,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1145192,
       "num": 1101908,
       "word": "迪丽热巴展示泳衣",
@@ -201,6 +209,14 @@
       "onboard_time": 1704258870,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1108661,
+      "num": 1108661,
+      "word": "女子每周拔罐放血200ml致重度贫血",
+      "onboard_time": 1704288034,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1093079,
@@ -265,6 +281,14 @@
       "onboard_time": 1704254792,
       "rank": 4,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 880452,
+      "num": 880452,
+      "word": "突然理解那些很少看手机的人了",
+      "onboard_time": 1704284193,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 880268,
@@ -355,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785998,
+      "num": 785998,
+      "word": "网友街头偶遇刘强东越野车送出",
+      "onboard_time": 1704287735,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784715,
       "num": 784715,
       "word": "太超前了尔滨",
@@ -393,6 +425,14 @@
       "onboard_time": 1704243213,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 739827,
+      "num": 739827,
+      "word": "清华一本科生转学至双非院校",
+      "onboard_time": 1704279337,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 739580,
@@ -619,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 537474,
-      "num": 276082,
-      "word": "清华一本科生转学至双非院校",
-      "onboard_time": 1704279337,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 535489,
       "num": 535489,
       "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
@@ -641,6 +673,14 @@
       "onboard_time": 1704259111,
       "rank": 23,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 525046,
+      "num": 339312,
+      "word": "泡温泉会感染HPV吗",
+      "onboard_time": 1704289657,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 524385,
@@ -681,6 +721,22 @@
       "onboard_time": 1704279094,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519064,
+      "num": 519064,
+      "word": "黄子弘凡 玄学巅峰",
+      "onboard_time": 1704287613,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 512612,
+      "num": 512612,
+      "word": "郭艾伦怎么了",
+      "onboard_time": 1704289473,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 510234,
@@ -729,14 +785,6 @@
       "onboard_time": 1704267932,
       "rank": 20,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 483622,
-      "num": 483622,
-      "word": "黄子弘凡 玄学巅峰",
-      "onboard_time": 1704287613,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 476949,
@@ -828,19 +876,11 @@
     },
     {
       "raw_hot": 430651,
-      "num": 278311,
+      "num": 330490,
       "word": "美国妈妈流行给婴儿舌头划一刀",
       "onboard_time": 1704278374,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422536,
-      "num": 422536,
-      "word": "突然理解那些很少看手机的人了",
-      "onboard_time": 1704284193,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 418291,
@@ -865,6 +905,14 @@
       "onboard_time": 1704273994,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410177,
+      "num": 334960,
+      "word": "发烧让两个同事给我送钥匙都被拒绝了",
+      "onboard_time": 1704289832,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 410074,
@@ -931,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393975,
+      "num": 393975,
+      "word": "紧急避孕药的伤害",
+      "onboard_time": 1704290138,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 391083,
       "num": 391083,
       "word": "纽约发生一系列爆炸",
@@ -979,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375609,
+      "num": 375609,
+      "word": "付豪被驱逐",
+      "onboard_time": 1704290374,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 371137,
       "num": 371137,
       "word": "仙剑 换乘恋爱",
@@ -1001,6 +1065,14 @@
       "onboard_time": 1704255693,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 346555,
+      "num": 346555,
+      "word": "林高远 多哈",
+      "onboard_time": 1704290614,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 345085,
@@ -1088,6 +1160,14 @@
       "word": "侃爷ins更新",
       "onboard_time": 1704265471,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 303267,
+      "num": 303267,
+      "word": "张颂文领养了流浪狗",
+      "onboard_time": 1704290374,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1209,6 +1289,14 @@
       "onboard_time": 1704205714,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275255,
+      "num": 275255,
+      "word": "琼斯被打掉三颗牙",
+      "onboard_time": 1704290797,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 273222,
@@ -1347,22 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251987,
-      "num": 251987,
-      "word": "网友街头偶遇刘强东越野车送出",
-      "onboard_time": 1704287735,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251218,
-      "num": 251218,
-      "word": "女子每周拔罐放血200ml致重度贫血",
-      "onboard_time": 1704288034,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249421,
       "num": 646556,
       "word": "哈尔滨交警在线教学到东北咋穿",
@@ -1409,6 +1481,14 @@
       "onboard_time": 1704193591,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241973,
+      "num": 241973,
+      "word": "李燃去桃李二班",
+      "onboard_time": 1704290435,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 239453,
@@ -1673,6 +1753,14 @@
       "onboard_time": 1704243692,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196993,
+      "num": 196993,
+      "word": "PUBG服务器",
+      "onboard_time": 1704290017,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 196803,
@@ -1971,6 +2059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172253,
+      "num": 172253,
+      "word": "周琦崴脚",
+      "onboard_time": 1704290495,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172156,
       "num": 172156,
       "word": "李在明曾多次遭到死亡威胁",
@@ -1993,6 +2089,14 @@
       "onboard_time": 1704245791,
       "rank": 40,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 170335,
+      "num": 170335,
+      "word": "东北研学",
+      "onboard_time": 1704288695,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 169981,
@@ -2147,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155861,
+      "num": 155861,
+      "word": "鸣龙少年片尾",
+      "onboard_time": 1704289233,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155122,
       "num": 155122,
       "word": "今年我一定瘦",
@@ -2225,6 +2337,14 @@
       "onboard_time": 1704272133,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149117,
+      "num": 149117,
+      "word": "给猫洗澡怎么洗出了准备下锅的感觉",
+      "onboard_time": 1704288816,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 148806,
@@ -2339,6 +2459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138772,
+      "num": 138772,
+      "word": "什么环境会促成isfj",
+      "onboard_time": 1704289776,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138611,
       "num": 138611,
       "word": "偶遇庄达菲在酒馆唱民谣",
@@ -2377,14 +2505,6 @@
       "onboard_time": 1704273756,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 134868,
-      "num": 134868,
-      "word": "东北研学",
-      "onboard_time": 1704288695,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 134017,
@@ -2465,6 +2585,14 @@
       "onboard_time": 1704263309,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128801,
+      "num": 128801,
+      "word": "王楚钦比赛",
+      "onboard_time": 1704291336,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 127973,
@@ -2593,14 +2721,6 @@
       "onboard_time": 1704265110,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 117450,
-      "num": 117450,
-      "word": "给猫洗澡怎么洗出了准备下锅的感觉",
-      "onboard_time": 1704288816,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 115829,
@@ -2900,7 +3020,7 @@
     },
     {
       "raw_hot": 21714,
-      "num": 909687,
+      "num": 1128511,
       "word": "新年满弦开弓一起迈出新步伐",
       "onboard_time": 1704253829,
       "rank": 2,
