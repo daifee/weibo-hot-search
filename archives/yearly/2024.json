@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704277151818,
+  "endTime": 1704278151373,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -33,6 +33,14 @@
       "onboard_time": 1704173134,
       "rank": 0,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 5749865,
+      "num": 5749865,
+      "word": "福建地震",
+      "onboard_time": 1704277234,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4566409,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 2879808,
-      "num": 409720,
+      "num": 411952,
       "word": "日本地震遇难升至65人",
       "onboard_time": 1704275973,
       "rank": 10,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 1714529,
-      "num": 404361,
+      "num": 421464,
       "word": "日本石川县发生5.5级地震",
       "onboard_time": 1704249630,
       "rank": 14,
@@ -497,6 +505,14 @@
       "onboard_time": 1704035769,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1239644,
+      "num": 1239644,
+      "word": "厦门震感",
+      "onboard_time": 1704277345,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1238899,
@@ -1139,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 787922,
+      "num": 2383195,
+      "word": "小砂糖橘家长发声感谢东北朋友",
+      "onboard_time": 1704269971,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784715,
       "num": 784715,
       "word": "太超前了尔滨",
@@ -1337,14 +1361,6 @@
       "onboard_time": 1704176912,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 712316,
-      "num": 712316,
-      "word": "小砂糖橘家长发声感谢东北朋友",
-      "onboard_time": 1704269971,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 710370,
@@ -1955,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524385,
+      "num": 524385,
+      "word": "拍繁花没有人相信自己真的杀青了",
+      "onboard_time": 1704273934,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523785,
       "num": 523785,
       "word": "谢娜紧紧抓住马立奥的原因",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1704186932,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423348,
-      "num": 1055772,
-      "word": "西安钟楼跨年夜人山人海",
-      "onboard_time": 1704039181,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418635,
-      "num": 418635,
-      "word": "何老师 大米爆代表",
-      "onboard_time": 1704078755,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 418364,
-      "num": 418364,
-      "word": "宋茜唱跳给Amber镜头",
-      "onboard_time": 1704026514,
-      "rank": 15,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
