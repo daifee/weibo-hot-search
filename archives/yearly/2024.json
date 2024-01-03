@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704263756414,
+  "endTime": 1704266261825,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -387,6 +387,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1397279,
+      "num": 1397279,
+      "word": "00后向太直播间拍下估值800万豪宅",
+      "onboard_time": 1704264449,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1360274,
       "num": 1360274,
       "word": "尹锡悦回应李在明遇袭",
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 1145192,
-      "num": 761800,
+      "num": 1101908,
       "word": "迪丽热巴展示泳衣",
       "onboard_time": 1704261812,
       "rank": 3,
@@ -601,6 +609,14 @@
       "onboard_time": 1704258870,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1093079,
+      "num": 1093079,
+      "word": "日本民航局局长发布会多次发笑",
+      "onboard_time": 1704262892,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1092981,
@@ -1707,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571271,
+      "num": 571271,
+      "word": "74岁老人做眼部手术死亡",
+      "onboard_time": 1704262291,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566732,
       "num": 852570,
       "word": "跨年朋友圈",
@@ -1913,6 +1937,14 @@
       "onboard_time": 1704177692,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 502107,
+      "num": 435150,
+      "word": "小土豆文学",
+      "onboard_time": 1704262050,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 501198,
@@ -2123,14 +2155,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 450839,
-      "num": 450839,
-      "word": "日本民航局局长发布会多次发笑",
-      "onboard_time": 1704262892,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 450536,
       "num": 450536,
       "word": "日航起火客机上17人受伤",
@@ -2219,14 +2243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 425797,
-      "num": 425797,
-      "word": "小土豆文学",
-      "onboard_time": 1704262050,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 423727,
       "num": 423727,
       "word": "成本14.6元卖6980的复活丹实则淀粉丸",
@@ -2280,14 +2296,6 @@
       "word": "萌兰在院子里挖了4年宝贝",
       "onboard_time": 1704238765,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416942,
-      "num": 416942,
-      "word": "74岁老人做眼部手术死亡",
-      "onboard_time": 1704262291,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -2347,6 +2355,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 409928,
+      "num": 409928,
+      "word": "宋茜王鹤棣屋顶着火YouTube播放量",
+      "onboard_time": 1704263969,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409155,
       "num": 378750,
       "word": "拜登就日本强震发声明",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704103303,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 396493,
-      "num": 396493,
-      "word": "梅德韦杰夫预测2024年",
-      "onboard_time": 1704067405,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 395252,
-      "num": 395252,
-      "word": "林高远 Happy new year",
-      "onboard_time": 1704104259,
-      "rank": 41,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
