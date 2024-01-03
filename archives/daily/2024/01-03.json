@@ -1,6 +1,6 @@
 {
   "startTime": 1704212468581,
-  "endTime": 1704266261825,
+  "endTime": 1704267254195,
   "band_list": [
     {
       "raw_hot": 2250367,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598294,
+      "num": 598294,
+      "word": "74岁老人做眼部手术死亡",
+      "onboard_time": 1704262291,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583626,
       "num": 583626,
       "word": "38城平均工资超1万元",
@@ -368,14 +376,6 @@
       "word": "上海调整公积金个人住房贷款政策",
       "onboard_time": 1704235637,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 571271,
-      "num": 571271,
-      "word": "74岁老人做眼部手术死亡",
-      "onboard_time": 1704262291,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440777,
+      "num": 406172,
+      "word": "日本地震灾区一市90%房屋损毁",
+      "onboard_time": 1704263969,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438405,
       "num": 438405,
       "word": "以军空袭致哈马斯领导人丧生",
@@ -529,6 +537,14 @@
       "onboard_time": 1704246151,
       "rank": 14,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 433939,
+      "num": 405531,
+      "word": "郝劭文妻子曝女儿遭遇校园霸凌",
+      "onboard_time": 1704266850,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 418291,
@@ -611,14 +627,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 358676,
-      "num": 358676,
-      "word": "日本地震灾区一市90%房屋损毁",
-      "onboard_time": 1704263969,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349230,
       "num": 349230,
       "word": "不想上班 领导是彭于晏也不行",
@@ -667,7 +675,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313158,
+      "raw_hot": 318207,
       "num": 313158,
       "word": "南方小土豆喊东北虎咪咪收获一声冷笑",
       "onboard_time": 1704261751,
@@ -737,6 +745,14 @@
       "onboard_time": 1704254852,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283219,
+      "num": 283219,
+      "word": "小砂糖橘",
+      "onboard_time": 1704266490,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 282750,
@@ -843,6 +859,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 252140,
+      "num": 252140,
+      "word": "金钟大金珉锡或在边伯贤公司活动",
+      "onboard_time": 1704265951,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252045,
       "num": 252045,
       "word": "一夜间松花江上蹦出N个大雪人",
@@ -899,12 +923,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 235496,
+      "num": 235496,
+      "word": "迪丽热巴王安宇骑羊",
+      "onboard_time": 1704264270,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235242,
       "num": 235242,
       "word": "唐嫣繁花官配",
       "onboard_time": 1704259650,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231484,
+      "num": 260139,
+      "word": "期待2025",
+      "onboard_time": 1704265230,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 231445,
@@ -915,28 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229762,
-      "num": 229762,
-      "word": "期待2025",
-      "onboard_time": 1704265230,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 228110,
       "num": 140569,
       "word": "纽约",
       "onboard_time": 1704204094,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 228042,
-      "num": 228042,
-      "word": "迪丽热巴王安宇骑羊",
-      "onboard_time": 1704264270,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 227659,
@@ -961,6 +985,14 @@
       "onboard_time": 1704263850,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224721,
+      "num": 263520,
+      "word": "南宁3壮汉曾放言2公里内不让卖",
+      "onboard_time": 1704265590,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224699,
@@ -1033,14 +1065,6 @@
       "onboard_time": 1704263070,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 210557,
-      "num": 210557,
-      "word": "金钟大金珉锡或在边伯贤公司活动",
-      "onboard_time": 1704265951,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 209948,
@@ -1131,6 +1155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182274,
+      "num": 177897,
+      "word": "阿宝为了汪小姐挨了一巴掌",
+      "onboard_time": 1704266549,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181752,
       "num": 181752,
       "word": "警方回应2人骑车朝路人射烟花",
@@ -1193,6 +1225,14 @@
       "onboard_time": 1704245731,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172947,
+      "num": 172947,
+      "word": "DYG打响转会第一枪",
+      "onboard_time": 1704267029,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 172156,
@@ -1275,20 +1315,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162519,
+      "num": 149332,
+      "word": "蕾子 好心态决定女人一生",
+      "onboard_time": 1704266069,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161763,
       "num": 140552,
       "word": "瞧给虞书欣都吓出烟嗓了",
       "onboard_time": 1704204033,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159729,
-      "num": 159729,
-      "word": "南宁3壮汉曾放言2公里内不让卖",
-      "onboard_time": 1704265590,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155122,
@@ -1443,6 +1483,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 134683,
+      "num": 134683,
+      "word": "格力玫瑰空调",
+      "onboard_time": 1704266729,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 134017,
       "num": 134017,
       "word": "库里36分",
@@ -1531,14 +1579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118645,
-      "num": 118645,
-      "word": "蕾子 好心态决定女人一生",
-      "onboard_time": 1704266069,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 118510,
       "num": 118510,
       "word": "5岁吃不到10种食物的女孩长大了",
@@ -1609,6 +1649,14 @@
       "onboard_time": 1704199231,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94693,
+      "num": 94693,
+      "word": "袭击李在明嫌疑人阐述犯罪动机",
+      "onboard_time": 1704267089,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 93134,

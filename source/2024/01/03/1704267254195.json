@@ -1,0 +1,410 @@
+{
+  "runTime": 1704267254195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1265099,
+        "num": 1265099,
+        "word": "00后向太直播间拍下估值800万豪宅",
+        "onboard_time": 1704264449,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 985296,
+        "num": 985296,
+        "word": "叶酸吃多了真的会致癌吗",
+        "onboard_time": 1704259951,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44420,
+        "num": 655546,
+        "word": "神十七太空吃播上新",
+        "onboard_time": 1704253951,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019035,
+        "num": 631490,
+        "word": "迪丽热巴展示泳衣",
+        "onboard_time": 1704261812,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598294,
+        "num": 598294,
+        "word": "74岁老人做眼部手术死亡",
+        "onboard_time": 1704262291,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591689,
+        "num": 591689,
+        "word": "假唱",
+        "onboard_time": 1704262650,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549519,
+        "num": 549519,
+        "word": "辛芷蕾拍繁花学了两年舞蹈课",
+        "onboard_time": 1704248310,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467955,
+        "num": 467955,
+        "word": "香港演员李子雄宣传哈尔滨",
+        "onboard_time": 1704260731,
+        "rank": 7,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 1026903,
+        "num": 451709,
+        "word": "日本民航局局长发布会多次发笑",
+        "onboard_time": 1704262892,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 410154,
+        "num": 410154,
+        "word": "38城平均工资超1万元",
+        "onboard_time": 1704260130,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 795625,
+        "num": 407305,
+        "word": "曝林靖恩入住饭店后精神失控",
+        "onboard_time": 1704261992,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440777,
+        "num": 406172,
+        "word": "日本地震灾区一市90%房屋损毁",
+        "onboard_time": 1704263969,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433939,
+        "num": 405531,
+        "word": "郝劭文妻子曝女儿遭遇校园霸凌",
+        "onboard_time": 1704266850,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404270,
+        "num": 404270,
+        "word": "Jennie离开YG的原因",
+        "onboard_time": 1704258870,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351844,
+        "num": 351844,
+        "word": "12306推出购票新功能",
+        "onboard_time": 1704248549,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396180,
+        "num": 343237,
+        "word": "宋茜王鹤棣屋顶着火YouTube播放量",
+        "onboard_time": 1704263969,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328104,
+        "num": 328104,
+        "word": "仙剑 换乘恋爱",
+        "onboard_time": 1704262409,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323263,
+        "num": 323263,
+        "word": "刘诗诗吴奇隆带娃出门",
+        "onboard_time": 1704248911,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283219,
+        "num": 283219,
+        "word": "小砂糖橘",
+        "onboard_time": 1704266490,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 226945,
+        "num": 280281,
+        "word": "宝妈称洗浴中心未经允许给6岁娃搓背",
+        "onboard_time": 1704260310,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432519,
+        "num": 274577,
+        "word": "小土豆文学",
+        "onboard_time": 1704262050,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318207,
+        "num": 270593,
+        "word": "南方小土豆喊东北虎咪咪收获一声冷笑",
+        "onboard_time": 1704261751,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 317426,
+        "num": 268632,
+        "word": "家有儿女大电影定档",
+        "onboard_time": 1704256474,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224721,
+        "num": 263520,
+        "word": "南宁3壮汉曾放言2公里内不让卖",
+        "onboard_time": 1704265590,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231484,
+        "num": 260139,
+        "word": "期待2025",
+        "onboard_time": 1704265230,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291557,
+        "num": 253326,
+        "word": "侃爷ins更新",
+        "onboard_time": 1704265471,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252140,
+        "num": 252140,
+        "word": "金钟大金珉锡或在边伯贤公司活动",
+        "onboard_time": 1704265951,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235496,
+        "num": 235496,
+        "word": "迪丽热巴王安宇骑羊",
+        "onboard_time": 1704264270,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230800,
+        "num": 230800,
+        "word": "科目三的风吹到了JYP",
+        "onboard_time": 1704245251,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178564,
+        "num": 178564,
+        "word": "鄂温克族与鄂伦春族有什么区别",
+        "onboard_time": 1704263070,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 182274,
+        "num": 177897,
+        "word": "阿宝为了汪小姐挨了一巴掌",
+        "onboard_time": 1704266549,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176187,
+        "num": 176187,
+        "word": "上海薪资连续4个季度领跑全国",
+        "onboard_time": 1704259111,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 181046,
+        "num": 176042,
+        "word": "王家卫 上海情结",
+        "onboard_time": 1704263850,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172947,
+        "num": 172947,
+        "word": "DYG打响转会第一枪",
+        "onboard_time": 1704267029,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151577,
+        "num": 151577,
+        "word": "老伯看不懂英文误入女厕被指非礼",
+        "onboard_time": 1704260612,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162519,
+        "num": 149332,
+        "word": "蕾子 好心态决定女人一生",
+        "onboard_time": 1704266069,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143952,
+        "num": 143952,
+        "word": "还好我28了说的不是我",
+        "onboard_time": 1704259410,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139185,
+        "num": 139185,
+        "word": "警方回应2人骑车朝路人射烟花",
+        "onboard_time": 1704263551,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136943,
+        "num": 136943,
+        "word": "为什么霸道总裁大多都姓顾",
+        "onboard_time": 1704265409,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 136091,
+        "num": 136091,
+        "word": "陈楚生 新年第一次抢票",
+        "onboard_time": 1704254614,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134683,
+        "num": 134683,
+        "word": "格力玫瑰空调",
+        "onboard_time": 1704266729,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125596,
+        "num": 125596,
+        "word": "日本地震死亡人数再上升",
+        "onboard_time": 1704251012,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121068,
+        "num": 121068,
+        "word": "华为与懂车帝停止合作",
+        "onboard_time": 1704254792,
+        "rank": 42,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 118331,
+        "num": 118331,
+        "word": "汪小姐 和过去决裂很彻底",
+        "onboard_time": 1704249212,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111147,
+        "num": 111147,
+        "word": "王健林再卖一线城市万达广场",
+        "onboard_time": 1704244469,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 108408,
+        "num": 108408,
+        "word": "前手臂三条线可以治很多病",
+        "onboard_time": 1704265350,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108095,
+        "num": 108095,
+        "word": "冻梨咖啡",
+        "onboard_time": 1704256714,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103452,
+        "num": 103452,
+        "word": "以军空袭致哈马斯领导人丧生",
+        "onboard_time": 1704258214,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 94693,
+        "num": 94693,
+        "word": "袭击李在明嫌疑人阐述犯罪动机",
+        "onboard_time": 1704267089,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 91464,
+        "num": 91464,
+        "word": "浴室厨房马桶下水道堵了怎么疏通",
+        "onboard_time": 1704264870,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024继续向星辰大海阔步前行#"
+    }
+  }
+}
