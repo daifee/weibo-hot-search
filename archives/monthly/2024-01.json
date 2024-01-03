@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704259061735,
+  "endTime": 1704260047514,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -555,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1132312,
+      "num": 1132312,
+      "word": "端木代言了美特斯邦威",
+      "onboard_time": 1704255574,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1127116,
       "num": 815447,
       "word": "马立奥镜头太少了",
@@ -571,11 +579,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1098134,
-      "num": 1098134,
-      "word": "端木代言了美特斯邦威",
-      "onboard_time": 1704255574,
-      "rank": 44,
+      "raw_hot": 1109068,
+      "num": 1109068,
+      "word": "Jennie离开YG的原因",
+      "onboard_time": 1704258870,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1651,14 +1659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570368,
-      "num": 504219,
-      "word": "Jennie离开YG的原因",
-      "onboard_time": 1704258870,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 566732,
       "num": 852570,
       "word": "跨年朋友圈",
@@ -1795,6 +1795,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 523408,
+      "num": 523408,
+      "word": "冻梨咖啡",
+      "onboard_time": 1704256714,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 522564,
       "num": 368604,
       "word": "日本地震已致13人死亡",
@@ -1809,14 +1817,6 @@
       "onboard_time": 1704249630,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510747,
-      "num": 510747,
-      "word": "冻梨咖啡",
-      "onboard_time": 1704256714,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 509411,
@@ -1963,6 +1963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 476949,
+      "num": 476949,
+      "word": "花儿与少年",
+      "onboard_time": 1704257974,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475998,
       "num": 475998,
       "word": "郭麒麟亲了郭德纲一口",
@@ -2089,6 +2097,14 @@
       "onboard_time": 1704163297,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438405,
+      "num": 438405,
+      "word": "以军空袭致哈马斯领导人丧生",
+      "onboard_time": 1704258214,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 436116,
@@ -2419,14 +2435,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 365257,
-      "num": 303183,
-      "word": "花儿与少年",
-      "onboard_time": 1704257974,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 364546,
       "num": 364546,
       "word": "张杰听到加班吓跪了",
@@ -2755,14 +2763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 309104,
-      "num": 309104,
-      "word": "以军空袭致哈马斯领导人丧生",
-      "onboard_time": 1704258214,
-      "rank": 22,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 308491,
       "num": 241420,
       "word": "屋顶着火直拍",
@@ -2883,6 +2883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293542,
+      "num": 293542,
+      "word": "原神 璃月食集",
+      "onboard_time": 1704258752,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292895,
       "num": 292895,
       "word": "刘亦菲新年vlog",
@@ -2921,14 +2929,6 @@
       "onboard_time": 1704251850,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289740,
-      "num": 289740,
-      "word": "原神 璃月食集",
-      "onboard_time": 1704258752,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 289002,
@@ -3147,6 +3147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269214,
+      "num": 269214,
+      "word": "上海薪资连续4个季度领跑全国",
+      "onboard_time": 1704259111,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 269015,
       "num": 256638,
       "word": "真的相信女生生来就有爱人的能力",
@@ -3265,6 +3273,14 @@
       "onboard_time": 1704245429,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260201,
+      "num": 233981,
+      "word": "叶酸吃多了真的会致癌吗",
+      "onboard_time": 1704259951,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 259018,
@@ -3505,6 +3521,14 @@
       "onboard_time": 1704177332,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235242,
+      "num": 235242,
+      "word": "唐嫣繁花官配",
+      "onboard_time": 1704259650,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 235140,
@@ -3753,6 +3777,14 @@
       "onboard_time": 1704173733,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218706,
+      "num": 218706,
+      "word": "边伯贤成立公司",
+      "onboard_time": 1704259593,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 218635,
@@ -4323,6 +4355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185528,
+      "num": 185528,
+      "word": "阿宝人情债",
+      "onboard_time": 1704258752,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184771,
       "num": 184771,
       "word": "哈尔滨让我感到陌生",
@@ -4377,6 +4417,14 @@
       "onboard_time": 1704196413,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 181663,
+      "num": 181663,
+      "word": "还好我28了说的不是我",
+      "onboard_time": 1704259410,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 181353,
@@ -4633,14 +4681,6 @@
       "onboard_time": 1704111519,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169424,
-      "num": 169424,
-      "word": "阿宝人情债",
-      "onboard_time": 1704258752,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 169416,
@@ -5299,6 +5339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139427,
+      "num": 139427,
+      "word": "苏打绿香港站开启",
+      "onboard_time": 1704259531,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139265,
       "num": 139265,
       "word": "当南方人给哈尔滨人做铁锅炖",
@@ -5465,6 +5513,14 @@
       "onboard_time": 1704125373,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129241,
+      "num": 129241,
+      "word": "AI行业或成2024就业新风口",
+      "onboard_time": 1704260012,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 129126,
@@ -6116,7 +6172,7 @@
     },
     {
       "raw_hot": 66646,
-      "num": 1045584,
+      "num": 1120448,
       "word": "神十七太空吃播上新",
       "onboard_time": 1704253951,
       "rank": 2,

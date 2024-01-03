@@ -1,0 +1,410 @@
+{
+  "runTime": 1704260047514,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1269088,
+        "num": 1269088,
+        "word": "家有儿女大电影定档",
+        "onboard_time": 1704256474,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1132312,
+        "num": 1132312,
+        "word": "端木代言了美特斯邦威",
+        "onboard_time": 1704255574,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 60290,
+        "num": 1120448,
+        "word": "神十七太空吃播上新",
+        "onboard_time": 1704253951,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109068,
+        "num": 1109068,
+        "word": "Jennie离开YG的原因",
+        "onboard_time": 1704258870,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 769088,
+        "num": 769088,
+        "word": "12306推出购票新功能",
+        "onboard_time": 1704248549,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717897,
+        "num": 717897,
+        "word": "高校干部酒后家暴打死妻子母亲发声",
+        "onboard_time": 1704255395,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656705,
+        "num": 656705,
+        "word": "辛芷蕾拍繁花学了两年舞蹈课",
+        "onboard_time": 1704248310,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 621787,
+        "num": 621787,
+        "word": "华为与懂车帝停止合作",
+        "onboard_time": 1704254792,
+        "rank": 7,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 624135,
+        "num": 597389,
+        "word": "汪小姐 和过去决裂很彻底",
+        "onboard_time": 1704249212,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 523408,
+        "num": 523408,
+        "word": "冻梨咖啡",
+        "onboard_time": 1704256714,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 704839,
+        "num": 513141,
+        "word": "刘诗诗吴奇隆带娃出门",
+        "onboard_time": 1704248911,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476949,
+        "num": 476949,
+        "word": "花儿与少年",
+        "onboard_time": 1704257974,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468878,
+        "num": 468878,
+        "word": "王健林再卖一线城市万达广场",
+        "onboard_time": 1704244469,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 450303,
+        "num": 450303,
+        "word": "陈楚生 新年第一次抢票",
+        "onboard_time": 1704254614,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 438405,
+        "num": 438405,
+        "word": "以军空袭致哈马斯领导人丧生",
+        "onboard_time": 1704258214,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 396831,
+        "num": 396831,
+        "word": "脱轨美术组道歉",
+        "onboard_time": 1704254674,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367417,
+        "num": 367417,
+        "word": "郑恺透露繁花与唐嫣结局HE",
+        "onboard_time": 1704249030,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327812,
+        "num": 327812,
+        "word": "南方小土豆",
+        "onboard_time": 1704252753,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295637,
+        "num": 295637,
+        "word": "日本地震死亡人数再上升",
+        "onboard_time": 1704251012,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293542,
+        "num": 293542,
+        "word": "原神 璃月食集",
+        "onboard_time": 1704258752,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 346934,
+        "num": 288728,
+        "word": "2024待爆",
+        "onboard_time": 1704247949,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340495,
+        "num": 280147,
+        "word": "科目三的风吹到了JYP",
+        "onboard_time": 1704245251,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271352,
+        "num": 271352,
+        "word": "初中生学习压力大举报补习班",
+        "onboard_time": 1704257617,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 269214,
+        "num": 269214,
+        "word": "上海薪资连续4个季度领跑全国",
+        "onboard_time": 1704259111,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 103577,
+        "num": 267668,
+        "word": "呼伦贝尔的冬天有多壮美",
+        "onboard_time": 1704256474,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 267582,
+        "num": 267582,
+        "word": "迪丽热巴椰汁pose",
+        "onboard_time": 1704256116,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258739,
+        "num": 258739,
+        "word": "7年情侣上恋综被所有人劝分",
+        "onboard_time": 1704206677,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250681,
+        "num": 250681,
+        "word": "三亚冬天败给哈尔滨",
+        "onboard_time": 1704246151,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 243939,
+        "num": 243939,
+        "word": "原神流浪者",
+        "onboard_time": 1704257617,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235242,
+        "num": 235242,
+        "word": "唐嫣繁花官配",
+        "onboard_time": 1704259650,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260201,
+        "num": 233981,
+        "word": "叶酸吃多了真的会致癌吗",
+        "onboard_time": 1704259951,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224209,
+        "num": 224209,
+        "word": "不想上班 领导是彭于晏也不行",
+        "onboard_time": 1704255693,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218706,
+        "num": 218706,
+        "word": "边伯贤成立公司",
+        "onboard_time": 1704259593,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188604,
+        "num": 188604,
+        "word": "李在明手术结束",
+        "onboard_time": 1704256116,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 185528,
+        "num": 185528,
+        "word": "阿宝人情债",
+        "onboard_time": 1704258752,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185163,
+        "num": 185163,
+        "word": "宝宝在军营被爸爸战友抢着抱",
+        "onboard_time": 1704246151,
+        "rank": 35,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 184721,
+        "num": 184721,
+        "word": "孩子甲流刚好又中招乙流",
+        "onboard_time": 1704239306,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181663,
+        "num": 181663,
+        "word": "还好我28了说的不是我",
+        "onboard_time": 1704259410,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179479,
+        "num": 179479,
+        "word": "华为知情人士回应与懂车帝停止合作",
+        "onboard_time": 1704258394,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 176107,
+        "num": 176107,
+        "word": "脱轨被曝盗图",
+        "onboard_time": 1704245911,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167173,
+        "num": 167173,
+        "word": "哈尔滨游客订不到房入住人大服务中心",
+        "onboard_time": 1704246929,
+        "rank": 40,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 163441,
+        "num": 163441,
+        "word": "周一围 这次赶上朱丹的嘴",
+        "onboard_time": 1704243213,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159295,
+        "num": 159295,
+        "word": "脱轨大结局 病号版燃冬",
+        "onboard_time": 1704256357,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156121,
+        "num": 156121,
+        "word": "别让狮子座丢脸",
+        "onboard_time": 1704257913,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147352,
+        "num": 147352,
+        "word": "董宇辉中国传媒大学演讲",
+        "onboard_time": 1704244531,
+        "rank": 44,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 141605,
+        "num": 141605,
+        "word": "考研时没有生活 考研后不会生活",
+        "onboard_time": 1704248249,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139427,
+        "num": 139427,
+        "word": "苏打绿香港站开启",
+        "onboard_time": 1704259531,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138330,
+        "num": 138330,
+        "word": "早晚餐吃得晚伤心脏",
+        "onboard_time": 1704244649,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137933,
+        "num": 137933,
+        "word": "扫地机器人咬狗尾巴半个小时不松口",
+        "onboard_time": 1704254733,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129241,
+        "num": 129241,
+        "word": "AI行业或成2024就业新风口",
+        "onboard_time": 1704260012,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}

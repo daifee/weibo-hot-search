@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704259061735,
+  "endTime": 1704260047514,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -555,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1132312,
+      "num": 1132312,
+      "word": "端木代言了美特斯邦威",
+      "onboard_time": 1704255574,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1127116,
       "num": 815447,
       "word": "马立奥镜头太少了",
@@ -571,11 +579,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1098134,
-      "num": 1098134,
-      "word": "端木代言了美特斯邦威",
-      "onboard_time": 1704255574,
-      "rank": 44,
+      "raw_hot": 1109068,
+      "num": 1109068,
+      "word": "Jennie离开YG的原因",
+      "onboard_time": 1704258870,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1651,14 +1659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570368,
-      "num": 504219,
-      "word": "Jennie离开YG的原因",
-      "onboard_time": 1704258870,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 566732,
       "num": 852570,
       "word": "跨年朋友圈",
@@ -1795,6 +1795,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 523408,
+      "num": 523408,
+      "word": "冻梨咖啡",
+      "onboard_time": 1704256714,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 522564,
       "num": 368604,
       "word": "日本地震已致13人死亡",
@@ -1809,14 +1817,6 @@
       "onboard_time": 1704249630,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510747,
-      "num": 510747,
-      "word": "冻梨咖啡",
-      "onboard_time": 1704256714,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 509411,
@@ -1963,6 +1963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 476949,
+      "num": 476949,
+      "word": "花儿与少年",
+      "onboard_time": 1704257974,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475998,
       "num": 475998,
       "word": "郭麒麟亲了郭德纲一口",
@@ -2089,6 +2097,14 @@
       "onboard_time": 1704163297,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438405,
+      "num": 438405,
+      "word": "以军空袭致哈马斯领导人丧生",
+      "onboard_time": 1704258214,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 436116,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704176014,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 377348,
-      "num": 377348,
-      "word": "田曦薇人群中认出粉丝",
-      "onboard_time": 1704248852,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 376801,
-      "num": 376801,
-      "word": "杨紫琼当奶奶",
-      "onboard_time": 1704189756,
-      "rank": 17,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
