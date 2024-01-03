@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704317641835,
+  "endTime": 1704320210285,
   "band_list": [
     {
       "raw_hot": 951561,
@@ -403,8 +403,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 67381,
-      "num": 67381,
+      "raw_hot": 73284,
+      "num": 73284,
       "word": "女童上公交姥姥没追上急哭求助后车",
       "onboard_time": 1704301642,
       "rank": 32,
@@ -484,19 +484,27 @@
     },
     {
       "raw_hot": 32117,
-      "num": 20307,
+      "num": 25645,
       "word": "办婚礼大半年没圆房男子要回彩礼",
       "onboard_time": 1704314654,
       "rank": 22,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19823,
-      "num": 16291,
+      "raw_hot": 19999,
+      "num": 19999,
       "word": "多地公布2023新生儿爆款名",
       "onboard_time": 1704313094,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17372,
+      "num": 17372,
+      "word": "杭州超100所小学30所初中爆表",
+      "onboard_time": 1704319815,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 16727,
@@ -505,6 +513,14 @@
       "onboard_time": 1704306436,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 14907,
+      "num": 16527,
+      "word": "小土豆初体验铲雪被东北大爷直夸",
+      "onboard_time": 1704315974,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13423,
@@ -521,14 +537,6 @@
       "onboard_time": 1704312794,
       "rank": 41,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 11064,
-      "num": 11064,
-      "word": "小土豆初体验铲雪被东北大爷直夸",
-      "onboard_time": 1704315974,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10794,
