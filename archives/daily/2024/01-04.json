@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704316546047,
+  "endTime": 1704317641835,
   "band_list": [
     {
       "raw_hot": 951561,
@@ -483,15 +483,15 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 24808,
-      "num": 19843,
+      "raw_hot": 32117,
+      "num": 20307,
       "word": "办婚礼大半年没圆房男子要回彩礼",
       "onboard_time": 1704314654,
       "rank": 22,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17442,
+      "raw_hot": 19823,
       "num": 16291,
       "word": "多地公布2023新生儿爆款名",
       "onboard_time": 1704313094,
@@ -523,6 +523,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 11064,
+      "num": 11064,
+      "word": "小土豆初体验铲雪被东北大爷直夸",
+      "onboard_time": 1704315974,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10794,
       "num": 10794,
       "word": "i人的2024年充电清单",
@@ -531,20 +539,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 10416,
+      "num": 10416,
+      "word": "南泥北搓",
+      "onboard_time": 1704315853,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 10262,
       "num": 10262,
       "word": "苏州和宁波大哥高速联手救人",
       "onboard_time": 1704313034,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 10255,
-      "num": 10255,
-      "word": "小土豆初体验铲雪被东北大爷直夸",
-      "onboard_time": 1704315974,
-      "rank": 48,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
