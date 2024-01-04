@@ -1,10 +1,10 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704330948388,
+  "endTime": 1704332186504,
   "band_list": [
     {
-      "raw_hot": 1736060,
-      "num": 1736060,
+      "raw_hot": 1761298,
+      "num": 1761298,
       "word": "11个砂糖橘外套是家长选的",
       "onboard_time": 1704328113,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1704299007,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1161554,
+      "num": 1161554,
+      "word": "小杨哥徒弟红绿灯的黄再次复播",
+      "onboard_time": 1704329970,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 951561,
@@ -43,8 +51,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 720196,
+      "num": 720196,
+      "word": "伊朗修正爆炸死亡人数至95人",
+      "onboard_time": 1704331411,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 703148,
-      "num": 435712,
+      "num": 490760,
       "word": "脸上出现5个症状暗示肝不好",
       "onboard_time": 1704324805,
       "rank": 32,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 693083,
-      "num": 431321,
+      "num": 575497,
       "word": "哈尔滨给中央大街铺地毯了",
       "onboard_time": 1704324925,
       "rank": 11,
@@ -67,12 +83,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 626296,
-      "num": 430818,
-      "word": "小杨哥徒弟红绿灯的黄再次复播",
-      "onboard_time": 1704329970,
-      "rank": 12,
-      "category": "互联网"
+      "raw_hot": 641308,
+      "num": 641308,
+      "word": "繁花 没人相信自己要杀青了",
+      "onboard_time": 1704330628,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 591842,
@@ -147,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 451235,
+      "num": 451235,
+      "word": "人民日报评哈尔滨旅游出圈",
+      "onboard_time": 1704329495,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446079,
       "num": 446079,
       "word": "尔滨背刺了整个东北",
@@ -155,12 +179,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 420109,
-      "num": 420109,
-      "word": "人民日报评哈尔滨旅游出圈",
-      "onboard_time": 1704329495,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 433548,
+      "num": 433548,
+      "word": "扎克伯格耗巨资挖末日地堡",
+      "onboard_time": 1704330392,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 409093,
@@ -211,20 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338463,
-      "num": 271923,
+      "raw_hot": 342830,
+      "num": 286899,
       "word": "经常不吃早餐更易过胖超重",
       "onboard_time": 1704327572,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 301037,
-      "num": 301037,
-      "word": "扎克伯格耗巨资挖末日地堡",
-      "onboard_time": 1704330392,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 299336,
@@ -243,8 +259,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289822,
-      "num": 289822,
+      "raw_hot": 293162,
+      "num": 293162,
       "word": "爸爸妈妈开门我是么么",
       "onboard_time": 1704326248,
       "rank": 18,
@@ -264,6 +280,30 @@
       "word": "张家口市张北县2.4级地震",
       "onboard_time": 1704323479,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266685,
+      "num": 266685,
+      "word": "王者S34新赛季",
+      "onboard_time": 1704329735,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 265478,
+      "num": 265478,
+      "word": "乳腺结节增生改善方法",
+      "onboard_time": 1704330332,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 250743,
+      "num": 250743,
+      "word": "哈尔滨爆火官方坦言已准备一年",
+      "onboard_time": 1704330392,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -331,22 +371,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 235062,
-      "num": 235062,
-      "word": "繁花 没人相信自己要杀青了",
-      "onboard_time": 1704330628,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 234112,
-      "num": 207893,
-      "word": "乳腺结节增生改善方法",
-      "onboard_time": 1704330332,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 227414,
       "num": 227414,
       "word": "女童上公交姥姥没追上急哭求助后车",
@@ -355,19 +379,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225415,
-      "num": 225415,
-      "word": "王者S34新赛季",
-      "onboard_time": 1704329735,
-      "rank": 26,
-      "category": "游戏"
+      "raw_hot": 224326,
+      "num": 224326,
+      "word": "他在冰窟中托举孩子直到生命最后一刻",
+      "onboard_time": 1704330452,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 208497,
-      "num": 208497,
-      "word": "哈尔滨爆火官方坦言已准备一年",
-      "onboard_time": 1704330392,
-      "rank": 29,
+      "raw_hot": 215390,
+      "num": 215390,
+      "word": "28岁后我当上村里老人共享孙女",
+      "onboard_time": 1704331769,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -395,12 +419,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 192347,
-      "num": 192347,
-      "word": "他在冰窟中托举孩子直到生命最后一刻",
-      "onboard_time": 1704330452,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 192379,
+      "num": 192379,
+      "word": "赖床30分钟有助改善身体疲惫",
+      "onboard_time": 1704330392,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190523,
+      "num": 190523,
+      "word": "孙怡新剧 谈了两种恋爱",
+      "onboard_time": 1704331532,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 190502,
@@ -441,6 +473,14 @@
       "onboard_time": 1704284612,
       "rank": 18,
       "category": "社会新闻,剧集"
+    },
+    {
+      "raw_hot": 184580,
+      "num": 184580,
+      "word": "章若楠 小孩姐",
+      "onboard_time": 1704326912,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 184573,
@@ -499,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170987,
+      "num": 170987,
+      "word": "2035年全国或有近200万教师过剩",
+      "onboard_time": 1704331769,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170177,
       "num": 170177,
       "word": "当东北金渐层被叫咪咪",
@@ -539,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154549,
+      "num": 154549,
+      "word": "小学六年级和大一新生只差六年",
+      "onboard_time": 1704331892,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154397,
       "num": 154397,
       "word": "在哈尔滨甚至能吃到索菲亚教堂",
@@ -555,20 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152815,
-      "num": 152815,
-      "word": "章若楠 小孩姐",
-      "onboard_time": 1704326912,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 143596,
-      "num": 143596,
-      "word": "赖床30分钟有助改善身体疲惫",
-      "onboard_time": 1704330392,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 144121,
+      "num": 144121,
+      "word": "日本地震死亡升至78人",
+      "onboard_time": 1704332010,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141620,
@@ -592,6 +640,22 @@
       "word": "农行纪念币",
       "onboard_time": 1704292535,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138049,
+      "num": 138049,
+      "word": "南京大雾",
+      "onboard_time": 1704329430,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132900,
+      "num": 132900,
+      "word": "中新网评南方小土豆争议",
+      "onboard_time": 1704332128,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

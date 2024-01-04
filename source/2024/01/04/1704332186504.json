@@ -1,0 +1,410 @@
+{
+  "runTime": 1704332186504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1761298,
+        "num": 1761298,
+        "word": "11个砂糖橘外套是家长选的",
+        "onboard_time": 1704328113,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1161554,
+        "num": 1161554,
+        "word": "小杨哥徒弟红绿灯的黄再次复播",
+        "onboard_time": 1704329970,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93791,
+        "num": 975085,
+        "word": "程序员回乡种小时候味道的西红柿",
+        "onboard_time": 1704286775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859165,
+        "num": 859165,
+        "word": "哈尔滨为小土豆连夜撤下破旧公交牌",
+        "onboard_time": 1704299007,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720196,
+        "num": 720196,
+        "word": "伊朗修正爆炸死亡人数至95人",
+        "onboard_time": 1704331411,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 644693,
+        "num": 644693,
+        "word": "范湉湉繁花演技",
+        "onboard_time": 1704324805,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 641308,
+        "num": 641308,
+        "word": "繁花 没人相信自己要杀青了",
+        "onboard_time": 1704330628,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 625366,
+        "num": 625366,
+        "word": "农业银行 系统",
+        "onboard_time": 1704326368,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 575497,
+        "num": 575497,
+        "word": "哈尔滨给中央大街铺地毯了",
+        "onboard_time": 1704324925,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492394,
+        "num": 492394,
+        "word": "南京地铁",
+        "onboard_time": 1704328834,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561054,
+        "num": 490760,
+        "word": "脸上出现5个症状暗示肝不好",
+        "onboard_time": 1704324805,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 451235,
+        "num": 451235,
+        "word": "人民日报评哈尔滨旅游出圈",
+        "onboard_time": 1704329495,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448542,
+        "num": 448542,
+        "word": "尔滨 你这凤凰搁辽宁那借的啊",
+        "onboard_time": 1704324621,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 433548,
+        "num": 433548,
+        "word": "扎克伯格耗巨资挖末日地堡",
+        "onboard_time": 1704330392,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 397768,
+        "num": 397768,
+        "word": "月入过万在江苏是什么体验",
+        "onboard_time": 1704326849,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397767,
+        "num": 397767,
+        "word": "南方小土豆这一称呼合适吗",
+        "onboard_time": 1704328772,
+        "rank": 15,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 367720,
+        "num": 367720,
+        "word": "王家卫受害者联盟进新人了",
+        "onboard_time": 1704326128,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311357,
+        "num": 311357,
+        "word": "中国银行纪念币 约不到",
+        "onboard_time": 1704326849,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309198,
+        "num": 309198,
+        "word": "民警多问一句竟发现2名被拐孩子",
+        "onboard_time": 1704294576,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293162,
+        "num": 293162,
+        "word": "爸爸妈妈开门我是么么",
+        "onboard_time": 1704326248,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342830,
+        "num": 286899,
+        "word": "经常不吃早餐更易过胖超重",
+        "onboard_time": 1704327572,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266685,
+        "num": 266685,
+        "word": "王者S34新赛季",
+        "onboard_time": 1704329735,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265478,
+        "num": 265478,
+        "word": "乳腺结节增生改善方法",
+        "onboard_time": 1704330332,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 264187,
+        "num": 264187,
+        "word": "尔滨背刺了整个东北",
+        "onboard_time": 1704283110,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 250743,
+        "num": 250743,
+        "word": "哈尔滨爆火官方坦言已准备一年",
+        "onboard_time": 1704330392,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224326,
+        "num": 224326,
+        "word": "他在冰窟中托举孩子直到生命最后一刻",
+        "onboard_time": 1704330452,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220903,
+        "num": 220903,
+        "word": "河南一被弃养男婴遭姥姥拒收",
+        "onboard_time": 1704324082,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215390,
+        "num": 215390,
+        "word": "28岁后我当上村里老人共享孙女",
+        "onboard_time": 1704331769,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192379,
+        "num": 192379,
+        "word": "赖床30分钟有助改善身体疲惫",
+        "onboard_time": 1704330392,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190523,
+        "num": 190523,
+        "word": "孙怡新剧 谈了两种恋爱",
+        "onboard_time": 1704331532,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190181,
+        "num": 190181,
+        "word": "当老公发现了前男友写给我的情书",
+        "onboard_time": 1704296973,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185192,
+        "num": 185192,
+        "word": "迪丽热巴你不是孤单一人了",
+        "onboard_time": 1704329253,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184580,
+        "num": 184580,
+        "word": "章若楠 小孩姐",
+        "onboard_time": 1704326912,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183929,
+        "num": 183929,
+        "word": "龙年纪念币",
+        "onboard_time": 1704291034,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175816,
+        "num": 175816,
+        "word": "龙年纪念币钞预约火爆",
+        "onboard_time": 1704328772,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 170987,
+        "num": 170987,
+        "word": "2035年全国或有近200万教师过剩",
+        "onboard_time": 1704331769,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167926,
+        "num": 167926,
+        "word": "清华一本科生转学至双非院校",
+        "onboard_time": 1704279337,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167898,
+        "num": 167898,
+        "word": "原来香港售卖的泡面没叉子",
+        "onboard_time": 1704326248,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160405,
+        "num": 160405,
+        "word": "被小狗亲了一口然后亲手用雪埋了",
+        "onboard_time": 1704298228,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157762,
+        "num": 157762,
+        "word": "亚裔夫妇花10万美元试管诞下白人婴儿",
+        "onboard_time": 1704291698,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155084,
+        "num": 155084,
+        "word": "当东北金渐层被叫咪咪",
+        "onboard_time": 1704323479,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154549,
+        "num": 154549,
+        "word": "小学六年级和大一新生只差六年",
+        "onboard_time": 1704331892,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153717,
+        "num": 153717,
+        "word": "胡歌挨巴掌戏份花絮",
+        "onboard_time": 1704326548,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145561,
+        "num": 145561,
+        "word": "哈尔滨松花江畔现3000平方米的巨龙",
+        "onboard_time": 1704325585,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144121,
+        "num": 144121,
+        "word": "日本地震死亡升至78人",
+        "onboard_time": 1704332010,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138049,
+        "num": 138049,
+        "word": "南京大雾",
+        "onboard_time": 1704329430,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133653,
+        "num": 133653,
+        "word": "发烧让两个同事给我送钥匙都被拒绝了",
+        "onboard_time": 1704289832,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150159,
+        "num": 133499,
+        "word": "胡歌繁花同款西装定制电话打爆了",
+        "onboard_time": 1704329374,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 133256,
+        "num": 133256,
+        "word": "孙俪魏大勋或将合作",
+        "onboard_time": 1704328893,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132900,
+        "num": 132900,
+        "word": "中新网评南方小土豆争议",
+        "onboard_time": 1704332128,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}
