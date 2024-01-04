@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704404062595,
+  "endTime": 1704406629117,
   "band_list": [
     {
       "raw_hot": 1723494,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113055,
+      "num": 59212,
+      "word": "哈尔滨一33岁患癌女子离家出走",
+      "onboard_time": 1704403995,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107288,
       "num": 107288,
       "word": "易烊千玺破洞针织内搭",
@@ -435,12 +443,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 55017,
+      "num": 55017,
+      "word": "南部战区南海海域例行巡航",
+      "onboard_time": 1704402073,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48901,
       "num": 48901,
       "word": "宋轶杜莎蜡像",
       "onboard_time": 1704388161,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 42576,
+      "num": 32403,
+      "word": "哈尔滨向沈阳借了两只凤凰",
+      "onboard_time": 1704403335,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 33149,
@@ -452,19 +476,19 @@
     },
     {
       "raw_hot": 30419,
-      "num": 20859,
+      "num": 30220,
       "word": "坚持一个月把肾气补回来",
       "onboard_time": 1704398293,
       "rank": 23,
       "category": "运动健身"
     },
     {
-      "raw_hot": 23645,
-      "num": 23645,
-      "word": "南部战区南海海域例行巡航",
-      "onboard_time": 1704402073,
-      "rank": 32,
-      "category": "国内时政"
+      "raw_hot": 25491,
+      "num": 25491,
+      "word": "砂糖橘在北极消防站与天安门国旗合影",
+      "onboard_time": 1704403573,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20981,
@@ -475,19 +499,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 15651,
-      "num": 15651,
+      "raw_hot": 19206,
+      "num": 19206,
       "word": "尔滨果然一点就透",
       "onboard_time": 1704399493,
       "rank": 49,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 15242,
-      "num": 15242,
-      "word": "哈尔滨向沈阳借了两只凤凰",
-      "onboard_time": 1704403335,
-      "rank": 32,
       "category": "旅游"
     },
     {
@@ -507,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 13538,
+      "num": 16863,
+      "word": "泼天的富贵考验哈尔滨",
+      "onboard_time": 1704401772,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 13454,
       "num": 19391,
       "word": "顽固性胃胀",
@@ -515,36 +539,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 11217,
-      "num": 11217,
-      "word": "泼天的富贵考验哈尔滨",
-      "onboard_time": 1704401772,
-      "rank": 44,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 10771,
-      "num": 10771,
-      "word": "砂糖橘在北极消防站与天安门国旗合影",
-      "onboard_time": 1704403573,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 9622,
       "num": 9622,
       "word": "哈尔滨撸白狐",
       "onboard_time": 1704400934,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 9382,
-      "num": 9382,
-      "word": "哈尔滨一33岁患癌女子离家出走",
-      "onboard_time": 1704403995,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5735,
