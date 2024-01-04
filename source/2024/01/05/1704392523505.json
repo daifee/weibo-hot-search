@@ -1,0 +1,410 @@
+{
+  "runTime": 1704392523505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 282814,
+        "num": 282814,
+        "word": "广西北海地震",
+        "onboard_time": 1704379117,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205433,
+        "num": 205433,
+        "word": "网曝贵阳一马路上夜间多人爬行",
+        "onboard_time": 1704378876,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11021,
+        "num": 190845,
+        "word": "全国首个陆缆穿海工程",
+        "onboard_time": 1704371551,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183373,
+        "num": 183373,
+        "word": "哈尔滨惊现15元1个小土豆挂件",
+        "onboard_time": 1704373234,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 182389,
+        "num": 182389,
+        "word": "杭州姑娘一句想吃冻梨司机直接下车买",
+        "onboard_time": 1704384626,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163679,
+        "num": 163679,
+        "word": "外交部回应缅甸炮弹落入云南",
+        "onboard_time": 1704380560,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140538,
+        "num": 140538,
+        "word": "女子分享自己7旬爷爷老来得子",
+        "onboard_time": 1704378155,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134992,
+        "num": 134992,
+        "word": "繁花宝总全名叫什么",
+        "onboard_time": 1704378876,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112518,
+        "num": 112518,
+        "word": "头发别耳后显脸小方法",
+        "onboard_time": 1704385527,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 94279,
+        "num": 94279,
+        "word": "王安宇说世界上没有废片",
+        "onboard_time": 1704390859,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93592,
+        "num": 93592,
+        "word": "小时代5之鸣龙时代是吧",
+        "onboard_time": 1704379176,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86883,
+        "num": 86883,
+        "word": "裴珠泫开年中国首封",
+        "onboard_time": 1704388821,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69226,
+        "num": 69226,
+        "word": "玲子回归砸了夜东京",
+        "onboard_time": 1704370471,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54419,
+        "num": 54419,
+        "word": "老师 你怎么让我奶站过道里",
+        "onboard_time": 1704367953,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53582,
+        "num": 53582,
+        "word": "沈耀 精神弑父",
+        "onboard_time": 1704377499,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52479,
+        "num": 52479,
+        "word": "宝总送汪小姐凯迪拉克",
+        "onboard_time": 1704382773,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50833,
+        "num": 50833,
+        "word": "格力回应玫瑰空调被吐槽又土又贵",
+        "onboard_time": 1704364532,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50528,
+        "num": 50528,
+        "word": "繁花",
+        "onboard_time": 1704370772,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43272,
+        "num": 43272,
+        "word": "神隐大结局",
+        "onboard_time": 1704366092,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41907,
+        "num": 41907,
+        "word": "繁花里出现了18岁的马伊琍",
+        "onboard_time": 1704366990,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220694,
+        "num": 41855,
+        "word": "痞幼谈内衣照事件",
+        "onboard_time": 1704367953,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 65120,
+        "num": 41785,
+        "word": "女老总KTV楼下被男友用砖砸死",
+        "onboard_time": 1704368491,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61202,
+        "num": 41682,
+        "word": "女大学生跨年夜憋尿4小时进医院",
+        "onboard_time": 1704372692,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48690,
+        "num": 41615,
+        "word": "李明德演技",
+        "onboard_time": 1704377192,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41575,
+        "num": 41575,
+        "word": "萌兰到家政公司上班了",
+        "onboard_time": 1704383251,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47129,
+        "num": 41408,
+        "word": "痞幼谈明星和网红的区别",
+        "onboard_time": 1704386483,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 42485,
+        "num": 41351,
+        "word": "应采儿说袁咏仪是恶毒继母",
+        "onboard_time": 1704383312,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41188,
+        "num": 41188,
+        "word": "团队称红绿灯的黄学了1个月直播",
+        "onboard_time": 1704380501,
+        "rank": 27,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 37503,
+        "num": 37503,
+        "word": "评论罗伯特",
+        "onboard_time": 1704379659,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37221,
+        "num": 37221,
+        "word": "阿房宫出土一种杯子专门用来喝露水",
+        "onboard_time": 1704381814,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 33928,
+        "num": 33928,
+        "word": "中共中央政治局常务委员会召开会议",
+        "onboard_time": 1704374792,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33920,
+        "num": 33920,
+        "word": "AI成精了",
+        "onboard_time": 1704381938,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32896,
+        "num": 32896,
+        "word": "警方通报女子在家中被邻居抢劫杀害",
+        "onboard_time": 1704368073,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32828,
+        "num": 32828,
+        "word": "伊朗",
+        "onboard_time": 1704375756,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 32718,
+        "num": 32718,
+        "word": "偶遇萨摩耶和萨摩不耶",
+        "onboard_time": 1704375453,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32444,
+        "num": 32444,
+        "word": "龙年纪念币已炒到近千元一套",
+        "onboard_time": 1704381759,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32324,
+        "num": 32324,
+        "word": "沈耀承认了抑郁症",
+        "onboard_time": 1704368311,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30157,
+        "num": 30157,
+        "word": "易烊千玺破洞针织内搭",
+        "onboard_time": 1704372630,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29534,
+        "num": 29534,
+        "word": "日本震后失联人数增至179人",
+        "onboard_time": 1704374432,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 29522,
+        "num": 29522,
+        "word": "陈泽去了哈尔滨",
+        "onboard_time": 1704376594,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28735,
+        "num": 28735,
+        "word": "泰国女星夸赞王鹤棣很帅",
+        "onboard_time": 1704371369,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27121,
+        "num": 28734,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1704348450,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26952,
+        "num": 28731,
+        "word": "宋轶杜莎蜡像",
+        "onboard_time": 1704388161,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24917,
+        "num": 28730,
+        "word": "薛之谦服装品牌羽绒服不合格",
+        "onboard_time": 1704366451,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24255,
+        "num": 28728,
+        "word": "2024年总台春晚分会场发布",
+        "onboard_time": 1704371070,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24012,
+        "num": 28728,
+        "word": "吴宣仪 五福临门",
+        "onboard_time": 1704375633,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22009,
+        "num": 28727,
+        "word": "哈尔滨冰雪大世界让外国人实名羡慕",
+        "onboard_time": 1704372754,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 21570,
+        "num": 28725,
+        "word": "天蝎座永远心比嘴软",
+        "onboard_time": 1704369393,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20981,
+        "num": 28724,
+        "word": "2024KPL选秀大会",
+        "onboard_time": 1704392237,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20225,
+        "num": 28722,
+        "word": "凤隐再次永失所爱",
+        "onboard_time": 1704382893,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向伊朗总统致慰问电#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/31 00:21:53 ~ 2024/01/05 01:34:02
+本榜单时间：2023/12/31 00:21:53 ~ 2024/01/05 02:22:03
 </p>
 </blockquote>
 <p>
@@ -9777,6 +9777,12 @@ BLG战胜NIP（热度：98998）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E8%AF%B4%E4%B8%96%E7%95%8C%E4%B8%8A%E6%B2%A1%E6%9C%89%E5%BA%9F%E7%89%87%23" target="weibo">
+王安宇说世界上没有废片（热度：94279）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A3%B4%E7%8F%A0%E6%B3%AB%E5%BC%80%E5%B9%B4%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%B0%81%23" target="weibo">
 裴珠泫开年中国首封（热度：94011）
 </a>
@@ -10625,6 +10631,12 @@ cos的风还是吹到了霉霉大电影（热度：25338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E6%BB%A1%E5%BC%A6%E5%BC%80%E5%BC%93%E4%B8%80%E8%B5%B7%E8%BF%88%E5%87%BA%E6%96%B0%E6%AD%A5%E4%BC%90%23" target="weibo">
 新年满弦开弓一起迈出新步伐（热度：21714）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232024KPL%E9%80%89%E7%A7%80%E5%A4%A7%E4%BC%9A%23" target="weibo">
+2024KPL选秀大会（热度：20981）
 </a>
 </li>
 
