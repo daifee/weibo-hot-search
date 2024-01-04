@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704332186504,
+  "endTime": 1704335348847,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -971,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 938120,
+      "num": 938120,
+      "word": "繁花 没人相信自己要杀青了",
+      "onboard_time": 1704330628,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 934352,
       "num": 390929,
       "word": "日本地震已经造成至少2人受伤",
@@ -1008,6 +1016,14 @@
       "word": "为裁员西安某公司从CBD搬进秦岭山区",
       "onboard_time": 1704066266,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 918247,
+      "num": 918247,
+      "word": "我国中等收入人群已达4亿",
+      "onboard_time": 1704332249,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1835,14 +1851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 641308,
-      "num": 641308,
-      "word": "繁花 没人相信自己要杀青了",
-      "onboard_time": 1704330628,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 641097,
       "num": 641097,
       "word": "智性恋",
@@ -2299,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521472,
+      "num": 521472,
+      "word": "多多买菜本地生活业务已完全暂停",
+      "onboard_time": 1704333028,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520289,
       "num": 520289,
       "word": "日本地震已致至少73人死亡",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704177692,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 502107,
-      "num": 435150,
-      "word": "小土豆文学",
-      "onboard_time": 1704262050,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 502065,
-      "num": 502065,
-      "word": "林高远 多哈",
-      "onboard_time": 1704290614,
-      "rank": 19,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

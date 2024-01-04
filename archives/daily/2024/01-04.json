@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704332186504,
+  "endTime": 1704335348847,
   "band_list": [
     {
       "raw_hot": 1761298,
@@ -32,6 +32,22 @@
       "word": "龙年纪念币",
       "onboard_time": 1704291034,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 938120,
+      "num": 938120,
+      "word": "繁花 没人相信自己要杀青了",
+      "onboard_time": 1704330628,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 918247,
+      "num": 918247,
+      "word": "我国中等收入人群已达4亿",
+      "onboard_time": 1704332249,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -83,14 +99,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 641308,
-      "num": 641308,
-      "word": "繁花 没人相信自己要杀青了",
-      "onboard_time": 1704330628,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 591842,
       "num": 591842,
       "word": "民警多问一句竟发现2名被拐孩子",
@@ -139,11 +147,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521472,
+      "num": 521472,
+      "word": "多多买菜本地生活业务已完全暂停",
+      "onboard_time": 1704333028,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515887,
       "num": 515887,
       "word": "王家卫受害者联盟进新人了",
       "onboard_time": 1704326128,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 485967,
+      "num": 384303,
+      "word": "胡歌当初不想再演戏的原因",
+      "onboard_time": 1704334589,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -187,7 +211,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 409093,
+      "raw_hot": 431306,
       "num": 409093,
       "word": "南方小土豆这一称呼合适吗",
       "onboard_time": 1704328772,
@@ -219,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 379082,
+      "num": 379082,
+      "word": "孙怡新剧 谈了两种恋爱",
+      "onboard_time": 1704331532,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364551,
       "num": 221848,
       "word": "当老公发现了前男友写给我的情书",
@@ -243,6 +275,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 333852,
+      "num": 333852,
+      "word": "28岁后我当上村里老人共享孙女",
+      "onboard_time": 1704331769,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310220,
+      "num": 310220,
+      "word": "中新网评南方小土豆争议",
+      "onboard_time": 1704332128,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299336,
       "num": 299336,
       "word": "付豪被驱逐",
@@ -265,6 +313,22 @@
       "onboard_time": 1704326248,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283763,
+      "num": 283763,
+      "word": "武汉一教授被指偷拍几个G隐私视频",
+      "onboard_time": 1704333990,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282749,
+      "num": 282749,
+      "word": "2035年全国或有近200万教师过剩",
+      "onboard_time": 1704331769,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270732,
@@ -363,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237770,
+      "num": 237770,
+      "word": "刷完牙的那刻牙菌斑就开始累积",
+      "onboard_time": 1704334407,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 235728,
       "num": 235728,
       "word": "龙年纪念币钞预约火爆",
@@ -387,12 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215390,
-      "num": 215390,
-      "word": "28岁后我当上村里老人共享孙女",
-      "onboard_time": 1704331769,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 219782,
+      "num": 219782,
+      "word": "赖床30分钟有助改善身体疲惫",
+      "onboard_time": 1704330392,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 212951,
+      "num": 212951,
+      "word": "非诚勿扰3 票房",
+      "onboard_time": 1704332849,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 208170,
@@ -417,22 +497,6 @@
       "onboard_time": 1704326248,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192379,
-      "num": 192379,
-      "word": "赖床30分钟有助改善身体疲惫",
-      "onboard_time": 1704330392,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 190523,
-      "num": 190523,
-      "word": "孙怡新剧 谈了两种恋爱",
-      "onboard_time": 1704331532,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 190502,
@@ -499,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178566,
+      "num": 178566,
+      "word": "日本地震死亡升至78人",
+      "onboard_time": 1704332010,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177080,
       "num": 177080,
       "word": "爱宝双胞胎女儿将正式与公众见面",
@@ -539,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170987,
-      "num": 170987,
-      "word": "2035年全国或有近200万教师过剩",
-      "onboard_time": 1704331769,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170177,
       "num": 170177,
       "word": "当东北金渐层被叫咪咪",
@@ -563,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167838,
+      "num": 167838,
+      "word": "爸妈假装大人的一些证据",
+      "onboard_time": 1704334708,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166853,
       "num": 166853,
       "word": "胡歌挨巴掌戏份花絮",
@@ -571,12 +643,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165813,
+      "num": 165813,
+      "word": "谢娜脚受伤发炎",
+      "onboard_time": 1704332551,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157337,
+      "num": 157337,
+      "word": "多家银行APP无法预约纪念币",
+      "onboard_time": 1704333328,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156871,
       "num": 156871,
       "word": "哈尔滨旅游",
       "onboard_time": 1704329194,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 155892,
+      "num": 155892,
+      "word": "视力不好的人眼中的世界",
+      "onboard_time": 1704334407,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 155123,
@@ -611,14 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144121,
-      "num": 144121,
-      "word": "日本地震死亡升至78人",
-      "onboard_time": 1704332010,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141620,
       "num": 141620,
       "word": "午休时间男孩用课本表演变脸",
@@ -651,12 +739,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132900,
-      "num": 132900,
-      "word": "中新网评南方小土豆争议",
-      "onboard_time": 1704332128,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 136472,
+      "num": 136472,
+      "word": "82岁TVB老戏骨左眼失明",
+      "onboard_time": 1704333448,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 131451,
@@ -681,6 +769,22 @@
       "onboard_time": 1704295115,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 124960,
+      "num": 124960,
+      "word": "伊朗总统誓言报复以色列",
+      "onboard_time": 1704335248,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 123475,
+      "num": 123475,
+      "word": "四川大熊猫雪地里走路烫脚",
+      "onboard_time": 1704333210,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118114,
@@ -721,6 +825,14 @@
       "onboard_time": 1704292055,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108835,
+      "num": 108835,
+      "word": "你好种地少年收官",
+      "onboard_time": 1704335188,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 108343,
