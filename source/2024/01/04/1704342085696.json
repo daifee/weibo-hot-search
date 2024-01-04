@@ -1,0 +1,410 @@
+{
+  "runTime": 1704342085696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2224566,
+        "num": 2224566,
+        "word": "今年要办奥运会了",
+        "onboard_time": 1704336449,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1475149,
+        "num": 1475149,
+        "word": "余额低于100元不能提现属霸王条款",
+        "onboard_time": 1704338491,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26556,
+        "num": 1430840,
+        "word": "南北文旅开门红释放中国消费活力",
+        "onboard_time": 1704341675,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1404555,
+        "num": 1404555,
+        "word": "胡歌当初不想再演戏的原因",
+        "onboard_time": 1704334589,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1099080,
+        "num": 1099080,
+        "word": "高圆圆爸爸强迫赵又廷听京剧",
+        "onboard_time": 1704340475,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 902233,
+        "num": 902233,
+        "word": "沪上阿姨 魔道祖师",
+        "onboard_time": 1704338371,
+        "rank": 5,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 818080,
+        "num": 818080,
+        "word": "于正新剧女演员 换人",
+        "onboard_time": 1704339570,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 797497,
+        "num": 797497,
+        "word": "11个砂糖橘外套是家长选的",
+        "onboard_time": 1704328113,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719054,
+        "num": 719054,
+        "word": "18岁才知道饺子可以不是猪肉馅的",
+        "onboard_time": 1704338971,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 712232,
+        "num": 712232,
+        "word": "免费拉游客的劳斯莱斯车主找到了",
+        "onboard_time": 1704340173,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586839,
+        "num": 586839,
+        "word": "我国中等收入人群已达4亿",
+        "onboard_time": 1704332249,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531068,
+        "num": 531068,
+        "word": "小杨哥徒弟红绿灯的黄再次复播",
+        "onboard_time": 1704329970,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 463015,
+        "num": 463015,
+        "word": "繁花 没人相信自己要杀青了",
+        "onboard_time": 1704330628,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449956,
+        "num": 449956,
+        "word": "支付宝再战社交",
+        "onboard_time": 1704336689,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 427020,
+        "num": 427020,
+        "word": "伊朗总统誓言报复以色列",
+        "onboard_time": 1704335248,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 402043,
+        "num": 402043,
+        "word": "哈尔滨为小土豆连夜撤下破旧公交牌",
+        "onboard_time": 1704299007,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385837,
+        "num": 385837,
+        "word": "王珂参加创造营亚洲",
+        "onboard_time": 1704338670,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366845,
+        "num": 366845,
+        "word": "人民网评鸣龙少年",
+        "onboard_time": 1704340051,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39061,
+        "num": 365944,
+        "word": "荣耀Magic6动动嘴就能剪视频",
+        "onboard_time": 1704340773,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 365551,
+        "num": 365551,
+        "word": "巴黎2024年首冠",
+        "onboard_time": 1704336568,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 557290,
+        "num": 365408,
+        "word": "员工连休37天事假被公司开除",
+        "onboard_time": 1704340890,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363542,
+        "num": 363542,
+        "word": "纪念币 外挂",
+        "onboard_time": 1704335668,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323459,
+        "num": 323459,
+        "word": "脸上出现5个症状暗示肝不好",
+        "onboard_time": 1704324805,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 323265,
+        "num": 323265,
+        "word": "张雪峰公司储备员工半年工资",
+        "onboard_time": 1704338910,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291855,
+        "num": 291855,
+        "word": "范湉湉繁花演技",
+        "onboard_time": 1704324805,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275348,
+        "num": 275348,
+        "word": "郑业成祝绪丹 镜花缘",
+        "onboard_time": 1704341735,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255563,
+        "num": 255563,
+        "word": "名字因姓而惊艳",
+        "onboard_time": 1704340653,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252633,
+        "num": 252633,
+        "word": "林允儿续约",
+        "onboard_time": 1704335609,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250383,
+        "num": 250383,
+        "word": "因为李宇春才有的跨年演唱会",
+        "onboard_time": 1704336209,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174864,
+        "num": 246691,
+        "word": "中新网评南方小土豆争议",
+        "onboard_time": 1704332128,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244820,
+        "num": 244820,
+        "word": "多多买菜本地生活业务已完全暂停",
+        "onboard_time": 1704333028,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244789,
+        "num": 244789,
+        "word": "李现学周杰伦开嗓",
+        "onboard_time": 1704340353,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240154,
+        "num": 240154,
+        "word": "王皓表情",
+        "onboard_time": 1704337048,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217220,
+        "num": 217220,
+        "word": "王家卫受害者联盟进新人了",
+        "onboard_time": 1704326128,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199332,
+        "num": 199332,
+        "word": "孙怡新剧 谈了两种恋爱",
+        "onboard_time": 1704331532,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198536,
+        "num": 198536,
+        "word": "农业银行 系统",
+        "onboard_time": 1704326368,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190482,
+        "num": 190482,
+        "word": "郑恺繁花人设",
+        "onboard_time": 1704340291,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190418,
+        "num": 190418,
+        "word": "你也有今天开播",
+        "onboard_time": 1704341195,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186106,
+        "num": 186106,
+        "word": "A股",
+        "onboard_time": 1704337048,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183471,
+        "num": 183471,
+        "word": "武汉一教授被指偷拍几个G隐私视频",
+        "onboard_time": 1704333990,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165926,
+        "num": 165926,
+        "word": "联系不到i人",
+        "onboard_time": 1704336990,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164949,
+        "num": 164949,
+        "word": "2035年全国或有近200万教师过剩",
+        "onboard_time": 1704331769,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155613,
+        "num": 155613,
+        "word": "东北的冰糖大蒜都卖给谁了",
+        "onboard_time": 1704339992,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 63054,
+        "num": 154845,
+        "word": "神舟家族将太空家园建设得越来越好",
+        "onboard_time": 1704341312,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154655,
+        "num": 154655,
+        "word": "小土豆见尔滨消防员执勤疯狂打卡",
+        "onboard_time": 1704341916,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152800,
+        "num": 152800,
+        "word": "伊朗修正爆炸死亡人数至95人",
+        "onboard_time": 1704331411,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152757,
+        "num": 152757,
+        "word": "捡到了甄嬛的手机",
+        "onboard_time": 1704337048,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145159,
+        "num": 145159,
+        "word": "还以为伏地魔复活了",
+        "onboard_time": 1704338670,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144513,
+        "num": 144513,
+        "word": "民警爸爸登台儿子却哭喊着不要爸爸",
+        "onboard_time": 1704339933,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141894,
+        "num": 141894,
+        "word": "哈尔滨冰雪大世界遇上汉服一眼万年",
+        "onboard_time": 1704339692,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}
