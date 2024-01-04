@@ -1,0 +1,410 @@
+{
+  "runTime": 1704357312578,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1687045,
+        "num": 1687045,
+        "word": "哈佛大学校长 抄袭",
+        "onboard_time": 1704355413,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 931674,
+        "num": 931674,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1704348450,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71765,
+        "num": 888537,
+        "word": "陆军2024开训大片有多硬核",
+        "onboard_time": 1704355952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1133894,
+        "num": 887705,
+        "word": "暖阳分手",
+        "onboard_time": 1704352710,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 884630,
+        "num": 884630,
+        "word": "我国电视开机率跌至30%",
+        "onboard_time": 1704355594,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738052,
+        "num": 738052,
+        "word": "昆凌最强大脑",
+        "onboard_time": 1704342997,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472305,
+        "num": 472305,
+        "word": "冰雪节哈尔滨放假1天",
+        "onboard_time": 1704354873,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451300,
+        "num": 451300,
+        "word": "唐嫣为拍繁花三年没接其他戏",
+        "onboard_time": 1704344076,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368675,
+        "num": 368675,
+        "word": "余额低于100元不能提现属霸王条款",
+        "onboard_time": 1704338491,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620775,
+        "num": 368505,
+        "word": "李在明左侧颈内静脉60%被切断",
+        "onboard_time": 1704343776,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 568469,
+        "num": 365282,
+        "word": "王安宇好像偷了赵昭仪的帽子",
+        "onboard_time": 1704356073,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492434,
+        "num": 363106,
+        "word": "什么时候结婚证成打人证了",
+        "onboard_time": 1704342575,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467187,
+        "num": 361491,
+        "word": "小杨哥回应不陪小黄复播",
+        "onboard_time": 1704345392,
+        "rank": 12,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 460895,
+        "num": 360427,
+        "word": "多部门介入郝劭文女儿被校园霸凌",
+        "onboard_time": 1704355952,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 403708,
+        "num": 358318,
+        "word": "胡歌当初不想再演戏的原因",
+        "onboard_time": 1704334589,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398346,
+        "num": 355868,
+        "word": "洪欣儿子",
+        "onboard_time": 1704342457,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389994,
+        "num": 354744,
+        "word": "女子疑未给20万分手费被男友砸死",
+        "onboard_time": 1704355772,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352833,
+        "num": 352833,
+        "word": "哈尔滨金凤凰是从沈阳借的",
+        "onboard_time": 1704355353,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 320968,
+        "num": 320968,
+        "word": "难怪重庆瘦人多",
+        "onboard_time": 1704348154,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311529,
+        "num": 311529,
+        "word": "微博之夜去年出圈造型",
+        "onboard_time": 1704355052,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322516,
+        "num": 310894,
+        "word": "韩国人已经开始卷脖围了",
+        "onboard_time": 1704344016,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310240,
+        "num": 310240,
+        "word": "这个睡眠习惯可能让你提前衰老",
+        "onboard_time": 1704352352,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281844,
+        "num": 281844,
+        "word": "东北小哥卖糕点前100斤卖糕点后160斤",
+        "onboard_time": 1704348154,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260502,
+        "num": 260502,
+        "word": "花少有自己的天天",
+        "onboard_time": 1704356492,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251078,
+        "num": 251078,
+        "word": "免费拉游客的劳斯莱斯车主找到了",
+        "onboard_time": 1704340173,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250031,
+        "num": 250031,
+        "word": "月薪多少才属于中等收入群体",
+        "onboard_time": 1704344196,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217474,
+        "num": 217474,
+        "word": "沈阳回应哈尔滨借金凤凰",
+        "onboard_time": 1704356614,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 202300,
+        "num": 202300,
+        "word": "于正新剧女演员 换人",
+        "onboard_time": 1704339570,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201913,
+        "num": 201913,
+        "word": "女子出差35天加班71小时后生病猝死",
+        "onboard_time": 1704345392,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188152,
+        "num": 188152,
+        "word": "宋亚轩请汪苏泷周深上桌",
+        "onboard_time": 1704355594,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217060,
+        "num": 186821,
+        "word": "沪上阿姨 魔道祖师",
+        "onboard_time": 1704338371,
+        "rank": 30,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 193817,
+        "num": 186769,
+        "word": "秦岚 胡先煦可以嫁出去了",
+        "onboard_time": 1704356851,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183664,
+        "num": 183664,
+        "word": "罗翔 得百大如履薄冰",
+        "onboard_time": 1704356373,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 179689,
+        "num": 179689,
+        "word": "员工连休37天事假被公司开除",
+        "onboard_time": 1704340890,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171272,
+        "num": 171272,
+        "word": "高圆圆爸爸强迫赵又廷听京剧",
+        "onboard_time": 1704340475,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170797,
+        "num": 170797,
+        "word": "百岁太奶奶给曾孙女戴上婚戒",
+        "onboard_time": 1704356373,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 163471,
+        "num": 163471,
+        "word": "繁花豆瓣评分8.1",
+        "onboard_time": 1704345333,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163344,
+        "num": 163344,
+        "word": "砂糖橘东北游学费用每人预算5千",
+        "onboard_time": 1704357034,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 152760,
+        "num": 152760,
+        "word": "今年要办奥运会了",
+        "onboard_time": 1704336449,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146242,
+        "num": 146242,
+        "word": "发缝大的猫",
+        "onboard_time": 1704349110,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142579,
+        "num": 142579,
+        "word": "11个砂糖橘外套是家长选的",
+        "onboard_time": 1704328113,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140403,
+        "num": 140403,
+        "word": "繁花 没人相信自己要杀青了",
+        "onboard_time": 1704330628,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134548,
+        "num": 134548,
+        "word": "外交部回应中国留学生被美方强制遣返",
+        "onboard_time": 1704357092,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132394,
+        "num": 132394,
+        "word": "财政部部长重磅发声",
+        "onboard_time": 1704348032,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127222,
+        "num": 127222,
+        "word": "18岁才知道饺子可以不是猪肉馅的",
+        "onboard_time": 1704338971,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121352,
+        "num": 121352,
+        "word": "男子开工厂给41位残疾人发offer",
+        "onboard_time": 1704356735,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120872,
+        "num": 120872,
+        "word": "杨幂银河星空套装",
+        "onboard_time": 1704351271,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120832,
+        "num": 120832,
+        "word": "尹净汉道枝骏佑 双人杂志",
+        "onboard_time": 1704348991,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118321,
+        "num": 118321,
+        "word": "中国驻伊朗大使馆发布安全提醒",
+        "onboard_time": 1704352951,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599693,
+        "num": 118148,
+        "word": "小土豆 童年缺失",
+        "onboard_time": 1704349469,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}
