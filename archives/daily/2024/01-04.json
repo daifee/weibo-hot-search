@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704342085696,
+  "endTime": 1704342923880,
   "band_list": [
     {
       "raw_hot": 2224566,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1475149,
-      "num": 1475149,
+      "raw_hot": 1666986,
+      "num": 1666986,
       "word": "余额低于100元不能提现属霸王条款",
       "onboard_time": 1704338491,
       "rank": 18,
@@ -51,8 +51,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1099080,
-      "num": 1099080,
+      "raw_hot": 1144184,
+      "num": 1144184,
       "word": "高圆圆爸爸强迫赵又廷听京剧",
       "onboard_time": 1704340475,
       "rank": 4,
@@ -83,8 +83,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 902233,
-      "num": 902233,
+      "raw_hot": 904477,
+      "num": 904477,
       "word": "沪上阿姨 魔道祖师",
       "onboard_time": 1704338371,
       "rank": 8,
@@ -99,12 +99,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 818080,
-      "num": 818080,
+      "raw_hot": 846190,
+      "num": 846190,
       "word": "于正新剧女演员 换人",
       "onboard_time": 1704339570,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 789857,
+      "num": 789857,
+      "word": "免费拉游客的劳斯莱斯车主找到了",
+      "onboard_time": 1704340173,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 783272,
+      "num": 783272,
+      "word": "18岁才知道饺子可以不是猪肉馅的",
+      "onboard_time": 1704338971,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 757202,
@@ -121,22 +137,6 @@
       "onboard_time": 1704331411,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 719054,
-      "num": 719054,
-      "word": "18岁才知道饺子可以不是猪肉馅的",
-      "onboard_time": 1704338971,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 712232,
-      "num": 712232,
-      "word": "免费拉游客的劳斯莱斯车主找到了",
-      "onboard_time": 1704340173,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 703148,
@@ -163,12 +163,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 678289,
+      "num": 365408,
+      "word": "员工连休37天事假被公司开除",
+      "onboard_time": 1704340890,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650632,
       "num": 650632,
       "word": "伊朗总统誓言报复以色列",
       "onboard_time": 1704335248,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 643908,
+      "num": 643908,
+      "word": "郑业成祝绪丹 镜花缘",
+      "onboard_time": 1704341735,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 612964,
@@ -203,20 +219,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 557290,
-      "num": 365408,
-      "word": "员工连休37天事假被公司开除",
-      "onboard_time": 1704340890,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 556594,
       "num": 556594,
       "word": "南京地铁",
       "onboard_time": 1704328834,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556132,
+      "num": 556132,
+      "word": "洪欣儿子",
+      "onboard_time": 1704342457,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 554321,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419915,
+      "num": 419915,
+      "word": "人民网评鸣龙少年",
+      "onboard_time": 1704340051,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401037,
       "num": 401037,
       "word": "王家卫在片场让马伊琍不要低头",
@@ -371,14 +395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 366845,
-      "num": 366845,
-      "word": "人民网评鸣龙少年",
-      "onboard_time": 1704340051,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 365551,
       "num": 365551,
       "word": "巴黎2024年首冠",
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358264,
+      "num": 358264,
+      "word": "张雪峰公司储备员工半年工资",
+      "onboard_time": 1704338910,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349642,
       "num": 349642,
       "word": "甜馨neinei十年后同框",
@@ -424,14 +448,6 @@
       "word": "28岁后我当上村里老人共享孙女",
       "onboard_time": 1704331769,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323265,
-      "num": 323265,
-      "word": "张雪峰公司储备员工半年工资",
-      "onboard_time": 1704338910,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -483,20 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275348,
-      "num": 275348,
-      "word": "郑业成祝绪丹 镜花缘",
-      "onboard_time": 1704341735,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270732,
       "num": 270732,
       "word": "河南一被弃养男婴遭姥姥拒收",
       "onboard_time": 1704324082,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270209,
+      "num": 270209,
+      "word": "名字因姓而惊艳",
+      "onboard_time": 1704340653,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 268255,
@@ -529,14 +545,6 @@
       "onboard_time": 1704334407,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 255563,
-      "num": 255563,
-      "word": "名字因姓而惊艳",
-      "onboard_time": 1704340653,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 250743,
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227277,
+      "num": 227277,
+      "word": "什么时候结婚证成打人证了",
+      "onboard_time": 1704342575,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224326,
       "num": 224326,
       "word": "他在冰窟中托举孩子直到生命最后一刻",
@@ -691,6 +707,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 204358,
+      "num": 204358,
+      "word": "胡歌挨巴掌戏份花絮",
+      "onboard_time": 1704326548,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203683,
+      "num": 203683,
+      "word": "小土豆见尔滨消防员执勤疯狂打卡",
+      "onboard_time": 1704341916,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202944,
       "num": 202944,
       "word": "一场雾凇让哈尔滨大雪人卡粉了",
@@ -713,6 +745,14 @@
       "onboard_time": 1704334708,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194908,
+      "num": 194908,
+      "word": "好丽友蛋黄派被检出金黄色葡萄球菌",
+      "onboard_time": 1704342633,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 190502,
@@ -835,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175066,
+      "num": 175066,
+      "word": "哈尔滨后劲太大了",
+      "onboard_time": 1704342215,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 174208,
       "num": 174208,
       "word": "高校严控重复设置过热专业",
@@ -891,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166853,
-      "num": 166853,
-      "word": "胡歌挨巴掌戏份花絮",
-      "onboard_time": 1704326548,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165813,
       "num": 165813,
       "word": "谢娜脚受伤发炎",
@@ -947,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154655,
-      "num": 154655,
-      "word": "小土豆见尔滨消防员执勤疯狂打卡",
-      "onboard_time": 1704341916,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154549,
       "num": 154549,
       "word": "小学六年级和大一新生只差六年",
@@ -977,6 +1009,14 @@
       "onboard_time": 1704325825,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152635,
+      "num": 152635,
+      "word": "多多买菜其余项目仍正常运营",
+      "onboard_time": 1704342457,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 151615,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1704269370,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138462,
+      "num": 138462,
+      "word": "原生感中式妆",
+      "onboard_time": 1704342155,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 138193,
@@ -1251,6 +1299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74876,
+      "num": 1430840,
+      "word": "南北文旅开门红释放中国消费活力",
+      "onboard_time": 1704341675,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70949,
       "num": 70949,
       "word": "萌兰给自己做了一捆大牙签子",
@@ -1348,7 +1404,7 @@
     },
     {
       "raw_hot": 39061,
-      "num": 365944,
+      "num": 559617,
       "word": "荣耀Magic6动动嘴就能剪视频",
       "onboard_time": 1704340773,
       "rank": 18,
@@ -1361,14 +1417,6 @@
       "onboard_time": 1704303499,
       "rank": 31,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 26556,
-      "num": 1430840,
-      "word": "南北文旅开门红释放中国消费活力",
-      "onboard_time": 1704341675,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19298,

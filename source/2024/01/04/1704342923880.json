@@ -1,0 +1,410 @@
+{
+  "runTime": 1704342923880,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1914472,
+        "num": 1914472,
+        "word": "今年要办奥运会了",
+        "onboard_time": 1704336449,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1666986,
+        "num": 1666986,
+        "word": "余额低于100元不能提现属霸王条款",
+        "onboard_time": 1704338491,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74876,
+        "num": 1398259,
+        "word": "南北文旅开门红释放中国消费活力",
+        "onboard_time": 1704341675,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1236744,
+        "num": 1236744,
+        "word": "胡歌当初不想再演戏的原因",
+        "onboard_time": 1704334589,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1144184,
+        "num": 1144184,
+        "word": "高圆圆爸爸强迫赵又廷听京剧",
+        "onboard_time": 1704340475,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 904477,
+        "num": 904477,
+        "word": "沪上阿姨 魔道祖师",
+        "onboard_time": 1704338371,
+        "rank": 5,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 846190,
+        "num": 846190,
+        "word": "于正新剧女演员 换人",
+        "onboard_time": 1704339570,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 789857,
+        "num": 789857,
+        "word": "免费拉游客的劳斯莱斯车主找到了",
+        "onboard_time": 1704340173,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783272,
+        "num": 783272,
+        "word": "18岁才知道饺子可以不是猪肉馅的",
+        "onboard_time": 1704338971,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 762059,
+        "num": 762059,
+        "word": "11个砂糖橘外套是家长选的",
+        "onboard_time": 1704328113,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643908,
+        "num": 643908,
+        "word": "郑业成祝绪丹 镜花缘",
+        "onboard_time": 1704341735,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 566878,
+        "num": 566878,
+        "word": "我国中等收入人群已达4亿",
+        "onboard_time": 1704332249,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28946,
+        "num": 559617,
+        "word": "荣耀Magic6动动嘴就能剪视频",
+        "onboard_time": 1704340773,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 556132,
+        "num": 556132,
+        "word": "洪欣儿子",
+        "onboard_time": 1704342457,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522681,
+        "num": 522681,
+        "word": "繁花 没人相信自己要杀青了",
+        "onboard_time": 1704330628,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516857,
+        "num": 516857,
+        "word": "小杨哥徒弟红绿灯的黄再次复播",
+        "onboard_time": 1704329970,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 441587,
+        "num": 441587,
+        "word": "哈尔滨为小土豆连夜撤下破旧公交牌",
+        "onboard_time": 1704299007,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419915,
+        "num": 419915,
+        "word": "人民网评鸣龙少年",
+        "onboard_time": 1704340051,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370193,
+        "num": 370193,
+        "word": "伊朗总统誓言报复以色列",
+        "onboard_time": 1704335248,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 364542,
+        "num": 364542,
+        "word": "支付宝再战社交",
+        "onboard_time": 1704336689,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 678289,
+        "num": 362545,
+        "word": "员工连休37天事假被公司开除",
+        "onboard_time": 1704340890,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358264,
+        "num": 358264,
+        "word": "张雪峰公司储备员工半年工资",
+        "onboard_time": 1704338910,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356425,
+        "num": 356425,
+        "word": "纪念币 外挂",
+        "onboard_time": 1704335668,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337594,
+        "num": 337594,
+        "word": "范湉湉繁花演技",
+        "onboard_time": 1704324805,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312782,
+        "num": 312782,
+        "word": "脸上出现5个症状暗示肝不好",
+        "onboard_time": 1704324805,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 305303,
+        "num": 305303,
+        "word": "巴黎2024年首冠",
+        "onboard_time": 1704336568,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270209,
+        "num": 270209,
+        "word": "名字因姓而惊艳",
+        "onboard_time": 1704340653,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241422,
+        "num": 241422,
+        "word": "王家卫受害者联盟进新人了",
+        "onboard_time": 1704326128,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231798,
+        "num": 231798,
+        "word": "多多买菜本地生活业务已完全暂停",
+        "onboard_time": 1704333028,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172399,
+        "num": 231103,
+        "word": "中新网评南方小土豆争议",
+        "onboard_time": 1704332128,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230468,
+        "num": 230468,
+        "word": "农业银行 系统",
+        "onboard_time": 1704326368,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227277,
+        "num": 227277,
+        "word": "什么时候结婚证成打人证了",
+        "onboard_time": 1704342575,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226987,
+        "num": 226987,
+        "word": "林允儿续约",
+        "onboard_time": 1704335609,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218065,
+        "num": 218065,
+        "word": "李现学周杰伦开嗓",
+        "onboard_time": 1704340353,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204358,
+        "num": 204358,
+        "word": "胡歌挨巴掌戏份花絮",
+        "onboard_time": 1704326548,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203683,
+        "num": 203683,
+        "word": "小土豆见尔滨消防员执勤疯狂打卡",
+        "onboard_time": 1704341916,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199921,
+        "num": 199921,
+        "word": "王皓表情",
+        "onboard_time": 1704337048,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194908,
+        "num": 194908,
+        "word": "好丽友蛋黄派被检出金黄色葡萄球菌",
+        "onboard_time": 1704342633,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181761,
+        "num": 181761,
+        "word": "武汉一教授被指偷拍几个G隐私视频",
+        "onboard_time": 1704333990,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178912,
+        "num": 178912,
+        "word": "因为李宇春才有的跨年演唱会",
+        "onboard_time": 1704336209,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175375,
+        "num": 175375,
+        "word": "王珂参加创造营亚洲",
+        "onboard_time": 1704338670,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175066,
+        "num": 175066,
+        "word": "哈尔滨后劲太大了",
+        "onboard_time": 1704342215,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 168638,
+        "num": 168638,
+        "word": "A股",
+        "onboard_time": 1704337048,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166987,
+        "num": 166987,
+        "word": "联系不到i人",
+        "onboard_time": 1704336990,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163532,
+        "num": 163532,
+        "word": "孙怡新剧 谈了两种恋爱",
+        "onboard_time": 1704331532,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159872,
+        "num": 159872,
+        "word": "伊朗修正爆炸死亡人数至95人",
+        "onboard_time": 1704331411,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152635,
+        "num": 152635,
+        "word": "多多买菜其余项目仍正常运营",
+        "onboard_time": 1704342457,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149839,
+        "num": 149839,
+        "word": "东北的冰糖大蒜都卖给谁了",
+        "onboard_time": 1704339992,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138462,
+        "num": 138462,
+        "word": "原生感中式妆",
+        "onboard_time": 1704342155,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 138383,
+        "num": 138383,
+        "word": "2035年全国或有近200万教师过剩",
+        "onboard_time": 1704331769,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}

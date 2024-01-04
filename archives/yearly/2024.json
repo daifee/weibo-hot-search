@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704342085696,
+  "endTime": 1704342923880,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1666986,
+      "num": 1666986,
+      "word": "余额低于100元不能提现属霸王条款",
+      "onboard_time": 1704338491,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1661700,
       "num": 1661700,
       "word": "董事长发的红包被我一个人领了",
@@ -417,14 +425,6 @@
       "onboard_time": 1704244469,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1475149,
-      "num": 1475149,
-      "word": "余额低于100元不能提现属霸王条款",
-      "onboard_time": 1704338491,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1464481,
@@ -723,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1144184,
+      "num": 1144184,
+      "word": "高圆圆爸爸强迫赵又廷听京剧",
+      "onboard_time": 1704340475,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1134720,
       "num": 853106,
       "word": "甜馨neinei十年后同框",
@@ -777,14 +785,6 @@
       "onboard_time": 1704258870,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1099080,
-      "num": 1099080,
-      "word": "高圆圆爸爸强迫赵又廷听京剧",
-      "onboard_time": 1704340475,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1093079,
@@ -1067,20 +1067,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 904477,
+      "num": 904477,
+      "word": "沪上阿姨 魔道祖师",
+      "onboard_time": 1704338371,
+      "rank": 8,
+      "category": "美食,动漫"
+    },
+    {
       "raw_hot": 904335,
       "num": 904335,
       "word": "新街口全是人",
       "onboard_time": 1704042941,
       "rank": 14,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 902233,
-      "num": 902233,
-      "word": "沪上阿姨 魔道祖师",
-      "onboard_time": 1704338371,
-      "rank": 8,
-      "category": "美食,动漫"
     },
     {
       "raw_hot": 901947,
@@ -1179,6 +1179,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 846190,
+      "num": 846190,
+      "word": "于正新剧女演员 换人",
+      "onboard_time": 1704339570,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 837056,
       "num": 837056,
       "word": "秦岚泳衣外穿",
@@ -1249,14 +1257,6 @@
       "onboard_time": 1704284612,
       "rank": 17,
       "category": "社会新闻,剧集"
-    },
-    {
-      "raw_hot": 818080,
-      "num": 818080,
-      "word": "于正新剧女演员 换人",
-      "onboard_time": 1704339570,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 815025,
@@ -1339,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 789857,
+      "num": 789857,
+      "word": "免费拉游客的劳斯莱斯车主找到了",
+      "onboard_time": 1704340173,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 789511,
       "num": 499950,
       "word": "日本地震已造成至少24人死亡",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1704207095,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 783272,
+      "num": 783272,
+      "word": "18岁才知道饺子可以不是猪肉馅的",
+      "onboard_time": 1704338971,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 780131,
@@ -1563,14 +1579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 719054,
-      "num": 719054,
-      "word": "18岁才知道饺子可以不是猪肉馅的",
-      "onboard_time": 1704338971,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 718938,
       "num": 718938,
       "word": "龙年纪念钞预约",
@@ -1601,14 +1609,6 @@
       "onboard_time": 1704176912,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 712232,
-      "num": 712232,
-      "word": "免费拉游客的劳斯莱斯车主找到了",
-      "onboard_time": 1704340173,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 710370,
@@ -1763,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 678289,
+      "num": 365408,
+      "word": "员工连休37天事假被公司开除",
+      "onboard_time": 1704340890,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 676237,
       "num": 436317,
       "word": "日本地震死亡人数再上升",
@@ -1913,6 +1921,14 @@
       "onboard_time": 1704106238,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 643908,
+      "num": 643908,
+      "word": "郑业成祝绪丹 镜花缘",
+      "onboard_time": 1704341735,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 642623,
@@ -2195,14 +2211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 557290,
-      "num": 365408,
-      "word": "员工连休37天事假被公司开除",
-      "onboard_time": 1704340890,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 556630,
       "num": 556630,
       "word": "李宇春",
@@ -2217,6 +2225,14 @@
       "onboard_time": 1704328834,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556132,
+      "num": 556132,
+      "word": "洪欣儿子",
+      "onboard_time": 1704342457,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 556010,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704180696,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 523548,
-      "num": 523548,
-      "word": "李在明遇袭时身边有50多名警察",
-      "onboard_time": 1704181177,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 523408,
-      "num": 523408,
-      "word": "冻梨咖啡",
-      "onboard_time": 1704256714,
-      "rank": 9,
-      "category": "美食"
     }
   ],
   "hotgov_list": [
