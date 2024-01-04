@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704386363641,
+  "endTime": 1704388565530,
   "band_list": [
     {
       "raw_hot": 1723494,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472498,
+      "num": 472498,
+      "word": "杭州姑娘一句想吃冻梨司机直接下车买",
+      "onboard_time": 1704384626,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395035,
       "num": 395035,
       "word": "宝总送汪小姐凯迪拉克",
       "onboard_time": 1704382773,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 364047,
-      "num": 364047,
-      "word": "杭州姑娘一句想吃冻梨司机直接下车买",
-      "onboard_time": 1704384626,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335448,
@@ -105,6 +105,14 @@
       "onboard_time": 1704383251,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260642,
+      "num": 260642,
+      "word": "头发别耳后显脸小方法",
+      "onboard_time": 1704385527,
+      "rank": 29,
+      "category": "美妆"
     },
     {
       "raw_hot": 249853,
@@ -243,20 +251,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 105070,
-      "num": 105070,
-      "word": "头发别耳后显脸小方法",
-      "onboard_time": 1704385527,
-      "rank": 29,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 104585,
       "num": 104585,
       "word": "中共中央政治局常务委员会召开会议",
       "onboard_time": 1704374792,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97917,
+      "num": 86182,
+      "word": "痞幼谈明星和网红的区别",
+      "onboard_time": 1704386483,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 95437,
@@ -371,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75109,
+      "num": 75109,
+      "word": "王晶评价繁花",
+      "onboard_time": 1704374314,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73778,
       "num": 82140,
       "word": "超机智青年大会 窒息7分钟",
@@ -403,7 +419,15 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 9182,
+      "raw_hot": 44170,
+      "num": 44170,
+      "word": "宋轶杜莎蜡像",
+      "onboard_time": 1704388161,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15007,
       "num": 739529,
       "word": "全国首个陆缆穿海工程",
       "onboard_time": 1704371551,

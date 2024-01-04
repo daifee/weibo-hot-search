@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704386363641,
+  "endTime": 1704388565530,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -3227,6 +3227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 472498,
+      "num": 472498,
+      "word": "杭州姑娘一句想吃冻梨司机直接下车买",
+      "onboard_time": 1704384626,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471645,
       "num": 471645,
       "word": "农行纪念币",
@@ -4001,14 +4009,6 @@
       "onboard_time": 1704156036,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364047,
-      "num": 364047,
-      "word": "杭州姑娘一句想吃冻梨司机直接下车买",
-      "onboard_time": 1704384626,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363846,
@@ -5273,6 +5273,14 @@
       "onboard_time": 1704358953,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 260642,
+      "num": 260642,
+      "word": "头发别耳后显脸小方法",
+      "onboard_time": 1704385527,
+      "rank": 29,
+      "category": "美妆"
     },
     {
       "raw_hot": 260502,
@@ -10139,14 +10147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105070,
-      "num": 105070,
-      "word": "头发别耳后显脸小方法",
-      "onboard_time": 1704385527,
-      "rank": 29,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 105031,
       "num": 202749,
       "word": "深圳一步一个瑶妹",
@@ -10209,6 +10209,14 @@
       "onboard_time": 1704282452,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97917,
+      "num": 86182,
+      "word": "痞幼谈明星和网红的区别",
+      "onboard_time": 1704386483,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 97522,
@@ -10843,6 +10851,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 44170,
+      "num": 44170,
+      "word": "宋轶杜莎蜡像",
+      "onboard_time": 1704388161,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 43627,
       "num": 43627,
       "word": "意大利杯",
@@ -11115,6 +11131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 15007,
+      "num": 739529,
+      "word": "全国首个陆缆穿海工程",
+      "onboard_time": 1704371551,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14562,
       "num": 19443,
       "word": "脱轨结局he",
@@ -11209,14 +11233,6 @@
       "onboard_time": 1704313034,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 9182,
-      "num": 739529,
-      "word": "全国首个陆缆穿海工程",
-      "onboard_time": 1704371551,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8547,
