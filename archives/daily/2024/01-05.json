@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704407684726,
+  "endTime": 1704410285149,
   "band_list": [
     {
       "raw_hot": 1723494,
@@ -56,6 +56,14 @@
       "word": "女子分享自己7旬爷爷老来得子",
       "onboard_time": 1704378155,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590862,
+      "num": 590862,
+      "word": "哈尔滨一33岁患癌女子离家出走",
+      "onboard_time": 1704403995,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -147,28 +155,20 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 232731,
+      "num": 232731,
+      "word": "老师 你怎么让我奶站过道里",
+      "onboard_time": 1704367953,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218045,
       "num": 133109,
       "word": "女老总KTV楼下被男友用砖砸死",
       "onboard_time": 1704368491,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196516,
-      "num": 89141,
-      "word": "哈尔滨一33岁患癌女子离家出走",
-      "onboard_time": 1704403995,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195292,
-      "num": 195292,
-      "word": "老师 你怎么让我奶站过道里",
-      "onboard_time": 1704367953,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 185399,
@@ -251,6 +251,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115678,
+      "num": 115678,
+      "word": "王晶评价繁花",
+      "onboard_time": 1704374314,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114133,
+      "num": 114133,
+      "word": "这袍子长了个明星脸",
+      "onboard_time": 1704408139,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107288,
       "num": 107288,
       "word": "易烊千玺破洞针织内搭",
@@ -265,6 +281,22 @@
       "onboard_time": 1704374792,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104426,
+      "num": 69695,
+      "word": "哈尔滨向沈阳借了两只凤凰",
+      "onboard_time": 1704403335,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 104119,
+      "num": 104119,
+      "word": "警方通报女子在家中被邻居抢劫杀害",
+      "onboard_time": 1704368073,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97917,
@@ -321,14 +353,6 @@
       "onboard_time": 1704374432,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 92143,
-      "num": 92143,
-      "word": "警方通报女子在家中被邻居抢劫杀害",
-      "onboard_time": 1704368073,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91098,
@@ -403,12 +427,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 75109,
-      "num": 75109,
-      "word": "王晶评价繁花",
-      "onboard_time": 1704374314,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 74030,
+      "num": 82116,
+      "word": "2024年总台春晚分会场发布",
+      "onboard_time": 1704371070,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 73778,
@@ -427,12 +451,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 67285,
-      "num": 82116,
-      "word": "2024年总台春晚分会场发布",
-      "onboard_time": 1704371070,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 68741,
+      "num": 68741,
+      "word": "南部战区南海海域例行巡航",
+      "onboard_time": 1704402073,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 65930,
+      "num": 65930,
+      "word": "坚持一个月把肾气补回来",
+      "onboard_time": 1704398293,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 61856,
@@ -443,12 +475,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 55017,
-      "num": 55017,
-      "word": "南部战区南海海域例行巡航",
-      "onboard_time": 1704402073,
-      "rank": 32,
-      "category": "国内时政"
+      "raw_hot": 56524,
+      "num": 56524,
+      "word": "砂糖橘在北极消防站与天安门国旗合影",
+      "onboard_time": 1704403573,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54865,
+      "num": 54865,
+      "word": "尔滨果然一点就透",
+      "onboard_time": 1704399493,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 48901,
@@ -459,14 +499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 42576,
-      "num": 36978,
-      "word": "哈尔滨向沈阳借了两只凤凰",
-      "onboard_time": 1704403335,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 33149,
       "num": 33149,
       "word": "王者荣耀云梦有灵CG",
@@ -475,28 +507,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32514,
-      "num": 32514,
-      "word": "砂糖橘在北极消防站与天安门国旗合影",
-      "onboard_time": 1704403573,
-      "rank": 46,
+      "raw_hot": 30205,
+      "num": 34039,
+      "word": "郝劭文继女就读的是什么学校",
+      "onboard_time": 1704366331,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29424,
+      "num": 739529,
+      "word": "全国首个陆缆穿海工程",
+      "onboard_time": 1704371551,
+      "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30756,
-      "num": 30756,
-      "word": "坚持一个月把肾气补回来",
-      "onboard_time": 1704398293,
-      "rank": 23,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 24496,
-      "num": 24496,
-      "word": "尔滨果然一点就透",
-      "onboard_time": 1704399493,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 20981,
@@ -513,14 +537,6 @@
       "onboard_time": 1704401772,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 15007,
-      "num": 739529,
-      "word": "全国首个陆缆穿海工程",
-      "onboard_time": 1704371551,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14440,
