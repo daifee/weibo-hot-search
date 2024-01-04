@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704363557522,
+  "endTime": 1704364599227,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1915,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676207,
+      "num": 676207,
+      "word": "烤地瓜摊主为小土豆准备勺子",
+      "onboard_time": 1704361958,
+      "rank": 4,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 669705,
       "num": 669705,
       "word": "陈妍希兑现瘦十斤flag",
@@ -2059,14 +2067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 644216,
-      "num": 644216,
-      "word": "烤地瓜摊主为小土豆准备勺子",
-      "onboard_time": 1704361958,
-      "rank": 4,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 643908,
       "num": 643908,
       "word": "郑业成祝绪丹 镜花缘",
@@ -2209,6 +2209,14 @@
       "onboard_time": 1704243453,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606289,
+      "num": 606289,
+      "word": "尔滨呐再掏几下就只剩宾了",
+      "onboard_time": 1704363031,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 603697,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704039052,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 556594,
-      "num": 556594,
-      "word": "南京地铁",
-      "onboard_time": 1704328834,
-      "rank": 6,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

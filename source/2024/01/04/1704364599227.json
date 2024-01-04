@@ -1,0 +1,410 @@
+{
+  "runTime": 1704364599227,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1029206,
+        "num": 1029206,
+        "word": "哈佛大学校长 抄袭",
+        "onboard_time": 1704355413,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 887349,
+        "num": 887349,
+        "word": "小砂糖橘每人配了1个漠河消防员",
+        "onboard_time": 1704359011,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45826,
+        "num": 742032,
+        "word": "陆军2024开训大片有多硬核",
+        "onboard_time": 1704355952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895010,
+        "num": 718803,
+        "word": "男子想免费升舱大闹致航班取消300人改签",
+        "onboard_time": 1704357332,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676207,
+        "num": 676207,
+        "word": "烤地瓜摊主为小土豆准备勺子",
+        "onboard_time": 1704361958,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 606289,
+        "num": 606289,
+        "word": "尔滨呐再掏几下就只剩宾了",
+        "onboard_time": 1704363031,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 539991,
+        "num": 539991,
+        "word": "白敬亭魏大勋合拍跳舞",
+        "onboard_time": 1704362435,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 443192,
+        "num": 443192,
+        "word": "在贵州5天吃了30顿",
+        "onboard_time": 1704362613,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 440889,
+        "num": 440889,
+        "word": "胡歌当初不想再演戏的原因",
+        "onboard_time": 1704334589,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430689,
+        "num": 430689,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1704348450,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 424681,
+        "num": 424681,
+        "word": "暖阳分手",
+        "onboard_time": 1704352710,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 410800,
+        "num": 410800,
+        "word": "女子疑未给20万分手费被男友砸死",
+        "onboard_time": 1704355772,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410105,
+        "num": 410105,
+        "word": "什么时候结婚证成打人证了",
+        "onboard_time": 1704342575,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391800,
+        "num": 391800,
+        "word": "李在明左侧颈内静脉60%被切断",
+        "onboard_time": 1704343776,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 375279,
+        "num": 375279,
+        "word": "三里屯偶遇魏大勋",
+        "onboard_time": 1704361653,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335533,
+        "num": 335533,
+        "word": "山花",
+        "onboard_time": 1704363155,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301393,
+        "num": 301393,
+        "word": "王安宇好像偷了赵昭仪的帽子",
+        "onboard_time": 1704356073,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184973,
+        "num": 295348,
+        "word": "免费拉游客的劳斯莱斯车主找到了",
+        "onboard_time": 1704340173,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295303,
+        "num": 295303,
+        "word": "沈阳回应哈尔滨借金凤凰",
+        "onboard_time": 1704356614,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 228232,
+        "num": 289578,
+        "word": "外交部回应中国留学生被美方强制遣返",
+        "onboard_time": 1704357092,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288074,
+        "num": 288074,
+        "word": "亲妹妹不跟我们一起过年",
+        "onboard_time": 1704363212,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285319,
+        "num": 285319,
+        "word": "光遇肯德基联动",
+        "onboard_time": 1704362556,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189295,
+        "num": 276248,
+        "word": "11位广西小砂糖橘东北之旅有多开心",
+        "onboard_time": 1704363934,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 273122,
+        "num": 273122,
+        "word": "洪欣儿子",
+        "onboard_time": 1704342457,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271034,
+        "num": 271034,
+        "word": "唐嫣为拍繁花三年没接其他戏",
+        "onboard_time": 1704344076,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257880,
+        "num": 257880,
+        "word": "睡前4小时吃完晚餐利于减肥",
+        "onboard_time": 1704361715,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238560,
+        "num": 238560,
+        "word": "古茗要上市了",
+        "onboard_time": 1704359192,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225143,
+        "num": 225143,
+        "word": "KPL抽签",
+        "onboard_time": 1704363513,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220625,
+        "num": 220625,
+        "word": "年底家政岗位700元日薪招不到人",
+        "onboard_time": 1704362255,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218458,
+        "num": 218458,
+        "word": "小杨哥回应不陪小黄复播",
+        "onboard_time": 1704345392,
+        "rank": 29,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 209116,
+        "num": 209116,
+        "word": "成都一摩托骑手压弯超车事故身亡",
+        "onboard_time": 1704358172,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198698,
+        "num": 198698,
+        "word": "韩国人已经开始卷脖围了",
+        "onboard_time": 1704344016,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194626,
+        "num": 194626,
+        "word": "秦岚 胡先煦可以嫁出去了",
+        "onboard_time": 1704356851,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194197,
+        "num": 194197,
+        "word": "富二代气质还没培养起来",
+        "onboard_time": 1704358592,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179550,
+        "num": 179550,
+        "word": "砂糖橘妈妈盛情邀请大家到广西炫水果",
+        "onboard_time": 1704363934,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 175910,
+        "num": 175910,
+        "word": "昆凌最强大脑",
+        "onboard_time": 1704342997,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172976,
+        "num": 172976,
+        "word": "这个睡眠习惯可能让你提前衰老",
+        "onboard_time": 1704352352,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167524,
+        "num": 167524,
+        "word": "月薪多少才属于中等收入群体",
+        "onboard_time": 1704344196,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166175,
+        "num": 166175,
+        "word": "男子证实失联21天父亲已遇害",
+        "onboard_time": 1704364231,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162706,
+        "num": 162706,
+        "word": "去年国外撤回大量中国学者论文",
+        "onboard_time": 1704358953,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156418,
+        "num": 156418,
+        "word": "忽然觉得乌鸦喝水也不怎么稀奇了",
+        "onboard_time": 1704363875,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154593,
+        "num": 154593,
+        "word": "尔滨又整活了",
+        "onboard_time": 1704362973,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 153859,
+        "num": 153859,
+        "word": "繁花豆瓣评分8.1",
+        "onboard_time": 1704345333,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150517,
+        "num": 150517,
+        "word": "沪上阿姨 魔道祖师",
+        "onboard_time": 1704338371,
+        "rank": 43,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 148216,
+        "num": 148216,
+        "word": "范志毅回应客串繁花",
+        "onboard_time": 1704363755,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131001,
+        "num": 131001,
+        "word": "东北小哥卖糕点前100斤卖糕点后160斤",
+        "onboard_time": 1704348154,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125248,
+        "num": 125248,
+        "word": "大滑梯排队现场2小土豆帮清理垃圾",
+        "onboard_time": 1704363393,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120819,
+        "num": 120819,
+        "word": "余额低于100元不能提现属霸王条款",
+        "onboard_time": 1704338491,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113614,
+        "num": 113614,
+        "word": "我们i人虽然不惹事 但也怕事",
+        "onboard_time": 1704360273,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105921,
+        "num": 105921,
+        "word": "格力回应玫瑰空调被吐槽又土又贵",
+        "onboard_time": 1704364532,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}
