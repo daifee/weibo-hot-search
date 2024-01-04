@@ -1,0 +1,410 @@
+{
+  "runTime": 1704371541693,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1053943,
+        "num": 1053943,
+        "word": "沈耀承认了抑郁症",
+        "onboard_time": 1704368311,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 792914,
+        "num": 792914,
+        "word": "繁花里出现了18岁的马伊琍",
+        "onboard_time": 1704366990,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18927,
+        "num": 668255,
+        "word": "文物古籍展喊你来打卡",
+        "onboard_time": 1704355834,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575632,
+        "num": 575632,
+        "word": "男子想免费升舱大闹致航班取消300人改签",
+        "onboard_time": 1704357332,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455280,
+        "num": 455280,
+        "word": "沈耀考倒数第一给他爸当生日礼物",
+        "onboard_time": 1704369628,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432460,
+        "num": 432460,
+        "word": "2024年总台春晚分会场发布",
+        "onboard_time": 1704371070,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426811,
+        "num": 426811,
+        "word": "男子证实失联12天父亲已遇害",
+        "onboard_time": 1704364231,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396499,
+        "num": 396499,
+        "word": "沈耀开大",
+        "onboard_time": 1704365972,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393828,
+        "num": 393828,
+        "word": "哈佛大学校长 抄袭",
+        "onboard_time": 1704355413,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 381556,
+        "num": 381556,
+        "word": "小砂糖橘每人配了1个漠河消防员",
+        "onboard_time": 1704359011,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562057,
+        "num": 381527,
+        "word": "警方通报女子在家中被邻居抢劫杀害",
+        "onboard_time": 1704368073,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391927,
+        "num": 381471,
+        "word": "玲子回归砸了夜东京",
+        "onboard_time": 1704370471,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381157,
+        "num": 381157,
+        "word": "格力回应玫瑰空调被吐槽又土又贵",
+        "onboard_time": 1704364532,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386550,
+        "num": 379534,
+        "word": "胡歌当初不想再演戏的原因",
+        "onboard_time": 1704334589,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375993,
+        "num": 375993,
+        "word": "老师 你怎么让我奶站过道里",
+        "onboard_time": 1704367953,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 350177,
+        "num": 350177,
+        "word": "薛之谦服装品牌羽绒服不合格",
+        "onboard_time": 1704366451,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323060,
+        "num": 323060,
+        "word": "烤地瓜摊主为小土豆准备勺子",
+        "onboard_time": 1704361958,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 302755,
+        "num": 302755,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1704348450,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299083,
+        "num": 299083,
+        "word": "李在明左侧颈内静脉60%被切断",
+        "onboard_time": 1704343776,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 277682,
+        "num": 277682,
+        "word": "赵昭仪一句忘年交毁了辛芷蕾多少温柔",
+        "onboard_time": 1704364951,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1803000,
+        "num": 272325,
+        "word": "痞幼谈内衣照事件",
+        "onboard_time": 1704367953,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 360072,
+        "num": 269378,
+        "word": "女老总KTV楼下被男友用砖砸死",
+        "onboard_time": 1704368491,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317911,
+        "num": 267413,
+        "word": "小土豆",
+        "onboard_time": 1704370471,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 264840,
+        "num": 264840,
+        "word": "繁花",
+        "onboard_time": 1704370772,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255154,
+        "num": 255154,
+        "word": "尔滨呐再掏几下就只剩宾了",
+        "onboard_time": 1704363031,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257689,
+        "num": 253452,
+        "word": "泰国女星夸赞王鹤棣很帅",
+        "onboard_time": 1704371369,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234597,
+        "num": 234597,
+        "word": "樊振东王楚钦3比1何钧杰黄镇廷",
+        "onboard_time": 1704365074,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226505,
+        "num": 226505,
+        "word": "神隐大结局",
+        "onboard_time": 1704366092,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221450,
+        "num": 221450,
+        "word": "天蝎座永远心比嘴软",
+        "onboard_time": 1704369393,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206423,
+        "num": 216020,
+        "word": "原来黑龙江文旅一直在看网友评论",
+        "onboard_time": 1704367892,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 213542,
+        "num": 213542,
+        "word": "无幻加入TES",
+        "onboard_time": 1704371070,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196716,
+        "num": 196716,
+        "word": "XYG 小米辣转会",
+        "onboard_time": 1704370714,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195450,
+        "num": 195450,
+        "word": "藏海传备案",
+        "onboard_time": 1704371311,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195365,
+        "num": 195365,
+        "word": "你好种地少年收官直播",
+        "onboard_time": 1704368612,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195121,
+        "num": 195121,
+        "word": "继尔滨后南方小土豆盯上查干湖鱼",
+        "onboard_time": 1704369091,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 192671,
+        "num": 192671,
+        "word": "KPL选秀大会",
+        "onboard_time": 1704370892,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182948,
+        "num": 182948,
+        "word": "强制性阅读是一种迷信行为",
+        "onboard_time": 1704367171,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 181311,
+        "num": 181311,
+        "word": "Taylor的歌词",
+        "onboard_time": 1704369510,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171573,
+        "num": 171573,
+        "word": "暖阳分手",
+        "onboard_time": 1704352710,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170513,
+        "num": 170513,
+        "word": "白敬亭魏大勋合拍跳舞",
+        "onboard_time": 1704362435,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158148,
+        "num": 158148,
+        "word": "郝劭文继女就读的是什么学校",
+        "onboard_time": 1704366331,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153946,
+        "num": 153946,
+        "word": "女子疑未给20万分手费被男友砸死",
+        "onboard_time": 1704355772,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153230,
+        "num": 153230,
+        "word": "检查狗狗嘴巴被邻居拍下来发给我了",
+        "onboard_time": 1704368253,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151128,
+        "num": 151128,
+        "word": "繁花宝总三绝杀",
+        "onboard_time": 1704370170,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150814,
+        "num": 150814,
+        "word": "小杨哥徒弟红绿灯的黄复播销售额近千万",
+        "onboard_time": 1704368551,
+        "rank": 44,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 147834,
+        "num": 147834,
+        "word": "水哥看到日本选手回归慌了",
+        "onboard_time": 1704365731,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145852,
+        "num": 145852,
+        "word": "日食记 贵州火锅纪录片",
+        "onboard_time": 1704366213,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145235,
+        "num": 145235,
+        "word": "JDG晋级德杯决赛",
+        "onboard_time": 1704369451,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113536,
+        "num": 128766,
+        "word": "警方通报41岁失联男子遭抢劫遇害",
+        "onboard_time": 1704365133,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79768,
+        "num": 123651,
+        "word": "小砂糖橘在漠河边境唱国歌",
+        "onboard_time": 1704369931,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}
