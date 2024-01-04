@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/04 21:21:00
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/04 21:35:34
 </p>
 </blockquote>
 <p>
@@ -287,6 +287,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%9F%B3%E5%B7%9D%E5%8E%BF%E5%8F%91%E7%94%9F5.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 日本石川县发生5.5级地震（热度：1714529）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%83%8A%E7%8E%B015%E5%85%831%E4%B8%AA%E5%B0%8F%E5%9C%9F%E8%B1%86%E6%8C%82%E4%BB%B6%23" target="weibo">
+哈尔滨惊现15元1个小土豆挂件（热度：1677420）
 </a>
 </li>
 
@@ -797,12 +803,6 @@ D社 该上班了（热度：998672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%BF%97%E7%A5%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23" target="weibo">
 罗志祥演唱会跳科目三（热度：985845）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%83%8A%E7%8E%B015%E5%85%831%E4%B8%AA%E5%B0%8F%E5%9C%9F%E8%B1%86%E6%8C%82%E4%BB%B6%23" target="weibo">
-哈尔滨惊现15元1个小土豆挂件（热度：979890）
 </a>
 </li>
 

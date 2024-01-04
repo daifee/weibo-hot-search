@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704374460401,
+  "endTime": 1704375334448,
   "band_list": [
     {
       "raw_hot": 2224566,
@@ -65,6 +65,14 @@
       "onboard_time": 1704342575,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1677420,
+      "num": 1677420,
+      "word": "哈尔滨惊现15元1个小土豆挂件",
+      "onboard_time": 1704373234,
+      "rank": 1,
+      "category": "旅游"
     },
     {
       "raw_hot": 1666986,
@@ -185,14 +193,6 @@
       "onboard_time": 1704340890,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 979890,
-      "num": 979890,
-      "word": "哈尔滨惊现15元1个小土豆挂件",
-      "onboard_time": 1704373234,
-      "rank": 1,
-      "category": "旅游"
     },
     {
       "raw_hot": 962409,
@@ -531,6 +531,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 552816,
+      "num": 552816,
+      "word": "林高远3比2马龙",
+      "onboard_time": 1704374015,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 552625,
       "num": 552625,
       "word": "纪念币 外挂",
@@ -651,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 488209,
+      "num": 465542,
+      "word": "王晶评价繁花",
+      "onboard_time": 1704374314,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485505,
       "num": 485505,
       "word": "月入过万在江苏是什么体验",
@@ -665,14 +681,6 @@
       "onboard_time": 1704347970,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 476204,
-      "num": 476204,
-      "word": "林高远3比2马龙",
-      "onboard_time": 1704374015,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 473981,
@@ -1043,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291635,
+      "num": 253312,
+      "word": "女大学生跨年夜憋尿4小时进医院",
+      "onboard_time": 1704372692,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288542,
       "num": 288542,
       "word": "龙年纪念币已有高溢价转手",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1704363212,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 287726,
-      "num": 287726,
-      "word": "王晶评价繁花",
-      "onboard_time": 1704374314,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 286472,
@@ -1112,14 +1120,6 @@
       "word": "河南一被弃养男婴遭姥姥拒收",
       "onboard_time": 1704324082,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270616,
-      "num": 253312,
-      "word": "女大学生跨年夜憋尿4小时进医院",
-      "onboard_time": 1704372692,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1195,12 +1195,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 255300,
+      "num": 255300,
+      "word": "中共中央政治局常务委员会召开会议",
+      "onboard_time": 1704374792,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 250743,
       "num": 250743,
       "word": "哈尔滨爆火官方坦言已准备一年",
       "onboard_time": 1704330392,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247437,
+      "num": 247437,
+      "word": "日本震后失联人数增至179人",
+      "onboard_time": 1704374432,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 247276,
@@ -1560,6 +1576,14 @@
       "word": "银行客服回应龙年纪念币预售有外挂",
       "onboard_time": 1704348573,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201560,
+      "num": 201560,
+      "word": "00后被父亲骗欠钱20年现继承上亿家产",
+      "onboard_time": 1704375032,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1971,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166694,
+      "num": 166694,
+      "word": "轿车落水1分钟周围冲出十多人",
+      "onboard_time": 1704374073,
+      "rank": 37,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 166175,
       "num": 166175,
       "word": "男子证实失联21天父亲已遇害",
@@ -2089,14 +2121,6 @@
       "onboard_time": 1704347970,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155967,
-      "num": 155967,
-      "word": "轿车落水1分钟周围冲出十多人",
-      "onboard_time": 1704374073,
-      "rank": 37,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 155613,
@@ -2307,12 +2331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136104,
+      "num": 136104,
+      "word": "把土豆子卖给小土豆",
+      "onboard_time": 1704374792,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 135828,
       "num": 135828,
       "word": "红绿灯的黄团队回应复播",
       "onboard_time": 1704372211,
       "rank": 41,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 134246,
+      "num": 134246,
+      "word": "敢于毫不掩饰地谈论欲望",
+      "onboard_time": 1704374915,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 134010,
@@ -2387,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128885,
+      "num": 128885,
+      "word": "樊振东说双打最重要的就是沟通",
+      "onboard_time": 1704375213,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128561,
       "num": 128561,
       "word": "黄子弘凡 玄学巅峰",
@@ -2419,20 +2467,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 126482,
+      "num": 126482,
+      "word": "鸣龙少年",
+      "onboard_time": 1704374553,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125655,
       "num": 125655,
       "word": "陆军开训动员现场治愈强迫症",
       "onboard_time": 1704338010,
       "rank": 44,
       "category": "军事"
-    },
-    {
-      "raw_hot": 124494,
-      "num": 124494,
-      "word": "日本震后失联人数增至179人",
-      "onboard_time": 1704374432,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 124321,
