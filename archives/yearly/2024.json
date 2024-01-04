@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704324864524,
+  "endTime": 1704330948388,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -288,6 +288,14 @@
       "word": "日本地震死亡人数上升至50人",
       "onboard_time": 1704204396,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1736060,
+      "num": 1736060,
+      "word": "11个砂糖橘外套是家长选的",
+      "onboard_time": 1704328113,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1027,6 +1035,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 887735,
+      "num": 887735,
+      "word": "农业银行 系统",
+      "onboard_time": 1704326368,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 887551,
       "num": 887551,
       "word": "赵丽颖辛芷蕾与素人合影",
@@ -1323,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 757202,
+      "num": 757202,
+      "word": "范湉湉繁花演技",
+      "onboard_time": 1704324805,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 756526,
       "num": 726424,
       "word": "陈哲远 枭起青壤",
@@ -1515,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 703148,
+      "num": 435712,
+      "word": "脸上出现5个症状暗示肝不好",
+      "onboard_time": 1704324805,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 699601,
       "num": 699601,
       "word": "杨迪回应发未P图",
@@ -1561,6 +1593,14 @@
       "onboard_time": 1704268349,
       "rank": 5,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 693083,
+      "num": 431321,
+      "word": "哈尔滨给中央大街铺地毯了",
+      "onboard_time": 1704324925,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 691986,
@@ -1827,6 +1867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 626296,
+      "num": 430818,
+      "word": "小杨哥徒弟红绿灯的黄再次复播",
+      "onboard_time": 1704329970,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 622728,
       "num": 435583,
       "word": "日本地震已致至少30人死亡",
@@ -1963,6 +2011,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 582205,
+      "num": 582205,
+      "word": "尔滨 你这凤凰搁辽宁那借的啊",
+      "onboard_time": 1704324621,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 579458,
       "num": 579458,
       "word": "法老不是要退圈吗",
@@ -2041,6 +2097,14 @@
       "onboard_time": 1704039052,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 556594,
+      "num": 556594,
+      "word": "南京地铁",
+      "onboard_time": 1704328834,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556010,
@@ -2235,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515887,
+      "num": 515887,
+      "word": "王家卫受害者联盟进新人了",
+      "onboard_time": 1704326128,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 512612,
       "num": 512612,
       "word": "郭艾伦怎么了",
@@ -2329,78 +2401,6 @@
       "onboard_time": 1704118662,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 500881,
-      "num": 500881,
-      "word": "易烊千玺在网站撒娇",
-      "onboard_time": 1704098619,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 499464,
-      "num": 499464,
-      "word": "杨紫何惟芳人设",
-      "onboard_time": 1704186032,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 496683,
-      "num": 496683,
-      "word": "林心如 武艺老在长沙",
-      "onboard_time": 1704270689,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 492595,
-      "num": 3438539,
-      "word": "央视跨年晚会",
-      "onboard_time": 1704024348,
-      "rank": 2,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 491558,
-      "num": 491558,
-      "word": "中行纪念币 进不去",
-      "onboard_time": 1704294396,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 491409,
-      "num": 491409,
-      "word": "新年壁纸",
-      "onboard_time": 1704073957,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 489932,
-      "num": 489932,
-      "word": "父母一句话心理医生和朋友全白干",
-      "onboard_time": 1704094296,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 488651,
-      "num": 488651,
-      "word": "李在明遇袭后文在寅发声",
-      "onboard_time": 1704183758,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 486403,
-      "num": 486403,
-      "word": "广州平均月薪11186元",
-      "onboard_time": 1704267932,
-      "rank": 20,
-      "category": "财经,社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704324864524,
+  "endTime": 1704330948388,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -288,6 +288,14 @@
       "word": "日本地震死亡人数上升至50人",
       "onboard_time": 1704204396,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1736060,
+      "num": 1736060,
+      "word": "11个砂糖橘外套是家长选的",
+      "onboard_time": 1704328113,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1027,6 +1035,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 887735,
+      "num": 887735,
+      "word": "农业银行 系统",
+      "onboard_time": 1704326368,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 887551,
       "num": 887551,
       "word": "赵丽颖辛芷蕾与素人合影",
@@ -1323,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 757202,
+      "num": 757202,
+      "word": "范湉湉繁花演技",
+      "onboard_time": 1704324805,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 756526,
       "num": 726424,
       "word": "陈哲远 枭起青壤",
@@ -1515,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 703148,
+      "num": 435712,
+      "word": "脸上出现5个症状暗示肝不好",
+      "onboard_time": 1704324805,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 699601,
       "num": 699601,
       "word": "杨迪回应发未P图",
@@ -1561,6 +1593,14 @@
       "onboard_time": 1704268349,
       "rank": 5,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 693083,
+      "num": 431321,
+      "word": "哈尔滨给中央大街铺地毯了",
+      "onboard_time": 1704324925,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 691986,
@@ -1827,6 +1867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 626296,
+      "num": 430818,
+      "word": "小杨哥徒弟红绿灯的黄再次复播",
+      "onboard_time": 1704329970,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 622728,
       "num": 435583,
       "word": "日本地震已致至少30人死亡",
@@ -1963,6 +2011,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 582205,
+      "num": 582205,
+      "word": "尔滨 你这凤凰搁辽宁那借的啊",
+      "onboard_time": 1704324621,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 579458,
       "num": 579458,
       "word": "法老不是要退圈吗",
@@ -2041,6 +2097,14 @@
       "onboard_time": 1704039052,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 556594,
+      "num": 556594,
+      "word": "南京地铁",
+      "onboard_time": 1704328834,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556010,
@@ -2235,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515887,
+      "num": 515887,
+      "word": "王家卫受害者联盟进新人了",
+      "onboard_time": 1704326128,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 512612,
       "num": 512612,
       "word": "郭艾伦怎么了",
@@ -2401,6 +2473,14 @@
       "onboard_time": 1704267932,
       "rank": 20,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 485505,
+      "num": 485505,
+      "word": "月入过万在江苏是什么体验",
+      "onboard_time": 1704326849,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485386,
@@ -2731,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420109,
+      "num": 420109,
+      "word": "人民日报评哈尔滨旅游出圈",
+      "onboard_time": 1704329495,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418635,
       "num": 418635,
       "word": "何老师 大米爆代表",
@@ -2867,6 +2955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 409093,
+      "num": 409093,
+      "word": "南方小土豆这一称呼合适吗",
+      "onboard_time": 1704328772,
+      "rank": 14,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 408659,
       "num": 408659,
       "word": "伊朗一地连续发生两次爆炸",
@@ -2977,6 +3073,14 @@
       "onboard_time": 1704190234,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 390752,
+      "num": 390752,
+      "word": "中国银行纪念币 约不到",
+      "onboard_time": 1704326849,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390719,
@@ -3092,7 +3196,7 @@
     },
     {
       "raw_hot": 364551,
-      "num": 176468,
+      "num": 221848,
       "word": "当老公发现了前男友写给我的情书",
       "onboard_time": 1704296973,
       "rank": 20,
@@ -3273,6 +3377,14 @@
       "onboard_time": 1704199713,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338463,
+      "num": 271923,
+      "word": "经常不吃早餐更易过胖超重",
+      "onboard_time": 1704327572,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 338183,
@@ -3563,6 +3675,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 301037,
+      "num": 301037,
+      "word": "扎克伯格耗巨资挖末日地堡",
+      "onboard_time": 1704330392,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 299863,
       "num": 299863,
       "word": "哈尔滨的惊喜每天不重样",
@@ -3681,6 +3801,14 @@
       "onboard_time": 1704251850,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289822,
+      "num": 289822,
+      "word": "爸爸妈妈开门我是么么",
+      "onboard_time": 1704326248,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 289002,
@@ -3920,6 +4048,14 @@
       "word": "东北女生模仿南方小土豆一开口就露馅",
       "onboard_time": 1704269971,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270732,
+      "num": 270732,
+      "word": "河南一被弃养男婴遭姥姥拒收",
+      "onboard_time": 1704324082,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -4395,6 +4531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235728,
+      "num": 235728,
+      "word": "龙年纪念币钞预约火爆",
+      "onboard_time": 1704328772,
+      "rank": 24,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 235496,
       "num": 235496,
       "word": "迪丽热巴王安宇骑羊",
@@ -4427,12 +4571,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235062,
+      "num": 235062,
+      "word": "繁花 没人相信自己要杀青了",
+      "onboard_time": 1704330628,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234432,
       "num": 234432,
       "word": "霉霉 我的嗓子",
       "onboard_time": 1704162039,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 234112,
+      "num": 207893,
+      "word": "乳腺结节增生改善方法",
+      "onboard_time": 1704330332,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 234097,
@@ -4585,6 +4745,14 @@
       "onboard_time": 1704263850,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225415,
+      "num": 225415,
+      "word": "王者S34新赛季",
+      "onboard_time": 1704329735,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 225172,
@@ -4891,6 +5059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208497,
+      "num": 208497,
+      "word": "哈尔滨爆火官方坦言已准备一年",
+      "onboard_time": 1704330392,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208171,
       "num": 208171,
       "word": "2024跨年最佳舞台",
@@ -5073,6 +5249,14 @@
       "onboard_time": 1704170801,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200725,
+      "num": 200725,
+      "word": "原来香港售卖的泡面没叉子",
+      "onboard_time": 1704326248,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 200596,
@@ -5331,6 +5515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192347,
+      "num": 192347,
+      "word": "他在冰窟中托举孩子直到生命最后一刻",
+      "onboard_time": 1704330452,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191859,
       "num": 162124,
       "word": "金手指 看完戒股",
@@ -5475,6 +5667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 187203,
+      "num": 187203,
+      "word": "迪丽热巴你不是孤单一人了",
+      "onboard_time": 1704329253,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186784,
       "num": 186784,
       "word": "一闪一闪亮星星 时间线",
@@ -5513,6 +5713,14 @@
       "onboard_time": 1704258752,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185399,
+      "num": 185399,
+      "word": "伊朗将于4日为遇难者举行全国哀悼",
+      "onboard_time": 1704326729,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 184788,
@@ -5771,6 +5979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176905,
+      "num": 176905,
+      "word": "胡歌繁花同款西装定制电话打爆了",
+      "onboard_time": 1704329374,
+      "rank": 37,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 175728,
       "num": 175728,
       "word": "NIP对战BLG",
@@ -5793,6 +6009,14 @@
       "onboard_time": 1704170020,
       "rank": 47,
       "category": "动漫,美食"
+    },
+    {
+      "raw_hot": 175182,
+      "num": 172970,
+      "word": "辛芷蕾 别蛐蛐我",
+      "onboard_time": 1704324867,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174950,
@@ -5843,6 +6067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173398,
+      "num": 173398,
+      "word": "哈尔滨松花江畔现3000平方米的巨龙",
+      "onboard_time": 1704325585,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173059,
       "num": 173059,
       "word": "台湾同胞东北旅游被盛情招待",
@@ -5881,6 +6113,14 @@
       "onboard_time": 1704238885,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 172043,
+      "num": 172043,
+      "word": "孙俪魏大勋或将合作",
+      "onboard_time": 1704328893,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 171955,
@@ -5929,6 +6169,14 @@
       "onboard_time": 1704288695,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 170177,
+      "num": 170177,
+      "word": "当东北金渐层被叫咪咪",
+      "onboard_time": 1704323479,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 169981,
@@ -6003,12 +6251,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 168139,
+      "num": 168139,
+      "word": "黑龙江官方回应哈尔滨为啥火",
+      "onboard_time": 1704327752,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167990,
       "num": 167990,
       "word": "灌篮高手 流川枫",
       "onboard_time": 1704103903,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 166853,
+      "num": 166853,
+      "word": "胡歌挨巴掌戏份花絮",
+      "onboard_time": 1704326548,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 166696,
@@ -6371,6 +6635,22 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 153190,
+      "num": 153190,
+      "word": "鸣龙中学 隐藏全科学霸",
+      "onboard_time": 1704325825,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152815,
+      "num": 152815,
+      "word": "章若楠 小孩姐",
+      "onboard_time": 1704326912,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152648,
       "num": 152648,
       "word": "鞠婧祎怼脸的七秒",
@@ -6667,6 +6947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 143596,
+      "num": 143596,
+      "word": "赖床30分钟有助改善身体疲惫",
+      "onboard_time": 1704330392,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 143476,
       "num": 143476,
       "word": "林北星小号",
@@ -6761,6 +7049,14 @@
       "onboard_time": 1704122857,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141620,
+      "num": 141620,
+      "word": "午休时间男孩用课本表演变脸",
+      "onboard_time": 1704330931,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141256,
@@ -7419,6 +7715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118114,
+      "num": 984263,
+      "word": "程序员回乡种小时候味道的西红柿",
+      "onboard_time": 1704286775,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117976,
       "num": 117976,
       "word": "NCT127澳门演唱会",
@@ -7587,14 +7891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106056,
-      "num": 106056,
-      "word": "河南一被弃养男婴遭姥姥拒收",
-      "onboard_time": 1704324082,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106022,
       "num": 106022,
       "word": "B站 奥特曼",
@@ -7633,14 +7929,6 @@
       "onboard_time": 1704091832,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 104881,
-      "num": 87884,
-      "word": "当东北金渐层被叫咪咪",
-      "onboard_time": 1704323479,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 104561,
@@ -7811,14 +8099,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 87404,
-      "num": 82171,
-      "word": "范湉湉繁花演技",
-      "onboard_time": 1704324805,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85242,
       "num": 77375,
       "word": "陶喆真的老了",
@@ -7841,14 +8121,6 @@
       "onboard_time": 1704034750,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84019,
-      "num": 84019,
-      "word": "脸上出现5个症状暗示肝不好",
-      "onboard_time": 1704324805,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 81052,
@@ -7889,14 +8161,6 @@
       "onboard_time": 1704296551,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 79303,
-      "num": 598265,
-      "word": "程序员回乡种小时候味道的西红柿",
-      "onboard_time": 1704286775,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79215,
@@ -8009,14 +8273,6 @@
       "onboard_time": 1704125850,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 69416,
-      "num": 69416,
-      "word": "尔滨 你这凤凰搁辽宁那借的啊",
-      "onboard_time": 1704324621,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 68057,
