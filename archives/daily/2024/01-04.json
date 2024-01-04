@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704345441667,
+  "endTime": 1704346436626,
   "band_list": [
     {
       "raw_hot": 2224566,
@@ -11,6 +11,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1791349,
+      "num": 941688,
+      "word": "李在明左侧颈内静脉60%被切断",
+      "onboard_time": 1704343776,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1761298,
       "num": 1761298,
       "word": "11个砂糖橘外套是家长选的",
@@ -19,20 +27,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1688408,
+      "raw_hot": 1717598,
       "num": 946974,
       "word": "什么时候结婚证成打人证了",
       "onboard_time": 1704342575,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1684957,
-      "num": 941688,
-      "word": "李在明左侧颈内静脉60%被切断",
-      "onboard_time": 1704343776,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1666986,
@@ -41,6 +41,14 @@
       "onboard_time": 1704338491,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1586454,
+      "num": 1586454,
+      "word": "库迪 王一博",
+      "onboard_time": 1704344435,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1548820,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1006777,
+      "num": 1006777,
+      "word": "员工连休37天事假被公司开除",
+      "onboard_time": 1704340890,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 962409,
       "num": 962409,
       "word": "昆凌最强大脑",
@@ -115,14 +131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 912632,
-      "num": 912632,
-      "word": "员工连休37天事假被公司开除",
-      "onboard_time": 1704340890,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 904477,
       "num": 904477,
       "word": "沪上阿姨 魔道祖师",
@@ -145,14 +153,6 @@
       "onboard_time": 1704339570,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 792545,
-      "num": 792545,
-      "word": "库迪 王一博",
-      "onboard_time": 1704344435,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 789857,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 557788,
-      "num": 320842,
+      "num": 333497,
       "word": "韩国人已经开始卷脖围了",
       "onboard_time": 1704344016,
       "rank": 20,
@@ -308,11 +308,19 @@
     },
     {
       "raw_hot": 542665,
-      "num": 316114,
+      "num": 332806,
       "word": "月薪多少才属于中等收入群体",
       "onboard_time": 1704344196,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533068,
+      "num": 533068,
+      "word": "小杨哥回应不陪小黄复播",
+      "onboard_time": 1704345392,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 515887,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 359974,
-      "num": 309265,
+      "num": 326690,
       "word": "唐嫣为拍繁花三年没接其他戏",
       "onboard_time": 1704344076,
       "rank": 22,
@@ -505,6 +513,14 @@
       "onboard_time": 1704331769,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320087,
+      "num": 311034,
+      "word": "繁花豆瓣评分8.1",
+      "onboard_time": 1704345333,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 320016,
@@ -563,12 +579,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288542,
+      "num": 288542,
+      "word": "龙年纪念币已有高溢价转手",
+      "onboard_time": 1704344856,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 286472,
       "num": 286472,
       "word": "名字因姓而惊艳",
       "onboard_time": 1704340653,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273763,
+      "num": 273763,
+      "word": "女子出差35天加班71小时后生病猝死",
+      "onboard_time": 1704345392,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270732,
@@ -609,14 +641,6 @@
       "onboard_time": 1704334407,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 258936,
-      "num": 252365,
-      "word": "繁花豆瓣评分8.1",
-      "onboard_time": 1704345333,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 250743,
@@ -705,14 +729,6 @@
       "onboard_time": 1704291698,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237868,
-      "num": 237868,
-      "word": "龙年纪念币已有高溢价转手",
-      "onboard_time": 1704344856,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 235728,
@@ -843,6 +859,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 202482,
+      "num": 198574,
+      "word": "唐嫣范志毅落泪告别花絮",
+      "onboard_time": 1704345872,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200725,
       "num": 200725,
       "word": "原来香港售卖的泡面没叉子",
@@ -857,6 +881,14 @@
       "onboard_time": 1704334708,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193247,
+      "num": 193247,
+      "word": "哈尔滨惊现雪地骆驼",
+      "onboard_time": 1704345333,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 191605,
@@ -979,6 +1011,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 176420,
+      "num": 176420,
+      "word": "八旬房东老太吃席给房客带酒带肉",
+      "onboard_time": 1704345992,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175182,
       "num": 172970,
       "word": "辛芷蕾 别蛐蛐我",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1704328893,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171174,
+      "num": 171174,
+      "word": "微博之夜 阵容",
+      "onboard_time": 1704346290,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 170848,
@@ -1075,8 +1123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158316,
-      "num": 158316,
+      "raw_hot": 163583,
+      "num": 163583,
       "word": "快船战胜太阳",
       "onboard_time": 1704345333,
       "rank": 42,
@@ -1163,22 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142929,
-      "num": 142929,
-      "word": "小杨哥回应不陪小黄复播",
-      "onboard_time": 1704345392,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 142345,
-      "num": 142345,
-      "word": "哈尔滨惊现雪地骆驼",
-      "onboard_time": 1704345333,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 141894,
       "num": 141894,
       "word": "哈尔滨冰雪大世界遇上汉服一眼万年",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1704342155,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 138384,
-      "num": 138384,
-      "word": "女子出差35天加班71小时后生病猝死",
-      "onboard_time": 1704345392,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138193,
@@ -1395,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91570,
+      "num": 1430840,
+      "word": "南北文旅开门红释放中国消费活力",
+      "onboard_time": 1704341675,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89600,
       "num": 89600,
       "word": "30岁大厂女生周末星巴克兼职",
@@ -1417,14 +1449,6 @@
       "onboard_time": 1704324082,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 85605,
-      "num": 1430840,
-      "word": "南北文旅开门红释放中国消费活力",
-      "onboard_time": 1704341675,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84918,
@@ -1515,8 +1539,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 48930,
-      "num": 168475,
+      "raw_hot": 52347,
+      "num": 452094,
       "word": "小米SU7智能座舱实车体验",
       "onboard_time": 1704344974,
       "rank": 39,

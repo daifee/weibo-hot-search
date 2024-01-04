@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704345441667,
+  "endTime": 1704346436626,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1791349,
+      "num": 941688,
+      "word": "李在明左侧颈内静脉60%被切断",
+      "onboard_time": 1704343776,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1769127,
       "num": 471121,
       "word": "日本地震死亡人数上升至50人",
@@ -315,15 +323,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1714529,
-      "num": 421464,
-      "word": "日本石川县发生5.5级地震",
-      "onboard_time": 1704249630,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1688408,
+      "raw_hot": 1717598,
       "num": 946974,
       "word": "什么时候结婚证成打人证了",
       "onboard_time": 1704342575,
@@ -331,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1684957,
-      "num": 941688,
-      "word": "李在明左侧颈内静脉60%被切断",
-      "onboard_time": 1704343776,
-      "rank": 5,
-      "category": "国外时政"
+      "raw_hot": 1714529,
+      "num": 421464,
+      "word": "日本石川县发生5.5级地震",
+      "onboard_time": 1704249630,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1666986,
@@ -377,6 +377,14 @@
       "onboard_time": 1704136395,
       "rank": 49,
       "category": "自然"
+    },
+    {
+      "raw_hot": 1586454,
+      "num": 1586454,
+      "word": "库迪 王一博",
+      "onboard_time": 1704344435,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1575695,
@@ -915,6 +923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1006777,
+      "num": 1006777,
+      "word": "员工连休37天事假被公司开除",
+      "onboard_time": 1704340890,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1006362,
       "num": 1006362,
       "word": "网友街头偶遇刘强东越野车送出",
@@ -1088,14 +1104,6 @@
       "word": "为裁员西安某公司从CBD搬进秦岭山区",
       "onboard_time": 1704066266,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 912632,
-      "num": 912632,
-      "word": "员工连休37天事假被公司开除",
-      "onboard_time": 1704340890,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1361,14 +1369,6 @@
       "onboard_time": 1704082772,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 792545,
-      "num": 792545,
-      "word": "库迪 王一博",
-      "onboard_time": 1704344435,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 791132,
@@ -2252,7 +2252,7 @@
     },
     {
       "raw_hot": 557788,
-      "num": 320842,
+      "num": 333497,
       "word": "韩国人已经开始卷脖围了",
       "onboard_time": 1704344016,
       "rank": 20,
@@ -2372,7 +2372,7 @@
     },
     {
       "raw_hot": 542665,
-      "num": 316114,
+      "num": 332806,
       "word": "月薪多少才属于中等收入群体",
       "onboard_time": 1704344196,
       "rank": 21,
@@ -2401,6 +2401,14 @@
       "onboard_time": 1704109476,
       "rank": 7,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 533068,
+      "num": 533068,
+      "word": "小杨哥回应不陪小黄复播",
+      "onboard_time": 1704345392,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 530870,
@@ -3516,7 +3524,7 @@
     },
     {
       "raw_hot": 359974,
-      "num": 309265,
+      "num": 326690,
       "word": "唐嫣为拍繁花三年没接其他戏",
       "onboard_time": 1704344076,
       "rank": 22,
@@ -3785,6 +3793,14 @@
       "onboard_time": 1704238645,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320087,
+      "num": 311034,
+      "word": "繁花豆瓣评分8.1",
+      "onboard_time": 1704345333,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 320016,
@@ -4147,6 +4163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288542,
+      "num": 288542,
+      "word": "龙年纪念币已有高溢价转手",
+      "onboard_time": 1704344856,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 287696,
       "num": 287696,
       "word": "第一批00后老师教最后一批00后",
@@ -4336,6 +4360,14 @@
       "word": "爷爷忘给孙女买玩具被太奶挥拐催促",
       "onboard_time": 1704160655,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273763,
+      "num": 273763,
+      "word": "女子出差35天加班71小时后生病猝死",
+      "onboard_time": 1704345392,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -4577,14 +4609,6 @@
       "onboard_time": 1704186512,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258936,
-      "num": 252365,
-      "word": "繁花豆瓣评分8.1",
-      "onboard_time": 1704345333,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 258790,
@@ -4857,14 +4881,6 @@
       "onboard_time": 1704165817,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 237868,
-      "num": 237868,
-      "word": "龙年纪念币已有高溢价转手",
-      "onboard_time": 1704344856,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 237829,
@@ -5627,6 +5643,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 202482,
+      "num": 198574,
+      "word": "唐嫣范志毅落泪告别花絮",
+      "onboard_time": 1704345872,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202407,
       "num": 202407,
       "word": "kms线下签售",
@@ -5945,6 +5969,14 @@
       "onboard_time": 1704107861,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193247,
+      "num": 193247,
+      "word": "哈尔滨惊现雪地骆驼",
+      "onboard_time": 1704345333,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 193184,
@@ -6483,6 +6515,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 176420,
+      "num": 176420,
+      "word": "八旬房东老太吃席给房客带酒带肉",
+      "onboard_time": 1704345992,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175728,
       "num": 175728,
       "word": "NIP对战BLG",
@@ -6673,6 +6713,14 @@
       "onboard_time": 1704245791,
       "rank": 40,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 171174,
+      "num": 171174,
+      "word": "微博之夜 阵容",
+      "onboard_time": 1704346290,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 170848,
@@ -6923,6 +6971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163583,
+      "num": 163583,
+      "word": "快船战胜太阳",
+      "onboard_time": 1704345333,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163440,
       "num": 163440,
       "word": "小狗每次吃饭都要找饭搭子",
@@ -7057,14 +7113,6 @@
       "onboard_time": 1704104619,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158316,
-      "num": 158316,
-      "word": "快船战胜太阳",
-      "onboard_time": 1704345333,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 158145,
@@ -7571,14 +7619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 142929,
-      "num": 142929,
-      "word": "小杨哥回应不陪小黄复播",
-      "onboard_time": 1704345392,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 142923,
       "num": 142923,
       "word": "故宫2024开门红壁纸",
@@ -7609,14 +7649,6 @@
       "onboard_time": 1704081873,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142345,
-      "num": 142345,
-      "word": "哈尔滨惊现雪地骆驼",
-      "onboard_time": 1704345333,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 141989,
@@ -7777,14 +7809,6 @@
       "onboard_time": 1704342155,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 138384,
-      "num": 138384,
-      "word": "女子出差35天加班71小时后生病猝死",
-      "onboard_time": 1704345392,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138352,
@@ -8699,6 +8723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91570,
+      "num": 1430840,
+      "word": "南北文旅开门红释放中国消费活力",
+      "onboard_time": 1704341675,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91371,
       "num": 91371,
       "word": "高级香水合集",
@@ -8761,14 +8793,6 @@
       "onboard_time": 1704324082,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 85605,
-      "num": 1430840,
-      "word": "南北文旅开门红释放中国消费活力",
-      "onboard_time": 1704341675,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85242,
@@ -9155,6 +9179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52347,
+      "num": 452094,
+      "word": "小米SU7智能座舱实车体验",
+      "onboard_time": 1704344974,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52111,
       "num": 371468,
       "word": "王一博跨年舞台又来了",
@@ -9193,14 +9225,6 @@
       "onboard_time": 1704053655,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 48930,
-      "num": 168475,
-      "word": "小米SU7智能座舱实车体验",
-      "onboard_time": 1704344974,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 48623,
