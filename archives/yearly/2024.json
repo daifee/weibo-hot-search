@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704378855456,
+  "endTime": 1704381558104,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -23,6 +23,14 @@
       "num": 8995172,
       "word": "日本地震",
       "onboard_time": 1704093755,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8556563,
+      "num": 9599188,
+      "word": "广西北海地震",
+      "onboard_time": 1704379117,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -979,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1034650,
+      "num": 1034650,
+      "word": "繁花宝总全名叫什么",
+      "onboard_time": 1704378876,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1029811,
       "num": 1029811,
       "word": "辛芷蕾拍繁花学了两年舞蹈课",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1704167978,
       "rank": 4,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 924769,
+      "num": 924769,
+      "word": "女子分享自己7旬爷爷老来得子",
+      "onboard_time": 1704378155,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 922842,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1704294576,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 588731,
-      "num": 588731,
-      "word": "马龙vs林高远",
-      "onboard_time": 1704371551,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 588343,
-      "num": 588343,
-      "word": "不要再瞎练八段锦了",
-      "onboard_time": 1704103303,
-      "rank": 18,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 588148,
-      "num": 588148,
-      "word": "黄晓明小海绵亲子装",
-      "onboard_time": 1704152730,
-      "rank": 11,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
