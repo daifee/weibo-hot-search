@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704346436626,
+  "endTime": 1704349410077,
   "band_list": [
     {
       "raw_hot": 2224566,
@@ -65,6 +65,22 @@
       "onboard_time": 1704334589,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1369062,
+      "num": 1369062,
+      "word": "小杨哥回应不陪小黄复播",
+      "onboard_time": 1704345392,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1242478,
+      "num": 1242478,
+      "word": "微博之夜阵容官宣",
+      "onboard_time": 1704348450,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1184813,
@@ -179,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 728801,
+      "num": 728801,
+      "word": "女子出差35天加班71小时后生病猝死",
+      "onboard_time": 1704345392,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 720196,
       "num": 720196,
       "word": "伊朗修正爆炸死亡人数至95人",
@@ -243,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589063,
+      "num": 589063,
+      "word": "唐嫣为拍繁花三年没接其他戏",
+      "onboard_time": 1704344076,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 582205,
       "num": 582205,
       "word": "尔滨 你这凤凰搁辽宁那借的啊",
@@ -260,7 +292,7 @@
     },
     {
       "raw_hot": 557788,
-      "num": 333497,
+      "num": 340308,
       "word": "韩国人已经开始卷脖围了",
       "onboard_time": 1704344016,
       "rank": 20,
@@ -281,6 +313,14 @@
       "onboard_time": 1704294760,
       "rank": 34,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 553755,
+      "num": 553755,
+      "word": "难怪重庆瘦人多",
+      "onboard_time": 1704348154,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 553018,
@@ -308,19 +348,11 @@
     },
     {
       "raw_hot": 542665,
-      "num": 332806,
+      "num": 335799,
       "word": "月薪多少才属于中等收入群体",
       "onboard_time": 1704344196,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 533068,
-      "num": 533068,
-      "word": "小杨哥回应不陪小黄复播",
-      "onboard_time": 1704345392,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 515887,
@@ -345,6 +377,14 @@
       "onboard_time": 1704284193,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 461405,
+      "num": 461405,
+      "word": "圆通韵达京东物流被约谈",
+      "onboard_time": 1704347970,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459113,
@@ -443,6 +483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 373240,
+      "num": 373240,
+      "word": "东北小哥卖糕点前100斤卖糕点后160斤",
+      "onboard_time": 1704348154,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367357,
       "num": 367357,
       "word": "王皓表情",
@@ -475,20 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359974,
-      "num": 326690,
-      "word": "唐嫣为拍繁花三年没接其他戏",
-      "onboard_time": 1704344076,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 358264,
       "num": 358264,
       "word": "张雪峰公司储备员工半年工资",
       "onboard_time": 1704338910,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350931,
+      "num": 350931,
+      "word": "财政部部长重磅发声",
+      "onboard_time": 1704348032,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 349642,
@@ -593,14 +641,6 @@
       "onboard_time": 1704340653,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 273763,
-      "num": 273763,
-      "word": "女子出差35天加班71小时后生病猝死",
-      "onboard_time": 1704345392,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270732,
@@ -763,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225285,
+      "num": 205417,
+      "word": "这些化妆品抽检不合格",
+      "onboard_time": 1704348154,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 224326,
       "num": 224326,
       "word": "他在冰窟中托举孩子直到生命最后一刻",
@@ -779,6 +827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 217723,
+      "num": 217723,
+      "word": "明明很困为什么上床后毫无睡意",
+      "onboard_time": 1704343359,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 212951,
       "num": 212951,
       "word": "非诚勿扰3 票房",
@@ -787,12 +843,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 211089,
-      "num": 211089,
-      "word": "明明很困为什么上床后毫无睡意",
-      "onboard_time": 1704343359,
-      "rank": 32,
-      "category": "健康医疗"
+      "raw_hot": 211085,
+      "num": 211085,
+      "word": "百元千禧龙钞曾涨至3000多元",
+      "onboard_time": 1704348871,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211074,
@@ -825,6 +881,14 @@
       "onboard_time": 1704289657,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 206393,
+      "num": 206393,
+      "word": "尹净汉道枝骏佑 双人杂志",
+      "onboard_time": 1704348991,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 205735,
@@ -867,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201564,
+      "num": 201564,
+      "word": "银行客服回应龙年纪念币预售有外挂",
+      "onboard_time": 1704348573,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200725,
       "num": 200725,
       "word": "原来香港售卖的泡面没叉子",
@@ -897,6 +969,14 @@
       "onboard_time": 1704344674,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190778,
+      "num": 190778,
+      "word": "伯远官宣微博之夜",
+      "onboard_time": 1704348750,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190502,
@@ -987,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179729,
+      "num": 179729,
+      "word": "跳进地理书的旅行",
+      "onboard_time": 1704349292,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178566,
       "num": 178566,
       "word": "日本地震死亡升至78人",
@@ -1075,6 +1163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170346,
+      "num": 170346,
+      "word": "崔胜澈复工",
+      "onboard_time": 1704347191,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170204,
       "num": 170204,
       "word": "韩振韩语",
@@ -1139,6 +1235,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 156297,
+      "num": 156297,
+      "word": "东北虎歪头杀宠溺小土豆",
+      "onboard_time": 1704347970,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155613,
       "num": 155613,
       "word": "东北的冰糖大蒜都卖给谁了",
@@ -1169,6 +1273,14 @@
       "onboard_time": 1704297213,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 153922,
+      "num": 153922,
+      "word": "发缝大的猫",
+      "onboard_time": 1704349110,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 153190,
@@ -1267,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134010,
+      "num": 134010,
+      "word": "乐福组合拳放倒里夫斯",
+      "onboard_time": 1704347731,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131451,
       "num": 131451,
       "word": "李燃去桃李二班",
@@ -1291,12 +1411,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 127156,
+      "num": 127156,
+      "word": "女子欲跳桥瞬间3名路人狂奔救人",
+      "onboard_time": 1704349352,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125655,
       "num": 125655,
       "word": "陆军开训动员现场治愈强迫症",
       "onboard_time": 1704338010,
       "rank": 44,
       "category": "军事"
+    },
+    {
+      "raw_hot": 124321,
+      "num": 124321,
+      "word": "脱轨 敦煌风妆造",
+      "onboard_time": 1704347550,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 123475,
@@ -1475,6 +1611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71150,
+      "num": 452094,
+      "word": "小米SU7智能座舱实车体验",
+      "onboard_time": 1704344974,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 70949,
       "num": 70949,
       "word": "萌兰给自己做了一捆大牙签子",
@@ -1537,14 +1681,6 @@
       "onboard_time": 1704298948,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 52347,
-      "num": 452094,
-      "word": "小米SU7智能座舱实车体验",
-      "onboard_time": 1704344974,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 43284,

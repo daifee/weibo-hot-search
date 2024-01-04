@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704346436626,
+  "endTime": 1704349410077,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -539,6 +539,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1369062,
+      "num": 1369062,
+      "word": "小杨哥回应不陪小黄复播",
+      "onboard_time": 1704345392,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1360274,
       "num": 1360274,
       "word": "尹锡悦回应李在明遇袭",
@@ -609,6 +617,14 @@
       "onboard_time": 1704248911,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1242478,
+      "num": 1242478,
+      "word": "微博之夜阵容官宣",
+      "onboard_time": 1704348450,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1239716,
@@ -1595,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 728801,
+      "num": 728801,
+      "word": "女子出差35天加班71小时后生病猝死",
+      "onboard_time": 1704345392,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 725766,
       "num": 725766,
       "word": "纽约发生一系列爆炸",
@@ -2147,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589063,
+      "num": 589063,
+      "word": "唐嫣为拍繁花三年没接其他戏",
+      "onboard_time": 1704344076,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 588343,
       "num": 588343,
       "word": "不要再瞎练八段锦了",
@@ -2252,7 +2284,7 @@
     },
     {
       "raw_hot": 557788,
-      "num": 333497,
+      "num": 340308,
       "word": "韩国人已经开始卷脖围了",
       "onboard_time": 1704344016,
       "rank": 20,
@@ -2289,6 +2321,14 @@
       "onboard_time": 1704294760,
       "rank": 32,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 553755,
+      "num": 553755,
+      "word": "难怪重庆瘦人多",
+      "onboard_time": 1704348154,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 553018,
@@ -2361,46 +2401,6 @@
       "onboard_time": 1704290138,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 543978,
-      "num": 543978,
-      "word": "河南宁陵县通报一学生坠亡事件",
-      "onboard_time": 1704166895,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542665,
-      "num": 332806,
-      "word": "月薪多少才属于中等收入群体",
-      "onboard_time": 1704344196,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 539405,
-      "num": 476047,
-      "word": "韩国东海岸发生地震海啸",
-      "onboard_time": 1704106600,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534964,
-      "num": 524689,
-      "word": "迪丽热巴新年首套高定",
-      "onboard_time": 1704064339,
-      "rank": 36,
-      "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 533640,
-      "num": 533640,
-      "word": "卡琳娜有笑容了",
-      "onboard_time": 1704109476,
-      "rank": 7,
-      "category": "动漫"
     }
   ],
   "hotgov_list": [
