@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704388565530,
+  "endTime": 1704389642033,
   "band_list": [
     {
       "raw_hot": 1723494,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94011,
+      "num": 94011,
+      "word": "裴珠泫开年中国首封",
+      "onboard_time": 1704388821,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93684,
       "num": 93684,
       "word": "陈泽去了哈尔滨",
@@ -419,12 +427,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 44170,
-      "num": 44170,
+      "raw_hot": 48901,
+      "num": 48901,
       "word": "宋轶杜莎蜡像",
       "onboard_time": 1704388161,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 33149,
+      "num": 33149,
+      "word": "王者荣耀云梦有灵CG",
+      "onboard_time": 1704388460,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 15007,
