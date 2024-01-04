@@ -1,0 +1,410 @@
+{
+  "runTime": 1704353646151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1496758,
+        "num": 1496758,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1704348450,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 907225,
+        "num": 907225,
+        "word": "唐嫣为拍繁花三年没接其他戏",
+        "onboard_time": 1704344076,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74192,
+        "num": 889767,
+        "word": "南北文旅开门红释放中国消费活力",
+        "onboard_time": 1704341675,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1347202,
+        "num": 887321,
+        "word": "暖阳分手",
+        "onboard_time": 1704352710,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 875598,
+        "num": 875598,
+        "word": "昆凌最强大脑",
+        "onboard_time": 1704342997,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 836693,
+        "num": 836693,
+        "word": "小杨哥回应不陪小黄复播",
+        "onboard_time": 1704345392,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 805628,
+        "num": 805628,
+        "word": "李在明左侧颈内静脉60%被切断",
+        "onboard_time": 1704343776,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 767894,
+        "num": 767894,
+        "word": "难怪重庆瘦人多",
+        "onboard_time": 1704348154,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 591680,
+        "num": 591680,
+        "word": "余额低于100元不能提现属霸王条款",
+        "onboard_time": 1704338491,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576584,
+        "num": 576584,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704351930,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090394,
+        "num": 560811,
+        "word": "小土豆 童年缺失",
+        "onboard_time": 1704349469,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 745772,
+        "num": 549910,
+        "word": "什么时候结婚证成打人证了",
+        "onboard_time": 1704342575,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601100,
+        "num": 543932,
+        "word": "洪欣儿子",
+        "onboard_time": 1704342457,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507231,
+        "num": 507231,
+        "word": "财政部部长重磅发声",
+        "onboard_time": 1704348032,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 494009,
+        "num": 494009,
+        "word": "东北小哥卖糕点前100斤卖糕点后160斤",
+        "onboard_time": 1704348154,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478998,
+        "num": 478998,
+        "word": "胡歌当初不想再演戏的原因",
+        "onboard_time": 1704334589,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458967,
+        "num": 458967,
+        "word": "圆通韵达京东物流被约谈",
+        "onboard_time": 1704347970,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428580,
+        "num": 428580,
+        "word": "免费拉游客的劳斯莱斯车主找到了",
+        "onboard_time": 1704340173,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354329,
+        "num": 354329,
+        "word": "女子出差35天加班71小时后生病猝死",
+        "onboard_time": 1704345392,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325448,
+        "num": 325448,
+        "word": "尹净汉道枝骏佑 双人杂志",
+        "onboard_time": 1704348991,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 361507,
+        "num": 325445,
+        "word": "韩国人已经开始卷脖围了",
+        "onboard_time": 1704344016,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325290,
+        "num": 325290,
+        "word": "员工连休37天事假被公司开除",
+        "onboard_time": 1704340890,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324626,
+        "num": 324626,
+        "word": "这个睡眠习惯可能让你提前衰老",
+        "onboard_time": 1704352352,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 308923,
+        "num": 308923,
+        "word": "于正新剧女演员 换人",
+        "onboard_time": 1704339570,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287432,
+        "num": 287432,
+        "word": "月薪多少才属于中等收入群体",
+        "onboard_time": 1704344196,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243321,
+        "num": 243321,
+        "word": "发缝大的猫",
+        "onboard_time": 1704349110,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216635,
+        "num": 216635,
+        "word": "高圆圆爸爸强迫赵又廷听京剧",
+        "onboard_time": 1704340475,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209431,
+        "num": 209431,
+        "word": "11个砂糖橘外套是家长选的",
+        "onboard_time": 1704328113,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209025,
+        "num": 209025,
+        "word": "郑业成祝绪丹 镜花缘",
+        "onboard_time": 1704341735,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199964,
+        "num": 199964,
+        "word": "今年要办奥运会了",
+        "onboard_time": 1704336449,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250504,
+        "num": 199926,
+        "word": "沪上阿姨 魔道祖师",
+        "onboard_time": 1704338371,
+        "rank": 30,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 198801,
+        "num": 198801,
+        "word": "霉霉歌词 中文翻译",
+        "onboard_time": 1704351510,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190566,
+        "num": 190566,
+        "word": "杨幂银河星空套装",
+        "onboard_time": 1704351271,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190456,
+        "num": 190456,
+        "word": "中国驻伊朗大使馆发布安全提醒",
+        "onboard_time": 1704352951,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186739,
+        "num": 186739,
+        "word": "繁花豆瓣评分8.1",
+        "onboard_time": 1704345333,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174958,
+        "num": 174958,
+        "word": "18岁才知道饺子可以不是猪肉馅的",
+        "onboard_time": 1704338971,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186580,
+        "num": 170793,
+        "word": "繁花 没人相信自己要杀青了",
+        "onboard_time": 1704330628,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164688,
+        "num": 164688,
+        "word": "百元千禧龙钞曾涨至3000多元",
+        "onboard_time": 1704348871,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164655,
+        "num": 164655,
+        "word": "明明很困为什么上床后毫无睡意",
+        "onboard_time": 1704343359,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150055,
+        "num": 150055,
+        "word": "出游哈尔滨的南方订单上海最多",
+        "onboard_time": 1704352651,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 148589,
+        "num": 148589,
+        "word": "MCD新MC",
+        "onboard_time": 1704352110,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145275,
+        "num": 145275,
+        "word": "这些化妆品抽检不合格",
+        "onboard_time": 1704348154,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 132114,
+        "num": 132114,
+        "word": "银行客服回应龙年纪念币预售有外挂",
+        "onboard_time": 1704348573,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127983,
+        "num": 127983,
+        "word": "女子欲跳桥瞬间3名路人狂奔救人",
+        "onboard_time": 1704349352,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123947,
+        "num": 123947,
+        "word": "哈尔滨为小土豆连夜撤下破旧公交牌",
+        "onboard_time": 1704299007,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122070,
+        "num": 122070,
+        "word": "哈尔滨顶流企鹅打卡绝美雾凇",
+        "onboard_time": 1704350192,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120725,
+        "num": 120725,
+        "word": "狗狗表达歉意的方式",
+        "onboard_time": 1704353249,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120032,
+        "num": 120032,
+        "word": "人民网评鸣龙少年",
+        "onboard_time": 1704340051,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117079,
+        "num": 117079,
+        "word": "伯远官宣微博之夜",
+        "onboard_time": 1704348750,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107146,
+        "num": 107146,
+        "word": "于正回应五福临门换人",
+        "onboard_time": 1704343715,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}
