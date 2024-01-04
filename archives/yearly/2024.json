@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704410285149,
+  "endTime": 1704411281600,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2027,6 +2027,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 670830,
+      "num": 670830,
+      "word": "哈尔滨一33岁患癌女子离家出走",
+      "onboard_time": 1704403995,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669705,
       "num": 669705,
       "word": "陈妍希兑现瘦十斤flag",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704348032,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 596688,
-      "num": 351331,
-      "word": "服用紧急避孕药后身体会有何变化",
-      "onboard_time": 1704151707,
-      "rank": 30,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [

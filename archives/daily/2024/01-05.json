@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704410285149,
+  "endTime": 1704411281600,
   "band_list": [
     {
       "raw_hot": 1723494,
@@ -43,28 +43,28 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 611457,
-      "num": 611457,
-      "word": "繁花宝总全名叫什么",
-      "onboard_time": 1704378876,
-      "rank": 5,
-      "category": "作品衍生"
+      "raw_hot": 670830,
+      "num": 670830,
+      "word": "哈尔滨一33岁患癌女子离家出走",
+      "onboard_time": 1704403995,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 606315,
-      "num": 606315,
+      "raw_hot": 633935,
+      "num": 633935,
       "word": "女子分享自己7旬爷爷老来得子",
       "onboard_time": 1704378155,
       "rank": 6,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 590862,
-      "num": 590862,
-      "word": "哈尔滨一33岁患癌女子离家出走",
-      "onboard_time": 1704403995,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 611457,
+      "num": 611457,
+      "word": "繁花宝总全名叫什么",
+      "onboard_time": 1704378876,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 472498,
@@ -88,6 +88,22 @@
       "word": "小时代5之鸣龙时代是吧",
       "onboard_time": 1704379176,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 296622,
+      "num": 296622,
+      "word": "老师 你怎么让我奶站过道里",
+      "onboard_time": 1704367953,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 294102,
+      "num": 294102,
+      "word": "繁花里出现了18岁的马伊琍",
+      "onboard_time": 1704366990,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -139,14 +155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240163,
-      "num": 240163,
-      "word": "繁花里出现了18岁的马伊琍",
-      "onboard_time": 1704366990,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 235366,
       "num": 235366,
       "word": "团队称红绿灯的黄学了1个月直播",
@@ -155,19 +163,19 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 232731,
-      "num": 232731,
-      "word": "老师 你怎么让我奶站过道里",
-      "onboard_time": 1704367953,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 218045,
       "num": 133109,
       "word": "女老总KTV楼下被男友用砖砸死",
       "onboard_time": 1704368491,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215054,
+      "num": 215054,
+      "word": "花花玩肚子上的肉肉",
+      "onboard_time": 1704410303,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -193,6 +201,14 @@
       "onboard_time": 1704370471,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165567,
+      "num": 81698,
+      "word": "日本记者吐槽民众给震区寄千纸鹤",
+      "onboard_time": 1704410604,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163594,
@@ -243,6 +259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 131156,
+      "num": 131156,
+      "word": "王晶评价繁花",
+      "onboard_time": 1704374314,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125625,
       "num": 125625,
       "word": "神隐大结局",
@@ -251,12 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115678,
-      "num": 115678,
-      "word": "王晶评价繁花",
-      "onboard_time": 1704374314,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 120975,
+      "num": 120975,
+      "word": "这狍子长了个明星脸",
+      "onboard_time": 1704408139,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 114133,
@@ -267,12 +291,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114086,
+      "num": 114086,
+      "word": "警方通报女子在家中被邻居抢劫杀害",
+      "onboard_time": 1704368073,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107288,
       "num": 107288,
       "word": "易烊千玺破洞针织内搭",
       "onboard_time": 1704372630,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105279,
+      "num": 105279,
+      "word": "央广网评哈尔滨火了",
+      "onboard_time": 1704410544,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104585,
@@ -284,19 +324,19 @@
     },
     {
       "raw_hot": 104426,
-      "num": 69695,
+      "num": 94628,
       "word": "哈尔滨向沈阳借了两只凤凰",
       "onboard_time": 1704403335,
       "rank": 32,
       "category": "旅游"
     },
     {
-      "raw_hot": 104119,
-      "num": 104119,
-      "word": "警方通报女子在家中被邻居抢劫杀害",
-      "onboard_time": 1704368073,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 99240,
+      "num": 99240,
+      "word": "坚持一个月把肾气补回来",
+      "onboard_time": 1704398293,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 97917,
@@ -403,6 +443,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86038,
+      "num": 86038,
+      "word": "2024年总台春晚分会场发布",
+      "onboard_time": 1704371070,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 85773,
+      "num": 85773,
+      "word": "原来烤冷面是真的面",
+      "onboard_time": 1704410665,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 84920,
       "num": 84920,
       "word": "KISS OF LIFE跳了GUILTY",
@@ -427,12 +483,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74030,
-      "num": 82116,
-      "word": "2024年总台春晚分会场发布",
-      "onboard_time": 1704371070,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 73921,
+      "num": 73921,
+      "word": "金桔吃不吃皮",
+      "onboard_time": 1704410845,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 73778,
@@ -441,6 +497,14 @@
       "onboard_time": 1704381397,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72385,
+      "num": 72385,
+      "word": "车厘子价格遭腰斩",
+      "onboard_time": 1704410905,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70464,
@@ -459,12 +523,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 65930,
-      "num": 65930,
-      "word": "坚持一个月把肾气补回来",
-      "onboard_time": 1704398293,
-      "rank": 23,
-      "category": "运动健身"
+      "raw_hot": 67763,
+      "num": 67763,
+      "word": "宋轶杜莎蜡像",
+      "onboard_time": 1704388161,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 66812,
+      "num": 66812,
+      "word": "2024MSI落户成都",
+      "onboard_time": 1704410365,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 65271,
+      "num": 65271,
+      "word": "尔滨果然一点就透",
+      "onboard_time": 1704399493,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 61856,
@@ -475,28 +555,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 56524,
-      "num": 56524,
+      "raw_hot": 61289,
+      "num": 61289,
       "word": "砂糖橘在北极消防站与天安门国旗合影",
       "onboard_time": 1704403573,
       "rank": 46,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54865,
-      "num": 54865,
-      "word": "尔滨果然一点就透",
-      "onboard_time": 1704399493,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 48901,
-      "num": 48901,
-      "word": "宋轶杜莎蜡像",
-      "onboard_time": 1704388161,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 35688,
+      "num": 739529,
+      "word": "全国首个陆缆穿海工程",
+      "onboard_time": 1704371551,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33149,
@@ -513,14 +585,6 @@
       "onboard_time": 1704366331,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29424,
-      "num": 739529,
-      "word": "全国首个陆缆穿海工程",
-      "onboard_time": 1704371551,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20981,
