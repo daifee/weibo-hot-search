@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704350190207,
+  "endTime": 1704352584526,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1099,6 +1099,14 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 929401,
+      "num": 929401,
+      "word": "唐嫣为拍繁花三年没接其他戏",
+      "onboard_time": 1704344076,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 929134,
       "num": 589507,
       "word": "日本多个核电站燃料池水溢出",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1704180514,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 798081,
+      "num": 798081,
+      "word": "小土豆 童年缺失",
+      "onboard_time": 1704349469,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 796230,
@@ -1665,14 +1681,6 @@
       "onboard_time": 1704177630,
       "rank": 6,
       "category": "美食"
-    },
-    {
-      "raw_hot": 717237,
-      "num": 717237,
-      "word": "唐嫣为拍繁花三年没接其他戏",
-      "onboard_time": 1704344076,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 717152,
@@ -2163,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597892,
+      "num": 597892,
+      "word": "财政部部长重磅发声",
+      "onboard_time": 1704348032,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 596688,
       "num": 351331,
       "word": "服用紧急避孕药后身体会有何变化",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704291336,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 546390,
-      "num": 546390,
-      "word": "未来一周日本可能还有强震",
-      "onboard_time": 1704238706,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 544137,
-      "num": 544137,
-      "word": "紧急避孕药的伤害",
-      "onboard_time": 1704290138,
-      "rank": 16,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
