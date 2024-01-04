@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704349410077,
+  "endTime": 1704350190207,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -185,6 +185,14 @@
       "onboard_time": 1704283411,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2045495,
+      "num": 2045495,
+      "word": "微博之夜阵容官宣",
+      "onboard_time": 1704348450,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2042745,
@@ -617,14 +625,6 @@
       "onboard_time": 1704248911,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1242478,
-      "num": 1242478,
-      "word": "微博之夜阵容官宣",
-      "onboard_time": 1704348450,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1239716,
@@ -1667,6 +1667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 717237,
+      "num": 717237,
+      "word": "唐嫣为拍繁花三年没接其他戏",
+      "onboard_time": 1704344076,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 717152,
       "num": 717152,
       "word": "伊朗连环爆炸被指系恐怖袭击",
@@ -1689,6 +1697,14 @@
       "onboard_time": 1704034335,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 707529,
+      "num": 707529,
+      "word": "难怪重庆瘦人多",
+      "onboard_time": 1704348154,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 706337,
@@ -2171,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 589063,
-      "num": 589063,
-      "word": "唐嫣为拍繁花三年没接其他戏",
-      "onboard_time": 1704344076,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 588343,
       "num": 588343,
       "word": "不要再瞎练八段锦了",
@@ -2321,14 +2329,6 @@
       "onboard_time": 1704294760,
       "rank": 32,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 553755,
-      "num": 553755,
-      "word": "难怪重庆瘦人多",
-      "onboard_time": 1704348154,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 553018,
