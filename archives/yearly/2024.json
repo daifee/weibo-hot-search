@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704364599227,
+  "endTime": 1704366923966,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1787,6 +1787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 700503,
+      "num": 700503,
+      "word": "男子证实失联12天父亲已遇害",
+      "onboard_time": 1704364231,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 699601,
       "num": 699601,
       "word": "杨迪回应发未P图",
@@ -1916,7 +1924,7 @@
     },
     {
       "raw_hot": 676207,
-      "num": 676207,
+      "num": 707796,
       "word": "烤地瓜摊主为小土豆准备勺子",
       "onboard_time": 1704361958,
       "rank": 4,
@@ -2145,6 +2153,14 @@
       "onboard_time": 1704272611,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 619831,
+      "num": 619831,
+      "word": "在贵州5天吃了30顿",
+      "onboard_time": 1704362613,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 618045,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704170438,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 557788,
-      "num": 340308,
-      "word": "韩国人已经开始卷脖围了",
-      "onboard_time": 1704344016,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 556630,
-      "num": 556630,
-      "word": "李宇春",
-      "onboard_time": 1704039052,
-      "rank": 46,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

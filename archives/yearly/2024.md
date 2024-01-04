@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/04 18:36:39
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/04 19:15:23
 </p>
 </blockquote>
 <p>
@@ -1353,6 +1353,12 @@ B站2023百大UP主（热度：927768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%81%E5%AE%9E%E5%A4%B1%E8%81%9412%E5%A4%A9%E7%88%B6%E4%BA%B2%E5%B7%B2%E9%81%87%E5%AE%B3%23" target="weibo">
+男子证实失联12天父亲已遇害（热度：700503）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%9B%9E%E5%BA%94%E5%8F%91%E6%9C%AAP%E5%9B%BE%23" target="weibo">
 杨迪回应发未P图（热度：699601）
 </a>
@@ -1623,6 +1629,12 @@ B站2023百大UP主（热度：927768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%B4%B5%E5%B7%9E5%E5%A4%A9%E5%90%83%E4%BA%8630%E9%A1%BF%23" target="weibo">
+在贵州5天吃了30顿（热度：619831）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E4%B8%BA%E8%88%AA%E7%A9%BA%E4%BA%8B%E6%95%85%23" target="weibo">
 日本飞机相撞事故为航空事故（热度：618045）
 </a>
@@ -1799,18 +1811,6 @@ B站2023百大UP主（热度：927768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%88%B6%E4%BA%B2%E6%8C%81%E8%82%A1%E7%9A%84%E5%A4%A9%E7%84%B6%E5%91%86%E5%A5%B6%E8%8C%B6%E8%A2%AB%E9%99%90%E6%B6%88%23" target="weibo">
 关晓彤父亲持股的天然呆奶茶被限消（热度：557985）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%8D%B7%E8%84%96%E5%9B%B4%E4%BA%86%23" target="weibo">
-韩国人已经开始卷脖围了（热度：557788）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%23" target="weibo">
-李宇春（热度：556630）
 </a>
 </li>
 

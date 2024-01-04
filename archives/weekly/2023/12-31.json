@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704364599227,
+  "endTime": 1704366923966,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -2395,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 700503,
+      "num": 700503,
+      "word": "男子证实失联12天父亲已遇害",
+      "onboard_time": 1704364231,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700211,
       "num": 2352137,
       "word": "跨年朋友圈",
@@ -2548,7 +2556,7 @@
     },
     {
       "raw_hot": 676207,
-      "num": 676207,
+      "num": 707796,
       "word": "烤地瓜摊主为小土豆准备勺子",
       "onboard_time": 1704361958,
       "rank": 4,
@@ -2777,6 +2785,14 @@
       "onboard_time": 1704272611,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 619831,
+      "num": 619831,
+      "word": "在贵州5天吃了30顿",
+      "onboard_time": 1704362613,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 618141,
@@ -3273,6 +3289,14 @@
       "onboard_time": 1704106600,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538914,
+      "num": 538914,
+      "word": "樊振东王楚钦3比1何钧杰黄镇廷",
+      "onboard_time": 1704365074,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 534964,
@@ -3843,6 +3867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 472142,
+      "num": 472142,
+      "word": "赵昭仪一句忘年交毁了辛芷蕾多少温柔",
+      "onboard_time": 1704364951,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471645,
       "num": 471645,
       "word": "农行纪念币",
@@ -4011,12 +4043,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 443192,
-      "num": 443192,
-      "word": "在贵州5天吃了30顿",
-      "onboard_time": 1704362613,
-      "rank": 21,
-      "category": "美食"
+      "raw_hot": 445245,
+      "num": 445245,
+      "word": "格力回应玫瑰空调被吐槽又土又贵",
+      "onboard_time": 1704364532,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443073,
@@ -4049,6 +4081,14 @@
       "onboard_time": 1704263969,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440536,
+      "num": 440536,
+      "word": "薛之谦服装品牌羽绒服不合格",
+      "onboard_time": 1704366451,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 438405,
@@ -4915,6 +4955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342006,
+      "num": 342006,
+      "word": "沈耀开大",
+      "onboard_time": 1704365972,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340892,
       "num": 340892,
       "word": "TWS成员首次公开",
@@ -4984,6 +5032,14 @@
       "word": "日本地震已致至少62人死亡",
       "onboard_time": 1704244827,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336823,
+      "num": 336823,
+      "word": "警方通报41岁失联男子遭抢劫遇害",
+      "onboard_time": 1704365133,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -5281,6 +5337,14 @@
       "onboard_time": 1703985150,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308616,
+      "num": 308616,
+      "word": "乔欣和姐姐自拍",
+      "onboard_time": 1704365013,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 308491,
@@ -5745,6 +5809,14 @@
       "onboard_time": 1704011491,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 283044,
+      "num": 283044,
+      "word": "神隐大结局",
+      "onboard_time": 1704366092,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 282936,
@@ -6395,6 +6467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248618,
+      "num": 192992,
+      "word": "郝劭文继女就读的是什么学校",
+      "onboard_time": 1704366331,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248262,
       "num": 248262,
       "word": "LNG 新年的折磨",
@@ -6899,6 +6979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227226,
+      "num": 227226,
+      "word": "张元英桃桃妆",
+      "onboard_time": 1704365491,
+      "rank": 26,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 227099,
       "num": 227099,
       "word": "王一博香槟色飘带上衣",
@@ -6921,6 +7009,14 @@
       "onboard_time": 1703982448,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226738,
+      "num": 226738,
+      "word": "水哥看到日本选手回归慌了",
+      "onboard_time": 1704365731,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 226397,
@@ -8252,7 +8348,7 @@
     },
     {
       "raw_hot": 189295,
-      "num": 276248,
+      "num": 619865,
       "word": "11位广西小砂糖橘东北之旅有多开心",
       "onboard_time": 1704363934,
       "rank": 22,
@@ -8353,6 +8449,14 @@
       "onboard_time": 1704329253,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186922,
+      "num": 186922,
+      "word": "日食记 贵州火锅纪录片",
+      "onboard_time": 1704366213,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 186784,
@@ -9635,6 +9739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158576,
+      "num": 158576,
+      "word": "金手指 100块赚100亿的打工仔",
+      "onboard_time": 1704365370,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158529,
       "num": 158529,
       "word": "B站跨年 补课",
@@ -9889,6 +10001,14 @@
       "onboard_time": 1703943336,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153205,
+      "num": 153205,
+      "word": "高文君少写一个0被淘汰",
+      "onboard_time": 1704366691,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 153190,
@@ -11969,14 +12089,6 @@
       "onboard_time": 1704108939,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105921,
-      "num": 105921,
-      "word": "格力回应玫瑰空调被吐槽又土又贵",
-      "onboard_time": 1704364532,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105742,
