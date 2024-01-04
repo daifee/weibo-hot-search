@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704406629117,
+  "endTime": 1704407684726,
   "band_list": [
     {
       "raw_hot": 1723494,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196516,
+      "num": 89141,
+      "word": "哈尔滨一33岁患癌女子离家出走",
+      "onboard_time": 1704403995,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195292,
       "num": 195292,
       "word": "老师 你怎么让我奶站过道里",
@@ -241,14 +249,6 @@
       "onboard_time": 1704366092,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113055,
-      "num": 59212,
-      "word": "哈尔滨一33岁患癌女子离家出走",
-      "onboard_time": 1704403995,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107288,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 42576,
-      "num": 32403,
+      "num": 36978,
       "word": "哈尔滨向沈阳借了两只凤凰",
       "onboard_time": 1704403335,
       "rank": 32,
@@ -475,20 +475,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 30419,
-      "num": 30220,
+      "raw_hot": 32514,
+      "num": 32514,
+      "word": "砂糖橘在北极消防站与天安门国旗合影",
+      "onboard_time": 1704403573,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30756,
+      "num": 30756,
       "word": "坚持一个月把肾气补回来",
       "onboard_time": 1704398293,
       "rank": 23,
       "category": "运动健身"
     },
     {
-      "raw_hot": 25491,
-      "num": 25491,
-      "word": "砂糖橘在北极消防站与天安门国旗合影",
-      "onboard_time": 1704403573,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 24496,
+      "num": 24496,
+      "word": "尔滨果然一点就透",
+      "onboard_time": 1704399493,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 20981,
@@ -499,11 +507,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 19206,
-      "num": 19206,
-      "word": "尔滨果然一点就透",
-      "onboard_time": 1704399493,
-      "rank": 49,
+      "raw_hot": 15250,
+      "num": 19185,
+      "word": "泼天的富贵考验哈尔滨",
+      "onboard_time": 1704401772,
+      "rank": 44,
       "category": "旅游"
     },
     {
@@ -521,14 +529,6 @@
       "onboard_time": 1704394576,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 13538,
-      "num": 16863,
-      "word": "泼天的富贵考验哈尔滨",
-      "onboard_time": 1704401772,
-      "rank": 44,
-      "category": "旅游"
     },
     {
       "raw_hot": 13454,
