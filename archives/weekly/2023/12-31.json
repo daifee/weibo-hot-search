@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704400483025,
+  "endTime": 1704402956023,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -14099,7 +14099,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 27867,
+      "raw_hot": 28871,
       "num": 19455,
       "word": "坚持一个月把肾气补回来",
       "onboard_time": 1704398293,
@@ -14259,6 +14259,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 15516,
+      "num": 15516,
+      "word": "南部战区南海海域例行巡航",
+      "onboard_time": 1704402073,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15141,
       "num": 19446,
       "word": "想吃甜食怕长肉怎么办",
@@ -14281,6 +14289,14 @@
       "onboard_time": 1704227592,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14507,
+      "num": 14507,
+      "word": "尔滨果然一点就透",
+      "onboard_time": 1704399493,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 14440,
@@ -14313,14 +14329,6 @@
       "onboard_time": 1704309794,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 12952,
-      "num": 12952,
-      "word": "尔滨果然一点就透",
-      "onboard_time": 1704399493,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 12461,
@@ -14409,6 +14417,22 @@
       "onboard_time": 1704313034,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 10018,
+      "num": 10018,
+      "word": "泼天的富贵考验哈尔滨",
+      "onboard_time": 1704401772,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 9622,
+      "num": 9622,
+      "word": "哈尔滨撸白狐",
+      "onboard_time": 1704400934,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 8547,
