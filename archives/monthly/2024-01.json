@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704336008757,
+  "endTime": 1704338322982,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -481,6 +481,14 @@
       "onboard_time": 1704264449,
       "rank": 0,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1388734,
+      "num": 1388734,
+      "word": "今年要办奥运会了",
+      "onboard_time": 1704336449,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1360274,
@@ -1235,6 +1243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 806124,
+      "num": 806124,
+      "word": "胡歌当初不想再演戏的原因",
+      "onboard_time": 1704334589,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 805080,
       "num": 802669,
       "word": "许嵩 可以考虑结婚",
@@ -1827,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 650632,
+      "num": 650632,
+      "word": "伊朗总统誓言报复以色列",
+      "onboard_time": 1704335248,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 647514,
       "num": 647514,
       "word": "江晴朗放弃高考",
@@ -1947,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612964,
+      "num": 612964,
+      "word": "多多买菜本地生活业务已完全暂停",
+      "onboard_time": 1704333028,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609871,
       "num": 609871,
       "word": "孟佳评价金莎孙丞潇感情",
@@ -1977,14 +2009,6 @@
       "onboard_time": 1704152730,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 599161,
-      "num": 575816,
-      "word": "胡歌当初不想再演戏的原因",
-      "onboard_time": 1704334589,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 598294,
@@ -2115,14 +2139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 564362,
-      "num": 564362,
-      "word": "多多买菜本地生活业务已完全暂停",
-      "onboard_time": 1704333028,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 557985,
       "num": 557985,
       "word": "关晓彤父亲持股的天然呆奶茶被限消",
@@ -2161,6 +2177,14 @@
       "onboard_time": 1704294760,
       "rank": 32,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 552625,
+      "num": 552625,
+      "word": "纪念币 外挂",
+      "onboard_time": 1704335668,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 551900,
@@ -2891,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422730,
+      "num": 422730,
+      "word": "2035年全国或有近200万教师过剩",
+      "onboard_time": 1704331769,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418635,
       "num": 418635,
       "word": "何老师 大米爆代表",
@@ -3065,6 +3097,14 @@
       "onboard_time": 1704280052,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 401221,
+      "num": 401221,
+      "word": "支付宝再战社交",
+      "onboard_time": 1704336689,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 400578,
@@ -3275,6 +3315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363846,
+      "num": 363846,
+      "word": "上海S3沪奉高速多车碰撞",
+      "onboard_time": 1704335969,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362948,
       "num": 362948,
       "word": "黄子弘凡 MAMA",
@@ -3371,14 +3419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 348723,
-      "num": 348723,
-      "word": "2035年全国或有近200万教师过剩",
-      "onboard_time": 1704331769,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347887,
       "num": 347887,
       "word": "辛芷蕾 影视综的花都开了",
@@ -3457,14 +3497,6 @@
       "onboard_time": 1704199713,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 338625,
-      "num": 338625,
-      "word": "伊朗总统誓言报复以色列",
-      "onboard_time": 1704335248,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 338183,
@@ -3555,6 +3587,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 325833,
+      "num": 325833,
+      "word": "王皓表情",
+      "onboard_time": 1704337048,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325007,
       "num": 325007,
       "word": "阴阳师 水龙王",
@@ -3588,7 +3628,7 @@
     },
     {
       "raw_hot": 320016,
-      "num": 320016,
+      "num": 453094,
       "word": "中新网评南方小土豆争议",
       "onboard_time": 1704332128,
       "rank": 49,
@@ -3625,6 +3665,14 @@
       "onboard_time": 1704187233,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317129,
+      "num": 317129,
+      "word": "武汉一教授被指偷拍几个G隐私视频",
+      "onboard_time": 1704333990,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316896,
@@ -4003,14 +4051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283763,
-      "num": 283763,
-      "word": "武汉一教授被指偷拍几个G隐私视频",
-      "onboard_time": 1704333990,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282750,
       "num": 282750,
       "word": "A股",
@@ -4033,6 +4073,14 @@
       "onboard_time": 1704040435,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282003,
+      "num": 282003,
+      "word": "巴黎2024年首冠",
+      "onboard_time": 1704336568,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 281980,
@@ -4339,6 +4387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260376,
+      "num": 260376,
+      "word": "因为李宇春才有的跨年演唱会",
+      "onboard_time": 1704336209,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 260154,
       "num": 260154,
       "word": "刷完牙的那刻牙菌斑就开始累积",
@@ -4489,6 +4545,14 @@
       "onboard_time": 1704151647,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247276,
+      "num": 247276,
+      "word": "牛爷爷怎么躺路上了",
+      "onboard_time": 1704335969,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 247075,
@@ -5299,6 +5363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202944,
+      "num": 202944,
+      "word": "一场雾凇让哈尔滨大雪人卡粉了",
+      "onboard_time": 1704337169,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 202407,
       "num": 202407,
       "word": "kms线下签售",
@@ -5448,14 +5520,6 @@
       "word": "今年的哈尔滨本地人也没见过",
       "onboard_time": 1704176014,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197448,
-      "num": 197448,
-      "word": "纪念币 外挂",
-      "onboard_time": 1704335668,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -6027,6 +6091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178867,
+      "num": 178867,
+      "word": "捡到了甄嬛的手机",
+      "onboard_time": 1704337048,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178586,
       "num": 178586,
       "word": "俄罗斯远东地区多地发布海啸预警",
@@ -6547,6 +6619,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163630,
+      "num": 163630,
+      "word": "韩振韩语",
+      "onboard_time": 1704338010,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 163497,
+      "num": 163497,
+      "word": "联系不到i人",
+      "onboard_time": 1704336990,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163440,
       "num": 163440,
       "word": "小狗每次吃饭都要找饭搭子",
@@ -6859,6 +6947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151615,
+      "num": 151615,
+      "word": "李永钦亚巡",
+      "onboard_time": 1704337829,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151586,
       "num": 140537,
       "word": "张杰2024巡演",
@@ -7049,6 +7145,14 @@
       "onboard_time": 1704197974,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145545,
+      "num": 145545,
+      "word": "魏大勋现场直拍",
+      "onboard_time": 1704337288,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 145331,
@@ -7627,14 +7731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127915,
-      "num": 127915,
-      "word": "牛爷爷怎么躺路上了",
-      "onboard_time": 1704335969,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127631,
       "num": 127631,
       "word": "刘嘉玲 侧写大师",
@@ -7745,6 +7841,14 @@
       "onboard_time": 1704154777,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123650,
+      "num": 123650,
+      "word": "陆军开训动员现场治愈强迫症",
+      "onboard_time": 1704338010,
+      "rank": 44,
+      "category": "军事"
     },
     {
       "raw_hot": 123475,
@@ -7929,14 +8033,6 @@
       "onboard_time": 1704206317,
       "rank": 49,
       "category": "汽车,社会新闻"
-    },
-    {
-      "raw_hot": 117291,
-      "num": 117291,
-      "word": "上海S3沪奉高速多车碰撞",
-      "onboard_time": 1704335969,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116582,
