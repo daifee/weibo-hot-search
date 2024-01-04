@@ -1,0 +1,410 @@
+{
+  "runTime": 1704356484266,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1090304,
+        "num": 1090304,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1704348450,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 876968,
+        "num": 876968,
+        "word": "昆凌最强大脑",
+        "onboard_time": 1704342997,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40990,
+        "num": 742454,
+        "word": "陆军2024开训大片有多硬核",
+        "onboard_time": 1704355952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1407407,
+        "num": 737068,
+        "word": "暖阳分手",
+        "onboard_time": 1704352710,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 690458,
+        "num": 690458,
+        "word": "哈佛大学校长 抄袭",
+        "onboard_time": 1704355413,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 600317,
+        "num": 600317,
+        "word": "李在明左侧颈内静脉60%被切断",
+        "onboard_time": 1704343776,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 542439,
+        "num": 542439,
+        "word": "唐嫣为拍繁花三年没接其他戏",
+        "onboard_time": 1704344076,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519440,
+        "num": 519440,
+        "word": "冰雪节哈尔滨放假1天",
+        "onboard_time": 1704354873,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557920,
+        "num": 504261,
+        "word": "小杨哥回应不陪小黄复播",
+        "onboard_time": 1704345392,
+        "rank": 8,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 461029,
+        "num": 461029,
+        "word": "胡歌当初不想再演戏的原因",
+        "onboard_time": 1704334589,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496541,
+        "num": 458651,
+        "word": "什么时候结婚证成打人证了",
+        "onboard_time": 1704342575,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453933,
+        "num": 453933,
+        "word": "洪欣儿子",
+        "onboard_time": 1704342457,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425036,
+        "num": 425036,
+        "word": "余额低于100元不能提现属霸王条款",
+        "onboard_time": 1704338491,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375090,
+        "num": 375090,
+        "word": "难怪重庆瘦人多",
+        "onboard_time": 1704348154,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 369374,
+        "num": 369374,
+        "word": "我国电视开机率跌至30%",
+        "onboard_time": 1704355594,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356965,
+        "num": 356965,
+        "word": "微博之夜去年出圈造型",
+        "onboard_time": 1704355052,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321399,
+        "num": 321399,
+        "word": "东北小哥卖糕点前100斤卖糕点后160斤",
+        "onboard_time": 1704348154,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316923,
+        "num": 316923,
+        "word": "免费拉游客的劳斯莱斯车主找到了",
+        "onboard_time": 1704340173,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306472,
+        "num": 306472,
+        "word": "哈尔滨金凤凰是从沈阳借的",
+        "onboard_time": 1704355353,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 296226,
+        "num": 296226,
+        "word": "多部门介入郝劭文女儿被校园霸凌",
+        "onboard_time": 1704355952,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 326109,
+        "num": 292269,
+        "word": "这个睡眠习惯可能让你提前衰老",
+        "onboard_time": 1704352352,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 320358,
+        "num": 277716,
+        "word": "韩国人已经开始卷脖围了",
+        "onboard_time": 1704344016,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252944,
+        "num": 252944,
+        "word": "女子疑未给20万分手费被男友砸死",
+        "onboard_time": 1704355772,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247993,
+        "num": 247993,
+        "word": "女子出差35天加班71小时后生病猝死",
+        "onboard_time": 1704345392,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243285,
+        "num": 243285,
+        "word": "月薪多少才属于中等收入群体",
+        "onboard_time": 1704344196,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241118,
+        "num": 241118,
+        "word": "于正新剧女演员 换人",
+        "onboard_time": 1704339570,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228776,
+        "num": 228776,
+        "word": "员工连休37天事假被公司开除",
+        "onboard_time": 1704340890,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195386,
+        "num": 195386,
+        "word": "宋亚轩请汪苏泷周深上桌",
+        "onboard_time": 1704355594,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191203,
+        "num": 191203,
+        "word": "高圆圆爸爸强迫赵又廷听京剧",
+        "onboard_time": 1704340475,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189448,
+        "num": 189448,
+        "word": "财政部部长重磅发声",
+        "onboard_time": 1704348032,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 267744,
+        "num": 183737,
+        "word": "王安宇好像偷了赵昭仪的帽子",
+        "onboard_time": 1704356073,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234595,
+        "num": 179758,
+        "word": "沪上阿姨 魔道祖师",
+        "onboard_time": 1704338371,
+        "rank": 31,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 174155,
+        "num": 174155,
+        "word": "繁花豆瓣评分8.1",
+        "onboard_time": 1704345333,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167216,
+        "num": 167216,
+        "word": "今年要办奥运会了",
+        "onboard_time": 1704336449,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154114,
+        "num": 154114,
+        "word": "11个砂糖橘外套是家长选的",
+        "onboard_time": 1704328113,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152774,
+        "num": 152774,
+        "word": "中国驻伊朗大使馆发布安全提醒",
+        "onboard_time": 1704352951,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149249,
+        "num": 149249,
+        "word": "繁花 没人相信自己要杀青了",
+        "onboard_time": 1704330628,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146742,
+        "num": 146742,
+        "word": "杨幂银河星空套装",
+        "onboard_time": 1704351271,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145730,
+        "num": 145730,
+        "word": "发缝大的猫",
+        "onboard_time": 1704349110,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145502,
+        "num": 145502,
+        "word": "尹净汉道枝骏佑 双人杂志",
+        "onboard_time": 1704348991,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 729948,
+        "num": 140995,
+        "word": "小土豆 童年缺失",
+        "onboard_time": 1704349469,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135944,
+        "num": 135944,
+        "word": "郑业成祝绪丹 镜花缘",
+        "onboard_time": 1704341735,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159947,
+        "num": 135743,
+        "word": "刘恋的狗有了对象忘了娘",
+        "onboard_time": 1704354335,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133028,
+        "num": 133028,
+        "word": "伯远官宣微博之夜",
+        "onboard_time": 1704348750,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131794,
+        "num": 131794,
+        "word": "18岁才知道饺子可以不是猪肉馅的",
+        "onboard_time": 1704338971,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130515,
+        "num": 130515,
+        "word": "80岁奶奶带卤猪蹄去看好闺蜜",
+        "onboard_time": 1704354812,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129852,
+        "num": 129852,
+        "word": "圆通韵达京东物流被约谈",
+        "onboard_time": 1704347970,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128941,
+        "num": 128941,
+        "word": "百岁太奶奶给曾孙女戴上婚戒",
+        "onboard_time": 1704356373,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 128393,
+        "num": 128393,
+        "word": "罗翔 得百大如履薄冰",
+        "onboard_time": 1704356373,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123474,
+        "num": 123474,
+        "word": "霉霉歌词 中文翻译",
+        "onboard_time": 1704351510,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}

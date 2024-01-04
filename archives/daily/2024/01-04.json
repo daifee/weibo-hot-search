@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704353646151,
+  "endTime": 1704356484266,
   "band_list": [
     {
       "raw_hot": 2224566,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1407407,
+      "num": 887321,
+      "word": "暖阳分手",
+      "onboard_time": 1704352710,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1404555,
       "num": 1404555,
       "word": "胡歌当初不想再演戏的原因",
@@ -81,14 +89,6 @@
       "onboard_time": 1704345392,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1347202,
-      "num": 887321,
-      "word": "暖阳分手",
-      "onboard_time": 1704352710,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 1184813,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690458,
+      "num": 690458,
+      "word": "哈佛大学校长 抄袭",
+      "onboard_time": 1704355413,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 678655,
       "num": 678655,
       "word": "付豪道歉",
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519440,
+      "num": 519440,
+      "word": "冰雪节哈尔滨放假1天",
+      "onboard_time": 1704354873,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515887,
       "num": 515887,
       "word": "王家卫受害者联盟进新人了",
@@ -523,6 +539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 369374,
+      "num": 369374,
+      "word": "我国电视开机率跌至30%",
+      "onboard_time": 1704355594,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367357,
       "num": 367357,
       "word": "王皓表情",
@@ -563,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356965,
+      "num": 356965,
+      "word": "微博之夜去年出圈造型",
+      "onboard_time": 1704355052,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 349642,
       "num": 349642,
       "word": "甜馨neinei十年后同框",
@@ -587,20 +619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326109,
+      "num": 324626,
+      "word": "这个睡眠习惯可能让你提前衰老",
+      "onboard_time": 1704352352,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 325448,
       "num": 325448,
       "word": "尹净汉道枝骏佑 双人杂志",
       "onboard_time": 1704348991,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 324626,
-      "num": 324626,
-      "word": "这个睡眠习惯可能让你提前衰老",
-      "onboard_time": 1704352352,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 320087,
@@ -627,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306472,
+      "num": 306472,
+      "word": "哈尔滨金凤凰是从沈阳借的",
+      "onboard_time": 1704355353,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 301374,
       "num": 301374,
       "word": "于正回应五福临门换人",
@@ -641,6 +681,14 @@
       "onboard_time": 1704290374,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296226,
+      "num": 296226,
+      "word": "多部门介入郝劭文女儿被校园霸凌",
+      "onboard_time": 1704355952,
+      "rank": 19,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 294529,
@@ -699,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267744,
+      "num": 183737,
+      "word": "王安宇好像偷了赵昭仪的帽子",
+      "onboard_time": 1704356073,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266685,
       "num": 266685,
       "word": "王者S34新赛季",
@@ -729,6 +785,14 @@
       "onboard_time": 1704349110,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252944,
+      "num": 252944,
+      "word": "女子疑未给20万分手费被男友砸死",
+      "onboard_time": 1704355772,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250743,
@@ -1009,6 +1073,14 @@
       "onboard_time": 1704334708,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195386,
+      "num": 195386,
+      "word": "宋亚轩请汪苏泷周深上桌",
+      "onboard_time": 1704355594,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 194946,
@@ -1299,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159947,
+      "num": 135743,
+      "word": "刘恋的狗有了对象忘了娘",
+      "onboard_time": 1704354335,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158162,
       "num": 158162,
       "word": "女子欲跳桥瞬间3名路人狂奔救人",
@@ -1491,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130515,
+      "num": 130515,
+      "word": "80岁奶奶带卤猪蹄去看好闺蜜",
+      "onboard_time": 1704354812,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129335,
       "num": 129335,
       "word": "湖人失误成灾",
@@ -1499,12 +1587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128941,
+      "num": 128941,
+      "word": "百岁太奶奶给曾孙女戴上婚戒",
+      "onboard_time": 1704356373,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 128561,
       "num": 128561,
       "word": "黄子弘凡 玄学巅峰",
       "onboard_time": 1704287613,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128393,
+      "num": 128393,
+      "word": "罗翔 得百大如履薄冰",
+      "onboard_time": 1704356373,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 127735,
@@ -1825,6 +1929,14 @@
       "onboard_time": 1704301040,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 40990,
+      "num": 742454,
+      "word": "陆军2024开训大片有多硬核",
+      "onboard_time": 1704355952,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40194,

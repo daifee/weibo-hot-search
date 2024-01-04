@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704353646151,
+  "endTime": 1704356484266,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1407407,
+      "num": 887321,
+      "word": "暖阳分手",
+      "onboard_time": 1704352710,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1404555,
       "num": 1404555,
       "word": "胡歌当初不想再演戏的原因",
@@ -569,14 +577,6 @@
       "onboard_time": 1704183034,
       "rank": 10,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1347202,
-      "num": 887321,
-      "word": "暖阳分手",
-      "onboard_time": 1704352710,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 1324062,
@@ -1819,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690458,
+      "num": 690458,
+      "word": "哈佛大学校长 抄袭",
+      "onboard_time": 1704355413,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 686888,
       "num": 686888,
       "word": "偶像剧顶配",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704154415,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548815,
-      "num": 548815,
-      "word": "美国哈佛大学校长宣布辞职",
-      "onboard_time": 1704240330,
-      "rank": 8,
-      "category": "教育"
     }
   ],
   "hotgov_list": [
