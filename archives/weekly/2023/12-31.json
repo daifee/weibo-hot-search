@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704371541693,
+  "endTime": 1704372468260,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -1187,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1139131,
+      "num": 1139131,
+      "word": "沈耀承认了抑郁症",
+      "onboard_time": 1704368311,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1134720,
       "num": 853106,
       "word": "甜馨neinei十年后同框",
@@ -1337,14 +1345,6 @@
       "onboard_time": 1704175531,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1053943,
-      "num": 1053943,
-      "word": "沈耀承认了抑郁症",
-      "onboard_time": 1704368311,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1049575,
@@ -1633,6 +1633,14 @@
       "onboard_time": 1704154296,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 927805,
+      "num": 927805,
+      "word": "2024年总台春晚分会场发布",
+      "onboard_time": 1704371070,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 927768,
@@ -2595,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 668880,
+      "num": 444305,
+      "word": "玲子回归砸了夜东京",
+      "onboard_time": 1704370471,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 667738,
       "num": 667738,
       "word": "从此排骨是排骨 年糕是年糕",
@@ -3011,6 +3027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 588731,
+      "num": 588731,
+      "word": "马龙vs林高远",
+      "onboard_time": 1704371551,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 588343,
       "num": 588343,
       "word": "不要再瞎练八段锦了",
@@ -3145,6 +3169,14 @@
       "onboard_time": 1703996011,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567113,
+      "num": 567113,
+      "word": "老师 你怎么让我奶站过道里",
+      "onboard_time": 1704367953,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 566626,
@@ -3747,6 +3779,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 490322,
+      "num": 490322,
+      "word": "沈耀考倒数第一给他爸当生日礼物",
+      "onboard_time": 1704369628,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489932,
       "num": 489932,
       "word": "父母一句话心理医生和朋友全白干",
@@ -3971,6 +4011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469018,
+      "num": 375595,
+      "word": "泰国女星夸赞王鹤棣很帅",
+      "onboard_time": 1704371369,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468177,
       "num": 494227,
       "word": "官方通报青岛一保税仓库起火",
@@ -4057,14 +4105,6 @@
       "onboard_time": 1704121602,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 455280,
-      "num": 455280,
-      "word": "沈耀考倒数第一给他爸当生日礼物",
-      "onboard_time": 1704369628,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 454529,
@@ -4193,14 +4233,6 @@
       "onboard_time": 1704042462,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 432460,
-      "num": 432460,
-      "word": "2024年总台春晚分会场发布",
-      "onboard_time": 1704371070,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 431888,
@@ -4563,14 +4595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391927,
-      "num": 381471,
-      "word": "玲子回归砸了夜东京",
-      "onboard_time": 1704370471,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 391170,
       "num": 325993,
       "word": "点杯奶茶哄自己上班",
@@ -4707,14 +4731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375993,
-      "num": 375993,
-      "word": "老师 你怎么让我奶站过道里",
-      "onboard_time": 1704367953,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 373085,
       "num": 373085,
       "word": "你好香啊 你也是",
@@ -4737,6 +4753,14 @@
       "onboard_time": 1704262409,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 368464,
+      "num": 270709,
+      "word": "女老总KTV楼下被男友用砖砸死",
+      "onboard_time": 1704368491,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367357,
@@ -4840,14 +4864,6 @@
       "word": "中国驻大阪总领馆提醒中国公民加强防范",
       "onboard_time": 1704103057,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360072,
-      "num": 269378,
-      "word": "女老总KTV楼下被男友用砖砸死",
-      "onboard_time": 1704368491,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -5340,7 +5356,7 @@
     },
     {
       "raw_hot": 317911,
-      "num": 267413,
+      "num": 304426,
       "word": "小土豆",
       "onboard_time": 1704370471,
       "rank": 22,
@@ -6435,14 +6451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 257689,
-      "num": 253452,
-      "word": "泰国女星夸赞王鹤棣很帅",
-      "onboard_time": 1704371369,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257502,
       "num": 257502,
       "word": "孙艺洲说要cos吕布",
@@ -6939,6 +6947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232419,
+      "num": 232419,
+      "word": "天蝎座永远心比嘴软",
+      "onboard_time": 1704369393,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232054,
       "num": 232054,
       "word": "甘肃敦煌的旅游现在竟如此之冷淡",
@@ -7001,6 +7017,14 @@
       "onboard_time": 1704013534,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 230614,
+      "num": 230614,
+      "word": "藏海传备案",
+      "onboard_time": 1704371311,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 229947,
@@ -7267,12 +7291,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 221450,
-      "num": 221450,
-      "word": "天蝎座永远心比嘴软",
-      "onboard_time": 1704369393,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 220795,
+      "num": 220795,
+      "word": "无幻加入TES",
+      "onboard_time": 1704371070,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 220625,
@@ -7369,6 +7393,14 @@
       "onboard_time": 1704073714,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 218248,
+      "num": 218248,
+      "word": "原来黑龙江文旅一直在看网友评论",
+      "onboard_time": 1704367892,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 217968,
@@ -7505,14 +7537,6 @@
       "onboard_time": 1704020014,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213542,
-      "num": 213542,
-      "word": "无幻加入TES",
-      "onboard_time": 1704371070,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 212951,
@@ -7673,14 +7697,6 @@
       "onboard_time": 1704025188,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206423,
-      "num": 216020,
-      "word": "原来黑龙江文旅一直在看网友评论",
-      "onboard_time": 1704367892,
-      "rank": 41,
-      "category": "旅游"
     },
     {
       "raw_hot": 206195,
@@ -8161,14 +8177,6 @@
       "onboard_time": 1704080316,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195450,
-      "num": 195450,
-      "word": "藏海传备案",
-      "onboard_time": 1704371311,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 195386,
@@ -11107,6 +11115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135828,
+      "num": 135828,
+      "word": "红绿灯的黄团队回应复播",
+      "onboard_time": 1704372211,
+      "rank": 41,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 135746,
       "num": 135746,
       "word": "格力玫瑰空调",
@@ -13044,7 +13060,7 @@
     },
     {
       "raw_hot": 63054,
-      "num": 154845,
+      "num": 700796,
       "word": "神舟家族将太空家园建设得越来越好",
       "onboard_time": 1704341312,
       "rank": 43,
