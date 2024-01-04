@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704338322982,
+  "endTime": 1704339249623,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1925797,
+      "num": 1925797,
+      "word": "今年要办奥运会了",
+      "onboard_time": 1704336449,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1901372,
       "num": 1901372,
       "word": "日本发现大地震海底断层悬崖",
@@ -792,14 +800,6 @@
       "word": "樊振东重返微博",
       "onboard_time": 1703997569,
       "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1388734,
-      "num": 1388734,
-      "word": "今年要办奥运会了",
-      "onboard_time": 1704336449,
-      "rank": 0,
       "category": "体育"
     },
     {
@@ -1747,6 +1747,14 @@
       "category": "社会新闻,剧集"
     },
     {
+      "raw_hot": 825956,
+      "num": 825956,
+      "word": "胡歌当初不想再演戏的原因",
+      "onboard_time": 1704334589,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 818687,
       "num": 818687,
       "word": "导演是怎么选中屈楚萧演张万森的",
@@ -1785,14 +1793,6 @@
       "onboard_time": 1704244531,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 806124,
-      "num": 806124,
-      "word": "胡歌当初不想再演戏的原因",
-      "onboard_time": 1704334589,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 804307,
@@ -2907,6 +2907,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 553018,
+      "num": 553018,
+      "word": "支付宝再战社交",
+      "onboard_time": 1704336689,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 552625,
       "num": 552625,
       "word": "纪念币 外挂",
@@ -3177,6 +3185,14 @@
       "onboard_time": 1704289473,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 511521,
+      "num": 511521,
+      "word": "沪上阿姨 魔道祖师",
+      "onboard_time": 1704338371,
+      "rank": 8,
+      "category": "美食,动漫"
     },
     {
       "raw_hot": 510234,
@@ -4027,14 +4043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 401221,
-      "num": 401221,
-      "word": "支付宝再战社交",
-      "onboard_time": 1704336689,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 400578,
       "num": 400578,
       "word": "小猫出去打架打输了",
@@ -4267,6 +4275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367357,
+      "num": 367357,
+      "word": "王皓表情",
+      "onboard_time": 1704337048,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365561,
       "num": 365561,
       "word": "田曦薇双马尾彩排照",
@@ -4433,6 +4449,14 @@
       "onboard_time": 1704293501,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 347052,
+      "num": 347052,
+      "word": "余额低于100元不能提现属霸王条款",
+      "onboard_time": 1704338491,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345575,
@@ -4681,14 +4705,6 @@
       "onboard_time": 1704285335,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 325833,
-      "num": 325833,
-      "word": "王皓表情",
-      "onboard_time": 1704337048,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 325007,
@@ -5035,6 +5051,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 294529,
+      "num": 294529,
+      "word": "因为李宇春才有的跨年演唱会",
+      "onboard_time": 1704336209,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 294396,
       "num": 294396,
       "word": "果然女生了解女生不分年龄",
@@ -5151,6 +5175,14 @@
       "num": 288658,
       "word": "王哲林三分绝杀",
       "onboard_time": 1704204215,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 288655,
+      "num": 288655,
+      "word": "巴黎2024年首冠",
+      "onboard_time": 1704336568,
       "rank": 23,
       "category": "体育"
     },
@@ -5305,14 +5337,6 @@
       "onboard_time": 1704040435,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282003,
-      "num": 282003,
-      "word": "巴黎2024年首冠",
-      "onboard_time": 1704336568,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 281980,
@@ -5689,14 +5713,6 @@
       "onboard_time": 1703938714,
       "rank": 18,
       "category": "电影,幽默"
-    },
-    {
-      "raw_hot": 260376,
-      "num": 260376,
-      "word": "因为李宇春才有的跨年演唱会",
-      "onboard_time": 1704336209,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 260154,
@@ -6299,6 +6315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 229289,
+      "num": 229289,
+      "word": "还以为伏地魔复活了",
+      "onboard_time": 1704338670,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228872,
       "num": 228872,
       "word": "虞书欣湖南卫视跨年彩排路透",
@@ -6779,6 +6803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209801,
+      "num": 209801,
+      "word": "18岁才知道饺子可以不是猪肉馅的",
+      "onboard_time": 1704338971,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209611,
       "num": 271056,
       "word": "小女孩 真的你不如让我站着",
@@ -7097,6 +7129,14 @@
       "onboard_time": 1704019235,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199014,
+      "num": 216443,
+      "word": "张雪峰公司储备员工半年工资",
+      "onboard_time": 1704338910,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198770,
@@ -7579,6 +7619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187807,
+      "num": 187807,
+      "word": "捡到了甄嬛的手机",
+      "onboard_time": 1704337048,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187767,
       "num": 187767,
       "word": "双色球",
@@ -7867,14 +7915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 178867,
-      "num": 178867,
-      "word": "捡到了甄嬛的手机",
-      "onboard_time": 1704337048,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 178716,
       "num": 178716,
       "word": "茅台集团年利润首破千亿元",
@@ -8107,6 +8147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174208,
+      "num": 174208,
+      "word": "高校严控重复设置过热专业",
+      "onboard_time": 1704338790,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174047,
       "num": 174047,
       "word": "黑龙江致信感谢游客",
@@ -8243,6 +8291,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 170848,
+      "num": 170848,
+      "word": "联系不到i人",
+      "onboard_time": 1704336990,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170347,
       "num": 968858,
       "word": "这才是新年的意义",
@@ -8257,6 +8313,14 @@
       "onboard_time": 1704288695,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 170204,
+      "num": 170204,
+      "word": "韩振韩语",
+      "onboard_time": 1704338010,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 170177,
@@ -8547,28 +8611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163630,
-      "num": 163630,
-      "word": "韩振韩语",
-      "onboard_time": 1704338010,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 163593,
       "num": 163593,
       "word": "鞠婧祎彩排",
       "onboard_time": 1703979082,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163497,
-      "num": 163497,
-      "word": "联系不到i人",
-      "onboard_time": 1704336990,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 163440,
@@ -8633,6 +8681,14 @@
       "onboard_time": 1704024464,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 161879,
+      "num": 161879,
+      "word": "王珂参加创造营亚洲",
+      "onboard_time": 1704338670,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 161237,
@@ -10187,6 +10243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125655,
+      "num": 125655,
+      "word": "陆军开训动员现场治愈强迫症",
+      "onboard_time": 1704338010,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 125621,
       "num": 125621,
       "word": "在自己出生证明上按下爪印的小狗",
@@ -10281,14 +10345,6 @@
       "onboard_time": 1704154777,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123650,
-      "num": 123650,
-      "word": "陆军开训动员现场治愈强迫症",
-      "onboard_time": 1704338010,
-      "rank": 44,
-      "category": "军事"
     },
     {
       "raw_hot": 123475,
