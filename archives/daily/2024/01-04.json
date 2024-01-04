@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704335348847,
+  "endTime": 1704336008757,
   "band_list": [
     {
       "raw_hot": 1761298,
@@ -27,6 +27,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1056009,
+      "num": 1056009,
+      "word": "我国中等收入人群已达4亿",
+      "onboard_time": 1704332249,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 951561,
       "num": 951561,
       "word": "龙年纪念币",
@@ -41,14 +49,6 @@
       "onboard_time": 1704330628,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 918247,
-      "num": 918247,
-      "word": "我国中等收入人群已达4亿",
-      "onboard_time": 1704332249,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 887735,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 599161,
+      "num": 575816,
+      "word": "胡歌当初不想再演戏的原因",
+      "onboard_time": 1704334589,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 591842,
       "num": 591842,
       "word": "民警多问一句竟发现2名被拐孩子",
@@ -121,6 +129,14 @@
       "onboard_time": 1704291879,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 564362,
+      "num": 564362,
+      "word": "多多买菜本地生活业务已完全暂停",
+      "onboard_time": 1704333028,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556594,
@@ -147,27 +163,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 521472,
-      "num": 521472,
-      "word": "多多买菜本地生活业务已完全暂停",
-      "onboard_time": 1704333028,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 515887,
       "num": 515887,
       "word": "王家卫受害者联盟进新人了",
       "onboard_time": 1704326128,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 485967,
-      "num": 384303,
-      "word": "胡歌当初不想再演戏的原因",
-      "onboard_time": 1704334589,
-      "rank": 10,
       "category": "剧集"
     },
     {
@@ -185,6 +185,14 @@
       "onboard_time": 1704284193,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 459113,
+      "num": 459113,
+      "word": "林允儿续约",
+      "onboard_time": 1704335609,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 451235,
@@ -219,6 +227,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 423359,
+      "num": 423359,
+      "word": "孙怡新剧 谈了两种恋爱",
+      "onboard_time": 1704331532,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401037,
       "num": 401037,
       "word": "王家卫在片场让马伊琍不要低头",
@@ -243,14 +259,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 379082,
-      "num": 379082,
-      "word": "孙怡新剧 谈了两种恋爱",
-      "onboard_time": 1704331532,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 364551,
       "num": 221848,
       "word": "当老公发现了前男友写给我的情书",
@@ -267,12 +275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348723,
+      "num": 348723,
+      "word": "2035年全国或有近200万教师过剩",
+      "onboard_time": 1704331769,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342830,
       "num": 286899,
       "word": "经常不吃早餐更易过胖超重",
       "onboard_time": 1704327572,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 338625,
+      "num": 338625,
+      "word": "伊朗总统誓言报复以色列",
+      "onboard_time": 1704335248,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 333852,
@@ -283,8 +307,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310220,
-      "num": 310220,
+      "raw_hot": 320016,
+      "num": 320016,
       "word": "中新网评南方小土豆争议",
       "onboard_time": 1704332128,
       "rank": 49,
@@ -323,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282749,
-      "num": 282749,
-      "word": "2035年全国或有近200万教师过剩",
-      "onboard_time": 1704331769,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270732,
       "num": 270732,
       "word": "河南一被弃养男婴遭姥姥拒收",
@@ -360,6 +376,14 @@
       "word": "乳腺结节增生改善方法",
       "onboard_time": 1704330332,
       "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 260154,
+      "num": 260154,
+      "word": "刷完牙的那刻牙菌斑就开始累积",
+      "onboard_time": 1704334407,
+      "rank": 22,
       "category": "健康医疗"
     },
     {
@@ -427,20 +451,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237770,
-      "num": 237770,
-      "word": "刷完牙的那刻牙菌斑就开始累积",
-      "onboard_time": 1704334407,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 235728,
       "num": 235728,
       "word": "龙年纪念币钞预约火爆",
       "onboard_time": 1704328772,
       "rank": 24,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 228524,
+      "num": 228524,
+      "word": "赖床30分钟有助改善身体疲惫",
+      "onboard_time": 1704330392,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227414,
@@ -457,14 +481,6 @@
       "onboard_time": 1704330452,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219782,
-      "num": 219782,
-      "word": "赖床30分钟有助改善身体疲惫",
-      "onboard_time": 1704330392,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 212951,
@@ -497,6 +513,22 @@
       "onboard_time": 1704326248,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197699,
+      "num": 197699,
+      "word": "爸妈假装大人的一些证据",
+      "onboard_time": 1704334708,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 197448,
+      "num": 197448,
+      "word": "纪念币 外挂",
+      "onboard_time": 1704335668,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190502,
@@ -627,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167838,
-      "num": 167838,
-      "word": "爸妈假装大人的一些证据",
-      "onboard_time": 1704334708,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 166853,
       "num": 166853,
       "word": "胡歌挨巴掌戏份花絮",
@@ -651,8 +675,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157337,
-      "num": 157337,
+      "raw_hot": 165588,
+      "num": 165588,
+      "word": "视力不好的人眼中的世界",
+      "onboard_time": 1704334407,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 163658,
+      "num": 163658,
       "word": "多家银行APP无法预约纪念币",
       "onboard_time": 1704333328,
       "rank": 35,
@@ -665,14 +697,6 @@
       "onboard_time": 1704329194,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 155892,
-      "num": 155892,
-      "word": "视力不好的人眼中的世界",
-      "onboard_time": 1704334407,
-      "rank": 37,
-      "category": "科学科普"
     },
     {
       "raw_hot": 155123,
@@ -763,19 +787,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127915,
+      "num": 127915,
+      "word": "牛爷爷怎么躺路上了",
+      "onboard_time": 1704335969,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127355,
       "num": 127355,
       "word": "伊朗爆炸肇事者遥控引爆袋子内炸弹",
       "onboard_time": 1704295115,
       "rank": 33,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 124960,
-      "num": 124960,
-      "word": "伊朗总统誓言报复以色列",
-      "onboard_time": 1704335248,
-      "rank": 45,
       "category": "国外时政"
     },
     {
@@ -788,10 +812,18 @@
     },
     {
       "raw_hot": 118114,
-      "num": 984263,
+      "num": 1050744,
       "word": "程序员回乡种小时候味道的西红柿",
       "onboard_time": 1704286775,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117291,
+      "num": 117291,
+      "word": "上海S3沪奉高速多车碰撞",
+      "onboard_time": 1704335969,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
