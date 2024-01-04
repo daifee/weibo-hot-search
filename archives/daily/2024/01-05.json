@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704385369755,
+  "endTime": 1704386363641,
   "band_list": [
     {
       "raw_hot": 1723494,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364047,
+      "num": 364047,
+      "word": "杭州姑娘一句想吃冻梨司机直接下车买",
+      "onboard_time": 1704384626,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335448,
       "num": 335448,
       "word": "小时代5之鸣龙时代是吧",
@@ -123,20 +131,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235366,
+      "num": 235366,
+      "word": "团队称红绿灯的黄学了1个月直播",
+      "onboard_time": 1704380501,
+      "rank": 14,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 218045,
       "num": 133109,
       "word": "女老总KTV楼下被男友用砖砸死",
       "onboard_time": 1704368491,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195762,
-      "num": 195762,
-      "word": "团队称红绿灯的黄学了1个月直播",
-      "onboard_time": 1704380501,
-      "rank": 14,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 195292,
@@ -227,20 +235,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116523,
-      "num": 116523,
-      "word": "杭州姑娘一句想吃冻梨司机直接下车买",
-      "onboard_time": 1704384626,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107288,
       "num": 107288,
       "word": "易烊千玺破洞针织内搭",
       "onboard_time": 1704372630,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105070,
+      "num": 105070,
+      "word": "头发别耳后显脸小方法",
+      "onboard_time": 1704385527,
+      "rank": 29,
+      "category": "美妆"
     },
     {
       "raw_hot": 104585,
@@ -393,6 +401,14 @@
       "onboard_time": 1704361958,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 9182,
+      "num": 739529,
+      "word": "全国首个陆缆穿海工程",
+      "onboard_time": 1704371551,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5735,
