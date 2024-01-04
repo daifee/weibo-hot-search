@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704381558104,
+  "endTime": 1704382461255,
   "band_list": [
     {
       "raw_hot": 8556563,
@@ -243,20 +243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 929565,
+      "num": 929565,
+      "word": "女子分享自己7旬爷爷老来得子",
+      "onboard_time": 1704378155,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929401,
       "num": 929401,
       "word": "唐嫣为拍繁花三年没接其他戏",
       "onboard_time": 1704344076,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 924769,
-      "num": 924769,
-      "word": "女子分享自己7旬爷爷老来得子",
-      "onboard_time": 1704378155,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 904477,
@@ -403,6 +403,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 676064,
+      "num": 676064,
+      "word": "网曝贵阳一马路上夜间多人爬行",
+      "onboard_time": 1704378876,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 668880,
       "num": 529117,
       "word": "玲子回归砸了夜东京",
@@ -528,14 +536,6 @@
       "word": "爱泼斯坦",
       "onboard_time": 1704351930,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572093,
-      "num": 572093,
-      "word": "网曝贵阳一马路上夜间多人爬行",
-      "onboard_time": 1704378876,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -681,6 +681,14 @@
       "onboard_time": 1704326128,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514906,
+      "num": 288309,
+      "word": "外交部回应缅甸炮弹落入云南",
+      "onboard_time": 1704380560,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 514300,
@@ -859,14 +867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 405196,
-      "num": 166364,
-      "word": "外交部回应缅甸炮弹落入云南",
-      "onboard_time": 1704380560,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 401037,
       "num": 401037,
       "word": "王家卫在片场让马伊琍不要低头",
@@ -939,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369245,
+      "num": 321862,
+      "word": "小时代5之鸣龙时代是吧",
+      "onboard_time": 1704379176,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 368464,
       "num": 270709,
       "word": "女老总KTV楼下被男友用砖砸死",
@@ -985,14 +993,6 @@
       "onboard_time": 1704335969,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358689,
-      "num": 321862,
-      "word": "小时代5之鸣龙时代是吧",
-      "onboard_time": 1704379176,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 358264,
@@ -1611,6 +1611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212246,
+      "num": 183924,
+      "word": "阿房宫出土一种杯子专门用来喝露水",
+      "onboard_time": 1704381814,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 211138,
       "num": 211138,
       "word": "高文君少写一个0被淘汰",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1704351271,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 194474,
+      "num": 182447,
+      "word": "龙年纪念币已炒到近千元一套",
+      "onboard_time": 1704381759,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 194369,
@@ -2041,6 +2057,14 @@
       "onboard_time": 1704329374,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 176874,
+      "num": 176874,
+      "word": "超机智青年大会 窒息7分钟",
+      "onboard_time": 1704381397,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 176420,
@@ -2443,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143555,
+      "num": 143555,
+      "word": "AI成精了",
+      "onboard_time": 1704381938,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 142026,
       "num": 142026,
       "word": "喝得醉醉 撞得碎碎",
@@ -2571,6 +2603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133095,
+      "num": 133095,
+      "word": "辛芷蕾 天选李李",
+      "onboard_time": 1704380260,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131794,
       "num": 131794,
       "word": "天启异闻录 克苏鲁",
@@ -2697,14 +2737,6 @@
       "onboard_time": 1704338010,
       "rank": 44,
       "category": "军事"
-    },
-    {
-      "raw_hot": 125026,
-      "num": 125026,
-      "word": "超机智青年大会 窒息7分钟",
-      "onboard_time": 1704381397,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 124321,

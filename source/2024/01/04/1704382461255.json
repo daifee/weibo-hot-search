@@ -1,0 +1,410 @@
+{
+  "runTime": 1704382461255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6678745,
+        "num": 7098088,
+        "word": "广西北海地震",
+        "onboard_time": 1704379117,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085407,
+        "num": 1085407,
+        "word": "哈尔滨惊现15元1个小土豆挂件",
+        "onboard_time": 1704373234,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 7612,
+        "num": 1024778,
+        "word": "神舟家族将太空家园建设得越来越好",
+        "onboard_time": 1704341312,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997296,
+        "num": 997296,
+        "word": "繁花宝总全名叫什么",
+        "onboard_time": 1704378876,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 929565,
+        "num": 929565,
+        "word": "女子分享自己7旬爷爷老来得子",
+        "onboard_time": 1704378155,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676064,
+        "num": 676064,
+        "word": "网曝贵阳一马路上夜间多人爬行",
+        "onboard_time": 1704378876,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445325,
+        "num": 445325,
+        "word": "沈耀承认了抑郁症",
+        "onboard_time": 1704368311,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391099,
+        "num": 391099,
+        "word": "预算两万的出国旅行推荐",
+        "onboard_time": 1704375695,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 418721,
+        "num": 379566,
+        "word": "沈耀 精神弑父",
+        "onboard_time": 1704377499,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289958,
+        "num": 289958,
+        "word": "繁花里出现了18岁的马伊琍",
+        "onboard_time": 1704366990,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514906,
+        "num": 288309,
+        "word": "外交部回应缅甸炮弹落入云南",
+        "onboard_time": 1704380560,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 369245,
+        "num": 279243,
+        "word": "小时代5之鸣龙时代是吧",
+        "onboard_time": 1704379176,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267753,
+        "num": 267753,
+        "word": "老师 你怎么让我奶站过道里",
+        "onboard_time": 1704367953,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246570,
+        "num": 246570,
+        "word": "王晶评价繁花",
+        "onboard_time": 1704374314,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212037,
+        "num": 212037,
+        "word": "格力回应玫瑰空调被吐槽又土又贵",
+        "onboard_time": 1704364532,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254443,
+        "num": 211769,
+        "word": "玲子回归砸了夜东京",
+        "onboard_time": 1704370471,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211206,
+        "num": 211206,
+        "word": "王皓 你赶啥呀兄弟",
+        "onboard_time": 1704376715,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210996,
+        "num": 210996,
+        "word": "繁花",
+        "onboard_time": 1704370772,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204205,
+        "num": 204205,
+        "word": "陈泽去了哈尔滨",
+        "onboard_time": 1704376594,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188802,
+        "num": 188802,
+        "word": "伊朗",
+        "onboard_time": 1704375756,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1133583,
+        "num": 187838,
+        "word": "痞幼谈内衣照事件",
+        "onboard_time": 1704367953,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 339253,
+        "num": 187087,
+        "word": "女大学生跨年夜憋尿4小时进医院",
+        "onboard_time": 1704372692,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310050,
+        "num": 186698,
+        "word": "女老总KTV楼下被男友用砖砸死",
+        "onboard_time": 1704368491,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296510,
+        "num": 185651,
+        "word": "李明德演技",
+        "onboard_time": 1704377192,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254572,
+        "num": 184738,
+        "word": "评论罗伯特",
+        "onboard_time": 1704379659,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 212246,
+        "num": 183924,
+        "word": "阿房宫出土一种杯子专门用来喝露水",
+        "onboard_time": 1704381814,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 194474,
+        "num": 182447,
+        "word": "龙年纪念币已炒到近千元一套",
+        "onboard_time": 1704381759,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182017,
+        "num": 182017,
+        "word": "中共中央政治局常务委员会召开会议",
+        "onboard_time": 1704374792,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176874,
+        "num": 176874,
+        "word": "超机智青年大会 窒息7分钟",
+        "onboard_time": 1704381397,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175971,
+        "num": 175971,
+        "word": "吴宣仪 五福临门",
+        "onboard_time": 1704375633,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164986,
+        "num": 164986,
+        "word": "神隐大结局",
+        "onboard_time": 1704366092,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155414,
+        "num": 155414,
+        "word": "易烊千玺破洞针织内搭",
+        "onboard_time": 1704372630,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154042,
+        "num": 154042,
+        "word": "泰国女星夸赞王鹤棣很帅",
+        "onboard_time": 1704371369,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145717,
+        "num": 145717,
+        "word": "团队称红绿灯的黄学了1个月直播",
+        "onboard_time": 1704380501,
+        "rank": 33,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 143789,
+        "num": 143789,
+        "word": "日本震后失联人数增至179人",
+        "onboard_time": 1704374432,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 143670,
+        "num": 143670,
+        "word": "天蝎座永远心比嘴软",
+        "onboard_time": 1704369393,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143555,
+        "num": 143555,
+        "word": "AI成精了",
+        "onboard_time": 1704381938,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142472,
+        "num": 142472,
+        "word": "警方通报女子在家中被邻居抢劫杀害",
+        "onboard_time": 1704368073,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133095,
+        "num": 133095,
+        "word": "辛芷蕾 天选李李",
+        "onboard_time": 1704380260,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131059,
+        "num": 131059,
+        "word": "2024年总台春晚分会场发布",
+        "onboard_time": 1704371070,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130757,
+        "num": 130757,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1704348450,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128729,
+        "num": 128729,
+        "word": "程雨杉继父恶人先告状",
+        "onboard_time": 1704379236,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126998,
+        "num": 126998,
+        "word": "凤隐元启大婚假戏真做",
+        "onboard_time": 1704381035,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125730,
+        "num": 125730,
+        "word": "偶遇萨摩耶和萨摩不耶",
+        "onboard_time": 1704375453,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124551,
+        "num": 124551,
+        "word": "薛之谦服装品牌羽绒服不合格",
+        "onboard_time": 1704366451,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117086,
+        "num": 117086,
+        "word": "庞博 年会不能停像没有花椒的饭",
+        "onboard_time": 1704376296,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115662,
+        "num": 115662,
+        "word": "烤地瓜摊主为小土豆准备勺子",
+        "onboard_time": 1704361958,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 110909,
+        "num": 110909,
+        "word": "王楚钦3比0张本智和",
+        "onboard_time": 1704375514,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108480,
+        "num": 108480,
+        "word": "小砂糖橘每人配了1个漠河消防员",
+        "onboard_time": 1704359011,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106603,
+        "num": 106603,
+        "word": "哈尔滨冰雪大世界让外国人实名羡慕",
+        "onboard_time": 1704372754,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向伊朗总统致慰问电#"
+    }
+  }
+}
