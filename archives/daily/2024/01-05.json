@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704402956023,
+  "endTime": 1704404062595,
   "band_list": [
     {
       "raw_hot": 1723494,
@@ -451,12 +451,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28871,
-      "num": 19455,
+      "raw_hot": 30419,
+      "num": 20859,
       "word": "坚持一个月把肾气补回来",
       "onboard_time": 1704398293,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 23645,
+      "num": 23645,
+      "word": "南部战区南海海域例行巡航",
+      "onboard_time": 1704402073,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20981,
@@ -467,12 +475,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 15516,
-      "num": 15516,
-      "word": "南部战区南海海域例行巡航",
-      "onboard_time": 1704402073,
+      "raw_hot": 15651,
+      "num": 15651,
+      "word": "尔滨果然一点就透",
+      "onboard_time": 1704399493,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 15242,
+      "num": 15242,
+      "word": "哈尔滨向沈阳借了两只凤凰",
+      "onboard_time": 1704403335,
       "rank": 32,
-      "category": "国内时政"
+      "category": "旅游"
     },
     {
       "raw_hot": 15007,
@@ -481,14 +497,6 @@
       "onboard_time": 1704371551,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14507,
-      "num": 14507,
-      "word": "尔滨果然一点就透",
-      "onboard_time": 1704399493,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 14440,
@@ -507,12 +515,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 10018,
-      "num": 10018,
+      "raw_hot": 11217,
+      "num": 11217,
       "word": "泼天的富贵考验哈尔滨",
       "onboard_time": 1704401772,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 10771,
+      "num": 10771,
+      "word": "砂糖橘在北极消防站与天安门国旗合影",
+      "onboard_time": 1704403573,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9622,
@@ -521,6 +537,14 @@
       "onboard_time": 1704400934,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 9382,
+      "num": 9382,
+      "word": "哈尔滨一33岁患癌女子离家出走",
+      "onboard_time": 1704403995,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5735,
