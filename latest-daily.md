@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/05 00:22:49 ~ 2024/01/05 03:34:38
+本榜单时间：2024/01/05 00:22:49 ~ 2024/01/05 04:18:52
 </p>
 </blockquote>
 <p>
@@ -351,6 +351,12 @@ KISS OF LIFE跳了GUILTY（热度：84920）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E4%B8%80%E4%B8%AA%E6%9C%88%E6%8A%8A%E8%82%BE%E6%B0%94%E8%A1%A5%E5%9B%9E%E6%9D%A5%23" target="weibo">
+坚持一个月把肾气补回来（热度：22083）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232024KPL%E9%80%89%E7%A7%80%E5%A4%A7%E4%BC%9A%23" target="weibo">
 2024KPL选秀大会（热度：20981）
 </a>
@@ -371,6 +377,12 @@ NMIXX概念预告（热度：14440）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BD%E5%9B%BA%E6%80%A7%E8%83%83%E8%83%80%23" target="weibo">
 顽固性胃胀（热度：13454）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E6%9E%9C%E7%84%B6%E4%B8%80%E7%82%B9%E5%B0%B1%E9%80%8F%23" target="weibo">
+尔滨果然一点就透（热度：9989）
 </a>
 </li>
 
