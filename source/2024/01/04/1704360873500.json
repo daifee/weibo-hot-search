@@ -1,0 +1,410 @@
+{
+  "runTime": 1704360873500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1685682,
+        "num": 1685682,
+        "word": "我国电视开机率跌至30%",
+        "onboard_time": 1704355594,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1422260,
+        "num": 1422260,
+        "word": "哈佛大学校长 抄袭",
+        "onboard_time": 1704355413,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 76343,
+        "num": 872718,
+        "word": "陆军2024开训大片有多硬核",
+        "onboard_time": 1704355952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1431215,
+        "num": 831161,
+        "word": "男子想免费升舱大闹致航班取消300人改签",
+        "onboard_time": 1704357332,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708331,
+        "num": 708331,
+        "word": "小砂糖橘每人配了1个漠河消防员",
+        "onboard_time": 1704359011,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616668,
+        "num": 616668,
+        "word": "暖阳分手",
+        "onboard_time": 1704352710,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 599808,
+        "num": 599808,
+        "word": "王安宇好像偷了赵昭仪的帽子",
+        "onboard_time": 1704356073,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570573,
+        "num": 570573,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1704348450,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 526981,
+        "num": 526981,
+        "word": "沈阳回应哈尔滨借金凤凰",
+        "onboard_time": 1704356614,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 447210,
+        "num": 447210,
+        "word": "胡歌当初不想再演戏的原因",
+        "onboard_time": 1704334589,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 805654,
+        "num": 445395,
+        "word": "女子疑未给20万分手费被男友砸死",
+        "onboard_time": 1704355772,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439220,
+        "num": 439220,
+        "word": "李在明左侧颈内静脉60%被切断",
+        "onboard_time": 1704343776,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 428745,
+        "num": 428745,
+        "word": "秦岚 胡先煦可以嫁出去了",
+        "onboard_time": 1704356851,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424709,
+        "num": 424709,
+        "word": "梁靖崑vs邱党",
+        "onboard_time": 1704360031,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354527,
+        "num": 354527,
+        "word": "唐嫣为拍繁花三年没接其他戏",
+        "onboard_time": 1704344076,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353149,
+        "num": 353149,
+        "word": "洪欣儿子",
+        "onboard_time": 1704342457,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318172,
+        "num": 318172,
+        "word": "昆凌最强大脑",
+        "onboard_time": 1704342997,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317728,
+        "num": 317728,
+        "word": "外交部回应中国留学生被美方强制遣返",
+        "onboard_time": 1704357092,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 313072,
+        "num": 313072,
+        "word": "小杨哥回应不陪小黄复播",
+        "onboard_time": 1704345392,
+        "rank": 18,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 296337,
+        "num": 296337,
+        "word": "什么时候结婚证成打人证了",
+        "onboard_time": 1704342575,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339029,
+        "num": 287477,
+        "word": "古茗要上市了",
+        "onboard_time": 1704359192,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 268239,
+        "num": 268239,
+        "word": "韩国人已经开始卷脖围了",
+        "onboard_time": 1704344016,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262044,
+        "num": 262044,
+        "word": "成都一摩托骑手压弯超车事故身亡",
+        "onboard_time": 1704358172,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247135,
+        "num": 247135,
+        "word": "去年国外撤回大量中国学者论文",
+        "onboard_time": 1704358953,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 241197,
+        "num": 241197,
+        "word": "冰雪节哈尔滨放假1天",
+        "onboard_time": 1704354873,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237482,
+        "num": 237482,
+        "word": "WTT",
+        "onboard_time": 1704359732,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231485,
+        "num": 231485,
+        "word": "富二代气质还没培养起来",
+        "onboard_time": 1704358592,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230079,
+        "num": 230079,
+        "word": "这个睡眠习惯可能让你提前衰老",
+        "onboard_time": 1704352352,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205416,
+        "num": 205416,
+        "word": "余额低于100元不能提现属霸王条款",
+        "onboard_time": 1704338491,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198160,
+        "num": 198160,
+        "word": "月薪多少才属于中等收入群体",
+        "onboard_time": 1704344196,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236760,
+        "num": 196764,
+        "word": "多部门介入郝劭文女儿被校园霸凌",
+        "onboard_time": 1704355952,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 194369,
+        "num": 194369,
+        "word": "大江大河之岁月如歌定档",
+        "onboard_time": 1704359853,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189735,
+        "num": 189735,
+        "word": "沪上阿姨 魔道祖师",
+        "onboard_time": 1704338371,
+        "rank": 32,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 184518,
+        "num": 184518,
+        "word": "我们i人虽然不惹事 但也怕事",
+        "onboard_time": 1704360273,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183860,
+        "num": 183860,
+        "word": "难怪重庆瘦人多",
+        "onboard_time": 1704348154,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178069,
+        "num": 178069,
+        "word": "砂糖橘东北游学费用每人预算5千",
+        "onboard_time": 1704357034,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 175819,
+        "num": 175819,
+        "word": "东北小哥卖糕点前100斤卖糕点后160斤",
+        "onboard_time": 1704348154,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174116,
+        "num": 174116,
+        "word": "繁花豆瓣评分8.1",
+        "onboard_time": 1704345333,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161912,
+        "num": 161912,
+        "word": "微博之夜去年出圈造型",
+        "onboard_time": 1704355052,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161479,
+        "num": 161479,
+        "word": "白鲨Goken来了",
+        "onboard_time": 1704360155,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152252,
+        "num": 152252,
+        "word": "中方回应伊朗恐怖袭击事件",
+        "onboard_time": 1704357995,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143153,
+        "num": 143153,
+        "word": "樊振东3比0阿鲁纳",
+        "onboard_time": 1704358172,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132432,
+        "num": 132432,
+        "word": "宋亚轩请汪苏泷周深上桌",
+        "onboard_time": 1704355594,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122301,
+        "num": 122301,
+        "word": "邱党3比2梁靖崑",
+        "onboard_time": 1704360813,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122172,
+        "num": 122172,
+        "word": "钎城热血高校造型",
+        "onboard_time": 1704359373,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121507,
+        "num": 121507,
+        "word": "哈佛校长为何上任半年就辞职",
+        "onboard_time": 1704359493,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120694,
+        "num": 120694,
+        "word": "免费拉游客的劳斯莱斯车主找到了",
+        "onboard_time": 1704340173,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116678,
+        "num": 116678,
+        "word": "蓬松高颅顶教程",
+        "onboard_time": 1704359132,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 115619,
+        "num": 115619,
+        "word": "邱党晋级总决赛四强",
+        "onboard_time": 1704360813,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111927,
+        "num": 111927,
+        "word": "百岁太奶奶给曾孙女戴上婚戒",
+        "onboard_time": 1704356373,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}
