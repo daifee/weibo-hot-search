@@ -1,6 +1,6 @@
 {
   "startTime": 1704298878919,
-  "endTime": 1704342923880,
+  "endTime": 1704345441667,
   "band_list": [
     {
       "raw_hot": 2224566,
@@ -19,12 +19,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1688408,
+      "num": 946974,
+      "word": "什么时候结婚证成打人证了",
+      "onboard_time": 1704342575,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1684957,
+      "num": 941688,
+      "word": "李在明左侧颈内静脉60%被切断",
+      "onboard_time": 1704343776,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1666986,
       "num": 1666986,
       "word": "余额低于100元不能提现属霸王条款",
       "onboard_time": 1704338491,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1548820,
+      "num": 879568,
+      "word": "洪欣儿子",
+      "onboard_time": 1704342457,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 1404555,
@@ -67,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 962409,
+      "num": 962409,
+      "word": "昆凌最强大脑",
+      "onboard_time": 1704342997,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 951561,
       "num": 951561,
       "word": "龙年纪念币",
@@ -81,6 +113,14 @@
       "onboard_time": 1704330628,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 912632,
+      "num": 912632,
+      "word": "员工连休37天事假被公司开除",
+      "onboard_time": 1704340890,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 904477,
@@ -105,6 +145,14 @@
       "onboard_time": 1704339570,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 792545,
+      "num": 792545,
+      "word": "库迪 王一博",
+      "onboard_time": 1704344435,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 789857,
@@ -163,14 +211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 678289,
-      "num": 365408,
-      "word": "员工连休37天事假被公司开除",
-      "onboard_time": 1704340890,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 650632,
       "num": 650632,
       "word": "伊朗总统誓言报复以色列",
@@ -219,20 +259,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 557788,
+      "num": 320842,
+      "word": "韩国人已经开始卷脖围了",
+      "onboard_time": 1704344016,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556594,
       "num": 556594,
       "word": "南京地铁",
       "onboard_time": 1704328834,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 556132,
-      "num": 556132,
-      "word": "洪欣儿子",
-      "onboard_time": 1704342457,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 554321,
@@ -264,6 +304,14 @@
       "word": "清华一本科生转学至双非院校",
       "onboard_time": 1704279337,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542665,
+      "num": 316114,
+      "word": "月薪多少才属于中等收入群体",
+      "onboard_time": 1704344196,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -419,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359974,
+      "num": 309265,
+      "word": "唐嫣为拍繁花三年没接其他戏",
+      "onboard_time": 1704344076,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358264,
       "num": 358264,
       "word": "张雪峰公司储备员工半年工资",
@@ -467,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301374,
+      "num": 301374,
+      "word": "于正回应五福临门换人",
+      "onboard_time": 1704343715,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299336,
       "num": 299336,
       "word": "付豪被驱逐",
@@ -499,20 +563,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286472,
+      "num": 286472,
+      "word": "名字因姓而惊艳",
+      "onboard_time": 1704340653,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270732,
       "num": 270732,
       "word": "河南一被弃养男婴遭姥姥拒收",
       "onboard_time": 1704324082,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270209,
-      "num": 270209,
-      "word": "名字因姓而惊艳",
-      "onboard_time": 1704340653,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 268255,
@@ -545,6 +609,14 @@
       "onboard_time": 1704334407,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 258936,
+      "num": 252365,
+      "word": "繁花豆瓣评分8.1",
+      "onboard_time": 1704345333,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 250743,
@@ -635,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237868,
+      "num": 237868,
+      "word": "龙年纪念币已有高溢价转手",
+      "onboard_time": 1704344856,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 235728,
       "num": 235728,
       "word": "龙年纪念币钞预约火爆",
@@ -667,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227277,
-      "num": 227277,
-      "word": "什么时候结婚证成打人证了",
-      "onboard_time": 1704342575,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224326,
       "num": 224326,
       "word": "他在冰窟中托举孩子直到生命最后一刻",
@@ -683,12 +755,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219334,
+      "num": 219334,
+      "word": "小米回应某厂水军被警方调查",
+      "onboard_time": 1704343534,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 212951,
       "num": 212951,
       "word": "非诚勿扰3 票房",
       "onboard_time": 1704332849,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211089,
+      "num": 211089,
+      "word": "明明很困为什么上床后毫无睡意",
+      "onboard_time": 1704343359,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 211074,
+      "num": 211074,
+      "word": "樊振东管泽元互关",
+      "onboard_time": 1704344674,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 210046,
+      "num": 210046,
+      "word": "好丽友蛋黄派被检出金黄色葡萄球菌",
+      "onboard_time": 1704342633,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 208170,
@@ -705,6 +809,14 @@
       "onboard_time": 1704289657,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 205735,
+      "num": 205735,
+      "word": "小杨哥徒弟再复播带货销售额超1000万",
+      "onboard_time": 1704343477,
+      "rank": 35,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 204358,
@@ -747,12 +859,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194908,
-      "num": 194908,
-      "word": "好丽友蛋黄派被检出金黄色葡萄球菌",
-      "onboard_time": 1704342633,
+      "raw_hot": 191605,
+      "num": 191605,
+      "word": "你的童年和我的童年完全不一样",
+      "onboard_time": 1704344674,
       "rank": 37,
-      "category": "美食"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190502,
@@ -963,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158316,
+      "num": 158316,
+      "word": "快船战胜太阳",
+      "onboard_time": 1704345333,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156871,
       "num": 156871,
       "word": "哈尔滨旅游",
@@ -1043,6 +1163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142929,
+      "num": 142929,
+      "word": "小杨哥回应不陪小黄复播",
+      "onboard_time": 1704345392,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 142345,
+      "num": 142345,
+      "word": "哈尔滨惊现雪地骆驼",
+      "onboard_time": 1704345333,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 141894,
       "num": 141894,
       "word": "哈尔滨冰雪大世界遇上汉服一眼万年",
@@ -1073,6 +1209,14 @@
       "onboard_time": 1704342155,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 138384,
+      "num": 138384,
+      "word": "女子出差35天加班71小时后生病猝死",
+      "onboard_time": 1704345392,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138193,
@@ -1275,6 +1419,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 85605,
+      "num": 1430840,
+      "word": "南北文旅开门红释放中国消费活力",
+      "onboard_time": 1704341675,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84918,
       "num": 84918,
       "word": "龙年限定妆造",
@@ -1297,14 +1449,6 @@
       "onboard_time": 1704294279,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 74876,
-      "num": 1430840,
-      "word": "南北文旅开门红释放中国消费活力",
-      "onboard_time": 1704341675,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70949,
@@ -1369,6 +1513,14 @@
       "onboard_time": 1704298948,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48930,
+      "num": 168475,
+      "word": "小米SU7智能座舱实车体验",
+      "onboard_time": 1704344974,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 43284,

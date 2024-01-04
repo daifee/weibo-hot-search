@@ -1,0 +1,410 @@
+{
+  "runTime": 1704345441667,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1104593,
+        "num": 1104593,
+        "word": "余额低于100元不能提现属霸王条款",
+        "onboard_time": 1704338491,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962409,
+        "num": 962409,
+        "word": "昆凌最强大脑",
+        "onboard_time": 1704342997,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85605,
+        "num": 947610,
+        "word": "南北文旅开门红释放中国消费活力",
+        "onboard_time": 1704341675,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1688408,
+        "num": 946974,
+        "word": "什么时候结婚证成打人证了",
+        "onboard_time": 1704342575,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944525,
+        "num": 944525,
+        "word": "今年要办奥运会了",
+        "onboard_time": 1704336449,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1684957,
+        "num": 941688,
+        "word": "李在明左侧颈内静脉60%被切断",
+        "onboard_time": 1704343776,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 912632,
+        "num": 912632,
+        "word": "员工连休37天事假被公司开除",
+        "onboard_time": 1704340890,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1548820,
+        "num": 879568,
+        "word": "洪欣儿子",
+        "onboard_time": 1704342457,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 810490,
+        "num": 810490,
+        "word": "胡歌当初不想再演戏的原因",
+        "onboard_time": 1704334589,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 809120,
+        "num": 809120,
+        "word": "高圆圆爸爸强迫赵又廷听京剧",
+        "onboard_time": 1704340475,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 792545,
+        "num": 792545,
+        "word": "库迪 王一博",
+        "onboard_time": 1704344435,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708120,
+        "num": 708120,
+        "word": "于正新剧女演员 换人",
+        "onboard_time": 1704339570,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 629453,
+        "num": 629453,
+        "word": "郑业成祝绪丹 镜花缘",
+        "onboard_time": 1704341735,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 627755,
+        "num": 627755,
+        "word": "免费拉游客的劳斯莱斯车主找到了",
+        "onboard_time": 1704340173,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506113,
+        "num": 506113,
+        "word": "11个砂糖橘外套是家长选的",
+        "onboard_time": 1704328113,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472881,
+        "num": 472881,
+        "word": "18岁才知道饺子可以不是猪肉馅的",
+        "onboard_time": 1704338971,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392079,
+        "num": 392079,
+        "word": "繁花 没人相信自己要杀青了",
+        "onboard_time": 1704330628,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366647,
+        "num": 366647,
+        "word": "我国中等收入人群已达4亿",
+        "onboard_time": 1704332249,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352936,
+        "num": 352936,
+        "word": "哈尔滨为小土豆连夜撤下破旧公交牌",
+        "onboard_time": 1704299007,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323738,
+        "num": 323738,
+        "word": "人民网评鸣龙少年",
+        "onboard_time": 1704340051,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 557788,
+        "num": 320842,
+        "word": "韩国人已经开始卷脖围了",
+        "onboard_time": 1704344016,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542665,
+        "num": 316114,
+        "word": "月薪多少才属于中等收入群体",
+        "onboard_time": 1704344196,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359974,
+        "num": 309265,
+        "word": "唐嫣为拍繁花三年没接其他戏",
+        "onboard_time": 1704344076,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301374,
+        "num": 301374,
+        "word": "于正回应五福临门换人",
+        "onboard_time": 1704343715,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286472,
+        "num": 286472,
+        "word": "名字因姓而惊艳",
+        "onboard_time": 1704340653,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262897,
+        "num": 262897,
+        "word": "范湉湉繁花演技",
+        "onboard_time": 1704324805,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252810,
+        "num": 252810,
+        "word": "小杨哥徒弟红绿灯的黄再次复播",
+        "onboard_time": 1704329970,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 258936,
+        "num": 252365,
+        "word": "繁花豆瓣评分8.1",
+        "onboard_time": 1704345333,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251113,
+        "num": 251113,
+        "word": "脸上出现5个症状暗示肝不好",
+        "onboard_time": 1704324805,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237868,
+        "num": 237868,
+        "word": "龙年纪念币已有高溢价转手",
+        "onboard_time": 1704344856,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 485832,
+        "num": 232950,
+        "word": "沪上阿姨 魔道祖师",
+        "onboard_time": 1704338371,
+        "rank": 30,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 219334,
+        "num": 219334,
+        "word": "小米回应某厂水军被警方调查",
+        "onboard_time": 1704343534,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211089,
+        "num": 211089,
+        "word": "明明很困为什么上床后毫无睡意",
+        "onboard_time": 1704343359,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211074,
+        "num": 211074,
+        "word": "樊振东管泽元互关",
+        "onboard_time": 1704344674,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210046,
+        "num": 210046,
+        "word": "好丽友蛋黄派被检出金黄色葡萄球菌",
+        "onboard_time": 1704342633,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205735,
+        "num": 205735,
+        "word": "小杨哥徒弟再复播带货销售额超1000万",
+        "onboard_time": 1704343477,
+        "rank": 35,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 199463,
+        "num": 199463,
+        "word": "纪念币 外挂",
+        "onboard_time": 1704335668,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191605,
+        "num": 191605,
+        "word": "你的童年和我的童年完全不一样",
+        "onboard_time": 1704344674,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170674,
+        "num": 170674,
+        "word": "伊朗总统誓言报复以色列",
+        "onboard_time": 1704335248,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 48930,
+        "num": 168475,
+        "word": "小米SU7智能座舱实车体验",
+        "onboard_time": 1704344974,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168163,
+        "num": 168163,
+        "word": "农业银行 系统",
+        "onboard_time": 1704326368,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160426,
+        "num": 160426,
+        "word": "多多买菜本地生活业务已完全暂停",
+        "onboard_time": 1704333028,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158316,
+        "num": 158316,
+        "word": "快船战胜太阳",
+        "onboard_time": 1704345333,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152529,
+        "num": 152529,
+        "word": "支付宝再战社交",
+        "onboard_time": 1704336689,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147825,
+        "num": 147825,
+        "word": "林允儿续约",
+        "onboard_time": 1704335609,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197314,
+        "num": 146857,
+        "word": "王家卫受害者联盟进新人了",
+        "onboard_time": 1704326128,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142929,
+        "num": 142929,
+        "word": "小杨哥回应不陪小黄复播",
+        "onboard_time": 1704345392,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142345,
+        "num": 142345,
+        "word": "哈尔滨惊现雪地骆驼",
+        "onboard_time": 1704345333,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 138384,
+        "num": 138384,
+        "word": "女子出差35天加班71小时后生病猝死",
+        "onboard_time": 1704345392,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136944,
+        "num": 136944,
+        "word": "王珂参加创造营亚洲",
+        "onboard_time": 1704338670,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的壮美华章#"
+    }
+  }
+}
