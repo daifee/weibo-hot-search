@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704458887475,
+  "endTime": 1704460841459,
   "band_list": [
     {
       "raw_hot": 3426448,
@@ -11,8 +11,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 2655263,
-      "num": 2655263,
+      "raw_hot": 2879958,
+      "num": 2879958,
       "word": "孙燕姿妹妹发文断绝关系",
       "onboard_time": 1704457410,
       "rank": 1,
@@ -57,6 +57,14 @@
       "onboard_time": 1704452311,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1419684,
+      "num": 702773,
+      "word": "假球",
+      "onboard_time": 1704459152,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1385205,
@@ -233,6 +241,14 @@
       "onboard_time": 1704442772,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 801791,
+      "num": 801791,
+      "word": "2租客发现11万现金房东免租1年",
+      "onboard_time": 1704456028,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 795594,
@@ -419,12 +435,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 622870,
-      "num": 622870,
-      "word": "2租客发现11万现金房东免租1年",
-      "onboard_time": 1704456028,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 623221,
+      "num": 623221,
+      "word": "朝鲜5日上午进行海军实弹射击演习",
+      "onboard_time": 1704459030,
+      "rank": 6,
+      "category": "军事"
     },
     {
       "raw_hot": 619260,
@@ -739,6 +755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 428413,
+      "num": 428413,
+      "word": "与恶魔有约",
+      "onboard_time": 1704457953,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426698,
       "num": 426698,
       "word": "侵华日军七三一部队遗址前排起长队",
@@ -875,12 +899,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 347368,
+      "num": 277415,
+      "word": "母亲追着让26岁儿子喝完牛奶",
+      "onboard_time": 1704459573,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338192,
       "num": 338192,
       "word": "鸣龙少年 你个癫剧",
       "onboard_time": 1704419068,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335740,
+      "num": 335740,
+      "word": "Doinb更新动态",
+      "onboard_time": 1704459152,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 335448,
@@ -956,7 +996,7 @@
     },
     {
       "raw_hot": 309835,
-      "num": 225900,
+      "num": 243181,
       "word": "1992年上海南京路 繁花还原度",
       "onboard_time": 1704442594,
       "rank": 30,
@@ -1051,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278771,
+      "num": 278771,
+      "word": "豆腐脑敢放糖 粽子就敢包肉",
+      "onboard_time": 1704459152,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 278725,
       "num": 278725,
       "word": "钎城cos莱西奥",
@@ -1081,14 +1129,6 @@
       "onboard_time": 1704449071,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 267687,
-      "num": 267687,
-      "word": "与恶魔有约",
-      "onboard_time": 1704457953,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 267256,
@@ -1355,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217630,
+      "num": 217630,
+      "word": "樊振东4比0林高远",
+      "onboard_time": 1704459453,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217522,
       "num": 217522,
       "word": "央广网评哈尔滨火了",
@@ -1377,6 +1425,14 @@
       "onboard_time": 1704424952,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213736,
+      "num": 213736,
+      "word": "易烊千玺黑西装写真",
+      "onboard_time": 1704460831,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 213698,
@@ -1425,6 +1481,22 @@
       "onboard_time": 1704455550,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206130,
+      "num": 206130,
+      "word": "花样青春",
+      "onboard_time": 1704459691,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204838,
+      "num": 204838,
+      "word": "云南小朋友 三生教育",
+      "onboard_time": 1704458851,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 204583,
@@ -1507,6 +1579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199383,
+      "num": 199383,
+      "word": "名叫张万森林北星的星星",
+      "onboard_time": 1704459092,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198573,
       "num": 198573,
       "word": "谢娜林心如谈及父母痛哭",
@@ -1563,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189730,
+      "num": 189730,
+      "word": "繁花 漫长的季节镜像故事",
+      "onboard_time": 1704459213,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188032,
       "num": 188032,
       "word": "官方通报公职人员兼职日薪税后3000",
@@ -1603,6 +1691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 184711,
+      "num": 184711,
+      "word": "你在尔滨看到的冰居然存了1整年",
+      "onboard_time": 1704459691,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184671,
       "num": 130986,
       "word": "应采儿说袁咏仪是恶毒继母",
@@ -1641,6 +1737,14 @@
       "onboard_time": 1704458553,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183405,
+      "num": 183405,
+      "word": "北京SKP一年卖出265亿",
+      "onboard_time": 1704458912,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 182463,
@@ -1795,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166432,
+      "num": 166432,
+      "word": "肖俊直播",
+      "onboard_time": 1704459513,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166314,
       "num": 166314,
       "word": "吉林抢人辽宁摇人",
@@ -1825,6 +1937,14 @@
       "onboard_time": 1704364532,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163077,
+      "num": 163077,
+      "word": "雷鸣跳舞",
+      "onboard_time": 1704460230,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 162448,
@@ -2291,14 +2411,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 122707,
-      "num": 122707,
-      "word": "云南小朋友 三生教育",
-      "onboard_time": 1704458851,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 121881,
       "num": 121881,
       "word": "中国这位司机师傅有F1驾照",
@@ -2489,6 +2601,14 @@
       "onboard_time": 1704425072,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100552,
+      "num": 128809,
+      "word": "银河时代来了",
+      "onboard_time": 1704460773,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 97917,
@@ -2763,6 +2883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 16143,
+      "num": 716927,
+      "word": "中国航天员26年出征太空12次",
+      "onboard_time": 1704460656,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15250,
       "num": 19185,
       "word": "泼天的富贵考验哈尔滨",
@@ -2796,7 +2924,7 @@
     },
     {
       "raw_hot": 7655,
-      "num": 173638,
+      "num": 270594,
       "word": "中国航天员大队26岁生日快乐",
       "onboard_time": 1704412950,
       "rank": 34,
