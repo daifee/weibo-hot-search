@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704447262475,
+  "endTime": 1704449954935,
   "band_list": [
     {
       "raw_hot": 3426448,
@@ -9,6 +9,14 @@
       "onboard_time": 1704437310,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2415048,
+      "num": 726169,
+      "word": "霍金",
+      "onboard_time": 1704447812,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1723550,
@@ -59,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1203583,
+      "num": 1203583,
+      "word": "你会花29999买玫瑰空调吗",
+      "onboard_time": 1704442412,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1149253,
       "num": 1149253,
       "word": "央视曝河南距今2300年的赵长城被拦腰截断",
@@ -80,14 +96,6 @@
       "word": "南阳一公职人员兼职日薪税后3000",
       "onboard_time": 1704430360,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1080950,
-      "num": 1080950,
-      "word": "你会花29999买玫瑰空调吗",
-      "onboard_time": 1704442412,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -131,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 992427,
+      "num": 992427,
+      "word": "看王家卫怎么拍分手",
+      "onboard_time": 1704446132,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 982862,
       "num": 982862,
       "word": "网曝贵阳一马路上夜间多人爬行",
@@ -145,6 +161,14 @@
       "onboard_time": 1704416372,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 900352,
+      "num": 900352,
+      "word": "汪小姐吃的排骨年糕外卖量暴涨200%",
+      "onboard_time": 1704448713,
+      "rank": 8,
+      "category": "社会新闻,作品衍生"
     },
     {
       "raw_hot": 896342,
@@ -387,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576830,
+      "num": 576830,
+      "word": "五条悟回归",
+      "onboard_time": 1704448111,
+      "rank": 11,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 574257,
       "num": 574257,
       "word": "李一桐蜘蛛精妆造",
@@ -427,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550217,
+      "num": 550217,
+      "word": "周深 曾毅在凤凰传奇的作用",
+      "onboard_time": 1704444573,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 549493,
       "num": 549493,
       "word": "警方通报女大学生摆摊被威胁",
       "onboard_time": 1704440733,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545384,
+      "num": 545384,
+      "word": "我们的翻译官定档",
+      "onboard_time": 1704447152,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 540660,
@@ -516,7 +564,7 @@
     },
     {
       "raw_hot": 474993,
-      "num": 474993,
+      "num": 1040853,
       "word": "双胞胎兄弟一个守国一个守家",
       "onboard_time": 1704435153,
       "rank": 34,
@@ -577,6 +625,14 @@
       "onboard_time": 1704410905,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432043,
+      "num": 337347,
+      "word": "长期喝奶茶会加重焦虑感",
+      "onboard_time": 1704446372,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 426698,
@@ -651,6 +707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 375570,
+      "num": 375570,
+      "word": "逆风如解意 容易摸胸肌",
+      "onboard_time": 1704448414,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367766,
       "num": 249907,
       "word": "怎么会有人暗恋同事啊",
@@ -683,12 +747,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 351938,
-      "num": 351938,
-      "word": "周深 曾毅在凤凰传奇的作用",
-      "onboard_time": 1704444573,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 354487,
+      "num": 354487,
+      "word": "魏晨知道你们这么拍他吗",
+      "onboard_time": 1704446912,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 338192,
@@ -720,6 +784,14 @@
       "word": "小砂糖橘老家景区对东北老铁免门票",
       "onboard_time": 1704421708,
       "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 324755,
+      "num": 324755,
+      "word": "九寨沟 淡季",
+      "onboard_time": 1704446673,
+      "rank": 30,
       "category": "旅游"
     },
     {
@@ -859,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268721,
+      "num": 268721,
+      "word": "RIIZE空降",
+      "onboard_time": 1704449071,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266535,
       "num": 266535,
       "word": "南方宝宝在东北阿姨赞美声中迷失",
@@ -899,11 +979,11 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 260466,
-      "num": 260466,
-      "word": "长期喝奶茶会加重焦虑感",
-      "onboard_time": 1704446372,
-      "rank": 20,
+      "raw_hot": 259321,
+      "num": 960661,
+      "word": "冻梨摆盘后又出地瓜配勺",
+      "onboard_time": 1704449071,
+      "rank": 4,
       "category": "美食"
     },
     {
@@ -929,6 +1009,14 @@
       "onboard_time": 1704427775,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 243141,
+      "num": 243141,
+      "word": "田嘉瑞 虽然吐血但没关系",
+      "onboard_time": 1704447571,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 242246,
@@ -979,20 +1067,20 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 226991,
-      "num": 190334,
-      "word": "九寨沟 淡季",
-      "onboard_time": 1704446673,
-      "rank": 30,
-      "category": "旅游"
+      "raw_hot": 230181,
+      "num": 230181,
+      "word": "尔滨1天掏出1堆野生大熊猫",
+      "onboard_time": 1704447272,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 226415,
-      "num": 260772,
-      "word": "看王家卫怎么拍分手",
-      "onboard_time": 1704446132,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 227332,
+      "num": 937789,
+      "word": "黑龙江这是集体进入宠娃模式了",
+      "onboard_time": 1704448233,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226057,
@@ -1123,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204530,
+      "num": 204530,
+      "word": "人为了吃蛋糕能干出什么事",
+      "onboard_time": 1704448890,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202898,
       "num": 202898,
       "word": "美军一轰炸机坠毁",
@@ -1219,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186750,
+      "num": 186750,
+      "word": "这个班真是不养闲人啊",
+      "onboard_time": 1704447629,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185727,
       "num": 185727,
       "word": "2024一些旺自己的小方法",
@@ -1265,14 +1369,6 @@
       "onboard_time": 1704432213,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183733,
-      "num": 183733,
-      "word": "魏晨知道你们这么拍他吗",
-      "onboard_time": 1704446912,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 182344,
@@ -1403,12 +1499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162177,
-      "num": 162177,
-      "word": "我们的翻译官定档",
-      "onboard_time": 1704447152,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 162361,
+      "num": 162361,
+      "word": "戚薇团队 澡堂刺客",
+      "onboard_time": 1704448233,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 161065,
@@ -1537,6 +1633,14 @@
       "onboard_time": 1704444154,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 147299,
+      "num": 147299,
+      "word": "最受欢迎动漫男角色",
+      "onboard_time": 1704449372,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 145597,
@@ -1691,6 +1795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 128570,
+      "num": 128570,
+      "word": "韩剧京城怪物",
+      "onboard_time": 1704447513,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127510,
       "num": 127510,
       "word": "邓为假日帆船大片",
@@ -1787,6 +1899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120666,
+      "num": 120666,
+      "word": "张新成马尔代夫vlog",
+      "onboard_time": 1704449671,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117747,
       "num": 117747,
       "word": "成都雪友捡到手机可爱藏不住了",
@@ -1880,6 +2000,14 @@
       "word": "易烊千玺破洞针织内搭",
       "onboard_time": 1704372630,
       "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105380,
+      "num": 105380,
+      "word": "微博之夜猜阵容",
+      "onboard_time": 1704447393,
+      "rank": 49,
       "category": "作品衍生"
     },
     {
@@ -2163,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45671,
+      "num": 1156577,
+      "word": "新型能源体系建设提速",
+      "onboard_time": 1704445952,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38909,
       "num": 1167350,
       "word": "天宫机械臂视角看治愈系地球",
@@ -2177,14 +2313,6 @@
       "onboard_time": 1704388460,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 31559,
-      "num": 1156577,
-      "word": "新型能源体系建设提速",
-      "onboard_time": 1704445952,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30205,

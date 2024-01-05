@@ -1,0 +1,410 @@
+{
+  "runTime": 1704449954935,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1203583,
+        "num": 1203583,
+        "word": "你会花29999买玫瑰空调吗",
+        "onboard_time": 1704442412,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272015,
+        "num": 1040853,
+        "word": "双胞胎兄弟一个守国一个守家",
+        "onboard_time": 1704435153,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45671,
+        "num": 1015825,
+        "word": "新型能源体系建设提速",
+        "onboard_time": 1704445952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992427,
+        "num": 992427,
+        "word": "看王家卫怎么拍分手",
+        "onboard_time": 1704446132,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259321,
+        "num": 960661,
+        "word": "冻梨摆盘后又出地瓜配勺",
+        "onboard_time": 1704449071,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 946406,
+        "num": 946406,
+        "word": "苹果终于不用手动设置节假日日历了",
+        "onboard_time": 1704441272,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 227332,
+        "num": 937789,
+        "word": "黑龙江这是集体进入宠娃模式了",
+        "onboard_time": 1704448233,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 930096,
+        "num": 930096,
+        "word": "朝鲜向韩国西部海域发射200多发海岸炮",
+        "onboard_time": 1704437310,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 900352,
+        "num": 900352,
+        "word": "汪小姐吃的排骨年糕外卖量暴涨200%",
+        "onboard_time": 1704448713,
+        "rank": 8,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 736402,
+        "num": 736402,
+        "word": "央视曝河南距今2300年的赵长城被拦腰截断",
+        "onboard_time": 1704440311,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2415048,
+        "num": 726169,
+        "word": "霍金",
+        "onboard_time": 1704447812,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576830,
+        "num": 576830,
+        "word": "五条悟回归",
+        "onboard_time": 1704448111,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 550217,
+        "num": 550217,
+        "word": "周深 曾毅在凤凰传奇的作用",
+        "onboard_time": 1704444573,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545384,
+        "num": 545384,
+        "word": "我们的翻译官定档",
+        "onboard_time": 1704447152,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 537588,
+        "num": 537588,
+        "word": "南宁赠送哈尔滨200吨砂糖橘",
+        "onboard_time": 1704443194,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453567,
+        "num": 453567,
+        "word": "尔滨啊",
+        "onboard_time": 1704442772,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 375570,
+        "num": 375570,
+        "word": "逆风如解意 容易摸胸肌",
+        "onboard_time": 1704448414,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368195,
+        "num": 368195,
+        "word": "中方回应韩方称朝鲜发射200多发海岸炮",
+        "onboard_time": 1704443251,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354487,
+        "num": 354487,
+        "word": "魏晨知道你们这么拍他吗",
+        "onboard_time": 1704446912,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342547,
+        "num": 342547,
+        "word": "网曝福彩主持人提前播报中奖球号",
+        "onboard_time": 1704440974,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432043,
+        "num": 337347,
+        "word": "长期喝奶茶会加重焦虑感",
+        "onboard_time": 1704446372,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 324755,
+        "num": 324755,
+        "word": "九寨沟 淡季",
+        "onboard_time": 1704446673,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 285291,
+        "num": 285291,
+        "word": "确认纽约街头流浪男子是复旦校友",
+        "onboard_time": 1704441512,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281299,
+        "num": 281299,
+        "word": "抗癌博主琪琪弗去世",
+        "onboard_time": 1704437491,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271203,
+        "num": 271203,
+        "word": "韩国西部海域延坪岛向居民下达躲避令",
+        "onboard_time": 1704434132,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268721,
+        "num": 268721,
+        "word": "RIIZE空降",
+        "onboard_time": 1704449071,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255063,
+        "num": 255063,
+        "word": "陈星旭身材",
+        "onboard_time": 1704443251,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243141,
+        "num": 243141,
+        "word": "田嘉瑞 虽然吐血但没关系",
+        "onboard_time": 1704447571,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230181,
+        "num": 230181,
+        "word": "尔滨1天掏出1堆野生大熊猫",
+        "onboard_time": 1704447272,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209688,
+        "num": 209688,
+        "word": "大鹏请来了周星驰",
+        "onboard_time": 1704440195,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204530,
+        "num": 204530,
+        "word": "人为了吃蛋糕能干出什么事",
+        "onboard_time": 1704448890,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201286,
+        "num": 201286,
+        "word": "换乘恋爱3新cp交往13年",
+        "onboard_time": 1704442653,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198482,
+        "num": 198482,
+        "word": "浙江小孩到东北叫什么",
+        "onboard_time": 1704445651,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186750,
+        "num": 186750,
+        "word": "这个班真是不养闲人啊",
+        "onboard_time": 1704447629,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184721,
+        "num": 184721,
+        "word": "秦岚被外国人合照",
+        "onboard_time": 1704440851,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170574,
+        "num": 170574,
+        "word": "1992年上海南京路 繁花还原度",
+        "onboard_time": 1704442594,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162361,
+        "num": 162361,
+        "word": "戚薇团队 澡堂刺客",
+        "onboard_time": 1704448233,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158227,
+        "num": 158227,
+        "word": "爱泼斯坦文件牵出霍金",
+        "onboard_time": 1704425431,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153105,
+        "num": 153105,
+        "word": "猫嫌小鸟吵主人嫌猫吵",
+        "onboard_time": 1704446493,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148991,
+        "num": 148991,
+        "word": "长春整活了",
+        "onboard_time": 1704444995,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147299,
+        "num": 147299,
+        "word": "最受欢迎动漫男角色",
+        "onboard_time": 1704449372,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 138971,
+        "num": 138971,
+        "word": "警方通报女大学生摆摊被威胁",
+        "onboard_time": 1704440733,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135978,
+        "num": 135978,
+        "word": "真正的穷鬼套餐",
+        "onboard_time": 1704440069,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128570,
+        "num": 128570,
+        "word": "韩剧京城怪物",
+        "onboard_time": 1704447513,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121739,
+        "num": 121739,
+        "word": "娜扎的童年是一个巨大的甄嬛传",
+        "onboard_time": 1704443430,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120869,
+        "num": 120869,
+        "word": "山西省考公告",
+        "onboard_time": 1704446312,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120666,
+        "num": 120666,
+        "word": "张新成马尔代夫vlog",
+        "onboard_time": 1704449671,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115775,
+        "num": 115775,
+        "word": "D社称李善均遗书内容不实",
+        "onboard_time": 1704438932,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105936,
+        "num": 105936,
+        "word": "美军一轰炸机坠毁",
+        "onboard_time": 1704443312,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 105380,
+        "num": 105380,
+        "word": "微博之夜猜阵容",
+        "onboard_time": 1704447393,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局常务委员会召开会议#"
+    }
+  }
+}
