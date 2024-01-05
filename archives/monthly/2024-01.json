@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704468855716,
+  "endTime": 1704471671726,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -915,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1158511,
+      "num": 1158511,
+      "word": "百事被家乐福封杀",
+      "onboard_time": 1704466713,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1154144,
       "num": 1154144,
       "word": "纽约",
@@ -1080,14 +1088,6 @@
       "word": "网曝福彩主持人提前播报中奖球号",
       "onboard_time": 1704440974,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1067533,
-      "num": 1067533,
-      "word": "百事被家乐福封杀",
-      "onboard_time": 1704466713,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -4699,6 +4699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 388509,
+      "num": 388509,
+      "word": "一般漂亮章若楠",
+      "onboard_time": 1704467374,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385837,
       "num": 385837,
       "word": "王珂参加创造营亚洲",
@@ -6041,14 +6049,6 @@
       "onboard_time": 1704077792,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279619,
-      "num": 279619,
-      "word": "一般漂亮章若楠",
-      "onboard_time": 1704467374,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 279015,
@@ -8115,6 +8115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201478,
+      "num": 201478,
+      "word": "久坐久站久躺哪个对身体伤害最大",
+      "onboard_time": 1704468576,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 201184,
       "num": 201184,
       "word": "不亚于图书馆30秒的外卖评价",
@@ -8505,14 +8513,6 @@
       "onboard_time": 1704381759,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 194474,
-      "num": 194474,
-      "word": "久坐久站久躺哪个对身体伤害最大",
-      "onboard_time": 1704468576,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 194369,
@@ -10145,6 +10145,14 @@
       "onboard_time": 1704113018,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161996,
+      "num": 161996,
+      "word": "张艺兴cos天天跺脚",
+      "onboard_time": 1704470431,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 161479,
@@ -13025,6 +13033,14 @@
       "onboard_time": 1704426393,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 82873,
+      "num": 82873,
+      "word": "妈妈用川普带孩子川渝人破防了",
+      "onboard_time": 1704469353,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81052,
