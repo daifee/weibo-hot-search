@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704460841459,
+  "endTime": 1704461634985,
   "band_list": [
     {
       "raw_hot": 3426448,
@@ -51,20 +51,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1453975,
+      "num": 702773,
+      "word": "假球",
+      "onboard_time": 1704459152,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1425040,
       "num": 1425040,
       "word": "租客退租留下宫里宫气家具",
       "onboard_time": 1704452311,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1419684,
-      "num": 702773,
-      "word": "假球",
-      "onboard_time": 1704459152,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1385205,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 859798,
+      "num": 859798,
+      "word": "2租客发现11万现金房东免租1年",
+      "onboard_time": 1704456028,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 854493,
       "num": 299479,
       "word": "萝莉岛",
@@ -241,14 +249,6 @@
       "onboard_time": 1704442772,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 801791,
-      "num": 801791,
-      "word": "2租客发现11万现金房东免租1年",
-      "onboard_time": 1704456028,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 795594,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500754,
+      "num": 500754,
+      "word": "与恶魔有约",
+      "onboard_time": 1704457953,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497377,
       "num": 497377,
       "word": "陈奕迅 如今人的品味变差了",
@@ -755,14 +763,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 428413,
-      "num": 428413,
-      "word": "与恶魔有约",
-      "onboard_time": 1704457953,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 426698,
       "num": 426698,
       "word": "侵华日军七三一部队遗址前排起长队",
@@ -809,6 +809,14 @@
       "onboard_time": 1704427293,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396069,
+      "num": 396069,
+      "word": "豆腐脑敢放糖 粽子就敢包肉",
+      "onboard_time": 1704459152,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 395035,
@@ -891,20 +899,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 354533,
+      "num": 277415,
+      "word": "母亲追着让26岁儿子喝完牛奶",
+      "onboard_time": 1704459573,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354487,
       "num": 354487,
       "word": "魏晨知道你们这么拍他吗",
       "onboard_time": 1704446912,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 347368,
-      "num": 277415,
-      "word": "母亲追着让26岁儿子喝完牛奶",
-      "onboard_time": 1704459573,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338192,
@@ -1011,6 +1019,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 300641,
+      "num": 300641,
+      "word": "易烊千玺黑西装写真",
+      "onboard_time": 1704460831,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 298050,
       "num": 298050,
       "word": "王楚钦4比0邱党",
@@ -1091,14 +1107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 278771,
-      "num": 278771,
-      "word": "豆腐脑敢放糖 粽子就敢包肉",
-      "onboard_time": 1704459152,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 278725,
       "num": 278725,
       "word": "钎城cos莱西奥",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1704385527,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 257817,
+      "num": 257817,
+      "word": "名叫张万森林北星的星星",
+      "onboard_time": 1704459092,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 257101,
@@ -1427,14 +1443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213736,
-      "num": 213736,
-      "word": "易烊千玺黑西装写真",
-      "onboard_time": 1704460831,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 213698,
       "num": 213698,
       "word": "特斯拉召回超160万辆车",
@@ -1579,14 +1587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199383,
-      "num": 199383,
-      "word": "名叫张万森林北星的星星",
-      "onboard_time": 1704459092,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 198573,
       "num": 198573,
       "word": "谢娜林心如谈及父母痛哭",
@@ -1625,6 +1625,14 @@
       "onboard_time": 1704453749,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193235,
+      "num": 193235,
+      "word": "年会不能停",
+      "onboard_time": 1704461133,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 193230,
@@ -1739,8 +1747,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183405,
-      "num": 183405,
+      "raw_hot": 183430,
+      "num": 183430,
       "word": "北京SKP一年卖出265亿",
       "onboard_time": 1704458912,
       "rank": 38,
@@ -2091,6 +2099,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 145734,
+      "num": 145734,
+      "word": "家长半夜给班主任打电话学生遭怒怼",
+      "onboard_time": 1704461431,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145597,
       "num": 145597,
       "word": "哈尔滨文创冰箱贴还有AR动画",
@@ -2145,6 +2161,14 @@
       "onboard_time": 1704430715,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144026,
+      "num": 144026,
+      "word": "哈尔滨 没一点子深沉",
+      "onboard_time": 1704461254,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 143889,
@@ -2233,6 +2257,14 @@
       "onboard_time": 1704436231,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135117,
+      "num": 135117,
+      "word": "萧鼎 林峰原来这么厉害",
+      "onboard_time": 1704461313,
+      "rank": 45,
+      "category": "读书作家"
     },
     {
       "raw_hot": 134449,
@@ -2443,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115479,
+      "num": 115479,
+      "word": "吉林男篮vs辽宁男篮",
+      "onboard_time": 1704461615,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114581,
       "num": 114581,
       "word": "趴着睡危害脊柱",
@@ -2571,6 +2611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103341,
+      "num": 183416,
+      "word": "银河时代来了",
+      "onboard_time": 1704460773,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 102448,
       "num": 102448,
       "word": "尔滨淘学企鹅是见过世面的",
@@ -2601,14 +2649,6 @@
       "onboard_time": 1704425072,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 100552,
-      "num": 128809,
-      "word": "银河时代来了",
-      "onboard_time": 1704460773,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 97917,
@@ -2873,6 +2913,14 @@
       "onboard_time": 1704366331,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23935,
+      "num": 632969,
+      "word": "乡村振兴追梦人",
+      "onboard_time": 1704460893,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20981,
