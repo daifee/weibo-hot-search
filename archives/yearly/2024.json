@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704461634985,
+  "endTime": 1704464197227,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 1453975,
-      "num": 702773,
+      "num": 753781,
       "word": "假球",
       "onboard_time": 1704459152,
       "rank": 3,
@@ -1323,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 950059,
+      "num": 950059,
+      "word": "豆腐脑敢放糖 粽子就敢包肉",
+      "onboard_time": 1704459152,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 949767,
       "num": 812789,
       "word": "王源破音",
@@ -1531,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 867930,
+      "num": 867930,
+      "word": "赵露思哭到颤抖",
+      "onboard_time": 1704461974,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 863884,
       "num": 863884,
       "word": "韩国西部海域延坪岛向居民下达躲避令",
@@ -1681,6 +1697,14 @@
       "onboard_time": 1704442772,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 824247,
+      "num": 824247,
+      "word": "TVB前主播柳俊江因屋内烧炭身亡",
+      "onboard_time": 1704462213,
+      "rank": 4,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 819550,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1704121419,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 666858,
-      "num": 529758,
-      "word": "日本多条新干线因地震停运",
-      "onboard_time": 1704097419,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 663577,
-      "num": 663577,
-      "word": "郑恺透露繁花与唐嫣结局HE",
-      "onboard_time": 1704249030,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 662304,
-      "num": 662304,
-      "word": "双林3比0小胖头",
-      "onboard_time": 1704451472,
-      "rank": 7,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

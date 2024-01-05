@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704461634985,
+  "endTime": 1704464197227,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 1453975,
-      "num": 702773,
+      "num": 753781,
       "word": "假球",
       "onboard_time": 1704459152,
       "rank": 3,
@@ -1323,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 950059,
+      "num": 950059,
+      "word": "豆腐脑敢放糖 粽子就敢包肉",
+      "onboard_time": 1704459152,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 949767,
       "num": 812789,
       "word": "王源破音",
@@ -1531,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 867930,
+      "num": 867930,
+      "word": "赵露思哭到颤抖",
+      "onboard_time": 1704461974,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 863884,
       "num": 863884,
       "word": "韩国西部海域延坪岛向居民下达躲避令",
@@ -1681,6 +1697,14 @@
       "onboard_time": 1704442772,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 824247,
+      "num": 824247,
+      "word": "TVB前主播柳俊江因屋内烧炭身亡",
+      "onboard_time": 1704462213,
+      "rank": 4,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 819550,
@@ -4427,6 +4451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401672,
+      "num": 349149,
+      "word": "谢娜听到陈乔恩参加婚恋节目的反应",
+      "onboard_time": 1704463054,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401276,
       "num": 401276,
       "word": "王安宇弥补了辛芷蕾的遗憾",
@@ -4467,20 +4499,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 396513,
+      "num": 277415,
+      "word": "母亲追着让26岁儿子喝完牛奶",
+      "onboard_time": 1704459573,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396493,
       "num": 396493,
       "word": "梅德韦杰夫预测2024年",
       "onboard_time": 1704067405,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 396069,
-      "num": 396069,
-      "word": "豆腐脑敢放糖 粽子就敢包肉",
-      "onboard_time": 1704459152,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 395252,
@@ -4891,14 +4923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 354533,
-      "num": 277415,
-      "word": "母亲追着让26岁儿子喝完牛奶",
-      "onboard_time": 1704459573,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354487,
       "num": 354487,
       "word": "魏晨知道你们这么拍他吗",
@@ -5291,6 +5315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 318530,
+      "num": 318530,
+      "word": "王楚钦不占上风都没道理",
+      "onboard_time": 1704461974,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318207,
       "num": 313158,
       "word": "南方小土豆喊东北虎咪咪收获一声冷笑",
@@ -5361,6 +5393,14 @@
       "onboard_time": 1704189335,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315223,
+      "num": 254567,
+      "word": "家长半夜给班主任打电话学生遭怒怼",
+      "onboard_time": 1704461431,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313719,
@@ -8075,6 +8115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198678,
+      "num": 198678,
+      "word": "北京SKP一年卖出265亿",
+      "onboard_time": 1704458912,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 198573,
       "num": 198573,
       "word": "谢娜林心如谈及父母痛哭",
@@ -8379,6 +8427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193430,
+      "num": 193430,
+      "word": "沈阳文旅局长深夜在线听网友支招",
+      "onboard_time": 1704463656,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193390,
       "num": 193390,
       "word": "狼队第五人格",
@@ -8425,6 +8481,14 @@
       "onboard_time": 1704370892,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192534,
+      "num": 192534,
+      "word": "宋亚轩id小肉包脸",
+      "onboard_time": 1704463117,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 192442,
@@ -8883,14 +8947,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 183430,
-      "num": 183430,
-      "word": "北京SKP一年卖出265亿",
-      "onboard_time": 1704458912,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 183142,
       "num": 183142,
       "word": "钎城热血高校造型",
@@ -9153,6 +9209,14 @@
       "onboard_time": 1704267089,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 177414,
+      "num": 177414,
+      "word": "过期化妆品先别扔",
+      "onboard_time": 1704461853,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 177322,
@@ -9731,6 +9795,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 165569,
+      "num": 165569,
+      "word": "拜仁 戴尔",
+      "onboard_time": 1704463597,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165564,
       "num": 165564,
       "word": "胡歌 扛剧",
@@ -9865,6 +9937,14 @@
       "onboard_time": 1704081157,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 162568,
+      "num": 162568,
+      "word": "蓝色监狱",
+      "onboard_time": 1704462213,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 162519,
@@ -10595,6 +10675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146094,
+      "num": 146094,
+      "word": "哈尔滨 没一点子深沉",
+      "onboard_time": 1704461254,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 146088,
       "num": 146088,
       "word": "虞书欣祝绪丹捧花杀青照",
@@ -10609,14 +10697,6 @@
       "onboard_time": 1704197974,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145734,
-      "num": 145734,
-      "word": "家长半夜给班主任打电话学生遭怒怼",
-      "onboard_time": 1704461431,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145597,
@@ -10761,14 +10841,6 @@
       "onboard_time": 1704430715,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 144026,
-      "num": 144026,
-      "word": "哈尔滨 没一点子深沉",
-      "onboard_time": 1704461254,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 143998,
@@ -11360,6 +11432,14 @@
       "word": "袁励岑向鹏 红牌",
       "onboard_time": 1704454412,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132036,
+      "num": 132036,
+      "word": "赵继伟30分15助攻",
+      "onboard_time": 1704463895,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -12739,6 +12819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83394,
+      "num": 341886,
+      "word": "吉利银河E8价格",
+      "onboard_time": 1704461735,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 83276,
       "num": 451726,
       "word": "当咖啡机器人变成新型打工人",
@@ -13267,6 +13355,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 43871,
+      "num": 877376,
+      "word": "乡村振兴追梦人",
+      "onboard_time": 1704460893,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43627,
       "num": 43627,
       "word": "意大利杯",
@@ -13457,14 +13553,6 @@
       "onboard_time": 1704133997,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 23935,
-      "num": 632969,
-      "word": "乡村振兴追梦人",
-      "onboard_time": 1704460893,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22575,
