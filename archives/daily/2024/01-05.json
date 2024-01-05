@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704417350125,
+  "endTime": 1704418628875,
   "band_list": [
     {
       "raw_hot": 1723494,
@@ -11,6 +11,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1381638,
+      "num": 1381638,
+      "word": "iPhone16Pro渲染图曝光",
+      "onboard_time": 1704414874,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1242405,
       "num": 1242405,
       "word": "腾讯破30000的四部剧",
@@ -19,16 +27,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1207050,
-      "num": 1207050,
-      "word": "iPhone16Pro渲染图曝光",
-      "onboard_time": 1704414874,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1132796,
-      "num": 445973,
+      "num": 490846,
       "word": "日本记者吐槽民众给震区寄千纸鹤",
       "onboard_time": 1704410604,
       "rank": 30,
@@ -51,20 +51,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 758528,
+      "num": 758528,
+      "word": "花少5直接打包去中餐厅",
+      "onboard_time": 1704415773,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 751701,
+      "num": 751701,
+      "word": "沈阳文旅局长在线截胡小砂糖橘们",
+      "onboard_time": 1704416372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 737944,
       "num": 737944,
       "word": "五天前vs五天后看繁花",
       "onboard_time": 1704412409,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 733683,
-      "num": 733683,
-      "word": "花少5直接打包去中餐厅",
-      "onboard_time": 1704415773,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 725061,
@@ -81,6 +89,14 @@
       "onboard_time": 1704373234,
       "rank": 4,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 684463,
+      "num": 684463,
+      "word": "韩国年轻人不结婚的理由",
+      "onboard_time": 1704412771,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 670830,
@@ -123,12 +139,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 520830,
-      "num": 520830,
-      "word": "韩国年轻人不结婚的理由",
-      "onboard_time": 1704412771,
-      "rank": 8,
-      "category": "情感"
+      "raw_hot": 493769,
+      "num": 493769,
+      "word": "收红包时的高情商回复",
+      "onboard_time": 1704415354,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 481565,
+      "num": 481565,
+      "word": "老婆力劝范志毅出演繁花",
+      "onboard_time": 1704416791,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 461718,
+      "num": 367964,
+      "word": "宝总 汪小姐",
+      "onboard_time": 1704417151,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 437180,
@@ -179,14 +211,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 302114,
-      "num": 302114,
-      "word": "沈阳文旅局长在线截胡小砂糖橘们",
-      "onboard_time": 1704416372,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296687,
       "num": 296687,
       "word": "鄂伦春自治旗人大常委会主任感谢网友",
@@ -227,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276648,
+      "num": 276648,
+      "word": "小金豆们被哈尔滨小雪狐迷倒了",
+      "onboard_time": 1704417629,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276187,
       "num": 276187,
       "word": "萌兰到家政公司上班了",
@@ -241,14 +273,6 @@
       "onboard_time": 1704412226,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261894,
-      "num": 261894,
-      "word": "收红包时的高情商回复",
-      "onboard_time": 1704415354,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 260642,
@@ -280,14 +304,6 @@
       "word": "沈耀承认了抑郁症",
       "onboard_time": 1704368311,
       "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 237143,
-      "num": 209961,
-      "word": "老婆力劝范志毅出演繁花",
-      "onboard_time": 1704416791,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -345,6 +361,30 @@
       "onboard_time": 1704370471,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170629,
+      "num": 170629,
+      "word": "有一个不健康的习惯叫穷思竭虑",
+      "onboard_time": 1704417811,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 166895,
+      "num": 166895,
+      "word": "丫丫新年第一次亮相",
+      "onboard_time": 1704418350,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166314,
+      "num": 166314,
+      "word": "吉林抢人辽宁摇人",
+      "onboard_time": 1704417870,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163594,
@@ -411,14 +451,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 145802,
-      "num": 145802,
-      "word": "宝总 汪小姐",
-      "onboard_time": 1704417151,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145597,
       "num": 145597,
       "word": "哈尔滨文创冰箱贴还有AR动画",
@@ -459,6 +491,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 126679,
+      "num": 126679,
+      "word": "吸冻梨",
+      "onboard_time": 1704418529,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 125625,
       "num": 125625,
       "word": "神隐大结局",
@@ -491,6 +531,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117501,
+      "num": 117501,
+      "word": "阿宝戴济公帽",
+      "onboard_time": 1704418468,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114581,
+      "num": 114581,
+      "word": "趴着睡危害脊柱",
+      "onboard_time": 1704418587,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 114133,
       "num": 114133,
       "word": "这袍子长了个明星脸",
@@ -504,6 +560,14 @@
       "word": "警方通报女子在家中被邻居抢劫杀害",
       "onboard_time": 1704368073,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107956,
+      "num": 107956,
+      "word": "日本地震已致91人死亡",
+      "onboard_time": 1704418350,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -747,7 +811,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51320,
+      "raw_hot": 51436,
       "num": 911130,
       "word": "全国首个陆缆穿海工程",
       "onboard_time": 1704371551,

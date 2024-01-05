@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704417350125,
+  "endTime": 1704418628875,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -915,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1381638,
+      "num": 1381638,
+      "word": "iPhone16Pro渲染图曝光",
+      "onboard_time": 1704414874,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1372207,
       "num": 1372207,
       "word": "家有儿女 尴尬",
@@ -1091,14 +1099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1207050,
-      "num": 1207050,
-      "word": "iPhone16Pro渲染图曝光",
-      "onboard_time": 1704414874,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1195515,
       "num": 915180,
       "word": "南方小土豆 刻板印象",
@@ -1244,7 +1244,7 @@
     },
     {
       "raw_hot": 1132796,
-      "num": 445973,
+      "num": 490846,
       "word": "日本记者吐槽民众给震区寄千纸鹤",
       "onboard_time": 1704410604,
       "rank": 30,
@@ -2227,6 +2227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 758528,
+      "num": 758528,
+      "word": "花少5直接打包去中餐厅",
+      "onboard_time": 1704415773,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 757202,
       "num": 757202,
       "word": "范湉湉繁花演技",
@@ -2249,6 +2257,14 @@
       "onboard_time": 1704081575,
       "rank": 33,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 751701,
+      "num": 751701,
+      "word": "沈阳文旅局长在线截胡小砂糖橘们",
+      "onboard_time": 1704416372,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 751625,
@@ -2361,14 +2377,6 @@
       "onboard_time": 1704007593,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 733683,
-      "num": 733683,
-      "word": "花少5直接打包去中餐厅",
-      "onboard_time": 1704415773,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 733327,
@@ -2633,6 +2641,14 @@
       "onboard_time": 1704243391,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 684463,
+      "num": 684463,
+      "word": "韩国年轻人不结婚的理由",
+      "onboard_time": 1704412771,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 682112,
@@ -3675,14 +3691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 520830,
-      "num": 520830,
-      "word": "韩国年轻人不结婚的理由",
-      "onboard_time": 1704412771,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 520289,
       "num": 520289,
       "word": "日本地震已致至少73人死亡",
@@ -3923,6 +3931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493769,
+      "num": 493769,
+      "word": "收红包时的高情商回复",
+      "onboard_time": 1704415354,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 492857,
       "num": 414402,
       "word": "沈耀 精神弑父",
@@ -4048,6 +4064,14 @@
       "word": "赵露思后悔拒绝王安宇拍照",
       "onboard_time": 1704164918,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 481565,
+      "num": 481565,
+      "word": "老婆力劝范志毅出演繁花",
+      "onboard_time": 1704416791,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -4225,6 +4249,14 @@
       "onboard_time": 1704240933,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461718,
+      "num": 367964,
+      "word": "宝总 汪小姐",
+      "onboard_time": 1704417151,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 461177,
@@ -5827,14 +5859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302114,
-      "num": 302114,
-      "word": "沈阳文旅局长在线截胡小砂糖橘们",
-      "onboard_time": 1704416372,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301963,
       "num": 301963,
       "word": "今年我一定瘦",
@@ -6371,6 +6395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276648,
+      "num": 276648,
+      "word": "小金豆们被哈尔滨小雪狐迷倒了",
+      "onboard_time": 1704417629,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276560,
       "num": 276560,
       "word": "爷爷忘给孙女买玩具被太奶挥拐催促",
@@ -6649,14 +6681,6 @@
       "onboard_time": 1704150743,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261894,
-      "num": 261894,
-      "word": "收红包时的高情商回复",
-      "onboard_time": 1704415354,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 261792,
@@ -7177,14 +7201,6 @@
       "onboard_time": 1704194912,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237143,
-      "num": 209961,
-      "word": "老婆力劝范志毅出演繁花",
-      "onboard_time": 1704416791,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 237009,
@@ -9851,6 +9867,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 170629,
+      "num": 170629,
+      "word": "有一个不健康的习惯叫穷思竭虑",
+      "onboard_time": 1704417811,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170347,
       "num": 968858,
       "word": "这才是新年的意义",
@@ -10011,6 +10035,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 166895,
+      "num": 166895,
+      "word": "丫丫新年第一次亮相",
+      "onboard_time": 1704418350,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166696,
       "num": 166696,
       "word": "年会不能停 超出预期",
@@ -10032,6 +10064,14 @@
       "word": "东北虎接客南方小土豆擦玻璃互动",
       "onboard_time": 1704183093,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166314,
+      "num": 166314,
+      "word": "吉林抢人辽宁摇人",
+      "onboard_time": 1704417870,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -11131,14 +11171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145802,
-      "num": 145802,
-      "word": "宝总 汪小姐",
-      "onboard_time": 1704417151,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145597,
       "num": 145597,
       "word": "哈尔滨文创冰箱贴还有AR动画",
@@ -12211,6 +12243,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 126679,
+      "num": 126679,
+      "word": "吸冻梨",
+      "onboard_time": 1704418529,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 126567,
       "num": 126567,
       "word": "詹姆斯1分钟连得9分",
@@ -12699,6 +12739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117501,
+      "num": 117501,
+      "word": "阿宝戴济公帽",
+      "onboard_time": 1704418468,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116628,
       "num": 850967,
       "word": "2023走在中国的大地上",
@@ -12761,6 +12809,14 @@
       "onboard_time": 1704297390,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 114581,
+      "num": 114581,
+      "word": "趴着睡危害脊柱",
+      "onboard_time": 1704418587,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114385,
@@ -12937,6 +12993,14 @@
       "onboard_time": 1703983288,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107956,
+      "num": 107956,
+      "word": "日本地震已致91人死亡",
+      "onboard_time": 1704418350,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107637,
@@ -14027,7 +14091,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51320,
+      "raw_hot": 51436,
       "num": 911130,
       "word": "全国首个陆缆穿海工程",
       "onboard_time": 1704371551,

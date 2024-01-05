@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704417350125,
+  "endTime": 1704418628875,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -603,6 +603,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1381638,
+      "num": 1381638,
+      "word": "iPhone16Pro渲染图曝光",
+      "onboard_time": 1704414874,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1369062,
       "num": 1369062,
       "word": "小杨哥回应不陪小黄复播",
@@ -747,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1207050,
-      "num": 1207050,
-      "word": "iPhone16Pro渲染图曝光",
-      "onboard_time": 1704414874,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1195515,
       "num": 915180,
       "word": "南方小土豆 刻板印象",
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 1132796,
-      "num": 445973,
+      "num": 490846,
       "word": "日本记者吐槽民众给震区寄千纸鹤",
       "onboard_time": 1704410604,
       "rank": 30,
@@ -1667,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 758528,
+      "num": 758528,
+      "word": "花少5直接打包去中餐厅",
+      "onboard_time": 1704415773,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 757202,
       "num": 757202,
       "word": "范湉湉繁花演技",
@@ -1689,6 +1697,14 @@
       "onboard_time": 1704081575,
       "rank": 33,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 751701,
+      "num": 751701,
+      "word": "沈阳文旅局长在线截胡小砂糖橘们",
+      "onboard_time": 1704416372,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 751625,
@@ -1769,14 +1785,6 @@
       "onboard_time": 1704412409,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 733683,
-      "num": 733683,
-      "word": "花少5直接打包去中餐厅",
-      "onboard_time": 1704415773,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 733327,
@@ -2001,6 +2009,14 @@
       "onboard_time": 1704243391,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 684463,
+      "num": 684463,
+      "word": "韩国年轻人不结婚的理由",
+      "onboard_time": 1704412771,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 682112,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704179014,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 609071,
-      "num": 609071,
-      "word": "肖程皓发不当言论暂停其主持人工作",
-      "onboard_time": 1704199231,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 606701,
-      "num": 606701,
-      "word": "一等功喜报到家他和家人却被打码",
-      "onboard_time": 1704243453,
-      "rank": 24,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
