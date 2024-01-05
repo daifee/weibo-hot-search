@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704438987975,
+  "endTime": 1704440059976,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3426448,
+      "num": 3426448,
+      "word": "朝鲜向韩国西部海域发射200多发海岸炮",
+      "onboard_time": 1704437310,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 3366080,
       "num": 3366080,
       "word": "刘宇宁哭了",
       "onboard_time": 1704037142,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3275472,
-      "num": 3275472,
-      "word": "朝鲜向韩国西部海域发射200多发海岸炮",
-      "onboard_time": 1704437310,
-      "rank": 0,
-      "category": "国外时政"
     },
     {
       "raw_hot": 3135611,
@@ -2795,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566794,
+      "num": 299689,
+      "word": "网友自曝被毛华锋猥亵跟踪",
+      "onboard_time": 1704437010,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 566732,
       "num": 852570,
       "word": "跨年朋友圈",
@@ -2865,14 +2873,6 @@
       "onboard_time": 1704423093,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 554739,
-      "num": 297964,
-      "word": "网友自曝被毛华锋猥亵跟踪",
-      "onboard_time": 1704437010,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 554321,
@@ -3228,7 +3228,7 @@
     },
     {
       "raw_hot": 509261,
-      "num": 193852,
+      "num": 194011,
       "word": "抗癌博主琪琪弗去世",
       "onboard_time": 1704437491,
       "rank": 20,
@@ -3555,6 +3555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 474993,
+      "num": 474993,
+      "word": "双胞胎兄弟一个守国一个守家",
+      "onboard_time": 1704435153,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474051,
       "num": 474051,
       "word": "元旦加班3倍工资",
@@ -3632,14 +3640,6 @@
       "word": "日本以业务过失致人伤亡嫌疑调查飞机事故",
       "onboard_time": 1704240933,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461272,
-      "num": 461272,
-      "word": "双胞胎兄弟一个守国一个守家",
-      "onboard_time": 1704435153,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -4265,6 +4265,14 @@
       "onboard_time": 1704059234,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384371,
+      "num": 285226,
+      "word": "D社称李善均遗书内容不实",
+      "onboard_time": 1704438932,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 381890,
@@ -5035,6 +5043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 309204,
+      "num": 309204,
+      "word": "侵华日军七三一部队遗址前排起长队",
+      "onboard_time": 1704438870,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308616,
       "num": 308616,
       "word": "乔欣和姐姐自拍",
@@ -5795,6 +5811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262883,
+      "num": 262883,
+      "word": "东部战区2024硬核开练大场面",
+      "onboard_time": 1704437970,
+      "rank": 16,
+      "category": "军事"
+    },
+    {
       "raw_hot": 262188,
       "num": 262188,
       "word": "奚梦瑶回应网友说何猷君不犟嘴",
@@ -5937,6 +5961,14 @@
       "onboard_time": 1704422550,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 255985,
+      "num": 255985,
+      "word": "脱轨官博致歉",
+      "onboard_time": 1704439294,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 255849,
@@ -6811,14 +6843,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 218335,
-      "num": 218335,
-      "word": "东部战区2024硬核开练大场面",
-      "onboard_time": 1704437970,
-      "rank": 16,
-      "category": "军事"
-    },
-    {
       "raw_hot": 218248,
       "num": 218248,
       "word": "原来黑龙江文旅一直在看网友评论",
@@ -7329,6 +7353,14 @@
       "onboard_time": 1704165158,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200393,
+      "num": 200393,
+      "word": "章昊演唱换乘恋爱3OST",
+      "onboard_time": 1704439531,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 200148,
@@ -7891,6 +7923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187928,
+      "num": 187928,
+      "word": "镇政府回应7旬爷爷老来得子",
+      "onboard_time": 1704438995,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187926,
       "num": 187926,
       "word": "消费左移深圳30元就能吃好",
@@ -8371,6 +8411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176083,
+      "num": 153038,
+      "word": "爸爸把孩子放门口给老人惊喜",
+      "onboard_time": 1704439774,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175728,
       "num": 175728,
       "word": "NIP对战BLG",
@@ -8787,6 +8835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166205,
+      "num": 166205,
+      "word": "快递新规3月1日起施行",
+      "onboard_time": 1704439594,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166175,
       "num": 166175,
       "word": "男子证实失联21天父亲已遇害",
@@ -9147,14 +9203,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 157497,
-      "num": 157497,
-      "word": "侵华日军七三一部队遗址前排起长队",
-      "onboard_time": 1704438870,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157045,
       "num": 157045,
       "word": "新马泰均已免签",
@@ -9337,6 +9385,14 @@
       "onboard_time": 1704325825,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153116,
+      "num": 153116,
+      "word": "苹果评级再遭下调",
+      "onboard_time": 1704439712,
+      "rank": 29,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 152648,
@@ -9643,6 +9699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147564,
+      "num": 147564,
+      "word": "哈尔滨玩5天花三千元",
+      "onboard_time": 1704439230,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 147286,
       "num": 147286,
       "word": "交错战线",
@@ -9705,6 +9769,14 @@
       "onboard_time": 1704337288,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145453,
+      "num": 145453,
+      "word": "这样的甘蔗千万别吃",
+      "onboard_time": 1704439471,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 145331,
@@ -10235,6 +10307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134449,
+      "num": 134449,
+      "word": "苹果再遭看空",
+      "onboard_time": 1704439471,
+      "rank": 39,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 134246,
       "num": 134246,
       "word": "敢于毫不掩饰地谈论欲望",
@@ -10321,6 +10401,14 @@
       "onboard_time": 1704270631,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131877,
+      "num": 131877,
+      "word": "指纹锁 爆哭的来源",
+      "onboard_time": 1704439410,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 131802,
@@ -10635,20 +10723,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125620,
+      "num": 125620,
+      "word": "多个东北明星网红为家乡打call",
+      "onboard_time": 1704436831,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125455,
       "num": 125455,
       "word": "新年第一天就被狗狗整笑了",
       "onboard_time": 1704100299,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125432,
-      "num": 125432,
-      "word": "多个东北明星网红为家乡打call",
-      "onboard_time": 1704436831,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 125416,
@@ -11209,14 +11297,6 @@
       "onboard_time": 1704256474,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 106492,
-      "num": 106492,
-      "word": "D社称李善均遗书内容不实",
-      "onboard_time": 1704438932,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 106236,

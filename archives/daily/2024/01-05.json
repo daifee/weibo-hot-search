@@ -1,10 +1,10 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704438987975,
+  "endTime": 1704440059976,
   "band_list": [
     {
-      "raw_hot": 3275472,
-      "num": 3275472,
+      "raw_hot": 3426448,
+      "num": 3426448,
       "word": "朝鲜向韩国西部海域发射200多发海岸炮",
       "onboard_time": 1704437310,
       "rank": 0,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566794,
+      "num": 299689,
+      "word": "网友自曝被毛华锋猥亵跟踪",
+      "onboard_time": 1704437010,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555372,
       "num": 555372,
       "word": "电台主持人发表争议言论后涨粉700多万",
@@ -337,14 +345,6 @@
       "onboard_time": 1704423093,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 554739,
-      "num": 297964,
-      "word": "网友自曝被毛华锋猥亵跟踪",
-      "onboard_time": 1704437010,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 540660,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 509261,
-      "num": 193852,
+      "num": 194011,
       "word": "抗癌博主琪琪弗去世",
       "onboard_time": 1704437491,
       "rank": 20,
@@ -411,20 +411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474993,
+      "num": 474993,
+      "word": "双胞胎兄弟一个守国一个守家",
+      "onboard_time": 1704435153,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466982,
       "num": 466982,
       "word": "成毅出妆路透",
       "onboard_time": 1704427715,
       "rank": 19,
       "category": "剧集,美妆"
-    },
-    {
-      "raw_hot": 461272,
-      "num": 461272,
-      "word": "双胞胎兄弟一个守国一个守家",
-      "onboard_time": 1704435153,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441551,
@@ -497,6 +497,14 @@
       "onboard_time": 1704418829,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384371,
+      "num": 285226,
+      "word": "D社称李善均遗书内容不实",
+      "onboard_time": 1704438932,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 376736,
@@ -611,6 +619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 309204,
+      "num": 309204,
+      "word": "侵华日军七三一部队遗址前排起长队",
+      "onboard_time": 1704438870,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296687,
       "num": 296687,
       "word": "鄂伦春自治旗人大常委会主任感谢网友",
@@ -707,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262883,
+      "num": 262883,
+      "word": "东部战区2024硬核开练大场面",
+      "onboard_time": 1704437970,
+      "rank": 16,
+      "category": "军事"
+    },
+    {
       "raw_hot": 260642,
       "num": 260642,
       "word": "头发别耳后显脸小方法",
@@ -721,6 +745,14 @@
       "onboard_time": 1704422550,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 255985,
+      "num": 255985,
+      "word": "脱轨官博致歉",
+      "onboard_time": 1704439294,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 249853,
@@ -811,14 +843,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 218335,
-      "num": 218335,
-      "word": "东部战区2024硬核开练大场面",
-      "onboard_time": 1704437970,
-      "rank": 16,
-      "category": "军事"
-    },
-    {
       "raw_hot": 218045,
       "num": 137249,
       "word": "女老总KTV楼下被男友用砖砸死",
@@ -859,6 +883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200393,
+      "num": 200393,
+      "word": "章昊演唱换乘恋爱3OST",
+      "onboard_time": 1704439531,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199436,
       "num": 199436,
       "word": "梁朝伟模仿老婆大赛获专业评委认可",
@@ -888,6 +920,14 @@
       "word": "官方通报公职人员兼职日薪税后3000",
       "onboard_time": 1704435810,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187928,
+      "num": 187928,
+      "word": "镇政府回应7旬爷爷老来得子",
+      "onboard_time": 1704438995,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -945,6 +985,14 @@
       "onboard_time": 1704434732,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176083,
+      "num": 153038,
+      "word": "爸爸把孩子放门口给老人惊喜",
+      "onboard_time": 1704439774,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 175520,
@@ -1008,6 +1056,14 @@
       "word": "吉林抢人辽宁摇人",
       "onboard_time": 1704417870,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166205,
+      "num": 166205,
+      "word": "快递新规3月1日起施行",
+      "onboard_time": 1704439594,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1075,14 +1131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 157497,
-      "num": 157497,
-      "word": "侵华日军七三一部队遗址前排起长队",
-      "onboard_time": 1704438870,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153933,
       "num": 153933,
       "word": "演员任泉为家乡黑龙江旅游打call",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1704431676,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153116,
+      "num": 153116,
+      "word": "苹果评级再遭下调",
+      "onboard_time": 1704439712,
+      "rank": 29,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 152116,
@@ -1147,12 +1203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147564,
+      "num": 147564,
+      "word": "哈尔滨玩5天花三千元",
+      "onboard_time": 1704439230,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 145597,
       "num": 145597,
       "word": "哈尔滨文创冰箱贴还有AR动画",
       "onboard_time": 1704416372,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145453,
+      "num": 145453,
+      "word": "这样的甘蔗千万别吃",
+      "onboard_time": 1704439471,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 144467,
@@ -1203,6 +1275,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134449,
+      "num": 134449,
+      "word": "苹果再遭看空",
+      "onboard_time": 1704439471,
+      "rank": 39,
+      "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 131877,
+      "num": 131877,
+      "word": "指纹锁 爆哭的来源",
+      "onboard_time": 1704439410,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131156,
       "num": 131156,
       "word": "王晶评价繁花",
@@ -1243,8 +1331,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125432,
-      "num": 125432,
+      "raw_hot": 125620,
+      "num": 125620,
       "word": "多个东北明星网红为家乡打call",
       "onboard_time": 1704436831,
       "rank": 37,
@@ -1377,14 +1465,6 @@
       "onboard_time": 1704372630,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 106492,
-      "num": 106492,
-      "word": "D社称李善均遗书内容不实",
-      "onboard_time": 1704438932,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 104713,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704438987975,
+  "endTime": 1704440059976,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3426448,
+      "num": 3426448,
+      "word": "朝鲜向韩国西部海域发射200多发海岸炮",
+      "onboard_time": 1704437310,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 3366080,
       "num": 3366080,
       "word": "刘宇宁哭了",
       "onboard_time": 1704037142,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3275472,
-      "num": 3275472,
-      "word": "朝鲜向韩国西部海域发射200多发海岸炮",
-      "onboard_time": 1704437310,
-      "rank": 0,
-      "category": "国外时政"
     },
     {
       "raw_hot": 3135611,
