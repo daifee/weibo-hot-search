@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704485917545,
+  "endTime": 1704486883014,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -17105,6 +17105,14 @@
       "onboard_time": 1704309794,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 13072,
+      "num": 13072,
+      "word": "美国12月非农",
+      "onboard_time": 1704486193,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 12461,
