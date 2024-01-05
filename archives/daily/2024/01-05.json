@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704428496456,
+  "endTime": 1704429354805,
   "band_list": [
     {
       "raw_hot": 1723550,
@@ -147,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 678925,
+      "num": 678925,
+      "word": "李荣书退团",
+      "onboard_time": 1704426994,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 670830,
       "num": 670830,
       "word": "哈尔滨一33岁患癌女子离家出走",
@@ -187,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 587022,
+      "num": 587022,
+      "word": "小土豆说哈尔滨菜量太大每天都吃撑",
+      "onboard_time": 1704421529,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568534,
       "num": 568534,
       "word": "杭州姑娘一句想吃冻梨司机直接下车买",
@@ -209,14 +225,6 @@
       "onboard_time": 1704420569,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 538048,
-      "num": 538048,
-      "word": "李荣书退团",
-      "onboard_time": 1704426994,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 523542,
@@ -259,20 +267,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 487870,
-      "num": 487870,
-      "word": "小土豆说哈尔滨菜量太大每天都吃撑",
-      "onboard_time": 1704421529,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 466982,
+      "num": 466982,
+      "word": "成毅出妆路透",
+      "onboard_time": 1704427715,
+      "rank": 19,
+      "category": "剧集,美妆"
     },
     {
-      "raw_hot": 439326,
-      "num": 439326,
+      "raw_hot": 441551,
+      "num": 441551,
       "word": "京考成绩",
       "onboard_time": 1704426512,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 438681,
+      "num": 438681,
+      "word": "死期将至",
+      "onboard_time": 1704428314,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 437180,
@@ -315,12 +331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368158,
+      "num": 368158,
+      "word": "电台主持人发表争议言论后涨粉700多万",
+      "onboard_time": 1704428256,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367766,
       "num": 249907,
       "word": "怎么会有人暗恋同事啊",
       "onboard_time": 1704412467,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 359916,
+      "num": 359916,
+      "word": "冻梨刺身",
+      "onboard_time": 1704428016,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 359015,
@@ -355,8 +387,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319000,
-      "num": 319000,
+      "raw_hot": 324992,
+      "num": 324992,
       "word": "小砂糖橘老家景区对东北老铁免门票",
       "onboard_time": 1704421708,
       "rank": 44,
@@ -387,6 +419,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 304623,
+      "num": 304623,
+      "word": "家人回应7旬爷爷老来得子",
+      "onboard_time": 1704428556,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303299,
+      "num": 303299,
+      "word": "95后夫妻欲攒200万返乡生活",
+      "onboard_time": 1704427293,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296687,
       "num": 296687,
       "word": "鄂伦春自治旗人大常委会主任感谢网友",
@@ -401,14 +449,6 @@
       "onboard_time": 1704367953,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 290010,
-      "num": 290010,
-      "word": "成毅出妆路透",
-      "onboard_time": 1704427715,
-      "rank": 19,
-      "category": "剧集,美妆"
     },
     {
       "raw_hot": 285264,
@@ -449,6 +489,14 @@
       "onboard_time": 1704412226,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266535,
+      "num": 266535,
+      "word": "南方宝宝在东北阿姨赞美声中迷失",
+      "onboard_time": 1704427894,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265775,
@@ -523,6 +571,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 226057,
+      "num": 226057,
+      "word": "大鹏 一段rap把星爷cpu干烧了",
+      "onboard_time": 1704428073,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221042,
       "num": 221042,
       "word": "小米终极辟谣",
@@ -563,14 +619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208909,
-      "num": 208909,
-      "word": "南方宝宝在东北阿姨赞美声中迷失",
-      "onboard_time": 1704427894,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204583,
       "num": 204583,
       "word": "00后女孩把非遗青花瓷穿在身上",
@@ -593,14 +641,6 @@
       "onboard_time": 1704420090,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197021,
-      "num": 197021,
-      "word": "冻梨刺身",
-      "onboard_time": 1704428016,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 185399,
@@ -659,22 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166288,
-      "num": 166288,
-      "word": "大鹏 一段rap把星爷cpu干烧了",
-      "onboard_time": 1704428073,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 165331,
-      "num": 165331,
-      "word": "死期将至",
-      "onboard_time": 1704428314,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163749,
       "num": 163749,
       "word": "极端组织宣称对伊朗爆炸袭击负责",
@@ -696,14 +720,6 @@
       "word": "听障父母摆摊给女儿买人工耳蜗",
       "onboard_time": 1704416734,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161520,
-      "num": 161520,
-      "word": "电台主持人发表争议言论后涨粉700多万",
-      "onboard_time": 1704428256,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -811,14 +827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140956,
-      "num": 140956,
-      "word": "95后夫妻欲攒200万返乡生活",
-      "onboard_time": 1704427293,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140909,
       "num": 140909,
       "word": "尔滨火到股市",
@@ -841,6 +849,14 @@
       "onboard_time": 1704374314,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130943,
+      "num": 130943,
+      "word": "瑞幸降低员工洗手频率",
+      "onboard_time": 1704429275,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130860,
@@ -971,6 +987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106633,
+      "num": 846064,
+      "word": "11个重点场景移动网络信号将增强",
+      "onboard_time": 1704426692,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104713,
       "num": 104713,
       "word": "哈姆与湖人产生分歧",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1704425072,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 98909,
-      "num": 846064,
-      "word": "11个重点场景移动网络信号将增强",
-      "onboard_time": 1704426692,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97917,
@@ -1171,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83276,
+      "num": 451726,
+      "word": "当咖啡机器人变成新型打工人",
+      "onboard_time": 1704426393,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82140,
       "num": 82140,
       "word": "偶遇萨摩耶和萨摩不耶",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1704381397,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 73307,
-      "num": 447696,
-      "word": "当咖啡机器人变成新型打工人",
-      "onboard_time": 1704426393,
-      "rank": 11,
-      "category": "互联网"
     },
     {
       "raw_hot": 70464,

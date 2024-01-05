@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704428496456,
+  "endTime": 1704429354805,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2091,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 678925,
+      "num": 678925,
+      "word": "李荣书退团",
+      "onboard_time": 1704426994,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 678655,
       "num": 678655,
       "word": "付豪道歉",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704272611,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 619831,
-      "num": 619831,
-      "word": "在贵州5天吃了30顿",
-      "onboard_time": 1704362613,
-      "rank": 21,
-      "category": "美食"
     }
   ],
   "hotgov_list": [

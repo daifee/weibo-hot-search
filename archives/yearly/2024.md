@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/05 12:21:36
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/05 12:35:54
 </p>
 </blockquote>
 <p>
@@ -1581,6 +1581,12 @@ B站2023百大UP主（热度：927768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E4%B9%A6%E9%80%80%E5%9B%A2%23" target="weibo">
+李荣书退团（热度：678925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%B1%AA%E9%81%93%E6%AD%89%23" target="weibo">
 付豪道歉（热度：678655）
 </a>
@@ -1805,12 +1811,6 @@ B站2023百大UP主（热度：927768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E8%AF%95%E7%82%B9%E5%8F%96%E6%B6%88%E7%BB%A9%E7%82%B9%23" target="weibo">
 北大试点取消绩点（热度：621394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%B4%B5%E5%B7%9E5%E5%A4%A9%E5%90%83%E4%BA%8630%E9%A1%BF%23" target="weibo">
-在贵州5天吃了30顿（热度：619831）
 </a>
 </li>
 
