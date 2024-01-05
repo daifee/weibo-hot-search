@@ -1,0 +1,410 @@
+{
+  "runTime": 1704490455480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 118391,
+        "num": 118391,
+        "word": "百事被家乐福封杀",
+        "onboard_time": 1704466713,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101619,
+        "num": 101619,
+        "word": "家长半夜给班主任打电话学生遭怒怼",
+        "onboard_time": 1704461431,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7920,
+        "num": 92378,
+        "word": "中国航天员26年出征太空12次",
+        "onboard_time": 1704460656,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86195,
+        "num": 86195,
+        "word": "孙燕姿妹妹发文断绝关系",
+        "onboard_time": 1704457410,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54794,
+        "num": 54794,
+        "word": "沈阳文旅局长深夜在线听网友支招",
+        "onboard_time": 1704463656,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51295,
+        "num": 51295,
+        "word": "王楚钦总决赛男单夺冠",
+        "onboard_time": 1704472170,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49470,
+        "num": 49470,
+        "word": "2租客发现11万现金房东免租1年",
+        "onboard_time": 1704456028,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49051,
+        "num": 49051,
+        "word": "一个人骂我 说明不了什么",
+        "onboard_time": 1704465935,
+        "rank": 7,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 45467,
+        "num": 45467,
+        "word": "李诚儒给宋亚轩的三个忠告",
+        "onboard_time": 1704472170,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44146,
+        "num": 44146,
+        "word": "中央大街现鄂伦春族老爷爷",
+        "onboard_time": 1704472170,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101733,
+        "num": 44071,
+        "word": "霍金",
+        "onboard_time": 1704447812,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53323,
+        "num": 43979,
+        "word": "TVB前主播柳俊江因屋内烧炭身亡",
+        "onboard_time": 1704462213,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 43295,
+        "num": 43295,
+        "word": "papi酱菱红下线",
+        "onboard_time": 1704465215,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40104,
+        "num": 40104,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704451232,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35525,
+        "num": 35525,
+        "word": "孙燕姿妹妹曾多次发文对姐姐不满",
+        "onboard_time": 1704466655,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34918,
+        "num": 34918,
+        "word": "赵露思哭到颤抖",
+        "onboard_time": 1704461974,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33236,
+        "num": 33236,
+        "word": "甲流刚好又感染乙流",
+        "onboard_time": 1704481517,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28189,
+        "num": 28189,
+        "word": "租客退租留下宫里宫气家具",
+        "onboard_time": 1704452311,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27036,
+        "num": 27036,
+        "word": "看王家卫怎么拍分手",
+        "onboard_time": 1704446132,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24066,
+        "num": 24066,
+        "word": "樊振东发挥",
+        "onboard_time": 1704452853,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41663,
+        "num": 23779,
+        "word": "一年中最冷的时候来了",
+        "onboard_time": 1704472170,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39392,
+        "num": 23318,
+        "word": "母亲追着让26岁儿子喝完牛奶",
+        "onboard_time": 1704459573,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28181,
+        "num": 22983,
+        "word": "2023年裸辞的人现在怎样了",
+        "onboard_time": 1704488174,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25238,
+        "num": 22519,
+        "word": "久坐久站久躺哪个对身体伤害最大",
+        "onboard_time": 1704468576,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22176,
+        "num": 22176,
+        "word": "WTT",
+        "onboard_time": 1704472468,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21868,
+        "num": 21868,
+        "word": "我姓哈名尔滨",
+        "onboard_time": 1704453870,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19637,
+        "num": 19637,
+        "word": "第一次见上班打4次卡的公司",
+        "onboard_time": 1704457593,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19378,
+        "num": 19378,
+        "word": "谢娜听到陈乔恩参加婚恋节目的反应",
+        "onboard_time": 1704463054,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18718,
+        "num": 18718,
+        "word": "朝鲜向韩国西部海域发射200多发海岸炮",
+        "onboard_time": 1704437310,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 18285,
+        "num": 18285,
+        "word": "央视曝河南距今2300年的赵长城被拦腰截断",
+        "onboard_time": 1704440311,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18272,
+        "num": 18272,
+        "word": "双林3比0小胖头",
+        "onboard_time": 1704451472,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17846,
+        "num": 17846,
+        "word": "2024摩羯座发家之年",
+        "onboard_time": 1704465998,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16422,
+        "num": 16422,
+        "word": "1992年上海南京路 繁花还原度",
+        "onboard_time": 1704442594,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16116,
+        "num": 16116,
+        "word": "格莱妮丝约翰斯去世",
+        "onboard_time": 1704474325,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16035,
+        "num": 16035,
+        "word": "辛芷蕾李李同天生日",
+        "onboard_time": 1704466232,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15901,
+        "num": 15901,
+        "word": "什么是无效恋爱",
+        "onboard_time": 1704466713,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15748,
+        "num": 15748,
+        "word": "WTT 裁判",
+        "onboard_time": 1704454769,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15557,
+        "num": 15557,
+        "word": "朝鲜5日上午进行海军实弹射击演习",
+        "onboard_time": 1704459030,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 15155,
+        "num": 15155,
+        "word": "Doinb更新动态",
+        "onboard_time": 1704459152,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14530,
+        "num": 14530,
+        "word": "繁花",
+        "onboard_time": 1704456751,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13709,
+        "num": 13709,
+        "word": "最受欢迎动漫女角色榜单",
+        "onboard_time": 1704482115,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 13371,
+        "num": 13371,
+        "word": "我的年度妆容",
+        "onboard_time": 1704479719,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 13354,
+        "num": 13354,
+        "word": "咪咕 信号呢",
+        "onboard_time": 1704455429,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13300,
+        "num": 13300,
+        "word": "豆腐脑敢放糖 粽子就敢包肉",
+        "onboard_time": 1704459152,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 12980,
+        "num": 12980,
+        "word": "美国12月非农",
+        "onboard_time": 1704486193,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12978,
+        "num": 12978,
+        "word": "张艺兴cos天天跺脚",
+        "onboard_time": 1704470431,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12452,
+        "num": 12967,
+        "word": "TTG 老盖",
+        "onboard_time": 1704465516,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12302,
+        "num": 12964,
+        "word": "王楚钦4比0邱党",
+        "onboard_time": 1704456993,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10967,
+        "num": 12956,
+        "word": "繁花 漫长的季节镜像故事",
+        "onboard_time": 1704459213,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10860,
+        "num": 12935,
+        "word": "WTT多哈男子总决赛",
+        "onboard_time": 1704452131,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#泱泱中华历史何其悠久文明何其博大#"
+    }
+  }
+}

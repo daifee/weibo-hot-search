@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704489331099,
+  "endTime": 1704490455480,
   "band_list": [
     {
       "raw_hot": 1711851,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28181,
+      "num": 22983,
+      "word": "2023年裸辞的人现在怎样了",
+      "onboard_time": 1704488174,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22612,
       "num": 896781,
       "word": "乡村振兴追梦人",
@@ -505,14 +513,6 @@
       "onboard_time": 1704479719,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 20501,
-      "num": 20501,
-      "word": "2023年裸辞的人现在怎样了",
-      "onboard_time": 1704488174,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19362,
@@ -545,6 +545,14 @@
       "onboard_time": 1704460656,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10860,
+      "num": 12935,
+      "word": "WTT多哈男子总决赛",
+      "onboard_time": 1704452131,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
