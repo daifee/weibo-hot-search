@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704432833790,
+  "endTime": 1704435775273,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -697,6 +697,14 @@
       "onboard_time": 1704248911,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1277220,
+      "num": 589462,
+      "word": "中国单身汉开始涌向尼泊尔找老婆",
+      "onboard_time": 1704432392,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1242405,
@@ -2259,6 +2267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 657318,
+      "num": 657318,
+      "word": "在尔滨丢了身份证咋这么欢乐",
+      "onboard_time": 1704430360,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 656149,
       "num": 656149,
       "word": "加湿器肺炎",
@@ -2747,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561606,
+      "num": 561606,
+      "word": "王凯是张佳宁老板",
+      "onboard_time": 1704432512,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557985,
       "num": 557985,
       "word": "关晓彤父亲持股的天然呆奶茶被限消",
@@ -2867,6 +2891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 547279,
+      "num": 547279,
+      "word": "A股",
+      "onboard_time": 1704161618,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 546460,
       "num": 546460,
       "word": "王楚钦比赛",
@@ -2939,14 +2971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 537292,
-      "num": 537292,
-      "word": "在尔滨丢了身份证咋这么欢乐",
-      "onboard_time": 1704430360,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 534964,
       "num": 524689,
       "word": "迪丽热巴新年首套高定",
@@ -2985,6 +3009,14 @@
       "onboard_time": 1704375695,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 530358,
+      "num": 530358,
+      "word": "库里致命失误",
+      "onboard_time": 1704433714,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 527298,
@@ -3465,6 +3497,14 @@
       "onboard_time": 1704236298,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 475819,
+      "num": 349946,
+      "word": "韩国西部海域延坪岛向居民下达躲避令",
+      "onboard_time": 1704434132,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475570,
@@ -4265,6 +4305,14 @@
       "onboard_time": 1704189756,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376736,
+      "num": 376736,
+      "word": "16888元繁花套房抢不着",
+      "onboard_time": 1704430296,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 373085,
@@ -5347,14 +5395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282750,
-      "num": 282750,
-      "word": "A股",
-      "onboard_time": 1704161618,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 282471,
       "num": 258419,
       "word": "情绪稳定 已经疯了",
@@ -5393,14 +5433,6 @@
       "onboard_time": 1704165158,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 279959,
-      "num": 279959,
-      "word": "16888元繁花套房抢不着",
-      "onboard_time": 1704430296,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 279938,
@@ -5683,6 +5715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263843,
+      "num": 263843,
+      "word": "约基奇绝杀勇士",
+      "onboard_time": 1704433234,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263405,
       "num": 263405,
       "word": "原神流浪者",
@@ -5889,6 +5929,14 @@
       "onboard_time": 1704086192,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250990,
+      "num": 250990,
+      "word": "胡歌马伊琍差点又摔了",
+      "onboard_time": 1704433532,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 250875,
@@ -7083,14 +7131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203178,
-      "num": 203178,
-      "word": "中国单身汉开始涌向尼泊尔找老婆",
-      "onboard_time": 1704432392,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202944,
       "num": 202944,
       "word": "一场雾凇让哈尔滨大雪人卡粉了",
@@ -7113,6 +7153,14 @@
       "onboard_time": 1704107438,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202397,
+      "num": 202397,
+      "word": "哈尔滨大哥凡尔赛炫耀花式订单",
+      "onboard_time": 1704435092,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202006,
@@ -7353,14 +7401,6 @@
       "onboard_time": 1704273393,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196201,
-      "num": 196201,
-      "word": "王凯是张佳宁老板",
-      "onboard_time": 1704432512,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 195758,
@@ -7841,6 +7881,14 @@
       "onboard_time": 1704286537,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185727,
+      "num": 185727,
+      "word": "2024一些旺自己的小方法",
+      "onboard_time": 1704434793,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 185599,
@@ -8337,6 +8385,14 @@
       "onboard_time": 1704338790,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174193,
+      "num": 174193,
+      "word": "朱丹的撒娇周一围无力抵抗",
+      "onboard_time": 1704434732,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 174047,
@@ -9099,6 +9155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154939,
+      "num": 154939,
+      "word": "双胞胎兄弟一个守国一个守家",
+      "onboard_time": 1704435153,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154593,
       "num": 154593,
       "word": "尔滨又整活了",
@@ -9835,6 +9899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140580,
+      "num": 140580,
+      "word": "苹果近3天市值蒸发1.18万亿元",
+      "onboard_time": 1704435272,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140528,
       "num": 140528,
       "word": "胡歌唐嫣繁花微博开分9.2",
@@ -10377,6 +10449,14 @@
       "onboard_time": 1704288453,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127510,
+      "num": 127510,
+      "word": "邓为假日帆船大片",
+      "onboard_time": 1704434251,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127352,
@@ -10971,6 +11051,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 108112,
+      "num": 108112,
+      "word": "只要自己不误解自己就好",
+      "onboard_time": 1704435630,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107637,
       "num": 107637,
       "word": "日本石川县金泽车站震感强烈",
@@ -11097,6 +11185,14 @@
       "onboard_time": 1704424292,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103667,
+      "num": 103667,
+      "word": "王一博代言 商战",
+      "onboard_time": 1704435751,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 102940,

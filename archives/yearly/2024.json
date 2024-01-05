@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704432833790,
+  "endTime": 1704435775273,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -697,6 +697,14 @@
       "onboard_time": 1704248911,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1277220,
+      "num": 589462,
+      "word": "中国单身汉开始涌向尼泊尔找老婆",
+      "onboard_time": 1704432392,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1242405,
@@ -2259,6 +2267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 657318,
+      "num": 657318,
+      "word": "在尔滨丢了身份证咋这么欢乐",
+      "onboard_time": 1704430360,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 656149,
       "num": 656149,
       "word": "加湿器肺炎",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704024106,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 633714,
-      "num": 633714,
-      "word": "花花玩肚子上的肉肉",
-      "onboard_time": 1704410303,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 632257,
-      "num": 632257,
-      "word": "胡歌 第一个吻戏是咸的",
-      "onboard_time": 1704121060,
-      "rank": 8,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

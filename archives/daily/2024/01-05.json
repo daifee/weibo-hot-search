@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704432833790,
+  "endTime": 1704435775273,
   "band_list": [
     {
       "raw_hot": 1723550,
@@ -25,6 +25,14 @@
       "onboard_time": 1704414874,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1277220,
+      "num": 589462,
+      "word": "中国单身汉开始涌向尼泊尔找老婆",
+      "onboard_time": 1704432392,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1242405,
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 657318,
+      "num": 657318,
+      "word": "在尔滨丢了身份证咋这么欢乐",
+      "onboard_time": 1704430360,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 654544,
       "num": 654544,
       "word": "刘诗诗摇滚歌姬",
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561606,
+      "num": 561606,
+      "word": "王凯是张佳宁老板",
+      "onboard_time": 1704432512,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555372,
       "num": 555372,
       "word": "电台主持人发表争议言论后涨粉700多万",
@@ -275,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547279,
+      "num": 547279,
+      "word": "A股",
+      "onboard_time": 1704434073,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 540660,
       "num": 540660,
       "word": "唐嫣演技",
@@ -283,12 +315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 537292,
-      "num": 537292,
-      "word": "在尔滨丢了身份证咋这么欢乐",
-      "onboard_time": 1704430360,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 530358,
+      "num": 530358,
+      "word": "库里致命失误",
+      "onboard_time": 1704433714,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 523542,
@@ -329,6 +361,14 @@
       "onboard_time": 1704425790,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 475819,
+      "num": 349946,
+      "word": "韩国西部海域延坪岛向居民下达躲避令",
+      "onboard_time": 1704434132,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466982,
@@ -409,6 +449,14 @@
       "onboard_time": 1704418829,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376736,
+      "num": 376736,
+      "word": "16888元繁花套房抢不着",
+      "onboard_time": 1704430296,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 367766,
@@ -555,14 +603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 279959,
-      "num": 279959,
-      "word": "16888元繁花套房抢不着",
-      "onboard_time": 1704430296,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 276187,
       "num": 276187,
       "word": "萌兰到家政公司上班了",
@@ -595,6 +635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 263843,
+      "num": 263843,
+      "word": "约基奇绝杀勇士",
+      "onboard_time": 1704433234,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260642,
       "num": 260642,
       "word": "头发别耳后显脸小方法",
@@ -609,6 +657,14 @@
       "onboard_time": 1704422550,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250990,
+      "num": 250990,
+      "word": "胡歌马伊琍差点又摔了",
+      "onboard_time": 1704433532,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 249853,
@@ -731,11 +787,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203178,
-      "num": 203178,
-      "word": "中国单身汉开始涌向尼泊尔找老婆",
-      "onboard_time": 1704432392,
-      "rank": 31,
+      "raw_hot": 202397,
+      "num": 202397,
+      "word": "哈尔滨大哥凡尔赛炫耀花式订单",
+      "onboard_time": 1704435092,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -763,20 +819,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196201,
-      "num": 196201,
-      "word": "王凯是张佳宁老板",
-      "onboard_time": 1704432512,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186985,
       "num": 186985,
       "word": "薛之谦服装品牌道歉",
       "onboard_time": 1704432092,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185727,
+      "num": 185727,
+      "word": "2024一些旺自己的小方法",
+      "onboard_time": 1704434793,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 185399,
@@ -825,6 +881,14 @@
       "onboard_time": 1704431735,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174193,
+      "num": 174193,
+      "word": "朱丹的撒娇周一围无力抵抗",
+      "onboard_time": 1704434732,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 173280,
@@ -921,6 +985,14 @@
       "onboard_time": 1704428134,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154939,
+      "num": 154939,
+      "word": "双胞胎兄弟一个守国一个守家",
+      "onboard_time": 1704435153,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153933,
@@ -1027,6 +1099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 140580,
+      "num": 140580,
+      "word": "苹果近3天市值蒸发1.18万亿元",
+      "onboard_time": 1704435272,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136497,
       "num": 136497,
       "word": "AI成精了",
@@ -1049,6 +1129,14 @@
       "onboard_time": 1704418708,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 127510,
+      "num": 127510,
+      "word": "邓为假日帆船大片",
+      "onboard_time": 1704434251,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126870,
@@ -1171,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108112,
+      "num": 108112,
+      "word": "只要自己不误解自己就好",
+      "onboard_time": 1704435630,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107288,
       "num": 107288,
       "word": "易烊千玺破洞针织内搭",
@@ -1209,6 +1305,14 @@
       "onboard_time": 1704424292,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103667,
+      "num": 103667,
+      "word": "王一博代言 商战",
+      "onboard_time": 1704435751,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 102448,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1704435775273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 975131,
+        "num": 975131,
+        "word": "南阳一公职人员兼职日薪税后3000",
+        "onboard_time": 1704430360,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657318,
+        "num": 657318,
+        "word": "在尔滨丢了身份证咋这么欢乐",
+        "onboard_time": 1704430360,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63208,
+        "num": 602843,
+        "word": "11个重点场景移动网络信号将增强",
+        "onboard_time": 1704426692,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277220,
+        "num": 589462,
+        "word": "中国单身汉开始涌向尼泊尔找老婆",
+        "onboard_time": 1704432392,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561606,
+        "num": 561606,
+        "word": "王凯是张佳宁老板",
+        "onboard_time": 1704432512,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547279,
+        "num": 547279,
+        "word": "A股",
+        "onboard_time": 1704434073,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 530358,
+        "num": 530358,
+        "word": "库里致命失误",
+        "onboard_time": 1704433714,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463665,
+        "num": 463665,
+        "word": "李一桐蜘蛛精妆造",
+        "onboard_time": 1704431494,
+        "rank": 7,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 462423,
+        "num": 462423,
+        "word": "爱泼斯坦文件牵出霍金",
+        "onboard_time": 1704425431,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376736,
+        "num": 376736,
+        "word": "16888元繁花套房抢不着",
+        "onboard_time": 1704430296,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 807965,
+        "num": 358144,
+        "word": "字节跳动早期投资人严厉谴责抖音",
+        "onboard_time": 1704431018,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 585280,
+        "num": 357406,
+        "word": "家人回应7旬爷爷老来得子",
+        "onboard_time": 1704428556,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475819,
+        "num": 349946,
+        "word": "韩国西部海域延坪岛向居民下达躲避令",
+        "onboard_time": 1704434132,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336582,
+        "num": 336582,
+        "word": "微博之夜第二波阵容官宣",
+        "onboard_time": 1704429457,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271390,
+        "num": 271390,
+        "word": "哈尔滨为什么叫尔滨",
+        "onboard_time": 1704419428,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 263843,
+        "num": 263843,
+        "word": "约基奇绝杀勇士",
+        "onboard_time": 1704433234,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250990,
+        "num": 250990,
+        "word": "胡歌马伊琍差点又摔了",
+        "onboard_time": 1704433532,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243111,
+        "num": 243111,
+        "word": "唐嫣行程图好满",
+        "onboard_time": 1704431075,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230333,
+        "num": 230333,
+        "word": "小土豆说哈尔滨菜量太大每天都吃撑",
+        "onboard_time": 1704421529,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218898,
+        "num": 218898,
+        "word": "李铁对着镜头说非常后悔",
+        "onboard_time": 1704421529,
+        "rank": 19,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 268308,
+        "num": 218885,
+        "word": "95后夫妻欲攒200万返乡生活",
+        "onboard_time": 1704427293,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245339,
+        "num": 218292,
+        "word": "瑞幸降低员工洗手频率",
+        "onboard_time": 1704429275,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215231,
+        "num": 215231,
+        "word": "电台主持人发表争议言论后涨粉700多万",
+        "onboard_time": 1704428256,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206083,
+        "num": 206083,
+        "word": "南方小土豆是玩梗还是冒犯",
+        "onboard_time": 1704430115,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204090,
+        "num": 204090,
+        "word": "狐妖王权篇开机",
+        "onboard_time": 1704422613,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202397,
+        "num": 202397,
+        "word": "哈尔滨大哥凡尔赛炫耀花式订单",
+        "onboard_time": 1704435092,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196799,
+        "num": 196799,
+        "word": "狗狗不理解为什么纹身后没朋友",
+        "onboard_time": 1704429816,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185727,
+        "num": 185727,
+        "word": "2024一些旺自己的小方法",
+        "onboard_time": 1704434793,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174193,
+        "num": 174193,
+        "word": "朱丹的撒娇周一围无力抵抗",
+        "onboard_time": 1704434732,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172796,
+        "num": 172796,
+        "word": "iPhone16Pro渲染图曝光",
+        "onboard_time": 1704414874,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162487,
+        "num": 162487,
+        "word": "刘诗诗摇滚歌姬",
+        "onboard_time": 1704426031,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162336,
+        "num": 162336,
+        "word": "林一沈月吻戏身高差",
+        "onboard_time": 1704425790,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161090,
+        "num": 161090,
+        "word": "苏醒 一个不太重要的朋友",
+        "onboard_time": 1704430834,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160382,
+        "num": 160382,
+        "word": "韩剧 死期将至",
+        "onboard_time": 1704428314,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154939,
+        "num": 154939,
+        "word": "双胞胎兄弟一个守国一个守家",
+        "onboard_time": 1704435153,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149444,
+        "num": 149444,
+        "word": "超七成年轻人开始关注奶茶健康",
+        "onboard_time": 1704425191,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149279,
+        "num": 149279,
+        "word": "哈尔滨惊现15元1个小土豆挂件",
+        "onboard_time": 1704373234,
+        "rank": 36,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 140580,
+        "num": 140580,
+        "word": "苹果近3天市值蒸发1.18万亿元",
+        "onboard_time": 1704435272,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139665,
+        "num": 139665,
+        "word": "爱泼斯坦案",
+        "onboard_time": 1704418829,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135488,
+        "num": 135488,
+        "word": "成毅出妆路透",
+        "onboard_time": 1704427715,
+        "rank": 39,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 130030,
+        "num": 130030,
+        "word": "薛之谦服装品牌道歉",
+        "onboard_time": 1704432092,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127510,
+        "num": 127510,
+        "word": "邓为假日帆船大片",
+        "onboard_time": 1704434251,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125172,
+        "num": 125172,
+        "word": "肖战黑粉被强执3.7万",
+        "onboard_time": 1704423932,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122415,
+        "num": 122415,
+        "word": "陈粒 我以为选了个新世界其实都一样",
+        "onboard_time": 1704432213,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113869,
+        "num": 113869,
+        "word": "李荣书退团",
+        "onboard_time": 1704426994,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113488,
+        "num": 113488,
+        "word": "嘲笑一只脏狗结果它是我家的",
+        "onboard_time": 1704431735,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108878,
+        "num": 108878,
+        "word": "KPL转会期",
+        "onboard_time": 1704430055,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108112,
+        "num": 108112,
+        "word": "只要自己不误解自己就好",
+        "onboard_time": 1704435630,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105350,
+        "num": 105350,
+        "word": "腾讯破30000的四部剧",
+        "onboard_time": 1704413010,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103667,
+        "num": 103667,
+        "word": "王一博代言 商战",
+        "onboard_time": 1704435751,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向伊朗总统致慰问电#"
+    }
+  }
+}
