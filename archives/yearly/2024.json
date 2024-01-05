@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704454439809,
+  "endTime": 1704457961610,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -579,6 +579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1425040,
+      "num": 1425040,
+      "word": "租客退租留下宫里宫气家具",
+      "onboard_time": 1704452311,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1421194,
       "num": 1013765,
       "word": "伊朗连环爆炸已致53人死亡",
@@ -769,6 +777,14 @@
       "onboard_time": 1704042045,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1232713,
+      "num": 1232713,
+      "word": "孙燕姿妹妹发文断绝关系",
+      "onboard_time": 1704457410,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1229233,
@@ -1771,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 788583,
+      "num": 788583,
+      "word": "我姓哈名尔滨",
+      "onboard_time": 1704453870,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 787922,
       "num": 2383195,
       "word": "小砂糖橘家长发声感谢东北朋友",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1704260731,
       "rank": 6,
       "category": "艺人,旅游"
-    },
-    {
-      "raw_hot": 659807,
-      "num": 659807,
-      "word": "樊振东实名羡慕贾一凡奖金",
-      "onboard_time": 1704089852,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 659598,
-      "num": 659598,
-      "word": "上班久了感觉自己充满班张力",
-      "onboard_time": 1704273092,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 657318,
-      "num": 657318,
-      "word": "在尔滨丢了身份证咋这么欢乐",
-      "onboard_time": 1704430360,
-      "rank": 18,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
