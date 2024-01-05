@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/06 00:21:11
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/06 00:38:00
 </p>
 </blockquote>
 <p>
@@ -1455,6 +1455,12 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%80%BB%E5%86%B3%E8%B5%9B%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0%23" target="weibo">
+王楚钦总决赛男单夺冠（热度：773410）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8E%8B%E8%BD%B4%23" target="weibo">
 李宇春压轴（热度：769858）
 </a>
@@ -1805,12 +1811,6 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%20%E4%BD%A0%E8%B5%B6%E5%95%A5%E5%91%80%E5%85%84%E5%BC%9F%23" target="weibo">
 王皓 你赶啥呀兄弟（热度：676688）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%86%8D%E4%B8%8A%E5%8D%87%23" target="weibo">
-日本地震死亡人数再上升（热度：676237）
 </a>
 </li>
 

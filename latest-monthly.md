@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/06 00:21:11
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/06 00:38:00
 </p>
 </blockquote>
 <p>
@@ -1451,6 +1451,12 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E8%87%B3%E5%B0%9120%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 日本地震已致至少20人死亡（热度：778239）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%80%BB%E5%86%B3%E8%B5%9B%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0%23" target="weibo">
+王楚钦总决赛男单夺冠（热度：773410）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TTG 老盖（热度：206855）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94%E5%B9%B4%E4%BC%9A%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%23" target="weibo">
 小米高管回应年会跳舞视频（热度：203608）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8A%E6%9C%89%E7%99%BD%E7%8B%90%E7%8B%B8%E5%8F%AF%E4%BB%A5%E6%8A%B1%23" target="weibo">
-黑龙江松花江上有白狐狸可以抱（热度：203371）
 </a>
 </li>
 

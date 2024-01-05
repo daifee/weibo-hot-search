@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704471671726,
+  "endTime": 1704472680688,
   "band_list": [
     {
       "raw_hot": 1711851,
@@ -43,6 +43,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 773410,
+      "num": 773410,
+      "word": "王楚钦总决赛男单夺冠",
+      "onboard_time": 1704472170,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 624130,
       "num": 400082,
       "word": "孙燕姿妹妹曾多次发文对姐姐不满",
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457137,
+      "num": 457137,
+      "word": "沈阳文旅局长深夜在线听网友支招",
+      "onboard_time": 1704463656,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454254,
       "num": 454254,
       "word": "papi酱菱红下线",
@@ -83,16 +99,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 431652,
-      "num": 431652,
-      "word": "沈阳文旅局长深夜在线听网友支招",
-      "onboard_time": 1704463656,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416776,
-      "num": 416776,
+      "raw_hot": 442146,
+      "num": 442146,
       "word": "家长半夜给班主任打电话学生遭怒怼",
       "onboard_time": 1704461431,
       "rank": 9,
@@ -171,7 +179,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 201478,
+      "raw_hot": 202545,
       "num": 201478,
       "word": "久坐久站久躺哪个对身体伤害最大",
       "onboard_time": 1704468576,
@@ -185,6 +193,14 @@
       "onboard_time": 1704456028,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168853,
+      "num": 168853,
+      "word": "张艺兴cos天天跺脚",
+      "onboard_time": 1704470431,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 168318,
@@ -201,14 +217,6 @@
       "onboard_time": 1704454769,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161996,
-      "num": 161996,
-      "word": "张艺兴cos天天跺脚",
-      "onboard_time": 1704470431,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 153017,
@@ -233,6 +241,14 @@
       "onboard_time": 1704457953,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147229,
+      "num": 147229,
+      "word": "WTT",
+      "onboard_time": 1704472468,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 146179,
@@ -267,6 +283,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 132845,
+      "num": 132845,
+      "word": "李诚儒给宋亚轩的三个忠告",
+      "onboard_time": 1704472170,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128310,
+      "num": 128310,
+      "word": "繁花",
+      "onboard_time": 1704456751,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125676,
       "num": 125676,
       "word": "朝鲜向韩国西部海域发射200多发海岸炮",
@@ -289,14 +321,6 @@
       "onboard_time": 1704465516,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 124536,
-      "num": 124536,
-      "word": "繁花",
-      "onboard_time": 1704456751,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 121857,
@@ -347,12 +371,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109737,
+      "num": 134064,
+      "word": "一年中最冷的时候来了",
+      "onboard_time": 1704472170,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106473,
       "num": 106473,
       "word": "TTG 老盖",
       "onboard_time": 1704465516,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101983,
+      "num": 101983,
+      "word": "中央大街现鄂伦春族老爷爷",
+      "onboard_time": 1704472170,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93610,
