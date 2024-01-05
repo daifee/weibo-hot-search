@@ -1,0 +1,410 @@
+{
+  "runTime": 1704446253507,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1578668,
+        "num": 1578668,
+        "word": "苹果终于不用手动设置节假日日历了",
+        "onboard_time": 1704441272,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1398372,
+        "num": 1398372,
+        "word": "朝鲜向韩国西部海域发射200多发海岸炮",
+        "onboard_time": 1704437310,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 12159,
+        "num": 1156577,
+        "word": "新型能源体系建设提速",
+        "onboard_time": 1704445952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1149253,
+        "num": 1149253,
+        "word": "央视曝河南距今2300年的赵长城被拦腰截断",
+        "onboard_time": 1704440311,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912604,
+        "num": 912604,
+        "word": "你会花29999买玫瑰空调吗",
+        "onboard_time": 1704442412,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866812,
+        "num": 866812,
+        "word": "网曝福彩主持人提前播报中奖球号",
+        "onboard_time": 1704440974,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 824701,
+        "num": 824701,
+        "word": "尔滨啊",
+        "onboard_time": 1704442772,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 660935,
+        "num": 660935,
+        "word": "南宁赠送哈尔滨200吨砂糖橘",
+        "onboard_time": 1704443194,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630829,
+        "num": 630829,
+        "word": "确认纽约街头流浪男子是复旦校友",
+        "onboard_time": 1704441512,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540359,
+        "num": 540359,
+        "word": "秦岚被外国人合照",
+        "onboard_time": 1704440851,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587650,
+        "num": 530271,
+        "word": "中方回应韩方称朝鲜发射200多发海岸炮",
+        "onboard_time": 1704443251,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 484010,
+        "num": 484010,
+        "word": "豆瓣崩了",
+        "onboard_time": 1704444752,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 440780,
+        "num": 440780,
+        "word": "陈星旭身材",
+        "onboard_time": 1704443251,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425741,
+        "num": 425741,
+        "word": "警方通报女大学生摆摊被威胁",
+        "onboard_time": 1704440733,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391969,
+        "num": 391969,
+        "word": "换乘恋爱3新cp交往13年",
+        "onboard_time": 1704442653,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377888,
+        "num": 377888,
+        "word": "抗癌博主琪琪弗去世",
+        "onboard_time": 1704437491,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376427,
+        "num": 376427,
+        "word": "大鹏请来了周星驰",
+        "onboard_time": 1704440195,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284999,
+        "num": 284999,
+        "word": "韩国西部海域延坪岛向居民下达躲避令",
+        "onboard_time": 1704434132,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270954,
+        "num": 270954,
+        "word": "周深 曾毅在凤凰传奇的作用",
+        "onboard_time": 1704444573,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246629,
+        "num": 246629,
+        "word": "快递新规3月1日起施行",
+        "onboard_time": 1704439594,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264085,
+        "num": 238773,
+        "word": "真正的穷鬼套餐",
+        "onboard_time": 1704440069,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225900,
+        "num": 225900,
+        "word": "1992年上海南京路 繁花还原度",
+        "onboard_time": 1704442594,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217986,
+        "num": 217986,
+        "word": "娜扎的童年是一个巨大的甄嬛传",
+        "onboard_time": 1704443430,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213698,
+        "num": 213698,
+        "word": "特斯拉召回超160万辆车",
+        "onboard_time": 1704443312,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212655,
+        "num": 212655,
+        "word": "哈尔滨玩5天花三千元",
+        "onboard_time": 1704439230,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 211615,
+        "num": 211615,
+        "word": "双胞胎兄弟一个守国一个守家",
+        "onboard_time": 1704435153,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209672,
+        "num": 209672,
+        "word": "D社称李善均遗书内容不实",
+        "onboard_time": 1704438932,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207899,
+        "num": 207899,
+        "word": "长春整活了",
+        "onboard_time": 1704444995,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203198,
+        "num": 203198,
+        "word": "RIIZE新MV公开",
+        "onboard_time": 1704446013,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202898,
+        "num": 202898,
+        "word": "美军一轰炸机坠毁",
+        "onboard_time": 1704443312,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 197423,
+        "num": 197423,
+        "word": "福彩客服回应提前播报中奖球号",
+        "onboard_time": 1704445053,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185124,
+        "num": 185124,
+        "word": "浙江小孩到东北叫什么",
+        "onboard_time": 1704445651,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182154,
+        "num": 182154,
+        "word": "侵华日军七三一部队遗址前排起长队",
+        "onboard_time": 1704438870,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179488,
+        "num": 179488,
+        "word": "张家辉谈王大陆换女友",
+        "onboard_time": 1704444273,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 7655,
+        "num": 173638,
+        "word": "中国航天员大队26岁生日快乐",
+        "onboard_time": 1704412950,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169925,
+        "num": 169925,
+        "word": "爱泼斯坦文件牵出霍金",
+        "onboard_time": 1704425431,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149665,
+        "num": 149665,
+        "word": "为啥饿过劲之后就不饿了",
+        "onboard_time": 1704444154,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144954,
+        "num": 144954,
+        "word": "3壮汉威胁卖糖葫芦女大学生被行拘",
+        "onboard_time": 1704445411,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144710,
+        "num": 144710,
+        "word": "李一桐蜘蛛精妆造",
+        "onboard_time": 1704431494,
+        "rank": 38,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 138355,
+        "num": 138355,
+        "word": "上海男孩离开尔滨前大哭不想走",
+        "onboard_time": 1704443132,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135531,
+        "num": 135531,
+        "word": "吵架的关键 不要被对方牵着鼻子走",
+        "onboard_time": 1704441871,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134933,
+        "num": 134933,
+        "word": "南阳一公职人员兼职日薪税后3000",
+        "onboard_time": 1704430360,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131132,
+        "num": 131132,
+        "word": "王凯是张佳宁老板",
+        "onboard_time": 1704432512,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32898,
+        "num": 128995,
+        "word": "天宫机械臂视角看治愈系地球",
+        "onboard_time": 1704426271,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128663,
+        "num": 128663,
+        "word": "爱睡懒觉或是没遗传到早起基因",
+        "onboard_time": 1704445952,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124969,
+        "num": 124969,
+        "word": "感谢照顾小砂糖橘广西回礼",
+        "onboard_time": 1704445289,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124585,
+        "num": 124585,
+        "word": "小砂糖橘拔河赢了消防员叔叔",
+        "onboard_time": 1704443552,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123341,
+        "num": 123341,
+        "word": "黄景瑜沈阳活动",
+        "onboard_time": 1704444394,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123294,
+        "num": 123294,
+        "word": "看王家卫怎么拍分手",
+        "onboard_time": 1704446132,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113068,
+        "num": 113068,
+        "word": "网友自曝被毛华锋猥亵跟踪",
+        "onboard_time": 1704437010,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#泱泱中华历史何其悠久文明何其博大#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704443725908,
+  "endTime": 1704446253507,
   "band_list": [
     {
       "raw_hot": 3426448,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1578668,
+      "num": 1578668,
+      "word": "苹果终于不用手动设置节假日日历了",
+      "onboard_time": 1704441272,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1385205,
       "num": 590888,
       "word": "中国单身汉开始涌向尼泊尔找老婆",
@@ -43,20 +51,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1286576,
-      "num": 1286576,
-      "word": "苹果终于不用手动设置节假日日历了",
-      "onboard_time": 1704441272,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1242405,
       "num": 1242405,
       "word": "腾讯破30000的四部剧",
       "onboard_time": 1704413010,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1149253,
+      "num": 1149253,
+      "word": "央视曝河南距今2300年的赵长城被拦腰截断",
+      "onboard_time": 1704440311,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1132796,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 912604,
+      "num": 912604,
+      "word": "你会花29999买玫瑰空调吗",
+      "onboard_time": 1704442412,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896342,
       "num": 469991,
       "word": "字节跳动早期投资人严厉谴责抖音",
@@ -160,6 +176,14 @@
       "word": "哈尔滨为什么叫尔滨",
       "onboard_time": 1704419428,
       "rank": 3,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 824701,
+      "num": 824701,
+      "word": "尔滨啊",
+      "onboard_time": 1704442772,
+      "rank": 36,
       "category": "旅游"
     },
     {
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660935,
+      "num": 660935,
+      "word": "南宁赠送哈尔滨200吨砂糖橘",
+      "onboard_time": 1704443194,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 657318,
       "num": 657318,
       "word": "在尔滨丢了身份证咋这么欢乐",
@@ -283,20 +315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630829,
+      "num": 630829,
+      "word": "确认纽约街头流浪男子是复旦校友",
+      "onboard_time": 1704441512,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628805,
       "num": 590888,
       "word": "王凯是张佳宁老板",
       "onboard_time": 1704432512,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 628527,
-      "num": 628527,
-      "word": "央视曝河南距今2300年的赵长城被拦腰截断",
-      "onboard_time": 1704440311,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 618852,
@@ -329,6 +361,14 @@
       "onboard_time": 1704434073,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 587650,
+      "num": 530271,
+      "word": "中方回应韩方称朝鲜发射200多发海岸炮",
+      "onboard_time": 1704443251,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 587022,
@@ -395,20 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 545700,
-      "num": 545700,
-      "word": "尔滨啊",
-      "onboard_time": 1704442772,
-      "rank": 36,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 540660,
       "num": 540660,
       "word": "唐嫣演技",
       "onboard_time": 1704420569,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 540359,
+      "num": 540359,
+      "word": "秦岚被外国人合照",
+      "onboard_time": 1704440851,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 530358,
@@ -436,7 +476,7 @@
     },
     {
       "raw_hot": 509261,
-      "num": 261694,
+      "num": 377888,
       "word": "抗癌博主琪琪弗去世",
       "onboard_time": 1704437491,
       "rank": 20,
@@ -465,6 +505,14 @@
       "onboard_time": 1704425790,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 484010,
+      "num": 484010,
+      "word": "豆瓣崩了",
+      "onboard_time": 1704444752,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 474993,
@@ -507,6 +555,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 440780,
+      "num": 440780,
+      "word": "陈星旭身材",
+      "onboard_time": 1704443251,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 438681,
       "num": 438681,
       "word": "死期将至",
@@ -528,14 +584,6 @@
       "word": "侵华日军七三一部队遗址前排起长队",
       "onboard_time": 1704438870,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421475,
-      "num": 421475,
-      "word": "确认纽约街头流浪男子是复旦校友",
-      "onboard_time": 1704441512,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -579,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391969,
+      "num": 391969,
+      "word": "换乘恋爱3新cp交往13年",
+      "onboard_time": 1704442653,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391421,
       "num": 391421,
       "word": "爱泼斯坦案",
@@ -601,22 +657,6 @@
       "onboard_time": 1704412467,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 364755,
-      "num": 364755,
-      "word": "秦岚被外国人合照",
-      "onboard_time": 1704440851,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 362220,
-      "num": 187122,
-      "word": "中方回应韩方称朝鲜发射200多发海岸炮",
-      "onboard_time": 1704443251,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 359916,
@@ -716,7 +756,7 @@
     },
     {
       "raw_hot": 309835,
-      "num": 186569,
+      "num": 225900,
       "word": "1992年上海南京路 繁花还原度",
       "onboard_time": 1704442594,
       "rank": 30,
@@ -795,14 +835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 279326,
-      "num": 279326,
-      "word": "换乘恋爱3新cp交往13年",
-      "onboard_time": 1704442653,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 276187,
       "num": 276187,
       "word": "萌兰到家政公司上班了",
@@ -817,6 +849,14 @@
       "onboard_time": 1704412226,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270954,
+      "num": 270954,
+      "word": "周深 曾毅在凤凰传奇的作用",
+      "onboard_time": 1704444573,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 266535,
@@ -865,14 +905,6 @@
       "onboard_time": 1704422550,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 250395,
-      "num": 250395,
-      "word": "你会花29999买玫瑰空调吗",
-      "onboard_time": 1704442412,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249853,
@@ -987,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217986,
+      "num": 217986,
+      "word": "娜扎的童年是一个巨大的甄嬛传",
+      "onboard_time": 1704443430,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217522,
       "num": 217522,
       "word": "央广网评哈尔滨火了",
@@ -1003,20 +1043,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212476,
-      "num": 212476,
+      "raw_hot": 213698,
+      "num": 213698,
       "word": "特斯拉召回超160万辆车",
       "onboard_time": 1704443312,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 208733,
-      "num": 208733,
-      "word": "陈星旭身材",
-      "onboard_time": 1704443251,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208016,
@@ -1027,12 +1059,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207899,
+      "num": 207899,
+      "word": "长春整活了",
+      "onboard_time": 1704444995,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204583,
       "num": 204583,
       "word": "00后女孩把非遗青花瓷穿在身上",
       "onboard_time": 1704421048,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203198,
+      "num": 203198,
+      "word": "RIIZE新MV公开",
+      "onboard_time": 1704446013,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 202898,
+      "num": 202898,
+      "word": "美军一轰炸机坠毁",
+      "onboard_time": 1704443312,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 201184,
@@ -1075,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197423,
+      "num": 197423,
+      "word": "福彩客服回应提前播报中奖球号",
+      "onboard_time": 1704445053,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196355,
       "num": 196355,
       "word": "掘金vs勇士",
@@ -1113,6 +1177,14 @@
       "onboard_time": 1704381759,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 185124,
+      "num": 185124,
+      "word": "浙江小孩到东北叫什么",
+      "onboard_time": 1704445651,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184671,
@@ -1161,6 +1233,14 @@
       "onboard_time": 1704434732,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179488,
+      "num": 179488,
+      "word": "张家辉谈王大陆换女友",
+      "onboard_time": 1704444273,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 176083,
@@ -1219,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167281,
-      "num": 167281,
-      "word": "娜扎的童年是一个巨大的甄嬛传",
-      "onboard_time": 1704443430,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166884,
       "num": 166884,
       "word": "庞博操心两万年后跨年春晚",
@@ -1273,14 +1345,6 @@
       "onboard_time": 1704416734,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161831,
-      "num": 161831,
-      "word": "美军一轰炸机坠毁",
-      "onboard_time": 1704443312,
-      "rank": 37,
-      "category": "军事"
     },
     {
       "raw_hot": 161065,
@@ -1403,12 +1467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145621,
-      "num": 145621,
-      "word": "南宁赠送哈尔滨200吨砂糖橘",
-      "onboard_time": 1704443194,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 149665,
+      "num": 149665,
+      "word": "为啥饿过劲之后就不饿了",
+      "onboard_time": 1704444154,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145597,
@@ -1433,6 +1497,14 @@
       "onboard_time": 1704440555,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144954,
+      "num": 144954,
+      "word": "3壮汉威胁卖糖葫芦女大学生被行拘",
+      "onboard_time": 1704445411,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144467,
@@ -1465,6 +1537,14 @@
       "onboard_time": 1704425790,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 138355,
+      "num": 138355,
+      "word": "上海男孩离开尔滨前大哭不想走",
+      "onboard_time": 1704443132,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136497,
@@ -1523,6 +1603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 128663,
+      "num": 128663,
+      "word": "爱睡懒觉或是没遗传到早起基因",
+      "onboard_time": 1704445952,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 127510,
       "num": 127510,
       "word": "邓为假日帆船大片",
@@ -1563,6 +1651,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124969,
+      "num": 124969,
+      "word": "感谢照顾小砂糖橘广西回礼",
+      "onboard_time": 1704445289,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124585,
+      "num": 124585,
+      "word": "小砂糖橘拔河赢了消防员叔叔",
+      "onboard_time": 1704443552,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124401,
       "num": 124401,
       "word": "当大熊猫玩到一半没电了",
@@ -1579,12 +1683,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123240,
-      "num": 123240,
-      "word": "上海男孩离开尔滨前大哭不想走",
-      "onboard_time": 1704443132,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 123341,
+      "num": 123341,
+      "word": "黄景瑜沈阳活动",
+      "onboard_time": 1704444394,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123294,
+      "num": 123294,
+      "word": "看王家卫怎么拍分手",
+      "onboard_time": 1704446132,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 121881,
@@ -1601,14 +1713,6 @@
       "onboard_time": 1704408139,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118655,
-      "num": 118655,
-      "word": "小砂糖橘拔河赢了消防员叔叔",
-      "onboard_time": 1704443552,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117747,
@@ -2043,12 +2147,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 12159,
+      "num": 1156577,
+      "word": "新型能源体系建设提速",
+      "onboard_time": 1704445952,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9622,
       "num": 9622,
       "word": "哈尔滨撸白狐",
       "onboard_time": 1704400934,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 7655,
+      "num": 173638,
+      "word": "中国航天员大队26岁生日快乐",
+      "onboard_time": 1704412950,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5735,
@@ -2065,6 +2185,9 @@
     },
     {
       "word": "#中共中央政治局常务委员会召开会议#"
+    },
+    {
+      "word": "#泱泱中华历史何其悠久文明何其博大#"
     }
   ]
 }
