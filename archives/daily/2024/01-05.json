@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704440059976,
+  "endTime": 1704442935210,
   "band_list": [
     {
       "raw_hot": 3426448,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1004371,
+      "num": 1004371,
+      "word": "网曝福彩主持人提前播报中奖球号",
+      "onboard_time": 1704440974,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 982862,
       "num": 982862,
       "word": "网曝贵阳一马路上夜间多人爬行",
@@ -113,6 +121,14 @@
       "onboard_time": 1704416372,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 913670,
+      "num": 403462,
+      "word": "苹果终于不用手动设置节假日日历了",
+      "onboard_time": 1704441272,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 896342,
@@ -291,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 601041,
+      "num": 601041,
+      "word": "大鹏请来了周星驰",
+      "onboard_time": 1704440195,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 590866,
       "num": 590866,
       "word": "A股",
@@ -304,6 +328,14 @@
       "word": "小土豆说哈尔滨菜量太大每天都吃撑",
       "onboard_time": 1704421529,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583482,
+      "num": 583482,
+      "word": "快递新规3月1日起施行",
+      "onboard_time": 1704439594,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 566794,
-      "num": 299689,
+      "num": 399010,
       "word": "网友自曝被毛华锋猥亵跟踪",
       "onboard_time": 1704437010,
       "rank": 11,
@@ -344,6 +376,14 @@
       "word": "警方通报东航乘客机舱内大闹",
       "onboard_time": 1704423093,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549493,
+      "num": 549493,
+      "word": "警方通报女大学生摆摊被威胁",
+      "onboard_time": 1704440733,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -380,7 +420,7 @@
     },
     {
       "raw_hot": 509261,
-      "num": 194011,
+      "num": 261694,
       "word": "抗癌博主琪琪弗去世",
       "onboard_time": 1704437491,
       "rank": 20,
@@ -427,6 +467,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 454838,
+      "num": 454838,
+      "word": "D社称李善均遗书内容不实",
+      "onboard_time": 1704438932,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441551,
       "num": 441551,
       "word": "京考成绩",
@@ -457,6 +505,30 @@
       "onboard_time": 1704422008,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416413,
+      "num": 416413,
+      "word": "央视曝河南距今2300年的赵长城被拦腰截断",
+      "onboard_time": 1704440311,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413115,
+      "num": 413115,
+      "word": "哈尔滨玩5天花三千元",
+      "onboard_time": 1704439230,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 408178,
+      "num": 408178,
+      "word": "侵华日军七三一部队遗址前排起长队",
+      "onboard_time": 1704438870,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405766,
@@ -499,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 384371,
-      "num": 285226,
-      "word": "D社称李善均遗书内容不实",
-      "onboard_time": 1704438932,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 376736,
       "num": 376736,
       "word": "16888元繁花套房抢不着",
@@ -537,6 +601,14 @@
       "onboard_time": 1704366990,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 358804,
+      "num": 265702,
+      "word": "真正的穷鬼套餐",
+      "onboard_time": 1704440069,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 338192,
@@ -619,14 +691,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 309204,
-      "num": 309204,
-      "word": "侵华日军七三一部队遗址前排起长队",
-      "onboard_time": 1704438870,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296687,
       "num": 296687,
       "word": "鄂伦春自治旗人大常委会主任感谢网友",
@@ -657,6 +721,14 @@
       "onboard_time": 1704435092,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287515,
+      "num": 287515,
+      "word": "脱轨官博致歉",
+      "onboard_time": 1704439294,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 285264,
@@ -691,12 +763,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275601,
+      "num": 275601,
+      "word": "确认纽约街头流浪男子是复旦校友",
+      "onboard_time": 1704441512,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273201,
       "num": 241243,
       "word": "繁花一集10个广告",
       "onboard_time": 1704412226,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271104,
+      "num": 271104,
+      "word": "秦岚被外国人合照",
+      "onboard_time": 1704440851,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 266535,
@@ -745,14 +833,6 @@
       "onboard_time": 1704422550,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 255985,
-      "num": 255985,
-      "word": "脱轨官博致歉",
-      "onboard_time": 1704439294,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 249853,
@@ -825,6 +905,22 @@
       "onboard_time": 1704428073,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224214,
+      "num": 224214,
+      "word": "冻梨可以在家用冰箱自制吗",
+      "onboard_time": 1704440851,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 223586,
+      "num": 223586,
+      "word": "镇政府回应7旬爷爷老来得子",
+      "onboard_time": 1704438995,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221042,
@@ -907,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198194,
+      "num": 182633,
+      "word": "1992年上海南京路 繁花还原度",
+      "onboard_time": 1704442594,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196355,
       "num": 196355,
       "word": "掘金vs勇士",
@@ -915,19 +1019,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190465,
+      "num": 190465,
+      "word": "换乘恋爱3新cp交往13年",
+      "onboard_time": 1704442653,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188032,
       "num": 188032,
       "word": "官方通报公职人员兼职日薪税后3000",
       "onboard_time": 1704435810,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187928,
-      "num": 187928,
-      "word": "镇政府回应7旬爷爷老来得子",
-      "onboard_time": 1704438995,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -971,12 +1075,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184546,
+      "num": 184546,
+      "word": "胡先煦王安宇同一根吸管喝饮料",
+      "onboard_time": 1704441090,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184047,
       "num": 184047,
       "word": "陈粒 我以为选了个新世界其实都一样",
       "onboard_time": 1704432213,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183798,
+      "num": 183798,
+      "word": "李铁的刘海还在",
+      "onboard_time": 1704442113,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182344,
+      "num": 182344,
+      "word": "广西第一批砂糖橘已抵达哈尔滨",
+      "onboard_time": 1704441996,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180043,
@@ -1011,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173547,
+      "num": 173547,
+      "word": "中国神华市值超宁德时代",
+      "onboard_time": 1704442533,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173280,
       "num": 157749,
       "word": "玲子回归砸了夜东京",
@@ -1033,6 +1169,14 @@
       "onboard_time": 1704432333,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167872,
+      "num": 167872,
+      "word": "你会花29999买玫瑰空调吗",
+      "onboard_time": 1704442412,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167794,
@@ -1059,12 +1203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166205,
-      "num": 166205,
-      "word": "快递新规3月1日起施行",
-      "onboard_time": 1704439594,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 164819,
+      "num": 164819,
+      "word": "吵架的关键 不要被对方牵着鼻子走",
+      "onboard_time": 1704441871,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 163860,
+      "num": 163860,
+      "word": "尔滨啊",
+      "onboard_time": 1704442772,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 163749,
@@ -1129,6 +1281,14 @@
       "onboard_time": 1704428134,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155945,
+      "num": 155945,
+      "word": "韩军当天进行了海上射击训练",
+      "onboard_time": 1704440130,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 153933,
@@ -1203,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147564,
-      "num": 147564,
-      "word": "哈尔滨玩5天花三千元",
-      "onboard_time": 1704439230,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 145597,
       "num": 145597,
       "word": "哈尔滨文创冰箱贴还有AR动画",
@@ -1225,6 +1377,14 @@
       "onboard_time": 1704439471,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145173,
+      "num": 145173,
+      "word": "申PD写给seventeen的长文",
+      "onboard_time": 1704440555,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 144467,
@@ -1289,6 +1449,14 @@
       "onboard_time": 1704439410,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131842,
+      "num": 131842,
+      "word": "易小雅造型",
+      "onboard_time": 1704441453,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 131156,
@@ -1440,6 +1608,14 @@
       "word": "11个重点场景移动网络信号将增强",
       "onboard_time": 1704426692,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111171,
+      "num": 111171,
+      "word": "民警6小时追回564件金饰",
+      "onboard_time": 1704441030,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1745,6 +1921,14 @@
       "onboard_time": 1704371551,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33771,
+      "num": 777324,
+      "word": "天宫机械臂视角看治愈系地球",
+      "onboard_time": 1704426271,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33149,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704440059976,
+  "endTime": 1704442935210,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1131,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1004371,
+      "num": 1004371,
+      "word": "网曝福彩主持人提前播报中奖球号",
+      "onboard_time": 1704440974,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1000364,
       "num": 543255,
       "word": "洗草莓时不要摘掉草莓蒂",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1704416372,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 913670,
+      "num": 403462,
+      "word": "苹果终于不用手动设置节假日日历了",
+      "onboard_time": 1704441272,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 909949,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704106238,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 643908,
-      "num": 643908,
-      "word": "郑业成祝绪丹 镜花缘",
-      "onboard_time": 1704341735,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 642623,
-      "num": 642623,
-      "word": "日本7.4级地震现场画面",
-      "onboard_time": 1704100780,
-      "rank": 32,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
