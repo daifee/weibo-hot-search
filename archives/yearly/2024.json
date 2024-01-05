@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704457961610,
+  "endTime": 1704458887475,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -121,6 +121,14 @@
       "onboard_time": 1704160655,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2655263,
+      "num": 2655263,
+      "word": "孙燕姿妹妹发文断绝关系",
+      "onboard_time": 1704457410,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2633377,
@@ -777,14 +785,6 @@
       "onboard_time": 1704042045,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1232713,
-      "num": 1232713,
-      "word": "孙燕姿妹妹发文断绝关系",
-      "onboard_time": 1704457410,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1229233,

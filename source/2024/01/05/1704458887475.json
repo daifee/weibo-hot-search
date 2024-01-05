@@ -1,0 +1,410 @@
+{
+  "runTime": 1704458887475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2655263,
+        "num": 2655263,
+        "word": "孙燕姿妹妹发文断绝关系",
+        "onboard_time": 1704457410,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1097415,
+        "num": 1097415,
+        "word": "租客退租留下宫里宫气家具",
+        "onboard_time": 1704452311,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41677,
+        "num": 818667,
+        "word": "新型能源体系建设提速",
+        "onboard_time": 1704445952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677409,
+        "num": 677409,
+        "word": "我姓哈名尔滨",
+        "onboard_time": 1704453870,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 629890,
+        "num": 629890,
+        "word": "樊振东发挥",
+        "onboard_time": 1704452853,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622870,
+        "num": 622870,
+        "word": "2租客发现11万现金房东免租1年",
+        "onboard_time": 1704456028,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585856,
+        "num": 585856,
+        "word": "看王家卫怎么拍分手",
+        "onboard_time": 1704446132,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 523183,
+        "num": 523183,
+        "word": "双林3比0小胖头",
+        "onboard_time": 1704451472,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 517654,
+        "num": 517654,
+        "word": "沈腾抽中刘德华签名海报",
+        "onboard_time": 1704452794,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 387528,
+        "num": 498318,
+        "word": "央视曝河南距今2300年的赵长城被拦腰截断",
+        "onboard_time": 1704440311,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1574040,
+        "num": 497875,
+        "word": "霍金",
+        "onboard_time": 1704447812,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575377,
+        "num": 497645,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704451232,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496621,
+        "num": 496621,
+        "word": "朝鲜向韩国西部海域发射200多发海岸炮",
+        "onboard_time": 1704437310,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 413853,
+        "num": 413853,
+        "word": "汪小姐吃的排骨年糕外卖量暴涨200%",
+        "onboard_time": 1704448713,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 405934,
+        "num": 405934,
+        "word": "林高远赛季4个第一次",
+        "onboard_time": 1704457470,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401675,
+        "num": 401675,
+        "word": "咪咕 信号呢",
+        "onboard_time": 1704455429,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384917,
+        "num": 384917,
+        "word": "唐嫣cos芭比",
+        "onboard_time": 1704456396,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370500,
+        "num": 370500,
+        "word": "王安宇不吃海产的原因",
+        "onboard_time": 1704455131,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85945,
+        "num": 340981,
+        "word": "2024开年第一卷",
+        "onboard_time": 1704457532,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 337087,
+        "num": 337087,
+        "word": "逆风如解意 容易摸胸肌",
+        "onboard_time": 1704448414,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336222,
+        "num": 336222,
+        "word": "冻梨摆盘后又出地瓜配勺",
+        "onboard_time": 1704449071,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 331936,
+        "num": 331936,
+        "word": "繁花 李李被抓",
+        "onboard_time": 1704455071,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287504,
+        "num": 287504,
+        "word": "苹果终于不用手动设置节假日日历了",
+        "onboard_time": 1704441272,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 267687,
+        "num": 267687,
+        "word": "与恶魔有约",
+        "onboard_time": 1704457953,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250441,
+        "num": 250441,
+        "word": "WTT 裁判",
+        "onboard_time": 1704454769,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246440,
+        "num": 246440,
+        "word": "王楚钦4比0邱党",
+        "onboard_time": 1704456993,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226867,
+        "num": 226867,
+        "word": "第一次见上班打4次卡的公司",
+        "onboard_time": 1704457593,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225004,
+        "num": 225004,
+        "word": "1992年上海南京路 繁花还原度",
+        "onboard_time": 1704442594,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210634,
+        "num": 210634,
+        "word": "小砂糖橘家乡回礼了",
+        "onboard_time": 1704453270,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197627,
+        "num": 197627,
+        "word": "繁花",
+        "onboard_time": 1704456751,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194201,
+        "num": 194201,
+        "word": "小金豆涌入尔滨红肠店工厂连夜加班",
+        "onboard_time": 1704455550,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184643,
+        "num": 184643,
+        "word": "王牌对王牌",
+        "onboard_time": 1704457170,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180444,
+        "num": 180444,
+        "word": "猫咪被寄养一个半月",
+        "onboard_time": 1704454171,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183826,
+        "num": 179042,
+        "word": "宋亚轩糖果系舞台",
+        "onboard_time": 1704458553,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176816,
+        "num": 176816,
+        "word": "我国成功发射一箭四星",
+        "onboard_time": 1704458013,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174695,
+        "num": 174695,
+        "word": "MTG 3个自由人离队",
+        "onboard_time": 1704457470,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172354,
+        "num": 172354,
+        "word": "孙颖莎在校园打混双",
+        "onboard_time": 1704453933,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162777,
+        "num": 162777,
+        "word": "尔滨带火东北特产",
+        "onboard_time": 1704457291,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160972,
+        "num": 160972,
+        "word": "网易美术 抢单",
+        "onboard_time": 1704455370,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156509,
+        "num": 156509,
+        "word": "钎城cos莱西奥",
+        "onboard_time": 1704456150,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155590,
+        "num": 155590,
+        "word": "陈奕迅 如今人的品味变差了",
+        "onboard_time": 1704450034,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152019,
+        "num": 152019,
+        "word": "WTT多哈男子总决赛",
+        "onboard_time": 1704452131,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142300,
+        "num": 142300,
+        "word": "鸣龙少年 程雨杉继父被抓",
+        "onboard_time": 1704454051,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140220,
+        "num": 140220,
+        "word": "五条悟回归",
+        "onboard_time": 1704448111,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 131190,
+        "num": 131190,
+        "word": "延吉喊话南方小土豆",
+        "onboard_time": 1704458492,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128866,
+        "num": 128866,
+        "word": "时代少年团呱呱舞",
+        "onboard_time": 1704454591,
+        "rank": 45,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 128086,
+        "num": 128086,
+        "word": "爆改扁头",
+        "onboard_time": 1704456691,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 125418,
+        "num": 125418,
+        "word": "周深 曾毅在凤凰传奇的作用",
+        "onboard_time": 1704444573,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123884,
+        "num": 123884,
+        "word": "魏晨知道你们这么拍他吗",
+        "onboard_time": 1704446912,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122707,
+        "num": 122707,
+        "word": "云南小朋友 三生教育",
+        "onboard_time": 1704458851,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局常务委员会召开会议#"
+    }
+  }
+}
