@@ -1,0 +1,410 @@
+{
+  "runTime": 1704496666853,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 609413,
+        "num": 609413,
+        "word": "家长半夜给班主任打电话学生遭怒怼",
+        "onboard_time": 1704461431,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445384,
+        "num": 445384,
+        "word": "百事被家乐福封杀",
+        "onboard_time": 1704466713,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14942,
+        "num": 351421,
+        "word": "中国航天员26年出征太空12次",
+        "onboard_time": 1704460656,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333093,
+        "num": 333093,
+        "word": "孙燕姿妹妹发文断绝关系",
+        "onboard_time": 1704457410,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229953,
+        "num": 229953,
+        "word": "沈阳文旅局长深夜在线听网友支招",
+        "onboard_time": 1704463656,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185193,
+        "num": 185193,
+        "word": "王楚钦总决赛男单夺冠",
+        "onboard_time": 1704472170,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177546,
+        "num": 177546,
+        "word": "papi酱菱红下线",
+        "onboard_time": 1704465215,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175396,
+        "num": 175396,
+        "word": "2租客发现11万现金房东免租1年",
+        "onboard_time": 1704456028,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168098,
+        "num": 168098,
+        "word": "中央大街现鄂伦春族老爷爷",
+        "onboard_time": 1704472170,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126956,
+        "num": 126956,
+        "word": "一个人骂我 说明不了什么",
+        "onboard_time": 1704465935,
+        "rank": 9,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 280833,
+        "num": 126518,
+        "word": "霍金",
+        "onboard_time": 1704447812,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163364,
+        "num": 125731,
+        "word": "TVB前主播柳俊江因屋内烧炭身亡",
+        "onboard_time": 1704462213,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 124859,
+        "num": 124859,
+        "word": "孙燕姿妹妹曾多次发文对姐姐不满",
+        "onboard_time": 1704466655,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106407,
+        "num": 106407,
+        "word": "预算18w去哈尔滨",
+        "onboard_time": 1704496337,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 103300,
+        "num": 103300,
+        "word": "赵露思哭到颤抖",
+        "onboard_time": 1704461974,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88490,
+        "num": 88490,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704451232,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87418,
+        "num": 87418,
+        "word": "李诚儒给宋亚轩的三个忠告",
+        "onboard_time": 1704472170,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79464,
+        "num": 79464,
+        "word": "尔滨 烈烈龙来了",
+        "onboard_time": 1704494716,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 74354,
+        "num": 74354,
+        "word": "甲流刚好又感染乙流",
+        "onboard_time": 1704481517,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69064,
+        "num": 69064,
+        "word": "2024摩羯座发家之年",
+        "onboard_time": 1704465998,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140195,
+        "num": 68592,
+        "word": "一年中最冷的时候来了",
+        "onboard_time": 1704472170,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134148,
+        "num": 67924,
+        "word": "母亲追着让26岁儿子喝完牛奶",
+        "onboard_time": 1704459573,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92246,
+        "num": 66856,
+        "word": "久坐久站久躺哪个对身体伤害最大",
+        "onboard_time": 1704468576,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89549,
+        "num": 65598,
+        "word": "家属已知复旦留美博士流浪纽约街头",
+        "onboard_time": 1704495799,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73797,
+        "num": 64341,
+        "word": "第一次见上班打4次卡的公司",
+        "onboard_time": 1704457593,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69361,
+        "num": 63242,
+        "word": "2023年裸辞的人现在怎样了",
+        "onboard_time": 1704488174,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63028,
+        "num": 63028,
+        "word": "樊振东发挥",
+        "onboard_time": 1704452853,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59277,
+        "num": 59277,
+        "word": "央视曝河南距今2300年的赵长城被拦腰截断",
+        "onboard_time": 1704440311,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56607,
+        "num": 56607,
+        "word": "租客退租留下宫里宫气家具",
+        "onboard_time": 1704452311,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53668,
+        "num": 53668,
+        "word": "我姓哈名尔滨",
+        "onboard_time": 1704453870,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52269,
+        "num": 52269,
+        "word": "看王家卫怎么拍分手",
+        "onboard_time": 1704446132,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44373,
+        "num": 44373,
+        "word": "格莱妮丝约翰斯去世",
+        "onboard_time": 1704474325,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41085,
+        "num": 41085,
+        "word": "感觉这个是笑着掐脖自尽",
+        "onboard_time": 1704490454,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40595,
+        "num": 40595,
+        "word": "双林3比0小胖头",
+        "onboard_time": 1704451472,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38521,
+        "num": 38521,
+        "word": "豆腐脑敢放糖 粽子就敢包肉",
+        "onboard_time": 1704459152,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 34887,
+        "num": 34887,
+        "word": "它是不是还不太知道自己是老虎",
+        "onboard_time": 1704491415,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34800,
+        "num": 34800,
+        "word": "Doinb更新动态",
+        "onboard_time": 1704459152,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34280,
+        "num": 34280,
+        "word": "一般漂亮章若楠",
+        "onboard_time": 1704467374,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34260,
+        "num": 34260,
+        "word": "80岁爷爷说自己也曾是张万森",
+        "onboard_time": 1704495617,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33983,
+        "num": 33983,
+        "word": "什么是无效恋爱",
+        "onboard_time": 1704466713,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32878,
+        "num": 32878,
+        "word": "狗狗带回来一只小浣熊",
+        "onboard_time": 1704496578,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31933,
+        "num": 31933,
+        "word": "1992年上海南京路 繁花还原度",
+        "onboard_time": 1704442594,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31036,
+        "num": 31036,
+        "word": "朝鲜5日上午进行海军实弹射击演习",
+        "onboard_time": 1704459030,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 31694,
+        "num": 31026,
+        "word": "玲子 店门一开大家都没回头路了",
+        "onboard_time": 1704466833,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30606,
+        "num": 30606,
+        "word": "张艺兴cos天天跺脚",
+        "onboard_time": 1704470431,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29165,
+        "num": 29165,
+        "word": "谢娜听到陈乔恩参加婚恋节目的反应",
+        "onboard_time": 1704463054,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26219,
+        "num": 26219,
+        "word": "WTT",
+        "onboard_time": 1704472468,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25913,
+        "num": 25913,
+        "word": "最受欢迎动漫女角色榜单",
+        "onboard_time": 1704482115,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 23210,
+        "num": 25903,
+        "word": "甘蔗水的功效",
+        "onboard_time": 1704496459,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 23135,
+        "num": 25731,
+        "word": "TTG 老盖",
+        "onboard_time": 1704465516,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局常务委员会召开会议#"
+    }
+  }
+}

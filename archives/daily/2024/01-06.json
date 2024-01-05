@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704494055442,
+  "endTime": 1704496666853,
   "band_list": [
     {
       "raw_hot": 1711851,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 609413,
+      "num": 609413,
+      "word": "家长半夜给班主任打电话学生遭怒怼",
+      "onboard_time": 1704461431,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541950,
       "num": 541950,
       "word": "樊振东vs王楚钦",
@@ -97,14 +105,6 @@
       "onboard_time": 1704465215,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 442146,
-      "num": 442146,
-      "word": "家长半夜给班主任打电话学生遭怒怼",
-      "onboard_time": 1704461431,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388509,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168098,
+      "num": 168098,
+      "word": "中央大街现鄂伦春族老爷爷",
+      "onboard_time": 1704472170,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163679,
       "num": 163679,
       "word": "WTT 裁判",
@@ -347,14 +355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118531,
-      "num": 118531,
-      "word": "中央大街现鄂伦春族老爷爷",
-      "onboard_time": 1704472170,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116920,
       "num": 116920,
       "word": "周迅汤唯黄磊同框",
@@ -403,6 +403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106407,
+      "num": 106407,
+      "word": "预算18w去哈尔滨",
+      "onboard_time": 1704496337,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 97034,
       "num": 97034,
       "word": "电视剧三体大史",
@@ -427,12 +435,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 89549,
+      "num": 65598,
+      "word": "家属已知复旦留美博士流浪纽约街头",
+      "onboard_time": 1704495799,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82873,
       "num": 82873,
       "word": "妈妈用川普带孩子川渝人破防了",
       "onboard_time": 1704469353,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79464,
+      "num": 79464,
+      "word": "尔滨 烈烈龙来了",
+      "onboard_time": 1704494716,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 78641,
@@ -443,12 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73207,
-      "num": 73207,
+      "raw_hot": 74354,
+      "num": 74354,
       "word": "甲流刚好又感染乙流",
       "onboard_time": 1704481517,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 69361,
+      "num": 63242,
+      "word": "2023年裸辞的人现在怎样了",
+      "onboard_time": 1704488174,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69064,
@@ -483,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52847,
-      "num": 32814,
-      "word": "2023年裸辞的人现在怎样了",
-      "onboard_time": 1704488174,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42901,
       "num": 42901,
       "word": "玲子 店门一开大家都没回头路了",
@@ -499,12 +523,52 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23492,
-      "num": 23492,
+      "raw_hot": 41085,
+      "num": 41085,
       "word": "感觉这个是笑着掐脖自尽",
       "onboard_time": 1704490454,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 34887,
+      "num": 34887,
+      "word": "它是不是还不太知道自己是老虎",
+      "onboard_time": 1704491415,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 34260,
+      "num": 34260,
+      "word": "80岁爷爷说自己也曾是张万森",
+      "onboard_time": 1704495617,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 32878,
+      "num": 32878,
+      "word": "狗狗带回来一只小浣熊",
+      "onboard_time": 1704496578,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 25913,
+      "num": 25913,
+      "word": "最受欢迎动漫女角色榜单",
+      "onboard_time": 1704482115,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 23210,
+      "num": 25903,
+      "word": "甘蔗水的功效",
+      "onboard_time": 1704496459,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 22612,
@@ -523,20 +587,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 19362,
-      "num": 19362,
-      "word": "最受欢迎动漫女角色榜单",
-      "onboard_time": 1704482115,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 18744,
-      "num": 18744,
-      "word": "它是不是还不太知道自己是老虎",
-      "onboard_time": 1704491415,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 14942,
+      "num": 538316,
+      "word": "中国航天员26年出征太空12次",
+      "onboard_time": 1704460656,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13429,
@@ -553,14 +609,6 @@
       "onboard_time": 1704488713,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 12624,
-      "num": 538316,
-      "word": "中国航天员26年出征太空12次",
-      "onboard_time": 1704460656,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10860,

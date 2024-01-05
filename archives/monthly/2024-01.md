@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/06 06:34:15
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/06 07:17:46
 </p>
 </blockquote>
 <p>
@@ -2139,6 +2139,12 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%8D%8A%E5%A4%9C%E7%BB%99%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%89%93%E7%94%B5%E8%AF%9D%E5%AD%A6%E7%94%9F%E9%81%AD%E6%80%92%E6%80%BC%23" target="weibo">
+家长半夜给班主任打电话学生遭怒怼（热度：609413）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E7%A8%8B%E7%9A%93%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E6%9A%82%E5%81%9C%E5%85%B6%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%B7%A5%E4%BD%9C%23" target="weibo">
 肖程皓发不当言论暂停其主持人工作（热度：609071）
 </a>
@@ -2231,12 +2237,6 @@ A股（热度：590866）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%BA%B2%E5%AD%90%E8%A3%85%23" target="weibo">
 黄晓明小海绵亲子装（热度：588148）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%8D%8A%E5%A4%9C%E7%BB%99%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%89%93%E7%94%B5%E8%AF%9D%E5%AD%A6%E7%94%9F%E9%81%AD%E6%80%92%E6%80%BC%23" target="weibo">
-家长半夜给班主任打电话学生遭怒怼（热度：587834）
 </a>
 </li>
 
