@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704479684347,
+  "endTime": 1704482077567,
   "band_list": [
     {
       "raw_hot": 1711851,
@@ -489,6 +489,22 @@
       "onboard_time": 1704460893,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21010,
+      "num": 21010,
+      "word": "我的年度妆容",
+      "onboard_time": 1704479719,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 19645,
+      "num": 19645,
+      "word": "甲流刚好又感染乙流",
+      "onboard_time": 1704481517,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12624,
