@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704475085955,
+  "endTime": 1704476109299,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -9139,6 +9139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182709,
+      "num": 182709,
+      "word": "格莱妮丝约翰斯去世",
+      "onboard_time": 1704474325,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182463,
       "num": 182463,
       "word": "网易美术 抢单",
@@ -11097,14 +11105,6 @@
       "onboard_time": 1704150985,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 143215,
-      "num": 93348,
-      "word": "格莱妮丝约翰斯去世",
-      "onboard_time": 1704474325,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 143072,
