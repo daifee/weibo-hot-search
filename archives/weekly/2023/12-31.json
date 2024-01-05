@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704467904931,
+  "endTime": 1704468855716,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2192273,
+      "num": 2192273,
+      "word": "中福彩已报警",
+      "onboard_time": 1704466476,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2087562,
       "num": 2087562,
       "word": "网红欧可爱因车祸溺水离世",
@@ -713,14 +721,6 @@
       "onboard_time": 1704025911,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1621837,
-      "num": 1621837,
-      "word": "中福彩已报警",
-      "onboard_time": 1704466476,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1616914,
@@ -1475,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1067533,
+      "num": 1067533,
+      "word": "百事被家乐福封杀",
+      "onboard_time": 1704466713,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1067283,
       "num": 867417,
       "word": "Queencard中文版",
@@ -1633,6 +1641,14 @@
       "onboard_time": 1703946937,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1007605,
+      "num": 1007605,
+      "word": "樊振东vs王楚钦",
+      "onboard_time": 1704467256,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 1006777,
@@ -2833,6 +2849,14 @@
       "onboard_time": 1704029341,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 700297,
+      "num": 512409,
+      "word": "孙燕姿妹妹曾多次发文对姐姐不满",
+      "onboard_time": 1704466655,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 700211,
@@ -4475,14 +4499,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 497413,
-      "num": 497413,
-      "word": "百事被家乐福封杀",
-      "onboard_time": 1704466713,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 497377,
       "num": 497377,
       "word": "陈奕迅 如今人的品味变差了",
@@ -4633,14 +4649,6 @@
       "onboard_time": 1704444752,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 483782,
-      "num": 483782,
-      "word": "孙燕姿妹妹曾多次发文对姐姐不满",
-      "onboard_time": 1704466655,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 483667,
@@ -5481,14 +5489,6 @@
       "onboard_time": 1704427293,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400008,
-      "num": 400008,
-      "word": "樊振东vs王楚钦",
-      "onboard_time": 1704467256,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 397568,
@@ -7283,6 +7283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279619,
+      "num": 279619,
+      "word": "一般漂亮章若楠",
+      "onboard_time": 1704467374,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279015,
       "num": 279015,
       "word": "被唐嫣这个镜头美到了",
@@ -8009,6 +8017,14 @@
       "onboard_time": 1704335969,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247260,
+      "num": 247260,
+      "word": "戚薇跟刘维说我帮不了你",
+      "onboard_time": 1704467494,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 247106,
@@ -9747,6 +9763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200486,
+      "num": 200486,
+      "word": "这下孟子义唱歌跑调众所皆知了",
+      "onboard_time": 1704468094,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200449,
       "num": 200449,
       "word": "泰勒大电影",
@@ -10161,6 +10185,14 @@
       "onboard_time": 1704381759,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 194474,
+      "num": 194474,
+      "word": "久坐久站久躺哪个对身体伤害最大",
+      "onboard_time": 1704468576,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 194369,
@@ -10643,14 +10675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185546,
-      "num": 185546,
-      "word": "一般漂亮章若楠",
-      "onboard_time": 1704467374,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185528,
       "num": 185528,
       "word": "阿宝人情债",
@@ -10801,14 +10825,6 @@
       "onboard_time": 1704464196,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183789,
-      "num": 183789,
-      "word": "戚薇跟刘维说我帮不了你",
-      "onboard_time": 1704467494,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 183747,
@@ -11457,6 +11473,14 @@
       "onboard_time": 1704243874,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 171845,
+      "num": 171845,
+      "word": "周迅汤唯黄磊同框",
+      "onboard_time": 1704467855,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 171783,
@@ -15139,14 +15163,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 109625,
-      "num": 109625,
-      "word": "周迅汤唯黄磊同框",
-      "onboard_time": 1704467855,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109212,
       "num": 109212,
       "word": "2023德玛西亚杯",
@@ -15177,6 +15193,14 @@
       "onboard_time": 1704324564,
       "rank": 25,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 108300,
+      "num": 108300,
+      "word": "pomu要毕业了",
+      "onboard_time": 1704466176,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 108112,

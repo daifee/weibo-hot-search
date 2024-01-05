@@ -1,0 +1,410 @@
+{
+  "runTime": 1704468855716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2192273,
+        "num": 2192273,
+        "word": "中福彩已报警",
+        "onboard_time": 1704466476,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1739503,
+        "num": 1739503,
+        "word": "孙燕姿妹妹发文断绝关系",
+        "onboard_time": 1704457410,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32425,
+        "num": 1141179,
+        "word": "乡村振兴追梦人",
+        "onboard_time": 1704460893,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067533,
+        "num": 1067533,
+        "word": "百事被家乐福封杀",
+        "onboard_time": 1704466713,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007605,
+        "num": 1007605,
+        "word": "樊振东vs王楚钦",
+        "onboard_time": 1704467256,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 958182,
+        "num": 958182,
+        "word": "一个人骂我 说明不了什么",
+        "onboard_time": 1704465935,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 767371,
+        "num": 767371,
+        "word": "papi酱菱红下线",
+        "onboard_time": 1704465215,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 632019,
+        "num": 632019,
+        "word": "樊振东发挥",
+        "onboard_time": 1704452853,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 561911,
+        "num": 561911,
+        "word": "双林3比0小胖头",
+        "onboard_time": 1704451472,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524603,
+        "num": 524603,
+        "word": "家长半夜给班主任打电话学生遭怒怼",
+        "onboard_time": 1704461431,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1318516,
+        "num": 516584,
+        "word": "霍金",
+        "onboard_time": 1704447812,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700297,
+        "num": 512409,
+        "word": "孙燕姿妹妹曾多次发文对姐姐不满",
+        "onboard_time": 1704466655,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541003,
+        "num": 511166,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704451232,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507537,
+        "num": 507537,
+        "word": "TVB前主播柳俊江因屋内烧炭身亡",
+        "onboard_time": 1704462213,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 505919,
+        "num": 505919,
+        "word": "赵露思哭到颤抖",
+        "onboard_time": 1704461974,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465611,
+        "num": 465611,
+        "word": "沈阳文旅局长深夜在线听网友支招",
+        "onboard_time": 1704463656,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447799,
+        "num": 447799,
+        "word": "看王家卫怎么拍分手",
+        "onboard_time": 1704446132,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418728,
+        "num": 418728,
+        "word": "2024摩羯座发家之年",
+        "onboard_time": 1704465998,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314067,
+        "num": 314067,
+        "word": "2租客发现11万现金房东免租1年",
+        "onboard_time": 1704456028,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279619,
+        "num": 279619,
+        "word": "一般漂亮章若楠",
+        "onboard_time": 1704467374,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316493,
+        "num": 275841,
+        "word": "母亲追着让26岁儿子喝完牛奶",
+        "onboard_time": 1704459573,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262244,
+        "num": 262244,
+        "word": "咪咕 信号呢",
+        "onboard_time": 1704455429,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258811,
+        "num": 258811,
+        "word": "豆腐脑敢放糖 粽子就敢包肉",
+        "onboard_time": 1704459152,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 247260,
+        "num": 247260,
+        "word": "戚薇跟刘维说我帮不了你",
+        "onboard_time": 1704467494,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238502,
+        "num": 238502,
+        "word": "租客退租留下宫里宫气家具",
+        "onboard_time": 1704452311,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215211,
+        "num": 215211,
+        "word": "与恶魔有约",
+        "onboard_time": 1704457953,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212004,
+        "num": 212004,
+        "word": "辛芷蕾李李同天生日",
+        "onboard_time": 1704466232,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210565,
+        "num": 210565,
+        "word": "白客有种窝囊的性感",
+        "onboard_time": 1704465516,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210551,
+        "num": 210551,
+        "word": "什么是无效恋爱",
+        "onboard_time": 1704466713,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171972,
+        "num": 204124,
+        "word": "央视曝河南距今2300年的赵长城被拦腰截断",
+        "onboard_time": 1704440311,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200486,
+        "num": 200486,
+        "word": "这下孟子义唱歌跑调众所皆知了",
+        "onboard_time": 1704468094,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199753,
+        "num": 199753,
+        "word": "假球",
+        "onboard_time": 1704459152,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194474,
+        "num": 194474,
+        "word": "久坐久站久躺哪个对身体伤害最大",
+        "onboard_time": 1704468576,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187823,
+        "num": 187823,
+        "word": "我姓哈名尔滨",
+        "onboard_time": 1704453870,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181477,
+        "num": 181477,
+        "word": "袁励岑向鹏男双夺冠",
+        "onboard_time": 1704465998,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177911,
+        "num": 177911,
+        "word": "王楚钦4比0邱党",
+        "onboard_time": 1704456993,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176959,
+        "num": 176959,
+        "word": "汪小姐吃的排骨年糕外卖量暴涨200%",
+        "onboard_time": 1704448713,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171845,
+        "num": 171845,
+        "word": "周迅汤唯黄磊同框",
+        "onboard_time": 1704467855,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172075,
+        "num": 169867,
+        "word": "玲子 店门一开大家都没回头路了",
+        "onboard_time": 1704466833,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167628,
+        "num": 167628,
+        "word": "TTG 老盖",
+        "onboard_time": 1704465516,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165008,
+        "num": 165008,
+        "word": "朝鲜向韩国西部海域发射200多发海岸炮",
+        "onboard_time": 1704437310,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147090,
+        "num": 147090,
+        "word": "第一次见上班打4次卡的公司",
+        "onboard_time": 1704457593,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143655,
+        "num": 143655,
+        "word": "WTT 裁判",
+        "onboard_time": 1704454769,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143262,
+        "num": 143262,
+        "word": "不要给我推荐可能认识的人了",
+        "onboard_time": 1704466894,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137266,
+        "num": 137266,
+        "word": "虞书欣祝绪丹演我姐妹聊八卦",
+        "onboard_time": 1704464915,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132401,
+        "num": 132401,
+        "word": "Doinb更新动态",
+        "onboard_time": 1704459152,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128393,
+        "num": 128393,
+        "word": "冻梨摆盘后又出地瓜配勺",
+        "onboard_time": 1704449071,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118587,
+        "num": 118587,
+        "word": "过期化妆品先别扔",
+        "onboard_time": 1704461853,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 108300,
+        "num": 108300,
+        "word": "pomu要毕业了",
+        "onboard_time": 1704466176,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 105534,
+        "num": 105534,
+        "word": "朝鲜5日上午进行海军实弹射击演习",
+        "onboard_time": 1704459030,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局常务委员会召开会议#"
+    }
+  }
+}
