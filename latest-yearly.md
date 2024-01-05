@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/05 22:16:37
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/05 22:34:06
 </p>
 </blockquote>
 <p>
@@ -1215,6 +1215,12 @@ B站2023百大UP主（热度：927768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TVB%E5%89%8D%E4%B8%BB%E6%92%AD%E6%9F%B3%E4%BF%8A%E6%B1%9F%E5%9B%A0%E5%B1%8B%E5%86%85%E7%83%A7%E7%82%AD%E8%BA%AB%E4%BA%A1%23" target="weibo">
+TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%20%E6%8D%A2%E4%BA%BA%23" target="weibo">
 于正新剧女演员 换人（热度：846190）
 </a>
@@ -1283,12 +1289,6 @@ B站2023百大UP主（热度：927768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E5%95%8A%23" target="weibo">
 尔滨啊（热度：824701）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TVB%E5%89%8D%E4%B8%BB%E6%92%AD%E6%9F%B3%E4%BF%8A%E6%B1%9F%E5%9B%A0%E5%B1%8B%E5%86%85%E7%83%A7%E7%82%AD%E8%BA%AB%E4%BA%A1%23" target="weibo">
-TVB前主播柳俊江因屋内烧炭身亡（热度：824247）
 </a>
 </li>
 

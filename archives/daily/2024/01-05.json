@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704464197227,
+  "endTime": 1704465246488,
   "band_list": [
     {
       "raw_hot": 3426448,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 852019,
+      "num": 852019,
+      "word": "TVB前主播柳俊江因屋内烧炭身亡",
+      "onboard_time": 1704462213,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 844871,
       "num": 844871,
       "word": "哈尔滨为什么叫尔滨",
@@ -265,14 +273,6 @@
       "onboard_time": 1704442772,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 824247,
-      "num": 824247,
-      "word": "TVB前主播柳俊江因屋内烧炭身亡",
-      "onboard_time": 1704462213,
-      "rank": 4,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 795594,
@@ -643,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 514447,
+      "num": 514447,
+      "word": "谢娜听到陈乔恩参加婚恋节目的反应",
+      "onboard_time": 1704463054,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509261,
       "num": 402756,
       "word": "抗癌博主琪琪弗去世",
@@ -747,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450171,
+      "num": 450171,
+      "word": "沈阳文旅局长深夜在线听网友支招",
+      "onboard_time": 1704463656,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441551,
       "num": 441551,
       "word": "京考成绩",
@@ -825,14 +841,6 @@
       "onboard_time": 1704429275,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401672,
-      "num": 349149,
-      "word": "谢娜听到陈乔恩参加婚恋节目的反应",
-      "onboard_time": 1704463054,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 400483,
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 315223,
-      "num": 254567,
+      "num": 305412,
       "word": "家长半夜给班主任打电话学生遭怒怼",
       "onboard_time": 1704461431,
       "rank": 41,
@@ -1304,6 +1312,14 @@
       "word": "阿宝戴济公帽",
       "onboard_time": 1704418468,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 238757,
+      "num": 218243,
+      "word": "papi酱菱红下线",
+      "onboard_time": 1704465215,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -1675,14 +1691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193430,
-      "num": 193430,
-      "word": "沈阳文旅局长深夜在线听网友支招",
-      "onboard_time": 1704463656,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193235,
       "num": 193235,
       "word": "年会不能停",
@@ -1771,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184677,
+      "num": 184677,
+      "word": "过期化妆品先别扔",
+      "onboard_time": 1704461853,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 184671,
       "num": 130986,
       "word": "应采儿说袁咏仪是恶毒继母",
@@ -1809,6 +1825,14 @@
       "onboard_time": 1704458553,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183798,
+      "num": 183798,
+      "word": "哈尔滨把火锅玩出了本地特色",
+      "onboard_time": 1704464196,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182463,
@@ -1857,14 +1881,6 @@
       "onboard_time": 1704444273,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 177414,
-      "num": 177414,
-      "word": "过期化妆品先别扔",
-      "onboard_time": 1704461853,
-      "rank": 35,
-      "category": "美妆"
     },
     {
       "raw_hot": 176816,
@@ -1923,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172366,
+      "num": 172366,
+      "word": "萌兰被自己帅一屁墩儿",
+      "onboard_time": 1704464614,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170629,
       "num": 170629,
       "word": "有一个不健康的习惯叫穷思竭虑",
@@ -1945,6 +1969,14 @@
       "onboard_time": 1704451472,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168838,
+      "num": 168838,
+      "word": "虞书欣祝绪丹演我姐妹聊八卦",
+      "onboard_time": 1704464915,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 168179,
@@ -2323,6 +2355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 136429,
+      "num": 136429,
+      "word": "最强大脑",
+      "onboard_time": 1704464255,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136380,
       "num": 136380,
       "word": "刷到发光的霉霉请不要忽视",
@@ -2683,6 +2723,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 104312,
+      "num": 341886,
+      "word": "吉利银河E8价格",
+      "onboard_time": 1704461735,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 103992,
       "num": 108277,
       "word": "王一博谈电影和舞台的区别",
@@ -2865,14 +2913,6 @@
       "onboard_time": 1704366451,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83394,
-      "num": 341886,
-      "word": "吉利银河E8价格",
-      "onboard_time": 1704461735,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 83276,
