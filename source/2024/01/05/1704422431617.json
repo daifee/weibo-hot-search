@@ -1,0 +1,410 @@
+{
+  "runTime": 1704422431617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1029313,
+        "num": 1029313,
+        "word": "iPhone16Pro渲染图曝光",
+        "onboard_time": 1704414874,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 862176,
+        "num": 862176,
+        "word": "沈阳文旅局长在线截胡小砂糖橘们",
+        "onboard_time": 1704416372,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28810,
+        "num": 859676,
+        "word": "全国首个陆缆穿海工程",
+        "onboard_time": 1704371551,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858448,
+        "num": 858448,
+        "word": "李铁对着镜头说非常后悔",
+        "onboard_time": 1704421529,
+        "rank": 3,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 716959,
+        "num": 716959,
+        "word": "哈尔滨为什么叫尔滨",
+        "onboard_time": 1704419428,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 644910,
+        "num": 644910,
+        "word": "老婆力劝范志毅出演繁花",
+        "onboard_time": 1704416791,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 639797,
+        "num": 639797,
+        "word": "腾讯破30000的四部剧",
+        "onboard_time": 1704413010,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527036,
+        "num": 527036,
+        "word": "唐嫣演技",
+        "onboard_time": 1704420569,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518109,
+        "num": 518109,
+        "word": "哈尔滨惊现15元1个小土豆挂件",
+        "onboard_time": 1704373234,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 455763,
+        "num": 455763,
+        "word": "花少5直接打包去中餐厅",
+        "onboard_time": 1704415773,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438319,
+        "num": 438319,
+        "word": "96家央企一把手年薪披露",
+        "onboard_time": 1704418648,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413655,
+        "num": 413655,
+        "word": "宝总 汪小姐",
+        "onboard_time": 1704417151,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401888,
+        "num": 401888,
+        "word": "收红包时的高情商回复",
+        "onboard_time": 1704415354,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 377963,
+        "num": 377963,
+        "word": "花花玩肚子上的肉肉",
+        "onboard_time": 1704410303,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374867,
+        "num": 374867,
+        "word": "日本记者吐槽民众给震区寄千纸鹤",
+        "onboard_time": 1704410604,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337963,
+        "num": 337963,
+        "word": "爱泼斯坦案",
+        "onboard_time": 1704418829,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329975,
+        "num": 329975,
+        "word": "鸣龙少年 你个癫剧",
+        "onboard_time": 1704419068,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281147,
+        "num": 281147,
+        "word": "丫丫新年第一次亮相",
+        "onboard_time": 1704418350,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351539,
+        "num": 281144,
+        "word": "韩国年轻人不结婚的理由",
+        "onboard_time": 1704412771,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280882,
+        "num": 280882,
+        "word": "日本地震已致242人下落不明",
+        "onboard_time": 1704420389,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327169,
+        "num": 277357,
+        "word": "痞幼谈内衣照事件",
+        "onboard_time": 1704367953,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272454,
+        "num": 272454,
+        "word": "吸冻梨",
+        "onboard_time": 1704418529,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 259729,
+        "num": 259729,
+        "word": "小金豆们被哈尔滨小雪狐迷倒了",
+        "onboard_time": 1704417629,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234205,
+        "num": 234205,
+        "word": "医生常说的观察一下是什么意思",
+        "onboard_time": 1704416134,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222449,
+        "num": 222449,
+        "word": "车厘子价格遭腰斩",
+        "onboard_time": 1704410905,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215495,
+        "num": 215495,
+        "word": "小砂糖橘老家景区对东北老铁免门票",
+        "onboard_time": 1704421708,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 214674,
+        "num": 214674,
+        "word": "情绪稳定 已经疯了",
+        "onboard_time": 1704416073,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212565,
+        "num": 212565,
+        "word": "小土豆说哈尔滨菜量太大每天都吃撑",
+        "onboard_time": 1704421529,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208058,
+        "num": 208058,
+        "word": "杨紫PRADA彩妆及香水代言人",
+        "onboard_time": 1704422008,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205511,
+        "num": 205511,
+        "word": "繁花宝总全名叫什么",
+        "onboard_time": 1704378876,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198906,
+        "num": 198906,
+        "word": "小米终极辟谣",
+        "onboard_time": 1704420627,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189226,
+        "num": 189226,
+        "word": "五天前vs五天后看繁花",
+        "onboard_time": 1704412409,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182512,
+        "num": 182512,
+        "word": "00后女孩把非遗青花瓷穿在身上",
+        "onboard_time": 1704421048,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173965,
+        "num": 173965,
+        "word": "谢娜林心如谈及父母痛哭",
+        "onboard_time": 1704420090,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154831,
+        "num": 154831,
+        "word": "爱心人士捐赠砂糖橘沃柑发往哈尔滨",
+        "onboard_time": 1704419608,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149452,
+        "num": 149452,
+        "word": "怎么会有人暗恋同事啊",
+        "onboard_time": 1704412467,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148955,
+        "num": 148955,
+        "word": "阿宝戴济公帽",
+        "onboard_time": 1704418468,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141800,
+        "num": 141800,
+        "word": "吉林抢人辽宁摇人",
+        "onboard_time": 1704417870,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141402,
+        "num": 141402,
+        "word": "LOL新英雄斯莫德",
+        "onboard_time": 1704418648,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139967,
+        "num": 139967,
+        "word": "极端组织宣称对伊朗爆炸袭击负责",
+        "onboard_time": 1704419908,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134902,
+        "num": 134902,
+        "word": "杭州姑娘一句想吃冻梨司机直接下车买",
+        "onboard_time": 1704384626,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132426,
+        "num": 132426,
+        "word": "有一个不健康的习惯叫穷思竭虑",
+        "onboard_time": 1704417811,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108346,
+        "num": 108346,
+        "word": "小时代5之鸣龙时代是吧",
+        "onboard_time": 1704379176,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106783,
+        "num": 106783,
+        "word": "福建省考公告",
+        "onboard_time": 1704418708,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104553,
+        "num": 104553,
+        "word": "当大熊猫玩到一半没电了",
+        "onboard_time": 1704419848,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102741,
+        "num": 102741,
+        "word": "广西北海地震",
+        "onboard_time": 1704379117,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101613,
+        "num": 101613,
+        "word": "哈尔滨一33岁患癌女子离家出走",
+        "onboard_time": 1704403995,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99603,
+        "num": 99603,
+        "word": "女子分享自己7旬爷爷老来得子",
+        "onboard_time": 1704378155,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97692,
+        "num": 97692,
+        "word": "网曝贵阳一马路上夜间多人爬行",
+        "onboard_time": 1704378876,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95109,
+        "num": 95109,
+        "word": "东北旅游",
+        "onboard_time": 1704419908,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向伊朗总统致慰问电#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704421791343,
+  "endTime": 1704422431617,
   "band_list": [
     {
       "raw_hot": 1723494,
@@ -49,6 +49,14 @@
       "onboard_time": 1704416372,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 858448,
+      "num": 858448,
+      "word": "李铁对着镜头说非常后悔",
+      "onboard_time": 1704421529,
+      "rank": 21,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 795594,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527036,
+      "num": 527036,
+      "word": "唐嫣演技",
+      "onboard_time": 1704420569,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 515937,
       "num": 515937,
       "word": "收红包时的高情商回复",
@@ -171,12 +187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 476753,
-      "num": 476753,
-      "word": "唐嫣演技",
-      "onboard_time": 1704420569,
-      "rank": 10,
-      "category": "剧集"
+      "raw_hot": 438319,
+      "num": 438319,
+      "word": "96家央企一把手年薪披露",
+      "onboard_time": 1704418648,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437180,
@@ -217,14 +233,6 @@
       "onboard_time": 1704366990,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 354569,
-      "num": 354569,
-      "word": "96家央企一把手年薪披露",
-      "onboard_time": 1704418648,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338192,
@@ -289,14 +297,6 @@
       "onboard_time": 1704367953,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 293466,
-      "num": 293466,
-      "word": "李铁对着镜头说非常后悔",
-      "onboard_time": 1704421529,
-      "rank": 21,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 292580,
@@ -425,6 +425,30 @@
       "onboard_time": 1704410544,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215495,
+      "num": 215495,
+      "word": "小砂糖橘老家景区对东北老铁免门票",
+      "onboard_time": 1704421708,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 212565,
+      "num": 212565,
+      "word": "小土豆说哈尔滨菜量太大每天都吃撑",
+      "onboard_time": 1704421529,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208058,
+      "num": 208058,
+      "word": "杨紫PRADA彩妆及香水代言人",
+      "onboard_time": 1704422008,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 204583,
@@ -579,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144215,
-      "num": 144215,
-      "word": "小土豆说哈尔滨菜量太大每天都吃撑",
-      "onboard_time": 1704421529,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141678,
       "num": 141678,
       "word": "卢比奥退役",
@@ -649,14 +665,6 @@
       "onboard_time": 1704419848,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123253,
-      "num": 123253,
-      "word": "小砂糖橘老家景区对东北老铁免门票",
-      "onboard_time": 1704421708,
-      "rank": 44,
-      "category": "旅游"
     },
     {
       "raw_hot": 121881,
