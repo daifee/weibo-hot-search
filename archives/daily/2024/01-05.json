@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704431841609,
+  "endTime": 1704432833790,
   "band_list": [
     {
       "raw_hot": 1723550,
@@ -43,12 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1103406,
+      "num": 1103406,
+      "word": "南阳一公职人员兼职日薪税后3000",
+      "onboard_time": 1704430360,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1048070,
       "num": 1048070,
       "word": "爱泼斯坦文件牵出霍金",
       "onboard_time": 1704425431,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1035077,
+      "num": 1035077,
+      "word": "瑞幸 摩托姐姐专享",
+      "onboard_time": 1704430896,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 1016747,
@@ -75,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 896342,
+      "num": 469991,
+      "word": "字节跳动早期投资人严厉谴责抖音",
+      "onboard_time": 1704431018,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 844871,
       "num": 844871,
       "word": "哈尔滨为什么叫尔滨",
@@ -89,14 +113,6 @@
       "onboard_time": 1704367953,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 794957,
-      "num": 794957,
-      "word": "南阳一公职人员兼职日薪税后3000",
-      "onboard_time": 1704430360,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 758528,
@@ -147,6 +163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 717033,
+      "num": 717033,
+      "word": "家人回应7旬爷爷老来得子",
+      "onboard_time": 1704428556,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 684463,
       "num": 684463,
       "word": "韩国年轻人不结婚的理由",
@@ -168,14 +192,6 @@
       "word": "哈尔滨一33岁患癌女子离家出走",
       "onboard_time": 1704403995,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 662431,
-      "num": 662431,
-      "word": "家人回应7旬爷爷老来得子",
-      "onboard_time": 1704428556,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574257,
+      "num": 574257,
+      "word": "李一桐蜘蛛精妆造",
+      "onboard_time": 1704431494,
+      "rank": 29,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 568534,
       "num": 568534,
       "word": "杭州姑娘一句想吃冻梨司机直接下车买",
@@ -259,20 +283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 537292,
+      "num": 537292,
+      "word": "在尔滨丢了身份证咋这么欢乐",
+      "onboard_time": 1704430360,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 523542,
       "num": 523542,
       "word": "肖战黑粉被强执3.7万",
       "onboard_time": 1704423932,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 516418,
-      "num": 516418,
-      "word": "瑞幸 摩托姐姐专享",
-      "onboard_time": 1704430896,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 515937,
@@ -315,14 +339,6 @@
       "category": "剧集,美妆"
     },
     {
-      "raw_hot": 445643,
-      "num": 445643,
-      "word": "字节跳动早期投资人严厉谴责抖音",
-      "onboard_time": 1704431018,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 441551,
       "num": 441551,
       "word": "京考成绩",
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405766,
+      "num": 320176,
+      "word": "瑞幸降低员工洗手频率",
+      "onboard_time": 1704429275,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400483,
       "num": 321298,
       "word": "95后夫妻欲攒200万返乡生活",
@@ -384,14 +408,6 @@
       "word": "爱泼斯坦案",
       "onboard_time": 1704418829,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 389296,
-      "num": 320176,
-      "word": "瑞幸降低员工洗手频率",
-      "onboard_time": 1704429275,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -443,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325324,
-      "num": 325324,
-      "word": "在尔滨丢了身份证咋这么欢乐",
-      "onboard_time": 1704430360,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324992,
       "num": 324992,
       "word": "小砂糖橘老家景区对东北老铁免门票",
@@ -465,6 +473,14 @@
       "onboard_time": 1704428314,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317828,
+      "num": 317828,
+      "word": "唐嫣行程图好满",
+      "onboard_time": 1704431075,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 313719,
@@ -489,14 +505,6 @@
       "onboard_time": 1704410845,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 299440,
-      "num": 299440,
-      "word": "唐嫣行程图好满",
-      "onboard_time": 1704431075,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 296687,
@@ -611,14 +619,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 249830,
-      "num": 249830,
-      "word": "李一桐蜘蛛精妆造",
-      "onboard_time": 1704431494,
-      "rank": 29,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 246541,
       "num": 246541,
       "word": "邓为芭莎男士封面预告",
@@ -635,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241761,
+      "num": 241761,
+      "word": "苏醒 一个不太重要的朋友",
+      "onboard_time": 1704430834,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238927,
       "num": 238927,
       "word": "阿宝戴济公帽",
@@ -649,6 +657,14 @@
       "onboard_time": 1704426453,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 235476,
+      "num": 235476,
+      "word": "南方小土豆是玩梗还是冒犯",
+      "onboard_time": 1704430115,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235366,
@@ -699,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217246,
-      "num": 217246,
-      "word": "南方小土豆是玩梗还是冒犯",
-      "onboard_time": 1704430115,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214302,
       "num": 214302,
       "word": "王家卫 阿宝要找到李逍遥的感觉",
@@ -723,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203178,
+      "num": 203178,
+      "word": "中国单身汉开始涌向尼泊尔找老婆",
+      "onboard_time": 1704432392,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201184,
       "num": 201184,
       "word": "不亚于图书馆30秒的外卖评价",
@@ -731,20 +747,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 198849,
-      "num": 198849,
-      "word": "苏醒 一个不太重要的朋友",
-      "onboard_time": 1704430834,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198573,
       "num": 198573,
       "word": "谢娜林心如谈及父母痛哭",
       "onboard_time": 1704420090,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196355,
+      "num": 196355,
+      "word": "掘金vs勇士",
+      "onboard_time": 1704432692,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196201,
+      "num": 196201,
+      "word": "王凯是张佳宁老板",
+      "onboard_time": 1704432512,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186985,
+      "num": 186985,
+      "word": "薛之谦服装品牌道歉",
+      "onboard_time": 1704432092,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 185399,
@@ -771,12 +803,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184047,
+      "num": 184047,
+      "word": "陈粒 我以为选了个新世界其实都一样",
+      "onboard_time": 1704432213,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175520,
       "num": 175520,
       "word": "KPL转会期",
       "onboard_time": 1704430055,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174845,
+      "num": 174845,
+      "word": "嘲笑一只脏狗结果它是我家的",
+      "onboard_time": 1704431735,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 173280,
@@ -793,6 +841,14 @@
       "onboard_time": 1704417811,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170437,
+      "num": 170437,
+      "word": "周也白衣少年郎",
+      "onboard_time": 1704432333,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 167794,
@@ -875,11 +931,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152776,
-      "num": 152776,
-      "word": "嘲笑一只脏狗结果它是我家的",
-      "onboard_time": 1704431735,
-      "rank": 41,
+      "raw_hot": 153295,
+      "num": 153295,
+      "word": "当东北虎被叫咪咪",
+      "onboard_time": 1704431676,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -969,14 +1025,6 @@
       "onboard_time": 1704425790,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 140175,
-      "num": 140175,
-      "word": "当东北虎被叫咪咪",
-      "onboard_time": 1704431676,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 136497,
@@ -1108,7 +1156,7 @@
     },
     {
       "raw_hot": 111202,
-      "num": 846064,
+      "num": 853678,
       "word": "11个重点场景移动网络信号将增强",
       "onboard_time": 1704426692,
       "rank": 2,
