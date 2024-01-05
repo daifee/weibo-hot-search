@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704429354805,
+  "endTime": 1704431841609,
   "band_list": [
     {
       "raw_hot": 1723550,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1048070,
+      "num": 1048070,
+      "word": "爱泼斯坦文件牵出霍金",
+      "onboard_time": 1704425431,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1016747,
       "num": 1016747,
       "word": "狐妖王权篇开机",
@@ -56,14 +64,6 @@
       "word": "网曝贵阳一马路上夜间多人爬行",
       "onboard_time": 1704378876,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 919428,
-      "num": 919428,
-      "word": "爱泼斯坦文件牵出霍金",
-      "onboard_time": 1704425431,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -89,6 +89,14 @@
       "onboard_time": 1704367953,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 794957,
+      "num": 794957,
+      "word": "南阳一公职人员兼职日薪税后3000",
+      "onboard_time": 1704430360,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 758528,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662431,
+      "num": 662431,
+      "word": "家人回应7旬爷爷老来得子",
+      "onboard_time": 1704428556,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 654544,
       "num": 654544,
       "word": "刘诗诗摇滚歌姬",
@@ -185,6 +201,14 @@
       "onboard_time": 1704410303,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618852,
+      "num": 618852,
+      "word": "微博之夜第二波阵容官宣",
+      "onboard_time": 1704429457,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 611457,
@@ -211,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555372,
+      "num": 555372,
+      "word": "电台主持人发表争议言论后涨粉700多万",
+      "onboard_time": 1704428256,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 555269,
       "num": 555269,
       "word": "警方通报东航乘客机舱内大闹",
@@ -233,6 +265,14 @@
       "onboard_time": 1704423932,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516418,
+      "num": 516418,
+      "word": "瑞幸 摩托姐姐专享",
+      "onboard_time": 1704430896,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 515937,
@@ -275,6 +315,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 445643,
+      "num": 445643,
+      "word": "字节跳动早期投资人严厉谴责抖音",
+      "onboard_time": 1704431018,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 441551,
       "num": 441551,
       "word": "京考成绩",
@@ -307,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400483,
+      "num": 321298,
+      "word": "95后夫妻欲攒200万返乡生活",
+      "onboard_time": 1704427293,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395035,
       "num": 395035,
       "word": "宝总送汪小姐凯迪拉克",
@@ -331,11 +387,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368158,
-      "num": 368158,
-      "word": "电台主持人发表争议言论后涨粉700多万",
-      "onboard_time": 1704428256,
-      "rank": 38,
+      "raw_hot": 389296,
+      "num": 320176,
+      "word": "瑞幸降低员工洗手频率",
+      "onboard_time": 1704429275,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -387,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325324,
+      "num": 325324,
+      "word": "在尔滨丢了身份证咋这么欢乐",
+      "onboard_time": 1704430360,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324992,
       "num": 324992,
       "word": "小砂糖橘老家景区对东北老铁免门票",
       "onboard_time": 1704421708,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 323510,
+      "num": 323510,
+      "word": "韩剧 死期将至",
+      "onboard_time": 1704428314,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 313719,
@@ -419,20 +491,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 304623,
-      "num": 304623,
-      "word": "家人回应7旬爷爷老来得子",
-      "onboard_time": 1704428556,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303299,
-      "num": 303299,
-      "word": "95后夫妻欲攒200万返乡生活",
-      "onboard_time": 1704427293,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 299440,
+      "num": 299440,
+      "word": "唐嫣行程图好满",
+      "onboard_time": 1704431075,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 296687,
@@ -448,6 +512,14 @@
       "word": "老师 你怎么让我奶站过道里",
       "onboard_time": 1704367953,
       "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 288421,
+      "num": 288421,
+      "word": "狗狗不理解为什么纹身后没朋友",
+      "onboard_time": 1704429816,
+      "rank": 25,
       "category": "幽默"
     },
     {
@@ -473,6 +545,14 @@
       "onboard_time": 1704416073,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 279959,
+      "num": 279959,
+      "word": "16888元繁花套房抢不着",
+      "onboard_time": 1704430296,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276187,
@@ -529,6 +609,14 @@
       "onboard_time": 1704379659,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 249830,
+      "num": 249830,
+      "word": "李一桐蜘蛛精妆造",
+      "onboard_time": 1704431494,
+      "rank": 29,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 246541,
@@ -611,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217246,
+      "num": 217246,
+      "word": "南方小土豆是玩梗还是冒犯",
+      "onboard_time": 1704430115,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214302,
       "num": 214302,
       "word": "王家卫 阿宝要找到李逍遥的感觉",
@@ -633,6 +729,14 @@
       "onboard_time": 1704425373,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 198849,
+      "num": 198849,
+      "word": "苏醒 一个不太重要的朋友",
+      "onboard_time": 1704430834,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 198573,
@@ -665,6 +769,14 @@
       "onboard_time": 1704427775,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175520,
+      "num": 175520,
+      "word": "KPL转会期",
+      "onboard_time": 1704430055,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 173280,
@@ -763,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152776,
+      "num": 152776,
+      "word": "嘲笑一只脏狗结果它是我家的",
+      "onboard_time": 1704431735,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152116,
       "num": 125753,
       "word": "繁花",
@@ -795,6 +915,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 149955,
+      "num": 149955,
+      "word": "wps崩了",
+      "onboard_time": 1704429636,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 149858,
       "num": 149858,
       "word": "南方人开始找哈尔滨旅游搭子了",
@@ -819,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144314,
+      "num": 144314,
+      "word": "睡觉时忘记做造型管理的大狮子",
+      "onboard_time": 1704430715,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141678,
       "num": 141678,
       "word": "卢比奥退役",
@@ -835,6 +971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 140175,
+      "num": 140175,
+      "word": "当东北虎被叫咪咪",
+      "onboard_time": 1704431676,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136497,
       "num": 136497,
       "word": "AI成精了",
@@ -849,14 +993,6 @@
       "onboard_time": 1704374314,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130943,
-      "num": 130943,
-      "word": "瑞幸降低员工洗手频率",
-      "onboard_time": 1704429275,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130860,
@@ -971,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111202,
+      "num": 846064,
+      "word": "11个重点场景移动网络信号将增强",
+      "onboard_time": 1704426692,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111077,
       "num": 111077,
       "word": "日本地震已致91人死亡",
@@ -985,14 +1129,6 @@
       "onboard_time": 1704372630,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 106633,
-      "num": 846064,
-      "word": "11个重点场景移动网络信号将增强",
-      "onboard_time": 1704426692,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104713,
