@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704424712139,
+  "endTime": 1704425650298,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1043,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1016747,
+      "num": 1016747,
+      "word": "狐妖王权篇开机",
+      "onboard_time": 1704422613,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1013321,
       "num": 328515,
       "word": "女子二胎分娩后肠子内脏往外凸",
@@ -1913,14 +1921,6 @@
       "onboard_time": 1704287796,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 713676,
-      "num": 713676,
-      "word": "狐妖王权篇开机",
-      "onboard_time": 1704422613,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 713273,
