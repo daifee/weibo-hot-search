@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704486883014,
+  "endTime": 1704489331099,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -13867,6 +13867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 20501,
+      "num": 20501,
+      "word": "2023年裸辞的人现在怎样了",
+      "onboard_time": 1704488174,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20332,
       "num": 20332,
       "word": "ITZY新歌MV公开",
@@ -13995,6 +14003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 13429,
+      "num": 13429,
+      "word": "美国12月非农",
+      "onboard_time": 1704486193,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 13423,
       "num": 13423,
       "word": "希望大家都能成为明快的女孩",
@@ -14003,12 +14019,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 13072,
-      "num": 13072,
-      "word": "美国12月非农",
-      "onboard_time": 1704486193,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 12737,
+      "num": 12737,
+      "word": "王者荣耀新赛季",
+      "onboard_time": 1704488713,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 12400,
