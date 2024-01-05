@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704482077567,
+  "endTime": 1704483240123,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -13803,6 +13803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 29348,
+      "num": 29348,
+      "word": "甲流刚好又感染乙流",
+      "onboard_time": 1704481517,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 27314,
       "num": 1163854,
       "word": "一句话送给2024年的自己",
@@ -13867,20 +13875,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 19645,
-      "num": 19645,
-      "word": "甲流刚好又感染乙流",
-      "onboard_time": 1704481517,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 19298,
       "num": 21943,
       "word": "小土豆初体验铲雪被东北大爷直夸",
       "onboard_time": 1704315974,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19208,
+      "num": 19208,
+      "word": "最受欢迎动漫女角色榜单",
+      "onboard_time": 1704482115,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 19028,
