@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704472680688,
+  "endTime": 1704475085955,
   "band_list": [
     {
       "raw_hot": 1711851,
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288271,
+      "num": 288271,
+      "word": "李诚儒给宋亚轩的三个忠告",
+      "onboard_time": 1704472170,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286942,
       "num": 286942,
       "word": "2024摩羯座发家之年",
@@ -192,6 +200,14 @@
       "word": "2租客发现11万现金房东免租1年",
       "onboard_time": 1704456028,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178684,
+      "num": 144728,
+      "word": "一年中最冷的时候来了",
+      "onboard_time": 1704472170,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -259,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143215,
+      "num": 93348,
+      "word": "格莱妮丝约翰斯去世",
+      "onboard_time": 1704474325,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141618,
       "num": 141618,
       "word": "假球",
@@ -281,14 +305,6 @@
       "onboard_time": 1704459152,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 132845,
-      "num": 132845,
-      "word": "李诚儒给宋亚轩的三个忠告",
-      "onboard_time": 1704472170,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 128310,
@@ -331,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118531,
+      "num": 118531,
+      "word": "中央大街现鄂伦春族老爷爷",
+      "onboard_time": 1704472170,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116920,
       "num": 116920,
       "word": "周迅汤唯黄磊同框",
@@ -371,14 +395,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109737,
-      "num": 134064,
-      "word": "一年中最冷的时候来了",
-      "onboard_time": 1704472170,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106473,
       "num": 106473,
       "word": "TTG 老盖",
@@ -387,12 +403,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 101983,
-      "num": 101983,
-      "word": "中央大街现鄂伦春族老爷爷",
-      "onboard_time": 1704472170,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 97034,
+      "num": 97034,
+      "word": "电视剧三体大史",
+      "onboard_time": 1704473306,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 93610,
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78641,
+      "num": 78641,
+      "word": "1992年上海南京路 繁花还原度",
+      "onboard_time": 1704442594,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69064,
       "num": 69064,
       "word": "冻梨摆盘后又出地瓜配勺",
@@ -439,6 +463,14 @@
       "num": 896781,
       "word": "乡村振兴追梦人",
       "onboard_time": 1704460893,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5683,
+      "num": 538316,
+      "word": "中国航天员26年出征太空12次",
+      "onboard_time": 1704460656,
       "rank": 2,
       "category": "社会新闻"
     }
