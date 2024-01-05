@@ -1,0 +1,410 @@
+{
+  "runTime": 1704453322624,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1202846,
+        "num": 1202846,
+        "word": "汪小姐吃的排骨年糕外卖量暴涨200%",
+        "onboard_time": 1704448713,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 702630,
+        "num": 702630,
+        "word": "冻梨摆盘后又出地瓜配勺",
+        "onboard_time": 1704449071,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 39627,
+        "num": 670510,
+        "word": "新型能源体系建设提速",
+        "onboard_time": 1704445952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820016,
+        "num": 668171,
+        "word": "看王家卫怎么拍分手",
+        "onboard_time": 1704446132,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290855,
+        "num": 663252,
+        "word": "黑龙江这是集体进入宠娃模式了",
+        "onboard_time": 1704448233,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662870,
+        "num": 662870,
+        "word": "朝鲜向韩国西部海域发射200多发海岸炮",
+        "onboard_time": 1704437310,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 231202,
+        "num": 662346,
+        "word": "双胞胎兄弟一个守国一个守家",
+        "onboard_time": 1704435153,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662304,
+        "num": 662304,
+        "word": "双林3比0小胖头",
+        "onboard_time": 1704451472,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 610407,
+        "num": 610407,
+        "word": "逆风如解意 容易摸胸肌",
+        "onboard_time": 1704448414,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 598618,
+        "num": 598618,
+        "word": "苹果终于不用手动设置节假日日历了",
+        "onboard_time": 1704441272,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2443972,
+        "num": 577384,
+        "word": "霍金",
+        "onboard_time": 1704447812,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1346067,
+        "num": 563403,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704451232,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530461,
+        "num": 530461,
+        "word": "五条悟回归",
+        "onboard_time": 1704448111,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 497377,
+        "num": 497377,
+        "word": "陈奕迅 如今人的品味变差了",
+        "onboard_time": 1704450034,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18579,
+        "num": 494049,
+        "word": "蛋仔派对百亿补贴",
+        "onboard_time": 1704452430,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 492153,
+        "num": 492153,
+        "word": "你会花29999买玫瑰空调吗",
+        "onboard_time": 1704442412,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482202,
+        "num": 482202,
+        "word": "央视曝河南距今2300年的赵长城被拦腰截断",
+        "onboard_time": 1704440311,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362508,
+        "num": 362508,
+        "word": "我们的翻译官定档",
+        "onboard_time": 1704447152,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340130,
+        "num": 340130,
+        "word": "网曝福彩主持人提前播报中奖球号",
+        "onboard_time": 1704440974,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304981,
+        "num": 304981,
+        "word": "樊振东发挥",
+        "onboard_time": 1704452853,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291044,
+        "num": 291044,
+        "word": "租客退租留下宫里宫气家具",
+        "onboard_time": 1704452311,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284067,
+        "num": 284067,
+        "word": "周深 曾毅在凤凰传奇的作用",
+        "onboard_time": 1704444573,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272828,
+        "num": 272828,
+        "word": "南宁赠送哈尔滨200吨砂糖橘",
+        "onboard_time": 1704443194,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267256,
+        "num": 267256,
+        "word": "武林外传和甄嬛传对上了",
+        "onboard_time": 1704450450,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253688,
+        "num": 253688,
+        "word": "长期喝奶茶会加重焦虑感",
+        "onboard_time": 1704446372,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 226992,
+        "num": 226992,
+        "word": "沈腾抽中刘德华签名海报",
+        "onboard_time": 1704452794,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224940,
+        "num": 224940,
+        "word": "白鹿将参加微博之夜",
+        "onboard_time": 1704451891,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220653,
+        "num": 220653,
+        "word": "WTT多哈男子总决赛",
+        "onboard_time": 1704452131,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220353,
+        "num": 220353,
+        "word": "邓家佳晒成健康色",
+        "onboard_time": 1704452009,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218131,
+        "num": 218131,
+        "word": "魏晨知道你们这么拍他吗",
+        "onboard_time": 1704446912,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211892,
+        "num": 211892,
+        "word": "1992年上海南京路 繁花还原度",
+        "onboard_time": 1704442594,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206555,
+        "num": 206555,
+        "word": "中方回应韩方称朝鲜发射200多发海岸炮",
+        "onboard_time": 1704443251,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206373,
+        "num": 206373,
+        "word": "抗癌博主琪琪弗去世",
+        "onboard_time": 1704437491,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198073,
+        "num": 198073,
+        "word": "猫咪山竹",
+        "onboard_time": 1704451111,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195819,
+        "num": 195819,
+        "word": "韩国西部海域延坪岛向居民下达躲避令",
+        "onboard_time": 1704434132,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188135,
+        "num": 188135,
+        "word": "确认纽约街头流浪男子是复旦校友",
+        "onboard_time": 1704441512,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179713,
+        "num": 179713,
+        "word": "健康人群千万不要少食多餐",
+        "onboard_time": 1704450511,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178341,
+        "num": 178341,
+        "word": "尔滨1天掏出1堆野生大熊猫",
+        "onboard_time": 1704447272,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168930,
+        "num": 168930,
+        "word": "nana tour",
+        "onboard_time": 1704451472,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163276,
+        "num": 163276,
+        "word": "小砂糖橘家乡回礼了",
+        "onboard_time": 1704453270,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150685,
+        "num": 150685,
+        "word": "尔滨啊",
+        "onboard_time": 1704442772,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 149164,
+        "num": 149164,
+        "word": "田嘉瑞 虽然吐血但没关系",
+        "onboard_time": 1704447571,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144617,
+        "num": 144617,
+        "word": "RIIZE空降",
+        "onboard_time": 1704449071,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136289,
+        "num": 136289,
+        "word": "浙江小孩到东北叫什么",
+        "onboard_time": 1704445651,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135071,
+        "num": 135071,
+        "word": "人为了吃蛋糕能干出什么事",
+        "onboard_time": 1704448890,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127183,
+        "num": 127183,
+        "word": "换乘恋爱3新cp交往13年",
+        "onboard_time": 1704442653,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123506,
+        "num": 123506,
+        "word": "半成品年夜饭卖爆了",
+        "onboard_time": 1704450450,
+        "rank": 46,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 119878,
+        "num": 119878,
+        "word": "大鹏请来了周星驰",
+        "onboard_time": 1704440195,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118989,
+        "num": 118989,
+        "word": "最受欢迎动漫男角色",
+        "onboard_time": 1704449372,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 112881,
+        "num": 112881,
+        "word": "爱泼斯坦文件牵出霍金",
+        "onboard_time": 1704425431,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向伊朗总统致慰问电#"
+    }
+  }
+}
