@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704465246488,
+  "endTime": 1704467904931,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -713,6 +713,14 @@
       "onboard_time": 1704025911,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1621837,
+      "num": 1621837,
+      "word": "中福彩已报警",
+      "onboard_time": 1704466476,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1616914,
@@ -1731,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 969009,
+      "num": 969009,
+      "word": "一个人骂我 说明不了什么",
+      "onboard_time": 1704465935,
+      "rank": 3,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 964532,
       "num": 964532,
       "word": "新马泰免签了也变贵了",
@@ -2025,6 +2041,14 @@
       "onboard_time": 1704076716,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 870941,
+      "num": 870941,
+      "word": "papi酱菱红下线",
+      "onboard_time": 1704465215,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 870488,
@@ -3267,6 +3291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 629320,
+      "num": 629320,
+      "word": "沈阳文旅局长深夜在线听网友支招",
+      "onboard_time": 1704463656,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628805,
       "num": 590888,
       "word": "王凯是张佳宁老板",
@@ -3577,6 +3609,14 @@
       "onboard_time": 1704152730,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 587834,
+      "num": 587834,
+      "word": "家长半夜给班主任打电话学生遭怒怼",
+      "onboard_time": 1704461431,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587650,
@@ -4435,6 +4475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 497413,
+      "num": 497413,
+      "word": "百事被家乐福封杀",
+      "onboard_time": 1704466713,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497377,
       "num": 497377,
       "word": "陈奕迅 如今人的品味变差了",
@@ -4587,6 +4635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 483782,
+      "num": 483782,
+      "word": "孙燕姿妹妹曾多次发文对姐姐不满",
+      "onboard_time": 1704466655,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483667,
       "num": 483667,
       "word": "80后男子中奖以为是电诈差点弃奖",
@@ -4617,6 +4673,14 @@
       "onboard_time": 1704164918,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 482289,
+      "num": 482289,
+      "word": "2024摩羯座发家之年",
+      "onboard_time": 1704465998,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 480575,
@@ -4928,14 +4992,6 @@
       "word": "日航起火客机上17人受伤",
       "onboard_time": 1704197013,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450171,
-      "num": 450171,
-      "word": "沈阳文旅局长深夜在线听网友支招",
-      "onboard_time": 1704463656,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -5427,6 +5483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400008,
+      "num": 400008,
+      "word": "樊振东vs王楚钦",
+      "onboard_time": 1704467256,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397568,
       "num": 397568,
       "word": "终于到了谈恋爱不怕爸妈知道的年纪",
@@ -5444,7 +5508,7 @@
     },
     {
       "raw_hot": 396513,
-      "num": 277415,
+      "num": 321253,
       "word": "母亲追着让26岁儿子喝完牛奶",
       "onboard_time": 1704459573,
       "rank": 20,
@@ -6513,14 +6577,6 @@
       "onboard_time": 1704189335,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 315223,
-      "num": 305412,
-      "word": "家长半夜给班主任打电话学生遭怒怼",
-      "onboard_time": 1704461431,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313719,
@@ -7923,6 +7979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248302,
+      "num": 248302,
+      "word": "袁励岑向鹏男双夺冠",
+      "onboard_time": 1704465998,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248262,
       "num": 248262,
       "word": "LNG 新年的折磨",
@@ -7945,6 +8009,14 @@
       "onboard_time": 1704335969,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247106,
+      "num": 247106,
+      "word": "辛芷蕾李李同天生日",
+      "onboard_time": 1704466232,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 247075,
@@ -8147,6 +8219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239752,
+      "num": 239752,
+      "word": "白客有种窝囊的性感",
+      "onboard_time": 1704465516,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239453,
       "num": 239453,
       "word": "分析师预计iPhone16销售疲软",
@@ -8168,14 +8248,6 @@
       "word": "阿宝戴济公帽",
       "onboard_time": 1704418468,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 238757,
-      "num": 218243,
-      "word": "papi酱菱红下线",
-      "onboard_time": 1704465215,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -8201,6 +8273,14 @@
       "onboard_time": 1704194912,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237388,
+      "num": 237388,
+      "word": "什么是无效恋爱",
+      "onboard_time": 1704466713,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 237009,
@@ -9331,6 +9411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206855,
+      "num": 206855,
+      "word": "TTG 老盖",
+      "onboard_time": 1704465516,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206195,
       "num": 206195,
       "word": "存量房贷利率迎来下调",
@@ -9681,6 +9769,14 @@
       "onboard_time": 1704442533,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 200182,
+      "num": 184808,
+      "word": "玲子 店门一开大家都没回头路了",
+      "onboard_time": 1704466833,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 200148,
@@ -10547,6 +10643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185546,
+      "num": 185546,
+      "word": "一般漂亮章若楠",
+      "onboard_time": 1704467374,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185528,
       "num": 185528,
       "word": "阿宝人情债",
@@ -10697,6 +10801,14 @@
       "onboard_time": 1704464196,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183789,
+      "num": 183789,
+      "word": "戚薇跟刘维说我帮不了你",
+      "onboard_time": 1704467494,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 183747,
@@ -12689,6 +12801,14 @@
       "onboard_time": 1704272133,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149674,
+      "num": 149674,
+      "word": "不要给我推荐可能认识的人了",
+      "onboard_time": 1704466894,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 149665,
@@ -15019,6 +15139,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 109625,
+      "num": 109625,
+      "word": "周迅汤唯黄磊同框",
+      "onboard_time": 1704467855,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109212,
       "num": 109212,
       "word": "2023德玛西亚杯",
@@ -16356,7 +16484,7 @@
     },
     {
       "raw_hot": 43871,
-      "num": 877376,
+      "num": 1283053,
       "word": "乡村振兴追梦人",
       "onboard_time": 1704460893,
       "rank": 2,
