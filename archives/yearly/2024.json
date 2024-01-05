@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704435775273,
+  "endTime": 1704436563425,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -611,6 +611,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1385205,
+      "num": 590888,
+      "word": "中国单身汉开始涌向尼泊尔找老婆",
+      "onboard_time": 1704432392,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1381638,
       "num": 1381638,
       "word": "iPhone16Pro渲染图曝光",
@@ -697,14 +705,6 @@
       "onboard_time": 1704248911,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1277220,
-      "num": 589462,
-      "word": "中国单身汉开始涌向尼泊尔找老婆",
-      "onboard_time": 1704432392,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1242405,
