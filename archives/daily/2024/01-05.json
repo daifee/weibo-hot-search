@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704411281600,
+  "endTime": 1704417350125,
   "band_list": [
     {
       "raw_hot": 1723494,
@@ -8,6 +8,30 @@
       "word": "广西北海地震",
       "onboard_time": 1704379117,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1242405,
+      "num": 1242405,
+      "word": "腾讯破30000的四部剧",
+      "onboard_time": 1704413010,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1207050,
+      "num": 1207050,
+      "word": "iPhone16Pro渲染图曝光",
+      "onboard_time": 1704414874,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 1132796,
+      "num": 445973,
+      "word": "日本记者吐槽民众给震区寄千纸鹤",
+      "onboard_time": 1704410604,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -20,11 +44,27 @@
     },
     {
       "raw_hot": 795594,
-      "num": 136092,
+      "num": 259223,
       "word": "痞幼谈内衣照事件",
       "onboard_time": 1704367953,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 737944,
+      "num": 737944,
+      "word": "五天前vs五天后看繁花",
+      "onboard_time": 1704412409,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 733683,
+      "num": 733683,
+      "word": "花少5直接打包去中餐厅",
+      "onboard_time": 1704415773,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 725061,
@@ -59,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633714,
+      "num": 633714,
+      "word": "花花玩肚子上的肉肉",
+      "onboard_time": 1704410303,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611457,
       "num": 611457,
       "word": "繁花宝总全名叫什么",
@@ -67,11 +115,27 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 472498,
-      "num": 472498,
+      "raw_hot": 568534,
+      "num": 568534,
       "word": "杭州姑娘一句想吃冻梨司机直接下车买",
       "onboard_time": 1704384626,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520830,
+      "num": 520830,
+      "word": "韩国年轻人不结婚的理由",
+      "onboard_time": 1704412771,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 437180,
+      "num": 256479,
+      "word": "车厘子价格遭腰斩",
+      "onboard_time": 1704410905,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -83,12 +147,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367766,
+      "num": 249907,
+      "word": "怎么会有人暗恋同事啊",
+      "onboard_time": 1704412467,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 359015,
+      "num": 359015,
+      "word": "繁花里出现了18岁的马伊琍",
+      "onboard_time": 1704366990,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335448,
       "num": 335448,
       "word": "小时代5之鸣龙时代是吧",
       "onboard_time": 1704379176,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309349,
+      "num": 309349,
+      "word": "金桔吃不吃皮",
+      "onboard_time": 1704410845,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 302114,
+      "num": 302114,
+      "word": "沈阳文旅局长在线截胡小砂糖橘们",
+      "onboard_time": 1704416372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296687,
+      "num": 296687,
+      "word": "鄂伦春自治旗人大常委会主任感谢网友",
+      "onboard_time": 1704413914,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296622,
@@ -99,16 +203,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 294102,
-      "num": 294102,
-      "word": "繁花里出现了18岁的马伊琍",
-      "onboard_time": 1704366990,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285264,
-      "num": 133902,
+      "num": 209776,
       "word": "女大学生跨年夜憋尿4小时进医院",
       "onboard_time": 1704372692,
       "rank": 21,
@@ -123,12 +219,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282471,
+      "num": 244842,
+      "word": "情绪稳定 已经疯了",
+      "onboard_time": 1704416073,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 276187,
       "num": 276187,
       "word": "萌兰到家政公司上班了",
       "onboard_time": 1704383251,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273201,
+      "num": 241243,
+      "word": "繁花一集10个广告",
+      "onboard_time": 1704412226,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 261894,
+      "num": 261894,
+      "word": "收红包时的高情商回复",
+      "onboard_time": 1704415354,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 260642,
@@ -147,11 +267,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 244595,
+      "num": 244595,
+      "word": "医生常说的观察一下是什么意思",
+      "onboard_time": 1704416134,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 242246,
       "num": 242246,
       "word": "沈耀承认了抑郁症",
       "onboard_time": 1704368311,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237143,
+      "num": 209961,
+      "word": "老婆力劝范志毅出演繁花",
+      "onboard_time": 1704416791,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -163,19 +299,27 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 218721,
+      "num": 218721,
+      "word": "漫画家身价排名",
+      "onboard_time": 1704415292,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 218045,
-      "num": 133109,
+      "num": 137249,
       "word": "女老总KTV楼下被男友用砖砸死",
       "onboard_time": 1704368491,
       "rank": 22,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215054,
-      "num": 215054,
-      "word": "花花玩肚子上的肉肉",
-      "onboard_time": 1704410303,
-      "rank": 12,
+      "raw_hot": 217522,
+      "num": 217522,
+      "word": "央广网评哈尔滨火了",
+      "onboard_time": 1704410544,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -203,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165567,
-      "num": 81698,
-      "word": "日本记者吐槽民众给震区寄千纸鹤",
-      "onboard_time": 1704410604,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163594,
       "num": 163594,
       "word": "格力回应玫瑰空调被吐槽又土又贵",
@@ -219,8 +355,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162448,
+      "num": 162448,
+      "word": "听障父母摆摊给女儿买人工耳蜗",
+      "onboard_time": 1704416734,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161065,
-      "num": 128458,
+      "num": 146006,
       "word": "阿房宫出土一种杯子专门用来喝露水",
       "onboard_time": 1704381814,
       "rank": 25,
@@ -251,6 +395,46 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151746,
+      "num": 151746,
+      "word": "宋轶杜莎蜡像",
+      "onboard_time": 1704388161,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150054,
+      "num": 150054,
+      "word": "坚持一个月把肾气补回来",
+      "onboard_time": 1704398293,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 145802,
+      "num": 145802,
+      "word": "宝总 汪小姐",
+      "onboard_time": 1704417151,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145597,
+      "num": 145597,
+      "word": "哈尔滨文创冰箱贴还有AR动画",
+      "onboard_time": 1704416372,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141678,
+      "num": 141678,
+      "word": "卢比奥退役",
+      "onboard_time": 1704413493,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136497,
       "num": 136497,
       "word": "AI成精了",
@@ -267,12 +451,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126870,
+      "num": 126870,
+      "word": "足球小将完结",
+      "onboard_time": 1704416971,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 125625,
       "num": 125625,
       "word": "神隐大结局",
       "onboard_time": 1704366092,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125132,
+      "num": 125132,
+      "word": "原来烤冷面是真的面",
+      "onboard_time": 1704410665,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 121881,
+      "num": 121881,
+      "word": "中国这位司机师傅有F1驾照",
+      "onboard_time": 1704414754,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120975,
@@ -307,12 +515,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 105279,
-      "num": 105279,
-      "word": "央广网评哈尔滨火了",
-      "onboard_time": 1704410544,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 104713,
+      "num": 104713,
+      "word": "哈姆与湖人产生分歧",
+      "onboard_time": 1704414093,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 104585,
@@ -331,12 +539,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 99240,
-      "num": 99240,
-      "word": "坚持一个月把肾气补回来",
-      "onboard_time": 1704398293,
-      "rank": 23,
-      "category": "运动健身"
+      "raw_hot": 102448,
+      "num": 102448,
+      "word": "尔滨淘学企鹅是见过世面的",
+      "onboard_time": 1704414333,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 102145,
+      "num": 102145,
+      "word": "给亿万富翁当私厨的一天",
+      "onboard_time": 1704412467,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 97917,
@@ -451,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85773,
-      "num": 85773,
-      "word": "原来烤冷面是真的面",
-      "onboard_time": 1704410665,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 84920,
       "num": 84920,
       "word": "KISS OF LIFE跳了GUILTY",
@@ -483,28 +691,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 73921,
-      "num": 73921,
-      "word": "金桔吃不吃皮",
-      "onboard_time": 1704410845,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 73778,
       "num": 82140,
       "word": "超机智青年大会 窒息7分钟",
       "onboard_time": 1704381397,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72385,
-      "num": 72385,
-      "word": "车厘子价格遭腰斩",
-      "onboard_time": 1704410905,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70464,
@@ -521,14 +713,6 @@
       "onboard_time": 1704402073,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 67763,
-      "num": 67763,
-      "word": "宋轶杜莎蜡像",
-      "onboard_time": 1704388161,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 66812,
@@ -563,8 +747,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35688,
-      "num": 739529,
+      "raw_hot": 51320,
+      "num": 911130,
       "word": "全国首个陆缆穿海工程",
       "onboard_time": 1704371551,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704411281600,
+  "endTime": 1704417350125,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -683,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1242405,
+      "num": 1242405,
+      "word": "腾讯破30000的四部剧",
+      "onboard_time": 1704413010,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1239716,
       "num": 855126,
       "word": "冷门歌手孙燕姿",
@@ -737,6 +745,14 @@
       "onboard_time": 1704190293,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1207050,
+      "num": 1207050,
+      "word": "iPhone16Pro渲染图曝光",
+      "onboard_time": 1704414874,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 1195515,
@@ -857,6 +873,14 @@
       "onboard_time": 1704272133,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1132796,
+      "num": 445973,
+      "word": "日本记者吐槽民众给震区寄千纸鹤",
+      "onboard_time": 1704410604,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1132312,
@@ -1739,6 +1763,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 737944,
+      "num": 737944,
+      "word": "五天前vs五天后看繁花",
+      "onboard_time": 1704412409,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 733683,
+      "num": 733683,
+      "word": "花少5直接打包去中餐厅",
+      "onboard_time": 1704415773,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 733327,
       "num": 733327,
       "word": "孕妇被坠窗砸伤为治疗终止妊娠",
@@ -2235,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633714,
+      "num": 633714,
+      "word": "花花玩肚子上的肉肉",
+      "onboard_time": 1704410303,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632257,
       "num": 632257,
       "word": "胡歌 第一个吻戏是咸的",
@@ -2539,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568534,
+      "num": 568534,
+      "word": "杭州姑娘一句想吃冻梨司机直接下车买",
+      "onboard_time": 1704384626,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566732,
       "num": 852570,
       "word": "跨年朋友圈",
@@ -2833,6 +2889,14 @@
       "onboard_time": 1704162579,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520830,
+      "num": 520830,
+      "word": "韩国年轻人不结婚的理由",
+      "onboard_time": 1704412771,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 520289,
@@ -3235,14 +3299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 472498,
-      "num": 472498,
-      "word": "杭州姑娘一句想吃冻梨司机直接下车买",
-      "onboard_time": 1704384626,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 471645,
       "num": 471645,
       "word": "农行纪念币",
@@ -3401,6 +3457,14 @@
       "onboard_time": 1704258214,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 437180,
+      "num": 256479,
+      "word": "车厘子价格遭腰斩",
+      "onboard_time": 1704410905,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436116,
@@ -3971,6 +4035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367766,
+      "num": 249907,
+      "word": "怎么会有人暗恋同事啊",
+      "onboard_time": 1704412467,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 367357,
       "num": 367357,
       "word": "王皓表情",
@@ -4523,6 +4595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 309349,
+      "num": 309349,
+      "word": "金桔吃不吃皮",
+      "onboard_time": 1704410845,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 308616,
       "num": 308616,
       "word": "乔欣和姐姐自拍",
@@ -4619,6 +4699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302114,
+      "num": 302114,
+      "word": "沈阳文旅局长在线截胡小砂糖橘们",
+      "onboard_time": 1704416372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301963,
       "num": 301963,
       "word": "今年我一定瘦",
@@ -4673,6 +4761,14 @@
       "onboard_time": 1704102397,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 296687,
+      "num": 296687,
+      "word": "鄂伦春自治旗人大常委会主任感谢网友",
+      "onboard_time": 1704413914,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296618,
@@ -4931,6 +5027,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 282471,
+      "num": 244842,
+      "word": "情绪稳定 已经疯了",
+      "onboard_time": 1704416073,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 282111,
       "num": 282111,
       "word": "TWS出道先行曲",
@@ -5057,6 +5161,14 @@
       "onboard_time": 1704257617,
       "rank": 27,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 273201,
+      "num": 241243,
+      "word": "繁花一集10个广告",
+      "onboard_time": 1704412226,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 272566,
@@ -5249,6 +5361,14 @@
       "onboard_time": 1704150743,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261894,
+      "num": 261894,
+      "word": "收红包时的高情商回复",
+      "onboard_time": 1704415354,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 261792,
@@ -5539,6 +5659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244595,
+      "num": 244595,
+      "word": "医生常说的观察一下是什么意思",
+      "onboard_time": 1704416134,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 244533,
       "num": 254150,
       "word": "他们经理饿了 就贴我们锅里了",
@@ -5641,6 +5769,14 @@
       "onboard_time": 1704194912,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237143,
+      "num": 209961,
+      "word": "老婆力劝范志毅出演繁花",
+      "onboard_time": 1704416791,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 237009,
@@ -6155,6 +6291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218721,
+      "num": 218721,
+      "word": "漫画家身价排名",
+      "onboard_time": 1704415292,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 218706,
       "num": 218706,
       "word": "边伯贤成立公司",
@@ -6193,6 +6337,14 @@
       "onboard_time": 1704343359,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 217522,
+      "num": 217522,
+      "word": "央广网评哈尔滨火了",
+      "onboard_time": 1704410544,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217514,
@@ -6249,14 +6401,6 @@
       "onboard_time": 1704198991,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 215054,
-      "num": 215054,
-      "word": "花花玩肚子上的肉肉",
-      "onboard_time": 1704410303,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214873,
@@ -8051,14 +8195,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 165567,
-      "num": 81698,
-      "word": "日本记者吐槽民众给震区寄千纸鹤",
-      "onboard_time": 1704410604,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165564,
       "num": 165564,
       "word": "胡歌 扛剧",
@@ -8177,6 +8313,14 @@
       "onboard_time": 1704266069,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162448,
+      "num": 162448,
+      "word": "听障父母摆摊给女儿买人工耳蜗",
+      "onboard_time": 1704416734,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162068,
@@ -8531,6 +8675,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 151746,
+      "num": 151746,
+      "word": "宋轶杜莎蜡像",
+      "onboard_time": 1704388161,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151714,
       "num": 151714,
       "word": "英雄联盟",
@@ -8675,6 +8827,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 150054,
+      "num": 150054,
+      "word": "坚持一个月把肾气补回来",
+      "onboard_time": 1704398293,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 149915,
       "num": 149915,
       "word": "凤隐元启大婚假戏真做",
@@ -8801,6 +8961,22 @@
       "onboard_time": 1704197974,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145802,
+      "num": 145802,
+      "word": "宝总 汪小姐",
+      "onboard_time": 1704417151,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145597,
+      "num": 145597,
+      "word": "哈尔滨文创冰箱贴还有AR动画",
+      "onboard_time": 1704416372,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145545,
@@ -9025,6 +9201,14 @@
       "onboard_time": 1704122857,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141678,
+      "num": 141678,
+      "word": "卢比奥退役",
+      "onboard_time": 1704413493,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 141620,
@@ -9635,6 +9819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126870,
+      "num": 126870,
+      "word": "足球小将完结",
+      "onboard_time": 1704416971,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 126567,
       "num": 126567,
       "word": "詹姆斯1分钟连得9分",
@@ -9697,6 +9889,14 @@
       "onboard_time": 1704285392,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125132,
+      "num": 125132,
+      "word": "原来烤冷面是真的面",
+      "onboard_time": 1704410665,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 124833,
@@ -9793,6 +9993,14 @@
       "onboard_time": 1704115899,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121881,
+      "num": 121881,
+      "word": "中国这位司机师傅有F1驾照",
+      "onboard_time": 1704414754,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121651,
@@ -10187,20 +10395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105279,
-      "num": 105279,
-      "word": "央广网评哈尔滨火了",
-      "onboard_time": 1704410544,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105031,
       "num": 202749,
       "word": "深圳一步一个瑶妹",
       "onboard_time": 1704091832,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 104713,
+      "num": 104713,
+      "word": "哈姆与湖人产生分歧",
+      "onboard_time": 1704414093,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 104561,
@@ -10227,12 +10435,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102448,
+      "num": 102448,
+      "word": "尔滨淘学企鹅是见过世面的",
+      "onboard_time": 1704414333,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102218,
       "num": 651934,
       "word": "银川震感",
       "onboard_time": 1704036782,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102145,
+      "num": 102145,
+      "word": "给亿万富翁当私厨的一天",
+      "onboard_time": 1704412467,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 101572,
@@ -10257,14 +10481,6 @@
       "onboard_time": 1704063378,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99240,
-      "num": 99240,
-      "word": "坚持一个月把肾气补回来",
-      "onboard_time": 1704398293,
-      "rank": 23,
-      "category": "运动健身"
     },
     {
       "raw_hot": 98998,
@@ -10435,14 +10651,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 85773,
-      "num": 85773,
-      "word": "原来烤冷面是真的面",
-      "onboard_time": 1704410665,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 85242,
       "num": 77375,
       "word": "陶喆真的老了",
@@ -10595,28 +10803,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 73921,
-      "num": 73921,
-      "word": "金桔吃不吃皮",
-      "onboard_time": 1704410845,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 73288,
       "num": 382088,
       "word": "李国庆宣布离婚成功",
       "onboard_time": 1704011011,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 72385,
-      "num": 72385,
-      "word": "车厘子价格遭腰斩",
-      "onboard_time": 1704410905,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72308,
@@ -10681,14 +10873,6 @@
       "onboard_time": 1704213683,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 67763,
-      "num": 67763,
-      "word": "宋轶杜莎蜡像",
-      "onboard_time": 1704388161,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 66812,
@@ -10931,6 +11115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51320,
+      "num": 911130,
+      "word": "全国首个陆缆穿海工程",
+      "onboard_time": 1704371551,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51022,
       "num": 102163,
       "word": "2024年元旦升旗",
@@ -11089,14 +11281,6 @@
       "onboard_time": 1704170801,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 35688,
-      "num": 739529,
-      "word": "全国首个陆缆穿海工程",
-      "onboard_time": 1704371551,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34262,
