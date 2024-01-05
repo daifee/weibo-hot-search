@@ -1,0 +1,410 @@
+{
+  "runTime": 1704428496456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1019418,
+        "num": 1019418,
+        "word": "李铁对着镜头说非常后悔",
+        "onboard_time": 1704421529,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 919428,
+        "num": 919428,
+        "word": "爱泼斯坦文件牵出霍金",
+        "onboard_time": 1704425431,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98909,
+        "num": 846064,
+        "word": "11个重点场景移动网络信号将增强",
+        "onboard_time": 1704426692,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817887,
+        "num": 817887,
+        "word": "狐妖王权篇开机",
+        "onboard_time": 1704422613,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 718234,
+        "num": 718234,
+        "word": "超七成年轻人开始关注奶茶健康",
+        "onboard_time": 1704425191,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 654544,
+        "num": 654544,
+        "word": "刘诗诗摇滚歌姬",
+        "onboard_time": 1704426031,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 623918,
+        "num": 623918,
+        "word": "哈尔滨为什么叫尔滨",
+        "onboard_time": 1704419428,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 538048,
+        "num": 538048,
+        "word": "李荣书退团",
+        "onboard_time": 1704426994,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489145,
+        "num": 489145,
+        "word": "林一沈月吻戏身高差",
+        "onboard_time": 1704425790,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485392,
+        "num": 485392,
+        "word": "iPhone16Pro渲染图曝光",
+        "onboard_time": 1704414874,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 477318,
+        "num": 477318,
+        "word": "小土豆说哈尔滨菜量太大每天都吃撑",
+        "onboard_time": 1704421529,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73307,
+        "num": 447696,
+        "word": "当咖啡机器人变成新型打工人",
+        "onboard_time": 1704426393,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 439326,
+        "num": 439326,
+        "word": "京考成绩",
+        "onboard_time": 1704426512,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 420387,
+        "num": 420387,
+        "word": "哈尔滨惊现15元1个小土豆挂件",
+        "onboard_time": 1704373234,
+        "rank": 13,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 409643,
+        "num": 409643,
+        "word": "肖战黑粉被强执3.7万",
+        "onboard_time": 1704423932,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401969,
+        "num": 401969,
+        "word": "警方通报东航乘客机舱内大闹",
+        "onboard_time": 1704423093,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373813,
+        "num": 373813,
+        "word": "腾讯破30000的四部剧",
+        "onboard_time": 1704413010,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319000,
+        "num": 319000,
+        "word": "小砂糖橘老家景区对东北老铁免门票",
+        "onboard_time": 1704421708,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 295300,
+        "num": 295300,
+        "word": "唐嫣演技",
+        "onboard_time": 1704420569,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290010,
+        "num": 290010,
+        "word": "成毅出妆路透",
+        "onboard_time": 1704427715,
+        "rank": 19,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 278945,
+        "num": 278945,
+        "word": "花少5直接打包去中餐厅",
+        "onboard_time": 1704415773,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265356,
+        "num": 265356,
+        "word": "96家央企一把手年薪披露",
+        "onboard_time": 1704418648,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263752,
+        "num": 263752,
+        "word": "老婆力劝范志毅出演繁花",
+        "onboard_time": 1704416791,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246541,
+        "num": 246541,
+        "word": "邓为芭莎男士封面预告",
+        "onboard_time": 1704427775,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 235534,
+        "num": 235534,
+        "word": "东北虎二埋汰",
+        "onboard_time": 1704426453,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 233632,
+        "num": 233632,
+        "word": "花花玩肚子上的肉肉",
+        "onboard_time": 1704410303,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232376,
+        "num": 232376,
+        "word": "沈阳文旅局长在线截胡小砂糖橘们",
+        "onboard_time": 1704416372,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214302,
+        "num": 214302,
+        "word": "王家卫 阿宝要找到李逍遥的感觉",
+        "onboard_time": 1704424952,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208909,
+        "num": 208909,
+        "word": "南方宝宝在东北阿姨赞美声中迷失",
+        "onboard_time": 1704427894,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201184,
+        "num": 201184,
+        "word": "不亚于图书馆30秒的外卖评价",
+        "onboard_time": 1704425373,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197021,
+        "num": 197021,
+        "word": "冻梨刺身",
+        "onboard_time": 1704428016,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194958,
+        "num": 194958,
+        "word": "车厘子价格遭腰斩",
+        "onboard_time": 1704410905,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184632,
+        "num": 184632,
+        "word": "张杰献唱大雨主题曲",
+        "onboard_time": 1704427775,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182664,
+        "num": 182664,
+        "word": "宝总 汪小姐",
+        "onboard_time": 1704417151,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176890,
+        "num": 176890,
+        "word": "日本地震已致242人下落不明",
+        "onboard_time": 1704420389,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173786,
+        "num": 173786,
+        "word": "痞幼谈内衣照事件",
+        "onboard_time": 1704367953,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166288,
+        "num": 166288,
+        "word": "大鹏 一段rap把星爷cpu干烧了",
+        "onboard_time": 1704428073,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165331,
+        "num": 165331,
+        "word": "死期将至",
+        "onboard_time": 1704428314,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161520,
+        "num": 161520,
+        "word": "电台主持人发表争议言论后涨粉700多万",
+        "onboard_time": 1704428256,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160588,
+        "num": 160588,
+        "word": "KPL",
+        "onboard_time": 1704428134,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159982,
+        "num": 159982,
+        "word": "收红包时的高情商回复",
+        "onboard_time": 1704415354,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159165,
+        "num": 159165,
+        "word": "鸣龙少年 你个癫剧",
+        "onboard_time": 1704419068,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153933,
+        "num": 153933,
+        "word": "演员任泉为家乡黑龙江旅游打call",
+        "onboard_time": 1704425611,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151391,
+        "num": 151391,
+        "word": "繁花宝总全名叫什么",
+        "onboard_time": 1704378876,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149748,
+        "num": 149748,
+        "word": "日本记者吐槽民众给震区寄千纸鹤",
+        "onboard_time": 1704410604,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144467,
+        "num": 144467,
+        "word": "尔滨烤地瓜摊主上新活",
+        "onboard_time": 1704427414,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140956,
+        "num": 140956,
+        "word": "95后夫妻欲攒200万返乡生活",
+        "onboard_time": 1704427293,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140909,
+        "num": 140909,
+        "word": "尔滨火到股市",
+        "onboard_time": 1704425790,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139287,
+        "num": 139287,
+        "word": "情绪稳定 已经疯了",
+        "onboard_time": 1704416073,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139017,
+        "num": 139017,
+        "word": "丫丫新年第一次亮相",
+        "onboard_time": 1704418350,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局常务委员会召开会议#"
+    }
+  }
+}
