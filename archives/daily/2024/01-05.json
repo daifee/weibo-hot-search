@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704442935210,
+  "endTime": 1704443725908,
   "band_list": [
     {
       "raw_hot": 3426448,
@@ -43,6 +43,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1286576,
+      "num": 1286576,
+      "word": "苹果终于不用手动设置节假日日历了",
+      "onboard_time": 1704441272,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1242405,
       "num": 1242405,
       "word": "腾讯破30000的四部剧",
@@ -63,6 +71,14 @@
       "num": 1103406,
       "word": "南阳一公职人员兼职日薪税后3000",
       "onboard_time": 1704430360,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1075499,
+      "num": 1075499,
+      "word": "网曝福彩主持人提前播报中奖球号",
+      "onboard_time": 1704440974,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -99,14 +115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1004371,
-      "num": 1004371,
-      "word": "网曝福彩主持人提前播报中奖球号",
-      "onboard_time": 1704440974,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 982862,
       "num": 982862,
       "word": "网曝贵阳一马路上夜间多人爬行",
@@ -121,14 +129,6 @@
       "onboard_time": 1704416372,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 913670,
-      "num": 403462,
-      "word": "苹果终于不用手动设置节假日日历了",
-      "onboard_time": 1704441272,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 896342,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 628527,
+      "num": 628527,
+      "word": "央视曝河南距今2300年的赵长城被拦腰截断",
+      "onboard_time": 1704440311,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 618852,
       "num": 618852,
       "word": "微博之夜第二波阵容官宣",
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545700,
+      "num": 545700,
+      "word": "尔滨啊",
+      "onboard_time": 1704442772,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 540660,
       "num": 540660,
       "word": "唐嫣演技",
@@ -467,6 +483,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 460070,
+      "num": 460070,
+      "word": "哈尔滨玩5天花三千元",
+      "onboard_time": 1704439230,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 454838,
       "num": 454838,
       "word": "D社称李善均遗书内容不实",
@@ -499,36 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426698,
+      "num": 426698,
+      "word": "侵华日军七三一部队遗址前排起长队",
+      "onboard_time": 1704438870,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421475,
+      "num": 421475,
+      "word": "确认纽约街头流浪男子是复旦校友",
+      "onboard_time": 1704441512,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416418,
       "num": 416418,
       "word": "杨紫PRADA彩妆及香水代言人",
       "onboard_time": 1704422008,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 416413,
-      "num": 416413,
-      "word": "央视曝河南距今2300年的赵长城被拦腰截断",
-      "onboard_time": 1704440311,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 413115,
-      "num": 413115,
-      "word": "哈尔滨玩5天花三千元",
-      "onboard_time": 1704439230,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 408178,
-      "num": 408178,
-      "word": "侵华日军七三一部队遗址前排起长队",
-      "onboard_time": 1704438870,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 405766,
@@ -585,6 +601,22 @@
       "onboard_time": 1704412467,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 364755,
+      "num": 364755,
+      "word": "秦岚被外国人合照",
+      "onboard_time": 1704440851,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 362220,
+      "num": 187122,
+      "word": "中方回应韩方称朝鲜发射200多发海岸炮",
+      "onboard_time": 1704443251,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 359916,
@@ -683,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309835,
+      "num": 186569,
+      "word": "1992年上海南京路 繁花还原度",
+      "onboard_time": 1704442594,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309349,
       "num": 309349,
       "word": "金桔吃不吃皮",
@@ -755,19 +795,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279326,
+      "num": 279326,
+      "word": "换乘恋爱3新cp交往13年",
+      "onboard_time": 1704442653,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276187,
       "num": 276187,
       "word": "萌兰到家政公司上班了",
       "onboard_time": 1704383251,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275601,
-      "num": 275601,
-      "word": "确认纽约街头流浪男子是复旦校友",
-      "onboard_time": 1704441512,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -777,14 +817,6 @@
       "onboard_time": 1704412226,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 271104,
-      "num": 271104,
-      "word": "秦岚被外国人合照",
-      "onboard_time": 1704440851,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 266535,
@@ -833,6 +865,14 @@
       "onboard_time": 1704422550,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250395,
+      "num": 250395,
+      "word": "你会花29999买玫瑰空调吗",
+      "onboard_time": 1704442412,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249853,
@@ -963,6 +1003,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212476,
+      "num": 212476,
+      "word": "特斯拉召回超160万辆车",
+      "onboard_time": 1704443312,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 208733,
+      "num": 208733,
+      "word": "陈星旭身材",
+      "onboard_time": 1704443251,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208016,
+      "num": 208016,
+      "word": "李铁的刘海还在",
+      "onboard_time": 1704442113,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204583,
       "num": 204583,
       "word": "00后女孩把非遗青花瓷穿在身上",
@@ -987,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200329,
+      "num": 200329,
+      "word": "中国神华市值超宁德时代",
+      "onboard_time": 1704442533,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 199436,
       "num": 199436,
       "word": "梁朝伟模仿老婆大赛获专业评委认可",
@@ -1003,28 +1075,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198194,
-      "num": 182633,
-      "word": "1992年上海南京路 繁花还原度",
-      "onboard_time": 1704442594,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196355,
       "num": 196355,
       "word": "掘金vs勇士",
       "onboard_time": 1704432692,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190465,
-      "num": 190465,
-      "word": "换乘恋爱3新cp交往13年",
-      "onboard_time": 1704442653,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 188032,
@@ -1091,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183798,
-      "num": 183798,
-      "word": "李铁的刘海还在",
-      "onboard_time": 1704442113,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182344,
       "num": 182344,
       "word": "广西第一批砂糖橘已抵达哈尔滨",
@@ -1139,14 +1187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173547,
-      "num": 173547,
-      "word": "中国神华市值超宁德时代",
-      "onboard_time": 1704442533,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 173280,
       "num": 157749,
       "word": "玲子回归砸了夜东京",
@@ -1171,20 +1211,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167872,
-      "num": 167872,
-      "word": "你会花29999买玫瑰空调吗",
-      "onboard_time": 1704442412,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167794,
       "num": 167794,
       "word": "爱心人士捐赠砂糖橘沃柑发往哈尔滨",
       "onboard_time": 1704419608,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167281,
+      "num": 167281,
+      "word": "娜扎的童年是一个巨大的甄嬛传",
+      "onboard_time": 1704443430,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 166884,
@@ -1211,14 +1251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163860,
-      "num": 163860,
-      "word": "尔滨啊",
-      "onboard_time": 1704442772,
-      "rank": 36,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 163749,
       "num": 163749,
       "word": "极端组织宣称对伊朗爆炸袭击负责",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1704416734,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161831,
+      "num": 161831,
+      "word": "美军一轰炸机坠毁",
+      "onboard_time": 1704443312,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 161065,
@@ -1360,6 +1400,14 @@
       "word": "南方人开始找哈尔滨旅游搭子了",
       "onboard_time": 1704424829,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145621,
+      "num": 145621,
+      "word": "南宁赠送哈尔滨200吨砂糖橘",
+      "onboard_time": 1704443194,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1531,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123240,
+      "num": 123240,
+      "word": "上海男孩离开尔滨前大哭不想走",
+      "onboard_time": 1704443132,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121881,
       "num": 121881,
       "word": "中国这位司机师傅有F1驾照",
@@ -1545,6 +1601,14 @@
       "onboard_time": 1704408139,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118655,
+      "num": 118655,
+      "word": "小砂糖橘拔河赢了消防员叔叔",
+      "onboard_time": 1704443552,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117747,
@@ -1923,8 +1987,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33771,
-      "num": 777324,
+      "raw_hot": 38909,
+      "num": 1167350,
       "word": "天宫机械臂视角看治愈系地球",
       "onboard_time": 1704426271,
       "rank": 2,
