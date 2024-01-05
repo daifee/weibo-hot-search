@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/06 07:17:46
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/06 07:34:43
 </p>
 </blockquote>
 <p>
@@ -1665,6 +1665,12 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%8D%8A%E5%A4%9C%E7%BB%99%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%89%93%E7%94%B5%E8%AF%9D%E5%AD%A6%E7%94%9F%E9%81%AD%E6%80%92%E6%80%BC%23" target="weibo">
+家长半夜给班主任打电话学生遭怒怼（热度：713998）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%96%91%E4%BC%BC%E9%A2%88%E9%9D%99%E8%84%89%E6%8D%9F%E4%BC%A4%23" target="weibo">
 李在明疑似颈静脉损伤（热度：713273）
 </a>
@@ -1805,12 +1811,6 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E4%BA%86%20%E9%9B%B7%E9%B8%A3%E7%BB%88%E4%BA%8E%E6%B8%85%E7%99%BD%E4%BA%86%23" target="weibo">
 十年了 雷鸣终于清白了（热度：678307）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%20%E4%BD%A0%E8%B5%B6%E5%95%A5%E5%91%80%E5%85%84%E5%BC%9F%23" target="weibo">
-王皓 你赶啥呀兄弟（热度：676688）
 </a>
 </li>
 

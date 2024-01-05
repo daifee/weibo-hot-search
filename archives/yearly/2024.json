@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704496666853,
+  "endTime": 1704497683715,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2203,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713998,
+      "num": 713998,
+      "word": "家长半夜给班主任打电话学生遭怒怼",
+      "onboard_time": 1704461431,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713273,
       "num": 713273,
       "word": "李在明疑似颈静脉损伤",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704073476,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 676688,
-      "num": 676688,
-      "word": "王皓 你赶啥呀兄弟",
-      "onboard_time": 1704376715,
-      "rank": 10,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

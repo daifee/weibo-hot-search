@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704496666853,
+  "endTime": 1704497683715,
   "band_list": [
     {
       "raw_hot": 1711851,
@@ -51,20 +51,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 713998,
+      "num": 713998,
+      "word": "家长半夜给班主任打电话学生遭怒怼",
+      "onboard_time": 1704461431,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 624130,
       "num": 400082,
       "word": "孙燕姿妹妹曾多次发文对姐姐不满",
       "onboard_time": 1704466655,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 609413,
-      "num": 609413,
-      "word": "家长半夜给班主任打电话学生遭怒怼",
-      "onboard_time": 1704461431,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 541950,
@@ -105,6 +105,14 @@
       "onboard_time": 1704465215,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 413845,
+      "num": 413845,
+      "word": "预算18w去哈尔滨",
+      "onboard_time": 1704496337,
+      "rank": 13,
+      "category": "旅游"
     },
     {
       "raw_hot": 388509,
@@ -179,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218671,
+      "num": 100944,
+      "word": "家属已知复旦留美博士流浪纽约街头",
+      "onboard_time": 1704495799,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217289,
       "num": 217289,
       "word": "什么是无效恋爱",
@@ -200,6 +216,22 @@
       "word": "2租客发现11万现金房东免租1年",
       "onboard_time": 1704456028,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186259,
+      "num": 186259,
+      "word": "小寒",
+      "onboard_time": 1704497241,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184115,
+      "num": 184115,
+      "word": "中央大街现鄂伦春族老爷爷",
+      "onboard_time": 1704472170,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -233,14 +265,6 @@
       "onboard_time": 1704468094,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168098,
-      "num": 168098,
-      "word": "中央大街现鄂伦春族老爷爷",
-      "onboard_time": 1704472170,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163679,
@@ -297,6 +321,14 @@
       "onboard_time": 1704459152,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138684,
+      "num": 138684,
+      "word": "尔滨 烈烈龙来了",
+      "onboard_time": 1704494716,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 135697,
@@ -387,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 110506,
+      "num": 110506,
+      "word": "谢娜听到陈乔恩参加婚恋节目的反应",
+      "onboard_time": 1704463054,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110088,
       "num": 110088,
       "word": "Doinb更新动态",
@@ -403,12 +443,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 106407,
-      "num": 106407,
-      "word": "预算18w去哈尔滨",
-      "onboard_time": 1704496337,
-      "rank": 13,
-      "category": "旅游"
+      "raw_hot": 98091,
+      "num": 98091,
+      "word": "周震南一年瘦了30斤",
+      "onboard_time": 1704497480,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 97034,
@@ -435,11 +475,11 @@
       "category": "军事"
     },
     {
-      "raw_hot": 89549,
-      "num": 65598,
-      "word": "家属已知复旦留美博士流浪纽约街头",
-      "onboard_time": 1704495799,
-      "rank": 23,
+      "raw_hot": 83640,
+      "num": 71584,
+      "word": "孙东旭再现扔东西动作后赶紧纠正",
+      "onboard_time": 1704497241,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -451,20 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79464,
-      "num": 79464,
-      "word": "尔滨 烈烈龙来了",
-      "onboard_time": 1704494716,
-      "rank": 17,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 78641,
       "num": 78641,
       "word": "1992年上海南京路 繁花还原度",
       "onboard_time": 1704442594,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77175,
+      "num": 77175,
+      "word": "警方辟谣哈尔滨放开南方小土豆放烟花",
+      "onboard_time": 1704497119,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74354,
@@ -475,8 +515,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 69361,
-      "num": 63242,
+      "raw_hot": 72598,
+      "num": 72598,
       "word": "2023年裸辞的人现在怎样了",
       "onboard_time": 1704488174,
       "rank": 25,
@@ -499,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55713,
-      "num": 55713,
-      "word": "谢娜听到陈乔恩参加婚恋节目的反应",
-      "onboard_time": 1704463054,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 58271,
+      "num": 58271,
+      "word": "狗狗带回来一只小浣熊",
+      "onboard_time": 1704496578,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 54130,
@@ -513,6 +553,22 @@
       "onboard_time": 1704479178,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53614,
+      "num": 53614,
+      "word": "在草莓界抬不起头",
+      "onboard_time": 1704497180,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 47970,
+      "num": 47970,
+      "word": "80岁爷爷说自己也曾是张万森",
+      "onboard_time": 1704495617,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 42901,
@@ -531,28 +587,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 34887,
-      "num": 34887,
+      "raw_hot": 38393,
+      "num": 38393,
       "word": "它是不是还不太知道自己是老虎",
       "onboard_time": 1704491415,
       "rank": 42,
       "category": "幽默"
     },
     {
-      "raw_hot": 34260,
-      "num": 34260,
-      "word": "80岁爷爷说自己也曾是张万森",
-      "onboard_time": 1704495617,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 32878,
-      "num": 32878,
-      "word": "狗狗带回来一只小浣熊",
-      "onboard_time": 1704496578,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 33643,
+      "num": 36839,
+      "word": "甘蔗水的功效",
+      "onboard_time": 1704496459,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 25913,
@@ -561,14 +609,6 @@
       "onboard_time": 1704482115,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 23210,
-      "num": 25903,
-      "word": "甘蔗水的功效",
-      "onboard_time": 1704496459,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 22612,
@@ -587,7 +627,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 14942,
+      "raw_hot": 20739,
       "num": 538316,
       "word": "中国航天员26年出征太空12次",
       "onboard_time": 1704460656,
