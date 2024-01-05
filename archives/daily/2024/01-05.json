@@ -1,6 +1,6 @@
 {
   "startTime": 1704385369755,
-  "endTime": 1704446253507,
+  "endTime": 1704447262475,
   "band_list": [
     {
       "raw_hot": 3426448,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1080950,
+      "num": 1080950,
+      "word": "你会花29999买玫瑰空调吗",
+      "onboard_time": 1704442412,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1075499,
       "num": 1075499,
       "word": "网曝福彩主持人提前播报中奖球号",
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 912604,
-      "num": 912604,
-      "word": "你会花29999买玫瑰空调吗",
-      "onboard_time": 1704442412,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 896342,
       "num": 469991,
       "word": "字节跳动早期投资人严厉谴责抖音",
@@ -193,6 +193,14 @@
       "onboard_time": 1704367953,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 781772,
+      "num": 781772,
+      "word": "南宁赠送哈尔滨200吨砂糖橘",
+      "onboard_time": 1704443194,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 758528,
@@ -272,14 +280,6 @@
       "word": "哈尔滨一33岁患癌女子离家出走",
       "onboard_time": 1704403995,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 660935,
-      "num": 660935,
-      "word": "南宁赠送哈尔滨200吨砂糖橘",
-      "onboard_time": 1704443194,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 509261,
-      "num": 377888,
+      "num": 402756,
       "word": "抗癌博主琪琪弗去世",
       "onboard_time": 1704437491,
       "rank": 20,
@@ -683,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 351938,
+      "num": 351938,
+      "word": "周深 曾毅在凤凰传奇的作用",
+      "onboard_time": 1704444573,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338192,
       "num": 338192,
       "word": "鸣龙少年 你个癫剧",
@@ -851,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270954,
-      "num": 270954,
-      "word": "周深 曾毅在凤凰传奇的作用",
-      "onboard_time": 1704444573,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266535,
       "num": 266535,
       "word": "南方宝宝在东北阿姨赞美声中迷失",
@@ -897,6 +897,14 @@
       "onboard_time": 1704385527,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 260466,
+      "num": 260466,
+      "word": "长期喝奶茶会加重焦虑感",
+      "onboard_time": 1704446372,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 257101,
@@ -971,12 +979,44 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 226991,
+      "num": 190334,
+      "word": "九寨沟 淡季",
+      "onboard_time": 1704446673,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 226415,
+      "num": 260772,
+      "word": "看王家卫怎么拍分手",
+      "onboard_time": 1704446132,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226057,
       "num": 226057,
       "word": "大鹏 一段rap把星爷cpu干烧了",
       "onboard_time": 1704428073,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225884,
+      "num": 225884,
+      "word": "浙江小孩到东北叫什么",
+      "onboard_time": 1704445651,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225453,
+      "num": 225453,
+      "word": "RIIZE新MV公开",
+      "onboard_time": 1704446013,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 224214,
@@ -1051,6 +1091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 208677,
+      "num": 208677,
+      "word": "山西省考公告",
+      "onboard_time": 1704446312,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 208016,
       "num": 208016,
       "word": "李铁的刘海还在",
@@ -1073,14 +1121,6 @@
       "onboard_time": 1704421048,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203198,
-      "num": 203198,
-      "word": "RIIZE新MV公开",
-      "onboard_time": 1704446013,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 202898,
@@ -1115,6 +1155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 200006,
+      "num": 200006,
+      "word": "脱轨豆瓣开分6.6分",
+      "onboard_time": 1704446554,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199436,
       "num": 199436,
       "word": "梁朝伟模仿老婆大赛获专业评委认可",
@@ -1145,6 +1193,14 @@
       "onboard_time": 1704432692,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193230,
+      "num": 193230,
+      "word": "猫嫌小鸟吵主人嫌猫吵",
+      "onboard_time": 1704446493,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 188032,
@@ -1179,14 +1235,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 185124,
-      "num": 185124,
-      "word": "浙江小孩到东北叫什么",
-      "onboard_time": 1704445651,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184671,
       "num": 130986,
       "word": "应采儿说袁咏仪是恶毒继母",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1704432213,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183733,
+      "num": 183733,
+      "word": "魏晨知道你们这么拍他吗",
+      "onboard_time": 1704446912,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 182344,
@@ -1345,6 +1401,14 @@
       "onboard_time": 1704416734,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162177,
+      "num": 162177,
+      "word": "我们的翻译官定档",
+      "onboard_time": 1704447152,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 161065,
@@ -1523,6 +1587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143889,
+      "num": 143889,
+      "word": "2023年彩票诞生多个亿元大奖",
+      "onboard_time": 1704446372,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 141678,
       "num": 141678,
       "word": "卢比奥退役",
@@ -1545,6 +1617,22 @@
       "onboard_time": 1704443132,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138150,
+      "num": 136795,
+      "word": "你也有今天",
+      "onboard_time": 1704447152,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136947,
+      "num": 136947,
+      "word": "爱睡懒觉或是没遗传到早起基因",
+      "onboard_time": 1704445952,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136497,
@@ -1601,14 +1689,6 @@
       "onboard_time": 1704418708,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 128663,
-      "num": 128663,
-      "word": "爱睡懒觉或是没遗传到早起基因",
-      "onboard_time": 1704445952,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 127510,
@@ -1689,14 +1769,6 @@
       "onboard_time": 1704444394,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123294,
-      "num": 123294,
-      "word": "看王家卫怎么拍分手",
-      "onboard_time": 1704446132,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 121881,
@@ -2107,6 +2179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31559,
+      "num": 1156577,
+      "word": "新型能源体系建设提速",
+      "onboard_time": 1704445952,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30205,
       "num": 34039,
       "word": "郝劭文继女就读的是什么学校",
@@ -2145,14 +2225,6 @@
       "onboard_time": 1704395595,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 12159,
-      "num": 1156577,
-      "word": "新型能源体系建设提速",
-      "onboard_time": 1704445952,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9622,
