@@ -1,0 +1,410 @@
+{
+  "runTime": 1704533629178,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2726577,
+        "num": 2726577,
+        "word": "你可以叫我 滨",
+        "onboard_time": 1704527733,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1683140,
+        "num": 1683140,
+        "word": "被冰锥砸中倒地的大学生已身亡",
+        "onboard_time": 1704527972,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136933,
+        "num": 1124008,
+        "word": "种地这件事中国人有多牛",
+        "onboard_time": 1704531576,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048549,
+        "num": 1048549,
+        "word": "三天60亿",
+        "onboard_time": 1704519152,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 911462,
+        "num": 911462,
+        "word": "藏海传 路透",
+        "onboard_time": 1704529412,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 880983,
+        "num": 880983,
+        "word": "哈尔滨冰玫瑰",
+        "onboard_time": 1704530132,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 872766,
+        "num": 872766,
+        "word": "辛芷蕾的面部折叠度",
+        "onboard_time": 1704531632,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 729202,
+        "num": 729202,
+        "word": "美国被曝花15亿美元训练记者黑中国",
+        "onboard_time": 1704522151,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 706054,
+        "num": 706054,
+        "word": "王鹤棣枪灰发色",
+        "onboard_time": 1704530013,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 532005,
+        "num": 532005,
+        "word": "身份证45开头的哈尔滨免费吃冻梨",
+        "onboard_time": 1704523469,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829985,
+        "num": 524736,
+        "word": "女子被家暴16次需终身挂粪袋案进展",
+        "onboard_time": 1704526052,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780513,
+        "num": 522062,
+        "word": "肖战站在粉丝旁边没被认出来",
+        "onboard_time": 1704526771,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713647,
+        "num": 518531,
+        "word": "鲁东大学",
+        "onboard_time": 1704528813,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513650,
+        "num": 513650,
+        "word": "繁花钟镇涛 致敬张国荣",
+        "onboard_time": 1704533255,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509907,
+        "num": 509907,
+        "word": "沈腾宋江撞衫",
+        "onboard_time": 1704532114,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 347517,
+        "num": 347517,
+        "word": "有多囊卵巢综合征女性会出现爆痘",
+        "onboard_time": 1704521671,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 316188,
+        "num": 316188,
+        "word": "赫哲族姑娘将现身中央大街",
+        "onboard_time": 1704529531,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 309215,
+        "num": 309215,
+        "word": "哈工大学霸人手一个橘宝宝",
+        "onboard_time": 1704526170,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291974,
+        "num": 291974,
+        "word": "宝总李李暧昧戏",
+        "onboard_time": 1704530132,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259841,
+        "num": 259841,
+        "word": "香港演员尹子维宣传哈尔滨早市",
+        "onboard_time": 1704527793,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 288231,
+        "num": 256189,
+        "word": "辽宁3任公安厅长合计受贿超12亿",
+        "onboard_time": 1704531332,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452433,
+        "num": 251347,
+        "word": "专家称南方小土豆争议暴露南北文化差异",
+        "onboard_time": 1704518550,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280868,
+        "num": 242793,
+        "word": "汪小姐出车祸",
+        "onboard_time": 1704517892,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275173,
+        "num": 234155,
+        "word": "男子离婚时拒养人工授精的儿子",
+        "onboard_time": 1704524430,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262405,
+        "num": 223288,
+        "word": "女贼担心判太重偷走8000元留下1万4",
+        "onboard_time": 1704529592,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222435,
+        "num": 222435,
+        "word": "BLG对战JDG",
+        "onboard_time": 1704531691,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209835,
+        "num": 209835,
+        "word": "手指冻伤后会变粗",
+        "onboard_time": 1704532830,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207000,
+        "num": 207000,
+        "word": "51岁好莱坞男星与两女儿坠机身亡",
+        "onboard_time": 1704526892,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198476,
+        "num": 198476,
+        "word": "张若昀选的剧本",
+        "onboard_time": 1704527912,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192915,
+        "num": 192915,
+        "word": "美国客机起飞后一扇门不见了",
+        "onboard_time": 1704529111,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191660,
+        "num": 191660,
+        "word": "脱轨",
+        "onboard_time": 1704532830,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188279,
+        "num": 188279,
+        "word": "小砂糖橘还有后续的后续",
+        "onboard_time": 1704530913,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186283,
+        "num": 186283,
+        "word": "黑龙江省长点名哈尔滨",
+        "onboard_time": 1704525511,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185668,
+        "num": 185668,
+        "word": "日本称只接受美国援助",
+        "onboard_time": 1704512549,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157493,
+        "num": 157493,
+        "word": "突然意识到医保的重要性",
+        "onboard_time": 1704523411,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156789,
+        "num": 156789,
+        "word": "中国人真的是无处不在",
+        "onboard_time": 1704529111,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153565,
+        "num": 153565,
+        "word": "在朋友圈做这件事涉嫌违法",
+        "onboard_time": 1704531030,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148345,
+        "num": 148345,
+        "word": "黑龙江文旅厅厅长仅任职1年",
+        "onboard_time": 1704520409,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147887,
+        "num": 147887,
+        "word": "我的男朋友是脑王",
+        "onboard_time": 1704530132,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147762,
+        "num": 147762,
+        "word": "外卖小哥救人订单超时民警上门帮正名",
+        "onboard_time": 1704533371,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 143238,
+        "num": 143238,
+        "word": "王菲 反王家卫打击第一人",
+        "onboard_time": 1704511110,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141745,
+        "num": 141745,
+        "word": "微博之夜第三波阵容官宣",
+        "onboard_time": 1704512070,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139694,
+        "num": 139694,
+        "word": "什么是断崖式绝交",
+        "onboard_time": 1704524493,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130484,
+        "num": 130484,
+        "word": "你好种地少年",
+        "onboard_time": 1704531576,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121723,
+        "num": 121723,
+        "word": "妈妈抱着送养20多年双胞胎儿子大哭",
+        "onboard_time": 1704520831,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116929,
+        "num": 116929,
+        "word": "复旦留美博士称妻子拿绿卡后和他离婚",
+        "onboard_time": 1704512249,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113296,
+        "num": 113296,
+        "word": "东北大哥抢着给小土豆买单",
+        "onboard_time": 1704533553,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111688,
+        "num": 111688,
+        "word": "2024LCK",
+        "onboard_time": 1704532293,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108585,
+        "num": 108585,
+        "word": "小砂糖橘哭着想把东北警察叔叔带回家",
+        "onboard_time": 1704506429,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106339,
+        "num": 106339,
+        "word": "方逸伦直播",
+        "onboard_time": 1704527856,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}

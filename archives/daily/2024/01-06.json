@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704532573161,
+  "endTime": 1704533629178,
   "band_list": [
     {
       "raw_hot": 3675516,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 975382,
-      "num": 494620,
+      "num": 522062,
       "word": "肖战站在粉丝旁边没被认出来",
       "onboard_time": 1704526771,
       "rank": 10,
@@ -195,8 +195,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872766,
+      "num": 872766,
+      "word": "辛芷蕾的面部折叠度",
+      "onboard_time": 1704531632,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 855614,
-      "num": 427223,
+      "num": 518531,
       "word": "鲁东大学",
       "onboard_time": 1704528813,
       "rank": 32,
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706054,
+      "num": 706054,
+      "word": "王鹤棣枪灰发色",
+      "onboard_time": 1704530013,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 692211,
       "num": 692211,
       "word": "山东一高校坠落巨大冰块砸倒学生",
@@ -281,14 +297,6 @@
       "onboard_time": 1704518730,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 666582,
-      "num": 666582,
-      "word": "王鹤棣枪灰发色",
-      "onboard_time": 1704530013,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 630622,
@@ -419,12 +427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 513650,
+      "num": 513650,
+      "word": "繁花钟镇涛 致敬张国荣",
+      "onboard_time": 1704533255,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 510544,
       "num": 510544,
       "word": "哈工大学霸人手一个橘宝宝",
       "onboard_time": 1704526170,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509907,
+      "num": 509907,
+      "word": "沈腾宋江撞衫",
+      "onboard_time": 1704532114,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 506145,
@@ -441,14 +465,6 @@
       "onboard_time": 1704527793,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 487528,
-      "num": 487528,
-      "word": "辛芷蕾的面部折叠度",
-      "onboard_time": 1704531632,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 485646,
@@ -587,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 357380,
-      "num": 357380,
-      "word": "沈腾宋江撞衫",
-      "onboard_time": 1704532114,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 350694,
       "num": 231155,
       "word": "周震南一年瘦了30斤",
@@ -667,8 +675,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 313670,
-      "num": 313670,
+      "raw_hot": 316188,
+      "num": 316188,
       "word": "赫哲族姑娘将现身中央大街",
       "onboard_time": 1704529531,
       "rank": 32,
@@ -739,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288231,
+      "num": 256189,
+      "word": "辽宁3任公安厅长合计受贿超12亿",
+      "onboard_time": 1704531332,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286942,
       "num": 286942,
       "word": "2024摩羯座发家之年",
@@ -795,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262405,
+      "num": 243538,
+      "word": "女贼担心判太重偷走8000元留下1万4",
+      "onboard_time": 1704529592,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257195,
       "num": 249528,
       "word": "黑龙江省长点名哈尔滨",
@@ -817,22 +841,6 @@
       "onboard_time": 1704524493,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 246867,
-      "num": 246867,
-      "word": "辽宁3任公安厅长合计受贿超12亿",
-      "onboard_time": 1704531332,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243538,
-      "num": 243538,
-      "word": "女贼担心判太重偷走8000元留下1万4",
-      "onboard_time": 1704529592,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238822,
@@ -921,6 +929,14 @@
       "onboard_time": 1704527912,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209835,
+      "num": 209835,
+      "word": "手指冻伤后会变粗",
+      "onboard_time": 1704532830,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 208255,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1704510928,
       "rank": 32,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 191660,
+      "num": 191660,
+      "word": "脱轨",
+      "onboard_time": 1704532830,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 191528,
@@ -1307,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153565,
+      "num": 153565,
+      "word": "在朋友圈做这件事涉嫌违法",
+      "onboard_time": 1704531030,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153017,
       "num": 153017,
       "word": "租客退租留下宫里宫气家具",
@@ -1355,12 +1387,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 147931,
-      "num": 147931,
-      "word": "在朋友圈做这件事涉嫌违法",
-      "onboard_time": 1704531030,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 147887,
+      "num": 147887,
+      "word": "我的男朋友是脑王",
+      "onboard_time": 1704530132,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147762,
+      "num": 147762,
+      "word": "外卖小哥救人订单超时民警上门帮正名",
+      "onboard_time": 1704533371,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 147620,
@@ -1515,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136933,
+      "num": 1127262,
+      "word": "种地这件事中国人有多牛",
+      "onboard_time": 1704531576,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136220,
       "num": 136220,
       "word": "声生不息",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1704530553,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 126253,
-      "num": 126253,
-      "word": "我的男朋友是脑王",
-      "onboard_time": 1704530132,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 125676,
@@ -1811,6 +1851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113296,
+      "num": 113296,
+      "word": "东北大哥抢着给小土豆买单",
+      "onboard_time": 1704533553,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112890,
       "num": 112890,
       "word": "穆迪对勇士沮丧",
@@ -1905,14 +1953,6 @@
       "onboard_time": 1704465516,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104610,
-      "num": 1127262,
-      "word": "种地这件事中国人有多牛",
-      "onboard_time": 1704531576,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103508,

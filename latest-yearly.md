@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/06 17:16:13
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/06 17:33:49
 </p>
 </blockquote>
 <p>
@@ -1305,6 +1305,12 @@ B站2023百大UP主（热度：927768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E9%9D%A2%E9%83%A8%E6%8A%98%E5%8F%A0%E5%BA%A6%23" target="weibo">
+辛芷蕾的面部折叠度（热度：872766）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AE%8B%E8%8C%9C%20rapper%E5%92%8C%E4%BB%96%E7%9A%84%E7%88%B1%E8%B1%86%E5%A5%B3%E5%8F%8B%23" target="weibo">
 王鹤棣宋茜 rapper和他的爱豆女友（热度：871981）
 </a>
@@ -1805,12 +1811,6 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%947%E6%97%AC%E7%88%B7%E7%88%B7%E8%80%81%E6%9D%A5%E5%BE%97%E5%AD%90%23" target="weibo">
 家人回应7旬爷爷老来得子（热度：717033）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%8D%8A%E5%A4%9C%E7%BB%99%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%89%93%E7%94%B5%E8%AF%9D%E5%AD%A6%E7%94%9F%E9%81%AD%E6%80%92%E6%80%BC%23" target="weibo">
-家长半夜给班主任打电话学生遭怒怼（热度：713998）
 </a>
 </li>
 
