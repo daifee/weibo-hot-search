@@ -1,0 +1,410 @@
+{
+  "runTime": 1704580431244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 290871,
+        "num": 290871,
+        "word": "女子多次仅退款后又偷取走快递",
+        "onboard_time": 1704562401,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150528,
+        "num": 150528,
+        "word": "儿子身陷缅北父亲筹47万欲捞人被司法所劝住",
+        "onboard_time": 1704554314,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5236,
+        "num": 130462,
+        "word": "全国各省份力拼经济开门红",
+        "onboard_time": 1704531093,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110870,
+        "num": 110870,
+        "word": "张若昀长文",
+        "onboard_time": 1704545671,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98216,
+        "num": 98216,
+        "word": "贪官太嚣张另一个贪官都看不下去了",
+        "onboard_time": 1704552633,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97014,
+        "num": 97014,
+        "word": "砂糖橘东北睡1宿变果脯",
+        "onboard_time": 1704549995,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89211,
+        "num": 89211,
+        "word": "公司年会 员工表演",
+        "onboard_time": 1704557729,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72751,
+        "num": 72751,
+        "word": "王家卫希望胡歌找回演李逍遥的感觉",
+        "onboard_time": 1704548736,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66346,
+        "num": 66346,
+        "word": "江苏发现1例罕见小P血型",
+        "onboard_time": 1704539190,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57992,
+        "num": 57992,
+        "word": "央视评繁花",
+        "onboard_time": 1704536431,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98092,
+        "num": 57750,
+        "word": "在中央大街摆摊的炸串老板道歉",
+        "onboard_time": 1704549035,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56565,
+        "num": 56565,
+        "word": "贪官收22箱现金车被压得上不了坡",
+        "onboard_time": 1704549576,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55519,
+        "num": 55519,
+        "word": "央视曝辽宁3任公安厅长落马细节",
+        "onboard_time": 1704553356,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54256,
+        "num": 54256,
+        "word": "被冰锥砸中倒地的大学生已身亡",
+        "onboard_time": 1704527972,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52590,
+        "num": 52590,
+        "word": "三天60亿",
+        "onboard_time": 1704519152,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 45788,
+        "num": 45788,
+        "word": "A先生李李恋情",
+        "onboard_time": 1704542972,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44798,
+        "num": 44798,
+        "word": "张若昀 女团腿",
+        "onboard_time": 1704551376,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44796,
+        "num": 44796,
+        "word": "你好星期六 檀健次演时宴",
+        "onboard_time": 1704561681,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39879,
+        "num": 39879,
+        "word": "你可以叫我 滨",
+        "onboard_time": 1704527733,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 34888,
+        "num": 34888,
+        "word": "已读乱回",
+        "onboard_time": 1704546575,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45826,
+        "num": 34850,
+        "word": "齐齐哈尔为尔滨掏出了仙鹤",
+        "onboard_time": 1704557191,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34760,
+        "num": 34760,
+        "word": "林依轮妻子再为肿瘤病人捐发",
+        "onboard_time": 1704546936,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33356,
+        "num": 33356,
+        "word": "边晓晓江晴朗离婚",
+        "onboard_time": 1704546634,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32931,
+        "num": 32931,
+        "word": "4月大女婴被遗弃纸条写无力抚养",
+        "onboard_time": 1704545252,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28742,
+        "num": 28742,
+        "word": "游本昌90岁再出圈",
+        "onboard_time": 1704561861,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28227,
+        "num": 28227,
+        "word": "男子回应拿200万拆迁款建厂招残疾员工",
+        "onboard_time": 1704574514,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 27125,
+        "num": 27125,
+        "word": "星巴克64亿未使用礼品卡成高管奖金",
+        "onboard_time": 1704541293,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25779,
+        "num": 25779,
+        "word": "为什么月经会延后",
+        "onboard_time": 1704546995,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25634,
+        "num": 25634,
+        "word": "2024金牛座多金又牛气",
+        "onboard_time": 1704550232,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23037,
+        "num": 23037,
+        "word": "兴业银行涨停操盘者曝光",
+        "onboard_time": 1704552215,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22952,
+        "num": 22952,
+        "word": "刘宇宁回应阴阳剧本",
+        "onboard_time": 1704542913,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22586,
+        "num": 22586,
+        "word": "沈耀跟程雨杉在一起了",
+        "onboard_time": 1704542313,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21423,
+        "num": 21423,
+        "word": "繁花钟镇涛 致敬张国荣",
+        "onboard_time": 1704533255,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21062,
+        "num": 21062,
+        "word": "檀健次重现杨紫经典台词",
+        "onboard_time": 1704576614,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20983,
+        "num": 20983,
+        "word": "宝总事业粉",
+        "onboard_time": 1704548139,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20863,
+        "num": 20863,
+        "word": "8岁男孩弹周杰伦说好不哭被赞超还原",
+        "onboard_time": 1704566896,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 20096,
+        "num": 20096,
+        "word": "养成这8个习惯或降低患癌风险",
+        "onboard_time": 1704575473,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19926,
+        "num": 19926,
+        "word": "把牙刷头罩起来会更卫生吗",
+        "onboard_time": 1704553476,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19889,
+        "num": 19889,
+        "word": "马立奥cos天天",
+        "onboard_time": 1704551975,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18289,
+        "num": 18289,
+        "word": "关晓彤范丞丞王安宇 跺脚生气",
+        "onboard_time": 1704545493,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18272,
+        "num": 18272,
+        "word": "苏有朋演唱会嘉宾是谢娜",
+        "onboard_time": 1704551795,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18000,
+        "num": 18000,
+        "word": "宋江金裕贞古装",
+        "onboard_time": 1704550657,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17356,
+        "num": 17356,
+        "word": "东北菜的真神是哈尔滨盒饭",
+        "onboard_time": 1704572294,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 17192,
+        "num": 17192,
+        "word": "窦骁何超莲滑雪合照",
+        "onboard_time": 1704564323,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16198,
+        "num": 16198,
+        "word": "林俊杰世巡场次",
+        "onboard_time": 1704540512,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15952,
+        "num": 15952,
+        "word": "车银优今天长这样",
+        "onboard_time": 1704541174,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14788,
+        "num": 14788,
+        "word": "张杰镂空衬衫",
+        "onboard_time": 1704567436,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14682,
+        "num": 14682,
+        "word": "名侦探柯南 新兰小情侣",
+        "onboard_time": 1704554794,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 14330,
+        "num": 14330,
+        "word": "沈耀考第一",
+        "onboard_time": 1704536853,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12626,
+        "num": 14328,
+        "word": "张元英金唱片造型",
+        "onboard_time": 1704546155,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}
