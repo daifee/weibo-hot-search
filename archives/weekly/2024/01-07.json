@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704565257744,
+  "endTime": 1704566032569,
   "band_list": [
     {
       "raw_hot": 1490614,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500157,
+      "num": 131950,
+      "word": "女子多次仅退款后又偷取走快递",
+      "onboard_time": 1704562401,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 488657,
       "num": 488657,
       "word": "砂糖橘东北睡1宿变果脯",
@@ -89,14 +97,6 @@
       "onboard_time": 1704546634,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 449056,
-      "num": 131950,
-      "word": "女子多次仅退款后又偷取走快递",
-      "onboard_time": 1704562401,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 415464,
