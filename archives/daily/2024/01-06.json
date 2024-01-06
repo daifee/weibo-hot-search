@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704544245089,
+  "endTime": 1704545227402,
   "band_list": [
     {
       "raw_hot": 3675516,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1095743,
+      "num": 1095743,
+      "word": "A先生李李恋情",
+      "onboard_time": 1704542972,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1079558,
       "num": 1079558,
       "word": "沈耀跟程雨杉在一起了",
@@ -307,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 757514,
-      "num": 757514,
-      "word": "A先生李李恋情",
-      "onboard_time": 1704542972,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 753595,
       "num": 643950,
       "word": "月经同步只是一种巧合",
@@ -363,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 670863,
+      "num": 670863,
+      "word": "刘宇宁回应阴阳剧本",
+      "onboard_time": 1704542913,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 666855,
       "num": 666855,
       "word": "肖战打卡肖战",
@@ -385,14 +393,6 @@
       "onboard_time": 1704502948,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629709,
-      "num": 629709,
-      "word": "刘宇宁回应阴阳剧本",
-      "onboard_time": 1704542913,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 624130,
@@ -635,6 +635,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426406,
+      "num": 426406,
+      "word": "大学生被冰锥砸中身亡目击者发声",
+      "onboard_time": 1704539973,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418663,
+      "num": 418663,
+      "word": "鸣龙少年 开年第一癫",
+      "onboard_time": 1704541592,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 413611,
+      "num": 413611,
+      "word": "星巴克64亿未使用礼品卡成高管奖金",
+      "onboard_time": 1704541293,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 413482,
       "num": 413482,
       "word": "谢震廷否认向前女友挥刀",
@@ -665,14 +689,6 @@
       "onboard_time": 1704503969,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399259,
-      "num": 379167,
-      "word": "鸣龙少年 开年第一癫",
-      "onboard_time": 1704541592,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 398017,
@@ -715,28 +731,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 387364,
-      "num": 387364,
-      "word": "大学生被冰锥砸中身亡目击者发声",
-      "onboard_time": 1704539973,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384453,
       "num": 384453,
       "word": "管泽元余霜萍乡婚礼",
       "onboard_time": 1704525151,
       "rank": 25,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 380843,
-      "num": 288698,
-      "word": "星巴克64亿未使用礼品卡成高管奖金",
-      "onboard_time": 1704541293,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 378553,
@@ -793,6 +793,14 @@
       "onboard_time": 1704462213,
       "rank": 16,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 339149,
+      "num": 339149,
+      "word": "道枝骏佑开通微博",
+      "onboard_time": 1704543153,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 335697,
@@ -865,14 +873,6 @@
       "onboard_time": 1704529531,
       "rank": 32,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 312254,
-      "num": 284005,
-      "word": "道枝骏佑开通微博",
-      "onboard_time": 1704543153,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 309362,
@@ -956,7 +956,7 @@
     },
     {
       "raw_hot": 275407,
-      "num": 222383,
+      "num": 226925,
       "word": "繁花",
       "onboard_time": 1704456751,
       "rank": 38,
@@ -1115,8 +1115,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238026,
+      "num": 238026,
+      "word": "平遥古城发布旅拍禁令",
+      "onboard_time": 1704543573,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 230405,
-      "num": 190348,
+      "num": 206362,
       "word": "你好星期六",
       "onboard_time": 1704541471,
       "rank": 31,
@@ -1129,6 +1137,14 @@
       "onboard_time": 1704531691,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 226880,
+      "num": 226880,
+      "word": "宁波地铁偶遇卢昱晓",
+      "onboard_time": 1704545193,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 226821,
@@ -1148,11 +1164,19 @@
     },
     {
       "raw_hot": 221486,
-      "num": 182517,
+      "num": 193924,
       "word": "美声唱Kpop",
       "onboard_time": 1704542913,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 217587,
+      "num": 217587,
+      "word": "黑龙江研发小土豆形象IP",
+      "onboard_time": 1704544895,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217289,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1704529111,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210748,
+      "num": 210748,
+      "word": "车银优你最好是胖着玩",
+      "onboard_time": 1704544713,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 210218,
@@ -1425,14 +1457,6 @@
       "onboard_time": 1704530132,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184918,
-      "num": 184918,
-      "word": "平遥古城发布旅拍禁令",
-      "onboard_time": 1704543573,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 183269,
@@ -1857,6 +1881,14 @@
       "onboard_time": 1704456993,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146114,
+      "num": 146114,
+      "word": "张靓颖 神女降临",
+      "onboard_time": 1704545193,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 144778,
