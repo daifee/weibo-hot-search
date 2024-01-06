@@ -1,0 +1,410 @@
+{
+  "runTime": 1704540837387,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1852871,
+        "num": 1852871,
+        "word": "央视评繁花",
+        "onboard_time": 1704536431,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508597,
+        "num": 1505376,
+        "word": "尔滨火了沈阳坐不住了",
+        "onboard_time": 1704533671,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99344,
+        "num": 1347572,
+        "word": "种地这件事中国人有多牛",
+        "onboard_time": 1704531576,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1239116,
+        "num": 1239116,
+        "word": "沈耀考第一",
+        "onboard_time": 1704536853,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379579,
+        "num": 1137911,
+        "word": "小砂糖橘还有后续的后续",
+        "onboard_time": 1704530913,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1135351,
+        "num": 1135351,
+        "word": "身份证45开头的哈尔滨免费吃冻梨",
+        "onboard_time": 1704523469,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375612,
+        "num": 1123116,
+        "word": "外卖小哥救人订单超时民警上门帮正名",
+        "onboard_time": 1704533371,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1112487,
+        "num": 1112487,
+        "word": "你可以叫我 滨",
+        "onboard_time": 1704527733,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 975300,
+        "num": 975300,
+        "word": "三天60亿",
+        "onboard_time": 1704519152,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 881371,
+        "num": 881371,
+        "word": "江苏发现1例罕见小P血型",
+        "onboard_time": 1704539190,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959701,
+        "num": 879518,
+        "word": "被冰锥砸中倒地的大学生已身亡",
+        "onboard_time": 1704527972,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835479,
+        "num": 835479,
+        "word": "验证码 验蠢",
+        "onboard_time": 1704539070,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 558616,
+        "num": 558616,
+        "word": "肖战站在粉丝旁边没被认出来",
+        "onboard_time": 1704526771,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532666,
+        "num": 532666,
+        "word": "月经同步只是一种巧合",
+        "onboard_time": 1704539190,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 506658,
+        "num": 506658,
+        "word": "女子被家暴16次需终身挂粪袋案进展",
+        "onboard_time": 1704526052,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33256,
+        "num": 494407,
+        "word": "明星们是来成都团建了吗",
+        "onboard_time": 1704538592,
+        "rank": 15,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 482638,
+        "num": 482638,
+        "word": "辛芷蕾的面部折叠度",
+        "onboard_time": 1704531632,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450993,
+        "num": 450993,
+        "word": "哈尔滨冰玫瑰",
+        "onboard_time": 1704530132,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 396579,
+        "num": 396579,
+        "word": "白客梦女",
+        "onboard_time": 1704535713,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390887,
+        "num": 390887,
+        "word": "BLG 胜利难道是今天",
+        "onboard_time": 1704539311,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 371643,
+        "num": 371643,
+        "word": "繁花钟镇涛 致敬张国荣",
+        "onboard_time": 1704533255,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358394,
+        "num": 358394,
+        "word": "藏海传 路透",
+        "onboard_time": 1704529412,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328847,
+        "num": 328847,
+        "word": "女儿头发被剪毁妈妈花1880带其接发",
+        "onboard_time": 1704534992,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324959,
+        "num": 324959,
+        "word": "51岁好莱坞男星与两女儿坠机身亡",
+        "onboard_time": 1704526892,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309532,
+        "num": 309532,
+        "word": "林俊杰世巡场次",
+        "onboard_time": 1704540512,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 305275,
+        "num": 305275,
+        "word": "辽宁3任公安厅长合计受贿超12亿",
+        "onboard_time": 1704531332,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303519,
+        "num": 303519,
+        "word": "大学生被冰锥砸中身亡目击者发声",
+        "onboard_time": 1704539973,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299939,
+        "num": 299939,
+        "word": "王鹤棣枪灰发色",
+        "onboard_time": 1704530013,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 284889,
+        "num": 284889,
+        "word": "鸣龙少年大结局",
+        "onboard_time": 1704540392,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279247,
+        "num": 279247,
+        "word": "汪小姐出车祸",
+        "onboard_time": 1704517892,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267741,
+        "num": 267741,
+        "word": "薛之谦 回流票",
+        "onboard_time": 1704535054,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265087,
+        "num": 265087,
+        "word": "日本石川县进入紧急状态",
+        "onboard_time": 1704538892,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261251,
+        "num": 261251,
+        "word": "沈腾宋江撞衫",
+        "onboard_time": 1704532114,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251507,
+        "num": 251507,
+        "word": "椰树泳装挂历惹争议",
+        "onboard_time": 1704535890,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236799,
+        "num": 236799,
+        "word": "鸣龙少年",
+        "onboard_time": 1704537151,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232495,
+        "num": 232495,
+        "word": "迷风花直播",
+        "onboard_time": 1704538953,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201247,
+        "num": 201247,
+        "word": "男子离婚时拒养人工授精的儿子",
+        "onboard_time": 1704524430,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191485,
+        "num": 191485,
+        "word": "接久酷",
+        "onboard_time": 1704537632,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189592,
+        "num": 189592,
+        "word": "尔滨终于想起自家孩子啦",
+        "onboard_time": 1704537515,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185746,
+        "num": 185746,
+        "word": "王诗龄杂志幕后花絮",
+        "onboard_time": 1704540031,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177193,
+        "num": 177193,
+        "word": "金唱片红毯",
+        "onboard_time": 1704537393,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176953,
+        "num": 176953,
+        "word": "BLG拿到赛点",
+        "onboard_time": 1704538412,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174890,
+        "num": 174890,
+        "word": "2023年去世的21位亿万富豪",
+        "onboard_time": 1704535951,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167866,
+        "num": 167866,
+        "word": "章若楠发量",
+        "onboard_time": 1704536853,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164881,
+        "num": 164881,
+        "word": "有多囊卵巢综合征女性会出现爆痘",
+        "onboard_time": 1704521671,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 162593,
+        "num": 162593,
+        "word": "美国被曝花15亿美元训练记者黑中国",
+        "onboard_time": 1704522151,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161253,
+        "num": 161253,
+        "word": "哈工大为小砂糖橘发射模型火箭",
+        "onboard_time": 1704540272,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154806,
+        "num": 154806,
+        "word": "山东省歌也被哈尔滨借走了",
+        "onboard_time": 1704536671,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141923,
+        "num": 141923,
+        "word": "金唱片直播",
+        "onboard_time": 1704535532,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133843,
+        "num": 133843,
+        "word": "BLG对战JDG",
+        "onboard_time": 1704531691,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}

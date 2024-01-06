@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704539652765,
+  "endTime": 1704540837387,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -339,20 +339,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1852871,
+      "num": 1852871,
+      "word": "央视评繁花",
+      "onboard_time": 1704536431,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1843941,
       "num": 830344,
       "word": "孟子义跑调很突出",
       "onboard_time": 1704032709,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1834045,
-      "num": 1834045,
-      "word": "央视评繁花",
-      "onboard_time": 1704536431,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 1832515,
@@ -1723,6 +1723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 881371,
+      "num": 881371,
+      "word": "江苏发现1例罕见小P血型",
+      "onboard_time": 1704539190,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 880452,
       "num": 880452,
       "word": "突然理解那些很少看手机的人了",
@@ -1897,6 +1905,14 @@
       "onboard_time": 1704238585,
       "rank": 3,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 835479,
+      "num": 835479,
+      "word": "验证码 验蠢",
+      "onboard_time": 1704539070,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 835471,
@@ -3620,7 +3636,7 @@
     },
     {
       "raw_hot": 546200,
-      "num": 1467203,
+      "num": 1505376,
       "word": "尔滨火了沈阳坐不住了",
       "onboard_time": 1704533671,
       "rank": 1,
@@ -3745,6 +3761,14 @@
       "onboard_time": 1704348154,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532666,
+      "num": 532666,
+      "word": "月经同步只是一种巧合",
+      "onboard_time": 1704539190,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 530870,
@@ -5187,6 +5211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 390887,
+      "num": 390887,
+      "word": "BLG 胜利难道是今天",
+      "onboard_time": 1704539311,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 390752,
       "num": 390752,
       "word": "中国银行纪念币 约不到",
@@ -5369,6 +5401,14 @@
       "onboard_time": 1704430296,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 375612,
+      "num": 1327482,
+      "word": "外卖小哥救人订单超时民警上门帮正名",
+      "onboard_time": 1704533371,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 373085,
@@ -5907,6 +5947,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 324959,
+      "num": 324959,
+      "word": "51岁好莱坞男星与两女儿坠机身亡",
+      "onboard_time": 1704526892,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324755,
       "num": 324755,
       "word": "九寨沟 淡季",
@@ -6163,6 +6211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309532,
+      "num": 309532,
+      "word": "林俊杰世巡场次",
+      "onboard_time": 1704540512,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 309362,
       "num": 270467,
       "word": "建议张雨绮不要建议",
@@ -6265,6 +6321,14 @@
       "onboard_time": 1704514409,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303519,
+      "num": 303519,
+      "word": "大学生被冰锥砸中身亡目击者发声",
+      "onboard_time": 1704539973,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303267,
@@ -6385,14 +6449,6 @@
       "onboard_time": 1704205714,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296333,
-      "num": 1327482,
-      "word": "外卖小哥救人订单超时民警上门帮正名",
-      "onboard_time": 1704533371,
-      "rank": 39,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 296078,
@@ -6675,6 +6731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284889,
+      "num": 284889,
+      "word": "鸣龙少年大结局",
+      "onboard_time": 1704540392,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284488,
       "num": 249853,
       "word": "评论罗伯特",
@@ -6825,14 +6889,6 @@
       "onboard_time": 1704383251,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275288,
-      "num": 275288,
-      "word": "51岁好莱坞男星与两女儿坠机身亡",
-      "onboard_time": 1704526892,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 273526,
@@ -7073,6 +7129,14 @@
       "onboard_time": 1704330332,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 265087,
+      "num": 265087,
+      "word": "日本石川县进入紧急状态",
+      "onboard_time": 1704538892,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264857,
@@ -7419,14 +7483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249027,
-      "num": 237330,
-      "word": "月经同步只是一种巧合",
-      "onboard_time": 1704539190,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 248941,
       "num": 248941,
       "word": "婉拒彭于晏两次",
@@ -7609,14 +7665,6 @@
       "onboard_time": 1704084635,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242959,
-      "num": 242959,
-      "word": "验证码 验蠢",
-      "onboard_time": 1704539070,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 242870,
@@ -7985,14 +8033,6 @@
       "onboard_time": 1704330392,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 228397,
-      "num": 228397,
-      "word": "日本石川县进入紧急状态",
-      "onboard_time": 1704538892,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228236,
@@ -8617,14 +8657,6 @@
       "onboard_time": 1704529111,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211161,
-      "num": 211161,
-      "word": "BLG 胜利难道是今天",
-      "onboard_time": 1704539311,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 211138,
@@ -9691,14 +9723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191573,
-      "num": 191573,
-      "word": "江苏发现1例罕见小P血型",
-      "onboard_time": 1704539190,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191548,
       "num": 191548,
       "word": "袭击李在明的男子被捕后一直沉默",
@@ -9993,6 +10017,14 @@
       "onboard_time": 1704286537,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185746,
+      "num": 185746,
+      "word": "王诗龄杂志幕后花絮",
+      "onboard_time": 1704540031,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185727,
@@ -11449,6 +11481,14 @@
       "onboard_time": 1704511769,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161253,
+      "num": 161253,
+      "word": "哈工大为小砂糖橘发射模型火箭",
+      "onboard_time": 1704540272,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161237,
@@ -15452,7 +15492,7 @@
     },
     {
       "raw_hot": 44720,
-      "num": 246213,
+      "num": 494407,
       "word": "明星们是来成都团建了吗",
       "onboard_time": 1704538592,
       "rank": 28,
