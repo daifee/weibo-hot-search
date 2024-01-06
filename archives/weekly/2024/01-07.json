@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704572267407,
+  "endTime": 1704573260402,
   "band_list": [
     {
       "raw_hot": 1490614,
@@ -473,6 +473,14 @@
       "onboard_time": 1704568935,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12632,
+      "num": 13924,
+      "word": "东北菜的真神是哈尔滨盒饭",
+      "onboard_time": 1704572294,
+      "rank": 48,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
