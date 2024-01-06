@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704526426570,
+  "endTime": 1704529235673,
   "band_list": [
     {
       "raw_hot": 3675516,
@@ -9,6 +9,14 @@
       "onboard_time": 1704519152,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2896127,
+      "num": 2896127,
+      "word": "你可以叫我 滨",
+      "onboard_time": 1704527733,
+      "rank": 0,
+      "category": "旅游"
     },
     {
       "raw_hot": 2406378,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1270670,
+      "num": 1270670,
+      "word": "被冰锥砸中倒地的大学生已身亡",
+      "onboard_time": 1704527972,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1211846,
       "num": 1211846,
       "word": "孙燕姿妹妹发文断绝关系",
@@ -131,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1005303,
+      "num": 1005303,
+      "word": "女子被家暴16次需终身挂粪袋案进展",
+      "onboard_time": 1704526052,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 960607,
       "num": 960607,
       "word": "武艺 我爸妈都没那么使唤我",
@@ -145,6 +169,14 @@
       "onboard_time": 1704520409,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 867946,
+      "num": 494620,
+      "word": "肖战站在粉丝旁边没被认出来",
+      "onboard_time": 1704526771,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 851659,
@@ -347,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 510544,
+      "num": 510544,
+      "word": "哈工大学霸人手一个橘宝宝",
+      "onboard_time": 1704526170,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506145,
       "num": 506145,
       "word": "肖战上海逛街vlog",
@@ -377,6 +417,14 @@
       "onboard_time": 1704451232,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474411,
+      "num": 474411,
+      "word": "香港演员尹子维宣传哈尔滨早市",
+      "onboard_time": 1704527793,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 457137,
@@ -432,6 +480,14 @@
       "word": "刘宇宁直播门票",
       "onboard_time": 1704502409,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 413482,
+      "num": 413482,
+      "word": "谢震廷否认向前女友挥刀",
+      "onboard_time": 1704525870,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -675,12 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254479,
-      "num": 254479,
-      "word": "谢震廷否认向前女友挥刀",
-      "onboard_time": 1704525870,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 257195,
+      "num": 236092,
+      "word": "黑龙江省长点名哈尔滨",
+      "onboard_time": 1704525511,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251683,
@@ -707,12 +763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225155,
-      "num": 170685,
-      "word": "黑龙江省长点名哈尔滨",
-      "onboard_time": 1704525511,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 236003,
+      "num": 236003,
+      "word": "51岁好莱坞男星与两女儿坠机身亡",
+      "onboard_time": 1704526892,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 223345,
@@ -803,6 +859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 201705,
+      "num": 201705,
+      "word": "张若昀选的剧本",
+      "onboard_time": 1704527912,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200550,
       "num": 200550,
       "word": "沪上阿姨 魔道祖师",
@@ -865,6 +929,14 @@
       "onboard_time": 1704456028,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190648,
+      "num": 190648,
+      "word": "郑润泽 抢票",
+      "onboard_time": 1704528273,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 189468,
@@ -931,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175442,
+      "num": 175442,
+      "word": "俄罗斯进口土豆表示不服",
+      "onboard_time": 1704526591,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 175152,
       "num": 175152,
       "word": "上海春考",
@@ -952,6 +1032,14 @@
       "word": "打20多次举报电话谎称遭间谍威胁被拘",
       "onboard_time": 1704504688,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173888,
+      "num": 173888,
+      "word": "鲁东大学",
+      "onboard_time": 1704528813,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1099,19 +1187,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156421,
+      "num": 156421,
+      "word": "方逸伦直播",
+      "onboard_time": 1704527856,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156176,
+      "num": 156176,
+      "word": "中国人真的是无处不在",
+      "onboard_time": 1704529111,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153017,
       "num": 153017,
       "word": "租客退租留下宫里宫气家具",
       "onboard_time": 1704452311,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150792,
-      "num": 150792,
-      "word": "女子被家暴16次需终身挂粪袋案进展",
-      "onboard_time": 1704526052,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1137,6 +1233,14 @@
       "onboard_time": 1704466232,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148450,
+      "num": 148450,
+      "word": "齐齐哈尔丹顶鹤将与小金豆相约尔滨",
+      "onboard_time": 1704527310,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147620,
@@ -1315,6 +1419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 134340,
+      "num": 134340,
+      "word": "坐着也能练的减肥操",
+      "onboard_time": 1704529054,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 133072,
       "num": 133072,
       "word": "繁花 护肤品",
@@ -1331,11 +1443,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 132688,
+      "num": 132688,
+      "word": "如果食物变成药的名字",
+      "onboard_time": 1704528215,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132539,
       "num": 132539,
       "word": "论父母的职业对孩子的影响有多大",
       "onboard_time": 1704518490,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 132180,
+      "num": 132180,
+      "word": "记录闺蜜被crush",
+      "onboard_time": 1704528752,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -1347,11 +1475,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131813,
-      "num": 131813,
-      "word": "哈工大学霸人手一个橘宝宝",
-      "onboard_time": 1704526170,
-      "rank": 43,
+      "raw_hot": 131139,
+      "num": 131139,
+      "word": "美国客机起飞后一扇门不见了",
+      "onboard_time": 1704529111,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1465,6 +1593,14 @@
       "onboard_time": 1704522510,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118239,
+      "num": 118239,
+      "word": "辅导孩子写作业哪有不发疯的",
+      "onboard_time": 1704529111,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 116920,
@@ -1756,7 +1892,7 @@
     },
     {
       "raw_hot": 44613,
-      "num": 1142339,
+      "num": 1279885,
       "word": "戈壁上的光热电站满满科幻感",
       "onboard_time": 1704510869,
       "rank": 2,
