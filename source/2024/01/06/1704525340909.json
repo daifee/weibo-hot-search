@@ -1,0 +1,410 @@
+{
+  "runTime": 1704525340909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2828566,
+        "num": 2828566,
+        "word": "三天60亿",
+        "onboard_time": 1704519152,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1248549,
+        "num": 1248549,
+        "word": "专家称南方小土豆争议暴露南北文化差异",
+        "onboard_time": 1704518550,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12205,
+        "num": 1149451,
+        "word": "聚焦中心工作奋进关键之年",
+        "onboard_time": 1704511830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118756,
+        "num": 1118756,
+        "word": "美国被曝花15亿美元训练记者黑中国",
+        "onboard_time": 1704522151,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 869280,
+        "num": 869280,
+        "word": "黑龙江文旅厅厅长仅任职1年",
+        "onboard_time": 1704520409,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850281,
+        "num": 850281,
+        "word": "有多囊卵巢综合征女性会出现爆痘",
+        "onboard_time": 1704521671,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 739619,
+        "num": 739619,
+        "word": "汪小姐出车祸",
+        "onboard_time": 1704517892,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 692211,
+        "num": 692211,
+        "word": "山东一高校坠落巨大冰块砸倒学生",
+        "onboard_time": 1704522213,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481701,
+        "num": 481701,
+        "word": "日本称只接受美国援助",
+        "onboard_time": 1704512549,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419318,
+        "num": 419318,
+        "word": "微博之夜 白鹿",
+        "onboard_time": 1704518670,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 537046,
+        "num": 415595,
+        "word": "肖战打卡肖战",
+        "onboard_time": 1704518730,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402054,
+        "num": 402054,
+        "word": "微博之夜第三波阵容官宣",
+        "onboard_time": 1704512070,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400303,
+        "num": 400303,
+        "word": "妈妈抱着送养20多年双胞胎儿子大哭",
+        "onboard_time": 1704520831,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343020,
+        "num": 343020,
+        "word": "王菲 反王家卫打击第一人",
+        "onboard_time": 1704511110,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341876,
+        "num": 341876,
+        "word": "小砂糖橘哭着想把东北警察叔叔带回家",
+        "onboard_time": 1704506429,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310444,
+        "num": 310444,
+        "word": "王石有一个3岁女儿",
+        "onboard_time": 1704515552,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267373,
+        "num": 267373,
+        "word": "美国女主播播新闻发现下条是父亲贪污",
+        "onboard_time": 1704518612,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262109,
+        "num": 262109,
+        "word": "零封",
+        "onboard_time": 1704518550,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245353,
+        "num": 245353,
+        "word": "复旦留美博士称妻子拿绿卡后和他离婚",
+        "onboard_time": 1704512249,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239314,
+        "num": 239314,
+        "word": "店主落泪回应索菲亚教堂蛋糕爆火",
+        "onboard_time": 1704509909,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 453104,
+        "num": 239239,
+        "word": "身份证45开头的哈尔滨免费吃冻梨",
+        "onboard_time": 1704523469,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323056,
+        "num": 239190,
+        "word": "突然意识到医保的重要性",
+        "onboard_time": 1704523411,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277179,
+        "num": 239146,
+        "word": "男子离婚时拒养人工授精的儿子",
+        "onboard_time": 1704524430,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247922,
+        "num": 239000,
+        "word": "什么是断崖式绝交",
+        "onboard_time": 1704524493,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238979,
+        "num": 238979,
+        "word": "澡堂偶遇王星越",
+        "onboard_time": 1704523771,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234678,
+        "num": 234678,
+        "word": "管泽元余霜萍乡婚礼",
+        "onboard_time": 1704525151,
+        "rank": 25,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 232761,
+        "num": 232761,
+        "word": "小砂糖橘参观哈工大每人配1名研究生",
+        "onboard_time": 1704520170,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219761,
+        "num": 219761,
+        "word": "微博之夜 嘉宾",
+        "onboard_time": 1704507451,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193928,
+        "num": 193928,
+        "word": "杨紫奶栗妆",
+        "onboard_time": 1704519870,
+        "rank": 28,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 192697,
+        "num": 192697,
+        "word": "微博之夜虞书欣",
+        "onboard_time": 1704522151,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185995,
+        "num": 185995,
+        "word": "尔滨 能不能来接我",
+        "onboard_time": 1704521731,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 180665,
+        "num": 180665,
+        "word": "小狗狗坐在大狗狗身上晒太阳",
+        "onboard_time": 1704524430,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179055,
+        "num": 179055,
+        "word": "贵州小茅台勇闯哈尔滨",
+        "onboard_time": 1704520110,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174975,
+        "num": 174975,
+        "word": "钟意被骗免费陪玩",
+        "onboard_time": 1704524732,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154470,
+        "num": 154470,
+        "word": "南笙结婚",
+        "onboard_time": 1704505049,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151195,
+        "num": 151195,
+        "word": "预算18w去哈尔滨",
+        "onboard_time": 1704496337,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 136511,
+        "num": 136511,
+        "word": "扎加洛去世",
+        "onboard_time": 1704521072,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136220,
+        "num": 136220,
+        "word": "声生不息",
+        "onboard_time": 1704523654,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130177,
+        "num": 130177,
+        "word": "晋江文男主玺子哥",
+        "onboard_time": 1704514409,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125425,
+        "num": 125425,
+        "word": "哈尔滨本地人被优先拒绝",
+        "onboard_time": 1704508349,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 124733,
+        "num": 124733,
+        "word": "男飞侠",
+        "onboard_time": 1704519934,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121646,
+        "num": 121646,
+        "word": "杭州外卖物价",
+        "onboard_time": 1704524854,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113505,
+        "num": 113505,
+        "word": "霉霉大电影 最好的彩蛋",
+        "onboard_time": 1704519691,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110993,
+        "num": 110993,
+        "word": "尔滨中央大街帘子都扎起来了",
+        "onboard_time": 1704508828,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 109771,
+        "num": 109771,
+        "word": "床 人类的无线充电器",
+        "onboard_time": 1704522510,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107257,
+        "num": 107257,
+        "word": "狗子 第一次这么烦一个人",
+        "onboard_time": 1704519811,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107069,
+        "num": 107069,
+        "word": "尔滨松花江畔现白马和南瓜车",
+        "onboard_time": 1704525270,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 106060,
+        "num": 106060,
+        "word": "保罗左手骨折",
+        "onboard_time": 1704522090,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99412,
+        "num": 99412,
+        "word": "王楚钦孙颖莎樊振东当选亚运先进个人",
+        "onboard_time": 1704517830,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98003,
+        "num": 98003,
+        "word": "躲过了婚礼邀请没躲过新店开业",
+        "onboard_time": 1704517892,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}

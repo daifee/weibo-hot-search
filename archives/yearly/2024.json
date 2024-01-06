@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704522880606,
+  "endTime": 1704525340909,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1091,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1118756,
+      "num": 1118756,
+      "word": "美国被曝花15亿美元训练记者黑中国",
+      "onboard_time": 1704522151,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1115123,
       "num": 1115123,
       "word": "女子每周拔罐放血200ml致重度贫血",
@@ -1763,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 850281,
+      "num": 850281,
+      "word": "有多囊卵巢综合征女性会出现爆痘",
+      "onboard_time": 1704521671,
+      "rank": 20,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 846190,
       "num": 846190,
       "word": "于正新剧女演员 换人",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704466655,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 699601,
-      "num": 699601,
-      "word": "杨迪回应发未P图",
-      "onboard_time": 1704187532,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 699477,
-      "num": 699477,
-      "word": "何润东都演任嘉伦爸爸了",
-      "onboard_time": 1704170801,
-      "rank": 8,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
