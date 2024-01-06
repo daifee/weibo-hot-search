@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704576841485,
+  "endTime": 1704579384558,
   "band_list": [
     {
       "raw_hot": 1490614,
@@ -475,6 +475,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18514,
+      "num": 18514,
+      "word": "檀健次重现杨紫经典台词",
+      "onboard_time": 1704576614,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17606,
+      "num": 17606,
+      "word": "养成这8个习惯或降低患癌风险",
+      "onboard_time": 1704575473,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 14427,
       "num": 14427,
       "word": "东北菜的真神是哈尔滨盒饭",
@@ -483,20 +499,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 11973,
-      "num": 13331,
-      "word": "养成这8个习惯或降低患癌风险",
-      "onboard_time": 1704575473,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 11449,
-      "num": 11449,
-      "word": "檀健次重现杨紫经典台词",
-      "onboard_time": 1704576614,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 12699,
+      "num": 12699,
+      "word": "男子回应拿200万拆迁款建厂招残疾员工",
+      "onboard_time": 1704574514,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 10831,
