@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704551624111,
+  "endTime": 1704554208714,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -921,6 +921,14 @@
       "onboard_time": 1704248911,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1246954,
+      "num": 633848,
+      "word": "张若昀 女团腿",
+      "onboard_time": 1704551376,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 1242405,
@@ -2083,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 800753,
+      "num": 800753,
+      "word": "贪官收22箱现金车被压得上不了坡",
+      "onboard_time": 1704549576,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800483,
       "num": 800483,
       "word": "星巴克64亿未使用礼品卡成高管奖金",
@@ -2201,6 +2217,14 @@
       "onboard_time": 1704338971,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 783164,
+      "num": 783164,
+      "word": "砂糖橘东北睡1宿变果脯",
+      "onboard_time": 1704549995,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 781772,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1704165158,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 737944,
-      "num": 737944,
-      "word": "五天前vs五天后看繁花",
-      "onboard_time": 1704412409,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 733327,
-      "num": 733327,
-      "word": "孕妇被坠窗砸伤为治疗终止妊娠",
-      "onboard_time": 1704158495,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 732327,
-      "num": 489539,
-      "word": "希林娜依高戒指丢了",
-      "onboard_time": 1704071672,
-      "rank": 41,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
