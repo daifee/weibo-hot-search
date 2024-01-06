@@ -1,0 +1,410 @@
+{
+  "runTime": 1704519229039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1923073,
+        "num": 1923073,
+        "word": "日本称只接受美国援助",
+        "onboard_time": 1704512549,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1200317,
+        "num": 1200317,
+        "word": "王石有一个3岁女儿",
+        "onboard_time": 1704515552,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16753,
+        "num": 1075782,
+        "word": "聚焦中心工作奋进关键之年",
+        "onboard_time": 1704511830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1052682,
+        "num": 1052682,
+        "word": "汪小姐出车祸",
+        "onboard_time": 1704517892,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 885758,
+        "num": 885758,
+        "word": "复旦留美博士称妻子拿绿卡后和他离婚",
+        "onboard_time": 1704512249,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684409,
+        "num": 684409,
+        "word": "王菲 反王家卫打击第一人",
+        "onboard_time": 1704511110,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554333,
+        "num": 554333,
+        "word": "小砂糖橘哭着想把东北警察叔叔带回家",
+        "onboard_time": 1704506429,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447395,
+        "num": 447395,
+        "word": "肖战上海逛街vlog",
+        "onboard_time": 1704515609,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 432052,
+        "num": 432052,
+        "word": "店主落泪回应索菲亚教堂蛋糕爆火",
+        "onboard_time": 1704509909,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 401776,
+        "num": 401776,
+        "word": "专家称南方小土豆争议暴露南北文化差异",
+        "onboard_time": 1704518550,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646193,
+        "num": 399360,
+        "word": "预算18w去哈尔滨",
+        "onboard_time": 1704496337,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 396027,
+        "num": 396027,
+        "word": "南笙结婚",
+        "onboard_time": 1704505049,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 389952,
+        "num": 389952,
+        "word": "唐双宁被开除党籍",
+        "onboard_time": 1704514652,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359149,
+        "num": 359149,
+        "word": "微博之夜第三波阵容官宣",
+        "onboard_time": 1704512070,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280525,
+        "num": 280525,
+        "word": "浙江高考",
+        "onboard_time": 1704514470,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274798,
+        "num": 274798,
+        "word": "肖战打卡肖战",
+        "onboard_time": 1704518730,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273931,
+        "num": 273931,
+        "word": "魏大勋开车门魏总关车门",
+        "onboard_time": 1704511651,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260633,
+        "num": 260633,
+        "word": "俞灏明一出场姚政都白干",
+        "onboard_time": 1704512669,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247139,
+        "num": 247139,
+        "word": "南方人吃冻梨削皮看傻东北网友",
+        "onboard_time": 1704498205,
+        "rank": 18,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 250856,
+        "num": 246830,
+        "word": "建议张雨绮不要建议",
+        "onboard_time": 1704518792,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299663,
+        "num": 246508,
+        "word": "躲过了婚礼邀请没躲过新店开业",
+        "onboard_time": 1704517892,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276046,
+        "num": 246272,
+        "word": "晋江文男主玺子哥",
+        "onboard_time": 1704514409,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245956,
+        "num": 245956,
+        "word": "微博之夜 嘉宾",
+        "onboard_time": 1704507451,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240380,
+        "num": 240380,
+        "word": "零封",
+        "onboard_time": 1704518550,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214796,
+        "num": 214796,
+        "word": "微博之夜 白鹿",
+        "onboard_time": 1704518670,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214142,
+        "num": 214142,
+        "word": "武艺 我爸妈都没那么使唤我",
+        "onboard_time": 1704507689,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209005,
+        "num": 209005,
+        "word": "美国女主播播新闻发现下条是父亲贪污",
+        "onboard_time": 1704518612,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197505,
+        "num": 197505,
+        "word": "儿子不愿提水妈妈重新解释重男轻女",
+        "onboard_time": 1704503969,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191350,
+        "num": 191350,
+        "word": "萧敬腾自曝婚礼已开始计划",
+        "onboard_time": 1704511290,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183155,
+        "num": 183155,
+        "word": "时代少年团明天会更好录制花絮",
+        "onboard_time": 1704518792,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173619,
+        "num": 173619,
+        "word": "有人愿捐钱接留美流浪博士回国养老",
+        "onboard_time": 1704516151,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167849,
+        "num": 167849,
+        "word": "Jennie最新solo舞台",
+        "onboard_time": 1704511529,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166256,
+        "num": 166256,
+        "word": "尔滨中央大街帘子都扎起来了",
+        "onboard_time": 1704508828,
+        "rank": 32,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 165218,
+        "num": 165218,
+        "word": "王楚钦孙颖莎樊振东当选亚运先进个人",
+        "onboard_time": 1704517830,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154541,
+        "num": 154541,
+        "word": "你好星期六这期演技高端局",
+        "onboard_time": 1704509069,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153849,
+        "num": 153849,
+        "word": "哈尔滨本地人被优先拒绝",
+        "onboard_time": 1704508349,
+        "rank": 35,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 147242,
+        "num": 147242,
+        "word": "夏天淄博 冬天哈尔滨",
+        "onboard_time": 1704517291,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 136843,
+        "num": 136843,
+        "word": "三天60亿",
+        "onboard_time": 1704519152,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134987,
+        "num": 134987,
+        "word": "阚清子喊你来哈尔滨",
+        "onboard_time": 1704516871,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134816,
+        "num": 134816,
+        "word": "易烊千玺从喝奶到喝香槟",
+        "onboard_time": 1704499345,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132539,
+        "num": 132539,
+        "word": "论父母的职业对孩子的影响有多大",
+        "onboard_time": 1704518490,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128946,
+        "num": 128946,
+        "word": "哈尔滨南方游客骨折数量明显增多",
+        "onboard_time": 1704503731,
+        "rank": 41,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 120775,
+        "num": 120775,
+        "word": "没吃早餐的朋友可以拿一个小狗面包",
+        "onboard_time": 1704510630,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119990,
+        "num": 119990,
+        "word": "云南人统治互联网就跟喝水一样简单",
+        "onboard_time": 1704518490,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116327,
+        "num": 116327,
+        "word": "繁花Citywalk收费520元起",
+        "onboard_time": 1704505588,
+        "rank": 44,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 113784,
+        "num": 113784,
+        "word": "孙燕姿妹妹发文断绝关系",
+        "onboard_time": 1704457410,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112694,
+        "num": 112694,
+        "word": "高叶陈妍希万鹏演闺蜜",
+        "onboard_time": 1704518310,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110127,
+        "num": 110127,
+        "word": "丁程鑫三年前的回复影响了一生",
+        "onboard_time": 1704512311,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108565,
+        "num": 108565,
+        "word": "梁朝伟 我永远都不会觉得自己好",
+        "onboard_time": 1704513811,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108042,
+        "num": 108042,
+        "word": "家属已知复旦留美博士流浪纽约街头",
+        "onboard_time": 1704495799,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}

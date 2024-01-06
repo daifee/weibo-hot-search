@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704518168332,
+  "endTime": 1704519229039,
   "band_list": [
     {
       "raw_hot": 2406378,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1200317,
+      "num": 1200317,
+      "word": "王石有一个3岁女儿",
+      "onboard_time": 1704515552,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1178810,
       "num": 1178810,
       "word": "王菲 反王家卫打击第一人",
@@ -72,14 +80,6 @@
       "word": "百事被家乐福封杀",
       "onboard_time": 1704466713,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1115430,
-      "num": 1115430,
-      "word": "王石有一个3岁女儿",
-      "onboard_time": 1704515552,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -97,6 +97,14 @@
       "onboard_time": 1704447812,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1052682,
+      "num": 1052682,
+      "word": "汪小姐出车祸",
+      "onboard_time": 1704517892,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 960607,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401776,
+      "num": 401776,
+      "word": "专家称南方小土豆争议暴露南北文化差异",
+      "onboard_time": 1704518550,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388509,
       "num": 388509,
       "word": "一般漂亮章若楠",
@@ -427,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299663,
+      "num": 246508,
+      "word": "躲过了婚礼邀请没躲过新店开业",
+      "onboard_time": 1704517892,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 296078,
       "num": 296078,
       "word": "俞灏明一出场姚政都白干",
@@ -475,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274798,
+      "num": 274798,
+      "word": "肖战打卡肖战",
+      "onboard_time": 1704518730,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273381,
       "num": 249332,
       "word": "母亲追着让26岁儿子喝完牛奶",
@@ -507,12 +539,20 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 268143,
-      "num": 268143,
-      "word": "汪小姐出车祸",
-      "onboard_time": 1704517892,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 250856,
+      "num": 246830,
+      "word": "建议张雨绮不要建议",
+      "onboard_time": 1704518792,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240380,
+      "num": 240380,
+      "word": "零封",
+      "onboard_time": 1704518550,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 223345,
@@ -531,6 +571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214796,
+      "num": 214796,
+      "word": "微博之夜 白鹿",
+      "onboard_time": 1704518670,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212215,
       "num": 212215,
       "word": "丁程鑫三年前的回复影响了一生",
@@ -545,6 +593,14 @@
       "onboard_time": 1704510630,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209005,
+      "num": 209005,
+      "word": "美国女主播播新闻发现下条是父亲贪污",
+      "onboard_time": 1704518612,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206913,
@@ -667,12 +723,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 182829,
-      "num": 182829,
-      "word": "躲过了婚礼邀请没躲过新店开业",
-      "onboard_time": 1704517892,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 183155,
+      "num": 183155,
+      "word": "时代少年团明天会更好录制花絮",
+      "onboard_time": 1704518792,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 182709,
@@ -707,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173619,
+      "num": 173619,
+      "word": "有人愿捐钱接留美流浪博士回国养老",
+      "onboard_time": 1704516151,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173235,
       "num": 161837,
       "word": "李莎旻子喜欢周笔畅的第十八年",
@@ -728,14 +792,6 @@
       "word": "哈尔滨火到国际媒体上",
       "onboard_time": 1704511169,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170904,
-      "num": 170904,
-      "word": "有人愿捐钱接留美流浪博士回国养老",
-      "onboard_time": 1704516151,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -769,6 +825,14 @@
       "onboard_time": 1704468094,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165218,
+      "num": 165218,
+      "word": "王楚钦孙颖莎樊振东当选亚运先进个人",
+      "onboard_time": 1704517830,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 163679,
@@ -963,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136843,
+      "num": 136843,
+      "word": "三天60亿",
+      "onboard_time": 1704519152,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135697,
       "num": 135697,
       "word": "戚薇跟刘维说我帮不了你",
@@ -993,6 +1065,14 @@
       "onboard_time": 1704459152,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 132539,
+      "num": 132539,
+      "word": "论父母的职业对孩子的影响有多大",
+      "onboard_time": 1704518490,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 132084,
@@ -1043,14 +1123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 122503,
-      "num": 122503,
-      "word": "王楚钦孙颖莎樊振东当选亚运先进个人",
-      "onboard_time": 1704517830,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121912,
       "num": 121912,
       "word": "丫丫新年首亮相主打一个吃",
@@ -1073,6 +1145,14 @@
       "onboard_time": 1704509251,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119990,
+      "num": 119990,
+      "word": "云南人统治互联网就跟喝水一样简单",
+      "onboard_time": 1704518490,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 119373,
@@ -1145,6 +1225,14 @@
       "onboard_time": 1704503308,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112694,
+      "num": 112694,
+      "word": "高叶陈妍希万鹏演闺蜜",
+      "onboard_time": 1704518310,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 112410,
