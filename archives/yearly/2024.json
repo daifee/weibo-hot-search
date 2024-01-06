@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704508718583,
+  "endTime": 1704511094403,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -747,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1323042,
+      "num": 1323042,
+      "word": "小砂糖橘哭着想把东北警察叔叔带回家",
+      "onboard_time": 1704506429,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1317787,
       "num": 1317787,
       "word": "连风都偏爱张小斐",
@@ -960,14 +968,6 @@
       "word": "央视曝河南距今2300年的赵长城被拦腰截断",
       "onboard_time": 1704440311,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1146627,
-      "num": 1146627,
-      "word": "小砂糖橘哭着想把东北警察叔叔带回家",
-      "onboard_time": 1704506429,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1369,6 +1369,14 @@
       "onboard_time": 1704245251,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 960607,
+      "num": 960607,
+      "word": "武艺 我爸妈都没那么使唤我",
+      "onboard_time": 1704507689,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 958611,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704243391,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 684463,
-      "num": 684463,
-      "word": "韩国年轻人不结婚的理由",
-      "onboard_time": 1704412771,
-      "rank": 8,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
