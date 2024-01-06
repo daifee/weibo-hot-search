@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704562437292,
+  "endTime": 1704565257744,
   "band_list": [
     {
       "raw_hot": 1490614,
@@ -89,6 +89,14 @@
       "onboard_time": 1704546634,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 449056,
+      "num": 131950,
+      "word": "女子多次仅退款后又偷取走快递",
+      "onboard_time": 1704562401,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415464,
@@ -395,6 +403,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 96268,
+      "num": 96268,
+      "word": "你好星期六 檀健次演时宴",
+      "onboard_time": 1704561681,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94924,
       "num": 94924,
       "word": "张元英金唱片造型",
@@ -419,20 +435,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 79050,
-      "num": 79050,
-      "word": "你好星期六 檀健次演时宴",
-      "onboard_time": 1704561681,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 37147,
-      "num": 47720,
-      "word": "女子多次仅退款后又偷取走快递",
-      "onboard_time": 1704562401,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 50727,
+      "num": 50727,
+      "word": "窦骁何超莲滑雪合照",
+      "onboard_time": 1704564323,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 23750,
