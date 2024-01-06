@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/06 12:20:47
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/06 12:35:16
 </p>
 </blockquote>
 <p>
@@ -135,6 +135,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%8F%AA%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%9B%BD%E6%8F%B4%E5%8A%A9%23" target="weibo">
+日本称只接受美国援助（热度：2406378）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%23" target="weibo">
 龙年纪念币（热度：2374677）
 </a>
@@ -167,12 +173,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A6%8F%E5%BD%A9%E5%B7%B2%E6%8A%A5%E8%AD%A6%23" target="weibo">
 中福彩已报警（热度：2192273）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%8F%AA%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%9B%BD%E6%8F%B4%E5%8A%A9%23" target="weibo">
-日本称只接受美国援助（热度：2105439）
 </a>
 </li>
 
@@ -903,6 +903,12 @@ Jennie离开YG的原因（热度：1109068）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E7%A7%B0%E5%A6%BB%E5%AD%90%E6%8B%BF%E7%BB%BF%E5%8D%A1%E5%90%8E%E5%92%8C%E4%BB%96%E7%A6%BB%E5%A9%9A%23" target="weibo">
+复旦留美博士称妻子拿绿卡后和他离婚（热度：1038235）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%E6%8A%A5%E8%AD%A6%E8%A2%AB%E8%AD%A6%E5%AF%9F%E5%87%BB%E6%AF%99%23" target="weibo">
 美国女子遭家暴报警被警察击毙（热度：1037978）
 </a>
@@ -1061,12 +1067,6 @@ D社 该上班了（热度：998672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E6%AF%8F%E4%BA%BA%E9%85%8D%E4%BA%861%E4%B8%AA%E6%BC%A0%E6%B2%B3%E6%B6%88%E9%98%B2%E5%91%98%23" target="weibo">
 小砂糖橘每人配了1个漠河消防员（热度：958611）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E7%A7%B0%E5%A6%BB%E5%AD%90%E6%8B%BF%E7%BB%BF%E5%8D%A1%E5%90%8E%E5%92%8C%E4%BB%96%E7%A6%BB%E5%A9%9A%23" target="weibo">
-复旦留美博士称妻子拿绿卡后和他离婚（热度：953652）
 </a>
 </li>
 

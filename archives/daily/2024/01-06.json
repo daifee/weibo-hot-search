@@ -1,10 +1,10 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704514847769,
+  "endTime": 1704515716406,
   "band_list": [
     {
-      "raw_hot": 2105439,
-      "num": 2105439,
+      "raw_hot": 2406378,
+      "num": 2406378,
       "word": "日本称只接受美国援助",
       "onboard_time": 1704512549,
       "rank": 0,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1038235,
+      "num": 1038235,
+      "word": "复旦留美博士称妻子拿绿卡后和他离婚",
+      "onboard_time": 1704512249,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 960607,
       "num": 960607,
       "word": "武艺 我爸妈都没那么使唤我",
       "onboard_time": 1704507689,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 953652,
-      "num": 953652,
-      "word": "复旦留美博士称妻子拿绿卡后和他离婚",
-      "onboard_time": 1704512249,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 851659,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 616112,
+      "num": 616112,
+      "word": "唐双宁被开除党籍",
+      "onboard_time": 1704514652,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603278,
       "num": 603278,
       "word": "孙东旭再现扔东西动作后赶紧纠正",
@@ -201,6 +209,14 @@
       "onboard_time": 1704511651,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 550469,
+      "num": 395052,
+      "word": "春晚要是敢演这种小品",
+      "onboard_time": 1704510991,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 547574,
@@ -283,8 +299,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 438791,
-      "num": 438791,
+      "raw_hot": 441024,
+      "num": 441024,
       "word": "微博之夜第三波阵容官宣",
       "onboard_time": 1704512070,
       "rank": 8,
@@ -321,14 +337,6 @@
       "onboard_time": 1704503969,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390197,
-      "num": 390197,
-      "word": "春晚要是敢演这种小品",
-      "onboard_time": 1704510991,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 388509,
@@ -395,6 +403,22 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 299160,
+      "num": 252467,
+      "word": "晋江文男主玺子哥",
+      "onboard_time": 1704514409,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 296078,
+      "num": 296078,
+      "word": "俞灏明一出场姚政都白干",
+      "onboard_time": 1704512669,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291320,
       "num": 291320,
       "word": "看王家卫怎么拍分手",
@@ -459,12 +483,12 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 235182,
-      "num": 235182,
-      "word": "俞灏明一出场姚政都白干",
-      "onboard_time": 1704512669,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 232485,
+      "num": 232485,
+      "word": "浙江高考",
+      "onboard_time": 1704514470,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 223345,
@@ -553,14 +577,6 @@
       "onboard_time": 1704509728,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197157,
-      "num": 176631,
-      "word": "晋江文男主玺子哥",
-      "onboard_time": 1704514409,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 195695,
@@ -795,14 +811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146622,
-      "num": 146622,
-      "word": "唐双宁被开除党籍",
-      "onboard_time": 1704514652,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146523,
       "num": 146523,
       "word": "国足6比2阿联酋甲级球队",
@@ -817,14 +825,6 @@
       "onboard_time": 1704456993,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144205,
-      "num": 144205,
-      "word": "浙江高考",
-      "onboard_time": 1704514470,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 143447,
@@ -1155,6 +1155,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102628,
+      "num": 102628,
+      "word": "王石有一个3岁女儿",
+      "onboard_time": 1704515552,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97718,
+      "num": 97718,
+      "word": "肖战上海逛街vlog",
+      "onboard_time": 1704515609,
+      "rank": 48,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 97034,
       "num": 97034,
       "word": "电视剧三体大史",
@@ -1332,7 +1348,7 @@
     },
     {
       "raw_hot": 18397,
-      "num": 1001528,
+      "num": 1042309,
       "word": "聚焦中心工作奋进关键之年",
       "onboard_time": 1704511830,
       "rank": 2,

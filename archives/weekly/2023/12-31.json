@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704514847769,
+  "endTime": 1704515716406,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2406378,
+      "num": 2406378,
+      "word": "日本称只接受美国援助",
+      "onboard_time": 1704512549,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2374677,
       "num": 2374677,
       "word": "龙年纪念币",
@@ -416,14 +424,6 @@
       "word": "中福彩已报警",
       "onboard_time": 1704466476,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2105439,
-      "num": 2105439,
-      "word": "日本称只接受美国援助",
-      "onboard_time": 1704512549,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1603,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1038235,
+      "num": 1038235,
+      "word": "复旦留美博士称妻子拿绿卡后和他离婚",
+      "onboard_time": 1704512249,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1037978,
       "num": 1037978,
       "word": "美国女子遭家暴报警被警察击毙",
@@ -1856,14 +1864,6 @@
       "word": "小砂糖橘每人配了1个漠河消防员",
       "onboard_time": 1704359011,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 953652,
-      "num": 953652,
-      "word": "复旦留美博士称妻子拿绿卡后和他离婚",
-      "onboard_time": 1704512249,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -3523,6 +3523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616112,
+      "num": 616112,
+      "word": "唐双宁被开除党籍",
+      "onboard_time": 1704514652,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 613725,
       "num": 613725,
       "word": "白鹿范丞丞牵手合唱",
@@ -4081,6 +4089,14 @@
       "onboard_time": 1704154415,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550469,
+      "num": 395052,
+      "word": "春晚要是敢演这种小品",
+      "onboard_time": 1704510991,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 550217,
@@ -5235,6 +5251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 441024,
+      "num": 441024,
+      "word": "微博之夜第三波阵容官宣",
+      "onboard_time": 1704512070,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440780,
       "num": 440780,
       "word": "陈星旭身材",
@@ -5249,14 +5273,6 @@
       "onboard_time": 1704263969,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438791,
-      "num": 438791,
-      "word": "微博之夜第三波阵容官宣",
-      "onboard_time": 1704512070,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 438681,
@@ -5848,14 +5864,6 @@
       "word": "东北虎排队等着被泼雪",
       "onboard_time": 1704273575,
       "rank": 20,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 390197,
-      "num": 390197,
-      "word": "春晚要是敢演这种小品",
-      "onboard_time": 1704510991,
-      "rank": 47,
       "category": "幽默"
     },
     {
@@ -7067,6 +7075,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 299160,
+      "num": 252467,
+      "word": "晋江文男主玺子哥",
+      "onboard_time": 1704514409,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299158,
       "num": 299158,
       "word": "梁靖崑vs林昀儒",
@@ -7145,6 +7161,14 @@
       "onboard_time": 1704205714,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296078,
+      "num": 296078,
+      "word": "俞灏明一出场姚政都白干",
+      "onboard_time": 1704512669,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 295756,
@@ -8691,14 +8715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235182,
-      "num": 235182,
-      "word": "俞灏明一出场姚政都白干",
-      "onboard_time": 1704512669,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235140,
       "num": 235140,
       "word": "陈楚生清唱直到世界尽头",
@@ -8769,6 +8785,14 @@
       "onboard_time": 1704172896,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232485,
+      "num": 232485,
+      "word": "浙江高考",
+      "onboard_time": 1704514470,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 232054,
@@ -10361,14 +10385,6 @@
       "onboard_time": 1704195632,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197157,
-      "num": 176631,
-      "word": "晋江文男主玺子哥",
-      "onboard_time": 1704514409,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 196993,
@@ -13515,14 +13531,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 146622,
-      "num": 146622,
-      "word": "唐双宁被开除党籍",
-      "onboard_time": 1704514652,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146532,
       "num": 146532,
       "word": "程雨杉继父恶人先告状",
@@ -13761,14 +13769,6 @@
       "onboard_time": 1704430715,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 144205,
-      "num": 144205,
-      "word": "浙江高考",
-      "onboard_time": 1704514470,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 143998,
@@ -16235,6 +16235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102628,
+      "num": 102628,
+      "word": "王石有一个3岁女儿",
+      "onboard_time": 1704515552,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102448,
       "num": 102448,
       "word": "尔滨淘学企鹅是见过世面的",
@@ -16345,6 +16353,14 @@
       "onboard_time": 1704386483,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 97718,
+      "num": 97718,
+      "word": "肖战上海逛街vlog",
+      "onboard_time": 1704515609,
+      "rank": 48,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 97522,
@@ -17820,7 +17836,7 @@
     },
     {
       "raw_hot": 18397,
-      "num": 1001528,
+      "num": 1042309,
       "word": "聚焦中心工作奋进关键之年",
       "onboard_time": 1704511830,
       "rank": 2,
