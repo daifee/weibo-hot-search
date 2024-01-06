@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704519229039,
+  "endTime": 1704522103811,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -64,6 +64,14 @@
       "word": "甘肃白银4.9级地震",
       "onboard_time": 1704033795,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3675516,
+      "num": 3675516,
+      "word": "三天60亿",
+      "onboard_time": 1704519152,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -648,6 +656,14 @@
       "word": "前世界冠军疑似被丈夫撞死",
       "onboard_time": 1704178231,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1408697,
+      "num": 1408697,
+      "word": "专家称南方小土豆争议暴露南北文化差异",
+      "onboard_time": 1704518550,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2299,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716157,
+      "num": 498150,
+      "word": "黑龙江文旅厅厅长仅任职1年",
+      "onboard_time": 1704520409,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713998,
       "num": 713998,
       "word": "家长半夜给班主任打电话学生遭怒怼",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1704170801,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 698042,
-      "num": 687354,
-      "word": "11个王俊凯",
-      "onboard_time": 1704023921,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 697100,
-      "num": 697100,
-      "word": "白鹿在生张大大的闷气",
-      "onboard_time": 1704088053,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 695395,
-      "num": 695395,
-      "word": "生气了王源自己猜",
-      "onboard_time": 1704080855,
-      "rank": 4,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
