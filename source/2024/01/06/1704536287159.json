@@ -1,0 +1,410 @@
+{
+  "runTime": 1704536287159,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2189857,
+        "num": 2189857,
+        "word": "你可以叫我 滨",
+        "onboard_time": 1704527733,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 483015,
+        "num": 1439547,
+        "word": "尔滨火了沈阳坐不住了",
+        "onboard_time": 1704533671,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146649,
+        "num": 1160530,
+        "word": "种地这件事中国人有多牛",
+        "onboard_time": 1704531576,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117130,
+        "num": 1117130,
+        "word": "三天60亿",
+        "onboard_time": 1704519152,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 296333,
+        "num": 1003976,
+        "word": "外卖小哥救人订单超时民警上门帮正名",
+        "onboard_time": 1704533371,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 977035,
+        "num": 977035,
+        "word": "身份证45开头的哈尔滨免费吃冻梨",
+        "onboard_time": 1704523469,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262840,
+        "num": 940160,
+        "word": "小砂糖橘还有后续的后续",
+        "onboard_time": 1704530913,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913621,
+        "num": 913621,
+        "word": "辛芷蕾的面部折叠度",
+        "onboard_time": 1704531632,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 696776,
+        "num": 696776,
+        "word": "藏海传 路透",
+        "onboard_time": 1704529412,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 680479,
+        "num": 680479,
+        "word": "哈尔滨冰玫瑰",
+        "onboard_time": 1704530132,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1299533,
+        "num": 678110,
+        "word": "被冰锥砸中倒地的大学生已身亡",
+        "onboard_time": 1704527972,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743730,
+        "num": 675737,
+        "word": "女子被家暴16次需终身挂粪袋案进展",
+        "onboard_time": 1704526052,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653959,
+        "num": 653959,
+        "word": "沈腾宋江撞衫",
+        "onboard_time": 1704532114,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 619656,
+        "num": 619656,
+        "word": "肖战站在粉丝旁边没被认出来",
+        "onboard_time": 1704526771,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571319,
+        "num": 571319,
+        "word": "王鹤棣枪灰发色",
+        "onboard_time": 1704530013,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 537437,
+        "num": 537437,
+        "word": "繁花钟镇涛 致敬张国荣",
+        "onboard_time": 1704533255,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408812,
+        "num": 408812,
+        "word": "美国被曝花15亿美元训练记者黑中国",
+        "onboard_time": 1704522151,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 386363,
+        "num": 386363,
+        "word": "薛之谦 回流票",
+        "onboard_time": 1704535054,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 348114,
+        "num": 348114,
+        "word": "辽宁3任公安厅长合计受贿超12亿",
+        "onboard_time": 1704531332,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335957,
+        "num": 335957,
+        "word": "有多囊卵巢综合征女性会出现爆痘",
+        "onboard_time": 1704521671,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 332137,
+        "num": 332137,
+        "word": "鲁东大学",
+        "onboard_time": 1704528813,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288990,
+        "num": 288990,
+        "word": "女儿头发被剪毁妈妈花1880带其接发",
+        "onboard_time": 1704534992,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286569,
+        "num": 286569,
+        "word": "白客梦女",
+        "onboard_time": 1704535713,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272284,
+        "num": 272284,
+        "word": "脱轨",
+        "onboard_time": 1704532830,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259080,
+        "num": 259080,
+        "word": "金唱片直播",
+        "onboard_time": 1704535532,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257901,
+        "num": 257901,
+        "word": "宝总李李暧昧戏",
+        "onboard_time": 1704530132,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254172,
+        "num": 254172,
+        "word": "男子离婚时拒养人工授精的儿子",
+        "onboard_time": 1704524430,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210571,
+        "num": 210571,
+        "word": "赫哲族姑娘将现身中央大街",
+        "onboard_time": 1704529531,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 202099,
+        "num": 202099,
+        "word": "哈工大学霸人手一个橘宝宝",
+        "onboard_time": 1704526170,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195464,
+        "num": 195464,
+        "word": "女贼担心判太重偷走8000元留下1万4",
+        "onboard_time": 1704529592,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185149,
+        "num": 185149,
+        "word": "我的男朋友是脑王",
+        "onboard_time": 1704530132,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177223,
+        "num": 177223,
+        "word": "汪小姐出车祸",
+        "onboard_time": 1704517892,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175062,
+        "num": 175062,
+        "word": "大鹏爆改古风美男",
+        "onboard_time": 1704534031,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174832,
+        "num": 174832,
+        "word": "在朋友圈做这件事涉嫌违法",
+        "onboard_time": 1704531030,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172500,
+        "num": 172500,
+        "word": "51岁好莱坞男星与两女儿坠机身亡",
+        "onboard_time": 1704526892,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164907,
+        "num": 164907,
+        "word": "手指冻伤后会变粗",
+        "onboard_time": 1704532830,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164744,
+        "num": 164744,
+        "word": "韩广仁 造型",
+        "onboard_time": 1704534271,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156751,
+        "num": 156751,
+        "word": "越南游客穿拖鞋真勇闯哈尔滨",
+        "onboard_time": 1704534390,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153194,
+        "num": 153194,
+        "word": "黑龙江省长点名哈尔滨",
+        "onboard_time": 1704525511,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150957,
+        "num": 150957,
+        "word": "突然意识到医保的重要性",
+        "onboard_time": 1704523411,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149039,
+        "num": 149039,
+        "word": "BLG对战JDG",
+        "onboard_time": 1704531691,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147872,
+        "num": 147872,
+        "word": "香港演员尹子维宣传哈尔滨早市",
+        "onboard_time": 1704527793,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 142535,
+        "num": 142535,
+        "word": "2023年去世的21位亿万富豪",
+        "onboard_time": 1704535951,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141287,
+        "num": 141287,
+        "word": "2024德杯决赛",
+        "onboard_time": 1704536070,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139939,
+        "num": 139939,
+        "word": "日本称只接受美国援助",
+        "onboard_time": 1704512549,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134958,
+        "num": 134958,
+        "word": "椰树泳装挂历惹争议",
+        "onboard_time": 1704535890,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132416,
+        "num": 132416,
+        "word": "什么是断崖式绝交",
+        "onboard_time": 1704524493,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130712,
+        "num": 130712,
+        "word": "美国客机起飞后一扇门不见了",
+        "onboard_time": 1704529111,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129266,
+        "num": 129266,
+        "word": "LOL新英雄安蓓萨",
+        "onboard_time": 1704534934,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124830,
+        "num": 124830,
+        "word": "新中式半扎披肩发",
+        "onboard_time": 1704532893,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}
