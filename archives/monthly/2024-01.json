@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704515716406,
+  "endTime": 1704518168332,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1067,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1115430,
+      "num": 1115430,
+      "word": "王石有一个3岁女儿",
+      "onboard_time": 1704515552,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1115123,
       "num": 1115123,
       "word": "女子每周拔罐放血200ml致重度贫血",
@@ -1096,6 +1104,14 @@
       "word": "南阳一公职人员兼职日薪税后3000",
       "onboard_time": 1704430360,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1102219,
+      "num": 1102219,
+      "word": "复旦留美博士称妻子拿绿卡后和他离婚",
+      "onboard_time": 1704512249,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1184,14 +1200,6 @@
       "word": "爱泼斯坦文件牵出霍金",
       "onboard_time": 1704425431,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1038235,
-      "num": 1038235,
-      "word": "复旦留美博士称妻子拿绿卡后和他离婚",
-      "onboard_time": 1704512249,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -3755,6 +3763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506145,
+      "num": 506145,
+      "word": "肖战上海逛街vlog",
+      "onboard_time": 1704515609,
+      "rank": 48,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 505816,
       "num": 505816,
       "word": "新闻联播披露福建舰最新画面",
@@ -5899,6 +5915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303647,
+      "num": 252467,
+      "word": "晋江文男主玺子哥",
+      "onboard_time": 1704514409,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303267,
       "num": 303267,
       "word": "张颂文领养了流浪狗",
@@ -5945,14 +5969,6 @@
       "onboard_time": 1704242614,
       "rank": 25,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 299160,
-      "num": 252467,
-      "word": "晋江文男主玺子哥",
-      "onboard_time": 1704514409,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 299158,
@@ -6113,6 +6129,14 @@
       "onboard_time": 1704251850,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289160,
+      "num": 289160,
+      "word": "浙江高考",
+      "onboard_time": 1704514470,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 289002,
@@ -6561,6 +6585,14 @@
       "onboard_time": 1704323479,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268143,
+      "num": 268143,
+      "word": "汪小姐出车祸",
+      "onboard_time": 1704517892,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 267687,
@@ -7369,14 +7401,6 @@
       "onboard_time": 1704172896,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 232485,
-      "num": 232485,
-      "word": "浙江高考",
-      "onboard_time": 1704514470,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 232054,
@@ -9571,6 +9595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182829,
+      "num": 182829,
+      "word": "躲过了婚礼邀请没躲过新店开业",
+      "onboard_time": 1704517892,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182709,
       "num": 182709,
       "word": "格莱妮丝约翰斯去世",
@@ -10177,6 +10209,14 @@
       "onboard_time": 1704346290,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170904,
+      "num": 170904,
+      "word": "有人愿捐钱接留美流浪博士回国养老",
+      "onboard_time": 1704516151,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170848,
@@ -11267,6 +11307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 149924,
+      "num": 149924,
+      "word": "夏天淄博 冬天哈尔滨",
+      "onboard_time": 1704517291,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 149915,
       "num": 149915,
       "word": "凤隐元启大婚假戏真做",
@@ -12025,6 +12073,14 @@
       "onboard_time": 1704503009,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137513,
+      "num": 137513,
+      "word": "阚清子喊你来哈尔滨",
+      "onboard_time": 1704516871,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 137220,
@@ -12827,6 +12883,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 122503,
+      "num": 122503,
+      "word": "王楚钦孙颖莎樊振东当选亚运先进个人",
+      "onboard_time": 1704517830,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122348,
       "num": 122348,
       "word": "凤隐纳元启为夫",
@@ -13299,6 +13363,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 109925,
+      "num": 109925,
+      "word": "金唱片",
+      "onboard_time": 1704517468,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 109802,
       "num": 109802,
       "word": "浴室厨房马桶下水道堵了怎么疏通",
@@ -13353,6 +13425,14 @@
       "onboard_time": 1704435630,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108071,
+      "num": 108071,
+      "word": "南笙中式婚服照",
+      "onboard_time": 1704516571,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 107752,
@@ -13507,6 +13587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103508,
+      "num": 103508,
+      "word": "四川小熊猫回应黑龙江邀请",
+      "onboard_time": 1704515912,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103341,
       "num": 183416,
       "word": "银河时代来了",
@@ -13529,14 +13617,6 @@
       "onboard_time": 1704081275,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102628,
-      "num": 102628,
-      "word": "王石有一个3岁女儿",
-      "onboard_time": 1704515552,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102448,
@@ -13617,14 +13697,6 @@
       "onboard_time": 1704386483,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 97718,
-      "num": 97718,
-      "word": "肖战上海逛街vlog",
-      "onboard_time": 1704515609,
-      "rank": 48,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 97522,
@@ -14740,7 +14812,7 @@
     },
     {
       "raw_hot": 18397,
-      "num": 1042309,
+      "num": 1107967,
       "word": "聚焦中心工作奋进关键之年",
       "onboard_time": 1704511830,
       "rank": 2,
