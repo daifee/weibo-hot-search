@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/06 23:34:17
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/07 00:21:26
 </p>
 </blockquote>
 <p>
@@ -1203,6 +1203,12 @@ D社 该上班了（热度：998672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%BA%AB%E9%99%B7%E7%BC%85%E5%8C%97%E7%88%B6%E4%BA%B2%E7%AD%B947%E4%B8%87%E6%AC%B2%E6%8D%9E%E4%BA%BA%E8%A2%AB%E5%8F%B8%E6%B3%95%E6%89%80%E5%8A%9D%E4%BD%8F%23" target="weibo">
+儿子身陷缅北父亲筹47万欲捞人被司法所劝住（热度：959210）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E6%AF%8F%E4%BA%BA%E9%85%8D%E4%BA%861%E4%B8%AA%E6%BC%A0%E6%B2%B3%E6%B6%88%E9%98%B2%E5%91%98%23" target="weibo">
 小砂糖橘每人配了1个漠河消防员（热度：958611）
 </a>
@@ -1731,6 +1737,12 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E8%BE%BD%E5%AE%813%E4%BB%BB%E5%85%AC%E5%AE%89%E5%8E%85%E9%95%BF%E8%90%BD%E9%A9%AC%E7%BB%86%E8%8A%82%23" target="weibo">
+央视曝辽宁3任公安厅长落马细节（热度：762716）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E7%9B%B4%E6%8E%A5%E6%89%93%E5%8C%85%E5%8E%BB%E4%B8%AD%E9%A4%90%E5%8E%85%23" target="weibo">
 花少5直接打包去中餐厅（热度：758528）
 </a>
@@ -1799,18 +1811,6 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E5%9B%B4%20%E8%BF%99%E6%AC%A1%E8%B5%B6%E4%B8%8A%E6%9C%B1%E4%B8%B9%E7%9A%84%E5%98%B4%23" target="weibo">
 周一围 这次赶上朱丹的嘴（热度：742880）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%AC%A7%E5%8F%AF%E7%88%B1%E8%BD%A6%E7%A5%B8%E4%BA%8B%E4%BB%B6%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-网红欧可爱车祸事件肇事司机被刑拘（热度：741433）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232024%E5%BE%85%E7%88%86%23" target="weibo">
-2024待爆（热度：739580）
 </a>
 </li>
 
