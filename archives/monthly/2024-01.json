@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704548043637,
+  "endTime": 1704550528056,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -595,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1500079,
+      "num": 1063927,
+      "word": "已读乱回",
+      "onboard_time": 1704546575,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1498987,
       "num": 1079735,
       "word": "女子在公园被陌生男子连刺30多刀",
@@ -641,6 +649,14 @@
       "onboard_time": 1704459152,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1447854,
+      "num": 1039401,
+      "word": "边晓晓江晴朗离婚",
+      "onboard_time": 1704546634,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 1442805,
@@ -867,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1301493,
+      "num": 1301493,
+      "word": "王家卫希望胡歌找回演李逍遥的感觉",
+      "onboard_time": 1704548736,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1298550,
       "num": 1298550,
       "word": "伊朗爆炸事件死亡人数上升至103人",
@@ -1033,14 +1057,6 @@
       "onboard_time": 1704095795,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1164568,
-      "num": 946525,
-      "word": "边晓晓江晴朗离婚",
-      "onboard_time": 1704546634,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 1162080,
@@ -1641,14 +1657,6 @@
       "onboard_time": 1704254792,
       "rank": 4,
       "category": "汽车,互联网"
-    },
-    {
-      "raw_hot": 931832,
-      "num": 931832,
-      "word": "已读乱回",
-      "onboard_time": 1704546575,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 929565,
@@ -3123,6 +3131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 619893,
+      "num": 663099,
+      "word": "4月大女婴被遗弃纸条写无力抚养",
+      "onboard_time": 1704545252,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619831,
       "num": 619831,
       "word": "在贵州5天吃了30顿",
@@ -3979,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516548,
+      "num": 516548,
+      "word": "林依轮妻子再为肿瘤病人捐发",
+      "onboard_time": 1704546936,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515937,
       "num": 515937,
       "word": "收红包时的高情商回复",
@@ -3993,6 +4017,14 @@
       "onboard_time": 1704326128,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514592,
+      "num": 514592,
+      "word": "贪官靠打麻将受贿900多万元",
+      "onboard_time": 1704545793,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514447,
@@ -4459,14 +4491,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 473695,
-      "num": 473695,
-      "word": "林依轮妻子再为肿瘤病人捐发",
-      "onboard_time": 1704546936,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 473652,
       "num": 473652,
       "word": "香港演员尹子维打卡哈尔滨盒饭一条街",
@@ -4555,11 +4579,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 461170,
-      "num": 461170,
-      "word": "4月大女婴被遗弃纸条写无力抚养",
-      "onboard_time": 1704545252,
-      "rank": 17,
+      "raw_hot": 462498,
+      "num": 251057,
+      "word": "在中央大街摆摊的炸串老板道歉",
+      "onboard_time": 1704549035,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -5875,6 +5899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342731,
+      "num": 342731,
+      "word": "杨丞琳上海演唱会",
+      "onboard_time": 1704548675,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 342410,
       "num": 342410,
       "word": "韩国警方对李在明遇刺展开调查",
@@ -6027,14 +6059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331590,
-      "num": 331590,
-      "word": "贪官靠打麻将受贿900多万元",
-      "onboard_time": 1704545793,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329328,
       "num": 329328,
       "word": "崔胜澈把银行卡给了成员们",
@@ -6145,6 +6169,14 @@
       "onboard_time": 1704530132,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 323573,
+      "num": 323573,
+      "word": "贪官收22箱现金车被压得上不了坡",
+      "onboard_time": 1704549576,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323510,
@@ -6323,20 +6355,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 313699,
+      "num": 313699,
+      "word": "为什么月经会延后",
+      "onboard_time": 1704546995,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 313571,
       "num": 313571,
       "word": "胡歌马伊琍差点又摔了",
       "onboard_time": 1704433532,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 312947,
-      "num": 312947,
-      "word": "为什么月经会延后",
-      "onboard_time": 1704546995,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 312085,
@@ -6675,12 +6707,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 293100,
+      "num": 293100,
+      "word": "李明德 祝沈耀重获新生",
+      "onboard_time": 1704549334,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292895,
       "num": 292895,
       "word": "刘亦菲新年vlog",
       "onboard_time": 1704083494,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292410,
+      "num": 292410,
+      "word": "宝总事业粉",
+      "onboard_time": 1704548139,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 292284,
@@ -6931,6 +6979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282590,
+      "num": 292713,
+      "word": "为什么你比同龄人显老",
+      "onboard_time": 1704548796,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 282471,
       "num": 258419,
       "word": "情绪稳定 已经疯了",
@@ -7065,6 +7121,14 @@
       "onboard_time": 1704383251,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274602,
+      "num": 274602,
+      "word": "NewJeans Ditto",
+      "onboard_time": 1704549396,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 273526,
@@ -7520,6 +7584,14 @@
       "word": "男朋友珍藏十年的宝物是根棒子",
       "onboard_time": 1704179795,
       "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 257898,
+      "num": 257898,
+      "word": "2024金牛座多金又牛气",
+      "onboard_time": 1704550232,
+      "rank": 29,
       "category": "情感"
     },
     {
@@ -8091,6 +8163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234861,
+      "num": 234861,
+      "word": "为什么三亚被称为小东北",
+      "onboard_time": 1704549455,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 234432,
       "num": 234432,
       "word": "霉霉 我的嗓子",
@@ -8249,6 +8329,14 @@
       "onboard_time": 1704531691,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 229082,
+      "num": 229082,
+      "word": "00后入殓师获百大年度新人",
+      "onboard_time": 1704548256,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 228524,
@@ -8545,6 +8633,14 @@
       "onboard_time": 1704032597,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221661,
+      "num": 221661,
+      "word": "专家建议暂停IPO让市场喘口气",
+      "onboard_time": 1704547897,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 221486,
@@ -8881,6 +8977,14 @@
       "onboard_time": 1704181897,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211811,
+      "num": 211811,
+      "word": "砂糖橘东北睡1宿变果脯",
+      "onboard_time": 1704549995,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211722,
@@ -9488,6 +9592,14 @@
       "word": "MCD新MC",
       "onboard_time": 1704352110,
       "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 200097,
+      "num": 200097,
+      "word": "TXT 下张专辑开始录音了",
+      "onboard_time": 1704550178,
+      "rank": 41,
       "category": "音乐"
     },
     {
@@ -11753,14 +11865,6 @@
       "onboard_time": 1704448233,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162166,
-      "num": 162166,
-      "word": "专家建议暂停IPO让市场喘口气",
-      "onboard_time": 1704547897,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 162068,
@@ -15667,6 +15771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 56882,
+      "num": 1085911,
+      "word": "全国各省份力拼经济开门红",
+      "onboard_time": 1704531093,
+      "rank": 2,
+      "category": "财经"
+    },
+    {
       "raw_hot": 56440,
       "num": 1408959,
       "word": "2024我们将共同见证",
@@ -16337,14 +16449,6 @@
       "onboard_time": 1704313874,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10688,
-      "num": 948991,
-      "word": "全国各省份力拼经济开门红",
-      "onboard_time": 1704531093,
-      "rank": 2,
-      "category": "财经"
     },
     {
       "raw_hot": 10416,

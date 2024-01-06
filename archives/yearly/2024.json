@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704548043637,
+  "endTime": 1704550528056,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -595,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1500079,
+      "num": 1063927,
+      "word": "已读乱回",
+      "onboard_time": 1704546575,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1498987,
       "num": 1079735,
       "word": "女子在公园被陌生男子连刺30多刀",
@@ -641,6 +649,14 @@
       "onboard_time": 1704459152,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1447854,
+      "num": 1039401,
+      "word": "边晓晓江晴朗离婚",
+      "onboard_time": 1704546634,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 1442805,
@@ -867,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1301493,
+      "num": 1301493,
+      "word": "王家卫希望胡歌找回演李逍遥的感觉",
+      "onboard_time": 1704548736,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1298550,
       "num": 1298550,
       "word": "伊朗爆炸事件死亡人数上升至103人",
@@ -1033,14 +1057,6 @@
       "onboard_time": 1704095795,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1164568,
-      "num": 946525,
-      "word": "边晓晓江晴朗离婚",
-      "onboard_time": 1704546634,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 1162080,
@@ -1641,14 +1657,6 @@
       "onboard_time": 1704254792,
       "rank": 4,
       "category": "汽车,互联网"
-    },
-    {
-      "raw_hot": 931832,
-      "num": 931832,
-      "word": "已读乱回",
-      "onboard_time": 1704546575,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 929565,
@@ -2392,14 +2400,6 @@
       "word": "希林娜依高戒指丢了",
       "onboard_time": 1704071672,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 731786,
-      "num": 731786,
-      "word": "大侦探 正归来",
-      "onboard_time": 1704092370,
-      "rank": 5,
       "category": "综艺"
     }
   ],
