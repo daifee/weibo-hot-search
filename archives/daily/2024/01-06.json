@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704540837387,
+  "endTime": 1704544245089,
   "band_list": [
     {
       "raw_hot": 3675516,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1626312,
+      "num": 1626312,
+      "word": "江苏发现1例罕见小P血型",
+      "onboard_time": 1704539190,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1585389,
       "num": 1585389,
       "word": "家属已知复旦留美博士流浪纽约街头",
@@ -81,6 +89,14 @@
       "onboard_time": 1704505049,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1396487,
+      "num": 1396487,
+      "word": "车银优今天长这样",
+      "onboard_time": 1704541174,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1379140,
@@ -163,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1079558,
+      "num": 1079558,
+      "word": "沈耀跟程雨杉在一起了",
+      "onboard_time": 1704542313,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1078941,
       "num": 411073,
       "word": "霍金",
@@ -227,14 +251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 881371,
-      "num": 881371,
-      "word": "江苏发现1例罕见小P血型",
-      "onboard_time": 1704539190,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 855614,
       "num": 518531,
       "word": "鲁东大学",
@@ -289,6 +305,22 @@
       "onboard_time": 1704472170,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 757514,
+      "num": 757514,
+      "word": "A先生李李恋情",
+      "onboard_time": 1704542972,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 753595,
+      "num": 643950,
+      "word": "月经同步只是一种巧合",
+      "onboard_time": 1704539190,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 713998,
@@ -353,6 +385,14 @@
       "onboard_time": 1704502948,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629709,
+      "num": 629709,
+      "word": "刘宇宁回应阴阳剧本",
+      "onboard_time": 1704542913,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 624130,
@@ -473,14 +513,6 @@
       "onboard_time": 1704499345,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 532666,
-      "num": 532666,
-      "word": "月经同步只是一种巧合",
-      "onboard_time": 1704539190,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 514953,
@@ -635,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399259,
+      "num": 379167,
+      "word": "鸣龙少年 开年第一癫",
+      "onboard_time": 1704541592,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398017,
       "num": 1355830,
       "word": "小砂糖橘还有后续的后续",
@@ -675,12 +715,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387364,
+      "num": 387364,
+      "word": "大学生被冰锥砸中身亡目击者发声",
+      "onboard_time": 1704539973,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384453,
       "num": 384453,
       "word": "管泽元余霜萍乡婚礼",
       "onboard_time": 1704525151,
       "rank": 25,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 380843,
+      "num": 288698,
+      "word": "星巴克64亿未使用礼品卡成高管奖金",
+      "onboard_time": 1704541293,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 378553,
@@ -705,6 +761,14 @@
       "onboard_time": 1704533371,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 365157,
+      "num": 365157,
+      "word": "林俊杰世巡场次",
+      "onboard_time": 1704540512,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 350694,
@@ -803,12 +867,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 309532,
-      "num": 309532,
-      "word": "林俊杰世巡场次",
-      "onboard_time": 1704540512,
-      "rank": 24,
-      "category": "演出"
+      "raw_hot": 312254,
+      "num": 284005,
+      "word": "道枝骏佑开通微博",
+      "onboard_time": 1704543153,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 309362,
@@ -825,14 +889,6 @@
       "onboard_time": 1704514409,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303519,
-      "num": 303519,
-      "word": "大学生被冰锥砸中身亡目击者发声",
-      "onboard_time": 1704539973,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299663,
@@ -896,6 +952,14 @@
       "word": "鸣龙少年大结局",
       "onboard_time": 1704540392,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 275407,
+      "num": 222383,
+      "word": "繁花",
+      "onboard_time": 1704456751,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -995,6 +1059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 261279,
+      "num": 261279,
+      "word": "不是三亚去不起尔滨更有性价比",
+      "onboard_time": 1704543214,
+      "rank": 23,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 259080,
       "num": 259080,
       "word": "金唱片直播",
@@ -1043,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230405,
+      "num": 190348,
+      "word": "你好星期六",
+      "onboard_time": 1704541471,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229182,
       "num": 229182,
       "word": "BLG对战JDG",
@@ -1065,6 +1145,14 @@
       "onboard_time": 1704507808,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221486,
+      "num": 182517,
+      "word": "美声唱Kpop",
+      "onboard_time": 1704542913,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 217289,
@@ -1171,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205048,
+      "num": 182157,
+      "word": "BSS 数字音源本赏",
+      "onboard_time": 1704543693,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204436,
       "num": 204436,
       "word": "家乐福CEO回应封杀百事",
@@ -1233,6 +1329,14 @@
       "onboard_time": 1704520054,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198654,
+      "num": 173832,
+      "word": "沈耀程雨杉情侣装",
+      "onboard_time": 1704543153,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 195695,
@@ -1323,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184918,
+      "num": 184918,
+      "word": "平遥古城发布旅拍禁令",
+      "onboard_time": 1704543573,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 183269,
       "num": 183269,
       "word": "野良神",
@@ -1355,6 +1467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179038,
+      "num": 179038,
+      "word": "BLG零封JDG",
+      "onboard_time": 1704542493,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178684,
       "num": 177425,
       "word": "一年中最冷的时候来了",
@@ -1369,6 +1489,14 @@
       "onboard_time": 1704532293,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176226,
+      "num": 176226,
+      "word": "尔滨背刺了整个东北",
+      "onboard_time": 1704543634,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 175471,
@@ -1475,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169875,
+      "num": 169875,
+      "word": "哈尔滨松花江上都铺地毯了",
+      "onboard_time": 1704542675,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 169309,
       "num": 169309,
       "word": "冬季年轻人猝死风险更高",
@@ -1513,6 +1649,14 @@
       "onboard_time": 1704468094,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167916,
+      "num": 167916,
+      "word": "ENHYPEN今天全非帅",
+      "onboard_time": 1704540873,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 165218,
@@ -1585,6 +1729,14 @@
       "onboard_time": 1704511110,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157972,
+      "num": 157972,
+      "word": "哈尔滨的狐狸也太会撒娇了",
+      "onboard_time": 1704543755,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 157446,
@@ -1665,6 +1817,14 @@
       "onboard_time": 1704457953,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147338,
+      "num": 147338,
+      "word": "大蒜皮被90后做成古风头饰美出圈",
+      "onboard_time": 1704541233,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147229,
@@ -1937,14 +2097,6 @@
       "onboard_time": 1704534934,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128310,
-      "num": 128310,
-      "word": "繁花",
-      "onboard_time": 1704456751,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 127553,

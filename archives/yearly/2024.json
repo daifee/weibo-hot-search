@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704540837387,
+  "endTime": 1704544245089,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1626312,
+      "num": 1626312,
+      "word": "江苏发现1例罕见小P血型",
+      "onboard_time": 1704539190,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1616914,
       "num": 1616914,
       "word": "谢谢李健老师拯救耳朵",
@@ -737,6 +745,14 @@
       "onboard_time": 1704264449,
       "rank": 0,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1396487,
+      "num": 1396487,
+      "word": "车银优今天长这样",
+      "onboard_time": 1704541174,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1385205,
@@ -1216,6 +1232,14 @@
       "word": "汪小姐 和过去决裂很彻底",
       "onboard_time": 1704249212,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1079558,
+      "num": 1079558,
+      "word": "沈耀跟程雨杉在一起了",
+      "onboard_time": 1704542313,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -1723,14 +1747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 881371,
-      "num": 881371,
-      "word": "江苏发现1例罕见小P血型",
-      "onboard_time": 1704539190,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 880452,
       "num": 880452,
       "word": "突然理解那些很少看手机的人了",
@@ -2211,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 757514,
+      "num": 757514,
+      "word": "A先生李李恋情",
+      "onboard_time": 1704542972,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 757202,
       "num": 757202,
       "word": "范湉湉繁花演技",
@@ -2225,6 +2249,14 @@
       "onboard_time": 1704201936,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 753595,
+      "num": 643950,
+      "word": "月经同步只是一种巧合",
+      "onboard_time": 1704539190,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 751793,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1704367953,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 720741,
-      "num": 720741,
-      "word": "张大大白鹿关晓彤合照",
-      "onboard_time": 1704195873,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 720196,
-      "num": 720196,
-      "word": "伊朗修正爆炸死亡人数至95人",
-      "onboard_time": 1704331411,
-      "rank": 4,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 720176,
-      "num": 720176,
-      "word": "日本志贺核电站变压器起火",
-      "onboard_time": 1704107139,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 719746,
-      "num": 719746,
-      "word": "老婆力劝范志毅出演繁花",
-      "onboard_time": 1704416791,
-      "rank": 30,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
