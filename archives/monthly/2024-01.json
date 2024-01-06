@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704545227402,
+  "endTime": 1704547153758,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -89,6 +89,14 @@
       "onboard_time": 1704437310,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 3403309,
+      "num": 3403309,
+      "word": "张若昀长文",
+      "onboard_time": 1704545671,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 3366080,
@@ -2051,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 800483,
+      "num": 800483,
+      "word": "星巴克64亿未使用礼品卡成高管奖金",
+      "onboard_time": 1704541293,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 798544,
       "num": 798544,
       "word": "小杨哥称他不得已才当网红",
@@ -3281,6 +3297,14 @@
       "onboard_time": 1704201154,
       "rank": 33,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 592606,
+      "num": 592606,
+      "word": "黑龙江研发小土豆形象IP",
+      "onboard_time": 1704544895,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 591842,
@@ -4579,6 +4603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 453601,
+      "num": 453601,
+      "word": "边晓晓江晴朗离婚",
+      "onboard_time": 1704546634,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 452242,
       "num": 452242,
       "word": "白客梦女",
@@ -4625,6 +4657,14 @@
       "onboard_time": 1704511290,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444826,
+      "num": 444826,
+      "word": "关晓彤范丞丞王安宇 跺脚生气",
+      "onboard_time": 1704545493,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 443073,
@@ -4947,14 +4987,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 413611,
-      "num": 413611,
-      "word": "星巴克64亿未使用礼品卡成高管奖金",
-      "onboard_time": 1704541293,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 413482,
       "num": 413482,
       "word": "谢震廷否认向前女友挥刀",
@@ -5067,6 +5099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407105,
+      "num": 407105,
+      "word": "徐冬冬回应椰树泳装挂历争议",
+      "onboard_time": 1704546335,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406986,
       "num": 406986,
       "word": "在美疑似遭绑架中国留学生已找到",
@@ -5161,6 +5201,14 @@
       "onboard_time": 1704103303,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 396927,
+      "num": 396927,
+      "word": "4月大女婴被遗弃纸条写无力抚养",
+      "onboard_time": 1704545252,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396924,
@@ -5331,6 +5379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388135,
+      "num": 242273,
+      "word": "原来是三个人的尴尬",
+      "onboard_time": 1704545853,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 385837,
       "num": 385837,
       "word": "王珂参加创造营亚洲",
@@ -5467,11 +5523,27 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 374192,
+      "num": 361273,
+      "word": "宁波地铁偶遇卢昱晓",
+      "onboard_time": 1704545193,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373085,
       "num": 373085,
       "word": "你好香啊 你也是",
       "onboard_time": 1704177630,
       "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 371923,
+      "num": 371923,
+      "word": "已读乱回",
+      "onboard_time": 1704546575,
+      "rank": 19,
       "category": "幽默"
     },
     {
@@ -5939,6 +6011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331590,
+      "num": 331590,
+      "word": "贪官靠打麻将受贿900多万元",
+      "onboard_time": 1704545793,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329328,
       "num": 329328,
       "word": "崔胜澈把银行卡给了成员们",
@@ -6347,6 +6427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305514,
+      "num": 281148,
+      "word": "车银优你最好是胖着玩",
+      "onboard_time": 1704544713,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 305495,
       "num": 305495,
       "word": "哈尔滨整不会了背后是整会了",
@@ -6553,6 +6641,14 @@
       "onboard_time": 1704326248,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293141,
+      "num": 276488,
+      "word": "张靓颖 神女降临",
+      "onboard_time": 1704545193,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 292895,
@@ -7091,6 +7187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268032,
+      "num": 240614,
+      "word": "boynextdoor in your area",
+      "onboard_time": 1704545733,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 267687,
       "num": 267687,
       "word": "邓为巴黎卡诗大中华区代言人",
@@ -7465,6 +7569,14 @@
       "onboard_time": 1704157777,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252547,
+      "num": 235416,
+      "word": "林依轮妻子再为肿瘤病人捐发",
+      "onboard_time": 1704546936,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 252140,
@@ -7843,6 +7955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237155,
+      "num": 201732,
+      "word": "张元英金唱片造型",
+      "onboard_time": 1704546155,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237009,
       "num": 237009,
       "word": "樊振东 签表",
@@ -8131,6 +8251,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 227569,
+      "num": 186155,
+      "word": "忙内line颁奖",
+      "onboard_time": 1704546874,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227414,
       "num": 227414,
       "word": "女童上公交姥姥没追上急哭求助后车",
@@ -8161,14 +8289,6 @@
       "onboard_time": 1704050298,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226880,
-      "num": 226880,
-      "word": "宁波地铁偶遇卢昱晓",
-      "onboard_time": 1704545193,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 226867,
@@ -8571,14 +8691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217587,
-      "num": 217587,
-      "word": "黑龙江研发小土豆形象IP",
-      "onboard_time": 1704544895,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217522,
       "num": 217522,
       "word": "央广网评哈尔滨火了",
@@ -8691,6 +8803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213733,
+      "num": 213733,
+      "word": "大数据解码哈尔滨爆火",
+      "onboard_time": 1704546575,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213698,
       "num": 213698,
       "word": "特斯拉召回超160万辆车",
@@ -8777,14 +8897,6 @@
       "onboard_time": 1704344674,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210748,
-      "num": 210748,
-      "word": "车银优你最好是胖着玩",
-      "onboard_time": 1704544713,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 210218,
@@ -10185,6 +10297,14 @@
       "onboard_time": 1704326729,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 185302,
+      "num": 185302,
+      "word": "哈尔滨店老板称只在意大家是否玩得开心",
+      "onboard_time": 1704545793,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185149,
@@ -11771,6 +11891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158368,
+      "num": 158368,
+      "word": "为什么月经会延后",
+      "onboard_time": 1704546995,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 158162,
       "num": 158162,
       "word": "女子欲跳桥瞬间3名路人狂奔救人",
@@ -11953,6 +12081,14 @@
       "onboard_time": 1704331892,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154449,
+      "num": 154449,
+      "word": "创业4次失败回村把荒山种成农场",
+      "onboard_time": 1704545733,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154397,
@@ -12449,14 +12585,6 @@
       "onboard_time": 1704506011,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146114,
-      "num": 146114,
-      "word": "张靓颖 神女降临",
-      "onboard_time": 1704545193,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 146094,
@@ -13225,6 +13353,14 @@
       "onboard_time": 1704266729,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 135518,
+      "num": 135518,
+      "word": "2024新年plog",
+      "onboard_time": 1704151345,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 135138,
@@ -14993,14 +15129,6 @@
       "onboard_time": 1704096101,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 91202,
-      "num": 91202,
-      "word": "2024新年plog",
-      "onboard_time": 1704151345,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 88693,
