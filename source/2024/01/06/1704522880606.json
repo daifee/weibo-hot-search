@@ -1,0 +1,410 @@
+{
+  "runTime": 1704522880606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3608794,
+        "num": 3608794,
+        "word": "三天60亿",
+        "onboard_time": 1704519152,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1461918,
+        "num": 1461918,
+        "word": "专家称南方小土豆争议暴露南北文化差异",
+        "onboard_time": 1704518550,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13902,
+        "num": 1031027,
+        "word": "聚焦中心工作奋进关键之年",
+        "onboard_time": 1704511830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915982,
+        "num": 915982,
+        "word": "黑龙江文旅厅厅长仅任职1年",
+        "onboard_time": 1704520409,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821663,
+        "num": 821663,
+        "word": "汪小姐出车祸",
+        "onboard_time": 1704517892,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 819926,
+        "num": 819926,
+        "word": "日本称只接受美国援助",
+        "onboard_time": 1704512549,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634093,
+        "num": 634093,
+        "word": "微博之夜 白鹿",
+        "onboard_time": 1704518670,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 630444,
+        "num": 630444,
+        "word": "肖战打卡肖战",
+        "onboard_time": 1704518730,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557475,
+        "num": 557475,
+        "word": "零封",
+        "onboard_time": 1704518550,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 539008,
+        "num": 539008,
+        "word": "王石有一个3岁女儿",
+        "onboard_time": 1704515552,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441216,
+        "num": 441216,
+        "word": "王菲 反王家卫打击第一人",
+        "onboard_time": 1704511110,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438008,
+        "num": 438008,
+        "word": "美国女主播播新闻发现下条是父亲贪污",
+        "onboard_time": 1704518612,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424890,
+        "num": 424890,
+        "word": "复旦留美博士称妻子拿绿卡后和他离婚",
+        "onboard_time": 1704512249,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414220,
+        "num": 414220,
+        "word": "小砂糖橘哭着想把东北警察叔叔带回家",
+        "onboard_time": 1704506429,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368712,
+        "num": 368712,
+        "word": "妈妈抱着送养20多年双胞胎儿子大哭",
+        "onboard_time": 1704520831,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318042,
+        "num": 318042,
+        "word": "微博之夜第三波阵容官宣",
+        "onboard_time": 1704512070,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312792,
+        "num": 312792,
+        "word": "店主落泪回应索菲亚教堂蛋糕爆火",
+        "onboard_time": 1704509909,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 289581,
+        "num": 289581,
+        "word": "杨紫奶栗妆",
+        "onboard_time": 1704519870,
+        "rank": 17,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 276340,
+        "num": 276340,
+        "word": "预算18w去哈尔滨",
+        "onboard_time": 1704496337,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 268696,
+        "num": 268696,
+        "word": "微博之夜 嘉宾",
+        "onboard_time": 1704507451,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 651071,
+        "num": 265648,
+        "word": "有多囊卵巢综合征女性会出现爆痘",
+        "onboard_time": 1704521671,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 261447,
+        "num": 261447,
+        "word": "山东一高校坠落巨大冰块砸倒学生",
+        "onboard_time": 1704522213,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247426,
+        "num": 247426,
+        "word": "扎加洛去世",
+        "onboard_time": 1704521072,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245348,
+        "num": 245348,
+        "word": "美国被曝花15亿美元训练记者黑中国",
+        "onboard_time": 1704522151,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235275,
+        "num": 235275,
+        "word": "贵州小茅台勇闯哈尔滨",
+        "onboard_time": 1704520110,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224762,
+        "num": 224762,
+        "word": "南笙结婚",
+        "onboard_time": 1704505049,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 208255,
+        "num": 208255,
+        "word": "尔滨 能不能来接我",
+        "onboard_time": 1704521731,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 205737,
+        "num": 205737,
+        "word": "小砂糖橘参观哈工大每人配1名研究生",
+        "onboard_time": 1704520170,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199020,
+        "num": 199020,
+        "word": "微博之夜虞书欣",
+        "onboard_time": 1704522151,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193222,
+        "num": 193222,
+        "word": "建议张雨绮不要建议",
+        "onboard_time": 1704518792,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190973,
+        "num": 190973,
+        "word": "躲过了婚礼邀请没躲过新店开业",
+        "onboard_time": 1704517892,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175915,
+        "num": 175915,
+        "word": "刘宇宁直播门票",
+        "onboard_time": 1704502409,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164374,
+        "num": 164374,
+        "word": "尔滨中央大街帘子都扎起来了",
+        "onboard_time": 1704508828,
+        "rank": 32,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 162537,
+        "num": 162537,
+        "word": "滨子 脚趾抠地了",
+        "onboard_time": 1704520054,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161872,
+        "num": 161872,
+        "word": "保罗左手骨折",
+        "onboard_time": 1704522090,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157792,
+        "num": 157792,
+        "word": "晋江文男主玺子哥",
+        "onboard_time": 1704514409,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154857,
+        "num": 154857,
+        "word": "男飞侠",
+        "onboard_time": 1704519934,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154033,
+        "num": 154033,
+        "word": "哈尔滨本地人被优先拒绝",
+        "onboard_time": 1704508349,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 150287,
+        "num": 150287,
+        "word": "狗子 第一次这么烦一个人",
+        "onboard_time": 1704519811,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144242,
+        "num": 144242,
+        "word": "湖人四连败",
+        "onboard_time": 1704521671,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144019,
+        "num": 144019,
+        "word": "王楚钦孙颖莎樊振东当选亚运先进个人",
+        "onboard_time": 1704517830,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142197,
+        "num": 142197,
+        "word": "霉霉大电影 最好的彩蛋",
+        "onboard_time": 1704519691,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125603,
+        "num": 125603,
+        "word": "俞灏明一出场姚政都白干",
+        "onboard_time": 1704512669,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124000,
+        "num": 124000,
+        "word": "肖战上海逛街vlog",
+        "onboard_time": 1704515609,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 118673,
+        "num": 118673,
+        "word": "床 人类的无线充电器",
+        "onboard_time": 1704522510,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117752,
+        "num": 117752,
+        "word": "魏大勋开车门魏总关车门",
+        "onboard_time": 1704511651,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111278,
+        "num": 111278,
+        "word": "儿子不愿提水妈妈重新解释重男轻女",
+        "onboard_time": 1704503969,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110180,
+        "num": 110180,
+        "word": "朴宰范他行他真上",
+        "onboard_time": 1704521072,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102662,
+        "num": 102662,
+        "word": "库里26分",
+        "onboard_time": 1704522810,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98204,
+        "num": 98204,
+        "word": "中日速算又双叒打平了",
+        "onboard_time": 1704521492,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#泱泱中华历史何其悠久文明何其博大#"
+    }
+  }
+}
