@@ -1,0 +1,410 @@
+{
+  "runTime": 1704514847769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2105439,
+        "num": 2105439,
+        "word": "日本称只接受美国援助",
+        "onboard_time": 1704512549,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1178810,
+        "num": 1178810,
+        "word": "王菲 反王家卫打击第一人",
+        "onboard_time": 1704511110,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18397,
+        "num": 1001528,
+        "word": "聚焦中心工作奋进关键之年",
+        "onboard_time": 1704511830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953652,
+        "num": 953652,
+        "word": "复旦留美博士称妻子拿绿卡后和他离婚",
+        "onboard_time": 1704512249,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 898140,
+        "num": 898140,
+        "word": "小砂糖橘哭着想把东北警察叔叔带回家",
+        "onboard_time": 1704506429,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556130,
+        "num": 556130,
+        "word": "魏大勋开车门魏总关车门",
+        "onboard_time": 1704511651,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 519120,
+        "num": 519120,
+        "word": "武艺 我爸妈都没那么使唤我",
+        "onboard_time": 1704507689,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482390,
+        "num": 482390,
+        "word": "店主落泪回应索菲亚教堂蛋糕爆火",
+        "onboard_time": 1704509909,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 438791,
+        "num": 438791,
+        "word": "微博之夜第三波阵容官宣",
+        "onboard_time": 1704512070,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404103,
+        "num": 404103,
+        "word": "微博之夜 嘉宾",
+        "onboard_time": 1704507451,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 786929,
+        "num": 404091,
+        "word": "预算18w去哈尔滨",
+        "onboard_time": 1704496337,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 723364,
+        "num": 399816,
+        "word": "南笙结婚",
+        "onboard_time": 1704505049,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 444998,
+        "num": 395055,
+        "word": "萧敬腾自曝婚礼已开始计划",
+        "onboard_time": 1704511290,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390197,
+        "num": 390197,
+        "word": "春晚要是敢演这种小品",
+        "onboard_time": 1704510991,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325866,
+        "num": 325866,
+        "word": "家属已知复旦留美博士流浪纽约街头",
+        "onboard_time": 1704495799,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299987,
+        "num": 299987,
+        "word": "南方人吃冻梨削皮看傻东北网友",
+        "onboard_time": 1704498205,
+        "rank": 15,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 288442,
+        "num": 288442,
+        "word": "Jennie最新solo舞台",
+        "onboard_time": 1704511529,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284160,
+        "num": 284160,
+        "word": "你好星期六这期演技高端局",
+        "onboard_time": 1704509069,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265981,
+        "num": 265981,
+        "word": "崔胜澈把银行卡给了成员们",
+        "onboard_time": 1704510387,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247967,
+        "num": 247967,
+        "word": "日本可能超100人被困地震废墟",
+        "onboard_time": 1704508711,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244747,
+        "num": 244747,
+        "word": "儿子不愿提水妈妈重新解释重男轻女",
+        "onboard_time": 1704503969,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235182,
+        "num": 235182,
+        "word": "俞灏明一出场姚政都白干",
+        "onboard_time": 1704512669,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212215,
+        "num": 212215,
+        "word": "丁程鑫三年前的回复影响了一生",
+        "onboard_time": 1704512311,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184375,
+        "num": 184375,
+        "word": "哈尔滨南方游客骨折数量明显增多",
+        "onboard_time": 1704503731,
+        "rank": 23,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 176675,
+        "num": 176675,
+        "word": "尔滨中央大街帘子都扎起来了",
+        "onboard_time": 1704508828,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 206913,
+        "num": 176640,
+        "word": "梁朝伟 我永远都不会觉得自己好",
+        "onboard_time": 1704513811,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197157,
+        "num": 176631,
+        "word": "晋江文男主玺子哥",
+        "onboard_time": 1704514409,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176604,
+        "num": 176604,
+        "word": "没吃早餐的朋友可以拿一个小狗面包",
+        "onboard_time": 1704510630,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175152,
+        "num": 175152,
+        "word": "上海春考",
+        "onboard_time": 1704513871,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162626,
+        "num": 162626,
+        "word": "繁花Citywalk收费520元起",
+        "onboard_time": 1704505588,
+        "rank": 29,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 173235,
+        "num": 161837,
+        "word": "李莎旻子喜欢周笔畅的第十八年",
+        "onboard_time": 1704513089,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196066,
+        "num": 161183,
+        "word": "易烊千玺从喝奶到喝香槟",
+        "onboard_time": 1704499345,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167094,
+        "num": 157916,
+        "word": "孙燕姿妹妹发文断绝关系",
+        "onboard_time": 1704457410,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154498,
+        "num": 154498,
+        "word": "哈尔滨本地人被优先拒绝",
+        "onboard_time": 1704508349,
+        "rank": 33,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 149303,
+        "num": 149303,
+        "word": "孟子义中式妆",
+        "onboard_time": 1704510928,
+        "rank": 34,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 146622,
+        "num": 146622,
+        "word": "唐双宁被开除党籍",
+        "onboard_time": 1704514652,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144205,
+        "num": 144205,
+        "word": "浙江高考",
+        "onboard_time": 1704514470,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142524,
+        "num": 142524,
+        "word": "宋茜陈星旭好多吻戏",
+        "onboard_time": 1704513331,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142505,
+        "num": 142505,
+        "word": "吉林某单位门岗出现野生东北虎",
+        "onboard_time": 1704506011,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136307,
+        "num": 136307,
+        "word": "去世小猫的照片盖在了我脸上",
+        "onboard_time": 1704511110,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139973,
+        "num": 136252,
+        "word": "周震南一年瘦了30斤",
+        "onboard_time": 1704497480,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136186,
+        "num": 136186,
+        "word": "哈尔滨火到国际媒体上",
+        "onboard_time": 1704511169,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131468,
+        "num": 131468,
+        "word": "日本又连发地震",
+        "onboard_time": 1704502948,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114916,
+        "num": 114916,
+        "word": "灰熊vs湖人",
+        "onboard_time": 1704512851,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110660,
+        "num": 110660,
+        "word": "龙年茅台酒今晚申购",
+        "onboard_time": 1704510150,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108569,
+        "num": 108569,
+        "word": "霍金",
+        "onboard_time": 1704447812,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106114,
+        "num": 106114,
+        "word": "警方辟谣哈尔滨放开南方小土豆放烟花",
+        "onboard_time": 1704497119,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104084,
+        "num": 104084,
+        "word": "英国连发300多个洪水预警",
+        "onboard_time": 1704509728,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103542,
+        "num": 103542,
+        "word": "最糟糕的睡姿",
+        "onboard_time": 1704502349,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101871,
+        "num": 101871,
+        "word": "复旦留美流浪博士曾月薪10万美元",
+        "onboard_time": 1704510269,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}

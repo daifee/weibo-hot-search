@@ -1,7 +1,15 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704512055510,
+  "endTime": 1704514847769,
   "band_list": [
+    {
+      "raw_hot": 2105439,
+      "num": 2105439,
+      "word": "日本称只接受美国援助",
+      "onboard_time": 1704512549,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1711851,
       "num": 789159,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1404390,
-      "num": 373148,
+      "num": 399816,
       "word": "南笙结婚",
       "onboard_time": 1704505049,
       "rank": 10,
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1178810,
+      "num": 1178810,
+      "word": "王菲 反王家卫打击第一人",
+      "onboard_time": 1704511110,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1158511,
       "num": 1158511,
       "word": "百事被家乐福封杀",
@@ -73,6 +89,14 @@
       "onboard_time": 1704507689,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 953652,
+      "num": 953652,
+      "word": "复旦留美博士称妻子拿绿卡后和他离婚",
+      "onboard_time": 1704512249,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 851659,
@@ -163,20 +187,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 583240,
-      "num": 342762,
-      "word": "王菲 反王家卫打击第一人",
-      "onboard_time": 1704511110,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 571992,
       "num": 571992,
       "word": "哈尔滨南方游客骨折数量明显增多",
       "onboard_time": 1704503731,
       "rank": 12,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 556130,
+      "num": 556130,
+      "word": "魏大勋开车门魏总关车门",
+      "onboard_time": 1704511651,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 547574,
@@ -219,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 482390,
+      "num": 482390,
+      "word": "店主落泪回应索菲亚教堂蛋糕爆火",
+      "onboard_time": 1704509909,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 474413,
       "num": 397808,
       "word": "爱泼斯坦",
@@ -241,6 +273,22 @@
       "onboard_time": 1704465215,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 444998,
+      "num": 395055,
+      "word": "萧敬腾自曝婚礼已开始计划",
+      "onboard_time": 1704511290,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 438791,
+      "num": 438791,
+      "word": "微博之夜第三波阵容官宣",
+      "onboard_time": 1704512070,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 431971,
@@ -267,20 +315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 409318,
-      "num": 409318,
-      "word": "店主落泪回应索菲亚教堂蛋糕爆火",
-      "onboard_time": 1704509909,
-      "rank": 21,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 405843,
       "num": 254919,
       "word": "儿子不愿提水妈妈重新解释重男轻女",
       "onboard_time": 1704503969,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390197,
+      "num": 390197,
+      "word": "春晚要是敢演这种小品",
+      "onboard_time": 1704510991,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 388509,
@@ -355,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288442,
+      "num": 288442,
+      "word": "Jennie最新solo舞台",
+      "onboard_time": 1704511529,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 288271,
       "num": 288271,
       "word": "李诚儒给宋亚轩的三个忠告",
@@ -369,14 +425,6 @@
       "onboard_time": 1704465998,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 286702,
-      "num": 286702,
-      "word": "萧敬腾自曝婚礼已开始计划",
-      "onboard_time": 1704511290,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 273381,
@@ -411,20 +459,20 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 235182,
+      "num": 235182,
+      "word": "俞灏明一出场姚政都白干",
+      "onboard_time": 1704512669,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223345,
       "num": 221535,
       "word": "小砂糖橘在东北包饺子被一顿猛夸",
       "onboard_time": 1704507808,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219390,
-      "num": 183298,
-      "word": "春晚要是敢演这种小品",
-      "onboard_time": 1704510991,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 217289,
@@ -435,12 +483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214070,
-      "num": 214070,
-      "word": "Jennie最新solo舞台",
-      "onboard_time": 1704511529,
-      "rank": 24,
-      "category": "演出"
+      "raw_hot": 212215,
+      "num": 212215,
+      "word": "丁程鑫三年前的回复影响了一生",
+      "onboard_time": 1704512311,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 210218,
@@ -451,20 +499,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206913,
+      "num": 176640,
+      "word": "梁朝伟 我永远都不会觉得自己好",
+      "onboard_time": 1704513811,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206877,
       "num": 206877,
       "word": "中央大街现鄂伦春族老爷爷",
       "onboard_time": 1704472170,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205230,
-      "num": 205230,
-      "word": "魏大勋开车门魏总关车门",
-      "onboard_time": 1704511651,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205171,
@@ -505,6 +553,14 @@
       "onboard_time": 1704509728,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197157,
+      "num": 176631,
+      "word": "晋江文男主玺子哥",
+      "onboard_time": 1704514409,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 195695,
@@ -587,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175152,
+      "num": 175152,
+      "word": "上海春考",
+      "onboard_time": 1704513871,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 174605,
       "num": 174605,
       "word": "打20多次举报电话谎称遭间谍威胁被拘",
       "onboard_time": 1704504688,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173235,
+      "num": 161837,
+      "word": "李莎旻子喜欢周笔畅的第十八年",
+      "onboard_time": 1704513089,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 172358,
@@ -723,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146622,
+      "num": 146622,
+      "word": "唐双宁被开除党籍",
+      "onboard_time": 1704514652,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146523,
       "num": 146523,
       "word": "国足6比2阿联酋甲级球队",
@@ -739,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144205,
+      "num": 144205,
+      "word": "浙江高考",
+      "onboard_time": 1704514470,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 143447,
       "num": 143447,
       "word": "关晓彤小时候的梦想实现了",
@@ -753,6 +841,14 @@
       "onboard_time": 1704506971,
       "rank": 36,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 142524,
+      "num": 142524,
+      "word": "宋茜陈星旭好多吻戏",
+      "onboard_time": 1704513331,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 141618,
@@ -953,6 +1049,14 @@
       "onboard_time": 1704498804,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 114916,
+      "num": 114916,
+      "word": "灰熊vs湖人",
+      "onboard_time": 1704512851,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 114278,
@@ -1227,6 +1331,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 18397,
+      "num": 1001528,
+      "word": "聚焦中心工作奋进关键之年",
+      "onboard_time": 1704511830,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13429,
       "num": 15427,
       "word": "美国12月非农",
@@ -1249,14 +1361,6 @@
       "onboard_time": 1704452131,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8026,
-      "num": 680633,
-      "word": "聚焦中心工作奋进关键之年",
-      "onboard_time": 1704511830,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1265,6 +1369,9 @@
     },
     {
       "word": "#中共中央政治局常务委员会召开会议#"
+    },
+    {
+      "word": "#以自强不息的精神奋力攀登#"
     }
   ]
 }
