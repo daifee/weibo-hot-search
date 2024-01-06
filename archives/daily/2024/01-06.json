@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704511094403,
+  "endTime": 1704512055510,
   "band_list": [
     {
       "raw_hot": 1711851,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678161,
+      "num": 678161,
+      "word": "微博之夜 嘉宾",
+      "onboard_time": 1704507451,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 630622,
       "num": 421837,
       "word": "日本又连发地震",
@@ -129,14 +137,6 @@
       "onboard_time": 1704466655,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 606788,
-      "num": 606788,
-      "word": "微博之夜 嘉宾",
-      "onboard_time": 1704507451,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 603278,
@@ -161,6 +161,14 @@
       "onboard_time": 1704502349,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 583240,
+      "num": 342762,
+      "word": "王菲 反王家卫打击第一人",
+      "onboard_time": 1704511110,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 571992,
@@ -235,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431971,
+      "num": 431971,
+      "word": "你好星期六这期演技高端局",
+      "onboard_time": 1704509069,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429429,
       "num": 429429,
       "word": "刘宇宁直播门票",
@@ -251,8 +267,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409318,
+      "num": 409318,
+      "word": "店主落泪回应索菲亚教堂蛋糕爆火",
+      "onboard_time": 1704509909,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 405843,
-      "num": 241165,
+      "num": 254919,
       "word": "儿子不愿提水妈妈重新解释重男轻女",
       "onboard_time": 1704503969,
       "rank": 20,
@@ -283,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 362656,
-      "num": 362656,
-      "word": "你好星期六这期演技高端局",
-      "onboard_time": 1704509069,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 350694,
       "num": 231155,
       "word": "周震南一年瘦了30斤",
@@ -313,6 +329,14 @@
       "onboard_time": 1704505168,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 329328,
+      "num": 329328,
+      "word": "崔胜澈把银行卡给了成员们",
+      "onboard_time": 1704510387,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 327684,
@@ -347,12 +371,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 281493,
-      "num": 281493,
-      "word": "崔胜澈把银行卡给了成员们",
-      "onboard_time": 1704510387,
+      "raw_hot": 286702,
+      "num": 286702,
+      "word": "萧敬腾自曝婚礼已开始计划",
+      "onboard_time": 1704511290,
       "rank": 17,
-      "category": "艺人"
+      "category": "综艺"
     },
     {
       "raw_hot": 273381,
@@ -387,20 +411,20 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 238721,
-      "num": 238721,
-      "word": "店主落泪回应索菲亚教堂蛋糕爆火",
-      "onboard_time": 1704509909,
-      "rank": 21,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 223345,
       "num": 221535,
       "word": "小砂糖橘在东北包饺子被一顿猛夸",
       "onboard_time": 1704507808,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219390,
+      "num": 183298,
+      "word": "春晚要是敢演这种小品",
+      "onboard_time": 1704510991,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 217289,
@@ -411,12 +435,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214070,
+      "num": 214070,
+      "word": "Jennie最新solo舞台",
+      "onboard_time": 1704511529,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 210218,
+      "num": 183285,
+      "word": "没吃早餐的朋友可以拿一个小狗面包",
+      "onboard_time": 1704510630,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206877,
       "num": 206877,
       "word": "中央大街现鄂伦春族老爷爷",
       "onboard_time": 1704472170,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205230,
+      "num": 205230,
+      "word": "魏大勋开车门魏总关车门",
+      "onboard_time": 1704511651,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205171,
@@ -467,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192554,
+      "num": 192554,
+      "word": "孟子义中式妆",
+      "onboard_time": 1704510928,
+      "rank": 32,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 191528,
       "num": 191528,
       "word": "腿脚是身体的警报器",
@@ -507,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183269,
+      "num": 183269,
+      "word": "野良神",
+      "onboard_time": 1704510869,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 182709,
       "num": 182709,
       "word": "格莱妮丝约翰斯去世",
@@ -537,6 +601,14 @@
       "onboard_time": 1704504087,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171787,
+      "num": 171787,
+      "word": "哈尔滨火到国际媒体上",
+      "onboard_time": 1704511169,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169309,
@@ -579,12 +651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161790,
-      "num": 161790,
-      "word": "孟子义中式妆",
-      "onboard_time": 1704510928,
-      "rank": 32,
-      "category": "作品衍生,美妆"
+      "raw_hot": 161391,
+      "num": 161391,
+      "word": "以闪亮之名",
+      "onboard_time": 1704511769,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 160891,
@@ -603,11 +675,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153974,
-      "num": 153974,
-      "word": "没吃早餐的朋友可以拿一个小狗面包",
-      "onboard_time": 1704510630,
-      "rank": 33,
+      "raw_hot": 158063,
+      "num": 158063,
+      "word": "去世小猫的照片盖在了我脸上",
+      "onboard_time": 1704511110,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -819,14 +891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 123359,
-      "num": 123359,
-      "word": "野良神",
-      "onboard_time": 1704510869,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 121912,
       "num": 121912,
       "word": "丫丫新年首亮相主打一个吃",
@@ -937,14 +1001,6 @@
       "onboard_time": 1704504509,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112011,
-      "num": 112011,
-      "word": "春晚要是敢演这种小品",
-      "onboard_time": 1704510991,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 110506,
@@ -1099,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44613,
+      "num": 651284,
+      "word": "戈壁上的光热电站满满科幻感",
+      "onboard_time": 1704510869,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42901,
       "num": 42901,
       "word": "玲子 店门一开大家都没回头路了",
@@ -1163,14 +1227,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 13639,
-      "num": 651284,
-      "word": "戈壁上的光热电站满满科幻感",
-      "onboard_time": 1704510869,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13429,
       "num": 15427,
       "word": "美国12月非农",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1704452131,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8026,
+      "num": 680633,
+      "word": "聚焦中心工作奋进关键之年",
+      "onboard_time": 1704511830,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

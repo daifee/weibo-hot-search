@@ -1,0 +1,410 @@
+{
+  "runTime": 1704512055510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1287585,
+        "num": 1287585,
+        "word": "小砂糖橘哭着想把东北警察叔叔带回家",
+        "onboard_time": 1704506429,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780234,
+        "num": 780234,
+        "word": "武艺 我爸妈都没那么使唤我",
+        "onboard_time": 1704507689,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8026,
+        "num": 680633,
+        "word": "聚焦中心工作奋进关键之年",
+        "onboard_time": 1704511830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678161,
+        "num": 678161,
+        "word": "微博之夜 嘉宾",
+        "onboard_time": 1704507451,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 473766,
+        "num": 473766,
+        "word": "吉林某单位门岗出现野生东北虎",
+        "onboard_time": 1704506011,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627720,
+        "num": 468051,
+        "word": "家属已知复旦留美博士流浪纽约街头",
+        "onboard_time": 1704495799,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431971,
+        "num": 431971,
+        "word": "你好星期六这期演技高端局",
+        "onboard_time": 1704509069,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409318,
+        "num": 409318,
+        "word": "店主落泪回应索菲亚教堂蛋糕爆火",
+        "onboard_time": 1704509909,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 383118,
+        "num": 383118,
+        "word": "南方人吃冻梨削皮看傻东北网友",
+        "onboard_time": 1704498205,
+        "rank": 8,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 358775,
+        "num": 358775,
+        "word": "繁花Citywalk收费520元起",
+        "onboard_time": 1704505588,
+        "rank": 9,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 1043215,
+        "num": 352378,
+        "word": "南笙结婚",
+        "onboard_time": 1704505049,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 895010,
+        "num": 345224,
+        "word": "预算18w去哈尔滨",
+        "onboard_time": 1704496337,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 583240,
+        "num": 342762,
+        "word": "王菲 反王家卫打击第一人",
+        "onboard_time": 1704511110,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392852,
+        "num": 332364,
+        "word": "日本可能超100人被困地震废墟",
+        "onboard_time": 1704508711,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329328,
+        "num": 329328,
+        "word": "崔胜澈把银行卡给了成员们",
+        "onboard_time": 1704510387,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303541,
+        "num": 303541,
+        "word": "哈尔滨南方游客骨折数量明显增多",
+        "onboard_time": 1704503731,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 296416,
+        "num": 296416,
+        "word": "孙燕姿妹妹发文断绝关系",
+        "onboard_time": 1704457410,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286702,
+        "num": 286702,
+        "word": "萧敬腾自曝婚礼已开始计划",
+        "onboard_time": 1704511290,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285103,
+        "num": 285103,
+        "word": "警方辟谣哈尔滨放开南方小土豆放烟花",
+        "onboard_time": 1704497119,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280038,
+        "num": 280038,
+        "word": "易烊千玺从喝奶到喝香槟",
+        "onboard_time": 1704499345,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276220,
+        "num": 276220,
+        "word": "尔滨中央大街帘子都扎起来了",
+        "onboard_time": 1704508828,
+        "rank": 20,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 254919,
+        "num": 254919,
+        "word": "儿子不愿提水妈妈重新解释重男轻女",
+        "onboard_time": 1704503969,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44613,
+        "num": 239735,
+        "word": "戈壁上的光热电站满满科幻感",
+        "onboard_time": 1704510869,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233781,
+        "num": 233781,
+        "word": "日本又连发地震",
+        "onboard_time": 1704502948,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214070,
+        "num": 214070,
+        "word": "Jennie最新solo舞台",
+        "onboard_time": 1704511529,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205230,
+        "num": 205230,
+        "word": "魏大勋开车门魏总关车门",
+        "onboard_time": 1704511651,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192554,
+        "num": 192554,
+        "word": "孟子义中式妆",
+        "onboard_time": 1704510928,
+        "rank": 26,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 191537,
+        "num": 191537,
+        "word": "周震南一年瘦了30斤",
+        "onboard_time": 1704497480,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183702,
+        "num": 183702,
+        "word": "复旦留美流浪博士曾月薪10万美元",
+        "onboard_time": 1704510269,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156341,
+        "num": 183309,
+        "word": "英国连发300多个洪水预警",
+        "onboard_time": 1704509728,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219390,
+        "num": 183298,
+        "word": "春晚要是敢演这种小品",
+        "onboard_time": 1704510991,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210218,
+        "num": 183285,
+        "word": "没吃早餐的朋友可以拿一个小狗面包",
+        "onboard_time": 1704510630,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183269,
+        "num": 183269,
+        "word": "野良神",
+        "onboard_time": 1704510869,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 171787,
+        "num": 171787,
+        "word": "哈尔滨火到国际媒体上",
+        "onboard_time": 1704511169,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171034,
+        "num": 171034,
+        "word": "papi酱菱红下线",
+        "onboard_time": 1704465215,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163728,
+        "num": 163728,
+        "word": "哈尔滨本地人被优先拒绝",
+        "onboard_time": 1704508349,
+        "rank": 35,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 161391,
+        "num": 161391,
+        "word": "以闪亮之名",
+        "onboard_time": 1704511769,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158063,
+        "num": 158063,
+        "word": "去世小猫的照片盖在了我脸上",
+        "onboard_time": 1704511110,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153972,
+        "num": 153972,
+        "word": "最糟糕的睡姿",
+        "onboard_time": 1704502349,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149297,
+        "num": 149297,
+        "word": "家乐福CEO回应封杀百事",
+        "onboard_time": 1704508828,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 145441,
+        "num": 145441,
+        "word": "复旦校友将到纽约街头寻找流浪博士",
+        "onboard_time": 1704505168,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 140741,
+        "num": 140741,
+        "word": "霍金",
+        "onboard_time": 1704447812,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127944,
+        "num": 127944,
+        "word": "龙年茅台酒今晚申购",
+        "onboard_time": 1704510150,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124497,
+        "num": 124497,
+        "word": "日本地震已致98人死亡",
+        "onboard_time": 1704505049,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118937,
+        "num": 118937,
+        "word": "赵露思哭到颤抖",
+        "onboard_time": 1704461974,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117390,
+        "num": 117390,
+        "word": "繁花 护肤品",
+        "onboard_time": 1704509850,
+        "rank": 45,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 114204,
+        "num": 114204,
+        "word": "边晓晓江晴朗",
+        "onboard_time": 1704507451,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113814,
+        "num": 113814,
+        "word": "百事被家乐福封杀",
+        "onboard_time": 1704466713,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106486,
+        "num": 106486,
+        "word": "繁花 上海人自己的哈利波特",
+        "onboard_time": 1704506789,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105407,
+        "num": 105407,
+        "word": "刘宇宁直播门票",
+        "onboard_time": 1704502409,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#泱泱中华历史何其悠久文明何其博大#"
+    }
+  }
+}
