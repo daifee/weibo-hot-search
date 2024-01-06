@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704530051725,
+  "endTime": 1704532573161,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1807604,
+      "num": 1807604,
+      "word": "被冰锥砸中倒地的大学生已身亡",
+      "onboard_time": 1704527972,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1803000,
       "num": 339996,
       "word": "痞幼谈内衣照事件",
@@ -448,14 +456,6 @@
       "word": "日本石川县发生5.5级地震",
       "onboard_time": 1704249630,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1699904,
-      "num": 1699904,
-      "word": "被冰锥砸中倒地的大学生已身亡",
-      "onboard_time": 1704527972,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1363,6 +1363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 999229,
+      "num": 999229,
+      "word": "藏海传 路透",
+      "onboard_time": 1704529412,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 998672,
       "num": 273993,
       "word": "D社 该上班了",
@@ -1401,6 +1409,14 @@
       "onboard_time": 1704378876,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 980670,
+      "num": 980670,
+      "word": "哈尔滨冰玫瑰",
+      "onboard_time": 1704530132,
+      "rank": 5,
+      "category": "旅游"
     },
     {
       "raw_hot": 975382,
@@ -1760,6 +1776,14 @@
       "word": "2租客发现11万现金房东免租1年",
       "onboard_time": 1704456028,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 855614,
+      "num": 427223,
+      "word": "鲁东大学",
+      "onboard_time": 1704528813,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -2673,6 +2697,14 @@
       "onboard_time": 1704518730,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 666582,
+      "num": 666582,
+      "word": "王鹤棣枪灰发色",
+      "onboard_time": 1704530013,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 663577,
@@ -3643,6 +3675,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 534695,
+      "num": 534695,
+      "word": "身份证45开头的哈尔滨免费吃冻梨",
+      "onboard_time": 1704523469,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 533640,
       "num": 533640,
       "word": "卡琳娜有笑容了",
@@ -3657,14 +3697,6 @@
       "onboard_time": 1704348154,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531229,
-      "num": 531229,
-      "word": "藏海传 路透",
-      "onboard_time": 1704529412,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 530870,
@@ -4123,6 +4155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487528,
+      "num": 487528,
+      "word": "辛芷蕾的面部折叠度",
+      "onboard_time": 1704531632,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486403,
       "num": 486403,
       "word": "广州平均月薪11186元",
@@ -4441,14 +4481,6 @@
       "onboard_time": 1704108398,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 453104,
-      "num": 342530,
-      "word": "身份证45开头的哈尔滨免费吃冻梨",
-      "onboard_time": 1704523469,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 451235,
@@ -4955,14 +4987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404098,
-      "num": 404098,
-      "word": "鲁东大学",
-      "onboard_time": 1704528813,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 401276,
       "num": 401276,
       "word": "王安宇弥补了辛芷蕾的遗憾",
@@ -5427,6 +5451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357380,
+      "num": 357380,
+      "word": "沈腾宋江撞衫",
+      "onboard_time": 1704532114,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 356965,
       "num": 356965,
       "word": "微博之夜去年出圈造型",
@@ -5532,7 +5564,7 @@
     },
     {
       "raw_hot": 347340,
-      "num": 255744,
+      "num": 282644,
       "word": "男子离婚时拒养人工授精的儿子",
       "onboard_time": 1704524430,
       "rank": 22,
@@ -5819,6 +5851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323774,
+      "num": 323774,
+      "word": "宝总李李暧昧戏",
+      "onboard_time": 1704530132,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323510,
       "num": 323510,
       "word": "韩剧 死期将至",
@@ -5977,6 +6017,14 @@
       "onboard_time": 1704418529,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 313670,
+      "num": 313670,
+      "word": "赫哲族姑娘将现身中央大街",
+      "onboard_time": 1704529531,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 313571,
@@ -7291,6 +7339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 246867,
+      "num": 246867,
+      "word": "辽宁3任公安厅长合计受贿超12亿",
+      "onboard_time": 1704531332,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246541,
       "num": 246541,
       "word": "邓为芭莎男士封面预告",
@@ -7385,6 +7441,14 @@
       "onboard_time": 1704293857,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243538,
+      "num": 243538,
+      "word": "女贼担心判太重偷走8000元留下1万4",
+      "onboard_time": 1704529592,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243141,
@@ -7761,6 +7825,14 @@
       "onboard_time": 1704338670,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229182,
+      "num": 229182,
+      "word": "BLG对战JDG",
+      "onboard_time": 1704531691,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 228524,
@@ -8291,6 +8363,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 214314,
+      "num": 214314,
+      "word": "美国客机起飞后一扇门不见了",
+      "onboard_time": 1704529111,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214302,
       "num": 214302,
       "word": "王家卫 阿宝要找到李逍遥的感觉",
@@ -8305,6 +8385,14 @@
       "onboard_time": 1704443312,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 213236,
+      "num": 213236,
+      "word": "小砂糖橘还有后续的后续",
+      "onboard_time": 1704530913,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212951,
@@ -8393,6 +8481,14 @@
       "onboard_time": 1704510630,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210065,
+      "num": 210065,
+      "word": "张若昀选的剧本",
+      "onboard_time": 1704527912,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210046,
@@ -8675,14 +8771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204166,
-      "num": 204166,
-      "word": "美国客机起飞后一扇门不见了",
-      "onboard_time": 1704529111,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203683,
       "num": 203683,
       "word": "小土豆见尔滨消防员执勤疯狂打卡",
@@ -8801,14 +8889,6 @@
       "onboard_time": 1704268530,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201705,
-      "num": 201705,
-      "word": "张若昀选的剧本",
-      "onboard_time": 1704527912,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 201665,
@@ -9651,14 +9731,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 187405,
-      "num": 187405,
-      "word": "赫哲族姑娘将现身中央大街",
-      "onboard_time": 1704529531,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 187203,
       "num": 187203,
       "word": "迪丽热巴你不是孤单一人了",
@@ -10161,6 +10233,14 @@
       "onboard_time": 1704284794,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178393,
+      "num": 178393,
+      "word": "2024LCK",
+      "onboard_time": 1704532293,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 178215,
@@ -11299,14 +11379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157397,
-      "num": 157397,
-      "word": "王鹤棣枪灰发色",
-      "onboard_time": 1704530013,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 157045,
       "num": 157045,
       "word": "新马泰均已免签",
@@ -11857,6 +11929,14 @@
       "onboard_time": 1704363755,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147931,
+      "num": 147931,
+      "word": "在朋友圈做这件事涉嫌违法",
+      "onboard_time": 1704531030,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147741,
@@ -12579,20 +12659,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137009,
+      "num": 137009,
+      "word": "你好种地少年",
+      "onboard_time": 1704531576,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136947,
       "num": 136947,
       "word": "爱睡懒觉或是没遗传到早起基因",
       "onboard_time": 1704445952,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 136770,
-      "num": 136770,
-      "word": "女贼担心判太重偷走8000元留下1万4",
-      "onboard_time": 1704529592,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136698,
@@ -13203,6 +13283,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 126775,
+      "num": 126775,
+      "word": "哈尔滨豪华旅游包厢10天9晚费用6万",
+      "onboard_time": 1704530553,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 126567,
       "num": 126567,
       "word": "詹姆斯1分钟连得9分",
@@ -13217,6 +13305,14 @@
       "onboard_time": 1704189815,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126253,
+      "num": 126253,
+      "word": "我的男朋友是脑王",
+      "onboard_time": 1704530132,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 126178,
@@ -13393,6 +13489,14 @@
       "onboard_time": 1704276814,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 122864,
+      "num": 122864,
+      "word": "陈楚生唱拯救",
+      "onboard_time": 1704530491,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 122741,
@@ -14129,6 +14233,14 @@
       "onboard_time": 1704414093,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104610,
+      "num": 1127262,
+      "word": "种地这件事中国人有多牛",
+      "onboard_time": 1704531576,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104561,

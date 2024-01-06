@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704530051725,
+  "endTime": 1704532573161,
   "band_list": [
     {
       "raw_hot": 3675516,
@@ -27,19 +27,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1807604,
+      "num": 1807604,
+      "word": "被冰锥砸中倒地的大学生已身亡",
+      "onboard_time": 1704527972,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1711851,
       "num": 789159,
       "word": "中福彩已报警",
       "onboard_time": 1704466476,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1699904,
-      "num": 1699904,
-      "word": "被冰锥砸中倒地的大学生已身亡",
-      "onboard_time": 1704527972,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -155,6 +155,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 999229,
+      "num": 999229,
+      "word": "藏海传 路透",
+      "onboard_time": 1704529412,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 980670,
+      "num": 980670,
+      "word": "哈尔滨冰玫瑰",
+      "onboard_time": 1704530132,
+      "rank": 5,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 975382,
       "num": 494620,
       "word": "肖战站在粉丝旁边没被认出来",
@@ -176,6 +192,14 @@
       "word": "黑龙江文旅厅厅长仅任职1年",
       "onboard_time": 1704520409,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 855614,
+      "num": 427223,
+      "word": "鲁东大学",
+      "onboard_time": 1704528813,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -257,6 +281,14 @@
       "onboard_time": 1704518730,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 666582,
+      "num": 666582,
+      "word": "王鹤棣枪灰发色",
+      "onboard_time": 1704530013,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 630622,
@@ -371,12 +403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 531229,
-      "num": 531229,
-      "word": "藏海传 路透",
-      "onboard_time": 1704529412,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 534695,
+      "num": 534695,
+      "word": "身份证45开头的哈尔滨免费吃冻梨",
+      "onboard_time": 1704523469,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514953,
@@ -409,6 +441,14 @@
       "onboard_time": 1704527793,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 487528,
+      "num": 487528,
+      "word": "辛芷蕾的面部折叠度",
+      "onboard_time": 1704531632,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 485646,
@@ -449,14 +489,6 @@
       "onboard_time": 1704465215,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 453104,
-      "num": 342530,
-      "word": "身份证45开头的哈尔滨免费吃冻梨",
-      "onboard_time": 1704523469,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444998,
@@ -523,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404098,
-      "num": 404098,
-      "word": "鲁东大学",
-      "onboard_time": 1704528813,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 388509,
       "num": 388509,
       "word": "一般漂亮章若楠",
@@ -563,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357380,
+      "num": 357380,
+      "word": "沈腾宋江撞衫",
+      "onboard_time": 1704532114,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 350694,
       "num": 231155,
       "word": "周震南一年瘦了30斤",
@@ -572,7 +604,7 @@
     },
     {
       "raw_hot": 347340,
-      "num": 255744,
+      "num": 282644,
       "word": "男子离婚时拒养人工授精的儿子",
       "onboard_time": 1704524430,
       "rank": 22,
@@ -619,12 +651,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 323774,
+      "num": 323774,
+      "word": "宝总李李暧昧戏",
+      "onboard_time": 1704530132,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323056,
       "num": 239190,
       "word": "突然意识到医保的重要性",
       "onboard_time": 1704523411,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 313670,
+      "num": 313670,
+      "word": "赫哲族姑娘将现身中央大街",
+      "onboard_time": 1704529531,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 309362,
@@ -771,6 +819,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 246867,
+      "num": 246867,
+      "word": "辽宁3任公安厅长合计受贿超12亿",
+      "onboard_time": 1704531332,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243538,
+      "num": 243538,
+      "word": "女贼担心判太重偷走8000元留下1万4",
+      "onboard_time": 1704529592,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238822,
       "num": 238822,
       "word": "小砂糖橘参观哈工大每人配1名研究生",
@@ -787,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229182,
+      "num": 229182,
+      "word": "BLG对战JDG",
+      "onboard_time": 1704531691,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223345,
       "num": 221535,
       "word": "小砂糖橘在东北包饺子被一顿猛夸",
@@ -801,6 +873,22 @@
       "onboard_time": 1704466713,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214314,
+      "num": 214314,
+      "word": "美国客机起飞后一扇门不见了",
+      "onboard_time": 1704529111,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213236,
+      "num": 213236,
+      "word": "小砂糖橘还有后续的后续",
+      "onboard_time": 1704530913,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212215,
@@ -825,6 +913,14 @@
       "onboard_time": 1704510630,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210065,
+      "num": 210065,
+      "word": "张若昀选的剧本",
+      "onboard_time": 1704527912,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208255,
@@ -867,14 +963,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 204166,
-      "num": 204166,
-      "word": "美国客机起飞后一扇门不见了",
-      "onboard_time": 1704529111,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203090,
       "num": 203090,
       "word": "男飞侠",
@@ -889,14 +977,6 @@
       "onboard_time": 1704468576,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 201705,
-      "num": 201705,
-      "word": "张若昀选的剧本",
-      "onboard_time": 1704527912,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200550,
@@ -979,14 +1059,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 187405,
-      "num": 187405,
-      "word": "赫哲族姑娘将现身中央大街",
-      "onboard_time": 1704529531,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 186273,
       "num": 186273,
       "word": "哈尔滨本地人被优先拒绝",
@@ -1041,6 +1113,14 @@
       "onboard_time": 1704472170,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178393,
+      "num": 178393,
+      "word": "2024LCK",
+      "onboard_time": 1704532293,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 175442,
@@ -1219,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157397,
-      "num": 157397,
-      "word": "王鹤棣枪灰发色",
-      "onboard_time": 1704530013,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 156421,
       "num": 156421,
       "word": "方逸伦直播",
@@ -1281,6 +1353,14 @@
       "onboard_time": 1704529054,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 147931,
+      "num": 147931,
+      "word": "在朋友圈做这件事涉嫌违法",
+      "onboard_time": 1704531030,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147620,
@@ -1427,12 +1507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136770,
-      "num": 136770,
-      "word": "女贼担心判太重偷走8000元留下1万4",
-      "onboard_time": 1704529592,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 137009,
+      "num": 137009,
+      "word": "你好种地少年",
+      "onboard_time": 1704531576,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 136220,
@@ -1539,6 +1619,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 126775,
+      "num": 126775,
+      "word": "哈尔滨豪华旅游包厢10天9晚费用6万",
+      "onboard_time": 1704530553,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 126253,
+      "num": 126253,
+      "word": "我的男朋友是脑王",
+      "onboard_time": 1704530132,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125676,
       "num": 125676,
       "word": "朝鲜向韩国西部海域发射200多发海岸炮",
@@ -1561,6 +1657,14 @@
       "onboard_time": 1704465516,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122864,
+      "num": 122864,
+      "word": "陈楚生唱拯救",
+      "onboard_time": 1704530491,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 121912,
@@ -1801,6 +1905,14 @@
       "onboard_time": 1704465516,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104610,
+      "num": 1127262,
+      "word": "种地这件事中国人有多牛",
+      "onboard_time": 1704531576,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103508,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704530051725,
+  "endTime": 1704532573161,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1807604,
+      "num": 1807604,
+      "word": "被冰锥砸中倒地的大学生已身亡",
+      "onboard_time": 1704527972,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1803000,
       "num": 339996,
       "word": "痞幼谈内衣照事件",
@@ -448,14 +456,6 @@
       "word": "日本石川县发生5.5级地震",
       "onboard_time": 1704249630,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1699904,
-      "num": 1699904,
-      "word": "被冰锥砸中倒地的大学生已身亡",
-      "onboard_time": 1704527972,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1363,6 +1363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 999229,
+      "num": 999229,
+      "word": "藏海传 路透",
+      "onboard_time": 1704529412,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 998672,
       "num": 273993,
       "word": "D社 该上班了",
@@ -1401,6 +1409,14 @@
       "onboard_time": 1704378876,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 980670,
+      "num": 980670,
+      "word": "哈尔滨冰玫瑰",
+      "onboard_time": 1704530132,
+      "rank": 5,
+      "category": "旅游"
     },
     {
       "raw_hot": 975382,
@@ -1760,6 +1776,14 @@
       "word": "2租客发现11万现金房东免租1年",
       "onboard_time": 1704456028,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 855614,
+      "num": 427223,
+      "word": "鲁东大学",
+      "onboard_time": 1704528813,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -2376,30 +2400,6 @@
       "word": "家长半夜给班主任打电话学生遭怒怼",
       "onboard_time": 1704461431,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 713273,
-      "num": 713273,
-      "word": "李在明疑似颈静脉损伤",
-      "onboard_time": 1704176912,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 710370,
-      "num": 559584,
-      "word": "谢娜唱哭了",
-      "onboard_time": 1704034335,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 706337,
-      "num": 1285667,
-      "word": "婚礼现场父亲两次起身为女儿披棉袄",
-      "onboard_time": 1704189876,
-      "rank": 6,
       "category": "社会新闻"
     }
   ],
