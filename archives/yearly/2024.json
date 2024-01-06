@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704504947558,
+  "endTime": 1704508061880,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -657,6 +657,14 @@
       "onboard_time": 1704334589,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1404390,
+      "num": 373148,
+      "word": "南笙结婚",
+      "onboard_time": 1704505049,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1404002,
@@ -1417,6 +1425,14 @@
       "onboard_time": 1704330628,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 937832,
+      "num": 937832,
+      "word": "小砂糖橘哭着想把东北警察叔叔带回家",
+      "onboard_time": 1704506429,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 934352,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704412771,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 682112,
-      "num": 682112,
-      "word": "李在明遇袭颈部流血紧急送医救治",
-      "onboard_time": 1704160534,
-      "rank": 5,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 681118,
-      "num": 325708,
-      "word": "日本连续地震前乌鸦满天飞",
-      "onboard_time": 1704112840,
-      "rank": 22,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

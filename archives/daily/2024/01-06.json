@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704504947558,
+  "endTime": 1704508061880,
   "band_list": [
     {
       "raw_hot": 1711851,
@@ -17,6 +17,14 @@
       "onboard_time": 1704495799,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1404390,
+      "num": 373148,
+      "word": "南笙结婚",
+      "onboard_time": 1704505049,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1356930,
@@ -48,6 +56,14 @@
       "word": "霍金",
       "onboard_time": 1704447812,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 937832,
+      "num": 937832,
+      "word": "小砂糖橘哭着想把东北警察叔叔带回家",
+      "onboard_time": 1704506429,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -115,12 +131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589005,
+      "num": 339368,
+      "word": "日本地震已致98人死亡",
+      "onboard_time": 1704505049,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587808,
       "num": 587808,
       "word": "最糟糕的睡姿",
       "onboard_time": 1704502349,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 571992,
+      "num": 571992,
+      "word": "哈尔滨南方游客骨折数量明显增多",
+      "onboard_time": 1704503731,
+      "rank": 12,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 541950,
@@ -137,6 +169,14 @@
       "onboard_time": 1704499345,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526302,
+      "num": 526302,
+      "word": "繁花Citywalk收费520元起",
+      "onboard_time": 1704505588,
+      "rank": 6,
+      "category": "社会新闻,作品衍生"
     },
     {
       "raw_hot": 514953,
@@ -179,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405843,
+      "num": 218512,
+      "word": "儿子不愿提水妈妈重新解释重男轻女",
+      "onboard_time": 1704503969,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388509,
       "num": 388509,
       "word": "一般漂亮章若楠",
@@ -203,24 +251,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 354797,
-      "num": 210509,
-      "word": "儿子不愿提水妈妈重新解释重男轻女",
-      "onboard_time": 1704503969,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351592,
-      "num": 351592,
-      "word": "哈尔滨南方游客骨折数量明显增多",
-      "onboard_time": 1704503731,
-      "rank": 12,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 350694,
-      "num": 217201,
+      "num": 218400,
       "word": "周震南一年瘦了30斤",
       "onboard_time": 1704497480,
       "rank": 24,
@@ -233,6 +265,14 @@
       "onboard_time": 1704462213,
       "rank": 16,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 317787,
+      "num": 317787,
+      "word": "复旦校友将到纽约街头寻找流浪博士",
+      "onboard_time": 1704505168,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 291320,
@@ -289,6 +329,30 @@
       "onboard_time": 1704497961,
       "rank": 15,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 232839,
+      "num": 232839,
+      "word": "微博之夜 嘉宾",
+      "onboard_time": 1704507451,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223345,
+      "num": 211262,
+      "word": "小砂糖橘在东北包饺子被一顿猛夸",
+      "onboard_time": 1704507808,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219596,
+      "num": 219596,
+      "word": "吉林某单位门岗出现野生东北虎",
+      "onboard_time": 1704506011,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217289,
@@ -371,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174605,
+      "num": 174605,
+      "word": "打20多次举报电话谎称遭间谍威胁被拘",
+      "onboard_time": 1704504688,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172358,
       "num": 172358,
       "word": "徐若晗演技",
       "onboard_time": 1704504087,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170879,
+      "num": 152256,
+      "word": "武艺 我爸妈都没那么使唤我",
+      "onboard_time": 1704507689,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 169309,
@@ -427,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152293,
+      "num": 152293,
+      "word": "边晓晓江晴朗",
+      "onboard_time": 1704507451,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151899,
+      "num": 151899,
+      "word": "繁花 上海人自己的哈利波特",
+      "onboard_time": 1704506789,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148727,
       "num": 148727,
       "word": "繁花里有林熙蕾",
@@ -459,12 +555,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146523,
+      "num": 146523,
+      "word": "国足6比2阿联酋甲级球队",
+      "onboard_time": 1704506011,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146179,
       "num": 146179,
       "word": "王楚钦4比0邱党",
       "onboard_time": 1704456993,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143447,
+      "num": 143447,
+      "word": "关晓彤小时候的梦想实现了",
+      "onboard_time": 1704505109,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142632,
+      "num": 142632,
+      "word": "从淄博到哈尔滨网红城市有何共通之处",
+      "onboard_time": 1704506971,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 141618,
@@ -507,6 +627,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137182,
+      "num": 137182,
+      "word": "川渝文旅组团喊话哈尔滨",
+      "onboard_time": 1704507329,
+      "rank": 38,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 136737,
+      "num": 136737,
+      "word": "妻子瘫痪后丈夫做她的双腿19年",
+      "onboard_time": 1704506371,
+      "rank": 39,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 135697,
       "num": 135697,
       "word": "戚薇跟刘维说我帮不了你",
@@ -537,6 +673,14 @@
       "onboard_time": 1704456751,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127471,
+      "num": 127471,
+      "word": "哈尔滨早市太顶了",
+      "onboard_time": 1704505470,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 125676,
@@ -577,14 +721,6 @@
       "onboard_time": 1704457593,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119396,
-      "num": 119396,
-      "word": "打20多次举报电话谎称遭间谍威胁被拘",
-      "onboard_time": 1704504688,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119373,
