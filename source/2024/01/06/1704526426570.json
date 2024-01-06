@@ -1,0 +1,410 @@
+{
+  "runTime": 1704526426570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2620658,
+        "num": 2620658,
+        "word": "三天60亿",
+        "onboard_time": 1704519152,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1425756,
+        "num": 1425756,
+        "word": "美国被曝花15亿美元训练记者黑中国",
+        "onboard_time": 1704522151,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 13287,
+        "num": 1142339,
+        "word": "戈壁上的光热电站满满科幻感",
+        "onboard_time": 1704510869,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033199,
+        "num": 1033199,
+        "word": "专家称南方小土豆争议暴露南北文化差异",
+        "onboard_time": 1704518550,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831700,
+        "num": 831700,
+        "word": "有多囊卵巢综合征女性会出现爆痘",
+        "onboard_time": 1704521671,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 713432,
+        "num": 713432,
+        "word": "黑龙江文旅厅厅长仅任职1年",
+        "onboard_time": 1704520409,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701453,
+        "num": 701453,
+        "word": "汪小姐出车祸",
+        "onboard_time": 1704517892,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 678031,
+        "num": 678031,
+        "word": "山东一高校坠落巨大冰块砸倒学生",
+        "onboard_time": 1704522213,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505539,
+        "num": 505539,
+        "word": "日本称只接受美国援助",
+        "onboard_time": 1704512549,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406025,
+        "num": 406025,
+        "word": "妈妈抱着送养20多年双胞胎儿子大哭",
+        "onboard_time": 1704520831,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500568,
+        "num": 398150,
+        "word": "肖战打卡肖战",
+        "onboard_time": 1704518730,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384453,
+        "num": 384453,
+        "word": "管泽元余霜萍乡婚礼",
+        "onboard_time": 1704525151,
+        "rank": 11,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 370118,
+        "num": 370118,
+        "word": "微博之夜 白鹿",
+        "onboard_time": 1704518670,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359834,
+        "num": 359834,
+        "word": "小砂糖橘哭着想把东北警察叔叔带回家",
+        "onboard_time": 1704506429,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313490,
+        "num": 313490,
+        "word": "微博之夜第三波阵容官宣",
+        "onboard_time": 1704512070,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306693,
+        "num": 306693,
+        "word": "王菲 反王家卫打击第一人",
+        "onboard_time": 1704511110,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267125,
+        "num": 267125,
+        "word": "澡堂偶遇王星越",
+        "onboard_time": 1704523771,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266628,
+        "num": 266628,
+        "word": "王石有一个3岁女儿",
+        "onboard_time": 1704515552,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261268,
+        "num": 261268,
+        "word": "复旦留美博士称妻子拿绿卡后和他离婚",
+        "onboard_time": 1704512249,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254479,
+        "num": 254479,
+        "word": "谢震廷否认向前女友挥刀",
+        "onboard_time": 1704525870,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447659,
+        "num": 246047,
+        "word": "身份证45开头的哈尔滨免费吃冻梨",
+        "onboard_time": 1704523469,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347340,
+        "num": 244414,
+        "word": "男子离婚时拒养人工授精的儿子",
+        "onboard_time": 1704524430,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284384,
+        "num": 234997,
+        "word": "突然意识到医保的重要性",
+        "onboard_time": 1704523411,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219242,
+        "num": 219242,
+        "word": "什么是断崖式绝交",
+        "onboard_time": 1704524493,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211095,
+        "num": 211095,
+        "word": "小砂糖橘参观哈工大每人配1名研究生",
+        "onboard_time": 1704520170,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207764,
+        "num": 207764,
+        "word": "美国女主播播新闻发现下条是父亲贪污",
+        "onboard_time": 1704518612,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207111,
+        "num": 207111,
+        "word": "店主落泪回应索菲亚教堂蛋糕爆火",
+        "onboard_time": 1704509909,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 188883,
+        "num": 188883,
+        "word": "微博之夜虞书欣",
+        "onboard_time": 1704522151,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171242,
+        "num": 171242,
+        "word": "钟意被骗免费陪玩",
+        "onboard_time": 1704524732,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170847,
+        "num": 170847,
+        "word": "微博之夜 嘉宾",
+        "onboard_time": 1704507451,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225155,
+        "num": 170685,
+        "word": "黑龙江省长点名哈尔滨",
+        "onboard_time": 1704525511,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164071,
+        "num": 164071,
+        "word": "杨紫奶栗妆",
+        "onboard_time": 1704519870,
+        "rank": 31,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 161647,
+        "num": 161647,
+        "word": "零封",
+        "onboard_time": 1704518550,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157446,
+        "num": 157446,
+        "word": "越南人口官宣破亿",
+        "onboard_time": 1704525630,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156231,
+        "num": 156231,
+        "word": "小狗狗坐在大狗狗身上晒太阳",
+        "onboard_time": 1704524430,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12012,
+        "num": 151476,
+        "word": "聚焦中心工作奋进关键之年",
+        "onboard_time": 1704511830,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150792,
+        "num": 150792,
+        "word": "女子被家暴16次需终身挂粪袋案进展",
+        "onboard_time": 1704526052,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147675,
+        "num": 147675,
+        "word": "南笙结婚",
+        "onboard_time": 1704505049,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146560,
+        "num": 146560,
+        "word": "贵州小茅台勇闯哈尔滨",
+        "onboard_time": 1704520110,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144778,
+        "num": 144778,
+        "word": "画江湖之天罡 真诚必杀技",
+        "onboard_time": 1704526052,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141265,
+        "num": 141265,
+        "word": "尔滨 能不能来接我",
+        "onboard_time": 1704521731,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 136889,
+        "num": 136889,
+        "word": "晋江文男主玺子哥",
+        "onboard_time": 1704514409,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134832,
+        "num": 134832,
+        "word": "杭州外卖物价",
+        "onboard_time": 1704524854,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131813,
+        "num": 131813,
+        "word": "哈工大学霸人手一个橘宝宝",
+        "onboard_time": 1704526170,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129495,
+        "num": 129495,
+        "word": "93岁奶奶和86岁奶奶比身高",
+        "onboard_time": 1704526292,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122861,
+        "num": 122861,
+        "word": "预算18w去哈尔滨",
+        "onboard_time": 1704496337,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 120057,
+        "num": 120057,
+        "word": "声生不息",
+        "onboard_time": 1704523654,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117982,
+        "num": 117982,
+        "word": "床 人类的无线充电器",
+        "onboard_time": 1704522510,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115458,
+        "num": 115458,
+        "word": "尔滨松花江畔现白马和南瓜车",
+        "onboard_time": 1704525270,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 108571,
+        "num": 108571,
+        "word": "扎加洛去世",
+        "onboard_time": 1704521072,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}
