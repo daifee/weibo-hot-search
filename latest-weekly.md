@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/07 00:21:26 ~ 2024/01/07 02:33:52
+本榜单时间：2024/01/07 00:21:26 ~ 2024/01/07 03:13:38
 </p>
 </blockquote>
 <p>
@@ -345,8 +345,20 @@ NewJeans Ditto（热度：105828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%238%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%B9%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%AF%B4%E5%A5%BD%E4%B8%8D%E5%93%AD%E8%A2%AB%E8%B5%9E%E8%B6%85%E8%BF%98%E5%8E%9F%23" target="weibo">
+8岁男孩弹周杰伦说好不哭被赞超还原（热度：25481）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E7%9C%81%E4%BB%BD%E5%8A%9B%E6%8B%BC%E7%BB%8F%E6%B5%8E%E5%BC%80%E9%97%A8%E7%BA%A2%23" target="weibo">
 全国各省份力拼经济开门红（热度：23750）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E9%95%82%E7%A9%BA%E8%A1%AC%E8%A1%AB%23" target="weibo">
+张杰镂空衬衫（热度：23132）
 </a>
 </li>
 
