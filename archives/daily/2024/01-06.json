@@ -1,7 +1,15 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704547153758,
+  "endTime": 1704548043637,
   "band_list": [
+    {
+      "raw_hot": 3872625,
+      "num": 3872625,
+      "word": "张若昀长文",
+      "onboard_time": 1704545671,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 3675516,
       "num": 3675516,
@@ -17,14 +25,6 @@
       "onboard_time": 1704527733,
       "rank": 0,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 3403309,
-      "num": 3403309,
-      "word": "张若昀长文",
-      "onboard_time": 1704545671,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 2406378,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1164568,
+      "num": 946525,
+      "word": "边晓晓江晴朗离婚",
+      "onboard_time": 1704546634,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1158511,
       "num": 1158511,
       "word": "百事被家乐福封杀",
@@ -249,6 +257,14 @@
       "onboard_time": 1704507689,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 931832,
+      "num": 931832,
+      "word": "已读乱回",
+      "onboard_time": 1704546575,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 915982,
@@ -595,6 +611,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473695,
+      "num": 473695,
+      "word": "林依轮妻子再为肿瘤病人捐发",
+      "onboard_time": 1704546936,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 461170,
+      "num": 461170,
+      "word": "4月大女婴被遗弃纸条写无力抚养",
+      "onboard_time": 1704545252,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457137,
       "num": 457137,
       "word": "沈阳文旅局长深夜在线听网友支招",
@@ -608,14 +640,6 @@
       "word": "papi酱菱红下线",
       "onboard_time": 1704465215,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 453601,
-      "num": 453601,
-      "word": "边晓晓江晴朗离婚",
-      "onboard_time": 1704546634,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -739,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 396927,
-      "num": 396927,
-      "word": "4月大女婴被遗弃纸条写无力抚养",
-      "onboard_time": 1704545252,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 391306,
       "num": 391306,
       "word": "薛之谦 回流票",
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 388135,
-      "num": 242273,
+      "num": 323655,
       "word": "原来是三个人的尴尬",
       "onboard_time": 1704545853,
       "rank": 30,
@@ -827,20 +843,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371923,
-      "num": 371923,
-      "word": "已读乱回",
-      "onboard_time": 1704546575,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 365157,
       "num": 365157,
       "word": "林俊杰世巡场次",
       "onboard_time": 1704540512,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 359953,
+      "num": 359953,
+      "word": "忙内line颁奖",
+      "onboard_time": 1704546874,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 350694,
@@ -955,6 +971,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 312947,
+      "num": 312947,
+      "word": "为什么月经会延后",
+      "onboard_time": 1704546995,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 309362,
       "num": 270467,
       "word": "建议张雨绮不要建议",
@@ -964,7 +988,7 @@
     },
     {
       "raw_hot": 305514,
-      "num": 281148,
+      "num": 288618,
       "word": "车银优你最好是胖着玩",
       "onboard_time": 1704544713,
       "rank": 32,
@@ -1083,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271780,
+      "num": 254085,
+      "word": "张元英金唱片造型",
+      "onboard_time": 1704546155,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 271560,
       "num": 271560,
       "word": "陈楚生周深爆改声生不息",
@@ -1195,14 +1227,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 252547,
-      "num": 235416,
-      "word": "林依轮妻子再为肿瘤病人捐发",
-      "onboard_time": 1704546936,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251683,
       "num": 251683,
       "word": "贵州小茅台勇闯哈尔滨",
@@ -1235,12 +1259,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 237155,
-      "num": 201732,
-      "word": "张元英金唱片造型",
-      "onboard_time": 1704546155,
-      "rank": 36,
-      "category": "音乐"
+      "raw_hot": 232672,
+      "num": 224329,
+      "word": "崔胜澈 黑衬衫杀伤力",
+      "onboard_time": 1704547416,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 230405,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1704531691,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 227569,
-      "num": 186155,
-      "word": "忙内line颁奖",
-      "onboard_time": 1704546874,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 226821,
@@ -1337,6 +1353,14 @@
       "onboard_time": 1704529111,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210481,
+      "num": 210481,
+      "word": "反腐大片持续发力纵深推进第一集",
+      "onboard_time": 1704547596,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210218,
@@ -1707,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174008,
+      "num": 174008,
+      "word": "创业4次失败回村把荒山种成农场",
+      "onboard_time": 1704545733,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173619,
       "num": 173619,
       "word": "有人愿捐钱接留美流浪博士回国养老",
@@ -1827,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162166,
+      "num": 162166,
+      "word": "专家建议暂停IPO让市场喘口气",
+      "onboard_time": 1704547897,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 161872,
       "num": 161872,
       "word": "保罗左手骨折",
@@ -1865,14 +1905,6 @@
       "onboard_time": 1704506789,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158368,
-      "num": 158368,
-      "word": "为什么月经会延后",
-      "onboard_time": 1704546995,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 158063,
@@ -1915,20 +1947,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154449,
-      "num": 154449,
-      "word": "创业4次失败回村把荒山种成农场",
-      "onboard_time": 1704545733,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153017,
       "num": 153017,
       "word": "租客退租留下宫里宫气家具",
       "onboard_time": 1704452311,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152315,
+      "num": 152315,
+      "word": "夫硕顺feat铁人叔",
+      "onboard_time": 1704547958,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 149924,
@@ -2763,6 +2795,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 22839,
+      "num": 323655,
+      "word": "迈出新步伐",
+      "onboard_time": 1704547475,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22612,
       "num": 896781,
       "word": "乡村振兴追梦人",
@@ -2809,6 +2849,14 @@
       "onboard_time": 1704452131,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10688,
+      "num": 948991,
+      "word": "全国各省份力拼经济开门红",
+      "onboard_time": 1704531093,
+      "rank": 2,
+      "category": "财经"
     }
   ],
   "hotgov_list": [

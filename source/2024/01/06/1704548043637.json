@@ -1,0 +1,410 @@
+{
+  "runTime": 1704548043637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3872625,
+        "num": 3872625,
+        "word": "张若昀长文",
+        "onboard_time": 1704545671,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1138754,
+        "num": 1138754,
+        "word": "江苏发现1例罕见小P血型",
+        "onboard_time": 1704539190,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10688,
+        "num": 948991,
+        "word": "全国各省份力拼经济开门红",
+        "onboard_time": 1704531093,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1164568,
+        "num": 946525,
+        "word": "边晓晓江晴朗离婚",
+        "onboard_time": 1704546634,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 931832,
+        "num": 931832,
+        "word": "已读乱回",
+        "onboard_time": 1704546575,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 896100,
+        "num": 896100,
+        "word": "央视评繁花",
+        "onboard_time": 1704536431,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 861822,
+        "num": 861822,
+        "word": "沈耀跟程雨杉在一起了",
+        "onboard_time": 1704542313,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 884559,
+        "num": 836144,
+        "word": "A先生李李恋情",
+        "onboard_time": 1704542972,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 754399,
+        "num": 754399,
+        "word": "三天60亿",
+        "onboard_time": 1704519152,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 737992,
+        "num": 737992,
+        "word": "星巴克64亿未使用礼品卡成高管奖金",
+        "onboard_time": 1704541293,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 848756,
+        "num": 736326,
+        "word": "车银优今天长这样",
+        "onboard_time": 1704541174,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 707154,
+        "num": 707154,
+        "word": "你可以叫我 滨",
+        "onboard_time": 1704527733,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 602278,
+        "num": 602278,
+        "word": "被冰锥砸中倒地的大学生已身亡",
+        "onboard_time": 1704527972,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572661,
+        "num": 572661,
+        "word": "黑龙江研发小土豆形象IP",
+        "onboard_time": 1704544895,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473695,
+        "num": 473695,
+        "word": "林依轮妻子再为肿瘤病人捐发",
+        "onboard_time": 1704546936,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461170,
+        "num": 461170,
+        "word": "4月大女婴被遗弃纸条写无力抚养",
+        "onboard_time": 1704545252,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459142,
+        "num": 459142,
+        "word": "刘宇宁回应阴阳剧本",
+        "onboard_time": 1704542913,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389735,
+        "num": 389735,
+        "word": "关晓彤范丞丞王安宇 跺脚生气",
+        "onboard_time": 1704545493,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359953,
+        "num": 359953,
+        "word": "忙内line颁奖",
+        "onboard_time": 1704546874,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325858,
+        "num": 325858,
+        "word": "身份证45开头的哈尔滨免费吃冻梨",
+        "onboard_time": 1704523469,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22839,
+        "num": 323655,
+        "word": "迈出新步伐",
+        "onboard_time": 1704547475,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 340731,
+        "num": 323655,
+        "word": "原来是三个人的尴尬",
+        "onboard_time": 1704545853,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323238,
+        "num": 323238,
+        "word": "宁波地铁偶遇卢昱晓",
+        "onboard_time": 1704545193,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312947,
+        "num": 312947,
+        "word": "为什么月经会延后",
+        "onboard_time": 1704546995,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 308366,
+        "num": 308366,
+        "word": "贪官靠打麻将受贿900多万元",
+        "onboard_time": 1704545793,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308244,
+        "num": 308244,
+        "word": "鸣龙少年 开年第一癫",
+        "onboard_time": 1704541592,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288618,
+        "num": 288618,
+        "word": "车银优你最好是胖着玩",
+        "onboard_time": 1704544713,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303357,
+        "num": 286686,
+        "word": "沈耀考第一",
+        "onboard_time": 1704536853,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278510,
+        "num": 278510,
+        "word": "繁花钟镇涛 致敬张国荣",
+        "onboard_time": 1704533255,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257909,
+        "num": 257909,
+        "word": "月经同步只是一种巧合",
+        "onboard_time": 1704539190,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271780,
+        "num": 254085,
+        "word": "张元英金唱片造型",
+        "onboard_time": 1704546155,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247960,
+        "num": 247960,
+        "word": "肖战站在粉丝旁边没被认出来",
+        "onboard_time": 1704526771,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247450,
+        "num": 247450,
+        "word": "张靓颖 神女降临",
+        "onboard_time": 1704545193,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229146,
+        "num": 229146,
+        "word": "女儿头发被剪毁妈妈花1880带其接发",
+        "onboard_time": 1704534992,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224728,
+        "num": 224728,
+        "word": "大学生被冰锥砸中身亡目击者发声",
+        "onboard_time": 1704539973,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232672,
+        "num": 224329,
+        "word": "崔胜澈 黑衬衫杀伤力",
+        "onboard_time": 1704547416,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222424,
+        "num": 222424,
+        "word": "boynextdoor in your area",
+        "onboard_time": 1704545733,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210481,
+        "num": 210481,
+        "word": "反腐大片持续发力纵深推进第一集",
+        "onboard_time": 1704547596,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174008,
+        "num": 174008,
+        "word": "创业4次失败回村把荒山种成农场",
+        "onboard_time": 1704545733,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166743,
+        "num": 166743,
+        "word": "验证码 验蠢",
+        "onboard_time": 1704539070,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215693,
+        "num": 166260,
+        "word": "林俊杰世巡场次",
+        "onboard_time": 1704540512,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215183,
+        "num": 165312,
+        "word": "王鹤棣枪灰发色",
+        "onboard_time": 1704530013,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194956,
+        "num": 163842,
+        "word": "藏海传 路透",
+        "onboard_time": 1704529412,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192777,
+        "num": 163152,
+        "word": "繁花",
+        "onboard_time": 1704543516,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162674,
+        "num": 162674,
+        "word": "不是三亚去不起尔滨更有性价比",
+        "onboard_time": 1704543214,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 162166,
+        "num": 162166,
+        "word": "专家建议暂停IPO让市场喘口气",
+        "onboard_time": 1704547897,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156156,
+        "num": 156156,
+        "word": "道枝骏佑开通微博",
+        "onboard_time": 1704543153,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152315,
+        "num": 152315,
+        "word": "夫硕顺feat铁人叔",
+        "onboard_time": 1704547958,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148793,
+        "num": 148793,
+        "word": "大数据解码哈尔滨爆火",
+        "onboard_time": 1704546575,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142343,
+        "num": 142343,
+        "word": "辽宁3任公安厅长合计受贿超12亿",
+        "onboard_time": 1704531332,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}
