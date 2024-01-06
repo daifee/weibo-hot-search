@@ -1,0 +1,410 @@
+{
+  "runTime": 1704504947558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1585389,
+        "num": 1585389,
+        "word": "家属已知复旦留美博士流浪纽约街头",
+        "onboard_time": 1704495799,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289542,
+        "num": 1289542,
+        "word": "预算18w去哈尔滨",
+        "onboard_time": 1704496337,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 39199,
+        "num": 883777,
+        "word": "中国航天员26年出征太空12次",
+        "onboard_time": 1704460656,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827252,
+        "num": 827252,
+        "word": "南方人吃冻梨削皮看傻东北网友",
+        "onboard_time": 1704498205,
+        "rank": 3,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 702263,
+        "num": 702263,
+        "word": "警方辟谣哈尔滨放开南方小土豆放烟花",
+        "onboard_time": 1704497119,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587808,
+        "num": 587808,
+        "word": "最糟糕的睡姿",
+        "onboard_time": 1704502349,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 535893,
+        "num": 535893,
+        "word": "易烊千玺从喝奶到喝香槟",
+        "onboard_time": 1704499345,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535870,
+        "num": 535870,
+        "word": "孙燕姿妹妹发文断绝关系",
+        "onboard_time": 1704457410,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466476,
+        "num": 466476,
+        "word": "孙东旭再现扔东西动作后赶紧纠正",
+        "onboard_time": 1704497241,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429429,
+        "num": 429429,
+        "word": "刘宇宁直播门票",
+        "onboard_time": 1704502409,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630622,
+        "num": 421837,
+        "word": "日本又连发地震",
+        "onboard_time": 1704502948,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385659,
+        "num": 385659,
+        "word": "百事被家乐福封杀",
+        "onboard_time": 1704466713,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351592,
+        "num": 351592,
+        "word": "哈尔滨南方游客骨折数量明显增多",
+        "onboard_time": 1704503731,
+        "rank": 12,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 294858,
+        "num": 294858,
+        "word": "papi酱菱红下线",
+        "onboard_time": 1704465215,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280444,
+        "num": 280444,
+        "word": "家长半夜给班主任打电话学生遭怒怼",
+        "onboard_time": 1704461431,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280331,
+        "num": 280331,
+        "word": "霍金",
+        "onboard_time": 1704447812,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257210,
+        "num": 257210,
+        "word": "陈楚生周深爆改声生不息",
+        "onboard_time": 1704501149,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250876,
+        "num": 250876,
+        "word": "广西砂糖橘摆盘炫出花了",
+        "onboard_time": 1704497961,
+        "rank": 17,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 223001,
+        "num": 223001,
+        "word": "赵露思哭到颤抖",
+        "onboard_time": 1704461974,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215712,
+        "num": 215712,
+        "word": "孙燕姿妹妹曾多次发文对姐姐不满",
+        "onboard_time": 1704466655,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354797,
+        "num": 210509,
+        "word": "儿子不愿提水妈妈重新解释重男轻女",
+        "onboard_time": 1704503969,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332887,
+        "num": 208260,
+        "word": "周震南一年瘦了30斤",
+        "onboard_time": 1704497480,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205171,
+        "num": 205171,
+        "word": "复旦留美博士当年是学校传奇人物",
+        "onboard_time": 1704503490,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188936,
+        "num": 188936,
+        "word": "沈阳文旅局长深夜在线听网友支招",
+        "onboard_time": 1704463656,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172358,
+        "num": 172358,
+        "word": "徐若晗演技",
+        "onboard_time": 1704504087,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172088,
+        "num": 172088,
+        "word": "腿脚是身体的警报器",
+        "onboard_time": 1704500908,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161765,
+        "num": 161765,
+        "word": "TVB前主播柳俊江因屋内烧炭身亡",
+        "onboard_time": 1704462213,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 161158,
+        "num": 161158,
+        "word": "猫不让闺蜜上床睡觉",
+        "onboard_time": 1704497843,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159217,
+        "num": 159217,
+        "word": "冬季年轻人猝死风险更高",
+        "onboard_time": 1704502409,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158332,
+        "num": 158332,
+        "word": "中央大街现鄂伦春族老爷爷",
+        "onboard_time": 1704472170,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155545,
+        "num": 155545,
+        "word": "一年中最冷的时候来了",
+        "onboard_time": 1704472170,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134713,
+        "num": 134713,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704451232,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148748,
+        "num": 134711,
+        "word": "小寒",
+        "onboard_time": 1704497241,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134388,
+        "num": 134388,
+        "word": "哈尔滨 火车套房",
+        "onboard_time": 1704499467,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132582,
+        "num": 132582,
+        "word": "云贵川渝申请出战",
+        "onboard_time": 1704497903,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130337,
+        "num": 130337,
+        "word": "傲寒 真正的勇士",
+        "onboard_time": 1704503009,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128396,
+        "num": 128396,
+        "word": "2租客发现11万现金房东免租1年",
+        "onboard_time": 1704456028,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127948,
+        "num": 127948,
+        "word": "繁花里有林熙蕾",
+        "onboard_time": 1704500728,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126922,
+        "num": 126922,
+        "word": "一个人骂我 说明不了什么",
+        "onboard_time": 1704465935,
+        "rank": 38,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 120593,
+        "num": 120593,
+        "word": "哈尔滨站凌晨仍在完善设施",
+        "onboard_time": 1704502708,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119396,
+        "num": 119396,
+        "word": "打20多次举报电话谎称遭间谍威胁被拘",
+        "onboard_time": 1704504688,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119373,
+        "num": 119373,
+        "word": "用她曾经爱我的方式在爱她",
+        "onboard_time": 1704504509,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112105,
+        "num": 112105,
+        "word": "文字讨好是礼貌还是过度社交",
+        "onboard_time": 1704504509,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110048,
+        "num": 110048,
+        "word": "2023年裸辞的人现在怎样了",
+        "onboard_time": 1704488174,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107780,
+        "num": 107780,
+        "word": "穆迪对勇士沮丧",
+        "onboard_time": 1704503308,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107752,
+        "num": 107752,
+        "word": "宋亚轩不经意间又爆梗了",
+        "onboard_time": 1704504809,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106949,
+        "num": 106949,
+        "word": "王楚钦总决赛男单夺冠",
+        "onboard_time": 1704472170,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105857,
+        "num": 105857,
+        "word": "久坐久站久躺哪个对身体伤害最大",
+        "onboard_time": 1704468576,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103099,
+        "num": 103099,
+        "word": "虚假的睡觉和真正的睡觉",
+        "onboard_time": 1704499046,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99511,
+        "num": 99511,
+        "word": "迈阿密",
+        "onboard_time": 1704500127,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局常务委员会召开会议#"
+    }
+  }
+}
