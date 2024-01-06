@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/07 00:21:26 ~ 2024/01/07 03:13:38
+本榜单时间：2024/01/07 00:21:26 ~ 2024/01/07 03:33:48
 </p>
 </blockquote>
 <p>
@@ -359,6 +359,12 @@ NewJeans Ditto（热度：105828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E9%95%82%E7%A9%BA%E8%A1%AC%E8%A1%AB%23" target="weibo">
 张杰镂空衬衫（热度：23132）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%B6%88%E8%B4%B9%E8%80%85%E7%BB%84%E7%BB%87%E6%8E%A7%E8%AF%89%E6%98%9F%E5%B7%B4%E5%85%8B%23" target="weibo">
+美消费者组织控诉星巴克（热度：20826）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704568418865,
+  "endTime": 1704569628133,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -16473,6 +16473,14 @@
       "onboard_time": 1704392237,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 20826,
+      "num": 20826,
+      "word": "美消费者组织控诉星巴克",
+      "onboard_time": 1704568935,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20332,
