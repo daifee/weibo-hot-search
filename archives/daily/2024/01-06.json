@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704536287159,
+  "endTime": 1704537275037,
   "band_list": [
     {
       "raw_hot": 3675516,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1224961,
+      "num": 1224961,
+      "word": "身份证45开头的哈尔滨免费吃冻梨",
+      "onboard_time": 1704523469,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1211846,
       "num": 1211846,
       "word": "孙燕姿妹妹发文断绝关系",
@@ -171,14 +179,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 977035,
-      "num": 977035,
-      "word": "身份证45开头的哈尔滨免费吃冻梨",
-      "onboard_time": 1704523469,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 975382,
       "num": 619656,
       "word": "肖战站在粉丝旁边没被认出来",
@@ -249,6 +249,14 @@
       "onboard_time": 1704498205,
       "rank": 4,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 800482,
+      "num": 643169,
+      "word": "央视评繁花",
+      "onboard_time": 1704536431,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 773410,
@@ -435,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516098,
+      "num": 1439547,
+      "word": "尔滨火了沈阳坐不住了",
+      "onboard_time": 1704533671,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514953,
       "num": 514953,
       "word": "樊振东发挥",
@@ -475,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483015,
-      "num": 1439547,
-      "word": "尔滨火了沈阳坐不住了",
-      "onboard_time": 1704533671,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 482390,
       "num": 482390,
       "word": "店主落泪回应索菲亚教堂蛋糕爆火",
@@ -513,6 +521,14 @@
       "onboard_time": 1704465215,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 445058,
+      "num": 445058,
+      "word": "辽宁3任公安厅长合计受贿超12亿",
+      "onboard_time": 1704531332,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444998,
@@ -547,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416203,
+      "num": 416203,
+      "word": "白客梦女",
+      "onboard_time": 1704535713,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 413482,
       "num": 413482,
       "word": "谢震廷否认向前女友挥刀",
@@ -579,20 +603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391306,
+      "num": 391306,
+      "word": "薛之谦 回流票",
+      "onboard_time": 1704535054,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 388509,
       "num": 388509,
       "word": "一般漂亮章若楠",
       "onboard_time": 1704467374,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 386363,
-      "num": 386363,
-      "word": "薛之谦 回流票",
-      "onboard_time": 1704535054,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 384453,
@@ -627,19 +651,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 348114,
-      "num": 348114,
-      "word": "辽宁3任公安厅长合计受贿超12亿",
-      "onboard_time": 1704531332,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347340,
       "num": 282644,
       "word": "男子离婚时拒养人工授精的儿子",
       "onboard_time": 1704524430,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341492,
+      "num": 341492,
+      "word": "女儿头发被剪毁妈妈花1880带其接发",
+      "onboard_time": 1704534992,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -747,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293930,
+      "num": 1153760,
+      "word": "小砂糖橘还有后续的后续",
+      "onboard_time": 1704530913,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291320,
       "num": 291320,
       "word": "看王家卫怎么拍分手",
@@ -763,12 +795,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 288990,
-      "num": 288990,
-      "word": "女儿头发被剪毁妈妈花1880带其接发",
-      "onboard_time": 1704534992,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 289039,
+      "num": 289039,
+      "word": "沈耀考第一",
+      "onboard_time": 1704536853,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 288442,
@@ -793,14 +825,6 @@
       "onboard_time": 1704465998,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 286569,
-      "num": 286569,
-      "word": "白客梦女",
-      "onboard_time": 1704535713,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 273381,
@@ -859,20 +883,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262840,
-      "num": 940160,
-      "word": "小砂糖橘还有后续的后续",
-      "onboard_time": 1704530913,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262405,
       "num": 243538,
       "word": "女贼担心判太重偷走8000元留下1万4",
       "onboard_time": 1704529592,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261353,
+      "num": 261353,
+      "word": "2023年去世的21位亿万富豪",
+      "onboard_time": 1704535951,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 259080,
@@ -936,6 +960,14 @@
       "word": "小砂糖橘在东北包饺子被一顿猛夸",
       "onboard_time": 1704507808,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220707,
+      "num": 220707,
+      "word": "椰树泳装挂历惹争议",
+      "onboard_time": 1704535890,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 190998,
+      "num": 190998,
+      "word": "哈尔滨滑冰场多人抢救昏迷男子",
+      "onboard_time": 1704536491,
+      "rank": 31,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 190728,
       "num": 190728,
       "word": "2租客发现11万现金房东免租1年",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1704510269,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 186924,
+      "num": 186924,
+      "word": "章若楠发量",
+      "onboard_time": 1704536853,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 186273,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1704532293,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175471,
+      "num": 175471,
+      "word": "山东省歌也被哈尔滨借走了",
+      "onboard_time": 1704536671,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 175442,
@@ -1484,7 +1540,7 @@
     },
     {
       "raw_hot": 146649,
-      "num": 1160530,
+      "num": 1247852,
       "word": "种地这件事中国人有多牛",
       "onboard_time": 1704531576,
       "rank": 2,
@@ -1505,6 +1561,14 @@
       "onboard_time": 1704456993,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145489,
+      "num": 145489,
+      "word": "鸣龙少年",
+      "onboard_time": 1704537151,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 144778,
@@ -1547,14 +1611,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 142535,
-      "num": 142535,
-      "word": "2023年去世的21位亿万富豪",
-      "onboard_time": 1704535951,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 142524,
       "num": 142524,
       "word": "宋茜陈星旭好多吻戏",
@@ -1585,6 +1641,22 @@
       "onboard_time": 1704536070,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140236,
+      "num": 140236,
+      "word": "人类最冷地区居民把生肉当零食",
+      "onboard_time": 1704536971,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 139900,
+      "num": 139900,
+      "word": "凶我的反义词是吉他",
+      "onboard_time": 1704537032,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 139331,
@@ -1665,14 +1737,6 @@
       "onboard_time": 1704510150,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 134958,
-      "num": 134958,
-      "word": "椰树泳装挂历惹争议",
-      "onboard_time": 1704535890,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134832,

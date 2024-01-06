@@ -1,6 +1,6 @@
 {
   "startTime": 1703953313461,
-  "endTime": 1704536287159,
+  "endTime": 1704537275037,
   "band_list": [
     {
       "raw_hot": 12920979,
@@ -1235,6 +1235,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1224961,
+      "num": 1224961,
+      "word": "身份证45开头的哈尔滨免费吃冻梨",
+      "onboard_time": 1704523469,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1218075,
       "num": 869071,
       "word": "魏大勋好帅",
@@ -1873,14 +1881,6 @@
       "onboard_time": 1704530132,
       "rank": 5,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 977035,
-      "num": 977035,
-      "word": "身份证45开头的哈尔滨免费吃冻梨",
-      "onboard_time": 1704523469,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 975382,
@@ -2537,6 +2537,14 @@
       "onboard_time": 1704026153,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 800482,
+      "num": 643169,
+      "word": "央视评繁花",
+      "onboard_time": 1704536431,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 798544,
@@ -4651,6 +4659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 516098,
+      "num": 1439547,
+      "word": "尔滨火了沈阳坐不住了",
+      "onboard_time": 1704533671,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515937,
       "num": 515937,
       "word": "收红包时的高情商回复",
@@ -5059,14 +5075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483015,
-      "num": 1439547,
-      "word": "尔滨火了沈阳坐不住了",
-      "onboard_time": 1704533671,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 482881,
       "num": 516557,
       "word": "太原地震",
@@ -5435,6 +5443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445058,
+      "num": 445058,
+      "word": "辽宁3任公安厅长合计受贿超12亿",
+      "onboard_time": 1704531332,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444998,
       "num": 395055,
       "word": "萧敬腾自曝婚礼已开始计划",
@@ -5753,6 +5769,14 @@
       "onboard_time": 1704422008,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416203,
+      "num": 416203,
+      "word": "白客梦女",
+      "onboard_time": 1704535713,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 415989,
@@ -6083,6 +6107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391306,
+      "num": 391306,
+      "word": "薛之谦 回流票",
+      "onboard_time": 1704535054,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 391170,
       "num": 325993,
       "word": "点杯奶茶哄自己上班",
@@ -6137,14 +6169,6 @@
       "onboard_time": 1703996011,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 386363,
-      "num": 386363,
-      "word": "薛之谦 回流票",
-      "onboard_time": 1704535054,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 385837,
@@ -6587,14 +6611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 348114,
-      "num": 348114,
-      "word": "辽宁3任公安厅长合计受贿超12亿",
-      "onboard_time": 1704531332,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347887,
       "num": 347887,
       "word": "辛芷蕾 影视综的花都开了",
@@ -6688,6 +6704,14 @@
       "word": "五星酒店回应大早上室外擦玻璃",
       "onboard_time": 1703972234,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341492,
+      "num": 341492,
+      "word": "女儿头发被剪毁妈妈花1880带其接发",
+      "onboard_time": 1704534992,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -7531,6 +7555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293930,
+      "num": 1153760,
+      "word": "小砂糖橘还有后续的后续",
+      "onboard_time": 1704530913,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293542,
       "num": 293542,
       "word": "原神 璃月食集",
@@ -7643,19 +7675,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 289039,
+      "num": 289039,
+      "word": "沈耀考第一",
+      "onboard_time": 1704536853,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289002,
       "num": 258519,
       "word": "日本地震互助",
       "onboard_time": 1704117880,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288990,
-      "num": 288990,
-      "word": "女儿头发被剪毁妈妈花1880带其接发",
-      "onboard_time": 1704534992,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -7777,14 +7809,6 @@
       "onboard_time": 1704018754,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 286569,
-      "num": 286569,
-      "word": "白客梦女",
-      "onboard_time": 1704535713,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 286532,
@@ -8355,14 +8379,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 262840,
-      "num": 940160,
-      "word": "小砂糖橘还有后续的后续",
-      "onboard_time": 1704530913,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262405,
       "num": 243538,
       "word": "女贼担心判太重偷走8000元留下1万4",
@@ -8425,6 +8441,14 @@
       "onboard_time": 1704245429,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261353,
+      "num": 261353,
+      "word": "2023年去世的21位亿万富豪",
+      "onboard_time": 1704535951,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 260901,
@@ -9665,6 +9689,14 @@
       "onboard_time": 1704371070,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220707,
+      "num": 220707,
+      "word": "椰树泳装挂历惹争议",
+      "onboard_time": 1704535890,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220625,
@@ -11291,6 +11323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190998,
+      "num": 190998,
+      "word": "哈尔滨滑冰场多人抢救昏迷男子",
+      "onboard_time": 1704536491,
+      "rank": 31,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 190971,
       "num": 190971,
       "word": "NANATOUR发布会",
@@ -11545,6 +11585,14 @@
       "onboard_time": 1704432092,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186924,
+      "num": 186924,
+      "word": "章若楠发量",
+      "onboard_time": 1704536853,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 186784,
@@ -12265,6 +12313,14 @@
       "onboard_time": 1704010712,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175471,
+      "num": 175471,
+      "word": "山东省歌也被哈尔滨借走了",
+      "onboard_time": 1704536671,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 175444,
@@ -14196,7 +14252,7 @@
     },
     {
       "raw_hot": 146649,
-      "num": 1160530,
+      "num": 1247852,
       "word": "种地这件事中国人有多牛",
       "onboard_time": 1704531576,
       "rank": 2,
@@ -14587,14 +14643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142535,
-      "num": 142535,
-      "word": "2023年去世的21位亿万富豪",
-      "onboard_time": 1704535951,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 142524,
       "num": 142524,
       "word": "宋茜陈星旭好多吻戏",
@@ -14787,6 +14835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140236,
+      "num": 140236,
+      "word": "人类最冷地区居民把生肉当零食",
+      "onboard_time": 1704536971,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 140234,
       "num": 134338,
       "word": "百变赵兆",
@@ -14808,6 +14864,14 @@
       "word": "人一旦尝到请假的甜头",
       "onboard_time": 1704004530,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 139900,
+      "num": 139900,
+      "word": "凶我的反义词是吉他",
+      "onboard_time": 1704537032,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -15169,14 +15233,6 @@
       "onboard_time": 1704105460,
       "rank": 49,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 134958,
-      "num": 134958,
-      "word": "椰树泳装挂历惹争议",
-      "onboard_time": 1704535890,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134952,
