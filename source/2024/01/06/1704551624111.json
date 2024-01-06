@@ -1,0 +1,410 @@
+{
+  "runTime": 1704551624111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2641666,
+        "num": 2641666,
+        "word": "张若昀长文",
+        "onboard_time": 1704545671,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1537077,
+        "num": 1537077,
+        "word": "王家卫希望胡歌找回演李逍遥的感觉",
+        "onboard_time": 1704548736,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64870,
+        "num": 1481332,
+        "word": "全国各省份力拼经济开门红",
+        "onboard_time": 1704531093,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1434924,
+        "num": 1434924,
+        "word": "已读乱回",
+        "onboard_time": 1704546575,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1299494,
+        "num": 1299494,
+        "word": "边晓晓江晴朗离婚",
+        "onboard_time": 1704546634,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 914947,
+        "num": 914947,
+        "word": "央视评繁花",
+        "onboard_time": 1704536431,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 863099,
+        "num": 863099,
+        "word": "江苏发现1例罕见小P血型",
+        "onboard_time": 1704539190,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862117,
+        "num": 862117,
+        "word": "三天60亿",
+        "onboard_time": 1704519152,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 710408,
+        "num": 710408,
+        "word": "车银优今天长这样",
+        "onboard_time": 1704541174,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 598069,
+        "num": 680721,
+        "word": "贪官收22箱现金车被压得上不了坡",
+        "onboard_time": 1704549576,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667822,
+        "num": 667822,
+        "word": "你可以叫我 滨",
+        "onboard_time": 1704527733,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 594163,
+        "num": 594163,
+        "word": "被冰锥砸中倒地的大学生已身亡",
+        "onboard_time": 1704527972,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581543,
+        "num": 581543,
+        "word": "4月大女婴被遗弃纸条写无力抚养",
+        "onboard_time": 1704545252,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552325,
+        "num": 552325,
+        "word": "沈耀跟程雨杉在一起了",
+        "onboard_time": 1704542313,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521407,
+        "num": 521407,
+        "word": "贪官靠打麻将受贿900多万元",
+        "onboard_time": 1704545793,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479253,
+        "num": 479253,
+        "word": "A先生李李恋情",
+        "onboard_time": 1704542972,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468302,
+        "num": 468302,
+        "word": "林依轮妻子再为肿瘤病人捐发",
+        "onboard_time": 1704546936,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395310,
+        "num": 395310,
+        "word": "砂糖橘东北睡1宿变果脯",
+        "onboard_time": 1704549995,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391266,
+        "num": 391266,
+        "word": "张若昀 女团腿",
+        "onboard_time": 1704551376,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356403,
+        "num": 356403,
+        "word": "为什么月经会延后",
+        "onboard_time": 1704546995,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 352942,
+        "num": 352942,
+        "word": "杨丞琳上海演唱会",
+        "onboard_time": 1704548675,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 319279,
+        "num": 319279,
+        "word": "星巴克64亿未使用礼品卡成高管奖金",
+        "onboard_time": 1704541293,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 312867,
+        "num": 312867,
+        "word": "2024金牛座多金又牛气",
+        "onboard_time": 1704550232,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311069,
+        "num": 311069,
+        "word": "宋江金裕贞古装",
+        "onboard_time": 1704550657,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283469,
+        "num": 283469,
+        "word": "黑龙江研发小土豆形象IP",
+        "onboard_time": 1704544895,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281271,
+        "num": 281271,
+        "word": "刘宇宁回应阴阳剧本",
+        "onboard_time": 1704542913,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271100,
+        "num": 271100,
+        "word": "为什么你比同龄人显老",
+        "onboard_time": 1704548796,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267783,
+        "num": 267783,
+        "word": "李明德 祝沈耀重获新生",
+        "onboard_time": 1704549334,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262984,
+        "num": 262984,
+        "word": "原来是三个人的尴尬",
+        "onboard_time": 1704545853,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261024,
+        "num": 261024,
+        "word": "宝总事业粉",
+        "onboard_time": 1704548139,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532629,
+        "num": 260664,
+        "word": "在中央大街摆摊的炸串老板道歉",
+        "onboard_time": 1704549035,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260019,
+        "num": 260019,
+        "word": "王心凌演唱会落泪",
+        "onboard_time": 1704550775,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248386,
+        "num": 248386,
+        "word": "繁花钟镇涛 致敬张国荣",
+        "onboard_time": 1704533255,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243212,
+        "num": 243212,
+        "word": "00后入殓师获百大年度新人",
+        "onboard_time": 1704548256,
+        "rank": 33,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 241353,
+        "num": 241353,
+        "word": "NewJeans Ditto",
+        "onboard_time": 1704549396,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232742,
+        "num": 232742,
+        "word": "关晓彤范丞丞王安宇 跺脚生气",
+        "onboard_time": 1704545493,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262740,
+        "num": 231672,
+        "word": "沈耀考第一",
+        "onboard_time": 1704536853,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225009,
+        "num": 225009,
+        "word": "忙内line颁奖",
+        "onboard_time": 1704546874,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220382,
+        "num": 220382,
+        "word": "为什么三亚被称为小东北",
+        "onboard_time": 1704549455,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 211123,
+        "num": 211123,
+        "word": "专家建议暂停IPO让市场喘口气",
+        "onboard_time": 1704547897,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209587,
+        "num": 209587,
+        "word": "张元英金唱片造型",
+        "onboard_time": 1704546155,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188734,
+        "num": 188734,
+        "word": "王鹤棣枪灰发色",
+        "onboard_time": 1704530013,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186515,
+        "num": 186515,
+        "word": "肖战站在粉丝旁边没被认出来",
+        "onboard_time": 1704526771,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185087,
+        "num": 185087,
+        "word": "女儿头发被剪毁妈妈花1880带其接发",
+        "onboard_time": 1704534992,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181430,
+        "num": 181430,
+        "word": "宁波地铁偶遇卢昱晓",
+        "onboard_time": 1704545193,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170841,
+        "num": 170841,
+        "word": "平遥古城禁旅拍店上架非汉民族服饰",
+        "onboard_time": 1704550657,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 168111,
+        "num": 168111,
+        "word": "车银优你最好是胖着玩",
+        "onboard_time": 1704544713,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166103,
+        "num": 166103,
+        "word": "TXT 下张专辑开始录音了",
+        "onboard_time": 1704550178,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160468,
+        "num": 160468,
+        "word": "身份证45开头的哈尔滨免费吃冻梨",
+        "onboard_time": 1704523469,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148399,
+        "num": 148399,
+        "word": "东北甜妹儿杀伤力太大了",
+        "onboard_time": 1704550959,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}
