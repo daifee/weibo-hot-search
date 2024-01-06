@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704537275037,
+  "endTime": 1704539652765,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -345,6 +345,14 @@
       "onboard_time": 1704032709,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1834045,
+      "num": 1834045,
+      "word": "央视评繁花",
+      "onboard_time": 1704536431,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 1832515,
@@ -747,6 +755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1379140,
+      "num": 1379140,
+      "word": "沈耀考第一",
+      "onboard_time": 1704536853,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1369062,
       "num": 1369062,
       "word": "小杨哥回应不陪小黄复播",
@@ -784,6 +800,14 @@
       "word": "爱泼斯坦",
       "onboard_time": 1704351930,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1326474,
+      "num": 1326474,
+      "word": "身份证45开头的哈尔滨免费吃冻梨",
+      "onboard_time": 1704523469,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -905,14 +929,6 @@
       "onboard_time": 1704032475,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1224961,
-      "num": 1224961,
-      "word": "身份证45开头的哈尔滨免费吃冻梨",
-      "onboard_time": 1704523469,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1212992,
@@ -1995,14 +2011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 800482,
-      "num": 643169,
-      "word": "央视评繁花",
-      "onboard_time": 1704536431,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 798544,
       "num": 798544,
       "word": "小杨哥称他不得已才当网红",
@@ -2392,14 +2400,6 @@
       "word": "超七成年轻人开始关注奶茶健康",
       "onboard_time": 1704425191,
       "rank": 16,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 717934,
-      "num": 717934,
-      "word": "出现这2个字你买到的是假牛奶",
-      "onboard_time": 1704177630,
-      "rank": 6,
       "category": "美食"
     }
   ],

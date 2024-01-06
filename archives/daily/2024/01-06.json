@@ -1,6 +1,6 @@
 {
   "startTime": 1704471671726,
-  "endTime": 1704537275037,
+  "endTime": 1704539652765,
   "band_list": [
     {
       "raw_hot": 3675516,
@@ -25,6 +25,14 @@
       "onboard_time": 1704512549,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1834045,
+      "num": 1834045,
+      "word": "央视评繁花",
+      "onboard_time": 1704536431,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 1807604,
@@ -75,6 +83,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1379140,
+      "num": 1379140,
+      "word": "沈耀考第一",
+      "onboard_time": 1704536853,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1356930,
       "num": 1356930,
       "word": "预算18w去哈尔滨",
@@ -83,19 +99,19 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1326474,
+      "num": 1326474,
+      "word": "身份证45开头的哈尔滨免费吃冻梨",
+      "onboard_time": 1704523469,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1323042,
       "num": 1323042,
       "word": "小砂糖橘哭着想把东北警察叔叔带回家",
       "onboard_time": 1704506429,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1224961,
-      "num": 1224961,
-      "word": "身份证45开头的哈尔滨免费吃冻梨",
-      "onboard_time": 1704523469,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -251,14 +267,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 800482,
-      "num": 643169,
-      "word": "央视评繁花",
-      "onboard_time": 1704536431,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 773410,
       "num": 773410,
       "word": "王楚钦总决赛男单夺冠",
@@ -411,6 +419,14 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 546200,
+      "num": 1467203,
+      "word": "尔滨火了沈阳坐不住了",
+      "onboard_time": 1704533671,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541950,
       "num": 541950,
       "word": "樊振东vs王楚钦",
@@ -441,14 +457,6 @@
       "onboard_time": 1704499345,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 516098,
-      "num": 1439547,
-      "word": "尔滨火了沈阳坐不住了",
-      "onboard_time": 1704533671,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 514953,
@@ -523,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 452242,
+      "num": 452242,
+      "word": "白客梦女",
+      "onboard_time": 1704535713,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 445058,
       "num": 445058,
       "word": "辽宁3任公安厅长合计受贿超12亿",
@@ -563,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 416203,
-      "num": 416203,
-      "word": "白客梦女",
-      "onboard_time": 1704535713,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 413482,
       "num": 413482,
       "word": "谢震廷否认向前女友挥刀",
@@ -603,12 +611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398017,
+      "num": 1355830,
+      "word": "小砂糖橘还有后续的后续",
+      "onboard_time": 1704530913,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391306,
       "num": 391306,
       "word": "薛之谦 回流票",
       "onboard_time": 1704535054,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 388749,
+      "num": 345672,
+      "word": "女儿头发被剪毁妈妈花1880带其接发",
+      "onboard_time": 1704534992,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388509,
@@ -656,14 +680,6 @@
       "word": "男子离婚时拒养人工授精的儿子",
       "onboard_time": 1704524430,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341492,
-      "num": 341492,
-      "word": "女儿头发被剪毁妈妈花1880带其接发",
-      "onboard_time": 1704534992,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -723,6 +739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321680,
+      "num": 321680,
+      "word": "迷风花直播",
+      "onboard_time": 1704538953,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 316188,
       "num": 316188,
       "word": "赫哲族姑娘将现身中央大街",
@@ -756,7 +780,7 @@
     },
     {
       "raw_hot": 296333,
-      "num": 1003976,
+      "num": 1327482,
       "word": "外卖小哥救人订单超时民警上门帮正名",
       "onboard_time": 1704533371,
       "rank": 39,
@@ -769,14 +793,6 @@
       "onboard_time": 1704512669,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293930,
-      "num": 1153760,
-      "word": "小砂糖橘还有后续的后续",
-      "onboard_time": 1704530913,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291320,
@@ -793,14 +809,6 @@
       "onboard_time": 1704514470,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 289039,
-      "num": 289039,
-      "word": "沈耀考第一",
-      "onboard_time": 1704536853,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 288442,
@@ -825,6 +833,22 @@
       "onboard_time": 1704465998,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 275288,
+      "num": 275288,
+      "word": "51岁好莱坞男星与两女儿坠机身亡",
+      "onboard_time": 1704526892,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 273526,
+      "num": 273526,
+      "word": "鸣龙少年",
+      "onboard_time": 1704537151,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 273381,
@@ -883,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263595,
+      "num": 263595,
+      "word": "椰树泳装挂历惹争议",
+      "onboard_time": 1704535890,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262405,
       "num": 243538,
       "word": "女贼担心判太重偷走8000元留下1万4",
@@ -915,12 +947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253982,
+      "num": 253982,
+      "word": "接久酷",
+      "onboard_time": 1704537632,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 251683,
       "num": 251683,
       "word": "贵州小茅台勇闯哈尔滨",
       "onboard_time": 1704520110,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249027,
+      "num": 237330,
+      "word": "月经同步只是一种巧合",
+      "onboard_time": 1704539190,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 247922,
@@ -931,20 +979,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242959,
+      "num": 242959,
+      "word": "验证码 验蠢",
+      "onboard_time": 1704539070,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238822,
       "num": 238822,
       "word": "小砂糖橘参观哈工大每人配1名研究生",
       "onboard_time": 1704520170,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236003,
-      "num": 236003,
-      "word": "51岁好莱坞男星与两女儿坠机身亡",
-      "onboard_time": 1704526892,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 229182,
@@ -955,19 +1003,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 228397,
+      "num": 228397,
+      "word": "日本石川县进入紧急状态",
+      "onboard_time": 1704538892,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226821,
+      "num": 226821,
+      "word": "尔滨终于想起自家孩子啦",
+      "onboard_time": 1704537515,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223345,
       "num": 221535,
       "word": "小砂糖橘在东北包饺子被一顿猛夸",
       "onboard_time": 1704507808,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220707,
-      "num": 220707,
-      "word": "椰树泳装挂历惹争议",
-      "onboard_time": 1704535890,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -977,6 +1033,14 @@
       "onboard_time": 1704466713,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214959,
+      "num": 214959,
+      "word": "金唱片红毯",
+      "onboard_time": 1704537393,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 214314,
@@ -1003,6 +1067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211161,
+      "num": 211161,
+      "word": "BLG 胜利难道是今天",
+      "onboard_time": 1704539311,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210218,
       "num": 183285,
       "word": "没吃早餐的朋友可以拿一个小狗面包",
@@ -1025,6 +1097,14 @@
       "onboard_time": 1704532830,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 209806,
+      "num": 209806,
+      "word": "章若楠发量",
+      "onboard_time": 1704536853,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 208255,
@@ -1099,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199038,
+      "num": 199038,
+      "word": "BLG拿到赛点",
+      "onboard_time": 1704538412,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199020,
       "num": 199020,
       "word": "微博之夜虞书欣",
@@ -1129,6 +1217,14 @@
       "onboard_time": 1704510928,
       "rank": 32,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 191573,
+      "num": 191573,
+      "word": "江苏发现1例罕见小P血型",
+      "onboard_time": 1704539190,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191528,
@@ -1169,14 +1265,6 @@
       "onboard_time": 1704510269,
       "rank": 28,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 186924,
-      "num": 186924,
-      "word": "章若楠发量",
-      "onboard_time": 1704536853,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 186273,
@@ -1305,6 +1393,14 @@
       "onboard_time": 1704504688,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174479,
+      "num": 174479,
+      "word": "尚雯婕 曾经我也是爱唱歌的大学生",
+      "onboard_time": 1704537813,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 173619,
@@ -1540,7 +1636,7 @@
     },
     {
       "raw_hot": 146649,
-      "num": 1247852,
+      "num": 1381245,
       "word": "种地这件事中国人有多牛",
       "onboard_time": 1704531576,
       "rank": 2,
@@ -1561,14 +1657,6 @@
       "onboard_time": 1704456993,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145489,
-      "num": 145489,
-      "word": "鸣龙少年",
-      "onboard_time": 1704537151,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 144778,
@@ -2249,6 +2337,14 @@
       "onboard_time": 1704495617,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 44720,
+      "num": 246213,
+      "word": "明星们是来成都团建了吗",
+      "onboard_time": 1704538592,
+      "rank": 28,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 44613,

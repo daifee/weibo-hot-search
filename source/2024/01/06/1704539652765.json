@@ -1,0 +1,410 @@
+{
+  "runTime": 1704539652765,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1834045,
+        "num": 1834045,
+        "word": "央视评繁花",
+        "onboard_time": 1704536431,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 546200,
+        "num": 1467203,
+        "word": "尔滨火了沈阳坐不住了",
+        "onboard_time": 1704533671,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102810,
+        "num": 1381245,
+        "word": "种地这件事中国人有多牛",
+        "onboard_time": 1704531576,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1379140,
+        "num": 1379140,
+        "word": "沈耀考第一",
+        "onboard_time": 1704536853,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398017,
+        "num": 1355830,
+        "word": "小砂糖橘还有后续的后续",
+        "onboard_time": 1704530913,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1337592,
+        "num": 1337592,
+        "word": "你可以叫我 滨",
+        "onboard_time": 1704527733,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 233646,
+        "num": 1327482,
+        "word": "外卖小哥救人订单超时民警上门帮正名",
+        "onboard_time": 1704533371,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1326474,
+        "num": 1326474,
+        "word": "身份证45开头的哈尔滨免费吃冻梨",
+        "onboard_time": 1704523469,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016890,
+        "num": 1016890,
+        "word": "三天60亿",
+        "onboard_time": 1704519152,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 574623,
+        "num": 574623,
+        "word": "辛芷蕾的面部折叠度",
+        "onboard_time": 1704531632,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 999395,
+        "num": 560572,
+        "word": "被冰锥砸中倒地的大学生已身亡",
+        "onboard_time": 1704527972,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589702,
+        "num": 557750,
+        "word": "肖战站在粉丝旁边没被认出来",
+        "onboard_time": 1704526771,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538467,
+        "num": 538467,
+        "word": "女子被家暴16次需终身挂粪袋案进展",
+        "onboard_time": 1704526052,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485527,
+        "num": 485527,
+        "word": "哈尔滨冰玫瑰",
+        "onboard_time": 1704530132,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 452242,
+        "num": 452242,
+        "word": "白客梦女",
+        "onboard_time": 1704535713,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 399068,
+        "num": 399068,
+        "word": "藏海传 路透",
+        "onboard_time": 1704529412,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397497,
+        "num": 397497,
+        "word": "辽宁3任公安厅长合计受贿超12亿",
+        "onboard_time": 1704531332,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372160,
+        "num": 372160,
+        "word": "繁花钟镇涛 致敬张国荣",
+        "onboard_time": 1704533255,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362378,
+        "num": 362378,
+        "word": "王鹤棣枪灰发色",
+        "onboard_time": 1704530013,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 353015,
+        "num": 353015,
+        "word": "沈腾宋江撞衫",
+        "onboard_time": 1704532114,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 388749,
+        "num": 345672,
+        "word": "女儿头发被剪毁妈妈花1880带其接发",
+        "onboard_time": 1704534992,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321680,
+        "num": 321680,
+        "word": "迷风花直播",
+        "onboard_time": 1704538953,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 318836,
+        "num": 318836,
+        "word": "薛之谦 回流票",
+        "onboard_time": 1704535054,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 297415,
+        "num": 297415,
+        "word": "汪小姐出车祸",
+        "onboard_time": 1704517892,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275288,
+        "num": 275288,
+        "word": "51岁好莱坞男星与两女儿坠机身亡",
+        "onboard_time": 1704526892,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273526,
+        "num": 273526,
+        "word": "鸣龙少年",
+        "onboard_time": 1704537151,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263595,
+        "num": 263595,
+        "word": "椰树泳装挂历惹争议",
+        "onboard_time": 1704535890,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253982,
+        "num": 253982,
+        "word": "接久酷",
+        "onboard_time": 1704537632,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44720,
+        "num": 246213,
+        "word": "明星们是来成都团建了吗",
+        "onboard_time": 1704538592,
+        "rank": 28,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 242959,
+        "num": 242959,
+        "word": "验证码 验蠢",
+        "onboard_time": 1704539070,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249027,
+        "num": 237330,
+        "word": "月经同步只是一种巧合",
+        "onboard_time": 1704539190,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228397,
+        "num": 228397,
+        "word": "日本石川县进入紧急状态",
+        "onboard_time": 1704538892,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226821,
+        "num": 226821,
+        "word": "尔滨终于想起自家孩子啦",
+        "onboard_time": 1704537515,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224366,
+        "num": 224366,
+        "word": "美国被曝花15亿美元训练记者黑中国",
+        "onboard_time": 1704522151,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 221140,
+        "num": 221140,
+        "word": "男子离婚时拒养人工授精的儿子",
+        "onboard_time": 1704524430,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214959,
+        "num": 214959,
+        "word": "金唱片红毯",
+        "onboard_time": 1704537393,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211161,
+        "num": 211161,
+        "word": "BLG 胜利难道是今天",
+        "onboard_time": 1704539311,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209806,
+        "num": 209806,
+        "word": "章若楠发量",
+        "onboard_time": 1704536853,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207287,
+        "num": 207287,
+        "word": "2023年去世的21位亿万富豪",
+        "onboard_time": 1704535951,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201249,
+        "num": 201249,
+        "word": "有多囊卵巢综合征女性会出现爆痘",
+        "onboard_time": 1704521671,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 199038,
+        "num": 199038,
+        "word": "BLG拿到赛点",
+        "onboard_time": 1704538412,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191573,
+        "num": 191573,
+        "word": "江苏发现1例罕见小P血型",
+        "onboard_time": 1704539190,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174479,
+        "num": 174479,
+        "word": "尚雯婕 曾经我也是爱唱歌的大学生",
+        "onboard_time": 1704537813,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172299,
+        "num": 172299,
+        "word": "山东省歌也被哈尔滨借走了",
+        "onboard_time": 1704536671,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165814,
+        "num": 165814,
+        "word": "哈尔滨滑冰场多人抢救昏迷男子",
+        "onboard_time": 1704536491,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 146446,
+        "num": 146446,
+        "word": "金唱片直播",
+        "onboard_time": 1704535532,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145821,
+        "num": 145821,
+        "word": "哈工大学霸人手一个橘宝宝",
+        "onboard_time": 1704526170,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141547,
+        "num": 141547,
+        "word": "鲁东大学",
+        "onboard_time": 1704528813,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138378,
+        "num": 138378,
+        "word": "人类最冷地区居民把生肉当零食",
+        "onboard_time": 1704536971,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 128026,
+        "num": 128026,
+        "word": "脱轨",
+        "onboard_time": 1704532830,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}
