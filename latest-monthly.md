@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/07 07:17:20
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/07 07:34:24
 </p>
 </blockquote>
 <p>
@@ -2325,6 +2325,12 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%9A%E6%AC%A1%E4%BB%85%E9%80%80%E6%AC%BE%E5%90%8E%E5%8F%88%E5%81%B7%E5%8F%96%E8%B5%B0%E5%BF%AB%E9%80%92%23" target="weibo">
+女子多次仅退款后又偷取走快递（热度：637810）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%23" target="weibo">
 跨年（热度：637196）
 </a>
@@ -2765,12 +2771,6 @@ A股（热度：590866）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%9C%E8%88%AA%E4%B9%98%E5%AE%A2%E6%9C%BA%E8%88%B1%E5%86%85%E5%A4%A7%E9%97%B9%23" target="weibo">
 警方通报东航乘客机舱内大闹（热度：555269）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%9A%E6%AC%A1%E4%BB%85%E9%80%80%E6%AC%BE%E5%90%8E%E5%8F%88%E5%81%B7%E5%8F%96%E8%B5%B0%E5%BF%AB%E9%80%92%23" target="weibo">
-女子多次仅退款后又偷取走快递（热度：554636）
 </a>
 </li>
 

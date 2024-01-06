@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704583040538,
+  "endTime": 1704584064974,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -3083,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637810,
+      "num": 637810,
+      "word": "女子多次仅退款后又偷取走快递",
+      "onboard_time": 1704562401,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 637196,
       "num": 882214,
       "word": "跨年",
@@ -3672,14 +3680,6 @@
       "word": "警方通报东航乘客机舱内大闹",
       "onboard_time": 1704423093,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 554636,
-      "num": 554636,
-      "word": "女子多次仅退款后又偷取走快递",
-      "onboard_time": 1704562401,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -8035,6 +8035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243035,
+      "num": 82158,
+      "word": "爸爸在我结婚前突然后悔了",
+      "onboard_time": 1704582438,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242870,
       "num": 242870,
       "word": "王楚钦3比1勒布伦",
@@ -9057,6 +9065,14 @@
       "onboard_time": 1704263070,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 212385,
+      "num": 143248,
+      "word": "尔滨这回真的来熊猫了",
+      "onboard_time": 1704582380,
+      "rank": 15,
+      "category": "旅游"
     },
     {
       "raw_hot": 212258,
@@ -10217,6 +10233,14 @@
       "onboard_time": 1704280712,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191609,
+      "num": 191609,
+      "word": "男子回应拿200万拆迁款建厂招残疾员工",
+      "onboard_time": 1704574514,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 191605,
@@ -13323,14 +13347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140467,
-      "num": 71389,
-      "word": "爸爸在我结婚前突然后悔了",
-      "onboard_time": 1704582438,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 140386,
       "num": 140386,
       "word": "高情商向下兼容",
@@ -13361,14 +13377,6 @@
       "onboard_time": 1704088235,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139964,
-      "num": 139964,
-      "word": "男子回应拿200万拆迁款建厂招残疾员工",
-      "onboard_time": 1704574514,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 139900,
@@ -15571,14 +15579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84555,
-      "num": 84555,
-      "word": "尔滨这回真的来熊猫了",
-      "onboard_time": 1704582380,
-      "rank": 15,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 83276,
       "num": 451726,
       "word": "当咖啡机器人变成新型打工人",
@@ -15971,12 +15971,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60232,
+      "num": 51781,
+      "word": "比爸妈还关心你的人找到了",
+      "onboard_time": 1704582557,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 59538,
       "num": 59538,
       "word": "哥们你躺下怎么有延迟呢",
       "onboard_time": 1704151225,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 58636,
+      "num": 51089,
+      "word": "霍思燕育儿观",
+      "onboard_time": 1704583400,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 58568,
@@ -16017,6 +16033,14 @@
       "onboard_time": 1704236239,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56234,
+      "num": 50947,
+      "word": "过年必备三件套",
+      "onboard_time": 1704583519,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 56227,
@@ -16211,12 +16235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43332,
+      "num": 43332,
+      "word": "厦门马拉松",
+      "onboard_time": 1704582920,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 43284,
       "num": 43284,
       "word": "马伊琍辛芷蕾繁花90秒对手戏",
       "onboard_time": 1704302661,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43093,
+      "num": 43093,
+      "word": "8岁男孩弹周杰伦说好不哭被赞超还原",
+      "onboard_time": 1704566896,
+      "rank": 37,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 42595,
@@ -16259,6 +16299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39323,
+      "num": 39323,
+      "word": "年轻时的张国荣和他的朋友们",
+      "onboard_time": 1704581595,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39304,
       "num": 39304,
       "word": "多地公布2023新生儿爆款名",
@@ -16299,6 +16347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38524,
+      "num": 38524,
+      "word": "SEVENTEEN金唱片专辑大赏",
+      "onboard_time": 1704583880,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 38393,
       "num": 38393,
       "word": "它是不是还不太知道自己是老虎",
@@ -16323,6 +16379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36465,
+      "num": 36465,
+      "word": "电视剧你也有今天",
+      "onboard_time": 1704580515,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36378,
       "num": 269444,
       "word": "X9重新定义大七座",
@@ -16339,12 +16403,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 35895,
-      "num": 35895,
-      "word": "比爸妈还关心你的人找到了",
-      "onboard_time": 1704582557,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 34352,
+      "num": 34352,
+      "word": "养成这8个习惯或降低患癌风险",
+      "onboard_time": 1704575473,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 34262,
@@ -16369,14 +16433,6 @@
       "onboard_time": 1704496459,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 33301,
-      "num": 33301,
-      "word": "年轻时的张国荣和他的朋友们",
-      "onboard_time": 1704581595,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 33149,
@@ -16433,30 +16489,6 @@
       "onboard_time": 1704107919,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 29047,
-      "num": 29047,
-      "word": "养成这8个习惯或降低患癌风险",
-      "onboard_time": 1704575473,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 28597,
-      "num": 28597,
-      "word": "电视剧你也有今天",
-      "onboard_time": 1704580515,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 28017,
-      "num": 28017,
-      "word": "8岁男孩弹周杰伦说好不哭被赞超还原",
-      "onboard_time": 1704566896,
-      "rank": 37,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 27314,
