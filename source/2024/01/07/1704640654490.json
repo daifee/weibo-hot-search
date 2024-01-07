@@ -1,0 +1,410 @@
+{
+  "runTime": 1704640654490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1440288,
+        "num": 1440288,
+        "word": "干掉蜜雪冰城的是旁边的蜜雪冰城",
+        "onboard_time": 1704632793,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1110002,
+        "num": 1110002,
+        "word": "华图 敢耍老子",
+        "onboard_time": 1704635614,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99828,
+        "num": 1105036,
+        "word": "全国各地开年即开跑",
+        "onboard_time": 1704634833,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100796,
+        "num": 1100796,
+        "word": "A先生说辛芷蕾本人很漂亮",
+        "onboard_time": 1704637355,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 942201,
+        "num": 942201,
+        "word": "贪官花40多万元建了条500米断头路",
+        "onboard_time": 1704635556,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901201,
+        "num": 901201,
+        "word": "A先生跳海",
+        "onboard_time": 1704632012,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 758301,
+        "num": 758301,
+        "word": "韩国好丽友蛋黄派检出金黄色葡萄球菌",
+        "onboard_time": 1704635614,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641589,
+        "num": 641589,
+        "word": "刘亦菲 唐嫣是最好的汪小姐",
+        "onboard_time": 1704627451,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507946,
+        "num": 507946,
+        "word": "刘诗诗靠张云龙肩膀路透",
+        "onboard_time": 1704638616,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520001,
+        "num": 507860,
+        "word": "心疼爷叔",
+        "onboard_time": 1704633031,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 996441,
+        "num": 491644,
+        "word": "马斯克被曝吸毒",
+        "onboard_time": 1704624691,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 470550,
+        "num": 470550,
+        "word": "香菜泡面",
+        "onboard_time": 1704638794,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 441573,
+        "num": 441573,
+        "word": "影评人说赵丽颖花千骨灵动鲜活",
+        "onboard_time": 1704635914,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 430514,
+        "num": 430514,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704634173,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411905,
+        "num": 411905,
+        "word": "陈奕迅模仿杨千嬅用桶喝水",
+        "onboard_time": 1704638375,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 406489,
+        "num": 406489,
+        "word": "日本地震导致部分海域变陆地",
+        "onboard_time": 1704620012,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400680,
+        "num": 400680,
+        "word": "胡歌辛芷蕾繁花吻戏",
+        "onboard_time": 1704631530,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340841,
+        "num": 340841,
+        "word": "胖东来你装个红绿灯吧",
+        "onboard_time": 1704639756,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307886,
+        "num": 307886,
+        "word": "钎九 又幸福了",
+        "onboard_time": 1704637776,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 303782,
+        "num": 303782,
+        "word": "为什么年轻人不爱用信用卡了",
+        "onboard_time": 1704627211,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1025825,
+        "num": 284859,
+        "word": "我爸退出了家人群",
+        "onboard_time": 1704637175,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 476082,
+        "num": 279663,
+        "word": "爸爸摔碎我化妆品后发的信息",
+        "onboard_time": 1704634470,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264043,
+        "num": 264043,
+        "word": "王俊凯将出席2024巴黎时装周",
+        "onboard_time": 1704634053,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 255558,
+        "num": 255558,
+        "word": "齐麟33分",
+        "onboard_time": 1704638496,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235554,
+        "num": 235554,
+        "word": "大家都在午睡只有他在苦心钻研国粹",
+        "onboard_time": 1704628830,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232848,
+        "num": 232848,
+        "word": "沈春阳想见朱一龙",
+        "onboard_time": 1704639336,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213226,
+        "num": 213226,
+        "word": "主播展示百万帝王绿翡翠手滑掉河里",
+        "onboard_time": 1704617790,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207953,
+        "num": 207953,
+        "word": "国考 给个痛快吧",
+        "onboard_time": 1704625713,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201079,
+        "num": 201079,
+        "word": "把朋友的精神病史告诉她男朋友",
+        "onboard_time": 1704635373,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191814,
+        "num": 191814,
+        "word": "姑娘手机封面是清澈的爱名为中国",
+        "onboard_time": 1704638736,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176434,
+        "num": 176434,
+        "word": "酒鬼去汪星了",
+        "onboard_time": 1704623252,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167227,
+        "num": 167227,
+        "word": "请问这是恋爱脑团建吗",
+        "onboard_time": 1704639574,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158952,
+        "num": 158952,
+        "word": "父母从新疆给远嫁女儿寄50斤羊肉",
+        "onboard_time": 1704628172,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149267,
+        "num": 149267,
+        "word": "哈工大学长杨柏汇回应被关注",
+        "onboard_time": 1704637055,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148797,
+        "num": 148797,
+        "word": "京东联名卡 抢不到",
+        "onboard_time": 1704630390,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139340,
+        "num": 139340,
+        "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
+        "onboard_time": 1704611608,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123692,
+        "num": 123692,
+        "word": "猪八戒的钉耙上有张小猪脸",
+        "onboard_time": 1704634531,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121595,
+        "num": 121595,
+        "word": "刘宇宁喊你来丹东",
+        "onboard_time": 1704633393,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115395,
+        "num": 115395,
+        "word": "张大大穿增高鞋没关晓彤高",
+        "onboard_time": 1704622772,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109766,
+        "num": 109766,
+        "word": "曼城vs哈德斯菲尔德",
+        "onboard_time": 1704639574,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108443,
+        "num": 108443,
+        "word": "考古的风终于吹到了胡歌陈龙",
+        "onboard_time": 1704637475,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106034,
+        "num": 106034,
+        "word": "松茸饼干",
+        "onboard_time": 1704640293,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105681,
+        "num": 105681,
+        "word": "各种意想不到的笔",
+        "onboard_time": 1704638675,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103120,
+        "num": 103120,
+        "word": "听魏大勋演绎温情版我会等",
+        "onboard_time": 1704638315,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98097,
+        "num": 98097,
+        "word": "王心凌 纯白圣女",
+        "onboard_time": 1704622352,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97997,
+        "num": 97997,
+        "word": "一口青梅精引发的重大事故",
+        "onboard_time": 1704640055,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93738,
+        "num": 93738,
+        "word": "老太地铁随地扔瓜子皮大爷蹲下捡起",
+        "onboard_time": 1704640233,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88200,
+        "num": 88200,
+        "word": "CBA",
+        "onboard_time": 1704638073,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86499,
+        "num": 86499,
+        "word": "素人爆改妆容",
+        "onboard_time": 1704637596,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 85502,
+        "num": 85502,
+        "word": "乙流和甲流啥区别",
+        "onboard_time": 1704618872,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#轨道上的京津冀加速形成#"
+    }
+  }
+}

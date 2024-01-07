@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704638038689,
+  "endTime": 1704640654490,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1355,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1100796,
+      "num": 1100796,
+      "word": "A先生说辛芷蕾本人很漂亮",
+      "onboard_time": 1704637355,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1095743,
       "num": 1095743,
       "word": "A先生李李恋情",
@@ -1521,6 +1529,14 @@
       "onboard_time": 1704248310,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1025825,
+      "num": 284859,
+      "word": "我爸退出了家人群",
+      "onboard_time": 1704637175,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 1023825,
@@ -2273,14 +2289,6 @@
       "onboard_time": 1704621152,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 807345,
-      "num": 274717,
-      "word": "我爸退出了家人群",
-      "onboard_time": 1704637175,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 806211,
@@ -4635,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 507946,
+      "num": 507946,
+      "word": "刘诗诗靠张云龙肩膀路透",
+      "onboard_time": 1704638616,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 506145,
       "num": 506145,
       "word": "肖战上海逛街vlog",
@@ -5091,6 +5107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470550,
+      "num": 470550,
+      "word": "香菜泡面",
+      "onboard_time": 1704638794,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 470461,
       "num": 470461,
       "word": "樊振东呼吁把比赛还给运动员",
@@ -5444,7 +5468,7 @@
     },
     {
       "raw_hot": 431764,
-      "num": 284594,
+      "num": 303782,
       "word": "为什么年轻人不爱用信用卡了",
       "onboard_time": 1704627211,
       "rank": 20,
@@ -5713,6 +5737,14 @@
       "onboard_time": 1704456396,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411905,
+      "num": 411905,
+      "word": "陈奕迅模仿杨千嬅用桶喝水",
+      "onboard_time": 1704638375,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 411606,
@@ -6635,14 +6667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343120,
-      "num": 343120,
-      "word": "A先生说辛芷蕾本人很漂亮",
-      "onboard_time": 1704637355,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 342830,
       "num": 286899,
       "word": "经常不吃早餐更易过胖超重",
@@ -6673,6 +6697,14 @@
       "onboard_time": 1704187773,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 340841,
+      "num": 340841,
+      "word": "胖东来你装个红绿灯吧",
+      "onboard_time": 1704639756,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339962,
@@ -7297,6 +7329,14 @@
       "onboard_time": 1704081934,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307886,
+      "num": 307886,
+      "word": "钎九 又幸福了",
+      "onboard_time": 1704637776,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 307693,
@@ -8651,6 +8691,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 255558,
+      "num": 255558,
+      "word": "齐麟33分",
+      "onboard_time": 1704638496,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254752,
       "num": 254752,
       "word": "周深好像抓到姐姐谈恋爱的弟弟",
@@ -9297,6 +9345,14 @@
       "onboard_time": 1704554137,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232848,
+      "num": 232848,
+      "word": "沈春阳想见朱一龙",
+      "onboard_time": 1704639336,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 232680,
@@ -11347,6 +11403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191814,
+      "num": 191814,
+      "word": "姑娘手机封面是清澈的爱名为中国",
+      "onboard_time": 1704638736,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191623,
       "num": 195249,
       "word": "你也有今天",
@@ -12113,14 +12177,6 @@
       "onboard_time": 1704454171,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 180217,
-      "num": 180217,
-      "word": "钎九 又幸福了",
-      "onboard_time": 1704637776,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 180067,
@@ -13049,6 +13105,14 @@
       "onboard_time": 1704632372,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167227,
+      "num": 167227,
+      "word": "请问这是恋爱脑团建吗",
+      "onboard_time": 1704639574,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 166884,
@@ -17011,6 +17075,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 109766,
+      "num": 109766,
+      "word": "曼城vs哈德斯菲尔德",
+      "onboard_time": 1704639574,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109348,
       "num": 109348,
       "word": "抑郁和悲伤的区别",
@@ -17211,6 +17283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106034,
+      "num": 106034,
+      "word": "松茸饼干",
+      "onboard_time": 1704640293,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 106022,
       "num": 106022,
       "word": "B站 奥特曼",
@@ -17225,6 +17305,14 @@
       "onboard_time": 1704082353,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105681,
+      "num": 105681,
+      "word": "各种意想不到的笔",
+      "onboard_time": 1704638675,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 105513,
@@ -17361,6 +17449,14 @@
       "onboard_time": 1704561861,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103120,
+      "num": 103120,
+      "word": "听魏大勋演绎温情版我会等",
+      "onboard_time": 1704638315,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 102960,
@@ -17505,6 +17601,14 @@
       "onboard_time": 1704610468,
       "rank": 42,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 97997,
+      "num": 97997,
+      "word": "一口青梅精引发的重大事故",
+      "onboard_time": 1704640055,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 97920,
@@ -17665,6 +17769,14 @@
       "onboard_time": 1704634653,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93738,
+      "num": 93738,
+      "word": "老太地铁随地扔瓜子皮大爷蹲下捡起",
+      "onboard_time": 1704640233,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93134,
