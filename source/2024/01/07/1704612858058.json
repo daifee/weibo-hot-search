@@ -1,0 +1,410 @@
+{
+  "runTime": 1704612858058,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1109795,
+        "num": 1109795,
+        "word": "庄嫂摔碗 郑恺关门",
+        "onboard_time": 1704608548,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 923713,
+        "num": 923713,
+        "word": "微信私密朋友圈被吐槽有bug",
+        "onboard_time": 1704594689,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30270,
+        "num": 775593,
+        "word": "中国开年干出开门红",
+        "onboard_time": 1704596010,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705932,
+        "num": 705932,
+        "word": "研究发现内脏脂肪越多大脑越小",
+        "onboard_time": 1704601713,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 697284,
+        "num": 697284,
+        "word": "当地回应冰锥砸死大学生",
+        "onboard_time": 1704610888,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685307,
+        "num": 685307,
+        "word": "哈工大学长杨柏汇因笑容温柔被关注",
+        "onboard_time": 1704608849,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 547947,
+        "num": 547947,
+        "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
+        "onboard_time": 1704611608,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510118,
+        "num": 510118,
+        "word": "高管违法辞退员工态度嚣张",
+        "onboard_time": 1704609988,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485605,
+        "num": 485605,
+        "word": "有必要将义务教育延长至12年吗",
+        "onboard_time": 1704607947,
+        "rank": 8,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 449144,
+        "num": 449144,
+        "word": "鹤岗把唯一的丹顶鹤借给尔滨",
+        "onboard_time": 1704607769,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 683032,
+        "num": 438551,
+        "word": "霍金",
+        "onboard_time": 1704594028,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407375,
+        "num": 407375,
+        "word": "辛芷蕾因绣春刀被王家卫选中",
+        "onboard_time": 1704595052,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344501,
+        "num": 344501,
+        "word": "国考成绩 等一个奇迹",
+        "onboard_time": 1704597511,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 325313,
+        "num": 325313,
+        "word": "三喜的肠肠",
+        "onboard_time": 1704596190,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279496,
+        "num": 279496,
+        "word": "杨紫港风奶茶妆",
+        "onboard_time": 1704612090,
+        "rank": 14,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 277634,
+        "num": 277634,
+        "word": "钟楚曦侯雯元吻戏",
+        "onboard_time": 1704604950,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236136,
+        "num": 236136,
+        "word": "尔滨送女生1000克拉冰钻戒",
+        "onboard_time": 1704591751,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233828,
+        "num": 233828,
+        "word": "刘雅瑟一滴泪演技太虐了",
+        "onboard_time": 1704611791,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233418,
+        "num": 233418,
+        "word": "浙大一院半月接收47名围炉煮茶中毒患者",
+        "onboard_time": 1704599250,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207077,
+        "num": 207077,
+        "word": "鸣龙少年编剧 参加过高考吗",
+        "onboard_time": 1704592650,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375295,
+        "num": 203297,
+        "word": "女子拍完写真全身痒到抓出血",
+        "onboard_time": 1704604591,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190040,
+        "num": 190040,
+        "word": "不管你是什么馒头从车银优身上下来",
+        "onboard_time": 1704604470,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175958,
+        "num": 175958,
+        "word": "张真源差点滑倒也要保持帅气",
+        "onboard_time": 1704612151,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174492,
+        "num": 174492,
+        "word": "长期横向刷牙或会致牙齿缺损",
+        "onboard_time": 1704605490,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165531,
+        "num": 165531,
+        "word": "妈妈为了和我多聊天换头像",
+        "onboard_time": 1704606211,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160527,
+        "num": 160527,
+        "word": "微博之夜第四波官宣阵容",
+        "onboard_time": 1704601291,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159476,
+        "num": 159476,
+        "word": "龙年茅台申购每瓶2499元",
+        "onboard_time": 1704605912,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156910,
+        "num": 156910,
+        "word": "吃饭有这2个表现说明正在变老",
+        "onboard_time": 1704603513,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150670,
+        "num": 150670,
+        "word": "东北菜为什么分量这么足",
+        "onboard_time": 1704610229,
+        "rank": 28,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 144358,
+        "num": 144358,
+        "word": "萌兰被窝头粘牙的表情太好笑了",
+        "onboard_time": 1704612090,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307693,
+        "num": 143185,
+        "word": "找领导报销被抹零了199元",
+        "onboard_time": 1704612330,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140438,
+        "num": 140438,
+        "word": "男子被热气球倒吊带飞众人拉回",
+        "onboard_time": 1704611129,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138243,
+        "num": 138243,
+        "word": "一车白狐即将运往尔滨",
+        "onboard_time": 1704612330,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135360,
+        "num": 135360,
+        "word": "女孩骨折忍痛赶飞机邻座是骨科主任",
+        "onboard_time": 1704584482,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133012,
+        "num": 133012,
+        "word": "哈尔滨爆火的背后藏着这样一群人",
+        "onboard_time": 1704612268,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125231,
+        "num": 125231,
+        "word": "老板 这么聪明的人竟然有两个",
+        "onboard_time": 1704612510,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121246,
+        "num": 121246,
+        "word": "死期将至 爆哭",
+        "onboard_time": 1704584842,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118498,
+        "num": 118498,
+        "word": "爱泼斯坦文件",
+        "onboard_time": 1704590370,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116836,
+        "num": 116836,
+        "word": "年会不能停",
+        "onboard_time": 1704605912,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115166,
+        "num": 115166,
+        "word": "哈尔滨当地人搓澡都戒半个月了",
+        "onboard_time": 1704601472,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112828,
+        "num": 112828,
+        "word": "平价消费席卷年轻人",
+        "onboard_time": 1704609390,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 109561,
+        "num": 109561,
+        "word": "狗狗偷咬主人被抓包急忙捂嘴",
+        "onboard_time": 1704606329,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103376,
+        "num": 103376,
+        "word": "厌食症 早起",
+        "onboard_time": 1704594932,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98391,
+        "num": 98391,
+        "word": "张若昀长文",
+        "onboard_time": 1704545671,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96048,
+        "num": 96048,
+        "word": "尔滨你让我感到陌生",
+        "onboard_time": 1704612510,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 95889,
+        "num": 95889,
+        "word": "12岁肺纤维化女孩现在怎样了",
+        "onboard_time": 1704593969,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95545,
+        "num": 95545,
+        "word": "代餐型单身",
+        "onboard_time": 1704611668,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91890,
+        "num": 91890,
+        "word": "不见岳典藏皮肤",
+        "onboard_time": 1704605671,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89300,
+        "num": 89300,
+        "word": "出生几个月大的小伯第一次见到雪",
+        "onboard_time": 1704610888,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86997,
+        "num": 86997,
+        "word": "兽医用随叫随到报答困难时乡亲的支持",
+        "onboard_time": 1704611729,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}
