@@ -1,10 +1,10 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704644451777,
+  "endTime": 1704645457299,
   "band_list": [
     {
-      "raw_hot": 903623,
-      "num": 903623,
+      "raw_hot": 1217319,
+      "num": 1217319,
       "word": "张雪峰解释公司为何不招应届生",
       "onboard_time": 1704642929,
       "rank": 0,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 640984,
-      "num": 382880,
+      "num": 388731,
       "word": "马斯克被曝吸毒",
       "onboard_time": 1704624691,
       "rank": 10,
@@ -80,6 +80,14 @@
       "word": "贪官花40多万元建了条500米断头路",
       "onboard_time": 1704635556,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398679,
+      "num": 398679,
+      "word": "复旦流浪博士已与家乡取得联系",
+      "onboard_time": 1704643350,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -147,24 +155,24 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 247390,
-      "num": 169859,
+      "raw_hot": 249169,
+      "num": 249169,
+      "word": "天启异闻录 烂尾",
+      "onboard_time": 1704643708,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 247892,
+      "num": 180229,
       "word": "雪乡导游强售套票未果让游客撅屁股等着",
       "onboard_time": 1704642091,
       "rank": 22,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231200,
-      "num": 156451,
-      "word": "复旦流浪博士已与家乡取得联系",
-      "onboard_time": 1704643350,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215069,
-      "num": 215069,
+      "raw_hot": 227234,
+      "num": 227234,
       "word": "爱泼斯坦",
       "onboard_time": 1704634173,
       "rank": 16,
@@ -201,14 +209,6 @@
       "onboard_time": 1704625713,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 139135,
-      "num": 139135,
-      "word": "天启异闻录 烂尾",
-      "onboard_time": 1704643708,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 137150,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115204,
+      "num": 115204,
+      "word": "夏目友人帐 可爱娘口三三",
+      "onboard_time": 1704642510,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 115117,
       "num": 115117,
       "word": "一口青梅精引发的重大事故",
@@ -281,14 +289,6 @@
       "onboard_time": 1704623252,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97063,
-      "num": 97063,
-      "word": "夏目友人帐 可爱娘口三三",
-      "onboard_time": 1704642510,
-      "rank": 36,
-      "category": "动漫"
     },
     {
       "raw_hot": 94796,
@@ -401,6 +401,14 @@
       "onboard_time": 1704634833,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42659,
+      "num": 62378,
+      "word": "王心凌 纯白圣女",
+      "onboard_time": 1704622352,
+      "rank": 49,
+      "category": "演出"
     }
   ],
   "hotgov_list": [

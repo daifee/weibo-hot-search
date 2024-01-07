@@ -1,0 +1,410 @@
+{
+  "runTime": 1704645457299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1217319,
+        "num": 1217319,
+        "word": "张雪峰解释公司为何不招应届生",
+        "onboard_time": 1704642929,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643116,
+        "num": 643116,
+        "word": "A先生说辛芷蕾本人很漂亮",
+        "onboard_time": 1704637355,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36576,
+        "num": 586947,
+        "word": "全国各地开年即开跑",
+        "onboard_time": 1704634833,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539598,
+        "num": 539598,
+        "word": "A先生跳海",
+        "onboard_time": 1704632012,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 535649,
+        "num": 535649,
+        "word": "为什么年轻人不爱用信用卡了",
+        "onboard_time": 1704627211,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 503279,
+        "num": 503279,
+        "word": "干掉蜜雪冰城的是旁边的蜜雪冰城",
+        "onboard_time": 1704632793,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 499348,
+        "num": 499348,
+        "word": "胖东来你装个红绿灯吧",
+        "onboard_time": 1704639756,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437601,
+        "num": 437601,
+        "word": "白桃星座",
+        "onboard_time": 1704641731,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 404032,
+        "num": 404032,
+        "word": "贪官花40多万元建了条500米断头路",
+        "onboard_time": 1704635556,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398679,
+        "num": 398679,
+        "word": "复旦流浪博士已与家乡取得联系",
+        "onboard_time": 1704643350,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542202,
+        "num": 388731,
+        "word": "马斯克被曝吸毒",
+        "onboard_time": 1704624691,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 321862,
+        "num": 321862,
+        "word": "刘亦菲 唐嫣是最好的汪小姐",
+        "onboard_time": 1704627451,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308630,
+        "num": 308630,
+        "word": "华图 敢耍老子",
+        "onboard_time": 1704635614,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 268228,
+        "num": 268228,
+        "word": "日本地震导致部分海域变陆地",
+        "onboard_time": 1704620012,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249169,
+        "num": 249169,
+        "word": "天启异闻录 烂尾",
+        "onboard_time": 1704643708,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240133,
+        "num": 240133,
+        "word": "胡歌辛芷蕾繁花吻戏",
+        "onboard_time": 1704631530,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227234,
+        "num": 227234,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704634173,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206690,
+        "num": 206690,
+        "word": "香菜泡面",
+        "onboard_time": 1704638794,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205152,
+        "num": 205152,
+        "word": "心疼爷叔",
+        "onboard_time": 1704633031,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203100,
+        "num": 203100,
+        "word": "刘诗诗靠张云龙肩膀路透",
+        "onboard_time": 1704638616,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438232,
+        "num": 196803,
+        "word": "我爸退出了家人群",
+        "onboard_time": 1704637175,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247892,
+        "num": 180229,
+        "word": "雪乡导游强售套票未果让游客撅屁股等着",
+        "onboard_time": 1704642091,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212626,
+        "num": 173778,
+        "word": "爸爸摔碎我化妆品后发的信息",
+        "onboard_time": 1704634470,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153462,
+        "num": 153462,
+        "word": "陈奕迅模仿杨千嬅用桶喝水",
+        "onboard_time": 1704638375,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131538,
+        "num": 131538,
+        "word": "韩国好丽友蛋黄派检出金黄色葡萄球菌",
+        "onboard_time": 1704635614,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121164,
+        "num": 121164,
+        "word": "国考 给个痛快吧",
+        "onboard_time": 1704625713,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119229,
+        "num": 119229,
+        "word": "沈春阳想见朱一龙",
+        "onboard_time": 1704639336,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115204,
+        "num": 115204,
+        "word": "夏目友人帐 可爱娘口三三",
+        "onboard_time": 1704642510,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 110077,
+        "num": 110077,
+        "word": "姑娘手机封面是清澈的爱名为中国",
+        "onboard_time": 1704638736,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87026,
+        "num": 109543,
+        "word": "大家都在午睡只有他在苦心钻研国粹",
+        "onboard_time": 1704628830,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114675,
+        "num": 109543,
+        "word": "亲人的职业决定了你的副业",
+        "onboard_time": 1704643108,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109539,
+        "num": 109539,
+        "word": "钎九 又幸福了",
+        "onboard_time": 1704637776,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104887,
+        "num": 104887,
+        "word": "把朋友的精神病史告诉她男朋友",
+        "onboard_time": 1704635373,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98936,
+        "num": 98936,
+        "word": "酒鬼去汪星了",
+        "onboard_time": 1704623252,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91762,
+        "num": 91762,
+        "word": "影评人说赵丽颖花千骨灵动鲜活",
+        "onboard_time": 1704635914,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86054,
+        "num": 86054,
+        "word": "卢美琳杜红根好嗑",
+        "onboard_time": 1704643467,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85781,
+        "num": 85781,
+        "word": "一口青梅精引发的重大事故",
+        "onboard_time": 1704640055,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84092,
+        "num": 84092,
+        "word": "请问这是恋爱脑团建吗",
+        "onboard_time": 1704639574,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83506,
+        "num": 83506,
+        "word": "王俊凯将出席2024巴黎时装周",
+        "onboard_time": 1704634053,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 82694,
+        "num": 82694,
+        "word": "主播展示百万帝王绿翡翠手滑掉河里",
+        "onboard_time": 1704617790,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79404,
+        "num": 79404,
+        "word": "京东联名卡 抢不到",
+        "onboard_time": 1704630390,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74355,
+        "num": 74355,
+        "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
+        "onboard_time": 1704611608,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73496,
+        "num": 73496,
+        "word": "齐麟33分",
+        "onboard_time": 1704638496,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72623,
+        "num": 72623,
+        "word": "刘宇宁喊你来丹东",
+        "onboard_time": 1704633393,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66950,
+        "num": 66950,
+        "word": "哈尔滨旅游后劲儿太大",
+        "onboard_time": 1704640953,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 62427,
+        "num": 62427,
+        "word": "父母从新疆给远嫁女儿寄50斤羊肉",
+        "onboard_time": 1704628172,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49868,
+        "num": 62422,
+        "word": "听魏大勋演绎温情版我会等",
+        "onboard_time": 1704638315,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49819,
+        "num": 62410,
+        "word": "哈工大学长杨柏汇回应被关注",
+        "onboard_time": 1704637055,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48628,
+        "num": 62391,
+        "word": "鸣龙少年 我们都将成为更好的自己",
+        "onboard_time": 1704640532,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42659,
+        "num": 62378,
+        "word": "王心凌 纯白圣女",
+        "onboard_time": 1704622352,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#轨道上的京津冀加速形成#"
+    }
+  }
+}
