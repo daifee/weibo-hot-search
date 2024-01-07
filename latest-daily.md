@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/08 00:20:51 ~ 2024/01/08 04:17:57
+本榜单时间：2024/01/08 00:20:51 ~ 2024/01/08 04:34:30
 </p>
 </blockquote>
 <p>
@@ -297,6 +297,12 @@ A先生跳海（热度：607244）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%8F%91%E8%A1%A8%E5%BC%BA%E7%A1%AC%E8%AE%B2%E8%AF%9D%E5%90%8E%E8%A2%AB%E5%A4%AB%E4%BA%BA%E9%A2%86%E4%B8%8B%E8%AE%B2%E5%8F%B0%E8%A2%AB%E5%98%B2%23" target="weibo">
+拜登发表强硬讲话后被夫人领下讲台被嘲（热度：64008）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%BC%94%E7%BB%8E%E6%B8%A9%E6%83%85%E7%89%88%E6%88%91%E4%BC%9A%E7%AD%89%23" target="weibo">
 听魏大勋演绎温情版我会等（热度：62620）
 </a>
@@ -305,12 +311,6 @@ A先生跳海（热度：607244）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A3%E9%BE%99%E5%B0%91%E5%B9%B4%20%E6%88%91%E4%BB%AC%E9%83%BD%E5%B0%86%E6%88%90%E4%B8%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
 鸣龙少年 我们都将成为更好的自己（热度：58072）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%8F%91%E8%A1%A8%E5%BC%BA%E7%A1%AC%E8%AE%B2%E8%AF%9D%E5%90%8E%E8%A2%AB%E5%A4%AB%E4%BA%BA%E9%A2%86%E4%B8%8B%E8%AE%B2%E5%8F%B0%E8%A2%AB%E5%98%B2%23" target="weibo">
-拜登发表强硬讲话后被夫人领下讲台被嘲（热度：57100）
 </a>
 </li>
 
@@ -393,14 +393,20 @@ CBA（热度：53546）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%98%E6%89%B6%E6%A2%AF%E8%87%B4%E7%8E%BB%E7%92%83%E7%82%B8%E8%A3%82%E8%A2%AB%E8%B6%85%E5%B8%82%E7%B4%A2%E8%B5%948300%23" target="weibo">
+男子乘扶梯致玻璃炸裂被超市索赔8300（热度：13473）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%9E%81%E5%9C%B0%E5%B8%83%E6%94%BE%E9%A6%96%E4%B8%AA%E7%94%9F%E6%80%81%E6%BD%9C%E6%A0%87%23" target="weibo">
 中国在极地布放首个生态潜标（热度：10981）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%98%E6%89%B6%E6%A2%AF%E8%87%B4%E7%8E%BB%E7%92%83%E7%82%B8%E8%A3%82%E8%A2%AB%E8%B6%85%E5%B8%82%E7%B4%A2%E8%B5%948300%23" target="weibo">
-男子乘扶梯致玻璃炸裂被超市索赔8300（热度：9351）
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E6%B3%B3%E5%A4%A7%E5%8F%94%E5%A5%8B%E5%8A%9B%E7%A0%B4%E5%86%B0%E5%8B%87%E6%95%91%E8%90%BD%E6%B0%B4%E8%80%81%E4%BA%BA%23" target="weibo">
+冬泳大叔奋力破冰勇救落水老人（热度：8646）
 </a>
 </li>
 
