@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704616437388,
+  "endTime": 1704618978007,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -249,6 +249,14 @@
       "onboard_time": 1704466476,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2094204,
+      "num": 369964,
+      "word": "易孕体质",
+      "onboard_time": 1704616348,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2087562,
@@ -2019,6 +2027,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 850168,
+      "num": 850168,
+      "word": "第一部国产偶像剧男主是陈龙",
+      "onboard_time": 1704616229,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 846190,
       "num": 846190,
       "word": "于正新剧女演员 换人",
@@ -3459,6 +3475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606643,
+      "num": 606643,
+      "word": "丹东文旅局长赴哈尔滨送草莓",
+      "onboard_time": 1704614368,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606289,
       "num": 606289,
       "word": "尔滨呐再掏几下就只剩宾了",
@@ -3468,7 +3492,7 @@
     },
     {
       "raw_hot": 605675,
-      "num": 247768,
+      "num": 262194,
       "word": "女子拍完写真全身痒到抓出血",
       "onboard_time": 1704604591,
       "rank": 23,
@@ -3955,6 +3979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 546639,
+      "num": 546639,
+      "word": "大四男生租房被房东奶奶当亲孙照顾",
+      "onboard_time": 1704613952,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546460,
       "num": 546460,
       "word": "王楚钦比赛",
@@ -4008,6 +4040,14 @@
       "word": "月薪多少才属于中等收入群体",
       "onboard_time": 1704344196,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541899,
+      "num": 541899,
+      "word": "主播展示百万帝王绿翡翠手滑掉河里",
+      "onboard_time": 1704617790,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -4065,14 +4105,6 @@
       "onboard_time": 1704533255,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 536629,
-      "num": 536629,
-      "word": "丹东文旅局长赴哈尔滨送草莓",
-      "onboard_time": 1704614368,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 535893,
@@ -4329,14 +4361,6 @@
       "onboard_time": 1704289473,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 512474,
-      "num": 512474,
-      "word": "大四男生租房被房东奶奶当亲孙照顾",
-      "onboard_time": 1704613952,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 512470,
@@ -5355,6 +5379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 418125,
+      "num": 418125,
+      "word": "东北人保密意识真好",
+      "onboard_time": 1704617790,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 418071,
       "num": 418071,
       "word": "萌兰在院子里挖了4年宝贝",
@@ -5905,6 +5937,14 @@
       "onboard_time": 1704365133,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381040,
+      "num": 381040,
+      "word": "打工人的生理期",
+      "onboard_time": 1704615749,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 379287,
@@ -6819,6 +6859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315267,
+      "num": 315267,
+      "word": "送外卖供复旦大学弟弟读书",
+      "onboard_time": 1704617131,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313719,
       "num": 313719,
       "word": "吸冻梨",
@@ -7283,6 +7331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290380,
+      "num": 290380,
+      "word": "我以四叶草的名义推举你们为tfkids",
+      "onboard_time": 1704617552,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290272,
       "num": 290272,
       "word": "JENNIE新综艺",
@@ -7513,6 +7569,14 @@
       "onboard_time": 1704379659,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 283421,
+      "num": 263938,
+      "word": "分享欲过强是变相索取吗",
+      "onboard_time": 1704614789,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 283044,
@@ -8115,6 +8179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260437,
+      "num": 260437,
+      "word": "日本能登地区已发生1000余次地震",
+      "onboard_time": 1704617370,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260154,
       "num": 260154,
       "word": "刷完牙的那刻牙菌斑就开始累积",
@@ -8257,6 +8329,14 @@
       "onboard_time": 1704157777,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252146,
+      "num": 252146,
+      "word": "期末复习小孩哥头像",
+      "onboard_time": 1704618329,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 252140,
@@ -8441,6 +8521,14 @@
       "onboard_time": 1704376594,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 246409,
+      "num": 246409,
+      "word": "四川申论",
+      "onboard_time": 1704618152,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 245846,
@@ -8848,14 +8936,6 @@
       "word": "情侣必做的100件事",
       "onboard_time": 1704172896,
       "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 232679,
-      "num": 232679,
-      "word": "分享欲过强是变相索取吗",
-      "onboard_time": 1704614789,
-      "rank": 29,
       "category": "情感"
     },
     {
@@ -10675,14 +10755,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 194634,
-      "num": 194634,
-      "word": "打工人的生理期",
-      "onboard_time": 1704615749,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194599,
       "num": 194599,
       "word": "小伙摆摊舔铁体验5元起",
@@ -10884,7 +10956,7 @@
     },
     {
       "raw_hot": 191567,
-      "num": 156228,
+      "num": 194656,
       "word": "美军舰在红海击落一架无人机",
       "onboard_time": 1704614969,
       "rank": 47,
@@ -10937,6 +11009,14 @@
       "onboard_time": 1704263433,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 190847,
+      "num": 190847,
+      "word": "胡歌称和王家卫合作像谈恋爱",
+      "onboard_time": 1704616889,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 190778,
@@ -11529,6 +11609,14 @@
       "onboard_time": 1704593370,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 181264,
+      "num": 181264,
+      "word": "四川小熊猫已到尔滨报道",
+      "onboard_time": 1704618329,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181253,
@@ -12425,6 +12513,14 @@
       "onboard_time": 1704540873,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167809,
+      "num": 167809,
+      "word": "每天一根胡萝卜可降低患癌风险",
+      "onboard_time": 1704616528,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 167794,
@@ -13675,14 +13771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147782,
-      "num": 147782,
-      "word": "第一部国产偶像剧男主是陈龙",
-      "onboard_time": 1704616229,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147741,
       "num": 147741,
       "word": "吉赛尔一记扫堂腿 罗渽民一屁墩",
@@ -14089,6 +14177,14 @@
       "onboard_time": 1704513331,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142505,
+      "num": 142505,
+      "word": "乙流和甲流啥区别",
+      "onboard_time": 1704618872,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142026,
@@ -14649,14 +14745,6 @@
       "onboard_time": 1704374915,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134058,
-      "num": 134058,
-      "word": "易孕体质",
-      "onboard_time": 1704616348,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 134017,
@@ -16155,6 +16243,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 109105,
+      "num": 109105,
+      "word": "大熊猫渝爱背后真的没有拉链吗",
+      "onboard_time": 1704618450,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109082,
       "num": 109082,
       "word": "字母哥空砍群群主",
@@ -16169,6 +16265,14 @@
       "onboard_time": 1704602071,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 108928,
+      "num": 108928,
+      "word": "抱一丝了狄哥 这把选李白",
+      "onboard_time": 1704617552,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 108900,
@@ -16539,6 +16643,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 101624,
+      "num": 101624,
+      "word": "不管多晚爸爸都会接她下班回家",
+      "onboard_time": 1704618089,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101572,
       "num": 101572,
       "word": "利物浦4比2纽卡斯尔联",
@@ -16905,6 +17017,14 @@
       "onboard_time": 1704034750,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83823,
+      "num": 676768,
+      "word": "东部战区新年开飞高燃画面",
+      "onboard_time": 1704615628,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83276,
@@ -17577,14 +17697,6 @@
       "onboard_time": 1704566896,
       "rank": 37,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 42739,
-      "num": 610277,
-      "word": "东部战区新年开飞高燃画面",
-      "onboard_time": 1704615628,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 42595,
