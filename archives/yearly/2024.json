@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704631614055,
+  "endTime": 1704633554356,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -889,6 +889,14 @@
       "onboard_time": 1704351930,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1340669,
+      "num": 1340669,
+      "word": "A先生跳海",
+      "onboard_time": 1704632012,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1329807,
@@ -2027,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857602,
+      "num": 585565,
+      "word": "胡歌辛芷蕾繁花吻戏",
+      "onboard_time": 1704631530,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 855614,
       "num": 518531,
       "word": "鲁东大学",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704207095,
       "rank": 14,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 783272,
-      "num": 783272,
-      "word": "18岁才知道饺子可以不是猪肉馅的",
-      "onboard_time": 1704338971,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 781772,
-      "num": 781772,
-      "word": "南宁赠送哈尔滨200吨砂糖橘",
-      "onboard_time": 1704443194,
-      "rank": 39,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
