@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704595402742,
+  "endTime": 1704597501423,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -281,6 +281,14 @@
       "onboard_time": 1704288096,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1962543,
+      "num": 1962543,
+      "word": "微信私密朋友圈被吐槽有bug",
+      "onboard_time": 1704594689,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 1897679,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704245911,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 745276,
-      "num": 745276,
-      "word": "主播声称几万元貂皮卖399大妈狂下单",
-      "onboard_time": 1704224235,
-      "rank": 10,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

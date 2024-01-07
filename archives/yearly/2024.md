@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/07 10:43:22
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/07 11:18:21
 </p>
 </blockquote>
 <p>
@@ -221,6 +221,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B473%E6%AD%BB170%E4%BC%A4%23" target="weibo">
 伊朗连环爆炸已致73死170伤（热度：2021299）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%A7%81%E5%AF%86%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E5%90%90%E6%A7%BD%E6%9C%89bug%23" target="weibo">
+微信私密朋友圈被吐槽有bug（热度：1962543）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E8%BD%A8%E8%A2%AB%E6%9B%9D%E7%9B%97%E5%9B%BE%23" target="weibo">
 脱轨被曝盗图（热度：746215）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E5%A3%B0%E7%A7%B0%E5%87%A0%E4%B8%87%E5%85%83%E8%B2%82%E7%9A%AE%E5%8D%96399%E5%A4%A7%E5%A6%88%E7%8B%82%E4%B8%8B%E5%8D%95%23" target="weibo">
-主播声称几万元貂皮卖399大妈狂下单（热度：745276）
 </a>
 </li>
 
