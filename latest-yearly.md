@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/07 10:33:23
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/07 10:43:22
 </p>
 </blockquote>
 <p>
@@ -1035,6 +1035,12 @@ A先生李李恋情（热度：1095743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%90%8C%E5%AD%A6%E7%A7%9F%E8%BD%A6%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BC%80%E8%BD%A6%E5%90%8C%E5%AD%A6%E9%81%AD%E7%B4%A2%E8%B5%9459%E4%B8%87%23" target="weibo">
+3同学租车出车祸开车同学遭索赔59万（热度：1043718）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%E6%8A%A5%E8%AD%A6%E8%A2%AB%E8%AD%A6%E5%AF%9F%E5%87%BB%E6%AF%99%23" target="weibo">
 美国女子遭家暴报警被警察击毙（热度：1037978）
 </a>
@@ -1277,12 +1283,6 @@ D社 该上班了（热度：998672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B8%8E%E6%87%82%E8%BD%A6%E5%B8%9D%E5%81%9C%E6%AD%A2%E5%90%88%E4%BD%9C%23" target="weibo">
 华为与懂车帝停止合作（热度：932808）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%90%8C%E5%AD%A6%E7%A7%9F%E8%BD%A6%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BC%80%E8%BD%A6%E5%90%8C%E5%AD%A6%E9%81%AD%E7%B4%A2%E8%B5%9459%E4%B8%87%23" target="weibo">
-3同学租车出车祸开车同学遭索赔59万（热度：929908）
 </a>
 </li>
 

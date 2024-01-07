@@ -1,0 +1,410 @@
+{
+  "runTime": 1704595402742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1043718,
+        "num": 1043718,
+        "word": "3同学租车出车祸开车同学遭索赔59万",
+        "onboard_time": 1704591990,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039224,
+        "num": 1039224,
+        "word": "女孩骨折忍痛赶飞机邻座是骨科主任",
+        "onboard_time": 1704584482,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8917,
+        "num": 898380,
+        "word": "全国各省份力拼经济开门红",
+        "onboard_time": 1704531093,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 808655,
+        "num": 808655,
+        "word": "中方决定制裁5家美国军工企业",
+        "onboard_time": 1704590969,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 737191,
+        "num": 737191,
+        "word": "鸣龙少年编剧 参加过高考吗",
+        "onboard_time": 1704592650,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550516,
+        "num": 550516,
+        "word": "留美流浪博士发声",
+        "onboard_time": 1704593611,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565802,
+        "num": 528426,
+        "word": "张若昀长文",
+        "onboard_time": 1704545671,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462280,
+        "num": 462280,
+        "word": "尔滨送女生1000克拉冰钻戒",
+        "onboard_time": 1704591751,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440426,
+        "num": 440426,
+        "word": "iPhone电池门赔款到账",
+        "onboard_time": 1704587484,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 395970,
+        "num": 395970,
+        "word": "黑龙江有蔓越莓本地人都不知道",
+        "onboard_time": 1704590672,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 492745,
+        "num": 388366,
+        "word": "爱泼斯坦文件",
+        "onboard_time": 1704590370,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484219,
+        "num": 380780,
+        "word": "微信私密朋友圈被吐槽有bug",
+        "onboard_time": 1704594689,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 473739,
+        "num": 376010,
+        "word": "霍金",
+        "onboard_time": 1704594028,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435322,
+        "num": 365953,
+        "word": "女子多次仅退款后又偷取走快递",
+        "onboard_time": 1704562401,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429276,
+        "num": 360436,
+        "word": "死期将至 爆哭",
+        "onboard_time": 1704584842,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351697,
+        "num": 351697,
+        "word": "12岁肺纤维化女孩现在怎样了",
+        "onboard_time": 1704593969,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319709,
+        "num": 319709,
+        "word": "砂糖橘东北睡1宿变果脯",
+        "onboard_time": 1704549995,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309616,
+        "num": 309616,
+        "word": "花少北时隔2年再获百大",
+        "onboard_time": 1704589110,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280753,
+        "num": 280753,
+        "word": "去哈尔滨的诱惑已打败艾莎公主",
+        "onboard_time": 1704587607,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266334,
+        "num": 266334,
+        "word": "王家卫希望胡歌找回演李逍遥的感觉",
+        "onboard_time": 1704548736,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363877,
+        "num": 265174,
+        "word": "爸爸在我结婚前突然后悔了",
+        "onboard_time": 1704582438,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260067,
+        "num": 260067,
+        "word": "张若昀 女团腿",
+        "onboard_time": 1704551376,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235514,
+        "num": 235514,
+        "word": "凤凰传奇来百大也得罚站",
+        "onboard_time": 1704588807,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226387,
+        "num": 226387,
+        "word": "谢娜客串过苏有朋的左耳",
+        "onboard_time": 1704589471,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219258,
+        "num": 219258,
+        "word": "小砂糖橘遇见顶流企鹅还撞衫了",
+        "onboard_time": 1704589831,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214262,
+        "num": 214262,
+        "word": "厌食症 早起",
+        "onboard_time": 1704594932,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199745,
+        "num": 199745,
+        "word": "小朋友哈尔滨机场爆哭不肯离开",
+        "onboard_time": 1704593969,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 190050,
+        "num": 190050,
+        "word": "儿子身陷缅北父亲筹47万欲捞人被司法所劝住",
+        "onboard_time": 1704554314,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188900,
+        "num": 188900,
+        "word": "辛芷蕾因绣春刀被王家卫选中",
+        "onboard_time": 1704595052,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171312,
+        "num": 171312,
+        "word": "尔滨这回真的来熊猫了",
+        "onboard_time": 1704582380,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 165297,
+        "num": 165297,
+        "word": "沈阳1000名搓澡大姨支援哈尔滨为不实",
+        "onboard_time": 1704589411,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163060,
+        "num": 163060,
+        "word": "贪官太嚣张另一个贪官都看不下去了",
+        "onboard_time": 1704552633,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162193,
+        "num": 162193,
+        "word": "iPhone需求引发担忧",
+        "onboard_time": 1704592712,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161779,
+        "num": 161779,
+        "word": "发烧有这几个症状一定要就医",
+        "onboard_time": 1704592050,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159261,
+        "num": 159261,
+        "word": "上市公司说好增持上亿结果只买2889元",
+        "onboard_time": 1704593370,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159037,
+        "num": 159037,
+        "word": "尔滨掏出绝绝子版冰上台球",
+        "onboard_time": 1704593848,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 143534,
+        "num": 143534,
+        "word": "健康人群午睡最好别超半小时",
+        "onboard_time": 1704586585,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125884,
+        "num": 125884,
+        "word": "陈丽华 女首富的格局",
+        "onboard_time": 1704586707,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123365,
+        "num": 123365,
+        "word": "哈尔滨极地公园开始宠自家孩子啦",
+        "onboard_time": 1704594750,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 119158,
+        "num": 119158,
+        "word": "专家称在新区域搜索10天或能找到MH370",
+        "onboard_time": 1704591512,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116941,
+        "num": 116941,
+        "word": "央视评繁花",
+        "onboard_time": 1704536431,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114438,
+        "num": 114438,
+        "word": "大哥为救人练长跑90次跑赢救护车",
+        "onboard_time": 1704594211,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113506,
+        "num": 113506,
+        "word": "檀健次一句话把何炅整懵了",
+        "onboard_time": 1704595227,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110686,
+        "num": 110686,
+        "word": "被冰锥砸中倒地的大学生已身亡",
+        "onboard_time": 1704527972,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110663,
+        "num": 110663,
+        "word": "大熊猫莽仔第五个幼崽取名莽灿灿",
+        "onboard_time": 1704590912,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105510,
+        "num": 105510,
+        "word": "阿宝和李李 意识流",
+        "onboard_time": 1704592470,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104499,
+        "num": 104499,
+        "word": "赵雅芝叶童陈美琪30年同框",
+        "onboard_time": 1704590009,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101672,
+        "num": 101672,
+        "word": "龙茅第三方平台加价3000报价5499",
+        "onboard_time": 1704594869,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 101383,
+        "num": 101383,
+        "word": "鄂伦春族小花鹿奶奶唱歌",
+        "onboard_time": 1704593428,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96751,
+        "num": 96751,
+        "word": "民警一把拉住了欲跳楼男子小腿",
+        "onboard_time": 1704595350,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}
