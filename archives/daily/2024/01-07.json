@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704591792831,
+  "endTime": 1704594803550,
   "band_list": [
     {
       "raw_hot": 1490614,
@@ -19,11 +19,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 990600,
+      "num": 990600,
+      "word": "中方决定制裁5家美国军工企业",
+      "onboard_time": 1704590969,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 959210,
       "num": 959210,
       "word": "儿子身陷缅北父亲筹47万欲捞人被司法所劝住",
       "onboard_time": 1704554314,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 929908,
+      "num": 929908,
+      "word": "3同学租车出车祸开车同学遭索赔59万",
+      "onboard_time": 1704591990,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -51,12 +67,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 697102,
-      "num": 697102,
-      "word": "中方决定制裁5家美国军工企业",
-      "onboard_time": 1704590969,
-      "rank": 3,
-      "category": "国内时政"
+      "raw_hot": 728504,
+      "num": 728504,
+      "word": "鸣龙少年编剧 参加过高考吗",
+      "onboard_time": 1704592650,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 664862,
@@ -107,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514758,
+      "num": 412357,
+      "word": "爱泼斯坦文件",
+      "onboard_time": 1704590370,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493432,
       "num": 493432,
       "word": "陈丽华 女首富的格局",
@@ -116,19 +140,11 @@
     },
     {
       "raw_hot": 473322,
-      "num": 352136,
+      "num": 409318,
       "word": "死期将至 爆哭",
       "onboard_time": 1704584842,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 473288,
-      "num": 352438,
-      "word": "爱泼斯坦文件",
-      "onboard_time": 1704590370,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 469206,
@@ -155,12 +171,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456151,
+      "num": 456151,
+      "word": "尔滨送女生1000克拉冰钻戒",
+      "onboard_time": 1704591751,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453109,
       "num": 453109,
       "word": "花少北时隔2年再获百大",
       "onboard_time": 1704589110,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427597,
+      "num": 427597,
+      "word": "留美流浪博士发声",
+      "onboard_time": 1704593611,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418684,
+      "num": 418684,
+      "word": "黑龙江有蔓越莓本地人都不知道",
+      "onboard_time": 1704590672,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 415464,
@@ -275,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280887,
+      "num": 280887,
+      "word": "霍金",
+      "onboard_time": 1704594028,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268992,
       "num": 268992,
       "word": "小砂糖橘遇见顶流企鹅还撞衫了",
@@ -291,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260239,
-      "num": 260239,
-      "word": "黑龙江有蔓越莓本地人都不知道",
-      "onboard_time": 1704590672,
-      "rank": 23,
-      "category": "旅游"
+      "raw_hot": 245336,
+      "num": 245336,
+      "word": "12岁肺纤维化女孩现在怎样了",
+      "onboard_time": 1704593969,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233533,
@@ -329,6 +377,14 @@
       "onboard_time": 1704557191,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212795,
+      "num": 212795,
+      "word": "小朋友哈尔滨机场爆哭不肯离开",
+      "onboard_time": 1704593969,
+      "rank": 25,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 208967,
@@ -368,6 +424,38 @@
       "word": "为什么月经会延后",
       "onboard_time": 1704546995,
       "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 183689,
+      "num": 183689,
+      "word": "iPhone需求引发担忧",
+      "onboard_time": 1704592712,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 183144,
+      "num": 183144,
+      "word": "微信私密朋友圈被吐槽有bug",
+      "onboard_time": 1704594689,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 181304,
+      "num": 181304,
+      "word": "上市公司说好增持上亿结果只买2889元",
+      "onboard_time": 1704593370,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 180827,
+      "num": 180827,
+      "word": "发烧有这几个症状一定要就医",
+      "onboard_time": 1704592050,
+      "rank": 32,
       "category": "健康医疗"
     },
     {
@@ -419,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164800,
+      "num": 164800,
+      "word": "尔滨掏出绝绝子版冰上台球",
+      "onboard_time": 1704593848,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 158780,
       "num": 158780,
       "word": "苏有朋演唱会嘉宾是谢娜",
@@ -457,6 +553,14 @@
       "onboard_time": 1704590849,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 154438,
+      "num": 154438,
+      "word": "专家称在新区域搜索10天或能找到MH370",
+      "onboard_time": 1704591512,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151995,
@@ -555,20 +659,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124633,
-      "num": 124633,
-      "word": "专家称在新区域搜索10天或能找到MH370",
-      "onboard_time": 1704591512,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122702,
       "num": 122702,
       "word": "为什么你比同龄人显老",
       "onboard_time": 1704548796,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122418,
+      "num": 122418,
+      "word": "大哥为救人练长跑90次跑赢救护车",
+      "onboard_time": 1704594211,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121944,
+      "num": 121944,
+      "word": "阿宝和李李 意识流",
+      "onboard_time": 1704592470,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121568,
+      "num": 121568,
+      "word": "鄂伦春族小花鹿奶奶唱歌",
+      "onboard_time": 1704593428,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120981,
@@ -587,6 +707,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 117858,
+      "num": 117858,
+      "word": "藏在千年文物里的龙竟然这么多",
+      "onboard_time": 1704594028,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117031,
       "num": 117031,
       "word": "日本地震仍有210人下落不明",
@@ -601,6 +729,14 @@
       "onboard_time": 1704546936,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112568,
+      "num": 112568,
+      "word": "中长发秋冬编发",
+      "onboard_time": 1704593789,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 108304,
@@ -633,6 +769,14 @@
       "onboard_time": 1704545493,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104971,
+      "num": 104971,
+      "word": "哈尔滨极地公园开始宠自家孩子啦",
+      "onboard_time": 1704594750,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 103940,
@@ -673,14 +817,6 @@
       "onboard_time": 1704556531,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 96567,
-      "num": 96567,
-      "word": "尔滨送女生1000克拉冰钻戒",
-      "onboard_time": 1704591751,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96268,
@@ -796,7 +932,7 @@
     },
     {
       "raw_hot": 23750,
-      "num": 817599,
+      "num": 937310,
       "word": "全国各省份力拼经济开门红",
       "onboard_time": 1704531093,
       "rank": 2,
