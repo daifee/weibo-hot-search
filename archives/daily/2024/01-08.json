@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704669439160,
+  "endTime": 1704670470135,
   "band_list": [
     {
       "raw_hot": 1217319,
@@ -51,8 +51,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 618778,
-      "num": 618778,
+      "raw_hot": 622792,
+      "num": 622792,
       "word": "雪乡导游强售套票未果让游客撅屁股等着",
       "onboard_time": 1704642091,
       "rank": 22,
@@ -83,12 +83,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 508644,
-      "num": 212691,
+      "raw_hot": 549383,
+      "num": 326537,
       "word": "拜登发表强硬讲话后被夫人领下讲台被嘲",
       "onboard_time": 1704656113,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 519678,
+      "num": 519678,
+      "word": "涉事公司回应女高管违法开除员工",
+      "onboard_time": 1704669080,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 492807,
@@ -105,6 +113,22 @@
       "onboard_time": 1704635556,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414503,
+      "num": 414503,
+      "word": "首钢辟谣网传女高管违法开除员工",
+      "onboard_time": 1704669023,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 412690,
+      "num": 412690,
+      "word": "第一批小东北虎已抵达桂林",
+      "onboard_time": 1704669140,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 382940,
@@ -129,6 +153,14 @@
       "onboard_time": 1704638794,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 298147,
+      "num": 298147,
+      "word": "我国破获一起英国秘密情报局间谍案",
+      "onboard_time": 1704669624,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 276031,
@@ -187,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208273,
+      "num": 208273,
+      "word": "胡歌 爆剧玄学",
+      "onboard_time": 1704669741,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203178,
       "num": 203178,
       "word": "韩国好丽友蛋黄派检出金黄色葡萄球菌",
@@ -211,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170996,
-      "num": 170996,
-      "word": "第一批小东北虎已抵达桂林",
-      "onboard_time": 1704669140,
-      "rank": 14,
-      "category": "旅游"
+      "raw_hot": 158550,
+      "num": 158550,
+      "word": "身上这6个部位无须过度清洁",
+      "onboard_time": 1704669321,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 154834,
@@ -299,14 +339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114793,
-      "num": 114793,
-      "word": "首钢辟谣网传女高管违法开除员工",
-      "onboard_time": 1704669023,
-      "rank": 17,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 108955,
       "num": 108955,
       "word": "齐麟33分",
@@ -321,14 +353,6 @@
       "onboard_time": 1704623252,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97567,
-      "num": 97567,
-      "word": "涉事公司回应女高管违法开除员工",
-      "onboard_time": 1704669080,
-      "rank": 19,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 94796,
@@ -379,6 +403,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84964,
+      "num": 80774,
+      "word": "美女老板走红30年前在四季青年入几十万",
+      "onboard_time": 1704655152,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82356,
+      "num": 82356,
+      "word": "2024年第一个网红城市",
+      "onboard_time": 1704669023,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81855,
       "num": 81855,
       "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
@@ -403,22 +443,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 78458,
-      "num": 64512,
-      "word": "美女老板走红30年前在四季青年入几十万",
-      "onboard_time": 1704655152,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72475,
-      "num": 72475,
-      "word": "身上这6个部位无须过度清洁",
-      "onboard_time": 1704669321,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 72044,
       "num": 72044,
       "word": "父母从新疆给远嫁女儿寄50斤羊肉",
@@ -435,12 +459,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68799,
+      "num": 68799,
+      "word": "清澈的爱只为中国壁纸女孩回应",
+      "onboard_time": 1704670044,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65572,
+      "num": 65572,
+      "word": "陈奕迅爆料杨千嬅后台用桶喝水",
+      "onboard_time": 1704670344,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 65549,
+      "num": 65549,
+      "word": "爱与不爱都要落落大方",
+      "onboard_time": 1704669624,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 63795,
+      "num": 63795,
+      "word": "张碧晨尾号920的完美不收官",
+      "onboard_time": 1704656954,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 62620,
       "num": 69925,
       "word": "听魏大勋演绎温情版我会等",
       "onboard_time": 1704638315,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61672,
+      "num": 61672,
+      "word": "十二星座一周运势",
+      "onboard_time": 1704669442,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 58803,
@@ -459,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58115,
+      "num": 58115,
+      "word": "高质量婚姻的定律",
+      "onboard_time": 1704670044,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 58072,
       "num": 69922,
       "word": "鸣龙少年 我们都将成为更好的自己",
@@ -467,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56085,
-      "num": 56085,
-      "word": "张碧晨尾号920的完美不收官",
-      "onboard_time": 1704656954,
-      "rank": 23,
-      "category": "演出"
+      "raw_hot": 54300,
+      "num": 54300,
+      "word": "英伟达特供芯片在中国遇冷",
+      "onboard_time": 1704670223,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 53546,
@@ -483,20 +555,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52216,
+      "num": 52216,
+      "word": "张雪峰推荐网友去齐齐哈尔玩",
+      "onboard_time": 1704670344,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 45293,
       "num": 45293,
       "word": "95后南昌舰女兵说我怕打仗不用我",
       "onboard_time": 1704668540,
       "rank": 43,
       "category": "军事"
-    },
-    {
-      "raw_hot": 44463,
-      "num": 44463,
-      "word": "2024年第一个网红城市",
-      "onboard_time": 1704669023,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43130,
@@ -513,6 +585,14 @@
       "onboard_time": 1704622352,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37445,
+      "num": 554071,
+      "word": "中国在极地布放首个生态潜标",
+      "onboard_time": 1704634470,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34859,
@@ -537,14 +617,6 @@
       "onboard_time": 1704648079,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 29737,
-      "num": 515354,
-      "word": "中国在极地布放首个生态潜标",
-      "onboard_time": 1704634470,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28544,
