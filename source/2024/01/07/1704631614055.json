@@ -1,0 +1,410 @@
+{
+  "runTime": 1704631614055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1490688,
+        "num": 1490688,
+        "word": "刘亦菲 唐嫣是最好的汪小姐",
+        "onboard_time": 1704627451,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 812409,
+        "num": 812409,
+        "word": "国考 给个痛快吧",
+        "onboard_time": 1704625713,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 52261,
+        "num": 782637,
+        "word": "国产首艘大型邮轮顺利完成首航",
+        "onboard_time": 1704615449,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 767624,
+        "num": 767624,
+        "word": "海南警方 可以不懂爱情但要学会文明",
+        "onboard_time": 1704627091,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680470,
+        "num": 680470,
+        "word": "北京首钢",
+        "onboard_time": 1704627333,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591941,
+        "num": 591941,
+        "word": "父母从新疆给远嫁女儿寄50斤羊肉",
+        "onboard_time": 1704628172,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441791,
+        "num": 441791,
+        "word": "第一部国产偶像剧男主是陈龙",
+        "onboard_time": 1704616229,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418516,
+        "num": 418516,
+        "word": "酒鬼去汪星了",
+        "onboard_time": 1704623252,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 406542,
+        "num": 406542,
+        "word": "大家都在午睡只有他在苦心钻研国粹",
+        "onboard_time": 1704628830,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396774,
+        "num": 396774,
+        "word": "王心凌 纯白圣女",
+        "onboard_time": 1704622352,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1552477,
+        "num": 394407,
+        "word": "马斯克被曝吸毒",
+        "onboard_time": 1704624691,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 684397,
+        "num": 392370,
+        "word": "日本地震导致部分海域变陆地",
+        "onboard_time": 1704620012,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622275,
+        "num": 388819,
+        "word": "主播展示百万帝王绿翡翠手滑掉河里",
+        "onboard_time": 1704617790,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371886,
+        "num": 371886,
+        "word": "繁花",
+        "onboard_time": 1704629431,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359024,
+        "num": 359024,
+        "word": "京东联名卡 抢不到",
+        "onboard_time": 1704630390,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 347302,
+        "num": 347302,
+        "word": "霍金",
+        "onboard_time": 1704594028,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330073,
+        "num": 330073,
+        "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
+        "onboard_time": 1704611608,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305678,
+        "num": 305678,
+        "word": "李李身世之谜",
+        "onboard_time": 1704625830,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260027,
+        "num": 260027,
+        "word": "胡歌 魅力依旧",
+        "onboard_time": 1704629371,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256068,
+        "num": 256068,
+        "word": "辛芷蕾演技",
+        "onboard_time": 1704630512,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431764,
+        "num": 254721,
+        "word": "为什么年轻人不爱用信用卡了",
+        "onboard_time": 1704627211,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 251551,
+        "num": 251551,
+        "word": "31岁中国男游客在泰国浮潜溺亡",
+        "onboard_time": 1704621152,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242418,
+        "num": 242418,
+        "word": "微信私密朋友圈被吐槽有bug",
+        "onboard_time": 1704594689,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 218435,
+        "num": 218435,
+        "word": "张大大穿增高鞋没关晓彤高",
+        "onboard_time": 1704622772,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229118,
+        "num": 214887,
+        "word": "胡歌辛芷蕾繁花吻戏",
+        "onboard_time": 1704631530,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195861,
+        "num": 195861,
+        "word": "尔滨的风吹向全国",
+        "onboard_time": 1704630752,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189326,
+        "num": 189326,
+        "word": "当小砂糖橘遇上小雾凇",
+        "onboard_time": 1704627153,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188439,
+        "num": 188439,
+        "word": "酒鬼 撕家",
+        "onboard_time": 1704625110,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188325,
+        "num": 188325,
+        "word": "大四男生租房被房东奶奶当亲孙照顾",
+        "onboard_time": 1704613952,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188246,
+        "num": 188246,
+        "word": "广东男篮vs新疆男篮",
+        "onboard_time": 1704630512,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186541,
+        "num": 186541,
+        "word": "狂人 九尾职业态度没的说",
+        "onboard_time": 1704630155,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174831,
+        "num": 174831,
+        "word": "钱天一晒聚餐照",
+        "onboard_time": 1704629852,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170416,
+        "num": 170416,
+        "word": "小伙因为一首歌想去西安3年",
+        "onboard_time": 1704631472,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163253,
+        "num": 163253,
+        "word": "北京圆明园重现冰嬉盛景",
+        "onboard_time": 1704628292,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151649,
+        "num": 151649,
+        "word": "美媒发布战略轰炸机B1B坠机画面",
+        "onboard_time": 1704631231,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 144131,
+        "num": 144131,
+        "word": "找领导报销被抹零了199元",
+        "onboard_time": 1704612330,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139177,
+        "num": 139177,
+        "word": "杨紫李现国色芳华捧脸路透",
+        "onboard_time": 1704621390,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137937,
+        "num": 137937,
+        "word": "鹤岗官方回应丹顶鹤在哈尔滨发抖",
+        "onboard_time": 1704623672,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135754,
+        "num": 135754,
+        "word": "四川小熊猫已到尔滨报道",
+        "onboard_time": 1704618329,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131722,
+        "num": 131722,
+        "word": "乙流和甲流啥区别",
+        "onboard_time": 1704618872,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126118,
+        "num": 126118,
+        "word": "一车白狐即将运往尔滨",
+        "onboard_time": 1704612330,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244960,
+        "num": 125456,
+        "word": "繁花中的泡饭好不好吃",
+        "onboard_time": 1704630212,
+        "rank": 41,
+        "category": "作品衍生,美食"
+      },
+      {
+        "raw_hot": 124485,
+        "num": 124485,
+        "word": "国考成绩 等一个奇迹",
+        "onboard_time": 1704597511,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124398,
+        "num": 124398,
+        "word": "羽生结弦纪录片",
+        "onboard_time": 1704629132,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123793,
+        "num": 123793,
+        "word": "山东58岁大叔徒手破冰救环卫工",
+        "onboard_time": 1704629971,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123566,
+        "num": 123566,
+        "word": "什么时候真的觉得大学好呢",
+        "onboard_time": 1704627991,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121125,
+        "num": 121125,
+        "word": "核潜艇铅板里藏着一条30年前的留言",
+        "onboard_time": 1704630871,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118379,
+        "num": 118379,
+        "word": "野生东北虎被拍到下山爪子带血",
+        "onboard_time": 1704620851,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117392,
+        "num": 117392,
+        "word": "梁朝伟 其实我也不是那么i",
+        "onboard_time": 1704623191,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113666,
+        "num": 113666,
+        "word": "天启异闻录 幕后大boss",
+        "onboard_time": 1704629075,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#轨道上的京津冀加速形成#"
+    }
+  }
+}
