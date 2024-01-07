@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/08 00:20:51 ~ 2024/01/08 05:15:09
+本榜单时间：2024/01/08 00:20:51 ~ 2024/01/08 05:33:59
 </p>
 </blockquote>
 <p>
@@ -316,7 +316,7 @@ A先生跳海（热度：607244）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%B0%BE%E5%8F%B7920%E7%9A%84%E5%AE%8C%E7%BE%8E%E4%B8%8D%E6%94%B6%E5%AE%98%23" target="weibo">
-张碧晨尾号920的完美不收官（热度：55145）
+张碧晨尾号920的完美不收官（热度：56085）
 </a>
 </li>
 
@@ -369,20 +369,26 @@ CBA（热度：53546）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%98%E6%89%B6%E6%A2%AF%E8%87%B4%E7%8E%BB%E7%92%83%E7%82%B8%E8%A3%82%E8%A2%AB%E8%B6%85%E5%B8%82%E7%B4%A2%E8%B5%948300%23" target="weibo">
+男子乘扶梯致玻璃炸裂被超市索赔8300（热度：24245）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%8C%AB%E4%BD%A0%E6%98%AF%E4%B8%80%E8%BE%86%E9%9D%A2%E5%8C%85%E8%BD%A6%23" target="weibo">
 猫猫你是一辆面包车（热度：21061）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%98%E6%89%B6%E6%A2%AF%E8%87%B4%E7%8E%BB%E7%92%83%E7%82%B8%E8%A3%82%E8%A2%AB%E8%B6%85%E5%B8%82%E7%B4%A2%E8%B5%948300%23" target="weibo">
-男子乘扶梯致玻璃炸裂被超市索赔8300（热度：20404）
+<a href="https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%23" target="weibo">
+繁花（热度：18535）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%23" target="weibo">
-繁花（热度：18535）
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%A0%E5%B9%B4%E6%B2%A1%E8%81%94%E7%B3%BB%E7%9A%84%E5%90%8C%E5%AD%A6%E6%89%BE%E6%88%91%E8%A6%81%E4%BB%BD%E5%AD%90%E9%92%B1%23" target="weibo">
+几年没联系的同学找我要份子钱（热度：18163）
 </a>
 </li>
 
@@ -395,12 +401,6 @@ CBA（热度：53546）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%8F%8D%E6%B4%BE%E6%A2%85%E8%90%8D%E6%98%AF%E7%8E%8B%E8%8F%8A%E6%BC%94%E7%9A%84%23" target="weibo">
 繁花反派梅萍是王菊演的（热度：16451）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%A0%E5%B9%B4%E6%B2%A1%E8%81%94%E7%B3%BB%E7%9A%84%E5%90%8C%E5%AD%A6%E6%89%BE%E6%88%91%E8%A6%81%E4%BB%BD%E5%AD%90%E9%92%B1%23" target="weibo">
-几年没联系的同学找我要份子钱（热度：11952）
 </a>
 </li>
 
