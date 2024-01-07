@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704654834100,
+  "endTime": 1704656031293,
   "band_list": [
     {
       "raw_hot": 2625653,
@@ -3145,6 +3145,14 @@
       "onboard_time": 1704639155,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15202,
+      "num": 15202,
+      "word": "美女老板走红30年前在四季青年入几十万",
+      "onboard_time": 1704655152,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10981,
