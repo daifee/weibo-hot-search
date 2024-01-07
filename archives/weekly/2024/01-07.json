@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704605626592,
+  "endTime": 1704608517926,
   "band_list": [
     {
       "raw_hot": 2201623,
@@ -139,6 +139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 662335,
+      "num": 662335,
+      "word": "研究发现内脏脂肪越多大脑越小",
+      "onboard_time": 1704601713,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 654074,
       "num": 654074,
       "word": "四川省考 做不完根本做不完",
@@ -152,6 +160,14 @@
       "word": "女子多次仅退款后又偷取走快递",
       "onboard_time": 1704562401,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605675,
+      "num": 236278,
+      "word": "女子拍完写真全身痒到抓出血",
+      "onboard_time": 1704604591,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -219,14 +235,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 523720,
-      "num": 236278,
-      "word": "女子拍完写真全身痒到抓出血",
-      "onboard_time": 1704604591,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 514758,
       "num": 412357,
       "word": "爱泼斯坦文件",
@@ -241,14 +249,6 @@
       "onboard_time": 1704586707,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 492566,
-      "num": 294907,
-      "word": "研究发现内脏脂肪越多大脑越小",
-      "onboard_time": 1704601713,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 473322,
@@ -363,6 +363,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 404856,
+      "num": 404856,
+      "word": "钟楚曦侯雯元吻戏",
+      "onboard_time": 1704604950,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398532,
       "num": 398532,
       "word": "马立奥cos天天",
@@ -379,12 +387,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 388536,
-      "num": 388536,
-      "word": "钟楚曦侯雯元吻戏",
-      "onboard_time": 1704604950,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 385878,
+      "num": 326920,
+      "word": "不管你是什么馒头从车银优身上下来",
+      "onboard_time": 1704604470,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 371793,
@@ -395,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370215,
+      "num": 370215,
+      "word": "哈尔滨当地人搓澡都戒半个月了",
+      "onboard_time": 1704601472,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351603,
       "num": 351603,
       "word": "谢娜客串过苏有朋的左耳",
       "onboard_time": 1704589471,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 349646,
-      "num": 349646,
-      "word": "哈尔滨当地人搓澡都戒半个月了",
-      "onboard_time": 1704601472,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338719,
@@ -451,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 316049,
+      "num": 316049,
+      "word": "鹤岗把唯一的丹顶鹤借给尔滨",
+      "onboard_time": 1704607769,
+      "rank": 14,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 313906,
       "num": 313906,
       "word": "A先生李李恋情",
@@ -481,6 +497,14 @@
       "onboard_time": 1704519152,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 298392,
+      "num": 298392,
+      "word": "长期横向刷牙或会致牙齿缺损",
+      "onboard_time": 1704605490,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 295174,
@@ -579,6 +603,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 223867,
+      "num": 212218,
+      "word": "妈妈为了和我多聊天换头像",
+      "onboard_time": 1704606211,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220309,
       "num": 220309,
       "word": "檀健次一句话把何炅整懵了",
@@ -627,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209800,
+      "num": 209800,
+      "word": "不见岳典藏皮肤",
+      "onboard_time": 1704605671,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208967,
       "num": 208967,
       "word": "车银优你最好是胖着玩",
@@ -667,12 +707,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 201653,
-      "num": 201653,
-      "word": "不管你是什么馒头从车银优身上下来",
-      "onboard_time": 1704604470,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 201084,
+      "num": 201084,
+      "word": "龙年茅台申购每瓶2499元",
+      "onboard_time": 1704605912,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 194839,
@@ -795,6 +835,30 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 163660,
+      "num": 163660,
+      "word": "阴阳师",
+      "onboard_time": 1704607708,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 161408,
+      "num": 161408,
+      "word": "吉林市民送姜茶遭摊贩威胁称抢生意",
+      "onboard_time": 1704607230,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158879,
+      "num": 158879,
+      "word": "年会不能停",
+      "onboard_time": 1704605912,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158780,
       "num": 158780,
       "word": "苏有朋演唱会嘉宾是谢娜",
@@ -817,6 +881,14 @@
       "onboard_time": 1704583400,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156690,
+      "num": 156690,
+      "word": "有必要将义务教育延长至12年吗",
+      "onboard_time": 1704607947,
+      "rank": 28,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 156593,
@@ -939,6 +1011,14 @@
       "category": "运动健身,社会新闻"
     },
     {
+      "raw_hot": 133629,
+      "num": 133629,
+      "word": "狗狗偷咬主人被抓包急忙捂嘴",
+      "onboard_time": 1704606329,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133553,
       "num": 133553,
       "word": "周深汪苏泷质问容祖儿",
@@ -961,6 +1041,14 @@
       "onboard_time": 1704587969,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130140,
+      "num": 130140,
+      "word": "陈楚生声生不息Vlog",
+      "onboard_time": 1704607289,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 130085,
@@ -1073,14 +1161,6 @@
       "onboard_time": 1704586165,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116919,
-      "num": 116919,
-      "word": "长期横向刷牙或会致牙齿缺损",
-      "onboard_time": 1704605490,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 116870,
@@ -1235,12 +1315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102718,
+      "num": 102718,
+      "word": "因为月心他决定成为一个恶魔",
+      "onboard_time": 1704607889,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101672,
       "num": 101672,
       "word": "龙茅第三方平台加价3000报价5499",
       "onboard_time": 1704594869,
       "rank": 47,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 101564,
+      "num": 101564,
+      "word": "游客来之前尔滨组团排bug",
+      "onboard_time": 1704608250,
+      "rank": 45,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 101414,
@@ -1311,6 +1407,22 @@
       "num": 94126,
       "word": "当南方小土豆在北方当老师时",
       "onboard_time": 1704584482,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 92876,
+      "num": 92876,
+      "word": "自然醒是最奢侈也是最快乐的事",
+      "onboard_time": 1704608188,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 91798,
+      "num": 91798,
+      "word": "找老板报销钱给少了",
+      "onboard_time": 1704607170,
       "rank": 49,
       "category": "幽默"
     },
