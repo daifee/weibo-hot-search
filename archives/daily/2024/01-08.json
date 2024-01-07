@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704647704616,
+  "endTime": 1704648846636,
   "band_list": [
     {
       "raw_hot": 1217319,
@@ -195,6 +195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158140,
+      "num": 158140,
+      "word": "南宁地铁回应广告画争议",
+      "onboard_time": 1704645683,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154834,
       "num": 154834,
       "word": "沈春阳想见朱一龙",
@@ -281,14 +289,6 @@
       "onboard_time": 1704638496,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103904,
-      "num": 103904,
-      "word": "南宁地铁回应广告画争议",
-      "onboard_time": 1704645683,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99918,
@@ -419,17 +419,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34859,
+      "num": 34859,
+      "word": "胡歌 魅力依旧",
+      "onboard_time": 1704629371,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31608,
       "num": 46839,
       "word": "张大大穿增高鞋没关晓彤高",
       "onboard_time": 1704622772,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30553,
+      "num": 33244,
+      "word": "第一次见rua猫头鹰的",
+      "onboard_time": 1704648079,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 28544,
+      "num": 33206,
+      "word": "傅菁翻跳guilty",
+      "onboard_time": 1704647900,
+      "rank": 48,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
     {
       "word": "#轨道上的京津冀加速形成#"
+    },
+    {
+      "word": "#正风反腐永远吹冲锋号#"
     }
   ]
 }
