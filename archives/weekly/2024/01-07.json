@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704659670198,
+  "endTime": 1704662109208,
   "band_list": [
     {
       "raw_hot": 2625653,
@@ -2995,6 +2995,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 55145,
+      "num": 55145,
+      "word": "张碧晨尾号920的完美不收官",
+      "onboard_time": 1704656954,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 51908,
       "num": 304346,
       "word": "元梦的第一个百大up主",
@@ -3139,12 +3147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20547,
-      "num": 23128,
-      "word": "张碧晨尾号920的完美不收官",
-      "onboard_time": 1704656954,
-      "rank": 23,
-      "category": "演出"
+      "raw_hot": 20404,
+      "num": 20404,
+      "word": "男子乘扶梯致玻璃炸裂被超市索赔8300",
+      "onboard_time": 1704658513,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17398,
@@ -3171,12 +3179,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13473,
-      "num": 13473,
-      "word": "男子乘扶梯致玻璃炸裂被超市索赔8300",
-      "onboard_time": 1704658513,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 11952,
+      "num": 11952,
+      "word": "几年没联系的同学找我要份子钱",
+      "onboard_time": 1704661333,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 10981,
