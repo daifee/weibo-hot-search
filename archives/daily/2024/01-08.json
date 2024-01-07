@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704645457299,
+  "endTime": 1704647704616,
   "band_list": [
     {
       "raw_hot": 1217319,
@@ -24,6 +24,14 @@
       "word": "胖东来你装个红绿灯吧",
       "onboard_time": 1704639756,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 680831,
+      "num": 680831,
+      "word": "复旦流浪博士已与家乡取得联系",
+      "onboard_time": 1704643350,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -80,14 +88,6 @@
       "word": "贪官花40多万元建了条500米断头路",
       "onboard_time": 1704635556,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398679,
-      "num": 398679,
-      "word": "复旦流浪博士已与家乡取得联系",
-      "onboard_time": 1704643350,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -155,8 +155,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 249169,
-      "num": 249169,
+      "raw_hot": 255516,
+      "num": 255516,
       "word": "天启异闻录 烂尾",
       "onboard_time": 1704643708,
       "rank": 26,
@@ -281,6 +281,14 @@
       "onboard_time": 1704638496,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103904,
+      "num": 103904,
+      "word": "南宁地铁回应广告画争议",
+      "onboard_time": 1704645683,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99918,
@@ -409,6 +417,14 @@
       "onboard_time": 1704622352,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31608,
+      "num": 46839,
+      "word": "张大大穿增高鞋没关晓彤高",
+      "onboard_time": 1704622772,
+      "rank": 47,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
