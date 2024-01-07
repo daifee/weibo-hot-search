@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704612858058,
+  "endTime": 1704615653929,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -907,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1308638,
+      "num": 1308638,
+      "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
+      "onboard_time": 1704611608,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1298550,
       "num": 1298550,
       "word": "伊朗爆炸事件死亡人数上升至103人",
@@ -1088,6 +1096,14 @@
       "word": "日本今日已连发3次地震",
       "onboard_time": 1704095795,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1162533,
+      "num": 697284,
+      "word": "当地回应冰锥砸死大学生",
+      "onboard_time": 1704610888,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704415773,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 757202,
-      "num": 757202,
-      "word": "范湉湉繁花演技",
-      "onboard_time": 1704324805,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 756526,
-      "num": 726424,
-      "word": "陈哲远 枭起青壤",
-      "onboard_time": 1704201936,
-      "rank": 18,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
