@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704636898168,
+  "endTime": 1704638038689,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -657,6 +657,14 @@
       "onboard_time": 1704546575,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1499413,
+      "num": 1499413,
+      "word": "华图 敢耍老子",
+      "onboard_time": 1704635614,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1498987,
@@ -1467,14 +1475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1046230,
-      "num": 1046230,
-      "word": "华图 敢耍老子",
-      "onboard_time": 1704635614,
-      "rank": 3,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1043718,
       "num": 1043718,
       "word": "3同学租车出车祸开车同学遭索赔59万",
@@ -1752,6 +1752,14 @@
       "word": "小砂糖橘每人配了1个漠河消防员",
       "onboard_time": 1704359011,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 956831,
+      "num": 956831,
+      "word": "贪官花40多万元建了条500米断头路",
+      "onboard_time": 1704635556,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2267,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807345,
+      "num": 274717,
+      "word": "我爸退出了家人群",
+      "onboard_time": 1704637175,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 806211,
       "num": 806211,
       "word": "谁是2024跨年晚会最忙艺人",
@@ -2289,6 +2305,14 @@
       "onboard_time": 1704027843,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 804292,
+      "num": 804292,
+      "word": "韩国好丽友蛋黄派检出金黄色葡萄球菌",
+      "onboard_time": 1704635614,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 802541,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1704204577,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 789857,
-      "num": 789857,
-      "word": "免费拉游客的劳斯莱斯车主找到了",
-      "onboard_time": 1704340173,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 789511,
-      "num": 499950,
-      "word": "日本地震已造成至少24人死亡",
-      "onboard_time": 1704166538,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 789170,
-      "num": 789170,
-      "word": "清华一本科生转学至双非院校",
-      "onboard_time": 1704279337,
-      "rank": 20,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

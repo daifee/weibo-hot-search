@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704636898168,
+  "endTime": 1704638038689,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -657,6 +657,14 @@
       "onboard_time": 1704546575,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1499413,
+      "num": 1499413,
+      "word": "华图 敢耍老子",
+      "onboard_time": 1704635614,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1498987,
@@ -1467,14 +1475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1046230,
-      "num": 1046230,
-      "word": "华图 敢耍老子",
-      "onboard_time": 1704635614,
-      "rank": 3,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1043718,
       "num": 1043718,
       "word": "3同学租车出车祸开车同学遭索赔59万",
@@ -1752,6 +1752,14 @@
       "word": "小砂糖橘每人配了1个漠河消防员",
       "onboard_time": 1704359011,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 956831,
+      "num": 956831,
+      "word": "贪官花40多万元建了条500米断头路",
+      "onboard_time": 1704635556,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2267,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807345,
+      "num": 274717,
+      "word": "我爸退出了家人群",
+      "onboard_time": 1704637175,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 806211,
       "num": 806211,
       "word": "谁是2024跨年晚会最忙艺人",
@@ -2289,6 +2305,14 @@
       "onboard_time": 1704027843,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 804292,
+      "num": 804292,
+      "word": "韩国好丽友蛋黄派检出金黄色葡萄球菌",
+      "onboard_time": 1704635614,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 802541,
@@ -3963,14 +3987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 565844,
-      "num": 565844,
-      "word": "贪官花40多万元建了条500米断头路",
-      "onboard_time": 1704635556,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 562057,
       "num": 381527,
       "word": "警方通报女子在家中被邻居抢劫杀害",
@@ -4113,6 +4129,14 @@
       "onboard_time": 1704444573,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 549806,
+      "num": 549806,
+      "word": "影评人说赵丽颖花千骨灵动鲜活",
+      "onboard_time": 1704635914,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 549493,
@@ -4939,14 +4963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 480492,
-      "num": 480492,
-      "word": "影评人说赵丽颖花千骨灵动鲜活",
-      "onboard_time": 1704635914,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 478527,
       "num": 478527,
       "word": "圆通韵达京东物流被约谈",
@@ -5305,14 +5321,6 @@
       "onboard_time": 1704151404,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 442004,
-      "num": 442004,
-      "word": "韩国好丽友蛋黄派检出金黄色葡萄球菌",
-      "onboard_time": 1704635614,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441693,
@@ -6625,6 +6633,14 @@
       "onboard_time": 1704098798,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343120,
+      "num": 343120,
+      "word": "A先生说辛芷蕾本人很漂亮",
+      "onboard_time": 1704637355,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 342830,
@@ -10987,6 +11003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196358,
+      "num": 196358,
+      "word": "考古的风终于吹到了胡歌陈龙",
+      "onboard_time": 1704637475,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196355,
       "num": 196355,
       "word": "掘金vs勇士",
@@ -11369,6 +11393,14 @@
       "onboard_time": 1704500908,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191519,
+      "num": 191519,
+      "word": "哈工大学长杨柏汇回应被关注",
+      "onboard_time": 1704637055,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191503,
@@ -12081,6 +12113,14 @@
       "onboard_time": 1704454171,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180217,
+      "num": 180217,
+      "word": "钎九 又幸福了",
+      "onboard_time": 1704637776,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 180067,
@@ -12931,6 +12971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168421,
+      "num": 168421,
+      "word": "反腐大片持续发力纵深推进第二集",
+      "onboard_time": 1704637055,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168346,
       "num": 168346,
       "word": "兔牙时代",
@@ -13073,6 +13121,14 @@
       "onboard_time": 1704357995,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 165877,
+      "num": 165877,
+      "word": "热烈编剧对着王一博照片写剧本",
+      "onboard_time": 1704637596,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 165830,
@@ -13441,6 +13497,14 @@
       "onboard_time": 1704428134,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160143,
+      "num": 160143,
+      "word": "联合杯德国队夺冠",
+      "onboard_time": 1704636937,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 160064,
@@ -14851,6 +14915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140967,
+      "num": 140967,
+      "word": "新疆男篮战胜广东男篮",
+      "onboard_time": 1704636937,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140909,
       "num": 140909,
       "word": "尔滨火到股市",
@@ -15555,6 +15627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131486,
+      "num": 1275495,
+      "word": "全国各地开年即开跑",
+      "onboard_time": 1704634833,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131467,
       "num": 131467,
       "word": "高合否认所有工作暂停",
@@ -15640,14 +15720,6 @@
       "word": "大滑梯排队现场2小土豆帮清理垃圾",
       "onboard_time": 1704363393,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130362,
-      "num": 1110009,
-      "word": "全国各地开年即开跑",
-      "onboard_time": 1704634833,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -16515,6 +16587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118698,
+      "num": 118698,
+      "word": "2024联合杯",
+      "onboard_time": 1704637415,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118673,
       "num": 118673,
       "word": "床 人类的无线充电器",
@@ -16529,6 +16609,14 @@
       "onboard_time": 1704375394,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 118524,
+      "num": 118524,
+      "word": "素人爆改妆容",
+      "onboard_time": 1704637596,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 118474,
@@ -17433,6 +17521,14 @@
       "onboard_time": 1704386483,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 97543,
+      "num": 107571,
+      "word": "三个人的尴尬有多好笑",
+      "onboard_time": 1704638016,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 97522,
