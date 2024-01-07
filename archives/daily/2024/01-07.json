@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704601272149,
+  "endTime": 1704602119748,
   "band_list": [
     {
       "raw_hot": 2201623,
@@ -19,8 +19,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1201470,
-      "num": 1201470,
+      "raw_hot": 1367178,
+      "num": 1367178,
       "word": "专家建议取消大城市买房买车限制",
       "onboard_time": 1704598291,
       "rank": 42,
@@ -80,6 +80,14 @@
       "word": "央视曝辽宁3任公安厅长落马细节",
       "onboard_time": 1704553356,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 742677,
+      "num": 742677,
+      "word": "浙大一院半月接收47名围炉煮茶中毒患者",
+      "onboard_time": 1704599250,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -147,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 610443,
-      "num": 610443,
-      "word": "浙大一院半月接收47名围炉煮茶中毒患者",
-      "onboard_time": 1704599250,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 604454,
       "num": 604454,
       "word": "央视评繁花",
@@ -201,6 +201,14 @@
       "onboard_time": 1704594932,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 524762,
+      "num": 524762,
+      "word": "四川省考 考场没钟表",
+      "onboard_time": 1704600091,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 514758,
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410175,
+      "num": 410175,
+      "word": "李楷灿病休",
+      "onboard_time": 1704601231,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407138,
       "num": 407138,
       "word": "车银优今天长这样",
@@ -331,12 +347,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 386128,
-      "num": 386128,
-      "word": "四川省考 考场没钟表",
-      "onboard_time": 1704600091,
-      "rank": 14,
-      "category": "教育"
+      "raw_hot": 377211,
+      "num": 377211,
+      "word": "微博之夜第四波官宣阵容",
+      "onboard_time": 1704601291,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 371793,
@@ -403,6 +419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 306403,
+      "num": 306403,
+      "word": "教育部辟谣缩短学制取消中考",
+      "onboard_time": 1704601713,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 302570,
       "num": 302570,
       "word": "三天60亿",
@@ -417,6 +441,22 @@
       "onboard_time": 1704586585,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 294907,
+      "num": 294907,
+      "word": "研究发现内脏脂肪越多大脑越小",
+      "onboard_time": 1704601713,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 288776,
+      "num": 288776,
+      "word": "国内女足球员限薪120万",
+      "onboard_time": 1704600990,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 288667,
@@ -443,6 +483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253359,
+      "num": 253359,
+      "word": "男子凌晨逐户试锁开门成功进入一户",
+      "onboard_time": 1704600990,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248199,
+      "num": 248199,
+      "word": "彭小苒雪地公主妆",
+      "onboard_time": 1704601231,
+      "rank": 29,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 233533,
       "num": 233533,
       "word": "黑龙江又回赠广西10万盒蔓越莓",
@@ -465,14 +521,6 @@
       "onboard_time": 1704527733,
       "rank": 21,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 222418,
-      "num": 222418,
-      "word": "国内女足球员限薪120万",
-      "onboard_time": 1704600990,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 220309,
@@ -499,6 +547,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214112,
+      "num": 214112,
+      "word": "张杰张靓颖 沉香",
+      "onboard_time": 1704600811,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 212826,
+      "num": 212826,
+      "word": "陈奕迅巡演内地首唱富士山下",
+      "onboard_time": 1704596728,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212795,
       "num": 212795,
       "word": "小朋友哈尔滨机场爆哭不肯离开",
@@ -513,14 +577,6 @@
       "onboard_time": 1704595409,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210185,
-      "num": 210185,
-      "word": "陈奕迅巡演内地首唱富士山下",
-      "onboard_time": 1704596728,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 208967,
@@ -571,20 +627,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 188654,
-      "num": 188654,
-      "word": "彭小苒雪地公主妆",
-      "onboard_time": 1704601231,
-      "rank": 29,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 188232,
       "num": 188232,
       "word": "为什么月经会延后",
       "onboard_time": 1704546995,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 185708,
+      "num": 185708,
+      "word": "哈尔滨当地人搓澡都戒半个月了",
+      "onboard_time": 1704601472,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183689,
@@ -649,14 +705,6 @@
       "onboard_time": 1704542913,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169474,
-      "num": 169474,
-      "word": "男子凌晨逐户试锁开门成功进入一户",
-      "onboard_time": 1704600990,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165153,
@@ -739,14 +787,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 150815,
-      "num": 150815,
-      "word": "张杰张靓颖 沉香",
-      "onboard_time": 1704600811,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 150638,
       "num": 150638,
       "word": "海贼王新主题曲OP",
@@ -769,6 +809,14 @@
       "onboard_time": 1704541293,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145354,
+      "num": 145354,
+      "word": "微信私密朋友圈bug已修复",
+      "onboard_time": 1704601713,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 145245,
@@ -883,6 +931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122491,
+      "num": 122491,
+      "word": "四川省考答案",
+      "onboard_time": 1704601951,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 122418,
       "num": 122418,
       "word": "大哥为救人练长跑90次跑赢救护车",
@@ -963,20 +1019,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 110791,
-      "num": 110791,
-      "word": "李楷灿病休",
-      "onboard_time": 1704601231,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109241,
       "num": 109241,
       "word": "首批广西砂糖橘在哈尔滨免费发放",
       "onboard_time": 1704596429,
       "rank": 45,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 108953,
+      "num": 108953,
+      "word": "深圳市考",
+      "onboard_time": 1704602071,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 108304,
@@ -1156,7 +1212,7 @@
     },
     {
       "raw_hot": 77594,
-      "num": 753094,
+      "num": 895779,
       "word": "中国冰雪季大联欢",
       "onboard_time": 1704596369,
       "rank": 2,
@@ -1278,6 +1334,9 @@
   "hotgov_list": [
     {
       "word": "#以自强不息的精神奋力攀登#"
+    },
+    {
+      "word": "#轨道上的京津冀加速形成#"
     }
   ]
 }

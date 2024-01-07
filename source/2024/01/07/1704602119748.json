@@ -1,0 +1,410 @@
+{
+  "runTime": 1704602119748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1835208,
+        "num": 1835208,
+        "word": "微信私密朋友圈被吐槽有bug",
+        "onboard_time": 1704594689,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1367178,
+        "num": 1367178,
+        "word": "专家建议取消大城市买房买车限制",
+        "onboard_time": 1704598291,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69579,
+        "num": 895779,
+        "word": "中国冰雪季大联欢",
+        "onboard_time": 1704596369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742677,
+        "num": 742677,
+        "word": "浙大一院半月接收47名围炉煮茶中毒患者",
+        "onboard_time": 1704599250,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632339,
+        "num": 632339,
+        "word": "辛芷蕾因绣春刀被王家卫选中",
+        "onboard_time": 1704595052,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 630329,
+        "num": 630329,
+        "word": "国考成绩 等一个奇迹",
+        "onboard_time": 1704597511,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 561802,
+        "num": 561802,
+        "word": "四川省考 做不完根本做不完",
+        "onboard_time": 1704598291,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 524762,
+        "num": 524762,
+        "word": "四川省考 考场没钟表",
+        "onboard_time": 1704600091,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 410175,
+        "num": 410175,
+        "word": "李楷灿病休",
+        "onboard_time": 1704601231,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397946,
+        "num": 397946,
+        "word": "厌食症 早起",
+        "onboard_time": 1704594932,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 894026,
+        "num": 397854,
+        "word": "霍金",
+        "onboard_time": 1704594028,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734697,
+        "num": 397477,
+        "word": "三喜的肠肠",
+        "onboard_time": 1704596190,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396131,
+        "num": 396131,
+        "word": "鸣龙少年编剧 参加过高考吗",
+        "onboard_time": 1704592650,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391805,
+        "num": 391805,
+        "word": "女孩骨折忍痛赶飞机邻座是骨科主任",
+        "onboard_time": 1704584482,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388083,
+        "num": 388083,
+        "word": "订婚3年后男子反悔索要18万彩礼",
+        "onboard_time": 1704596369,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377211,
+        "num": 377211,
+        "word": "微博之夜第四波官宣阵容",
+        "onboard_time": 1704601291,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308346,
+        "num": 308346,
+        "word": "张若昀长文",
+        "onboard_time": 1704545671,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306403,
+        "num": 306403,
+        "word": "教育部辟谣缩短学制取消中考",
+        "onboard_time": 1704601713,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 305414,
+        "num": 305414,
+        "word": "四川省考 数量全靠蒙",
+        "onboard_time": 1704598114,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 305333,
+        "num": 305333,
+        "word": "王石否认田朴珺傍大款",
+        "onboard_time": 1704599250,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 303874,
+        "num": 303874,
+        "word": "尔滨送女生1000克拉冰钻戒",
+        "onboard_time": 1704591751,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300400,
+        "num": 300400,
+        "word": "死期将至 爆哭",
+        "onboard_time": 1704584842,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294907,
+        "num": 294907,
+        "word": "研究发现内脏脂肪越多大脑越小",
+        "onboard_time": 1704601713,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 288776,
+        "num": 288776,
+        "word": "国内女足球员限薪120万",
+        "onboard_time": 1704600990,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253359,
+        "num": 253359,
+        "word": "男子凌晨逐户试锁开门成功进入一户",
+        "onboard_time": 1704600990,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248199,
+        "num": 248199,
+        "word": "彭小苒雪地公主妆",
+        "onboard_time": 1704601231,
+        "rank": 25,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 222156,
+        "num": 222156,
+        "word": "3同学租车出车祸开车同学遭索赔59万",
+        "onboard_time": 1704591990,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214112,
+        "num": 214112,
+        "word": "张杰张靓颖 沉香",
+        "onboard_time": 1704600811,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212826,
+        "num": 212826,
+        "word": "陈奕迅巡演内地首唱富士山下",
+        "onboard_time": 1704596728,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210094,
+        "num": 210094,
+        "word": "iPhone电池门赔款到账",
+        "onboard_time": 1704587484,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 209459,
+        "num": 209459,
+        "word": "12岁肺纤维化女孩现在怎样了",
+        "onboard_time": 1704593969,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197962,
+        "num": 197962,
+        "word": "4月大女婴被遗弃警方已送福利院",
+        "onboard_time": 1704598588,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196166,
+        "num": 196166,
+        "word": "爱泼斯坦文件",
+        "onboard_time": 1704590370,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185708,
+        "num": 185708,
+        "word": "哈尔滨当地人搓澡都戒半个月了",
+        "onboard_time": 1704601472,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175680,
+        "num": 175680,
+        "word": "丞磊的综艺感一期比一期离谱",
+        "onboard_time": 1704595650,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169137,
+        "num": 169137,
+        "word": "檀健次一句话把何炅整懵了",
+        "onboard_time": 1704595227,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168922,
+        "num": 168922,
+        "word": "各省小朋友名字一览",
+        "onboard_time": 1704596429,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161721,
+        "num": 161721,
+        "word": "微博处置哈尔滨旅游爆火中挑动对立账号",
+        "onboard_time": 1704595409,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149166,
+        "num": 149166,
+        "word": "中方决定制裁5家美国军工企业",
+        "onboard_time": 1704590969,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145354,
+        "num": 145354,
+        "word": "微信私密朋友圈bug已修复",
+        "onboard_time": 1704601713,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141731,
+        "num": 141731,
+        "word": "小砂糖橘遇见顶流企鹅还撞衫了",
+        "onboard_time": 1704589831,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134538,
+        "num": 134538,
+        "word": "留美流浪博士发声",
+        "onboard_time": 1704593611,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122491,
+        "num": 122491,
+        "word": "四川省考答案",
+        "onboard_time": 1704601951,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118439,
+        "num": 118439,
+        "word": "花少北时隔2年再获百大",
+        "onboard_time": 1704589110,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118229,
+        "num": 118229,
+        "word": "张若昀 女团腿",
+        "onboard_time": 1704551376,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113464,
+        "num": 113464,
+        "word": "新疆真的是碳水天堂",
+        "onboard_time": 1704599191,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112349,
+        "num": 112349,
+        "word": "王家卫希望胡歌找回演李逍遥的感觉",
+        "onboard_time": 1704548736,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112138,
+        "num": 112138,
+        "word": "女子多次仅退款后又偷取走快递",
+        "onboard_time": 1704562401,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110739,
+        "num": 110739,
+        "word": "黑龙江有蔓越莓本地人都不知道",
+        "onboard_time": 1704590672,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 108953,
+        "num": 108953,
+        "word": "深圳市考",
+        "onboard_time": 1704602071,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#轨道上的京津冀加速形成#"
+    }
+  }
+}
