@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704618978007,
+  "endTime": 1704620052034,
   "band_list": [
     {
       "raw_hot": 2201623,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 949359,
+      "num": 949359,
+      "word": "第一部国产偶像剧男主是陈龙",
+      "onboard_time": 1704616229,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 945338,
       "num": 420747,
       "word": "三喜的肠肠",
@@ -107,12 +115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 850168,
-      "num": 850168,
-      "word": "第一部国产偶像剧男主是陈龙",
-      "onboard_time": 1704616229,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 942300,
+      "num": 942300,
+      "word": "主播展示百万帝王绿翡翠手滑掉河里",
+      "onboard_time": 1704617790,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 802541,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583735,
+      "num": 583735,
+      "word": "东北人保密意识真好",
+      "onboard_time": 1704617790,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 553350,
       "num": 553350,
       "word": "砂糖橘东北睡1宿变果脯",
@@ -296,14 +312,6 @@
       "word": "大四男生租房被房东奶奶当亲孙照顾",
       "onboard_time": 1704613952,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541899,
-      "num": 541899,
-      "word": "主播展示百万帝王绿翡翠手滑掉河里",
-      "onboard_time": 1704617790,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -427,14 +435,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 418125,
-      "num": 418125,
-      "word": "东北人保密意识真好",
-      "onboard_time": 1704617790,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 415464,
       "num": 412435,
       "word": "被冰锥砸中倒地的大学生已身亡",
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402558,
+      "num": 402558,
+      "word": "打工人的生理期",
+      "onboard_time": 1704615749,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 398532,
       "num": 398532,
       "word": "马立奥cos天天",
@@ -515,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 381040,
-      "num": 381040,
-      "word": "打工人的生理期",
-      "onboard_time": 1704615749,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 371793,
       "num": 371793,
       "word": "江苏发现1例罕见小P血型",
@@ -537,6 +537,14 @@
       "onboard_time": 1704601472,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356369,
+      "num": 356369,
+      "word": "期末复习小孩哥头像",
+      "onboard_time": 1704618329,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 351603,
@@ -579,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326501,
+      "num": 326501,
+      "word": "送外卖供复旦大学弟弟读书",
+      "onboard_time": 1704617131,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323707,
       "num": 323707,
       "word": "王石否认田朴珺傍大款",
@@ -593,14 +609,6 @@
       "onboard_time": 1704600811,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 315267,
-      "num": 315267,
-      "word": "送外卖供复旦大学弟弟读书",
-      "onboard_time": 1704617131,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 313906,
@@ -691,6 +699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281052,
+      "num": 281052,
+      "word": "四川申论",
+      "onboard_time": 1704618152,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 279496,
       "num": 279496,
       "word": "杨紫港风奶茶妆",
@@ -739,12 +755,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252146,
-      "num": 252146,
-      "word": "期末复习小孩哥头像",
-      "onboard_time": 1704618329,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 253284,
+      "num": 253284,
+      "word": "胡歌称和王家卫合作像谈恋爱",
+      "onboard_time": 1704616889,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 250039,
+      "num": 250039,
+      "word": "乙流和甲流啥区别",
+      "onboard_time": 1704618872,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 248199,
@@ -763,14 +787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 246409,
-      "num": 246409,
-      "word": "四川申论",
-      "onboard_time": 1704618152,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 241621,
       "num": 241621,
       "word": "为什么年轻人热衷于祈福了",
@@ -779,12 +795,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240574,
+      "num": 240574,
+      "word": "黑龙江蔓越莓",
+      "onboard_time": 1704619592,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 233533,
       "num": 233533,
       "word": "黑龙江又回赠广西10万盒蔓越莓",
       "onboard_time": 1704588628,
       "rank": 21,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 233030,
+      "num": 233030,
+      "word": "四川小熊猫已到尔滨报道",
+      "onboard_time": 1704618329,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232854,
@@ -923,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195657,
+      "num": 195657,
+      "word": "国色芳华剧组抓代拍",
+      "onboard_time": 1704619470,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194839,
       "num": 194839,
       "word": "靠申论逆风翻盘",
@@ -948,19 +988,11 @@
     },
     {
       "raw_hot": 191567,
-      "num": 194656,
+      "num": 212623,
       "word": "美军舰在红海击落一架无人机",
       "onboard_time": 1704614969,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 190847,
-      "num": 190847,
-      "word": "胡歌称和王家卫合作像谈恋爱",
-      "onboard_time": 1704616889,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 188232,
@@ -1001,14 +1033,6 @@
       "onboard_time": 1704593370,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 181264,
-      "num": 181264,
-      "word": "四川小熊猫已到尔滨报道",
-      "onboard_time": 1704618329,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180827,
@@ -1307,14 +1331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142505,
-      "num": 142505,
-      "word": "乙流和甲流啥区别",
-      "onboard_time": 1704618872,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 140202,
       "num": 140202,
       "word": "宋江金裕贞古装",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1704588087,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133057,
+      "num": 133057,
+      "word": "周笔畅演唱会穿了六套高定",
+      "onboard_time": 1704619529,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 133012,
@@ -1457,6 +1481,14 @@
       "onboard_time": 1704609390,
       "rank": 31,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 126009,
+      "num": 126009,
+      "word": "大熊猫渝爱背后真的没有拉链吗",
+      "onboard_time": 1704618450,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125231,
@@ -1571,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114455,
+      "num": 114455,
+      "word": "朝鲜否认6日进行炮击训练",
+      "onboard_time": 1704619771,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 114089,
       "num": 114089,
       "word": "如果奔跑是我的人生定档",
@@ -1603,12 +1643,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 109105,
-      "num": 109105,
-      "word": "大熊猫渝爱背后真的没有拉链吗",
-      "onboard_time": 1704618450,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 109096,
+      "num": 109096,
+      "word": "霉霉大电影 美到我心软软",
+      "onboard_time": 1704619951,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 109082,
@@ -1795,6 +1835,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 98021,
+      "num": 98021,
+      "word": "日本地震导致部分海域变陆地",
+      "onboard_time": 1704620012,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97920,
       "num": 97920,
       "word": "小象甚至还薅了点牛毛尝尝",
@@ -1916,7 +1964,7 @@
     },
     {
       "raw_hot": 83823,
-      "num": 676768,
+      "num": 826768,
       "word": "东部战区新年开飞高燃画面",
       "onboard_time": 1704615628,
       "rank": 2,
