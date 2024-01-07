@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704609268245,
+  "endTime": 1704611744774,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1203,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1131528,
+      "num": 1131528,
+      "word": "庄嫂摔碗 郑恺关门",
+      "onboard_time": 1704608548,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1127116,
       "num": 815447,
       "word": "马立奥镜头太少了",
@@ -2315,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774048,
+      "num": 774048,
+      "word": "研究发现内脏脂肪越多大脑越小",
+      "onboard_time": 1704601713,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 773410,
       "num": 773410,
       "word": "王楚钦总决赛男单夺冠",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704201936,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 753595,
-      "num": 643950,
-      "word": "月经同步只是一种巧合",
-      "onboard_time": 1704539190,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 751793,
-      "num": 751793,
-      "word": "罗非鱼皮移植",
-      "onboard_time": 1704081575,
-      "rank": 33,
-      "category": "科学科普"
     }
   ],
   "hotgov_list": [

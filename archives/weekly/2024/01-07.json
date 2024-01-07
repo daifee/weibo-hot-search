@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704609268245,
+  "endTime": 1704611744774,
   "band_list": [
     {
       "raw_hot": 2201623,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1131528,
+      "num": 1131528,
+      "word": "庄嫂摔碗 郑恺关门",
+      "onboard_time": 1704608548,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1043718,
       "num": 1043718,
       "word": "3同学租车出车祸开车同学遭索赔59万",
@@ -83,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774048,
+      "num": 774048,
+      "word": "研究发现内脏脂肪越多大脑越小",
+      "onboard_time": 1704601713,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 762716,
       "num": 762716,
       "word": "央视曝辽宁3任公安厅长落马细节",
       "onboard_time": 1704553356,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 738754,
-      "num": 738754,
-      "word": "研究发现内脏脂肪越多大脑越小",
-      "onboard_time": 1704601713,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 737858,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623607,
+      "num": 623607,
+      "word": "哈工大学长杨柏汇因笑容温柔被关注",
+      "onboard_time": 1704608849,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 605675,
       "num": 236278,
       "word": "女子拍完写真全身痒到抓出血",
@@ -243,11 +259,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 518614,
+      "num": 518614,
+      "word": "有必要将义务教育延长至12年吗",
+      "onboard_time": 1704607947,
+      "rank": 28,
+      "category": "教育,社会议题"
+    },
+    {
       "raw_hot": 514758,
       "num": 412357,
       "word": "爱泼斯坦文件",
       "onboard_time": 1704590370,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501868,
+      "num": 501868,
+      "word": "高管违法辞退员工态度嚣张",
+      "onboard_time": 1704609988,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -435,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 336593,
-      "num": 336593,
-      "word": "庄嫂摔碗 郑恺关门",
-      "onboard_time": 1704608548,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 334890,
       "num": 334890,
       "word": "去哈尔滨的诱惑已打败艾莎公主",
@@ -539,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274266,
+      "num": 274266,
+      "word": "当地回应冰锥砸死大学生",
+      "onboard_time": 1704610888,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268992,
       "num": 268992,
       "word": "小砂糖橘遇见顶流企鹅还撞衫了",
@@ -553,14 +585,6 @@
       "onboard_time": 1704589411,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257159,
-      "num": 257159,
-      "word": "有必要将义务教育延长至12年吗",
-      "onboard_time": 1704607947,
-      "rank": 28,
-      "category": "教育,社会议题"
     },
     {
       "raw_hot": 253359,
@@ -736,14 +760,6 @@
       "word": "靠申论逆风翻盘",
       "onboard_time": 1704603693,
       "rank": 29,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 193020,
-      "num": 193020,
-      "word": "哈工大学长杨柏汇因笑容温柔被关注",
-      "onboard_time": 1704608849,
-      "rank": 25,
       "category": "教育"
     },
     {
@@ -955,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152108,
+      "num": 152108,
+      "word": "男子被热气球倒吊带飞众人拉回",
+      "onboard_time": 1704611129,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151995,
       "num": 151995,
       "word": "把牙刷头罩起来会更卫生吗",
@@ -985,6 +1009,14 @@
       "onboard_time": 1704541293,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145396,
+      "num": 145396,
+      "word": "东北菜为什么分量这么足",
+      "onboard_time": 1704610229,
+      "rank": 27,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 145354,
@@ -1115,6 +1147,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 127317,
+      "num": 127317,
+      "word": "出生几个月大的小伯第一次见到雪",
+      "onboard_time": 1704610888,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 126189,
+      "num": 126189,
+      "word": "平价消费席卷年轻人",
+      "onboard_time": 1704609390,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 123506,
       "num": 123506,
       "word": "死期将至立意",
@@ -1171,12 +1219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121055,
+      "num": 121055,
+      "word": "代餐型单身",
+      "onboard_time": 1704611668,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120981,
       "num": 120981,
       "word": "4月大女婴被遗弃纸条写无力抚养",
       "onboard_time": 1704545252,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119509,
+      "num": 119509,
+      "word": "小孩姐跟哈尔滨DJ疯狂摇头挥手",
+      "onboard_time": 1704610649,
+      "rank": 35,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 118326,
@@ -1387,6 +1451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98783,
+      "num": 98783,
+      "word": "小砂糖橘的吉林研学之旅",
+      "onboard_time": 1704610468,
+      "rank": 42,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 97731,
       "num": 97731,
       "word": "原来是三个人的尴尬",
@@ -1417,6 +1489,14 @@
       "onboard_time": 1704561681,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95888,
+      "num": 95888,
+      "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
+      "onboard_time": 1704611608,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94924,
@@ -1465,6 +1545,30 @@
       "onboard_time": 1704607170,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90714,
+      "num": 90714,
+      "word": "广东一高校寒假长达49天",
+      "onboard_time": 1704609929,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 88745,
+      "num": 88745,
+      "word": "年会不能停笑点",
+      "onboard_time": 1704610171,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 88542,
+      "num": 88542,
+      "word": "兽医用随叫随到报答困难时乡亲的支持",
+      "onboard_time": 1704611729,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80391,
@@ -1553,6 +1657,14 @@
       "onboard_time": 1704576614,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24003,
+      "num": 863502,
+      "word": "中国开年干出开门红",
+      "onboard_time": 1704596010,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23750,
