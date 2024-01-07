@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/07 12:35:19
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/07 13:16:52
 </p>
 </blockquote>
 <p>
@@ -1623,6 +1623,12 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E4%B8%80%E9%99%A2%E5%8D%8A%E6%9C%88%E6%8E%A5%E6%94%B647%E5%90%8D%E5%9B%B4%E7%82%89%E7%85%AE%E8%8C%B6%E4%B8%AD%E6%AF%92%E6%82%A3%E8%80%85%23" target="weibo">
+浙大一院半月接收47名围炉煮茶中毒患者（热度：802541）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%82%E7%B3%96%E6%A9%98%E4%B8%9C%E5%8C%97%E7%9D%A11%E5%AE%BF%E5%8F%98%E6%9E%9C%E8%84%AF%23" target="weibo">
 砂糖橘东北睡1宿变果脯（热度：801420）
 </a>
@@ -1847,12 +1853,6 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E5%9B%B4%20%E8%BF%99%E6%AC%A1%E8%B5%B6%E4%B8%8A%E6%9C%B1%E4%B8%B9%E7%9A%84%E5%98%B4%23" target="weibo">
 周一围 这次赶上朱丹的嘴（热度：742880）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E4%B8%80%E9%99%A2%E5%8D%8A%E6%9C%88%E6%8E%A5%E6%94%B647%E5%90%8D%E5%9B%B4%E7%82%89%E7%85%AE%E8%8C%B6%E4%B8%AD%E6%AF%92%E6%82%A3%E8%80%85%23" target="weibo">
-浙大一院半月接收47名围炉煮茶中毒患者（热度：742677）
 </a>
 </li>
 
@@ -2697,6 +2697,12 @@ A股（热度：590866）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%23" target="weibo">
+教育部辟谣缩短学制取消中考（热度：585290）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2338%E5%9F%8E%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E8%B6%851%E4%B8%87%E5%85%83%23" target="weibo">
 38城平均工资超1万元（热度：583626）
 </a>
@@ -3441,6 +3447,12 @@ JDG战胜TES（热度：502747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E5%86%85%E8%84%8F%E8%84%82%E8%82%AA%E8%B6%8A%E5%A4%9A%E5%A4%A7%E8%84%91%E8%B6%8A%E5%B0%8F%23" target="weibo">
+研究发现内脏脂肪越多大脑越小（热度：485328）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86%23" target="weibo">
 豆瓣崩了（热度：484010）
 </a>
@@ -3659,6 +3671,12 @@ Jaemin和GISELLE的cha（热度：477562）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%902000%E4%B9%B0%E9%87%91%E5%8C%85%E9%93%B6%E9%A6%96%E9%A5%B0%E5%85%B8%E5%BD%935.3%E4%B8%87%23" target="weibo">
 男子2000买金包银首饰典当5.3万（热度：457840）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%AC%AC%E5%9B%9B%E6%B3%A2%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%23" target="weibo">
+微博之夜第四波官宣阵容（热度：457826）
 </a>
 </li>
 
@@ -4383,12 +4401,6 @@ BLG 胜利难道是今天（热度：390887）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%AC%AC%E5%9B%9B%E6%B3%A2%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%23" target="weibo">
-微博之夜第四波官宣阵容（热度：377211）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%90%BC%E5%BD%93%E5%A5%B6%E5%A5%B6%23" target="weibo">
 杨紫琼当奶奶（热度：376801）
 </a>
@@ -4947,6 +4959,12 @@ Doinb更新动态（热度：335740）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%BC%A0%E9%9D%93%E9%A2%96%20%E6%B2%89%E9%A6%99%23" target="weibo">
+张杰张靓颖 沉香（热度：318539）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%8D%E5%8D%A0%E4%B8%8A%E9%A3%8E%E9%83%BD%E6%B2%A1%E9%81%93%E7%90%86%23" target="weibo">
 王楚钦不占上风都没道理（热度：318530）
 </a>
@@ -5037,6 +5055,12 @@ Doinb更新动态（热度：335740）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E9%A5%AD%E6%9C%89%E8%BF%992%E4%B8%AA%E8%A1%A8%E7%8E%B0%E8%AF%B4%E6%98%8E%E6%AD%A3%E5%9C%A8%E5%8F%98%E8%80%81%23" target="weibo">
+吃饭有这2个表现说明正在变老（热度：312536）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B2%E5%A8%9C%E8%B4%9D%E5%84%BF%E5%B1%85%E7%84%B6%E8%83%BD%E9%A3%9E%E8%BF%99%E4%B9%88%E9%AB%98%23" target="weibo">
 玲娜贝儿居然能飞这么高（热度：312085）
 </a>
@@ -5111,12 +5135,6 @@ JDG对战TES（热度：310002）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%80%BB%E5%88%9D%E6%81%8B%E6%81%8B%E6%83%85%23" target="weibo">
 宝总初恋恋情（热度：306452）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%23" target="weibo">
-教育部辟谣缩短学制取消中考（热度：306403）
 </a>
 </li>
 
@@ -5273,12 +5291,6 @@ JDG对战TES（热度：310002）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8B%9F%E5%9F%BA%E9%87%91%E7%BB%8F%E7%90%86%E8%96%AA%E9%85%AC%E6%88%96%E5%B0%86%E5%B0%81%E9%A1%B6350%E4%B8%87%E5%85%83%23" target="weibo">
 公募基金经理薪酬或将封顶350万元（热度：294980）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E5%86%85%E8%84%8F%E8%84%82%E8%82%AA%E8%B6%8A%E5%A4%9A%E5%A4%A7%E8%84%91%E8%B6%8A%E5%B0%8F%23" target="weibo">
-研究发现内脏脂肪越多大脑越小（热度：294907）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ boynextdoor in your area（热度：268032）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%BC%9D%E5%A4%A7%E7%9A%84%E7%8C%AB%23" target="weibo">
 发缝大的猫（热度：258187）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%8F%8D%E8%97%8F%E5%8D%81%E5%B9%B4%E7%9A%84%E5%AE%9D%E7%89%A9%E6%98%AF%E6%A0%B9%E6%A3%92%E5%AD%90%23" target="weibo">
-男朋友珍藏十年的宝物是根棒子（热度：258177）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D4%E5%B0%8F%E6%97%B6%E5%90%83%E5%AE%8C%E6%99%9A%E9%A4%90%E5%88%A9%E4%BA%8E%E5%87%8F%E8%82%A5%23" target="weibo">
-睡前4小时吃完晚餐利于减肥（热度：257880）
 </a>
 </li>
 

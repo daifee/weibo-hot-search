@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704602119748,
+  "endTime": 1704604612852,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2147,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 802541,
+      "num": 802541,
+      "word": "浙大一院半月接收47名围炉煮茶中毒患者",
+      "onboard_time": 1704599250,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801420,
       "num": 801420,
       "word": "砂糖橘东北睡1宿变果脯",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704081575,
       "rank": 33,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 751625,
-      "num": 319893,
-      "word": "女子孕吐请4天假被开除",
-      "onboard_time": 1704097304,
-      "rank": 47,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

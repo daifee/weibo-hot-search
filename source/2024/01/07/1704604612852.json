@@ -1,0 +1,410 @@
+{
+  "runTime": 1704604612852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1539015,
+        "num": 1539015,
+        "word": "微信私密朋友圈被吐槽有bug",
+        "onboard_time": 1704594689,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1134986,
+        "num": 1134986,
+        "word": "专家建议取消大城市买房买车限制",
+        "onboard_time": 1704598291,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57595,
+        "num": 825881,
+        "word": "中国冰雪季大联欢",
+        "onboard_time": 1704596369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802541,
+        "num": 802541,
+        "word": "浙大一院半月接收47名围炉煮茶中毒患者",
+        "onboard_time": 1704599250,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585290,
+        "num": 585290,
+        "word": "教育部辟谣缩短学制取消中考",
+        "onboard_time": 1704601713,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 582232,
+        "num": 582232,
+        "word": "辛芷蕾因绣春刀被王家卫选中",
+        "onboard_time": 1704595052,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457826,
+        "num": 457826,
+        "word": "微博之夜第四波官宣阵容",
+        "onboard_time": 1704601291,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 454302,
+        "num": 454302,
+        "word": "四川省考 考场没钟表",
+        "onboard_time": 1704600091,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 429364,
+        "num": 429364,
+        "word": "国考成绩 等一个奇迹",
+        "onboard_time": 1704597511,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 414428,
+        "num": 414428,
+        "word": "女孩骨折忍痛赶飞机邻座是骨科主任",
+        "onboard_time": 1704584482,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939134,
+        "num": 393904,
+        "word": "霍金",
+        "onboard_time": 1704594028,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719534,
+        "num": 385840,
+        "word": "三喜的肠肠",
+        "onboard_time": 1704596190,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356887,
+        "num": 356887,
+        "word": "鸣龙少年编剧 参加过高考吗",
+        "onboard_time": 1704592650,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345723,
+        "num": 345723,
+        "word": "尔滨送女生1000克拉冰钻戒",
+        "onboard_time": 1704591751,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329099,
+        "num": 329099,
+        "word": "李楷灿病休",
+        "onboard_time": 1704601231,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318539,
+        "num": 318539,
+        "word": "张杰张靓颖 沉香",
+        "onboard_time": 1704600811,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 282912,
+        "num": 282912,
+        "word": "王石否认田朴珺傍大款",
+        "onboard_time": 1704599250,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 271246,
+        "num": 271246,
+        "word": "四川省考 做不完根本做不完",
+        "onboard_time": 1704598291,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 256392,
+        "num": 256392,
+        "word": "订婚3年后男子反悔索要18万彩礼",
+        "onboard_time": 1704596369,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256010,
+        "num": 256010,
+        "word": "哈尔滨当地人搓澡都戒半个月了",
+        "onboard_time": 1704601472,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485328,
+        "num": 252692,
+        "word": "研究发现内脏脂肪越多大脑越小",
+        "onboard_time": 1704601713,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248446,
+        "num": 248446,
+        "word": "厌食症 早起",
+        "onboard_time": 1704594932,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241621,
+        "num": 241621,
+        "word": "为什么年轻人热衷于祈福了",
+        "onboard_time": 1704602552,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236278,
+        "num": 236278,
+        "word": "女子拍完写真全身痒到抓出血",
+        "onboard_time": 1704604591,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230261,
+        "num": 230261,
+        "word": "死期将至 爆哭",
+        "onboard_time": 1704584842,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229546,
+        "num": 229546,
+        "word": "男子凌晨逐户试锁开门成功进入一户",
+        "onboard_time": 1704600990,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205971,
+        "num": 205971,
+        "word": "被哥哥亲懵圈的宝宝",
+        "onboard_time": 1704602313,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201142,
+        "num": 201142,
+        "word": "张若昀长文",
+        "onboard_time": 1704545671,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198930,
+        "num": 198930,
+        "word": "国内女足球员限薪120万",
+        "onboard_time": 1704600990,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194839,
+        "num": 194839,
+        "word": "靠申论逆风翻盘",
+        "onboard_time": 1704603693,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 312536,
+        "num": 193140,
+        "word": "吃饭有这2个表现说明正在变老",
+        "onboard_time": 1704603513,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188309,
+        "num": 188309,
+        "word": "爱泼斯坦文件",
+        "onboard_time": 1704590370,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180380,
+        "num": 180380,
+        "word": "彭小苒雪地公主妆",
+        "onboard_time": 1704601231,
+        "rank": 32,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 173745,
+        "num": 173745,
+        "word": "11个小砂糖橘告别哈尔滨前往吉林",
+        "onboard_time": 1704603811,
+        "rank": 33,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 165258,
+        "num": 165258,
+        "word": "3同学租车出车祸开车同学遭索赔59万",
+        "onboard_time": 1704591990,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161399,
+        "num": 161399,
+        "word": "12岁肺纤维化女孩现在怎样了",
+        "onboard_time": 1704593969,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142266,
+        "num": 142266,
+        "word": "四川省考 数量全靠蒙",
+        "onboard_time": 1704598114,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141158,
+        "num": 141158,
+        "word": "4月大女婴被遗弃警方已送福利院",
+        "onboard_time": 1704598588,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134470,
+        "num": 134470,
+        "word": "各省小朋友名字一览",
+        "onboard_time": 1704596429,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133668,
+        "num": 133668,
+        "word": "小砂糖橘遇见顶流企鹅还撞衫了",
+        "onboard_time": 1704589831,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131745,
+        "num": 131745,
+        "word": "微信私密朋友圈bug已修复",
+        "onboard_time": 1704601713,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129491,
+        "num": 129491,
+        "word": "冬季易怒不想上班可能患季节性抑郁症",
+        "onboard_time": 1704603811,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126235,
+        "num": 126235,
+        "word": "陈奕迅巡演内地首唱富士山下",
+        "onboard_time": 1704596728,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119127,
+        "num": 119127,
+        "word": "iPhone电池门赔款到账",
+        "onboard_time": 1704587484,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112920,
+        "num": 112920,
+        "word": "不管你是什么馒头从车银优身上下来",
+        "onboard_time": 1704604470,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109082,
+        "num": 109082,
+        "word": "字母哥空砍群群主",
+        "onboard_time": 1704602313,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107477,
+        "num": 107477,
+        "word": "光与夜之恋",
+        "onboard_time": 1704604230,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107401,
+        "num": 107401,
+        "word": "张若昀 女团腿",
+        "onboard_time": 1704551376,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105646,
+        "num": 105646,
+        "word": "中方决定制裁5家美国军工企业",
+        "onboard_time": 1704590969,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104555,
+        "num": 104555,
+        "word": "檀健次一句话把何炅整懵了",
+        "onboard_time": 1704595227,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#轨道上的京津冀加速形成#"
+    }
+  }
+}

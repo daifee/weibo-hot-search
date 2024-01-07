@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704602119748,
+  "endTime": 1704604612852,
   "band_list": [
     {
       "raw_hot": 2201623,
@@ -75,19 +75,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 802541,
+      "num": 802541,
+      "word": "浙大一院半月接收47名围炉煮茶中毒患者",
+      "onboard_time": 1704599250,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 762716,
       "num": 762716,
       "word": "央视曝辽宁3任公安厅长落马细节",
       "onboard_time": 1704553356,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742677,
-      "num": 742677,
-      "word": "浙大一院半月接收47名围炉煮茶中毒患者",
-      "onboard_time": 1704599250,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 585290,
+      "num": 585290,
+      "word": "教育部辟谣缩短学制取消中考",
+      "onboard_time": 1704601713,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 584669,
       "num": 440376,
       "word": "在中央大街摆摊的炸串老板道歉",
@@ -227,6 +235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 485328,
+      "num": 294907,
+      "word": "研究发现内脏脂肪越多大脑越小",
+      "onboard_time": 1704601713,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 473322,
       "num": 409318,
       "word": "死期将至 爆哭",
@@ -249,6 +265,14 @@
       "onboard_time": 1704591751,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457826,
+      "num": 457826,
+      "word": "微博之夜第四波官宣阵容",
+      "onboard_time": 1704601291,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 456238,
@@ -347,14 +371,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 377211,
-      "num": 377211,
-      "word": "微博之夜第四波官宣阵容",
-      "onboard_time": 1704601291,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 371793,
       "num": 371793,
       "word": "江苏发现1例罕见小P血型",
@@ -403,6 +419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 318539,
+      "num": 318539,
+      "word": "张杰张靓颖 沉香",
+      "onboard_time": 1704600811,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 313906,
       "num": 313906,
       "word": "A先生李李恋情",
@@ -419,12 +443,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 306403,
-      "num": 306403,
-      "word": "教育部辟谣缩短学制取消中考",
-      "onboard_time": 1704601713,
-      "rank": 17,
-      "category": "教育"
+      "raw_hot": 312536,
+      "num": 193140,
+      "word": "吃饭有这2个表现说明正在变老",
+      "onboard_time": 1704603513,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 302570,
@@ -440,14 +464,6 @@
       "word": "健康人群午睡最好别超半小时",
       "onboard_time": 1704586585,
       "rank": 16,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 294907,
-      "num": 294907,
-      "word": "研究发现内脏脂肪越多大脑越小",
-      "onboard_time": 1704601713,
-      "rank": 22,
       "category": "健康医疗"
     },
     {
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256010,
+      "num": 256010,
+      "word": "哈尔滨当地人搓澡都戒半个月了",
+      "onboard_time": 1704601472,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253359,
       "num": 253359,
       "word": "男子凌晨逐户试锁开门成功进入一户",
@@ -497,6 +521,22 @@
       "onboard_time": 1704601231,
       "rank": 29,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 241621,
+      "num": 241621,
+      "word": "为什么年轻人热衷于祈福了",
+      "onboard_time": 1704602552,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 236278,
+      "num": 236278,
+      "word": "女子拍完写真全身痒到抓出血",
+      "onboard_time": 1704604591,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233533,
@@ -547,14 +587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214112,
-      "num": 214112,
-      "word": "张杰张靓颖 沉香",
-      "onboard_time": 1704600811,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 212826,
       "num": 212826,
       "word": "陈奕迅巡演内地首唱富士山下",
@@ -603,12 +635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205971,
+      "num": 205971,
+      "word": "被哥哥亲懵圈的宝宝",
+      "onboard_time": 1704602313,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202856,
       "num": 202856,
       "word": "名侦探柯南 新兰小情侣",
       "onboard_time": 1704554794,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 194839,
+      "num": 194839,
+      "word": "靠申论逆风翻盘",
+      "onboard_time": 1704603693,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 192694,
@@ -633,14 +681,6 @@
       "onboard_time": 1704546995,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 185708,
-      "num": 185708,
-      "word": "哈尔滨当地人搓澡都戒半个月了",
-      "onboard_time": 1704601472,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183689,
@@ -673,6 +713,14 @@
       "onboard_time": 1704548139,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173745,
+      "num": 173745,
+      "word": "11个小砂糖橘告别哈尔滨前往吉林",
+      "onboard_time": 1704603811,
+      "rank": 33,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 173624,
@@ -899,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129491,
+      "num": 129491,
+      "word": "冬季易怒不想上班可能患季节性抑郁症",
+      "onboard_time": 1704603811,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 129452,
       "num": 129452,
       "word": "赵雅芝叶童陈美琪30年同框",
@@ -1011,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112920,
+      "num": 112920,
+      "word": "不管你是什么馒头从车银优身上下来",
+      "onboard_time": 1704604470,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112568,
       "num": 112568,
       "word": "中长发秋冬编发",
@@ -1025,6 +1089,14 @@
       "onboard_time": 1704596429,
       "rank": 45,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 109082,
+      "num": 109082,
+      "word": "字母哥空砍群群主",
+      "onboard_time": 1704602313,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 108953,
@@ -1049,6 +1121,14 @@
       "onboard_time": 1704600513,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107477,
+      "num": 107477,
+      "word": "光与夜之恋",
+      "onboard_time": 1704604230,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 107072,

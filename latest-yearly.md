@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/07 12:35:19
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/07 13:16:52
 </p>
 </blockquote>
 <p>
@@ -1623,6 +1623,12 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E4%B8%80%E9%99%A2%E5%8D%8A%E6%9C%88%E6%8E%A5%E6%94%B647%E5%90%8D%E5%9B%B4%E7%82%89%E7%85%AE%E8%8C%B6%E4%B8%AD%E6%AF%92%E6%82%A3%E8%80%85%23" target="weibo">
+浙大一院半月接收47名围炉煮茶中毒患者（热度：802541）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%82%E7%B3%96%E6%A9%98%E4%B8%9C%E5%8C%97%E7%9D%A11%E5%AE%BF%E5%8F%98%E6%9E%9C%E8%84%AF%23" target="weibo">
 砂糖橘东北睡1宿变果脯（热度：801420）
 </a>
@@ -1805,12 +1811,6 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E9%9D%9E%E9%B1%BC%E7%9A%AE%E7%A7%BB%E6%A4%8D%23" target="weibo">
 罗非鱼皮移植（热度：751793）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AD%95%E5%90%90%E8%AF%B74%E5%A4%A9%E5%81%87%E8%A2%AB%E5%BC%80%E9%99%A4%23" target="weibo">
-女子孕吐请4天假被开除（热度：751625）
 </a>
 </li>
 
