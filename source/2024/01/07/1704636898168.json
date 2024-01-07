@@ -1,0 +1,410 @@
+{
+  "runTime": 1704636898168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2156582,
+        "num": 2156582,
+        "word": "干掉蜜雪冰城的是旁边的蜜雪冰城",
+        "onboard_time": 1704632793,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1278506,
+        "num": 1278506,
+        "word": "A先生跳海",
+        "onboard_time": 1704632012,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130362,
+        "num": 1110009,
+        "word": "全国各地开年即开跑",
+        "onboard_time": 1704634833,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046230,
+        "num": 1046230,
+        "word": "华图 敢耍老子",
+        "onboard_time": 1704635614,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 986920,
+        "num": 986920,
+        "word": "心疼爷叔",
+        "onboard_time": 1704633031,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 641354,
+        "num": 641354,
+        "word": "王俊凯将出席2024巴黎时装周",
+        "onboard_time": 1704634053,
+        "rank": 5,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 812649,
+        "num": 636541,
+        "word": "刘亦菲 唐嫣是最好的汪小姐",
+        "onboard_time": 1704627451,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565844,
+        "num": 565844,
+        "word": "贪官花40多万元建了条500米断头路",
+        "onboard_time": 1704635556,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648382,
+        "num": 536130,
+        "word": "胡歌辛芷蕾繁花吻戏",
+        "onboard_time": 1704631530,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501402,
+        "num": 501402,
+        "word": "国考 给个痛快吧",
+        "onboard_time": 1704625713,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1216183,
+        "num": 498931,
+        "word": "马斯克被曝吸毒",
+        "onboard_time": 1704624691,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 781367,
+        "num": 495313,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704634173,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501469,
+        "num": 494524,
+        "word": "日本地震导致部分海域变陆地",
+        "onboard_time": 1704620012,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491523,
+        "num": 491523,
+        "word": "郑恺 大家一起优雅地发疯",
+        "onboard_time": 1704634894,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480492,
+        "num": 480492,
+        "word": "影评人说赵丽颖花千骨灵动鲜活",
+        "onboard_time": 1704635914,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 442004,
+        "num": 442004,
+        "word": "韩国好丽友蛋黄派检出金黄色葡萄球菌",
+        "onboard_time": 1704635614,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435560,
+        "num": 435560,
+        "word": "大家都在午睡只有他在苦心钻研国粹",
+        "onboard_time": 1704628830,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349184,
+        "num": 349184,
+        "word": "主播展示百万帝王绿翡翠手滑掉河里",
+        "onboard_time": 1704617790,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347541,
+        "num": 347541,
+        "word": "父母从新疆给远嫁女儿寄50斤羊肉",
+        "onboard_time": 1704628172,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290987,
+        "num": 290987,
+        "word": "第一部国产偶像剧男主是陈龙",
+        "onboard_time": 1704616229,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 702844,
+        "num": 282984,
+        "word": "爸爸摔碎我化妆品后发的信息",
+        "onboard_time": 1704634470,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331356,
+        "num": 279056,
+        "word": "把朋友的精神病史告诉她男朋友",
+        "onboard_time": 1704635373,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274799,
+        "num": 274799,
+        "word": "为什么年轻人不爱用信用卡了",
+        "onboard_time": 1704627211,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 274334,
+        "num": 274334,
+        "word": "北京首钢",
+        "onboard_time": 1704627333,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271138,
+        "num": 271138,
+        "word": "猪八戒的钉耙上有张小猪脸",
+        "onboard_time": 1704634531,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260407,
+        "num": 260407,
+        "word": "京东联名卡 抢不到",
+        "onboard_time": 1704630390,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 233679,
+        "num": 233679,
+        "word": "酒鬼去汪星了",
+        "onboard_time": 1704623252,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204023,
+        "num": 204023,
+        "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
+        "onboard_time": 1704611608,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202704,
+        "num": 202704,
+        "word": "刘宇宁喊你来丹东",
+        "onboard_time": 1704633393,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188331,
+        "num": 188331,
+        "word": "王心凌 纯白圣女",
+        "onboard_time": 1704622352,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175207,
+        "num": 175207,
+        "word": "张大大穿增高鞋没关晓彤高",
+        "onboard_time": 1704622772,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151853,
+        "num": 151853,
+        "word": "乙流和甲流啥区别",
+        "onboard_time": 1704618872,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148817,
+        "num": 148817,
+        "word": "我的腹肌是帕梅拉给的",
+        "onboard_time": 1704633153,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 148394,
+        "num": 148394,
+        "word": "31岁中国男游客在泰国浮潜溺亡",
+        "onboard_time": 1704621152,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148296,
+        "num": 148296,
+        "word": "贪官盲目搞开发致债务剧增超千亿",
+        "onboard_time": 1704634113,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146036,
+        "num": 146036,
+        "word": "霍金",
+        "onboard_time": 1704594028,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144884,
+        "num": 144884,
+        "word": "北京圆明园重现冰嬉盛景",
+        "onboard_time": 1704628292,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141168,
+        "num": 141168,
+        "word": "海南警方 可以不懂爱情但要学会文明",
+        "onboard_time": 1704627091,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138872,
+        "num": 138872,
+        "word": "开端和大江大河联动",
+        "onboard_time": 1704628714,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126847,
+        "num": 126847,
+        "word": "杨紫李现国色芳华捧脸路透",
+        "onboard_time": 1704621390,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121585,
+        "num": 121585,
+        "word": "残疾男孩在公园被小朋友主动拥抱",
+        "onboard_time": 1704632372,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115210,
+        "num": 115210,
+        "word": "胡歌 魅力依旧",
+        "onboard_time": 1704629371,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103803,
+        "num": 103803,
+        "word": "当小砂糖橘遇上小雾凇",
+        "onboard_time": 1704627153,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103048,
+        "num": 103048,
+        "word": "酒鬼 撕家",
+        "onboard_time": 1704625110,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103037,
+        "num": 103037,
+        "word": "尔滨的风吹向全国",
+        "onboard_time": 1704630752,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101818,
+        "num": 101818,
+        "word": "梁朝伟 其实我也不是那么i",
+        "onboard_time": 1704623191,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93905,
+        "num": 93905,
+        "word": "张镇麟暴力隔扣",
+        "onboard_time": 1704634653,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87601,
+        "num": 87601,
+        "word": "找文圈有自己的梗图",
+        "onboard_time": 1704633575,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 87335,
+        "num": 87335,
+        "word": "狂人 九尾职业态度没的说",
+        "onboard_time": 1704630155,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87161,
+        "num": 87161,
+        "word": "美媒发布战略轰炸机B1B坠机画面",
+        "onboard_time": 1704631231,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#轨道上的京津冀加速形成#"
+    }
+  }
+}

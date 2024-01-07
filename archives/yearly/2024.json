@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704634444598,
+  "endTime": 1704636898168,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -257,6 +257,14 @@
       "onboard_time": 1704466476,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2156582,
+      "num": 2156582,
+      "word": "干掉蜜雪冰城的是旁边的蜜雪冰城",
+      "onboard_time": 1704632793,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 2094204,
@@ -529,14 +537,6 @@
       "onboard_time": 1704115300,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1639855,
-      "num": 1639855,
-      "word": "干掉蜜雪冰城的是旁边的蜜雪冰城",
-      "onboard_time": 1704632793,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 1631117,
@@ -1467,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1046230,
+      "num": 1046230,
+      "word": "华图 敢耍老子",
+      "onboard_time": 1704635614,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1043718,
       "num": 1043718,
       "word": "3同学租车出车祸开车同学遭索赔59万",
@@ -1617,6 +1625,14 @@
       "onboard_time": 1704590969,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 986920,
+      "num": 986920,
+      "word": "心疼爷叔",
+      "onboard_time": 1704633031,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 986011,
@@ -1920,14 +1936,6 @@
       "word": "王家卫拍出了辛芷蕾的人生镜头",
       "onboard_time": 1704155318,
       "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 900822,
-      "num": 694005,
-      "word": "心疼爷叔",
-      "onboard_time": 1704633031,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704279337,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 788583,
-      "num": 788583,
-      "word": "我姓哈名尔滨",
-      "onboard_time": 1704453870,
-      "rank": 15,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [

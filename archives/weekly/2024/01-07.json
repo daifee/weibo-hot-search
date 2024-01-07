@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704634444598,
+  "endTime": 1704636898168,
   "band_list": [
     {
       "raw_hot": 2625653,
@@ -19,6 +19,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2156582,
+      "num": 2156582,
+      "word": "干掉蜜雪冰城的是旁边的蜜雪冰城",
+      "onboard_time": 1704632793,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2094204,
       "num": 628589,
       "word": "易孕体质",
@@ -33,14 +41,6 @@
       "onboard_time": 1704632012,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1639855,
-      "num": 1639855,
-      "word": "干掉蜜雪冰城的是旁边的蜜雪冰城",
-      "onboard_time": 1704632793,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 1631117,
@@ -131,6 +131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1046230,
+      "num": 1046230,
+      "word": "华图 敢耍老子",
+      "onboard_time": 1704635614,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1043718,
       "num": 1043718,
       "word": "3同学租车出车祸开车同学遭索赔59万",
@@ -145,6 +153,14 @@
       "onboard_time": 1704590969,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 986920,
+      "num": 986920,
+      "word": "心疼爷叔",
+      "onboard_time": 1704633031,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 986011,
@@ -179,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 900822,
-      "num": 694005,
-      "word": "心疼爷叔",
-      "onboard_time": 1704633031,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 857602,
       "num": 585565,
       "word": "胡歌辛芷蕾繁花吻戏",
@@ -216,6 +224,14 @@
       "word": "浙大一院半月接收47名围炉煮茶中毒患者",
       "onboard_time": 1704599250,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 781367,
+      "num": 495313,
+      "word": "爱泼斯坦",
+      "onboard_time": 1704634173,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -283,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 702844,
+      "num": 282984,
+      "word": "爸爸摔碎我化妆品后发的信息",
+      "onboard_time": 1704634470,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 700012,
       "num": 700012,
       "word": "辛芷蕾因绣春刀被王家卫选中",
@@ -329,6 +353,14 @@
       "onboard_time": 1704598291,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 641354,
+      "num": 641354,
+      "word": "王俊凯将出席2024巴黎时装周",
+      "onboard_time": 1704634053,
+      "rank": 16,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 637810,
@@ -409,6 +441,14 @@
       "onboard_time": 1704622352,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 565844,
+      "num": 565844,
+      "word": "贪官花40多万元建了条500米断头路",
+      "onboard_time": 1704635556,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553350,
@@ -507,6 +547,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 491523,
+      "num": 491523,
+      "word": "郑恺 大家一起优雅地发疯",
+      "onboard_time": 1704634894,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 480492,
+      "num": 480492,
+      "word": "影评人说赵丽颖花千骨灵动鲜活",
+      "onboard_time": 1704635914,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 473322,
       "num": 409318,
       "word": "死期将至 爆哭",
@@ -576,6 +632,14 @@
       "word": "订婚3年后男子反悔索要18万彩礼",
       "onboard_time": 1704596369,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442004,
+      "num": 442004,
+      "word": "韩国好丽友蛋黄派检出金黄色葡萄球菌",
+      "onboard_time": 1704635614,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -755,14 +819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 343318,
-      "num": 343318,
-      "word": "王俊凯将出席2024巴黎时装周",
-      "onboard_time": 1704634053,
-      "rank": 16,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 338719,
       "num": 338719,
       "word": "沈耀跟程雨杉在一起了",
@@ -801,6 +857,14 @@
       "onboard_time": 1704549576,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331356,
+      "num": 279056,
+      "word": "把朋友的精神病史告诉她男朋友",
+      "onboard_time": 1704635373,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 327670,
@@ -955,6 +1019,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 271138,
+      "num": 271138,
+      "word": "猪八戒的钉耙上有张小猪脸",
+      "onboard_time": 1704634531,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268992,
       "num": 268992,
       "word": "小砂糖橘遇见顶流企鹅还撞衫了",
@@ -968,14 +1040,6 @@
       "word": "沈阳1000名搓澡大姨支援哈尔滨为不实",
       "onboard_time": 1704589411,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263096,
-      "num": 263096,
-      "word": "爱泼斯坦",
-      "onboard_time": 1704634173,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1947,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130362,
+      "num": 1110009,
+      "word": "全国各地开年即开跑",
+      "onboard_time": 1704634833,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130140,
       "num": 130140,
       "word": "陈楚生声生不息Vlog",
@@ -2521,6 +2593,14 @@
       "onboard_time": 1704584482,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93905,
+      "num": 93905,
+      "word": "张镇麟暴力隔扣",
+      "onboard_time": 1704634653,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 92876,

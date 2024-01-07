@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704634444598,
+  "endTime": 1704636898168,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -257,6 +257,14 @@
       "onboard_time": 1704466476,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2156582,
+      "num": 2156582,
+      "word": "干掉蜜雪冰城的是旁边的蜜雪冰城",
+      "onboard_time": 1704632793,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 2094204,
@@ -529,14 +537,6 @@
       "onboard_time": 1704115300,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1639855,
-      "num": 1639855,
-      "word": "干掉蜜雪冰城的是旁边的蜜雪冰城",
-      "onboard_time": 1704632793,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 1631117,
@@ -1467,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1046230,
+      "num": 1046230,
+      "word": "华图 敢耍老子",
+      "onboard_time": 1704635614,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1043718,
       "num": 1043718,
       "word": "3同学租车出车祸开车同学遭索赔59万",
@@ -1617,6 +1625,14 @@
       "onboard_time": 1704590969,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 986920,
+      "num": 986920,
+      "word": "心疼爷叔",
+      "onboard_time": 1704633031,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 986011,
@@ -1920,14 +1936,6 @@
       "word": "王家卫拍出了辛芷蕾的人生镜头",
       "onboard_time": 1704155318,
       "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 900822,
-      "num": 694005,
-      "word": "心疼爷叔",
-      "onboard_time": 1704633031,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -2859,6 +2867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 702844,
+      "num": 282984,
+      "word": "爸爸摔碎我化妆品后发的信息",
+      "onboard_time": 1704634470,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 702630,
       "num": 1042034,
       "word": "冻梨摆盘后又出地瓜配勺",
@@ -3329,6 +3345,14 @@
       "onboard_time": 1704100780,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641354,
+      "num": 641354,
+      "word": "王俊凯将出席2024巴黎时装周",
+      "onboard_time": 1704634053,
+      "rank": 16,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 641097,
@@ -3937,6 +3961,14 @@
       "onboard_time": 1704033013,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 565844,
+      "num": 565844,
+      "word": "贪官花40多万元建了条500米断头路",
+      "onboard_time": 1704635556,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562057,
@@ -4763,6 +4795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491523,
+      "num": 491523,
+      "word": "郑恺 大家一起优雅地发疯",
+      "onboard_time": 1704634894,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 491409,
       "num": 491409,
       "word": "新年壁纸",
@@ -4897,6 +4937,14 @@
       "onboard_time": 1704292716,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 480492,
+      "num": 480492,
+      "word": "影评人说赵丽颖花千骨灵动鲜活",
+      "onboard_time": 1704635914,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 478527,
@@ -5257,6 +5305,14 @@
       "onboard_time": 1704151404,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442004,
+      "num": 442004,
+      "word": "韩国好丽友蛋黄派检出金黄色葡萄球菌",
+      "onboard_time": 1704635614,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441693,
@@ -6563,14 +6619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343318,
-      "num": 343318,
-      "word": "王俊凯将出席2024巴黎时装周",
-      "onboard_time": 1704634053,
-      "rank": 16,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 343204,
       "num": 343204,
       "word": "日本能登地区短时间内连发7次地震",
@@ -6769,6 +6817,14 @@
       "onboard_time": 1704125911,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331356,
+      "num": 279056,
+      "word": "把朋友的精神病史告诉她男朋友",
+      "onboard_time": 1704635373,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 329328,
@@ -8065,6 +8121,14 @@
       "onboard_time": 1704269971,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271138,
+      "num": 271138,
+      "word": "猪八戒的钉耙上有张小猪脸",
+      "onboard_time": 1704634531,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 270732,
@@ -15579,6 +15643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130362,
+      "num": 1110009,
+      "word": "全国各地开年即开跑",
+      "onboard_time": 1704634833,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130329,
       "num": 130329,
       "word": "网球比赛中0被读作love",
@@ -17489,6 +17561,14 @@
       "onboard_time": 1704388821,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 93905,
+      "num": 93905,
+      "word": "张镇麟暴力隔扣",
+      "onboard_time": 1704634653,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 93134,
