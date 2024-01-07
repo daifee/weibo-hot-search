@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704620052034,
+  "endTime": 1704622694367,
   "band_list": [
     {
       "raw_hot": 2201623,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2094204,
-      "num": 369964,
+      "num": 628589,
       "word": "易孕体质",
       "onboard_time": 1704616348,
       "rank": 37,
@@ -40,6 +40,14 @@
       "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
       "onboard_time": 1704611608,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1196444,
+      "num": 1196444,
+      "word": "主播展示百万帝王绿翡翠手滑掉河里",
+      "onboard_time": 1704617790,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 958231,
+      "num": 958231,
+      "word": "日本地震导致部分海域变陆地",
+      "onboard_time": 1704620012,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 949359,
       "num": 949359,
       "word": "第一部国产偶像剧男主是陈龙",
@@ -113,14 +129,6 @@
       "onboard_time": 1704596190,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 942300,
-      "num": 942300,
-      "word": "主播展示百万帝王绿翡翠手滑掉河里",
-      "onboard_time": 1704617790,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 802541,
@@ -145,6 +153,14 @@
       "onboard_time": 1704553356,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 751376,
+      "num": 751376,
+      "word": "joker不是小丑 是制胜的王牌",
+      "onboard_time": 1704620491,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 737858,
@@ -177,6 +193,14 @@
       "onboard_time": 1704597511,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 719982,
+      "num": 719982,
+      "word": "东北人保密意识真好",
+      "onboard_time": 1704617790,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 700012,
@@ -217,6 +241,14 @@
       "onboard_time": 1704598291,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 638909,
+      "num": 638909,
+      "word": "31岁中国男游客在泰国浮潜溺亡",
+      "onboard_time": 1704621152,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637810,
@@ -275,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 583735,
-      "num": 583735,
-      "word": "东北人保密意识真好",
-      "onboard_time": 1704617790,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 553350,
       "num": 553350,
       "word": "砂糖橘东北睡1宿变果脯",
@@ -308,11 +332,19 @@
     },
     {
       "raw_hot": 546639,
-      "num": 546639,
+      "num": 756155,
       "word": "大四男生租房被房东奶奶当亲孙照顾",
       "onboard_time": 1704613952,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528669,
+      "num": 528669,
+      "word": "期末复习小孩哥头像",
+      "onboard_time": 1704618329,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 524762,
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 517578,
-      "num": 517578,
+      "num": 721609,
       "word": "一车白狐即将运往尔滨",
       "onboard_time": 1704612330,
       "rank": 32,
@@ -409,6 +441,14 @@
       "onboard_time": 1704546634,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 454019,
+      "num": 454019,
+      "word": "黑龙江蔓越莓",
+      "onboard_time": 1704619592,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 453109,
@@ -499,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398490,
+      "num": 398490,
+      "word": "四川省考 愉快的旅游",
+      "onboard_time": 1704620190,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 396085,
       "num": 396085,
       "word": "刘雅瑟一滴泪演技太虐了",
@@ -539,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356369,
-      "num": 356369,
-      "word": "期末复习小孩哥头像",
-      "onboard_time": 1704618329,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 351603,
       "num": 351603,
       "word": "谢娜客串过苏有朋的左耳",
@@ -560,6 +600,14 @@
       "word": "沈耀跟程雨杉在一起了",
       "onboard_time": 1704542313,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 338458,
+      "num": 338458,
+      "word": "胡歌称和王家卫合作像谈恋爱",
+      "onboard_time": 1704616889,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -635,12 +683,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 307848,
+      "num": 307848,
+      "word": "国色芳华剧组抓代拍",
+      "onboard_time": 1704619470,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307693,
       "num": 238504,
       "word": "找领导报销被抹零了199元",
       "onboard_time": 1704612330,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 304314,
+      "num": 304314,
+      "word": "杨紫李现国色芳华捧脸路透",
+      "onboard_time": 1704621390,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 302570,
@@ -747,20 +811,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254752,
+      "num": 254752,
+      "word": "周深好像抓到姐姐谈恋爱的弟弟",
+      "onboard_time": 1704620309,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253359,
       "num": 253359,
       "word": "男子凌晨逐户试锁开门成功进入一户",
       "onboard_time": 1704600990,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253284,
-      "num": 253284,
-      "word": "胡歌称和王家卫合作像谈恋爱",
-      "onboard_time": 1704616889,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 250039,
@@ -795,14 +859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 240574,
-      "num": 240574,
-      "word": "黑龙江蔓越莓",
-      "onboard_time": 1704619592,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 233533,
       "num": 233533,
       "word": "黑龙江又回赠广西10万盒蔓越莓",
@@ -825,6 +881,14 @@
       "onboard_time": 1704554137,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 231172,
+      "num": 231172,
+      "word": "双眼皮单眼皮各有各的美",
+      "onboard_time": 1704621390,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 226477,
@@ -947,20 +1011,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 198771,
+      "num": 198771,
+      "word": "2024年才过了第一周的我",
+      "onboard_time": 1704622112,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196094,
       "num": 196094,
       "word": "我目前的四大爱好",
       "onboard_time": 1704614789,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195657,
-      "num": 195657,
-      "word": "国色芳华剧组抓代拍",
-      "onboard_time": 1704619470,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 194839,
@@ -1041,6 +1105,38 @@
       "onboard_time": 1704592050,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 178454,
+      "num": 178454,
+      "word": "王心凌 纯白圣女",
+      "onboard_time": 1704622352,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 177703,
+      "num": 177703,
+      "word": "汪小姐同款排骨年糕",
+      "onboard_time": 1704622291,
+      "rank": 36,
+      "category": "美食,作品衍生"
+    },
+    {
+      "raw_hot": 176871,
+      "num": 176871,
+      "word": "被威胁女大学生重回事发地摆摊",
+      "onboard_time": 1704621752,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176039,
+      "num": 199065,
+      "word": "野生东北虎被拍到下山爪子带血",
+      "onboard_time": 1704620851,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175958,
@@ -1179,6 +1275,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157361,
+      "num": 157361,
+      "word": "周笔畅演唱会穿了六套高定",
+      "onboard_time": 1704619529,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 157160,
+      "num": 157160,
+      "word": "霉霉大电影 美到我心软软",
+      "onboard_time": 1704619951,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156716,
       "num": 156716,
       "word": "霍思燕育儿观",
@@ -1241,6 +1353,14 @@
       "onboard_time": 1704596311,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152291,
+      "num": 152291,
+      "word": "冰雪大世界帮小土豆找对象",
+      "onboard_time": 1704621992,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152108,
@@ -1387,14 +1507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133057,
-      "num": 133057,
-      "word": "周笔畅演唱会穿了六套高定",
-      "onboard_time": 1704619529,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 133012,
       "num": 133012,
       "word": "哈尔滨爆火的背后藏着这样一群人",
@@ -1489,6 +1601,14 @@
       "onboard_time": 1704618450,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125437,
+      "num": 125437,
+      "word": "纳达尔退出澳网",
+      "onboard_time": 1704621032,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 125231,
@@ -1641,14 +1761,6 @@
       "onboard_time": 1704596429,
       "rank": 45,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 109096,
-      "num": 109096,
-      "word": "霉霉大电影 美到我心软软",
-      "onboard_time": 1704619951,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 109082,
@@ -1835,14 +1947,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 98021,
-      "num": 98021,
-      "word": "日本地震导致部分海域变陆地",
-      "onboard_time": 1704620012,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97920,
       "num": 97920,
       "word": "小象甚至还薅了点牛毛尝尝",
@@ -1964,7 +2068,7 @@
     },
     {
       "raw_hot": 83823,
-      "num": 826768,
+      "num": 982473,
       "word": "东部战区新年开飞高燃画面",
       "onboard_time": 1704615628,
       "rank": 2,
@@ -2001,6 +2105,14 @@
       "onboard_time": 1704564323,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45309,
+      "num": 304346,
+      "word": "元梦的第一个百大up主",
+      "onboard_time": 1704620731,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 43332,
@@ -2097,6 +2209,14 @@
       "onboard_time": 1704568935,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19768,
+      "num": 436183,
+      "word": "厦马参赛体验有多棒",
+      "onboard_time": 1704621629,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 17356,
