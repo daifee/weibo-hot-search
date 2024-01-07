@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704590533301,
+  "endTime": 1704591792831,
   "band_list": [
     {
       "raw_hot": 1490614,
@@ -11,8 +11,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1163404,
-      "num": 1163404,
+      "raw_hot": 1186866,
+      "num": 1186866,
       "word": "女孩骨折忍痛赶飞机邻座是骨科主任",
       "onboard_time": 1704584482,
       "rank": 0,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 737858,
+      "num": 737858,
+      "word": "iPhone电池门赔款到账",
+      "onboard_time": 1704587484,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 737373,
       "num": 431277,
       "word": "张若昀 女团腿",
@@ -43,12 +51,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 683130,
-      "num": 683130,
-      "word": "iPhone电池门赔款到账",
-      "onboard_time": 1704587484,
-      "rank": 1,
-      "category": "数码"
+      "raw_hot": 697102,
+      "num": 697102,
+      "word": "中方决定制裁5家美国军工企业",
+      "onboard_time": 1704590969,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 664862,
@@ -108,11 +116,27 @@
     },
     {
       "raw_hot": 473322,
-      "num": 312250,
+      "num": 352136,
       "word": "死期将至 爆哭",
       "onboard_time": 1704584842,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 473288,
+      "num": 352438,
+      "word": "爱泼斯坦文件",
+      "onboard_time": 1704590370,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469206,
+      "num": 284197,
+      "word": "爸爸在我结婚前突然后悔了",
+      "onboard_time": 1704582438,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 456238,
@@ -131,12 +155,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 452149,
-      "num": 244036,
-      "word": "爸爸在我结婚前突然后悔了",
-      "onboard_time": 1704582438,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 453109,
+      "num": 453109,
+      "word": "花少北时隔2年再获百大",
+      "onboard_time": 1704589110,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 415464,
@@ -179,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351603,
+      "num": 351603,
+      "word": "谢娜客串过苏有朋的左耳",
+      "onboard_time": 1704589471,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 338719,
       "num": 338719,
       "word": "沈耀跟程雨杉在一起了",
       "onboard_time": 1704542313,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334890,
+      "num": 334890,
+      "word": "去哈尔滨的诱惑已打败艾莎公主",
+      "onboard_time": 1704587607,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332087,
@@ -203,12 +243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313311,
+      "num": 313311,
+      "word": "凤凰传奇来百大也得罚站",
+      "onboard_time": 1704588807,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 302570,
       "num": 302570,
       "word": "三天60亿",
       "onboard_time": 1704519152,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 295174,
+      "num": 295174,
+      "word": "健康人群午睡最好别超半小时",
+      "onboard_time": 1704586585,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 288667,
@@ -219,36 +275,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288202,
-      "num": 288202,
-      "word": "去哈尔滨的诱惑已打败艾莎公主",
-      "onboard_time": 1704587607,
-      "rank": 14,
+      "raw_hot": 268992,
+      "num": 268992,
+      "word": "小砂糖橘遇见顶流企鹅还撞衫了",
+      "onboard_time": 1704589831,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284528,
-      "num": 284528,
-      "word": "健康人群午睡最好别超半小时",
-      "onboard_time": 1704586585,
-      "rank": 16,
-      "category": "健康医疗"
+      "raw_hot": 264961,
+      "num": 264961,
+      "word": "沈阳1000名搓澡大姨支援哈尔滨为不实",
+      "onboard_time": 1704589411,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 271218,
-      "num": 271218,
-      "word": "谢娜客串过苏有朋的左耳",
-      "onboard_time": 1704589471,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 250502,
-      "num": 250502,
-      "word": "花少北时隔2年再获百大",
-      "onboard_time": 1704589110,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 260239,
+      "num": 260239,
+      "word": "黑龙江有蔓越莓本地人都不知道",
+      "onboard_time": 1704590672,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 233533,
@@ -267,14 +315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 230434,
-      "num": 230434,
-      "word": "沈阳1000名搓澡大姨支援哈尔滨为不实",
-      "onboard_time": 1704589411,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226477,
       "num": 226477,
       "word": "你可以叫我 滨",
@@ -289,14 +329,6 @@
       "onboard_time": 1704557191,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216334,
-      "num": 216334,
-      "word": "凤凰传奇来百大也得罚站",
-      "onboard_time": 1704588807,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 208967,
@@ -339,20 +371,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 180425,
-      "num": 180425,
-      "word": "小砂糖橘遇见顶流企鹅还撞衫了",
-      "onboard_time": 1704589831,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175301,
       "num": 175301,
       "word": "宝总事业粉",
       "onboard_time": 1704548139,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173624,
+      "num": 173624,
+      "word": "为啥看中医最好早上去",
+      "onboard_time": 1704588029,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171797,
@@ -387,14 +419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161475,
-      "num": 161475,
-      "word": "为啥看中医最好早上去",
-      "onboard_time": 1704588029,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 158780,
       "num": 158780,
       "word": "苏有朋演唱会嘉宾是谢娜",
@@ -425,6 +449,14 @@
       "onboard_time": 1704585201,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155456,
+      "num": 155456,
+      "word": "阿富汗首都发生爆炸2死14伤",
+      "onboard_time": 1704590849,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 151995,
@@ -459,14 +491,6 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 145172,
-      "num": 145172,
-      "word": "爱泼斯坦文件",
-      "onboard_time": 1704590370,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144306,
       "num": 144306,
       "word": "繁花钟镇涛 致敬张国荣",
@@ -491,6 +515,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135432,
+      "num": 135432,
+      "word": "大熊猫莽仔第五个幼崽取名莽灿灿",
+      "onboard_time": 1704590912,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133239,
+      "num": 133239,
+      "word": "上大学后才知道的人情世故",
+      "onboard_time": 1704588087,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130491,
       "num": 130491,
       "word": "姜涛舞技",
@@ -507,12 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126401,
-      "num": 126401,
-      "word": "上大学后才知道的人情世故",
-      "onboard_time": 1704588087,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 129452,
+      "num": 129452,
+      "word": "赵雅芝叶童陈美琪30年同框",
+      "onboard_time": 1704590009,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 124633,
+      "num": 124633,
+      "word": "专家称在新区域搜索10天或能找到MH370",
+      "onboard_time": 1704591512,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122702,
@@ -529,14 +577,6 @@
       "onboard_time": 1704545252,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120711,
-      "num": 120711,
-      "word": "赵雅芝叶童陈美琪30年同框",
-      "onboard_time": 1704590009,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 118326,
@@ -633,6 +673,14 @@
       "onboard_time": 1704556531,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 96567,
+      "num": 96567,
+      "word": "尔滨送女生1000克拉冰钻戒",
+      "onboard_time": 1704591751,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96268,
