@@ -1,7 +1,15 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704623705860,
+  "endTime": 1704626084966,
   "band_list": [
+    {
+      "raw_hot": 2472163,
+      "num": 2472163,
+      "word": "马斯克被曝吸毒",
+      "onboard_time": 1704624691,
+      "rank": 0,
+      "category": "互联网"
+    },
     {
       "raw_hot": 2201623,
       "num": 2201623,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1329807,
-      "num": 1329807,
+      "num": 1517484,
       "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
       "onboard_time": 1704611608,
       "rank": 44,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1194730,
-      "num": 438551,
+      "num": 468001,
       "word": "霍金",
       "onboard_time": 1704594028,
       "rank": 17,
@@ -129,6 +137,14 @@
       "onboard_time": 1704596190,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 924462,
+      "num": 924462,
+      "word": "酒鬼去汪星了",
+      "onboard_time": 1704623252,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 824347,
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617022,
+      "num": 617022,
+      "word": "国考 给个痛快吧",
+      "onboard_time": 1704625713,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 606643,
       "num": 606643,
       "word": "丹东文旅局长赴哈尔滨送草莓",
@@ -307,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572064,
+      "num": 572064,
+      "word": "王心凌 纯白圣女",
+      "onboard_time": 1704622352,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 553350,
       "num": 553350,
       "word": "砂糖橘东北睡1宿变果脯",
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 546639,
-      "num": 836194,
+      "num": 974906,
       "word": "大四男生租房被房东奶奶当亲孙照顾",
       "onboard_time": 1704613952,
       "rank": 5,
@@ -571,6 +603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 393295,
+      "num": 393295,
+      "word": "张大大穿增高鞋没关晓彤高",
+      "onboard_time": 1704622772,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391907,
       "num": 326920,
       "word": "不管你是什么馒头从车银优身上下来",
@@ -579,12 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 386922,
-      "num": 386922,
-      "word": "王心凌 纯白圣女",
-      "onboard_time": 1704622352,
-      "rank": 34,
-      "category": "演出"
+      "raw_hot": 375192,
+      "num": 375192,
+      "word": "酒鬼 撕家",
+      "onboard_time": 1704625110,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 371793,
@@ -609,6 +649,14 @@
       "onboard_time": 1704589471,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 339637,
+      "num": 339637,
+      "word": "鹤岗官方回应丹顶鹤在哈尔滨发抖",
+      "onboard_time": 1704623672,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338719,
@@ -649,6 +697,14 @@
       "onboard_time": 1704549576,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327670,
+      "num": 327670,
+      "word": "梁朝伟 其实我也不是那么i",
+      "onboard_time": 1704623191,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 326501,
@@ -787,14 +843,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 273762,
-      "num": 273762,
-      "word": "张大大穿增高鞋没关晓彤高",
-      "onboard_time": 1704622772,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 268992,
       "num": 268992,
       "word": "小砂糖橘遇见顶流企鹅还撞衫了",
@@ -915,28 +963,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 225302,
-      "num": 225302,
-      "word": "梁朝伟 其实我也不是那么i",
-      "onboard_time": 1704623191,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 223867,
       "num": 220397,
       "word": "妈妈为了和我多聊天换头像",
       "onboard_time": 1704606211,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 221896,
-      "num": 221896,
-      "word": "酒鬼去汪星了",
-      "onboard_time": 1704623252,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 220309,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1704554794,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 202830,
+      "num": 202830,
+      "word": "律师否认马斯克吸毒",
+      "onboard_time": 1704625776,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 201084,
@@ -1331,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156258,
+      "num": 156258,
+      "word": "复刻繁花干炒牛河",
+      "onboard_time": 1704624510,
+      "rank": 35,
+      "category": "美食,作品衍生"
+    },
+    {
       "raw_hot": 155630,
       "num": 155630,
       "word": "玉环你是懂浪漫的",
@@ -1371,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153903,
+      "num": 151355,
+      "word": "李李身世之谜",
+      "onboard_time": 1704625830,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152412,
       "num": 152412,
       "word": "阿宝归宿",
@@ -1401,6 +1457,14 @@
       "onboard_time": 1704553476,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 151848,
+      "num": 151848,
+      "word": "陈飞宇献鱼魔教教主造型",
+      "onboard_time": 1704624691,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 151662,
@@ -1483,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142702,
+      "num": 142702,
+      "word": "林允儿FM Dance Challenge",
+      "onboard_time": 1704624811,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140202,
       "num": 140202,
       "word": "宋江金裕贞古装",
@@ -1504,6 +1576,14 @@
       "word": "大熊猫莽仔第五个幼崽取名莽灿灿",
       "onboard_time": 1704590912,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135304,
+      "num": 135304,
+      "word": "和妈妈久别重逢她以为又认错人了",
+      "onboard_time": 1704625413,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1675,6 +1755,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 122841,
+      "num": 122841,
+      "word": "代号鸢 东宫",
+      "onboard_time": 1704623912,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122702,
       "num": 122702,
       "word": "为什么你比同龄人显老",
@@ -1747,14 +1835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117589,
-      "num": 117589,
-      "word": "鹤岗官方回应丹顶鹤在哈尔滨发抖",
-      "onboard_time": 1704623672,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117031,
       "num": 117031,
       "word": "日本地震仍有210人下落不明",
@@ -1801,6 +1881,22 @@
       "onboard_time": 1704616409,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111406,
+      "num": 111406,
+      "word": "七旬退休老师教会脑瘫少年5000个字",
+      "onboard_time": 1704624389,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110474,
+      "num": 110474,
+      "word": "害怕抽血的小柯基",
+      "onboard_time": 1704624874,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 109241,
@@ -2116,7 +2212,7 @@
     },
     {
       "raw_hot": 83823,
-      "num": 1002932,
+      "num": 1274194,
       "word": "东部战区新年开飞高燃画面",
       "onboard_time": 1704615628,
       "rank": 2,

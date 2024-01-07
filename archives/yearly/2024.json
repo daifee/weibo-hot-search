@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704623705860,
+  "endTime": 1704626084966,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -177,6 +177,14 @@
       "onboard_time": 1704119801,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2472163,
+      "num": 2472163,
+      "word": "马斯克被曝吸毒",
+      "onboard_time": 1704624691,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 2463164,
@@ -876,7 +884,7 @@
     },
     {
       "raw_hot": 1329807,
-      "num": 1329807,
+      "num": 1517484,
       "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
       "onboard_time": 1704611608,
       "rank": 44,
@@ -1811,6 +1819,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 924462,
+      "num": 924462,
+      "word": "酒鬼去汪星了",
+      "onboard_time": 1704623252,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 922842,
       "num": 419530,
       "word": "为裁员西安某公司从CBD搬进秦岭山区",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704164496,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 774048,
-      "num": 774048,
-      "word": "研究发现内脏脂肪越多大脑越小",
-      "onboard_time": 1704601713,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 773410,
-      "num": 773410,
-      "word": "王楚钦总决赛男单夺冠",
-      "onboard_time": 1704472170,
-      "rank": 3,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
