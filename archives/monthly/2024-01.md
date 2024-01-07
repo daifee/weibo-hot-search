@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/08 06:16:42
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/08 06:33:53
 </p>
 </blockquote>
 <p>
@@ -5967,6 +5967,12 @@ AG严正声明（热度：285793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%B9%A1%E5%AF%BC%E6%B8%B8%E5%BC%BA%E5%94%AE%E5%A5%97%E7%A5%A8%E6%9C%AA%E6%9E%9C%E8%AE%A9%E6%B8%B8%E5%AE%A2%E6%92%85%E5%B1%81%E8%82%A1%E7%AD%89%E7%9D%80%23" target="weibo">
+雪乡导游强售套票未果让游客撅屁股等着（热度：284828）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%84%E8%AE%BA%E7%BD%97%E4%BC%AF%E7%89%B9%23" target="weibo">
 评论罗伯特（热度：284488）
 </a>
@@ -6005,12 +6011,6 @@ TWS出道先行曲（热度：282111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23" target="weibo">
 2024年第一条微博（热度：282027）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A8%E8%9F%B9%E5%BA%A7%E7%9A%84%E6%97%A0%E6%89%80%E8%B0%93%E9%83%BD%E6%98%AF%E6%9C%89%E6%89%80%E8%B0%93%23" target="weibo">
-巨蟹座的无所谓都是有所谓（热度：281980）
 </a>
 </li>
 
