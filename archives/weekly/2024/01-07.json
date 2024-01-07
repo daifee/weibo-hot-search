@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704641650128,
+  "endTime": 1704644451777,
   "band_list": [
     {
       "raw_hot": 2625653,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 903623,
+      "num": 903623,
+      "word": "张雪峰解释公司为何不招应届生",
+      "onboard_time": 1704642929,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857602,
       "num": 585565,
       "word": "胡歌辛芷蕾繁花吻戏",
@@ -331,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 706715,
+      "num": 706715,
+      "word": "胖东来你装个红绿灯吧",
+      "onboard_time": 1704639756,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702844,
       "num": 282984,
       "word": "爸爸摔碎我化妆品后发的信息",
@@ -393,14 +409,6 @@
       "onboard_time": 1704634053,
       "rank": 16,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 641193,
-      "num": 641193,
-      "word": "胖东来你装个红绿灯吧",
-      "onboard_time": 1704639756,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 637810,
@@ -481,6 +489,14 @@
       "onboard_time": 1704622352,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 556101,
+      "num": 556101,
+      "word": "为什么年轻人不爱用信用卡了",
+      "onboard_time": 1704627211,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 553350,
@@ -603,6 +619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 492807,
+      "num": 492807,
+      "word": "白桃星座",
+      "onboard_time": 1704641731,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 491523,
       "num": 491523,
       "word": "郑恺 大家一起优雅地发疯",
@@ -689,14 +713,6 @@
       "onboard_time": 1704629431,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 431764,
-      "num": 374180,
-      "word": "为什么年轻人不爱用信用卡了",
-      "onboard_time": 1704627211,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 426478,
@@ -1179,6 +1195,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 247390,
+      "num": 169859,
+      "word": "雪乡导游强售套票未果让游客撅屁股等着",
+      "onboard_time": 1704642091,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246905,
       "num": 216821,
       "word": "最终幻想14",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1704554137,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 231200,
+      "num": 156451,
+      "word": "复旦流浪博士已与家乡取得联系",
+      "onboard_time": 1704643350,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231172,
@@ -2051,6 +2083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139135,
+      "num": 139135,
+      "word": "天启异闻录 烂尾",
+      "onboard_time": 1704643708,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138145,
       "num": 138145,
       "word": "下雾了学校像地府",
@@ -2081,6 +2121,14 @@
       "onboard_time": 1704625413,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134908,
+      "num": 134908,
+      "word": "亲人的职业决定了你的副业",
+      "onboard_time": 1704643108,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 134833,
@@ -2747,6 +2795,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 97063,
+      "num": 97063,
+      "word": "夏目友人帐 可爱娘口三三",
+      "onboard_time": 1704642510,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 96751,
       "num": 96751,
       "word": "民警一把拉住了欲跳楼男子小腿",
@@ -2865,6 +2921,14 @@
       "onboard_time": 1704638073,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86141,
+      "num": 86141,
+      "word": "卢美琳杜红根好嗑",
+      "onboard_time": 1704643467,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 83823,
