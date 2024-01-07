@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704648846636,
+  "endTime": 1704651663905,
   "band_list": [
     {
       "raw_hot": 1217319,
@@ -195,8 +195,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 158140,
-      "num": 158140,
+      "raw_hot": 174414,
+      "num": 174414,
       "word": "南宁地铁回应广告画争议",
       "onboard_time": 1704645683,
       "rank": 22,
@@ -449,6 +449,22 @@
       "onboard_time": 1704647900,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21061,
+      "num": 25281,
+      "word": "猫猫你是一辆面包车",
+      "onboard_time": 1704651019,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 10610,
+      "num": 221035,
+      "word": "中国在极地布放首个生态潜标",
+      "onboard_time": 1704634470,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

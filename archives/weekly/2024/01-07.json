@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704648846636,
+  "endTime": 1704651663905,
   "band_list": [
     {
       "raw_hot": 2625653,
@@ -1619,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174414,
+      "num": 174414,
+      "word": "南宁地铁回应广告画争议",
+      "onboard_time": 1704645683,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173624,
       "num": 173624,
       "word": "为啥看中医最好早上去",
@@ -1801,14 +1809,6 @@
       "onboard_time": 1704551795,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158140,
-      "num": 158140,
-      "word": "南宁地铁回应广告画争议",
-      "onboard_time": 1704645683,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157908,
@@ -3107,6 +3107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 21061,
+      "num": 25281,
+      "word": "猫猫你是一辆面包车",
+      "onboard_time": 1704651019,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20826,
       "num": 20826,
       "word": "美消费者组织控诉星巴克",
@@ -3129,6 +3137,14 @@
       "onboard_time": 1704574693,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10610,
+      "num": 221035,
+      "word": "中国在极地布放首个生态潜标",
+      "onboard_time": 1704634470,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

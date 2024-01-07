@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704648846636,
+  "endTime": 1704651663905,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -12635,6 +12635,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 174414,
+      "num": 174414,
+      "word": "南宁地铁回应广告画争议",
+      "onboard_time": 1704645683,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174400,
       "num": 174400,
       "word": "RW FLY",
@@ -13704,14 +13712,6 @@
       "word": "这朵花竟然是废弃窗帘布做出来的",
       "onboard_time": 1704111878,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158140,
-      "num": 158140,
-      "word": "南宁地铁回应广告画争议",
-      "onboard_time": 1704645683,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -19051,6 +19051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21061,
+      "num": 25281,
+      "word": "猫猫你是一辆面包车",
+      "onboard_time": 1704651019,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21010,
       "num": 21010,
       "word": "我的年度妆容",
@@ -19289,6 +19297,14 @@
       "onboard_time": 1704313874,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10610,
+      "num": 221035,
+      "word": "中国在极地布放首个生态潜标",
+      "onboard_time": 1704634470,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10416,
