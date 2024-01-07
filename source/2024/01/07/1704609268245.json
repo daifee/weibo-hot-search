@@ -1,0 +1,410 @@
+{
+  "runTime": 1704609268245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1135154,
+        "num": 1135154,
+        "word": "微信私密朋友圈被吐槽有bug",
+        "onboard_time": 1704594689,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 738754,
+        "num": 738754,
+        "word": "研究发现内脏脂肪越多大脑越小",
+        "onboard_time": 1704601713,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42962,
+        "num": 672874,
+        "word": "中国冰雪季大联欢",
+        "onboard_time": 1704596369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661742,
+        "num": 661742,
+        "word": "鹤岗把唯一的丹顶鹤借给尔滨",
+        "onboard_time": 1704607769,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 483654,
+        "num": 483654,
+        "word": "辛芷蕾因绣春刀被王家卫选中",
+        "onboard_time": 1704595052,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351969,
+        "num": 351969,
+        "word": "钟楚曦侯雯元吻戏",
+        "onboard_time": 1704604950,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336593,
+        "num": 336593,
+        "word": "庄嫂摔碗 郑恺关门",
+        "onboard_time": 1704608548,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333965,
+        "num": 333965,
+        "word": "女孩骨折忍痛赶飞机邻座是骨科主任",
+        "onboard_time": 1704584482,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332954,
+        "num": 332954,
+        "word": "尔滨送女生1000克拉冰钻戒",
+        "onboard_time": 1704591751,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322953,
+        "num": 322953,
+        "word": "国考成绩 等一个奇迹",
+        "onboard_time": 1704597511,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 892551,
+        "num": 313564,
+        "word": "霍金",
+        "onboard_time": 1704594028,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485700,
+        "num": 309986,
+        "word": "三喜的肠肠",
+        "onboard_time": 1704596190,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391907,
+        "num": 306641,
+        "word": "不管你是什么馒头从车银优身上下来",
+        "onboard_time": 1704604470,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302587,
+        "num": 302587,
+        "word": "浙大一院半月接收47名围炉煮茶中毒患者",
+        "onboard_time": 1704599250,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294368,
+        "num": 294368,
+        "word": "哈尔滨当地人搓澡都戒半个月了",
+        "onboard_time": 1704601472,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292765,
+        "num": 292765,
+        "word": "长期横向刷牙或会致牙齿缺损",
+        "onboard_time": 1704605490,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 698653,
+        "num": 283253,
+        "word": "专家建议取消大城市买房买车限制",
+        "onboard_time": 1704598291,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257159,
+        "num": 257159,
+        "word": "有必要将义务教育延长至12年吗",
+        "onboard_time": 1704607947,
+        "rank": 17,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 245580,
+        "num": 245580,
+        "word": "鸣龙少年编剧 参加过高考吗",
+        "onboard_time": 1704592650,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226706,
+        "num": 226706,
+        "word": "微博之夜第四波官宣阵容",
+        "onboard_time": 1704601291,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 590876,
+        "num": 226584,
+        "word": "女子拍完写真全身痒到抓出血",
+        "onboard_time": 1704604591,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220397,
+        "num": 220397,
+        "word": "妈妈为了和我多聊天换头像",
+        "onboard_time": 1704606211,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206722,
+        "num": 206722,
+        "word": "爱泼斯坦文件",
+        "onboard_time": 1704590370,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200349,
+        "num": 200349,
+        "word": "吃饭有这2个表现说明正在变老",
+        "onboard_time": 1704603513,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196085,
+        "num": 196085,
+        "word": "龙年茅台申购每瓶2499元",
+        "onboard_time": 1704605912,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193020,
+        "num": 193020,
+        "word": "哈工大学长杨柏汇因笑容温柔被关注",
+        "onboard_time": 1704608849,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180682,
+        "num": 180682,
+        "word": "不见岳典藏皮肤",
+        "onboard_time": 1704605671,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166501,
+        "num": 166501,
+        "word": "教育部辟谣缩短学制取消中考",
+        "onboard_time": 1704601713,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154884,
+        "num": 154884,
+        "word": "关晓彤晒庄筱婷剧照",
+        "onboard_time": 1704608788,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154677,
+        "num": 154677,
+        "word": "吉林市民送姜茶遭摊贩威胁称抢生意",
+        "onboard_time": 1704607230,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154312,
+        "num": 154312,
+        "word": "刘些宁吃炸蜘蛛",
+        "onboard_time": 1704608548,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153230,
+        "num": 153230,
+        "word": "年会不能停",
+        "onboard_time": 1704605912,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138015,
+        "num": 138015,
+        "word": "12岁肺纤维化女孩现在怎样了",
+        "onboard_time": 1704593969,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137970,
+        "num": 137970,
+        "word": "死期将至 爆哭",
+        "onboard_time": 1704584842,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131043,
+        "num": 131043,
+        "word": "阴阳师",
+        "onboard_time": 1704607708,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130273,
+        "num": 130273,
+        "word": "狗狗偷咬主人被抓包急忙捂嘴",
+        "onboard_time": 1704606329,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125922,
+        "num": 125922,
+        "word": "张杰张靓颖 沉香",
+        "onboard_time": 1704600811,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124736,
+        "num": 124736,
+        "word": "为什么年轻人热衷于祈福了",
+        "onboard_time": 1704602552,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123729,
+        "num": 123729,
+        "word": "厌食症 早起",
+        "onboard_time": 1704594932,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123506,
+        "num": 123506,
+        "word": "死期将至立意",
+        "onboard_time": 1704609088,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118188,
+        "num": 118188,
+        "word": "订婚3年后男子反悔索要18万彩礼",
+        "onboard_time": 1704596369,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115463,
+        "num": 115463,
+        "word": "陈楚生声生不息Vlog",
+        "onboard_time": 1704607289,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113943,
+        "num": 113943,
+        "word": "李楷灿病休",
+        "onboard_time": 1704601231,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111481,
+        "num": 111481,
+        "word": "张若昀长文",
+        "onboard_time": 1704545671,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111394,
+        "num": 111394,
+        "word": "男子凌晨逐户试锁开门成功进入一户",
+        "onboard_time": 1704600990,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110653,
+        "num": 110653,
+        "word": "3同学租车出车祸开车同学遭索赔59万",
+        "onboard_time": 1704591990,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110533,
+        "num": 110533,
+        "word": "国内女足球员限薪120万",
+        "onboard_time": 1704600990,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107861,
+        "num": 107861,
+        "word": "被哥哥亲懵圈的宝宝",
+        "onboard_time": 1704602313,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100953,
+        "num": 100953,
+        "word": "11个小砂糖橘告别哈尔滨前往吉林",
+        "onboard_time": 1704603811,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 92118,
+        "num": 92118,
+        "word": "自然醒是最奢侈也是最快乐的事",
+        "onboard_time": 1704608188,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}
