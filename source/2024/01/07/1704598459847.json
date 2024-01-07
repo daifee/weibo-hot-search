@@ -1,0 +1,410 @@
+{
+  "runTime": 1704598459847,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2201623,
+        "num": 2201623,
+        "word": "微信私密朋友圈被吐槽有bug",
+        "onboard_time": 1704594689,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 700012,
+        "num": 700012,
+        "word": "辛芷蕾因绣春刀被王家卫选中",
+        "onboard_time": 1704595052,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62788,
+        "num": 688558,
+        "word": "中国冰雪季大联欢",
+        "onboard_time": 1704596369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681454,
+        "num": 681454,
+        "word": "3同学租车出车祸开车同学遭索赔59万",
+        "onboard_time": 1704591990,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645973,
+        "num": 645973,
+        "word": "国考成绩 等一个奇迹",
+        "onboard_time": 1704597511,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 546677,
+        "num": 546677,
+        "word": "厌食症 早起",
+        "onboard_time": 1704594932,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 536344,
+        "num": 536344,
+        "word": "鸣龙少年编剧 参加过高考吗",
+        "onboard_time": 1704592650,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532260,
+        "num": 532260,
+        "word": "女孩骨折忍痛赶飞机邻座是骨科主任",
+        "onboard_time": 1704584482,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452247,
+        "num": 452247,
+        "word": "张若昀长文",
+        "onboard_time": 1704545671,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409801,
+        "num": 409801,
+        "word": "12岁肺纤维化女孩现在怎样了",
+        "onboard_time": 1704593969,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1194730,
+        "num": 406130,
+        "word": "霍金",
+        "onboard_time": 1704594028,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 945338,
+        "num": 400800,
+        "word": "三喜的肠肠",
+        "onboard_time": 1704596190,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393454,
+        "num": 393454,
+        "word": "留美流浪博士发声",
+        "onboard_time": 1704593611,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74975,
+        "num": 369440,
+        "word": "汪苏泷献唱王者动画剧集",
+        "onboard_time": 1704596851,
+        "rank": 13,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 360428,
+        "num": 360428,
+        "word": "四川省考 数量全靠蒙",
+        "onboard_time": 1704598114,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 339028,
+        "num": 339028,
+        "word": "尔滨送女生1000克拉冰钻戒",
+        "onboard_time": 1704591751,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331708,
+        "num": 331708,
+        "word": "订婚3年后男子反悔索要18万彩礼",
+        "onboard_time": 1704596369,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323173,
+        "num": 323173,
+        "word": "中方决定制裁5家美国军工企业",
+        "onboard_time": 1704590969,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295270,
+        "num": 295270,
+        "word": "iPhone电池门赔款到账",
+        "onboard_time": 1704587484,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 291049,
+        "num": 291049,
+        "word": "死期将至 爆哭",
+        "onboard_time": 1704584842,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285827,
+        "num": 285827,
+        "word": "女子多次仅退款后又偷取走快递",
+        "onboard_time": 1704562401,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221230,
+        "num": 221230,
+        "word": "爱泼斯坦文件",
+        "onboard_time": 1704590370,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220309,
+        "num": 220309,
+        "word": "檀健次一句话把何炅整懵了",
+        "onboard_time": 1704595227,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218488,
+        "num": 218488,
+        "word": "黑龙江有蔓越莓本地人都不知道",
+        "onboard_time": 1704590672,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 216183,
+        "num": 216183,
+        "word": "各省小朋友名字一览",
+        "onboard_time": 1704596429,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203568,
+        "num": 203568,
+        "word": "丞磊的综艺感一期比一期离谱",
+        "onboard_time": 1704595650,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189864,
+        "num": 189864,
+        "word": "微博处置哈尔滨旅游爆火中挑动对立账号",
+        "onboard_time": 1704595409,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189843,
+        "num": 189843,
+        "word": "砂糖橘东北睡1宿变果脯",
+        "onboard_time": 1704549995,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181389,
+        "num": 181389,
+        "word": "张若昀 女团腿",
+        "onboard_time": 1704551376,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178174,
+        "num": 178174,
+        "word": "去哈尔滨的诱惑已打败艾莎公主",
+        "onboard_time": 1704587607,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589021,
+        "num": 177861,
+        "word": "四川省考 做不完根本做不完",
+        "onboard_time": 1704598291,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177431,
+        "num": 177431,
+        "word": "小砂糖橘遇见顶流企鹅还撞衫了",
+        "onboard_time": 1704589831,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162487,
+        "num": 162487,
+        "word": "陈奕迅巡演内地首唱富士山下",
+        "onboard_time": 1704596728,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159582,
+        "num": 159582,
+        "word": "爸爸在我结婚前突然后悔了",
+        "onboard_time": 1704582438,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152765,
+        "num": 152765,
+        "word": "花少北时隔2年再获百大",
+        "onboard_time": 1704589110,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147034,
+        "num": 147034,
+        "word": "王家卫希望胡歌找回演李逍遥的感觉",
+        "onboard_time": 1704548736,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135888,
+        "num": 135888,
+        "word": "iPhone需求引发担忧",
+        "onboard_time": 1704592712,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133553,
+        "num": 133553,
+        "word": "周深汪苏泷质问容祖儿",
+        "onboard_time": 1704597870,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129852,
+        "num": 129852,
+        "word": "谢娜客串过苏有朋的左耳",
+        "onboard_time": 1704589471,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129240,
+        "num": 129240,
+        "word": "阿宝归宿",
+        "onboard_time": 1704596311,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127856,
+        "num": 127856,
+        "word": "尔滨这回真的来熊猫了",
+        "onboard_time": 1704582380,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127352,
+        "num": 127352,
+        "word": "埃塞俄比亚选手厦门马拉松夺冠",
+        "onboard_time": 1704595470,
+        "rank": 41,
+        "category": "运动健身,社会新闻"
+      },
+      {
+        "raw_hot": 126987,
+        "num": 126987,
+        "word": "专家建议取消大城市买房买车限制",
+        "onboard_time": 1704598291,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125319,
+        "num": 125319,
+        "word": "小朋友哈尔滨机场爆哭不肯离开",
+        "onboard_time": 1704593969,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 118670,
+        "num": 118670,
+        "word": "贪官太嚣张另一个贪官都看不下去了",
+        "onboard_time": 1704552633,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117514,
+        "num": 117514,
+        "word": "上市公司说好增持上亿结果只买2889元",
+        "onboard_time": 1704593370,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113395,
+        "num": 113395,
+        "word": "健康人群午睡最好别超半小时",
+        "onboard_time": 1704586585,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107072,
+        "num": 107072,
+        "word": "WTT说准备好被孙颖莎惊艳吧",
+        "onboard_time": 1704597511,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105464,
+        "num": 105464,
+        "word": "78岁父亲独自坐动车庆女儿开业",
+        "onboard_time": 1704598351,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99253,
+        "num": 99253,
+        "word": "凤凰传奇来百大也得罚站",
+        "onboard_time": 1704588807,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}

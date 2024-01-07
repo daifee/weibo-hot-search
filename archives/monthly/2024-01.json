@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704597501423,
+  "endTime": 1704598459847,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2201623,
+      "num": 2201623,
+      "word": "微信私密朋友圈被吐槽有bug",
+      "onboard_time": 1704594689,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2192273,
       "num": 2192273,
       "word": "中福彩已报警",
@@ -281,14 +289,6 @@
       "onboard_time": 1704288096,
       "rank": 0,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1962543,
-      "num": 1962543,
-      "word": "微信私密朋友圈被吐槽有bug",
-      "onboard_time": 1704594689,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 1897679,
@@ -1683,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 945338,
+      "num": 420689,
+      "word": "三喜的肠肠",
+      "onboard_time": 1704596190,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 938120,
       "num": 938120,
       "word": "繁花 没人相信自己要杀青了",
@@ -2403,14 +2411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 745939,
-      "num": 420689,
-      "word": "三喜的肠肠",
-      "onboard_time": 1704596190,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 745276,
       "num": 745276,
       "word": "主播声称几万元貂皮卖399大妈狂下单",
@@ -2689,6 +2689,14 @@
       "onboard_time": 1704466655,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 700012,
+      "num": 700012,
+      "word": "辛芷蕾因绣春刀被王家卫选中",
+      "onboard_time": 1704595052,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 699601,
@@ -3091,19 +3099,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 645973,
+      "num": 645973,
+      "word": "国考成绩 等一个奇迹",
+      "onboard_time": 1704597511,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 643908,
       "num": 643908,
       "word": "郑业成祝绪丹 镜花缘",
       "onboard_time": 1704341735,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 642714,
-      "num": 642714,
-      "word": "辛芷蕾因绣春刀被王家卫选中",
-      "onboard_time": 1704595052,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -3483,6 +3491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 589021,
+      "num": 177861,
+      "word": "四川省考 做不完根本做不完",
+      "onboard_time": 1704598291,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 589005,
       "num": 360371,
       "word": "日本地震已致98人死亡",
@@ -3851,6 +3867,14 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 546677,
+      "num": 546677,
+      "word": "厌食症 早起",
+      "onboard_time": 1704594932,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 546460,
       "num": 546460,
       "word": "王楚钦比赛",
@@ -4017,14 +4041,6 @@
       "onboard_time": 1704433714,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 527840,
-      "num": 527840,
-      "word": "厌食症 早起",
-      "onboard_time": 1704594932,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 527298,
@@ -5939,6 +5955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360428,
+      "num": 360428,
+      "word": "四川省考 数量全靠蒙",
+      "onboard_time": 1704598114,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 359953,
       "num": 359953,
       "word": "忙内line颁奖",
@@ -6297,6 +6321,14 @@
       "onboard_time": 1704125911,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331708,
+      "num": 331708,
+      "word": "订婚3年后男子反悔索要18万彩礼",
+      "onboard_time": 1704596369,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329328,
@@ -7409,14 +7441,6 @@
       "onboard_time": 1704549396,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 273795,
-      "num": 220127,
-      "word": "订婚3年后男子反悔索要18万彩礼",
-      "onboard_time": 1704596369,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273526,
@@ -9019,6 +9043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220309,
+      "num": 220309,
+      "word": "檀健次一句话把何炅整懵了",
+      "onboard_time": 1704595227,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220303,
       "num": 191497,
       "word": "繁花 A先生",
@@ -9033,14 +9065,6 @@
       "onboard_time": 1704245552,
       "rank": 48,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 219646,
-      "num": 219646,
-      "word": "檀健次一句话把何炅整懵了",
-      "onboard_time": 1704595227,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 219455,
@@ -9193,6 +9217,14 @@
       "onboard_time": 1704453933,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216183,
+      "num": 216183,
+      "word": "各省小朋友名字一览",
+      "onboard_time": 1704596429,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 215702,
@@ -10451,14 +10483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192211,
-      "num": 192211,
-      "word": "各省小朋友名字一览",
-      "onboard_time": 1704596429,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 191859,
       "num": 162124,
       "word": "金手指 看完戒股",
@@ -10609,6 +10633,14 @@
       "onboard_time": 1704074192,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 189864,
+      "num": 189864,
+      "word": "微博处置哈尔滨旅游爆火中挑动对立账号",
+      "onboard_time": 1704595409,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189791,
@@ -11096,14 +11128,6 @@
       "word": "走进鄂伦春族",
       "onboard_time": 1704253473,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181319,
-      "num": 181319,
-      "word": "微博处置哈尔滨旅游爆火中挑动对立账号",
-      "onboard_time": 1704595409,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -12313,6 +12337,14 @@
       "onboard_time": 1704266069,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162487,
+      "num": 162487,
+      "word": "陈奕迅巡演内地首唱富士山下",
+      "onboard_time": 1704596728,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 162448,
@@ -14147,6 +14179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133553,
+      "num": 133553,
+      "word": "周深汪苏泷质问容祖儿",
+      "onboard_time": 1704597870,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133239,
       "num": 133239,
       "word": "上大学后才知道的人情世故",
@@ -14593,6 +14633,14 @@
       "onboard_time": 1704182674,
       "rank": 17,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 126987,
+      "num": 126987,
+      "word": "专家建议取消大城市买房买车限制",
+      "onboard_time": 1704598291,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126902,
@@ -15459,14 +15507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 109813,
-      "num": 109813,
-      "word": "陈奕迅巡演内地首唱富士山下",
-      "onboard_time": 1704596728,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 109802,
       "num": 109802,
       "word": "浴室厨房马桶下水道堵了怎么疏通",
@@ -15563,6 +15603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107072,
+      "num": 107072,
+      "word": "WTT说准备好被孙颖莎惊艳吧",
+      "onboard_time": 1704597511,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107017,
       "num": 107017,
       "word": "理解了女娲的不容易",
@@ -15625,6 +15673,14 @@
       "onboard_time": 1704297992,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105464,
+      "num": 105464,
+      "word": "78岁父亲独自坐动车庆女儿开业",
+      "onboard_time": 1704598351,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105380,
@@ -16219,6 +16275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74975,
+      "num": 369440,
+      "word": "汪苏泷献唱王者动画剧集",
+      "onboard_time": 1704596851,
+      "rank": 32,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 74354,
       "num": 74354,
       "word": "甲流刚好又感染乙流",
@@ -16233,14 +16297,6 @@
       "onboard_time": 1704052038,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 74071,
-      "num": 152825,
-      "word": "汪苏泷献唱王者动画剧集",
-      "onboard_time": 1704596851,
-      "rank": 32,
-      "category": "音乐,游戏"
     },
     {
       "raw_hot": 73288,
@@ -16435,19 +16491,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62788,
+      "num": 722743,
+      "word": "中国冰雪季大联欢",
+      "onboard_time": 1704596369,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62299,
       "num": 62299,
       "word": "浙江这家企业一年从欧洲进账40亿",
       "onboard_time": 1704299724,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62192,
-      "num": 722743,
-      "word": "中国冰雪季大联欢",
-      "onboard_time": 1704596369,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

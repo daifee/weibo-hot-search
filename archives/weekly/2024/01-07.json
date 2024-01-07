@@ -1,10 +1,10 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704597501423,
+  "endTime": 1704598459847,
   "band_list": [
     {
-      "raw_hot": 1962543,
-      "num": 1962543,
+      "raw_hot": 2201623,
+      "num": 2201623,
       "word": "微信私密朋友圈被吐槽有bug",
       "onboard_time": 1704594689,
       "rank": 29,
@@ -17,6 +17,14 @@
       "onboard_time": 1704545671,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1194730,
+      "num": 422878,
+      "word": "霍金",
+      "onboard_time": 1704594028,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1186866,
@@ -43,14 +51,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 971356,
-      "num": 422878,
-      "word": "霍金",
-      "onboard_time": 1704594028,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 959210,
       "num": 959210,
       "word": "儿子身陷缅北父亲筹47万欲捞人被司法所劝住",
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 945338,
+      "num": 420689,
+      "word": "三喜的肠肠",
+      "onboard_time": 1704596190,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 762716,
       "num": 762716,
       "word": "央视曝辽宁3任公安厅长落马细节",
       "onboard_time": 1704553356,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 745939,
-      "num": 420689,
-      "word": "三喜的肠肠",
-      "onboard_time": 1704596190,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 737858,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 700012,
+      "num": 700012,
+      "word": "辛芷蕾因绣春刀被王家卫选中",
+      "onboard_time": 1704595052,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 664862,
       "num": 664862,
       "word": "已读乱回",
@@ -107,12 +115,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 642714,
-      "num": 642714,
-      "word": "辛芷蕾因绣春刀被王家卫选中",
-      "onboard_time": 1704595052,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 645973,
+      "num": 645973,
+      "word": "国考成绩 等一个奇迹",
+      "onboard_time": 1704597511,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 637810,
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 589021,
+      "num": 177861,
+      "word": "四川省考 做不完根本做不完",
+      "onboard_time": 1704598291,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 584669,
       "num": 440376,
       "word": "在中央大街摆摊的炸串老板道歉",
@@ -163,8 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 527840,
-      "num": 527840,
+      "raw_hot": 546677,
+      "num": 546677,
       "word": "厌食症 早起",
       "onboard_time": 1704594932,
       "rank": 25,
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360428,
+      "num": 360428,
+      "word": "四川省考 数量全靠蒙",
+      "onboard_time": 1704598114,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 351603,
       "num": 351603,
       "word": "谢娜客串过苏有朋的左耳",
@@ -320,6 +344,14 @@
       "word": "贪官收22箱现金车被压得上不了坡",
       "onboard_time": 1704549576,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331708,
+      "num": 331708,
+      "word": "订婚3年后男子反悔索要18万彩礼",
+      "onboard_time": 1704596369,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -363,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273795,
-      "num": 220127,
-      "word": "订婚3年后男子反悔索要18万彩礼",
-      "onboard_time": 1704596369,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268992,
       "num": 268992,
       "word": "小砂糖橘遇见顶流企鹅还撞衫了",
@@ -411,8 +435,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 219646,
-      "num": 219646,
+      "raw_hot": 220309,
+      "num": 220309,
       "word": "檀健次一句话把何炅整懵了",
       "onboard_time": 1704595227,
       "rank": 42,
@@ -425,6 +449,14 @@
       "onboard_time": 1704557191,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216183,
+      "num": 216183,
+      "word": "各省小朋友名字一览",
+      "onboard_time": 1704596429,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 212795,
@@ -467,20 +499,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192211,
-      "num": 192211,
-      "word": "各省小朋友名字一览",
-      "onboard_time": 1704596429,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 191609,
       "num": 191609,
       "word": "男子回应拿200万拆迁款建厂招残疾员工",
       "onboard_time": 1704574514,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 189864,
+      "num": 189864,
+      "word": "微博处置哈尔滨旅游爆火中挑动对立账号",
+      "onboard_time": 1704595409,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188232,
@@ -497,14 +529,6 @@
       "onboard_time": 1704592712,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 181319,
-      "num": 181319,
-      "word": "微博处置哈尔滨旅游爆火中挑动对立账号",
-      "onboard_time": 1704595409,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181304,
@@ -577,6 +601,14 @@
       "onboard_time": 1704593848,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 162487,
+      "num": 162487,
+      "word": "陈奕迅巡演内地首唱富士山下",
+      "onboard_time": 1704596728,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 158780,
@@ -707,6 +739,14 @@
       "category": "运动健身,社会新闻"
     },
     {
+      "raw_hot": 133553,
+      "num": 133553,
+      "word": "周深汪苏泷质问容祖儿",
+      "onboard_time": 1704597870,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133239,
       "num": 133239,
       "word": "上大学后才知道的人情世故",
@@ -737,6 +777,14 @@
       "onboard_time": 1704590009,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126987,
+      "num": 126987,
+      "word": "专家建议取消大城市买房买车限制",
+      "onboard_time": 1704598291,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123365,
@@ -827,14 +875,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 109813,
-      "num": 109813,
-      "word": "陈奕迅巡演内地首唱富士山下",
-      "onboard_time": 1704596728,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 109241,
       "num": 109241,
       "word": "首批广西砂糖橘在哈尔滨免费发放",
@@ -849,6 +889,14 @@
       "onboard_time": 1704530013,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 107072,
+      "num": 107072,
+      "word": "WTT说准备好被孙颖莎惊艳吧",
+      "onboard_time": 1704597511,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 105828,
@@ -873,6 +921,14 @@
       "onboard_time": 1704545493,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105464,
+      "num": 105464,
+      "word": "78岁父亲独自坐动车庆女儿开业",
+      "onboard_time": 1704598351,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103940,
@@ -979,15 +1035,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 74071,
-      "num": 152825,
+      "raw_hot": 74975,
+      "num": 369440,
       "word": "汪苏泷献唱王者动画剧集",
       "onboard_time": 1704596851,
       "rank": 32,
       "category": "音乐,游戏"
     },
     {
-      "raw_hot": 62192,
+      "raw_hot": 62788,
       "num": 722743,
       "word": "中国冰雪季大联欢",
       "onboard_time": 1704596369,
