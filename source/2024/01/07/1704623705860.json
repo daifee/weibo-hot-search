@@ -1,0 +1,410 @@
+{
+  "runTime": 1704623705860,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1163736,
+        "num": 1163736,
+        "word": "日本地震导致部分海域变陆地",
+        "onboard_time": 1704620012,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555392,
+        "num": 1003700,
+        "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
+        "onboard_time": 1704611608,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56415,
+        "num": 1002932,
+        "word": "东部战区新年开飞高燃画面",
+        "onboard_time": 1704615628,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1002884,
+        "num": 1002884,
+        "word": "主播展示百万帝王绿翡翠手滑掉河里",
+        "onboard_time": 1704617790,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344764,
+        "num": 836194,
+        "word": "大四男生租房被房东奶奶当亲孙照顾",
+        "onboard_time": 1704613952,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 824347,
+        "num": 824347,
+        "word": "joker不是小丑 是制胜的王牌",
+        "onboard_time": 1704620491,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322873,
+        "num": 814067,
+        "word": "一车白狐即将运往尔滨",
+        "onboard_time": 1704612330,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811002,
+        "num": 811002,
+        "word": "31岁中国男游客在泰国浮潜溺亡",
+        "onboard_time": 1704621152,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578906,
+        "num": 578906,
+        "word": "第一部国产偶像剧男主是陈龙",
+        "onboard_time": 1704616229,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498997,
+        "num": 498997,
+        "word": "东北人保密意识真好",
+        "onboard_time": 1704617790,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 452966,
+        "num": 452966,
+        "word": "期末复习小孩哥头像",
+        "onboard_time": 1704618329,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 428420,
+        "num": 428420,
+        "word": "微信私密朋友圈被吐槽有bug",
+        "onboard_time": 1704594689,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 426478,
+        "num": 426478,
+        "word": "国色芳华剧组抓代拍",
+        "onboard_time": 1704619470,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407006,
+        "num": 407006,
+        "word": "霍金",
+        "onboard_time": 1704594028,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34357,
+        "num": 404201,
+        "word": "厦马参赛体验有多棒",
+        "onboard_time": 1704621629,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1512325,
+        "num": 404040,
+        "word": "易孕体质",
+        "onboard_time": 1704616348,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 403504,
+        "num": 403504,
+        "word": "黑龙江蔓越莓",
+        "onboard_time": 1704619592,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 386922,
+        "num": 386922,
+        "word": "王心凌 纯白圣女",
+        "onboard_time": 1704622352,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 338623,
+        "num": 338623,
+        "word": "胡歌称和王家卫合作像谈恋爱",
+        "onboard_time": 1704616889,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299650,
+        "num": 299650,
+        "word": "四川省考 愉快的旅游",
+        "onboard_time": 1704620190,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 273762,
+        "num": 273762,
+        "word": "张大大穿增高鞋没关晓彤高",
+        "onboard_time": 1704622772,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270181,
+        "num": 270181,
+        "word": "杨紫李现国色芳华捧脸路透",
+        "onboard_time": 1704621390,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239690,
+        "num": 239690,
+        "word": "国考成绩 等一个奇迹",
+        "onboard_time": 1704597511,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 233920,
+        "num": 233920,
+        "word": "周深好像抓到姐姐谈恋爱的弟弟",
+        "onboard_time": 1704620309,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51908,
+        "num": 225831,
+        "word": "元梦的第一个百大up主",
+        "onboard_time": 1704620731,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225302,
+        "num": 225302,
+        "word": "梁朝伟 其实我也不是那么i",
+        "onboard_time": 1704623191,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221896,
+        "num": 221896,
+        "word": "酒鬼去汪星了",
+        "onboard_time": 1704623252,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211506,
+        "num": 211506,
+        "word": "找领导报销被抹零了199元",
+        "onboard_time": 1704612330,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197535,
+        "num": 197535,
+        "word": "周笔畅演唱会穿了六套高定",
+        "onboard_time": 1704619529,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165114,
+        "num": 196214,
+        "word": "野生东北虎被拍到下山爪子带血",
+        "onboard_time": 1704620851,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196150,
+        "num": 196150,
+        "word": "乙流和甲流啥区别",
+        "onboard_time": 1704618872,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189190,
+        "num": 189190,
+        "word": "汪小姐同款排骨年糕",
+        "onboard_time": 1704622291,
+        "rank": 31,
+        "category": "美食,作品衍生"
+      },
+      {
+        "raw_hot": 180417,
+        "num": 180417,
+        "word": "双眼皮单眼皮各有各的美",
+        "onboard_time": 1704621390,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 179343,
+        "num": 179343,
+        "word": "女子拍完写真全身痒到抓出血",
+        "onboard_time": 1704604591,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179325,
+        "num": 179325,
+        "word": "2024年才过了第一周的我",
+        "onboard_time": 1704622112,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173678,
+        "num": 173678,
+        "word": "送外卖供复旦大学弟弟读书",
+        "onboard_time": 1704617131,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161940,
+        "num": 161940,
+        "word": "刘雅瑟一滴泪演技太虐了",
+        "onboard_time": 1704611791,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161248,
+        "num": 161248,
+        "word": "四川小熊猫已到尔滨报道",
+        "onboard_time": 1704618329,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152016,
+        "num": 152016,
+        "word": "打工人的生理期",
+        "onboard_time": 1704615749,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151662,
+        "num": 151662,
+        "word": "返程男子后备厢被塞160斤土特产",
+        "onboard_time": 1704623490,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151022,
+        "num": 151022,
+        "word": "被威胁女大学生重回事发地摆摊",
+        "onboard_time": 1704621752,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146983,
+        "num": 146983,
+        "word": "三喜的肠肠",
+        "onboard_time": 1704596190,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144982,
+        "num": 144982,
+        "word": "丹东文旅局长赴哈尔滨送草莓",
+        "onboard_time": 1704614368,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133861,
+        "num": 133861,
+        "word": "霉霉大电影 美到我心软软",
+        "onboard_time": 1704619951,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131914,
+        "num": 131914,
+        "word": "我以四叶草的名义推举你们为tfkids",
+        "onboard_time": 1704617552,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128848,
+        "num": 128848,
+        "word": "男子住ICU民警帮助找到失散亲人",
+        "onboard_time": 1704623134,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122817,
+        "num": 122817,
+        "word": "每天一根胡萝卜可降低患癌风险",
+        "onboard_time": 1704616528,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119539,
+        "num": 119539,
+        "word": "日本能登地区已发生1000余次地震",
+        "onboard_time": 1704617370,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119244,
+        "num": 119244,
+        "word": "Cat 春季赛休息",
+        "onboard_time": 1704614789,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117589,
+        "num": 117589,
+        "word": "鹤岗官方回应丹顶鹤在哈尔滨发抖",
+        "onboard_time": 1704623672,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#轨道上的京津冀加速形成#"
+    }
+  }
+}
