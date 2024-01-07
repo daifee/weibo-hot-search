@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704652432821,
+  "endTime": 1704654834100,
   "band_list": [
     {
       "raw_hot": 1217319,
@@ -465,6 +465,22 @@
       "onboard_time": 1704651019,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18535,
+      "num": 18366,
+      "word": "繁花",
+      "onboard_time": 1704629431,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16451,
+      "num": 16855,
+      "word": "繁花反派梅萍是王菊演的",
+      "onboard_time": 1704639155,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 10981,
