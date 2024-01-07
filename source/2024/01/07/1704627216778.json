@@ -1,0 +1,410 @@
+{
+  "runTime": 1704627216778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2625653,
+        "num": 2625653,
+        "word": "马斯克被曝吸毒",
+        "onboard_time": 1704624691,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 556919,
+        "num": 1792026,
+        "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
+        "onboard_time": 1704611608,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50940,
+        "num": 1214415,
+        "word": "东部战区新年开飞高燃画面",
+        "onboard_time": 1704615628,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1085986,
+        "num": 1085986,
+        "word": "国考 给个痛快吧",
+        "onboard_time": 1704625713,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 359362,
+        "num": 986232,
+        "word": "大四男生租房被房东奶奶当亲孙照顾",
+        "onboard_time": 1704613952,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986011,
+        "num": 986011,
+        "word": "酒鬼去汪星了",
+        "onboard_time": 1704623252,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291279,
+        "num": 925092,
+        "word": "一车白狐即将运往尔滨",
+        "onboard_time": 1704612330,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908643,
+        "num": 908643,
+        "word": "日本地震导致部分海域变陆地",
+        "onboard_time": 1704620012,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634761,
+        "num": 634761,
+        "word": "31岁中国男游客在泰国浮潜溺亡",
+        "onboard_time": 1704621152,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571507,
+        "num": 571507,
+        "word": "王心凌 纯白圣女",
+        "onboard_time": 1704622352,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 564770,
+        "num": 564770,
+        "word": "主播展示百万帝王绿翡翠手滑掉河里",
+        "onboard_time": 1704617790,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515120,
+        "num": 515120,
+        "word": "酒鬼 撕家",
+        "onboard_time": 1704625110,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 466838,
+        "num": 466838,
+        "word": "第一部国产偶像剧男主是陈龙",
+        "onboard_time": 1704616229,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459938,
+        "num": 459938,
+        "word": "霍金",
+        "onboard_time": 1704594028,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426725,
+        "num": 426725,
+        "word": "joker不是小丑 是制胜的王牌",
+        "onboard_time": 1704620491,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413271,
+        "num": 413271,
+        "word": "张大大穿增高鞋没关晓彤高",
+        "onboard_time": 1704622772,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398738,
+        "num": 398738,
+        "word": "微信私密朋友圈被吐槽有bug",
+        "onboard_time": 1704594689,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 324569,
+        "num": 324569,
+        "word": "李李身世之谜",
+        "onboard_time": 1704625830,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284425,
+        "num": 284425,
+        "word": "梁朝伟 其实我也不是那么i",
+        "onboard_time": 1704623191,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284183,
+        "num": 284183,
+        "word": "国色芳华剧组抓代拍",
+        "onboard_time": 1704619470,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416298,
+        "num": 275972,
+        "word": "鹤岗官方回应丹顶鹤在哈尔滨发抖",
+        "onboard_time": 1704623672,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245496,
+        "num": 245496,
+        "word": "国考成绩 等一个奇迹",
+        "onboard_time": 1704597511,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 217860,
+        "num": 217860,
+        "word": "2024年才过了第一周的我",
+        "onboard_time": 1704622112,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199032,
+        "num": 199032,
+        "word": "律师否认马斯克吸毒",
+        "onboard_time": 1704625776,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197781,
+        "num": 197781,
+        "word": "找领导报销被抹零了199元",
+        "onboard_time": 1704612330,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197546,
+        "num": 197546,
+        "word": "杨紫李现国色芳华捧脸路透",
+        "onboard_time": 1704621390,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182653,
+        "num": 182653,
+        "word": "东北人保密意识真好",
+        "onboard_time": 1704617790,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181064,
+        "num": 181064,
+        "word": "期末复习小孩哥头像",
+        "onboard_time": 1704618329,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168467,
+        "num": 168467,
+        "word": "胡歌称和王家卫合作像谈恋爱",
+        "onboard_time": 1704616889,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168313,
+        "num": 168313,
+        "word": "四川小熊猫已到尔滨报道",
+        "onboard_time": 1704618329,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156778,
+        "num": 156778,
+        "word": "乙流和甲流啥区别",
+        "onboard_time": 1704618872,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155714,
+        "num": 155714,
+        "word": "奶奶隔屏喊话孙女赶紧回尔滨找小伙",
+        "onboard_time": 1704626733,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155506,
+        "num": 155506,
+        "word": "代号鸢 东宫",
+        "onboard_time": 1704623912,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155202,
+        "num": 155202,
+        "word": "当小砂糖橘遇上小雾凇",
+        "onboard_time": 1704627153,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141343,
+        "num": 154076,
+        "word": "野生东北虎被拍到下山爪子带血",
+        "onboard_time": 1704620851,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153942,
+        "num": 153942,
+        "word": "周笔畅演唱会穿了六套高定",
+        "onboard_time": 1704619529,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152872,
+        "num": 152872,
+        "word": "海南警方 可以不懂爱情但要学会文明",
+        "onboard_time": 1704627091,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152825,
+        "num": 152825,
+        "word": "小时候总有那么一个亲戚",
+        "onboard_time": 1704626792,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151721,
+        "num": 151721,
+        "word": "周深好像抓到姐姐谈恋爱的弟弟",
+        "onboard_time": 1704620309,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148236,
+        "num": 148236,
+        "word": "汪小姐同款排骨年糕",
+        "onboard_time": 1704622291,
+        "rank": 39,
+        "category": "美食,作品衍生"
+      },
+      {
+        "raw_hot": 144115,
+        "num": 144115,
+        "word": "陈飞宇献鱼魔教教主造型",
+        "onboard_time": 1704624691,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143468,
+        "num": 143468,
+        "word": "女子拍完写真全身痒到抓出血",
+        "onboard_time": 1704604591,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142867,
+        "num": 142867,
+        "word": "黑龙江蔓越莓",
+        "onboard_time": 1704619592,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138145,
+        "num": 138145,
+        "word": "下雾了学校像地府",
+        "onboard_time": 1704626494,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135396,
+        "num": 135396,
+        "word": "送外卖供复旦大学弟弟读书",
+        "onboard_time": 1704617131,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126312,
+        "num": 126312,
+        "word": "四川省考 愉快的旅游",
+        "onboard_time": 1704620190,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120916,
+        "num": 120916,
+        "word": "被威胁女大学生重回事发地摆摊",
+        "onboard_time": 1704621752,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119125,
+        "num": 119125,
+        "word": "青梅精",
+        "onboard_time": 1704626310,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115149,
+        "num": 115149,
+        "word": "林允儿FM Dance Challenge",
+        "onboard_time": 1704624811,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109929,
+        "num": 109929,
+        "word": "复刻繁花干炒牛河",
+        "onboard_time": 1704624510,
+        "rank": 49,
+        "category": "美食,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自强不息的精神奋力攀登#"
+    }
+  }
+}

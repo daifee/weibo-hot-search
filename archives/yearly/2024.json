@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704626084966,
+  "endTime": 1704627216778,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2625653,
+      "num": 2625653,
+      "word": "马斯克被曝吸毒",
+      "onboard_time": 1704624691,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2617111,
       "num": 2617111,
       "word": "许嵩冯禧同台",
@@ -177,14 +185,6 @@
       "onboard_time": 1704119801,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2472163,
-      "num": 2472163,
-      "word": "马斯克被曝吸毒",
-      "onboard_time": 1704624691,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 2463164,
@@ -884,7 +884,7 @@
     },
     {
       "raw_hot": 1329807,
-      "num": 1517484,
+      "num": 1792026,
       "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
       "onboard_time": 1704611608,
       "rank": 44,
@@ -1363,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1085986,
+      "num": 1085986,
+      "word": "国考 给个痛快吧",
+      "onboard_time": 1704625713,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1079558,
       "num": 1079558,
       "word": "沈耀跟程雨杉在一起了",
@@ -1585,6 +1593,14 @@
       "onboard_time": 1704590969,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 986011,
+      "num": 986011,
+      "word": "酒鬼去汪星了",
+      "onboard_time": 1704623252,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 985845,
@@ -1817,14 +1833,6 @@
       "onboard_time": 1704167978,
       "rank": 4,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 924462,
-      "num": 924462,
-      "word": "酒鬼去汪星了",
-      "onboard_time": 1704623252,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 922842,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704190956,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 778239,
-      "num": 437749,
-      "word": "日本地震已致至少20人死亡",
-      "onboard_time": 1704164496,
-      "rank": 10,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

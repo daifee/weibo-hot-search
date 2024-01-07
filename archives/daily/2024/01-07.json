@@ -1,10 +1,10 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704626084966,
+  "endTime": 1704627216778,
   "band_list": [
     {
-      "raw_hot": 2472163,
-      "num": 2472163,
+      "raw_hot": 2625653,
+      "num": 2625653,
       "word": "马斯克被曝吸毒",
       "onboard_time": 1704624691,
       "rank": 0,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1329807,
-      "num": 1517484,
+      "num": 1792026,
       "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
       "onboard_time": 1704611608,
       "rank": 44,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1085986,
+      "num": 1085986,
+      "word": "国考 给个痛快吧",
+      "onboard_time": 1704625713,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1043718,
       "num": 1043718,
       "word": "3同学租车出车祸开车同学遭索赔59万",
@@ -113,6 +121,14 @@
       "onboard_time": 1704590969,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 986011,
+      "num": 986011,
+      "word": "酒鬼去汪星了",
+      "onboard_time": 1704623252,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 959210,
@@ -137,14 +153,6 @@
       "onboard_time": 1704596190,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 924462,
-      "num": 924462,
-      "word": "酒鬼去汪星了",
-      "onboard_time": 1704623252,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 824347,
@@ -275,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 617022,
-      "num": 617022,
-      "word": "国考 给个痛快吧",
-      "onboard_time": 1704625713,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 606643,
       "num": 606643,
       "word": "丹东文旅局长赴哈尔滨送草莓",
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 546639,
-      "num": 974906,
+      "num": 986232,
       "word": "大四男生租房被房东奶奶当亲孙照顾",
       "onboard_time": 1704613952,
       "rank": 5,
@@ -396,11 +396,19 @@
     },
     {
       "raw_hot": 517578,
-      "num": 814067,
+      "num": 925092,
       "word": "一车白狐即将运往尔滨",
       "onboard_time": 1704612330,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515120,
+      "num": 515120,
+      "word": "酒鬼 撕家",
+      "onboard_time": 1704625110,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 514758,
@@ -515,12 +523,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 416298,
+      "num": 339637,
+      "word": "鹤岗官方回应丹顶鹤在哈尔滨发抖",
+      "onboard_time": 1704623672,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415464,
       "num": 412435,
       "word": "被冰锥砸中倒地的大学生已身亡",
       "onboard_time": 1704527972,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413271,
+      "num": 413271,
+      "word": "张大大穿增高鞋没关晓彤高",
+      "onboard_time": 1704622772,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 412881,
@@ -603,28 +627,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 393295,
-      "num": 393295,
-      "word": "张大大穿增高鞋没关晓彤高",
-      "onboard_time": 1704622772,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 391907,
       "num": 326920,
       "word": "不管你是什么馒头从车银优身上下来",
       "onboard_time": 1704604470,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 375192,
-      "num": 375192,
-      "word": "酒鬼 撕家",
-      "onboard_time": 1704625110,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 371793,
@@ -649,14 +657,6 @@
       "onboard_time": 1704589471,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 339637,
-      "num": 339637,
-      "word": "鹤岗官方回应丹顶鹤在哈尔滨发抖",
-      "onboard_time": 1704623672,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338719,
@@ -713,6 +713,14 @@
       "onboard_time": 1704617131,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 324569,
+      "num": 324569,
+      "word": "李李身世之谜",
+      "onboard_time": 1704625830,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 323707,
@@ -987,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217860,
+      "num": 217860,
+      "word": "2024年才过了第一周的我",
+      "onboard_time": 1704622112,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216183,
       "num": 216183,
       "word": "各省小朋友名字一览",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1704605912,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 198771,
-      "num": 198771,
-      "word": "2024年才过了第一周的我",
-      "onboard_time": 1704622112,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 197535,
@@ -1379,6 +1387,14 @@
       "category": "美食,作品衍生"
     },
     {
+      "raw_hot": 155714,
+      "num": 155714,
+      "word": "奶奶隔屏喊话孙女赶紧回尔滨找小伙",
+      "onboard_time": 1704626733,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155630,
       "num": 155630,
       "word": "玉环你是懂浪漫的",
@@ -1387,12 +1403,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 155506,
+      "num": 155506,
+      "word": "代号鸢 东宫",
+      "onboard_time": 1704623912,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155456,
       "num": 155456,
       "word": "阿富汗首都发生爆炸2死14伤",
       "onboard_time": 1704590849,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 155202,
+      "num": 155202,
+      "word": "当小砂糖橘遇上小雾凇",
+      "onboard_time": 1704627153,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154884,
@@ -1419,12 +1451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153903,
-      "num": 151355,
-      "word": "李李身世之谜",
-      "onboard_time": 1704625830,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 152872,
+      "num": 152872,
+      "word": "海南警方 可以不懂爱情但要学会文明",
+      "onboard_time": 1704627091,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152825,
+      "num": 152825,
+      "word": "小时候总有那么一个亲戚",
+      "onboard_time": 1704626792,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 152412,
@@ -1569,6 +1609,14 @@
       "onboard_time": 1704550232,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138145,
+      "num": 138145,
+      "word": "下雾了学校像地府",
+      "onboard_time": 1704626494,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 135432,
@@ -1755,14 +1803,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 122841,
-      "num": 122841,
-      "word": "代号鸢 东宫",
-      "onboard_time": 1704623912,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 122702,
       "num": 122702,
       "word": "为什么你比同龄人显老",
@@ -1817,6 +1857,14 @@
       "onboard_time": 1704610649,
       "rank": 35,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 119125,
+      "num": 119125,
+      "word": "青梅精",
+      "onboard_time": 1704626310,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 118326,
