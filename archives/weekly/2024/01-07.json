@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704627216778,
+  "endTime": 1704630677056,
   "band_list": [
     {
       "raw_hot": 2625653,
@@ -25,6 +25,14 @@
       "onboard_time": 1704616348,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1631117,
+      "num": 1631117,
+      "word": "刘亦菲 唐嫣是最好的汪小姐",
+      "onboard_time": 1704627451,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1490614,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 778861,
+      "num": 778861,
+      "word": "海南警方 可以不懂爱情但要学会文明",
+      "onboard_time": 1704627091,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 774048,
       "num": 774048,
       "word": "研究发现内脏脂肪越多大脑越小",
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617122,
+      "num": 617122,
+      "word": "北京首钢",
+      "onboard_time": 1704627333,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606643,
       "num": 606643,
       "word": "丹东文旅局长赴哈尔滨送草莓",
@@ -337,6 +361,14 @@
       "onboard_time": 1704622352,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 556507,
+      "num": 556507,
+      "word": "父母从新疆给远嫁女儿寄50斤羊肉",
+      "onboard_time": 1704628172,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553350,
@@ -507,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438782,
+      "num": 438782,
+      "word": "繁花",
+      "onboard_time": 1704629431,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426478,
       "num": 426478,
       "word": "国色芳华剧组抓代拍",
@@ -561,6 +601,14 @@
       "onboard_time": 1704601231,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408801,
+      "num": 257668,
+      "word": "为什么年轻人不爱用信用卡了",
+      "onboard_time": 1704627211,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 407138,
@@ -827,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284209,
+      "num": 284209,
+      "word": "大家都在午睡只有他在苦心钻研国粹",
+      "onboard_time": 1704628830,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283421,
       "num": 263938,
       "word": "分享欲过强是变相索取吗",
@@ -849,6 +905,14 @@
       "onboard_time": 1704612090,
       "rank": 14,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 271737,
+      "num": 158562,
+      "word": "京东联名卡 抢不到",
+      "onboard_time": 1704630390,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 268992,
@@ -931,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235674,
+      "num": 235674,
+      "word": "繁花中的泡饭好不好吃",
+      "onboard_time": 1704630212,
+      "rank": 22,
+      "category": "作品衍生,美食"
+    },
+    {
       "raw_hot": 233533,
       "num": 233533,
       "word": "黑龙江又回赠广西10万盒蔓越莓",
@@ -969,6 +1041,14 @@
       "onboard_time": 1704527733,
       "rank": 21,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 225710,
+      "num": 225710,
+      "word": "胡歌 魅力依旧",
+      "onboard_time": 1704629371,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 223867,
@@ -1171,6 +1251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186828,
+      "num": 158492,
+      "word": "辛芷蕾演技",
+      "onboard_time": 1704630512,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183689,
       "num": 183689,
       "word": "iPhone需求引发担忧",
@@ -1203,6 +1291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 178693,
+      "num": 178693,
+      "word": "当小砂糖橘遇上小雾凇",
+      "onboard_time": 1704627153,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176871,
       "num": 176871,
       "word": "被威胁女大学生重回事发地摆摊",
@@ -1227,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175879,
+      "num": 158230,
+      "word": "钱天一晒聚餐照",
+      "onboard_time": 1704629852,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175301,
       "num": 175301,
       "word": "宝总事业粉",
@@ -1241,6 +1345,14 @@
       "onboard_time": 1704588029,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173326,
+      "num": 173326,
+      "word": "北京圆明园重现冰嬉盛景",
+      "onboard_time": 1704628292,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171797,
@@ -1313,6 +1425,14 @@
       "onboard_time": 1704607708,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162844,
+      "num": 162844,
+      "word": "狂人 九尾职业态度没的说",
+      "onboard_time": 1704630155,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 161408,
@@ -1419,14 +1539,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 155202,
-      "num": 155202,
-      "word": "当小砂糖橘遇上小雾凇",
-      "onboard_time": 1704627153,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154884,
       "num": 154884,
       "word": "关晓彤晒庄筱婷剧照",
@@ -1449,14 +1561,6 @@
       "onboard_time": 1704608548,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152872,
-      "num": 152872,
-      "word": "海南警方 可以不懂爱情但要学会文明",
-      "onboard_time": 1704627091,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152825,
@@ -1595,6 +1699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142321,
+      "num": 142321,
+      "word": "广东男篮vs新疆男篮",
+      "onboard_time": 1704630512,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140202,
       "num": 140202,
       "word": "宋江金裕贞古装",
@@ -1617,6 +1729,14 @@
       "onboard_time": 1704626494,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137400,
+      "num": 137400,
+      "word": "羽生结弦纪录片",
+      "onboard_time": 1704629132,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 135432,
@@ -1673,6 +1793,30 @@
       "onboard_time": 1704612268,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132744,
+      "num": 132744,
+      "word": "什么时候真的觉得大学好呢",
+      "onboard_time": 1704627991,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 131918,
+      "num": 131918,
+      "word": "山东58岁大叔徒手破冰救环卫工",
+      "onboard_time": 1704629971,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130720,
+      "num": 130720,
+      "word": "天启异闻录 幕后大boss",
+      "onboard_time": 1704629075,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 130491,
@@ -1913,6 +2057,14 @@
       "onboard_time": 1704599732,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113036,
+      "num": 113036,
+      "word": "黑龙江蔓越莓回抱广西砂糖橘",
+      "onboard_time": 1704628891,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112568,
@@ -2339,6 +2491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 38280,
+      "num": 783420,
+      "word": "国产首艘大型邮轮顺利完成首航",
+      "onboard_time": 1704615449,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36465,
       "num": 36465,
       "word": "电视剧你也有今天",
@@ -2377,14 +2537,6 @@
       "onboard_time": 1704596010,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27488,
-      "num": 155836,
-      "word": "国产首艘大型邮轮顺利完成首航",
-      "onboard_time": 1704615449,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23750,
