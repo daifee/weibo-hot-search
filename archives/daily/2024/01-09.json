@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704746063714,
+  "endTime": 1704748502441,
   "band_list": [
     {
       "raw_hot": 1082340,
@@ -432,6 +432,14 @@
       "word": "珠帘玉幕剧组给刘宇宁庆生",
       "onboard_time": 1704738255,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42987,
+      "num": 24134,
+      "word": "唐嫣过去的三年都是汪小姐",
+      "onboard_time": 1704746474,
+      "rank": 13,
       "category": "剧集"
     },
     {
