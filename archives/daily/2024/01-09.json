@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704748502441,
+  "endTime": 1704749654661,
   "band_list": [
     {
       "raw_hot": 1082340,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 107865,
-      "num": 75990,
+      "num": 79691,
       "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
       "onboard_time": 1704737779,
       "rank": 47,
@@ -427,19 +427,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46032,
+      "num": 46032,
+      "word": "唐嫣过去的三年都是汪小姐",
+      "onboard_time": 1704746474,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44659,
       "num": 44659,
       "word": "珠帘玉幕剧组给刘宇宁庆生",
       "onboard_time": 1704738255,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 42987,
-      "num": 24134,
-      "word": "唐嫣过去的三年都是汪小姐",
-      "onboard_time": 1704746474,
-      "rank": 13,
       "category": "剧集"
     },
     {
