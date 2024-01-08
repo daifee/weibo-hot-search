@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704731997939,
+  "endTime": 1704734175211,
   "band_list": [
     {
       "raw_hot": 1082340,
@@ -33,6 +33,14 @@
       "onboard_time": 1704726754,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 797948,
+      "num": 797948,
+      "word": "年轻人报复性挤爆3.5分餐厅",
+      "onboard_time": 1704731304,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 612307,
@@ -251,20 +259,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118334,
+      "num": 118334,
+      "word": "苦难就是苦难",
+      "onboard_time": 1704729628,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112908,
       "num": 112908,
       "word": "妈妈才最适合考公",
       "onboard_time": 1704724714,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 111504,
-      "num": 111504,
-      "word": "年轻人报复性挤爆3.5分餐厅",
-      "onboard_time": 1704731304,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108416,
@@ -297,14 +305,6 @@
       "onboard_time": 1704723576,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94809,
-      "num": 94809,
-      "word": "苦难就是苦难",
-      "onboard_time": 1704729628,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 93767,
@@ -425,6 +425,9 @@
     },
     {
       "word": "#增强拒腐防变和抵御风险能力#"
+    },
+    {
+      "word": "#打赢反腐败斗争攻坚战持久战#"
     }
   ]
 }
