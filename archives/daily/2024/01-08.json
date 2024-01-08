@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704699245373,
+  "endTime": 1704702213702,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1683775,
-      "num": 854357,
+      "num": 1011899,
       "word": "千万网红团队成员约架致一人身亡",
       "onboard_time": 1704694649,
       "rank": 20,
@@ -49,6 +49,14 @@
       "onboard_time": 1704684392,
       "rank": 31,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1350463,
+      "num": 1350463,
+      "word": "湛江中学老师坠楼系刑事案件",
+      "onboard_time": 1704697470,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1296178,
@@ -107,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1074920,
+      "num": 1074920,
+      "word": "女子谎称外卖吃出异物200多次被刑拘",
+      "onboard_time": 1704697051,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1044245,
       "num": 1044245,
       "word": "小伙裸辞卖预制菜年亏40万后逆袭",
@@ -121,6 +137,14 @@
       "onboard_time": 1704677908,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 990683,
+      "num": 990683,
+      "word": "杨紫李现牵手同框路透",
+      "onboard_time": 1704698190,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 902403,
@@ -144,14 +168,6 @@
       "word": "沙特发现世界级金矿",
       "onboard_time": 1704695489,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 852874,
-      "num": 852874,
-      "word": "湛江中学老师坠楼系刑事案件",
-      "onboard_time": 1704697470,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -219,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 715244,
-      "num": 715244,
-      "word": "杨紫李现牵手同框路透",
-      "onboard_time": 1704698190,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 711067,
       "num": 711067,
       "word": "爱泼斯坦生前掌握特朗普希拉里黑料",
@@ -291,6 +299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 625583,
+      "num": 625583,
+      "word": "安徽武校投毒案一审宣判",
+      "onboard_time": 1704700410,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622792,
       "num": 622792,
       "word": "雪乡导游强售套票未果让游客撅屁股等着",
@@ -339,6 +355,22 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 578135,
+      "num": 578135,
+      "word": "银行4个窗口只开1个被男子怒怼",
+      "onboard_time": 1704698131,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573372,
+      "num": 573372,
+      "word": "女子过安检保温杯里藏刀",
+      "onboard_time": 1704696930,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570603,
       "num": 570603,
       "word": "日本一核电站震后漏油入海",
@@ -353,6 +385,14 @@
       "onboard_time": 1704679347,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 562397,
+      "num": 562397,
+      "word": "曝袁惟仁意识不清",
+      "onboard_time": 1704700170,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 557344,
@@ -411,14 +451,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 516145,
-      "num": 516145,
-      "word": "女子过安检保温杯里藏刀",
-      "onboard_time": 1704696930,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 502351,
       "num": 502351,
       "word": "深圳欢乐谷回应事故调查报告",
@@ -473,6 +505,14 @@
       "onboard_time": 1704691113,
       "rank": 27,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 448767,
+      "num": 448767,
+      "word": "刘亦菲抱狗工作",
+      "onboard_time": 1704700469,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 444931,
@@ -553,14 +593,6 @@
       "onboard_time": 1704675812,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 385393,
-      "num": 385393,
-      "word": "女子谎称外卖吃出异物200多次被刑拘",
-      "onboard_time": 1704697051,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382940,
@@ -707,6 +739,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 292357,
+      "num": 292357,
+      "word": "吴京式男人",
+      "onboard_time": 1704699571,
+      "rank": 17,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 289369,
       "num": 287184,
       "word": "FindX7发布会",
@@ -745,6 +785,14 @@
       "onboard_time": 1704638616,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271591,
+      "num": 271591,
+      "word": "金在中喊话SuperJunior上节目",
+      "onboard_time": 1704698673,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 269466,
@@ -819,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247026,
+      "num": 224637,
+      "word": "刘诗诗紫色葡萄妆",
+      "onboard_time": 1704701188,
+      "rank": 22,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 246206,
       "num": 246206,
       "word": "网友英国街头偶遇周杰伦",
@@ -833,6 +889,14 @@
       "onboard_time": 1704689136,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243411,
+      "num": 243411,
+      "word": "Switch烧录卡",
+      "onboard_time": 1704701250,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 239307,
@@ -859,27 +923,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 232924,
-      "num": 232924,
-      "word": "金在中喊话SuperJunior上节目",
-      "onboard_time": 1704698673,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 227234,
       "num": 227234,
       "word": "爱泼斯坦",
       "onboard_time": 1704634173,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226484,
-      "num": 226484,
-      "word": "银行4个窗口只开1个被男子怒怼",
-      "onboard_time": 1704698131,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -915,6 +963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 217395,
+      "num": 217395,
+      "word": "武汉90后会计转行做家政月入4万",
+      "onboard_time": 1704701310,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214574,
       "num": 191231,
       "word": "6人奸淫幼女最低被判4年合理吗",
@@ -929,6 +985,14 @@
       "onboard_time": 1704686375,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210336,
+      "num": 210336,
+      "word": "小米汽车回应50万内没有对手",
+      "onboard_time": 1704699870,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 207307,
@@ -1235,12 +1299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155373,
+      "num": 155373,
+      "word": "瑞银称A股最坏时间已过",
+      "onboard_time": 1704699448,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154834,
       "num": 154834,
       "word": "沈春阳想见朱一龙",
       "onboard_time": 1704639336,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154636,
+      "num": 154636,
+      "word": "就说幼儿园能学到真东西",
+      "onboard_time": 1704698609,
+      "rank": 38,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 153902,
@@ -1275,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150857,
+      "num": 150857,
+      "word": "日本地震323人下落不明",
+      "onboard_time": 1704699211,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149630,
       "num": 149630,
       "word": "周总理的笑容总是那么温暖",
@@ -1289,14 +1377,6 @@
       "onboard_time": 1704690155,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 147385,
-      "num": 147385,
-      "word": "就说幼儿园能学到真东西",
-      "onboard_time": 1704698609,
-      "rank": 38,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 146193,
@@ -1451,12 +1531,28 @@
       "category": "社会议题,旅游"
     },
     {
+      "raw_hot": 127484,
+      "num": 228425,
+      "word": "天玑上限看OPPO",
+      "onboard_time": 1704700050,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 126270,
       "num": 126270,
       "word": "甄嬛也逃不过表演节目",
       "onboard_time": 1704682530,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126186,
+      "num": 126186,
+      "word": "合肥大学今天揭牌",
+      "onboard_time": 1704700230,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 125382,
@@ -1497,6 +1593,14 @@
       "onboard_time": 1704658513,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121670,
+      "num": 121670,
+      "word": "马吟吟 剧抛脸演员",
+      "onboard_time": 1704701791,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118283,
@@ -1545,14 +1649,6 @@
       "onboard_time": 1704696508,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112788,
-      "num": 112788,
-      "word": "日本地震323人下落不明",
-      "onboard_time": 1704699211,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111977,
@@ -1657,6 +1753,14 @@
       "onboard_time": 1704639574,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91560,
+      "num": 449867,
+      "word": "FindX7封神",
+      "onboard_time": 1704700532,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 87396,
@@ -1889,6 +1993,14 @@
       "onboard_time": 1704642390,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21081,
+      "num": 1014710,
+      "word": "聚焦中国经济圆桌会",
+      "onboard_time": 1704701372,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21061,

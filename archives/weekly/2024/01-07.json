@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704699245373,
+  "endTime": 1704702213702,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1683775,
-      "num": 854357,
+      "num": 1011899,
       "word": "千万网红团队成员约架致一人身亡",
       "onboard_time": 1704694649,
       "rank": 20,
@@ -120,6 +120,14 @@
       "word": "专家建议取消大城市买房买车限制",
       "onboard_time": 1704598291,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1350463,
+      "num": 1350463,
+      "word": "湛江中学老师坠楼系刑事案件",
+      "onboard_time": 1704697470,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -251,6 +259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1074920,
+      "num": 1074920,
+      "word": "女子谎称外卖吃出异物200多次被刑拘",
+      "onboard_time": 1704697051,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1044245,
       "num": 1044245,
       "word": "小伙裸辞卖预制菜年亏40万后逆袭",
@@ -281,6 +297,14 @@
       "onboard_time": 1704637175,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 990683,
+      "num": 990683,
+      "word": "杨紫李现牵手同框路透",
+      "onboard_time": 1704698190,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 990600,
@@ -369,14 +393,6 @@
       "onboard_time": 1704631530,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 852874,
-      "num": 852874,
-      "word": "湛江中学老师坠楼系刑事案件",
-      "onboard_time": 1704697470,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 824347,
@@ -539,14 +555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 715244,
-      "num": 715244,
-      "word": "杨紫李现牵手同框路透",
-      "onboard_time": 1704698190,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 711067,
       "num": 711067,
       "word": "爱泼斯坦生前掌握特朗普希拉里黑料",
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 625583,
+      "num": 625583,
+      "word": "安徽武校投毒案一审宣判",
+      "onboard_time": 1704700410,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622792,
       "num": 622792,
       "word": "雪乡导游强售套票未果让游客撅屁股等着",
@@ -771,6 +787,22 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 578135,
+      "num": 578135,
+      "word": "银行4个窗口只开1个被男子怒怼",
+      "onboard_time": 1704698131,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573372,
+      "num": 573372,
+      "word": "女子过安检保温杯里藏刀",
+      "onboard_time": 1704696930,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572064,
       "num": 572064,
       "word": "王心凌 纯白圣女",
@@ -793,6 +825,14 @@
       "onboard_time": 1704679347,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 562397,
+      "num": 562397,
+      "word": "曝袁惟仁意识不清",
+      "onboard_time": 1704700170,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 556101,
@@ -920,14 +960,6 @@
       "word": "一车白狐即将运往尔滨",
       "onboard_time": 1704612330,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 516145,
-      "num": 516145,
-      "word": "女子过安检保温杯里藏刀",
-      "onboard_time": 1704696930,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1097,6 +1129,14 @@
       "onboard_time": 1704596369,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448767,
+      "num": 448767,
+      "word": "刘亦菲抱狗工作",
+      "onboard_time": 1704700469,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 444931,
@@ -1321,14 +1361,6 @@
       "onboard_time": 1704675812,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 385393,
-      "num": 385393,
-      "word": "女子谎称外卖吃出异物200多次被刑拘",
-      "onboard_time": 1704697051,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385236,
@@ -1643,6 +1675,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 292357,
+      "num": 292357,
+      "word": "吴京式男人",
+      "onboard_time": 1704699571,
+      "rank": 17,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 290380,
       "num": 290380,
       "word": "我以四叶草的名义推举你们为tfkids",
@@ -1721,6 +1761,14 @@
       "onboard_time": 1704612090,
       "rank": 14,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 271591,
+      "num": 271591,
+      "word": "金在中喊话SuperJunior上节目",
+      "onboard_time": 1704698673,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 271138,
@@ -1867,6 +1915,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 247026,
+      "num": 224637,
+      "word": "刘诗诗紫色葡萄妆",
+      "onboard_time": 1704701188,
+      "rank": 22,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 246905,
       "num": 216821,
       "word": "最终幻想14",
@@ -1897,6 +1953,14 @@
       "onboard_time": 1704630212,
       "rank": 22,
       "category": "作品衍生,美食"
+    },
+    {
+      "raw_hot": 243411,
+      "num": 243411,
+      "word": "Switch烧录卡",
+      "onboard_time": 1704701250,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 241621,
@@ -1955,14 +2019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232924,
-      "num": 232924,
-      "word": "金在中喊话SuperJunior上节目",
-      "onboard_time": 1704698673,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 232854,
       "num": 232854,
       "word": "i人的拒绝",
@@ -1977,14 +2033,6 @@
       "onboard_time": 1704621390,
       "rank": 24,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 226484,
-      "num": 226484,
-      "word": "银行4个窗口只开1个被男子怒怼",
-      "onboard_time": 1704698131,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226477,
@@ -2059,6 +2107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217395,
+      "num": 217395,
+      "word": "武汉90后会计转行做家政月入4万",
+      "onboard_time": 1704701310,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216183,
       "num": 216183,
       "word": "各省小朋友名字一览",
@@ -2105,6 +2161,14 @@
       "onboard_time": 1704686375,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210336,
+      "num": 210336,
+      "word": "小米汽车回应50万内没有对手",
+      "onboard_time": 1704699870,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 209800,
@@ -2915,12 +2979,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 155373,
+      "num": 155373,
+      "word": "瑞银称A股最坏时间已过",
+      "onboard_time": 1704699448,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154884,
       "num": 154884,
       "word": "关晓彤晒庄筱婷剧照",
       "onboard_time": 1704608788,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154636,
+      "num": 154636,
+      "word": "就说幼儿园能学到真东西",
+      "onboard_time": 1704698609,
+      "rank": 38,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 154438,
@@ -3051,6 +3131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150857,
+      "num": 150857,
+      "word": "日本地震323人下落不明",
+      "onboard_time": 1704699211,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150670,
       "num": 150670,
       "word": "东北菜为什么分量这么足",
@@ -3089,14 +3177,6 @@
       "onboard_time": 1704690155,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 147385,
-      "num": 147385,
-      "word": "就说幼儿园能学到真东西",
-      "onboard_time": 1704698609,
-      "rank": 38,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 146193,
@@ -3467,6 +3547,14 @@
       "category": "社会议题,旅游"
     },
     {
+      "raw_hot": 127484,
+      "num": 228425,
+      "word": "天玑上限看OPPO",
+      "onboard_time": 1704700050,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 127317,
       "num": 127317,
       "word": "出生几个月大的小伯第一次见到雪",
@@ -3505,6 +3593,14 @@
       "onboard_time": 1704609390,
       "rank": 31,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 126186,
+      "num": 126186,
+      "word": "合肥大学今天揭牌",
+      "onboard_time": 1704700230,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 126070,
@@ -3625,6 +3721,14 @@
       "onboard_time": 1704592470,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121670,
+      "num": 121670,
+      "word": "马吟吟 剧抛脸演员",
+      "onboard_time": 1704701791,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121568,
@@ -3768,14 +3872,6 @@
       "word": "黑龙江蔓越莓回抱广西砂糖橘",
       "onboard_time": 1704628891,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112788,
-      "num": 112788,
-      "word": "日本地震323人下落不明",
-      "onboard_time": 1704699211,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -4235,6 +4331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91560,
+      "num": 449867,
+      "word": "FindX7封神",
+      "onboard_time": 1704700532,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 90714,
       "num": 90714,
       "word": "广东一高校寒假长达49天",
@@ -4545,6 +4649,14 @@
       "onboard_time": 1704567436,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21081,
+      "num": 1014710,
+      "word": "聚焦中国经济圆桌会",
+      "onboard_time": 1704701372,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21061,
