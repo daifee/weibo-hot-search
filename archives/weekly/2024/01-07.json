@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704710233777,
+  "endTime": 1704712534998,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2280084,
+      "num": 2280084,
+      "word": "林府家规",
+      "onboard_time": 1704703350,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2201623,
       "num": 2201623,
       "word": "微信私密朋友圈被吐槽有bug",
@@ -41,14 +49,6 @@
       "onboard_time": 1704632793,
       "rank": 11,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2107632,
-      "num": 2107632,
-      "word": "林府家规",
-      "onboard_time": 1704703350,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 2094204,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 778753,
+      "num": 778753,
+      "word": "科举文男主有了脸",
+      "onboard_time": 1704708272,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 774048,
       "num": 774048,
       "word": "研究发现内脏脂肪越多大脑越小",
@@ -715,14 +723,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 652214,
-      "num": 652214,
-      "word": "科举文男主有了脸",
-      "onboard_time": 1704708272,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 646416,
       "num": 646416,
       "word": "朱一龙恢复状况",
@@ -873,6 +873,14 @@
       "onboard_time": 1704703950,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 574155,
+      "num": 574155,
+      "word": "中国人吃盐过多致死率世界第1",
+      "onboard_time": 1704711270,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 573372,
@@ -1115,6 +1123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 492900,
+      "num": 492900,
+      "word": "女高管违法开除事件当事人发声",
+      "onboard_time": 1704709351,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492807,
       "num": 492807,
       "word": "白桃星座",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1704582438,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 468007,
+      "num": 468007,
+      "word": "内娱红毯 欧美红毯",
+      "onboard_time": 1704709171,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 464241,
@@ -1241,6 +1265,14 @@
       "onboard_time": 1704700469,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446196,
+      "num": 446196,
+      "word": "王家卫拍繁花不准辛芷蕾笑",
+      "onboard_time": 1704710669,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 444931,
@@ -1385,6 +1417,14 @@
       "onboard_time": 1704601231,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408903,
+      "num": 408903,
+      "word": "吃葡萄柚是一件很私人的事",
+      "onboard_time": 1704712110,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 407138,
@@ -1683,6 +1723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 315393,
+      "num": 315393,
+      "word": "把和男友的聊天记录可视化",
+      "onboard_time": 1704710313,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 313906,
       "num": 313906,
       "word": "A先生李李恋情",
@@ -1833,14 +1881,6 @@
       "onboard_time": 1704699571,
       "rank": 17,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 291717,
-      "num": 291717,
-      "word": "内娱红毯 欧美红毯",
-      "onboard_time": 1704709171,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 290380,
@@ -2020,7 +2060,7 @@
     },
     {
       "raw_hot": 258390,
-      "num": 825307,
+      "num": 934216,
       "word": "民警吃火锅多看一眼抓住2名逃犯",
       "onboard_time": 1704707433,
       "rank": 6,
@@ -2339,6 +2379,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 212775,
+      "num": 212775,
+      "word": "王濛说哈尔滨终于火了",
+      "onboard_time": 1704710669,
+      "rank": 23,
+      "category": "体育,旅游"
+    },
+    {
       "raw_hot": 211201,
       "num": 211201,
       "word": "微博处置哈尔滨旅游爆火中挑动对立账号",
@@ -2627,6 +2675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195463,
+      "num": 195463,
+      "word": "中岛健人退团",
+      "onboard_time": 1704711210,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194839,
       "num": 194839,
       "word": "靠申论逆风翻盘",
@@ -2731,14 +2787,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 188183,
-      "num": 188183,
-      "word": "女高管违法开除事件当事人发声",
-      "onboard_time": 1704709351,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187341,
       "num": 155623,
       "word": "偷偷跑回家见妈妈",
@@ -2753,6 +2801,14 @@
       "onboard_time": 1704630155,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186026,
+      "num": 186026,
+      "word": "29岁抖音员工欲进A股公司董事会",
+      "onboard_time": 1704711690,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 185342,
@@ -2795,6 +2851,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 181889,
+      "num": 181889,
+      "word": "瑞银称A股当前太便宜",
+      "onboard_time": 1704711750,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 181304,
       "num": 181304,
       "word": "上市公司说好增持上亿结果只买2889元",
@@ -2832,6 +2896,14 @@
       "word": "2024金球奖红毯",
       "onboard_time": 1704675333,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 179471,
+      "num": 179471,
+      "word": "黄渤 短视频对观众和创作者是一种损失",
+      "onboard_time": 1704710552,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -2873,6 +2945,14 @@
       "onboard_time": 1704629852,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175560,
+      "num": 175560,
+      "word": "接到王凯电话我耳朵比人先麻了",
+      "onboard_time": 1704711450,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 175301,
@@ -3451,6 +3531,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 148209,
+      "num": 148209,
+      "word": "关晓彤 宋亚轩逐渐放飞",
+      "onboard_time": 1704711510,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147445,
       "num": 147445,
       "word": "OPPO Find X7价格",
@@ -3481,6 +3569,14 @@
       "onboard_time": 1704541293,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145860,
+      "num": 145860,
+      "word": "在哈尔滨2小时冻出水疱",
+      "onboard_time": 1704711631,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145428,
@@ -3625,6 +3721,14 @@
       "onboard_time": 1704629132,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137207,
+      "num": 137207,
+      "word": "陈星旭说给章若楠的爱情无价",
+      "onboard_time": 1704712052,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 136192,
@@ -4123,6 +4227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117668,
+      "num": 117668,
+      "word": "明天三九第1天",
+      "onboard_time": 1704710010,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117192,
       "num": 117192,
       "word": "哈尔滨旅游后劲儿太大",
@@ -4153,14 +4265,6 @@
       "onboard_time": 1704546936,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115533,
-      "num": 115533,
-      "word": "明天三九第1天",
-      "onboard_time": 1704710010,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115204,
@@ -4209,6 +4313,14 @@
       "onboard_time": 1704593789,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 112517,
+      "num": 112517,
+      "word": "Wind竞品销售人员称账号开到手抖",
+      "onboard_time": 1704712352,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 112154,
@@ -4505,6 +4617,14 @@
       "onboard_time": 1704706838,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102216,
+      "num": 102216,
+      "word": "四川居然产鱼子酱",
+      "onboard_time": 1704712469,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 101672,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704710233777,
+  "endTime": 1704712534998,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2107632,
-      "num": 2107632,
+      "raw_hot": 2280084,
+      "num": 2280084,
       "word": "林府家规",
       "onboard_time": 1704703350,
       "rank": 1,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 778753,
+      "num": 778753,
+      "word": "科举文男主有了脸",
+      "onboard_time": 1704708272,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 752568,
       "num": 569868,
       "word": "不生孩子的下半辈子",
@@ -339,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 652214,
-      "num": 652214,
-      "word": "科举文男主有了脸",
-      "onboard_time": 1704708272,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 646416,
       "num": 646416,
       "word": "朱一龙恢复状况",
@@ -441,6 +441,14 @@
       "onboard_time": 1704703950,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 574155,
+      "num": 574155,
+      "word": "中国人吃盐过多致死率世界第1",
+      "onboard_time": 1704711270,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 573372,
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492900,
+      "num": 492900,
+      "word": "女高管违法开除事件当事人发声",
+      "onboard_time": 1704709351,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492807,
       "num": 492807,
       "word": "白桃星座",
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468007,
+      "num": 468007,
+      "word": "内娱红毯 欧美红毯",
+      "onboard_time": 1704709171,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 464241,
       "num": 464241,
       "word": "3元的饮料终究是错付了",
@@ -617,6 +641,14 @@
       "onboard_time": 1704700469,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446196,
+      "num": 446196,
+      "word": "王家卫拍繁花不准辛芷蕾笑",
+      "onboard_time": 1704710669,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 444931,
@@ -689,6 +721,14 @@
       "onboard_time": 1704690993,
       "rank": 25,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 408903,
+      "num": 408903,
+      "word": "吃葡萄柚是一件很私人的事",
+      "onboard_time": 1704712110,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 389965,
@@ -819,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 315393,
+      "num": 315393,
+      "word": "把和男友的聊天记录可视化",
+      "onboard_time": 1704710313,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 313279,
       "num": 313279,
       "word": "刘亦菲代言天梭",
@@ -897,14 +945,6 @@
       "onboard_time": 1704699571,
       "rank": 17,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 291717,
-      "num": 291717,
-      "word": "内娱红毯 欧美红毯",
-      "onboard_time": 1704709171,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 289369,
@@ -1012,7 +1052,7 @@
     },
     {
       "raw_hot": 258390,
-      "num": 825307,
+      "num": 934216,
       "word": "民警吃火锅多看一眼抓住2名逃犯",
       "onboard_time": 1704707433,
       "rank": 6,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1704708153,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212775,
+      "num": 212775,
+      "word": "王濛说哈尔滨终于火了",
+      "onboard_time": 1704710669,
+      "rank": 23,
+      "category": "体育,旅游"
     },
     {
       "raw_hot": 210784,
@@ -1371,6 +1419,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 195463,
+      "num": 195463,
+      "word": "中岛健人退团",
+      "onboard_time": 1704711210,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194287,
       "num": 194287,
       "word": "诺兰金球奖最佳导演",
@@ -1395,12 +1451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188183,
-      "num": 188183,
-      "word": "女高管违法开除事件当事人发声",
-      "onboard_time": 1704709351,
+      "raw_hot": 186026,
+      "num": 186026,
+      "word": "29岁抖音员工欲进A股公司董事会",
+      "onboard_time": 1704711690,
       "rank": 27,
-      "category": "社会新闻"
+      "category": "财经"
     },
     {
       "raw_hot": 185342,
@@ -1427,6 +1483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 181889,
+      "num": 181889,
+      "word": "瑞银称A股当前太便宜",
+      "onboard_time": 1704711750,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 180600,
       "num": 180600,
       "word": "安徽武校投毒案2被告人获死刑",
@@ -1451,12 +1515,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179471,
+      "num": 179471,
+      "word": "黄渤 短视频对观众和创作者是一种损失",
+      "onboard_time": 1704710552,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178174,
       "num": 178174,
       "word": "就说幼儿园能学到真东西",
       "onboard_time": 1704698609,
       "rank": 38,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 175560,
+      "num": 175560,
+      "word": "接到王凯电话我耳朵比人先麻了",
+      "onboard_time": 1704711450,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 174983,
@@ -1651,6 +1731,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 148209,
+      "num": 148209,
+      "word": "关晓彤 宋亚轩逐渐放飞",
+      "onboard_time": 1704711510,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147445,
       "num": 147445,
       "word": "OPPO Find X7价格",
@@ -1673,6 +1761,14 @@
       "onboard_time": 1704693689,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145860,
+      "num": 145860,
+      "word": "在哈尔滨2小时冻出水疱",
+      "onboard_time": 1704711631,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145561,
@@ -1729,6 +1825,14 @@
       "onboard_time": 1704670044,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137207,
+      "num": 137207,
+      "word": "陈星旭说给章若楠的爱情无价",
+      "onboard_time": 1704712052,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 137150,
@@ -1931,6 +2035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117668,
+      "num": 117668,
+      "word": "明天三九第1天",
+      "onboard_time": 1704710010,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117245,
       "num": 135387,
       "word": "大家都在午睡只有他在苦心钻研国粹",
@@ -1945,14 +2057,6 @@
       "onboard_time": 1704695071,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115533,
-      "num": 115533,
-      "word": "明天三九第1天",
-      "onboard_time": 1704710010,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115204,
@@ -1977,6 +2081,14 @@
       "onboard_time": 1704696508,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112517,
+      "num": 112517,
+      "word": "Wind竞品销售人员称账号开到手抖",
+      "onboard_time": 1704712352,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 111977,
@@ -2057,6 +2169,14 @@
       "onboard_time": 1704706838,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102216,
+      "num": 102216,
+      "word": "四川居然产鱼子酱",
+      "onboard_time": 1704712469,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 100291,

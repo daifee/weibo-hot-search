@@ -1,0 +1,410 @@
+{
+  "runTime": 1704712534998,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2280084,
+        "num": 2280084,
+        "word": "林府家规",
+        "onboard_time": 1704703350,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376872,
+        "num": 1610829,
+        "word": "幼儿园宝宝全勤奖是棵大芹菜",
+        "onboard_time": 1704703108,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22650,
+        "num": 1272091,
+        "word": "聚焦中国经济圆桌会",
+        "onboard_time": 1704701372,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1106871,
+        "num": 1106871,
+        "word": "爷爷 已读乱回",
+        "onboard_time": 1704706172,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217602,
+        "num": 934216,
+        "word": "民警吃火锅多看一眼抓住2名逃犯",
+        "onboard_time": 1704707433,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778753,
+        "num": 778753,
+        "word": "科举文男主有了脸",
+        "onboard_time": 1704708272,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188542,
+        "num": 777628,
+        "word": "五岁女童针灸推拿拔罐样样都会",
+        "onboard_time": 1704707433,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777500,
+        "num": 777500,
+        "word": "蔡依林 浪5",
+        "onboard_time": 1704706709,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658425,
+        "num": 658425,
+        "word": "王菲 她甚至能治王家卫",
+        "onboard_time": 1704706775,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 574155,
+        "num": 574155,
+        "word": "中国人吃盐过多致死率世界第1",
+        "onboard_time": 1704711270,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 508624,
+        "num": 508624,
+        "word": "不生孩子的下半辈子",
+        "onboard_time": 1704704910,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 492900,
+        "num": 492900,
+        "word": "女高管违法开除事件当事人发声",
+        "onboard_time": 1704709351,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480757,
+        "num": 480757,
+        "word": "千万网红团队成员约架致一人身亡",
+        "onboard_time": 1704694649,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 468007,
+        "num": 468007,
+        "word": "内娱红毯 欧美红毯",
+        "onboard_time": 1704709171,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 446196,
+        "num": 446196,
+        "word": "王家卫拍繁花不准辛芷蕾笑",
+        "onboard_time": 1704710669,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408903,
+        "num": 408903,
+        "word": "吃葡萄柚是一件很私人的事",
+        "onboard_time": 1704712110,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 374726,
+        "num": 374726,
+        "word": "李国庆称是叶璇想制造爆点",
+        "onboard_time": 1704708392,
+        "rank": 16,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 315393,
+        "num": 315393,
+        "word": "把和男友的聊天记录可视化",
+        "onboard_time": 1704710313,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265135,
+        "num": 265135,
+        "word": "教授建议生个孩子给一居室",
+        "onboard_time": 1704687693,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253223,
+        "num": 253223,
+        "word": "杨紫李现牵手同框路透",
+        "onboard_time": 1704698190,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240772,
+        "num": 240772,
+        "word": "于正面试赵昭仪视频",
+        "onboard_time": 1704703350,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234356,
+        "num": 234356,
+        "word": "官方通报大学生358元雪乡两日游",
+        "onboard_time": 1704705030,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217332,
+        "num": 217332,
+        "word": "蔓越莓竟然是在水中采摘的",
+        "onboard_time": 1704705330,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212775,
+        "num": 212775,
+        "word": "王濛说哈尔滨终于火了",
+        "onboard_time": 1704710669,
+        "rank": 23,
+        "category": "体育,旅游"
+      },
+      {
+        "raw_hot": 200691,
+        "num": 200691,
+        "word": "掌心 刘诗诗",
+        "onboard_time": 1704704249,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199432,
+        "num": 199432,
+        "word": "台湾女生在东北第一次吃冰糖葫芦",
+        "onboard_time": 1704705330,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 195463,
+        "num": 195463,
+        "word": "中岛健人退团",
+        "onboard_time": 1704711210,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186026,
+        "num": 186026,
+        "word": "29岁抖音员工欲进A股公司董事会",
+        "onboard_time": 1704711690,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181889,
+        "num": 181889,
+        "word": "瑞银称A股当前太便宜",
+        "onboard_time": 1704711750,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179471,
+        "num": 179471,
+        "word": "黄渤 短视频对观众和创作者是一种损失",
+        "onboard_time": 1704710552,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175560,
+        "num": 175560,
+        "word": "接到王凯电话我耳朵比人先麻了",
+        "onboard_time": 1704711450,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156771,
+        "num": 156771,
+        "word": "A股市场震荡收跌",
+        "onboard_time": 1704706409,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154610,
+        "num": 154610,
+        "word": "朱一龙恢复状况",
+        "onboard_time": 1704702450,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152296,
+        "num": 152296,
+        "word": "珠帘玉幕",
+        "onboard_time": 1704704610,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150092,
+        "num": 150092,
+        "word": "女子过安检保温杯里藏刀",
+        "onboard_time": 1704696930,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148209,
+        "num": 148209,
+        "word": "关晓彤 宋亚轩逐渐放飞",
+        "onboard_time": 1704711510,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147099,
+        "num": 147099,
+        "word": "美股遭遇20年来最糟糕开局",
+        "onboard_time": 1704703950,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145860,
+        "num": 145860,
+        "word": "在哈尔滨2小时冻出水疱",
+        "onboard_time": 1704711631,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137207,
+        "num": 137207,
+        "word": "陈星旭说给章若楠的爱情无价",
+        "onboard_time": 1704712052,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137117,
+        "num": 137117,
+        "word": "00后男孩500元一天出租自己",
+        "onboard_time": 1704696569,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 134161,
+        "num": 134161,
+        "word": "女子到银行存10万现金被问钱来源",
+        "onboard_time": 1704685052,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133402,
+        "num": 133402,
+        "word": "我迟到 有时是因为这样坐了很久",
+        "onboard_time": 1704708153,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132328,
+        "num": 132328,
+        "word": "女子谎称外卖吃出异物200多次被刑拘",
+        "onboard_time": 1704697051,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120404,
+        "num": 120404,
+        "word": "肖战藏海传最新路透",
+        "onboard_time": 1704702450,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117668,
+        "num": 117668,
+        "word": "明天三九第1天",
+        "onboard_time": 1704710010,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114065,
+        "num": 114065,
+        "word": "演员洪剑涛也去哈尔滨打卡了",
+        "onboard_time": 1704710010,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112517,
+        "num": 112517,
+        "word": "Wind竞品销售人员称账号开到手抖",
+        "onboard_time": 1704712352,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112331,
+        "num": 112331,
+        "word": "成为辅导员后看尽人生百态",
+        "onboard_time": 1704709233,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111123,
+        "num": 111123,
+        "word": "ITZY回归",
+        "onboard_time": 1704704849,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102216,
+        "num": 102216,
+        "word": "四川居然产鱼子酱",
+        "onboard_time": 1704712469,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#增强拒腐防变和抵御风险能力#"
+    }
+  }
+}
