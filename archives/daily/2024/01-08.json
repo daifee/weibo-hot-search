@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704676641840,
+  "endTime": 1704677911372,
   "band_list": [
     {
       "raw_hot": 1594101,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612293,
+      "num": 385456,
+      "word": "美国爱泼斯坦名单一窥",
+      "onboard_time": 1704676710,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 607244,
       "num": 607244,
       "word": "A先生跳海",
@@ -179,12 +187,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 389741,
-      "num": 389741,
+      "raw_hot": 389836,
+      "num": 389836,
       "word": "警犬父母生下幼犬取名110",
       "onboard_time": 1704674733,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385674,
+      "num": 385674,
+      "word": "做哈工大的学生也太幸福了",
+      "onboard_time": 1704675812,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 382940,
@@ -211,12 +227,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 325216,
+      "num": 325216,
+      "word": "等国考成绩",
+      "onboard_time": 1704676172,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 321496,
       "num": 321496,
       "word": "香菜泡面",
       "onboard_time": 1704638794,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 321441,
+      "num": 321441,
+      "word": "傅菁接到粉丝爸爸电话的反应",
+      "onboard_time": 1704672330,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 289014,
@@ -291,22 +323,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 236788,
-      "num": 236788,
-      "word": "做哈工大的学生也太幸福了",
-      "onboard_time": 1704675812,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 231393,
-      "num": 231393,
-      "word": "等国考成绩",
-      "onboard_time": 1704676172,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 227234,
       "num": 227234,
       "word": "爱泼斯坦",
@@ -323,12 +339,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 207491,
-      "num": 207491,
-      "word": "傅菁接到粉丝爸爸电话的反应",
-      "onboard_time": 1704672330,
-      "rank": 27,
-      "category": "演出"
+      "raw_hot": 205137,
+      "num": 152405,
+      "word": "怀疑同事的小动作是故意的",
+      "onboard_time": 1704676349,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 203178,
@@ -451,6 +467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133844,
+      "num": 133844,
+      "word": "周一是开始自律的好时机",
+      "onboard_time": 1704676887,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125382,
       "num": 125382,
       "word": "父母3个月后回家姐弟俩激动迎接",
@@ -515,6 +539,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113130,
+      "num": 113130,
+      "word": "流浪博士视频拍摄者发声",
+      "onboard_time": 1704677666,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111977,
+      "num": 111977,
+      "word": "超850万人次申购龙年茅台",
+      "onboard_time": 1704677369,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 110003,
+      "num": 110003,
+      "word": "哈尔滨旅游最重要的一站",
+      "onboard_time": 1704676827,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 108955,
       "num": 108955,
       "word": "齐麟33分",
@@ -529,6 +577,14 @@
       "onboard_time": 1704670044,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104220,
+      "num": 104220,
+      "word": "金球奖",
+      "onboard_time": 1704677787,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 103580,

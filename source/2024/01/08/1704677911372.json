@@ -1,0 +1,410 @@
+{
+  "runTime": 1704677911372,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1344727,
+        "num": 1344727,
+        "word": "我国破获一起英国秘密情报局间谍案",
+        "onboard_time": 1704669624,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1072115,
+        "num": 1072115,
+        "word": "为什么网吧老板不会赶走蹭睡的人",
+        "onboard_time": 1704671666,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60945,
+        "num": 1065562,
+        "word": "中国在极地布放首个生态潜标",
+        "onboard_time": 1704634470,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1223731,
+        "num": 1064551,
+        "word": "辛芷蕾喝多了",
+        "onboard_time": 1704673712,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1063347,
+        "num": 1063347,
+        "word": "马斯克回应吸毒",
+        "onboard_time": 1704672148,
+        "rank": 4,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 692709,
+        "num": 692709,
+        "word": "第一批小东北虎已抵达桂林",
+        "onboard_time": 1704669140,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 656381,
+        "num": 656381,
+        "word": "胡歌 爆剧玄学",
+        "onboard_time": 1704669741,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 484118,
+        "num": 484118,
+        "word": "公安机关发现余华英其他拐卖犯罪事实",
+        "onboard_time": 1704670825,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389836,
+        "num": 389836,
+        "word": "警犬父母生下幼犬取名110",
+        "onboard_time": 1704674733,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385674,
+        "num": 385674,
+        "word": "做哈工大的学生也太幸福了",
+        "onboard_time": 1704675812,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 612293,
+        "num": 385456,
+        "word": "美国爱泼斯坦名单一窥",
+        "onboard_time": 1704676710,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383062,
+        "num": 383062,
+        "word": "A先生说辛芷蕾本人很漂亮",
+        "onboard_time": 1704637355,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377299,
+        "num": 377299,
+        "word": "胖东来你装个红绿灯吧",
+        "onboard_time": 1704639756,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333684,
+        "num": 333684,
+        "word": "贪官花40多万元建了条500米断头路",
+        "onboard_time": 1704635556,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325216,
+        "num": 325216,
+        "word": "等国考成绩",
+        "onboard_time": 1704676172,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 321441,
+        "num": 321441,
+        "word": "傅菁接到粉丝爸爸电话的反应",
+        "onboard_time": 1704672330,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277615,
+        "num": 277615,
+        "word": "涉事公司回应女高管违法开除员工",
+        "onboard_time": 1704669080,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 276949,
+        "num": 276949,
+        "word": "雪乡导游强售套票未果让游客撅屁股等着",
+        "onboard_time": 1704642091,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269485,
+        "num": 269485,
+        "word": "睿宝被爱宝凶了",
+        "onboard_time": 1704673712,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234450,
+        "num": 234450,
+        "word": "小熊猫小折耳根来尔滨了",
+        "onboard_time": 1704675812,
+        "rank": 19,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 401197,
+        "num": 229388,
+        "word": "我爸退出了家人群",
+        "onboard_time": 1704637175,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222911,
+        "num": 222911,
+        "word": "复旦流浪博士已与家乡取得联系",
+        "onboard_time": 1704643350,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221267,
+        "num": 221267,
+        "word": "干掉蜜雪冰城的是旁边的蜜雪冰城",
+        "onboard_time": 1704632793,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 213333,
+        "num": 213333,
+        "word": "游本昌51到90岁荧幕变化",
+        "onboard_time": 1704670945,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213035,
+        "num": 213035,
+        "word": "网友英国街头偶遇周杰伦",
+        "onboard_time": 1704672211,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196485,
+        "num": 196485,
+        "word": "刘亦菲 唐嫣是最好的汪小姐",
+        "onboard_time": 1704627451,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193795,
+        "num": 193795,
+        "word": "身上这6个部位无须过度清洁",
+        "onboard_time": 1704669321,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191827,
+        "num": 191827,
+        "word": "为什么年轻人不爱用信用卡了",
+        "onboard_time": 1704627211,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157543,
+        "num": 157543,
+        "word": "A先生跳海",
+        "onboard_time": 1704632012,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152779,
+        "num": 152779,
+        "word": "2024金球奖红毯",
+        "onboard_time": 1704675333,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205137,
+        "num": 152405,
+        "word": "怀疑同事的小动作是故意的",
+        "onboard_time": 1704676349,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150751,
+        "num": 150751,
+        "word": "爸爸摔碎我化妆品后发的信息",
+        "onboard_time": 1704634470,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142139,
+        "num": 142139,
+        "word": "日常抗炎习惯",
+        "onboard_time": 1704670584,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139443,
+        "num": 139443,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704634173,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137630,
+        "num": 137630,
+        "word": "拜登发表强硬讲话后被夫人领下讲台被嘲",
+        "onboard_time": 1704656113,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136788,
+        "num": 136788,
+        "word": "天启异闻录 烂尾",
+        "onboard_time": 1704643708,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134889,
+        "num": 134889,
+        "word": "花千骨时期的赵丽颖",
+        "onboard_time": 1704671546,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133844,
+        "num": 133844,
+        "word": "周一是开始自律的好时机",
+        "onboard_time": 1704676887,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127068,
+        "num": 127068,
+        "word": "清澈的爱只为中国壁纸女孩回应",
+        "onboard_time": 1704670044,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116834,
+        "num": 116834,
+        "word": "2024年第一个网红城市",
+        "onboard_time": 1704669023,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115262,
+        "num": 115262,
+        "word": "父母3个月后回家姐弟俩激动迎接",
+        "onboard_time": 1704672989,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114870,
+        "num": 114870,
+        "word": "每一片海棠花都诉说着我们的思念",
+        "onboard_time": 1704675932,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113130,
+        "num": 113130,
+        "word": "流浪博士视频拍摄者发声",
+        "onboard_time": 1704677666,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111977,
+        "num": 111977,
+        "word": "超850万人次申购龙年茅台",
+        "onboard_time": 1704677369,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110003,
+        "num": 110003,
+        "word": "哈尔滨旅游最重要的一站",
+        "onboard_time": 1704676827,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 107758,
+        "num": 107758,
+        "word": "男子乘扶梯致玻璃炸裂被超市索赔8300",
+        "onboard_time": 1704658513,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104220,
+        "num": 104220,
+        "word": "金球奖",
+        "onboard_time": 1704677787,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100437,
+        "num": 100437,
+        "word": "参加潮汕人婚礼是种什么体验",
+        "onboard_time": 1704674312,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91150,
+        "num": 91150,
+        "word": "把朋友的精神病史告诉她男朋友",
+        "onboard_time": 1704635373,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90278,
+        "num": 90278,
+        "word": "华图 敢耍老子",
+        "onboard_time": 1704635614,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#轨道上的京津冀加速形成#"
+    }
+  }
+}
