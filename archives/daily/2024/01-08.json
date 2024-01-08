@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704724507589,
+  "endTime": 1704727121666,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -25,6 +25,14 @@
       "onboard_time": 1704703350,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1863825,
+      "num": 1863825,
+      "word": "乙流",
+      "onboard_time": 1704723814,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1833494,
@@ -187,8 +195,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1012295,
-      "num": 1012295,
+      "raw_hot": 1025623,
+      "num": 1025623,
       "word": "专家建议羽绒服要手洗",
       "onboard_time": 1704721834,
       "rank": 7,
@@ -427,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 663483,
+      "num": 394118,
+      "word": "萝莉岛",
+      "onboard_time": 1704725911,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 657483,
       "num": 657483,
       "word": "恋爱三个月定律",
@@ -497,6 +513,14 @@
       "onboard_time": 1704632012,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 595542,
+      "num": 595542,
+      "word": "鞠婧祎宋威龙咬唇吻",
+      "onboard_time": 1704725196,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 595069,
@@ -659,6 +683,14 @@
       "category": "互联网,艺人"
     },
     {
+      "raw_hot": 508662,
+      "num": 508662,
+      "word": "mbti新题",
+      "onboard_time": 1704725612,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 507427,
       "num": 437474,
       "word": "戏子祭酒 壶鱼辣椒",
@@ -777,14 +809,6 @@
       "onboard_time": 1704715109,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 450824,
-      "num": 450824,
-      "word": "乙流",
-      "onboard_time": 1704723814,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 448767,
@@ -971,6 +995,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 371073,
+      "num": 371073,
+      "word": "霍金",
+      "onboard_time": 1704726215,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365382,
       "num": 365382,
       "word": "ITZY回归",
@@ -1011,6 +1043,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 351260,
+      "num": 189072,
+      "word": "贾玲张小斐 我真的会谢",
+      "onboard_time": 1704726754,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329381,
+      "num": 329381,
+      "word": "张纪中高调秀恩爱",
+      "onboard_time": 1704723576,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321496,
       "num": 321496,
       "word": "香菜泡面",
@@ -1035,20 +1083,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 316909,
+      "num": 316909,
+      "word": "章若楠恭喜陈星旭新戏播出",
+      "onboard_time": 1704725014,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313279,
       "num": 313279,
       "word": "刘亦菲代言天梭",
       "onboard_time": 1704692490,
       "rank": 12,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 311548,
-      "num": 311548,
-      "word": "张纪中高调秀恩爱",
-      "onboard_time": 1704723576,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 306545,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1704704610,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293727,
+      "num": 293727,
+      "word": "妈妈才最适合考公",
+      "onboard_time": 1704724714,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 292419,
@@ -1211,12 +1267,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 266735,
+      "num": 305779,
+      "word": "教育局回应班主任让学生发毒誓",
+      "onboard_time": 1704723097,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266371,
       "num": 266371,
       "word": "乙游主题曲请奥运歌手",
       "onboard_time": 1704691113,
       "rank": 24,
       "category": "游戏,音乐"
+    },
+    {
+      "raw_hot": 261168,
+      "num": 261168,
+      "word": "人间清醒是李湘",
+      "onboard_time": 1704724954,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 259316,
@@ -1331,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239690,
+      "num": 239690,
+      "word": "大江大河3收视率",
+      "onboard_time": 1704724593,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239307,
       "num": 239307,
       "word": "颈椎最喜欢的三个动作",
@@ -1409,6 +1489,14 @@
       "onboard_time": 1704685891,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 220270,
+      "num": 187676,
+      "word": "爷叔给宝总上的最后一课",
+      "onboard_time": 1704725792,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 216544,
@@ -1675,14 +1763,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 195569,
-      "num": 195569,
-      "word": "教育局回应班主任让学生发毒誓",
-      "onboard_time": 1704723097,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195463,
       "num": 195463,
       "word": "中岛健人退团",
@@ -1785,6 +1865,14 @@
       "onboard_time": 1704704069,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180536,
+      "num": 180536,
+      "word": "哈尔滨搓澡大姨三班倒",
+      "onboard_time": 1704725375,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 180474,
@@ -2195,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141249,
+      "num": 141249,
+      "word": "五官越来越耐看的技巧",
+      "onboard_time": 1704726574,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 139333,
       "num": 139333,
       "word": "一诺铆钉皮衣",
@@ -2440,6 +2536,14 @@
       "word": "男子乘扶梯致玻璃炸裂被超市索赔8300",
       "onboard_time": 1704658513,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121981,
+      "num": 121981,
+      "word": "越野车中奖女生想带家人去拉萨",
+      "onboard_time": 1704726692,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2851,6 +2955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67132,
+      "num": 1031491,
+      "word": "多地上新文旅大礼包",
+      "onboard_time": 1704721595,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65572,
       "num": 65572,
       "word": "陈奕迅爆料杨千嬅后台用桶喝水",
@@ -2905,14 +3017,6 @@
       "onboard_time": 1704661333,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 58752,
-      "num": 1031491,
-      "word": "多地上新文旅大礼包",
-      "onboard_time": 1704721595,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58148,
@@ -3084,6 +3188,9 @@
     },
     {
       "word": "#增强拒腐防变和抵御风险能力#"
+    },
+    {
+      "word": "#打赢反腐败斗争攻坚战持久战#"
     }
   ]
 }
