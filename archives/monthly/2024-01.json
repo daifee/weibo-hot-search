@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704687747639,
+  "endTime": 1704688582319,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1033,6 +1033,14 @@
       "onboard_time": 1704673712,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1251455,
+      "num": 1251455,
+      "word": "女子到银行存10万现金被问钱来源",
+      "onboard_time": 1704685052,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1246954,
@@ -2089,14 +2097,6 @@
       "onboard_time": 1704190895,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 887004,
-      "num": 887004,
-      "word": "女子到银行存10万现金被问钱来源",
-      "onboard_time": 1704685052,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 881279,
@@ -3339,6 +3339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 668228,
+      "num": 668228,
+      "word": "杨紫国色芳华造型",
+      "onboard_time": 1704685474,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 667738,
       "num": 667738,
       "word": "从此排骨是排骨 年糕是年糕",
@@ -3657,14 +3665,6 @@
       "onboard_time": 1704432512,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 627989,
-      "num": 627989,
-      "word": "杨紫国色芳华造型",
-      "onboard_time": 1704685474,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 627632,
@@ -4091,6 +4091,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 577819,
+      "num": 359272,
+      "word": "教授建议生个孩子给一居室",
+      "onboard_time": 1704687693,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577511,
       "num": 577511,
       "word": "樊振东vs达科",
@@ -4169,6 +4177,14 @@
       "onboard_time": 1704503731,
       "rank": 12,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 570603,
+      "num": 570603,
+      "word": "日本一核电站震后漏油入海",
+      "onboard_time": 1704686674,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568534,
@@ -4939,6 +4955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 502351,
+      "num": 502351,
+      "word": "深圳欢乐谷回应事故调查报告",
+      "onboard_time": 1704686976,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502107,
       "num": 435150,
       "word": "小土豆文学",
@@ -5201,6 +5225,14 @@
       "onboard_time": 1704195991,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482955,
+      "num": 351354,
+      "word": "姐姐结婚后不能一起过年了",
+      "onboard_time": 1704687693,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 482437,
@@ -5699,6 +5731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 432218,
+      "num": 432218,
+      "word": "黑龙江蔓越莓太受欢迎了",
+      "onboard_time": 1704684693,
+      "rank": 41,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 432043,
       "num": 337347,
       "word": "长期喝奶茶会加重焦虑感",
@@ -5721,6 +5761,14 @@
       "onboard_time": 1704194672,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431390,
+      "num": 431390,
+      "word": "霉霉又双叒世一了",
+      "onboard_time": 1704687393,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 431306,
@@ -5931,14 +5979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415250,
-      "num": 415250,
-      "word": "黑龙江蔓越莓太受欢迎了",
-      "onboard_time": 1704684693,
-      "rank": 41,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 414946,
       "num": 414946,
       "word": "血型瘦身法",
@@ -6073,14 +6113,6 @@
       "onboard_time": 1704263969,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 409856,
-      "num": 409856,
-      "word": "日本一核电站震后漏油入海",
-      "onboard_time": 1704686674,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 409587,
@@ -6379,6 +6411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 390829,
+      "num": 343553,
+      "word": "新型分手方式",
+      "onboard_time": 1704686915,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 390752,
       "num": 390752,
       "word": "中国银行纪念币 约不到",
@@ -6635,6 +6675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 372051,
+      "num": 372051,
+      "word": "微博之夜第五波官宣阵容",
+      "onboard_time": 1704687336,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 371137,
       "num": 371137,
       "word": "仙剑 换乘恋爱",
@@ -6833,14 +6881,6 @@
       "onboard_time": 1704355052,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 356438,
-      "num": 356438,
-      "word": "深圳欢乐谷回应事故调查报告",
-      "onboard_time": 1704686976,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 355504,
@@ -7233,14 +7273,6 @@
       "onboard_time": 1704623191,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 327122,
-      "num": 327122,
-      "word": "新型分手方式",
-      "onboard_time": 1704686915,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 326501,
@@ -7667,14 +7699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308032,
-      "num": 278431,
-      "word": "霉霉又双叒世一了",
-      "onboard_time": 1704687393,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 307886,
       "num": 307886,
       "word": "钎九 又幸福了",
@@ -7833,6 +7857,14 @@
       "onboard_time": 1704460831,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 300350,
+      "num": 300350,
+      "word": "奥本海默赢很大",
+      "onboard_time": 1704687877,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 299863,
@@ -9129,6 +9161,14 @@
       "onboard_time": 1704537632,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 253966,
+      "num": 253966,
+      "word": "詹姆斯隔扣乔治",
+      "onboard_time": 1704687273,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 253941,
@@ -10771,14 +10811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209764,
-      "num": 209764,
-      "word": "詹姆斯隔扣乔治",
-      "onboard_time": 1704687273,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209611,
       "num": 271056,
       "word": "小女孩 真的你不如让我站着",
@@ -10947,6 +10979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206714,
+      "num": 206714,
+      "word": "成毅杂志",
+      "onboard_time": 1704688234,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 206195,
       "num": 206195,
       "word": "存量房贷利率迎来下调",
@@ -11041,14 +11081,6 @@
       "onboard_time": 1704064459,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204671,
-      "num": 204671,
-      "word": "微博之夜第五波官宣阵容",
-      "onboard_time": 1704687336,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 204583,
@@ -11403,6 +11435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199876,
+      "num": 199876,
+      "word": "AG冠军荣耀氛围感",
+      "onboard_time": 1704688535,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199691,
       "num": 199691,
       "word": "阿那亚 海上烟花",
@@ -11499,14 +11539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198081,
-      "num": 198081,
-      "word": "教授建议生个孩子给一居室",
-      "onboard_time": 1704687693,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198073,
       "num": 198073,
       "word": "猫咪山竹",
@@ -11585,6 +11617,14 @@
       "onboard_time": 1704370714,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196608,
+      "num": 196608,
+      "word": "北极熊和小砂糖橘上演最萌身高差",
+      "onboard_time": 1704687997,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196589,
@@ -11977,14 +12017,6 @@
       "onboard_time": 1704205058,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192318,
-      "num": 192318,
-      "word": "姐姐结婚后不能一起过年了",
-      "onboard_time": 1704687693,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 191859,
@@ -18451,6 +18483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100291,
+      "num": 1329391,
+      "word": "2024第一周忙碌带来确定性",
+      "onboard_time": 1704685230,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100170,
       "num": 62010,
       "word": "OST届的红白喜事同框了",
@@ -18473,14 +18513,6 @@
       "onboard_time": 1704610468,
       "rank": 42,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 98377,
-      "num": 1276760,
-      "word": "2024第一周忙碌带来确定性",
-      "onboard_time": 1704685230,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97920,

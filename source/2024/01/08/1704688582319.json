@@ -1,0 +1,410 @@
+{
+  "runTime": 1704688582319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3619052,
+        "num": 3619052,
+        "word": "6人奸淫不满14周岁幼女被判刑",
+        "onboard_time": 1704680789,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1485005,
+        "num": 1485005,
+        "word": "车厘子每斤便宜60元",
+        "onboard_time": 1704684392,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 100291,
+        "num": 1329391,
+        "word": "2024第一周忙碌带来确定性",
+        "onboard_time": 1704685230,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1251455,
+        "num": 1251455,
+        "word": "女子到银行存10万现金被问钱来源",
+        "onboard_time": 1704685052,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041443,
+        "num": 1041443,
+        "word": "常怡去世",
+        "onboard_time": 1704685593,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774809,
+        "num": 774809,
+        "word": "辛芷蕾喝多了",
+        "onboard_time": 1704673712,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668228,
+        "num": 668228,
+        "word": "杨紫国色芳华造型",
+        "onboard_time": 1704685474,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 664125,
+        "num": 664125,
+        "word": "小伙裸辞卖预制菜年亏40万后逆袭",
+        "onboard_time": 1704680847,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616354,
+        "num": 616354,
+        "word": "郑强称60岁退休确实早了一点",
+        "onboard_time": 1704679587,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585556,
+        "num": 585556,
+        "word": "华莱士送10万份套餐",
+        "onboard_time": 1704679828,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 570603,
+        "num": 570603,
+        "word": "日本一核电站震后漏油入海",
+        "onboard_time": 1704686674,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530336,
+        "num": 530336,
+        "word": "广州一中学花近5万买破解Wii",
+        "onboard_time": 1704685352,
+        "rank": 11,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 502351,
+        "num": 502351,
+        "word": "深圳欢乐谷回应事故调查报告",
+        "onboard_time": 1704686976,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472001,
+        "num": 472001,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1704680789,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432218,
+        "num": 432218,
+        "word": "黑龙江蔓越莓太受欢迎了",
+        "onboard_time": 1704684693,
+        "rank": 14,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 432151,
+        "num": 432151,
+        "word": "保护A股股民合法权益",
+        "onboard_time": 1704684451,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 431390,
+        "num": 431390,
+        "word": "霉霉又双叒世一了",
+        "onboard_time": 1704687393,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381431,
+        "num": 381431,
+        "word": "为什么网吧老板不会赶走蹭睡的人",
+        "onboard_time": 1704671666,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372051,
+        "num": 372051,
+        "word": "微博之夜第五波官宣阵容",
+        "onboard_time": 1704687336,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365970,
+        "num": 365970,
+        "word": "岳云鹏曾被30人围观洗澡",
+        "onboard_time": 1704677908,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577819,
+        "num": 359272,
+        "word": "教授建议生个孩子给一居室",
+        "onboard_time": 1704687693,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482955,
+        "num": 351354,
+        "word": "姐姐结婚后不能一起过年了",
+        "onboard_time": 1704687693,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 390829,
+        "num": 343553,
+        "word": "新型分手方式",
+        "onboard_time": 1704686915,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335675,
+        "num": 335675,
+        "word": "等国考成绩",
+        "onboard_time": 1704676172,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 333761,
+        "num": 333761,
+        "word": "霉霉绿裙子好闪",
+        "onboard_time": 1704682653,
+        "rank": 24,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 318893,
+        "num": 318893,
+        "word": "为什么看病总要做血常规",
+        "onboard_time": 1704683670,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300350,
+        "num": 300350,
+        "word": "奥本海默赢很大",
+        "onboard_time": 1704687877,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287991,
+        "num": 287991,
+        "word": "第一批小东北虎已抵达桂林",
+        "onboard_time": 1704669140,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 253966,
+        "num": 253966,
+        "word": "詹姆斯隔扣乔治",
+        "onboard_time": 1704687273,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253488,
+        "num": 253488,
+        "word": "马斯克回应吸毒",
+        "onboard_time": 1704672148,
+        "rank": 29,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 241114,
+        "num": 241114,
+        "word": "胡歌 爆剧玄学",
+        "onboard_time": 1704669741,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220064,
+        "num": 220064,
+        "word": "EXO今后活动方向",
+        "onboard_time": 1704682530,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215453,
+        "num": 215453,
+        "word": "猫猫没有骨头的铁证",
+        "onboard_time": 1704681930,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213967,
+        "num": 213967,
+        "word": "东南亚小金豆也来黑龙江了",
+        "onboard_time": 1704686135,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 206714,
+        "num": 206714,
+        "word": "成毅杂志",
+        "onboard_time": 1704688234,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204110,
+        "num": 204110,
+        "word": "俄罗斯小套娃抵达黑龙江",
+        "onboard_time": 1704684511,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199876,
+        "num": 199876,
+        "word": "AG冠军荣耀氛围感",
+        "onboard_time": 1704688535,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196608,
+        "num": 196608,
+        "word": "北极熊和小砂糖橘上演最萌身高差",
+        "onboard_time": 1704687997,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187274,
+        "num": 187274,
+        "word": "刘诗诗东方诗意大片",
+        "onboard_time": 1704685835,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181882,
+        "num": 181882,
+        "word": "美国爱泼斯坦名单一窥",
+        "onboard_time": 1704676710,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181648,
+        "num": 181648,
+        "word": "金球奖",
+        "onboard_time": 1704677787,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181561,
+        "num": 181561,
+        "word": "萌兰把心爱的乌龟壳子宠上树",
+        "onboard_time": 1704686375,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181048,
+        "num": 181048,
+        "word": "我们的翻译官开播",
+        "onboard_time": 1704687034,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176630,
+        "num": 176630,
+        "word": "黑熊爬高压电塔触电仰面倒地死亡",
+        "onboard_time": 1704685891,
+        "rank": 43,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 176228,
+        "num": 176228,
+        "word": "浙江首考",
+        "onboard_time": 1704685891,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165631,
+        "num": 165631,
+        "word": "为什么今年羽绒服价格不菲还这么火",
+        "onboard_time": 1704682050,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 163043,
+        "num": 163043,
+        "word": "ZICO和华莎第一个Any Song Challenge",
+        "onboard_time": 1704682771,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160690,
+        "num": 160690,
+        "word": "深圳欢乐谷过山车事故9人被追责问责",
+        "onboard_time": 1704680847,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159897,
+        "num": 159897,
+        "word": "卖房后重回出租屋的人现在怎样了",
+        "onboard_time": 1704679888,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 159349,
+        "num": 159349,
+        "word": "我爸退出了家人群",
+        "onboard_time": 1704637175,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#正风反腐永远吹冲锋号#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704687747639,
+  "endTime": 1704688582319,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1033,6 +1033,14 @@
       "onboard_time": 1704673712,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1251455,
+      "num": 1251455,
+      "word": "女子到银行存10万现金被问钱来源",
+      "onboard_time": 1704685052,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1246954,
@@ -2089,14 +2097,6 @@
       "onboard_time": 1704190895,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 887004,
-      "num": 887004,
-      "word": "女子到银行存10万现金被问钱来源",
-      "onboard_time": 1704685052,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 881279,
