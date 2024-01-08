@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704706472410,
+  "endTime": 1704709200143,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1872659,
+      "num": 1872659,
+      "word": "林府家规",
+      "onboard_time": 1704703350,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1833494,
       "num": 1833494,
       "word": "女子到银行存10万现金被问钱来源",
       "onboard_time": 1704685052,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1722960,
+      "num": 1722960,
+      "word": "爷爷 已读乱回",
+      "onboard_time": 1704706172,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 1683775,
@@ -49,14 +65,6 @@
       "onboard_time": 1704684392,
       "rank": 31,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1477091,
-      "num": 1477091,
-      "word": "林府家规",
-      "onboard_time": 1704703350,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1350463,
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 993471,
+      "num": 993471,
+      "word": "蔡依林 浪5",
+      "onboard_time": 1704706709,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 990683,
       "num": 990683,
       "word": "杨紫李现牵手同框路透",
@@ -203,12 +219,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 806762,
+      "num": 806762,
+      "word": "王菲 她甚至能治王家卫",
+      "onboard_time": 1704706775,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 782961,
       "num": 782961,
       "word": "胡歌 爆剧玄学",
       "onboard_time": 1704669741,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 752568,
+      "num": 499567,
+      "word": "不生孩子的下半辈子",
+      "onboard_time": 1704704910,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 751347,
@@ -233,14 +265,6 @@
       "onboard_time": 1704679828,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 731150,
-      "num": 477979,
-      "word": "不生孩子的下半辈子",
-      "onboard_time": 1704704910,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 730174,
@@ -499,6 +523,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 502433,
+      "num": 502433,
+      "word": "官方通报大学生358元雪乡两日游",
+      "onboard_time": 1704705030,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502351,
       "num": 502351,
       "word": "深圳欢乐谷回应事故调查报告",
@@ -508,7 +540,7 @@
     },
     {
       "raw_hot": 494399,
-      "num": 494399,
+      "num": 1727783,
       "word": "幼儿园宝宝全勤奖是棵大芹菜",
       "onboard_time": 1704703108,
       "rank": 9,
@@ -563,14 +595,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 458749,
-      "num": 458749,
-      "word": "官方通报大学生358元雪乡两日游",
-      "onboard_time": 1704705030,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448767,
       "num": 448767,
       "word": "刘亦菲抱狗工作",
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 428734,
-      "num": 278196,
+      "num": 308665,
       "word": "蔓越莓竟然是在水中采摘的",
       "onboard_time": 1704705330,
       "rank": 21,
@@ -755,6 +779,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 329306,
+      "num": 329306,
+      "word": "科举文男主有了脸",
+      "onboard_time": 1704708272,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 322536,
+      "num": 322536,
+      "word": "李国庆称是叶璇想制造爆点",
+      "onboard_time": 1704708392,
+      "rank": 18,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 321496,
       "num": 321496,
       "word": "香菜泡面",
@@ -827,12 +867,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 293376,
-      "num": 293376,
-      "word": "爷爷 已读乱回",
-      "onboard_time": 1704706172,
-      "rank": 18,
-      "category": "幽默"
+      "raw_hot": 298527,
+      "num": 298527,
+      "word": "台湾女生在东北第一次吃冰糖葫芦",
+      "onboard_time": 1704705330,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 297276,
+      "num": 313580,
+      "word": "珠帘玉幕",
+      "onboard_time": 1704704610,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 292419,
@@ -891,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275889,
+      "num": 1113176,
+      "word": "五岁女童针灸推拿拔罐样样都会",
+      "onboard_time": 1704707433,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272288,
       "num": 272288,
       "word": "胡锡进总浮亏突破6万元",
@@ -947,6 +1003,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 258390,
+      "num": 812808,
+      "word": "民警吃火锅多看一眼抓住2名逃犯",
+      "onboard_time": 1704707433,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256848,
       "num": 256848,
       "word": "ZICO和华莎第一个Any Song Challenge",
@@ -968,14 +1032,6 @@
       "word": "天启异闻录 烂尾",
       "onboard_time": 1704643708,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 255490,
-      "num": 255490,
-      "word": "珠帘玉幕",
-      "onboard_time": 1704704610,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -1001,14 +1057,6 @@
       "onboard_time": 1704672211,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245061,
-      "num": 245061,
-      "word": "台湾女生在东北第一次吃冰糖葫芦",
-      "onboard_time": 1704705330,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 244967,
@@ -1243,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198956,
+      "num": 198956,
+      "word": "A股市场震荡收跌",
+      "onboard_time": 1704706409,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 196608,
       "num": 196608,
       "word": "北极熊和小砂糖橘上演最萌身高差",
@@ -1305,6 +1361,22 @@
       "onboard_time": 1704682050,
       "rank": 28,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 190274,
+      "num": 190274,
+      "word": "卢美琳 一生何求",
+      "onboard_time": 1704707190,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186477,
+      "num": 186477,
+      "word": "我迟到 有时是因为这样坐了很久",
+      "onboard_time": 1704708153,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 185342,
@@ -1371,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174519,
+      "num": 174519,
+      "word": "2023健康榜样颁奖盛典",
+      "onboard_time": 1704707970,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174414,
       "num": 174414,
       "word": "南宁地铁回应广告画争议",
@@ -1401,6 +1481,14 @@
       "onboard_time": 1704684211,
       "rank": 33,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 169960,
+      "num": 169960,
+      "word": "两市超4800股下跌",
+      "onboard_time": 1704707673,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 169779,
@@ -1595,6 +1683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141773,
+      "num": 141773,
+      "word": "胡杏儿体验簪花",
+      "onboard_time": 1704706293,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141564,
       "num": 141564,
       "word": "清澈的爱只为中国壁纸女孩回应",
@@ -1681,6 +1777,14 @@
       "onboard_time": 1704692011,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130342,
+      "num": 130342,
+      "word": "请神 但请的是自己",
+      "onboard_time": 1704707010,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 128876,
@@ -1835,14 +1939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112928,
-      "num": 112928,
-      "word": "胡杏儿体验簪花",
-      "onboard_time": 1704706293,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111977,
       "num": 111977,
       "word": "超850万人次申购龙年茅台",
@@ -1907,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102412,
+      "num": 102412,
+      "word": "周到晒孙颖莎训练视频",
+      "onboard_time": 1704706838,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100291,
       "num": 1329391,
       "word": "2024第一周忙碌带来确定性",
@@ -1923,12 +2027,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 98686,
-      "num": 98686,
-      "word": "A股市场震荡收跌",
-      "onboard_time": 1704706409,
+      "raw_hot": 99319,
+      "num": 99319,
+      "word": "内娱红毯 欧美红毯",
+      "onboard_time": 1704709171,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98697,
+      "num": 98697,
+      "word": "唐妆",
+      "onboard_time": 1704708091,
       "rank": 49,
-      "category": "财经"
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 97119,
@@ -1961,6 +2073,14 @@
       "onboard_time": 1704639574,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93393,
+      "num": 99618,
+      "word": "OPPO实现首个听筒式卫星通话",
+      "onboard_time": 1704707131,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 91560,
@@ -2025,6 +2145,14 @@
       "onboard_time": 1704640953,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 77806,
+      "num": 188063,
+      "word": "和FindX7一起抓拍crush瞬间",
+      "onboard_time": 1704706531,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 72044,
@@ -2188,7 +2316,7 @@
     },
     {
       "raw_hot": 32763,
-      "num": 1014710,
+      "num": 1724938,
       "word": "聚焦中国经济圆桌会",
       "onboard_time": 1704701372,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704706472410,
+  "endTime": 1704709200143,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -379,6 +379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1872659,
+      "num": 1872659,
+      "word": "林府家规",
+      "onboard_time": 1704703350,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1872018,
       "num": 1872018,
       "word": "王一博 所有人都是可爱的旁观者",
@@ -513,6 +521,14 @@
       "onboard_time": 1704421529,
       "rank": 21,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 1722960,
+      "num": 1722960,
+      "word": "爷爷 已读乱回",
+      "onboard_time": 1704706172,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 1721660,
@@ -737,14 +753,6 @@
       "onboard_time": 1704244469,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1477091,
-      "num": 1477091,
-      "word": "林府家规",
-      "onboard_time": 1704703350,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1464481,
@@ -1771,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 993471,
+      "num": 993471,
+      "word": "蔡依林 浪5",
+      "onboard_time": 1704706709,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 992427,
       "num": 992427,
       "word": "看王家卫怎么拍分手",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704101020,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 831717,
-      "num": 831717,
-      "word": "警方通报高校干部酒后家暴打死妻子",
-      "onboard_time": 1704241652,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 830891,
-      "num": 377130,
-      "word": "日本两小时内发生了40多次地震",
-      "onboard_time": 1704118902,
-      "rank": 19,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
