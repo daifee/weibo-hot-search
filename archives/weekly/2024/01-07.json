@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704702213702,
+  "endTime": 1704703010610,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -147,6 +147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1279788,
+      "num": 1279788,
+      "word": "女子谎称外卖吃出异物200多次被刑拘",
+      "onboard_time": 1704697051,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1265933,
       "num": 1265933,
       "word": "马斯克回应吸毒",
@@ -257,14 +265,6 @@
       "onboard_time": 1704625713,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1074920,
-      "num": 1074920,
-      "word": "女子谎称外卖吃出异物200多次被刑拘",
-      "onboard_time": 1704697051,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1044245,
@@ -611,6 +611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 681290,
+      "num": 681290,
+      "word": "银行4个窗口只开1个被男子怒怼",
+      "onboard_time": 1704698131,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680831,
       "num": 680831,
       "word": "复旦流浪博士已与家乡取得联系",
@@ -785,14 +793,6 @@
       "onboard_time": 1704685352,
       "rank": 10,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 578135,
-      "num": 578135,
-      "word": "银行4个窗口只开1个被男子怒怼",
-      "onboard_time": 1704698131,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 573372,
@@ -1179,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 424431,
+      "num": 424431,
+      "word": "肖战藏海传最新路透",
+      "onboard_time": 1704702450,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420374,
       "num": 343553,
       "word": "新型分手方式",
@@ -1363,6 +1371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 385388,
+      "num": 385388,
+      "word": "朱一龙恢复状况",
+      "onboard_time": 1704702450,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385236,
       "num": 385236,
       "word": "京东联名卡 抢不到",
@@ -1537,6 +1553,14 @@
       "onboard_time": 1704672330,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 320385,
+      "num": 320385,
+      "word": "Switch烧录卡",
+      "onboard_time": 1704701250,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 318539,
@@ -1955,14 +1979,6 @@
       "category": "作品衍生,美食"
     },
     {
-      "raw_hot": 243411,
-      "num": 243411,
-      "word": "Switch烧录卡",
-      "onboard_time": 1704701250,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 241621,
       "num": 241621,
       "word": "为什么年轻人热衷于祈福了",
@@ -2025,6 +2041,14 @@
       "onboard_time": 1704554137,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 231909,
+      "num": 231909,
+      "word": "武汉90后会计转行做家政月入4万",
+      "onboard_time": 1704701310,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231172,
@@ -2105,14 +2129,6 @@
       "onboard_time": 1704622112,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217395,
-      "num": 217395,
-      "word": "武汉90后会计转行做家政月入4万",
-      "onboard_time": 1704701310,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216183,
@@ -2587,6 +2603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178174,
+      "num": 178174,
+      "word": "就说幼儿园能学到真东西",
+      "onboard_time": 1704698609,
+      "rank": 38,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 176871,
       "num": 176871,
       "word": "被威胁女大学生重回事发地摆摊",
@@ -2747,6 +2771,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 168732,
+      "num": 168732,
+      "word": "瑞银称A股最坏时间已过",
+      "onboard_time": 1704699448,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 168421,
       "num": 168421,
       "word": "反腐大片持续发力纵深推进第二集",
@@ -2867,6 +2899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160149,
+      "num": 160149,
+      "word": "日本地震323人下落不明",
+      "onboard_time": 1704699211,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160143,
       "num": 160143,
       "word": "联合杯德国队夺冠",
@@ -2979,28 +3019,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 155373,
-      "num": 155373,
-      "word": "瑞银称A股最坏时间已过",
-      "onboard_time": 1704699448,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 154884,
       "num": 154884,
       "word": "关晓彤晒庄筱婷剧照",
       "onboard_time": 1704608788,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154636,
-      "num": 154636,
-      "word": "就说幼儿园能学到真东西",
-      "onboard_time": 1704698609,
-      "rank": 38,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 154438,
@@ -3129,14 +3153,6 @@
       "onboard_time": 1704691353,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150857,
-      "num": 150857,
-      "word": "日本地震323人下落不明",
-      "onboard_time": 1704699211,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150670,
@@ -3947,6 +3963,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 109217,
+      "num": 109217,
+      "word": "南方人扎堆打卡尔滨菜市场",
+      "onboard_time": 1704702331,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 109082,
       "num": 109082,
       "word": "字母哥空砍群群主",
@@ -4347,6 +4371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 89447,
+      "num": 89447,
+      "word": "OPPO推出GPT大模型手机",
+      "onboard_time": 1704702930,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 88745,
       "num": 88745,
       "word": "年会不能停笑点",
@@ -4587,6 +4619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 32322,
+      "num": 1014710,
+      "word": "聚焦中国经济圆桌会",
+      "onboard_time": 1704701372,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31793,
       "num": 29904,
       "word": "檀健次重现杨紫经典台词",
@@ -4649,14 +4689,6 @@
       "onboard_time": 1704567436,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21081,
-      "num": 1014710,
-      "word": "聚焦中国经济圆桌会",
-      "onboard_time": 1704701372,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21061,

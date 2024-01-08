@@ -1,0 +1,410 @@
+{
+  "runTime": 1704703010610,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1279788,
+        "num": 1279788,
+        "word": "女子谎称外卖吃出异物200多次被刑拘",
+        "onboard_time": 1704697051,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908816,
+        "num": 908816,
+        "word": "杨紫李现牵手同框路透",
+        "onboard_time": 1704698190,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32322,
+        "num": 839530,
+        "word": "聚焦中国经济圆桌会",
+        "onboard_time": 1704701372,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948344,
+        "num": 829002,
+        "word": "千万网红团队成员约架致一人身亡",
+        "onboard_time": 1704694649,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 796549,
+        "num": 796549,
+        "word": "教授建议生个孩子给一居室",
+        "onboard_time": 1704687693,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681290,
+        "num": 681290,
+        "word": "银行4个窗口只开1个被男子怒怼",
+        "onboard_time": 1704698131,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606812,
+        "num": 606812,
+        "word": "安徽武校投毒案一审宣判",
+        "onboard_time": 1704700410,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521689,
+        "num": 521689,
+        "word": "曝袁惟仁意识不清",
+        "onboard_time": 1704700170,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485864,
+        "num": 485864,
+        "word": "女子过安检保温杯里藏刀",
+        "onboard_time": 1704696930,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440748,
+        "num": 440748,
+        "word": "沙特发现世界级金矿",
+        "onboard_time": 1704695489,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1189809,
+        "num": 438250,
+        "word": "湛江中学老师坠楼系刑事案件",
+        "onboard_time": 1704697470,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62441,
+        "num": 427657,
+        "word": "FindX7封神",
+        "onboard_time": 1704700532,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 424431,
+        "num": 424431,
+        "word": "肖战藏海传最新路透",
+        "onboard_time": 1704702450,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399668,
+        "num": 399668,
+        "word": "刘亦菲抱狗工作",
+        "onboard_time": 1704700469,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385388,
+        "num": 385388,
+        "word": "朱一龙恢复状况",
+        "onboard_time": 1704702450,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385230,
+        "num": 385230,
+        "word": "车厘子每斤便宜60元",
+        "onboard_time": 1704684392,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 369353,
+        "num": 369353,
+        "word": "女子到银行存10万现金被问钱来源",
+        "onboard_time": 1704685052,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320385,
+        "num": 320385,
+        "word": "Switch烧录卡",
+        "onboard_time": 1704701250,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 318195,
+        "num": 318195,
+        "word": "乌克兰军方称乌全境拉响防空警报",
+        "onboard_time": 1704697352,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 266639,
+        "num": 266639,
+        "word": "黄子佼方辟谣去世传闻",
+        "onboard_time": 1704697710,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293242,
+        "num": 266356,
+        "word": "00后男孩500元一天出租自己",
+        "onboard_time": 1704696569,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 231909,
+        "num": 231909,
+        "word": "武汉90后会计转行做家政月入4万",
+        "onboard_time": 1704701310,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224702,
+        "num": 224702,
+        "word": "金在中喊话SuperJunior上节目",
+        "onboard_time": 1704698673,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223324,
+        "num": 223324,
+        "word": "吴京式男人",
+        "onboard_time": 1704699571,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220262,
+        "num": 220262,
+        "word": "大冻梨街头走秀小土豆被身高暴击",
+        "onboard_time": 1704691113,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 204351,
+        "num": 204351,
+        "word": "姐姐结婚后不能一起过年了",
+        "onboard_time": 1704687693,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204135,
+        "num": 204135,
+        "word": "辛芷蕾喝多了",
+        "onboard_time": 1704673712,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196687,
+        "num": 196687,
+        "word": "小米汽车回应50万内没有对手",
+        "onboard_time": 1704699870,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 193543,
+        "num": 193543,
+        "word": "刘诗诗紫色葡萄妆",
+        "onboard_time": 1704701188,
+        "rank": 28,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 178174,
+        "num": 178174,
+        "word": "就说幼儿园能学到真东西",
+        "onboard_time": 1704698609,
+        "rank": 29,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 529958,
+        "num": 175320,
+        "word": "6人奸淫不满14周岁幼女被判刑",
+        "onboard_time": 1704680789,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171578,
+        "num": 171578,
+        "word": "王一博你睡了吗",
+        "onboard_time": 1704692370,
+        "rank": 31,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 169232,
+        "num": 169232,
+        "word": "杨紫谭松韵田曦薇唐妆造型",
+        "onboard_time": 1704695071,
+        "rank": 32,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 168732,
+        "num": 168732,
+        "word": "瑞银称A股最坏时间已过",
+        "onboard_time": 1704699448,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161840,
+        "num": 161840,
+        "word": "梁朝伟 买3张影票就希望旁边没有人",
+        "onboard_time": 1704693030,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160149,
+        "num": 160149,
+        "word": "日本地震323人下落不明",
+        "onboard_time": 1704699211,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141420,
+        "num": 141420,
+        "word": "普通话不好容易引起的误会",
+        "onboard_time": 1704698430,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137771,
+        "num": 137771,
+        "word": "分手见人品",
+        "onboard_time": 1704694111,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135872,
+        "num": 135872,
+        "word": "小凉皮想吃冻梨哈尔滨文旅宠溺回应",
+        "onboard_time": 1704696871,
+        "rank": 38,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 134696,
+        "num": 134696,
+        "word": "3元的饮料终究是错付了",
+        "onboard_time": 1704693509,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119544,
+        "num": 119544,
+        "word": "俄对乌西部等地区发动导弹袭击",
+        "onboard_time": 1704697290,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 113664,
+        "num": 113664,
+        "word": "新型分手方式",
+        "onboard_time": 1704686915,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112902,
+        "num": 112902,
+        "word": "合肥大学今天揭牌",
+        "onboard_time": 1704700230,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 109857,
+        "num": 109857,
+        "word": "马吟吟 剧抛脸演员",
+        "onboard_time": 1704701791,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109217,
+        "num": 109217,
+        "word": "南方人扎堆打卡尔滨菜市场",
+        "onboard_time": 1704702331,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 107280,
+        "num": 107280,
+        "word": "广州一中学花近5万买破解Wii",
+        "onboard_time": 1704685352,
+        "rank": 45,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 95108,
+        "num": 95108,
+        "word": "为什么看病总要做血常规",
+        "onboard_time": 1704683670,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95022,
+        "num": 95022,
+        "word": "等国考成绩",
+        "onboard_time": 1704676172,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 93422,
+        "num": 93422,
+        "word": "微博之夜第五波官宣阵容",
+        "onboard_time": 1704687336,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89447,
+        "num": 89447,
+        "word": "OPPO推出GPT大模型手机",
+        "onboard_time": 1704702930,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#正风反腐永远吹冲锋号#"
+    }
+  }
+}
