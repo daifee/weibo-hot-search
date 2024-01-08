@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704695828811,
+  "endTime": 1704698236380,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1683775,
+      "num": 732941,
+      "word": "千万网红团队成员约架致一人身亡",
+      "onboard_time": 1704694649,
+      "rank": 20,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1666986,
       "num": 1666986,
       "word": "余额低于100元不能提现属霸王条款",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1704291879,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1296178,
+      "num": 431876,
+      "word": "A股大跌",
+      "onboard_time": 1704696629,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1292816,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704620491,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 819550,
-      "num": 819550,
-      "word": "男子证实失联12天父亲已遇害",
-      "onboard_time": 1704364231,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 815025,
-      "num": 815025,
-      "word": "李荣浩 去年的事儿先不提了",
-      "onboard_time": 1704104918,
-      "rank": 30,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

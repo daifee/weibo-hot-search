@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704695828811,
+  "endTime": 1704698236380,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1683775,
+      "num": 732941,
+      "word": "千万网红团队成员约架致一人身亡",
+      "onboard_time": 1704694649,
+      "rank": 20,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1631117,
       "num": 1631117,
       "word": "刘亦菲 唐嫣是最好的汪小姐",
@@ -121,6 +129,14 @@
       "onboard_time": 1704611608,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1296178,
+      "num": 431876,
+      "word": "A股大跌",
+      "onboard_time": 1704696629,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1265933,
@@ -419,6 +435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 766687,
+      "num": 766687,
+      "word": "沙特发现世界级金矿",
+      "onboard_time": 1704695489,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 762716,
       "num": 762716,
       "word": "央视曝辽宁3任公安厅长落马细节",
@@ -473,14 +497,6 @@
       "onboard_time": 1704592650,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 732941,
-      "num": 732941,
-      "word": "千万网红团队成员约架致一人身亡",
-      "onboard_time": 1704694649,
-      "rank": 20,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 730174,
@@ -971,6 +987,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 464241,
+      "num": 464241,
+      "word": "3元的饮料终究是错付了",
+      "onboard_time": 1704693509,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 462384,
+      "num": 462384,
+      "word": "黄子佼方辟谣去世传闻",
+      "onboard_time": 1704697710,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462280,
       "num": 462280,
       "word": "尔滨送女生1000克拉冰钻戒",
@@ -1011,12 +1043,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 455820,
-      "num": 455820,
-      "word": "3元的饮料终究是错付了",
-      "onboard_time": 1704693509,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 455002,
+      "num": 455002,
+      "word": "俄对乌西部等地区发动导弹袭击",
+      "onboard_time": 1704697290,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 454019,
@@ -1244,7 +1276,7 @@
     },
     {
       "raw_hot": 389965,
-      "num": 244286,
+      "num": 274231,
       "word": "分手见人品",
       "onboard_time": 1704694111,
       "rank": 21,
@@ -1283,6 +1315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 376605,
+      "num": 376605,
+      "word": "女子过安检保温杯里藏刀",
+      "onboard_time": 1704696930,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372051,
       "num": 372051,
       "word": "微博之夜第五波官宣阵容",
@@ -1299,11 +1339,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371441,
+      "num": 274322,
+      "word": "00后男孩500元一天出租自己",
+      "onboard_time": 1704696569,
+      "rank": 20,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 370215,
       "num": 370215,
       "word": "哈尔滨当地人搓澡都戒半个月了",
       "onboard_time": 1704601472,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364953,
+      "num": 364953,
+      "word": "湛江中学老师坠楼系刑事案件",
+      "onboard_time": 1704697470,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1571,6 +1627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 289369,
+      "num": 274379,
+      "word": "FindX7发布会",
+      "onboard_time": 1704696329,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 289014,
       "num": 289014,
       "word": "睿宝被爱宝凶了",
@@ -1633,6 +1697,22 @@
       "onboard_time": 1704612090,
       "rank": 14,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 276165,
+      "num": 276165,
+      "word": "女子谎称外卖吃出异物200多次被刑拘",
+      "onboard_time": 1704697051,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273438,
+      "num": 273438,
+      "word": "乌克兰军方称乌全境拉响防空警报",
+      "onboard_time": 1704697352,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 271138,
@@ -1761,6 +1841,14 @@
       "onboard_time": 1704600990,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253145,
+      "num": 253145,
+      "word": "杨紫李现牵手同框路透",
+      "onboard_time": 1704698190,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 250039,
@@ -2387,12 +2475,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 180474,
+      "num": 180474,
+      "word": "小凉皮想吃冻梨哈尔滨文旅宠溺回应",
+      "onboard_time": 1704696871,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 180042,
       "num": 180042,
       "word": "2024金球奖红毯",
       "onboard_time": 1704675333,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177550,
+      "num": 177550,
+      "word": "魔兽世界",
+      "onboard_time": 1704696811,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 176871,
@@ -2529,6 +2633,14 @@
       "onboard_time": 1704684211,
       "rank": 33,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 169779,
+      "num": 169779,
+      "word": "鄂伦春族小伙送狍角帽现场感动落泪",
+      "onboard_time": 1704695789,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169778,
@@ -2859,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152194,
+      "num": 152194,
+      "word": "守望先锋",
+      "onboard_time": 1704697769,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152108,
       "num": 152108,
       "word": "男子被热气球倒吊带飞众人拉回",
@@ -3019,6 +3139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144224,
+      "num": 144224,
+      "word": "银行4个窗口只开1个被男子怒怼",
+      "onboard_time": 1704698131,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142702,
       "num": 142702,
       "word": "林允儿FM Dance Challenge",
@@ -3137,14 +3265,6 @@
       "onboard_time": 1704595470,
       "rank": 37,
       "category": "运动健身,社会新闻"
-    },
-    {
-      "raw_hot": 134234,
-      "num": 134234,
-      "word": "沙特发现世界级金矿",
-      "onboard_time": 1704695489,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133844,
@@ -3531,6 +3651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117201,
+      "num": 117201,
+      "word": "大江大河",
+      "onboard_time": 1704698071,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117192,
       "num": 117192,
       "word": "哈尔滨旅游后劲儿太大",
@@ -3579,6 +3707,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 114260,
+      "num": 114260,
+      "word": "郑恺名场面再现",
+      "onboard_time": 1704696508,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114089,
       "num": 114089,
       "word": "如果奔跑是我的人生定档",
@@ -3617,6 +3753,14 @@
       "onboard_time": 1704677369,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 111675,
+      "num": 111675,
+      "word": "郑强称不要责怪年轻人",
+      "onboard_time": 1704696629,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111406,
@@ -3697,6 +3841,14 @@
       "onboard_time": 1704530013,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 107730,
+      "num": 107730,
+      "word": "陈星旭女主运",
+      "onboard_time": 1704698190,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 107619,
@@ -3985,14 +4137,6 @@
       "onboard_time": 1704546155,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 94489,
-      "num": 94489,
-      "word": "鄂伦春族小伙送狍角帽现场感动落泪",
-      "onboard_time": 1704695789,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94257,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704695828811,
+  "endTime": 1704698236380,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1683775,
+      "num": 732941,
+      "word": "千万网红团队成员约架致一人身亡",
+      "onboard_time": 1704694649,
+      "rank": 20,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1666986,
       "num": 1666986,
       "word": "余额低于100元不能提现属霸王条款",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1704291879,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1296178,
+      "num": 431876,
+      "word": "A股大跌",
+      "onboard_time": 1704696629,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1292816,
@@ -2683,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 766687,
+      "num": 766687,
+      "word": "沙特发现世界级金矿",
+      "onboard_time": 1704695489,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 762716,
       "num": 762716,
       "word": "央视曝辽宁3任公安厅长落马细节",
@@ -2865,14 +2889,6 @@
       "onboard_time": 1704158495,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 732941,
-      "num": 732941,
-      "word": "千万网红团队成员约架致一人身亡",
-      "onboard_time": 1704694649,
-      "rank": 20,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 732327,
@@ -5507,11 +5523,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464241,
+      "num": 464241,
+      "word": "3元的饮料终究是错付了",
+      "onboard_time": 1704693509,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 463561,
       "num": 463561,
       "word": "王安宇不吃海产的原因",
       "onboard_time": 1704455131,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 462384,
+      "num": 462384,
+      "word": "黄子佼方辟谣去世传闻",
+      "onboard_time": 1704697710,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -5595,12 +5627,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 455820,
-      "num": 455820,
-      "word": "3元的饮料终究是错付了",
-      "onboard_time": 1704693509,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 455002,
+      "num": 455002,
+      "word": "俄对乌西部等地区发动导弹袭击",
+      "onboard_time": 1704697290,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 454838,
@@ -6540,7 +6572,7 @@
     },
     {
       "raw_hot": 389965,
-      "num": 244286,
+      "num": 274231,
       "word": "分手见人品",
       "onboard_time": 1704694111,
       "rank": 21,
@@ -6755,6 +6787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 376605,
+      "num": 376605,
+      "word": "女子过安检保温杯里藏刀",
+      "onboard_time": 1704696930,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375612,
       "num": 1327482,
       "word": "外卖小哥救人订单超时民警上门帮正名",
@@ -6785,6 +6825,14 @@
       "onboard_time": 1704687336,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 371441,
+      "num": 274322,
+      "word": "00后男孩500元一天出租自己",
+      "onboard_time": 1704696569,
+      "rank": 20,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 371137,
@@ -6857,6 +6905,14 @@
       "onboard_time": 1704540512,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 364953,
+      "num": 364953,
+      "word": "湛江中学老师坠楼系刑事案件",
+      "onboard_time": 1704697470,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364670,
@@ -8235,6 +8291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 289369,
+      "num": 274379,
+      "word": "FindX7发布会",
+      "onboard_time": 1704696329,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 289160,
       "num": 289160,
       "word": "浙江高考",
@@ -8651,6 +8715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276165,
+      "num": 276165,
+      "word": "女子谎称外卖吃出异物200多次被刑拘",
+      "onboard_time": 1704697051,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274602,
       "num": 274602,
       "word": "NewJeans Ditto",
@@ -8665,6 +8737,14 @@
       "onboard_time": 1704112181,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273438,
+      "num": 273438,
+      "word": "乌克兰军方称乌全境拉响防空警报",
+      "onboard_time": 1704697352,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 273222,
@@ -9321,6 +9401,14 @@
       "onboard_time": 1704600990,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253145,
+      "num": 253145,
+      "word": "杨紫李现牵手同框路透",
+      "onboard_time": 1704698190,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 252984,
@@ -13003,6 +13091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180474,
+      "num": 180474,
+      "word": "小凉皮想吃冻梨哈尔滨文旅宠溺回应",
+      "onboard_time": 1704696871,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 180444,
       "num": 180444,
       "word": "猫咪被寄养一个半月",
@@ -13169,6 +13265,14 @@
       "onboard_time": 1704089312,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177550,
+      "num": 177550,
+      "word": "魔兽世界",
+      "onboard_time": 1704696811,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 177547,
@@ -13841,6 +13945,14 @@
       "onboard_time": 1704192154,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169779,
+      "num": 169779,
+      "word": "鄂伦春族小伙送狍角帽现场感动落泪",
+      "onboard_time": 1704695789,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169772,
@@ -15027,6 +15139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152194,
+      "num": 152194,
+      "word": "守望先锋",
+      "onboard_time": 1704697769,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152108,
       "num": 152108,
       "word": "男子被热气球倒吊带飞众人拉回",
@@ -15737,6 +15857,14 @@
       "onboard_time": 1704521671,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144224,
+      "num": 144224,
+      "word": "银行4个窗口只开1个被男子怒怼",
+      "onboard_time": 1704698131,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143998,
@@ -16505,14 +16633,6 @@
       "onboard_time": 1704374915,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134234,
-      "num": 134234,
-      "word": "沙特发现世界级金矿",
-      "onboard_time": 1704695489,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134017,
@@ -17875,6 +17995,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 117201,
+      "num": 117201,
+      "word": "大江大河",
+      "onboard_time": 1704698071,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117192,
       "num": 117192,
       "word": "哈尔滨旅游后劲儿太大",
@@ -17993,6 +18121,14 @@
       "onboard_time": 1704419908,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 114260,
+      "num": 114260,
+      "word": "郑恺名场面再现",
+      "onboard_time": 1704696508,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 114133,
@@ -18161,6 +18297,14 @@
       "onboard_time": 1704282154,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111675,
+      "num": 111675,
+      "word": "郑强称不要责怪年轻人",
+      "onboard_time": 1704696629,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111406,
@@ -18353,6 +18497,14 @@
       "onboard_time": 1704504809,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107730,
+      "num": 107730,
+      "word": "陈星旭女主运",
+      "onboard_time": 1704698190,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 107637,
@@ -18920,14 +19072,6 @@
       "word": "新年第1天打卡热气腾腾的中国",
       "onboard_time": 1704103719,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94489,
-      "num": 94489,
-      "word": "鄂伦春族小伙送狍角帽现场感动落泪",
-      "onboard_time": 1704695789,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
