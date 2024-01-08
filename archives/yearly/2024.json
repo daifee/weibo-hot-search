@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704698236380,
+  "endTime": 1704699245373,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 1683775,
-      "num": 732941,
+      "num": 854357,
       "word": "千万网红团队成员约架致一人身亡",
       "onboard_time": 1704694649,
       "rank": 20,
@@ -1020,7 +1020,7 @@
     },
     {
       "raw_hot": 1296178,
-      "num": 431876,
+      "num": 492511,
       "word": "A股大跌",
       "onboard_time": 1704696629,
       "rank": 10,
@@ -2219,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 858046,
+      "num": 858046,
+      "word": "沙特发现世界级金矿",
+      "onboard_time": 1704695489,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857602,
       "num": 585565,
       "word": "胡歌辛芷蕾繁花吻戏",
@@ -2256,6 +2264,14 @@
       "word": "女子疑未给20万分手费被男友砸死",
       "onboard_time": 1704355772,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 852874,
+      "num": 852874,
+      "word": "湛江中学老师坠楼系刑事案件",
+      "onboard_time": 1704697470,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704284612,
       "rank": 17,
       "category": "社会新闻,剧集"
-    },
-    {
-      "raw_hot": 824701,
-      "num": 824701,
-      "word": "尔滨啊",
-      "onboard_time": 1704442772,
-      "rank": 36,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 824347,
-      "num": 824347,
-      "word": "joker不是小丑 是制胜的王牌",
-      "onboard_time": 1704620491,
-      "rank": 5,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704698236380,
+  "endTime": 1704699245373,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1683775,
-      "num": 732941,
+      "num": 854357,
       "word": "千万网红团队成员约架致一人身亡",
       "onboard_time": 1704694649,
       "rank": 20,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1296178,
-      "num": 431876,
+      "num": 492511,
       "word": "A股大跌",
       "onboard_time": 1704696629,
       "rank": 10,
@@ -139,6 +139,22 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 858046,
+      "num": 858046,
+      "word": "沙特发现世界级金矿",
+      "onboard_time": 1704695489,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 852874,
+      "num": 852874,
+      "word": "湛江中学老师坠楼系刑事案件",
+      "onboard_time": 1704697470,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823243,
       "num": 823243,
       "word": "A先生说辛芷蕾本人很漂亮",
@@ -161,14 +177,6 @@
       "onboard_time": 1704669741,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 766687,
-      "num": 766687,
-      "word": "沙特发现世界级金矿",
-      "onboard_time": 1704695489,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 751347,
@@ -201,6 +209,22 @@
       "onboard_time": 1704689433,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720342,
+      "num": 720342,
+      "word": "黄子佼方辟谣去世传闻",
+      "onboard_time": 1704697710,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 715244,
+      "num": 715244,
+      "word": "杨紫李现牵手同框路透",
+      "onboard_time": 1704698190,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 711067,
@@ -371,12 +395,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 519863,
+      "num": 519863,
+      "word": "俄对乌西部等地区发动导弹袭击",
+      "onboard_time": 1704697290,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 519678,
       "num": 519678,
       "word": "涉事公司回应女高管违法开除员工",
       "onboard_time": 1704669080,
       "rank": 19,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 516145,
+      "num": 516145,
+      "word": "女子过安检保温杯里藏刀",
+      "onboard_time": 1704696930,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502351,
@@ -427,28 +467,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 462384,
-      "num": 462384,
-      "word": "黄子佼方辟谣去世传闻",
-      "onboard_time": 1704697710,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 459596,
       "num": 459596,
       "word": "大冻梨街头走秀小土豆被身高暴击",
       "onboard_time": 1704691113,
       "rank": 27,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 455002,
-      "num": 455002,
-      "word": "俄对乌西部等地区发动导弹袭击",
-      "onboard_time": 1704697290,
-      "rank": 7,
-      "category": "国外时政"
     },
     {
       "raw_hot": 444931,
@@ -531,6 +555,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 385393,
+      "num": 385393,
+      "word": "女子谎称外卖吃出异物200多次被刑拘",
+      "onboard_time": 1704697051,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382940,
       "num": 382940,
       "word": "刘亦菲 唐嫣是最好的汪小姐",
@@ -545,14 +577,6 @@
       "onboard_time": 1704682530,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 376605,
-      "num": 376605,
-      "word": "女子过安检保温杯里藏刀",
-      "onboard_time": 1704696930,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 376379,
@@ -579,20 +603,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 364953,
-      "num": 364953,
-      "word": "湛江中学老师坠楼系刑事案件",
-      "onboard_time": 1704697470,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361418,
       "num": 361418,
       "word": "霉霉绿裙子好闪",
       "onboard_time": 1704682653,
       "rank": 19,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 358428,
+      "num": 358428,
+      "word": "乌克兰军方称乌全境拉响防空警报",
+      "onboard_time": 1704697352,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 358240,
@@ -684,7 +708,7 @@
     },
     {
       "raw_hot": 289369,
-      "num": 274379,
+      "num": 287184,
       "word": "FindX7发布会",
       "onboard_time": 1704696329,
       "rank": 19,
@@ -715,28 +739,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 276165,
-      "num": 276165,
-      "word": "女子谎称外卖吃出异物200多次被刑拘",
-      "onboard_time": 1704697051,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276031,
       "num": 276031,
       "word": "刘诗诗靠张云龙肩膀路透",
       "onboard_time": 1704638616,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273438,
-      "num": 273438,
-      "word": "乌克兰军方称乌全境拉响防空警报",
-      "onboard_time": 1704697352,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 269466,
@@ -811,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253145,
-      "num": 253145,
-      "word": "杨紫李现牵手同框路透",
-      "onboard_time": 1704698190,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 246206,
       "num": 246206,
       "word": "网友英国街头偶遇周杰伦",
@@ -859,11 +859,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232924,
+      "num": 232924,
+      "word": "金在中喊话SuperJunior上节目",
+      "onboard_time": 1704698673,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 227234,
       "num": 227234,
       "word": "爱泼斯坦",
       "onboard_time": 1704634173,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226484,
+      "num": 226484,
+      "word": "银行4个窗口只开1个被男子怒怼",
+      "onboard_time": 1704698131,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -995,6 +1011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200001,
+      "num": 200001,
+      "word": "大江大河",
+      "onboard_time": 1704698071,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199876,
       "num": 199876,
       "word": "AG冠军荣耀氛围感",
@@ -1083,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184206,
+      "num": 184206,
+      "word": "魔兽世界",
+      "onboard_time": 1704696811,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183374,
       "num": 183374,
       "word": "日常抗炎习惯",
@@ -1105,14 +1137,6 @@
       "onboard_time": 1704675333,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 177550,
-      "num": 177550,
-      "word": "魔兽世界",
-      "onboard_time": 1704696811,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 174983,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1704685172,
       "rank": 46,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 166010,
+      "num": 166010,
+      "word": "守望先锋",
+      "onboard_time": 1704697769,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 163928,
@@ -1235,14 +1267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152194,
-      "num": 152194,
-      "word": "守望先锋",
-      "onboard_time": 1704697769,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151643,
       "num": 151643,
       "word": "白客顶级Beta",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1704690155,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 147385,
+      "num": 147385,
+      "word": "就说幼儿园能学到真东西",
+      "onboard_time": 1704698609,
+      "rank": 38,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 146193,
@@ -1299,12 +1331,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 144224,
-      "num": 144224,
-      "word": "银行4个窗口只开1个被男子怒怼",
-      "onboard_time": 1704698131,
+      "raw_hot": 144850,
+      "num": 144850,
+      "word": "日本地震已致168人死亡",
+      "onboard_time": 1704698430,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143046,
+      "num": 143046,
+      "word": "普通话不好容易引起的误会",
+      "onboard_time": 1704698430,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 141564,
@@ -1387,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128876,
+      "num": 128876,
+      "word": "陈星旭女主运",
+      "onboard_time": 1704698190,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128433,
       "num": 128433,
       "word": "萨摩耶把小毛巾藏起来",
@@ -1467,14 +1515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117201,
-      "num": 117201,
-      "word": "大江大河",
-      "onboard_time": 1704698071,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117071,
       "num": 117071,
       "word": "刘恋不做乙方的日常",
@@ -1505,6 +1545,14 @@
       "onboard_time": 1704696508,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112788,
+      "num": 112788,
+      "word": "日本地震323人下落不明",
+      "onboard_time": 1704699211,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111977,
@@ -1545,14 +1593,6 @@
       "onboard_time": 1704678448,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107730,
-      "num": 107730,
-      "word": "陈星旭女主运",
-      "onboard_time": 1704698190,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 105399,

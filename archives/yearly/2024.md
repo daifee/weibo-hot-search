@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/08 15:17:16
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/08 15:34:05
 </p>
 </blockquote>
 <p>
@@ -1677,6 +1677,12 @@ papi酱菱红下线（热度：870941）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%BA%A7%E9%87%91%E7%9F%BF%23" target="weibo">
+沙特发现世界级金矿（热度：858046）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%B9%81%E8%8A%B1%E5%90%BB%E6%88%8F%23" target="weibo">
 胡歌辛芷蕾繁花吻戏（热度：857602）
 </a>
@@ -1703,6 +1709,12 @@ papi酱菱红下线（热度：870941）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%96%91%E6%9C%AA%E7%BB%9920%E4%B8%87%E5%88%86%E6%89%8B%E8%B4%B9%E8%A2%AB%E7%94%B7%E5%8F%8B%E7%A0%B8%E6%AD%BB%23" target="weibo">
 女子疑未给20万分手费被男友砸死（热度：854155）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%9B%E6%B1%9F%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E5%9D%A0%E6%A5%BC%E7%B3%BB%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%23" target="weibo">
+湛江中学老师坠楼系刑事案件（热度：852874）
 </a>
 </li>
 
@@ -1799,18 +1811,6 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231460%E5%85%83%E7%B9%81%E8%8A%B1%E5%8F%8C%E4%BA%BA%E9%A4%90%E6%AF%8F%E5%A4%A9%E9%99%9020%E5%A5%97%23" target="weibo">
 1460元繁花双人餐每天限20套（热度：826343）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E5%95%8A%23" target="weibo">
-尔滨啊（热度：824701）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23joker%E4%B8%8D%E6%98%AF%E5%B0%8F%E4%B8%91%20%E6%98%AF%E5%88%B6%E8%83%9C%E7%9A%84%E7%8E%8B%E7%89%8C%23" target="weibo">
-joker不是小丑 是制胜的王牌（热度：824347）
 </a>
 </li>
 

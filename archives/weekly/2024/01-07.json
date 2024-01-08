@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704698236380,
+  "endTime": 1704699245373,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1683775,
-      "num": 732941,
+      "num": 854357,
       "word": "千万网红团队成员约架致一人身亡",
       "onboard_time": 1704694649,
       "rank": 20,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1296178,
-      "num": 431876,
+      "num": 492511,
       "word": "A股大跌",
       "onboard_time": 1704696629,
       "rank": 10,
@@ -355,12 +355,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 858046,
+      "num": 858046,
+      "word": "沙特发现世界级金矿",
+      "onboard_time": 1704695489,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857602,
       "num": 585565,
       "word": "胡歌辛芷蕾繁花吻戏",
       "onboard_time": 1704631530,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 852874,
+      "num": 852874,
+      "word": "湛江中学老师坠楼系刑事案件",
+      "onboard_time": 1704697470,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 824347,
@@ -435,14 +451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 766687,
-      "num": 766687,
-      "word": "沙特发现世界级金矿",
-      "onboard_time": 1704695489,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 762716,
       "num": 762716,
       "word": "央视曝辽宁3任公安厅长落马细节",
@@ -515,12 +523,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 720342,
+      "num": 720342,
+      "word": "黄子佼方辟谣去世传闻",
+      "onboard_time": 1704697710,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 719982,
       "num": 719982,
       "word": "东北人保密意识真好",
       "onboard_time": 1704617790,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 715244,
+      "num": 715244,
+      "word": "杨紫李现牵手同框路透",
+      "onboard_time": 1704698190,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 711067,
@@ -867,6 +891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 519863,
+      "num": 519863,
+      "word": "俄对乌西部等地区发动导弹袭击",
+      "onboard_time": 1704697290,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 519678,
       "num": 519678,
       "word": "涉事公司回应女高管违法开除员工",
@@ -888,6 +920,14 @@
       "word": "一车白狐即将运往尔滨",
       "onboard_time": 1704612330,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516145,
+      "num": 516145,
+      "word": "女子过安检保温杯里藏刀",
+      "onboard_time": 1704696930,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -995,14 +1035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 462384,
-      "num": 462384,
-      "word": "黄子佼方辟谣去世传闻",
-      "onboard_time": 1704697710,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 462280,
       "num": 462280,
       "word": "尔滨送女生1000克拉冰钻戒",
@@ -1041,14 +1073,6 @@
       "onboard_time": 1704546634,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 455002,
-      "num": 455002,
-      "word": "俄对乌西部等地区发动导弹袭击",
-      "onboard_time": 1704697290,
-      "rank": 7,
-      "category": "国外时政"
     },
     {
       "raw_hot": 454019,
@@ -1299,6 +1323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 385393,
+      "num": 385393,
+      "word": "女子谎称外卖吃出异物200多次被刑拘",
+      "onboard_time": 1704697051,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385236,
       "num": 385236,
       "word": "京东联名卡 抢不到",
@@ -1313,14 +1345,6 @@
       "onboard_time": 1704682530,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 376605,
-      "num": 376605,
-      "word": "女子过安检保温杯里藏刀",
-      "onboard_time": 1704696930,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372051,
@@ -1355,20 +1379,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364953,
-      "num": 364953,
-      "word": "湛江中学老师坠楼系刑事案件",
-      "onboard_time": 1704697470,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361418,
       "num": 361418,
       "word": "霉霉绿裙子好闪",
       "onboard_time": 1704682653,
       "rank": 19,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 358428,
+      "num": 358428,
+      "word": "乌克兰军方称乌全境拉响防空警报",
+      "onboard_time": 1704697352,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 358240,
@@ -1628,7 +1652,7 @@
     },
     {
       "raw_hot": 289369,
-      "num": 274379,
+      "num": 287184,
       "word": "FindX7发布会",
       "onboard_time": 1704696329,
       "rank": 19,
@@ -1697,22 +1721,6 @@
       "onboard_time": 1704612090,
       "rank": 14,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 276165,
-      "num": 276165,
-      "word": "女子谎称外卖吃出异物200多次被刑拘",
-      "onboard_time": 1704697051,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273438,
-      "num": 273438,
-      "word": "乌克兰军方称乌全境拉响防空警报",
-      "onboard_time": 1704697352,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 271138,
@@ -1843,14 +1851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253145,
-      "num": 253145,
-      "word": "杨紫李现牵手同框路透",
-      "onboard_time": 1704698190,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250039,
       "num": 250039,
       "word": "乙流和甲流啥区别",
@@ -1955,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232924,
+      "num": 232924,
+      "word": "金在中喊话SuperJunior上节目",
+      "onboard_time": 1704698673,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 232854,
       "num": 232854,
       "word": "i人的拒绝",
@@ -1969,6 +1977,14 @@
       "onboard_time": 1704621390,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 226484,
+      "num": 226484,
+      "word": "银行4个窗口只开1个被男子怒怼",
+      "onboard_time": 1704698131,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226477,
@@ -2219,6 +2235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200001,
+      "num": 200001,
+      "word": "大江大河",
+      "onboard_time": 1704698071,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199876,
       "num": 199876,
       "word": "AG冠军荣耀氛围感",
@@ -2435,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184206,
+      "num": 184206,
+      "word": "魔兽世界",
+      "onboard_time": 1704696811,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183689,
       "num": 183689,
       "word": "iPhone需求引发担忧",
@@ -2489,14 +2521,6 @@
       "onboard_time": 1704675333,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 177550,
-      "num": 177550,
-      "word": "魔兽世界",
-      "onboard_time": 1704696811,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 176871,
@@ -2697,6 +2721,14 @@
       "onboard_time": 1704639574,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166010,
+      "num": 166010,
+      "word": "守望先锋",
+      "onboard_time": 1704697769,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 165877,
@@ -2971,14 +3003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152194,
-      "num": 152194,
-      "word": "守望先锋",
-      "onboard_time": 1704697769,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 152108,
       "num": 152108,
       "word": "男子被热气球倒吊带飞众人拉回",
@@ -3067,6 +3091,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 147385,
+      "num": 147385,
+      "word": "就说幼儿园能学到真东西",
+      "onboard_time": 1704698609,
+      "rank": 38,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 146193,
       "num": 146193,
       "word": "i人拍照",
@@ -3115,6 +3147,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 144850,
+      "num": 144850,
+      "word": "日本地震已致168人死亡",
+      "onboard_time": 1704698430,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144358,
       "num": 144358,
       "word": "萌兰被窝头粘牙的表情太好笑了",
@@ -3139,12 +3179,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144224,
-      "num": 144224,
-      "word": "银行4个窗口只开1个被男子怒怼",
-      "onboard_time": 1704698131,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 143046,
+      "num": 143046,
+      "word": "普通话不好容易引起的误会",
+      "onboard_time": 1704698430,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 142702,
@@ -3385,6 +3425,14 @@
       "onboard_time": 1704590009,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128876,
+      "num": 128876,
+      "word": "陈星旭女主运",
+      "onboard_time": 1704698190,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 128848,
@@ -3651,14 +3699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117201,
-      "num": 117201,
-      "word": "大江大河",
-      "onboard_time": 1704698071,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117192,
       "num": 117192,
       "word": "哈尔滨旅游后劲儿太大",
@@ -3728,6 +3768,14 @@
       "word": "黑龙江蔓越莓回抱广西砂糖橘",
       "onboard_time": 1704628891,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112788,
+      "num": 112788,
+      "word": "日本地震323人下落不明",
+      "onboard_time": 1704699211,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -3841,14 +3889,6 @@
       "onboard_time": 1704530013,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 107730,
-      "num": 107730,
-      "word": "陈星旭女主运",
-      "onboard_time": 1704698190,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 107619,
