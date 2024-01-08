@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704695033426,
+  "endTime": 1704695828811,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -169,6 +169,14 @@
       "onboard_time": 1704679828,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 732941,
+      "num": 732941,
+      "word": "千万网红团队成员约架致一人身亡",
+      "onboard_time": 1704694649,
+      "rank": 20,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 730174,
@@ -395,12 +403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457470,
-      "num": 457470,
+      "raw_hot": 459596,
+      "num": 459596,
       "word": "大冻梨街头走秀小土豆被身高暴击",
       "onboard_time": 1704691113,
       "rank": 27,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 455820,
+      "num": 455820,
+      "word": "3元的饮料终究是错付了",
+      "onboard_time": 1704693509,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 444931,
@@ -409,6 +425,14 @@
       "onboard_time": 1704684451,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 439862,
+      "num": 439862,
+      "word": "杨紫谭松韵田曦薇唐妆造型",
+      "onboard_time": 1704695071,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 432218,
@@ -427,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 418812,
+      "num": 418812,
+      "word": "小米汽车称没有丐中丐版",
+      "onboard_time": 1704694169,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 414503,
       "num": 414503,
       "word": "首钢辟谣网传女高管违法开除员工",
@@ -441,6 +473,14 @@
       "onboard_time": 1704690993,
       "rank": 25,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 389965,
+      "num": 244286,
+      "word": "分手见人品",
+      "onboard_time": 1704694111,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 389836,
@@ -483,14 +523,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 373267,
-      "num": 246156,
-      "word": "千万网红团队成员约架致一人身亡",
-      "onboard_time": 1704694649,
-      "rank": 20,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 372051,
       "num": 372051,
       "word": "微博之夜第五波官宣阵容",
@@ -505,14 +537,6 @@
       "onboard_time": 1704682653,
       "rank": 19,
       "category": "电影,时尚"
-    },
-    {
-      "raw_hot": 359570,
-      "num": 241307,
-      "word": "分手见人品",
-      "onboard_time": 1704694111,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 358240,
@@ -579,14 +603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302014,
-      "num": 302014,
-      "word": "3元的饮料终究是错付了",
-      "onboard_time": 1704693509,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 301612,
       "num": 281834,
       "word": "恋与深空",
@@ -601,14 +617,6 @@
       "onboard_time": 1704687877,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 292779,
-      "num": 292779,
-      "word": "小米汽车称没有丐中丐版",
-      "onboard_time": 1704694169,
-      "rank": 16,
-      "category": "汽车"
     },
     {
       "raw_hot": 292419,
@@ -819,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207307,
+      "num": 207307,
+      "word": "孩子甲流刚好又中招乙流",
+      "onboard_time": 1704694470,
+      "rank": 40,
+      "category": "健康医疗,母婴育儿"
+    },
+    {
       "raw_hot": 206714,
       "num": 206714,
       "word": "成毅杂志",
@@ -921,6 +937,14 @@
       "onboard_time": 1704683732,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 196236,
+      "num": 196236,
+      "word": "我们的翻译官",
+      "onboard_time": 1704694649,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 196228,
@@ -1051,14 +1075,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 159059,
-      "num": 159059,
-      "word": "我们的翻译官",
-      "onboard_time": 1704694649,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158298,
       "num": 158298,
       "word": "上证指数",
@@ -1163,14 +1179,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 142987,
-      "num": 142987,
-      "word": "孩子甲流刚好又中招乙流",
-      "onboard_time": 1704694470,
-      "rank": 40,
-      "category": "健康医疗,母婴育儿"
-    },
-    {
       "raw_hot": 141564,
       "num": 141564,
       "word": "清澈的爱只为中国壁纸女孩回应",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1704637776,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134234,
+      "num": 134234,
+      "word": "沙特发现世界级金矿",
+      "onboard_time": 1704695489,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133844,
@@ -1331,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117071,
+      "num": 117071,
+      "word": "刘恋不做乙方的日常",
+      "onboard_time": 1704695071,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115204,
       "num": 115204,
       "word": "夏目友人帐 可爱娘口三三",
@@ -1411,12 +1435,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97119,
+      "num": 97119,
+      "word": "哈登表情",
+      "onboard_time": 1704695789,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94796,
       "num": 94796,
       "word": "王俊凯将出席2024巴黎时装周",
       "onboard_time": 1704634053,
       "rank": 37,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 94489,
+      "num": 94489,
+      "word": "鄂伦春族小伙送狍角帽现场感动落泪",
+      "onboard_time": 1704695789,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93856,
