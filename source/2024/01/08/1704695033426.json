@@ -1,0 +1,410 @@
+{
+  "runTime": 1704695033426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2110346,
+        "num": 2110346,
+        "word": "教授建议生个孩子给一居室",
+        "onboard_time": 1704687693,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130294,
+        "num": 1130294,
+        "word": "女子到银行存10万现金被问钱来源",
+        "onboard_time": 1704685052,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56568,
+        "num": 914698,
+        "word": "2024第一周忙碌带来确定性",
+        "onboard_time": 1704685230,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730174,
+        "num": 730174,
+        "word": "送房的话你愿意生孩子吗",
+        "onboard_time": 1704689433,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695589,
+        "num": 695589,
+        "word": "梁朝伟 买3张影票就希望旁边没有人",
+        "onboard_time": 1704693030,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 581353,
+        "num": 581353,
+        "word": "王一博你睡了吗",
+        "onboard_time": 1704692370,
+        "rank": 5,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 552455,
+        "num": 552455,
+        "word": "爱泼斯坦生前掌握特朗普希拉里黑料",
+        "onboard_time": 1704690874,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505401,
+        "num": 505401,
+        "word": "杨幂申请强制侵权商家致歉",
+        "onboard_time": 1704690513,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457470,
+        "num": 457470,
+        "word": "大冻梨街头走秀小土豆被身高暴击",
+        "onboard_time": 1704691113,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 359588,
+        "num": 359588,
+        "word": "广州一中学花近5万买破解Wii",
+        "onboard_time": 1704685352,
+        "rank": 9,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 1146026,
+        "num": 354175,
+        "word": "6人奸淫不满14周岁幼女被判刑",
+        "onboard_time": 1704680789,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342242,
+        "num": 342242,
+        "word": "车厘子每斤便宜60元",
+        "onboard_time": 1704684392,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 313279,
+        "num": 313279,
+        "word": "刘亦菲代言天梭",
+        "onboard_time": 1704692490,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 303210,
+        "num": 303210,
+        "word": "繁花阿宝爷叔闹掰了",
+        "onboard_time": 1704690936,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302014,
+        "num": 302014,
+        "word": "3元的饮料终究是错付了",
+        "onboard_time": 1704693509,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297023,
+        "num": 297023,
+        "word": "辛芷蕾喝多了",
+        "onboard_time": 1704673712,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292779,
+        "num": 292779,
+        "word": "小米汽车称没有丐中丐版",
+        "onboard_time": 1704694169,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 272843,
+        "num": 272843,
+        "word": "杨紫国色芳华造型",
+        "onboard_time": 1704685474,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249954,
+        "num": 249954,
+        "word": "恒大刘永灼被刑拘",
+        "onboard_time": 1704689557,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246832,
+        "num": 246832,
+        "word": "霉霉又双叒世一了",
+        "onboard_time": 1704687393,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 373267,
+        "num": 246156,
+        "word": "千万网红团队成员约架致一人身亡",
+        "onboard_time": 1704694649,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 359570,
+        "num": 241307,
+        "word": "分手见人品",
+        "onboard_time": 1704694111,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298847,
+        "num": 239552,
+        "word": "姐姐结婚后不能一起过年了",
+        "onboard_time": 1704687693,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235428,
+        "num": 235428,
+        "word": "扎克伯格2个月套现30亿",
+        "onboard_time": 1704691712,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 229793,
+        "num": 229793,
+        "word": "为什么看病总要做血常规",
+        "onboard_time": 1704683670,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209415,
+        "num": 209415,
+        "word": "薛冰冰给刘诗诗化的妆",
+        "onboard_time": 1704690993,
+        "rank": 25,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 204359,
+        "num": 204359,
+        "word": "大江大河排面",
+        "onboard_time": 1704694228,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204244,
+        "num": 204244,
+        "word": "日本一核电站震后漏油入海",
+        "onboard_time": 1704686674,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199522,
+        "num": 199522,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1704680789,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191427,
+        "num": 191427,
+        "word": "等国考成绩",
+        "onboard_time": 1704676172,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214574,
+        "num": 191231,
+        "word": "6人奸淫幼女最低被判4年合理吗",
+        "onboard_time": 1704693689,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179814,
+        "num": 179814,
+        "word": "微博之夜第五波官宣阵容",
+        "onboard_time": 1704687336,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164631,
+        "num": 164631,
+        "word": "新型分手方式",
+        "onboard_time": 1704686915,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163928,
+        "num": 163928,
+        "word": "上证报称A股增量资金在路上",
+        "onboard_time": 1704692252,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159059,
+        "num": 159059,
+        "word": "我们的翻译官",
+        "onboard_time": 1704694649,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156202,
+        "num": 156202,
+        "word": "上海唯一一家梦特娇服装店或将闭店",
+        "onboard_time": 1704689136,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153658,
+        "num": 153658,
+        "word": "常怡去世",
+        "onboard_time": 1704685593,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153281,
+        "num": 153281,
+        "word": "繁花至真园原型预订排至半月后",
+        "onboard_time": 1704694470,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148267,
+        "num": 148267,
+        "word": "郑强称60岁退休确实早了一点",
+        "onboard_time": 1704679587,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146193,
+        "num": 146193,
+        "word": "i人拍照",
+        "onboard_time": 1704693689,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142987,
+        "num": 142987,
+        "word": "孩子甲流刚好又中招乙流",
+        "onboard_time": 1704694470,
+        "rank": 40,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 135823,
+        "num": 135823,
+        "word": "劳务市场女性农民工有多难",
+        "onboard_time": 1704693388,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133356,
+        "num": 133356,
+        "word": "长春也开始陌生了",
+        "onboard_time": 1704691470,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 115617,
+        "num": 115617,
+        "word": "保护A股股民合法权益",
+        "onboard_time": 1704684451,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114183,
+        "num": 114183,
+        "word": "第一批小东北虎已抵达桂林",
+        "onboard_time": 1704669140,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 105499,
+        "num": 105499,
+        "word": "霉霉绿裙子好闪",
+        "onboard_time": 1704682653,
+        "rank": 45,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 104150,
+        "num": 104150,
+        "word": "为什么网吧老板不会赶走蹭睡的人",
+        "onboard_time": 1704671666,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104075,
+        "num": 104075,
+        "word": "周总理的笑容总是那么温暖",
+        "onboard_time": 1704691891,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101039,
+        "num": 101039,
+        "word": "小伙裸辞卖预制菜年亏40万后逆袭",
+        "onboard_time": 1704680847,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100031,
+        "num": 100031,
+        "word": "奥本海默赢很大",
+        "onboard_time": 1704687877,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#增强拒腐防变和抵御风险能力#"
+    }
+  }
+}
