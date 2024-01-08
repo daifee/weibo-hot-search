@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704738186032,
+  "endTime": 1704738978942,
   "band_list": [
     {
       "raw_hot": 1082340,
@@ -419,12 +419,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 22161,
-      "num": 24308,
+      "raw_hot": 39020,
+      "num": 29578,
       "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
       "onboard_time": 1704737779,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33185,
+      "num": 33185,
+      "word": "珠帘玉幕剧组给刘宇宁庆生",
+      "onboard_time": 1704738255,
+      "rank": 25,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

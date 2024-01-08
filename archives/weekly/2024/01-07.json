@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704738186032,
+  "endTime": 1704738978942,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -5771,6 +5771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39020,
+      "num": 29578,
+      "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
+      "onboard_time": 1704737779,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38524,
       "num": 38524,
       "word": "SEVENTEEN金唱片专辑大赏",
@@ -5801,6 +5809,14 @@
       "onboard_time": 1704575473,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33185,
+      "num": 33185,
+      "word": "珠帘玉幕剧组给刘宇宁庆生",
+      "onboard_time": 1704738255,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 32763,
@@ -5873,14 +5889,6 @@
       "onboard_time": 1704567436,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22161,
-      "num": 24308,
-      "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
-      "onboard_time": 1704737779,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21061,
