@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704723427777,
+  "endTime": 1704724507589,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1571,8 +1571,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1075899,
-      "num": 1075899,
+      "raw_hot": 1078071,
+      "num": 1078071,
       "word": "6名干部违规聚餐狂饮7瓶白酒致1死",
       "onboard_time": 1704720695,
       "rank": 29,
@@ -1747,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1012295,
+      "num": 1012295,
+      "word": "专家建议羽绒服要手洗",
+      "onboard_time": 1704721834,
+      "rank": 7,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1010509,
       "num": 1010509,
       "word": "2024年确定为中朝友好年",
@@ -1881,6 +1889,14 @@
       "onboard_time": 1704530132,
       "rank": 5,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 979067,
+      "num": 979067,
+      "word": "刘宇宁直播没被认出的原因",
+      "onboard_time": 1704719851,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 975382,
@@ -2105,14 +2121,6 @@
       "onboard_time": 1704167978,
       "rank": 4,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 923029,
-      "num": 923029,
-      "word": "刘宇宁直播没被认出的原因",
-      "onboard_time": 1704719851,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 922842,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704339570,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 844871,
-      "num": 844871,
-      "word": "哈尔滨为什么叫尔滨",
-      "onboard_time": 1704419428,
-      "rank": 3,
-      "category": "旅游"
     }
   ],
   "hotgov_list": [
