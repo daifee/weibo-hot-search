@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704734175211,
+  "endTime": 1704735241570,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -14723,6 +14723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170379,
+      "num": 170379,
+      "word": "苦难就是苦难",
+      "onboard_time": 1704729628,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170346,
       "num": 170346,
       "word": "崔胜澈复工",
@@ -19081,14 +19089,6 @@
       "onboard_time": 1704178173,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118334,
-      "num": 118334,
-      "word": "苦难就是苦难",
-      "onboard_time": 1704729628,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 118326,

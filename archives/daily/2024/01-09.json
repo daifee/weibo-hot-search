@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704734175211,
+  "endTime": 1704735241570,
   "band_list": [
     {
       "raw_hot": 1082340,
@@ -187,6 +187,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 170379,
+      "num": 170379,
+      "word": "苦难就是苦难",
+      "onboard_time": 1704729628,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168774,
       "num": 168774,
       "word": "戏子祭酒 壶鱼辣椒",
@@ -257,14 +265,6 @@
       "onboard_time": 1704728911,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 118334,
-      "num": 118334,
-      "word": "苦难就是苦难",
-      "onboard_time": 1704729628,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 112908,

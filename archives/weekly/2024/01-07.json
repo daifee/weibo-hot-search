@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704734175211,
+  "endTime": 1704735241570,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -3491,6 +3491,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 170379,
+      "num": 170379,
+      "word": "苦难就是苦难",
+      "onboard_time": 1704729628,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169960,
       "num": 169960,
       "word": "两市超4800股下跌",
@@ -4777,14 +4785,6 @@
       "onboard_time": 1704727413,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118334,
-      "num": 118334,
-      "word": "苦难就是苦难",
-      "onboard_time": 1704729628,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 118326,
