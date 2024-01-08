@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704735241570,
+  "endTime": 1704738186032,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -5873,6 +5873,14 @@
       "onboard_time": 1704567436,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 22161,
+      "num": 24308,
+      "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
+      "onboard_time": 1704737779,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21061,
