@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704705520425,
+  "endTime": 1704706472410,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -737,6 +737,14 @@
       "onboard_time": 1704244469,
       "rank": 47,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1477091,
+      "num": 1477091,
+      "word": "林府家规",
+      "onboard_time": 1704703350,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 1464481,
@@ -1809,14 +1817,6 @@
       "onboard_time": 1704163537,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 984118,
-      "num": 984118,
-      "word": "林府家规",
-      "onboard_time": 1704703350,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 982862,

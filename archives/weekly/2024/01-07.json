@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704705520425,
+  "endTime": 1704706472410,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -113,6 +113,14 @@
       "onboard_time": 1704545671,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1477091,
+      "num": 1477091,
+      "word": "林府家规",
+      "onboard_time": 1704703350,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 1367178,
@@ -331,14 +339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 984118,
-      "num": 984118,
-      "word": "林府家规",
-      "onboard_time": 1704703350,
-      "rank": 1,
-      "category": "情感"
-    },
-    {
       "raw_hot": 959210,
       "num": 959210,
       "word": "儿子身陷缅北父亲筹47万欲捞人被司法所劝住",
@@ -537,6 +537,14 @@
       "onboard_time": 1704592650,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 731150,
+      "num": 477979,
+      "word": "不生孩子的下半辈子",
+      "onboard_time": 1704704910,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 730174,
@@ -803,14 +811,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 584827,
-      "num": 473163,
-      "word": "不生孩子的下半辈子",
-      "onboard_time": 1704704910,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 584669,
       "num": 440376,
       "word": "在中央大街摆摊的炸串老板道歉",
@@ -833,6 +833,14 @@
       "onboard_time": 1704685352,
       "rank": 10,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 576774,
+      "num": 576774,
+      "word": "美股遭遇20年来最糟糕开局",
+      "onboard_time": 1704703950,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 573372,
@@ -1131,6 +1139,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 458749,
+      "num": 458749,
+      "word": "官方通报大学生358元雪乡两日游",
+      "onboard_time": 1704705030,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457826,
       "num": 457826,
       "word": "微博之夜第四波官宣阵容",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1704684693,
       "rank": 41,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 428734,
+      "num": 278196,
+      "word": "蔓越莓竟然是在水中采摘的",
+      "onboard_time": 1704705330,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 426478,
@@ -1435,14 +1459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 372140,
-      "num": 372140,
-      "word": "美股遭遇20年来最糟糕开局",
-      "onboard_time": 1704703950,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 372051,
       "num": 372051,
       "word": "微博之夜第五波官宣阵容",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1704601472,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365382,
+      "num": 365382,
+      "word": "ITZY回归",
+      "onboard_time": 1704704849,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 361418,
@@ -1611,14 +1635,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 319647,
-      "num": 319647,
-      "word": "ITZY回归",
-      "onboard_time": 1704704849,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 318539,
       "num": 318539,
       "word": "张杰张靓颖 沉香",
@@ -1747,6 +1763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 293376,
+      "num": 293376,
+      "word": "爷爷 已读乱回",
+      "onboard_time": 1704706172,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 292419,
       "num": 255724,
       "word": "为什么今年羽绒服价格不菲还这么火",
@@ -1803,14 +1827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288405,
-      "num": 259796,
-      "word": "蔓越莓竟然是在水中采摘的",
-      "onboard_time": 1704705330,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 286307,
       "num": 286307,
       "word": "金球奖",
@@ -1849,6 +1865,14 @@
       "onboard_time": 1704612090,
       "rank": 14,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 272288,
+      "num": 272288,
+      "word": "胡锡进总浮亏突破6万元",
+      "onboard_time": 1704705512,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 271591,
@@ -1963,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255490,
+      "num": 255490,
+      "word": "珠帘玉幕",
+      "onboard_time": 1704704610,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254752,
       "num": 254752,
       "word": "周深好像抓到姐姐谈恋爱的弟弟",
@@ -1993,14 +2025,6 @@
       "onboard_time": 1704618872,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 249518,
-      "num": 249518,
-      "word": "珠帘玉幕",
-      "onboard_time": 1704704610,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 248199,
@@ -2035,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245061,
+      "num": 245061,
+      "word": "台湾女生在东北第一次吃冰糖葫芦",
+      "onboard_time": 1704705330,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 244967,
       "num": 244967,
       "word": "上海唯一一家梦特娇服装店或将闭店",
@@ -2049,6 +2081,14 @@
       "onboard_time": 1704630212,
       "rank": 22,
       "category": "作品衍生,美食"
+    },
+    {
+      "raw_hot": 243416,
+      "num": 243416,
+      "word": "博主就文科言论起诉张雪峰案已立案",
+      "onboard_time": 1704705330,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241621,
@@ -2097,14 +2137,6 @@
       "onboard_time": 1704588628,
       "rank": 21,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 233204,
-      "num": 233204,
-      "word": "官方通报大学生358元雪乡两日游",
-      "onboard_time": 1704705030,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233030,
@@ -2331,6 +2363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205070,
+      "num": 205070,
+      "word": "胡锡进称感受到中国股市小散的痛苦",
+      "onboard_time": 1704705868,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 204359,
       "num": 204359,
       "word": "大江大河排面",
@@ -2380,7 +2420,7 @@
     },
     {
       "raw_hot": 200995,
-      "num": 177163,
+      "num": 197737,
       "word": "教资面试成绩查询渠道",
       "onboard_time": 1704704849,
       "rank": 32,
@@ -3299,6 +3339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 147076,
+      "num": 147076,
+      "word": "繁花爷叔离开宝总",
+      "onboard_time": 1704705809,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146193,
       "num": 146193,
       "word": "i人拍照",
@@ -3467,14 +3515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135703,
-      "num": 135703,
-      "word": "台湾女生在东北第一次吃冰糖葫芦",
-      "onboard_time": 1704705330,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 135432,
       "num": 135432,
       "word": "大熊猫莽仔第五个幼崽取名莽灿灿",
@@ -3537,14 +3577,6 @@
       "onboard_time": 1704597870,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133348,
-      "num": 133348,
-      "word": "博主就文科言论起诉张雪峰案已立案",
-      "onboard_time": 1704705330,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133239,
@@ -3835,14 +3867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122798,
-      "num": 122798,
-      "word": "胡锡进总浮亏突破6万元",
-      "onboard_time": 1704705512,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 122702,
       "num": 122702,
       "word": "为什么你比同龄人显老",
@@ -4033,6 +4057,14 @@
       "onboard_time": 1704628891,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112928,
+      "num": 112928,
+      "word": "胡杏儿体验簪花",
+      "onboard_time": 1704706293,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 112568,
@@ -4371,6 +4403,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 98686,
+      "num": 98686,
+      "word": "A股市场震荡收跌",
+      "onboard_time": 1704706409,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97920,
       "num": 97920,
       "word": "小象甚至还薅了点牛毛尝尝",
@@ -4667,6 +4707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57585,
+      "num": 279122,
+      "word": "FindX7价格秒了",
+      "onboard_time": 1704704730,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 54300,
       "num": 54300,
       "word": "英伟达特供芯片在中国遇冷",
@@ -4708,7 +4756,7 @@
     },
     {
       "raw_hot": 43606,
-      "num": 177320,
+      "num": 198386,
       "word": "FindX7卷翻同行Pro版",
       "onboard_time": 1704703591,
       "rank": 30,
@@ -4737,14 +4785,6 @@
       "onboard_time": 1704581595,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39113,
-      "num": 259840,
-      "word": "FindX7价格秒了",
-      "onboard_time": 1704704730,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 38524,
