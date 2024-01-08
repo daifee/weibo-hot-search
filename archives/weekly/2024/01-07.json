@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704712534998,
+  "endTime": 1704713639720,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 946299,
+      "num": 946299,
+      "word": "中国人吃盐过多致死率世界第1",
+      "onboard_time": 1704711270,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 945338,
       "num": 420747,
       "word": "三喜的肠肠",
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786864,
+      "num": 786864,
+      "word": "科举文男主有了脸",
+      "onboard_time": 1704708272,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 782961,
       "num": 782961,
       "word": "胡歌 爆剧玄学",
@@ -497,14 +513,6 @@
       "onboard_time": 1704627091,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 778753,
-      "num": 778753,
-      "word": "科举文男主有了脸",
-      "onboard_time": 1704708272,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 774048,
@@ -875,14 +883,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 574155,
-      "num": 574155,
-      "word": "中国人吃盐过多致死率世界第1",
-      "onboard_time": 1704711270,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 573372,
       "num": 573372,
       "word": "女子过安检保温杯里藏刀",
@@ -913,6 +913,14 @@
       "onboard_time": 1704679347,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 562563,
+      "num": 562563,
+      "word": "吃葡萄柚是一件很私人的事",
+      "onboard_time": 1704712110,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 562397,
@@ -1123,6 +1131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 493432,
+      "num": 493432,
+      "word": "王家卫拍繁花不准辛芷蕾笑",
+      "onboard_time": 1704710669,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 492900,
       "num": 492900,
       "word": "女高管违法开除事件当事人发声",
@@ -1265,14 +1281,6 @@
       "onboard_time": 1704700469,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 446196,
-      "num": 446196,
-      "word": "王家卫拍繁花不准辛芷蕾笑",
-      "onboard_time": 1704710669,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 444931,
@@ -1419,14 +1427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408903,
-      "num": 408903,
-      "word": "吃葡萄柚是一件很私人的事",
-      "onboard_time": 1704712110,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 407138,
       "num": 407138,
       "word": "车银优今天长这样",
@@ -1513,6 +1513,14 @@
       "onboard_time": 1704674733,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387167,
+      "num": 387167,
+      "word": "把和男友的聊天记录可视化",
+      "onboard_time": 1704710313,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 385674,
@@ -1721,14 +1729,6 @@
       "onboard_time": 1704600811,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 315393,
-      "num": 315393,
-      "word": "把和男友的聊天记录可视化",
-      "onboard_time": 1704710313,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 313906,
@@ -2003,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266788,
+      "num": 216674,
+      "word": "29岁抖音员工欲进A股公司董事会",
+      "onboard_time": 1704711690,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 266371,
       "num": 266371,
       "word": "乙游主题曲请奥运歌手",
@@ -2273,6 +2281,14 @@
       "onboard_time": 1704527733,
       "rank": 21,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 226306,
+      "num": 214651,
+      "word": "在哈尔滨2小时冻出水疱",
+      "onboard_time": 1704711631,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 225053,
@@ -2803,14 +2819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 186026,
-      "num": 186026,
-      "word": "29岁抖音员工欲进A股公司董事会",
-      "onboard_time": 1704711690,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 185342,
       "num": 185342,
       "word": "我们的翻译官开播",
@@ -3251,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159376,
+      "num": 153503,
+      "word": "南方小土豆造就大牛股",
+      "onboard_time": 1704712953,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158879,
       "num": 158879,
       "word": "年会不能停",
@@ -3401,6 +3417,14 @@
       "onboard_time": 1704681390,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153538,
+      "num": 153538,
+      "word": "老师已经尽力了 根本捞不动",
+      "onboard_time": 1704712953,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 153281,
@@ -3571,14 +3595,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 145860,
-      "num": 145860,
-      "word": "在哈尔滨2小时冻出水疱",
-      "onboard_time": 1704711631,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 145428,
       "num": 145428,
       "word": "万得回应WIND崩了",
@@ -3705,6 +3721,14 @@
       "onboard_time": 1704550232,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139333,
+      "num": 139333,
+      "word": "一诺铆钉皮衣",
+      "onboard_time": 1704713070,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 138145,
@@ -4299,6 +4323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113928,
+      "num": 113928,
+      "word": "四川居然产鱼子酱",
+      "onboard_time": 1704712469,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 113036,
       "num": 113036,
       "word": "黑龙江蔓越莓回抱广西砂糖橘",
@@ -4619,14 +4651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102216,
-      "num": 102216,
-      "word": "四川居然产鱼子酱",
-      "onboard_time": 1704712469,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 101672,
       "num": 101672,
       "word": "龙茅第三方平台加价3000报价5499",
@@ -4705,6 +4729,14 @@
       "onboard_time": 1704638016,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97288,
+      "num": 97288,
+      "word": "12粒漠河野生小蓝莓出发西双版纳",
+      "onboard_time": 1704713553,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 97222,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/08 19:15:34
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/08 19:33:59
 </p>
 </blockquote>
 <p>
@@ -1515,6 +1515,12 @@ D社 该上班了（热度：998672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E7%9B%90%E8%BF%87%E5%A4%9A%E8%87%B4%E6%AD%BB%E7%8E%87%E4%B8%96%E7%95%8C%E7%AC%AC1%23" target="weibo">
+中国人吃盐过多致死率世界第1（热度：946299）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%A5%BD%E7%A8%B3%23" target="weibo">
 鞠婧祎好稳（热度：946213）
 </a>
@@ -1805,12 +1811,6 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
 难听（热度：835471）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%20%E7%94%B7%E9%A2%91%23" target="weibo">
-杨洋 男频（热度：834623）
 </a>
 </li>
 
