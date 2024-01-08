@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704730994242,
+  "endTime": 1704731997939,
   "band_list": [
     {
       "raw_hot": 1082340,
@@ -43,8 +43,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 496239,
-      "num": 496239,
+      "raw_hot": 497651,
+      "num": 497651,
       "word": "五官越来越耐看的技巧",
       "onboard_time": 1704726574,
       "rank": 4,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200521,
+      "num": 200521,
+      "word": "爷叔给宝总上的最后一课",
+      "onboard_time": 1704725792,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194518,
       "num": 194518,
       "word": "宝总李李将吻未吻",
@@ -139,16 +147,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191762,
-      "num": 185636,
-      "word": "爷叔给宝总上的最后一课",
-      "onboard_time": 1704725792,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 186042,
-      "num": 186042,
+      "raw_hot": 190838,
+      "num": 190838,
       "word": "关晓彤希望王牌尝试新游戏",
       "onboard_time": 1704728252,
       "rank": 16,
@@ -179,20 +179,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 168774,
+      "num": 168774,
+      "word": "戏子祭酒 壶鱼辣椒",
+      "onboard_time": 1704716730,
+      "rank": 23,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 158337,
       "num": 158337,
       "word": "蔡依林 浪5",
       "onboard_time": 1704706709,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155335,
-      "num": 155335,
-      "word": "戏子祭酒 壶鱼辣椒",
-      "onboard_time": 1704716730,
-      "rank": 23,
-      "category": "读书作家"
     },
     {
       "raw_hot": 143513,
@@ -259,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111504,
+      "num": 111504,
+      "word": "年轻人报复性挤爆3.5分餐厅",
+      "onboard_time": 1704731304,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108416,
       "num": 128373,
       "word": "夺命建筑因层层糊弄漏网终致54人死亡",
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94809,
+      "num": 94809,
+      "word": "苦难就是苦难",
+      "onboard_time": 1704729628,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93767,
       "num": 93767,
       "word": "南北方牛奶居然还不一样",
@@ -307,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91718,
+      "num": 91718,
+      "word": "爷爷 已读乱回",
+      "onboard_time": 1704706172,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91021,
       "num": 91021,
       "word": "哈尔滨工匠被请去韩国做冰雕",
@@ -321,22 +345,6 @@
       "onboard_time": 1704725375,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 88439,
-      "num": 88439,
-      "word": "爷爷 已读乱回",
-      "onboard_time": 1704706172,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 84334,
-      "num": 84334,
-      "word": "苦难就是苦难",
-      "onboard_time": 1704729628,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 84034,
@@ -401,11 +409,22 @@
       "onboard_time": 1704721595,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41401,
+      "num": 67179,
+      "word": "大鹏回应新电影豆瓣8.2分",
+      "onboard_time": 1704722613,
+      "rank": 49,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
     {
       "word": "#二十届中央纪委三次全会召开#"
+    },
+    {
+      "word": "#增强拒腐防变和抵御风险能力#"
     }
   ]
 }
