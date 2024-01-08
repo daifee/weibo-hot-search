@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704738978942,
+  "endTime": 1704741293745,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -19707,6 +19707,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 107865,
+      "num": 40245,
+      "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
+      "onboard_time": 1704737779,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107752,
       "num": 107752,
       "word": "宋亚轩不经意间又爆梗了",
@@ -21515,14 +21523,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 39020,
-      "num": 29578,
-      "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
-      "onboard_time": 1704737779,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38909,
       "num": 1167350,
       "word": "天宫机械臂视角看治愈系地球",
@@ -21561,6 +21561,14 @@
       "onboard_time": 1704038452,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37759,
+      "num": 37759,
+      "word": "珠帘玉幕剧组给刘宇宁庆生",
+      "onboard_time": 1704738255,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 36477,
@@ -21633,14 +21641,6 @@
       "onboard_time": 1704496459,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 33185,
-      "num": 33185,
-      "word": "珠帘玉幕剧组给刘宇宁庆生",
-      "onboard_time": 1704738255,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 33149,
@@ -21843,6 +21843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20650,
+      "num": 20650,
+      "word": "女儿刚生爸妈坐高铁送2万6卖炸串钱",
+      "onboard_time": 1704740475,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20332,
       "num": 20332,
       "word": "ITZY新歌MV公开",
@@ -21969,6 +21977,14 @@
       "onboard_time": 1704394576,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 14035,
+      "num": 14843,
+      "word": "烘手手的小猫太可爱了",
+      "onboard_time": 1704740534,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 13454,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704738978942,
+  "endTime": 1704741293745,
   "band_list": [
     {
       "raw_hot": 1082340,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107865,
+      "num": 40245,
+      "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
+      "onboard_time": 1704737779,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103492,
       "num": 103492,
       "word": "2024天秤座内耗退散",
@@ -419,20 +427,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 39020,
-      "num": 29578,
-      "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
-      "onboard_time": 1704737779,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33185,
-      "num": 33185,
+      "raw_hot": 37759,
+      "num": 37759,
       "word": "珠帘玉幕剧组给刘宇宁庆生",
       "onboard_time": 1704738255,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20650,
+      "num": 20650,
+      "word": "女儿刚生爸妈坐高铁送2万6卖炸串钱",
+      "onboard_time": 1704740475,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14035,
+      "num": 14843,
+      "word": "烘手手的小猫太可爱了",
+      "onboard_time": 1704740534,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704738978942,
+  "endTime": 1704741293745,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -5067,6 +5067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 107865,
+      "num": 40245,
+      "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
+      "onboard_time": 1704737779,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107619,
       "num": 107619,
       "word": "小伙和妈妈久别重逢没被认出",
@@ -5771,20 +5779,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39020,
-      "num": 29578,
-      "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
-      "onboard_time": 1704737779,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38524,
       "num": 38524,
       "word": "SEVENTEEN金唱片专辑大赏",
       "onboard_time": 1704583880,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 37759,
+      "num": 37759,
+      "word": "珠帘玉幕剧组给刘宇宁庆生",
+      "onboard_time": 1704738255,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 36465,
@@ -5809,14 +5817,6 @@
       "onboard_time": 1704575473,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33185,
-      "num": 33185,
-      "word": "珠帘玉幕剧组给刘宇宁庆生",
-      "onboard_time": 1704738255,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 32763,
@@ -5907,6 +5907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20650,
+      "num": 20650,
+      "word": "女儿刚生爸妈坐高铁送2万6卖炸串钱",
+      "onboard_time": 1704740475,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17356,
       "num": 17356,
       "word": "东北菜的真神是哈尔滨盒饭",
@@ -5921,6 +5929,14 @@
       "onboard_time": 1704639155,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14035,
+      "num": 14843,
+      "word": "烘手手的小猫太可爱了",
+      "onboard_time": 1704740534,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 8646,
