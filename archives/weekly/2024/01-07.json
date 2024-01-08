@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704691067238,
+  "endTime": 1704692044420,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -17,6 +17,14 @@
       "onboard_time": 1704624691,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2453920,
+      "num": 2453920,
+      "word": "教授建议生个孩子给一居室",
+      "onboard_time": 1704687693,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2201623,
@@ -41,14 +49,6 @@
       "onboard_time": 1704616348,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1955462,
-      "num": 1955462,
-      "word": "教授建议生个孩子给一居室",
-      "onboard_time": 1704687693,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1833494,
@@ -491,12 +491,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 711067,
+      "num": 711067,
+      "word": "爱泼斯坦生前掌握特朗普希拉里黑料",
+      "onboard_time": 1704690874,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 706715,
       "num": 706715,
       "word": "胖东来你装个红绿灯吧",
       "onboard_time": 1704639756,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 705429,
+      "num": 705429,
+      "word": "杨幂申请强制侵权商家致歉",
+      "onboard_time": 1704690513,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 702844,
@@ -771,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 532509,
+      "num": 532509,
+      "word": "霉霉又双叒世一了",
+      "onboard_time": 1704687393,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 530927,
       "num": 530927,
       "word": "香菜泡面",
@@ -859,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494458,
-      "num": 494458,
-      "word": "霉霉又双叒世一了",
-      "onboard_time": 1704687393,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 493432,
       "num": 493432,
       "word": "陈丽华 女首富的格局",
@@ -897,6 +913,14 @@
       "onboard_time": 1704676172,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 478602,
+      "num": 478602,
+      "word": "送房的话你愿意生孩子吗",
+      "onboard_time": 1704689433,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473322,
@@ -1075,6 +1099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 410955,
+      "num": 410955,
+      "word": "薛冰冰给刘诗诗化的妆",
+      "onboard_time": 1704690993,
+      "rank": 25,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 410175,
       "num": 410175,
       "word": "李楷灿病休",
@@ -1163,14 +1195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386734,
-      "num": 386734,
-      "word": "送房的话你愿意生孩子吗",
-      "onboard_time": 1704689433,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 385674,
       "num": 385674,
       "word": "做哈工大的学生也太幸福了",
@@ -1193,14 +1217,6 @@
       "onboard_time": 1704682530,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 378491,
-      "num": 378491,
-      "word": "杨幂申请强制侵权商家致歉",
-      "onboard_time": 1704690513,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 372051,
@@ -1539,6 +1555,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 272538,
+      "num": 272538,
+      "word": "繁花阿宝爷叔闹掰了",
+      "onboard_time": 1704690936,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271138,
       "num": 271138,
       "word": "猪八戒的钉耙上有张小猪脸",
@@ -1553,6 +1577,14 @@
       "onboard_time": 1704589831,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266371,
+      "num": 266371,
+      "word": "乙游主题曲请奥运歌手",
+      "onboard_time": 1704691113,
+      "rank": 24,
+      "category": "游戏,音乐"
     },
     {
       "raw_hot": 264961,
@@ -1601,14 +1633,6 @@
       "onboard_time": 1704686135,
       "rank": 25,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 258730,
-      "num": 258730,
-      "word": "薛冰冰给刘诗诗化的妆",
-      "onboard_time": 1704690993,
-      "rank": 25,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 256848,
@@ -1681,6 +1705,14 @@
       "onboard_time": 1704601231,
       "rank": 29,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 246982,
+      "num": 246982,
+      "word": "大冻梨街头走秀小土豆被身高暴击",
+      "onboard_time": 1704691113,
+      "rank": 27,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 246905,
@@ -2091,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195495,
+      "num": 195495,
+      "word": "扎克伯格2个月套现30亿",
+      "onboard_time": 1704691712,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 194839,
       "num": 194839,
       "word": "靠申论逆风翻盘",
@@ -2315,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173661,
-      "num": 173661,
-      "word": "爱泼斯坦生前掌握特朗普希拉里黑料",
-      "onboard_time": 1704690874,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173624,
       "num": 173624,
       "word": "为啥看中医最好早上去",
@@ -2345,6 +2377,14 @@
       "onboard_time": 1704628292,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173107,
+      "num": 173107,
+      "word": "长春也开始陌生了",
+      "onboard_time": 1704691470,
+      "rank": 37,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 173078,
@@ -2512,14 +2552,6 @@
       "word": "导演回应繁花里的上海过度繁华争议",
       "onboard_time": 1704613469,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 160509,
-      "num": 160509,
-      "word": "繁花阿宝爷叔闹掰了",
-      "onboard_time": 1704690936,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -2755,6 +2787,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 151643,
+      "num": 151643,
+      "word": "白客顶级Beta",
+      "onboard_time": 1704691353,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150670,
       "num": 150670,
       "word": "东北菜为什么分量这么足",
@@ -2769,6 +2809,14 @@
       "onboard_time": 1704600570,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 149630,
+      "num": 149630,
+      "word": "周总理的笑容总是那么温暖",
+      "onboard_time": 1704691891,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149150,
@@ -3033,6 +3081,14 @@
       "onboard_time": 1704629075,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130679,
+      "num": 130679,
+      "word": "詹姆斯25分",
+      "onboard_time": 1704692011,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130491,
@@ -4092,7 +4148,7 @@
     },
     {
       "raw_hot": 31679,
-      "num": 211733,
+      "num": 289823,
       "word": "国产手机屏幕有多硬核",
       "onboard_time": 1704690394,
       "rank": 33,
