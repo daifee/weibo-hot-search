@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704742445877,
+  "endTime": 1704745162872,
   "band_list": [
     {
       "raw_hot": 1082340,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58265,
+      "num": 58265,
+      "word": "女儿刚生爸妈坐高铁送2万6卖炸串钱",
+      "onboard_time": 1704740475,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57932,
       "num": 80062,
       "word": "郑恺打卡排骨年糕",
@@ -435,20 +443,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 33161,
-      "num": 33161,
-      "word": "女儿刚生爸妈坐高铁送2万6卖炸串钱",
-      "onboard_time": 1704740475,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14035,
       "num": 14843,
       "word": "烘手手的小猫太可爱了",
       "onboard_time": 1704740534,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13786,
+      "num": 13786,
+      "word": "鸡蛋这么做太费米饭了",
+      "onboard_time": 1704742334,
+      "rank": 36,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
