@@ -1,7 +1,15 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704681723053,
+  "endTime": 1704683958649,
   "band_list": [
+    {
+      "raw_hot": 2901927,
+      "num": 2901927,
+      "word": "6人奸淫不满14周岁幼女被判刑",
+      "onboard_time": 1704680789,
+      "rank": 30,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1594101,
       "num": 1594101,
@@ -9,14 +17,6 @@
       "onboard_time": 1704669624,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1278837,
-      "num": 177573,
-      "word": "6人奸淫不满14周岁幼女被判刑",
-      "onboard_time": 1704680789,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1265933,
@@ -57,6 +57,30 @@
       "onboard_time": 1704677908,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1018456,
+      "num": 1018456,
+      "word": "郑强称60岁退休确实早了一点",
+      "onboard_time": 1704679587,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928550,
+      "num": 928550,
+      "word": "小伙裸辞卖预制菜年亏40万后逆袭",
+      "onboard_time": 1704680847,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 902403,
+      "num": 902403,
+      "word": "深圳欢乐谷过山车事故9人被追责问责",
+      "onboard_time": 1704680847,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 881279,
@@ -107,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 726802,
-      "num": 726802,
-      "word": "深圳欢乐谷过山车事故9人被追责问责",
-      "onboard_time": 1704680847,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 738337,
+      "num": 738337,
+      "word": "华莱士送10万份套餐",
+      "onboard_time": 1704679828,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 706715,
@@ -155,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 617118,
-      "num": 617118,
-      "word": "华莱士送10万份套餐",
-      "onboard_time": 1704679828,
-      "rank": 7,
-      "category": "美食"
-    },
-    {
       "raw_hot": 612293,
       "num": 457867,
       "word": "美国爱泼斯坦名单一窥",
@@ -179,12 +195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 604283,
-      "num": 604283,
-      "word": "郑强称60岁退休确实早了一点",
-      "onboard_time": 1704679587,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 568549,
+      "num": 568549,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1704680789,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 564813,
@@ -283,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382535,
+      "num": 382535,
+      "word": "EXO今后活动方向",
+      "onboard_time": 1704682530,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 376379,
       "num": 376379,
       "word": "华图 敢耍老子",
@@ -297,14 +321,6 @@
       "onboard_time": 1704670945,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 348362,
-      "num": 348362,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1704680789,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 321496,
@@ -323,14 +339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 311250,
-      "num": 311250,
-      "word": "小伙裸辞卖预制菜年亏40万后逆袭",
-      "onboard_time": 1704680847,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306545,
       "num": 306545,
       "word": "小熊猫小折耳根来尔滨了",
@@ -339,12 +347,36 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 292419,
+      "num": 184666,
+      "word": "为什么今年羽绒服价格不菲还这么火",
+      "onboard_time": 1704682050,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 289014,
       "num": 289014,
       "word": "睿宝被爱宝凶了",
       "onboard_time": 1704673712,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 288694,
+      "num": 288694,
+      "word": "猫猫没有骨头的铁证",
+      "onboard_time": 1704681930,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 286307,
+      "num": 286307,
+      "word": "金球奖",
+      "onboard_time": 1704677787,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 279858,
@@ -379,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260557,
+      "num": 260557,
+      "word": "霉霉绿裙子好闪",
+      "onboard_time": 1704682653,
+      "rank": 19,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 259316,
       "num": 214173,
       "word": "心疼爷叔",
@@ -411,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234529,
-      "num": 234529,
-      "word": "金球奖",
-      "onboard_time": 1704677787,
-      "rank": 46,
-      "category": "电影"
+      "raw_hot": 240580,
+      "num": 240580,
+      "word": "ZICO和华莎第一个Any Song Challenge",
+      "onboard_time": 1704682771,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 233642,
@@ -441,6 +481,14 @@
       "onboard_time": 1704669321,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 213820,
+      "num": 213820,
+      "word": "颈椎最喜欢的三个动作",
+      "onboard_time": 1704681269,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 205137,
@@ -491,12 +539,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 196228,
+      "num": 196228,
+      "word": "各省网友欢迎台湾小当归游玩",
+      "onboard_time": 1704682171,
+      "rank": 26,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 196017,
       "num": 196017,
       "word": "尼欧克斯道歉",
       "onboard_time": 1704680789,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194287,
+      "num": 194287,
+      "word": "诺兰金球奖最佳导演",
+      "onboard_time": 1704682530,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 193553,
+      "num": 193553,
+      "word": "王小明经期减肥法",
+      "onboard_time": 1704682050,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 183374,
@@ -513,6 +585,14 @@
       "onboard_time": 1704675333,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176634,
+      "num": 176634,
+      "word": "山东高考听力",
+      "onboard_time": 1704683732,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 174983,
@@ -555,20 +635,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 156206,
+      "num": 156206,
+      "word": "731部队罪证陈列馆外志愿者送玉米糊",
+      "onboard_time": 1704681570,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154834,
       "num": 154834,
       "word": "沈春阳想见朱一龙",
       "onboard_time": 1704639336,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151090,
-      "num": 151090,
-      "word": "颈椎最喜欢的三个动作",
-      "onboard_time": 1704681269,
-      "rank": 32,
-      "category": "运动健身"
     },
     {
       "raw_hot": 145561,
@@ -585,6 +665,14 @@
       "onboard_time": 1704679648,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142333,
+      "num": 142333,
+      "word": "为什么看病总要做血常规",
+      "onboard_time": 1704683670,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141564,
@@ -619,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135037,
+      "num": 135037,
+      "word": "巴黎奥运会倒计时200天",
+      "onboard_time": 1704681570,
+      "rank": 46,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 134908,
       "num": 134908,
       "word": "亲人的职业决定了你的副业",
@@ -641,6 +737,30 @@
       "onboard_time": 1704676887,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128433,
+      "num": 128433,
+      "word": "萨摩耶把小毛巾藏起来",
+      "onboard_time": 1704683250,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 128430,
+      "num": 128430,
+      "word": "哈尔滨为什么能卷赢",
+      "onboard_time": 1704683491,
+      "rank": 42,
+      "category": "社会议题,旅游"
+    },
+    {
+      "raw_hot": 126270,
+      "num": 126270,
+      "word": "甄嬛也逃不过表演节目",
+      "onboard_time": 1704682530,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 125382,
@@ -699,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116731,
-      "num": 116731,
-      "word": "731部队罪证陈列馆外志愿者送玉米糊",
-      "onboard_time": 1704681570,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115204,
       "num": 115204,
       "word": "夏目友人帐 可爱娘口三三",
@@ -737,14 +849,6 @@
       "onboard_time": 1704677369,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 110281,
-      "num": 110281,
-      "word": "巴黎奥运会倒计时200天",
-      "onboard_time": 1704681570,
-      "rank": 46,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 110003,

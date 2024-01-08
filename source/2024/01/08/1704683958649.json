@@ -1,0 +1,410 @@
+{
+  "runTime": 1704683958649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2901927,
+        "num": 2901927,
+        "word": "6人奸淫不满14周岁幼女被判刑",
+        "onboard_time": 1704680789,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018456,
+        "num": 1018456,
+        "word": "郑强称60岁退休确实早了一点",
+        "onboard_time": 1704679587,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21418,
+        "num": 969508,
+        "word": "中国在极地布放首个生态潜标",
+        "onboard_time": 1704634470,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 928550,
+        "num": 928550,
+        "word": "小伙裸辞卖预制菜年亏40万后逆袭",
+        "onboard_time": 1704680847,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902403,
+        "num": 902403,
+        "word": "深圳欢乐谷过山车事故9人被追责问责",
+        "onboard_time": 1704680847,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828927,
+        "num": 828927,
+        "word": "辛芷蕾喝多了",
+        "onboard_time": 1704673712,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 738337,
+        "num": 738337,
+        "word": "华莱士送10万份套餐",
+        "onboard_time": 1704679828,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 686765,
+        "num": 686765,
+        "word": "岳云鹏曾被30人围观洗澡",
+        "onboard_time": 1704677908,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594187,
+        "num": 594187,
+        "word": "为什么网吧老板不会赶走蹭睡的人",
+        "onboard_time": 1704671666,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 568549,
+        "num": 568549,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1704680789,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 412926,
+        "num": 412926,
+        "word": "美国爱泼斯坦名单一窥",
+        "onboard_time": 1704676710,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384349,
+        "num": 384349,
+        "word": "等国考成绩",
+        "onboard_time": 1704676172,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 382535,
+        "num": 382535,
+        "word": "EXO今后活动方向",
+        "onboard_time": 1704682530,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 358852,
+        "num": 358852,
+        "word": "马斯克回应吸毒",
+        "onboard_time": 1704672148,
+        "rank": 13,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 335354,
+        "num": 335354,
+        "word": "第一批小东北虎已抵达桂林",
+        "onboard_time": 1704669140,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 288694,
+        "num": 288694,
+        "word": "猫猫没有骨头的铁证",
+        "onboard_time": 1704681930,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286307,
+        "num": 286307,
+        "word": "金球奖",
+        "onboard_time": 1704677787,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281638,
+        "num": 281638,
+        "word": "深圳欢乐谷过山车碰撞事故调查报告公布",
+        "onboard_time": 1704679708,
+        "rank": 17,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 271322,
+        "num": 271322,
+        "word": "胡歌 爆剧玄学",
+        "onboard_time": 1704669741,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260557,
+        "num": 260557,
+        "word": "霉霉绿裙子好闪",
+        "onboard_time": 1704682653,
+        "rank": 19,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 268842,
+        "num": 260209,
+        "word": "卖房后重回出租屋的人现在怎样了",
+        "onboard_time": 1704679888,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 246152,
+        "num": 246152,
+        "word": "我爸退出了家人群",
+        "onboard_time": 1704637175,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240580,
+        "num": 240580,
+        "word": "ZICO和华莎第一个Any Song Challenge",
+        "onboard_time": 1704682771,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233856,
+        "num": 233856,
+        "word": "日本地震已致161人死亡",
+        "onboard_time": 1704679347,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 213820,
+        "num": 213820,
+        "word": "颈椎最喜欢的三个动作",
+        "onboard_time": 1704681269,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 209396,
+        "num": 209396,
+        "word": "警犬父母生下幼犬取名110",
+        "onboard_time": 1704674733,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196228,
+        "num": 196228,
+        "word": "各省网友欢迎台湾小当归游玩",
+        "onboard_time": 1704682171,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 194287,
+        "num": 194287,
+        "word": "诺兰金球奖最佳导演",
+        "onboard_time": 1704682530,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193553,
+        "num": 193553,
+        "word": "王小明经期减肥法",
+        "onboard_time": 1704682050,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 189865,
+        "num": 189865,
+        "word": "A先生说辛芷蕾本人很漂亮",
+        "onboard_time": 1704637355,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 647696,
+        "num": 186898,
+        "word": "A股",
+        "onboard_time": 1704678750,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 292419,
+        "num": 184666,
+        "word": "为什么今年羽绒服价格不菲还这么火",
+        "onboard_time": 1704682050,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 176634,
+        "num": 176634,
+        "word": "山东高考听力",
+        "onboard_time": 1704683732,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156206,
+        "num": 156206,
+        "word": "731部队罪证陈列馆外志愿者送玉米糊",
+        "onboard_time": 1704681570,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154002,
+        "num": 154002,
+        "word": "我国破获一起英国秘密情报局间谍案",
+        "onboard_time": 1704669624,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150547,
+        "num": 150547,
+        "word": "2024金球奖获奖名单",
+        "onboard_time": 1704679287,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150146,
+        "num": 150146,
+        "word": "复旦流浪博士已与家乡取得联系",
+        "onboard_time": 1704643350,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150051,
+        "num": 150051,
+        "word": "曝姆巴佩加盟皇马达协议",
+        "onboard_time": 1704680487,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145372,
+        "num": 145372,
+        "word": "小熊猫小折耳根来尔滨了",
+        "onboard_time": 1704675812,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 142333,
+        "num": 142333,
+        "word": "为什么看病总要做血常规",
+        "onboard_time": 1704683670,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135037,
+        "num": 135037,
+        "word": "巴黎奥运会倒计时200天",
+        "onboard_time": 1704681570,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 128433,
+        "num": 128433,
+        "word": "萨摩耶把小毛巾藏起来",
+        "onboard_time": 1704683250,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128430,
+        "num": 128430,
+        "word": "哈尔滨为什么能卷赢",
+        "onboard_time": 1704683491,
+        "rank": 42,
+        "category": "社会议题,旅游"
+      },
+      {
+        "raw_hot": 127310,
+        "num": 127310,
+        "word": "傅菁接到粉丝爸爸电话的反应",
+        "onboard_time": 1704672330,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126270,
+        "num": 126270,
+        "word": "甄嬛也逃不过表演节目",
+        "onboard_time": 1704682530,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116375,
+        "num": 116375,
+        "word": "身上这6个部位无须过度清洁",
+        "onboard_time": 1704669321,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115753,
+        "num": 115753,
+        "word": "尼欧克斯道歉",
+        "onboard_time": 1704680789,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113582,
+        "num": 113582,
+        "word": "上证指数",
+        "onboard_time": 1704680188,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109551,
+        "num": 109551,
+        "word": "京东联名卡",
+        "onboard_time": 1704681210,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106824,
+        "num": 106824,
+        "word": "做哈工大的学生也太幸福了",
+        "onboard_time": 1704675812,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#正风反腐永远吹冲锋号#"
+    }
+  }
+}
