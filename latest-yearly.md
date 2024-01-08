@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/09 07:18:25
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/09 07:34:13
 </p>
 </blockquote>
 <p>
@@ -1311,6 +1311,12 @@ A先生李李恋情（热度：1095743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A4%90%E5%8E%85%23" target="weibo">
+年轻人报复性挤爆3.5分餐厅（热度：1026737）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E9%80%80%E5%87%BA%E4%BA%86%E5%AE%B6%E4%BA%BA%E7%BE%A4%23" target="weibo">
 我爸退出了家人群（热度：1025825）
 </a>
@@ -1677,12 +1683,6 @@ B站2023百大UP主（热度：927768）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A4%90%E5%8E%85%23" target="weibo">
-年轻人报复性挤爆3.5分餐厅（热度：895326）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%85%83%E6%97%A63%E5%A4%A9%E6%97%85%E6%B8%B8%E6%80%BB%E6%94%B6%E5%85%A559.14%E4%BA%BF%23" target="weibo">
 哈尔滨元旦3天旅游总收入59.14亿（热度：889026）
 </a>
@@ -1697,6 +1697,12 @@ B站2023百大UP主（热度：927768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%B8%8E%E7%B4%A0%E4%BA%BA%E5%90%88%E5%BD%B1%23" target="weibo">
 赵丽颖辛芷蕾与素人合影（热度：887551）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%9D%E8%82%AF%E9%B2%8D%E5%B0%94%E5%8E%BB%E4%B8%96%23" target="weibo">
+贝肯鲍尔去世（热度：882435）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ papi酱菱红下线（热度：870941）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TVB%E5%89%8D%E4%B8%BB%E6%92%AD%E6%9F%B3%E4%BF%8A%E6%B1%9F%E5%9B%A0%E5%B1%8B%E5%86%85%E7%83%A7%E7%82%AD%E8%BA%AB%E4%BA%A1%23" target="weibo">
 TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%93%88%E5%B0%94%E6%BB%A8%E6%94%BE%E5%BC%80%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E6%94%BE%E7%83%9F%E8%8A%B1%23" target="weibo">
-警方辟谣哈尔滨放开南方小土豆放烟花（热度：851659）
 </a>
 </li>
 

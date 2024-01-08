@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704755905796,
+  "endTime": 1704756853570,
   "band_list": [
     {
       "raw_hot": 1082340,
@@ -8,6 +8,14 @@
       "word": "萝莉岛",
       "onboard_time": 1704725911,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1026737,
+      "num": 1026737,
+      "word": "年轻人报复性挤爆3.5分餐厅",
+      "onboard_time": 1704731304,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -19,12 +27,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 895326,
-      "num": 895326,
-      "word": "年轻人报复性挤爆3.5分餐厅",
-      "onboard_time": 1704731304,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 882435,
+      "num": 882435,
+      "word": "贝肯鲍尔去世",
+      "onboard_time": 1704755179,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 807736,
@@ -51,28 +59,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 497651,
-      "num": 497651,
-      "word": "五官越来越耐看的技巧",
-      "onboard_time": 1704726574,
-      "rank": 4,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 445011,
-      "num": 445011,
+      "raw_hot": 529549,
+      "num": 529549,
       "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
       "onboard_time": 1704737779,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428559,
-      "num": 428559,
-      "word": "贝肯鲍尔去世",
-      "onboard_time": 1704755179,
-      "rank": 3,
-      "category": "体育"
+      "raw_hot": 501773,
+      "num": 501773,
+      "word": "被开除当事人称公司全用盗版软件",
+      "onboard_time": 1704753498,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497651,
+      "num": 497651,
+      "word": "五官越来越耐看的技巧",
+      "onboard_time": 1704726574,
+      "rank": 4,
+      "category": "美妆"
     },
     {
       "raw_hot": 407605,
@@ -99,11 +107,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 334709,
-      "num": 334709,
-      "word": "被开除当事人称公司全用盗版软件",
-      "onboard_time": 1704753498,
-      "rank": 4,
+      "raw_hot": 336919,
+      "num": 336919,
+      "word": "人间清醒是李湘",
+      "onboard_time": 1704724954,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 333782,
+      "num": 128245,
+      "word": "女子称波司登羽绒服剪开全是碎末",
+      "onboard_time": 1704717929,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -115,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282158,
-      "num": 282158,
-      "word": "人间清醒是李湘",
-      "onboard_time": 1704724954,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 278726,
       "num": 278726,
       "word": "吃葡萄柚是一件很私人的事",
@@ -131,12 +139,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 268921,
-      "num": 128245,
-      "word": "女子称波司登羽绒服剪开全是碎末",
-      "onboard_time": 1704717929,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 274891,
+      "num": 229140,
+      "word": "景甜短发",
+      "onboard_time": 1704755060,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 264345,
@@ -163,6 +171,30 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 251693,
+      "num": 251693,
+      "word": "唐嫣过去的三年都是汪小姐",
+      "onboard_time": 1704746474,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 230657,
+      "num": 230657,
+      "word": "夺命建筑因层层糊弄漏网终致54人死亡",
+      "onboard_time": 1704723515,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228309,
+      "num": 228309,
+      "word": "平平无奇女主 懒傻馋呆男主",
+      "onboard_time": 1704754999,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224777,
       "num": 224777,
       "word": "国考成绩 不出就睡了",
@@ -179,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206150,
-      "num": 206150,
-      "word": "唐嫣过去的三年都是汪小姐",
-      "onboard_time": 1704746474,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200521,
       "num": 200521,
       "word": "爷叔给宝总上的最后一课",
@@ -201,14 +225,6 @@
       "onboard_time": 1704721473,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192871,
-      "num": 192871,
-      "word": "夺命建筑因层层糊弄漏网终致54人死亡",
-      "onboard_time": 1704723515,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190838,
@@ -275,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138424,
-      "num": 138424,
-      "word": "平平无奇女主 懒傻馋呆男主",
-      "onboard_time": 1704754999,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136222,
       "num": 136222,
       "word": "恋爱三个月定律",
@@ -323,20 +331,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 118092,
-      "num": 118092,
-      "word": "景甜短发",
-      "onboard_time": 1704755060,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 112908,
       "num": 112908,
       "word": "妈妈才最适合考公",
       "onboard_time": 1704724714,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104936,
+      "num": 93563,
+      "word": "看到了男友和他妈妈的聊天记录",
+      "onboard_time": 1704756685,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 104532,
+      "num": 93159,
+      "word": "董子健说新年第一个混蛋出现了",
+      "onboard_time": 1704755844,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 103492,
@@ -361,6 +377,14 @@
       "onboard_time": 1704723576,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94136,
+      "num": 94136,
+      "word": "汪小姐成为业内传奇",
+      "onboard_time": 1704753437,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 93767,
@@ -435,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73814,
+      "num": 73814,
+      "word": "珠帘玉幕剧组给刘宇宁庆生",
+      "onboard_time": 1704738255,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72446,
       "num": 80066,
       "word": "科举文男主有了脸",
@@ -443,20 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69779,
-      "num": 69779,
-      "word": "汪小姐成为业内传奇",
-      "onboard_time": 1704753437,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 64580,
-      "num": 64580,
-      "word": "珠帘玉幕剧组给刘宇宁庆生",
-      "onboard_time": 1704738255,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 64574,
+      "num": 64574,
+      "word": "孟耿如回应黄子佼去世传闻",
+      "onboard_time": 1704722976,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 62942,
@@ -467,6 +491,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62348,
+      "num": 62348,
+      "word": "维冈竞技0比2曼联",
+      "onboard_time": 1704756324,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59383,
+      "num": 67179,
+      "word": "大鹏回应新电影豆瓣8.2分",
+      "onboard_time": 1704722613,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57932,
       "num": 80062,
       "word": "郑恺打卡排骨年糕",
@@ -475,36 +515,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56607,
-      "num": 56607,
-      "word": "董子健说新年第一个混蛋出现了",
-      "onboard_time": 1704755844,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 55394,
+      "num": 55394,
+      "word": "全国男生统一话术",
+      "onboard_time": 1704756445,
+      "rank": 43,
+      "category": "情感"
     },
     {
-      "raw_hot": 50626,
-      "num": 50626,
-      "word": "孟耿如回应黄子佼去世传闻",
-      "onboard_time": 1704722976,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 55274,
+      "num": 55274,
+      "word": "有了它中国再不用租外国实验室角落",
+      "onboard_time": 1704756805,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 49324,
-      "num": 675171,
+      "raw_hot": 51982,
+      "num": 682125,
       "word": "多地上新文旅大礼包",
       "onboard_time": 1704721595,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46199,
-      "num": 67179,
-      "word": "大鹏回应新电影豆瓣8.2分",
-      "onboard_time": 1704722613,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 15758,
