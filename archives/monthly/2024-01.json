@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704677911372,
+  "endTime": 1704681087742,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1659,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 997729,
+      "num": 997729,
+      "word": "岳云鹏曾被30人围观洗澡",
+      "onboard_time": 1704677908,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 996737,
       "num": 996737,
       "word": "日本羽田机场中国旅客发声",
@@ -2033,6 +2041,14 @@
       "onboard_time": 1704190895,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 881279,
+      "num": 881279,
+      "word": "深圳欢乐谷过山车碰撞事故调查报告公布",
+      "onboard_time": 1704679708,
+      "rank": 4,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 880452,
@@ -2657,6 +2673,14 @@
       "onboard_time": 1704097304,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 751347,
+      "num": 590866,
+      "word": "A股",
+      "onboard_time": 1704161618,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 750717,
@@ -3708,7 +3732,7 @@
     },
     {
       "raw_hot": 612293,
-      "num": 385456,
+      "num": 427266,
       "word": "美国爱泼斯坦名单一窥",
       "onboard_time": 1704676710,
       "rank": 10,
@@ -3873,14 +3897,6 @@
       "onboard_time": 1704294576,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 590866,
-      "num": 590866,
-      "word": "A股",
-      "onboard_time": 1704161618,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 589005,
@@ -4089,6 +4105,14 @@
       "onboard_time": 1704033013,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 564813,
+      "num": 440183,
+      "word": "日本地震已致161人死亡",
+      "onboard_time": 1704679347,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 562057,
@@ -4489,6 +4513,14 @@
       "onboard_time": 1704618329,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 527475,
+      "num": 527475,
+      "word": "华莱士送10万份套餐",
+      "onboard_time": 1704679828,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 527298,
@@ -5291,6 +5323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465337,
+      "num": 465337,
+      "word": "郑强称60岁退休确实早了一点",
+      "onboard_time": 1704679587,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463561,
       "num": 463561,
       "word": "王安宇不吃海产的原因",
@@ -6089,6 +6129,14 @@
       "onboard_time": 1704530913,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397828,
+      "num": 397828,
+      "word": "等国考成绩",
+      "onboard_time": 1704676172,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 397568,
@@ -7099,14 +7147,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 325216,
-      "num": 325216,
-      "word": "等国考成绩",
-      "onboard_time": 1704676172,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 325007,
       "num": 325007,
       "word": "阴阳师 水龙王",
@@ -7363,6 +7403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315350,
+      "num": 177573,
+      "word": "6人奸淫不满14周岁幼女被判刑",
+      "onboard_time": 1704680789,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313719,
       "num": 313719,
       "word": "吸冻梨",
@@ -7513,6 +7561,14 @@
       "onboard_time": 1704031085,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 306545,
+      "num": 306545,
+      "word": "小熊猫小折耳根来尔滨了",
+      "onboard_time": 1704675812,
+      "rank": 21,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 306452,
@@ -8249,6 +8305,14 @@
       "onboard_time": 1704358172,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277241,
+      "num": 225001,
+      "word": "卖房后重回出租屋的人现在怎样了",
+      "onboard_time": 1704679888,
+      "rank": 21,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 276560,
@@ -9235,14 +9299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242578,
-      "num": 234662,
-      "word": "小熊猫小折耳根来尔滨了",
-      "onboard_time": 1704675812,
-      "rank": 21,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 242432,
       "num": 242432,
       "word": "56岁奶奶演13岁少年有多灵动",
@@ -9513,6 +9569,14 @@
       "onboard_time": 1704088775,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233642,
+      "num": 233642,
+      "word": "2024金球奖获奖名单",
+      "onboard_time": 1704679287,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 233533,
@@ -10323,6 +10387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 213150,
+      "num": 213150,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1704680789,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212951,
       "num": 212951,
       "word": "非诚勿扰3 票房",
@@ -10465,6 +10537,14 @@
       "onboard_time": 1704251012,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209888,
+      "num": 209888,
+      "word": "金球奖",
+      "onboard_time": 1704677787,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 209835,
@@ -10817,6 +10897,14 @@
       "onboard_time": 1704190413,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 203354,
+      "num": 203354,
+      "word": "于适奥迪SQ7进取锋芒官",
+      "onboard_time": 1704680309,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 203276,
@@ -11307,6 +11395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196017,
+      "num": 196017,
+      "word": "尼欧克斯道歉",
+      "onboard_time": 1704680789,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195861,
       "num": 195861,
       "word": "尔滨的风吹向全国",
@@ -11713,6 +11809,14 @@
       "onboard_time": 1704263433,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 190954,
+      "num": 190954,
+      "word": "深圳欢乐谷过山车事故9人被追责问责",
+      "onboard_time": 1704680847,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190778,
@@ -12755,6 +12859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174983,
+      "num": 174983,
+      "word": "曝姆巴佩加盟皇马达协议",
+      "onboard_time": 1704680487,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174975,
       "num": 174975,
       "word": "钟意被骗免费陪玩",
@@ -13747,6 +13859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161331,
+      "num": 161331,
+      "word": "wind崩了",
+      "onboard_time": 1704678508,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 161253,
       "num": 161253,
       "word": "哈工大为小砂糖橘发射模型火箭",
@@ -13897,6 +14017,14 @@
       "onboard_time": 1704104619,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158298,
+      "num": 158298,
+      "word": "上证指数",
+      "onboard_time": 1704680188,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 158162,
@@ -14153,6 +14281,14 @@
       "onboard_time": 1704362973,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 154586,
+      "num": 154586,
+      "word": "小伙裸辞卖预制菜年亏40万后逆袭",
+      "onboard_time": 1704680847,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154549,
@@ -14825,6 +14961,14 @@
       "onboard_time": 1704439471,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145428,
+      "num": 145428,
+      "word": "万得回应WIND崩了",
+      "onboard_time": 1704679648,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 145354,
@@ -16515,6 +16659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124835,
+      "num": 124835,
+      "word": "流浪博士视频拍摄者发声",
+      "onboard_time": 1704677666,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124833,
       "num": 124833,
       "word": "饭后喝茶真的能刮油吗",
@@ -17235,14 +17387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113130,
-      "num": 113130,
-      "word": "流浪博士视频拍摄者发声",
-      "onboard_time": 1704677666,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113103,
       "num": 113763,
       "word": "妈妈用女儿雪圈陪小土豆疯玩一下午",
@@ -17497,6 +17641,14 @@
       "onboard_time": 1704335188,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108648,
+      "num": 108648,
+      "word": "湖人球员不满出场时间安排",
+      "onboard_time": 1704678448,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 108343,
@@ -17769,14 +17921,6 @@
       "onboard_time": 1704461735,
       "rank": 13,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 104220,
-      "num": 104220,
-      "word": "金球奖",
-      "onboard_time": 1704677787,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 103992,
