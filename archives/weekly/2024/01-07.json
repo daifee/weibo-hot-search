@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704709200143,
+  "endTime": 1704710233777,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -43,20 +43,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2107632,
+      "num": 2107632,
+      "word": "林府家规",
+      "onboard_time": 1704703350,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2094204,
       "num": 628589,
       "word": "易孕体质",
       "onboard_time": 1704616348,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1872659,
-      "num": 1872659,
-      "word": "林府家规",
-      "onboard_time": 1704703350,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1833494,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 752568,
-      "num": 499567,
+      "num": 569868,
       "word": "不生孩子的下半辈子",
       "onboard_time": 1704704910,
       "rank": 10,
@@ -713,6 +713,14 @@
       "onboard_time": 1704598291,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 652214,
+      "num": 652214,
+      "word": "科举文男主有了脸",
+      "onboard_time": 1704708272,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 646416,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1704609988,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509955,
+      "num": 509955,
+      "word": "李国庆称是叶璇想制造爆点",
+      "onboard_time": 1704708392,
+      "rank": 18,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 507946,
@@ -1611,14 +1627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 329306,
-      "num": 329306,
-      "word": "科举文男主有了脸",
-      "onboard_time": 1704708272,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 327670,
       "num": 327670,
       "word": "梁朝伟 其实我也不是那么i",
@@ -1649,14 +1657,6 @@
       "onboard_time": 1704599250,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 322536,
-      "num": 322536,
-      "word": "李国庆称是叶璇想制造爆点",
-      "onboard_time": 1704708392,
-      "rank": 18,
-      "category": "互联网,艺人"
     },
     {
       "raw_hot": 321441,
@@ -1833,6 +1833,14 @@
       "onboard_time": 1704699571,
       "rank": 17,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 291717,
+      "num": 291717,
+      "word": "内娱红毯 欧美红毯",
+      "onboard_time": 1704709171,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 290380,
@@ -2012,7 +2020,7 @@
     },
     {
       "raw_hot": 258390,
-      "num": 812808,
+      "num": 825307,
       "word": "民警吃火锅多看一眼抓住2名逃犯",
       "onboard_time": 1704707433,
       "rank": 6,
@@ -2307,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214387,
+      "num": 214387,
+      "word": "我迟到 有时是因为这样坐了很久",
+      "onboard_time": 1704708153,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212826,
       "num": 212826,
       "word": "陈奕迅巡演内地首唱富士山下",
@@ -2377,6 +2393,14 @@
       "onboard_time": 1704694470,
       "rank": 40,
       "category": "健康医疗,母婴育儿"
+    },
+    {
+      "raw_hot": 207172,
+      "num": 207172,
+      "word": "演员洪剑涛也去哈尔滨打卡了",
+      "onboard_time": 1704710010,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 206759,
@@ -2707,6 +2731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 188183,
+      "num": 188183,
+      "word": "女高管违法开除事件当事人发声",
+      "onboard_time": 1704709351,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187341,
       "num": 155623,
       "word": "偷偷跑回家见妈妈",
@@ -2721,14 +2753,6 @@
       "onboard_time": 1704630155,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 186477,
-      "num": 186477,
-      "word": "我迟到 有时是因为这样坐了很久",
-      "onboard_time": 1704708153,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 185342,
@@ -3039,6 +3063,14 @@
       "num": 167227,
       "word": "请问这是恋爱脑团建吗",
       "onboard_time": 1704639574,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 166231,
+      "num": 164932,
+      "word": "成为辅导员后看尽人生百态",
+      "onboard_time": 1704709233,
       "rank": 31,
       "category": "情感"
     },
@@ -4123,6 +4155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115533,
+      "num": 115533,
+      "word": "明天三九第1天",
+      "onboard_time": 1704710010,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115204,
       "num": 115204,
       "word": "夏目友人帐 可爱娘口三三",
@@ -4419,6 +4459,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 103752,
+      "num": 103752,
+      "word": "wind 今天班就上到这里",
+      "onboard_time": 1704709954,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 103580,
       "num": 103580,
       "word": "北京尼欧克斯科技有限公司",
@@ -4497,14 +4545,6 @@
       "onboard_time": 1704685230,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99319,
-      "num": 99319,
-      "word": "内娱红毯 欧美红毯",
-      "onboard_time": 1704709171,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 98783,
@@ -4681,6 +4721,14 @@
       "onboard_time": 1704702930,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 89366,
+      "num": 89366,
+      "word": "研究生里的卧龙凤雏",
+      "onboard_time": 1704709291,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 88745,
