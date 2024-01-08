@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704752194781,
+  "endTime": 1704753240838,
   "band_list": [
     {
       "raw_hot": 1082340,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179505,
+      "num": 179505,
+      "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
+      "onboard_time": 1704737779,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176650,
       "num": 176650,
       "word": "专家建议羽绒服要手洗",
@@ -251,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126983,
-      "num": 126983,
-      "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
-      "onboard_time": 1704737779,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126921,
       "num": 126921,
       "word": "不生孩子的下半辈子",
@@ -281,6 +281,14 @@
       "onboard_time": 1704724714,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110404,
+      "num": 110404,
+      "word": "女儿刚生爸妈坐高铁送2万6卖炸串钱",
+      "onboard_time": 1704740475,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108416,
@@ -379,20 +387,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 79322,
-      "num": 79322,
-      "word": "女儿刚生爸妈坐高铁送2万6卖炸串钱",
-      "onboard_time": 1704740475,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74930,
       "num": 80072,
       "word": "住房100平比50平家庭更愿意生2孩",
       "onboard_time": 1704717510,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73499,
+      "num": 67041,
+      "word": "唐嫣过去的三年都是汪小姐",
+      "onboard_time": 1704746474,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 72446,
@@ -427,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46032,
-      "num": 46032,
-      "word": "唐嫣过去的三年都是汪小姐",
-      "onboard_time": 1704746474,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44659,
       "num": 44659,
       "word": "珠帘玉幕剧组给刘宇宁庆生",
@@ -451,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15758,
+      "num": 17087,
+      "word": "不是人人都适合泡脚",
+      "onboard_time": 1704751815,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 14035,
       "num": 14843,
       "word": "烘手手的小猫太可爱了",
@@ -465,14 +473,6 @@
       "onboard_time": 1704742334,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 12507,
-      "num": 14689,
-      "word": "不是人人都适合泡脚",
-      "onboard_time": 1704751815,
-      "rank": 48,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
