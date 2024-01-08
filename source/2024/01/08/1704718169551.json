@@ -1,0 +1,410 @@
+{
+  "runTime": 1704718169551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1598623,
+        "num": 1598623,
+        "word": "哈尔滨冻草莓都开始按个卖了",
+        "onboard_time": 1704715531,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 980730,
+        "num": 980730,
+        "word": "爷爷 已读乱回",
+        "onboard_time": 1704706172,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17972,
+        "num": 776029,
+        "word": "聚焦中国经济圆桌会",
+        "onboard_time": 1704701372,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729398,
+        "num": 729398,
+        "word": "中国人吃盐过多致死率世界第1",
+        "onboard_time": 1704711270,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 539156,
+        "num": 539156,
+        "word": "在哈尔滨2小时冻出水疱",
+        "onboard_time": 1704711631,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 517292,
+        "num": 517292,
+        "word": "吃葡萄柚是一件很私人的事",
+        "onboard_time": 1704712110,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 502293,
+        "num": 502293,
+        "word": "哈尔滨工匠被请去韩国做冰雕",
+        "onboard_time": 1704713791,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442458,
+        "num": 442458,
+        "word": "金球奖主持 尴尬",
+        "onboard_time": 1704715109,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 423334,
+        "num": 423334,
+        "word": "王家卫拍繁花不准辛芷蕾笑",
+        "onboard_time": 1704710669,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404734,
+        "num": 404734,
+        "word": "蔡依林 浪5",
+        "onboard_time": 1704706709,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 753815,
+        "num": 390769,
+        "word": "戏子祭酒实名举报",
+        "onboard_time": 1704714210,
+        "rank": 10,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 485323,
+        "num": 384823,
+        "word": "戏子祭酒 壶鱼辣椒",
+        "onboard_time": 1704716730,
+        "rank": 11,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 428356,
+        "num": 381355,
+        "word": "林府家规",
+        "onboard_time": 1704703350,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376739,
+        "num": 376739,
+        "word": "科举文男主有了脸",
+        "onboard_time": 1704708272,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51349,
+        "num": 338725,
+        "word": "OPPO实现首个听筒式卫星通话",
+        "onboard_time": 1704707131,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 321763,
+        "num": 321763,
+        "word": "不生孩子的下半辈子",
+        "onboard_time": 1704704910,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294759,
+        "num": 294759,
+        "word": "警方通报广东一中学教师坠楼",
+        "onboard_time": 1704716371,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277219,
+        "num": 277219,
+        "word": "千万网红团队成员约架致一人身亡",
+        "onboard_time": 1704694649,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 272960,
+        "num": 272960,
+        "word": "把和男友的聊天记录可视化",
+        "onboard_time": 1704710313,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260977,
+        "num": 260977,
+        "word": "王菲 她甚至能治王家卫",
+        "onboard_time": 1704706775,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 411823,
+        "num": 252239,
+        "word": "网购100多条一次性内裤被妈妈清洗",
+        "onboard_time": 1704713791,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232802,
+        "num": 232802,
+        "word": "张婧仪藏海传妆造",
+        "onboard_time": 1704713852,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209821,
+        "num": 209821,
+        "word": "繁花",
+        "onboard_time": 1704716493,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203954,
+        "num": 203954,
+        "word": "蔓越莓竟然是在水中采摘的",
+        "onboard_time": 1704705330,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204336,
+        "num": 203942,
+        "word": "王家卫选角",
+        "onboard_time": 1704717754,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203818,
+        "num": 203818,
+        "word": "下巴老长痘原因",
+        "onboard_time": 1704716551,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201383,
+        "num": 201383,
+        "word": "29岁抖音员工欲进A股公司董事会",
+        "onboard_time": 1704711690,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200662,
+        "num": 200662,
+        "word": "教授建议生个孩子给一居室",
+        "onboard_time": 1704687693,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185901,
+        "num": 185901,
+        "word": "杨紫李现牵手同框路透",
+        "onboard_time": 1704698190,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174750,
+        "num": 174750,
+        "word": "陶喆世界巡演官宣",
+        "onboard_time": 1704715954,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173179,
+        "num": 173179,
+        "word": "女子称波司登羽绒服剪开全是碎末",
+        "onboard_time": 1704717929,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161502,
+        "num": 161502,
+        "word": "教授 老了老了还要遭这罪",
+        "onboard_time": 1704714752,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155395,
+        "num": 155395,
+        "word": "台湾女生在东北第一次吃冰糖葫芦",
+        "onboard_time": 1704705330,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151737,
+        "num": 151737,
+        "word": "内娱红毯 欧美红毯",
+        "onboard_time": 1704709171,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149128,
+        "num": 149128,
+        "word": "老师已经尽力了 根本捞不动",
+        "onboard_time": 1704712953,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145923,
+        "num": 145923,
+        "word": "幼儿园宝宝全勤奖是棵大芹菜",
+        "onboard_time": 1704703108,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147816,
+        "num": 145648,
+        "word": "乱用敬语的i人",
+        "onboard_time": 1704714570,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145315,
+        "num": 145315,
+        "word": "拒绝直播后杭州四季青商户说生意回暖3成",
+        "onboard_time": 1704717391,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134251,
+        "num": 134251,
+        "word": "掌心 刘诗诗",
+        "onboard_time": 1704704249,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128911,
+        "num": 128911,
+        "word": "哈尔滨大姐遇台湾女生疯狂投喂",
+        "onboard_time": 1704715590,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127157,
+        "num": 127157,
+        "word": "WTT多哈球星挑战赛签表",
+        "onboard_time": 1704716493,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120431,
+        "num": 120431,
+        "word": "范丞丞庄图南花絮照",
+        "onboard_time": 1704716790,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120134,
+        "num": 120134,
+        "word": "朱一龙恢复状况",
+        "onboard_time": 1704702450,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115754,
+        "num": 115754,
+        "word": "假军人收集部队情报与境外势力接头",
+        "onboard_time": 1704715590,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 115311,
+        "num": 115311,
+        "word": "A股市场震荡收跌",
+        "onboard_time": 1704706409,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114696,
+        "num": 114696,
+        "word": "住房100平比50平家庭更愿意生2孩",
+        "onboard_time": 1704717510,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114244,
+        "num": 114244,
+        "word": "原来小狗也喜欢吃麻辣烫",
+        "onboard_time": 1704717510,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98322,
+        "num": 98322,
+        "word": "杨紫新年红妆",
+        "onboard_time": 1704714275,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 97029,
+        "num": 97029,
+        "word": "沪指再度失守2900点",
+        "onboard_time": 1704717872,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91231,
+        "num": 91231,
+        "word": "巨人新图 你们都是谁",
+        "onboard_time": 1704717391,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#增强拒腐防变和抵御风险能力#"
+    }
+  }
+}

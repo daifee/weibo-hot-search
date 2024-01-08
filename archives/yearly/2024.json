@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704717237204,
+  "endTime": 1704718169551,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -609,6 +609,14 @@
       "onboard_time": 1704037918,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1598623,
+      "num": 1598623,
+      "word": "哈尔滨冻草莓都开始按个卖了",
+      "onboard_time": 1704715531,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1594101,
@@ -2185,14 +2193,6 @@
       "onboard_time": 1704190895,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 883489,
-      "num": 883489,
-      "word": "哈尔滨冻草莓都开始按个卖了",
-      "onboard_time": 1704715531,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 881279,
