@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704713639720,
+  "endTime": 1704717237204,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -139,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1048484,
+      "num": 1048484,
+      "word": "中国人吃盐过多致死率世界第1",
+      "onboard_time": 1704711270,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1044245,
       "num": 1044245,
       "word": "小伙裸辞卖预制菜年亏40万后逆袭",
@@ -179,19 +187,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 946299,
-      "num": 946299,
-      "word": "中国人吃盐过多致死率世界第1",
-      "onboard_time": 1704711270,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 902403,
       "num": 902403,
       "word": "深圳欢乐谷过山车事故9人被追责问责",
       "onboard_time": 1704680847,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 883489,
+      "num": 883489,
+      "word": "哈尔滨冻草莓都开始按个卖了",
+      "onboard_time": 1704715531,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -251,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 766025,
+      "num": 427535,
+      "word": "戏子祭酒实名举报",
+      "onboard_time": 1704714210,
+      "rank": 10,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 752568,
       "num": 569868,
       "word": "不生孩子的下半辈子",
@@ -281,6 +297,14 @@
       "onboard_time": 1704679828,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 738065,
+      "num": 738065,
+      "word": "在哈尔滨2小时冻出水疱",
+      "onboard_time": 1704711631,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 730174,
@@ -475,8 +499,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 562563,
-      "num": 562563,
+      "raw_hot": 564124,
+      "num": 564124,
       "word": "吃葡萄柚是一件很私人的事",
       "onboard_time": 1704712110,
       "rank": 15,
@@ -651,6 +675,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 457645,
+      "num": 457645,
+      "word": "金球奖主持 尴尬",
+      "onboard_time": 1704715109,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 448767,
       "num": 448767,
       "word": "刘亦菲抱狗工作",
@@ -673,6 +705,14 @@
       "onboard_time": 1704695071,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 437166,
+      "num": 437166,
+      "word": "哈尔滨工匠被请去韩国做冰雕",
+      "onboard_time": 1704713791,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432218,
@@ -729,6 +769,14 @@
       "onboard_time": 1704690993,
       "rank": 25,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 404981,
+      "num": 261831,
+      "word": "网购100多条一次性内裤被妈妈清洗",
+      "onboard_time": 1704713791,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389965,
@@ -971,6 +1019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 282730,
+      "num": 282730,
+      "word": "戏子祭酒 壶鱼辣椒",
+      "onboard_time": 1704716730,
+      "rank": 18,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 279858,
       "num": 279858,
       "word": "卖房后重回出租屋的人现在怎样了",
@@ -1028,7 +1084,7 @@
     },
     {
       "raw_hot": 266788,
-      "num": 216674,
+      "num": 253673,
       "word": "29岁抖音员工欲进A股公司董事会",
       "onboard_time": 1704711690,
       "rank": 27,
@@ -1088,6 +1144,14 @@
       "word": "天启异闻录 烂尾",
       "onboard_time": 1704643708,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 254932,
+      "num": 254932,
+      "word": "张婧仪藏海传妆造",
+      "onboard_time": 1704713852,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -1171,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226306,
-      "num": 214651,
-      "word": "在哈尔滨2小时冻出水疱",
-      "onboard_time": 1704711631,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 225053,
       "num": 225053,
       "word": "身上这6个部位无须过度清洁",
@@ -1233,6 +1289,14 @@
       "onboard_time": 1704710669,
       "rank": 23,
       "category": "体育,旅游"
+    },
+    {
+      "raw_hot": 212221,
+      "num": 212221,
+      "word": "繁花",
+      "onboard_time": 1704629431,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 210784,
@@ -1459,12 +1523,44 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 191564,
+      "num": 191564,
+      "word": "陶喆世界巡演官宣",
+      "onboard_time": 1704715954,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 190953,
+      "num": 182111,
+      "word": "警方通报广东一中学教师坠楼",
+      "onboard_time": 1704716371,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190274,
       "num": 190274,
       "word": "卢美琳 一生何求",
       "onboard_time": 1704707190,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190236,
+      "num": 190236,
+      "word": "WTT多哈球星挑战赛签表",
+      "onboard_time": 1704716493,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186113,
+      "num": 181816,
+      "word": "下巴老长痘原因",
+      "onboard_time": 1704716551,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 185342,
@@ -1491,12 +1587,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182572,
+      "num": 182572,
+      "word": "乱用敬语的i人",
+      "onboard_time": 1704714570,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181889,
       "num": 181889,
       "word": "瑞银称A股当前太便宜",
       "onboard_time": 1704711750,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 181312,
+      "num": 181312,
+      "word": "教授 老了老了还要遭这罪",
+      "onboard_time": 1704714752,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 180600,
@@ -1659,6 +1771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 160532,
+      "num": 160532,
+      "word": "范丞丞庄图南花絮照",
+      "onboard_time": 1704716790,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160149,
       "num": 160149,
       "word": "日本地震323人下落不明",
@@ -1697,6 +1817,14 @@
       "onboard_time": 1704639336,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154073,
+      "num": 154073,
+      "word": "哈尔滨大姐遇台湾女生疯狂投喂",
+      "onboard_time": 1704715590,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153902,
@@ -1947,6 +2075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129342,
+      "num": 129342,
+      "word": "假军人收集部队情报与境外势力接头",
+      "onboard_time": 1704715590,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 128876,
       "num": 128876,
       "word": "陈星旭女主运",
@@ -2075,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117186,
+      "num": 117186,
+      "word": "乙流中招之后怎么办",
+      "onboard_time": 1704715291,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 117071,
       "num": 117071,
       "word": "刘恋不做乙方的日常",
@@ -2097,6 +2241,14 @@
       "onboard_time": 1704640055,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114423,
+      "num": 114423,
+      "word": "杨紫新年红妆",
+      "onboard_time": 1704714275,
+      "rank": 43,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 114260,
@@ -2195,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103558,
+      "num": 103558,
+      "word": "繁花让周末的黄河路大堵车",
+      "onboard_time": 1704716971,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102412,
       "num": 102412,
       "word": "周到晒孙颖莎训练视频",
@@ -2268,7 +2428,7 @@
     },
     {
       "raw_hot": 93393,
-      "num": 99618,
+      "num": 330062,
       "word": "OPPO实现首个听筒式卫星通话",
       "onboard_time": 1704707131,
       "rank": 47,
@@ -2569,14 +2729,6 @@
       "onboard_time": 1704651019,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 18535,
-      "num": 18366,
-      "word": "繁花",
-      "onboard_time": 1704629431,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 16451,

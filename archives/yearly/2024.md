@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/08 19:33:59
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/08 20:33:57
 </p>
 </blockquote>
 <p>
@@ -1221,6 +1221,12 @@ A先生李李恋情（热度：1095743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E7%9B%90%E8%BF%87%E5%A4%9A%E8%87%B4%E6%AD%BB%E7%8E%87%E4%B8%96%E7%95%8C%E7%AC%AC1%23" target="weibo">
+中国人吃盐过多致死率世界第1（热度：1048484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%96%87%E4%BB%B6%E7%89%B5%E5%87%BA%E9%9C%8D%E9%87%91%23" target="weibo">
 爱泼斯坦文件牵出霍金（热度：1048070）
 </a>
@@ -1515,12 +1521,6 @@ D社 该上班了（热度：998672）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E7%9B%90%E8%BF%87%E5%A4%9A%E8%87%B4%E6%AD%BB%E7%8E%87%E4%B8%96%E7%95%8C%E7%AC%AC1%23" target="weibo">
-中国人吃盐过多致死率世界第1（热度：946299）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%A5%BD%E7%A8%B3%23" target="weibo">
 鞠婧祎好稳（热度：946213）
 </a>
@@ -1649,6 +1649,12 @@ B站2023百大UP主（热度：927768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%B8%8E%E7%B4%A0%E4%BA%BA%E5%90%88%E5%BD%B1%23" target="weibo">
 赵丽颖辛芷蕾与素人合影（热度：887551）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%BB%E8%8D%89%E8%8E%93%E9%83%BD%E5%BC%80%E5%A7%8B%E6%8C%89%E4%B8%AA%E5%8D%96%E4%BA%86%23" target="weibo">
+哈尔滨冻草莓都开始按个卖了（热度：883489）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%8C%E8%AF%81%E7%A0%81%20%E9%AA%8C%E8%A0%A2%23" target="weibo">
 验证码 验蠢（热度：835479）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
-难听（热度：835471）
 </a>
 </li>
 
