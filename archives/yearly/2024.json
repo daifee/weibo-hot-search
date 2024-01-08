@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704718169551,
+  "endTime": 1704720110198,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1740529,
+      "num": 1740529,
+      "word": "哈尔滨冻草莓都开始按个卖了",
+      "onboard_time": 1704715531,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1734440,
       "num": 1734440,
       "word": "我国电视开机率跌至30%",
@@ -609,14 +617,6 @@
       "onboard_time": 1704037918,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1598623,
-      "num": 1598623,
-      "word": "哈尔滨冻草莓都开始按个卖了",
-      "onboard_time": 1704715531,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1594101,
@@ -1587,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1056596,
+      "num": 1056596,
+      "word": "女子称波司登羽绒服剪开全是碎末",
+      "onboard_time": 1704717929,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1056009,
       "num": 1056009,
       "word": "我国中等收入人群已达4亿",
@@ -2379,28 +2387,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 841453,
+      "num": 427535,
+      "word": "戏子祭酒实名举报",
+      "onboard_time": 1704714210,
+      "rank": 10,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 837056,
       "num": 837056,
       "word": "秦岚泳衣外穿",
       "onboard_time": 1704269370,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 835757,
-      "num": 835757,
-      "word": "鄂伦春族都请来了",
-      "onboard_time": 1704238585,
-      "rank": 3,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 835479,
-      "num": 835479,
-      "word": "验证码 验蠢",
-      "onboard_time": 1704539070,
-      "rank": 29,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
