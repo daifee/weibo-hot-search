@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704720110198,
+  "endTime": 1704720845236,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1411,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1134136,
+      "num": 1056596,
+      "word": "女子称波司登羽绒服剪开全是碎末",
+      "onboard_time": 1704717929,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1132796,
       "num": 490846,
       "word": "日本记者吐槽民众给震区寄千纸鹤",
@@ -1585,14 +1593,6 @@
       "onboard_time": 1704435751,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1056596,
-      "num": 1056596,
-      "word": "女子称波司登羽绒服剪开全是碎末",
-      "onboard_time": 1704717929,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1056009,
@@ -2387,20 +2387,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 844558,
+      "num": 844558,
+      "word": "微博之夜全阵容集结",
+      "onboard_time": 1704718292,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 841453,
       "num": 427535,
       "word": "戏子祭酒实名举报",
       "onboard_time": 1704714210,
       "rank": 10,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 837056,
-      "num": 837056,
-      "word": "秦岚泳衣外穿",
-      "onboard_time": 1704269370,
-      "rank": 14,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

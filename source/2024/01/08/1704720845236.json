@@ -1,0 +1,410 @@
+{
+  "runTime": 1704720845236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1592177,
+        "num": 1592177,
+        "word": "哈尔滨冻草莓都开始按个卖了",
+        "onboard_time": 1704715531,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844558,
+        "num": 844558,
+        "word": "微博之夜全阵容集结",
+        "onboard_time": 1704718292,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16079,
+        "num": 844347,
+        "word": "聚焦中国经济圆桌会",
+        "onboard_time": 1704701372,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844203,
+        "num": 844203,
+        "word": "爷爷 已读乱回",
+        "onboard_time": 1704706172,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 612342,
+        "num": 612342,
+        "word": "恋爱三个月定律",
+        "onboard_time": 1704718651,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 529764,
+        "num": 529764,
+        "word": "警方通报广东一中学教师坠楼",
+        "onboard_time": 1704716371,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453128,
+        "num": 453128,
+        "word": "吃葡萄柚是一件很私人的事",
+        "onboard_time": 1704712110,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423180,
+        "num": 423180,
+        "word": "中国人吃盐过多致死率世界第1",
+        "onboard_time": 1704711270,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 410928,
+        "num": 410928,
+        "word": "范总 江湖再见",
+        "onboard_time": 1704719493,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400015,
+        "num": 400015,
+        "word": "住房100平比50平家庭更愿意生2孩",
+        "onboard_time": 1704717510,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787827,
+        "num": 394530,
+        "word": "戏子祭酒实名举报",
+        "onboard_time": 1704714210,
+        "rank": 10,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 506648,
+        "num": 391253,
+        "word": "戏子祭酒 壶鱼辣椒",
+        "onboard_time": 1704716730,
+        "rank": 11,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 382238,
+        "num": 382238,
+        "word": "刘宇宁直播没被认出的原因",
+        "onboard_time": 1704719851,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371789,
+        "num": 371789,
+        "word": "蔡依林 浪5",
+        "onboard_time": 1704706709,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369456,
+        "num": 369456,
+        "word": "王家卫拍繁花不准辛芷蕾笑",
+        "onboard_time": 1704710669,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344100,
+        "num": 344100,
+        "word": "哈尔滨工匠被请去韩国做冰雕",
+        "onboard_time": 1704713791,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327955,
+        "num": 327955,
+        "word": "金球奖主持 尴尬",
+        "onboard_time": 1704715109,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325671,
+        "num": 325671,
+        "word": "不生孩子的下半辈子",
+        "onboard_time": 1704704910,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268779,
+        "num": 268779,
+        "word": "科举文男主有了脸",
+        "onboard_time": 1704708272,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267014,
+        "num": 267014,
+        "word": "千万网红团队成员约架致一人身亡",
+        "onboard_time": 1704694649,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 335077,
+        "num": 266429,
+        "word": "网购100多条一次性内裤被妈妈清洗",
+        "onboard_time": 1704713791,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236601,
+        "num": 236601,
+        "word": "蔓越莓竟然是在水中采摘的",
+        "onboard_time": 1704705330,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 223260,
+        "num": 223260,
+        "word": "繁花",
+        "onboard_time": 1704716493,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212047,
+        "num": 212047,
+        "word": "乙流中招之后怎么办",
+        "onboard_time": 1704715291,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199602,
+        "num": 199602,
+        "word": "林府家规",
+        "onboard_time": 1704703350,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192942,
+        "num": 192942,
+        "word": "在哈尔滨2小时冻出水疱",
+        "onboard_time": 1704711631,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186255,
+        "num": 186255,
+        "word": "大江大河3",
+        "onboard_time": 1704720395,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177526,
+        "num": 177526,
+        "word": "杨紫李现牵手同框路透",
+        "onboard_time": 1704698190,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168884,
+        "num": 168884,
+        "word": "下巴老长痘原因",
+        "onboard_time": 1704716551,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163800,
+        "num": 163800,
+        "word": "6名干部违规聚餐狂饮7瓶白酒致1死",
+        "onboard_time": 1704720695,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1134136,
+        "num": 162697,
+        "word": "女子称波司登羽绒服剪开全是碎末",
+        "onboard_time": 1704717929,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166682,
+        "num": 161992,
+        "word": "阿宝就是宝总的退路",
+        "onboard_time": 1704719434,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160744,
+        "num": 160744,
+        "word": "教授建议生个孩子给一居室",
+        "onboard_time": 1704687693,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144102,
+        "num": 144102,
+        "word": "拒绝直播后杭州四季青商户说生意回暖3成",
+        "onboard_time": 1704717391,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142499,
+        "num": 142499,
+        "word": "教授 老了老了还要遭这罪",
+        "onboard_time": 1704714752,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138044,
+        "num": 138044,
+        "word": "乱用敬语的i人",
+        "onboard_time": 1704714570,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137252,
+        "num": 137252,
+        "word": "专家解释为什么用电量比发电量还多",
+        "onboard_time": 1704719851,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 133499,
+        "num": 133499,
+        "word": "把和男友的聊天记录可视化",
+        "onboard_time": 1704710313,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131779,
+        "num": 131779,
+        "word": "南北方牛奶居然还不一样",
+        "onboard_time": 1704720755,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129039,
+        "num": 129039,
+        "word": "王菲 她甚至能治王家卫",
+        "onboard_time": 1704706775,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128798,
+        "num": 128798,
+        "word": "张婧仪藏海传妆造",
+        "onboard_time": 1704713852,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126648,
+        "num": 126648,
+        "word": "29岁抖音员工欲进A股公司董事会",
+        "onboard_time": 1704711690,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126579,
+        "num": 126579,
+        "word": "台湾女生在东北第一次吃冰糖葫芦",
+        "onboard_time": 1704705330,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126502,
+        "num": 126502,
+        "word": "王家卫选角",
+        "onboard_time": 1704717754,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121238,
+        "num": 121238,
+        "word": "山东版冰雪大世界来了",
+        "onboard_time": 1704719616,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 120775,
+        "num": 120775,
+        "word": "屈臣氏擅自分装洗护用品被罚15万",
+        "onboard_time": 1704720634,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 120159,
+        "num": 120159,
+        "word": "老师已经尽力了 根本捞不动",
+        "onboard_time": 1704712953,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118329,
+        "num": 118329,
+        "word": "掌心 刘诗诗",
+        "onboard_time": 1704704249,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113106,
+        "num": 113106,
+        "word": "陶喆世界巡演官宣",
+        "onboard_time": 1704715954,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110085,
+        "num": 110085,
+        "word": "繁花明天大结局",
+        "onboard_time": 1704720813,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#增强拒腐防变和抵御风险能力#"
+    }
+  }
+}

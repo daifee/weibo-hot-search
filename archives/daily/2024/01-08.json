@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704720110198,
+  "endTime": 1704720845236,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -139,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1134136,
+      "num": 1056596,
+      "word": "女子称波司登羽绒服剪开全是碎末",
+      "onboard_time": 1704717929,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1096431,
       "num": 1096431,
       "word": "为什么网吧老板不会赶走蹭睡的人",
       "onboard_time": 1704671666,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1056596,
-      "num": 1056596,
-      "word": "女子称波司登羽绒服剪开全是碎末",
-      "onboard_time": 1704717929,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1048484,
@@ -225,6 +225,14 @@
       "onboard_time": 1704695489,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 844558,
+      "num": 844558,
+      "word": "微博之夜全阵容集结",
+      "onboard_time": 1704718292,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 841453,
@@ -321,14 +329,6 @@
       "onboard_time": 1704689433,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 721995,
-      "num": 721995,
-      "word": "微博之夜全阵容集结",
-      "onboard_time": 1704718292,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 720342,
@@ -440,6 +440,14 @@
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1704680789,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 612342,
+      "num": 612342,
+      "word": "恋爱三个月定律",
+      "onboard_time": 1704718651,
+      "rank": 14,
       "category": "情感"
     },
     {
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 507427,
-      "num": 386148,
+      "num": 391253,
       "word": "戏子祭酒 壶鱼辣椒",
       "onboard_time": 1704716730,
       "rank": 18,
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 411823,
-      "num": 262242,
+      "num": 266429,
       "word": "网购100多条一次性内裤被妈妈清洗",
       "onboard_time": 1704713791,
       "rank": 20,
@@ -809,6 +817,22 @@
       "onboard_time": 1704690993,
       "rank": 25,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 410928,
+      "num": 410928,
+      "word": "范总 江湖再见",
+      "onboard_time": 1704719493,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 400015,
+      "num": 400015,
+      "word": "住房100平比50平家庭更愿意生2孩",
+      "onboard_time": 1704717510,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389965,
@@ -857,6 +881,14 @@
       "onboard_time": 1704682530,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 382238,
+      "num": 382238,
+      "word": "刘宇宁直播没被认出的原因",
+      "onboard_time": 1704719851,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 376379,
@@ -921,14 +953,6 @@
       "onboard_time": 1704670945,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 352970,
-      "num": 352970,
-      "word": "恋爱三个月定律",
-      "onboard_time": 1704718651,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 321496,
@@ -1067,14 +1091,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 277895,
-      "num": 277895,
-      "word": "范总 江湖再见",
-      "onboard_time": 1704719493,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276031,
       "num": 276031,
       "word": "刘诗诗靠张云龙肩膀路透",
@@ -1137,14 +1153,6 @@
       "onboard_time": 1704691113,
       "rank": 24,
       "category": "游戏,音乐"
-    },
-    {
-      "raw_hot": 263329,
-      "num": 263329,
-      "word": "住房100平比50平家庭更愿意生2孩",
-      "onboard_time": 1704717510,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259316,
@@ -1299,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223260,
+      "num": 223260,
+      "word": "繁花",
+      "onboard_time": 1704629431,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222993,
       "num": 222993,
       "word": "刘诗诗东方诗意大片",
@@ -1339,12 +1355,12 @@
       "category": "体育,旅游"
     },
     {
-      "raw_hot": 212221,
-      "num": 212221,
-      "word": "繁花",
-      "onboard_time": 1704629431,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 212047,
+      "num": 212047,
+      "word": "乙流中招之后怎么办",
+      "onboard_time": 1704715291,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 210784,
@@ -1361,14 +1377,6 @@
       "onboard_time": 1704699870,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 210076,
-      "num": 210076,
-      "word": "乙流中招之后怎么办",
-      "onboard_time": 1704715291,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 207307,
@@ -1619,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186255,
+      "num": 186255,
+      "word": "大江大河3",
+      "onboard_time": 1704720395,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185342,
       "num": 185342,
       "word": "我们的翻译官开播",
@@ -1689,14 +1705,6 @@
       "onboard_time": 1704675333,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179957,
-      "num": 179957,
-      "word": "刘宇宁直播没被认出的原因",
-      "onboard_time": 1704719851,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 179471,
@@ -1833,6 +1841,14 @@
       "onboard_time": 1704692252,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 163800,
+      "num": 163800,
+      "word": "6名干部违规聚餐狂饮7瓶白酒致1死",
+      "onboard_time": 1704720695,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 161331,
@@ -2067,6 +2083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137252,
+      "num": 137252,
+      "word": "专家解释为什么用电量比发电量还多",
+      "onboard_time": 1704719851,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 137207,
       "num": 137207,
       "word": "陈星旭说给章若楠的爱情无价",
@@ -2145,6 +2169,14 @@
       "onboard_time": 1704703710,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 131779,
+      "num": 131779,
+      "word": "南北方牛奶居然还不一样",
+      "onboard_time": 1704720755,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 130679,
@@ -2275,6 +2307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 120775,
+      "num": 120775,
+      "word": "屈臣氏擅自分装洗护用品被罚15万",
+      "onboard_time": 1704720634,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 118283,
       "num": 118283,
       "word": "把朋友的精神病史告诉她男朋友",
@@ -2395,12 +2435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111500,
-      "num": 111500,
-      "word": "专家解释为什么用电量比发电量还多",
-      "onboard_time": 1704719851,
-      "rank": 46,
-      "category": "科学科普"
+      "raw_hot": 110085,
+      "num": 110085,
+      "word": "繁花明天大结局",
+      "onboard_time": 1704720813,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 110003,
