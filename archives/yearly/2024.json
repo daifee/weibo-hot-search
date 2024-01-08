@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704688582319,
+  "endTime": 1704691067238,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -323,6 +323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1955462,
+      "num": 1955462,
+      "word": "教授建议生个孩子给一居室",
+      "onboard_time": 1704687693,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1897679,
       "num": 1897679,
       "word": "哈尔滨惊现15元1个小土豆挂件",
@@ -401,6 +409,14 @@
       "onboard_time": 1704032709,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1833494,
+      "num": 1833494,
+      "word": "女子到银行存10万现金被问钱来源",
+      "onboard_time": 1704685052,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1832515,
@@ -1033,14 +1049,6 @@
       "onboard_time": 1704673712,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1251455,
-      "num": 1251455,
-      "word": "女子到银行存10万现金被问钱来源",
-      "onboard_time": 1704685052,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1246954,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704104918,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 811002,
-      "num": 811002,
-      "word": "31岁中国男游客在泰国浮潜溺亡",
-      "onboard_time": 1704621152,
-      "rank": 9,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

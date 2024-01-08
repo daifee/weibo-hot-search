@@ -1,0 +1,410 @@
+{
+  "runTime": 1704691067238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1955462,
+        "num": 1955462,
+        "word": "教授建议生个孩子给一居室",
+        "onboard_time": 1704687693,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1833494,
+        "num": 1833494,
+        "word": "女子到银行存10万现金被问钱来源",
+        "onboard_time": 1704685052,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96911,
+        "num": 1207689,
+        "word": "2024第一周忙碌带来确定性",
+        "onboard_time": 1704685230,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746295,
+        "num": 746295,
+        "word": "车厘子每斤便宜60元",
+        "onboard_time": 1704684392,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 600481,
+        "num": 600481,
+        "word": "常怡去世",
+        "onboard_time": 1704685593,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600062,
+        "num": 600062,
+        "word": "辛芷蕾喝多了",
+        "onboard_time": 1704673712,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541289,
+        "num": 541289,
+        "word": "日本一核电站震后漏油入海",
+        "onboard_time": 1704686674,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517297,
+        "num": 517297,
+        "word": "杨紫国色芳华造型",
+        "onboard_time": 1704685474,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494458,
+        "num": 494458,
+        "word": "霉霉又双叒世一了",
+        "onboard_time": 1704687393,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 470778,
+        "num": 470778,
+        "word": "恒大刘永灼被刑拘",
+        "onboard_time": 1704689557,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2738250,
+        "num": 470150,
+        "word": "6人奸淫不满14周岁幼女被判刑",
+        "onboard_time": 1704680789,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467968,
+        "num": 467968,
+        "word": "广州一中学花近5万买破解Wii",
+        "onboard_time": 1704685352,
+        "rank": 11,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 404766,
+        "num": 404766,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1704680789,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386734,
+        "num": 386734,
+        "word": "送房的话你愿意生孩子吗",
+        "onboard_time": 1704689433,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378491,
+        "num": 378491,
+        "word": "杨幂申请强制侵权商家致歉",
+        "onboard_time": 1704690513,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357738,
+        "num": 357738,
+        "word": "小伙裸辞卖预制菜年亏40万后逆袭",
+        "onboard_time": 1704680847,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350137,
+        "num": 350137,
+        "word": "微博之夜第五波官宣阵容",
+        "onboard_time": 1704687336,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349798,
+        "num": 349798,
+        "word": "郑强称60岁退休确实早了一点",
+        "onboard_time": 1704679587,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334743,
+        "num": 334743,
+        "word": "为什么网吧老板不会赶走蹭睡的人",
+        "onboard_time": 1704671666,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295286,
+        "num": 295286,
+        "word": "黑龙江蔓越莓太受欢迎了",
+        "onboard_time": 1704684693,
+        "rank": 19,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 539689,
+        "num": 292597,
+        "word": "姐姐结婚后不能一起过年了",
+        "onboard_time": 1704687693,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 420374,
+        "num": 289424,
+        "word": "新型分手方式",
+        "onboard_time": 1704686915,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301612,
+        "num": 281834,
+        "word": "恋与深空",
+        "onboard_time": 1704689075,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267099,
+        "num": 267099,
+        "word": "为什么看病总要做血常规",
+        "onboard_time": 1704683670,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 265573,
+        "num": 265573,
+        "word": "保护A股股民合法权益",
+        "onboard_time": 1704684451,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258730,
+        "num": 258730,
+        "word": "薛冰冰给刘诗诗化的妆",
+        "onboard_time": 1704690993,
+        "rank": 25,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 244967,
+        "num": 244967,
+        "word": "上海唯一一家梦特娇服装店或将闭店",
+        "onboard_time": 1704689136,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238207,
+        "num": 238207,
+        "word": "奥本海默赢很大",
+        "onboard_time": 1704687877,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226808,
+        "num": 226808,
+        "word": "第一批小东北虎已抵达桂林",
+        "onboard_time": 1704669140,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 225084,
+        "num": 225084,
+        "word": "深圳欢乐谷回应事故调查报告",
+        "onboard_time": 1704686976,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224537,
+        "num": 224537,
+        "word": "岳云鹏曾被30人围观洗澡",
+        "onboard_time": 1704677908,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224308,
+        "num": 224308,
+        "word": "等国考成绩",
+        "onboard_time": 1704676172,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 213621,
+        "num": 213621,
+        "word": "霉霉绿裙子好闪",
+        "onboard_time": 1704682653,
+        "rank": 32,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 31679,
+        "num": 211733,
+        "word": "国产手机屏幕有多硬核",
+        "onboard_time": 1704690394,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210174,
+        "num": 210174,
+        "word": "华莱士送10万份套餐",
+        "onboard_time": 1704679828,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 201741,
+        "num": 201741,
+        "word": "尔滨的驯鹿已经学会主动贴贴了",
+        "onboard_time": 1704689615,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 199047,
+        "num": 199047,
+        "word": "湖人战胜快船",
+        "onboard_time": 1704690632,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182762,
+        "num": 182762,
+        "word": "成毅杂志",
+        "onboard_time": 1704688234,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177778,
+        "num": 177778,
+        "word": "詹姆斯隔扣乔治",
+        "onboard_time": 1704687273,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173661,
+        "num": 173661,
+        "word": "爱泼斯坦生前掌握特朗普希拉里黑料",
+        "onboard_time": 1704690874,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168303,
+        "num": 168303,
+        "word": "黑熊爬高压电塔触电仰面倒地死亡",
+        "onboard_time": 1704685891,
+        "rank": 40,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 166605,
+        "num": 166605,
+        "word": "胡歌 爆剧玄学",
+        "onboard_time": 1704669741,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161410,
+        "num": 161410,
+        "word": "EXO今后活动方向",
+        "onboard_time": 1704682530,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160509,
+        "num": 160509,
+        "word": "繁花阿宝爷叔闹掰了",
+        "onboard_time": 1704690936,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155542,
+        "num": 155542,
+        "word": "美国爱泼斯坦名单一窥",
+        "onboard_time": 1704676710,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153902,
+        "num": 153902,
+        "word": "游客偶遇小熊猫打架想劝架被吓退",
+        "onboard_time": 1704690936,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153762,
+        "num": 153762,
+        "word": "快船vs湖人",
+        "onboard_time": 1704681390,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148761,
+        "num": 148761,
+        "word": "消费者表示卸妆油用后长痘",
+        "onboard_time": 1704690155,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142907,
+        "num": 142907,
+        "word": "马斯克回应吸毒",
+        "onboard_time": 1704672148,
+        "rank": 48,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 142387,
+        "num": 142387,
+        "word": "俄罗斯小套娃抵达黑龙江",
+        "onboard_time": 1704684511,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#正风反腐永远吹冲锋号#"
+    }
+  }
+}

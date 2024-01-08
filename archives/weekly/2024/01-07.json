@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704688582319,
+  "endTime": 1704691067238,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -41,6 +41,22 @@
       "onboard_time": 1704616348,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1955462,
+      "num": 1955462,
+      "word": "教授建议生个孩子给一居室",
+      "onboard_time": 1704687693,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1833494,
+      "num": 1833494,
+      "word": "女子到银行存10万现金被问钱来源",
+      "onboard_time": 1704685052,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1721660,
@@ -121,14 +137,6 @@
       "onboard_time": 1704673712,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1251455,
-      "num": 1251455,
-      "word": "女子到银行存10万现金被问钱来源",
-      "onboard_time": 1704685052,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1217319,
@@ -675,14 +683,6 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 577819,
-      "num": 359272,
-      "word": "教授建议生个孩子给一居室",
-      "onboard_time": 1704687693,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 572064,
       "num": 572064,
       "word": "王心凌 纯白圣女",
@@ -761,6 +761,14 @@
       "onboard_time": 1704613952,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539689,
+      "num": 351354,
+      "word": "姐姐结婚后不能一起过年了",
+      "onboard_time": 1704687693,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 530927,
@@ -851,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494458,
+      "num": 494458,
+      "word": "霉霉又双叒世一了",
+      "onboard_time": 1704687393,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 493432,
       "num": 493432,
       "word": "陈丽华 女首富的格局",
@@ -883,20 +899,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 482955,
-      "num": 351354,
-      "word": "姐姐结婚后不能一起过年了",
-      "onboard_time": 1704687693,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 473322,
       "num": 409318,
       "word": "死期将至 爆哭",
       "onboard_time": 1704584842,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 470778,
+      "num": 470778,
+      "word": "恒大刘永灼被刑拘",
+      "onboard_time": 1704689557,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469206,
@@ -987,20 +1003,20 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 431390,
-      "num": 431390,
-      "word": "霉霉又双叒世一了",
-      "onboard_time": 1704687393,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 426478,
       "num": 426478,
       "word": "国色芳华剧组抓代拍",
       "onboard_time": 1704619470,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 420374,
+      "num": 343553,
+      "word": "新型分手方式",
+      "onboard_time": 1704686915,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 418684,
@@ -1139,19 +1155,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 390829,
-      "num": 343553,
-      "word": "新型分手方式",
-      "onboard_time": 1704686915,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 389836,
       "num": 389836,
       "word": "警犬父母生下幼犬取名110",
       "onboard_time": 1704674733,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386734,
+      "num": 386734,
+      "word": "送房的话你愿意生孩子吗",
+      "onboard_time": 1704689433,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1177,6 +1193,14 @@
       "onboard_time": 1704682530,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 378491,
+      "num": 378491,
+      "word": "杨幂申请强制侵权商家致歉",
+      "onboard_time": 1704690513,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 372051,
@@ -1403,6 +1427,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 301612,
+      "num": 281834,
+      "word": "恋与深空",
+      "onboard_time": 1704689075,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 300350,
       "num": 300350,
       "word": "奥本海默赢很大",
@@ -1571,6 +1603,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 258730,
+      "num": 258730,
+      "word": "薛冰冰给刘诗诗化的妆",
+      "onboard_time": 1704690993,
+      "rank": 25,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 256848,
       "num": 256848,
       "word": "ZICO和华莎第一个Any Song Challenge",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1704672211,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244967,
+      "num": 244967,
+      "word": "上海唯一一家梦特娇服装店或将闭店",
+      "onboard_time": 1704689136,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244960,
@@ -1923,6 +1971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 201741,
+      "num": 201741,
+      "word": "尔滨的驯鹿已经学会主动贴贴了",
+      "onboard_time": 1704689615,
+      "rank": 35,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 201084,
       "num": 201084,
       "word": "龙年茅台申购每瓶2499元",
@@ -1953,6 +2009,14 @@
       "onboard_time": 1704688535,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199047,
+      "num": 199047,
+      "word": "湖人战胜快船",
+      "onboard_time": 1704690632,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 197535,
@@ -2251,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173661,
+      "num": 173661,
+      "word": "爱泼斯坦生前掌握特朗普希拉里黑料",
+      "onboard_time": 1704690874,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173624,
       "num": 173624,
       "word": "为啥看中医最好早上去",
@@ -2443,6 +2515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160509,
+      "num": 160509,
+      "word": "繁花阿宝爷叔闹掰了",
+      "onboard_time": 1704690936,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160143,
       "num": 160143,
       "word": "联合杯德国队夺冠",
@@ -2587,6 +2667,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153902,
+      "num": 153902,
+      "word": "游客偶遇小熊猫打架想劝架被吓退",
+      "onboard_time": 1704690936,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153762,
+      "num": 153762,
+      "word": "快船vs湖人",
+      "onboard_time": 1704681390,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152825,
       "num": 152825,
       "word": "小时候总有那么一个亲戚",
@@ -2681,6 +2777,14 @@
       "onboard_time": 1704551914,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148761,
+      "num": 148761,
+      "word": "消费者表示卸妆油用后长痘",
+      "onboard_time": 1704690155,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 146023,
@@ -3297,14 +3401,6 @@
       "onboard_time": 1704593789,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 112173,
-      "num": 112173,
-      "word": "快船vs湖人",
-      "onboard_time": 1704681390,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 112154,
@@ -3993,6 +4089,14 @@
       "onboard_time": 1704576614,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31679,
+      "num": 211733,
+      "word": "国产手机屏幕有多硬核",
+      "onboard_time": 1704690394,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 30553,
