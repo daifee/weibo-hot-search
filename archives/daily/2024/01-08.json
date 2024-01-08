@@ -1,10 +1,10 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704683958649,
+  "endTime": 1704684851254,
   "band_list": [
     {
-      "raw_hot": 2901927,
-      "num": 2901927,
+      "raw_hot": 3342559,
+      "num": 3342559,
       "word": "6人奸淫不满14周岁幼女被判刑",
       "onboard_time": 1704680789,
       "rank": 30,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1142674,
+      "num": 1142674,
+      "word": "郑强称60岁退休确实早了一点",
+      "onboard_time": 1704679587,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1096431,
       "num": 1096431,
       "word": "为什么网吧老板不会赶走蹭睡的人",
@@ -51,28 +59,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1044245,
+      "num": 1044245,
+      "word": "小伙裸辞卖预制菜年亏40万后逆袭",
+      "onboard_time": 1704680847,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1037679,
       "num": 1037679,
       "word": "岳云鹏曾被30人围观洗澡",
       "onboard_time": 1704677908,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1018456,
-      "num": 1018456,
-      "word": "郑强称60岁退休确实早了一点",
-      "onboard_time": 1704679587,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 928550,
-      "num": 928550,
-      "word": "小伙裸辞卖预制菜年亏40万后逆袭",
-      "onboard_time": 1704680847,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 902403,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617181,
+      "num": 617181,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1704680789,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 612293,
       "num": 457867,
       "word": "美国爱泼斯坦名单一窥",
@@ -193,14 +201,6 @@
       "onboard_time": 1704632012,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 568549,
-      "num": 568549,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1704680789,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 564813,
@@ -251,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 483675,
+      "num": 483675,
+      "word": "等国考成绩",
+      "onboard_time": 1704676172,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 469858,
       "num": 469858,
       "word": "贪官花40多万元建了条500米断头路",
@@ -265,14 +273,6 @@
       "onboard_time": 1704669023,
       "rank": 17,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 397828,
-      "num": 397828,
-      "word": "等国考成绩",
-      "onboard_time": 1704676172,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 389836,
@@ -315,6 +315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 361418,
+      "num": 361418,
+      "word": "霉霉绿裙子好闪",
+      "onboard_time": 1704682653,
+      "rank": 19,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 354451,
       "num": 354451,
       "word": "游本昌51到90岁荧幕变化",
@@ -347,8 +355,32 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 306317,
+      "num": 177165,
+      "word": "车厘子每斤便宜60元",
+      "onboard_time": 1704684392,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 305164,
+      "num": 305164,
+      "word": "猫猫没有骨头的铁证",
+      "onboard_time": 1704681930,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 298197,
+      "num": 256193,
+      "word": "为什么看病总要做血常规",
+      "onboard_time": 1704683670,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 292419,
-      "num": 184666,
+      "num": 255724,
       "word": "为什么今年羽绒服价格不菲还这么火",
       "onboard_time": 1704682050,
       "rank": 31,
@@ -359,14 +391,6 @@
       "num": 289014,
       "word": "睿宝被爱宝凶了",
       "onboard_time": 1704673712,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 288694,
-      "num": 288694,
-      "word": "猫猫没有骨头的铁证",
-      "onboard_time": 1704681930,
       "rank": 15,
       "category": "幽默"
     },
@@ -411,20 +435,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260557,
-      "num": 260557,
-      "word": "霉霉绿裙子好闪",
-      "onboard_time": 1704682653,
-      "rank": 19,
-      "category": "电影,时尚"
-    },
-    {
       "raw_hot": 259316,
       "num": 214173,
       "word": "心疼爷叔",
       "onboard_time": 1704633031,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256848,
+      "num": 256848,
+      "word": "ZICO和华莎第一个Any Song Challenge",
+      "onboard_time": 1704682771,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 256016,
@@ -451,12 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240580,
-      "num": 240580,
-      "word": "ZICO和华莎第一个Any Song Challenge",
-      "onboard_time": 1704682771,
-      "rank": 22,
-      "category": "音乐"
+      "raw_hot": 239307,
+      "num": 239307,
+      "word": "颈椎最喜欢的三个动作",
+      "onboard_time": 1704681269,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 233642,
@@ -481,14 +505,6 @@
       "onboard_time": 1704669321,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 213820,
-      "num": 213820,
-      "word": "颈椎最喜欢的三个动作",
-      "onboard_time": 1704681269,
-      "rank": 32,
-      "category": "运动健身"
     },
     {
       "raw_hot": 205137,
@@ -523,6 +539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201358,
+      "num": 201358,
+      "word": "保护A股股民合法权益",
+      "onboard_time": 1704684451,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 200363,
       "num": 200363,
       "word": "京东联名卡",
@@ -537,6 +561,14 @@
       "onboard_time": 1704675932,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 196496,
+      "num": 196496,
+      "word": "山东高考听力",
+      "onboard_time": 1704683732,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 196228,
@@ -587,14 +619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 176634,
-      "num": 176634,
-      "word": "山东高考听力",
-      "onboard_time": 1704683732,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 174983,
       "num": 174983,
       "word": "曝姆巴佩加盟皇马达协议",
@@ -617,6 +641,14 @@
       "onboard_time": 1704671546,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170443,
+      "num": 170443,
+      "word": "尼欧克斯仅10人参保",
+      "onboard_time": 1704684211,
+      "rank": 33,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 161331,
@@ -667,19 +699,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 142333,
-      "num": 142333,
-      "word": "为什么看病总要做血常规",
-      "onboard_time": 1704683670,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 141564,
       "num": 141564,
       "word": "清澈的爱只为中国壁纸女孩回应",
       "onboard_time": 1704670044,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138002,
+      "num": 138002,
+      "word": "俄罗斯小套娃抵达黑龙江",
+      "onboard_time": 1704684511,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -705,6 +737,14 @@
       "onboard_time": 1704674312,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135989,
+      "num": 135989,
+      "word": "黑龙江蔓越莓太受欢迎了",
+      "onboard_time": 1704684693,
+      "rank": 41,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 135037,
@@ -835,8 +875,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112111,
-      "num": 112111,
+      "raw_hot": 112173,
+      "num": 112173,
       "word": "快船vs湖人",
       "onboard_time": 1704681390,
       "rank": 44,

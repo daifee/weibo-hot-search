@@ -1,10 +1,10 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704683958649,
+  "endTime": 1704684851254,
   "band_list": [
     {
-      "raw_hot": 2901927,
-      "num": 2901927,
+      "raw_hot": 3342559,
+      "num": 3342559,
       "word": "6人奸淫不满14周岁幼女被判刑",
       "onboard_time": 1704680789,
       "rank": 30,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1142674,
+      "num": 1142674,
+      "word": "郑强称60岁退休确实早了一点",
+      "onboard_time": 1704679587,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1131528,
       "num": 1131528,
       "word": "庄嫂摔碗 郑恺关门",
@@ -195,6 +203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1044245,
+      "num": 1044245,
+      "word": "小伙裸辞卖预制菜年亏40万后逆袭",
+      "onboard_time": 1704680847,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1043718,
       "num": 1043718,
       "word": "3同学租车出车祸开车同学遭索赔59万",
@@ -217,14 +233,6 @@
       "onboard_time": 1704637175,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1018456,
-      "num": 1018456,
-      "word": "郑强称60岁退休确实早了一点",
-      "onboard_time": 1704679587,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 990600,
@@ -281,14 +289,6 @@
       "onboard_time": 1704596190,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 928550,
-      "num": 928550,
-      "word": "小伙裸辞卖预制菜年亏40万后逆袭",
-      "onboard_time": 1704680847,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 902403,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617181,
+      "num": 617181,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1704680789,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 612293,
       "num": 457867,
       "word": "美国爱泼斯坦名单一窥",
@@ -633,14 +641,6 @@
       "onboard_time": 1704622352,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 568549,
-      "num": 568549,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1704680789,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 564813,
@@ -809,6 +809,14 @@
       "onboard_time": 1704634894,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 483675,
+      "num": 483675,
+      "word": "等国考成绩",
+      "onboard_time": 1704676172,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 473322,
@@ -1011,14 +1019,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 397828,
-      "num": 397828,
-      "word": "等国考成绩",
-      "onboard_time": 1704676172,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 396085,
       "num": 396085,
       "word": "刘雅瑟一滴泪演技太虐了",
@@ -1089,6 +1089,14 @@
       "onboard_time": 1704601472,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361418,
+      "num": 361418,
+      "word": "霉霉绿裙子好闪",
+      "onboard_time": 1704682653,
+      "rank": 19,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 354451,
@@ -1251,6 +1259,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 306317,
+      "num": 177165,
+      "word": "车厘子每斤便宜60元",
+      "onboard_time": 1704684392,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 305164,
+      "num": 305164,
+      "word": "猫猫没有骨头的铁证",
+      "onboard_time": 1704681930,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 304314,
       "num": 304314,
       "word": "杨紫李现国色芳华捧脸路透",
@@ -1275,6 +1299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 298197,
+      "num": 256193,
+      "word": "为什么看病总要做血常规",
+      "onboard_time": 1704683670,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 295174,
       "num": 295174,
       "word": "健康人群午睡最好别超半小时",
@@ -1284,7 +1316,7 @@
     },
     {
       "raw_hot": 292419,
-      "num": 184666,
+      "num": 255724,
       "word": "为什么今年羽绒服价格不菲还这么火",
       "onboard_time": 1704682050,
       "rank": 31,
@@ -1313,14 +1345,6 @@
       "onboard_time": 1704600990,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288694,
-      "num": 288694,
-      "word": "猫猫没有骨头的铁证",
-      "onboard_time": 1704681930,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 288667,
@@ -1411,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260557,
-      "num": 260557,
-      "word": "霉霉绿裙子好闪",
-      "onboard_time": 1704682653,
-      "rank": 19,
-      "category": "电影,时尚"
-    },
-    {
       "raw_hot": 260437,
       "num": 260437,
       "word": "日本能登地区已发生1000余次地震",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1704629371,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256848,
+      "num": 256848,
+      "word": "ZICO和华莎第一个Any Song Challenge",
+      "onboard_time": 1704682771,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 256068,
@@ -1523,20 +1547,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 240580,
-      "num": 240580,
-      "word": "ZICO和华莎第一个Any Song Challenge",
-      "onboard_time": 1704682771,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 240539,
       "num": 240539,
       "word": "沈春阳想见朱一龙",
       "onboard_time": 1704639336,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239307,
+      "num": 239307,
+      "word": "颈椎最喜欢的三个动作",
+      "onboard_time": 1704681269,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 233642,
@@ -1635,14 +1659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213820,
-      "num": 213820,
-      "word": "颈椎最喜欢的三个动作",
-      "onboard_time": 1704681269,
-      "rank": 32,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 212826,
       "num": 212826,
       "word": "陈奕迅巡演内地首唱富士山下",
@@ -1739,6 +1755,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 201358,
+      "num": 201358,
+      "word": "保护A股股民合法权益",
+      "onboard_time": 1704684451,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 201084,
       "num": 201084,
       "word": "龙年茅台申购每瓶2499元",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1704619529,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196496,
+      "num": 196496,
+      "word": "山东高考听力",
+      "onboard_time": 1704683732,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 196358,
@@ -1979,14 +2011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176634,
-      "num": 176634,
-      "word": "山东高考听力",
-      "onboard_time": 1704683732,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 176039,
       "num": 199065,
       "word": "野生东北虎被拍到下山爪子带血",
@@ -2097,6 +2121,14 @@
       "onboard_time": 1704552215,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 170443,
+      "num": 170443,
+      "word": "尼欧克斯仅10人参保",
+      "onboard_time": 1704684211,
+      "rank": 33,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 169778,
@@ -2515,14 +2547,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 142333,
-      "num": 142333,
-      "word": "为什么看病总要做血常规",
-      "onboard_time": 1704683670,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 141912,
       "num": 141912,
       "word": "一口青梅精引发的重大事故",
@@ -2571,6 +2595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138002,
+      "num": 138002,
+      "word": "俄罗斯小套娃抵达黑龙江",
+      "onboard_time": 1704684511,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137400,
       "num": 137400,
       "word": "羽生结弦纪录片",
@@ -2585,6 +2617,14 @@
       "onboard_time": 1704674312,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135989,
+      "num": 135989,
+      "word": "黑龙江蔓越莓太受欢迎了",
+      "onboard_time": 1704684693,
+      "rank": 41,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 135432,
@@ -3067,20 +3107,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 112173,
+      "num": 112173,
+      "word": "快船vs湖人",
+      "onboard_time": 1704681390,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112154,
       "num": 112154,
       "word": "集齐FMVP打野召唤风龙",
       "onboard_time": 1704616409,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112111,
-      "num": 112111,
-      "word": "快船vs湖人",
-      "onboard_time": 1704681390,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 111977,
