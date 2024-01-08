@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704703010610,
+  "endTime": 1704705520425,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -331,12 +331,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 984118,
+      "num": 984118,
+      "word": "林府家规",
+      "onboard_time": 1704703350,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 959210,
       "num": 959210,
       "word": "儿子身陷缅北父亲筹47万欲捞人被司法所劝住",
       "onboard_time": 1704554314,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 957629,
+      "num": 957629,
+      "word": "于正面试赵昭仪视频",
+      "onboard_time": 1704703350,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 956831,
@@ -667,6 +683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 646416,
+      "num": 646416,
+      "word": "朱一龙恢复状况",
+      "onboard_time": 1704702450,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641354,
       "num": 641354,
       "word": "王俊凯将出席2024巴黎时装周",
@@ -755,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 595069,
+      "num": 595069,
+      "word": "掌心 刘诗诗",
+      "onboard_time": 1704704249,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 591941,
       "num": 591941,
       "word": "父母从新疆给远嫁女儿寄50斤羊肉",
@@ -769,6 +801,14 @@
       "onboard_time": 1704601713,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 584827,
+      "num": 473163,
+      "word": "不生孩子的下半辈子",
+      "onboard_time": 1704704910,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 584669,
@@ -1000,6 +1040,14 @@
       "word": "深圳欢乐谷回应事故调查报告",
       "onboard_time": 1704686976,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494399,
+      "num": 494399,
+      "word": "幼儿园宝宝全勤奖是棵大芹菜",
+      "onboard_time": 1704703108,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1371,14 +1419,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 385388,
-      "num": 385388,
-      "word": "朱一龙恢复状况",
-      "onboard_time": 1704702450,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 385236,
       "num": 385236,
       "word": "京东联名卡 抢不到",
@@ -1393,6 +1433,14 @@
       "onboard_time": 1704682530,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 372140,
+      "num": 372140,
+      "word": "美股遭遇20年来最糟糕开局",
+      "onboard_time": 1704703950,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 372051,
@@ -1561,6 +1609,14 @@
       "onboard_time": 1704701250,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 319647,
+      "num": 319647,
+      "word": "ITZY回归",
+      "onboard_time": 1704704849,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 318539,
@@ -1747,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288405,
+      "num": 259796,
+      "word": "蔓越莓竟然是在水中采摘的",
+      "onboard_time": 1704705330,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 286307,
       "num": 286307,
       "word": "金球奖",
@@ -1931,6 +1995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 249518,
+      "num": 249518,
+      "word": "珠帘玉幕",
+      "onboard_time": 1704704610,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248199,
       "num": 248199,
       "word": "彭小苒雪地公主妆",
@@ -2025,6 +2097,14 @@
       "onboard_time": 1704588628,
       "rank": 21,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 233204,
+      "num": 233204,
+      "word": "官方通报大学生358元雪乡两日游",
+      "onboard_time": 1704705030,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233030,
@@ -2297,6 +2377,14 @@
       "onboard_time": 1704605912,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 200995,
+      "num": 177163,
+      "word": "教资面试成绩查询渠道",
+      "onboard_time": 1704704849,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 200363,
@@ -2585,6 +2673,14 @@
       "onboard_time": 1704592050,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180600,
+      "num": 180600,
+      "word": "安徽武校投毒案2被告人获死刑",
+      "onboard_time": 1704704069,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180474,
@@ -3195,6 +3291,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 147445,
+      "num": 147445,
+      "word": "OPPO Find X7价格",
+      "onboard_time": 1704704131,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146193,
       "num": 146193,
       "word": "i人拍照",
@@ -3363,6 +3467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135703,
+      "num": 135703,
+      "word": "台湾女生在东北第一次吃冰糖葫芦",
+      "onboard_time": 1704705330,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135432,
       "num": 135432,
       "word": "大熊猫莽仔第五个幼崽取名莽灿灿",
@@ -3427,6 +3539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133348,
+      "num": 133348,
+      "word": "博主就文科言论起诉张雪峰案已立案",
+      "onboard_time": 1704705330,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133239,
       "num": 133239,
       "word": "上大学后才知道的人情世故",
@@ -3449,6 +3569,14 @@
       "onboard_time": 1704627991,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132420,
+      "num": 124700,
+      "word": "OPPO 全球首款双潜望",
+      "onboard_time": 1704703710,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 131918,
@@ -3707,6 +3835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122798,
+      "num": 122798,
+      "word": "胡锡进总浮亏突破6万元",
+      "onboard_time": 1704705512,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122702,
       "num": 122702,
       "word": "为什么你比同龄人显老",
@@ -3809,6 +3945,14 @@
       "onboard_time": 1704583519,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 118003,
+      "num": 118003,
+      "word": "去年超2600个商业银行网点关门",
+      "onboard_time": 1704703649,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 117858,
@@ -4372,7 +4516,7 @@
     },
     {
       "raw_hot": 89447,
-      "num": 89447,
+      "num": 120342,
       "word": "OPPO推出GPT大模型手机",
       "onboard_time": 1704702930,
       "rank": 49,
@@ -4563,6 +4707,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 43606,
+      "num": 177320,
+      "word": "FindX7卷翻同行Pro版",
+      "onboard_time": 1704703591,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43332,
       "num": 43332,
       "word": "厦门马拉松",
@@ -4585,6 +4737,14 @@
       "onboard_time": 1704581595,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39113,
+      "num": 259840,
+      "word": "FindX7价格秒了",
+      "onboard_time": 1704704730,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 38524,
@@ -4619,7 +4779,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 32322,
+      "raw_hot": 32763,
       "num": 1014710,
       "word": "聚焦中国经济圆桌会",
       "onboard_time": 1704701372,

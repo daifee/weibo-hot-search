@@ -1,0 +1,410 @@
+{
+  "runTime": 1704705520425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1248265,
+        "num": 1248265,
+        "word": "女子谎称外卖吃出异物200多次被刑拘",
+        "onboard_time": 1704697051,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984118,
+        "num": 984118,
+        "word": "林府家规",
+        "onboard_time": 1704703350,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32763,
+        "num": 969226,
+        "word": "聚焦中国经济圆桌会",
+        "onboard_time": 1704701372,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957629,
+        "num": 957629,
+        "word": "于正面试赵昭仪视频",
+        "onboard_time": 1704703350,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 901586,
+        "num": 901586,
+        "word": "千万网红团队成员约架致一人身亡",
+        "onboard_time": 1704694649,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 721811,
+        "num": 721811,
+        "word": "教授建议生个孩子给一居室",
+        "onboard_time": 1704687693,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711543,
+        "num": 711543,
+        "word": "杨紫李现牵手同框路透",
+        "onboard_time": 1704698190,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646416,
+        "num": 646416,
+        "word": "朱一龙恢复状况",
+        "onboard_time": 1704702450,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595069,
+        "num": 595069,
+        "word": "掌心 刘诗诗",
+        "onboard_time": 1704704249,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494399,
+        "num": 494399,
+        "word": "幼儿园宝宝全勤奖是棵大芹菜",
+        "onboard_time": 1704703108,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584827,
+        "num": 473163,
+        "word": "不生孩子的下半辈子",
+        "onboard_time": 1704704910,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436383,
+        "num": 436383,
+        "word": "银行4个窗口只开1个被男子怒怼",
+        "onboard_time": 1704698131,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393086,
+        "num": 393086,
+        "word": "肖战藏海传最新路透",
+        "onboard_time": 1704702450,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372140,
+        "num": 372140,
+        "word": "美股遭遇20年来最糟糕开局",
+        "onboard_time": 1704703950,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 345235,
+        "num": 345235,
+        "word": "沙特发现世界级金矿",
+        "onboard_time": 1704695489,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338334,
+        "num": 338334,
+        "word": "曝袁惟仁意识不清",
+        "onboard_time": 1704700170,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337379,
+        "num": 337379,
+        "word": "女子到银行存10万现金被问钱来源",
+        "onboard_time": 1704685052,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326520,
+        "num": 326520,
+        "word": "女子过安检保温杯里藏刀",
+        "onboard_time": 1704696930,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319647,
+        "num": 319647,
+        "word": "ITZY回归",
+        "onboard_time": 1704704849,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266380,
+        "num": 266380,
+        "word": "刘亦菲抱狗工作",
+        "onboard_time": 1704700469,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39113,
+        "num": 259840,
+        "word": "FindX7价格秒了",
+        "onboard_time": 1704704730,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 288405,
+        "num": 259796,
+        "word": "蔓越莓竟然是在水中采摘的",
+        "onboard_time": 1704705330,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 257403,
+        "num": 257403,
+        "word": "乌克兰军方称乌全境拉响防空警报",
+        "onboard_time": 1704697352,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 249518,
+        "num": 249518,
+        "word": "珠帘玉幕",
+        "onboard_time": 1704704610,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237433,
+        "num": 237433,
+        "word": "安徽武校投毒案一审宣判",
+        "onboard_time": 1704700410,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233204,
+        "num": 233204,
+        "word": "官方通报大学生358元雪乡两日游",
+        "onboard_time": 1704705030,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224484,
+        "num": 224484,
+        "word": "00后男孩500元一天出租自己",
+        "onboard_time": 1704696569,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 206937,
+        "num": 206937,
+        "word": "车厘子每斤便宜60元",
+        "onboard_time": 1704684392,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 196258,
+        "num": 196258,
+        "word": "Switch烧录卡",
+        "onboard_time": 1704701250,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180600,
+        "num": 180600,
+        "word": "安徽武校投毒案2被告人获死刑",
+        "onboard_time": 1704704069,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43606,
+        "num": 177320,
+        "word": "FindX7卷翻同行Pro版",
+        "onboard_time": 1704703591,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 466222,
+        "num": 177217,
+        "word": "6人奸淫不满14周岁幼女被判刑",
+        "onboard_time": 1704680789,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200995,
+        "num": 177163,
+        "word": "教资面试成绩查询渠道",
+        "onboard_time": 1704704849,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177085,
+        "num": 177085,
+        "word": "小米汽车回应50万内没有对手",
+        "onboard_time": 1704699870,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 173648,
+        "num": 173648,
+        "word": "大冻梨街头走秀小土豆被身高暴击",
+        "onboard_time": 1704691113,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 147445,
+        "num": 147445,
+        "word": "OPPO Find X7价格",
+        "onboard_time": 1704704131,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141422,
+        "num": 141422,
+        "word": "武汉90后会计转行做家政月入4万",
+        "onboard_time": 1704701310,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139615,
+        "num": 139615,
+        "word": "吴京式男人",
+        "onboard_time": 1704699571,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138036,
+        "num": 138036,
+        "word": "辛芷蕾喝多了",
+        "onboard_time": 1704673712,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135703,
+        "num": 135703,
+        "word": "台湾女生在东北第一次吃冰糖葫芦",
+        "onboard_time": 1704705330,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133348,
+        "num": 133348,
+        "word": "博主就文科言论起诉张雪峰案已立案",
+        "onboard_time": 1704705330,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131975,
+        "num": 131975,
+        "word": "王一博你睡了吗",
+        "onboard_time": 1704692370,
+        "rank": 41,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 124988,
+        "num": 124988,
+        "word": "姐姐结婚后不能一起过年了",
+        "onboard_time": 1704687693,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132420,
+        "num": 124700,
+        "word": "OPPO 全球首款双潜望",
+        "onboard_time": 1704703710,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122798,
+        "num": 122798,
+        "word": "胡锡进总浮亏突破6万元",
+        "onboard_time": 1704705512,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83051,
+        "num": 120342,
+        "word": "OPPO推出GPT大模型手机",
+        "onboard_time": 1704702930,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118860,
+        "num": 118860,
+        "word": "日本地震323人下落不明",
+        "onboard_time": 1704699211,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118003,
+        "num": 118003,
+        "word": "去年超2600个商业银行网点关门",
+        "onboard_time": 1704703649,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115560,
+        "num": 115560,
+        "word": "黄子佼方辟谣去世传闻",
+        "onboard_time": 1704697710,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115421,
+        "num": 115421,
+        "word": "刘诗诗紫色葡萄妆",
+        "onboard_time": 1704701188,
+        "rank": 49,
+        "category": "作品衍生,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#正风反腐永远吹冲锋号#"
+    }
+  }
+}

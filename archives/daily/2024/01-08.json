@@ -1,6 +1,6 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704703010610,
+  "endTime": 1704705520425,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -147,6 +147,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 984118,
+      "num": 984118,
+      "word": "林府家规",
+      "onboard_time": 1704703350,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 957629,
+      "num": 957629,
+      "word": "于正面试赵昭仪视频",
+      "onboard_time": 1704703350,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 902403,
       "num": 902403,
       "word": "深圳欢乐谷过山车事故9人被追责问责",
@@ -291,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 646416,
+      "num": 646416,
+      "word": "朱一龙恢复状况",
+      "onboard_time": 1704702450,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 640984,
       "num": 388731,
       "word": "马斯克被曝吸毒",
@@ -345,6 +369,22 @@
       "onboard_time": 1704632012,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 595069,
+      "num": 595069,
+      "word": "掌心 刘诗诗",
+      "onboard_time": 1704704249,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 584827,
+      "num": 473163,
+      "word": "不生孩子的下半辈子",
+      "onboard_time": 1704704910,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 581353,
@@ -456,6 +496,14 @@
       "word": "深圳欢乐谷回应事故调查报告",
       "onboard_time": 1704686976,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494399,
+      "num": 494399,
+      "word": "幼儿园宝宝全勤奖是棵大芹菜",
+      "onboard_time": 1704703108,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -603,14 +651,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 385388,
-      "num": 385388,
-      "word": "朱一龙恢复状况",
-      "onboard_time": 1704702450,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 382940,
       "num": 382940,
       "word": "刘亦菲 唐嫣是最好的汪小姐",
@@ -633,6 +673,14 @@
       "onboard_time": 1704635614,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 372140,
+      "num": 372140,
+      "word": "美股遭遇20年来最糟糕开局",
+      "onboard_time": 1704703950,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 372051,
@@ -705,6 +753,14 @@
       "onboard_time": 1704701250,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 319647,
+      "num": 319647,
+      "word": "ITZY回归",
+      "onboard_time": 1704704849,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 313279,
@@ -785,6 +841,14 @@
       "onboard_time": 1704673712,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 288405,
+      "num": 259796,
+      "word": "蔓越莓竟然是在水中采摘的",
+      "onboard_time": 1704705330,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 286307,
@@ -891,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249518,
+      "num": 249518,
+      "word": "珠帘玉幕",
+      "onboard_time": 1704704610,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247026,
       "num": 224637,
       "word": "刘诗诗紫色葡萄妆",
@@ -937,6 +1009,14 @@
       "onboard_time": 1704679287,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 233204,
+      "num": 233204,
+      "word": "官方通报大学生358元雪乡两日游",
+      "onboard_time": 1704705030,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231909,
@@ -1075,6 +1155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200995,
+      "num": 177163,
+      "word": "教资面试成绩查询渠道",
+      "onboard_time": 1704704849,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 200363,
       "num": 200363,
       "word": "京东联名卡",
@@ -1201,6 +1289,14 @@
       "onboard_time": 1704670584,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180600,
+      "num": 180600,
+      "word": "安徽武校投毒案2被告人获死刑",
+      "onboard_time": 1704704069,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180474,
@@ -1395,6 +1491,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 147445,
+      "num": 147445,
+      "word": "OPPO Find X7价格",
+      "onboard_time": 1704704131,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146193,
       "num": 146193,
       "word": "i人拍照",
@@ -1483,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135703,
+      "num": 135703,
+      "word": "台湾女生在东北第一次吃冰糖葫芦",
+      "onboard_time": 1704705330,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135037,
       "num": 135037,
       "word": "巴黎奥运会倒计时200天",
@@ -1513,6 +1625,22 @@
       "onboard_time": 1704676887,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133348,
+      "num": 133348,
+      "word": "博主就文科言论起诉张雪峰案已立案",
+      "onboard_time": 1704705330,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132420,
+      "num": 124700,
+      "word": "OPPO 全球首款双潜望",
+      "onboard_time": 1704703710,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 130679,
@@ -1611,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122798,
+      "num": 122798,
+      "word": "胡锡进总浮亏突破6万元",
+      "onboard_time": 1704705512,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121670,
       "num": 121670,
       "word": "马吟吟 剧抛脸演员",
@@ -1625,6 +1761,14 @@
       "onboard_time": 1704635373,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118003,
+      "num": 118003,
+      "word": "去年超2600个商业银行网点关门",
+      "onboard_time": 1704703649,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 117245,
@@ -1788,7 +1932,7 @@
     },
     {
       "raw_hot": 89447,
-      "num": 89447,
+      "num": 120342,
       "word": "OPPO推出GPT大模型手机",
       "onboard_time": 1704702930,
       "rank": 49,
@@ -1963,6 +2107,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 43606,
+      "num": 177320,
+      "word": "FindX7卷翻同行Pro版",
+      "onboard_time": 1704703591,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43130,
       "num": 717220,
       "word": "全国各地开年即开跑",
@@ -1979,6 +2131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39113,
+      "num": 259840,
+      "word": "FindX7价格秒了",
+      "onboard_time": 1704704730,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 34859,
       "num": 34859,
       "word": "胡歌 魅力依旧",
@@ -1987,7 +2147,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32322,
+      "raw_hot": 32763,
       "num": 1014710,
       "word": "聚焦中国经济圆桌会",
       "onboard_time": 1704701372,
