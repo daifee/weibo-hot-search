@@ -1,7 +1,31 @@
 {
   "startTime": 1704644451777,
-  "endTime": 1704670470135,
+  "endTime": 1704676641840,
   "band_list": [
+    {
+      "raw_hot": 1594101,
+      "num": 1594101,
+      "word": "我国破获一起英国秘密情报局间谍案",
+      "onboard_time": 1704669624,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1265933,
+      "num": 1265933,
+      "word": "马斯克回应吸毒",
+      "onboard_time": 1704672148,
+      "rank": 1,
+      "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 1264227,
+      "num": 1264227,
+      "word": "辛芷蕾喝多了",
+      "onboard_time": 1704673712,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1217319,
       "num": 1217319,
@@ -11,12 +35,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1096431,
+      "num": 1096431,
+      "word": "为什么网吧老板不会赶走蹭睡的人",
+      "onboard_time": 1704671666,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 823243,
       "num": 823243,
       "word": "A先生说辛芷蕾本人很漂亮",
       "onboard_time": 1704637355,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 807274,
+      "num": 807274,
+      "word": "第一批小东北虎已抵达桂林",
+      "onboard_time": 1704669140,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 782961,
+      "num": 782961,
+      "word": "胡歌 爆剧玄学",
+      "onboard_time": 1704669741,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 749921,
+      "num": 749921,
+      "word": "公安机关发现余华英其他拐卖犯罪事实",
+      "onboard_time": 1704670825,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 706715,
@@ -68,7 +124,7 @@
     },
     {
       "raw_hot": 557344,
-      "num": 200078,
+      "num": 235488,
       "word": "我爸退出了家人群",
       "onboard_time": 1704637175,
       "rank": 20,
@@ -123,12 +179,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 412690,
-      "num": 412690,
-      "word": "第一批小东北虎已抵达桂林",
-      "onboard_time": 1704669140,
-      "rank": 14,
-      "category": "旅游"
+      "raw_hot": 389741,
+      "num": 389741,
+      "word": "警犬父母生下幼犬取名110",
+      "onboard_time": 1704674733,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382940,
@@ -147,6 +203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 354451,
+      "num": 354451,
+      "word": "游本昌51到90岁荧幕变化",
+      "onboard_time": 1704670945,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 321496,
       "num": 321496,
       "word": "香菜泡面",
@@ -155,12 +219,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 298147,
-      "num": 298147,
-      "word": "我国破获一起英国秘密情报局间谍案",
-      "onboard_time": 1704669624,
-      "rank": 12,
-      "category": "国内时政"
+      "raw_hot": 289014,
+      "num": 289014,
+      "word": "睿宝被爱宝凶了",
+      "onboard_time": 1704673712,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 276031,
@@ -211,6 +275,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246206,
+      "num": 246206,
+      "word": "网友英国街头偶遇周杰伦",
+      "onboard_time": 1704672211,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242578,
+      "num": 234662,
+      "word": "小熊猫小折耳根来尔滨了",
+      "onboard_time": 1704675812,
+      "rank": 21,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 236788,
+      "num": 236788,
+      "word": "做哈工大的学生也太幸福了",
+      "onboard_time": 1704675812,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 231393,
+      "num": 231393,
+      "word": "等国考成绩",
+      "onboard_time": 1704676172,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 227234,
       "num": 227234,
       "word": "爱泼斯坦",
@@ -219,12 +315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208273,
-      "num": 208273,
-      "word": "胡歌 爆剧玄学",
-      "onboard_time": 1704669741,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 225053,
+      "num": 225053,
+      "word": "身上这6个部位无须过度清洁",
+      "onboard_time": 1704669321,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 207491,
+      "num": 207491,
+      "word": "傅菁接到粉丝爸爸电话的反应",
+      "onboard_time": 1704672330,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 203178,
@@ -243,6 +347,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200100,
+      "num": 200100,
+      "word": "每一片海棠花都诉说着我们的思念",
+      "onboard_time": 1704675932,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 183374,
+      "num": 183374,
+      "word": "日常抗炎习惯",
+      "onboard_time": 1704670584,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180042,
+      "num": 180042,
+      "word": "2024金球奖红毯",
+      "onboard_time": 1704675333,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174414,
       "num": 174414,
       "word": "南宁地铁回应广告画争议",
@@ -251,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158550,
-      "num": 158550,
-      "word": "身上这6个部位无须过度清洁",
-      "onboard_time": 1704669321,
-      "rank": 26,
-      "category": "健康医疗"
+      "raw_hot": 171598,
+      "num": 171598,
+      "word": "花千骨时期的赵丽颖",
+      "onboard_time": 1704671546,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 154834,
@@ -275,6 +403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 141564,
+      "num": 141564,
+      "word": "清澈的爱只为中国壁纸女孩回应",
+      "onboard_time": 1704670044,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137150,
       "num": 137150,
       "word": "影评人说赵丽颖花千骨灵动鲜活",
@@ -291,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136192,
+      "num": 136192,
+      "word": "参加潮汕人婚礼是种什么体验",
+      "onboard_time": 1704674312,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134908,
       "num": 134908,
       "word": "亲人的职业决定了你的副业",
@@ -305,6 +449,38 @@
       "onboard_time": 1704637776,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125382,
+      "num": 125382,
+      "word": "父母3个月后回家姐弟俩激动迎接",
+      "onboard_time": 1704672989,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123688,
+      "num": 123688,
+      "word": "2024年第一个网红城市",
+      "onboard_time": 1704669023,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123625,
+      "num": 123625,
+      "word": "阿森纳0比2利物浦",
+      "onboard_time": 1704676349,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123009,
+      "num": 123009,
+      "word": "男子乘扶梯致玻璃炸裂被超市索赔8300",
+      "onboard_time": 1704658513,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118283,
@@ -347,6 +523,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105399,
+      "num": 105399,
+      "word": "高质量婚姻的定律",
+      "onboard_time": 1704670044,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 103580,
+      "num": 103580,
+      "word": "北京尼欧克斯科技有限公司",
+      "onboard_time": 1704672027,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99918,
       "num": 99918,
       "word": "酒鬼去汪星了",
@@ -361,14 +553,6 @@
       "onboard_time": 1704634053,
       "rank": 37,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 94693,
-      "num": 94693,
-      "word": "男子乘扶梯致玻璃炸裂被超市索赔8300",
-      "onboard_time": 1704658513,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93856,
@@ -408,14 +592,6 @@
       "word": "美女老板走红30年前在四季青年入几十万",
       "onboard_time": 1704655152,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82356,
-      "num": 82356,
-      "word": "2024年第一个网红城市",
-      "onboard_time": 1704669023,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -459,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68799,
-      "num": 68799,
-      "word": "清澈的爱只为中国壁纸女孩回应",
-      "onboard_time": 1704670044,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65572,
       "num": 65572,
       "word": "陈奕迅爆料杨千嬅后台用桶喝水",
@@ -499,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61849,
+      "num": 1264520,
+      "word": "中国在极地布放首个生态潜标",
+      "onboard_time": 1704634470,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61672,
       "num": 61672,
       "word": "十二星座一周运势",
@@ -521,14 +697,6 @@
       "onboard_time": 1704665956,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58115,
-      "num": 58115,
-      "word": "高质量婚姻的定律",
-      "onboard_time": 1704670044,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 58072,
@@ -585,14 +753,6 @@
       "onboard_time": 1704622352,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 37445,
-      "num": 554071,
-      "word": "中国在极地布放首个生态潜标",
-      "onboard_time": 1704634470,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34859,
