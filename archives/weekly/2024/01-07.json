@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704778428963,
+  "endTime": 1704781397047,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -187,11 +187,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1338489,
+      "num": 755747,
+      "word": "于正再次为张檬写长文",
+      "onboard_time": 1704777811,
+      "rank": 11,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 1329807,
       "num": 1792026,
       "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
       "onboard_time": 1704611608,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1312185,
+      "num": 1312185,
+      "word": "坠亡的20岁俄籍超模曾去过萝莉岛",
+      "onboard_time": 1704775174,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -345,14 +361,6 @@
       "onboard_time": 1704671666,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1093975,
-      "num": 385333,
-      "word": "坠亡的20岁俄籍超模曾去过萝莉岛",
-      "onboard_time": 1704775174,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1085986,
@@ -611,14 +619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 818617,
-      "num": 322189,
-      "word": "于正再次为张檬写长文",
-      "onboard_time": 1704777811,
-      "rank": 11,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 817560,
       "num": 817560,
       "word": "国考成绩 不出就睡了",
@@ -755,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 744906,
+      "num": 744906,
+      "word": "哈尔滨 烫碗",
+      "onboard_time": 1704777393,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 738337,
       "num": 738337,
       "word": "华莱士送10万份套餐",
@@ -841,6 +849,14 @@
       "onboard_time": 1704617790,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 718589,
+      "num": 718589,
+      "word": "长沙致54死自建房坍塌事故本有机会避免",
+      "onboard_time": 1704779193,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 711067,
@@ -995,6 +1011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 650643,
+      "num": 650643,
+      "word": "哈工大你玩真的啊",
+      "onboard_time": 1704779733,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 646416,
       "num": 646416,
       "word": "朱一龙恢复状况",
@@ -1123,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588454,
+      "num": 245041,
+      "word": "我弟官宣忘记屏蔽我表妹",
+      "onboard_time": 1704779131,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 586172,
       "num": 586172,
       "word": "沈阳文旅局局长连夜听网友支招",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1704627211,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 553902,
+      "num": 553902,
+      "word": "秦岚亲了迪丽热巴",
+      "onboard_time": 1704780151,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 553350,
@@ -1571,6 +1611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 492684,
+      "num": 492684,
+      "word": "刘诗诗微博之夜收工想吃火锅",
+      "onboard_time": 1704780630,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 491921,
       "num": 491921,
       "word": "张婧仪檀健次吻戏",
@@ -1785,6 +1833,14 @@
       "onboard_time": 1704700469,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446253,
+      "num": 446253,
+      "word": "赵昭仪和胡先煦 刷到哪对磕哪对",
+      "onboard_time": 1704779311,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 444931,
@@ -2003,14 +2059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 400811,
-      "num": 319700,
-      "word": "哈尔滨 烫碗",
-      "onboard_time": 1704777393,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 398532,
       "num": 398532,
       "word": "马立奥cos天天",
@@ -2041,6 +2089,14 @@
       "onboard_time": 1704598114,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 393690,
+      "num": 229338,
+      "word": "交往时一半年薪用来吃喝男生分手",
+      "onboard_time": 1704777630,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391907,
@@ -2363,6 +2419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313583,
+      "num": 313583,
+      "word": "惠英红 南方小土豆堆雪人",
+      "onboard_time": 1704778234,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313311,
       "num": 313311,
       "word": "凤凰传奇来百大也得罚站",
@@ -2395,12 +2459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309961,
-      "num": 225861,
-      "word": "交往时一半年薪用来吃喝男生分手",
-      "onboard_time": 1704777630,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 309482,
+      "num": 309482,
+      "word": "朱丹周一围翻拍经典亲吻躲避照",
+      "onboard_time": 1704777811,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 307886,
@@ -3147,14 +3211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 222151,
-      "num": 222151,
-      "word": "朱丹周一围翻拍经典亲吻躲避照",
-      "onboard_time": 1704777811,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220749,
       "num": 220749,
       "word": "为什么有人说乙流是王中王",
@@ -3313,6 +3369,14 @@
       "onboard_time": 1704605671,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209455,
+      "num": 209455,
+      "word": "女高管开除员工事件",
+      "onboard_time": 1704778295,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208967,
@@ -3497,6 +3561,14 @@
       "onboard_time": 1704704849,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 200590,
+      "num": 200590,
+      "word": "专家称中国经济处于青春期",
+      "onboard_time": 1704779613,
+      "rank": 25,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 200551,
@@ -4107,6 +4179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174768,
+      "num": 174768,
+      "word": "龚俊指环",
+      "onboard_time": 1704779613,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174519,
       "num": 174519,
       "word": "2023健康榜样颁奖盛典",
@@ -4265,6 +4345,14 @@
       "onboard_time": 1704763830,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169107,
+      "num": 169107,
+      "word": "17人25秒救下一人",
+      "onboard_time": 1704778772,
+      "rank": 31,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 168732,
@@ -4451,14 +4539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160340,
-      "num": 160340,
-      "word": "惠英红 南方小土豆堆雪人",
-      "onboard_time": 1704778234,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160149,
       "num": 160149,
       "word": "日本地震323人下落不明",
@@ -4473,6 +4553,14 @@
       "onboard_time": 1704636937,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160104,
+      "num": 160104,
+      "word": "尼欧克斯董事长质疑员工学历简历造假",
+      "onboard_time": 1704778592,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159425,
@@ -5139,14 +5227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136639,
-      "num": 136639,
-      "word": "女高管开除员工事件",
-      "onboard_time": 1704778295,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136192,
       "num": 136192,
       "word": "参加潮汕人婚礼是种什么体验",
@@ -5459,6 +5539,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 127419,
+      "num": 127419,
+      "word": "陈星旭都演爹了",
+      "onboard_time": 1704780213,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127355,
+      "num": 127355,
+      "word": "丁程鑫回家的伙食",
+      "onboard_time": 1704780630,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127317,
       "num": 127317,
       "word": "出生几个月大的小伯第一次见到雪",
@@ -5689,6 +5785,14 @@
       "onboard_time": 1704593428,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121321,
+      "num": 121321,
+      "word": "年轻人一边理疗一边刷手机",
+      "onboard_time": 1704779613,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121302,
@@ -5979,6 +6083,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 111732,
+      "num": 111732,
+      "word": "晕碳",
+      "onboard_time": 1704781170,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111675,
       "num": 111675,
       "word": "郑强称不要责怪年轻人",
@@ -6009,6 +6121,14 @@
       "onboard_time": 1704676827,
       "rank": 44,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 109825,
+      "num": 109825,
+      "word": "谢娜栗子妆",
+      "onboard_time": 1704779311,
+      "rank": 43,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 109766,
