@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704827681032,
+  "endTime": 1704828825377,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -23907,6 +23907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61605,
+      "num": 61605,
+      "word": "赛琳娜霉霉没有八卦甜茶金小妹",
+      "onboard_time": 1704825673,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61426,
       "num": 214126,
       "word": "苏翊鸣大方示爱朱易",
@@ -24185,14 +24193,6 @@
       "onboard_time": 1704787230,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 49204,
-      "num": 49204,
-      "word": "赛琳娜霉霉没有八卦甜茶金小妹",
-      "onboard_time": 1704825673,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 48970,
