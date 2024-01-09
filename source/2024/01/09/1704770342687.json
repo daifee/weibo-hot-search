@@ -1,0 +1,410 @@
+{
+  "runTime": 1704770342687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2674649,
+        "num": 2674649,
+        "word": "章泽天净资产600亿",
+        "onboard_time": 1704766651,
+        "rank": 0,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 825438,
+        "num": 825438,
+        "word": "为什么全身面部的皮肤最差",
+        "onboard_time": 1704761913,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 46247,
+        "num": 655762,
+        "word": "多地上新文旅大礼包",
+        "onboard_time": 1704721595,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631341,
+        "num": 631341,
+        "word": "王家卫到底花了多少钱买歌",
+        "onboard_time": 1704758673,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606678,
+        "num": 606678,
+        "word": "iPhone从4000多米高空坠落仍可使用",
+        "onboard_time": 1704762752,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 582352,
+        "num": 582352,
+        "word": "花儿与少年 群像杀伤力",
+        "onboard_time": 1704766770,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562798,
+        "num": 562798,
+        "word": "已读瞎回",
+        "onboard_time": 1704762992,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 500436,
+        "num": 500436,
+        "word": "热水泡脚确实能睡得更香",
+        "onboard_time": 1704765331,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 469741,
+        "num": 495108,
+        "word": "年轻人报复性挤爆3.5分餐厅",
+        "onboard_time": 1704731304,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389757,
+        "num": 492189,
+        "word": "被女高管违法开除员工称签道歉函才给赔偿",
+        "onboard_time": 1704767490,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1227933,
+        "num": 492093,
+        "word": "发朋友圈被误认为出国的旅游地",
+        "onboard_time": 1704769110,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 491921,
+        "num": 491921,
+        "word": "张婧仪檀健次吻戏",
+        "onboard_time": 1704767429,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 445893,
+        "num": 445893,
+        "word": "会长是女仆大人 碓冰拓海新绘",
+        "onboard_time": 1704767971,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 430545,
+        "num": 430545,
+        "word": "司法机关破解苹果AirDrop",
+        "onboard_time": 1704767010,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 358089,
+        "num": 358089,
+        "word": "1天1杯奶茶会得糖尿病吗",
+        "onboard_time": 1704765151,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 321296,
+        "num": 321296,
+        "word": "蒋龙刘恋出演被我弄丢的你",
+        "onboard_time": 1704767549,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300709,
+        "num": 300709,
+        "word": "贾玲张小斐 我真的会谢",
+        "onboard_time": 1704726754,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297895,
+        "num": 297895,
+        "word": "网友偶遇赵丽颖喝茶",
+        "onboard_time": 1704770071,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267898,
+        "num": 267898,
+        "word": "掉河里的顶级翡翠找到了",
+        "onboard_time": 1704763412,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240464,
+        "num": 240464,
+        "word": "贝肯鲍尔去世",
+        "onboard_time": 1704755179,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281752,
+        "num": 236588,
+        "word": "花了不到150块带奶奶玩了一天",
+        "onboard_time": 1704769110,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254770,
+        "num": 229751,
+        "word": "唐嫣过去的三年都是汪小姐",
+        "onboard_time": 1704746474,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219814,
+        "num": 219814,
+        "word": "爱泼斯坦案新文件涉及特朗普",
+        "onboard_time": 1704768151,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 217811,
+        "num": 217811,
+        "word": "女高管开除员工双方已达成补偿协议",
+        "onboard_time": 1704767429,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216953,
+        "num": 216953,
+        "word": "41岁流浪歌手生活困难转行卖烧烤",
+        "onboard_time": 1704764371,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215364,
+        "num": 215364,
+        "word": "莫兰特赛季报销",
+        "onboard_time": 1704770011,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213307,
+        "num": 213307,
+        "word": "景甜短发",
+        "onboard_time": 1704755060,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204510,
+        "num": 204510,
+        "word": "2023年253名民警164名辅警牺牲",
+        "onboard_time": 1704769229,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198278,
+        "num": 198278,
+        "word": "腾讯游戏公布寒假限玩日历",
+        "onboard_time": 1704767732,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186324,
+        "num": 186324,
+        "word": "泡温泉会感染HPV吗",
+        "onboard_time": 1704757528,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182014,
+        "num": 182014,
+        "word": "河南致返乡人员一封信",
+        "onboard_time": 1704762451,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170396,
+        "num": 170396,
+        "word": "熊猫都忍不住吸熊猫了",
+        "onboard_time": 1704768752,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165764,
+        "num": 165764,
+        "word": "刘浩存吉林卫视春晚彩排路透",
+        "onboard_time": 1704765450,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149213,
+        "num": 149213,
+        "word": "车银优将solo出道",
+        "onboard_time": 1704766411,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148126,
+        "num": 148126,
+        "word": "国安部推出特别版黑猫警长",
+        "onboard_time": 1704762451,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147947,
+        "num": 147947,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704769832,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145437,
+        "num": 145437,
+        "word": "卢美琳是嫁给黄河路的女人",
+        "onboard_time": 1704761555,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144664,
+        "num": 144664,
+        "word": "乙流与甲流的不同",
+        "onboard_time": 1704769711,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141129,
+        "num": 141129,
+        "word": "女儿刚生爸妈坐高铁送2万6卖炸串钱",
+        "onboard_time": 1704740475,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139384,
+        "num": 139384,
+        "word": "哈尔滨小猪皮冻",
+        "onboard_time": 1704762631,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137013,
+        "num": 137013,
+        "word": "宋茜 不止斩弟也斩女",
+        "onboard_time": 1704766170,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133416,
+        "num": 133416,
+        "word": "乙流",
+        "onboard_time": 1704723814,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131437,
+        "num": 131437,
+        "word": "霍格沃茨之遗销量突破2200万份",
+        "onboard_time": 1704769650,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126744,
+        "num": 126744,
+        "word": "3年E班 永远的杀老师",
+        "onboard_time": 1704768932,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122419,
+        "num": 122419,
+        "word": "国考成绩 不出就睡了",
+        "onboard_time": 1704721533,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121302,
+        "num": 121302,
+        "word": "宋茜陈星旭新剧婚礼造型",
+        "onboard_time": 1704768809,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115022,
+        "num": 115022,
+        "word": "爷叔给宝总上的最后一课",
+        "onboard_time": 1704725792,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113215,
+        "num": 113215,
+        "word": "沈阳文旅局局长连夜听网友支招",
+        "onboard_time": 1704756867,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106924,
+        "num": 106924,
+        "word": "尔滨上新冰糖葫芦咖啡",
+        "onboard_time": 1704765752,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104191,
+        "num": 104191,
+        "word": "练一天车方向盘成敏感肌了",
+        "onboard_time": 1704770311,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#增强拒腐防变和抵御风险能力#"
+    }
+  }
+}

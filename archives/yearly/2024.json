@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704768142537,
+  "endTime": 1704770342687,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -163,6 +163,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2674649,
+      "num": 2674649,
+      "word": "章泽天净资产600亿",
+      "onboard_time": 1704766651,
+      "rank": 0,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 2633377,
       "num": 726169,
       "word": "霍金",
@@ -209,14 +217,6 @@
       "onboard_time": 1704687693,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2406622,
-      "num": 2406622,
-      "word": "章泽天净资产600亿",
-      "onboard_time": 1704766651,
-      "rank": 0,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 2406378,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1704193294,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1227933,
+      "num": 492093,
+      "word": "发朋友圈被误认为出国的旅游地",
+      "onboard_time": 1704769110,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1226715,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704695489,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 857602,
-      "num": 585565,
-      "word": "胡歌辛芷蕾繁花吻戏",
-      "onboard_time": 1704631530,
-      "rank": 24,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
