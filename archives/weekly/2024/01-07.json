@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704813537311,
+  "endTime": 1704814469203,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -153,6 +153,14 @@
       "onboard_time": 1704632012,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1685059,
+      "num": 1685059,
+      "word": "李铁案和繁花收视对比",
+      "onboard_time": 1704812858,
+      "rank": 17,
+      "category": "体育,剧集"
     },
     {
       "raw_hot": 1683775,
@@ -931,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759036,
+      "num": 605202,
+      "word": "为什么李铁的铁刘海还在",
+      "onboard_time": 1704812496,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 752568,
       "num": 569868,
       "word": "不生孩子的下半辈子",
@@ -1171,6 +1187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 685953,
+      "num": 685953,
+      "word": "范志毅说和胡歌彻夜聊球",
+      "onboard_time": 1704811895,
+      "rank": 11,
+      "category": "剧集,体育"
+    },
+    {
       "raw_hot": 685307,
       "num": 685307,
       "word": "哈工大学长杨柏汇因笑容温柔被关注",
@@ -1347,6 +1371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 614827,
+      "num": 614827,
+      "word": "宝总 玲子",
+      "onboard_time": 1704812434,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 612307,
       "num": 612307,
       "word": "丁俊晖147分",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1704785495,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 609777,
-      "num": 605202,
-      "word": "为什么李铁的铁刘海还在",
-      "onboard_time": 1704812496,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 606643,
@@ -1457,14 +1481,6 @@
       "onboard_time": 1704704249,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 593553,
-      "num": 593553,
-      "word": "范志毅说和胡歌彻夜聊球",
-      "onboard_time": 1704811895,
-      "rank": 11,
-      "category": "剧集,体育"
     },
     {
       "raw_hot": 591941,
@@ -1609,14 +1625,6 @@
       "onboard_time": 1704717510,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558291,
-      "num": 558291,
-      "word": "宝总 玲子",
-      "onboard_time": 1704812434,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 557978,
@@ -2321,14 +2329,6 @@
       "onboard_time": 1704629431,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 437343,
-      "num": 437343,
-      "word": "李铁案和繁花收视对比",
-      "onboard_time": 1704812858,
-      "rank": 17,
-      "category": "体育,剧集"
     },
     {
       "raw_hot": 433269,
@@ -3659,6 +3659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 249670,
+      "num": 249670,
+      "word": "魔卡少女樱 小樱绝美手办",
+      "onboard_time": 1704812496,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 249158,
       "num": 249158,
       "word": "金智秀韩剧流感路透",
@@ -3753,14 +3761,6 @@
       "onboard_time": 1704809432,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242445,
-      "num": 242445,
-      "word": "魔卡少女樱 小樱绝美手办",
-      "onboard_time": 1704812496,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 241621,
@@ -4001,6 +4001,14 @@
       "onboard_time": 1704805052,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225904,
+      "num": 225904,
+      "word": "足囚",
+      "onboard_time": 1704813215,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 225460,
@@ -4531,14 +4539,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 202417,
-      "num": 202417,
-      "word": "足囚",
-      "onboard_time": 1704813215,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202059,
       "num": 202059,
       "word": "韩庚也是黑龙江赫哲族人",
@@ -4809,6 +4809,14 @@
       "onboard_time": 1704685891,
       "rank": 40,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 195983,
+      "num": 195983,
+      "word": "繁花每个人都有结局",
+      "onboard_time": 1704814111,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 195861,
@@ -5251,6 +5259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 180635,
+      "num": 180635,
+      "word": "有效化妆与无效化妆",
+      "onboard_time": 1704813695,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 180626,
       "num": 180626,
       "word": "周一围他超爱",
@@ -5337,6 +5353,14 @@
       "onboard_time": 1704621752,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176063,
+      "num": 176063,
+      "word": "央视列足坛反腐被查阵容",
+      "onboard_time": 1704814232,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 176039,
@@ -5755,6 +5779,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 164568,
+      "num": 164568,
+      "word": "一些J人的震惊之处",
+      "onboard_time": 1704813156,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164202,
       "num": 164202,
       "word": "小砂糖橘打卡总台冰雪演播室",
@@ -5785,14 +5817,6 @@
       "onboard_time": 1704607708,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163505,
-      "num": 163505,
-      "word": "一些J人的震惊之处",
-      "onboard_time": 1704813156,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 163217,
@@ -6217,6 +6241,14 @@
       "onboard_time": 1704621992,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152142,
+      "num": 152142,
+      "word": "终于关掉烦人的自动更新了",
+      "onboard_time": 1704814232,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 152108,

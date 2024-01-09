@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704813537311,
+  "endTime": 1704814469203,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -625,6 +625,14 @@
       "onboard_time": 1704249630,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1685059,
+      "num": 1685059,
+      "word": "李铁案和繁花收视对比",
+      "onboard_time": 1704812858,
+      "rank": 17,
+      "category": "体育,剧集"
     },
     {
       "raw_hot": 1683775,
@@ -3187,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759036,
+      "num": 605202,
+      "word": "为什么李铁的铁刘海还在",
+      "onboard_time": 1704812496,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 758528,
       "num": 758528,
       "word": "花少5直接打包去中餐厅",
@@ -3841,6 +3857,14 @@
       "onboard_time": 1704243391,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 685953,
+      "num": 685953,
+      "word": "范志毅说和胡歌彻夜聊球",
+      "onboard_time": 1704811895,
+      "rank": 11,
+      "category": "剧集,体育"
     },
     {
       "raw_hot": 685307,
@@ -4515,6 +4539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614827,
+      "num": 614827,
+      "word": "宝总 玲子",
+      "onboard_time": 1704812434,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 613725,
       "num": 613725,
       "word": "白鹿范丞丞牵手合唱",
@@ -4593,14 +4625,6 @@
       "onboard_time": 1704785495,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 609777,
-      "num": 605202,
-      "word": "为什么李铁的铁刘海还在",
-      "onboard_time": 1704812496,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 609071,
@@ -4761,14 +4785,6 @@
       "onboard_time": 1704704249,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 593553,
-      "num": 593553,
-      "word": "范志毅说和胡歌彻夜聊球",
-      "onboard_time": 1704811895,
-      "rank": 11,
-      "category": "剧集,体育"
     },
     {
       "raw_hot": 592606,
@@ -5121,14 +5137,6 @@
       "onboard_time": 1704717510,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558291,
-      "num": 558291,
-      "word": "宝总 玲子",
-      "onboard_time": 1704812434,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 557985,
@@ -7017,14 +7025,6 @@
       "onboard_time": 1704258214,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 437343,
-      "num": 437343,
-      "word": "李铁案和繁花收视对比",
-      "onboard_time": 1704812858,
-      "rank": 17,
-      "category": "体育,剧集"
     },
     {
       "raw_hot": 437180,
@@ -11283,6 +11283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 249670,
+      "num": 249670,
+      "word": "魔卡少女樱 小樱绝美手办",
+      "onboard_time": 1704812496,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 249421,
       "num": 646556,
       "word": "哈尔滨交警在线教学到东北咋穿",
@@ -11585,14 +11593,6 @@
       "onboard_time": 1704297692,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242445,
-      "num": 242445,
-      "word": "魔卡少女樱 小樱绝美手办",
-      "onboard_time": 1704812496,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 242432,
@@ -12305,6 +12305,14 @@
       "onboard_time": 1704428073,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225904,
+      "num": 225904,
+      "word": "足囚",
+      "onboard_time": 1704813215,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 225884,
@@ -13811,14 +13819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202417,
-      "num": 202417,
-      "word": "足囚",
-      "onboard_time": 1704813215,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202407,
       "num": 202407,
       "word": "kms线下签售",
@@ -14465,6 +14465,14 @@
       "onboard_time": 1704685891,
       "rank": 40,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 195983,
+      "num": 195983,
+      "word": "繁花每个人都有结局",
+      "onboard_time": 1704814111,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 195861,
@@ -15835,6 +15843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180635,
+      "num": 180635,
+      "word": "有效化妆与无效化妆",
+      "onboard_time": 1704813695,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 180626,
       "num": 180626,
       "word": "周一围他超爱",
@@ -16169,6 +16185,14 @@
       "onboard_time": 1704439774,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176063,
+      "num": 176063,
+      "word": "央视列足坛反腐被查阵容",
+      "onboard_time": 1704814232,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 176039,
@@ -17323,6 +17347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164568,
+      "num": 164568,
+      "word": "一些J人的震惊之处",
+      "onboard_time": 1704813156,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164484,
       "num": 164484,
       "word": "文旅厅刷评论满足哈尔滨游客一切要求",
@@ -17401,14 +17433,6 @@
       "onboard_time": 1704345333,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163505,
-      "num": 163505,
-      "word": "一些J人的震惊之处",
-      "onboard_time": 1704813156,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 163440,
@@ -18353,6 +18377,14 @@
       "onboard_time": 1704621992,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152142,
+      "num": 152142,
+      "word": "终于关掉烦人的自动更新了",
+      "onboard_time": 1704814232,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 152108,

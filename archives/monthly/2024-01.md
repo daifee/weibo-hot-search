@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/09 23:18:57
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/09 23:34:29
 </p>
 </blockquote>
 <p>
@@ -479,6 +479,12 @@ A先生跳海（热度：1721660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%9F%B3%E5%B7%9D%E5%8E%BF%E5%8F%91%E7%94%9F5.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 日本石川县发生5.5级地震（热度：1714529）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E6%A1%88%E5%92%8C%E7%B9%81%E8%8A%B1%E6%94%B6%E8%A7%86%E5%AF%B9%E6%AF%94%23" target="weibo">
+李铁案和繁花收视对比（热度：1685059）
 </a>
 </li>
 
@@ -2403,6 +2409,12 @@ joker不是小丑 是制胜的王牌（热度：824347）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9D%8E%E9%93%81%E7%9A%84%E9%93%81%E5%88%98%E6%B5%B7%E8%BF%98%E5%9C%A8%23" target="weibo">
+为什么李铁的铁刘海还在（热度：759036）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E7%9B%B4%E6%8E%A5%E6%89%93%E5%8C%85%E5%8E%BB%E4%B8%AD%E9%A4%90%E5%8E%85%23" target="weibo">
 花少5直接打包去中餐厅（热度：758528）
 </a>
@@ -2891,6 +2903,12 @@ iPhone电池门赔款到账（热度：737858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E5%83%8F%E5%89%A7%E9%A1%B6%E9%85%8D%23" target="weibo">
 偶像剧顶配（热度：686888）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E8%AF%B4%E5%92%8C%E8%83%A1%E6%AD%8C%E5%BD%BB%E5%A4%9C%E8%81%8A%E7%90%83%23" target="weibo">
+范志毅说和胡歌彻夜聊球（热度：685953）
 </a>
 </li>
 
@@ -3399,6 +3417,12 @@ iPhone电池门赔款到账（热度：737858）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%80%BB%20%E7%8E%B2%E5%AD%90%23" target="weibo">
+宝总 玲子（热度：614827）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%89%B5%E6%89%8B%E5%90%88%E5%94%B1%23" target="weibo">
 白鹿范丞丞牵手合唱（热度：613725）
 </a>
@@ -3455,12 +3479,6 @@ iPhone电池门赔款到账（热度：737858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E6%8E%A2%E9%92%88%23" target="weibo">
 我国成功发射爱因斯坦探针（热度：609816）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9D%8E%E9%93%81%E7%9A%84%E9%93%81%E5%88%98%E6%B5%B7%E8%BF%98%E5%9C%A8%23" target="weibo">
-为什么李铁的铁刘海还在（热度：609777）
 </a>
 </li>
 
@@ -3581,12 +3599,6 @@ iPhone电池门赔款到账（热度：737858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%8C%E5%BF%83%20%E5%88%98%E8%AF%97%E8%AF%97%23" target="weibo">
 掌心 刘诗诗（热度：595069）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E8%AF%B4%E5%92%8C%E8%83%A1%E6%AD%8C%E5%BD%BB%E5%A4%9C%E8%81%8A%E7%90%83%23" target="weibo">
-范志毅说和胡歌彻夜聊球（热度：593553）
 </a>
 </li>
 
@@ -3851,12 +3863,6 @@ iPhone电池门赔款到账（热度：737858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%8F%E6%88%BF100%E5%B9%B3%E6%AF%9450%E5%B9%B3%E5%AE%B6%E5%BA%AD%E6%9B%B4%E6%84%BF%E6%84%8F%E7%94%9F2%E5%AD%A9%23" target="weibo">
 住房100平比50平家庭更愿意生2孩（热度：559434）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%80%BB%20%E7%8E%B2%E5%AD%90%23" target="weibo">
-宝总 玲子（热度：558291）
 </a>
 </li>
 
@@ -5273,12 +5279,6 @@ iPhone在华销量同比大跌30%（热度：453366）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%E8%87%B4%E5%93%88%E9%A9%AC%E6%96%AF%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B8%A7%E7%94%9F%23" target="weibo">
 以军空袭致哈马斯领导人丧生（热度：438405）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E6%A1%88%E5%92%8C%E7%B9%81%E8%8A%B1%E6%94%B6%E8%A7%86%E5%AF%B9%E6%AF%94%23" target="weibo">
-李铁案和繁花收视对比（热度：437343）
 </a>
 </li>
 

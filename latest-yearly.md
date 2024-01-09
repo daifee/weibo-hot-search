@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/09 23:18:57
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/09 23:34:29
 </p>
 </blockquote>
 <p>
@@ -479,6 +479,12 @@ A先生跳海（热度：1721660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%9F%B3%E5%B7%9D%E5%8E%BF%E5%8F%91%E7%94%9F5.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 日本石川县发生5.5级地震（热度：1714529）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E6%A1%88%E5%92%8C%E7%B9%81%E8%8A%B1%E6%94%B6%E8%A7%86%E5%AF%B9%E6%AF%94%23" target="weibo">
+李铁案和繁花收视对比（热度：1685059）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ B站2023百大UP主（热度：927768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E9%9D%A2%E9%83%A8%E6%8A%98%E5%8F%A0%E5%BA%A6%23" target="weibo">
 辛芷蕾的面部折叠度（热度：913621）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%8B%20%E9%9B%AA%E7%90%B4%E8%A1%A8%E6%83%85%23" target="weibo">
-宋茜王鹤棣最后一下 雪琴表情（热度：909949）
 </a>
 </li>
 
