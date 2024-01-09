@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704807569176,
+  "endTime": 1704809842723,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -57,6 +57,14 @@
       "onboard_time": 1704802470,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 4833236,
+      "num": 6083236,
+      "word": "李铁行贿300万当上国足主教练",
+      "onboard_time": 1704804513,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 4566409,
@@ -121,14 +129,6 @@
       "onboard_time": 1704037142,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3209528,
-      "num": 3209528,
-      "word": "李铁行贿300万当上国足主教练",
-      "onboard_time": 1704804513,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 3135611,
@@ -1636,7 +1636,7 @@
     },
     {
       "raw_hot": 1122949,
-      "num": 785144,
+      "num": 929274,
       "word": "马思纯 两年终于拍戏了",
       "onboard_time": 1704802229,
       "rank": 8,

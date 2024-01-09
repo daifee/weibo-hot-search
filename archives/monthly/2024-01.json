@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704807569176,
+  "endTime": 1704809842723,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -57,6 +57,14 @@
       "onboard_time": 1704802470,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 4833236,
+      "num": 6083236,
+      "word": "李铁行贿300万当上国足主教练",
+      "onboard_time": 1704804513,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 4566409,
@@ -121,14 +129,6 @@
       "onboard_time": 1704037142,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3209528,
-      "num": 3209528,
-      "word": "李铁行贿300万当上国足主教练",
-      "onboard_time": 1704804513,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 3135611,
@@ -1636,7 +1636,7 @@
     },
     {
       "raw_hot": 1122949,
-      "num": 785144,
+      "num": 929274,
       "word": "马思纯 两年终于拍戏了",
       "onboard_time": 1704802229,
       "rank": 8,
@@ -3851,6 +3851,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 681504,
+      "num": 414100,
+      "word": "宝总汪小姐 OE",
+      "onboard_time": 1704806432,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 681290,
       "num": 681290,
       "word": "银行4个窗口只开1个被男子怒怼",
@@ -4265,6 +4273,14 @@
       "onboard_time": 1704100780,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642097,
+      "num": 412963,
+      "word": "田曦薇雪中撑伞",
+      "onboard_time": 1704808233,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 641354,
@@ -5033,6 +5049,14 @@
       "onboard_time": 1704679347,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 564485,
+      "num": 401279,
+      "word": "胡歌 热闹过后我还是我",
+      "onboard_time": 1704808173,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 564124,
@@ -6097,14 +6121,6 @@
       "onboard_time": 1704762451,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 496557,
-      "num": 386185,
-      "word": "宝总汪小姐 OE",
-      "onboard_time": 1704806432,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 495358,
@@ -7987,6 +8003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379221,
+      "num": 379221,
+      "word": "看 你的教资合格证",
+      "onboard_time": 1704805771,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 378228,
       "num": 378228,
       "word": "繁花 李李被抓",
@@ -8321,14 +8345,6 @@
       "onboard_time": 1704683670,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 357150,
-      "num": 357150,
-      "word": "看 你的教资合格证",
-      "onboard_time": 1704805771,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 356965,
@@ -8697,6 +8713,14 @@
       "onboard_time": 1704250471,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334044,
+      "num": 223733,
+      "word": "董宇辉回应带货化妆品",
+      "onboard_time": 1704809014,
+      "rank": 31,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 333852,
@@ -9593,6 +9617,14 @@
       "onboard_time": 1704704610,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 296693,
+      "num": 240964,
+      "word": "车厘子是大号樱桃吗",
+      "onboard_time": 1704808713,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 296687,
@@ -11659,6 +11691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235785,
+      "num": 232278,
+      "word": "成毅竹林舞剑剧照",
+      "onboard_time": 1704806735,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235739,
       "num": 235739,
       "word": "看到了男友和他妈妈的聊天记录",
@@ -11739,6 +11779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235081,
+      "num": 235081,
+      "word": "我们退休后到底能领多少钱",
+      "onboard_time": 1704807935,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 234943,
       "num": 234943,
       "word": "百元千禧龙钞曾涨至3000多元",
@@ -11753,6 +11801,14 @@
       "onboard_time": 1704549455,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 234649,
+      "num": 234649,
+      "word": "有女儿的都过着什么好日子",
+      "onboard_time": 1704808055,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 234432,
@@ -11971,12 +12027,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 229310,
+      "num": 229310,
+      "word": "李铁与武汉卓尔6000万元送4名球员进国家队",
+      "onboard_time": 1704806613,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229289,
       "num": 229289,
       "word": "还以为伏地魔复活了",
       "onboard_time": 1704338670,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229217,
+      "num": 229217,
+      "word": "董宇辉考虑国外直播",
+      "onboard_time": 1704808055,
+      "rank": 30,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 229182,
@@ -13083,14 +13155,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208983,
-      "num": 208983,
-      "word": "李铁与武汉卓尔6000万元送4名球员进国家队",
-      "onboard_time": 1704806613,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208925,
       "num": 208925,
       "word": "哈尔滨冰雪大世界让外国人实名羡慕",
@@ -13137,6 +13201,14 @@
       "onboard_time": 1704157598,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208160,
+      "num": 149247,
+      "word": "繁花似锦 不响最大",
+      "onboard_time": 1704809014,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 208072,
@@ -13595,6 +13667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202302,
+      "num": 202302,
+      "word": "CBA 裁判",
+      "onboard_time": 1704809432,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202078,
       "num": 202078,
       "word": "尔滨带火东北特产",
@@ -13697,14 +13777,6 @@
       "onboard_time": 1704375032,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201464,
-      "num": 201464,
-      "word": "成毅竹林舞剑剧照",
-      "onboard_time": 1704806735,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 201210,
@@ -14601,6 +14673,14 @@
       "onboard_time": 1704205058,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192210,
+      "num": 192210,
+      "word": "陕西洋县一社区要求返乡过年人员要报备",
+      "onboard_time": 1704807094,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191859,
@@ -15563,14 +15643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181128,
-      "num": 181128,
-      "word": "陕西洋县一社区要求返乡过年人员要报备",
-      "onboard_time": 1704807094,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180827,
       "num": 180827,
       "word": "发烧有这几个症状一定要就医",
@@ -16201,6 +16273,14 @@
       "onboard_time": 1704450511,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 173770,
+      "num": 173770,
+      "word": "李铁 后腰",
+      "onboard_time": 1704809375,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 173745,
@@ -17083,6 +17163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164743,
+      "num": 164743,
+      "word": "知道李铁被抓小球员说用实力赢更快乐",
+      "onboard_time": 1704809073,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 164484,
       "num": 164484,
       "word": "文旅厅刷评论满足哈尔滨游客一切要求",
@@ -17859,6 +17947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154938,
+      "num": 154938,
+      "word": "CBA",
+      "onboard_time": 1704124355,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154884,
       "num": 154884,
       "word": "关晓彤晒庄筱婷剧照",
@@ -17923,6 +18019,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 154077,
+      "num": 154077,
+      "word": "孙铭徽俞泽辰冲突",
+      "onboard_time": 1704809735,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154073,
       "num": 154073,
       "word": "哈尔滨大姐遇台湾女生疯狂投喂",
@@ -17945,6 +18049,14 @@
       "onboard_time": 1704690936,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153864,
+      "num": 153864,
+      "word": "广厦男篮战胜辽宁男篮",
+      "onboard_time": 1704809795,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 153850,
@@ -18971,6 +19083,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 143147,
+      "num": 143147,
+      "word": "与辉同行半小时涨粉40万",
+      "onboard_time": 1704807452,
+      "rank": 47,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 143072,
       "num": 143072,
       "word": "跨年档票房",
@@ -19153,14 +19273,6 @@
       "onboard_time": 1704413493,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141644,
-      "num": 141644,
-      "word": "与辉同行半小时涨粉40万",
-      "onboard_time": 1704807452,
-      "rank": 47,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 141620,
@@ -22025,14 +22137,6 @@
       "onboard_time": 1704617552,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108900,
-      "num": 108900,
-      "word": "CBA",
-      "onboard_time": 1704124355,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 108835,

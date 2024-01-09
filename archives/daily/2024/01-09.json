@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704807569176,
+  "endTime": 1704809842723,
   "band_list": [
     {
       "raw_hot": 5501200,
@@ -11,8 +11,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 3209528,
-      "num": 3209528,
+      "raw_hot": 4833236,
+      "num": 6083236,
       "word": "李铁行贿300万当上国足主教练",
       "onboard_time": 1704804513,
       "rank": 20,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1122949,
-      "num": 785144,
+      "num": 929274,
       "word": "马思纯 两年终于拍戏了",
       "onboard_time": 1704802229,
       "rank": 8,
@@ -427,6 +427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 681504,
+      "num": 414100,
+      "word": "宝总汪小姐 OE",
+      "onboard_time": 1704806432,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 673940,
       "num": 485422,
       "word": "网友偶遇赵丽颖喝茶",
@@ -473,6 +481,14 @@
       "onboard_time": 1704780151,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 642097,
+      "num": 412963,
+      "word": "田曦薇雪中撑伞",
+      "onboard_time": 1704808233,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 612307,
@@ -537,6 +553,14 @@
       "onboard_time": 1704788011,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 564485,
+      "num": 401279,
+      "word": "胡歌 热闹过后我还是我",
+      "onboard_time": 1704808173,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 557978,
@@ -681,14 +705,6 @@
       "onboard_time": 1704762451,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 496557,
-      "num": 386185,
-      "word": "宝总汪小姐 OE",
-      "onboard_time": 1704806432,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 492684,
@@ -907,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379221,
+      "num": 379221,
+      "word": "看 你的教资合格证",
+      "onboard_time": 1704805771,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 374251,
       "num": 374251,
       "word": "鞠婧祎宋威龙咬唇吻",
@@ -937,14 +961,6 @@
       "onboard_time": 1704785671,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357150,
-      "num": 357150,
-      "word": "看 你的教资合格证",
-      "onboard_time": 1704805771,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 356738,
@@ -993,6 +1009,14 @@
       "onboard_time": 1704789396,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 334044,
+      "num": 223733,
+      "word": "董宇辉回应带货化妆品",
+      "onboard_time": 1704809014,
+      "rank": 31,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 333782,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1704799830,
       "rank": 25,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 296693,
+      "num": 240964,
+      "word": "车厘子是大号樱桃吗",
+      "onboard_time": 1704808713,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 292836,
@@ -1323,11 +1355,35 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 235785,
+      "num": 232278,
+      "word": "成毅竹林舞剑剧照",
+      "onboard_time": 1704806735,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235739,
       "num": 235739,
       "word": "看到了男友和他妈妈的聊天记录",
       "onboard_time": 1704756685,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 235081,
+      "num": 235081,
+      "word": "我们退休后到底能领多少钱",
+      "onboard_time": 1704807935,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 234649,
+      "num": 234649,
+      "word": "有女儿的都过着什么好日子",
+      "onboard_time": 1704808055,
+      "rank": 24,
       "category": "情感"
     },
     {
@@ -1353,6 +1409,22 @@
       "onboard_time": 1704772593,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 229310,
+      "num": 229310,
+      "word": "李铁与武汉卓尔6000万元送4名球员进国家队",
+      "onboard_time": 1704806613,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 229217,
+      "num": 229217,
+      "word": "董宇辉考虑国外直播",
+      "onboard_time": 1704808055,
+      "rank": 30,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 228634,
@@ -1547,12 +1619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208983,
-      "num": 208983,
-      "word": "李铁与武汉卓尔6000万元送4名球员进国家队",
-      "onboard_time": 1704806613,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 208160,
+      "num": 149247,
+      "word": "繁花似锦 不响最大",
+      "onboard_time": 1704809014,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 207340,
@@ -1611,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202302,
+      "num": 202302,
+      "word": "CBA 裁判",
+      "onboard_time": 1704809432,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202059,
       "num": 202059,
       "word": "韩庚也是黑龙江赫哲族人",
@@ -1633,14 +1713,6 @@
       "onboard_time": 1704798449,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 201464,
-      "num": 201464,
-      "word": "成毅竹林舞剑剧照",
-      "onboard_time": 1704806735,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 201210,
@@ -1777,6 +1849,14 @@
       "onboard_time": 1704789330,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192210,
+      "num": 192210,
+      "word": "陕西洋县一社区要求返乡过年人员要报备",
+      "onboard_time": 1704807094,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192144,
@@ -1947,14 +2027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 181128,
-      "num": 181128,
-      "word": "陕西洋县一社区要求返乡过年人员要报备",
-      "onboard_time": 1704807094,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181054,
       "num": 181054,
       "word": "教育局回应班主任让学生发毒誓",
@@ -2001,6 +2073,14 @@
       "onboard_time": 1704779613,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173770,
+      "num": 173770,
+      "word": "李铁 后腰",
+      "onboard_time": 1704809375,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 173745,
@@ -2137,6 +2217,14 @@
       "onboard_time": 1704797310,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164743,
+      "num": 164743,
+      "word": "知道李铁被抓小球员说用实力赢更快乐",
+      "onboard_time": 1704809073,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 164012,
@@ -2283,6 +2371,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154938,
+      "num": 154938,
+      "word": "CBA",
+      "onboard_time": 1704808473,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154077,
+      "num": 154077,
+      "word": "孙铭徽俞泽辰冲突",
+      "onboard_time": 1704809735,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153864,
+      "num": 153864,
+      "word": "广厦男篮战胜辽宁男篮",
+      "onboard_time": 1704809795,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152001,
       "num": 152001,
       "word": "封神美术指导张成去世",
@@ -2371,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143147,
+      "num": 143147,
+      "word": "与辉同行半小时涨粉40万",
+      "onboard_time": 1704807452,
+      "rank": 47,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 143029,
       "num": 131748,
       "word": "好想拥有辛芷蕾的入眠速度",
@@ -2393,14 +2513,6 @@
       "onboard_time": 1704770972,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 141644,
-      "num": 141644,
-      "word": "与辉同行半小时涨粉40万",
-      "onboard_time": 1704807452,
-      "rank": 47,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 141564,
@@ -3003,7 +3115,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 2293,
+      "raw_hot": 3785,
       "num": 2278074,
       "word": "聚焦中国经济圆桌会",
       "onboard_time": 1704701372,
