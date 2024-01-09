@@ -1,7 +1,15 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704800056625,
+  "endTime": 1704803657672,
   "band_list": [
+    {
+      "raw_hot": 4607387,
+      "num": 4607387,
+      "word": "李李出家",
+      "onboard_time": 1704802470,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 3633631,
       "num": 3633631,
@@ -179,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1432491,
+      "num": 1432491,
+      "word": "内娱最认真的工作室",
+      "onboard_time": 1704799469,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1367178,
       "num": 1367178,
       "word": "专家建议取消大城市买房买车限制",
@@ -256,6 +272,14 @@
       "word": "女子谎称外卖吃出异物200多次被刑拘",
       "onboard_time": 1704697051,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1269141,
+      "num": 1269141,
+      "word": "在职1万退休后只能拿4000",
+      "onboard_time": 1704801332,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -627,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 889047,
+      "num": 889047,
+      "word": "董宇辉新团队",
+      "onboard_time": 1704801451,
+      "rank": 6,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 882435,
       "num": 882435,
       "word": "贝肯鲍尔去世",
@@ -641,6 +673,14 @@
       "onboard_time": 1704679708,
       "rank": 4,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 873577,
+      "num": 561301,
+      "word": "早上宋慧乔 晚上宋小宝",
+      "onboard_time": 1704803190,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 858046,
@@ -681,6 +721,14 @@
       "onboard_time": 1704714210,
       "rank": 10,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 836680,
+      "num": 836680,
+      "word": "曝李铁一路砸钱到能执教国足",
+      "onboard_time": 1704797610,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 827373,
@@ -795,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 785144,
+      "num": 785144,
+      "word": "马思纯 两年终于拍戏了",
+      "onboard_time": 1704802229,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 782961,
       "num": 782961,
       "word": "胡歌 爆剧玄学",
@@ -865,14 +921,6 @@
       "onboard_time": 1704753498,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 747921,
-      "num": 747921,
-      "word": "曝李铁一路砸钱到能执教国足",
-      "onboard_time": 1704797610,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 744906,
@@ -1451,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557978,
+      "num": 557978,
+      "word": "F1 让不让人抢票了",
+      "onboard_time": 1704802294,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 556101,
       "num": 556101,
       "word": "为什么年轻人不爱用信用卡了",
@@ -1987,6 +2043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 457105,
+      "num": 457105,
+      "word": "反腐大片持续发力纵深推进第四集",
+      "onboard_time": 1704802351,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456238,
       "num": 456238,
       "word": "贪官太嚣张另一个贪官都看不下去了",
@@ -2107,6 +2171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 433269,
+      "num": 433269,
+      "word": "繁花 金主爸爸",
+      "onboard_time": 1704800970,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432218,
       "num": 432218,
       "word": "黑龙江蔓越莓太受欢迎了",
@@ -2145,6 +2217,14 @@
       "onboard_time": 1704619470,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425257,
+      "num": 425257,
+      "word": "律师称张雪峰说文科生靠舔不侵犯名誉权",
+      "onboard_time": 1704799230,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424431,
@@ -2515,6 +2595,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 356738,
+      "num": 356738,
+      "word": "炎亚纶律师被殴打",
+      "onboard_time": 1704801091,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354451,
       "num": 354451,
       "word": "游本昌51到90岁荧幕变化",
@@ -2627,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329302,
+      "num": 329302,
+      "word": "Faker忘记带惩戒",
+      "onboard_time": 1704803190,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 327670,
       "num": 327670,
       "word": "梁朝伟 其实我也不是那么i",
@@ -2728,6 +2824,14 @@
       "word": "章若楠恭喜陈星旭新戏播出",
       "onboard_time": 1704725014,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 315948,
+      "num": 315948,
+      "word": "A先生 胡歌的脸",
+      "onboard_time": 1704803432,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -2891,12 +2995,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 297891,
+      "num": 297891,
+      "word": "唐毅为陈都灵化的新中式妆",
+      "onboard_time": 1704799830,
+      "rank": 25,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 297276,
       "num": 313580,
       "word": "珠帘玉幕",
       "onboard_time": 1704704610,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 296283,
+      "num": 296283,
+      "word": "李铁杜兆才今晚出镜",
+      "onboard_time": 1704797552,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295174,
@@ -3075,28 +3195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274449,
-      "num": 274449,
-      "word": "内娱最认真的工作室",
-      "onboard_time": 1704799469,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 273256,
       "num": 273256,
       "word": "唐嫣过去的三年都是汪小姐",
       "onboard_time": 1704746474,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272628,
-      "num": 272628,
-      "word": "李铁杜兆才今晚出镜",
-      "onboard_time": 1704797552,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272288,
@@ -3217,14 +3321,6 @@
       "onboard_time": 1704707433,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257438,
-      "num": 257438,
-      "word": "唐毅为陈都灵化的新中式妆",
-      "onboard_time": 1704799830,
-      "rank": 25,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 256848,
@@ -3371,6 +3467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 246403,
+      "num": 246403,
+      "word": "川A大军唯一的禁区",
+      "onboard_time": 1704803190,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 246206,
       "num": 246206,
       "word": "网友英国街头偶遇周杰伦",
@@ -3409,6 +3513,14 @@
       "onboard_time": 1704705330,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242277,
+      "num": 242277,
+      "word": "繁花配角",
+      "onboard_time": 1704789330,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 241621,
@@ -3569,6 +3681,14 @@
       "onboard_time": 1704777571,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 227340,
+      "num": 214736,
+      "word": "繁花收官特别活动",
+      "onboard_time": 1704789091,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 226477,
@@ -3777,14 +3897,6 @@
       "onboard_time": 1704596429,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 214736,
-      "num": 214736,
-      "word": "繁花收官特别活动",
-      "onboard_time": 1704789091,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 214574,
@@ -4059,20 +4171,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 202852,
-      "num": 202852,
-      "word": "繁花配角",
-      "onboard_time": 1704789330,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202830,
       "num": 202830,
       "word": "律师否认马斯克吸毒",
       "onboard_time": 1704625776,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 202059,
+      "num": 202059,
+      "word": "韩庚也是黑龙江赫哲族人",
+      "onboard_time": 1704801632,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 201762,
@@ -4201,6 +4313,14 @@
       "onboard_time": 1704762631,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 197963,
+      "num": 197963,
+      "word": "奉俊昊为李善均开记者会",
+      "onboard_time": 1704801692,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 197535,
@@ -4675,6 +4795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181976,
+      "num": 181976,
+      "word": "檀健次跨年vlog",
+      "onboard_time": 1704802770,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181889,
       "num": 181889,
       "word": "瑞银称A股当前太便宜",
@@ -5115,6 +5243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166291,
+      "num": 150386,
+      "word": "于文文妈见打系穿搭",
+      "onboard_time": 1704800970,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166231,
       "num": 164932,
       "word": "成为辅导员后看尽人生百态",
@@ -5307,6 +5443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159835,
+      "num": 187586,
+      "word": "猫不同意这门亲事",
+      "onboard_time": 1704803190,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159425,
       "num": 159425,
       "word": "得了乙流为什么会骨头疼",
@@ -5353,6 +5497,14 @@
       "onboard_time": 1704777273,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 158396,
+      "num": 187252,
+      "word": "6个动作瘦肚子",
+      "onboard_time": 1704803133,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 158298,
@@ -5883,6 +6035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143156,
+      "num": 143156,
+      "word": "王源说暂停是为了重新出发",
+      "onboard_time": 1704803613,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143046,
       "num": 143046,
       "word": "普通话不好容易引起的误会",
@@ -6251,6 +6411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131039,
+      "num": 131039,
+      "word": "现在的笔竟然有这么多功能",
+      "onboard_time": 1704801510,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130720,
       "num": 130720,
       "word": "天启异闻录 幕后大boss",
@@ -6585,6 +6753,14 @@
       "onboard_time": 1704609088,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123491,
+      "num": 123491,
+      "word": "评论好笑就算了 回复更好笑",
+      "onboard_time": 1704803613,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 123365,
@@ -7860,7 +8036,7 @@
     },
     {
       "raw_hot": 47829,
-      "num": 1301920,
+      "num": 1426765,
       "word": "向禁毒战线上无名的你们致敬",
       "onboard_time": 1704789932,
       "rank": 2,

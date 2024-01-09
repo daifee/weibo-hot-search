@@ -1,7 +1,15 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704800056625,
+  "endTime": 1704803657672,
   "band_list": [
+    {
+      "raw_hot": 4607387,
+      "num": 4607387,
+      "word": "李李出家",
+      "onboard_time": 1704802470,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 2674649,
       "num": 2674649,
@@ -33,6 +41,14 @@
       "onboard_time": 1704797792,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1432491,
+      "num": 1432491,
+      "word": "内娱最认真的工作室",
+      "onboard_time": 1704799469,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1364229,
@@ -73,6 +89,14 @@
       "onboard_time": 1704797011,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1269141,
+      "num": 1269141,
+      "word": "在职1万退休后只能拿4000",
+      "onboard_time": 1704801332,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1246770,
@@ -179,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 889047,
+      "num": 889047,
+      "word": "董宇辉新团队",
+      "onboard_time": 1704801451,
+      "rank": 6,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 882435,
       "num": 882435,
       "word": "贝肯鲍尔去世",
@@ -187,12 +219,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 873577,
+      "num": 561301,
+      "word": "早上宋慧乔 晚上宋小宝",
+      "onboard_time": 1704803190,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 856075,
       "num": 856075,
       "word": "教授建议退休人员卖房去乡村养老",
       "onboard_time": 1704775174,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 836680,
+      "num": 836680,
+      "word": "曝李铁一路砸钱到能执教国足",
+      "onboard_time": 1704797610,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 827373,
@@ -251,20 +299,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 785144,
+      "num": 785144,
+      "word": "马思纯 两年终于拍戏了",
+      "onboard_time": 1704802229,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 749735,
       "num": 501773,
       "word": "被开除当事人称公司全用盗版软件",
       "onboard_time": 1704753498,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 747921,
-      "num": 747921,
-      "word": "曝李铁一路砸钱到能执教国足",
-      "onboard_time": 1704797610,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 744906,
@@ -433,6 +481,14 @@
       "onboard_time": 1704788011,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 557978,
+      "num": 557978,
+      "word": "F1 让不让人抢票了",
+      "onboard_time": 1704802294,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 549494,
@@ -619,6 +675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 457105,
+      "num": 457105,
+      "word": "反腐大片持续发力纵深推进第四集",
+      "onboard_time": 1704802351,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453659,
       "num": 453659,
       "word": "会长是女仆大人 碓冰拓海新绘",
@@ -675,12 +739,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 433269,
+      "num": 433269,
+      "word": "繁花 金主爸爸",
+      "onboard_time": 1704800970,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 430545,
       "num": 430545,
       "word": "司法机关破解苹果AirDrop",
       "onboard_time": 1704767010,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 425257,
+      "num": 425257,
+      "word": "律师称张雪峰说文科生靠舔不侵犯名誉权",
+      "onboard_time": 1704799230,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413946,
@@ -771,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356738,
+      "num": 356738,
+      "word": "炎亚纶律师被殴打",
+      "onboard_time": 1704801091,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345812,
       "num": 345812,
       "word": "人间清醒是李湘",
@@ -811,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329302,
+      "num": 329302,
+      "word": "Faker忘记带惩戒",
+      "onboard_time": 1704803190,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 326410,
       "num": 326410,
       "word": "汇丰称今年A股将涨至3400点",
@@ -848,6 +944,14 @@
       "word": "爷叔给宝总上的最后一课",
       "onboard_time": 1704725792,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 315948,
+      "num": 315948,
+      "word": "A先生 胡歌的脸",
+      "onboard_time": 1704803432,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -891,12 +995,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297891,
+      "num": 297891,
+      "word": "唐毅为陈都灵化的新中式妆",
+      "onboard_time": 1704799830,
+      "rank": 25,
+      "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 296283,
+      "num": 296283,
+      "word": "李铁杜兆才今晚出镜",
+      "onboard_time": 1704797552,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292836,
       "num": 292836,
       "word": "曝王者荣耀抖音直播禁令冰融",
       "onboard_time": 1704798809,
       "rank": 46,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 291871,
+      "num": 291871,
+      "word": "繁花",
+      "onboard_time": 1704716493,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 291129,
@@ -955,28 +1083,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274449,
-      "num": 274449,
-      "word": "内娱最认真的工作室",
-      "onboard_time": 1704799469,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 273256,
       "num": 273256,
       "word": "唐嫣过去的三年都是汪小姐",
       "onboard_time": 1704746474,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272628,
-      "num": 272628,
-      "word": "李铁杜兆才今晚出镜",
-      "onboard_time": 1704797552,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265040,
@@ -1009,14 +1121,6 @@
       "onboard_time": 1704765450,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257438,
-      "num": 257438,
-      "word": "唐毅为陈都灵化的新中式妆",
-      "onboard_time": 1704799830,
-      "rank": 25,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 256361,
@@ -1075,12 +1179,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 246403,
+      "num": 246403,
+      "word": "川A大军唯一的禁区",
+      "onboard_time": 1704803190,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 243766,
       "num": 243766,
       "word": "哈尔滨没有搭建冰航母",
       "onboard_time": 1704792212,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 242277,
+      "num": 242277,
+      "word": "繁花配角",
+      "onboard_time": 1704789330,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 239392,
@@ -1145,6 +1265,14 @@
       "onboard_time": 1704777571,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 227340,
+      "num": 214736,
+      "word": "繁花收官特别活动",
+      "onboard_time": 1704789091,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 225460,
@@ -1275,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214736,
-      "num": 214736,
-      "word": "繁花收官特别活动",
-      "onboard_time": 1704789091,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212564,
       "num": 212564,
       "word": "戏子祭酒",
@@ -1363,12 +1483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202852,
-      "num": 202852,
-      "word": "繁花配角",
-      "onboard_time": 1704789330,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 202059,
+      "num": 202059,
+      "word": "韩庚也是黑龙江赫哲族人",
+      "onboard_time": 1704801632,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 201762,
@@ -1417,6 +1537,14 @@
       "onboard_time": 1704762631,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 197963,
+      "num": 197963,
+      "word": "奉俊昊为李善均开记者会",
+      "onboard_time": 1704801692,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 197224,
@@ -1635,6 +1763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181976,
+      "num": 181976,
+      "word": "檀健次跨年vlog",
+      "onboard_time": 1704802770,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181054,
       "num": 181054,
       "word": "教育局回应班主任让学生发毒誓",
@@ -1771,6 +1907,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 166291,
+      "num": 150386,
+      "word": "于文文妈见打系穿搭",
+      "onboard_time": 1704800970,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166160,
       "num": 166160,
       "word": "尔滨冻梨花茶拿捏优雅",
@@ -1843,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159835,
+      "num": 187586,
+      "word": "猫不同意这门亲事",
+      "onboard_time": 1704803190,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159425,
       "num": 159425,
       "word": "得了乙流为什么会骨头疼",
@@ -1865,6 +2017,14 @@
       "onboard_time": 1704777273,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 158396,
+      "num": 187252,
+      "word": "6个动作瘦肚子",
+      "onboard_time": 1704803133,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 158337,
@@ -1979,14 +2139,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 144926,
-      "num": 144926,
-      "word": "繁花",
-      "onboard_time": 1704716493,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144842,
       "num": 144842,
       "word": "妈妈才最适合考公",
@@ -2017,6 +2169,14 @@
       "onboard_time": 1704720813,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143156,
+      "num": 143156,
+      "word": "王源说暂停是为了重新出发",
+      "onboard_time": 1704803613,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143029,
@@ -2139,6 +2299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131039,
+      "num": 131039,
+      "word": "现在的笔竟然有这么多功能",
+      "onboard_time": 1704801510,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128808,
       "num": 128808,
       "word": "勤梳头能防脱发吗",
@@ -2233,6 +2401,14 @@
       "onboard_time": 1704778052,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123491,
+      "num": 123491,
+      "word": "评论好笑就算了 回复更好笑",
+      "onboard_time": 1704803613,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 123007,
@@ -2572,7 +2748,7 @@
     },
     {
       "raw_hot": 47829,
-      "num": 1301920,
+      "num": 1426765,
       "word": "向禁毒战线上无名的你们致敬",
       "onboard_time": 1704789932,
       "rank": 2,
