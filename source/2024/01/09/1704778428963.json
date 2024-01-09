@@ -1,0 +1,410 @@
+{
+  "runTime": 1704778428963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1470742,
+        "num": 1470742,
+        "word": "发朋友圈被误认为出国的旅游地",
+        "onboard_time": 1704769110,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 856075,
+        "num": 856075,
+        "word": "教授建议退休人员卖房去乡村养老",
+        "onboard_time": 1704775174,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74065,
+        "num": 784075,
+        "word": "2024年春运民航客运量将达8000万人次",
+        "onboard_time": 1704771452,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738279,
+        "num": 738279,
+        "word": "2024实在不行你换2025来吧",
+        "onboard_time": 1704773671,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 640573,
+        "num": 640573,
+        "word": "母女旅游顺道买了辆保时捷",
+        "onboard_time": 1704773611,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452280,
+        "num": 452280,
+        "word": "尔滨把冻梨做出花来了",
+        "onboard_time": 1704772055,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 437378,
+        "num": 437378,
+        "word": "微博之夜新一轮官宣",
+        "onboard_time": 1704775295,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428796,
+        "num": 428796,
+        "word": "为什么全身面部的皮肤最差",
+        "onboard_time": 1704761913,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 343985,
+        "num": 343985,
+        "word": "王家卫到底花了多少钱买歌",
+        "onboard_time": 1704758673,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326410,
+        "num": 326410,
+        "word": "汇丰称今年A股将涨至3400点",
+        "onboard_time": 1704774094,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1093975,
+        "num": 324912,
+        "word": "坠亡的20岁俄籍超模曾去过萝莉岛",
+        "onboard_time": 1704775174,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818617,
+        "num": 322189,
+        "word": "于正再次为张檬写长文",
+        "onboard_time": 1704777811,
+        "rank": 11,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 400811,
+        "num": 319700,
+        "word": "哈尔滨 烫碗",
+        "onboard_time": 1704777393,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 353604,
+        "num": 315681,
+        "word": "网友偶遇赵丽颖喝茶",
+        "onboard_time": 1704770071,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195693,
+        "num": 314869,
+        "word": "原神三星堆 刘欢",
+        "onboard_time": 1704776435,
+        "rank": 14,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 311997,
+        "num": 311997,
+        "word": "和平饭店繁花套房",
+        "onboard_time": 1704773372,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276883,
+        "num": 276883,
+        "word": "刘亦菲红豆奶茶妆",
+        "onboard_time": 1704777033,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253918,
+        "num": 253918,
+        "word": "1天1杯奶茶会得糖尿病吗",
+        "onboard_time": 1704765151,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243957,
+        "num": 243957,
+        "word": "年轻人报复性挤爆3.5分餐厅",
+        "onboard_time": 1704731304,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228634,
+        "num": 228634,
+        "word": "TTG官宣许诺自由人",
+        "onboard_time": 1704777571,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 826587,
+        "num": 226312,
+        "word": "博主起诉张雪峰要求道歉并赔1元",
+        "onboard_time": 1704773795,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454829,
+        "num": 225933,
+        "word": "龙年出生的孩子会更优秀吗",
+        "onboard_time": 1704772473,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309961,
+        "num": 225861,
+        "word": "交往时一半年薪用来吃喝男生分手",
+        "onboard_time": 1704777630,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222151,
+        "num": 222151,
+        "word": "朱丹周一围翻拍经典亲吻躲避照",
+        "onboard_time": 1704777811,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212176,
+        "num": 212176,
+        "word": "历年微博之夜名场面",
+        "onboard_time": 1704771930,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184517,
+        "num": 184517,
+        "word": "原神托马",
+        "onboard_time": 1704777871,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174737,
+        "num": 174737,
+        "word": "当高铁座位旁是个大学生时",
+        "onboard_time": 1704772533,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172054,
+        "num": 172054,
+        "word": "张雪峰公司成立职业培训学校",
+        "onboard_time": 1704770551,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 171484,
+        "num": 171484,
+        "word": "iPhone从4000多米高空坠落仍可使用",
+        "onboard_time": 1704762752,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112649,
+        "num": 165812,
+        "word": "熊猫都忍不住吸熊猫了",
+        "onboard_time": 1704768752,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165603,
+        "num": 165603,
+        "word": "Deft评价Faker",
+        "onboard_time": 1704777695,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164394,
+        "num": 164394,
+        "word": "985到底有什么用",
+        "onboard_time": 1704774697,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160340,
+        "num": 160340,
+        "word": "惠英红 南方小土豆堆雪人",
+        "onboard_time": 1704778234,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159313,
+        "num": 159313,
+        "word": "权顺荣 下辈子作为灵魂相见吧",
+        "onboard_time": 1704772593,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158461,
+        "num": 158461,
+        "word": "张雪峰回应被起诉",
+        "onboard_time": 1704777273,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155020,
+        "num": 155020,
+        "word": "当HR让我在年会上表演节目",
+        "onboard_time": 1704776854,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154920,
+        "num": 154920,
+        "word": "林俊杰成都站",
+        "onboard_time": 1704776615,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154277,
+        "num": 154277,
+        "word": "花儿与少年 群像杀伤力",
+        "onboard_time": 1704766770,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151189,
+        "num": 151189,
+        "word": "被女高管违法开除员工称签道歉函才给赔偿",
+        "onboard_time": 1704767490,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149803,
+        "num": 149803,
+        "word": "张婧仪檀健次吻戏",
+        "onboard_time": 1704767429,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149047,
+        "num": 149047,
+        "word": "花了不到150块带奶奶玩了一天",
+        "onboard_time": 1704769110,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145446,
+        "num": 145446,
+        "word": "复旦情侣猫咪恋爱被围观",
+        "onboard_time": 1704774697,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144926,
+        "num": 144926,
+        "word": "繁花",
+        "onboard_time": 1704778416,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140882,
+        "num": 140882,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704769832,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138146,
+        "num": 138146,
+        "word": "唐嫣过去的三年都是汪小姐",
+        "onboard_time": 1704746474,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136639,
+        "num": 136639,
+        "word": "女高管开除员工事件",
+        "onboard_time": 1704778295,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131773,
+        "num": 131773,
+        "word": "王家卫指导范湉湉称不要心疼胡歌",
+        "onboard_time": 1704776615,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129387,
+        "num": 129387,
+        "word": "会长是女仆大人 碓冰拓海新绘",
+        "onboard_time": 1704767971,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 125140,
+        "num": 125140,
+        "word": "宝总和四个女人的故事",
+        "onboard_time": 1704775112,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124601,
+        "num": 124601,
+        "word": "两只小羊带领小学生晨跑",
+        "onboard_time": 1704778052,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进党的自我革命#"
+    }
+  }
+}

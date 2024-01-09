@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704777440820,
+  "endTime": 1704778428963,
   "band_list": [
     {
       "raw_hot": 2674649,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1093975,
+      "num": 385333,
+      "word": "坠亡的20岁俄籍超模曾去过萝莉岛",
+      "onboard_time": 1704775174,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1082340,
       "num": 464277,
       "word": "萝莉岛",
@@ -64,14 +72,6 @@
       "word": "博主起诉张雪峰要求道歉并赔1元",
       "onboard_time": 1704773795,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 912453,
-      "num": 385333,
-      "word": "坠亡的20岁俄籍超模曾去过萝莉岛",
-      "onboard_time": 1704775174,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -99,8 +99,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 854962,
-      "num": 854962,
+      "raw_hot": 856075,
+      "num": 856075,
       "word": "教授建议退休人员卖房去乡村养老",
       "onboard_time": 1704775174,
       "rank": 1,
@@ -113,6 +113,14 @@
       "onboard_time": 1704773671,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 818617,
+      "num": 322189,
+      "word": "于正再次为张檬写长文",
+      "onboard_time": 1704777811,
+      "rank": 11,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 807736,
@@ -395,6 +403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 400811,
+      "num": 319700,
+      "word": "哈尔滨 烫碗",
+      "onboard_time": 1704777393,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 374251,
       "num": 374251,
       "word": "鞠婧祎宋威龙咬唇吻",
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326410,
+      "num": 326410,
+      "word": "汇丰称今年A股将涨至3400点",
+      "onboard_time": 1704774094,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 321296,
       "num": 321296,
       "word": "蒋龙刘恋出演被我弄丢的你",
@@ -448,6 +472,14 @@
       "word": "河南致返乡人员一封信",
       "onboard_time": 1704762451,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309961,
+      "num": 225861,
+      "word": "交往时一半年薪用来吃喝男生分手",
+      "onboard_time": 1704777630,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -483,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 276883,
+      "num": 276883,
+      "word": "刘亦菲红豆奶茶妆",
+      "onboard_time": 1704777033,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273256,
       "num": 273256,
       "word": "唐嫣过去的三年都是汪小姐",
@@ -505,14 +545,6 @@
       "onboard_time": 1704720695,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 262798,
-      "num": 262798,
-      "word": "汇丰称今年A股将涨至3400点",
-      "onboard_time": 1704774094,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 259941,
@@ -595,6 +627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 228634,
+      "num": 228634,
+      "word": "TTG官宣许诺自由人",
+      "onboard_time": 1704777571,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224777,
       "num": 224777,
       "word": "国考成绩 不出就睡了",
@@ -625,6 +665,14 @@
       "onboard_time": 1704759813,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222151,
+      "num": 222151,
+      "word": "朱丹周一围翻拍经典亲吻躲避照",
+      "onboard_time": 1704777811,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 220749,
@@ -707,14 +755,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 201121,
-      "num": 201121,
-      "word": "刘亦菲红豆奶茶妆",
-      "onboard_time": 1704777033,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200551,
       "num": 200551,
       "word": "发病后48小时是流感治疗黄金期",
@@ -737,6 +777,14 @@
       "onboard_time": 1704762631,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 195693,
+      "num": 314869,
+      "word": "原神三星堆 刘欢",
+      "onboard_time": 1704776435,
+      "rank": 14,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 194647,
@@ -825,6 +873,14 @@
       "onboard_time": 1704766170,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184517,
+      "num": 184517,
+      "word": "原神托马",
+      "onboard_time": 1704777871,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 183918,
@@ -923,12 +979,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 165603,
+      "num": 165603,
+      "word": "Deft评价Faker",
+      "onboard_time": 1704777695,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162880,
       "num": 162880,
       "word": "2023年运动员微博报告",
       "onboard_time": 1704773611,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160340,
+      "num": 160340,
+      "word": "惠英红 南方小土豆堆雪人",
+      "onboard_time": 1704778234,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 159425,
@@ -945,6 +1017,14 @@
       "onboard_time": 1704775174,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 158461,
+      "num": 158461,
+      "word": "张雪峰回应被起诉",
+      "onboard_time": 1704777273,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 158337,
@@ -971,8 +1051,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 151562,
-      "num": 151562,
+      "raw_hot": 155020,
+      "num": 155020,
       "word": "当HR让我在年会上表演节目",
       "onboard_time": 1704776854,
       "rank": 41,
@@ -985,14 +1065,6 @@
       "onboard_time": 1704762631,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148086,
-      "num": 291079,
-      "word": "原神三星堆 刘欢",
-      "onboard_time": 1704776435,
-      "rank": 14,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 146166,
@@ -1009,6 +1081,14 @@
       "onboard_time": 1704765752,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 144926,
+      "num": 144926,
+      "word": "繁花",
+      "onboard_time": 1704716493,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 144842,
@@ -1057,6 +1137,14 @@
       "onboard_time": 1704775534,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136639,
+      "num": 136639,
+      "word": "女高管开除员工事件",
+      "onboard_time": 1704778295,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136222,
@@ -1163,20 +1251,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124601,
+      "num": 124601,
+      "word": "两只小羊带领小学生晨跑",
+      "onboard_time": 1704778052,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123007,
       "num": 123007,
       "word": "10秒批量打印一千张奖状的小技巧",
       "onboard_time": 1704770972,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 122974,
-      "num": 122974,
-      "word": "张雪峰回应被起诉",
-      "onboard_time": 1704777273,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 121302,
@@ -1225,14 +1313,6 @@
       "onboard_time": 1704763950,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 107556,
-      "num": 107556,
-      "word": "哈尔滨 烫碗",
-      "onboard_time": 1704777393,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 104532,
@@ -1329,14 +1409,6 @@
       "onboard_time": 1704725375,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 84034,
-      "num": 84034,
-      "word": "繁花",
-      "onboard_time": 1704716493,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 82503,
@@ -1484,6 +1556,9 @@
     },
     {
       "word": "#打赢反腐败斗争攻坚战持久战#"
+    },
+    {
+      "word": "#深入推进党的自我革命#"
     }
   ]
 }
