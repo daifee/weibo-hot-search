@@ -1,0 +1,410 @@
+{
+  "runTime": 1704771248367,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2485410,
+        "num": 2485410,
+        "word": "章泽天净资产600亿",
+        "onboard_time": 1704766651,
+        "rank": 0,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 1652966,
+        "num": 1652966,
+        "word": "发朋友圈被误认为出国的旅游地",
+        "onboard_time": 1704769110,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 5264,
+        "num": 682813,
+        "word": "稳住外贸外资基本盘扩大制度型开放",
+        "onboard_time": 1704771212,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661541,
+        "num": 661541,
+        "word": "为什么全身面部的皮肤最差",
+        "onboard_time": 1704761913,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 578790,
+        "num": 578790,
+        "word": "王家卫到底花了多少钱买歌",
+        "onboard_time": 1704758673,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538404,
+        "num": 538404,
+        "word": "iPhone从4000多米高空坠落仍可使用",
+        "onboard_time": 1704762752,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 531147,
+        "num": 531147,
+        "word": "花儿与少年 群像杀伤力",
+        "onboard_time": 1704766770,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501635,
+        "num": 501635,
+        "word": "莫兰特赛季报销",
+        "onboard_time": 1704770011,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37097,
+        "num": 498788,
+        "word": "多地上新文旅大礼包",
+        "onboard_time": 1704721595,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498130,
+        "num": 498130,
+        "word": "被女高管违法开除员工称签道歉函才给赔偿",
+        "onboard_time": 1704767490,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593980,
+        "num": 485422,
+        "word": "网友偶遇赵丽颖喝茶",
+        "onboard_time": 1704770071,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453659,
+        "num": 453659,
+        "word": "会长是女仆大人 碓冰拓海新绘",
+        "onboard_time": 1704767971,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 433371,
+        "num": 433371,
+        "word": "已读瞎回",
+        "onboard_time": 1704762992,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423298,
+        "num": 423298,
+        "word": "年轻人报复性挤爆3.5分餐厅",
+        "onboard_time": 1704731304,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420280,
+        "num": 420280,
+        "word": "张婧仪檀健次吻戏",
+        "onboard_time": 1704767429,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385710,
+        "num": 385710,
+        "word": "热水泡脚确实能睡得更香",
+        "onboard_time": 1704765331,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 355000,
+        "num": 355000,
+        "word": "1天1杯奶茶会得糖尿病吗",
+        "onboard_time": 1704765151,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 350929,
+        "num": 350929,
+        "word": "司法机关破解苹果AirDrop",
+        "onboard_time": 1704767010,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 342688,
+        "num": 342688,
+        "word": "花了不到150块带奶奶玩了一天",
+        "onboard_time": 1704769110,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328744,
+        "num": 328744,
+        "word": "张雪峰公司成立职业培训学校",
+        "onboard_time": 1704770551,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 269617,
+        "num": 269617,
+        "word": "唐嫣过去的三年都是汪小姐",
+        "onboard_time": 1704746474,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266020,
+        "num": 266020,
+        "word": "蒋龙刘恋出演被我弄丢的你",
+        "onboard_time": 1704767549,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255919,
+        "num": 255919,
+        "word": "贾玲张小斐 我真的会谢",
+        "onboard_time": 1704726754,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219092,
+        "num": 219092,
+        "word": "掉河里的顶级翡翠找到了",
+        "onboard_time": 1704763412,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203403,
+        "num": 203403,
+        "word": "腾讯游戏公布寒假限玩日历",
+        "onboard_time": 1704767732,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193956,
+        "num": 193956,
+        "word": "泡温泉会感染HPV吗",
+        "onboard_time": 1704757528,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192990,
+        "num": 192990,
+        "word": "贝肯鲍尔去世",
+        "onboard_time": 1704755179,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189395,
+        "num": 189395,
+        "word": "熊猫都忍不住吸熊猫了",
+        "onboard_time": 1704768752,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188731,
+        "num": 188731,
+        "word": "女高管开除员工双方已达成补偿协议",
+        "onboard_time": 1704767429,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177280,
+        "num": 177280,
+        "word": "爱泼斯坦案新文件涉及特朗普",
+        "onboard_time": 1704768151,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169420,
+        "num": 169420,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704769832,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167751,
+        "num": 167751,
+        "word": "景甜短发",
+        "onboard_time": 1704755060,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166160,
+        "num": 166160,
+        "word": "尔滨冻梨花茶拿捏优雅",
+        "onboard_time": 1704770790,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158648,
+        "num": 158648,
+        "word": "41岁流浪歌手生活困难转行卖烧烤",
+        "onboard_time": 1704764371,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155476,
+        "num": 155476,
+        "word": "河南致返乡人员一封信",
+        "onboard_time": 1704762451,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111905,
+        "num": 148146,
+        "word": "小米手机销量暴涨38%登顶国产第一",
+        "onboard_time": 1704770611,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143340,
+        "num": 143340,
+        "word": "乙流与甲流的不同",
+        "onboard_time": 1704769711,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143153,
+        "num": 143153,
+        "word": "刘浩存吉林卫视春晚彩排路透",
+        "onboard_time": 1704765450,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142305,
+        "num": 142305,
+        "word": "让学生发毒誓老师被行政警告",
+        "onboard_time": 1704770972,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138301,
+        "num": 138301,
+        "word": "男孩刷优待证乘车被质疑实情令人心酸",
+        "onboard_time": 1704771212,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137968,
+        "num": 137968,
+        "word": "女儿刚生爸妈坐高铁送2万6卖炸串钱",
+        "onboard_time": 1704740475,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134011,
+        "num": 134011,
+        "word": "车银优将solo出道",
+        "onboard_time": 1704766411,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130812,
+        "num": 130812,
+        "word": "卢美琳是嫁给黄河路的女人",
+        "onboard_time": 1704761555,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128244,
+        "num": 128244,
+        "word": "宋茜 不止斩弟也斩女",
+        "onboard_time": 1704766170,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127108,
+        "num": 127108,
+        "word": "林高远世界排名升至第6",
+        "onboard_time": 1704771090,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123007,
+        "num": 123007,
+        "word": "10秒批量打印一千张奖状的小技巧",
+        "onboard_time": 1704770972,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 122926,
+        "num": 122926,
+        "word": "霍格沃茨之遗销量突破2200万份",
+        "onboard_time": 1704769650,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122663,
+        "num": 122663,
+        "word": "乙流",
+        "onboard_time": 1704723814,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114035,
+        "num": 114035,
+        "word": "国安部推出特别版黑猫警长",
+        "onboard_time": 1704762451,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113861,
+        "num": 113861,
+        "word": "2023年253名民警164名辅警牺牲",
+        "onboard_time": 1704769229,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委三次全会召开#"
+    }
+  }
+}
