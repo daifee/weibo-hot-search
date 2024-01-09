@@ -1,10 +1,10 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704803657672,
+  "endTime": 1704804698177,
   "band_list": [
     {
-      "raw_hot": 4607387,
-      "num": 4607387,
+      "raw_hot": 5501200,
+      "num": 5501200,
       "word": "李李出家",
       "onboard_time": 1704802470,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1607872,
+      "num": 1607872,
+      "word": "早上宋慧乔 晚上宋小宝",
+      "onboard_time": 1704803190,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1432491,
       "num": 1432491,
       "word": "内娱最认真的工作室",
@@ -64,6 +72,14 @@
       "word": "年轻人报复性挤爆3.5分餐厅",
       "onboard_time": 1704731304,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1342046,
+      "num": 1342046,
+      "word": "在职1万退休后只能拿4000",
+      "onboard_time": 1704801332,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -91,14 +107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1269141,
-      "num": 1269141,
-      "word": "在职1万退休后只能拿4000",
-      "onboard_time": 1704801332,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1246770,
       "num": 1246770,
       "word": "长沙致54死自建房坍塌事故本有机会避免",
@@ -121,6 +129,14 @@
       "onboard_time": 1704792932,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1191123,
+      "num": 1191123,
+      "word": "A先生 胡歌的脸",
+      "onboard_time": 1704803432,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 1185180,
@@ -219,12 +235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 873577,
-      "num": 561301,
-      "word": "早上宋慧乔 晚上宋小宝",
-      "onboard_time": 1704803190,
+      "raw_hot": 860938,
+      "num": 860938,
+      "word": "曝李铁一路砸钱到能执教国足",
+      "onboard_time": 1704797610,
       "rank": 10,
-      "category": "综艺"
+      "category": "体育"
     },
     {
       "raw_hot": 856075,
@@ -235,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 836680,
-      "num": 836680,
-      "word": "曝李铁一路砸钱到能执教国足",
-      "onboard_time": 1704797610,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 836257,
+      "num": 785144,
+      "word": "马思纯 两年终于拍戏了",
+      "onboard_time": 1704802229,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 827373,
@@ -265,6 +281,14 @@
       "onboard_time": 1704790532,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 812395,
+      "num": 812395,
+      "word": "李铁两次带队进中超背后都是假球",
+      "onboard_time": 1704804213,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 807736,
@@ -299,12 +323,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 785144,
-      "num": 785144,
-      "word": "马思纯 两年终于拍戏了",
-      "onboard_time": 1704802229,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 751597,
+      "num": 751597,
+      "word": "央视播出李铁案细节",
+      "onboard_time": 1704803732,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 749735,
@@ -443,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 605079,
+      "num": 605079,
+      "word": "反腐大片持续发力纵深推进第四集",
+      "onboard_time": 1704802351,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 600705,
       "num": 600705,
       "word": "韩国以食用目的宰杀犬只将获刑",
@@ -552,6 +584,14 @@
       "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
       "onboard_time": 1704737779,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510638,
+      "num": 510638,
+      "word": "李铁杜兆才今晚出镜",
+      "onboard_time": 1704797552,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -675,12 +715,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 457105,
-      "num": 457105,
-      "word": "反腐大片持续发力纵深推进第四集",
-      "onboard_time": 1704802351,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 454025,
+      "num": 454025,
+      "word": "王源说暂停是为了重新出发",
+      "onboard_time": 1704803613,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 453659,
@@ -883,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335848,
+      "num": 335848,
+      "word": "Faker忘记带惩戒",
+      "onboard_time": 1704803190,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 334793,
       "num": 313315,
       "word": "二十几岁没谈过恋爱",
@@ -891,20 +939,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334178,
+      "num": 334178,
+      "word": "李铁行贿300万当上国足主教练",
+      "onboard_time": 1704804513,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333782,
       "num": 193571,
       "word": "女子称波司登羽绒服剪开全是碎末",
       "onboard_time": 1704717929,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329302,
-      "num": 329302,
-      "word": "Faker忘记带惩戒",
-      "onboard_time": 1704803190,
-      "rank": 20,
-      "category": "电竞"
     },
     {
       "raw_hot": 326410,
@@ -944,14 +992,6 @@
       "word": "爷叔给宝总上的最后一课",
       "onboard_time": 1704725792,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 315948,
-      "num": 315948,
-      "word": "A先生 胡歌的脸",
-      "onboard_time": 1704803432,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -1001,14 +1041,6 @@
       "onboard_time": 1704799830,
       "rank": 25,
       "category": "美妆,艺人"
-    },
-    {
-      "raw_hot": 296283,
-      "num": 296283,
-      "word": "李铁杜兆才今晚出镜",
-      "onboard_time": 1704797552,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292836,
@@ -1088,6 +1120,14 @@
       "word": "唐嫣过去的三年都是汪小姐",
       "onboard_time": 1704746474,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266597,
+      "num": 266597,
+      "word": "繁花配角",
+      "onboard_time": 1704789330,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1193,14 +1233,6 @@
       "onboard_time": 1704792212,
       "rank": 24,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 242277,
-      "num": 242277,
-      "word": "繁花配角",
-      "onboard_time": 1704789330,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 239392,
@@ -1539,6 +1571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 198174,
+      "num": 198174,
+      "word": "王鹤棣跨年花絮",
+      "onboard_time": 1704803853,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197963,
       "num": 197963,
       "word": "奉俊昊为李善均开记者会",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1704773493,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 187271,
+      "num": 187271,
+      "word": "6个动作瘦肚子",
+      "onboard_time": 1704803133,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 185961,
@@ -1843,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170516,
+      "num": 170516,
+      "word": "这下不怕脂肪刷不下去了",
+      "onboard_time": 1704803732,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 170379,
       "num": 170379,
       "word": "苦难就是苦难",
@@ -1897,6 +1953,14 @@
       "onboard_time": 1704784771,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 167452,
+      "num": 167452,
+      "word": "三羊牌大衣",
+      "onboard_time": 1704804392,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 167280,
@@ -2019,14 +2083,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 158396,
-      "num": 187252,
-      "word": "6个动作瘦肚子",
-      "onboard_time": 1704803133,
-      "rank": 39,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 158337,
       "num": 158337,
       "word": "蔡依林 浪5",
@@ -2065,6 +2121,14 @@
       "onboard_time": 1704790414,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156374,
+      "num": 156374,
+      "word": "ROG2024",
+      "onboard_time": 1704804392,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 156010,
@@ -2169,14 +2233,6 @@
       "onboard_time": 1704720813,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143156,
-      "num": 143156,
-      "word": "王源说暂停是为了重新出发",
-      "onboard_time": 1704803613,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 143029,
@@ -2721,6 +2777,14 @@
       "onboard_time": 1704727413,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56633,
+      "num": 1385468,
+      "word": "今日三九",
+      "onboard_time": 1704789452,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55394,

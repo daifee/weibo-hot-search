@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704803657672,
+  "endTime": 1704804698177,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4607387,
-      "num": 4607387,
+      "raw_hot": 5501200,
+      "num": 5501200,
       "word": "李李出家",
       "onboard_time": 1704802470,
       "rank": 0,
@@ -667,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1607872,
+      "num": 1607872,
+      "word": "早上宋慧乔 晚上宋小宝",
+      "onboard_time": 1704803190,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1594101,
       "num": 1594101,
       "word": "我国破获一起英国秘密情报局间谍案",
@@ -1067,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1342046,
+      "num": 1342046,
+      "word": "在职1万退休后只能拿4000",
+      "onboard_time": 1704801332,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1338489,
       "num": 931253,
       "word": "于正再次为张檬写长文",
@@ -1185,14 +1201,6 @@
       "onboard_time": 1704248911,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1269141,
-      "num": 1269141,
-      "word": "在职1万退休后只能拿4000",
-      "onboard_time": 1704801332,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1265933,
@@ -1377,6 +1385,14 @@
       "onboard_time": 1704717929,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1191123,
+      "num": 1191123,
+      "word": "A先生 胡歌的脸",
+      "onboard_time": 1704803432,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 1189051,
@@ -2475,14 +2491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 873577,
-      "num": 561301,
-      "word": "早上宋慧乔 晚上宋小宝",
-      "onboard_time": 1704803190,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 873008,
       "num": 873008,
       "word": "跨年无人机表演取消主办方下跪道歉",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1704171876,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 860938,
+      "num": 860938,
+      "word": "曝李铁一路砸钱到能执教国足",
+      "onboard_time": 1704797610,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 860048,
@@ -2659,12 +2675,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 836680,
-      "num": 836680,
-      "word": "曝李铁一路砸钱到能执教国足",
-      "onboard_time": 1704797610,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 836257,
+      "num": 785144,
+      "word": "马思纯 两年终于拍戏了",
+      "onboard_time": 1704802229,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 835757,
@@ -2817,6 +2833,14 @@
       "onboard_time": 1704104918,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 812395,
+      "num": 812395,
+      "word": "李铁两次带队进中超背后都是假球",
+      "onboard_time": 1704804213,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 811002,
@@ -3027,14 +3051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 785144,
-      "num": 785144,
-      "word": "马思纯 两年终于拍戏了",
-      "onboard_time": 1704802229,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 784715,
       "num": 784715,
       "word": "太超前了尔滨",
@@ -3201,6 +3217,14 @@
       "onboard_time": 1704097304,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 751597,
+      "num": 751597,
+      "word": "央视播出李铁案细节",
+      "onboard_time": 1704803732,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 751347,
@@ -4571,6 +4595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605079,
+      "num": 605079,
+      "word": "反腐大片持续发力纵深推进第四集",
+      "onboard_time": 1704802351,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603697,
       "num": 603697,
       "word": "广东一地公示8名躺平休闲人员",
@@ -5739,6 +5771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510638,
+      "num": 510638,
+      "word": "李铁杜兆才今晚出镜",
+      "onboard_time": 1704797552,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510544,
       "num": 510544,
       "word": "哈工大学霸人手一个橘宝宝",
@@ -6627,14 +6667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 457105,
-      "num": 457105,
-      "word": "反腐大片持续发力纵深推进第四集",
-      "onboard_time": 1704802351,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 454838,
       "num": 454838,
       "word": "D社称李善均遗书内容不实",
@@ -6649,6 +6681,14 @@
       "onboard_time": 1704108398,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 454025,
+      "num": 454025,
+      "word": "王源说暂停是为了重新出发",
+      "onboard_time": 1704803613,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 454019,
@@ -8547,6 +8587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 335848,
+      "num": 335848,
+      "word": "Faker忘记带惩戒",
+      "onboard_time": 1704803190,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 335740,
       "num": 335740,
       "word": "Doinb更新动态",
@@ -8593,6 +8641,14 @@
       "onboard_time": 1704250471,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334178,
+      "num": 334178,
+      "word": "李铁行贿300万当上国足主教练",
+      "onboard_time": 1704804513,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 333852,
@@ -8657,14 +8713,6 @@
       "onboard_time": 1704510387,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329302,
-      "num": 329302,
-      "word": "Faker忘记带惩戒",
-      "onboard_time": 1704803190,
-      "rank": 20,
-      "category": "电竞"
     },
     {
       "raw_hot": 328813,
@@ -9033,14 +9081,6 @@
       "onboard_time": 1704529531,
       "rank": 32,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 315948,
-      "num": 315948,
-      "word": "A先生 胡歌的脸",
-      "onboard_time": 1704803432,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 315726,
@@ -9528,14 +9568,6 @@
       "word": "59岁外卖员元旦当晚倒在送餐路上",
       "onboard_time": 1704205714,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296283,
-      "num": 296283,
-      "word": "李铁杜兆才今晚出镜",
-      "onboard_time": 1704797552,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -10451,6 +10483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 266597,
+      "num": 266597,
+      "word": "繁花配角",
+      "onboard_time": 1704789330,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266535,
       "num": 266535,
       "word": "南方宝宝在东北阿姨赞美声中迷失",
@@ -11353,14 +11393,6 @@
       "onboard_time": 1704245371,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242277,
-      "num": 242277,
-      "word": "繁花配角",
-      "onboard_time": 1704789330,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 241994,
@@ -13875,6 +13907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198174,
+      "num": 198174,
+      "word": "王鹤棣跨年花絮",
+      "onboard_time": 1704803853,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198073,
       "num": 198073,
       "word": "猫咪山竹",
@@ -14841,6 +14881,14 @@
       "onboard_time": 1704615027,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187271,
+      "num": 187271,
+      "word": "6个动作瘦肚子",
+      "onboard_time": 1704803133,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 187203,
@@ -16307,6 +16355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170516,
+      "num": 170516,
+      "word": "这下不怕脂肪刷不下去了",
+      "onboard_time": 1704803732,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 170514,
       "num": 170514,
       "word": "阿宝就是宝总的退路",
@@ -16601,6 +16657,14 @@
       "onboard_time": 1704784771,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 167452,
+      "num": 167452,
+      "word": "三羊牌大衣",
+      "onboard_time": 1704804392,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 167280,
@@ -17339,14 +17403,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 158396,
-      "num": 187252,
-      "word": "6个动作瘦肚子",
-      "onboard_time": 1704803133,
-      "rank": 39,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 158298,
       "num": 158298,
       "word": "上证指数",
@@ -17521,6 +17577,14 @@
       "onboard_time": 1704008371,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156374,
+      "num": 156374,
+      "word": "ROG2024",
+      "onboard_time": 1704804392,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 156297,
@@ -18769,14 +18833,6 @@
       "onboard_time": 1704150985,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 143156,
-      "num": 143156,
-      "word": "王源说暂停是为了重新出发",
-      "onboard_time": 1704803613,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 143072,
@@ -23417,6 +23473,14 @@
       "onboard_time": 1704704730,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 56633,
+      "num": 1385468,
+      "word": "今日三九",
+      "onboard_time": 1704789452,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56440,
