@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/09 07:34:13
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/09 09:17:23
 </p>
 </blockquote>
 <p>
@@ -735,6 +735,12 @@ iPhone16Pro渲染图曝光（热度：1381638）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A4%90%E5%8E%85%23" target="weibo">
+年轻人报复性挤爆3.5分餐厅（热度：1361424）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%9B%9E%E5%BA%94%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%23" target="weibo">
 尹锡悦回应李在明遇袭（热度：1360274）
 </a>
@@ -965,6 +971,12 @@ A先生说辛芷蕾本人很漂亮（热度：1194844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB%23" target="weibo">
 女孩骨折忍痛赶飞机邻座是骨科主任（热度：1186866）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%88%B0%E5%BA%95%E8%8A%B1%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1%E4%B9%B0%E6%AD%8C%23" target="weibo">
+王家卫到底花了多少钱买歌（热度：1185180）
 </a>
 </li>
 
@@ -1307,12 +1319,6 @@ A先生李李恋情（热度：1095743）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%8B%8D%E7%B9%81%E8%8A%B1%E5%AD%A6%E4%BA%86%E4%B8%A4%E5%B9%B4%E8%88%9E%E8%B9%88%E8%AF%BE%23" target="weibo">
 辛芷蕾拍繁花学了两年舞蹈课（热度：1029811）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A4%90%E5%8E%85%23" target="weibo">
-年轻人报复性挤爆3.5分餐厅（热度：1026737）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ papi酱菱红下线（热度：870941）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%96%91%E6%9C%AA%E7%BB%9920%E4%B8%87%E5%88%86%E6%89%8B%E8%B4%B9%E8%A2%AB%E7%94%B7%E5%8F%8B%E7%A0%B8%E6%AD%BB%23" target="weibo">
 女子疑未给20万分手费被男友砸死（热度：854155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TVB%E5%89%8D%E4%B8%BB%E6%92%AD%E6%9F%B3%E4%BF%8A%E6%B1%9F%E5%9B%A0%E5%B1%8B%E5%86%85%E7%83%A7%E7%82%AD%E8%BA%AB%E4%BA%A1%23" target="weibo">
-TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 </a>
 </li>
 

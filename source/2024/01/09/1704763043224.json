@@ -1,0 +1,410 @@
+{
+  "runTime": 1704763043224,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1361424,
+        "num": 1361424,
+        "word": "年轻人报复性挤爆3.5分餐厅",
+        "onboard_time": 1704731304,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1185180,
+        "num": 1185180,
+        "word": "王家卫到底花了多少钱买歌",
+        "onboard_time": 1704758673,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96379,
+        "num": 870662,
+        "word": "多地上新文旅大礼包",
+        "onboard_time": 1704721595,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698766,
+        "num": 698766,
+        "word": "泡温泉会感染HPV吗",
+        "onboard_time": 1704757528,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 641683,
+        "num": 641683,
+        "word": "贝肯鲍尔去世",
+        "onboard_time": 1704755179,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608254,
+        "num": 608254,
+        "word": "贾玲张小斐 我真的会谢",
+        "onboard_time": 1704726754,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 586172,
+        "num": 586172,
+        "word": "沈阳文旅局局长连夜听网友支招",
+        "onboard_time": 1704756867,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531651,
+        "num": 531651,
+        "word": "女儿刚生爸妈坐高铁送2万6卖炸串钱",
+        "onboard_time": 1704740475,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506046,
+        "num": 506046,
+        "word": "北方袋装牛奶普遍没有吸管也没插孔",
+        "onboard_time": 1704757528,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 466394,
+        "num": 466394,
+        "word": "波音全球停飞股价暴跌",
+        "onboard_time": 1704759993,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 956304,
+        "num": 464277,
+        "word": "萝莉岛",
+        "onboard_time": 1704725911,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749735,
+        "num": 461994,
+        "word": "被开除当事人称公司全用盗版软件",
+        "onboard_time": 1704753498,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572621,
+        "num": 457105,
+        "word": "为什么全身面部的皮肤最差",
+        "onboard_time": 1704761913,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 540947,
+        "num": 455314,
+        "word": "乙流",
+        "onboard_time": 1704723814,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 453366,
+        "num": 453366,
+        "word": "iPhone在华销量同比大跌30%",
+        "onboard_time": 1704756926,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 429349,
+        "num": 429349,
+        "word": "卢美琳是嫁给黄河路的女人",
+        "onboard_time": 1704761555,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399647,
+        "num": 399647,
+        "word": "景甜短发",
+        "onboard_time": 1704755060,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 345812,
+        "num": 345812,
+        "word": "人间清醒是李湘",
+        "onboard_time": 1704724954,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317749,
+        "num": 317749,
+        "word": "爷叔给宝总上的最后一课",
+        "onboard_time": 1704725792,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251320,
+        "num": 317362,
+        "word": "平平无奇女主 懒傻馋呆男主",
+        "onboard_time": 1704754999,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495496,
+        "num": 317361,
+        "word": "女子哈尔滨吃铁锅炖分量少提醒避雷",
+        "onboard_time": 1704737779,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317353,
+        "num": 317353,
+        "word": "哈尔滨冻草莓都开始按个卖了",
+        "onboard_time": 1704715531,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273256,
+        "num": 273256,
+        "word": "唐嫣过去的三年都是汪小姐",
+        "onboard_time": 1704746474,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235739,
+        "num": 235739,
+        "word": "看到了男友和他妈妈的聊天记录",
+        "onboard_time": 1704756685,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222744,
+        "num": 222744,
+        "word": "原来爱因斯坦的大脑确实不一样",
+        "onboard_time": 1704759813,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220749,
+        "num": 220749,
+        "word": "为什么有人说乙流是王中王",
+        "onboard_time": 1704757948,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219308,
+        "num": 219308,
+        "word": "哈尔滨儿媳妇把全家人问懵",
+        "onboard_time": 1704756867,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205396,
+        "num": 205396,
+        "word": "国考成绩 不出就睡了",
+        "onboard_time": 1704721533,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203276,
+        "num": 203276,
+        "word": "苹果头显2月2日上市",
+        "onboard_time": 1704762512,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193980,
+        "num": 193980,
+        "word": "河南致返乡人员一封信",
+        "onboard_time": 1704762451,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194624,
+        "num": 193571,
+        "word": "女子称波司登羽绒服剪开全是碎末",
+        "onboard_time": 1704717929,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191905,
+        "num": 191905,
+        "word": "国安部推出特别版黑猫警长",
+        "onboard_time": 1704762451,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189817,
+        "num": 189817,
+        "word": "专家建议羽绒服要手洗",
+        "onboard_time": 1704721834,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 180176,
+        "num": 180176,
+        "word": "发病后48小时是流感治疗黄金期",
+        "onboard_time": 1704762631,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176429,
+        "num": 176429,
+        "word": "夺命建筑因层层糊弄漏网终致54人死亡",
+        "onboard_time": 1704723515,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171025,
+        "num": 171025,
+        "word": "iPhone从4000多米高空坠落仍可使用",
+        "onboard_time": 1704762752,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159446,
+        "num": 159446,
+        "word": "吃葡萄柚是一件很私人的事",
+        "onboard_time": 1704712110,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158136,
+        "num": 158136,
+        "word": "6名干部违规聚餐狂饮7瓶白酒致1死",
+        "onboard_time": 1704720695,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157685,
+        "num": 157685,
+        "word": "哈尔滨小猪皮冻",
+        "onboard_time": 1704762631,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156010,
+        "num": 156010,
+        "word": "你不是销冠谁是销冠",
+        "onboard_time": 1704756926,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153332,
+        "num": 153332,
+        "word": "霍金",
+        "onboard_time": 1704726215,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148505,
+        "num": 148505,
+        "word": "小熊猫偶遇小冻梨开启赠礼模式",
+        "onboard_time": 1704762631,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144842,
+        "num": 144842,
+        "word": "妈妈才最适合考公",
+        "onboard_time": 1704724714,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142646,
+        "num": 142646,
+        "word": "英伟达股价达新高",
+        "onboard_time": 1704762033,
+        "rank": 43,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 134532,
+        "num": 134532,
+        "word": "聊装修聊对眼90后对门邻居喜结连理",
+        "onboard_time": 1704757707,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134278,
+        "num": 134278,
+        "word": "陈星旭费启鸣竟然是同岁的",
+        "onboard_time": 1704759331,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126424,
+        "num": 126424,
+        "word": "华为P70渲染图曝光",
+        "onboard_time": 1704760052,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119559,
+        "num": 119559,
+        "word": "春节拜年发型",
+        "onboard_time": 1704759094,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 115152,
+        "num": 115152,
+        "word": "已读瞎回",
+        "onboard_time": 1704762992,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111179,
+        "num": 111179,
+        "word": "鞠婧祎宋威龙咬唇吻",
+        "onboard_time": 1704725196,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#增强拒腐防变和抵御风险能力#"
+    }
+  }
+}
