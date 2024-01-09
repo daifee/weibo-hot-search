@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704796626178,
+  "endTime": 1704798922521,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1051,6 +1051,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 1329851,
+      "num": 1329851,
+      "word": "繁花大结局",
+      "onboard_time": 1704797792,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1329807,
       "num": 1792026,
       "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1704775174,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1301854,
+      "num": 1301854,
+      "word": "影评人说唐嫣繁花演技脱胎换骨",
+      "onboard_time": 1704797011,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1298550,
@@ -2131,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 954536,
+      "num": 954536,
+      "word": "哈尔滨的白狐已经熬出黑眼圈",
+      "onboard_time": 1704793829,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 953861,
       "num": 589927,
       "word": "博主起诉张雪峰要求道歉并赔1元",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1704755179,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 881279,
-      "num": 881279,
-      "word": "深圳欢乐谷过山车碰撞事故调查报告公布",
-      "onboard_time": 1704679708,
-      "rank": 4,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 880452,
-      "num": 880452,
-      "word": "突然理解那些很少看手机的人了",
-      "onboard_time": 1704284193,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 880268,
-      "num": 880268,
-      "word": "跨年晚会真假唱鉴定",
-      "onboard_time": 1704207758,
-      "rank": 13,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

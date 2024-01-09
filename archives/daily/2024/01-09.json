@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704796626178,
+  "endTime": 1704798922521,
   "band_list": [
     {
       "raw_hot": 2674649,
@@ -51,12 +51,28 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 1329851,
+      "num": 1329851,
+      "word": "繁花大结局",
+      "onboard_time": 1704797792,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1312185,
       "num": 1312185,
       "word": "坠亡的20岁俄籍超模曾去过萝莉岛",
       "onboard_time": 1704775174,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1301854,
+      "num": 1301854,
+      "word": "影评人说唐嫣繁花演技脱胎换骨",
+      "onboard_time": 1704797011,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1246770,
@@ -121,6 +137,14 @@
       "onboard_time": 1704762752,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 954536,
+      "num": 954536,
+      "word": "哈尔滨的白狐已经熬出黑眼圈",
+      "onboard_time": 1704793829,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 953861,
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 741298,
-      "num": 893074,
+      "num": 1110167,
       "word": "哈工大你玩真的啊",
       "onboard_time": 1704779733,
       "rank": 6,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 739448,
-      "num": 1066588,
+      "num": 1308659,
       "word": "37岁孙子粘着100岁奶奶聊天睡觉",
       "onboard_time": 1704784410,
       "rank": 39,
@@ -299,14 +323,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 689882,
-      "num": 689882,
-      "word": "哈尔滨的白狐已经熬出黑眼圈",
-      "onboard_time": 1704793829,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 673940,
       "num": 485422,
       "word": "网友偶遇赵丽颖喝茶",
@@ -345,6 +361,14 @@
       "onboard_time": 1704780151,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 642332,
+      "num": 642332,
+      "word": "曝李铁一路砸钱到能执教国足",
+      "onboard_time": 1704797610,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 612307,
@@ -435,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533006,
+      "num": 533006,
+      "word": "Kakao考虑出售SMTOWN",
+      "onboard_time": 1704796951,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531651,
       "num": 531651,
       "word": "女儿刚生爸妈坐高铁送2万6卖炸串钱",
       "onboard_time": 1704740475,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530768,
+      "num": 530768,
+      "word": "于正曾坚决反对张檬整容",
+      "onboard_time": 1704796951,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 529549,
@@ -643,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408603,
+      "num": 408603,
+      "word": "原神 保底",
+      "onboard_time": 1704797130,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 407605,
       "num": 317353,
       "word": "哈尔滨冻草莓都开始按个卖了",
@@ -672,6 +720,14 @@
       "word": "交往时一半年薪用来吃喝男生分手",
       "onboard_time": 1704777630,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391825,
+      "num": 391825,
+      "word": "蛋糕58元 地区差别",
+      "onboard_time": 1704796770,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -883,8 +939,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272628,
+      "num": 272628,
+      "word": "李铁杜兆才今晚出镜",
+      "onboard_time": 1704797552,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265040,
-      "num": 820367,
+      "num": 985889,
       "word": "68岁院长飞奔抱住正摔倒的老人",
       "onboard_time": 1704793829,
       "rank": 6,
@@ -1251,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201762,
+      "num": 201762,
+      "word": "胡锡进称小米汽车应该被鼓励和认可",
+      "onboard_time": 1704798449,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 201210,
       "num": 201210,
       "word": "汤唯粤语",
@@ -1353,6 +1425,14 @@
       "onboard_time": 1704771632,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191145,
+      "num": 191145,
+      "word": "农业大摸底",
+      "onboard_time": 1704798511,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 190838,
@@ -1635,12 +1715,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165496,
+      "num": 165496,
+      "word": "王凯童瑶 时隔七年同框",
+      "onboard_time": 1704797310,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164012,
       "num": 164012,
       "word": "沉珂近况",
       "onboard_time": 1704791551,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 163217,
+      "num": 163217,
+      "word": "兵马俑去服冰役了",
+      "onboard_time": 1704798511,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 162880,
@@ -1657,6 +1753,14 @@
       "onboard_time": 1704778592,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159836,
+      "num": 159836,
+      "word": "AKA复旦大学尚雯婕",
+      "onboard_time": 1704798329,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 159425,
@@ -1713,6 +1817,14 @@
       "onboard_time": 1704790414,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156836,
+      "num": 156836,
+      "word": "南方用冰箱能做冻梨吗",
+      "onboard_time": 1704798695,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 156010,
@@ -1849,6 +1961,14 @@
       "onboard_time": 1704775534,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138232,
+      "num": 138232,
+      "word": "曝王者荣耀抖音直播禁令冰融",
+      "onboard_time": 1704798809,
+      "rank": 46,
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 136222,
@@ -2291,6 +2411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64866,
+      "num": 408059,
+      "word": "原神雷电将军宵宫复刻",
+      "onboard_time": 1704798032,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64574,
       "num": 64574,
       "word": "孟耿如回应黄子佼去世传闻",
@@ -2364,7 +2492,7 @@
     },
     {
       "raw_hot": 47829,
-      "num": 997946,
+      "num": 1301920,
       "word": "向禁毒战线上无名的你们致敬",
       "onboard_time": 1704789932,
       "rank": 2,
