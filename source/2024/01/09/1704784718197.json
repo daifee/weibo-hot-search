@@ -1,0 +1,410 @@
+{
+  "runTime": 1704784718197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1493958,
+        "num": 1493958,
+        "word": "专家建议尽快调整退休年龄",
+        "onboard_time": 1704782670,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1246770,
+        "num": 1246770,
+        "word": "长沙致54死自建房坍塌事故本有机会避免",
+        "onboard_time": 1704779193,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50462,
+        "num": 1015551,
+        "word": "2024年春运民航客运量将达8000万人次",
+        "onboard_time": 1704771452,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931253,
+        "num": 931253,
+        "word": "于正再次为张檬写长文",
+        "onboard_time": 1704777811,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785796,
+        "num": 785796,
+        "word": "坠亡的20岁俄籍超模曾去过萝莉岛",
+        "onboard_time": 1704775174,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751160,
+        "num": 751160,
+        "word": "汤唯称不可能跟丈夫离婚",
+        "onboard_time": 1704783810,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 741298,
+        "num": 741298,
+        "word": "哈工大你玩真的啊",
+        "onboard_time": 1704779733,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716095,
+        "num": 716095,
+        "word": "唐嫣拍繁花爸爸每天接下班",
+        "onboard_time": 1704782072,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 618552,
+        "num": 618552,
+        "word": "发朋友圈被误认为出国的旅游地",
+        "onboard_time": 1704769110,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 556291,
+        "num": 556291,
+        "word": "专家建议发放1万亿元消费券",
+        "onboard_time": 1704783512,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 455447,
+        "num": 455447,
+        "word": "秦岚亲了迪丽热巴",
+        "onboard_time": 1704780151,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441872,
+        "num": 441872,
+        "word": "起诉张雪峰的文科博主发声",
+        "onboard_time": 1704782072,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 351859,
+        "num": 351859,
+        "word": "博主称养孩子难的时代已经过去了",
+        "onboard_time": 1704782791,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324044,
+        "num": 324044,
+        "word": "哈尔滨 烫碗",
+        "onboard_time": 1704777393,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 262650,
+        "num": 262650,
+        "word": "赵昭仪和胡先煦 刷到哪对磕哪对",
+        "onboard_time": 1704779311,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249612,
+        "num": 249612,
+        "word": "2024实在不行你换2025来吧",
+        "onboard_time": 1704773671,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238804,
+        "num": 238804,
+        "word": "网易云改版",
+        "onboard_time": 1704783810,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232663,
+        "num": 232663,
+        "word": "刘诗诗微博之夜收工想吃火锅",
+        "onboard_time": 1704780630,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232243,
+        "num": 232243,
+        "word": "尔滨把冻梨做出花来了",
+        "onboard_time": 1704772055,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 230691,
+        "num": 230691,
+        "word": "微博之夜新一轮官宣",
+        "onboard_time": 1704775295,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 507288,
+        "num": 227731,
+        "word": "19岁女生抽脂后第3天死亡",
+        "onboard_time": 1704781711,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326328,
+        "num": 225176,
+        "word": "杨超越韩国与素人合影",
+        "onboard_time": 1704783090,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320134,
+        "num": 222756,
+        "word": "我弟官宣忘记屏蔽我表妹",
+        "onboard_time": 1704779131,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236962,
+        "num": 218314,
+        "word": "交往时一半年薪用来吃喝男生分手",
+        "onboard_time": 1704777630,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217888,
+        "num": 217888,
+        "word": "只要坚持15分钟就能启动起来",
+        "onboard_time": 1704783391,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211723,
+        "num": 211723,
+        "word": "鞠婧祎奶栗妆",
+        "onboard_time": 1704784410,
+        "rank": 25,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 190114,
+        "num": 190114,
+        "word": "给尔滨回礼时才知道川川有多陌生",
+        "onboard_time": 1704782429,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189898,
+        "num": 189898,
+        "word": "教授建议退休人员卖房去乡村养老",
+        "onboard_time": 1704775174,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177805,
+        "num": 177805,
+        "word": "母女旅游顺道买了辆保时捷",
+        "onboard_time": 1704773611,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176963,
+        "num": 176963,
+        "word": "龙年出生的孩子会更优秀吗",
+        "onboard_time": 1704772473,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174780,
+        "num": 174780,
+        "word": "惠英红 南方小土豆堆雪人",
+        "onboard_time": 1704778234,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173745,
+        "num": 173745,
+        "word": "女子cosplay游戏角色进地铁站被拦",
+        "onboard_time": 1704782730,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 173672,
+        "num": 173672,
+        "word": "朱丹周一围翻拍经典亲吻躲避照",
+        "onboard_time": 1704777811,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165531,
+        "num": 165531,
+        "word": "17人25秒救下一人",
+        "onboard_time": 1704778772,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 155199,
+        "num": 155199,
+        "word": "两个i人生出一个超级e人",
+        "onboard_time": 1704783512,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137954,
+        "num": 137954,
+        "word": "为什么全身面部的皮肤最差",
+        "onboard_time": 1704761913,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133496,
+        "num": 133496,
+        "word": "王家卫到底花了多少钱买歌",
+        "onboard_time": 1704758673,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128808,
+        "num": 128808,
+        "word": "勤梳头能防脱发吗",
+        "onboard_time": 1704783872,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 124949,
+        "num": 124949,
+        "word": "当你告诉父母自己被裁员后",
+        "onboard_time": 1704784172,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117222,
+        "num": 117222,
+        "word": "37岁孙子粘着100岁奶奶聊天睡觉",
+        "onboard_time": 1704784410,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113479,
+        "num": 113479,
+        "word": "龚俊指环",
+        "onboard_time": 1704779613,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111635,
+        "num": 111635,
+        "word": "博主起诉张雪峰要求道歉并赔1元",
+        "onboard_time": 1704773795,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106489,
+        "num": 106489,
+        "word": "历年微博之夜名场面",
+        "onboard_time": 1704771930,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103501,
+        "num": 103501,
+        "word": "和平饭店繁花套房",
+        "onboard_time": 1704773372,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102839,
+        "num": 102839,
+        "word": "刘亦菲红豆奶茶妆",
+        "onboard_time": 1704777033,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102254,
+        "num": 102254,
+        "word": "专家称中国经济处于青春期",
+        "onboard_time": 1704779613,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 99784,
+        "num": 99784,
+        "word": "海南货车撞人事故致1死7伤",
+        "onboard_time": 1704784651,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99001,
+        "num": 99001,
+        "word": "还是威少懂杜兰特",
+        "onboard_time": 1704781895,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97313,
+        "num": 97313,
+        "word": "网友偶遇赵丽颖喝茶",
+        "onboard_time": 1704770071,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97312,
+        "num": 97312,
+        "word": "宋茜陈星旭 东北的翻译官",
+        "onboard_time": 1704784651,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进党的自我革命#"
+    }
+  }
+}
