@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704838621492,
+  "endTime": 1704839679766,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -8683,6 +8683,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 39700,
+      "num": 39700,
+      "word": "调查称中国户均住房资产187万元",
+      "onboard_time": 1704835993,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 39323,
       "num": 39323,
       "word": "年轻时的张国荣和他的朋友们",
@@ -8779,12 +8787,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 28025,
-      "num": 28025,
-      "word": "调查称中国户均住房资产187万元",
-      "onboard_time": 1704835993,
-      "rank": 49,
-      "category": "财经"
+      "raw_hot": 27826,
+      "num": 27826,
+      "word": "我国每10名儿童中至少1人患湿疹",
+      "onboard_time": 1704830173,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27646,
+      "num": 27646,
+      "word": "张大大 这一切挺突然的",
+      "onboard_time": 1704837554,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 26706,
@@ -8793,6 +8809,14 @@
       "onboard_time": 1704642390,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25686,
+      "num": 25823,
+      "word": "哈尔滨打工的白狐狸都累坏了",
+      "onboard_time": 1704823338,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 23750,
@@ -8804,7 +8828,7 @@
     },
     {
       "raw_hot": 23490,
-      "num": 20351,
+      "num": 21129,
       "word": "谢娜回应浪姐皇族争议",
       "onboard_time": 1704828913,
       "rank": 27,
@@ -8819,8 +8843,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22227,
-      "num": 22227,
+      "raw_hot": 22491,
+      "num": 22491,
       "word": "罗志祥说超爱怼网友",
       "onboard_time": 1704832815,
       "rank": 30,
@@ -8835,28 +8859,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 21002,
-      "num": 21002,
-      "word": "我国每10名儿童中至少1人患湿疹",
-      "onboard_time": 1704830173,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 20826,
       "num": 20826,
       "word": "美消费者组织控诉星巴克",
       "onboard_time": 1704568935,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18188,
-      "num": 25823,
-      "word": "哈尔滨打工的白狐狸都累坏了",
-      "onboard_time": 1704823338,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 18181,
@@ -8873,14 +8881,6 @@
       "onboard_time": 1704572294,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 17048,
-      "num": 17048,
-      "word": "张大大 这一切挺突然的",
-      "onboard_time": 1704837554,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 16659,
@@ -8915,6 +8915,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 14929,
+      "num": 19117,
+      "word": "亚洲杯赛程",
+      "onboard_time": 1704834553,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14035,
       "num": 14843,
       "word": "烘手手的小猫太可爱了",
@@ -8929,14 +8937,6 @@
       "onboard_time": 1704742334,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 12348,
-      "num": 16925,
-      "word": "亚洲杯赛程",
-      "onboard_time": 1704834553,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 10934,
