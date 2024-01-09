@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704774935082,
+  "endTime": 1704777440820,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 953861,
+      "num": 589927,
+      "word": "博主起诉张雪峰要求道歉并赔1元",
+      "onboard_time": 1704773795,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 949359,
       "num": 949359,
       "word": "第一部国产偶像剧男主是陈龙",
@@ -507,11 +515,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 912453,
+      "num": 385333,
+      "word": "坠亡的20岁俄籍超模曾去过萝莉岛",
+      "onboard_time": 1704775174,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902403,
       "num": 902403,
       "word": "深圳欢乐谷过山车事故9人被追责问责",
       "onboard_time": 1704680847,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 897873,
+      "num": 829656,
+      "word": "母女旅游顺道买了辆保时捷",
+      "onboard_time": 1704773611,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -547,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 854962,
+      "num": 854962,
+      "word": "教授建议退休人员卖房去乡村养老",
+      "onboard_time": 1704775174,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844558,
       "num": 844558,
       "word": "微博之夜全阵容集结",
@@ -563,12 +595,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 825066,
-      "num": 469831,
-      "word": "母女旅游顺道买了辆保时捷",
-      "onboard_time": 1704773611,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 827373,
+      "num": 827373,
+      "word": "2024实在不行你换2025来吧",
+      "onboard_time": 1704773671,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 824347,
@@ -1083,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 589927,
-      "num": 589927,
-      "word": "博主起诉张雪峰要求道歉并赔1元",
-      "onboard_time": 1704773795,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 586172,
       "num": 586172,
       "word": "沈阳文旅局局长连夜听网友支招",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1704635914,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 549494,
+      "num": 297480,
+      "word": "龙年出生的孩子会更优秀吗",
+      "onboard_time": 1704772473,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 549383,
@@ -1459,14 +1491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 502290,
-      "num": 297480,
-      "word": "龙年出生的孩子会更优秀吗",
-      "onboard_time": 1704772473,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 501635,
       "num": 501635,
       "word": "莫兰特赛季报销",
@@ -1576,6 +1600,14 @@
       "word": "和平饭店繁花套房",
       "onboard_time": 1704773372,
       "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 478951,
+      "num": 478951,
+      "word": "微博之夜新一轮官宣",
+      "onboard_time": 1704775295,
+      "rank": 6,
       "category": "作品衍生"
     },
     {
@@ -1993,14 +2025,6 @@
       "onboard_time": 1704598114,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 393452,
-      "num": 393452,
-      "word": "2024实在不行你换2025来吧",
-      "onboard_time": 1704773671,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 391907,
@@ -2475,6 +2499,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 290685,
+      "num": 290685,
+      "word": "原神推广曲",
+      "onboard_time": 1704774994,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290380,
       "num": 290380,
       "word": "我以四叶草的名义推举你们为tfkids",
@@ -2643,6 +2675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262798,
+      "num": 262798,
+      "word": "汇丰称今年A股将涨至3400点",
+      "onboard_time": 1704774094,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 262183,
       "num": 262183,
       "word": "古巨基宋亚轩还原七年前合照",
@@ -2665,14 +2705,6 @@
       "onboard_time": 1704617370,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260035,
-      "num": 260035,
-      "word": "汇丰称今年A股将涨至3400点",
-      "onboard_time": 1704774094,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 260027,
@@ -2977,6 +3009,14 @@
       "onboard_time": 1704723515,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230409,
+      "num": 230409,
+      "word": "历年微博之夜名场面",
+      "onboard_time": 1704771930,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229973,
@@ -3395,6 +3435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201121,
+      "num": 201121,
+      "word": "刘亦菲红豆奶茶妆",
+      "onboard_time": 1704777033,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201084,
       "num": 201084,
       "word": "龙年茅台申购每瓶2499元",
@@ -3579,20 +3627,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 194647,
+      "num": 194647,
+      "word": "985到底有什么用",
+      "onboard_time": 1704774697,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194287,
       "num": 194287,
       "word": "诺兰金球奖最佳导演",
       "onboard_time": 1704682530,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 194210,
-      "num": 194210,
-      "word": "历年微博之夜名场面",
-      "onboard_time": 1704771930,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 193553,
@@ -3699,6 +3747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189387,
+      "num": 189387,
+      "word": "林俊杰成都站",
+      "onboard_time": 1704776615,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189326,
       "num": 189326,
       "word": "当小砂糖橘遇上小雾凇",
@@ -3755,6 +3811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185961,
+      "num": 185961,
+      "word": "宝总和四个女人的故事",
+      "onboard_time": 1704775112,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185342,
       "num": 185342,
       "word": "我们的翻译官开播",
@@ -3793,6 +3857,14 @@
       "onboard_time": 1704592712,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 183400,
+      "num": 176974,
+      "word": "王家卫指导范湉湉称不要心疼胡歌",
+      "onboard_time": 1704776615,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 183374,
@@ -3897,6 +3969,14 @@
       "onboard_time": 1704710552,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178483,
+      "num": 178483,
+      "word": "复旦情侣猫咪恋爱被围观",
+      "onboard_time": 1704774697,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 178174,
@@ -4195,6 +4275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 166141,
+      "num": 166141,
+      "word": "索非亚教堂蛋糕",
+      "onboard_time": 1704776075,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 166010,
       "num": 166010,
       "word": "守望先锋",
@@ -4345,6 +4433,14 @@
       "onboard_time": 1704551795,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158461,
+      "num": 158461,
+      "word": "东北小冻梨们来上海了",
+      "onboard_time": 1704775174,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 158298,
@@ -4611,6 +4707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151562,
+      "num": 151562,
+      "word": "当HR让我在年会上表演节目",
+      "onboard_time": 1704776854,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150670,
       "num": 150670,
       "word": "东北菜为什么分量这么足",
@@ -4675,6 +4779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148086,
+      "num": 291079,
+      "word": "原神三星堆 刘欢",
+      "onboard_time": 1704776435,
+      "rank": 14,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 147445,
       "num": 147445,
       "word": "OPPO Find X7价格",
@@ -4721,14 +4833,6 @@
       "onboard_time": 1704541293,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 145816,
-      "num": 145816,
-      "word": "985到底有什么用",
-      "onboard_time": 1704774697,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 145754,
@@ -4867,6 +4971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141564,
+      "num": 141564,
+      "word": "红糖和黑糖哪个对女人更好",
+      "onboard_time": 1704775534,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141337,
       "num": 141337,
       "word": "阿宝 无旧可念",
@@ -4961,14 +5073,6 @@
       "onboard_time": 1704674312,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 135860,
-      "num": 135860,
-      "word": "复旦情侣猫咪恋爱被围观",
-      "onboard_time": 1704774697,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 135823,
@@ -5121,6 +5225,14 @@
       "onboard_time": 1704629971,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131566,
+      "num": 131566,
+      "word": "罗晋马思纯新剧开播",
+      "onboard_time": 1704775232,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 131486,
@@ -5315,6 +5427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126190,
+      "num": 126190,
+      "word": "推给我干嘛 推给朴宰范啊",
+      "onboard_time": 1704774994,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126189,
       "num": 126189,
       "word": "平价消费席卷年轻人",
@@ -5433,6 +5553,14 @@
       "onboard_time": 1704770972,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 122974,
+      "num": 122974,
+      "word": "张雪峰回应被起诉",
+      "onboard_time": 1704777273,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 122702,
@@ -5881,6 +6009,14 @@
       "onboard_time": 1704600513,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107556,
+      "num": 107556,
+      "word": "哈尔滨 烫碗",
+      "onboard_time": 1704777393,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 107477,
