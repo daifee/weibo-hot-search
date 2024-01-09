@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704818381248,
+  "endTime": 1704820591236,
   "band_list": [
     {
       "raw_hot": 2401484,
@@ -75,6 +75,14 @@
       "category": "剧集,体育"
     },
     {
+      "raw_hot": 454904,
+      "num": 454904,
+      "word": "男子打不着火被网友提醒房间缺氧",
+      "onboard_time": 1704816569,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445146,
       "num": 83307,
       "word": "从CCTV5到CCTV1",
@@ -107,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340910,
+      "num": 340910,
+      "word": "董宇辉为哈尔滨爆火开心",
+      "onboard_time": 1704816988,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 327905,
       "num": 271973,
       "word": "川沙阿宝",
@@ -121,22 +137,6 @@
       "onboard_time": 1704808233,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 308626,
-      "num": 308626,
-      "word": "董宇辉为哈尔滨爆火开心",
-      "onboard_time": 1704816988,
-      "rank": 22,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 285573,
-      "num": 285573,
-      "word": "男子打不着火被网友提醒房间缺氧",
-      "onboard_time": 1704816569,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271041,
@@ -292,11 +292,19 @@
     },
     {
       "raw_hot": 109687,
-      "num": 109687,
+      "num": 503518,
       "word": "反腐大片持续发力纵深推进第四集",
       "onboard_time": 1704802351,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108892,
+      "num": 107141,
+      "word": "金莎回应被说女油王",
+      "onboard_time": 1704818423,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 106069,
@@ -403,6 +411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 65507,
+      "num": 68292,
+      "word": "球员收600万输球结果是凭实力输的",
+      "onboard_time": 1704805293,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63476,
       "num": 68355,
       "word": "成毅竹林舞剑剧照",
@@ -411,19 +427,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58284,
+      "num": 58284,
+      "word": "2023微博最受欢迎coser",
+      "onboard_time": 1704819683,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 52444,
       "num": 68316,
       "word": "央视列足坛反腐被查阵容",
       "onboard_time": 1704814232,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 46932,
-      "num": 68292,
-      "word": "球员收600万输球结果是凭实力输的",
-      "onboard_time": 1704805293,
-      "rank": 49,
       "category": "体育"
     },
     {
