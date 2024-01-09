@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/07 00:21:26 ~ 2024/01/10 01:16:31
+本榜单时间：2024/01/07 00:21:26 ~ 2024/01/10 01:33:56
 </p>
 </blockquote>
 <p>
@@ -6557,6 +6557,12 @@ SEVENTEEN金唱片专辑大赏（热度：38524）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%89%8B%E6%9C%BA%E5%B1%8F%E5%B9%95%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8%23" target="weibo">
 国产手机屏幕有多硬核（热度：31679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%BB%E4%B9%A6%E5%A3%B0%20%E5%90%B5%E5%88%B0%E6%88%91%E8%89%AF%E5%BF%83%E4%BA%86%23" target="weibo">
+翻书声 吵到我良心了（热度：31362）
 </a>
 </li>
 

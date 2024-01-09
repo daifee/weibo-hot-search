@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704820591236,
+  "endTime": 1704821636871,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -8729,6 +8729,14 @@
       "onboard_time": 1704690394,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 31362,
+      "num": 43915,
+      "word": "翻书声 吵到我良心了",
+      "onboard_time": 1704821179,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 30553,
