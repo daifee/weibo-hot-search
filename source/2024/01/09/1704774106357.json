@@ -1,0 +1,410 @@
+{
+  "runTime": 1704774106357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2237747,
+        "num": 2237747,
+        "word": "章泽天净资产600亿",
+        "onboard_time": 1704766651,
+        "rank": 0,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 2040575,
+        "num": 2040575,
+        "word": "发朋友圈被误认为出国的旅游地",
+        "onboard_time": 1704769110,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115891,
+        "num": 1192603,
+        "word": "2024年春运民航客运量将达8000万人次",
+        "onboard_time": 1704771452,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728738,
+        "num": 728738,
+        "word": "张雪峰公司成立职业培训学校",
+        "onboard_time": 1704770551,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 696279,
+        "num": 696279,
+        "word": "尔滨把冻梨做出花来了",
+        "onboard_time": 1704772055,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 667445,
+        "num": 667445,
+        "word": "光遇复刻",
+        "onboard_time": 1704773432,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 602244,
+        "num": 602244,
+        "word": "为什么全身面部的皮肤最差",
+        "onboard_time": 1704761913,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 538716,
+        "num": 538716,
+        "word": "被女高管违法开除员工称签道歉函才给赔偿",
+        "onboard_time": 1704767490,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470517,
+        "num": 470517,
+        "word": "iPhone从4000多米高空坠落仍可使用",
+        "onboard_time": 1704762752,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 463432,
+        "num": 463432,
+        "word": "王家卫到底花了多少钱买歌",
+        "onboard_time": 1704758673,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 673940,
+        "num": 455422,
+        "word": "网友偶遇赵丽颖喝茶",
+        "onboard_time": 1704770071,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431505,
+        "num": 431505,
+        "word": "花了不到150块带奶奶玩了一天",
+        "onboard_time": 1704769110,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 402012,
+        "num": 402012,
+        "word": "年轻人报复性挤爆3.5分餐厅",
+        "onboard_time": 1704731304,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382225,
+        "num": 382225,
+        "word": "1天1杯奶茶会得糖尿病吗",
+        "onboard_time": 1704765151,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 369602,
+        "num": 369602,
+        "word": "会长是女仆大人 碓冰拓海新绘",
+        "onboard_time": 1704767971,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 354330,
+        "num": 354330,
+        "word": "花儿与少年 群像杀伤力",
+        "onboard_time": 1704766770,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203374,
+        "num": 310993,
+        "word": "小米手机销量暴涨38%登顶国产第一",
+        "onboard_time": 1704770611,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 303916,
+        "num": 303916,
+        "word": "母女旅游顺道买了辆保时捷",
+        "onboard_time": 1704773611,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302231,
+        "num": 302231,
+        "word": "张婧仪檀健次吻戏",
+        "onboard_time": 1704767429,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290911,
+        "num": 290911,
+        "word": "莫兰特赛季报销",
+        "onboard_time": 1704770011,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453786,
+        "num": 289863,
+        "word": "龙年出生的孩子会更优秀吗",
+        "onboard_time": 1704772473,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284963,
+        "num": 284963,
+        "word": "当高铁座位旁是个大学生时",
+        "onboard_time": 1704772533,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281347,
+        "num": 281347,
+        "word": "已读瞎回",
+        "onboard_time": 1704762992,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279961,
+        "num": 279961,
+        "word": "和平饭店繁花套房",
+        "onboard_time": 1704773372,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263618,
+        "num": 263618,
+        "word": "权顺荣 下辈子作为灵魂相见吧",
+        "onboard_time": 1704772593,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247966,
+        "num": 247966,
+        "word": "金智秀韩剧流感路透",
+        "onboard_time": 1704771752,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229973,
+        "num": 229973,
+        "word": "达达股价暴跌超45%",
+        "onboard_time": 1704772593,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220155,
+        "num": 220155,
+        "word": "贾玲张小斐 我真的会谢",
+        "onboard_time": 1704726754,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218012,
+        "num": 218012,
+        "word": "汇丰称今年A股将涨至3400点",
+        "onboard_time": 1704774094,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193236,
+        "num": 215340,
+        "word": "男孩刷优待证乘车被质疑实情令人心酸",
+        "onboard_time": 1704771212,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214502,
+        "num": 214502,
+        "word": "2024实在不行你换2025来吧",
+        "onboard_time": 1704773671,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204808,
+        "num": 204808,
+        "word": "博主起诉张雪峰要求道歉并赔1元",
+        "onboard_time": 1704773795,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203390,
+        "num": 203390,
+        "word": "司法机关破解苹果AirDrop",
+        "onboard_time": 1704767010,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194369,
+        "num": 194369,
+        "word": "唐嫣过去的三年都是汪小姐",
+        "onboard_time": 1704746474,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187763,
+        "num": 190505,
+        "word": "长白山6连板",
+        "onboard_time": 1704773493,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187899,
+        "num": 187899,
+        "word": "龙年纪念币",
+        "onboard_time": 1704771632,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186775,
+        "num": 186775,
+        "word": "熊猫都忍不住吸熊猫了",
+        "onboard_time": 1704768752,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183486,
+        "num": 183486,
+        "word": "钉钉上线敲一敲功能",
+        "onboard_time": 1704773910,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182828,
+        "num": 182828,
+        "word": "格林向库里道歉",
+        "onboard_time": 1704771991,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181075,
+        "num": 181075,
+        "word": "历年微博之夜名场面",
+        "onboard_time": 1704771930,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173851,
+        "num": 173851,
+        "word": "泡温泉会感染HPV吗",
+        "onboard_time": 1704757528,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162880,
+        "num": 162880,
+        "word": "2023年运动员微博报告",
+        "onboard_time": 1704773611,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159425,
+        "num": 159425,
+        "word": "得了乙流为什么会骨头疼",
+        "onboard_time": 1704772171,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155224,
+        "num": 155224,
+        "word": "贝肯鲍尔去世",
+        "onboard_time": 1704755179,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149214,
+        "num": 149214,
+        "word": "掉河里的顶级翡翠找到了",
+        "onboard_time": 1704763412,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147180,
+        "num": 147180,
+        "word": "爱泼斯坦案新文件涉及特朗普",
+        "onboard_time": 1704768151,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 146166,
+        "num": 146166,
+        "word": "陈星旭汗流浃背了吧",
+        "onboard_time": 1704772354,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141950,
+        "num": 141950,
+        "word": "让学生发毒誓老师被行政警告",
+        "onboard_time": 1704770972,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133609,
+        "num": 133609,
+        "word": "林高远世界排名升至第6",
+        "onboard_time": 1704771090,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132115,
+        "num": 132115,
+        "word": "爱泼斯坦",
+        "onboard_time": 1704769832,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打赢反腐败斗争攻坚战持久战#"
+    }
+  }
+}
