@@ -1,0 +1,410 @@
+{
+  "runTime": 1704795574114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1177583,
+        "num": 1177583,
+        "word": "金莎会做婚前财产公证",
+        "onboard_time": 1704792932,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376307,
+        "num": 1066588,
+        "word": "37岁孙子粘着100岁奶奶聊天睡觉",
+        "onboard_time": 1704784410,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42712,
+        "num": 997946,
+        "word": "向禁毒战线上无名的你们致敬",
+        "onboard_time": 1704789932,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993346,
+        "num": 993346,
+        "word": "贾乃亮晒甜馨烧玻璃",
+        "onboard_time": 1704792272,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324198,
+        "num": 893074,
+        "word": "哈工大你玩真的啊",
+        "onboard_time": 1704779733,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072614,
+        "num": 857444,
+        "word": "专家建议尽快调整退休年龄",
+        "onboard_time": 1704782670,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238073,
+        "num": 820367,
+        "word": "68岁院长飞奔抱住正摔倒的老人",
+        "onboard_time": 1704793829,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 818140,
+        "num": 818140,
+        "word": "台媒曝炎亚纶出售千万豪宅",
+        "onboard_time": 1704790532,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680294,
+        "num": 680294,
+        "word": "经纪人不让朱丹飙英文",
+        "onboard_time": 1704791070,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 600705,
+        "num": 600705,
+        "word": "韩国以食用目的宰杀犬只将获刑",
+        "onboard_time": 1704790053,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560190,
+        "num": 560190,
+        "word": "张雪峰反问谁说搞科研不赚钱",
+        "onboard_time": 1704791311,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 545292,
+        "num": 545292,
+        "word": "男子在日军731部队遗址前直播带货",
+        "onboard_time": 1704788974,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520515,
+        "num": 520515,
+        "word": "微博之夜 豪门姐弟大赏",
+        "onboard_time": 1704787052,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 497690,
+        "num": 497690,
+        "word": "汤唯称不可能跟丈夫离婚",
+        "onboard_time": 1704783810,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 471973,
+        "num": 471973,
+        "word": "公安部公布78个骗子项目",
+        "onboard_time": 1704792513,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 443560,
+        "num": 443560,
+        "word": "章若楠 我们没做饭啊",
+        "onboard_time": 1704788132,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356030,
+        "num": 356030,
+        "word": "哈尔滨的白狐已经熬出黑眼圈",
+        "onboard_time": 1704793829,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337718,
+        "num": 337718,
+        "word": "唐嫣曾被张艺谋选中为奥运宝贝",
+        "onboard_time": 1704788615,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329814,
+        "num": 329814,
+        "word": "东北冰雕 冰马俑",
+        "onboard_time": 1704793352,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 322671,
+        "num": 322671,
+        "word": "国考还不出成绩是有什么心事吗",
+        "onboard_time": 1704788011,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103921,
+        "num": 318830,
+        "word": "大东北真是贼拉热情",
+        "onboard_time": 1704794670,
+        "rank": 20,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 316754,
+        "num": 316754,
+        "word": "于正再次为张檬写长文",
+        "onboard_time": 1704777811,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315578,
+        "num": 315578,
+        "word": "贾乃亮甜馨评论互动",
+        "onboard_time": 1704793952,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310736,
+        "num": 310736,
+        "word": "男子为生二胎起诉白血病妻子寻求离婚",
+        "onboard_time": 1704788615,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291129,
+        "num": 291129,
+        "word": "日本新潟县中越地区发生6.0级地震",
+        "onboard_time": 1704792513,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265110,
+        "num": 265110,
+        "word": "19岁女生抽脂后第3天死亡",
+        "onboard_time": 1704781711,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256958,
+        "num": 256958,
+        "word": "二十几岁没谈过恋爱",
+        "onboard_time": 1704789396,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242427,
+        "num": 242427,
+        "word": "坠亡的20岁俄籍超模曾去过萝莉岛",
+        "onboard_time": 1704775174,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238678,
+        "num": 238678,
+        "word": "小土豆中途下火车舔铁柱子尴尬了",
+        "onboard_time": 1704789752,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236203,
+        "num": 236203,
+        "word": "董宇辉新账号将首播",
+        "onboard_time": 1704793713,
+        "rank": 29,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 225151,
+        "num": 225151,
+        "word": "微博网友为尔滨铁锅炖正名",
+        "onboard_time": 1704794611,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208515,
+        "num": 208515,
+        "word": "哈尔滨没有搭建冰航母",
+        "onboard_time": 1704792212,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 205770,
+        "num": 205770,
+        "word": "专家建议发放1万亿元消费券",
+        "onboard_time": 1704783512,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 201835,
+        "num": 201835,
+        "word": "起诉张雪峰博主称感觉受到言语霸凌",
+        "onboard_time": 1704792454,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184001,
+        "num": 184001,
+        "word": "奚梦瑶曾拒绝浪姐",
+        "onboard_time": 1704792513,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182973,
+        "num": 182973,
+        "word": "繁花配角",
+        "onboard_time": 1704789330,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182819,
+        "num": 182819,
+        "word": "张碧晨担任C罗中国行表演嘉宾",
+        "onboard_time": 1704786811,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 177912,
+        "num": 177912,
+        "word": "从此晒伤就变成了妆",
+        "onboard_time": 1704794433,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 171638,
+        "num": 171638,
+        "word": "繁花收官特别活动",
+        "onboard_time": 1704789091,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171352,
+        "num": 171352,
+        "word": "这泼天的富贵给您占好了",
+        "onboard_time": 1704794733,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168813,
+        "num": 168813,
+        "word": "杨幂摩登复古女郎",
+        "onboard_time": 1704793170,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166537,
+        "num": 166537,
+        "word": "周一围他超爱",
+        "onboard_time": 1704795151,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159660,
+        "num": 159660,
+        "word": "杨紫ins自拍照",
+        "onboard_time": 1704789213,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158210,
+        "num": 158210,
+        "word": "LCK季前赛",
+        "onboard_time": 1704793896,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156344,
+        "num": 156344,
+        "word": "两个i人生出一个超级e人",
+        "onboard_time": 1704783512,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148970,
+        "num": 148970,
+        "word": "唐嫣拍繁花爸爸每天接下班",
+        "onboard_time": 1704782072,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143245,
+        "num": 143245,
+        "word": "发朋友圈被误认为出国的旅游地",
+        "onboard_time": 1704769110,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132875,
+        "num": 132875,
+        "word": "单身即地狱3",
+        "onboard_time": 1704792454,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132002,
+        "num": 132002,
+        "word": "秦岚亲了迪丽热巴",
+        "onboard_time": 1704780151,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118142,
+        "num": 118142,
+        "word": "玲娜贝儿 小狐罚站",
+        "onboard_time": 1704795512,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委三次全会召开#"
+    }
+  }
+}
