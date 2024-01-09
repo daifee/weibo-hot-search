@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704763043224,
+  "endTime": 1704764332246,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -289,6 +289,14 @@
       "onboard_time": 1704610888,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1158820,
+      "num": 1158820,
+      "word": "为什么全身面部的皮肤最差",
+      "onboard_time": 1704761913,
+      "rank": 12,
+      "category": "美妆"
     },
     {
       "raw_hot": 1142674,
@@ -907,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 624626,
+      "num": 624626,
+      "word": "iPhone从4000多米高空坠落仍可使用",
+      "onboard_time": 1704762752,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 622792,
       "num": 622792,
       "word": "雪乡导游强售套票未果让游客撅屁股等着",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1704696930,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572621,
-      "num": 457105,
-      "word": "为什么全身面部的皮肤最差",
-      "onboard_time": 1704761913,
-      "rank": 12,
-      "category": "美妆"
     },
     {
       "raw_hot": 572064,
@@ -1427,6 +1435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 474484,
+      "num": 474484,
+      "word": "卢美琳是嫁给黄河路的女人",
+      "onboard_time": 1704761555,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 473322,
       "num": 409318,
       "word": "死期将至 爆哭",
@@ -1555,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449767,
+      "num": 417108,
+      "word": "景甜短发",
+      "onboard_time": 1704755060,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 448767,
       "num": 448767,
       "word": "刘亦菲抱狗工作",
@@ -1593,14 +1617,6 @@
       "onboard_time": 1704684693,
       "rank": 41,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 429349,
-      "num": 429349,
-      "word": "卢美琳是嫁给黄河路的女人",
-      "onboard_time": 1704761555,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 428734,
@@ -1769,14 +1785,6 @@
       "onboard_time": 1704615749,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 399647,
-      "num": 399647,
-      "word": "景甜短发",
-      "onboard_time": 1704755060,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 398532,
@@ -1953,6 +1961,22 @@
       "onboard_time": 1704589471,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 348396,
+      "num": 348396,
+      "word": "国安部推出特别版黑猫警长",
+      "onboard_time": 1704762451,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 348240,
+      "num": 348240,
+      "word": "掉河里的顶级翡翠找到了",
+      "onboard_time": 1704763412,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345812,
@@ -2299,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286555,
+      "num": 286555,
+      "word": "已读瞎回",
+      "onboard_time": 1704762992,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 286307,
       "num": 286307,
       "word": "金球奖",
@@ -2563,6 +2595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 246586,
+      "num": 246586,
+      "word": "河南致返乡人员一封信",
+      "onboard_time": 1704762451,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246206,
       "num": 246206,
       "word": "网友英国街头偶遇周杰伦",
@@ -2633,6 +2673,14 @@
       "onboard_time": 1704681269,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 236608,
+      "num": 236608,
+      "word": "苹果头显2月2日上市",
+      "onboard_time": 1704762512,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 235739,
@@ -3011,14 +3059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203276,
-      "num": 203276,
-      "word": "苹果头显2月2日上市",
-      "onboard_time": 1704762512,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 202856,
       "num": 202856,
       "word": "名侦探柯南 新兰小情侣",
@@ -3067,6 +3107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 200551,
+      "num": 200551,
+      "word": "发病后48小时是流感治疗黄金期",
+      "onboard_time": 1704762631,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 200363,
       "num": 200363,
       "word": "京东联名卡",
@@ -3113,6 +3161,14 @@
       "onboard_time": 1704706409,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 198417,
+      "num": 198417,
+      "word": "哈尔滨小猪皮冻",
+      "onboard_time": 1704762631,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 197535,
@@ -3219,14 +3275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 193980,
-      "num": 193980,
-      "word": "河南致返乡人员一封信",
-      "onboard_time": 1704762451,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193553,
       "num": 193553,
       "word": "王小明经期减肥法",
@@ -3241,14 +3289,6 @@
       "onboard_time": 1704557729,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 191905,
-      "num": 191905,
-      "word": "国安部推出特别版黑猫警长",
-      "onboard_time": 1704762451,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 191814,
@@ -3379,6 +3419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183918,
+      "num": 183918,
+      "word": "华为折叠屏销量蝉联第一",
+      "onboard_time": 1704763471,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 183689,
       "num": 183689,
       "word": "iPhone需求引发担忧",
@@ -3465,14 +3513,6 @@
       "onboard_time": 1704696871,
       "rank": 29,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 180176,
-      "num": 180176,
-      "word": "发病后48小时是流感治疗黄金期",
-      "onboard_time": 1704762631,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 180042,
@@ -3651,14 +3691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171025,
-      "num": 171025,
-      "word": "iPhone从4000多米高空坠落仍可使用",
-      "onboard_time": 1704762752,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 170769,
       "num": 170769,
       "word": "兴业银行涨停操盘者曝光",
@@ -3721,6 +3753,14 @@
       "onboard_time": 1704685172,
       "rank": 46,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 169252,
+      "num": 169252,
+      "word": "日本地震已致180人死亡",
+      "onboard_time": 1704763830,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168732,
@@ -3937,14 +3977,6 @@
       "onboard_time": 1704540512,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 157685,
-      "num": 157685,
-      "word": "哈尔滨小猪皮冻",
-      "onboard_time": 1704762631,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 157160,
@@ -4835,6 +4867,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 126069,
+      "num": 126069,
+      "word": "发现有一只被异物缠住的海龟",
+      "onboard_time": 1704763711,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126009,
       "num": 126009,
       "word": "大熊猫渝爱背后真的没有拉链吗",
@@ -5123,14 +5163,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 115152,
-      "num": 115152,
-      "word": "已读瞎回",
-      "onboard_time": 1704762992,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115059,
       "num": 115059,
       "word": "北京男篮同曦男篮冲突",
@@ -5321,6 +5353,14 @@
       "onboard_time": 1704678448,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108548,
+      "num": 108548,
+      "word": "真是一次酣畅淋漓的农业大摸底",
+      "onboard_time": 1704763950,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 108304,
@@ -5652,7 +5692,7 @@
     },
     {
       "raw_hot": 96379,
-      "num": 1031491,
+      "num": 1041864,
       "word": "多地上新文旅大礼包",
       "onboard_time": 1704721595,
       "rank": 2,

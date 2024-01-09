@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704763043224,
+  "endTime": 1704764332246,
   "band_list": [
     {
       "raw_hot": 1361424,
@@ -17,6 +17,14 @@
       "onboard_time": 1704758673,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1158820,
+      "num": 1158820,
+      "word": "为什么全身面部的皮肤最差",
+      "onboard_time": 1704761913,
+      "rank": 12,
+      "category": "美妆"
     },
     {
       "raw_hot": 1082340,
@@ -75,6 +83,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 624626,
+      "num": 624626,
+      "word": "iPhone从4000多米高空坠落仍可使用",
+      "onboard_time": 1704762752,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 612307,
       "num": 612307,
       "word": "丁俊晖147分",
@@ -89,14 +105,6 @@
       "onboard_time": 1704756867,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572621,
-      "num": 457105,
-      "word": "为什么全身面部的皮肤最差",
-      "onboard_time": 1704761913,
-      "rank": 12,
-      "category": "美妆"
     },
     {
       "raw_hot": 531651,
@@ -131,6 +139,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 474484,
+      "num": 474484,
+      "word": "卢美琳是嫁给黄河路的女人",
+      "onboard_time": 1704761555,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466394,
       "num": 466394,
       "word": "波音全球停飞股价暴跌",
@@ -147,12 +163,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 429349,
-      "num": 429349,
-      "word": "卢美琳是嫁给黄河路的女人",
-      "onboard_time": 1704761555,
+      "raw_hot": 449767,
+      "num": 417108,
+      "word": "景甜短发",
+      "onboard_time": 1704755060,
       "rank": 15,
-      "category": "剧集"
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 407605,
@@ -171,20 +187,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 399647,
-      "num": 399647,
-      "word": "景甜短发",
-      "onboard_time": 1704755060,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 374251,
       "num": 374251,
       "word": "鞠婧祎宋威龙咬唇吻",
       "onboard_time": 1704725196,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348396,
+      "num": 348396,
+      "word": "国安部推出特别版黑猫警长",
+      "onboard_time": 1704762451,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 348240,
+      "num": 348240,
+      "word": "掉河里的顶级翡翠找到了",
+      "onboard_time": 1704763412,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345812,
@@ -209,6 +233,14 @@
       "onboard_time": 1704725792,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286555,
+      "num": 286555,
+      "word": "已读瞎回",
+      "onboard_time": 1704762992,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 278726,
@@ -257,6 +289,22 @@
       "onboard_time": 1704754999,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246586,
+      "num": 246586,
+      "word": "河南致返乡人员一封信",
+      "onboard_time": 1704762451,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236608,
+      "num": 236608,
+      "word": "苹果头显2月2日上市",
+      "onboard_time": 1704762512,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 235739,
@@ -315,12 +363,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203276,
-      "num": 203276,
-      "word": "苹果头显2月2日上市",
-      "onboard_time": 1704762512,
-      "rank": 28,
-      "category": "数码"
+      "raw_hot": 200551,
+      "num": 200551,
+      "word": "发病后48小时是流感治疗黄金期",
+      "onboard_time": 1704762631,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198417,
+      "num": 198417,
+      "word": "哈尔滨小猪皮冻",
+      "onboard_time": 1704762631,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 194518,
@@ -329,22 +385,6 @@
       "onboard_time": 1704721473,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193980,
-      "num": 193980,
-      "word": "河南致返乡人员一封信",
-      "onboard_time": 1704762451,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191905,
-      "num": 191905,
-      "word": "国安部推出特别版黑猫警长",
-      "onboard_time": 1704762451,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 190838,
@@ -363,20 +403,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 183918,
+      "num": 183918,
+      "word": "华为折叠屏销量蝉联第一",
+      "onboard_time": 1704763471,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 181054,
       "num": 181054,
       "word": "教育局回应班主任让学生发毒誓",
       "onboard_time": 1704723097,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180176,
-      "num": 180176,
-      "word": "发病后48小时是流感治疗黄金期",
-      "onboard_time": 1704762631,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 179589,
@@ -387,20 +427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171025,
-      "num": 171025,
-      "word": "iPhone从4000多米高空坠落仍可使用",
-      "onboard_time": 1704762752,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 170379,
       "num": 170379,
       "word": "苦难就是苦难",
       "onboard_time": 1704729628,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169252,
+      "num": 169252,
+      "word": "日本地震已致180人死亡",
+      "onboard_time": 1704763830,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168774,
@@ -417,14 +457,6 @@
       "onboard_time": 1704706709,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157685,
-      "num": 157685,
-      "word": "哈尔滨小猪皮冻",
-      "onboard_time": 1704762631,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 156010,
@@ -523,6 +555,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 126069,
+      "num": 126069,
+      "word": "发现有一只被异物缠住的海龟",
+      "onboard_time": 1704763711,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119559,
       "num": 119559,
       "word": "春节拜年发型",
@@ -539,12 +579,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 115152,
-      "num": 115152,
-      "word": "已读瞎回",
-      "onboard_time": 1704762992,
+      "raw_hot": 108548,
+      "num": 108548,
+      "word": "真是一次酣畅淋漓的农业大摸底",
+      "onboard_time": 1704763950,
       "rank": 48,
-      "category": "幽默"
+      "category": "美食"
     },
     {
       "raw_hot": 104532,
@@ -580,7 +620,7 @@
     },
     {
       "raw_hot": 96379,
-      "num": 870662,
+      "num": 1041864,
       "word": "多地上新文旅大礼包",
       "onboard_time": 1704721595,
       "rank": 2,
