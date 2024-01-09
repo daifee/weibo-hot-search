@@ -1,0 +1,410 @@
+{
+  "runTime": 1704810931524,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6441845,
+        "num": 7691845,
+        "word": "李铁行贿300万当上国足主教练",
+        "onboard_time": 1704804513,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 2932796,
+        "num": 2932796,
+        "word": "李李出家",
+        "onboard_time": 1704802470,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4391,
+        "num": 1556187,
+        "word": "聚焦中国经济圆桌会",
+        "onboard_time": 1704701372,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1371268,
+        "num": 1371268,
+        "word": "早上宋慧乔 晚上宋小宝",
+        "onboard_time": 1704803190,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1031545,
+        "num": 1031545,
+        "word": "繁花大结局",
+        "onboard_time": 1704797792,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 929587,
+        "num": 929587,
+        "word": "川沙阿宝",
+        "onboard_time": 1704806254,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 848479,
+        "num": 848479,
+        "word": "马思纯 两年终于拍戏了",
+        "onboard_time": 1704802229,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 711889,
+        "num": 711889,
+        "word": "李铁两次带队进中超背后都是假球",
+        "onboard_time": 1704804213,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 606164,
+        "num": 606164,
+        "word": "在职1万退休后只能拿4000",
+        "onboard_time": 1704801332,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464757,
+        "num": 464757,
+        "word": "蛋糕58元 地区差别",
+        "onboard_time": 1704796770,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738740,
+        "num": 464216,
+        "word": "A先生 胡歌的脸",
+        "onboard_time": 1704803432,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 622160,
+        "num": 462117,
+        "word": "田曦薇雪中撑伞",
+        "onboard_time": 1704808233,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 621735,
+        "num": 457905,
+        "word": "宝总汪小姐 OE",
+        "onboard_time": 1704806432,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509792,
+        "num": 457174,
+        "word": "专家建议尽快调整退休年龄",
+        "onboard_time": 1704782670,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455540,
+        "num": 455540,
+        "word": "董宇辉回应带货化妆品",
+        "onboard_time": 1704809014,
+        "rank": 14,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 492856,
+        "num": 455283,
+        "word": "胡歌 热闹过后我还是我",
+        "onboard_time": 1704808173,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477805,
+        "num": 454100,
+        "word": "影评人说唐嫣繁花演技脱胎换骨",
+        "onboard_time": 1704797011,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444115,
+        "num": 444115,
+        "word": "进去的人比进去的球还多",
+        "onboard_time": 1704810275,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378104,
+        "num": 378104,
+        "word": "看 你的教资合格证",
+        "onboard_time": 1704805771,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 309975,
+        "num": 309975,
+        "word": "球员收600万输球结果是凭实力输的",
+        "onboard_time": 1704805293,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405401,
+        "num": 308662,
+        "word": "内娱最认真的工作室",
+        "onboard_time": 1704799469,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321062,
+        "num": 306546,
+        "word": "车厘子是大号樱桃吗",
+        "onboard_time": 1704808713,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 317821,
+        "num": 306054,
+        "word": "王源说暂停是为了重新出发",
+        "onboard_time": 1704803613,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304267,
+        "num": 304267,
+        "word": "董宇辉新团队",
+        "onboard_time": 1704801451,
+        "rank": 23,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 299499,
+        "num": 299499,
+        "word": "俞敏洪称喜欢铁公鸡绰号",
+        "onboard_time": 1704810097,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 296091,
+        "num": 296091,
+        "word": "贾乃亮晒甜馨烧玻璃",
+        "onboard_time": 1704792272,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268988,
+        "num": 268988,
+        "word": "李铁 后腰",
+        "onboard_time": 1704809375,
+        "rank": 26,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 254243,
+        "num": 254243,
+        "word": "央视播出李铁案细节",
+        "onboard_time": 1704803732,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 242964,
+        "num": 242964,
+        "word": "CBA 裁判",
+        "onboard_time": 1704809432,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223760,
+        "num": 223760,
+        "word": "成毅竹林舞剑剧照",
+        "onboard_time": 1704806735,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281021,
+        "num": 217382,
+        "word": "董宇辉新号首播带货超1亿元",
+        "onboard_time": 1704810699,
+        "rank": 30,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 209891,
+        "num": 209891,
+        "word": "反腐大片持续发力纵深推进第四集",
+        "onboard_time": 1704802351,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208602,
+        "num": 208602,
+        "word": "热巴拿火山丝当祛痘针",
+        "onboard_time": 1704810459,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208537,
+        "num": 208537,
+        "word": "我们退休后到底能领多少钱",
+        "onboard_time": 1704807935,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207262,
+        "num": 207262,
+        "word": "有女儿的都过着什么好日子",
+        "onboard_time": 1704808055,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203183,
+        "num": 203183,
+        "word": "广厦男篮战胜辽宁男篮",
+        "onboard_time": 1704809795,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200243,
+        "num": 200243,
+        "word": "李铁与武汉卓尔6000万元送4名球员进国家队",
+        "onboard_time": 1704806613,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 187745,
+        "num": 197700,
+        "word": "让领导知道你干了很多活的秘诀",
+        "onboard_time": 1704810337,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197146,
+        "num": 197146,
+        "word": "于正曾坚决反对张檬整容",
+        "onboard_time": 1704796951,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191166,
+        "num": 191166,
+        "word": "从CCTV5到CCTV1",
+        "onboard_time": 1704810819,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 189448,
+        "num": 189448,
+        "word": "微博之夜 豪门姐弟大赏",
+        "onboard_time": 1704787052,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182214,
+        "num": 182214,
+        "word": "陕西洋县一社区要求返乡过年人员要报备",
+        "onboard_time": 1704807094,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181716,
+        "num": 181716,
+        "word": "金莎会做婚前财产公证",
+        "onboard_time": 1704792932,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175295,
+        "num": 175295,
+        "word": "国考还不出成绩是有什么心事吗",
+        "onboard_time": 1704788011,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166551,
+        "num": 166551,
+        "word": "怎么区分喜欢和爱",
+        "onboard_time": 1704810760,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165374,
+        "num": 165374,
+        "word": "知道李铁被抓小球员说用实力赢更快乐",
+        "onboard_time": 1704809073,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 165023,
+        "num": 165023,
+        "word": "Faker忘记带惩戒",
+        "onboard_time": 1704803190,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163277,
+        "num": 163277,
+        "word": "董宇辉考虑国外直播",
+        "onboard_time": 1704808055,
+        "rank": 47,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 163142,
+        "num": 163142,
+        "word": "孙铭徽俞泽辰冲突",
+        "onboard_time": 1704809735,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162311,
+        "num": 162311,
+        "word": "铁窗泪442",
+        "onboard_time": 1704807997,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进党的自我革命#"
+    }
+  }
+}

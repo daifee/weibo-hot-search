@@ -1,7 +1,15 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704809842723,
+  "endTime": 1704810931524,
   "band_list": [
+    {
+      "raw_hot": 6441845,
+      "num": 7691845,
+      "word": "李铁行贿300万当上国足主教练",
+      "onboard_time": 1704804513,
+      "rank": 20,
+      "category": "体育"
+    },
     {
       "raw_hot": 5501200,
       "num": 5501200,
@@ -9,14 +17,6 @@
       "onboard_time": 1704802470,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 4833236,
-      "num": 6083236,
-      "word": "李铁行贿300万当上国足主教练",
-      "onboard_time": 1704804513,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 3633631,
@@ -1164,7 +1164,7 @@
     },
     {
       "raw_hot": 681504,
-      "num": 414100,
+      "num": 457905,
       "word": "宝总汪小姐 OE",
       "onboard_time": 1704806432,
       "rank": 26,
@@ -1292,7 +1292,7 @@
     },
     {
       "raw_hot": 642097,
-      "num": 412963,
+      "num": 462117,
       "word": "田曦薇雪中撑伞",
       "onboard_time": 1704808233,
       "rank": 12,
@@ -1548,7 +1548,7 @@
     },
     {
       "raw_hot": 564485,
-      "num": 401279,
+      "num": 455283,
       "word": "胡歌 热闹过后我还是我",
       "onboard_time": 1704808173,
       "rank": 15,
@@ -2155,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 455540,
+      "num": 455540,
+      "word": "董宇辉回应带货化妆品",
+      "onboard_time": 1704809014,
+      "rank": 31,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 454019,
       "num": 454019,
       "word": "黑龙江蔓越莓",
@@ -2241,6 +2249,14 @@
       "onboard_time": 1704684451,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 444115,
+      "num": 444115,
+      "word": "进去的人比进去的球还多",
+      "onboard_time": 1704810275,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 441872,
@@ -2803,14 +2819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 334044,
-      "num": 223733,
-      "word": "董宇辉回应带货化妆品",
-      "onboard_time": 1704809014,
-      "rank": 31,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 332087,
       "num": 332087,
       "word": "贪官收22箱现金车被压得上不了坡",
@@ -2913,6 +2921,14 @@
       "onboard_time": 1704767549,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 321062,
+      "num": 306546,
+      "word": "车厘子是大号樱桃吗",
+      "onboard_time": 1704808713,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 320385,
@@ -3091,6 +3107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 299499,
+      "num": 299499,
+      "word": "俞敏洪称喜欢铁公鸡绰号",
+      "onboard_time": 1704810097,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 298527,
       "num": 298527,
       "word": "台湾女生在东北第一次吃冰糖葫芦",
@@ -3121,14 +3145,6 @@
       "onboard_time": 1704704610,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 296693,
-      "num": 240964,
-      "word": "车厘子是大号樱桃吗",
-      "onboard_time": 1704808713,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 295174,
@@ -3283,6 +3299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 281021,
+      "num": 217382,
+      "word": "董宇辉新号首播带货超1亿元",
+      "onboard_time": 1704810699,
+      "rank": 30,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 279858,
       "num": 279858,
       "word": "卖房后重回出租屋的人现在怎样了",
@@ -3361,6 +3385,14 @@
       "onboard_time": 1704589831,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268988,
+      "num": 268988,
+      "word": "李铁 后腰",
+      "onboard_time": 1704809375,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 267737,
@@ -3649,6 +3681,14 @@
       "onboard_time": 1704705330,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242964,
+      "num": 242964,
+      "word": "CBA 裁判",
+      "onboard_time": 1704809432,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 241621,
@@ -4203,6 +4243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208602,
+      "num": 208602,
+      "word": "热巴拿火山丝当祛痘针",
+      "onboard_time": 1704810459,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208160,
       "num": 149247,
       "word": "繁花似锦 不响最大",
@@ -4355,6 +4403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203183,
+      "num": 203183,
+      "word": "广厦男篮战胜辽宁男篮",
+      "onboard_time": 1704809795,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203090,
       "num": 203090,
       "word": "快船大胜太阳27分",
@@ -4377,14 +4433,6 @@
       "onboard_time": 1704625776,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 202302,
-      "num": 202302,
-      "word": "CBA 裁判",
-      "onboard_time": 1704809432,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 202059,
@@ -4795,6 +4843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191166,
+      "num": 191166,
+      "word": "从CCTV5到CCTV1",
+      "onboard_time": 1704810819,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 191145,
       "num": 191145,
       "word": "农业大摸底",
@@ -4905,6 +4961,14 @@
       "onboard_time": 1704773493,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 187745,
+      "num": 197700,
+      "word": "让领导知道你干了很多活的秘诀",
+      "onboard_time": 1704810337,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 187341,
@@ -5251,14 +5315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173770,
-      "num": 173770,
-      "word": "李铁 后腰",
-      "onboard_time": 1704809375,
-      "rank": 38,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 173745,
       "num": 173745,
       "word": "女子cosplay游戏角色进地铁站被拦",
@@ -5515,6 +5571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166551,
+      "num": 166551,
+      "word": "怎么区分喜欢和爱",
+      "onboard_time": 1704810760,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166291,
       "num": 150386,
       "word": "于文文妈见打系穿搭",
@@ -5579,6 +5643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165374,
+      "num": 165374,
+      "word": "知道李铁被抓小球员说用实力赢更快乐",
+      "onboard_time": 1704809073,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 165153,
       "num": 165153,
       "word": "庄达菲 我没K",
@@ -5593,14 +5665,6 @@
       "onboard_time": 1704593848,
       "rank": 33,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 164743,
-      "num": 164743,
-      "word": "知道李铁被抓小球员说用实力赢更快乐",
-      "onboard_time": 1704809073,
-      "rank": 39,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 164202,
@@ -5643,6 +5707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 163142,
+      "num": 163142,
+      "word": "孙铭徽俞泽辰冲突",
+      "onboard_time": 1704809735,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162880,
       "num": 162880,
       "word": "2023年运动员微博报告",
@@ -5656,6 +5728,14 @@
       "word": "黎斐",
       "onboard_time": 1704807452,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162311,
+      "num": 162311,
+      "word": "铁窗泪442",
+      "onboard_time": 1704807997,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -5979,14 +6059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154077,
-      "num": 154077,
-      "word": "孙铭徽俞泽辰冲突",
-      "onboard_time": 1704809735,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154073,
       "num": 154073,
       "word": "哈尔滨大姐遇台湾女生疯狂投喂",
@@ -6001,14 +6073,6 @@
       "onboard_time": 1704690936,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153864,
-      "num": 153864,
-      "word": "广厦男篮战胜辽宁男篮",
-      "onboard_time": 1704809795,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 153762,
