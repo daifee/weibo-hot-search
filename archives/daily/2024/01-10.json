@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704839679766,
+  "endTime": 1704842295498,
   "band_list": [
     {
       "raw_hot": 2401484,
@@ -19,6 +19,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 724717,
+      "num": 724717,
+      "word": "男子打不着火被网友提醒房间缺氧",
+      "onboard_time": 1704816569,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704147,
       "num": 704147,
       "word": "早上宋慧乔 晚上宋小宝",
@@ -33,6 +41,14 @@
       "onboard_time": 1704812496,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 624875,
+      "num": 293005,
+      "word": "专家建议尽快调整退休年龄",
+      "onboard_time": 1704782670,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 532229,
@@ -75,12 +91,12 @@
       "category": "剧集,体育"
     },
     {
-      "raw_hot": 454904,
-      "num": 454904,
-      "word": "男子打不着火被网友提醒房间缺氧",
-      "onboard_time": 1704816569,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 460908,
+      "num": 460908,
+      "word": "董宇辉为哈尔滨爆火开心",
+      "onboard_time": 1704816988,
+      "rank": 22,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 445146,
@@ -91,20 +107,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 388998,
+      "num": 388998,
+      "word": "在职1万退休后只能拿4000",
+      "onboard_time": 1704801332,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370071,
       "num": 297961,
       "word": "A先生 胡歌的脸",
       "onboard_time": 1704803432,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 349997,
-      "num": 349997,
-      "word": "在职1万退休后只能拿4000",
-      "onboard_time": 1704801332,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 341244,
@@ -115,12 +131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 340910,
-      "num": 340910,
-      "word": "董宇辉为哈尔滨爆火开心",
-      "onboard_time": 1704816988,
-      "rank": 22,
-      "category": "社会新闻,网红"
+      "raw_hot": 339328,
+      "num": 339328,
+      "word": "冬天起不来是身体在保护你",
+      "onboard_time": 1704839836,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 327905,
@@ -137,6 +153,14 @@
       "onboard_time": 1704808233,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304874,
+      "num": 304874,
+      "word": "金莎回应被说女油王",
+      "onboard_time": 1704818423,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 271041,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 259389,
-      "num": 191897,
+      "num": 201342,
       "word": "请和我的老公结婚",
       "onboard_time": 1704811417,
       "rank": 21,
@@ -171,20 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241427,
-      "num": 210501,
-      "word": "专家建议尽快调整退休年龄",
-      "onboard_time": 1704782670,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223007,
       "num": 223007,
       "word": "魔卡少女樱 小樱绝美手办",
       "onboard_time": 1704812496,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 218420,
+      "num": 218420,
+      "word": "进去的人比进去的球还多",
+      "onboard_time": 1704810275,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 200617,
@@ -209,14 +233,6 @@
       "onboard_time": 1704805771,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 160118,
-      "num": 160118,
-      "word": "进去的人比进去的球还多",
-      "onboard_time": 1704810275,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 149913,
@@ -275,6 +291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 116691,
+      "num": 116691,
+      "word": "赛琳娜霉霉没有八卦甜茶金小妹",
+      "onboard_time": 1704825673,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115721,
       "num": 115721,
       "word": "自测脊柱侧弯的方法",
@@ -299,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108892,
-      "num": 107141,
-      "word": "金莎回应被说女油王",
-      "onboard_time": 1704818423,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106069,
       "num": 106069,
       "word": "车厘子是大号樱桃吗",
@@ -321,6 +337,14 @@
       "onboard_time": 1704814951,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 96787,
+      "num": 96787,
+      "word": "魏总要碎了",
+      "onboard_time": 1704822077,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 96715,
@@ -379,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82743,
+      "num": 82743,
+      "word": "调查称中国户均住房资产187万元",
+      "onboard_time": 1704835993,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82421,
       "num": 82421,
       "word": "一些J人的震惊之处",
@@ -395,6 +427,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76837,
+      "num": 76837,
+      "word": "街道办回应要求返乡过年人员要报备",
+      "onboard_time": 1704841821,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74937,
+      "num": 74937,
+      "word": "内娱最认真的工作室",
+      "onboard_time": 1704799469,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 74765,
       "num": 74765,
       "word": "王霏霏晒JYP合照",
@@ -403,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73156,
-      "num": 72461,
-      "word": "魏总要碎了",
-      "onboard_time": 1704822077,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 73475,
+      "num": 73475,
+      "word": "于文文妈见打系穿搭",
+      "onboard_time": 1704800970,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 69693,
@@ -435,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61605,
-      "num": 61605,
-      "word": "赛琳娜霉霉没有八卦甜茶金小妹",
-      "onboard_time": 1704825673,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 58833,
+      "num": 58833,
+      "word": "哈尔滨打工的白狐狸都累坏了",
+      "onboard_time": 1704823338,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 58284,
@@ -451,6 +499,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 54693,
+      "num": 54693,
+      "word": "张大大 这一切挺突然的",
+      "onboard_time": 1704837554,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52444,
       "num": 68316,
       "word": "央视列足坛反腐被查阵容",
@@ -459,12 +515,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39700,
-      "num": 39700,
-      "word": "调查称中国户均住房资产187万元",
-      "onboard_time": 1704835993,
-      "rank": 49,
-      "category": "财经"
+      "raw_hot": 44826,
+      "num": 44826,
+      "word": "谢娜回应浪姐皇族争议",
+      "onboard_time": 1704828913,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 40137,
+      "num": 40137,
+      "word": "我国每10名儿童中至少1人患湿疹",
+      "onboard_time": 1704830173,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 33246,
@@ -475,36 +539,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 27826,
-      "num": 27826,
-      "word": "我国每10名儿童中至少1人患湿疹",
-      "onboard_time": 1704830173,
-      "rank": 39,
-      "category": "健康医疗"
+      "raw_hot": 33240,
+      "num": 40132,
+      "word": "宋茜直播晒巨型糖葫芦",
+      "onboard_time": 1704842121,
+      "rank": 44,
+      "category": "剧集"
     },
     {
-      "raw_hot": 27646,
-      "num": 27646,
-      "word": "张大大 这一切挺突然的",
-      "onboard_time": 1704837554,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 25686,
-      "num": 25823,
-      "word": "哈尔滨打工的白狐狸都累坏了",
-      "onboard_time": 1704823338,
+      "raw_hot": 33115,
+      "num": 40130,
+      "word": "汪小姐 江湖再见",
+      "onboard_time": 1704806554,
       "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 23490,
-      "num": 21129,
-      "word": "谢娜回应浪姐皇族争议",
-      "onboard_time": 1704828913,
-      "rank": 27,
-      "category": "综艺"
+      "category": "剧集"
     },
     {
       "raw_hot": 22491,

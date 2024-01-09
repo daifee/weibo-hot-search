@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704839679766,
+  "endTime": 1704842295498,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -1091,6 +1091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 724717,
+      "num": 724717,
+      "word": "男子打不着火被网友提醒房间缺氧",
+      "onboard_time": 1704816569,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 720342,
       "num": 720342,
       "word": "黄子佼方辟谣去世传闻",
@@ -2171,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460908,
+      "num": 460908,
+      "word": "董宇辉为哈尔滨爆火开心",
+      "onboard_time": 1704816988,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 459596,
       "num": 459596,
       "word": "大冻梨街头走秀小土豆被身高暴击",
@@ -2217,14 +2233,6 @@
       "onboard_time": 1704809014,
       "rank": 31,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 454904,
-      "num": 454904,
-      "word": "男子打不着火被网友提醒房间缺氧",
-      "onboard_time": 1704816569,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 454019,
@@ -2843,12 +2851,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340910,
-      "num": 340910,
-      "word": "董宇辉为哈尔滨爆火开心",
-      "onboard_time": 1704816988,
-      "rank": 22,
-      "category": "社会新闻,网红"
+      "raw_hot": 339328,
+      "num": 339328,
+      "word": "冬天起不来是身体在保护你",
+      "onboard_time": 1704839836,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 338719,
@@ -3153,6 +3161,14 @@
       "onboard_time": 1704681930,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 304874,
+      "num": 304874,
+      "word": "金莎回应被说女油王",
+      "onboard_time": 1704818423,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 304314,
@@ -7571,6 +7587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116691,
+      "num": 116691,
+      "word": "赛琳娜霉霉没有八卦甜茶金小妹",
+      "onboard_time": 1704825673,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115891,
       "num": 1376582,
       "word": "2024年春运民航客运量将达8000万人次",
@@ -7793,14 +7817,6 @@
       "onboard_time": 1704617552,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108892,
-      "num": 107141,
-      "word": "金莎回应被说女油王",
-      "onboard_time": 1704818423,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 108648,
@@ -8171,6 +8187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96787,
+      "num": 96787,
+      "word": "魏总要碎了",
+      "onboard_time": 1704822077,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96751,
       "num": 96751,
       "word": "民警一把拉住了欲跳楼男子小腿",
@@ -8379,6 +8403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82743,
+      "num": 82743,
+      "word": "调查称中国户均住房资产187万元",
+      "onboard_time": 1704835993,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82503,
       "num": 82503,
       "word": "2024斯诺克大师赛",
@@ -8435,6 +8467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76837,
+      "num": 76837,
+      "word": "街道办回应要求返乡过年人员要报备",
+      "onboard_time": 1704841821,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74975,
       "num": 369440,
       "word": "汪苏泷献唱王者动画剧集",
@@ -8456,14 +8496,6 @@
       "word": "珠帘玉幕剧组给刘宇宁庆生",
       "onboard_time": 1704738255,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 73156,
-      "num": 72461,
-      "word": "魏总要碎了",
-      "onboard_time": 1704822077,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -8531,20 +8563,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 61605,
-      "num": 61605,
-      "word": "赛琳娜霉霉没有八卦甜茶金小妹",
-      "onboard_time": 1704825673,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 60976,
       "num": 413173,
       "word": "问界M9上的黑科技盘点",
       "onboard_time": 1704765992,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 58833,
+      "num": 58833,
+      "word": "哈尔滨打工的白狐狸都累坏了",
+      "onboard_time": 1704823338,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 58803,
@@ -8603,6 +8635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54693,
+      "num": 54693,
+      "word": "张大大 这一切挺突然的",
+      "onboard_time": 1704837554,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54300,
       "num": 54300,
       "word": "英伟达特供芯片在中国遇冷",
@@ -8659,6 +8699,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 44826,
+      "num": 44826,
+      "word": "谢娜回应浪姐皇族争议",
+      "onboard_time": 1704828913,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43606,
       "num": 198386,
       "word": "FindX7卷翻同行Pro版",
@@ -8683,12 +8731,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 39700,
-      "num": 39700,
-      "word": "调查称中国户均住房资产187万元",
-      "onboard_time": 1704835993,
-      "rank": 49,
-      "category": "财经"
+      "raw_hot": 40137,
+      "num": 40137,
+      "word": "我国每10名儿童中至少1人患湿疹",
+      "onboard_time": 1704830173,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 39323,
@@ -8739,6 +8787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 33240,
+      "num": 40132,
+      "word": "宋茜直播晒巨型糖葫芦",
+      "onboard_time": 1704842121,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32763,
       "num": 2278074,
       "word": "聚焦中国经济圆桌会",
@@ -8787,22 +8843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 27826,
-      "num": 27826,
-      "word": "我国每10名儿童中至少1人患湿疹",
-      "onboard_time": 1704830173,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 27646,
-      "num": 27646,
-      "word": "张大大 这一切挺突然的",
-      "onboard_time": 1704837554,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 26706,
       "num": 23853,
       "word": "郑恺说繁花是全行业的强心针",
@@ -8811,28 +8851,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25686,
-      "num": 25823,
-      "word": "哈尔滨打工的白狐狸都累坏了",
-      "onboard_time": 1704823338,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 23750,
       "num": 937310,
       "word": "全国各省份力拼经济开门红",
       "onboard_time": 1704531093,
       "rank": 2,
       "category": "财经"
-    },
-    {
-      "raw_hot": 23490,
-      "num": 21129,
-      "word": "谢娜回应浪姐皇族争议",
-      "onboard_time": 1704828913,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 23132,
