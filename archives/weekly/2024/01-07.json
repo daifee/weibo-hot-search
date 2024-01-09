@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704821636871,
+  "endTime": 1704824327362,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -8707,6 +8707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 33246,
+      "num": 43915,
+      "word": "翻书声 吵到我良心了",
+      "onboard_time": 1704821179,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 32763,
       "num": 2278074,
       "word": "聚焦中国经济圆桌会",
@@ -8729,14 +8737,6 @@
       "onboard_time": 1704690394,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 31362,
-      "num": 43915,
-      "word": "翻书声 吵到我良心了",
-      "onboard_time": 1704821179,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 30553,

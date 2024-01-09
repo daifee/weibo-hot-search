@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704821636871,
+  "endTime": 1704824327362,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -24499,6 +24499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 33246,
+      "num": 43915,
+      "word": "翻书声 吵到我良心了",
+      "onboard_time": 1704821179,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 33149,
       "num": 33149,
       "word": "王者荣耀云梦有灵CG",
@@ -24561,14 +24569,6 @@
       "onboard_time": 1704253291,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 31362,
-      "num": 43915,
-      "word": "翻书声 吵到我良心了",
-      "onboard_time": 1704821179,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 30553,
