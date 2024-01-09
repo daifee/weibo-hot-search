@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704764332246,
+  "endTime": 1704767501344,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -771,6 +771,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1475613,
+      "num": 1475613,
+      "word": "章泽天净资产600亿",
+      "onboard_time": 1704766651,
+      "rank": 0,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 1464481,
       "num": 1464481,
       "word": "被指肛珠作弊象棋冠军起诉中国棋协",
@@ -1139,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1241320,
+      "num": 1241320,
+      "word": "为什么全身面部的皮肤最差",
+      "onboard_time": 1704761913,
+      "rank": 12,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1239716,
       "num": 855126,
       "word": "冷门歌手孙燕姿",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1704371070,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1158820,
-      "num": 1158820,
-      "word": "为什么全身面部的皮肤最差",
-      "onboard_time": 1704761913,
-      "rank": 12,
-      "category": "美妆"
     },
     {
       "raw_hot": 1158511,
@@ -1891,6 +1899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 987136,
+      "num": 987136,
+      "word": "iPhone从4000多米高空坠落仍可使用",
+      "onboard_time": 1704762752,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 986920,
       "num": 986920,
       "word": "心疼爷叔",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704631530,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 855614,
-      "num": 518531,
-      "word": "鲁东大学",
-      "onboard_time": 1704528813,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854312,
-      "num": 867050,
-      "word": "上海迪士尼发文致歉",
-      "onboard_time": 1704025247,
-      "rank": 17,
-      "category": "旅游"
     }
   ],
   "hotgov_list": [

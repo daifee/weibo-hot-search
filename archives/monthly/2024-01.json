@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704764332246,
+  "endTime": 1704767501344,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -771,6 +771,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1475613,
+      "num": 1475613,
+      "word": "章泽天净资产600亿",
+      "onboard_time": 1704766651,
+      "rank": 0,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 1464481,
       "num": 1464481,
       "word": "被指肛珠作弊象棋冠军起诉中国棋协",
@@ -1139,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1241320,
+      "num": 1241320,
+      "word": "为什么全身面部的皮肤最差",
+      "onboard_time": 1704761913,
+      "rank": 12,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1239716,
       "num": 855126,
       "word": "冷门歌手孙燕姿",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1704371070,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1158820,
-      "num": 1158820,
-      "word": "为什么全身面部的皮肤最差",
-      "onboard_time": 1704761913,
-      "rank": 12,
-      "category": "美妆"
     },
     {
       "raw_hot": 1158511,
@@ -1889,6 +1897,14 @@
       "onboard_time": 1704590969,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 987136,
+      "num": 987136,
+      "word": "iPhone从4000多米高空坠落仍可使用",
+      "onboard_time": 1704762752,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 986920,
@@ -3619,6 +3635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669947,
+      "num": 669947,
+      "word": "已读瞎回",
+      "onboard_time": 1704762992,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 669705,
       "num": 669705,
       "word": "陈妍希兑现瘦十斤flag",
@@ -4009,14 +4033,6 @@
       "onboard_time": 1704452794,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 624626,
-      "num": 624626,
-      "word": "iPhone从4000多米高空坠落仍可使用",
-      "onboard_time": 1704762752,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 623221,
@@ -5555,6 +5571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 496592,
+      "num": 496592,
+      "word": "国安部推出特别版黑猫警长",
+      "onboard_time": 1704762451,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 495358,
       "num": 495358,
       "word": "宝总 汪小姐",
@@ -5633,6 +5657,14 @@
       "onboard_time": 1704024348,
       "rank": 2,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 491858,
+      "num": 491858,
+      "word": "掉河里的顶级翡翠找到了",
+      "onboard_time": 1704763412,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491558,
@@ -6180,7 +6212,7 @@
     },
     {
       "raw_hot": 449767,
-      "num": 417108,
+      "num": 429955,
       "word": "景甜短发",
       "onboard_time": 1704755060,
       "rank": 15,
@@ -6289,6 +6321,14 @@
       "onboard_time": 1704695071,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 439421,
+      "num": 439421,
+      "word": "热水泡脚确实能睡得更香",
+      "onboard_time": 1704765331,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 438681,
@@ -7355,6 +7395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373394,
+      "num": 373394,
+      "word": "41岁流浪歌手生活困难转行卖烧烤",
+      "onboard_time": 1704764371,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373085,
       "num": 373085,
       "word": "你好香啊 你也是",
@@ -7707,22 +7755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 348396,
-      "num": 348396,
-      "word": "国安部推出特别版黑猫警长",
-      "onboard_time": 1704762451,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 348240,
-      "num": 348240,
-      "word": "掉河里的顶级翡翠找到了",
-      "onboard_time": 1704763412,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347887,
       "num": 347887,
       "word": "辛芷蕾 影视综的花都开了",
@@ -8025,6 +8057,14 @@
       "onboard_time": 1704623191,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327410,
+      "num": 238327,
+      "word": "1天1杯奶茶会得糖尿病吗",
+      "onboard_time": 1704765151,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 326501,
@@ -8425,6 +8465,14 @@
       "onboard_time": 1704063858,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 310224,
+      "num": 310224,
+      "word": "河南致返乡人员一封信",
+      "onboard_time": 1704762451,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310006,
@@ -9099,14 +9147,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 286555,
-      "num": 286555,
-      "word": "已读瞎回",
-      "onboard_time": 1704762992,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 286532,
       "num": 286532,
       "word": "压力过大衰老速度比常人快6倍",
@@ -9257,6 +9297,14 @@
       "onboard_time": 1704618152,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 281008,
+      "num": 281008,
+      "word": "花儿与少年 群像杀伤力",
+      "onboard_time": 1704766770,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 279938,
@@ -9907,6 +9955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 259941,
+      "num": 259941,
+      "word": "刘浩存吉林卫视春晚彩排路透",
+      "onboard_time": 1704765450,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259080,
       "num": 259080,
       "word": "金唱片直播",
@@ -10017,6 +10073,14 @@
       "onboard_time": 1704682771,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 256361,
+      "num": 235413,
+      "word": "吃不下饭时是身体在保护你",
+      "onboard_time": 1704766113,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 256068,
@@ -10299,14 +10363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 246586,
-      "num": 246586,
-      "word": "河南致返乡人员一封信",
-      "onboard_time": 1704762451,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246541,
       "num": 246541,
       "word": "邓为芭莎男士封面预告",
@@ -10393,6 +10449,14 @@
       "onboard_time": 1704340353,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244636,
+      "num": 244636,
+      "word": "司法机关破解苹果AirDrop",
+      "onboard_time": 1704767010,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 244533,
@@ -11211,6 +11275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224160,
+      "num": 224160,
+      "word": "智能马桶到底是不是智商税",
+      "onboard_time": 1704766888,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 224066,
       "num": 224066,
       "word": "俄罗斯小套娃抵达黑龙江",
@@ -11409,6 +11481,14 @@
       "onboard_time": 1704089609,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219840,
+      "num": 219840,
+      "word": "车银优将solo出道",
+      "onboard_time": 1704766411,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 219745,
@@ -12025,6 +12105,14 @@
       "onboard_time": 1704457170,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207340,
+      "num": 207340,
+      "word": "马斯克回应特斯拉美国市场份额超大众",
+      "onboard_time": 1704766411,
+      "rank": 27,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 207172,
@@ -13129,6 +13217,14 @@
       "onboard_time": 1704682050,
       "rank": 28,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 193538,
+      "num": 193538,
+      "word": "张婧仪檀健次吻戏",
+      "onboard_time": 1704767429,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 193524,
@@ -15139,6 +15235,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 168214,
+      "num": 168214,
+      "word": "宋茜 不止斩弟也斩女",
+      "onboard_time": 1704766170,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168191,
       "num": 168191,
       "word": "代餐型单身",
@@ -16865,6 +16969,14 @@
       "onboard_time": 1704197974,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145754,
+      "num": 145754,
+      "word": "尔滨上新冰糖葫芦咖啡",
+      "onboard_time": 1704765752,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 145597,
@@ -19347,6 +19459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 118544,
+      "num": 118544,
+      "word": "你那不叫舒适区",
+      "onboard_time": 1704765209,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118524,
       "num": 118524,
       "word": "素人爆改妆容",
@@ -19963,6 +20083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108640,
+      "num": 108640,
+      "word": "女高管开除员工双方已达成补偿协议",
+      "onboard_time": 1704767429,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108548,
       "num": 108548,
       "word": "真是一次酣畅淋漓的农业大摸底",
@@ -20184,6 +20312,14 @@
       "word": "2024年上班第一天",
       "onboard_time": 1704151284,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105366,
+      "num": 105366,
+      "word": "被女高管违法开除员工称签道歉函才给赔偿",
+      "onboard_time": 1704767490,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -20588,7 +20724,7 @@
     },
     {
       "raw_hot": 96379,
-      "num": 1041864,
+      "num": 1060922,
       "word": "多地上新文旅大礼包",
       "onboard_time": 1704721595,
       "rank": 2,
@@ -21433,6 +21569,14 @@
       "onboard_time": 1704403573,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60976,
+      "num": 292384,
+      "word": "问界M9上的黑科技盘点",
+      "onboard_time": 1704765992,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 60908,
