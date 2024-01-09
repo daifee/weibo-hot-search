@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704842295498,
+  "endTime": 1704843288442,
   "band_list": [
     {
       "raw_hot": 2401484,
@@ -19,12 +19,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 724717,
-      "num": 724717,
+      "raw_hot": 765617,
+      "num": 320401,
+      "word": "专家建议尽快调整退休年龄",
+      "onboard_time": 1704782670,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757350,
+      "num": 757350,
       "word": "男子打不着火被网友提醒房间缺氧",
       "onboard_time": 1704816569,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747216,
+      "num": 747216,
+      "word": "冬天起不来是身体在保护你",
+      "onboard_time": 1704839836,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 704147,
@@ -43,14 +59,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 624875,
-      "num": 293005,
-      "word": "专家建议尽快调整退休年龄",
-      "onboard_time": 1704782670,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 532229,
       "num": 532229,
       "word": "繁花大结局",
@@ -65,6 +73,22 @@
       "onboard_time": 1704812434,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 508980,
+      "num": 508980,
+      "word": "董宇辉为哈尔滨爆火开心",
+      "onboard_time": 1704816988,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 480019,
+      "num": 480019,
+      "word": "在职1万退休后只能拿4000",
+      "onboard_time": 1704801332,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477227,
@@ -91,14 +115,6 @@
       "category": "剧集,体育"
     },
     {
-      "raw_hot": 460908,
-      "num": 460908,
-      "word": "董宇辉为哈尔滨爆火开心",
-      "onboard_time": 1704816988,
-      "rank": 22,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 445146,
       "num": 83307,
       "word": "从CCTV5到CCTV1",
@@ -107,12 +123,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 388998,
-      "num": 388998,
-      "word": "在职1万退休后只能拿4000",
-      "onboard_time": 1704801332,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 392616,
+      "num": 392616,
+      "word": "金莎回应被说女油王",
+      "onboard_time": 1704818423,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 370071,
@@ -131,14 +147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 339328,
-      "num": 339328,
-      "word": "冬天起不来是身体在保护你",
-      "onboard_time": 1704839836,
-      "rank": 7,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 327905,
       "num": 271973,
       "word": "川沙阿宝",
@@ -155,12 +163,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304874,
-      "num": 304874,
-      "word": "金莎回应被说女油王",
-      "onboard_time": 1704818423,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 288744,
+      "num": 288744,
+      "word": "进去的人比进去的球还多",
+      "onboard_time": 1704810275,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 271041,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 259389,
-      "num": 201342,
+      "num": 227747,
       "word": "请和我的老公结婚",
       "onboard_time": 1704811417,
       "rank": 21,
@@ -203,12 +211,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 218420,
-      "num": 218420,
-      "word": "进去的人比进去的球还多",
-      "onboard_time": 1704810275,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 206532,
+      "num": 132951,
+      "word": "街道办回应要求返乡过年人员要报备",
+      "onboard_time": 1704841821,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200617,
@@ -251,6 +259,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142479,
+      "num": 142479,
+      "word": "赛琳娜霉霉没有八卦甜茶金小妹",
+      "onboard_time": 1704825673,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142269,
+      "num": 142269,
+      "word": "中国人民警察节",
+      "onboard_time": 1704842964,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 138518,
       "num": 138518,
       "word": "央视播出李铁案细节",
@@ -275,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129426,
+      "num": 129426,
+      "word": "车厘子是大号樱桃吗",
+      "onboard_time": 1704808713,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 125199,
       "num": 125199,
       "word": "热巴拿火山丝当祛痘针",
@@ -283,20 +315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123390,
+      "num": 123390,
+      "word": "小狗认为摸头是世界上最幸福的事",
+      "onboard_time": 1704842663,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 118574,
+      "num": 118574,
+      "word": "魏总要碎了",
+      "onboard_time": 1704822077,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117553,
       "num": 117553,
       "word": "终于关掉烦人的自动更新了",
       "onboard_time": 1704814232,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 116691,
-      "num": 116691,
-      "word": "赛琳娜霉霉没有八卦甜茶金小妹",
-      "onboard_time": 1704825673,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 115721,
@@ -315,20 +355,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109687,
-      "num": 503518,
+      "raw_hot": 112304,
+      "num": 562707,
       "word": "反腐大片持续发力纵深推进第四集",
       "onboard_time": 1704802351,
       "rank": 37,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106069,
-      "num": 106069,
-      "word": "车厘子是大号樱桃吗",
-      "onboard_time": 1704808713,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 104758,
+      "num": 104758,
+      "word": "愿每一次出警都平安归来",
+      "onboard_time": 1704842423,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104501,
@@ -339,12 +379,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 96787,
-      "num": 96787,
-      "word": "魏总要碎了",
-      "onboard_time": 1704822077,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 103033,
+      "num": 87449,
+      "word": "一晚打赏三四万大哥大姐究竟在想啥",
+      "onboard_time": 1704842482,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96715,
@@ -376,6 +416,22 @@
       "word": "于正曾坚决反对张檬整容",
       "onboard_time": 1704796951,
       "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 87482,
+      "num": 87482,
+      "word": "张大大 这一切挺突然的",
+      "onboard_time": 1704837554,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87129,
+      "num": 87129,
+      "word": "内娱最认真的工作室",
+      "onboard_time": 1704799469,
+      "rank": 27,
       "category": "作品衍生"
     },
     {
@@ -411,6 +467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 82567,
+      "num": 82567,
+      "word": "宝总李李真亲了",
+      "onboard_time": 1704842905,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82421,
       "num": 82421,
       "word": "一些J人的震惊之处",
@@ -427,20 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76837,
-      "num": 76837,
-      "word": "街道办回应要求返乡过年人员要报备",
-      "onboard_time": 1704841821,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74937,
-      "num": 74937,
-      "word": "内娱最认真的工作室",
-      "onboard_time": 1704799469,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 79008,
+      "num": 79008,
+      "word": "于文文妈见打系穿搭",
+      "onboard_time": 1704800970,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 74765,
@@ -451,12 +507,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73475,
-      "num": 73475,
-      "word": "于文文妈见打系穿搭",
-      "onboard_time": 1704800970,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 73417,
+      "num": 73417,
+      "word": "哈尔滨打工的白狐狸都累坏了",
+      "onboard_time": 1704823338,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 71434,
+      "num": 71434,
+      "word": "成毅竹林舞剑剧照",
+      "onboard_time": 1704806735,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 71294,
+      "num": 71294,
+      "word": "球员收600万输球结果是凭实力输的",
+      "onboard_time": 1704805293,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 69693,
@@ -467,28 +539,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 65507,
-      "num": 68292,
-      "word": "球员收600万输球结果是凭实力输的",
-      "onboard_time": 1704805293,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 63476,
-      "num": 68355,
-      "word": "成毅竹林舞剑剧照",
-      "onboard_time": 1704806735,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 58833,
-      "num": 58833,
-      "word": "哈尔滨打工的白狐狸都累坏了",
-      "onboard_time": 1704823338,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 59998,
+      "num": 59998,
+      "word": "冻梨还没吃上又整上冻梨花茶了",
+      "onboard_time": 1704842604,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 58284,
@@ -499,12 +555,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 54693,
-      "num": 54693,
-      "word": "张大大 这一切挺突然的",
-      "onboard_time": 1704837554,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 58114,
+      "num": 58114,
+      "word": "谢娜回应浪姐皇族争议",
+      "onboard_time": 1704828913,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 52444,
@@ -515,12 +571,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44826,
-      "num": 44826,
-      "word": "谢娜回应浪姐皇族争议",
-      "onboard_time": 1704828913,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 50783,
+      "num": 50783,
+      "word": "宋茜直播晒巨型糖葫芦",
+      "onboard_time": 1704842121,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48685,
+      "num": 48685,
+      "word": "董宇辉回应带货化妆品",
+      "onboard_time": 1704809014,
+      "rank": 47,
+      "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 46398,
+      "num": 46398,
+      "word": "110的含义",
+      "onboard_time": 1704843264,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40137,
@@ -537,14 +609,6 @@
       "onboard_time": 1704821179,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 33240,
-      "num": 40132,
-      "word": "宋茜直播晒巨型糖葫芦",
-      "onboard_time": 1704842121,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 33115,
