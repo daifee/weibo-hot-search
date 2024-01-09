@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704817392414,
+  "endTime": 1704818381248,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -2107,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472050,
+      "num": 472050,
+      "word": "央视春晚语言类节目审查",
+      "onboard_time": 1704814651,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471973,
       "num": 471973,
       "word": "公安部公布78个骗子项目",
@@ -2763,14 +2771,6 @@
       "category": "电影,时尚"
     },
     {
-      "raw_hot": 359204,
-      "num": 218941,
-      "word": "央视春晚语言类节目审查",
-      "onboard_time": 1704814651,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 358428,
       "num": 358428,
       "word": "乌克兰军方称乌全境拉响防空警报",
@@ -3107,6 +3107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308626,
+      "num": 308626,
+      "word": "董宇辉为哈尔滨爆火开心",
+      "onboard_time": 1704816988,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 307886,
       "num": 307886,
       "word": "钎九 又幸福了",
@@ -3339,6 +3347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285573,
+      "num": 285573,
+      "word": "男子打不着火被网友提醒房间缺氧",
+      "onboard_time": 1704816569,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284963,
       "num": 284963,
       "word": "当高铁座位旁是个大学生时",
@@ -3449,6 +3465,14 @@
       "onboard_time": 1704634531,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 271041,
+      "num": 276606,
+      "word": "以为李铁出家了",
+      "onboard_time": 1704815129,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 268992,
@@ -3857,14 +3881,6 @@
       "onboard_time": 1704756685,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 235739,
-      "num": 207936,
-      "word": "以为李铁出家了",
-      "onboard_time": 1704815129,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 235428,
@@ -5089,14 +5105,6 @@
       "onboard_time": 1704546995,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 188129,
-      "num": 188129,
-      "word": "董宇辉为哈尔滨爆火开心",
-      "onboard_time": 1704816988,
-      "rank": 22,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 187763,
@@ -6673,14 +6681,6 @@
       "onboard_time": 1704713070,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 138282,
-      "num": 128293,
-      "word": "男子打不着火被网友提醒房间缺氧",
-      "onboard_time": 1704816569,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138145,
@@ -8433,6 +8433,14 @@
       "onboard_time": 1704596851,
       "rank": 32,
       "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 74765,
+      "num": 74765,
+      "word": "王霏霏晒JYP合照",
+      "onboard_time": 1704817645,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 73814,
