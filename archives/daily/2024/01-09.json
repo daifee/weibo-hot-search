@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704804698177,
+  "endTime": 1704806882109,
   "band_list": [
     {
       "raw_hot": 5501200,
@@ -9,6 +9,14 @@
       "onboard_time": 1704802470,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3074948,
+      "num": 3074948,
+      "word": "李铁行贿300万当上国足主教练",
+      "onboard_time": 1704804513,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 2674649,
@@ -49,6 +57,14 @@
       "onboard_time": 1704803190,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1478118,
+      "num": 1478118,
+      "word": "川沙阿宝",
+      "onboard_time": 1704806254,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1432491,
@@ -123,20 +139,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1234335,
+      "num": 1234335,
+      "word": "A先生 胡歌的脸",
+      "onboard_time": 1704803432,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1229285,
       "num": 1229285,
       "word": "金莎会做婚前财产公证",
       "onboard_time": 1704792932,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1191123,
-      "num": 1191123,
-      "word": "A先生 胡歌的脸",
-      "onboard_time": 1704803432,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 1185180,
@@ -185,6 +201,14 @@
       "onboard_time": 1704762752,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 975369,
+      "num": 785144,
+      "word": "马思纯 两年终于拍戏了",
+      "onboard_time": 1704802229,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 954536,
@@ -249,14 +273,6 @@
       "onboard_time": 1704775174,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 836257,
-      "num": 785144,
-      "word": "马思纯 两年终于拍戏了",
-      "onboard_time": 1704802229,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 827373,
@@ -449,6 +465,14 @@
       "onboard_time": 1704780151,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 637364,
+      "num": 495268,
+      "word": "王源说暂停是为了重新出发",
+      "onboard_time": 1704803613,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 612307,
@@ -683,6 +707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 479602,
+      "num": 430510,
+      "word": "三羊牌大衣",
+      "onboard_time": 1704804392,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 478951,
       "num": 478951,
       "word": "微博之夜新一轮官宣",
@@ -713,14 +745,6 @@
       "onboard_time": 1704759993,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 454025,
-      "num": 454025,
-      "word": "王源说暂停是为了重新出发",
-      "onboard_time": 1704803613,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 453659,
@@ -851,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387449,
+      "num": 387449,
+      "word": "球员收600万输球结果是凭实力输的",
+      "onboard_time": 1704805293,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384998,
       "num": 384998,
       "word": "周一围 我是懒不是傻",
@@ -937,14 +969,6 @@
       "onboard_time": 1704789396,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 334178,
-      "num": 334178,
-      "word": "李铁行贿300万当上国足主教练",
-      "onboard_time": 1704804513,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 333782,
@@ -1035,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306808,
+      "num": 306808,
+      "word": "看 你的教资合格证",
+      "onboard_time": 1704805771,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 297891,
       "num": 297891,
       "word": "唐毅为陈都灵化的新中式妆",
@@ -1067,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290835,
+      "num": 290835,
+      "word": "李铁托人花600万收买球员被独吞",
+      "onboard_time": 1704805473,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290685,
       "num": 290685,
       "word": "原神推广曲",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1704772533,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 282630,
+      "num": 282630,
+      "word": "繁花配角",
+      "onboard_time": 1704789330,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 279414,
@@ -1123,11 +1171,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 266597,
-      "num": 266597,
-      "word": "繁花配角",
-      "onboard_time": 1704789330,
-      "rank": 44,
+      "raw_hot": 267737,
+      "num": 150839,
+      "word": "繁花伏笔",
+      "onboard_time": 1704804812,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266269,
+      "num": 266269,
+      "word": "宝总汪小姐 OE",
+      "onboard_time": 1704806432,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1427,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216873,
+      "num": 216873,
+      "word": "让恋爱14年情侣决定领证的瞬间",
+      "onboard_time": 1704805052,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 215953,
       "num": 178891,
       "word": "网购100多条一次性内裤被妈妈清洗",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1704766411,
       "rank": 27,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 205698,
+      "num": 205698,
+      "word": "汪小姐 江湖再见",
+      "onboard_time": 1704806554,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 205249,
@@ -1569,6 +1641,14 @@
       "onboard_time": 1704762631,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 198205,
+      "num": 198205,
+      "word": "F1 上海见",
+      "onboard_time": 1704805713,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 198174,
@@ -1721,6 +1801,14 @@
       "onboard_time": 1704776615,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188160,
+      "num": 188160,
+      "word": "中国足球",
+      "onboard_time": 1704806312,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 187763,
@@ -1955,14 +2043,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 167452,
-      "num": 167452,
-      "word": "三羊牌大衣",
-      "onboard_time": 1704804392,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167280,
       "num": 167280,
       "word": "爆改孙晨竣",
@@ -2155,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151421,
+      "num": 151421,
+      "word": "李铁与武汉卓尔6000万元送4名球员进国家队",
+      "onboard_time": 1704806613,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151295,
       "num": 151295,
       "word": "全国人均可支配月收入中位数不足3000元",
@@ -2232,6 +2320,14 @@
       "word": "繁花明天大结局",
       "onboard_time": 1704720813,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143477,
+      "num": 143477,
+      "word": "成毅竹林舞剑剧照",
+      "onboard_time": 1704806735,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -2329,6 +2425,14 @@
       "onboard_time": 1704784952,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131964,
+      "num": 131964,
+      "word": "陈戌源哭了",
+      "onboard_time": 1704806735,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 131566,
@@ -2465,6 +2569,14 @@
       "onboard_time": 1704803613,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123263,
+      "num": 123263,
+      "word": "全国球迷的心情",
+      "onboard_time": 1704806855,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 123007,
@@ -2849,6 +2961,14 @@
       "onboard_time": 1704742334,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1513,
+      "num": 2089915,
+      "word": "聚焦中国经济圆桌会",
+      "onboard_time": 1704701372,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

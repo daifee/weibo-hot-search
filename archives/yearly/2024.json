@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704804698177,
+  "endTime": 1704806882109,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -129,6 +129,14 @@
       "onboard_time": 1704095075,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3074948,
+      "num": 3074948,
+      "word": "李铁行贿300万当上国足主教练",
+      "onboard_time": 1704804513,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 2996543,
@@ -819,6 +827,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1478118,
+      "num": 1478118,
+      "word": "川沙阿宝",
+      "onboard_time": 1704806254,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1464481,
       "num": 1464481,
       "word": "被指肛珠作弊象棋冠军起诉中国棋协",
@@ -1275,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1234335,
+      "num": 1234335,
+      "word": "A先生 胡歌的脸",
+      "onboard_time": 1704803432,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1229285,
       "num": 1229285,
       "word": "金莎会做婚前财产公证",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1704717929,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1191123,
-      "num": 1191123,
-      "word": "A先生 胡歌的脸",
-      "onboard_time": 1704803432,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 1189051,
@@ -2099,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 975369,
+      "num": 785144,
+      "word": "马思纯 两年终于拍戏了",
+      "onboard_time": 1704802229,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 973921,
       "num": 973921,
       "word": "百度宣布终止收购YY直播",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1704338371,
       "rank": 8,
       "category": "美食,动漫"
-    },
-    {
-      "raw_hot": 904335,
-      "num": 904335,
-      "word": "新街口全是人",
-      "onboard_time": 1704042941,
-      "rank": 14,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 902403,
-      "num": 902403,
-      "word": "深圳欢乐谷过山车事故9人被追责问责",
-      "onboard_time": 1704680847,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 901947,
-      "num": 901947,
-      "word": "王家卫拍出了辛芷蕾的人生镜头",
-      "onboard_time": 1704155318,
-      "rank": 5,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
