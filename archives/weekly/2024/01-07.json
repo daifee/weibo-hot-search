@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704798922521,
+  "endTime": 1704800056625,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1733956,
+      "num": 1733956,
+      "word": "繁花大结局",
+      "onboard_time": 1704797792,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1722960,
       "num": 1722960,
       "word": "爷爷 已读乱回",
@@ -209,14 +217,6 @@
       "onboard_time": 1704777811,
       "rank": 11,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 1329851,
-      "num": 1329851,
-      "word": "繁花大结局",
-      "onboard_time": 1704797792,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1329807,
@@ -376,6 +376,14 @@
       "word": "当地回应冰锥砸死大学生",
       "onboard_time": 1704610888,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1144833,
+      "num": 1144833,
+      "word": "蛋糕58元 地区差别",
+      "onboard_time": 1704796770,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -859,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 747921,
+      "num": 747921,
+      "word": "曝李铁一路砸钱到能执教国足",
+      "onboard_time": 1704797610,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 744906,
       "num": 744906,
       "word": "哈尔滨 烫碗",
@@ -868,7 +884,7 @@
     },
     {
       "raw_hot": 741298,
-      "num": 1110167,
+      "num": 1130145,
       "word": "哈工大你玩真的啊",
       "onboard_time": 1704779733,
       "rank": 6,
@@ -1169,14 +1185,6 @@
       "onboard_time": 1704702450,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 642332,
-      "num": 642332,
-      "word": "曝李铁一路砸钱到能执教国足",
-      "onboard_time": 1704797610,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 641354,
@@ -2355,14 +2363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 391825,
-      "num": 391825,
-      "word": "蛋糕58元 地区差别",
-      "onboard_time": 1704796770,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389965,
       "num": 274231,
       "word": "分手见人品",
@@ -2787,6 +2787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309662,
+      "num": 309662,
+      "word": "律师称张雪峰说文考生靠舔不侵犯名誉权",
+      "onboard_time": 1704799230,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309482,
       "num": 309482,
       "word": "朱丹周一围翻拍经典亲吻躲避照",
@@ -2907,6 +2915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292836,
+      "num": 292836,
+      "word": "曝王者荣耀抖音直播禁令冰融",
+      "onboard_time": 1704798809,
+      "rank": 46,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 292419,
       "num": 255724,
       "word": "为什么今年羽绒服价格不菲还这么火",
@@ -2945,6 +2961,14 @@
       "onboard_time": 1704617552,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 289962,
+      "num": 289962,
+      "word": "原神 薙刀来",
+      "onboard_time": 1704798932,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 289369,
@@ -3049,6 +3073,14 @@
       "onboard_time": 1704707433,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274449,
+      "num": 274449,
+      "word": "内娱最认真的工作室",
+      "onboard_time": 1704799469,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 273256,
@@ -3185,6 +3217,14 @@
       "onboard_time": 1704707433,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257438,
+      "num": 257438,
+      "word": "唐毅为陈都灵化的新中式妆",
+      "onboard_time": 1704799830,
+      "rank": 25,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 256848,
@@ -3715,6 +3755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217369,
+      "num": 217369,
+      "word": "流水的弟弟 铁打的宋茜",
+      "onboard_time": 1704799413,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216544,
       "num": 216544,
       "word": "大江大河3",
@@ -3801,6 +3849,14 @@
       "onboard_time": 1704784410,
       "rank": 25,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 211671,
+      "num": 211671,
+      "word": "宝总绝对不能破产",
+      "onboard_time": 1704799111,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 211201,
@@ -4155,6 +4211,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 197224,
+      "num": 197224,
+      "word": "王家卫精读弹幕到夜里两三点",
+      "onboard_time": 1704799413,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196608,
       "num": 196608,
       "word": "北极熊和小砂糖橘上演最萌身高差",
@@ -4504,6 +4568,14 @@
       "word": "我们的翻译官开播",
       "onboard_time": 1704687034,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184865,
+      "num": 184483,
+      "word": "王家卫镜头下的女演员",
+      "onboard_time": 1704799111,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -5019,6 +5091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 167280,
+      "num": 167280,
+      "word": "爆改孙晨竣",
+      "onboard_time": 1704799172,
+      "rank": 40,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 167277,
       "num": 167277,
       "word": "残疾男孩在公园被小朋友主动拥抱",
@@ -5299,6 +5379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158175,
+      "num": 158175,
+      "word": "南方用冰箱能做冻梨吗",
+      "onboard_time": 1704798695,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 158013,
       "num": 158013,
       "word": "霸总文学为什么不灵了",
@@ -5329,14 +5417,6 @@
       "onboard_time": 1704790414,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156836,
-      "num": 156836,
-      "word": "南方用冰箱能做冻梨吗",
-      "onboard_time": 1704798695,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 156716,
@@ -5577,6 +5657,14 @@
       "onboard_time": 1704691353,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151295,
+      "num": 151295,
+      "word": "全国人均可支配月收入中位数不足3000元",
+      "onboard_time": 1704799652,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150670,
@@ -5905,14 +5993,6 @@
       "onboard_time": 1704713070,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 138232,
-      "num": 138232,
-      "word": "曝王者荣耀抖音直播禁令冰融",
-      "onboard_time": 1704798809,
-      "rank": 46,
-      "category": "游戏,互联网"
     },
     {
       "raw_hot": 138145,
@@ -7579,6 +7659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80665,
+      "num": 408059,
+      "word": "原神雷电将军宵宫复刻",
+      "onboard_time": 1704798032,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80391,
       "num": 80391,
       "word": "傅菁福州音乐会",
@@ -7641,14 +7729,6 @@
       "onboard_time": 1704669624,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 64866,
-      "num": 408059,
-      "word": "原神雷电将军宵宫复刻",
-      "onboard_time": 1704798032,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 63795,
