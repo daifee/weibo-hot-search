@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704791877023,
+  "endTime": 1704792893430,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2723,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807568,
+      "num": 807568,
+      "word": "张雪峰反问谁说搞科研不赚钱",
+      "onboard_time": 1704791311,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 807274,
       "num": 807274,
       "word": "第一批小东北虎已抵达桂林",
@@ -3123,6 +3131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 745414,
+      "num": 745414,
+      "word": "台媒曝炎亚纶出售千万豪宅",
+      "onboard_time": 1704790532,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 745276,
       "num": 745276,
       "word": "主播声称几万元貂皮卖399大妈狂下单",
@@ -3241,6 +3257,14 @@
       "onboard_time": 1704592650,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 736806,
+      "num": 736806,
+      "word": "男子在日军731部队遗址前直播带货",
+      "onboard_time": 1704788974,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 736449,
@@ -3475,6 +3499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706312,
+      "num": 706312,
+      "word": "经纪人不让朱丹飙英文",
+      "onboard_time": 1704791070,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 706054,
       "num": 706054,
       "word": "王鹤棣枪灰发色",
@@ -3585,14 +3617,6 @@
       "onboard_time": 1704693030,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 695448,
-      "num": 695448,
-      "word": "男子在日军731部队遗址前直播带货",
-      "onboard_time": 1704788974,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 695395,
@@ -4185,14 +4209,6 @@
       "onboard_time": 1704502948,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 630050,
-      "num": 630050,
-      "word": "张雪峰反问谁说搞科研不赚钱",
-      "onboard_time": 1704791311,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 629320,
@@ -4897,14 +4913,6 @@
       "onboard_time": 1704344016,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 557604,
-      "num": 557604,
-      "word": "台媒曝炎亚纶出售千万豪宅",
-      "onboard_time": 1704790532,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 556630,
@@ -6097,6 +6105,14 @@
       "onboard_time": 1704444752,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 483961,
+      "num": 483961,
+      "word": "贾乃亮晒甜馨烧玻璃",
+      "onboard_time": 1704792272,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 483675,
@@ -7651,6 +7667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 385183,
+      "num": 385183,
+      "word": "韩国以食用目的宰杀犬只将获刑",
+      "onboard_time": 1704790053,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384998,
       "num": 384998,
       "word": "周一围 我是懒不是傻",
@@ -7705,14 +7729,6 @@
       "onboard_time": 1704365133,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380205,
-      "num": 380205,
-      "word": "经纪人不让朱丹飙英文",
-      "onboard_time": 1704791070,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 379287,
@@ -8388,7 +8404,7 @@
     },
     {
       "raw_hot": 334793,
-      "num": 312752,
+      "num": 313315,
       "word": "二十几岁没谈过恋爱",
       "onboard_time": 1704789396,
       "rank": 20,
@@ -9049,14 +9065,6 @@
       "onboard_time": 1704150141,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 305958,
-      "num": 305958,
-      "word": "韩国以食用目的宰杀犬只将获刑",
-      "onboard_time": 1704790053,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305821,
@@ -11011,6 +11019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243766,
+      "num": 243766,
+      "word": "哈尔滨没有搭建冰航母",
+      "onboard_time": 1704792212,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 243416,
       "num": 243416,
       "word": "博主就文科言论起诉张雪峰案已立案",
@@ -11137,6 +11153,14 @@
       "onboard_time": 1704788312,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239372,
+      "num": 239372,
+      "word": "公安部公布78个骗子项目",
+      "onboard_time": 1704792513,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 239307,
@@ -11705,6 +11729,14 @@
       "onboard_time": 1704263850,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225460,
+      "num": 225460,
+      "word": "奚梦瑶曾拒绝浪姐",
+      "onboard_time": 1704792513,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 225453,
@@ -12569,6 +12601,14 @@
       "onboard_time": 1704342633,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 209986,
+      "num": 209986,
+      "word": "起诉张雪峰博主称感觉受到言语霸凌",
+      "onboard_time": 1704792454,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 209948,
@@ -13571,6 +13611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197259,
+      "num": 197259,
+      "word": "日本新潟县中越地区发生6.0级地震",
+      "onboard_time": 1704792513,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196993,
       "num": 196993,
       "word": "PUBG服务器",
@@ -13912,6 +13960,14 @@
       "word": "王楚钦最后这两球",
       "onboard_time": 1704378393,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193918,
+      "num": 193918,
+      "word": "WTT参赛名单",
+      "onboard_time": 1704792394,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -16459,6 +16515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164012,
+      "num": 164012,
+      "word": "沉珂近况",
+      "onboard_time": 1704791551,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 163998,
       "num": 163998,
       "word": "脱轨大结局 病号版燃冬",
@@ -17129,14 +17193,6 @@
       "onboard_time": 1704590849,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 155062,
-      "num": 155062,
-      "word": "沉珂近况",
-      "onboard_time": 1704791551,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 155020,
@@ -19235,6 +19291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132621,
+      "num": 132621,
+      "word": "刘宇饭绘 小花神",
+      "onboard_time": 1704791611,
+      "rank": 48,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 132539,
       "num": 132539,
       "word": "论父母的职业对孩子的影响有多大",
@@ -19817,14 +19881,6 @@
       "onboard_time": 1704610888,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127242,
-      "num": 127242,
-      "word": "刘宇饭绘 小花神",
-      "onboard_time": 1704791611,
-      "rank": 48,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 126902,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/09 17:17:57
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/09 17:34:53
 </p>
 </blockquote>
 <p>
@@ -2055,6 +2055,12 @@ joker不是小丑 是制胜的王牌（热度：824347）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%8F%8D%E9%97%AE%E8%B0%81%E8%AF%B4%E6%90%9E%E7%A7%91%E7%A0%94%E4%B8%8D%E8%B5%9A%E9%92%B1%23" target="weibo">
+张雪峰反问谁说搞科研不赚钱（热度：807568）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%B0%8F%E4%B8%9C%E5%8C%97%E8%99%8E%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%A1%82%E6%9E%97%23" target="weibo">
 第一批小东北虎已抵达桂林（热度：807274）
 </a>
@@ -2355,6 +2361,12 @@ A股（热度：751347）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%87%BA%E5%94%AE%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%23" target="weibo">
+台媒曝炎亚纶出售千万豪宅（热度：745414）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E5%A3%B0%E7%A7%B0%E5%87%A0%E4%B8%87%E5%85%83%E8%B2%82%E7%9A%AE%E5%8D%96399%E5%A4%A7%E5%A6%88%E7%8B%82%E4%B8%8B%E5%8D%95%23" target="weibo">
 主播声称几万元貂皮卖399大妈狂下单（热度：745276）
 </a>
@@ -2441,6 +2453,12 @@ iPhone电池门赔款到账（热度：737858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A3%E9%BE%99%E5%B0%91%E5%B9%B4%E7%BC%96%E5%89%A7%20%E5%8F%82%E5%8A%A0%E8%BF%87%E9%AB%98%E8%80%83%E5%90%97%23" target="weibo">
 鸣龙少年编剧 参加过高考吗（热度：737191）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E5%86%9B731%E9%83%A8%E9%98%9F%E9%81%97%E5%9D%80%E5%89%8D%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23" target="weibo">
+男子在日军731部队遗址前直播带货（热度：736806）
 </a>
 </li>
 
@@ -2619,6 +2637,12 @@ iPhone电池门赔款到账（热度：737858）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E4%B8%8D%E8%AE%A9%E6%9C%B1%E4%B8%B9%E9%A3%99%E8%8B%B1%E6%96%87%23" target="weibo">
+经纪人不让朱丹飙英文（热度：706312）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%9E%AA%E7%81%B0%E5%8F%91%E8%89%B2%23" target="weibo">
 王鹤棣枪灰发色（热度：706054）
 </a>
@@ -2699,12 +2723,6 @@ iPhone电池门赔款到账（热度：737858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%9C%9D%E4%BC%9F%20%E4%B9%B03%E5%BC%A0%E5%BD%B1%E7%A5%A8%E5%B0%B1%E5%B8%8C%E6%9C%9B%E6%97%81%E8%BE%B9%E6%B2%A1%E6%9C%89%E4%BA%BA%23" target="weibo">
 梁朝伟 买3张影票就希望旁边没有人（热度：695589）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E5%86%9B731%E9%83%A8%E9%98%9F%E9%81%97%E5%9D%80%E5%89%8D%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23" target="weibo">
-男子在日军731部队遗址前直播带货（热度：695448）
 </a>
 </li>
 
@@ -3149,12 +3167,6 @@ iPhone电池门赔款到账（热度：737858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%88%E8%BF%9E%E5%8F%91%E5%9C%B0%E9%9C%87%23" target="weibo">
 日本又连发地震（热度：630622）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%8F%8D%E9%97%AE%E8%B0%81%E8%AF%B4%E6%90%9E%E7%A7%91%E7%A0%94%E4%B8%8D%E8%B5%9A%E9%92%B1%23" target="weibo">
-张雪峰反问谁说搞科研不赚钱（热度：630050）
 </a>
 </li>
 
@@ -3683,12 +3695,6 @@ iPhone电池门赔款到账（热度：737858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%8D%B7%E8%84%96%E5%9B%B4%E4%BA%86%23" target="weibo">
 韩国人已经开始卷脖围了（热度：557788）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%87%BA%E5%94%AE%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%23" target="weibo">
-台媒曝炎亚纶出售千万豪宅（热度：557604）
 </a>
 </li>
 
@@ -4583,6 +4589,12 @@ JDG战胜TES（热度：502747）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86%23" target="weibo">
 豆瓣崩了（热度：484010）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E6%99%92%E7%94%9C%E9%A6%A8%E7%83%A7%E7%8E%BB%E7%92%83%23" target="weibo">
+贾乃亮晒甜馨烧玻璃（热度：483961）
 </a>
 </li>
 
@@ -5751,6 +5763,12 @@ BLG 胜利难道是今天（热度：390887）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BB%A5%E9%A3%9F%E7%94%A8%E7%9B%AE%E7%9A%84%E5%AE%B0%E6%9D%80%E7%8A%AC%E5%8F%AA%E5%B0%86%E8%8E%B7%E5%88%91%23" target="weibo">
+韩国以食用目的宰杀犬只将获刑（热度：385183）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E5%9B%B4%20%E6%88%91%E6%98%AF%E6%87%92%E4%B8%8D%E6%98%AF%E5%82%BB%23" target="weibo">
 周一围 我是懒不是傻（热度：384998）
 </a>
@@ -5789,12 +5807,6 @@ EXO今后活动方向（热度：382535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A541%E5%B2%81%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E9%81%AD%E6%8A%A2%E5%8A%AB%E9%81%87%E5%AE%B3%23" target="weibo">
 警方通报41岁失联男子遭抢劫遇害（热度：381401）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E4%B8%8D%E8%AE%A9%E6%9C%B1%E4%B8%B9%E9%A3%99%E8%8B%B1%E6%96%87%23" target="weibo">
-经纪人不让朱丹飙英文（热度：380205）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ ITZY回归（热度：365382）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%B0%E6%9C%BA%E5%9C%BA%23" target="weibo">
 羽田机场（热度：361720）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E7%BB%BF%E8%A3%99%E5%AD%90%E5%A5%BD%E9%97%AA%23" target="weibo">
-霉霉绿裙子好闪（热度：361418）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E5%A4%A7%E9%98%AA%E6%80%BB%E9%A2%86%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%8A%A0%E5%BC%BA%E9%98%B2%E8%8C%83%23" target="weibo">
-中国驻大阪总领馆提醒中国公民加强防范（热度：360480）
 </a>
 </li>
 

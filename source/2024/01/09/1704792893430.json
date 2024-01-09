@@ -1,0 +1,410 @@
+{
+  "runTime": 1704792893430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1567242,
+        "num": 1567242,
+        "word": "专家建议尽快调整退休年龄",
+        "onboard_time": 1704782670,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922745,
+        "num": 922745,
+        "word": "汤唯称不可能跟丈夫离婚",
+        "onboard_time": 1704783810,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44785,
+        "num": 847603,
+        "word": "向禁毒战线上无名的你们致敬",
+        "onboard_time": 1704789932,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807568,
+        "num": 807568,
+        "word": "张雪峰反问谁说搞科研不赚钱",
+        "onboard_time": 1704791311,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 775971,
+        "num": 775971,
+        "word": "章若楠 我们没做饭啊",
+        "onboard_time": 1704788132,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 745414,
+        "num": 745414,
+        "word": "台媒曝炎亚纶出售千万豪宅",
+        "onboard_time": 1704790532,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 736806,
+        "num": 736806,
+        "word": "男子在日军731部队遗址前直播带货",
+        "onboard_time": 1704788974,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706312,
+        "num": 706312,
+        "word": "经纪人不让朱丹飙英文",
+        "onboard_time": 1704791070,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639425,
+        "num": 639425,
+        "word": "微博之夜 豪门姐弟大赏",
+        "onboard_time": 1704787052,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 541613,
+        "num": 541613,
+        "word": "男子为生二胎起诉白血病妻子寻求离婚",
+        "onboard_time": 1704788615,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519029,
+        "num": 519029,
+        "word": "唐嫣曾被张艺谋选中为奥运宝贝",
+        "onboard_time": 1704788615,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483961,
+        "num": 483961,
+        "word": "贾乃亮晒甜馨烧玻璃",
+        "onboard_time": 1704792272,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448088,
+        "num": 448088,
+        "word": "于正再次为张檬写长文",
+        "onboard_time": 1704777811,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417292,
+        "num": 417292,
+        "word": "国考还不出成绩是有什么心事吗",
+        "onboard_time": 1704788011,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 385183,
+        "num": 385183,
+        "word": "韩国以食用目的宰杀犬只将获刑",
+        "onboard_time": 1704790053,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352607,
+        "num": 352607,
+        "word": "37岁孙子粘着100岁奶奶聊天睡觉",
+        "onboard_time": 1704784410,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349859,
+        "num": 349859,
+        "word": "坠亡的20岁俄籍超模曾去过萝莉岛",
+        "onboard_time": 1704775174,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328914,
+        "num": 328914,
+        "word": "专家建议发放1万亿元消费券",
+        "onboard_time": 1704783512,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 326985,
+        "num": 326985,
+        "word": "张碧晨担任C罗中国行表演嘉宾",
+        "onboard_time": 1704786811,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 280133,
+        "num": 317824,
+        "word": "杨紫ins自拍照",
+        "onboard_time": 1704789213,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313315,
+        "num": 313315,
+        "word": "二十几岁没谈过恋爱",
+        "onboard_time": 1704789396,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301793,
+        "num": 301793,
+        "word": "小土豆中途下火车舔铁柱子尴尬了",
+        "onboard_time": 1704789752,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287314,
+        "num": 287314,
+        "word": "19岁女生抽脂后第3天死亡",
+        "onboard_time": 1704781711,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269428,
+        "num": 269428,
+        "word": "发朋友圈被误认为出国的旅游地",
+        "onboard_time": 1704769110,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 243766,
+        "num": 243766,
+        "word": "哈尔滨没有搭建冰航母",
+        "onboard_time": 1704792212,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 239372,
+        "num": 239372,
+        "word": "公安部公布78个骗子项目",
+        "onboard_time": 1704792513,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233457,
+        "num": 233457,
+        "word": "唐嫣拍繁花爸爸每天接下班",
+        "onboard_time": 1704782072,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230192,
+        "num": 230192,
+        "word": "张镇麟领证",
+        "onboard_time": 1704788790,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225460,
+        "num": 225460,
+        "word": "奚梦瑶曾拒绝浪姐",
+        "onboard_time": 1704792513,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209986,
+        "num": 209986,
+        "word": "起诉张雪峰博主称感觉受到言语霸凌",
+        "onboard_time": 1704792454,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205683,
+        "num": 205683,
+        "word": "哈工大你玩真的啊",
+        "onboard_time": 1704779733,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197259,
+        "num": 197259,
+        "word": "日本新潟县中越地区发生6.0级地震",
+        "onboard_time": 1704792513,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193918,
+        "num": 193918,
+        "word": "WTT参赛名单",
+        "onboard_time": 1704792394,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187336,
+        "num": 187336,
+        "word": "繁花配角",
+        "onboard_time": 1704789330,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177911,
+        "num": 177911,
+        "word": "胡先煦王安宇好像陪女友逛街的男朋友",
+        "onboard_time": 1704789330,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168810,
+        "num": 168810,
+        "word": "单身即地狱3",
+        "onboard_time": 1704792454,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173798,
+        "num": 168292,
+        "word": "秦岚亲了迪丽热巴",
+        "onboard_time": 1704780151,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165883,
+        "num": 165883,
+        "word": "我国成功发射爱因斯坦探针",
+        "onboard_time": 1704785495,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164012,
+        "num": 164012,
+        "word": "沉珂近况",
+        "onboard_time": 1704791551,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155879,
+        "num": 155879,
+        "word": "繁花收官特别活动",
+        "onboard_time": 1704789091,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153473,
+        "num": 153473,
+        "word": "网易云改版",
+        "onboard_time": 1704783810,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152686,
+        "num": 152686,
+        "word": "博主称养孩子难的时代已经过去了",
+        "onboard_time": 1704782791,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143291,
+        "num": 143291,
+        "word": "两个i人生出一个超级e人",
+        "onboard_time": 1704783512,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142166,
+        "num": 142166,
+        "word": "交往时一半年薪用来吃喝男生分手",
+        "onboard_time": 1704777630,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134167,
+        "num": 134167,
+        "word": "我弟官宣忘记屏蔽我表妹",
+        "onboard_time": 1704779131,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133080,
+        "num": 133080,
+        "word": "微博之夜新一轮官宣",
+        "onboard_time": 1704775295,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132621,
+        "num": 132621,
+        "word": "刘宇饭绘 小花神",
+        "onboard_time": 1704791611,
+        "rank": 46,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 129020,
+        "num": 129020,
+        "word": "周一围 我是懒不是傻",
+        "onboard_time": 1704787111,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125191,
+        "num": 125191,
+        "word": "Selina说小腰果能感知自己情绪变化",
+        "onboard_time": 1704788312,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122911,
+        "num": 122911,
+        "word": "2023年度影响力电竞选手",
+        "onboard_time": 1704791370,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐败绝对不能回头不能松懈不能慈悲#"
+    }
+  }
+}
