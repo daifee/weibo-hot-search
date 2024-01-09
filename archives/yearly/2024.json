@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704806882109,
+  "endTime": 1704807569176,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -123,20 +123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3209528,
+      "num": 3209528,
+      "word": "李铁行贿300万当上国足主教练",
+      "onboard_time": 1704804513,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3135611,
       "num": 3135611,
       "word": "日本强震引发5米海啸",
       "onboard_time": 1704095075,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3074948,
-      "num": 3074948,
-      "word": "李铁行贿300万当上国足主教练",
-      "onboard_time": 1704804513,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 2996543,
@@ -547,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1747164,
+      "num": 1747164,
+      "word": "川沙阿宝",
+      "onboard_time": 1704806254,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1740529,
       "num": 1740529,
       "word": "哈尔滨冻草莓都开始按个卖了",
@@ -825,14 +833,6 @@
       "onboard_time": 1704244469,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1478118,
-      "num": 1478118,
-      "word": "川沙阿宝",
-      "onboard_time": 1704806254,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 1464481,
@@ -1635,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1122949,
+      "num": 785144,
+      "word": "马思纯 两年终于拍戏了",
+      "onboard_time": 1704802229,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1121285,
       "num": 1121285,
       "word": "蒋欣 华妃13年后再演反派",
@@ -2113,14 +2121,6 @@
       "onboard_time": 1704526771,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 975369,
-      "num": 785144,
-      "word": "马思纯 两年终于拍戏了",
-      "onboard_time": 1704802229,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 973921,

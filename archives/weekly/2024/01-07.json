@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704806882109,
+  "endTime": 1704807569176,
   "band_list": [
     {
       "raw_hot": 5501200,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3074948,
-      "num": 3074948,
+      "raw_hot": 3209528,
+      "num": 3209528,
       "word": "李铁行贿300万当上国足主教练",
       "onboard_time": 1704804513,
       "rank": 20,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1747164,
+      "num": 1747164,
+      "word": "川沙阿宝",
+      "onboard_time": 1704806254,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1740529,
       "num": 1740529,
       "word": "哈尔滨冻草莓都开始按个卖了",
@@ -200,14 +208,6 @@
       "word": "张若昀长文",
       "onboard_time": 1704545671,
       "rank": 0,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1478118,
-      "num": 1478118,
-      "word": "川沙阿宝",
-      "onboard_time": 1704806254,
-      "rank": 4,
       "category": "剧集"
     },
     {
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1122949,
+      "num": 785144,
+      "word": "马思纯 两年终于拍戏了",
+      "onboard_time": 1704802229,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1096431,
       "num": 1096431,
       "word": "为什么网吧老板不会赶走蹭睡的人",
@@ -609,14 +617,6 @@
       "onboard_time": 1704719851,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 975369,
-      "num": 785144,
-      "word": "马思纯 两年终于拍戏了",
-      "onboard_time": 1704802229,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 959210,
@@ -1211,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 669817,
+      "num": 495268,
+      "word": "王源说暂停是为了重新出发",
+      "onboard_time": 1704803613,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 668228,
       "num": 668228,
       "word": "杨紫国色芳华造型",
@@ -1289,14 +1297,6 @@
       "onboard_time": 1704562401,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 637364,
-      "num": 495268,
-      "word": "王源说暂停是为了重新出发",
-      "onboard_time": 1704803613,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 625583,
@@ -1755,6 +1755,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 519617,
+      "num": 449231,
+      "word": "三羊牌大衣",
+      "onboard_time": 1704804392,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 518614,
       "num": 518614,
       "word": "有必要将义务教育延长至12年吗",
@@ -1915,6 +1923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 496557,
+      "num": 386185,
+      "word": "宝总汪小姐 OE",
+      "onboard_time": 1704806432,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 494399,
       "num": 1727783,
       "word": "幼儿园宝宝全勤奖是棵大芹菜",
@@ -2001,14 +2017,6 @@
       "onboard_time": 1704773372,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 479602,
-      "num": 430510,
-      "word": "三羊牌大衣",
-      "onboard_time": 1704804392,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 478951,
@@ -2169,6 +2177,14 @@
       "onboard_time": 1704596369,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450140,
+      "num": 450140,
+      "word": "球员收600万输球结果是凭实力输的",
+      "onboard_time": 1704805293,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 449767,
@@ -2523,14 +2539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387449,
-      "num": 387449,
-      "word": "球员收600万输球结果是凭实力输的",
-      "onboard_time": 1704805293,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 387167,
       "num": 387167,
       "word": "把和男友的聊天记录可视化",
@@ -2577,6 +2585,14 @@
       "onboard_time": 1704682530,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 381540,
+      "num": 205698,
+      "word": "汪小姐 江湖再见",
+      "onboard_time": 1704806554,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 373394,
@@ -2665,6 +2681,14 @@
       "onboard_time": 1704683670,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 357150,
+      "num": 357150,
+      "word": "看 你的教资合格证",
+      "onboard_time": 1704805771,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 356738,
@@ -2985,14 +3009,6 @@
       "onboard_time": 1704612330,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 306808,
-      "num": 306808,
-      "word": "看 你的教资合格证",
-      "onboard_time": 1704805771,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 306545,
@@ -3337,14 +3353,6 @@
       "onboard_time": 1704691113,
       "rank": 24,
       "category": "游戏,音乐"
-    },
-    {
-      "raw_hot": 266269,
-      "num": 266269,
-      "word": "宝总汪小姐 OE",
-      "onboard_time": 1704806432,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 265040,
@@ -3787,6 +3795,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 226126,
+      "num": 226126,
+      "word": "让恋爱14年情侣决定领证的瞬间",
+      "onboard_time": 1704805052,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225460,
       "num": 225460,
       "word": "奚梦瑶曾拒绝浪姐",
@@ -3971,14 +3987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216873,
-      "num": 216873,
-      "word": "让恋爱14年情侣决定领证的瞬间",
-      "onboard_time": 1704805052,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 216544,
       "num": 216544,
       "word": "大江大河3",
@@ -4115,6 +4123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208983,
+      "num": 208983,
+      "word": "李铁与武汉卓尔6000万元送4名球员进国家队",
+      "onboard_time": 1704806613,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208967,
       "num": 208967,
       "word": "车银优你最好是胖着玩",
@@ -4179,12 +4195,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205698,
-      "num": 205698,
-      "word": "汪小姐 江湖再见",
-      "onboard_time": 1704806554,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 205404,
+      "num": 205404,
+      "word": "银行贪官拒收真金白银而用假投资敛财",
+      "onboard_time": 1704807031,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205249,
@@ -4217,6 +4233,14 @@
       "onboard_time": 1704769229,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204491,
+      "num": 204491,
+      "word": "全国球迷的心情",
+      "onboard_time": 1704806855,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 204359,
@@ -4291,6 +4315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201966,
+      "num": 201966,
+      "word": "陈戌源哭了",
+      "onboard_time": 1704806735,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201762,
       "num": 201762,
       "word": "胡锡进称小米汽车应该被鼓励和认可",
@@ -4312,6 +4344,14 @@
       "word": "李李转身 绝美",
       "onboard_time": 1704723754,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201464,
+      "num": 201464,
+      "word": "成毅竹林舞剑剧照",
+      "onboard_time": 1704806735,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -4417,6 +4457,14 @@
       "onboard_time": 1704762631,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 198234,
+      "num": 198234,
+      "word": "中国足球",
+      "onboard_time": 1704806312,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 198205,
@@ -4771,14 +4819,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 188160,
-      "num": 188160,
-      "word": "中国足球",
-      "onboard_time": 1704806312,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187763,
       "num": 190505,
       "word": "长白山6连板",
@@ -4961,6 +5001,14 @@
       "onboard_time": 1704593370,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 181128,
+      "num": 181128,
+      "word": "陕西洋县一社区要求返乡过年人员要报备",
+      "onboard_time": 1704807094,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180827,
@@ -5515,6 +5563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162745,
+      "num": 162745,
+      "word": "黎斐",
+      "onboard_time": 1704807452,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161408,
       "num": 161408,
       "word": "吉林市民送姜茶遭摊贩威胁称抢生意",
@@ -5955,14 +6011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151421,
-      "num": 151421,
-      "word": "李铁与武汉卓尔6000万元送4名球员进国家队",
-      "onboard_time": 1704806613,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151295,
       "num": 151295,
       "word": "全国人均可支配月收入中位数不足3000元",
@@ -6187,14 +6235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143477,
-      "num": 143477,
-      "word": "成毅竹林舞剑剧照",
-      "onboard_time": 1704806735,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143046,
       "num": 143046,
       "word": "普通话不好容易引起的误会",
@@ -6249,6 +6289,14 @@
       "onboard_time": 1704706293,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141644,
+      "num": 141644,
+      "word": "与辉同行半小时涨粉40万",
+      "onboard_time": 1704807452,
+      "rank": 47,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 141564,
@@ -6353,6 +6401,14 @@
       "onboard_time": 1704712052,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136846,
+      "num": 136846,
+      "word": "冻梨摆盘后便携冻梨又来了",
+      "onboard_time": 1704807274,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 136192,
@@ -6521,14 +6577,6 @@
       "onboard_time": 1704784952,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 131964,
-      "num": 131964,
-      "word": "陈戌源哭了",
-      "onboard_time": 1704806735,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 131918,
@@ -6929,14 +6977,6 @@
       "onboard_time": 1704594750,
       "rank": 47,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 123263,
-      "num": 123263,
-      "word": "全国球迷的心情",
-      "onboard_time": 1704806855,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 123009,
@@ -8292,7 +8332,7 @@
     },
     {
       "raw_hot": 32763,
-      "num": 2089915,
+      "num": 2278074,
       "word": "聚焦中国经济圆桌会",
       "onboard_time": 1704701372,
       "rank": 2,
