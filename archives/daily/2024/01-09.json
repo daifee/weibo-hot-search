@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704795574114,
+  "endTime": 1704796626178,
   "band_list": [
     {
       "raw_hot": 2674649,
@@ -75,20 +75,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1229285,
+      "num": 1229285,
+      "word": "金莎会做婚前财产公证",
+      "onboard_time": 1704792932,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1185180,
       "num": 1185180,
       "word": "王家卫到底花了多少钱买歌",
       "onboard_time": 1704758673,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1177583,
-      "num": 1177583,
-      "word": "金莎会做婚前财产公证",
-      "onboard_time": 1704792932,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1082340,
@@ -297,6 +297,14 @@
       "onboard_time": 1704757528,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 689882,
+      "num": 689882,
+      "word": "哈尔滨的白狐已经熬出黑眼圈",
+      "onboard_time": 1704793829,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 673940,
@@ -691,19 +699,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368397,
+      "num": 368397,
+      "word": "东北冰雕 冰马俑",
+      "onboard_time": 1704793352,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 363651,
       "num": 363651,
       "word": "韩国立法禁食狗肉",
       "onboard_time": 1704785671,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356030,
-      "num": 356030,
-      "word": "哈尔滨的白狐已经熬出黑眼圈",
-      "onboard_time": 1704793829,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -745,14 +753,6 @@
       "onboard_time": 1704717929,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329814,
-      "num": 329814,
-      "word": "东北冰雕 冰马俑",
-      "onboard_time": 1704793352,
-      "rank": 18,
-      "category": "旅游"
     },
     {
       "raw_hot": 326410,
@@ -883,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265040,
+      "num": 820367,
+      "word": "68岁院长飞奔抱住正摔倒的老人",
+      "onboard_time": 1704793829,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 264345,
       "num": 264345,
       "word": "刘宇宁直播没被认出的原因",
@@ -923,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 253773,
+      "num": 253773,
+      "word": "董宇辉新账号将首播",
+      "onboard_time": 1704793713,
+      "rank": 29,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 252722,
       "num": 252722,
       "word": "戏子祭酒实名举报",
@@ -947,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249051,
+      "num": 249051,
+      "word": "从此晒伤就变成了妆",
+      "onboard_time": 1704794433,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 243766,
       "num": 243766,
       "word": "哈尔滨没有搭建冰航母",
@@ -963,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238073,
-      "num": 820367,
-      "word": "68岁院长飞奔抱住正摔倒的老人",
-      "onboard_time": 1704793829,
-      "rank": 6,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 236608,
       "num": 236608,
       "word": "苹果头显2月2日上市",
@@ -979,12 +995,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 236203,
-      "num": 236203,
-      "word": "董宇辉新账号将首播",
-      "onboard_time": 1704793713,
-      "rank": 29,
-      "category": "互联网,网红"
+      "raw_hot": 236488,
+      "num": 214882,
+      "word": "玲娜贝儿 小狐罚站",
+      "onboard_time": 1704795512,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 235739,
@@ -1459,12 +1475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182718,
+      "num": 182718,
+      "word": "这泼天的富贵给您占好了",
+      "onboard_time": 1704794733,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181054,
       "num": 181054,
       "word": "教育局回应班主任让学生发毒誓",
       "onboard_time": 1704723097,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180626,
+      "num": 180626,
+      "word": "周一围他超爱",
+      "onboard_time": 1704795151,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 179589,
@@ -1489,14 +1521,6 @@
       "onboard_time": 1704774697,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177912,
-      "num": 177912,
-      "word": "从此晒伤就变成了妆",
-      "onboard_time": 1704794433,
-      "rank": 37,
-      "category": "美妆"
     },
     {
       "raw_hot": 174768,
@@ -1529,14 +1553,6 @@
       "onboard_time": 1704784651,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171352,
-      "num": 171352,
-      "word": "这泼天的富贵给您占好了",
-      "onboard_time": 1704794733,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 170379,
@@ -1593,14 +1609,6 @@
       "onboard_time": 1704784771,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 166537,
-      "num": 166537,
-      "word": "周一围他超爱",
-      "onboard_time": 1704795151,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 166160,
@@ -2091,14 +2099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118142,
-      "num": 118142,
-      "word": "玲娜贝儿 小狐罚站",
-      "onboard_time": 1704795512,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 117604,
       "num": 117604,
       "word": "还是威少懂杜兰特",
@@ -2164,7 +2164,7 @@
     },
     {
       "raw_hot": 103921,
-      "num": 318830,
+      "num": 358496,
       "word": "大东北真是贼拉热情",
       "onboard_time": 1704794670,
       "rank": 20,

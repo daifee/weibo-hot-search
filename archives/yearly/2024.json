@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704795574114,
+  "endTime": 1704796626178,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1227,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1229285,
+      "num": 1229285,
+      "word": "金莎会做婚前财产公证",
+      "onboard_time": 1704792932,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1229233,
       "num": 865853,
       "word": "赵露思 敦煌神女",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1704511110,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1177583,
-      "num": 1177583,
-      "word": "金莎会做婚前财产公证",
-      "onboard_time": 1704792932,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1169423,
