@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704836037379,
+  "endTime": 1704838621492,
   "band_list": [
     {
       "raw_hot": 2401484,
@@ -467,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28025,
+      "num": 28025,
+      "word": "调查称中国户均住房资产187万元",
+      "onboard_time": 1704835993,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 23490,
       "num": 20351,
       "word": "谢娜回应浪姐皇族争议",
@@ -475,16 +483,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19485,
-      "num": 18593,
+      "raw_hot": 22227,
+      "num": 22227,
       "word": "罗志祥说超爱怼网友",
       "onboard_time": 1704832815,
       "rank": 30,
       "category": "艺人"
     },
     {
-      "raw_hot": 18512,
-      "num": 18512,
+      "raw_hot": 21002,
+      "num": 21002,
       "word": "我国每10名儿童中至少1人患湿疹",
       "onboard_time": 1704830173,
       "rank": 39,
@@ -507,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17048,
+      "num": 17048,
+      "word": "张大大 这一切挺突然的",
+      "onboard_time": 1704837554,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16659,
       "num": 16659,
       "word": "李羲承漫画照进现实",
@@ -523,28 +539,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 12348,
+      "num": 16925,
+      "word": "亚洲杯赛程",
+      "onboard_time": 1704834553,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10934,
       "num": 14407,
       "word": "河南各地簪花花式内卷",
       "onboard_time": 1704831015,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 9686,
-      "num": 13366,
-      "word": "调查称中国户均住房资产187万元",
-      "onboard_time": 1704835993,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 9436,
-      "num": 13270,
-      "word": "亚洲杯赛程",
-      "onboard_time": 1704834553,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 2694,

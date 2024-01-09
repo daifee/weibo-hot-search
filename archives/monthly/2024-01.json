@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704836037379,
+  "endTime": 1704838621492,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -24619,6 +24619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 28025,
+      "num": 28025,
+      "word": "调查称中国户均住房资产187万元",
+      "onboard_time": 1704835993,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 27314,
       "num": 1163854,
       "word": "一句话送给2024年的自己",
@@ -24683,6 +24691,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 22227,
+      "num": 22227,
+      "word": "罗志祥说超爱怼网友",
+      "onboard_time": 1704832815,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21763,
       "num": 21763,
       "word": "威神V 帅帅的很安心",
@@ -24715,6 +24731,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 21002,
+      "num": 21002,
+      "word": "我国每10名儿童中至少1人患湿疹",
+      "onboard_time": 1704830173,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 20981,
       "num": 28724,
       "word": "2024KPL选秀大会",
@@ -24737,14 +24761,6 @@
       "onboard_time": 1704219738,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 19485,
-      "num": 18593,
-      "word": "罗志祥说超爱怼网友",
-      "onboard_time": 1704832815,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 19298,
@@ -24777,14 +24793,6 @@
       "onboard_time": 1704355834,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18512,
-      "num": 18512,
-      "word": "我国每10名儿童中至少1人患湿疹",
-      "onboard_time": 1704830173,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 18397,
@@ -24825,6 +24833,14 @@
       "onboard_time": 1704572294,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 17048,
+      "num": 17048,
+      "word": "张大大 这一切挺突然的",
+      "onboard_time": 1704837554,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 16727,
@@ -24971,6 +24987,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 12348,
+      "num": 16925,
+      "word": "亚洲杯赛程",
+      "onboard_time": 1704834553,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11944,
       "num": 11944,
       "word": "七仔葛优瘫式炫南瓜",
@@ -25051,28 +25075,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 9686,
-      "num": 13366,
-      "word": "调查称中国户均住房资产187万元",
-      "onboard_time": 1704835993,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 9622,
       "num": 9622,
       "word": "哈尔滨撸白狐",
       "onboard_time": 1704400934,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 9436,
-      "num": 13270,
-      "word": "亚洲杯赛程",
-      "onboard_time": 1704834553,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 8646,
