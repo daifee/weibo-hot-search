@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704789353742,
+  "endTime": 1704791877023,
   "band_list": [
     {
       "raw_hot": 3633631,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 803018,
+      "num": 803018,
+      "word": "章若楠 我们没做饭啊",
+      "onboard_time": 1704788132,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 802541,
       "num": 802541,
       "word": "浙大一院半月接收47名围炉煮茶中毒患者",
@@ -971,6 +979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 695448,
+      "num": 695448,
+      "word": "男子在日军731部队遗址前直播带货",
+      "onboard_time": 1704788974,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 685307,
       "num": 685307,
       "word": "哈工大学长杨柏汇因笑容温柔被关注",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1704562401,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630050,
+      "num": 630050,
+      "word": "张雪峰反问谁说搞科研不赚钱",
+      "onboard_time": 1704791311,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 625583,
@@ -1347,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557604,
+      "num": 557604,
+      "word": "台媒曝炎亚纶出售千万豪宅",
+      "onboard_time": 1704790532,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556101,
       "num": 556101,
       "word": "为什么年轻人不爱用信用卡了",
@@ -1409,6 +1441,22 @@
       "onboard_time": 1704613952,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545672,
+      "num": 545672,
+      "word": "男子为生二胎起诉白血病妻子寻求离婚",
+      "onboard_time": 1704788615,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545559,
+      "num": 545559,
+      "word": "唐嫣曾被张艺谋选中为奥运宝贝",
+      "onboard_time": 1704788615,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 542481,
@@ -2275,6 +2323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 380205,
+      "num": 380205,
+      "word": "经纪人不让朱丹飙英文",
+      "onboard_time": 1704791070,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373394,
       "num": 373394,
       "word": "41岁流浪歌手生活困难转行卖烧烤",
@@ -2379,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344150,
+      "num": 344150,
+      "word": "杨紫ins自拍照",
+      "onboard_time": 1704789213,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338719,
       "num": 338719,
       "word": "沈耀跟程雨杉在一起了",
@@ -2417,6 +2481,14 @@
       "onboard_time": 1704587607,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334793,
+      "num": 312752,
+      "word": "二十几岁没谈过恋爱",
+      "onboard_time": 1704789396,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 332087,
@@ -2473,6 +2545,14 @@
       "onboard_time": 1704774094,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 326367,
+      "num": 312751,
+      "word": "小土豆中途下火车舔铁柱子尴尬了",
+      "onboard_time": 1704789752,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326328,
@@ -2627,6 +2707,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 305958,
+      "num": 305958,
+      "word": "韩国以食用目的宰杀犬只将获刑",
+      "onboard_time": 1704790053,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305164,
       "num": 305164,
       "word": "猫猫没有骨头的铁证",
@@ -2705,14 +2793,6 @@
       "onboard_time": 1704586585,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 294165,
-      "num": 294165,
-      "word": "章若楠 我们没做饭啊",
-      "onboard_time": 1704788132,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 293727,
@@ -2897,14 +2977,6 @@
       "onboard_time": 1704589831,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267996,
-      "num": 267996,
-      "word": "唐嫣曾被张艺谋选中为奥运宝贝",
-      "onboard_time": 1704788615,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 266788,
@@ -3209,14 +3281,6 @@
       "onboard_time": 1704756685,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 235567,
-      "num": 235567,
-      "word": "杨紫ins自拍照",
-      "onboard_time": 1704789213,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 235428,
@@ -3739,14 +3803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203257,
-      "num": 203257,
-      "word": "男子为生二胎起诉白血病妻子寻求离婚",
-      "onboard_time": 1704788615,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203090,
       "num": 203090,
       "word": "快船大胜太阳27分",
@@ -3761,6 +3817,14 @@
       "onboard_time": 1704554794,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 202852,
+      "num": 202852,
+      "word": "繁花配角",
+      "onboard_time": 1704789330,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 202830,
@@ -3907,6 +3971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196524,
+      "num": 196524,
+      "word": "2023年度影响力电竞选手",
+      "onboard_time": 1704791370,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196496,
       "num": 196496,
       "word": "山东高考听力",
@@ -4033,6 +4105,14 @@
       "onboard_time": 1704557729,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192691,
+      "num": 192691,
+      "word": "胡先煦王安宇好像陪女友逛街的男朋友",
+      "onboard_time": 1704789330,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 192144,
@@ -4531,6 +4611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173249,
+      "num": 173249,
+      "word": "WTT男单签表",
+      "onboard_time": 1704790173,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173107,
       "num": 173107,
       "word": "长春也开始陌生了",
@@ -4577,14 +4665,6 @@
       "onboard_time": 1704671546,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171232,
-      "num": 171232,
-      "word": "男子在日军731部队遗址前直播带货",
-      "onboard_time": 1704788974,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170769,
@@ -4963,6 +5043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156856,
+      "num": 156856,
+      "word": "范志毅谈打阿宝耳光的戏",
+      "onboard_time": 1704790414,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156716,
       "num": 156716,
       "word": "霍思燕育儿观",
@@ -5033,6 +5121,14 @@
       "onboard_time": 1704590849,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 155062,
+      "num": 155062,
+      "word": "沉珂近况",
+      "onboard_time": 1704791551,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 155020,
@@ -5153,6 +5249,14 @@
       "onboard_time": 1704611129,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152001,
+      "num": 152001,
+      "word": "封神美术指导张成去世",
+      "onboard_time": 1704789330,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 151995,
@@ -5401,6 +5505,14 @@
       "onboard_time": 1704533255,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143874,
+      "num": 143874,
+      "word": "苏醒先别流汗林俊杰先流",
+      "onboard_time": 1704791190,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 143046,
@@ -5875,14 +5987,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 128531,
-      "num": 128531,
-      "word": "繁花配角",
-      "onboard_time": 1704789330,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128433,
       "num": 128433,
       "word": "萨摩耶把小毛巾藏起来",
@@ -5929,6 +6033,14 @@
       "onboard_time": 1704610888,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127242,
+      "num": 127242,
+      "word": "刘宇饭绘 小花神",
+      "onboard_time": 1704791611,
+      "rank": 48,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 126841,
@@ -6131,14 +6243,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 122899,
-      "num": 122899,
-      "word": "胡先煦王安宇好像陪女友逛街的男朋友",
-      "onboard_time": 1704789330,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122702,
       "num": 122702,
       "word": "为什么你比同龄人显老",
@@ -6185,14 +6289,6 @@
       "onboard_time": 1704593428,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121495,
-      "num": 121495,
-      "word": "封神美术指导张成去世",
-      "onboard_time": 1704789330,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 121321,
@@ -7377,6 +7473,14 @@
       "onboard_time": 1704787230,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 47829,
+      "num": 924170,
+      "word": "向禁毒战线上无名的你们致敬",
+      "onboard_time": 1704789932,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45293,
