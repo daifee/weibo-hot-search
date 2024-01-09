@@ -1,6 +1,6 @@
 {
   "startTime": 1704730994242,
-  "endTime": 1704774106357,
+  "endTime": 1704774935082,
   "band_list": [
     {
       "raw_hot": 2674649,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 825066,
+      "num": 469831,
+      "word": "母女旅游顺道买了辆保时捷",
+      "onboard_time": 1704773611,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807736,
       "num": 807736,
       "word": "乙流",
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 736449,
+      "num": 736449,
+      "word": "尔滨把冻梨做出花来了",
+      "onboard_time": 1704772055,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 728738,
       "num": 728738,
       "word": "张雪峰公司成立职业培训学校",
@@ -113,14 +129,6 @@
       "onboard_time": 1704757528,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 696279,
-      "num": 696279,
-      "word": "尔滨把冻梨做出花来了",
-      "onboard_time": 1704772055,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 673940,
@@ -153,6 +161,14 @@
       "onboard_time": 1704727591,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 589927,
+      "num": 589927,
+      "word": "博主起诉张雪峰要求道歉并赔1元",
+      "onboard_time": 1704773795,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 586172,
@@ -203,6 +219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 502290,
+      "num": 297480,
+      "word": "龙年出生的孩子会更优秀吗",
+      "onboard_time": 1704772473,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501635,
       "num": 501635,
       "word": "莫兰特赛季报销",
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481525,
+      "num": 461652,
+      "word": "和平饭店繁花套房",
+      "onboard_time": 1704773372,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 474484,
       "num": 474484,
       "word": "卢美琳是嫁给黄河路的女人",
@@ -265,14 +297,6 @@
       "onboard_time": 1704759993,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 453786,
-      "num": 289863,
-      "word": "龙年出生的孩子会更优秀吗",
-      "onboard_time": 1704772473,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 453659,
@@ -299,8 +323,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 431505,
-      "num": 431505,
+      "raw_hot": 449645,
+      "num": 449645,
       "word": "花了不到150块带奶奶玩了一天",
       "onboard_time": 1704769110,
       "rank": 20,
@@ -331,12 +355,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 382225,
-      "num": 382225,
+      "raw_hot": 402574,
+      "num": 402574,
       "word": "1天1杯奶茶会得糖尿病吗",
       "onboard_time": 1704765151,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 393452,
+      "num": 393452,
+      "word": "2024实在不行你换2025来吧",
+      "onboard_time": 1704773671,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 374251,
@@ -395,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303916,
-      "num": 303916,
-      "word": "母女旅游顺道买了辆保时捷",
-      "onboard_time": 1704773611,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284963,
       "num": 284963,
       "word": "当高铁座位旁是个大学生时",
@@ -411,12 +435,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 279961,
-      "num": 279961,
-      "word": "和平饭店繁花套房",
-      "onboard_time": 1704773372,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 279414,
+      "num": 279414,
+      "word": "权顺荣 下辈子作为灵魂相见吧",
+      "onboard_time": 1704772593,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 278726,
@@ -443,20 +467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263618,
-      "num": 263618,
-      "word": "权顺荣 下辈子作为灵魂相见吧",
-      "onboard_time": 1704772593,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262910,
       "num": 262910,
       "word": "6名干部违规聚餐狂饮7瓶白酒致1死",
       "onboard_time": 1704720695,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260035,
+      "num": 260035,
+      "word": "汇丰称今年A股将涨至3400点",
+      "onboard_time": 1704774094,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 259941,
@@ -491,8 +515,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247966,
-      "num": 247966,
+      "raw_hot": 249158,
+      "num": 249158,
       "word": "金智秀韩剧流感路透",
       "onboard_time": 1704771752,
       "rank": 25,
@@ -595,14 +619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218012,
-      "num": 218012,
-      "word": "汇丰称今年A股将涨至3400点",
-      "onboard_time": 1704774094,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 217811,
       "num": 217811,
       "word": "女高管开除员工双方已达成补偿协议",
@@ -619,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214502,
-      "num": 214502,
-      "word": "2024实在不行你换2025来吧",
-      "onboard_time": 1704773671,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 207340,
       "num": 207340,
       "word": "马斯克回应特斯拉美国市场份额超大众",
@@ -635,12 +643,12 @@
       "category": "汽车,财经"
     },
     {
-      "raw_hot": 204808,
-      "num": 204808,
-      "word": "博主起诉张雪峰要求道歉并赔1元",
-      "onboard_time": 1704773795,
+      "raw_hot": 205249,
+      "num": 205249,
+      "word": "边伯贤粉丝见面会",
+      "onboard_time": 1704774272,
       "rank": 31,
-      "category": "社会新闻"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204510,
@@ -667,6 +675,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198565,
+      "num": 198565,
+      "word": "钉钉上线敲一敲功能",
+      "onboard_time": 1704773910,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 198417,
       "num": 198417,
       "word": "哈尔滨小猪皮冻",
@@ -683,11 +699,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194210,
+      "num": 194210,
+      "word": "历年微博之夜名场面",
+      "onboard_time": 1704771930,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193236,
       "num": 215340,
       "word": "男孩刷优待证乘车被质疑实情令人心酸",
       "onboard_time": 1704771212,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192144,
+      "num": 192144,
+      "word": "龙年纪念币",
+      "onboard_time": 1704771632,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -699,28 +731,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189817,
-      "num": 189817,
-      "word": "专家建议羽绒服要手洗",
-      "onboard_time": 1704721834,
-      "rank": 21,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 189395,
-      "num": 189395,
+      "raw_hot": 189920,
+      "num": 212525,
       "word": "熊猫都忍不住吸熊猫了",
       "onboard_time": 1704768752,
       "rank": 31,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187899,
-      "num": 187899,
-      "word": "龙年纪念币",
-      "onboard_time": 1704771632,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 189817,
+      "num": 189817,
+      "word": "专家建议羽绒服要手洗",
+      "onboard_time": 1704721834,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 187763,
@@ -747,28 +771,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 183486,
-      "num": 183486,
-      "word": "钉钉上线敲一敲功能",
-      "onboard_time": 1704773910,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 182828,
       "num": 182828,
       "word": "格林向库里道歉",
       "onboard_time": 1704771991,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181075,
-      "num": 181075,
-      "word": "历年微博之夜名场面",
-      "onboard_time": 1704771930,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 181054,
@@ -851,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158013,
+      "num": 158013,
+      "word": "霸总文学为什么不灵了",
+      "onboard_time": 1704774453,
+      "rank": 40,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 156010,
       "num": 156010,
       "word": "你不是销冠谁是销冠",
@@ -873,6 +889,14 @@
       "onboard_time": 1704772354,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145816,
+      "num": 145816,
+      "word": "985到底有什么用",
+      "onboard_time": 1704774697,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 145754,
@@ -929,6 +953,14 @@
       "onboard_time": 1704718651,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135860,
+      "num": 135860,
+      "word": "复旦情侣猫咪恋爱被围观",
+      "onboard_time": 1704774697,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 135680,
@@ -1052,7 +1084,7 @@
     },
     {
       "raw_hot": 115891,
-      "num": 1192603,
+      "num": 1376582,
       "word": "2024年春运民航客运量将达8000万人次",
       "onboard_time": 1704771452,
       "rank": 2,
