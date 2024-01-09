@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704825248638,
+  "endTime": 1704827681032,
   "band_list": [
     {
       "raw_hot": 2401484,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49204,
+      "num": 49204,
+      "word": "赛琳娜霉霉没有八卦甜茶金小妹",
+      "onboard_time": 1704825673,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33246,
       "num": 43915,
       "word": "翻书声 吵到我良心了",
@@ -465,6 +473,14 @@
       "onboard_time": 1704823338,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16659,
+      "num": 16659,
+      "word": "李羲承漫画照进现实",
+      "onboard_time": 1704825256,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 15670,

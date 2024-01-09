@@ -1,0 +1,410 @@
+{
+  "runTime": 1704827681032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 239636,
+        "num": 239636,
+        "word": "李李出家",
+        "onboard_time": 1704802470,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157888,
+        "num": 157888,
+        "word": "李铁行贿300万当上国足主教练",
+        "onboard_time": 1704804513,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 35314,
+        "num": 126465,
+        "word": "反腐大片持续发力纵深推进第四集",
+        "onboard_time": 1704802351,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117791,
+        "num": 117791,
+        "word": "男子打不着火被网友提醒房间缺氧",
+        "onboard_time": 1704816569,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92806,
+        "num": 92806,
+        "word": "繁花大结局",
+        "onboard_time": 1704797792,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90516,
+        "num": 90516,
+        "word": "早上宋慧乔 晚上宋小宝",
+        "onboard_time": 1704803190,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80253,
+        "num": 80253,
+        "word": "在职1万退休后只能拿4000",
+        "onboard_time": 1704801332,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77330,
+        "num": 77330,
+        "word": "马思纯 两年终于拍戏了",
+        "onboard_time": 1704802229,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76010,
+        "num": 76010,
+        "word": "董宇辉为哈尔滨爆火开心",
+        "onboard_time": 1704816988,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 71603,
+        "num": 71603,
+        "word": "范志毅说和胡歌彻夜聊球",
+        "onboard_time": 1704811895,
+        "rank": 9,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 70218,
+        "num": 70218,
+        "word": "蛋糕58元 地区差别",
+        "onboard_time": 1704796770,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67440,
+        "num": 67440,
+        "word": "川沙阿宝",
+        "onboard_time": 1704806254,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60271,
+        "num": 60271,
+        "word": "金莎回应被说女油王",
+        "onboard_time": 1704818423,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57573,
+        "num": 57573,
+        "word": "央视春晚语言类节目审查",
+        "onboard_time": 1704814651,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51749,
+        "num": 51749,
+        "word": "以为李铁出家了",
+        "onboard_time": 1704815129,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49204,
+        "num": 49204,
+        "word": "赛琳娜霉霉没有八卦甜茶金小妹",
+        "onboard_time": 1704825673,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48535,
+        "num": 48535,
+        "word": "进去的人比进去的球还多",
+        "onboard_time": 1704810275,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47871,
+        "num": 47871,
+        "word": "董宇辉新号首播带货超1亿元",
+        "onboard_time": 1704810699,
+        "rank": 17,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 47350,
+        "num": 47350,
+        "word": "宝总 玲子",
+        "onboard_time": 1704812434,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43970,
+        "num": 43970,
+        "word": "李铁两次带队进中超背后都是假球",
+        "onboard_time": 1704804213,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 45171,
+        "num": 43331,
+        "word": "请和我的老公结婚",
+        "onboard_time": 1704811417,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41316,
+        "num": 41316,
+        "word": "繁花每个人都有结局",
+        "onboard_time": 1704814111,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32462,
+        "num": 32462,
+        "word": "看 你的教资合格证",
+        "onboard_time": 1704805771,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30262,
+        "num": 30262,
+        "word": "有效化妆与无效化妆",
+        "onboard_time": 1704813695,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 27742,
+        "num": 27742,
+        "word": "专家建议尽快调整退休年龄",
+        "onboard_time": 1704782670,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41055,
+        "num": 27495,
+        "word": "A先生 胡歌的脸",
+        "onboard_time": 1704803432,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37285,
+        "num": 26558,
+        "word": "王源说暂停是为了重新出发",
+        "onboard_time": 1704803613,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28707,
+        "num": 26243,
+        "word": "田曦薇雪中撑伞",
+        "onboard_time": 1704808233,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24749,
+        "num": 24749,
+        "word": "车厘子是大号樱桃吗",
+        "onboard_time": 1704808713,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22103,
+        "num": 22103,
+        "word": "翻书声 吵到我良心了",
+        "onboard_time": 1704821179,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23956,
+        "num": 21978,
+        "word": "贾乃亮晒甜馨烧玻璃",
+        "onboard_time": 1704792272,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20736,
+        "num": 20736,
+        "word": "怎么区分喜欢和爱",
+        "onboard_time": 1704810760,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20555,
+        "num": 20555,
+        "word": "球员收600万输球结果是凭实力输的",
+        "onboard_time": 1704805293,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20064,
+        "num": 20064,
+        "word": "央视播出李铁案细节",
+        "onboard_time": 1704803732,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 19936,
+        "num": 19936,
+        "word": "成毅竹林舞剑剧照",
+        "onboard_time": 1704806735,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19213,
+        "num": 19213,
+        "word": "董宇辉回应网传收入五个多亿",
+        "onboard_time": 1704811536,
+        "rank": 35,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 19045,
+        "num": 19045,
+        "word": "终于关掉烦人的自动更新了",
+        "onboard_time": 1704814232,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18457,
+        "num": 18457,
+        "word": "汤唯称不可能跟丈夫离婚",
+        "onboard_time": 1704783810,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18316,
+        "num": 18316,
+        "word": "热巴拿火山丝当祛痘针",
+        "onboard_time": 1704810459,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18134,
+        "num": 18134,
+        "word": "白鹿睡衣素颜自拍",
+        "onboard_time": 1704814770,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17764,
+        "num": 17764,
+        "word": "2023微博最受欢迎coser",
+        "onboard_time": 1704819683,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 17229,
+        "num": 17229,
+        "word": "足囚",
+        "onboard_time": 1704813215,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17122,
+        "num": 17122,
+        "word": "微博之夜 豪门姐弟大赏",
+        "onboard_time": 1704787052,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17027,
+        "num": 17027,
+        "word": "哈尔滨打工的白狐狸都累坏了",
+        "onboard_time": 1704823338,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21856,
+        "num": 16887,
+        "word": "繁花收官特别活动",
+        "onboard_time": 1704789091,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16659,
+        "num": 16659,
+        "word": "李羲承漫画照进现实",
+        "onboard_time": 1704825256,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 16180,
+        "num": 16652,
+        "word": "王霏霏晒JYP合照",
+        "onboard_time": 1704817645,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16117,
+        "num": 16651,
+        "word": "一些J人的震惊之处",
+        "onboard_time": 1704813156,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16001,
+        "num": 16638,
+        "word": "于正曾坚决反对张檬整容",
+        "onboard_time": 1704796951,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15730,
+        "num": 16636,
+        "word": "魔卡少女樱 小樱绝美手办",
+        "onboard_time": 1704812496,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进党的自我革命#"
+    }
+  }
+}
