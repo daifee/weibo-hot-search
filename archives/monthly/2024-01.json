@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704810931524,
+  "endTime": 1704813537311,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1329,6 +1329,14 @@
       "onboard_time": 1704032475,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1217437,
+      "num": 1217437,
+      "word": "从CCTV5到CCTV1",
+      "onboard_time": 1704810819,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1217319,
@@ -3739,6 +3747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 698551,
+      "num": 698551,
+      "word": "田曦薇雪中撑伞",
+      "onboard_time": 1704808233,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 698042,
       "num": 687354,
       "word": "11个王俊凯",
@@ -4275,14 +4291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 642097,
-      "num": 462117,
-      "word": "田曦薇雪中撑伞",
-      "onboard_time": 1704808233,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 641354,
       "num": 641354,
       "word": "王俊凯将出席2024巴黎时装周",
@@ -4587,6 +4595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 609777,
+      "num": 605202,
+      "word": "为什么李铁的铁刘海还在",
+      "onboard_time": 1704812496,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 609071,
       "num": 609071,
       "word": "肖程皓发不当言论暂停其主持人工作",
@@ -4633,6 +4649,14 @@
       "onboard_time": 1704604591,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605574,
+      "num": 605574,
+      "word": "董宇辉新号首播带货超1亿元",
+      "onboard_time": 1704810699,
+      "rank": 30,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 605079,
@@ -4737,6 +4761,14 @@
       "onboard_time": 1704704249,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 593553,
+      "num": 593553,
+      "word": "范志毅说和胡歌彻夜聊球",
+      "onboard_time": 1704811895,
+      "rank": 11,
+      "category": "剧集,体育"
     },
     {
       "raw_hot": 592606,
@@ -5089,6 +5121,14 @@
       "onboard_time": 1704717510,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558291,
+      "num": 558291,
+      "word": "宝总 玲子",
+      "onboard_time": 1704812434,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 557985,
@@ -6979,6 +7019,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 437343,
+      "num": 437343,
+      "word": "李铁案和繁花收视对比",
+      "onboard_time": 1704812858,
+      "rank": 17,
+      "category": "体育,剧集"
+    },
+    {
       "raw_hot": 437180,
       "num": 256479,
       "word": "车厘子价格遭腰斩",
@@ -7025,6 +7073,14 @@
       "onboard_time": 1704042462,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 432448,
+      "num": 432448,
+      "word": "请和我的老公结婚",
+      "onboard_time": 1704811417,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 432218,
@@ -8409,6 +8465,14 @@
       "onboard_time": 1704189030,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353002,
+      "num": 353002,
+      "word": "董宇辉回应网传收入五个多亿",
+      "onboard_time": 1704811536,
+      "rank": 21,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 352942,
@@ -10139,6 +10203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282832,
+      "num": 282832,
+      "word": "刘奕 铁子我肯定支持你",
+      "onboard_time": 1704811178,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282630,
       "num": 282630,
       "word": "繁花配角",
@@ -10201,14 +10273,6 @@
       "onboard_time": 1704618152,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 281021,
-      "num": 217382,
-      "word": "董宇辉新号首播带货超1亿元",
-      "onboard_time": 1704810699,
-      "rank": 30,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 279938,
@@ -11523,6 +11587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242445,
+      "num": 242445,
+      "word": "魔卡少女樱 小樱绝美手办",
+      "onboard_time": 1704812496,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 242432,
       "num": 242432,
       "word": "56岁奶奶演13岁少年有多灵动",
@@ -11939,6 +12011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232424,
+      "num": 232424,
+      "word": "自测脊柱侧弯的方法",
+      "onboard_time": 1704812916,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 232054,
       "num": 232054,
       "word": "甘肃敦煌的旅游现在竟如此之冷淡",
@@ -12009,6 +12089,14 @@
       "onboard_time": 1704281074,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230787,
+      "num": 230787,
+      "word": "热巴拿火山丝当祛痘针",
+      "onboard_time": 1704810459,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 230657,
@@ -12843,6 +12931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215844,
+      "num": 215844,
+      "word": "让领导知道你干了很多活的秘诀",
+      "onboard_time": 1704810337,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215702,
       "num": 215702,
       "word": "游本昌爷叔 生意场上的老法师",
@@ -13211,14 +13307,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 208602,
-      "num": 208602,
-      "word": "热巴拿火山丝当祛痘针",
-      "onboard_time": 1704810459,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208501,
       "num": 208501,
       "word": "总台大湾区新年音乐会",
@@ -13377,6 +13465,14 @@
       "onboard_time": 1704598588,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206754,
+      "num": 206754,
+      "word": "铁窗泪442",
+      "onboard_time": 1704807997,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 206714,
@@ -13715,6 +13811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202417,
+      "num": 202417,
+      "word": "足囚",
+      "onboard_time": 1704813215,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202407,
       "num": 202407,
       "word": "kms线下签售",
@@ -13841,6 +13945,14 @@
       "onboard_time": 1704425373,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201178,
+      "num": 201178,
+      "word": "怎么区分喜欢和爱",
+      "onboard_time": 1704810760,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 201144,
@@ -14827,14 +14939,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 191166,
-      "num": 191166,
-      "word": "从CCTV5到CCTV1",
-      "onboard_time": 1704810819,
-      "rank": 39,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 191145,
       "num": 191145,
       "word": "农业大摸底",
@@ -15137,14 +15241,6 @@
       "onboard_time": 1704773493,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 187745,
-      "num": 197700,
-      "word": "让领导知道你干了很多活的秘诀",
-      "onboard_time": 1704810337,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 187341,
@@ -16979,14 +17075,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 166551,
-      "num": 166551,
-      "word": "怎么区分喜欢和爱",
-      "onboard_time": 1704810760,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 166550,
       "num": 166550,
       "word": "东北虎接客南方小土豆擦玻璃互动",
@@ -17315,6 +17403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163505,
+      "num": 163505,
+      "word": "一些J人的震惊之处",
+      "onboard_time": 1704813156,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163440,
       "num": 163440,
       "word": "小狗每次吃饭都要找饭搭子",
@@ -17417,14 +17513,6 @@
       "onboard_time": 1704448233,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162311,
-      "num": 162311,
-      "word": "铁窗泪442",
-      "onboard_time": 1704807997,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 162068,

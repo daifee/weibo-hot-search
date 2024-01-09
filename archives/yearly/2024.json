@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704810931524,
+  "endTime": 1704813537311,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1331,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1217437,
+      "num": 1217437,
+      "word": "从CCTV5到CCTV1",
+      "onboard_time": 1704810819,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1217319,
       "num": 1217319,
       "word": "张雪峰解释公司为何不招应届生",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704104739,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 904477,
-      "num": 904477,
-      "word": "沪上阿姨 魔道祖师",
-      "onboard_time": 1704338371,
-      "rank": 8,
-      "category": "美食,动漫"
     }
   ],
   "hotgov_list": [
