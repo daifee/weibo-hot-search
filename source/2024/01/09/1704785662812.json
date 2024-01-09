@@ -1,0 +1,410 @@
+{
+  "runTime": 1704785662812,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2132192,
+        "num": 2132192,
+        "word": "专家建议尽快调整退休年龄",
+        "onboard_time": 1704782670,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1246803,
+        "num": 1246803,
+        "word": "汤唯称不可能跟丈夫离婚",
+        "onboard_time": 1704783810,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50131,
+        "num": 1064091,
+        "word": "2024年春运民航客运量将达8000万人次",
+        "onboard_time": 1704771452,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932039,
+        "num": 932039,
+        "word": "长沙致54死自建房坍塌事故本有机会避免",
+        "onboard_time": 1704779193,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826024,
+        "num": 826024,
+        "word": "专家建议发放1万亿元消费券",
+        "onboard_time": 1704783512,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 810749,
+        "num": 810749,
+        "word": "于正再次为张檬写长文",
+        "onboard_time": 1704777811,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686358,
+        "num": 686358,
+        "word": "唐嫣拍繁花爸爸每天接下班",
+        "onboard_time": 1704782072,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 623727,
+        "num": 623727,
+        "word": "坠亡的20岁俄籍超模曾去过萝莉岛",
+        "onboard_time": 1704775174,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582336,
+        "num": 582336,
+        "word": "哈工大你玩真的啊",
+        "onboard_time": 1704779733,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543909,
+        "num": 543909,
+        "word": "发朋友圈被误认为出国的旅游地",
+        "onboard_time": 1704769110,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 434460,
+        "num": 434460,
+        "word": "网易云改版",
+        "onboard_time": 1704783810,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 421490,
+        "num": 421490,
+        "word": "秦岚亲了迪丽热巴",
+        "onboard_time": 1704780151,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387965,
+        "num": 387965,
+        "word": "博主称养孩子难的时代已经过去了",
+        "onboard_time": 1704782791,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373006,
+        "num": 373006,
+        "word": "起诉张雪峰的文科博主发声",
+        "onboard_time": 1704782072,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 249516,
+        "num": 249516,
+        "word": "哈尔滨 烫碗",
+        "onboard_time": 1704777393,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 246565,
+        "num": 246565,
+        "word": "37岁孙子粘着100岁奶奶聊天睡觉",
+        "onboard_time": 1704784410,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229842,
+        "num": 229842,
+        "word": "赵昭仪和胡先煦 刷到哪对磕哪对",
+        "onboard_time": 1704779311,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225732,
+        "num": 225732,
+        "word": "两个i人生出一个超级e人",
+        "onboard_time": 1704783512,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220913,
+        "num": 220913,
+        "word": "微博之夜新一轮官宣",
+        "onboard_time": 1704775295,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220122,
+        "num": 220122,
+        "word": "2024实在不行你换2025来吧",
+        "onboard_time": 1704773671,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 482860,
+        "num": 219131,
+        "word": "19岁女生抽脂后第3天死亡",
+        "onboard_time": 1704781711,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323238,
+        "num": 216099,
+        "word": "杨超越韩国与素人合影",
+        "onboard_time": 1704783090,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270498,
+        "num": 214934,
+        "word": "我弟官宣忘记屏蔽我表妹",
+        "onboard_time": 1704779131,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223939,
+        "num": 213586,
+        "word": "交往时一半年薪用来吃喝男生分手",
+        "onboard_time": 1704777630,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220902,
+        "num": 210959,
+        "word": "辛芷蕾随地大小睡",
+        "onboard_time": 1704785252,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209805,
+        "num": 209805,
+        "word": "刘诗诗微博之夜收工想吃火锅",
+        "onboard_time": 1704780630,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207061,
+        "num": 207061,
+        "word": "尔滨把冻梨做出花来了",
+        "onboard_time": 1704772055,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 201929,
+        "num": 201929,
+        "word": "只要坚持15分钟就能启动起来",
+        "onboard_time": 1704783391,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189060,
+        "num": 189060,
+        "word": "鞠婧祎奶栗妆",
+        "onboard_time": 1704784410,
+        "rank": 28,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 183332,
+        "num": 183332,
+        "word": "海南货车撞人事故致1死7伤",
+        "onboard_time": 1704784651,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173523,
+        "num": 173523,
+        "word": "龙年出生的孩子会更优秀吗",
+        "onboard_time": 1704772473,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172243,
+        "num": 172243,
+        "word": "宋茜陈星旭 东北的翻译官",
+        "onboard_time": 1704784651,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169655,
+        "num": 169655,
+        "word": "给尔滨回礼时才知道川川有多陌生",
+        "onboard_time": 1704782429,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167605,
+        "num": 167605,
+        "word": "广州猎德村每股分红380元",
+        "onboard_time": 1704784771,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161980,
+        "num": 161980,
+        "word": "我国成功发射爱因斯坦探针",
+        "onboard_time": 1704785495,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158382,
+        "num": 158382,
+        "word": "母女旅游顺道买了辆保时捷",
+        "onboard_time": 1704773611,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149301,
+        "num": 149301,
+        "word": "女子cosplay游戏角色进地铁站被拦",
+        "onboard_time": 1704782730,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139348,
+        "num": 139348,
+        "word": "朱丹周一围翻拍经典亲吻躲避照",
+        "onboard_time": 1704777811,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137178,
+        "num": 137178,
+        "word": "17人25秒救下一人",
+        "onboard_time": 1704778772,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 136849,
+        "num": 136849,
+        "word": "惠英红 南方小土豆堆雪人",
+        "onboard_time": 1704778234,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135838,
+        "num": 135838,
+        "word": "教授建议退休人员卖房去乡村养老",
+        "onboard_time": 1704775174,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132168,
+        "num": 132168,
+        "word": "妈妈的记忆锚点全是弟弟",
+        "onboard_time": 1704784952,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119367,
+        "num": 119367,
+        "word": "臣妾真的是白狐呀",
+        "onboard_time": 1704784711,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117117,
+        "num": 117117,
+        "word": "为什么全身面部的皮肤最差",
+        "onboard_time": 1704761913,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 116601,
+        "num": 116601,
+        "word": "内裤如何正确清洗",
+        "onboard_time": 1704785554,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 114401,
+        "num": 114401,
+        "word": "贝肯鲍尔是首位举起大力神杯的冠军队长",
+        "onboard_time": 1704785311,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113038,
+        "num": 113038,
+        "word": "勤梳头能防脱发吗",
+        "onboard_time": 1704783872,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 107958,
+        "num": 107958,
+        "word": "王家卫到底花了多少钱买歌",
+        "onboard_time": 1704758673,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105399,
+        "num": 105399,
+        "word": "历年微博之夜名场面",
+        "onboard_time": 1704771930,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102156,
+        "num": 102156,
+        "word": "和平饭店繁花套房",
+        "onboard_time": 1704773372,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐败绝对不能回头不能松懈不能慈悲#"
+    }
+  }
+}
