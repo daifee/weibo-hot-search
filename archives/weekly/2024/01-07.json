@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704834968533,
+  "endTime": 1704836037379,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -8827,6 +8827,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19485,
+      "num": 18593,
+      "word": "罗志祥说超爱怼网友",
+      "onboard_time": 1704832815,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18512,
+      "num": 18512,
+      "word": "我国每10名儿童中至少1人患湿疹",
+      "onboard_time": 1704830173,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 18188,
       "num": 25823,
       "word": "哈尔滨打工的白狐狸都累坏了",
@@ -8851,28 +8867,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 17267,
-      "num": 16679,
-      "word": "罗志祥说超爱怼网友",
-      "onboard_time": 1704832815,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 16659,
       "num": 16659,
       "word": "李羲承漫画照进现实",
       "onboard_time": 1704825256,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 16458,
-      "num": 16458,
-      "word": "我国每10名儿童中至少1人患湿疹",
-      "onboard_time": 1704830173,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16451,
@@ -8921,6 +8921,14 @@
       "onboard_time": 1704831015,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 9686,
+      "num": 13366,
+      "word": "调查称中国户均住房资产187万元",
+      "onboard_time": 1704835993,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 9436,

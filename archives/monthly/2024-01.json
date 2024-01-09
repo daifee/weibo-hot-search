@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704834968533,
+  "endTime": 1704836037379,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -24739,6 +24739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 19485,
+      "num": 18593,
+      "word": "罗志祥说超爱怼网友",
+      "onboard_time": 1704832815,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19298,
       "num": 21943,
       "word": "小土豆初体验铲雪被东北大爷直夸",
@@ -24769,6 +24777,14 @@
       "onboard_time": 1704355834,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18512,
+      "num": 18512,
+      "word": "我国每10名儿童中至少1人患湿疹",
+      "onboard_time": 1704830173,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 18397,
@@ -24811,14 +24827,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 17267,
-      "num": 16679,
-      "word": "罗志祥说超爱怼网友",
-      "onboard_time": 1704832815,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 16727,
       "num": 19042,
       "word": "美拉德小狗",
@@ -24849,14 +24857,6 @@
       "onboard_time": 1704220816,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 16458,
-      "num": 16458,
-      "word": "我国每10名儿童中至少1人患湿疹",
-      "onboard_time": 1704830173,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16451,
@@ -25049,6 +25049,14 @@
       "onboard_time": 1704313034,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 9686,
+      "num": 13366,
+      "word": "调查称中国户均住房资产187万元",
+      "onboard_time": 1704835993,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 9622,
