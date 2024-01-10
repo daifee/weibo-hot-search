@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704857667761,
+  "endTime": 1704860513241,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1449691,
+      "num": 1449691,
+      "word": "男孩捡到价值三万元钻戒后被父母扔掉",
+      "onboard_time": 1704856531,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1447276,
       "num": 1447276,
       "word": "停止乱吃气血就回来了",
@@ -249,6 +257,14 @@
       "onboard_time": 1704799469,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1368507,
+      "num": 1368507,
+      "word": "谁领到了中国第一张身份证",
+      "onboard_time": 1704858091,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1367178,
@@ -635,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 992938,
+      "num": 992938,
+      "word": "王家卫 唐嫣就是汪小姐",
+      "onboard_time": 1704858032,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 990683,
       "num": 990683,
       "word": "杨紫李现牵手同框路透",
@@ -835,6 +859,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 834984,
+      "num": 539381,
+      "word": "李铁收千万保送的4名球员是谁",
+      "onboard_time": 1704859957,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 827373,
       "num": 827373,
       "word": "2024实在不行你换2025来吧",
@@ -969,6 +1001,14 @@
       "onboard_time": 1704849630,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 798847,
+      "num": 798847,
+      "word": "李铁出圈以身说法 范志毅出圈演繁花",
+      "onboard_time": 1704857914,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 786864,
@@ -1580,7 +1620,7 @@
     },
     {
       "raw_hot": 605079,
-      "num": 1264161,
+      "num": 1372723,
       "word": "反腐大片持续发力纵深推进第四集",
       "onboard_time": 1704802351,
       "rank": 13,
@@ -2259,14 +2299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 489364,
-      "num": 489364,
-      "word": "男孩捡到价值三万元钻戒后被父母扔掉",
-      "onboard_time": 1704856531,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 483675,
       "num": 483675,
       "word": "等国考成绩",
@@ -2315,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472973,
+      "num": 472973,
+      "word": "没关系 先从写垃圾开始吧",
+      "onboard_time": 1704858512,
+      "rank": 13,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 472050,
       "num": 472050,
       "word": "央视春晚语言类节目审查",
@@ -2345,6 +2385,14 @@
       "onboard_time": 1704689557,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469219,
+      "num": 469219,
+      "word": "难怪国足输给越南",
+      "onboard_time": 1704858930,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 469206,
@@ -2659,6 +2707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 417483,
+      "num": 417483,
+      "word": "妈妈为救儿子4个月狂减20斤",
+      "onboard_time": 1704855989,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416298,
       "num": 339637,
       "word": "鹤岗官方回应丹顶鹤在哈尔滨发抖",
@@ -2793,14 +2849,6 @@
       "onboard_time": 1704615749,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 399748,
-      "num": 399748,
-      "word": "妈妈为救儿子4个月狂减20斤",
-      "onboard_time": 1704855989,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 398532,
@@ -3323,6 +3371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314467,
+      "num": 238922,
+      "word": "一对夫妇埋下身子让乘客拍富士山",
+      "onboard_time": 1704860493,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313906,
       "num": 313906,
       "word": "A先生李李恋情",
@@ -3449,6 +3505,14 @@
       "onboard_time": 1704690936,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302800,
+      "num": 302800,
+      "word": "offer5团综定档官宣",
+      "onboard_time": 1704857312,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 302570,
@@ -3835,14 +3899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262093,
-      "num": 262093,
-      "word": "offer5团综定档官宣",
-      "onboard_time": 1704857312,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261290,
       "num": 261290,
       "word": "刘宇宁喊你来丹东",
@@ -4107,12 +4163,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242793,
+      "num": 242793,
+      "word": "央视连播三部谭松韵主演剧",
+      "onboard_time": 1704860134,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241621,
       "num": 241621,
       "word": "为什么年轻人热衷于祈福了",
       "onboard_time": 1704602552,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 240946,
+      "num": 240946,
+      "word": "千与千寻 白龙吃醋",
+      "onboard_time": 1704859412,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 240539,
@@ -4153,6 +4225,22 @@
       "onboard_time": 1704681269,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 239291,
+      "num": 239291,
+      "word": "沈腾范丞丞演父子",
+      "onboard_time": 1704858154,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 238063,
+      "num": 238063,
+      "word": "威少杜兰特互喷内容曝光",
+      "onboard_time": 1704859894,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 236608,
@@ -4339,6 +4427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226690,
+      "num": 226690,
+      "word": "沈腾马丽为哈尔滨打call",
+      "onboard_time": 1704859712,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226477,
       "num": 226477,
       "word": "你可以叫我 滨",
@@ -4385,6 +4481,14 @@
       "onboard_time": 1704669321,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 224757,
+      "num": 224757,
+      "word": "父亲在医院像孩子一样站在原地",
+      "onboard_time": 1704858872,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224697,
@@ -4883,6 +4987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203224,
+      "num": 203224,
+      "word": "马伊琍说拍繁花的三年像憋着一口气",
+      "onboard_time": 1704856953,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203183,
       "num": 203183,
       "word": "广厦男篮战胜辽宁男篮",
@@ -5176,14 +5288,6 @@
       "word": "考古的风终于吹到了胡歌陈龙",
       "onboard_time": 1704637475,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 196298,
-      "num": 196298,
-      "word": "马伊琍说拍繁花的三年像憋着一口气",
-      "onboard_time": 1704856953,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -5665,6 +5769,14 @@
       "onboard_time": 1704714570,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182022,
+      "num": 182022,
+      "word": "珍惜今年的年三十",
+      "onboard_time": 1704860315,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 181976,
@@ -6593,6 +6705,14 @@
       "onboard_time": 1704585201,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156485,
+      "num": 156485,
+      "word": "我为什么要当警察",
+      "onboard_time": 1704859532,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156374,
@@ -9139,6 +9259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61143,
+      "num": 326720,
+      "word": "檀健次营业好认真",
+      "onboard_time": 1704857969,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60976,
       "num": 413173,
       "word": "问界M9上的黑科技盘点",
@@ -9241,6 +9369,14 @@
       "onboard_time": 1704620731,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51130,
+      "num": 331912,
+      "word": "极氪X如何拿捏高颜值装备控",
+      "onboard_time": 1704859114,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 50783,
