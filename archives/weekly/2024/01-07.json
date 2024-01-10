@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704900857059,
+  "endTime": 1704903836383,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -121,6 +121,14 @@
       "onboard_time": 1704769110,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1989959,
+      "num": 1989959,
+      "word": "25岁姑娘体检发现结节无症状确诊肺癌",
+      "onboard_time": 1704901291,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1863825,
@@ -3355,6 +3363,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 410523,
+      "num": 410523,
+      "word": "王心凌终于从台北唱到了东北",
+      "onboard_time": 1704897158,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 410175,
       "num": 410175,
       "word": "李楷灿病休",
@@ -4011,6 +4027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315585,
+      "num": 136895,
+      "word": "飞机上拒绝了想换座的情侣",
+      "onboard_time": 1704901830,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 315578,
       "num": 315578,
       "word": "贾乃亮甜馨评论互动",
@@ -4273,14 +4297,6 @@
       "onboard_time": 1704724714,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 293610,
-      "num": 293610,
-      "word": "王心凌终于从台北唱到了东北",
-      "onboard_time": 1704897158,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 292836,
@@ -5217,6 +5233,14 @@
       "onboard_time": 1704808055,
       "rank": 30,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 229101,
+      "num": 229101,
+      "word": "被萌兰33码小jiojio呼脸上了",
+      "onboard_time": 1704900333,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228634,
@@ -9091,6 +9115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 132411,
+      "num": 132411,
+      "word": "王家卫公司已注册百枚繁花相关商标",
+      "onboard_time": 1704903087,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132168,
       "num": 132168,
       "word": "妈妈的记忆锚点全是弟弟",
@@ -10460,7 +10492,7 @@
     },
     {
       "raw_hot": 101841,
-      "num": 101841,
+      "num": 111052,
       "word": "迪丽热巴模仿寒心",
       "onboard_time": 1704897632,
       "rank": 49,
@@ -10601,14 +10633,6 @@
       "onboard_time": 1704561681,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96257,
-      "num": 96257,
-      "word": "被萌兰33码小jiojio呼脸上了",
-      "onboard_time": 1704900333,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96048,
@@ -10971,6 +10995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61738,
+      "num": 111066,
+      "word": "章昊CCMA人气奖",
+      "onboard_time": 1704901291,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 61672,
       "num": 61672,
       "word": "十二星座一周运势",
@@ -11033,6 +11065,14 @@
       "onboard_time": 1704828913,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57729,
+      "num": 111052,
+      "word": "2023CCMA获奖名单",
+      "onboard_time": 1704901771,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 57585,
