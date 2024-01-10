@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704897307862,
+  "endTime": 1704899861713,
   "band_list": [
     {
       "raw_hot": 2896872,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1724405,
+      "num": 1724405,
+      "word": "晚婚已成为普遍现象",
+      "onboard_time": 1704895655,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1593200,
       "num": 514750,
       "word": "江苏一小区被曝发生凶杀案",
@@ -72,6 +80,14 @@
       "word": "花10万中2.2亿彩票事件调查进展",
       "onboard_time": 1704851129,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1458712,
+      "num": 1458712,
+      "word": "配货140多万没买到心仪爱马仕包",
+      "onboard_time": 1704895655,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 933837,
-      "num": 395486,
+      "num": 427283,
       "word": "辛芷蕾金色吊带",
       "onboard_time": 1704890192,
       "rank": 30,
@@ -241,14 +257,6 @@
       "onboard_time": 1704890731,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 911286,
-      "num": 911286,
-      "word": "晚婚已成为普遍现象",
-      "onboard_time": 1704895655,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 888284,
@@ -329,6 +337,14 @@
       "onboard_time": 1704883171,
       "rank": 8,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 775160,
+      "num": 430777,
+      "word": "校方回应女生作弊被抓反拍视频曝光",
+      "onboard_time": 1704896196,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 765617,
@@ -603,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551226,
+      "num": 551226,
+      "word": "程前发博致歉",
+      "onboard_time": 1704897034,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548194,
       "num": 548194,
       "word": "何猷君不知道奚梦瑶支付密码",
@@ -619,11 +643,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 538981,
-      "num": 387327,
-      "word": "配货140多万没买到心仪爱马仕包",
-      "onboard_time": 1704895655,
-      "rank": 30,
+      "raw_hot": 543497,
+      "num": 543497,
+      "word": "甘肃积石山县3.1级地震",
+      "onboard_time": 1704898712,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -673,6 +697,14 @@
       "onboard_time": 1704847356,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511498,
+      "num": 511498,
+      "word": "游本昌王菊合照",
+      "onboard_time": 1704896435,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 508980,
@@ -875,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 432058,
+      "num": 253382,
+      "word": "以前谈恋爱是要交换QQ密码的",
+      "onboard_time": 1704897395,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 431467,
       "num": 350818,
       "word": "金晨穿羽绒服走红毯",
@@ -937,14 +977,6 @@
       "onboard_time": 1704880113,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 387043,
-      "num": 362272,
-      "word": "游本昌王菊合照",
-      "onboard_time": 1704896435,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 384670,
@@ -1099,12 +1131,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 315479,
+      "num": 280028,
+      "word": "网约司机车上现女士内裤遭分手",
+      "onboard_time": 1704895055,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314196,
       "num": 314196,
       "word": "王星越抱着外甥女放烟花",
       "onboard_time": 1704862714,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313485,
+      "num": 277037,
+      "word": "马伊琍辛芷蕾黄觉内场同框",
+      "onboard_time": 1704896558,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 313365,
+      "num": 313365,
+      "word": "马龙王楚钦3比1法尔克卡尔森",
+      "onboard_time": 1704898533,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 307279,
@@ -1129,14 +1185,6 @@
       "onboard_time": 1704857312,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 300126,
-      "num": 280028,
-      "word": "网约司机车上现女士内裤遭分手",
-      "onboard_time": 1704895055,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296453,
@@ -1235,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255482,
+      "num": 255482,
+      "word": "王心凌终于从台北唱到了东北",
+      "onboard_time": 1704897158,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 252736,
       "num": 252736,
       "word": "阿宝替身晒胡歌的签名照",
@@ -1281,14 +1337,6 @@
       "onboard_time": 1704796770,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241929,
-      "num": 213777,
-      "word": "马伊琍辛芷蕾黄觉内场同框",
-      "onboard_time": 1704896558,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 241450,
@@ -1411,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223466,
-      "num": 223466,
-      "word": "王心凌终于从台北唱到了东北",
-      "onboard_time": 1704897158,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 223075,
       "num": 223075,
       "word": "微博之夜经典造型",
@@ -1481,14 +1521,6 @@
       "onboard_time": 1704892775,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 211243,
-      "num": 211243,
-      "word": "校方回应女生作弊被抓反拍视频曝光",
-      "onboard_time": 1704896196,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209125,
@@ -1651,8 +1683,8 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 194795,
-      "num": 194795,
+      "raw_hot": 195050,
+      "num": 195050,
       "word": "白鹿红衣梦回时宜",
       "onboard_time": 1704896614,
       "rank": 33,
@@ -1899,14 +1931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175695,
-      "num": 175695,
-      "word": "程前发博致歉",
-      "onboard_time": 1704897034,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175636,
       "num": 1467279,
       "word": "反腐大片持续发力纵深推进第四集",
@@ -1945,6 +1969,14 @@
       "onboard_time": 1704848790,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172189,
+      "num": 172189,
+      "word": "王安宇的手到底有多臭",
+      "onboard_time": 1704899316,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 171370,
@@ -2219,6 +2251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147122,
+      "num": 147122,
+      "word": "上影花5亿买基地支持繁花拍摄",
+      "onboard_time": 1704899254,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146802,
       "num": 146802,
       "word": "科目三原版原创朱开红",
@@ -2249,6 +2289,14 @@
       "onboard_time": 1704888749,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145290,
+      "num": 145290,
+      "word": "周深无奖问答猜歌",
+      "onboard_time": 1704898595,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 143961,
@@ -2483,12 +2531,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 129415,
+      "num": 129415,
+      "word": "章若楠怕水",
+      "onboard_time": 1704897756,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129068,
       "num": 129068,
       "word": "哈尔滨现冻梨雕花烧烤",
       "onboard_time": 1704869251,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 128570,
+      "num": 128570,
+      "word": "花花和弟弟贴贴好可爱",
+      "onboard_time": 1704899075,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127733,
@@ -2505,6 +2569,14 @@
       "onboard_time": 1704874293,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127646,
+      "num": 127646,
+      "word": "从今往后就是萌兰王的人了",
+      "onboard_time": 1704898356,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125679,
@@ -2619,6 +2691,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 105989,
+      "num": 105989,
+      "word": "外交部回应南非诉以色列种族灭绝",
+      "onboard_time": 1704899557,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 105939,
+      "num": 775089,
+      "word": "这或许是对110最走心的定义",
+      "onboard_time": 1704896854,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105169,
       "num": 105169,
       "word": "日经225指数突破34000点",
@@ -2649,6 +2737,14 @@
       "onboard_time": 1704814951,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 101841,
+      "num": 101841,
+      "word": "迪丽热巴模仿寒心",
+      "onboard_time": 1704897632,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 96715,
@@ -2897,14 +2993,6 @@
       "onboard_time": 1704830173,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 38359,
-      "num": 775089,
-      "word": "这或许是对110最走心的定义",
-      "onboard_time": 1704896854,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36007,

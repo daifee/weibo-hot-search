@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704897307862,
+  "endTime": 1704899861713,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1724405,
+      "num": 1724405,
+      "word": "晚婚已成为普遍现象",
+      "onboard_time": 1704895655,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1722960,
       "num": 1722960,
       "word": "爷爷 已读乱回",
@@ -281,6 +289,14 @@
       "onboard_time": 1704545671,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1458712,
+      "num": 1458712,
+      "word": "配货140多万没买到心仪爱马仕包",
+      "onboard_time": 1704895655,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1449691,
@@ -876,7 +892,7 @@
     },
     {
       "raw_hot": 933837,
-      "num": 395486,
+      "num": 427283,
       "word": "辛芷蕾金色吊带",
       "onboard_time": 1704890192,
       "rank": 30,
@@ -905,14 +921,6 @@
       "onboard_time": 1704890731,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 911286,
-      "num": 911286,
-      "word": "晚婚已成为普遍现象",
-      "onboard_time": 1704895655,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 902403,
@@ -1224,6 +1232,14 @@
       "word": "海南警方 可以不懂爱情但要学会文明",
       "onboard_time": 1704627091,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 775160,
+      "num": 430777,
+      "word": "校方回应女生作弊被抓反拍视频曝光",
+      "onboard_time": 1704896196,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2203,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551226,
+      "num": 551226,
+      "word": "程前发博致歉",
+      "onboard_time": 1704897034,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550516,
       "num": 550516,
       "word": "留美流浪博士发声",
@@ -2283,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543497,
+      "num": 543497,
+      "word": "甘肃积石山县3.1级地震",
+      "onboard_time": 1704898712,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542481,
       "num": 542481,
       "word": "mbti新题",
@@ -2297,14 +2329,6 @@
       "onboard_time": 1704687693,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 538981,
-      "num": 387327,
-      "word": "配货140多万没买到心仪爱马仕包",
-      "onboard_time": 1704895655,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 538716,
@@ -2481,6 +2505,14 @@
       "onboard_time": 1704847356,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511498,
+      "num": 511498,
+      "word": "游本昌王菊合照",
+      "onboard_time": 1704896435,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 510638,
@@ -3123,6 +3155,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 432058,
+      "num": 253382,
+      "word": "以前谈恋爱是要交换QQ密码的",
+      "onboard_time": 1704897395,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 431467,
       "num": 350818,
       "word": "金晨穿羽绒服走红毯",
@@ -3465,14 +3505,6 @@
       "onboard_time": 1704710313,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 387043,
-      "num": 362272,
-      "word": "游本昌王菊合照",
-      "onboard_time": 1704896435,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 385845,
@@ -3979,6 +4011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315479,
+      "num": 280028,
+      "word": "网约司机车上现女士内裤遭分手",
+      "onboard_time": 1704895055,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314196,
       "num": 314196,
       "word": "王星越抱着外甥女放烟花",
@@ -4001,6 +4041,22 @@
       "onboard_time": 1704778234,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313485,
+      "num": 277037,
+      "word": "马伊琍辛芷蕾黄觉内场同框",
+      "onboard_time": 1704896558,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 313365,
+      "num": 313365,
+      "word": "马龙王楚钦3比1法尔克卡尔森",
+      "onboard_time": 1704898533,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 313311,
@@ -4145,14 +4201,6 @@
       "onboard_time": 1704687877,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 300126,
-      "num": 280028,
-      "word": "网约司机车上现女士内裤遭分手",
-      "onboard_time": 1704895055,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299499,
@@ -4675,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255482,
+      "num": 255482,
+      "word": "王心凌终于从台北唱到了东北",
+      "onboard_time": 1704897158,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 254932,
       "num": 254932,
       "word": "张婧仪藏海传妆造",
@@ -4865,14 +4921,6 @@
       "onboard_time": 1704809432,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 241929,
-      "num": 213777,
-      "word": "马伊琍辛芷蕾黄觉内场同框",
-      "onboard_time": 1704896558,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 241621,
@@ -5307,14 +5355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 223466,
-      "num": 223466,
-      "word": "王心凌终于从台北唱到了东北",
-      "onboard_time": 1704897158,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 223080,
       "num": 223080,
       "word": "孟耿如回应黄子佼去世传闻",
@@ -5585,14 +5625,6 @@
       "onboard_time": 1704799111,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211243,
-      "num": 211243,
-      "word": "校方回应女生作弊被抓反拍视频曝光",
-      "onboard_time": 1704896196,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211201,
@@ -6299,20 +6331,20 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 195050,
+      "num": 195050,
+      "word": "白鹿红衣梦回时宜",
+      "onboard_time": 1704896614,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194839,
       "num": 194839,
       "word": "靠申论逆风翻盘",
       "onboard_time": 1704603693,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 194795,
-      "num": 194795,
-      "word": "白鹿红衣梦回时宜",
-      "onboard_time": 1704896614,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 194647,
@@ -7075,14 +7107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175695,
-      "num": 175695,
-      "word": "程前发博致歉",
-      "onboard_time": 1704897034,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175560,
       "num": 175560,
       "word": "接到王凯电话我耳朵比人先麻了",
@@ -7233,6 +7257,14 @@
       "onboard_time": 1704784651,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172189,
+      "num": 172189,
+      "word": "王安宇的手到底有多臭",
+      "onboard_time": 1704899316,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 172049,
@@ -8387,6 +8419,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 147122,
+      "num": 147122,
+      "word": "上影花5亿买基地支持繁花拍摄",
+      "onboard_time": 1704899254,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147076,
       "num": 147076,
       "word": "繁花爷叔离开宝总",
@@ -8489,6 +8529,14 @@
       "onboard_time": 1704601713,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 145290,
+      "num": 145290,
+      "word": "周深无奖问答猜歌",
+      "onboard_time": 1704898595,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 145245,
@@ -9219,6 +9267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129415,
+      "num": 129415,
+      "word": "章若楠怕水",
+      "onboard_time": 1704897756,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129342,
       "num": 129342,
       "word": "假军人收集部队情报与境外势力接头",
@@ -9259,6 +9315,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 128570,
+      "num": 128570,
+      "word": "花花和弟弟贴贴好可爱",
+      "onboard_time": 1704899075,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128560,
       "num": 128560,
       "word": "新疆真的是碳水天堂",
@@ -9297,6 +9361,14 @@
       "onboard_time": 1704874293,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127646,
+      "num": 127646,
+      "word": "从今往后就是萌兰王的人了",
+      "onboard_time": 1704898356,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127484,
@@ -10171,6 +10243,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 105989,
+      "num": 105989,
+      "word": "外交部回应南非诉以色列种族灭绝",
+      "onboard_time": 1704899557,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 105939,
+      "num": 775089,
+      "word": "这或许是对110最走心的定义",
+      "onboard_time": 1704896854,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105828,
       "num": 105828,
       "word": "NewJeans Ditto",
@@ -10361,6 +10449,14 @@
       "onboard_time": 1704706838,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101841,
+      "num": 101841,
+      "word": "迪丽热巴模仿寒心",
+      "onboard_time": 1704897632,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 101672,
@@ -11089,14 +11185,6 @@
       "onboard_time": 1704583880,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 38359,
-      "num": 775089,
-      "word": "这或许是对110最走心的定义",
-      "onboard_time": 1704896854,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36465,
