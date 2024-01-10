@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704856762553,
+  "endTime": 1704857667761,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -1059,6 +1059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 750313,
+      "num": 750313,
+      "word": "干我们这行上不告父母下不告妻儿",
+      "onboard_time": 1704854431,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 749921,
       "num": 749921,
       "word": "公安机关发现余华英其他拐卖犯罪事实",
@@ -1227,14 +1235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 714125,
-      "num": 714125,
-      "word": "干我们这行上不告父母下不告妻儿",
-      "onboard_time": 1704854431,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 711067,
       "num": 711067,
       "word": "爱泼斯坦生前掌握特朗普希拉里黑料",
@@ -1321,6 +1321,14 @@
       "onboard_time": 1704608849,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 684663,
+      "num": 684663,
+      "word": "王一博官宣街舞6总决赛",
+      "onboard_time": 1704856589,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 681504,
@@ -2251,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 489364,
+      "num": 489364,
+      "word": "男孩捡到价值三万元钻戒后被父母扔掉",
+      "onboard_time": 1704856531,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483675,
       "num": 483675,
       "word": "等国考成绩",
@@ -2779,6 +2795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 399748,
+      "num": 399748,
+      "word": "妈妈为救儿子4个月狂减20斤",
+      "onboard_time": 1704855989,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398532,
       "num": 398532,
       "word": "马立奥cos天天",
@@ -2921,6 +2945,14 @@
       "onboard_time": 1704805771,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 373878,
+      "num": 373878,
+      "word": "林俊杰黑粉发声明致歉",
+      "onboard_time": 1704856710,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 373394,
@@ -3371,6 +3403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 307279,
+      "num": 307279,
+      "word": "A先生 替身文学",
+      "onboard_time": 1704852753,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306545,
       "num": 306545,
       "word": "小熊猫小折耳根来尔滨了",
@@ -3441,14 +3481,6 @@
       "onboard_time": 1704810097,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 298753,
-      "num": 298753,
-      "word": "A先生 替身文学",
-      "onboard_time": 1704852753,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 298527,
@@ -3593,14 +3625,6 @@
       "onboard_time": 1704585983,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287851,
-      "num": 287851,
-      "word": "王一博官宣街舞6总决赛",
-      "onboard_time": 1704856589,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 286307,
@@ -3808,6 +3832,14 @@
       "word": "古巨基宋亚轩还原七年前合照",
       "onboard_time": 1704614488,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 262093,
+      "num": 262093,
+      "word": "offer5团综定档官宣",
+      "onboard_time": 1704857312,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -4203,14 +4235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233012,
-      "num": 233012,
-      "word": "林俊杰黑粉发声明致歉",
-      "onboard_time": 1704856710,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232854,
       "num": 232854,
       "word": "i人的拒绝",
@@ -4321,14 +4345,6 @@
       "onboard_time": 1704527733,
       "rank": 21,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 226264,
-      "num": 226264,
-      "word": "妈妈为救儿子4个月狂减20斤",
-      "onboard_time": 1704855989,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226126,
@@ -4497,6 +4513,14 @@
       "onboard_time": 1704756867,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218574,
+      "num": 218574,
+      "word": "芙拉代言人 王俊凯",
+      "onboard_time": 1704856171,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 218129,
@@ -4875,6 +4899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202984,
+      "num": 202984,
+      "word": "年三十为什么时有时无",
+      "onboard_time": 1704856652,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202856,
       "num": 202856,
       "word": "名侦探柯南 新兰小情侣",
@@ -5147,6 +5179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196298,
+      "num": 196298,
+      "word": "马伊琍说拍繁花的三年像憋着一口气",
+      "onboard_time": 1704856953,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196236,
       "num": 196236,
       "word": "我们的翻译官",
@@ -5257,6 +5297,14 @@
       "onboard_time": 1704771212,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192818,
+      "num": 192818,
+      "word": "微博之夜经典造型",
+      "onboard_time": 1704849990,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192694,
@@ -5651,6 +5699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 181055,
+      "num": 181055,
+      "word": "樊振东波尔约饭",
+      "onboard_time": 1704856352,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180827,
       "num": 180827,
       "word": "发烧有这几个症状一定要就医",
@@ -5763,14 +5819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176108,
-      "num": 176108,
-      "word": "芙拉代言人 王俊凯",
-      "onboard_time": 1704856171,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176063,
       "num": 176063,
       "word": "央视列足坛反腐被查阵容",
@@ -5849,14 +5897,6 @@
       "onboard_time": 1704645683,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174066,
-      "num": 174066,
-      "word": "樊振东波尔约饭",
-      "onboard_time": 1704856352,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 174016,
@@ -6243,14 +6283,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 163987,
-      "num": 163987,
-      "word": "微博之夜经典造型",
-      "onboard_time": 1704849990,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 163928,
       "num": 163928,
       "word": "上证报称A股增量资金在路上",
@@ -6321,6 +6353,14 @@
       "onboard_time": 1704726692,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161052,
+      "num": 161052,
+      "word": "斯波合同8年1亿2千万",
+      "onboard_time": 1704857129,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 160937,
@@ -6459,6 +6499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158351,
+      "num": 158351,
+      "word": "与辉同行",
+      "onboard_time": 1704857370,
+      "rank": 42,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 158298,
       "num": 158298,
       "word": "上证指数",
@@ -6505,6 +6553,14 @@
       "onboard_time": 1704540512,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157570,
+      "num": 157570,
+      "word": "电影三大队警察节致敬特辑",
+      "onboard_time": 1704857250,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 157160,
@@ -6827,6 +6883,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 150582,
+      "num": 150582,
+      "word": "吉林上新冻梨冻柿子冰淇淋",
+      "onboard_time": 1704856953,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 150208,
       "num": 154205,
       "word": "距离春节还有一个月",
@@ -7107,14 +7171,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 142145,
-      "num": 142145,
-      "word": "男孩捡到价值三万元钻戒后被父母扔掉",
-      "onboard_time": 1704856531,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141912,
       "num": 141912,
       "word": "一口青梅精引发的重大事故",
@@ -7227,20 +7283,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 137209,
+      "num": 337067,
+      "word": "乌尔善再续神话",
+      "onboard_time": 1704854729,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137207,
       "num": 137207,
       "word": "陈星旭说给章若楠的爱情无价",
       "onboard_time": 1704712052,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136851,
-      "num": 136851,
-      "word": "年三十为什么时有时无",
-      "onboard_time": 1704856652,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136846,
@@ -8193,14 +8249,6 @@
       "onboard_time": 1704712469,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 113910,
-      "num": 300362,
-      "word": "乌尔善再续神话",
-      "onboard_time": 1704854729,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 113036,

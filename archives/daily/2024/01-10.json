@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704856762553,
+  "endTime": 1704857667761,
   "band_list": [
     {
       "raw_hot": 2896872,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750313,
+      "num": 750313,
+      "word": "干我们这行上不告父母下不告妻儿",
+      "onboard_time": 1704854431,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747216,
       "num": 747216,
       "word": "冬天起不来是身体在保护你",
@@ -139,19 +147,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 714125,
-      "num": 714125,
-      "word": "干我们这行上不告父母下不告妻儿",
-      "onboard_time": 1704854431,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 704147,
       "num": 704147,
       "word": "早上宋慧乔 晚上宋小宝",
       "onboard_time": 1704803190,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 684663,
+      "num": 684663,
+      "word": "王一博官宣街舞6总决赛",
+      "onboard_time": 1704856589,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -243,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 489364,
+      "num": 489364,
+      "word": "男孩捡到价值三万元钻戒后被父母扔掉",
+      "onboard_time": 1704856531,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483159,
       "num": 317226,
       "word": "当我知道领导月薪七万后",
@@ -315,6 +331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 399748,
+      "num": 399748,
+      "word": "妈妈为救儿子4个月狂减20斤",
+      "onboard_time": 1704855989,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392616,
       "num": 392616,
       "word": "金莎回应被说女油王",
@@ -337,6 +361,14 @@
       "onboard_time": 1704851312,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 373878,
+      "num": 373878,
+      "word": "林俊杰黑粉发声明致歉",
+      "onboard_time": 1704856710,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 370071,
@@ -403,28 +435,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304697,
-      "num": 304697,
-      "word": "A股市值超过40%与房地产相关",
-      "onboard_time": 1704847832,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 298753,
-      "num": 298753,
+      "raw_hot": 307279,
+      "num": 307279,
       "word": "A先生 替身文学",
       "onboard_time": 1704852753,
       "rank": 30,
       "category": "剧集"
     },
     {
-      "raw_hot": 287851,
-      "num": 287851,
-      "word": "王一博官宣街舞6总决赛",
-      "onboard_time": 1704856589,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 304697,
+      "num": 304697,
+      "word": "A股市值超过40%与房地产相关",
+      "onboard_time": 1704847832,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 271041,
@@ -449,6 +473,14 @@
       "onboard_time": 1704814111,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262093,
+      "num": 262093,
+      "word": "offer5团综定档官宣",
+      "onboard_time": 1704857312,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 259389,
@@ -483,27 +515,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233012,
-      "num": 233012,
-      "word": "林俊杰黑粉发声明致歉",
-      "onboard_time": 1704856710,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229538,
       "num": 229538,
       "word": "东北小伙雕1.8米雪龙被当成吉祥物",
       "onboard_time": 1704850233,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226264,
-      "num": 226264,
-      "word": "妈妈为救儿子4个月狂减20斤",
-      "onboard_time": 1704855989,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -523,12 +539,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 218574,
+      "num": 218574,
+      "word": "芙拉代言人 王俊凯",
+      "onboard_time": 1704856171,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205213,
       "num": 205213,
       "word": "教资认定",
       "onboard_time": 1704855329,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202984,
+      "num": 202984,
+      "word": "年三十为什么时有时无",
+      "onboard_time": 1704856652,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201426,
@@ -555,12 +587,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196298,
+      "num": 196298,
+      "word": "马伊琍说拍繁花的三年像憋着一口气",
+      "onboard_time": 1704856953,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193173,
       "num": 193173,
       "word": "李铁两次带队进中超背后都是假球",
       "onboard_time": 1704804213,
       "rank": 19,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 192818,
+      "num": 192818,
+      "word": "微博之夜经典造型",
+      "onboard_time": 1704849990,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188969,
@@ -595,6 +643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 181055,
+      "num": 181055,
+      "word": "樊振东波尔约饭",
+      "onboard_time": 1704856352,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179635,
       "num": 179635,
       "word": "吃辣和长痘没什么联系",
@@ -611,28 +667,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176108,
-      "num": 176108,
-      "word": "芙拉代言人 王俊凯",
-      "onboard_time": 1704856171,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175636,
       "num": 1264161,
       "word": "反腐大片持续发力纵深推进第四集",
       "onboard_time": 1704802351,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174066,
-      "num": 174066,
-      "word": "樊振东波尔约饭",
-      "onboard_time": 1704856352,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 174016,
@@ -651,12 +691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163987,
-      "num": 163987,
-      "word": "微博之夜经典造型",
-      "onboard_time": 1704849990,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 161052,
+      "num": 161052,
+      "word": "斯波合同8年1亿2千万",
+      "onboard_time": 1704857129,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 159850,
@@ -691,6 +731,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 158351,
+      "num": 158351,
+      "word": "与辉同行",
+      "onboard_time": 1704857370,
+      "rank": 42,
+      "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 157570,
+      "num": 157570,
+      "word": "电影三大队警察节致敬特辑",
+      "onboard_time": 1704857250,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152868,
       "num": 152868,
       "word": "哈尔滨蔓越莓",
@@ -705,6 +761,14 @@
       "onboard_time": 1704854790,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150582,
+      "num": 150582,
+      "word": "吉林上新冻梨冻柿子冰淇淋",
+      "onboard_time": 1704856953,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 150208,
@@ -755,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142145,
-      "num": 142145,
-      "word": "男孩捡到价值三万元钻戒后被父母扔掉",
-      "onboard_time": 1704856531,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138518,
       "num": 138518,
       "word": "央视播出李铁案细节",
@@ -771,12 +827,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 136851,
-      "num": 136851,
-      "word": "年三十为什么时有时无",
-      "onboard_time": 1704856652,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 137209,
+      "num": 337067,
+      "word": "乌尔善再续神话",
+      "onboard_time": 1704854729,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 135641,
@@ -849,14 +905,6 @@
       "onboard_time": 1704812916,
       "rank": 33,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 113910,
-      "num": 300362,
-      "word": "乌尔善再续神话",
-      "onboard_time": 1704854729,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 113844,
