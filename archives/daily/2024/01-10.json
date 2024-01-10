@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704878276146,
+  "endTime": 1704879280469,
   "band_list": [
     {
       "raw_hot": 2896872,
@@ -17,6 +17,14 @@
       "onboard_time": 1704804513,
       "rank": 0,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 2324158,
+      "num": 2324158,
+      "word": "科兴新冠疫苗已停产",
+      "onboard_time": 1704877291,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1747066,
@@ -40,14 +48,6 @@
       "word": "谁领到了中国第一张身份证",
       "onboard_time": 1704858091,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1505669,
-      "num": 1505669,
-      "word": "科兴新冠疫苗已停产",
-      "onboard_time": 1704877291,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -107,6 +107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1165874,
+      "num": 903366,
+      "word": "年底裸辞赶上了招聘荒",
+      "onboard_time": 1704876152,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1140854,
       "num": 1140854,
       "word": "厄瓜多尔",
@@ -161,14 +169,6 @@
       "onboard_time": 1704869793,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 903366,
-      "num": 903366,
-      "word": "年底裸辞赶上了招聘荒",
-      "onboard_time": 1704876152,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 877823,
@@ -403,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 569709,
+      "num": 569709,
+      "word": "江苏警方通报2死凶杀案",
+      "onboard_time": 1704877230,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 555447,
       "num": 555447,
       "word": "迪丽热巴的冰岛穿搭",
@@ -523,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 481837,
+      "num": 481837,
+      "word": "第一次听到4岁女儿叫爸爸他哭了",
+      "onboard_time": 1704876032,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480019,
       "num": 480019,
       "word": "在职1万退休后只能拿4000",
@@ -611,19 +627,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416135,
-      "num": 416135,
-      "word": "第一次听到4岁女儿叫爸爸他哭了",
-      "onboard_time": 1704876032,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415072,
       "num": 415072,
       "word": "迪丽热巴抓不着羊就抓辛芷蕾",
       "onboard_time": 1704868530,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 409404,
+      "num": 409404,
+      "word": "王一博张艺兴同回街舞6",
+      "onboard_time": 1704878253,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -683,20 +699,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363054,
+      "num": 363054,
+      "word": "原来肠道不健康会影响情绪",
+      "onboard_time": 1704875552,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 362550,
       "num": 362550,
       "word": "寻子18年得知儿子已去世",
       "onboard_time": 1704860613,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361318,
-      "num": 361318,
-      "word": "原来肠道不健康会影响情绪",
-      "onboard_time": 1704875552,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 352038,
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 326539,
-      "num": 301800,
+      "num": 319163,
       "word": "终于懂为什么说有的皮肤手感好了",
       "onboard_time": 1704874111,
       "rank": 31,
@@ -761,6 +777,14 @@
       "onboard_time": 1704848249,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 319085,
+      "num": 319085,
+      "word": "男子为证明车有问题花20万再购同款车",
+      "onboard_time": 1704875072,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316373,
@@ -777,14 +801,6 @@
       "onboard_time": 1704862714,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311051,
-      "num": 311051,
-      "word": "江苏警方通报2死凶杀案",
-      "onboard_time": 1704877230,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307279,
@@ -833,14 +849,6 @@
       "onboard_time": 1704815129,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265752,
-      "num": 265752,
-      "word": "男子为证明车有问题花20万再购同款车",
-      "onboard_time": 1704875072,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264403,
@@ -955,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230545,
+      "num": 230545,
+      "word": "肚子容易长肉是为啥",
+      "onboard_time": 1704877771,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 229538,
       "num": 229538,
       "word": "东北小伙雕1.8米雪龙被当成吉祥物",
@@ -969,6 +985,14 @@
       "onboard_time": 1704867449,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225891,
+      "num": 225891,
+      "word": "肖战获微博网友喜爱人物",
+      "onboard_time": 1704877471,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224757,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1704856171,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215336,
-      "num": 215336,
-      "word": "肖战获微博网友喜爱人物",
-      "onboard_time": 1704877471,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208856,
@@ -1331,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174216,
+      "num": 160636,
+      "word": "被数字的中文写法震惊到的外国人",
+      "onboard_time": 1704877710,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174016,
       "num": 174016,
       "word": "玲子的玲是玲娜贝儿的玲",
@@ -1435,14 +1459,6 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 158174,
-      "num": 158174,
-      "word": "肚子容易长肉是为啥",
-      "onboard_time": 1704877771,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 157570,
       "num": 157570,
       "word": "电影三大队警察节致敬特辑",
@@ -1531,14 +1547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145735,
-      "num": 145735,
-      "word": "被数字的中文写法震惊到的外国人",
-      "onboard_time": 1704877710,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 143961,
       "num": 143961,
       "word": "中国人民警察节",
@@ -1579,6 +1587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137461,
+      "num": 137461,
+      "word": "冻梨冰箱贴上新了",
+      "onboard_time": 1704878731,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 137209,
       "num": 337067,
       "word": "乌尔善再续神话",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1704865952,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131475,
+      "num": 131475,
+      "word": "王凯回应作品和曝光量减少",
+      "onboard_time": 1704878013,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 130505,
@@ -1707,14 +1731,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 117548,
-      "num": 117548,
-      "word": "王凯回应作品和曝光量减少",
-      "onboard_time": 1704878013,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115721,
       "num": 115721,
       "word": "自测脊柱侧弯的方法",
@@ -1745,14 +1761,6 @@
       "onboard_time": 1704810760,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106495,
-      "num": 106495,
-      "word": "王一博张艺兴同回街舞6",
-      "onboard_time": 1704878253,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 105169,

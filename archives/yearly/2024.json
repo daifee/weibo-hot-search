@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704878276146,
+  "endTime": 1704879280469,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -265,6 +265,14 @@
       "onboard_time": 1704100598,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2324158,
+      "num": 2324158,
+      "word": "科兴新冠疫苗已停产",
+      "onboard_time": 1704877291,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2284324,
@@ -833,14 +841,6 @@
       "onboard_time": 1704078273,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1505669,
-      "num": 1505669,
-      "word": "科兴新冠疫苗已停产",
-      "onboard_time": 1704877291,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1503665,
@@ -1567,6 +1567,14 @@
       "num": 1167332,
       "word": "日本今日已连发3次地震",
       "onboard_time": 1704095795,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1165874,
+      "num": 903366,
+      "word": "年底裸辞赶上了招聘荒",
+      "onboard_time": 1704876152,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704459152,
       "rank": 19,
       "category": "美食"
-    },
-    {
-      "raw_hot": 949767,
-      "num": 812789,
-      "word": "王源破音",
-      "onboard_time": 1704030481,
-      "rank": 30,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
