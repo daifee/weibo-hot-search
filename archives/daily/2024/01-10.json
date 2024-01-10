@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704864874089,
+  "endTime": 1704867819986,
   "band_list": [
     {
       "raw_hot": 2896872,
@@ -17,6 +17,14 @@
       "onboard_time": 1704804513,
       "rank": 0,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1747066,
+      "num": 1747066,
+      "word": "央视评繁花可能成为孤品",
+      "onboard_time": 1704863372,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 1591369,
@@ -73,14 +81,6 @@
       "onboard_time": 1704859957,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1221990,
-      "num": 1221990,
-      "word": "央视评繁花可能成为孤品",
-      "onboard_time": 1704863372,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 1140854,
@@ -235,6 +235,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 670137,
+      "num": 670137,
+      "word": "足协要求全员写1500字观后感",
+      "onboard_time": 1704863670,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 668224,
+      "num": 668224,
+      "word": "朱丹不去港媒上班可惜了",
+      "onboard_time": 1704866671,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 649123,
       "num": 649123,
       "word": "台湾小当归哈尔滨街边被疯狂投喂",
@@ -347,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 503432,
+      "num": 503432,
+      "word": "李李原型剃度出家又还俗",
+      "onboard_time": 1704863790,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502491,
       "num": 502491,
       "word": "辛芷蕾工作室 认真营业",
@@ -355,11 +379,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 501263,
-      "num": 501263,
-      "word": "足协要求全员写1500字观后感",
-      "onboard_time": 1704863670,
-      "rank": 25,
+      "raw_hot": 501401,
+      "num": 501401,
+      "word": "央视连播三部谭松韵主演剧",
+      "onboard_time": 1704860134,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 499084,
+      "num": 467152,
+      "word": "退钱哥 那些年的眼泪白流",
+      "onboard_time": 1704866069,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -387,6 +419,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 476045,
+      "num": 476045,
+      "word": "21岁中国芭蕾女演员在德失联5天",
+      "onboard_time": 1704866011,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472050,
       "num": 472050,
       "word": "央视春晚语言类节目审查",
@@ -409,6 +449,14 @@
       "onboard_time": 1704811895,
       "rank": 6,
       "category": "剧集,体育"
+    },
+    {
+      "raw_hot": 470220,
+      "num": 244743,
+      "word": "真正的致癌元凶是这4种食物",
+      "onboard_time": 1704866491,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 445146,
@@ -441,14 +489,6 @@
       "onboard_time": 1704855989,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398090,
-      "num": 398090,
-      "word": "李李原型剃度出家又还俗",
-      "onboard_time": 1704863790,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 392616,
@@ -499,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 366869,
-      "num": 332350,
-      "word": "央视连播三部谭松韵主演剧",
-      "onboard_time": 1704860134,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 362550,
+      "num": 362550,
+      "word": "寻子18年得知儿子已去世",
+      "onboard_time": 1704860613,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350911,
@@ -561,6 +601,14 @@
       "onboard_time": 1704808233,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314550,
+      "num": 314550,
+      "word": "张琳",
+      "onboard_time": 1704866792,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314196,
@@ -635,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251157,
+      "num": 251157,
+      "word": "王一博当队长的那些年",
+      "onboard_time": 1704867031,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248222,
       "num": 248222,
       "word": "熬夜后的恢复方法",
@@ -697,6 +753,14 @@
       "onboard_time": 1704850233,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226758,
+      "num": 226758,
+      "word": "秦岚上学没谈过恋爱",
+      "onboard_time": 1704867449,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 224757,
@@ -787,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200755,
+      "num": 200755,
+      "word": "王源微博之夜宣了",
+      "onboard_time": 1704865651,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200617,
       "num": 200617,
       "word": "有效化妆与无效化妆",
@@ -809,6 +881,14 @@
       "onboard_time": 1704804213,
       "rank": 19,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 192807,
+      "num": 192807,
+      "word": "足坛反腐",
+      "onboard_time": 1704866792,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 188969,
@@ -843,6 +923,30 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 186675,
+      "num": 186675,
+      "word": "W年度盛典嘉宾",
+      "onboard_time": 1704866971,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184252,
+      "num": 184252,
+      "word": "四川人聊到家乡特产咋聊沉默了",
+      "onboard_time": 1704865589,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183441,
+      "num": 183441,
+      "word": "猛龙vs湖人",
+      "onboard_time": 1704867449,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181055,
       "num": 181055,
       "word": "樊振东波尔约饭",
@@ -867,6 +971,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176361,
+      "num": 176361,
+      "word": "魏大勋在胡一天一声声哥哥中迷失",
+      "onboard_time": 1704867332,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175697,
+      "num": 175697,
+      "word": "爱泼斯坦案到底有多黑暗",
+      "onboard_time": 1704864754,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175636,
       "num": 1467279,
       "word": "反腐大片持续发力纵深推进第四集",
@@ -883,11 +1003,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169238,
+      "num": 169238,
+      "word": "哈工大居然出旅游攻略了",
+      "onboard_time": 1704865353,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 168615,
       "num": 168615,
       "word": "李铁",
       "onboard_time": 1704845009,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168586,
+      "num": 168586,
+      "word": "董春雨",
+      "onboard_time": 1704866189,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -953,6 +1089,14 @@
       "onboard_time": 1704857250,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157112,
+      "num": 157112,
+      "word": "董宇辉新号销售额近东方甄选四倍",
+      "onboard_time": 1704867210,
+      "rank": 37,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 156485,
@@ -1067,12 +1211,20 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 133279,
-      "num": 146022,
-      "word": "爱泼斯坦案到底有多黑暗",
-      "onboard_time": 1704864754,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 133280,
+      "num": 133280,
+      "word": "秦海璐拍到了紫色的极光",
+      "onboard_time": 1704867754,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132476,
+      "num": 132476,
+      "word": "被封印在水泥墩里的猫咪",
+      "onboard_time": 1704865952,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 130505,
@@ -1081,6 +1233,14 @@
       "onboard_time": 1704856110,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130308,
+      "num": 130308,
+      "word": "董宇辉新账号一场涨粉近300万",
+      "onboard_time": 1704865289,
+      "rank": 44,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 129640,
@@ -1137,6 +1297,14 @@
       "onboard_time": 1704812916,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 115634,
+      "num": 115634,
+      "word": "武汉卓尔",
+      "onboard_time": 1704865169,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 114341,
@@ -1371,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48960,
+      "num": 1102460,
+      "word": "一组组数据看活力满满的中国",
+      "onboard_time": 1704862894,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48685,
       "num": 48685,
       "word": "董宇辉回应带货化妆品",
@@ -1384,14 +1560,6 @@
       "word": "110的含义",
       "onboard_time": 1704843264,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42654,
-      "num": 1102460,
-      "word": "一组组数据看活力满满的中国",
-      "onboard_time": 1704862894,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

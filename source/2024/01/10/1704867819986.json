@@ -1,0 +1,410 @@
+{
+  "runTime": 1704867819986,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1747066,
+        "num": 1747066,
+        "word": "央视评繁花可能成为孤品",
+        "onboard_time": 1704863372,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 704816,
+        "num": 704816,
+        "word": "谁领到了中国第一张身份证",
+        "onboard_time": 1704858091,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48960,
+        "num": 681476,
+        "word": "一组组数据看活力满满的中国",
+        "onboard_time": 1704862894,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670137,
+        "num": 670137,
+        "word": "足协要求全员写1500字观后感",
+        "onboard_time": 1704863670,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 668224,
+        "num": 668224,
+        "word": "朱丹不去港媒上班可惜了",
+        "onboard_time": 1704866671,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537626,
+        "num": 537626,
+        "word": "迪丽热巴的冰岛穿搭",
+        "onboard_time": 1704863435,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510685,
+        "num": 510685,
+        "word": "李铁收千万保送的4名球员是谁",
+        "onboard_time": 1704859957,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503432,
+        "num": 503432,
+        "word": "李李原型剃度出家又还俗",
+        "onboard_time": 1704863790,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501401,
+        "num": 501401,
+        "word": "央视连播三部谭松韵主演剧",
+        "onboard_time": 1704860134,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476045,
+        "num": 476045,
+        "word": "21岁中国芭蕾女演员在德失联5天",
+        "onboard_time": 1704866011,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759858,
+        "num": 467945,
+        "word": "萝莉岛",
+        "onboard_time": 1704859532,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499084,
+        "num": 467152,
+        "word": "退钱哥 那些年的眼泪白流",
+        "onboard_time": 1704866069,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451482,
+        "num": 451482,
+        "word": "男孩捡到价值三万元钻戒后被父母扔掉",
+        "onboard_time": 1704856531,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425339,
+        "num": 425339,
+        "word": "王家卫 唐嫣就是汪小姐",
+        "onboard_time": 1704858032,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380891,
+        "num": 380891,
+        "word": "花10万中2.2亿彩票事件调查进展",
+        "onboard_time": 1704851129,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362550,
+        "num": 362550,
+        "word": "寻子18年得知儿子已去世",
+        "onboard_time": 1704860613,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351945,
+        "num": 351945,
+        "word": "明年起连续5年没有年三十",
+        "onboard_time": 1704848371,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314550,
+        "num": 314550,
+        "word": "张琳",
+        "onboard_time": 1704866792,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309883,
+        "num": 309883,
+        "word": "妈妈为救儿子4个月狂减20斤",
+        "onboard_time": 1704855989,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251157,
+        "num": 251157,
+        "word": "王一博当队长的那些年",
+        "onboard_time": 1704867031,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470220,
+        "num": 244743,
+        "word": "真正的致癌元凶是这4种食物",
+        "onboard_time": 1704866491,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 283045,
+        "num": 241666,
+        "word": "一对夫妇埋下身子让乘客拍富士山",
+        "onboard_time": 1704860493,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235041,
+        "num": 235041,
+        "word": "李铁出圈以身说法 范志毅出圈演繁花",
+        "onboard_time": 1704857914,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226758,
+        "num": 226758,
+        "word": "秦岚上学没谈过恋爱",
+        "onboard_time": 1704867449,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220057,
+        "num": 220057,
+        "word": "公司办不起年会就别办了",
+        "onboard_time": 1704863435,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207383,
+        "num": 207383,
+        "word": "救护车被私家车堵住患者经抢救无效死亡",
+        "onboard_time": 1704851790,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207211,
+        "num": 207211,
+        "word": "法国最年轻总理上任",
+        "onboard_time": 1704861159,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 200755,
+        "num": 200755,
+        "word": "王源微博之夜宣了",
+        "onboard_time": 1704865651,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192807,
+        "num": 192807,
+        "word": "足坛反腐",
+        "onboard_time": 1704866792,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186675,
+        "num": 186675,
+        "word": "W年度盛典嘉宾",
+        "onboard_time": 1704866971,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184252,
+        "num": 184252,
+        "word": "四川人聊到家乡特产咋聊沉默了",
+        "onboard_time": 1704865589,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183441,
+        "num": 183441,
+        "word": "猛龙vs湖人",
+        "onboard_time": 1704867449,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176361,
+        "num": 176361,
+        "word": "魏大勋在胡一天一声声哥哥中迷失",
+        "onboard_time": 1704867332,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175697,
+        "num": 175697,
+        "word": "爱泼斯坦案到底有多黑暗",
+        "onboard_time": 1704864754,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169306,
+        "num": 169306,
+        "word": "没关系 先从写垃圾开始吧",
+        "onboard_time": 1704858512,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 169238,
+        "num": 169238,
+        "word": "哈工大居然出旅游攻略了",
+        "onboard_time": 1704865353,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 168586,
+        "num": 168586,
+        "word": "董春雨",
+        "onboard_time": 1704866189,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157112,
+        "num": 157112,
+        "word": "董宇辉新号销售额近东方甄选四倍",
+        "onboard_time": 1704867210,
+        "rank": 37,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 152192,
+        "num": 152192,
+        "word": "王星越抱着外甥女放烟花",
+        "onboard_time": 1704862714,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150630,
+        "num": 150630,
+        "word": "宝总李李真亲了",
+        "onboard_time": 1704842905,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140896,
+        "num": 140896,
+        "word": "A先生 替身文学",
+        "onboard_time": 1704852753,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138412,
+        "num": 138412,
+        "word": "干我们这行上不告父母下不告妻儿",
+        "onboard_time": 1704854431,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133280,
+        "num": 133280,
+        "word": "秦海璐拍到了紫色的极光",
+        "onboard_time": 1704867754,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132476,
+        "num": 132476,
+        "word": "被封印在水泥墩里的猫咪",
+        "onboard_time": 1704865952,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130308,
+        "num": 130308,
+        "word": "董宇辉新账号一场涨粉近300万",
+        "onboard_time": 1704865289,
+        "rank": 44,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 124948,
+        "num": 124948,
+        "word": "全网都在N刷的小说",
+        "onboard_time": 1704862654,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 123610,
+        "num": 123610,
+        "word": "等国考成绩",
+        "onboard_time": 1704853352,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116260,
+        "num": 116260,
+        "word": "飞驰人生2定档",
+        "onboard_time": 1704853650,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115634,
+        "num": 115634,
+        "word": "武汉卓尔",
+        "onboard_time": 1704865169,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100355,
+        "num": 100355,
+        "word": "微博之夜经典造型",
+        "onboard_time": 1704849990,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进党的自我革命#"
+    }
+  }
+}
