@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704869253571,
+  "endTime": 1704871012199,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2347,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 952179,
+      "num": 952179,
+      "word": "朱丹不去港媒上班可惜了",
+      "onboard_time": 1704866671,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 951553,
       "num": 951553,
       "word": "涉嫌代孕的武汉普仁医院被罚5万",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704037142,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 946213,
-      "num": 821063,
-      "word": "鞠婧祎好稳",
-      "onboard_time": 1704036365,
-      "rank": 31,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

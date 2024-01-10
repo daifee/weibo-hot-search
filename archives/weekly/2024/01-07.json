@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704869253571,
+  "endTime": 1704871012199,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -771,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 952179,
+      "num": 952179,
+      "word": "朱丹不去港媒上班可惜了",
+      "onboard_time": 1704866671,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 949359,
       "num": 949359,
       "word": "第一部国产偶像剧男主是陈龙",
@@ -785,14 +793,6 @@
       "onboard_time": 1704596190,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 930889,
-      "num": 930889,
-      "word": "朱丹不去港媒上班可惜了",
-      "onboard_time": 1704866671,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 902403,
@@ -899,8 +899,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 828035,
-      "num": 828035,
+      "raw_hot": 834420,
+      "num": 834420,
       "word": "退钱哥 那些年的眼泪白流",
       "onboard_time": 1704866069,
       "rank": 11,
@@ -1169,6 +1169,14 @@
       "onboard_time": 1704753498,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749714,
+      "num": 749714,
+      "word": "龙年茅台跌至4100元每瓶",
+      "onboard_time": 1704868830,
+      "rank": 24,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 747216,
@@ -1851,6 +1859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 571342,
+      "num": 571342,
+      "word": "郑恺 和汪小姐怎么不算HE",
+      "onboard_time": 1704869793,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570603,
       "num": 570603,
       "word": "日本一核电站震后漏油入海",
@@ -2049,6 +2065,14 @@
       "onboard_time": 1704687393,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 532410,
+      "num": 532410,
+      "word": "大胖媳妇把老丈人一吻跨年",
+      "onboard_time": 1704868951,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 531651,
@@ -2252,7 +2276,7 @@
     },
     {
       "raw_hot": 504724,
-      "num": 250813,
+      "num": 254833,
       "word": "真正的致癌元凶是这4种食物",
       "onboard_time": 1704866491,
       "rank": 20,
@@ -2513,6 +2537,14 @@
       "onboard_time": 1704709171,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 467802,
+      "num": 467802,
+      "word": "HYBS解散",
+      "onboard_time": 1704869012,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 466394,
@@ -2841,6 +2873,14 @@
       "onboard_time": 1704527972,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415072,
+      "num": 415072,
+      "word": "迪丽热巴抓不着羊就抓辛芷蕾",
+      "onboard_time": 1704868530,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 414503,
@@ -4651,6 +4691,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 224432,
+      "num": 224432,
+      "word": "胡歌回应阿宝为何一再不顾爷叔提醒",
+      "onboard_time": 1704870331,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224160,
       "num": 224160,
       "word": "智能马桶到底是不是智商税",
@@ -4721,14 +4769,6 @@
       "onboard_time": 1704759813,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221469,
-      "num": 221469,
-      "word": "迪丽热巴抓不着羊就抓辛芷蕾",
-      "onboard_time": 1704868530,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 220902,
@@ -5363,6 +5403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199348,
+      "num": 199348,
+      "word": "荣耀发布会",
+      "onboard_time": 1704869910,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199047,
       "num": 199047,
       "word": "湖人战胜快船",
@@ -5377,14 +5425,6 @@
       "onboard_time": 1704706409,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 198641,
-      "num": 198641,
-      "word": "龙年茅台跌至4100元每瓶",
-      "onboard_time": 1704868830,
-      "rank": 24,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 198565,
@@ -5915,6 +5955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184236,
+      "num": 184236,
+      "word": "董宇辉新号销售额近东方甄选四倍",
+      "onboard_time": 1704867210,
+      "rank": 37,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 184206,
       "num": 184206,
       "word": "魔兽世界",
@@ -6091,6 +6139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179988,
+      "num": 179988,
+      "word": "花少全体喝河水",
+      "onboard_time": 1704869611,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179635,
       "num": 179635,
       "word": "吃辣和长痘没什么联系",
@@ -6259,6 +6315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173841,
+      "num": 173841,
+      "word": "给尚未工作的朋友们的建议 多拍照",
+      "onboard_time": 1704870212,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173745,
       "num": 173745,
       "word": "女子cosplay游戏角色进地铁站被拦",
@@ -6321,14 +6385,6 @@
       "onboard_time": 1704633153,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 172563,
-      "num": 172563,
-      "word": "董宇辉新号销售额近东方甄选四倍",
-      "onboard_time": 1704867210,
-      "rank": 37,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 172243,
@@ -6691,14 +6747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163282,
-      "num": 163282,
-      "word": "HYBS解散",
-      "onboard_time": 1704869012,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163217,
       "num": 163217,
       "word": "兵马俑去服冰役了",
@@ -6993,6 +7041,14 @@
       "onboard_time": 1704585201,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156557,
+      "num": 156557,
+      "word": "浓眉41分",
+      "onboard_time": 1704869251,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 156485,
@@ -7427,6 +7483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 145709,
+      "num": 145709,
+      "word": "荣耀MagicOS",
+      "onboard_time": 1704870753,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 145428,
       "num": 145428,
       "word": "万得回应WIND崩了",
@@ -7651,6 +7715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138328,
+      "num": 138328,
+      "word": "我的人生好像进入了停滞期",
+      "onboard_time": 1704869793,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138145,
       "num": 138145,
       "word": "下雾了学校像地府",
@@ -7787,6 +7859,14 @@
       "category": "运动健身,社会新闻"
     },
     {
+      "raw_hot": 134619,
+      "num": 134619,
+      "word": "微博之夜最新官宣",
+      "onboard_time": 1704870930,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134532,
       "num": 134532,
       "word": "聊装修聊对眼90后对门邻居喜结连理",
@@ -7809,14 +7889,6 @@
       "onboard_time": 1704676887,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133749,
-      "num": 133749,
-      "word": "大胖媳妇把老丈人一吻跨年",
-      "onboard_time": 1704868951,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 133629,
@@ -8057,6 +8129,14 @@
       "onboard_time": 1704715590,
       "rank": 39,
       "category": "军事"
+    },
+    {
+      "raw_hot": 129068,
+      "num": 129068,
+      "word": "哈尔滨现冻梨雕花烧烤",
+      "onboard_time": 1704869251,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 128876,
@@ -8985,6 +9065,14 @@
       "onboard_time": 1704598831,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 105169,
+      "num": 105169,
+      "word": "日经225指数突破34000点",
+      "onboard_time": 1704870691,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 105015,
