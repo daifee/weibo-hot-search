@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704911753600,
+  "endTime": 1704914084816,
   "band_list": [
     {
       "raw_hot": 2076798,
@@ -227,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123738,
+      "num": 42947,
+      "word": "为啥网上的药比实体药店更便宜",
+      "onboard_time": 1704910936,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119578,
       "num": 119578,
       "word": "白鹿红衣梦回时宜",
@@ -443,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30984,
-      "num": 34665,
-      "word": "为啥网上的药比实体药店更便宜",
-      "onboard_time": 1704910936,
+      "raw_hot": 11861,
+      "num": 15968,
+      "word": "宝宝你是一捧小猫",
+      "onboard_time": 1704913933,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
