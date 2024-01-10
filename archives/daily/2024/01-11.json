@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704922423544,
+  "endTime": 1704925042203,
   "band_list": [
     {
       "raw_hot": 2076798,
@@ -211,6 +211,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 133026,
+      "num": 133026,
+      "word": "为啥网上的药比实体药店更便宜",
+      "onboard_time": 1704910936,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132411,
       "num": 132411,
       "word": "王家卫公司已注册百枚繁花相关商标",
@@ -225,14 +233,6 @@
       "onboard_time": 1704893734,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 123738,
-      "num": 121570,
-      "word": "为啥网上的药比实体药店更便宜",
-      "onboard_time": 1704910936,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119578,
@@ -265,6 +265,14 @@
       "onboard_time": 1704890612,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 108576,
+      "num": 51881,
+      "word": "47岁男子没要到3000元生活费纵火烧家",
+      "onboard_time": 1704918552,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100271,
@@ -435,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38331,
-      "num": 18696,
-      "word": "47岁男子没要到3000元生活费纵火烧家",
-      "onboard_time": 1704918552,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38195,
       "num": 39872,
       "word": "赵昭仪去泰国了",
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17145,
+      "num": 17145,
+      "word": "白敬亭红毯迷路",
+      "onboard_time": 1704921973,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 14538,
       "num": 16812,
       "word": "宝宝你是一捧小猫",
@@ -467,20 +475,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 10789,
-      "num": 10789,
+      "raw_hot": 14264,
+      "num": 15557,
       "word": "200万住养老院啥感受",
       "onboard_time": 1704921794,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 10411,
-      "num": 10411,
-      "word": "白敬亭红毯迷路",
-      "onboard_time": 1704921973,
-      "rank": 48,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
