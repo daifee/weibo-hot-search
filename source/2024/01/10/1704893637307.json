@@ -1,0 +1,410 @@
+{
+  "runTime": 1704893637307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1432242,
+        "num": 1432242,
+        "word": "孙俪状态",
+        "onboard_time": 1704888153,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 952484,
+        "num": 952484,
+        "word": "朱珠这衣服换我穿就是红秋衣",
+        "onboard_time": 1704888869,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20846,
+        "num": 913301,
+        "word": "愿每一次出警都平安归来",
+        "onboard_time": 1704842423,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967208,
+        "num": 912685,
+        "word": "诗幂 金角银角",
+        "onboard_time": 1704889413,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 911852,
+        "num": 911852,
+        "word": "学生作弊被抓后纠缠监考老师",
+        "onboard_time": 1704890731,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 671893,
+        "num": 671893,
+        "word": "蒙牛客服回应袋装奶包装南北差异",
+        "onboard_time": 1704890612,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641313,
+        "num": 641313,
+        "word": "唐嫣哭肿了",
+        "onboard_time": 1704892533,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 598335,
+        "num": 598335,
+        "word": "杨幂刘诗诗又坐一起",
+        "onboard_time": 1704890491,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 550820,
+        "num": 550820,
+        "word": "在德失联中国芭蕾女舞者已找到",
+        "onboard_time": 1704885754,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320582,
+        "num": 320582,
+        "word": "肯德基回应吃出生肉",
+        "onboard_time": 1704886710,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933837,
+        "num": 319551,
+        "word": "辛芷蕾金色吊带",
+        "onboard_time": 1704890192,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 619856,
+        "num": 318546,
+        "word": "科兴新冠疫苗已停产",
+        "onboard_time": 1704877291,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536483,
+        "num": 317917,
+        "word": "何猷君不知道奚梦瑶支付密码",
+        "onboard_time": 1704890192,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517325,
+        "num": 315746,
+        "word": "易烊千玺赵今麦 白夜行",
+        "onboard_time": 1704882093,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 315677,
+        "num": 315677,
+        "word": "始祖鸟龙年冲锋衣炒到12000元",
+        "onboard_time": 1704884372,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 444397,
+        "num": 314719,
+        "word": "央视评繁花可能成为孤品",
+        "onboard_time": 1704863372,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404252,
+        "num": 312405,
+        "word": "金晨穿羽绒服走红毯",
+        "onboard_time": 1704890612,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 305673,
+        "num": 305673,
+        "word": "东北冻梨魏大勋也来广西了",
+        "onboard_time": 1704891935,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 276771,
+        "num": 276771,
+        "word": "第一次听到4岁女儿叫爸爸他哭了",
+        "onboard_time": 1704876032,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236647,
+        "num": 236647,
+        "word": "特朗普岳母去世",
+        "onboard_time": 1704886052,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 34039,
+        "num": 236525,
+        "word": "MK明星派对好多人啊",
+        "onboard_time": 1704892472,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395435,
+        "num": 235047,
+        "word": "杨幂翡翠",
+        "onboard_time": 1704892112,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289253,
+        "num": 234020,
+        "word": "跟相亲对象认识14天订婚了",
+        "onboard_time": 1704879450,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256962,
+        "num": 232600,
+        "word": "为什么会两个月内频繁发烧",
+        "onboard_time": 1704887971,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232192,
+        "num": 232192,
+        "word": "杨幂泼墨妆",
+        "onboard_time": 1704883171,
+        "rank": 24,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 231965,
+        "num": 231965,
+        "word": "鹅厂长公主官宣闺蜜",
+        "onboard_time": 1704885452,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227507,
+        "num": 227507,
+        "word": "天官赐福",
+        "onboard_time": 1704890731,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 222990,
+        "num": 222990,
+        "word": "全国城市30岁人群未婚率超30%",
+        "onboard_time": 1704890430,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212454,
+        "num": 212454,
+        "word": "零跑C10价格",
+        "onboard_time": 1704892775,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 207888,
+        "num": 207888,
+        "word": "宋茜 顶级alpha",
+        "onboard_time": 1704883531,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206948,
+        "num": 206948,
+        "word": "23岁男子长期高盐饮食血压成极高危型",
+        "onboard_time": 1704882873,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196838,
+        "num": 196838,
+        "word": "刘诗诗白敬亭同框",
+        "onboard_time": 1704887429,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192154,
+        "num": 192154,
+        "word": "肠镜的重要性",
+        "onboard_time": 1704891753,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177767,
+        "num": 177767,
+        "word": "全国城市55岁及以上人群未婚率低于村镇",
+        "onboard_time": 1704892895,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69631,
+        "num": 172101,
+        "word": "2024了开车还需要用脚吗",
+        "onboard_time": 1704893254,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169764,
+        "num": 169764,
+        "word": "何运晨 等着石凯给我写单曲",
+        "onboard_time": 1704893317,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168546,
+        "num": 168546,
+        "word": "退钱哥谈足坛反腐",
+        "onboard_time": 1704892595,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164542,
+        "num": 164542,
+        "word": "唐嫣晒照告别汪小姐",
+        "onboard_time": 1704891753,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163888,
+        "num": 163888,
+        "word": "牛奶带吸管",
+        "onboard_time": 1704891215,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161868,
+        "num": 161868,
+        "word": "王家卫 细节控",
+        "onboard_time": 1704890913,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154498,
+        "num": 154498,
+        "word": "辛芷蕾生图能打",
+        "onboard_time": 1704891454,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151008,
+        "num": 151008,
+        "word": "李庚希含泪笑看哭我了",
+        "onboard_time": 1704888573,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148499,
+        "num": 148499,
+        "word": "万茜长发",
+        "onboard_time": 1704881673,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148402,
+        "num": 148402,
+        "word": "你遇不到灵魂伴侣的原因",
+        "onboard_time": 1704892353,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143191,
+        "num": 143191,
+        "word": "李宇春优雅薄纱半裙",
+        "onboard_time": 1704888029,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139611,
+        "num": 139611,
+        "word": "辛芷蕾红毯被夸繁花演得太好了",
+        "onboard_time": 1704890673,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138672,
+        "num": 138672,
+        "word": "给鼠鼠当了10分钟坐骑",
+        "onboard_time": 1704887971,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137963,
+        "num": 137963,
+        "word": "王一博张艺兴同回街舞6",
+        "onboard_time": 1704878253,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124710,
+        "num": 124710,
+        "word": "郑恺 和汪小姐怎么不算HE",
+        "onboard_time": 1704869793,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121469,
+        "num": 121469,
+        "word": "俩闺女回村过年媒人排起长队",
+        "onboard_time": 1704891033,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一体推进不敢腐不能腐不想腐#"
+    }
+  }
+}
