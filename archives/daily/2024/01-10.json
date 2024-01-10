@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704885330255,
+  "endTime": 1704886454798,
   "band_list": [
     {
       "raw_hot": 2896872,
@@ -251,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 794100,
+      "num": 794100,
+      "word": "杨幂泼墨妆",
+      "onboard_time": 1704883171,
+      "rank": 8,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 765617,
       "num": 554414,
       "word": "专家建议尽快调整退休年龄",
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 724178,
+      "num": 724178,
+      "word": "23岁男子长期高盐饮食血压成极高危型",
+      "onboard_time": 1704882873,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 704147,
       "num": 704147,
       "word": "早上宋慧乔 晚上宋小宝",
@@ -331,20 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 688525,
+      "num": 688525,
+      "word": "始祖鸟龙年冲锋衣炒到12000元",
+      "onboard_time": 1704884372,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 684663,
       "num": 684663,
       "word": "王一博官宣街舞6总决赛",
       "onboard_time": 1704856589,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 682780,
-      "num": 682780,
-      "word": "杨幂泼墨妆",
-      "onboard_time": 1704883171,
-      "rank": 8,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 671421,
@@ -449,14 +465,6 @@
       "onboard_time": 1704860493,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 572299,
-      "num": 572299,
-      "word": "23岁男子长期高盐饮食血压成极高危型",
-      "onboard_time": 1704882873,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 569709,
@@ -659,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 450982,
+      "num": 450982,
+      "word": "刘诗诗武侠风",
+      "onboard_time": 1704884490,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 445146,
       "num": 83307,
       "word": "从CCTV5到CCTV1",
@@ -684,19 +700,11 @@
     },
     {
       "raw_hot": 436009,
-      "num": 268956,
+      "num": 290864,
       "word": "跟相亲对象认识14天订婚了",
       "onboard_time": 1704879450,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 429498,
-      "num": 429498,
-      "word": "始祖鸟龙年冲锋衣炒到12000元",
-      "onboard_time": 1704884372,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 426568,
@@ -707,8 +715,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 423820,
-      "num": 423820,
+      "raw_hot": 426320,
+      "num": 426320,
       "word": "王楚钦孙颖莎2024开门红",
       "onboard_time": 1704884014,
       "rank": 15,
@@ -835,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347987,
+      "num": 300990,
+      "word": "鹅厂长公主官宣闺蜜",
+      "onboard_time": 1704885452,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 342414,
       "num": 342414,
       "word": "李铁带队八连胜冲超离不开钞能力",
@@ -939,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301004,
+      "num": 301004,
+      "word": "在德失联中国芭蕾女舞者已找到",
+      "onboard_time": 1704885754,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296170,
       "num": 296170,
       "word": "王者海诺新皮肤",
@@ -985,14 +1009,6 @@
       "onboard_time": 1704811417,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 256608,
-      "num": 256608,
-      "word": "刘诗诗武侠风",
-      "onboard_time": 1704884490,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 252736,
@@ -1107,6 +1123,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 229642,
+      "num": 229642,
+      "word": "特朗普岳母去世",
+      "onboard_time": 1704886052,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 229538,
       "num": 229538,
       "word": "东北小伙雕1.8米雪龙被当成吉祥物",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1704856171,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215410,
+      "num": 215410,
+      "word": "杨幂西装杀伤力",
+      "onboard_time": 1704885093,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209125,
@@ -1523,6 +1555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174610,
+      "num": 174610,
+      "word": "陈梦王曼昱3比0李时温金娜英",
+      "onboard_time": 1704885991,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174216,
       "num": 160636,
       "word": "被数字的中文写法震惊到的外国人",
@@ -1579,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164409,
+      "num": 164409,
+      "word": "W年度盛典",
+      "onboard_time": 1704885030,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 163683,
       "num": 163683,
       "word": "湖人战胜猛龙",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1704857129,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160312,
+      "num": 363795,
+      "word": "南方人终于见识了北方的干",
+      "onboard_time": 1704884551,
+      "rank": 26,
+      "category": "美妆"
     },
     {
       "raw_hot": 159850,
@@ -1779,12 +1835,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140982,
-      "num": 205076,
-      "word": "南方人终于见识了北方的干",
-      "onboard_time": 1704884551,
-      "rank": 26,
-      "category": "美妆"
+      "raw_hot": 139316,
+      "num": 139316,
+      "word": "大嘴厚唇核心变美思路",
+      "onboard_time": 1704885629,
+      "rank": 40,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 138518,
@@ -1835,6 +1891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136135,
+      "num": 136135,
+      "word": "仰望U7官图发布",
+      "onboard_time": 1704885393,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 135641,
       "num": 135641,
       "word": "热火续约斯波",
@@ -1865,6 +1929,14 @@
       "onboard_time": 1704865952,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131926,
+      "num": 131926,
+      "word": "颐和园又一文物回归",
+      "onboard_time": 1704884855,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 131475,
@@ -1923,36 +1995,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 127747,
-      "num": 127747,
-      "word": "颐和园又一文物回归",
-      "onboard_time": 1704884855,
-      "rank": 41,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 127705,
       "num": 127705,
       "word": "长了八百个心眼子的边牧",
       "onboard_time": 1704874293,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127519,
-      "num": 127519,
-      "word": "杨幂西装杀伤力",
-      "onboard_time": 1704885093,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 127458,
-      "num": 127458,
-      "word": "W年度盛典",
-      "onboard_time": 1704885030,
-      "rank": 43,
-      "category": "时尚"
     },
     {
       "raw_hot": 125679,
