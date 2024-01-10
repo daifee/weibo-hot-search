@@ -1,0 +1,410 @@
+{
+  "runTime": 1704921280330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 202745,
+        "num": 202745,
+        "word": "25岁姑娘体检发现结节无症状确诊肺癌",
+        "onboard_time": 1704901291,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75398,
+        "num": 75398,
+        "word": "为啥网上的药比实体药店更便宜",
+        "onboard_time": 1704910936,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8072,
+        "num": 54255,
+        "word": "这或许是对110最走心的定义",
+        "onboard_time": 1704896854,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47597,
+        "num": 47597,
+        "word": "程前主持风马牛年终秀圆桌论坛惹争议",
+        "onboard_time": 1704897276,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46368,
+        "num": 46368,
+        "word": "配货140多万没买到心仪爱马仕包",
+        "onboard_time": 1704895655,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42633,
+        "num": 42633,
+        "word": "蒙牛客服回应袋装奶包装南北差异",
+        "onboard_time": 1704890612,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40550,
+        "num": 40550,
+        "word": "程前发博致歉",
+        "onboard_time": 1704897034,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37046,
+        "num": 37046,
+        "word": "17岁女孩捡到16万现金主动交还",
+        "onboard_time": 1704908239,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 33802,
+        "num": 33802,
+        "word": "在德失联中国芭蕾女舞者已找到",
+        "onboard_time": 1704885754,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32254,
+        "num": 32254,
+        "word": "王心凌终于从台北唱到了东北",
+        "onboard_time": 1704897158,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39328,
+        "num": 32137,
+        "word": "辛芷蕾金色吊带",
+        "onboard_time": 1704890192,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28693,
+        "num": 28693,
+        "word": "上影花5亿买基地支持繁花拍摄",
+        "onboard_time": 1704899254,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28209,
+        "num": 28209,
+        "word": "央视评繁花可能成为孤品",
+        "onboard_time": 1704863372,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35251,
+        "num": 28112,
+        "word": "朱珠这衣服换我穿就是红秋衣",
+        "onboard_time": 1704888869,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27591,
+        "num": 27591,
+        "word": "被萌兰33码小jiojio呼脸上了",
+        "onboard_time": 1704900333,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23769,
+        "num": 23769,
+        "word": "我知道我爱你",
+        "onboard_time": 1704906200,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25079,
+        "num": 23677,
+        "word": "杨幂翡翠",
+        "onboard_time": 1704892112,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23367,
+        "num": 23367,
+        "word": "唐嫣哭肿了",
+        "onboard_time": 1704892533,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18927,
+        "num": 18927,
+        "word": "王者荣耀 阿离星元皮肤",
+        "onboard_time": 1704893851,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17019,
+        "num": 17019,
+        "word": "游本昌王菊合照",
+        "onboard_time": 1704896435,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51917,
+        "num": 17015,
+        "word": "晚婚已成为普遍现象",
+        "onboard_time": 1704895655,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33512,
+        "num": 16999,
+        "word": "飞机上拒绝了想换座的情侣",
+        "onboard_time": 1704901830,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30150,
+        "num": 16967,
+        "word": "47岁男子没要到3000元生活费纵火烧家",
+        "onboard_time": 1704918552,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23495,
+        "num": 16944,
+        "word": "网约司机车上现女士内裤遭分手",
+        "onboard_time": 1704895055,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17716,
+        "num": 16931,
+        "word": "王安宇的手到底有多臭",
+        "onboard_time": 1704899316,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16925,
+        "num": 16925,
+        "word": "以前谈恋爱是要交换QQ密码的",
+        "onboard_time": 1704897395,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16508,
+        "num": 16508,
+        "word": "易烊千玺赵今麦 白夜行",
+        "onboard_time": 1704882093,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16425,
+        "num": 16425,
+        "word": "3好友吃自助为速煮螃蟹1人坐1桌",
+        "onboard_time": 1704894094,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15318,
+        "num": 15318,
+        "word": "王家卫 细节控",
+        "onboard_time": 1704890913,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14208,
+        "num": 15307,
+        "word": "外交部回应南非诉以色列种族灭绝",
+        "onboard_time": 1704899557,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15303,
+        "num": 15303,
+        "word": "儿媳称拥有世界最好婆婆不接受反驳",
+        "onboard_time": 1704894514,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14643,
+        "num": 14643,
+        "word": "马伊琍辛芷蕾黄觉内场同框",
+        "onboard_time": 1704896558,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14538,
+        "num": 14538,
+        "word": "宝宝你是一捧小猫",
+        "onboard_time": 1704913933,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13963,
+        "num": 13963,
+        "word": "甘肃积石山县3.1级地震",
+        "onboard_time": 1704898712,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14475,
+        "num": 13792,
+        "word": "金晨穿羽绒服走红毯",
+        "onboard_time": 1704890612,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13558,
+        "num": 13558,
+        "word": "何猷君不知道奚梦瑶支付密码",
+        "onboard_time": 1704890192,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13159,
+        "num": 13159,
+        "word": "最不舍得删除的聊天记录",
+        "onboard_time": 1704893734,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13634,
+        "num": 13159,
+        "word": "诗幂 金角银角",
+        "onboard_time": 1704889413,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13039,
+        "num": 13039,
+        "word": "为什么会两个月内频繁发烧",
+        "onboard_time": 1704887971,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12430,
+        "num": 12430,
+        "word": "跟相亲对象认识14天订婚了",
+        "onboard_time": 1704879450,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11972,
+        "num": 11972,
+        "word": "白鹿红衣梦回时宜",
+        "onboard_time": 1704896614,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11950,
+        "num": 11950,
+        "word": "始祖鸟龙年冲锋衣炒到12000元",
+        "onboard_time": 1704884372,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 12648,
+        "num": 11906,
+        "word": "杨幂刘诗诗又坐一起",
+        "onboard_time": 1704890491,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11676,
+        "num": 11676,
+        "word": "东北冻梨魏大勋也来广西了",
+        "onboard_time": 1704891935,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 11292,
+        "num": 11292,
+        "word": "花花和弟弟贴贴好可爱",
+        "onboard_time": 1704899075,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11286,
+        "num": 11286,
+        "word": "崩坏3第二部",
+        "onboard_time": 1704903865,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11194,
+        "num": 11194,
+        "word": "王家卫公司已注册百枚繁花相关商标",
+        "onboard_time": 1704903087,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10992,
+        "num": 10992,
+        "word": "爸爸对女儿说你自己喜欢很重要",
+        "onboard_time": 1704907039,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10375,
+        "num": 10375,
+        "word": "2023CCMA获奖名单",
+        "onboard_time": 1704901771,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10067,
+        "num": 10067,
+        "word": "赵昭仪去泰国了",
+        "onboard_time": 1704880230,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马尔代夫总统会谈#"
+    }
+  }
+}

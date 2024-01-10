@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704918861741,
+  "endTime": 1704921280330,
   "band_list": [
     {
       "raw_hot": 2076798,
@@ -451,20 +451,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12970,
+      "raw_hot": 30150,
+      "num": 16967,
+      "word": "47岁男子没要到3000元生活费纵火烧家",
+      "onboard_time": 1704918552,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14538,
       "num": 16812,
       "word": "宝宝你是一捧小猫",
       "onboard_time": 1704913933,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 11207,
-      "num": 11207,
-      "word": "47岁男子没要到3000元生活费纵火烧家",
-      "onboard_time": 1704918552,
-      "rank": 47,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

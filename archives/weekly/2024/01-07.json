@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704918861741,
+  "endTime": 1704921280330,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -11363,6 +11363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30150,
+      "num": 16967,
+      "word": "47岁男子没要到3000元生活费纵火烧家",
+      "onboard_time": 1704918552,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28544,
       "num": 33206,
       "word": "傅菁翻跳guilty",
@@ -11483,6 +11491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14538,
+      "num": 16812,
+      "word": "宝宝你是一捧小猫",
+      "onboard_time": 1704913933,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14035,
       "num": 14843,
       "word": "烘手手的小猫太可爱了",
@@ -11497,22 +11513,6 @@
       "onboard_time": 1704742334,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 12970,
-      "num": 16812,
-      "word": "宝宝你是一捧小猫",
-      "onboard_time": 1704913933,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 11207,
-      "num": 11207,
-      "word": "47岁男子没要到3000元生活费纵火烧家",
-      "onboard_time": 1704918552,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10934,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704918861741,
+  "endTime": 1704921280330,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -27187,6 +27187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30150,
+      "num": 16967,
+      "word": "47岁男子没要到3000元生活费纵火烧家",
+      "onboard_time": 1704918552,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28544,
       "num": 33206,
       "word": "傅菁翻跳guilty",
@@ -27475,6 +27483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14538,
+      "num": 16812,
+      "word": "宝宝你是一捧小猫",
+      "onboard_time": 1704913933,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14440,
       "num": 19396,
       "word": "NMIXX概念预告",
@@ -27523,14 +27539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 12970,
-      "num": 16812,
-      "word": "宝宝你是一捧小猫",
-      "onboard_time": 1704913933,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 12737,
       "num": 12737,
       "word": "王者荣耀新赛季",
@@ -27561,14 +27569,6 @@
       "onboard_time": 1704137535,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11207,
-      "num": 11207,
-      "word": "47岁男子没要到3000元生活费纵火烧家",
-      "onboard_time": 1704918552,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11064,
