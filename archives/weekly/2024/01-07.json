@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704903836383,
+  "endTime": 1704904718567,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -115,20 +115,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2076798,
+      "num": 2076798,
+      "word": "25岁姑娘体检发现结节无症状确诊肺癌",
+      "onboard_time": 1704901291,
+      "rank": 0,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 2040575,
       "num": 2040575,
       "word": "发朋友圈被误认为出国的旅游地",
       "onboard_time": 1704769110,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1989959,
-      "num": 1989959,
-      "word": "25岁姑娘体检发现结节无症状确诊肺癌",
-      "onboard_time": 1704901291,
-      "rank": 0,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1863825,
@@ -3787,6 +3787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339247,
+      "num": 136895,
+      "word": "飞机上拒绝了想换座的情侣",
+      "onboard_time": 1704901830,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 338719,
       "num": 338719,
       "word": "沈耀跟程雨杉在一起了",
@@ -4025,14 +4033,6 @@
       "onboard_time": 1704725014,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 315585,
-      "num": 136895,
-      "word": "飞机上拒绝了想换座的情侣",
-      "onboard_time": 1704901830,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 315578,
@@ -5665,6 +5665,14 @@
       "onboard_time": 1704595409,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210910,
+      "num": 210910,
+      "word": "上影花5亿买基地支持繁花拍摄",
+      "onboard_time": 1704899254,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 210784,
@@ -8459,14 +8467,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 147122,
-      "num": 147122,
-      "word": "上影花5亿买基地支持繁花拍摄",
-      "onboard_time": 1704899254,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147076,
       "num": 147076,
       "word": "繁花爷叔离开宝总",
@@ -10737,6 +10737,14 @@
       "onboard_time": 1704607170,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91705,
+      "num": 91705,
+      "word": "崩坏3第二部",
+      "onboard_time": 1704903865,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 91560,
