@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704908040387,
+  "endTime": 1704910954498,
   "band_list": [
     {
       "raw_hot": 2076798,
@@ -251,12 +251,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 105937,
+      "num": 105937,
+      "word": "17岁女孩捡到16万现金主动交还",
+      "onboard_time": 1704908239,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 100271,
       "num": 116390,
       "word": "外交部回应南非诉以色列种族灭绝",
       "onboard_time": 1704899557,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 95415,
+      "num": 95415,
+      "word": "我知道我爱你",
+      "onboard_time": 1704906200,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 94167,
@@ -347,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63963,
-      "num": 56493,
-      "word": "我知道我爱你",
-      "onboard_time": 1704906200,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 63144,
       "num": 111077,
       "word": "王家卫 细节控",
@@ -428,10 +436,18 @@
     },
     {
       "raw_hot": 33259,
-      "num": 33259,
+      "num": 34671,
       "word": "爸爸对女儿说你自己喜欢很重要",
       "onboard_time": 1704907039,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16038,
+      "num": 34665,
+      "word": "为啥网上的药比实体药店更便宜",
+      "onboard_time": 1704910936,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],

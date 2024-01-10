@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704908040387,
+  "endTime": 1704910954498,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -24955,6 +24955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105937,
+      "num": 105937,
+      "word": "17岁女孩捡到16万现金主动交还",
+      "onboard_time": 1704908239,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 105742,
       "num": 233124,
       "word": "张艺兴新年开门红",
@@ -25505,6 +25513,14 @@
       "onboard_time": 1704079593,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95415,
+      "num": 95415,
+      "word": "我知道我爱你",
+      "onboard_time": 1704906200,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 95413,
@@ -26281,14 +26297,6 @@
       "onboard_time": 1704875193,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 63963,
-      "num": 56493,
-      "word": "我知道我爱你",
-      "onboard_time": 1704906200,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 63795,
@@ -27068,7 +27076,7 @@
     },
     {
       "raw_hot": 33259,
-      "num": 33259,
+      "num": 34671,
       "word": "爸爸对女儿说你自己喜欢很重要",
       "onboard_time": 1704907039,
       "rank": 44,
@@ -27409,6 +27417,14 @@
       "onboard_time": 1704639155,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16038,
+      "num": 34665,
+      "word": "为啥网上的药比实体药店更便宜",
+      "onboard_time": 1704910936,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15758,
