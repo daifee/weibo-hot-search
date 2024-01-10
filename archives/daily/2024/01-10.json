@@ -1,7 +1,15 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704850743781,
+  "endTime": 1704853848436,
   "band_list": [
+    {
+      "raw_hot": 2449707,
+      "num": 2449707,
+      "word": "明年起连续5年没有年三十",
+      "onboard_time": 1704848371,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2401484,
       "num": 2401484,
@@ -9,14 +17,6 @@
       "onboard_time": 1704804513,
       "rank": 0,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 2361541,
-      "num": 2361541,
-      "word": "明年起连续5年没有年三十",
-      "onboard_time": 1704848371,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1447276,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1291977,
+      "num": 1291977,
+      "word": "花10万中2.2亿彩票事件调查进展",
+      "onboard_time": 1704851129,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1140854,
       "num": 1140854,
       "word": "厄瓜多尔",
@@ -51,7 +59,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 860615,
+      "raw_hot": 961949,
       "num": 860615,
       "word": "胡歌 国人自己的莱昂纳多",
       "onboard_time": 1704849030,
@@ -73,6 +81,14 @@
       "onboard_time": 1704842905,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 767837,
+      "num": 767837,
+      "word": "7年恋爱被劝分情侣后续",
+      "onboard_time": 1704849630,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 765617,
@@ -131,12 +147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604155,
+      "num": 479203,
+      "word": "救护车被私家车堵住患者经抢救无效死亡",
+      "onboard_time": 1704851790,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594928,
       "num": 594928,
       "word": "仙剑3三美齐聚微博之夜",
       "onboard_time": 1704847412,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 591729,
+      "num": 591729,
+      "word": "台湾小当归哈尔滨街边被疯狂投喂",
+      "onboard_time": 1704850833,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546487,
@@ -161,6 +193,14 @@
       "onboard_time": 1704812434,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 518136,
+      "num": 518136,
+      "word": "厄瓜多尔宣布进入紧急状态",
+      "onboard_time": 1704851850,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 513813,
@@ -195,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479289,
+      "num": 479289,
+      "word": "辛芷蕾工作室 认真营业",
+      "onboard_time": 1704851190,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 477227,
       "num": 477227,
       "word": "董宇辉新号首播带货超1亿元",
@@ -209,6 +257,14 @@
       "onboard_time": 1704814651,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 471827,
+      "num": 471827,
+      "word": "教资面试成绩",
+      "onboard_time": 1704852088,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 470893,
@@ -251,6 +307,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 384041,
+      "num": 384041,
+      "word": "等国考成绩",
+      "onboard_time": 1704853352,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 379630,
+      "num": 379630,
+      "word": "A股",
+      "onboard_time": 1704851312,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 370071,
       "num": 297961,
       "word": "A先生 胡歌的脸",
@@ -264,6 +336,14 @@
       "word": "进去的人比进去的球还多",
       "onboard_time": 1704810275,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 342414,
+      "num": 342414,
+      "word": "李铁带队八连胜冲超离不开钞能力",
+      "onboard_time": 1704851129,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -307,14 +387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 311396,
-      "num": 311396,
-      "word": "7年恋爱被劝分情侣后续",
-      "onboard_time": 1704849630,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 304697,
       "num": 304697,
       "word": "A股市值超过40%与房地产相关",
@@ -331,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264403,
+      "num": 264403,
+      "word": "李铁收钱让人进国家队看得俱乐部脸红",
+      "onboard_time": 1704850710,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 264104,
       "num": 192571,
       "word": "繁花每个人都有结局",
@@ -345,6 +425,14 @@
       "onboard_time": 1704811417,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248222,
+      "num": 248222,
+      "word": "熬夜后的恢复方法",
+      "onboard_time": 1704849990,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 246372,
@@ -379,12 +467,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 212064,
-      "num": 212064,
-      "word": "熬夜后的恢复方法",
-      "onboard_time": 1704849990,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 219006,
+      "num": 219006,
+      "word": "A先生 替身文学",
+      "onboard_time": 1704852753,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205221,
+      "num": 205221,
+      "word": "苹果自称拥有五个应用商店",
+      "onboard_time": 1704852088,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 201426,
@@ -401,6 +497,14 @@
       "onboard_time": 1704813695,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 198724,
+      "num": 198724,
+      "word": "飞驰人生2定档",
+      "onboard_time": 1704853650,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 193173,
@@ -475,8 +579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162234,
-      "num": 162234,
+      "raw_hot": 163987,
+      "num": 163987,
       "word": "微博之夜经典造型",
       "onboard_time": 1704849990,
       "rank": 36,
@@ -539,12 +643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144645,
-      "num": 144645,
-      "word": "李铁收钱让人进国家队看得俱乐部脸红",
-      "onboard_time": 1704850710,
-      "rank": 44,
-      "category": "体育,社会新闻"
+      "raw_hot": 145940,
+      "num": 145940,
+      "word": "成都一慈善组织用AI合成照片募捐",
+      "onboard_time": 1704853051,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143961,

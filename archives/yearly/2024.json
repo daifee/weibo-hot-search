@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704850743781,
+  "endTime": 1704853848436,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2449707,
+      "num": 2449707,
+      "word": "明年起连续5年没有年三十",
+      "onboard_time": 1704848371,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2406378,
       "num": 2406378,
       "word": "日本称只接受美国援助",
@@ -248,14 +256,6 @@
       "word": "龙年纪念币",
       "onboard_time": 1704291034,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2361541,
-      "num": 2361541,
-      "word": "明年起连续5年没有年三十",
-      "onboard_time": 1704848371,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1217,6 +1217,14 @@
       "onboard_time": 1704256474,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1291977,
+      "num": 1291977,
+      "word": "花10万中2.2亿彩票事件调查进展",
+      "onboard_time": 1704851129,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1290383,
@@ -2227,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 961949,
+      "num": 860615,
+      "word": "胡歌 国人自己的莱昂纳多",
+      "onboard_time": 1704849030,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 960607,
       "num": 960607,
       "word": "武艺 我爸妈都没那么使唤我",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704344076,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 929134,
-      "num": 589507,
-      "word": "日本多个核电站燃料池水溢出",
-      "onboard_time": 1704154296,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 927768,
-      "num": 927768,
-      "word": "B站2023百大UP主",
-      "onboard_time": 1704167978,
-      "rank": 4,
-      "category": "互联网,网红"
     }
   ],
   "hotgov_list": [
