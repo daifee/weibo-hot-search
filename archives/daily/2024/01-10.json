@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704875767656,
+  "endTime": 1704878276146,
   "band_list": [
     {
       "raw_hot": 2896872,
@@ -40,6 +40,14 @@
       "word": "谁领到了中国第一张身份证",
       "onboard_time": 1704858091,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1505669,
+      "num": 1505669,
+      "word": "科兴新冠疫苗已停产",
+      "onboard_time": 1704877291,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -91,8 +99,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1233456,
-      "num": 1233456,
+      "raw_hot": 1277890,
+      "num": 1277890,
       "word": "复旦本科毕业生直接就业不到两成",
       "onboard_time": 1704873510,
       "rank": 1,
@@ -153,6 +161,14 @@
       "onboard_time": 1704869793,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 903366,
+      "num": 903366,
+      "word": "年底裸辞赶上了招聘荒",
+      "onboard_time": 1704876152,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 877823,
@@ -283,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 699823,
+      "num": 699823,
+      "word": "代入一下秦岚真的要心梗了",
+      "onboard_time": 1704874472,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 684663,
       "num": 684663,
       "word": "王一博官宣街舞6总决赛",
@@ -337,6 +361,14 @@
       "onboard_time": 1704858512,
       "rank": 13,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 620793,
+      "num": 620793,
+      "word": "12306推出学生务工人员春运专区",
+      "onboard_time": 1704874353,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 605780,
@@ -539,14 +571,6 @@
       "category": "剧集,体育"
     },
     {
-      "raw_hot": 448724,
-      "num": 448724,
-      "word": "12306推出学生务工人员春运专区",
-      "onboard_time": 1704874353,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 445146,
       "num": 83307,
       "word": "从CCTV5到CCTV1",
@@ -571,11 +595,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 426568,
+      "num": 426568,
+      "word": "刘建宏回应曾称赞李铁正直",
+      "onboard_time": 1704875489,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417483,
       "num": 417483,
       "word": "妈妈为救儿子4个月狂减20斤",
       "onboard_time": 1704855989,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416135,
+      "num": 416135,
+      "word": "第一次听到4岁女儿叫爸爸他哭了",
+      "onboard_time": 1704876032,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -651,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361318,
+      "num": 361318,
+      "word": "原来肠道不健康会影响情绪",
+      "onboard_time": 1704875552,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 352038,
       "num": 352038,
       "word": "魏大勋在胡一天一声声哥哥中迷失",
@@ -700,7 +748,7 @@
     },
     {
       "raw_hot": 326539,
-      "num": 183192,
+      "num": 301800,
       "word": "终于懂为什么说有的皮肤手感好了",
       "onboard_time": 1704874111,
       "rank": 31,
@@ -723,20 +771,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 314688,
-      "num": 314688,
-      "word": "代入一下秦岚真的要心梗了",
-      "onboard_time": 1704874472,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 314196,
       "num": 314196,
       "word": "王星越抱着外甥女放烟花",
       "onboard_time": 1704862714,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311051,
+      "num": 311051,
+      "word": "江苏警方通报2死凶杀案",
+      "onboard_time": 1704877230,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307279,
@@ -763,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296170,
+      "num": 296170,
+      "word": "王者海诺新皮肤",
+      "onboard_time": 1704875790,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290135,
       "num": 290135,
       "word": "公司办不起年会就别办了",
@@ -777,6 +833,14 @@
       "onboard_time": 1704815129,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265752,
+      "num": 265752,
+      "word": "男子为证明车有问题花20万再购同款车",
+      "onboard_time": 1704875072,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264403,
@@ -955,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215336,
+      "num": 215336,
+      "word": "肖战获微博网友喜爱人物",
+      "onboard_time": 1704877471,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208856,
       "num": 208856,
       "word": "急性心梗发作前有哪些症状",
@@ -985,6 +1057,14 @@
       "onboard_time": 1704856953,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205345,
+      "num": 198476,
+      "word": "王安宇 演过会弹吉他织毛衣的人",
+      "onboard_time": 1704875732,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 205213,
@@ -1081,14 +1161,6 @@
       "onboard_time": 1704866792,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192055,
-      "num": 192055,
-      "word": "刘建宏回应曾称赞李铁正直",
-      "onboard_time": 1704875489,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188969,
@@ -1347,12 +1419,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 158352,
+      "num": 158352,
+      "word": "excuse咪 打扰了",
+      "onboard_time": 1704876754,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158351,
       "num": 158351,
       "word": "与辉同行",
       "onboard_time": 1704857370,
       "rank": 42,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 158174,
+      "num": 158174,
+      "word": "肚子容易长肉是为啥",
+      "onboard_time": 1704877771,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 157570,
@@ -1435,12 +1523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144984,
-      "num": 144984,
-      "word": "男子为证明车有问题花20万再购同款车",
-      "onboard_time": 1704875072,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 146802,
+      "num": 146802,
+      "word": "科目三原版原创朱开红",
+      "onboard_time": 1704877230,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145735,
+      "num": 145735,
+      "word": "被数字的中文写法震惊到的外国人",
+      "onboard_time": 1704877710,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 143961,
@@ -1465,14 +1561,6 @@
       "onboard_time": 1704825673,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140404,
-      "num": 140404,
-      "word": "原来肠道不健康会影响情绪",
-      "onboard_time": 1704875552,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 138518,
@@ -1579,14 +1667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127351,
-      "num": 127351,
-      "word": "王安宇 演过会弹吉他织毛衣的人",
-      "onboard_time": 1704875732,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125679,
       "num": 125679,
       "word": "樊振东晒波尔赠送的球衣",
@@ -1627,6 +1707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 117548,
+      "num": 117548,
+      "word": "王凯回应作品和曝光量减少",
+      "onboard_time": 1704878013,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115721,
       "num": 115721,
       "word": "自测脊柱侧弯的方法",
@@ -1659,6 +1747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106495,
+      "num": 106495,
+      "word": "王一博张艺兴同回街舞6",
+      "onboard_time": 1704878253,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105169,
       "num": 105169,
       "word": "日经225指数突破34000点",
@@ -1668,7 +1764,7 @@
     },
     {
       "raw_hot": 104758,
-      "num": 805574,
+      "num": 1041258,
       "word": "愿每一次出警都平安归来",
       "onboard_time": 1704842423,
       "rank": 27,
