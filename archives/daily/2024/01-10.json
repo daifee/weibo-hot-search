@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704890047090,
+  "endTime": 1704890978160,
   "band_list": [
     {
       "raw_hot": 2896872,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1547091,
+      "num": 1547091,
+      "word": "孙俪状态",
+      "onboard_time": 1704888153,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1503665,
       "num": 1503665,
       "word": "花10万中2.2亿彩票事件调查进展",
@@ -73,14 +81,6 @@
       "onboard_time": 1704846449,
       "rank": 0,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1422351,
-      "num": 1422351,
-      "word": "孙俪状态",
-      "onboard_time": 1704888153,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1369226,
@@ -137,6 +137,14 @@
       "onboard_time": 1704873510,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1166315,
+      "num": 1166315,
+      "word": "诗幂 金角银角",
+      "onboard_time": 1704889413,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1140854,
@@ -257,6 +265,14 @@
       "onboard_time": 1704849630,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 799202,
+      "num": 799202,
+      "word": "朱珠这衣服换我穿就是红秋衣",
+      "onboard_time": 1704888869,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 798847,
@@ -491,16 +507,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 579463,
-      "num": 579463,
-      "word": "诗幂 金角银角",
-      "onboard_time": 1704889413,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 573409,
-      "num": 573409,
+      "raw_hot": 576135,
+      "num": 576135,
       "word": "肯德基回应吃出生肉",
       "onboard_time": 1704886710,
       "rank": 8,
@@ -571,12 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 525542,
-      "num": 525542,
-      "word": "朱珠这衣服换我穿就是红秋衣",
-      "onboard_time": 1704888869,
-      "rank": 9,
-      "category": "作品衍生"
+      "raw_hot": 514908,
+      "num": 514908,
+      "word": "鹅厂长公主官宣闺蜜",
+      "onboard_time": 1704885452,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 513813,
@@ -835,6 +843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 378889,
+      "num": 378889,
+      "word": "何猷君不知道奚梦瑶支付密码",
+      "onboard_time": 1704890192,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373878,
       "num": 373878,
       "word": "林俊杰黑粉发声明致歉",
@@ -865,14 +881,6 @@
       "onboard_time": 1704875552,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 362899,
-      "num": 362899,
-      "word": "鹅厂长公主官宣闺蜜",
-      "onboard_time": 1704885452,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 362550,
@@ -987,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313795,
+      "num": 158688,
+      "word": "辛芷蕾金色吊带",
+      "onboard_time": 1704890192,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 307279,
       "num": 307279,
       "word": "A先生 替身文学",
@@ -1035,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266310,
+      "num": 197870,
+      "word": "为什么会两个月内频繁发烧",
+      "onboard_time": 1704887971,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265924,
       "num": 265924,
       "word": "李宇春优雅薄纱半裙",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1704814111,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260608,
+      "num": 174011,
+      "word": "金晨穿羽绒服走红毯",
+      "onboard_time": 1704890612,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 259389,
@@ -1089,14 +1121,6 @@
       "onboard_time": 1704874773,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250173,
-      "num": 197870,
-      "word": "为什么会两个月内频繁发烧",
-      "onboard_time": 1704887971,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248222,
@@ -1272,6 +1296,14 @@
       "word": "杨幂西装杀伤力",
       "onboard_time": 1704885093,
       "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210847,
+      "num": 172508,
+      "word": "杨幂刘诗诗又坐一起",
+      "onboard_time": 1704890491,
+      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -1620,7 +1652,7 @@
     },
     {
       "raw_hot": 177536,
-      "num": 149190,
+      "num": 151370,
       "word": "中领馆回应中国芭蕾女演员在德失联5天",
       "onboard_time": 1704889291,
       "rank": 31,
@@ -1673,6 +1705,14 @@
       "onboard_time": 1704848790,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171370,
+      "num": 171370,
+      "word": "尔滨失物招领遥遥领先",
+      "onboard_time": 1704889832,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 170656,
@@ -1779,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159160,
+      "num": 159160,
+      "word": "蒙牛客服回应袋装奶包装南北差异",
+      "onboard_time": 1704890612,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158581,
       "num": 158581,
       "word": "山西确实盛产大闸蟹",
@@ -1801,6 +1849,14 @@
       "onboard_time": 1704857370,
       "rank": 42,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 157848,
+      "num": 157848,
+      "word": "天官赐福",
+      "onboard_time": 1704890731,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 157570,
@@ -1857,6 +1913,14 @@
       "onboard_time": 1704879332,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151766,
+      "num": 150153,
+      "word": "辛芷蕾红毯被夸繁花演得太好了",
+      "onboard_time": 1704890673,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 150582,
@@ -1939,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140210,
+      "num": 140210,
+      "word": "对手退赛林高远林诗栋自动晋级",
+      "onboard_time": 1704890012,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139316,
       "num": 139316,
       "word": "大嘴厚唇核心变美思路",
@@ -1995,20 +2067,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136747,
+      "num": 136747,
+      "word": "学生作弊被抓后纠缠监考老师",
+      "onboard_time": 1704890731,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 136135,
       "num": 136135,
       "word": "仰望U7官图发布",
       "onboard_time": 1704885393,
       "rank": 42,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 135696,
-      "num": 135696,
-      "word": "尔滨失物招领遥遥领先",
-      "onboard_time": 1704889832,
-      "rank": 37,
-      "category": "旅游"
     },
     {
       "raw_hot": 135641,
@@ -2091,6 +2163,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 130152,
+      "num": 130152,
+      "word": "全国城市30岁人群未婚率超30%",
+      "onboard_time": 1704890430,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129640,
       "num": 129640,
       "word": "白鹿睡衣素颜自拍",
@@ -2171,6 +2251,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 116716,
+      "num": 116716,
+      "word": "哈尔滨这4条街是以英雄名字命名",
+      "onboard_time": 1704890134,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 115721,
       "num": 115721,
       "word": "自测脊柱侧弯的方法",
@@ -2195,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113868,
+      "num": 113868,
+      "word": "一只偷东西的笨蛋小狗",
+      "onboard_time": 1704889413,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113844,
       "num": 113844,
       "word": "怎么区分喜欢和爱",
@@ -2203,12 +2299,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109281,
-      "num": 109281,
-      "word": "一只偷东西的笨蛋小狗",
-      "onboard_time": 1704889413,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 108125,
+      "num": 108125,
+      "word": "屈楚萧戴墨镜走红毯",
+      "onboard_time": 1704890853,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106192,
+      "num": 106192,
+      "word": "王家卫 细节控",
+      "onboard_time": 1704890913,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 105169,
@@ -2233,14 +2337,6 @@
       "onboard_time": 1704882753,
       "rank": 45,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 104563,
-      "num": 104563,
-      "word": "对手退赛林高远林诗栋自动晋级",
-      "onboard_time": 1704890012,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 104501,
