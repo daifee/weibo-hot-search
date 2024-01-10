@@ -1,0 +1,410 @@
+{
+  "runTime": 1704850743781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2361541,
+        "num": 2361541,
+        "word": "明年起连续5年没有年三十",
+        "onboard_time": 1704848371,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1437921,
+        "num": 1437921,
+        "word": "停止乱吃气血就回来了",
+        "onboard_time": 1704846449,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156669,
+        "num": 1264161,
+        "word": "反腐大片持续发力纵深推进第四集",
+        "onboard_time": 1704802351,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140854,
+        "num": 1140854,
+        "word": "厄瓜多尔",
+        "onboard_time": 1704849269,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 960740,
+        "num": 960740,
+        "word": "朱丹咬过的肉给周一围吃",
+        "onboard_time": 1704845489,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 860615,
+        "num": 860615,
+        "word": "胡歌 国人自己的莱昂纳多",
+        "onboard_time": 1704849030,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 830731,
+        "num": 830731,
+        "word": "李铁行贿300万当上国足主教练",
+        "onboard_time": 1704804513,
+        "rank": 6,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 650497,
+        "num": 650497,
+        "word": "宝总李李真亲了",
+        "onboard_time": 1704842905,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 594928,
+        "num": 594928,
+        "word": "仙剑3三美齐聚微博之夜",
+        "onboard_time": 1704847412,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 546487,
+        "num": 546487,
+        "word": "我们为什么可以脱口而出110",
+        "onboard_time": 1704846091,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504546,
+        "num": 504546,
+        "word": "韩庚 今年哈尔滨明年牡丹江可好",
+        "onboard_time": 1704844708,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489905,
+        "num": 489905,
+        "word": "街道办回应要求返乡过年人员要报备",
+        "onboard_time": 1704841821,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461773,
+        "num": 461773,
+        "word": "李李出家",
+        "onboard_time": 1704802470,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398965,
+        "num": 398965,
+        "word": "贪官家被搜查时还有人敲门送礼",
+        "onboard_time": 1704845071,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377872,
+        "num": 377872,
+        "word": "冬天起不来是身体在保护你",
+        "onboard_time": 1704839836,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 364975,
+        "num": 364975,
+        "word": "专家建议尽快调整退休年龄",
+        "onboard_time": 1704782670,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359484,
+        "num": 359484,
+        "word": "男子打不着火被网友提醒房间缺氧",
+        "onboard_time": 1704816569,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347703,
+        "num": 347703,
+        "word": "早上宋慧乔 晚上宋小宝",
+        "onboard_time": 1704803190,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322039,
+        "num": 322039,
+        "word": "刚打工的白狐vs打工了几天的白狐",
+        "onboard_time": 1704848249,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311396,
+        "num": 311396,
+        "word": "7年恋爱被劝分情侣后续",
+        "onboard_time": 1704849630,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513813,
+        "num": 307515,
+        "word": "教授称房价下跌老百姓损失最大",
+        "onboard_time": 1704847356,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425416,
+        "num": 307016,
+        "word": "我妈劝我早点辞职",
+        "onboard_time": 1704847533,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380052,
+        "num": 306527,
+        "word": "当我知道领导月薪七万后",
+        "onboard_time": 1704843324,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303422,
+        "num": 303422,
+        "word": "收到了男朋友送的黄金手链",
+        "onboard_time": 1704844528,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285550,
+        "num": 285550,
+        "word": "A股市值超过40%与房地产相关",
+        "onboard_time": 1704847832,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 267162,
+        "num": 267162,
+        "word": "在职1万退休后只能拿4000",
+        "onboard_time": 1704801332,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248792,
+        "num": 248792,
+        "word": "进去的人比进去的球还多",
+        "onboard_time": 1704810275,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248416,
+        "num": 248416,
+        "word": "范志毅说和胡歌彻夜聊球",
+        "onboard_time": 1704811895,
+        "rank": 27,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 246372,
+        "num": 246372,
+        "word": "看 你的教资合格证",
+        "onboard_time": 1704805771,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 230575,
+        "num": 230575,
+        "word": "刘亦菲 巴黎",
+        "onboard_time": 1704843867,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229538,
+        "num": 229538,
+        "word": "东北小伙雕1.8米雪龙被当成吉祥物",
+        "onboard_time": 1704850233,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212064,
+        "num": 212064,
+        "word": "熬夜后的恢复方法",
+        "onboard_time": 1704849990,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201426,
+        "num": 201426,
+        "word": "主人打呼噜突然停了猫咪赶紧上前试探",
+        "onboard_time": 1704846272,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184288,
+        "num": 184288,
+        "word": "请和我的老公结婚",
+        "onboard_time": 1704811417,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181978,
+        "num": 181978,
+        "word": "金莎回应被说女油王",
+        "onboard_time": 1704818423,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171472,
+        "num": 171472,
+        "word": "玲子的玲是玲娜贝儿的玲",
+        "onboard_time": 1704848790,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162234,
+        "num": 162234,
+        "word": "微博之夜经典造型",
+        "onboard_time": 1704849990,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158581,
+        "num": 158581,
+        "word": "山西确实盛产大闸蟹",
+        "onboard_time": 1704849391,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157863,
+        "num": 157863,
+        "word": "我们为何吃不起水果了",
+        "onboard_time": 1704848911,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155455,
+        "num": 155455,
+        "word": "吃辣和长痘没什么联系",
+        "onboard_time": 1704849091,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150208,
+        "num": 154205,
+        "word": "距离春节还有一个月",
+        "onboard_time": 1704849930,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153289,
+        "num": 153289,
+        "word": "董宇辉为哈尔滨爆火开心",
+        "onboard_time": 1704816988,
+        "rank": 41,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 149499,
+        "num": 149499,
+        "word": "李铁",
+        "onboard_time": 1704845009,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147698,
+        "num": 147698,
+        "word": "李铁两次带队进中超背后都是假球",
+        "onboard_time": 1704804213,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 144645,
+        "num": 144645,
+        "word": "李铁收钱让人进国家队看得俱乐部脸红",
+        "onboard_time": 1704850710,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 143961,
+        "num": 143961,
+        "word": "中国人民警察节",
+        "onboard_time": 1704842964,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 143684,
+        "num": 143684,
+        "word": "少先队员与警察同走海拔4040米边境",
+        "onboard_time": 1704850528,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143056,
+        "num": 143056,
+        "word": "董宇辉新号首播带货超1亿元",
+        "onboard_time": 1704810699,
+        "rank": 47,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 140545,
+        "num": 140545,
+        "word": "马思纯 两年终于拍戏了",
+        "onboard_time": 1704802229,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138721,
+        "num": 138721,
+        "word": "研究生英文演甄嬛传滴血验亲太炸裂",
+        "onboard_time": 1704847711,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐败绝对不能回头不能松懈不能慈悲#"
+    }
+  }
+}

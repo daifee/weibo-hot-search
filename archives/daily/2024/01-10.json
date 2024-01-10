@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704849441994,
+  "endTime": 1704850743781,
   "band_list": [
     {
       "raw_hot": 2401484,
@@ -9,6 +9,14 @@
       "onboard_time": 1704804513,
       "rank": 0,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 2361541,
+      "num": 2361541,
+      "word": "明年起连续5年没有年三十",
+      "onboard_time": 1704848371,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1447276,
@@ -27,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1140854,
+      "num": 1140854,
+      "word": "厄瓜多尔",
+      "onboard_time": 1704849269,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1056304,
       "num": 1056304,
       "word": "朱丹咬过的肉给周一围吃",
@@ -35,12 +51,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 902886,
-      "num": 902886,
-      "word": "明年起连续5年没有年三十",
-      "onboard_time": 1704848371,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 860615,
+      "num": 860615,
+      "word": "胡歌 国人自己的莱昂纳多",
+      "onboard_time": 1704849030,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 814346,
@@ -115,12 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 582136,
-      "num": 582136,
+      "raw_hot": 594928,
+      "num": 594928,
       "word": "仙剑3三美齐聚微博之夜",
       "onboard_time": 1704847412,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546487,
+      "num": 546487,
+      "word": "我们为什么可以脱口而出110",
+      "onboard_time": 1704846091,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 532229,
@@ -139,28 +163,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 513813,
+      "num": 326103,
+      "word": "教授称房价下跌老百姓损失最大",
+      "onboard_time": 1704847356,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508980,
       "num": 508980,
       "word": "董宇辉为哈尔滨爆火开心",
       "onboard_time": 1704816988,
       "rank": 22,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 494036,
-      "num": 494036,
-      "word": "我们为什么可以脱口而出110",
-      "onboard_time": 1704846091,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 488144,
-      "num": 326103,
-      "word": "教授称房价下跌老百姓损失最大",
-      "onboard_time": 1704847356,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 483159,
@@ -275,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322039,
+      "num": 322039,
+      "word": "刚打工的白狐vs打工了几天的白狐",
+      "onboard_time": 1704848249,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 316373,
       "num": 275908,
       "word": "田曦薇雪中撑伞",
@@ -283,20 +307,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 311396,
+      "num": 311396,
+      "word": "7年恋爱被劝分情侣后续",
+      "onboard_time": 1704849630,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304697,
       "num": 304697,
       "word": "A股市值超过40%与房地产相关",
       "onboard_time": 1704847832,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 292258,
-      "num": 292258,
-      "word": "刚打工的白狐vs打工了几天的白狐",
-      "onboard_time": 1704848249,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 271041,
@@ -315,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260235,
-      "num": 260235,
-      "word": "胡歌 国人自己的莱昂纳多",
-      "onboard_time": 1704849030,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 259389,
       "num": 227747,
       "word": "请和我的老公结婚",
@@ -331,8 +347,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242607,
-      "num": 242607,
+      "raw_hot": 246372,
+      "num": 246372,
       "word": "看 你的教资合格证",
       "onboard_time": 1704805771,
       "rank": 23,
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229538,
+      "num": 229538,
+      "word": "东北小伙雕1.8米雪龙被当成吉祥物",
+      "onboard_time": 1704850233,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223007,
       "num": 223007,
       "word": "魔卡少女樱 小樱绝美手办",
@@ -355,20 +379,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 212064,
+      "num": 212064,
+      "word": "熬夜后的恢复方法",
+      "onboard_time": 1704849990,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201426,
+      "num": 201426,
+      "word": "主人打呼噜突然停了猫咪赶紧上前试探",
+      "onboard_time": 1704846272,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200617,
       "num": 200617,
       "word": "有效化妆与无效化妆",
       "onboard_time": 1704813695,
       "rank": 17,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 197448,
-      "num": 197448,
-      "word": "主人打呼噜突然停了猫咪赶紧上前试探",
-      "onboard_time": 1704846272,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 193173,
@@ -419,16 +451,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 177300,
-      "num": 177300,
-      "word": "厄瓜多尔",
-      "onboard_time": 1704849269,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175636,
-      "num": 1059963,
+      "num": 1264161,
       "word": "反腐大片持续发力纵深推进第四集",
       "onboard_time": 1704802351,
       "rank": 37,
@@ -451,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162234,
+      "num": 162234,
+      "word": "微博之夜经典造型",
+      "onboard_time": 1704849990,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159850,
       "num": 159850,
       "word": "我们为何吃不起水果了",
@@ -467,12 +499,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158581,
+      "num": 158581,
+      "word": "山西确实盛产大闸蟹",
+      "onboard_time": 1704849391,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 152868,
       "num": 152868,
       "word": "哈尔滨蔓越莓",
       "onboard_time": 1704846570,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 150208,
+      "num": 154205,
+      "word": "距离春节还有一个月",
+      "onboard_time": 1704849930,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149913,
@@ -491,12 +539,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145453,
-      "num": 145453,
-      "word": "山西确实盛产大闸蟹",
-      "onboard_time": 1704849391,
-      "rank": 48,
-      "category": "美食"
+      "raw_hot": 144645,
+      "num": 144645,
+      "word": "李铁收钱让人进国家队看得俱乐部脸红",
+      "onboard_time": 1704850710,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 143961,
+      "num": 143961,
+      "word": "中国人民警察节",
+      "onboard_time": 1704842964,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 143684,
+      "num": 143684,
+      "word": "少先队员与警察同走海拔4040米边境",
+      "onboard_time": 1704850528,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142479,
@@ -505,14 +569,6 @@
       "onboard_time": 1704825673,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142269,
-      "num": 142269,
-      "word": "中国人民警察节",
-      "onboard_time": 1704842964,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 138518,
