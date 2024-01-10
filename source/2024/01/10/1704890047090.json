@@ -1,0 +1,410 @@
+{
+  "runTime": 1704890047090,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1422351,
+        "num": 1422351,
+        "word": "孙俪状态",
+        "onboard_time": 1704888153,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1366139,
+        "num": 1366139,
+        "word": "在德失联中国芭蕾女舞者已找到",
+        "onboard_time": 1704885754,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14462,
+        "num": 1051928,
+        "word": "愿每一次出警都平安归来",
+        "onboard_time": 1704842423,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751950,
+        "num": 751950,
+        "word": "易烊千玺赵今麦 白夜行",
+        "onboard_time": 1704882093,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 689576,
+        "num": 689576,
+        "word": "始祖鸟龙年冲锋衣炒到12000元",
+        "onboard_time": 1704884372,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 613707,
+        "num": 613707,
+        "word": "特朗普岳母去世",
+        "onboard_time": 1704886052,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 579463,
+        "num": 579463,
+        "word": "诗幂 金角银角",
+        "onboard_time": 1704889413,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 575036,
+        "num": 575036,
+        "word": "杨幂泼墨妆",
+        "onboard_time": 1704883171,
+        "rank": 7,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 573409,
+        "num": 573409,
+        "word": "肯德基回应吃出生肉",
+        "onboard_time": 1704886710,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525542,
+        "num": 525542,
+        "word": "朱珠这衣服换我穿就是红秋衣",
+        "onboard_time": 1704888869,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 518290,
+        "num": 518290,
+        "word": "科兴新冠疫苗已停产",
+        "onboard_time": 1704877291,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465458,
+        "num": 465458,
+        "word": "23岁男子长期高盐饮食血压成极高危型",
+        "onboard_time": 1704882873,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 459043,
+        "num": 459043,
+        "word": "央视评繁花可能成为孤品",
+        "onboard_time": 1704863372,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454687,
+        "num": 454687,
+        "word": "刘诗诗白敬亭同框",
+        "onboard_time": 1704887429,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447865,
+        "num": 447865,
+        "word": "第一次听到4岁女儿叫爸爸他哭了",
+        "onboard_time": 1704876032,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454062,
+        "num": 413736,
+        "word": "万茜长发",
+        "onboard_time": 1704881673,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 362899,
+        "num": 362899,
+        "word": "鹅厂长公主官宣闺蜜",
+        "onboard_time": 1704885452,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271718,
+        "num": 271718,
+        "word": "宋茜 顶级alpha",
+        "onboard_time": 1704883531,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265924,
+        "num": 265924,
+        "word": "李宇春优雅薄纱半裙",
+        "onboard_time": 1704888029,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198598,
+        "num": 198598,
+        "word": "何同学六年视频弹幕变化",
+        "onboard_time": 1704881372,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 298701,
+        "num": 198581,
+        "word": "跟相亲对象认识14天订婚了",
+        "onboard_time": 1704879450,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250173,
+        "num": 197870,
+        "word": "为什么会两个月内频繁发烧",
+        "onboard_time": 1704887971,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241450,
+        "num": 197510,
+        "word": "李庚希含泪笑看哭我了",
+        "onboard_time": 1704888573,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235571,
+        "num": 197103,
+        "word": "郑恺 和汪小姐怎么不算HE",
+        "onboard_time": 1704869793,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205451,
+        "num": 196610,
+        "word": "给鼠鼠当了10分钟坐骑",
+        "onboard_time": 1704887971,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229888,
+        "num": 196434,
+        "word": "赵昭仪去泰国了",
+        "onboard_time": 1704880230,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226963,
+        "num": 196027,
+        "word": "刘诗诗武侠风",
+        "onboard_time": 1704884490,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195808,
+        "num": 195808,
+        "word": "月洋和小羊星长城打卡",
+        "onboard_time": 1704889352,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157838,
+        "num": 157838,
+        "word": "12306回应务工人员春运专区只能预约硬座",
+        "onboard_time": 1704883352,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150901,
+        "num": 150901,
+        "word": "王一博张艺兴同回街舞6",
+        "onboard_time": 1704878253,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185612,
+        "num": 149873,
+        "word": "B太 偷偷再去看看梦想之家",
+        "onboard_time": 1704887071,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177536,
+        "num": 149190,
+        "word": "中领馆回应中国芭蕾女演员在德失联5天",
+        "onboard_time": 1704889291,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146379,
+        "num": 148769,
+        "word": "DRG白玉梦影星元",
+        "onboard_time": 1704888749,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148377,
+        "num": 148377,
+        "word": "央视曝李铁案关系网",
+        "onboard_time": 1704872251,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 143206,
+        "num": 143206,
+        "word": "杨幂西装杀伤力",
+        "onboard_time": 1704885093,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139948,
+        "num": 139948,
+        "word": "阿宝替身晒胡歌的签名照",
+        "onboard_time": 1704884310,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136234,
+        "num": 136234,
+        "word": "王楚钦孙颖莎2024开门红",
+        "onboard_time": 1704884014,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135696,
+        "num": 135696,
+        "word": "尔滨失物招领遥遥领先",
+        "onboard_time": 1704889832,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132134,
+        "num": 132134,
+        "word": "散粉的多种用法",
+        "onboard_time": 1704888810,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 131878,
+        "num": 131878,
+        "word": "迪拜小哥从沙漠来感受尔滨冬天",
+        "onboard_time": 1704880712,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127264,
+        "num": 127264,
+        "word": "肖战获微博网友喜爱人物",
+        "onboard_time": 1704877471,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114988,
+        "num": 114988,
+        "word": "真正的致癌元凶是这4种食物",
+        "onboard_time": 1704866491,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113777,
+        "num": 113777,
+        "word": "持优待证小男孩被全网关心后续来了",
+        "onboard_time": 1704880230,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112748,
+        "num": 112748,
+        "word": "陈梦王曼昱3比0李时温金娜英",
+        "onboard_time": 1704885991,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111378,
+        "num": 111378,
+        "word": "律师谈黎斐私吞李铁600万元",
+        "onboard_time": 1704882931,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109281,
+        "num": 109281,
+        "word": "一只偷东西的笨蛋小狗",
+        "onboard_time": 1704889413,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108164,
+        "num": 108164,
+        "word": "小狗狗你的手好小啊",
+        "onboard_time": 1704880831,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105341,
+        "num": 105341,
+        "word": "微博之夜最新官宣",
+        "onboard_time": 1704870930,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104563,
+        "num": 104563,
+        "word": "对手退赛林高远林诗栋自动晋级",
+        "onboard_time": 1704890012,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102303,
+        "num": 102303,
+        "word": "W年度盛典",
+        "onboard_time": 1704885030,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#一体推进不敢腐不能腐不想腐#"
+    }
+  }
+}

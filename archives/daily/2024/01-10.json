@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704886454798,
+  "endTime": 1704890047090,
   "band_list": [
     {
       "raw_hot": 2896872,
@@ -75,11 +75,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1422351,
+      "num": 1422351,
+      "word": "孙俪状态",
+      "onboard_time": 1704888153,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1369226,
       "num": 564553,
       "word": "萝莉岛",
       "onboard_time": 1704859532,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1366139,
+      "num": 1366139,
+      "word": "在德失联中国芭蕾女舞者已找到",
+      "onboard_time": 1704885754,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -347,8 +363,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 688525,
-      "num": 688525,
+      "raw_hot": 689576,
+      "num": 689576,
       "word": "始祖鸟龙年冲锋衣炒到12000元",
       "onboard_time": 1704884372,
       "rank": 14,
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613707,
+      "num": 613707,
+      "word": "特朗普岳母去世",
+      "onboard_time": 1704886052,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 605780,
       "num": 605780,
       "word": "贪官家被搜查时还有人敲门送礼",
@@ -465,6 +489,22 @@
       "onboard_time": 1704860493,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 579463,
+      "num": 579463,
+      "word": "诗幂 金角银角",
+      "onboard_time": 1704889413,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 573409,
+      "num": 573409,
+      "word": "肯德基回应吃出生肉",
+      "onboard_time": 1704886710,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 569709,
@@ -529,6 +569,14 @@
       "onboard_time": 1704812434,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 525542,
+      "num": 525542,
+      "word": "朱珠这衣服换我穿就是红秋衣",
+      "onboard_time": 1704888869,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 513813,
@@ -665,6 +713,14 @@
       "onboard_time": 1704878253,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 454687,
+      "num": 454687,
+      "word": "刘诗诗白敬亭同框",
+      "onboard_time": 1704887429,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 450982,
@@ -811,6 +867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 362899,
+      "num": 362899,
+      "word": "鹅厂长公主官宣闺蜜",
+      "onboard_time": 1704885452,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 362550,
       "num": 362550,
       "word": "寻子18年得知儿子已去世",
@@ -841,14 +905,6 @@
       "onboard_time": 1704883531,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 347987,
-      "num": 300990,
-      "word": "鹅厂长公主官宣闺蜜",
-      "onboard_time": 1704885452,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 342414,
@@ -955,14 +1011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301004,
-      "num": 301004,
-      "word": "在德失联中国芭蕾女舞者已找到",
-      "onboard_time": 1704885754,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296170,
       "num": 296170,
       "word": "王者海诺新皮肤",
@@ -985,6 +1033,14 @@
       "onboard_time": 1704815129,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265924,
+      "num": 265924,
+      "word": "李宇春优雅薄纱半裙",
+      "onboard_time": 1704888029,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 264403,
@@ -1035,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250173,
+      "num": 197870,
+      "word": "为什么会两个月内频繁发烧",
+      "onboard_time": 1704887971,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248222,
       "num": 248222,
       "word": "熬夜后的恢复方法",
@@ -1057,6 +1121,14 @@
       "onboard_time": 1704796770,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241450,
+      "num": 197510,
+      "word": "李庚希含泪笑看哭我了",
+      "onboard_time": 1704888573,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 240946,
@@ -1121,14 +1193,6 @@
       "onboard_time": 1704877771,
       "rank": 34,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 229642,
-      "num": 229642,
-      "word": "特朗普岳母去世",
-      "onboard_time": 1704886052,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 229538,
@@ -1251,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205451,
+      "num": 196610,
+      "word": "给鼠鼠当了10分钟坐骑",
+      "onboard_time": 1704887971,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205345,
       "num": 198476,
       "word": "王安宇 演过会弹吉他织毛衣的人",
@@ -1329,6 +1401,14 @@
       "onboard_time": 1704856290,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195808,
+      "num": 195808,
+      "word": "月洋和小羊星长城打卡",
+      "onboard_time": 1704889352,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 195406,
@@ -1425,6 +1505,14 @@
       "onboard_time": 1704866971,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185612,
+      "num": 149873,
+      "word": "B太 偷偷再去看看梦想之家",
+      "onboard_time": 1704887071,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 184252,
@@ -1529,6 +1617,14 @@
       "onboard_time": 1704847590,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177536,
+      "num": 149190,
+      "word": "中领馆回应中国芭蕾女演员在德失联5天",
+      "onboard_time": 1704889291,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175697,
@@ -1811,6 +1907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146379,
+      "num": 148769,
+      "word": "DRG白玉梦影星元",
+      "onboard_time": 1704888749,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143961,
       "num": 143961,
       "word": "中国人民警察节",
@@ -1899,6 +2003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 135696,
+      "num": 135696,
+      "word": "尔滨失物招领遥遥领先",
+      "onboard_time": 1704889832,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 135641,
       "num": 135641,
       "word": "热火续约斯波",
@@ -1929,6 +2041,14 @@
       "onboard_time": 1704865952,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132134,
+      "num": 132134,
+      "word": "散粉的多种用法",
+      "onboard_time": 1704888810,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 131926,
@@ -2083,6 +2203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109281,
+      "num": 109281,
+      "word": "一只偷东西的笨蛋小狗",
+      "onboard_time": 1704889413,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105169,
       "num": 105169,
       "word": "日经225指数突破34000点",
@@ -2105,6 +2233,14 @@
       "onboard_time": 1704882753,
       "rank": 45,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 104563,
+      "num": 104563,
+      "word": "对手退赛林高远林诗栋自动晋级",
+      "onboard_time": 1704890012,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 104501,
