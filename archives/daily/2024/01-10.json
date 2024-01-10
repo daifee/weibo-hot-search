@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704861379843,
+  "endTime": 1704863837881,
   "band_list": [
     {
       "raw_hot": 2896872,
@@ -19,8 +19,8 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 1582967,
-      "num": 1582967,
+      "raw_hot": 1591369,
+      "num": 1591369,
       "word": "谁领到了中国第一张身份证",
       "onboard_time": 1704858091,
       "rank": 3,
@@ -49,6 +49,14 @@
       "onboard_time": 1704846449,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1369226,
+      "num": 542636,
+      "word": "萝莉岛",
+      "onboard_time": 1704859532,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1345343,
@@ -107,12 +115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 819547,
-      "num": 507984,
-      "word": "萝莉岛",
-      "onboard_time": 1704859532,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 877823,
+      "num": 877823,
+      "word": "法国最年轻总理上任",
+      "onboard_time": 1704861159,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 814346,
@@ -137,6 +145,14 @@
       "onboard_time": 1704849630,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 799213,
+      "num": 799213,
+      "word": "妻子寻子18年得知儿子已去世",
+      "onboard_time": 1704860613,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 798847,
@@ -227,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 624834,
+      "num": 624834,
+      "word": "没关系 先从写垃圾开始吧",
+      "onboard_time": 1704858512,
+      "rank": 13,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 605780,
       "num": 605780,
       "word": "贪官家被搜查时还有人敲门送礼",
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 587100,
-      "num": 238922,
+      "num": 300958,
       "word": "一对夫妇埋下身子让乘客拍富士山",
       "onboard_time": 1704860493,
       "rank": 30,
@@ -337,14 +361,6 @@
       "onboard_time": 1704810699,
       "rank": 7,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 472973,
-      "num": 472973,
-      "word": "没关系 先从写垃圾开始吧",
-      "onboard_time": 1704858512,
-      "rank": 13,
-      "category": "读书作家"
     },
     {
       "raw_hot": 472050,
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373772,
+      "num": 373772,
+      "word": "沈腾马丽为哈尔滨打call",
+      "onboard_time": 1704859712,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370071,
       "num": 297961,
       "word": "A先生 胡歌的脸",
@@ -472,6 +496,14 @@
       "word": "马思纯 两年终于拍戏了",
       "onboard_time": 1704802229,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 337851,
+      "num": 337851,
+      "word": "央视评繁花可能成为孤品",
+      "onboard_time": 1704863372,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -531,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291442,
-      "num": 227595,
-      "word": "妻子寻子18年得知儿子已去世",
-      "onboard_time": 1704860613,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 287406,
+      "num": 287406,
+      "word": "王星越抱着外甥女放烟花",
+      "onboard_time": 1704862714,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 271041,
@@ -544,6 +576,14 @@
       "word": "以为李铁出家了",
       "onboard_time": 1704815129,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 268567,
+      "num": 268567,
+      "word": "足协要求全员写1500字观后感",
+      "onboard_time": 1704863670,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -571,12 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258450,
-      "num": 258450,
-      "word": "沈腾马丽为哈尔滨打call",
-      "onboard_time": 1704859712,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 253845,
+      "num": 253845,
+      "word": "公司办不起年会就别办了",
+      "onboard_time": 1704863435,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 248222,
@@ -627,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235169,
+      "num": 235169,
+      "word": "全网都在N刷的小说",
+      "onboard_time": 1704862654,
+      "rank": 28,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 229538,
       "num": 229538,
       "word": "东北小伙雕1.8米雪龙被当成吉祥物",
@@ -641,6 +689,14 @@
       "onboard_time": 1704858872,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223075,
+      "num": 223075,
+      "word": "微博之夜经典造型",
+      "onboard_time": 1704849990,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223007,
@@ -659,20 +715,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 219019,
-      "num": 219019,
-      "word": "法国最年轻总理上任",
-      "onboard_time": 1704861159,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 218574,
       "num": 218574,
       "word": "芙拉代言人 王俊凯",
       "onboard_time": 1704856171,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208856,
+      "num": 208856,
+      "word": "急性心梗发作前有哪些症状",
+      "onboard_time": 1704861936,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 207900,
@@ -707,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201981,
+      "num": 201981,
+      "word": "迪丽热巴的冰岛穿搭",
+      "onboard_time": 1704863435,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201426,
       "num": 201426,
       "word": "主人打呼噜突然停了猫咪赶紧上前试探",
@@ -737,14 +801,6 @@
       "onboard_time": 1704804213,
       "rank": 19,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 192818,
-      "num": 192818,
-      "word": "微博之夜经典造型",
-      "onboard_time": 1704849990,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 188969,
@@ -969,6 +1025,14 @@
       "onboard_time": 1704825673,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141187,
+      "num": 141187,
+      "word": "李李原型剃度出家又还俗",
+      "onboard_time": 1704863790,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 138518,
@@ -1323,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24568,
+      "num": 1102460,
+      "word": "一组组数据看活力满满的中国",
+      "onboard_time": 1704862894,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22491,
       "num": 22491,
       "word": "罗志祥说超爱怼网友",
@@ -1385,6 +1457,9 @@
     },
     {
       "word": "#深入推进党的自我革命#"
+    },
+    {
+      "word": "#一体推进不敢腐不能腐不想腐#"
     }
   ]
 }
