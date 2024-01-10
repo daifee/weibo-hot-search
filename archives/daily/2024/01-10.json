@@ -1,10 +1,10 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704853848436,
+  "endTime": 1704854473081,
   "band_list": [
     {
-      "raw_hot": 2449707,
-      "num": 2449707,
+      "raw_hot": 2896872,
+      "num": 2896872,
       "word": "明年起连续5年没有年三十",
       "onboard_time": 1704848371,
       "rank": 4,
@@ -17,6 +17,14 @@
       "onboard_time": 1704804513,
       "rank": 0,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1503665,
+      "num": 1503665,
+      "word": "花10万中2.2亿彩票事件调查进展",
+      "onboard_time": 1704851129,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1447276,
@@ -33,14 +41,6 @@
       "onboard_time": 1704802470,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1291977,
-      "num": 1291977,
-      "word": "花10万中2.2亿彩票事件调查进展",
-      "onboard_time": 1704851129,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1140854,
@@ -83,12 +83,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 767837,
-      "num": 767837,
+      "raw_hot": 799928,
+      "num": 799928,
       "word": "7年恋爱被劝分情侣后续",
       "onboard_time": 1704849630,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 788556,
+      "num": 788556,
+      "word": "救护车被私家车堵住患者经抢救无效死亡",
+      "onboard_time": 1704851790,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 765617,
@@ -131,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 649123,
+      "num": 649123,
+      "word": "台湾小当归哈尔滨街边被疯狂投喂",
+      "onboard_time": 1704850833,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627557,
       "num": 95952,
       "word": "为什么李铁的铁刘海还在",
@@ -147,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 604155,
-      "num": 479203,
-      "word": "救护车被私家车堵住患者经抢救无效死亡",
-      "onboard_time": 1704851790,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 594928,
       "num": 594928,
       "word": "仙剑3三美齐聚微博之夜",
@@ -163,12 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 591729,
-      "num": 591729,
-      "word": "台湾小当归哈尔滨街边被疯狂投喂",
-      "onboard_time": 1704850833,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 593995,
+      "num": 593995,
+      "word": "厄瓜多尔宣布进入紧急状态",
+      "onboard_time": 1704851850,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 546487,
@@ -195,14 +203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 518136,
-      "num": 518136,
-      "word": "厄瓜多尔宣布进入紧急状态",
-      "onboard_time": 1704851850,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 513813,
       "num": 326103,
       "word": "教授称房价下跌老百姓损失最大",
@@ -219,6 +219,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 502491,
+      "num": 502491,
+      "word": "辛芷蕾工作室 认真营业",
+      "onboard_time": 1704851190,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 483159,
       "num": 317226,
       "word": "当我知道领导月薪七万后",
@@ -233,14 +241,6 @@
       "onboard_time": 1704801332,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479289,
-      "num": 479289,
-      "word": "辛芷蕾工作室 认真营业",
-      "onboard_time": 1704851190,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 477227,
@@ -291,6 +291,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 436356,
+      "num": 436356,
+      "word": "等国考成绩",
+      "onboard_time": 1704853352,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 427103,
+      "num": 427103,
+      "word": "飞驰人生2定档",
+      "onboard_time": 1704853650,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 392616,
       "num": 392616,
       "word": "金莎回应被说女油王",
@@ -305,14 +321,6 @@
       "onboard_time": 1704844528,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 384041,
-      "num": 384041,
-      "word": "等国考成绩",
-      "onboard_time": 1704853352,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 379630,
@@ -475,8 +483,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205221,
-      "num": 205221,
+      "raw_hot": 213047,
+      "num": 213047,
       "word": "苹果自称拥有五个应用商店",
       "onboard_time": 1704852088,
       "rank": 32,
@@ -497,14 +505,6 @@
       "onboard_time": 1704813695,
       "rank": 17,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 198724,
-      "num": 198724,
-      "word": "飞驰人生2定档",
-      "onboard_time": 1704853650,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 193173,
@@ -603,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159644,
+      "num": 159644,
+      "word": "成都一慈善组织用AI合成照片募捐",
+      "onboard_time": 1704853051,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158581,
       "num": 158581,
       "word": "山西确实盛产大闸蟹",
@@ -643,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145940,
-      "num": 145940,
-      "word": "成都一慈善组织用AI合成照片募捐",
-      "onboard_time": 1704853051,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143961,
       "num": 143961,
       "word": "中国人民警察节",
@@ -683,6 +683,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 135641,
+      "num": 135641,
+      "word": "热火续约斯波",
+      "onboard_time": 1704854071,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133547,
       "num": 133547,
       "word": "董宇辉回应网传收入五个多亿",
@@ -713,6 +721,14 @@
       "onboard_time": 1704810459,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119615,
+      "num": 119615,
+      "word": "干我们这行上不告父母下不告妻儿",
+      "onboard_time": 1704854431,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118574,
