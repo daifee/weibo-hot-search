@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704904718567,
+  "endTime": 1704906936904,
   "band_list": [
     {
       "raw_hot": 2076798,
@@ -409,6 +409,22 @@
       "onboard_time": 1704896854,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50161,
+      "num": 50161,
+      "word": "我知道我爱你",
+      "onboard_time": 1704906200,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38195,
+      "num": 39872,
+      "word": "赵昭仪去泰国了",
+      "onboard_time": 1704880230,
+      "rank": 45,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

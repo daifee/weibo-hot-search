@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704904718567,
+  "endTime": 1704906936904,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -11161,6 +11161,14 @@
       "onboard_time": 1704564323,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50161,
+      "num": 50161,
+      "word": "我知道我爱你",
+      "onboard_time": 1704906200,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 49827,
