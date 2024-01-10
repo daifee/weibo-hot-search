@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704906936904,
+  "endTime": 1704908040387,
   "band_list": [
     {
       "raw_hot": 2076798,
@@ -347,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63963,
+      "num": 56493,
+      "word": "我知道我爱你",
+      "onboard_time": 1704906200,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63144,
       "num": 111077,
       "word": "王家卫 细节控",
@@ -411,20 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50161,
-      "num": 50161,
-      "word": "我知道我爱你",
-      "onboard_time": 1704906200,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 38195,
       "num": 39872,
       "word": "赵昭仪去泰国了",
       "onboard_time": 1704880230,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33259,
+      "num": 33259,
+      "word": "爸爸对女儿说你自己喜欢很重要",
+      "onboard_time": 1704907039,
+      "rank": 44,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
