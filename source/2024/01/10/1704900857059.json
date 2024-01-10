@@ -1,0 +1,410 @@
+{
+  "runTime": 1704900857059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1458030,
+        "num": 1458030,
+        "word": "配货140多万没买到心仪爱马仕包",
+        "onboard_time": 1704895655,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1456217,
+        "num": 1456217,
+        "word": "晚婚已成为普遍现象",
+        "onboard_time": 1704895655,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88697,
+        "num": 770947,
+        "word": "这或许是对110最走心的定义",
+        "onboard_time": 1704896854,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564268,
+        "num": 564268,
+        "word": "甘肃积石山县3.1级地震",
+        "onboard_time": 1704898712,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542797,
+        "num": 542797,
+        "word": "朱珠这衣服换我穿就是红秋衣",
+        "onboard_time": 1704888869,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 517896,
+        "num": 517896,
+        "word": "唐嫣哭肿了",
+        "onboard_time": 1704892533,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505970,
+        "num": 505970,
+        "word": "程前发博致歉",
+        "onboard_time": 1704897034,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468926,
+        "num": 468926,
+        "word": "易烊千玺赵今麦 白夜行",
+        "onboard_time": 1704882093,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390586,
+        "num": 390586,
+        "word": "儿媳称拥有世界最好婆婆不接受反驳",
+        "onboard_time": 1704894514,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388316,
+        "num": 388316,
+        "word": "马龙王楚钦3比1法尔克卡尔森",
+        "onboard_time": 1704898533,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 897459,
+        "num": 361857,
+        "word": "校方回应女生作弊被抓反拍视频曝光",
+        "onboard_time": 1704896196,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686972,
+        "num": 352507,
+        "word": "辛芷蕾金色吊带",
+        "onboard_time": 1704890192,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 539641,
+        "num": 344081,
+        "word": "科兴新冠疫苗已停产",
+        "onboard_time": 1704877291,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327767,
+        "num": 327767,
+        "word": "央视评繁花可能成为孤品",
+        "onboard_time": 1704863372,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349141,
+        "num": 324359,
+        "word": "诗幂 金角银角",
+        "onboard_time": 1704889413,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312200,
+        "num": 312200,
+        "word": "游本昌王菊合照",
+        "onboard_time": 1704896435,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293610,
+        "num": 293610,
+        "word": "王心凌终于从台北唱到了东北",
+        "onboard_time": 1704897158,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293830,
+        "num": 291013,
+        "word": "马伊琍辛芷蕾黄觉内场同框",
+        "onboard_time": 1704896558,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261882,
+        "num": 261882,
+        "word": "蒙牛客服回应袋装奶包装南北差异",
+        "onboard_time": 1704890612,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205703,
+        "num": 205703,
+        "word": "在德失联中国芭蕾女舞者已找到",
+        "onboard_time": 1704885754,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418341,
+        "num": 205551,
+        "word": "以前谈恋爱是要交换QQ密码的",
+        "onboard_time": 1704897395,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282652,
+        "num": 198203,
+        "word": "网约司机车上现女士内裤遭分手",
+        "onboard_time": 1704895055,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255800,
+        "num": 196509,
+        "word": "王安宇的手到底有多臭",
+        "onboard_time": 1704899316,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230022,
+        "num": 188432,
+        "word": "杨幂翡翠",
+        "onboard_time": 1704892112,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188426,
+        "num": 188426,
+        "word": "花花和弟弟贴贴好可爱",
+        "onboard_time": 1704899075,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181915,
+        "num": 181915,
+        "word": "白鹿红衣梦回时宜",
+        "onboard_time": 1704896614,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197739,
+        "num": 178218,
+        "word": "金晨穿羽绒服走红毯",
+        "onboard_time": 1704890612,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173641,
+        "num": 173641,
+        "word": "王者荣耀 阿离星元皮肤",
+        "onboard_time": 1704893851,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170923,
+        "num": 170923,
+        "word": "外交部回应南非诉以色列种族灭绝",
+        "onboard_time": 1704899557,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206438,
+        "num": 169104,
+        "word": "杨幂刘诗诗又坐一起",
+        "onboard_time": 1704890491,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165964,
+        "num": 165964,
+        "word": "最不舍得删除的聊天记录",
+        "onboard_time": 1704893734,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165482,
+        "num": 165482,
+        "word": "3好友吃自助为速煮螃蟹1人坐1桌",
+        "onboard_time": 1704894094,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165384,
+        "num": 165384,
+        "word": "东北冻梨魏大勋也来广西了",
+        "onboard_time": 1704891935,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 152228,
+        "num": 152228,
+        "word": "始祖鸟龙年冲锋衣炒到12000元",
+        "onboard_time": 1704884372,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 141702,
+        "num": 141702,
+        "word": "上影花5亿买基地支持繁花拍摄",
+        "onboard_time": 1704899254,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137809,
+        "num": 137809,
+        "word": "跟相亲对象认识14天订婚了",
+        "onboard_time": 1704879450,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133939,
+        "num": 133939,
+        "word": "为什么会两个月内频繁发烧",
+        "onboard_time": 1704887971,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128344,
+        "num": 128344,
+        "word": "唐嫣和王家卫第一次见面用上海话聊天",
+        "onboard_time": 1704894156,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125882,
+        "num": 125882,
+        "word": "赵昭仪去泰国了",
+        "onboard_time": 1704880230,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120697,
+        "num": 120697,
+        "word": "李李的珠宝",
+        "onboard_time": 1704900153,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119415,
+        "num": 119415,
+        "word": "程前主持风马牛年终秀圆桌论坛惹争议",
+        "onboard_time": 1704897276,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117621,
+        "num": 117621,
+        "word": "第一次听到4岁女儿叫爸爸他哭了",
+        "onboard_time": 1704876032,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114932,
+        "num": 114932,
+        "word": "23岁男子长期高盐饮食血压成极高危型",
+        "onboard_time": 1704882873,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109747,
+        "num": 109747,
+        "word": "特朗普岳母去世",
+        "onboard_time": 1704886052,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 109319,
+        "num": 109319,
+        "word": "章若楠怕水",
+        "onboard_time": 1704897756,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108831,
+        "num": 108831,
+        "word": "何猷君不知道奚梦瑶支付密码",
+        "onboard_time": 1704890192,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99145,
+        "num": 99145,
+        "word": "宋茜 顶级alpha",
+        "onboard_time": 1704883531,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96257,
+        "num": 96257,
+        "word": "被萌兰33码小jiojio呼脸上了",
+        "onboard_time": 1704900333,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92853,
+        "num": 92853,
+        "word": "迪丽热巴模仿寒心",
+        "onboard_time": 1704897632,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90632,
+        "num": 90632,
+        "word": "以色列军队袭击加沙地带住宅致40人死伤",
+        "onboard_time": 1704895958,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马尔代夫总统会谈#"
+    }
+  }
+}
