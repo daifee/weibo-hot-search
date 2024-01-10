@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704883025997,
+  "endTime": 1704885330255,
   "band_list": [
     {
       "raw_hot": 2896872,
@@ -81,6 +81,14 @@
       "onboard_time": 1704859532,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1356185,
+      "num": 1356185,
+      "word": "易烊千玺赵今麦 白夜行",
+      "onboard_time": 1704882093,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1345343,
@@ -179,20 +187,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 888284,
+      "num": 888284,
+      "word": "万茜长发",
+      "onboard_time": 1704881673,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 877823,
       "num": 877823,
       "word": "法国最年轻总理上任",
       "onboard_time": 1704861159,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 841654,
-      "num": 841654,
-      "word": "易烊千玺赵今麦 白夜行",
-      "onboard_time": 1704882093,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 836981,
@@ -331,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 682780,
+      "num": 682780,
+      "word": "杨幂泼墨妆",
+      "onboard_time": 1704883171,
+      "rank": 8,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 671421,
       "num": 671421,
       "word": "女主表白 男主去拉肚子了",
@@ -369,14 +385,6 @@
       "onboard_time": 1704850833,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 632796,
-      "num": 632796,
-      "word": "万茜长发",
-      "onboard_time": 1704881673,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 627557,
@@ -441,6 +449,14 @@
       "onboard_time": 1704860493,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 572299,
+      "num": 572299,
+      "word": "23岁男子长期高盐饮食血压成极高危型",
+      "onboard_time": 1704882873,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 569709,
@@ -563,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 491342,
+      "num": 491342,
+      "word": "持优待证小男孩被全网关心后续来了",
+      "onboard_time": 1704880230,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484373,
       "num": 484373,
       "word": "HYBS解散",
@@ -660,11 +684,19 @@
     },
     {
       "raw_hot": 436009,
-      "num": 244888,
+      "num": 268956,
       "word": "跟相亲对象认识14天订婚了",
       "onboard_time": 1704879450,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 429498,
+      "num": 429498,
+      "word": "始祖鸟龙年冲锋衣炒到12000元",
+      "onboard_time": 1704884372,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 426568,
@@ -673,6 +705,14 @@
       "onboard_time": 1704875489,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423820,
+      "num": 423820,
+      "word": "王楚钦孙颖莎2024开门红",
+      "onboard_time": 1704884014,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 417483,
@@ -785,6 +825,14 @@
       "onboard_time": 1704810275,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350185,
+      "num": 350185,
+      "word": "宋茜 顶级alpha",
+      "onboard_time": 1704883531,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 342414,
@@ -939,6 +987,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256608,
+      "num": 256608,
+      "word": "刘诗诗武侠风",
+      "onboard_time": 1704884490,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252736,
+      "num": 252736,
+      "word": "阿宝替身晒胡歌的签名照",
+      "onboard_time": 1704884310,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251157,
       "num": 251157,
       "word": "王一博当队长的那些年",
@@ -995,14 +1059,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 239237,
-      "num": 239237,
-      "word": "持优待证小男孩被全网关心后续来了",
-      "onboard_time": 1704880230,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238395,
       "num": 238395,
       "word": "华晨宇加盟2023微博之夜",
@@ -1025,6 +1081,14 @@
       "onboard_time": 1704862654,
       "rank": 28,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 234759,
+      "num": 234759,
+      "word": "12306回应务工人员春运专区只能预约硬座",
+      "onboard_time": 1704883352,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231848,
@@ -1267,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191230,
+      "num": 191230,
+      "word": "WTT",
+      "onboard_time": 1704884191,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188969,
       "num": 188969,
       "word": "研究生英文演甄嬛传滴血验亲太炸裂",
@@ -1369,6 +1441,14 @@
       "onboard_time": 1704856352,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180200,
+      "num": 180200,
+      "word": "律师谈黎斐私吞李铁600万元",
+      "onboard_time": 1704882931,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179988,
@@ -1505,6 +1585,14 @@
       "onboard_time": 1704868472,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162747,
+      "num": 162747,
+      "word": "最佳平替网站",
+      "onboard_time": 1704883052,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 161052,
@@ -1659,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146511,
+      "num": 146511,
+      "word": "前任对双子座的影响",
+      "onboard_time": 1704883593,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143961,
       "num": 143961,
       "word": "中国人民警察节",
@@ -1681,6 +1777,14 @@
       "onboard_time": 1704825673,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140982,
+      "num": 205076,
+      "word": "南方人终于见识了北方的干",
+      "onboard_time": 1704884551,
+      "rank": 26,
+      "category": "美妆"
     },
     {
       "raw_hot": 138518,
@@ -1716,7 +1820,7 @@
     },
     {
       "raw_hot": 137323,
-      "num": 804381,
+      "num": 879732,
       "word": "排爆警排爆前先与战友合张影",
       "onboard_time": 1704880230,
       "rank": 6,
@@ -1771,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131446,
+      "num": 131446,
+      "word": "中国农业 三文鱼鹅肝鱼子酱",
+      "onboard_time": 1704883773,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 130505,
       "num": 130505,
       "word": "秦岚对着热巴笑出了猪叫",
@@ -1811,12 +1923,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 127747,
+      "num": 127747,
+      "word": "颐和园又一文物回归",
+      "onboard_time": 1704884855,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 127705,
       "num": 127705,
       "word": "长了八百个心眼子的边牧",
       "onboard_time": 1704874293,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127519,
+      "num": 127519,
+      "word": "杨幂西装杀伤力",
+      "onboard_time": 1704885093,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127458,
+      "num": 127458,
+      "word": "W年度盛典",
+      "onboard_time": 1704885030,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 125679,
@@ -1897,22 +2033,6 @@
       "onboard_time": 1704810760,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111467,
-      "num": 111467,
-      "word": "23岁男子长期高盐饮食血压成极高危型",
-      "onboard_time": 1704882873,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 110988,
-      "num": 110988,
-      "word": "律师谈黎斐私吞李铁600万元",
-      "onboard_time": 1704882931,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105169,

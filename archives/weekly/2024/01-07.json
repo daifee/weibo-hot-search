@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704883025997,
+  "endTime": 1704885330255,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -321,6 +321,14 @@
       "onboard_time": 1704731304,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1356185,
+      "num": 1356185,
+      "word": "易烊千玺赵今麦 白夜行",
+      "onboard_time": 1704882093,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1350463,
@@ -867,6 +875,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 888284,
+      "num": 888284,
+      "word": "万茜长发",
+      "onboard_time": 1704881673,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 882435,
       "num": 882435,
       "word": "贝肯鲍尔去世",
@@ -929,14 +945,6 @@
       "onboard_time": 1704718292,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 841654,
-      "num": 841654,
-      "word": "易烊千玺赵今麦 白夜行",
-      "onboard_time": 1704882093,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 841453,
@@ -1491,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 682780,
+      "num": 682780,
+      "word": "杨幂泼墨妆",
+      "onboard_time": 1704883171,
+      "rank": 8,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 681504,
       "num": 457905,
       "word": "宝总汪小姐 OE",
@@ -1673,14 +1689,6 @@
       "onboard_time": 1704562401,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 632796,
-      "num": 632796,
-      "word": "万茜长发",
-      "onboard_time": 1704881673,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 625583,
@@ -1953,6 +1961,14 @@
       "onboard_time": 1704696930,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572299,
+      "num": 572299,
+      "word": "23岁男子长期高盐饮食血压成极高危型",
+      "onboard_time": 1704882873,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 572064,
@@ -2563,6 +2579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 491342,
+      "num": 491342,
+      "word": "持优待证小男孩被全网关心后续来了",
+      "onboard_time": 1704880230,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484373,
       "num": 484373,
       "word": "HYBS解散",
@@ -2884,7 +2908,7 @@
     },
     {
       "raw_hot": 436009,
-      "num": 244888,
+      "num": 268956,
       "word": "跟相亲对象认识14天订婚了",
       "onboard_time": 1704879450,
       "rank": 20,
@@ -2921,6 +2945,14 @@
       "onboard_time": 1704767010,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 429498,
+      "num": 429498,
+      "word": "始祖鸟龙年冲锋衣炒到12000元",
+      "onboard_time": 1704884372,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 428734,
@@ -2969,6 +3001,14 @@
       "onboard_time": 1704702450,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 423820,
+      "num": 423820,
+      "word": "王楚钦孙颖莎2024开门红",
+      "onboard_time": 1704884014,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 420374,
@@ -3465,6 +3505,14 @@
       "onboard_time": 1704589471,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 350185,
+      "num": 350185,
+      "word": "宋茜 顶级alpha",
+      "onboard_time": 1704883531,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 345812,
@@ -4339,6 +4387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 256608,
+      "num": 256608,
+      "word": "刘诗诗武侠风",
+      "onboard_time": 1704884490,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256361,
       "num": 235413,
       "word": "吃不下饭时是身体在保护你",
@@ -4417,6 +4473,14 @@
       "onboard_time": 1704600990,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252736,
+      "num": 252736,
+      "word": "阿宝替身晒胡歌的签名照",
+      "onboard_time": 1704884310,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 251320,
@@ -4627,14 +4691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 239237,
-      "num": 239237,
-      "word": "持优待证小男孩被全网关心后续来了",
-      "onboard_time": 1704880230,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238395,
       "num": 238395,
       "word": "华晨宇加盟2023微博之夜",
@@ -4705,6 +4761,14 @@
       "onboard_time": 1704807935,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 234759,
+      "num": 234759,
+      "word": "12306回应务工人员春运专区只能预约硬座",
+      "onboard_time": 1704883352,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234649,
@@ -6027,6 +6091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191230,
+      "num": 191230,
+      "word": "WTT",
+      "onboard_time": 1704884191,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191145,
       "num": 191145,
       "word": "农业大摸底",
@@ -6457,6 +6529,14 @@
       "onboard_time": 1704696871,
       "rank": 29,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 180200,
+      "num": 180200,
+      "word": "律师谈黎斐私吞李铁600万元",
+      "onboard_time": 1704882931,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180042,
@@ -7129,6 +7209,14 @@
       "onboard_time": 1704773611,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162747,
+      "num": 162747,
+      "word": "最佳平替网站",
+      "onboard_time": 1704883052,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 162745,
@@ -7843,6 +7931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146511,
+      "num": 146511,
+      "word": "前任对双子座的影响",
+      "onboard_time": 1704883593,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146193,
       "num": 146193,
       "word": "i人拍照",
@@ -8067,6 +8163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140982,
+      "num": 205076,
+      "word": "南方人终于见识了北方的干",
+      "onboard_time": 1704884551,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 140967,
       "num": 140967,
       "word": "新疆男篮战胜广东男篮",
@@ -8156,7 +8260,7 @@
     },
     {
       "raw_hot": 137323,
-      "num": 804381,
+      "num": 879732,
       "word": "排爆警排爆前先与战友合张影",
       "onboard_time": 1704880230,
       "rank": 6,
@@ -8419,6 +8523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131446,
+      "num": 131446,
+      "word": "中国农业 三文鱼鹅肝鱼子酱",
+      "onboard_time": 1704883773,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 131437,
       "num": 131437,
       "word": "霍格沃茨之遗销量突破2200万份",
@@ -8603,6 +8715,14 @@
       "category": "社会议题,旅游"
     },
     {
+      "raw_hot": 127747,
+      "num": 127747,
+      "word": "颐和园又一文物回归",
+      "onboard_time": 1704884855,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 127705,
       "num": 127705,
       "word": "长了八百个心眼子的边牧",
@@ -8611,12 +8731,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127519,
+      "num": 127519,
+      "word": "杨幂西装杀伤力",
+      "onboard_time": 1704885093,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 127484,
       "num": 228425,
       "word": "天玑上限看OPPO",
       "onboard_time": 1704700050,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 127458,
+      "num": 127458,
+      "word": "W年度盛典",
+      "onboard_time": 1704885030,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 127419,
@@ -9283,27 +9419,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111467,
-      "num": 111467,
-      "word": "23岁男子长期高盐饮食血压成极高危型",
-      "onboard_time": 1704882873,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111406,
       "num": 111406,
       "word": "七旬退休老师教会脑瘫少年5000个字",
       "onboard_time": 1704624389,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110988,
-      "num": 110988,
-      "word": "律师谈黎斐私吞李铁600万元",
-      "onboard_time": 1704882931,
-      "rank": 43,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704883025997,
+  "endTime": 1704885330255,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1704496337,
       "rank": 13,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1356185,
+      "num": 1356185,
+      "word": "易烊千玺赵今麦 白夜行",
+      "onboard_time": 1704882093,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1355059,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704167677,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 950059,
-      "num": 950059,
-      "word": "豆腐脑敢放糖 粽子就敢包肉",
-      "onboard_time": 1704459152,
-      "rank": 19,
-      "category": "美食"
     }
   ],
   "hotgov_list": [
