@@ -1,0 +1,410 @@
+{
+  "runTime": 1704881962522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1858360,
+        "num": 1858360,
+        "word": "科兴新冠疫苗已停产",
+        "onboard_time": 1704877291,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550154,
+        "num": 1413177,
+        "word": "第一次听到4岁女儿叫爸爸他哭了",
+        "onboard_time": 1704876032,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17232,
+        "num": 1347735,
+        "word": "愿每一次出警都平安归来",
+        "onboard_time": 1704842423,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1316319,
+        "num": 1316319,
+        "word": "年底裸辞赶上了招聘荒",
+        "onboard_time": 1704876152,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278633,
+        "num": 1076788,
+        "word": "迪拜小哥从沙漠来感受尔滨冬天",
+        "onboard_time": 1704880712,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 919094,
+        "num": 919094,
+        "word": "赵昭仪去泰国了",
+        "onboard_time": 1704880230,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137323,
+        "num": 778229,
+        "word": "排爆警排爆前先与战友合张影",
+        "onboard_time": 1704880230,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721765,
+        "num": 721765,
+        "word": "央视评繁花可能成为孤品",
+        "onboard_time": 1704863372,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554917,
+        "num": 554917,
+        "word": "董宇辉还是想不通为啥被喜欢",
+        "onboard_time": 1704879632,
+        "rank": 8,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 456567,
+        "num": 456567,
+        "word": "王一博张艺兴同回街舞6",
+        "onboard_time": 1704878253,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502499,
+        "num": 454576,
+        "word": "复旦本科毕业生直接就业不到两成",
+        "onboard_time": 1704873510,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 366480,
+        "num": 366480,
+        "word": "郑恺 和汪小姐怎么不算HE",
+        "onboard_time": 1704869793,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325514,
+        "num": 325514,
+        "word": "男子为证明车有问题花20万再购同款车",
+        "onboard_time": 1704875072,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306652,
+        "num": 306652,
+        "word": "字节跳动回应懂车帝将成独立公司",
+        "onboard_time": 1704880113,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20526,
+        "num": 301864,
+        "word": "赵明称操作系统值得用AI重做一遍",
+        "onboard_time": 1704875193,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 69668,
+        "num": 301768,
+        "word": "荣耀魔法OS的十大神奇功能",
+        "onboard_time": 1704879392,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 301744,
+        "num": 301744,
+        "word": "何同学六年视频弹幕变化",
+        "onboard_time": 1704881372,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 290479,
+        "num": 290479,
+        "word": "谁领到了中国第一张身份证",
+        "onboard_time": 1704858091,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279336,
+        "num": 279336,
+        "word": "代入一下秦岚真的要心梗了",
+        "onboard_time": 1704874472,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248190,
+        "num": 248190,
+        "word": "12306推出学生务工人员春运专区",
+        "onboard_time": 1704874353,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436009,
+        "num": 244888,
+        "word": "跟相亲对象认识14天订婚了",
+        "onboard_time": 1704879450,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237436,
+        "num": 237436,
+        "word": "女主表白 男主去拉肚子了",
+        "onboard_time": 1704871530,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227271,
+        "num": 227271,
+        "word": "肖战获微博网友喜爱人物",
+        "onboard_time": 1704877471,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225215,
+        "num": 225215,
+        "word": "微博之夜最新官宣",
+        "onboard_time": 1704870930,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221422,
+        "num": 221422,
+        "word": "原来肠道不健康会影响情绪",
+        "onboard_time": 1704875552,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215045,
+        "num": 215045,
+        "word": "朱丹不去港媒上班可惜了",
+        "onboard_time": 1704866671,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213959,
+        "num": 213959,
+        "word": "肚子容易长肉是为啥",
+        "onboard_time": 1704877771,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 210939,
+        "num": 210939,
+        "word": "央视连播三部谭松韵主演剧",
+        "onboard_time": 1704860134,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201776,
+        "num": 201776,
+        "word": "我们一起摇太阳定档",
+        "onboard_time": 1704881013,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200532,
+        "num": 200532,
+        "word": "孙颖莎王楚钦一起训练",
+        "onboard_time": 1704881194,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192701,
+        "num": 192701,
+        "word": "真正的致癌元凶是这4种食物",
+        "onboard_time": 1704866491,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185749,
+        "num": 185749,
+        "word": "万茜长发",
+        "onboard_time": 1704881673,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185508,
+        "num": 185508,
+        "word": "央视曝李铁案关系网",
+        "onboard_time": 1704872251,
+        "rank": 32,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 184441,
+        "num": 184441,
+        "word": "刘建宏回应曾称赞李铁正直",
+        "onboard_time": 1704875489,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 183758,
+        "num": 183758,
+        "word": "小狗狗你的手好小啊",
+        "onboard_time": 1704880831,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179661,
+        "num": 179661,
+        "word": "持优待证小男孩被全网关心后续来了",
+        "onboard_time": 1704880230,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170656,
+        "num": 170656,
+        "word": "张杰的腰真好",
+        "onboard_time": 1704880113,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165183,
+        "num": 165183,
+        "word": "李铁收千万保送的4名球员是谁",
+        "onboard_time": 1704859957,
+        "rank": 37,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 158267,
+        "num": 158267,
+        "word": "终于懂为什么说有的皮肤手感好了",
+        "onboard_time": 1704874111,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155778,
+        "num": 155778,
+        "word": "王者海诺新皮肤",
+        "onboard_time": 1704875790,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152444,
+        "num": 152444,
+        "word": "W年度盛典红毯",
+        "onboard_time": 1704879332,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142346,
+        "num": 142346,
+        "word": "被数字的中文写法震惊到的外国人",
+        "onboard_time": 1704877710,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137569,
+        "num": 137569,
+        "word": "秦岚选了一个最费嗓子的活动",
+        "onboard_time": 1704880171,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135682,
+        "num": 135682,
+        "word": "迪丽热巴的冰岛穿搭",
+        "onboard_time": 1704863435,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123165,
+        "num": 123165,
+        "word": "王安宇 演过会弹吉他织毛衣的人",
+        "onboard_time": 1704875732,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116954,
+        "num": 116954,
+        "word": "磨砂玻璃被透明胶贴上后会变透明",
+        "onboard_time": 1704880954,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115673,
+        "num": 115673,
+        "word": "有一个弟弟妹妹其实很幸福",
+        "onboard_time": 1704873692,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107270,
+        "num": 107270,
+        "word": "迪丽热巴竞品",
+        "onboard_time": 1704871110,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107079,
+        "num": 107079,
+        "word": "龙年茅台跌至4100元每瓶",
+        "onboard_time": 1704868830,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 103427,
+        "num": 103427,
+        "word": "HYBS解散",
+        "onboard_time": 1704869012,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#一体推进不敢腐不能腐不想腐#"
+    }
+  }
+}
