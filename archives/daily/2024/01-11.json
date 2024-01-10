@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704921280330,
+  "endTime": 1704922423544,
   "band_list": [
     {
       "raw_hot": 2076798,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38331,
+      "num": 18696,
+      "word": "47岁男子没要到3000元生活费纵火烧家",
+      "onboard_time": 1704918552,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38195,
       "num": 39872,
       "word": "赵昭仪去泰国了",
@@ -451,20 +459,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30150,
-      "num": 16967,
-      "word": "47岁男子没要到3000元生活费纵火烧家",
-      "onboard_time": 1704918552,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14538,
       "num": 16812,
       "word": "宝宝你是一捧小猫",
       "onboard_time": 1704913933,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10789,
+      "num": 10789,
+      "word": "200万住养老院啥感受",
+      "onboard_time": 1704921794,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 10411,
+      "num": 10411,
+      "word": "白敬亭红毯迷路",
+      "onboard_time": 1704921973,
+      "rank": 48,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

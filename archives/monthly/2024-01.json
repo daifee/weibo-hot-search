@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704921280330,
+  "endTime": 1704922423544,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -26995,6 +26995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 38331,
+      "num": 18696,
+      "word": "47岁男子没要到3000元生活费纵火烧家",
+      "onboard_time": 1704918552,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37920,
       "num": 763990,
       "word": "阿达娃被玲花追着投喂阿胶",
@@ -27184,14 +27192,6 @@
       "word": "中国开年干出开门红",
       "onboard_time": 1704596010,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30150,
-      "num": 16967,
-      "word": "47岁男子没要到3000元生活费纵火烧家",
-      "onboard_time": 1704918552,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -27611,12 +27611,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 10789,
+      "num": 10789,
+      "word": "200万住养老院啥感受",
+      "onboard_time": 1704921794,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 10416,
       "num": 10416,
       "word": "南泥北搓",
       "onboard_time": 1704315853,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 10411,
+      "num": 10411,
+      "word": "白敬亭红毯迷路",
+      "onboard_time": 1704921973,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 10296,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704921280330,
+  "endTime": 1704922423544,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -11275,6 +11275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 38331,
+      "num": 18696,
+      "word": "47岁男子没要到3000元生活费纵火烧家",
+      "onboard_time": 1704918552,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36465,
       "num": 36465,
       "word": "电视剧你也有今天",
@@ -11360,14 +11368,6 @@
       "word": "中国开年干出开门红",
       "onboard_time": 1704596010,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30150,
-      "num": 16967,
-      "word": "47岁男子没要到3000元生活费纵火烧家",
-      "onboard_time": 1704918552,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -11521,6 +11521,22 @@
       "onboard_time": 1704831015,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10789,
+      "num": 10789,
+      "word": "200万住养老院啥感受",
+      "onboard_time": 1704921794,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 10411,
+      "num": 10411,
+      "word": "白敬亭红毯迷路",
+      "onboard_time": 1704921973,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 8646,
