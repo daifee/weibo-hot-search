@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704843288442,
+  "endTime": 1704849441994,
   "band_list": [
     {
       "raw_hot": 2401484,
@@ -11,6 +11,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1447276,
+      "num": 1447276,
+      "word": "停止乱吃气血就回来了",
+      "onboard_time": 1704846449,
+      "rank": 0,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1345343,
       "num": 1345343,
       "word": "李李出家",
@@ -19,8 +27,40 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1056304,
+      "num": 1056304,
+      "word": "朱丹咬过的肉给周一围吃",
+      "onboard_time": 1704845489,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 902886,
+      "num": 902886,
+      "word": "明年起连续5年没有年三十",
+      "onboard_time": 1704848371,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814346,
+      "num": 814346,
+      "word": "街道办回应要求返乡过年人员要报备",
+      "onboard_time": 1704841821,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 808366,
+      "num": 808366,
+      "word": "宝总李李真亲了",
+      "onboard_time": 1704842905,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 765617,
-      "num": 320401,
+      "num": 554414,
       "word": "专家建议尽快调整退休年龄",
       "onboard_time": 1704782670,
       "rank": 13,
@@ -43,6 +83,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 725577,
+      "num": 725577,
+      "word": "韩庚 今年哈尔滨明年牡丹江可好",
+      "onboard_time": 1704844708,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 704147,
       "num": 704147,
       "word": "早上宋慧乔 晚上宋小宝",
@@ -57,6 +105,22 @@
       "onboard_time": 1704812496,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 605780,
+      "num": 605780,
+      "word": "贪官家被搜查时还有人敲门送礼",
+      "onboard_time": 1704845071,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582136,
+      "num": 582136,
+      "word": "仙剑3三美齐聚微博之夜",
+      "onboard_time": 1704847412,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 532229,
@@ -81,6 +145,30 @@
       "onboard_time": 1704816988,
       "rank": 22,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 494036,
+      "num": 494036,
+      "word": "我们为什么可以脱口而出110",
+      "onboard_time": 1704846091,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488144,
+      "num": 326103,
+      "word": "教授称房价下跌老百姓损失最大",
+      "onboard_time": 1704847356,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483159,
+      "num": 317226,
+      "word": "当我知道领导月薪七万后",
+      "onboard_time": 1704843324,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 480019,
@@ -123,12 +211,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 436970,
+      "num": 314771,
+      "word": "我妈劝我早点辞职",
+      "onboard_time": 1704847533,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 392616,
       "num": 392616,
       "word": "金莎回应被说女油王",
       "onboard_time": 1704818423,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384670,
+      "num": 306410,
+      "word": "收到了男朋友送的黄金手链",
+      "onboard_time": 1704844528,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 370071,
@@ -139,12 +243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350911,
+      "num": 350911,
+      "word": "进去的人比进去的球还多",
+      "onboard_time": 1704810275,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341244,
       "num": 304943,
       "word": "马思纯 两年终于拍戏了",
       "onboard_time": 1704802229,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 329323,
+      "num": 329323,
+      "word": "刘亦菲 巴黎",
+      "onboard_time": 1704843867,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 327905,
@@ -163,12 +283,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 288744,
-      "num": 288744,
-      "word": "进去的人比进去的球还多",
-      "onboard_time": 1704810275,
+      "raw_hot": 304697,
+      "num": 304697,
+      "word": "A股市值超过40%与房地产相关",
+      "onboard_time": 1704847832,
       "rank": 24,
-      "category": "体育"
+      "category": "财经"
+    },
+    {
+      "raw_hot": 292258,
+      "num": 292258,
+      "word": "刚打工的白狐vs打工了几天的白狐",
+      "onboard_time": 1704848249,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 271041,
@@ -187,12 +315,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260235,
+      "num": 260235,
+      "word": "胡歌 国人自己的莱昂纳多",
+      "onboard_time": 1704849030,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259389,
       "num": 227747,
       "word": "请和我的老公结婚",
       "onboard_time": 1704811417,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242607,
+      "num": 242607,
+      "word": "看 你的教资合格证",
+      "onboard_time": 1704805771,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 242430,
@@ -211,20 +355,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 206532,
-      "num": 132951,
-      "word": "街道办回应要求返乡过年人员要报备",
-      "onboard_time": 1704841821,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200617,
       "num": 200617,
       "word": "有效化妆与无效化妆",
       "onboard_time": 1704813695,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 197448,
+      "num": 197448,
+      "word": "主人打呼噜突然停了猫咪赶紧上前试探",
+      "onboard_time": 1704846272,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 193173,
@@ -235,12 +379,100 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 186301,
-      "num": 186301,
-      "word": "看 你的教资合格证",
-      "onboard_time": 1704805771,
-      "rank": 23,
-      "category": "教育"
+      "raw_hot": 188969,
+      "num": 188969,
+      "word": "研究生英文演甄嬛传滴血验亲太炸裂",
+      "onboard_time": 1704847711,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188757,
+      "num": 188757,
+      "word": "一晚打赏三四万大哥大姐究竟在想啥",
+      "onboard_time": 1704842482,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188309,
+      "num": 188309,
+      "word": "小狗认为摸头是世界上最幸福的事",
+      "onboard_time": 1704842663,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 179635,
+      "num": 179635,
+      "word": "吃辣和长痘没什么联系",
+      "onboard_time": 1704849091,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 177908,
+      "num": 177908,
+      "word": "哑铃成了妈妈的腌肉工具了",
+      "onboard_time": 1704847590,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 177300,
+      "num": 177300,
+      "word": "厄瓜多尔",
+      "onboard_time": 1704849269,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175636,
+      "num": 1059963,
+      "word": "反腐大片持续发力纵深推进第四集",
+      "onboard_time": 1704802351,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174016,
+      "num": 174016,
+      "word": "玲子的玲是玲娜贝儿的玲",
+      "onboard_time": 1704848790,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168615,
+      "num": 168615,
+      "word": "李铁",
+      "onboard_time": 1704845009,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159850,
+      "num": 159850,
+      "word": "我们为何吃不起水果了",
+      "onboard_time": 1704848911,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 159837,
+      "num": 159837,
+      "word": "原神",
+      "onboard_time": 1704846393,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 152868,
+      "num": 152868,
+      "word": "哈尔滨蔓越莓",
+      "onboard_time": 1704846570,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 149913,
@@ -257,6 +489,14 @@
       "onboard_time": 1704792272,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145453,
+      "num": 145453,
+      "word": "山西确实盛产大闸蟹",
+      "onboard_time": 1704849391,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 142479,
@@ -315,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123390,
-      "num": 123390,
-      "word": "小狗认为摸头是世界上最幸福的事",
-      "onboard_time": 1704842663,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118574,
       "num": 118574,
       "word": "魏总要碎了",
@@ -355,14 +587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112304,
-      "num": 562707,
-      "word": "反腐大片持续发力纵深推进第四集",
-      "onboard_time": 1704802351,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104758,
       "num": 104758,
       "word": "愿每一次出警都平安归来",
@@ -377,14 +601,6 @@
       "onboard_time": 1704814951,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 103033,
-      "num": 87449,
-      "word": "一晚打赏三四万大哥大姐究竟在想啥",
-      "onboard_time": 1704842482,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96715,
@@ -465,14 +681,6 @@
       "onboard_time": 1704835993,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 82567,
-      "num": 82567,
-      "word": "宝总李李真亲了",
-      "onboard_time": 1704842905,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 82421,
