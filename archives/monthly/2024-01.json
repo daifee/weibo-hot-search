@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704867819986,
+  "endTime": 1704869253571,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2435,6 +2435,14 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 930889,
+      "num": 930889,
+      "word": "朱丹不去港媒上班可惜了",
+      "onboard_time": 1704866671,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 929565,
       "num": 929565,
       "word": "女子分享自己7旬爷爷老来得子",
@@ -2881,6 +2889,14 @@
       "onboard_time": 1704246929,
       "rank": 8,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 828035,
+      "num": 828035,
+      "word": "退钱哥 那些年的眼泪白流",
+      "onboard_time": 1704866069,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 827568,
@@ -3385,6 +3401,14 @@
       "onboard_time": 1704539190,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 753065,
+      "num": 753065,
+      "word": "张琳",
+      "onboard_time": 1704866792,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 752568,
@@ -4273,14 +4297,6 @@
       "onboard_time": 1704685474,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 668224,
-      "num": 668224,
-      "word": "朱丹不去港媒上班可惜了",
-      "onboard_time": 1704866671,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 667738,
@@ -6299,6 +6315,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 504724,
+      "num": 250813,
+      "word": "真正的致癌元凶是这4种食物",
+      "onboard_time": 1704866491,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 503543,
       "num": 375279,
       "word": "三里屯偶遇魏大勋",
@@ -6449,14 +6473,6 @@
       "onboard_time": 1704186032,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 499084,
-      "num": 467152,
-      "word": "退钱哥 那些年的眼泪白流",
-      "onboard_time": 1704866069,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 498493,
@@ -6977,14 +6993,6 @@
       "onboard_time": 1704282693,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 470220,
-      "num": 244743,
-      "word": "真正的致癌元凶是这4种食物",
-      "onboard_time": 1704866491,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 469206,
@@ -8915,6 +8923,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 352038,
+      "num": 352038,
+      "word": "魏大勋在胡一天一声声哥哥中迷失",
+      "onboard_time": 1704867332,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351800,
       "num": 351800,
       "word": "中美建交45周年",
@@ -9705,14 +9721,6 @@
       "onboard_time": 1704189335,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314550,
-      "num": 314550,
-      "word": "张琳",
-      "onboard_time": 1704866792,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314196,
@@ -12267,6 +12275,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 238395,
+      "num": 238395,
+      "word": "华晨宇加盟2023微博之夜",
+      "onboard_time": 1704868290,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 238063,
       "num": 238063,
       "word": "威少杜兰特互喷内容曝光",
@@ -13233,6 +13249,14 @@
       "onboard_time": 1704542913,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 221469,
+      "num": 221469,
+      "word": "迪丽热巴抓不着羊就抓辛芷蕾",
+      "onboard_time": 1704868530,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 221042,
@@ -14899,6 +14923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198641,
+      "num": 198641,
+      "word": "龙年茅台跌至4100元每瓶",
+      "onboard_time": 1704868830,
+      "rank": 24,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 198573,
       "num": 198573,
       "word": "谢娜林心如谈及父母痛哭",
@@ -15881,6 +15913,14 @@
       "onboard_time": 1704078455,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188835,
+      "num": 188835,
+      "word": "秦海璐拍到了紫色的极光",
+      "onboard_time": 1704867754,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 188767,
@@ -16939,14 +16979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176361,
-      "num": 176361,
-      "word": "魏大勋在胡一天一声声哥哥中迷失",
-      "onboard_time": 1704867332,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176083,
       "num": 153038,
       "word": "爸爸把孩子放门口给老人惊喜",
@@ -17105,6 +17137,14 @@
       "onboard_time": 1704278134,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 174928,
+      "num": 174928,
+      "word": "东方武学塑水宗",
+      "onboard_time": 1704867933,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 174845,
@@ -17353,6 +17393,14 @@
       "onboard_time": 1704202417,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 172563,
+      "num": 172563,
+      "word": "董宇辉新号销售额近东方甄选四倍",
+      "onboard_time": 1704867210,
+      "rank": 37,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 172366,
@@ -18227,6 +18275,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 163683,
+      "num": 163683,
+      "word": "湖人战胜猛龙",
+      "onboard_time": 1704868472,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163660,
       "num": 163660,
       "word": "阴阳师",
@@ -18272,6 +18328,14 @@
       "word": "郭晓婷草莓妆",
       "onboard_time": 1704193832,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163282,
+      "num": 163282,
+      "word": "HYBS解散",
+      "onboard_time": 1704869012,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -18785,14 +18849,6 @@
       "onboard_time": 1704619951,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 157112,
-      "num": 157112,
-      "word": "董宇辉新号销售额近东方甄选四倍",
-      "onboard_time": 1704867210,
-      "rank": 37,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 157045,
@@ -21115,6 +21171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133749,
+      "num": 133749,
+      "word": "大胖媳妇把老丈人一吻跨年",
+      "onboard_time": 1704868951,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 133629,
       "num": 133629,
       "word": "狗狗偷咬主人被抓包急忙捂嘴",
@@ -21136,14 +21200,6 @@
       "word": "周深汪苏泷质问容祖儿",
       "onboard_time": 1704597870,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 133280,
-      "num": 133280,
-      "word": "秦海璐拍到了紫色的极光",
-      "onboard_time": 1704867754,
-      "rank": 42,
       "category": "综艺"
     },
     {
