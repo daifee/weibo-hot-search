@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704917964793,
+  "endTime": 1704918861741,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -27561,6 +27561,14 @@
       "onboard_time": 1704137535,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11207,
+      "num": 11207,
+      "word": "47岁男子没要到3000元生活费纵火烧家",
+      "onboard_time": 1704918552,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11064,
