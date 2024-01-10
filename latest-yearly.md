@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/10 10:41:13
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/10 11:19:22
 </p>
 </blockquote>
 <p>
@@ -1263,6 +1263,12 @@ A先生说辛芷蕾本人很漂亮（热度：1194844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E7%A7%81%E5%AE%B6%E8%BD%A6%E5%A0%B5%E4%BD%8F%E6%82%A3%E8%80%85%E7%BB%8F%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E6%AD%BB%E4%BA%A1%23" target="weibo">
+救护车被私家车堵住患者经抢救无效死亡（热度：1131370）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%9D%E8%8E%89%E5%B2%9B%23" target="weibo">
 萝莉岛（热度：1130214）
 </a>
@@ -1805,12 +1811,6 @@ iPhone从4000多米高空坠落仍可使用（热度：987136）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%86%E4%BA%AB%E8%87%AA%E5%B7%B17%E6%97%AC%E7%88%B7%E7%88%B7%E8%80%81%E6%9D%A5%E5%BE%97%E5%AD%90%23" target="weibo">
 女子分享自己7旬爷爷老来得子（热度：929565）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E4%B8%BA%E6%8B%8D%E7%B9%81%E8%8A%B1%E4%B8%89%E5%B9%B4%E6%B2%A1%E6%8E%A5%E5%85%B6%E4%BB%96%E6%88%8F%23" target="weibo">
-唐嫣为拍繁花三年没接其他戏（热度：929401）
 </a>
 </li>
 

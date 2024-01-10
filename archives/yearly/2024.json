@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704854473081,
+  "endTime": 1704856762553,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1667,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1131370,
+      "num": 1131370,
+      "word": "救护车被私家车堵住患者经抢救无效死亡",
+      "onboard_time": 1704851790,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1130214,
       "num": 464277,
       "word": "萝莉岛",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704378155,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 929401,
-      "num": 929401,
-      "word": "唐嫣为拍繁花三年没接其他戏",
-      "onboard_time": 1704344076,
-      "rank": 22,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

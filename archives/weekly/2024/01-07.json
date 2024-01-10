@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704854473081,
+  "endTime": 1704856762553,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -507,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1131370,
+      "num": 1131370,
+      "word": "救护车被私家车堵住患者经抢救无效死亡",
+      "onboard_time": 1704851790,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1130214,
       "num": 464277,
       "word": "萝莉岛",
@@ -963,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 788556,
-      "num": 788556,
-      "word": "救护车被私家车堵住患者经抢救无效死亡",
-      "onboard_time": 1704851790,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 786864,
       "num": 786864,
       "word": "科举文男主有了脸",
@@ -1179,6 +1179,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 726632,
+      "num": 726632,
+      "word": "飞驰人生2定档",
+      "onboard_time": 1704853650,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 725577,
       "num": 725577,
       "word": "韩庚 今年哈尔滨明年牡丹江可好",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1704782072,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 714125,
+      "num": 714125,
+      "word": "干我们这行上不告父母下不告妻儿",
+      "onboard_time": 1704854431,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 711067,
@@ -1603,20 +1619,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 594997,
+      "num": 594997,
+      "word": "厄瓜多尔宣布进入紧急状态",
+      "onboard_time": 1704851850,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 594928,
       "num": 594928,
       "word": "仙剑3三美齐聚微博之夜",
       "onboard_time": 1704847412,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 593995,
-      "num": 593995,
-      "word": "厄瓜多尔宣布进入紧急状态",
-      "onboard_time": 1704851850,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 591941,
@@ -2579,14 +2595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 427103,
-      "num": 427103,
-      "word": "飞驰人生2定档",
-      "onboard_time": 1704853650,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 426478,
       "num": 426478,
       "word": "国色芳华剧组抓代拍",
@@ -3435,6 +3443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 298753,
+      "num": 298753,
+      "word": "A先生 替身文学",
+      "onboard_time": 1704852753,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298527,
       "num": 298527,
       "word": "台湾女生在东北第一次吃冰糖葫芦",
@@ -3577,6 +3593,14 @@
       "onboard_time": 1704585983,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287851,
+      "num": 287851,
+      "word": "王一博官宣街舞6总决赛",
+      "onboard_time": 1704856589,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 286307,
@@ -4179,6 +4203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233012,
+      "num": 233012,
+      "word": "林俊杰黑粉发声明致歉",
+      "onboard_time": 1704856710,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232854,
       "num": 232854,
       "word": "i人的拒绝",
@@ -4289,6 +4321,14 @@
       "onboard_time": 1704527733,
       "rank": 21,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 226264,
+      "num": 226264,
+      "word": "妈妈为救儿子4个月狂减20斤",
+      "onboard_time": 1704855989,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226126,
@@ -4443,20 +4483,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 219323,
+      "num": 219323,
+      "word": "苹果自称拥有五个应用商店",
+      "onboard_time": 1704852088,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 219308,
       "num": 219308,
       "word": "哈尔滨儿媳妇把全家人问懵",
       "onboard_time": 1704756867,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219006,
-      "num": 219006,
-      "word": "A先生 替身文学",
-      "onboard_time": 1704852753,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 218129,
@@ -4537,14 +4577,6 @@
       "onboard_time": 1704708153,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213047,
-      "num": 213047,
-      "word": "苹果自称拥有五个应用商店",
-      "onboard_time": 1704852088,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 212826,
@@ -4745,6 +4777,14 @@
       "onboard_time": 1704774272,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205213,
+      "num": 205213,
+      "word": "教资认定",
+      "onboard_time": 1704855329,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 205137,
@@ -5033,6 +5073,14 @@
       "onboard_time": 1704805713,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198197,
+      "num": 198197,
+      "word": "往季队长重聚街舞6总决赛",
+      "onboard_time": 1704856290,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 198174,
@@ -5435,6 +5483,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 186817,
+      "num": 186817,
+      "word": "阿里控股电商公司裁员20%",
+      "onboard_time": 1704855329,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 186541,
       "num": 186541,
       "word": "狂人 九尾职业态度没的说",
@@ -5707,6 +5763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176108,
+      "num": 176108,
+      "word": "芙拉代言人 王俊凯",
+      "onboard_time": 1704856171,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176063,
       "num": 176063,
       "word": "央视列足坛反腐被查阵容",
@@ -5785,6 +5849,14 @@
       "onboard_time": 1704645683,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174066,
+      "num": 174066,
+      "word": "樊振东波尔约饭",
+      "onboard_time": 1704856352,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 174016,
@@ -6635,6 +6707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152569,
+      "num": 152569,
+      "word": "宝总爱谁",
+      "onboard_time": 1704854790,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152412,
       "num": 152412,
       "word": "阿宝归宿",
@@ -7027,6 +7107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 142145,
+      "num": 142145,
+      "word": "男孩捡到价值三万元钻戒后被父母扔掉",
+      "onboard_time": 1704856531,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141912,
       "num": 141912,
       "word": "一口青梅精引发的重大事故",
@@ -7145,6 +7233,14 @@
       "onboard_time": 1704712052,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136851,
+      "num": 136851,
+      "word": "年三十为什么时有时无",
+      "onboard_time": 1704856652,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136846,
@@ -7393,6 +7489,14 @@
       "onboard_time": 1704692011,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130505,
+      "num": 130505,
+      "word": "秦岚对着热巴笑出了猪叫",
+      "onboard_time": 1704856110,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 130491,
@@ -7851,14 +7955,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 119615,
-      "num": 119615,
-      "word": "干我们这行上不告父母下不告妻儿",
-      "onboard_time": 1704854431,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119559,
       "num": 119559,
       "word": "春节拜年发型",
@@ -8097,6 +8193,14 @@
       "onboard_time": 1704712469,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 113910,
+      "num": 300362,
+      "word": "乌尔善再续神话",
+      "onboard_time": 1704854729,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 113036,
