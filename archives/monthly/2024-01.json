@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704893637307,
+  "endTime": 1704896245548,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -320,6 +320,14 @@
       "word": "中福彩已报警",
       "onboard_time": 1704466476,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2164577,
+      "num": 769575,
+      "word": "女子自曝13岁时遭继父强奸",
+      "onboard_time": 1704893851,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -2315,6 +2323,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 966875,
+      "num": 966875,
+      "word": "朱珠这衣服换我穿就是红秋衣",
+      "onboard_time": 1704888869,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 964532,
       "num": 964532,
       "word": "新马泰免签了也变贵了",
@@ -2409,14 +2425,6 @@
       "onboard_time": 1704773795,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 952484,
-      "num": 952484,
-      "word": "朱珠这衣服换我穿就是红秋衣",
-      "onboard_time": 1704888869,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 952179,
@@ -3193,6 +3201,14 @@
       "onboard_time": 1704635614,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 803497,
+      "num": 803497,
+      "word": "唐嫣哭肿了",
+      "onboard_time": 1704892533,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 803018,
@@ -4737,14 +4753,6 @@
       "onboard_time": 1704634053,
       "rank": 16,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 641313,
-      "num": 641313,
-      "word": "唐嫣哭肿了",
-      "onboard_time": 1704892533,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 641097,
@@ -6595,6 +6603,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 505707,
+      "num": 336066,
+      "word": "杨幂翡翠",
+      "onboard_time": 1704892112,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 504724,
       "num": 254833,
       "word": "真正的致癌元凶是这4种食物",
@@ -7195,6 +7211,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 474012,
+      "num": 474012,
+      "word": "东北冻梨魏大勋也来广西了",
+      "onboard_time": 1704891935,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 473652,
       "num": 473652,
       "word": "香港演员尹子维打卡哈尔滨盒饭一条街",
@@ -7673,6 +7697,14 @@
       "onboard_time": 1704426512,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 441286,
+      "num": 441286,
+      "word": "王者荣耀 阿离星元皮肤",
+      "onboard_time": 1704893851,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 441024,
@@ -8515,14 +8547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 395435,
-      "num": 270078,
-      "word": "杨幂翡翠",
-      "onboard_time": 1704892112,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 395252,
       "num": 395252,
       "word": "林高远 Happy new year",
@@ -9185,6 +9209,14 @@
       "onboard_time": 1704682653,
       "rank": 19,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 361344,
+      "num": 361344,
+      "word": "儿媳称拥有世界最好婆婆不接受反驳",
+      "onboard_time": 1704894514,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360480,
@@ -10379,14 +10411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305673,
-      "num": 305673,
-      "word": "东北冻梨魏大勋也来广西了",
-      "onboard_time": 1704891935,
-      "rank": 26,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 305623,
       "num": 305623,
       "word": "国足vs中国香港",
@@ -10899,6 +10923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 289019,
+      "num": 289019,
+      "word": "唐嫣和王家卫第一次见面用上海话聊天",
+      "onboard_time": 1704894156,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289014,
       "num": 289014,
       "word": "睿宝被爱宝凶了",
@@ -11105,6 +11137,14 @@
       "onboard_time": 1704077314,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285578,
+      "num": 307339,
+      "word": "晚婚已成为普遍现象",
+      "onboard_time": 1704895655,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284963,
@@ -11507,6 +11547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269399,
+      "num": 269399,
+      "word": "3好友吃自助为速煮螃蟹1人坐1桌",
+      "onboard_time": 1704894094,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269319,
       "num": 269319,
       "word": "扎加洛去世",
@@ -11593,6 +11641,14 @@
       "onboard_time": 1704241351,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267316,
+      "num": 267316,
+      "word": "最不舍得删除的聊天记录",
+      "onboard_time": 1704893734,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 267256,
@@ -12161,6 +12217,14 @@
       "onboard_time": 1704793713,
       "rank": 29,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 253570,
+      "num": 231536,
+      "word": "网约司机车上现女士内裤遭分手",
+      "onboard_time": 1704895055,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253359,
@@ -14603,6 +14667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207891,
+      "num": 200616,
+      "word": "配货140多万没买到心仪爱马仕包",
+      "onboard_time": 1704895655,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207885,
       "num": 207885,
       "word": "丞磊的综艺感一期比一期离谱",
@@ -15211,6 +15283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201306,
+      "num": 201306,
+      "word": "女生作弊被抓反拍视频曝光监考",
+      "onboard_time": 1704895475,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201210,
       "num": 201210,
       "word": "汤唯粤语",
@@ -15425,6 +15505,14 @@
       "onboard_time": 1704083554,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199689,
+      "num": 199689,
+      "word": "全国城市55岁及以上人群未婚率低于村镇",
+      "onboard_time": 1704892895,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199625,
@@ -15961,6 +16049,14 @@
       "onboard_time": 1704247469,
       "rank": 33,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 194581,
+      "num": 194581,
+      "word": "吴磊 电音小子",
+      "onboard_time": 1704895896,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 194559,
@@ -17593,14 +17689,6 @@
       "onboard_time": 1704178833,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 177767,
-      "num": 177767,
-      "word": "全国城市55岁及以上人群未婚率低于村镇",
-      "onboard_time": 1704892895,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177552,
@@ -21251,6 +21339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 142200,
+      "num": 142200,
+      "word": "白敬亭鹅黄小香风套装",
+      "onboard_time": 1704895776,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 142026,
       "num": 142026,
       "word": "喝得醉醉 撞得碎碎",
@@ -21265,6 +21361,14 @@
       "onboard_time": 1704228553,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141943,
+      "num": 141943,
+      "word": "以色列军队袭击加沙地带住宅致40人死伤",
+      "onboard_time": 1704895958,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 141912,
@@ -21681,6 +21785,14 @@
       "onboard_time": 1704506371,
       "rank": 39,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 137605,
+      "num": 137605,
+      "word": "女娲补天皮肤返场",
+      "onboard_time": 1704894996,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 137569,
@@ -22379,6 +22491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131564,
+      "num": 249208,
+      "word": "2024了开车还需要用脚吗",
+      "onboard_time": 1704893254,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 131486,
       "num": 1275495,
       "word": "全国各地开年即开跑",
@@ -22809,6 +22929,14 @@
       "onboard_time": 1704351510,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127733,
+      "num": 127733,
+      "word": "张凌赫别太苏了",
+      "onboard_time": 1704894635,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 127705,
@@ -23881,6 +24009,14 @@
       "onboard_time": 1704695071,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117051,
+      "num": 127175,
+      "word": "校方回应女生作弊被抓反拍视频曝光",
+      "onboard_time": 1704896196,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117031,
@@ -25809,14 +25945,6 @@
       "onboard_time": 1704879392,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 69631,
-      "num": 172101,
-      "word": "2024了开车还需要用脚吗",
-      "onboard_time": 1704893254,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 68741,
