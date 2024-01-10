@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704874963118,
+  "endTime": 1704875767656,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1379,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1233456,
+      "num": 1233456,
+      "word": "复旦本科毕业生直接就业不到两成",
+      "onboard_time": 1704873510,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1229285,
       "num": 1229285,
       "word": "金莎会做婚前财产公证",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704616229,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 948611,
-      "num": 903016,
-      "word": "霉霉 恶女心态拒绝内耗",
-      "onboard_time": 1704270756,
-      "rank": 31,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
