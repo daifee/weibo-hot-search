@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704928663150,
+  "endTime": 1704929679624,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -1475,6 +1475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 724625,
+      "num": 724625,
+      "word": "为啥网上的药比实体药店更便宜",
+      "onboard_time": 1704910936,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 724178,
       "num": 724178,
       "word": "23岁男子长期高盐饮食血压成极高危型",
@@ -1963,14 +1971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 600035,
-      "num": 600035,
-      "word": "为啥网上的药比实体药店更便宜",
-      "onboard_time": 1704910936,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 598376,
       "num": 598376,
       "word": "何同学六年视频弹幕变化",
@@ -2329,6 +2329,14 @@
       "onboard_time": 1704788615,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 544065,
+      "num": 544065,
+      "word": "47岁男子没要到3000元生活费纵火烧家",
+      "onboard_time": 1704918552,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 542481,
@@ -3081,14 +3089,6 @@
       "onboard_time": 1704779311,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 447927,
-      "num": 447927,
-      "word": "47岁男子没要到3000元生活费纵火烧家",
-      "onboard_time": 1704918552,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444931,
@@ -5451,6 +5451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221783,
+      "num": 221783,
+      "word": "还好是他们七个人",
+      "onboard_time": 1704928100,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220902,
       "num": 210959,
       "word": "辛芷蕾随地大小睡",
@@ -5515,6 +5523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218586,
+      "num": 218586,
+      "word": "周鸿祎回应程前道歉",
+      "onboard_time": 1704928762,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 218574,
       "num": 218574,
       "word": "芙拉代言人 王俊凯",
@@ -5560,6 +5576,14 @@
       "word": "流水的弟弟 铁打的宋茜",
       "onboard_time": 1704799413,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217009,
+      "num": 217009,
+      "word": "上影花5亿买基地支持繁花拍摄",
+      "onboard_time": 1704899254,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -5683,20 +5707,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210910,
-      "num": 210910,
-      "word": "上影花5亿买基地支持繁花拍摄",
-      "onboard_time": 1704899254,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210784,
       "num": 210784,
       "word": "萌兰把心爱的乌龟壳子宠上树",
       "onboard_time": 1704686375,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210689,
+      "num": 210689,
+      "word": "周鸿祎程前互怼",
+      "onboard_time": 1704929062,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 210336,
@@ -6321,6 +6345,14 @@
       "onboard_time": 1704682171,
       "rank": 26,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 196205,
+      "num": 196205,
+      "word": "左肩痛多颗牙痛也可能是心梗先兆",
+      "onboard_time": 1704927801,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 196094,
@@ -10563,6 +10595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99346,
+      "num": 99346,
+      "word": "师傅连续10年收到徒弟母亲寄的特产",
+      "onboard_time": 1704929123,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98783,
       "num": 98783,
       "word": "小砂糖橘的吉林研学之旅",
@@ -10633,6 +10673,14 @@
       "onboard_time": 1704717872,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 96844,
+      "num": 96844,
+      "word": "何猷君觉得父亲最帅的照片",
+      "onboard_time": 1704929424,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 96751,
@@ -10819,14 +10867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89125,
-      "num": 89125,
-      "word": "左肩痛多颗牙痛也可能是心梗先兆",
-      "onboard_time": 1704927801,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 88745,
       "num": 88745,
       "word": "年会不能停笑点",
@@ -10899,6 +10939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80765,
+      "num": 80765,
+      "word": "皇马5比3马竞",
+      "onboard_time": 1704928161,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80665,
       "num": 408059,
       "word": "原神雷电将军宵宫复刻",
@@ -10923,6 +10971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78935,
+      "num": 78935,
+      "word": "程前错在哪了",
+      "onboard_time": 1704927860,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77806,
       "num": 188063,
       "word": "和FindX7一起抓拍crush瞬间",
@@ -10937,14 +10993,6 @@
       "onboard_time": 1704596369,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75985,
-      "num": 75985,
-      "word": "皇马5比3马竞",
-      "onboard_time": 1704928161,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 74975,
@@ -10977,6 +11025,14 @@
       "onboard_time": 1704823338,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71060,
+      "num": 71060,
+      "word": "16岁女生讨要抚养费被亲戚打流产",
+      "onboard_time": 1704929424,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69668,
@@ -11027,12 +11083,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 63291,
-      "num": 63291,
-      "word": "还好是他们七个人",
-      "onboard_time": 1704928100,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 62951,
+      "num": 62951,
+      "word": "江苏提醒百日咳发病率升高明显",
+      "onboard_time": 1704927920,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 62942,
@@ -11139,6 +11195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 57599,
+      "num": 57599,
+      "word": "我们的翻译官 梦中吻",
+      "onboard_time": 1704928942,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57585,
       "num": 279122,
       "word": "FindX7价格秒了",
@@ -11152,6 +11216,14 @@
       "word": "今日三九",
       "onboard_time": 1704789452,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56062,
+      "num": 56062,
+      "word": "俩95后宝妈离婚后搭伙过日子",
+      "onboard_time": 1704929606,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -11179,14 +11251,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 54087,
-      "num": 54087,
-      "word": "程前错在哪了",
-      "onboard_time": 1704927860,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52587,
       "num": 380417,
       "word": "极氪X如何拿捏高颜值装备控",
@@ -11203,20 +11267,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 51960,
+      "num": 51960,
+      "word": "白敬亭红毯迷路",
+      "onboard_time": 1704921973,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 51908,
       "num": 304346,
       "word": "元梦的第一个百大up主",
       "onboard_time": 1704620731,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 51836,
-      "num": 51836,
-      "word": "江苏提醒百日咳发病率升高明显",
-      "onboard_time": 1704927920,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 50783,
@@ -11265,14 +11329,6 @@
       "onboard_time": 1704843264,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45741,
-      "num": 45741,
-      "word": "白敬亭红毯迷路",
-      "onboard_time": 1704921973,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 45293,
