@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704863837881,
+  "endTime": 1704864874089,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1068,7 +1068,7 @@
     },
     {
       "raw_hot": 1369226,
-      "num": 542636,
+      "num": 564553,
       "word": "萝莉岛",
       "onboard_time": 1704436472,
       "rank": 44,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1704032475,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1221990,
+      "num": 1221990,
+      "word": "央视评繁花可能成为孤品",
+      "onboard_time": 1704863372,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 1217437,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704036365,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 945338,
-      "num": 420747,
-      "word": "三喜的肠肠",
-      "onboard_time": 1704596190,
-      "rank": 11,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
