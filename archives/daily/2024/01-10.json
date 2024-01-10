@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704890978160,
+  "endTime": 1704892889447,
   "band_list": [
     {
       "raw_hot": 2896872,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 903596,
+      "num": 903596,
+      "word": "朱珠这衣服换我穿就是红秋衣",
+      "onboard_time": 1704888869,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 888284,
       "num": 888284,
       "word": "万茜长发",
@@ -265,14 +273,6 @@
       "onboard_time": 1704849630,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 799202,
-      "num": 799202,
-      "word": "朱珠这衣服换我穿就是红秋衣",
-      "onboard_time": 1704888869,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 798847,
@@ -337,6 +337,14 @@
       "onboard_time": 1704839836,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 744647,
+      "num": 395486,
+      "word": "辛芷蕾金色吊带",
+      "onboard_time": 1704890192,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 726632,
@@ -416,6 +424,22 @@
       "word": "第一次听到4岁女儿叫爸爸他哭了",
       "onboard_time": 1704876032,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 658245,
+      "num": 658245,
+      "word": "学生作弊被抓后纠缠监考老师",
+      "onboard_time": 1704890731,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 656837,
+      "num": 656837,
+      "word": "蒙牛客服回应袋装奶包装南北差异",
+      "onboard_time": 1704890612,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -537,6 +561,22 @@
       "onboard_time": 1704863435,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 548194,
+      "num": 548194,
+      "word": "何猷君不知道奚梦瑶支付密码",
+      "onboard_time": 1704890192,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 547513,
+      "num": 547513,
+      "word": "杨幂刘诗诗又坐一起",
+      "onboard_time": 1704890491,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 546487,
@@ -764,11 +804,19 @@
     },
     {
       "raw_hot": 436009,
-      "num": 290864,
+      "num": 291409,
       "word": "跟相亲对象认识14天订婚了",
       "onboard_time": 1704879450,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 431467,
+      "num": 350818,
+      "word": "金晨穿羽绒服走红毯",
+      "onboard_time": 1704890612,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 426568,
@@ -841,14 +889,6 @@
       "onboard_time": 1704851312,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 378889,
-      "num": 378889,
-      "word": "何猷君不知道奚梦瑶支付密码",
-      "onboard_time": 1704890192,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 373878,
@@ -947,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327096,
+      "num": 327096,
+      "word": "唐嫣哭肿了",
+      "onboard_time": 1704892533,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326539,
       "num": 319163,
       "word": "终于懂为什么说有的皮肤手感好了",
@@ -993,14 +1041,6 @@
       "onboard_time": 1704862714,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313795,
-      "num": 158688,
-      "word": "辛芷蕾金色吊带",
-      "onboard_time": 1704890192,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 307279,
@@ -1051,8 +1091,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270078,
+      "num": 270078,
+      "word": "杨幂翡翠",
+      "onboard_time": 1704892112,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 266310,
-      "num": 197870,
+      "num": 262922,
       "word": "为什么会两个月内频繁发烧",
       "onboard_time": 1704887971,
       "rank": 21,
@@ -1081,14 +1129,6 @@
       "onboard_time": 1704814111,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260608,
-      "num": 174011,
-      "word": "金晨穿羽绒服走红毯",
-      "onboard_time": 1704890612,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 259389,
@@ -1227,6 +1267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228119,
+      "num": 228119,
+      "word": "东北冻梨魏大勋也来广西了",
+      "onboard_time": 1704891935,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 228013,
+      "num": 228013,
+      "word": "天官赐福",
+      "onboard_time": 1704890731,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 227959,
       "num": 227959,
       "word": "肖战获微博网友喜爱人物",
@@ -1241,6 +1297,14 @@
       "onboard_time": 1704867449,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224803,
+      "num": 224803,
+      "word": "唐嫣晒照告别汪小姐",
+      "onboard_time": 1704891753,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 224757,
@@ -1299,14 +1363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210847,
-      "num": 172508,
-      "word": "杨幂刘诗诗又坐一起",
-      "onboard_time": 1704890491,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 209125,
       "num": 209125,
       "word": "孙颖莎王楚钦一起训练",
@@ -1337,6 +1393,14 @@
       "onboard_time": 1704860315,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206632,
+      "num": 206632,
+      "word": "全国城市30岁人群未婚率超30%",
+      "onboard_time": 1704890430,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205930,
@@ -1465,6 +1529,14 @@
       "onboard_time": 1704804213,
       "rank": 19,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 192981,
+      "num": 192981,
+      "word": "牛奶带吸管",
+      "onboard_time": 1704891215,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 192807,
@@ -1659,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176272,
+      "num": 176272,
+      "word": "肠镜的重要性",
+      "onboard_time": 1704891753,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175697,
       "num": 175697,
       "word": "爱泼斯坦案到底有多黑暗",
@@ -1747,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166696,
+      "num": 166696,
+      "word": "王家卫 细节控",
+      "onboard_time": 1704890913,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165747,
       "num": 165747,
       "word": "球迷投入真感情 看到的却是假戏",
@@ -1763,12 +1851,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 163903,
+      "num": 163903,
+      "word": "辛芷蕾红毯被夸繁花演得太好了",
+      "onboard_time": 1704890673,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163683,
       "num": 163683,
       "word": "湖人战胜猛龙",
       "onboard_time": 1704868472,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163234,
+      "num": 163234,
+      "word": "零跑C10价格",
+      "onboard_time": 1704892775,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 162747,
@@ -1819,14 +1923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159160,
-      "num": 159160,
-      "word": "蒙牛客服回应袋装奶包装南北差异",
-      "onboard_time": 1704890612,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158581,
       "num": 158581,
       "word": "山西确实盛产大闸蟹",
@@ -1849,14 +1945,6 @@
       "onboard_time": 1704857370,
       "rank": 42,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 157848,
-      "num": 157848,
-      "word": "天官赐福",
-      "onboard_time": 1704890731,
-      "rank": 33,
-      "category": "动漫"
     },
     {
       "raw_hot": 157570,
@@ -1915,14 +2003,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 151766,
-      "num": 150153,
-      "word": "辛芷蕾红毯被夸繁花演得太好了",
-      "onboard_time": 1704890673,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150582,
       "num": 150582,
       "word": "吉林上新冻梨冻柿子冰淇淋",
@@ -1953,6 +2033,14 @@
       "onboard_time": 1704792272,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148612,
+      "num": 148612,
+      "word": "辛芷蕾生图能打",
+      "onboard_time": 1704891454,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146802,
@@ -1993,6 +2081,14 @@
       "onboard_time": 1704850528,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143316,
+      "num": 139793,
+      "word": "退钱哥谈足坛反腐",
+      "onboard_time": 1704892595,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 142479,
@@ -2067,12 +2163,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 136747,
-      "num": 136747,
-      "word": "学生作弊被抓后纠缠监考老师",
-      "onboard_time": 1704890731,
-      "rank": 38,
-      "category": "教育"
+      "raw_hot": 136309,
+      "num": 136309,
+      "word": "俩闺女回村过年媒人排起长队",
+      "onboard_time": 1704891033,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136225,
+      "num": 136225,
+      "word": "你遇不到灵魂伴侣的原因",
+      "onboard_time": 1704892353,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 136135,
@@ -2161,14 +2265,6 @@
       "onboard_time": 1704865289,
       "rank": 44,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 130152,
-      "num": 130152,
-      "word": "全国城市30岁人群未婚率超30%",
-      "onboard_time": 1704890430,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129640,
@@ -2275,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115225,
+      "num": 115225,
+      "word": "国风美甲",
+      "onboard_time": 1704891152,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 114341,
       "num": 114341,
       "word": "辛芷蕾下次演个he吧",
@@ -2305,14 +2409,6 @@
       "onboard_time": 1704890853,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 106192,
-      "num": 106192,
-      "word": "王家卫 细节控",
-      "onboard_time": 1704890913,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 105169,
@@ -2593,6 +2689,14 @@
       "onboard_time": 1704830173,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 36007,
+      "num": 159247,
+      "word": "MK明星派对好多人啊",
+      "onboard_time": 1704892472,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 33246,
