@@ -1,0 +1,410 @@
+{
+  "runTime": 1704874963118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1048384,
+        "num": 1048384,
+        "word": "央视评繁花可能成为孤品",
+        "onboard_time": 1704863372,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 826993,
+        "num": 826993,
+        "word": "复旦本科毕业生直接就业不到两成",
+        "onboard_time": 1704873510,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21096,
+        "num": 794348,
+        "word": "探月嫦娥坐上了运20",
+        "onboard_time": 1704855271,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771253,
+        "num": 771253,
+        "word": "郑恺 和汪小姐怎么不算HE",
+        "onboard_time": 1704869793,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 671421,
+        "num": 671421,
+        "word": "女主表白 男主去拉肚子了",
+        "onboard_time": 1704871530,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 655384,
+        "num": 655384,
+        "word": "央视曝李铁案关系网",
+        "onboard_time": 1704872251,
+        "rank": 5,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 537085,
+        "num": 537085,
+        "word": "微博之夜最新官宣",
+        "onboard_time": 1704870930,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517783,
+        "num": 517783,
+        "word": "龙年茅台跌至4100元每瓶",
+        "onboard_time": 1704868830,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1593200,
+        "num": 514750,
+        "word": "江苏一小区被曝发生凶杀案",
+        "onboard_time": 1704872129,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507894,
+        "num": 507894,
+        "word": "朱丹不去港媒上班可惜了",
+        "onboard_time": 1704866671,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458487,
+        "num": 458487,
+        "word": "谁领到了中国第一张身份证",
+        "onboard_time": 1704858091,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402029,
+        "num": 402029,
+        "word": "迪丽热巴竞品",
+        "onboard_time": 1704871110,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366666,
+        "num": 366666,
+        "word": "花10万中2.2亿彩票事件调查进展",
+        "onboard_time": 1704851129,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308484,
+        "num": 308484,
+        "word": "大胖媳妇把老丈人一吻跨年",
+        "onboard_time": 1704868951,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 307882,
+        "num": 307882,
+        "word": "李铁收千万保送的4名球员是谁",
+        "onboard_time": 1704859957,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296939,
+        "num": 296939,
+        "word": "HYBS解散",
+        "onboard_time": 1704869012,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249477,
+        "num": 249477,
+        "word": "央视连播三部谭松韵主演剧",
+        "onboard_time": 1704860134,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18480,
+        "num": 237846,
+        "word": "愿每一次出警都平安归来",
+        "onboard_time": 1704842423,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236536,
+        "num": 236536,
+        "word": "足协要求全员写1500字观后感",
+        "onboard_time": 1704863670,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223966,
+        "num": 223966,
+        "word": "退钱哥 那些年的眼泪白流",
+        "onboard_time": 1704866069,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320612,
+        "num": 223123,
+        "word": "真正的致癌元凶是这4种食物",
+        "onboard_time": 1704866491,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213271,
+        "num": 213271,
+        "word": "敖瑞鹏公主抱白鹿",
+        "onboard_time": 1704874773,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208031,
+        "num": 208031,
+        "word": "恨人有 笑人无",
+        "onboard_time": 1704871290,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204621,
+        "num": 204621,
+        "word": "张琳",
+        "onboard_time": 1704866792,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204582,
+        "num": 204582,
+        "word": "12306推出学生务工人员春运专区",
+        "onboard_time": 1704874353,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193439,
+        "num": 193439,
+        "word": "有一个弟弟妹妹其实很幸福",
+        "onboard_time": 1704873692,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193397,
+        "num": 193397,
+        "word": "花少这个家王安宇是待不下去了",
+        "onboard_time": 1704873270,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190971,
+        "num": 190971,
+        "word": "一对夫妇埋下身子让乘客拍富士山",
+        "onboard_time": 1704860493,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187575,
+        "num": 187575,
+        "word": "人坏狗好",
+        "onboard_time": 1704872071,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183292,
+        "num": 183292,
+        "word": "CCMA红毯",
+        "onboard_time": 1704873751,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207419,
+        "num": 183194,
+        "word": "代入一下秦岚真的要心梗了",
+        "onboard_time": 1704874472,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191095,
+        "num": 183192,
+        "word": "终于懂为什么说有的皮肤手感好了",
+        "onboard_time": 1704874111,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182731,
+        "num": 182731,
+        "word": "妈妈为救儿子4个月狂减20斤",
+        "onboard_time": 1704855989,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181151,
+        "num": 181151,
+        "word": "男孩捡到价值三万元钻戒后被父母扔掉",
+        "onboard_time": 1704856531,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223448,
+        "num": 181013,
+        "word": "萝莉岛",
+        "onboard_time": 1704859532,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178551,
+        "num": 178551,
+        "word": "翻译招聘和工作中常见的专有名词",
+        "onboard_time": 1704872251,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178407,
+        "num": 178407,
+        "word": "人生第一个一百万是最难的",
+        "onboard_time": 1704873329,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177150,
+        "num": 177150,
+        "word": "21岁中国芭蕾女演员在德失联5天",
+        "onboard_time": 1704866011,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173930,
+        "num": 173930,
+        "word": "猛龙主帅赛后暴怒",
+        "onboard_time": 1704871649,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151665,
+        "num": 151665,
+        "word": "迪丽热巴抓不着羊就抓辛芷蕾",
+        "onboard_time": 1704868530,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147225,
+        "num": 147225,
+        "word": "给尚未工作的朋友们的建议 多拍照",
+        "onboard_time": 1704870212,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144785,
+        "num": 144785,
+        "word": "董宇辉新号销售额近东方甄选四倍",
+        "onboard_time": 1704867210,
+        "rank": 41,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 141479,
+        "num": 141479,
+        "word": "李李原型剃度出家又还俗",
+        "onboard_time": 1704863790,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141283,
+        "num": 141283,
+        "word": "寻子18年得知儿子已去世",
+        "onboard_time": 1704860613,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140794,
+        "num": 140794,
+        "word": "王家卫 唐嫣就是汪小姐",
+        "onboard_time": 1704858032,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134119,
+        "num": 134119,
+        "word": "赵明称现在荣耀账户上有很多钱",
+        "onboard_time": 1704873209,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127705,
+        "num": 127705,
+        "word": "长了八百个心眼子的边牧",
+        "onboard_time": 1704874293,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127511,
+        "num": 127511,
+        "word": "明年起连续5年没有年三十",
+        "onboard_time": 1704848371,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124760,
+        "num": 124760,
+        "word": "看完莲花楼爱上成毅",
+        "onboard_time": 1704873391,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123614,
+        "num": 123614,
+        "word": "迪丽热巴的冰岛穿搭",
+        "onboard_time": 1704863435,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进党的自我革命#"
+    }
+  }
+}

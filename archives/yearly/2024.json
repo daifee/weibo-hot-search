@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704872053817,
+  "endTime": 1704874963118,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -721,6 +721,14 @@
       "onboard_time": 1704669624,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1593200,
+      "num": 514750,
+      "word": "江苏一小区被曝发生凶杀案",
+      "onboard_time": 1704872129,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1591369,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704270756,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 947576,
-      "num": 1091912,
-      "word": "新年红包",
-      "onboard_time": 1704037142,
-      "rank": 8,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [

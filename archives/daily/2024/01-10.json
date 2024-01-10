@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704872053817,
+  "endTime": 1704874963118,
   "band_list": [
     {
       "raw_hot": 2896872,
@@ -25,6 +25,14 @@
       "onboard_time": 1704863372,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1593200,
+      "num": 514750,
+      "word": "江苏一小区被曝发生凶杀案",
+      "onboard_time": 1704872129,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1591369,
@@ -163,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 826993,
+      "num": 826993,
+      "word": "复旦本科毕业生直接就业不到两成",
+      "onboard_time": 1704873510,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 814346,
       "num": 814346,
       "word": "街道办回应要求返乡过年人员要报备",
@@ -275,12 +291,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 671421,
+      "num": 671421,
+      "word": "女主表白 男主去拉肚子了",
+      "onboard_time": 1704871530,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 670137,
       "num": 670137,
       "word": "足协要求全员写1500字观后感",
       "onboard_time": 1704863670,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 655384,
+      "num": 655384,
+      "word": "央视曝李铁案关系网",
+      "onboard_time": 1704872251,
+      "rank": 5,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 649123,
@@ -353,6 +385,14 @@
       "onboard_time": 1704846091,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537085,
+      "num": 537085,
+      "word": "微博之夜最新官宣",
+      "onboard_time": 1704870930,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 532410,
@@ -539,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402029,
+      "num": 402029,
+      "word": "迪丽热巴竞品",
+      "onboard_time": 1704871110,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392616,
       "num": 392616,
       "word": "金莎回应被说女油王",
@@ -593,14 +641,6 @@
       "onboard_time": 1704860613,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358671,
-      "num": 358671,
-      "word": "迪丽热巴竞品",
-      "onboard_time": 1704871110,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 352038,
@@ -696,14 +736,6 @@
       "word": "offer5团综定档官宣",
       "onboard_time": 1704857312,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 295394,
-      "num": 295394,
-      "word": "微博之夜最新官宣",
-      "onboard_time": 1704870930,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -867,14 +899,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 222947,
-      "num": 193200,
-      "word": "女主表白 男主去拉肚子了",
-      "onboard_time": 1704871530,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219323,
       "num": 219323,
       "word": "苹果自称拥有五个应用商店",
@@ -891,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213271,
+      "num": 213271,
+      "word": "敖瑞鹏公主抱白鹿",
+      "onboard_time": 1704874773,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208856,
       "num": 208856,
       "word": "急性心梗发作前有哪些症状",
@@ -899,12 +931,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208031,
+      "num": 208031,
+      "word": "恨人有 笑人无",
+      "onboard_time": 1704871290,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207900,
       "num": 207900,
       "word": "珍惜今年的年三十",
       "onboard_time": 1704860315,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207419,
+      "num": 183194,
+      "word": "代入一下秦岚真的要心梗了",
+      "onboard_time": 1704874472,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 205930,
@@ -921,6 +969,14 @@
       "onboard_time": 1704855329,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 204582,
+      "num": 204582,
+      "word": "12306推出学生务工人员春运专区",
+      "onboard_time": 1704874353,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202984,
@@ -979,6 +1035,22 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 193439,
+      "num": 193439,
+      "word": "有一个弟弟妹妹其实很幸福",
+      "onboard_time": 1704873692,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 193397,
+      "num": 193397,
+      "word": "花少这个家王安宇是待不下去了",
+      "onboard_time": 1704873270,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193173,
       "num": 193173,
       "word": "李铁两次带队进中超背后都是假球",
@@ -993,6 +1065,14 @@
       "onboard_time": 1704866792,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191095,
+      "num": 183192,
+      "word": "终于懂为什么说有的皮肤手感好了",
+      "onboard_time": 1704874111,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 188969,
@@ -1024,6 +1104,14 @@
       "word": "小狗认为摸头是世界上最幸福的事",
       "onboard_time": 1704842663,
       "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 187575,
+      "num": 187575,
+      "word": "人坏狗好",
+      "onboard_time": 1704872071,
+      "rank": 28,
       "category": "幽默"
     },
     {
@@ -1059,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183292,
+      "num": 183292,
+      "word": "CCMA红毯",
+      "onboard_time": 1704873751,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181984,
       "num": 181984,
       "word": "给尚未工作的朋友们的建议 多拍照",
@@ -1091,12 +1187,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 178551,
+      "num": 178551,
+      "word": "翻译招聘和工作中常见的专有名词",
+      "onboard_time": 1704872251,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178529,
       "num": 178529,
       "word": "猛龙主帅赛后暴怒",
       "onboard_time": 1704871649,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178407,
+      "num": 178407,
+      "word": "人生第一个一百万是最难的",
+      "onboard_time": 1704873329,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 177908,
@@ -1185,14 +1297,6 @@
       "onboard_time": 1704857129,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160480,
-      "num": 160480,
-      "word": "恨人有 笑人无",
-      "onboard_time": 1704871290,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 159850,
@@ -1371,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134119,
+      "num": 134119,
+      "word": "赵明称现在荣耀账户上有很多钱",
+      "onboard_time": 1704873209,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133547,
       "num": 133547,
       "word": "董宇辉回应网传收入五个多亿",
@@ -1427,6 +1539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 127705,
+      "num": 127705,
+      "word": "长了八百个心眼子的边牧",
+      "onboard_time": 1704874293,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125679,
       "num": 125679,
       "word": "樊振东晒波尔赠送的球衣",
@@ -1441,6 +1561,14 @@
       "onboard_time": 1704810459,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124760,
+      "num": 124760,
+      "word": "看完莲花楼爱上成毅",
+      "onboard_time": 1704873391,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 118574,
@@ -1500,7 +1628,7 @@
     },
     {
       "raw_hot": 104758,
-      "num": 104758,
+      "num": 237846,
       "word": "愿每一次出警都平安归来",
       "onboard_time": 1704842423,
       "rank": 27,
@@ -1769,6 +1897,14 @@
       "onboard_time": 1704832815,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21096,
+      "num": 794348,
+      "word": "探月嫦娥坐上了运20",
+      "onboard_time": 1704855271,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19430,
