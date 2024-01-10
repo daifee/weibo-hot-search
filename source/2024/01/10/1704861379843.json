@@ -1,0 +1,410 @@
+{
+  "runTime": 1704861379843,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1658249,
+        "num": 1658249,
+        "word": "明年起连续5年没有年三十",
+        "onboard_time": 1704848371,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1582967,
+        "num": 1582967,
+        "word": "谁领到了中国第一张身份证",
+        "onboard_time": 1704858091,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73401,
+        "num": 1467279,
+        "word": "反腐大片持续发力纵深推进第四集",
+        "onboard_time": 1704802351,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1432750,
+        "num": 1432750,
+        "word": "男孩捡到价值三万元钻戒后被父母扔掉",
+        "onboard_time": 1704856531,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1311865,
+        "num": 1311865,
+        "word": "李铁收千万保送的4名球员是谁",
+        "onboard_time": 1704859957,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1018163,
+        "num": 1018163,
+        "word": "王家卫 唐嫣就是汪小姐",
+        "onboard_time": 1704858032,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 952231,
+        "num": 952231,
+        "word": "花10万中2.2亿彩票事件调查进展",
+        "onboard_time": 1704851129,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695672,
+        "num": 695672,
+        "word": "李铁出圈以身说法 范志毅出圈演繁花",
+        "onboard_time": 1704857914,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565378,
+        "num": 565378,
+        "word": "救护车被私家车堵住患者经抢救无效死亡",
+        "onboard_time": 1704851790,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508097,
+        "num": 508097,
+        "word": "难怪国足输给越南",
+        "onboard_time": 1704858930,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 819547,
+        "num": 507984,
+        "word": "萝莉岛",
+        "onboard_time": 1704859532,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491552,
+        "num": 491552,
+        "word": "7年恋爱被劝分情侣后续",
+        "onboard_time": 1704849630,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469671,
+        "num": 469671,
+        "word": "没关系 先从写垃圾开始吧",
+        "onboard_time": 1704858512,
+        "rank": 12,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 446286,
+        "num": 446286,
+        "word": "干我们这行上不告父母下不告妻儿",
+        "onboard_time": 1704854431,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429161,
+        "num": 429161,
+        "word": "王一博官宣街舞6总决赛",
+        "onboard_time": 1704856589,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414199,
+        "num": 414199,
+        "word": "飞驰人生2定档",
+        "onboard_time": 1704853650,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 395246,
+        "num": 395246,
+        "word": "妈妈为救儿子4个月狂减20斤",
+        "onboard_time": 1704855989,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52587,
+        "num": 380417,
+        "word": "极氪X如何拿捏高颜值装备控",
+        "onboard_time": 1704859114,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 371835,
+        "num": 371835,
+        "word": "朱丹咬过的肉给周一围吃",
+        "onboard_time": 1704845489,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341856,
+        "num": 341856,
+        "word": "宝总李李真亲了",
+        "onboard_time": 1704842905,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366869,
+        "num": 332350,
+        "word": "央视连播三部谭松韵主演剧",
+        "onboard_time": 1704860134,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297066,
+        "num": 297066,
+        "word": "A先生 替身文学",
+        "onboard_time": 1704852753,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258450,
+        "num": 258450,
+        "word": "沈腾马丽为哈尔滨打call",
+        "onboard_time": 1704859712,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257427,
+        "num": 257427,
+        "word": "我妈劝我早点辞职",
+        "onboard_time": 1704847533,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248251,
+        "num": 248251,
+        "word": "林俊杰黑粉发声明致歉",
+        "onboard_time": 1704856710,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247656,
+        "num": 247656,
+        "word": "厄瓜多尔宣布进入紧急状态",
+        "onboard_time": 1704851850,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 238271,
+        "num": 238271,
+        "word": "offer5团综定档官宣",
+        "onboard_time": 1704857312,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235234,
+        "num": 235234,
+        "word": "台湾小当归哈尔滨街边被疯狂投喂",
+        "onboard_time": 1704850833,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230922,
+        "num": 230922,
+        "word": "千与千寻 白龙吃醋",
+        "onboard_time": 1704859412,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 229990,
+        "num": 229990,
+        "word": "李铁行贿300万当上国足主教练",
+        "onboard_time": 1704804513,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 587100,
+        "num": 228865,
+        "word": "一对夫妇埋下身子让乘客拍富士山",
+        "onboard_time": 1704860493,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291442,
+        "num": 227595,
+        "word": "妻子寻子18年得知儿子已去世",
+        "onboard_time": 1704860613,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221886,
+        "num": 221886,
+        "word": "沈腾范丞丞演父子",
+        "onboard_time": 1704858154,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221609,
+        "num": 221609,
+        "word": "李铁收钱让人进国家队看得俱乐部脸红",
+        "onboard_time": 1704850710,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 219019,
+        "num": 219019,
+        "word": "法国最年轻总理上任",
+        "onboard_time": 1704861159,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 209592,
+        "num": 209592,
+        "word": "威少杜兰特互喷内容曝光",
+        "onboard_time": 1704859894,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207900,
+        "num": 207900,
+        "word": "珍惜今年的年三十",
+        "onboard_time": 1704860315,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205930,
+        "num": 205930,
+        "word": "马伊琍说拍繁花的三年像憋着一口气",
+        "onboard_time": 1704856953,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205685,
+        "num": 205685,
+        "word": "仙剑3三美齐聚微博之夜",
+        "onboard_time": 1704847412,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189451,
+        "num": 189451,
+        "word": "停止乱吃气血就回来了",
+        "onboard_time": 1704846449,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185900,
+        "num": 185900,
+        "word": "李李出家",
+        "onboard_time": 1704802470,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182490,
+        "num": 182490,
+        "word": "教授称房价下跌老百姓损失最大",
+        "onboard_time": 1704847356,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180533,
+        "num": 180533,
+        "word": "芙拉代言人 王俊凯",
+        "onboard_time": 1704856171,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173926,
+        "num": 173926,
+        "word": "父亲在医院像孩子一样站在原地",
+        "onboard_time": 1704858872,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173423,
+        "num": 173423,
+        "word": "李铁带队八连胜冲超离不开钞能力",
+        "onboard_time": 1704851129,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172141,
+        "num": 172141,
+        "word": "微博之夜经典造型",
+        "onboard_time": 1704849990,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167550,
+        "num": 167550,
+        "word": "当我知道领导月薪七万后",
+        "onboard_time": 1704843324,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165747,
+        "num": 165747,
+        "word": "球迷投入真感情 看到的却是假戏",
+        "onboard_time": 1704858154,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162931,
+        "num": 162931,
+        "word": "等国考成绩",
+        "onboard_time": 1704853352,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154916,
+        "num": 154916,
+        "word": "往季队长重聚街舞6总决赛",
+        "onboard_time": 1704856290,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进党的自我革命#"
+    }
+  }
+}

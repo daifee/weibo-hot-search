@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704860513241,
+  "endTime": 1704861379843,
   "band_list": [
     {
       "raw_hot": 6441845,
@@ -203,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1582967,
+      "num": 1582967,
+      "word": "谁领到了中国第一张身份证",
+      "onboard_time": 1704858091,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1562900,
       "num": 1562900,
       "word": "车厘子每斤便宜60元",
@@ -257,14 +265,6 @@
       "onboard_time": 1704799469,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1368507,
-      "num": 1368507,
-      "word": "谁领到了中国第一张身份证",
-      "onboard_time": 1704858091,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1367178,
@@ -329,6 +329,14 @@
       "onboard_time": 1704775174,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1311865,
+      "num": 1311865,
+      "word": "李铁收千万保送的4名球员是谁",
+      "onboard_time": 1704859957,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1301854,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 1130214,
-      "num": 464277,
+      "num": 507984,
       "word": "萝莉岛",
       "onboard_time": 1704725911,
       "rank": 10,
@@ -635,6 +643,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1018163,
+      "num": 1018163,
+      "word": "王家卫 唐嫣就是汪小姐",
+      "onboard_time": 1704858032,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 993471,
       "num": 993471,
       "word": "蔡依林 浪5",
@@ -649,14 +665,6 @@
       "onboard_time": 1704792272,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 992938,
-      "num": 992938,
-      "word": "王家卫 唐嫣就是汪小姐",
-      "onboard_time": 1704858032,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 990683,
@@ -857,14 +865,6 @@
       "onboard_time": 1704714210,
       "rank": 10,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 834984,
-      "num": 539381,
-      "word": "李铁收千万保送的4名球员是谁",
-      "onboard_time": 1704859957,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 827373,
@@ -1620,7 +1620,7 @@
     },
     {
       "raw_hot": 605079,
-      "num": 1372723,
+      "num": 1467279,
       "word": "反腐大片持续发力纵深推进第四集",
       "onboard_time": 1704802351,
       "rank": 13,
@@ -1697,6 +1697,14 @@
       "onboard_time": 1704779131,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 587100,
+      "num": 238922,
+      "word": "一对夫妇埋下身子让乘客拍富士山",
+      "onboard_time": 1704860493,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 586172,
@@ -2131,6 +2139,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 508097,
+      "num": 508097,
+      "word": "难怪国足输给越南",
+      "onboard_time": 1704858930,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507946,
       "num": 507946,
       "word": "刘诗诗靠张云龙肩膀路透",
@@ -2385,14 +2401,6 @@
       "onboard_time": 1704689557,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 469219,
-      "num": 469219,
-      "word": "难怪国足输给越南",
-      "onboard_time": 1704858930,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 469206,
@@ -3051,6 +3059,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 366869,
+      "num": 332350,
+      "word": "央视连播三部谭松韵主演剧",
+      "onboard_time": 1704860134,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365382,
       "num": 365382,
       "word": "ITZY回归",
@@ -3371,14 +3387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 314467,
-      "num": 238922,
-      "word": "一对夫妇埋下身子让乘客拍富士山",
-      "onboard_time": 1704860493,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 313906,
       "num": 313906,
       "word": "A先生李李恋情",
@@ -3617,6 +3625,14 @@
       "onboard_time": 1704699571,
       "rank": 17,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 291442,
+      "num": 227595,
+      "word": "妻子寻子18年得知儿子已去世",
+      "onboard_time": 1704860613,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291129,
@@ -3939,6 +3955,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 258450,
+      "num": 258450,
+      "word": "沈腾马丽为哈尔滨打call",
+      "onboard_time": 1704859712,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258390,
       "num": 934216,
       "word": "民警吃火锅多看一眼抓住2名逃犯",
@@ -4161,14 +4185,6 @@
       "onboard_time": 1704809432,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242793,
-      "num": 242793,
-      "word": "央视连播三部谭松韵主演剧",
-      "onboard_time": 1704860134,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 241621,
@@ -4427,14 +4443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226690,
-      "num": 226690,
-      "word": "沈腾马丽为哈尔滨打call",
-      "onboard_time": 1704859712,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226477,
       "num": 226477,
       "word": "你可以叫我 滨",
@@ -4617,6 +4625,14 @@
       "onboard_time": 1704756867,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219019,
+      "num": 219019,
+      "word": "法国最年轻总理上任",
+      "onboard_time": 1704861159,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 218574,
@@ -4827,6 +4843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207900,
+      "num": 207900,
+      "word": "珍惜今年的年三十",
+      "onboard_time": 1704860315,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207885,
       "num": 207885,
       "word": "丞磊的综艺感一期比一期离谱",
@@ -4889,6 +4913,14 @@
       "onboard_time": 1704602313,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205930,
+      "num": 205930,
+      "word": "马伊琍说拍繁花的三年像憋着一口气",
+      "onboard_time": 1704856953,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 205404,
@@ -4985,14 +5017,6 @@
       "onboard_time": 1704680309,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203224,
-      "num": 203224,
-      "word": "马伊琍说拍繁花的三年像憋着一口气",
-      "onboard_time": 1704856953,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 203183,
@@ -5771,14 +5795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182022,
-      "num": 182022,
-      "word": "珍惜今年的年三十",
-      "onboard_time": 1704860315,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181976,
       "num": 181976,
       "word": "檀健次跨年vlog",
@@ -6329,6 +6345,14 @@
       "onboard_time": 1704637596,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165747,
+      "num": 165747,
+      "word": "球迷投入真感情 看到的却是假戏",
+      "onboard_time": 1704858154,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 165603,
@@ -9355,6 +9379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 52587,
+      "num": 380417,
+      "word": "极氪X如何拿捏高颜值装备控",
+      "onboard_time": 1704859114,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52216,
       "num": 52216,
       "word": "张雪峰推荐网友去齐齐哈尔玩",
@@ -9369,14 +9401,6 @@
       "onboard_time": 1704620731,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 51130,
-      "num": 331912,
-      "word": "极氪X如何拿捏高颜值装备控",
-      "onboard_time": 1704859114,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 50783,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704817392414,
-  "endTime": 1704860513241,
+  "endTime": 1704861379843,
   "band_list": [
     {
       "raw_hot": 2896872,
@@ -17,6 +17,14 @@
       "onboard_time": 1704804513,
       "rank": 0,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1582967,
+      "num": 1582967,
+      "word": "谁领到了中国第一张身份证",
+      "onboard_time": 1704858091,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1503665,
@@ -43,20 +51,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1368507,
-      "num": 1368507,
-      "word": "谁领到了中国第一张身份证",
-      "onboard_time": 1704858091,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1345343,
       "num": 1345343,
       "word": "李李出家",
       "onboard_time": 1704802470,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1311865,
+      "num": 1311865,
+      "word": "李铁收千万保送的4名球员是谁",
+      "onboard_time": 1704859957,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1140854,
@@ -83,8 +91,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 992938,
-      "num": 992938,
+      "raw_hot": 1018163,
+      "num": 1018163,
       "word": "王家卫 唐嫣就是汪小姐",
       "onboard_time": 1704858032,
       "rank": 5,
@@ -99,12 +107,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 834984,
-      "num": 539381,
-      "word": "李铁收千万保送的4名球员是谁",
-      "onboard_time": 1704859957,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 819547,
+      "num": 507984,
+      "word": "萝莉岛",
+      "onboard_time": 1704859532,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 814346,
@@ -243,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587100,
+      "num": 238922,
+      "word": "一对夫妇埋下身子让乘客拍富士山",
+      "onboard_time": 1704860493,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 546487,
       "num": 546487,
       "word": "我们为什么可以脱口而出110",
@@ -281,6 +297,14 @@
       "onboard_time": 1704816988,
       "rank": 22,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 508097,
+      "num": 508097,
+      "word": "难怪国足输给越南",
+      "onboard_time": 1704858930,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 502491,
@@ -345,22 +369,6 @@
       "onboard_time": 1704811895,
       "rank": 6,
       "category": "剧集,体育"
-    },
-    {
-      "raw_hot": 469219,
-      "num": 469219,
-      "word": "难怪国足输给越南",
-      "onboard_time": 1704858930,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 460290,
-      "num": 460290,
-      "word": "萝莉岛",
-      "onboard_time": 1704859532,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445146,
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366869,
+      "num": 332350,
+      "word": "央视连播三部谭松韵主演剧",
+      "onboard_time": 1704860134,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350911,
       "num": 350911,
       "word": "进去的人比进去的球还多",
@@ -491,14 +507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 314467,
-      "num": 238922,
-      "word": "一对夫妇埋下身子让乘客拍富士山",
-      "onboard_time": 1704860493,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 307279,
       "num": 307279,
       "word": "A先生 替身文学",
@@ -521,6 +529,14 @@
       "onboard_time": 1704857312,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291442,
+      "num": 227595,
+      "word": "妻子寻子18年得知儿子已去世",
+      "onboard_time": 1704860613,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271041,
@@ -555,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258450,
+      "num": 258450,
+      "word": "沈腾马丽为哈尔滨打call",
+      "onboard_time": 1704859712,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248222,
       "num": 248222,
       "word": "熬夜后的恢复方法",
@@ -569,14 +593,6 @@
       "onboard_time": 1704805771,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 242793,
-      "num": 242793,
-      "word": "央视连播三部谭松韵主演剧",
-      "onboard_time": 1704860134,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 242430,
@@ -619,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226690,
-      "num": 226690,
-      "word": "沈腾马丽为哈尔滨打call",
-      "onboard_time": 1704859712,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224757,
       "num": 224757,
       "word": "父亲在医院像孩子一样站在原地",
@@ -651,6 +659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 219019,
+      "num": 219019,
+      "word": "法国最年轻总理上任",
+      "onboard_time": 1704861159,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 218574,
       "num": 218574,
       "word": "芙拉代言人 王俊凯",
@@ -659,20 +675,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207900,
+      "num": 207900,
+      "word": "珍惜今年的年三十",
+      "onboard_time": 1704860315,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 205930,
+      "num": 205930,
+      "word": "马伊琍说拍繁花的三年像憋着一口气",
+      "onboard_time": 1704856953,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205213,
       "num": 205213,
       "word": "教资认定",
       "onboard_time": 1704855329,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 203224,
-      "num": 203224,
-      "word": "马伊琍说拍繁花的三年像憋着一口气",
-      "onboard_time": 1704856953,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 202984,
@@ -755,14 +779,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 182022,
-      "num": 182022,
-      "word": "珍惜今年的年三十",
-      "onboard_time": 1704860315,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181055,
       "num": 181055,
       "word": "樊振东波尔约饭",
@@ -788,7 +804,7 @@
     },
     {
       "raw_hot": 175636,
-      "num": 1372723,
+      "num": 1467279,
       "word": "反腐大片持续发力纵深推进第四集",
       "onboard_time": 1704802351,
       "rank": 37,
@@ -808,6 +824,14 @@
       "word": "李铁",
       "onboard_time": 1704845009,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165747,
+      "num": 165747,
+      "word": "球迷投入真感情 看到的却是假戏",
+      "onboard_time": 1704858154,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1235,20 +1259,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52587,
+      "num": 380417,
+      "word": "极氪X如何拿捏高颜值装备控",
+      "onboard_time": 1704859114,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52444,
       "num": 68316,
       "word": "央视列足坛反腐被查阵容",
       "onboard_time": 1704814232,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51130,
-      "num": 331912,
-      "word": "极氪X如何拿捏高颜值装备控",
-      "onboard_time": 1704859114,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 50783,
