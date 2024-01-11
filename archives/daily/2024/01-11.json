@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704957406841,
+  "endTime": 1704958532750,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -43,6 +43,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1497889,
+      "num": 1497889,
+      "word": "宋爷爷发文准备告别福宝",
+      "onboard_time": 1704954750,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1407157,
       "num": 1407157,
       "word": "迪丽热巴官宣微博之夜",
@@ -73,14 +81,6 @@
       "onboard_time": 1704931649,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1087032,
-      "num": 1087032,
-      "word": "宋爷爷发文准备告别福宝",
-      "onboard_time": 1704954750,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 992257,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 787142,
+      "num": 787142,
+      "word": "青春痘疫苗或将面世",
+      "onboard_time": 1704953792,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 762728,
       "num": 344776,
       "word": "妹妹上班三年存了30万",
@@ -152,14 +160,6 @@
       "word": "晚婚已成为普遍现象",
       "onboard_time": 1704895655,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 752417,
-      "num": 752417,
-      "word": "青春痘疫苗或将面世",
-      "onboard_time": 1704953792,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542371,
+      "num": 542371,
+      "word": "2名间谍落网现场曝光",
+      "onboard_time": 1704956489,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508432,
       "num": 508432,
       "word": "程前事件",
@@ -313,6 +321,14 @@
       "onboard_time": 1704939448,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 457679,
+      "num": 384231,
+      "word": "京东物流001号员工退休",
+      "onboard_time": 1704957389,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 452348,
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376562,
+      "num": 331409,
+      "word": "男子住酒店发现名字被印得到处都是",
+      "onboard_time": 1704956787,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367091,
       "num": 277341,
       "word": "无面男孩18岁洗掉脸上纹身",
@@ -408,6 +432,14 @@
       "word": "女孩认领遗失手机亮出的壁纸让人感动",
       "onboard_time": 1704934951,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361097,
+      "num": 361097,
+      "word": "广西一中学学生趴桌午休收费260元",
+      "onboard_time": 1704954928,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -427,16 +459,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 351838,
-      "num": 351838,
-      "word": "广西一中学学生趴桌午休收费260元",
-      "onboard_time": 1704954928,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345367,
-      "num": 311675,
+      "num": 324319,
       "word": "这种癌很容易漏诊误诊",
       "onboard_time": 1704955826,
       "rank": 21,
@@ -465,6 +489,14 @@
       "onboard_time": 1704901830,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 335041,
+      "num": 335041,
+      "word": "梅西卖酒",
+      "onboard_time": 1704957148,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 333280,
@@ -659,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278461,
+      "num": 278461,
+      "word": "为什么高学历也挣不到钱了",
+      "onboard_time": 1704956787,
+      "rank": 34,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 278047,
       "num": 150081,
       "word": "以前谈恋爱是要交换QQ密码的",
@@ -699,14 +739,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 264426,
-      "num": 264426,
-      "word": "2名间谍落网现场曝光",
-      "onboard_time": 1704956489,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255960,
       "num": 255960,
       "word": "王一博加盟微博之夜",
@@ -737,14 +769,6 @@
       "onboard_time": 1704947674,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243077,
-      "num": 243077,
-      "word": "男子住酒店发现名字被印得到处都是",
-      "onboard_time": 1704956787,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242860,
@@ -947,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182533,
+      "num": 182533,
+      "word": "天天挨骂的刑警8年挽回亿元损失",
+      "onboard_time": 1704957750,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182451,
       "num": 152235,
       "word": "桃草",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1704953311,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 176795,
-      "num": 176795,
-      "word": "为什么高学历也挣不到钱了",
-      "onboard_time": 1704956787,
-      "rank": 34,
-      "category": "社会议题"
     },
     {
       "raw_hot": 176014,
@@ -1155,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160197,
+      "num": 160197,
+      "word": "荣耀回应任意门照抄锤子",
+      "onboard_time": 1704957271,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 158215,
       "num": 158215,
       "word": "70%的人都经历过下巴掉了",
@@ -1219,14 +1251,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 145433,
-      "num": 145433,
-      "word": "梅西卖酒",
-      "onboard_time": 1704957148,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143630,
       "num": 143630,
       "word": "一进腊月就是年",
@@ -1257,14 +1281,6 @@
       "onboard_time": 1704935789,
       "rank": 40,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 138125,
-      "num": 138125,
-      "word": "荣耀回应任意门照抄锤子",
-      "onboard_time": 1704957271,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 137558,
@@ -1305,6 +1321,22 @@
       "onboard_time": 1704938247,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131759,
+      "num": 141042,
+      "word": "李铁曾在足坛布局铁圈",
+      "onboard_time": 1704957930,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 130603,
+      "num": 130603,
+      "word": "王凯男粉要进他厂子",
+      "onboard_time": 1704957449,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 130371,
@@ -1387,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121802,
+      "num": 121802,
+      "word": "田嘉瑞深V",
+      "onboard_time": 1704958529,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121111,
       "num": 121111,
       "word": "程前主持风马牛年终秀圆桌论坛惹争议",
@@ -1417,6 +1457,14 @@
       "onboard_time": 1704941732,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120328,
+      "num": 120328,
+      "word": "Ricky御寒法",
+      "onboard_time": 1704958290,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 119578,
@@ -1457,14 +1505,6 @@
       "onboard_time": 1704933573,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 113823,
-      "num": 113823,
-      "word": "京东物流001号员工退休",
-      "onboard_time": 1704957389,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 111702,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704957406841,
+  "endTime": 1704958532750,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -936,6 +936,14 @@
       "word": "女子在公园被陌生男子连刺30多刀",
       "onboard_time": 1704282334,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1497889,
+      "num": 1497889,
+      "word": "宋爷爷发文准备告别福宝",
+      "onboard_time": 1704954750,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1985,14 +1993,6 @@
       "onboard_time": 1704349469,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1087032,
-      "num": 1087032,
-      "word": "宋爷爷发文准备告别福宝",
-      "onboard_time": 1704954750,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1086952,
