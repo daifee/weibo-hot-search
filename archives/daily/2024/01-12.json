@@ -1,6 +1,6 @@
 {
   "startTime": 1704990232348,
-  "endTime": 1705004404610,
+  "endTime": 1705005269941,
   "band_list": [
     {
       "raw_hot": 984479,
@@ -483,12 +483,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 14443,
-      "num": 14443,
+      "raw_hot": 17652,
+      "num": 15004,
       "word": "有小孩后第一次做自己的瞬间",
       "onboard_time": 1705003273,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16752,
+      "num": 14788,
+      "word": "孕妇遭猥亵殴打案一审男友发声",
+      "onboard_time": 1705004173,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13631,
@@ -513,14 +521,6 @@
       "onboard_time": 1704974850,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10619,
-      "num": 10619,
-      "word": "孕妇遭猥亵殴打案一审男友发声",
-      "onboard_time": 1705004173,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
