@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704980040656,
+  "endTime": 1704982625344,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1123550,
-      "num": 278264,
+      "num": 285448,
       "word": "母亲以死逼婚儿子结婚半年闪离",
       "onboard_time": 1704964531,
       "rank": 39,
@@ -139,8 +139,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1080271,
+      "num": 1080271,
+      "word": "人社局回应郑云龙入职人艺",
+      "onboard_time": 1704977791,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 997014,
-      "num": 403395,
+      "num": 414440,
       "word": "女子称与男网友住酒店遭强奸",
       "onboard_time": 1704972271,
       "rank": 30,
@@ -201,14 +209,6 @@
       "onboard_time": 1704929424,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 889576,
-      "num": 889576,
-      "word": "人社局回应郑云龙入职人艺",
-      "onboard_time": 1704977791,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 854321,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543831,
+      "num": 405193,
+      "word": "肖战直播",
+      "onboard_time": 1704980610,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533918,
       "num": 533918,
       "word": "浙江一男子肺部发现557个结节",
@@ -531,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513046,
+      "num": 513046,
+      "word": "孕妇遭男子殴打致耳聋胎儿被迫流产",
+      "onboard_time": 1704980314,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508432,
       "num": 508432,
       "word": "程前事件",
       "onboard_time": 1704955109,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 494904,
+      "num": 494904,
+      "word": "麦穗 十个勤天",
+      "onboard_time": 1704981090,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 485851,
@@ -683,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416203,
+      "num": 269533,
+      "word": "A股天价离婚女方将分40亿",
+      "onboard_time": 1704980794,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 410523,
       "num": 410523,
       "word": "王心凌终于从台北唱到了东北",
@@ -723,12 +755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381454,
+      "num": 361864,
+      "word": "黄觉联系上白敬亭了",
+      "onboard_time": 1704981877,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376562,
       "num": 331409,
       "word": "男子住酒店发现名字被印得到处都是",
       "onboard_time": 1704956787,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373641,
+      "num": 373641,
+      "word": "林高远林诗栋0比3张本智和篠塚大登",
+      "onboard_time": 1704980370,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 367091,
@@ -1307,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212484,
+      "num": 212484,
+      "word": "同事的朋友圈都是仅三天可见",
+      "onboard_time": 1704978212,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210689,
       "num": 210689,
       "word": "周鸿祎程前互怼",
@@ -1385,6 +1441,14 @@
       "onboard_time": 1704978631,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204718,
+      "num": 204718,
+      "word": "打工人快要吃不起麦当劳了",
+      "onboard_time": 1704981572,
+      "rank": 28,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 204346,
@@ -1489,14 +1553,6 @@
       "onboard_time": 1704934651,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 189788,
-      "num": 189788,
-      "word": "同事的朋友圈都是仅三天可见",
-      "onboard_time": 1704978212,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 189736,
@@ -1993,6 +2049,14 @@
       "onboard_time": 1704959730,
       "rank": 39,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 144618,
+      "num": 144618,
+      "word": "韩莹受伤",
+      "onboard_time": 1704982052,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 143630,
@@ -2507,12 +2571,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105001,
+      "num": 105001,
+      "word": "荣耀magic6价格",
+      "onboard_time": 1704980673,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104257,
       "num": 104257,
       "word": "这就是街舞",
       "onboard_time": 1704942990,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100962,
+      "num": 100962,
+      "word": "法医视角vs普通人视角",
+      "onboard_time": 1704981451,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 100271,
@@ -2528,6 +2608,14 @@
       "word": "师傅连续10年收到徒弟母亲寄的特产",
       "onboard_time": 1704929123,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97194,
+      "num": 797486,
+      "word": "中国汽车产销量创历史新高",
+      "onboard_time": 1704980610,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2620,7 +2708,7 @@
     },
     {
       "raw_hot": 80196,
-      "num": 87928,
+      "num": 143569,
       "word": "手机卫星通信进入荣耀时刻",
       "onboard_time": 1704977310,
       "rank": 48,
@@ -2812,7 +2900,7 @@
     },
     {
       "raw_hot": 45701,
-      "num": 122197,
+      "num": 250878,
       "word": "荣耀首发1.8亿像素潜望长焦",
       "onboard_time": 1704979891,
       "rank": 49,
