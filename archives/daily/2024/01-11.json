@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704976419980,
+  "endTime": 1704977385455,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 806614,
+      "num": 806614,
+      "word": "刚刚出生12个小时的长颈鹿宝宝",
+      "onboard_time": 1704974009,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 806340,
       "num": 806340,
       "word": "父母双亡独生女在哪过年",
@@ -233,6 +241,14 @@
       "onboard_time": 1704953792,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 783392,
+      "num": 783392,
+      "word": "刘亦菲戴面纱",
+      "onboard_time": 1704975210,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 762728,
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 725457,
+      "num": 363799,
+      "word": "肖战小香风外套",
+      "onboard_time": 1704976111,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 725215,
       "num": 725215,
       "word": "厦门一公司发生闪爆事件致3死3伤",
@@ -323,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 648365,
-      "num": 648365,
-      "word": "刘亦菲戴面纱",
-      "onboard_time": 1704975210,
-      "rank": 4,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 626795,
       "num": 626795,
       "word": "肖战去微博之夜",
@@ -369,14 +385,6 @@
       "onboard_time": 1704947254,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 608992,
-      "num": 608992,
-      "word": "刚刚出生12个小时的长颈鹿宝宝",
-      "onboard_time": 1704974009,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 600874,
@@ -435,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 566763,
+      "num": 566763,
+      "word": "我们失去了半个贾玲",
+      "onboard_time": 1704973590,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 564768,
       "num": 446232,
       "word": "周翊然高定",
@@ -481,14 +497,6 @@
       "onboard_time": 1704918552,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 538625,
-      "num": 538625,
-      "word": "我们失去了半个贾玲",
-      "onboard_time": 1704973590,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 533918,
@@ -763,14 +771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 351008,
-      "num": 351008,
-      "word": "肖战小香风外套",
-      "onboard_time": 1704976111,
-      "rank": 13,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 345275,
       "num": 345275,
       "word": "电影白蛇浮生定档",
@@ -849,6 +849,14 @@
       "onboard_time": 1704970229,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322226,
+      "num": 270151,
+      "word": "梨形身材是最健康身材",
+      "onboard_time": 1704973470,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 320567,
@@ -937,14 +945,6 @@
       "onboard_time": 1704943829,
       "rank": 16,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 301914,
-      "num": 270151,
-      "word": "梨形身材是最健康身材",
-      "onboard_time": 1704973470,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 301766,
@@ -1228,7 +1228,7 @@
     },
     {
       "raw_hot": 220036,
-      "num": 158389,
+      "num": 212204,
       "word": "我妈的女婿可以是输液杆",
       "onboard_time": 1704972210,
       "rank": 31,
@@ -1315,20 +1315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205388,
+      "num": 205388,
+      "word": "每天做三十次会改变身体的腹部训练",
+      "onboard_time": 1704975812,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 205254,
+      "num": 205254,
+      "word": "刘耀文第二十条",
+      "onboard_time": 1704976351,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204346,
       "num": 204346,
       "word": "林诗栋蒯曼3比0林高远王曼昱",
       "onboard_time": 1704971370,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204048,
-      "num": 204048,
-      "word": "刘耀文第二十条",
-      "onboard_time": 1704976351,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 202803,
@@ -1579,14 +1587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175879,
-      "num": 175879,
-      "word": "每天做三十次会改变身体的腹部训练",
-      "onboard_time": 1704975812,
-      "rank": 27,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 175642,
       "num": 175642,
       "word": "原生家庭真能决定你的人生吗",
@@ -1769,6 +1769,14 @@
       "onboard_time": 1704957271,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 158512,
+      "num": 143585,
+      "word": "小猪章鱼",
+      "onboard_time": 1704975812,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 158215,
@@ -2147,14 +2155,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 126144,
-      "num": 126144,
-      "word": "小猪章鱼",
-      "onboard_time": 1704975812,
-      "rank": 36,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 125656,
       "num": 125656,
       "word": "J人 做计划",
@@ -2185,6 +2185,22 @@
       "onboard_time": 1704893734,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124091,
+      "num": 124091,
+      "word": "从小到大没有过什么惊喜",
+      "onboard_time": 1704977310,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 123236,
+      "num": 123236,
+      "word": "武校两岁半萌娃跟师傅回家看妈妈",
+      "onboard_time": 1704976830,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122956,
@@ -2419,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95516,
+      "num": 95516,
+      "word": "小东北虎到广西兴奋得半夜才睡着觉",
+      "onboard_time": 1704977072,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94167,
       "num": 111329,
       "word": "跟相亲对象认识14天订婚了",
@@ -2441,6 +2465,14 @@
       "onboard_time": 1704903865,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90804,
+      "num": 90804,
+      "word": "周鸿祎再谈程前事件",
+      "onboard_time": 1704977372,
+      "rank": 47,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 90731,
@@ -2489,6 +2521,14 @@
       "onboard_time": 1704928161,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80196,
+      "num": 87928,
+      "word": "手机卫星通信进入荣耀时刻",
+      "onboard_time": 1704977310,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 78935,
