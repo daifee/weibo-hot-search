@@ -1,6 +1,6 @@
 {
   "startTime": 1704990232348,
-  "endTime": 1705005269941,
+  "endTime": 1705007755468,
   "band_list": [
     {
       "raw_hot": 984479,
@@ -467,6 +467,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 29714,
+      "num": 15004,
+      "word": "有小孩后第一次做自己的瞬间",
+      "onboard_time": 1705003273,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 24036,
       "num": 24036,
       "word": "摩羯座新月许愿",
@@ -475,28 +483,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 22757,
+      "num": 14788,
+      "word": "孕妇遭猥亵殴打案一审男友发声",
+      "onboard_time": 1705004173,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19114,
       "num": 19114,
       "word": "用筋膜枪治痔疮不可行",
       "onboard_time": 1705001354,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 17652,
-      "num": 15004,
-      "word": "有小孩后第一次做自己的瞬间",
-      "onboard_time": 1705003273,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 16752,
-      "num": 14788,
-      "word": "孕妇遭猥亵殴打案一审男友发声",
-      "onboard_time": 1705004173,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13631,
@@ -521,6 +521,14 @@
       "onboard_time": 1704974850,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10286,
+      "num": 10286,
+      "word": "美国12月CPI超预期",
+      "onboard_time": 1705002133,
+      "rank": 49,
+      "category": "财经"
     }
   ],
   "hotgov_list": [
