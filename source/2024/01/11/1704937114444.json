@@ -1,0 +1,410 @@
+{
+  "runTime": 1704937114444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2786727,
+        "num": 2786727,
+        "word": "近视眼从800度降到100度的过程",
+        "onboard_time": 1704933933,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 992257,
+        "num": 992257,
+        "word": "霸王茶姬回应外卖按杯收取包装费",
+        "onboard_time": 1704933631,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65801,
+        "num": 917392,
+        "word": "这或许是对110最走心的定义",
+        "onboard_time": 1704896854,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1196378,
+        "num": 915408,
+        "word": "25岁姑娘体检发现结节无症状确诊肺癌",
+        "onboard_time": 1704901291,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 911143,
+        "num": 911143,
+        "word": "19岁的游本昌",
+        "onboard_time": 1704931649,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 958196,
+        "num": 894630,
+        "word": "俩95后宝妈离婚后搭伙过日子",
+        "onboard_time": 1704929606,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744063,
+        "num": 744063,
+        "word": "00后网文作家被曝年入百万",
+        "onboard_time": 1704935909,
+        "rank": 6,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 592479,
+        "num": 592479,
+        "word": "晚上在家试了把王家卫镜头",
+        "onboard_time": 1704935133,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 543298,
+        "num": 543298,
+        "word": "水哥 我初中三年饱受校园暴力",
+        "onboard_time": 1704931830,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437230,
+        "num": 437230,
+        "word": "为啥网上的药比实体药店更便宜",
+        "onboard_time": 1704910936,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712901,
+        "num": 436790,
+        "word": "16岁女生讨要抚养费被亲戚打流产",
+        "onboard_time": 1704929424,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435329,
+        "num": 435329,
+        "word": "何猷君觉得父亲最帅的照片",
+        "onboard_time": 1704929424,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397805,
+        "num": 397805,
+        "word": "胡歌 微博之夜开屏",
+        "onboard_time": 1704935551,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317278,
+        "num": 317278,
+        "word": "警方通报男子抱怨地铁里农民工太多",
+        "onboard_time": 1704935849,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296472,
+        "num": 296472,
+        "word": "女生发现妹妹的书桌藏着一幅山水画",
+        "onboard_time": 1704931649,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294625,
+        "num": 294625,
+        "word": "47岁男子没要到3000元生活费纵火烧家",
+        "onboard_time": 1704918552,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252604,
+        "num": 252604,
+        "word": "宋运辉梁思申 心动的信号",
+        "onboard_time": 1704932190,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245418,
+        "num": 245418,
+        "word": "阿尔茨海默病新药国内定价每瓶2508元",
+        "onboard_time": 1704930866,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228267,
+        "num": 228267,
+        "word": "高启盛武器库",
+        "onboard_time": 1704932551,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227350,
+        "num": 227350,
+        "word": "上影花5亿买基地支持繁花拍摄",
+        "onboard_time": 1704899254,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364851,
+        "num": 224278,
+        "word": "女孩认领遗失手机亮出的壁纸让人感动",
+        "onboard_time": 1704934951,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303386,
+        "num": 218369,
+        "word": "无面男孩18岁洗掉脸上纹身",
+        "onboard_time": 1704931348,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294071,
+        "num": 214978,
+        "word": "晚婚已成为普遍现象",
+        "onboard_time": 1704895655,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275663,
+        "num": 209285,
+        "word": "飞机上拒绝了想换座的情侣",
+        "onboard_time": 1704901830,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208076,
+        "num": 208076,
+        "word": "辛芷蕾金色吊带",
+        "onboard_time": 1704890192,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196046,
+        "num": 196046,
+        "word": "被萌兰33码小jiojio呼脸上了",
+        "onboard_time": 1704900333,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186531,
+        "num": 186531,
+        "word": "王心凌终于从台北唱到了东北",
+        "onboard_time": 1704897158,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177516,
+        "num": 177516,
+        "word": "还好是他们七个人",
+        "onboard_time": 1704928100,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170984,
+        "num": 170984,
+        "word": "配货140多万没买到心仪爱马仕包",
+        "onboard_time": 1704895655,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168507,
+        "num": 168507,
+        "word": "阿尔茨海默病不只是记忆力下降",
+        "onboard_time": 1704935670,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170521,
+        "num": 166841,
+        "word": "青萝卜皮 偏头痛",
+        "onboard_time": 1704936389,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163882,
+        "num": 163882,
+        "word": "多家乳企回应袋装牛奶带吸管",
+        "onboard_time": 1704936509,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159642,
+        "num": 159642,
+        "word": "GPTStore上线",
+        "onboard_time": 1704934651,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158273,
+        "num": 158273,
+        "word": "周鸿祎回应程前道歉",
+        "onboard_time": 1704928762,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158184,
+        "num": 158184,
+        "word": "王安宇的手到底有多臭",
+        "onboard_time": 1704899316,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152432,
+        "num": 152432,
+        "word": "KCON香港",
+        "onboard_time": 1704935612,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150587,
+        "num": 150587,
+        "word": "70%的人都经历过下巴掉了",
+        "onboard_time": 1704935073,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137109,
+        "num": 137109,
+        "word": "出现这5种情况可能疑似直肠癌",
+        "onboard_time": 1704930085,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127981,
+        "num": 127981,
+        "word": "小砂糖橘宝贝回家啦",
+        "onboard_time": 1704936389,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125443,
+        "num": 125443,
+        "word": "网约司机车上现女士内裤遭分手",
+        "onboard_time": 1704895055,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125112,
+        "num": 125112,
+        "word": "小砂糖橘感谢东北的老铁们",
+        "onboard_time": 1704934413,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125008,
+        "num": 125008,
+        "word": "以前谈恋爱是要交换QQ密码的",
+        "onboard_time": 1704897395,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122684,
+        "num": 122684,
+        "word": "唐嫣哭肿了",
+        "onboard_time": 1704892533,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121039,
+        "num": 121039,
+        "word": "周鸿祎程前互怼",
+        "onboard_time": 1704929062,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114704,
+        "num": 114704,
+        "word": "还有1个月就过年了",
+        "onboard_time": 1704933573,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112789,
+        "num": 112789,
+        "word": "减少卡粉的最重要的步骤",
+        "onboard_time": 1704935789,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 112229,
+        "num": 112229,
+        "word": "程前发博致歉",
+        "onboard_time": 1704897034,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107304,
+        "num": 107304,
+        "word": "湖人猛龙裁判报告",
+        "onboard_time": 1704934711,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105346,
+        "num": 105346,
+        "word": "老人突发心梗她跪地急救抢回一命",
+        "onboard_time": 1704937107,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103935,
+        "num": 103935,
+        "word": "cos李相夷逛漫展",
+        "onboard_time": 1704937049,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#一体推进不敢腐不能腐不想腐#"
+    }
+  }
+}

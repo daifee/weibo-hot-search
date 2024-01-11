@@ -1,10 +1,10 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704935836261,
+  "endTime": 1704937114444,
   "band_list": [
     {
-      "raw_hot": 2620362,
-      "num": 2620362,
+      "raw_hot": 2786727,
+      "num": 2786727,
       "word": "近视眼从800度降到100度的过程",
       "onboard_time": 1704933933,
       "rank": 0,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1246402,
-      "num": 728646,
+      "num": 894630,
       "word": "俩95后宝妈离婚后搭伙过日子",
       "onboard_time": 1704929606,
       "rank": 46,
@@ -28,27 +28,27 @@
     },
     {
       "raw_hot": 1186591,
-      "num": 794768,
+      "num": 911143,
       "word": "19岁的游本昌",
       "onboard_time": 1704931649,
       "rank": 4,
       "category": "艺人"
     },
     {
-      "raw_hot": 889763,
-      "num": 412551,
-      "word": "16岁女生讨要抚养费被亲戚打流产",
-      "onboard_time": 1704929424,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 873713,
-      "num": 873713,
+      "raw_hot": 992257,
+      "num": 992257,
       "word": "霸王茶姬回应外卖按杯收取包装费",
       "onboard_time": 1704933631,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 889763,
+      "num": 436790,
+      "word": "16岁女生讨要抚养费被亲戚打流产",
+      "onboard_time": 1704929424,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 759647,
@@ -57,6 +57,14 @@
       "onboard_time": 1704895655,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744063,
+      "num": 744063,
+      "word": "00后网文作家被曝年入百万",
+      "onboard_time": 1704935909,
+      "rank": 6,
+      "category": "读书作家"
     },
     {
       "raw_hot": 726969,
@@ -81,6 +89,14 @@
       "onboard_time": 1704931830,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 592479,
+      "num": 592479,
+      "word": "晚上在家试了把王家卫镜头",
+      "onboard_time": 1704935133,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 567584,
@@ -123,16 +139,32 @@
       "category": "演出"
     },
     {
+      "raw_hot": 397805,
+      "num": 397805,
+      "word": "胡歌 微博之夜开屏",
+      "onboard_time": 1704935551,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 367091,
-      "num": 209496,
+      "num": 218369,
       "word": "无面男孩18岁洗掉脸上纹身",
       "onboard_time": 1704931348,
       "rank": 21,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364851,
+      "num": 224278,
+      "word": "女孩认领遗失手机亮出的壁纸让人感动",
+      "onboard_time": 1704934951,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339247,
-      "num": 201241,
+      "num": 209285,
       "word": "飞机上拒绝了想换座的情侣",
       "onboard_time": 1704901830,
       "rank": 20,
@@ -155,6 +187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 317278,
+      "num": 317278,
+      "word": "警方通报男子抱怨地铁里农民工太多",
+      "onboard_time": 1704935849,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311783,
       "num": 311783,
       "word": "蒙牛客服回应袋装奶包装南北差异",
@@ -171,20 +211,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300721,
-      "num": 204787,
-      "word": "女孩认领遗失手机亮出的壁纸让人感动",
-      "onboard_time": 1704934951,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297687,
       "num": 297687,
       "word": "易烊千玺赵今麦 白夜行",
       "onboard_time": 1704882093,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 296472,
+      "num": 296472,
+      "word": "女生发现妹妹的书桌藏着一幅山水画",
+      "onboard_time": 1704931649,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290724,
@@ -235,26 +275,18 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252604,
+      "num": 252604,
+      "word": "宋运辉梁思申 心动的信号",
+      "onboard_time": 1704932190,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242148,
       "num": 242148,
       "word": "在德失联中国芭蕾女舞者已找到",
       "onboard_time": 1704885754,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240263,
-      "num": 240263,
-      "word": "晚上在家试了把王家卫镜头",
-      "onboard_time": 1704935133,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 222502,
-      "num": 222502,
-      "word": "女生发现妹妹的书桌藏着一幅山水画",
-      "onboard_time": 1704931649,
       "rank": 19,
       "category": "社会新闻"
     },
@@ -299,14 +331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 194210,
-      "num": 194210,
-      "word": "宋运辉梁思申 心动的信号",
-      "onboard_time": 1704932190,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193996,
       "num": 193996,
       "word": "17岁女孩捡到16万现金主动交还",
@@ -321,14 +345,6 @@
       "onboard_time": 1704934651,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 192286,
-      "num": 192286,
-      "word": "胡歌 微博之夜开屏",
-      "onboard_time": 1704935551,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 189736,
@@ -347,6 +363,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170521,
+      "num": 166841,
+      "word": "青萝卜皮 偏头痛",
+      "onboard_time": 1704936389,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168507,
+      "num": 168507,
+      "word": "阿尔茨海默病不只是记忆力下降",
+      "onboard_time": 1704935670,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 164931,
       "num": 164931,
       "word": "儿媳称拥有世界最好婆婆不接受反驳",
@@ -363,8 +395,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 163882,
+      "num": 163882,
+      "word": "多家乳企回应袋装牛奶带吸管",
+      "onboard_time": 1704936509,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163434,
-      "num": 141399,
+      "num": 158184,
       "word": "王安宇的手到底有多臭",
       "onboard_time": 1704899316,
       "rank": 23,
@@ -443,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128605,
-      "num": 128605,
-      "word": "阿尔茨海默病不只是记忆力下降",
-      "onboard_time": 1704935670,
-      "rank": 43,
-      "category": "健康医疗"
+      "raw_hot": 127981,
+      "num": 127981,
+      "word": "小砂糖橘宝贝回家啦",
+      "onboard_time": 1704936389,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125656,
@@ -457,6 +497,14 @@
       "onboard_time": 1704935250,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125112,
+      "num": 125112,
+      "word": "小砂糖橘感谢东北的老铁们",
+      "onboard_time": 1704934413,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124893,
@@ -499,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115044,
-      "num": 115044,
-      "word": "小砂糖橘感谢东北的老铁们",
-      "onboard_time": 1704934413,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 114704,
+      "num": 114704,
+      "word": "还有1个月就过年了",
+      "onboard_time": 1704933573,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 111702,
@@ -529,6 +577,22 @@
       "onboard_time": 1704932428,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105346,
+      "num": 105346,
+      "word": "老人突发心梗她跪地急救抢回一命",
+      "onboard_time": 1704937107,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103935,
+      "num": 103935,
+      "word": "cos李相夷逛漫展",
+      "onboard_time": 1704937049,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 100271,
@@ -620,7 +684,7 @@
     },
     {
       "raw_hot": 78904,
-      "num": 861065,
+      "num": 917392,
       "word": "这或许是对110最走心的定义",
       "onboard_time": 1704896854,
       "rank": 2,
