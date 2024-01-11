@@ -1,0 +1,410 @@
+{
+  "runTime": 1704943143953,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9783018,
+        "num": 9783018,
+        "word": "贾玲减了100斤",
+        "onboard_time": 1704939148,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1352035,
+        "num": 1352035,
+        "word": "近视眼从800度降到100度的过程",
+        "onboard_time": 1704933933,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43685,
+        "num": 1194892,
+        "word": "这或许是对110最走心的定义",
+        "onboard_time": 1704896854,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181083,
+        "num": 1181083,
+        "word": "热辣滚烫阵容",
+        "onboard_time": 1704940831,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 523470,
+        "num": 523470,
+        "word": "00后网文作家被曝年入百万",
+        "onboard_time": 1704935909,
+        "rank": 4,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 478172,
+        "num": 478172,
+        "word": "25岁姑娘体检发现结节无症状确诊肺癌",
+        "onboard_time": 1704901291,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 447025,
+        "num": 447025,
+        "word": "俩95后宝妈离婚后搭伙过日子",
+        "onboard_time": 1704929606,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412673,
+        "num": 412673,
+        "word": "19岁的游本昌",
+        "onboard_time": 1704931649,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370013,
+        "num": 370013,
+        "word": "警方通报浙江一家四口驾车坠河",
+        "onboard_time": 1704938967,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284582,
+        "num": 284582,
+        "word": "深圳一房子评估价600万降到200多万",
+        "onboard_time": 1704938609,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3878047,
+        "num": 284494,
+        "word": "贾玲声音都变了",
+        "onboard_time": 1704940831,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 395426,
+        "num": 284436,
+        "word": "尔滨 压力给到了西安",
+        "onboard_time": 1704941913,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 282555,
+        "num": 282555,
+        "word": "警方通报男子抱怨地铁里农民工太多",
+        "onboard_time": 1704935849,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279278,
+        "num": 279278,
+        "word": "电影热辣滚烫定档",
+        "onboard_time": 1704939448,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260231,
+        "num": 260231,
+        "word": "电影白蛇浮生定档",
+        "onboard_time": 1704939688,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250368,
+        "num": 250368,
+        "word": "霸王茶姬回应外卖按杯收取包装费",
+        "onboard_time": 1704933631,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 248906,
+        "num": 248906,
+        "word": "16岁女生讨要抚养费被亲戚打流产",
+        "onboard_time": 1704929424,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227977,
+        "num": 227977,
+        "word": "晚上在家试了把王家卫镜头",
+        "onboard_time": 1704935133,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226248,
+        "num": 226248,
+        "word": "田亮叶一茜一家四口全家福",
+        "onboard_time": 1704939569,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210231,
+        "num": 210231,
+        "word": "比特币",
+        "onboard_time": 1704938487,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 604095,
+        "num": 209388,
+        "word": "妹妹上班三年存了30万",
+        "onboard_time": 1704943110,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299853,
+        "num": 208901,
+        "word": "重返未来1999",
+        "onboard_time": 1704941370,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237425,
+        "num": 208830,
+        "word": "无面男孩18岁洗掉脸上纹身",
+        "onboard_time": 1704931348,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208190,
+        "num": 208190,
+        "word": "春节档",
+        "onboard_time": 1704942811,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186505,
+        "num": 186505,
+        "word": "飞机上拒绝了想换座的情侣",
+        "onboard_time": 1704901830,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182797,
+        "num": 182797,
+        "word": "女子偶遇长似爸爸的大叔瞬间泪崩",
+        "onboard_time": 1704941489,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178857,
+        "num": 178857,
+        "word": "爱泼斯坦案最后一批解密文件发布",
+        "onboard_time": 1704938189,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178047,
+        "num": 178047,
+        "word": "胡歌 微博之夜开屏",
+        "onboard_time": 1704935551,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173374,
+        "num": 173374,
+        "word": "热辣滚烫",
+        "onboard_time": 1704941849,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169300,
+        "num": 169300,
+        "word": "女孩认领遗失手机亮出的壁纸让人感动",
+        "onboard_time": 1704934951,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165888,
+        "num": 165888,
+        "word": "年轻人的三大脆皮症状",
+        "onboard_time": 1704939326,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161542,
+        "num": 161542,
+        "word": "河南一夜入春",
+        "onboard_time": 1704943110,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146382,
+        "num": 146382,
+        "word": "刘亦菲巴黎夜景随拍",
+        "onboard_time": 1704942092,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137558,
+        "num": 137558,
+        "word": "老人倒挂7楼民警咬牙紧抓24分钟",
+        "onboard_time": 1704941370,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135216,
+        "num": 135216,
+        "word": "为啥网上的药比实体药店更便宜",
+        "onboard_time": 1704910936,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130221,
+        "num": 130221,
+        "word": "关晓彤起诉商家侵权",
+        "onboard_time": 1704941551,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125030,
+        "num": 125030,
+        "word": "被投诉的老师们",
+        "onboard_time": 1704942212,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122622,
+        "num": 122622,
+        "word": "A股的繁花年代",
+        "onboard_time": 1704942331,
+        "rank": 37,
+        "category": "作品衍生,财经"
+      },
+      {
+        "raw_hot": 120859,
+        "num": 120859,
+        "word": "向尔滨的回礼引发全国特产大摸底",
+        "onboard_time": 1704941673,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120669,
+        "num": 120669,
+        "word": "路人针灸2分钟救回心梗外卖小哥",
+        "onboard_time": 1704941732,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119166,
+        "num": 119166,
+        "word": "澳网2024签表",
+        "onboard_time": 1704941732,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118469,
+        "num": 118469,
+        "word": "cos李相夷逛漫展",
+        "onboard_time": 1704937049,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115367,
+        "num": 115367,
+        "word": "水哥 我初中三年饱受校园暴力",
+        "onboard_time": 1704931830,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114881,
+        "num": 114881,
+        "word": "权志龙或将举行演唱会",
+        "onboard_time": 1704937349,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114510,
+        "num": 114510,
+        "word": "女生发现妹妹的书桌藏着一幅山水画",
+        "onboard_time": 1704931649,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108931,
+        "num": 108931,
+        "word": "19层定档",
+        "onboard_time": 1704943110,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107936,
+        "num": 107936,
+        "word": "何猷君觉得父亲最帅的照片",
+        "onboard_time": 1704929424,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107214,
+        "num": 107214,
+        "word": "原生家庭真能决定你的人生吗",
+        "onboard_time": 1704937468,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105205,
+        "num": 105205,
+        "word": "周鸿祎回应程前道歉",
+        "onboard_time": 1704928762,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104257,
+        "num": 104257,
+        "word": "这就是街舞",
+        "onboard_time": 1704942990,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马尔代夫总统会谈#"
+    }
+  }
+}

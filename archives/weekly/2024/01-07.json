@@ -1,10 +1,10 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704940935285,
+  "endTime": 1704943143953,
   "band_list": [
     {
-      "raw_hot": 9143321,
-      "num": 9143321,
+      "raw_hot": 9783018,
+      "num": 9783018,
       "word": "贾玲减了100斤",
       "onboard_time": 1704939148,
       "rank": 0,
@@ -25,6 +25,14 @@
       "onboard_time": 1704802470,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3878047,
+      "num": 284494,
+      "word": "贾玲声音都变了",
+      "onboard_time": 1704940831,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 3633631,
@@ -625,6 +633,14 @@
       "onboard_time": 1704758673,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1181083,
+      "num": 1181083,
+      "word": "热辣滚烫阵容",
+      "onboard_time": 1704940831,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 1166315,
@@ -2025,6 +2041,14 @@
       "onboard_time": 1704536431,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 604095,
+      "num": 209388,
+      "word": "妹妹上班三年存了30万",
+      "onboard_time": 1704943110,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 600705,
@@ -3587,6 +3611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 395426,
+      "num": 284436,
+      "word": "尔滨 压力给到了西安",
+      "onboard_time": 1704941913,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 395163,
       "num": 395163,
       "word": "四川省考 数量全靠蒙",
@@ -3779,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370013,
+      "num": 370013,
+      "word": "警方通报浙江一家四口驾车坠河",
+      "onboard_time": 1704938967,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368397,
       "num": 368397,
       "word": "东北冰雕 冰马俑",
@@ -3897,14 +3937,6 @@
       "onboard_time": 1704867332,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 351742,
-      "num": 351742,
-      "word": "警方通报浙江一家四口驾车坠河",
-      "onboard_time": 1704938967,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351603,
@@ -4425,6 +4457,14 @@
       "onboard_time": 1704687877,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 299853,
+      "num": 208901,
+      "word": "重返未来1999",
+      "onboard_time": 1704941370,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 299499,
@@ -5675,14 +5715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 221327,
-      "num": 221327,
-      "word": "贾玲声音都变了",
-      "onboard_time": 1704940831,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 220902,
       "num": 210959,
       "word": "辛芷蕾随地大小睡",
@@ -5993,6 +6025,14 @@
       "onboard_time": 1704861936,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208190,
+      "num": 208190,
+      "word": "春节档",
+      "onboard_time": 1704942811,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 208160,
@@ -7171,6 +7211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182797,
+      "num": 182797,
+      "word": "女子偶遇长似爸爸的大叔瞬间泪崩",
+      "onboard_time": 1704941489,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182718,
       "num": 182718,
       "word": "这泼天的富贵给您占好了",
@@ -7563,6 +7611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173374,
+      "num": 173374,
+      "word": "热辣滚烫",
+      "onboard_time": 1704941849,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173326,
       "num": 173326,
       "word": "北京圆明园重现冰嬉盛景",
@@ -7923,6 +7979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165888,
+      "num": 165888,
+      "word": "年轻人的三大脆皮症状",
+      "onboard_time": 1704939326,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165877,
       "num": 165877,
       "word": "热烈编剧对着王一博照片写剧本",
@@ -8113,6 +8177,14 @@
       "onboard_time": 1704937349,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161542,
+      "num": 161542,
+      "word": "河南一夜入春",
+      "onboard_time": 1704943110,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161408,
@@ -8443,14 +8515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156097,
-      "num": 156097,
-      "word": "年轻人的三大脆皮症状",
-      "onboard_time": 1704939326,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156010,
       "num": 156010,
       "word": "你不是销冠谁是销冠",
@@ -8465,14 +8529,6 @@
       "onboard_time": 1704932730,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155720,
-      "num": 155720,
-      "word": "热辣滚烫阵容",
-      "onboard_time": 1704940831,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 155714,
@@ -8891,6 +8947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146382,
+      "num": 146382,
+      "word": "刘亦菲巴黎夜景随拍",
+      "onboard_time": 1704942092,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146379,
       "num": 148769,
       "word": "DRG白玉梦影星元",
@@ -9257,6 +9321,14 @@
       "onboard_time": 1704880171,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137558,
+      "num": 137558,
+      "word": "老人倒挂7楼民警咬牙紧抓24分钟",
+      "onboard_time": 1704941370,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137461,
@@ -9691,6 +9763,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 130221,
+      "num": 130221,
+      "word": "关晓彤起诉商家侵权",
+      "onboard_time": 1704941551,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130140,
       "num": 130140,
       "word": "陈楚生声生不息Vlog",
@@ -10019,6 +10099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125030,
+      "num": 125030,
+      "word": "被投诉的老师们",
+      "onboard_time": 1704942212,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 124949,
       "num": 124949,
       "word": "当你告诉父母自己被裁员后",
@@ -10123,6 +10211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122622,
+      "num": 122622,
+      "word": "A股的繁花年代",
+      "onboard_time": 1704942331,
+      "rank": 37,
+      "category": "作品衍生,财经"
+    },
+    {
       "raw_hot": 122491,
       "num": 122491,
       "word": "四川省考答案",
@@ -10211,6 +10307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120859,
+      "num": 120859,
+      "word": "向尔滨的回礼引发全国特产大摸底",
+      "onboard_time": 1704941673,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120775,
       "num": 120775,
       "word": "屈臣氏擅自分装洗护用品被罚15万",
@@ -10225,6 +10329,14 @@
       "onboard_time": 1704900153,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120669,
+      "num": 120669,
+      "word": "路人针灸2分钟救回心梗外卖小哥",
+      "onboard_time": 1704941732,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119559,
@@ -10249,6 +10361,14 @@
       "onboard_time": 1704784711,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119166,
+      "num": 119166,
+      "word": "澳网2024签表",
+      "onboard_time": 1704941732,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 119125,
@@ -10659,6 +10779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 108931,
+      "num": 108931,
+      "word": "19层定档",
+      "onboard_time": 1704943110,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108928,
       "num": 108928,
       "word": "抱一丝了狄哥 这把选李白",
@@ -10764,7 +10892,7 @@
     },
     {
       "raw_hot": 105939,
-      "num": 1152416,
+      "num": 1194892,
       "word": "这或许是对110最走心的定义",
       "onboard_time": 1704896854,
       "rank": 2,
@@ -10881,6 +11009,14 @@
       "onboard_time": 1704814951,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 104257,
+      "num": 104257,
+      "word": "这就是街舞",
+      "onboard_time": 1704942990,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 104191,

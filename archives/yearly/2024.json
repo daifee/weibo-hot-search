@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704940935285,
+  "endTime": 1704943143953,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9143321,
-      "num": 9143321,
+      "raw_hot": 9783018,
+      "num": 9783018,
       "word": "贾玲减了100斤",
       "onboard_time": 1704939148,
       "rank": 0,
@@ -89,6 +89,14 @@
       "onboard_time": 1704033795,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3878047,
+      "num": 284494,
+      "word": "贾玲声音都变了",
+      "onboard_time": 1704940831,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 3872625,
@@ -1651,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1181083,
+      "num": 1181083,
+      "word": "热辣滚烫阵容",
+      "onboard_time": 1704940831,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1178810,
       "num": 1178810,
       "word": "王菲 反王家卫打击第一人",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704063919,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 969009,
-      "num": 969009,
-      "word": "一个人骂我 说明不了什么",
-      "onboard_time": 1704465935,
-      "rank": 3,
-      "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 966875,
-      "num": 966875,
-      "word": "朱珠这衣服换我穿就是红秋衣",
-      "onboard_time": 1704888869,
-      "rank": 9,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

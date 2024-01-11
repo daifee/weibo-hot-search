@@ -1,13 +1,21 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704940935285,
+  "endTime": 1704943143953,
   "band_list": [
     {
-      "raw_hot": 9143321,
-      "num": 9143321,
+      "raw_hot": 9783018,
+      "num": 9783018,
       "word": "贾玲减了100斤",
       "onboard_time": 1704939148,
       "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 3878047,
+      "num": 284494,
+      "word": "贾玲声音都变了",
+      "onboard_time": 1704940831,
+      "rank": 21,
       "category": "电影"
     },
     {
@@ -49,6 +57,14 @@
       "onboard_time": 1704931649,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1181083,
+      "num": 1181083,
+      "word": "热辣滚烫阵容",
+      "onboard_time": 1704940831,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 992257,
@@ -105,6 +121,14 @@
       "onboard_time": 1704931830,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 604095,
+      "num": 209388,
+      "word": "妹妹上班三年存了30万",
+      "onboard_time": 1704943110,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 592479,
@@ -179,6 +203,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 395426,
+      "num": 284436,
+      "word": "尔滨 压力给到了西安",
+      "onboard_time": 1704941913,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 370013,
+      "num": 370013,
+      "word": "警方通报浙江一家四口驾车坠河",
+      "onboard_time": 1704938967,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367091,
       "num": 245053,
       "word": "无面男孩18岁洗掉脸上纹身",
@@ -201,14 +241,6 @@
       "onboard_time": 1704938487,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 351742,
-      "num": 351742,
-      "word": "警方通报浙江一家四口驾车坠河",
-      "onboard_time": 1704938967,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345275,
@@ -273,6 +305,14 @@
       "onboard_time": 1704892533,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299853,
+      "num": 208901,
+      "word": "重返未来1999",
+      "onboard_time": 1704941370,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 297687,
@@ -363,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221327,
-      "num": 221327,
-      "word": "贾玲声音都变了",
-      "onboard_time": 1704940831,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 219823,
       "num": 219823,
       "word": "央视评繁花可能成为孤品",
@@ -401,6 +433,14 @@
       "onboard_time": 1704929062,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 208190,
+      "num": 208190,
+      "word": "春节档",
+      "onboard_time": 1704942811,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 196205,
@@ -435,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182797,
+      "num": 182797,
+      "word": "女子偶遇长似爸爸的大叔瞬间泪崩",
+      "onboard_time": 1704941489,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179794,
       "num": 179794,
       "word": "花儿与少年",
@@ -459,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173374,
+      "num": 173374,
+      "word": "热辣滚烫",
+      "onboard_time": 1704941849,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171787,
       "num": 171787,
       "word": "游本昌王菊合照",
@@ -481,6 +537,14 @@
       "onboard_time": 1704935670,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 165888,
+      "num": 165888,
+      "word": "年轻人的三大脆皮症状",
+      "onboard_time": 1704939326,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164931,
@@ -531,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161542,
+      "num": 161542,
+      "word": "河南一夜入春",
+      "onboard_time": 1704943110,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161488,
       "num": 146981,
       "word": "马伊琍辛芷蕾黄觉内场同框",
@@ -555,28 +627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156097,
-      "num": 156097,
-      "word": "年轻人的三大脆皮症状",
-      "onboard_time": 1704939326,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155937,
       "num": 155937,
       "word": "卷心菜小狗",
       "onboard_time": 1704932730,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155720,
-      "num": 155720,
-      "word": "热辣滚烫阵容",
-      "onboard_time": 1704940831,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 153710,
@@ -595,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146382,
+      "num": 146382,
+      "word": "刘亦菲巴黎夜景随拍",
+      "onboard_time": 1704942092,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140642,
       "num": 140642,
       "word": "cos李相夷逛漫展",
@@ -609,6 +673,14 @@
       "onboard_time": 1704935789,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 137558,
+      "num": 137558,
+      "word": "老人倒挂7楼民警咬牙紧抓24分钟",
+      "onboard_time": 1704941370,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136909,
@@ -643,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130221,
+      "num": 130221,
+      "word": "关晓彤起诉商家侵权",
+      "onboard_time": 1704941551,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125656,
       "num": 125656,
       "word": "J人 做计划",
@@ -657,6 +737,14 @@
       "onboard_time": 1704934413,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125030,
+      "num": 125030,
+      "word": "被投诉的老师们",
+      "onboard_time": 1704942212,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 124893,
@@ -675,6 +763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122622,
+      "num": 122622,
+      "word": "A股的繁花年代",
+      "onboard_time": 1704942331,
+      "rank": 37,
+      "category": "作品衍生,财经"
+    },
+    {
       "raw_hot": 121946,
       "num": 121946,
       "word": "萌兰连哈气都是爱你的形状",
@@ -691,12 +787,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120859,
+      "num": 120859,
+      "word": "向尔滨的回礼引发全国特产大摸底",
+      "onboard_time": 1704941673,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120669,
+      "num": 120669,
+      "word": "路人针灸2分钟救回心梗外卖小哥",
+      "onboard_time": 1704941732,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119578,
       "num": 119578,
       "word": "白鹿红衣梦回时宜",
       "onboard_time": 1704896614,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119166,
+      "num": 119166,
+      "word": "澳网2024签表",
+      "onboard_time": 1704941732,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 115938,
@@ -739,12 +859,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108931,
+      "num": 108931,
+      "word": "19层定档",
+      "onboard_time": 1704943110,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105346,
       "num": 105346,
       "word": "老人突发心梗她跪地急救抢回一命",
       "onboard_time": 1704937107,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104257,
+      "num": 104257,
+      "word": "这就是街舞",
+      "onboard_time": 1704942990,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 100271,
@@ -852,7 +988,7 @@
     },
     {
       "raw_hot": 78904,
-      "num": 1152416,
+      "num": 1194892,
       "word": "这或许是对110最走心的定义",
       "onboard_time": 1704896854,
       "rank": 2,
