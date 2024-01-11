@@ -1,7 +1,15 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704929679624,
+  "endTime": 1704935836261,
   "band_list": [
+    {
+      "raw_hot": 2620362,
+      "num": 2620362,
+      "word": "近视眼从800度降到100度的过程",
+      "onboard_time": 1704933933,
+      "rank": 0,
+      "category": "健康医疗"
+    },
     {
       "raw_hot": 2076798,
       "num": 2076798,
@@ -9,6 +17,38 @@
       "onboard_time": 1704901291,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1246402,
+      "num": 728646,
+      "word": "俩95后宝妈离婚后搭伙过日子",
+      "onboard_time": 1704929606,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1186591,
+      "num": 794768,
+      "word": "19岁的游本昌",
+      "onboard_time": 1704931649,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 889763,
+      "num": 412551,
+      "word": "16岁女生讨要抚养费被亲戚打流产",
+      "onboard_time": 1704929424,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 873713,
+      "num": 873713,
+      "word": "霸王茶姬回应外卖按杯收取包装费",
+      "onboard_time": 1704933631,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 759647,
@@ -19,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 724625,
-      "num": 724625,
+      "raw_hot": 726969,
+      "num": 726969,
       "word": "为啥网上的药比实体药店更便宜",
       "onboard_time": 1704910936,
       "rank": 49,
@@ -35,6 +75,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676519,
+      "num": 676519,
+      "word": "水哥 我初中三年饱受校园暴力",
+      "onboard_time": 1704931830,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 567584,
+      "num": 567584,
+      "word": "何猷君觉得父亲最帅的照片",
+      "onboard_time": 1704929424,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 544065,
       "num": 544065,
       "word": "47岁男子没要到3000元生活费纵火烧家",
@@ -44,7 +100,7 @@
     },
     {
       "raw_hot": 447272,
-      "num": 226231,
+      "num": 256673,
       "word": "辛芷蕾金色吊带",
       "onboard_time": 1704890192,
       "rank": 12,
@@ -67,12 +123,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 367091,
+      "num": 209496,
+      "word": "无面男孩18岁洗掉脸上纹身",
+      "onboard_time": 1704931348,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339247,
-      "num": 136895,
+      "num": 201241,
       "word": "飞机上拒绝了想换座的情侣",
       "onboard_time": 1704901830,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 329178,
+      "num": 329178,
+      "word": "高启盛武器库",
+      "onboard_time": 1704932551,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 323852,
+      "num": 323852,
+      "word": "阿尔茨海默病新药国内定价每瓶2508元",
+      "onboard_time": 1704930866,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 311783,
@@ -91,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300721,
+      "num": 204787,
+      "word": "女孩认领遗失手机亮出的壁纸让人感动",
+      "onboard_time": 1704934951,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297687,
       "num": 297687,
       "word": "易烊千玺赵今麦 白夜行",
@@ -107,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 282862,
+      "num": 282862,
+      "word": "上影花5亿买基地支持繁花拍摄",
+      "onboard_time": 1704899254,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279072,
       "num": 279072,
       "word": "甘肃积石山县3.1级地震",
@@ -116,11 +212,27 @@
     },
     {
       "raw_hot": 278047,
-      "num": 136038,
+      "num": 150081,
       "word": "以前谈恋爱是要交换QQ密码的",
       "onboard_time": 1704897395,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 265161,
+      "num": 265161,
+      "word": "被萌兰33码小jiojio呼脸上了",
+      "onboard_time": 1704900333,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255501,
+      "num": 255501,
+      "word": "还好是他们七个人",
+      "onboard_time": 1704928100,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 242148,
@@ -131,20 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229101,
-      "num": 229101,
-      "word": "被萌兰33码小jiojio呼脸上了",
-      "onboard_time": 1704900333,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 240263,
+      "num": 240263,
+      "word": "晚上在家试了把王家卫镜头",
+      "onboard_time": 1704935133,
+      "rank": 18,
+      "category": "情感"
     },
     {
-      "raw_hot": 221783,
-      "num": 221783,
-      "word": "还好是他们七个人",
-      "onboard_time": 1704928100,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 222502,
+      "num": 222502,
+      "word": "女生发现妹妹的书桌藏着一幅山水画",
+      "onboard_time": 1704931649,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219823,
@@ -171,14 +283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 217009,
-      "num": 217009,
-      "word": "上影花5亿买基地支持繁花拍摄",
-      "onboard_time": 1704899254,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210689,
       "num": 210689,
       "word": "周鸿祎程前互怼",
@@ -195,6 +299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 194210,
+      "num": 194210,
+      "word": "宋运辉梁思申 心动的信号",
+      "onboard_time": 1704932190,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193996,
       "num": 193996,
       "word": "17岁女孩捡到16万现金主动交还",
@@ -203,8 +315,24 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 193409,
+      "num": 193409,
+      "word": "GPTStore上线",
+      "onboard_time": 1704934651,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 192286,
+      "num": 192286,
+      "word": "胡歌 微博之夜开屏",
+      "onboard_time": 1704935551,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189736,
-      "num": 135219,
+      "num": 156634,
       "word": "网约司机车上现女士内裤遭分手",
       "onboard_time": 1704895055,
       "rank": 22,
@@ -227,8 +355,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164279,
+      "num": 164279,
+      "word": "出现这5种情况可能疑似直肠癌",
+      "onboard_time": 1704930085,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163434,
-      "num": 134470,
+      "num": 141399,
       "word": "王安宇的手到底有多臭",
       "onboard_time": 1704899316,
       "rank": 23,
@@ -243,12 +379,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158215,
+      "num": 158215,
+      "word": "70%的人都经历过下巴掉了",
+      "onboard_time": 1704935073,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156643,
       "num": 156643,
       "word": "马龙王楚钦3比1法尔克卡尔森",
       "onboard_time": 1704898533,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155937,
+      "num": 155937,
+      "word": "卷心菜小狗",
+      "onboard_time": 1704932730,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 153710,
@@ -259,6 +411,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153326,
+      "num": 153326,
+      "word": "KCON香港",
+      "onboard_time": 1704935612,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138654,
+      "num": 138654,
+      "word": "减少卡粉的最重要的步骤",
+      "onboard_time": 1704935789,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 136909,
+      "num": 136909,
+      "word": "湖人猛龙裁判报告",
+      "onboard_time": 1704934711,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132411,
       "num": 132411,
       "word": "王家卫公司已注册百枚繁花相关商标",
@@ -267,12 +443,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128605,
+      "num": 128605,
+      "word": "阿尔茨海默病不只是记忆力下降",
+      "onboard_time": 1704935670,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 125656,
+      "num": 125656,
+      "word": "J人 做计划",
+      "onboard_time": 1704935250,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124893,
       "num": 124893,
       "word": "最不舍得删除的聊天记录",
       "onboard_time": 1704893734,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121946,
+      "num": 121946,
+      "word": "萌兰连哈气都是爱你的形状",
+      "onboard_time": 1704933691,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121111,
@@ -299,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115044,
+      "num": 115044,
+      "word": "小砂糖橘感谢东北的老铁们",
+      "onboard_time": 1704934413,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111702,
       "num": 111702,
       "word": "杨幂刘诗诗又坐一起",
@@ -315,6 +523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 109763,
+      "num": 109763,
+      "word": "男子就餐后辅导陌生小孩作业两小时",
+      "onboard_time": 1704932428,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100271,
       "num": 116390,
       "word": "外交部回应南非诉以色列种族灭绝",
@@ -329,14 +545,6 @@
       "onboard_time": 1704929123,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96844,
-      "num": 96844,
-      "word": "何猷君觉得父亲最帅的照片",
-      "onboard_time": 1704929424,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 95539,
@@ -411,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78904,
+      "num": 861065,
+      "word": "这或许是对110最走心的定义",
+      "onboard_time": 1704896854,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78117,
       "num": 111105,
       "word": "唐嫣和王家卫第一次见面用上海话聊天",
@@ -433,14 +649,6 @@
       "onboard_time": 1704900153,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71060,
-      "num": 71060,
-      "word": "16岁女生讨要抚养费被亲戚打流产",
-      "onboard_time": 1704929424,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69989,
@@ -523,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56062,
-      "num": 56062,
-      "word": "俩95后宝妈离婚后搭伙过日子",
-      "onboard_time": 1704929606,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54377,
       "num": 111042,
       "word": "章若楠怕水",
@@ -545,14 +745,6 @@
       "onboard_time": 1704921973,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 51053,
-      "num": 558927,
-      "word": "这或许是对110最走心的定义",
-      "onboard_time": 1704896854,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41155,
