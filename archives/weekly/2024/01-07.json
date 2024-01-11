@@ -1,10 +1,10 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704940300126,
+  "endTime": 1704940935285,
   "band_list": [
     {
-      "raw_hot": 8093172,
-      "num": 8093172,
+      "raw_hot": 9143321,
+      "num": 9143321,
       "word": "贾玲减了100斤",
       "onboard_time": 1704939148,
       "rank": 0,
@@ -2955,6 +2955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 473152,
+      "num": 473152,
+      "word": "电影热辣滚烫定档",
+      "onboard_time": 1704939448,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 472050,
       "num": 472050,
       "word": "央视春晚语言类节目审查",
@@ -3867,14 +3875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355315,
-      "num": 355315,
-      "word": "电影热辣滚烫定档",
-      "onboard_time": 1704939448,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 354451,
       "num": 354451,
       "word": "游本昌51到90岁荧幕变化",
@@ -3899,6 +3899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351742,
+      "num": 351742,
+      "word": "警方通报浙江一家四口驾车坠河",
+      "onboard_time": 1704938967,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351603,
       "num": 351603,
       "word": "谢娜客串过苏有朋的左耳",
@@ -3921,6 +3929,14 @@
       "onboard_time": 1704724954,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345275,
+      "num": 345275,
+      "word": "电影白蛇浮生定档",
+      "onboard_time": 1704939688,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 344150,
@@ -4001,6 +4017,14 @@
       "onboard_time": 1704789396,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 333280,
+      "num": 333280,
+      "word": "田亮叶一茜一家四口全家福",
+      "onboard_time": 1704939569,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 332087,
@@ -4353,14 +4377,6 @@
       "onboard_time": 1704847832,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 304616,
-      "num": 304616,
-      "word": "警方通报浙江一家四口驾车坠河",
-      "onboard_time": 1704938967,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304314,
@@ -4857,14 +4873,6 @@
       "onboard_time": 1704814111,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262719,
-      "num": 262719,
-      "word": "电影白蛇浮生定档",
-      "onboard_time": 1704939688,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 262183,
@@ -5379,14 +5387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 232784,
-      "num": 232784,
-      "word": "田亮叶一茜一家四口全家福",
-      "onboard_time": 1704939569,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232424,
       "num": 232424,
       "word": "自测脊柱侧弯的方法",
@@ -5673,6 +5673,14 @@
       "onboard_time": 1704759813,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221327,
+      "num": 221327,
+      "word": "贾玲声音都变了",
+      "onboard_time": 1704940831,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 220902,
@@ -7411,6 +7419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176014,
+      "num": 176014,
+      "word": "第二届中国电视剧年度盛典官宣",
+      "onboard_time": 1704940532,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175958,
       "num": 175958,
       "word": "张真源差点滑倒也要保持帅气",
@@ -8083,6 +8099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162401,
+      "num": 162401,
+      "word": "我们的翻译官 公孔雀开屏",
+      "onboard_time": 1704939387,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161819,
       "num": 161819,
       "word": "权志龙或将举行演唱会",
@@ -8419,6 +8443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156097,
+      "num": 156097,
+      "word": "年轻人的三大脆皮症状",
+      "onboard_time": 1704939326,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156010,
       "num": 156010,
       "word": "你不是销冠谁是销冠",
@@ -8433,6 +8465,14 @@
       "onboard_time": 1704932730,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155720,
+      "num": 155720,
+      "word": "热辣滚烫阵容",
+      "onboard_time": 1704940831,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 155714,
@@ -8795,14 +8835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148116,
-      "num": 148116,
-      "word": "我们的翻译官 公孔雀开屏",
-      "onboard_time": 1704939387,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147445,
       "num": 147445,
       "word": "OPPO Find X7价格",
@@ -9115,6 +9147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140642,
+      "num": 140642,
+      "word": "cos李相夷逛漫展",
+      "onboard_time": 1704937049,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 140210,
       "num": 140210,
       "word": "对手退赛林高远林诗栋自动晋级",
@@ -9312,14 +9352,6 @@
       "word": "劳务市场女性农民工有多难",
       "onboard_time": 1704693388,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135803,
-      "num": 135803,
-      "word": "年轻人的三大脆皮症状",
-      "onboard_time": 1704939326,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -9753,14 +9785,6 @@
       "onboard_time": 1704783872,
       "rank": 37,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 128642,
-      "num": 128642,
-      "word": "cos李相夷逛漫展",
-      "onboard_time": 1704937049,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 128560,

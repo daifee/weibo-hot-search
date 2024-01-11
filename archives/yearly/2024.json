@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704940300126,
+  "endTime": 1704940935285,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -9,6 +9,14 @@
       "onboard_time": 1704037678,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9143321,
+      "num": 9143321,
+      "word": "贾玲减了100斤",
+      "onboard_time": 1704939148,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 9066763,
@@ -33,14 +41,6 @@
       "onboard_time": 1704379117,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8093172,
-      "num": 8093172,
-      "word": "贾玲减了100斤",
-      "onboard_time": 1704939148,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 6441845,

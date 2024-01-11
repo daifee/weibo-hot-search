@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704940300126,
+  "endTime": 1704940935285,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -9,6 +9,14 @@
       "onboard_time": 1704037678,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9143321,
+      "num": 9143321,
+      "word": "贾玲减了100斤",
+      "onboard_time": 1704939148,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 9066763,
@@ -33,14 +41,6 @@
       "onboard_time": 1704379117,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8093172,
-      "num": 8093172,
-      "word": "贾玲减了100斤",
-      "onboard_time": 1704939148,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 6441845,
@@ -7411,6 +7411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 473152,
+      "num": 473152,
+      "word": "电影热辣滚烫定档",
+      "onboard_time": 1704939448,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 472633,
       "num": 472633,
       "word": "光与夜之恋 强娶了",
@@ -9523,14 +9531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 355315,
-      "num": 355315,
-      "word": "电影热辣滚烫定档",
-      "onboard_time": 1704939448,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 354487,
       "num": 354487,
       "word": "魏晨知道你们这么拍他吗",
@@ -9593,6 +9593,14 @@
       "onboard_time": 1704076895,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 351742,
+      "num": 351742,
+      "word": "警方通报浙江一家四口驾车坠河",
+      "onboard_time": 1704938967,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351603,
@@ -9681,6 +9689,14 @@
       "onboard_time": 1704724954,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345275,
+      "num": 345275,
+      "word": "电影白蛇浮生定档",
+      "onboard_time": 1704939688,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 345085,
@@ -9921,6 +9937,14 @@
       "onboard_time": 1704331769,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333280,
+      "num": 333280,
+      "word": "田亮叶一茜一家四口全家福",
+      "onboard_time": 1704939569,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 332916,
@@ -10753,14 +10777,6 @@
       "onboard_time": 1704847832,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 304616,
-      "num": 304616,
-      "word": "警方通报浙江一家四口驾车坠河",
-      "onboard_time": 1704938967,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304314,
@@ -12179,14 +12195,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 262719,
-      "num": 262719,
-      "word": "电影白蛇浮生定档",
-      "onboard_time": 1704939688,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 262405,
       "num": 243538,
       "word": "女贼担心判太重偷走8000元留下1万4",
@@ -13475,14 +13483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 232784,
-      "num": 232784,
-      "word": "田亮叶一茜一家四口全家福",
-      "onboard_time": 1704939569,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232680,
       "num": 226158,
       "word": "情侣必做的100件事",
@@ -14193,6 +14193,14 @@
       "onboard_time": 1704542913,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 221327,
+      "num": 221327,
+      "word": "贾玲声音都变了",
+      "onboard_time": 1704940831,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 221042,
@@ -18219,6 +18227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176014,
+      "num": 176014,
+      "word": "第二届中国电视剧年度盛典官宣",
+      "onboard_time": 1704940532,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175958,
       "num": 175958,
       "word": "张真源差点滑倒也要保持帅气",
@@ -19739,6 +19755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162401,
+      "num": 162401,
+      "word": "我们的翻译官 公孔雀开屏",
+      "onboard_time": 1704939387,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162361,
       "num": 162361,
       "word": "戚薇团队 澡堂刺客",
@@ -20347,6 +20371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156097,
+      "num": 156097,
+      "word": "年轻人的三大脆皮症状",
+      "onboard_time": 1704939326,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156010,
       "num": 156010,
       "word": "你不是销冠谁是销冠",
@@ -20393,6 +20425,14 @@
       "onboard_time": 1704100958,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 155720,
+      "num": 155720,
+      "word": "热辣滚烫阵容",
+      "onboard_time": 1704940831,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 155714,
@@ -21219,14 +21259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148116,
-      "num": 148116,
-      "word": "我们的翻译官 公孔雀开屏",
-      "onboard_time": 1704939387,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147741,
       "num": 147741,
       "word": "吉赛尔一记扫堂腿 罗渽民一屁墩",
@@ -22027,6 +22059,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 140642,
+      "num": 140642,
+      "word": "cos李相夷逛漫展",
+      "onboard_time": 1704937049,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 140528,
       "num": 140528,
       "word": "胡歌唐嫣繁花微博开分9.2",
@@ -22536,14 +22576,6 @@
       "word": "劳务市场女性农民工有多难",
       "onboard_time": 1704693388,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135803,
-      "num": 135803,
-      "word": "年轻人的三大脆皮症状",
-      "onboard_time": 1704939326,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -23409,14 +23441,6 @@
       "onboard_time": 1704783872,
       "rank": 37,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 128642,
-      "num": 128642,
-      "word": "cos李相夷逛漫展",
-      "onboard_time": 1704937049,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 128570,

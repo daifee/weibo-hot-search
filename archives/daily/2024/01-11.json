@@ -1,10 +1,10 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704940300126,
+  "endTime": 1704940935285,
   "band_list": [
     {
-      "raw_hot": 8093172,
-      "num": 8093172,
+      "raw_hot": 9143321,
+      "num": 9143321,
       "word": "贾玲减了100斤",
       "onboard_time": 1704939148,
       "rank": 0,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473152,
+      "num": 473152,
+      "word": "电影热辣滚烫定档",
+      "onboard_time": 1704939448,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 447272,
       "num": 256673,
       "word": "辛芷蕾金色吊带",
@@ -195,11 +203,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 355315,
-      "num": 355315,
-      "word": "电影热辣滚烫定档",
-      "onboard_time": 1704939448,
-      "rank": 13,
+      "raw_hot": 351742,
+      "num": 351742,
+      "word": "警方通报浙江一家四口驾车坠河",
+      "onboard_time": 1704938967,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345275,
+      "num": 345275,
+      "word": "电影白蛇浮生定档",
+      "onboard_time": 1704939688,
+      "rank": 17,
       "category": "电影"
     },
     {
@@ -209,6 +225,14 @@
       "onboard_time": 1704901830,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 333280,
+      "num": 333280,
+      "word": "田亮叶一茜一家四口全家福",
+      "onboard_time": 1704939569,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 329178,
@@ -240,14 +264,6 @@
       "word": "深圳一房子评估价600万降到200多万",
       "onboard_time": 1704938609,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304616,
-      "num": 304616,
-      "word": "警方通报浙江一家四口驾车坠河",
-      "onboard_time": 1704938967,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -323,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262719,
-      "num": 262719,
-      "word": "电影白蛇浮生定档",
-      "onboard_time": 1704939688,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 255501,
       "num": 255501,
       "word": "还好是他们七个人",
@@ -355,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232784,
-      "num": 232784,
-      "word": "田亮叶一茜一家四口全家福",
-      "onboard_time": 1704939569,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 221327,
+      "num": 221327,
+      "word": "贾玲声音都变了",
+      "onboard_time": 1704940831,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 219823,
@@ -435,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176014,
+      "num": 176014,
+      "word": "第二届中国电视剧年度盛典官宣",
+      "onboard_time": 1704940532,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175642,
       "num": 175642,
       "word": "原生家庭真能决定你的人生吗",
@@ -499,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162401,
+      "num": 162401,
+      "word": "我们的翻译官 公孔雀开屏",
+      "onboard_time": 1704939387,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161819,
       "num": 161819,
       "word": "权志龙或将举行演唱会",
@@ -531,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156097,
+      "num": 156097,
+      "word": "年轻人的三大脆皮症状",
+      "onboard_time": 1704939326,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155937,
       "num": 155937,
       "word": "卷心菜小狗",
       "onboard_time": 1704932730,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155720,
+      "num": 155720,
+      "word": "热辣滚烫阵容",
+      "onboard_time": 1704940831,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 153710,
@@ -555,12 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148116,
-      "num": 148116,
-      "word": "我们的翻译官 公孔雀开屏",
-      "onboard_time": 1704939387,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 140642,
+      "num": 140642,
+      "word": "cos李相夷逛漫展",
+      "onboard_time": 1704937049,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 138654,
@@ -577,14 +617,6 @@
       "onboard_time": 1704934711,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135803,
-      "num": 135803,
-      "word": "年轻人的三大脆皮症状",
-      "onboard_time": 1704939326,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132411,
@@ -609,14 +641,6 @@
       "onboard_time": 1704936389,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128642,
-      "num": 128642,
-      "word": "cos李相夷逛漫展",
-      "onboard_time": 1704937049,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 125656,
