@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704968378323,
+  "endTime": 1704969424370,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2933095,
+      "num": 2933095,
+      "word": "医生谈贾玲整容式暴瘦",
+      "onboard_time": 1704968250,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2896872,
       "num": 2896872,
       "word": "明年起连续5年没有年三十",
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2419215,
-      "num": 2419215,
-      "word": "医生谈贾玲整容式暴瘦",
-      "onboard_time": 1704968250,
-      "rank": 0,
-      "category": "电影"
-    },
-    {
       "raw_hot": 2324158,
       "num": 2324158,
       "word": "科兴新冠疫苗已停产",
@@ -121,6 +121,14 @@
       "onboard_time": 1704963809,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2215231,
+      "num": 459896,
+      "word": "贾玲健身教练发声",
+      "onboard_time": 1704968910,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2201623,
@@ -2803,6 +2811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 524490,
+      "num": 1269100,
+      "word": "尔滨咖啡里藏了砂糖橘笑脸",
+      "onboard_time": 1704967470,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 519863,
       "num": 519863,
       "word": "俄对乌西部等地区发动导弹袭击",
@@ -3171,12 +3187,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 483549,
-      "num": 1269100,
-      "word": "尔滨咖啡里藏了砂糖橘笑脸",
-      "onboard_time": 1704967470,
-      "rank": 1,
-      "category": "美食"
+      "raw_hot": 483546,
+      "num": 483546,
+      "word": "厦门一公司发生闪爆事件致3死3伤",
+      "onboard_time": 1704968669,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483159,
@@ -3339,12 +3355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460079,
+      "num": 460079,
+      "word": "日本震区灾民怒斥救援物资是垃圾",
+      "onboard_time": 1704966869,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459596,
       "num": 459596,
       "word": "大冻梨街头走秀小土豆被身高暴击",
       "onboard_time": 1704691113,
       "rank": 27,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 459529,
+      "num": 459529,
+      "word": "迪丽热巴要回新疆给妈妈生日惊喜",
+      "onboard_time": 1704968371,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 457826,
@@ -3691,6 +3723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422553,
+      "num": 422553,
+      "word": "女子买硬座非坐卧铺乘务员劝阻被骂",
+      "onboard_time": 1704964709,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422513,
       "num": 276367,
       "word": "全球第一大癌症为何盯上年轻人",
@@ -3713,6 +3753,14 @@
       "onboard_time": 1704957148,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 420196,
+      "num": 648588,
+      "word": "杭州村民众筹1.2亿造大别墅",
+      "onboard_time": 1704967830,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418812,
@@ -4259,14 +4307,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 358423,
-      "num": 358423,
-      "word": "日本震区灾民怒斥救援物资是垃圾",
-      "onboard_time": 1704966869,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 358240,
       "num": 338629,
       "word": "为什么看病总要做血常规",
@@ -4313,14 +4353,6 @@
       "onboard_time": 1704589471,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 351141,
-      "num": 351141,
-      "word": "女子买硬座非坐卧铺乘务员劝阻被骂",
-      "onboard_time": 1704964709,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350185,
@@ -4795,6 +4827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310970,
+      "num": 310970,
+      "word": "父母双亡独生女在哪过年",
+      "onboard_time": 1704966569,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 310224,
       "num": 310224,
       "word": "河南致返乡人员一封信",
@@ -5003,6 +5043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297258,
+      "num": 494278,
+      "word": "尔滨中央大街鸽子被游客喂成鸽猪",
+      "onboard_time": 1704968429,
+      "rank": 6,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 296472,
       "num": 296472,
       "word": "女生发现妹妹的书桌藏着一幅山水画",
@@ -5155,6 +5203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288145,
+      "num": 288145,
+      "word": "阿富汗6.4级地震",
+      "onboard_time": 1704967710,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286307,
       "num": 286307,
       "word": "金球奖",
@@ -5249,14 +5305,6 @@
       "onboard_time": 1704772593,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279127,
-      "num": 272908,
-      "word": "父母双亡独生女在哪过年",
-      "onboard_time": 1704966569,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 277143,
@@ -5427,6 +5475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264746,
+      "num": 264746,
+      "word": "浙江一男子肺部发现557个结节",
+      "onboard_time": 1704966930,
+      "rank": 25,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 264596,
       "num": 264596,
       "word": "吴磊 电音小子",
@@ -5473,14 +5529,6 @@
       "onboard_time": 1704614488,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261532,
-      "num": 261532,
-      "word": "阿富汗6.4级地震",
-      "onboard_time": 1704967710,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261290,
@@ -5531,20 +5579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257279,
+      "num": 257279,
+      "word": "YG官网删除BLACKPINK个人介绍页面",
+      "onboard_time": 1704969331,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256848,
       "num": 256848,
       "word": "ZICO和华莎第一个Any Song Challenge",
       "onboard_time": 1704682771,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 256525,
-      "num": 256525,
-      "word": "浙江一男子肺部发现557个结节",
-      "onboard_time": 1704966930,
-      "rank": 25,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 256361,
@@ -7275,6 +7323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196971,
+      "num": 196971,
+      "word": "男生没抢到薛之谦门票扬言炸场馆",
+      "onboard_time": 1704968731,
+      "rank": 27,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 196777,
       "num": 196777,
       "word": "5种常见炎症要及早消炎",
@@ -8027,6 +8083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182276,
+      "num": 182276,
+      "word": "秦岚要给王安宇物色女朋友",
+      "onboard_time": 1704968791,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181984,
       "num": 181984,
       "word": "给尚未工作的朋友们的建议 多拍照",
@@ -8057,14 +8121,6 @@
       "onboard_time": 1704945694,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181391,
-      "num": 648588,
-      "word": "杭州村民众筹1.2亿造大别墅",
-      "onboard_time": 1704967830,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181312,
@@ -8528,6 +8584,14 @@
       "word": "撞机事故中日航客机话音记录器已找到",
       "onboard_time": 1704587065,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171601,
+      "num": 171601,
+      "word": "河南一检察官多次家暴妻子",
+      "onboard_time": 1704968011,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -9539,6 +9603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154400,
+      "num": 154400,
+      "word": "戴尔加盟拜仁",
+      "onboard_time": 1704968851,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154312,
       "num": 154312,
       "word": "刘些宁吃炸蜘蛛",
@@ -9635,14 +9707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152337,
-      "num": 152337,
-      "word": "河南一检察官多次家暴妻子",
-      "onboard_time": 1704968011,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152319,
       "num": 152319,
       "word": "萌兰有了双截棍",
@@ -9697,6 +9761,14 @@
       "onboard_time": 1704624691,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151788,
+      "num": 151788,
+      "word": "砂糖橘上为什么有洞",
+      "onboard_time": 1704968669,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 151662,
@@ -9907,6 +9979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146216,
+      "num": 146216,
+      "word": "如何能坚持减肥一年",
+      "onboard_time": 1704968851,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 146193,
       "num": 146193,
       "word": "i人拍照",
@@ -10065,6 +10145,14 @@
       "onboard_time": 1704950372,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143335,
+      "num": 143335,
+      "word": "花了45美元买的网红棉花糖蛋糕",
+      "onboard_time": 1704968971,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 143147,
@@ -11145,6 +11233,14 @@
       "onboard_time": 1704621032,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125408,
+      "num": 125408,
+      "word": "东北宠小土豆连锅包肉都帮忙剪了",
+      "onboard_time": 1704969390,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 125382,
@@ -13203,6 +13299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 27976,
+      "num": 315511,
+      "word": "原神亚洲赛开赛",
+      "onboard_time": 1704967230,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 26706,
       "num": 23853,
       "word": "郑恺说繁花是全行业的强心针",
@@ -13281,14 +13385,6 @@
       "onboard_time": 1704771212,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17400,
-      "num": 315511,
-      "word": "原神亚洲赛开赛",
-      "onboard_time": 1704967230,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 17356,

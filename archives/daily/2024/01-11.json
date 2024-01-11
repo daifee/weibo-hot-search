@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704968378323,
+  "endTime": 1704969424370,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -19,6 +19,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2933095,
+      "num": 2933095,
+      "word": "医生谈贾玲整容式暴瘦",
+      "onboard_time": 1704968250,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2786727,
       "num": 2786727,
       "word": "近视眼从800度降到100度的过程",
@@ -27,20 +35,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 2419215,
-      "num": 2419215,
-      "word": "医生谈贾玲整容式暴瘦",
-      "onboard_time": 1704968250,
-      "rank": 0,
-      "category": "电影"
-    },
-    {
       "raw_hot": 2244076,
       "num": 2244076,
       "word": "贾玲体脂",
       "onboard_time": 1704963809,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2215231,
+      "num": 459896,
+      "word": "贾玲健身教练发声",
+      "onboard_time": 1704968910,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2185050,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524490,
+      "num": 1269100,
+      "word": "尔滨咖啡里藏了砂糖橘笑脸",
+      "onboard_time": 1704967470,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 508432,
       "num": 508432,
       "word": "程前事件",
@@ -403,12 +419,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 483549,
-      "num": 1269100,
-      "word": "尔滨咖啡里藏了砂糖橘笑脸",
-      "onboard_time": 1704967470,
-      "rank": 1,
-      "category": "美食"
+      "raw_hot": 483546,
+      "num": 483546,
+      "word": "厦门一公司发生闪爆事件致3死3伤",
+      "onboard_time": 1704968669,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474184,
@@ -441,6 +457,22 @@
       "onboard_time": 1704955826,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 460079,
+      "num": 460079,
+      "word": "日本震区灾民怒斥救援物资是垃圾",
+      "onboard_time": 1704966869,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459529,
+      "num": 459529,
+      "word": "迪丽热巴要回新疆给妈妈生日惊喜",
+      "onboard_time": 1704968371,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 452348,
@@ -483,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422553,
+      "num": 422553,
+      "word": "女子买硬座非坐卧铺乘务员劝阻被骂",
+      "onboard_time": 1704964709,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422513,
       "num": 276367,
       "word": "全球第一大癌症为何盯上年轻人",
@@ -497,6 +537,14 @@
       "onboard_time": 1704957148,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 420196,
+      "num": 648588,
+      "word": "杭州村民众筹1.2亿造大别墅",
+      "onboard_time": 1704967830,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419108,
@@ -601,22 +649,6 @@
       "onboard_time": 1704948394,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 358423,
-      "num": 358423,
-      "word": "日本震区灾民怒斥救援物资是垃圾",
-      "onboard_time": 1704966869,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351141,
-      "num": 351141,
-      "word": "女子买硬座非坐卧铺乘务员劝阻被骂",
-      "onboard_time": 1704964709,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345275,
@@ -755,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310970,
+      "num": 310970,
+      "word": "父母双亡独生女在哪过年",
+      "onboard_time": 1704966569,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 302820,
       "num": 302820,
       "word": "董宇辉回应企业家组团找自己学网红经济",
@@ -819,6 +859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 297258,
+      "num": 494278,
+      "word": "尔滨中央大街鸽子被游客喂成鸽猪",
+      "onboard_time": 1704968429,
+      "rank": 6,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 296472,
       "num": 296472,
       "word": "女生发现妹妹的书桌藏着一幅山水画",
@@ -833,6 +881,14 @@
       "onboard_time": 1704888869,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288145,
+      "num": 288145,
+      "word": "阿富汗6.4级地震",
+      "onboard_time": 1704967710,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283975,
@@ -857,14 +913,6 @@
       "onboard_time": 1704965371,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279127,
-      "num": 272908,
-      "word": "父母双亡独生女在哪过年",
-      "onboard_time": 1704966569,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 279072,
@@ -915,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264746,
+      "num": 264746,
+      "word": "浙江一男子肺部发现557个结节",
+      "onboard_time": 1704966930,
+      "rank": 25,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 264549,
       "num": 256918,
       "word": "38.5度不要物理降温的原因",
@@ -931,20 +987,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261532,
-      "num": 261532,
-      "word": "阿富汗6.4级地震",
-      "onboard_time": 1704967710,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256525,
-      "num": 256525,
-      "word": "浙江一男子肺部发现557个结节",
-      "onboard_time": 1704966930,
-      "rank": 25,
-      "category": "健康医疗,社会新闻"
+      "raw_hot": 257279,
+      "num": 257279,
+      "word": "YG官网删除BLACKPINK个人介绍页面",
+      "onboard_time": 1704969331,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 255960,
@@ -1163,6 +1211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196971,
+      "num": 196971,
+      "word": "男生没抢到薛之谦门票扬言炸场馆",
+      "onboard_time": 1704968731,
+      "rank": 27,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 196777,
       "num": 196777,
       "word": "5种常见炎症要及早消炎",
@@ -1275,20 +1331,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182276,
+      "num": 182276,
+      "word": "秦岚要给王安宇物色女朋友",
+      "onboard_time": 1704968791,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181426,
       "num": 210976,
       "word": "哈尔滨亚冬会吉祥物",
       "onboard_time": 1704945694,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181391,
-      "num": 648588,
-      "word": "杭州村民众筹1.2亿造大别墅",
-      "onboard_time": 1704967830,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179928,
@@ -1369,6 +1425,14 @@
       "onboard_time": 1704896435,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171601,
+      "num": 171601,
+      "word": "河南一检察官多次家暴妻子",
+      "onboard_time": 1704968011,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170521,
@@ -1555,6 +1619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154400,
+      "num": 154400,
+      "word": "戴尔加盟拜仁",
+      "onboard_time": 1704968851,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153710,
       "num": 133419,
       "word": "杨幂翡翠",
@@ -1571,12 +1643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152337,
-      "num": 152337,
-      "word": "河南一检察官多次家暴妻子",
-      "onboard_time": 1704968011,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 151788,
+      "num": 151788,
+      "word": "砂糖橘上为什么有洞",
+      "onboard_time": 1704968669,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 148740,
@@ -1603,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146216,
+      "num": 146216,
+      "word": "如何能坚持减肥一年",
+      "onboard_time": 1704968851,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 146175,
       "num": 146175,
       "word": "中药奶茶",
@@ -1625,6 +1705,14 @@
       "onboard_time": 1704950372,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143335,
+      "num": 143335,
+      "word": "花了45美元买的网红棉花糖蛋糕",
+      "onboard_time": 1704968971,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 140642,
@@ -1809,6 +1897,14 @@
       "onboard_time": 1704935250,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125408,
+      "num": 125408,
+      "word": "东北宠小土豆连锅包肉都帮忙剪了",
+      "onboard_time": 1704969390,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 125112,
@@ -2299,6 +2395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27976,
+      "num": 315511,
+      "word": "原神亚洲赛开赛",
+      "onboard_time": 1704967230,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 23419,
       "num": 317681,
       "word": "尔滨和尔佳到底是什么关系",
@@ -2313,14 +2417,6 @@
       "onboard_time": 1704947136,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17400,
-      "num": 315511,
-      "word": "原神亚洲赛开赛",
-      "onboard_time": 1704967230,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 16895,
