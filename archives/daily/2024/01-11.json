@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704964694406,
+  "endTime": 1704965663498,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -27,6 +27,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2244076,
+      "num": 2244076,
+      "word": "贾玲体脂",
+      "onboard_time": 1704963809,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2185050,
       "num": 422463,
       "word": "贾玲发文",
@@ -41,14 +49,6 @@
       "onboard_time": 1704901291,
       "rank": 0,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2060629,
-      "num": 2060629,
-      "word": "贾玲体脂",
-      "onboard_time": 1704963809,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1497889,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 823418,
+      "num": 216214,
+      "word": "母亲以死逼婚儿子结婚半年闪离",
+      "onboard_time": 1704964531,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787142,
       "num": 787142,
       "word": "青春痘疫苗或将面世",
@@ -193,6 +201,14 @@
       "onboard_time": 1704895655,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 750244,
+      "num": 750244,
+      "word": "原来孙悟空是抽烟的",
+      "onboard_time": 1704962129,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 739443,
@@ -251,6 +267,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 620801,
+      "num": 620801,
+      "word": "男子手指被鳄龟咬住痛哭一个多小时",
+      "onboard_time": 1704961949,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618831,
+      "num": 618831,
+      "word": "淄博文旅局副局长谈哈尔滨出圈",
+      "onboard_time": 1704962969,
+      "rank": 13,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 617179,
       "num": 617179,
       "word": "肯德基 今天安排吗",
@@ -297,14 +329,6 @@
       "onboard_time": 1704935133,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 590542,
-      "num": 590542,
-      "word": "男子手指被鳄龟咬住痛哭一个多小时",
-      "onboard_time": 1704961949,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 568310,
@@ -387,20 +411,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 469654,
+      "num": 334370,
+      "word": "易烊千玺北京",
+      "onboard_time": 1704964048,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465858,
       "num": 465858,
       "word": "这种癌很容易漏诊误诊",
       "onboard_time": 1704955826,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 459513,
-      "num": 459513,
-      "word": "原来孙悟空是抽烟的",
-      "onboard_time": 1704962129,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 452348,
@@ -433,14 +457,6 @@
       "onboard_time": 1704935849,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440681,
-      "num": 440681,
-      "word": "淄博文旅局副局长谈哈尔滨出圈",
-      "onboard_time": 1704962969,
-      "rank": 13,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 439268,
@@ -691,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311114,
-      "num": 311114,
-      "word": "易烊千玺北京",
-      "onboard_time": 1704964048,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311081,
       "num": 311081,
       "word": "深圳一房子评估价600万降到200多万",
@@ -843,6 +851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 260761,
+      "num": 260761,
+      "word": "董宇辉回应企业家组团找自己学网红经济",
+      "onboard_time": 1704963209,
+      "rank": 22,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 255960,
       "num": 255960,
       "word": "王一博加盟微博之夜",
@@ -865,6 +881,14 @@
       "onboard_time": 1704932190,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251287,
+      "num": 172973,
+      "word": "穿裤子和低跟鞋的空乘人员",
+      "onboard_time": 1704964231,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 247531,
@@ -897,14 +921,6 @@
       "onboard_time": 1704885754,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239596,
-      "num": 239596,
-      "word": "董宇辉回应企业家组团找自己学网红经济",
-      "onboard_time": 1704963209,
-      "rank": 22,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 239593,
@@ -955,6 +971,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216211,
+      "num": 170820,
+      "word": "儿子的语文成绩是如何逆袭的",
+      "onboard_time": 1704965010,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 216158,
+      "num": 216158,
+      "word": "女子买硬座非坐卧铺乘务员劝阻被骂",
+      "onboard_time": 1704964709,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210689,
       "num": 210689,
       "word": "周鸿祎程前互怼",
@@ -1000,6 +1032,14 @@
       "word": "杨超越新剧婚礼造型",
       "onboard_time": 1704953010,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201806,
+      "num": 201806,
+      "word": "白敬亭繁花剧组同框",
+      "onboard_time": 1704963331,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -1180,7 +1220,7 @@
     },
     {
       "raw_hot": 179624,
-      "num": 164731,
+      "num": 176135,
       "word": "迪丽热巴近期行程",
       "onboard_time": 1704963749,
       "rank": 32,
@@ -1201,14 +1241,6 @@
       "onboard_time": 1704953311,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 176810,
-      "num": 165749,
-      "word": "穿裤子和低跟鞋的空乘人员",
-      "onboard_time": 1704964231,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 176014,
@@ -1241,14 +1273,6 @@
       "onboard_time": 1704896435,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 171028,
-      "num": 171028,
-      "word": "白敬亭繁花剧组同框",
-      "onboard_time": 1704963331,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 170521,
@@ -1451,6 +1475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 147090,
+      "num": 147090,
+      "word": "官方回应上海59公里车收费420元",
+      "onboard_time": 1704965371,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146382,
       "num": 146382,
       "word": "刘亦菲巴黎夜景随拍",
@@ -1473,14 +1505,6 @@
       "onboard_time": 1704959730,
       "rank": 39,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 143788,
-      "num": 143788,
-      "word": "母亲以死逼婚儿子结婚半年闪离",
-      "onboard_time": 1704964531,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143630,
@@ -1569,6 +1593,14 @@
       "onboard_time": 1704903087,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132094,
+      "num": 132094,
+      "word": "会画画真的能为所欲为",
+      "onboard_time": 1704965132,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 131998,
@@ -1779,6 +1811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 111156,
+      "num": 111156,
+      "word": "老师想要捞人时就一定能捞到",
+      "onboard_time": 1704965610,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111121,
       "num": 111121,
       "word": "金晨穿羽绒服走红毯",
@@ -1801,6 +1841,14 @@
       "onboard_time": 1704962426,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108939,
+      "num": 108939,
+      "word": "过年相亲比面试还激烈",
+      "onboard_time": 1704965610,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 105346,
