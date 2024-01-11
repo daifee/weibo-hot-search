@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704950254156,
+  "endTime": 1704951259787,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -75,6 +75,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 920521,
+      "num": 920521,
+      "word": "IU染粉发",
+      "onboard_time": 1704949174,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 892610,
+      "num": 892610,
+      "word": "不出道就得回清华读研",
+      "onboard_time": 1704947077,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 889763,
       "num": 436790,
       "word": "16岁女生讨要抚养费被亲戚打流产",
@@ -83,28 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 880308,
-      "num": 880308,
-      "word": "不出道就得回清华读研",
-      "onboard_time": 1704947077,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 838049,
       "num": 838049,
       "word": "00后网文作家被曝年入百万",
       "onboard_time": 1704935909,
       "rank": 6,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 822802,
-      "num": 822802,
-      "word": "IU染粉发",
-      "onboard_time": 1704949174,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 762728,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 560205,
+      "num": 448903,
+      "word": "微博之夜",
+      "onboard_time": 1704946772,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 553950,
       "num": 553950,
       "word": "陈建斌劝架 哞两声得了",
@@ -211,20 +219,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 552740,
-      "num": 448903,
-      "word": "微博之夜",
-      "onboard_time": 1704946772,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 544065,
       "num": 544065,
       "word": "47岁男子没要到3000元生活费纵火烧家",
       "onboard_time": 1704918552,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500444,
+      "num": 355625,
+      "word": "赵正平官宣结婚",
+      "onboard_time": 1704950671,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 474184,
@@ -291,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 387348,
+      "num": 351061,
+      "word": "暗恋的人成了闪闪发光的大明星",
+      "onboard_time": 1704947738,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385509,
       "num": 445040,
       "word": "警方通报浙江一家四口驾车坠河",
@@ -329,14 +345,6 @@
       "onboard_time": 1704948394,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 351061,
-      "num": 351061,
-      "word": "暗恋的人成了闪闪发光的大明星",
-      "onboard_time": 1704947738,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 345275,
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310972,
+      "num": 196050,
+      "word": "汤唯觉得老公比女儿更重要",
+      "onboard_time": 1704949895,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302328,
       "num": 302328,
       "word": "韩后老板靠468元起家",
@@ -505,6 +521,14 @@
       "onboard_time": 1704888869,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 289683,
+      "num": 379169,
+      "word": "第25个GDP万亿城市来了",
+      "onboard_time": 1704948877,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 283975,
@@ -577,14 +601,6 @@
       "onboard_time": 1704932190,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 251602,
-      "num": 251602,
-      "word": "第25个GDP万亿城市来了",
-      "onboard_time": 1704948877,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 247531,
@@ -755,20 +771,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184787,
-      "num": 171107,
-      "word": "汤唯觉得老公比女儿更重要",
-      "onboard_time": 1704949895,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182797,
       "num": 182797,
       "word": "女子偶遇长似爸爸的大叔瞬间泪崩",
       "onboard_time": 1704941489,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182451,
+      "num": 152235,
+      "word": "桃草",
+      "onboard_time": 1704951209,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 181426,
@@ -817,6 +833,14 @@
       "onboard_time": 1704937468,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173979,
+      "num": 173979,
+      "word": "联合国一飞机被劫持",
+      "onboard_time": 1704951092,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 173374,
@@ -907,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162351,
+      "num": 162351,
+      "word": "甲流乙流可以同时感染",
+      "onboard_time": 1704950911,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 161819,
       "num": 161819,
       "word": "权志龙或将举行演唱会",
@@ -993,6 +1025,14 @@
       "onboard_time": 1704942092,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143630,
+      "num": 143630,
+      "word": "一进腊月就是年",
+      "onboard_time": 1704950372,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140642,
@@ -1451,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55903,
+      "num": 243817,
+      "word": "巩俐出演时尚主编",
+      "onboard_time": 1704949476,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 54377,
       "num": 111042,
       "word": "章若楠怕水",
@@ -1459,7 +1507,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54031,
+      "raw_hot": 54126,
       "num": 1183654,
       "word": "歼20首飞成功13年了",
       "onboard_time": 1704931348,
@@ -1475,12 +1523,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 48679,
-      "num": 243817,
-      "word": "巩俐出演时尚主编",
-      "onboard_time": 1704949476,
-      "rank": 29,
-      "category": "作品衍生"
+      "raw_hot": 46271,
+      "num": 155938,
+      "word": "嗑到苏有朋的糖了",
+      "onboard_time": 1704950252,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 41155,

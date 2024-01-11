@@ -1,0 +1,410 @@
+{
+  "runTime": 1704951259787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6233235,
+        "num": 6233235,
+        "word": "贾玲减了100斤",
+        "onboard_time": 1704939148,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1211886,
+        "num": 1211886,
+        "word": "近视眼从800度降到100度的过程",
+        "onboard_time": 1704933933,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54126,
+        "num": 998106,
+        "word": "歼20首飞成功13年了",
+        "onboard_time": 1704931348,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 920521,
+        "num": 920521,
+        "word": "IU染粉发",
+        "onboard_time": 1704949174,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 892610,
+        "num": 892610,
+        "word": "不出道就得回清华读研",
+        "onboard_time": 1704947077,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 717757,
+        "num": 717757,
+        "word": "热辣滚烫阵容",
+        "onboard_time": 1704940831,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 580450,
+        "num": 580450,
+        "word": "微博之夜嘉宾emoji",
+        "onboard_time": 1704947254,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 421041,
+        "num": 421041,
+        "word": "8岁男孩喜提152平婚房和三层小洋房",
+        "onboard_time": 1704943652,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387990,
+        "num": 387990,
+        "word": "00后网文作家被曝年入百万",
+        "onboard_time": 1704935909,
+        "rank": 8,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 289683,
+        "num": 379169,
+        "word": "第25个GDP万亿城市来了",
+        "onboard_time": 1704948877,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2363824,
+        "num": 376576,
+        "word": "贾玲声音都变了",
+        "onboard_time": 1704940831,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 560205,
+        "num": 366263,
+        "word": "微博之夜",
+        "onboard_time": 1704946772,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 500444,
+        "num": 355625,
+        "word": "赵正平官宣结婚",
+        "onboard_time": 1704950671,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350484,
+        "num": 350484,
+        "word": "肯德基 今天安排吗",
+        "onboard_time": 1704946353,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 328413,
+        "num": 328413,
+        "word": "25岁姑娘体检发现结节无症状确诊肺癌",
+        "onboard_time": 1704901291,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 448659,
+        "num": 314672,
+        "word": "堂本刚结婚",
+        "onboard_time": 1704947254,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393495,
+        "num": 305392,
+        "word": "周生如故",
+        "onboard_time": 1704944132,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278603,
+        "num": 278603,
+        "word": "女子为博眼球扮孕妇征婚被拘",
+        "onboard_time": 1704946596,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228867,
+        "num": 228867,
+        "word": "俩95后宝妈离婚后搭伙过日子",
+        "onboard_time": 1704929606,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203699,
+        "num": 203699,
+        "word": "尔滨 压力给到了西安",
+        "onboard_time": 1704941913,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 518870,
+        "num": 201031,
+        "word": "妹妹上班三年存了30万",
+        "onboard_time": 1704943110,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387348,
+        "num": 198089,
+        "word": "暗恋的人成了闪闪发光的大明星",
+        "onboard_time": 1704947738,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310972,
+        "num": 196050,
+        "word": "汤唯觉得老公比女儿更重要",
+        "onboard_time": 1704949895,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302706,
+        "num": 194040,
+        "word": "办公室同事一天不说话正常吗",
+        "onboard_time": 1704948394,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240742,
+        "num": 191269,
+        "word": "猫咪和男友竟然互扇了起来",
+        "onboard_time": 1704947618,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230577,
+        "num": 188275,
+        "word": "2024春节档已官宣5部电影",
+        "onboard_time": 1704947316,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185274,
+        "num": 185274,
+        "word": "深圳一房子评估价600万降到200多万",
+        "onboard_time": 1704938609,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162081,
+        "num": 184205,
+        "word": "库里摇头",
+        "onboard_time": 1704948514,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55903,
+        "num": 182315,
+        "word": "巩俐出演时尚主编",
+        "onboard_time": 1704949476,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117920,
+        "num": 181828,
+        "word": "女孩认领遗失手机亮出的壁纸让人感动",
+        "onboard_time": 1704934951,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218275,
+        "num": 179529,
+        "word": "吴千语透露婚礼筹备进度",
+        "onboard_time": 1704949293,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217597,
+        "num": 178726,
+        "word": "李楷灿室内抽烟",
+        "onboard_time": 1704943413,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216017,
+        "num": 176345,
+        "word": "陈建斌劝架 哞两声得了",
+        "onboard_time": 1704945754,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212816,
+        "num": 174455,
+        "word": "19岁的游本昌",
+        "onboard_time": 1704931649,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173979,
+        "num": 173979,
+        "word": "联合国一飞机被劫持",
+        "onboard_time": 1704951092,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 208628,
+        "num": 169083,
+        "word": "种地吧 行李牌",
+        "onboard_time": 1704947674,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144828,
+        "num": 165796,
+        "word": "警方通报浙江一家四口驾车坠河",
+        "onboard_time": 1704938967,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192976,
+        "num": 164607,
+        "word": "热辣滚烫 中国版百元之恋",
+        "onboard_time": 1704946052,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162668,
+        "num": 162668,
+        "word": "霸王茶姬回应外卖按杯收取包装费",
+        "onboard_time": 1704933631,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162351,
+        "num": 162351,
+        "word": "甲流乙流可以同时感染",
+        "onboard_time": 1704950911,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191576,
+        "num": 161285,
+        "word": "电影开场后也能退票了",
+        "onboard_time": 1704944132,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188492,
+        "num": 157855,
+        "word": "肖战中国电视剧年度盛典官宣",
+        "onboard_time": 1704944792,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46271,
+        "num": 155938,
+        "word": "嗑到苏有朋的糖了",
+        "onboard_time": 1704950252,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182451,
+        "num": 152235,
+        "word": "桃草",
+        "onboard_time": 1704951209,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177217,
+        "num": 148757,
+        "word": "是枝裕和杨幂刘诗诗同框",
+        "onboard_time": 1704948575,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148527,
+        "num": 148527,
+        "word": "尔滨推出小碗蒜蓉血肠",
+        "onboard_time": 1704943230,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143630,
+        "num": 143630,
+        "word": "一进腊月就是年",
+        "onboard_time": 1704950372,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139245,
+        "num": 139245,
+        "word": "AppStore入驻微博",
+        "onboard_time": 1704945396,
+        "rank": 47,
+        "category": "数码,游戏"
+      },
+      {
+        "raw_hot": 135924,
+        "num": 135924,
+        "word": "东北的文旅局长们超级听劝",
+        "onboard_time": 1704946895,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129860,
+        "num": 129860,
+        "word": "无面男孩18岁洗掉脸上纹身",
+        "onboard_time": 1704931348,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎马尔代夫总统访华#"
+    }
+  }
+}

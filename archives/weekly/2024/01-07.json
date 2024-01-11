@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704950254156,
+  "endTime": 1704951259787,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -971,6 +971,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 920521,
+      "num": 920521,
+      "word": "IU染粉发",
+      "onboard_time": 1704949174,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 919094,
       "num": 919094,
       "word": "赵昭仪去泰国了",
@@ -1019,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 892610,
+      "num": 892610,
+      "word": "不出道就得回清华读研",
+      "onboard_time": 1704947077,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 889763,
       "num": 436790,
       "word": "16岁女生讨要抚养费被亲戚打流产",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1704679708,
       "rank": 4,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 880308,
-      "num": 880308,
-      "word": "不出道就得回清华读研",
-      "onboard_time": 1704947077,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 877823,
@@ -1169,14 +1177,6 @@
       "onboard_time": 1704620491,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 822802,
-      "num": 822802,
-      "word": "IU染粉发",
-      "onboard_time": 1704949174,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 818140,
@@ -2371,6 +2371,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 560205,
+      "num": 448903,
+      "word": "微博之夜",
+      "onboard_time": 1704946772,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 559434,
       "num": 559434,
       "word": "住房100平比50平家庭更愿意生2孩",
@@ -2417,14 +2425,6 @@
       "onboard_time": 1704549995,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 552740,
-      "num": 448903,
-      "word": "微博之夜",
-      "onboard_time": 1704946772,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 551226,
@@ -2873,6 +2873,14 @@
       "onboard_time": 1704860134,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 500444,
+      "num": 355625,
+      "word": "赵正平官宣结婚",
+      "onboard_time": 1704950671,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 500436,
@@ -3763,6 +3771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 387348,
+      "num": 351061,
+      "word": "暗恋的人成了闪闪发光的大明星",
+      "onboard_time": 1704947738,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387167,
       "num": 387167,
       "word": "把和男友的聊天记录可视化",
@@ -4033,14 +4049,6 @@
       "onboard_time": 1704589471,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 351061,
-      "num": 351061,
-      "word": "暗恋的人成了闪闪发光的大明星",
-      "onboard_time": 1704947738,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 350185,
@@ -4483,6 +4491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310972,
+      "num": 196050,
+      "word": "汤唯觉得老公比女儿更重要",
+      "onboard_time": 1704949895,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310224,
       "num": 310224,
       "word": "河南致返乡人员一封信",
@@ -4785,6 +4801,14 @@
       "onboard_time": 1704798932,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289683,
+      "num": 379169,
+      "word": "第25个GDP万亿城市来了",
+      "onboard_time": 1704948877,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 289369,
@@ -5273,14 +5297,6 @@
       "onboard_time": 1704932190,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 251602,
-      "num": 251602,
-      "word": "第25个GDP万亿城市来了",
-      "onboard_time": 1704948877,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 251320,
@@ -7387,14 +7403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184787,
-      "num": 171107,
-      "word": "汤唯觉得老公比女儿更重要",
-      "onboard_time": 1704949895,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184517,
       "num": 184517,
       "word": "原神托马",
@@ -7521,6 +7529,14 @@
       "onboard_time": 1704714570,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182451,
+      "num": 152235,
+      "word": "桃草",
+      "onboard_time": 1704951209,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 181984,
@@ -7897,6 +7913,14 @@
       "onboard_time": 1704848790,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173979,
+      "num": 173979,
+      "word": "联合国一飞机被劫持",
+      "onboard_time": 1704951092,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 173745,
@@ -8489,6 +8513,14 @@
       "onboard_time": 1704939387,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162351,
+      "num": 162351,
+      "word": "甲流乙流可以同时感染",
+      "onboard_time": 1704950911,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 161819,
@@ -9431,6 +9463,14 @@
       "num": 143684,
       "word": "少先队员与警察同走海拔4040米边境",
       "onboard_time": 1704850528,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143630,
+      "num": 143630,
+      "word": "一进腊月就是年",
+      "onboard_time": 1704950372,
       "rank": 46,
       "category": "社会新闻"
     },
@@ -12131,6 +12171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55903,
+      "num": 243817,
+      "word": "巩俐出演时尚主编",
+      "onboard_time": 1704949476,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 55394,
       "num": 55394,
       "word": "全国男生统一话术",
@@ -12155,7 +12203,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 54031,
+      "raw_hot": 54126,
       "num": 1183654,
       "word": "歼20首飞成功13年了",
       "onboard_time": 1704931348,
@@ -12227,14 +12275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48679,
-      "num": 243817,
-      "word": "巩俐出演时尚主编",
-      "onboard_time": 1704949476,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 47829,
       "num": 1426765,
       "word": "向禁毒战线上无名的你们致敬",
@@ -12249,6 +12289,14 @@
       "onboard_time": 1704843264,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46271,
+      "num": 155938,
+      "word": "嗑到苏有朋的糖了",
+      "onboard_time": 1704950252,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 45293,
