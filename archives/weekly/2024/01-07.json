@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704997338874,
+  "endTime": 1704998098635,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -13619,6 +13619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68338,
+      "num": 68338,
+      "word": "网友上海街头偶遇海恩贤圭",
+      "onboard_time": 1704996797,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65572,
       "num": 65572,
       "word": "陈奕迅爆料杨千嬅后台用桶喝水",
@@ -13841,14 +13849,6 @@
       "onboard_time": 1704670223,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 54139,
-      "num": 54139,
-      "word": "网友上海街头偶遇海恩贤圭",
-      "onboard_time": 1704996797,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 54126,
@@ -14153,6 +14153,14 @@
       "onboard_time": 1704642390,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24036,
+      "num": 24036,
+      "word": "摩羯座新月许愿",
+      "onboard_time": 1704997637,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 23750,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704990232348,
-  "endTime": 1704997338874,
+  "endTime": 1704998098635,
   "band_list": [
     {
       "raw_hot": 984479,
@@ -411,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68338,
+      "num": 68338,
+      "word": "网友上海街头偶遇海恩贤圭",
+      "onboard_time": 1704996797,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62951,
       "num": 62951,
       "word": "新郎新娘大喜日子挨个给朋友把脉",
       "onboard_time": 1704990565,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54139,
-      "num": 54139,
-      "word": "网友上海街头偶遇海恩贤圭",
-      "onboard_time": 1704996797,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 50776,
@@ -457,6 +457,14 @@
       "onboard_time": 1704979473,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24036,
+      "num": 24036,
+      "word": "摩羯座新月许愿",
+      "onboard_time": 1704997637,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 10807,
