@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704944062502,
+  "endTime": 1704946914940,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3878047,
-      "num": 299721,
+      "num": 433193,
       "word": "贾玲声音都变了",
       "onboard_time": 1704940831,
       "rank": 21,
@@ -1339,6 +1339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 762728,
+      "num": 315820,
+      "word": "妹妹上班三年存了30万",
+      "onboard_time": 1704943110,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 762716,
       "num": 762716,
       "word": "央视曝辽宁3任公安厅长落马细节",
@@ -1563,20 +1571,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 725096,
-      "num": 229415,
-      "word": "妹妹上班三年存了30万",
-      "onboard_time": 1704943110,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 724178,
       "num": 724178,
       "word": "23岁男子长期高盐饮食血压成极高危型",
       "onboard_time": 1704882873,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 721476,
+      "num": 431496,
+      "word": "周生如故",
+      "onboard_time": 1704944132,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 720342,
@@ -1616,6 +1624,14 @@
       "word": "胖东来你装个红绿灯吧",
       "onboard_time": 1704639756,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706660,
+      "num": 706660,
+      "word": "8岁男孩喜提152平婚房和三层小洋房",
+      "onboard_time": 1704943652,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2459,6 +2475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 540430,
+      "num": 540430,
+      "word": "肯德基 今天安排吗",
+      "onboard_time": 1704946353,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 539689,
       "num": 351354,
       "word": "姐姐结婚后不能一起过年了",
@@ -2963,6 +2987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474184,
+      "num": 474184,
+      "word": "电影开场后也能退票了",
+      "onboard_time": 1704944132,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 474012,
       "num": 474012,
       "word": "东北冻梨魏大勋也来广西了",
@@ -3211,6 +3243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446673,
+      "num": 446673,
+      "word": "尔滨 压力给到了西安",
+      "onboard_time": 1704941913,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 446468,
       "num": 446468,
       "word": "警方通报男子抱怨地铁里农民工太多",
@@ -3321,14 +3361,6 @@
       "onboard_time": 1704890612,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 430618,
-      "num": 430618,
-      "word": "尔滨 压力给到了西安",
-      "onboard_time": 1704941913,
-      "rank": 11,
-      "category": "旅游"
     },
     {
       "raw_hot": 430545,
@@ -3708,7 +3740,7 @@
     },
     {
       "raw_hot": 385509,
-      "num": 385509,
+      "num": 435831,
       "word": "警方通报浙江一家四口驾车坠河",
       "onboard_time": 1704938967,
       "rank": 15,
@@ -3785,6 +3817,14 @@
       "onboard_time": 1704764371,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372115,
+      "num": 372115,
+      "word": "陈建斌劝架 哞两声得了",
+      "onboard_time": 1704945754,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 372051,
@@ -4235,12 +4275,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 320567,
+      "num": 320567,
+      "word": "尔滨推出小碗蒜蓉血肠",
+      "onboard_time": 1704943230,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 320385,
       "num": 320385,
       "word": "Switch烧录卡",
       "onboard_time": 1704701250,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 319305,
+      "num": 319305,
+      "word": "肖战中国电视剧年度盛典官宣",
+      "onboard_time": 1704944792,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 318539,
@@ -4257,6 +4313,14 @@
       "onboard_time": 1704725792,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317535,
+      "num": 317535,
+      "word": "李楷灿室内抽烟",
+      "onboard_time": 1704943413,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 316909,
@@ -4363,6 +4427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309659,
+      "num": 309659,
+      "word": "AppStore入驻微博",
+      "onboard_time": 1704945396,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 309482,
       "num": 309482,
       "word": "朱丹周一围翻拍经典亲吻躲避照",
@@ -4449,6 +4521,14 @@
       "onboard_time": 1704519152,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 302328,
+      "num": 302328,
+      "word": "韩后老板靠468元起家",
+      "onboard_time": 1704943829,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 301612,
@@ -4763,14 +4843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274377,
-      "num": 274377,
-      "word": "李楷灿室内抽烟",
-      "onboard_time": 1704943413,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 273256,
       "num": 273256,
       "word": "唐嫣过去的三年都是汪小姐",
@@ -4817,6 +4889,14 @@
       "onboard_time": 1704815129,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269685,
+      "num": 269685,
+      "word": "热辣滚烫 中国版百元之恋",
+      "onboard_time": 1704946052,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 269399,
@@ -4939,14 +5019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261437,
-      "num": 261437,
-      "word": "8岁男孩喜提152平婚房和三层小洋房",
-      "onboard_time": 1704943652,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261290,
       "num": 261290,
       "word": "刘宇宁喊你来丹东",
@@ -4961,14 +5033,6 @@
       "onboard_time": 1704617370,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260222,
-      "num": 260222,
-      "word": "韩后老板靠468元起家",
-      "onboard_time": 1704943829,
-      "rank": 16,
-      "category": "美妆"
     },
     {
       "raw_hot": 260027,
@@ -5121,6 +5185,14 @@
       "onboard_time": 1704932190,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251368,
+      "num": 251368,
+      "word": "微博之夜",
+      "onboard_time": 1704946772,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 251320,
@@ -5571,14 +5643,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 228111,
-      "num": 228111,
-      "word": "尔滨推出小碗蒜蓉血肠",
-      "onboard_time": 1704943230,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 228013,
       "num": 228013,
       "word": "天官赐福",
@@ -5777,6 +5841,14 @@
       "onboard_time": 1704757948,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 220471,
+      "num": 220471,
+      "word": "新中式 左压右扣",
+      "onboard_time": 1704943953,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 220309,
@@ -6017,6 +6089,14 @@
       "onboard_time": 1704929062,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 210527,
+      "num": 210527,
+      "word": "猫猫喜欢被打屁股",
+      "onboard_time": 1704945272,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 210336,
@@ -6465,6 +6545,14 @@
       "onboard_time": 1704681210,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 200282,
+      "num": 200282,
+      "word": "王凯扫楼",
+      "onboard_time": 1704945631,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 200100,
@@ -7299,6 +7387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 181426,
+      "num": 210976,
+      "word": "哈尔滨亚冬会吉祥物",
+      "onboard_time": 1704945694,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181312,
       "num": 181312,
       "word": "教授 老了老了还要遭这罪",
@@ -7387,12 +7483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179928,
+      "num": 179928,
+      "word": "外国人有多喜欢王家卫",
+      "onboard_time": 1704944912,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179794,
       "num": 179794,
       "word": "花儿与少年",
       "onboard_time": 1704781895,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179794,
+      "num": 179794,
+      "word": "只要运动就能减肥吗",
+      "onboard_time": 1704944132,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 179635,
@@ -7761,6 +7873,14 @@
       "onboard_time": 1704880113,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170597,
+      "num": 170597,
+      "word": "减肥哪有不疯的",
+      "onboard_time": 1704946293,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 170521,
@@ -8203,6 +8323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162565,
+      "num": 162565,
+      "word": "周鸿祎格局",
+      "onboard_time": 1704945515,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 162401,
       "num": 162401,
       "word": "我们的翻译官 公孔雀开屏",
@@ -8281,6 +8409,14 @@
       "onboard_time": 1704884551,
       "rank": 26,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 160259,
+      "num": 160259,
+      "word": "搭子",
+      "onboard_time": 1704944072,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 160149,
@@ -8907,6 +9043,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 148740,
+      "num": 148740,
+      "word": "这些症状都可能是肺癌警报",
+      "onboard_time": 1704944912,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148505,
       "num": 148505,
       "word": "小熊猫偶遇小冻梨开启赠礼模式",
@@ -8969,6 +9113,14 @@
       "onboard_time": 1704896913,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146759,
+      "num": 146759,
+      "word": "女子为博眼球扮孕妇征婚被拘",
+      "onboard_time": 1704946596,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146647,
@@ -9883,6 +10035,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 129202,
+      "num": 129202,
+      "word": "南北差异",
+      "onboard_time": 1704945995,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129068,
       "num": 129068,
       "word": "哈尔滨现冻梨雕花烧烤",
@@ -10417,6 +10577,14 @@
       "onboard_time": 1704941732,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119136,
+      "num": 119136,
+      "word": "东北的文旅局长们超级听劝",
+      "onboard_time": 1704946895,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119125,
@@ -11193,14 +11361,6 @@
       "onboard_time": 1704685230,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99824,
-      "num": 99824,
-      "word": "新中式 左压右扣",
-      "onboard_time": 1704943953,
-      "rank": 47,
-      "category": "时尚"
     },
     {
       "raw_hot": 99346,
@@ -12097,6 +12257,14 @@
       "onboard_time": 1704531093,
       "rank": 2,
       "category": "财经"
+    },
+    {
+      "raw_hot": 23419,
+      "num": 317681,
+      "word": "尔滨和尔佳到底是什么关系",
+      "onboard_time": 1704944132,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23132,
