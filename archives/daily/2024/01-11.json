@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704954219744,
+  "endTime": 1704955020352,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -123,8 +123,8 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 821372,
-      "num": 406588,
+      "raw_hot": 829909,
+      "num": 419049,
       "word": "赵正平官宣结婚",
       "onboard_time": 1704950671,
       "rank": 12,
@@ -203,6 +203,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 600874,
+      "num": 600874,
+      "word": "俩女生把旅游照拍成IE浏览器",
+      "onboard_time": 1704952229,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 596835,
+      "num": 596835,
+      "word": "SM娱乐就李楷灿室内吸烟道歉",
+      "onboard_time": 1704953428,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 593273,
       "num": 451086,
       "word": "堂本刚结婚",
@@ -249,22 +265,6 @@
       "onboard_time": 1704918552,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 520303,
-      "num": 404973,
-      "word": "SM娱乐就李楷灿室内吸烟道歉",
-      "onboard_time": 1704953428,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 518286,
-      "num": 518286,
-      "word": "俩女生把旅游照拍成IE浏览器",
-      "onboard_time": 1704952229,
-      "rank": 8,
-      "category": "旅游"
     },
     {
       "raw_hot": 474184,
@@ -331,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 388460,
+      "num": 388460,
+      "word": "甲流乙流可以同时感染",
+      "onboard_time": 1704950911,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 387348,
       "num": 351061,
       "word": "暗恋的人成了闪闪发光的大明星",
@@ -345,14 +353,6 @@
       "onboard_time": 1704938967,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370629,
-      "num": 370629,
-      "word": "甲流乙流可以同时感染",
-      "onboard_time": 1704950911,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 367091,
@@ -475,6 +475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 318469,
+      "num": 308637,
+      "word": "汤唯觉得老公比女儿更重要",
+      "onboard_time": 1704949895,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317535,
       "num": 317535,
       "word": "李楷灿室内抽烟",
@@ -499,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310972,
-      "num": 308637,
-      "word": "汤唯觉得老公比女儿更重要",
-      "onboard_time": 1704949895,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 302328,
       "num": 302328,
       "word": "韩后老板靠468元起家",
@@ -523,12 +523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301428,
+      "num": 275454,
+      "word": "肖战去微博之夜",
+      "onboard_time": 1704954809,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 299853,
       "num": 208901,
       "word": "重返未来1999",
       "onboard_time": 1704941370,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299439,
+      "num": 299439,
+      "word": "青春痘疫苗或将面世",
+      "onboard_time": 1704953792,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298979,
@@ -628,11 +644,19 @@
     },
     {
       "raw_hot": 264549,
-      "num": 174261,
+      "num": 256918,
       "word": "38.5度不要物理降温的原因",
       "onboard_time": 1704953370,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 261657,
+      "num": 261657,
+      "word": "12306优化升级候补购票",
+      "onboard_time": 1704954570,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255501,
@@ -755,8 +779,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200589,
-      "num": 200589,
+      "raw_hot": 202160,
+      "num": 202160,
       "word": "杨超越新剧婚礼造型",
       "onboard_time": 1704953010,
       "rank": 26,
@@ -769,6 +793,14 @@
       "onboard_time": 1704945631,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199237,
+      "num": 199237,
+      "word": "我国在海上发射一箭三星",
+      "onboard_time": 1704953491,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197796,
@@ -785,14 +817,6 @@
       "onboard_time": 1704947856,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196415,
-      "num": 196415,
-      "word": "我国在海上发射一箭三星",
-      "onboard_time": 1704953491,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196205,
@@ -824,6 +848,14 @@
       "word": "网约司机车上现女士内裤遭分手",
       "onboard_time": 1704895055,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188090,
+      "num": 188090,
+      "word": "引力一号",
+      "onboard_time": 1704954090,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -883,6 +915,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 179547,
+      "num": 179547,
+      "word": "每天沉迷看小说的我",
+      "onboard_time": 1704951872,
+      "rank": 33,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 177153,
       "num": 177153,
       "word": "程前私董会一年收费59800",
@@ -923,14 +963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171183,
-      "num": 171183,
-      "word": "青春痘疫苗或将面世",
-      "onboard_time": 1704953792,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170521,
       "num": 166841,
       "word": "青萝卜皮 偏头痛",
@@ -945,14 +977,6 @@
       "onboard_time": 1704935670,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 168406,
-      "num": 168406,
-      "word": "每天沉迷看小说的我",
-      "onboard_time": 1704951872,
-      "rank": 33,
-      "category": "读书作家"
     },
     {
       "raw_hot": 165888,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1704937349,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161711,
+      "num": 161711,
+      "word": "罗永浩指责荣耀任意门抄袭锤子",
+      "onboard_time": 1704954330,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 161542,
@@ -1179,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131860,
+      "num": 131860,
+      "word": "宋爷爷发文准备告别福宝",
+      "onboard_time": 1704954750,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130371,
       "num": 130371,
       "word": "小砂糖橘宝贝回家啦",
@@ -1203,12 +1243,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126097,
-      "num": 126097,
-      "word": "引力一号",
-      "onboard_time": 1704954090,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 128189,
+      "num": 128189,
+      "word": "王一博加盟微博之夜",
+      "onboard_time": 1704954928,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125656,
@@ -1275,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121047,
+      "num": 121047,
+      "word": "惠英红微博之夜要继续收割新宝贝",
+      "onboard_time": 1704954151,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 120859,
       "num": 120859,
       "word": "向尔滨的回礼引发全国特产大摸底",
@@ -1307,12 +1355,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118836,
-      "num": 118836,
-      "word": "惠英红微博之夜要继续收割新宝贝",
-      "onboard_time": 1704954151,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 118755,
+      "num": 118755,
+      "word": "广西一中学学生趴桌午休收费260元",
+      "onboard_time": 1704954928,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118396,
+      "num": 118396,
+      "word": "大学生德华",
+      "onboard_time": 1704954209,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 115938,
@@ -1337,14 +1393,6 @@
       "onboard_time": 1704890491,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 111373,
-      "num": 111373,
-      "word": "大学生德华",
-      "onboard_time": 1704954209,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 111121,
