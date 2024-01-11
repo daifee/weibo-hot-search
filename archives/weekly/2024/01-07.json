@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1705007755468,
+  "endTime": 1705008849188,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -14147,6 +14147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28688,
+      "num": 28688,
+      "word": "孕妇遭猥亵殴打案一审男友发声",
+      "onboard_time": 1705004173,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28544,
       "num": 33206,
       "word": "傅菁翻跳guilty",
@@ -14201,14 +14209,6 @@
       "onboard_time": 1704567436,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22757,
-      "num": 14788,
-      "word": "孕妇遭猥亵殴打案一审男友发声",
-      "onboard_time": 1705004173,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22491,
@@ -14347,8 +14347,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 13631,
-      "num": 13631,
+      "raw_hot": 13745,
+      "num": 13745,
       "word": "周鸿祎做客董宇辉直播间",
       "onboard_time": 1705002914,
       "rank": 42,
@@ -14379,8 +14379,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10286,
-      "num": 10286,
+      "raw_hot": 10805,
+      "num": 10805,
       "word": "美国12月CPI超预期",
       "onboard_time": 1705002133,
       "rank": 49,
