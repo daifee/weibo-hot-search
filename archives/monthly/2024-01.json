@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704947772461,
+  "endTime": 1704950254156,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 3878047,
-      "num": 442732,
+      "num": 453629,
       "word": "贾玲声音都变了",
       "onboard_time": 1704940831,
       "rank": 21,
@@ -2843,6 +2843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 880308,
+      "num": 880308,
+      "word": "不出道就得回清华读研",
+      "onboard_time": 1704947077,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 880268,
       "num": 880268,
       "word": "跨年晚会真假唱鉴定",
@@ -3185,6 +3193,14 @@
       "onboard_time": 1704620491,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 822802,
+      "num": 822802,
+      "word": "IU染粉发",
+      "onboard_time": 1704949174,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 819550,
@@ -5155,6 +5171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 614568,
+      "num": 614568,
+      "word": "微博之夜嘉宾emoji",
+      "onboard_time": 1704947254,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 613725,
       "num": 613725,
       "word": "白鹿范丞丞牵手合唱",
@@ -5443,6 +5467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 593273,
+      "num": 451086,
+      "word": "堂本刚结婚",
+      "onboard_time": 1704947254,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592606,
       "num": 592606,
       "word": "黑龙江研发小土豆形象IP",
@@ -5569,14 +5601,6 @@
       "onboard_time": 1704601713,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 584590,
-      "num": 439209,
-      "word": "堂本刚结婚",
-      "onboard_time": 1704947254,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 583626,
@@ -5985,6 +6009,14 @@
       "onboard_time": 1704374015,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 552740,
+      "num": 448903,
+      "word": "微博之夜",
+      "onboard_time": 1704178173,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 552625,
@@ -8739,14 +8771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 402082,
-      "num": 280377,
-      "word": "微博之夜嘉宾emoji",
-      "onboard_time": 1704947254,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 402029,
       "num": 402029,
       "word": "迪丽热巴竞品",
@@ -9033,14 +9057,6 @@
       "onboard_time": 1704534992,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388558,
-      "num": 388558,
-      "word": "微博之夜",
-      "onboard_time": 1704178173,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 388520,
@@ -9579,6 +9595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 359701,
+      "num": 250328,
+      "word": "办公室同事一天不说话正常吗",
+      "onboard_time": 1704948394,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 358804,
       "num": 265702,
       "word": "真正的穷鬼套餐",
@@ -9715,6 +9739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351061,
+      "num": 351061,
+      "word": "暗恋的人成了闪闪发光的大明星",
+      "onboard_time": 1704947738,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350936,
       "num": 350936,
       "word": "外交部回应中国留学生被美方强制遣返",
@@ -9737,14 +9769,6 @@
       "onboard_time": 1704074794,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350479,
-      "num": 350479,
-      "word": "不出道就得回清华读研",
-      "onboard_time": 1704947077,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 350185,
@@ -11075,6 +11099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298979,
+      "num": 279462,
+      "word": "猫咪和男友竟然互扇了起来",
+      "onboard_time": 1704947618,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 298527,
       "num": 298527,
       "word": "台湾女生在东北第一次吃冰糖葫芦",
@@ -11515,14 +11547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288234,
-      "num": 279462,
-      "word": "猫咪和男友竟然互扇了起来",
-      "onboard_time": 1704947618,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 288074,
       "num": 288074,
       "word": "亲妹妹不跟我们一起过年",
@@ -11665,6 +11689,14 @@
       "onboard_time": 1704379659,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 283975,
+      "num": 459025,
+      "word": "女子为博眼球扮孕妇征婚被拘",
+      "onboard_time": 1704946596,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283421,
@@ -12715,14 +12747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255483,
-      "num": 345016,
-      "word": "女子为博眼球扮孕妇征婚被拘",
-      "onboard_time": 1704946596,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254932,
       "num": 254932,
       "word": "张婧仪藏海传妆造",
@@ -12833,6 +12857,14 @@
       "onboard_time": 1704520110,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251602,
+      "num": 251602,
+      "word": "第25个GDP万亿城市来了",
+      "onboard_time": 1704948877,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 251515,
@@ -12993,6 +13025,14 @@
       "onboard_time": 1704151647,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247531,
+      "num": 247531,
+      "word": "种地吧 行李牌",
+      "onboard_time": 1704947674,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 247276,
@@ -13225,6 +13265,14 @@
       "onboard_time": 1704297692,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242860,
+      "num": 242860,
+      "word": "吴千语透露婚礼筹备进度",
+      "onboard_time": 1704949293,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 242432,
@@ -15235,6 +15283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208004,
+      "num": 174351,
+      "word": "AOA徐酉奈结婚",
+      "onboard_time": 1704948452,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207945,
       "num": 207945,
       "word": "华为知情人士回应与懂车帝停止合作",
@@ -16299,6 +16355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197796,
+      "num": 173364,
+      "word": "是枝裕和杨幂刘诗诗同框",
+      "onboard_time": 1704948575,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197699,
       "num": 197699,
       "word": "爸妈假装大人的一些证据",
@@ -16377,6 +16441,14 @@
       "onboard_time": 1704370714,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196623,
+      "num": 171853,
+      "word": "龚俊胡连馨 暗河传",
+      "onboard_time": 1704947856,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 196608,
@@ -17435,6 +17507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186724,
+      "num": 246428,
+      "word": "库里摇头",
+      "onboard_time": 1704948514,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186675,
       "num": 186675,
       "word": "W年度盛典嘉宾",
@@ -17593,6 +17673,14 @@
       "onboard_time": 1704279512,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184787,
+      "num": 171107,
+      "word": "汤唯觉得老公比女儿更重要",
+      "onboard_time": 1704949895,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 184771,
@@ -18683,14 +18771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174697,
-      "num": 174697,
-      "word": "暗恋的人成了闪闪发光的大明星",
-      "onboard_time": 1704947738,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174610,
       "num": 174610,
       "word": "陈梦王曼昱3比0李时温金娜英",
@@ -19297,14 +19377,6 @@
       "onboard_time": 1704685172,
       "rank": 46,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 169463,
-      "num": 169463,
-      "word": "种地吧 行李牌",
-      "onboard_time": 1704947674,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 169416,
@@ -22393,6 +22465,14 @@
       "onboard_time": 1704937049,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 140622,
+      "num": 140622,
+      "word": "鹈鹕36分大胜勇士",
+      "onboard_time": 1704949234,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 140528,
@@ -27531,6 +27611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54031,
+      "num": 1183654,
+      "word": "歼20首飞成功13年了",
+      "onboard_time": 1704931348,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53725,
       "num": 53725,
       "word": "胡先煦再也不想去徒步了吧",
@@ -27673,6 +27761,14 @@
       "onboard_time": 1704862894,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48679,
+      "num": 243817,
+      "word": "巩俐出演时尚主编",
+      "onboard_time": 1704949476,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 48623,
@@ -27979,12 +28075,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 34433,
-      "num": 1183654,
-      "word": "歼20首飞成功13年了",
-      "onboard_time": 1704931348,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 35029,
+      "num": 251696,
+      "word": "游戏圈最燃国漫新番",
+      "onboard_time": 1704947316,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 34357,
@@ -28217,14 +28313,6 @@
       "onboard_time": 1704253829,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21188,
-      "num": 189460,
-      "word": "游戏圈最燃国漫新番",
-      "onboard_time": 1704947316,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 21096,
