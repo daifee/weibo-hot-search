@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/11 12:21:54
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/11 12:36:12
 </p>
 </blockquote>
 <p>
@@ -1949,6 +1949,12 @@ iPhone从4000多米高空坠落仍可使用（热度：987136）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88%23%23" target="weibo">
 #习近平同马尔代夫总统会谈#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BE%E8%A1%8C%E4%BB%AA%E5%BC%8F%E6%AC%A2%E8%BF%8E%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E%23%23" target="weibo">
+#习近平举行仪式欢迎马尔代夫总统访华#
 </a>
 </li>
 

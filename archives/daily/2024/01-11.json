@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704946914940,
+  "endTime": 1704947772461,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3878047,
-      "num": 433193,
+      "num": 442732,
       "word": "贾玲声音都变了",
       "onboard_time": 1704940831,
       "rank": 21,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 762728,
-      "num": 315820,
+      "num": 344776,
       "word": "妹妹上班三年存了30万",
       "onboard_time": 1704943110,
       "rank": 20,
@@ -116,15 +116,15 @@
     },
     {
       "raw_hot": 721476,
-      "num": 431496,
+      "num": 440685,
       "word": "周生如故",
       "onboard_time": 1704944132,
       "rank": 11,
       "category": "剧集"
     },
     {
-      "raw_hot": 706660,
-      "num": 706660,
+      "raw_hot": 718904,
+      "num": 718904,
       "word": "8岁男孩喜提152平婚房和三层小洋房",
       "onboard_time": 1704943652,
       "rank": 15,
@@ -147,12 +147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 617179,
+      "num": 617179,
+      "word": "肯德基 今天安排吗",
+      "onboard_time": 1704946353,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 592479,
       "num": 592479,
       "word": "晚上在家试了把王家卫镜头",
       "onboard_time": 1704935133,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 584590,
+      "num": 439209,
+      "word": "堂本刚结婚",
+      "onboard_time": 1704947254,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 567584,
@@ -163,20 +179,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553950,
+      "num": 553950,
+      "word": "陈建斌劝架 哞两声得了",
+      "onboard_time": 1704945754,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 544065,
       "num": 544065,
       "word": "47岁男子没要到3000元生活费纵火烧家",
       "onboard_time": 1704918552,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 540430,
-      "num": 540430,
-      "word": "肯德基 今天安排吗",
-      "onboard_time": 1704946353,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 474184,
@@ -235,6 +251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 402082,
+      "num": 280377,
+      "word": "微博之夜嘉宾emoji",
+      "onboard_time": 1704947254,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 397805,
       "num": 397805,
       "word": "胡歌 微博之夜开屏",
@@ -243,24 +267,24 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 388558,
+      "num": 388558,
+      "word": "微博之夜",
+      "onboard_time": 1704946772,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 385509,
-      "num": 435831,
+      "num": 445040,
       "word": "警方通报浙江一家四口驾车坠河",
       "onboard_time": 1704938967,
       "rank": 15,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 372115,
-      "num": 372115,
-      "word": "陈建斌劝架 哞两声得了",
-      "onboard_time": 1704945754,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 367091,
-      "num": 245053,
+      "num": 277341,
       "word": "无面男孩18岁洗掉脸上纹身",
       "onboard_time": 1704931348,
       "rank": 21,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 364851,
-      "num": 244185,
+      "num": 281978,
       "word": "女孩认领遗失手机亮出的壁纸让人感动",
       "onboard_time": 1704934951,
       "rank": 22,
@@ -283,12 +307,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 350479,
+      "num": 350479,
+      "word": "不出道就得回清华读研",
+      "onboard_time": 1704947077,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345275,
       "num": 345275,
       "word": "电影白蛇浮生定档",
       "onboard_time": 1704939688,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 344406,
+      "num": 344406,
+      "word": "堂本刚 百田夏菜子",
+      "onboard_time": 1704947376,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 339247,
@@ -339,6 +379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 319910,
+      "num": 319910,
+      "word": "AppStore入驻微博",
+      "onboard_time": 1704945396,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 319305,
       "num": 319305,
       "word": "肖战中国电视剧年度盛典官宣",
@@ -369,14 +417,6 @@
       "onboard_time": 1704938609,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309659,
-      "num": 309659,
-      "word": "AppStore入驻微博",
-      "onboard_time": 1704945396,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 302328,
@@ -411,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 297572,
+      "num": 297572,
+      "word": "热辣滚烫 中国版百元之恋",
+      "onboard_time": 1704946052,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296472,
       "num": 296472,
       "word": "女生发现妹妹的书桌藏着一幅山水画",
@@ -425,6 +473,14 @@
       "onboard_time": 1704888869,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288234,
+      "num": 279462,
+      "word": "猫咪和男友竟然互扇了起来",
+      "onboard_time": 1704947618,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 282862,
@@ -451,20 +507,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277143,
+      "num": 277143,
+      "word": "2024春节档已官宣5部电影",
+      "onboard_time": 1704947316,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 271330,
       "num": 271330,
       "word": "爱泼斯坦案最后一批解密文件发布",
       "onboard_time": 1704938189,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269685,
-      "num": 269685,
-      "word": "热辣滚烫 中国版百元之恋",
-      "onboard_time": 1704946052,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 265161,
@@ -483,20 +539,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255483,
+      "num": 345016,
+      "word": "女子为博眼球扮孕妇征婚被拘",
+      "onboard_time": 1704946596,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252604,
       "num": 252604,
       "word": "宋运辉梁思申 心动的信号",
       "onboard_time": 1704932190,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 251368,
-      "num": 251368,
-      "word": "微博之夜",
-      "onboard_time": 1704946772,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 242148,
@@ -561,6 +617,22 @@
       "onboard_time": 1704945272,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206292,
+      "num": 206292,
+      "word": "减肥哪有不疯的",
+      "onboard_time": 1704946293,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 205603,
+      "num": 276667,
+      "word": "东北的文旅局长们超级听劝",
+      "onboard_time": 1704946895,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200282,
@@ -659,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174697,
+      "num": 174697,
+      "word": "暗恋的人成了闪闪发光的大明星",
+      "onboard_time": 1704947738,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173374,
       "num": 173374,
       "word": "热辣滚烫",
@@ -675,20 +755,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170597,
-      "num": 170597,
-      "word": "减肥哪有不疯的",
-      "onboard_time": 1704946293,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 170521,
       "num": 166841,
       "word": "青萝卜皮 偏头痛",
       "onboard_time": 1704936389,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 169463,
+      "num": 169463,
+      "word": "种地吧 行李牌",
+      "onboard_time": 1704947674,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 168507,
@@ -833,14 +913,6 @@
       "onboard_time": 1704944912,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 146759,
-      "num": 146759,
-      "word": "女子为博眼球扮孕妇征婚被拘",
-      "onboard_time": 1704946596,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146382,
@@ -1025,14 +1097,6 @@
       "onboard_time": 1704941732,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119136,
-      "num": 119136,
-      "word": "东北的文旅局长们超级听劝",
-      "onboard_time": 1704946895,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115938,
@@ -1339,12 +1403,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34433,
+      "num": 1183654,
+      "word": "歼20首飞成功13年了",
+      "onboard_time": 1704931348,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23419,
       "num": 317681,
       "word": "尔滨和尔佳到底是什么关系",
       "onboard_time": 1704944132,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21188,
+      "num": 189460,
+      "word": "游戏圈最燃国漫新番",
+      "onboard_time": 1704947316,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 18889,
+      "num": 387665,
+      "word": "二十届中央纪委三次全会公报",
+      "onboard_time": 1704947136,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16895,
@@ -1369,6 +1457,9 @@
     },
     {
       "word": "#习近平同马尔代夫总统会谈#"
+    },
+    {
+      "word": "#习近平举行仪式欢迎马尔代夫总统访华#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1704947772461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9283878,
+        "num": 9283878,
+        "word": "贾玲减了100斤",
+        "onboard_time": 1704939148,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1629419,
+        "num": 1629419,
+        "word": "近视眼从800度降到100度的过程",
+        "onboard_time": 1704933933,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34433,
+        "num": 1183654,
+        "word": "歼20首飞成功13年了",
+        "onboard_time": 1704931348,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1075362,
+        "num": 1075362,
+        "word": "热辣滚烫阵容",
+        "onboard_time": 1704940831,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 718904,
+        "num": 718904,
+        "word": "8岁男孩喜提152平婚房和三层小洋房",
+        "onboard_time": 1704943652,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617179,
+        "num": 617179,
+        "word": "肯德基 今天安排吗",
+        "onboard_time": 1704946353,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 553950,
+        "num": 553950,
+        "word": "陈建斌劝架 哞两声得了",
+        "onboard_time": 1704945754,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461439,
+        "num": 461439,
+        "word": "00后网文作家被曝年入百万",
+        "onboard_time": 1704935909,
+        "rank": 7,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 445300,
+        "num": 445300,
+        "word": "电影开场后也能退票了",
+        "onboard_time": 1704944132,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288518,
+        "num": 445040,
+        "word": "警方通报浙江一家四口驾车坠河",
+        "onboard_time": 1704938967,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3608746,
+        "num": 442732,
+        "word": "贾玲声音都变了",
+        "onboard_time": 1704940831,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 647905,
+        "num": 440685,
+        "word": "周生如故",
+        "onboard_time": 1704944132,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584590,
+        "num": 439209,
+        "word": "堂本刚结婚",
+        "onboard_time": 1704947254,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437666,
+        "num": 437666,
+        "word": "25岁姑娘体检发现结节无症状确诊肺癌",
+        "onboard_time": 1704901291,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 388558,
+        "num": 388558,
+        "word": "微博之夜",
+        "onboard_time": 1704946772,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18889,
+        "num": 387665,
+        "word": "二十届中央纪委三次全会公报",
+        "onboard_time": 1704947136,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 386918,
+        "num": 386918,
+        "word": "尔滨 压力给到了西安",
+        "onboard_time": 1704941913,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 350479,
+        "num": 350479,
+        "word": "不出道就得回清华读研",
+        "onboard_time": 1704947077,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348369,
+        "num": 348369,
+        "word": "19岁的游本昌",
+        "onboard_time": 1704931649,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255483,
+        "num": 345016,
+        "word": "女子为博眼球扮孕妇征婚被拘",
+        "onboard_time": 1704946596,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709112,
+        "num": 344776,
+        "word": "妹妹上班三年存了30万",
+        "onboard_time": 1704943110,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344406,
+        "num": 344406,
+        "word": "堂本刚 百田夏菜子",
+        "onboard_time": 1704947376,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319910,
+        "num": 319910,
+        "word": "AppStore入驻微博",
+        "onboard_time": 1704945396,
+        "rank": 22,
+        "category": "数码,游戏"
+      },
+      {
+        "raw_hot": 313189,
+        "num": 313189,
+        "word": "肖战中国电视剧年度盛典官宣",
+        "onboard_time": 1704944792,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301066,
+        "num": 301066,
+        "word": "俩95后宝妈离婚后搭伙过日子",
+        "onboard_time": 1704929606,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297572,
+        "num": 297572,
+        "word": "热辣滚烫 中国版百元之恋",
+        "onboard_time": 1704946052,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284704,
+        "num": 284704,
+        "word": "尔滨推出小碗蒜蓉血肠",
+        "onboard_time": 1704943230,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 246924,
+        "num": 284100,
+        "word": "深圳一房子评估价600万降到200多万",
+        "onboard_time": 1704938609,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203718,
+        "num": 282709,
+        "word": "警方通报男子抱怨地铁里农民工太多",
+        "onboard_time": 1704935849,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134737,
+        "num": 281978,
+        "word": "女孩认领遗失手机亮出的壁纸让人感动",
+        "onboard_time": 1704934951,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402082,
+        "num": 280377,
+        "word": "微博之夜嘉宾emoji",
+        "onboard_time": 1704947254,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288234,
+        "num": 279462,
+        "word": "猫咪和男友竟然互扇了起来",
+        "onboard_time": 1704947618,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201861,
+        "num": 277341,
+        "word": "无面男孩18岁洗掉脸上纹身",
+        "onboard_time": 1704931348,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277143,
+        "num": 277143,
+        "word": "2024春节档已官宣5部电影",
+        "onboard_time": 1704947316,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205603,
+        "num": 276667,
+        "word": "东北的文旅局长们超级听劝",
+        "onboard_time": 1704946895,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276658,
+        "num": 276658,
+        "word": "李楷灿室内抽烟",
+        "onboard_time": 1704943413,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262074,
+        "num": 262074,
+        "word": "韩后老板靠468元起家",
+        "onboard_time": 1704943829,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 227592,
+        "num": 227592,
+        "word": "霸王茶姬回应外卖按杯收取包装费",
+        "onboard_time": 1704933631,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206292,
+        "num": 206292,
+        "word": "减肥哪有不疯的",
+        "onboard_time": 1704946293,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192262,
+        "num": 192262,
+        "word": "新中式 左压右扣",
+        "onboard_time": 1704943953,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 21188,
+        "num": 189460,
+        "word": "游戏圈最燃国漫新番",
+        "onboard_time": 1704947316,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188571,
+        "num": 188571,
+        "word": "王凯扫楼",
+        "onboard_time": 1704945631,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183010,
+        "num": 183010,
+        "word": "猫猫喜欢被打屁股",
+        "onboard_time": 1704945272,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174697,
+        "num": 174697,
+        "word": "暗恋的人成了闪闪发光的大明星",
+        "onboard_time": 1704947738,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169463,
+        "num": 169463,
+        "word": "种地吧 行李牌",
+        "onboard_time": 1704947674,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169134,
+        "num": 169134,
+        "word": "电影白蛇浮生定档",
+        "onboard_time": 1704939688,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164125,
+        "num": 164125,
+        "word": "春节档",
+        "onboard_time": 1704942811,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151743,
+        "num": 151743,
+        "word": "胡歌 微博之夜开屏",
+        "onboard_time": 1704935551,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133861,
+        "num": 151558,
+        "word": "比特币",
+        "onboard_time": 1704938487,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151383,
+        "num": 151383,
+        "word": "19层定档",
+        "onboard_time": 1704943110,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎马尔代夫总统访华#"
+    }
+  }
+}
