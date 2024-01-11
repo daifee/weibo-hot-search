@@ -1,0 +1,410 @@
+{
+  "runTime": 1705015101870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 505303,
+        "num": 505303,
+        "word": "农妇卖150份粉蒸肉被判赔5万撤销原判",
+        "onboard_time": 1704988288,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473139,
+        "num": 473139,
+        "word": "医生谈贾玲整容式暴瘦",
+        "onboard_time": 1704968250,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18825,
+        "num": 449206,
+        "word": "关于全面推进美丽中国建设的意见",
+        "onboard_time": 1704974850,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448174,
+        "num": 448174,
+        "word": "95后女孩用700天逆袭成普通人",
+        "onboard_time": 1704986610,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383739,
+        "num": 383739,
+        "word": "俞敏洪用董宇辉完成了去董化",
+        "onboard_time": 1704982772,
+        "rank": 4,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 358061,
+        "num": 358061,
+        "word": "第一次见男主把女主吊起来哄睡",
+        "onboard_time": 1704988048,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276700,
+        "num": 276700,
+        "word": "李铁签字的安全笔安全在哪",
+        "onboard_time": 1704984754,
+        "rank": 6,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 259665,
+        "num": 259665,
+        "word": "A股再现天价离婚女方分走40亿",
+        "onboard_time": 1704983551,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 252663,
+        "num": 252663,
+        "word": "日本上空现神秘发光环状云",
+        "onboard_time": 1704984513,
+        "rank": 8,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 206102,
+        "num": 206102,
+        "word": "全球第一大癌症为何盯上年轻人",
+        "onboard_time": 1704962249,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 392885,
+        "num": 201280,
+        "word": "贾玲健身教练发声",
+        "onboard_time": 1704968910,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368350,
+        "num": 198893,
+        "word": "女性尿漏或预示着未来残疾风险更高",
+        "onboard_time": 1705014319,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194552,
+        "num": 194552,
+        "word": "原来玲子和宝总的杯子有那么多讲究",
+        "onboard_time": 1704982652,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169773,
+        "num": 169773,
+        "word": "网友和鹿晗当队友的又一天",
+        "onboard_time": 1705014259,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147355,
+        "num": 147355,
+        "word": "男生火车上放电影车厢秒变影院现场",
+        "onboard_time": 1704988228,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125628,
+        "num": 125628,
+        "word": "梨形身材是最健康身材",
+        "onboard_time": 1704973470,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118787,
+        "num": 118787,
+        "word": "尔滨中央大街鸽子被游客喂成鸽猪",
+        "onboard_time": 1704968429,
+        "rank": 16,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 113723,
+        "num": 113723,
+        "word": "当你在睡觉领导给你打电话",
+        "onboard_time": 1705013236,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111364,
+        "num": 111364,
+        "word": "新郎新娘大喜日子挨个给朋友把脉",
+        "onboard_time": 1704990565,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106220,
+        "num": 106220,
+        "word": "樊振东11比1",
+        "onboard_time": 1704989305,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103048,
+        "num": 103048,
+        "word": "体脂率才是最诚实的胖瘦指标",
+        "onboard_time": 1705014199,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100782,
+        "num": 100782,
+        "word": "9岁男孩失联6天在排水涵洞被找到",
+        "onboard_time": 1704972511,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90423,
+        "num": 90423,
+        "word": "龙年茅台价格腰斩",
+        "onboard_time": 1704984813,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88641,
+        "num": 88641,
+        "word": "饿上16个小时真的能减肥吗",
+        "onboard_time": 1704999495,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 86344,
+        "num": 86344,
+        "word": "辛芷蕾回应李李出家",
+        "onboard_time": 1704973230,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85445,
+        "num": 85445,
+        "word": "赵丽颖第二十条",
+        "onboard_time": 1704984153,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83363,
+        "num": 83363,
+        "word": "孕妇遭猥亵殴打案一审男友发声",
+        "onboard_time": 1705004173,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79263,
+        "num": 79263,
+        "word": "香港演员尹子维吃到东北杀猪菜了",
+        "onboard_time": 1704983733,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72752,
+        "num": 72752,
+        "word": "我们失去了半个贾玲",
+        "onboard_time": 1704973590,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67932,
+        "num": 67932,
+        "word": "同事的朋友圈都是仅三天可见",
+        "onboard_time": 1704978212,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238304,
+        "num": 67331,
+        "word": "母亲以死逼婚儿子结婚半年闪离",
+        "onboard_time": 1704964531,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146901,
+        "num": 66994,
+        "word": "女子称与男网友住酒店遭强奸",
+        "onboard_time": 1704972271,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97694,
+        "num": 66161,
+        "word": "腾讯游戏全部断开",
+        "onboard_time": 1705014861,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83707,
+        "num": 65504,
+        "word": "怪不得菩提老祖喜欢悟空",
+        "onboard_time": 1705013599,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64899,
+        "num": 64899,
+        "word": "成毅狐妖王权篇雪中路透",
+        "onboard_time": 1704983672,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62761,
+        "num": 62761,
+        "word": "孕妇遭男子殴打致耳聋胎儿被迫流产",
+        "onboard_time": 1704980314,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57433,
+        "num": 57433,
+        "word": "人社局回应郑云龙入职人艺",
+        "onboard_time": 1704977791,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56382,
+        "num": 56382,
+        "word": "陆沉缄声之约倒计时",
+        "onboard_time": 1705014259,
+        "rank": 37,
+        "category": "动漫,游戏"
+      },
+      {
+        "raw_hot": 55703,
+        "num": 55703,
+        "word": "刘亦菲戴面纱",
+        "onboard_time": 1704975210,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 55046,
+        "num": 55046,
+        "word": "肖战直播",
+        "onboard_time": 1704980610,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52547,
+        "num": 52547,
+        "word": "网友上海街头偶遇海恩贤圭",
+        "onboard_time": 1704996797,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49810,
+        "num": 49810,
+        "word": "王楚钦3比0安宰贤",
+        "onboard_time": 1705015042,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49526,
+        "num": 49526,
+        "word": "伊朗海军扣押一艘美国油轮",
+        "onboard_time": 1704983192,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 50378,
+        "num": 49383,
+        "word": "刘亦菲NBA观赛",
+        "onboard_time": 1704987690,
+        "rank": 43,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 48382,
+        "num": 48382,
+        "word": "王楚钦孙颖莎3比0张禹珍田志希",
+        "onboard_time": 1704989305,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44547,
+        "num": 44547,
+        "word": "红色怎么搭不显土气",
+        "onboard_time": 1704994220,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 44322,
+        "num": 44322,
+        "word": "2024近双鱼者发",
+        "onboard_time": 1704983316,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43756,
+        "num": 43756,
+        "word": "papi酱 永远不知道同事到底叫什么",
+        "onboard_time": 1704972571,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43006,
+        "num": 43006,
+        "word": "多部门提示大师赛等属违规黑竞赛",
+        "onboard_time": 1705011434,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 42754,
+        "num": 42754,
+        "word": "浙江一男子肺部发现557个结节",
+        "onboard_time": 1704966930,
+        "rank": 49,
+        "category": "健康医疗,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎马尔代夫总统访华#"
+    }
+  }
+}
