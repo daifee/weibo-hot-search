@@ -1,0 +1,410 @@
+{
+  "runTime": 1704994436498,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 465111,
+        "num": 465111,
+        "word": "第一次见男主把女主吊起来哄睡",
+        "onboard_time": 1704988048,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382542,
+        "num": 382542,
+        "word": "医生谈贾玲整容式暴瘦",
+        "onboard_time": 1704968250,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25537,
+        "num": 312632,
+        "word": "中国汽车产销量创历史新高",
+        "onboard_time": 1704980610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275384,
+        "num": 275384,
+        "word": "农妇卖150份粉蒸肉被判赔5万撤销原判",
+        "onboard_time": 1704988288,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218899,
+        "num": 218899,
+        "word": "梨形身材是最健康身材",
+        "onboard_time": 1704973470,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218789,
+        "num": 218789,
+        "word": "95后女孩用700天逆袭成普通人",
+        "onboard_time": 1704986610,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180911,
+        "num": 180911,
+        "word": "俞敏洪用董宇辉完成了去董化",
+        "onboard_time": 1704982772,
+        "rank": 6,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 179301,
+        "num": 179301,
+        "word": "全球第一大癌症为何盯上年轻人",
+        "onboard_time": 1704962249,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148177,
+        "num": 148177,
+        "word": "A股再现天价离婚女方分走40亿",
+        "onboard_time": 1704983551,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 130959,
+        "num": 130959,
+        "word": "李铁签字的安全笔安全在哪",
+        "onboard_time": 1704984754,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 287384,
+        "num": 129620,
+        "word": "贾玲健身教练发声",
+        "onboard_time": 1704968910,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123383,
+        "num": 123383,
+        "word": "赵丽颖第二十条",
+        "onboard_time": 1704984153,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106646,
+        "num": 106646,
+        "word": "9岁男孩失联6天在排水涵洞被找到",
+        "onboard_time": 1704972511,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101728,
+        "num": 101728,
+        "word": "章若楠酒窝",
+        "onboard_time": 1704990924,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99216,
+        "num": 99216,
+        "word": "樊振东11比1",
+        "onboard_time": 1704989305,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90319,
+        "num": 90319,
+        "word": "papi酱 永远不知道同事到底叫什么",
+        "onboard_time": 1704972571,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 80993,
+        "num": 80993,
+        "word": "王楚钦孙颖莎3比0张禹珍田志希",
+        "onboard_time": 1704989305,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74959,
+        "num": 74959,
+        "word": "刘亦菲戴面纱",
+        "onboard_time": 1704975210,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 62301,
+        "num": 73233,
+        "word": "成毅狐妖王权篇雪中路透",
+        "onboard_time": 1704983672,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61218,
+        "num": 72663,
+        "word": "麦穗 十个勤天",
+        "onboard_time": 1704981090,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85521,
+        "num": 72588,
+        "word": "孕妇遭男子殴打致耳聋胎儿被迫流产",
+        "onboard_time": 1704980314,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72202,
+        "num": 72202,
+        "word": "我们的翻译官 大型雄竞现场",
+        "onboard_time": 1704990744,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65447,
+        "num": 65447,
+        "word": "刘亦菲NBA观赛",
+        "onboard_time": 1704987690,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 63076,
+        "num": 63076,
+        "word": "日本上空现神秘发光环状云",
+        "onboard_time": 1704984513,
+        "rank": 23,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 59117,
+        "num": 59117,
+        "word": "男生火车上放电影车厢秒变影院现场",
+        "onboard_time": 1704988228,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55352,
+        "num": 55352,
+        "word": "我们失去了半个贾玲",
+        "onboard_time": 1704973590,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54861,
+        "num": 54861,
+        "word": "黄觉联系上白敬亭了",
+        "onboard_time": 1704981877,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50863,
+        "num": 50863,
+        "word": "enhypen演唱会",
+        "onboard_time": 1704985354,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50829,
+        "num": 50829,
+        "word": "王菲 超前",
+        "onboard_time": 1704982652,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49709,
+        "num": 49709,
+        "word": "同事的朋友圈都是仅三天可见",
+        "onboard_time": 1704978212,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124015,
+        "num": 49550,
+        "word": "女子称与男网友住酒店遭强奸",
+        "onboard_time": 1704972271,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118740,
+        "num": 49531,
+        "word": "母亲以死逼婚儿子结婚半年闪离",
+        "onboard_time": 1704964531,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50732,
+        "num": 49464,
+        "word": "人社局回应郑云龙入职人艺",
+        "onboard_time": 1704977791,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49367,
+        "num": 49367,
+        "word": "YG官网删除BLACKPINK个人介绍页面",
+        "onboard_time": 1704969331,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47934,
+        "num": 47934,
+        "word": "尔滨中央大街鸽子被游客喂成鸽猪",
+        "onboard_time": 1704968429,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 47489,
+        "num": 47489,
+        "word": "新郎新娘大喜日子挨个给朋友把脉",
+        "onboard_time": 1704990565,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45428,
+        "num": 45428,
+        "word": "2024近双鱼者发",
+        "onboard_time": 1704983316,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44946,
+        "num": 44946,
+        "word": "香港演员尹子维吃到东北杀猪菜了",
+        "onboard_time": 1704983733,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42765,
+        "num": 42765,
+        "word": "肖战直播",
+        "onboard_time": 1704980610,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41467,
+        "num": 41467,
+        "word": "特斯拉全美工厂工人涨薪",
+        "onboard_time": 1704987569,
+        "rank": 39,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 41094,
+        "num": 41094,
+        "word": "打工人快要吃不起麦当劳了",
+        "onboard_time": 1704981572,
+        "rank": 40,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 37483,
+        "num": 37483,
+        "word": "浙江一男子肺部发现557个结节",
+        "onboard_time": 1704966930,
+        "rank": 41,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 37233,
+        "num": 37233,
+        "word": "龙年茅台价格腰斩",
+        "onboard_time": 1704984813,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 35964,
+        "num": 35964,
+        "word": "刘耀文第二十条",
+        "onboard_time": 1704976351,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35647,
+        "num": 35647,
+        "word": "红色怎么搭不显土气",
+        "onboard_time": 1704994220,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 35341,
+        "num": 35341,
+        "word": "种地吧",
+        "onboard_time": 1704979473,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35283,
+        "num": 35283,
+        "word": "花楼姚瑶官宣",
+        "onboard_time": 1704973412,
+        "rank": 46,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 33958,
+        "num": 33958,
+        "word": "伊朗海军扣押一艘美国油轮",
+        "onboard_time": 1704983192,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 31721,
+        "num": 31721,
+        "word": "迪丽热巴今年或将无缝进组",
+        "onboard_time": 1704969750,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29069,
+        "num": 29069,
+        "word": "阚清子打卡哈尔滨",
+        "onboard_time": 1704983014,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#领导干部要树立正确的权力观政绩观事业观#"
+    }
+  }
+}

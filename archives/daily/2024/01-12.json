@@ -1,6 +1,6 @@
 {
   "startTime": 1704990232348,
-  "endTime": 1704993368045,
+  "endTime": 1704994436498,
   "band_list": [
     {
       "raw_hot": 984479,
@@ -91,19 +91,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 275384,
+      "num": 275384,
+      "word": "农妇卖150份粉蒸肉被判赔5万撤销原判",
+      "onboard_time": 1704988288,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274126,
       "num": 108776,
       "word": "女子称与男网友住酒店遭强奸",
       "onboard_time": 1704972271,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266832,
-      "num": 226567,
-      "word": "农妇卖150份粉蒸肉被判赔5万撤销原判",
-      "onboard_time": 1704988288,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -433,6 +433,22 @@
       "onboard_time": 1704983014,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35647,
+      "num": 35647,
+      "word": "红色怎么搭不显土气",
+      "onboard_time": 1704994220,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 35341,
+      "num": 35341,
+      "word": "种地吧",
+      "onboard_time": 1704979473,
+      "rank": 45,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
