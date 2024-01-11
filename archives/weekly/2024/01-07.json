@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704943143953,
+  "endTime": 1704944062502,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3878047,
-      "num": 284494,
+      "num": 299721,
       "word": "贾玲声音都变了",
       "onboard_time": 1704940831,
       "rank": 21,
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1350606,
+      "num": 1350606,
+      "word": "热辣滚烫阵容",
+      "onboard_time": 1704940831,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1350463,
       "num": 1350463,
       "word": "湛江中学老师坠楼系刑事案件",
@@ -633,14 +641,6 @@
       "onboard_time": 1704758673,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1181083,
-      "num": 1181083,
-      "word": "热辣滚烫阵容",
-      "onboard_time": 1704940831,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 1166315,
@@ -1563,6 +1563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 725096,
+      "num": 229415,
+      "word": "妹妹上班三年存了30万",
+      "onboard_time": 1704943110,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 724178,
       "num": 724178,
       "word": "23岁男子长期高盐饮食血压成极高危型",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1704536431,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 604095,
-      "num": 209388,
-      "word": "妹妹上班三年存了30万",
-      "onboard_time": 1704943110,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 600705,
@@ -3323,6 +3323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 430618,
+      "num": 430618,
+      "word": "尔滨 压力给到了西安",
+      "onboard_time": 1704941913,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 430545,
       "num": 430545,
       "word": "司法机关破解苹果AirDrop",
@@ -3611,14 +3619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 395426,
-      "num": 284436,
-      "word": "尔滨 压力给到了西安",
-      "onboard_time": 1704941913,
-      "rank": 11,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 395163,
       "num": 395163,
       "word": "四川省考 数量全靠蒙",
@@ -3705,6 +3705,14 @@
       "onboard_time": 1704675812,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 385509,
+      "num": 385509,
+      "word": "警方通报浙江一家四口驾车坠河",
+      "onboard_time": 1704938967,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385236,
@@ -3808,14 +3816,6 @@
       "word": "哈尔滨当地人搓澡都戒半个月了",
       "onboard_time": 1704601472,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370013,
-      "num": 370013,
-      "word": "警方通报浙江一家四口驾车坠河",
-      "onboard_time": 1704938967,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -4113,6 +4113,14 @@
       "onboard_time": 1704623191,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327574,
+      "num": 327574,
+      "word": "春节档",
+      "onboard_time": 1704942811,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 326539,
@@ -4755,6 +4763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274377,
+      "num": 274377,
+      "word": "李楷灿室内抽烟",
+      "onboard_time": 1704943413,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273256,
       "num": 273256,
       "word": "唐嫣过去的三年都是汪小姐",
@@ -4923,6 +4939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261437,
+      "num": 261437,
+      "word": "8岁男孩喜提152平婚房和三层小洋房",
+      "onboard_time": 1704943652,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261290,
       "num": 261290,
       "word": "刘宇宁喊你来丹东",
@@ -4937,6 +4961,14 @@
       "onboard_time": 1704617370,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260222,
+      "num": 260222,
+      "word": "韩后老板靠468元起家",
+      "onboard_time": 1704943829,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 260027,
@@ -5491,6 +5523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230294,
+      "num": 230294,
+      "word": "19层定档",
+      "onboard_time": 1704943110,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229973,
       "num": 229973,
       "word": "达达股价暴跌超45%",
@@ -5529,6 +5569,14 @@
       "onboard_time": 1704777571,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 228111,
+      "num": 228111,
+      "word": "尔滨推出小碗蒜蓉血肠",
+      "onboard_time": 1704943230,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 228013,
@@ -6025,14 +6073,6 @@
       "onboard_time": 1704861936,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 208190,
-      "num": 208190,
-      "word": "春节档",
-      "onboard_time": 1704942811,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 208160,
@@ -9459,6 +9499,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 135226,
+      "num": 135226,
+      "word": "鹈鹕vs勇士",
+      "onboard_time": 1704941311,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135037,
       "num": 135037,
       "word": "巴黎奥运会倒计时200天",
@@ -10779,14 +10827,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 108931,
-      "num": 108931,
-      "word": "19层定档",
-      "onboard_time": 1704943110,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108928,
       "num": 108928,
       "word": "抱一丝了狄哥 这把选李白",
@@ -10892,7 +10932,7 @@
     },
     {
       "raw_hot": 105939,
-      "num": 1194892,
+      "num": 1357821,
       "word": "这或许是对110最走心的定义",
       "onboard_time": 1704896854,
       "rank": 2,
@@ -11153,6 +11193,14 @@
       "onboard_time": 1704685230,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99824,
+      "num": 99824,
+      "word": "新中式 左压右扣",
+      "onboard_time": 1704943953,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 99346,

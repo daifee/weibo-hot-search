@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704943143953,
+  "endTime": 1704944062502,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3878047,
-      "num": 284494,
+      "num": 299721,
       "word": "贾玲声音都变了",
       "onboard_time": 1704940831,
       "rank": 21,
@@ -43,6 +43,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1350606,
+      "num": 1350606,
+      "word": "热辣滚烫阵容",
+      "onboard_time": 1704940831,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1246402,
       "num": 894630,
       "word": "俩95后宝妈离婚后搭伙过日子",
@@ -57,14 +65,6 @@
       "onboard_time": 1704931649,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1181083,
-      "num": 1181083,
-      "word": "热辣滚烫阵容",
-      "onboard_time": 1704940831,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 992257,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 725096,
+      "num": 229415,
+      "word": "妹妹上班三年存了30万",
+      "onboard_time": 1704943110,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 699650,
       "num": 699650,
       "word": "配货140多万没买到心仪爱马仕包",
@@ -121,14 +129,6 @@
       "onboard_time": 1704931830,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 604095,
-      "num": 209388,
-      "word": "妹妹上班三年存了30万",
-      "onboard_time": 1704943110,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 592479,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430618,
+      "num": 430618,
+      "word": "尔滨 压力给到了西安",
+      "onboard_time": 1704941913,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 419108,
       "num": 419108,
       "word": "程前发博致歉",
@@ -203,16 +211,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 395426,
-      "num": 284436,
-      "word": "尔滨 压力给到了西安",
-      "onboard_time": 1704941913,
-      "rank": 11,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 370013,
-      "num": 370013,
+      "raw_hot": 385509,
+      "num": 385509,
       "word": "警方通报浙江一家四口驾车坠河",
       "onboard_time": 1704938967,
       "rank": 15,
@@ -273,6 +273,14 @@
       "onboard_time": 1704932551,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327574,
+      "num": 327574,
+      "word": "春节档",
+      "onboard_time": 1704942811,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 323852,
@@ -363,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274377,
+      "num": 274377,
+      "word": "李楷灿室内抽烟",
+      "onboard_time": 1704943413,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271330,
       "num": 271330,
       "word": "爱泼斯坦案最后一批解密文件发布",
@@ -377,6 +393,22 @@
       "onboard_time": 1704900333,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261437,
+      "num": 261437,
+      "word": "8岁男孩喜提152平婚房和三层小洋房",
+      "onboard_time": 1704943652,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260222,
+      "num": 260222,
+      "word": "韩后老板靠468元起家",
+      "onboard_time": 1704943829,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 255501,
@@ -401,6 +433,22 @@
       "onboard_time": 1704885754,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230294,
+      "num": 230294,
+      "word": "19层定档",
+      "onboard_time": 1704943110,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 228111,
+      "num": 228111,
+      "word": "尔滨推出小碗蒜蓉血肠",
+      "onboard_time": 1704943230,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 219823,
@@ -433,14 +481,6 @@
       "onboard_time": 1704929062,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 208190,
-      "num": 208190,
-      "word": "春节档",
-      "onboard_time": 1704942811,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 196205,
@@ -691,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135226,
+      "num": 135226,
+      "word": "鹈鹕vs勇士",
+      "onboard_time": 1704941311,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132411,
       "num": 132411,
       "word": "王家卫公司已注册百枚繁花相关商标",
@@ -859,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108931,
-      "num": 108931,
-      "word": "19层定档",
-      "onboard_time": 1704943110,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105346,
       "num": 105346,
       "word": "老人突发心梗她跪地急救抢回一命",
@@ -889,6 +929,14 @@
       "onboard_time": 1704899557,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99824,
+      "num": 99824,
+      "word": "新中式 左压右扣",
+      "onboard_time": 1704943953,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 99346,
@@ -988,7 +1036,7 @@
     },
     {
       "raw_hot": 78904,
-      "num": 1194892,
+      "num": 1357821,
       "word": "这或许是对110最走心的定义",
       "onboard_time": 1704896854,
       "rank": 2,
