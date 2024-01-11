@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/11 20:49:45
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/11 21:21:23
 </p>
 </blockquote>
 <p>
@@ -1557,6 +1557,12 @@ A先生李李恋情（热度：1095743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%9A%E5%88%9A%E5%87%BA%E7%94%9F12%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%9A%84%E9%95%BF%E9%A2%88%E9%B9%BF%E5%AE%9D%E5%AE%9D%23" target="weibo">
+刚刚出生12个小时的长颈鹿宝宝（热度：1084655）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%80%80%E8%B7%9F%E7%A8%8B%E9%9B%A8%E6%9D%89%E5%9C%A8%E4%B8%80%E8%B5%B7%E4%BA%86%23" target="weibo">
 沈耀跟程雨杉在一起了（热度：1079558）
 </a>
@@ -1805,12 +1811,6 @@ D社 该上班了（热度：998672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%86%B3%E5%AE%9A%E5%88%B6%E8%A3%815%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%86%9B%E5%B7%A5%E4%BC%81%E4%B8%9A%23" target="weibo">
 中方决定制裁5家美国军工企业（热度：990600）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone%E4%BB%8E4000%E5%A4%9A%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%9D%A0%E8%90%BD%E4%BB%8D%E5%8F%AF%E4%BD%BF%E7%94%A8%23" target="weibo">
-iPhone从4000多米高空坠落仍可使用（热度：987136）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704977385455,
+  "endTime": 1704979283489,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -131,8 +131,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1084655,
+      "num": 1084655,
+      "word": "刚刚出生12个小时的长颈鹿宝宝",
+      "onboard_time": 1704974009,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 997014,
-      "num": 397400,
+      "num": 403395,
       "word": "女子称与男网友住酒店遭强奸",
       "onboard_time": 1704972271,
       "rank": 30,
@@ -219,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 806614,
-      "num": 806614,
-      "word": "刚刚出生12个小时的长颈鹿宝宝",
-      "onboard_time": 1704974009,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 806340,
       "num": 806340,
       "word": "父母双亡独生女在哪过年",
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 725457,
-      "num": 363799,
+      "num": 402925,
       "word": "肖战小香风外套",
       "onboard_time": 1704976111,
       "rank": 13,
@@ -337,6 +337,14 @@
       "onboard_time": 1704895655,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 696964,
+      "num": 696964,
+      "word": "人社局回应郑云龙入职人艺",
+      "onboard_time": 1704977791,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 676519,
@@ -1291,12 +1299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209364,
+      "num": 209364,
+      "word": "张云雷演唱会嘉宾毛不易",
+      "onboard_time": 1704978631,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208004,
       "num": 174351,
       "word": "AOA徐酉奈结婚",
       "onboard_time": 1704948452,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207635,
+      "num": 207635,
+      "word": "阿姨打破了对她来说天价的餐具",
+      "onboard_time": 1704977851,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 206292,
@@ -1603,6 +1627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172654,
+      "num": 172654,
+      "word": "肺结节4毫米以上才需要关注",
+      "onboard_time": 1704977729,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 171793,
       "num": 171793,
       "word": "去散散你的班味",
@@ -1705,6 +1737,14 @@
       "onboard_time": 1704899316,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163345,
+      "num": 163345,
+      "word": "同事的朋友圈都是仅三天可见",
+      "onboard_time": 1704978212,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 162565,
@@ -1923,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143346,
+      "num": 143346,
+      "word": "第二十条",
+      "onboard_time": 1704978991,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143335,
       "num": 143335,
       "word": "花了45美元买的网红棉花糖蛋糕",
@@ -1969,6 +2017,14 @@
       "onboard_time": 1704957930,
       "rank": 38,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 139387,
+      "num": 139387,
+      "word": "周鸿祎再谈程前事件",
+      "onboard_time": 1704977372,
+      "rank": 47,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 138654,
@@ -2147,6 +2203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127164,
+      "num": 127164,
+      "word": "从小到大没有过什么惊喜",
+      "onboard_time": 1704977310,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126795,
       "num": 307059,
       "word": "尔滨向你传送2024旅行攻略",
@@ -2185,14 +2249,6 @@
       "onboard_time": 1704893734,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124091,
-      "num": 124091,
-      "word": "从小到大没有过什么惊喜",
-      "onboard_time": 1704977310,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 123236,
@@ -2347,6 +2403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 111059,
+      "num": 111059,
+      "word": "离职后成了前领导的甲方",
+      "onboard_time": 1704978631,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109763,
       "num": 109763,
       "word": "男子就餐后辅导陌生小孩作业两小时",
@@ -2465,14 +2529,6 @@
       "onboard_time": 1704903865,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 90804,
-      "num": 90804,
-      "word": "周鸿祎再谈程前事件",
-      "onboard_time": 1704977372,
-      "rank": 47,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 90731,
@@ -2699,6 +2755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48987,
+      "num": 356641,
+      "word": "荣耀Magic6",
+      "onboard_time": 1704978030,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46271,
       "num": 350962,
       "word": "嗑到苏有朋的糖了",
@@ -2729,6 +2793,14 @@
       "onboard_time": 1704947316,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 31344,
+      "num": 145719,
+      "word": "尔滨必备手机",
+      "onboard_time": 1704978753,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 27976,
