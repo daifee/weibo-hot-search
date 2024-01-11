@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1704961380242,
+  "endTime": 1704962174870,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1563,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1222340,
+      "num": 373608,
+      "word": "贾玲最瘦的时候96斤",
+      "onboard_time": 1704962069,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1217437,
       "num": 1217437,
       "word": "从CCTV5到CCTV1",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704530132,
       "rank": 5,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 979067,
-      "num": 979067,
-      "word": "刘宇宁直播没被认出的原因",
-      "onboard_time": 1704719851,
-      "rank": 28,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

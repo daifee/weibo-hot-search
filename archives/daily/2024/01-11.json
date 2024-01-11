@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704961380242,
+  "endTime": 1704962174870,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -81,6 +81,14 @@
       "onboard_time": 1704929606,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1222340,
+      "num": 373608,
+      "word": "贾玲最瘦的时候96斤",
+      "onboard_time": 1704962069,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1186591,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739443,
+      "num": 739443,
+      "word": "小杨哥徒弟小黄回应近期改变",
+      "onboard_time": 1704959369,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 726969,
       "num": 726969,
       "word": "为啥网上的药比实体药店更便宜",
@@ -217,14 +233,6 @@
       "onboard_time": 1704931830,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 639385,
-      "num": 407611,
-      "word": "小杨哥徒弟小黄回应近期改变",
-      "onboard_time": 1704959369,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 626795,
@@ -281,6 +289,14 @@
       "onboard_time": 1704935133,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 568310,
+      "num": 568310,
+      "word": "联合国直升机遭劫持1死2失踪",
+      "onboard_time": 1704960569,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 567584,
@@ -371,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446401,
+      "num": 446401,
+      "word": "这种癌很容易漏诊误诊",
+      "onboard_time": 1704955826,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 439268,
       "num": 439268,
       "word": "海关查货7具走私狼尸",
@@ -427,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 386646,
-      "num": 386646,
-      "word": "联合国直升机遭劫持1死2失踪",
-      "onboard_time": 1704960569,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 385509,
       "num": 445040,
       "word": "警方通报浙江一家四口驾车坠河",
@@ -459,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364996,
+      "num": 289738,
+      "word": "为什么高学历也挣不到钱了",
+      "onboard_time": 1704956787,
+      "rank": 34,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 364851,
       "num": 281978,
       "word": "女孩认领遗失手机亮出的壁纸让人感动",
@@ -467,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363341,
-      "num": 289738,
-      "word": "为什么高学历也挣不到钱了",
-      "onboard_time": 1704956787,
-      "rank": 34,
-      "category": "社会议题"
+      "raw_hot": 363072,
+      "num": 363072,
+      "word": "海关查获7具走私狼尸",
+      "onboard_time": 1704960209,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361097,
@@ -497,14 +521,6 @@
       "onboard_time": 1704948394,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 345367,
-      "num": 324319,
-      "word": "这种癌很容易漏诊误诊",
-      "onboard_time": 1704955826,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 345275,
@@ -803,8 +819,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244987,
-      "num": 244987,
+      "raw_hot": 245878,
+      "num": 245878,
       "word": "辛芷蕾融不进去就算了吧",
       "onboard_time": 1704959908,
       "rank": 24,
@@ -923,8 +939,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199496,
+      "num": 199496,
+      "word": "王嘉尔北京演唱会",
+      "onboard_time": 1704961349,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199237,
-      "num": 199237,
+      "num": 834811,
       "word": "我国在海上发射一箭三星",
       "onboard_time": 1704953491,
       "rank": 27,
@@ -1267,6 +1291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 156853,
+      "num": 156853,
+      "word": "尔滨整新活之冻梨被榨成汁了",
+      "onboard_time": 1704961227,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 156643,
       "num": 156643,
       "word": "马龙王楚钦3比1法尔克卡尔森",
@@ -1323,6 +1355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 144906,
+      "num": 144906,
+      "word": "赵露思冬日草莓妆",
+      "onboard_time": 1704959730,
+      "rank": 39,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 143630,
       "num": 143630,
       "word": "一进腊月就是年",
@@ -1345,14 +1385,6 @@
       "onboard_time": 1704949234,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140281,
-      "num": 140281,
-      "word": "赵露思冬日草莓妆",
-      "onboard_time": 1704959730,
-      "rank": 39,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 139449,
@@ -1579,20 +1611,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118691,
-      "num": 118691,
-      "word": "尔滨整新活之冻梨被榨成汁了",
-      "onboard_time": 1704961227,
-      "rank": 48,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 118396,
       "num": 118396,
       "word": "大学生德华",
       "onboard_time": 1704954209,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117497,
+      "num": 117497,
+      "word": "男子手指被鳄龟咬住痛哭一个多小时",
+      "onboard_time": 1704961949,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115938,
@@ -1635,12 +1667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106845,
-      "num": 106845,
-      "word": "王嘉尔北京演唱会",
-      "onboard_time": 1704961349,
-      "rank": 49,
-      "category": "演出"
+      "raw_hot": 109270,
+      "num": 109270,
+      "word": "原来孙悟空是抽烟的",
+      "onboard_time": 1704962129,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 105346,
@@ -1859,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58136,
+      "num": 200077,
+      "word": "18万买到迈巴赫座舱",
+      "onboard_time": 1704960089,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57729,
       "num": 111052,
       "word": "2023CCMA获奖名单",
@@ -1905,14 +1945,6 @@
       "onboard_time": 1704921973,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 46980,
-      "num": 198309,
-      "word": "18万买到迈巴赫座舱",
-      "onboard_time": 1704960089,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 46271,
