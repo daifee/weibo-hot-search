@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/07 00:21:26 ~ 2024/01/12 06:17:05
+本榜单时间：2024/01/07 00:21:26 ~ 2024/01/12 06:34:26
 </p>
 </blockquote>
 <p>
@@ -10407,6 +10407,12 @@ FindX7价格秒了（热度：57585）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E9%81%AD%E7%8C%A5%E4%BA%B5%E6%AE%B4%E6%89%93%E6%A1%88%E4%B8%80%E5%AE%A1%E7%94%B7%E5%8F%8B%E5%8F%91%E5%A3%B0%23" target="weibo">
+孕妇遭猥亵殴打案一审男友发声（热度：52925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AAX%E5%A6%82%E4%BD%95%E6%8B%BF%E6%8D%8F%E9%AB%98%E9%A2%9C%E5%80%BC%E8%A3%85%E5%A4%87%E6%8E%A7%23" target="weibo">
 极氪X如何拿捏高颜值装备控（热度：52587）
 </a>
@@ -10427,6 +10433,12 @@ FindX7价格秒了（热度：57585）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E6%A2%A6%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%99%BE%E5%A4%A7up%E4%B8%BB%23" target="weibo">
 元梦的第一个百大up主（热度：51908）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%B0%8F%E5%AD%A9%E5%90%8E%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%81%9A%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9E%AC%E9%97%B4%23" target="weibo">
+有小孩后第一次做自己的瞬间（热度：50800）
 </a>
 </li>
 
@@ -10497,12 +10509,6 @@ daddy开车好飒（热度：49827）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E9%81%AD%E7%8C%A5%E4%BA%B5%E6%AE%B4%E6%89%93%E6%A1%88%E4%B8%80%E5%AE%A1%E7%94%B7%E5%8F%8B%E5%8F%91%E5%A3%B0%23" target="weibo">
-孕妇遭猥亵殴打案一审男友发声（热度：44055）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23FindX7%E5%8D%B7%E7%BF%BB%E5%90%8C%E8%A1%8CPro%E7%89%88%23" target="weibo">
 FindX7卷翻同行Pro版（热度：43606）
 </a>
@@ -10521,14 +10527,14 @@ FindX7卷翻同行Pro版（热度：43606）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%AF%B9%E5%A5%B3%E5%84%BF%E8%AF%B4%E4%BD%A0%E8%87%AA%E5%B7%B1%E5%96%9C%E6%AC%A2%E5%BE%88%E9%87%8D%E8%A6%81%23" target="weibo">
-爸爸对女儿说你自己喜欢很重要（热度：41063）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A5%BF%E4%B8%8A16%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%9C%9F%E7%9A%84%E8%83%BD%E5%87%8F%E8%82%A5%E5%90%97%23" target="weibo">
+饿上16个小时真的能减肥吗（热度：41746）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%B0%8F%E5%AD%A9%E5%90%8E%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%81%9A%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9E%AC%E9%97%B4%23" target="weibo">
-有小孩后第一次做自己的瞬间（热度：40624）
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%AF%B9%E5%A5%B3%E5%84%BF%E8%AF%B4%E4%BD%A0%E8%87%AA%E5%B7%B1%E5%96%9C%E6%AC%A2%E5%BE%88%E9%87%8D%E8%A6%81%23" target="weibo">
+爸爸对女儿说你自己喜欢很重要（热度：41063）
 </a>
 </li>
 
@@ -10583,12 +10589,6 @@ MK明星派对好多人啊（热度：36007）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E6%88%90%E8%BF%998%E4%B8%AA%E4%B9%A0%E6%83%AF%E6%88%96%E9%99%8D%E4%BD%8E%E6%82%A3%E7%99%8C%E9%A3%8E%E9%99%A9%23" target="weibo">
 养成这8个习惯或降低患癌风险（热度：34352）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A5%BF%E4%B8%8A16%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%9C%9F%E7%9A%84%E8%83%BD%E5%87%8F%E8%82%A5%E5%90%97%23" target="weibo">
-饿上16个小时真的能减肥吗（热度：33895）
 </a>
 </li>
 
@@ -10725,6 +10725,12 @@ MK明星派对好多人啊（热度：36007）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E9%83%A8%E9%97%A8%E6%8F%90%E7%A4%BA%E5%A4%A7%E5%B8%88%E8%B5%9B%E7%AD%89%E5%B1%9E%E8%BF%9D%E8%A7%84%E9%BB%91%E7%AB%9E%E8%B5%9B%23" target="weibo">
+多部门提示大师赛等属违规黑竞赛（热度：16817）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BE%B2%E6%89%BF%E6%BC%AB%E7%94%BB%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%23" target="weibo">
 李羲承漫画照进现实（热度：16659）
 </a>
@@ -10733,6 +10739,12 @@ MK明星派对好多人啊（热度：36007）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%8F%8D%E6%B4%BE%E6%A2%85%E8%90%8D%E6%98%AF%E7%8E%8B%E8%8F%8A%E6%BC%94%E7%9A%84%23" target="weibo">
 繁花反派梅萍是王菊演的（热度：16451）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%81%9A%E5%AE%A2%E8%91%A3%E5%AE%87%E8%BE%89%E7%9B%B4%E6%92%AD%E9%97%B4%23" target="weibo">
+周鸿祎做客董宇辉直播间（热度：16272）
 </a>
 </li>
 
@@ -10761,12 +10773,6 @@ MK明星派对好多人啊（热度：36007）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%81%9A%E5%AE%A2%E8%91%A3%E5%AE%87%E8%BE%89%E7%9B%B4%E6%92%AD%E9%97%B4%23" target="weibo">
-周鸿祎做客董宇辉直播间（热度：14294）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%98%E6%89%8B%E6%89%8B%E7%9A%84%E5%B0%8F%E7%8C%AB%E5%A4%AA%E5%8F%AF%E7%88%B1%E4%BA%86%23" target="weibo">
 烘手手的小猫太可爱了（热度：14035）
 </a>
@@ -10779,20 +10785,26 @@ MK明星派对好多人啊（热度：36007）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD12%E6%9C%88CPI%E8%B6%85%E9%A2%84%E6%9C%9F%23" target="weibo">
+美国12月CPI超预期（热度：13301）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E8%AD%A6%E5%8F%8A%E6%97%B6%E5%8A%9D%E9%98%BB%E5%B8%AE2%E5%A5%B3%E5%AD%90%E4%BF%9D%E4%BD%8F30%E4%B8%87%23" target="weibo">
+95后女警及时劝阻帮2女子保住30万（热度：12978）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%9B%9E%E5%BA%94%E9%9F%B3%E4%B9%90%E6%9A%B4%E5%90%9B%23" target="weibo">
 华晨宇回应音乐暴君（热度：12940）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD12%E6%9C%88CPI%E8%B6%85%E9%A2%84%E6%9C%9F%23" target="weibo">
-美国12月CPI超预期（热度：11364）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%BF%9B%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E7%9A%84%E6%84%8F%E8%A7%81%23" target="weibo">
-关于全面推进美丽中国建设的意见（热度：11297）
+关于全面推进美丽中国建设的意见（热度：11779）
 </a>
 </li>
 
