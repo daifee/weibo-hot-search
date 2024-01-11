@@ -1,0 +1,410 @@
+{
+  "runTime": 1704940300126,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8093172,
+        "num": 8093172,
+        "word": "贾玲减了100斤",
+        "onboard_time": 1704939148,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1918192,
+        "num": 1918192,
+        "word": "近视眼从800度降到100度的过程",
+        "onboard_time": 1704933933,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53622,
+        "num": 1152416,
+        "word": "这或许是对110最走心的定义",
+        "onboard_time": 1704896854,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838049,
+        "num": 838049,
+        "word": "00后网文作家被曝年入百万",
+        "onboard_time": 1704935909,
+        "rank": 3,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 622318,
+        "num": 622318,
+        "word": "25岁姑娘体检发现结节无症状确诊肺癌",
+        "onboard_time": 1704901291,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 529826,
+        "num": 529826,
+        "word": "俩95后宝妈离婚后搭伙过日子",
+        "onboard_time": 1704929606,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527556,
+        "num": 527556,
+        "word": "19岁的游本昌",
+        "onboard_time": 1704931649,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513345,
+        "num": 513345,
+        "word": "霸王茶姬回应外卖按杯收取包装费",
+        "onboard_time": 1704933631,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 446468,
+        "num": 446468,
+        "word": "警方通报男子抱怨地铁里农民工太多",
+        "onboard_time": 1704935849,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433009,
+        "num": 433009,
+        "word": "晚上在家试了把王家卫镜头",
+        "onboard_time": 1704935133,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2185050,
+        "num": 422463,
+        "word": "贾玲发文",
+        "onboard_time": 1704939148,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 399382,
+        "num": 399382,
+        "word": "16岁女生讨要抚养费被亲戚打流产",
+        "onboard_time": 1704929424,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360030,
+        "num": 360030,
+        "word": "比特币",
+        "onboard_time": 1704938487,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 355315,
+        "num": 355315,
+        "word": "电影热辣滚烫定档",
+        "onboard_time": 1704939448,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311081,
+        "num": 311081,
+        "word": "深圳一房子评估价600万降到200多万",
+        "onboard_time": 1704938609,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304616,
+        "num": 304616,
+        "word": "警方通报浙江一家四口驾车坠河",
+        "onboard_time": 1704938967,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271330,
+        "num": 271330,
+        "word": "爱泼斯坦案最后一批解密文件发布",
+        "onboard_time": 1704938189,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262719,
+        "num": 262719,
+        "word": "电影白蛇浮生定档",
+        "onboard_time": 1704939688,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261809,
+        "num": 261809,
+        "word": "胡歌 微博之夜开屏",
+        "onboard_time": 1704935551,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245453,
+        "num": 245453,
+        "word": "水哥 我初中三年饱受校园暴力",
+        "onboard_time": 1704931830,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248383,
+        "num": 245053,
+        "word": "无面男孩18岁洗掉脸上纹身",
+        "onboard_time": 1704931348,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244185,
+        "num": 244185,
+        "word": "女孩认领遗失手机亮出的壁纸让人感动",
+        "onboard_time": 1704934951,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232784,
+        "num": 232784,
+        "word": "田亮叶一茜一家四口全家福",
+        "onboard_time": 1704939569,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229988,
+        "num": 229988,
+        "word": "女生发现妹妹的书桌藏着一幅山水画",
+        "onboard_time": 1704931649,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229485,
+        "num": 229485,
+        "word": "何猷君觉得父亲最帅的照片",
+        "onboard_time": 1704929424,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227273,
+        "num": 227273,
+        "word": "飞机上拒绝了想换座的情侣",
+        "onboard_time": 1704901830,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184957,
+        "num": 184957,
+        "word": "为啥网上的药比实体药店更便宜",
+        "onboard_time": 1704910936,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179794,
+        "num": 179794,
+        "word": "花儿与少年",
+        "onboard_time": 1704937588,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175642,
+        "num": 175642,
+        "word": "原生家庭真能决定你的人生吗",
+        "onboard_time": 1704937468,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161819,
+        "num": 161819,
+        "word": "权志龙或将举行演唱会",
+        "onboard_time": 1704937349,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160659,
+        "num": 160659,
+        "word": "宋运辉梁思申 心动的信号",
+        "onboard_time": 1704932190,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158245,
+        "num": 158245,
+        "word": "青萝卜皮 偏头痛",
+        "onboard_time": 1704936389,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148116,
+        "num": 148116,
+        "word": "我们的翻译官 公孔雀开屏",
+        "onboard_time": 1704939387,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147587,
+        "num": 147587,
+        "word": "47岁男子没要到3000元生活费纵火烧家",
+        "onboard_time": 1704918552,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141865,
+        "num": 141865,
+        "word": "上影花5亿买基地支持繁花拍摄",
+        "onboard_time": 1704899254,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136157,
+        "num": 136157,
+        "word": "晚婚已成为普遍现象",
+        "onboard_time": 1704895655,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135803,
+        "num": 135803,
+        "word": "年轻人的三大脆皮症状",
+        "onboard_time": 1704939326,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133455,
+        "num": 133455,
+        "word": "被萌兰33码小jiojio呼脸上了",
+        "onboard_time": 1704900333,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131998,
+        "num": 131998,
+        "word": "英雄联盟2024CG",
+        "onboard_time": 1704938247,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130371,
+        "num": 130371,
+        "word": "小砂糖橘宝贝回家啦",
+        "onboard_time": 1704936389,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128642,
+        "num": 128642,
+        "word": "cos李相夷逛漫展",
+        "onboard_time": 1704937049,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 126897,
+        "num": 126897,
+        "word": "王安宇的手到底有多臭",
+        "onboard_time": 1704899316,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125575,
+        "num": 125575,
+        "word": "辛芷蕾金色吊带",
+        "onboard_time": 1704890192,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122956,
+        "num": 122956,
+        "word": "比特币现货ETF上市",
+        "onboard_time": 1704938487,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111754,
+        "num": 111754,
+        "word": "周鸿祎回应程前道歉",
+        "onboard_time": 1704928762,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109542,
+        "num": 109542,
+        "word": "多家乳企回应袋装牛奶带吸管",
+        "onboard_time": 1704936509,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105998,
+        "num": 105998,
+        "word": "70%的人都经历过下巴掉了",
+        "onboard_time": 1704935073,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98078,
+        "num": 98078,
+        "word": "王心凌终于从台北唱到了东北",
+        "onboard_time": 1704897158,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92149,
+        "num": 92149,
+        "word": "山东上演2024版完璧归赵",
+        "onboard_time": 1704939028,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90731,
+        "num": 90731,
+        "word": "护林员守山42年自学成博士生老师",
+        "onboard_time": 1704937947,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马尔代夫总统会谈#"
+    }
+  }
+}
