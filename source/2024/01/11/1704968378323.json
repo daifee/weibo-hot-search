@@ -1,0 +1,410 @@
+{
+  "runTime": 1704968378323,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2419215,
+        "num": 2419215,
+        "word": "医生谈贾玲整容式暴瘦",
+        "onboard_time": 1704968250,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 483549,
+        "num": 1269100,
+        "word": "尔滨咖啡里藏了砂糖橘笑脸",
+        "onboard_time": 1704967470,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88293,
+        "num": 952817,
+        "word": "2025亚冬会吉祥物滨滨和妮妮",
+        "onboard_time": 1704962426,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746168,
+        "num": 746168,
+        "word": "淄博文旅局副局长谈哈尔滨出圈",
+        "onboard_time": 1704962969,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 209686,
+        "num": 725104,
+        "word": "男子偷500余件金饰警方6小时破案",
+        "onboard_time": 1704966628,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718921,
+        "num": 718921,
+        "word": "原来孙悟空是抽烟的",
+        "onboard_time": 1704962129,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181391,
+        "num": 648588,
+        "word": "杭州村民众筹1.2亿造大别墅",
+        "onboard_time": 1704967830,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641905,
+        "num": 641905,
+        "word": "京东物流001号员工退休",
+        "onboard_time": 1704957389,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 443733,
+        "num": 443733,
+        "word": "男子手指被鳄龟咬住痛哭一个多小时",
+        "onboard_time": 1704961949,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362616,
+        "num": 362616,
+        "word": "这种癌很容易漏诊误诊",
+        "onboard_time": 1704955826,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1518800,
+        "num": 361872,
+        "word": "贾玲体脂",
+        "onboard_time": 1704963809,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358423,
+        "num": 358423,
+        "word": "日本震区灾民怒斥救援物资是垃圾",
+        "onboard_time": 1704966869,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356162,
+        "num": 356162,
+        "word": "易烊千玺北京",
+        "onboard_time": 1704964048,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351141,
+        "num": 351141,
+        "word": "女子买硬座非坐卧铺乘务员劝阻被骂",
+        "onboard_time": 1704964709,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17400,
+        "num": 315511,
+        "word": "原神亚洲赛开赛",
+        "onboard_time": 1704967230,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 313484,
+        "num": 313484,
+        "word": "张馨予买了老人的气球",
+        "onboard_time": 1704966391,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302820,
+        "num": 302820,
+        "word": "董宇辉回应企业家组团找自己学网红经济",
+        "onboard_time": 1704963209,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 282958,
+        "num": 282958,
+        "word": "宋爷爷发文准备告别福宝",
+        "onboard_time": 1704954750,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282329,
+        "num": 282329,
+        "word": "官方回应上海59公里车收费420元",
+        "onboard_time": 1704965371,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276152,
+        "num": 276152,
+        "word": "郑云龙入职北京人艺",
+        "onboard_time": 1704966151,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1123550,
+        "num": 274990,
+        "word": "母亲以死逼婚儿子结婚半年闪离",
+        "onboard_time": 1704964531,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279127,
+        "num": 272908,
+        "word": "父母双亡独生女在哪过年",
+        "onboard_time": 1704966569,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276269,
+        "num": 269523,
+        "word": "全球第一大癌症为何盯上年轻人",
+        "onboard_time": 1704962249,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263768,
+        "num": 263768,
+        "word": "白敬亭繁花剧组同框",
+        "onboard_time": 1704963331,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 261532,
+        "num": 261532,
+        "word": "阿富汗6.4级地震",
+        "onboard_time": 1704967710,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256525,
+        "num": 256525,
+        "word": "浙江一男子肺部发现557个结节",
+        "onboard_time": 1704966930,
+        "rank": 25,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 227261,
+        "num": 227261,
+        "word": "IU染粉发",
+        "onboard_time": 1704949174,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206286,
+        "num": 206286,
+        "word": "海关查获7具走私狼尸",
+        "onboard_time": 1704960209,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202803,
+        "num": 202803,
+        "word": "铁路部门优化车票改签规则",
+        "onboard_time": 1704967531,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197772,
+        "num": 197772,
+        "word": "肖战去微博之夜",
+        "onboard_time": 1704954809,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173668,
+        "num": 173668,
+        "word": "穿裤子和低跟鞋的空乘人员",
+        "onboard_time": 1704964231,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167244,
+        "num": 167244,
+        "word": "猫猫我呀今天也吃到席了",
+        "onboard_time": 1704966509,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152337,
+        "num": 152337,
+        "word": "河南一检察官多次家暴妻子",
+        "onboard_time": 1704968011,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151175,
+        "num": 151175,
+        "word": "不出道就得回清华读研",
+        "onboard_time": 1704947077,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147524,
+        "num": 147524,
+        "word": "为什么高学历也挣不到钱了",
+        "onboard_time": 1704956787,
+        "rank": 34,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 147223,
+        "num": 147223,
+        "word": "不用去后悔为什么当时走这条路",
+        "onboard_time": 1704965670,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260762,
+        "num": 145765,
+        "word": "周翊然高定",
+        "onboard_time": 1704962609,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141666,
+        "num": 141666,
+        "word": "男子住酒店发现名字被印得到处都是",
+        "onboard_time": 1704956787,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140341,
+        "num": 140341,
+        "word": "法学教授称李铁或被判10年以上",
+        "onboard_time": 1704967650,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 139837,
+        "num": 139837,
+        "word": "妹妹上班三年存了30万",
+        "onboard_time": 1704943110,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135436,
+        "num": 135436,
+        "word": "微博之夜嘉宾emoji",
+        "onboard_time": 1704947254,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135251,
+        "num": 135251,
+        "word": "2名间谍落网现场曝光",
+        "onboard_time": 1704956489,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134962,
+        "num": 134962,
+        "word": "首例AI生成图片侵权案原告胜诉",
+        "onboard_time": 1704967111,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130429,
+        "num": 130429,
+        "word": "老师想要捞人时就一定能捞到",
+        "onboard_time": 1704965610,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129703,
+        "num": 129703,
+        "word": "尔滨冰王座登场",
+        "onboard_time": 1704966628,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 125370,
+        "num": 125370,
+        "word": "微博之夜",
+        "onboard_time": 1704946772,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125017,
+        "num": 125017,
+        "word": "迪丽热巴官宣微博之夜",
+        "onboard_time": 1704951570,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122841,
+        "num": 122841,
+        "word": "儿子的语文成绩是如何逆袭的",
+        "onboard_time": 1704965010,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117237,
+        "num": 117237,
+        "word": "双方都在已读乱回",
+        "onboard_time": 1704962969,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115828,
+        "num": 115828,
+        "word": "极挑男人帮新综艺月底录制",
+        "onboard_time": 1704963988,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#领导干部要树立正确的权力观政绩观事业观#"
+    }
+  }
+}
