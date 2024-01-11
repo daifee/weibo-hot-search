@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704971729271,
+  "endTime": 1704972846027,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -371,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 583494,
+      "num": 998972,
+      "word": "尔滨中央大街鸽子被游客喂成鸽猪",
+      "onboard_time": 1704968429,
+      "rank": 6,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 568310,
       "num": 568310,
       "word": "联合国直升机遭劫持1死2失踪",
@@ -451,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 517652,
-      "num": 998972,
-      "word": "尔滨中央大街鸽子被游客喂成鸽猪",
-      "onboard_time": 1704968429,
-      "rank": 6,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 508432,
       "num": 508432,
       "word": "程前事件",
@@ -473,6 +473,14 @@
       "onboard_time": 1704968371,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479791,
+      "num": 479791,
+      "word": "浙江一男子肺部发现557个结节",
+      "onboard_time": 1704966930,
+      "rank": 25,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 474184,
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427402,
+      "num": 427402,
+      "word": "迪丽热巴今年或将无缝进组",
+      "onboard_time": 1704969750,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422553,
       "num": 422553,
       "word": "女子买硬座非坐卧铺乘务员劝阻被骂",
@@ -609,14 +625,6 @@
       "onboard_time": 1704935551,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 397422,
-      "num": 324243,
-      "word": "迪丽热巴今年或将无缝进组",
-      "onboard_time": 1704969750,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 388460,
@@ -771,6 +779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 322315,
+      "num": 322315,
+      "word": "王楚钦孙颖莎3比0黄镇廷杜凯琹",
+      "onboard_time": 1704970229,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320567,
       "num": 320567,
       "word": "尔滨推出小碗蒜蓉血肠",
@@ -841,14 +857,6 @@
       "onboard_time": 1704938609,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306603,
-      "num": 306603,
-      "word": "王楚钦孙颖莎3比0黄镇廷杜凯琹",
-      "onboard_time": 1704970229,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 302820,
@@ -923,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291215,
+      "num": 291215,
+      "word": "官方回应冰马俑是AI合成",
+      "onboard_time": 1704970351,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290724,
       "num": 290724,
       "word": "朱珠这衣服换我穿就是红秋衣",
@@ -963,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280635,
-      "num": 280635,
-      "word": "浙江一男子肺部发现557个结节",
-      "onboard_time": 1704966930,
-      "rank": 25,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 279072,
       "num": 279072,
       "word": "甘肃积石山县3.1级地震",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1704966151,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272551,
-      "num": 272551,
-      "word": "官方回应冰马俑是AI合成",
-      "onboard_time": 1704970351,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271330,
@@ -1067,12 +1067,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251646,
+      "num": 251646,
+      "word": "白荆回廊帅哥成男组",
+      "onboard_time": 1704972210,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251287,
       "num": 173668,
       "word": "穿裤子和低跟鞋的空乘人员",
       "onboard_time": 1704964231,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248096,
+      "num": 248096,
+      "word": "谢娜煮饭给女儿吃会把鱼刺剔出来",
+      "onboard_time": 1704971972,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 247531,
@@ -1089,6 +1105,14 @@
       "onboard_time": 1704959908,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245031,
+      "num": 159348,
+      "word": "女子称与男网友住酒店遭强奸",
+      "onboard_time": 1704972271,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242860,
@@ -1129,6 +1153,14 @@
       "onboard_time": 1704943953,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 220036,
+      "num": 158389,
+      "word": "我妈的女婿可以是输液杆",
+      "onboard_time": 1704972210,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 219823,
@@ -1289,6 +1321,14 @@
       "onboard_time": 1704947856,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196253,
+      "num": 158277,
+      "word": "papi酱 永远不知道同事到底叫什么",
+      "onboard_time": 1704972571,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 196205,
@@ -1547,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165587,
+      "num": 165587,
+      "word": "为什么现在年轻人都喜欢新中式",
+      "onboard_time": 1704971311,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164931,
       "num": 164931,
       "word": "儿媳称拥有世界最好婆婆不接受反驳",
@@ -1771,6 +1819,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 144524,
+      "num": 144524,
+      "word": "9岁男孩失联6天在排水涵洞被找到",
+      "onboard_time": 1704972511,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143630,
       "num": 143630,
       "word": "一进腊月就是年",
@@ -1793,14 +1849,6 @@
       "onboard_time": 1704969452,
       "rank": 35,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 141917,
-      "num": 141917,
-      "word": "为什么现在年轻人都喜欢新中式",
-      "onboard_time": 1704971311,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 140642,
@@ -1857,6 +1905,22 @@
       "onboard_time": 1704934711,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136825,
+      "num": 136825,
+      "word": "海燕到尔滨打卡东北F4雪雕",
+      "onboard_time": 1704972452,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136603,
+      "num": 136603,
+      "word": "缓解鼻部不适的三种方法",
+      "onboard_time": 1704971909,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135659,
@@ -1929,6 +1993,14 @@
       "onboard_time": 1704969692,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131510,
+      "num": 131510,
+      "word": "木讷老妈对抑郁症女儿的安慰",
+      "onboard_time": 1704972210,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 131343,
