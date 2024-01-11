@@ -1,0 +1,410 @@
+{
+  "runTime": 1704980040656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1795756,
+        "num": 1795756,
+        "word": "医生谈贾玲整容式暴瘦",
+        "onboard_time": 1704968250,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1084673,
+        "num": 1084673,
+        "word": "刚刚出生12个小时的长颈鹿宝宝",
+        "onboard_time": 1704974009,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33046,
+        "num": 900719,
+        "word": "我国在海上发射一箭三星",
+        "onboard_time": 1704953491,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 889576,
+        "num": 889576,
+        "word": "人社局回应郑云龙入职人艺",
+        "onboard_time": 1704977791,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667967,
+        "num": 667967,
+        "word": "刘亦菲戴面纱",
+        "onboard_time": 1704975210,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 662583,
+        "num": 662583,
+        "word": "papi酱 永远不知道同事到底叫什么",
+        "onboard_time": 1704972571,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 439601,
+        "num": 439601,
+        "word": "花楼姚瑶官宣",
+        "onboard_time": 1704973412,
+        "rank": 6,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 426375,
+        "num": 426375,
+        "word": "浙江一男子肺部发现557个结节",
+        "onboard_time": 1704966930,
+        "rank": 7,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 413577,
+        "num": 413577,
+        "word": "9岁男孩失联6天在排水涵洞被找到",
+        "onboard_time": 1704972511,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327098,
+        "num": 327098,
+        "word": "杭州村民众筹1.2亿造大别墅",
+        "onboard_time": 1704967830,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1253996,
+        "num": 326173,
+        "word": "贾玲健身教练发声",
+        "onboard_time": 1704968910,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 864006,
+        "num": 323387,
+        "word": "女子称与男网友住酒店遭强奸",
+        "onboard_time": 1704972271,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425334,
+        "num": 320620,
+        "word": "我们失去了半个贾玲",
+        "onboard_time": 1704973590,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 561726,
+        "num": 320229,
+        "word": "肖战小香风外套",
+        "onboard_time": 1704976111,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29628,
+        "num": 316259,
+        "word": "荣耀Magic6",
+        "onboard_time": 1704978030,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 354949,
+        "num": 314566,
+        "word": "原来孙悟空是抽烟的",
+        "onboard_time": 1704962129,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313556,
+        "num": 313556,
+        "word": "马龙王楚钦3比0冯耀恩郭勇",
+        "onboard_time": 1704979292,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303740,
+        "num": 303740,
+        "word": "尔滨中央大街鸽子被游客喂成鸽猪",
+        "onboard_time": 1704968429,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 272410,
+        "num": 272410,
+        "word": "张云雷演唱会嘉宾毛不易",
+        "onboard_time": 1704978631,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170595,
+        "num": 259249,
+        "word": "厦门一公司发生闪爆事件致3死3伤",
+        "onboard_time": 1704968669,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45056,
+        "num": 258914,
+        "word": "尔滨必备手机",
+        "onboard_time": 1704978753,
+        "rank": 20,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 690677,
+        "num": 258808,
+        "word": "母亲以死逼婚儿子结婚半年闪离",
+        "onboard_time": 1704964531,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258700,
+        "num": 258700,
+        "word": "梨形身材是最健康身材",
+        "onboard_time": 1704973470,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 257096,
+        "num": 257096,
+        "word": "迪丽热巴今年或将无缝进组",
+        "onboard_time": 1704969750,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229793,
+        "num": 229793,
+        "word": "荣耀保时捷",
+        "onboard_time": 1704979771,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 214540,
+        "num": 214540,
+        "word": "阿姨打破了对她来说天价的餐具",
+        "onboard_time": 1704977851,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210032,
+        "num": 210032,
+        "word": "第二十条",
+        "onboard_time": 1704978991,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204945,
+        "num": 204945,
+        "word": "离职后成了前领导的甲方",
+        "onboard_time": 1704978631,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133938,
+        "num": 201588,
+        "word": "官方回应冰马俑是AI合成",
+        "onboard_time": 1704970351,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130107,
+        "num": 201420,
+        "word": "日本震区灾民怒斥救援物资是垃圾",
+        "onboard_time": 1704966869,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201294,
+        "num": 201294,
+        "word": "每天做三十次会改变身体的腹部训练",
+        "onboard_time": 1704975812,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 189788,
+        "num": 189788,
+        "word": "同事的朋友圈都是仅三天可见",
+        "onboard_time": 1704978212,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185987,
+        "num": 185987,
+        "word": "肺结节4毫米以上才需要关注",
+        "onboard_time": 1704977729,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177255,
+        "num": 177255,
+        "word": "YG官网删除BLACKPINK个人介绍页面",
+        "onboard_time": 1704969331,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173728,
+        "num": 173728,
+        "word": "张凌赫 翘脚牛肉",
+        "onboard_time": 1704969991,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170092,
+        "num": 170092,
+        "word": "种地吧",
+        "onboard_time": 1704979473,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161768,
+        "num": 161768,
+        "word": "父母双亡独生女在哪过年",
+        "onboard_time": 1704966569,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160700,
+        "num": 160700,
+        "word": "刘耀文第二十条",
+        "onboard_time": 1704976351,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133023,
+        "num": 133023,
+        "word": "全球第一大癌症为何盯上年轻人",
+        "onboard_time": 1704962249,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132564,
+        "num": 132564,
+        "word": "地震云",
+        "onboard_time": 1704969811,
+        "rank": 39,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 132343,
+        "num": 132343,
+        "word": "谷圈怎么这么多天才",
+        "onboard_time": 1704979352,
+        "rank": 40,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 130055,
+        "num": 130055,
+        "word": "小猪章鱼",
+        "onboard_time": 1704975812,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 127129,
+        "num": 127129,
+        "word": "我妈的女婿可以是输液杆",
+        "onboard_time": 1704972210,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126458,
+        "num": 126458,
+        "word": "为什么高学历也挣不到钱了",
+        "onboard_time": 1704956787,
+        "rank": 43,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 125646,
+        "num": 125646,
+        "word": "谢娜煮饭给女儿吃会把鱼刺剔出来",
+        "onboard_time": 1704971972,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124275,
+        "num": 124275,
+        "word": "混血萌娃说不喜欢被叫外国人",
+        "onboard_time": 1704979531,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98210,
+        "num": 123613,
+        "word": "河南一检察官多次家暴妻子",
+        "onboard_time": 1704968011,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125561,
+        "num": 123441,
+        "word": "周鸿祎再谈程前事件",
+        "onboard_time": 1704977372,
+        "rank": 47,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 123040,
+        "num": 123040,
+        "word": "易烊千玺北京",
+        "onboard_time": 1704964048,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45701,
+        "num": 122197,
+        "word": "荣耀首发1.8亿像素潜望长焦",
+        "onboard_time": 1704979891,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎马尔代夫总统访华#"
+    }
+  }
+}

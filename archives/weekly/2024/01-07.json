@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704979283489,
+  "endTime": 1704980040656,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -795,8 +795,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1084655,
-      "num": 1084655,
+      "raw_hot": 1084673,
+      "num": 1084673,
       "word": "刚刚出生12个小时的长颈鹿宝宝",
       "onboard_time": 1704974009,
       "rank": 5,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1704929424,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889576,
+      "num": 889576,
+      "word": "人社局回应郑云龙入职人艺",
+      "onboard_time": 1704977791,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 889047,
@@ -1889,14 +1897,6 @@
       "onboard_time": 1704808233,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 696964,
-      "num": 696964,
-      "word": "人社局回应郑云龙入职人艺",
-      "onboard_time": 1704977791,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 695589,
@@ -4931,6 +4931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313556,
+      "num": 313556,
+      "word": "马龙王楚钦3比0冯耀恩郭勇",
+      "onboard_time": 1704979292,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313485,
       "num": 291013,
       "word": "马伊琍辛芷蕾黄觉内场同框",
@@ -5497,6 +5505,14 @@
       "onboard_time": 1704746474,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272410,
+      "num": 272410,
+      "word": "张云雷演唱会嘉宾毛不易",
+      "onboard_time": 1704978631,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 272288,
@@ -6323,6 +6339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 229793,
+      "num": 229793,
+      "word": "荣耀保时捷",
+      "onboard_time": 1704979771,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 229538,
       "num": 229538,
       "word": "东北小伙雕1.8米雪龙被当成吉祥物",
@@ -6723,6 +6747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214540,
+      "num": 214540,
+      "word": "阿姨打破了对她来说天价的餐具",
+      "onboard_time": 1704977851,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214387,
       "num": 214387,
       "word": "我迟到 有时是因为这样坐了很久",
@@ -6835,6 +6867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 210032,
+      "num": 210032,
+      "word": "第二十条",
+      "onboard_time": 1704978991,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209986,
       "num": 209986,
       "word": "起诉张雪峰博主称感觉受到言语霸凌",
@@ -6865,14 +6905,6 @@
       "onboard_time": 1704778295,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209364,
-      "num": 209364,
-      "word": "张云雷演唱会嘉宾毛不易",
-      "onboard_time": 1704978631,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 209125,
@@ -6937,14 +6969,6 @@
       "onboard_time": 1704595650,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207635,
-      "num": 207635,
-      "word": "阿姨打破了对她来说天价的餐具",
-      "onboard_time": 1704977851,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 207340,
@@ -7097,6 +7121,14 @@
       "onboard_time": 1704705868,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 204945,
+      "num": 204945,
+      "word": "离职后成了前领导的甲方",
+      "onboard_time": 1704978631,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 204510,
@@ -7428,7 +7460,7 @@
     },
     {
       "raw_hot": 199237,
-      "num": 834811,
+      "num": 900719,
       "word": "我国在海上发射一箭三星",
       "onboard_time": 1704953491,
       "rank": 27,
@@ -7907,6 +7939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189788,
+      "num": 189788,
+      "word": "同事的朋友圈都是仅三天可见",
+      "onboard_time": 1704978212,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189644,
       "num": 189644,
       "word": "超3400只个股上涨",
@@ -8081,6 +8121,14 @@
       "onboard_time": 1704954330,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 185987,
+      "num": 185987,
+      "word": "肺结节4毫米以上才需要关注",
+      "onboard_time": 1704977729,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 185961,
@@ -8771,14 +8819,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 172654,
-      "num": 172654,
-      "word": "肺结节4毫米以上才需要关注",
-      "onboard_time": 1704977729,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 172243,
       "num": 172243,
       "word": "宋茜陈星旭 东北的翻译官",
@@ -8889,6 +8929,14 @@
       "onboard_time": 1704729628,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170092,
+      "num": 170092,
+      "word": "种地吧",
+      "onboard_time": 1704979473,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 169960,
@@ -9281,14 +9329,6 @@
       "onboard_time": 1704607708,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163345,
-      "num": 163345,
-      "word": "同事的朋友圈都是仅三天可见",
-      "onboard_time": 1704978212,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 163217,
@@ -10403,14 +10443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143346,
-      "num": 143346,
-      "word": "第二十条",
-      "onboard_time": 1704978991,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 143335,
       "num": 143335,
       "word": "花了45美元买的网红棉花糖蛋糕",
@@ -11017,6 +11049,14 @@
       "onboard_time": 1704903087,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132343,
+      "num": 132343,
+      "word": "谷圈怎么这么多天才",
+      "onboard_time": 1704979352,
+      "rank": 40,
+      "category": "休闲"
     },
     {
       "raw_hot": 132168,
@@ -11632,6 +11672,14 @@
       "word": "两只小羊带领小学生晨跑",
       "onboard_time": 1704778052,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124275,
+      "num": 124275,
+      "word": "混血萌娃说不喜欢被叫外国人",
+      "onboard_time": 1704979531,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -12257,14 +12305,6 @@
       "onboard_time": 1704624389,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111059,
-      "num": 111059,
-      "word": "离职后成了前领导的甲方",
-      "onboard_time": 1704978631,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 110474,
@@ -13539,12 +13579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45701,
+      "num": 122197,
+      "word": "荣耀首发1.8亿像素潜望长焦",
+      "onboard_time": 1704979891,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 45293,
       "num": 45293,
       "word": "95后南昌舰女兵说我怕打仗不用我",
       "onboard_time": 1704668540,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 45056,
+      "num": 258914,
+      "word": "尔滨必备手机",
+      "onboard_time": 1704978753,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 43606,
@@ -13673,14 +13729,6 @@
       "onboard_time": 1704690394,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 31344,
-      "num": 145719,
-      "word": "尔滨必备手机",
-      "onboard_time": 1704978753,
-      "rank": 36,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 30553,
