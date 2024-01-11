@@ -1,0 +1,410 @@
+{
+  "runTime": 1704954219744,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3146603,
+        "num": 3146603,
+        "word": "贾玲减了100斤",
+        "onboard_time": 1704939148,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1407157,
+        "num": 1407157,
+        "word": "迪丽热巴官宣微博之夜",
+        "onboard_time": 1704951570,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42459,
+        "num": 906541,
+        "word": "歼20首飞成功13年了",
+        "onboard_time": 1704931348,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 905971,
+        "num": 905971,
+        "word": "近视眼从800度降到100度的过程",
+        "onboard_time": 1704933933,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 854321,
+        "num": 854321,
+        "word": "联合国一飞机被劫持",
+        "onboard_time": 1704951092,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 692855,
+        "num": 692855,
+        "word": "IU染粉发",
+        "onboard_time": 1704949174,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 657170,
+        "num": 657170,
+        "word": "不出道就得回清华读研",
+        "onboard_time": 1704947077,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 554840,
+        "num": 554840,
+        "word": "热辣滚烫阵容",
+        "onboard_time": 1704940831,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 518286,
+        "num": 518286,
+        "word": "俩女生把旅游照拍成IE浏览器",
+        "onboard_time": 1704952229,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 428129,
+        "num": 428129,
+        "word": "8岁男孩喜提152平婚房和三层小洋房",
+        "onboard_time": 1704943652,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1656691,
+        "num": 410006,
+        "word": "贾玲声音都变了",
+        "onboard_time": 1704940831,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 821372,
+        "num": 406588,
+        "word": "赵正平官宣结婚",
+        "onboard_time": 1704950671,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520303,
+        "num": 404973,
+        "word": "SM娱乐就李楷灿室内吸烟道歉",
+        "onboard_time": 1704953428,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388136,
+        "num": 388136,
+        "word": "25岁姑娘体检发现结节无症状确诊肺癌",
+        "onboard_time": 1704901291,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 370629,
+        "num": 370629,
+        "word": "甲流乙流可以同时感染",
+        "onboard_time": 1704950911,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 443386,
+        "num": 360171,
+        "word": "微博之夜嘉宾emoji",
+        "onboard_time": 1704947254,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 410742,
+        "num": 357589,
+        "word": "微博之夜",
+        "onboard_time": 1704946772,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346409,
+        "num": 346409,
+        "word": "00后网文作家被曝年入百万",
+        "onboard_time": 1704935909,
+        "rank": 17,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 319253,
+        "num": 319253,
+        "word": "第25个GDP万亿城市来了",
+        "onboard_time": 1704948877,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 233369,
+        "num": 312759,
+        "word": "女子为博眼球扮孕妇征婚被拘",
+        "onboard_time": 1704946596,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413556,
+        "num": 312097,
+        "word": "妹妹上班三年存了30万",
+        "onboard_time": 1704943110,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308637,
+        "num": 308637,
+        "word": "汤唯觉得老公比女儿更重要",
+        "onboard_time": 1704949895,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266163,
+        "num": 266163,
+        "word": "办公室同事一天不说话正常吗",
+        "onboard_time": 1704948394,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254020,
+        "num": 254020,
+        "word": "周生如故",
+        "onboard_time": 1704944132,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214413,
+        "num": 214413,
+        "word": "猫咪和男友竟然互扇了起来",
+        "onboard_time": 1704947618,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218064,
+        "num": 209975,
+        "word": "暗恋的人成了闪闪发光的大明星",
+        "onboard_time": 1704947738,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200589,
+        "num": 200589,
+        "word": "杨超越新剧婚礼造型",
+        "onboard_time": 1704953010,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196415,
+        "num": 196415,
+        "word": "我国在海上发射一箭三星",
+        "onboard_time": 1704953491,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192922,
+        "num": 192922,
+        "word": "堂本刚结婚",
+        "onboard_time": 1704947254,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177153,
+        "num": 177153,
+        "word": "程前私董会一年收费59800",
+        "onboard_time": 1704953311,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 264549,
+        "num": 174261,
+        "word": "38.5度不要物理降温的原因",
+        "onboard_time": 1704953370,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171183,
+        "num": 171183,
+        "word": "青春痘疫苗或将面世",
+        "onboard_time": 1704953792,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168818,
+        "num": 168818,
+        "word": "种地吧 行李牌",
+        "onboard_time": 1704947674,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168406,
+        "num": 168406,
+        "word": "每天沉迷看小说的我",
+        "onboard_time": 1704951872,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 164454,
+        "num": 164454,
+        "word": "李楷灿室内抽烟",
+        "onboard_time": 1704943413,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163212,
+        "num": 163212,
+        "word": "2024春节档已官宣5部电影",
+        "onboard_time": 1704947316,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161252,
+        "num": 161252,
+        "word": "快船战胜猛龙",
+        "onboard_time": 1704953670,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151480,
+        "num": 151480,
+        "word": "尔滨推出小碗蒜蓉血肠",
+        "onboard_time": 1704943230,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140563,
+        "num": 140563,
+        "word": "19岁的游本昌",
+        "onboard_time": 1704931649,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139540,
+        "num": 139540,
+        "word": "肖战中国电视剧年度盛典官宣",
+        "onboard_time": 1704944792,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136250,
+        "num": 136250,
+        "word": "AOA徐酉奈结婚",
+        "onboard_time": 1704948452,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135957,
+        "num": 135957,
+        "word": "陈建斌劝架 哞两声得了",
+        "onboard_time": 1704945754,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238630,
+        "num": 133358,
+        "word": "肯德基 今天安排吗",
+        "onboard_time": 1704946353,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129142,
+        "num": 129142,
+        "word": "热辣滚烫 中国版百元之恋",
+        "onboard_time": 1704946052,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126097,
+        "num": 126097,
+        "word": "引力一号",
+        "onboard_time": 1704954090,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122297,
+        "num": 122297,
+        "word": "深圳一房子评估价600万降到200多万",
+        "onboard_time": 1704938609,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118890,
+        "num": 118890,
+        "word": "尔滨 压力给到了西安",
+        "onboard_time": 1704941913,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 118836,
+        "num": 118836,
+        "word": "惠英红微博之夜要继续收割新宝贝",
+        "onboard_time": 1704954151,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114171,
+        "num": 114171,
+        "word": "俩95后宝妈离婚后搭伙过日子",
+        "onboard_time": 1704929606,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111373,
+        "num": 111373,
+        "word": "大学生德华",
+        "onboard_time": 1704954209,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎马尔代夫总统访华#"
+    }
+  }
+}
