@@ -1,0 +1,410 @@
+{
+  "runTime": 1704964694406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2060629,
+        "num": 2060629,
+        "word": "贾玲体脂",
+        "onboard_time": 1704963809,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1058463,
+        "num": 1058463,
+        "word": "京东物流001号员工退休",
+        "onboard_time": 1704957389,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109324,
+        "num": 886346,
+        "word": "2025亚冬会吉祥物滨滨和妮妮",
+        "onboard_time": 1704962426,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788300,
+        "num": 788300,
+        "word": "近视眼从800度降到100度的过程",
+        "onboard_time": 1704933933,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 724938,
+        "num": 724938,
+        "word": "小杨哥徒弟小黄回应近期改变",
+        "onboard_time": 1704959369,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 590542,
+        "num": 590542,
+        "word": "男子手指被鳄龟咬住痛哭一个多小时",
+        "onboard_time": 1704961949,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549868,
+        "num": 549868,
+        "word": "海关查获7具走私狼尸",
+        "onboard_time": 1704960209,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506493,
+        "num": 506493,
+        "word": "宋爷爷发文准备告别福宝",
+        "onboard_time": 1704954750,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465858,
+        "num": 465858,
+        "word": "这种癌很容易漏诊误诊",
+        "onboard_time": 1704955826,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 459513,
+        "num": 459513,
+        "word": "原来孙悟空是抽烟的",
+        "onboard_time": 1704962129,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68819,
+        "num": 448727,
+        "word": "白荆回廊异世穿越画廊",
+        "onboard_time": 1704963271,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1832318,
+        "num": 448644,
+        "word": "贾玲减了100斤",
+        "onboard_time": 1704939148,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 564768,
+        "num": 446232,
+        "word": "周翊然高定",
+        "onboard_time": 1704962609,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 440681,
+        "num": 440681,
+        "word": "淄博文旅局副局长谈哈尔滨出圈",
+        "onboard_time": 1704962969,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 347239,
+        "num": 347239,
+        "word": "2名间谍落网现场曝光",
+        "onboard_time": 1704956489,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334085,
+        "num": 334085,
+        "word": "联合国直升机遭劫持1死2失踪",
+        "onboard_time": 1704960569,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 311114,
+        "num": 311114,
+        "word": "易烊千玺北京",
+        "onboard_time": 1704964048,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304261,
+        "num": 304261,
+        "word": "肖战去微博之夜",
+        "onboard_time": 1704954809,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301162,
+        "num": 301162,
+        "word": "IU染粉发",
+        "onboard_time": 1704949174,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277112,
+        "num": 277112,
+        "word": "梅西卖酒",
+        "onboard_time": 1704957148,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422513,
+        "num": 276367,
+        "word": "全球第一大癌症为何盯上年轻人",
+        "onboard_time": 1704962249,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 269449,
+        "num": 269449,
+        "word": "不出道就得回清华读研",
+        "onboard_time": 1704947077,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239596,
+        "num": 239596,
+        "word": "董宇辉回应企业家组团找自己学网红经济",
+        "onboard_time": 1704963209,
+        "rank": 22,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 239593,
+        "num": 239593,
+        "word": "极挑男人帮新综艺月底录制",
+        "onboard_time": 1704963988,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238652,
+        "num": 238652,
+        "word": "男子住酒店发现名字被印得到处都是",
+        "onboard_time": 1704956787,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225271,
+        "num": 225271,
+        "word": "妹妹上班三年存了30万",
+        "onboard_time": 1704943110,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213068,
+        "num": 213068,
+        "word": "为什么高学历也挣不到钱了",
+        "onboard_time": 1704956787,
+        "rank": 26,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 200858,
+        "num": 200858,
+        "word": "迪丽热巴官宣微博之夜",
+        "onboard_time": 1704951570,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175203,
+        "num": 175203,
+        "word": "25岁姑娘体检发现结节无症状确诊肺癌",
+        "onboard_time": 1704901291,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171028,
+        "num": 171028,
+        "word": "白敬亭繁花剧组同框",
+        "onboard_time": 1704963331,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183399,
+        "num": 167826,
+        "word": "双方都在已读乱回",
+        "onboard_time": 1704962969,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176810,
+        "num": 165749,
+        "word": "穿裤子和低跟鞋的空乘人员",
+        "onboard_time": 1704964231,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179624,
+        "num": 164731,
+        "word": "迪丽热巴近期行程",
+        "onboard_time": 1704963749,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162159,
+        "num": 162159,
+        "word": "青春痘疫苗或将面世",
+        "onboard_time": 1704953792,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161303,
+        "num": 161303,
+        "word": "田嘉瑞深V",
+        "onboard_time": 1704958529,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159365,
+        "num": 159365,
+        "word": "微博之夜嘉宾emoji",
+        "onboard_time": 1704947254,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156904,
+        "num": 156904,
+        "word": "赵正平官宣结婚",
+        "onboard_time": 1704950671,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154831,
+        "num": 154831,
+        "word": "孙俪马伊琍在聊什么",
+        "onboard_time": 1704963028,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145452,
+        "num": 145452,
+        "word": "微博之夜",
+        "onboard_time": 1704946772,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143788,
+        "num": 143788,
+        "word": "母亲以死逼婚儿子结婚半年闪离",
+        "onboard_time": 1704964531,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143555,
+        "num": 143555,
+        "word": "J人和P人对待拖延症和催进度的区别",
+        "onboard_time": 1704959551,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139097,
+        "num": 139097,
+        "word": "5种常见炎症要及早消炎",
+        "onboard_time": 1704959069,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137555,
+        "num": 137555,
+        "word": "俩女生把旅游照拍成IE浏览器",
+        "onboard_time": 1704952229,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 136659,
+        "num": 136659,
+        "word": "广西人真的把蔓越莓做成酸嘢了",
+        "onboard_time": 1704960389,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135444,
+        "num": 135444,
+        "word": "汤唯觉得老公比女儿更重要",
+        "onboard_time": 1704949895,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132957,
+        "num": 132957,
+        "word": "用扭扭棒做了一个烟花",
+        "onboard_time": 1704964471,
+        "rank": 45,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 125882,
+        "num": 125882,
+        "word": "辛芷蕾融不进去就算了吧",
+        "onboard_time": 1704959908,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115087,
+        "num": 115087,
+        "word": "伦纳德说降薪为能留下哈登乔治",
+        "onboard_time": 1704963028,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112342,
+        "num": 112342,
+        "word": "王一博加盟微博之夜",
+        "onboard_time": 1704954928,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111453,
+        "num": 111453,
+        "word": "SM娱乐就李楷灿室内吸烟道歉",
+        "onboard_time": 1704953428,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#领导干部要树立正确的权力观政绩观事业观#"
+    }
+  }
+}
