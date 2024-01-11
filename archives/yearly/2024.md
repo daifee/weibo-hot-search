@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/11 14:37:00
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/11 15:16:46
 </p>
 </blockquote>
 <p>
@@ -1503,6 +1503,12 @@ A先生李李恋情（热度：1095743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%88%B7%E7%88%B7%E5%8F%91%E6%96%87%E5%87%86%E5%A4%87%E5%91%8A%E5%88%AB%E7%A6%8F%E5%AE%9D%23" target="weibo">
+宋爷爷发文准备告别福宝（热度：1087032）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E5%A7%90%20%E5%92%8C%E8%BF%87%E5%8E%BB%E5%86%B3%E8%A3%82%E5%BE%88%E5%BD%BB%E5%BA%95%23" target="weibo">
 汪小姐 和过去决裂很彻底（热度：1086952）
 </a>
@@ -1805,12 +1811,6 @@ iPhone从4000多米高空坠落仍可使用（热度：987136）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%AB%99%E5%9C%A8%E7%B2%89%E4%B8%9D%E6%97%81%E8%BE%B9%E6%B2%A1%E8%A2%AB%E8%AE%A4%E5%87%BA%E6%9D%A5%23" target="weibo">
 肖战站在粉丝旁边没被认出来（热度：975382）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E5%AE%A3%E5%B8%83%E7%BB%88%E6%AD%A2%E6%94%B6%E8%B4%ADYY%E7%9B%B4%E6%92%AD%23" target="weibo">
-百度宣布终止收购YY直播（热度：973921）
 </a>
 </li>
 

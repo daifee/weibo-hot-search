@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704955020352,
+  "endTime": 1704957406841,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3878047,
-      "num": 453629,
+      "num": 463731,
       "word": "贾玲声音都变了",
       "onboard_time": 1704940831,
       "rank": 21,
@@ -731,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1087032,
+      "num": 1087032,
+      "word": "宋爷爷发文准备告别福宝",
+      "onboard_time": 1704954750,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1085986,
       "num": 1085986,
       "word": "国考 给个痛快吧",
@@ -1172,7 +1180,7 @@
     },
     {
       "raw_hot": 829909,
-      "num": 419049,
+      "num": 461296,
       "word": "赵正平官宣结婚",
       "onboard_time": 1704950671,
       "rank": 12,
@@ -1425,6 +1433,14 @@
       "onboard_time": 1704704910,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 752417,
+      "num": 752417,
+      "word": "青春痘疫苗或将面世",
+      "onboard_time": 1704953792,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 751597,
@@ -1969,6 +1985,14 @@
       "onboard_time": 1704562401,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626795,
+      "num": 626795,
+      "word": "肖战去微博之夜",
+      "onboard_time": 1704954809,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 625583,
@@ -2803,6 +2827,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 508432,
+      "num": 508432,
+      "word": "程前事件",
+      "onboard_time": 1704955109,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 508097,
       "num": 508097,
       "word": "难怪国足输给越南",
@@ -3273,6 +3305,14 @@
       "onboard_time": 1704589110,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 452348,
+      "num": 452348,
+      "word": "12306优化升级候补购票",
+      "onboard_time": 1704954570,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450982,
@@ -4083,6 +4123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351838,
+      "num": 351838,
+      "word": "广西一中学学生趴桌午休收费260元",
+      "onboard_time": 1704954928,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351603,
       "num": 351603,
       "word": "谢娜客串过苏有朋的左耳",
@@ -4105,6 +4153,14 @@
       "onboard_time": 1704724954,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345367,
+      "num": 311675,
+      "word": "这种癌很容易漏诊误诊",
+      "onboard_time": 1704955826,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 345275,
@@ -4667,12 +4723,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 301428,
-      "num": 275454,
-      "word": "肖战去微博之夜",
-      "onboard_time": 1704954809,
+      "raw_hot": 301097,
+      "num": 301097,
+      "word": "I类致癌物清单",
+      "onboard_time": 1704955887,
       "rank": 22,
-      "category": "作品衍生"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 300350,
@@ -4697,14 +4753,6 @@
       "onboard_time": 1704810097,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 299439,
-      "num": 299439,
-      "word": "青春痘疫苗或将面世",
-      "onboard_time": 1704953792,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298979,
@@ -5171,6 +5219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 264426,
+      "num": 264426,
+      "word": "2名间谍落网现场曝光",
+      "onboard_time": 1704956489,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264403,
       "num": 264403,
       "word": "李铁收钱让人进国家队看得俱乐部脸红",
@@ -5193,14 +5249,6 @@
       "onboard_time": 1704614488,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261657,
-      "num": 261657,
-      "word": "12306优化升级候补购票",
-      "onboard_time": 1704954570,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261290,
@@ -5273,6 +5321,14 @@
       "onboard_time": 1704630512,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255960,
+      "num": 255960,
+      "word": "王一博加盟微博之夜",
+      "onboard_time": 1704954928,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255800,
@@ -5512,6 +5568,14 @@
       "word": "博主就文科言论起诉张雪峰案已立案",
       "onboard_time": 1704705330,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243077,
+      "num": 243077,
+      "word": "男子住酒店发现名字被印得到处都是",
+      "onboard_time": 1704956787,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -7451,6 +7515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186272,
+      "num": 186272,
+      "word": "罗永浩指责荣耀任意门抄袭锤子",
+      "onboard_time": 1704954330,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 185961,
       "num": 185961,
       "word": "宝总和四个女人的故事",
@@ -7889,6 +7961,14 @@
       "onboard_time": 1704621752,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176795,
+      "num": 176795,
+      "word": "为什么高学历也挣不到钱了",
+      "onboard_time": 1704956787,
+      "rank": 34,
+      "category": "社会议题"
     },
     {
       "raw_hot": 176063,
@@ -8625,14 +8705,6 @@
       "onboard_time": 1704937349,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161711,
-      "num": 161711,
-      "word": "罗永浩指责荣耀任意门抄袭锤子",
-      "onboard_time": 1704954330,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 161542,
@@ -9451,6 +9523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146175,
+      "num": 146175,
+      "word": "中药奶茶",
+      "onboard_time": 1704956247,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 146166,
       "num": 146166,
       "word": "陈星旭汗流浃背了吧",
@@ -9473,6 +9553,14 @@
       "onboard_time": 1704765752,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145433,
+      "num": 145433,
+      "word": "梅西卖酒",
+      "onboard_time": 1704957148,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 145428,
@@ -9777,6 +9865,14 @@
       "onboard_time": 1704626494,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138125,
+      "num": 138125,
+      "word": "荣耀回应任意门照抄锤子",
+      "onboard_time": 1704957271,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 138060,
@@ -10147,14 +10243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131860,
-      "num": 131860,
-      "word": "宋爷爷发文准备告别福宝",
-      "onboard_time": 1704954750,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131566,
       "num": 131566,
       "word": "罗晋马思纯新剧开播",
@@ -10409,14 +10497,6 @@
       "onboard_time": 1704683491,
       "rank": 42,
       "category": "社会议题,旅游"
-    },
-    {
-      "raw_hot": 128189,
-      "num": 128189,
-      "word": "王一博加盟微博之夜",
-      "onboard_time": 1704954928,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 127733,
@@ -10915,14 +10995,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 118755,
-      "num": 118755,
-      "word": "广西一中学学生趴桌午休收费260元",
-      "onboard_time": 1704954928,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118714,
       "num": 118714,
       "word": "微博之夜经典同框",
@@ -11193,6 +11265,14 @@
       "onboard_time": 1704889413,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113823,
+      "num": 113823,
+      "word": "京东物流001号员工退休",
+      "onboard_time": 1704957389,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 113036,
