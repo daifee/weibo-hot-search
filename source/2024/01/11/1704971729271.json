@@ -1,0 +1,410 @@
+{
+  "runTime": 1704971729271,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2446560,
+        "num": 2446560,
+        "word": "医生谈贾玲整容式暴瘦",
+        "onboard_time": 1704968250,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 517652,
+        "num": 998972,
+        "word": "尔滨中央大街鸽子被游客喂成鸽猪",
+        "onboard_time": 1704968429,
+        "rank": 1,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 74413,
+        "num": 865844,
+        "word": "2025亚冬会吉祥物滨滨和妮妮",
+        "onboard_time": 1704962426,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806340,
+        "num": 806340,
+        "word": "父母双亡独生女在哪过年",
+        "onboard_time": 1704966569,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434602,
+        "num": 754491,
+        "word": "杭州村民众筹1.2亿造大别墅",
+        "onboard_time": 1704967830,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725215,
+        "num": 725215,
+        "word": "厦门一公司发生闪爆事件致3死3伤",
+        "onboard_time": 1704968669,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230805,
+        "num": 652383,
+        "word": "尔滨咖啡里藏了砂糖橘笑脸",
+        "onboard_time": 1704967470,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 623594,
+        "num": 623594,
+        "word": "地震云",
+        "onboard_time": 1704969811,
+        "rank": 7,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 521333,
+        "num": 521333,
+        "word": "YG官网删除BLACKPINK个人介绍页面",
+        "onboard_time": 1704969331,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488203,
+        "num": 488203,
+        "word": "原来孙悟空是抽烟的",
+        "onboard_time": 1704962129,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1897726,
+        "num": 487893,
+        "word": "贾玲健身教练发声",
+        "onboard_time": 1704968910,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 546697,
+        "num": 487598,
+        "word": "张凌赫 翘脚牛肉",
+        "onboard_time": 1704969991,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 485851,
+        "num": 485851,
+        "word": "迪丽热巴要回新疆给妈妈生日惊喜",
+        "onboard_time": 1704968371,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391863,
+        "num": 391863,
+        "word": "日本震区灾民怒斥救援物资是垃圾",
+        "onboard_time": 1704966869,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24417,
+        "num": 350962,
+        "word": "嗑到苏有朋的糖了",
+        "onboard_time": 1704950252,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334444,
+        "num": 334444,
+        "word": "男生没抢到薛之谦门票扬言炸场馆",
+        "onboard_time": 1704968731,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 326060,
+        "num": 326060,
+        "word": "京东物流001号员工退休",
+        "onboard_time": 1704957389,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 397422,
+        "num": 324243,
+        "word": "迪丽热巴今年或将无缝进组",
+        "onboard_time": 1704969750,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306603,
+        "num": 306603,
+        "word": "王楚钦孙颖莎3比0黄镇廷杜凯琹",
+        "onboard_time": 1704970229,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280635,
+        "num": 280635,
+        "word": "浙江一男子肺部发现557个结节",
+        "onboard_time": 1704966930,
+        "rank": 19,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 865431,
+        "num": 278264,
+        "word": "母亲以死逼婚儿子结婚半年闪离",
+        "onboard_time": 1704964531,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272551,
+        "num": 272551,
+        "word": "官方回应冰马俑是AI合成",
+        "onboard_time": 1704970351,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231409,
+        "num": 231409,
+        "word": "这种癌很容易漏诊误诊",
+        "onboard_time": 1704955826,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215030,
+        "num": 215030,
+        "word": "女子买硬座非坐卧铺乘务员劝阻被骂",
+        "onboard_time": 1704964709,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204346,
+        "num": 204346,
+        "word": "林诗栋蒯曼3比0林高远王曼昱",
+        "onboard_time": 1704971370,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202190,
+        "num": 202190,
+        "word": "支援尔滨的白狐上岗了",
+        "onboard_time": 1704970229,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188688,
+        "num": 188688,
+        "word": "为什么高学历也挣不到钱了",
+        "onboard_time": 1704956787,
+        "rank": 26,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 180384,
+        "num": 180384,
+        "word": "河南一检察官多次家暴妻子",
+        "onboard_time": 1704968011,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180052,
+        "num": 180052,
+        "word": "易烊千玺北京",
+        "onboard_time": 1704964048,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171793,
+        "num": 171793,
+        "word": "去散散你的班味",
+        "onboard_time": 1704970591,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170806,
+        "num": 170806,
+        "word": "全球第一大癌症为何盯上年轻人",
+        "onboard_time": 1704962249,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164239,
+        "num": 164239,
+        "word": "肖战去微博之夜",
+        "onboard_time": 1704954809,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153313,
+        "num": 153313,
+        "word": "男子手指被鳄龟咬住痛哭一个多小时",
+        "onboard_time": 1704961949,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152416,
+        "num": 152416,
+        "word": "淄博文旅局副局长谈哈尔滨出圈",
+        "onboard_time": 1704962969,
+        "rank": 33,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 151695,
+        "num": 151695,
+        "word": "东北宠小土豆连锅包肉都帮忙剪了",
+        "onboard_time": 1704969390,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 143281,
+        "num": 143281,
+        "word": "罗永浩祝贺董宇辉",
+        "onboard_time": 1704969452,
+        "rank": 35,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 142262,
+        "num": 142262,
+        "word": "秦岚要给王安宇物色女朋友",
+        "onboard_time": 1704968791,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141917,
+        "num": 141917,
+        "word": "为什么现在年轻人都喜欢新中式",
+        "onboard_time": 1704971311,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138730,
+        "num": 138730,
+        "word": "男子住酒店发现名字被印得到处都是",
+        "onboard_time": 1704956787,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135659,
+        "num": 135659,
+        "word": "王楚钦孙颖莎混双2024首胜",
+        "onboard_time": 1704971132,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133849,
+        "num": 133849,
+        "word": "阿富汗6.4级地震",
+        "onboard_time": 1704967710,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131747,
+        "num": 131747,
+        "word": "马伊琍不想重复演上海女人",
+        "onboard_time": 1704969692,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121482,
+        "num": 121482,
+        "word": "郑云龙入职北京人艺",
+        "onboard_time": 1704966151,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121348,
+        "num": 121348,
+        "word": "宋爷爷发文准备告别福宝",
+        "onboard_time": 1704954750,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113261,
+        "num": 113261,
+        "word": "猫猫我呀今天也吃到席了",
+        "onboard_time": 1704966509,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109330,
+        "num": 109330,
+        "word": "微博之夜嘉宾emoji",
+        "onboard_time": 1704947254,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106503,
+        "num": 106503,
+        "word": "草莓烤香菜到底是谁在吃",
+        "onboard_time": 1704970412,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106112,
+        "num": 106112,
+        "word": "汤唯觉得老公比女儿更重要",
+        "onboard_time": 1704949895,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106088,
+        "num": 106088,
+        "word": "花了45美元买的网红棉花糖蛋糕",
+        "onboard_time": 1704968971,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104844,
+        "num": 104844,
+        "word": "戴尔加盟拜仁",
+        "onboard_time": 1704968851,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马尔代夫总统会谈#"
+    }
+  }
+}
