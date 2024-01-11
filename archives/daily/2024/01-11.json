@@ -1,6 +1,6 @@
 {
   "startTime": 1704903836383,
-  "endTime": 1704958532750,
+  "endTime": 1704961380242,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1412851,
+      "num": 408919,
+      "word": "京东物流001号员工退休",
+      "onboard_time": 1704957389,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1407157,
       "num": 1407157,
       "word": "迪丽热巴官宣微博之夜",
@@ -89,6 +97,14 @@
       "onboard_time": 1704933631,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 957443,
+      "num": 957443,
+      "word": "2名间谍落网现场曝光",
+      "onboard_time": 1704956489,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 920521,
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 639385,
+      "num": 407611,
+      "word": "小杨哥徒弟小黄回应近期改变",
+      "onboard_time": 1704959369,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 626795,
       "num": 626795,
       "word": "肖战去微博之夜",
@@ -291,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 542371,
-      "num": 542371,
-      "word": "2名间谍落网现场曝光",
-      "onboard_time": 1704956489,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 508432,
       "num": 508432,
       "word": "程前事件",
@@ -321,14 +337,6 @@
       "onboard_time": 1704939448,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 457679,
-      "num": 384231,
-      "word": "京东物流001号员工退休",
-      "onboard_time": 1704957389,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 452348,
@@ -361,6 +369,22 @@
       "onboard_time": 1704935849,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439268,
+      "num": 439268,
+      "word": "海关查货7具走私狼尸",
+      "onboard_time": 1704960209,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420306,
+      "num": 420306,
+      "word": "梅西卖酒",
+      "onboard_time": 1704957148,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 419108,
@@ -403,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386646,
+      "num": 386646,
+      "word": "联合国直升机遭劫持1死2失踪",
+      "onboard_time": 1704960569,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 385509,
       "num": 445040,
       "word": "警方通报浙江一家四口驾车坠河",
@@ -433,6 +465,14 @@
       "onboard_time": 1704934951,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363341,
+      "num": 289738,
+      "word": "为什么高学历也挣不到钱了",
+      "onboard_time": 1704956787,
+      "rank": 34,
+      "category": "社会议题"
     },
     {
       "raw_hot": 361097,
@@ -491,12 +531,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 335041,
-      "num": 335041,
-      "word": "梅西卖酒",
-      "onboard_time": 1704957148,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 338206,
+      "num": 338206,
+      "word": "田嘉瑞深V",
+      "onboard_time": 1704958529,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 333280,
@@ -691,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278461,
-      "num": 278461,
-      "word": "为什么高学历也挣不到钱了",
-      "onboard_time": 1704956787,
-      "rank": 34,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 278047,
       "num": 150081,
       "word": "以前谈恋爱是要交换QQ密码的",
@@ -768,6 +800,14 @@
       "word": "种地吧 行李牌",
       "onboard_time": 1704947674,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 244987,
+      "num": 244987,
+      "word": "辛芷蕾融不进去就算了吧",
+      "onboard_time": 1704959908,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -899,6 +939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196777,
+      "num": 196777,
+      "word": "5种常见炎症要及早消炎",
+      "onboard_time": 1704959069,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 196623,
       "num": 171853,
       "word": "龚俊胡连馨 暗河传",
@@ -937,6 +985,14 @@
       "onboard_time": 1704895055,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188973,
+      "num": 188973,
+      "word": "J人和P人对待拖延症和催进度的区别",
+      "onboard_time": 1704959551,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 188090,
@@ -1081,6 +1137,22 @@
       "onboard_time": 1704935670,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168018,
+      "num": 168018,
+      "word": "广西人真的把蔓越莓做成酸嘢了",
+      "onboard_time": 1704960389,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 166731,
+      "num": 166731,
+      "word": "昊苍警官的办公间",
+      "onboard_time": 1704960990,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 165888,
@@ -1275,6 +1347,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140281,
+      "num": 140281,
+      "word": "赵露思冬日草莓妆",
+      "onboard_time": 1704959730,
+      "rank": 39,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 139449,
+      "num": 141042,
+      "word": "李铁曾在足坛布局铁圈",
+      "onboard_time": 1704957930,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 138654,
       "num": 138654,
       "word": "减少卡粉的最重要的步骤",
@@ -1307,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133393,
+      "num": 133393,
+      "word": "狗狗幼儿园午休起床实录",
+      "onboard_time": 1704959671,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132411,
       "num": 132411,
       "word": "王家卫公司已注册百枚繁花相关商标",
@@ -1323,12 +1419,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131759,
-      "num": 141042,
-      "word": "李铁曾在足坛布局铁圈",
-      "onboard_time": 1704957930,
-      "rank": 38,
-      "category": "体育,社会新闻"
+      "raw_hot": 131343,
+      "num": 131343,
+      "word": "辛芷蕾给繁花录的旁白",
+      "onboard_time": 1704960149,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 130603,
@@ -1361,6 +1457,14 @@
       "onboard_time": 1704945995,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126795,
+      "num": 307059,
+      "word": "尔滨向你传送2024旅行攻略",
+      "onboard_time": 1704959671,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 125656,
@@ -1419,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121802,
-      "num": 121802,
-      "word": "田嘉瑞深V",
-      "onboard_time": 1704958529,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 121111,
       "num": 121111,
       "word": "程前主持风马牛年终秀圆桌论坛惹争议",
@@ -1483,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118691,
+      "num": 118691,
+      "word": "尔滨整新活之冻梨被榨成汁了",
+      "onboard_time": 1704961227,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 118396,
       "num": 118396,
       "word": "大学生德华",
@@ -1529,6 +1633,14 @@
       "onboard_time": 1704932428,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106845,
+      "num": 106845,
+      "word": "王嘉尔北京演唱会",
+      "onboard_time": 1704961349,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 105346,
@@ -1793,6 +1905,14 @@
       "onboard_time": 1704921973,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 46980,
+      "num": 198309,
+      "word": "18万买到迈巴赫座舱",
+      "onboard_time": 1704960089,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 46271,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1704961380242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1880345,
+        "num": 1880345,
+        "word": "贾玲减了100斤",
+        "onboard_time": 1704939148,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1189288,
+        "num": 1189288,
+        "word": "宋爷爷发文准备告别福宝",
+        "onboard_time": 1704954750,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20368,
+        "num": 977857,
+        "word": "歼20首飞成功13年了",
+        "onboard_time": 1704931348,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 957443,
+        "num": 957443,
+        "word": "2名间谍落网现场曝光",
+        "onboard_time": 1704956489,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842994,
+        "num": 842994,
+        "word": "近视眼从800度降到100度的过程",
+        "onboard_time": 1704933933,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 439268,
+        "num": 439268,
+        "word": "海关查货7具走私狼尸",
+        "onboard_time": 1704960209,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431045,
+        "num": 431045,
+        "word": "肖战去微博之夜",
+        "onboard_time": 1704954809,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 420306,
+        "num": 420306,
+        "word": "梅西卖酒",
+        "onboard_time": 1704957148,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418857,
+        "num": 418857,
+        "word": "迪丽热巴官宣微博之夜",
+        "onboard_time": 1704951570,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 410949,
+        "num": 410949,
+        "word": "青春痘疫苗或将面世",
+        "onboard_time": 1704953792,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1412851,
+        "num": 408919,
+        "word": "京东物流001号员工退休",
+        "onboard_time": 1704957389,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1141522,
+        "num": 407723,
+        "word": "贾玲声音都变了",
+        "onboard_time": 1704940831,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 639385,
+        "num": 407611,
+        "word": "小杨哥徒弟小黄回应近期改变",
+        "onboard_time": 1704959369,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 406222,
+        "num": 406222,
+        "word": "25岁姑娘体检发现结节无症状确诊肺癌",
+        "onboard_time": 1704901291,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 386646,
+        "num": 386646,
+        "word": "联合国直升机遭劫持1死2失踪",
+        "onboard_time": 1704960569,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 354355,
+        "num": 354355,
+        "word": "不出道就得回清华读研",
+        "onboard_time": 1704947077,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338206,
+        "num": 338206,
+        "word": "田嘉瑞深V",
+        "onboard_time": 1704958529,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311944,
+        "num": 311944,
+        "word": "赵正平官宣结婚",
+        "onboard_time": 1704950671,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126795,
+        "num": 307059,
+        "word": "尔滨向你传送2024旅行攻略",
+        "onboard_time": 1704959671,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 304505,
+        "num": 304505,
+        "word": "这种癌很容易漏诊误诊",
+        "onboard_time": 1704955826,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 365729,
+        "num": 297101,
+        "word": "男子住酒店发现名字被印得到处都是",
+        "onboard_time": 1704956787,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363341,
+        "num": 289738,
+        "word": "为什么高学历也挣不到钱了",
+        "onboard_time": 1704956787,
+        "rank": 21,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 275228,
+        "num": 275228,
+        "word": "妹妹上班三年存了30万",
+        "onboard_time": 1704943110,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265280,
+        "num": 265280,
+        "word": "IU染粉发",
+        "onboard_time": 1704949174,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244987,
+        "num": 244987,
+        "word": "辛芷蕾融不进去就算了吧",
+        "onboard_time": 1704959908,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235177,
+        "num": 235177,
+        "word": "程前事件",
+        "onboard_time": 1704955109,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 221094,
+        "num": 221094,
+        "word": "广西一中学学生趴桌午休收费260元",
+        "onboard_time": 1704954928,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209316,
+        "num": 209316,
+        "word": "微博之夜嘉宾emoji",
+        "onboard_time": 1704947254,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46980,
+        "num": 198309,
+        "word": "18万买到迈巴赫座舱",
+        "onboard_time": 1704960089,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 196777,
+        "num": 196777,
+        "word": "5种常见炎症要及早消炎",
+        "onboard_time": 1704959069,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196411,
+        "num": 196411,
+        "word": "SM娱乐就李楷灿室内吸烟道歉",
+        "onboard_time": 1704953428,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188973,
+        "num": 188973,
+        "word": "J人和P人对待拖延症和催进度的区别",
+        "onboard_time": 1704959551,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179675,
+        "num": 179675,
+        "word": "微博之夜",
+        "onboard_time": 1704946772,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168018,
+        "num": 168018,
+        "word": "广西人真的把蔓越莓做成酸嘢了",
+        "onboard_time": 1704960389,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166731,
+        "num": 166731,
+        "word": "昊苍警官的办公间",
+        "onboard_time": 1704960990,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 164678,
+        "num": 164678,
+        "word": "俩女生把旅游照拍成IE浏览器",
+        "onboard_time": 1704952229,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 160357,
+        "num": 160357,
+        "word": "天天挨骂的刑警8年挽回亿元损失",
+        "onboard_time": 1704957750,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153355,
+        "num": 153355,
+        "word": "联合国一飞机被劫持",
+        "onboard_time": 1704951092,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 143163,
+        "num": 143163,
+        "word": "I类致癌物清单",
+        "onboard_time": 1704955887,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140281,
+        "num": 140281,
+        "word": "赵露思冬日草莓妆",
+        "onboard_time": 1704959730,
+        "rank": 39,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 139449,
+        "num": 139449,
+        "word": "李铁曾在足坛布局铁圈",
+        "onboard_time": 1704957930,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 139001,
+        "num": 139001,
+        "word": "王一博加盟微博之夜",
+        "onboard_time": 1704954928,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138740,
+        "num": 138740,
+        "word": "汤唯觉得老公比女儿更重要",
+        "onboard_time": 1704949895,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138172,
+        "num": 138172,
+        "word": "周生如故",
+        "onboard_time": 1704944132,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133393,
+        "num": 133393,
+        "word": "狗狗幼儿园午休起床实录",
+        "onboard_time": 1704959671,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131343,
+        "num": 131343,
+        "word": "辛芷蕾给繁花录的旁白",
+        "onboard_time": 1704960149,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120576,
+        "num": 120576,
+        "word": "8岁男孩喜提152平婚房和三层小洋房",
+        "onboard_time": 1704943652,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120243,
+        "num": 120243,
+        "word": "热辣滚烫阵容",
+        "onboard_time": 1704940831,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118691,
+        "num": 118691,
+        "word": "尔滨整新活之冻梨被榨成汁了",
+        "onboard_time": 1704961227,
+        "rank": 48,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 106845,
+        "num": 106845,
+        "word": "王嘉尔北京演唱会",
+        "onboard_time": 1704961349,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎马尔代夫总统访华#"
+    }
+  }
+}

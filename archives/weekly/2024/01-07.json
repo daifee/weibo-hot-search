@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1704958532750,
+  "endTime": 1704961380242,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -369,6 +369,14 @@
       "onboard_time": 1704799469,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1412851,
+      "num": 408919,
+      "word": "京东物流001号员工退休",
+      "onboard_time": 1704957389,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 1407157,
@@ -929,6 +937,14 @@
       "onboard_time": 1704703350,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 957443,
+      "num": 957443,
+      "word": "2名间谍落网现场曝光",
+      "onboard_time": 1704956489,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 956831,
@@ -1979,6 +1995,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 639385,
+      "num": 407611,
+      "word": "小杨哥徒弟小黄回应近期改变",
+      "onboard_time": 1704959369,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 637810,
       "num": 637810,
       "word": "女子多次仅退款后又偷取走快递",
@@ -2593,14 +2617,6 @@
       "onboard_time": 1704725612,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 542371,
-      "num": 542371,
-      "word": "2名间谍落网现场曝光",
-      "onboard_time": 1704956489,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 539689,
@@ -3235,14 +3251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 457679,
-      "num": 384231,
-      "word": "京东物流001号员工退休",
-      "onboard_time": 1704957389,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 457645,
       "num": 457645,
       "word": "金球奖主持 尴尬",
@@ -3443,6 +3451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 439268,
+      "num": 439268,
+      "word": "海关查货7具走私狼尸",
+      "onboard_time": 1704960209,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438782,
       "num": 438782,
       "word": "繁花",
@@ -3577,6 +3593,14 @@
       "onboard_time": 1704686915,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 420306,
+      "num": 420306,
+      "word": "梅西卖酒",
+      "onboard_time": 1704957148,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 418812,
@@ -3883,6 +3907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 386646,
+      "num": 386646,
+      "word": "联合国直升机遭劫持1死2失踪",
+      "onboard_time": 1704960569,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 385845,
       "num": 385845,
       "word": "2024天秤座内耗退散",
@@ -4057,6 +4089,14 @@
       "onboard_time": 1704785671,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363341,
+      "num": 289738,
+      "word": "为什么高学历也挣不到钱了",
+      "onboard_time": 1704956787,
+      "rank": 34,
+      "category": "社会议题"
     },
     {
       "raw_hot": 363054,
@@ -4243,6 +4283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338206,
+      "num": 338206,
+      "word": "田嘉瑞深V",
+      "onboard_time": 1704958529,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 335913,
       "num": 335913,
       "word": "张镇麟领证",
@@ -4265,14 +4313,6 @@
       "onboard_time": 1704803190,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 335041,
-      "num": 335041,
-      "word": "梅西卖酒",
-      "onboard_time": 1704957148,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 334890,
@@ -5075,14 +5115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278461,
-      "num": 278461,
-      "word": "为什么高学历也挣不到钱了",
-      "onboard_time": 1704956787,
-      "rank": 34,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 277143,
       "num": 277143,
       "word": "2024春节档已官宣5部电影",
@@ -5569,6 +5601,14 @@
       "onboard_time": 1704672211,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244987,
+      "num": 244987,
+      "word": "辛芷蕾融不进去就算了吧",
+      "onboard_time": 1704959908,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 244967,
@@ -7011,6 +7051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196777,
+      "num": 196777,
+      "word": "5种常见炎症要及早消炎",
+      "onboard_time": 1704959069,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 196623,
       "num": 171853,
       "word": "龚俊胡连馨 暗河传",
@@ -7409,6 +7457,14 @@
       "onboard_time": 1704622291,
       "rank": 36,
       "category": "美食,作品衍生"
+    },
+    {
+      "raw_hot": 188973,
+      "num": 188973,
+      "word": "J人和P人对待拖延症和催进度的区别",
+      "onboard_time": 1704959551,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 188969,
@@ -8435,6 +8491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168018,
+      "num": 168018,
+      "word": "广西人真的把蔓越莓做成酸嘢了",
+      "onboard_time": 1704960389,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 167809,
       "num": 167809,
       "word": "每天一根胡萝卜可降低患癌风险",
@@ -8473,6 +8537,14 @@
       "onboard_time": 1704639574,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166731,
+      "num": 166731,
+      "word": "昊苍警官的办公间",
+      "onboard_time": 1704960990,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 166696,
@@ -9827,6 +9899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140281,
+      "num": 140281,
+      "word": "赵露思冬日草莓妆",
+      "onboard_time": 1704959730,
+      "rank": 39,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 140210,
       "num": 140210,
       "word": "对手退赛林高远林诗栋自动晋级",
@@ -9849,6 +9929,14 @@
       "onboard_time": 1704550232,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139449,
+      "num": 141042,
+      "word": "李铁曾在足坛布局铁圈",
+      "onboard_time": 1704957930,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 139333,
@@ -10155,6 +10243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133393,
+      "num": 133393,
+      "word": "狗狗幼儿园午休起床实录",
+      "onboard_time": 1704959671,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133239,
       "num": 133239,
       "word": "上大学后才知道的人情世故",
@@ -10259,14 +10355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131759,
-      "num": 141042,
-      "word": "李铁曾在足坛布局铁圈",
-      "onboard_time": 1704957930,
-      "rank": 38,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 131566,
       "num": 131566,
       "word": "罗晋马思纯新剧开播",
@@ -10313,6 +10401,14 @@
       "onboard_time": 1704769650,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131343,
+      "num": 131343,
+      "word": "辛芷蕾给繁花录的旁白",
+      "onboard_time": 1704960149,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 131064,
@@ -10603,6 +10699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126795,
+      "num": 307059,
+      "word": "尔滨向你传送2024旅行攻略",
+      "onboard_time": 1704959671,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 126744,
       "num": 126744,
       "word": "3年E班 永远的杀老师",
@@ -10891,14 +10995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121802,
-      "num": 121802,
-      "word": "田嘉瑞深V",
-      "onboard_time": 1704958529,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 121670,
       "num": 121670,
       "word": "马吟吟 剧抛脸演员",
@@ -11057,6 +11153,14 @@
       "onboard_time": 1704637415,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118691,
+      "num": 118691,
+      "word": "尔滨整新活之冻梨被榨成汁了",
+      "onboard_time": 1704961227,
+      "rank": 48,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 118574,
@@ -11521,6 +11625,14 @@
       "onboard_time": 1704597511,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106845,
+      "num": 106845,
+      "word": "王嘉尔北京演唱会",
+      "onboard_time": 1704961349,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 106576,
@@ -12553,6 +12665,14 @@
       "onboard_time": 1704789932,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46980,
+      "num": 198309,
+      "word": "18万买到迈巴赫座舱",
+      "onboard_time": 1704960089,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 46398,
