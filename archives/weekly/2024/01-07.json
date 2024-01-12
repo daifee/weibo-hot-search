@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1705077539221,
+  "endTime": 1705079768690,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -12459,6 +12459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149610,
+      "num": 114169,
+      "word": "游本昌感谢王家卫让他演胡歌教父",
+      "onboard_time": 1705077505,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149150,
       "num": 149150,
       "word": "约会是从散步开始的",
@@ -15731,14 +15739,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 99799,
-      "num": 93756,
-      "word": "游本昌感谢王家卫让他演胡歌教父",
-      "onboard_time": 1705077505,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99776,
       "num": 99776,
       "word": "亚洲电影大奖入围名单",
@@ -16515,12 +16515,28 @@
       "category": "动漫,游戏"
     },
     {
+      "raw_hot": 56221,
+      "num": 56221,
+      "word": "俞泽辰一个暴扣 转播信号崩了",
+      "onboard_time": 1705067372,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55903,
       "num": 243817,
       "word": "巩俐出演时尚主编",
       "onboard_time": 1704949476,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 55508,
+      "num": 55508,
+      "word": "你也有今天",
+      "onboard_time": 1705077447,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 55394,
@@ -16561,6 +16577,14 @@
       "onboard_time": 1705015883,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53638,
+      "num": 53638,
+      "word": "ENHYPEN GDA舞台练习室",
+      "onboard_time": 1705079422,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 52587,
@@ -16665,6 +16689,14 @@
       "onboard_time": 1704950252,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46066,
+      "num": 46066,
+      "word": "谭爷爷和花花在一起好温馨",
+      "onboard_time": 1705079002,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45701,

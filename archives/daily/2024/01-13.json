@@ -1,6 +1,6 @@
 {
   "startTime": 1705076591437,
-  "endTime": 1705077539221,
+  "endTime": 1705079768690,
   "band_list": [
     {
       "raw_hot": 1581875,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 452163,
+      "num": 452163,
+      "word": "睡觉中途醒了 不要看时间",
+      "onboard_time": 1705053449,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 443886,
       "num": 443886,
       "word": "逃出大英博物馆获奖",
@@ -113,14 +121,6 @@
       "onboard_time": 1705061790,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 372492,
-      "num": 372492,
-      "word": "睡觉中途醒了 不要看时间",
-      "onboard_time": 1705053449,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 335975,
@@ -227,6 +227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149610,
+      "num": 114169,
+      "word": "游本昌感谢王家卫让他演胡歌教父",
+      "onboard_time": 1705077505,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124881,
       "num": 124881,
       "word": "陈泽直播",
@@ -304,14 +312,6 @@
       "word": "繁花官微发严正声明维权",
       "onboard_time": 1705049911,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 99799,
-      "num": 93756,
-      "word": "游本昌感谢王家卫让他演胡歌教父",
-      "onboard_time": 1705077505,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -409,6 +409,38 @@
       "onboard_time": 1705065812,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56221,
+      "num": 56221,
+      "word": "俞泽辰一个暴扣 转播信号崩了",
+      "onboard_time": 1705067372,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55508,
+      "num": 55508,
+      "word": "你也有今天",
+      "onboard_time": 1705077447,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 53638,
+      "num": 53638,
+      "word": "ENHYPEN GDA舞台练习室",
+      "onboard_time": 1705079422,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 46066,
+      "num": 46066,
+      "word": "谭爷爷和花花在一起好温馨",
+      "onboard_time": 1705079002,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37393,
