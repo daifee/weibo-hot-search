@@ -1,6 +1,6 @@
 {
   "startTime": 1704990232348,
-  "endTime": 1705027353422,
+  "endTime": 1705029544350,
   "band_list": [
     {
       "raw_hot": 1687177,
@@ -8,6 +8,14 @@
       "word": "大一女生校内坠亡生前疑遭舍友辱骂",
       "onboard_time": 1705017629,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1659348,
+      "num": 1659348,
+      "word": "爱泼斯坦让17岁少女陪侍安德鲁王子",
+      "onboard_time": 1705024825,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -35,12 +43,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1301736,
-      "num": 1301736,
-      "word": "爱泼斯坦让17岁少女陪侍安德鲁王子",
-      "onboard_time": 1705024825,
+      "raw_hot": 1249423,
+      "num": 1249423,
+      "word": "赵丽颖演聋哑人",
+      "onboard_time": 1705028127,
       "rank": 1,
-      "category": "社会新闻"
+      "category": "电影"
     },
     {
       "raw_hot": 1098411,
@@ -107,7 +115,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 689557,
+      "raw_hot": 689593,
       "num": 684101,
       "word": "腾讯游戏致歉",
       "onboard_time": 1705024708,
@@ -155,6 +163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 575219,
+      "num": 411085,
+      "word": "赵丽颖微博文案是手语",
+      "onboard_time": 1705028849,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 566958,
+      "num": 566958,
+      "word": "日韩机票跌到史上最低",
+      "onboard_time": 1705028309,
+      "rank": 4,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 548751,
       "num": 548751,
       "word": "95后女孩用700天逆袭成普通人",
@@ -171,8 +195,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535754,
+      "num": 535754,
+      "word": "张小斐肌肉线条",
+      "onboard_time": 1705027349,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 531185,
-      "num": 258930,
+      "num": 273754,
       "word": "男子离婚后发现前妻不到7月就生娃",
       "onboard_time": 1705017086,
       "rank": 20,
@@ -233,6 +265,14 @@
       "onboard_time": 1704984153,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 393388,
+      "num": 393388,
+      "word": "路人把谢娜认成了林心如",
+      "onboard_time": 1705027168,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 366584,
@@ -299,12 +339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272540,
+      "num": 272540,
+      "word": "第二十条阵容海报",
+      "onboard_time": 1705026626,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 264763,
       "num": 264763,
       "word": "林心如小时候给刘德华写过信",
       "onboard_time": 1705018109,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254054,
+      "num": 254054,
+      "word": "董宇辉新号粉丝突破1000万",
+      "onboard_time": 1705028187,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 246909,
@@ -315,12 +371,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 246879,
-      "num": 246879,
-      "word": "第二十条阵容海报",
-      "onboard_time": 1705026626,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 246017,
+      "num": 246017,
+      "word": "陈绮贞与前男友合同纠纷案开庭",
+      "onboard_time": 1705028008,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 243781,
@@ -328,6 +384,14 @@
       "word": "母亲以死逼婚儿子结婚半年闪离",
       "onboard_time": 1704964531,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240307,
+      "num": 240307,
+      "word": "小熊猫离开尔滨临时妈妈哇哇大哭",
+      "onboard_time": 1705028008,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -387,6 +451,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 209469,
+      "num": 209469,
+      "word": "刘耀文首演电影",
+      "onboard_time": 1705028549,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 206730,
+      "num": 206730,
+      "word": "旅客称天府机场安检摆大字动作尴尬",
+      "onboard_time": 1705026208,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202642,
       "num": 202642,
       "word": "王楚钦3比0安宰贤",
@@ -411,11 +491,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196844,
-      "num": 196844,
-      "word": "旅客称天府机场安检摆大字动作尴尬",
-      "onboard_time": 1705026208,
-      "rank": 31,
+      "raw_hot": 188534,
+      "num": 1049123,
+      "word": "2024春运火车票今起开售",
+      "onboard_time": 1705028427,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -579,6 +659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149069,
+      "num": 149069,
+      "word": "电影第二十条定档",
+      "onboard_time": 1705028068,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 148968,
+      "num": 148968,
+      "word": "工作一年了你攒了多少钱",
+      "onboard_time": 1705029267,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144611,
       "num": 144611,
       "word": "杭州人在哈尔滨街头免费发草莓",
@@ -659,14 +755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 128135,
-      "num": 128135,
-      "word": "路人把谢娜认成了林心如",
-      "onboard_time": 1705027168,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127943,
       "num": 127943,
       "word": "新郎新娘大喜日子挨个给朋友把脉",
@@ -707,6 +795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 121589,
+      "num": 121589,
+      "word": "我有间歇性打扫卫生综合症",
+      "onboard_time": 1705027227,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117754,
       "num": 117754,
       "word": "章若楠酒窝",
@@ -721,14 +817,6 @@
       "onboard_time": 1705023508,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 114945,
-      "num": 114945,
-      "word": "我有间歇性打扫卫生综合症",
-      "onboard_time": 1705027227,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 109222,
@@ -787,6 +875,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105506,
+      "num": 105506,
+      "word": "台湾小当归要去尔滨回礼送糖",
+      "onboard_time": 1705029508,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102600,
+      "num": 102600,
+      "word": "王楚钦这一球牛得很",
+      "onboard_time": 1705029209,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99927,
       "num": 99927,
       "word": "洗发水中有什么成分是不好的",
@@ -833,6 +937,14 @@
       "onboard_time": 1704981572,
       "rank": 36,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 95752,
+      "num": 104198,
+      "word": "刘建宏说很遗憾被李铁蒙蔽",
+      "onboard_time": 1705029508,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 93985,
