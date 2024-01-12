@@ -1,0 +1,410 @@
+{
+  "runTime": 1705070080100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1578732,
+        "num": 1578732,
+        "word": "这居然是董子健",
+        "onboard_time": 1705065090,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1354075,
+        "num": 1354075,
+        "word": "亚洲最帅王子迎娶平民女孩",
+        "onboard_time": 1705068212,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60100,
+        "num": 1195109,
+        "word": "扛着大型快递飞天的天舟六号下班啦",
+        "onboard_time": 1705069231,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1175297,
+        "num": 1175297,
+        "word": "0713央视春晚彩排",
+        "onboard_time": 1705060410,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1048378,
+        "num": 1048378,
+        "word": "游本昌 年轻的朋友我永远陪伴你们",
+        "onboard_time": 1705059808,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 923029,
+        "num": 923029,
+        "word": "老师 我们家苏醒呢",
+        "onboard_time": 1705064672,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 779019,
+        "num": 779019,
+        "word": "丫丫回国后模样爆改",
+        "onboard_time": 1705061790,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747941,
+        "num": 747941,
+        "word": "关晓彤 我当时火就上来了",
+        "onboard_time": 1705060650,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 720538,
+        "num": 720538,
+        "word": "嘉年华没停过",
+        "onboard_time": 1705066712,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 526994,
+        "num": 526994,
+        "word": "关闭自动续费仍被扣费",
+        "onboard_time": 1705058007,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 761096,
+        "num": 526909,
+        "word": "这该不会是贾玲的胳膊吧",
+        "onboard_time": 1705044332,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38090,
+        "num": 526848,
+        "word": "为了吃好饭中国人有多认真",
+        "onboard_time": 1705062570,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679138,
+        "num": 526830,
+        "word": "胡歌肖战同框",
+        "onboard_time": 1705063831,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 526811,
+        "num": 526811,
+        "word": "明星出发微博之夜",
+        "onboard_time": 1705062689,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 461308,
+        "num": 461308,
+        "word": "也门",
+        "onboard_time": 1705062689,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 506652,
+        "num": 461224,
+        "word": "宋亚轩模仿易烊千玺",
+        "onboard_time": 1705068092,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460916,
+        "num": 460916,
+        "word": "与恶魔有约",
+        "onboard_time": 1705067132,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391082,
+        "num": 391082,
+        "word": "女子硬扛流感10天两个肺都白了",
+        "onboard_time": 1705038571,
+        "rank": 17,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 287433,
+        "num": 379831,
+        "word": "孙颖莎11比0",
+        "onboard_time": 1705059931,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26158,
+        "num": 374868,
+        "word": "欢迎入职白荆科技",
+        "onboard_time": 1705068933,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 374860,
+        "num": 374860,
+        "word": "睡觉中途醒了 不要看时间",
+        "onboard_time": 1705053449,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337379,
+        "num": 337379,
+        "word": "逃离大英博物馆获奖",
+        "onboard_time": 1705069293,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329850,
+        "num": 329850,
+        "word": "微博之夜嘉宾全阵容集结",
+        "onboard_time": 1705053810,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323701,
+        "num": 323701,
+        "word": "科兴",
+        "onboard_time": 1705060469,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 274059,
+        "num": 274059,
+        "word": "山河四省互不内卷条约结束",
+        "onboard_time": 1705068154,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 246932,
+        "num": 246932,
+        "word": "陈泽直播",
+        "onboard_time": 1705063289,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243071,
+        "num": 243071,
+        "word": "她不再是过去的赵丽颖",
+        "onboard_time": 1705057710,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235545,
+        "num": 235545,
+        "word": "杨幂说自己穿新中式被看到是荣幸",
+        "onboard_time": 1705059931,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226174,
+        "num": 226174,
+        "word": "西安市长安区发现一具男尸",
+        "onboard_time": 1705051532,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181828,
+        "num": 220341,
+        "word": "平顶山天安煤业十二矿发生事故",
+        "onboard_time": 1705067734,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215669,
+        "num": 215669,
+        "word": "不容易得癌的人都有这4个特质",
+        "onboard_time": 1705050147,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214272,
+        "num": 214272,
+        "word": "林俊杰 票来",
+        "onboard_time": 1705058848,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197815,
+        "num": 197815,
+        "word": "冬天统一穿搭",
+        "onboard_time": 1705069474,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 191190,
+        "num": 191190,
+        "word": "离职后老板叫我打扫他的办公室",
+        "onboard_time": 1705066772,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187687,
+        "num": 187687,
+        "word": "胡歌马伊琍唐嫣辛芷蕾合体",
+        "onboard_time": 1705050089,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171542,
+        "num": 171542,
+        "word": "春晚彩排",
+        "onboard_time": 1705062570,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170982,
+        "num": 170982,
+        "word": "沈腾希望贾玲回归王牌",
+        "onboard_time": 1705048290,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167172,
+        "num": 167172,
+        "word": "繁花官微发严正声明维权",
+        "onboard_time": 1705049911,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166399,
+        "num": 166399,
+        "word": "刘德华下个月就要去超市上班了",
+        "onboard_time": 1705069892,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163094,
+        "num": 163094,
+        "word": "当前A股市场估值水平已处于历史低位",
+        "onboard_time": 1705064490,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162754,
+        "num": 162754,
+        "word": "天蝎座的洞察力",
+        "onboard_time": 1705068993,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156054,
+        "num": 156054,
+        "word": "李权哲二公舞台super",
+        "onboard_time": 1705065812,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150929,
+        "num": 150929,
+        "word": "尤长靖 内娱轮回",
+        "onboard_time": 1705056930,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148882,
+        "num": 148882,
+        "word": "广州宝马撞人案正在死刑复核",
+        "onboard_time": 1705056930,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148780,
+        "num": 148780,
+        "word": "涉过愤怒的海",
+        "onboard_time": 1705064971,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140233,
+        "num": 140233,
+        "word": "繁花后劲太大了",
+        "onboard_time": 1705047929,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139882,
+        "num": 139882,
+        "word": "证监会正面回应A股估值",
+        "onboard_time": 1705067132,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138611,
+        "num": 138611,
+        "word": "CBA",
+        "onboard_time": 1705068812,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135993,
+        "num": 135993,
+        "word": "深圳街头有10个特殊银行只存食物",
+        "onboard_time": 1705064431,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131727,
+        "num": 131727,
+        "word": "微博最受欢迎游戏男角色",
+        "onboard_time": 1705069051,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见比利时首相#"
+    }
+  }
+}
