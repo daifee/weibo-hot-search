@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705055804013,
+  "endTime": 1705058130169,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -849,6 +849,14 @@
       "onboard_time": 1704037918,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1611349,
+      "num": 1611349,
+      "word": "睡觉中途醒了 不要看时间",
+      "onboard_time": 1705053449,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 1611259,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705014861,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1029811,
-      "num": 1029811,
-      "word": "辛芷蕾拍繁花学了两年舞蹈课",
-      "onboard_time": 1704248310,
-      "rank": 16,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
