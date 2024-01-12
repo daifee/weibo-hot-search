@@ -1,0 +1,410 @@
+{
+  "runTime": 1705063738127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1538751,
+        "num": 1538751,
+        "word": "关闭自动续费仍被扣费",
+        "onboard_time": 1705058007,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1490379,
+        "num": 1490379,
+        "word": "0713央视春晚彩排",
+        "onboard_time": 1705060410,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60385,
+        "num": 1220609,
+        "word": "我国新能源汽车产销连续九年世界第一",
+        "onboard_time": 1705050869,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1202199,
+        "num": 1202199,
+        "word": "关晓彤 我当时火就上来了",
+        "onboard_time": 1705060650,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 899553,
+        "num": 899553,
+        "word": "林俊杰 票来",
+        "onboard_time": 1705058848,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 820416,
+        "num": 820416,
+        "word": "微博之夜嘉宾全阵容集结",
+        "onboard_time": 1705053810,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 805579,
+        "num": 805579,
+        "word": "游本昌 年轻的朋友我永远陪伴你们",
+        "onboard_time": 1705059808,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 701615,
+        "num": 701615,
+        "word": "孙颖莎11比0",
+        "onboard_time": 1705059931,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 657219,
+        "num": 657219,
+        "word": "丫丫回国后模样爆改",
+        "onboard_time": 1705061790,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499369,
+        "num": 499369,
+        "word": "睡觉中途醒了 不要看时间",
+        "onboard_time": 1705053449,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 783863,
+        "num": 481184,
+        "word": "科兴",
+        "onboard_time": 1705060469,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 781957,
+        "num": 461059,
+        "word": "这该不会是贾玲的胳膊吧",
+        "onboard_time": 1705044332,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 555401,
+        "num": 440066,
+        "word": "明星出发微博之夜",
+        "onboard_time": 1705062689,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 541929,
+        "num": 408862,
+        "word": "春晚彩排",
+        "onboard_time": 1705062570,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385285,
+        "num": 385285,
+        "word": "广州宝马撞人案正在死刑复核",
+        "onboard_time": 1705056930,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527301,
+        "num": 384710,
+        "word": "她不再是过去的赵丽颖",
+        "onboard_time": 1705057710,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 454684,
+        "num": 383880,
+        "word": "杨幂说自己穿新中式被看到是荣幸",
+        "onboard_time": 1705059931,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381944,
+        "num": 381944,
+        "word": "女子硬扛流感10天两个肺都白了",
+        "onboard_time": 1705038571,
+        "rank": 17,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 371389,
+        "num": 371389,
+        "word": "来伊份直播",
+        "onboard_time": 1705062149,
+        "rank": 18,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 362793,
+        "num": 362793,
+        "word": "山东文旅 我姓东",
+        "onboard_time": 1705060047,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 320507,
+        "num": 320507,
+        "word": "河南文旅你们搞色诱啊",
+        "onboard_time": 1705062271,
+        "rank": 20,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 313656,
+        "num": 313656,
+        "word": "西安市长安区发现一具男尸",
+        "onboard_time": 1705051532,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302217,
+        "num": 302217,
+        "word": "也门",
+        "onboard_time": 1705062689,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 296156,
+        "num": 296156,
+        "word": "尤长靖 内娱轮回",
+        "onboard_time": 1705056930,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286753,
+        "num": 286753,
+        "word": "蛋仔派对 匹配不了",
+        "onboard_time": 1705062389,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257781,
+        "num": 257781,
+        "word": "陈泽直播",
+        "onboard_time": 1705063289,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251369,
+        "num": 251369,
+        "word": "不容易得癌的人都有这4个特质",
+        "onboard_time": 1705050147,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218185,
+        "num": 218185,
+        "word": "胡歌马伊琍唐嫣辛芷蕾合体",
+        "onboard_time": 1705050089,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212939,
+        "num": 212939,
+        "word": "2023年人民币存款增加25.74万亿元",
+        "onboard_time": 1705060950,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206661,
+        "num": 206661,
+        "word": "退休员工回应养老金曝光称感谢刘强东",
+        "onboard_time": 1705063710,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205296,
+        "num": 205296,
+        "word": "沈腾希望贾玲回归王牌",
+        "onboard_time": 1705048290,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201404,
+        "num": 201404,
+        "word": "王楚钦3比1莫雷加德",
+        "onboard_time": 1705062870,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199413,
+        "num": 199413,
+        "word": "央视镜头下的辛芷蕾",
+        "onboard_time": 1705058848,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192105,
+        "num": 192105,
+        "word": "孙颖莎3比0张本美和",
+        "onboard_time": 1705061850,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187486,
+        "num": 187486,
+        "word": "96岁父亲祝儿子70岁生日快乐",
+        "onboard_time": 1705062509,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182500,
+        "num": 182500,
+        "word": "林高远3比1张禹珍",
+        "onboard_time": 1705063171,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173035,
+        "num": 173035,
+        "word": "双鱼座最舒服的状态",
+        "onboard_time": 1705058792,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156552,
+        "num": 156552,
+        "word": "霉霉 世一",
+        "onboard_time": 1705052011,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155820,
+        "num": 155820,
+        "word": "女儿立二等功妈妈骄傲的表情藏不住",
+        "onboard_time": 1705051771,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153345,
+        "num": 153345,
+        "word": "国考 想看看分",
+        "onboard_time": 1705046248,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146058,
+        "num": 146058,
+        "word": "费加罗 边伯贤",
+        "onboard_time": 1705054288,
+        "rank": 40,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 139663,
+        "num": 139663,
+        "word": "王家卫为二刷观众调整繁花",
+        "onboard_time": 1705051290,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139306,
+        "num": 139306,
+        "word": "繁花官微发严正声明维权",
+        "onboard_time": 1705049911,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135428,
+        "num": 135428,
+        "word": "汪小姐的底色",
+        "onboard_time": 1705060827,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135182,
+        "num": 135182,
+        "word": "繁花后劲太大了",
+        "onboard_time": 1705047929,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192549,
+        "num": 134904,
+        "word": "肖战深V真空西装",
+        "onboard_time": 1705048948,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132753,
+        "num": 132753,
+        "word": "折腰补音完成",
+        "onboard_time": 1705049671,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131174,
+        "num": 131174,
+        "word": "人夫感是种什么感",
+        "onboard_time": 1705060891,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128291,
+        "num": 128291,
+        "word": "大侦探9演唱会定档",
+        "onboard_time": 1705055311,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124787,
+        "num": 124787,
+        "word": "周笔畅路过不小心带出了冠军",
+        "onboard_time": 1705062028,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业把群众冰雪运动热情保持下去#"
+    }
+  }
+}

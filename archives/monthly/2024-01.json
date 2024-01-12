@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705062797779,
+  "endTime": 1705063738127,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1795,6 +1795,14 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 1202199,
+      "num": 1202199,
+      "word": "关晓彤 我当时火就上来了",
+      "onboard_time": 1705060650,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1200317,
       "num": 1200317,
       "word": "王石有一个3岁女儿",
@@ -2715,14 +2723,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 968487,
-      "num": 968487,
-      "word": "关晓彤 我当时火就上来了",
-      "onboard_time": 1705060650,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 966875,
       "num": 966875,
       "word": "朱珠这衣服换我穿就是红秋衣",
@@ -3105,6 +3105,14 @@
       "onboard_time": 1704155318,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 899553,
+      "num": 899553,
+      "word": "林俊杰 票来",
+      "onboard_time": 1705058848,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 897873,
@@ -3515,14 +3523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 832495,
-      "num": 832495,
-      "word": "林俊杰 票来",
-      "onboard_time": 1705058848,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 831717,
       "num": 831717,
       "word": "警方通报高校干部酒后家暴打死妻子",
@@ -3737,6 +3737,14 @@
       "onboard_time": 1704244531,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 805579,
+      "num": 805579,
+      "word": "游本昌 年轻的朋友我永远陪伴你们",
+      "onboard_time": 1705059808,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 805080,
@@ -3961,6 +3969,14 @@
       "onboard_time": 1704207095,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 783863,
+      "num": 491127,
+      "word": "科兴",
+      "onboard_time": 1705060469,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 783392,
@@ -5307,14 +5323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 665532,
-      "num": 491380,
-      "word": "游本昌 年轻的朋友我永远陪伴你们",
-      "onboard_time": 1705059808,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 664808,
       "num": 1413177,
       "word": "第一次听到4岁女儿叫爸爸他哭了",
@@ -5400,6 +5408,14 @@
       "word": "在尔滨丢了身份证咋这么欢乐",
       "onboard_time": 1704430360,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657219,
+      "num": 657219,
+      "word": "丫丫回国后模样爆改",
+      "onboard_time": 1705061790,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -6411,14 +6427,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 580553,
-      "num": 491127,
-      "word": "科兴",
-      "onboard_time": 1705060469,
-      "rank": 12,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 579458,
       "num": 579458,
       "word": "法老不是要退圈吗",
@@ -6795,6 +6803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555401,
+      "num": 440066,
+      "word": "明星出发微博之夜",
+      "onboard_time": 1705062689,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 555372,
       "num": 555372,
       "word": "电台主持人发表争议言论后涨粉700多万",
@@ -7121,6 +7137,14 @@
       "onboard_time": 1704725612,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 541929,
+      "num": 408862,
+      "word": "春晚彩排",
+      "onboard_time": 1705062570,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 541904,
@@ -10539,14 +10563,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 374256,
-      "num": 374256,
-      "word": "丫丫回国后模样爆改",
-      "onboard_time": 1705061790,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374192,
       "num": 361273,
       "word": "宁波地铁偶遇卢昱晓",
@@ -10625,6 +10641,14 @@
       "onboard_time": 1704696569,
       "rank": 20,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 371389,
+      "num": 371389,
+      "word": "来伊份直播",
+      "onboard_time": 1705062149,
+      "rank": 19,
+      "category": "美食,艺人"
     },
     {
       "raw_hot": 371137,
@@ -10827,6 +10851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362793,
+      "num": 362793,
+      "word": "山东文旅 我姓东",
+      "onboard_time": 1705060047,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 362659,
       "num": 362659,
       "word": "5人跨年夜捡4小时烟花筒卖了9块",
@@ -11001,14 +11033,6 @@
       "onboard_time": 1704670945,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 353449,
-      "num": 353449,
-      "word": "山东文旅 我姓东",
-      "onboard_time": 1705060047,
-      "rank": 17,
-      "category": "旅游"
     },
     {
       "raw_hot": 353156,
@@ -11843,6 +11867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 320507,
+      "num": 320507,
+      "word": "河南文旅你们搞色诱啊",
+      "onboard_time": 1705062271,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 320385,
       "num": 320385,
       "word": "Switch烧录卡",
@@ -12483,6 +12515,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 302217,
+      "num": 302217,
+      "word": "也门",
+      "onboard_time": 1705062689,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 302169,
       "num": 302169,
       "word": "檀健次衣服不太懂事了",
@@ -12899,14 +12939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291103,
-      "num": 291103,
-      "word": "来伊份直播",
-      "onboard_time": 1705062149,
-      "rank": 19,
-      "category": "美食,艺人"
-    },
-    {
       "raw_hot": 291080,
       "num": 291080,
       "word": "陈都灵镜妖妆造",
@@ -13153,6 +13185,14 @@
       "onboard_time": 1704281191,
       "rank": 35,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 286753,
+      "num": 286753,
+      "word": "蛋仔派对 匹配不了",
+      "onboard_time": 1705062389,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 286623,
@@ -14337,6 +14377,14 @@
       "onboard_time": 1704197313,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 257781,
+      "num": 257781,
+      "word": "陈泽直播",
+      "onboard_time": 1705063289,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 257502,
@@ -16891,14 +16939,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 213318,
-      "num": 194540,
-      "word": "河南文旅你们搞色诱啊",
-      "onboard_time": 1705062271,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 212951,
       "num": 212951,
       "word": "非诚勿扰3 票房",
@@ -17515,6 +17555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 206661,
+      "num": 206661,
+      "word": "退休员工回应养老金曝光称感谢刘强东",
+      "onboard_time": 1705063710,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206292,
       "num": 206292,
       "word": "减肥哪有不疯的",
@@ -17859,14 +17907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203309,
-      "num": 203309,
-      "word": "春晚彩排",
-      "onboard_time": 1705062570,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203276,
       "num": 203276,
       "word": "nana tour",
@@ -18145,6 +18185,14 @@
       "onboard_time": 1704846272,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201404,
+      "num": 201404,
+      "word": "王楚钦3比1莫雷加德",
+      "onboard_time": 1705062870,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 201306,
@@ -18680,14 +18728,6 @@
       "word": "PUBG服务器",
       "onboard_time": 1704290017,
       "rank": 33,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 196808,
-      "num": 196808,
-      "word": "蛋仔派对 匹配不了",
-      "onboard_time": 1705062389,
-      "rank": 28,
       "category": "游戏"
     },
     {
@@ -19819,6 +19859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187486,
+      "num": 187486,
+      "word": "96岁父亲祝儿子70岁生日快乐",
+      "onboard_time": 1705062509,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187341,
       "num": 155623,
       "word": "偷偷跑回家见妈妈",
@@ -20417,6 +20465,14 @@
       "onboard_time": 1704957750,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182500,
+      "num": 182500,
+      "word": "林高远3比1张禹珍",
+      "onboard_time": 1705063171,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 182463,
@@ -21267,14 +21323,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 175089,
-      "num": 175089,
-      "word": "明星出发微博之夜",
-      "onboard_time": 1705062689,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 175066,
       "num": 175066,
       "word": "哈尔滨后劲太大了",
@@ -21595,6 +21643,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 173035,
+      "num": 173035,
+      "word": "双鱼座最舒服的状态",
+      "onboard_time": 1705058792,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172947,
       "num": 172947,
       "word": "DYG打响转会第一枪",
@@ -21609,14 +21665,6 @@
       "onboard_time": 1704202417,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 172773,
-      "num": 172773,
-      "word": "双鱼座最舒服的状态",
-      "onboard_time": 1705058792,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 172718,
@@ -22161,14 +22209,6 @@
       "onboard_time": 1704268409,
       "rank": 39,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 168222,
-      "num": 168222,
-      "word": "96岁父亲祝儿子70岁生日快乐",
-      "onboard_time": 1705062509,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168191,
@@ -25523,14 +25563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141451,
-      "num": 141451,
-      "word": "也门",
-      "onboard_time": 1705062689,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 141371,
       "num": 141371,
       "word": "欧文44分",
@@ -27865,6 +27897,14 @@
       "onboard_time": 1704532893,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 124787,
+      "num": 124787,
+      "word": "周笔畅路过不小心带出了冠军",
+      "onboard_time": 1705062028,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 124760,

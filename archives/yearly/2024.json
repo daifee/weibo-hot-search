@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705062797779,
+  "endTime": 1705063738127,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1795,6 +1795,14 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 1202199,
+      "num": 1202199,
+      "word": "关晓彤 我当时火就上来了",
+      "onboard_time": 1705060650,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1200317,
       "num": 1200317,
       "word": "王石有一个3岁女儿",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704430896,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1034650,
-      "num": 1034650,
-      "word": "繁花宝总全名叫什么",
-      "onboard_time": 1704378876,
-      "rank": 3,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
