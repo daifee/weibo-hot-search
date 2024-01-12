@@ -1,0 +1,410 @@
+{
+  "runTime": 1705026735906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1461871,
+        "num": 1461871,
+        "word": "老人女儿回应张馨予买气球",
+        "onboard_time": 1705020450,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1301736,
+        "num": 1301736,
+        "word": "爱泼斯坦让17岁少女陪侍安德鲁王子",
+        "onboard_time": 1705024825,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23090,
+        "num": 1083386,
+        "word": "关于全面推进美丽中国建设的意见",
+        "onboard_time": 1704974850,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 928886,
+        "num": 928886,
+        "word": "与辉同行因没东西卖停播一天",
+        "onboard_time": 1705022608,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 684101,
+        "num": 684101,
+        "word": "腾讯游戏致歉",
+        "onboard_time": 1705024708,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1361864,
+        "num": 678785,
+        "word": "官方回应大量河南学生中考移民至黑龙江",
+        "onboard_time": 1705022608,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 562653,
+        "num": 562653,
+        "word": "丫丫胖成了A字熊",
+        "onboard_time": 1705024528,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470218,
+        "num": 470218,
+        "word": "特斯拉降价",
+        "onboard_time": 1705021051,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 444682,
+        "num": 444682,
+        "word": "谢娜烤火鞋被烧了",
+        "onboard_time": 1705020151,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717913,
+        "num": 443654,
+        "word": "腾讯游戏全部断开",
+        "onboard_time": 1705014861,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 957024,
+        "num": 441958,
+        "word": "陈泽 一个亿",
+        "onboard_time": 1705016965,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 779735,
+        "num": 441821,
+        "word": "大一女生校内坠亡生前疑遭舍友辱骂",
+        "onboard_time": 1705017629,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437054,
+        "num": 437054,
+        "word": "贾玲健身教练发声",
+        "onboard_time": 1704968910,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 385708,
+        "num": 385708,
+        "word": "尔滨怎么不告诉我雪里能捡钱",
+        "onboard_time": 1705021770,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 366584,
+        "num": 366584,
+        "word": "拜登回应英美空袭也门",
+        "onboard_time": 1705022790,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 347647,
+        "num": 347647,
+        "word": "第一次见男主把女主吊起来哄睡",
+        "onboard_time": 1704988048,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307949,
+        "num": 307949,
+        "word": "上海地铁明确非日常服饰进站会阻拦",
+        "onboard_time": 1705017748,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417933,
+        "num": 294278,
+        "word": "医生谈贾玲整容式暴瘦",
+        "onboard_time": 1704968250,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271981,
+        "num": 271981,
+        "word": "北京正式发布春节放假安排",
+        "onboard_time": 1705018829,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224914,
+        "num": 224914,
+        "word": "腾讯游戏网络恢复",
+        "onboard_time": 1705026390,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44696,
+        "num": 219153,
+        "word": "白荆玩家精神状态",
+        "onboard_time": 1705024528,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 386793,
+        "num": 219139,
+        "word": "男子离婚后发现前妻不到7月就生娃",
+        "onboard_time": 1705017086,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218993,
+        "num": 218993,
+        "word": "梨形身材的脂肪长对了地方",
+        "onboard_time": 1705018890,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196832,
+        "num": 196832,
+        "word": "丽挽狂岚上大分",
+        "onboard_time": 1705022549,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193696,
+        "num": 193696,
+        "word": "国产三蹦子在国外炸街了",
+        "onboard_time": 1705016844,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184025,
+        "num": 184025,
+        "word": "女生宿舍一般不会总是聊男生",
+        "onboard_time": 1705022968,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179741,
+        "num": 179741,
+        "word": "心疼梁祯元",
+        "onboard_time": 1705023986,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170139,
+        "num": 170139,
+        "word": "减肥成功的人都经历过什么",
+        "onboard_time": 1705021171,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 169982,
+        "num": 169982,
+        "word": "繁花爷叔38年前在杭州拍济公时好帅",
+        "onboard_time": 1705023151,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151712,
+        "num": 151712,
+        "word": "CBA裁判与球员冲突",
+        "onboard_time": 1705026147,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189269,
+        "num": 151230,
+        "word": "第二十条阵容海报",
+        "onboard_time": 1705026626,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146703,
+        "num": 146703,
+        "word": "旅客称天府机场安检摆大字动作尴尬",
+        "onboard_time": 1705026208,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139199,
+        "num": 139199,
+        "word": "英美联合空袭也门",
+        "onboard_time": 1705017748,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 137890,
+        "num": 137890,
+        "word": "女兵二等功牌匾送到家妈妈激动又骄傲",
+        "onboard_time": 1705025248,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137677,
+        "num": 137677,
+        "word": "农妇卖150份粉蒸肉被判赔5万撤销原判",
+        "onboard_time": 1704988288,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137204,
+        "num": 137204,
+        "word": "昆凌育儿观",
+        "onboard_time": 1705024227,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136050,
+        "num": 136050,
+        "word": "赵丽颖第二十条",
+        "onboard_time": 1704984153,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135854,
+        "num": 135854,
+        "word": "网友和鹿晗当队友的又一天",
+        "onboard_time": 1705014259,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135188,
+        "num": 135188,
+        "word": "95后女孩用700天逆袭成普通人",
+        "onboard_time": 1704986610,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132466,
+        "num": 132466,
+        "word": "刘雅瑟饰演刘德华老婆被全员羡慕",
+        "onboard_time": 1705023269,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130214,
+        "num": 130214,
+        "word": "原来玲子和宝总的杯子有那么多讲究",
+        "onboard_time": 1704982652,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112837,
+        "num": 112837,
+        "word": "李李的皮草",
+        "onboard_time": 1705018290,
+        "rank": 41,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 107535,
+        "num": 107535,
+        "word": "老板一旦交给你额外工作",
+        "onboard_time": 1705024408,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102302,
+        "num": 102302,
+        "word": "母亲以死逼婚儿子结婚半年闪离",
+        "onboard_time": 1704964531,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101340,
+        "num": 101340,
+        "word": "林心如小时候给刘德华写过信",
+        "onboard_time": 1705018109,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100617,
+        "num": 100617,
+        "word": "A股再现天价离婚女方分走40亿",
+        "onboard_time": 1704983551,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 99927,
+        "num": 99927,
+        "word": "洗发水中有什么成分是不好的",
+        "onboard_time": 1705023749,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 99855,
+        "num": 99855,
+        "word": "体脂率才是最诚实的胖瘦指标",
+        "onboard_time": 1705014199,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93525,
+        "num": 93525,
+        "word": "杭州人在哈尔滨街头免费发草莓",
+        "onboard_time": 1705026329,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90215,
+        "num": 90215,
+        "word": "53岁大叔文笔太美被称早餐界余华",
+        "onboard_time": 1705021770,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎马尔代夫总统访华#"
+    }
+  }
+}
