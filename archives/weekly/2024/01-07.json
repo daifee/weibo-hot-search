@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1705037661380,
+  "endTime": 1705040635417,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -81,6 +81,14 @@
       "onboard_time": 1704624691,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2518885,
+      "num": 2518885,
+      "word": "张继科复出",
+      "onboard_time": 1705038752,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2453920,
@@ -225,6 +233,14 @@
       "onboard_time": 1704863372,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1744879,
+      "num": 1744879,
+      "word": "女子硬扛流感10天两个肺都白了",
+      "onboard_time": 1705038571,
+      "rank": 1,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1740529,
@@ -1155,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 955184,
+      "num": 955184,
+      "word": "山东省考出分",
+      "onboard_time": 1705040070,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 954536,
       "num": 954536,
       "word": "哈尔滨的白狐已经熬出黑眼圈",
@@ -1452,7 +1476,7 @@
     },
     {
       "raw_hot": 826774,
-      "num": 288037,
+      "num": 317188,
       "word": "大脑为何要删除3岁前的记忆",
       "onboard_time": 1705030890,
       "rank": 20,
@@ -1651,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 783807,
+      "num": 783807,
+      "word": "北大校花毕业10年返乡卖臭豆腐",
+      "onboard_time": 1705038027,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 783392,
       "num": 783392,
       "word": "刘亦菲戴面纱",
@@ -1728,6 +1760,14 @@
       "word": "男子打不着火被网友提醒房间缺氧",
       "onboard_time": 1704816569,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 754852,
+      "num": 754852,
+      "word": "反诈网红幸卫林被抓",
+      "onboard_time": 1705036592,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2033,6 +2073,14 @@
       "onboard_time": 1704690874,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710826,
+      "num": 710826,
+      "word": "王家卫说女孩晚上拍最美",
+      "onboard_time": 1705035873,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 706715,
@@ -4187,6 +4235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 427654,
+      "num": 427654,
+      "word": "韩莹 跟腱断裂",
+      "onboard_time": 1705037429,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 427633,
       "num": 427633,
       "word": "繁花明天大结局",
@@ -4412,7 +4468,7 @@
     },
     {
       "raw_hot": 410152,
-      "num": 262406,
+      "num": 314931,
       "word": "爸爸抱身高1米45儿子逛街",
       "onboard_time": 1705035153,
       "rank": 21,
@@ -4667,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379347,
+      "num": 379347,
+      "word": "唐嫣风中含泪写真",
+      "onboard_time": 1705038329,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 379221,
       "num": 379221,
       "word": "看 你的教资合格证",
@@ -4883,6 +4947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 359584,
+      "num": 359584,
+      "word": "第二十条电影发布会直播",
+      "onboard_time": 1705039890,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 358428,
       "num": 358428,
       "word": "乌克兰军方称乌全境拉响防空警报",
@@ -4907,20 +4979,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355129,
+      "num": 355129,
+      "word": "韩国娱乐圈为李善均召开记者发布会",
+      "onboard_time": 1705039112,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354451,
       "num": 354451,
       "word": "游本昌51到90岁荧幕变化",
       "onboard_time": 1704670945,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 354267,
-      "num": 354267,
-      "word": "王家卫说女孩晚上拍最美",
-      "onboard_time": 1705035873,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 353002,
@@ -4937,14 +5009,6 @@
       "onboard_time": 1704867332,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 352016,
-      "num": 352016,
-      "word": "反诈网红幸卫林被抓",
-      "onboard_time": 1705036592,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351603,
@@ -5329,6 +5393,14 @@
       "onboard_time": 1704944792,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319272,
+      "num": 319272,
+      "word": "孟子义嘴上说不行身体却很诚实",
+      "onboard_time": 1705037849,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 319253,
@@ -6091,6 +6163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270809,
+      "num": 270809,
+      "word": "也门遭空袭",
+      "onboard_time": 1705040130,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 269399,
       "num": 269399,
       "word": "3好友吃自助为速煮螃蟹1人坐1桌",
@@ -6777,6 +6857,14 @@
       "onboard_time": 1704795512,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 236252,
+      "num": 236252,
+      "word": "中国电视剧年度盛典直播",
+      "onboard_time": 1705039532,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 235785,
@@ -8820,7 +8908,7 @@
     },
     {
       "raw_hot": 188534,
-      "num": 1224301,
+      "num": 1260885,
       "word": "2024春运火车票今起开售",
       "onboard_time": 1705028427,
       "rank": 2,
@@ -9379,6 +9467,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 178610,
+      "num": 178610,
+      "word": "原神非遗",
+      "onboard_time": 1705039411,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178551,
       "num": 178551,
       "word": "翻译招聘和工作中常见的专有名词",
@@ -9697,14 +9793,6 @@
       "onboard_time": 1704633153,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 172993,
-      "num": 172993,
-      "word": "韩莹 跟腱断裂",
-      "onboard_time": 1705037429,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 172243,
@@ -10281,6 +10369,14 @@
       "onboard_time": 1704809735,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163107,
+      "num": 163107,
+      "word": "张万森下雪了 屈楚萧的i人地狱",
+      "onboard_time": 1705039289,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 162880,
@@ -11003,6 +11099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152188,
+      "num": 152188,
+      "word": "白荆回廊",
+      "onboard_time": 1705038870,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152142,
       "num": 152142,
       "word": "终于关掉烦人的自动更新了",
@@ -11227,12 +11331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147759,
+      "num": 147759,
+      "word": "新兰什么时候结婚",
+      "onboard_time": 1705039469,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 147445,
       "num": 147445,
       "word": "OPPO Find X7价格",
       "onboard_time": 1704704131,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 147291,
+      "num": 147291,
+      "word": "星穹铁道真理医生",
+      "onboard_time": 1705040249,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 147223,
@@ -11569,6 +11689,14 @@
       "onboard_time": 1704770972,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142292,
+      "num": 188832,
+      "word": "警号062395重启",
+      "onboard_time": 1705037429,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142200,
@@ -12147,6 +12275,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 132920,
+      "num": 132920,
+      "word": "河北75岁老干部举报县委书记后被刑拘",
+      "onboard_time": 1705040430,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132744,
       "num": 132744,
       "word": "什么时候真的觉得大学好呢",
@@ -12587,6 +12723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127910,
+      "num": 127910,
+      "word": "樊振东也喜欢库里",
+      "onboard_time": 1705039112,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127733,
       "num": 127733,
       "word": "张凌赫别太苏了",
@@ -12880,14 +13024,6 @@
       "word": "混血萌娃说不喜欢被叫外国人",
       "onboard_time": 1704979531,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124162,
-      "num": 124162,
-      "word": "警号062395重启",
-      "onboard_time": 1705037429,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -13507,12 +13643,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113570,
+      "num": 113570,
+      "word": "太阳战胜湖人",
+      "onboard_time": 1705040611,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113036,
       "num": 113036,
       "word": "黑龙江蔓越莓回抱广西砂糖橘",
       "onboard_time": 1704628891,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112805,
+      "num": 112805,
+      "word": "白鹿黄龄同框拍摄路透",
+      "onboard_time": 1705037791,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 112568,

@@ -1,7 +1,15 @@
 {
   "startTime": 1704990232348,
-  "endTime": 1705037661380,
+  "endTime": 1705040635417,
   "band_list": [
+    {
+      "raw_hot": 2518885,
+      "num": 2518885,
+      "word": "张继科复出",
+      "onboard_time": 1705038752,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 1936072,
       "num": 1936072,
@@ -9,6 +17,14 @@
       "onboard_time": 1705028849,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1744879,
+      "num": 1744879,
+      "word": "女子硬扛流感10天两个肺都白了",
+      "onboard_time": 1705038571,
+      "rank": 1,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1687177,
@@ -131,6 +147,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 955184,
+      "num": 955184,
+      "word": "山东省考出分",
+      "onboard_time": 1705040070,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 928886,
       "num": 928886,
       "word": "与辉同行因没东西卖停播一天",
@@ -164,11 +188,19 @@
     },
     {
       "raw_hot": 826774,
-      "num": 288037,
+      "num": 317188,
       "word": "大脑为何要删除3岁前的记忆",
       "onboard_time": 1705030890,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 783807,
+      "num": 783807,
+      "word": "北大校花毕业10年返乡卖臭豆腐",
+      "onboard_time": 1705038027,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 764554,
@@ -177,6 +209,22 @@
       "onboard_time": 1705035990,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 754852,
+      "num": 754852,
+      "word": "反诈网红幸卫林被抓",
+      "onboard_time": 1705036592,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710826,
+      "num": 710826,
+      "word": "王家卫说女孩晚上拍最美",
+      "onboard_time": 1705035873,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 698415,
@@ -363,12 +411,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427654,
+      "num": 427654,
+      "word": "韩莹 跟腱断裂",
+      "onboard_time": 1705037429,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 410152,
-      "num": 262406,
+      "num": 314931,
       "word": "爸爸抱身高1米45儿子逛街",
       "onboard_time": 1705035153,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379347,
+      "num": 379347,
+      "word": "唐嫣风中含泪写真",
+      "onboard_time": 1705038329,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 372152,
@@ -411,20 +475,20 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 354267,
-      "num": 354267,
-      "word": "王家卫说女孩晚上拍最美",
-      "onboard_time": 1705035873,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 359584,
+      "num": 359584,
+      "word": "第二十条电影发布会直播",
+      "onboard_time": 1705039890,
+      "rank": 16,
+      "category": "电影"
     },
     {
-      "raw_hot": 352016,
-      "num": 352016,
-      "word": "反诈网红幸卫林被抓",
-      "onboard_time": 1705036592,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 355129,
+      "num": 355129,
+      "word": "韩国娱乐圈为李善均召开记者发布会",
+      "onboard_time": 1705039112,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 342703,
@@ -449,6 +513,14 @@
       "onboard_time": 1705029929,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 319272,
+      "num": 319272,
+      "word": "孟子义嘴上说不行身体却很诚实",
+      "onboard_time": 1705037849,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 318278,
@@ -513,6 +585,14 @@
       "onboard_time": 1705026626,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 270809,
+      "num": 270809,
+      "word": "也门遭空袭",
+      "onboard_time": 1705040130,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 264763,
@@ -593,6 +673,14 @@
       "onboard_time": 1705035271,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 236252,
+      "num": 236252,
+      "word": "中国电视剧年度盛典直播",
+      "onboard_time": 1705039532,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 235627,
@@ -780,7 +868,7 @@
     },
     {
       "raw_hot": 188534,
-      "num": 1224301,
+      "num": 1260885,
       "word": "2024春运火车票今起开售",
       "onboard_time": 1705028427,
       "rank": 2,
@@ -809,6 +897,14 @@
       "onboard_time": 1704972511,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178610,
+      "num": 178610,
+      "word": "原神非遗",
+      "onboard_time": 1705039411,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 177149,
@@ -857,14 +953,6 @@
       "onboard_time": 1705018290,
       "rank": 29,
       "category": "剧集,时尚"
-    },
-    {
-      "raw_hot": 172993,
-      "num": 172993,
-      "word": "韩莹 跟腱断裂",
-      "onboard_time": 1705037429,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 171081,
@@ -923,6 +1011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163107,
+      "num": 163107,
+      "word": "张万森下雪了 屈楚萧的i人地狱",
+      "onboard_time": 1705039289,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162587,
       "num": 162587,
       "word": "人社局回应郑云龙入职人艺",
@@ -961,6 +1057,14 @@
       "onboard_time": 1705021770,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152188,
+      "num": 152188,
+      "word": "白荆回廊",
+      "onboard_time": 1705038870,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 149824,
@@ -1003,6 +1107,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147759,
+      "num": 147759,
+      "word": "新兰什么时候结婚",
+      "onboard_time": 1705039469,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 147291,
+      "num": 147291,
+      "word": "星穹铁道真理医生",
+      "onboard_time": 1705040249,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145339,
       "num": 145339,
       "word": "一句话毁掉打工人的一天",
@@ -1025,6 +1145,14 @@
       "onboard_time": 1704980610,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142292,
+      "num": 188832,
+      "word": "警号062395重启",
+      "onboard_time": 1705037429,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141371,
@@ -1123,6 +1251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132920,
+      "num": 132920,
+      "word": "河北75岁老干部举报县委书记后被刑拘",
+      "onboard_time": 1705040430,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129107,
       "num": 129107,
       "word": "尔滨亲友团有多强大",
@@ -1137,6 +1273,14 @@
       "onboard_time": 1704990565,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127910,
+      "num": 127910,
+      "word": "樊振东也喜欢库里",
+      "onboard_time": 1705039112,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 127435,
@@ -1169,14 +1313,6 @@
       "onboard_time": 1704974009,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124162,
-      "num": 124162,
-      "word": "警号062395重启",
-      "onboard_time": 1705037429,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122021,
@@ -1233,6 +1369,22 @@
       "onboard_time": 1705029209,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113570,
+      "num": 113570,
+      "word": "太阳战胜湖人",
+      "onboard_time": 1705040611,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112805,
+      "num": 112805,
+      "word": "白鹿黄龄同框拍摄路透",
+      "onboard_time": 1705037791,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 109840,
