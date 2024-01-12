@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705029544350,
+  "endTime": 1705030464901,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1704856531,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1448953,
+      "num": 1448953,
+      "word": "赵丽颖微博文案是手语",
+      "onboard_time": 1705028849,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 1447854,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704085773,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 999229,
-      "num": 999229,
-      "word": "藏海传 路透",
-      "onboard_time": 1704529412,
-      "rank": 7,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
