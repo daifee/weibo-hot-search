@@ -1,0 +1,410 @@
+{
+  "runTime": 1705048565144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2147067,
+        "num": 2147067,
+        "word": "这该不会是贾玲的胳膊吧",
+        "onboard_time": 1705044332,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 983966,
+        "num": 983966,
+        "word": "女子硬扛流感10天两个肺都白了",
+        "onboard_time": 1705038571,
+        "rank": 1,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 51698,
+        "num": 768377,
+        "word": "2024春运火车票今起开售",
+        "onboard_time": 1705028427,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715276,
+        "num": 715276,
+        "word": "俱乐部回应张继科出任技术顾问",
+        "onboard_time": 1705044149,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 714621,
+        "num": 714621,
+        "word": "尔滨一麻辣烫店高挂免战牌",
+        "onboard_time": 1705045950,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610592,
+        "num": 610592,
+        "word": "张艺谋夸奖赵丽颖",
+        "onboard_time": 1705044387,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 577048,
+        "num": 577048,
+        "word": "国考 想看看分",
+        "onboard_time": 1705046248,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 542452,
+        "num": 542452,
+        "word": "我叫毛利小五郎 是个针探",
+        "onboard_time": 1705046609,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 470645,
+        "num": 470645,
+        "word": "外交部回应美英空袭也门胡塞武装",
+        "onboard_time": 1705046069,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 464837,
+        "num": 464837,
+        "word": "本以为甄嬛传掀不起什么风浪了",
+        "onboard_time": 1705045887,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463965,
+        "num": 463965,
+        "word": "吴谢宇看守所写道歉信",
+        "onboard_time": 1705046427,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438256,
+        "num": 438256,
+        "word": "王家卫说女孩晚上拍最美",
+        "onboard_time": 1705035873,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402752,
+        "num": 402752,
+        "word": "2024春节档已官宣六部电影",
+        "onboard_time": 1705033173,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356662,
+        "num": 356662,
+        "word": "沈腾希望贾玲回归王牌",
+        "onboard_time": 1705048290,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73201,
+        "num": 332483,
+        "word": "内蒙喜宴走的是奶香风",
+        "onboard_time": 1705046427,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 331807,
+        "num": 331807,
+        "word": "北大校花毕业10年返乡卖臭豆腐",
+        "onboard_time": 1705038027,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323550,
+        "num": 323550,
+        "word": "陈泽 一个亿",
+        "onboard_time": 1705016965,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294813,
+        "num": 294813,
+        "word": "赵丽颖微博文案是手语",
+        "onboard_time": 1705028849,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265310,
+        "num": 265310,
+        "word": "杨幂现身龙年春晚彩排",
+        "onboard_time": 1705042170,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243777,
+        "num": 243777,
+        "word": "东北大哥12年手撕万片纸尿裤",
+        "onboard_time": 1705043069,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311992,
+        "num": 239101,
+        "word": "大脑为何要删除3岁前的记忆",
+        "onboard_time": 1705030890,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 244388,
+        "num": 235184,
+        "word": "马伊琍的名字竟然被叫错了",
+        "onboard_time": 1705047268,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227385,
+        "num": 227385,
+        "word": "什刹海F3",
+        "onboard_time": 1705047449,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226723,
+        "num": 226723,
+        "word": "可爱短甲",
+        "onboard_time": 1705047510,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 224539,
+        "num": 224539,
+        "word": "乡村艺术家与300只猫同吃住",
+        "onboard_time": 1705047631,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218745,
+        "num": 218745,
+        "word": "繁花后劲太大了",
+        "onboard_time": 1705047929,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214140,
+        "num": 214140,
+        "word": "爸爸抱身高1米45儿子逛街",
+        "onboard_time": 1705035153,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204435,
+        "num": 204435,
+        "word": "父亲瓷娃娃般照顾抑郁症女儿",
+        "onboard_time": 1705047869,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202670,
+        "num": 202670,
+        "word": "热辣滚烫预告 李焕英回眸",
+        "onboard_time": 1705035990,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190398,
+        "num": 190398,
+        "word": "张艺谋评价刘耀文",
+        "onboard_time": 1705047449,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189946,
+        "num": 189946,
+        "word": "王鹤棣多起告黑案将开庭",
+        "onboard_time": 1705046848,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189137,
+        "num": 189137,
+        "word": "山东省考出分",
+        "onboard_time": 1705040070,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187115,
+        "num": 187115,
+        "word": "中国电视剧年度盛典直播",
+        "onboard_time": 1705039532,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185539,
+        "num": 185539,
+        "word": "俱乐部回应称张继科暂时只教孩子",
+        "onboard_time": 1705047027,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179281,
+        "num": 179281,
+        "word": "日本福岛百人因吃生鱼片食物中毒",
+        "onboard_time": 1705031011,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172975,
+        "num": 172975,
+        "word": "中专生逆袭大学教授后带火冷门专业",
+        "onboard_time": 1705044869,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170981,
+        "num": 170981,
+        "word": "刘诗诗红裙麻花辫",
+        "onboard_time": 1705046488,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164264,
+        "num": 164264,
+        "word": "反诈网红幸卫林被抓",
+        "onboard_time": 1705036592,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110723,
+        "num": 154587,
+        "word": "韩莹 跟腱断裂",
+        "onboard_time": 1705037429,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153826,
+        "num": 153826,
+        "word": "陈哲远白色橄榄树杀青",
+        "onboard_time": 1705045649,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150586,
+        "num": 150586,
+        "word": "狗狗被说起太早后逐渐失落",
+        "onboard_time": 1705042830,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140784,
+        "num": 140784,
+        "word": "微博之夜交换礼物",
+        "onboard_time": 1705044628,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133745,
+        "num": 133745,
+        "word": "王一博提名亚洲电影大奖最佳新演员",
+        "onboard_time": 1705048468,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127875,
+        "num": 127875,
+        "word": "台湾小当归要去尔滨回礼送糖",
+        "onboard_time": 1705029508,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127558,
+        "num": 127558,
+        "word": "女子继承千万欧元遗产想找50个人帮忙花",
+        "onboard_time": 1705032389,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126546,
+        "num": 126546,
+        "word": "汪苏泷魏如萱 尴尬社交",
+        "onboard_time": 1705048468,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125455,
+        "num": 125455,
+        "word": "婆婆熬了多少我们该熬的夜",
+        "onboard_time": 1705033471,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1462633,
+        "num": 123898,
+        "word": "张继科复出",
+        "onboard_time": 1705038752,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120592,
+        "num": 120592,
+        "word": "浙江省考 看看人家",
+        "onboard_time": 1705048468,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119478,
+        "num": 119478,
+        "word": "朴宰范泼墨舞台",
+        "onboard_time": 1705047148,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业把群众冰雪运动热情保持下去#"
+    }
+  }
+}
