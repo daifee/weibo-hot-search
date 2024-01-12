@@ -1,6 +1,6 @@
 {
   "startTime": 1704990232348,
-  "endTime": 1705058130169,
+  "endTime": 1705059241998,
   "band_list": [
     {
       "raw_hot": 2698087,
@@ -283,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 760909,
+      "num": 760909,
+      "word": "尤长靖 内娱轮回",
+      "onboard_time": 1705056930,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 754852,
       "num": 754852,
       "word": "反诈网红幸卫林被抓",
@@ -353,6 +361,14 @@
       "onboard_time": 1705044387,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 669845,
+      "num": 669845,
+      "word": "关闭自动续费仍被扣费",
+      "onboard_time": 1705058007,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 656936,
@@ -571,14 +587,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 462879,
-      "num": 462879,
-      "word": "尤长靖 内娱轮回",
-      "onboard_time": 1705056930,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 454436,
       "num": 454436,
       "word": "梨形身材是最健康身材",
@@ -713,6 +721,14 @@
       "onboard_time": 1705022790,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 366187,
+      "num": 366187,
+      "word": "她不再是过去的赵丽颖",
+      "onboard_time": 1705057710,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 366146,
@@ -867,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298700,
+      "num": 298700,
+      "word": "广州宝马撞人案正在死刑复核",
+      "onboard_time": 1705056930,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292334,
       "num": 292334,
       "word": "乐莹玲",
@@ -985,6 +1009,14 @@
       "onboard_time": 1705028187,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 249950,
+      "num": 212559,
+      "word": "央视镜头下的辛芷蕾",
+      "onboard_time": 1705058848,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 249453,
@@ -1179,6 +1211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216625,
+      "num": 205390,
+      "word": "林俊杰 票来",
+      "onboard_time": 1705058848,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 216537,
       "num": 216537,
       "word": "赵丽颖的哭戏镜头",
@@ -1361,14 +1401,6 @@
       "onboard_time": 1705040611,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194684,
-      "num": 175248,
-      "word": "她不再是过去的赵丽颖",
-      "onboard_time": 1705057710,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 192417,
@@ -1619,12 +1651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166385,
+      "num": 166385,
+      "word": "楚后 影视化",
+      "onboard_time": 1705057110,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 164869,
       "num": 164869,
       "word": "索菲亚广场小学生齐奏我和我的祖国",
       "onboard_time": 1705040788,
       "rank": 34,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 164371,
+      "num": 164371,
+      "word": "山东一公司给员工父母发260万孝心基金",
+      "onboard_time": 1705058310,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164356,
@@ -1673,14 +1721,6 @@
       "onboard_time": 1705020151,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159342,
-      "num": 159342,
-      "word": "关闭自动续费仍被扣费",
-      "onboard_time": 1705058007,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 158341,
@@ -1811,14 +1851,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 147339,
-      "num": 147339,
-      "word": "广州宝马撞人案正在死刑复核",
-      "onboard_time": 1705056930,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147291,
       "num": 147291,
       "word": "星穹铁道真理医生",
@@ -1865,6 +1897,14 @@
       "onboard_time": 1705026329,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143647,
+      "num": 143647,
+      "word": "双鱼座最舒服的状态",
+      "onboard_time": 1705058792,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 143099,
@@ -1937,6 +1977,14 @@
       "onboard_time": 1705041447,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138291,
+      "num": 138291,
+      "word": "普陀山通报外籍游客盗取贡钱",
+      "onboard_time": 1705058729,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137890,
@@ -2049,6 +2097,14 @@
       "onboard_time": 1705037011,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 125563,
+      "num": 125563,
+      "word": "在我们村报我名字没人知道",
+      "onboard_time": 1705058610,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 125512,
@@ -2169,6 +2225,22 @@
       "onboard_time": 1705040848,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114366,
+      "num": 114366,
+      "word": "庞博 好会说的一张嘴",
+      "onboard_time": 1705058251,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113501,
+      "num": 113501,
+      "word": "数据显示深圳居通勤幸福感之首",
+      "onboard_time": 1705059150,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112805,
@@ -2601,6 +2673,14 @@
       "onboard_time": 1705001354,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 16735,
+      "num": 173466,
+      "word": "寅子女流苦学数理化",
+      "onboard_time": 1705058251,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 16272,

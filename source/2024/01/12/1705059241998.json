@@ -1,0 +1,410 @@
+{
+  "runTime": 1705059241998,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1609170,
+        "num": 1609170,
+        "word": "睡觉中途醒了 不要看时间",
+        "onboard_time": 1705053449,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 477865,
+        "num": 1236702,
+        "word": "女儿立二等功妈妈骄傲的表情藏不住",
+        "onboard_time": 1705051771,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61226,
+        "num": 1096949,
+        "word": "我国新能源汽车产销连续九年世界第一",
+        "onboard_time": 1705050869,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 960256,
+        "num": 960256,
+        "word": "微博之夜嘉宾全阵容集结",
+        "onboard_time": 1705053810,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311248,
+        "num": 838246,
+        "word": "父亲瓷娃娃般照顾抑郁症女儿",
+        "onboard_time": 1705047869,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760909,
+        "num": 760909,
+        "word": "尤长靖 内娱轮回",
+        "onboard_time": 1705056930,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238163,
+        "num": 698745,
+        "word": "川川把自己的心尖尖送给尔滨",
+        "onboard_time": 1705050811,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669845,
+        "num": 669845,
+        "word": "关闭自动续费仍被扣费",
+        "onboard_time": 1705058007,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 542099,
+        "num": 542099,
+        "word": "费加罗 边伯贤",
+        "onboard_time": 1705054288,
+        "rank": 8,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 505111,
+        "num": 505111,
+        "word": "霉霉 世一",
+        "onboard_time": 1705052011,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1076936,
+        "num": 492718,
+        "word": "这该不会是贾玲的胳膊吧",
+        "onboard_time": 1705044332,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 653138,
+        "num": 481744,
+        "word": "女子硬扛流感10天两个肺都白了",
+        "onboard_time": 1705038571,
+        "rank": 11,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 422022,
+        "num": 422022,
+        "word": "西安市长安区发现一具男尸",
+        "onboard_time": 1705051532,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408391,
+        "num": 408391,
+        "word": "王家卫为二刷观众调整繁花",
+        "onboard_time": 1705051290,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366187,
+        "num": 366187,
+        "word": "她不再是过去的赵丽颖",
+        "onboard_time": 1705057710,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381805,
+        "num": 365834,
+        "word": "沈腾希望贾玲回归王牌",
+        "onboard_time": 1705048290,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364723,
+        "num": 364723,
+        "word": "大侦探9演唱会定档",
+        "onboard_time": 1705055311,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323436,
+        "num": 323436,
+        "word": "尔滨一麻辣烫店高挂免战牌",
+        "onboard_time": 1705045950,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308537,
+        "num": 308537,
+        "word": "胡歌马伊琍唐嫣辛芷蕾合体",
+        "onboard_time": 1705050089,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298700,
+        "num": 298700,
+        "word": "广州宝马撞人案正在死刑复核",
+        "onboard_time": 1705056930,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291166,
+        "num": 291166,
+        "word": "折腰补音完成",
+        "onboard_time": 1705049671,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280352,
+        "num": 280352,
+        "word": "不容易得癌的人都有这4个特质",
+        "onboard_time": 1705050147,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218072,
+        "num": 218072,
+        "word": "张艺谋夸奖赵丽颖",
+        "onboard_time": 1705044387,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249950,
+        "num": 212559,
+        "word": "央视镜头下的辛芷蕾",
+        "onboard_time": 1705058848,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206727,
+        "num": 206727,
+        "word": "国考 想看看分",
+        "onboard_time": 1705046248,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216625,
+        "num": 205390,
+        "word": "林俊杰 票来",
+        "onboard_time": 1705058848,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209405,
+        "num": 204826,
+        "word": "杨超越求浪姐别邀请她",
+        "onboard_time": 1705053629,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202560,
+        "num": 202560,
+        "word": "肖战深V真空西装",
+        "onboard_time": 1705048948,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176128,
+        "num": 176128,
+        "word": "周鸿祎大赞董宇辉",
+        "onboard_time": 1705057288,
+        "rank": 28,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 16735,
+        "num": 173466,
+        "word": "寅子女流苦学数理化",
+        "onboard_time": 1705058251,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189072,
+        "num": 173250,
+        "word": "雷佳音 我上哪生这帅哥呢",
+        "onboard_time": 1705055491,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185937,
+        "num": 173193,
+        "word": "2024春节档已官宣六部电影",
+        "onboard_time": 1705033173,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172293,
+        "num": 172293,
+        "word": "李一桐带肉肉走红毯",
+        "onboard_time": 1705056209,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167894,
+        "num": 167894,
+        "word": "成都一教导主任骂女生cosplay像站街",
+        "onboard_time": 1705054469,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167034,
+        "num": 167034,
+        "word": "奥迪SQ7暗夜骑士版上市发布会",
+        "onboard_time": 1705057830,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 171511,
+        "num": 167023,
+        "word": "这可是实打实的100斤",
+        "onboard_time": 1705052672,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166385,
+        "num": 166385,
+        "word": "楚后 影视化",
+        "onboard_time": 1705057110,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 164371,
+        "num": 164371,
+        "word": "山东一公司给员工父母发260万孝心基金",
+        "onboard_time": 1705058310,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161368,
+        "num": 161368,
+        "word": "繁花官微发严正声明维权",
+        "onboard_time": 1705049911,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145166,
+        "num": 145166,
+        "word": "陈楚生今日份地狱笑话",
+        "onboard_time": 1705057470,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143647,
+        "num": 143647,
+        "word": "双鱼座最舒服的状态",
+        "onboard_time": 1705058792,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141794,
+        "num": 141794,
+        "word": "繁花后劲太大了",
+        "onboard_time": 1705047929,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139802,
+        "num": 139802,
+        "word": "本以为甄嬛传掀不起什么风浪了",
+        "onboard_time": 1705045887,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138291,
+        "num": 138291,
+        "word": "普陀山通报外籍游客盗取贡钱",
+        "onboard_time": 1705058729,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137044,
+        "num": 137044,
+        "word": "高中女生飞奔追公交的哥霸气喊话帮忙",
+        "onboard_time": 1705057830,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 130714,
+        "num": 130714,
+        "word": "陈泽 一个亿",
+        "onboard_time": 1705016965,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125563,
+        "num": 125563,
+        "word": "在我们村报我名字没人知道",
+        "onboard_time": 1705058610,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114366,
+        "num": 114366,
+        "word": "庞博 好会说的一张嘴",
+        "onboard_time": 1705058251,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113501,
+        "num": 113501,
+        "word": "数据显示深圳居通勤幸福感之首",
+        "onboard_time": 1705059150,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105951,
+        "num": 105951,
+        "word": "猫咪这个发型显脸大",
+        "onboard_time": 1705054469,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业把群众冰雪运动热情保持下去#"
+    }
+  }
+}
