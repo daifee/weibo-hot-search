@@ -1,7 +1,15 @@
 {
   "startTime": 1704990232348,
-  "endTime": 1705030464901,
+  "endTime": 1705033345984,
   "band_list": [
+    {
+      "raw_hot": 1936072,
+      "num": 1936072,
+      "word": "赵丽颖微博文案是手语",
+      "onboard_time": 1705028849,
+      "rank": 12,
+      "category": "电影"
+    },
     {
       "raw_hot": 1687177,
       "num": 1687177,
@@ -35,14 +43,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1448953,
-      "num": 1448953,
-      "word": "赵丽颖微博文案是手语",
-      "onboard_time": 1705028849,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1361864,
       "num": 678785,
       "word": "官方回应大量河南学生中考移民至黑龙江",
@@ -51,12 +51,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1274861,
+      "num": 1274861,
+      "word": "日韩机票跌到史上最低",
+      "onboard_time": 1705028309,
+      "rank": 4,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1249423,
       "num": 1249423,
       "word": "赵丽颖演聋哑人",
       "onboard_time": 1705028127,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1189318,
+      "num": 1189318,
+      "word": "日本福岛百人因吃生鱼片食物中毒",
+      "onboard_time": 1705031011,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1102621,
+      "num": 685730,
+      "word": "官方彻查大量河南初中生转入大庆",
+      "onboard_time": 1705030589,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1098411,
@@ -115,20 +139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 861772,
-      "num": 861772,
-      "word": "日韩机票跌到史上最低",
-      "onboard_time": 1705028309,
-      "rank": 4,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 861769,
       "num": 861769,
       "word": "医生谈贾玲整容式暴瘦",
       "onboard_time": 1704968250,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 807384,
+      "num": 283407,
+      "word": "大脑为何要删除3岁前的记忆",
+      "onboard_time": 1705030890,
+      "rank": 20,
+      "category": "科学科普"
     },
     {
       "raw_hot": 689593,
@@ -184,6 +208,14 @@
       "word": "95后女孩用700天逆袭成普通人",
       "onboard_time": 1704986610,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546122,
+      "num": 546122,
+      "word": "台湾小当归要去尔滨回礼送糖",
+      "onboard_time": 1705029508,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -283,12 +315,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 362214,
+      "num": 279950,
+      "word": "女子继承千万欧元遗产想找50个人帮忙花",
+      "onboard_time": 1705032389,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359739,
       "num": 359739,
       "word": "日本上空现神秘发光环状云",
       "onboard_time": 1704984513,
       "rank": 22,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 342703,
+      "num": 274184,
+      "word": "工作一年了你攒了多少钱",
+      "onboard_time": 1705029267,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 340631,
@@ -323,11 +371,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 303507,
-      "num": 239631,
-      "word": "工作一年了你攒了多少钱",
-      "onboard_time": 1705029267,
-      "rank": 32,
+      "raw_hot": 305936,
+      "num": 272887,
+      "word": "马面裙 卧铺床帘",
+      "onboard_time": 1705029929,
+      "rank": 40,
       "category": "幽默"
     },
     {
@@ -371,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256738,
-      "num": 256738,
-      "word": "台湾小当归要去尔滨回礼送糖",
-      "onboard_time": 1705029508,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254054,
       "num": 254054,
       "word": "董宇辉新号粉丝突破1000万",
@@ -387,8 +427,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 247918,
-      "num": 247918,
+      "raw_hot": 248747,
+      "num": 248747,
       "word": "陈绮贞与前男友合同纠纷案开庭",
       "onboard_time": 1705028008,
       "rank": 23,
@@ -411,6 +451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241288,
+      "num": 241288,
+      "word": "贾玲 这一年真的好饿好累",
+      "onboard_time": 1705032271,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 240905,
+      "num": 240905,
+      "word": "陈哲远工作室开通官微",
+      "onboard_time": 1705032271,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235249,
       "num": 235249,
       "word": "当你在睡觉领导给你打电话",
@@ -425,6 +481,14 @@
       "onboard_time": 1704989305,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234411,
+      "num": 234411,
+      "word": "2024春节档已官宣六部电影",
+      "onboard_time": 1705033173,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 233116,
@@ -475,12 +539,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 216239,
+      "num": 216239,
+      "word": "宋茜的柔韧度",
+      "onboard_time": 1705031129,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 215622,
+      "num": 215622,
+      "word": "张译王骁高叶再合作",
+      "onboard_time": 1705032510,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209469,
       "num": 209469,
       "word": "刘耀文首演电影",
       "onboard_time": 1705028549,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208426,
+      "num": 189656,
+      "word": "雷佳音高叶演初恋",
+      "onboard_time": 1705029688,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 206730,
@@ -515,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198566,
+      "num": 198566,
+      "word": "热辣滚烫定档预告",
+      "onboard_time": 1705031251,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196460,
       "num": 196460,
       "word": "太阳vs湖人",
@@ -523,16 +619,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189656,
-      "num": 189656,
-      "word": "雷佳音高叶演初恋",
-      "onboard_time": 1705029688,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188534,
-      "num": 1049123,
+      "num": 1205800,
       "word": "2024春运火车票今起开售",
       "onboard_time": 1705028427,
       "rank": 2,
@@ -699,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149080,
+      "num": 149080,
+      "word": "雷霆62分大胜开拓者",
+      "onboard_time": 1705031372,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149069,
       "num": 149069,
       "word": "电影第二十条定档",
@@ -737,6 +833,14 @@
       "onboard_time": 1705015464,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140077,
+      "num": 140077,
+      "word": "大庆正清查是否存在违规转学",
+      "onboard_time": 1705032933,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 139793,
@@ -795,6 +899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128816,
+      "num": 128816,
+      "word": "世界之外公测定档",
+      "onboard_time": 1705033230,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127943,
       "num": 127943,
       "word": "新郎新娘大喜日子挨个给朋友把脉",
@@ -843,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121081,
+      "num": 121081,
+      "word": "我国新三样产品出口首破万亿元",
+      "onboard_time": 1705033296,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 117754,
       "num": 117754,
       "word": "章若楠酒窝",
@@ -865,14 +985,6 @@
       "onboard_time": 1705029929,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117208,
-      "num": 117208,
-      "word": "马面裙 卧铺床帘",
-      "onboard_time": 1705029929,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 115386,
@@ -1147,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58713,
+      "num": 284410,
+      "word": "华为门店里有龙出没",
+      "onboard_time": 1705032333,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 56382,
       "num": 56382,
       "word": "陆沉缄声之约倒计时",
@@ -1201,6 +1321,14 @@
       "onboard_time": 1705011434,
       "rank": 46,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 38626,
+      "num": 330693,
+      "word": "世界之外1.26上线",
+      "onboard_time": 1705032029,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 37156,
