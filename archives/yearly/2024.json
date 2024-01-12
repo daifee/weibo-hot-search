@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705063738127,
+  "endTime": 1705065668837,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -971,8 +971,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1549550,
-      "num": 1549550,
+      "raw_hot": 1551123,
+      "num": 1551123,
       "word": "0713央视春晚彩排",
       "onboard_time": 1705060410,
       "rank": 1,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1704259951,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1433584,
+      "num": 1433584,
+      "word": "陈泽直播",
+      "onboard_time": 1705063289,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 1432705,
@@ -1705,6 +1713,14 @@
       "onboard_time": 1704803432,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1230901,
+      "num": 1230901,
+      "word": "胡歌肖战同框",
+      "onboard_time": 1705063831,
+      "rank": 2,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1229285,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704677908,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1035478,
-      "num": 1035478,
-      "word": "现在的导师骂人可真高级",
-      "onboard_time": 1704279456,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 1035077,
-      "num": 1035077,
-      "word": "瑞幸 摩托姐姐专享",
-      "onboard_time": 1704430896,
-      "rank": 9,
-      "category": "美食"
     }
   ],
   "hotgov_list": [

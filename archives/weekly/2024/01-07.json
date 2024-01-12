@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1705063738127,
+  "endTime": 1705065668837,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -403,8 +403,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1549550,
-      "num": 1549550,
+      "raw_hot": 1551123,
+      "num": 1551123,
       "word": "0713央视春晚彩排",
       "onboard_time": 1705060410,
       "rank": 1,
@@ -497,6 +497,14 @@
       "onboard_time": 1704846449,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1433584,
+      "num": 1433584,
+      "word": "陈泽直播",
+      "onboard_time": 1705063289,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 1432491,
@@ -753,6 +761,14 @@
       "onboard_time": 1704803432,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1230901,
+      "num": 1230901,
+      "word": "胡歌肖战同框",
+      "onboard_time": 1705063831,
+      "rank": 2,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1229285,
@@ -1283,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 947748,
+      "num": 585708,
+      "word": "科兴",
+      "onboard_time": 1705060469,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 945338,
       "num": 420747,
       "word": "三喜的肠肠",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1704861159,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 868271,
+      "num": 868271,
+      "word": "游本昌 年轻的朋友我永远陪伴你们",
+      "onboard_time": 1705059808,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 860938,
@@ -1683,12 +1715,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 805579,
-      "num": 805579,
-      "word": "游本昌 年轻的朋友我永远陪伴你们",
-      "onboard_time": 1705059808,
-      "rank": 11,
-      "category": "剧集"
+      "raw_hot": 805743,
+      "num": 805743,
+      "word": "丫丫回国后模样爆改",
+      "onboard_time": 1705061790,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 804292,
@@ -1747,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 796692,
+      "num": 796692,
+      "word": "明星出发微博之夜",
+      "onboard_time": 1705062689,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 795049,
       "num": 795049,
       "word": "赵丽颖第二十条",
@@ -1777,14 +1817,6 @@
       "onboard_time": 1704708272,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 783863,
-      "num": 491127,
-      "word": "科兴",
-      "onboard_time": 1705060469,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 783392,
@@ -2531,14 +2563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 657219,
-      "num": 657219,
-      "word": "丫丫回国后模样爆改",
-      "onboard_time": 1705061790,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 656936,
       "num": 656936,
       "word": "折腰补音完成",
@@ -2939,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588703,
+      "num": 588703,
+      "word": "也门",
+      "onboard_time": 1705062689,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 588547,
       "num": 588547,
       "word": "丫丫胖成了A字熊",
@@ -2985,6 +3017,14 @@
       "onboard_time": 1704549035,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583804,
+      "num": 583804,
+      "word": "老师 我们家苏醒呢",
+      "onboard_time": 1705064672,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 583494,
@@ -3049,6 +3089,14 @@
       "onboard_time": 1705046427,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577670,
+      "num": 577670,
+      "word": "河南文旅你们搞色诱啊",
+      "onboard_time": 1705062271,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 577048,
@@ -3211,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 558947,
+      "num": 558947,
+      "word": "春晚彩排",
+      "onboard_time": 1705062570,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 557978,
       "num": 557978,
       "word": "F1 让不让人抢票了",
@@ -3241,14 +3297,6 @@
       "onboard_time": 1704863435,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 555401,
-      "num": 440066,
-      "word": "明星出发微博之夜",
-      "onboard_time": 1705062689,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 553950,
@@ -3417,14 +3465,6 @@
       "onboard_time": 1704725612,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 541929,
-      "num": 408862,
-      "word": "春晚彩排",
-      "onboard_time": 1705062570,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 541904,
@@ -4731,6 +4771,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 414445,
+      "num": 344306,
+      "word": "这居然是董子健",
+      "onboard_time": 1705065090,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413946,
       "num": 413946,
       "word": "博主称养孩子难的时代已经过去了",
@@ -5779,14 +5827,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 320507,
-      "num": 320507,
-      "word": "河南文旅你们搞色诱啊",
-      "onboard_time": 1705062271,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 320385,
       "num": 320385,
       "word": "Switch烧录卡",
@@ -6105,14 +6145,6 @@
       "onboard_time": 1704943829,
       "rank": 16,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 302217,
-      "num": 302217,
-      "word": "也门",
-      "onboard_time": 1705062689,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 301612,
@@ -6883,14 +6915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257781,
-      "num": 257781,
-      "word": "陈泽直播",
-      "onboard_time": 1705063289,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 256848,
       "num": 256848,
       "word": "ZICO和华莎第一个Any Song Challenge",
@@ -7305,6 +7329,14 @@
       "onboard_time": 1705032271,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240898,
+      "num": 240898,
+      "word": "退休员工回应养老金曝光称感谢刘强东",
+      "onboard_time": 1705063710,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240539,
@@ -8483,14 +8515,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 206661,
-      "num": 206661,
-      "word": "退休员工回应养老金曝光称感谢刘强东",
-      "onboard_time": 1705063710,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206292,
       "num": 206292,
       "word": "减肥哪有不疯的",
@@ -8697,6 +8721,14 @@
       "onboard_time": 1704809795,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203176,
+      "num": 199358,
+      "word": "nana tour",
+      "onboard_time": 1705064312,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 203090,
@@ -9219,6 +9251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196011,
+      "num": 196011,
+      "word": "陈泽 归来仍在打官司",
+      "onboard_time": 1705040848,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196000,
       "num": 196000,
       "word": "黑熊爬高压电塔触电仰面倒地死亡",
@@ -9497,6 +9537,22 @@
       "onboard_time": 1704728252,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190828,
+      "num": 199363,
+      "word": "深圳街头有10个特殊银行只存食物",
+      "onboard_time": 1705064431,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190798,
+      "num": 190798,
+      "word": "当前A股市场估值水平已处于历史低位",
+      "onboard_time": 1705064490,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 190291,
@@ -11123,6 +11179,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 164619,
+      "num": 164619,
+      "word": "广东选调 结构化",
+      "onboard_time": 1705065332,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 164568,
       "num": 164568,
       "word": "一些J人的震惊之处",
@@ -11835,6 +11899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154991,
+      "num": 154991,
+      "word": "涉过愤怒的海",
+      "onboard_time": 1705064971,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154938,
       "num": 154938,
       "word": "CBA",
@@ -12057,6 +12129,14 @@
       "onboard_time": 1704553476,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 151911,
+      "num": 151911,
+      "word": "周笔畅路过不小心带出了冠军",
+      "onboard_time": 1705062028,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 151848,
@@ -12425,6 +12505,14 @@
       "onboard_time": 1704541293,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145849,
+      "num": 145849,
+      "word": "LCK处罚公告",
+      "onboard_time": 1705063772,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 145754,
@@ -13201,6 +13289,14 @@
       "onboard_time": 1704676887,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133803,
+      "num": 133803,
+      "word": "质疑鸿祎理解鸿祎穿上红衣",
+      "onboard_time": 1705064192,
+      "rank": 45,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 133629,
@@ -14019,12 +14115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124787,
-      "num": 124787,
-      "word": "周笔畅路过不小心带出了冠军",
-      "onboard_time": 1705062028,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 124810,
+      "num": 124810,
+      "word": "马龙进男单8强",
+      "onboard_time": 1705063649,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 124760,
@@ -14585,14 +14681,6 @@
       "onboard_time": 1705029209,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115251,
-      "num": 115251,
-      "word": "陈泽 归来仍在打官司",
-      "onboard_time": 1705040848,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 115225,
