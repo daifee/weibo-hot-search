@@ -1,0 +1,410 @@
+{
+  "runTime": 1705023528486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1611259,
+        "num": 1611259,
+        "word": "老人女儿回应张馨予买气球",
+        "onboard_time": 1705020450,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1030658,
+        "num": 1030658,
+        "word": "腾讯游戏全部断开",
+        "onboard_time": 1705014861,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22936,
+        "num": 981345,
+        "word": "关于全面推进美丽中国建设的意见",
+        "onboard_time": 1704974850,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1348374,
+        "num": 973703,
+        "word": "大一女生校内坠亡生前疑遭舍友辱骂",
+        "onboard_time": 1705017629,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957751,
+        "num": 957751,
+        "word": "特斯拉降价",
+        "onboard_time": 1705021051,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 735480,
+        "num": 735480,
+        "word": "上海地铁明确非日常服饰进站会阻拦",
+        "onboard_time": 1705017748,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652731,
+        "num": 652731,
+        "word": "医生谈贾玲整容式暴瘦",
+        "onboard_time": 1704968250,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 641878,
+        "num": 641878,
+        "word": "北京正式发布春节放假安排",
+        "onboard_time": 1705018829,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578154,
+        "num": 578154,
+        "word": "谢娜烤火鞋被烧了",
+        "onboard_time": 1705020151,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567996,
+        "num": 567996,
+        "word": "英美联合空袭也门",
+        "onboard_time": 1705017748,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1258949,
+        "num": 563668,
+        "word": "陈泽 一个亿",
+        "onboard_time": 1705016965,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 502289,
+        "num": 502289,
+        "word": "尔滨怎么不告诉我雪里能捡钱",
+        "onboard_time": 1705021770,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 471264,
+        "num": 471264,
+        "word": "第一次见男主把女主吊起来哄睡",
+        "onboard_time": 1704988048,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470909,
+        "num": 470909,
+        "word": "贾玲健身教练发声",
+        "onboard_time": 1704968910,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425693,
+        "num": 425693,
+        "word": "国产三蹦子在国外炸街了",
+        "onboard_time": 1705016844,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397599,
+        "num": 397599,
+        "word": "与辉同行因没东西卖停播一天",
+        "onboard_time": 1705022608,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 316281,
+        "num": 316281,
+        "word": "梨形身材的脂肪长对了地方",
+        "onboard_time": 1705018890,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280268,
+        "num": 280268,
+        "word": "官方回应大量河南学生中考移民至黑龙江",
+        "onboard_time": 1705022608,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 277286,
+        "num": 277286,
+        "word": "拜登回应英美空袭也门",
+        "onboard_time": 1705022790,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 253685,
+        "num": 253685,
+        "word": "95后女孩用700天逆袭成普通人",
+        "onboard_time": 1704986610,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430931,
+        "num": 253434,
+        "word": "男子离婚后发现前妻不到7月就生娃",
+        "onboard_time": 1705017086,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798198,
+        "num": 252812,
+        "word": "张继科出任俱乐部技术顾问",
+        "onboard_time": 1705017086,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251762,
+        "num": 251762,
+        "word": "俞敏洪用董宇辉完成了去董化",
+        "onboard_time": 1704982772,
+        "rank": 22,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 247253,
+        "num": 247253,
+        "word": "也门爆炸视频",
+        "onboard_time": 1705019309,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 215997,
+        "num": 215997,
+        "word": "原来玲子和宝总的杯子有那么多讲究",
+        "onboard_time": 1704982652,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207149,
+        "num": 207149,
+        "word": "林心如小时候给刘德华写过信",
+        "onboard_time": 1705018109,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201480,
+        "num": 201480,
+        "word": "农妇卖150份粉蒸肉被判赔5万撤销原判",
+        "onboard_time": 1704988288,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159187,
+        "num": 159187,
+        "word": "网友和鹿晗当队友的又一天",
+        "onboard_time": 1705014259,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158481,
+        "num": 158481,
+        "word": "体脂率才是最诚实的胖瘦指标",
+        "onboard_time": 1705014199,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155775,
+        "num": 155775,
+        "word": "53岁大叔文笔太美被称早餐界余华",
+        "onboard_time": 1705021770,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201094,
+        "num": 154287,
+        "word": "丽挽狂岚上大分",
+        "onboard_time": 1705022549,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160138,
+        "num": 153788,
+        "word": "A股再现天价离婚女方分走40亿",
+        "onboard_time": 1704983551,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 152697,
+        "num": 152697,
+        "word": "减肥成功的人都经历过什么",
+        "onboard_time": 1705021171,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 149143,
+        "num": 149143,
+        "word": "刘雅瑟饰演刘德华老婆被全员羡慕",
+        "onboard_time": 1705023269,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148410,
+        "num": 148410,
+        "word": "李李的皮草",
+        "onboard_time": 1705018290,
+        "rank": 34,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 143933,
+        "num": 143933,
+        "word": "繁花爷叔38年前在杭州拍济公时好帅",
+        "onboard_time": 1705023151,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141292,
+        "num": 141292,
+        "word": "白岩松说出了东北人心声",
+        "onboard_time": 1705022071,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140470,
+        "num": 140470,
+        "word": "母亲以死逼婚儿子结婚半年闪离",
+        "onboard_time": 1704964531,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140111,
+        "num": 140111,
+        "word": "当你在睡觉领导给你打电话",
+        "onboard_time": 1705013236,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139823,
+        "num": 139823,
+        "word": "李铁签字的安全笔安全在哪",
+        "onboard_time": 1704984754,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 132071,
+        "num": 132071,
+        "word": "友情怎么写最刀",
+        "onboard_time": 1705021109,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129255,
+        "num": 129255,
+        "word": "日本上空现神秘发光环状云",
+        "onboard_time": 1704984513,
+        "rank": 41,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 125684,
+        "num": 125684,
+        "word": "女生宿舍一般不会总是聊男生",
+        "onboard_time": 1705022968,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121602,
+        "num": 121602,
+        "word": "赵丽颖第二十条",
+        "onboard_time": 1704984153,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117955,
+        "num": 117955,
+        "word": "GIDLE预告",
+        "onboard_time": 1705021469,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117602,
+        "num": 117602,
+        "word": "新兰世纪之吻5周年",
+        "onboard_time": 1705023508,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 110275,
+        "num": 110275,
+        "word": "退伍兵来尔滨办事给小金豆带百斤特产",
+        "onboard_time": 1705019013,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105929,
+        "num": 105929,
+        "word": "尔滨冰雪女王座正式亮相",
+        "onboard_time": 1705023389,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104508,
+        "num": 104508,
+        "word": "勇士愿交易库里外所有人",
+        "onboard_time": 1705016363,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97486,
+        "num": 101716,
+        "word": "饿上16个小时真的能减肥吗",
+        "onboard_time": 1704999495,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎马尔代夫总统访华#"
+    }
+  }
+}
