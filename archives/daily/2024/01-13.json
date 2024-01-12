@@ -1,6 +1,6 @@
 {
   "startTime": 1705076591437,
-  "endTime": 1705101416980,
+  "endTime": 1705102452568,
   "band_list": [
     {
       "raw_hot": 1581875,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236577,
+      "num": 236577,
+      "word": "鹤岗文旅局长在哈尔滨烤串",
+      "onboard_time": 1705094415,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208821,
       "num": 180063,
       "word": "明星出发微博之夜",
@@ -147,20 +155,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 197267,
-      "num": 197267,
-      "word": "鹤岗文旅局长在哈尔滨烤串",
-      "onboard_time": 1705094415,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192876,
       "num": 192876,
       "word": "也门",
       "onboard_time": 1705062689,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 189402,
+      "num": 189402,
+      "word": "河南煤矿事故8人遇难15人失联",
+      "onboard_time": 1705101020,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188492,
@@ -251,6 +259,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145323,
+      "num": 145323,
+      "word": "神都洛阳恭迎公主殿下回城",
+      "onboard_time": 1705098315,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 128841,
+      "num": 128841,
+      "word": "平顶山事故煤矿负责人已被控制",
+      "onboard_time": 1705101020,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124881,
       "num": 124881,
       "word": "陈泽直播",
@@ -265,6 +289,14 @@
       "onboard_time": 1705059931,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 123084,
+      "num": 68349,
+      "word": "马伊琍拍繁花三年没见过游本昌",
+      "onboard_time": 1705102282,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 118881,
@@ -355,6 +387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 95032,
+      "num": 95032,
+      "word": "大学生租房遇神仙房东回应不是剧本",
+      "onboard_time": 1705101800,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94682,
       "num": 94682,
       "word": "不容易得癌的人都有这4个特质",
@@ -387,6 +427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87899,
+      "num": 87899,
+      "word": "小贵但有用的护肤品",
+      "onboard_time": 1705100598,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 82623,
       "num": 82623,
       "word": "人一旦织毛衣看上去就很慈祥",
@@ -411,20 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77559,
-      "num": 77559,
-      "word": "神都洛阳恭迎公主殿下回城",
-      "onboard_time": 1705098315,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 76184,
       "num": 76184,
       "word": "证监会正面回应A股估值",
       "onboard_time": 1705067132,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 76050,
+      "num": 76050,
+      "word": "康复师评董子健睡姿",
+      "onboard_time": 1705093273,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 75504,
@@ -435,35 +483,43 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67227,
-      "num": 67227,
-      "word": "河南煤矿事故8人遇难15人失联",
-      "onboard_time": 1705101020,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66790,
-      "num": 66790,
-      "word": "康复师评董子健睡姿",
-      "onboard_time": 1705093273,
-      "rank": 26,
+      "raw_hot": 72159,
+      "num": 72159,
+      "word": "王子文柠檬黄露腰裙",
+      "onboard_time": 1705098975,
+      "rank": 32,
       "category": "剧集"
     },
     {
-      "raw_hot": 63365,
-      "num": 63365,
-      "word": "平顶山事故煤矿负责人已被控制",
-      "onboard_time": 1705101020,
-      "rank": 23,
+      "raw_hot": 69628,
+      "num": 69628,
+      "word": "感觉变笨可能是抑郁了",
+      "onboard_time": 1705100598,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 64307,
+      "num": 64307,
+      "word": "尔滨阿姨特意将游客冰饮放窗边防融",
+      "onboard_time": 1705101198,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62118,
-      "num": 62118,
+      "raw_hot": 63555,
+      "num": 63555,
       "word": "谭爷爷和花花在一起好温馨",
       "onboard_time": 1705079002,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61983,
+      "num": 61983,
+      "word": "广西小伙说蔓越莓不酸是我自己酸",
+      "onboard_time": 1705081160,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -473,22 +529,6 @@
       "onboard_time": 1705065812,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60380,
-      "num": 60380,
-      "word": "广西小伙说蔓越莓不酸是我自己酸",
-      "onboard_time": 1705081160,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57000,
-      "num": 57000,
-      "word": "小贵但有用的护肤品",
-      "onboard_time": 1705100598,
-      "rank": 27,
-      "category": "美妆"
     },
     {
       "raw_hot": 56221,
@@ -507,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53965,
-      "num": 53965,
-      "word": "王子文柠檬黄露腰裙",
-      "onboard_time": 1705098975,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 54838,
+      "num": 54838,
+      "word": "公交司机和初三女孩约定多等2分钟",
+      "onboard_time": 1705102041,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53638,
@@ -523,12 +563,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 51137,
-      "num": 51137,
-      "word": "感觉变笨可能是抑郁了",
-      "onboard_time": 1705100598,
-      "rank": 33,
-      "category": "健康医疗"
+      "raw_hot": 51145,
+      "num": 51145,
+      "word": "孙颖莎女单进四强",
+      "onboard_time": 1705101800,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 41694,
@@ -537,6 +577,14 @@
       "onboard_time": 1705094113,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 40851,
+      "num": 40851,
+      "word": "卡塔尔3比0黎巴嫩",
+      "onboard_time": 1705102401,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 37937,
@@ -555,20 +603,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35287,
+      "num": 35287,
+      "word": "微博之夜问答",
+      "onboard_time": 1705098375,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 33819,
+      "num": 33819,
+      "word": "男子被骗买理财民警紧急止付230万元",
+      "onboard_time": 1705102220,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33781,
       "num": 33781,
       "word": "快手短剧日活跃用户达2.7亿",
       "onboard_time": 1705083319,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 33752,
-      "num": 33752,
-      "word": "微博之夜问答",
-      "onboard_time": 1705098375,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 33604,
@@ -585,14 +641,6 @@
       "onboard_time": 1705081458,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 30463,
-      "num": 30463,
-      "word": "尔滨阿姨特意将游客冰饮放窗边防融",
-      "onboard_time": 1705101198,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28778,

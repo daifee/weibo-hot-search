@@ -1,0 +1,410 @@
+{
+  "runTime": 1705102452568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 634462,
+        "num": 634462,
+        "word": "警方通报大一女生校内坠楼身亡",
+        "onboard_time": 1705071755,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501126,
+        "num": 501126,
+        "word": "亚洲最帅王子迎娶平民女孩",
+        "onboard_time": 1705068212,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26257,
+        "num": 474785,
+        "word": "扛着大型快递飞天的天舟六号下班啦",
+        "onboard_time": 1705069231,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 471170,
+        "num": 471170,
+        "word": "睡觉中途醒了 不要看时间",
+        "onboard_time": 1705053449,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 358074,
+        "num": 358074,
+        "word": "沈腾句句不提贾玲句句都是贾玲",
+        "onboard_time": 1705070914,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307516,
+        "num": 307516,
+        "word": "刘德华下个月就要去超市上班了",
+        "onboard_time": 1705069892,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281743,
+        "num": 281743,
+        "word": "官方回应镇政府工作人员上班打游戏",
+        "onboard_time": 1705073852,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236577,
+        "num": 236577,
+        "word": "鹤岗文旅局长在哈尔滨烤串",
+        "onboard_time": 1705094415,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235082,
+        "num": 235082,
+        "word": "丫丫回国后模样爆改",
+        "onboard_time": 1705061790,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189402,
+        "num": 189402,
+        "word": "河南煤矿事故8人遇难15人失联",
+        "onboard_time": 1705101020,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174534,
+        "num": 174534,
+        "word": "这居然是董子健",
+        "onboard_time": 1705065090,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170848,
+        "num": 170848,
+        "word": "这该不会是贾玲的胳膊吧",
+        "onboard_time": 1705044332,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145323,
+        "num": 145323,
+        "word": "神都洛阳恭迎公主殿下回城",
+        "onboard_time": 1705098315,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 141727,
+        "num": 141727,
+        "word": "游本昌 年轻的朋友我永远陪伴你们",
+        "onboard_time": 1705059808,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128841,
+        "num": 128841,
+        "word": "平顶山事故煤矿负责人已被控制",
+        "onboard_time": 1705101020,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128792,
+        "num": 128792,
+        "word": "老师 我们家苏醒呢",
+        "onboard_time": 1705064672,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123843,
+        "num": 123843,
+        "word": "俞灏明三个小时做了一只鸡",
+        "onboard_time": 1705072230,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122077,
+        "num": 122077,
+        "word": "逃出大英博物馆获奖",
+        "onboard_time": 1705069293,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118419,
+        "num": 118419,
+        "word": "0713央视春晚彩排",
+        "onboard_time": 1705060410,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103912,
+        "num": 103912,
+        "word": "杨幂说自己穿新中式被看到是荣幸",
+        "onboard_time": 1705059931,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101097,
+        "num": 101097,
+        "word": "关晓彤 我当时火就上来了",
+        "onboard_time": 1705060650,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97168,
+        "num": 97168,
+        "word": "胡歌肖战同框",
+        "onboard_time": 1705063831,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96219,
+        "num": 96219,
+        "word": "全嘻嘻 聊聊离婚",
+        "onboard_time": 1705070195,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95032,
+        "num": 95032,
+        "word": "大学生租房遇神仙房东回应不是剧本",
+        "onboard_time": 1705101800,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87899,
+        "num": 87899,
+        "word": "小贵但有用的护肤品",
+        "onboard_time": 1705100598,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 76050,
+        "num": 76050,
+        "word": "康复师评董子健睡姿",
+        "onboard_time": 1705093273,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72298,
+        "num": 72298,
+        "word": "明星出发微博之夜",
+        "onboard_time": 1705062689,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72159,
+        "num": 72159,
+        "word": "王子文柠檬黄露腰裙",
+        "onboard_time": 1705098975,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69628,
+        "num": 69628,
+        "word": "感觉变笨可能是抑郁了",
+        "onboard_time": 1705100598,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 68971,
+        "num": 68971,
+        "word": "2012年的胡歌",
+        "onboard_time": 1705070132,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123084,
+        "num": 68349,
+        "word": "马伊琍拍繁花三年没见过游本昌",
+        "onboard_time": 1705102282,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64307,
+        "num": 64307,
+        "word": "尔滨阿姨特意将游客冰饮放窗边防融",
+        "onboard_time": 1705101198,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63555,
+        "num": 63555,
+        "word": "谭爷爷和花花在一起好温馨",
+        "onboard_time": 1705079002,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61983,
+        "num": 61983,
+        "word": "广西小伙说蔓越莓不酸是我自己酸",
+        "onboard_time": 1705081160,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61537,
+        "num": 61537,
+        "word": "女子硬扛流感10天两个肺都白了",
+        "onboard_time": 1705038571,
+        "rank": 34,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 61117,
+        "num": 61117,
+        "word": "也门",
+        "onboard_time": 1705062689,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 59791,
+        "num": 59791,
+        "word": "微博之夜嘉宾全阵容集结",
+        "onboard_time": 1705053810,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54838,
+        "num": 54838,
+        "word": "公交司机和初三女孩约定多等2分钟",
+        "onboard_time": 1705102041,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53414,
+        "num": 53414,
+        "word": "山河四省互不内卷条约结束",
+        "onboard_time": 1705068154,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 51711,
+        "num": 51711,
+        "word": "嘉年华没停过",
+        "onboard_time": 1705066712,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51145,
+        "num": 51145,
+        "word": "孙颖莎女单进四强",
+        "onboard_time": 1705101800,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50608,
+        "num": 50608,
+        "word": "新疆葡萄干为啥都那么大",
+        "onboard_time": 1705071814,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 48052,
+        "num": 48052,
+        "word": "辛芷蕾演过画皮",
+        "onboard_time": 1705071272,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40851,
+        "num": 40851,
+        "word": "卡塔尔3比0黎巴嫩",
+        "onboard_time": 1705102401,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39995,
+        "num": 39995,
+        "word": "公司为了惩罚我们取消了年会",
+        "onboard_time": 1705094113,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37742,
+        "num": 37742,
+        "word": "不容易得癌的人都有这4个特质",
+        "onboard_time": 1705050147,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36255,
+        "num": 36255,
+        "word": "西安市长安区发现一具男尸",
+        "onboard_time": 1705051532,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36183,
+        "num": 36183,
+        "word": "天蝎座的洞察力",
+        "onboard_time": 1705068993,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35287,
+        "num": 35287,
+        "word": "微博之夜问答",
+        "onboard_time": 1705098375,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33819,
+        "num": 33819,
+        "word": "男子被骗买理财民警紧急止付230万元",
+        "onboard_time": 1705102220,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业把群众冰雪运动热情保持下去#"
+    }
+  }
+}
