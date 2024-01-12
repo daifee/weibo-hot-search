@@ -1,0 +1,410 @@
+{
+  "runTime": 1705095249472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 200957,
+        "num": 200957,
+        "word": "睡觉中途醒了 不要看时间",
+        "onboard_time": 1705053449,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125474,
+        "num": 125474,
+        "word": "警方通报大一女生校内坠楼身亡",
+        "onboard_time": 1705071755,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11782,
+        "num": 89441,
+        "word": "扛着大型快递飞天的天舟六号下班啦",
+        "onboard_time": 1705069231,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79162,
+        "num": 79162,
+        "word": "亚洲最帅王子迎娶平民女孩",
+        "onboard_time": 1705068212,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73688,
+        "num": 73688,
+        "word": "官方回应镇政府工作人员上班打游戏",
+        "onboard_time": 1705073852,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57969,
+        "num": 57969,
+        "word": "刘德华下个月就要去超市上班了",
+        "onboard_time": 1705069892,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57756,
+        "num": 57756,
+        "word": "沈腾句句不提贾玲句句都是贾玲",
+        "onboard_time": 1705070914,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53826,
+        "num": 53826,
+        "word": "这居然是董子健",
+        "onboard_time": 1705065090,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48292,
+        "num": 48292,
+        "word": "关晓彤 我当时火就上来了",
+        "onboard_time": 1705060650,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47998,
+        "num": 47998,
+        "word": "丫丫回国后模样爆改",
+        "onboard_time": 1705061790,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38001,
+        "num": 38001,
+        "word": "也门",
+        "onboard_time": 1705062689,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 56308,
+        "num": 37964,
+        "word": "这该不会是贾玲的胳膊吧",
+        "onboard_time": 1705044332,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37811,
+        "num": 37811,
+        "word": "杨幂说自己穿新中式被看到是荣幸",
+        "onboard_time": 1705059931,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 37350,
+        "num": 37350,
+        "word": "游本昌 年轻的朋友我永远陪伴你们",
+        "onboard_time": 1705059808,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32549,
+        "num": 32549,
+        "word": "俞灏明三个小时做了一只鸡",
+        "onboard_time": 1705072230,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32219,
+        "num": 32219,
+        "word": "全嘻嘻 聊聊离婚",
+        "onboard_time": 1705070195,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32009,
+        "num": 32009,
+        "word": "胡歌肖战同框",
+        "onboard_time": 1705063831,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31288,
+        "num": 31288,
+        "word": "老师 我们家苏醒呢",
+        "onboard_time": 1705064672,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29819,
+        "num": 29819,
+        "word": "嘉年华没停过",
+        "onboard_time": 1705066712,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28582,
+        "num": 28582,
+        "word": "0713央视春晚彩排",
+        "onboard_time": 1705060410,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27764,
+        "num": 27764,
+        "word": "康复师评董子健睡姿",
+        "onboard_time": 1705093273,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22950,
+        "num": 22950,
+        "word": "广西小伙说蔓越莓不酸是我自己酸",
+        "onboard_time": 1705081160,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22246,
+        "num": 22246,
+        "word": "明星出发微博之夜",
+        "onboard_time": 1705062689,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20404,
+        "num": 20404,
+        "word": "女子硬扛流感10天两个肺都白了",
+        "onboard_time": 1705038571,
+        "rank": 23,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 17518,
+        "num": 17518,
+        "word": "尔滨你火到国外啦",
+        "onboard_time": 1705089853,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 22051,
+        "num": 17464,
+        "word": "逃出大英博物馆获奖",
+        "onboard_time": 1705069293,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20995,
+        "num": 17419,
+        "word": "辛芷蕾演过画皮",
+        "onboard_time": 1705071272,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20568,
+        "num": 17419,
+        "word": "微博之夜嘉宾全阵容集结",
+        "onboard_time": 1705053810,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17355,
+        "num": 17355,
+        "word": "公司为了惩罚我们取消了年会",
+        "onboard_time": 1705094113,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16733,
+        "num": 16733,
+        "word": "陈泽直播",
+        "onboard_time": 1705063289,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20158,
+        "num": 16572,
+        "word": "2012年的胡歌",
+        "onboard_time": 1705070132,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19982,
+        "num": 16222,
+        "word": "游本昌感谢王家卫让他演胡歌教父",
+        "onboard_time": 1705077505,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18383,
+        "num": 16041,
+        "word": "最强大脑印度选手",
+        "onboard_time": 1705091293,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15801,
+        "num": 15801,
+        "word": "放弃也是一种很绝的心态",
+        "onboard_time": 1705088714,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15508,
+        "num": 15508,
+        "word": "谭爷爷和花花在一起好温馨",
+        "onboard_time": 1705079002,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17115,
+        "num": 15494,
+        "word": "繁花官微发严正声明维权",
+        "onboard_time": 1705049911,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15351,
+        "num": 15351,
+        "word": "山河四省互不内卷条约结束",
+        "onboard_time": 1705068154,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 14624,
+        "num": 14624,
+        "word": "林俊杰 票来",
+        "onboard_time": 1705058848,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14597,
+        "num": 14597,
+        "word": "新疆葡萄干为啥都那么大",
+        "onboard_time": 1705071814,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14351,
+        "num": 14351,
+        "word": "鹤岗文旅局长在哈尔滨烤串",
+        "onboard_time": 1705094415,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13543,
+        "num": 13543,
+        "word": "林高远3比1卡辛",
+        "onboard_time": 1705082658,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13448,
+        "num": 13448,
+        "word": "西安市长安区发现一具男尸",
+        "onboard_time": 1705051532,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12538,
+        "num": 12538,
+        "word": "繁花后劲太大了",
+        "onboard_time": 1705047929,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12320,
+        "num": 12320,
+        "word": "不容易得癌的人都有这4个特质",
+        "onboard_time": 1705050147,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 12160,
+        "num": 12160,
+        "word": "天蝎座的洞察力",
+        "onboard_time": 1705068993,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11821,
+        "num": 11821,
+        "word": "俞泽辰一个暴扣 转播信号崩了",
+        "onboard_time": 1705067372,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11760,
+        "num": 11760,
+        "word": "樊振东3比1林钟勋",
+        "onboard_time": 1705061009,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11353,
+        "num": 11353,
+        "word": "快手短剧日活跃用户达2.7亿",
+        "onboard_time": 1705083319,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11178,
+        "num": 11178,
+        "word": "尤长靖 内娱轮回",
+        "onboard_time": 1705056930,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11174,
+        "num": 11174,
+        "word": "为什么狗狗能找到回家的路",
+        "onboard_time": 1705094773,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业把群众冰雪运动热情保持下去#"
+    }
+  }
+}
