@@ -1,6 +1,6 @@
 {
   "startTime": 1704990232348,
-  "endTime": 1705026735906,
+  "endTime": 1705027353422,
   "band_list": [
     {
       "raw_hot": 1687177,
@@ -107,7 +107,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 684101,
+      "raw_hot": 689557,
       "num": 684101,
       "word": "腾讯游戏致歉",
       "onboard_time": 1705024708,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588547,
+      "num": 588547,
+      "word": "丫丫胖成了A字熊",
+      "onboard_time": 1705024528,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585381,
       "num": 525568,
       "word": "贾玲健身教练发声",
@@ -145,14 +153,6 @@
       "onboard_time": 1705020151,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 562653,
-      "num": 562653,
-      "word": "丫丫胖成了A字熊",
-      "onboard_time": 1705024528,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 548751,
@@ -315,6 +315,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 246879,
+      "num": 246879,
+      "word": "第二十条阵容海报",
+      "onboard_time": 1705026626,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 243781,
       "num": 165565,
       "word": "母亲以死逼婚儿子结婚半年闪离",
@@ -403,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189269,
-      "num": 151230,
-      "word": "第二十条阵容海报",
-      "onboard_time": 1705026626,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 196844,
+      "num": 196844,
+      "word": "旅客称天府机场安检摆大字动作尴尬",
+      "onboard_time": 1705026208,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184025,
@@ -475,6 +483,14 @@
       "category": "剧集,时尚"
     },
     {
+      "raw_hot": 171081,
+      "num": 171081,
+      "word": "CBA裁判与球员冲突",
+      "onboard_time": 1705026147,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169982,
       "num": 169982,
       "word": "繁花爷叔38年前在杭州拍济公时好帅",
@@ -489,6 +505,14 @@
       "onboard_time": 1705015406,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166897,
+      "num": 166897,
+      "word": "娃娃不一定是抓的",
+      "onboard_time": 1705026867,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 164221,
@@ -539,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151712,
-      "num": 151712,
-      "word": "CBA裁判与球员冲突",
-      "onboard_time": 1705026147,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149824,
       "num": 84005,
       "word": "怪不得菩提老祖喜欢悟空",
@@ -563,11 +579,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146703,
-      "num": 146703,
-      "word": "旅客称天府机场安检摆大字动作尴尬",
-      "onboard_time": 1705026208,
-      "rank": 31,
+      "raw_hot": 144611,
+      "num": 144611,
+      "word": "杭州人在哈尔滨街头免费发草莓",
+      "onboard_time": 1705026329,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -643,6 +659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128135,
+      "num": 128135,
+      "word": "路人把谢娜认成了林心如",
+      "onboard_time": 1705027168,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127943,
       "num": 127943,
       "word": "新郎新娘大喜日子挨个给朋友把脉",
@@ -699,6 +723,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 114945,
+      "num": 114945,
+      "word": "我有间歇性打扫卫生综合症",
+      "onboard_time": 1705027227,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109222,
       "num": 109222,
       "word": "enhypen演唱会",
@@ -715,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109158,
+      "num": 109158,
+      "word": "老板一旦交给你额外工作",
+      "onboard_time": 1705024408,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109133,
       "num": 109133,
       "word": "特斯拉全美工厂工人涨薪",
@@ -723,20 +763,20 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 108906,
+      "num": 108906,
+      "word": "国新办新闻发布会",
+      "onboard_time": 1705027227,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107783,
       "num": 107783,
       "word": "我们失去了半个贾玲",
       "onboard_time": 1704973590,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 107535,
-      "num": 107535,
-      "word": "老板一旦交给你额外工作",
-      "onboard_time": 1705024408,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 105929,
@@ -801,14 +841,6 @@
       "onboard_time": 1704983192,
       "rank": 37,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 93525,
-      "num": 93525,
-      "word": "杭州人在哈尔滨街头免费发草莓",
-      "onboard_time": 1705026329,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92792,
@@ -988,7 +1020,7 @@
     },
     {
       "raw_hot": 44696,
-      "num": 219153,
+      "num": 248017,
       "word": "白荆玩家精神状态",
       "onboard_time": 1705024528,
       "rank": 20,
