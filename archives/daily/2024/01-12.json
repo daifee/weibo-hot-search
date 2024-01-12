@@ -1,6 +1,6 @@
 {
   "startTime": 1704990232348,
-  "endTime": 1705066428808,
+  "endTime": 1705069032951,
   "band_list": [
     {
       "raw_hot": 2698087,
@@ -65,6 +65,14 @@
       "onboard_time": 1705058007,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1617854,
+      "num": 1617854,
+      "word": "这居然是董子健",
+      "onboard_time": 1705065090,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1611349,
@@ -195,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1064366,
+      "num": 1064366,
+      "word": "游本昌 年轻的朋友我永远陪伴你们",
+      "onboard_time": 1705059808,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1052734,
       "num": 1052734,
       "word": "尔滨一麻辣烫店高挂免战牌",
@@ -243,14 +259,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 973337,
-      "num": 973337,
-      "word": "这居然是董子健",
-      "onboard_time": 1705065090,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 947748,
       "num": 834284,
       "word": "科兴",
@@ -267,14 +275,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 922349,
-      "num": 922349,
-      "word": "游本昌 年轻的朋友我永远陪伴你们",
-      "onboard_time": 1705059808,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 904999,
       "num": 904999,
       "word": "2024春节档已官宣六部电影",
@@ -283,12 +283,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 904373,
+      "num": 904373,
+      "word": "嘉年华没停过",
+      "onboard_time": 1705066712,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 899553,
       "num": 899553,
       "word": "林俊杰 票来",
       "onboard_time": 1705058848,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 885108,
+      "num": 891291,
+      "word": "丫丫回国后模样爆改",
+      "onboard_time": 1705061790,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 879992,
@@ -337,14 +353,6 @@
       "onboard_time": 1705030890,
       "rank": 20,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 825447,
-      "num": 891291,
-      "word": "丫丫回国后模样爆改",
-      "onboard_time": 1705061790,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 796692,
@@ -739,6 +747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 451571,
+      "num": 414362,
+      "word": "与恶魔有约",
+      "onboard_time": 1705067132,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 449376,
       "num": 449376,
       "word": "A股再现天价离婚女方分走40亿",
@@ -785,6 +801,14 @@
       "onboard_time": 1705037429,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 419389,
+      "num": 419389,
+      "word": "亚洲最帅王子迎娶平民女孩",
+      "onboard_time": 1705068212,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417650,
@@ -920,6 +944,14 @@
       "word": "孟子义嘴上说不行身体却很诚实",
       "onboard_time": 1705037849,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 350298,
+      "num": 350298,
+      "word": "宋亚轩模仿易烊千玺",
+      "onboard_time": 1705068092,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -1387,6 +1419,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216873,
+      "num": 216873,
+      "word": "山河四省互不内卷条约结束",
+      "onboard_time": 1705068154,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 216662,
+      "num": 212131,
+      "word": "离职后老板叫我打扫他的办公室",
+      "onboard_time": 1705066772,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216537,
       "num": 216537,
       "word": "赵丽颖的哭戏镜头",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1705031129,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215272,
+      "num": 215272,
+      "word": "平顶山天安煤业十二矿发生事故",
+      "onboard_time": 1705067734,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214665,
@@ -1915,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165720,
+      "num": 165720,
+      "word": "证监会正面回应A股估值",
+      "onboard_time": 1705067132,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 164869,
       "num": 164869,
       "word": "索菲亚广场小学生齐奏我和我的祖国",
@@ -1987,6 +2051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158728,
+      "num": 158728,
+      "word": "李权哲二公舞台super",
+      "onboard_time": 1705065812,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158341,
       "num": 158341,
       "word": "朴宰范泼墨舞台",
@@ -2041,14 +2113,6 @@
       "onboard_time": 1705042830,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153266,
-      "num": 153266,
-      "word": "李权哲二公舞台super",
-      "onboard_time": 1705065812,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 153255,
@@ -2331,8 +2395,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135148,
+      "num": 135148,
+      "word": "CBA",
+      "onboard_time": 1705068812,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135096,
-      "num": 141101,
+      "num": 1123127,
       "word": "我国新三样产品出口首破万亿元",
       "onboard_time": 1705033296,
       "rank": 49,
@@ -2361,6 +2433,14 @@
       "onboard_time": 1705042467,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129164,
+      "num": 129164,
+      "word": "最强大脑",
+      "onboard_time": 1705068632,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 129107,
@@ -2545,6 +2625,14 @@
       "onboard_time": 1705058251,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113950,
+      "num": 113950,
+      "word": "天蝎座的洞察力",
+      "onboard_time": 1705068993,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 113501,
@@ -2992,6 +3080,14 @@
       "word": "寅子女流苦学数理化",
       "onboard_time": 1705058251,
       "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 16547,
+      "num": 121056,
+      "word": "欢迎入职白荆科技",
+      "onboard_time": 1705068933,
+      "rank": 46,
       "category": "游戏"
     },
     {
