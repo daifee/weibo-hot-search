@@ -1,6 +1,6 @@
 {
   "startTime": 1704990232348,
-  "endTime": 1705052076441,
+  "endTime": 1705054783472,
   "band_list": [
     {
       "raw_hot": 2698087,
@@ -131,12 +131,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1062577,
+      "num": 1062577,
+      "word": "微博之夜嘉宾全阵容集结",
+      "onboard_time": 1705053810,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1052734,
       "num": 1052734,
       "word": "尔滨一麻辣烫店高挂免战牌",
       "onboard_time": 1705045950,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1031466,
+      "num": 632336,
+      "word": "霉霉 世一",
+      "onboard_time": 1705052011,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 1030658,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 839381,
-      "num": 473752,
+      "num": 510667,
       "word": "沈腾希望贾玲回归王牌",
       "onboard_time": 1705048290,
       "rank": 13,
@@ -307,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 676481,
+      "num": 676481,
+      "word": "女儿立二等功妈妈骄傲的表情藏不住",
+      "onboard_time": 1705051771,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671794,
       "num": 671794,
       "word": "张艺谋夸奖赵丽颖",
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 627878,
-      "num": 291567,
+      "num": 319367,
       "word": "不容易得癌的人都有这4个特质",
       "onboard_time": 1705050147,
       "rank": 20,
@@ -369,6 +393,14 @@
       "onboard_time": 1705045887,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 608461,
+      "num": 608461,
+      "word": "王家卫为二刷观众调整繁花",
+      "onboard_time": 1705051290,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 588547,
@@ -491,6 +523,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 500297,
+      "num": 500297,
+      "word": "西安市长安区发现一具男尸",
+      "onboard_time": 1705051532,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489405,
       "num": 198893,
       "word": "女性尿漏或预示着未来残疾风险更高",
@@ -571,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 416284,
+      "num": 416284,
+      "word": "睡觉中途醒了 不要看时间",
+      "onboard_time": 1705053449,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 410152,
       "num": 314931,
       "word": "爸爸抱身高1米45儿子逛街",
@@ -648,6 +696,14 @@
       "word": "张译王骁高叶再合作",
       "onboard_time": 1705032510,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 363066,
+      "num": 363066,
+      "word": "这可是实打实的100斤",
+      "onboard_time": 1705052672,
+      "rank": 17,
       "category": "电影"
     },
     {
@@ -739,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307690,
+      "num": 307690,
+      "word": "杨超越求浪姐别邀请她",
+      "onboard_time": 1705053629,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300674,
       "num": 300674,
       "word": "小熊猫离开尔滨临时妈妈哇哇大哭",
@@ -761,14 +825,6 @@
       "onboard_time": 1705039532,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 296285,
-      "num": 192760,
-      "word": "西安市长安区发现一具男尸",
-      "onboard_time": 1705051532,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292334,
@@ -811,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273814,
-      "num": 239076,
-      "word": "王家卫为二刷观众调整繁花",
-      "onboard_time": 1705051290,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 273455,
       "num": 252716,
       "word": "贾玲锻炼练的是雷佳音",
@@ -843,6 +891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 271866,
+      "num": 271866,
+      "word": "费加罗 边伯贤",
+      "onboard_time": 1705054288,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 264763,
       "num": 264763,
       "word": "林心如小时候给刘德华写过信",
@@ -865,6 +921,14 @@
       "onboard_time": 1705049130,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 259320,
+      "num": 645127,
+      "word": "父亲瓷娃娃般照顾抑郁症女儿",
+      "onboard_time": 1705047869,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254318,
@@ -993,14 +1057,6 @@
       "onboard_time": 1705047449,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227382,
-      "num": 227382,
-      "word": "父亲瓷娃娃般照顾抑郁症女儿",
-      "onboard_time": 1705047869,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227287,
@@ -1195,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200006,
+      "num": 200006,
+      "word": "程前身穿红衣现身周鸿祎公开课",
+      "onboard_time": 1705053391,
+      "rank": 29,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 199474,
       "num": 199474,
       "word": "南方小土豆坐地铁获赠素描画",
@@ -1227,12 +1291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195742,
+      "num": 174707,
+      "word": "周鸿祎说和程前互怼不叫事",
+      "onboard_time": 1705054049,
+      "rank": 34,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 195523,
       "num": 195523,
       "word": "太阳战胜湖人",
       "onboard_time": 1705040611,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193741,
+      "num": 627796,
+      "word": "川川把自己的心尖尖送给尔滨",
+      "onboard_time": 1705050811,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192002,
@@ -1291,14 +1371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182718,
-      "num": 182718,
-      "word": "川川把自己的心尖尖送给尔滨",
-      "onboard_time": 1705050811,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180136,
       "num": 180136,
       "word": "维生素补剂 智商税",
@@ -1337,6 +1409,14 @@
       "onboard_time": 1705046729,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178734,
+      "num": 178734,
+      "word": "不是肺部有炎症就叫白肺",
+      "onboard_time": 1705052011,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 178610,
@@ -1385,6 +1465,14 @@
       "onboard_time": 1705021171,
       "rank": 27,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 174986,
+      "num": 174986,
+      "word": "流浪者 微博最受欢迎游戏男角色",
+      "onboard_time": 1705052549,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 174396,
@@ -1443,20 +1531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166295,
-      "num": 166295,
-      "word": "女儿立二等功妈妈骄傲的表情藏不住",
-      "onboard_time": 1705051771,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164869,
       "num": 164869,
       "word": "索菲亚广场小学生齐奏我和我的祖国",
       "onboard_time": 1705040788,
       "rank": 34,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 164356,
+      "num": 164356,
+      "word": "央视剧晚盛典之路",
+      "onboard_time": 1705052790,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 164221,
@@ -1627,6 +1715,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146234,
+      "num": 146234,
+      "word": "猫咪这个发型显脸大",
+      "onboard_time": 1705054469,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 146071,
+      "num": 146071,
+      "word": "国产无限流请多拍",
+      "onboard_time": 1705052189,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145339,
       "num": 145339,
       "word": "一句话毁掉打工人的一天",
@@ -1672,6 +1776,14 @@
       "word": "白岩松说出了东北人心声",
       "onboard_time": 1705022071,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141257,
+      "num": 141257,
+      "word": "成都一教导主任骂女生cosplay像站街",
+      "onboard_time": 1705054469,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1763,22 +1875,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 134972,
-      "num": 134972,
-      "word": "不是肺部有炎症就叫白肺",
-      "onboard_time": 1705052011,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 133875,
-      "num": 133875,
-      "word": "霉霉 世一",
-      "onboard_time": 1705052011,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 133081,
       "num": 133081,
       "word": "GIDLE预告",
@@ -1857,6 +1953,14 @@
       "onboard_time": 1705042408,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122164,
+      "num": 122164,
+      "word": "妈妈们的神反应",
+      "onboard_time": 1705054649,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 122021,
@@ -2017,6 +2121,14 @@
       "onboard_time": 1705037731,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103792,
+      "num": 873481,
+      "word": "我国新能源汽车产销连续九年世界第一",
+      "onboard_time": 1705050869,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99927,
@@ -2185,14 +2297,6 @@
       "onboard_time": 1704969331,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 74808,
-      "num": 873481,
-      "word": "我国新能源汽车产销连续九年世界第一",
-      "onboard_time": 1705050869,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 73201,
@@ -2371,6 +2475,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 15769,
+      "num": 455360,
+      "word": "蛋仔擂台赛",
+      "onboard_time": 1705053629,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 13301,
       "num": 19883,
       "word": "美国12月CPI超预期",
@@ -2393,6 +2505,14 @@
       "onboard_time": 1705000694,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12237,
+      "num": 320403,
+      "word": "周杰伦刘畊宏给元梦写歌",
+      "onboard_time": 1705052728,
+      "rank": 19,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 10087,
