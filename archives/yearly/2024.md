@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/12 23:34:32
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/13 00:23:11
 </p>
 </blockquote>
 <p>
@@ -725,6 +725,12 @@ A先生跳海（热度：1721660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%B7%B2%E7%9F%A5%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E6%B5%81%E6%B5%AA%E7%BA%BD%E7%BA%A6%E8%A1%97%E5%A4%B4%23" target="weibo">
 家属已知复旦留美博士流浪纽约街头（热度：1585389）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A7%E4%B8%80%E5%A5%B3%E7%94%9F%E6%A0%A1%E5%86%85%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
+警方通报大一女生校内坠楼身亡（热度：1581875）
 </a>
 </li>
 
@@ -1577,12 +1583,6 @@ A先生说辛芷蕾本人很漂亮（热度：1194844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85%E5%90%90%E6%A7%BD%E6%B0%91%E4%BC%97%E7%BB%99%E9%9C%87%E5%8C%BA%E5%AF%84%E5%8D%83%E7%BA%B8%E9%B9%A4%23" target="weibo">
 日本记者吐槽民众给震区寄千纸鹤（热度：1132796）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A7%E4%B8%80%E5%A5%B3%E7%94%9F%E6%A0%A1%E5%86%85%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
-警方通报大一女生校内坠楼身亡（热度：1132576）
 </a>
 </li>
 

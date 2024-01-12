@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1705073672068,
+  "endTime": 1705076591437,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -416,6 +416,14 @@
       "word": "谁领到了中国第一张身份证",
       "onboard_time": 1704858091,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1581875,
+      "num": 1581875,
+      "word": "警方通报大一女生校内坠楼身亡",
+      "onboard_time": 1705071755,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -936,14 +944,6 @@
       "word": "厄瓜多尔",
       "onboard_time": 1704849269,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1132576,
-      "num": 1132576,
-      "word": "警方通报大一女生校内坠楼身亡",
-      "onboard_time": 1705071755,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -3139,6 +3139,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 579995,
+      "num": 579995,
+      "word": "俞灏明三个小时做了一只鸡",
+      "onboard_time": 1705072230,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 578225,
       "num": 578225,
       "word": "广州一中学花近5万买破解Wii",
@@ -4235,6 +4243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 471825,
+      "num": 471825,
+      "word": "官方回应镇政府工作人员上班打游戏",
+      "onboard_time": 1705073852,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470778,
       "num": 470778,
       "word": "恒大刘永灼被刑拘",
@@ -4537,6 +4553,14 @@
       "onboard_time": 1704810275,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 443886,
+      "num": 443886,
+      "word": "逃出大英博物馆获奖",
+      "onboard_time": 1705069293,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 441872,
@@ -5169,14 +5193,6 @@
       "onboard_time": 1704682530,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 381635,
-      "num": 337203,
-      "word": "俞灏明三个小时做了一只鸡",
-      "onboard_time": 1705072230,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 381540,
@@ -11171,6 +11187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167019,
+      "num": 167019,
+      "word": "为什么人会长智齿",
+      "onboard_time": 1705073974,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 166897,
       "num": 166897,
       "word": "娃娃不一定是抓的",
@@ -15761,6 +15785,14 @@
       "onboard_time": 1704545853,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97551,
+      "num": 97551,
+      "word": "原神 微博年度热游",
+      "onboard_time": 1705075289,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 97543,
