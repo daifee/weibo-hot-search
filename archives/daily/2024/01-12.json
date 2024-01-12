@@ -1,6 +1,6 @@
 {
   "startTime": 1704990232348,
-  "endTime": 1705065668837,
+  "endTime": 1705066428808,
   "band_list": [
     {
       "raw_hot": 2698087,
@@ -83,8 +83,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1551123,
-      "num": 1551123,
+      "raw_hot": 1591708,
+      "num": 1591708,
       "word": "0713央视春晚彩排",
       "onboard_time": 1705060410,
       "rank": 1,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1124963,
+      "num": 1124963,
+      "word": "老师 我们家苏醒呢",
+      "onboard_time": 1705064672,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1098411,
       "num": 278196,
       "word": "张继科出任俱乐部技术顾问",
@@ -235,8 +243,16 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 973337,
+      "num": 973337,
+      "word": "这居然是董子健",
+      "onboard_time": 1705065090,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 947748,
-      "num": 585708,
+      "num": 834284,
       "word": "科兴",
       "onboard_time": 1705060469,
       "rank": 12,
@@ -249,6 +265,14 @@
       "onboard_time": 1705022608,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 922349,
+      "num": 922349,
+      "word": "游本昌 年轻的朋友我永远陪伴你们",
+      "onboard_time": 1705059808,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 904999,
@@ -275,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 868271,
-      "num": 868271,
-      "word": "游本昌 年轻的朋友我永远陪伴你们",
-      "onboard_time": 1705059808,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 861769,
       "num": 861769,
       "word": "医生谈贾玲整容式暴瘦",
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 840027,
-      "num": 840027,
+      "num": 871069,
       "word": "孙颖莎11比0",
       "onboard_time": 1705059931,
       "rank": 4,
@@ -323,8 +339,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 805743,
-      "num": 805743,
+      "raw_hot": 825447,
+      "num": 891291,
       "word": "丫丫回国后模样爆改",
       "onboard_time": 1705061790,
       "rank": 16,
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699810,
+      "num": 873238,
+      "word": "也门",
+      "onboard_time": 1705062689,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 698415,
       "num": 698415,
       "word": "清北2023届本科生毕业数据",
@@ -507,6 +531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 625994,
+      "num": 625994,
+      "word": "河南文旅你们搞色诱啊",
+      "onboard_time": 1705062271,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 620027,
       "num": 620027,
       "word": "国产三蹦子在国外炸街了",
@@ -523,14 +555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 588703,
-      "num": 588703,
-      "word": "也门",
-      "onboard_time": 1705062689,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 588547,
       "num": 588547,
       "word": "丫丫胖成了A字熊",
@@ -545,14 +569,6 @@
       "onboard_time": 1704968910,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 583804,
-      "num": 583804,
-      "word": "老师 我们家苏醒呢",
-      "onboard_time": 1705064672,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 582557,
@@ -577,14 +593,6 @@
       "onboard_time": 1705046427,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 577670,
-      "num": 577670,
-      "word": "河南文旅你们搞色诱啊",
-      "onboard_time": 1705062271,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 577048,
@@ -785,14 +793,6 @@
       "onboard_time": 1705055311,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 414445,
-      "num": 344306,
-      "word": "这居然是董子健",
-      "onboard_time": 1705065090,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 410152,
@@ -1323,6 +1323,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 225793,
+      "num": 225793,
+      "word": "2023年人民币存款增加25.74万亿元",
+      "onboard_time": 1705060950,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 224914,
       "num": 224914,
       "word": "腾讯游戏网络恢复",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1705014259,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221693,
-      "num": 221693,
-      "word": "2023年人民币存款增加25.74万亿元",
-      "onboard_time": 1705060950,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 221606,
@@ -1419,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210520,
+      "num": 210520,
+      "word": "当前A股市场估值水平已处于历史低位",
+      "onboard_time": 1705064490,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 209918,
       "num": 209918,
       "word": "汪苏泷魏如萱 尴尬社交",
@@ -1475,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206624,
+      "num": 206624,
+      "word": "nana tour",
+      "onboard_time": 1705064312,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205809,
       "num": 181978,
       "word": "李一桐带肉肉走红毯",
@@ -1497,14 +1513,6 @@
       "onboard_time": 1705044869,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203176,
-      "num": 199358,
-      "word": "nana tour",
-      "onboard_time": 1705064312,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 202642,
@@ -1571,6 +1579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196748,
+      "num": 196748,
+      "word": "广东选调 结构化",
+      "onboard_time": 1705065332,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 196460,
       "num": 196460,
       "word": "太阳vs湖人",
@@ -1595,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193737,
+      "num": 200255,
+      "word": "深圳街头有10个特殊银行只存食物",
+      "onboard_time": 1705064431,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192417,
       "num": 175161,
       "word": "奥迪SQ7暗夜骑士版上市发布会",
@@ -1609,22 +1633,6 @@
       "onboard_time": 1705037309,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 190828,
-      "num": 199363,
-      "word": "深圳街头有10个特殊银行只存食物",
-      "onboard_time": 1705064431,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190798,
-      "num": 190798,
-      "word": "当前A股市场估值水平已处于历史低位",
-      "onboard_time": 1705064490,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 190188,
@@ -1915,14 +1923,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 164619,
-      "num": 164619,
-      "word": "广东选调 结构化",
-      "onboard_time": 1705065332,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 164371,
       "num": 164371,
       "word": "山东一公司给员工父母发260万孝心基金",
@@ -1977,6 +1977,14 @@
       "onboard_time": 1705020151,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159296,
+      "num": 159296,
+      "word": "涉过愤怒的海",
+      "onboard_time": 1705064971,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 158341,
@@ -2035,12 +2043,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154991,
-      "num": 154991,
-      "word": "涉过愤怒的海",
-      "onboard_time": 1705064971,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 153266,
+      "num": 153266,
+      "word": "李权哲二公舞台super",
+      "onboard_time": 1705065812,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 153255,
@@ -2267,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137974,
+      "num": 137974,
+      "word": "马龙进男单8强",
+      "onboard_time": 1705063649,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137890,
       "num": 137890,
       "word": "女兵二等功牌匾送到家妈妈激动又骄傲",
@@ -2417,14 +2433,6 @@
       "onboard_time": 1705035631,
       "rank": 14,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 124810,
-      "num": 124810,
-      "word": "马龙进男单8强",
-      "onboard_time": 1705063649,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 124223,

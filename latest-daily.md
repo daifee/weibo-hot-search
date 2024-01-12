@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/12 00:23:52 ~ 2024/01/12 21:21:08
+本榜单时间：2024/01/12 00:23:52 ~ 2024/01/12 21:33:48
 </p>
 </blockquote>
 <p>
@@ -76,7 +76,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%230713%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%23" target="weibo">
-0713央视春晚彩排（热度：1551123）
+0713央视春晚彩排（热度：1591708）
 </a>
 </li>
 
@@ -147,6 +147,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%20%E6%88%91%E4%BB%AC%E5%AE%B6%E8%8B%8F%E9%86%92%E5%91%A2%23" target="weibo">
+老师 我们家苏醒呢（热度：1124963）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%87%BA%E4%BB%BB%E4%BF%B1%E4%B9%90%E9%83%A8%E6%8A%80%E6%9C%AF%E9%A1%BE%E9%97%AE%23" target="weibo">
 张继科出任俱乐部技术顾问（热度：1098411）
 </a>
@@ -189,6 +195,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E8%91%A3%E5%AD%90%E5%81%A5%23" target="weibo">
+这居然是董子健（热度：973337）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%85%B4%23" target="weibo">
 科兴（热度：947748）
 </a>
@@ -197,6 +209,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E5%9B%A0%E6%B2%A1%E4%B8%9C%E8%A5%BF%E5%8D%96%E5%81%9C%E6%92%AD%E4%B8%80%E5%A4%A9%23" target="weibo">
 与辉同行因没东西卖停播一天（热度：928886）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%9C%AC%E6%98%8C%20%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%88%91%E6%B0%B8%E8%BF%9C%E9%99%AA%E4%BC%B4%E4%BD%A0%E4%BB%AC%23" target="weibo">
+游本昌 年轻的朋友我永远陪伴你们（热度：922349）
 </a>
 </li>
 
@@ -215,12 +233,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E6%98%8E%E7%A1%AE%E9%9D%9E%E6%97%A5%E5%B8%B8%E6%9C%8D%E9%A5%B0%E8%BF%9B%E7%AB%99%E4%BC%9A%E9%98%BB%E6%8B%A6%23" target="weibo">
 上海地铁明确非日常服饰进站会阻拦（热度：879992）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%9C%AC%E6%98%8C%20%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%88%91%E6%B0%B8%E8%BF%9C%E9%99%AA%E4%BC%B4%E4%BD%A0%E4%BB%AC%23" target="weibo">
-游本昌 年轻的朋友我永远陪伴你们（热度：868271）
 </a>
 </li>
 
@@ -256,7 +268,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%90%8E%E6%A8%A1%E6%A0%B7%E7%88%86%E6%94%B9%23" target="weibo">
-丫丫回国后模样爆改（热度：805743）
+丫丫回国后模样爆改（热度：825447）
 </a>
 </li>
 
@@ -339,6 +351,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9F%E9%97%A8%23" target="weibo">
+也门（热度：699810）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8C%972023%E5%B1%8A%E6%9C%AC%E7%A7%91%E7%94%9F%E6%AF%95%E4%B8%9A%E6%95%B0%E6%8D%AE%23" target="weibo">
 清北2023届本科生毕业数据（热度：698415）
 </a>
@@ -393,6 +411,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%87%E6%97%85%E4%BD%A0%E4%BB%AC%E6%90%9E%E8%89%B2%E8%AF%B1%E5%95%8A%23" target="weibo">
+河南文旅你们搞色诱啊（热度：625994）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E4%B8%89%E8%B9%A6%E5%AD%90%E5%9C%A8%E5%9B%BD%E5%A4%96%E7%82%B8%E8%A1%97%E4%BA%86%23" target="weibo">
 国产三蹦子在国外炸街了（热度：620027）
 </a>
@@ -405,12 +429,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9F%E9%97%A8%23" target="weibo">
-也门（热度：588703）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E8%83%96%E6%88%90%E4%BA%86A%E5%AD%97%E7%86%8A%23" target="weibo">
 丫丫胖成了A字熊（热度：588547）
 </a>
@@ -419,12 +437,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83%E5%8F%91%E5%A3%B0%23" target="weibo">
 贾玲健身教练发声（热度：585381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%20%E6%88%91%E4%BB%AC%E5%AE%B6%E8%8B%8F%E9%86%92%E5%91%A2%23" target="weibo">
-老师 我们家苏醒呢（热度：583804）
 </a>
 </li>
 
@@ -443,12 +455,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E7%9C%8B%E5%AE%88%E6%89%80%E5%86%99%E9%81%93%E6%AD%89%E4%BF%A1%23" target="weibo">
 吴谢宇看守所写道歉信（热度：577824）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%87%E6%97%85%E4%BD%A0%E4%BB%AC%E6%90%9E%E8%89%B2%E8%AF%B1%E5%95%8A%23" target="weibo">
-河南文旅你们搞色诱啊（热度：577670）
 </a>
 </li>
 
@@ -599,12 +605,6 @@ A股再现天价离婚女方分走40亿（热度：449376）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A29%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%9A%E6%A1%A3%23" target="weibo">
 大侦探9演唱会定档（热度：417650）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E8%91%A3%E5%AD%90%E5%81%A5%23" target="weibo">
-这居然是董子健（热度：414445）
 </a>
 </li>
 
@@ -1005,6 +1005,12 @@ A股再现天价离婚女方分走40亿（热度：449376）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%BA%BA%E6%B0%91%E5%B8%81%E5%AD%98%E6%AC%BE%E5%A2%9E%E5%8A%A025.74%E4%B8%87%E4%BA%BF%E5%85%83%23" target="weibo">
+2023年人民币存款增加25.74万亿元（热度：225793）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E7%BD%91%E7%BB%9C%E6%81%A2%E5%A4%8D%23" target="weibo">
 腾讯游戏网络恢复（热度：224914）
 </a>
@@ -1019,12 +1025,6 @@ A股再现天价离婚女方分走40亿（热度：449376）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%92%8C%E9%B9%BF%E6%99%97%E5%BD%93%E9%98%9F%E5%8F%8B%E7%9A%84%E5%8F%88%E4%B8%80%E5%A4%A9%23" target="weibo">
 网友和鹿晗当队友的又一天（热度：223836）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%BA%BA%E6%B0%91%E5%B8%81%E5%AD%98%E6%AC%BE%E5%A2%9E%E5%8A%A025.74%E4%B8%87%E4%BA%BF%E5%85%83%23" target="weibo">
-2023年人民币存款增加25.74万亿元（热度：221693）
 </a>
 </li>
 
@@ -1077,6 +1077,12 @@ papi酱 永远不知道同事到底叫什么（热度：217355）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%89%8DA%E8%82%A1%E5%B8%82%E5%9C%BA%E4%BC%B0%E5%80%BC%E6%B0%B4%E5%B9%B3%E5%B7%B2%E5%A4%84%E4%BA%8E%E5%8E%86%E5%8F%B2%E4%BD%8E%E4%BD%8D%23" target="weibo">
+当前A股市场估值水平已处于历史低位（热度：210520）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E9%AD%8F%E5%A6%82%E8%90%B1%20%E5%B0%B4%E5%B0%AC%E7%A4%BE%E4%BA%A4%23" target="weibo">
 汪苏泷魏如萱 尴尬社交（热度：209918）
 </a>
@@ -1119,6 +1125,12 @@ NBA全明星三倍投票日（热度：207646）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23nana%20tour%23" target="weibo">
+nana tour（热度：206624）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E5%B8%A6%E8%82%89%E8%82%89%E8%B5%B0%E7%BA%A2%E6%AF%AF%23" target="weibo">
 李一桐带肉肉走红毯（热度：205809）
 </a>
@@ -1133,12 +1145,6 @@ NBA全明星三倍投票日（热度：207646）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%B8%93%E7%94%9F%E9%80%86%E8%A2%AD%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E5%90%8E%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A%23" target="weibo">
 中专生逆袭大学教授后带火冷门专业（热度：204231）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23nana%20tour%23" target="weibo">
-nana tour（热度：203176）
 </a>
 </li>
 
@@ -1191,6 +1197,12 @@ nana tour（热度：203176）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%80%89%E8%B0%83%20%E7%BB%93%E6%9E%84%E5%8C%96%23" target="weibo">
+广东选调 结构化（热度：196748）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3vs%E6%B9%96%E4%BA%BA%23" target="weibo">
 太阳vs湖人（热度：196460）
 </a>
@@ -1209,6 +1221,12 @@ nana tour（热度：203176）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E8%A1%97%E5%A4%B4%E6%9C%8910%E4%B8%AA%E7%89%B9%E6%AE%8A%E9%93%B6%E8%A1%8C%E5%8F%AA%E5%AD%98%E9%A3%9F%E7%89%A9%23" target="weibo">
+深圳街头有10个特殊银行只存食物（热度：193737）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%AASQ7%E6%9A%97%E5%A4%9C%E9%AA%91%E5%A3%AB%E7%89%88%E4%B8%8A%E5%B8%82%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 奥迪SQ7暗夜骑士版上市发布会（热度：192417）
 </a>
@@ -1217,18 +1235,6 @@ nana tour（热度：203176）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23A%E5%A6%B9%E6%96%B0%E6%AD%8Cyes%20and%23" target="weibo">
 A妹新歌yes and（热度：192002）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E8%A1%97%E5%A4%B4%E6%9C%8910%E4%B8%AA%E7%89%B9%E6%AE%8A%E9%93%B6%E8%A1%8C%E5%8F%AA%E5%AD%98%E9%A3%9F%E7%89%A9%23" target="weibo">
-深圳街头有10个特殊银行只存食物（热度：190828）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%89%8DA%E8%82%A1%E5%B8%82%E5%9C%BA%E4%BC%B0%E5%80%BC%E6%B0%B4%E5%B9%B3%E5%B7%B2%E5%A4%84%E4%BA%8E%E5%8E%86%E5%8F%B2%E4%BD%8E%E4%BD%8D%23" target="weibo">
-当前A股市场估值水平已处于历史低位（热度：190798）
 </a>
 </li>
 
@@ -1449,12 +1455,6 @@ WTT（热度：168305）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%80%89%E8%B0%83%20%E7%BB%93%E6%9E%84%E5%8C%96%23" target="weibo">
-广东选调 结构化（热度：164619）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%85%AC%E5%8F%B8%E7%BB%99%E5%91%98%E5%B7%A5%E7%88%B6%E6%AF%8D%E5%8F%91260%E4%B8%87%E5%AD%9D%E5%BF%83%E5%9F%BA%E9%87%91%23" target="weibo">
 山东一公司给员工父母发260万孝心基金（热度：164371）
 </a>
@@ -1493,6 +1493,12 @@ WTT（热度：168305）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%8D%86%E5%9B%9E%E5%BB%8A%E4%B8%8A%E7%BA%BF%23" target="weibo">
 白荆回廊上线（热度：160010）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%89%E8%BF%87%E6%84%A4%E6%80%92%E7%9A%84%E6%B5%B7%23" target="weibo">
+涉过愤怒的海（热度：159296）
 </a>
 </li>
 
@@ -1539,8 +1545,8 @@ WTT（热度：168305）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%89%E8%BF%87%E6%84%A4%E6%80%92%E7%9A%84%E6%B5%B7%23" target="weibo">
-涉过愤怒的海（热度：154991）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%9D%83%E5%93%B2%E4%BA%8C%E5%85%AC%E8%88%9E%E5%8F%B0super%23" target="weibo">
+李权哲二公舞台super（热度：153266）
 </a>
 </li>
 
@@ -1713,6 +1719,12 @@ LCK处罚公告（热度：145849）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%BF%9B%E7%94%B7%E5%8D%958%E5%BC%BA%23" target="weibo">
+马龙进男单8强（热度：137974）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%85%B5%E4%BA%8C%E7%AD%89%E5%8A%9F%E7%89%8C%E5%8C%BE%E9%80%81%E5%88%B0%E5%AE%B6%E5%A6%88%E5%A6%88%E6%BF%80%E5%8A%A8%E5%8F%88%E9%AA%84%E5%82%B2%23" target="weibo">
 女兵二等功牌匾送到家妈妈激动又骄傲（热度：137890）
 </a>
@@ -1823,12 +1835,6 @@ GIDLE预告（热度：133081）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E8%8E%B1%E5%A3%AB%E5%B0%86%E9%80%81%E5%87%BA%E8%B6%853%E4%B8%87%E4%BB%BD%E5%85%8D%E5%8D%95%23" target="weibo">
 华莱士将送出超3万份免单（热度：125512）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%BF%9B%E7%94%B7%E5%8D%958%E5%BC%BA%23" target="weibo">
-马龙进男单8强（热度：124810）
 </a>
 </li>
 

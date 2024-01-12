@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705065668837,
+  "endTime": 1705066428808,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -899,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1591708,
+      "num": 1591708,
+      "word": "0713央视春晚彩排",
+      "onboard_time": 1705060410,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1591369,
       "num": 1591369,
       "word": "谁领到了中国第一张身份证",
@@ -968,14 +976,6 @@
       "word": "杨紫好瘦",
       "onboard_time": 1704031872,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1551123,
-      "num": 1551123,
-      "word": "0713央视春晚彩排",
-      "onboard_time": 1705060410,
-      "rank": 1,
       "category": "综艺"
     },
     {
@@ -2107,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1124963,
+      "num": 1124963,
+      "word": "老师 我们家苏醒呢",
+      "onboard_time": 1705064672,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1123550,
       "num": 285448,
       "word": "母亲以死逼婚儿子结婚半年闪离",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704100837,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1037679,
-      "num": 1037679,
-      "word": "岳云鹏曾被30人围观洗澡",
-      "onboard_time": 1704677908,
-      "rank": 1,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
