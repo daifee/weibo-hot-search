@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1705051109274,
+  "endTime": 1705052076441,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -1460,7 +1460,7 @@
     },
     {
       "raw_hot": 839381,
-      "num": 426642,
+      "num": 473752,
       "word": "沈腾希望贾玲回归王牌",
       "onboard_time": 1705048290,
       "rank": 13,
@@ -1745,6 +1745,14 @@
       "onboard_time": 1704601713,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 767355,
+      "num": 767355,
+      "word": "胡歌马伊琍唐嫣辛芷蕾合体",
+      "onboard_time": 1705050089,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 764554,
@@ -2091,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716886,
+      "num": 716886,
+      "word": "绿雪冰城",
+      "onboard_time": 1705050511,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 716095,
       "num": 716095,
       "word": "唐嫣拍繁花爸爸每天接下班",
@@ -2403,6 +2419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 656936,
+      "num": 656936,
+      "word": "折腰补音完成",
+      "onboard_time": 1705049671,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655384,
       "num": 655384,
       "word": "央视曝李铁案关系网",
@@ -2481,14 +2505,6 @@
       "onboard_time": 1704562401,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 634632,
-      "num": 634632,
-      "word": "折腰补音完成",
-      "onboard_time": 1705049671,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 627878,
@@ -3123,14 +3139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 550874,
-      "num": 418781,
-      "word": "胡歌马伊琍唐嫣辛芷蕾合体",
-      "onboard_time": 1705050089,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 550516,
       "num": 550516,
       "word": "留美流浪博士发声",
@@ -3521,6 +3529,14 @@
       "onboard_time": 1704847356,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511946,
+      "num": 403137,
+      "word": "中国电视剧年度盛典红毯",
+      "onboard_time": 1705049309,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 511498,
@@ -5283,6 +5299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 336865,
+      "num": 266507,
+      "word": "关晓彤 机车女孩",
+      "onboard_time": 1705050147,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335913,
       "num": 335913,
       "word": "张镇麟领证",
@@ -5979,6 +6003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 296285,
+      "num": 192760,
+      "word": "西安市长安区发现一具男尸",
+      "onboard_time": 1705051532,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296170,
       "num": 296170,
       "word": "王者海诺新皮肤",
@@ -6251,6 +6283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277651,
+      "num": 252724,
+      "word": "董思成怎么才拍古装",
+      "onboard_time": 1705050269,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277143,
       "num": 277143,
       "word": "2024春节档已官宣5部电影",
@@ -6289,6 +6329,14 @@
       "onboard_time": 1704973230,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273814,
+      "num": 239076,
+      "word": "王家卫为二刷观众调整繁花",
+      "onboard_time": 1705051290,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 273455,
@@ -6409,14 +6457,6 @@
       "onboard_time": 1704711690,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 266507,
-      "num": 266507,
-      "word": "关晓彤 机车女孩",
-      "onboard_time": 1705050147,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 266371,
@@ -7075,14 +7115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236868,
-      "num": 236868,
-      "word": "绿雪冰城",
-      "onboard_time": 1705050511,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 236608,
       "num": 236608,
       "word": "苹果头显2月2日上市",
@@ -7673,14 +7705,6 @@
       "onboard_time": 1704756867,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218857,
-      "num": 218857,
-      "word": "董思成怎么才拍古装",
-      "onboard_time": 1705050269,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 218586,
@@ -9467,6 +9491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184320,
+      "num": 184320,
+      "word": "亚洲杯开幕",
+      "onboard_time": 1705051827,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184252,
       "num": 184252,
       "word": "四川人聊到家乡特产咋聊沉默了",
@@ -9601,6 +9633,14 @@
       "onboard_time": 1704794733,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182718,
+      "num": 182718,
+      "word": "川川把自己的心尖尖送给尔滨",
+      "onboard_time": 1705050811,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182572,
@@ -9753,6 +9793,14 @@
       "onboard_time": 1704882931,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180136,
+      "num": 180136,
+      "word": "维生素补剂 智商税",
+      "onboard_time": 1705051410,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 180042,
@@ -10547,6 +10595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166295,
+      "num": 166295,
+      "word": "女儿立二等功妈妈骄傲的表情藏不住",
+      "onboard_time": 1705051771,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166291,
       "num": 150386,
       "word": "于文文妈见打系穿搭",
@@ -11313,6 +11369,14 @@
       "onboard_time": 1704870753,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 155636,
+      "num": 155636,
+      "word": "散宝坐大人桌",
+      "onboard_time": 1705051771,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 155630,
@@ -12331,14 +12395,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139041,
-      "num": 139041,
-      "word": "川川把自己的心尖尖送给尔滨",
-      "onboard_time": 1705050811,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138654,
       "num": 138654,
       "word": "减少卡粉的最重要的步骤",
@@ -12619,6 +12675,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 134972,
+      "num": 134972,
+      "word": "不是肺部有炎症就叫白肺",
+      "onboard_time": 1705052011,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 134962,
       "num": 134962,
       "word": "首例AI生成图片侵权案原告胜诉",
@@ -12665,6 +12729,14 @@
       "onboard_time": 1704873209,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133875,
+      "num": 133875,
+      "word": "霉霉 世一",
+      "onboard_time": 1705052011,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 133844,
@@ -15267,6 +15339,14 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 74808,
+      "num": 873481,
+      "word": "我国新能源汽车产销连续九年世界第一",
+      "onboard_time": 1705050869,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74765,
       "num": 74765,
       "word": "王霏霏晒JYP合照",
@@ -16073,14 +16153,6 @@
       "onboard_time": 1705002914,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 15888,
-      "num": 873481,
-      "word": "我国新能源汽车产销连续九年世界第一",
-      "onboard_time": 1705050869,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15758,
