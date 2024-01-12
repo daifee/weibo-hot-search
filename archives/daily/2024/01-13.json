@@ -1,6 +1,6 @@
 {
   "startTime": 1705076591437,
-  "endTime": 1705095249472,
+  "endTime": 1705097809761,
   "band_list": [
     {
       "raw_hot": 1581875,
@@ -467,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 47565,
+      "num": 47565,
+      "word": "鹤岗文旅局长在哈尔滨烤串",
+      "onboard_time": 1705094415,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37937,
       "num": 37937,
       "word": "繁花后劲太大了",
@@ -481,6 +489,14 @@
       "onboard_time": 1705069231,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33962,
+      "num": 31939,
+      "word": "康复师评董子健睡姿",
+      "onboard_time": 1705093273,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 33781,
@@ -499,12 +515,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 27764,
-      "num": 27764,
-      "word": "康复师评董子健睡姿",
-      "onboard_time": 1705093273,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 31599,
+      "num": 31599,
+      "word": "公司为了惩罚我们取消了年会",
+      "onboard_time": 1705094113,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 24587,
@@ -515,20 +531,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22674,
+      "num": 20826,
+      "word": "最强大脑印度选手",
+      "onboard_time": 1705091293,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22309,
       "num": 22309,
       "word": "制作裙子的全过程",
       "onboard_time": 1705084218,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 18383,
-      "num": 16041,
-      "word": "最强大脑印度选手",
-      "onboard_time": 1705091293,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 18246,
@@ -539,14 +555,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 17355,
-      "num": 17355,
-      "word": "公司为了惩罚我们取消了年会",
-      "onboard_time": 1705094113,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 16223,
       "num": 18980,
       "word": "放弃也是一种很绝的心态",
@@ -555,16 +563,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 14351,
-      "num": 14351,
-      "word": "鹤岗文旅局长在哈尔滨烤串",
-      "onboard_time": 1705094415,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11174,
-      "num": 11174,
+      "raw_hot": 14537,
+      "num": 15439,
       "word": "为什么狗狗能找到回家的路",
       "onboard_time": 1705094773,
       "rank": 49,
