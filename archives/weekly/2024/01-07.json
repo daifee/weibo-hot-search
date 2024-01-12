@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1705084545003,
+  "endTime": 1705086880195,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -16993,6 +16993,14 @@
       "onboard_time": 1704642390,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24587,
+      "num": 24360,
+      "word": "何蓝逗非主流文案",
+      "onboard_time": 1705084995,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 24244,
