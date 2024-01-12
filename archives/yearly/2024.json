@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705059241998,
+  "endTime": 1705062797779,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -827,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1646308,
+      "num": 1646308,
+      "word": "关闭自动续费仍被扣费",
+      "onboard_time": 1705058007,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1631117,
       "num": 1631117,
       "word": "刘亦菲 唐嫣是最好的汪小姐",
@@ -960,6 +968,14 @@
       "word": "杨紫好瘦",
       "onboard_time": 1704031872,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1549550,
+      "num": 1549550,
+      "word": "0713央视春晚彩排",
+      "onboard_time": 1705060410,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704378876,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1031466,
-      "num": 971736,
-      "word": "霉霉 世一",
-      "onboard_time": 1705052011,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1030658,
-      "num": 1030658,
-      "word": "腾讯游戏全部断开",
-      "onboard_time": 1705014861,
-      "rank": 32,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [

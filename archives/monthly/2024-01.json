@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705059241998,
+  "endTime": 1705062797779,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -827,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1646308,
+      "num": 1646308,
+      "word": "关闭自动续费仍被扣费",
+      "onboard_time": 1705058007,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1631117,
       "num": 1631117,
       "word": "刘亦菲 唐嫣是最好的汪小姐",
@@ -960,6 +968,14 @@
       "word": "杨紫好瘦",
       "onboard_time": 1704031872,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1549550,
+      "num": 1549550,
+      "word": "0713央视春晚彩排",
+      "onboard_time": 1705060410,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -2699,6 +2715,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 968487,
+      "num": 968487,
+      "word": "关晓彤 我当时火就上来了",
+      "onboard_time": 1705060650,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 966875,
       "num": 966875,
       "word": "朱珠这衣服换我穿就是红秋衣",
@@ -3403,6 +3427,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 840027,
+      "num": 840027,
+      "word": "孙颖莎11比0",
+      "onboard_time": 1705059931,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 839538,
       "num": 839538,
       "word": "北大校花毕业10年返乡卖臭豆腐",
@@ -3481,6 +3513,14 @@
       "onboard_time": 1704866069,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 832495,
+      "num": 832495,
+      "word": "林俊杰 票来",
+      "onboard_time": 1705058848,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 831717,
@@ -4587,6 +4627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 719844,
+      "num": 719844,
+      "word": "她不再是过去的赵丽颖",
+      "onboard_time": 1705057710,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 719746,
       "num": 719746,
       "word": "老婆力劝范志毅出演繁花",
@@ -5187,14 +5235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 669845,
-      "num": 669845,
-      "word": "关闭自动续费仍被扣费",
-      "onboard_time": 1705058007,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 669817,
       "num": 495268,
       "word": "王源说暂停是为了重新出发",
@@ -5265,6 +5305,14 @@
       "onboard_time": 1704518730,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 665532,
+      "num": 491380,
+      "word": "游本昌 年轻的朋友我永远陪伴你们",
+      "onboard_time": 1705059808,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 664808,
@@ -6361,6 +6409,14 @@
       "onboard_time": 1704692370,
       "rank": 5,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 580553,
+      "num": 491127,
+      "word": "科兴",
+      "onboard_time": 1705060469,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 579458,
@@ -8075,6 +8131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492129,
+      "num": 492129,
+      "word": "广州宝马撞人案正在死刑复核",
+      "onboard_time": 1705056930,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491921,
       "num": 491921,
       "word": "张婧仪檀健次吻戏",
@@ -8121,6 +8185,14 @@
       "onboard_time": 1704880230,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490874,
+      "num": 490874,
+      "word": "杨幂说自己穿新中式被看到是荣幸",
+      "onboard_time": 1705059931,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 490322,
@@ -10467,6 +10539,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 374256,
+      "num": 374256,
+      "word": "丫丫回国后模样爆改",
+      "onboard_time": 1705061790,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374192,
       "num": 361273,
       "word": "宁波地铁偶遇卢昱晓",
@@ -10625,14 +10705,6 @@
       "onboard_time": 1705022790,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 366187,
-      "num": 366187,
-      "word": "她不再是过去的赵丽颖",
-      "onboard_time": 1705057710,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 366146,
@@ -10929,6 +11001,14 @@
       "onboard_time": 1704670945,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353449,
+      "num": 353449,
+      "word": "山东文旅 我姓东",
+      "onboard_time": 1705060047,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 353156,
@@ -12539,14 +12619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 298700,
-      "num": 298700,
-      "word": "广州宝马撞人案正在死刑复核",
-      "onboard_time": 1705056930,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298527,
       "num": 298527,
       "word": "台湾女生在东北第一次吃冰糖葫芦",
@@ -12825,6 +12897,14 @@
       "onboard_time": 1704792513,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291103,
+      "num": 291103,
+      "word": "来伊份直播",
+      "onboard_time": 1705062149,
+      "rank": 19,
+      "category": "美食,艺人"
     },
     {
       "raw_hot": 291080,
@@ -13353,6 +13433,14 @@
       "onboard_time": 1704168938,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 278065,
+      "num": 278065,
+      "word": "孙颖莎3比0张本美和",
+      "onboard_time": 1705061850,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 277825,
@@ -14572,7 +14660,7 @@
     },
     {
       "raw_hot": 249950,
-      "num": 212559,
+      "num": 246453,
       "word": "央视镜头下的辛芷蕾",
       "onboard_time": 1705058848,
       "rank": 23,
@@ -16259,6 +16347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221693,
+      "num": 221693,
+      "word": "2023年人民币存款增加25.74万亿元",
+      "onboard_time": 1705060950,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 221661,
       "num": 221661,
       "word": "专家建议暂停IPO让市场喘口气",
@@ -16603,14 +16699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 216625,
-      "num": 205390,
-      "word": "林俊杰 票来",
-      "onboard_time": 1705058848,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 216585,
       "num": 216585,
       "word": "终于看到了我喜欢的簪花",
@@ -16801,6 +16889,14 @@
       "onboard_time": 1704443312,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 213318,
+      "num": 194540,
+      "word": "河南文旅你们搞色诱啊",
+      "onboard_time": 1705062271,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 212951,
@@ -17763,6 +17859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203309,
+      "num": 203309,
+      "word": "春晚彩排",
+      "onboard_time": 1705062570,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203276,
       "num": 203276,
       "word": "nana tour",
@@ -18576,6 +18680,14 @@
       "word": "PUBG服务器",
       "onboard_time": 1704290017,
       "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 196808,
+      "num": 196808,
+      "word": "蛋仔派对 匹配不了",
+      "onboard_time": 1705062389,
+      "rank": 28,
       "category": "游戏"
     },
     {
@@ -20923,6 +21035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176917,
+      "num": 176917,
+      "word": "汪小姐的底色",
+      "onboard_time": 1705060827,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176905,
       "num": 176905,
       "word": "胡歌繁花同款西装定制电话打爆了",
@@ -21145,6 +21265,14 @@
       "onboard_time": 1704513871,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 175089,
+      "num": 175089,
+      "word": "明星出发微博之夜",
+      "onboard_time": 1705062689,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175066,
@@ -21481,6 +21609,14 @@
       "onboard_time": 1704202417,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 172773,
+      "num": 172773,
+      "word": "双鱼座最舒服的状态",
+      "onboard_time": 1705058792,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 172718,
@@ -22027,6 +22163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 168222,
+      "num": 168222,
+      "word": "96岁父亲祝儿子70岁生日快乐",
+      "onboard_time": 1705062509,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168191,
       "num": 168191,
       "word": "代餐型单身",
@@ -22313,6 +22457,14 @@
       "onboard_time": 1704332551,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165755,
+      "num": 168293,
+      "word": "王曼昱3比1郑怡静",
+      "onboard_time": 1705061489,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 165747,
@@ -23819,6 +23971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153255,
+      "num": 153255,
+      "word": "人夫感是种什么感",
+      "onboard_time": 1705060891,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153230,
       "num": 153230,
       "word": "检查狗狗嘴巴被邻居拍下来发给我了",
@@ -25051,14 +25211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143647,
-      "num": 143647,
-      "word": "双鱼座最舒服的状态",
-      "onboard_time": 1705058792,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 143630,
       "num": 143630,
       "word": "一进腊月就是年",
@@ -25369,6 +25521,14 @@
       "onboard_time": 1704497903,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141451,
+      "num": 141451,
+      "word": "也门",
+      "onboard_time": 1705062689,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 141371,
@@ -25985,6 +26145,14 @@
       "onboard_time": 1704972452,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136715,
+      "num": 136715,
+      "word": "Faker定级赛连败",
+      "onboard_time": 1705061311,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 136698,
