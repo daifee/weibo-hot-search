@@ -1,0 +1,410 @@
+{
+  "runTime": 1705034181124,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1611620,
+        "num": 1611620,
+        "word": "赵丽颖微博文案是手语",
+        "onboard_time": 1705028849,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1469290,
+        "num": 1469290,
+        "word": "日本福岛百人因吃生鱼片食物中毒",
+        "onboard_time": 1705031011,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109557,
+        "num": 1224301,
+        "word": "2024春运火车票今起开售",
+        "onboard_time": 1705028427,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085934,
+        "num": 1085934,
+        "word": "日韩机票跌到史上最低",
+        "onboard_time": 1705028309,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 721720,
+        "num": 721720,
+        "word": "老人女儿回应张馨予买气球",
+        "onboard_time": 1705020450,
+        "rank": 4,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 576884,
+        "num": 576884,
+        "word": "女子继承千万欧元遗产想找50个人帮忙花",
+        "onboard_time": 1705032389,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527883,
+        "num": 527883,
+        "word": "路人把谢娜认成了林心如",
+        "onboard_time": 1705027168,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470213,
+        "num": 470213,
+        "word": "台湾小当归要去尔滨回礼送糖",
+        "onboard_time": 1705029508,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423699,
+        "num": 423699,
+        "word": "2024春节档已官宣六部电影",
+        "onboard_time": 1705033173,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 398466,
+        "num": 398466,
+        "word": "丫丫胖成了A字熊",
+        "onboard_time": 1705024528,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1426565,
+        "num": 395066,
+        "word": "官方彻查大量河南初中生转入大庆",
+        "onboard_time": 1705030589,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849222,
+        "num": 391346,
+        "word": "陈泽 一个亿",
+        "onboard_time": 1705016965,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 366146,
+        "num": 366146,
+        "word": "张译王骁高叶再合作",
+        "onboard_time": 1705032510,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336943,
+        "num": 336943,
+        "word": "贾玲健身教练发声",
+        "onboard_time": 1704968910,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43876,
+        "num": 332414,
+        "word": "世界之外1.26上线",
+        "onboard_time": 1705032029,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329993,
+        "num": 329993,
+        "word": "赵丽颖演聋哑人",
+        "onboard_time": 1705028127,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322773,
+        "num": 322773,
+        "word": "大一女生校内坠亡生前疑遭舍友辱骂",
+        "onboard_time": 1705017629,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51995,
+        "num": 299705,
+        "word": "华为门店里有龙出没",
+        "onboard_time": 1705032333,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 294220,
+        "num": 294220,
+        "word": "马面裙 卧铺床帘",
+        "onboard_time": 1705029929,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 444896,
+        "num": 291493,
+        "word": "与辉同行因没东西卖停播一天",
+        "onboard_time": 1705022608,
+        "rank": 19,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 826774,
+        "num": 288037,
+        "word": "大脑为何要删除3岁前的记忆",
+        "onboard_time": 1705030890,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 284214,
+        "num": 284214,
+        "word": "张小斐肌肉线条",
+        "onboard_time": 1705027349,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 662230,
+        "num": 283004,
+        "word": "官方回应大量河南学生中考移民至黑龙江",
+        "onboard_time": 1705022608,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 342752,
+        "num": 282855,
+        "word": "婆婆熬了多少我们该熬的夜",
+        "onboard_time": 1705033471,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311304,
+        "num": 281642,
+        "word": "工作一年了你攒了多少钱",
+        "onboard_time": 1705029267,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277126,
+        "num": 277126,
+        "word": "第一次见男主把女主吊起来哄睡",
+        "onboard_time": 1704988048,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272597,
+        "num": 272597,
+        "word": "特斯拉降价",
+        "onboard_time": 1705021051,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 268739,
+        "num": 268739,
+        "word": "男子离婚后发现前妻不到7月就生娃",
+        "onboard_time": 1705017086,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249453,
+        "num": 249453,
+        "word": "贾玲 这一年真的好饿好累",
+        "onboard_time": 1705032271,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244396,
+        "num": 244396,
+        "word": "机票买贵24小时内符合条件可免费退",
+        "onboard_time": 1705033352,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372152,
+        "num": 238912,
+        "word": "胡塞官员称对美英军舰报复性打击",
+        "onboard_time": 1705033654,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 228713,
+        "num": 228713,
+        "word": "小熊猫离开尔滨临时妈妈哇哇大哭",
+        "onboard_time": 1705028008,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225340,
+        "num": 225340,
+        "word": "陈绮贞与前男友合同纠纷案开庭",
+        "onboard_time": 1705028008,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200922,
+        "num": 200922,
+        "word": "宋茜的柔韧度",
+        "onboard_time": 1705031129,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199317,
+        "num": 199317,
+        "word": "陈哲远工作室开通官微",
+        "onboard_time": 1705032271,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196824,
+        "num": 196824,
+        "word": "谢娜给杨紫煮了一碗面",
+        "onboard_time": 1705033775,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187567,
+        "num": 187567,
+        "word": "雷佳音高叶演初恋",
+        "onboard_time": 1705029688,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166837,
+        "num": 166837,
+        "word": "赵明称不怕友商来偷图纸",
+        "onboard_time": 1705033829,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169280,
+        "num": 166783,
+        "word": "第二十条阵容海报",
+        "onboard_time": 1705026626,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164475,
+        "num": 164475,
+        "word": "拜登回应英美空袭也门",
+        "onboard_time": 1705022790,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 163275,
+        "num": 163275,
+        "word": "世界之外公测定档",
+        "onboard_time": 1705033230,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161872,
+        "num": 161872,
+        "word": "热辣滚烫定档预告",
+        "onboard_time": 1705031251,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154673,
+        "num": 154673,
+        "word": "清北2023届本科生毕业数据",
+        "onboard_time": 1705034012,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152950,
+        "num": 152950,
+        "word": "张艺兴C罗 张罗起来了",
+        "onboard_time": 1705033654,
+        "rank": 43,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 151760,
+        "num": 151760,
+        "word": "全家不明原因发烧如何护理",
+        "onboard_time": 1705033893,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148575,
+        "num": 148575,
+        "word": "2024LPL春季赛赛程",
+        "onboard_time": 1705034073,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145339,
+        "num": 145339,
+        "word": "一句话毁掉打工人的一天",
+        "onboard_time": 1705034012,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143060,
+        "num": 143060,
+        "word": "飞驰人生2沈腾当科目二教练",
+        "onboard_time": 1705029988,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135096,
+        "num": 135096,
+        "word": "我国新三样产品出口首破万亿元",
+        "onboard_time": 1705033296,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 134698,
+        "num": 134698,
+        "word": "易小雅 邓为造型",
+        "onboard_time": 1705034133,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业把群众冰雪运动热情保持下去#"
+    }
+  }
+}
