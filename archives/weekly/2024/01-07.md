@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/07 00:21:26 ~ 2024/01/13 01:33:59
+本榜单时间：2024/01/07 00:21:26 ~ 2024/01/13 02:22:31
 </p>
 </blockquote>
 <p>
@@ -8829,6 +8829,12 @@ AKA复旦大学尚雯婕（热度：159836）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%941%E6%9E%97%E9%92%9F%E5%8B%8B%23" target="weibo">
+樊振东3比1林钟勋（热度：158886）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C%23" target="weibo">
 年会不能停（热度：158879）
 </a>
@@ -12027,6 +12033,12 @@ FindX7封神（热度：91560）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C3%E6%AF%941%E5%8D%A1%E8%BE%9B%23" target="weibo">
+林高远3比1卡辛（热度：91506）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A8%E4%BA%BA%E6%96%B0%E5%9B%BE%20%E4%BD%A0%E4%BB%AC%E9%83%BD%E6%98%AF%E8%B0%81%23" target="weibo">
 巨人新图 你们都是谁（热度：91231）
 </a>
@@ -12435,6 +12447,12 @@ FindX7价格秒了（热度：57585）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%B0%8F%E4%BC%99%E8%AF%B4%E8%94%93%E8%B6%8A%E8%8E%93%E4%B8%8D%E9%85%B8%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1%E9%85%B8%23" target="weibo">
+广西小伙说蔓越莓不酸是我自己酸（热度：54904）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%89%B9%E4%BE%9B%E8%8A%AF%E7%89%87%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%81%87%E5%86%B7%23" target="weibo">
 英伟达特供芯片在中国遇冷（热度：54300）
 </a>
@@ -12669,6 +12687,12 @@ MK明星派对好多人啊（热度：36007）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%B1%E7%94%A8%E4%BA%86%20%E5%B0%B1%E4%BC%9A%E5%88%B0%E5%88%AB%E4%BA%BA%E7%9A%84%E6%89%8B%E9%87%8C%E5%8E%BB%23" target="weibo">
+钱用了 就会到别人的手里去（热度：33601）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%BB%E4%B9%A6%E5%A3%B0%20%E5%90%B5%E5%88%B0%E6%88%91%E8%89%AF%E5%BF%83%E4%BA%86%23" target="weibo">
 翻书声 吵到我良心了（热度：33246）
 </a>
@@ -12701,6 +12725,12 @@ MK明星派对好多人啊（热度：36007）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%B9%B4%E5%B9%B2%E5%87%BA%E5%BC%80%E9%97%A8%E7%BA%A2%23" target="weibo">
 中国开年干出开门红（热度：30270）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E6%89%8B%E7%9F%AD%E5%89%A7%E6%97%A5%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E8%BE%BE2.7%E4%BA%BF%23" target="weibo">
+快手短剧日活跃用户达2.7亿（热度：29164）
 </a>
 </li>
 
