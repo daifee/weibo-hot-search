@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705098849007,
+  "endTime": 1705101416980,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -18899,6 +18899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197267,
+      "num": 197267,
+      "word": "鹤岗文旅局长在哈尔滨烤串",
+      "onboard_time": 1705094415,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197224,
       "num": 197224,
       "word": "王家卫精读弹幕到夜里两三点",
@@ -30851,14 +30859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92028,
-      "num": 92028,
-      "word": "鹤岗文旅局长在哈尔滨烤串",
-      "onboard_time": 1705094415,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91798,
       "num": 91798,
       "word": "找老板报销钱给少了",
@@ -31307,6 +31307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77559,
+      "num": 77559,
+      "word": "神都洛阳恭迎公主殿下回城",
+      "onboard_time": 1705098315,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 77130,
       "num": 124904,
       "word": "猫猫 游戏就这么好玩是吧",
@@ -31491,6 +31499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 67227,
+      "num": 67227,
+      "word": "河南煤矿事故8人遇难15人失联",
+      "onboard_time": 1705101020,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66812,
       "num": 66812,
       "word": "2024MSI落户成都",
@@ -31505,6 +31521,14 @@
       "onboard_time": 1705015702,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66790,
+      "num": 66790,
+      "word": "康复师评董子健睡姿",
+      "onboard_time": 1705093273,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 66646,
@@ -31641,6 +31665,14 @@
       "onboard_time": 1704085113,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63365,
+      "num": 63365,
+      "word": "平顶山事故煤矿负责人已被控制",
+      "onboard_time": 1705101020,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63243,
@@ -31787,6 +31819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60380,
+      "num": 60380,
+      "word": "广西小伙说蔓越莓不酸是我自己酸",
+      "onboard_time": 1705081160,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59998,
       "num": 59998,
       "word": "冻梨还没吃上又整上冻梨花茶了",
@@ -31907,6 +31947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 57000,
+      "num": 57000,
+      "word": "小贵但有用的护肤品",
+      "onboard_time": 1705100598,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 56633,
       "num": 1385468,
       "word": "今日三九",
@@ -31987,14 +32035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 54904,
-      "num": 54904,
-      "word": "广西小伙说蔓越莓不酸是我自己酸",
-      "onboard_time": 1705081160,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54300,
       "num": 54300,
       "word": "英伟达特供芯片在中国遇冷",
@@ -32025,6 +32065,14 @@
       "onboard_time": 1705015883,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53965,
+      "num": 53965,
+      "word": "王子文柠檬黄露腰裙",
+      "onboard_time": 1705098975,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 53725,
@@ -32121,6 +32169,14 @@
       "onboard_time": 1704445952,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51137,
+      "num": 51137,
+      "word": "感觉变笨可能是抑郁了",
+      "onboard_time": 1705100598,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 51022,
@@ -32435,14 +32491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 40194,
-      "num": 40194,
-      "word": "康复师评董子健睡姿",
-      "onboard_time": 1705093273,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 40137,
       "num": 40137,
       "word": "我国每10名儿童中至少1人患湿疹",
@@ -32643,12 +32691,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 33752,
+      "num": 33752,
+      "word": "微博之夜问答",
+      "onboard_time": 1705098375,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 33643,
       "num": 36839,
       "word": "甘蔗水的功效",
       "onboard_time": 1704496459,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 33604,
+      "num": 33604,
+      "word": "最强大脑印度选手",
+      "onboard_time": 1705091293,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 33601,
@@ -32739,6 +32803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30463,
+      "num": 30463,
+      "word": "尔滨阿姨特意将游客冰饮放窗边防融",
+      "onboard_time": 1705101198,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30375,
       "num": 237105,
       "word": "谢谢元梦帮我圆梦",
@@ -32753,6 +32825,14 @@
       "onboard_time": 1704596010,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28778,
+      "num": 28778,
+      "word": "尔滨你火到国外啦",
+      "onboard_time": 1705089853,
+      "rank": 37,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 28544,
@@ -32803,14 +32883,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 25485,
-      "num": 24118,
-      "word": "微博之夜问答",
-      "onboard_time": 1705098375,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 25338,
       "num": 25338,
       "word": "cos的风还是吹到了霉霉大电影",
@@ -32825,14 +32897,6 @@
       "onboard_time": 1705084995,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24493,
-      "num": 21690,
-      "word": "最强大脑印度选手",
-      "onboard_time": 1705091293,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 24244,
@@ -33025,22 +33089,6 @@
       "onboard_time": 1704225674,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 18246,
-      "num": 18692,
-      "word": "尔滨你火到国外啦",
-      "onboard_time": 1705089853,
-      "rank": 37,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 18194,
-      "num": 18696,
-      "word": "神都洛阳恭迎公主殿下回城",
-      "onboard_time": 1705098315,
-      "rank": 40,
-      "category": "旅游"
     },
     {
       "raw_hot": 18181,
