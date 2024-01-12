@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705034181124,
+  "endTime": 1705036661279,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -964,7 +964,7 @@
     },
     {
       "raw_hot": 1513830,
-      "num": 563668,
+      "num": 659582,
       "word": "陈泽 一个亿",
       "onboard_time": 1705016965,
       "rank": 10,
@@ -1448,6 +1448,14 @@
       "word": "年底裸辞赶上了招聘荒",
       "onboard_time": 1704876152,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1316137,
+      "num": 1316137,
+      "word": "女子继承千万欧元遗产想找50个人帮忙花",
+      "onboard_time": 1705032389,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704075636,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1007605,
-      "num": 1007605,
-      "word": "樊振东vs王楚钦",
-      "onboard_time": 1704467256,
-      "rank": 15,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

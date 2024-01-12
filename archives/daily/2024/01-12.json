@@ -1,6 +1,6 @@
 {
   "startTime": 1704990232348,
-  "endTime": 1705034181124,
+  "endTime": 1705036661279,
   "band_list": [
     {
       "raw_hot": 1936072,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1513830,
-      "num": 563668,
+      "num": 659582,
       "word": "陈泽 一个亿",
       "onboard_time": 1705016965,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1705022608,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1316137,
+      "num": 1316137,
+      "word": "女子继承千万欧元遗产想找50个人帮忙花",
+      "onboard_time": 1705032389,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1274861,
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872226,
+      "num": 872226,
+      "word": "2024春节档已官宣六部电影",
+      "onboard_time": 1705033173,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 861769,
       "num": 861769,
       "word": "医生谈贾玲整容式暴瘦",
@@ -171,6 +187,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 640151,
+      "num": 640151,
+      "word": "李铁同款签字安全笔已售9万支",
+      "onboard_time": 1705035092,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 638924,
+      "num": 515241,
+      "word": "小米回应雷军账号真实姓名刘伟",
+      "onboard_time": 1705034372,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 620027,
       "num": 620027,
       "word": "国产三蹦子在国外炸街了",
@@ -195,20 +227,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 584405,
+      "num": 584405,
+      "word": "清北2023届本科生毕业数据",
+      "onboard_time": 1705034012,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 578154,
       "num": 578154,
       "word": "谢娜烤火鞋被烧了",
       "onboard_time": 1705020151,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 576884,
-      "num": 576884,
-      "word": "女子继承千万欧元遗产想找50个人帮忙花",
-      "onboard_time": 1705032389,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 548751,
@@ -275,6 +307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 472736,
+      "num": 472736,
+      "word": "热辣滚烫预告 李焕英回眸",
+      "onboard_time": 1705035990,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 463640,
       "num": 463640,
       "word": "俞敏洪用董宇辉完成了去董化",
@@ -315,20 +355,36 @@
       "category": "电影"
     },
     {
-      "raw_hot": 423699,
-      "num": 423699,
-      "word": "2024春节档已官宣六部电影",
-      "onboard_time": 1705033173,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 433144,
+      "num": 433144,
+      "word": "易小雅 邓为造型",
+      "onboard_time": 1705034133,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 410152,
+      "num": 262406,
+      "word": "爸爸抱身高1米45儿子逛街",
+      "onboard_time": 1705035153,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372152,
-      "num": 238912,
+      "num": 244132,
       "word": "胡塞官员称对美英军舰报复性打击",
       "onboard_time": 1705033654,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 367864,
+      "num": 282855,
+      "word": "婆婆熬了多少我们该熬的夜",
+      "onboard_time": 1705033471,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366584,
@@ -355,14 +411,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 342752,
-      "num": 282855,
-      "word": "婆婆熬了多少我们该熬的夜",
-      "onboard_time": 1705033471,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342703,
       "num": 281642,
       "word": "工作一年了你攒了多少钱",
@@ -377,6 +425,14 @@
       "onboard_time": 1705019309,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 339659,
+      "num": 339659,
+      "word": "马面裙 卧铺床帘",
+      "onboard_time": 1705029929,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 318278,
@@ -403,14 +459,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 305936,
-      "num": 294220,
-      "word": "马面裙 卧铺床帘",
-      "onboard_time": 1705029929,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 300674,
       "num": 300674,
       "word": "小熊猫离开尔滨临时妈妈哇哇大哭",
@@ -435,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273455,
+      "num": 252716,
+      "word": "贾玲锻炼练的是雷佳音",
+      "onboard_time": 1705035572,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 272540,
       "num": 272540,
       "word": "第二十条阵容海报",
@@ -457,6 +513,14 @@
       "onboard_time": 1705028187,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 249996,
+      "num": 249996,
+      "word": "王家卫说女孩晚上拍最美",
+      "onboard_time": 1705035873,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 249453,
@@ -507,6 +571,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240244,
+      "num": 240244,
+      "word": "大庆教育局称已暂时关闭学籍系统",
+      "onboard_time": 1705035271,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 235627,
+      "num": 235627,
+      "word": "谢娜给杨紫煮了一碗面",
+      "onboard_time": 1705033775,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235249,
       "num": 235249,
       "word": "当你在睡觉领导给你打电话",
@@ -521,6 +601,14 @@
       "onboard_time": 1704989305,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234393,
+      "num": 234393,
+      "word": "杭州大姐拿五粮液灌香肠",
+      "onboard_time": 1705034794,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233116,
@@ -579,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212922,
+      "num": 212922,
+      "word": "张艺兴C罗 张罗起来了",
+      "onboard_time": 1705033654,
+      "rank": 43,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 209469,
       "num": 209469,
       "word": "刘耀文首演电影",
@@ -593,6 +689,14 @@
       "onboard_time": 1705029688,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208314,
+      "num": 208314,
+      "word": "全家不明原因发烧如何护理",
+      "onboard_time": 1705033893,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 206730,
@@ -635,14 +739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 196824,
-      "num": 196824,
-      "word": "谢娜给杨紫煮了一碗面",
-      "onboard_time": 1705033775,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196460,
       "num": 196460,
       "word": "太阳vs湖人",
@@ -667,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183287,
+      "num": 183287,
+      "word": "反诈网红幸卫林被抓",
+      "onboard_time": 1705036592,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179741,
       "num": 179741,
       "word": "心疼梁祯元",
@@ -689,6 +793,14 @@
       "onboard_time": 1704982652,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176899,
+      "num": 176899,
+      "word": "狗子坐半天没人给夹菜",
+      "onboard_time": 1705035691,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 175717,
@@ -819,30 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154673,
-      "num": 154673,
-      "word": "清北2023届本科生毕业数据",
-      "onboard_time": 1705034012,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 152950,
-      "num": 152950,
-      "word": "张艺兴C罗 张罗起来了",
-      "onboard_time": 1705033654,
-      "rank": 43,
-      "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 151760,
-      "num": 151760,
-      "word": "全家不明原因发烧如何护理",
-      "onboard_time": 1705033893,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 149824,
       "num": 84005,
       "word": "怪不得菩提老祖喜欢悟空",
@@ -905,6 +993,14 @@
       "onboard_time": 1704980610,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141371,
+      "num": 141371,
+      "word": "欧文44分",
+      "onboard_time": 1705035934,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 141292,
@@ -987,20 +1083,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 134698,
-      "num": 134698,
-      "word": "易小雅 邓为造型",
-      "onboard_time": 1705034133,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 133081,
       "num": 133081,
       "word": "GIDLE预告",
       "onboard_time": 1705021469,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129107,
+      "num": 129107,
+      "word": "尔滨亲友团有多强大",
+      "onboard_time": 1705036411,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 127943,
@@ -1081,6 +1177,14 @@
       "onboard_time": 1705029209,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111931,
+      "num": 356293,
+      "word": "华莱士将送出超3万份免单",
+      "onboard_time": 1705035631,
+      "rank": 14,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 109840,
