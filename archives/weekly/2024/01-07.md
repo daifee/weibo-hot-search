@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/07 00:21:26 ~ 2024/01/13 01:16:08
+本榜单时间：2024/01/07 00:21:26 ~ 2024/01/13 01:33:59
 </p>
 </blockquote>
 <p>
@@ -12291,6 +12291,12 @@ WTT球星挑战赛多哈站2024（热度：62942）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%88%B7%E7%88%B7%E5%92%8C%E8%8A%B1%E8%8A%B1%E5%9C%A8%E4%B8%80%E8%B5%B7%E5%A5%BD%E6%B8%A9%E9%A6%A8%23" target="weibo">
+谭爷爷和花花在一起好温馨（热度：62118）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%9E%81%E5%9C%B0%E5%B8%83%E6%94%BE%E9%A6%96%E4%B8%AA%E7%94%9F%E6%80%81%E6%BD%9C%E6%A0%87%23" target="weibo">
 中国在极地布放首个生态潜标（热度：61849）
 </a>
@@ -12527,12 +12533,6 @@ daddy开车好飒（热度：49827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%97%91%E5%88%B0%E8%8B%8F%E6%9C%89%E6%9C%8B%E7%9A%84%E7%B3%96%E4%BA%86%23" target="weibo">
 嗑到苏有朋的糖了（热度：46271）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%88%B7%E7%88%B7%E5%92%8C%E8%8A%B1%E8%8A%B1%E5%9C%A8%E4%B8%80%E8%B5%B7%E5%A5%BD%E6%B8%A9%E9%A6%A8%23" target="weibo">
-谭爷爷和花花在一起好温馨（热度：46066）
 </a>
 </li>
 

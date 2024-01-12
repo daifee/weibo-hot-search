@@ -1,6 +1,6 @@
 {
   "startTime": 1705076591437,
-  "endTime": 1705079768690,
+  "endTime": 1705080839972,
   "band_list": [
     {
       "raw_hot": 1581875,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501894,
+      "num": 501894,
+      "word": "睡觉中途醒了 不要看时间",
+      "onboard_time": 1705053449,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 495177,
       "num": 495177,
       "word": "这居然是董子健",
       "onboard_time": 1705065090,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 452163,
-      "num": 452163,
-      "word": "睡觉中途醒了 不要看时间",
-      "onboard_time": 1705053449,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 443886,
@@ -403,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62118,
+      "num": 62118,
+      "word": "谭爷爷和花花在一起好温馨",
+      "onboard_time": 1705079002,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61072,
       "num": 61072,
       "word": "李权哲二公舞台super",
@@ -435,12 +443,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 46066,
-      "num": 46066,
-      "word": "谭爷爷和花花在一起好温馨",
-      "onboard_time": 1705079002,
+      "raw_hot": 37937,
+      "num": 37937,
+      "word": "繁花后劲太大了",
+      "onboard_time": 1705047929,
       "rank": 48,
-      "category": "社会新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 37393,
@@ -454,6 +462,9 @@
   "hotgov_list": [
     {
       "word": "#习近平会见比利时首相#"
+    },
+    {
+      "word": "#发展冰雪产业把群众冰雪运动热情保持下去#"
     }
   ]
 }
