@@ -1,0 +1,410 @@
+{
+  "runTime": 1705084545003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 315826,
+        "num": 315826,
+        "word": "睡觉中途醒了 不要看时间",
+        "onboard_time": 1705053449,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312847,
+        "num": 312847,
+        "word": "警方通报大一女生校内坠楼身亡",
+        "onboard_time": 1705071755,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12812,
+        "num": 195961,
+        "word": "扛着大型快递飞天的天舟六号下班啦",
+        "onboard_time": 1705069231,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182443,
+        "num": 182443,
+        "word": "游本昌 年轻的朋友我永远陪伴你们",
+        "onboard_time": 1705059808,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152428,
+        "num": 152428,
+        "word": "亚洲最帅王子迎娶平民女孩",
+        "onboard_time": 1705068212,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142229,
+        "num": 142229,
+        "word": "丫丫回国后模样爆改",
+        "onboard_time": 1705061790,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136134,
+        "num": 136134,
+        "word": "官方回应镇政府工作人员上班打游戏",
+        "onboard_time": 1705073852,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128960,
+        "num": 128960,
+        "word": "刘德华下个月就要去超市上班了",
+        "onboard_time": 1705069892,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118179,
+        "num": 118179,
+        "word": "0713央视春晚彩排",
+        "onboard_time": 1705060410,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99054,
+        "num": 99054,
+        "word": "这居然是董子健",
+        "onboard_time": 1705065090,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176192,
+        "num": 97714,
+        "word": "这该不会是贾玲的胳膊吧",
+        "onboard_time": 1705044332,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121484,
+        "num": 96652,
+        "word": "樊振东3比1林钟勋",
+        "onboard_time": 1705061009,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94505,
+        "num": 94505,
+        "word": "也门",
+        "onboard_time": 1705062689,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 79355,
+        "num": 79355,
+        "word": "全嘻嘻 聊聊离婚",
+        "onboard_time": 1705070195,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78883,
+        "num": 78883,
+        "word": "老师 我们家苏醒呢",
+        "onboard_time": 1705064672,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84958,
+        "num": 77484,
+        "word": "沈腾句句不提贾玲句句都是贾玲",
+        "onboard_time": 1705070914,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75449,
+        "num": 75449,
+        "word": "胡歌肖战同框",
+        "onboard_time": 1705063831,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73944,
+        "num": 73944,
+        "word": "俞灏明三个小时做了一只鸡",
+        "onboard_time": 1705072230,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72990,
+        "num": 72990,
+        "word": "关晓彤 我当时火就上来了",
+        "onboard_time": 1705060650,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66547,
+        "num": 66547,
+        "word": "逃出大英博物馆获奖",
+        "onboard_time": 1705069293,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62102,
+        "num": 62102,
+        "word": "嘉年华没停过",
+        "onboard_time": 1705066712,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55014,
+        "num": 55014,
+        "word": "明星出发微博之夜",
+        "onboard_time": 1705062689,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51828,
+        "num": 51828,
+        "word": "广西小伙说蔓越莓不酸是我自己酸",
+        "onboard_time": 1705081160,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50163,
+        "num": 50163,
+        "word": "微博之夜嘉宾全阵容集结",
+        "onboard_time": 1705053810,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49812,
+        "num": 49812,
+        "word": "陈泽直播",
+        "onboard_time": 1705063289,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46495,
+        "num": 46495,
+        "word": "游本昌感谢王家卫让他演胡歌教父",
+        "onboard_time": 1705077505,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45921,
+        "num": 45921,
+        "word": "2012年的胡歌",
+        "onboard_time": 1705070132,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40155,
+        "num": 40155,
+        "word": "繁花官微发严正声明维权",
+        "onboard_time": 1705049911,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39581,
+        "num": 39581,
+        "word": "女子硬扛流感10天两个肺都白了",
+        "onboard_time": 1705038571,
+        "rank": 28,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 38781,
+        "num": 38781,
+        "word": "孙颖莎11比0",
+        "onboard_time": 1705059931,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39639,
+        "num": 38517,
+        "word": "林高远3比1卡辛",
+        "onboard_time": 1705082658,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37598,
+        "num": 37598,
+        "word": "Kep1er预计7月解散",
+        "onboard_time": 1705070792,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36523,
+        "num": 36523,
+        "word": "林俊杰 票来",
+        "onboard_time": 1705058848,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35421,
+        "num": 35421,
+        "word": "西安市长安区发现一具男尸",
+        "onboard_time": 1705051532,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34739,
+        "num": 34739,
+        "word": "新疆葡萄干为啥都那么大",
+        "onboard_time": 1705071814,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 33781,
+        "num": 33781,
+        "word": "快手短剧日活跃用户达2.7亿",
+        "onboard_time": 1705083319,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32775,
+        "num": 32775,
+        "word": "宋亚轩模仿易烊千玺",
+        "onboard_time": 1705068092,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30842,
+        "num": 30842,
+        "word": "辛芷蕾演过画皮",
+        "onboard_time": 1705071272,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30768,
+        "num": 30768,
+        "word": "钱用了 就会到别人的手里去",
+        "onboard_time": 1705081458,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 30082,
+        "num": 30082,
+        "word": "谭爷爷和花花在一起好温馨",
+        "onboard_time": 1705079002,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29851,
+        "num": 29851,
+        "word": "不容易得癌的人都有这4个特质",
+        "onboard_time": 1705050147,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29303,
+        "num": 29303,
+        "word": "天蝎座的洞察力",
+        "onboard_time": 1705068993,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29096,
+        "num": 29096,
+        "word": "繁花后劲太大了",
+        "onboard_time": 1705047929,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28578,
+        "num": 28578,
+        "word": "尤长靖 内娱轮回",
+        "onboard_time": 1705056930,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27398,
+        "num": 27398,
+        "word": "与恶魔有约",
+        "onboard_time": 1705067132,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26408,
+        "num": 26408,
+        "word": "杨幂说自己穿新中式被看到是荣幸",
+        "onboard_time": 1705059931,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25419,
+        "num": 25419,
+        "word": "她不再是过去的赵丽颖",
+        "onboard_time": 1705057710,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23639,
+        "num": 23639,
+        "word": "山河四省互不内卷条约结束",
+        "onboard_time": 1705068154,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 23303,
+        "num": 23303,
+        "word": "ENHYPEN GDA舞台练习室",
+        "onboard_time": 1705079422,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22309,
+        "num": 22309,
+        "word": "制作裙子的全过程",
+        "onboard_time": 1705084218,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见比利时首相#"
+    }
+  }
+}
