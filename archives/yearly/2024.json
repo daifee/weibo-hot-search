@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705072676541,
+  "endTime": 1705073672068,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2091,12 +2091,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1132576,
+      "num": 1132576,
+      "word": "警方通报大一女生校内坠楼身亡",
+      "onboard_time": 1705071755,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1132312,
       "num": 1132312,
       "word": "端木代言了美特斯邦威",
       "onboard_time": 1704255574,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1131829,
+      "num": 1131829,
+      "word": "刘德华下个月就要去超市上班了",
+      "onboard_time": 1705069892,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 1131528,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704261992,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1048484,
-      "num": 1048484,
-      "word": "中国人吃盐过多致死率世界第1",
-      "onboard_time": 1704711270,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1048070,
-      "num": 1048070,
-      "word": "爱泼斯坦文件牵出霍金",
-      "onboard_time": 1704425431,
-      "rank": 27,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

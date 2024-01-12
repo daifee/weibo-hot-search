@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705072676541,
+  "endTime": 1705073672068,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2091,12 +2091,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1132576,
+      "num": 1132576,
+      "word": "警方通报大一女生校内坠楼身亡",
+      "onboard_time": 1705071755,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1132312,
       "num": 1132312,
       "word": "端木代言了美特斯邦威",
       "onboard_time": 1704255574,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1131829,
+      "num": 1131829,
+      "word": "刘德华下个月就要去超市上班了",
+      "onboard_time": 1705069892,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 1131528,
@@ -2561,14 +2577,6 @@
       "onboard_time": 1704287735,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1006076,
-      "num": 1006076,
-      "word": "刘德华下个月就要去超市上班了",
-      "onboard_time": 1705069892,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 1000364,
@@ -4027,6 +4035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 787684,
+      "num": 787684,
+      "word": "沈腾句句不提贾玲句句都是贾玲",
+      "onboard_time": 1705070914,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 787142,
       "num": 787142,
       "word": "青春痘疫苗或将面世",
@@ -4681,14 +4697,6 @@
       "onboard_time": 1704944132,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 720744,
-      "num": 720744,
-      "word": "沈腾句句不提贾玲句句都是贾玲",
-      "onboard_time": 1705070914,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 720741,
@@ -7017,14 +7025,6 @@
       "onboard_time": 1704444573,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 549947,
-      "num": 531894,
-      "word": "警方通报大一女生校内坠楼身亡",
-      "onboard_time": 1705071755,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 549868,
@@ -10521,6 +10521,14 @@
       "onboard_time": 1704375633,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 381635,
+      "num": 337203,
+      "word": "俞灏明三个小时做了一只鸡",
+      "onboard_time": 1705072230,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 381540,
@@ -15779,14 +15787,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 232302,
-      "num": 195557,
-      "word": "俞灏明三个小时做了一只鸡",
-      "onboard_time": 1705072230,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232054,
       "num": 232054,
       "word": "甘肃敦煌的旅游现在竟如此之冷淡",
@@ -16561,6 +16561,14 @@
       "onboard_time": 1704542913,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 221226,
+      "num": 221226,
+      "word": "新疆葡萄干为啥都那么大",
+      "onboard_time": 1705071814,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 221042,
@@ -18889,14 +18897,6 @@
       "onboard_time": 1704290017,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 196981,
-      "num": 196981,
-      "word": "新疆葡萄干为啥都那么大",
-      "onboard_time": 1705071814,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 196803,
@@ -25107,6 +25107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146298,
+      "num": 146298,
+      "word": "onerepublic上海演唱会",
+      "onboard_time": 1705072951,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146234,
       "num": 146234,
       "word": "猫咪这个发型显脸大",
@@ -28771,6 +28779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119827,
+      "num": 119827,
+      "word": "各省网友都在监工自家文旅账号",
+      "onboard_time": 1705073070,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 119559,
       "num": 119559,
       "word": "春节拜年发型",
@@ -31355,6 +31371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70759,
+      "num": 1195109,
+      "word": "扛着大型快递飞天的天舟六号下班啦",
+      "onboard_time": 1705069231,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69668,
       "num": 301768,
       "word": "荣耀魔法OS的十大神奇功能",
@@ -31689,14 +31713,6 @@
       "onboard_time": 1704303318,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60100,
-      "num": 1195109,
-      "word": "扛着大型快递飞天的天舟六号下班啦",
-      "onboard_time": 1705069231,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59998,
