@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1705048565144,
+  "endTime": 1705051109274,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -963,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1052734,
+      "num": 1052734,
+      "word": "尔滨一麻辣烫店高挂免战牌",
+      "onboard_time": 1705045950,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1048484,
       "num": 1048484,
       "word": "中国人吃盐过多致死率世界第1",
@@ -1451,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 839381,
+      "num": 426642,
+      "word": "沈腾希望贾玲回归王牌",
+      "onboard_time": 1705048290,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 838049,
       "num": 838049,
       "word": "00后网文作家被曝年入百万",
@@ -1737,6 +1753,14 @@
       "onboard_time": 1705035990,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 763742,
+      "num": 763742,
+      "word": "国剧盛典红毯",
+      "onboard_time": 1705049309,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 762728,
@@ -2081,14 +2105,6 @@
       "onboard_time": 1705044149,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 714621,
-      "num": 714621,
-      "word": "尔滨一麻辣烫店高挂免战牌",
-      "onboard_time": 1705045950,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 711067,
@@ -2467,6 +2483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634632,
+      "num": 634632,
+      "word": "折腰补音完成",
+      "onboard_time": 1705049671,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 627878,
+      "num": 291567,
+      "word": "不容易得癌的人都有这4个特质",
+      "onboard_time": 1705050147,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 626795,
       "num": 626795,
       "word": "肖战去微博之夜",
@@ -2545,6 +2577,14 @@
       "onboard_time": 1704946353,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 615584,
+      "num": 615584,
+      "word": "本以为甄嬛传掀不起什么风浪了",
+      "onboard_time": 1705045887,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 614827,
@@ -2811,6 +2851,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 582557,
+      "num": 582557,
+      "word": "肖战深V真空西装",
+      "onboard_time": 1705048948,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 582352,
       "num": 582352,
       "word": "花儿与少年 群像杀伤力",
@@ -2849,6 +2897,14 @@
       "onboard_time": 1705020151,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 577824,
+      "num": 577824,
+      "word": "吴谢宇看守所写道歉信",
+      "onboard_time": 1705046427,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 577048,
@@ -3067,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550874,
+      "num": 418781,
+      "word": "胡歌马伊琍唐嫣辛芷蕾合体",
+      "onboard_time": 1705050089,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 550516,
       "num": 550516,
       "word": "留美流浪博士发声",
@@ -3089,6 +3153,14 @@
       "onboard_time": 1704635914,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 549566,
+      "num": 549566,
+      "word": "我叫毛利小五郎 是个针探",
+      "onboard_time": 1705046609,
+      "rank": 13,
+      "category": "动漫"
     },
     {
       "raw_hot": 549494,
@@ -3201,14 +3273,6 @@
       "onboard_time": 1704725612,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 542452,
-      "num": 542452,
-      "word": "我叫毛利小五郎 是个针探",
-      "onboard_time": 1705046609,
-      "rank": 13,
-      "category": "动漫"
     },
     {
       "raw_hot": 541904,
@@ -3931,28 +3995,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 464837,
-      "num": 464837,
-      "word": "本以为甄嬛传掀不起什么风浪了",
-      "onboard_time": 1705045887,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 464241,
       "num": 464241,
       "word": "3元的饮料终究是错付了",
       "onboard_time": 1704693509,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 463965,
-      "num": 463965,
-      "word": "吴谢宇看守所写道歉信",
-      "onboard_time": 1705046427,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462280,
@@ -4819,6 +4867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380599,
+      "num": 218656,
+      "word": "繁花官微发严正声明维权",
+      "onboard_time": 1705049911,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380506,
       "num": 380506,
       "word": "第二十条电影发布会直播",
@@ -5083,14 +5139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356662,
-      "num": 356662,
-      "word": "沈腾希望贾玲回归王牌",
-      "onboard_time": 1705048290,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 354451,
       "num": 354451,
       "word": "游本昌51到90岁荧幕变化",
@@ -5313,6 +5361,14 @@
       "onboard_time": 1704635373,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 329961,
+      "num": 284675,
+      "word": "繁花后劲太大了",
+      "onboard_time": 1705047929,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 329381,
@@ -5827,6 +5883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 300179,
+      "num": 300179,
+      "word": "尔滨麻辣烫",
+      "onboard_time": 1705049189,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 300154,
       "num": 300154,
       "word": "中国电视剧年度盛典直播",
@@ -6179,6 +6243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277766,
+      "num": 277766,
+      "word": "00后老板发的年终福利有多离谱",
+      "onboard_time": 1705048829,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277143,
       "num": 277143,
       "word": "2024春节档已官宣5部电影",
@@ -6339,6 +6411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 266507,
+      "num": 266507,
+      "word": "关晓彤 机车女孩",
+      "onboard_time": 1705050147,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266371,
       "num": 266371,
       "word": "乙游主题曲请奥运歌手",
@@ -6457,6 +6537,14 @@
       "onboard_time": 1704633393,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260725,
+      "num": 260725,
+      "word": "宫颈癌知晓月",
+      "onboard_time": 1705049130,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 260437,
@@ -6585,6 +6673,14 @@
       "onboard_time": 1704620309,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254318,
+      "num": 254318,
+      "word": "王一博提名亚洲电影大奖最佳新演员",
+      "onboard_time": 1705048468,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 254054,
@@ -6979,6 +7075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236868,
+      "num": 236868,
+      "word": "绿雪冰城",
+      "onboard_time": 1705050511,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 236608,
       "num": 236608,
       "word": "苹果头显2月2日上市",
@@ -7275,6 +7379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227382,
+      "num": 227382,
+      "word": "父亲瓷娃娃般照顾抑郁症女儿",
+      "onboard_time": 1705047869,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227340,
       "num": 214736,
       "word": "繁花收官特别活动",
@@ -7563,11 +7675,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218745,
-      "num": 218745,
-      "word": "繁花后劲太大了",
-      "onboard_time": 1705047929,
-      "rank": 25,
+      "raw_hot": 218857,
+      "num": 218857,
+      "word": "董思成怎么才拍古装",
+      "onboard_time": 1705050269,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -7865,6 +7977,14 @@
       "onboard_time": 1704792454,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 209918,
+      "num": 209918,
+      "word": "汪苏泷魏如萱 尴尬社交",
+      "onboard_time": 1705048468,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 209800,
@@ -8185,14 +8305,6 @@
       "onboard_time": 1704806855,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204435,
-      "num": 204435,
-      "word": "父亲瓷娃娃般照顾抑郁症女儿",
-      "onboard_time": 1705047869,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204359,
@@ -9059,6 +9171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190188,
+      "num": 190188,
+      "word": "尔滨别急我先去趟河南",
+      "onboard_time": 1705050333,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190114,
       "num": 190114,
       "word": "给尔滨回礼时才知道川川有多陌生",
@@ -9177,6 +9297,14 @@
       "onboard_time": 1704842663,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188308,
+      "num": 188308,
+      "word": "游戏大赏",
+      "onboard_time": 1705049731,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 188246,
@@ -12203,6 +12331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139041,
+      "num": 139041,
+      "word": "川川把自己的心尖尖送给尔滨",
+      "onboard_time": 1705050811,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138654,
       "num": 138654,
       "word": "减少卡粉的最重要的步骤",
@@ -12468,7 +12604,7 @@
     },
     {
       "raw_hot": 135096,
-      "num": 135096,
+      "num": 141101,
       "word": "我国新三样产品出口首破万亿元",
       "onboard_time": 1705033296,
       "rank": 49,
@@ -12537,14 +12673,6 @@
       "onboard_time": 1704676887,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133745,
-      "num": 133745,
-      "word": "王一博提名亚洲电影大奖最佳新演员",
-      "onboard_time": 1705048468,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 133629,
@@ -13169,14 +13297,6 @@
       "onboard_time": 1704768932,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 126546,
-      "num": 126546,
-      "word": "汪苏泷魏如萱 尴尬社交",
-      "onboard_time": 1705048468,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 126424,
@@ -15953,6 +16073,14 @@
       "onboard_time": 1705002914,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 15888,
+      "num": 873481,
+      "word": "我国新能源汽车产销连续九年世界第一",
+      "onboard_time": 1705050869,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15758,

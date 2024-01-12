@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705048565144,
+  "endTime": 1705051109274,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2275,6 +2275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1052734,
+      "num": 1052734,
+      "word": "尔滨一麻辣烫店高挂免战牌",
+      "onboard_time": 1705045950,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1052682,
       "num": 1052682,
       "word": "汪小姐出车祸",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704721834,
       "rank": 7,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1023825,
-      "num": 563242,
-      "word": "张小斐 发光的神女",
-      "onboard_time": 1704033555,
-      "rank": 27,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
