@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705137383870,
+  "endTime": 1705138435744,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -113,6 +113,14 @@
       "onboard_time": 1704802470,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 5335912,
+      "num": 5335912,
+      "word": "杨紫穿紫",
+      "onboard_time": 1705137287,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 5230662,
@@ -1915,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1233256,
+      "num": 1233256,
+      "word": "文咏珊礼服 蛇与花交缠",
+      "onboard_time": 1705137229,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1230901,
       "num": 1230901,
       "word": "胡歌肖战同框",
@@ -2144,14 +2160,6 @@
       "word": "周也出图",
       "onboard_time": 1705124971,
       "rank": 1,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1167620,
-      "num": 1167620,
-      "word": "杨紫穿紫",
-      "onboard_time": 1705137287,
-      "rank": 22,
       "category": "作品衍生"
     },
     {
@@ -2392,14 +2400,6 @@
       "word": "女子被家暴16次需终身挂粪袋案进展",
       "onboard_time": 1704526052,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1115123,
-      "num": 1115123,
-      "word": "女子每周拔罐放血200ml致重度贫血",
-      "onboard_time": 1704288034,
-      "rank": 25,
       "category": "社会新闻"
     }
   ],
