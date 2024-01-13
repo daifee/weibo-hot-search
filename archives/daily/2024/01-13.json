@@ -1,6 +1,6 @@
 {
   "startTime": 1705076591437,
-  "endTime": 1705109846102,
+  "endTime": 1705112997498,
   "band_list": [
     {
       "raw_hot": 1859322,
@@ -27,6 +27,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1055446,
+      "num": 1055446,
+      "word": "弑母案吴谢宇被母亲家属拉黑",
+      "onboard_time": 1705110867,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 947238,
+      "num": 947238,
+      "word": "董子健 居然真的是我",
+      "onboard_time": 1705111167,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 886776,
       "num": 886776,
       "word": "马伊琍拍繁花三年没见过游本昌",
@@ -41,6 +57,14 @@
       "onboard_time": 1705107087,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 851665,
+      "num": 851665,
+      "word": "花旗宣布裁员2万人",
+      "onboard_time": 1705110147,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 760379,
@@ -75,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 615587,
+      "num": 615587,
+      "word": "樱桃和车厘子到底有什么区别",
+      "onboard_time": 1705107806,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 589572,
       "num": 589572,
       "word": "刘德华下个月就要去超市上班了",
@@ -107,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 547153,
+      "num": 547153,
+      "word": "实际面积少0.38平业主要求退差价",
+      "onboard_time": 1705109787,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541198,
       "num": 541198,
       "word": "官方回应镇政府工作人员上班打游戏",
@@ -121,6 +161,14 @@
       "onboard_time": 1705104264,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 503572,
+      "num": 503572,
+      "word": "河南文旅真的把王一博搞来了",
+      "onboard_time": 1705110509,
+      "rank": 11,
+      "category": "旅游,艺人"
     },
     {
       "raw_hot": 501894,
@@ -139,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 494470,
-      "num": 494470,
-      "word": "樱桃和车厘子到底有什么区别",
-      "onboard_time": 1705107806,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
       "raw_hot": 443886,
       "num": 443886,
       "word": "逃出大英博物馆获奖",
@@ -163,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 439046,
+      "num": 439046,
+      "word": "1996年日历",
+      "onboard_time": 1705110268,
+      "rank": 12,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 408028,
       "num": 408028,
       "word": "全嘻嘻 聊聊离婚",
@@ -172,7 +220,7 @@
     },
     {
       "raw_hot": 382491,
-      "num": 204877,
+      "num": 244796,
       "word": "美国女子被海鸥解开泳衣带险走光",
       "onboard_time": 1705105767,
       "rank": 20,
@@ -185,6 +233,14 @@
       "onboard_time": 1705061790,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343191,
+      "num": 343191,
+      "word": "赵丽颖马丽 丽丽在目",
+      "onboard_time": 1705112249,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 335975,
@@ -203,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297472,
+      "num": 297472,
+      "word": "数学老师结婚给全班学生发喜糖红包",
+      "onboard_time": 1705108107,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267720,
       "num": 267720,
       "word": "美方不得以任何形式介入台湾地区选举",
@@ -219,20 +283,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 252084,
-      "num": 252084,
-      "word": "数学老师结婚给全班学生发喜糖红包",
-      "onboard_time": 1705108107,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251384,
       "num": 251384,
       "word": "魏如萱 可以叫姨不能叫姐",
       "onboard_time": 1705106007,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243482,
+      "num": 243482,
+      "word": "美英对也门首都发动新一轮空袭",
+      "onboard_time": 1705110448,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 236577,
@@ -243,11 +307,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209475,
+      "num": 209475,
+      "word": "质疑纣王成为纣王",
+      "onboard_time": 1705110207,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 208821,
       "num": 180063,
       "word": "明星出发微博之夜",
       "onboard_time": 1705062689,
       "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204285,
+      "num": 204285,
+      "word": "肖战又被怼脸拍",
+      "onboard_time": 1705109906,
+      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -379,6 +459,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158162,
+      "num": 146384,
+      "word": "它不是流浪猫了它知道家在哪",
+      "onboard_time": 1705112370,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 155764,
+      "num": 155764,
+      "word": "来河南就是回老家了",
+      "onboard_time": 1705112311,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154442,
       "num": 118756,
       "word": "辛芷蕾演过画皮",
@@ -424,14 +520,6 @@
       "word": "公交司机和初三女孩约定多等2分钟",
       "onboard_time": 1705102041,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134973,
-      "num": 134973,
-      "word": "实际面积少0.38平业主要求退差价",
-      "onboard_time": 1705109787,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -491,6 +579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 122450,
+      "num": 122450,
+      "word": "李晨说别小看周淑怡",
+      "onboard_time": 1705110027,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120957,
       "num": 120957,
       "word": "霍尊官宣沈阳春节戏曲晚会",
@@ -515,12 +611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118825,
+      "num": 118825,
+      "word": "中医瘦身知识",
+      "onboard_time": 1705112489,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 117470,
       "num": 117470,
       "word": "天蝎座的洞察力",
       "onboard_time": 1705068993,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116411,
+      "num": 116411,
+      "word": "王心凌满40减20",
+      "onboard_time": 1705111768,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 115278,
@@ -595,6 +707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101206,
+      "num": 101206,
+      "word": "笙笙给易梦玲拍照的视频",
+      "onboard_time": 1705111949,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 100513,
       "num": 100513,
       "word": "繁花官微发严正声明维权",
@@ -641,6 +761,14 @@
       "onboard_time": 1705050089,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96627,
+      "num": 96627,
+      "word": "主人要加班监控指挥狗狗",
+      "onboard_time": 1705112670,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 95694,
@@ -913,6 +1041,14 @@
       "onboard_time": 1705094773,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 5264,
+      "num": 1016480,
+      "word": "让我们跟着微短剧去旅行",
+      "onboard_time": 1705112968,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

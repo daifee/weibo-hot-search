@@ -1,0 +1,410 @@
+{
+  "runTime": 1705112997498,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1628013,
+        "num": 1628013,
+        "word": "霍尊复出",
+        "onboard_time": 1705103002,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1055446,
+        "num": 1055446,
+        "word": "弑母案吴谢宇被母亲家属拉黑",
+        "onboard_time": 1705110867,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5264,
+        "num": 1016480,
+        "word": "让我们跟着微短剧去旅行",
+        "onboard_time": 1705112968,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006847,
+        "num": 1006847,
+        "word": "主持人拒绝为芭比玩笑道歉",
+        "onboard_time": 1705104204,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 947238,
+        "num": 947238,
+        "word": "董子健 居然真的是我",
+        "onboard_time": 1705111167,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 856070,
+        "num": 856070,
+        "word": "吴谢宇称愿给母亲家人两套房",
+        "onboard_time": 1705107087,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39277,
+        "num": 852347,
+        "word": "扛着大型快递飞天的天舟六号下班啦",
+        "onboard_time": 1705069231,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 851665,
+        "num": 851665,
+        "word": "花旗宣布裁员2万人",
+        "onboard_time": 1705110147,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 615587,
+        "num": 615587,
+        "word": "樱桃和车厘子到底有什么区别",
+        "onboard_time": 1705107806,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 598768,
+        "num": 598768,
+        "word": "马伊琍拍繁花三年没见过游本昌",
+        "onboard_time": 1705102282,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 547153,
+        "num": 547153,
+        "word": "实际面积少0.38平业主要求退差价",
+        "onboard_time": 1705109787,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503572,
+        "num": 503572,
+        "word": "河南文旅真的把王一博搞来了",
+        "onboard_time": 1705110509,
+        "rank": 11,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 439046,
+        "num": 439046,
+        "word": "1996年日历",
+        "onboard_time": 1705110268,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 399488,
+        "num": 399488,
+        "word": "樊振东退赛",
+        "onboard_time": 1705102581,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394551,
+        "num": 394551,
+        "word": "警方通报大一女生校内坠楼身亡",
+        "onboard_time": 1705071755,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367705,
+        "num": 367705,
+        "word": "iPhone16Pro或加入电容式操作按钮",
+        "onboard_time": 1705104264,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 343191,
+        "num": 343191,
+        "word": "赵丽颖马丽 丽丽在目",
+        "onboard_time": 1705112249,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297472,
+        "num": 297472,
+        "word": "数学老师结婚给全班学生发喜糖红包",
+        "onboard_time": 1705108107,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266888,
+        "num": 266888,
+        "word": "睡觉中途醒了 不要看时间",
+        "onboard_time": 1705053449,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262439,
+        "num": 262439,
+        "word": "美方不得以任何形式介入台湾地区选举",
+        "onboard_time": 1705106787,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244796,
+        "num": 244796,
+        "word": "美国女子被海鸥解开泳衣带险走光",
+        "onboard_time": 1705105767,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243482,
+        "num": 243482,
+        "word": "美英对也门首都发动新一轮空袭",
+        "onboard_time": 1705110448,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 229676,
+        "num": 229676,
+        "word": "这居然是董子健",
+        "onboard_time": 1705065090,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213737,
+        "num": 213737,
+        "word": "逃出大英博物馆获奖",
+        "onboard_time": 1705069293,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209475,
+        "num": 209475,
+        "word": "质疑纣王成为纣王",
+        "onboard_time": 1705110207,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 204285,
+        "num": 204285,
+        "word": "肖战又被怼脸拍",
+        "onboard_time": 1705109906,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203030,
+        "num": 203030,
+        "word": "亚洲最帅王子迎娶平民女孩",
+        "onboard_time": 1705068212,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185122,
+        "num": 185122,
+        "word": "魏如萱 可以叫姨不能叫姐",
+        "onboard_time": 1705106007,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155764,
+        "num": 155764,
+        "word": "来河南就是回老家了",
+        "onboard_time": 1705112311,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149607,
+        "num": 149607,
+        "word": "明星出发微博之夜",
+        "onboard_time": 1705062689,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158162,
+        "num": 146384,
+        "word": "它不是流浪猫了它知道家在哪",
+        "onboard_time": 1705112370,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140064,
+        "num": 140064,
+        "word": "丫丫回国后模样爆改",
+        "onboard_time": 1705061790,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139521,
+        "num": 139521,
+        "word": "这该不会是贾玲的胳膊吧",
+        "onboard_time": 1705044332,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131394,
+        "num": 131394,
+        "word": "俞灏明三个小时做了一只鸡",
+        "onboard_time": 1705072230,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126069,
+        "num": 126069,
+        "word": "刘德华下个月就要去超市上班了",
+        "onboard_time": 1705069892,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124926,
+        "num": 124926,
+        "word": "林园回应8000元炒股赚到数百亿",
+        "onboard_time": 1705104866,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122450,
+        "num": 122450,
+        "word": "李晨说别小看周淑怡",
+        "onboard_time": 1705110027,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120211,
+        "num": 120211,
+        "word": "沈腾句句不提贾玲句句都是贾玲",
+        "onboard_time": 1705070914,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119055,
+        "num": 119055,
+        "word": "0713央视春晚彩排",
+        "onboard_time": 1705060410,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118825,
+        "num": 118825,
+        "word": "中医瘦身知识",
+        "onboard_time": 1705112489,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116411,
+        "num": 116411,
+        "word": "王心凌满40减20",
+        "onboard_time": 1705111768,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115229,
+        "num": 115229,
+        "word": "终于轮到山东带孩子了",
+        "onboard_time": 1705103721,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108525,
+        "num": 108525,
+        "word": "小狗很担心情绪不佳的你",
+        "onboard_time": 1705108167,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117772,
+        "num": 108287,
+        "word": "陆虎 爱自己是提升生命质量的开始",
+        "onboard_time": 1705108409,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107629,
+        "num": 107629,
+        "word": "老师 我们家苏醒呢",
+        "onboard_time": 1705064672,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101206,
+        "num": 101206,
+        "word": "笙笙给易梦玲拍照的视频",
+        "onboard_time": 1705111949,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101143,
+        "num": 101143,
+        "word": "张杰参加安徽卫视春晚录制",
+        "onboard_time": 1705109548,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96627,
+        "num": 96627,
+        "word": "主人要加班监控指挥狗狗",
+        "onboard_time": 1705112670,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94377,
+        "num": 94377,
+        "word": "大学生租房遇神仙房东回应不是剧本",
+        "onboard_time": 1705101800,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93200,
+        "num": 93200,
+        "word": "关晓彤 我当时火就上来了",
+        "onboard_time": 1705060650,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业把群众冰雪运动热情保持下去#"
+    }
+  }
+}
