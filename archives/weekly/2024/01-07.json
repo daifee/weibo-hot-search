@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1705138435744,
+  "endTime": 1705141104727,
   "band_list": [
     {
       "raw_hot": 9783018,
@@ -32,6 +32,14 @@
       "word": "白鹿 公主白梦妍",
       "onboard_time": 1705130853,
       "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7236708,
+      "num": 7236708,
+      "word": "肖战你好闪",
+      "onboard_time": 1705138843,
+      "rank": 1,
       "category": "作品衍生"
     },
     {
@@ -80,6 +88,14 @@
       "word": "杨幂 微博之夜要做的选择题",
       "onboard_time": 1705134342,
       "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 3884126,
+      "num": 3884126,
+      "word": "微博之夜",
+      "onboard_time": 1704946772,
+      "rank": 24,
       "category": "作品衍生"
     },
     {
@@ -161,6 +177,14 @@
       "onboard_time": 1704624691,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2483817,
+      "num": 2483817,
+      "word": "杨幂 步步生莲",
+      "onboard_time": 1705139633,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2453920,
@@ -1347,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1038354,
+      "num": 436985,
+      "word": "胡歌唐嫣辛芷蕾 教父现场",
+      "onboard_time": 1705139930,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1037679,
       "num": 1037679,
       "word": "岳云鹏曾被30人围观洗澡",
@@ -1825,6 +1857,14 @@
       "onboard_time": 1704861159,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 875114,
+      "num": 519060,
+      "word": "杨紫张小斐互让座位",
+      "onboard_time": 1705140945,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 874141,
@@ -2475,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739825,
+      "num": 491772,
+      "word": "张小斐 恶女妆",
+      "onboard_time": 1705140585,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 739448,
       "num": 1308659,
       "word": "37岁孙子粘着100岁奶奶聊天睡觉",
@@ -2827,6 +2875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 690525,
+      "num": 485241,
+      "word": "微博之夜内场",
+      "onboard_time": 1705140824,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 689593,
       "num": 684101,
       "word": "腾讯游戏致歉",
@@ -2945,6 +3001,14 @@
       "onboard_time": 1704871530,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 671389,
+      "num": 467730,
+      "word": "檀健次带粉丝走红毯",
+      "onboard_time": 1705140707,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 670137,
@@ -3419,6 +3483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 595808,
+      "num": 595808,
+      "word": "男子举报妻子和国企领导发生关系致流产",
+      "onboard_time": 1705138485,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595542,
       "num": 595542,
       "word": "鞠婧祎宋威龙咬唇吻",
@@ -3769,14 +3841,6 @@
       "onboard_time": 1704879632,
       "rank": 8,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 560205,
-      "num": 448903,
-      "word": "微博之夜",
-      "onboard_time": 1704946772,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 559434,
@@ -5083,6 +5147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447640,
+      "num": 447640,
+      "word": "黄景瑜你快把眼镜摘了吧",
+      "onboard_time": 1705141065,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 446673,
       "num": 446673,
       "word": "尔滨 压力给到了西安",
@@ -5177,6 +5249,14 @@
       "onboard_time": 1704629431,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438239,
+      "num": 438239,
+      "word": "粉色的电音朵拉",
+      "onboard_time": 1705139388,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 436970,
@@ -5593,6 +5673,14 @@
       "onboard_time": 1704604950,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 404304,
+      "num": 1814551,
+      "word": "民警说的电脑卡了其实是一句暗号",
+      "onboard_time": 1705136811,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 402574,
@@ -6263,14 +6351,6 @@
       "num": 992944,
       "word": "父亲瓷娃娃般照顾抑郁症女儿",
       "onboard_time": 1705047869,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340878,
-      "num": 1814551,
-      "word": "民警说的电脑卡了其实是一句暗号",
-      "onboard_time": 1705136811,
       "rank": 27,
       "category": "社会新闻"
     },
@@ -7483,6 +7563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 274264,
+      "num": 478912,
+      "word": "车厘子价格腰斩销售火爆",
+      "onboard_time": 1705140883,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 274059,
       "num": 274059,
       "word": "山河四省互不内卷条约结束",
@@ -8491,6 +8579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 234570,
+      "num": 3377684,
+      "word": "杭州有老师群发及时叫停作业的消息",
+      "onboard_time": 1705140166,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234393,
       "num": 234393,
       "word": "杭州大姐拿五粮液灌香肠",
@@ -8723,6 +8819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 227734,
+      "num": 535422,
+      "word": "AG全员西装黑白配",
+      "onboard_time": 1705140347,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227385,
       "num": 227385,
       "word": "什刹海F3",
@@ -8737,6 +8841,14 @@
       "onboard_time": 1704789091,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227139,
+      "num": 546314,
+      "word": "医生做久了见证死亡时会不会冷漠",
+      "onboard_time": 1705140883,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226758,
@@ -9081,6 +9193,14 @@
       "onboard_time": 1704856171,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218500,
+      "num": 532884,
+      "word": "因为高反室友把我一个人丢在了丽江",
+      "onboard_time": 1705138607,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 218129,
@@ -14307,6 +14427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139707,
+      "num": 472305,
+      "word": "长辈专用头像上新了",
+      "onboard_time": 1705138485,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139634,
       "num": 139634,
       "word": "2024金牛座多金又牛气",
@@ -15723,12 +15851,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 123354,
+      "num": 2918104,
+      "word": "熊猫血男子22年献血8700毫升",
+      "onboard_time": 1705137287,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123236,
       "num": 123236,
       "word": "武校两岁半萌娃跟师傅回家看妈妈",
       "onboard_time": 1704976830,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123097,
+      "num": 594336,
+      "word": "吉林文旅搬出张起灵宣传长白山",
+      "onboard_time": 1705140226,
+      "rank": 9,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 123009,
@@ -15857,6 +16001,14 @@
       "onboard_time": 1704701791,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121641,
+      "num": 456641,
+      "word": "2023年王者荣耀巅峰之夜",
+      "onboard_time": 1705141007,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 121589,
@@ -17707,14 +17859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82287,
-      "num": 718775,
-      "word": "熊猫血男子22年献血8700毫升",
-      "onboard_time": 1705137287,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81400,
       "num": 81400,
       "word": "鸣龙少年 我们都将成为更好的自己",
@@ -17787,6 +17931,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 77740,
+      "num": 513340,
+      "word": "文咏珊飒美风",
+      "onboard_time": 1705138241,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 77594,
       "num": 895779,
       "word": "中国冰雪季大联欢",
@@ -17849,6 +18001,14 @@
       "onboard_time": 1705046427,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 72571,
+      "num": 436500,
+      "word": "三国F4在哈尔滨玩嗨了",
+      "onboard_time": 1705139444,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72159,
@@ -18745,14 +18905,6 @@
       "onboard_time": 1705084218,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 21720,
-      "num": 412396,
-      "word": "文咏珊飒美风",
-      "onboard_time": 1705138241,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 21096,
