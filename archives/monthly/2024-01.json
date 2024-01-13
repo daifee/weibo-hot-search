@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705178055700,
+  "endTime": 1705180525593,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -35833,6 +35833,14 @@
       "onboard_time": 1704568935,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20554,
+      "num": 22165,
+      "word": "雷佳音刘耀文牵手",
+      "onboard_time": 1705179974,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 20332,
