@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/13 00:23:11 ~ 2024/01/13 14:21:51
+本榜单时间：2024/01/13 00:23:11 ~ 2024/01/13 14:34:46
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%B2%A1%E7%A9%BF%E7%A4%BC%E6%9C%8D%23" target="weibo">
-金晨没穿礼服（热度：1867990）
+金晨没穿礼服（热度：1912631）
 </a>
 </li>
 
@@ -130,7 +130,7 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%AD%9F%E5%AE%B4%E8%87%A3S%E7%89%88%23" target="weibo">
-今天是孟宴臣S版（热度：787147）
+今天是孟宴臣S版（热度：798932）
 </a>
 </li>
 
@@ -261,6 +261,12 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%23" target="weibo">
+微博之夜红毯（热度：510895）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E8%A7%89%E4%B8%AD%E9%80%94%E9%86%92%E4%BA%86%20%E4%B8%8D%E8%A6%81%E7%9C%8B%E6%97%B6%E9%97%B4%23" target="weibo">
 睡觉中途醒了 不要看时间（热度：501894）
 </a>
@@ -285,6 +291,12 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%A6%AE%E5%A5%B9%E7%A7%81%E4%B8%8B%E5%B0%B1%E6%98%AF%E7%83%9F%E9%85%92%E9%83%BD%E6%9D%A5%E5%95%8A%23" target="weibo">
+米妮她私下就是烟酒都来啊（热度：467659）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD%E5%B0%86%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%23" target="weibo">
 王者荣耀抖音直播将全面开放（热度：466022）
 </a>
@@ -293,12 +305,6 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231996%E5%B9%B4%E6%97%A5%E5%8E%86%23" target="weibo">
 1996年日历（热度：464170）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%A6%AE%E5%A5%B9%E7%A7%81%E4%B8%8B%E5%B0%B1%E6%98%AF%E7%83%9F%E9%85%92%E9%83%BD%E6%9D%A5%E5%95%8A%23" target="weibo">
-米妮她私下就是烟酒都来啊（热度：457391）
 </a>
 </li>
 
@@ -339,6 +345,12 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E5%87%BA%E5%8F%91%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%23" target="weibo">
+明星出发微博之夜（热度：382138）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%90%8E%E6%A8%A1%E6%A0%B7%E7%88%86%E6%94%B9%23" target="weibo">
 丫丫回国后模样爆改（热度：376233）
 </a>
@@ -363,8 +375,8 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E5%87%BA%E5%8F%91%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%23" target="weibo">
-明星出发微博之夜（热度：351972）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%98%89%E5%AE%BE%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23" target="weibo">
+微博之夜嘉宾全阵容集结（热度：355473）
 </a>
 </li>
 
@@ -381,6 +393,12 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%8F%88%E6%98%AF%E4%B8%BB%E6%8C%81%E4%BA%BA%23" target="weibo">
+杨迪又是主持人（热度：319824）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%20%E6%88%91%E4%BB%AC%E5%AE%B6%E8%8B%8F%E9%86%92%E5%91%A2%23" target="weibo">
 老师 我们家苏醒呢（热度：317765）
 </a>
@@ -393,20 +411,14 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%98%89%E5%AE%BE%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23" target="weibo">
-微博之夜嘉宾全阵容集结（热度：304576）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8%E6%B4%BE%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B4%E5%B9%B3%E9%A1%B6%E5%B1%B1%23" target="weibo">
+应急管理部派工作组赴平顶山（热度：299907）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E8%80%81%E5%B8%88%E7%BB%93%E5%A9%9A%E7%BB%99%E5%85%A8%E7%8F%AD%E5%AD%A6%E7%94%9F%E5%8F%91%E5%96%9C%E7%B3%96%E7%BA%A2%E5%8C%85%23" target="weibo">
 数学老师结婚给全班学生发喜糖红包（热度：297472）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8%E6%B4%BE%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B4%E5%B9%B3%E9%A1%B6%E5%B1%B1%23" target="weibo">
-应急管理部派工作组赴平顶山（热度：293932）
 </a>
 </li>
 
@@ -443,6 +455,12 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%9B%AD%E5%9B%9E%E5%BA%948000%E5%85%83%E7%82%92%E8%82%A1%E8%B5%9A%E5%88%B0%E6%95%B0%E7%99%BE%E4%BA%BF%23" target="weibo">
 林园回应8000元炒股赚到数百亿（热度：254519）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%8A%8A%E6%95%B0%E5%AD%971%E6%94%B9%E6%88%907%E8%B4%AA%E6%B1%A1%E5%85%AC%E6%AC%BE%23" target="weibo">
+医院院长把数字1改成7贪污公款（热度：252495）
 </a>
 </li>
 
@@ -507,6 +525,18 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E7%9C%9F%E6%9C%89%E9%82%A3%E4%B9%88%E5%B0%8F%E5%90%97%23" target="weibo">
+南方小土豆真有那么小吗（热度：222609）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E6%BC%94%E6%8A%80%E7%88%86%E5%8F%91%20%E7%8E%8B%E6%A0%8E%E9%91%AB%E6%85%8C%E4%BA%86%23" target="weibo">
+俞灏明演技爆发 王栎鑫慌了（热度：214089）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E8%BE%88%E9%98%B4%E9%98%B3%E4%BA%BA%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%89%E4%B8%80%E5%A5%97%E7%9A%84%23" target="weibo">
 长辈阴阳人真的是有一套的（热度：212184）
 </a>
@@ -533,6 +563,12 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%BD%A9%E6%8E%92%23" target="weibo">
 刘宇宁微博之夜彩排（热度：199930）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%9B%B4%E6%92%AD%E9%A2%84%E7%BA%A6%23" target="weibo">
+微博之夜直播预约（热度：196496）
 </a>
 </li>
 
@@ -675,12 +711,6 @@ Kep1er预计7月解散（热度：178846）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E6%BC%94%E6%8A%80%E7%88%86%E5%8F%91%20%E7%8E%8B%E6%A0%8E%E9%91%AB%E6%85%8C%E4%BA%86%23" target="weibo">
-俞灏明演技爆发 王栎鑫慌了（热度：157231）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A5%E6%B2%B3%E5%8D%97%E5%B0%B1%E6%98%AF%E5%9B%9E%E8%80%81%E5%AE%B6%E4%BA%86%23" target="weibo">
 来河南就是回老家了（热度：155764）
 </a>
@@ -695,6 +725,12 @@ Kep1er预计7月解散（热度：178846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E6%94%BE%E5%AD%A6%E8%A7%81%E5%BC%82%E5%9C%B0%E5%A7%90%E5%A7%90%E6%89%91%E8%BF%9B%E6%80%80%E9%87%8C%E7%A7%92%E8%90%BD%E6%B3%AA%23" target="weibo">
 弟弟放学见异地姐姐扑进怀里秒落泪（热度：152720）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%99J%E4%BA%BA%E4%B8%80%E7%82%B9P%E4%BA%BA%E7%9A%84%E9%9C%87%E6%92%BC%23" target="weibo">
+给J人一点P人的震撼（热度：151552）
 </a>
 </li>
 
@@ -741,14 +777,14 @@ Kep1er预计7月解散（热度：178846）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E7%9C%9F%E6%9C%89%E9%82%A3%E4%B9%88%E5%B0%8F%E5%90%97%23" target="weibo">
-南方小土豆真有那么小吗（热度：138756）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E6%8E%A2%E7%B4%A2%E6%95%99%E5%B8%88%E9%80%80%E5%87%BA%E6%9C%BA%E5%88%B6%23" target="weibo">
+专家回应多地探索教师退出机制（热度：138468）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E6%8E%A2%E7%B4%A2%E6%95%99%E5%B8%88%E9%80%80%E5%87%BA%E6%9C%BA%E5%88%B6%23" target="weibo">
-专家回应多地探索教师退出机制（热度：138468）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%BA%E8%BF%98%E5%80%BA%E9%80%81%E5%A4%96%E5%8D%963%E5%B9%B4%E6%8C%A3%E4%BA%86102%E4%B8%87%23" target="weibo">
+外卖小哥为还债送外卖3年挣了102万（热度：133933）
 </a>
 </li>
 
@@ -1071,6 +1107,12 @@ GQ镜头下的繁花（热度：125705）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%8F%A3%E7%BA%A2%23" target="weibo">
+张婧仪口红（热度：83029）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%B8%80%E6%97%A6%E7%BB%87%E6%AF%9B%E8%A1%A3%E7%9C%8B%E4%B8%8A%E5%8E%BB%E5%B0%B1%E5%BE%88%E6%85%88%E7%A5%A5%23" target="weibo">
 人一旦织毛衣看上去就很慈祥（热度：82623）
 </a>
@@ -1119,20 +1161,14 @@ onerepublic上海演唱会（热度：78958）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%8F%A3%E7%BA%A2%23" target="weibo">
-张婧仪口红（热度：70312）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E4%B8%9A%E5%8A%A1%E8%83%BD%E5%8A%9B%E6%9B%B4%E5%BC%BA%E4%BA%86%23" target="weibo">
+太空快递小哥业务能力更强了（热度：66006）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E9%98%BF%E5%A7%A8%E7%89%B9%E6%84%8F%E5%B0%86%E6%B8%B8%E5%AE%A2%E5%86%B0%E9%A5%AE%E6%94%BE%E7%AA%97%E8%BE%B9%E9%98%B2%E8%9E%8D%23" target="weibo">
 尔滨阿姨特意将游客冰饮放窗边防融（热度：64307）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E4%B8%9A%E5%8A%A1%E8%83%BD%E5%8A%9B%E6%9B%B4%E5%BC%BA%E4%BA%86%23" target="weibo">
-太空快递小哥业务能力更强了（热度：62978）
 </a>
 </li>
 

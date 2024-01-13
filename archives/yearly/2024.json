@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705126911476,
+  "endTime": 1705127686200,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -499,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1912631,
+      "num": 1912631,
+      "word": "金晨没穿礼服",
+      "onboard_time": 1705124313,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1897679,
       "num": 1897679,
       "word": "哈尔滨惊现15元1个小土豆挂件",
@@ -561,14 +569,6 @@
       "onboard_time": 1704030245,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1867990,
-      "num": 1867990,
-      "word": "金晨没穿礼服",
-      "onboard_time": 1705124313,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1863825,
