@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/13 07:34:12
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/13 09:16:34
 </p>
 </blockquote>
 <p>
@@ -437,6 +437,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%99%E6%B5%81%23" target="weibo">
 乙流（热度：1863825）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%8A%E5%A4%8D%E5%87%BA%23" target="weibo">
+霍尊复出（热度：1859322）
 </a>
 </li>
 
@@ -2367,6 +2373,12 @@ IU染粉发（热度：920521）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%8B%92%E7%BB%9D%E4%B8%BA%E8%8A%AD%E6%AF%94%E7%8E%A9%E7%AC%91%E9%81%93%E6%AD%89%23" target="weibo">
+主持人拒绝为芭比玩笑道歉（热度：905004）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%A1%A3%E5%B7%B2%E5%AE%98%E5%AE%A3%E5%85%AD%E9%83%A8%E7%94%B5%E5%BD%B1%23" target="weibo">
 2024春节档已官宣六部电影（热度：904999）
 </a>
@@ -2465,6 +2477,12 @@ IU染粉发（热度：920521）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%B8%8E%E7%B4%A0%E4%BA%BA%E5%90%88%E5%BD%B1%23" target="weibo">
 赵丽颖辛芷蕾与素人合影（热度：887551）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%8A%E7%90%8D%E6%8B%8D%E7%B9%81%E8%8A%B1%E4%B8%89%E5%B9%B4%E6%B2%A1%E8%A7%81%E8%BF%87%E6%B8%B8%E6%9C%AC%E6%98%8C%23" target="weibo">
+马伊琍拍繁花三年没见过游本昌（热度：886776）
 </a>
 </li>
 
@@ -4329,6 +4347,12 @@ iPhone电池门赔款到账（热度：737858）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%80%80%E8%B5%9B%23" target="weibo">
+樊振东退赛（热度：636631）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E4%B8%BA%E4%BA%8C%E5%88%B7%E8%A7%82%E4%BC%97%E8%B0%83%E6%95%B4%E7%B9%81%E8%8A%B1%23" target="weibo">
 王家卫为二刷观众调整繁花（热度：636434）
 </a>
@@ -5009,6 +5033,12 @@ SM娱乐就李楷灿室内吸烟道歉（热度：596835）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%B0%83%E6%95%B4%E5%85%AC%E7%A7%AF%E9%87%91%E4%B8%AA%E4%BA%BA%E4%BD%8F%E6%88%BF%E8%B4%B7%E6%AC%BE%E6%94%BF%E7%AD%96%23" target="weibo">
 上海调整公积金个人住房贷款政策（热度：573295）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E7%A7%B0%E6%84%BF%E7%BB%99%E6%AF%8D%E4%BA%B2%E5%AE%B6%E4%BA%BA%E4%B8%A4%E5%A5%97%E6%88%BF%23" target="weibo">
+吴谢宇称愿给母亲家人两套房（热度：572281）
 </a>
 </li>
 
@@ -5793,6 +5823,12 @@ YG官网删除BLACKPINK个人介绍页面（热度：521333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone16Pro%E6%88%96%E5%8A%A0%E5%85%A5%E7%94%B5%E5%AE%B9%E5%BC%8F%E6%93%8D%E4%BD%9C%E6%8C%89%E9%92%AE%23" target="weibo">
+iPhone16Pro或加入电容式操作按钮（热度：517099）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BE%9D%E8%BD%AE%E5%A6%BB%E5%AD%90%E5%86%8D%E4%B8%BA%E8%82%BF%E7%98%A4%E7%97%85%E4%BA%BA%E6%8D%90%E5%8F%91%23" target="weibo">
 林依轮妻子再为肿瘤病人捐发（热度：516548）
 </a>
@@ -5975,42 +6011,6 @@ YG官网删除BLACKPINK个人介绍页面（热度：521333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%A8%A1%E4%BB%BF%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23" target="weibo">
 宋亚轩模仿易烊千玺（热度：506652）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%8A%E6%B5%B7%E9%80%9B%E8%A1%97vlog%23" target="weibo">
-肖战上海逛街vlog（热度：506145）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E8%A2%8B%E8%A3%85%E7%89%9B%E5%A5%B6%E6%99%AE%E9%81%8D%E6%B2%A1%E6%9C%89%E5%90%B8%E7%AE%A1%E4%B9%9F%E6%B2%A1%E6%8F%92%E5%AD%94%23" target="weibo">
-北方袋装牛奶普遍没有吸管也没插孔（热度：506046）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%8A%AB%E9%9C%B2%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23" target="weibo">
-新闻联播披露福建舰最新画面（热度：505816）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%BF%A1%E7%BF%A0%23" target="weibo">
-杨幂翡翠（热度：505707）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%87%B4%E7%99%8C%E5%85%83%E5%87%B6%E6%98%AF%E8%BF%994%E7%A7%8D%E9%A3%9F%E7%89%A9%23" target="weibo">
-真正的致癌元凶是这4种食物（热度：504724）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%87%8C%E5%B1%AF%E5%81%B6%E9%81%87%E9%AD%8F%E5%A4%A7%E5%8B%8B%23" target="weibo">
-三里屯偶遇魏大勋（热度：503543）
 </a>
 </li>
 

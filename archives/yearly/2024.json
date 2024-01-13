@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705102452568,
+  "endTime": 1705108594986,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -569,6 +569,14 @@
       "onboard_time": 1704723814,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1859322,
+      "num": 1859322,
+      "word": "霍尊复出",
+      "onboard_time": 1705103002,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1852871,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704517892,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1049575,
-      "num": 505070,
-      "word": "曝林靖恩入住饭店后精神失控",
-      "onboard_time": 1704261992,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

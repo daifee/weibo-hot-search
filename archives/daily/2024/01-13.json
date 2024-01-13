@@ -1,7 +1,15 @@
 {
   "startTime": 1705076591437,
-  "endTime": 1705102452568,
+  "endTime": 1705108594986,
   "band_list": [
+    {
+      "raw_hot": 1859322,
+      "num": 1859322,
+      "word": "霍尊复出",
+      "onboard_time": 1705103002,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1581875,
       "num": 1581875,
@@ -9,6 +17,22 @@
       "onboard_time": 1705071755,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 905004,
+      "num": 905004,
+      "word": "主持人拒绝为芭比玩笑道歉",
+      "onboard_time": 1705104204,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 886776,
+      "num": 886776,
+      "word": "马伊琍拍繁花三年没见过游本昌",
+      "onboard_time": 1705102282,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 760379,
@@ -35,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636631,
+      "num": 636631,
+      "word": "樊振东退赛",
+      "onboard_time": 1705102581,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 589572,
       "num": 589572,
       "word": "刘德华下个月就要去超市上班了",
@@ -49,6 +81,14 @@
       "onboard_time": 1705072230,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 572281,
+      "num": 296859,
+      "word": "吴谢宇称愿给母亲家人两套房",
+      "onboard_time": 1705107087,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556393,
@@ -73,6 +113,14 @@
       "onboard_time": 1705073852,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517099,
+      "num": 517099,
+      "word": "iPhone16Pro或加入电容式操作按钮",
+      "onboard_time": 1705104264,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 501894,
@@ -115,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 382491,
+      "num": 204877,
+      "word": "美国女子被海鸥解开泳衣带险走光",
+      "onboard_time": 1705105767,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376233,
       "num": 376233,
       "word": "丫丫回国后模样爆改",
@@ -139,12 +195,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253870,
+      "num": 253870,
+      "word": "林园回应8000元炒股赚到数百亿",
+      "onboard_time": 1705104866,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 246790,
+      "num": 246790,
+      "word": "魏如萱 可以叫姨不能叫姐",
+      "onboard_time": 1705106007,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 242826,
+      "num": 242826,
+      "word": "樱桃和车厘子到底有什么区别",
+      "onboard_time": 1705107806,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 236577,
       "num": 236577,
       "word": "鹤岗文旅局长在哈尔滨烤串",
       "onboard_time": 1705094415,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208863,
+      "num": 208863,
+      "word": "美方不得以任何形式介入台湾地区选举",
+      "onboard_time": 1705106787,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 208821,
@@ -179,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187351,
+      "num": 187351,
+      "word": "终于轮到山东带孩子了",
+      "onboard_time": 1705103721,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187083,
       "num": 154764,
       "word": "宋亚轩模仿易烊千玺",
@@ -209,6 +305,22 @@
       "onboard_time": 1705070792,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175070,
+      "num": 175070,
+      "word": "全球痤疮患者超6.4亿",
+      "onboard_time": 1705103482,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173841,
+      "num": 173841,
+      "word": "大学生租房遇神仙房东回应不是剧本",
+      "onboard_time": 1705101800,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172544,
@@ -267,12 +379,44 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 141379,
+      "num": 141379,
+      "word": "公交司机和初三女孩约定多等2分钟",
+      "onboard_time": 1705102041,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137108,
+      "num": 137108,
+      "word": "数学老师结婚给全班学生发喜糖红包",
+      "onboard_time": 1705108107,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133737,
+      "num": 133737,
+      "word": "山东轮船海上救人一上船就送上面条",
+      "onboard_time": 1705107446,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128841,
       "num": 128841,
       "word": "平顶山事故煤矿负责人已被控制",
       "onboard_time": 1705101020,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127057,
+      "num": 127057,
+      "word": "孙颖莎3比2早田希娜",
+      "onboard_time": 1705103603,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 124881,
@@ -291,12 +435,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 123084,
-      "num": 68349,
-      "word": "马伊琍拍繁花三年没见过游本昌",
-      "onboard_time": 1705102282,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 123173,
+      "num": 123173,
+      "word": "被山东女特警的破损手套帅到了",
+      "onboard_time": 1705104806,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122970,
+      "num": 122970,
+      "word": "尔滨拔丝冻梨登场了",
+      "onboard_time": 1705107685,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 119237,
+      "num": 119237,
+      "word": "谭爷爷和花花在一起好温馨",
+      "onboard_time": 1705079002,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118881,
@@ -315,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115278,
+      "num": 115278,
+      "word": "哈尔滨小东北虎来成都了",
+      "onboard_time": 1705106907,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112354,
       "num": 112354,
       "word": "孙颖莎11比0",
@@ -331,12 +499,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109137,
+      "num": 109137,
+      "word": "感觉变笨可能是抑郁了",
+      "onboard_time": 1705100598,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107324,
       "num": 107324,
       "word": "与恶魔有约",
       "onboard_time": 1705067132,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106465,
+      "num": 106465,
+      "word": "林高远3比1马龙",
+      "onboard_time": 1705104445,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104427,
+      "num": 104427,
+      "word": "与李泽言的第七年",
+      "onboard_time": 1705105225,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 102474,
@@ -363,6 +555,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100110,
+      "num": 100110,
+      "word": "陆虎 爱自己是提升生命质量的开始",
+      "onboard_time": 1705108409,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97731,
+      "num": 97731,
+      "word": "哪项运动更减龄",
+      "onboard_time": 1705104987,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 97672,
+      "num": 97672,
+      "word": "罗渽民泡图",
+      "onboard_time": 1705105646,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97256,
       "num": 97256,
       "word": "山河四省互不内卷条约结束",
@@ -379,20 +595,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95714,
+      "num": 95714,
+      "word": "小狗很担心情绪不佳的你",
+      "onboard_time": 1705108167,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95694,
       "num": 95694,
       "word": "关闭自动续费仍被扣费",
       "onboard_time": 1705058007,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 95032,
-      "num": 95032,
-      "word": "大学生租房遇神仙房东回应不是剧本",
-      "onboard_time": 1705101800,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94682,
@@ -491,27 +707,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69628,
-      "num": 69628,
-      "word": "感觉变笨可能是抑郁了",
-      "onboard_time": 1705100598,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 64307,
       "num": 64307,
       "word": "尔滨阿姨特意将游客冰饮放窗边防融",
       "onboard_time": 1705101198,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63555,
-      "num": 63555,
-      "word": "谭爷爷和花花在一起好温馨",
-      "onboard_time": 1705079002,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -547,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54838,
-      "num": 54838,
-      "word": "公交司机和初三女孩约定多等2分钟",
-      "onboard_time": 1705102041,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53638,
       "num": 53638,
       "word": "ENHYPEN GDA舞台练习室",
@@ -569,6 +761,14 @@
       "onboard_time": 1705101800,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49581,
+      "num": 889553,
+      "word": "扛着大型快递飞天的天舟六号下班啦",
+      "onboard_time": 1705069231,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41694,
@@ -593,14 +793,6 @@
       "onboard_time": 1705047929,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 37393,
-      "num": 671580,
-      "word": "扛着大型快递飞天的天舟六号下班啦",
-      "onboard_time": 1705069231,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35287,

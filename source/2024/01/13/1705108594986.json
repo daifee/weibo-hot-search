@@ -1,0 +1,410 @@
+{
+  "runTime": 1705108594986,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1859322,
+        "num": 1859322,
+        "word": "霍尊复出",
+        "onboard_time": 1705103002,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 905004,
+        "num": 905004,
+        "word": "主持人拒绝为芭比玩笑道歉",
+        "onboard_time": 1705104204,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49581,
+        "num": 889553,
+        "word": "扛着大型快递飞天的天舟六号下班啦",
+        "onboard_time": 1705069231,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 886776,
+        "num": 886776,
+        "word": "马伊琍拍繁花三年没见过游本昌",
+        "onboard_time": 1705102282,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 636631,
+        "num": 636631,
+        "word": "樊振东退赛",
+        "onboard_time": 1705102581,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 557493,
+        "num": 557493,
+        "word": "警方通报大一女生校内坠楼身亡",
+        "onboard_time": 1705071755,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517099,
+        "num": 517099,
+        "word": "iPhone16Pro或加入电容式操作按钮",
+        "onboard_time": 1705104264,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 421781,
+        "num": 421781,
+        "word": "亚洲最帅王子迎娶平民女孩",
+        "onboard_time": 1705068212,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319834,
+        "num": 319834,
+        "word": "沈腾句句不提贾玲句句都是贾玲",
+        "onboard_time": 1705070914,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302541,
+        "num": 302541,
+        "word": "刘德华下个月就要去超市上班了",
+        "onboard_time": 1705069892,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 572281,
+        "num": 296859,
+        "word": "吴谢宇称愿给母亲家人两套房",
+        "onboard_time": 1705107087,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274953,
+        "num": 274953,
+        "word": "丫丫回国后模样爆改",
+        "onboard_time": 1705061790,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253870,
+        "num": 253870,
+        "word": "林园回应8000元炒股赚到数百亿",
+        "onboard_time": 1705104866,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 250126,
+        "num": 250126,
+        "word": "睡觉中途醒了 不要看时间",
+        "onboard_time": 1705053449,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246790,
+        "num": 246790,
+        "word": "魏如萱 可以叫姨不能叫姐",
+        "onboard_time": 1705106007,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242826,
+        "num": 242826,
+        "word": "樱桃和车厘子到底有什么区别",
+        "onboard_time": 1705107806,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 234495,
+        "num": 234495,
+        "word": "这居然是董子健",
+        "onboard_time": 1705065090,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208863,
+        "num": 208863,
+        "word": "美方不得以任何形式介入台湾地区选举",
+        "onboard_time": 1705106787,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206863,
+        "num": 206863,
+        "word": "0713央视春晚彩排",
+        "onboard_time": 1705060410,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205187,
+        "num": 205187,
+        "word": "老师 我们家苏醒呢",
+        "onboard_time": 1705064672,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382491,
+        "num": 204877,
+        "word": "美国女子被海鸥解开泳衣带险走光",
+        "onboard_time": 1705105767,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204075,
+        "num": 204075,
+        "word": "这该不会是贾玲的胳膊吧",
+        "onboard_time": 1705044332,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201422,
+        "num": 201422,
+        "word": "俞灏明三个小时做了一只鸡",
+        "onboard_time": 1705072230,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194623,
+        "num": 194623,
+        "word": "逃出大英博物馆获奖",
+        "onboard_time": 1705069293,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187351,
+        "num": 187351,
+        "word": "终于轮到山东带孩子了",
+        "onboard_time": 1705103721,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183077,
+        "num": 183077,
+        "word": "河南煤矿事故8人遇难15人失联",
+        "onboard_time": 1705101020,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175070,
+        "num": 175070,
+        "word": "全球痤疮患者超6.4亿",
+        "onboard_time": 1705103482,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173841,
+        "num": 173841,
+        "word": "大学生租房遇神仙房东回应不是剧本",
+        "onboard_time": 1705101800,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168216,
+        "num": 168216,
+        "word": "官方回应镇政府工作人员上班打游戏",
+        "onboard_time": 1705073852,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143750,
+        "num": 143750,
+        "word": "明星出发微博之夜",
+        "onboard_time": 1705062689,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141379,
+        "num": 141379,
+        "word": "公交司机和初三女孩约定多等2分钟",
+        "onboard_time": 1705102041,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137108,
+        "num": 137108,
+        "word": "数学老师结婚给全班学生发喜糖红包",
+        "onboard_time": 1705108107,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136581,
+        "num": 136581,
+        "word": "游本昌 年轻的朋友我永远陪伴你们",
+        "onboard_time": 1705059808,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133737,
+        "num": 133737,
+        "word": "山东轮船海上救人一上船就送上面条",
+        "onboard_time": 1705107446,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129976,
+        "num": 129976,
+        "word": "胡歌肖战同框",
+        "onboard_time": 1705063831,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127057,
+        "num": 127057,
+        "word": "孙颖莎3比2早田希娜",
+        "onboard_time": 1705103603,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123173,
+        "num": 123173,
+        "word": "被山东女特警的破损手套帅到了",
+        "onboard_time": 1705104806,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122970,
+        "num": 122970,
+        "word": "尔滨拔丝冻梨登场了",
+        "onboard_time": 1705107685,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119237,
+        "num": 119237,
+        "word": "谭爷爷和花花在一起好温馨",
+        "onboard_time": 1705079002,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115577,
+        "num": 115577,
+        "word": "关晓彤 我当时火就上来了",
+        "onboard_time": 1705060650,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115278,
+        "num": 115278,
+        "word": "哈尔滨小东北虎来成都了",
+        "onboard_time": 1705106907,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109137,
+        "num": 109137,
+        "word": "感觉变笨可能是抑郁了",
+        "onboard_time": 1705100598,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106465,
+        "num": 106465,
+        "word": "林高远3比1马龙",
+        "onboard_time": 1705104445,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104427,
+        "num": 104427,
+        "word": "与李泽言的第七年",
+        "onboard_time": 1705105225,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100549,
+        "num": 100549,
+        "word": "2012年的胡歌",
+        "onboard_time": 1705070132,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100110,
+        "num": 100110,
+        "word": "陆虎 爱自己是提升生命质量的开始",
+        "onboard_time": 1705108409,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97731,
+        "num": 97731,
+        "word": "哪项运动更减龄",
+        "onboard_time": 1705104987,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 97672,
+        "num": 97672,
+        "word": "罗渽民泡图",
+        "onboard_time": 1705105646,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95714,
+        "num": 95714,
+        "word": "小狗很担心情绪不佳的你",
+        "onboard_time": 1705108167,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94257,
+        "num": 94257,
+        "word": "鹤岗文旅局长在哈尔滨烤串",
+        "onboard_time": 1705094415,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业把群众冰雪运动热情保持下去#"
+    }
+  }
+}
