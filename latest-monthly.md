@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/13 09:16:34
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/13 09:37:26
 </p>
 </blockquote>
 <p>
@@ -1671,6 +1671,12 @@ Jennie离开YG的原因（热度：1109068）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%8B%92%E7%BB%9D%E4%B8%BA%E8%8A%AD%E6%AF%94%E7%8E%A9%E7%AC%91%E9%81%93%E6%AD%89%23" target="weibo">
+主持人拒绝为芭比玩笑道歉（热度：1103928）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E4%B8%80%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%85%BC%E8%81%8C%E6%97%A5%E8%96%AA%E7%A8%8E%E5%90%8E3000%23" target="weibo">
 南阳一公职人员兼职日薪税后3000（热度：1103406）
 </a>
@@ -2373,12 +2379,6 @@ IU染粉发（热度：920521）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%8B%92%E7%BB%9D%E4%B8%BA%E8%8A%AD%E6%AF%94%E7%8E%A9%E7%AC%91%E9%81%93%E6%AD%89%23" target="weibo">
-主持人拒绝为芭比玩笑道歉（热度：905004）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%A1%A3%E5%B7%B2%E5%AE%98%E5%AE%A3%E5%85%AD%E9%83%A8%E7%94%B5%E5%BD%B1%23" target="weibo">
 2024春节档已官宣六部电影（热度：904999）
 </a>
@@ -2567,6 +2567,12 @@ papi酱菱红下线（热度：870941）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%99%E5%87%A0%E5%A4%A9%E5%88%AB%E4%B8%8A%E7%BD%91%E4%BA%86%23" target="weibo">
 王一博这几天别上网了（热度：863523）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E7%A7%B0%E6%84%BF%E7%BB%99%E6%AF%8D%E4%BA%B2%E5%AE%B6%E4%BA%BA%E4%B8%A4%E5%A5%97%E6%88%BF%23" target="weibo">
+吴谢宇称愿给母亲家人两套房（热度：862898）
 </a>
 </li>
 
@@ -5037,12 +5043,6 @@ SM娱乐就李楷灿室内吸烟道歉（热度：596835）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E7%A7%B0%E6%84%BF%E7%BB%99%E6%AF%8D%E4%BA%B2%E5%AE%B6%E4%BA%BA%E4%B8%A4%E5%A5%97%E6%88%BF%23" target="weibo">
-吴谢宇称愿给母亲家人两套房（热度：572281）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B6%E5%B0%81%23" target="weibo">
 零封（热度：572157）
 </a>
@@ -5535,6 +5535,12 @@ mbti新题（热度：542481）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone16Pro%E6%88%96%E5%8A%A0%E5%85%A5%E7%94%B5%E5%AE%B9%E5%BC%8F%E6%93%8D%E4%BD%9C%E6%8C%89%E9%92%AE%23" target="weibo">
+iPhone16Pro或加入电容式操作按钮（热度：538940）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%941%E4%BD%95%E9%92%A7%E6%9D%B0%E9%BB%84%E9%95%87%E5%BB%B7%23" target="weibo">
 樊振东王楚钦3比1何钧杰黄镇廷（热度：538914）
 </a>
@@ -5819,12 +5825,6 @@ YG官网删除BLACKPINK个人介绍页面（热度：521333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BD%A6%E7%99%BD%E7%8B%90%E5%8D%B3%E5%B0%86%E8%BF%90%E5%BE%80%E5%B0%94%E6%BB%A8%23" target="weibo">
 一车白狐即将运往尔滨（热度：517578）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone16Pro%E6%88%96%E5%8A%A0%E5%85%A5%E7%94%B5%E5%AE%B9%E5%BC%8F%E6%93%8D%E4%BD%9C%E6%8C%89%E9%92%AE%23" target="weibo">
-iPhone16Pro或加入电容式操作按钮（热度：517099）
 </a>
 </li>
 

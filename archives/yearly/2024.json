@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705108594986,
+  "endTime": 1705109846102,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2211,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1103928,
+      "num": 1103928,
+      "word": "主持人拒绝为芭比玩笑道歉",
+      "onboard_time": 1705104204,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1103406,
       "num": 1103406,
       "word": "南阳一公职人员兼职日薪税后3000",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705045950,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1052682,
-      "num": 1052682,
-      "word": "汪小姐出车祸",
-      "onboard_time": 1704517892,
-      "rank": 16,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1705076591437,
-  "endTime": 1705108594986,
+  "endTime": 1705109846102,
   "band_list": [
     {
       "raw_hot": 1859322,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 905004,
-      "num": 905004,
+      "raw_hot": 1103928,
+      "num": 1103928,
       "word": "主持人拒绝为芭比玩笑道歉",
       "onboard_time": 1705104204,
       "rank": 1,
@@ -33,6 +33,14 @@
       "onboard_time": 1705102282,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 862898,
+      "num": 862898,
+      "word": "吴谢宇称愿给母亲家人两套房",
+      "onboard_time": 1705107087,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 760379,
@@ -83,14 +91,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 572281,
-      "num": 296859,
-      "word": "吴谢宇称愿给母亲家人两套房",
-      "onboard_time": 1705107087,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 556393,
       "num": 556393,
       "word": "游本昌 年轻的朋友我永远陪伴你们",
@@ -115,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 517099,
-      "num": 517099,
+      "raw_hot": 538940,
+      "num": 538940,
       "word": "iPhone16Pro或加入电容式操作按钮",
       "onboard_time": 1705104264,
       "rank": 6,
@@ -137,6 +137,14 @@
       "onboard_time": 1705065090,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 494470,
+      "num": 494470,
+      "word": "樱桃和车厘子到底有什么区别",
+      "onboard_time": 1705107806,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 443886,
@@ -195,28 +203,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253870,
-      "num": 253870,
+      "raw_hot": 267720,
+      "num": 267720,
+      "word": "美方不得以任何形式介入台湾地区选举",
+      "onboard_time": 1705106787,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 254519,
+      "num": 254519,
       "word": "林园回应8000元炒股赚到数百亿",
       "onboard_time": 1705104866,
       "rank": 12,
       "category": "财经"
     },
     {
-      "raw_hot": 246790,
-      "num": 246790,
+      "raw_hot": 252084,
+      "num": 252084,
+      "word": "数学老师结婚给全班学生发喜糖红包",
+      "onboard_time": 1705108107,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251384,
+      "num": 251384,
       "word": "魏如萱 可以叫姨不能叫姐",
       "onboard_time": 1705106007,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242826,
-      "num": 242826,
-      "word": "樱桃和车厘子到底有什么区别",
-      "onboard_time": 1705107806,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 236577,
@@ -225,14 +241,6 @@
       "onboard_time": 1705094415,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208863,
-      "num": 208863,
-      "word": "美方不得以任何形式介入台湾地区选举",
-      "onboard_time": 1705106787,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 208821,
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176207,
+      "num": 158238,
+      "word": "陆虎 爱自己是提升生命质量的开始",
+      "onboard_time": 1705108409,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175070,
       "num": 175070,
       "word": "全球痤疮患者超6.4亿",
@@ -337,6 +353,14 @@
       "onboard_time": 1705073974,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 163636,
+      "num": 163636,
+      "word": "俄罗斯小套娃在尔滨跳科目三",
+      "onboard_time": 1705109608,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160274,
@@ -379,6 +403,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 144391,
+      "num": 144391,
+      "word": "小狗很担心情绪不佳的你",
+      "onboard_time": 1705108167,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 143105,
+      "num": 143105,
+      "word": "张杰参加安徽卫视春晚录制",
+      "onboard_time": 1705109548,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141379,
       "num": 141379,
       "word": "公交司机和初三女孩约定多等2分钟",
@@ -387,11 +427,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137108,
-      "num": 137108,
-      "word": "数学老师结婚给全班学生发喜糖红包",
-      "onboard_time": 1705108107,
-      "rank": 31,
+      "raw_hot": 134973,
+      "num": 134973,
+      "word": "实际面积少0.38平业主要求退差价",
+      "onboard_time": 1705109787,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -435,8 +475,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 123173,
-      "num": 123173,
+      "raw_hot": 124166,
+      "num": 124166,
       "word": "被山东女特警的破损手套帅到了",
       "onboard_time": 1705104806,
       "rank": 36,
@@ -449,6 +489,14 @@
       "onboard_time": 1705107685,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 120957,
+      "num": 120957,
+      "word": "霍尊官宣沈阳春节戏曲晚会",
+      "onboard_time": 1705108648,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 119237,
@@ -555,12 +603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100110,
-      "num": 100110,
-      "word": "陆虎 爱自己是提升生命质量的开始",
-      "onboard_time": 1705108409,
+      "raw_hot": 99680,
+      "num": 99680,
+      "word": "婆家齐上阵帮单亲准儿媳筹备出阁宴",
+      "onboard_time": 1705109310,
       "rank": 45,
-      "category": "综艺"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97731,
@@ -593,14 +641,6 @@
       "onboard_time": 1705050089,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 95714,
-      "num": 95714,
-      "word": "小狗很担心情绪不佳的你",
-      "onboard_time": 1705108167,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 95694,

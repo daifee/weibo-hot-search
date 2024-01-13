@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/13 09:16:34
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/13 09:37:26
 </p>
 </blockquote>
 <p>
@@ -1671,6 +1671,12 @@ Jennie离开YG的原因（热度：1109068）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%8B%92%E7%BB%9D%E4%B8%BA%E8%8A%AD%E6%AF%94%E7%8E%A9%E7%AC%91%E9%81%93%E6%AD%89%23" target="weibo">
+主持人拒绝为芭比玩笑道歉（热度：1103928）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E4%B8%80%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%85%BC%E8%81%8C%E6%97%A5%E8%96%AA%E7%A8%8E%E5%90%8E3000%23" target="weibo">
 南阳一公职人员兼职日薪税后3000（热度：1103406）
 </a>
@@ -1805,12 +1811,6 @@ A先生李李恋情（热度：1095743）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E4%B8%80%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%BA%97%E9%AB%98%E6%8C%82%E5%85%8D%E6%88%98%E7%89%8C%23" target="weibo">
 尔滨一麻辣烫店高挂免战牌（热度：1052734）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E5%A7%90%E5%87%BA%E8%BD%A6%E7%A5%B8%23" target="weibo">
-汪小姐出车祸（热度：1052682）
 </a>
 </li>
 

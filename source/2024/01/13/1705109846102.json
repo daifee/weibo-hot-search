@@ -1,0 +1,410 @@
+{
+  "runTime": 1705109846102,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1747975,
+        "num": 1747975,
+        "word": "霍尊复出",
+        "onboard_time": 1705103002,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1103928,
+        "num": 1103928,
+        "word": "主持人拒绝为芭比玩笑道歉",
+        "onboard_time": 1705104204,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49324,
+        "num": 868818,
+        "word": "扛着大型快递飞天的天舟六号下班啦",
+        "onboard_time": 1705069231,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 862898,
+        "num": 862898,
+        "word": "吴谢宇称愿给母亲家人两套房",
+        "onboard_time": 1705107087,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790448,
+        "num": 790448,
+        "word": "马伊琍拍繁花三年没见过游本昌",
+        "onboard_time": 1705102282,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551408,
+        "num": 551408,
+        "word": "警方通报大一女生校内坠楼身亡",
+        "onboard_time": 1705071755,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544179,
+        "num": 544179,
+        "word": "樊振东退赛",
+        "onboard_time": 1705102581,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538940,
+        "num": 538940,
+        "word": "iPhone16Pro或加入电容式操作按钮",
+        "onboard_time": 1705104264,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 494470,
+        "num": 494470,
+        "word": "樱桃和车厘子到底有什么区别",
+        "onboard_time": 1705107806,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 349939,
+        "num": 349939,
+        "word": "亚洲最帅王子迎娶平民女孩",
+        "onboard_time": 1705068212,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267720,
+        "num": 267720,
+        "word": "美方不得以任何形式介入台湾地区选举",
+        "onboard_time": 1705106787,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256636,
+        "num": 256636,
+        "word": "刘德华下个月就要去超市上班了",
+        "onboard_time": 1705069892,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254519,
+        "num": 254519,
+        "word": "林园回应8000元炒股赚到数百亿",
+        "onboard_time": 1705104866,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 253815,
+        "num": 253815,
+        "word": "沈腾句句不提贾玲句句都是贾玲",
+        "onboard_time": 1705070914,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252084,
+        "num": 252084,
+        "word": "数学老师结婚给全班学生发喜糖红包",
+        "onboard_time": 1705108107,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251384,
+        "num": 251384,
+        "word": "魏如萱 可以叫姨不能叫姐",
+        "onboard_time": 1705106007,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246550,
+        "num": 246550,
+        "word": "这居然是董子健",
+        "onboard_time": 1705065090,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236858,
+        "num": 236858,
+        "word": "睡觉中途醒了 不要看时间",
+        "onboard_time": 1705053449,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229796,
+        "num": 229796,
+        "word": "丫丫回国后模样爆改",
+        "onboard_time": 1705061790,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196299,
+        "num": 196299,
+        "word": "俞灏明三个小时做了一只鸡",
+        "onboard_time": 1705072230,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376511,
+        "num": 193058,
+        "word": "美国女子被海鸥解开泳衣带险走光",
+        "onboard_time": 1705105767,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189789,
+        "num": 189789,
+        "word": "逃出大英博物馆获奖",
+        "onboard_time": 1705069293,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183335,
+        "num": 183335,
+        "word": "这该不会是贾玲的胳膊吧",
+        "onboard_time": 1705044332,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181168,
+        "num": 181168,
+        "word": "0713央视春晚彩排",
+        "onboard_time": 1705060410,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172536,
+        "num": 172536,
+        "word": "老师 我们家苏醒呢",
+        "onboard_time": 1705064672,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166157,
+        "num": 166157,
+        "word": "终于轮到山东带孩子了",
+        "onboard_time": 1705103721,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163636,
+        "num": 163636,
+        "word": "俄罗斯小套娃在尔滨跳科目三",
+        "onboard_time": 1705109608,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158383,
+        "num": 158383,
+        "word": "全球痤疮患者超6.4亿",
+        "onboard_time": 1705103482,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176207,
+        "num": 158238,
+        "word": "陆虎 爱自己是提升生命质量的开始",
+        "onboard_time": 1705108409,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154737,
+        "num": 154737,
+        "word": "大学生租房遇神仙房东回应不是剧本",
+        "onboard_time": 1705101800,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147542,
+        "num": 147542,
+        "word": "明星出发微博之夜",
+        "onboard_time": 1705062689,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144391,
+        "num": 144391,
+        "word": "小狗很担心情绪不佳的你",
+        "onboard_time": 1705108167,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143105,
+        "num": 143105,
+        "word": "张杰参加安徽卫视春晚录制",
+        "onboard_time": 1705109548,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142990,
+        "num": 142990,
+        "word": "河南煤矿事故8人遇难15人失联",
+        "onboard_time": 1705101020,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137900,
+        "num": 137900,
+        "word": "官方回应镇政府工作人员上班打游戏",
+        "onboard_time": 1705073852,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136652,
+        "num": 136652,
+        "word": "关晓彤 我当时火就上来了",
+        "onboard_time": 1705060650,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134973,
+        "num": 134973,
+        "word": "实际面积少0.38平业主要求退差价",
+        "onboard_time": 1705109787,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124166,
+        "num": 124166,
+        "word": "被山东女特警的破损手套帅到了",
+        "onboard_time": 1705104806,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120957,
+        "num": 120957,
+        "word": "霍尊官宣沈阳春节戏曲晚会",
+        "onboard_time": 1705108648,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120909,
+        "num": 120909,
+        "word": "公交司机和初三女孩约定多等2分钟",
+        "onboard_time": 1705102041,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110429,
+        "num": 110429,
+        "word": "尔滨拔丝冻梨登场了",
+        "onboard_time": 1705107685,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107178,
+        "num": 107178,
+        "word": "孙颖莎3比2早田希娜",
+        "onboard_time": 1705103603,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107145,
+        "num": 107145,
+        "word": "游本昌 年轻的朋友我永远陪伴你们",
+        "onboard_time": 1705059808,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106467,
+        "num": 106467,
+        "word": "谭爷爷和花花在一起好温馨",
+        "onboard_time": 1705079002,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101631,
+        "num": 101631,
+        "word": "山东轮船海上救人一上船就送上面条",
+        "onboard_time": 1705107446,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99680,
+        "num": 99680,
+        "word": "婆家齐上阵帮单亲准儿媳筹备出阁宴",
+        "onboard_time": 1705109310,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98123,
+        "num": 98123,
+        "word": "2012年的胡歌",
+        "onboard_time": 1705070132,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95766,
+        "num": 95766,
+        "word": "感觉变笨可能是抑郁了",
+        "onboard_time": 1705100598,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91497,
+        "num": 91497,
+        "word": "林高远3比1马龙",
+        "onboard_time": 1705104445,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117349,
+        "num": 91387,
+        "word": "胡歌肖战同框",
+        "onboard_time": 1705063831,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见比利时首相#"
+    }
+  }
+}
