@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705112997498,
+  "endTime": 1705113644218,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1507,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1329374,
+      "num": 1329374,
+      "word": "弑母案吴谢宇被母亲家属拉黑",
+      "onboard_time": 1705110867,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1326474,
       "num": 1326474,
       "word": "身份证45开头的哈尔滨免费吃冻梨",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704175531,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1055446,
-      "num": 1055446,
-      "word": "弑母案吴谢宇被母亲家属拉黑",
-      "onboard_time": 1705110867,
-      "rank": 1,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

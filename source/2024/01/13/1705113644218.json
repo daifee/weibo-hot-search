@@ -1,0 +1,410 @@
+{
+  "runTime": 1705113644218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1416943,
+        "num": 1416943,
+        "word": "霍尊复出",
+        "onboard_time": 1705103002,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1329374,
+        "num": 1329374,
+        "word": "弑母案吴谢宇被母亲家属拉黑",
+        "onboard_time": 1705110867,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25040,
+        "num": 1146239,
+        "word": "让我们跟着微短剧去旅行",
+        "onboard_time": 1705112968,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055132,
+        "num": 1055132,
+        "word": "董子健 居然真的是我",
+        "onboard_time": 1705111167,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 873605,
+        "num": 873605,
+        "word": "花旗宣布裁员2万人",
+        "onboard_time": 1705110147,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 863235,
+        "num": 863235,
+        "word": "主持人拒绝为芭比玩笑道歉",
+        "onboard_time": 1705104204,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 739746,
+        "num": 739746,
+        "word": "吴谢宇称愿给母亲家人两套房",
+        "onboard_time": 1705107087,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568921,
+        "num": 568921,
+        "word": "马伊琍拍繁花三年没见过游本昌",
+        "onboard_time": 1705102282,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565968,
+        "num": 565968,
+        "word": "实际面积少0.38平业主要求退差价",
+        "onboard_time": 1705109787,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555639,
+        "num": 555639,
+        "word": "樱桃和车厘子到底有什么区别",
+        "onboard_time": 1705107806,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 555059,
+        "num": 555059,
+        "word": "赵丽颖马丽 丽丽在目",
+        "onboard_time": 1705112249,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 547783,
+        "num": 547783,
+        "word": "河南文旅真的把王一博搞来了",
+        "onboard_time": 1705110509,
+        "rank": 11,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 464170,
+        "num": 464170,
+        "word": "1996年日历",
+        "onboard_time": 1705110268,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 360261,
+        "num": 360261,
+        "word": "樊振东退赛",
+        "onboard_time": 1705102581,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355582,
+        "num": 355582,
+        "word": "警方通报大一女生校内坠楼身亡",
+        "onboard_time": 1705071755,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340958,
+        "num": 340958,
+        "word": "iPhone16Pro或加入电容式操作按钮",
+        "onboard_time": 1705104264,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 269829,
+        "num": 269829,
+        "word": "数学老师结婚给全班学生发喜糖红包",
+        "onboard_time": 1705108107,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253014,
+        "num": 253014,
+        "word": "睡觉中途醒了 不要看时间",
+        "onboard_time": 1705053449,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242759,
+        "num": 242759,
+        "word": "美英对也门首都发动新一轮空袭",
+        "onboard_time": 1705110448,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 240294,
+        "num": 240294,
+        "word": "关晓彤 他疯了他是个颠公",
+        "onboard_time": 1705113211,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235748,
+        "num": 235748,
+        "word": "美国女子被海鸥解开泳衣带险走光",
+        "onboard_time": 1705105767,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232524,
+        "num": 232524,
+        "word": "张予曦发光神女妆造",
+        "onboard_time": 1705113029,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224894,
+        "num": 224894,
+        "word": "美方不得以任何形式介入台湾地区选举",
+        "onboard_time": 1705106787,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209362,
+        "num": 209362,
+        "word": "逃出大英博物馆获奖",
+        "onboard_time": 1705069293,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207897,
+        "num": 207897,
+        "word": "肖战又被怼脸拍",
+        "onboard_time": 1705109906,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206192,
+        "num": 206192,
+        "word": "这居然是董子健",
+        "onboard_time": 1705065090,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199729,
+        "num": 199729,
+        "word": "质疑纣王成为纣王",
+        "onboard_time": 1705110207,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 180957,
+        "num": 180957,
+        "word": "女生未满19岁确诊卵巢早衰",
+        "onboard_time": 1705113149,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172679,
+        "num": 172679,
+        "word": "王子文的马甲线隔着裙子都能看见",
+        "onboard_time": 1705113269,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172443,
+        "num": 172443,
+        "word": "亚洲最帅王子迎娶平民女孩",
+        "onboard_time": 1705068212,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167741,
+        "num": 167741,
+        "word": "明星出发微博之夜",
+        "onboard_time": 1705062689,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158094,
+        "num": 158094,
+        "word": "魏如萱 可以叫姨不能叫姐",
+        "onboard_time": 1705106007,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142340,
+        "num": 142340,
+        "word": "它不是流浪猫了它知道家在哪",
+        "onboard_time": 1705112370,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137818,
+        "num": 137818,
+        "word": "原来真的有人原生家庭那么幸福",
+        "onboard_time": 1705113149,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130585,
+        "num": 130585,
+        "word": "来河南就是回老家了",
+        "onboard_time": 1705112311,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127857,
+        "num": 127857,
+        "word": "俞灏明三个小时做了一只鸡",
+        "onboard_time": 1705072230,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123923,
+        "num": 123923,
+        "word": "丫丫回国后模样爆改",
+        "onboard_time": 1705061790,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120324,
+        "num": 120324,
+        "word": "李晨说别小看周淑怡",
+        "onboard_time": 1705110027,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117371,
+        "num": 117371,
+        "word": "王心凌满40减20",
+        "onboard_time": 1705111768,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109353,
+        "num": 109353,
+        "word": "林园回应8000元炒股赚到数百亿",
+        "onboard_time": 1705104866,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108595,
+        "num": 108595,
+        "word": "终于轮到山东带孩子了",
+        "onboard_time": 1705103721,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108560,
+        "num": 108560,
+        "word": "小狗很担心情绪不佳的你",
+        "onboard_time": 1705108167,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107932,
+        "num": 107932,
+        "word": "中医瘦身知识",
+        "onboard_time": 1705112489,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107582,
+        "num": 107582,
+        "word": "孙颖莎3局仅让对手得9分",
+        "onboard_time": 1705113029,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106139,
+        "num": 106139,
+        "word": "0713央视春晚彩排",
+        "onboard_time": 1705060410,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105337,
+        "num": 105337,
+        "word": "上班就像读高三",
+        "onboard_time": 1705113507,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103962,
+        "num": 103962,
+        "word": "刘德华下个月就要去超市上班了",
+        "onboard_time": 1705069892,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99952,
+        "num": 99952,
+        "word": "沈腾句句不提贾玲句句都是贾玲",
+        "onboard_time": 1705070914,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99393,
+        "num": 99393,
+        "word": "多指症患者",
+        "onboard_time": 1705113570,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97798,
+        "num": 97798,
+        "word": "老师 我们家苏醒呢",
+        "onboard_time": 1705064672,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见比利时首相#"
+    }
+  }
+}

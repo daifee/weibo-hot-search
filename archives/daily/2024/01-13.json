@@ -1,6 +1,6 @@
 {
   "startTime": 1705076591437,
-  "endTime": 1705112997498,
+  "endTime": 1705113644218,
   "band_list": [
     {
       "raw_hot": 1859322,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1329374,
+      "num": 1329374,
+      "word": "弑母案吴谢宇被母亲家属拉黑",
+      "onboard_time": 1705110867,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1103928,
       "num": 1103928,
       "word": "主持人拒绝为芭比玩笑道歉",
@@ -27,16 +35,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1055446,
-      "num": 1055446,
-      "word": "弑母案吴谢宇被母亲家属拉黑",
-      "onboard_time": 1705110867,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 947238,
-      "num": 947238,
+      "raw_hot": 1055132,
+      "num": 1055132,
       "word": "董子健 居然真的是我",
       "onboard_time": 1705111167,
       "rank": 4,
@@ -51,20 +51,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 873605,
+      "num": 873605,
+      "word": "花旗宣布裁员2万人",
+      "onboard_time": 1705110147,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 862898,
       "num": 862898,
       "word": "吴谢宇称愿给母亲家人两套房",
       "onboard_time": 1705107087,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 851665,
-      "num": 851665,
-      "word": "花旗宣布裁员2万人",
-      "onboard_time": 1705110147,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 760379,
@@ -123,12 +123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 565968,
+      "num": 565968,
+      "word": "实际面积少0.38平业主要求退差价",
+      "onboard_time": 1705109787,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556393,
       "num": 556393,
       "word": "游本昌 年轻的朋友我永远陪伴你们",
       "onboard_time": 1705059808,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 555059,
+      "num": 555059,
+      "word": "赵丽颖马丽 丽丽在目",
+      "onboard_time": 1705112249,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 552247,
@@ -139,12 +155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 547153,
-      "num": 547153,
-      "word": "实际面积少0.38平业主要求退差价",
-      "onboard_time": 1705109787,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 547783,
+      "num": 547783,
+      "word": "河南文旅真的把王一博搞来了",
+      "onboard_time": 1705110509,
+      "rank": 11,
+      "category": "旅游,艺人"
     },
     {
       "raw_hot": 541198,
@@ -163,14 +179,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 503572,
-      "num": 503572,
-      "word": "河南文旅真的把王一博搞来了",
-      "onboard_time": 1705110509,
-      "rank": 11,
-      "category": "旅游,艺人"
-    },
-    {
       "raw_hot": 501894,
       "num": 501894,
       "word": "睡觉中途醒了 不要看时间",
@@ -187,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 464170,
+      "num": 464170,
+      "word": "1996年日历",
+      "onboard_time": 1705110268,
+      "rank": 12,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 443886,
       "num": 443886,
       "word": "逃出大英博物馆获奖",
@@ -201,14 +217,6 @@
       "onboard_time": 1705060650,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 439046,
-      "num": 439046,
-      "word": "1996年日历",
-      "onboard_time": 1705110268,
-      "rank": 12,
-      "category": "休闲"
     },
     {
       "raw_hot": 408028,
@@ -233,14 +241,6 @@
       "onboard_time": 1705061790,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343191,
-      "num": 343191,
-      "word": "赵丽颖马丽 丽丽在目",
-      "onboard_time": 1705112249,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 335975,
@@ -299,12 +299,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 240294,
+      "num": 240294,
+      "word": "关晓彤 他疯了他是个颠公",
+      "onboard_time": 1705113211,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236577,
       "num": 236577,
       "word": "鹤岗文旅局长在哈尔滨烤串",
       "onboard_time": 1705094415,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232524,
+      "num": 232524,
+      "word": "张予曦发光神女妆造",
+      "onboard_time": 1705113029,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209475,
@@ -323,8 +339,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 204285,
-      "num": 204285,
+      "raw_hot": 207897,
+      "num": 207897,
       "word": "肖战又被怼脸拍",
       "onboard_time": 1705109906,
       "rank": 25,
@@ -379,6 +395,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 180957,
+      "num": 180957,
+      "word": "女生未满19岁确诊卵巢早衰",
+      "onboard_time": 1705113149,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180217,
       "num": 149760,
       "word": "2012年的胡歌",
@@ -417,6 +441,14 @@
       "onboard_time": 1705101800,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172679,
+      "num": 172679,
+      "word": "王子文的马甲线隔着裙子都能看见",
+      "onboard_time": 1705113269,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172544,
@@ -523,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137818,
+      "num": 137818,
+      "word": "原来真的有人原生家庭那么幸福",
+      "onboard_time": 1705113149,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133737,
       "num": 133737,
       "word": "山东轮船海上救人一上船就送上面条",
@@ -627,8 +667,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 116411,
-      "num": 116411,
+      "raw_hot": 117371,
+      "num": 117371,
       "word": "王心凌满40减20",
       "onboard_time": 1705111768,
       "rank": 40,
@@ -667,6 +707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107582,
+      "num": 107582,
+      "word": "孙颖莎3局仅让对手得9分",
+      "onboard_time": 1705113029,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107324,
       "num": 107324,
       "word": "与恶魔有约",
@@ -681,6 +729,14 @@
       "onboard_time": 1705104445,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105337,
+      "num": 105337,
+      "word": "上班就像读高三",
+      "onboard_time": 1705113507,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 104427,
@@ -729,6 +785,14 @@
       "onboard_time": 1705109310,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99393,
+      "num": 99393,
+      "word": "多指症患者",
+      "onboard_time": 1705113570,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 97731,
@@ -1011,6 +1075,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 25040,
+      "num": 1146239,
+      "word": "让我们跟着微短剧去旅行",
+      "onboard_time": 1705112968,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24587,
       "num": 24360,
       "word": "何蓝逗非主流文案",
@@ -1041,14 +1113,6 @@
       "onboard_time": 1705094773,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 5264,
-      "num": 1016480,
-      "word": "让我们跟着微短剧去旅行",
-      "onboard_time": 1705112968,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
