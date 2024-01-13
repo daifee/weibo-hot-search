@@ -1,0 +1,410 @@
+{
+  "runTime": 1705142093668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7773194,
+        "num": 7773194,
+        "word": "肖战你好闪",
+        "onboard_time": 1705138843,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 7623877,
+        "num": 7623877,
+        "word": "娜扎 选美小姐",
+        "onboard_time": 1705132598,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79533,
+        "num": 3844248,
+        "word": "智能复兴号开进青藏高原",
+        "onboard_time": 1705133499,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3807247,
+        "num": 3807247,
+        "word": "微博之夜",
+        "onboard_time": 1705139569,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346510,
+        "num": 3175629,
+        "word": "杭州有老师群发及时叫停作业的消息",
+        "onboard_time": 1705140166,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3018171,
+        "num": 3018171,
+        "word": "杨紫穿紫",
+        "onboard_time": 1705137287,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136860,
+        "num": 2477179,
+        "word": "熊猫血男子22年献血8700毫升",
+        "onboard_time": 1705137287,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2340942,
+        "num": 2340942,
+        "word": "杨幂 步步生莲",
+        "onboard_time": 1705139633,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 645639,
+        "num": 645639,
+        "word": "男子举报妻子和国企领导发生关系致流产",
+        "onboard_time": 1705138485,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131615,
+        "num": 639692,
+        "word": "吉林文旅搬出张起灵宣传长白山",
+        "onboard_time": 1705140226,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 2237590,
+        "num": 557732,
+        "word": "迪丽热巴还不出图",
+        "onboard_time": 1705133558,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1673756,
+        "num": 472663,
+        "word": "杨紫张小斐互让座位",
+        "onboard_time": 1705140945,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1587190,
+        "num": 421882,
+        "word": "王一博今天也很酷",
+        "onboard_time": 1705136566,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379199,
+        "num": 379199,
+        "word": "民警说的电脑卡了其实是一句暗号",
+        "onboard_time": 1705136811,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350753,
+        "num": 378918,
+        "word": "车厘子价格腰斩销售火爆",
+        "onboard_time": 1705140883,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1423076,
+        "num": 378699,
+        "word": "微博之夜红毯",
+        "onboard_time": 1705127671,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1419419,
+        "num": 378473,
+        "word": "微博之夜内场",
+        "onboard_time": 1705140824,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294802,
+        "num": 378079,
+        "word": "KPL巅峰之夜红毯",
+        "onboard_time": 1705137767,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 258560,
+        "num": 377753,
+        "word": "王曼昱vs孙颖莎",
+        "onboard_time": 1705141905,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239393,
+        "num": 377323,
+        "word": "医生做久了见证死亡时会不会冷漠",
+        "onboard_time": 1705140883,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1362898,
+        "num": 376953,
+        "word": "虞书欣真听劝",
+        "onboard_time": 1705135968,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1283796,
+        "num": 376611,
+        "word": "微博之夜好多人啊",
+        "onboard_time": 1705128333,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376562,
+        "num": 376562,
+        "word": "真正不能空腹吃的是这3种水果",
+        "onboard_time": 1705142026,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255661,
+        "num": 376559,
+        "word": "因为高反室友把我一个人丢在了丽江",
+        "onboard_time": 1705138607,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236368,
+        "num": 376553,
+        "word": "外卖小哥为还债送外卖3年挣了102万",
+        "onboard_time": 1705127374,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060904,
+        "num": 376543,
+        "word": "张小斐 恶女妆",
+        "onboard_time": 1705140585,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 926647,
+        "num": 376540,
+        "word": "赵露思 谁说我是斑点狗",
+        "onboard_time": 1705133740,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 842857,
+        "num": 376530,
+        "word": "檀健次带粉丝走红毯",
+        "onboard_time": 1705140707,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 759702,
+        "num": 376526,
+        "word": "黄景瑜你快把眼镜摘了吧",
+        "onboard_time": 1705141065,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195578,
+        "num": 376519,
+        "word": "2023年王者荣耀巅峰之夜",
+        "onboard_time": 1705141007,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 720568,
+        "num": 376511,
+        "word": "白鹿 公主白梦妍",
+        "onboard_time": 1705130853,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 657640,
+        "num": 376506,
+        "word": "田曦薇公主切",
+        "onboard_time": 1705131096,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177461,
+        "num": 376497,
+        "word": "女生未满19岁确诊卵巢早衰",
+        "onboard_time": 1705113149,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175330,
+        "num": 376493,
+        "word": "南方小土豆真有那么小吗",
+        "onboard_time": 1705126415,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164438,
+        "num": 376481,
+        "word": "哈药六厂即将再次免费开放参观",
+        "onboard_time": 1705141726,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 650722,
+        "num": 376481,
+        "word": "杨幂 微博之夜要做的选择题",
+        "onboard_time": 1705134342,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 604428,
+        "num": 376472,
+        "word": "朱一龙发带",
+        "onboard_time": 1705141606,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 582249,
+        "num": 376464,
+        "word": "阿拉汪小姐美哭了",
+        "onboard_time": 1705135724,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142878,
+        "num": 376459,
+        "word": "长辈专用头像上新了",
+        "onboard_time": 1705138485,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138361,
+        "num": 376449,
+        "word": "iPhone成了去年中国最畅销的手机",
+        "onboard_time": 1705123891,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 559367,
+        "num": 376446,
+        "word": "文咏珊礼服 蛇与花交缠",
+        "onboard_time": 1705137229,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 450641,
+        "num": 376436,
+        "word": "邓为 摆裙师",
+        "onboard_time": 1705132776,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137169,
+        "num": 376429,
+        "word": "AG全员西装黑白配",
+        "onboard_time": 1705140347,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 447310,
+        "num": 376421,
+        "word": "粉色的电音朵拉",
+        "onboard_time": 1705139388,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93238,
+        "num": 376416,
+        "word": "央视曝光一医院全链条式腐败细节",
+        "onboard_time": 1705120769,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126361,
+        "num": 376414,
+        "word": "XYG 小香风男团",
+        "onboard_time": 1705141606,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92378,
+        "num": 376401,
+        "word": "大学生一天学完一科但记不住高铁车票",
+        "onboard_time": 1705133678,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90254,
+        "num": 376399,
+        "word": "流感爆发并非因新冠降低了人免疫力",
+        "onboard_time": 1705130616,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83971,
+        "num": 376391,
+        "word": "阴阳师银魂联动",
+        "onboard_time": 1705141426,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77338,
+        "num": 376384,
+        "word": "灾难级的应聘简历什么样",
+        "onboard_time": 1705129233,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#把老一辈革命家开创的伟大事业继续推向前进#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/13 18:18:24
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/13 18:34:53
 </p>
 </blockquote>
 <p>
@@ -64,7 +64,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BD%A0%E5%A5%BD%E9%97%AA%23" target="weibo">
-肖战你好闪（热度：7236708）
+肖战你好闪（热度：7773194）
 </a>
 </li>
 
@@ -717,6 +717,12 @@ A先生跳海（热度：1721660）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%A0%E5%B0%8F%E6%96%90%E4%BA%92%E8%AE%A9%E5%BA%A7%E4%BD%8D%23" target="weibo">
+杨紫张小斐互让座位（热度：1673756）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E9%A2%9D%E4%BD%8E%E4%BA%8E100%E5%85%83%E4%B8%8D%E8%83%BD%E6%8F%90%E7%8E%B0%E5%B1%9E%E9%9C%B8%E7%8E%8B%E6%9D%A1%E6%AC%BE%23" target="weibo">
 余额低于100元不能提现属霸王条款（热度：1666986）
 </a>
@@ -1091,6 +1097,12 @@ iPhone为什么只有P大写（热度：1427162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E8%A5%BF%E5%B2%B8%E8%BF%91%E6%B5%B77.8%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87%23" target="weibo">
 日本本州西岸近海7.8级左右地震（热度：1420447）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA%23" target="weibo">
+微博之夜内场（热度：1419419）
 </a>
 </li>
 
@@ -1971,6 +1983,12 @@ A先生李李恋情（热度：1095743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%81%B6%E5%A5%B3%E5%A6%86%23" target="weibo">
+张小斐 恶女妆（热度：1060904）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BB%A3%E8%A8%80%20%E5%95%86%E6%88%98%23" target="weibo">
 王一博代言 商战（热度：1060855）
 </a>
@@ -2757,12 +2775,6 @@ IU染粉发（热度：920521）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%A0%E5%B0%8F%E6%96%90%E4%BA%92%E8%AE%A9%E5%BA%A7%E4%BD%8D%23" target="weibo">
-杨紫张小斐互让座位（热度：875114）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E5%87%BA%E5%9B%BE%23" target="weibo">
 娜扎出图（热度：874141）
 </a>
@@ -2909,6 +2921,12 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23" target="weibo">
 微博之夜全阵容集结（热度：844558）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%B8%A6%E7%B2%89%E4%B8%9D%E8%B5%B0%E7%BA%A2%E6%AF%AF%23" target="weibo">
+檀健次带粉丝走红毯（热度：842857）
 </a>
 </li>
 
@@ -3483,6 +3501,12 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E4%BD%A0%E5%BF%AB%E6%8A%8A%E7%9C%BC%E9%95%9C%E6%91%98%E4%BA%86%E5%90%A7%23" target="weibo">
+黄景瑜你快把眼镜摘了吧（热度：759702）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9D%8E%E9%93%81%E7%9A%84%E9%93%81%E5%88%98%E6%B5%B7%E8%BF%98%E5%9C%A8%23" target="weibo">
 为什么李铁的铁刘海还在（热度：759036）
 </a>
@@ -3665,12 +3689,6 @@ A股（热度：751347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E4%BD%A0%E7%8E%A9%E7%9C%9F%E7%9A%84%E5%95%8A%23" target="weibo">
 哈工大你玩真的啊（热度：741298）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%81%B6%E5%A5%B3%E5%A6%86%23" target="weibo">
-张小斐 恶女妆（热度：739825）
 </a>
 </li>
 
@@ -4161,12 +4179,6 @@ iPhone电池门赔款到账（热度：737858）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA%23" target="weibo">
-微博之夜内场（热度：690525）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E7%99%BD%E9%B9%BF%23" target="weibo">
 微博之夜 白鹿（热度：690252）
 </a>
@@ -4331,12 +4343,6 @@ iPhone电池门赔款到账（热度：737858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E8%A1%A8%E7%99%BD%20%E7%94%B7%E4%B8%BB%E5%8E%BB%E6%8B%89%E8%82%9A%E5%AD%90%E4%BA%86%23" target="weibo">
 女主表白 男主去拉肚子了（热度：671421）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%B8%A6%E7%B2%89%E4%B8%9D%E8%B5%B0%E7%BA%A2%E6%AF%AF%23" target="weibo">
-檀健次带粉丝走红毯（热度：671389）
 </a>
 </li>
 
@@ -4595,6 +4601,12 @@ iPhone电池门赔款到账（热度：737858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%81%A2%E5%A4%8D%E7%8A%B6%E5%86%B5%23" target="weibo">
 朱一龙恢复状况（热度：646416）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E5%92%8C%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E8%87%B4%E6%B5%81%E4%BA%A7%23" target="weibo">
+男子举报妻子和国企领导发生关系致流产（热度：645639）
 </a>
 </li>
 
@@ -5013,6 +5025,12 @@ iPhone电池门赔款到账（热度：737858）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%8F%91%E5%B8%A6%23" target="weibo">
+朱一龙发带（热度：604428）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%9C%B0%E5%85%AC%E7%A4%BA8%E5%90%8D%E8%BA%BA%E5%B9%B3%E4%BC%91%E9%97%B2%E4%BA%BA%E5%91%98%23" target="weibo">
 广东一地公示8名躺平休闲人员（热度：603697）
 </a>
@@ -5099,12 +5117,6 @@ SM娱乐就李楷灿室内吸烟道歉（热度：596835）
 <li>
 <a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%90%83%E4%B8%8D%E5%88%B010%E7%A7%8D%E9%A3%9F%E7%89%A9%E7%9A%84%E5%A5%B3%E5%AD%A9%E9%95%BF%E5%A4%A7%E4%BA%86%23" target="weibo">
 5岁吃不到10种食物的女孩长大了（热度：596178）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E5%92%8C%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E8%87%B4%E6%B5%81%E4%BA%A7%23" target="weibo">
-男子举报妻子和国企领导发生关系致流产（热度：595808）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Kakao%E8%80%83%E8%99%91%E5%87%BA%E5%94%AESMTOWN%23" target="weibo">
 Kakao考虑出售SMTOWN（热度：533006）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E5%8F%88%E5%8F%8C%E5%8F%92%E4%B8%96%E4%B8%80%E4%BA%86%23" target="weibo">
-霉霉又双叒世一了（热度：532509）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%83%96%E5%AA%B3%E5%A6%87%E6%8A%8A%E8%80%81%E4%B8%88%E4%BA%BA%E4%B8%80%E5%90%BB%E8%B7%A8%E5%B9%B4%23" target="weibo">
-大胖媳妇把老丈人一吻跨年（热度：532410）
 </a>
 </li>
 
