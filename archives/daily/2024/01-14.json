@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705187909309,
+  "endTime": 1705188863661,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -227,6 +227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 382747,
+      "num": 382747,
+      "word": "央视转播车已抵达西安",
+      "onboard_time": 1705175536,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379109,
       "num": 379109,
       "word": "王楚钦vs林诗栋",
@@ -305,14 +313,6 @@
       "onboard_time": 1705157511,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 285731,
-      "num": 285731,
-      "word": "央视转播车已抵达西安",
-      "onboard_time": 1705175536,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 277310,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178935,
+      "num": 178935,
+      "word": "亚足联",
+      "onboard_time": 1705188020,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173420,
       "num": 248044,
       "word": "国考申论 怎么学的",
@@ -459,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124326,
+      "num": 124326,
+      "word": "国足进球被吹",
+      "onboard_time": 1705187600,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122610,
       "num": 122610,
       "word": "孙颖莎4比1陈梦",
@@ -483,28 +499,36 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 73581,
-      "num": 73581,
-      "word": "国足进球被吹",
-      "onboard_time": 1705187600,
-      "rank": 25,
+      "raw_hot": 79597,
+      "num": 79597,
+      "word": "纽卡斯尔联2比3曼城",
+      "onboard_time": 1705187960,
+      "rank": 33,
       "category": "体育"
     },
     {
-      "raw_hot": 70063,
-      "num": 63988,
+      "raw_hot": 78522,
+      "num": 78522,
+      "word": "陈楚生 糊没事有彦斌",
+      "onboard_time": 1705185077,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 75619,
+      "num": 75619,
       "word": "李宇春主打一个保暖",
       "onboard_time": 1705181473,
       "rank": 45,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 66951,
-      "num": 63020,
-      "word": "陈楚生 糊没事有彦斌",
-      "onboard_time": 1705185077,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 68358,
+      "num": 68358,
+      "word": "德布劳内 伊蒂哈德的神",
+      "onboard_time": 1705188080,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 59561,
@@ -579,7 +603,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 8691,
+      "raw_hot": 10009,
       "num": 484099,
       "word": "南北互跨式旅游地图",
       "onboard_time": 1705130496,
