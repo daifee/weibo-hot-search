@@ -1,6 +1,6 @@
 {
   "startTime": 1705076591437,
-  "endTime": 1705119704771,
+  "endTime": 1705120533608,
   "band_list": [
     {
       "raw_hot": 1859322,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1623600,
-      "num": 407021,
+      "num": 466361,
       "word": "台湾选举",
       "onboard_time": 1705116390,
       "rank": 10,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1257236,
-      "num": 1257236,
+      "raw_hot": 1510371,
+      "num": 1510371,
       "word": "全球新冠病例加速蔓延",
       "onboard_time": 1705115910,
       "rank": 8,
@@ -67,6 +67,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 904310,
+      "num": 765455,
+      "word": "女生未满19岁确诊卵巢早衰",
+      "onboard_time": 1705113149,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 888184,
+      "num": 888184,
+      "word": "微博之夜第一波出图",
+      "onboard_time": 1705117228,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 886776,
       "num": 886776,
       "word": "马伊琍拍繁花三年没见过游本昌",
@@ -91,28 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 765455,
-      "num": 765455,
-      "word": "女生未满19岁确诊卵巢早衰",
-      "onboard_time": 1705113149,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 760379,
       "num": 760379,
       "word": "亚洲最帅王子迎娶平民女孩",
       "onboard_time": 1705068212,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 743065,
-      "num": 743065,
-      "word": "微博之夜第一波出图",
-      "onboard_time": 1705117228,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 665668,
@@ -251,6 +251,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 473506,
+      "num": 473506,
+      "word": "王子文的马甲线隔着裙子都能看见",
+      "onboard_time": 1705113269,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 466022,
+      "num": 466021,
+      "word": "王者荣耀抖音直播将全面开放",
+      "onboard_time": 1705118550,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 464170,
       "num": 464170,
       "word": "1996年日历",
@@ -259,11 +275,19 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 457137,
-      "num": 457137,
-      "word": "王子文的马甲线隔着裙子都能看见",
-      "onboard_time": 1705113269,
-      "rank": 28,
+      "raw_hot": 455157,
+      "num": 455157,
+      "word": "赵丽颖简约高智妆",
+      "onboard_time": 1705118729,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 448388,
+      "num": 448388,
+      "word": "宋轶金色精灵",
+      "onboard_time": 1705118970,
+      "rank": 27,
       "category": "作品衍生"
     },
     {
@@ -283,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411031,
+      "num": 411031,
+      "word": "英雄联盟官方给陈泽刷礼物",
+      "onboard_time": 1705118729,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 408028,
       "num": 408028,
       "word": "全嘻嘻 聊聊离婚",
@@ -297,22 +329,6 @@
       "onboard_time": 1705105767,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382228,
-      "num": 382228,
-      "word": "王者荣耀抖音直播将全面开放",
-      "onboard_time": 1705118550,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 381509,
-      "num": 381509,
-      "word": "赵丽颖简约高智妆",
-      "onboard_time": 1705118729,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 376233,
@@ -331,20 +347,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 338347,
+      "num": 338347,
+      "word": "吴谢宇弑母案",
+      "onboard_time": 1705115849,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335975,
       "num": 335975,
       "word": "胡歌肖战同框",
       "onboard_time": 1705063831,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 332682,
-      "num": 332682,
-      "word": "英雄联盟官方给陈泽刷礼物",
-      "onboard_time": 1705118729,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 317765,
@@ -363,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290787,
-      "num": 290787,
-      "word": "吴谢宇弑母案",
-      "onboard_time": 1705115849,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 274966,
+      "num": 274966,
+      "word": "邓为微博之夜预告照",
+      "onboard_time": 1705119509,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 267720,
@@ -427,12 +443,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219764,
-      "num": 219764,
+      "raw_hot": 224572,
+      "num": 224572,
       "word": "王鹤棣蓝色小花短袖",
       "onboard_time": 1705118429,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222963,
+      "num": 189329,
+      "word": "刘诗诗上城士拍摄vlog",
+      "onboard_time": 1705119929,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 209737,
@@ -465,22 +489,6 @@
       "onboard_time": 1705109906,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207483,
-      "num": 207483,
-      "word": "宋轶金色精灵",
-      "onboard_time": 1705118970,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 203175,
-      "num": 203175,
-      "word": "邓为微博之夜预告照",
-      "onboard_time": 1705119509,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 199930,
@@ -539,12 +547,36 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 184973,
+      "num": 184973,
+      "word": "一顿小烧烤多少致癌物",
+      "onboard_time": 1705117228,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 184563,
       "num": 184563,
       "word": "李马克 小老外玩转微博",
       "onboard_time": 1705118907,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182192,
+      "num": 182192,
+      "word": "马丽 不说话还蛮公主的呢",
+      "onboard_time": 1705120170,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181112,
+      "num": 189675,
+      "word": "警方接6字报警挨户敲门救回人命",
+      "onboard_time": 1705119569,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180566,
@@ -561,14 +593,6 @@
       "onboard_time": 1705070132,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 179007,
-      "num": 179007,
-      "word": "一顿小烧烤多少致癌物",
-      "onboard_time": 1705117228,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 178846,
@@ -803,6 +827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 122675,
+      "num": 122675,
+      "word": "萌兰又在琢磨越狱",
+      "onboard_time": 1705120109,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122450,
       "num": 122450,
       "word": "李晨说别小看周淑怡",
@@ -883,20 +915,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113727,
-      "num": 113727,
-      "word": "警方接6字报警挨户敲门救回人命",
-      "onboard_time": 1705119569,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112354,
       "num": 112354,
       "word": "孙颖莎11比0",
       "onboard_time": 1705059931,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111997,
+      "num": 111997,
+      "word": "尔滨大哥做冰雕道具让小土豆拍照",
+      "onboard_time": 1705119274,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109395,
@@ -913,14 +945,6 @@
       "onboard_time": 1705100598,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 108996,
-      "num": 108996,
-      "word": "尔滨大哥做冰雕道具让小土豆拍照",
-      "onboard_time": 1705119274,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108814,
@@ -1140,7 +1164,7 @@
     },
     {
       "raw_hot": 83726,
-      "num": 413209,
+      "num": 466291,
       "word": "王者3D动画剧集首播",
       "onboard_time": 1705117048,
       "rank": 10,
@@ -1401,6 +1425,9 @@
     },
     {
       "word": "#发展冰雪产业把群众冰雪运动热情保持下去#"
+    },
+    {
+      "word": "#中欧之间需要架更多的桥#"
     }
   ]
 }
