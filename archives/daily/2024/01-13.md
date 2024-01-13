@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/13 00:23:11 ~ 2024/01/13 21:19:18
+本榜单时间：2024/01/13 00:23:11 ~ 2024/01/13 21:33:56
 </p>
 </blockquote>
 <p>
@@ -40,7 +40,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9D%A5%E4%BA%86%23" target="weibo">
-迪丽热巴来了（热度：7916672）
+迪丽热巴来了（热度：7932627）
 </a>
 </li>
 
@@ -123,6 +123,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%B4%E7%A3%8A%E5%90%8C%E5%8F%B0%20%E6%AD%8C%E9%9A%BC%E6%89%B9%E5%9C%86%E6%BB%A1%23" target="weibo">
+迪丽热巴吴磊同台 歌隼批圆满（热度：2261525）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%BE%88%E9%85%B7%23" target="weibo">
 王一博今天也很酷（热度：2219984）
 </a>
@@ -201,6 +207,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B1%E4%B8%80%E9%BE%99%20%E5%94%87%E8%AF%AD%23" target="weibo">
+杨幂朱一龙 唇语（热度：1424578）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E5%A4%A7%E5%A4%B4%E6%89%93%E4%B8%80%E4%B8%8B%23" target="weibo">
 杨幂 大头打一下（热度：1416987）
 </a>
@@ -215,12 +227,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%20%E6%91%86%E8%A3%99%E5%B8%88%23" target="weibo">
 邓为 摆裙师（热度：1411695）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B1%E4%B8%80%E9%BE%99%20%E5%94%87%E8%AF%AD%23" target="weibo">
-杨幂朱一龙 唇语（热度：1404699）
 </a>
 </li>
 
@@ -305,6 +311,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%94%90%E5%AB%A3%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E6%95%99%E7%88%B6%E7%8E%B0%E5%9C%BA%23" target="weibo">
 胡歌唐嫣辛芷蕾 教父现场（热度：1038354）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E5%93%AD%E4%BA%86%23" target="weibo">
+高叶哭了（热度：1023813）
 </a>
 </li>
 
@@ -401,6 +413,18 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%AD%9F%E5%AE%B4%E8%87%A3S%E7%89%88%23" target="weibo">
 今天是孟宴臣S版（热度：798932）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%20%E6%80%A7%E6%84%9F%E9%A3%8E%23" target="weibo">
+娜扎 性感风（热度：795941）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E7%AB%A5%20%E9%87%91%E9%B8%A1%E6%B2%A1%E8%83%BD%E8%AF%B4%E7%9A%84%E5%9C%A8%E8%BF%99%E5%8F%AF%E4%BB%A5%E8%AF%B4%E4%BA%86%23" target="weibo">
+叶童 金鸡没能说的在这可以说了（热度：788102）
 </a>
 </li>
 
@@ -633,8 +657,14 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%20%E6%80%A7%E6%84%9F%E9%A3%8E%23" target="weibo">
-娜扎 性感风（热度：532467）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%23" target="weibo">
+王楚钦孙颖莎vs林诗栋蒯曼（热度：514378）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E7%94%B3%E8%AE%BA%20%E6%80%8E%E4%B9%88%E5%AD%A6%E7%9A%84%23" target="weibo">
+国考申论 怎么学的（热度：505341）
 </a>
 </li>
 
@@ -771,6 +801,12 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%B8%85%20%E6%88%91%E7%9C%9F%E7%9A%84%E6%83%B3%E7%AC%91%23" target="weibo">
+清清 我真的想笑（热度：425264）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%91%A8%E4%B9%9F%E8%87%AA%E6%8B%8D%23" target="weibo">
 王鹤棣周也自拍（热度：416976）
 </a>
@@ -891,6 +927,12 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA%20CP%E5%A4%A7%E4%B9%B1%E7%82%96%23" target="weibo">
+微博之夜内场 CP大乱炖（热度：354992）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%86%BB%E6%A2%A8%E4%BB%8A%E5%B9%B4%E9%81%AD%E8%80%81%E7%BD%AA%E4%BA%86%23" target="weibo">
 东北冻梨今年遭老罪了（热度：347159）
 </a>
@@ -957,18 +999,6 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E7%94%B3%E8%AE%BA%20%E6%80%8E%E4%B9%88%E5%AD%A6%E7%9A%84%23" target="weibo">
-国考申论 怎么学的（热度：308398）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%B8%85%20%E6%88%91%E7%9C%9F%E7%9A%84%E6%83%B3%E7%AC%91%23" target="weibo">
-清清 我真的想笑（热度：305618）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8%E6%B4%BE%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B4%E5%B9%B3%E9%A1%B6%E5%B1%B1%23" target="weibo">
 应急管理部派工作组赴平顶山（热度：299907）
 </a>
@@ -1005,6 +1035,12 @@ KPL巅峰之夜红毯（热度：294802）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%A1%AE%E5%AE%9E%E6%98%AF%E5%BE%88%E5%A5%BD%E7%9A%84%E5%93%81%E8%B4%A8%23" target="weibo">
+情绪稳定确实是很好的品质（热度：279334）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%A2%84%E5%91%8A%E7%85%A7%23" target="weibo">
 邓为微博之夜预告照（热度：274966）
 </a>
@@ -1019,12 +1055,6 @@ KPL巅峰之夜红毯（热度：294802）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B7%87%20%E4%B8%8A%E6%AC%A1%E6%B5%81%E9%BC%BB%E8%A1%80%E9%82%A3%E4%B8%AA%23" target="weibo">
 上淇 上次流鼻血那个（热度：269175）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%A1%AE%E5%AE%9E%E6%98%AF%E5%BE%88%E5%A5%BD%E7%9A%84%E5%93%81%E8%B4%A8%23" target="weibo">
-情绪稳定确实是很好的品质（热度：268154）
 </a>
 </li>
 
@@ -1215,6 +1245,12 @@ KPL年度最佳对抗路清清（热度：220912）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E9%A6%96%E5%8F%91%23" target="weibo">
+国足vs塔吉克斯坦首发（热度：217484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%80%E5%A4%A9%E5%AD%A6%E5%AE%8C%E4%B8%80%E7%A7%91%E4%BD%86%E8%AE%B0%E4%B8%8D%E4%BD%8F%E9%AB%98%E9%93%81%E8%BD%A6%E7%A5%A8%23" target="weibo">
 大学生一天学完一科但记不住高铁车票（热度：216806）
 </a>
@@ -1259,6 +1295,12 @@ KPL年度最佳对抗路清清（热度：220912）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TTG%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%E8%A5%BF%E8%A3%85%E9%80%A0%E5%9E%8B%23" target="weibo">
 TTG巅峰之夜西装造型（热度：204212）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23KPL%E7%BB%84%E5%BB%BA%E6%A2%A6%E4%B9%8B%E9%98%9F%E5%8F%82%E4%B8%8E%E5%9B%BD%E9%99%85%E8%B5%9B%23" target="weibo">
+KPL组建梦之队参与国际赛（热度：202697）
 </a>
 </li>
 
@@ -1313,6 +1355,12 @@ KPL表演赛（热度：201826）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9F%E9%97%A8%23" target="weibo">
 也门（热度：192876）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232024KPL%E5%BC%80%E8%AE%BE%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
+2024KPL开设年度总决赛（热度：191028）
 </a>
 </li>
 
@@ -1419,8 +1467,20 @@ Kep1er预计7月解散（热度：178846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E4%B8%8A%E6%96%B0%E6%8B%94%E4%B8%9D%E5%86%BB%E6%A2%A8%23" target="weibo">
+尔滨上新拔丝冻梨（热度：175367）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%97%A4%E7%96%AE%E6%82%A3%E8%80%85%E8%B6%856.4%E4%BA%BF%23" target="weibo">
 全球痤疮患者超6.4亿（热度：175070）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%96%E8%B1%AA%E7%BC%BA%E5%B8%AD%E4%BA%9A%E6%B4%B2%E6%9D%AF%E9%A6%96%E6%88%98%23" target="weibo">
+韦世豪缺席亚洲杯首战（热度：175061）
 </a>
 </li>
 
@@ -1601,12 +1661,6 @@ KPL年度最佳新锐选手钟意（热度：141167）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%AD%90%E7%9D%AB%E6%AF%9B%23" target="weibo">
 电子睫毛（热度：131548）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E4%B8%8A%E6%96%B0%E6%8B%94%E4%B8%9D%E5%86%BB%E6%A2%A8%23" target="weibo">
-尔滨上新拔丝冻梨（热度：131050）
 </a>
 </li>
 
@@ -2073,6 +2127,12 @@ onerepublic上海演唱会（热度：78958）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A3%8E%E9%9B%AA%E4%B8%AD%E4%BB%96%E4%BB%AC%E7%9A%84%E8%BA%AB%E5%BD%B1%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E4%BF%9D%E9%9A%9C%23" target="weibo">
+风雪中他们的身影是我们的保障（热度：68406）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E9%98%BF%E5%A7%A8%E7%89%B9%E6%84%8F%E5%B0%86%E6%B8%B8%E5%AE%A2%E5%86%B0%E9%A5%AE%E6%94%BE%E7%AA%97%E8%BE%B9%E9%98%B2%E8%9E%8D%23" target="weibo">
 尔滨阿姨特意将游客冰饮放窗边防融（热度：64307）
 </a>
@@ -2081,12 +2141,6 @@ onerepublic上海演唱会（热度：78958）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%98%8E%E6%98%9F%E5%B0%81%E7%A5%9E%E7%85%A7%23" target="weibo">
 微博之夜明星封神照（热度：64136）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A3%8E%E9%9B%AA%E4%B8%AD%E4%BB%96%E4%BB%AC%E7%9A%84%E8%BA%AB%E5%BD%B1%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E4%BF%9D%E9%9A%9C%23" target="weibo">
-风雪中他们的身影是我们的保障（热度：63333）
 </a>
 </li>
 

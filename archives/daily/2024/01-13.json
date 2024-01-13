@@ -1,6 +1,6 @@
 {
   "startTime": 1705076591437,
-  "endTime": 1705151958852,
+  "endTime": 1705152836040,
   "band_list": [
     {
       "raw_hot": 11002130,
@@ -35,8 +35,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 7916672,
-      "num": 7916672,
+      "raw_hot": 7932627,
+      "num": 7932627,
       "word": "迪丽热巴来了",
       "onboard_time": 1705148267,
       "rank": 1,
@@ -147,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2261525,
+      "num": 511451,
+      "word": "迪丽热巴吴磊同台 歌隼批圆满",
+      "onboard_time": 1705152350,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2219984,
       "num": 2219984,
       "word": "王一博今天也很酷",
@@ -251,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1424578,
+      "num": 1404699,
+      "word": "杨幂朱一龙 唇语",
+      "onboard_time": 1705150373,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1416987,
       "num": 681558,
       "word": "杨幂 大头打一下",
@@ -272,14 +288,6 @@
       "word": "邓为 摆裙师",
       "onboard_time": 1705132776,
       "rank": 5,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1404699,
-      "num": 1404699,
-      "word": "杨幂朱一龙 唇语",
-      "onboard_time": 1705150373,
-      "rank": 10,
       "category": "作品衍生"
     },
     {
@@ -392,6 +400,14 @@
       "word": "胡歌唐嫣辛芷蕾 教父现场",
       "onboard_time": 1705139930,
       "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1023813,
+      "num": 490771,
+      "word": "高叶哭了",
+      "onboard_time": 1705152588,
+      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -520,6 +536,22 @@
       "word": "今天是孟宴臣S版",
       "onboard_time": 1705124012,
       "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 795941,
+      "num": 532467,
+      "word": "娜扎 性感风",
+      "onboard_time": 1705151572,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 788102,
+      "num": 484067,
+      "word": "叶童 金鸡没能说的在这可以说了",
+      "onboard_time": 1705152287,
+      "rank": 31,
       "category": "作品衍生"
     },
     {
@@ -827,12 +859,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 532467,
-      "num": 532467,
-      "word": "娜扎 性感风",
-      "onboard_time": 1705151572,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 514378,
+      "num": 514378,
+      "word": "王楚钦孙颖莎vs林诗栋蒯曼",
+      "onboard_time": 1705151987,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 505341,
+      "num": 505341,
+      "word": "国考申论 怎么学的",
+      "onboard_time": 1705151388,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 501894,
@@ -1011,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 425264,
+      "num": 1373393,
+      "word": "清清 我真的想笑",
+      "onboard_time": 1705151029,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 416976,
       "num": 416976,
       "word": "王鹤棣周也自拍",
@@ -1171,6 +1219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354992,
+      "num": 354992,
+      "word": "微博之夜内场 CP大乱炖",
+      "onboard_time": 1705151572,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 347159,
       "num": 905818,
       "word": "东北冻梨今年遭老罪了",
@@ -1259,22 +1315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 308398,
-      "num": 458538,
-      "word": "国考申论 怎么学的",
-      "onboard_time": 1705151388,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 305618,
-      "num": 1373393,
-      "word": "清清 我真的想笑",
-      "onboard_time": 1705151029,
-      "rank": 12,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 299907,
       "num": 385991,
       "word": "应急管理部派工作组赴平顶山",
@@ -1323,6 +1363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 279334,
+      "num": 904181,
+      "word": "情绪稳定确实是很好的品质",
+      "onboard_time": 1705149470,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 274966,
       "num": 274966,
       "word": "邓为微博之夜预告照",
@@ -1345,14 +1393,6 @@
       "onboard_time": 1705129955,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 268154,
-      "num": 904181,
-      "word": "情绪稳定确实是很好的品质",
-      "onboard_time": 1705149470,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 267720,
@@ -1603,6 +1643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 217484,
+      "num": 498182,
+      "word": "国足vs塔吉克斯坦首发",
+      "onboard_time": 1705152408,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216806,
       "num": 2084414,
       "word": "大学生一天学完一科但记不住高铁车票",
@@ -1664,6 +1712,14 @@
       "word": "TTG巅峰之夜西装造型",
       "onboard_time": 1705144304,
       "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 202697,
+      "num": 480748,
+      "word": "KPL组建梦之队参与国际赛",
+      "onboard_time": 1705152169,
+      "rank": 33,
       "category": "电竞"
     },
     {
@@ -1737,6 +1793,14 @@
       "onboard_time": 1705062689,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 191028,
+      "num": 479887,
+      "word": "2024KPL开设年度总决赛",
+      "onboard_time": 1705152227,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 190397,
@@ -1875,12 +1939,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175367,
+      "num": 396103,
+      "word": "尔滨上新拔丝冻梨",
+      "onboard_time": 1705151810,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 175070,
       "num": 175070,
       "word": "全球痤疮患者超6.4亿",
       "onboard_time": 1705103482,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 175061,
+      "num": 435190,
+      "word": "韦世豪缺席亚洲杯首战",
+      "onboard_time": 1705152644,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 174921,
@@ -2121,14 +2201,6 @@
       "onboard_time": 1705124612,
       "rank": 43,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 131050,
-      "num": 396103,
-      "word": "尔滨上新拔丝冻梨",
-      "onboard_time": 1705151810,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 130287,
@@ -2747,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68406,
+      "num": 5626216,
+      "word": "风雪中他们的身影是我们的保障",
+      "onboard_time": 1705132957,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64307,
       "num": 64307,
       "word": "尔滨阿姨特意将游客冰饮放窗边防融",
@@ -2761,14 +2841,6 @@
       "onboard_time": 1705144365,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 63333,
-      "num": 4753366,
-      "word": "风雪中他们的身影是我们的保障",
-      "onboard_time": 1705132957,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61983,

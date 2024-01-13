@@ -1,6 +1,6 @@
 {
   "startTime": 1704558086484,
-  "endTime": 1705151958852,
+  "endTime": 1705152836040,
   "band_list": [
     {
       "raw_hot": 11002130,
@@ -43,8 +43,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 7916672,
-      "num": 7916672,
+      "raw_hot": 7932627,
+      "num": 7932627,
       "word": "迪丽热巴来了",
       "onboard_time": 1705148267,
       "rank": 1,
@@ -265,6 +265,14 @@
       "onboard_time": 1704703350,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2261525,
+      "num": 511451,
+      "word": "迪丽热巴吴磊同台 歌隼批圆满",
+      "onboard_time": 1705152350,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2244076,
@@ -787,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1424578,
+      "num": 1404699,
+      "word": "杨幂朱一龙 唇语",
+      "onboard_time": 1705150373,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1416987,
       "num": 681558,
       "word": "杨幂 大头打一下",
@@ -824,14 +840,6 @@
       "word": "迪丽热巴官宣微博之夜",
       "onboard_time": 1704951570,
       "rank": 1,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1404699,
-      "num": 1404699,
-      "word": "杨幂朱一龙 唇语",
-      "onboard_time": 1705150373,
-      "rank": 10,
       "category": "作品衍生"
     },
     {
@@ -1521,6 +1529,14 @@
       "onboard_time": 1704721834,
       "rank": 7,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1023813,
+      "num": 490771,
+      "word": "高叶哭了",
+      "onboard_time": 1705152588,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1018163,
@@ -2347,6 +2363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 795941,
+      "num": 532467,
+      "word": "娜扎 性感风",
+      "onboard_time": 1705151572,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 795049,
       "num": 795049,
       "word": "赵丽颖第二十条",
@@ -2361,6 +2385,14 @@
       "onboard_time": 1704883171,
       "rank": 8,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 788102,
+      "num": 484067,
+      "word": "叶童 金鸡没能说的在这可以说了",
+      "onboard_time": 1705152287,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 787684,
@@ -4371,14 +4403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 532467,
-      "num": 532467,
-      "word": "娜扎 性感风",
-      "onboard_time": 1705151572,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 532410,
       "num": 532410,
       "word": "大胖媳妇把老丈人一吻跨年",
@@ -4547,6 +4571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514378,
+      "num": 514378,
+      "word": "王楚钦孙颖莎vs林诗栋蒯曼",
+      "onboard_time": 1705151987,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513813,
       "num": 326103,
       "word": "教授称房价下跌老百姓损失最大",
@@ -4673,6 +4705,14 @@
       "onboard_time": 1704892112,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 505341,
+      "num": 505341,
+      "word": "国考申论 怎么学的",
+      "onboard_time": 1705151388,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 504724,
@@ -5635,6 +5675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 425264,
+      "num": 1373393,
+      "word": "清清 我真的想笑",
+      "onboard_time": 1705151029,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 425257,
       "num": 425257,
       "word": "律师称张雪峰说文科生靠舔不侵犯名誉权",
@@ -6523,6 +6571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354992,
+      "num": 354992,
+      "word": "微博之夜内场 CP大乱炖",
+      "onboard_time": 1705151572,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 354836,
       "num": 354836,
       "word": "周鸿祎说和程前互怼不叫事",
@@ -7243,14 +7299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308398,
-      "num": 458538,
-      "word": "国考申论 怎么学的",
-      "onboard_time": 1705151388,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 307886,
       "num": 307886,
       "word": "钎九 又幸福了",
@@ -7289,14 +7337,6 @@
       "onboard_time": 1704675812,
       "rank": 21,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 305618,
-      "num": 1373393,
-      "word": "清清 我真的想笑",
-      "onboard_time": 1705151029,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 305164,
@@ -7827,6 +7867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279334,
+      "num": 904181,
+      "word": "情绪稳定确实是很好的品质",
+      "onboard_time": 1705149470,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278065,
       "num": 278065,
       "word": "孙颖莎3比0张本美和",
@@ -8025,14 +8073,6 @@
       "onboard_time": 1704809375,
       "rank": 38,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 268154,
-      "num": 904181,
-      "word": "情绪稳定确实是很好的品质",
-      "onboard_time": 1705149470,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 267737,
@@ -9635,6 +9675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217484,
+      "num": 498182,
+      "word": "国足vs塔吉克斯坦首发",
+      "onboard_time": 1705152408,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217369,
       "num": 217369,
       "word": "流水的弟弟 铁打的宋茜",
@@ -10425,6 +10473,14 @@
       "onboard_time": 1704967531,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202697,
+      "num": 480748,
+      "word": "KPL组建梦之队参与国际赛",
+      "onboard_time": 1705152169,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 202642,
@@ -11281,6 +11337,14 @@
       "onboard_time": 1704983014,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191028,
+      "num": 479887,
+      "word": "2024KPL开设年度总决赛",
+      "onboard_time": 1705152227,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 190838,
@@ -12331,6 +12395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 175367,
+      "num": 396103,
+      "word": "尔滨上新拔丝冻梨",
+      "onboard_time": 1705151810,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 175358,
       "num": 175358,
       "word": "言生白荆回廊cos",
@@ -12361,6 +12433,14 @@
       "onboard_time": 1705103482,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 175061,
+      "num": 435190,
+      "word": "韦世豪缺席亚洲杯首战",
+      "onboard_time": 1705152644,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 174986,
@@ -15659,14 +15739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131050,
-      "num": 396103,
-      "word": "尔滨上新拔丝冻梨",
-      "onboard_time": 1705151810,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 131039,
       "num": 131039,
       "word": "现在的笔竟然有这么多功能",
@@ -18587,6 +18659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68406,
+      "num": 5626216,
+      "word": "风雪中他们的身影是我们的保障",
+      "onboard_time": 1705132957,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68338,
       "num": 68338,
       "word": "网友上海街头偶遇海恩贤圭",
@@ -18665,14 +18745,6 @@
       "onboard_time": 1704656954,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 63333,
-      "num": 4753366,
-      "word": "风雪中他们的身影是我们的保障",
-      "onboard_time": 1705132957,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62951,
