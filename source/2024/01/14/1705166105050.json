@@ -1,0 +1,410 @@
+{
+  "runTime": 1705166105050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4547696,
+        "num": 5595393,
+        "word": "台湾是中国一部分的基本事实不会改变",
+        "onboard_time": 1705162961,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1138977,
+        "num": 1138977,
+        "word": "杨紫三获微博Queen",
+        "onboard_time": 1705157987,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35824,
+        "num": 1115264,
+        "word": "红鹰飞行表演队首次出国表演",
+        "onboard_time": 1705154148,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1092939,
+        "num": 1092939,
+        "word": "张予曦为防走光在胸口插花",
+        "onboard_time": 1705161941,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1043615,
+        "num": 1043615,
+        "word": "国台办发言人评论台湾地区选举结果",
+        "onboard_time": 1705158527,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 923209,
+        "num": 923209,
+        "word": "杨幂拿到唐嫣的礼物了吗",
+        "onboard_time": 1705157987,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 803435,
+        "num": 803435,
+        "word": "推动两岸关系和平发展推进祖国统一大业",
+        "onboard_time": 1705160742,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 686775,
+        "num": 686775,
+        "word": "楼下起火爸爸抱女儿坠楼7岁女儿身亡",
+        "onboard_time": 1705160440,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628187,
+        "num": 628187,
+        "word": "国足vs塔吉克斯坦",
+        "onboard_time": 1705158775,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554624,
+        "num": 554624,
+        "word": "朱一龙微博King",
+        "onboard_time": 1705157865,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 746940,
+        "num": 553388,
+        "word": "外交部发言人就台湾选举答记者问",
+        "onboard_time": 1705162597,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 546576,
+        "num": 546576,
+        "word": "苏醒 新疆",
+        "onboard_time": 1705161519,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 523832,
+        "num": 523832,
+        "word": "秦岚裙子的衩开到我心口",
+        "onboard_time": 1705161999,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 514396,
+        "num": 514396,
+        "word": "张小斐 贾玲练出一身腱子肉",
+        "onboard_time": 1705157271,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 505715,
+        "num": 505715,
+        "word": "胡歌刘诗诗同框",
+        "onboard_time": 1705144723,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467010,
+        "num": 467010,
+        "word": "国足0比0塔吉克斯坦",
+        "onboard_time": 1705164452,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445423,
+        "num": 445423,
+        "word": "热巴脚滑了",
+        "onboard_time": 1705159548,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439947,
+        "num": 439947,
+        "word": "国考出成绩",
+        "onboard_time": 1705147906,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 428576,
+        "num": 428576,
+        "word": "杨幂 这是我穿过最美的裙子",
+        "onboard_time": 1705147607,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379109,
+        "num": 379109,
+        "word": "王楚钦vs林诗栋",
+        "onboard_time": 1705164511,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384114,
+        "num": 378430,
+        "word": "马丽雷佳音肖战 躲C位",
+        "onboard_time": 1705157389,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372665,
+        "num": 372665,
+        "word": "孙颖莎女单金牌",
+        "onboard_time": 1705162299,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347053,
+        "num": 347053,
+        "word": "虞书欣真听劝",
+        "onboard_time": 1705135968,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234568,
+        "num": 234568,
+        "word": "武磊射门踢空",
+        "onboard_time": 1705159548,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197166,
+        "num": 197166,
+        "word": "WTT",
+        "onboard_time": 1705146462,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344951,
+        "num": 194905,
+        "word": "迪丽热巴来了",
+        "onboard_time": 1705148267,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302900,
+        "num": 193685,
+        "word": "陈都灵张婧仪自拍",
+        "onboard_time": 1705161580,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301252,
+        "num": 189019,
+        "word": "微博之夜",
+        "onboard_time": 1705139569,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184310,
+        "num": 184310,
+        "word": "导盲犬禁入是给谁看的",
+        "onboard_time": 1705160859,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178356,
+        "num": 178356,
+        "word": "真正不能空腹吃的是这3种水果",
+        "onboard_time": 1705142026,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263649,
+        "num": 178332,
+        "word": "微博之夜 四大才子",
+        "onboard_time": 1705148327,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214082,
+        "num": 178279,
+        "word": "王鹤棣吴露可逃分界线",
+        "onboard_time": 1705149829,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202939,
+        "num": 177561,
+        "word": "刘诗诗杨紫同台领奖",
+        "onboard_time": 1705154630,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176532,
+        "num": 176532,
+        "word": "国考查成绩 打不开网站",
+        "onboard_time": 1705148511,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153165,
+        "num": 153165,
+        "word": "车厘子为何降价",
+        "onboard_time": 1705159841,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199775,
+        "num": 152382,
+        "word": "娜扎 性感风",
+        "onboard_time": 1705151572,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173282,
+        "num": 150289,
+        "word": "微博之夜内场 熟人局",
+        "onboard_time": 1705146039,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144672,
+        "num": 144672,
+        "word": "莎头 热血笨蛋",
+        "onboard_time": 1705154510,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101685,
+        "num": 144495,
+        "word": "为什么有些女生会长胡子",
+        "onboard_time": 1705158176,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83723,
+        "num": 142668,
+        "word": "国考申论 怎么学的",
+        "onboard_time": 1705151388,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171282,
+        "num": 141038,
+        "word": "胡歌一手牵唐嫣一手牵辛芷蕾",
+        "onboard_time": 1705155831,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169972,
+        "num": 139375,
+        "word": "吴宣仪演唱会",
+        "onboard_time": 1705163973,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159675,
+        "num": 139091,
+        "word": "迪丽热巴肖战 能不能有一个同框",
+        "onboard_time": 1705156611,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159628,
+        "num": 137365,
+        "word": "李兰迪 玫瑰公主",
+        "onboard_time": 1705161036,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146683,
+        "num": 135741,
+        "word": "王一博王嘉尔同步吐舌头",
+        "onboard_time": 1705157511,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135210,
+        "num": 135210,
+        "word": "高叶哭了",
+        "onboard_time": 1705152588,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82075,
+        "num": 134026,
+        "word": "亚洲杯",
+        "onboard_time": 1705148574,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73558,
+        "num": 132927,
+        "word": "价格暴跌但为啥还没有车厘子自由",
+        "onboard_time": 1705156487,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 70652,
+        "num": 130541,
+        "word": "刘洋穿裆过人",
+        "onboard_time": 1705161398,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69581,
+        "num": 129418,
+        "word": "刘彬彬一过二",
+        "onboard_time": 1705160801,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中欧之间需要架更多的桥#"
+    }
+  }
+}
