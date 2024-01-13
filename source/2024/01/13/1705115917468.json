@@ -1,0 +1,410 @@
+{
+  "runTime": 1705115917468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1600135,
+        "num": 1600135,
+        "word": "弑母案吴谢宇被母亲家属拉黑",
+        "onboard_time": 1705110867,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292898,
+        "num": 1292898,
+        "word": "霍尊复出",
+        "onboard_time": 1705103002,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46091,
+        "num": 1116638,
+        "word": "我们一起种下种花家的繁花",
+        "onboard_time": 1705115128,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963542,
+        "num": 963542,
+        "word": "关晓彤 他疯了他是个颠公",
+        "onboard_time": 1705113211,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 927164,
+        "num": 927164,
+        "word": "董子健 居然真的是我",
+        "onboard_time": 1705111167,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683580,
+        "num": 683580,
+        "word": "花旗宣布裁员2万人",
+        "onboard_time": 1705110147,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 539631,
+        "num": 539631,
+        "word": "河南文旅真的把王一博搞来了",
+        "onboard_time": 1705110509,
+        "rank": 6,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 487080,
+        "num": 487080,
+        "word": "实际面积少0.38平业主要求退差价",
+        "onboard_time": 1705109787,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464471,
+        "num": 464471,
+        "word": "原来真的有人原生家庭那么幸福",
+        "onboard_time": 1705113149,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454273,
+        "num": 454273,
+        "word": "王子文的马甲线隔着裙子都能看见",
+        "onboard_time": 1705113269,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 410247,
+        "num": 410247,
+        "word": "马伊琍拍繁花三年没见过游本昌",
+        "onboard_time": 1705102282,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406257,
+        "num": 406257,
+        "word": "1996年日历",
+        "onboard_time": 1705110268,
+        "rank": 11,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 398653,
+        "num": 398653,
+        "word": "赵丽颖马丽 丽丽在目",
+        "onboard_time": 1705112249,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381171,
+        "num": 381171,
+        "word": "主持人拒绝为芭比玩笑道歉",
+        "onboard_time": 1705104204,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329789,
+        "num": 329789,
+        "word": "樊振东退赛",
+        "onboard_time": 1705102581,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322930,
+        "num": 322930,
+        "word": "樱桃和车厘子到底有什么区别",
+        "onboard_time": 1705107806,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 311372,
+        "num": 311372,
+        "word": "iPhone16Pro或加入电容式操作按钮",
+        "onboard_time": 1705104264,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 302743,
+        "num": 302743,
+        "word": "警方通报大一女生校内坠楼身亡",
+        "onboard_time": 1705071755,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280712,
+        "num": 280712,
+        "word": "小时候吃的无花果是萝卜丝做的",
+        "onboard_time": 1705114411,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 267655,
+        "num": 267655,
+        "word": "吴谢宇称愿给母亲家人两套房",
+        "onboard_time": 1705107087,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610547,
+        "num": 264609,
+        "word": "女生未满19岁确诊卵巢早衰",
+        "onboard_time": 1705113149,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208125,
+        "num": 208125,
+        "word": "逃出大英博物馆获奖",
+        "onboard_time": 1705069293,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201362,
+        "num": 201362,
+        "word": "美国女子被海鸥解开泳衣带险走光",
+        "onboard_time": 1705105767,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199930,
+        "num": 199930,
+        "word": "刘宇宁微博之夜彩排",
+        "onboard_time": 1705115729,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184360,
+        "num": 184360,
+        "word": "美英对也门首都发动新一轮空袭",
+        "onboard_time": 1705110448,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 180566,
+        "num": 180566,
+        "word": "一年一度美甲高峰期要来了",
+        "onboard_time": 1705113810,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 175047,
+        "num": 175047,
+        "word": "张予曦发光神女妆造",
+        "onboard_time": 1705113029,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169657,
+        "num": 169657,
+        "word": "吉林文旅把张起灵搬出来了",
+        "onboard_time": 1705115310,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166839,
+        "num": 166839,
+        "word": "明星出发微博之夜",
+        "onboard_time": 1705062689,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164867,
+        "num": 164867,
+        "word": "肖战又被怼脸拍",
+        "onboard_time": 1705109906,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162114,
+        "num": 162114,
+        "word": "质疑纣王成为纣王",
+        "onboard_time": 1705110207,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 160576,
+        "num": 160576,
+        "word": "美方不得以任何形式介入台湾地区选举",
+        "onboard_time": 1705106787,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152720,
+        "num": 152720,
+        "word": "弟弟放学见异地姐姐扑进怀里秒落泪",
+        "onboard_time": 1705114349,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139186,
+        "num": 139186,
+        "word": "数学老师结婚给全班学生发喜糖红包",
+        "onboard_time": 1705108107,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138468,
+        "num": 138468,
+        "word": "专家回应多地探索教师退出机制",
+        "onboard_time": 1705114108,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132050,
+        "num": 132050,
+        "word": "吴谢宇弑母案",
+        "onboard_time": 1705115849,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124684,
+        "num": 124684,
+        "word": "睡觉中途醒了 不要看时间",
+        "onboard_time": 1705053449,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109148,
+        "num": 109148,
+        "word": "亚洲最帅王子迎娶平民女孩",
+        "onboard_time": 1705068212,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108789,
+        "num": 108789,
+        "word": "上班就像读高三",
+        "onboard_time": 1705113507,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101491,
+        "num": 101491,
+        "word": "俞灏明三个小时做了一只鸡",
+        "onboard_time": 1705072230,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100122,
+        "num": 100122,
+        "word": "繁花",
+        "onboard_time": 1705114470,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96932,
+        "num": 96932,
+        "word": "中医瘦身知识",
+        "onboard_time": 1705112489,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96297,
+        "num": 96297,
+        "word": "李晨说别小看周淑怡",
+        "onboard_time": 1705110027,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95442,
+        "num": 95442,
+        "word": "勇士vs公牛",
+        "onboard_time": 1705115190,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94568,
+        "num": 94568,
+        "word": "补气血首先要打开脾胃功能",
+        "onboard_time": 1705115128,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93201,
+        "num": 93201,
+        "word": "妈妈50岁生日女儿花束藏5000元送惊喜",
+        "onboard_time": 1705115670,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92389,
+        "num": 92389,
+        "word": "林园回应8000元炒股赚到数百亿",
+        "onboard_time": 1705104866,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86333,
+        "num": 86333,
+        "word": "辽宁省考公告",
+        "onboard_time": 1705115789,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 85751,
+        "num": 85751,
+        "word": "丫丫回国后模样爆改",
+        "onboard_time": 1705061790,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85491,
+        "num": 85491,
+        "word": "王心凌满40减20",
+        "onboard_time": 1705111768,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见比利时首相#"
+    }
+  }
+}
