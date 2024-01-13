@@ -1,6 +1,6 @@
 {
   "startTime": 1705076591437,
-  "endTime": 1705130137490,
+  "endTime": 1705131243999,
   "band_list": [
     {
       "raw_hot": 8484703,
@@ -11,8 +11,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2676115,
-      "num": 2676115,
+      "raw_hot": 3754280,
+      "num": 3754280,
       "word": "微博之夜好多人啊",
       "onboard_time": 1705128333,
       "rank": 1,
@@ -33,6 +33,14 @@
       "onboard_time": 1705103002,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1714755,
+      "num": 1714755,
+      "word": "赵露思斑点小狗",
+      "onboard_time": 1705129055,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1623600,
@@ -67,11 +75,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1461115,
-      "num": 1461115,
-      "word": "赵露思斑点小狗",
-      "onboard_time": 1705129055,
-      "rank": 3,
+      "raw_hot": 1415027,
+      "num": 1415027,
+      "word": "杨紫几点出图",
+      "onboard_time": 1705129294,
+      "rank": 5,
       "category": "作品衍生"
     },
     {
@@ -97,14 +105,6 @@
       "onboard_time": 1705113211,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1223489,
-      "num": 1223489,
-      "word": "杨紫几点出图",
-      "onboard_time": 1705129294,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1169222,
@@ -137,6 +137,30 @@
       "onboard_time": 1705111167,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 919344,
+      "num": 338134,
+      "word": "存子妆造全靠脸了",
+      "onboard_time": 1705129896,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 899924,
+      "num": 337579,
+      "word": "白鹿 公主白梦妍",
+      "onboard_time": 1705130853,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 898766,
+      "num": 387591,
+      "word": "十个勤天穿工服走红毯",
+      "onboard_time": 1705129832,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 886776,
@@ -259,6 +283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 602440,
+      "num": 253925,
+      "word": "田曦薇公主切",
+      "onboard_time": 1705131096,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 592643,
       "num": 592643,
       "word": "马丽 不说话还蛮公主的呢",
@@ -363,14 +395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 526272,
-      "num": 387591,
-      "word": "十个勤天穿工服走红毯",
-      "onboard_time": 1705129832,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 501894,
       "num": 501894,
       "word": "睡觉中途醒了 不要看时间",
@@ -467,8 +491,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 434771,
+      "num": 163595,
+      "word": "李兰迪荆棘裙",
+      "onboard_time": 1705130676,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 413950,
-      "num": 337529,
+      "num": 406154,
       "word": "外卖小哥为还债送外卖3年挣了102万",
       "onboard_time": 1705127374,
       "rank": 45,
@@ -489,6 +521,14 @@
       "onboard_time": 1705070195,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 406182,
+      "num": 161566,
+      "word": "张婧仪周翊然 焕羽剧组上分",
+      "onboard_time": 1705130496,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 385747,
@@ -571,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 333633,
+      "num": 159651,
+      "word": "奚梦瑶 拜托老娘可是超模",
+      "onboard_time": 1705130915,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 322847,
       "num": 322847,
       "word": "刘敏涛工作室 超前的精神状态",
@@ -617,14 +665,6 @@
       "onboard_time": 1705120650,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 283912,
-      "num": 283912,
-      "word": "存子妆造全靠脸了",
-      "onboard_time": 1705129896,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 274966,
@@ -681,6 +721,14 @@
       "onboard_time": 1705104866,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 254073,
+      "num": 254073,
+      "word": "平顶山煤矿事故致10人遇难6人失联",
+      "onboard_time": 1705130796,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251384,
@@ -779,6 +827,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 222740,
+      "num": 142353,
+      "word": "百花迎春晚会录制路透",
+      "onboard_time": 1705129955,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214089,
       "num": 137181,
       "word": "俞灏明演技爆发 王栎鑫慌了",
@@ -819,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202013,
+      "num": 391975,
+      "word": "微博之夜红毯造型",
+      "onboard_time": 1705129233,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199930,
       "num": 199930,
       "word": "刘宇宁微博之夜彩排",
@@ -833,14 +897,6 @@
       "onboard_time": 1705128572,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 196815,
-      "num": 103342,
-      "word": "百花迎春晚会录制路透",
-      "onboard_time": 1705129955,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 196496,
@@ -923,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182947,
+      "num": 158977,
+      "word": "两名美海军士兵在索马里失踪",
+      "onboard_time": 1705130736,
+      "rank": 32,
+      "category": "军事"
+    },
+    {
       "raw_hot": 180566,
       "num": 204379,
       "word": "一年一度美甲高峰期要来了",
@@ -995,6 +1059,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 164449,
+      "num": 164449,
+      "word": "流感爆发并非因新冠降低了人免疫力",
+      "onboard_time": 1705130616,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163636,
       "num": 163636,
       "word": "俄罗斯小套娃在尔滨跳科目三",
@@ -1032,6 +1104,14 @@
       "word": "它不是流浪猫了它知道家在哪",
       "onboard_time": 1705112370,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 158074,
+      "num": 158074,
+      "word": "男友用猫咪模仿贝爷荒野求生",
+      "onboard_time": 1705130256,
+      "rank": 33,
       "category": "幽默"
     },
     {
@@ -1435,6 +1515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 100964,
+      "num": 139946,
+      "word": "南北互跨式旅游地图",
+      "onboard_time": 1705130496,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 100513,
       "num": 100513,
       "word": "繁花官微发严正声明维权",
@@ -1507,14 +1595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 96794,
-      "num": 391975,
-      "word": "微博之夜红毯造型",
-      "onboard_time": 1705129233,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 96627,
       "num": 96627,
       "word": "主人要加班监控指挥狗狗",
@@ -1569,6 +1649,14 @@
       "onboard_time": 1705082658,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88601,
+      "num": 138082,
+      "word": "害怕失去不如提升自己",
+      "onboard_time": 1705130375,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 88396,
@@ -1660,7 +1748,7 @@
     },
     {
       "raw_hot": 69085,
-      "num": 1761516,
+      "num": 2353210,
       "word": "太空快递小哥业务能力更强了",
       "onboard_time": 1705114650,
       "rank": 2,
