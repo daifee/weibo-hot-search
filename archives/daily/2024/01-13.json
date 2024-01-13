@@ -1,6 +1,6 @@
 {
   "startTime": 1705076591437,
-  "endTime": 1705120533608,
+  "endTime": 1705123030726,
   "band_list": [
     {
       "raw_hot": 1859322,
@@ -43,12 +43,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1230202,
+      "num": 791381,
+      "word": "女生未满19岁确诊卵巢早衰",
+      "onboard_time": 1705113149,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1228946,
       "num": 1228946,
       "word": "关晓彤 他疯了他是个颠公",
       "onboard_time": 1705113211,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1108888,
+      "num": 1108888,
+      "word": "微博之夜第一波出图",
+      "onboard_time": 1705117228,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1103928,
@@ -67,20 +83,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 904310,
-      "num": 765455,
-      "word": "女生未满19岁确诊卵巢早衰",
-      "onboard_time": 1705113149,
-      "rank": 27,
+      "raw_hot": 958164,
+      "num": 958164,
+      "word": "央视曝光一医院全链条式腐败细节",
+      "onboard_time": 1705120769,
+      "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 888184,
-      "num": 888184,
-      "word": "微博之夜第一波出图",
-      "onboard_time": 1705117228,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 886776,
@@ -163,6 +171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 586974,
+      "num": 586974,
+      "word": "马丽 不说话还蛮公主的呢",
+      "onboard_time": 1705120170,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 579995,
       "num": 579995,
       "word": "俞灏明三个小时做了一只鸡",
@@ -235,6 +251,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 534396,
+      "num": 534396,
+      "word": "白敬亭微博之夜出发图",
+      "onboard_time": 1705121190,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 533144,
+      "num": 533144,
+      "word": "景甜短发",
+      "onboard_time": 1705121791,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 501894,
       "num": 501894,
       "word": "睡觉中途醒了 不要看时间",
@@ -249,6 +281,14 @@
       "onboard_time": 1705065090,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 491155,
+      "num": 491155,
+      "word": "宋轶金色精灵",
+      "onboard_time": 1705118970,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 473506,
@@ -283,14 +323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 448388,
-      "num": 448388,
-      "word": "宋轶金色精灵",
-      "onboard_time": 1705118970,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 443886,
       "num": 443886,
       "word": "逃出大英博物馆获奖",
@@ -305,6 +337,14 @@
       "onboard_time": 1705060650,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432126,
+      "num": 432126,
+      "word": "娜扎出图",
+      "onboard_time": 1705122450,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 411031,
@@ -371,12 +411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309798,
+      "num": 309798,
+      "word": "张大仙王者开播官宣",
+      "onboard_time": 1705121730,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297472,
       "num": 297472,
       "word": "数学老师结婚给全班学生发喜糖红包",
       "onboard_time": 1705108107,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289568,
+      "num": 289568,
+      "word": "光与夜之恋",
+      "onboard_time": 1705120650,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 274966,
@@ -441,6 +497,22 @@
       "onboard_time": 1705113029,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229129,
+      "num": 229129,
+      "word": "声生不息",
+      "onboard_time": 1705120891,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225724,
+      "num": 225724,
+      "word": "警方接6字报警挨户敲门救回人命",
+      "onboard_time": 1705119569,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224572,
@@ -515,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189192,
+      "num": 189192,
+      "word": "外卖小哥是懂怎样灭火的",
+      "onboard_time": 1705122572,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188492,
       "num": 177888,
       "word": "微博之夜嘉宾全阵容集结",
@@ -561,22 +641,6 @@
       "onboard_time": 1705118907,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182192,
-      "num": 182192,
-      "word": "马丽 不说话还蛮公主的呢",
-      "onboard_time": 1705120170,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 181112,
-      "num": 189675,
-      "word": "警方接6字报警挨户敲门救回人命",
-      "onboard_time": 1705119569,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180566,
@@ -715,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146791,
+      "num": 146791,
+      "word": "官方回应河南煤矿事故涉嫌迟报",
+      "onboard_time": 1705121069,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145323,
       "num": 145323,
       "word": "神都洛阳恭迎公主殿下回城",
@@ -755,11 +827,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 138464,
+      "num": 138464,
+      "word": "刘涛红丝绒泪痣妆",
+      "onboard_time": 1705122512,
+      "rank": 41,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 133737,
       "num": 133737,
       "word": "山东轮船海上救人一上船就送上面条",
       "onboard_time": 1705107446,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130287,
+      "num": 130287,
+      "word": "萌兰又在琢磨越狱",
+      "onboard_time": 1705120109,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -827,14 +915,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 122675,
-      "num": 122675,
-      "word": "萌兰又在琢磨越狱",
-      "onboard_time": 1705120109,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122450,
       "num": 122450,
       "word": "李晨说别小看周淑怡",
@@ -889,6 +969,14 @@
       "onboard_time": 1705111768,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115575,
+      "num": 115575,
+      "word": "李一桐纯白花嫁妆",
+      "onboard_time": 1705122993,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 115278,
@@ -1329,6 +1417,14 @@
       "onboard_time": 1705116328,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 35825,
+      "num": 825935,
+      "word": "太空快递小哥业务能力更强了",
+      "onboard_time": 1705114650,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35287,
