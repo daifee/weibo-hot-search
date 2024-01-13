@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/13 00:23:11 ~ 2024/01/13 23:16:57
+本榜单时间：2024/01/13 00:23:11 ~ 2024/01/13 23:34:07
 </p>
 </blockquote>
 <p>
@@ -105,6 +105,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%8F%91%E8%A8%80%E4%BA%BA%E8%AF%84%E8%AE%BA%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%23" target="weibo">
+国台办发言人评论台湾地区选举结果（热度：4020228）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%23" target="weibo">
 微博之夜（热度：3884126）
 </a>
@@ -119,12 +125,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%8B%BF%E5%88%B0%E5%94%90%E5%AB%A3%E7%9A%84%E7%A4%BC%E7%89%A9%E4%BA%86%E5%90%97%23" target="weibo">
 杨幂拿到唐嫣的礼物了吗（热度：3534733）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%8F%91%E8%A8%80%E4%BA%BA%E8%AF%84%E8%AE%BA%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%23" target="weibo">
-国台办发言人评论台湾地区选举结果（热度：3379298）
 </a>
 </li>
 
@@ -185,6 +185,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%B2%A1%E7%A9%BF%E7%A4%BC%E6%9C%8D%23" target="weibo">
 金晨没穿礼服（热度：1912631）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%23" target="weibo">
+国足vs塔吉克斯坦（热度：1861863）
 </a>
 </li>
 
@@ -459,12 +465,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%23" target="weibo">
-国足vs塔吉克斯坦（热度：830693）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A3%A3%E6%AC%A3%E5%BC%95%E5%8A%9B%20%E5%AF%B9%E8%A7%86%23" target="weibo">
 棣欣引力 对视（热度：823930）
 </a>
@@ -551,6 +551,12 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%8F%91%E5%B8%A6%23" target="weibo">
 朱一龙发带（热度：717733）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%B7%B4%E8%84%9A%E6%BB%91%E4%BA%86%23" target="weibo">
+热巴脚滑了（热度：707486）
 </a>
 </li>
 
@@ -1077,6 +1083,12 @@ iPhone16Pro或加入电容式操作按钮（热度：538940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E5%A5%B3%E7%94%9F%E4%BC%9A%E9%95%BF%E8%83%A1%E5%AD%90%23" target="weibo">
+为什么有些女生会长胡子（热度：339929）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E5%BC%91%E6%AF%8D%E6%A1%88%23" target="weibo">
 吴谢宇弑母案（热度：338347）
 </a>
@@ -1167,12 +1179,6 @@ KPL巅峰之夜红毯（热度：294802）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E5%A5%B3%E7%94%9F%E4%BC%9A%E9%95%BF%E8%83%A1%E5%AD%90%23" target="weibo">
-为什么有些女生会长胡子（热度：277331）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%A2%84%E5%91%8A%E7%85%A7%23" target="weibo">
 邓为微博之夜预告照（热度：274966）
 </a>
@@ -1193,6 +1199,12 @@ KPL巅峰之夜红毯（热度：294802）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E4%B8%8D%E5%BE%97%E4%BB%A5%E4%BB%BB%E4%BD%95%E5%BD%A2%E5%BC%8F%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E9%80%89%E4%B8%BE%23" target="weibo">
 美方不得以任何形式介入台湾地区选举（热度：267720）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%A3%8A%E5%B0%84%E9%97%A8%E8%B8%A2%E7%A9%BA%23" target="weibo">
+武磊射门踢空（热度：267638）
 </a>
 </li>
 
@@ -1341,6 +1353,12 @@ AG全员西装黑白配（热度：227734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E7%A9%BA%E5%86%9B%E7%A7%B0%E4%BF%84%E5%86%9B%E5%8F%91%E5%8A%A8%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%23" target="weibo">
+乌克兰空军称俄军发动导弹袭击（热度：227691）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E9%AD%8F%E5%A4%A7%E5%8B%8B%20K396%E6%AC%A1%E5%88%97%E8%BD%A6%23" target="weibo">
 高叶魏大勋 K396次列车（热度：226067）
 </a>
@@ -1481,6 +1499,12 @@ KPL表演赛（热度：201826）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E6%96%87%E6%97%85%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 浙江文旅终于出现了（热度：194782）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E4%B8%BA%E4%BD%95%E9%99%8D%E4%BB%B7%23" target="weibo">
+车厘子为何降价（热度：194430）
 </a>
 </li>
 
@@ -1859,12 +1883,6 @@ KPL年度最佳新锐选手钟意（热度：141167）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%8F%A3%E7%BA%A2%23" target="weibo">
 张婧仪口红（热度：128706）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E7%A9%BA%E5%86%9B%E7%A7%B0%E4%BF%84%E5%86%9B%E5%8F%91%E5%8A%A8%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%23" target="weibo">
-乌克兰空军称俄军发动导弹袭击（热度：128553）
 </a>
 </li>
 
