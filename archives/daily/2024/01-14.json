@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705173238481,
+  "endTime": 1705174437866,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -488,6 +488,14 @@
       "word": "王源绊王源",
       "onboard_time": 1705154686,
       "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 38046,
+      "num": 56357,
+      "word": "周深郎朗合作表演",
+      "onboard_time": 1705173916,
+      "rank": 46,
       "category": "作品衍生"
     },
     {
