@@ -1,6 +1,6 @@
 {
   "startTime": 1705076591437,
-  "endTime": 1705115917468,
+  "endTime": 1705116871765,
   "band_list": [
     {
       "raw_hot": 1859322,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1124337,
+      "num": 385053,
+      "word": "台湾选举",
+      "onboard_time": 1705116390,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1103928,
       "num": 1103928,
       "word": "主持人拒绝为芭比玩笑道歉",
@@ -35,20 +43,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1078891,
+      "num": 1078891,
+      "word": "关晓彤 他疯了他是个颠公",
+      "onboard_time": 1705113211,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1055132,
       "num": 1055132,
       "word": "董子健 居然真的是我",
       "onboard_time": 1705111167,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 963542,
-      "num": 963542,
-      "word": "关晓彤 他疯了他是个颠公",
-      "onboard_time": 1705113211,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 886776,
@@ -115,8 +123,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 610547,
-      "num": 264609,
+      "raw_hot": 614739,
+      "num": 301445,
       "word": "女生未满19岁确诊卵巢早衰",
       "onboard_time": 1705113149,
       "rank": 27,
@@ -137,6 +145,14 @@
       "onboard_time": 1705072230,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 577118,
+      "num": 464471,
+      "word": "原来真的有人原生家庭那么幸福",
+      "onboard_time": 1705113149,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 565968,
@@ -211,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 464471,
-      "num": 464471,
-      "word": "原来真的有人原生家庭那么幸福",
-      "onboard_time": 1705113149,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 464170,
       "num": 464170,
       "word": "1996年日历",
@@ -227,8 +235,8 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 454273,
-      "num": 454273,
+      "raw_hot": 457137,
+      "num": 457137,
       "word": "王子文的马甲线隔着裙子都能看见",
       "onboard_time": 1705113269,
       "rank": 28,
@@ -249,6 +257,14 @@
       "onboard_time": 1705060650,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435947,
+      "num": 435947,
+      "word": "全球新冠病例加速蔓延",
+      "onboard_time": 1705115910,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 408028,
@@ -272,6 +288,22 @@
       "word": "丫丫回国后模样爆改",
       "onboard_time": 1705061790,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369932,
+      "num": 369932,
+      "word": "小时候吃的无花果是萝卜丝做的",
+      "onboard_time": 1705114411,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 364587,
+      "num": 364587,
+      "word": "吉林文旅把张起灵搬出来了",
+      "onboard_time": 1705115310,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -299,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280712,
-      "num": 280712,
-      "word": "小时候吃的无花果是萝卜丝做的",
-      "onboard_time": 1705114411,
-      "rank": 18,
-      "category": "美食"
+      "raw_hot": 282203,
+      "num": 282203,
+      "word": "吴谢宇弑母案",
+      "onboard_time": 1705115849,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267720,
@@ -353,6 +385,14 @@
       "onboard_time": 1705113029,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 212677,
+      "num": 212677,
+      "word": "专家称有可能出现新一波新冠感染高峰",
+      "onboard_time": 1705116088,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209475,
@@ -436,7 +476,7 @@
     },
     {
       "raw_hot": 180566,
-      "num": 180566,
+      "num": 184086,
       "word": "一年一度美甲高峰期要来了",
       "onboard_time": 1705113810,
       "rank": 25,
@@ -489,14 +529,6 @@
       "onboard_time": 1705071814,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 169657,
-      "num": 169657,
-      "word": "吉林文旅把张起灵搬出来了",
-      "onboard_time": 1705115310,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167019,
@@ -619,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132050,
-      "num": 132050,
-      "word": "吴谢宇弑母案",
-      "onboard_time": 1705115849,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128841,
       "num": 128841,
       "word": "平顶山事故煤矿负责人已被控制",
@@ -673,6 +697,14 @@
       "onboard_time": 1705107685,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 122824,
+      "num": 122824,
+      "word": "辽宁省考公告",
+      "onboard_time": 1705115789,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 122450,
@@ -736,6 +768,14 @@
       "word": "哈尔滨小东北虎来成都了",
       "onboard_time": 1705106907,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114083,
+      "num": 114083,
+      "word": "妈妈50岁生日女儿花束藏5000元送惊喜",
+      "onboard_time": 1705115670,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -803,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103500,
+      "num": 103500,
+      "word": "繁花",
+      "onboard_time": 1705114470,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102474,
       "num": 102474,
       "word": "冬天统一穿搭",
@@ -835,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100122,
-      "num": 100122,
-      "word": "繁花",
-      "onboard_time": 1705114470,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99680,
       "num": 99680,
       "word": "婆家齐上阵帮单亲准儿媳筹备出阁宴",
@@ -857,6 +897,14 @@
       "onboard_time": 1705113570,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98926,
+      "num": 98926,
+      "word": "王者李白3D动画荣耀之章",
+      "onboard_time": 1705116630,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 97731,
@@ -931,14 +979,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 93201,
-      "num": 93201,
-      "word": "妈妈50岁生日女儿花束藏5000元送惊喜",
-      "onboard_time": 1705115670,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92219,
       "num": 92219,
       "word": "尤长靖 内娱轮回",
@@ -969,14 +1009,6 @@
       "onboard_time": 1705100598,
       "rank": 27,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 86333,
-      "num": 86333,
-      "word": "辽宁省考公告",
-      "onboard_time": 1705115789,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 82623,
@@ -1025,6 +1057,14 @@
       "onboard_time": 1705071935,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74655,
+      "num": 1116638,
+      "word": "我们一起种下种花家的繁花",
+      "onboard_time": 1705115128,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72159,
@@ -1099,14 +1139,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 46091,
-      "num": 1116638,
-      "word": "我们一起种下种花家的繁花",
-      "onboard_time": 1705115128,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41694,
       "num": 40947,
       "word": "公司为了惩罚我们取消了年会",
@@ -1129,6 +1161,14 @@
       "onboard_time": 1705047929,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37317,
+      "num": 142846,
+      "word": "宋轶微博之夜i了",
+      "onboard_time": 1705116328,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 35287,
@@ -1179,7 +1219,7 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 25040,
+      "raw_hot": 25129,
       "num": 1146239,
       "word": "让我们跟着微短剧去旅行",
       "onboard_time": 1705112968,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705115917468,
+  "endTime": 1705116871765,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2163,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1124337,
+      "num": 385053,
+      "word": "台湾选举",
+      "onboard_time": 1705116390,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1123550,
       "num": 285448,
       "word": "母亲以死逼婚儿子结婚半年闪离",
@@ -2331,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1078891,
+      "num": 1078891,
+      "word": "关晓彤 他疯了他是个颠公",
+      "onboard_time": 1705113211,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1078071,
       "num": 1078071,
       "word": "6名干部违规聚餐狂饮7瓶白酒致1死",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704845489,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1056009,
-      "num": 1056009,
-      "word": "我国中等收入人群已达4亿",
-      "onboard_time": 1704332249,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1055554,
-      "num": 1055554,
-      "word": "虞书欣戏份 删减",
-      "onboard_time": 1704175531,
-      "rank": 7,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
