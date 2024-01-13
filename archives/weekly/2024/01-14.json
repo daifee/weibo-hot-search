@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705177088000,
+  "endTime": 1705178055700,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -467,8 +467,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 76252,
-      "num": 76252,
+      "raw_hot": 88440,
+      "num": 85241,
       "word": "央视转播车已抵达西安",
       "onboard_time": 1705175536,
       "rank": 13,
@@ -507,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 34643,
+      "num": 27852,
+      "word": "王一博黄轩热聊",
+      "onboard_time": 1705176854,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 29344,
       "num": 118046,
       "word": "清清 我真的想笑",
@@ -515,15 +523,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 25350,
-      "num": 25350,
-      "word": "王一博黄轩热聊",
-      "onboard_time": 1705176854,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 20831,
+      "raw_hot": 21418,
       "num": 31090,
       "word": "一心只想吃席的弟弟",
       "onboard_time": 1705173138,
