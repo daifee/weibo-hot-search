@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/13 22:33:47
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/13 23:16:57
 </p>
 </blockquote>
 <p>
@@ -39,6 +39,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%BE%AE%E5%8D%9AKing%23" target="weibo">
+朱一龙微博King（热度：9503641）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%23" target="weibo">
 李在明遇袭（热度：9066763）
 </a>
@@ -69,6 +75,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%89%E8%8E%B7%E5%BE%AE%E5%8D%9AQueen%23" target="weibo">
+杨紫三获微博Queen（热度：7952941）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9D%A5%E4%BA%86%23" target="weibo">
 迪丽热巴来了（热度：7932627）
 </a>
@@ -83,6 +95,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BD%A0%E5%A5%BD%E9%97%AA%23" target="weibo">
 肖战你好闪（热度：7773194）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%82%96%E6%88%98%20%E8%BA%B2C%E4%BD%8D%23" target="weibo">
+马丽雷佳音肖战 躲C位（热度：7712771）
 </a>
 </li>
 
@@ -189,6 +207,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%8B%BF%E5%88%B0%E5%94%90%E5%AB%A3%E7%9A%84%E7%A4%BC%E7%89%A9%E4%BA%86%E5%90%97%23" target="weibo">
+杨幂拿到唐嫣的礼物了吗（热度：3534733）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%8F%AB%E6%88%91%20%E6%BB%A8%23" target="weibo">
 你可以叫我 滨（热度：3504765）
 </a>
@@ -197,6 +221,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E5%90%91%E9%9F%A9%E5%9B%BD%E8%A5%BF%E9%83%A8%E6%B5%B7%E5%9F%9F%E5%8F%91%E5%B0%84200%E5%A4%9A%E5%8F%91%E6%B5%B7%E5%B2%B8%E7%82%AE%23" target="weibo">
 朝鲜向韩国西部海域发射200多发海岸炮（热度：3426448）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%8F%91%E8%A8%80%E4%BA%BA%E8%AF%84%E8%AE%BA%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%23" target="weibo">
+国台办发言人评论台湾地区选举结果（热度：3379298）
 </a>
 </li>
 
@@ -1599,6 +1629,12 @@ A先生 胡歌的脸（热度：1234335）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E4%B8%80%E6%89%8B%E7%89%B5%E5%94%90%E5%AB%A3%E4%B8%80%E6%89%8B%E7%89%B5%E8%BE%9B%E8%8A%B7%E8%95%BE%23" target="weibo">
+胡歌一手牵唐嫣一手牵辛芷蕾（热度：1226831）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 孟宴臣杀回来了（热度：1226715）
 </a>
@@ -1833,6 +1869,12 @@ A先生说辛芷蕾本人很漂亮（热度：1194844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E8%B4%BE%E7%8E%B2%E7%BB%83%E5%87%BA%E4%B8%80%E8%BA%AB%E8%85%B1%E5%AD%90%E8%82%89%23" target="weibo">
+张小斐 贾玲练出一身腱子肉（热度：1142330）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%23" target="weibo">
 厄瓜多尔（热度：1140854）
 </a>
@@ -1977,12 +2019,6 @@ A先生李李恋情（热度：1095743）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E4%B8%80%E6%89%8B%E7%89%B5%E5%94%90%E5%AB%A3%E4%B8%80%E6%89%8B%E7%89%B5%E8%BE%9B%E8%8A%B7%E8%95%BE%23" target="weibo">
-胡歌一手牵唐嫣一手牵辛芷蕾（热度：1094400）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E8%88%AA%E5%B1%80%E5%B1%80%E9%95%BF%E5%8F%91%E5%B8%83%E4%BC%9A%E5%A4%9A%E6%AC%A1%E5%8F%91%E7%AC%91%23" target="weibo">
 日本民航局局长发布会多次发笑（热度：1093079）
 </a>
@@ -2045,6 +2081,12 @@ A先生李李恋情（热度：1095743）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E7%A6%8F%E5%BD%A9%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%8F%90%E5%89%8D%E6%92%AD%E6%8A%A5%E4%B8%AD%E5%A5%96%E7%90%83%E5%8F%B7%23" target="weibo">
 网曝福彩主持人提前播报中奖球号（热度：1075499）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%82%96%E6%88%98%20%E8%83%BD%E4%B8%8D%E8%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E5%90%8C%E6%A1%86%23" target="weibo">
+迪丽热巴肖战 能不能有一个同框（热度：1073827）
 </a>
 </li>
 
@@ -3125,6 +3167,12 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%A4%E5%B0%8F%E6%97%B6%E5%86%85%E5%8F%91%E7%94%9F%E4%BA%8640%E5%A4%9A%E6%AC%A1%E5%9C%B0%E9%9C%87%23" target="weibo">
 日本两小时内发生了40多次地震（热度：830891）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%23" target="weibo">
+国足vs塔吉克斯坦（热度：830693）
 </a>
 </li>
 
@@ -4635,6 +4683,12 @@ iPhone电池门赔款到账（热度：737858）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%8E%8B%E5%98%89%E5%B0%94%E5%90%8C%E6%AD%A5%E5%90%90%E8%88%8C%E5%A4%B4%23" target="weibo">
+王一博王嘉尔同步吐舌头（热度：658151）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5cos%E5%A4%A9%E5%A4%A9%23" target="weibo">
 马立奥cos天天（热度：657875）
 </a>
@@ -5853,6 +5907,12 @@ F1 让不让人抢票了（热度：557978）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E6%BC%94%E5%94%B1%E4%BC%9A%E5%80%92%E5%90%8A%E5%87%BA%E5%9C%BA%23" target="weibo">
+周震南演唱会倒吊出场（热度：550251）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%20%E6%9B%BE%E6%AF%85%E5%9C%A8%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E7%9A%84%E4%BD%9C%E7%94%A8%23" target="weibo">
 周深 曾毅在凤凰传奇的作用（热度：550217）
 </a>
@@ -5951,66 +6011,6 @@ F1 让不让人抢票了（热度：557978）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E7%A7%9F%E6%88%BF%E8%A2%AB%E6%88%BF%E4%B8%9C%E5%A5%B6%E5%A5%B6%E5%BD%93%E4%BA%B2%E5%AD%99%E7%85%A7%E9%A1%BE%23" target="weibo">
 大四男生租房被房东奶奶当亲孙照顾（热度：546639）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E8%BF%99%E5%B0%8F%E5%98%B4%E5%8F%AD%E5%8F%AD%E5%8F%AD%E7%9A%84%E5%B0%B1%E6%B2%A1%E5%81%9C%E8%BF%87%23" target="weibo">
-周也这小嘴叭叭叭的就没停过（热度：546534）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AF%E4%BB%A5%E8%84%B1%E5%8F%A3%E8%80%8C%E5%87%BA110%23" target="weibo">
-我们为什么可以脱口而出110（热度：546487）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%AF%94%E8%B5%9B%23" target="weibo">
-王楚钦比赛（热度：546460）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A5%E4%B8%80%E5%91%A8%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E8%BF%98%E6%9C%89%E5%BC%BA%E9%9C%87%23" target="weibo">
-未来一周日本可能还有强震（热度：546390）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E7%81%AB%E4%BA%86%E6%B2%88%E9%98%B3%E5%9D%90%E4%B8%8D%E4%BD%8F%E4%BA%86%23" target="weibo">
-尔滨火了沈阳坐不住了（热度：546200）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%B0%8F%E5%BD%93%E5%BD%92%E8%A6%81%E5%8E%BB%E5%B0%94%E6%BB%A8%E5%9B%9E%E7%A4%BC%E9%80%81%E7%B3%96%23" target="weibo">
-台湾小当归要去尔滨回礼送糖（热度：546122）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E7%94%9F%E4%BA%8C%E8%83%8E%E8%B5%B7%E8%AF%89%E7%99%BD%E8%A1%80%E7%97%85%E5%A6%BB%E5%AD%90%E5%AF%BB%E6%B1%82%E7%A6%BB%E5%A9%9A%23" target="weibo">
-男子为生二胎起诉白血病妻子寻求离婚（热度：545672）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%9B%BE%E8%A2%AB%E5%BC%A0%E8%89%BA%E8%B0%8B%E9%80%89%E4%B8%AD%E4%B8%BA%E5%A5%A5%E8%BF%90%E5%AE%9D%E8%B4%9D%23" target="weibo">
-唐嫣曾被张艺谋选中为奥运宝贝（热度：545559）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E7%BF%BB%E8%AF%91%E5%AE%98%E5%AE%9A%E6%A1%A3%23" target="weibo">
-我们的翻译官定档（热度：545384）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B4%A7%E6%80%A5%E9%81%BF%E5%AD%95%E8%8D%AF%E7%9A%84%E4%BC%A4%E5%AE%B3%23" target="weibo">
-紧急避孕药的伤害（热度：544137）
 </a>
 </li>
 
