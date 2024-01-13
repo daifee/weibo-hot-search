@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705142093668,
+  "endTime": 1705144457320,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -193,6 +193,14 @@
       "onboard_time": 1704519152,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3633740,
+      "num": 3633740,
+      "word": "微博之夜内场",
+      "onboard_time": 1705140824,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 3633631,
@@ -1449,14 +1457,6 @@
       "onboard_time": 1704094296,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1419419,
-      "num": 485241,
-      "word": "微博之夜内场",
-      "onboard_time": 1705140824,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1417384,
