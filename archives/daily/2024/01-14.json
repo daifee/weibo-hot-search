@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705236390255,
+  "endTime": 1705238372579,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -91,12 +91,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1517520,
+      "num": 542418,
+      "word": "壶鱼辣椒 抄袭",
+      "onboard_time": 1705235670,
+      "rank": 13,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 1390672,
       "num": 1390672,
       "word": "朱一龙微博King",
       "onboard_time": 1705157865,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1341296,
+      "num": 1341296,
+      "word": "18岁坠河身亡男孩家属不同意尸检",
+      "onboard_time": 1705235371,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1341149,
@@ -387,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 755869,
+      "num": 755869,
+      "word": "高海宁获TVB最佳女配角",
+      "onboard_time": 1705236631,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 732185,
       "num": 732185,
       "word": "国考18个岗位进面分超141分",
@@ -449,14 +473,6 @@
       "onboard_time": 1705162299,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 696035,
-      "num": 465086,
-      "word": "18岁坠河身亡男孩家属不同意尸检",
-      "onboard_time": 1705235371,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 695339,
@@ -555,6 +571,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 628842,
+      "num": 628842,
+      "word": "各地文旅局都疯了",
+      "onboard_time": 1705233691,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 610431,
       "num": 610431,
       "word": "吴露可逃坐一起了",
@@ -635,12 +659,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 543269,
+      "num": 543269,
+      "word": "GAI求助怎么给王鹤棣充会员",
+      "onboard_time": 1705236510,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 537524,
       "num": 537524,
       "word": "3人操纵股价被罚没6.6亿",
       "onboard_time": 1705212691,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 536618,
+      "num": 536618,
+      "word": "2023TVB颁奖礼",
+      "onboard_time": 1705236451,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 524333,
@@ -691,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 496919,
-      "num": 496919,
-      "word": "各地文旅局都疯了",
-      "onboard_time": 1705233691,
-      "rank": 11,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 484261,
       "num": 484261,
       "word": "王一博 小滑一步",
@@ -745,6 +777,14 @@
       "onboard_time": 1705164452,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 465720,
+      "num": 465720,
+      "word": "经常睡不好可能是缺乏维生素D",
+      "onboard_time": 1705218931,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 464388,
@@ -811,14 +851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 424780,
-      "num": 424780,
-      "word": "经常睡不好可能是缺乏维生素D",
-      "onboard_time": 1705218931,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 422752,
       "num": 422752,
       "word": "王楚钦说和莎莎学会了坚持",
@@ -849,14 +881,6 @@
       "onboard_time": 1705198772,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 398063,
-      "num": 398063,
-      "word": "壶鱼辣椒 抄袭",
-      "onboard_time": 1705235670,
-      "rank": 13,
-      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 386427,
@@ -1011,6 +1035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 313345,
+      "num": 313345,
+      "word": "白冰首播",
+      "onboard_time": 1705237532,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 307091,
       "num": 307091,
       "word": "2023TVB颁奖礼红毯",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1705199730,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281427,
+      "num": 281427,
+      "word": "汤泡饭为什么不能经常吃",
+      "onboard_time": 1705236331,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 280701,
@@ -1211,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258550,
+      "num": 258550,
+      "word": "张大仙直播王者",
+      "onboard_time": 1705235490,
+      "rank": 23,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 258416,
       "num": 258416,
       "word": "文旅局局长大比拼",
@@ -1257,14 +1305,6 @@
       "onboard_time": 1705219411,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 248479,
-      "num": 248479,
-      "word": "张大仙直播王者",
-      "onboard_time": 1705235490,
-      "rank": 23,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 248274,
@@ -1459,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206021,
+      "num": 206021,
+      "word": "章若楠黑色抹胸小礼裙",
+      "onboard_time": 1705237050,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204827,
       "num": 204827,
       "word": "河南煤矿事故已致13人遇难3人失联",
@@ -1635,14 +1683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178895,
-      "num": 178895,
-      "word": "汤泡饭为什么不能经常吃",
-      "onboard_time": 1705236331,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 178357,
       "num": 178357,
       "word": "重庆白衣小姐姐你被民警点赞了",
@@ -1787,6 +1827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163083,
+      "num": 147051,
+      "word": "最高法要求加大裁判文书上网力度",
+      "onboard_time": 1705237652,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161930,
       "num": 161930,
       "word": "国考调剂",
@@ -1883,6 +1931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141356,
+      "num": 141356,
+      "word": "乡村老师拍10万张照片为学生收藏童年",
+      "onboard_time": 1705237712,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 140630,
       "num": 140630,
       "word": "雷佳音看热闹来了",
@@ -1963,6 +2019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136235,
+      "num": 136235,
+      "word": "狗狗在烧烤架下烫个了发型",
+      "onboard_time": 1705238072,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136182,
       "num": 136182,
       "word": "绝杀这种事 该轮到曼城了",
@@ -2019,6 +2083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132154,
+      "num": 132154,
+      "word": "曾舜晞的围脖掉色",
+      "onboard_time": 1705237953,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129821,
       "num": 129821,
       "word": "Maeng给虞书欣化的妆",
@@ -2059,6 +2131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126198,
+      "num": 126198,
+      "word": "让我养成又多又顺的头发好物",
+      "onboard_time": 1705238014,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 125028,
       "num": 125028,
       "word": "雪花标本",
@@ -2088,6 +2168,14 @@
       "word": "GALA选手LPL征战五周年",
       "onboard_time": 1705234411,
       "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 122983,
+      "num": 122983,
+      "word": "狼队DRG互相偷家",
+      "onboard_time": 1705237050,
+      "rank": 38,
       "category": "电竞"
     },
     {
@@ -2187,6 +2275,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105247,
+      "num": 105247,
+      "word": "咒术回战 最后的特级",
+      "onboard_time": 1705238192,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 104119,
+      "num": 104119,
+      "word": "WE RNGM EDGM 舞蹈串烧",
+      "onboard_time": 1705237292,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104002,
       "num": 104002,
       "word": "魏晨龙年春晚彩排路透",
@@ -2209,6 +2313,14 @@
       "onboard_time": 1705205128,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98735,
+      "num": 98735,
+      "word": "南野拓实梅开二度",
+      "onboard_time": 1705236631,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 96445,
@@ -2243,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77929,
+      "num": 902258,
+      "word": "卫健委发布冬季疾病防治和健康提示",
+      "onboard_time": 1705235071,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75930,
       "num": 226745,
       "word": "这是什么变美新招",
@@ -2257,14 +2377,6 @@
       "onboard_time": 1705181473,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 74263,
-      "num": 902258,
-      "word": "卫健委发布冬季疾病防治和健康提示",
-      "onboard_time": 1705235071,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68358,
