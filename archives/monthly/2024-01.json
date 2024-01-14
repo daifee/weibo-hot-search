@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705263499950,
+  "endTime": 1705264479686,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -38131,6 +38131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24520,
+      "num": 24520,
+      "word": "肖战感言好走心",
+      "onboard_time": 1705263973,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 24244,
       "num": 455360,
       "word": "蛋仔擂台赛",
@@ -38705,6 +38713,14 @@
       "onboard_time": 1704227653,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 10277,
+      "num": 10277,
+      "word": "一家4口寒夜里帮游客推车",
+      "onboard_time": 1705264453,
+      "rank": 49,
+      "category": "社会正能量,旅游"
     },
     {
       "raw_hot": 10262,
