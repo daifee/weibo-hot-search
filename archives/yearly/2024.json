@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705213346539,
+  "endTime": 1705214163448,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -281,6 +281,14 @@
       "onboard_time": 1704680789,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3572733,
+      "num": 3572733,
+      "word": "难怪玲子这次不来了",
+      "onboard_time": 1705212030,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 3534733,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704299007,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1178810,
-      "num": 1178810,
-      "word": "王菲 反王家卫打击第一人",
-      "onboard_time": 1704511110,
-      "rank": 12,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
