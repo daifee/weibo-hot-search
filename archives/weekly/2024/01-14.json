@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705224834596,
+  "endTime": 1705227484529,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -57,6 +57,14 @@
       "onboard_time": 1705160742,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1902679,
+      "num": 1902679,
+      "word": "于正说祝绪丹开拍前辞演",
+      "onboard_time": 1705224451,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 1840163,
@@ -121,6 +129,14 @@
       "onboard_time": 1705218569,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1248833,
+      "num": 1248833,
+      "word": "马伊琍 果然互联网是有记忆的",
+      "onboard_time": 1705223069,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1237181,
@@ -224,14 +240,6 @@
       "word": "田曦薇爱心痣",
       "onboard_time": 1705198053,
       "rank": 7,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1008136,
-      "num": 1008136,
-      "word": "马伊琍 果然互联网是有记忆的",
-      "onboard_time": 1705223069,
-      "rank": 13,
       "category": "作品衍生"
     },
     {
@@ -467,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 638794,
+      "num": 638794,
+      "word": "中美关系第一条不可逾越的红线",
+      "onboard_time": 1705223011,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 629878,
       "num": 629878,
       "word": "2024国考笔试放榜",
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 601425,
-      "num": 253497,
+      "num": 265791,
       "word": "广州全裸男子持剪刀刺伤女子",
       "onboard_time": 1705215450,
       "rank": 21,
@@ -675,6 +691,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 437862,
+      "num": 437862,
+      "word": "医院回应孕妇生产不收钱",
+      "onboard_time": 1705222591,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435117,
       "num": 342964,
       "word": "陈都灵张婧仪自拍",
@@ -721,6 +745,14 @@
       "onboard_time": 1705198772,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 399793,
+      "num": 399793,
+      "word": "新疆多处发生雪崩游客已滞留4天",
+      "onboard_time": 1705224691,
+      "rank": 42,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 385864,
@@ -780,7 +812,7 @@
     },
     {
       "raw_hot": 361239,
-      "num": 246141,
+      "num": 267037,
       "word": "猪牛羊肉为2A类致癌物",
       "onboard_time": 1705220792,
       "rank": 34,
@@ -793,14 +825,6 @@
       "onboard_time": 1705149829,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 351177,
-      "num": 351177,
-      "word": "医院回应孕妇生产不收钱",
-      "onboard_time": 1705222591,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 343175,
@@ -873,14 +897,6 @@
       "onboard_time": 1705205310,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 307397,
-      "num": 307397,
-      "word": "中美关系第一条不可逾越的红线",
-      "onboard_time": 1705223011,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 306070,
@@ -1019,12 +1035,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 260406,
-      "num": 223829,
-      "word": "于正说祝绪丹开拍前辞演",
-      "onboard_time": 1705224451,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 262789,
+      "num": 262789,
+      "word": "奇妙夜不直播",
+      "onboard_time": 1705224093,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 260346,
@@ -1115,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234810,
+      "num": 192373,
+      "word": "邱贻可 打好每一场",
+      "onboard_time": 1705227029,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234467,
       "num": 275890,
       "word": "导盲犬禁入是给谁看的",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1705146039,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 224047,
-      "num": 224047,
-      "word": "奇妙夜不直播",
-      "onboard_time": 1705224093,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 222699,
@@ -1211,12 +1227,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204827,
+      "num": 204827,
+      "word": "河南煤矿事故已致13人遇难3人失联",
+      "onboard_time": 1705225051,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202110,
       "num": 202110,
       "word": "孙颖莎女单进决赛",
       "onboard_time": 1705145503,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201583,
+      "num": 1346739,
+      "word": "私家车坠入水塘热心群众接力救援",
+      "onboard_time": 1705225829,
+      "rank": 1,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 200849,
+      "num": 200849,
+      "word": "DYG鲨鱼乐队奇妙登场",
+      "onboard_time": 1705226670,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 198383,
@@ -1251,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194192,
+      "num": 194192,
+      "word": "董思成五福临门妆造",
+      "onboard_time": 1705225408,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193879,
       "num": 193879,
       "word": "科目三的风吹到了曾黎",
@@ -1267,12 +1315,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189627,
+      "num": 189627,
+      "word": "王楚钦两项入选WTT年度时刻",
+      "onboard_time": 1705226430,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187806,
       "num": 161979,
       "word": "高端水果价格逐渐亲民",
       "onboard_time": 1705216172,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 187227,
+      "num": 187227,
+      "word": "孙阳抽中了王源的冻梨",
+      "onboard_time": 1705227151,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187070,
@@ -1315,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178199,
+      "num": 1078161,
+      "word": "小孩落水路过大爷跳湖10秒钟救起",
+      "onboard_time": 1705225829,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 173420,
       "num": 248044,
       "word": "国考申论 怎么学的",
@@ -1345,6 +1417,14 @@
       "onboard_time": 1705205669,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170912,
+      "num": 170912,
+      "word": "妹妹 俺老猪今天就听你的了",
+      "onboard_time": 1705226133,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 170314,
@@ -1467,6 +1547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156694,
+      "num": 156694,
+      "word": "冻梨也没想到可以被拔丝",
+      "onboard_time": 1705226731,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 156692,
       "num": 160216,
       "word": "论洛阳三位数的妆造多离谱",
@@ -1497,14 +1585,6 @@
       "onboard_time": 1705223250,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 140663,
-      "num": 140663,
-      "word": "新疆多处发生雪崩游客已滞留4天",
-      "onboard_time": 1705224691,
-      "rank": 42,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 140630,
@@ -1627,6 +1707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127350,
+      "num": 127350,
+      "word": "辛芷蕾现身央视春晚彩排",
+      "onboard_time": 1705224931,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126929,
       "num": 126929,
       "word": "胶囊不能用热水送服",
@@ -1691,12 +1779,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120327,
+      "num": 120327,
+      "word": "张小斐 给你们看我姐可爱吗",
+      "onboard_time": 1705227451,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118257,
       "num": 118257,
       "word": "勇士vs雄鹿",
       "onboard_time": 1705200392,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115561,
+      "num": 115561,
+      "word": "江苏文旅开始卷了",
+      "onboard_time": 1705227451,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 114333,
@@ -1740,7 +1844,7 @@
     },
     {
       "raw_hot": 98814,
-      "num": 1219804,
+      "num": 1266569,
       "word": "晒晒家乡隐藏款土特产",
       "onboard_time": 1705205128,
       "rank": 2,
@@ -1761,6 +1865,14 @@
       "onboard_time": 1705187960,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78582,
+      "num": 1028882,
+      "word": "消防员撤离前留下祝福黑板报",
+      "onboard_time": 1705226190,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78522,
