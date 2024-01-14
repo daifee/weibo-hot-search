@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705230884654,
+  "endTime": 1705232047901,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -339,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 782267,
+      "num": 782267,
+      "word": "哈尔滨通报打车2公里要收50元",
+      "onboard_time": 1705227809,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769188,
       "num": 769188,
       "word": "2024央视春晚彩排",
@@ -449,14 +457,6 @@
       "onboard_time": 1705215390,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 679697,
-      "num": 679697,
-      "word": "哈尔滨通报打车2公里要收50元",
-      "onboard_time": 1705227809,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 677224,
@@ -593,6 +593,14 @@
       "onboard_time": 1705212691,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 524333,
+      "num": 524333,
+      "word": "重庆文旅开始急了",
+      "onboard_time": 1705229251,
+      "rank": 16,
+      "category": "旅游"
     },
     {
       "raw_hot": 518694,
@@ -779,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 399836,
+      "num": 399836,
+      "word": "央视评许嵩新歌",
+      "onboard_time": 1705231409,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 385864,
       "num": 206520,
       "word": "同事买车让我出五千块",
@@ -897,14 +913,6 @@
       "onboard_time": 1705202613,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 318219,
-      "num": 318219,
-      "word": "重庆文旅开始急了",
-      "onboard_time": 1705229251,
-      "rank": 16,
-      "category": "旅游"
     },
     {
       "raw_hot": 318092,
@@ -1075,6 +1083,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 267464,
+      "num": 267464,
+      "word": "GALA原来是你小子和赵露思开黑",
+      "onboard_time": 1705227573,
+      "rank": 46,
+      "category": "电竞,作品衍生"
+    },
+    {
       "raw_hot": 265157,
       "num": 265157,
       "word": "阿富汗扎兰季市一大楼遭自杀式炸弹袭击",
@@ -1107,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258416,
+      "num": 258416,
+      "word": "文旅局局长大比拼",
+      "onboard_time": 1705230991,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 257331,
       "num": 203585,
       "word": "微博之夜 切镜头",
@@ -1129,14 +1153,6 @@
       "onboard_time": 1705194153,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 255744,
-      "num": 255744,
-      "word": "GALA原来是你小子和赵露思开黑",
-      "onboard_time": 1705227573,
-      "rank": 46,
-      "category": "电竞,作品衍生"
     },
     {
       "raw_hot": 253771,
@@ -1275,6 +1291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 219464,
+      "num": 219464,
+      "word": "TES给粉丝拍的微电影",
+      "onboard_time": 1705231049,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218154,
       "num": 267869,
       "word": "刘彬彬一过二",
@@ -1345,6 +1369,14 @@
       "onboard_time": 1705145503,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201915,
+      "num": 201915,
+      "word": "张杰工作室辟谣",
+      "onboard_time": 1705231827,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 200849,
@@ -1611,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166017,
+      "num": 166017,
+      "word": "假装导员给闺蜜的弟弟打电话",
+      "onboard_time": 1705230870,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165762,
       "num": 165762,
       "word": "杨紫用粉丝送的保温杯",
@@ -1811,20 +1851,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133732,
-      "num": 133732,
-      "word": "假装导员给闺蜜的弟弟打电话",
-      "onboard_time": 1705230870,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 133404,
       "num": 133404,
       "word": "疾病焦虑障碍或会减少5年寿命",
       "onboard_time": 1705217311,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133221,
+      "num": 133221,
+      "word": "标有这4个字的酱油最好别买",
+      "onboard_time": 1705231589,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 129821,
@@ -1947,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108542,
+      "num": 1028882,
+      "word": "消防员撤离前留下祝福黑板报",
+      "onboard_time": 1705226190,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107472,
       "num": 196353,
       "word": "乌克兰空军称俄军发动导弹袭击",
@@ -1961,14 +2009,6 @@
       "onboard_time": 1705207351,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104377,
-      "num": 1028882,
-      "word": "消防员撤离前留下祝福黑板报",
-      "onboard_time": 1705226190,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99911,
@@ -2035,7 +2075,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63834,
+      "raw_hot": 67441,
       "num": 905796,
       "word": "中国城市轨道交通运营里程突破1万公里",
       "onboard_time": 1705228649,
@@ -2131,6 +2171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23607,
+      "num": 309823,
+      "word": "刘畊宏2024第一支健身操",
+      "onboard_time": 1705229791,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22996,
       "num": 1179326,
       "word": "南北互跨式旅游地图",
@@ -2139,12 +2187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22302,
-      "num": 309823,
-      "word": "刘畊宏2024第一支健身操",
-      "onboard_time": 1705229791,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 20944,
+      "num": 163794,
+      "word": "杨紫提醒粉丝注意保暖",
+      "onboard_time": 1705231350,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 20554,
