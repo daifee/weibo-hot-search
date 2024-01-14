@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705232047901,
+  "endTime": 1705235467128,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 960547,
+      "num": 960547,
+      "word": "于正公开黄杨钿甜试戏片段",
+      "onboard_time": 1705233990,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 937674,
       "num": 937674,
       "word": "楼下起火爸爸抱女儿坠楼7岁女儿身亡",
@@ -297,6 +305,14 @@
       "onboard_time": 1705190669,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 863440,
+      "num": 863440,
+      "word": "日本vs越南",
+      "onboard_time": 1705234291,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 857645,
@@ -363,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 758652,
+      "num": 758652,
+      "word": "央视评许嵩新歌",
+      "onboard_time": 1705231409,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 732185,
       "num": 732185,
       "word": "国考18个岗位进面分超141分",
@@ -425,6 +449,14 @@
       "onboard_time": 1705162299,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 695339,
+      "num": 695339,
+      "word": "王鹤棣抽到GAI送的十年SVIP",
+      "onboard_time": 1705233507,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 690083,
@@ -787,12 +819,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 399836,
-      "num": 399836,
-      "word": "央视评许嵩新歌",
-      "onboard_time": 1705231409,
-      "rank": 12,
-      "category": "音乐"
+      "raw_hot": 386427,
+      "num": 386427,
+      "word": "钎城舞剑",
+      "onboard_time": 1705234711,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 385864,
@@ -809,6 +841,14 @@
       "onboard_time": 1705175536,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380930,
+      "num": 380930,
+      "word": "各地文旅局都疯了",
+      "onboard_time": 1705233691,
+      "rank": 11,
+      "category": "旅游"
     },
     {
       "raw_hot": 379109,
@@ -833,6 +873,14 @@
       "onboard_time": 1705219529,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 368229,
+      "num": 368229,
+      "word": "经常睡不好可能是缺乏维生素D",
+      "onboard_time": 1705218931,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 366928,
@@ -947,14 +995,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 306070,
-      "num": 247540,
-      "word": "经常睡不好可能是缺乏维生素D",
-      "onboard_time": 1705218931,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 304046,
       "num": 247048,
       "word": "迪丽热巴肖战 能不能有一个同框",
@@ -987,12 +1027,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291883,
+      "num": 228472,
+      "word": "张杰工作室辟谣",
+      "onboard_time": 1705231827,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290236,
       "num": 290236,
       "word": "一年级就这么难么",
       "onboard_time": 1705191571,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289958,
+      "num": 289958,
+      "word": "上市公司遭电诈9000万",
+      "onboard_time": 1705234530,
+      "rank": 15,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 287829,
@@ -1187,6 +1243,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 242848,
+      "num": 242848,
+      "word": "2023TVB颁奖礼红毯",
+      "onboard_time": 1705228710,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240294,
       "num": 240294,
       "word": "大马赛梁伟铿王昶男双夺冠",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1705200691,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 238814,
+      "num": 168289,
+      "word": "内地和香港的生活习惯差异",
+      "onboard_time": 1705233691,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 237851,
@@ -1371,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201915,
-      "num": 201915,
-      "word": "张杰工作室辟谣",
-      "onboard_time": 1705231827,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200849,
       "num": 200849,
       "word": "DYG鲨鱼乐队奇妙登场",
@@ -1443,6 +1507,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191425,
+      "num": 191425,
+      "word": "18岁坠河身亡男孩家属不同意尸检",
+      "onboard_time": 1705235371,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190858,
+      "num": 190858,
+      "word": "冻干水果是智商税吗",
+      "onboard_time": 1705233027,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 189627,
       "num": 189627,
       "word": "王楚钦两项入选WTT年度时刻",
@@ -1491,14 +1571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185335,
-      "num": 185335,
-      "word": "2023TVB颁奖礼红毯",
-      "onboard_time": 1705228710,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181828,
       "num": 181828,
       "word": "孙颖莎说混双夺冠是最好的肯定",
@@ -1529,6 +1601,14 @@
       "onboard_time": 1705188020,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178357,
+      "num": 178357,
+      "word": "重庆白衣小姐姐你被民警点赞了",
+      "onboard_time": 1705234652,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174390,
@@ -1707,6 +1787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157727,
+      "num": 157727,
+      "word": "越南攻破日本球门",
+      "onboard_time": 1705235371,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156692,
       "num": 160216,
       "word": "论洛阳三位数的妆造多离谱",
@@ -1737,6 +1825,14 @@
       "onboard_time": 1705223250,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 143083,
+      "num": 143083,
+      "word": "六公主镜头下的高清红毯群像",
+      "onboard_time": 1705232609,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140630,
@@ -1819,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135698,
+      "num": 135698,
+      "word": "标有这4个字的酱油最好别买",
+      "onboard_time": 1705231589,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135609,
       "num": 135609,
       "word": "蒋光太越位",
@@ -1857,14 +1961,6 @@
       "onboard_time": 1705217311,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 133221,
-      "num": 133221,
-      "word": "标有这4个字的酱油最好别买",
-      "onboard_time": 1705231589,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 129821,
@@ -1931,6 +2027,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 123124,
+      "num": 123124,
+      "word": "GALA选手LPL征战五周年",
+      "onboard_time": 1705234411,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122610,
       "num": 122610,
       "word": "孙颖莎4比1陈梦",
@@ -1987,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108575,
+      "num": 108575,
+      "word": "崔然竣李彩领 UNTOUCHABLE",
+      "onboard_time": 1705233631,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 108542,
       "num": 1028882,
       "word": "消防员撤离前留下祝福黑板报",
@@ -2011,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104002,
+      "num": 104002,
+      "word": "魏晨龙年春晚彩排路透",
+      "onboard_time": 1705232550,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99911,
       "num": 99911,
       "word": "我的年度妆容",
@@ -2033,6 +2153,14 @@
       "onboard_time": 1705215269,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 91833,
+      "num": 91833,
+      "word": "Fly刺痛合唱大角牛之歌",
+      "onboard_time": 1705233090,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 79597,
@@ -2177,6 +2305,14 @@
       "onboard_time": 1705229791,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23425,
+      "num": 902258,
+      "word": "卫健委发布冬季疾病防治和健康提示",
+      "onboard_time": 1705235071,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22996,

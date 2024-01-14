@@ -1,0 +1,410 @@
+{
+  "runTime": 1705235467128,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 990371,
+        "num": 990371,
+        "word": "马伊琍 果然互联网是有记忆的",
+        "onboard_time": 1705223069,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 960547,
+        "num": 960547,
+        "word": "于正公开黄杨钿甜试戏片段",
+        "onboard_time": 1705233990,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23425,
+        "num": 902258,
+        "word": "卫健委发布冬季疾病防治和健康提示",
+        "onboard_time": 1705235071,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863440,
+        "num": 863440,
+        "word": "日本vs越南",
+        "onboard_time": 1705234291,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 765703,
+        "num": 765703,
+        "word": "难怪玲子这次不来了",
+        "onboard_time": 1705212030,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 758652,
+        "num": 758652,
+        "word": "央视评许嵩新歌",
+        "onboard_time": 1705231409,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695339,
+        "num": 695339,
+        "word": "王鹤棣抽到GAI送的十年SVIP",
+        "onboard_time": 1705233507,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 579212,
+        "num": 579212,
+        "word": "买机票选错日期实付6000多退款仅269元",
+        "onboard_time": 1705220071,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433319,
+        "num": 433319,
+        "word": "重庆文旅开始急了",
+        "onboard_time": 1705229251,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 386427,
+        "num": 386427,
+        "word": "钎城舞剑",
+        "onboard_time": 1705234711,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1665990,
+        "num": 386282,
+        "word": "于正说祝绪丹开拍前辞演",
+        "onboard_time": 1705224451,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380930,
+        "num": 380930,
+        "word": "各地文旅局都疯了",
+        "onboard_time": 1705233691,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 368229,
+        "num": 368229,
+        "word": "经常睡不好可能是缺乏维生素D",
+        "onboard_time": 1705218931,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 360672,
+        "num": 360672,
+        "word": "哈尔滨通报打车2公里要收50元",
+        "onboard_time": 1705227809,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326861,
+        "num": 326861,
+        "word": "秘鲁外星人遗体是人工合成人偶",
+        "onboard_time": 1705218569,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289958,
+        "num": 289958,
+        "word": "上市公司遭电诈9000万",
+        "onboard_time": 1705234530,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 266829,
+        "num": 266829,
+        "word": "连云港18岁坠河男孩遗体被找到",
+        "onboard_time": 1705222353,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261719,
+        "num": 261719,
+        "word": "至少看过3遍以上的宝藏电影",
+        "onboard_time": 1705215089,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242848,
+        "num": 242848,
+        "word": "2023TVB颁奖礼红毯",
+        "onboard_time": 1705228710,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230828,
+        "num": 230828,
+        "word": "张小斐 给你们看我姐可爱吗",
+        "onboard_time": 1705227451,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 512487,
+        "num": 230238,
+        "word": "儿媳称公公频繁干涉夫妻生活",
+        "onboard_time": 1705209510,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291883,
+        "num": 228472,
+        "word": "张杰工作室辟谣",
+        "onboard_time": 1705231827,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286212,
+        "num": 227894,
+        "word": "猪牛羊肉为2A类致癌物",
+        "onboard_time": 1705220792,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225007,
+        "num": 225007,
+        "word": "春晚彩排明星",
+        "onboard_time": 1705221870,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223042,
+        "num": 223042,
+        "word": "文旅局局长大比拼",
+        "onboard_time": 1705230991,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 191425,
+        "num": 191425,
+        "word": "18岁坠河身亡男孩家属不同意尸检",
+        "onboard_time": 1705235371,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190858,
+        "num": 190858,
+        "word": "冻干水果是智商税吗",
+        "onboard_time": 1705233027,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181892,
+        "num": 181892,
+        "word": "GALA原来是你小子和赵露思开黑",
+        "onboard_time": 1705227573,
+        "rank": 27,
+        "category": "电竞,作品衍生"
+      },
+      {
+        "raw_hot": 178357,
+        "num": 178357,
+        "word": "重庆白衣小姐姐你被民警点赞了",
+        "onboard_time": 1705234652,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168772,
+        "num": 168772,
+        "word": "宋轶的腰",
+        "onboard_time": 1705214731,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238814,
+        "num": 168289,
+        "word": "内地和香港的生活习惯差异",
+        "onboard_time": 1705233691,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162092,
+        "num": 162092,
+        "word": "孙阳抽中了王源的冻梨",
+        "onboard_time": 1705227151,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157727,
+        "num": 157727,
+        "word": "越南攻破日本球门",
+        "onboard_time": 1705235371,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143083,
+        "num": 143083,
+        "word": "六公主镜头下的高清红毯群像",
+        "onboard_time": 1705232609,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139036,
+        "num": 139036,
+        "word": "江疏影冷脸千金",
+        "onboard_time": 1705229908,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135698,
+        "num": 135698,
+        "word": "标有这4个字的酱油最好别买",
+        "onboard_time": 1705231589,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133749,
+        "num": 133749,
+        "word": "私家车坠入水塘热心群众接力救援",
+        "onboard_time": 1705225829,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 133227,
+        "num": 133227,
+        "word": "张凌赫 虞书欣是合作演员里最主动的",
+        "onboard_time": 1705206337,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129307,
+        "num": 129307,
+        "word": "林一刘浩存双人舞",
+        "onboard_time": 1705215390,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127759,
+        "num": 127759,
+        "word": "杨幂呼吁大家关注孤独症儿童",
+        "onboard_time": 1705230571,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123124,
+        "num": 123124,
+        "word": "GALA选手LPL征战五周年",
+        "onboard_time": 1705234411,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120703,
+        "num": 120703,
+        "word": "感染乙流比甲流更严重吗",
+        "onboard_time": 1705219892,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114748,
+        "num": 114748,
+        "word": "中美关系第一条不可逾越的红线",
+        "onboard_time": 1705223011,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108575,
+        "num": 108575,
+        "word": "崔然竣李彩领 UNTOUCHABLE",
+        "onboard_time": 1705233631,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104002,
+        "num": 104002,
+        "word": "魏晨龙年春晚彩排路透",
+        "onboard_time": 1705232550,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99028,
+        "num": 99028,
+        "word": "五福临门定妆直播",
+        "onboard_time": 1705217490,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98895,
+        "num": 98895,
+        "word": "假装导员给闺蜜的弟弟打电话",
+        "onboard_time": 1705230870,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95404,
+        "num": 95404,
+        "word": "韩素希放弃留学的原因",
+        "onboard_time": 1705221331,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91833,
+        "num": 91833,
+        "word": "Fly刺痛合唱大角牛之歌",
+        "onboard_time": 1705233090,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87644,
+        "num": 87644,
+        "word": "王鹤棣大奉打更人杀青哭了",
+        "onboard_time": 1705210951,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决铲除腐败问题产生的土壤和条件#"
+    }
+  }
+}
