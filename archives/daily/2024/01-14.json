@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705239245540,
+  "endTime": 1705241734794,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -187,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1194166,
+      "num": 1194166,
+      "word": "汤泡饭为什么不能经常吃",
+      "onboard_time": 1705236331,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1152866,
       "num": 928912,
       "word": "宋轶的腰",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 973428,
-      "num": 318536,
+      "num": 366643,
       "word": "儿媳称公公频繁干涉夫妻生活",
       "onboard_time": 1705209510,
       "rank": 20,
@@ -281,6 +289,14 @@
       "onboard_time": 1705233990,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 939407,
+      "num": 939407,
+      "word": "白冰首播",
+      "onboard_time": 1705237532,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 937674,
@@ -417,6 +433,14 @@
       "onboard_time": 1705236631,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 747920,
+      "num": 502244,
+      "word": "娜扎身材管理",
+      "onboard_time": 1705238494,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 732185,
@@ -579,14 +603,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 617032,
-      "num": 617032,
-      "word": "白冰首播",
-      "onboard_time": 1705237532,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 610431,
       "num": 610431,
       "word": "吴露可逃坐一起了",
@@ -601,6 +617,14 @@
       "onboard_time": 1705201352,
       "rank": 12,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 604609,
+      "num": 604609,
+      "word": "李宇春谢谢李冰冰黄渤黄晓明",
+      "onboard_time": 1705239756,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 601425,
@@ -643,12 +667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559467,
+      "num": 559467,
+      "word": "丹麦女王正式退位",
+      "onboard_time": 1705240174,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 558879,
       "num": 558879,
       "word": "苏醒 新疆",
       "onboard_time": 1705161519,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 556127,
+      "num": 556127,
+      "word": "2023TVB颁奖礼",
+      "onboard_time": 1705236451,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 550843,
@@ -683,14 +723,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 536618,
-      "num": 536618,
-      "word": "2023TVB颁奖礼",
-      "onboard_time": 1705236451,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 524333,
       "num": 524333,
       "word": "重庆文旅开始急了",
@@ -713,6 +745,14 @@
       "onboard_time": 1705200811,
       "rank": 15,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 506823,
+      "num": 506823,
+      "word": "经常睡不好可能是缺乏维生素D",
+      "onboard_time": 1705218931,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 504244,
@@ -745,14 +785,6 @@
       "onboard_time": 1705204411,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 478598,
-      "num": 478598,
-      "word": "经常睡不好可能是缺乏维生素D",
-      "onboard_time": 1705218931,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 478136,
@@ -811,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 461487,
+      "num": 364777,
+      "word": "生个娃养到3岁20万够吗",
+      "onboard_time": 1705238494,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 456040,
       "num": 417479,
       "word": "微博之夜互送礼物拉表",
@@ -859,12 +899,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 428273,
-      "num": 428273,
-      "word": "汤泡饭为什么不能经常吃",
-      "onboard_time": 1705236331,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 427107,
+      "num": 427107,
+      "word": "佘诗曼获马来西亚最喜爱TVB女主角",
+      "onboard_time": 1705240835,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 422752,
@@ -963,6 +1003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 361296,
+      "num": 361296,
+      "word": "高海宁获奖佘诗曼在台下擦泪",
+      "onboard_time": 1705238914,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361239,
       "num": 312928,
       "word": "猪牛羊肉为2A类致癌物",
@@ -1056,14 +1104,6 @@
       "word": "杨紫微博之夜vlog",
       "onboard_time": 1705238673,
       "rank": 17,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 310412,
-      "num": 236258,
-      "word": "娜扎身材管理",
-      "onboard_time": 1705238494,
-      "rank": 21,
       "category": "作品衍生"
     },
     {
@@ -1195,14 +1235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 274257,
-      "num": 178959,
-      "word": "高海宁获奖佘诗曼在台下擦泪",
-      "onboard_time": 1705238914,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 271066,
       "num": 219735,
       "word": "高叶哭了",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1705224093,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 261441,
+      "num": 369378,
+      "word": "王毅阐明中方关于台湾局势严正立场",
+      "onboard_time": 1705240892,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 260346,
@@ -1323,20 +1363,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 253243,
-      "num": 233808,
-      "word": "生个娃养到3岁20万够吗",
-      "onboard_time": 1705238494,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 249999,
       "num": 246943,
       "word": "杨紫爸妈去了微博之夜",
       "onboard_time": 1705219411,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249485,
+      "num": 249485,
+      "word": "狗狗在烧烤架下烫个了发型",
+      "onboard_time": 1705238072,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 248274,
@@ -1395,6 +1435,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 236179,
+      "num": 236179,
+      "word": "Meta承认使用盗版书籍训练AI",
+      "onboard_time": 1705240114,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 235764,
       "num": 235764,
       "word": "烽火流金能不能提上来",
@@ -1433,6 +1481,14 @@
       "onboard_time": 1705146039,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225846,
+      "num": 225846,
+      "word": "苏醒在零下舞台全开麦",
+      "onboard_time": 1705239756,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 222699,
@@ -1507,14 +1563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 213129,
-      "num": 175664,
-      "word": "狗狗在烧烤架下烫个了发型",
-      "onboard_time": 1705238072,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211040,
       "num": 168190,
       "word": "黄景瑜北方血脉觉醒",
@@ -1552,6 +1600,14 @@
       "word": "章若楠黑色抹胸小礼裙",
       "onboard_time": 1705237050,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205798,
+      "num": 205798,
+      "word": "五福临门",
+      "onboard_time": 1705240293,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1883,6 +1939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163244,
+      "num": 163244,
+      "word": "东北高铁给南方人一点震撼",
+      "onboard_time": 1705238973,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161930,
       "num": 161930,
       "word": "国考调剂",
@@ -1947,14 +2011,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 151266,
-      "num": 151266,
-      "word": "东北高铁给南方人一点震撼",
-      "onboard_time": 1705238973,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 149201,
       "num": 149201,
       "word": "熊猫宝宝小碎步好魔性",
@@ -1987,12 +2043,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 143287,
+      "num": 143287,
+      "word": "赵继伟孤胆英雄",
+      "onboard_time": 1705240534,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143083,
       "num": 143083,
       "word": "六公主镜头下的高清红毯群像",
       "onboard_time": 1705232609,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141377,
+      "num": 141377,
+      "word": "萌兰又和蜡笔小新撞脸了",
+      "onboard_time": 1705239456,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141356,
@@ -2259,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116807,
+      "num": 116807,
+      "word": "千与千寻AI版",
+      "onboard_time": 1705240472,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 115561,
       "num": 115561,
       "word": "江苏文旅开始卷了",
@@ -2297,6 +2377,14 @@
       "onboard_time": 1705236211,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108693,
+      "num": 108693,
+      "word": "久诚solo唱歌",
+      "onboard_time": 1705240054,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 108575,
@@ -2387,6 +2475,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 94810,
+      "num": 97207,
+      "word": "小义奇妙夜化身主唱",
+      "onboard_time": 1705240414,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91833,
       "num": 91833,
       "word": "Fly刺痛合唱大角牛之歌",
@@ -2395,20 +2491,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79614,
+      "num": 902258,
+      "word": "卫健委发布冬季疾病防治和健康提示",
+      "onboard_time": 1705235071,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79597,
       "num": 79597,
       "word": "纽卡斯尔联2比3曼城",
       "onboard_time": 1705187960,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79521,
-      "num": 902258,
-      "word": "卫健委发布冬季疾病防治和健康提示",
-      "onboard_time": 1705235071,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78522,
