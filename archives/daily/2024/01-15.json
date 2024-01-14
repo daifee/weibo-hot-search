@@ -1,6 +1,6 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705270593506,
+  "endTime": 1705271633838,
   "band_list": [
     {
       "raw_hot": 1322795,
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164965,
+      "num": 57877,
+      "word": "涉嫌杀害华人妻子好莱坞富二代拒不认罪",
+      "onboard_time": 1705266313,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157166,
       "num": 157166,
       "word": "儿媳称公公频繁干涉夫妻生活",
@@ -267,14 +275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123113,
-      "num": 18815,
-      "word": "涉嫌杀害华人妻子好莱坞富二代拒不认罪",
-      "onboard_time": 1705266313,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121223,
       "num": 121223,
       "word": "字节仍在洽购饿了么",
@@ -337,6 +337,14 @@
       "onboard_time": 1705243054,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84543,
+      "num": 56934,
+      "word": "官方回应文化墙被吐槽像灵堂",
+      "onboard_time": 1705269135,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84461,
@@ -403,8 +411,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66311,
-      "num": 66311,
+      "raw_hot": 68839,
+      "num": 68839,
       "word": "黄晓明李冰冰一起走红毯",
       "onboard_time": 1705259416,
       "rank": 46,
@@ -483,20 +491,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 33109,
-      "num": 18317,
-      "word": "官方回应文化墙被吐槽像灵堂",
-      "onboard_time": 1705269135,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29542,
       "num": 39580,
       "word": "Meta承认使用盗版书籍训练AI",
       "onboard_time": 1705240114,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 26059,
+      "num": 26059,
+      "word": "在杭州做美缝真的能月入三四万吗",
+      "onboard_time": 1705266254,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24520,
@@ -521,14 +529,6 @@
       "onboard_time": 1705254798,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 20877,
-      "num": 18307,
-      "word": "在杭州做美缝真的能月入三四万吗",
-      "onboard_time": 1705266254,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20219,
