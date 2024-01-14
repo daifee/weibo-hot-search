@@ -1,0 +1,410 @@
+{
+  "runTime": 1705224834596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1395251,
+        "num": 1395251,
+        "word": "难怪玲子这次不来了",
+        "onboard_time": 1705212030,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1237181,
+        "num": 1237181,
+        "word": "买机票选错日期实付6000多退款仅269元",
+        "onboard_time": 1705220071,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44132,
+        "num": 1130387,
+        "word": "晒晒家乡隐藏款土特产",
+        "onboard_time": 1705205128,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069555,
+        "num": 1069555,
+        "word": "于正 吴宣仪是临时救场",
+        "onboard_time": 1705219529,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1065557,
+        "num": 1065557,
+        "word": "秘鲁外星人遗体是人工合成人偶",
+        "onboard_time": 1705218569,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008136,
+        "num": 1008136,
+        "word": "马伊琍 果然互联网是有记忆的",
+        "onboard_time": 1705223069,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 697446,
+        "num": 697446,
+        "word": "春晚彩排明星",
+        "onboard_time": 1705221870,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684332,
+        "num": 684332,
+        "word": "连云港18岁坠河男孩遗体被找到",
+        "onboard_time": 1705222353,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677443,
+        "num": 677443,
+        "word": "韩素希放弃留学的原因",
+        "onboard_time": 1705221331,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525068,
+        "num": 525068,
+        "word": "感染乙流比甲流更严重吗",
+        "onboard_time": 1705219892,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 486668,
+        "num": 486668,
+        "word": "至少看过3遍以上的宝藏电影",
+        "onboard_time": 1705215089,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441407,
+        "num": 441407,
+        "word": "金枪鱼一出生就必须不停地游",
+        "onboard_time": 1705220310,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 387380,
+        "num": 387380,
+        "word": "刘涛 胡歌活到现在真是奇迹",
+        "onboard_time": 1705218510,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373056,
+        "num": 373056,
+        "word": "蕾子急出了花少专用暗号",
+        "onboard_time": 1705222650,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351177,
+        "num": 351177,
+        "word": "医院回应孕妇生产不收钱",
+        "onboard_time": 1705222591,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348738,
+        "num": 348738,
+        "word": "宋轶的腰",
+        "onboard_time": 1705214731,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307397,
+        "num": 307397,
+        "word": "中美关系第一条不可逾越的红线",
+        "onboard_time": 1705223011,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306289,
+        "num": 306289,
+        "word": "张凌赫 虞书欣是合作演员里最主动的",
+        "onboard_time": 1705206337,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236259,
+        "num": 236259,
+        "word": "管泽元余霜食物中毒",
+        "onboard_time": 1705209450,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224047,
+        "num": 224047,
+        "word": "奇妙夜不直播",
+        "onboard_time": 1705224093,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 553546,
+        "num": 224003,
+        "word": "儿媳称公公频繁干涉夫妻生活",
+        "onboard_time": 1705209510,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361239,
+        "num": 223982,
+        "word": "猪牛羊肉为2A类致癌物",
+        "onboard_time": 1705220792,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 317266,
+        "num": 223915,
+        "word": "广州全裸男子持剪刀刺伤女子",
+        "onboard_time": 1705215450,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282220,
+        "num": 223886,
+        "word": "李冰冰晒与娜扎周也徐若晗合照",
+        "onboard_time": 1705219529,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260406,
+        "num": 223829,
+        "word": "于正说祝绪丹开拍前辞演",
+        "onboard_time": 1705224451,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238863,
+        "num": 223765,
+        "word": "经常睡不好可能是缺乏维生素D",
+        "onboard_time": 1705218931,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223735,
+        "num": 223735,
+        "word": "7195名投资者获赔2.8亿开始到账",
+        "onboard_time": 1705219892,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222305,
+        "num": 222305,
+        "word": "杨紫爸妈去了微博之夜",
+        "onboard_time": 1705219411,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224093,
+        "num": 221383,
+        "word": "尼格买提叫的是娜扎全名",
+        "onboard_time": 1705189885,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218599,
+        "num": 218599,
+        "word": "因榴莲快熟了司机高速狂奔7小时交警拦下强制其休息",
+        "onboard_time": 1705214069,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208719,
+        "num": 208719,
+        "word": "台湾是中国一部分的基本事实不会改变",
+        "onboard_time": 1705162961,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203022,
+        "num": 203022,
+        "word": "女性一生真的只有400颗卵子吗",
+        "onboard_time": 1705209510,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181321,
+        "num": 181321,
+        "word": "五福临门定妆直播",
+        "onboard_time": 1705217490,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178877,
+        "num": 178877,
+        "word": "脱轨",
+        "onboard_time": 1705209450,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171776,
+        "num": 171776,
+        "word": "外交部回应美方就台湾地区选举发表声明",
+        "onboard_time": 1705220191,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176383,
+        "num": 169768,
+        "word": "林一刘浩存双人舞",
+        "onboard_time": 1705215390,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165309,
+        "num": 165309,
+        "word": "田曦薇穿高跟鞋跑",
+        "onboard_time": 1705207709,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161662,
+        "num": 161662,
+        "word": "南方人在哈尔滨给冻僵松鼠做心脏复苏",
+        "onboard_time": 1705220851,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158245,
+        "num": 158245,
+        "word": "女子参加前夫哥婚礼",
+        "onboard_time": 1705224570,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156770,
+        "num": 156770,
+        "word": "拜托她可是贾玲",
+        "onboard_time": 1705200090,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150188,
+        "num": 150188,
+        "word": "王鹤棣大奉打更人杀青哭了",
+        "onboard_time": 1705210951,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146135,
+        "num": 146135,
+        "word": "田曦薇爱心痣",
+        "onboard_time": 1705198053,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140663,
+        "num": 140663,
+        "word": "新疆多处发生雪崩游客已滞留4天",
+        "onboard_time": 1705224691,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 140602,
+        "num": 140602,
+        "word": "人气第一的动漫角色",
+        "onboard_time": 1705223250,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 138233,
+        "num": 138233,
+        "word": "张拿铁是懂人情世故的",
+        "onboard_time": 1705224629,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134031,
+        "num": 134031,
+        "word": "重庆一地铁出入口被吐槽像公厕",
+        "onboard_time": 1705218752,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130163,
+        "num": 130163,
+        "word": "张婧仪谈首次尝试古装感受",
+        "onboard_time": 1705222413,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128934,
+        "num": 128934,
+        "word": "吴磊差点把迪丽热巴奖杯拿走了",
+        "onboard_time": 1705197751,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126489,
+        "num": 126489,
+        "word": "热巴的蝴蝶骨",
+        "onboard_time": 1705198352,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125470,
+        "num": 125470,
+        "word": "同事买车让我出五千块",
+        "onboard_time": 1705210591,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决铲除腐败问题产生的土壤和条件#"
+    }
+  }
+}
