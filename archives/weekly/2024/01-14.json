@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705235467128,
+  "endTime": 1705236390255,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 696035,
+      "num": 465086,
+      "word": "18岁坠河身亡男孩家属不同意尸检",
+      "onboard_time": 1705235371,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 695339,
       "num": 695339,
       "word": "王鹤棣抽到GAI送的十年SVIP",
@@ -611,6 +619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 550843,
+      "num": 550843,
+      "word": "上市公司遭电诈9000万",
+      "onboard_time": 1705234530,
+      "rank": 15,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 547865,
       "num": 547865,
       "word": "李宇春被裙子封印住了",
@@ -673,6 +689,14 @@
       "onboard_time": 1705212330,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 496919,
+      "num": 496919,
+      "word": "各地文旅局都疯了",
+      "onboard_time": 1705233691,
+      "rank": 11,
+      "category": "旅游"
     },
     {
       "raw_hot": 484261,
@@ -787,6 +811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 424780,
+      "num": 424780,
+      "word": "经常睡不好可能是缺乏维生素D",
+      "onboard_time": 1705218931,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 422752,
       "num": 422752,
       "word": "王楚钦说和莎莎学会了坚持",
@@ -819,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 398063,
+      "num": 398063,
+      "word": "壶鱼辣椒 抄袭",
+      "onboard_time": 1705235670,
+      "rank": 13,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 386427,
       "num": 386427,
       "word": "钎城舞剑",
@@ -843,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 380930,
-      "num": 380930,
-      "word": "各地文旅局都疯了",
-      "onboard_time": 1705233691,
-      "rank": 11,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 379109,
       "num": 379109,
       "word": "王楚钦vs林诗栋",
@@ -873,14 +905,6 @@
       "onboard_time": 1705219529,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 368229,
-      "num": 368229,
-      "word": "经常睡不好可能是缺乏维生素D",
-      "onboard_time": 1705218931,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 366928,
@@ -987,6 +1011,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 307091,
+      "num": 307091,
+      "word": "2023TVB颁奖礼红毯",
+      "onboard_time": 1705228710,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 306839,
+      "num": 306839,
+      "word": "越南攻破日本球门",
+      "onboard_time": 1705235371,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306222,
       "num": 1346739,
       "word": "私家车坠入水塘热心群众接力救援",
@@ -1028,7 +1068,7 @@
     },
     {
       "raw_hot": 291883,
-      "num": 228472,
+      "num": 251018,
       "word": "张杰工作室辟谣",
       "onboard_time": 1705231827,
       "rank": 27,
@@ -1041,14 +1081,6 @@
       "onboard_time": 1705191571,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 289958,
-      "num": 289958,
-      "word": "上市公司遭电诈9000万",
-      "onboard_time": 1705234530,
-      "rank": 15,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 287829,
@@ -1227,6 +1259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248479,
+      "num": 248479,
+      "word": "张大仙直播王者",
+      "onboard_time": 1705235490,
+      "rank": 23,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 248274,
       "num": 228664,
       "word": "也子端水 cp饭的反应",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1705205907,
       "rank": 46,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 242848,
-      "num": 242848,
-      "word": "2023TVB颁奖礼红毯",
-      "onboard_time": 1705228710,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 240294,
@@ -1268,7 +1300,7 @@
     },
     {
       "raw_hot": 238814,
-      "num": 168289,
+      "num": 201620,
       "word": "内地和香港的生活习惯差异",
       "onboard_time": 1705233691,
       "rank": 30,
@@ -1507,14 +1539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 191425,
-      "num": 191425,
-      "word": "18岁坠河身亡男孩家属不同意尸检",
-      "onboard_time": 1705235371,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190858,
       "num": 190858,
       "word": "冻干水果是智商税吗",
@@ -1587,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181331,
+      "num": 181331,
+      "word": "iQOO汗流浃背了",
+      "onboard_time": 1705235732,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 180502,
       "num": 1078161,
       "word": "小孩落水路过大爷跳湖10秒钟救起",
@@ -1601,6 +1633,14 @@
       "onboard_time": 1705188020,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178895,
+      "num": 178895,
+      "word": "汤泡饭为什么不能经常吃",
+      "onboard_time": 1705236331,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 178357,
@@ -1699,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168498,
+      "num": 168498,
+      "word": "TTG用魔法打败魔法",
+      "onboard_time": 1705236090,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167550,
       "num": 167550,
       "word": "孙颖莎说给自己开了一个好头",
@@ -1787,12 +1835,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157727,
-      "num": 157727,
-      "word": "越南攻破日本球门",
-      "onboard_time": 1705235371,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 157371,
+      "num": 157371,
+      "word": "Hero奇妙夜魔性新歌",
+      "onboard_time": 1705235971,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 156692,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1705215990,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140437,
+      "num": 140437,
+      "word": "梓墨独唱",
+      "onboard_time": 1705235971,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 139161,
@@ -2091,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112238,
+      "num": 112238,
+      "word": "于适 用坚定步伐跑错方向",
+      "onboard_time": 1705236211,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 108575,
       "num": 108575,
       "word": "崔然竣李彩领 UNTOUCHABLE",
@@ -2193,6 +2257,14 @@
       "onboard_time": 1705181473,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 74263,
+      "num": 902258,
+      "word": "卫健委发布冬季疾病防治和健康提示",
+      "onboard_time": 1705235071,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68358,
@@ -2305,14 +2377,6 @@
       "onboard_time": 1705229791,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23425,
-      "num": 902258,
-      "word": "卫健委发布冬季疾病防治和健康提示",
-      "onboard_time": 1705235071,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22996,
