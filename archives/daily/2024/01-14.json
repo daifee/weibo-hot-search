@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705228492790,
+  "endTime": 1705230884654,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -59,7 +59,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1944014,
+      "raw_hot": 1972988,
       "num": 1944014,
       "word": "于正说祝绪丹开拍前辞演",
       "onboard_time": 1705224451,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 688914,
+      "num": 688914,
+      "word": "张小斐 给你们看我姐可爱吗",
+      "onboard_time": 1705227451,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 684332,
       "num": 684332,
       "word": "连云港18岁坠河男孩遗体被找到",
@@ -441,6 +449,14 @@
       "onboard_time": 1705215390,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 679697,
+      "num": 679697,
+      "word": "哈尔滨通报打车2公里要收50元",
+      "onboard_time": 1705227809,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 677224,
@@ -465,6 +481,14 @@
       "onboard_time": 1705199255,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 652972,
+      "num": 652972,
+      "word": "孙阳抽中了王源的冻梨",
+      "onboard_time": 1705227151,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 640434,
@@ -699,14 +723,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 438106,
-      "num": 438106,
-      "word": "孙阳抽中了王源的冻梨",
-      "onboard_time": 1705227151,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 437862,
       "num": 437862,
       "word": "医院回应孕妇生产不收钱",
@@ -851,14 +867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 338323,
-      "num": 338323,
-      "word": "张小斐 给你们看我姐可爱吗",
-      "onboard_time": 1705227451,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 335420,
       "num": 406793,
       "word": "为什么烤红薯比蒸的好吃",
@@ -891,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 318219,
+      "num": 318219,
+      "word": "重庆文旅开始急了",
+      "onboard_time": 1705229251,
+      "rank": 16,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 318092,
       "num": 230347,
       "word": "胡歌扶唐嫣下台",
@@ -913,6 +929,14 @@
       "onboard_time": 1705205310,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 306222,
+      "num": 1346739,
+      "word": "私家车坠入水塘热心群众接力救援",
+      "onboard_time": 1705225829,
+      "rank": 1,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 306070,
@@ -1051,6 +1075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 265157,
+      "num": 265157,
+      "word": "阿富汗扎兰季市一大楼遭自杀式炸弹袭击",
+      "onboard_time": 1705228534,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 262789,
       "num": 262789,
       "word": "奇妙夜不直播",
@@ -1099,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255744,
+      "num": 255744,
+      "word": "GALA原来是你小子和赵露思开黑",
+      "onboard_time": 1705227573,
+      "rank": 46,
+      "category": "电竞,作品衍生"
+    },
+    {
       "raw_hot": 253771,
       "num": 253771,
       "word": "拖米现场直拍",
@@ -1113,14 +1153,6 @@
       "onboard_time": 1705219411,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 248319,
-      "num": 1346739,
-      "word": "私家车坠入水塘热心群众接力救援",
-      "onboard_time": 1705225829,
-      "rank": 1,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 248274,
@@ -1139,12 +1171,28 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 240294,
+      "num": 240294,
+      "word": "大马赛梁伟铿王昶男双夺冠",
+      "onboard_time": 1705230090,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239182,
       "num": 239182,
       "word": "肠镜检查别晚于45岁",
       "onboard_time": 1705200691,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 237851,
+      "num": 195226,
+      "word": "宝宝娘胎里就有了贴身保镖",
+      "onboard_time": 1705227809,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 236793,
@@ -1217,6 +1265,14 @@
       "onboard_time": 1705195053,
       "rank": 36,
       "category": "电竞,作品衍生"
+    },
+    {
+      "raw_hot": 219812,
+      "num": 219812,
+      "word": "AG一年更比一年土",
+      "onboard_time": 1705229611,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 218154,
@@ -1331,14 +1387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195226,
-      "num": 195226,
-      "word": "宝宝娘胎里就有了贴身保镖",
-      "onboard_time": 1705227809,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194192,
       "num": 194192,
       "word": "董思成五福临门妆造",
@@ -1371,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189618,
+      "num": 189618,
+      "word": "江疏影冷脸千金",
+      "onboard_time": 1705229908,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187806,
       "num": 161979,
       "word": "高端水果价格逐渐亲民",
@@ -1387,20 +1443,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186917,
-      "num": 186917,
-      "word": "哈尔滨通报打车2公里要收50元",
-      "onboard_time": 1705227809,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186502,
       "num": 186502,
       "word": "恋与深空 预约",
       "onboard_time": 1705206269,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186414,
+      "num": 186414,
+      "word": "杨幂呼吁大家关注孤独症儿童",
+      "onboard_time": 1705230571,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185335,
+      "num": 185335,
+      "word": "2023TVB颁奖礼红毯",
+      "onboard_time": 1705228710,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 181828,
@@ -1619,14 +1683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147240,
-      "num": 147240,
-      "word": "GALA原来是你小子和赵露思开黑",
-      "onboard_time": 1705227573,
-      "rank": 46,
-      "category": "电竞,作品衍生"
-    },
-    {
       "raw_hot": 144084,
       "num": 144084,
       "word": "国乒包揽五项冠军",
@@ -1681,6 +1737,14 @@
       "onboard_time": 1705224629,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 137089,
+      "num": 137089,
+      "word": "恋与深空",
+      "onboard_time": 1705230510,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 137015,
@@ -1744,6 +1808,14 @@
       "word": "儿时射的子弹正中你的眉心",
       "onboard_time": 1705228412,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 133732,
+      "num": 133732,
+      "word": "假装导员给闺蜜的弟弟打电话",
+      "onboard_time": 1705230870,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -1891,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104377,
+      "num": 1028882,
+      "word": "消防员撤离前留下祝福黑板报",
+      "onboard_time": 1705226190,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99911,
       "num": 99911,
       "word": "我的年度妆容",
@@ -1913,14 +1993,6 @@
       "onboard_time": 1705215269,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 91107,
-      "num": 1028882,
-      "word": "消防员撤离前留下祝福黑板报",
-      "onboard_time": 1705226190,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79597,
@@ -1961,6 +2033,14 @@
       "onboard_time": 1705188080,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63834,
+      "num": 905796,
+      "word": "中国城市轨道交通运营里程突破1万公里",
+      "onboard_time": 1705228649,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59561,
@@ -2057,6 +2137,14 @@
       "onboard_time": 1705130496,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22302,
+      "num": 309823,
+      "word": "刘畊宏2024第一支健身操",
+      "onboard_time": 1705229791,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 20554,
