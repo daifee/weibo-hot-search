@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705210432402,
+  "endTime": 1705213346539,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -123,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1120323,
+      "num": 460210,
+      "word": "难怪玲子这次不来了",
+      "onboard_time": 1705212030,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1095666,
       "num": 1095666,
       "word": "国考排名",
@@ -137,6 +145,14 @@
       "onboard_time": 1705189885,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1068894,
+      "num": 1068894,
+      "word": "管泽元余霜食物中毒",
+      "onboard_time": 1705209450,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1066173,
@@ -187,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 973428,
+      "num": 289802,
+      "word": "儿媳称公公频繁干涉夫妻生活",
+      "onboard_time": 1705209510,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 937674,
       "num": 937674,
       "word": "楼下起火爸爸抱女儿坠楼7岁女儿身亡",
@@ -217,14 +241,6 @@
       "onboard_time": 1705191025,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 839368,
-      "num": 839368,
-      "word": "管泽元余霜食物中毒",
-      "onboard_time": 1705209450,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 822393,
@@ -259,14 +275,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 727061,
-      "num": 289802,
-      "word": "儿媳称公公频繁干涉夫妻生活",
-      "onboard_time": 1705209510,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 726159,
       "num": 726159,
       "word": "花花和谭爷爷上微博之夜",
@@ -288,6 +296,14 @@
       "word": "秦岚没帮王安宇物色女朋友",
       "onboard_time": 1705204950,
       "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 703000,
+      "num": 703000,
+      "word": "王鹤棣大奉打更人杀青哭了",
+      "onboard_time": 1705210951,
+      "rank": 4,
       "category": "作品衍生"
     },
     {
@@ -419,6 +435,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 504244,
+      "num": 504244,
+      "word": "土耳其空袭伊拉克叙利亚",
+      "onboard_time": 1705209450,
+      "rank": 13,
+      "category": "军事,国外时政"
+    },
+    {
       "raw_hot": 484261,
       "num": 484261,
       "word": "王一博 小滑一步",
@@ -465,6 +489,14 @@
       "onboard_time": 1705164452,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 464388,
+      "num": 464388,
+      "word": "周也落跑公主",
+      "onboard_time": 1705209750,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 463740,
@@ -539,20 +571,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 395481,
-      "num": 395481,
-      "word": "土耳其空袭伊拉克叙利亚",
-      "onboard_time": 1705209450,
-      "rank": 13,
-      "category": "军事,国外时政"
-    },
-    {
       "raw_hot": 382747,
       "num": 382747,
       "word": "央视转播车已抵达西安",
       "onboard_time": 1705175536,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381412,
+      "num": 206520,
+      "word": "同事买车让我出五千块",
+      "onboard_time": 1705210591,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 379109,
@@ -579,12 +611,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 352294,
-      "num": 352294,
-      "word": "周也落跑公主",
-      "onboard_time": 1705209750,
-      "rank": 15,
-      "category": "作品衍生"
+      "raw_hot": 356392,
+      "num": 275800,
+      "word": "白敬亭春晚彩排路透",
+      "onboard_time": 1705212330,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 343175,
@@ -803,12 +835,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 254734,
+      "num": 201737,
+      "word": "上岸第一剑为什么总是挥向爱情",
+      "onboard_time": 1705212150,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248274,
       "num": 228664,
       "word": "也子端水 cp饭的反应",
       "onboard_time": 1705200752,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248157,
+      "num": 248157,
+      "word": "3人操纵股价被罚没6.6亿",
+      "onboard_time": 1705212691,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 245239,
@@ -963,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193879,
+      "num": 193879,
+      "word": "科目三的风吹到了曾黎",
+      "onboard_time": 1705212391,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191429,
       "num": 167256,
       "word": "张凌赫张婧仪合照",
@@ -1009,6 +1065,14 @@
       "onboard_time": 1705190548,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172683,
+      "num": 172683,
+      "word": "浓眉三双",
+      "onboard_time": 1705212330,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 172672,
@@ -1065,6 +1129,14 @@
       "onboard_time": 1705156487,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 167329,
+      "num": 167329,
+      "word": "国足",
+      "onboard_time": 1705210951,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 161930,
