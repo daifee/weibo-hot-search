@@ -1,0 +1,410 @@
+{
+  "runTime": 1705216551712,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3040144,
+        "num": 3040144,
+        "word": "难怪玲子这次不来了",
+        "onboard_time": 1705212030,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 851344,
+        "num": 851344,
+        "word": "因榴莲快熟了司机高速狂奔7小时交警拦下强制其休息",
+        "onboard_time": 1705214069,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74958,
+        "num": 764678,
+        "word": "晒晒家乡隐藏款土特产",
+        "onboard_time": 1705205128,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1074787,
+        "num": 764310,
+        "word": "宋轶的腰",
+        "onboard_time": 1705214731,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 754995,
+        "num": 754995,
+        "word": "脱轨",
+        "onboard_time": 1705209450,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 702128,
+        "num": 702128,
+        "word": "2024央视春晚彩排",
+        "onboard_time": 1705214011,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665442,
+        "num": 665442,
+        "word": "张凌赫 虞书欣是合作演员里最主动的",
+        "onboard_time": 1705206337,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 568074,
+        "num": 568074,
+        "word": "管泽元余霜食物中毒",
+        "onboard_time": 1705209450,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 537524,
+        "num": 537524,
+        "word": "3人操纵股价被罚没6.6亿",
+        "onboard_time": 1705212691,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 323226,
+        "num": 323226,
+        "word": "台湾是中国一部分的基本事实不会改变",
+        "onboard_time": 1705162961,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 505138,
+        "num": 293685,
+        "word": "拜托她可是贾玲",
+        "onboard_time": 1705200090,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 481533,
+        "num": 281812,
+        "word": "林一刘浩存双人舞",
+        "onboard_time": 1705215390,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384192,
+        "num": 273866,
+        "word": "王鹤棣大奉打更人杀青哭了",
+        "onboard_time": 1705210951,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263052,
+        "num": 263052,
+        "word": "国考18个岗位进面分超141分",
+        "onboard_time": 1705208549,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 233197,
+        "num": 233197,
+        "word": "卵巢是生殖系统中最早衰老的器官",
+        "onboard_time": 1705191025,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 373265,
+        "num": 228591,
+        "word": "尼格买提叫的是娜扎全名",
+        "onboard_time": 1705189885,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371777,
+        "num": 222431,
+        "word": "田曦薇爱心痣",
+        "onboard_time": 1705198053,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214947,
+        "num": 214947,
+        "word": "土耳其空袭伊拉克叙利亚",
+        "onboard_time": 1705209450,
+        "rank": 17,
+        "category": "军事,国外时政"
+      },
+      {
+        "raw_hot": 164232,
+        "num": 164232,
+        "word": "楼下起火爸爸抱女儿坠楼7岁女儿身亡",
+        "onboard_time": 1705160440,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147960,
+        "num": 147960,
+        "word": "她是蔡磊最坚强的后盾",
+        "onboard_time": 1705215689,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 806427,
+        "num": 147863,
+        "word": "儿媳称公公频繁干涉夫妻生活",
+        "onboard_time": 1705209510,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496894,
+        "num": 147826,
+        "word": "广州全裸男子持剪刀刺伤女子",
+        "onboard_time": 1705215450,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318250,
+        "num": 147665,
+        "word": "女性一生真的只有400颗卵子吗",
+        "onboard_time": 1705209510,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 311242,
+        "num": 147485,
+        "word": "吴磊差点把迪丽热巴奖杯拿走了",
+        "onboard_time": 1705197751,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303699,
+        "num": 147385,
+        "word": "同事买车让我出五千块",
+        "onboard_time": 1705210591,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301568,
+        "num": 147292,
+        "word": "上岸第一剑为什么总是挥向爱情",
+        "onboard_time": 1705212150,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258733,
+        "num": 147180,
+        "word": "周也落跑公主",
+        "onboard_time": 1705209750,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248981,
+        "num": 147013,
+        "word": "白敬亭春晚彩排路透",
+        "onboard_time": 1705212330,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228317,
+        "num": 146875,
+        "word": "热巴的蝴蝶骨",
+        "onboard_time": 1705198352,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219081,
+        "num": 146805,
+        "word": "田曦薇穿高跟鞋跑",
+        "onboard_time": 1705207709,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203646,
+        "num": 146601,
+        "word": "秦岚没帮王安宇物色女朋友",
+        "onboard_time": 1705204950,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194851,
+        "num": 146542,
+        "word": "中国女兵入伍前美入伍后飒",
+        "onboard_time": 1705215450,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190712,
+        "num": 146393,
+        "word": "至少看过3遍以上的宝藏电影",
+        "onboard_time": 1705215089,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187070,
+        "num": 146329,
+        "word": "虞书欣檀健次热聊",
+        "onboard_time": 1705215030,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130228,
+        "num": 146158,
+        "word": "给小朋友零花钱是必要的",
+        "onboard_time": 1705214069,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146086,
+        "num": 146086,
+        "word": "木菟拍的赵露思",
+        "onboard_time": 1705205310,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140630,
+        "num": 140630,
+        "word": "雷佳音看热闹来了",
+        "onboard_time": 1705215990,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128343,
+        "num": 128343,
+        "word": "高端水果价格逐渐亲民",
+        "onboard_time": 1705216172,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 126929,
+        "num": 126929,
+        "word": "胶囊不能用热水送服",
+        "onboard_time": 1705215930,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126748,
+        "num": 126748,
+        "word": "为孩子不离婚孩子真能快乐吗",
+        "onboard_time": 1705200330,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128902,
+        "num": 126068,
+        "word": "科目三的风吹到了曾黎",
+        "onboard_time": 1705212391,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127686,
+        "num": 125777,
+        "word": "一天在backseat里分手几十次",
+        "onboard_time": 1705215507,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119998,
+        "num": 125420,
+        "word": "花花和谭爷爷上微博之夜",
+        "onboard_time": 1705197871,
+        "rank": 42,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 125196,
+        "num": 125196,
+        "word": "王鹤棣脸被泼黑了",
+        "onboard_time": 1705199255,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121150,
+        "num": 121150,
+        "word": "杨幂拿到唐嫣的礼物了吗",
+        "onboard_time": 1705157987,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121047,
+        "num": 121047,
+        "word": "国考面试名单",
+        "onboard_time": 1705201352,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 116542,
+        "num": 116542,
+        "word": "微博之夜合照",
+        "onboard_time": 1705189103,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114333,
+        "num": 116385,
+        "word": "Tarzan韩服第一",
+        "onboard_time": 1705214972,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108043,
+        "num": 116000,
+        "word": "论洛阳三位数的妆造多离谱",
+        "onboard_time": 1705213410,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 96445,
+        "num": 115919,
+        "word": "山西大同现雪雕云冈石窟",
+        "onboard_time": 1705215269,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决铲除腐败问题产生的土壤和条件#"
+    }
+  }
+}

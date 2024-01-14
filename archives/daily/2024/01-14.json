@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705214163448,
+  "endTime": 1705216551712,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -139,6 +139,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1074787,
+      "num": 764310,
+      "word": "宋轶的腰",
+      "onboard_time": 1705214731,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1073552,
       "num": 1073552,
       "word": "尼格买提叫的是娜扎全名",
@@ -243,6 +251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 851344,
+      "num": 851344,
+      "word": "因榴莲快熟了司机高速狂奔7小时交警拦下强制其休息",
+      "onboard_time": 1705214069,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 822393,
       "num": 822393,
       "word": "迪丽热巴来了",
@@ -265,6 +281,14 @@
       "onboard_time": 1705193311,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 754995,
+      "num": 754995,
+      "word": "脱轨",
+      "onboard_time": 1705209450,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 732185,
@@ -321,6 +345,14 @@
       "onboard_time": 1705162299,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 702128,
+      "num": 702128,
+      "word": "2024央视春晚彩排",
+      "onboard_time": 1705214011,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 655116,
@@ -419,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 537524,
+      "num": 537524,
+      "word": "3人操纵股价被罚没6.6亿",
+      "onboard_time": 1705212691,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 518694,
       "num": 289232,
       "word": "女性一生真的只有400颗卵子吗",
@@ -451,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 487649,
-      "num": 487649,
-      "word": "3人操纵股价被罚没6.6亿",
-      "onboard_time": 1705212691,
-      "rank": 17,
-      "category": "财经"
+      "raw_hot": 496894,
+      "num": 147826,
+      "word": "广州全裸男子持剪刀刺伤女子",
+      "onboard_time": 1705215450,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 484261,
@@ -465,6 +505,14 @@
       "onboard_time": 1705204411,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 481533,
+      "num": 281812,
+      "word": "林一刘浩存双人舞",
+      "onboard_time": 1705215390,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 478136,
@@ -659,14 +707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 321153,
-      "num": 287733,
-      "word": "脱轨",
-      "onboard_time": 1705209450,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 319598,
       "num": 241224,
       "word": "微博之夜翻牌 身高测量器",
@@ -715,7 +755,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 296436,
+      "raw_hot": 301568,
       "num": 201737,
       "word": "上岸第一剑为什么总是挥向爱情",
       "onboard_time": 1705212150,
@@ -1011,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194851,
+      "num": 146542,
+      "word": "中国女兵入伍前美入伍后飒",
+      "onboard_time": 1705215450,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 193879,
       "num": 193879,
       "word": "科目三的风吹到了曾黎",
@@ -1024,6 +1072,22 @@
       "word": "张凌赫张婧仪合照",
       "onboard_time": 1705208488,
       "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190712,
+      "num": 146393,
+      "word": "至少看过3遍以上的宝藏电影",
+      "onboard_time": 1705215089,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 187070,
+      "num": 146329,
+      "word": "虞书欣檀健次热聊",
+      "onboard_time": 1705215030,
+      "rank": 33,
       "category": "作品衍生"
     },
     {
@@ -1139,14 +1203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165520,
-      "num": 165520,
-      "word": "2024央视春晚彩排",
-      "onboard_time": 1705214011,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161930,
       "num": 161930,
       "word": "国考调剂",
@@ -1195,12 +1251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147960,
+      "num": 147960,
+      "word": "她是蔡磊最坚强的后盾",
+      "onboard_time": 1705215689,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 144084,
       "num": 144084,
       "word": "国乒包揽五项冠军",
       "onboard_time": 1705193430,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140630,
+      "num": 140630,
+      "word": "雷佳音看热闹来了",
+      "onboard_time": 1705215990,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139161,
@@ -1252,7 +1324,7 @@
     },
     {
       "raw_hot": 135299,
-      "num": 135299,
+      "num": 146158,
       "word": "给小朋友零花钱是必要的",
       "onboard_time": 1705214069,
       "rank": 44,
@@ -1265,6 +1337,30 @@
       "onboard_time": 1705190967,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128343,
+      "num": 128343,
+      "word": "高端水果价格逐渐亲民",
+      "onboard_time": 1705216172,
+      "rank": 37,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 127686,
+      "num": 125777,
+      "word": "一天在backseat里分手几十次",
+      "onboard_time": 1705215507,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 126929,
+      "num": 126929,
+      "word": "胶囊不能用热水送服",
+      "onboard_time": 1705215930,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 125028,
@@ -1315,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114333,
+      "num": 116385,
+      "word": "Tarzan韩服第一",
+      "onboard_time": 1705214972,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107472,
       "num": 196353,
       "word": "乌克兰空军称俄军发动导弹袭击",
@@ -1337,6 +1441,14 @@
       "onboard_time": 1705205128,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96445,
+      "num": 115919,
+      "word": "山西大同现雪雕云冈石窟",
+      "onboard_time": 1705215269,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 79597,
