@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/14 22:34:04
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/14 23:17:13
 </p>
 </blockquote>
 <p>
@@ -1701,6 +1701,12 @@ A先生 胡歌的脸（热度：1234335）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2336%E5%85%83%E6%88%90%E6%9C%AC%E4%B8%80%E9%94%85%E5%81%9A%E5%87%BA%E4%BA%8610%E9%81%93%E8%8F%9C%23" target="weibo">
+36元成本一锅做出了10道菜（热度：1230452）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9C%AA%E6%BB%A119%E5%B2%81%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23" target="weibo">
 女生未满19岁确诊卵巢早衰（热度：1230202）
 </a>
@@ -1805,12 +1811,6 @@ A先生 胡歌的脸（热度：1234335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9F%B3%E6%9C%89%E4%B8%80%E4%B8%AA3%E5%B2%81%E5%A5%B3%E5%84%BF%23" target="weibo">
 王石有一个3岁女儿（热度：1200317）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E5%B1%95%E7%A4%BA%E7%99%BE%E4%B8%87%E5%B8%9D%E7%8E%8B%E7%BB%BF%E7%BF%A1%E7%BF%A0%E6%89%8B%E6%BB%91%E6%8E%89%E6%B2%B3%E9%87%8C%23" target="weibo">
-主播展示百万帝王绿翡翠手滑掉河里（热度：1196444）
 </a>
 </li>
 
