@@ -1,6 +1,6 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705274338659,
+  "endTime": 1705275258620,
   "band_list": [
     {
       "raw_hot": 1322795,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 683816,
+      "num": 683816,
+      "word": "东航回应乘客买票付6000多退款仅269元",
+      "onboard_time": 1705251264,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627060,
       "num": 627060,
       "word": "36元成本一锅做出了10道菜",
@@ -57,6 +65,14 @@
       "onboard_time": 1705244615,
       "rank": 6,
       "category": "美食"
+    },
+    {
+      "raw_hot": 588749,
+      "num": 165193,
+      "word": "涉嫌杀害华人妻子好莱坞富二代拒不认罪",
+      "onboard_time": 1705266313,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546342,
@@ -75,14 +91,6 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 535320,
-      "num": 535320,
-      "word": "东航回应乘客买票付6000多退款仅269元",
-      "onboard_time": 1705251264,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 511575,
       "num": 511575,
       "word": "难怪玲子这次不来了",
@@ -91,11 +99,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 488146,
-      "num": 139600,
-      "word": "涉嫌杀害华人妻子好莱坞富二代拒不认罪",
-      "onboard_time": 1705266313,
-      "rank": 30,
+      "raw_hot": 392435,
+      "num": 392435,
+      "word": "官方回应文化墙被吐槽像灵堂",
+      "onboard_time": 1705269135,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -129,14 +137,6 @@
       "onboard_time": 1705246772,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311154,
-      "num": 311154,
-      "word": "官方回应文化墙被吐槽像灵堂",
-      "onboard_time": 1705269135,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289215,
@@ -195,7 +195,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168833,
+      "raw_hot": 180667,
+      "num": 180667,
+      "word": "黄晓明李冰冰一起走红毯",
+      "onboard_time": 1705259416,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179166,
       "num": 168833,
       "word": "生个娃养到3岁20万够吗",
       "onboard_time": 1705238494,
@@ -211,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161277,
+      "num": 161277,
+      "word": "皇马夺得西超杯冠军",
+      "onboard_time": 1705274303,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157166,
       "num": 157166,
       "word": "儿媳称公公频繁干涉夫妻生活",
@@ -224,14 +240,6 @@
       "word": "秦岚收到李一桐的蜘蛛",
       "onboard_time": 1705241855,
       "rank": 26,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 156263,
-      "num": 156263,
-      "word": "黄晓明李冰冰一起走红毯",
-      "onboard_time": 1705259416,
-      "rank": 46,
       "category": "作品衍生"
     },
     {
@@ -283,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125154,
+      "num": 108159,
+      "word": "应届生当上班主任之后",
+      "onboard_time": 1705275021,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124209,
       "num": 124209,
       "word": "考试最后一个考场 诸神黄昏",
@@ -297,14 +313,6 @@
       "onboard_time": 1705244976,
       "rank": 33,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 110984,
-      "num": 110984,
-      "word": "皇马夺得西超杯冠军",
-      "onboard_time": 1705274303,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 110195,
@@ -345,6 +353,22 @@
       "onboard_time": 1705243416,
       "rank": 36,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 88691,
+      "num": 88691,
+      "word": "重庆文旅放大招了",
+      "onboard_time": 1705273280,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 86019,
+      "num": 86019,
+      "word": "张小斐 给你们看我姐可爱吗",
+      "onboard_time": 1705227451,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 85743,
@@ -395,12 +419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77387,
-      "num": 77387,
-      "word": "重庆文旅放大招了",
-      "onboard_time": 1705273280,
-      "rank": 24,
-      "category": "旅游"
+      "raw_hot": 80331,
+      "num": 80331,
+      "word": "奥沙利文大师赛第八冠",
+      "onboard_time": 1705274241,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 77077,
@@ -409,14 +433,6 @@
       "onboard_time": 1705242872,
       "rank": 45,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 76184,
-      "num": 76184,
-      "word": "张小斐 给你们看我姐可爱吗",
-      "onboard_time": 1705227451,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 76119,
@@ -435,12 +451,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72154,
+      "raw_hot": 75097,
+      "num": 75097,
+      "word": "西班牙超级杯",
+      "onboard_time": 1705274482,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72716,
       "num": 85443,
       "word": "冰雕师傅零下27度跪地脱手套雕刻",
       "onboard_time": 1705246414,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67350,
+      "num": 67350,
+      "word": "狗狗在烧烤架下烫个了发型",
+      "onboard_time": 1705238072,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 67153,
@@ -449,6 +481,14 @@
       "onboard_time": 1705271414,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66355,
+      "num": 66355,
+      "word": "活塞奇才交易",
+      "onboard_time": 1705274663,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 65449,
@@ -475,20 +515,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 55662,
+      "num": 55662,
+      "word": "饿了么否认字节洽购",
+      "onboard_time": 1705274721,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 53677,
+      "num": 53677,
+      "word": "浑身痒痒肉的小金毛",
+      "onboard_time": 1705274663,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 53492,
+      "num": 53492,
+      "word": "在杭州做美缝真的能月入三四万吗",
+      "onboard_time": 1705266254,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51256,
       "num": 51256,
       "word": "刘涛刘宇宁合唱嘉宾",
       "onboard_time": 1705251264,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 50429,
-      "num": 50429,
-      "word": "在杭州做美缝真的能月入三四万吗",
-      "onboard_time": 1705266254,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50376,
@@ -499,6 +555,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 45561,
+      "num": 45561,
+      "word": "天舟七号船箭组合体转运发射区",
+      "onboard_time": 1705275144,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45191,
       "num": 45191,
       "word": "曾舜晞围巾 全部远离我",
@@ -507,28 +571,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 44294,
-      "num": 44294,
-      "word": "狗狗在烧烤架下烫个了发型",
-      "onboard_time": 1705238072,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 44206,
       "num": 44206,
       "word": "河北文旅争卷王卷哭剪辑",
       "onboard_time": 1705250485,
       "rank": 43,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 37305,
-      "num": 37305,
-      "word": "奥沙利文大师赛第八冠",
-      "onboard_time": 1705274241,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 35216,
@@ -547,6 +595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 28086,
+      "num": 667167,
+      "word": "神十七乘组空间站吃播健身上新",
+      "onboard_time": 1705234891,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24520,
       "num": 24520,
       "word": "肖战感言好走心",
@@ -561,14 +617,6 @@
       "onboard_time": 1705256355,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 24037,
-      "num": 667167,
-      "word": "神十七乘组空间站吃播健身上新",
-      "onboard_time": 1705234891,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23039,

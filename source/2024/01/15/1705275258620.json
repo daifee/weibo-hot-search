@@ -1,0 +1,410 @@
+{
+  "runTime": 1705275258620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 683816,
+        "num": 683816,
+        "word": "东航回应乘客买票付6000多退款仅269元",
+        "onboard_time": 1705251264,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499889,
+        "num": 499889,
+        "word": "被哈尔滨12一盘的菜量震慑住了",
+        "onboard_time": 1705244615,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 28086,
+        "num": 420587,
+        "word": "神十七乘组空间站吃播健身上新",
+        "onboard_time": 1705234891,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392435,
+        "num": 392435,
+        "word": "官方回应文化墙被吐槽像灵堂",
+        "onboard_time": 1705269135,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355793,
+        "num": 355793,
+        "word": "女生在731部队罪证陈列馆外送暖宝宝",
+        "onboard_time": 1705242515,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345726,
+        "num": 345726,
+        "word": "难怪玲子这次不来了",
+        "onboard_time": 1705212030,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292023,
+        "num": 292023,
+        "word": "佘诗曼三料视后",
+        "onboard_time": 1705245872,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191879,
+        "num": 191879,
+        "word": "各地文旅局都疯了",
+        "onboard_time": 1705233691,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 180667,
+        "num": 180667,
+        "word": "黄晓明李冰冰一起走红毯",
+        "onboard_time": 1705259416,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165209,
+        "num": 165209,
+        "word": "白冰首播",
+        "onboard_time": 1705237532,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 588749,
+        "num": 165193,
+        "word": "涉嫌杀害华人妻子好莱坞富二代拒不认罪",
+        "onboard_time": 1705266313,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421637,
+        "num": 163689,
+        "word": "李现瘦了十几斤的秘密",
+        "onboard_time": 1705243598,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247936,
+        "num": 163041,
+        "word": "18岁坠河身亡男孩家属不同意尸检",
+        "onboard_time": 1705235371,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221099,
+        "num": 162086,
+        "word": "于正说祝绪丹开拍前辞演",
+        "onboard_time": 1705224451,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161277,
+        "num": 161277,
+        "word": "皇马夺得西超杯冠军",
+        "onboard_time": 1705274303,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151104,
+        "num": 151104,
+        "word": "娜扎身材管理",
+        "onboard_time": 1705238494,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144558,
+        "num": 144558,
+        "word": "马伊琍 果然互联网是有记忆的",
+        "onboard_time": 1705223069,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141045,
+        "num": 141045,
+        "word": "36元成本一锅做出了10道菜",
+        "onboard_time": 1705242515,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138977,
+        "num": 138977,
+        "word": "对视 精神接吻",
+        "onboard_time": 1705243893,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111126,
+        "num": 111126,
+        "word": "朋友太多抑郁的可能性会变高",
+        "onboard_time": 1705241739,
+        "rank": 19,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 179166,
+        "num": 110259,
+        "word": "生个娃养到3岁20万够吗",
+        "onboard_time": 1705238494,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145398,
+        "num": 108435,
+        "word": "儿媳称公公频繁干涉夫妻生活",
+        "onboard_time": 1705209510,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125154,
+        "num": 108159,
+        "word": "应届生当上班主任之后",
+        "onboard_time": 1705275021,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104002,
+        "num": 104002,
+        "word": "肖战宣传家乡重庆",
+        "onboard_time": 1705246772,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102713,
+        "num": 102713,
+        "word": "GAI 五年后再给王鹤棣续SVIP",
+        "onboard_time": 1705241739,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88691,
+        "num": 88691,
+        "word": "重庆文旅放大招了",
+        "onboard_time": 1705273280,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 88257,
+        "num": 88257,
+        "word": "壶鱼辣椒 抄袭",
+        "onboard_time": 1705235670,
+        "rank": 26,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 86019,
+        "num": 86019,
+        "word": "张小斐 给你们看我姐可爱吗",
+        "onboard_time": 1705227451,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80331,
+        "num": 80331,
+        "word": "奥沙利文大师赛第八冠",
+        "onboard_time": 1705274241,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79803,
+        "num": 79803,
+        "word": "汤泡饭为什么不能经常吃",
+        "onboard_time": 1705236331,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76819,
+        "num": 76819,
+        "word": "上市公司遭电诈9000万",
+        "onboard_time": 1705234530,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 75366,
+        "num": 75366,
+        "word": "你愿意办极简婚礼吗",
+        "onboard_time": 1705243834,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75097,
+        "num": 75097,
+        "word": "西班牙超级杯",
+        "onboard_time": 1705274482,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72716,
+        "num": 72716,
+        "word": "冰雕师傅零下27度跪地脱手套雕刻",
+        "onboard_time": 1705246414,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67350,
+        "num": 67350,
+        "word": "狗狗在烧烤架下烫个了发型",
+        "onboard_time": 1705238072,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66355,
+        "num": 66355,
+        "word": "活塞奇才交易",
+        "onboard_time": 1705274663,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62269,
+        "num": 62269,
+        "word": "陈若华恋情",
+        "onboard_time": 1705271414,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59715,
+        "num": 59715,
+        "word": "字节仍在洽购饿了么",
+        "onboard_time": 1705244976,
+        "rank": 37,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 55662,
+        "num": 55662,
+        "word": "饿了么否认字节洽购",
+        "onboard_time": 1705274721,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54187,
+        "num": 54187,
+        "word": "陈哲远带瓜子去微博之夜",
+        "onboard_time": 1705250844,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53677,
+        "num": 53677,
+        "word": "浑身痒痒肉的小金毛",
+        "onboard_time": 1705274663,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53492,
+        "num": 53492,
+        "word": "在杭州做美缝真的能月入三四万吗",
+        "onboard_time": 1705266254,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51608,
+        "num": 51608,
+        "word": "考试最后一个考场 诸神黄昏",
+        "onboard_time": 1705245693,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50590,
+        "num": 50590,
+        "word": "王毅阐明中方关于台湾局势严正立场",
+        "onboard_time": 1705240892,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49807,
+        "num": 49807,
+        "word": "四川人你们怎么不笑了",
+        "onboard_time": 1705242392,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47683,
+        "num": 47683,
+        "word": "咒术回战结局已定",
+        "onboard_time": 1705244374,
+        "rank": 45,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 47316,
+        "num": 47316,
+        "word": "高海宁获奖佘诗曼在台下擦泪",
+        "onboard_time": 1705238914,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45561,
+        "num": 45561,
+        "word": "天舟七号船箭组合体转运发射区",
+        "onboard_time": 1705275144,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43870,
+        "num": 43870,
+        "word": "日本vs越南",
+        "onboard_time": 1705234291,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42948,
+        "num": 42948,
+        "word": "陈豪TVB视帝",
+        "onboard_time": 1705245456,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决铲除腐败问题产生的土壤和条件#"
+    }
+  }
+}
