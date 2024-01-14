@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705245433228,
+  "endTime": 1705246518400,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -33,6 +33,14 @@
       "onboard_time": 1705212030,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2719809,
+      "num": 2719809,
+      "word": "佘诗曼三料视后",
+      "onboard_time": 1705245872,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2536907,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1728461,
-      "num": 542418,
+      "num": 548163,
       "word": "壶鱼辣椒 抄袭",
       "onboard_time": 1705235670,
       "rank": 13,
@@ -155,6 +163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1291477,
+      "num": 1291477,
+      "word": "36元成本一锅做出了10道菜",
+      "onboard_time": 1705242515,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1248833,
       "num": 1248833,
       "word": "马伊琍 果然互联网是有记忆的",
@@ -169,14 +185,6 @@
       "onboard_time": 1705220071,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1230452,
-      "num": 1230452,
-      "word": "36元成本一锅做出了10道菜",
-      "onboard_time": 1705242515,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 1228247,
@@ -203,20 +211,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1155228,
+      "num": 550780,
+      "word": "李现瘦了十几斤的秘密",
+      "onboard_time": 1705243598,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1152866,
       "num": 928912,
       "word": "宋轶的腰",
       "onboard_time": 1705214731,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1111651,
-      "num": 537308,
-      "word": "李现瘦了十几斤的秘密",
-      "onboard_time": 1705243598,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1095666,
@@ -353,6 +361,14 @@
       "onboard_time": 1705202133,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 904323,
+      "num": 904323,
+      "word": "对视 精神接吻",
+      "onboard_time": 1705243893,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 870334,
@@ -747,14 +763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 540984,
-      "num": 540984,
-      "word": "对视 精神接吻",
-      "onboard_time": 1705243893,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 537524,
       "num": 537524,
       "word": "3人操纵股价被罚没6.6亿",
@@ -769,6 +777,14 @@
       "onboard_time": 1705218931,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 525583,
+      "num": 525583,
+      "word": "陈豪TVB视帝",
+      "onboard_time": 1705245456,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 524333,
@@ -955,6 +971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 429589,
+      "num": 429589,
+      "word": "被哈尔滨12一盘的菜量震慑住了",
+      "onboard_time": 1705244615,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 422752,
       "num": 422752,
       "word": "王楚钦说和莎莎学会了坚持",
@@ -1028,7 +1052,7 @@
     },
     {
       "raw_hot": 373479,
-      "num": 537439,
+      "num": 552778,
       "word": "王毅阐明中方关于台湾局势严正立场",
       "onboard_time": 1705240892,
       "rank": 19,
@@ -1091,6 +1115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 349633,
+      "num": 349633,
+      "word": "阿佘 历史话我想你了",
+      "onboard_time": 1705242695,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 343175,
       "num": 343175,
       "word": "武磊射门踢空",
@@ -1115,27 +1147,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 334552,
-      "num": 227042,
-      "word": "被哈尔滨12一盘的菜量震慑住了",
-      "onboard_time": 1705244615,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 329030,
       "num": 266475,
       "word": "胡歌一手牵唐嫣一手牵辛芷蕾",
       "onboard_time": 1705155831,
       "rank": 35,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 321708,
-      "num": 321708,
-      "word": "阿佘 历史话我想你了",
-      "onboard_time": 1705242695,
-      "rank": 41,
       "category": "作品衍生"
     },
     {
@@ -1867,6 +1883,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184632,
+      "num": 184632,
+      "word": "字节仍在洽购饿了么",
+      "onboard_time": 1705244976,
+      "rank": 34,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 183644,
+      "num": 183644,
+      "word": "咒术回战结局已定",
+      "onboard_time": 1705244374,
+      "rank": 35,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 181828,
       "num": 181828,
       "word": "孙颖莎说混双夺冠是最好的肯定",
@@ -1897,14 +1929,6 @@
       "onboard_time": 1705225829,
       "rank": 4,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 179441,
-      "num": 179441,
-      "word": "字节仍在洽购饿了么",
-      "onboard_time": 1705244976,
-      "rank": 34,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 178935,
@@ -2009,14 +2033,6 @@
       "onboard_time": 1705209871,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168624,
-      "num": 168624,
-      "word": "咒术回战结局已定",
-      "onboard_time": 1705244374,
-      "rank": 35,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 168498,
@@ -2387,6 +2403,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 128193,
+      "num": 128193,
+      "word": "考试最后一个考场 诸神黄昏",
+      "onboard_time": 1705245693,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127686,
       "num": 125777,
       "word": "一天在backseat里分手几十次",
@@ -2635,6 +2659,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 99350,
+      "num": 99350,
+      "word": "全家猫的嘴替",
+      "onboard_time": 1705246352,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98814,
       "num": 1266569,
       "word": "晒晒家乡隐藏款土特产",
@@ -2676,10 +2708,18 @@
     },
     {
       "raw_hot": 80222,
-      "num": 920003,
+      "num": 1106236,
       "word": "卫健委发布冬季疾病防治和健康提示",
       "onboard_time": 1705235071,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80023,
+      "num": 94555,
+      "word": "医保谈判神秘信封里的底价是这样算的",
+      "onboard_time": 1705246472,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

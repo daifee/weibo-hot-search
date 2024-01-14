@@ -1,0 +1,410 @@
+{
+  "runTime": 1705246518400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2719809,
+        "num": 2719809,
+        "word": "佘诗曼三料视后",
+        "onboard_time": 1705245872,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1291477,
+        "num": 1291477,
+        "word": "36元成本一锅做出了10道菜",
+        "onboard_time": 1705242515,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 64908,
+        "num": 1106236,
+        "word": "卫健委发布冬季疾病防治和健康提示",
+        "onboard_time": 1705235071,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045543,
+        "num": 1045543,
+        "word": "女生在731部队罪证陈列馆外送暖宝宝",
+        "onboard_time": 1705242515,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904323,
+        "num": 904323,
+        "word": "对视 精神接吻",
+        "onboard_time": 1705243893,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 727653,
+        "num": 727653,
+        "word": "难怪玲子这次不来了",
+        "onboard_time": 1705212030,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 610340,
+        "num": 610340,
+        "word": "GAI 五年后再给王鹤棣续SVIP",
+        "onboard_time": 1705241739,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 557639,
+        "num": 557639,
+        "word": "汤泡饭为什么不能经常吃",
+        "onboard_time": 1705236331,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 553835,
+        "num": 553835,
+        "word": "2023TVB颁奖礼",
+        "onboard_time": 1705236451,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232560,
+        "num": 552778,
+        "word": "王毅阐明中方关于台湾局势严正立场",
+        "onboard_time": 1705240892,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1155228,
+        "num": 550780,
+        "word": "李现瘦了十几斤的秘密",
+        "onboard_time": 1705243598,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 860771,
+        "num": 548163,
+        "word": "壶鱼辣椒 抄袭",
+        "onboard_time": 1705235670,
+        "rank": 11,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 743488,
+        "num": 545896,
+        "word": "于正说祝绪丹开拍前辞演",
+        "onboard_time": 1705224451,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543432,
+        "num": 543432,
+        "word": "白冰首播",
+        "onboard_time": 1705237532,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 525583,
+        "num": 525583,
+        "word": "陈豪TVB视帝",
+        "onboard_time": 1705245456,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500615,
+        "num": 500615,
+        "word": "娜扎身材管理",
+        "onboard_time": 1705238494,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 460779,
+        "num": 460779,
+        "word": "18岁坠河身亡男孩家属不同意尸检",
+        "onboard_time": 1705235371,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443786,
+        "num": 443786,
+        "word": "各地文旅局都疯了",
+        "onboard_time": 1705233691,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 429589,
+        "num": 429589,
+        "word": "被哈尔滨12一盘的菜量震慑住了",
+        "onboard_time": 1705244615,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 222588,
+        "num": 391680,
+        "word": "上市公司遭电诈9000万",
+        "onboard_time": 1705234530,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 387016,
+        "num": 387016,
+        "word": "佘诗曼获马来西亚最喜爱TVB女主角",
+        "onboard_time": 1705240835,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385146,
+        "num": 385146,
+        "word": "朋友太多抑郁的可能性会变高",
+        "onboard_time": 1705241739,
+        "rank": 21,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 350535,
+        "num": 350535,
+        "word": "秦岚收到李一桐的蜘蛛",
+        "onboard_time": 1705241855,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349633,
+        "num": 349633,
+        "word": "阿佘 历史话我想你了",
+        "onboard_time": 1705242695,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259861,
+        "num": 301928,
+        "word": "生个娃养到3岁20万够吗",
+        "onboard_time": 1705238494,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293456,
+        "num": 293456,
+        "word": "黄宗泽获大湾区最喜爱TVB男主角",
+        "onboard_time": 1705241975,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268964,
+        "num": 268964,
+        "word": "马伊琍 果然互联网是有记忆的",
+        "onboard_time": 1705223069,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241188,
+        "num": 241188,
+        "word": "李宇春谢谢李冰冰黄渤黄晓明",
+        "onboard_time": 1705239756,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239587,
+        "num": 239587,
+        "word": "儿媳称公公频繁干涉夫妻生活",
+        "onboard_time": 1705209510,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141298,
+        "num": 223298,
+        "word": "重庆文旅开始急了",
+        "onboard_time": 1705229251,
+        "rank": 29,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 222136,
+        "num": 222136,
+        "word": "经常睡不好可能是缺乏维生素D",
+        "onboard_time": 1705218931,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196855,
+        "num": 196855,
+        "word": "你愿意办极简婚礼吗",
+        "onboard_time": 1705243834,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184632,
+        "num": 184632,
+        "word": "字节仍在洽购饿了么",
+        "onboard_time": 1705244976,
+        "rank": 32,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 183644,
+        "num": 183644,
+        "word": "咒术回战结局已定",
+        "onboard_time": 1705244374,
+        "rank": 33,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 158980,
+        "num": 158980,
+        "word": "李现生图",
+        "onboard_time": 1705243177,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158524,
+        "num": 158524,
+        "word": "米兰Prada秀场",
+        "onboard_time": 1705242872,
+        "rank": 35,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 142934,
+        "num": 142934,
+        "word": "薛之谦被歌迷喊加班",
+        "onboard_time": 1705243054,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140824,
+        "num": 140824,
+        "word": "游客曝茶马古道旅行社强制体验骑马",
+        "onboard_time": 1705243416,
+        "rank": 37,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 121901,
+        "num": 140797,
+        "word": "日本vs越南",
+        "onboard_time": 1705234291,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104808,
+        "num": 140792,
+        "word": "丹麦女王正式退位",
+        "onboard_time": 1705240174,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 140788,
+        "num": 140788,
+        "word": "四川人你们怎么不笑了",
+        "onboard_time": 1705242392,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140441,
+        "num": 140441,
+        "word": "安心失去双腿后的平静",
+        "onboard_time": 1705242634,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134632,
+        "num": 134632,
+        "word": "于正 吴宣仪是临时救场",
+        "onboard_time": 1705219529,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129478,
+        "num": 129478,
+        "word": "央视评许嵩新歌",
+        "onboard_time": 1705231409,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128193,
+        "num": 128193,
+        "word": "考试最后一个考场 诸神黄昏",
+        "onboard_time": 1705245693,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126707,
+        "num": 126707,
+        "word": "狗狗在烧烤架下烫个了发型",
+        "onboard_time": 1705238072,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103424,
+        "num": 103424,
+        "word": "Meta承认使用盗版书籍训练AI",
+        "onboard_time": 1705240114,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99350,
+        "num": 99350,
+        "word": "全家猫的嘴替",
+        "onboard_time": 1705246352,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94926,
+        "num": 94926,
+        "word": "赵继伟 运动还是有好处的",
+        "onboard_time": 1705244794,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80023,
+        "num": 94555,
+        "word": "医保谈判神秘信封里的底价是这样算的",
+        "onboard_time": 1705246472,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持党的绝对领导忠诚履职担当作为#"
+    }
+  }
+}
