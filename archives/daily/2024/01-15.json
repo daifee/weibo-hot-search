@@ -1,6 +1,6 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705260835658,
+  "endTime": 1705263499950,
   "band_list": [
     {
       "raw_hot": 1322795,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66311,
+      "num": 66311,
+      "word": "黄晓明李冰冰一起走红毯",
+      "onboard_time": 1705259416,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 65449,
       "num": 72916,
       "word": "张大仙直播王者",
@@ -465,14 +473,6 @@
       "onboard_time": 1705238072,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 29885,
-      "num": 29885,
-      "word": "黄晓明李冰冰一起走红毯",
-      "onboard_time": 1705259416,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 29542,
