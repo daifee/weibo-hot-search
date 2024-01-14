@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/14 22:15:34
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/14 22:34:04
 </p>
 </blockquote>
 <p>
@@ -1533,6 +1533,12 @@ iPhone16Pro渲染图曝光（热度：1381638）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%B3%A1%E9%A5%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E7%BB%8F%E5%B8%B8%E5%90%83%23" target="weibo">
+汤泡饭为什么不能经常吃（热度：1301663）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E4%B8%8A%E5%8D%87%E8%87%B3103%E4%BA%BA%23" target="weibo">
 伊朗爆炸事件死亡人数上升至103人（热度：1298550）
 </a>
@@ -1805,12 +1811,6 @@ A先生 胡歌的脸（热度：1234335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E5%B1%95%E7%A4%BA%E7%99%BE%E4%B8%87%E5%B8%9D%E7%8E%8B%E7%BB%BF%E7%BF%A1%E7%BF%A0%E6%89%8B%E6%BB%91%E6%8E%89%E6%B2%B3%E9%87%8C%23" target="weibo">
 主播展示百万帝王绿翡翠手滑掉河里（热度：1196444）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%20%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%23" target="weibo">
-南方小土豆 刻板印象（热度：1195515）
 </a>
 </li>
 

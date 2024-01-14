@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705241734794,
+  "endTime": 1705242844821,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1301663,
+      "num": 1301663,
+      "word": "汤泡饭为什么不能经常吃",
+      "onboard_time": 1705236331,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1248833,
       "num": 1248833,
       "word": "马伊琍 果然互联网是有记忆的",
@@ -185,14 +193,6 @@
       "onboard_time": 1705157389,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1194166,
-      "num": 1194166,
-      "word": "汤泡饭为什么不能经常吃",
-      "onboard_time": 1705236331,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 1152866,
@@ -243,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1051960,
+      "num": 1051960,
+      "word": "白冰首播",
+      "onboard_time": 1705237532,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1049177,
       "num": 978512,
       "word": "外交部发言人就台湾选举答记者问",
@@ -289,14 +297,6 @@
       "onboard_time": 1705233990,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 939407,
-      "num": 939407,
-      "word": "白冰首播",
-      "onboard_time": 1705237532,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 937674,
@@ -371,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 815304,
+      "num": 527393,
+      "word": "娜扎身材管理",
+      "onboard_time": 1705238494,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 800210,
       "num": 800210,
       "word": "至少看过3遍以上的宝藏电影",
@@ -433,14 +441,6 @@
       "onboard_time": 1705236631,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 747920,
-      "num": 502244,
-      "word": "娜扎身材管理",
-      "onboard_time": 1705238494,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 732185,
@@ -643,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 589876,
+      "num": 589876,
+      "word": "2023TVB颁奖礼",
+      "onboard_time": 1705236451,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 588925,
       "num": 588925,
       "word": "秦岚裙子的衩开到我心口",
@@ -683,14 +691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 556127,
-      "num": 556127,
-      "word": "2023TVB颁奖礼",
-      "onboard_time": 1705236451,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 550843,
       "num": 550843,
       "word": "上市公司遭电诈9000万",
@@ -723,6 +723,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 528444,
+      "num": 528444,
+      "word": "经常睡不好可能是缺乏维生素D",
+      "onboard_time": 1705218931,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 527317,
+      "num": 527317,
+      "word": "GAI 五年后再给王鹤棣续SVIP",
+      "onboard_time": 1705241739,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 524333,
       "num": 524333,
       "word": "重庆文旅开始急了",
@@ -739,6 +755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 510863,
+      "num": 510863,
+      "word": "佘诗曼获马来西亚最喜爱TVB女主角",
+      "onboard_time": 1705240835,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 510214,
       "num": 510214,
       "word": "2024国考分数线出炉",
@@ -747,12 +771,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 506823,
-      "num": 506823,
-      "word": "经常睡不好可能是缺乏维生素D",
-      "onboard_time": 1705218931,
-      "rank": 26,
-      "category": "健康医疗"
+      "raw_hot": 504257,
+      "num": 364777,
+      "word": "生个娃养到3岁20万够吗",
+      "onboard_time": 1705238494,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 504244,
@@ -843,14 +867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 461487,
-      "num": 364777,
-      "word": "生个娃养到3岁20万够吗",
-      "onboard_time": 1705238494,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 456040,
       "num": 417479,
       "word": "微博之夜互送礼物拉表",
@@ -899,14 +915,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 427107,
-      "num": 427107,
-      "word": "佘诗曼获马来西亚最喜爱TVB女主角",
-      "onboard_time": 1705240835,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 422752,
       "num": 422752,
       "word": "王楚钦说和莎莎学会了坚持",
@@ -936,6 +944,14 @@
       "word": "周也给每对CP一个家",
       "onboard_time": 1705198772,
       "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 407088,
+      "num": 407088,
+      "word": "秦岚收到李一桐的蜘蛛",
+      "onboard_time": 1705241855,
+      "rank": 17,
       "category": "作品衍生"
     },
     {
@@ -969,6 +985,14 @@
       "onboard_time": 1705164511,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373479,
+      "num": 528339,
+      "word": "王毅阐明中方关于台湾局势严正立场",
+      "onboard_time": 1705240892,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 373056,
@@ -1091,6 +1115,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316679,
+      "num": 316679,
+      "word": "黄宗泽获大湾区最喜爱TVB男主角",
+      "onboard_time": 1705241975,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 316217,
+      "num": 316217,
+      "word": "朋友太多抑郁的可能性会变高",
+      "onboard_time": 1705241739,
+      "rank": 24,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 314402,
       "num": 287337,
       "word": "木菟拍的赵露思",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1705151572,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 295155,
+      "num": 195376,
+      "word": "36元成本一锅做出了10道菜",
+      "onboard_time": 1705242515,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 294922,
@@ -1289,14 +1337,6 @@
       "onboard_time": 1705224093,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 261441,
-      "num": 369378,
-      "word": "王毅阐明中方关于台湾局势严正立场",
-      "onboard_time": 1705240892,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 260346,
@@ -2147,6 +2187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 136703,
+      "num": 136703,
+      "word": "四川人你们怎么不笑了",
+      "onboard_time": 1705242392,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136386,
       "num": 136386,
       "word": "代号鸢 荤素搭配",
@@ -2267,6 +2315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124623,
+      "num": 124623,
+      "word": "阿佘 历史话我想你了",
+      "onboard_time": 1705242695,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124326,
       "num": 124326,
       "word": "国足进球被吹",
@@ -2289,6 +2345,14 @@
       "onboard_time": 1705234411,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123052,
+      "num": 123052,
+      "word": "安心失去双腿后的平静",
+      "onboard_time": 1705242634,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 122983,
@@ -2491,8 +2555,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 79614,
-      "num": 902258,
+      "raw_hot": 80222,
+      "num": 920003,
       "word": "卫健委发布冬季疾病防治和健康提示",
       "onboard_time": 1705235071,
       "rank": 2,
