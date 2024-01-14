@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705199672382,
+  "endTime": 1705200283816,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -107,12 +107,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1066173,
+      "num": 1066173,
+      "word": "热巴的蝴蝶骨",
+      "onboard_time": 1705198352,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1049177,
       "num": 978512,
       "word": "外交部发言人就台湾选举答记者问",
       "onboard_time": 1705162597,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1040338,
+      "num": 1040338,
+      "word": "尼格买提叫的是娜扎全名",
+      "onboard_time": 1705189885,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1033422,
+      "num": 1033422,
+      "word": "吴磊差点把迪丽热巴奖杯拿走了",
+      "onboard_time": 1705197751,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1031863,
@@ -123,11 +147,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1019409,
-      "num": 1019409,
-      "word": "吴磊差点把迪丽热巴奖杯拿走了",
-      "onboard_time": 1705197751,
-      "rank": 3,
+      "raw_hot": 1014196,
+      "num": 1014196,
+      "word": "田曦薇爱心痣",
+      "onboard_time": 1705198053,
+      "rank": 7,
       "category": "作品衍生"
     },
     {
@@ -147,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 884264,
-      "num": 884264,
-      "word": "尼格买提叫的是娜扎全名",
-      "onboard_time": 1705189885,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 870334,
       "num": 870334,
       "word": "张颂文回复杨紫",
@@ -171,14 +187,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 851043,
-      "num": 851043,
-      "word": "田曦薇爱心痣",
-      "onboard_time": 1705198053,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 822393,
       "num": 822393,
       "word": "迪丽热巴来了",
@@ -192,14 +200,6 @@
       "word": "热巴脚滑了",
       "onboard_time": 1705159548,
       "rank": 18,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 772048,
-      "num": 772048,
-      "word": "热巴的蝴蝶骨",
-      "onboard_time": 1705198352,
-      "rank": 8,
       "category": "作品衍生"
     },
     {
@@ -219,8 +219,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 715338,
-      "num": 715338,
+      "raw_hot": 718129,
+      "num": 718129,
       "word": "花花和谭爷爷上微博之夜",
       "onboard_time": 1705197871,
       "rank": 9,
@@ -331,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 467577,
+      "num": 453089,
+      "word": "存款 最大的底气",
+      "onboard_time": 1705197630,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 467515,
       "num": 274497,
       "word": "微博之夜 四大才子",
@@ -353,14 +361,6 @@
       "onboard_time": 1705197453,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 453089,
-      "num": 453089,
-      "word": "存款 最大的底气",
-      "onboard_time": 1705197630,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 435117,
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 411071,
+      "num": 293060,
+      "word": "周也给每对CP一个家",
+      "onboard_time": 1705198772,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 382747,
       "num": 382747,
       "word": "央视转播车已抵达西安",
@@ -409,6 +417,14 @@
       "onboard_time": 1705164511,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373184,
+      "num": 289211,
+      "word": "王鹤棣脸被泼黑了",
+      "onboard_time": 1705199255,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 366928,
@@ -456,14 +472,6 @@
       "word": "胡歌一手牵唐嫣一手牵辛芷蕾",
       "onboard_time": 1705155831,
       "rank": 35,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 328871,
-      "num": 293060,
-      "word": "周也给每对CP一个家",
-      "onboard_time": 1705198772,
-      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -515,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 282871,
+      "num": 236255,
+      "word": "十个勤天 电工",
+      "onboard_time": 1705199730,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277310,
       "num": 277310,
       "word": "为什么有些女生会长胡子",
@@ -529,14 +545,6 @@
       "onboard_time": 1705191508,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 274213,
-      "num": 274213,
-      "word": "王鹤棣脸被泼黑了",
-      "onboard_time": 1705199255,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 271066,
@@ -579,12 +587,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242706,
+      "num": 187839,
+      "word": "拜托她可是贾玲",
+      "onboard_time": 1705200090,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 235764,
       "num": 235764,
       "word": "烽火流金能不能提上来",
       "onboard_time": 1705190608,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234983,
+      "num": 234983,
+      "word": "交警一人清理垃圾突然一群人下车帮忙",
+      "onboard_time": 1705196191,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 234467,
@@ -617,14 +641,6 @@
       "onboard_time": 1705195053,
       "rank": 36,
       "category": "电竞,作品衍生"
-    },
-    {
-      "raw_hot": 218954,
-      "num": 218954,
-      "word": "交警一人清理垃圾突然一群人下车帮忙",
-      "onboard_time": 1705196191,
-      "rank": 38,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 218154,
@@ -673,6 +689,14 @@
       "onboard_time": 1705195533,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189214,
+      "num": 189214,
+      "word": "国考排名",
+      "onboard_time": 1705200090,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 181828,
