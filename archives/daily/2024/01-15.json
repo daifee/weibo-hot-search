@@ -1,6 +1,6 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705310354265,
+  "endTime": 1705311270863,
   "band_list": [
     {
       "raw_hot": 2346671,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1197524,
+      "num": 1197524,
+      "word": "全球近8亿人工资落后于通货膨胀",
+      "onboard_time": 1705305868,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1148670,
       "num": 1148670,
       "word": "瑙鲁政府宣布承认一个中国",
@@ -107,14 +115,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1129222,
-      "num": 1129222,
-      "word": "全球近8亿人工资落后于通货膨胀",
-      "onboard_time": 1705305868,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1123180,
       "num": 1123180,
       "word": "春晚第一次大彩排明星阵容",
@@ -129,6 +129,14 @@
       "onboard_time": 1705285288,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1047334,
+      "num": 1047334,
+      "word": "因为懒而得到了北京户口",
+      "onboard_time": 1705308689,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 1046789,
@@ -379,20 +387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 587024,
+      "num": 587024,
+      "word": "日本地震已致222人死亡",
+      "onboard_time": 1705310070,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564459,
       "num": 564459,
       "word": "于正回应白鹿下部剧",
       "onboard_time": 1705307847,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 562624,
-      "num": 429343,
-      "word": "因为懒而得到了北京户口",
-      "onboard_time": 1705308689,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 562195,
@@ -491,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 464372,
+      "num": 464372,
+      "word": "3年挣102万外卖骑手辟谣被打",
+      "onboard_time": 1705309888,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463987,
       "num": 463987,
       "word": "冰岛小镇流进岩浆",
@@ -528,6 +544,22 @@
       "word": "迪丽热巴 行走的油画",
       "onboard_time": 1705292074,
       "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 445652,
+      "num": 445652,
+      "word": "美国爱泼斯坦案更多细节曝光",
+      "onboard_time": 1705309407,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436813,
+      "num": 181650,
+      "word": "胡歌白敬亭微信加上了吗",
+      "onboard_time": 1705310791,
+      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -692,7 +724,7 @@
     },
     {
       "raw_hot": 333882,
-      "num": 250752,
+      "num": 271755,
       "word": "第一批回村的猫咪已经被欺负了",
       "onboard_time": 1705308450,
       "rank": 20,
@@ -713,6 +745,14 @@
       "onboard_time": 1705307368,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 324898,
+      "num": 324898,
+      "word": "儿子包机带母亲从台湾回大陆老家",
+      "onboard_time": 1705308930,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312197,
@@ -737,6 +777,14 @@
       "onboard_time": 1705277069,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293738,
+      "num": 293738,
+      "word": "和颂四美",
+      "onboard_time": 1705310248,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 289215,
@@ -795,22 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253237,
-      "num": 253237,
-      "word": "美国爱泼斯坦案更多细节曝光",
-      "onboard_time": 1705309407,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251405,
-      "num": 251405,
-      "word": "儿子包机带母亲从台湾回大陆老家",
-      "onboard_time": 1705308930,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251169,
       "num": 251169,
       "word": "能看一天一夜的那种小说",
@@ -865,6 +897,14 @@
       "onboard_time": 1705281686,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236157,
+      "num": 236157,
+      "word": "NMIXX回归",
+      "onboard_time": 1705309888,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 235919,
@@ -1011,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214726,
-      "num": 214726,
-      "word": "3年挣102万外卖骑手辟谣被打",
-      "onboard_time": 1705309888,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214650,
       "num": 214650,
       "word": "苏醒全英文接受采访",
@@ -1147,14 +1179,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 195091,
-      "num": 195091,
-      "word": "NMIXX回归",
-      "onboard_time": 1705309888,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194462,
       "num": 194462,
       "word": "阿云嘎是陈丽君的小迷弟",
@@ -1209,14 +1233,6 @@
       "onboard_time": 1705238494,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 187352,
-      "num": 187352,
-      "word": "日本地震已致222人死亡",
-      "onboard_time": 1705310070,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187000,
@@ -1611,6 +1627,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 139989,
+      "num": 139989,
+      "word": "陈若华 颠婆养不出小白花",
+      "onboard_time": 1705310130,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139848,
       "num": 212230,
       "word": "王毅阐明中方关于台湾局势严正立场",
@@ -1707,14 +1731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130469,
-      "num": 130469,
-      "word": "陈若华 颠婆养不出小白花",
-      "onboard_time": 1705310130,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129944,
       "num": 129944,
       "word": "猫猫meme",
@@ -1729,14 +1745,6 @@
       "onboard_time": 1705236451,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128976,
-      "num": 128976,
-      "word": "和颂四美",
-      "onboard_time": 1705310248,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 127604,
@@ -1777,6 +1785,22 @@
       "onboard_time": 1705244976,
       "rank": 33,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 119451,
+      "num": 119451,
+      "word": "职场带给人的一些变化",
+      "onboard_time": 1705310729,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 118166,
+      "num": 118166,
+      "word": "薛之谦 双向爱意的具象化",
+      "onboard_time": 1705308210,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 115383,
@@ -1876,7 +1900,7 @@
     },
     {
       "raw_hot": 92967,
-      "num": 922391,
+      "num": 1006401,
       "word": "当中国铁路遇上中国传统色",
       "onboard_time": 1705305447,
       "rank": 2,
