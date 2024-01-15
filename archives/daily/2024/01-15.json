@@ -1,6 +1,6 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705315074186,
+  "endTime": 1705317353792,
   "band_list": [
     {
       "raw_hot": 2346671,
@@ -33,6 +33,14 @@
       "onboard_time": 1705294173,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1903492,
+      "num": 1903492,
+      "word": "家有儿女将开拍原班人马全员回归",
+      "onboard_time": 1705315291,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1843287,
@@ -443,6 +451,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 552742,
+      "num": 552742,
+      "word": "华晨宇 我祝你幸福而不是强大",
+      "onboard_time": 1705315049,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 546342,
       "num": 376197,
       "word": "于正说祝绪丹开拍前辞演",
@@ -465,6 +481,14 @@
       "onboard_time": 1705284086,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513720,
+      "num": 513720,
+      "word": "广州W酒店将停业",
+      "onboard_time": 1705314088,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511575,
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 477623,
-      "num": 745245,
+      "num": 925087,
       "word": "儿子包机带母亲从台湾回大陆老家",
       "onboard_time": 1705308930,
       "rank": 19,
@@ -569,6 +593,14 @@
       "onboard_time": 1705309407,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440026,
+      "num": 440026,
+      "word": "苹果官网大降价可退差价",
+      "onboard_time": 1705316007,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 432470,
@@ -771,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304377,
+      "num": 304377,
+      "word": "考公结束重新拼贴了准考证",
+      "onboard_time": 1705314028,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294559,
       "num": 294559,
       "word": "王鹤棣最喜欢挂檀健次身上",
@@ -793,6 +833,14 @@
       "onboard_time": 1705238494,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287469,
+      "num": 248146,
+      "word": "恋与深空全球裸眼3D大屏",
+      "onboard_time": 1705316672,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 283278,
@@ -835,12 +883,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 262054,
-      "num": 228811,
-      "word": "广州W酒店将停业",
-      "onboard_time": 1705314088,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 259681,
+      "num": 259681,
+      "word": "杨紫回应每年都有爆剧",
+      "onboard_time": 1705316912,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 258178,
@@ -865,6 +913,14 @@
       "onboard_time": 1705292074,
       "rank": 35,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 250975,
+      "num": 250975,
+      "word": "再就业男团春晚联排",
+      "onboard_time": 1705314689,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 247698,
@@ -945,14 +1001,6 @@
       "onboard_time": 1705282828,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231338,
-      "num": 174677,
-      "word": "考公结束重新拼贴了准考证",
-      "onboard_time": 1705314028,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 230435,
@@ -1211,6 +1259,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 197051,
+      "num": 197051,
+      "word": "天官赐福 花怜",
+      "onboard_time": 1705314749,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 194462,
       "num": 194462,
       "word": "阿云嘎是陈丽君的小迷弟",
@@ -1241,6 +1297,14 @@
       "onboard_time": 1705281270,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191307,
+      "num": 191307,
+      "word": "春晚联排",
+      "onboard_time": 1705315649,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 190598,
@@ -1355,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182119,
+      "num": 182119,
+      "word": "恋与深空寻人启事",
+      "onboard_time": 1705315410,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182102,
       "num": 182102,
       "word": "大叔冰面上手劈通道救人双臂鲜血淋漓",
@@ -1376,6 +1448,14 @@
       "word": "黄晓明李冰冰一起走红毯",
       "onboard_time": 1705259416,
       "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180072,
+      "num": 168676,
+      "word": "周深模仿周迅好多人啊",
+      "onboard_time": 1705317212,
+      "rank": 31,
       "category": "作品衍生"
     },
     {
@@ -1459,6 +1539,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170497,
+      "num": 170497,
+      "word": "爱吃辣的人或收获4大好处",
+      "onboard_time": 1705315950,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168790,
+      "num": 578702,
+      "word": "大熊猫临近下班哐哐敲门等不了",
+      "onboard_time": 1705316551,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167989,
       "num": 167989,
       "word": "于文文回应陈哲远送瓜子",
@@ -1505,14 +1601,6 @@
       "onboard_time": 1705281450,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161282,
-      "num": 161282,
-      "word": "再就业男团春晚联排",
-      "onboard_time": 1705314689,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 161277,
@@ -1571,6 +1659,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 153395,
+      "num": 153395,
+      "word": "杭州LGD挂牌六人",
+      "onboard_time": 1705316489,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153034,
       "num": 153034,
       "word": "阿佘 历史话我想你了",
@@ -1625,14 +1721,6 @@
       "onboard_time": 1705313909,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149356,
-      "num": 149356,
-      "word": "天官赐福 花怜",
-      "onboard_time": 1705314749,
-      "rank": 41,
-      "category": "动漫"
     },
     {
       "raw_hot": 149065,
@@ -1779,6 +1867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138724,
+      "num": 138724,
+      "word": "有人问你了吗",
+      "onboard_time": 1705317087,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138353,
       "num": 1006401,
       "word": "当中国铁路遇上中国传统色",
@@ -1900,7 +1996,7 @@
     },
     {
       "raw_hot": 125228,
-      "num": 125228,
+      "num": 130363,
       "word": "河南185男团跟游客公主牵手合照",
       "onboard_time": 1705314330,
       "rank": 47,
@@ -1944,14 +2040,6 @@
       "word": "薛之谦 双向爱意的具象化",
       "onboard_time": 1705308210,
       "rank": 47,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 116337,
-      "num": 116337,
-      "word": "华晨宇 我祝你幸福而不是强大",
-      "onboard_time": 1705315049,
-      "rank": 49,
       "category": "演出"
     },
     {
@@ -2243,6 +2331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 59375,
+      "num": 515237,
+      "word": "魔笑表情包原型称不害怕失去关注",
+      "onboard_time": 1705316972,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55662,
       "num": 55662,
       "word": "饿了么否认字节洽购",
@@ -2336,6 +2432,14 @@
       "word": "Meta承认使用盗版书籍训练AI",
       "onboard_time": 1705240114,
       "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 26463,
+      "num": 272086,
+      "word": "在支付宝直播间囤年货囤上头",
+      "onboard_time": 1705316429,
+      "rank": 14,
       "category": "互联网"
     },
     {

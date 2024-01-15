@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705315074186,
+  "endTime": 1705317353792,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -817,6 +817,14 @@
       "onboard_time": 1705124313,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1903492,
+      "num": 1903492,
+      "word": "家有儿女将开拍原班人马全员回归",
+      "onboard_time": 1705315291,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1897679,
@@ -8843,6 +8851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 552742,
+      "num": 552742,
+      "word": "华晨宇 我祝你幸福而不是强大",
+      "onboard_time": 1705315049,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 552625,
       "num": 552625,
       "word": "纪念币 外挂",
@@ -9803,6 +9819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513720,
+      "num": 513720,
+      "word": "广州W酒店将停业",
+      "onboard_time": 1705314088,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512612,
       "num": 512612,
       "word": "郭艾伦怎么了",
@@ -10684,7 +10708,7 @@
     },
     {
       "raw_hot": 477623,
-      "num": 745245,
+      "num": 925087,
       "word": "儿子包机带母亲从台湾回大陆老家",
       "onboard_time": 1705308930,
       "rank": 19,
@@ -11625,6 +11649,14 @@
       "onboard_time": 1704263969,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440026,
+      "num": 440026,
+      "word": "苹果官网大降价可退差价",
+      "onboard_time": 1705316007,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 439900,
@@ -15659,6 +15691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 304377,
+      "num": 304377,
+      "word": "考公结束重新拼贴了准考证",
+      "onboard_time": 1705314028,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 304314,
       "num": 304314,
       "word": "杨紫李现国色芳华捧脸路透",
@@ -16465,6 +16505,14 @@
       "onboard_time": 1704439294,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287469,
+      "num": 248146,
+      "word": "恋与深空全球裸眼3D大屏",
+      "onboard_time": 1705316672,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 286967,
@@ -17659,14 +17707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262054,
-      "num": 228811,
-      "word": "广州W酒店将停业",
-      "onboard_time": 1705314088,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261792,
       "num": 162544,
       "word": "运镜跟不上黄明昊",
@@ -17801,6 +17841,14 @@
       "onboard_time": 1704765450,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259681,
+      "num": 259681,
+      "word": "杨紫回应每年都有爆剧",
+      "onboard_time": 1705316912,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 259561,
@@ -18288,6 +18336,14 @@
       "word": "王一博当队长的那些年",
       "onboard_time": 1704867031,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 250975,
+      "num": 250975,
+      "word": "再就业男团春晚联排",
+      "onboard_time": 1705314689,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -19633,14 +19689,6 @@
       "onboard_time": 1704260612,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231338,
-      "num": 174677,
-      "word": "考公结束重新拼贴了准考证",
-      "onboard_time": 1705314028,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 231172,
@@ -23243,6 +23291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197051,
+      "num": 197051,
+      "word": "天官赐福 花怜",
+      "onboard_time": 1705314749,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 196993,
       "num": 196993,
       "word": "PUBG服务器",
@@ -24081,6 +24137,14 @@
       "onboard_time": 1705208488,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191307,
+      "num": 191307,
+      "word": "春晚联排",
+      "onboard_time": 1705315649,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 191248,
@@ -25443,6 +25507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182119,
+      "num": 182119,
+      "word": "恋与深空寻人启事",
+      "onboard_time": 1705315410,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182102,
       "num": 182102,
       "word": "大叔冰面上手劈通道救人双臂鲜血淋漓",
@@ -25705,6 +25777,14 @@
       "onboard_time": 1705051410,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180072,
+      "num": 168676,
+      "word": "周深模仿周迅好多人啊",
+      "onboard_time": 1705317212,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180067,
@@ -27115,6 +27195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170497,
+      "num": 170497,
+      "word": "爱吃辣的人或收获4大好处",
+      "onboard_time": 1705315950,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170443,
       "num": 170443,
       "word": "尼欧克斯仅10人参保",
@@ -27377,6 +27465,14 @@
       "onboard_time": 1704793170,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168790,
+      "num": 578702,
+      "word": "大熊猫临近下班哐哐敲门等不了",
+      "onboard_time": 1705316551,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168732,
@@ -28409,14 +28505,6 @@
       "onboard_time": 1705281450,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161282,
-      "num": 161282,
-      "word": "再就业男团春晚联排",
-      "onboard_time": 1705314689,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 161277,
@@ -29531,6 +29619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153395,
+      "num": 153395,
+      "word": "杭州LGD挂牌六人",
+      "onboard_time": 1705316489,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153391,
       "num": 153391,
       "word": "最好笑的初雪cha出现了",
@@ -30161,14 +30257,6 @@
       "onboard_time": 1705313909,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149356,
-      "num": 149356,
-      "word": "天官赐福 花怜",
-      "onboard_time": 1705314749,
-      "rank": 41,
-      "category": "动漫"
     },
     {
       "raw_hot": 149350,
@@ -31841,6 +31929,14 @@
       "onboard_time": 1704289776,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138724,
+      "num": 138724,
+      "word": "有人问你了吗",
+      "onboard_time": 1705317087,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 138684,
@@ -34228,7 +34324,7 @@
     },
     {
       "raw_hot": 125228,
-      "num": 125228,
+      "num": 130363,
       "word": "河南185男团跟游客公主牵手合照",
       "onboard_time": 1705314330,
       "rank": 47,
@@ -35401,14 +35497,6 @@
       "onboard_time": 1704090995,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116337,
-      "num": 116337,
-      "word": "华晨宇 我祝你幸福而不是强大",
-      "onboard_time": 1705315049,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 116221,
@@ -38747,6 +38835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 59375,
+      "num": 515237,
+      "word": "魔笑表情包原型称不害怕失去关注",
+      "onboard_time": 1705316972,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59198,
       "num": 59198,
       "word": "蒯曼2比3倪夏莲",
@@ -39929,6 +40025,14 @@
       "onboard_time": 1704642390,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26463,
+      "num": 272086,
+      "word": "在支付宝直播间囤年货囤上头",
+      "onboard_time": 1705316429,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 25913,
