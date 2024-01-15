@@ -1,0 +1,410 @@
+{
+  "runTime": 1705307032564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1266461,
+        "num": 1266461,
+        "word": "瑙鲁与台湾断交",
+        "onboard_time": 1705299810,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 990960,
+        "num": 990960,
+        "word": "虞书欣回应唐嫣",
+        "onboard_time": 1705304669,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78903,
+        "num": 922391,
+        "word": "当中国铁路遇上中国传统色",
+        "onboard_time": 1705305447,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901971,
+        "num": 901971,
+        "word": "瑙鲁政府宣布承认一个中国",
+        "onboard_time": 1705302629,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 828244,
+        "num": 828244,
+        "word": "身上有老人味可能是疾病信号",
+        "onboard_time": 1705290813,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 807718,
+        "num": 807718,
+        "word": "张颂文暗示微博八百回报销",
+        "onboard_time": 1705294173,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 739362,
+        "num": 739362,
+        "word": "黄景瑜以为抽到了古董",
+        "onboard_time": 1705303228,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 613975,
+        "num": 613975,
+        "word": "我和papi酱的愿望是一样的",
+        "onboard_time": 1705302029,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 539243,
+        "num": 539243,
+        "word": "周也抽到周深送的十年微博会员",
+        "onboard_time": 1705304488,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 446439,
+        "num": 446439,
+        "word": "00后男生收破烂年入20万",
+        "onboard_time": 1705304608,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436062,
+        "num": 436062,
+        "word": "46岁知名麻醉科医生去世",
+        "onboard_time": 1705299569,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414558,
+        "num": 414558,
+        "word": "李鸿其想与王紫璇结婚",
+        "onboard_time": 1705296691,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403623,
+        "num": 403623,
+        "word": "卢昱晓 女主",
+        "onboard_time": 1705289970,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358914,
+        "num": 358914,
+        "word": "全球近8亿人工资落后于通货膨胀",
+        "onboard_time": 1705305868,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 354764,
+        "num": 354764,
+        "word": "于正 我的剧从来都是靠剧情",
+        "onboard_time": 1705285288,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352211,
+        "num": 352211,
+        "word": "中方对瑙鲁政府决定表示赞赏和欢迎",
+        "onboard_time": 1705302449,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 336640,
+        "num": 336640,
+        "word": "玲子 她是一床发潮的棉被",
+        "onboard_time": 1705295672,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330624,
+        "num": 330624,
+        "word": "易烊千玺成毅喊你来湖南",
+        "onboard_time": 1705300529,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 283278,
+        "num": 283278,
+        "word": "五福临门时间线",
+        "onboard_time": 1705303348,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245660,
+        "num": 245660,
+        "word": "90后瓦工日薪2000在省会买了房",
+        "onboard_time": 1705305749,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366645,
+        "num": 245000,
+        "word": "男子假离婚后发现孩子不是亲生的",
+        "onboard_time": 1705298250,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300400,
+        "num": 243670,
+        "word": "暧昧上头聊天记录",
+        "onboard_time": 1705299929,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255556,
+        "num": 242806,
+        "word": "唐嫣想和虞书欣双人海钓",
+        "onboard_time": 1705298008,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240645,
+        "num": 240645,
+        "word": "台湾从不是一个国家过去不是今后更不是",
+        "onboard_time": 1705297709,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 251764,
+        "num": 239436,
+        "word": "网络短剧 日本物价",
+        "onboard_time": 1705293274,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235919,
+        "num": 235919,
+        "word": "我要点51个水煎包",
+        "onboard_time": 1705303649,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219303,
+        "num": 219303,
+        "word": "苹果官网罕见大降价",
+        "onboard_time": 1705280311,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 214650,
+        "num": 214650,
+        "word": "苏醒全英文接受采访",
+        "onboard_time": 1705304908,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207614,
+        "num": 207614,
+        "word": "王一博后背贴了暖宝宝吗",
+        "onboard_time": 1705302029,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196391,
+        "num": 196391,
+        "word": "杨紫 蛋仔派对代言人",
+        "onboard_time": 1705296389,
+        "rank": 29,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 189707,
+        "num": 189707,
+        "word": "陈星旭说要屏蔽章若楠",
+        "onboard_time": 1705306108,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173587,
+        "num": 173587,
+        "word": "为啥人身上总有几根特长的毛",
+        "onboard_time": 1705291830,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172857,
+        "num": 172857,
+        "word": "春晚第一次大彩排明星阵容",
+        "onboard_time": 1705289310,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171832,
+        "num": 171832,
+        "word": "教师监考时间快速流逝法",
+        "onboard_time": 1705305987,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171753,
+        "num": 171753,
+        "word": "创造营亚洲学员官宣",
+        "onboard_time": 1705300346,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163497,
+        "num": 163497,
+        "word": "于正再回应",
+        "onboard_time": 1705283788,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161325,
+        "num": 161325,
+        "word": "方便面真是垃圾食品吗",
+        "onboard_time": 1705297950,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159682,
+        "num": 159682,
+        "word": "祝绪丹 女二",
+        "onboard_time": 1705277851,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138846,
+        "num": 138846,
+        "word": "JDG官宣新季赛大名单",
+        "onboard_time": 1705304608,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135724,
+        "num": 135724,
+        "word": "在钢琴旁笑了9年的人是谁",
+        "onboard_time": 1705298609,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156753,
+        "num": 135498,
+        "word": "张颂文抽到彭昱畅送的礼物",
+        "onboard_time": 1705303168,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155728,
+        "num": 133637,
+        "word": "魏大勋收到雷佳音送的核桃",
+        "onboard_time": 1705300410,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148657,
+        "num": 132222,
+        "word": "献血小卡",
+        "onboard_time": 1705302507,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140312,
+        "num": 130503,
+        "word": "于正妆造自认在影视界排第一",
+        "onboard_time": 1705306949,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130206,
+        "num": 130206,
+        "word": "瑙鲁是世界上最小独立共和国",
+        "onboard_time": 1705306410,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 146934,
+        "num": 130062,
+        "word": "彭昱畅收到张婧仪送的话筒",
+        "onboard_time": 1705307010,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127006,
+        "num": 127006,
+        "word": "东北女孩长啥样",
+        "onboard_time": 1705301849,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122369,
+        "num": 122369,
+        "word": "恋与深空捏脸",
+        "onboard_time": 1705297649,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113049,
+        "num": 113049,
+        "word": "iPhone16将配备8GBRAM",
+        "onboard_time": 1705289549,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109364,
+        "num": 112968,
+        "word": "当狗狗意识到主人要给它刷牙",
+        "onboard_time": 1705301069,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持稳中求进以进促稳先立后破#"
+    }
+  }
+}
