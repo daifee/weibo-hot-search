@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705342936608,
+  "endTime": 1705343712287,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -5691,20 +5691,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 33010,
+      "num": 33010,
+      "word": "吴宣仪五福临门试戏片段",
+      "onboard_time": 1705342100,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29344,
       "num": 118046,
       "word": "清清 我真的想笑",
       "onboard_time": 1705151029,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 28278,
-      "num": 28278,
-      "word": "吴宣仪五福临门试戏片段",
-      "onboard_time": 1705342100,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 24520,

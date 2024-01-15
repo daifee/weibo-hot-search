@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705342936608,
+  "endTime": 1705343712287,
   "band_list": [
     {
       "raw_hot": 842698,
@@ -427,20 +427,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 33010,
+      "num": 33010,
+      "word": "吴宣仪五福临门试戏片段",
+      "onboard_time": 1705342100,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30287,
       "num": 461227,
       "word": "空军红鹰飞行表演队最新训练大片",
       "onboard_time": 1705324293,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28278,
-      "num": 28278,
-      "word": "吴宣仪五福临门试戏片段",
-      "onboard_time": 1705342100,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 23346,

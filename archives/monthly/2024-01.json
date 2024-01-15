@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705342936608,
+  "endTime": 1705343712287,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -40675,6 +40675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33010,
+      "num": 33010,
+      "word": "吴宣仪五福临门试戏片段",
+      "onboard_time": 1705342100,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32763,
       "num": 2278074,
       "word": "聚焦中国经济圆桌会",
@@ -40769,14 +40777,6 @@
       "onboard_time": 1704647900,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 28278,
-      "num": 28278,
-      "word": "吴宣仪五福临门试戏片段",
-      "onboard_time": 1705342100,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 27976,
