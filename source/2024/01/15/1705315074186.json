@@ -1,0 +1,410 @@
+{
+  "runTime": 1705315074186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1004123,
+        "num": 1004123,
+        "word": "胡歌白敬亭微信加上了吗",
+        "onboard_time": 1705310791,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 477623,
+        "num": 745245,
+        "word": "儿子包机带母亲从台湾回大陆老家",
+        "onboard_time": 1705308930,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85451,
+        "num": 728809,
+        "word": "当中国铁路遇上中国传统色",
+        "onboard_time": 1705305447,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716761,
+        "num": 716761,
+        "word": "3年挣102万外卖骑手辟谣被打",
+        "onboard_time": 1705309888,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326026,
+        "num": 652021,
+        "word": "90后瓦工日薪2000在省会买了房",
+        "onboard_time": 1705305749,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608602,
+        "num": 608602,
+        "word": "身上有老人味可能是疾病信号",
+        "onboard_time": 1705290813,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162813,
+        "num": 526731,
+        "word": "萌兰在线召唤搓澡师傅",
+        "onboard_time": 1705311511,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488407,
+        "num": 488407,
+        "word": "全球近8亿人工资落后于通货膨胀",
+        "onboard_time": 1705305868,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 454455,
+        "num": 454455,
+        "word": "虞书欣回应唐嫣",
+        "onboard_time": 1705304669,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380241,
+        "num": 380241,
+        "word": "日本地震已致222人死亡",
+        "onboard_time": 1705310070,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349412,
+        "num": 349412,
+        "word": "张颂文暗示微博八百回报销",
+        "onboard_time": 1705294173,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323549,
+        "num": 323549,
+        "word": "美国爱泼斯坦案更多细节曝光",
+        "onboard_time": 1705309407,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311315,
+        "num": 311315,
+        "word": "卢昱晓 女主",
+        "onboard_time": 1705289970,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300555,
+        "num": 300555,
+        "word": "00后男生收破烂年入20万",
+        "onboard_time": 1705304608,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81852,
+        "num": 267986,
+        "word": "去尔滨看雪来广东看海",
+        "onboard_time": 1705312827,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262971,
+        "num": 262971,
+        "word": "瑙鲁与台湾断交",
+        "onboard_time": 1705299810,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262819,
+        "num": 262819,
+        "word": "于正回应白鹿下部剧",
+        "onboard_time": 1705307847,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255643,
+        "num": 255643,
+        "word": "孙怡又粉又闪",
+        "onboard_time": 1705312531,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246334,
+        "num": 246334,
+        "word": "和颂四美",
+        "onboard_time": 1705310248,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232740,
+        "num": 232740,
+        "word": "周也抽到周深送的十年微博会员",
+        "onboard_time": 1705304488,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262054,
+        "num": 228811,
+        "word": "广州W酒店将停业",
+        "onboard_time": 1705314088,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211909,
+        "num": 211909,
+        "word": "男子假离婚后发现孩子不是亲生的",
+        "onboard_time": 1705298250,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197683,
+        "num": 197683,
+        "word": "于正新签约的男演员",
+        "onboard_time": 1705314387,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196812,
+        "num": 196812,
+        "word": "暧昧上头聊天记录",
+        "onboard_time": 1705299929,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190206,
+        "num": 190206,
+        "word": "小金毛一不小心吃上了自助餐",
+        "onboard_time": 1705312048,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184382,
+        "num": 184382,
+        "word": "多个地图APP骑行导航推荐逆行",
+        "onboard_time": 1705313909,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183885,
+        "num": 183885,
+        "word": "王一博新专plog",
+        "onboard_time": 1705315049,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181998,
+        "num": 181998,
+        "word": "第一批回村的猫咪已经被欺负了",
+        "onboard_time": 1705308450,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178108,
+        "num": 178108,
+        "word": "黄景瑜以为抽到了古董",
+        "onboard_time": 1705303228,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175130,
+        "num": 175130,
+        "word": "五福临门时间线",
+        "onboard_time": 1705303348,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231338,
+        "num": 174677,
+        "word": "考公结束重新拼贴了准考证",
+        "onboard_time": 1705314028,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173926,
+        "num": 173926,
+        "word": "玲子 她是一床发潮的棉被",
+        "onboard_time": 1705295672,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170428,
+        "num": 170428,
+        "word": "广东省考",
+        "onboard_time": 1705311869,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163250,
+        "num": 169732,
+        "word": "网络短剧 日本物价",
+        "onboard_time": 1705293274,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 930322,
+        "num": 169717,
+        "word": "因为懒而得到了北京户口",
+        "onboard_time": 1705308689,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169085,
+        "num": 169085,
+        "word": "杨紫 蛋仔派对代言人",
+        "onboard_time": 1705296389,
+        "rank": 35,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 166344,
+        "num": 166344,
+        "word": "当小猫发现一颗偷藏起来的冻干",
+        "onboard_time": 1705314151,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161282,
+        "num": 161282,
+        "word": "再就业男团春晚联排",
+        "onboard_time": 1705314689,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153640,
+        "num": 153640,
+        "word": "瑙鲁政府宣布承认一个中国",
+        "onboard_time": 1705302629,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151590,
+        "num": 151590,
+        "word": "繁花的豆瓣评分又涨了",
+        "onboard_time": 1705313189,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149806,
+        "num": 149806,
+        "word": "dash好听",
+        "onboard_time": 1705314812,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149356,
+        "num": 149356,
+        "word": "天官赐福 花怜",
+        "onboard_time": 1705314749,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136892,
+        "num": 136892,
+        "word": "我和papi酱的愿望是一样的",
+        "onboard_time": 1705302029,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134924,
+        "num": 134924,
+        "word": "彭昱畅收到张婧仪送的话筒",
+        "onboard_time": 1705307010,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132907,
+        "num": 132907,
+        "word": "台当局所谓的邦交国剩余12个",
+        "onboard_time": 1705307368,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126631,
+        "num": 126631,
+        "word": "46岁知名麻醉科医生去世",
+        "onboard_time": 1705299569,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125949,
+        "num": 125949,
+        "word": "Kitty直播cos卡莎",
+        "onboard_time": 1705313189,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125228,
+        "num": 125228,
+        "word": "河南185男团跟游客公主牵手合照",
+        "onboard_time": 1705314330,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 119602,
+        "num": 119602,
+        "word": "于正再回应",
+        "onboard_time": 1705283788,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116337,
+        "num": 116337,
+        "word": "华晨宇 我祝你幸福而不是强大",
+        "onboard_time": 1705315049,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持稳中求进以进促稳先立后破#"
+    }
+  }
+}

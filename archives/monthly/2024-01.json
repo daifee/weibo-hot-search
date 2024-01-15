@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705314032529,
+  "endTime": 1705315074186,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -3467,6 +3467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1004123,
+      "num": 1004123,
+      "word": "胡歌白敬亭微信加上了吗",
+      "onboard_time": 1705310791,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1001871,
       "num": 1001871,
       "word": "王鹤棣金发返场",
@@ -4721,14 +4729,6 @@
       "onboard_time": 1704866069,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 833372,
-      "num": 833372,
-      "word": "胡歌白敬亭微信加上了吗",
-      "onboard_time": 1705310791,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 831717,
@@ -6187,6 +6187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 716761,
+      "num": 716761,
+      "word": "3年挣102万外卖骑手辟谣被打",
+      "onboard_time": 1705309888,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716095,
       "num": 716095,
       "word": "唐嫣拍繁花爸爸每天接下班",
@@ -6641,14 +6649,6 @@
       "onboard_time": 1704160534,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 681607,
-      "num": 681607,
-      "word": "3年挣102万外卖骑手辟谣被打",
-      "onboard_time": 1705309888,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 681504,
@@ -10683,6 +10683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 477623,
+      "num": 745245,
+      "word": "儿子包机带母亲从台湾回大陆老家",
+      "onboard_time": 1705308930,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477562,
       "num": 477562,
       "word": "Jaemin和GISELLE的cha",
@@ -13049,14 +13057,6 @@
       "onboard_time": 1704545853,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 387668,
-      "num": 729848,
-      "word": "儿子包机带母亲从台湾回大陆老家",
-      "onboard_time": 1705308930,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387348,
@@ -17659,6 +17659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262054,
+      "num": 228811,
+      "word": "广州W酒店将停业",
+      "onboard_time": 1705314088,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261792,
       "num": 162544,
       "word": "运镜跟不上黄明昊",
@@ -18049,6 +18057,14 @@
       "onboard_time": 1705138607,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255643,
+      "num": 255643,
+      "word": "孙怡又粉又闪",
+      "onboard_time": 1705312531,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255558,
@@ -19617,6 +19633,14 @@
       "onboard_time": 1704260612,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231338,
+      "num": 174677,
+      "word": "考公结束重新拼贴了准考证",
+      "onboard_time": 1705314028,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 231172,
@@ -23163,6 +23187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197683,
+      "num": 197683,
+      "word": "于正新签约的男演员",
+      "onboard_time": 1705314387,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197657,
       "num": 196057,
       "word": "鲜虾一口酥",
@@ -23656,14 +23688,6 @@
       "word": "阿云嘎是陈丽君的小迷弟",
       "onboard_time": 1705293814,
       "rank": 38,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 194385,
-      "num": 194385,
-      "word": "孙怡又粉又闪",
-      "onboard_time": 1705312531,
-      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -24995,6 +25019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184382,
+      "num": 184382,
+      "word": "多个地图APP骑行导航推荐逆行",
+      "onboard_time": 1705313909,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 184320,
       "num": 184320,
       "word": "亚洲杯开幕",
@@ -25073,6 +25105,14 @@
       "onboard_time": 1704038217,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183885,
+      "num": 183885,
+      "word": "王一博新专plog",
+      "onboard_time": 1705315049,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 183826,
@@ -27643,6 +27683,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 166344,
+      "num": 166344,
+      "word": "当小猫发现一颗偷藏起来的冻干",
+      "onboard_time": 1705314151,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166314,
       "num": 166314,
       "word": "吉林抢人辽宁摇人",
@@ -28195,6 +28243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162813,
+      "num": 526731,
+      "word": "萌兰在线召唤搓澡师傅",
+      "onboard_time": 1705311511,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162747,
       "num": 162747,
       "word": "最佳平替网站",
@@ -28353,6 +28409,14 @@
       "onboard_time": 1705281450,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161282,
+      "num": 161282,
+      "word": "再就业男团春晚联排",
+      "onboard_time": 1705314689,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 161277,
@@ -28641,14 +28705,6 @@
       "onboard_time": 1704985773,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 159164,
-      "num": 159164,
-      "word": "多个地图APP骑行导航推荐逆行",
-      "onboard_time": 1705313909,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 159105,
@@ -29795,6 +29851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151590,
+      "num": 151590,
+      "word": "繁花的豆瓣评分又涨了",
+      "onboard_time": 1705313189,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151586,
       "num": 140537,
       "word": "张杰2024巡演",
@@ -30035,6 +30099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149806,
+      "num": 149806,
+      "word": "dash好听",
+      "onboard_time": 1705314812,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149741,
       "num": 149741,
       "word": "哈尔滨站标注出租车价格表",
@@ -30089,6 +30161,14 @@
       "onboard_time": 1705313909,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149356,
+      "num": 149356,
+      "word": "天官赐福 花怜",
+      "onboard_time": 1705314749,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 149350,
@@ -33419,14 +33499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129258,
-      "num": 129258,
-      "word": "繁花的豆瓣评分又涨了",
-      "onboard_time": 1705313189,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129241,
       "num": 129241,
       "word": "AI行业或成2024就业新风口",
@@ -34019,6 +34091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125949,
+      "num": 125949,
+      "word": "Kitty直播cos卡莎",
+      "onboard_time": 1705313189,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125921,
       "num": 125921,
       "word": "成龙加盟河南春晚",
@@ -34145,6 +34225,14 @@
       "onboard_time": 1704612510,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125228,
+      "num": 125228,
+      "word": "河南185男团跟游客公主牵手合照",
+      "onboard_time": 1705314330,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 125191,
@@ -34771,14 +34859,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 120987,
-      "num": 378821,
-      "word": "萌兰在线召唤搓澡师傅",
-      "onboard_time": 1705311511,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120975,
       "num": 120975,
       "word": "这狍子长了个明星脸",
@@ -34905,14 +34985,6 @@
       "onboard_time": 1704958290,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120299,
-      "num": 117785,
-      "word": "Kitty直播cos卡莎",
-      "onboard_time": 1705313189,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 120232,
@@ -35329,6 +35401,14 @@
       "onboard_time": 1704090995,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116337,
+      "num": 116337,
+      "word": "华晨宇 我祝你幸福而不是强大",
+      "onboard_time": 1705315049,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 116221,
@@ -37803,6 +37883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81852,
+      "num": 343419,
+      "word": "去尔滨看雪来广东看海",
+      "onboard_time": 1705312827,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81400,
       "num": 81400,
       "word": "鸣龙少年 我们都将成为更好的自己",
@@ -39769,14 +39857,6 @@
       "onboard_time": 1704253291,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 30582,
-      "num": 343419,
-      "word": "去尔滨看雪来广东看海",
-      "onboard_time": 1705312827,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30553,
