@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705286680488,
+  "endTime": 1705288797454,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1818197,
-      "num": 991270,
+      "num": 1279754,
       "word": "于正再回应",
       "onboard_time": 1705283788,
       "rank": 3,
@@ -147,12 +147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1428563,
+      "num": 1428563,
+      "word": "北京上空出现疑似不明飞行物",
+      "onboard_time": 1705284148,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1390672,
       "num": 1390672,
       "word": "朱一龙微博King",
       "onboard_time": 1705157865,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1344993,
+      "num": 1344993,
+      "word": "新冠疫情可能在本月出现回升",
+      "onboard_time": 1705284570,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1341149,
@@ -259,14 +275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1107204,
-      "num": 1107204,
-      "word": "北京上空出现疑似不明飞行物",
-      "onboard_time": 1705284148,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1095666,
       "num": 1095666,
       "word": "国考排名",
@@ -371,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 967874,
-      "num": 967874,
-      "word": "新冠疫情可能在本月出现回升",
-      "onboard_time": 1705284570,
-      "rank": 6,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 960547,
       "num": 960547,
       "word": "于正公开黄杨钿甜试戏片段",
@@ -465,6 +465,14 @@
       "onboard_time": 1705218510,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 828524,
+      "num": 828524,
+      "word": "台媒称施明德去世",
+      "onboard_time": 1705287750,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 822393,
@@ -835,6 +843,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 557082,
+      "num": 528812,
+      "word": "方流芳去世",
+      "onboard_time": 1705284448,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555392,
+      "num": 555392,
+      "word": "于正 我的剧从来都是靠剧情",
+      "onboard_time": 1705285288,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 550843,
       "num": 550843,
       "word": "上市公司遭电诈9000万",
@@ -867,6 +891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 536050,
+      "num": 536050,
+      "word": "奚梦瑶何猷君感情好的原因",
+      "onboard_time": 1705284086,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 528444,
       "num": 528444,
       "word": "经常睡不好可能是缺乏维生素D",
@@ -891,12 +923,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 520461,
-      "num": 445332,
-      "word": "方流芳去世",
-      "onboard_time": 1705284448,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 520898,
+      "num": 520898,
+      "word": "肖战说剧播出的时候最快乐",
+      "onboard_time": 1705287931,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 518694,
@@ -905,6 +937,14 @@
       "onboard_time": 1705209510,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 518286,
+      "num": 518286,
+      "word": "湖南警方通报小女孩被人尾随抱走",
+      "onboard_time": 1705286789,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510863,
@@ -945,14 +985,6 @@
       "onboard_time": 1705224691,
       "rank": 42,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 500964,
-      "num": 500964,
-      "word": "于正 我的剧从来都是靠剧情",
-      "onboard_time": 1705285288,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 497468,
@@ -1163,12 +1195,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 399173,
-      "num": 399173,
-      "word": "奚梦瑶何猷君感情好的原因",
-      "onboard_time": 1705284086,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 397221,
+      "num": 397221,
+      "word": "利拉德三分绝杀",
+      "onboard_time": 1705288049,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 392435,
@@ -1243,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 372713,
+      "num": 372713,
+      "word": "不要忽视霉菌对身体的危害",
+      "onboard_time": 1705284328,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 369436,
       "num": 325066,
       "word": "李冰冰晒与娜扎周也徐若晗合照",
@@ -1315,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342068,
+      "num": 267224,
+      "word": "女子与男网友住酒店后称遭强奸",
+      "onboard_time": 1705287873,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338440,
       "num": 338440,
       "word": "微博之夜的妆造",
@@ -1345,14 +1393,6 @@
       "onboard_time": 1705155831,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 322904,
-      "num": 322904,
-      "word": "不要忽视霉菌对身体的危害",
-      "onboard_time": 1705284328,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 319598,
@@ -1483,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292192,
+      "num": 292192,
+      "word": "外卖平台给骑手大量规划逆行送餐路线",
+      "onboard_time": 1705287992,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291883,
       "num": 251018,
       "word": "张杰工作室辟谣",
@@ -1603,20 +1651,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 265089,
+      "num": 265089,
+      "word": "虞书欣台下吃零食",
+      "onboard_time": 1705283609,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 262789,
       "num": 262789,
       "word": "奇妙夜不直播",
       "onboard_time": 1705224093,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 261059,
-      "num": 261059,
-      "word": "虞书欣台下吃零食",
-      "onboard_time": 1705283609,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 260346,
@@ -1721,6 +1769,14 @@
       "onboard_time": 1705200752,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247090,
+      "num": 247090,
+      "word": "西安下雪",
+      "onboard_time": 1705286968,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245239,
@@ -1947,6 +2003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208957,
+      "num": 208957,
+      "word": "小熊猫带去哈尔滨的行李箱太可爱了",
+      "onboard_time": 1705284388,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208639,
       "num": 208639,
       "word": "米兰Prada秀场",
@@ -1995,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205242,
+      "num": 205242,
+      "word": "唐双宁被决定逮捕",
+      "onboard_time": 1705287629,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204827,
       "num": 204827,
       "word": "河南煤矿事故已致13人遇难3人失联",
@@ -2025,6 +2097,14 @@
       "onboard_time": 1705226670,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199083,
+      "num": 199083,
+      "word": "山东事业编",
+      "onboard_time": 1705288112,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 198804,
@@ -2171,6 +2251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185157,
+      "num": 185157,
+      "word": "傅首尔演嬷嬷档期全满",
+      "onboard_time": 1705288711,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184632,
       "num": 184632,
       "word": "字节仍在洽购饿了么",
@@ -2193,6 +2281,14 @@
       "onboard_time": 1705244374,
       "rank": 35,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 183588,
+      "num": 183588,
+      "word": "微博之夜采访",
+      "onboard_time": 1705287269,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182982,
@@ -2563,14 +2659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152377,
-      "num": 152377,
-      "word": "小熊猫带去哈尔滨的行李箱太可爱了",
-      "onboard_time": 1705284388,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149729,
       "num": 149729,
       "word": "对学历最中肯的评价之一",
@@ -2601,6 +2689,14 @@
       "onboard_time": 1705285709,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145994,
+      "num": 145994,
+      "word": "天权将复出",
+      "onboard_time": 1705286130,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 145909,
@@ -2683,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141864,
+      "num": 141864,
+      "word": "肩颈痛大多是斜方肌出问题",
+      "onboard_time": 1705288229,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 141377,
       "num": 141377,
       "word": "萌兰又和蜡笔小新撞脸了",
@@ -2713,6 +2817,14 @@
       "onboard_time": 1705235971,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140275,
+      "num": 140275,
+      "word": "嘴上起水泡不是上火",
+      "onboard_time": 1705287931,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 139161,
@@ -2761,14 +2873,6 @@
       "onboard_time": 1705280969,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 137441,
-      "num": 137441,
-      "word": "天权将复出",
-      "onboard_time": 1705286130,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 137089,
@@ -2867,6 +2971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130613,
+      "num": 130613,
+      "word": "司机骂骂咧咧的倒出去了",
+      "onboard_time": 1705287931,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129821,
       "num": 129821,
       "word": "Maeng给虞书欣化的妆",
@@ -2881,6 +2993,14 @@
       "onboard_time": 1705215507,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127604,
+      "num": 127604,
+      "word": "面对外舰她说国家和人民需要我的时候到了",
+      "onboard_time": 1705287873,
+      "rank": 44,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 127350,
@@ -3444,7 +3564,7 @@
     },
     {
       "raw_hot": 45668,
-      "num": 1078716,
+      "num": 1373275,
       "word": "神十七乘组空间站吃播健身上新",
       "onboard_time": 1705234891,
       "rank": 2,

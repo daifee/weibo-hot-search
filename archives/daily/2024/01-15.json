@@ -1,6 +1,6 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705286680488,
+  "endTime": 1705288797454,
   "band_list": [
     {
       "raw_hot": 2122341,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1818197,
-      "num": 991270,
+      "num": 1279754,
       "word": "于正再回应",
       "onboard_time": 1705283788,
       "rank": 3,
@@ -35,6 +35,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1428563,
+      "num": 1428563,
+      "word": "北京上空出现疑似不明飞行物",
+      "onboard_time": 1705284148,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1344993,
+      "num": 1344993,
+      "word": "新冠疫情可能在本月出现回升",
+      "onboard_time": 1705284570,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1322795,
       "num": 1322795,
       "word": "佘诗曼三料视后",
@@ -43,28 +59,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1107204,
-      "num": 1107204,
-      "word": "北京上空出现疑似不明飞行物",
-      "onboard_time": 1705284148,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1046789,
       "num": 1046789,
       "word": "哈尔滨哈药六厂 祖上富过",
       "onboard_time": 1705282410,
       "rank": 10,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 967874,
-      "num": 967874,
-      "word": "新冠疫情可能在本月出现回升",
-      "onboard_time": 1705284570,
-      "rank": 6,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 866988,
@@ -81,6 +81,14 @@
       "onboard_time": 1705243893,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 828524,
+      "num": 828524,
+      "word": "台媒称施明德去世",
+      "onboard_time": 1705287750,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 804447,
@@ -147,6 +155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557082,
+      "num": 528812,
+      "word": "方流芳去世",
+      "onboard_time": 1705284448,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555392,
+      "num": 555392,
+      "word": "于正 我的剧从来都是靠剧情",
+      "onboard_time": 1705285288,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 546342,
       "num": 376197,
       "word": "于正说祝绪丹开拍前辞演",
@@ -163,11 +187,27 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 520461,
-      "num": 445332,
-      "word": "方流芳去世",
-      "onboard_time": 1705284448,
-      "rank": 30,
+      "raw_hot": 536050,
+      "num": 536050,
+      "word": "奚梦瑶何猷君感情好的原因",
+      "onboard_time": 1705284086,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 520898,
+      "num": 520898,
+      "word": "肖战说剧播出的时候最快乐",
+      "onboard_time": 1705287931,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 518286,
+      "num": 518286,
+      "word": "湖南警方通报小女孩被人尾随抱走",
+      "onboard_time": 1705286789,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -177,14 +217,6 @@
       "onboard_time": 1705212030,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 500964,
-      "num": 500964,
-      "word": "于正 我的剧从来都是靠剧情",
-      "onboard_time": 1705285288,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 471553,
@@ -227,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 399173,
-      "num": 399173,
-      "word": "奚梦瑶何猷君感情好的原因",
-      "onboard_time": 1705284086,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 397221,
+      "num": 397221,
+      "word": "利拉德三分绝杀",
+      "onboard_time": 1705288049,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 392435,
@@ -259,6 +291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 372713,
+      "num": 372713,
+      "word": "不要忽视霉菌对身体的危害",
+      "onboard_time": 1705284328,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 365134,
       "num": 365134,
       "word": "心疼李施嬅",
@@ -283,20 +323,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 342068,
+      "num": 267224,
+      "word": "女子与男网友住酒店后称遭强奸",
+      "onboard_time": 1705287873,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330274,
       "num": 330274,
       "word": "陈哲远 内娱最好笑的吃播选手",
       "onboard_time": 1705281686,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 322904,
-      "num": 322904,
-      "word": "不要忽视霉菌对身体的危害",
-      "onboard_time": 1705284328,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 312197,
@@ -323,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292192,
+      "num": 292192,
+      "word": "外卖平台给骑手大量规划逆行送餐路线",
+      "onboard_time": 1705287992,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289215,
       "num": 289215,
       "word": "娜扎身材管理",
@@ -331,8 +379,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 261059,
-      "num": 261059,
+      "raw_hot": 265089,
+      "num": 265089,
       "word": "虞书欣台下吃零食",
       "onboard_time": 1705283609,
       "rank": 18,
@@ -353,6 +401,14 @@
       "onboard_time": 1705237532,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 247090,
+      "num": 247090,
+      "word": "西安下雪",
+      "onboard_time": 1705286968,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236902,
@@ -403,12 +459,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208957,
+      "num": 208957,
+      "word": "小熊猫带去哈尔滨的行李箱太可爱了",
+      "onboard_time": 1705284388,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205242,
+      "num": 205242,
+      "word": "唐双宁被决定逮捕",
+      "onboard_time": 1705287629,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203987,
       "num": 203987,
       "word": "IU将回归",
       "onboard_time": 1705276164,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199083,
+      "num": 199083,
+      "word": "山东事业编",
+      "onboard_time": 1705288112,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 198804,
@@ -459,12 +539,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185157,
+      "num": 185157,
+      "word": "傅首尔演嬷嬷档期全满",
+      "onboard_time": 1705288711,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183664,
       "num": 183664,
       "word": "胡锡进称股市是中国社会信心晴雨表",
       "onboard_time": 1705281569,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 183588,
+      "num": 183588,
+      "word": "微博之夜采访",
+      "onboard_time": 1705287269,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182982,
@@ -579,14 +675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152377,
-      "num": 152377,
-      "word": "小熊猫带去哈尔滨的行李箱太可爱了",
-      "onboard_time": 1705284388,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149729,
       "num": 149729,
       "word": "对学历最中肯的评价之一",
@@ -609,6 +697,14 @@
       "onboard_time": 1705285709,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145994,
+      "num": 145994,
+      "word": "天权将复出",
+      "onboard_time": 1705286130,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 145909,
@@ -643,6 +739,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141864,
+      "num": 141864,
+      "word": "肩颈痛大多是斜方肌出问题",
+      "onboard_time": 1705288229,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 140275,
+      "num": 140275,
+      "word": "嘴上起水泡不是上火",
+      "onboard_time": 1705287931,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 139848,
       "num": 212230,
       "word": "王毅阐明中方关于台湾局势严正立场",
@@ -667,19 +779,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 137441,
-      "num": 137441,
-      "word": "天权将复出",
-      "onboard_time": 1705286130,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 132596,
       "num": 132596,
       "word": "考试最后一个考场 诸神黄昏",
       "onboard_time": 1705245693,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 130613,
+      "num": 130613,
+      "word": "司机骂骂咧咧的倒出去了",
+      "onboard_time": 1705287931,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -689,6 +801,14 @@
       "onboard_time": 1705236451,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127604,
+      "num": 127604,
+      "word": "面对外舰她说国家和人民需要我的时候到了",
+      "onboard_time": 1705287873,
+      "rank": 44,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 125602,
@@ -1004,7 +1124,7 @@
     },
     {
       "raw_hot": 45668,
-      "num": 1078716,
+      "num": 1373275,
       "word": "神十七乘组空间站吃播健身上新",
       "onboard_time": 1705234891,
       "rank": 2,
