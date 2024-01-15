@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705318444086,
+  "endTime": 1705322045415,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -283,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1224398,
+      "num": 787025,
+      "word": "月经3天和7天均属正常",
+      "onboard_time": 1705319971,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1218885,
       "num": 1218885,
       "word": "于正 吴宣仪是临时救场",
@@ -448,6 +456,14 @@
       "word": "国考出成绩",
       "onboard_time": 1705147906,
       "rank": 8,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1029380,
+      "num": 1029380,
+      "word": "张雪峰向哈理工捐款100万",
+      "onboard_time": 1705319191,
+      "rank": 1,
       "category": "教育"
     },
     {
@@ -747,20 +763,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 728000,
+      "num": 728000,
+      "word": "华晨宇 我祝你幸福而不是强大",
+      "onboard_time": 1705315049,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 726159,
       "num": 726159,
       "word": "花花和谭爷爷上微博之夜",
       "onboard_time": 1705197871,
       "rank": 9,
       "category": "社会新闻,作品衍生"
-    },
-    {
-      "raw_hot": 724651,
-      "num": 724651,
-      "word": "华晨宇 我祝你幸福而不是强大",
-      "onboard_time": 1705315049,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 721078,
@@ -955,6 +971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 633725,
+      "num": 633725,
+      "word": "皇额娘推了熹娘娘原来是这个推",
+      "onboard_time": 1705319610,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 629878,
       "num": 629878,
       "word": "2024国考笔试放榜",
@@ -977,6 +1001,14 @@
       "onboard_time": 1705293814,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 614525,
+      "num": 614525,
+      "word": "千万不要对抑郁症朋友说",
+      "onboard_time": 1705319911,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 613975,
@@ -1587,6 +1619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 407831,
+      "num": 407831,
+      "word": "博主质疑吉林文旅用张起灵宣传不妥",
+      "onboard_time": 1705319250,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406250,
       "num": 406250,
       "word": "彭昱畅收到张婧仪送的话筒",
@@ -1761,6 +1801,14 @@
       "onboard_time": 1705149829,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 359754,
+      "num": 359754,
+      "word": "湖南文旅搬出易烊千玺了",
+      "onboard_time": 1705318470,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 358439,
@@ -1969,6 +2017,14 @@
       "onboard_time": 1705212150,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298108,
+      "num": 298108,
+      "word": "马宁 黄牌",
+      "onboard_time": 1705320573,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 295289,
@@ -2187,12 +2243,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262816,
+      "num": 262816,
+      "word": "湖南卫视帮湖南文旅摇人",
+      "onboard_time": 1705321648,
+      "rank": 17,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 262789,
       "num": 262789,
       "word": "奇妙夜不直播",
       "onboard_time": 1705224093,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 260503,
+      "num": 260503,
+      "word": "水均益女儿从央视离职后宣布直播带货",
+      "onboard_time": 1705321172,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260346,
@@ -2228,7 +2300,7 @@
     },
     {
       "raw_hot": 258205,
-      "num": 210554,
+      "num": 214169,
       "word": "有人问你了吗",
       "onboard_time": 1705317087,
       "rank": 41,
@@ -2408,6 +2480,14 @@
       "word": "宝宝娘胎里就有了贴身保镖",
       "onboard_time": 1705227809,
       "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 236988,
+      "num": 236988,
+      "word": "网友吐槽婆婆一定要我生二胎",
+      "onboard_time": 1705320630,
+      "rank": 21,
       "category": "情感"
     },
     {
@@ -2619,6 +2699,14 @@
       "category": "电竞,作品衍生"
     },
     {
+      "raw_hot": 221246,
+      "num": 221246,
+      "word": "男子吐槽华清宫贵妃入浴雕像不雅",
+      "onboard_time": 1705321350,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220633,
       "num": 220633,
       "word": "现代医学解释中医的发物",
@@ -2737,6 +2825,14 @@
       "onboard_time": 1705207110,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210073,
+      "num": 210073,
+      "word": "理想L6",
+      "onboard_time": 1705317810,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 209771,
@@ -2867,14 +2963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201675,
-      "num": 201675,
-      "word": "理想L6",
-      "onboard_time": 1705317810,
-      "rank": 23,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 201304,
       "num": 201304,
       "word": "刘宇宁盘串",
@@ -2993,6 +3081,14 @@
       "onboard_time": 1705281270,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191578,
+      "num": 160190,
+      "word": "韩国半场1比0巴林",
+      "onboard_time": 1705321709,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 191429,
@@ -3171,6 +3267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183447,
+      "num": 160142,
+      "word": "我可以参加你们婚礼吗",
+      "onboard_time": 1705318890,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183082,
       "num": 153882,
       "word": "张颂文抽到彭昱畅送的礼物",
@@ -3183,6 +3287,14 @@
       "num": 182982,
       "word": "陈哲远怕于文文收到礼物来打他",
       "onboard_time": 1705279230,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182762,
+      "num": 182762,
+      "word": "黄景瑜是懂陈楚生白茶梗的",
+      "onboard_time": 1705320269,
       "rank": 26,
       "category": "作品衍生"
     },
@@ -3539,6 +3651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 165170,
+      "num": 165170,
+      "word": "国足vs黎巴嫩",
+      "onboard_time": 1705320930,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164956,
       "num": 164956,
       "word": "游客曝茶马古道旅行社强制体验骑马",
@@ -3625,6 +3745,14 @@
       "onboard_time": 1705291231,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158879,
+      "num": 158879,
+      "word": "短发8丽",
+      "onboard_time": 1705320391,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158609,
@@ -4339,6 +4467,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120982,
+      "num": 120982,
+      "word": "大熊猫雪姨式砸门要提前下班",
+      "onboard_time": 1705321470,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120885,
+      "num": 120885,
+      "word": "怎样看待亲人的离世",
+      "onboard_time": 1705319789,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120529,
       "num": 120529,
       "word": "黛色是什么颜色",
@@ -4353,6 +4497,14 @@
       "onboard_time": 1705310729,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118974,
+      "num": 118974,
+      "word": "2岁的天才鼓手",
+      "onboard_time": 1705320691,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 118257,
@@ -4499,12 +4651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107078,
+      "num": 107078,
+      "word": "周一和周天有什么区别",
+      "onboard_time": 1705321227,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105993,
       "num": 105993,
       "word": "被北京胡同的车主深深折服",
       "onboard_time": 1705280071,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105453,
+      "num": 105453,
+      "word": "她盛情地接待了年少的自己",
+      "onboard_time": 1705319371,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 105418,
@@ -4579,6 +4747,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 99700,
+      "num": 99700,
+      "word": "路人把棉衣绑成绳救起落水学生",
+      "onboard_time": 1705319310,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 99350,
       "num": 99350,
       "word": "全家猫的嘴替",
@@ -4625,6 +4801,14 @@
       "onboard_time": 1705240414,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94421,
+      "num": 94421,
+      "word": "国产手机冲高端都成了吗",
+      "onboard_time": 1705319428,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 91833,
@@ -4985,6 +5169,14 @@
       "onboard_time": 1705151029,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 26308,
+      "num": 292139,
+      "word": "陈丽君李云霄镜中人",
+      "onboard_time": 1705290571,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24520,
