@@ -1,6 +1,6 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705317353792,
+  "endTime": 1705318444086,
   "band_list": [
     {
       "raw_hot": 2346671,
@@ -19,6 +19,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2131936,
+      "num": 2131936,
+      "word": "家有儿女将开拍原班人马全员回归",
+      "onboard_time": 1705315291,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2122341,
       "num": 2122341,
       "word": "苹果官网罕见大降价",
@@ -33,14 +41,6 @@
       "onboard_time": 1705294173,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1903492,
-      "num": 1903492,
-      "word": "家有儿女将开拍原班人马全员回归",
-      "onboard_time": 1705315291,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1843287,
@@ -283,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 724651,
+      "num": 724651,
+      "word": "华晨宇 我祝你幸福而不是强大",
+      "onboard_time": 1705315049,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 716761,
       "num": 716761,
       "word": "3年挣102万外卖骑手辟谣被打",
@@ -379,12 +387,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 598216,
+      "num": 598216,
+      "word": "广州W酒店将停业",
+      "onboard_time": 1705314088,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596084,
       "num": 596084,
       "word": "方便面真是垃圾食品吗",
       "onboard_time": 1705297950,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 592098,
+      "num": 592098,
+      "word": "杨紫回应每年都有爆剧",
+      "onboard_time": 1705316912,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 590586,
@@ -451,14 +475,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 552742,
-      "num": 552742,
-      "word": "华晨宇 我祝你幸福而不是强大",
-      "onboard_time": 1705315049,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 546342,
       "num": 376197,
       "word": "于正说祝绪丹开拍前辞演",
@@ -483,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 513720,
-      "num": 513720,
-      "word": "广州W酒店将停业",
-      "onboard_time": 1705314088,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 511575,
       "num": 511575,
       "word": "难怪玲子这次不来了",
@@ -505,6 +513,14 @@
       "onboard_time": 1705288711,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 491790,
+      "num": 491790,
+      "word": "苹果官网大降价可退差价",
+      "onboard_time": 1705316007,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 481648,
@@ -593,14 +609,6 @@
       "onboard_time": 1705309407,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440026,
-      "num": 440026,
-      "word": "苹果官网大降价可退差价",
-      "onboard_time": 1705316007,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 432470,
@@ -731,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358439,
+      "num": 358439,
+      "word": "肖战红色开衫毛衣",
+      "onboard_time": 1705317571,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 354461,
       "num": 354461,
       "word": "GAI 五年后再给王鹤棣续SVIP",
@@ -753,6 +769,14 @@
       "onboard_time": 1705293155,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 339283,
+      "num": 339283,
+      "word": "考公结束重新拼贴了准考证",
+      "onboard_time": 1705314028,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 334530,
@@ -803,14 +827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 304377,
-      "num": 304377,
-      "word": "考公结束重新拼贴了准考证",
-      "onboard_time": 1705314028,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 294559,
       "num": 294559,
       "word": "王鹤棣最喜欢挂檀健次身上",
@@ -851,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280782,
+      "num": 212719,
+      "word": "原神4.3版本",
+      "onboard_time": 1705317449,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 277929,
       "num": 277929,
       "word": "宋茜丁禹兮 山河枕",
@@ -865,6 +889,14 @@
       "onboard_time": 1705302029,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 274344,
+      "num": 274344,
+      "word": "阿信新加坡演唱会破音被调侃宝娟嗓",
+      "onboard_time": 1705317571,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 274178,
@@ -883,12 +915,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 259681,
-      "num": 259681,
-      "word": "杨紫回应每年都有爆剧",
-      "onboard_time": 1705316912,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 258205,
+      "num": 210554,
+      "word": "有人问你了吗",
+      "onboard_time": 1705317087,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 258178,
@@ -907,6 +939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252180,
+      "num": 252180,
+      "word": "再就业男团春晚联排",
+      "onboard_time": 1705314689,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251169,
       "num": 251169,
       "word": "能看一天一夜的那种小说",
@@ -915,12 +955,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 250975,
-      "num": 250975,
-      "word": "再就业男团春晚联排",
-      "onboard_time": 1705314689,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 248424,
+      "num": 657117,
+      "word": "大熊猫临近下班哐哐敲门等不了",
+      "onboard_time": 1705316551,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247698,
@@ -1219,6 +1259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201675,
+      "num": 201675,
+      "word": "理想L6",
+      "onboard_time": 1705317810,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 201304,
       "num": 201304,
       "word": "刘宇宁盘串",
@@ -1507,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174418,
+      "num": 174418,
+      "word": "爱吃辣的人或收获4大好处",
+      "onboard_time": 1705315950,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173508,
       "num": 173508,
       "word": "河北文旅摇人了",
@@ -1537,22 +1593,6 @@
       "onboard_time": 1705305987,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170497,
-      "num": 170497,
-      "word": "爱吃辣的人或收获4大好处",
-      "onboard_time": 1705315950,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 168790,
-      "num": 578702,
-      "word": "大熊猫临近下班哐哐敲门等不了",
-      "onboard_time": 1705316551,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167989,
@@ -1867,14 +1907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 138724,
-      "num": 138724,
-      "word": "有人问你了吗",
-      "onboard_time": 1705317087,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 138353,
       "num": 1006401,
       "word": "当中国铁路遇上中国传统色",
@@ -2027,6 +2059,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 120529,
+      "num": 120529,
+      "word": "黛色是什么颜色",
+      "onboard_time": 1705317930,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 119451,
       "num": 119451,
       "word": "职场带给人的一些变化",
@@ -2107,12 +2147,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102744,
+      "num": 102744,
+      "word": "可爱的玛露酱拼图",
+      "onboard_time": 1705318289,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 102045,
       "num": 102045,
       "word": "快船vs森林狼",
       "onboard_time": 1705282349,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100218,
+      "num": 100218,
+      "word": "中方回应瑙鲁愿同中国复交",
+      "onboard_time": 1705318411,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 97176,
@@ -2339,12 +2395,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57915,
+      "num": 162003,
+      "word": "陕北4名小男孩唱山歌热情豪迈",
+      "onboard_time": 1705318111,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57305,
+      "num": 281658,
+      "word": "在支付宝直播间囤年货囤上头",
+      "onboard_time": 1705316429,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 55662,
       "num": 55662,
       "word": "饿了么否认字节洽购",
       "onboard_time": 1705274721,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 54431,
+      "num": 191988,
+      "word": "4年级小学生考前埋头自制小火箭",
+      "onboard_time": 1705318351,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53677,
@@ -2432,14 +2512,6 @@
       "word": "Meta承认使用盗版书籍训练AI",
       "onboard_time": 1705240114,
       "rank": 48,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 26463,
-      "num": 272086,
-      "word": "在支付宝直播间囤年货囤上头",
-      "onboard_time": 1705316429,
-      "rank": 14,
       "category": "互联网"
     },
     {
