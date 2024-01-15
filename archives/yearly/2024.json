@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705282884446,
+  "endTime": 1705286088415,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -921,6 +921,14 @@
       "onboard_time": 1704038992,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1818197,
+      "num": 915624,
+      "word": "于正再回应",
+      "onboard_time": 1705283788,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1807604,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704190293,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1205347,
-      "num": 1205347,
-      "word": "常怡去世",
-      "onboard_time": 1704685593,
-      "rank": 3,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

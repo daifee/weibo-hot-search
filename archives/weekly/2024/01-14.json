@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705282884446,
+  "endTime": 1705286088415,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -97,6 +97,14 @@
       "onboard_time": 1705196668,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1818197,
+      "num": 915624,
+      "word": "于正再回应",
+      "onboard_time": 1705283788,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1762300,
@@ -315,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1046789,
+      "num": 1046789,
+      "word": "哈尔滨哈药六厂 祖上富过",
+      "onboard_time": 1705282410,
+      "rank": 10,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1031863,
       "num": 1031863,
       "word": "国考出成绩",
@@ -393,6 +409,14 @@
       "onboard_time": 1705243893,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 899968,
+      "num": 899968,
+      "word": "北京上空出现疑似不明飞行物",
+      "onboard_time": 1705284148,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 870334,
@@ -521,6 +545,14 @@
       "onboard_time": 1705236631,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 753023,
+      "num": 753023,
+      "word": "新冠疫情可能在本月出现回升",
+      "onboard_time": 1705284570,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 732185,
@@ -899,14 +931,6 @@
       "category": "军事,国外时政"
     },
     {
-      "raw_hot": 503589,
-      "num": 306113,
-      "word": "哈尔滨哈药六厂 祖上富过",
-      "onboard_time": 1705282410,
-      "rank": 10,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 502598,
       "num": 502598,
       "word": "新疆多处发生雪崩游客已滞留4天",
@@ -945,6 +969,14 @@
       "onboard_time": 1705207709,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 471553,
+      "num": 410507,
+      "word": "宝宝 领导不是你的班主任",
+      "onboard_time": 1705282589,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 467577,
@@ -993,6 +1025,14 @@
       "onboard_time": 1705200330,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 460885,
+      "num": 460885,
+      "word": "女演员之间的惺惺相惜",
+      "onboard_time": 1705280611,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 456040,
@@ -1059,6 +1099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427507,
+      "num": 185318,
+      "word": "方流芳去世",
+      "onboard_time": 1705284448,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423364,
       "num": 423364,
       "word": "新闻女王赢麻了",
@@ -1073,6 +1121,14 @@
       "onboard_time": 1705204768,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 418703,
+      "num": 418703,
+      "word": "于正 我的剧从来都是靠剧情",
+      "onboard_time": 1705285288,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 416861,
@@ -1132,7 +1188,7 @@
     },
     {
       "raw_hot": 384150,
-      "num": 221887,
+      "num": 223711,
       "word": "这就是我不发朋友圈的原因",
       "onboard_time": 1705276586,
       "rank": 20,
@@ -1145,6 +1201,14 @@
       "onboard_time": 1705175536,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382517,
+      "num": 382517,
+      "word": "基金经理近45%从业年限不超3年",
+      "onboard_time": 1705282949,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 379109,
@@ -1193,6 +1257,14 @@
       "onboard_time": 1705215450,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 365134,
+      "num": 365134,
+      "word": "心疼李施嬅",
+      "onboard_time": 1705284208,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 361296,
@@ -1251,20 +1323,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 330274,
+      "num": 330274,
+      "word": "陈哲远 内娱最好笑的吃播选手",
+      "onboard_time": 1705281686,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 329030,
       "num": 266475,
       "word": "胡歌一手牵唐嫣一手牵辛芷蕾",
       "onboard_time": 1705155831,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 327940,
-      "num": 275833,
-      "word": "女演员之间的惺惺相惜",
-      "onboard_time": 1705280611,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 319598,
@@ -1427,12 +1499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281916,
+      "num": 281916,
+      "word": "不要忽视霉菌对身体的危害",
+      "onboard_time": 1705284328,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 280701,
       "num": 192962,
       "word": "刘浩存林一飘雪大片",
       "onboard_time": 1705204110,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 280279,
+      "num": 280279,
+      "word": "奚梦瑶何猷君感情好的原因",
+      "onboard_time": 1705284086,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 277464,
@@ -1465,14 +1553,6 @@
       "onboard_time": 1705202254,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 273339,
-      "num": 165971,
-      "word": "宝宝 领导不是你的班主任",
-      "onboard_time": 1705282589,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 271066,
@@ -1635,6 +1715,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 240646,
+      "num": 240646,
+      "word": "虞书欣台下吃零食",
+      "onboard_time": 1705283609,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240294,
       "num": 240294,
       "word": "大马赛梁伟铿王昶男双夺冠",
@@ -1713,6 +1801,14 @@
       "onboard_time": 1705160859,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233019,
+      "num": 230799,
+      "word": "男子称入职1月被口头辞退工资一分不发",
+      "onboard_time": 1705282828,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232517,
@@ -1811,6 +1907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214488,
+      "num": 214488,
+      "word": "陈伟霆龙年央视春晚彩排",
+      "onboard_time": 1705285587,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214039,
       "num": 214039,
       "word": "日本松下子公司数据造假",
@@ -1825,6 +1929,14 @@
       "onboard_time": 1705166188,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 212852,
+      "num": 212852,
+      "word": "A股",
+      "onboard_time": 1705283129,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 211040,
@@ -1969,14 +2081,6 @@
       "onboard_time": 1705212391,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192769,
-      "num": 192769,
-      "word": "陈哲远 内娱最好笑的吃播选手",
-      "onboard_time": 1705281686,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 191686,
@@ -2201,6 +2305,14 @@
       "onboard_time": 1705190548,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173357,
+      "num": 173357,
+      "word": "女子直播专门找茬骂人被逮捕",
+      "onboard_time": 1705283488,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172683,
@@ -2443,6 +2555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152014,
+      "num": 152014,
+      "word": "2个半月宝宝被爸妈亲表情亮了",
+      "onboard_time": 1705283970,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149729,
       "num": 149729,
       "word": "对学历最中肯的评价之一",
@@ -2464,6 +2584,14 @@
       "word": "山河四省梦幻联动了",
       "onboard_time": 1705238731,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145909,
+      "num": 145909,
+      "word": "中国太空快递小哥一次能送更多货了",
+      "onboard_time": 1705285649,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2561,6 +2689,14 @@
       "onboard_time": 1705235971,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140228,
+      "num": 140228,
+      "word": "小熊猫带去哈尔滨的行李箱太可爱了",
+      "onboard_time": 1705284388,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139161,
@@ -2699,6 +2835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132617,
+      "num": 132617,
+      "word": "山西文旅不午休向河北卷王宣战",
+      "onboard_time": 1705285709,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132596,
       "num": 132596,
       "word": "考试最后一个考场 诸神黄昏",
@@ -2787,6 +2931,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 123812,
+      "num": 123812,
+      "word": "大东北的精致藏不住了",
+      "onboard_time": 1705286007,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123124,
       "num": 123124,
       "word": "GALA选手LPL征战五周年",
@@ -2817,14 +2969,6 @@
       "onboard_time": 1705149470,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121646,
-      "num": 121646,
-      "word": "男子称入职1月被口头辞退工资一分不发",
-      "onboard_time": 1705282828,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121361,

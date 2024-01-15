@@ -1,6 +1,6 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705282884446,
+  "endTime": 1705286088415,
   "band_list": [
     {
       "raw_hot": 2122341,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1818197,
+      "num": 915624,
+      "word": "于正再回应",
+      "onboard_time": 1705283788,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1762300,
       "num": 995715,
       "word": "祝绪丹 女二",
@@ -33,6 +41,22 @@
       "onboard_time": 1705245872,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1046789,
+      "num": 1046789,
+      "word": "哈尔滨哈药六厂 祖上富过",
+      "onboard_time": 1705282410,
+      "rank": 10,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 899968,
+      "num": 899968,
+      "word": "北京上空出现疑似不明飞行物",
+      "onboard_time": 1705284148,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 866988,
@@ -65,6 +89,14 @@
       "onboard_time": 1705233691,
       "rank": 4,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 753023,
+      "num": 753023,
+      "word": "新冠疫情可能在本月出现回升",
+      "onboard_time": 1705284570,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 736599,
@@ -139,12 +171,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 503589,
-      "num": 306113,
-      "word": "哈尔滨哈药六厂 祖上富过",
-      "onboard_time": 1705282410,
-      "rank": 10,
-      "category": "旅游"
+      "raw_hot": 471553,
+      "num": 410507,
+      "word": "宝宝 领导不是你的班主任",
+      "onboard_time": 1705282589,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 463987,
@@ -155,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460885,
+      "num": 460885,
+      "word": "女演员之间的惺惺相惜",
+      "onboard_time": 1705280611,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432102,
       "num": 432102,
       "word": "丹麦国王腓特烈十世登基",
@@ -163,10 +203,26 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 427507,
+      "num": 185318,
+      "word": "方流芳去世",
+      "onboard_time": 1705284448,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423364,
       "num": 423364,
       "word": "新闻女王赢麻了",
       "onboard_time": 1705276467,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 418703,
+      "num": 418703,
+      "word": "于正 我的剧从来都是靠剧情",
+      "onboard_time": 1705285288,
       "rank": 9,
       "category": "剧集"
     },
@@ -180,11 +236,27 @@
     },
     {
       "raw_hot": 384150,
-      "num": 221887,
+      "num": 223711,
       "word": "这就是我不发朋友圈的原因",
       "onboard_time": 1705276586,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 382517,
+      "num": 382517,
+      "word": "基金经理近45%从业年限不超3年",
+      "onboard_time": 1705282949,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 365134,
+      "num": 365134,
+      "word": "心疼李施嬅",
+      "onboard_time": 1705284208,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 361722,
@@ -203,12 +275,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 327940,
-      "num": 275833,
-      "word": "女演员之间的惺惺相惜",
-      "onboard_time": 1705280611,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 330274,
+      "num": 330274,
+      "word": "陈哲远 内娱最好笑的吃播选手",
+      "onboard_time": 1705281686,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 312197,
@@ -243,12 +315,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 273339,
-      "num": 165971,
-      "word": "宝宝 领导不是你的班主任",
-      "onboard_time": 1705282589,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 281916,
+      "num": 281916,
+      "word": "不要忽视霉菌对身体的危害",
+      "onboard_time": 1705284328,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 280279,
+      "num": 280279,
+      "word": "奚梦瑶何猷君感情好的原因",
+      "onboard_time": 1705284086,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 247698,
@@ -259,11 +339,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 240646,
+      "num": 240646,
+      "word": "虞书欣台下吃零食",
+      "onboard_time": 1705283609,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236902,
       "num": 236902,
       "word": "广州地铁",
       "onboard_time": 1705281686,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233019,
+      "num": 230799,
+      "word": "男子称入职1月被口头辞退工资一分不发",
+      "onboard_time": 1705282828,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -281,6 +377,22 @@
       "onboard_time": 1705241739,
       "rank": 21,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 214488,
+      "num": 214488,
+      "word": "陈伟霆龙年央视春晚彩排",
+      "onboard_time": 1705285587,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212852,
+      "num": 212852,
+      "word": "A股",
+      "onboard_time": 1705283129,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 211714,
@@ -313,14 +425,6 @@
       "onboard_time": 1705234530,
       "rank": 9,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 192769,
-      "num": 192769,
-      "word": "陈哲远 内娱最好笑的吃播选手",
-      "onboard_time": 1705281686,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 191904,
@@ -403,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173357,
+      "num": 173357,
+      "word": "女子直播专门找茬骂人被逮捕",
+      "onboard_time": 1705283488,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167989,
       "num": 167989,
       "word": "于文文回应陈哲远送瓜子",
@@ -459,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152014,
+      "num": 152014,
+      "word": "2个半月宝宝被爸妈亲表情亮了",
+      "onboard_time": 1705283970,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149729,
       "num": 149729,
       "word": "对学历最中肯的评价之一",
@@ -475,6 +595,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 145909,
+      "num": 145909,
+      "word": "中国太空快递小哥一次能送更多货了",
+      "onboard_time": 1705285649,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144889,
       "num": 144889,
       "word": "林子善获TVB最佳男配角",
@@ -489,6 +617,14 @@
       "onboard_time": 1705277127,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140228,
+      "num": 140228,
+      "word": "小熊猫带去哈尔滨的行李箱太可爱了",
+      "onboard_time": 1705284388,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139848,
@@ -515,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132617,
+      "num": 132617,
+      "word": "山西文旅不午休向河北卷王宣战",
+      "onboard_time": 1705285709,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132596,
       "num": 132596,
       "word": "考试最后一个考场 诸神黄昏",
@@ -539,11 +683,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121646,
-      "num": 121646,
-      "word": "男子称入职1月被口头辞退工资一分不发",
-      "onboard_time": 1705282828,
-      "rank": 39,
+      "raw_hot": 123812,
+      "num": 123812,
+      "word": "大东北的精致藏不住了",
+      "onboard_time": 1705286007,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
