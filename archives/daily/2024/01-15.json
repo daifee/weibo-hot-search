@@ -1,6 +1,6 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705295894034,
+  "endTime": 1705296908619,
   "band_list": [
     {
       "raw_hot": 2153559,
@@ -73,6 +73,14 @@
       "onboard_time": 1705245872,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1293853,
+      "num": 1293853,
+      "word": "身上有老人味可能是疾病信号",
+      "onboard_time": 1705290813,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1123180,
@@ -171,20 +179,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 705509,
-      "num": 705509,
-      "word": "身上有老人味可能是疾病信号",
-      "onboard_time": 1705290813,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 699301,
       "num": 699301,
       "word": "女生在731部队罪证陈列馆外送暖宝宝",
       "onboard_time": 1705242515,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691776,
+      "num": 257691,
+      "word": "玲子 她是一床发潮的棉被",
+      "onboard_time": 1705295672,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 683816,
@@ -347,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 457343,
+      "num": 457343,
+      "word": "杨紫 蛋仔派对代言人",
+      "onboard_time": 1705296389,
+      "rank": 13,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 451702,
       "num": 451702,
       "word": "利拉德三分绝杀",
@@ -443,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367816,
+      "num": 367816,
+      "word": "网络短剧 日本物价",
+      "onboard_time": 1705293274,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365134,
       "num": 365134,
       "word": "心疼李施嬅",
@@ -456,14 +480,6 @@
       "word": "陈豪TVB视帝",
       "onboard_time": 1705245456,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 360682,
-      "num": 271163,
-      "word": "网络短剧 日本物价",
-      "onboard_time": 1705293274,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -489,6 +505,14 @@
       "onboard_time": 1705281686,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323080,
+      "num": 323080,
+      "word": "李鸿其想与王紫璇结婚",
+      "onboard_time": 1705296691,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 312197,
@@ -675,6 +699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 218617,
+      "num": 218617,
+      "word": "因为不够上进朋友要跟我绝交",
+      "onboard_time": 1705295553,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212852,
       "num": 212852,
       "word": "A股",
@@ -747,14 +779,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201148,
-      "num": 201148,
-      "word": "玲子 她是一床发潮的棉被",
-      "onboard_time": 1705295672,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 198804,
       "num": 198804,
       "word": "十二星座一周运势",
@@ -825,6 +849,14 @@
       "onboard_time": 1705281749,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186426,
+      "num": 186426,
+      "word": "李莎旻子微博之夜主持vlog",
+      "onboard_time": 1705296211,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183664,
@@ -939,12 +971,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 162511,
-      "num": 162511,
-      "word": "因为不够上进朋友要跟我绝交",
-      "onboard_time": 1705295553,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 165363,
+      "num": 258385,
+      "word": "江苏调整全省最低工资标准",
+      "onboard_time": 1705293934,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161305,
@@ -1001,14 +1033,6 @@
       "onboard_time": 1705242695,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152057,
-      "num": 152057,
-      "word": "江苏调整全省最低工资标准",
-      "onboard_time": 1705293934,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149729,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1705245693,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132049,
+      "num": 132049,
+      "word": "爸爸满是宠爱看穿汉服的女儿",
+      "onboard_time": 1705296389,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130613,

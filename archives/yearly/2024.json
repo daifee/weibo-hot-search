@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705295894034,
+  "endTime": 1705296908619,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2123,6 +2123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1293853,
+      "num": 1293853,
+      "word": "身上有老人味可能是疾病信号",
+      "onboard_time": 1705290813,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1292816,
       "num": 1292816,
       "word": "家有儿女大电影定档",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704032475,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1222340,
-      "num": 373608,
-      "word": "贾玲最瘦的时候96斤",
-      "onboard_time": 1704962069,
-      "rank": 12,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
