@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705292544420,
+  "endTime": 1705293409600,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -283,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1123180,
+      "num": 1123180,
+      "word": "春晚第一次大彩排明星阵容",
+      "onboard_time": 1705289310,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1095666,
       "num": 1095666,
       "word": "国考排名",
@@ -331,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1057333,
+      "num": 1057333,
+      "word": "于正 我的剧从来都是靠剧情",
+      "onboard_time": 1705285288,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1051960,
       "num": 1051960,
       "word": "白冰首播",
@@ -363,14 +379,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1027968,
-      "num": 1027968,
-      "word": "于正 我的剧从来都是靠剧情",
-      "onboard_time": 1705285288,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1014196,
       "num": 1014196,
       "word": "田曦薇爱心痣",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 974563,
-      "num": 596733,
+      "num": 622757,
       "word": "外卖平台给骑手大量规划逆行送餐路线",
       "onboard_time": 1705287992,
       "rank": 18,
@@ -417,14 +425,6 @@
       "onboard_time": 1705233990,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 955267,
-      "num": 955267,
-      "word": "春晚第一次大彩排明星阵容",
-      "onboard_time": 1705289310,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 937674,
@@ -593,6 +593,14 @@
       "onboard_time": 1705236631,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 748094,
+      "num": 748094,
+      "word": "iPhone16将配备8GBRAM",
+      "onboard_time": 1705289549,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 732185,
@@ -819,6 +827,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 605598,
+      "num": 451532,
+      "word": "身上有老人味可能是疾病信号",
+      "onboard_time": 1705290813,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 604609,
       "num": 604609,
       "word": "李宇春谢谢李冰冰黄渤黄晓明",
@@ -883,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562195,
+      "num": 562195,
+      "word": "谭爷爷来北京是上春晚的",
+      "onboard_time": 1705291173,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559467,
       "num": 559467,
       "word": "丹麦女王正式退位",
@@ -921,22 +945,6 @@
       "onboard_time": 1705192051,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 545471,
-      "num": 545471,
-      "word": "iPhone16将配备8GBRAM",
-      "onboard_time": 1705289549,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 544149,
-      "num": 426322,
-      "word": "身上有老人味可能是疾病信号",
-      "onboard_time": 1705290813,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 543269,
@@ -1043,6 +1051,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 499756,
+      "num": 499756,
+      "word": "为啥人身上总有几根特长的毛",
+      "onboard_time": 1705291830,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 497468,
       "num": 497468,
       "word": "白敬亭春晚彩排路透",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1705282589,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 467711,
+      "num": 467711,
+      "word": "唐嫣回应哭肿了",
+      "onboard_time": 1705291774,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 467577,
@@ -1171,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446403,
+      "num": 446403,
+      "word": "张杰龙年央视春晚联排",
+      "onboard_time": 1705292074,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441407,
       "num": 441407,
       "word": "金枪鱼一出生就必须不停地游",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1705154630,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 426450,
-      "num": 426450,
-      "word": "谭爷爷来北京是上春晚的",
-      "onboard_time": 1705291173,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 425450,
@@ -1275,6 +1299,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 400218,
+      "num": 400218,
+      "word": "酸奶碗",
+      "onboard_time": 1705292012,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 397378,
       "num": 397378,
       "word": "不要忽视霉菌对身体的危害",
@@ -1289,6 +1321,14 @@
       "onboard_time": 1705269135,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386973,
+      "num": 386973,
+      "word": "迪丽热巴 行走的油画",
+      "onboard_time": 1705292074,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 386427,
@@ -1411,14 +1451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 360754,
-      "num": 360754,
-      "word": "唐嫣回应哭肿了",
-      "onboard_time": 1705291774,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 360143,
       "num": 271527,
       "word": "王鹤棣吴露可逃分界线",
@@ -1489,14 +1521,6 @@
       "onboard_time": 1705202613,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 318403,
-      "num": 238211,
-      "word": "为啥人身上总有几根特长的毛",
-      "onboard_time": 1705291830,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 318092,
@@ -1587,14 +1611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296429,
-      "num": 296429,
-      "word": "张杰龙年央视春晚联排",
-      "onboard_time": 1705292074,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 295289,
       "num": 266220,
       "word": "娜扎 性感风",
@@ -1659,6 +1675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 277929,
+      "num": 277929,
+      "word": "宋茜丁禹兮 山河枕",
+      "onboard_time": 1705290813,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277464,
       "num": 265397,
       "word": "王源和师弟们打招呼",
@@ -1673,14 +1697,6 @@
       "onboard_time": 1705158176,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 277240,
-      "num": 277240,
-      "word": "宋茜丁禹兮 山河枕",
-      "onboard_time": 1705290813,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 276089,
@@ -1843,6 +1859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 251169,
+      "num": 251169,
+      "word": "能看一天一夜的那种小说",
+      "onboard_time": 1705292074,
+      "rank": 35,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 249999,
       "num": 246943,
       "word": "杨紫爸妈去了微博之夜",
@@ -1881,14 +1905,6 @@
       "onboard_time": 1705205907,
       "rank": 46,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 241656,
-      "num": 241656,
-      "word": "迪丽热巴 行走的油画",
-      "onboard_time": 1705292074,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 240294,
@@ -2003,6 +2019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230435,
+      "num": 230435,
+      "word": "G社拍的柳智敏",
+      "onboard_time": 1705292553,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 228810,
       "num": 228810,
       "word": "微博之夜内场 熟人局",
@@ -2036,7 +2060,7 @@
     },
     {
       "raw_hot": 225782,
-      "num": 238245,
+      "num": 320428,
       "word": "深圳一药企在国外被骗近1亿",
       "onboard_time": 1705289790,
       "rank": 29,
@@ -2107,14 +2131,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 218488,
-      "num": 218488,
-      "word": "能看一天一夜的那种小说",
-      "onboard_time": 1705292074,
-      "rank": 35,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 218154,
       "num": 267869,
       "word": "刘彬彬一过二",
@@ -2129,14 +2145,6 @@
       "onboard_time": 1705210110,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 214280,
-      "num": 214280,
-      "word": "酸奶碗",
-      "onboard_time": 1705292012,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 214039,
@@ -2163,12 +2171,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 211523,
+      "num": 211523,
+      "word": "肩颈痛大多是斜方肌出问题",
+      "onboard_time": 1705288229,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 211040,
       "num": 168190,
       "word": "黄景瑜北方血脉觉醒",
       "onboard_time": 1705207110,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209976,
+      "num": 209976,
+      "word": "杨紫范丞丞好台偶",
+      "onboard_time": 1705293155,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 209771,
@@ -2248,6 +2272,14 @@
       "word": "河南煤矿事故已致13人遇难3人失联",
       "onboard_time": 1705225051,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204766,
+      "num": 204766,
+      "word": "河北文旅开始给宣传片打马赛克",
+      "onboard_time": 1705290030,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2331,14 +2363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193198,
-      "num": 193198,
-      "word": "河北文旅开始给宣传片打马赛克",
-      "onboard_time": 1705290030,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191686,
       "num": 191686,
       "word": "光遇",
@@ -2355,20 +2379,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 191010,
-      "num": 191010,
-      "word": "肩颈痛大多是斜方肌出问题",
-      "onboard_time": 1705288229,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 190858,
       "num": 190858,
       "word": "冻干水果是智商税吗",
       "onboard_time": 1705233027,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 190598,
+      "num": 190598,
+      "word": "张颂文马嘉祺微博之夜后台拥抱",
+      "onboard_time": 1705292313,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190322,
@@ -2473,6 +2497,14 @@
       "onboard_time": 1705279230,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182364,
+      "num": 182364,
+      "word": "女孩带全家做出直径6米巨型琉璃",
+      "onboard_time": 1705292671,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182102,
@@ -2683,6 +2715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167874,
+      "num": 167874,
+      "word": "网络短剧 日本物价",
+      "onboard_time": 1705293274,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167809,
       "num": 167809,
       "word": "曾舜晞的围脖掉色",
@@ -2697,14 +2737,6 @@
       "onboard_time": 1705209570,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167489,
-      "num": 167489,
-      "word": "张颂文马嘉祺微博之夜后台拥抱",
-      "onboard_time": 1705292313,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 167345,
@@ -2801,6 +2833,14 @@
       "onboard_time": 1705161036,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158942,
+      "num": 517980,
+      "word": "当我查完第一笔花呗账单",
+      "onboard_time": 1705291231,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 158609,
@@ -2929,6 +2969,14 @@
       "onboard_time": 1705286007,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144776,
+      "num": 144776,
+      "word": "贝林厄姆皇马首冠",
+      "onboard_time": 1705290870,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 144084,
@@ -3073,14 +3121,6 @@
       "onboard_time": 1705280969,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 137210,
-      "num": 137210,
-      "word": "贝林厄姆皇马首冠",
-      "onboard_time": 1705290870,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 137089,
@@ -3377,14 +3417,6 @@
       "onboard_time": 1705236211,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 110296,
-      "num": 517980,
-      "word": "当我查完第一笔花呗账单",
-      "onboard_time": 1705291231,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 110195,
@@ -3835,6 +3867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38465,
+      "num": 1219349,
+      "word": "党的自我革命永远在路上",
+      "onboard_time": 1705291290,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38046,
       "num": 56357,
       "word": "周深郎朗合作表演",
@@ -3849,14 +3889,6 @@
       "onboard_time": 1705176854,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 34272,
-      "num": 1219349,
-      "word": "党的自我革命永远在路上",
-      "onboard_time": 1705291290,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29344,
@@ -3900,7 +3932,7 @@
     },
     {
       "raw_hot": 23034,
-      "num": 309757,
+      "num": 393281,
       "word": "宋轶微博之夜状态",
       "onboard_time": 1705291533,
       "rank": 25,
