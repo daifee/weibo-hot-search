@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705307816263,
+  "endTime": 1705310354265,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2763,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1140745,
+      "num": 1140745,
+      "word": "虞书欣回应唐嫣",
+      "onboard_time": 1705304669,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1139131,
       "num": 1139131,
       "word": "沈耀承认了抑郁症",
@@ -2817,6 +2825,14 @@
       "onboard_time": 1704851790,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1129222,
+      "num": 1129222,
+      "word": "全球近8亿人工资落后于通货膨胀",
+      "onboard_time": 1705305868,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 1127116,
@@ -3289,14 +3305,6 @@
       "onboard_time": 1704677908,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1035510,
-      "num": 1035510,
-      "word": "虞书欣回应唐嫣",
-      "onboard_time": 1705304669,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1035478,
@@ -4585,6 +4593,14 @@
       "onboard_time": 1704714210,
       "rank": 10,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 840189,
+      "num": 840189,
+      "word": "00后男生收破烂年入20万",
+      "onboard_time": 1705304608,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 840027,
@@ -7171,14 +7187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 647425,
-      "num": 647425,
-      "word": "全球近8亿人工资落后于通货膨胀",
-      "onboard_time": 1705305868,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 647062,
       "num": 647062,
       "word": "玲花是来争夺赵露思抚养权的",
@@ -8395,14 +8403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 574356,
-      "num": 574356,
-      "word": "00后男生收破烂年入20万",
-      "onboard_time": 1705304608,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 574290,
       "num": 574290,
       "word": "19岁景甜的西雅图vlog",
@@ -8571,6 +8571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 564459,
+      "num": 564459,
+      "word": "于正回应白鹿下部剧",
+      "onboard_time": 1705307847,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 564268,
       "num": 564268,
       "word": "甘肃积石山县3.1级地震",
@@ -8584,6 +8592,14 @@
       "word": "吃葡萄柚是一件很私人的事",
       "onboard_time": 1704712110,
       "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 562624,
+      "num": 429343,
+      "word": "因为懒而得到了北京户口",
+      "onboard_time": 1705308689,
+      "rank": 10,
       "category": "幽默"
     },
     {
@@ -11715,6 +11731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 432470,
+      "num": 432470,
+      "word": "90后瓦工日薪2000在省会买了房",
+      "onboard_time": 1705305749,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432448,
       "num": 432448,
       "word": "请和我的老公结婚",
@@ -12505,6 +12529,14 @@
       "onboard_time": 1704582380,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 406250,
+      "num": 406250,
+      "word": "彭昱畅收到张婧仪送的话筒",
+      "onboard_time": 1705307010,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 406182,
@@ -14475,6 +14507,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 333882,
+      "num": 250752,
+      "word": "第一批回村的猫咪已经被欺负了",
+      "onboard_time": 1705308450,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 333852,
       "num": 333852,
       "word": "28岁后我当上村里老人共享孙女",
@@ -14577,6 +14617,14 @@
       "onboard_time": 1704932551,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 329080,
+      "num": 329080,
+      "word": "台当局所谓的邦交国剩余12个",
+      "onboard_time": 1705307368,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 328813,
@@ -14817,14 +14865,6 @@
       "onboard_time": 1705132598,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322542,
-      "num": 322542,
-      "word": "彭昱畅收到张婧仪送的话筒",
-      "onboard_time": 1705307010,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 322315,
@@ -15249,14 +15289,6 @@
       "onboard_time": 1704692490,
       "rank": 12,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 313198,
-      "num": 313198,
-      "word": "90后瓦工日薪2000在省会买了房",
-      "onboard_time": 1705305749,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313180,
@@ -18083,6 +18115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253237,
+      "num": 253237,
+      "word": "美国爱泼斯坦案更多细节曝光",
+      "onboard_time": 1705309407,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252984,
       "num": 219258,
       "word": "日本核电站",
@@ -18153,6 +18193,14 @@
       "onboard_time": 1704086192,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251405,
+      "num": 251405,
+      "word": "儿子包机带母亲从台湾回大陆老家",
+      "onboard_time": 1705308930,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251384,
@@ -20763,6 +20811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217543,
+      "num": 217543,
+      "word": "祈今朝",
+      "onboard_time": 1705309169,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217522,
       "num": 217522,
       "word": "央广网评哈尔滨火了",
@@ -20961,6 +21017,14 @@
       "onboard_time": 1704165215,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214726,
+      "num": 214726,
+      "word": "3年挣102万外卖骑手辟谣被打",
+      "onboard_time": 1705309888,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214710,
@@ -23451,6 +23515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195091,
+      "num": 195091,
+      "word": "NMIXX回归",
+      "onboard_time": 1705309888,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195050,
       "num": 195050,
       "word": "白鹿红衣梦回时宜",
@@ -24475,6 +24547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187352,
+      "num": 187352,
+      "word": "日本地震已致222人死亡",
+      "onboard_time": 1705310070,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187351,
       "num": 187351,
       "word": "终于轮到山东带孩子了",
@@ -25401,6 +25481,14 @@
       "onboard_time": 1704856352,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180887,
+      "num": 180887,
+      "word": "周深评论区的于适",
+      "onboard_time": 1705308568,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180827,
@@ -26713,14 +26801,6 @@
       "onboard_time": 1704784651,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172174,
-      "num": 172174,
-      "word": "台当局所谓的邦交国剩余12个",
-      "onboard_time": 1705307368,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 172156,
@@ -29827,6 +29907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150219,
+      "num": 150219,
+      "word": "北方的朋友解释一下这是什么",
+      "onboard_time": 1705309110,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150208,
       "num": 154205,
       "word": "距离春节还有一个月",
@@ -30689,6 +30777,14 @@
       "onboard_time": 1705026329,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144584,
+      "num": 144584,
+      "word": "张之臻澳网首胜",
+      "onboard_time": 1705309287,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 144513,
@@ -33019,6 +33115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130469,
+      "num": 130469,
+      "word": "陈若华 颠婆养不出小白花",
+      "onboard_time": 1705310130,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130443,
       "num": 130443,
       "word": "向鹏袁励岑晋级男双四强",
@@ -33145,6 +33249,14 @@
       "onboard_time": 1705154148,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129944,
+      "num": 129944,
+      "word": "猫猫meme",
+      "onboard_time": 1705308930,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 129862,
@@ -33297,6 +33409,14 @@
       "onboard_time": 1704263309,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128976,
+      "num": 128976,
+      "word": "和颂四美",
+      "onboard_time": 1705310248,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 128957,
@@ -34121,6 +34241,14 @@
       "onboard_time": 1704265350,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 123907,
+      "num": 123907,
+      "word": "前国脚曾拒绝效力国家队",
+      "onboard_time": 1705308026,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 123882,

@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705307816263,
+  "endTime": 1705310354265,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -315,6 +315,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1140745,
+      "num": 1140745,
+      "word": "虞书欣回应唐嫣",
+      "onboard_time": 1705304669,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1129222,
+      "num": 1129222,
+      "word": "全球近8亿人工资落后于通货膨胀",
+      "onboard_time": 1705305868,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1123180,
       "num": 1123180,
       "word": "春晚第一次大彩排明星阵容",
@@ -409,14 +425,6 @@
       "onboard_time": 1705297709,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1035510,
-      "num": 1035510,
-      "word": "虞书欣回应唐嫣",
-      "onboard_time": 1705304669,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1031863,
@@ -553,6 +561,14 @@
       "onboard_time": 1705218510,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 840189,
+      "num": 840189,
+      "word": "00后男生收破烂年入20万",
+      "onboard_time": 1705304608,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 835576,
@@ -875,14 +891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 647425,
-      "num": 647425,
-      "word": "全球近8亿人工资落后于通货膨胀",
-      "onboard_time": 1705305868,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 641320,
       "num": 641320,
       "word": "唐嫣想和虞书欣双人海钓",
@@ -1035,20 +1043,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 574356,
-      "num": 574356,
-      "word": "00后男生收破烂年入20万",
-      "onboard_time": 1705304608,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 566361,
       "num": 566361,
       "word": "发年终奖前离职还能拿年终奖吗",
       "onboard_time": 1705194211,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564459,
+      "num": 564459,
+      "word": "于正回应白鹿下部剧",
+      "onboard_time": 1705307847,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 562624,
+      "num": 429343,
+      "word": "因为懒而得到了北京户口",
+      "onboard_time": 1705308689,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 562195,
@@ -1403,6 +1419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 432470,
+      "num": 432470,
+      "word": "90后瓦工日薪2000在省会买了房",
+      "onboard_time": 1705305749,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432102,
       "num": 432102,
       "word": "丹麦国王腓特烈十世登基",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1705299929,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 406250,
+      "num": 406250,
+      "word": "彭昱畅收到张婧仪送的话筒",
+      "onboard_time": 1705307010,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 402155,
@@ -1707,6 +1739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 333882,
+      "num": 250752,
+      "word": "第一批回村的猫咪已经被欺负了",
+      "onboard_time": 1705308450,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 330274,
       "num": 330274,
       "word": "陈哲远 内娱最好笑的吃播选手",
@@ -1715,19 +1755,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 329080,
+      "num": 329080,
+      "word": "台当局所谓的邦交国剩余12个",
+      "onboard_time": 1705307368,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 329030,
       "num": 266475,
       "word": "胡歌一手牵唐嫣一手牵辛芷蕾",
       "onboard_time": 1705155831,
       "rank": 35,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 322542,
-      "num": 322542,
-      "word": "彭昱畅收到张婧仪送的话筒",
-      "onboard_time": 1705307010,
-      "rank": 45,
       "category": "作品衍生"
     },
     {
@@ -1777,14 +1817,6 @@
       "onboard_time": 1705205310,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 313198,
-      "num": 313198,
-      "word": "90后瓦工日薪2000在省会买了房",
-      "onboard_time": 1705305749,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313180,
@@ -2113,6 +2145,22 @@
       "onboard_time": 1705227630,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 253237,
+      "num": 253237,
+      "word": "美国爱泼斯坦案更多细节曝光",
+      "onboard_time": 1705309407,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251405,
+      "num": 251405,
+      "word": "儿子包机带母亲从台湾回大陆老家",
+      "onboard_time": 1705308930,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251169,
@@ -2467,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217543,
+      "num": 217543,
+      "word": "祈今朝",
+      "onboard_time": 1705309169,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214951,
       "num": 214951,
       "word": "专家回应多地天空现不明飞行物",
@@ -2481,6 +2537,14 @@
       "onboard_time": 1705210110,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214726,
+      "num": 214726,
+      "word": "3年挣102万外卖骑手辟谣被打",
+      "onboard_time": 1705309888,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214650,
@@ -2723,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195091,
+      "num": 195091,
+      "word": "NMIXX回归",
+      "onboard_time": 1705309888,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194462,
       "num": 194462,
       "word": "阿云嘎是陈丽君的小迷弟",
@@ -2825,6 +2897,14 @@
       "onboard_time": 1705216172,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 187352,
+      "num": 187352,
+      "word": "日本地震已致222人死亡",
+      "onboard_time": 1705310070,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187070,
@@ -2953,6 +3033,14 @@
       "onboard_time": 1705235732,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 180887,
+      "num": 180887,
+      "word": "周深评论区的于适",
+      "onboard_time": 1705308568,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180667,
@@ -3097,14 +3185,6 @@
       "onboard_time": 1705205669,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172174,
-      "num": 172174,
-      "word": "台当局所谓的邦交国剩余12个",
-      "onboard_time": 1705307368,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 171832,
@@ -3379,6 +3459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150219,
+      "num": 150219,
+      "word": "北方的朋友解释一下这是什么",
+      "onboard_time": 1705309110,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149729,
       "num": 149729,
       "word": "对学历最中肯的评价之一",
@@ -3456,6 +3544,14 @@
       "word": "贝林厄姆皇马首冠",
       "onboard_time": 1705290870,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144584,
+      "num": 144584,
+      "word": "张之臻澳网首胜",
+      "onboard_time": 1705309287,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -3795,12 +3891,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130469,
+      "num": 130469,
+      "word": "陈若华 颠婆养不出小白花",
+      "onboard_time": 1705310130,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129944,
+      "num": 129944,
+      "word": "猫猫meme",
+      "onboard_time": 1705308930,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129821,
       "num": 129821,
       "word": "Maeng给虞书欣化的妆",
       "onboard_time": 1705221030,
       "rank": 45,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 128976,
+      "num": 128976,
+      "word": "和颂四美",
+      "onboard_time": 1705310248,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127686,
@@ -3872,6 +3992,14 @@
       "word": "国足进球被吹",
       "onboard_time": 1705187600,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123907,
+      "num": 123907,
+      "word": "前国脚曾拒绝效力国家队",
+      "onboard_time": 1705308026,
+      "rank": 48,
       "category": "体育"
     },
     {
