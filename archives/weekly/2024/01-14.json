@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705354451015,
+  "endTime": 1705357038649,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -5235,6 +5235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98330,
+      "num": 98330,
+      "word": "周震南父亲公司被强执44万",
+      "onboard_time": 1705350014,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97176,
       "num": 425142,
       "word": "美女吃零食也叫cityeat",
@@ -5323,6 +5331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85391,
+      "num": 44853,
+      "word": "三门峡小学幼儿园停课停学",
+      "onboard_time": 1705349115,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81852,
       "num": 343419,
       "word": "去尔滨看雪来广东看海",
@@ -5409,14 +5425,6 @@
       "onboard_time": 1705335026,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 69483,
-      "num": 69483,
-      "word": "周震南父亲公司被强执44万",
-      "onboard_time": 1705350014,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 68358,
@@ -5595,14 +5603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50846,
-      "num": 29974,
-      "word": "三门峡小学幼儿园停课停学",
-      "onboard_time": 1705349115,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45927,
       "num": 350581,
       "word": "河南人间烟火气",
@@ -5636,7 +5636,7 @@
     },
     {
       "raw_hot": 45044,
-      "num": 29723,
+      "num": 42668,
       "word": "宜家紧急召回3008件充电器",
       "onboard_time": 1705348094,
       "rank": 14,
@@ -5723,6 +5723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 29759,
+      "num": 25881,
+      "word": "降低体脂率的技巧",
+      "onboard_time": 1705351694,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 29344,
       "num": 118046,
       "word": "清清 我真的想笑",
@@ -5787,6 +5795,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21821,
+      "num": 21821,
+      "word": "刘涛微博之夜最想和高叶合影",
+      "onboard_time": 1705344134,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21357,
+      "num": 21357,
+      "word": "自动扶梯的第二块踏板真的会吃人",
+      "onboard_time": 1705353253,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 20944,
       "num": 163794,
       "word": "杨紫提醒粉丝注意保暖",
@@ -5819,16 +5843,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 19631,
-      "num": 19631,
-      "word": "刘涛微博之夜最想和高叶合影",
-      "onboard_time": 1705344134,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 18619,
-      "num": 15294,
+      "num": 18152,
       "word": "瑙鲁",
       "onboard_time": 1705348033,
       "rank": 30,
@@ -5843,20 +5859,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16540,
-      "num": 16540,
-      "word": "降低体脂率的技巧",
-      "onboard_time": 1705351694,
-      "rank": 29,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 15734,
       "num": 15734,
       "word": "代号鸢",
       "onboard_time": 1705345935,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15364,
+      "num": 15364,
+      "word": "理想汽车回应全系车型降价超3万",
+      "onboard_time": 1705355533,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 15192,
+      "num": 15192,
+      "word": "没想到被一只猫挑衅了",
+      "onboard_time": 1705355295,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 14632,
@@ -5881,14 +5905,6 @@
       "onboard_time": 1705345874,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 11879,
-      "num": 11879,
-      "word": "自动扶梯的第二块踏板真的会吃人",
-      "onboard_time": 1705353253,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 11142,
