@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705300670530,
+  "endTime": 1705303049231,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -529,6 +529,14 @@
       "onboard_time": 1704100598,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2346671,
+      "num": 2346671,
+      "word": "瑙鲁与台湾断交",
+      "onboard_time": 1705299810,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2324158,
@@ -1385,14 +1393,6 @@
       "onboard_time": 1704684392,
       "rank": 31,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1562571,
-      "num": 1562571,
-      "word": "瑙鲁与台湾断交",
-      "onboard_time": 1705299810,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1561985,

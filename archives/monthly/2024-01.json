@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705300670530,
+  "endTime": 1705303049231,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -529,6 +529,14 @@
       "onboard_time": 1704100598,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2346671,
+      "num": 2346671,
+      "word": "瑙鲁与台湾断交",
+      "onboard_time": 1705299810,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2324158,
@@ -1385,14 +1393,6 @@
       "onboard_time": 1704684392,
       "rank": 31,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1562571,
-      "num": 1562571,
-      "word": "瑙鲁与台湾断交",
-      "onboard_time": 1705299810,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1561985,
@@ -4643,6 +4643,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 835576,
+      "num": 835576,
+      "word": "46岁知名麻醉科医生去世",
+      "onboard_time": 1705299569,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 835479,
       "num": 835479,
       "word": "验证码 验蠢",
@@ -5148,7 +5156,7 @@
     },
     {
       "raw_hot": 789184,
-      "num": 467676,
+      "num": 488964,
       "word": "李鸿其想与王紫璇结婚",
       "onboard_time": 1705296691,
       "rank": 22,
@@ -8307,6 +8315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 576156,
+      "num": 576156,
+      "word": "方便面真是垃圾食品吗",
+      "onboard_time": 1705297950,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 576135,
       "num": 576135,
       "word": "肯德基回应吃出生肉",
@@ -8633,6 +8649,14 @@
       "onboard_time": 1704627211,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 556044,
+      "num": 556044,
+      "word": "易烊千玺成毅喊你来湖南",
+      "onboard_time": 1705300529,
+      "rank": 29,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 556010,
@@ -10676,7 +10700,7 @@
     },
     {
       "raw_hot": 473540,
-      "num": 275125,
+      "num": 294581,
       "word": "男子假离婚后发现孩子不是亲生的",
       "onboard_time": 1705298250,
       "rank": 20,
@@ -10873,6 +10897,14 @@
       "onboard_time": 1704427715,
       "rank": 19,
       "category": "剧集,美妆"
+    },
+    {
+      "raw_hot": 466821,
+      "num": 466821,
+      "word": "中方对瑙鲁政府决定表示赞赏和欢迎",
+      "onboard_time": 1705302449,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 466549,
@@ -11305,6 +11337,14 @@
       "onboard_time": 1704779311,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 447206,
+      "num": 447206,
+      "word": "瑙鲁政府宣布承认一个中国",
+      "onboard_time": 1705302629,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 446733,
@@ -12371,6 +12411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 408829,
+      "num": 291141,
+      "word": "暧昧上头聊天记录",
+      "onboard_time": 1705299929,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 408659,
       "num": 408659,
       "word": "伊朗一地连续发生两次爆炸",
@@ -13113,14 +13161,6 @@
       "onboard_time": 1705039890,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 379368,
-      "num": 379368,
-      "word": "46岁知名麻醉科医生去世",
-      "onboard_time": 1705299569,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 379347,
@@ -14081,6 +14121,14 @@
       "onboard_time": 1705029267,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342673,
+      "num": 342673,
+      "word": "创造营亚洲学员官宣",
+      "onboard_time": 1705300346,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 342414,
@@ -16931,6 +16979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270977,
+      "num": 270977,
+      "word": "我和papi酱的愿望是一样的",
+      "onboard_time": 1705302029,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 270732,
       "num": 270732,
       "word": "河南一被弃养男婴遭姥姥拒收",
@@ -17123,14 +17179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267119,
-      "num": 267119,
-      "word": "方便面真是垃圾食品吗",
-      "onboard_time": 1705297950,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 267052,
       "num": 267052,
       "word": "王源去新疆了",
@@ -17305,6 +17353,14 @@
       "onboard_time": 1704237864,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264598,
+      "num": 264598,
+      "word": "王一博后背贴了暖宝宝吗",
+      "onboard_time": 1705302029,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 264596,
@@ -17585,14 +17641,6 @@
       "onboard_time": 1704550775,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 260000,
-      "num": 260000,
-      "word": "暧昧上头聊天记录",
-      "onboard_time": 1705299929,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 259941,
@@ -18833,6 +18881,14 @@
       "onboard_time": 1704165817,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 238401,
+      "num": 238401,
+      "word": "魏大勋收到雷佳音送的核桃",
+      "onboard_time": 1705300410,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 238395,
@@ -20795,6 +20851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214951,
+      "num": 214951,
+      "word": "专家回应多地天空现不明飞行物",
+      "onboard_time": 1705301549,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214941,
       "num": 179662,
       "word": "分手是你的武器吗",
@@ -21889,14 +21953,6 @@
       "onboard_time": 1704421048,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204544,
-      "num": 204544,
-      "word": "创造营亚洲学员官宣",
-      "onboard_time": 1705300346,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 204537,
@@ -25099,14 +25155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182262,
-      "num": 182262,
-      "word": "易烊千玺成毅喊你来湖南",
-      "onboard_time": 1705300529,
-      "rank": 29,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 182102,
       "num": 182102,
       "word": "大叔冰面上手劈通道救人双臂鲜血淋漓",
@@ -25747,6 +25795,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 177396,
+      "num": 177396,
+      "word": "献血小卡",
+      "onboard_time": 1705302507,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 177346,
       "num": 177346,
       "word": "越南虽败犹荣",
@@ -25873,6 +25929,14 @@
       "onboard_time": 1704439774,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176078,
+      "num": 176078,
+      "word": "刘谦现身龙年央视春晚首次联排",
+      "onboard_time": 1705301246,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 176063,
@@ -27643,6 +27707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164549,
+      "num": 164549,
+      "word": "王俊凯回应待映作品上映时间",
+      "onboard_time": 1705301729,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164484,
       "num": 164484,
       "word": "文旅厅刷评论满足哈尔滨游客一切要求",
@@ -28337,6 +28409,14 @@
       "onboard_time": 1704506789,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158997,
+      "num": 158997,
+      "word": "当狗狗意识到主人要给它刷牙",
+      "onboard_time": 1705301069,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 158986,
@@ -31051,6 +31131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141122,
+      "num": 141122,
+      "word": "东北女孩长啥样",
+      "onboard_time": 1705301849,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140967,
       "num": 140967,
       "word": "四川男篮MC宣布离职",
@@ -31528,6 +31616,14 @@
       "word": "小江西三姐妹",
       "onboard_time": 1704723154,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137697,
+      "num": 137697,
+      "word": "于正直播",
+      "onboard_time": 1705301609,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -32035,14 +32131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 134860,
-      "num": 134860,
-      "word": "魏大勋收到雷佳音送的核桃",
-      "onboard_time": 1705300410,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 134833,
       "num": 134833,
       "word": "埃塞俄比亚选手厦门马拉松夺冠",
@@ -32345,6 +32433,14 @@
       "onboard_time": 1704791611,
       "rank": 48,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 132613,
+      "num": 132613,
+      "word": "Meiko和Deft连撞六局",
+      "onboard_time": 1705302809,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 132596,
@@ -35841,6 +35937,14 @@
       "onboard_time": 1705104445,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106454,
+      "num": 106454,
+      "word": "创造营公式照",
+      "onboard_time": 1705302930,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 106390,
