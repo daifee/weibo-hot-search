@@ -1,0 +1,410 @@
+{
+  "runTime": 1705346063792,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 125143,
+        "num": 125143,
+        "word": "千万不要对抑郁症朋友说",
+        "onboard_time": 1705319911,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93571,
+        "num": 93571,
+        "word": "家有儿女将开拍原班人马全员回归",
+        "onboard_time": 1705315291,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 8246,
+        "num": 80884,
+        "word": "空军红鹰飞行表演队最新训练大片",
+        "onboard_time": 1705324293,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112968,
+        "num": 80877,
+        "word": "经期5个表现说明子宫很健康",
+        "onboard_time": 1705325251,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79872,
+        "num": 79872,
+        "word": "户口簿上再婚能否登记为已婚",
+        "onboard_time": 1705324773,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60955,
+        "num": 60955,
+        "word": "安心丈夫拒绝同房",
+        "onboard_time": 1705331611,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60812,
+        "num": 60812,
+        "word": "苹果官网大降价可退差价",
+        "onboard_time": 1705316007,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 48496,
+        "num": 48496,
+        "word": "杨幂绿戒指红美甲",
+        "onboard_time": 1705324954,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 45205,
+        "num": 45205,
+        "word": "中方将给予瑞士单方面免签",
+        "onboard_time": 1705322973,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43673,
+        "num": 43673,
+        "word": "陈泽直播",
+        "onboard_time": 1705325132,
+        "rank": 9,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 81199,
+        "num": 42785,
+        "word": "168元火锅套餐生菜只有1片叶子",
+        "onboard_time": 1705338321,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41710,
+        "num": 41710,
+        "word": "女子40分钟一锅做出14道菜",
+        "onboard_time": 1705332990,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 38879,
+        "num": 38879,
+        "word": "周笔畅 第二名离第一就差一口气",
+        "onboard_time": 1705331669,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37815,
+        "num": 37815,
+        "word": "吴宣仪五福临门试戏片段",
+        "onboard_time": 1705342100,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36917,
+        "num": 36917,
+        "word": "原来护发素这么有用",
+        "onboard_time": 1705328551,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 36500,
+        "num": 36500,
+        "word": "皇额娘推了熹娘娘原来是这个推",
+        "onboard_time": 1705319610,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29444,
+        "num": 29444,
+        "word": "张雪峰向哈理工捐款100万",
+        "onboard_time": 1705319191,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26363,
+        "num": 26363,
+        "word": "6100元的娇兰量子面霜引科学家吐槽",
+        "onboard_time": 1705328793,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 26257,
+        "num": 26257,
+        "word": "华晨宇 我祝你幸福而不是强大",
+        "onboard_time": 1705315049,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24648,
+        "num": 24648,
+        "word": "壶鱼辣椒",
+        "onboard_time": 1705327953,
+        "rank": 19,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 47746,
+        "num": 24176,
+        "word": "举报县委书记被逮捕的河北老干部回家",
+        "onboard_time": 1705328974,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36190,
+        "num": 24060,
+        "word": "你还在等五月天假唱风波调查结果吗",
+        "onboard_time": 1705332689,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34602,
+        "num": 23824,
+        "word": "夫妻不熟的聊天记录",
+        "onboard_time": 1705322909,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23349,
+        "num": 23349,
+        "word": "广州W酒店将停业",
+        "onboard_time": 1705314088,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22282,
+        "num": 22282,
+        "word": "花花一天被粉丝盘包浆",
+        "onboard_time": 1705325791,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21942,
+        "num": 21942,
+        "word": "许嵩回复了张靓颖",
+        "onboard_time": 1705331310,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21641,
+        "num": 21641,
+        "word": "龙茅价格腰斩至3000元",
+        "onboard_time": 1705334069,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21067,
+        "num": 21067,
+        "word": "拍薛之谦的人找到了",
+        "onboard_time": 1705329151,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20492,
+        "num": 20492,
+        "word": "虞书欣回应唐嫣",
+        "onboard_time": 1705304669,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19886,
+        "num": 19886,
+        "word": "爱是常觉亏欠啊",
+        "onboard_time": 1705329151,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19850,
+        "num": 19850,
+        "word": "水均益女儿宣布开启直播带货",
+        "onboard_time": 1705321172,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19631,
+        "num": 19631,
+        "word": "刘涛微博之夜最想和高叶合影",
+        "onboard_time": 1705344134,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18496,
+        "num": 18496,
+        "word": "国足vs黎巴嫩",
+        "onboard_time": 1705320930,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18353,
+        "num": 18353,
+        "word": "陈泽说我有恋丑癖",
+        "onboard_time": 1705328012,
+        "rank": 33,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 16541,
+        "num": 16541,
+        "word": "胡歌白敬亭微信加上了吗",
+        "onboard_time": 1705310791,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16052,
+        "num": 16052,
+        "word": "邓为抽到了米卡自制的手机支架",
+        "onboard_time": 1705330891,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15863,
+        "num": 15863,
+        "word": "便捷抓夹半扎发",
+        "onboard_time": 1705342695,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 15716,
+        "num": 15716,
+        "word": "肖战李宁直播",
+        "onboard_time": 1705335985,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 15436,
+        "num": 15436,
+        "word": "警方通报女子驾车当街撞倒丈夫",
+        "onboard_time": 1705323451,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15319,
+        "num": 15319,
+        "word": "杨紫回应每年都有爆剧",
+        "onboard_time": 1705316912,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15232,
+        "num": 15232,
+        "word": "散步真的特别有恋爱感",
+        "onboard_time": 1705324232,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15146,
+        "num": 15146,
+        "word": "湖南卫视帮湖南文旅摇人",
+        "onboard_time": 1705321648,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 15025,
+        "num": 15025,
+        "word": "湖南文旅搬出易烊千玺了",
+        "onboard_time": 1705318470,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14944,
+        "num": 14944,
+        "word": "结婚前一定要知道的几件事",
+        "onboard_time": 1705323211,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14319,
+        "num": 14319,
+        "word": "虞书欣黄轩互关",
+        "onboard_time": 1705337421,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13880,
+        "num": 13880,
+        "word": "点了个御赐的外卖",
+        "onboard_time": 1705335026,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13503,
+        "num": 13503,
+        "word": "代号鸢",
+        "onboard_time": 1705345935,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13422,
+        "num": 13422,
+        "word": "黄子弘凡长沙抢票",
+        "onboard_time": 1705345993,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13118,
+        "num": 13118,
+        "word": "月经3天和7天均属正常",
+        "onboard_time": 1705319971,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 12981,
+        "num": 12981,
+        "word": "王鹤棣男友风机场穿搭",
+        "onboard_time": 1705327594,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
