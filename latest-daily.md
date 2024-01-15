@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/16 00:22:56 ~ 2024/01/16 04:18:53
+本榜单时间：2024/01/16 00:22:56 ~ 2024/01/16 04:34:23
 </p>
 </blockquote>
 <p>
@@ -327,6 +327,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9C%E5%AE%B6%E7%B4%A7%E6%80%A5%E5%8F%AC%E5%9B%9E3008%E4%BB%B6%E5%85%85%E7%94%B5%E5%99%A8%23" target="weibo">
+宜家紧急召回3008件充电器（热度：39528）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E4%BA%94%E7%A6%8F%E4%B8%B4%E9%97%A8%E8%AF%95%E6%88%8F%E7%89%87%E6%AE%B5%23" target="weibo">
 吴宣仪五福临门试戏片段（热度：37815）
 </a>
@@ -345,14 +351,20 @@ aespa时代遗憾MV（热度：37088）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9C%E5%AE%B6%E7%B4%A7%E6%80%A5%E5%8F%AC%E5%9B%9E3008%E4%BB%B6%E5%85%85%E7%94%B5%E5%99%A8%23" target="weibo">
-宜家紧急召回3008件充电器（热度：24872）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E6%89%A744%E4%B8%87%23" target="weibo">
+周震南父亲公司被强执44万（热度：27209）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E6%9D%8E%E4%BA%91%E9%9C%84%E8%B0%88%E7%88%86%E7%BA%A2%E5%90%8E%E7%9A%84%E5%BF%83%E6%83%85%23" target="weibo">
 陈丽君李云霄谈爆红后的心情（热度：23346）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%97%A8%E5%B3%A1%E5%B0%8F%E5%AD%A6%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%81%9C%E8%AF%BE%E5%81%9C%E5%AD%A6%23" target="weibo">
+三门峡小学幼儿园停课停学（热度：21184）
 </a>
 </li>
 
@@ -370,19 +382,13 @@ aespa时代遗憾MV（热度：37088）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%99%E9%B2%81%23" target="weibo">
-瑙鲁（热度：18586）
+瑙鲁（热度：18619）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%8F%B7%E9%B8%A2%23" target="weibo">
 代号鸢（热度：15734）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%97%A8%E5%B3%A1%E5%B0%8F%E5%AD%A6%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%81%9C%E8%AF%BE%E5%81%9C%E5%AD%A6%23" target="weibo">
-三门峡小学幼儿园停课停学（热度：14277）
 </a>
 </li>
 
@@ -400,7 +406,7 @@ IU新单曲预告（热度：13286）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%E9%87%8C%E8%A7%92%E8%89%B2%E7%9A%84%E5%8A%A8%E4%BD%9C%E9%83%BD%E6%98%AF%E8%BF%99%E4%B9%88%E6%9D%A5%E7%9A%84%23" target="weibo">
-游戏里角色的动作都是这么来的（热度：11429）
+游戏里角色的动作都是这么来的（热度：12038）
 </a>
 </li>
 

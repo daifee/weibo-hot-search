@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705349933688,
+  "endTime": 1705350863262,
   "band_list": [
     {
       "raw_hot": 842698,
@@ -419,6 +419,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 39528,
+      "num": 26470,
+      "word": "宜家紧急召回3008件充电器",
+      "onboard_time": 1705348094,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 37815,
       "num": 37815,
       "word": "吴宣仪五福临门试戏片段",
@@ -443,12 +451,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24872,
-      "num": 24872,
-      "word": "宜家紧急召回3008件充电器",
-      "onboard_time": 1705348094,
-      "rank": 14,
-      "category": "数码"
+      "raw_hot": 27209,
+      "num": 26416,
+      "word": "周震南父亲公司被强执44万",
+      "onboard_time": 1705350014,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 23346,
@@ -457,6 +465,14 @@
       "onboard_time": 1705340359,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21184,
+      "num": 21184,
+      "word": "三门峡小学幼儿园停课停学",
+      "onboard_time": 1705349115,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19858,
@@ -475,7 +491,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18586,
+      "raw_hot": 18619,
       "num": 15294,
       "word": "瑙鲁",
       "onboard_time": 1705348033,
@@ -489,14 +505,6 @@
       "onboard_time": 1705345935,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14277,
-      "num": 14277,
-      "word": "三门峡小学幼儿园停课停学",
-      "onboard_time": 1705349115,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13422,
@@ -515,8 +523,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 11429,
-      "num": 11429,
+      "raw_hot": 12038,
+      "num": 12038,
       "word": "游戏里角色的动作都是这么来的",
       "onboard_time": 1705348513,
       "rank": 44,
