@@ -1,0 +1,410 @@
+{
+  "runTime": 1705314032529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 833372,
+        "num": 833372,
+        "word": "胡歌白敬亭微信加上了吗",
+        "onboard_time": 1705310791,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387668,
+        "num": 729848,
+        "word": "儿子包机带母亲从台湾回大陆老家",
+        "onboard_time": 1705308930,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138353,
+        "num": 685612,
+        "word": "当中国铁路遇上中国传统色",
+        "onboard_time": 1705305447,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681607,
+        "num": 681607,
+        "word": "3年挣102万外卖骑手辟谣被打",
+        "onboard_time": 1705309888,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304129,
+        "num": 670626,
+        "word": "90后瓦工日薪2000在省会买了房",
+        "onboard_time": 1705305749,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669901,
+        "num": 669901,
+        "word": "全球近8亿人工资落后于通货膨胀",
+        "onboard_time": 1705305868,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 620396,
+        "num": 620396,
+        "word": "身上有老人味可能是疾病信号",
+        "onboard_time": 1705290813,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 617197,
+        "num": 617197,
+        "word": "虞书欣回应唐嫣",
+        "onboard_time": 1705304669,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 479713,
+        "num": 479713,
+        "word": "张颂文暗示微博八百回报销",
+        "onboard_time": 1705294173,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427192,
+        "num": 427192,
+        "word": "00后男生收破烂年入20万",
+        "onboard_time": 1705304608,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416076,
+        "num": 416076,
+        "word": "日本地震已致222人死亡",
+        "onboard_time": 1705310070,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125502,
+        "num": 395160,
+        "word": "因为懒而得到了北京户口",
+        "onboard_time": 1705308689,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120987,
+        "num": 378821,
+        "word": "萌兰在线召唤搓澡师傅",
+        "onboard_time": 1705311511,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373110,
+        "num": 373110,
+        "word": "美国爱泼斯坦案更多细节曝光",
+        "onboard_time": 1705309407,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30582,
+        "num": 343419,
+        "word": "去尔滨看雪来广东看海",
+        "onboard_time": 1705312827,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340682,
+        "num": 340682,
+        "word": "于正回应白鹿下部剧",
+        "onboard_time": 1705307847,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337113,
+        "num": 337113,
+        "word": "瑙鲁与台湾断交",
+        "onboard_time": 1705299810,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318450,
+        "num": 318450,
+        "word": "卢昱晓 女主",
+        "onboard_time": 1705289970,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283094,
+        "num": 283094,
+        "word": "和颂四美",
+        "onboard_time": 1705310248,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273441,
+        "num": 273441,
+        "word": "周也抽到周深送的十年微博会员",
+        "onboard_time": 1705304488,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259774,
+        "num": 259774,
+        "word": "第一批回村的猫咪已经被欺负了",
+        "onboard_time": 1705308450,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230072,
+        "num": 230072,
+        "word": "黄景瑜以为抽到了古董",
+        "onboard_time": 1705303228,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222024,
+        "num": 222024,
+        "word": "网络短剧 日本物价",
+        "onboard_time": 1705293274,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216461,
+        "num": 216461,
+        "word": "男子假离婚后发现孩子不是亲生的",
+        "onboard_time": 1705298250,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203633,
+        "num": 203633,
+        "word": "玲子 她是一床发潮的棉被",
+        "onboard_time": 1705295672,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194385,
+        "num": 194385,
+        "word": "孙怡又粉又闪",
+        "onboard_time": 1705312531,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191911,
+        "num": 191911,
+        "word": "暧昧上头聊天记录",
+        "onboard_time": 1705299929,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191746,
+        "num": 191746,
+        "word": "小金毛一不小心吃上了自助餐",
+        "onboard_time": 1705312048,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191560,
+        "num": 191560,
+        "word": "彭昱畅收到张婧仪送的话筒",
+        "onboard_time": 1705307010,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149374,
+        "num": 186687,
+        "word": "萌娃主打一个已读乱回",
+        "onboard_time": 1705313909,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185231,
+        "num": 185231,
+        "word": "广东省考",
+        "onboard_time": 1705311869,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179937,
+        "num": 179937,
+        "word": "杨紫 蛋仔派对代言人",
+        "onboard_time": 1705296389,
+        "rank": 31,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 175067,
+        "num": 175067,
+        "word": "瑙鲁政府宣布承认一个中国",
+        "onboard_time": 1705302629,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170475,
+        "num": 170475,
+        "word": "台当局所谓的邦交国剩余12个",
+        "onboard_time": 1705307368,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169346,
+        "num": 169346,
+        "word": "五福临门时间线",
+        "onboard_time": 1705303348,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159164,
+        "num": 159164,
+        "word": "多个地图APP骑行导航推荐逆行",
+        "onboard_time": 1705313909,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155432,
+        "num": 155432,
+        "word": "我和papi酱的愿望是一样的",
+        "onboard_time": 1705302029,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149065,
+        "num": 149065,
+        "word": "于正妆造自认在影视界排第一",
+        "onboard_time": 1705306949,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141674,
+        "num": 141674,
+        "word": "祈今朝",
+        "onboard_time": 1705309169,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138578,
+        "num": 138578,
+        "word": "于正再回应",
+        "onboard_time": 1705283788,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138401,
+        "num": 138401,
+        "word": "苏醒全英文接受采访",
+        "onboard_time": 1705304908,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134696,
+        "num": 134696,
+        "word": "46岁知名麻醉科医生去世",
+        "onboard_time": 1705299569,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131718,
+        "num": 131718,
+        "word": "台湾从不是一个国家过去不是今后更不是",
+        "onboard_time": 1705297709,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130641,
+        "num": 130641,
+        "word": "NMIXX回归",
+        "onboard_time": 1705309888,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129258,
+        "num": 129258,
+        "word": "繁花的豆瓣评分又涨了",
+        "onboard_time": 1705313189,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118217,
+        "num": 118217,
+        "word": "李鸿其想与王紫璇结婚",
+        "onboard_time": 1705296691,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120299,
+        "num": 117785,
+        "word": "Kitty直播cos卡莎",
+        "onboard_time": 1705313189,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117124,
+        "num": 117124,
+        "word": "春晚第一次大彩排明星阵容",
+        "onboard_time": 1705289310,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116952,
+        "num": 116952,
+        "word": "易烊千玺成毅喊你来湖南",
+        "onboard_time": 1705300529,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109926,
+        "num": 109926,
+        "word": "周深评论区的于适",
+        "onboard_time": 1705308568,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持稳中求进以进促稳先立后破#"
+    }
+  }
+}

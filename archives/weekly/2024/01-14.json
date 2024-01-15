@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705311270863,
+  "endTime": 1705314032529,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -331,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1125502,
+      "num": 1047334,
+      "word": "因为懒而得到了北京户口",
+      "onboard_time": 1705308689,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1123180,
       "num": 1123180,
       "word": "春晚第一次大彩排明星阵容",
@@ -409,14 +417,6 @@
       "onboard_time": 1705162597,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1047334,
-      "num": 1047334,
-      "word": "因为懒而得到了北京户口",
-      "onboard_time": 1705308689,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 1046789,
@@ -585,6 +585,14 @@
       "onboard_time": 1705299569,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833372,
+      "num": 833372,
+      "word": "胡歌白敬亭微信加上了吗",
+      "onboard_time": 1705310791,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 822393,
@@ -832,6 +840,14 @@
       "word": "东航回应乘客买票付6000多退款仅269元",
       "onboard_time": 1705251264,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681607,
+      "num": 681607,
+      "word": "3年挣102万外卖骑手辟谣被打",
+      "onboard_time": 1705309888,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1331,14 +1347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 464372,
-      "num": 464372,
-      "word": "3年挣102万外卖骑手辟谣被打",
-      "onboard_time": 1705309888,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463987,
       "num": 463987,
       "word": "冰岛小镇流进岩浆",
@@ -1435,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436813,
-      "num": 181650,
-      "word": "胡歌白敬亭微信加上了吗",
-      "onboard_time": 1705310791,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 435117,
       "num": 342964,
       "word": "陈都灵张婧仪自拍",
@@ -1452,7 +1452,7 @@
     },
     {
       "raw_hot": 432470,
-      "num": 432470,
+      "num": 670626,
       "word": "90后瓦工日薪2000在省会买了房",
       "onboard_time": 1705305749,
       "rank": 19,
@@ -1584,6 +1584,14 @@
       "word": "官方回应文化墙被吐槽像灵堂",
       "onboard_time": 1705269135,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387668,
+      "num": 729848,
+      "word": "儿子包机带母亲从台湾回大陆老家",
+      "onboard_time": 1705308930,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1801,14 +1809,6 @@
       "onboard_time": 1705155831,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 324898,
-      "num": 324898,
-      "word": "儿子包机带母亲从台湾回大陆老家",
-      "onboard_time": 1705308930,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319598,
@@ -2827,6 +2827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194385,
+      "num": 194385,
+      "word": "孙怡又粉又闪",
+      "onboard_time": 1705312531,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194192,
       "num": 194192,
       "word": "董思成五福临门妆造",
@@ -2841,6 +2849,14 @@
       "onboard_time": 1705212391,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191746,
+      "num": 191746,
+      "word": "小金毛一不小心吃上了自助餐",
+      "onboard_time": 1705312048,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 191686,
@@ -2961,6 +2977,14 @@
       "onboard_time": 1705230571,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185231,
+      "num": 185231,
+      "word": "广东省考",
+      "onboard_time": 1705311869,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 184632,
@@ -3395,6 +3419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159164,
+      "num": 159164,
+      "word": "多个地图APP骑行导航推荐逆行",
+      "onboard_time": 1705313909,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 158997,
       "num": 158997,
       "word": "当狗狗意识到主人要给它刷牙",
@@ -3491,6 +3523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149374,
+      "num": 186687,
+      "word": "萌娃主打一个已读乱回",
+      "onboard_time": 1705313909,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149201,
       "num": 149201,
       "word": "熊猫宝宝小碎步好魔性",
@@ -3505,6 +3545,14 @@
       "onboard_time": 1705238731,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149065,
+      "num": 149065,
+      "word": "于正妆造自认在影视界排第一",
+      "onboard_time": 1705306949,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 146049,
@@ -3683,14 +3731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 140312,
-      "num": 130503,
-      "word": "于正妆造自认在影视界排第一",
-      "onboard_time": 1705306949,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140275,
       "num": 140275,
       "word": "嘴上起水泡不是上火",
@@ -3745,6 +3785,14 @@
       "onboard_time": 1705222413,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138353,
+      "num": 1006401,
+      "word": "当中国铁路遇上中国传统色",
+      "onboard_time": 1705305447,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138233,
@@ -3931,6 +3979,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 129258,
+      "num": 129258,
+      "word": "繁花的豆瓣评分又涨了",
+      "onboard_time": 1705313189,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127686,
       "num": 125777,
       "word": "一天在backseat里分手几十次",
@@ -4065,6 +4121,22 @@
       "onboard_time": 1705222170,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120987,
+      "num": 378821,
+      "word": "萌兰在线召唤搓澡师傅",
+      "onboard_time": 1705311511,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120299,
+      "num": 117785,
+      "word": "Kitty直播cos卡莎",
+      "onboard_time": 1705313189,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 119451,
@@ -4329,14 +4401,6 @@
       "onboard_time": 1705240414,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 92967,
-      "num": 1006401,
-      "word": "当中国铁路遇上中国传统色",
-      "onboard_time": 1705305447,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91833,
@@ -4649,6 +4713,14 @@
       "onboard_time": 1705176854,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30582,
+      "num": 343419,
+      "word": "去尔滨看雪来广东看海",
+      "onboard_time": 1705312827,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29344,
