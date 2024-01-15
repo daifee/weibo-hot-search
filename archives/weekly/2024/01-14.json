@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705347238358,
+  "endTime": 1705349933688,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -5707,6 +5707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 24872,
+      "num": 24872,
+      "word": "宜家紧急召回3008件充电器",
+      "onboard_time": 1705348094,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 24520,
       "num": 24520,
       "word": "肖战感言好走心",
@@ -5803,6 +5811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 18586,
+      "num": 15294,
+      "word": "瑙鲁",
+      "onboard_time": 1705348033,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18274,
       "num": 19159,
       "word": "李羲承cover爱很简单",
@@ -5811,12 +5827,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15556,
-      "num": 15556,
+      "raw_hot": 15734,
+      "num": 15734,
       "word": "代号鸢",
       "onboard_time": 1705345935,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14277,
+      "num": 14277,
+      "word": "三门峡小学幼儿园停课停学",
+      "onboard_time": 1705349115,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13422,
@@ -5833,6 +5857,14 @@
       "onboard_time": 1705345874,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 11429,
+      "num": 11429,
+      "word": "游戏里角色的动作都是这么来的",
+      "onboard_time": 1705348513,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 11142,

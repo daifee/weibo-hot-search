@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705347238358,
+  "endTime": 1705349933688,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -40827,6 +40827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24872,
+      "num": 24872,
+      "word": "宜家紧急召回3008件充电器",
+      "onboard_time": 1705348094,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 24587,
       "num": 24360,
       "word": "何蓝逗非主流文案",
@@ -41091,6 +41099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18586,
+      "num": 15294,
+      "word": "瑙鲁",
+      "onboard_time": 1705348033,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18397,
       "num": 1149451,
       "word": "聚焦中心工作奋进关键之年",
@@ -41211,20 +41227,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 15734,
+      "num": 15734,
+      "word": "代号鸢",
+      "onboard_time": 1705345935,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 15670,
       "num": 25773,
       "word": "羽绒服能不能机洗",
       "onboard_time": 1704825075,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 15556,
-      "num": 15556,
-      "word": "代号鸢",
-      "onboard_time": 1705345935,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 15250,
@@ -41281,6 +41297,14 @@
       "onboard_time": 1704394576,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 14277,
+      "num": 14277,
+      "word": "三门峡小学幼儿园停课停学",
+      "onboard_time": 1705349115,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14035,
@@ -41401,6 +41425,14 @@
       "onboard_time": 1704137535,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11429,
+      "num": 11429,
+      "word": "游戏里角色的动作都是这么来的",
+      "onboard_time": 1705348513,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 11142,
