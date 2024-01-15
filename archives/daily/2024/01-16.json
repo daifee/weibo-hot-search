@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705353403385,
+  "endTime": 1705354451015,
   "band_list": [
     {
       "raw_hot": 842698,
@@ -355,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69483,
+      "num": 69483,
+      "word": "周震南父亲公司被强执44万",
+      "onboard_time": 1705350014,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69116,
       "num": 69116,
       "word": "王鹤棣男友风机场穿搭",
@@ -385,14 +393,6 @@
       "onboard_time": 1705330649,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 64090,
-      "num": 64090,
-      "word": "周震南父亲公司被强执44万",
-      "onboard_time": 1705350014,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 58559,
@@ -427,16 +427,16 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 45293,
-      "num": 26549,
+      "raw_hot": 50846,
+      "num": 29974,
       "word": "三门峡小学幼儿园停课停学",
       "onboard_time": 1705349115,
       "rank": 33,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39528,
-      "num": 26470,
+      "raw_hot": 45044,
+      "num": 29723,
       "word": "宜家紧急召回3008件充电器",
       "onboard_time": 1705348094,
       "rank": 14,
@@ -499,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16540,
+      "num": 16540,
+      "word": "降低体脂率的技巧",
+      "onboard_time": 1705351694,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 15734,
       "num": 15734,
       "word": "代号鸢",
@@ -513,14 +521,6 @@
       "onboard_time": 1705348513,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14063,
-      "num": 14063,
-      "word": "降低体脂率的技巧",
-      "onboard_time": 1705351694,
-      "rank": 29,
-      "category": "运动健身"
     },
     {
       "raw_hot": 13422,
@@ -539,8 +539,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 9028,
-      "num": 11730,
+      "raw_hot": 11879,
+      "num": 11879,
       "word": "自动扶梯的第二块踏板真的会吃人",
       "onboard_time": 1705353253,
       "rank": 49,

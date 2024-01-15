@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705353403385,
+  "endTime": 1705354451015,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -5411,6 +5411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69483,
+      "num": 69483,
+      "word": "周震南父亲公司被强执44万",
+      "onboard_time": 1705350014,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68358,
       "num": 68358,
       "word": "德布劳内 伊蒂哈德的神",
@@ -5457,14 +5465,6 @@
       "onboard_time": 1705274663,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64090,
-      "num": 64090,
-      "word": "周震南父亲公司被强执44万",
-      "onboard_time": 1705350014,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 62840,
@@ -5595,6 +5595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50846,
+      "num": 29974,
+      "word": "三门峡小学幼儿园停课停学",
+      "onboard_time": 1705349115,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45927,
       "num": 350581,
       "word": "河南人间烟火气",
@@ -5619,20 +5627,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45293,
-      "num": 26549,
-      "word": "三门峡小学幼儿园停课停学",
-      "onboard_time": 1705349115,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45191,
       "num": 45191,
       "word": "曾舜晞围巾 全部远离我",
       "onboard_time": 1705256595,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 45044,
+      "num": 29723,
+      "word": "宜家紧急召回3008件充电器",
+      "onboard_time": 1705348094,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 44206,
@@ -5673,14 +5681,6 @@
       "onboard_time": 1705290571,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 39528,
-      "num": 26470,
-      "word": "宜家紧急召回3008件充电器",
-      "onboard_time": 1705348094,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 38465,
@@ -5843,6 +5843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16540,
+      "num": 16540,
+      "word": "降低体脂率的技巧",
+      "onboard_time": 1705351694,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 15734,
       "num": 15734,
       "word": "代号鸢",
@@ -5857,14 +5865,6 @@
       "onboard_time": 1705348513,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14063,
-      "num": 14063,
-      "word": "降低体脂率的技巧",
-      "onboard_time": 1705351694,
-      "rank": 29,
-      "category": "运动健身"
     },
     {
       "raw_hot": 13422,
@@ -5883,6 +5883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 11879,
+      "num": 11879,
+      "word": "自动扶梯的第二块踏板真的会吃人",
+      "onboard_time": 1705353253,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 11142,
       "num": 700360,
       "word": "微博之夜红毯豪华单品盘点",
@@ -5897,14 +5905,6 @@
       "onboard_time": 1705264453,
       "rank": 49,
       "category": "社会正能量,旅游"
-    },
-    {
-      "raw_hot": 9028,
-      "num": 11730,
-      "word": "自动扶梯的第二块踏板真的会吃人",
-      "onboard_time": 1705353253,
-      "rank": 49,
-      "category": "科学科普"
     }
   ],
   "hotgov_list": [
