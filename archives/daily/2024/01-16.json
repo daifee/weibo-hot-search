@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705338994930,
+  "endTime": 1705340040182,
   "band_list": [
     {
       "raw_hot": 842698,
@@ -83,20 +83,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 303883,
+      "num": 303883,
+      "word": "千万不要对抑郁症朋友说",
+      "onboard_time": 1705319911,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 294115,
       "num": 158849,
       "word": "你还在等五月天假唱风波调查结果吗",
       "onboard_time": 1705332689,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293835,
-      "num": 293835,
-      "word": "千万不要对抑郁症朋友说",
-      "onboard_time": 1705319911,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 229237,
@@ -185,6 +185,14 @@
       "onboard_time": 1705323211,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133972,
+      "num": 133972,
+      "word": "168元火锅套餐生菜只有1片叶子",
+      "onboard_time": 1705338321,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131218,
@@ -379,14 +387,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 65205,
-      "num": 56223,
-      "word": "168元火锅套餐生菜只有1片叶子",
-      "onboard_time": 1705338321,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58559,
       "num": 68277,
       "word": "警方通报女子驾车当街撞倒丈夫",
@@ -403,8 +403,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54599,
-      "num": 51535,
+      "raw_hot": 54662,
+      "num": 54662,
       "word": "虞书欣黄轩互关",
       "onboard_time": 1705337421,
       "rank": 34,
