@@ -1,0 +1,410 @@
+{
+  "runTime": 1705286680488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1909553,
+        "num": 1909553,
+        "word": "苹果官网罕见大降价",
+        "onboard_time": 1705280311,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1107204,
+        "num": 1107204,
+        "word": "北京上空出现疑似不明飞行物",
+        "onboard_time": 1705284148,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26169,
+        "num": 1009654,
+        "word": "神十七乘组空间站吃播健身上新",
+        "onboard_time": 1705234891,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1804142,
+        "num": 991270,
+        "word": "于正再回应",
+        "onboard_time": 1705283788,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1402071,
+        "num": 981508,
+        "word": "祝绪丹 女二",
+        "onboard_time": 1705277851,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 970514,
+        "num": 970514,
+        "word": "哈尔滨哈药六厂 祖上富过",
+        "onboard_time": 1705282410,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 967874,
+        "num": 967874,
+        "word": "新冠疫情可能在本月出现回升",
+        "onboard_time": 1705284570,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 658584,
+        "num": 658584,
+        "word": "96110一定要接 没接到要打回去",
+        "onboard_time": 1705276347,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500964,
+        "num": 500964,
+        "word": "于正 我的剧从来都是靠剧情",
+        "onboard_time": 1705285288,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445358,
+        "num": 445358,
+        "word": "女演员之间的惺惺相惜",
+        "onboard_time": 1705280611,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520461,
+        "num": 445332,
+        "word": "方流芳去世",
+        "onboard_time": 1705284448,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442344,
+        "num": 442344,
+        "word": "宝宝 领导不是你的班主任",
+        "onboard_time": 1705282589,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399173,
+        "num": 399173,
+        "word": "奚梦瑶何猷君感情好的原因",
+        "onboard_time": 1705284086,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352488,
+        "num": 352488,
+        "word": "基金经理近45%从业年限不超3年",
+        "onboard_time": 1705282949,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 326734,
+        "num": 326734,
+        "word": "女生在731部队罪证陈列馆外送暖宝宝",
+        "onboard_time": 1705242515,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322904,
+        "num": 322904,
+        "word": "不要忽视霉菌对身体的危害",
+        "onboard_time": 1705284328,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 320941,
+        "num": 320941,
+        "word": "心疼李施嬅",
+        "onboard_time": 1705284208,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299762,
+        "num": 299762,
+        "word": "陈哲远 内娱最好笑的吃播选手",
+        "onboard_time": 1705281686,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261059,
+        "num": 261059,
+        "word": "虞书欣台下吃零食",
+        "onboard_time": 1705283609,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258178,
+        "num": 258178,
+        "word": "陈伟霆龙年央视春晚彩排",
+        "onboard_time": 1705285587,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241783,
+        "num": 241783,
+        "word": "各地文旅局都疯了",
+        "onboard_time": 1705233691,
+        "rank": 20,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 222505,
+        "num": 222505,
+        "word": "男子称入职1月被口头辞退工资一分不发",
+        "onboard_time": 1705282828,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209605,
+        "num": 209605,
+        "word": "这就是我不发朋友圈的原因",
+        "onboard_time": 1705276586,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195463,
+        "num": 195463,
+        "word": "50岁老妈爆改女儿变3000年战国美女",
+        "onboard_time": 1705279590,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195275,
+        "num": 195275,
+        "word": "于正说祝绪丹开拍前辞演",
+        "onboard_time": 1705224451,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183106,
+        "num": 183106,
+        "word": "A股",
+        "onboard_time": 1705283129,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182764,
+        "num": 182764,
+        "word": "应届生当上班主任之后",
+        "onboard_time": 1705275021,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181000,
+        "num": 181000,
+        "word": "李现瘦了十几斤的秘密",
+        "onboard_time": 1705243598,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178654,
+        "num": 178654,
+        "word": "涉嫌杀害华人妻子好莱坞富二代拒不认罪",
+        "onboard_time": 1705266313,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169616,
+        "num": 169616,
+        "word": "女子直播专门找茬骂人被逮捕",
+        "onboard_time": 1705283488,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168876,
+        "num": 168876,
+        "word": "冰岛小镇流进岩浆",
+        "onboard_time": 1705278151,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167350,
+        "num": 167350,
+        "word": "广州地铁",
+        "onboard_time": 1705281686,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156557,
+        "num": 156557,
+        "word": "2个半月宝宝被爸妈亲表情亮了",
+        "onboard_time": 1705283970,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156313,
+        "num": 156313,
+        "word": "十二星座一周运势",
+        "onboard_time": 1705282108,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152377,
+        "num": 152377,
+        "word": "小熊猫带去哈尔滨的行李箱太可爱了",
+        "onboard_time": 1705284388,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147743,
+        "num": 147743,
+        "word": "新闻女王赢麻了",
+        "onboard_time": 1705276467,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146049,
+        "num": 146049,
+        "word": "山西文旅不午休向河北卷王宣战",
+        "onboard_time": 1705285709,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144835,
+        "num": 144835,
+        "word": "大东北的精致藏不住了",
+        "onboard_time": 1705286007,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139729,
+        "num": 139729,
+        "word": "中国太空快递小哥一次能送更多货了",
+        "onboard_time": 1705285649,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139290,
+        "num": 139290,
+        "word": "东航回应乘客买票付6000多退款仅269元",
+        "onboard_time": 1705251264,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137441,
+        "num": 137441,
+        "word": "天权将复出",
+        "onboard_time": 1705286130,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133334,
+        "num": 133334,
+        "word": "对学历最中肯的评价之一",
+        "onboard_time": 1705281569,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127338,
+        "num": 127338,
+        "word": "王鹤棣最喜欢挂檀健次身上",
+        "onboard_time": 1705277069,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123990,
+        "num": 123990,
+        "word": "IU将回归",
+        "onboard_time": 1705276164,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123517,
+        "num": 123517,
+        "word": "胡锡进称股市是中国社会信心晴雨表",
+        "onboard_time": 1705281569,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118399,
+        "num": 118399,
+        "word": "36元成本一锅做出了10道菜",
+        "onboard_time": 1705242515,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115383,
+        "num": 115383,
+        "word": "怎么看待自己的国考申论成绩",
+        "onboard_time": 1705286249,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103355,
+        "num": 103355,
+        "word": "朋友太多抑郁的可能性会变高",
+        "onboard_time": 1705241739,
+        "rank": 47,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 99592,
+        "num": 99592,
+        "word": "gidle新专回归预告照",
+        "onboard_time": 1705280969,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93823,
+        "num": 93823,
+        "word": "河北文旅摇人了",
+        "onboard_time": 1705276708,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持党的绝对领导忠诚履职担当作为#"
+    }
+  }
+}
