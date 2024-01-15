@@ -1,0 +1,410 @@
+{
+  "runTime": 1705307816263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1086050,
+        "num": 1086050,
+        "word": "瑙鲁与台湾断交",
+        "onboard_time": 1705299810,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1035510,
+        "num": 1035510,
+        "word": "虞书欣回应唐嫣",
+        "onboard_time": 1705304669,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92967,
+        "num": 761819,
+        "word": "当中国铁路遇上中国传统色",
+        "onboard_time": 1705305447,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755589,
+        "num": 755589,
+        "word": "张颂文暗示微博八百回报销",
+        "onboard_time": 1705294173,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 750286,
+        "num": 750286,
+        "word": "黄景瑜以为抽到了古董",
+        "onboard_time": 1705303228,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 721827,
+        "num": 721827,
+        "word": "身上有老人味可能是疾病信号",
+        "onboard_time": 1705290813,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 679894,
+        "num": 679894,
+        "word": "瑙鲁政府宣布承认一个中国",
+        "onboard_time": 1705302629,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 647425,
+        "num": 647425,
+        "word": "全球近8亿人工资落后于通货膨胀",
+        "onboard_time": 1705305868,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 590586,
+        "num": 590586,
+        "word": "周也抽到周深送的十年微博会员",
+        "onboard_time": 1705304488,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 574356,
+        "num": 574356,
+        "word": "00后男生收破烂年入20万",
+        "onboard_time": 1705304608,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504011,
+        "num": 504011,
+        "word": "我和papi酱的愿望是一样的",
+        "onboard_time": 1705302029,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380276,
+        "num": 380276,
+        "word": "卢昱晓 女主",
+        "onboard_time": 1705289970,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364079,
+        "num": 364079,
+        "word": "李鸿其想与王紫璇结婚",
+        "onboard_time": 1705296691,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363507,
+        "num": 363507,
+        "word": "46岁知名麻醉科医生去世",
+        "onboard_time": 1705299569,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329494,
+        "num": 329494,
+        "word": "玲子 她是一床发潮的棉被",
+        "onboard_time": 1705295672,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328665,
+        "num": 328665,
+        "word": "于正 我的剧从来都是靠剧情",
+        "onboard_time": 1705285288,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322542,
+        "num": 322542,
+        "word": "彭昱畅收到张婧仪送的话筒",
+        "onboard_time": 1705307010,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313198,
+        "num": 313198,
+        "word": "90后瓦工日薪2000在省会买了房",
+        "onboard_time": 1705305749,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277848,
+        "num": 277848,
+        "word": "易烊千玺成毅喊你来湖南",
+        "onboard_time": 1705300529,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 243379,
+        "num": 243379,
+        "word": "中方对瑙鲁政府决定表示赞赏和欢迎",
+        "onboard_time": 1705302449,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354796,
+        "num": 242257,
+        "word": "男子假离婚后发现孩子不是亲生的",
+        "onboard_time": 1705298250,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266669,
+        "num": 234537,
+        "word": "暧昧上头聊天记录",
+        "onboard_time": 1705299929,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261109,
+        "num": 230026,
+        "word": "五福临门时间线",
+        "onboard_time": 1705303348,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251209,
+        "num": 223608,
+        "word": "网络短剧 日本物价",
+        "onboard_time": 1705293274,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218215,
+        "num": 218215,
+        "word": "我要点51个水煎包",
+        "onboard_time": 1705303649,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214571,
+        "num": 214571,
+        "word": "苏醒全英文接受采访",
+        "onboard_time": 1705304908,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205344,
+        "num": 205344,
+        "word": "苹果官网罕见大降价",
+        "onboard_time": 1705280311,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 201304,
+        "num": 201304,
+        "word": "刘宇宁盘串",
+        "onboard_time": 1705307427,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193326,
+        "num": 193326,
+        "word": "杨紫 蛋仔派对代言人",
+        "onboard_time": 1705296389,
+        "rank": 28,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 190778,
+        "num": 190778,
+        "word": "台湾从不是一个国家过去不是今后更不是",
+        "onboard_time": 1705297709,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219913,
+        "num": 190518,
+        "word": "不就是王家卫么 谁不会",
+        "onboard_time": 1705306769,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192404,
+        "num": 189653,
+        "word": "唐嫣想和虞书欣双人海钓",
+        "onboard_time": 1705298008,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186624,
+        "num": 186624,
+        "word": "陈星旭说要屏蔽章若楠",
+        "onboard_time": 1705306108,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185110,
+        "num": 185110,
+        "word": "王一博后背贴了暖宝宝吗",
+        "onboard_time": 1705302029,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172174,
+        "num": 172174,
+        "word": "台当局所谓的邦交国剩余12个",
+        "onboard_time": 1705307368,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170643,
+        "num": 170643,
+        "word": "教师监考时间快速流逝法",
+        "onboard_time": 1705305987,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170175,
+        "num": 170175,
+        "word": "为啥人身上总有几根特长的毛",
+        "onboard_time": 1705291830,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164510,
+        "num": 164510,
+        "word": "春晚第一次大彩排明星阵容",
+        "onboard_time": 1705289310,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154966,
+        "num": 154966,
+        "word": "瑙鲁是世界上最小独立共和国",
+        "onboard_time": 1705306410,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136919,
+        "num": 136919,
+        "word": "JDG官宣新季赛大名单",
+        "onboard_time": 1705304608,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155131,
+        "num": 136516,
+        "word": "于正再回应",
+        "onboard_time": 1705283788,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135736,
+        "num": 135736,
+        "word": "张颂文抽到彭昱畅送的礼物",
+        "onboard_time": 1705303168,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130573,
+        "num": 130573,
+        "word": "创造营亚洲学员官宣",
+        "onboard_time": 1705300346,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128191,
+        "num": 128191,
+        "word": "东北女孩长啥样",
+        "onboard_time": 1705301849,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126561,
+        "num": 126561,
+        "word": "献血小卡",
+        "onboard_time": 1705302507,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126325,
+        "num": 126325,
+        "word": "方便面真是垃圾食品吗",
+        "onboard_time": 1705297950,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114992,
+        "num": 114992,
+        "word": "国外一网友分享的黑暗的家庭故事",
+        "onboard_time": 1705307309,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110706,
+        "num": 110706,
+        "word": "恋与深空捏脸",
+        "onboard_time": 1705297649,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109787,
+        "num": 109787,
+        "word": "在钢琴旁笑了9年的人是谁",
+        "onboard_time": 1705298609,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145755,
+        "num": 109547,
+        "word": "祝绪丹 女二",
+        "onboard_time": 1705277851,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持稳中求进以进促稳先立后破#"
+    }
+  }
+}

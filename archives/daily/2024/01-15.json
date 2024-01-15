@@ -1,6 +1,6 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705307032564,
+  "endTime": 1705307816263,
   "band_list": [
     {
       "raw_hot": 2346671,
@@ -131,8 +131,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 990960,
-      "num": 990960,
+      "raw_hot": 1035510,
+      "num": 1035510,
       "word": "虞书欣回应唐嫣",
       "onboard_time": 1705304669,
       "rank": 1,
@@ -211,20 +211,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 750286,
+      "num": 750286,
+      "word": "黄景瑜以为抽到了古董",
+      "onboard_time": 1705303228,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 748094,
       "num": 748094,
       "word": "iPhone16将配备8GBRAM",
       "onboard_time": 1705289549,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 739362,
-      "num": 739362,
-      "word": "黄景瑜以为抽到了古董",
-      "onboard_time": 1705303228,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 736599,
@@ -283,6 +283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 647425,
+      "num": 647425,
+      "word": "全球近8亿人工资落后于通货膨胀",
+      "onboard_time": 1705305868,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 641320,
       "num": 641320,
       "word": "唐嫣想和虞书欣双人海钓",
@@ -339,6 +347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 590586,
+      "num": 590586,
+      "word": "周也抽到周深送的十年微博会员",
+      "onboard_time": 1705304488,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 590400,
       "num": 590400,
       "word": "湖南警方通报小女孩被人尾随抱走",
@@ -352,6 +368,14 @@
       "word": "涉嫌杀害华人妻子好莱坞富二代拒不认罪",
       "onboard_time": 1705266313,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574356,
+      "num": 574356,
+      "word": "00后男生收破烂年入20万",
+      "onboard_time": 1705304608,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -393,14 +417,6 @@
       "onboard_time": 1705235670,
       "rank": 12,
       "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 539243,
-      "num": 539243,
-      "word": "周也抽到周深送的十年微博会员",
-      "onboard_time": 1705304488,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 536050,
@@ -481,14 +497,6 @@
       "onboard_time": 1705288049,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 446439,
-      "num": 446439,
-      "word": "00后男生收破烂年入20万",
-      "onboard_time": 1705304608,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 446403,
@@ -619,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 358914,
-      "num": 358914,
-      "word": "全球近8亿人工资落后于通货膨胀",
-      "onboard_time": 1705305868,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 354461,
       "num": 354461,
       "word": "GAI 五年后再给王鹤棣续SVIP",
@@ -665,6 +665,22 @@
       "onboard_time": 1705281686,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 322542,
+      "num": 322542,
+      "word": "彭昱畅收到张婧仪送的话筒",
+      "onboard_time": 1705307010,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 313198,
+      "num": 313198,
+      "word": "90后瓦工日薪2000在省会买了房",
+      "onboard_time": 1705305749,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312197,
@@ -777,14 +793,6 @@
       "onboard_time": 1705297649,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 245660,
-      "num": 245660,
-      "word": "90后瓦工日薪2000在省会买了房",
-      "onboard_time": 1705305749,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238401,
@@ -923,6 +931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 219913,
+      "num": 190518,
+      "word": "不就是王家卫么 谁不会",
+      "onboard_time": 1705306769,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218617,
       "num": 218617,
       "word": "因为不够上进朋友要跟我绝交",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1705276164,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201304,
+      "num": 201304,
+      "word": "刘宇宁盘串",
+      "onboard_time": 1705307427,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198804,
@@ -1259,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172174,
+      "num": 172174,
+      "word": "台当局所谓的邦交国剩余12个",
+      "onboard_time": 1705307368,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171832,
       "num": 171832,
       "word": "教师监考时间快速流逝法",
@@ -1347,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154966,
+      "num": 154966,
+      "word": "瑙鲁是世界上最小独立共和国",
+      "onboard_time": 1705306410,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 153034,
       "num": 153034,
       "word": "阿佘 历史话我想你了",
@@ -1369,14 +1409,6 @@
       "onboard_time": 1705244374,
       "rank": 28,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 146934,
-      "num": 130062,
-      "word": "彭昱畅收到张婧仪送的话筒",
-      "onboard_time": 1705307010,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 146049,
@@ -1579,14 +1611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130206,
-      "num": 130206,
-      "word": "瑙鲁是世界上最小独立共和国",
-      "onboard_time": 1705306410,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 129497,
       "num": 75355,
       "word": "2023TVB颁奖礼",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1705286249,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 114992,
+      "num": 114992,
+      "word": "国外一网友分享的黑暗的家庭故事",
+      "onboard_time": 1705307309,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 110195,
@@ -1713,6 +1745,14 @@
       "onboard_time": 1705243416,
       "rank": 36,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 92967,
+      "num": 922391,
+      "word": "当中国铁路遇上中国传统色",
+      "onboard_time": 1705305447,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88691,
@@ -1809,14 +1849,6 @@
       "onboard_time": 1705274241,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78903,
-      "num": 922391,
-      "word": "当中国铁路遇上中国传统色",
-      "onboard_time": 1705305447,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77077,
