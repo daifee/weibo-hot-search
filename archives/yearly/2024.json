@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705289678707,
+  "endTime": 1705292544420,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -641,6 +641,14 @@
       "onboard_time": 1704632793,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2153559,
+      "num": 2153559,
+      "word": "卢昱晓 女主",
+      "onboard_time": 1705289970,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2147067,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705219529,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1217437,
-      "num": 1217437,
-      "word": "从CCTV5到CCTV1",
-      "onboard_time": 1704810819,
-      "rank": 39,
-      "category": "体育,社会新闻"
     }
   ],
   "hotgov_list": [

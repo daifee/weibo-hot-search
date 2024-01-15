@@ -1,7 +1,15 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705289678707,
+  "endTime": 1705292544420,
   "band_list": [
+    {
+      "raw_hot": 2153559,
+      "num": 2153559,
+      "word": "卢昱晓 女主",
+      "onboard_time": 1705289970,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 2122341,
       "num": 2122341,
@@ -67,12 +75,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1027968,
+      "num": 1027968,
+      "word": "于正 我的剧从来都是靠剧情",
+      "onboard_time": 1705285288,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 977988,
       "num": 977988,
       "word": "台媒称施明德去世",
       "onboard_time": 1705287750,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 974563,
+      "num": 596733,
+      "word": "外卖平台给骑手大量规划逆行送餐路线",
+      "onboard_time": 1705287992,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 955267,
+      "num": 955267,
+      "word": "春晚第一次大彩排明星阵容",
+      "onboard_time": 1705289310,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 866988,
@@ -107,14 +139,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 739244,
-      "num": 739244,
-      "word": "于正 我的剧从来都是靠剧情",
-      "onboard_time": 1705285288,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 736599,
       "num": 358572,
       "word": "李现瘦了十几斤的秘密",
@@ -137,6 +161,14 @@
       "onboard_time": 1705251264,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 670666,
+      "num": 670666,
+      "word": "大侦探",
+      "onboard_time": 1705290089,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 627060,
@@ -195,6 +227,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 545471,
+      "num": 545471,
+      "word": "iPhone16将配备8GBRAM",
+      "onboard_time": 1705289549,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 544149,
+      "num": 426322,
+      "word": "身上有老人味可能是疾病信号",
+      "onboard_time": 1705290813,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 542955,
       "num": 355522,
       "word": "壶鱼辣椒 抄袭",
@@ -217,6 +265,14 @@
       "onboard_time": 1705212030,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 503254,
+      "num": 503254,
+      "word": "傅首尔演嬷嬷档期全满",
+      "onboard_time": 1705288711,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 471553,
@@ -243,14 +299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 453044,
-      "num": 453044,
-      "word": "外卖平台给骑手大量规划逆行送餐路线",
-      "onboard_time": 1705287992,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 451702,
       "num": 451702,
       "word": "利拉德三分绝杀",
@@ -265,6 +313,22 @@
       "onboard_time": 1705280489,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 426450,
+      "num": 426450,
+      "word": "谭爷爷来北京是上春晚的",
+      "onboard_time": 1705291173,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 425450,
+      "num": 425450,
+      "word": "湖北文旅把朱一龙喊来了",
+      "onboard_time": 1705290571,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 423364,
@@ -308,19 +372,11 @@
     },
     {
       "raw_hot": 376748,
-      "num": 268546,
+      "num": 341523,
       "word": "女子与男网友住酒店后称遭强奸",
       "onboard_time": 1705287873,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369888,
-      "num": 369888,
-      "word": "傅首尔演嬷嬷档期全满",
-      "onboard_time": 1705288711,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 365134,
@@ -339,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360754,
+      "num": 360754,
+      "word": "唐嫣回应哭肿了",
+      "onboard_time": 1705291774,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 354461,
       "num": 354461,
       "word": "GAI 五年后再给王鹤棣续SVIP",
@@ -353,6 +417,14 @@
       "onboard_time": 1705281686,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 318403,
+      "num": 238211,
+      "word": "为啥人身上总有几根特长的毛",
+      "onboard_time": 1705291830,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 312197,
@@ -371,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296429,
+      "num": 296429,
+      "word": "张杰龙年央视春晚联排",
+      "onboard_time": 1705292074,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294559,
       "num": 294559,
       "word": "王鹤棣最喜欢挂檀健次身上",
@@ -385,6 +465,14 @@
       "onboard_time": 1705238494,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 277240,
+      "num": 277240,
+      "word": "宋茜丁禹兮 山河枕",
+      "onboard_time": 1705290813,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 265089,
@@ -419,20 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241656,
+      "num": 241656,
+      "word": "迪丽热巴 行走的油画",
+      "onboard_time": 1705292074,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238144,
+      "num": 238144,
+      "word": "大侦探9侦心侦意演唱会阵容",
+      "onboard_time": 1705290511,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236902,
       "num": 236902,
       "word": "广州地铁",
       "onboard_time": 1705281686,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235099,
-      "num": 235099,
-      "word": "春晚第一次大彩排明星阵容",
-      "onboard_time": 1705289310,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 233445,
@@ -449,6 +545,22 @@
       "onboard_time": 1705282828,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225782,
+      "num": 238245,
+      "word": "深圳一药企在国外被骗近1亿",
+      "onboard_time": 1705289790,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224867,
+      "num": 224867,
+      "word": "赵丽颖起诉一公司侵权",
+      "onboard_time": 1705291053,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 224290,
@@ -483,6 +595,22 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 218488,
+      "num": 218488,
+      "word": "能看一天一夜的那种小说",
+      "onboard_time": 1705292074,
+      "rank": 35,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 214280,
+      "num": 214280,
+      "word": "酸奶碗",
+      "onboard_time": 1705292012,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 212852,
       "num": 212852,
       "word": "A股",
@@ -497,6 +625,22 @@
       "onboard_time": 1705223069,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209771,
+      "num": 209771,
+      "word": "繁花",
+      "onboard_time": 1705291774,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205317,
+      "num": 205317,
+      "word": "李现好清晰的八块腹肌",
+      "onboard_time": 1705290754,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 205242,
@@ -529,6 +673,14 @@
       "onboard_time": 1705234530,
       "rank": 9,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 193198,
+      "num": 193198,
+      "word": "河北文旅开始给宣传片打马赛克",
+      "onboard_time": 1705290030,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191904,
@@ -635,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173500,
+      "num": 173500,
+      "word": "尔滨又开始为迎接小土豆存冰啦",
+      "onboard_time": 1705289790,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173357,
       "num": 173357,
       "word": "女子直播专门找茬骂人被逮捕",
@@ -648,6 +808,14 @@
       "word": "于文文回应陈哲远送瓜子",
       "onboard_time": 1705246714,
       "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167489,
+      "num": 167489,
+      "word": "张颂文马嘉祺微博之夜后台拥抱",
+      "onboard_time": 1705292313,
+      "rank": 45,
       "category": "作品衍生"
     },
     {
@@ -811,6 +979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137210,
+      "num": 137210,
+      "word": "贝林厄姆皇马首冠",
+      "onboard_time": 1705290870,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132596,
       "num": 132596,
       "word": "考试最后一个考场 诸神黄昏",
@@ -843,14 +1019,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 125831,
-      "num": 125831,
-      "word": "iPhone16将配备8GBRAM",
-      "onboard_time": 1705289549,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 125602,
       "num": 125602,
       "word": "你愿意办极简婚礼吗",
@@ -873,6 +1041,14 @@
       "onboard_time": 1705286249,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 110296,
+      "num": 517980,
+      "word": "当我查完第一笔花呗账单",
+      "onboard_time": 1705291231,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 110195,
@@ -1203,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34272,
+      "num": 1219349,
+      "word": "党的自我革命永远在路上",
+      "onboard_time": 1705291290,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30809,
       "num": 39580,
       "word": "Meta承认使用盗版书籍训练AI",
@@ -1233,6 +1417,14 @@
       "onboard_time": 1705254798,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 23034,
+      "num": 309757,
+      "word": "宋轶微博之夜状态",
+      "onboard_time": 1705291533,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 20219,
