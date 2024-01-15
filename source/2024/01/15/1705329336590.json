@@ -1,0 +1,410 @@
+{
+  "runTime": 1705329336590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1028992,
+        "num": 1028992,
+        "word": "陈泽直播",
+        "onboard_time": 1705325132,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 923204,
+        "num": 923204,
+        "word": "家有儿女将开拍原班人马全员回归",
+        "onboard_time": 1705315291,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64396,
+        "num": 871274,
+        "word": "空军红鹰飞行表演队最新训练大片",
+        "onboard_time": 1705324293,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 826924,
+        "num": 826924,
+        "word": "杨幂绿戒指红美甲",
+        "onboard_time": 1705324954,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 778114,
+        "num": 778114,
+        "word": "月经3天和7天均属正常",
+        "onboard_time": 1705319971,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 770513,
+        "num": 770513,
+        "word": "千万不要对抑郁症朋友说",
+        "onboard_time": 1705319911,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 520167,
+        "num": 520167,
+        "word": "中方将给予瑞士单方面免签",
+        "onboard_time": 1705322973,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 474216,
+        "num": 474216,
+        "word": "华晨宇 我祝你幸福而不是强大",
+        "onboard_time": 1705315049,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 466504,
+        "num": 466504,
+        "word": "花花一天被粉丝盘包浆",
+        "onboard_time": 1705325791,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453560,
+        "num": 453560,
+        "word": "身上有老人味可能是疾病信号",
+        "onboard_time": 1705290813,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 440688,
+        "num": 440688,
+        "word": "总台龙年春晚首次彩排",
+        "onboard_time": 1705325670,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398198,
+        "num": 398198,
+        "word": "结婚前一定要知道的几件事",
+        "onboard_time": 1705323211,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357609,
+        "num": 357609,
+        "word": "张雪峰向哈理工捐款100万",
+        "onboard_time": 1705319191,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 341807,
+        "num": 341807,
+        "word": "警方通报女子驾车当街撞倒丈夫",
+        "onboard_time": 1705323451,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333081,
+        "num": 333081,
+        "word": "男子吐槽华清宫贵妃入浴雕像不雅",
+        "onboard_time": 1705321350,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326691,
+        "num": 326691,
+        "word": "陈泽微博是哪个",
+        "onboard_time": 1705326393,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 267251,
+        "num": 267251,
+        "word": "水均益女儿宣布开启直播带货",
+        "onboard_time": 1705321172,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251769,
+        "num": 251769,
+        "word": "胡歌白敬亭微信加上了吗",
+        "onboard_time": 1705310791,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216257,
+        "num": 216257,
+        "word": "湖南卫视帮湖南文旅摇人",
+        "onboard_time": 1705321648,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 215483,
+        "num": 215483,
+        "word": "拍薛之谦的人找到了",
+        "onboard_time": 1705329151,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 824767,
+        "num": 213482,
+        "word": "经期5个表现说明子宫很健康",
+        "onboard_time": 1705325251,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 356693,
+        "num": 213087,
+        "word": "户口簿上再婚能否登记为已婚",
+        "onboard_time": 1705324773,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279226,
+        "num": 211309,
+        "word": "夫妻不熟的聊天记录",
+        "onboard_time": 1705322909,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228416,
+        "num": 209044,
+        "word": "壶鱼辣椒",
+        "onboard_time": 1705327953,
+        "rank": 23,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 207245,
+        "num": 207245,
+        "word": "皇额娘推了熹娘娘原来是这个推",
+        "onboard_time": 1705319610,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196416,
+        "num": 196416,
+        "word": "陈泽说我有恋丑癖",
+        "onboard_time": 1705328012,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 183944,
+        "num": 183944,
+        "word": "2023微博之夜战报",
+        "onboard_time": 1705326212,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183132,
+        "num": 183132,
+        "word": "王鹤棣男友风机场穿搭",
+        "onboard_time": 1705327594,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179427,
+        "num": 179427,
+        "word": "肖战第一次剪窗花",
+        "onboard_time": 1705325072,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178472,
+        "num": 178472,
+        "word": "虞书欣回应唐嫣",
+        "onboard_time": 1705304669,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269479,
+        "num": 178244,
+        "word": "原来护发素这么有用",
+        "onboard_time": 1705328551,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 202310,
+        "num": 177778,
+        "word": "6100元的娇兰量子面霜引科学家吐槽",
+        "onboard_time": 1705328793,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 176547,
+        "num": 176547,
+        "word": "散步真的特别有恋爱感",
+        "onboard_time": 1705324232,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176355,
+        "num": 176355,
+        "word": "湖南文旅搬出易烊千玺了",
+        "onboard_time": 1705318470,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174164,
+        "num": 174164,
+        "word": "杨紫回应每年都有爆剧",
+        "onboard_time": 1705316912,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162758,
+        "num": 162758,
+        "word": "谁给薛之谦拍的",
+        "onboard_time": 1705324591,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156223,
+        "num": 156223,
+        "word": "原来这就是相敬如宾啊",
+        "onboard_time": 1705327893,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156141,
+        "num": 156141,
+        "word": "苹果官网大降价可退差价",
+        "onboard_time": 1705316007,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153378,
+        "num": 153378,
+        "word": "研究称睡梦中被吵醒不会影响睡眠质量",
+        "onboard_time": 1705323573,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152459,
+        "num": 152459,
+        "word": "我为什么爱找女发型师",
+        "onboard_time": 1705325670,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147545,
+        "num": 147545,
+        "word": "举报县委书记被逮捕的河北老干部回家",
+        "onboard_time": 1705328974,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139562,
+        "num": 139562,
+        "word": "爱是常觉亏欠啊",
+        "onboard_time": 1705329151,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136064,
+        "num": 136064,
+        "word": "七三一部队罪证陈列馆发文感谢",
+        "onboard_time": 1705326154,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132889,
+        "num": 132889,
+        "word": "我姓石原创作者麦克风都抡冒烟了",
+        "onboard_time": 1705322909,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132295,
+        "num": 132295,
+        "word": "广州W酒店将停业",
+        "onboard_time": 1705314088,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131552,
+        "num": 131552,
+        "word": "妈妈的笑声比爸爸的普通话更好笑",
+        "onboard_time": 1705328252,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125720,
+        "num": 125720,
+        "word": "韩国vs巴林",
+        "onboard_time": 1705325854,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121791,
+        "num": 121791,
+        "word": "恋与深空全球裸眼3D大屏",
+        "onboard_time": 1705316672,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120928,
+        "num": 120928,
+        "word": "国足vs黎巴嫩",
+        "onboard_time": 1705320930,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119044,
+        "num": 119044,
+        "word": "大小杨哥和星爷同框",
+        "onboard_time": 1705322611,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705328245740,
+  "endTime": 1705329336590,
   "band_list": [
     {
       "raw_hot": 2346671,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1016131,
-      "num": 776188,
+      "num": 826924,
       "word": "杨幂绿戒指红美甲",
       "onboard_time": 1705324954,
       "rank": 5,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824767,
+      "num": 224407,
+      "word": "经期5个表现说明子宫很健康",
+      "onboard_time": 1705325251,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 804447,
       "num": 765315,
       "word": "50岁老妈爆改女儿变3000年战国美女",
@@ -321,14 +329,6 @@
       "onboard_time": 1705295672,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 728841,
-      "num": 224407,
-      "word": "经期5个表现说明子宫很健康",
-      "onboard_time": 1705325251,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 728000,
@@ -651,6 +651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 466504,
+      "num": 488418,
+      "word": "花花一天被粉丝盘包浆",
+      "onboard_time": 1705325791,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463987,
       "num": 463987,
       "word": "冰岛小镇流进岩浆",
@@ -723,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440688,
+      "num": 440688,
+      "word": "总台龙年春晚首次彩排",
+      "onboard_time": 1705325670,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432470,
       "num": 670626,
       "word": "90后瓦工日薪2000在省会买了房",
@@ -779,14 +795,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 401432,
-      "num": 401432,
-      "word": "总台龙年春晚首次彩排",
-      "onboard_time": 1705325670,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 400218,
       "num": 400218,
       "word": "酸奶碗",
@@ -809,14 +817,6 @@
       "onboard_time": 1705321648,
       "rank": 17,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 395418,
-      "num": 488418,
-      "word": "花花一天被粉丝盘包浆",
-      "onboard_time": 1705325791,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 393827,
@@ -899,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 356693,
+      "num": 230988,
+      "word": "户口簿上再婚能否登记为已婚",
+      "onboard_time": 1705324773,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354461,
       "num": 354461,
       "word": "GAI 五年后再给王鹤棣续SVIP",
@@ -945,14 +953,6 @@
       "onboard_time": 1705308450,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 333855,
-      "num": 230988,
-      "word": "户口簿上再婚能否登记为已婚",
-      "onboard_time": 1705324773,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330274,
@@ -1073,6 +1073,22 @@
       "onboard_time": 1705296990,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 269479,
+      "num": 178244,
+      "word": "原来护发素这么有用",
+      "onboard_time": 1705328551,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 267251,
+      "num": 267251,
+      "word": "水均益女儿宣布开启直播带货",
+      "onboard_time": 1705321172,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265089,
@@ -1243,6 +1259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228416,
+      "num": 209044,
+      "word": "壶鱼辣椒",
+      "onboard_time": 1705327953,
+      "rank": 40,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 225782,
       "num": 320428,
       "word": "深圳一药企在国外被骗近1亿",
@@ -1345,6 +1369,14 @@
       "onboard_time": 1705309169,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215483,
+      "num": 215483,
+      "word": "拍薛之谦的人找到了",
+      "onboard_time": 1705329151,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 214951,
@@ -1475,6 +1507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202310,
+      "num": 177778,
+      "word": "6100元的娇兰量子面霜引科学家吐槽",
+      "onboard_time": 1705328793,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 201304,
       "num": 201304,
       "word": "刘宇宁盘串",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1705314749,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 196416,
+      "num": 196416,
+      "word": "陈泽说我有恋丑癖",
+      "onboard_time": 1705328012,
+      "rank": 44,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 194462,
@@ -1683,6 +1731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183132,
+      "num": 183132,
+      "word": "王鹤棣男友风机场穿搭",
+      "onboard_time": 1705327594,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183082,
       "num": 153882,
       "word": "张颂文抽到彭昱畅送的礼物",
@@ -1787,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176547,
+      "num": 176547,
+      "word": "散步真的特别有恋爱感",
+      "onboard_time": 1705324232,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176078,
       "num": 176078,
       "word": "刘谦现身龙年央视春晚首次联排",
@@ -1801,14 +1865,6 @@
       "onboard_time": 1705297649,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175308,
-      "num": 175308,
-      "word": "王鹤棣男友风机场穿搭",
-      "onboard_time": 1705327594,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 174875,
@@ -2003,14 +2059,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 154808,
-      "num": 154808,
-      "word": "散步真的特别有恋爱感",
-      "onboard_time": 1705324232,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153395,
       "num": 153395,
       "word": "杭州LGD挂牌六人",
@@ -2025,6 +2073,14 @@
       "onboard_time": 1705242695,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152459,
+      "num": 152459,
+      "word": "我为什么爱找女发型师",
+      "onboard_time": 1705325670,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 151842,
@@ -2091,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147545,
+      "num": 147545,
+      "word": "举报县委书记被逮捕的河北老干部回家",
+      "onboard_time": 1705328974,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146049,
       "num": 146049,
       "word": "山西文旅不午休向河北卷王宣战",
@@ -2145,14 +2209,6 @@
       "onboard_time": 1705309287,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144250,
-      "num": 144250,
-      "word": "我为什么爱找女发型师",
-      "onboard_time": 1705325670,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 144128,
@@ -2225,6 +2281,14 @@
       "onboard_time": 1705240892,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 139562,
+      "num": 139562,
+      "word": "爱是常觉亏欠啊",
+      "onboard_time": 1705329151,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 139222,
@@ -2307,20 +2371,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132258,
-      "num": 132258,
-      "word": "壶鱼辣椒",
-      "onboard_time": 1705327953,
-      "rank": 40,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 132049,
       "num": 132049,
       "word": "爸爸满是宠爱看穿汉服的女儿",
       "onboard_time": 1705296389,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131552,
+      "num": 131552,
+      "word": "妈妈的笑声比爸爸的普通话更好笑",
+      "onboard_time": 1705328252,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 131426,
@@ -2379,6 +2443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125720,
+      "num": 125720,
+      "word": "韩国vs巴林",
+      "onboard_time": 1705325854,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125602,
       "num": 125602,
       "word": "你愿意办极简婚礼吗",
@@ -2401,14 +2473,6 @@
       "onboard_time": 1705308026,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123622,
-      "num": 123622,
-      "word": "陈泽说我有恋丑癖",
-      "onboard_time": 1705328012,
-      "rank": 44,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 123275,
@@ -2804,7 +2868,7 @@
     },
     {
       "raw_hot": 67215,
-      "num": 836212,
+      "num": 871274,
       "word": "空军红鹰飞行表演队最新训练大片",
       "onboard_time": 1705324293,
       "rank": 2,
