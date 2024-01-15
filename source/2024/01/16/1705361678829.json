@@ -1,0 +1,410 @@
+{
+  "runTime": 1705361678829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 661877,
+        "num": 661877,
+        "word": "户口簿上再婚能否登记为已婚",
+        "onboard_time": 1705324773,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410736,
+        "num": 410736,
+        "word": "家有儿女将开拍原班人马全员回归",
+        "onboard_time": 1705315291,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35026,
+        "num": 395265,
+        "word": "空军红鹰飞行表演队最新训练大片",
+        "onboard_time": 1705324293,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 593982,
+        "num": 394771,
+        "word": "经期5个表现说明子宫很健康",
+        "onboard_time": 1705325251,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 422995,
+        "num": 394443,
+        "word": "安心丈夫拒绝同房",
+        "onboard_time": 1705331611,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393740,
+        "num": 393740,
+        "word": "168元火锅套餐生菜只有1片叶子",
+        "onboard_time": 1705338321,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339050,
+        "num": 339050,
+        "word": "周震南父亲公司被强执44万",
+        "onboard_time": 1705350014,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329730,
+        "num": 329730,
+        "word": "水均益女儿宣布开启直播带货",
+        "onboard_time": 1705321172,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317022,
+        "num": 317022,
+        "word": "三门峡小学幼儿园停课停学",
+        "onboard_time": 1705349115,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269832,
+        "num": 269832,
+        "word": "千万不要对抑郁症朋友说",
+        "onboard_time": 1705319911,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249302,
+        "num": 249302,
+        "word": "梅西蝉联世界足球先生",
+        "onboard_time": 1705360160,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178277,
+        "num": 178277,
+        "word": "花花一天被粉丝盘包浆",
+        "onboard_time": 1705325791,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156444,
+        "num": 156444,
+        "word": "女子40分钟一锅做出14道菜",
+        "onboard_time": 1705332990,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151592,
+        "num": 151592,
+        "word": "网友开始自制欢宜香了",
+        "onboard_time": 1705360701,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143893,
+        "num": 143893,
+        "word": "族谱上烈士无后四个字泪目了",
+        "onboard_time": 1705359678,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138988,
+        "num": 138988,
+        "word": "6100元的娇兰量子面霜引科学家吐槽",
+        "onboard_time": 1705328793,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133833,
+        "num": 133833,
+        "word": "杨幂绿戒指红美甲",
+        "onboard_time": 1705324954,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133615,
+        "num": 133615,
+        "word": "张雪峰向哈理工捐款100万",
+        "onboard_time": 1705319191,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130962,
+        "num": 130962,
+        "word": "周笔畅 第二名离第一就差一口气",
+        "onboard_time": 1705331669,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127074,
+        "num": 127074,
+        "word": "龙茅价格腰斩至3000元",
+        "onboard_time": 1705334069,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 278131,
+        "num": 126742,
+        "word": "举报县委书记被逮捕的河北老干部回家",
+        "onboard_time": 1705328974,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162455,
+        "num": 126010,
+        "word": "你还在等五月天假唱风波调查结果吗",
+        "onboard_time": 1705332689,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158691,
+        "num": 123772,
+        "word": "夫妻不熟的聊天记录",
+        "onboard_time": 1705322909,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118878,
+        "num": 118878,
+        "word": "苹果官网大降价可退差价",
+        "onboard_time": 1705316007,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 97879,
+        "num": 97879,
+        "word": "中方将给予瑞士单方面免签",
+        "onboard_time": 1705322973,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92836,
+        "num": 92836,
+        "word": "降低体脂率的技巧",
+        "onboard_time": 1705351694,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 86793,
+        "num": 86793,
+        "word": "于敏回答我们为什么一定要搞出氢弹",
+        "onboard_time": 1705361363,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82673,
+        "num": 82673,
+        "word": "原来护发素这么有用",
+        "onboard_time": 1705328551,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 81912,
+        "num": 81912,
+        "word": "梅西当选FIFA年度最佳球员",
+        "onboard_time": 1705360582,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80398,
+        "num": 80398,
+        "word": "谭爷爷的第1支vlog",
+        "onboard_time": 1705361363,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192976,
+        "num": 79396,
+        "word": "姥姥姥爷不上春晚可惜了",
+        "onboard_time": 1705360640,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78364,
+        "num": 78364,
+        "word": "皇额娘推了熹娘娘原来是这个推",
+        "onboard_time": 1705319610,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75527,
+        "num": 75527,
+        "word": "宜家紧急召回3008件充电器",
+        "onboard_time": 1705348094,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 68359,
+        "num": 68359,
+        "word": "自动扶梯的第二块踏板真的会吃人",
+        "onboard_time": 1705353253,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 64641,
+        "num": 64641,
+        "word": "刘涛微博之夜最想和高叶合影",
+        "onboard_time": 1705344134,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63019,
+        "num": 63019,
+        "word": "湖南卫视帮湖南文旅摇人",
+        "onboard_time": 1705321648,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 59591,
+        "num": 59591,
+        "word": "北欧人就这么参观火山吗",
+        "onboard_time": 1705360881,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58112,
+        "num": 58112,
+        "word": "结婚前一定要知道的几件事",
+        "onboard_time": 1705323211,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58005,
+        "num": 58005,
+        "word": "肖战李宁直播",
+        "onboard_time": 1705335985,
+        "rank": 38,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 56641,
+        "num": 56641,
+        "word": "阿信新加坡演唱会破音被调侃宝娟嗓",
+        "onboard_time": 1705317571,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55062,
+        "num": 55062,
+        "word": "杨紫回应每年都有爆剧",
+        "onboard_time": 1705316912,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51521,
+        "num": 51521,
+        "word": "理想汽车回应全系车型降价超3万",
+        "onboard_time": 1705355533,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 48897,
+        "num": 48897,
+        "word": "拍薛之谦的人找到了",
+        "onboard_time": 1705329151,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48069,
+        "num": 48069,
+        "word": "警方通报女子驾车当街撞倒丈夫",
+        "onboard_time": 1705323451,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47716,
+        "num": 47716,
+        "word": "苹果被欧盟要求3月7日前完成分拆AppStore",
+        "onboard_time": 1705361665,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46737,
+        "num": 46737,
+        "word": "国足vs黎巴嫩",
+        "onboard_time": 1705320930,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41869,
+        "num": 46734,
+        "word": "许嵩回复了张靓颖",
+        "onboard_time": 1705331310,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40127,
+        "num": 46719,
+        "word": "吴宣仪五福临门试戏片段",
+        "onboard_time": 1705342100,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38093,
+        "num": 46710,
+        "word": "点了个御赐的外卖",
+        "onboard_time": 1705335026,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37804,
+        "num": 46696,
+        "word": "没想到被一只猫挑衅了",
+        "onboard_time": 1705355295,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持稳中求进以进促稳先立后破#"
+    }
+  }
+}
