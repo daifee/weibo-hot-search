@@ -1,6 +1,6 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705288797454,
+  "endTime": 1705289678707,
   "band_list": [
     {
       "raw_hot": 2122341,
@@ -35,20 +35,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1448180,
+      "num": 1448180,
+      "word": "新冠疫情可能在本月出现回升",
+      "onboard_time": 1705284570,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1428563,
       "num": 1428563,
       "word": "北京上空出现疑似不明飞行物",
       "onboard_time": 1705284148,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1344993,
-      "num": 1344993,
-      "word": "新冠疫情可能在本月出现回升",
-      "onboard_time": 1705284570,
-      "rank": 6,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1322795,
@@ -67,6 +67,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 977988,
+      "num": 977988,
+      "word": "台媒称施明德去世",
+      "onboard_time": 1705287750,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 866988,
       "num": 866988,
       "word": "应届生当上班主任之后",
@@ -83,14 +91,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 828524,
-      "num": 828524,
-      "word": "台媒称施明德去世",
-      "onboard_time": 1705287750,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 804447,
       "num": 765315,
       "word": "50岁老妈爆改女儿变3000年战国美女",
@@ -105,6 +105,14 @@
       "onboard_time": 1705233691,
       "rank": 4,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 739244,
+      "num": 739244,
+      "word": "于正 我的剧从来都是靠剧情",
+      "onboard_time": 1705285288,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 736599,
@@ -147,6 +155,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 608847,
+      "num": 608847,
+      "word": "肖战说剧播出的时候最快乐",
+      "onboard_time": 1705287931,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 590400,
+      "num": 590400,
+      "word": "湖南警方通报小女孩被人尾随抱走",
+      "onboard_time": 1705286789,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588749,
       "num": 506014,
       "word": "涉嫌杀害华人妻子好莱坞富二代拒不认罪",
@@ -161,14 +185,6 @@
       "onboard_time": 1705284448,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 555392,
-      "num": 555392,
-      "word": "于正 我的剧从来都是靠剧情",
-      "onboard_time": 1705285288,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 546342,
@@ -193,22 +209,6 @@
       "onboard_time": 1705284086,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 520898,
-      "num": 520898,
-      "word": "肖战说剧播出的时候最快乐",
-      "onboard_time": 1705287931,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 518286,
-      "num": 518286,
-      "word": "湖南警方通报小女孩被人尾随抱走",
-      "onboard_time": 1705286789,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 511575,
@@ -243,6 +243,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 453044,
+      "num": 453044,
+      "word": "外卖平台给骑手大量规划逆行送餐路线",
+      "onboard_time": 1705287992,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451702,
+      "num": 451702,
+      "word": "利拉德三分绝杀",
+      "onboard_time": 1705288049,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432102,
       "num": 432102,
       "word": "丹麦国王腓特烈十世登基",
@@ -259,12 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 397221,
-      "num": 397221,
-      "word": "利拉德三分绝杀",
-      "onboard_time": 1705288049,
-      "rank": 15,
-      "category": "体育"
+      "raw_hot": 397378,
+      "num": 397378,
+      "word": "不要忽视霉菌对身体的危害",
+      "onboard_time": 1705284328,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 392435,
@@ -291,12 +307,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 372713,
-      "num": 372713,
-      "word": "不要忽视霉菌对身体的危害",
-      "onboard_time": 1705284328,
-      "rank": 16,
-      "category": "健康医疗"
+      "raw_hot": 376748,
+      "num": 268546,
+      "word": "女子与男网友住酒店后称遭强奸",
+      "onboard_time": 1705287873,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369888,
+      "num": 369888,
+      "word": "傅首尔演嬷嬷档期全满",
+      "onboard_time": 1705288711,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 365134,
@@ -321,14 +345,6 @@
       "onboard_time": 1705241739,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 342068,
-      "num": 267224,
-      "word": "女子与男网友住酒店后称遭强奸",
-      "onboard_time": 1705287873,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330274,
@@ -361,14 +377,6 @@
       "onboard_time": 1705277069,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292192,
-      "num": 292192,
-      "word": "外卖平台给骑手大量规划逆行送餐路线",
-      "onboard_time": 1705287992,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289215,
@@ -419,12 +427,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235099,
+      "num": 235099,
+      "word": "春晚第一次大彩排明星阵容",
+      "onboard_time": 1705289310,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 233445,
+      "num": 233445,
+      "word": "山东事业编",
+      "onboard_time": 1705288112,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 233019,
       "num": 230799,
       "word": "男子称入职1月被口头辞退工资一分不发",
       "onboard_time": 1705282828,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224290,
+      "num": 224290,
+      "word": "小熊猫带去哈尔滨的行李箱太可爱了",
+      "onboard_time": 1705284388,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223636,
+      "num": 190496,
+      "word": "福克斯上篮绝平",
+      "onboard_time": 1705288830,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 222220,
@@ -459,14 +499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208957,
-      "num": 208957,
-      "word": "小熊猫带去哈尔滨的行李箱太可爱了",
-      "onboard_time": 1705284388,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205242,
       "num": 205242,
       "word": "唐双宁被决定逮捕",
@@ -481,14 +513,6 @@
       "onboard_time": 1705276164,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 199083,
-      "num": 199083,
-      "word": "山东事业编",
-      "onboard_time": 1705288112,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 198804,
@@ -523,6 +547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191010,
+      "num": 191010,
+      "word": "肩颈痛大多是斜方肌出问题",
+      "onboard_time": 1705288229,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 189234,
       "num": 189234,
       "word": "生个娃养到3岁20万够吗",
@@ -537,14 +569,6 @@
       "onboard_time": 1705281749,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185157,
-      "num": 185157,
-      "word": "傅首尔演嬷嬷档期全满",
-      "onboard_time": 1705288711,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 183664,
@@ -569,6 +593,14 @@
       "onboard_time": 1705279230,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182102,
+      "num": 182102,
+      "word": "大叔冰面上手劈通道救人双臂鲜血淋漓",
+      "onboard_time": 1705288890,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180667,
@@ -739,12 +771,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 141864,
-      "num": 141864,
-      "word": "肩颈痛大多是斜方肌出问题",
-      "onboard_time": 1705288229,
+      "raw_hot": 140535,
+      "num": 140535,
+      "word": "临沂文旅局长手写毛笔字揽客",
+      "onboard_time": 1705289131,
       "rank": 37,
-      "category": "运动健身"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140275,
@@ -809,6 +841,14 @@
       "onboard_time": 1705287873,
       "rank": 44,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 125831,
+      "num": 125831,
+      "word": "iPhone16将配备8GBRAM",
+      "onboard_time": 1705289549,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 125602,

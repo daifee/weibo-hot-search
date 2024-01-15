@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705288797454,
+  "endTime": 1705289678707,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -139,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1448180,
+      "num": 1448180,
+      "word": "新冠疫情可能在本月出现回升",
+      "onboard_time": 1705284570,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1430950,
       "num": 1430950,
       "word": "18岁坠河身亡男孩家属不同意尸检",
@@ -161,14 +169,6 @@
       "onboard_time": 1705157865,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1344993,
-      "num": 1344993,
-      "word": "新冠疫情可能在本月出现回升",
-      "onboard_time": 1705284570,
-      "rank": 6,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1341149,
@@ -371,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 977988,
+      "num": 977988,
+      "word": "台媒称施明德去世",
+      "onboard_time": 1705287750,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 973428,
       "num": 366643,
       "word": "儿媳称公公频繁干涉夫妻生活",
@@ -467,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 828524,
-      "num": 828524,
-      "word": "台媒称施明德去世",
-      "onboard_time": 1705287750,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 822393,
       "num": 822393,
       "word": "迪丽热巴来了",
@@ -560,6 +560,14 @@
       "word": "高海宁获TVB最佳女配角",
       "onboard_time": 1705236631,
       "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 739244,
+      "num": 739244,
+      "word": "于正 我的剧从来都是靠剧情",
+      "onboard_time": 1705285288,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -763,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 608847,
+      "num": 608847,
+      "word": "肖战说剧播出的时候最快乐",
+      "onboard_time": 1705287931,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 605773,
       "num": 605773,
       "word": "国考面试名单",
@@ -793,6 +809,14 @@
       "onboard_time": 1705191690,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 590400,
+      "num": 590400,
+      "word": "湖南警方通报小女孩被人尾随抱走",
+      "onboard_time": 1705286789,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 588925,
@@ -849,14 +873,6 @@
       "onboard_time": 1705284448,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 555392,
-      "num": 555392,
-      "word": "于正 我的剧从来都是靠剧情",
-      "onboard_time": 1705285288,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 550843,
@@ -923,28 +939,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 520898,
-      "num": 520898,
-      "word": "肖战说剧播出的时候最快乐",
-      "onboard_time": 1705287931,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 518694,
       "num": 289232,
       "word": "女性一生真的只有400颗卵子吗",
       "onboard_time": 1705209510,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 518286,
-      "num": 518286,
-      "word": "湖南警方通报小女孩被人尾随抱走",
-      "onboard_time": 1705286789,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510863,
@@ -1107,6 +1107,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 453044,
+      "num": 453044,
+      "word": "外卖平台给骑手大量规划逆行送餐路线",
+      "onboard_time": 1705287992,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451702,
+      "num": 451702,
+      "word": "利拉德三分绝杀",
+      "onboard_time": 1705288049,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441407,
       "num": 441407,
       "word": "金枪鱼一出生就必须不停地游",
@@ -1195,12 +1211,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 397221,
-      "num": 397221,
-      "word": "利拉德三分绝杀",
-      "onboard_time": 1705288049,
-      "rank": 15,
-      "category": "体育"
+      "raw_hot": 397378,
+      "num": 397378,
+      "word": "不要忽视霉菌对身体的危害",
+      "onboard_time": 1705284328,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 392435,
@@ -1259,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376748,
+      "num": 268546,
+      "word": "女子与男网友住酒店后称遭强奸",
+      "onboard_time": 1705287873,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373479,
       "num": 552778,
       "word": "王毅阐明中方关于台湾局势严正立场",
@@ -1275,12 +1299,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 372713,
-      "num": 372713,
-      "word": "不要忽视霉菌对身体的危害",
-      "onboard_time": 1705284328,
-      "rank": 16,
-      "category": "健康医疗"
+      "raw_hot": 369888,
+      "num": 369888,
+      "word": "傅首尔演嬷嬷档期全满",
+      "onboard_time": 1705288711,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 369436,
@@ -1353,14 +1377,6 @@
       "onboard_time": 1705159548,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 342068,
-      "num": 267224,
-      "word": "女子与男网友住酒店后称遭强奸",
-      "onboard_time": 1705287873,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338440,
@@ -1521,14 +1537,6 @@
       "onboard_time": 1705277069,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292192,
-      "num": 292192,
-      "word": "外卖平台给骑手大量规划逆行送餐路线",
-      "onboard_time": 1705287992,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291883,
@@ -1851,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235099,
+      "num": 235099,
+      "word": "春晚第一次大彩排明星阵容",
+      "onboard_time": 1705289310,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234810,
       "num": 192373,
       "word": "邱贻可 打好每一场",
@@ -1865,6 +1881,14 @@
       "onboard_time": 1705160859,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233445,
+      "num": 233445,
+      "word": "山东事业编",
+      "onboard_time": 1705288112,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 233019,
@@ -1913,6 +1937,22 @@
       "onboard_time": 1705239756,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 224290,
+      "num": 224290,
+      "word": "小熊猫带去哈尔滨的行李箱太可爱了",
+      "onboard_time": 1705284388,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223636,
+      "num": 190496,
+      "word": "福克斯上篮绝平",
+      "onboard_time": 1705288830,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 222699,
@@ -2003,14 +2043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208957,
-      "num": 208957,
-      "word": "小熊猫带去哈尔滨的行李箱太可爱了",
-      "onboard_time": 1705284388,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208639,
       "num": 208639,
       "word": "米兰Prada秀场",
@@ -2099,14 +2131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199083,
-      "num": 199083,
-      "word": "山东事业编",
-      "onboard_time": 1705288112,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 198804,
       "num": 198804,
       "word": "十二星座一周运势",
@@ -2177,6 +2201,14 @@
       "onboard_time": 1705208488,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191010,
+      "num": 191010,
+      "word": "肩颈痛大多是斜方肌出问题",
+      "onboard_time": 1705288229,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 190858,
@@ -2251,14 +2283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185157,
-      "num": 185157,
-      "word": "傅首尔演嬷嬷档期全满",
-      "onboard_time": 1705288711,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184632,
       "num": 184632,
       "word": "字节仍在洽购饿了么",
@@ -2297,6 +2321,14 @@
       "onboard_time": 1705279230,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182102,
+      "num": 182102,
+      "word": "大叔冰面上手劈通道救人双臂鲜血淋漓",
+      "onboard_time": 1705288890,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181828,
@@ -2779,14 +2811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141864,
-      "num": 141864,
-      "word": "肩颈痛大多是斜方肌出问题",
-      "onboard_time": 1705288229,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 141377,
       "num": 141377,
       "word": "萌兰又和蜡笔小新撞脸了",
@@ -2809,6 +2833,14 @@
       "onboard_time": 1705215990,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140535,
+      "num": 140535,
+      "word": "临沂文旅局长手写毛笔字揽客",
+      "onboard_time": 1705289131,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140437,
@@ -3033,6 +3065,14 @@
       "onboard_time": 1705238014,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 125831,
+      "num": 125831,
+      "word": "iPhone16将配备8GBRAM",
+      "onboard_time": 1705289549,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 125028,

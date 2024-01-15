@@ -1,0 +1,410 @@
+{
+  "runTime": 1705289678707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1577360,
+        "num": 1577360,
+        "word": "苹果官网罕见大降价",
+        "onboard_time": 1705280311,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1448180,
+        "num": 1448180,
+        "word": "新冠疫情可能在本月出现回升",
+        "onboard_time": 1705284570,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18752,
+        "num": 1356194,
+        "word": "神十七乘组空间站吃播健身上新",
+        "onboard_time": 1705234891,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1288265,
+        "num": 1288265,
+        "word": "北京上空出现疑似不明飞行物",
+        "onboard_time": 1705284148,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069930,
+        "num": 1069930,
+        "word": "于正再回应",
+        "onboard_time": 1705283788,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 977988,
+        "num": 977988,
+        "word": "台媒称施明德去世",
+        "onboard_time": 1705287750,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739244,
+        "num": 739244,
+        "word": "于正 我的剧从来都是靠剧情",
+        "onboard_time": 1705285288,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 608847,
+        "num": 608847,
+        "word": "肖战说剧播出的时候最快乐",
+        "onboard_time": 1705287931,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 590400,
+        "num": 590400,
+        "word": "湖南警方通报小女孩被人尾随抱走",
+        "onboard_time": 1705286789,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570933,
+        "num": 570933,
+        "word": "96110一定要接 没接到要打回去",
+        "onboard_time": 1705276347,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108885,
+        "num": 553003,
+        "word": "祝绪丹 女二",
+        "onboard_time": 1705277851,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 483596,
+        "num": 483596,
+        "word": "哈尔滨哈药六厂 祖上富过",
+        "onboard_time": 1705282410,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 465122,
+        "num": 465122,
+        "word": "奚梦瑶何猷君感情好的原因",
+        "onboard_time": 1705284086,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453044,
+        "num": 453044,
+        "word": "外卖平台给骑手大量规划逆行送餐路线",
+        "onboard_time": 1705287992,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451702,
+        "num": 451702,
+        "word": "利拉德三分绝杀",
+        "onboard_time": 1705288049,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409147,
+        "num": 409147,
+        "word": "方流芳去世",
+        "onboard_time": 1705284448,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397378,
+        "num": 397378,
+        "word": "不要忽视霉菌对身体的危害",
+        "onboard_time": 1705284328,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 376275,
+        "num": 376275,
+        "word": "宝宝 领导不是你的班主任",
+        "onboard_time": 1705282589,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369888,
+        "num": 369888,
+        "word": "傅首尔演嬷嬷档期全满",
+        "onboard_time": 1705288711,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277274,
+        "num": 277274,
+        "word": "女演员之间的惺惺相惜",
+        "onboard_time": 1705280611,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376748,
+        "num": 268546,
+        "word": "女子与男网友住酒店后称遭强奸",
+        "onboard_time": 1705287873,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245441,
+        "num": 245441,
+        "word": "西安下雪",
+        "onboard_time": 1705286968,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240655,
+        "num": 240655,
+        "word": "心疼李施嬅",
+        "onboard_time": 1705284208,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235099,
+        "num": 235099,
+        "word": "春晚第一次大彩排明星阵容",
+        "onboard_time": 1705289310,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233445,
+        "num": 233445,
+        "word": "山东事业编",
+        "onboard_time": 1705288112,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 225930,
+        "num": 225930,
+        "word": "虞书欣台下吃零食",
+        "onboard_time": 1705283609,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224290,
+        "num": 224290,
+        "word": "小熊猫带去哈尔滨的行李箱太可爱了",
+        "onboard_time": 1705284388,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200071,
+        "num": 200071,
+        "word": "陈伟霆龙年央视春晚彩排",
+        "onboard_time": 1705285587,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193633,
+        "num": 193633,
+        "word": "唐双宁被决定逮捕",
+        "onboard_time": 1705287629,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191010,
+        "num": 191010,
+        "word": "肩颈痛大多是斜方肌出问题",
+        "onboard_time": 1705288229,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 223636,
+        "num": 190496,
+        "word": "福克斯上篮绝平",
+        "onboard_time": 1705288830,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182102,
+        "num": 182102,
+        "word": "大叔冰面上手劈通道救人双臂鲜血淋漓",
+        "onboard_time": 1705288890,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172470,
+        "num": 172470,
+        "word": "基金经理近45%从业年限不超3年",
+        "onboard_time": 1705282949,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167349,
+        "num": 167349,
+        "word": "于正说祝绪丹开拍前辞演",
+        "onboard_time": 1705224451,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165435,
+        "num": 165435,
+        "word": "微博之夜采访",
+        "onboard_time": 1705287269,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161340,
+        "num": 161340,
+        "word": "这就是我不发朋友圈的原因",
+        "onboard_time": 1705276586,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155249,
+        "num": 155249,
+        "word": "女生在731部队罪证陈列馆外送暖宝宝",
+        "onboard_time": 1705242515,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140535,
+        "num": 140535,
+        "word": "临沂文旅局长手写毛笔字揽客",
+        "onboard_time": 1705289131,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134338,
+        "num": 134338,
+        "word": "对学历最中肯的评价之一",
+        "onboard_time": 1705281569,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133723,
+        "num": 133723,
+        "word": "李现瘦了十几斤的秘密",
+        "onboard_time": 1705243598,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133057,
+        "num": 133057,
+        "word": "IU将回归",
+        "onboard_time": 1705276164,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130618,
+        "num": 130618,
+        "word": "男子称入职1月被口头辞退工资一分不发",
+        "onboard_time": 1705282828,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129957,
+        "num": 129957,
+        "word": "大东北的精致藏不住了",
+        "onboard_time": 1705286007,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129371,
+        "num": 129371,
+        "word": "陈哲远 内娱最好笑的吃播选手",
+        "onboard_time": 1705281686,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127286,
+        "num": 127286,
+        "word": "50岁老妈爆改女儿变3000年战国美女",
+        "onboard_time": 1705279590,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125831,
+        "num": 125831,
+        "word": "iPhone16将配备8GBRAM",
+        "onboard_time": 1705289549,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122172,
+        "num": 122172,
+        "word": "嘴上起水泡不是上火",
+        "onboard_time": 1705287931,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 122039,
+        "num": 122039,
+        "word": "2个半月宝宝被爸妈亲表情亮了",
+        "onboard_time": 1705283970,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121891,
+        "num": 121891,
+        "word": "天权将复出",
+        "onboard_time": 1705286130,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117897,
+        "num": 117897,
+        "word": "司机骂骂咧咧的倒出去了",
+        "onboard_time": 1705287931,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决铲除腐败问题产生的土壤和条件#"
+    }
+  }
+}
