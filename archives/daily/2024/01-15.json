@@ -1,7 +1,31 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705275258620,
+  "endTime": 1705281565432,
   "band_list": [
+    {
+      "raw_hot": 1843287,
+      "num": 1843287,
+      "word": "96110一定要接 没接到要打回去",
+      "onboard_time": 1705276347,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1762300,
+      "num": 995715,
+      "word": "祝绪丹 女二",
+      "onboard_time": 1705277851,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1368643,
+      "num": 1368643,
+      "word": "苹果官网罕见大降价",
+      "onboard_time": 1705280311,
+      "rank": 1,
+      "category": "数码"
+    },
     {
       "raw_hot": 1322795,
       "num": 1322795,
@@ -9,6 +33,14 @@
       "onboard_time": 1705245872,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 866988,
+      "num": 866988,
+      "word": "应届生当上班主任之后",
+      "onboard_time": 1705275021,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 859169,
@@ -25,6 +57,14 @@
       "onboard_time": 1705233691,
       "rank": 4,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 765315,
+      "num": 765315,
+      "word": "50岁老妈爆改女儿变3000年战国美女",
+      "onboard_time": 1705279590,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 736599,
@@ -68,7 +108,7 @@
     },
     {
       "raw_hot": 588749,
-      "num": 165193,
+      "num": 506014,
       "word": "涉嫌杀害华人妻子好莱坞富二代拒不认罪",
       "onboard_time": 1705266313,
       "rank": 30,
@@ -76,7 +116,7 @@
     },
     {
       "raw_hot": 546342,
-      "num": 357584,
+      "num": 376197,
       "word": "于正说祝绪丹开拍前辞演",
       "onboard_time": 1705224451,
       "rank": 11,
@@ -99,12 +139,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 462158,
+      "num": 462158,
+      "word": "冰岛小镇流进岩浆",
+      "onboard_time": 1705278151,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423364,
+      "num": 423364,
+      "word": "新闻女王赢麻了",
+      "onboard_time": 1705276467,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392435,
       "num": 392435,
       "word": "官方回应文化墙被吐槽像灵堂",
       "onboard_time": 1705269135,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384150,
+      "num": 217353,
+      "word": "这就是我不发朋友圈的原因",
+      "onboard_time": 1705276586,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 379928,
+      "num": 379928,
+      "word": "丹麦国王腓特烈十世登基",
+      "onboard_time": 1705280489,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 361722,
@@ -139,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294559,
+      "num": 294559,
+      "word": "王鹤棣最喜欢挂檀健次身上",
+      "onboard_time": 1705277069,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289215,
       "num": 289215,
       "word": "娜扎身材管理",
@@ -163,12 +243,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 222023,
+      "num": 222023,
+      "word": "朋友太多抑郁的可能性会变高",
+      "onboard_time": 1705241739,
+      "rank": 21,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 211714,
       "num": 211714,
       "word": "马伊琍 果然互联网是有记忆的",
       "onboard_time": 1705223069,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203987,
+      "num": 203987,
+      "word": "IU将回归",
+      "onboard_time": 1705276164,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 197356,
@@ -179,20 +275,44 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 196066,
-      "num": 196066,
-      "word": "朋友太多抑郁的可能性会变高",
-      "onboard_time": 1705241739,
-      "rank": 21,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 191904,
       "num": 191904,
       "word": "黄宗泽获大湾区最喜爱TVB男主角",
       "onboard_time": 1705241975,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191686,
+      "num": 191686,
+      "word": "光遇",
+      "onboard_time": 1705281270,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 189234,
+      "num": 189234,
+      "word": "生个娃养到3岁20万够吗",
+      "onboard_time": 1705238494,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 189154,
+      "num": 189154,
+      "word": "女演员之间的惺惺相惜",
+      "onboard_time": 1705280611,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182982,
+      "num": 182982,
+      "word": "陈哲远怕于文文收到礼物来打他",
+      "onboard_time": 1705279230,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180667,
@@ -203,12 +323,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 179166,
-      "num": 168833,
-      "word": "生个娃养到3岁20万够吗",
-      "onboard_time": 1705238494,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 177346,
+      "num": 177346,
+      "word": "越南虽败犹荣",
+      "onboard_time": 1705275504,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171344,
+      "num": 171344,
+      "word": "河北文旅摇人了",
+      "onboard_time": 1705276708,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167989,
@@ -216,6 +344,14 @@
       "word": "于文文回应陈哲远送瓜子",
       "onboard_time": 1705246714,
       "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165643,
+      "num": 165643,
+      "word": "佘诗曼吹哨召唤张智霖",
+      "onboard_time": 1705276527,
+      "rank": 29,
       "category": "作品衍生"
     },
     {
@@ -267,12 +403,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143580,
+      "num": 143580,
+      "word": "为什么坐火车会有一种归属感",
+      "onboard_time": 1705277127,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139848,
       "num": 212230,
       "word": "王毅阐明中方关于台湾局势严正立场",
       "onboard_time": 1705240892,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138046,
+      "num": 138046,
+      "word": "从上海坐公交车到漠河",
+      "onboard_time": 1705280730,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 137911,
+      "num": 137911,
+      "word": "gidle新专回归预告照",
+      "onboard_time": 1705280969,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 132596,
+      "num": 132596,
+      "word": "考试最后一个考场 诸神黄昏",
+      "onboard_time": 1705245693,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 131072,
+      "num": 131072,
+      "word": "男子花2年在城市周边找出400种植物",
+      "onboard_time": 1705281450,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129497,
@@ -289,22 +465,6 @@
       "onboard_time": 1705243834,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125154,
-      "num": 108159,
-      "word": "应届生当上班主任之后",
-      "onboard_time": 1705275021,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 124209,
-      "num": 124209,
-      "word": "考试最后一个考场 诸神黄昏",
-      "onboard_time": 1705245693,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 121223,
@@ -331,12 +491,36 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 105993,
+      "num": 105993,
+      "word": "被北京胡同的车主深深折服",
+      "onboard_time": 1705280071,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 103947,
+      "num": 103947,
+      "word": "广东茶位费合理吗",
+      "onboard_time": 1705278690,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 102938,
       "num": 102938,
       "word": "苏醒当着岳云鹏的面抢活",
       "onboard_time": 1705247429,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100747,
+      "num": 100747,
+      "word": "四川单招",
+      "onboard_time": 1705281509,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 95186,
@@ -363,12 +547,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 88052,
+      "num": 88052,
+      "word": "在广东治好了我的脸皮薄",
+      "onboard_time": 1705277610,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 86627,
+      "num": 86627,
+      "word": "爱豆在舞台上头皮痒该怎么办呢",
+      "onboard_time": 1705279113,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 86019,
       "num": 86019,
       "word": "张小斐 给你们看我姐可爱吗",
       "onboard_time": 1705227451,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 85940,
+      "num": 85940,
+      "word": "王楚钦分享多哈短暂假期",
+      "onboard_time": 1705279772,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 85743,
@@ -555,6 +763,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 45668,
+      "num": 1078716,
+      "word": "神十七乘组空间站吃播健身上新",
+      "onboard_time": 1705234891,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45561,
       "num": 45561,
       "word": "天舟七号船箭组合体转运发射区",
@@ -593,14 +809,6 @@
       "onboard_time": 1705240114,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 28086,
-      "num": 667167,
-      "word": "神十七乘组空间站吃播健身上新",
-      "onboard_time": 1705234891,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24520,
