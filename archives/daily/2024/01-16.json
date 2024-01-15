@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705350863262,
+  "endTime": 1705353403385,
   "band_list": [
     {
       "raw_hot": 842698,
@@ -387,6 +387,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 64090,
+      "num": 64090,
+      "word": "周震南父亲公司被强执44万",
+      "onboard_time": 1705350014,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58559,
       "num": 68277,
       "word": "警方通报女子驾车当街撞倒丈夫",
@@ -417,6 +425,14 @@
       "onboard_time": 1705321648,
       "rank": 49,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 45293,
+      "num": 26549,
+      "word": "三门峡小学幼儿园停课停学",
+      "onboard_time": 1705349115,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39528,
@@ -451,28 +467,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27209,
-      "num": 26416,
-      "word": "周震南父亲公司被强执44万",
-      "onboard_time": 1705350014,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 23346,
       "num": 23346,
       "word": "陈丽君李云霄谈爆红后的心情",
       "onboard_time": 1705340359,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21184,
-      "num": 21184,
-      "word": "三门峡小学幼儿园停课停学",
-      "onboard_time": 1705349115,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19858,
@@ -507,6 +507,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 14632,
+      "num": 14632,
+      "word": "游戏里角色的动作都是这么来的",
+      "onboard_time": 1705348513,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 14063,
+      "num": 14063,
+      "word": "降低体脂率的技巧",
+      "onboard_time": 1705351694,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 13422,
       "num": 13422,
       "word": "黄子弘凡长沙抢票",
@@ -523,12 +539,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 12038,
-      "num": 12038,
-      "word": "游戏里角色的动作都是这么来的",
-      "onboard_time": 1705348513,
-      "rank": 44,
-      "category": "游戏"
+      "raw_hot": 9028,
+      "num": 11730,
+      "word": "自动扶梯的第二块踏板真的会吃人",
+      "onboard_time": 1705353253,
+      "rank": 49,
+      "category": "科学科普"
     }
   ],
   "hotgov_list": [
