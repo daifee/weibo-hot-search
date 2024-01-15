@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705322045415,
+  "endTime": 1705323045639,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1851,6 +1851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1386445,
+      "num": 846769,
+      "word": "月经3天和7天均属正常",
+      "onboard_time": 1705319971,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1385205,
       "num": 590888,
       "word": "中国单身汉开始涌向尼泊尔找老婆",
@@ -2417,14 +2425,6 @@
       "onboard_time": 1704032475,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1224398,
-      "num": 787025,
-      "word": "月经3天和7天均属正常",
-      "onboard_time": 1705319971,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1222340,
@@ -4617,6 +4617,14 @@
       "onboard_time": 1704718292,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 843662,
+      "num": 843662,
+      "word": "千万不要对抑郁症朋友说",
+      "onboard_time": 1705319911,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 842857,
@@ -7715,14 +7723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 614525,
-      "num": 614525,
-      "word": "千万不要对抑郁症朋友说",
-      "onboard_time": 1705319911,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 613975,
       "num": 613975,
       "word": "我和papi酱的愿望是一样的",
@@ -8993,6 +8993,14 @@
       "onboard_time": 1704635914,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 549629,
+      "num": 549629,
+      "word": "水均益女儿从央视离职后宣布直播带货",
+      "onboard_time": 1705321172,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 549566,
@@ -11171,6 +11179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462379,
+      "num": 462379,
+      "word": "博主质疑吉林文旅用张起灵宣传不妥",
+      "onboard_time": 1705319250,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462280,
       "num": 462280,
       "word": "尔滨送女生1000克拉冰钻戒",
@@ -12619,14 +12635,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 407831,
-      "num": 407831,
-      "word": "博主质疑吉林文旅用张起灵宣传不妥",
-      "onboard_time": 1705319250,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407105,
       "num": 407105,
       "word": "徐冬冬回应椰树泳装挂历争议",
@@ -12873,6 +12881,14 @@
       "onboard_time": 1704067405,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 396373,
+      "num": 396373,
+      "word": "湖南卫视帮湖南文旅摇人",
+      "onboard_time": 1705321648,
+      "rank": 17,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 396085,
@@ -13361,6 +13377,14 @@
       "onboard_time": 1705039890,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 380121,
+      "num": 164229,
+      "word": "夫妻不熟的聊天记录",
+      "onboard_time": 1705322909,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 379347,
@@ -14241,6 +14265,14 @@
       "onboard_time": 1705156487,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 345828,
+      "num": 345828,
+      "word": "男子吐槽华清宫贵妃入浴雕像不雅",
+      "onboard_time": 1705321350,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345812,
@@ -17731,14 +17763,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 262816,
-      "num": 262816,
-      "word": "湖南卫视帮湖南文旅摇人",
-      "onboard_time": 1705321648,
-      "rank": 17,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 262789,
       "num": 262789,
       "word": "奇妙夜不直播",
@@ -17873,14 +17897,6 @@
       "onboard_time": 1704385527,
       "rank": 29,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 260503,
-      "num": 260503,
-      "word": "水均益女儿从央视离职后宣布直播带货",
-      "onboard_time": 1705321172,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260502,
@@ -20689,14 +20705,6 @@
       "onboard_time": 1705134639,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 221246,
-      "num": 221246,
-      "word": "男子吐槽华清宫贵妃入浴雕像不雅",
-      "onboard_time": 1705321350,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221226,
@@ -23747,6 +23755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195286,
+      "num": 195286,
+      "word": "中方将给予瑞士单方面免签",
+      "onboard_time": 1705322973,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 195226,
       "num": 195226,
       "word": "油价",
@@ -25035,6 +25051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185671,
+      "num": 162718,
+      "word": "我可以参加你们婚礼吗",
+      "onboard_time": 1705318890,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185612,
       "num": 149873,
       "word": "B太 偷偷再去看看梦想之家",
@@ -25401,14 +25425,6 @@
       "onboard_time": 1705287269,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 183447,
-      "num": 160142,
-      "word": "我可以参加你们婚礼吗",
-      "onboard_time": 1705318890,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 183441,
@@ -26841,6 +26857,14 @@
       "onboard_time": 1705226731,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 174219,
+      "num": 174219,
+      "word": "感冒后千万别做这3件事",
+      "onboard_time": 1705322372,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 174216,
@@ -28857,6 +28881,14 @@
       "onboard_time": 1705020151,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160004,
+      "num": 160004,
+      "word": "大小杨哥和星爷同框",
+      "onboard_time": 1705322611,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 159947,
@@ -30985,6 +31017,14 @@
       "onboard_time": 1704684931,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 145415,
+      "num": 145415,
+      "word": "我姓石原创作者麦克风都抡冒烟了",
+      "onboard_time": 1705322909,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 145354,
@@ -35363,6 +35403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119351,
+      "num": 119351,
+      "word": "釜山世乒赛团体赛抽签仪式",
+      "onboard_time": 1705322851,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119318,
       "num": 119318,
       "word": "中日速算又双叒打平了",
@@ -35977,6 +36025,14 @@
       "onboard_time": 1705115670,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114013,
+      "num": 114013,
+      "word": "周一和周天有什么区别",
+      "onboard_time": 1705321227,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 114004,
@@ -36633,14 +36689,6 @@
       "onboard_time": 1704112241,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107078,
-      "num": 107078,
-      "word": "周一和周天有什么区别",
-      "onboard_time": 1705321227,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 107072,
@@ -39875,6 +39923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 40108,
+      "num": 292139,
+      "word": "陈丽君李云霄镜中人",
+      "onboard_time": 1705290571,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39999,
       "num": 642492,
       "word": "2024继续出发",
@@ -40289,14 +40345,6 @@
       "onboard_time": 1704642390,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26308,
-      "num": 292139,
-      "word": "陈丽君李云霄镜中人",
-      "onboard_time": 1705290571,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 25913,

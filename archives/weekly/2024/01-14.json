@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705322045415,
+  "endTime": 1705323045639,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -211,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1386445,
+      "num": 846769,
+      "word": "月经3天和7天均属正常",
+      "onboard_time": 1705319971,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1341149,
       "num": 1341149,
       "word": "范志毅称国足被吹没问题",
@@ -281,14 +289,6 @@
       "onboard_time": 1705161941,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1224398,
-      "num": 787025,
-      "word": "月经3天和7天均属正常",
-      "onboard_time": 1705319971,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1218885,
@@ -601,6 +601,14 @@
       "onboard_time": 1705218510,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 843662,
+      "num": 843662,
+      "word": "千万不要对抑郁症朋友说",
+      "onboard_time": 1705319911,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 840189,
@@ -1003,14 +1011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 614525,
-      "num": 614525,
-      "word": "千万不要对抑郁症朋友说",
-      "onboard_time": 1705319911,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 613975,
       "num": 613975,
       "word": "我和papi酱的愿望是一样的",
@@ -1201,6 +1201,14 @@
       "onboard_time": 1705234530,
       "rank": 15,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 549629,
+      "num": 549629,
+      "word": "水均益女儿从央视离职后宣布直播带货",
+      "onboard_time": 1705321172,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547865,
@@ -1443,6 +1451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 462379,
+      "num": 462379,
+      "word": "博主质疑吉林文旅用张起灵宣传不妥",
+      "onboard_time": 1705319250,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460885,
       "num": 460885,
       "word": "女演员之间的惺惺相惜",
@@ -1619,14 +1635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 407831,
-      "num": 407831,
-      "word": "博主质疑吉林文旅用张起灵宣传不妥",
-      "onboard_time": 1705319250,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406250,
       "num": 406250,
       "word": "彭昱畅收到张婧仪送的话筒",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1705284328,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 396373,
+      "num": 396373,
+      "word": "湖南卫视帮湖南文旅摇人",
+      "onboard_time": 1705321648,
+      "rank": 17,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 393827,
@@ -1713,6 +1729,14 @@
       "onboard_time": 1705282949,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 380121,
+      "num": 164229,
+      "word": "夫妻不熟的聊天记录",
+      "onboard_time": 1705322909,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 379109,
@@ -1825,6 +1849,14 @@
       "onboard_time": 1705242695,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 345828,
+      "num": 345828,
+      "word": "男子吐槽华清宫贵妃入浴雕像不雅",
+      "onboard_time": 1705321350,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343175,
@@ -2243,28 +2275,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 262816,
-      "num": 262816,
-      "word": "湖南卫视帮湖南文旅摇人",
-      "onboard_time": 1705321648,
-      "rank": 17,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 262789,
       "num": 262789,
       "word": "奇妙夜不直播",
       "onboard_time": 1705224093,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 260503,
-      "num": 260503,
-      "word": "水均益女儿从央视离职后宣布直播带货",
-      "onboard_time": 1705321172,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260346,
@@ -2699,14 +2715,6 @@
       "category": "电竞,作品衍生"
     },
     {
-      "raw_hot": 221246,
-      "num": 221246,
-      "word": "男子吐槽华清宫贵妃入浴雕像不雅",
-      "onboard_time": 1705321350,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220633,
       "num": 220633,
       "word": "现代医学解释中医的发物",
@@ -3043,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195286,
+      "num": 195286,
+      "word": "中方将给予瑞士单方面免签",
+      "onboard_time": 1705322973,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 194462,
       "num": 194462,
       "word": "阿云嘎是陈丽君的小迷弟",
@@ -3211,6 +3227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185671,
+      "num": 162718,
+      "word": "我可以参加你们婚礼吗",
+      "onboard_time": 1705318890,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185231,
       "num": 185231,
       "word": "广东省考",
@@ -3265,14 +3289,6 @@
       "onboard_time": 1705287269,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 183447,
-      "num": 160142,
-      "word": "我可以参加你们婚礼吗",
-      "onboard_time": 1705318890,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 183082,
@@ -3457,6 +3473,14 @@
       "onboard_time": 1705226731,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 174219,
+      "num": 174219,
+      "word": "感冒后千万别做这3件事",
+      "onboard_time": 1705322372,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 173508,
@@ -3723,6 +3747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160004,
+      "num": 160004,
+      "word": "大小杨哥和星爷同框",
+      "onboard_time": 1705322611,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159628,
       "num": 137365,
       "word": "李兰迪 玫瑰公主",
@@ -3921,6 +3953,14 @@
       "onboard_time": 1705242392,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145415,
+      "num": 145415,
+      "word": "我姓石原创作者麦克风都抡冒烟了",
+      "onboard_time": 1705322909,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 144889,
@@ -4499,6 +4539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119351,
+      "num": 119351,
+      "word": "釜山世乒赛团体赛抽签仪式",
+      "onboard_time": 1705322851,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118974,
       "num": 118974,
       "word": "2岁的天才鼓手",
@@ -4561,6 +4609,14 @@
       "onboard_time": 1705214972,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114013,
+      "num": 114013,
+      "word": "周一和周天有什么区别",
+      "onboard_time": 1705321227,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 113375,
@@ -4649,14 +4705,6 @@
       "onboard_time": 1705207351,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107078,
-      "num": 107078,
-      "word": "周一和周天有什么区别",
-      "onboard_time": 1705321227,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 105993,
@@ -5139,6 +5187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40108,
+      "num": 292139,
+      "word": "陈丽君李云霄镜中人",
+      "onboard_time": 1705290571,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 38465,
       "num": 1346272,
       "word": "党的自我革命永远在路上",
@@ -5169,14 +5225,6 @@
       "onboard_time": 1705151029,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 26308,
-      "num": 292139,
-      "word": "陈丽君李云霄镜中人",
-      "onboard_time": 1705290571,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 24520,

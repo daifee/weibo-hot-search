@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705322045415,
+  "endTime": 1705323045639,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1851,6 +1851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1386445,
+      "num": 846769,
+      "word": "月经3天和7天均属正常",
+      "onboard_time": 1705319971,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1385205,
       "num": 590888,
       "word": "中国单身汉开始涌向尼泊尔找老婆",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705113211,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1228247,
-      "num": 1228247,
-      "word": "张予曦为防走光在胸口插花",
-      "onboard_time": 1705161941,
-      "rank": 20,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
