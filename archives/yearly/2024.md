@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/15 14:24:47
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/15 14:37:50
 </p>
 </blockquote>
 <p>
@@ -1053,6 +1053,12 @@ A先生跳海（热度：1721660）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%99%E9%B2%81%E4%B8%8E%E5%8F%B0%E6%B9%BE%E6%96%AD%E4%BA%A4%23" target="weibo">
+瑙鲁与台湾断交（热度：1562571）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%9D%E5%8A%AD%E6%96%87%E5%A6%BB%E5%AD%90%E6%9B%9D%E5%A5%B3%E5%84%BF%E9%81%AD%E9%81%87%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%23" target="weibo">
 郝劭文妻子曝女儿遭遇校园霸凌（热度：1561985）
 </a>
@@ -1805,12 +1811,6 @@ A先生 胡歌的脸（热度：1234335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E4%B8%80%E6%89%8B%E7%89%B5%E5%94%90%E5%AB%A3%E4%B8%80%E6%89%8B%E7%89%B5%E8%BE%9B%E8%8A%B7%E8%95%BE%23" target="weibo">
 胡歌一手牵唐嫣一手牵辛芷蕾（热度：1226831）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
-孟宴臣杀回来了（热度：1226715）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705299887038,
+  "endTime": 1705300670530,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -153,6 +153,14 @@
       "onboard_time": 1705200090,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1562571,
+      "num": 1562571,
+      "word": "瑙鲁与台湾断交",
+      "onboard_time": 1705299810,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1463102,
@@ -387,6 +395,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1044400,
+      "num": 1044400,
+      "word": "台湾从不是一个国家过去不是今后更不是",
+      "onboard_time": 1705297709,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1031863,
       "num": 1031863,
       "word": "国考出成绩",
@@ -441,14 +457,6 @@
       "onboard_time": 1705233990,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 956287,
-      "num": 956287,
-      "word": "台湾从不是一个国家过去不是今后更不是",
-      "onboard_time": 1705297709,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 937674,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 789184,
-      "num": 455801,
+      "num": 467676,
       "word": "李鸿其想与王紫璇结婚",
       "onboard_time": 1705296691,
       "rank": 22,
@@ -1155,6 +1163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 473540,
+      "num": 275125,
+      "word": "男子假离婚后发现孩子不是亲生的",
+      "onboard_time": 1705298250,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471553,
       "num": 442344,
       "word": "宝宝 领导不是你的班主任",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1705200330,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 460935,
-      "num": 275125,
-      "word": "男子假离婚后发现孩子不是亲生的",
-      "onboard_time": 1705298250,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 460885,
@@ -1347,20 +1355,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420651,
+      "num": 420651,
+      "word": "网络短剧 日本物价",
+      "onboard_time": 1705293274,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416861,
       "num": 416861,
       "word": "真正不能空腹吃的是这3种水果",
       "onboard_time": 1705142026,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 415699,
-      "num": 415699,
-      "word": "网络短剧 日本物价",
-      "onboard_time": 1705293274,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 415244,
@@ -1401,6 +1409,14 @@
       "onboard_time": 1705284328,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 393827,
+      "num": 393827,
+      "word": "在钢琴旁笑了9年的人是谁",
+      "onboard_time": 1705298609,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392435,
@@ -1449,6 +1465,14 @@
       "onboard_time": 1705282949,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 379368,
+      "num": 379368,
+      "word": "46岁知名麻醉科医生去世",
+      "onboard_time": 1705299569,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379109,
@@ -1763,14 +1787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284226,
-      "num": 284226,
-      "word": "在钢琴旁笑了9年的人是谁",
-      "onboard_time": 1705298609,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280701,
       "num": 192962,
       "word": "刘浩存林一飘雪大片",
@@ -1867,6 +1883,14 @@
       "category": "电竞,作品衍生"
     },
     {
+      "raw_hot": 267119,
+      "num": 267119,
+      "word": "方便面真是垃圾食品吗",
+      "onboard_time": 1705297950,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 265157,
       "num": 265157,
       "word": "阿富汗扎兰季市一大楼遭自杀式炸弹袭击",
@@ -1897,6 +1921,14 @@
       "onboard_time": 1705168884,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260000,
+      "num": 260000,
+      "word": "暧昧上头聊天记录",
+      "onboard_time": 1705299929,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 259561,
@@ -2001,14 +2033,6 @@
       "onboard_time": 1705200752,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 248083,
-      "num": 248083,
-      "word": "方便面真是垃圾食品吗",
-      "onboard_time": 1705297950,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 247090,
@@ -2443,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204544,
+      "num": 204544,
+      "word": "创造营亚洲学员官宣",
+      "onboard_time": 1705300346,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204194,
       "num": 204194,
       "word": "周深抽到于适送的锦鲤",
@@ -2705,6 +2737,14 @@
       "onboard_time": 1705292671,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182262,
+      "num": 182262,
+      "word": "易烊千玺成毅喊你来湖南",
+      "onboard_time": 1705300529,
+      "rank": 29,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 182102,
@@ -3043,14 +3083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161221,
-      "num": 161221,
-      "word": "瑙鲁与台湾断交",
-      "onboard_time": 1705299810,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 159628,
       "num": 137365,
       "word": "李兰迪 玫瑰公主",
@@ -3081,14 +3113,6 @@
       "onboard_time": 1705196132,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 158314,
-      "num": 158314,
-      "word": "46岁知名麻醉科医生去世",
-      "onboard_time": 1705299569,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158245,
@@ -3209,6 +3233,14 @@
       "onboard_time": 1705290870,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144128,
+      "num": 144128,
+      "word": "绝望上班族的领带",
+      "onboard_time": 1705300170,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 144084,
@@ -3435,6 +3467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134860,
+      "num": 134860,
+      "word": "魏大勋收到雷佳音送的核桃",
+      "onboard_time": 1705300410,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133951,
       "num": 133951,
       "word": "儿时射的子弹正中你的眉心",
@@ -3449,6 +3489,14 @@
       "onboard_time": 1705217311,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133121,
+      "num": 133121,
+      "word": "感谢您在哈尔滨的行程里有这一站",
+      "onboard_time": 1705299209,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132596,
@@ -3481,14 +3529,6 @@
       "onboard_time": 1705287931,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130038,
-      "num": 130038,
-      "word": "感谢您在哈尔滨的行程里有这一站",
-      "onboard_time": 1705299209,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129821,
@@ -4148,7 +4188,7 @@
     },
     {
       "raw_hot": 38465,
-      "num": 1219349,
+      "num": 1346272,
       "word": "党的自我革命永远在路上",
       "onboard_time": 1705291290,
       "rank": 2,

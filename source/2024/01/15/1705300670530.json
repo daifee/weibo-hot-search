@@ -1,0 +1,410 @@
+{
+  "runTime": 1705300670530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1562571,
+        "num": 1562571,
+        "word": "瑙鲁与台湾断交",
+        "onboard_time": 1705299810,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1403971,
+        "num": 1403971,
+        "word": "张颂文暗示微博八百回报销",
+        "onboard_time": 1705294173,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21020,
+        "num": 1346272,
+        "word": "党的自我革命永远在路上",
+        "onboard_time": 1705291290,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1319560,
+        "num": 1319560,
+        "word": "身上有老人味可能是疾病信号",
+        "onboard_time": 1705290813,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1044400,
+        "num": 1044400,
+        "word": "台湾从不是一个国家过去不是今后更不是",
+        "onboard_time": 1705297709,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 689959,
+        "num": 689959,
+        "word": "玲子 她是一床发潮的棉被",
+        "onboard_time": 1705295672,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 650943,
+        "num": 650943,
+        "word": "杨紫 蛋仔派对代言人",
+        "onboard_time": 1705296389,
+        "rank": 6,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 632753,
+        "num": 632753,
+        "word": "卢昱晓 女主",
+        "onboard_time": 1705289970,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 541651,
+        "num": 541651,
+        "word": "唐嫣想和虞书欣双人海钓",
+        "onboard_time": 1705298008,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478851,
+        "num": 478851,
+        "word": "于正 我的剧从来都是靠剧情",
+        "onboard_time": 1705285288,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 763523,
+        "num": 467676,
+        "word": "李鸿其想与王紫璇结婚",
+        "onboard_time": 1705296691,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424500,
+        "num": 424500,
+        "word": "苹果官网罕见大降价",
+        "onboard_time": 1705280311,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 420651,
+        "num": 420651,
+        "word": "网络短剧 日本物价",
+        "onboard_time": 1705293274,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393827,
+        "num": 393827,
+        "word": "在钢琴旁笑了9年的人是谁",
+        "onboard_time": 1705298609,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385764,
+        "num": 385764,
+        "word": "春晚第一次大彩排明星阵容",
+        "onboard_time": 1705289310,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379368,
+        "num": 379368,
+        "word": "46岁知名麻醉科医生去世",
+        "onboard_time": 1705299569,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360542,
+        "num": 360542,
+        "word": "祝绪丹 女二",
+        "onboard_time": 1705277851,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300228,
+        "num": 300228,
+        "word": "为啥人身上总有几根特长的毛",
+        "onboard_time": 1705291830,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 278043,
+        "num": 278043,
+        "word": "叠纸真的要上天",
+        "onboard_time": 1705297771,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268167,
+        "num": 268167,
+        "word": "北京上空出现疑似不明飞行物",
+        "onboard_time": 1705284148,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473540,
+        "num": 268029,
+        "word": "男子假离婚后发现孩子不是亲生的",
+        "onboard_time": 1705298250,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267119,
+        "num": 267119,
+        "word": "方便面真是垃圾食品吗",
+        "onboard_time": 1705297950,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260000,
+        "num": 260000,
+        "word": "暧昧上头聊天记录",
+        "onboard_time": 1705299929,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251342,
+        "num": 251342,
+        "word": "于正再回应",
+        "onboard_time": 1705283788,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244384,
+        "num": 244384,
+        "word": "巴黎偶遇刘亦菲素颜逛街",
+        "onboard_time": 1705293814,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232911,
+        "num": 232911,
+        "word": "肖战是J人",
+        "onboard_time": 1705294715,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229722,
+        "num": 229722,
+        "word": "张颂文本期餐费浪已报销",
+        "onboard_time": 1705296990,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204544,
+        "num": 204544,
+        "word": "创造营亚洲学员官宣",
+        "onboard_time": 1705300346,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190713,
+        "num": 190713,
+        "word": "新冠疫情可能在本月出现回升",
+        "onboard_time": 1705284570,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182262,
+        "num": 182262,
+        "word": "易烊千玺成毅喊你来湖南",
+        "onboard_time": 1705300529,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 179803,
+        "num": 179803,
+        "word": "江苏调整全省最低工资标准",
+        "onboard_time": 1705293934,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178762,
+        "num": 178762,
+        "word": "周深抽到于适送的锦鲤",
+        "onboard_time": 1705299267,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177203,
+        "num": 177203,
+        "word": "iPhone16将配备8GBRAM",
+        "onboard_time": 1705289549,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173726,
+        "num": 173726,
+        "word": "谭爷爷去看春晚身上挂着花花",
+        "onboard_time": 1705297649,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154364,
+        "num": 154364,
+        "word": "恋与深空捏脸",
+        "onboard_time": 1705297649,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152182,
+        "num": 152182,
+        "word": "迪丽热巴 行走的油画",
+        "onboard_time": 1705292074,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144128,
+        "num": 144128,
+        "word": "绝望上班族的领带",
+        "onboard_time": 1705300170,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136045,
+        "num": 136045,
+        "word": "当前外卖骑手数量达1300万人",
+        "onboard_time": 1705298489,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134860,
+        "num": 134860,
+        "word": "魏大勋收到雷佳音送的核桃",
+        "onboard_time": 1705300410,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134170,
+        "num": 134170,
+        "word": "陈丽君李云霄现身央视春晚联排",
+        "onboard_time": 1705299209,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133121,
+        "num": 133121,
+        "word": "感谢您在哈尔滨的行程里有这一站",
+        "onboard_time": 1705299209,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132583,
+        "num": 132583,
+        "word": "96110一定要接 没接到要打回去",
+        "onboard_time": 1705276347,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132418,
+        "num": 132418,
+        "word": "女子与男网友住酒店后称遭强奸",
+        "onboard_time": 1705287873,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128433,
+        "num": 128433,
+        "word": "大侦探",
+        "onboard_time": 1705290089,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128042,
+        "num": 128042,
+        "word": "杨紫范丞丞好台偶",
+        "onboard_time": 1705293155,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125399,
+        "num": 125399,
+        "word": "因为不够上进朋友要跟我绝交",
+        "onboard_time": 1705295553,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114012,
+        "num": 114012,
+        "word": "林家栋演出租车司机真的有人拦车",
+        "onboard_time": 1705299569,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107241,
+        "num": 107241,
+        "word": "台媒称施明德去世",
+        "onboard_time": 1705287750,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106249,
+        "num": 106249,
+        "word": "谭爷爷来北京是上春晚的",
+        "onboard_time": 1705291173,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104835,
+        "num": 104835,
+        "word": "张杰龙年央视春晚联排",
+        "onboard_time": 1705292074,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持党的绝对领导忠诚履职担当作为#"
+    }
+  }
+}

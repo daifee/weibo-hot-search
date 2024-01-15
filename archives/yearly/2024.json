@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705299887038,
+  "endTime": 1705300670530,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1387,6 +1387,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1562571,
+      "num": 1562571,
+      "word": "瑙鲁与台湾断交",
+      "onboard_time": 1705299810,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1561985,
       "num": 759099,
       "word": "郝劭文妻子曝女儿遭遇校园霸凌",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705155831,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1226715,
-      "num": 826297,
-      "word": "孟宴臣杀回来了",
-      "onboard_time": 1704032475,
-      "rank": 28,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
