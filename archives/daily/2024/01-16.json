@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705346063792,
+  "endTime": 1705347238358,
   "band_list": [
     {
       "raw_hot": 842698,
@@ -467,8 +467,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 13503,
-      "num": 13503,
+      "raw_hot": 15556,
+      "num": 15556,
       "word": "代号鸢",
       "onboard_time": 1705345935,
       "rank": 46,
@@ -481,6 +481,14 @@
       "onboard_time": 1705345993,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13286,
+      "num": 13286,
+      "word": "IU新单曲预告",
+      "onboard_time": 1705345874,
+      "rank": 44,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/16 00:22:56 ~ 2024/01/16 03:14:23
+本榜单时间：2024/01/16 00:22:56 ~ 2024/01/16 03:33:58
 </p>
 </blockquote>
 <p>
@@ -364,13 +364,19 @@ aespa时代遗憾MV（热度：37088）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%8F%B7%E9%B8%A2%23" target="weibo">
-代号鸢（热度：13503）
+代号鸢（热度：15556）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E9%95%BF%E6%B2%99%E6%8A%A2%E7%A5%A8%23" target="weibo">
 黄子弘凡长沙抢票（热度：13422）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23IU%E6%96%B0%E5%8D%95%E6%9B%B2%E9%A2%84%E5%91%8A%23" target="weibo">
+IU新单曲预告（热度：13286）
 </a>
 </li>
 
