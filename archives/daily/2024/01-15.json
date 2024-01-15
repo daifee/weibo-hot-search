@@ -1,7 +1,15 @@
 {
   "startTime": 1705249307256,
-  "endTime": 1705281565432,
+  "endTime": 1705282884446,
   "band_list": [
+    {
+      "raw_hot": 2122341,
+      "num": 2122341,
+      "word": "苹果官网罕见大降价",
+      "onboard_time": 1705280311,
+      "rank": 1,
+      "category": "数码"
+    },
     {
       "raw_hot": 1843287,
       "num": 1843287,
@@ -17,14 +25,6 @@
       "onboard_time": 1705277851,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1368643,
-      "num": 1368643,
-      "word": "苹果官网罕见大降价",
-      "onboard_time": 1705280311,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 1322795,
@@ -51,20 +51,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 804447,
+      "num": 765315,
+      "word": "50岁老妈爆改女儿变3000年战国美女",
+      "onboard_time": 1705279590,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 778890,
       "num": 778890,
       "word": "各地文旅局都疯了",
       "onboard_time": 1705233691,
       "rank": 4,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 765315,
-      "num": 765315,
-      "word": "50岁老妈爆改女儿变3000年战国美女",
-      "onboard_time": 1705279590,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 736599,
@@ -139,12 +139,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 462158,
-      "num": 462158,
+      "raw_hot": 503589,
+      "num": 306113,
+      "word": "哈尔滨哈药六厂 祖上富过",
+      "onboard_time": 1705282410,
+      "rank": 10,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 463987,
+      "num": 463987,
       "word": "冰岛小镇流进岩浆",
       "onboard_time": 1705278151,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432102,
+      "num": 432102,
+      "word": "丹麦国王腓特烈十世登基",
+      "onboard_time": 1705280489,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 423364,
@@ -164,19 +180,11 @@
     },
     {
       "raw_hot": 384150,
-      "num": 217353,
+      "num": 221887,
       "word": "这就是我不发朋友圈的原因",
       "onboard_time": 1705276586,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 379928,
-      "num": 379928,
-      "word": "丹麦国王腓特烈十世登基",
-      "onboard_time": 1705280489,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 361722,
@@ -193,6 +201,14 @@
       "onboard_time": 1705241739,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327940,
+      "num": 275833,
+      "word": "女演员之间的惺惺相惜",
+      "onboard_time": 1705280611,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 312197,
@@ -227,12 +243,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 273339,
+      "num": 165971,
+      "word": "宝宝 领导不是你的班主任",
+      "onboard_time": 1705282589,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247698,
       "num": 247698,
       "word": "白冰首播",
       "onboard_time": 1705237532,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 236902,
+      "num": 236902,
+      "word": "广州地铁",
+      "onboard_time": 1705281686,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222220,
@@ -267,12 +299,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198804,
+      "num": 198804,
+      "word": "十二星座一周运势",
+      "onboard_time": 1705282108,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197356,
       "num": 360570,
       "word": "上市公司遭电诈9000万",
       "onboard_time": 1705234530,
       "rank": 9,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 192769,
+      "num": 192769,
+      "word": "陈哲远 内娱最好笑的吃播选手",
+      "onboard_time": 1705281686,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191904,
@@ -299,12 +347,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 189154,
-      "num": 189154,
-      "word": "女演员之间的惺惺相惜",
-      "onboard_time": 1705280611,
-      "rank": 24,
+      "raw_hot": 187000,
+      "num": 173149,
+      "word": "林峯杨怡给佘诗曼颁奖",
+      "onboard_time": 1705281749,
+      "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183664,
+      "num": 183664,
+      "word": "胡锡进称股市是中国社会信心晴雨表",
+      "onboard_time": 1705281569,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 182982,
@@ -323,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177602,
+      "num": 177602,
+      "word": "四川单招",
+      "onboard_time": 1705281509,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 177346,
       "num": 177346,
       "word": "越南虽败犹荣",
@@ -331,8 +395,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171344,
-      "num": 171344,
+      "raw_hot": 173508,
+      "num": 173508,
       "word": "河北文旅摇人了",
       "onboard_time": 1705276708,
       "rank": 28,
@@ -353,6 +417,14 @@
       "onboard_time": 1705276527,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161305,
+      "num": 161305,
+      "word": "男子花2年在城市周边找出400种植物",
+      "onboard_time": 1705281450,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161277,
@@ -385,6 +457,14 @@
       "onboard_time": 1705242695,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149729,
+      "num": 149729,
+      "word": "对学历最中肯的评价之一",
+      "onboard_time": 1705281569,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 149717,
@@ -443,14 +523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131072,
-      "num": 131072,
-      "word": "男子花2年在城市周边找出400种植物",
-      "onboard_time": 1705281450,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129497,
       "num": 75355,
       "word": "2023TVB颁奖礼",
@@ -465,6 +537,14 @@
       "onboard_time": 1705243834,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121646,
+      "num": 121646,
+      "word": "男子称入职1月被口头辞退工资一分不发",
+      "onboard_time": 1705282828,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121223,
@@ -515,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100747,
-      "num": 100747,
-      "word": "四川单招",
-      "onboard_time": 1705281509,
-      "rank": 45,
-      "category": "教育"
+      "raw_hot": 102045,
+      "num": 102045,
+      "word": "快船vs森林狼",
+      "onboard_time": 1705282349,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 95186,

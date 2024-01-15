@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705281565432,
+  "endTime": 1705282884446,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -57,6 +57,14 @@
       "onboard_time": 1705158775,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2122341,
+      "num": 2122341,
+      "word": "苹果官网罕见大降价",
+      "onboard_time": 1705280311,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 1974540,
@@ -137,14 +145,6 @@
       "onboard_time": 1705157865,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1368643,
-      "num": 1368643,
-      "word": "苹果官网罕见大降价",
-      "onboard_time": 1705280311,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 1341149,
@@ -451,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 804447,
+      "num": 765315,
+      "word": "50岁老妈爆改女儿变3000年战国美女",
+      "onboard_time": 1705279590,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800210,
       "num": 800210,
       "word": "至少看过3遍以上的宝藏电影",
@@ -497,14 +505,6 @@
       "onboard_time": 1705193311,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 765315,
-      "num": 765315,
-      "word": "50岁老妈爆改女儿变3000年战国美女",
-      "onboard_time": 1705279590,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 758652,
@@ -899,6 +899,14 @@
       "category": "军事,国外时政"
     },
     {
+      "raw_hot": 503589,
+      "num": 306113,
+      "word": "哈尔滨哈药六厂 祖上富过",
+      "onboard_time": 1705282410,
+      "rank": 10,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 502598,
       "num": 502598,
       "word": "新疆多处发生雪崩游客已滞留4天",
@@ -971,20 +979,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 463987,
+      "num": 463987,
+      "word": "冰岛小镇流进岩浆",
+      "onboard_time": 1705278151,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463740,
       "num": 391463,
       "word": "为孩子不离婚孩子真能快乐吗",
       "onboard_time": 1705200330,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 462158,
-      "num": 462158,
-      "word": "冰岛小镇流进岩浆",
-      "onboard_time": 1705278151,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 456040,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1705161580,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 432102,
+      "num": 432102,
+      "word": "丹麦国王腓特烈十世登基",
+      "onboard_time": 1705280489,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 430433,
@@ -1116,7 +1132,7 @@
     },
     {
       "raw_hot": 384150,
-      "num": 217353,
+      "num": 221887,
       "word": "这就是我不发朋友圈的原因",
       "onboard_time": 1705276586,
       "rank": 20,
@@ -1129,14 +1145,6 @@
       "onboard_time": 1705175536,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 379928,
-      "num": 379928,
-      "word": "丹麦国王腓特烈十世登基",
-      "onboard_time": 1705280489,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 379109,
@@ -1249,6 +1257,14 @@
       "onboard_time": 1705155831,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327940,
+      "num": 275833,
+      "word": "女演员之间的惺惺相惜",
+      "onboard_time": 1705280611,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 319598,
@@ -1451,6 +1467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 273339,
+      "num": 165971,
+      "word": "宝宝 领导不是你的班主任",
+      "onboard_time": 1705282589,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 271066,
       "num": 219735,
       "word": "高叶哭了",
@@ -1641,6 +1665,14 @@
       "onboard_time": 1705227809,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236902,
+      "num": 236902,
+      "word": "广州地铁",
+      "onboard_time": 1705281686,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236793,
@@ -1883,6 +1915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198804,
+      "num": 198804,
+      "word": "十二星座一周运势",
+      "onboard_time": 1705282108,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198383,
       "num": 198383,
       "word": "五福临门定妆直播",
@@ -1929,6 +1969,14 @@
       "onboard_time": 1705212391,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192769,
+      "num": 192769,
+      "word": "陈哲远 内娱最好笑的吃播选手",
+      "onboard_time": 1705281686,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191686,
@@ -1979,14 +2027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189154,
-      "num": 189154,
-      "word": "女演员之间的惺惺相惜",
-      "onboard_time": 1705280611,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187806,
       "num": 161979,
       "word": "高端水果价格逐渐亲民",
@@ -2001,6 +2041,14 @@
       "onboard_time": 1705215030,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187000,
+      "num": 173149,
+      "word": "林峯杨怡给佘诗曼颁奖",
+      "onboard_time": 1705281749,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 186502,
@@ -2025,6 +2073,14 @@
       "onboard_time": 1705244976,
       "rank": 34,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 183664,
+      "num": 183664,
+      "word": "胡锡进称股市是中国社会信心晴雨表",
+      "onboard_time": 1705281569,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 183644,
@@ -2099,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177602,
+      "num": 177602,
+      "word": "四川单招",
+      "onboard_time": 1705281509,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 177346,
       "num": 177346,
       "word": "越南虽败犹荣",
@@ -2113,6 +2177,14 @@
       "onboard_time": 1705226731,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 173508,
+      "num": 173508,
+      "word": "河北文旅摇人了",
+      "onboard_time": 1705276708,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173420,
@@ -2145,14 +2217,6 @@
       "onboard_time": 1705205669,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171344,
-      "num": 171344,
-      "word": "河北文旅摇人了",
-      "onboard_time": 1705276708,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170912,
@@ -2307,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161305,
+      "num": 161305,
+      "word": "男子花2年在城市周边找出400种植物",
+      "onboard_time": 1705281450,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161277,
       "num": 161277,
       "word": "皇马夺得西超杯冠军",
@@ -2369,6 +2441,14 @@
       "onboard_time": 1705242634,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149729,
+      "num": 149729,
+      "word": "对学历最中肯的评价之一",
+      "onboard_time": 1705281569,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 149201,
@@ -2627,14 +2707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131072,
-      "num": 131072,
-      "word": "男子花2年在城市周边找出400种植物",
-      "onboard_time": 1705281450,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129821,
       "num": 129821,
       "word": "Maeng给虞书欣化的妆",
@@ -2745,6 +2817,14 @@
       "onboard_time": 1705149470,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121646,
+      "num": 121646,
+      "word": "男子称入职1月被口头辞退工资一分不发",
+      "onboard_time": 1705282828,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121361,
@@ -2915,12 +2995,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100747,
-      "num": 100747,
-      "word": "四川单招",
-      "onboard_time": 1705281509,
-      "rank": 45,
-      "category": "教育"
+      "raw_hot": 102045,
+      "num": 102045,
+      "word": "快船vs森林狼",
+      "onboard_time": 1705282349,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 99911,
