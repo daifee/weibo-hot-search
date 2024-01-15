@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705329336590,
+  "endTime": 1705331927545,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1753,6 +1753,14 @@
       "onboard_time": 1704178231,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1417168,
+      "num": 549641,
+      "word": "经期5个表现说明子宫很健康",
+      "onboard_time": 1705325251,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1416987,
@@ -4851,14 +4859,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 824767,
-      "num": 224407,
-      "word": "经期5个表现说明子宫很健康",
-      "onboard_time": 1705325251,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 824701,
       "num": 824701,
       "word": "尔滨啊",
@@ -5753,6 +5753,14 @@
       "onboard_time": 1704839836,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 746228,
+      "num": 548873,
+      "word": "举报县委书记被逮捕的河北老干部回家",
+      "onboard_time": 1705328974,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 746215,
@@ -8537,6 +8545,14 @@
       "onboard_time": 1704121419,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575025,
+      "num": 575025,
+      "word": "原来护发素这么有用",
+      "onboard_time": 1705328551,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 574290,
@@ -13227,6 +13243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 387742,
+      "num": 387742,
+      "word": "拍薛之谦的人找到了",
+      "onboard_time": 1705329151,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 387348,
       "num": 351061,
       "word": "暗恋的人成了闪闪发光的大明星",
@@ -13241,6 +13265,14 @@
       "onboard_time": 1704710313,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 386850,
+      "num": 386850,
+      "word": "6100元的娇兰量子面霜引科学家吐槽",
+      "onboard_time": 1705328793,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 386427,
@@ -14132,7 +14164,7 @@
     },
     {
       "raw_hot": 356693,
-      "num": 230988,
+      "num": 295055,
       "word": "户口簿上再婚能否登记为已婚",
       "onboard_time": 1705324773,
       "rank": 44,
@@ -15595,6 +15627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311070,
+      "num": 311070,
+      "word": "安心丈夫拒绝同房",
+      "onboard_time": 1705331611,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311069,
       "num": 311069,
       "word": "宋江金裕贞古装",
@@ -16497,6 +16537,14 @@
       "onboard_time": 1704863435,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289997,
+      "num": 265687,
+      "word": "许嵩回复了张靓颖",
+      "onboard_time": 1705331310,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 289962,
@@ -17417,14 +17465,6 @@
       "onboard_time": 1704191672,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269479,
-      "num": 178244,
-      "word": "原来护发素这么有用",
-      "onboard_time": 1705328551,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 269430,
@@ -19771,6 +19811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 233172,
+      "num": 233172,
+      "word": "邓为抽到了米卡自制的手机支架",
+      "onboard_time": 1705330891,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 233170,
       "num": 233170,
       "word": "好想去哈尔滨",
@@ -20108,7 +20156,7 @@
     },
     {
       "raw_hot": 228416,
-      "num": 209044,
+      "num": 215584,
       "word": "壶鱼辣椒",
       "onboard_time": 1705327953,
       "rank": 40,
@@ -21329,14 +21377,6 @@
       "onboard_time": 1704198991,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 215483,
-      "num": 215483,
-      "word": "拍薛之谦的人找到了",
-      "onboard_time": 1705329151,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 215410,
@@ -22793,14 +22833,6 @@
       "onboard_time": 1704107438,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202310,
-      "num": 177778,
-      "word": "6100元的娇兰量子面霜引科学家吐槽",
-      "onboard_time": 1705328793,
-      "rank": 31,
-      "category": "美妆"
     },
     {
       "raw_hot": 202190,
@@ -25241,6 +25273,14 @@
       "onboard_time": 1704258752,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185522,
+      "num": 185522,
+      "word": "爱是常觉亏欠啊",
+      "onboard_time": 1705329151,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 185399,
@@ -28099,6 +28139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166811,
+      "num": 166811,
+      "word": "周笔畅 第二名离第一就差一口气",
+      "onboard_time": 1705331669,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166731,
       "num": 166731,
       "word": "昊苍警官的办公间",
@@ -30891,14 +30939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147545,
-      "num": 147545,
-      "word": "举报县委书记被逮捕的河北老干部回家",
-      "onboard_time": 1705328974,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147445,
       "num": 147445,
       "word": "OPPO Find X7价格",
@@ -31097,6 +31137,14 @@
       "onboard_time": 1704693689,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146184,
+      "num": 146184,
+      "word": "杨巡给梁思申下跪",
+      "onboard_time": 1705330649,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 146175,
@@ -32233,14 +32281,6 @@
       "onboard_time": 1704162762,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139562,
-      "num": 139562,
-      "word": "爱是常觉亏欠啊",
-      "onboard_time": 1705329151,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 139449,
@@ -34899,6 +34939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124497,
+      "num": 124497,
+      "word": "年度香水推荐",
+      "onboard_time": 1705330649,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 124401,
       "num": 124401,
       "word": "当大熊猫玩到一半没电了",
@@ -36579,6 +36627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110972,
+      "num": 110972,
+      "word": "柴师傅辛苦了一天把地板修好了",
+      "onboard_time": 1705330291,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110960,
       "num": 665259,
       "word": "王曼昱新头像",
@@ -36945,6 +37001,14 @@
       "onboard_time": 1704632672,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 107251,
+      "num": 107251,
+      "word": "马宁给孙兴慜黄牌",
+      "onboard_time": 1705330592,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107220,

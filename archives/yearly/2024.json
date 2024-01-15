@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705329336590,
+  "endTime": 1705331927545,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1755,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1417168,
+      "num": 549641,
+      "word": "经期5个表现说明子宫很健康",
+      "onboard_time": 1705325251,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1416987,
       "num": 681558,
       "word": "杨幂 大头打一下",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704193294,
       "rank": 13,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1228946,
-      "num": 1228946,
-      "word": "关晓彤 他疯了他是个颠公",
-      "onboard_time": 1705113211,
-      "rank": 19,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
