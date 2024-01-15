@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705324917024,
+  "endTime": 1705325652705,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -523,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 957894,
+      "num": 957894,
+      "word": "千万不要对抑郁症朋友说",
+      "onboard_time": 1705319911,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 937674,
       "num": 937674,
       "word": "楼下起火爸爸抱女儿坠楼7岁女儿身亡",
@@ -537,14 +545,6 @@
       "onboard_time": 1705214069,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 934269,
-      "num": 934269,
-      "word": "千万不要对抑郁症朋友说",
-      "onboard_time": 1705319911,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 924856,
@@ -633,6 +633,14 @@
       "onboard_time": 1705148267,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 820657,
+      "num": 820657,
+      "word": "陈泽直播",
+      "onboard_time": 1705325132,
+      "rank": 4,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 815304,
@@ -795,6 +803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 720500,
+      "num": 720500,
+      "word": "杨幂绿戒指红美甲",
+      "onboard_time": 1705324954,
+      "rank": 5,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 716761,
       "num": 716761,
       "word": "3年挣102万外卖骑手辟谣被打",
@@ -857,6 +873,14 @@
       "onboard_time": 1705241739,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 690747,
+      "num": 690747,
+      "word": "中方将给予瑞士单方面免签",
+      "onboard_time": 1705322973,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 690083,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1705302029,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 611762,
-      "num": 611762,
-      "word": "中方将给予瑞士单方面免签",
-      "onboard_time": 1705322973,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 610431,
@@ -1332,7 +1348,7 @@
     },
     {
       "raw_hot": 501413,
-      "num": 215604,
+      "num": 249872,
       "word": "夫妻不熟的聊天记录",
       "onboard_time": 1705322909,
       "rank": 30,
@@ -1523,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445826,
+      "num": 445826,
+      "word": "结婚前一定要知道的几件事",
+      "onboard_time": 1705323211,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445712,
       "num": 445712,
       "word": "迪丽热巴 行走的油画",
@@ -1536,6 +1560,14 @@
       "word": "美国爱泼斯坦案更多细节曝光",
       "onboard_time": 1705309407,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445121,
+      "num": 445121,
+      "word": "男子吐槽华清宫贵妃入浴雕像不雅",
+      "onboard_time": 1705321350,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1659,14 +1691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 406055,
-      "num": 406055,
-      "word": "男子吐槽华清宫贵妃入浴雕像不雅",
-      "onboard_time": 1705321350,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 402155,
       "num": 402155,
       "word": "朋友太多抑郁的可能性会变高",
@@ -1753,14 +1777,6 @@
       "onboard_time": 1705282949,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 381152,
-      "num": 381152,
-      "word": "结婚前一定要知道的几件事",
-      "onboard_time": 1705323211,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 379109,
@@ -2211,6 +2227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 275802,
+      "num": 275802,
+      "word": "警方通报女子驾车当街撞倒丈夫",
+      "onboard_time": 1705323451,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274730,
       "num": 192662,
       "word": "张小斐是有点功夫在身上的",
@@ -2353,6 +2377,14 @@
       "onboard_time": 1705151750,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256550,
+      "num": 256550,
+      "word": "肖战第一次剪窗花",
+      "onboard_time": 1705325072,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 256355,
@@ -2611,6 +2643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230988,
+      "num": 230988,
+      "word": "户口簿上再婚能否登记为已婚",
+      "onboard_time": 1705324773,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230435,
       "num": 230435,
       "word": "G社拍的柳智敏",
@@ -2633,6 +2673,14 @@
       "onboard_time": 1705146039,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 227407,
+      "num": 177081,
+      "word": "经期5个表现说明子宫很健康",
+      "onboard_time": 1705325251,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227048,
@@ -2739,6 +2787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 219981,
+      "num": 219981,
+      "word": "谁给薛之谦拍的",
+      "onboard_time": 1705324591,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219913,
       "num": 190518,
       "word": "不就是王家卫么 谁不会",
@@ -2785,14 +2841,6 @@
       "onboard_time": 1705309169,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216422,
-      "num": 216422,
-      "word": "警方通报女子驾车当街撞倒丈夫",
-      "onboard_time": 1705323451,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214951,
@@ -3025,14 +3073,6 @@
       "onboard_time": 1705226670,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 199789,
-      "num": 199789,
-      "word": "谁给薛之谦拍的",
-      "onboard_time": 1705324591,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 198804,
@@ -3507,6 +3547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174875,
+      "num": 174875,
+      "word": "剧版繁花拍的都是镜面以上的内容",
+      "onboard_time": 1705324173,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174418,
       "num": 174418,
       "word": "爱吃辣的人或收获4大好处",
@@ -3673,14 +3721,6 @@
       "onboard_time": 1705209570,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167492,
-      "num": 134202,
-      "word": "剧版繁花拍的都是镜面以上的内容",
-      "onboard_time": 1705324173,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 167345,
@@ -3875,12 +3915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155725,
+      "num": 155725,
+      "word": "韩国球员危险动作",
+      "onboard_time": 1705324293,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154966,
       "num": 154966,
       "word": "瑙鲁是世界上最小独立共和国",
       "onboard_time": 1705306410,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 154808,
+      "num": 154808,
+      "word": "散步真的特别有恋爱感",
+      "onboard_time": 1705324232,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 153395,
@@ -4147,14 +4203,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 140008,
-      "num": 133376,
-      "word": "韩国球员危险动作",
-      "onboard_time": 1705324293,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139989,
       "num": 139989,
       "word": "陈若华 颠婆养不出小白花",
@@ -4185,6 +4233,14 @@
       "onboard_time": 1705195709,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 138879,
+      "num": 138879,
+      "word": "听不到声音的猫咪用超大音量与主人沟通",
+      "onboard_time": 1705324954,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 138846,
@@ -4241,6 +4297,14 @@
       "onboard_time": 1705301609,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137289,
+      "num": 137289,
+      "word": "研究称睡梦中被吵醒不会影响睡眠质量",
+      "onboard_time": 1705323573,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137089,
@@ -4363,6 +4427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131426,
+      "num": 131426,
+      "word": "新疆姑娘机场救人后默默离开",
+      "onboard_time": 1705323931,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 130838,
       "num": 130838,
       "word": "养生最简单的就是搓耳朵",
@@ -4457,14 +4529,6 @@
       "onboard_time": 1705314330,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 125202,
-      "num": 125202,
-      "word": "散步真的特别有恋爱感",
-      "onboard_time": 1705324232,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 125028,
@@ -4763,14 +4827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 105707,
-      "num": 105707,
-      "word": "新疆姑娘机场救人后默默离开",
-      "onboard_time": 1705323931,
-      "rank": 41,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 105453,
       "num": 105453,
       "word": "她盛情地接待了年少的自己",
@@ -4835,6 +4891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100442,
+      "num": 100442,
+      "word": "00后新警3天连收3面锦旗被赞神速",
+      "onboard_time": 1705323332,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100218,
       "num": 100218,
       "word": "中方回应瑙鲁愿同中国复交",
@@ -4883,22 +4947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97735,
-      "num": 97735,
-      "word": "00后新警3天连收3面锦旗被赞神速",
-      "onboard_time": 1705323332,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97480,
-      "num": 97480,
-      "word": "户口簿上再婚能否登记为已婚",
-      "onboard_time": 1705324773,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97176,
       "num": 425142,
       "word": "美女吃零食也叫cityeat",
@@ -4915,20 +4963,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 95409,
-      "num": 95409,
-      "word": "研究称睡梦中被吵醒不会影响睡眠质量",
-      "onboard_time": 1705323573,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 94810,
       "num": 97207,
       "word": "小义奇妙夜化身主唱",
       "onboard_time": 1705240414,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94503,
+      "num": 94503,
+      "word": "随便一件小事都需要用一生时间来缓解",
+      "onboard_time": 1705325610,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 94421,
@@ -5075,6 +5123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67215,
+      "num": 836212,
+      "word": "空军红鹰飞行表演队最新训练大片",
+      "onboard_time": 1705324293,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67153,
       "num": 67153,
       "word": "陈若华恋情",
@@ -5187,14 +5243,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 51685,
-      "num": 725338,
-      "word": "空军红鹰飞行表演队最新训练大片",
-      "onboard_time": 1705324293,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 51553,
       "num": 1212712,
       "word": "专属于冬日的浪漫氛围感",
@@ -5217,6 +5265,14 @@
       "onboard_time": 1705153665,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45927,
+      "num": 350581,
+      "word": "河南人间烟火气",
+      "onboard_time": 1705323690,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45668,
@@ -5313,14 +5369,6 @@
       "onboard_time": 1705151029,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 28942,
-      "num": 312245,
-      "word": "河南人间烟火气",
-      "onboard_time": 1705323690,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24520,
