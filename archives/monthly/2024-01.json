@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705419268343,
+  "endTime": 1705422237867,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -4803,6 +4803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 857411,
+      "num": 857411,
+      "word": "欧阳娣娣说我来自中国",
+      "onboard_time": 1705417891,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 856075,
       "num": 856075,
       "word": "教授建议退休人员卖房去乡村养老",
@@ -5465,14 +5473,6 @@
       "onboard_time": 1705394910,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 796318,
-      "num": 796318,
-      "word": "欧阳娣娣说我来自中国",
-      "onboard_time": 1705417891,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 796230,
@@ -8353,6 +8353,14 @@
       "onboard_time": 1704628830,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606321,
+      "num": 606321,
+      "word": "她的力气似乎很大 大到撑起了一个家",
+      "onboard_time": 1705417469,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 606289,
@@ -14699,6 +14707,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 364587,
+      "num": 364587,
+      "word": "巴黎LV大秀",
+      "onboard_time": 1705418493,
+      "rank": 16,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 364551,
       "num": 221848,
       "word": "当老公发现了前男友写给我的情书",
@@ -16161,14 +16177,6 @@
       "onboard_time": 1704948877,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 319041,
-      "num": 319041,
-      "word": "巴黎LV大秀",
-      "onboard_time": 1705418493,
-      "rank": 16,
-      "category": "时尚"
     },
     {
       "raw_hot": 318853,
@@ -18144,14 +18152,6 @@
       "word": "不用排名 感受到多少就回馈多少",
       "onboard_time": 1704168938,
       "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 278185,
-      "num": 278185,
-      "word": "她的力气似乎很大 大到撑起了一个家",
-      "onboard_time": 1705417469,
-      "rank": 30,
       "category": "情感"
     },
     {
@@ -20585,6 +20585,14 @@
       "onboard_time": 1704520170,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238816,
+      "num": 238816,
+      "word": "程潇烟花照",
+      "onboard_time": 1705419509,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 238814,
@@ -38995,6 +39003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113139,
+      "num": 113139,
+      "word": "得知姐姐被训哭2岁男童和爸爸硬刚",
+      "onboard_time": 1705418612,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113103,
       "num": 113763,
       "word": "妈妈用女儿雪圈陪小土豆疯玩一下午",
@@ -40553,6 +40569,14 @@
       "onboard_time": 1705128453,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98062,
+      "num": 98062,
+      "word": "繁花里最让我误会的镜头",
+      "onboard_time": 1705421367,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 97920,
@@ -42449,6 +42473,14 @@
       "onboard_time": 1705316429,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 56870,
+      "num": 70476,
+      "word": "成毅狐妖蒙眼造型",
+      "onboard_time": 1705422144,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 56769,
