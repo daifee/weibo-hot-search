@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705412036658,
+  "endTime": 1705414637996,
   "band_list": [
     {
       "raw_hot": 2168732,
@@ -83,12 +83,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1639883,
+      "num": 551299,
+      "word": "华中农业大学",
+      "onboard_time": 1705411651,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1631690,
       "num": 1588054,
       "word": "金莎和男友 一九分成",
       "onboard_time": 1705401091,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1560576,
+      "num": 1560576,
+      "word": "华中农业大学学生实名举报导师学术造假",
+      "onboard_time": 1705411651,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 1541104,
@@ -403,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 606781,
+      "num": 606781,
+      "word": "仙剑四或将明天官宣",
+      "onboard_time": 1705414172,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 603536,
       "num": 420080,
       "word": "6200元一杯天价咖啡店不到三月就闭店",
@@ -595,6 +619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 485943,
+      "num": 246707,
+      "word": "10种嘌呤大户 高尿酸者少碰",
+      "onboard_time": 1705412791,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 477354,
       "num": 477354,
       "word": "原来护发素这么有用",
@@ -699,12 +731,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 395000,
-      "num": 395000,
-      "word": "华中农业大学",
-      "onboard_time": 1705411651,
-      "rank": 13,
-      "category": "教育"
+      "raw_hot": 394689,
+      "num": 394689,
+      "word": "小时候那批被打压式教育的人当爸妈了",
+      "onboard_time": 1705409370,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 394282,
@@ -875,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320062,
-      "num": 320062,
-      "word": "华中农业大学学生实名举报导师学术造假",
-      "onboard_time": 1705411651,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 318401,
       "num": 318401,
       "word": "东方甄选主播天权提前复出引争议",
@@ -929,6 +953,14 @@
       "onboard_time": 1705367790,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306352,
+      "num": 245363,
+      "word": "一块钱怎么度过一周",
+      "onboard_time": 1705413333,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 303883,
@@ -1195,14 +1227,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 244202,
-      "num": 244202,
-      "word": "小时候那批被打压式教育的人当爸妈了",
-      "onboard_time": 1705409370,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 240637,
       "num": 236248,
       "word": "江宁婆婆给文旅局长们的建议",
@@ -1321,6 +1345,22 @@
       "onboard_time": 1705328793,
       "rank": 13,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 222635,
+      "num": 222635,
+      "word": "19层开播口碑",
+      "onboard_time": 1705412975,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222172,
+      "num": 222172,
+      "word": "胜宽CoverMV里出现文彬",
+      "onboard_time": 1705413513,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 221970,
@@ -1451,6 +1491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207756,
+      "num": 207756,
+      "word": "无效省钱",
+      "onboard_time": 1705413751,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207194,
       "num": 207194,
       "word": "IU金泰亨新歌海报",
@@ -1539,6 +1587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200011,
+      "num": 200011,
+      "word": "白敬亭穿秋裤主打一个听劝",
+      "onboard_time": 1705413931,
+      "rank": 29,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 197907,
       "num": 197907,
       "word": "龚俊新中式丝绸套装",
@@ -1593,6 +1649,14 @@
       "onboard_time": 1705392630,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191843,
+      "num": 191843,
+      "word": "不上班但也饿不死的活法",
+      "onboard_time": 1705411411,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 191756,
@@ -1859,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173133,
+      "num": 173133,
+      "word": "如果奔跑是我的人生收视率破2",
+      "onboard_time": 1705414592,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172652,
       "num": 172652,
       "word": "当你养了一只牧羊犬但家里没有羊时",
@@ -1976,6 +2048,14 @@
       "word": "范闲 汗流浃背了吧",
       "onboard_time": 1705400972,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163788,
+      "num": 163788,
+      "word": "董子健大型社死现场",
+      "onboard_time": 1705413993,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -2155,6 +2235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150312,
+      "num": 150312,
+      "word": "迪士尼偶遇戚薇李承铉",
+      "onboard_time": 1705414532,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148912,
       "num": 148912,
       "word": "你好种地少年",
@@ -2243,6 +2331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 142411,
+      "num": 142411,
+      "word": "她不是脚滑而是狡猾",
+      "onboard_time": 1705412073,
+      "rank": 43,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 142355,
       "num": 142355,
       "word": "0118决战国乙之巅",
@@ -2257,6 +2353,14 @@
       "onboard_time": 1705400732,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142283,
+      "num": 142283,
+      "word": "女生偷偷回家爸爸的反应亮了",
+      "onboard_time": 1705413333,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141472,
@@ -2331,12 +2435,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136817,
+      "num": 136817,
+      "word": "我们的翻译官",
+      "onboard_time": 1705412849,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135627,
       "num": 135627,
       "word": "陶喆武汉厦门双城官宣",
       "onboard_time": 1705407332,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134619,
+      "num": 134619,
+      "word": "冬季五脏食疗方",
+      "onboard_time": 1705413333,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 132368,
+      "num": 132368,
+      "word": "微博之夜妆容造型点评",
+      "onboard_time": 1705414472,
+      "rank": 49,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 131892,
@@ -2353,14 +2481,6 @@
       "onboard_time": 1705334069,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 130693,
-      "num": 130693,
-      "word": "不上班但也饿不死的活法",
-      "onboard_time": 1705411411,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 130160,
@@ -2739,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80339,
+      "num": 1193794,
+      "word": "相约冰雪",
+      "onboard_time": 1705410872,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78369,
       "num": 78369,
       "word": "广州W酒店将停业",
@@ -2955,14 +3083,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 52700,
-      "num": 1193794,
-      "word": "相约冰雪",
-      "onboard_time": 1705410872,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51701,
       "num": 51521,
       "word": "理想汽车回应全系车型降价超3万",
@@ -3084,7 +3204,7 @@
     },
     {
       "raw_hot": 11447,
-      "num": 172138,
+      "num": 343741,
       "word": "我们为什么需要卫星通信",
       "onboard_time": 1705397969,
       "rank": 35,

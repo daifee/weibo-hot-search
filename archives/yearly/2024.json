@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705412036658,
+  "endTime": 1705414637996,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1315,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1639883,
+      "num": 551299,
+      "word": "华中农业大学",
+      "onboard_time": 1705411651,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1631690,
       "num": 1588054,
       "word": "金莎和男友 一九分成",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1704266850,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1560576,
+      "num": 1560576,
+      "word": "华中农业大学学生实名举报导师学术造假",
+      "onboard_time": 1705411651,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 1554414,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704673712,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1260848,
-      "num": 1260848,
-      "word": "山东省考出分",
-      "onboard_time": 1705040070,
-      "rank": 3,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 1258770,
-      "num": 1258770,
-      "word": "檀健次穿的像林一刘浩存的cp粉",
-      "onboard_time": 1705134521,
-      "rank": 35,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
