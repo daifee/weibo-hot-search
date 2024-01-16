@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705414637996,
+  "endTime": 1705415702064,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -219,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1719441,
+      "num": 1719441,
+      "word": "华中农业大学学生实名举报导师学术造假",
+      "onboard_time": 1705411651,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1711519,
       "num": 1711519,
       "word": "优酷换logo了",
@@ -265,14 +273,6 @@
       "onboard_time": 1705200090,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1560576,
-      "num": 1560576,
-      "word": "华中农业大学学生实名举报导师学术造假",
-      "onboard_time": 1705411651,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 1541104,
@@ -457,6 +457,14 @@
       "onboard_time": 1705382552,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1255642,
+      "num": 1255642,
+      "word": "仙剑四或将明天官宣",
+      "onboard_time": 1705414172,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1248833,
@@ -1507,14 +1515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 606781,
-      "num": 606781,
-      "word": "仙剑四或将明天官宣",
-      "onboard_time": 1705414172,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 605773,
       "num": 605773,
       "word": "国考面试名单",
@@ -1835,6 +1835,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 536160,
+      "num": 288326,
+      "word": "10种嘌呤大户 高尿酸者少碰",
+      "onboard_time": 1705412791,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 536050,
       "num": 536050,
       "word": "奚梦瑶何猷君感情好的原因",
@@ -2001,14 +2009,6 @@
       "onboard_time": 1705316007,
       "rank": 10,
       "category": "数码"
-    },
-    {
-      "raw_hot": 485943,
-      "num": 246707,
-      "word": "10种嘌呤大户 高尿酸者少碰",
-      "onboard_time": 1705412791,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 484261,
@@ -2539,6 +2539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 387382,
+      "num": 387382,
+      "word": "无效省钱",
+      "onboard_time": 1705413751,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 386427,
       "num": 386427,
       "word": "钎城舞剑",
@@ -3036,7 +3044,7 @@
     },
     {
       "raw_hot": 306352,
-      "num": 245363,
+      "num": 252972,
       "word": "一块钱怎么度过一周",
       "onboard_time": 1705413333,
       "rank": 21,
@@ -4411,14 +4419,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 207756,
-      "num": 207756,
-      "word": "无效省钱",
-      "onboard_time": 1705413751,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207432,
       "num": 168966,
       "word": "于适给娇兰拍的广告",
@@ -4569,6 +4569,14 @@
       "onboard_time": 1705380513,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202664,
+      "num": 202664,
+      "word": "如果奔跑是我的人生收视率破2",
+      "onboard_time": 1705414592,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 202116,
@@ -5523,20 +5531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173333,
+      "num": 173333,
+      "word": "迪士尼偶遇戚薇李承铉",
+      "onboard_time": 1705414532,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173289,
       "num": 173289,
       "word": "肖战起诉科技公司侵权",
       "onboard_time": 1705376732,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173133,
-      "num": 173133,
-      "word": "如果奔跑是我的人生收视率破2",
-      "onboard_time": 1705414592,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 172683,
@@ -5673,6 +5681,14 @@
       "onboard_time": 1705382312,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 168571,
+      "num": 168571,
+      "word": "GenG还我转播",
+      "onboard_time": 1705415315,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 168498,
@@ -6203,12 +6219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150312,
-      "num": 150312,
-      "word": "迪士尼偶遇戚薇李承铉",
-      "onboard_time": 1705414532,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 150996,
+      "num": 150996,
+      "word": "微博之夜妆容造型点评",
+      "onboard_time": 1705414472,
+      "rank": 49,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 150219,
@@ -6305,6 +6321,14 @@
       "onboard_time": 1705389751,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146498,
+      "num": 146498,
+      "word": "女生偷偷回家爸爸的反应亮了",
+      "onboard_time": 1705413333,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146430,
@@ -6505,14 +6529,6 @@
       "onboard_time": 1705400732,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142283,
-      "num": 142283,
-      "word": "女生偷偷回家爸爸的反应亮了",
-      "onboard_time": 1705413333,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142002,
@@ -6843,6 +6859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134758,
+      "num": 134758,
+      "word": "陈都灵港式甜美妆",
+      "onboard_time": 1705415492,
+      "rank": 42,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 134619,
       "num": 134619,
       "word": "冬季五脏食疗方",
@@ -6881,14 +6905,6 @@
       "onboard_time": 1705245693,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132368,
-      "num": 132368,
-      "word": "微博之夜妆容造型点评",
-      "onboard_time": 1705414472,
-      "rank": 49,
-      "category": "美妆,时尚"
     },
     {
       "raw_hot": 132049,
@@ -6985,6 +7001,14 @@
       "onboard_time": 1705372587,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128645,
+      "num": 128645,
+      "word": "猫咪窒息急救方法",
+      "onboard_time": 1705415612,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127862,
@@ -7105,6 +7129,14 @@
       "onboard_time": 1705330649,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 124390,
+      "num": 124390,
+      "word": "对偶像祛魅",
+      "onboard_time": 1705415612,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 124326,
@@ -8532,7 +8564,7 @@
     },
     {
       "raw_hot": 11447,
-      "num": 343741,
+      "num": 375990,
       "word": "我们为什么需要卫星通信",
       "onboard_time": 1705397969,
       "rank": 35,

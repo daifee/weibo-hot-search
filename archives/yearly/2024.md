@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 22:17:17
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 22:35:02
 </p>
 </blockquote>
 <p>
@@ -903,6 +903,12 @@ A先生跳海（热度：1721660）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%23" target="weibo">
+华中农业大学学生实名举报导师学术造假（热度：1719441）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E7%BB%93%E5%A9%9A%E8%AF%81%E6%88%90%E6%89%93%E4%BA%BA%E8%AF%81%E4%BA%86%23" target="weibo">
 什么时候结婚证成打人证了（热度：1717598）
 </a>
@@ -1139,12 +1145,6 @@ A先生跳海（热度：1721660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%9D%E5%8A%AD%E6%96%87%E5%A6%BB%E5%AD%90%E6%9B%9D%E5%A5%B3%E5%84%BF%E9%81%AD%E9%81%87%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%23" target="weibo">
 郝劭文妻子曝女儿遭遇校园霸凌（热度：1561985）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%23" target="weibo">
-华中农业大学学生实名举报导师学术造假（热度：1560576）
 </a>
 </li>
 
