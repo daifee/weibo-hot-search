@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705382268201,
+  "endTime": 1705383249943,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -355,20 +355,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1228167,
+      "num": 1228167,
+      "word": "女子酒店产子后遗弃被判故意杀人罪",
+      "onboard_time": 1705378713,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1218885,
       "num": 1218885,
       "word": "于正 吴宣仪是临时救场",
       "onboard_time": 1705219529,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1209038,
-      "num": 1209038,
-      "word": "女子酒店产子后遗弃被判故意杀人罪",
-      "onboard_time": 1705378713,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1204322,
@@ -635,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 950157,
+      "num": 950157,
+      "word": "男子梦到家中有黄金挖40米深洞后摔死",
+      "onboard_time": 1705380392,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 937674,
       "num": 937674,
       "word": "楼下起火爸爸抱女儿坠楼7岁女儿身亡",
@@ -875,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 752486,
-      "num": 400503,
-      "word": "男子梦到家中有黄金挖40米深洞后摔死",
-      "onboard_time": 1705380392,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 750286,
       "num": 750286,
       "word": "黄景瑜以为抽到了古董",
@@ -937,6 +937,14 @@
       "onboard_time": 1705315049,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 727165,
+      "num": 727165,
+      "word": "辛芷蕾 今年我就是个笑话",
+      "onboard_time": 1705382552,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 726159,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1705370191,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 691901,
+      "num": 289010,
+      "word": "儿子谎称睾丸破裂骗摆摊父亲30万",
+      "onboard_time": 1705382552,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 690915,
@@ -1531,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531043,
+      "num": 531043,
+      "word": "易烊千玺写龙",
+      "onboard_time": 1705381593,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530406,
       "num": 451998,
       "word": "刘浩存 吾家有女初长成",
@@ -1545,14 +1569,6 @@
       "onboard_time": 1705218931,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 525674,
-      "num": 525674,
-      "word": "易烊千玺写龙",
-      "onboard_time": 1705381593,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 525583,
@@ -1731,6 +1747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 467478,
+      "num": 467478,
+      "word": "中央大街的铁柱子都被包起来了",
+      "onboard_time": 1705379913,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467010,
       "num": 467010,
       "word": "国足0比0塔吉克斯坦",
@@ -1744,6 +1768,14 @@
       "word": "花花一天被粉丝盘包浆",
       "onboard_time": 1705325791,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465015,
+      "num": 294597,
+      "word": "网红用饮料做尿检后当医生面喝下",
+      "onboard_time": 1705381353,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1777,6 +1809,14 @@
       "onboard_time": 1705319250,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462045,
+      "num": 462045,
+      "word": "蜂鸟删博",
+      "onboard_time": 1705381113,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 460885,
@@ -1979,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 412473,
+      "num": 412473,
+      "word": "田曦薇抽到十个勤天送的面粉",
+      "onboard_time": 1705381953,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 411071,
       "num": 293060,
       "word": "周也给每对CP一个家",
@@ -2001,14 +2049,6 @@
       "onboard_time": 1705307010,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 403522,
-      "num": 403522,
-      "word": "中央大街的铁柱子都被包起来了",
-      "onboard_time": 1705379913,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 402155,
@@ -2080,6 +2120,14 @@
       "word": "官方回应文化墙被吐槽像灵堂",
       "onboard_time": 1705269135,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389912,
+      "num": 389912,
+      "word": "俞敏洪建议一周放假两天半到三天",
+      "onboard_time": 1705381890,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2169,14 +2217,6 @@
       "onboard_time": 1705361665,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 373840,
-      "num": 294597,
-      "word": "网红用饮料做尿检后当医生面喝下",
-      "onboard_time": 1705381353,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 373479,
@@ -2603,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291755,
+      "num": 291755,
+      "word": "丞磊抽到了张小斐送的刮刮乐",
+      "onboard_time": 1705381293,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290236,
       "num": 290236,
       "word": "一年级就这么难么",
@@ -2617,14 +2665,6 @@
       "onboard_time": 1705331310,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 289627,
-      "num": 289627,
-      "word": "丞磊抽到了张小斐送的刮刮乐",
-      "onboard_time": 1705381293,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 288277,
@@ -2657,14 +2697,6 @@
       "onboard_time": 1705199730,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285170,
-      "num": 285170,
-      "word": "蜂鸟删博",
-      "onboard_time": 1705381113,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 283562,
@@ -3075,16 +3107,8 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 243129,
-      "num": 243129,
-      "word": "田曦薇抽到十个勤天送的面粉",
-      "onboard_time": 1705381953,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 240637,
-      "num": 210589,
+      "num": 236248,
       "word": "江宁婆婆给文旅局长们的建议",
       "onboard_time": 1705381113,
       "rank": 30,
@@ -3499,6 +3523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215201,
+      "num": 215201,
+      "word": "秦岚辛芷蕾小学生吵架",
+      "onboard_time": 1705382194,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214951,
       "num": 214951,
       "word": "专家回应多地天空现不明飞行物",
@@ -3569,6 +3601,14 @@
       "onboard_time": 1705207110,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210747,
+      "num": 210747,
+      "word": "专家喊话A股被严重低估",
+      "onboard_time": 1705381353,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 210406,
@@ -3675,6 +3715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 205799,
+      "num": 205799,
+      "word": "恋与深空浴巾好白",
+      "onboard_time": 1705382370,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205798,
       "num": 205798,
       "word": "五福临门",
@@ -3745,6 +3793,14 @@
       "onboard_time": 1705377933,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203823,
+      "num": 203823,
+      "word": "苹果夺2023年全球智能手机市场第一",
+      "onboard_time": 1705382790,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 202687,
@@ -3899,14 +3955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192913,
-      "num": 192913,
-      "word": "专家喊话A股被严重低估",
-      "onboard_time": 1705381353,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 191746,
       "num": 191746,
       "word": "小金毛一不小心吃上了自助餐",
@@ -4027,14 +4075,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 189246,
-      "num": 189246,
-      "word": "俞敏洪建议一周放假两天半到三天",
-      "onboard_time": 1705381890,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189050,
       "num": 189050,
       "word": "2023微博之夜战报",
@@ -4081,6 +4121,14 @@
       "onboard_time": 1705332390,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187541,
+      "num": 187541,
+      "word": "虞书欣油画少女仿妆",
+      "onboard_time": 1705381953,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 187070,
@@ -4603,6 +4651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168575,
+      "num": 168575,
+      "word": "你喝过蜜雪冰城瓶装水吗",
+      "onboard_time": 1705382312,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 168498,
       "num": 168498,
       "word": "TTG用魔法打败魔法",
@@ -4793,14 +4849,6 @@
       "onboard_time": 1705161036,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159150,
-      "num": 159150,
-      "word": "虞书欣油画少女仿妆",
-      "onboard_time": 1705381953,
-      "rank": 40,
-      "category": "美妆"
     },
     {
       "raw_hot": 158997,
@@ -5185,14 +5233,6 @@
       "onboard_time": 1705232609,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 142562,
-      "num": 142562,
-      "word": "秦岚辛芷蕾小学生吵架",
-      "onboard_time": 1705382194,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 142002,
@@ -6419,6 +6459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70086,
+      "num": 159456,
+      "word": "老乡鸡的鸡丢了",
+      "onboard_time": 1705381232,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68359,
       "num": 68359,
       "word": "自动扶梯的第二块踏板真的会吃人",
@@ -6640,14 +6688,6 @@
       "word": "河南人间烟火气",
       "onboard_time": 1705323690,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45703,
-      "num": 159456,
-      "word": "老乡鸡的鸡丢了",
-      "onboard_time": 1705381232,
-      "rank": 39,
       "category": "社会新闻"
     },
     {

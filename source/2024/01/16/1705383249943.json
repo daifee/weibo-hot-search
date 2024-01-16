@@ -1,0 +1,410 @@
+{
+  "runTime": 1705383249943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1561457,
+        "num": 1561457,
+        "word": "乐华股价暴跌近80%",
+        "onboard_time": 1705378410,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1228167,
+        "num": 1228167,
+        "word": "女子酒店产子后遗弃被判故意杀人罪",
+        "onboard_time": 1705378713,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58386,
+        "num": 1149051,
+        "word": "总台驻瑙鲁亚伦报道点成立",
+        "onboard_time": 1705377689,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107629,
+        "num": 1107629,
+        "word": "不烫不死心 烫了想死的心",
+        "onboard_time": 1705375769,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 950157,
+        "num": 950157,
+        "word": "男子梦到家中有黄金挖40米深洞后摔死",
+        "onboard_time": 1705380392,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727165,
+        "num": 727165,
+        "word": "辛芷蕾 今年我就是个笑话",
+        "onboard_time": 1705382552,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 552354,
+        "num": 552354,
+        "word": "张雪峰让员工过年别给孩子红包",
+        "onboard_time": 1705376910,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531043,
+        "num": 531043,
+        "word": "易烊千玺写龙",
+        "onboard_time": 1705381593,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467478,
+        "num": 467478,
+        "word": "中央大街的铁柱子都被包起来了",
+        "onboard_time": 1705379913,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462045,
+        "num": 462045,
+        "word": "蜂鸟删博",
+        "onboard_time": 1705381113,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 461764,
+        "num": 461764,
+        "word": "钢琴销量断崖式下滑",
+        "onboard_time": 1705371449,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425789,
+        "num": 425789,
+        "word": "研究生为救人耽误考试",
+        "onboard_time": 1705368809,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412473,
+        "num": 412473,
+        "word": "田曦薇抽到十个勤天送的面粉",
+        "onboard_time": 1705381953,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389912,
+        "num": 389912,
+        "word": "俞敏洪建议一周放假两天半到三天",
+        "onboard_time": 1705381890,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347403,
+        "num": 347403,
+        "word": "花花和萌兰见面了",
+        "onboard_time": 1705368570,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444903,
+        "num": 342336,
+        "word": "网友开始自制欢宜香了",
+        "onboard_time": 1705360701,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323621,
+        "num": 323621,
+        "word": "白鹿抽到了许佳琪织的围巾",
+        "onboard_time": 1705377570,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322374,
+        "num": 322374,
+        "word": "女子与小伙裸聊后发截图命令对方网贷",
+        "onboard_time": 1705361723,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301871,
+        "num": 301871,
+        "word": "经期5个表现说明子宫很健康",
+        "onboard_time": 1705325251,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 291755,
+        "num": 291755,
+        "word": "丞磊抽到了张小斐送的刮刮乐",
+        "onboard_time": 1705381293,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 691901,
+        "num": 289010,
+        "word": "儿子谎称睾丸破裂骗摆摊父亲30万",
+        "onboard_time": 1705382552,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465015,
+        "num": 287887,
+        "word": "网红用饮料做尿检后当医生面喝下",
+        "onboard_time": 1705381353,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321361,
+        "num": 287347,
+        "word": "久咳不愈竟因马桶下面的黑色霉菌",
+        "onboard_time": 1705379072,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285527,
+        "num": 285527,
+        "word": "游本昌为了好剧本卖房",
+        "onboard_time": 1705366711,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251012,
+        "num": 251012,
+        "word": "A股",
+        "onboard_time": 1705374088,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242812,
+        "num": 242812,
+        "word": "朝鲜废除祖国和平统一委员会",
+        "onboard_time": 1705361723,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 236248,
+        "num": 236248,
+        "word": "江宁婆婆给文旅局长们的建议",
+        "onboard_time": 1705381113,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 228468,
+        "num": 228468,
+        "word": "洗个澡吹个毛还emo上了",
+        "onboard_time": 1705373488,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218073,
+        "num": 218073,
+        "word": "伊朗向伊拉克和叙利亚境内目标发射导弹",
+        "onboard_time": 1705377031,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 216124,
+        "num": 216124,
+        "word": "蜜雪冰城回应放弃瓶装水业务",
+        "onboard_time": 1705368570,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 215461,
+        "num": 215461,
+        "word": "刘浩存 吾家有女初长成",
+        "onboard_time": 1705369409,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215201,
+        "num": 215201,
+        "word": "秦岚辛芷蕾小学生吵架",
+        "onboard_time": 1705382194,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210747,
+        "num": 210747,
+        "word": "专家喊话A股被严重低估",
+        "onboard_time": 1705381353,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205799,
+        "num": 205799,
+        "word": "恋与深空浴巾好白",
+        "onboard_time": 1705382370,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203823,
+        "num": 203823,
+        "word": "苹果夺2023年全球智能手机市场第一",
+        "onboard_time": 1705382790,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192938,
+        "num": 192938,
+        "word": "彭昱畅送的礼物是胸针",
+        "onboard_time": 1705368029,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187541,
+        "num": 187541,
+        "word": "虞书欣油画少女仿妆",
+        "onboard_time": 1705381953,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 168575,
+        "num": 168575,
+        "word": "你喝过蜜雪冰城瓶装水吗",
+        "onboard_time": 1705382312,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160626,
+        "num": 160626,
+        "word": "当我三岁的女儿第一次去纽约",
+        "onboard_time": 1705380931,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 70086,
+        "num": 159423,
+        "word": "老乡鸡的鸡丢了",
+        "onboard_time": 1705381232,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159026,
+        "num": 159026,
+        "word": "王者败方激励新机制探讨",
+        "onboard_time": 1705381053,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154331,
+        "num": 154331,
+        "word": "公考雷达崩了",
+        "onboard_time": 1705380513,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152854,
+        "num": 152854,
+        "word": "韩剧请和我的老公结婚",
+        "onboard_time": 1705365512,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145100,
+        "num": 145100,
+        "word": "大侦探9演唱会运镜宣传片",
+        "onboard_time": 1705379612,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142022,
+        "num": 142022,
+        "word": "光与夜之恋生日卡",
+        "onboard_time": 1705380214,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135256,
+        "num": 135256,
+        "word": "APP未经同意跳转广告涉嫌违法",
+        "onboard_time": 1705369829,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134032,
+        "num": 134032,
+        "word": "俞敏洪回应天权提前复出",
+        "onboard_time": 1705373369,
+        "rank": 46,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 133005,
+        "num": 133005,
+        "word": "梅西因第一顺位票数多当选",
+        "onboard_time": 1705371690,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132567,
+        "num": 132567,
+        "word": "Nuguri说自己不会复出",
+        "onboard_time": 1705377872,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126746,
+        "num": 126746,
+        "word": "伊朗空袭摧毁以色列间谍中心",
+        "onboard_time": 1705378170,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持稳中求进以进促稳先立后破#"
+    }
+  }
+}
