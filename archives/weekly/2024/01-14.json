@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705401440681,
+  "endTime": 1705403726442,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -163,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1766864,
+      "num": 1766864,
+      "word": "周一围朱丹电梯吻",
+      "onboard_time": 1705400073,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1762300,
       "num": 995715,
       "word": "祝绪丹 女二",
@@ -219,19 +227,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1588054,
+      "num": 1588054,
+      "word": "金莎和男友 一九分成",
+      "onboard_time": 1705401091,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1541104,
       "num": 1541104,
       "word": "周一围从朱丹口误后停更微博",
       "onboard_time": 1705397610,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1539000,
-      "num": 634384,
-      "word": "周一围朱丹电梯吻",
-      "onboard_time": 1705400073,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -651,20 +659,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1007060,
+      "num": 1007060,
+      "word": "香港国泰航空客机与大韩航空客机在日本北海道机场相撞",
+      "onboard_time": 1705399833,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1004123,
       "num": 1004123,
       "word": "胡歌白敬亭微信加上了吗",
       "onboard_time": 1705310791,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 983354,
-      "num": 983354,
-      "word": "香港国泰航空客机与大韩航空客机在日本北海道机场相撞",
-      "onboard_time": 1705399833,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 980335,
@@ -1001,6 +1009,14 @@
       "onboard_time": 1705368570,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756170,
+      "num": 532351,
+      "word": "金莎P图",
+      "onboard_time": 1705401992,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 755869,
@@ -1747,6 +1763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 528812,
+      "num": 528812,
+      "word": "吴宣仪 你啊你啊",
+      "onboard_time": 1705398448,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 528444,
       "num": 528444,
       "word": "经常睡不好可能是缺乏维生素D",
@@ -1788,7 +1812,7 @@
     },
     {
       "raw_hot": 517387,
-      "num": 1554689,
+      "num": 1624773,
       "word": "小女儿因妈妈一句我的孩子都优秀泪崩",
       "onboard_time": 1705390470,
       "rank": 35,
@@ -2073,14 +2097,6 @@
       "onboard_time": 1705288049,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 447544,
-      "num": 447544,
-      "word": "吴宣仪 你啊你啊",
-      "onboard_time": 1705398448,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 446403,
@@ -2515,6 +2531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364097,
+      "num": 364097,
+      "word": "安心丈夫出轨",
+      "onboard_time": 1705400493,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361296,
       "num": 361296,
       "word": "高海宁获奖佘诗曼在台下擦泪",
@@ -2601,6 +2625,22 @@
       "onboard_time": 1705300346,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342385,
+      "num": 342385,
+      "word": "秀才账号被无限期回收直播权限",
+      "onboard_time": 1705402174,
+      "rank": 19,
+      "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 340740,
+      "num": 340740,
+      "word": "狐妖小红娘王权篇路透",
+      "onboard_time": 1705402174,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 340358,
@@ -2835,14 +2875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311283,
-      "num": 311283,
-      "word": "安心丈夫出轨",
-      "onboard_time": 1705400493,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 310331,
       "num": 310331,
       "word": "光与夜之恋生日卡",
@@ -2921,14 +2953,6 @@
       "onboard_time": 1705399352,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 297803,
-      "num": 297803,
-      "word": "金莎和男友 一九分成",
-      "onboard_time": 1705401091,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 295771,
@@ -3083,6 +3107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284040,
+      "num": 284040,
+      "word": "沈星回兔男郎",
+      "onboard_time": 1705402770,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283562,
       "num": 283562,
       "word": "谭爷爷想问萌兰你还记得我吗",
@@ -3096,6 +3128,14 @@
       "word": "五福临门时间线",
       "onboard_time": 1705303348,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 283075,
+      "num": 283075,
+      "word": "19层",
+      "onboard_time": 1705401030,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -3257,6 +3297,14 @@
       "onboard_time": 1705227573,
       "rank": 46,
       "category": "电竞,作品衍生"
+    },
+    {
+      "raw_hot": 266986,
+      "num": 1282197,
+      "word": "男子打球突发心梗万幸民警医护在场",
+      "onboard_time": 1705401030,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266487,
@@ -3505,6 +3553,14 @@
       "onboard_time": 1705286968,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246737,
+      "num": 246737,
+      "word": "上班两个月领导问我借了15万",
+      "onboard_time": 1705401091,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 246430,
@@ -4051,14 +4107,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 213220,
-      "num": 213220,
-      "word": "19层",
-      "onboard_time": 1705401030,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213191,
       "num": 213191,
       "word": "刘浩存 很高兴又回到微博之夜的舞台",
@@ -4363,12 +4411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200205,
-      "num": 200205,
-      "word": "上班两个月领导问我借了15万",
-      "onboard_time": 1705401091,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 200204,
+      "num": 200204,
+      "word": "元梦之星 广告",
+      "onboard_time": 1705401449,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 198804,
@@ -4499,6 +4547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192599,
+      "num": 192599,
+      "word": "这是年会还是离职员工表演",
+      "onboard_time": 1705401214,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192074,
       "num": 192074,
       "word": "易烊千玺VOGUE花絮",
@@ -4593,6 +4649,14 @@
       "onboard_time": 1705243054,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189916,
+      "num": 189916,
+      "word": "封神 缠绕式成长",
+      "onboard_time": 1705402231,
+      "rank": 36,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 189707,
@@ -4923,6 +4987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181724,
+      "num": 181724,
+      "word": "现在的孩子为什么都不喜欢家里来人",
+      "onboard_time": 1705401152,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181331,
       "num": 181331,
       "word": "iQOO汗流浃背了",
@@ -4945,6 +5017,14 @@
       "onboard_time": 1705308568,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180847,
+      "num": 180847,
+      "word": "雷佳音举贾玲",
+      "onboard_time": 1705403372,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 180667,
@@ -5025,14 +5105,6 @@
       "onboard_time": 1705281509,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 177519,
-      "num": 177519,
-      "word": "现在的孩子为什么都不喜欢家里来人",
-      "onboard_time": 1705401152,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 177346,
@@ -5201,6 +5273,14 @@
       "onboard_time": 1705205669,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172664,
+      "num": 172664,
+      "word": "电视剧你也有今天",
+      "onboard_time": 1705403310,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 172652,
@@ -5515,14 +5595,6 @@
       "category": "作品衍生,综艺"
     },
     {
-      "raw_hot": 160348,
-      "num": 160348,
-      "word": "这是年会还是离职员工表演",
-      "onboard_time": 1705401214,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159695,
       "num": 159695,
       "word": "郑钦文被破发",
@@ -5569,6 +5641,14 @@
       "onboard_time": 1705320391,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158679,
+      "num": 158679,
+      "word": "挂牌",
+      "onboard_time": 1705402053,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 158609,
@@ -5651,6 +5731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155913,
+      "num": 1295589,
+      "word": "山东究竟藏了多少好东西",
+      "onboard_time": 1705400670,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155725,
       "num": 155725,
       "word": "韩国球员危险动作",
@@ -5683,6 +5771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153405,
+      "num": 153405,
+      "word": "是谁发明的过安检脱外套",
+      "onboard_time": 1705401449,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153395,
       "num": 153395,
       "word": "杭州LGD挂牌六人",
@@ -5705,6 +5801,14 @@
       "onboard_time": 1705325670,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152248,
+      "num": 279662,
+      "word": "蛋仔神秘蛋搭ZI",
+      "onboard_time": 1705403011,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 151842,
@@ -5955,14 +6059,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 143085,
-      "num": 1295589,
-      "word": "山东究竟藏了多少好东西",
-      "onboard_time": 1705400670,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143083,
       "num": 143083,
       "word": "六公主镜头下的高清红毯群像",
@@ -6001,6 +6097,14 @@
       "onboard_time": 1705244794,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141472,
+      "num": 141472,
+      "word": "XYG 不挂牌",
+      "onboard_time": 1705402412,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 141377,
@@ -6729,14 +6833,6 @@
       "onboard_time": 1705308210,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 117930,
-      "num": 1002855,
-      "word": "男子打球突发心梗万幸民警医护在场",
-      "onboard_time": 1705401030,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117711,
@@ -7476,10 +7572,18 @@
     },
     {
       "raw_hot": 62808,
-      "num": 1541944,
+      "num": 1599824,
       "word": "天舟七号将为航天员运来龙年盲盒",
       "onboard_time": 1705392569,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62133,
+      "num": 320054,
+      "word": "拼多多版农业大摸底涨知识了",
+      "onboard_time": 1705402593,
+      "rank": 23,
       "category": "社会新闻"
     },
     {

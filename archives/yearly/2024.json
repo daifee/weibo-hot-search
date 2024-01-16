@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705401440681,
+  "endTime": 1705403726442,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1043,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1766864,
+      "num": 1766864,
+      "word": "周一围朱丹电梯吻",
+      "onboard_time": 1705400073,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1762300,
       "num": 995715,
       "word": "祝绪丹 女二",
@@ -1403,6 +1411,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 1588054,
+      "num": 1588054,
+      "word": "金莎和男友 一九分成",
+      "onboard_time": 1705401091,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1586454,
       "num": 1586454,
       "word": "库迪 王一博",
@@ -1505,14 +1521,6 @@
       "onboard_time": 1705032389,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1539000,
-      "num": 634384,
-      "word": "周一围朱丹电梯吻",
-      "onboard_time": 1705400073,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 1537077,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704551376,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1246770,
-      "num": 1246770,
-      "word": "长沙致54死自建房坍塌事故本有机会避免",
-      "onboard_time": 1704779193,
-      "rank": 5,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
