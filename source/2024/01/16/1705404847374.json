@@ -1,0 +1,410 @@
+{
+  "runTime": 1705404847374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1473561,
+        "num": 1473561,
+        "word": "香港国泰航空客机与大韩航空客机在日本北海道机场相撞",
+        "onboard_time": 1705399833,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461452,
+        "num": 1443659,
+        "word": "小女儿因妈妈一句我的孩子都优秀泪崩",
+        "onboard_time": 1705390470,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31677,
+        "num": 1133609,
+        "word": "天舟七号将为航天员运来龙年盲盒",
+        "onboard_time": 1705392569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1631690,
+        "num": 976651,
+        "word": "金莎和男友 一九分成",
+        "onboard_time": 1705401091,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248646,
+        "num": 818170,
+        "word": "男子打球突发心梗万幸民警医护在场",
+        "onboard_time": 1705401030,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755795,
+        "num": 755795,
+        "word": "老人突然离世三十九万元存款难取出",
+        "onboard_time": 1705391970,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153217,
+        "num": 602221,
+        "word": "山东究竟藏了多少好东西",
+        "onboard_time": 1705400670,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591463,
+        "num": 591463,
+        "word": "秀才账号被无限期回收直播权限",
+        "onboard_time": 1705402174,
+        "rank": 7,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 588009,
+        "num": 588009,
+        "word": "吴宣仪 你啊你啊",
+        "onboard_time": 1705398448,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1518904,
+        "num": 548613,
+        "word": "周一围朱丹电梯吻",
+        "onboard_time": 1705400073,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 745994,
+        "num": 533951,
+        "word": "金莎P图",
+        "onboard_time": 1705401992,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77963,
+        "num": 495399,
+        "word": "拼多多版农业大摸底涨知识了",
+        "onboard_time": 1705402593,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467618,
+        "num": 467618,
+        "word": "周震南痛失微博名",
+        "onboard_time": 1705403971,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460897,
+        "num": 460897,
+        "word": "邓紫棋已被前东家蜂鸟音乐注册成商标",
+        "onboard_time": 1705390531,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 844555,
+        "num": 448034,
+        "word": "周一围从朱丹口误后停更微博",
+        "onboard_time": 1705397610,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408089,
+        "num": 408089,
+        "word": "狐妖小红娘王权篇路透",
+        "onboard_time": 1705402174,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397904,
+        "num": 397904,
+        "word": "安心丈夫出轨",
+        "onboard_time": 1705400493,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368475,
+        "num": 368475,
+        "word": "优酷换logo了",
+        "onboard_time": 1705388190,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 367215,
+        "num": 367215,
+        "word": "韩国名宿扬言封杀中国裁判",
+        "onboard_time": 1705398572,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323019,
+        "num": 323019,
+        "word": "退烧后的淄博",
+        "onboard_time": 1705388069,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108794,
+        "num": 318667,
+        "word": "蛋仔神秘蛋搭ZI",
+        "onboard_time": 1705403011,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 530332,
+        "num": 318657,
+        "word": "儿子谎称睾丸破裂骗摆摊父亲30万",
+        "onboard_time": 1705382552,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318641,
+        "num": 318641,
+        "word": "王一博不在乐华股东公示行列",
+        "onboard_time": 1705398752,
+        "rank": 22,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 299562,
+        "num": 299562,
+        "word": "中方建议菲律宾总统多读读书",
+        "onboard_time": 1705394910,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 297531,
+        "num": 297531,
+        "word": "沈星回兔男郎",
+        "onboard_time": 1705402770,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286815,
+        "num": 286815,
+        "word": "19层",
+        "onboard_time": 1705401030,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282443,
+        "num": 282443,
+        "word": "乐华娱乐称公司经营正常",
+        "onboard_time": 1705403791,
+        "rank": 26,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 265337,
+        "num": 265337,
+        "word": "gidle 抄袭争议",
+        "onboard_time": 1705391671,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257954,
+        "num": 257954,
+        "word": "卖壁纸轻松月入10万",
+        "onboard_time": 1705385788,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255635,
+        "num": 255635,
+        "word": "辛芷蕾 今年我就是个笑话",
+        "onboard_time": 1705382552,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250077,
+        "num": 250077,
+        "word": "胡海峰任民政部副部长",
+        "onboard_time": 1705393173,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242964,
+        "num": 242964,
+        "word": "西安的雪下的是馒头片吧",
+        "onboard_time": 1705396474,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225317,
+        "num": 225317,
+        "word": "上班两个月领导问我借了15万",
+        "onboard_time": 1705401091,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209663,
+        "num": 209663,
+        "word": "檀健次乱入王鹤棣采访",
+        "onboard_time": 1705403851,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190396,
+        "num": 190396,
+        "word": "封神 缠绕式成长",
+        "onboard_time": 1705402231,
+        "rank": 34,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 188528,
+        "num": 188528,
+        "word": "电视剧你也有今天",
+        "onboard_time": 1705403310,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182158,
+        "num": 182158,
+        "word": "辛芷蕾 不让我进场我嗷嗷挤",
+        "onboard_time": 1705391551,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178920,
+        "num": 178920,
+        "word": "雷佳音举贾玲",
+        "onboard_time": 1705403372,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175764,
+        "num": 175764,
+        "word": "这是年会还是离职员工表演",
+        "onboard_time": 1705401214,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169388,
+        "num": 169388,
+        "word": "XYG打响KPL转会期哑炮",
+        "onboard_time": 1705404212,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168208,
+        "num": 168208,
+        "word": "南京HERO 辅助",
+        "onboard_time": 1705399352,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164536,
+        "num": 164536,
+        "word": "现在的孩子为什么都不喜欢家里来人",
+        "onboard_time": 1705401152,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157007,
+        "num": 157007,
+        "word": "每个月减重4到8斤相对合理",
+        "onboard_time": 1705395090,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 148523,
+        "num": 148523,
+        "word": "唐嫣虞书欣互关了",
+        "onboard_time": 1705390470,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147317,
+        "num": 147317,
+        "word": "王源专栏的最后一篇是新疆的雪",
+        "onboard_time": 1705404512,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143426,
+        "num": 143426,
+        "word": "元梦之星 广告",
+        "onboard_time": 1705401449,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136346,
+        "num": 136346,
+        "word": "是谁发明的过安检脱外套",
+        "onboard_time": 1705401449,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131322,
+        "num": 131322,
+        "word": "长安汽车董事长怒斥行业广告无底线",
+        "onboard_time": 1705400670,
+        "rank": 47,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 122268,
+        "num": 122268,
+        "word": "KSG 久酷",
+        "onboard_time": 1705393653,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115093,
+        "num": 115093,
+        "word": "6200元一杯天价咖啡店不到三月就闭店",
+        "onboard_time": 1705404811,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程金融工作怎么看怎么干#"
+    }
+  }
+}
