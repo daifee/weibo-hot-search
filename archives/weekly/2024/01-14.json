@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705437268865,
+  "endTime": 1705439770951,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -8315,6 +8315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60579,
+      "num": 41783,
+      "word": "渐冻人蔡磊澄清用药有效",
+      "onboard_time": 1705433414,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60211,
       "num": 60211,
       "word": "陈哲远带瓜子去微博之夜",
@@ -8400,14 +8408,6 @@
       "word": "4年级小学生考前埋头自制小火箭",
       "onboard_time": 1705318351,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54298,
-      "num": 41783,
-      "word": "渐冻人蔡磊澄清用药有效",
-      "onboard_time": 1705433414,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -8747,20 +8747,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 15863,
+      "num": 15423,
+      "word": "买到黄标祖玛珑顾客起疑心",
+      "onboard_time": 1705435033,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15734,
       "num": 15734,
       "word": "代号鸢",
       "onboard_time": 1705345935,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 15423,
-      "num": 15423,
-      "word": "买到黄标祖玛珑顾客起疑心",
-      "onboard_time": 1705435033,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15390,
@@ -8803,6 +8803,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 13125,
+      "num": 13125,
+      "word": "短短几秒编剧震惊了我两次",
+      "onboard_time": 1705437134,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 12253,
+      "num": 12253,
+      "word": "这头发长得颗粒无收烫得五谷丰登",
+      "onboard_time": 1705438693,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 11454,
+      "num": 11454,
+      "word": "老钱风妆容",
+      "onboard_time": 1705436713,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 11447,
       "num": 375990,
       "word": "我们为什么需要卫星通信",
@@ -8819,6 +8843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 10443,
+      "num": 10443,
+      "word": "沈腾 范丞丞学得好才是师徒",
+      "onboard_time": 1705438993,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 10277,
       "num": 10277,
       "word": "一家4口寒夜里帮游客推车",
@@ -8827,28 +8859,12 @@
       "category": "社会正能量,旅游"
     },
     {
-      "raw_hot": 9583,
-      "num": 9583,
-      "word": "老钱风妆容",
-      "onboard_time": 1705436713,
-      "rank": 47,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 9177,
       "num": 9177,
       "word": "青岛男篮战胜广东男篮",
       "onboard_time": 1705436293,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9158,
-      "num": 9158,
-      "word": "短短几秒编剧震惊了我两次",
-      "onboard_time": 1705437134,
-      "rank": 48,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
