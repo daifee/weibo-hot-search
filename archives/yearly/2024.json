@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705376067441,
+  "endTime": 1705378906375,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1704100537,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1792679,
+      "num": 1792679,
+      "word": "不烫不死心 烫了想死的心",
+      "onboard_time": 1705375769,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 1791349,
@@ -2392,14 +2400,6 @@
       "word": "文咏珊礼服 蛇与花交缠",
       "onboard_time": 1705137229,
       "rank": 41,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1230901,
-      "num": 1230901,
-      "word": "胡歌肖战同框",
-      "onboard_time": 1705063831,
-      "rank": 2,
       "category": "作品衍生"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705376067441,
+  "endTime": 1705378906375,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -145,6 +145,14 @@
       "onboard_time": 1705283788,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1792679,
+      "num": 1792679,
+      "word": "不烫不死心 烫了想死的心",
+      "onboard_time": 1705375769,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 1762300,
@@ -363,6 +371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1162294,
+      "num": 1162294,
+      "word": "钢琴销量断崖式下滑",
+      "onboard_time": 1705371449,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1155411,
       "num": 1155411,
       "word": "研究生为救人耽误考试",
@@ -529,14 +545,6 @@
       "onboard_time": 1705319191,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1024485,
-      "num": 1024485,
-      "word": "钢琴销量断崖式下滑",
-      "onboard_time": 1705371449,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1016131,
@@ -809,6 +817,14 @@
       "onboard_time": 1705193311,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 759599,
+      "num": 759599,
+      "word": "张雪峰让员工过年别给孩子红包",
+      "onboard_time": 1705376910,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 759381,
@@ -1123,6 +1139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 646251,
+      "num": 646251,
+      "word": "白鹿抽到了许佳琪织的围巾",
+      "onboard_time": 1705377570,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 644236,
       "num": 644236,
       "word": "韩剧请和我的老公结婚",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1705319610,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 633424,
+      "num": 546314,
+      "word": "A股",
+      "onboard_time": 1705283129,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 629878,
@@ -1217,14 +1249,6 @@
       "onboard_time": 1705287931,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 607681,
-      "num": 436537,
-      "word": "A股",
-      "onboard_time": 1705283129,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 605773,
@@ -1347,6 +1371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 566519,
+      "num": 566519,
+      "word": "乐华股价暴跌近80%",
+      "onboard_time": 1705378410,
+      "rank": 8,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 566361,
       "num": 566361,
       "word": "发年终奖前离职还能拿年终奖吗",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1705366110,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 536707,
+      "num": 536707,
+      "word": "伊朗向伊拉克和叙利亚境内目标发射导弹",
+      "onboard_time": 1705377031,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 536050,
@@ -2179,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359697,
+      "num": 359697,
+      "word": "梅西因第一顺位票数多当选",
+      "onboard_time": 1705371690,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358439,
       "num": 358439,
       "word": "肖战红色开衫毛衣",
@@ -2209,14 +2257,6 @@
       "onboard_time": 1705300346,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340380,
-      "num": 340380,
-      "word": "梅西因第一顺位票数多当选",
-      "onboard_time": 1705371690,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 340358,
@@ -2475,6 +2515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294196,
+      "num": 294196,
+      "word": "公司罚你50 你玩命追公交",
+      "onboard_time": 1705374688,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294115,
       "num": 209893,
       "word": "你还在等五月天假唱风波调查结果吗",
@@ -2657,14 +2705,6 @@
       "onboard_time": 1705296990,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 273626,
-      "num": 202230,
-      "word": "公司罚你50 你玩命追公交",
-      "onboard_time": 1705374688,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 271066,
@@ -3139,6 +3179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 229058,
+      "num": 229058,
+      "word": "Nuguri说自己不会复出",
+      "onboard_time": 1705377872,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228810,
       "num": 228810,
       "word": "微博之夜内场 熟人局",
@@ -3515,6 +3563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206018,
+      "num": 206018,
+      "word": "华为将在2030年实现卫星宽带计划",
+      "onboard_time": 1705375653,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 205798,
       "num": 205798,
       "word": "五福临门",
@@ -3577,6 +3633,14 @@
       "onboard_time": 1705276164,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203883,
+      "num": 203883,
+      "word": "乐华娱乐股价创上市以来新低",
+      "onboard_time": 1705377933,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 202116,
@@ -3689,6 +3753,14 @@
       "onboard_time": 1705195533,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195255,
+      "num": 195255,
+      "word": "伊朗空袭摧毁以色列间谍中心",
+      "onboard_time": 1705378170,
+      "rank": 30,
+      "category": "军事"
     },
     {
       "raw_hot": 195011,
@@ -4011,6 +4083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182825,
+      "num": 182825,
+      "word": "美驻伊拉克领事馆附近发生多起爆炸",
+      "onboard_time": 1705377335,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 182762,
       "num": 182762,
       "word": "黄景瑜是懂陈楚生白茶梗的",
@@ -4307,6 +4387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171311,
+      "num": 171311,
+      "word": "萧敬腾 不是雨神是爱神",
+      "onboard_time": 1705378170,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170912,
       "num": 170912,
       "word": "妹妹 俺老猪今天就听你的了",
@@ -4345,6 +4433,14 @@
       "onboard_time": 1705163973,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169634,
+      "num": 169634,
+      "word": "肖战起诉科技公司侵权",
+      "onboard_time": 1705376732,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 169612,
@@ -4611,6 +4707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156787,
+      "num": 156787,
+      "word": "狐妖小红娘月红篇Q1上线",
+      "onboard_time": 1705373427,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156692,
       "num": 160216,
       "word": "论洛阳三位数的妆造多离谱",
@@ -4673,14 +4777,6 @@
       "onboard_time": 1705316489,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 153352,
-      "num": 153352,
-      "word": "狐妖小红娘月红篇Q1上线",
-      "onboard_time": 1705373427,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 152512,
@@ -4875,14 +4971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143969,
-      "num": 143969,
-      "word": "华为将在2030年实现卫星宽带计划",
-      "onboard_time": 1705375653,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 143893,
       "num": 143893,
       "word": "族谱上烈士无后四个字泪目了",
@@ -5001,6 +5089,14 @@
       "onboard_time": 1705287931,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 140072,
+      "num": 140072,
+      "word": "山东借走了各地文旅宣传口号",
+      "onboard_time": 1705377151,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 139989,
@@ -5187,19 +5283,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135134,
+      "num": 135134,
+      "word": "女子酒店产子后遗弃被判故意杀人罪",
+      "onboard_time": 1705378713,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133951,
       "num": 133951,
       "word": "儿时射的子弹正中你的眉心",
       "onboard_time": 1705228412,
       "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 133614,
-      "num": 133614,
-      "word": "不烫不死心 烫了想死的心",
-      "onboard_time": 1705375769,
-      "rank": 43,
       "category": "幽默"
     },
     {
@@ -5531,6 +5627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119405,
+      "num": 119405,
+      "word": "熊家餐馆横扫艾美奖",
+      "onboard_time": 1705378830,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119351,
       "num": 119351,
       "word": "釜山世乒赛团体赛抽签仪式",
@@ -5593,6 +5697,14 @@
       "onboard_time": 1705240472,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 116213,
+      "num": 116213,
+      "word": "湖北省考公告",
+      "onboard_time": 1705378112,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 115561,
@@ -6027,6 +6139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80468,
+      "num": 403981,
+      "word": "vivo拍出了求婚的笑与泪",
+      "onboard_time": 1705375769,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 80398,
       "num": 80398,
       "word": "谭爷爷的第1支vlog",
@@ -6267,14 +6387,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 55130,
-      "num": 131572,
-      "word": "vivo拍出了求婚的笑与泪",
-      "onboard_time": 1705375769,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 54662,
       "num": 54662,
       "word": "虞书欣黄轩互关",
@@ -6401,6 +6513,14 @@
       "onboard_time": 1705154686,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41796,
+      "num": 1038001,
+      "word": "总台驻瑙鲁亚伦报道点成立",
+      "onboard_time": 1705377689,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41493,
