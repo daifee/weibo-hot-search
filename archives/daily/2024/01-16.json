@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705408453601,
+  "endTime": 1705409400200,
   "band_list": [
     {
       "raw_hot": 2168732,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1176630,
+      "num": 1176630,
+      "word": "防止教师躺平多地探索教师退出机制",
+      "onboard_time": 1705406671,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1162294,
       "num": 1162294,
       "word": "钢琴销量断崖式下滑",
@@ -233,14 +241,6 @@
       "onboard_time": 1705325251,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 841894,
-      "num": 841894,
-      "word": "防止教师躺平多地探索教师退出机制",
-      "onboard_time": 1705406671,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 829921,
@@ -339,6 +339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 648833,
+      "num": 648833,
+      "word": "女子开车起步撞倒外婆致其死亡",
+      "onboard_time": 1705407391,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 646251,
       "num": 646251,
       "word": "白鹿抽到了许佳琪织的围巾",
@@ -387,7 +395,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 601845,
+      "raw_hot": 603536,
       "num": 290720,
       "word": "6200元一杯天价咖啡店不到三月就闭店",
       "onboard_time": 1705404811,
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505915,
+      "num": 505915,
+      "word": "大韩航空发布事故原因",
+      "onboard_time": 1705407450,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505561,
       "num": 505561,
       "word": "卖壁纸轻松月入10万",
@@ -560,6 +576,14 @@
       "word": "辛芷蕾 不让我进场我嗷嗷挤",
       "onboard_time": 1705391551,
       "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 492150,
+      "num": 492150,
+      "word": "井柏然抽到辛芷蕾送的故宫盲盒",
+      "onboard_time": 1705406732,
+      "rank": 8,
       "category": "作品衍生"
     },
     {
@@ -593,14 +617,6 @@
       "onboard_time": 1705389809,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457876,
-      "num": 457876,
-      "word": "井柏然抽到辛芷蕾送的故宫盲盒",
-      "onboard_time": 1705406732,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 419662,
@@ -723,14 +739,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 367914,
-      "num": 367914,
-      "word": "大韩航空发布事故原因",
-      "onboard_time": 1705407450,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364049,
       "num": 364049,
       "word": "比亚迪发布会",
@@ -753,14 +761,6 @@
       "onboard_time": 1705395090,
       "rank": 21,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 342967,
-      "num": 342967,
-      "word": "女子开车起步撞倒外婆致其死亡",
-      "onboard_time": 1705407391,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339050,
@@ -1075,6 +1075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259436,
+      "num": 259436,
+      "word": "女生搬家用保鲜膜裹行李直接带走",
+      "onboard_time": 1705408111,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258984,
       "num": 258984,
       "word": "小猫的猫窝全被拿去当坐垫了",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1705381113,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 240489,
+      "num": 240489,
+      "word": "赵丽颖手语回应听障女孩",
+      "onboard_time": 1705408592,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 239797,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1705328793,
       "rank": 13,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 223880,
+      "num": 223880,
+      "word": "全球第二长寿男子去世",
+      "onboard_time": 1705408832,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221970,
@@ -1521,6 +1545,14 @@
       "onboard_time": 1705393050,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190745,
+      "num": 190745,
+      "word": "徐明浩cover离不开你",
+      "onboard_time": 1705409008,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 190628,
@@ -1835,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168175,
+      "num": 168175,
+      "word": "挣钱真的能带来底气和自信",
+      "onboard_time": 1705405529,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166100,
       "num": 166100,
       "word": "民警3小时调解纠纷女子送6锦旗",
@@ -1865,22 +1905,6 @@
       "onboard_time": 1705400972,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163955,
-      "num": 163955,
-      "word": "女生搬家用保鲜膜裹行李直接带走",
-      "onboard_time": 1705408111,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162308,
-      "num": 162308,
-      "word": "挣钱真的能带来底气和自信",
-      "onboard_time": 1705405529,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 162232,
@@ -1979,11 +2003,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155928,
+      "num": 155928,
+      "word": "李会泽崔然竣challenge",
+      "onboard_time": 1705408890,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155913,
       "num": 1295589,
       "word": "山东究竟藏了多少好东西",
       "onboard_time": 1705400670,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155621,
+      "num": 495399,
+      "word": "拼多多版农业大摸底涨知识了",
+      "onboard_time": 1705402593,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -2251,6 +2291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126517,
+      "num": 126517,
+      "word": "小时候那批被打压式教育的人当爸妈了",
+      "onboard_time": 1705409370,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125658,
       "num": 296482,
       "word": "他们在支付宝是真的想教会我搞钱",
@@ -2280,14 +2328,6 @@
       "word": "一群消防员准备的生日有多惊喜",
       "onboard_time": 1705372409,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123092,
-      "num": 495399,
-      "word": "拼多多版农业大摸底涨知识了",
-      "onboard_time": 1705402593,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -2451,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107410,
+      "num": 156001,
+      "word": "元梦之星直播",
+      "onboard_time": 1705409071,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105793,
       "num": 105793,
       "word": "2024国际乒联第3周排名",
@@ -2513,6 +2561,14 @@
       "onboard_time": 1705304669,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 88553,
+      "num": 1452064,
+      "word": "各地文旅局持续整活儿",
+      "onboard_time": 1705392153,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86793,
@@ -2689,14 +2745,6 @@
       "onboard_time": 1705330649,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 65163,
-      "num": 1452064,
-      "word": "各地文旅局持续整活儿",
-      "onboard_time": 1705392153,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64641,

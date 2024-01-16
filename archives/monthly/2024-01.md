@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 20:34:13
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 20:50:00
 </p>
 </blockquote>
 <p>
@@ -2085,6 +2085,12 @@ A先生说辛芷蕾本人很漂亮（热度：1194844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%B2%E6%AD%A2%E6%95%99%E5%B8%88%E8%BA%BA%E5%B9%B3%E5%A4%9A%E5%9C%B0%E6%8E%A2%E7%B4%A2%E6%95%99%E5%B8%88%E9%80%80%E5%87%BA%E6%9C%BA%E5%88%B6%23" target="weibo">
+防止教师躺平多地探索教师退出机制（热度：1176630）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E8%A3%99%E5%AD%90%E5%9D%8F%E4%BA%86%23" target="weibo">
 林允裙子坏了（热度：1175865）
 </a>
@@ -3665,12 +3671,6 @@ Minji为没吃过刀削面道歉（热度：844358）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%B8%A6%E7%B2%89%E4%B8%9D%E8%B5%B0%E7%BA%A2%E6%AF%AF%23" target="weibo">
 檀健次带粉丝走红毯（热度：842857）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%B2%E6%AD%A2%E6%95%99%E5%B8%88%E8%BA%BA%E5%B9%B3%E5%A4%9A%E5%9C%B0%E6%8E%A2%E7%B4%A2%E6%95%99%E5%B8%88%E9%80%80%E5%87%BA%E6%9C%BA%E5%88%B6%23" target="weibo">
-防止教师躺平多地探索教师退出机制（热度：841894）
 </a>
 </li>
 
@@ -5727,6 +5727,12 @@ GAI 五年后再给王鹤棣续SVIP（热度：690915）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BC%80%E8%BD%A6%E8%B5%B7%E6%AD%A5%E6%92%9E%E5%80%92%E5%A4%96%E5%A9%86%E8%87%B4%E5%85%B6%E6%AD%BB%E4%BA%A1%23" target="weibo">
+女子开车起步撞倒外婆致其死亡（热度：648833）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%99%B4%E6%9C%97%E6%94%BE%E5%BC%83%E9%AB%98%E8%80%83%23" target="weibo">
 江晴朗放弃高考（热度：647514）
 </a>
@@ -6005,12 +6011,6 @@ gidle 抄袭争议（热度：634599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E8%AF%95%E7%82%B9%E5%8F%96%E6%B6%88%E7%BB%A9%E7%82%B9%23" target="weibo">
 北大试点取消绩点（热度：621394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%8B%E6%8C%87%E8%A2%AB%E9%B3%84%E9%BE%9F%E5%92%AC%E4%BD%8F%E7%97%9B%E5%93%AD%E4%B8%80%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%23" target="weibo">
-男子手指被鳄龟咬住痛哭一个多小时（热度：620801）
 </a>
 </li>
 
