@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705367822641,
+  "endTime": 1705369125149,
   "band_list": [
     {
       "raw_hot": 1825028,
@@ -33,6 +33,22 @@
       "onboard_time": 1705325251,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 766585,
+      "num": 766585,
+      "word": "谭爷爷带花花看萌兰",
+      "onboard_time": 1705366891,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 759381,
+      "num": 759381,
+      "word": "游本昌为了好剧本卖房",
+      "onboard_time": 1705366711,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 711422,
@@ -75,14 +91,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 571774,
-      "num": 571774,
-      "word": "游本昌为了好剧本卖房",
-      "onboard_time": 1705366711,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 565424,
       "num": 565424,
       "word": "2架波音飞机在美国芝加哥机场相撞",
@@ -107,16 +115,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 505397,
-      "num": 505397,
-      "word": "谭爷爷带花花看萌兰",
-      "onboard_time": 1705366891,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479778,
-      "num": 479778,
+      "raw_hot": 537057,
+      "num": 537057,
       "word": "肖战一年只休息半个月",
       "onboard_time": 1705366110,
       "rank": 11,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308361,
+      "num": 308361,
+      "word": "小伙成50个鄂伦春老人共享孙子",
+      "onboard_time": 1705367790,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303883,
       "num": 303883,
       "word": "千万不要对抑郁症朋友说",
@@ -227,12 +235,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290195,
+      "num": 290195,
+      "word": "彭昱畅送的礼物是胸针",
+      "onboard_time": 1705368029,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 288277,
       "num": 288277,
       "word": "章若楠眼中的美女是辛芷蕾",
       "onboard_time": 1705363109,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 281831,
+      "num": 281831,
+      "word": "花花和萌兰见面了",
+      "onboard_time": 1705368570,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278136,
+      "num": 278136,
+      "word": "蜜雪冰城回应放弃瓶装水业务",
+      "onboard_time": 1705368570,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 263261,
@@ -291,6 +323,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 217824,
+      "num": 217824,
+      "word": "谭爷爷想问萌兰你还记得我吗",
+      "onboard_time": 1705368388,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216080,
+      "num": 185735,
+      "word": "叔你别开了 我害怕",
+      "onboard_time": 1705367969,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210755,
       "num": 210755,
       "word": "邓为抽到了米卡自制的手机支架",
@@ -299,8 +347,24 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 202086,
-      "num": 202086,
+      "raw_hot": 210406,
+      "num": 210406,
+      "word": "小学真正拉开差距的是这3件事",
+      "onboard_time": 1705367790,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 207194,
+      "num": 207194,
+      "word": "IU金泰亨新歌海报",
+      "onboard_time": 1705368508,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202116,
+      "num": 202116,
       "word": "王鹤棣又戴了两个眼镜",
       "onboard_time": 1705366052,
       "rank": 25,
@@ -321,6 +385,14 @@
       "onboard_time": 1705329151,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188006,
+      "num": 188006,
+      "word": "大熊猫叻叻今天启程回国",
+      "onboard_time": 1705368089,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187739,
@@ -355,6 +427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 173864,
+      "num": 173864,
+      "word": "河南省考公告",
+      "onboard_time": 1705367608,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 172652,
       "num": 172652,
       "word": "当你养了一只牧羊犬但家里没有羊时",
@@ -368,6 +448,14 @@
       "word": "民警3小时调解纠纷女子送6锦旗",
       "onboard_time": 1705367131,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162370,
+      "num": 162370,
+      "word": "研究生为救人耽误考试",
+      "onboard_time": 1705368809,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -395,14 +483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152671,
-      "num": 152671,
-      "word": "小伙成50个鄂伦春老人共享孙子",
-      "onboard_time": 1705367790,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148912,
       "num": 148912,
       "word": "你好种地少年",
@@ -425,14 +505,6 @@
       "onboard_time": 1705359678,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137498,
-      "num": 137498,
-      "word": "河南省考公告",
-      "onboard_time": 1705367608,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 136897,
@@ -473,14 +545,6 @@
       "onboard_time": 1705319971,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 126563,
-      "num": 126563,
-      "word": "小学真正拉开差距的是这3件事",
-      "onboard_time": 1705367790,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 118878,
@@ -545,6 +609,14 @@
       "onboard_time": 1705365931,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 106683,
+      "num": 106683,
+      "word": "一天喝几杯咖啡不会超量",
+      "onboard_time": 1705369110,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 104731,
@@ -780,7 +852,7 @@
     },
     {
       "raw_hot": 54526,
-      "num": 792279,
+      "num": 912412,
       "word": "空军红鹰飞行表演队最新训练大片",
       "onboard_time": 1705324293,
       "rank": 2,

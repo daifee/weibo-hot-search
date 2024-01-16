@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705367822641,
+  "endTime": 1705369125149,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -763,12 +763,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 766585,
+      "num": 766585,
+      "word": "谭爷爷带花花看萌兰",
+      "onboard_time": 1705366891,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 765877,
       "num": 710671,
       "word": "不管什么汪小姐 只管唐嫣喜欢粉色",
       "onboard_time": 1705193311,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 759381,
+      "num": 759381,
+      "word": "游本昌为了好剧本卖房",
+      "onboard_time": 1705366711,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 758652,
@@ -1259,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 571774,
-      "num": 571774,
-      "word": "游本昌为了好剧本卖房",
-      "onboard_time": 1705366711,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 566361,
       "num": 566361,
       "word": "发年终奖前离职还能拿年终奖吗",
@@ -1379,6 +1387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 537057,
+      "num": 537057,
+      "word": "肖战一年只休息半个月",
+      "onboard_time": 1705366110,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536050,
       "num": 536050,
       "word": "奚梦瑶何猷君感情好的原因",
@@ -1433,14 +1449,6 @@
       "onboard_time": 1705200811,
       "rank": 15,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 505397,
-      "num": 505397,
-      "word": "谭爷爷带花花看萌兰",
-      "onboard_time": 1705366891,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 504257,
@@ -1513,14 +1521,6 @@
       "onboard_time": 1705294715,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 479778,
-      "num": 479778,
-      "word": "肖战一年只休息半个月",
-      "onboard_time": 1705366110,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 478136,
@@ -2275,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308361,
+      "num": 308361,
+      "word": "小伙成50个鄂伦春老人共享孙子",
+      "onboard_time": 1705367790,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307091,
       "num": 307091,
       "word": "2023TVB颁奖礼红毯",
@@ -2379,6 +2387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290195,
+      "num": 290195,
+      "word": "彭昱畅送的礼物是胸针",
+      "onboard_time": 1705368029,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 289997,
       "num": 265687,
       "word": "许嵩回复了张靓颖",
@@ -2427,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281831,
+      "num": 281831,
+      "word": "花花和萌兰见面了",
+      "onboard_time": 1705368570,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280782,
       "num": 212719,
       "word": "原神4.3版本",
@@ -2449,6 +2473,14 @@
       "onboard_time": 1705330891,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 278136,
+      "num": 278136,
+      "word": "蜜雪冰城回应放弃瓶装水业务",
+      "onboard_time": 1705368570,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 277929,
@@ -3115,12 +3147,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217824,
+      "num": 217824,
+      "word": "谭爷爷想问萌兰你还记得我吗",
+      "onboard_time": 1705368388,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217543,
       "num": 217543,
       "word": "祈今朝",
       "onboard_time": 1705309169,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216080,
+      "num": 185735,
+      "word": "叔你别开了 我害怕",
+      "onboard_time": 1705367969,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 214951,
@@ -3195,6 +3243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210406,
+      "num": 210406,
+      "word": "小学真正拉开差距的是这3件事",
+      "onboard_time": 1705367790,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 210073,
       "num": 210073,
       "word": "理想L6",
@@ -3249,6 +3305,14 @@
       "onboard_time": 1705154510,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207194,
+      "num": 207194,
+      "word": "IU金泰亨新歌海报",
+      "onboard_time": 1705368508,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 207159,
@@ -3331,20 +3395,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202116,
+      "num": 202116,
+      "word": "王鹤棣又戴了两个眼镜",
+      "onboard_time": 1705366052,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202110,
       "num": 202110,
       "word": "孙颖莎女单进决赛",
       "onboard_time": 1705145503,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202086,
-      "num": 202086,
-      "word": "王鹤棣又戴了两个眼镜",
-      "onboard_time": 1705366052,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 201304,
@@ -3585,6 +3649,14 @@
       "onboard_time": 1705329151,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188006,
+      "num": 188006,
+      "word": "大熊猫叻叻今天启程回国",
+      "onboard_time": 1705368089,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187806,
@@ -3923,6 +3995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 173864,
+      "num": 173864,
+      "word": "河南省考公告",
+      "onboard_time": 1705367608,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 173508,
       "num": 173508,
       "word": "河北文旅摇人了",
@@ -4187,6 +4267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162370,
+      "num": 162370,
+      "word": "研究生为救人耽误考试",
+      "onboard_time": 1705368809,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161930,
       "num": 161930,
       "word": "国考调剂",
@@ -4337,14 +4425,6 @@
       "onboard_time": 1705316489,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152671,
-      "num": 152671,
-      "word": "小伙成50个鄂伦春老人共享孙子",
-      "onboard_time": 1705367790,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152512,
@@ -4747,14 +4827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137498,
-      "num": 137498,
-      "word": "河南省考公告",
-      "onboard_time": 1705367608,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 137089,
       "num": 137089,
       "word": "恋与深空",
@@ -4993,14 +5065,6 @@
       "onboard_time": 1705219590,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 126563,
-      "num": 126563,
-      "word": "小学真正拉开差距的是这3件事",
-      "onboard_time": 1705367790,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 126198,
@@ -5385,6 +5449,14 @@
       "onboard_time": 1705330592,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106683,
+      "num": 106683,
+      "word": "一天喝几杯咖啡不会超量",
+      "onboard_time": 1705369110,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 105993,
@@ -5772,7 +5844,7 @@
     },
     {
       "raw_hot": 67215,
-      "num": 871274,
+      "num": 912412,
       "word": "空军红鹰飞行表演队最新训练大片",
       "onboard_time": 1705324293,
       "rank": 2,
