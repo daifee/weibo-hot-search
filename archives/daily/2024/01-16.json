@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705372934902,
+  "endTime": 1705375206817,
   "band_list": [
     {
       "raw_hot": 1825028,
@@ -17,6 +17,14 @@
       "onboard_time": 1705361723,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1398100,
+      "num": 1398100,
+      "word": "APP未经同意跳转广告涉嫌违法",
+      "onboard_time": 1705369829,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1366274,
@@ -41,6 +49,14 @@
       "onboard_time": 1705363828,
       "rank": 1,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 939441,
+      "num": 939441,
+      "word": "钢琴销量断崖式下滑",
+      "onboard_time": 1705371449,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 842698,
@@ -91,6 +107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 665624,
+      "num": 665624,
+      "word": "俞敏洪回应天权提前复出",
+      "onboard_time": 1705373369,
+      "rank": 5,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 661877,
       "num": 661877,
       "word": "户口簿上再婚能否登记为已婚",
@@ -105,14 +129,6 @@
       "onboard_time": 1705365512,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 614239,
-      "num": 614239,
-      "word": "APP未经同意跳转广告涉嫌违法",
-      "onboard_time": 1705369829,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 592195,
@@ -161,14 +177,6 @@
       "onboard_time": 1705360640,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 542917,
-      "num": 448990,
-      "word": "钢琴销量断崖式下滑",
-      "onboard_time": 1705371449,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 537057,
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337833,
+      "num": 337833,
+      "word": "A股",
+      "onboard_time": 1705374088,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 330270,
       "num": 330270,
       "word": "华晨宇 我祝你幸福而不是强大",
@@ -299,8 +315,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309413,
-      "num": 309413,
+      "raw_hot": 310961,
+      "num": 310961,
       "word": "萌兰也是听着果赖声长大的",
       "onboard_time": 1705371268,
       "rank": 22,
@@ -347,6 +363,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275789,
+      "num": 510831,
+      "word": "喝牛奶闹肚的人有福了",
+      "onboard_time": 1705371509,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 272067,
+      "num": 272067,
+      "word": "梅西因第一顺位票数多当选",
+      "onboard_time": 1705371690,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 266487,
+      "num": 266487,
+      "word": "洗个澡吹个毛还emo上了",
+      "onboard_time": 1705373488,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263261,
       "num": 263261,
       "word": "张凌赫抽到孙阳送的金手串",
@@ -363,22 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256249,
-      "num": 256249,
-      "word": "梅西因第一顺位票数多当选",
-      "onboard_time": 1705371690,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 255864,
-      "num": 510831,
-      "word": "喝牛奶闹肚的人有福了",
-      "onboard_time": 1705371509,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 249302,
       "num": 249302,
       "word": "梅西蝉联世界足球先生",
@@ -387,11 +411,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245897,
+      "num": 245897,
+      "word": "哈佛研究表明打麻将可延长寿命",
+      "onboard_time": 1705373189,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237490,
       "num": 237490,
       "word": "外卖小哥回应3年挣百万质疑",
       "onboard_time": 1705366352,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235662,
+      "num": 235662,
+      "word": "谭爷爷去看萌兰花花在家乖乖吃饭",
+      "onboard_time": 1705374448,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -435,6 +475,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213862,
+      "num": 182679,
+      "word": "公司罚你50 你玩命追公交",
+      "onboard_time": 1705374688,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 212033,
+      "num": 212033,
+      "word": "热辣滚烫雷佳音举贾玲做引体向上",
+      "onboard_time": 1705374568,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210755,
       "num": 210755,
       "word": "邓为抽到了米卡自制的手机支架",
@@ -449,6 +505,14 @@
       "onboard_time": 1705367790,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 210249,
+      "num": 210249,
+      "word": "艾美奖获奖名单",
+      "onboard_time": 1705373731,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207194,
@@ -473,6 +537,14 @@
       "onboard_time": 1705371568,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191648,
+      "num": 191648,
+      "word": "世界之外恋与深空 乙游大战",
+      "onboard_time": 1705372649,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 189250,
@@ -523,6 +595,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180926,
+      "num": 180926,
+      "word": "林高远世界排名升至第5",
+      "onboard_time": 1705373667,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180581,
+      "num": 180581,
+      "word": "谭爷爷带着花花滑冰",
+      "onboard_time": 1705373731,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178277,
       "num": 178277,
       "word": "花花一天被粉丝盘包浆",
@@ -571,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165688,
+      "num": 165688,
+      "word": "小猫的猫窝全被拿去当坐垫了",
+      "onboard_time": 1705375048,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160442,
       "num": 160442,
       "word": "王鹤棣猜GAI送的是银行卡",
@@ -587,6 +683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 157951,
+      "num": 157951,
+      "word": "范志毅回应繁花热播自己成顶流",
+      "onboard_time": 1705374929,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156691,
       "num": 156691,
       "word": "许嵩回复了张靓颖",
@@ -601,6 +705,30 @@
       "onboard_time": 1705372468,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 154013,
+      "num": 154013,
+      "word": "甘孜文旅局长刘洪上场拍变装视频",
+      "onboard_time": 1705374208,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153352,
+      "num": 153352,
+      "word": "狐妖小红娘月红篇Q1上线",
+      "onboard_time": 1705373427,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149255,
+      "num": 149255,
+      "word": "民警帮找回4000元收到年轻人最高评价",
+      "onboard_time": 1705372887,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148912,
@@ -699,12 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120370,
-      "num": 120370,
-      "word": "世界之外恋与深空 乙游大战",
-      "onboard_time": 1705372649,
-      "rank": 43,
-      "category": "游戏"
+      "raw_hot": 123487,
+      "num": 123487,
+      "word": "基金经理称此时不战A股更待何时",
+      "onboard_time": 1705375170,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 118878,
@@ -769,14 +897,6 @@
       "onboard_time": 1705365931,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 106588,
-      "num": 106588,
-      "word": "民警帮找回4000元收到年轻人最高评价",
-      "onboard_time": 1705372887,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105793,
@@ -872,6 +992,14 @@
       "word": "广州W酒店将停业",
       "onboard_time": 1705314088,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77220,
+      "num": 153628,
+      "word": "关于乙流的9个热点问答",
+      "onboard_time": 1705374507,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1065,6 +1193,14 @@
       "onboard_time": 1705340359,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20796,
+      "num": 947630,
+      "word": "任尔兴风作浪中国定能乘风破浪",
+      "onboard_time": 1705374746,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19858,

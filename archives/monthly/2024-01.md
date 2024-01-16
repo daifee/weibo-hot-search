@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 10:42:14
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 11:20:06
 </p>
 </blockquote>
 <p>
@@ -1403,6 +1403,12 @@ iPhone为什么只有P大写（热度：1427162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%90%B4%E9%9C%B2%E5%8F%AF%E9%80%83%E5%88%86%E7%95%8C%E7%BA%BF%23" target="weibo">
 王鹤棣吴露可逃分界线（热度：1402783）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23APP%E6%9C%AA%E7%BB%8F%E5%90%8C%E6%84%8F%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23" target="weibo">
+APP未经同意跳转广告涉嫌违法（热度：1398100）
 </a>
 </li>
 
@@ -3023,6 +3029,12 @@ papi酱 永远不知道同事到底叫什么（热度：951321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%94%A8%E8%91%A3%E5%AE%87%E8%BE%89%E5%AE%8C%E6%88%90%E4%BA%86%E5%8E%BB%E8%91%A3%E5%8C%96%23" target="weibo">
 俞敏洪用董宇辉完成了去董化（热度：940094）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%A2%E7%90%B4%E9%94%80%E9%87%8F%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E6%BB%91%23" target="weibo">
+钢琴销量断崖式下滑（热度：939441）
 </a>
 </li>
 
@@ -5349,6 +5361,12 @@ GAI 五年后再给王鹤棣续SVIP（热度：690915）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%9B%9E%E5%BA%94%E5%A4%A9%E6%9D%83%E6%8F%90%E5%89%8D%E5%A4%8D%E5%87%BA%23" target="weibo">
+俞敏洪回应天权提前复出（热度：665624）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AC%E5%88%B04%E5%B2%81%E5%A5%B3%E5%84%BF%E5%8F%AB%E7%88%B8%E7%88%B8%E4%BB%96%E5%93%AD%E4%BA%86%23" target="weibo">
 第一次听到4岁女儿叫爸爸他哭了（热度：664808）
 </a>
@@ -5913,12 +5931,6 @@ GAI 五年后再给王鹤棣续SVIP（热度：690915）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23APP%E6%9C%AA%E7%BB%8F%E5%90%8C%E6%84%8F%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23" target="weibo">
-APP未经同意跳转广告涉嫌违法（热度：614239）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%92%8Cpapi%E9%85%B1%E7%9A%84%E6%84%BF%E6%9C%9B%E6%98%AF%E4%B8%80%E6%A0%B7%E7%9A%84%23" target="weibo">
 我和papi酱的愿望是一样的（热度：613975）
 </a>
@@ -5999,18 +6011,6 @@ APP未经同意跳转广告涉嫌违法（热度：614239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B3%BD%E5%BE%AE%E5%8D%9A%E6%98%AF%E5%93%AA%E4%B8%AA%23" target="weibo">
 陈泽微博是哪个（热度：609681）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E7%A8%8B%E7%9A%93%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E6%9A%82%E5%81%9C%E5%85%B6%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%B7%A5%E4%BD%9C%23" target="weibo">
-肖程皓发不当言论暂停其主持人工作（热度：609071）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E5%89%A7%E6%92%AD%E5%87%BA%E7%9A%84%E6%97%B6%E5%80%99%E6%9C%80%E5%BF%AB%E4%B9%90%23" target="weibo">
-肖战说剧播出的时候最快乐（热度：608847）
 </a>
 </li>
 

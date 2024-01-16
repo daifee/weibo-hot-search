@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 10:42:14
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 11:20:06
 </p>
 </blockquote>
 <p>
@@ -1407,6 +1407,12 @@ iPhone为什么只有P大写（热度：1427162）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23APP%E6%9C%AA%E7%BB%8F%E5%90%8C%E6%84%8F%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23" target="weibo">
+APP未经同意跳转广告涉嫌违法（热度：1398100）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%90%91%E5%A4%AA%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8B%8D%E4%B8%8B%E4%BC%B0%E5%80%BC800%E4%B8%87%E8%B1%AA%E5%AE%85%23" target="weibo">
 00后向太直播间拍下估值800万豪宅（热度：1397279）
 </a>
@@ -1805,12 +1811,6 @@ A先生 胡歌的脸（热度：1234335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E8%82%96%E6%88%98%E5%90%8C%E6%A1%86%23" target="weibo">
 胡歌肖战同框（热度：1230901）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9C%AA%E6%BB%A119%E5%B2%81%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23" target="weibo">
-女生未满19岁确诊卵巢早衰（热度：1230202）
 </a>
 </li>
 
