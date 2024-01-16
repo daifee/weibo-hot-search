@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705375206817,
+  "endTime": 1705376067441,
   "band_list": [
     {
       "raw_hot": 1825028,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1510146,
+      "num": 1510146,
+      "word": "APP未经同意跳转广告涉嫌违法",
+      "onboard_time": 1705369829,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1427973,
       "num": 557658,
       "word": "朝鲜废除祖国和平统一委员会",
       "onboard_time": 1705361723,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1398100,
-      "num": 1398100,
-      "word": "APP未经同意跳转广告涉嫌违法",
-      "onboard_time": 1705369829,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1366274,
@@ -51,8 +51,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 939441,
-      "num": 939441,
+      "raw_hot": 1024485,
+      "num": 1024485,
       "word": "钢琴销量断崖式下滑",
       "onboard_time": 1705371449,
       "rank": 20,
@@ -129,6 +129,14 @@
       "onboard_time": 1705365512,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 607681,
+      "num": 436537,
+      "word": "A股",
+      "onboard_time": 1705374088,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 592195,
@@ -259,20 +267,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 340380,
+      "num": 340380,
+      "word": "梅西因第一顺位票数多当选",
+      "onboard_time": 1705371690,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339050,
       "num": 339050,
       "word": "周震南父亲公司被强执44万",
       "onboard_time": 1705350014,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337833,
-      "num": 337833,
-      "word": "A股",
-      "onboard_time": 1705374088,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 330270,
@@ -315,8 +323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310961,
-      "num": 310961,
+      "raw_hot": 315100,
+      "num": 315100,
       "word": "萌兰也是听着果赖声长大的",
       "onboard_time": 1705371268,
       "rank": 22,
@@ -371,12 +379,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 272067,
-      "num": 272067,
-      "word": "梅西因第一顺位票数多当选",
-      "onboard_time": 1705371690,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 273626,
+      "num": 202230,
+      "word": "公司罚你50 你玩命追公交",
+      "onboard_time": 1705374688,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 266487,
@@ -393,6 +401,14 @@
       "onboard_time": 1705362324,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258984,
+      "num": 258984,
+      "word": "小猫的猫窝全被拿去当坐垫了",
+      "onboard_time": 1705375048,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 257083,
@@ -417,6 +433,14 @@
       "onboard_time": 1705373189,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239599,
+      "num": 239599,
+      "word": "热辣滚烫雷佳音举贾玲做引体向上",
+      "onboard_time": 1705374568,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 237490,
@@ -451,6 +475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 228515,
+      "num": 228515,
+      "word": "范志毅回应繁花热播自己成顶流",
+      "onboard_time": 1705374929,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226541,
       "num": 226541,
       "word": "浙江一语文老师板书走红",
@@ -467,28 +499,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 221970,
+      "num": 221970,
+      "word": "艾美奖获奖名单",
+      "onboard_time": 1705373731,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216536,
+      "num": 216536,
+      "word": "张艺兴还是对呱呱舞下手了",
+      "onboard_time": 1705375348,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 216080,
       "num": 202435,
       "word": "叔你别开了 我害怕",
       "onboard_time": 1705367969,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213862,
-      "num": 182679,
-      "word": "公司罚你50 你玩命追公交",
-      "onboard_time": 1705374688,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 212033,
-      "num": 212033,
-      "word": "热辣滚烫雷佳音举贾玲做引体向上",
-      "onboard_time": 1705374568,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 210755,
@@ -507,12 +539,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 210249,
-      "num": 210249,
-      "word": "艾美奖获奖名单",
-      "onboard_time": 1705373731,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 209575,
+      "num": 209575,
+      "word": "基金经理称此时不战A股更待何时",
+      "onboard_time": 1705375170,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 207194,
@@ -539,8 +571,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191648,
-      "num": 191648,
+      "raw_hot": 195011,
+      "num": 195011,
       "word": "世界之外恋与深空 乙游大战",
       "onboard_time": 1705372649,
       "rank": 43,
@@ -651,20 +683,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168469,
+      "num": 168469,
+      "word": "甘孜文旅局长刘洪上场拍变装视频",
+      "onboard_time": 1705374208,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166100,
       "num": 166100,
       "word": "民警3小时调解纠纷女子送6锦旗",
       "onboard_time": 1705367131,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165688,
-      "num": 165688,
-      "word": "小猫的猫窝全被拿去当坐垫了",
-      "onboard_time": 1705375048,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 160442,
@@ -683,14 +715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 157951,
-      "num": 157951,
-      "word": "范志毅回应繁花热播自己成顶流",
-      "onboard_time": 1705374929,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156691,
       "num": 156691,
       "word": "许嵩回复了张靓颖",
@@ -707,11 +731,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 154013,
-      "num": 154013,
-      "word": "甘孜文旅局长刘洪上场拍变装视频",
-      "onboard_time": 1705374208,
-      "rank": 38,
+      "raw_hot": 156183,
+      "num": 156183,
+      "word": "民警帮找回4000元收到年轻人最高评价",
+      "onboard_time": 1705372887,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -721,14 +745,6 @@
       "onboard_time": 1705373427,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149255,
-      "num": 149255,
-      "word": "民警帮找回4000元收到年轻人最高评价",
-      "onboard_time": 1705372887,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148912,
@@ -755,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143969,
+      "num": 143969,
+      "word": "华为将在2030年实现卫星宽带计划",
+      "onboard_time": 1705375653,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 143893,
       "num": 143893,
       "word": "族谱上烈士无后四个字泪目了",
@@ -768,6 +792,14 @@
       "word": "吹风机把小狗的嘴吹成TypeC",
       "onboard_time": 1705361965,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 133614,
+      "num": 133614,
+      "word": "不烫不死心 烫了想死的心",
+      "onboard_time": 1705375769,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -827,20 +859,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123487,
-      "num": 123487,
-      "word": "基金经理称此时不战A股更待何时",
-      "onboard_time": 1705375170,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 118878,
       "num": 118878,
       "word": "苹果官网大降价可退差价",
       "onboard_time": 1705316007,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 118621,
+      "num": 118621,
+      "word": "马斯克展示机器人擎天柱叠衣服",
+      "onboard_time": 1705373007,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 117711,
@@ -1139,6 +1171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55130,
+      "num": 131572,
+      "word": "vivo拍出了求婚的笑与泪",
+      "onboard_time": 1705375769,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 54662,
       "num": 54662,
       "word": "虞书欣黄轩互关",
@@ -1171,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 41174,
+      "num": 947630,
+      "word": "任尔兴风作浪中国定能乘风破浪",
+      "onboard_time": 1705374746,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40127,
       "num": 46719,
       "word": "吴宣仪五福临门试戏片段",
@@ -1193,14 +1241,6 @@
       "onboard_time": 1705340359,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 20796,
-      "num": 947630,
-      "word": "任尔兴风作浪中国定能乘风破浪",
-      "onboard_time": 1705374746,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19858,

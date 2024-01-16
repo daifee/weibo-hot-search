@@ -1,0 +1,410 @@
+{
+  "runTime": 1705376067441,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1510146,
+        "num": 1510146,
+        "word": "APP未经同意跳转广告涉嫌违法",
+        "onboard_time": 1705369829,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1024485,
+        "num": 1024485,
+        "word": "钢琴销量断崖式下滑",
+        "onboard_time": 1705371449,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41174,
+        "num": 881674,
+        "word": "任尔兴风作浪中国定能乘风破浪",
+        "onboard_time": 1705374746,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843124,
+        "num": 843124,
+        "word": "蜜雪冰城回应放弃瓶装水业务",
+        "onboard_time": 1705368570,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 721817,
+        "num": 721817,
+        "word": "研究生为救人耽误考试",
+        "onboard_time": 1705368809,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658806,
+        "num": 658806,
+        "word": "游本昌为了好剧本卖房",
+        "onboard_time": 1705366711,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 632050,
+        "num": 632050,
+        "word": "俞敏洪回应天权提前复出",
+        "onboard_time": 1705373369,
+        "rank": 6,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 586393,
+        "num": 586393,
+        "word": "花花和萌兰见面了",
+        "onboard_time": 1705368570,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467443,
+        "num": 467443,
+        "word": "每周吃5个鸡蛋糖尿病高血压风险降低",
+        "onboard_time": 1705363828,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 444495,
+        "num": 444495,
+        "word": "女子与小伙裸聊后发截图命令对方网贷",
+        "onboard_time": 1705361723,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607681,
+        "num": 436537,
+        "word": "A股",
+        "onboard_time": 1705374088,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 402477,
+        "num": 402477,
+        "word": "朝鲜废除祖国和平统一委员会",
+        "onboard_time": 1705361723,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 397726,
+        "num": 397726,
+        "word": "美国2024年总统选举首场初选开始",
+        "onboard_time": 1705370191,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 386504,
+        "num": 386504,
+        "word": "刘浩存 吾家有女初长成",
+        "onboard_time": 1705369409,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 340380,
+        "num": 340380,
+        "word": "梅西因第一顺位票数多当选",
+        "onboard_time": 1705371690,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479573,
+        "num": 335707,
+        "word": "网友开始自制欢宜香了",
+        "onboard_time": 1705360701,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327426,
+        "num": 327426,
+        "word": "经期5个表现说明子宫很健康",
+        "onboard_time": 1705325251,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 315100,
+        "num": 315100,
+        "word": "萌兰也是听着果赖声长大的",
+        "onboard_time": 1705371268,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303179,
+        "num": 303179,
+        "word": "彭昱畅送的礼物是胸针",
+        "onboard_time": 1705368029,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262761,
+        "num": 262761,
+        "word": "韩剧请和我的老公结婚",
+        "onboard_time": 1705365512,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258984,
+        "num": 258984,
+        "word": "小猫的猫窝全被拿去当坐垫了",
+        "onboard_time": 1705375048,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258588,
+        "num": 258588,
+        "word": "洗个澡吹个毛还emo上了",
+        "onboard_time": 1705373488,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239599,
+        "num": 239599,
+        "word": "热辣滚烫雷佳音举贾玲做引体向上",
+        "onboard_time": 1705374568,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229359,
+        "num": 229359,
+        "word": "一天喝几杯咖啡不会超量",
+        "onboard_time": 1705369110,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228515,
+        "num": 228515,
+        "word": "范志毅回应繁花热播自己成顶流",
+        "onboard_time": 1705374929,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227350,
+        "num": 227350,
+        "word": "哈佛研究表明打麻将可延长寿命",
+        "onboard_time": 1705373189,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221970,
+        "num": 221970,
+        "word": "艾美奖获奖名单",
+        "onboard_time": 1705373731,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216536,
+        "num": 216536,
+        "word": "张艺兴还是对呱呱舞下手了",
+        "onboard_time": 1705375348,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209575,
+        "num": 209575,
+        "word": "基金经理称此时不战A股更待何时",
+        "onboard_time": 1705375170,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203731,
+        "num": 203731,
+        "word": "喝牛奶闹肚的人有福了",
+        "onboard_time": 1705371509,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 273626,
+        "num": 202230,
+        "word": "公司罚你50 你玩命追公交",
+        "onboard_time": 1705374688,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197312,
+        "num": 197312,
+        "word": "谭爷爷去看萌兰花花在家乖乖吃饭",
+        "onboard_time": 1705374448,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195011,
+        "num": 195011,
+        "word": "世界之外恋与深空 乙游大战",
+        "onboard_time": 1705372649,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170931,
+        "num": 170931,
+        "word": "勇士这也能输",
+        "onboard_time": 1705370429,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168469,
+        "num": 168469,
+        "word": "甘孜文旅局长刘洪上场拍变装视频",
+        "onboard_time": 1705374208,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166314,
+        "num": 166314,
+        "word": "林高远世界排名升至第5",
+        "onboard_time": 1705373667,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160111,
+        "num": 160111,
+        "word": "安心丈夫拒绝同房",
+        "onboard_time": 1705331611,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156183,
+        "num": 156183,
+        "word": "民警帮找回4000元收到年轻人最高评价",
+        "onboard_time": 1705372887,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150804,
+        "num": 150804,
+        "word": "特朗普赢得艾奥瓦州初选",
+        "onboard_time": 1705370191,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148469,
+        "num": 148469,
+        "word": "狐妖小红娘月红篇Q1上线",
+        "onboard_time": 1705373427,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143969,
+        "num": 143969,
+        "word": "华为将在2030年实现卫星宽带计划",
+        "onboard_time": 1705375653,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138959,
+        "num": 138959,
+        "word": "年轻人入行装修月入4万",
+        "onboard_time": 1705363886,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134991,
+        "num": 134991,
+        "word": "谭爷爷想问萌兰你还记得我吗",
+        "onboard_time": 1705368388,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133614,
+        "num": 133614,
+        "word": "不烫不死心 烫了想死的心",
+        "onboard_time": 1705375769,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132175,
+        "num": 132175,
+        "word": "谭爷爷带着花花滑冰",
+        "onboard_time": 1705373731,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55130,
+        "num": 131572,
+        "word": "vivo拍出了求婚的笑与泪",
+        "onboard_time": 1705375769,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131301,
+        "num": 131301,
+        "word": "叔你别开了 我害怕",
+        "onboard_time": 1705367969,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127561,
+        "num": 127561,
+        "word": "章若楠眼中的美女是辛芷蕾",
+        "onboard_time": 1705363109,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120652,
+        "num": 120652,
+        "word": "张雪峰公司再成立2家科技公司",
+        "onboard_time": 1705372468,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118621,
+        "num": 118621,
+        "word": "马斯克展示机器人擎天柱叠衣服",
+        "onboard_time": 1705373007,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

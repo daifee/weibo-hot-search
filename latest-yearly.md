@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 11:20:06
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 11:34:27
 </p>
 </blockquote>
 <p>
@@ -1137,6 +1137,12 @@ A先生跳海（热度：1721660）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23APP%E6%9C%AA%E7%BB%8F%E5%90%8C%E6%84%8F%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23" target="weibo">
+APP未经同意跳转广告涉嫌违法（热度：1510146）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B110%E4%B8%87%E4%B8%AD2.2%E4%BA%BF%E5%BD%A9%E7%A5%A8%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95%23" target="weibo">
 花10万中2.2亿彩票事件调查进展（热度：1503665）
 </a>
@@ -1403,12 +1409,6 @@ iPhone为什么只有P大写（热度：1427162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%90%B4%E9%9C%B2%E5%8F%AF%E9%80%83%E5%88%86%E7%95%8C%E7%BA%BF%23" target="weibo">
 王鹤棣吴露可逃分界线（热度：1402783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23APP%E6%9C%AA%E7%BB%8F%E5%90%8C%E6%84%8F%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23" target="weibo">
-APP未经同意跳转广告涉嫌违法（热度：1398100）
 </a>
 </li>
 
