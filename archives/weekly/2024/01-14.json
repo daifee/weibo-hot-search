@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705383249943,
+  "endTime": 1705386221124,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -219,6 +219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1446718,
+      "num": 1446718,
+      "word": "辛芷蕾 今年我就是个笑话",
+      "onboard_time": 1705382552,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1438103,
       "num": 607652,
       "word": "经期5个表现说明子宫很健康",
@@ -329,6 +337,14 @@
       "onboard_time": 1705242515,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1257582,
+      "num": 289010,
+      "word": "儿子谎称睾丸破裂骗摆摊父亲30万",
+      "onboard_time": 1705382552,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1248833,
@@ -723,6 +739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 852029,
+      "num": 852029,
+      "word": "俞敏洪建议一周放假两天半到三天",
+      "onboard_time": 1705381890,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850688,
       "num": 850688,
       "word": "刘涛 胡歌活到现在真是奇迹",
@@ -745,6 +769,14 @@
       "onboard_time": 1705299569,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 829921,
+      "num": 829921,
+      "word": "难哄阵容",
+      "onboard_time": 1705383450,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 822393,
@@ -939,14 +971,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 727165,
-      "num": 727165,
-      "word": "辛芷蕾 今年我就是个笑话",
-      "onboard_time": 1705382552,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 726159,
       "num": 726159,
       "word": "花花和谭爷爷上微博之夜",
@@ -1033,14 +1057,6 @@
       "onboard_time": 1705370191,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 691901,
-      "num": 289010,
-      "word": "儿子谎称睾丸破裂骗摆摊父亲30万",
-      "onboard_time": 1705382552,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 690915,
@@ -1401,6 +1417,14 @@
       "onboard_time": 1705191809,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578260,
+      "num": 578260,
+      "word": "蜂鸟删博",
+      "onboard_time": 1705381113,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 568451,
@@ -1811,12 +1835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462045,
-      "num": 462045,
-      "word": "蜂鸟删博",
-      "onboard_time": 1705381113,
-      "rank": 23,
-      "category": "互联网"
+      "raw_hot": 460989,
+      "num": 460989,
+      "word": "肉夹馍店因生意太好被举报关店",
+      "onboard_time": 1705383690,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460885,
@@ -2123,12 +2147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389912,
-      "num": 389912,
-      "word": "俞敏洪建议一周放假两天半到三天",
-      "onboard_time": 1705381890,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 391213,
+      "num": 391213,
+      "word": "惠英红抽中杨紫拼的乐高",
+      "onboard_time": 1705385788,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 389679,
@@ -2443,12 +2467,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 323203,
+      "num": 323203,
+      "word": "九尾 LGD",
+      "onboard_time": 1705383450,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 320836,
+      "num": 320836,
+      "word": "阿勒泰多处雪崩上千人滞留",
+      "onboard_time": 1705384111,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319598,
       "num": 241224,
       "word": "微博之夜翻牌 身高测量器",
       "onboard_time": 1705201111,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 319185,
+      "num": 319185,
+      "word": "苹果夺2023年全球智能手机市场第一",
+      "onboard_time": 1705382790,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 318553,
@@ -2611,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294289,
+      "num": 294289,
+      "word": "东方甄选主播天权提前复出引争议",
+      "onboard_time": 1705384651,
+      "rank": 17,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 294196,
       "num": 294196,
       "word": "公司罚你50 你玩命追公交",
@@ -2667,6 +2723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 288309,
+      "num": 263650,
+      "word": "恋与深空洗澡卡",
+      "onboard_time": 1705384952,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 288277,
       "num": 288277,
       "word": "章若楠眼中的美女是辛芷蕾",
@@ -2681,6 +2745,14 @@
       "onboard_time": 1705157511,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287820,
+      "num": 287820,
+      "word": "专家喊话A股被严重低估",
+      "onboard_time": 1705381353,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 287469,
@@ -2713,6 +2785,14 @@
       "onboard_time": 1705303348,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282067,
+      "num": 282067,
+      "word": "微博之夜明星互送礼物名单",
+      "onboard_time": 1705385429,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 280782,
@@ -3507,6 +3587,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217095,
+      "num": 217095,
+      "word": "辛芷蕾说王安宇变油腻了",
+      "onboard_time": 1705384051,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 216637,
+      "num": 186433,
+      "word": "卖壁纸轻松月入10万",
+      "onboard_time": 1705385788,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216536,
       "num": 216536,
       "word": "张艺兴还是对呱呱舞下手了",
@@ -3603,14 +3699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210747,
-      "num": 210747,
-      "word": "专家喊话A股被严重低估",
-      "onboard_time": 1705381353,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 210406,
       "num": 210406,
       "word": "小学真正拉开差距的是这3件事",
@@ -3641,6 +3729,14 @@
       "onboard_time": 1705375170,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 208914,
+      "num": 186013,
+      "word": "韩国主帅拒绝跟马宁握手",
+      "onboard_time": 1705385551,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 208639,
@@ -3763,6 +3859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204637,
+      "num": 204637,
+      "word": "乐华曾近六成营收来自王一博",
+      "onboard_time": 1705384411,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204206,
       "num": 204206,
       "word": "我姓石原创作者麦克风都抡冒烟了",
@@ -3793,14 +3897,6 @@
       "onboard_time": 1705377933,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203823,
-      "num": 203823,
-      "word": "苹果夺2023年全球智能手机市场第一",
-      "onboard_time": 1705382790,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 202687,
@@ -3939,6 +4035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194394,
+      "num": 194394,
+      "word": "风骚律师 53提0中",
+      "onboard_time": 1705385488,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194192,
       "num": 194192,
       "word": "董思成五福临门妆造",
@@ -4033,6 +4137,14 @@
       "onboard_time": 1705243054,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189950,
+      "num": 183192,
+      "word": "一载中国游客大巴在泰国翻车",
+      "onboard_time": 1705385908,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189707,
@@ -4241,6 +4353,14 @@
       "onboard_time": 1705287269,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183573,
+      "num": 183573,
+      "word": "湖人战胜雷霆",
+      "onboard_time": 1705384952,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 183132,
@@ -5315,6 +5435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139554,
+      "num": 139554,
+      "word": "凹进去这块地方能做什么",
+      "onboard_time": 1705383991,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139222,
       "num": 143427,
       "word": "Meiko和Deft连撞六局",
@@ -5393,6 +5521,14 @@
       "onboard_time": 1705280969,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137776,
+      "num": 137776,
+      "word": "尔滨开始为下个冬天存冰了",
+      "onboard_time": 1705384351,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137697,
@@ -5931,6 +6067,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 115331,
+      "num": 115331,
+      "word": "澳网",
+      "onboard_time": 1705386210,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114992,
       "num": 114992,
       "word": "国外一网友分享的黑暗的家庭故事",
@@ -6025,6 +6169,14 @@
       "onboard_time": 1705303528,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 109016,
+      "num": 116708,
+      "word": "滞留禾木村游客现状",
+      "onboard_time": 1705385608,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108693,
