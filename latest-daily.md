@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/17 00:23:57 ~ 2024/01/17 05:16:10
+本榜单时间：2024/01/17 00:23:57 ~ 2024/01/17 05:34:19
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ gidle 抄袭争议（热度：73965）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A4%B4%E5%8F%91%E9%95%BF%E5%BE%97%E9%A2%97%E7%B2%92%E6%97%A0%E6%94%B6%E7%83%AB%E5%BE%97%E4%BA%94%E8%B0%B7%E4%B8%B0%E7%99%BB%23" target="weibo">
+这头发长得颗粒无收烫得五谷丰登（热度：17212）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E5%88%B0%E9%BB%84%E6%A0%87%E7%A5%96%E7%8E%9B%E7%8F%91%E9%A1%BE%E5%AE%A2%E8%B5%B7%E7%96%91%E5%BF%83%23" target="weibo">
 买到黄标祖玛珑顾客起疑心（热度：15863）
 </a>
@@ -387,32 +393,26 @@ gidle 抄袭争议（热度：73965）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E7%9F%AD%E5%87%A0%E7%A7%92%E7%BC%96%E5%89%A7%E9%9C%87%E6%83%8A%E4%BA%86%E6%88%91%E4%B8%A4%E6%AC%A1%23" target="weibo">
+短短几秒编剧震惊了我两次（热度：13772）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%82%E9%B8%9F%E9%9F%B3%E4%B9%90%E7%A7%B0%E6%8B%A5%E6%9C%89%E9%82%93%E7%B4%AB%E6%A3%8B103%E9%A6%96%E6%AD%8C%E7%9A%84%E7%89%88%E6%9D%83%23" target="weibo">
 蜂鸟音乐称拥有邓紫棋103首歌的版权（热度：13503）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E7%9F%AD%E5%87%A0%E7%A7%92%E7%BC%96%E5%89%A7%E9%9C%87%E6%83%8A%E4%BA%86%E6%88%91%E4%B8%A4%E6%AC%A1%23" target="weibo">
-短短几秒编剧震惊了我两次（热度：13125）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A4%B4%E5%8F%91%E9%95%BF%E5%BE%97%E9%A2%97%E7%B2%92%E6%97%A0%E6%94%B6%E7%83%AB%E5%BE%97%E4%BA%94%E8%B0%B7%E4%B8%B0%E7%99%BB%23" target="weibo">
-这头发长得颗粒无收烫得五谷丰登（热度：12253）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%20%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%AD%A6%E5%BE%97%E5%A5%BD%E6%89%8D%E6%98%AF%E5%B8%88%E5%BE%92%23" target="weibo">
+沈腾 范丞丞学得好才是师徒（热度：13059）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E9%92%B1%E9%A3%8E%E5%A6%86%E5%AE%B9%23" target="weibo">
-老钱风妆容（热度：11454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%20%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%AD%A6%E5%BE%97%E5%A5%BD%E6%89%8D%E6%98%AF%E5%B8%88%E5%BE%92%23" target="weibo">
-沈腾 范丞丞学得好才是师徒（热度：10443）
+老钱风妆容（热度：11836）
 </a>
 </li>
 

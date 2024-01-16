@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705439770951,
+  "endTime": 1705440859484,
   "band_list": [
     {
       "raw_hot": 1203088,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 78837,
-      "num": 26156,
+      "num": 35065,
       "word": "特朗普称我要回来了",
       "onboard_time": 1705428858,
       "rank": 45,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 60579,
-      "num": 41783,
+      "num": 43518,
       "word": "渐冻人蔡磊澄清用药有效",
       "onboard_time": 1705433414,
       "rank": 47,
@@ -483,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 17212,
+      "num": 15230,
+      "word": "这头发长得颗粒无收烫得五谷丰登",
+      "onboard_time": 1705438693,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 15863,
       "num": 15423,
       "word": "买到黄标祖玛珑顾客起疑心",
@@ -499,6 +507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 13772,
+      "num": 13772,
+      "word": "短短几秒编剧震惊了我两次",
+      "onboard_time": 1705437134,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 13503,
       "num": 13503,
       "word": "蜂鸟音乐称拥有邓紫棋103首歌的版权",
@@ -507,36 +523,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 13125,
-      "num": 13125,
-      "word": "短短几秒编剧震惊了我两次",
-      "onboard_time": 1705437134,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 12253,
-      "num": 12253,
-      "word": "这头发长得颗粒无收烫得五谷丰登",
-      "onboard_time": 1705438693,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 11454,
-      "num": 11454,
-      "word": "老钱风妆容",
-      "onboard_time": 1705436713,
-      "rank": 47,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 10443,
-      "num": 10443,
+      "raw_hot": 13059,
+      "num": 13059,
       "word": "沈腾 范丞丞学得好才是师徒",
       "onboard_time": 1705438993,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 11836,
+      "num": 11836,
+      "word": "老钱风妆容",
+      "onboard_time": 1705436713,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 9177,
