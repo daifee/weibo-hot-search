@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705369125149,
+  "endTime": 1705372297891,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -299,6 +299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1270369,
+      "num": 1270369,
+      "word": "蜜雪冰城回应放弃瓶装水业务",
+      "onboard_time": 1705368570,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1248833,
       "num": 1248833,
       "word": "马伊琍 果然互联网是有记忆的",
@@ -369,6 +377,14 @@
       "onboard_time": 1705302629,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1146890,
+      "num": 1146890,
+      "word": "研究生为救人耽误考试",
+      "onboard_time": 1705368809,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1141183,
@@ -795,6 +811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 758274,
+      "num": 758274,
+      "word": "花花和萌兰见面了",
+      "onboard_time": 1705368570,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755869,
       "num": 755869,
       "word": "高海宁获TVB最佳女配角",
@@ -937,6 +961,14 @@
       "onboard_time": 1705233507,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 692740,
+      "num": 692740,
+      "word": "美国2024年总统选举首场初选开始",
+      "onboard_time": 1705370191,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 690915,
@@ -1275,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568451,
+      "num": 568451,
+      "word": "特朗普赢得艾奥瓦州初选",
+      "onboard_time": 1705370191,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 566361,
       "num": 566361,
       "word": "发年终奖前离职还能拿年终奖吗",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1705229251,
       "rank": 16,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 522996,
+      "num": 451998,
+      "word": "刘浩存 吾家有女初长成",
+      "onboard_time": 1705369409,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 518694,
@@ -1771,6 +1819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 429578,
+      "num": 429578,
+      "word": "APP未经同意跳转广告涉嫌违法",
+      "onboard_time": 1705369829,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425450,
       "num": 425450,
       "word": "湖北文旅把朱一龙喊来了",
@@ -1907,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392504,
+      "num": 392504,
+      "word": "彭昱畅送的礼物是胸针",
+      "onboard_time": 1705368029,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 392435,
       "num": 392435,
       "word": "官方回应文化墙被吐槽像灵堂",
@@ -2009,6 +2073,14 @@
       "onboard_time": 1705222650,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 372012,
+      "num": 372012,
+      "word": "一天喝几杯咖啡不会超量",
+      "onboard_time": 1705369110,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 369436,
@@ -2203,12 +2275,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 327291,
+      "num": 327291,
+      "word": "勇士这也能输",
+      "onboard_time": 1705370429,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319598,
       "num": 241224,
       "word": "微博之夜翻牌 身高测量器",
       "onboard_time": 1705201111,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 319146,
+      "num": 319146,
+      "word": "钢琴销量断崖式下滑",
+      "onboard_time": 1705371449,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318553,
@@ -2387,14 +2475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 290195,
-      "num": 290195,
-      "word": "彭昱畅送的礼物是胸针",
-      "onboard_time": 1705368029,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 289997,
       "num": 265687,
       "word": "许嵩回复了张靓颖",
@@ -2435,20 +2515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283562,
+      "num": 283562,
+      "word": "谭爷爷想问萌兰你还记得我吗",
+      "onboard_time": 1705368388,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283278,
       "num": 283278,
       "word": "五福临门时间线",
       "onboard_time": 1705303348,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281831,
-      "num": 281831,
-      "word": "花花和萌兰见面了",
-      "onboard_time": 1705368570,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280782,
@@ -2473,14 +2553,6 @@
       "onboard_time": 1705330891,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 278136,
-      "num": 278136,
-      "word": "蜜雪冰城回应放弃瓶装水业务",
-      "onboard_time": 1705368570,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 277929,
@@ -2529,6 +2601,14 @@
       "onboard_time": 1705202254,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 274532,
+      "num": 274532,
+      "word": "萌兰也是听着果赖声长大的",
+      "onboard_time": 1705371268,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274344,
@@ -2675,6 +2755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 257083,
+      "num": 257083,
+      "word": "四川宜宾市3.2级地震",
+      "onboard_time": 1705371268,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256550,
       "num": 256550,
       "word": "肖战第一次剪窗花",
@@ -2705,6 +2793,14 @@
       "onboard_time": 1705244255,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255864,
+      "num": 322897,
+      "word": "喝牛奶闹肚的人有福了",
+      "onboard_time": 1705371509,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 255643,
@@ -3147,14 +3243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217824,
-      "num": 217824,
-      "word": "谭爷爷想问萌兰你还记得我吗",
-      "onboard_time": 1705368388,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217543,
       "num": 217543,
       "word": "祈今朝",
@@ -3164,7 +3252,7 @@
     },
     {
       "raw_hot": 216080,
-      "num": 185735,
+      "num": 191421,
       "word": "叔你别开了 我害怕",
       "onboard_time": 1705367969,
       "rank": 30,
@@ -3427,6 +3515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198840,
+      "num": 198840,
+      "word": "国乒釜山世乒赛团体赛名单",
+      "onboard_time": 1705371568,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198804,
       "num": 198804,
       "word": "十二星座一周运势",
@@ -3473,6 +3569,14 @@
       "onboard_time": 1705314749,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 196998,
+      "num": 196998,
+      "word": "梅西因第一顺位票数多当选",
+      "onboard_time": 1705371690,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 196416,
@@ -4091,6 +4195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170687,
+      "num": 170687,
+      "word": "我爸以为是我去开演唱会",
+      "onboard_time": 1705369887,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170314,
       "num": 170314,
       "word": "她是蔡磊最坚强的后盾",
@@ -4267,14 +4379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162370,
-      "num": 162370,
-      "word": "研究生为救人耽误考试",
-      "onboard_time": 1705368809,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161930,
       "num": 161930,
       "word": "国考调剂",
@@ -4417,6 +4521,14 @@
       "onboard_time": 1705332151,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153585,
+      "num": 153585,
+      "word": "河南省考连续3年扩招",
+      "onboard_time": 1705371568,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 153395,
@@ -5019,6 +5131,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 129389,
+      "num": 129389,
+      "word": "海口警方爆改文旅号",
+      "onboard_time": 1705370310,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127686,
       "num": 125777,
       "word": "一天在backseat里分手几十次",
@@ -5243,6 +5363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118317,
+      "num": 118317,
+      "word": "为什么名单没有陈幸同",
+      "onboard_time": 1705372168,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118257,
       "num": 118257,
       "word": "勇士vs雄鹿",
@@ -5451,20 +5579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106683,
-      "num": 106683,
-      "word": "一天喝几杯咖啡不会超量",
-      "onboard_time": 1705369110,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 105993,
       "num": 105993,
       "word": "被北京胡同的车主深深折服",
       "onboard_time": 1705280071,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105793,
+      "num": 105793,
+      "word": "2024国际乒联第3周排名",
+      "onboard_time": 1705370968,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 105453,

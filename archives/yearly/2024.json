@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705369125149,
+  "endTime": 1705372297891,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2235,6 +2235,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1270369,
+      "num": 1270369,
+      "word": "蜜雪冰城回应放弃瓶装水业务",
+      "onboard_time": 1705368570,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1265933,
       "num": 1265933,
       "word": "马斯克回应吸毒",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705113149,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1229285,
-      "num": 1229285,
-      "word": "金莎会做婚前财产公证",
-      "onboard_time": 1704792932,
-      "rank": 0,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
