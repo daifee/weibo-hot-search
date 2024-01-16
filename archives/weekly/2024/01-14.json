@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705426488081,
+  "endTime": 1705429348778,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -4627,6 +4627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203065,
+      "num": 203065,
+      "word": "抑郁症患者可能并不需要鼓励",
+      "onboard_time": 1705426097,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 202687,
       "num": 202687,
       "word": "公考雷达崩了",
@@ -8555,14 +8563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 37890,
-      "num": 37890,
-      "word": "抑郁症患者可能并不需要鼓励",
-      "onboard_time": 1705426097,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 37088,
       "num": 38268,
       "word": "aespa时代遗憾MV",
@@ -8585,6 +8585,14 @@
       "onboard_time": 1705388429,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 29976,
+      "num": 29976,
+      "word": "有这些感觉请立刻休息",
+      "onboard_time": 1705428018,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 29344,
@@ -8665,6 +8673,14 @@
       "onboard_time": 1705231350,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20937,
+      "num": 23497,
+      "word": "特朗普称我要回来了",
+      "onboard_time": 1705428858,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 20554,

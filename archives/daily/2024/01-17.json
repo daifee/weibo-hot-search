@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705426488081,
+  "endTime": 1705429348778,
   "band_list": [
     {
       "raw_hot": 1203088,
@@ -153,6 +153,14 @@
       "onboard_time": 1705401992,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203065,
+      "num": 203065,
+      "word": "抑郁症患者可能并不需要鼓励",
+      "onboard_time": 1705426097,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 180705,
@@ -427,20 +435,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 37890,
-      "num": 37890,
-      "word": "抑郁症患者可能并不需要鼓励",
-      "onboard_time": 1705426097,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 32457,
       "num": 560289,
       "word": "相约冰雪",
       "onboard_time": 1705410872,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29976,
+      "num": 29976,
+      "word": "有这些感觉请立刻休息",
+      "onboard_time": 1705428018,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20937,
+      "num": 23497,
+      "word": "特朗普称我要回来了",
+      "onboard_time": 1705428858,
+      "rank": 45,
+      "category": "国外时政"
     }
   ],
   "hotgov_list": [
