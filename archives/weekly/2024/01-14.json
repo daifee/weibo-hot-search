@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705400374346,
+  "endTime": 1705401440681,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -219,6 +219,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1541104,
+      "num": 1541104,
+      "word": "周一围从朱丹口误后停更微博",
+      "onboard_time": 1705397610,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1539000,
+      "num": 634384,
+      "word": "周一围朱丹电梯吻",
+      "onboard_time": 1705400073,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1532379,
       "num": 1532379,
       "word": "胡海峰任民政部副部长",
@@ -323,14 +339,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1375556,
-      "num": 1375556,
-      "word": "周一围从朱丹口误后停更微博",
-      "onboard_time": 1705397610,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1366274,
       "num": 1366274,
       "word": "蜜雪冰城回应放弃瓶装水业务",
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 1257582,
-      "num": 304814,
+      "num": 366993,
       "word": "儿子谎称睾丸破裂骗摆摊父亲30万",
       "onboard_time": 1705382552,
       "rank": 20,
@@ -651,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 983354,
+      "num": 983354,
+      "word": "香港国泰航空客机与大韩航空客机在日本北海道机场相撞",
+      "onboard_time": 1705399833,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 980335,
       "num": 980335,
       "word": "男子梦到家中有黄金挖40米深洞后摔死",
@@ -865,6 +881,14 @@
       "onboard_time": 1705279590,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 801736,
+      "num": 801736,
+      "word": "韩国名宿扬言封杀中国裁判",
+      "onboard_time": 1705398572,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 800210,
@@ -1177,14 +1201,6 @@
       "onboard_time": 1705251264,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 683634,
-      "num": 551228,
-      "word": "韩国名宿扬言封杀中国裁判",
-      "onboard_time": 1705398572,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 681309,
@@ -1747,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 525427,
+      "num": 525427,
+      "word": "西安的雪下的是馒头片吧",
+      "onboard_time": 1705396474,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524333,
       "num": 524333,
       "word": "重庆文旅开始急了",
@@ -1761,6 +1785,14 @@
       "onboard_time": 1705209510,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 517387,
+      "num": 1554689,
+      "word": "小女儿因妈妈一句我的孩子都优秀泪崩",
+      "onboard_time": 1705390470,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510863,
@@ -1841,14 +1873,6 @@
       "onboard_time": 1705212330,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 492922,
-      "num": 492922,
-      "word": "西安的雪下的是馒头片吧",
-      "onboard_time": 1705396474,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 491790,
@@ -2299,14 +2323,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 396655,
-      "num": 1512524,
-      "word": "小女儿因妈妈一句我的孩子都优秀泪崩",
-      "onboard_time": 1705390470,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 396373,
       "num": 396373,
       "word": "湖南卫视帮湖南文旅摇人",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1705210591,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 385325,
-      "num": 385325,
-      "word": "香港国泰航空客机与大韩航空客机在日本北海道机场相撞",
-      "onboard_time": 1705399833,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 385262,
-      "num": 192005,
-      "word": "周一围朱丹电梯吻",
-      "onboard_time": 1705400073,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 384150,
@@ -2835,6 +2835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311283,
+      "num": 311283,
+      "word": "安心丈夫出轨",
+      "onboard_time": 1705400493,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310331,
       "num": 310331,
       "word": "光与夜之恋生日卡",
@@ -2905,6 +2913,22 @@
       "onboard_time": 1705320573,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298035,
+      "num": 298035,
+      "word": "南京HERO 辅助",
+      "onboard_time": 1705399352,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 297803,
+      "num": 297803,
+      "word": "金莎和男友 一九分成",
+      "onboard_time": 1705401091,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 295771,
@@ -3443,6 +3467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248679,
+      "num": 248679,
+      "word": "七仔隐身了",
+      "onboard_time": 1705399532,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248424,
       "num": 657117,
       "word": "大熊猫临近下班哐哐敲门等不了",
@@ -3537,14 +3569,6 @@
       "onboard_time": 1705374568,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 239308,
-      "num": 239308,
-      "word": "七仔隐身了",
-      "onboard_time": 1705399532,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 239182,
@@ -4027,6 +4051,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 213220,
+      "num": 213220,
+      "word": "19层",
+      "onboard_time": 1705401030,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213191,
       "num": 213191,
       "word": "刘浩存 很高兴又回到微博之夜的舞台",
@@ -4331,12 +4363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199036,
-      "num": 199036,
-      "word": "南京HERO 辅助",
-      "onboard_time": 1705399352,
-      "rank": 28,
-      "category": "电竞"
+      "raw_hot": 200205,
+      "num": 200205,
+      "word": "上班两个月领导问我借了15万",
+      "onboard_time": 1705401091,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 198804,
@@ -4601,6 +4633,14 @@
       "onboard_time": 1705371568,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 189206,
+      "num": 189206,
+      "word": "长安汽车董事长怒斥行业广告无底线",
+      "onboard_time": 1705400670,
+      "rank": 33,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 189050,
@@ -4971,12 +5011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178131,
+      "num": 178131,
+      "word": "郑钦文澳网开门红",
+      "onboard_time": 1705400133,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177602,
       "num": 177602,
       "word": "四川单招",
       "onboard_time": 1705281509,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 177519,
+      "num": 177519,
+      "word": "现在的孩子为什么都不喜欢家里来人",
+      "onboard_time": 1705401152,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 177346,
@@ -5195,6 +5251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170578,
+      "num": 170578,
+      "word": "何猷君讲述和奚梦瑶的初吻",
+      "onboard_time": 1705400794,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170314,
       "num": 170314,
       "word": "她是蔡磊最坚强的后盾",
@@ -5379,6 +5443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164078,
+      "num": 164078,
+      "word": "佛山drg挂牌公告",
+      "onboard_time": 1705400972,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163244,
       "num": 163244,
       "word": "东北高铁给南方人一点震撼",
@@ -5441,6 +5513,14 @@
       "onboard_time": 1705365812,
       "rank": 32,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 160348,
+      "num": 160348,
+      "word": "这是年会还是离职员工表演",
+      "onboard_time": 1705401214,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 159695,
@@ -5601,14 +5681,6 @@
       "onboard_time": 1705332151,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153657,
-      "num": 153657,
-      "word": "郑钦文澳网开门红",
-      "onboard_time": 1705400133,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 153395,
@@ -5883,6 +5955,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 143085,
+      "num": 1295589,
+      "word": "山东究竟藏了多少好东西",
+      "onboard_time": 1705400670,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143083,
       "num": 143083,
       "word": "六公主镜头下的高清红毯群像",
@@ -5905,6 +5985,14 @@
       "onboard_time": 1705392390,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142301,
+      "num": 142301,
+      "word": "猫被麻醉后眼睛是睁开的",
+      "onboard_time": 1705400732,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 142002,
@@ -6643,6 +6731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117930,
+      "num": 1002855,
+      "word": "男子打球突发心梗万幸民警医护在场",
+      "onboard_time": 1705401030,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117711,
       "num": 117711,
       "word": "周一的工位上有两个人",
@@ -7019,6 +7115,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 99501,
+      "num": 275901,
+      "word": "片儿警的反诈宣传到位了",
+      "onboard_time": 1705400194,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99350,
       "num": 99350,
       "word": "全家猫的嘴替",
@@ -7041,14 +7145,6 @@
       "onboard_time": 1705236631,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97413,
-      "num": 275901,
-      "word": "片儿警的反诈宣传到位了",
-      "onboard_time": 1705400194,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97176,
@@ -7380,7 +7476,7 @@
     },
     {
       "raw_hot": 62808,
-      "num": 1415733,
+      "num": 1541944,
       "word": "天舟七号将为航天员运来龙年盲盒",
       "onboard_time": 1705392569,
       "rank": 2,
