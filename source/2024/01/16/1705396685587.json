@@ -1,0 +1,410 @@
+{
+  "runTime": 1705396685587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1868676,
+        "num": 1868676,
+        "word": "老人突然离世三十九万元存款难取出",
+        "onboard_time": 1705391970,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1390217,
+        "num": 1390217,
+        "word": "胡海峰任民政部副部长",
+        "onboard_time": 1705393173,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56126,
+        "num": 1128786,
+        "word": "天舟七号将为航天员运来龙年盲盒",
+        "onboard_time": 1705392569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1031422,
+        "num": 1031422,
+        "word": "邓紫棋已被前东家蜂鸟音乐注册成商标",
+        "onboard_time": 1705390531,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 806560,
+        "num": 806560,
+        "word": "优酷换logo了",
+        "onboard_time": 1705388190,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 733234,
+        "num": 733234,
+        "word": "中方建议菲律宾总统多读读书",
+        "onboard_time": 1705394910,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 585507,
+        "num": 585507,
+        "word": "辛芷蕾 今年我就是个笑话",
+        "onboard_time": 1705382552,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 571162,
+        "num": 571162,
+        "word": "退烧后的淄博",
+        "onboard_time": 1705388069,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546600,
+        "num": 546600,
+        "word": "发消息讨好症",
+        "onboard_time": 1705390050,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 470586,
+        "num": 470586,
+        "word": "辛芷蕾 不让我进场我嗷嗷挤",
+        "onboard_time": 1705391551,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 542404,
+        "num": 454809,
+        "word": "gidle 抄袭争议",
+        "onboard_time": 1705391671,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413573,
+        "num": 413573,
+        "word": "卖壁纸轻松月入10万",
+        "onboard_time": 1705385788,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412541,
+        "num": 412541,
+        "word": "穆里尼奥下课",
+        "onboard_time": 1705394249,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290490,
+        "num": 290490,
+        "word": "男子梦到家中有黄金挖40米深洞后摔死",
+        "onboard_time": 1705380392,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86274,
+        "num": 286630,
+        "word": "他们在支付宝是真的想教会我搞钱",
+        "onboard_time": 1705395632,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285813,
+        "num": 285813,
+        "word": "乐华股价暴跌近80%",
+        "onboard_time": 1705378410,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279598,
+        "num": 279598,
+        "word": "难哄阵容",
+        "onboard_time": 1705383450,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277073,
+        "num": 277073,
+        "word": "河南文旅 美男计",
+        "onboard_time": 1705395512,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 273040,
+        "num": 273040,
+        "word": "KSG 久酷",
+        "onboard_time": 1705393653,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 272472,
+        "num": 272472,
+        "word": "十个勤天想邀请来总马化腾来种地",
+        "onboard_time": 1705395632,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 799863,
+        "num": 272054,
+        "word": "儿子谎称睾丸破裂骗摆摊父亲30万",
+        "onboard_time": 1705382552,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324893,
+        "num": 271131,
+        "word": "每个月减重4到8斤相对合理",
+        "onboard_time": 1705395090,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 268397,
+        "num": 268397,
+        "word": "男子做出会下雨的伞救活一个厂",
+        "onboard_time": 1705389809,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262459,
+        "num": 262459,
+        "word": "张颂文评论区 演员的真诚",
+        "onboard_time": 1705391014,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249333,
+        "num": 249333,
+        "word": "陈都灵唐妆少女",
+        "onboard_time": 1705391370,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239797,
+        "num": 239797,
+        "word": "广州TTG挂牌公告",
+        "onboard_time": 1705394790,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 235798,
+        "num": 235798,
+        "word": "Minji为没吃过刀削面道歉",
+        "onboard_time": 1705387890,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214147,
+        "num": 214147,
+        "word": "小女儿因妈妈一句我的孩子都优秀泪崩",
+        "onboard_time": 1705390470,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207015,
+        "num": 207015,
+        "word": "唐嫣虞书欣互关了",
+        "onboard_time": 1705390470,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191771,
+        "num": 191771,
+        "word": "河南省文旅厅发布严正声明",
+        "onboard_time": 1705389630,
+        "rank": 29,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 187005,
+        "num": 187005,
+        "word": "网红用饮料做尿检后当医生面喝下",
+        "onboard_time": 1705381353,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184858,
+        "num": 184858,
+        "word": "爷爷去世后奶奶独自从早待到晚",
+        "onboard_time": 1705394910,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183657,
+        "num": 183657,
+        "word": "杜华卸任多家公司法定代表人",
+        "onboard_time": 1705393590,
+        "rank": 32,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 176849,
+        "num": 176849,
+        "word": "张若昀客串大唐狄公案",
+        "onboard_time": 1705393473,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168091,
+        "num": 168091,
+        "word": "王鹤棣疯狂安利王传君作品",
+        "onboard_time": 1705393050,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170945,
+        "num": 167424,
+        "word": "钟楚曦新剧演武媚娘",
+        "onboard_time": 1705393892,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164241,
+        "num": 164241,
+        "word": "华为承诺不从事整车业务",
+        "onboard_time": 1705390770,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161382,
+        "num": 161382,
+        "word": "冬天不要催作家 很烦",
+        "onboard_time": 1705395932,
+        "rank": 37,
+        "category": "幽默,读书作家"
+      },
+      {
+        "raw_hot": 161333,
+        "num": 161333,
+        "word": "牛 其实我没有很想吃",
+        "onboard_time": 1705393233,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160124,
+        "num": 160124,
+        "word": "赵丽颖打手语被听障女孩夸赞标准",
+        "onboard_time": 1705391430,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141932,
+        "num": 141932,
+        "word": "华为与长安汽车成立新公司",
+        "onboard_time": 1705395151,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 135772,
+        "num": 135772,
+        "word": "肉夹馍店因生意太好被举报关店",
+        "onboard_time": 1705383690,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132437,
+        "num": 132437,
+        "word": "韩名宿称中国裁判和中国足球一样差",
+        "onboard_time": 1705390232,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129924,
+        "num": 129924,
+        "word": "易烊千玺VOGUE花絮",
+        "onboard_time": 1705392630,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127641,
+        "num": 127641,
+        "word": "中丸雄一结婚",
+        "onboard_time": 1705392153,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126911,
+        "num": 126911,
+        "word": "董宇辉研究公司春节错峰放假",
+        "onboard_time": 1705387588,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123498,
+        "num": 123498,
+        "word": "教师妈妈辅导女儿作业脑出血",
+        "onboard_time": 1705387948,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 117568,
+        "num": 117568,
+        "word": "西安的雪下的是馒头片吧",
+        "onboard_time": 1705396474,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113067,
+        "num": 113067,
+        "word": "边防战士穿电热靴巡逻暖烘烘",
+        "onboard_time": 1705396408,
+        "rank": 48,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 108038,
+        "num": 108038,
+        "word": "易烊千玺写龙",
+        "onboard_time": 1705381593,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程金融工作怎么看怎么干#"
+    }
+  }
+}

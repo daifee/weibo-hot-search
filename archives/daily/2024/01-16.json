@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705394172019,
+  "endTime": 1705396685587,
   "band_list": [
     {
       "raw_hot": 1916476,
@@ -9,6 +9,14 @@
       "onboard_time": 1705375769,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1868676,
+      "num": 1868676,
+      "word": "老人突然离世三十九万元存款难取出",
+      "onboard_time": 1705391970,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1825028,
@@ -51,14 +59,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1454642,
-      "num": 1454642,
-      "word": "老人突然离世三十九万元存款难取出",
-      "onboard_time": 1705391970,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1446718,
       "num": 1446718,
       "word": "辛芷蕾 今年我就是个笑话",
@@ -73,6 +73,14 @@
       "onboard_time": 1705361723,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1390217,
+      "num": 1390217,
+      "word": "胡海峰任民政部副部长",
+      "onboard_time": 1705393173,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1366274,
@@ -179,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 801048,
-      "num": 801048,
-      "word": "胡海峰任民政部副部长",
-      "onboard_time": 1705393173,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 766585,
       "num": 766585,
       "word": "谭爷爷带花花看萌兰",
@@ -209,6 +209,14 @@
       "onboard_time": 1705368570,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733234,
+      "num": 733234,
+      "word": "中方建议菲律宾总统多读读书",
+      "onboard_time": 1705394910,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 711422,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 634599,
-      "num": 450980,
+      "num": 454809,
       "word": "gidle 抄袭争议",
       "onboard_time": 1705391671,
       "rank": 10,
@@ -467,6 +475,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413573,
+      "num": 413573,
+      "word": "卖壁纸轻松月入10万",
+      "onboard_time": 1705385788,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412541,
+      "num": 412541,
+      "word": "穆里尼奥下课",
+      "onboard_time": 1705394249,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412473,
       "num": 412473,
       "word": "田曦薇抽到十个勤天送的面粉",
@@ -555,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345189,
-      "num": 283859,
-      "word": "卖壁纸轻松月入10万",
-      "onboard_time": 1705385788,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339050,
       "num": 339050,
       "word": "周震南父亲公司被强执44万",
@@ -617,6 +633,14 @@
       "onboard_time": 1705370429,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324893,
+      "num": 271131,
+      "word": "每个月减重4到8斤相对合理",
+      "onboard_time": 1705395090,
+      "rank": 21,
+      "category": "运动健身"
     },
     {
       "raw_hot": 323586,
@@ -771,12 +795,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277073,
+      "num": 277073,
+      "word": "河南文旅 美男计",
+      "onboard_time": 1705395512,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 275789,
       "num": 510831,
       "word": "喝牛奶闹肚的人有福了",
       "onboard_time": 1705371509,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 273040,
+      "num": 273040,
+      "word": "KSG 久酷",
+      "onboard_time": 1705393653,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 272472,
+      "num": 272472,
+      "word": "十个勤天想邀请来总马化腾来种地",
+      "onboard_time": 1705395632,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 266487,
@@ -793,14 +841,6 @@
       "onboard_time": 1705362324,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 260076,
-      "num": 260076,
-      "word": "KSG 久酷",
-      "onboard_time": 1705393653,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 258984,
@@ -857,6 +897,14 @@
       "onboard_time": 1705381113,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 239797,
+      "num": 239797,
+      "word": "广州TTG挂牌公告",
+      "onboard_time": 1705394790,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 239599,
@@ -985,6 +1033,14 @@
       "onboard_time": 1705382194,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214147,
+      "num": 214147,
+      "word": "小女儿因妈妈一句我的孩子都优秀泪崩",
+      "onboard_time": 1705390470,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213711,
@@ -1171,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190435,
-      "num": 190435,
-      "word": "小女儿因妈妈一句我的孩子都优秀泪崩",
-      "onboard_time": 1705390470,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189250,
       "num": 189250,
       "word": "河南省考连续3年扩招",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1705329151,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184858,
+      "num": 184858,
+      "word": "爷爷去世后奶奶独自从早待到晚",
+      "onboard_time": 1705394910,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183573,
@@ -1387,6 +1443,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161382,
+      "num": 161382,
+      "word": "冬天不要催作家 很烦",
+      "onboard_time": 1705395932,
+      "rank": 37,
+      "category": "幽默,读书作家"
+    },
+    {
+      "raw_hot": 161333,
+      "num": 161333,
+      "word": "牛 其实我没有很想吃",
+      "onboard_time": 1705393233,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160442,
       "num": 160442,
       "word": "王鹤棣猜GAI送的是银行卡",
@@ -1459,14 +1531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153790,
-      "num": 153790,
-      "word": "牛 其实我没有很想吃",
-      "onboard_time": 1705393233,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148912,
       "num": 148912,
       "word": "你好种地少年",
@@ -1529,6 +1593,14 @@
       "onboard_time": 1705392390,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141932,
+      "num": 141932,
+      "word": "华为与长安汽车成立新公司",
+      "onboard_time": 1705395151,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 140072,
@@ -1715,6 +1787,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 117568,
+      "num": 117568,
+      "word": "西安的雪下的是馒头片吧",
+      "onboard_time": 1705396474,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117352,
       "num": 117352,
       "word": "壶鱼辣椒 不认识戏子祭酒",
@@ -1761,6 +1841,14 @@
       "onboard_time": 1705379735,
       "rank": 49,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 113067,
+      "num": 113067,
+      "word": "边防战士穿电热靴巡逻暖烘烘",
+      "onboard_time": 1705396408,
+      "rank": 48,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 112157,
@@ -1865,6 +1953,14 @@
       "onboard_time": 1705361363,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86274,
+      "num": 286630,
+      "word": "他们在支付宝是真的想教会我搞钱",
+      "onboard_time": 1705395632,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 82170,
@@ -2220,6 +2316,9 @@
     },
     {
       "word": "#以得罪千百人不负十四亿的使命担当祛疴治乱#"
+    },
+    {
+      "word": "#新时代新征程金融工作怎么看怎么干#"
     }
   ]
 }

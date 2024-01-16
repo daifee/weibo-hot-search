@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705394172019,
+  "endTime": 1705396685587,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -899,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1868676,
+      "num": 1868676,
+      "word": "老人突然离世三十九万元存款难取出",
+      "onboard_time": 1705391970,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1863825,
       "num": 1863825,
       "word": "乙流",
@@ -1651,14 +1659,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1454642,
-      "num": 1454642,
-      "word": "老人突然离世三十九万元存款难取出",
-      "onboard_time": 1705391970,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1453975,
       "num": 753781,
       "word": "假球",
@@ -1929,6 +1929,14 @@
       "onboard_time": 1704541174,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1390217,
+      "num": 1390217,
+      "word": "胡海峰任民政部副部长",
+      "onboard_time": 1705393173,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1386445,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704413010,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1241320,
-      "num": 1241320,
-      "word": "为什么全身面部的皮肤最差",
-      "onboard_time": 1704761913,
-      "rank": 12,
-      "category": "美妆"
     }
   ],
   "hotgov_list": [
