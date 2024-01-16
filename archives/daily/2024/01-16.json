@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705393383477,
+  "endTime": 1705394172019,
   "band_list": [
     {
       "raw_hot": 1916476,
@@ -43,6 +43,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1504636,
+      "num": 1504636,
+      "word": "邓紫棋已被前东家蜂鸟音乐注册成商标",
+      "onboard_time": 1705390531,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1454642,
+      "num": 1454642,
+      "word": "老人突然离世三十九万元存款难取出",
+      "onboard_time": 1705391970,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1446718,
       "num": 1446718,
       "word": "辛芷蕾 今年我就是个笑话",
@@ -57,14 +73,6 @@
       "onboard_time": 1705361723,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1393414,
-      "num": 1393414,
-      "word": "邓紫棋已被前东家蜂鸟音乐注册成商标",
-      "onboard_time": 1705390531,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1366274,
@@ -147,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 847732,
-      "num": 847732,
-      "word": "老人突然离世三十九万元存款难取出",
-      "onboard_time": 1705391970,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 844358,
       "num": 844358,
       "word": "Minji为没吃过刀削面道歉",
@@ -177,6 +177,14 @@
       "onboard_time": 1705383450,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 801048,
+      "num": 801048,
+      "word": "胡海峰任民政部副部长",
+      "onboard_time": 1705393173,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 766585,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 634599,
-      "num": 436194,
+      "num": 450980,
       "word": "gidle 抄袭争议",
       "onboard_time": 1705391671,
       "rank": 10,
@@ -281,6 +289,14 @@
       "onboard_time": 1705374088,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 612482,
+      "num": 612482,
+      "word": "发消息讨好症",
+      "onboard_time": 1705390050,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 592371,
@@ -379,14 +395,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 532721,
-      "num": 532721,
-      "word": "发消息讨好症",
-      "onboard_time": 1705390050,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 531043,
       "num": 531043,
       "word": "易烊千玺写龙",
@@ -399,6 +407,14 @@
       "num": 451998,
       "word": "刘浩存 吾家有女初长成",
       "onboard_time": 1705369409,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 503703,
+      "num": 503703,
+      "word": "辛芷蕾 不让我进场我嗷嗷挤",
+      "onboard_time": 1705391551,
       "rank": 11,
       "category": "作品衍生"
     },
@@ -425,14 +441,6 @@
       "onboard_time": 1705381353,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460181,
-      "num": 431736,
-      "word": "辛芷蕾 不让我进场我嗷嗷挤",
-      "onboard_time": 1705391551,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 458243,
@@ -560,6 +568,14 @@
       "word": "周震南父亲公司被强执44万",
       "onboard_time": 1705350014,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 333681,
+      "num": 333681,
+      "word": "张颂文评论区 演员的真诚",
+      "onboard_time": 1705391014,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -691,14 +707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 302931,
-      "num": 302931,
-      "word": "张颂文评论区 演员的真诚",
-      "onboard_time": 1705391014,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 294196,
       "num": 294196,
       "word": "公司罚你50 你玩命追公交",
@@ -787,6 +795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260076,
+      "num": 260076,
+      "word": "KSG 久酷",
+      "onboard_time": 1705393653,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 258984,
       "num": 258984,
       "word": "小猫的猫窝全被拿去当坐垫了",
@@ -800,14 +816,6 @@
       "word": "四川宜宾市3.2级地震",
       "onboard_time": 1705371268,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255101,
-      "num": 255101,
-      "word": "胡海峰任民政部副部长",
-      "onboard_time": 1705393173,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -937,6 +945,14 @@
       "onboard_time": 1705373731,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219004,
+      "num": 219004,
+      "word": "杜华卸任多家公司法定代表人",
+      "onboard_time": 1705393590,
+      "rank": 26,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 217095,
@@ -1139,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191756,
+      "num": 191756,
+      "word": "王鹤棣疯狂安利王传君作品",
+      "onboard_time": 1705393050,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190628,
       "num": 190628,
       "word": "19层今日开播",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1705389334,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188117,
+      "num": 188117,
+      "word": "张若昀客串大唐狄公案",
+      "onboard_time": 1705393473,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 188006,
@@ -1267,20 +1299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177605,
-      "num": 177605,
-      "word": "王鹤棣疯狂安利王传君作品",
-      "onboard_time": 1705393050,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 177308,
       "num": 177308,
       "word": "美国国防部长奥斯汀出院",
       "onboard_time": 1705363287,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 175627,
+      "num": 175627,
+      "word": "钟楚曦新剧演武媚娘",
+      "onboard_time": 1705393892,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 173864,
@@ -1363,6 +1395,14 @@
       "category": "作品衍生,综艺"
     },
     {
+      "raw_hot": 159695,
+      "num": 159695,
+      "word": "郑钦文被破发",
+      "onboard_time": 1705393830,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159315,
       "num": 159315,
       "word": "中方将给予瑞士单方面免签",
@@ -1417,6 +1457,14 @@
       "onboard_time": 1705379974,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153790,
+      "num": 153790,
+      "word": "牛 其实我没有很想吃",
+      "onboard_time": 1705393233,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 148912,
@@ -1577,14 +1625,6 @@
       "onboard_time": 1705366171,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126886,
-      "num": 126886,
-      "word": "牛 其实我没有很想吃",
-      "onboard_time": 1705393233,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 126675,
@@ -2003,6 +2043,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 62808,
+      "num": 1415733,
+      "word": "天舟七号将为航天员运来龙年盲盒",
+      "onboard_time": 1705392569,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59591,
       "num": 59591,
       "word": "北欧人就这么参观火山吗",
@@ -2065,14 +2113,6 @@
       "onboard_time": 1705355295,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 42378,
-      "num": 991172,
-      "word": "天舟七号将为航天员运来龙年盲盒",
-      "onboard_time": 1705392569,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41174,
@@ -2177,6 +2217,9 @@
     },
     {
       "word": "#坚持稳中求进以进促稳先立后破#"
+    },
+    {
+      "word": "#以得罪千百人不负十四亿的使命担当祛疴治乱#"
     }
   ]
 }

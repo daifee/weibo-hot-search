@@ -1,0 +1,410 @@
+{
+  "runTime": 1705394172019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1504636,
+        "num": 1504636,
+        "word": "邓紫棋已被前东家蜂鸟音乐注册成商标",
+        "onboard_time": 1705390531,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1454642,
+        "num": 1454642,
+        "word": "老人突然离世三十九万元存款难取出",
+        "onboard_time": 1705391970,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62808,
+        "num": 1415733,
+        "word": "天舟七号将为航天员运来龙年盲盒",
+        "onboard_time": 1705392569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1412236,
+        "num": 1412236,
+        "word": "优酷换logo了",
+        "onboard_time": 1705388190,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 869188,
+        "num": 869188,
+        "word": "退烧后的淄博",
+        "onboard_time": 1705388069,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801048,
+        "num": 801048,
+        "word": "胡海峰任民政部副部长",
+        "onboard_time": 1705393173,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 697209,
+        "num": 697209,
+        "word": "辛芷蕾 今年我就是个笑话",
+        "onboard_time": 1705382552,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 612482,
+        "num": 612482,
+        "word": "发消息讨好症",
+        "onboard_time": 1705390050,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 503703,
+        "num": 503703,
+        "word": "辛芷蕾 不让我进场我嗷嗷挤",
+        "onboard_time": 1705391551,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 480144,
+        "num": 480144,
+        "word": "男子梦到家中有黄金挖40米深洞后摔死",
+        "onboard_time": 1705380392,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616027,
+        "num": 450980,
+        "word": "gidle 抄袭争议",
+        "onboard_time": 1705391671,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395278,
+        "num": 395278,
+        "word": "男子做出会下雨的伞救活一个厂",
+        "onboard_time": 1705389809,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391424,
+        "num": 391424,
+        "word": "Minji为没吃过刀削面道歉",
+        "onboard_time": 1705387890,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355555,
+        "num": 355555,
+        "word": "乐华股价暴跌近80%",
+        "onboard_time": 1705378410,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344216,
+        "num": 344216,
+        "word": "难哄阵容",
+        "onboard_time": 1705383450,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333681,
+        "num": 333681,
+        "word": "张颂文评论区 演员的真诚",
+        "onboard_time": 1705391014,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305030,
+        "num": 305030,
+        "word": "董宇辉研究公司春节错峰放假",
+        "onboard_time": 1705387588,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 300900,
+        "num": 300900,
+        "word": "河南省文旅厅发布严正声明",
+        "onboard_time": 1705389630,
+        "rank": 17,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 25662,
+        "num": 296357,
+        "word": "底子真的很重要",
+        "onboard_time": 1705391370,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 292766,
+        "num": 292766,
+        "word": "陈都灵唐妆少女",
+        "onboard_time": 1705391370,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 903758,
+        "num": 291624,
+        "word": "儿子谎称睾丸破裂骗摆摊父亲30万",
+        "onboard_time": 1705382552,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290010,
+        "num": 290010,
+        "word": "韩名宿称中国裁判和中国足球一样差",
+        "onboard_time": 1705390232,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269653,
+        "num": 269653,
+        "word": "唐嫣虞书欣互关了",
+        "onboard_time": 1705390470,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260076,
+        "num": 260076,
+        "word": "KSG 久酷",
+        "onboard_time": 1705393653,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 257342,
+        "num": 257342,
+        "word": "华为承诺不从事整车业务",
+        "onboard_time": 1705390770,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 253388,
+        "num": 253388,
+        "word": "卖壁纸轻松月入10万",
+        "onboard_time": 1705385788,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219004,
+        "num": 219004,
+        "word": "杜华卸任多家公司法定代表人",
+        "onboard_time": 1705393590,
+        "rank": 26,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 217360,
+        "num": 217360,
+        "word": "网红用饮料做尿检后当医生面喝下",
+        "onboard_time": 1705381353,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191756,
+        "num": 191756,
+        "word": "王鹤棣疯狂安利王传君作品",
+        "onboard_time": 1705393050,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118335,
+        "num": 191628,
+        "word": "国新办介绍2024春运安排",
+        "onboard_time": 1705392454,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191524,
+        "num": 191524,
+        "word": "中丸雄一结婚",
+        "onboard_time": 1705392153,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188117,
+        "num": 188117,
+        "word": "张若昀客串大唐狄公案",
+        "onboard_time": 1705393473,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185984,
+        "num": 185984,
+        "word": "赵丽颖打手语被听障女孩夸赞标准",
+        "onboard_time": 1705391430,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183403,
+        "num": 183403,
+        "word": "小女儿因妈妈一句我的孩子都优秀泪崩",
+        "onboard_time": 1705390470,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175711,
+        "num": 175711,
+        "word": "教师妈妈辅导女儿作业脑出血",
+        "onboard_time": 1705387948,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 175627,
+        "num": 175627,
+        "word": "钟楚曦新剧演武媚娘",
+        "onboard_time": 1705393892,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170627,
+        "num": 170627,
+        "word": "肉夹馍店因生意太好被举报关店",
+        "onboard_time": 1705383690,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170079,
+        "num": 170079,
+        "word": "易烊千玺VOGUE花絮",
+        "onboard_time": 1705392630,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159695,
+        "num": 159695,
+        "word": "郑钦文被破发",
+        "onboard_time": 1705393830,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156561,
+        "num": 156561,
+        "word": "浙江省考出成绩",
+        "onboard_time": 1705388486,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153790,
+        "num": 153790,
+        "word": "牛 其实我没有很想吃",
+        "onboard_time": 1705393233,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150753,
+        "num": 150753,
+        "word": "俞敏洪建议一周放假两天半到三天",
+        "onboard_time": 1705381890,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148737,
+        "num": 148737,
+        "word": "蟹老板的睫毛是现实存在的",
+        "onboard_time": 1705389031,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 140411,
+        "num": 140411,
+        "word": "一载中国游客大巴在泰国翻车",
+        "onboard_time": 1705385908,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133762,
+        "num": 133762,
+        "word": "易烊千玺写龙",
+        "onboard_time": 1705381593,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130502,
+        "num": 130502,
+        "word": "女子酒店产子后遗弃被判故意杀人罪",
+        "onboard_time": 1705378713,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121478,
+        "num": 121478,
+        "word": "中央大街的铁柱子都被包起来了",
+        "onboard_time": 1705379913,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116672,
+        "num": 116672,
+        "word": "惠英红抽中杨紫拼的乐高",
+        "onboard_time": 1705385788,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113310,
+        "num": 113310,
+        "word": "久咳不愈竟因马桶下面的黑色霉菌",
+        "onboard_time": 1705379072,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111061,
+        "num": 111061,
+        "word": "0118决战国乙之巅",
+        "onboard_time": 1705392390,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以得罪千百人不负十四亿的使命担当祛疴治乱#"
+    }
+  }
+}

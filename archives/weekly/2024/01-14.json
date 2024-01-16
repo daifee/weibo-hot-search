@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705393383477,
+  "endTime": 1705394172019,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -211,12 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1504636,
+      "num": 1504636,
+      "word": "邓紫棋已被前东家蜂鸟音乐注册成商标",
+      "onboard_time": 1705390531,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1463102,
       "num": 1463102,
       "word": "身上有老人味可能是疾病信号",
       "onboard_time": 1705290813,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1454642,
+      "num": 1454642,
+      "word": "老人突然离世三十九万元存款难取出",
+      "onboard_time": 1705391970,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1448180,
@@ -273,14 +289,6 @@
       "onboard_time": 1705325132,
       "rank": 4,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 1393414,
-      "num": 1393414,
-      "word": "邓紫棋已被前东家蜂鸟音乐注册成商标",
-      "onboard_time": 1705390531,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1390672,
@@ -779,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 847732,
-      "num": 847732,
-      "word": "老人突然离世三十九万元存款难取出",
-      "onboard_time": 1705391970,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 844358,
       "num": 844358,
       "word": "Minji为没吃过刀削面道歉",
@@ -840,6 +840,14 @@
       "word": "50岁老妈爆改女儿变3000年战国美女",
       "onboard_time": 1705279590,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 801048,
+      "num": 801048,
+      "word": "胡海峰任民政部副部长",
+      "onboard_time": 1705393173,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1292,7 +1300,7 @@
     },
     {
       "raw_hot": 634599,
-      "num": 436194,
+      "num": 450980,
       "word": "gidle 抄袭争议",
       "onboard_time": 1705391671,
       "rank": 10,
@@ -1345,6 +1353,14 @@
       "onboard_time": 1705302029,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 612482,
+      "num": 612482,
+      "word": "发消息讨好症",
+      "onboard_time": 1705390050,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 610431,
@@ -1659,14 +1675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 532721,
-      "num": 532721,
-      "word": "发消息讨好症",
-      "onboard_time": 1705390050,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 531043,
       "num": 531043,
       "word": "易烊千玺写龙",
@@ -1745,6 +1753,14 @@
       "onboard_time": 1705209450,
       "rank": 13,
       "category": "军事,国外时政"
+    },
+    {
+      "raw_hot": 503703,
+      "num": 503703,
+      "word": "辛芷蕾 不让我进场我嗷嗷挤",
+      "onboard_time": 1705391551,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 503254,
@@ -1937,14 +1953,6 @@
       "onboard_time": 1705280611,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 460181,
-      "num": 431736,
-      "word": "辛芷蕾 不让我进场我嗷嗷挤",
-      "onboard_time": 1705391551,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 458243,
@@ -2555,6 +2563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 333681,
+      "num": 333681,
+      "word": "张颂文评论区 演员的真诚",
+      "onboard_time": 1705391014,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331714,
       "num": 331714,
       "word": "河南省文旅厅发布严正声明",
@@ -2777,14 +2793,6 @@
       "onboard_time": 1705156611,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 302931,
-      "num": 302931,
-      "word": "张颂文评论区 演员的真诚",
-      "onboard_time": 1705391014,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 301568,
@@ -3139,6 +3147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260076,
+      "num": 260076,
+      "word": "KSG 久酷",
+      "onboard_time": 1705393653,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 259561,
       "num": 259561,
       "word": "国家卫健委新闻发布会",
@@ -3241,14 +3257,6 @@
       "onboard_time": 1705312531,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 255101,
-      "num": 255101,
-      "word": "胡海峰任民政部副部长",
-      "onboard_time": 1705393173,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253771,
@@ -3745,6 +3753,14 @@
       "onboard_time": 1705231049,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219004,
+      "num": 219004,
+      "word": "杜华卸任多家公司法定代表人",
+      "onboard_time": 1705393590,
+      "rank": 26,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 218617,
@@ -4283,6 +4299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191756,
+      "num": 191756,
+      "word": "王鹤棣疯狂安利王传君作品",
+      "onboard_time": 1705393050,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191746,
       "num": 191746,
       "word": "小金毛一不小心吃上了自助餐",
@@ -4441,6 +4465,14 @@
       "onboard_time": 1705389334,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188117,
+      "num": 188117,
+      "word": "张若昀客串大唐狄公案",
+      "onboard_time": 1705393473,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 188006,
@@ -4755,14 +4787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177605,
-      "num": 177605,
-      "word": "王鹤棣疯狂安利王传君作品",
-      "onboard_time": 1705393050,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 177602,
       "num": 177602,
       "word": "四川单招",
@@ -4809,6 +4833,14 @@
       "onboard_time": 1705301246,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175627,
+      "num": 175627,
+      "word": "钟楚曦新剧演武媚娘",
+      "onboard_time": 1705393892,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 175477,
@@ -5203,6 +5235,14 @@
       "category": "作品衍生,综艺"
     },
     {
+      "raw_hot": 159695,
+      "num": 159695,
+      "word": "郑钦文被破发",
+      "onboard_time": 1705393830,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159628,
       "num": 137365,
       "word": "李兰迪 玫瑰公主",
@@ -5345,6 +5385,14 @@
       "onboard_time": 1705332151,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153790,
+      "num": 153790,
+      "word": "牛 其实我没有很想吃",
+      "onboard_time": 1705393233,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 153395,
@@ -6089,14 +6137,6 @@
       "onboard_time": 1705215930,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 126886,
-      "num": 126886,
-      "word": "牛 其实我没有很想吃",
-      "onboard_time": 1705393233,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 126808,
@@ -7067,6 +7107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62808,
+      "num": 1415733,
+      "word": "天舟七号将为航天员运来龙年盲盒",
+      "onboard_time": 1705392569,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60211,
       "num": 60211,
       "word": "陈哲远带瓜子去微博之夜",
@@ -7249,14 +7297,6 @@
       "onboard_time": 1705250485,
       "rank": 43,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 42378,
-      "num": 991172,
-      "word": "天舟七号将为航天员运来龙年盲盒",
-      "onboard_time": 1705392569,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42271,
@@ -7533,6 +7573,9 @@
     },
     {
       "word": "#冰雪春天#"
+    },
+    {
+      "word": "#以得罪千百人不负十四亿的使命担当祛疴治乱#"
     }
   ]
 }
