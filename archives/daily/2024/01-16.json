@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705396685587,
+  "endTime": 1705397676195,
   "band_list": [
     {
       "raw_hot": 1916476,
@@ -43,6 +43,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1532379,
+      "num": 1532379,
+      "word": "胡海峰任民政部副部长",
+      "onboard_time": 1705393173,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1510146,
       "num": 1510146,
       "word": "APP未经同意跳转广告涉嫌违法",
@@ -73,14 +81,6 @@
       "onboard_time": 1705361723,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1390217,
-      "num": 1390217,
-      "word": "胡海峰任民政部副部长",
-      "onboard_time": 1705393173,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1366274,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 796595,
+      "num": 796595,
+      "word": "中方建议菲律宾总统多读读书",
+      "onboard_time": 1705394910,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 766585,
       "num": 766585,
       "word": "谭爷爷带花花看萌兰",
@@ -209,14 +217,6 @@
       "onboard_time": 1705368570,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 733234,
-      "num": 733234,
-      "word": "中方建议菲律宾总统多读读书",
-      "onboard_time": 1705394910,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 711422,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 634599,
-      "num": 454809,
+      "num": 456784,
       "word": "gidle 抄袭争议",
       "onboard_time": 1705391671,
       "rank": 10,
@@ -427,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 501268,
+      "num": 501268,
+      "word": "卖壁纸轻松月入10万",
+      "onboard_time": 1705385788,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477354,
       "num": 477354,
       "word": "原来护发素这么有用",
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422419,
+      "num": 422419,
+      "word": "田曦薇晒猫",
+      "onboard_time": 1705397610,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419662,
       "num": 298108,
       "word": "久咳不愈竟因马桶下面的黑色霉菌",
@@ -473,14 +489,6 @@
       "onboard_time": 1705331669,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 413573,
-      "num": 413573,
-      "word": "卖壁纸轻松月入10万",
-      "onboard_time": 1705385788,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412541,
@@ -579,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352166,
+      "num": 271131,
+      "word": "每个月减重4到8斤相对合理",
+      "onboard_time": 1705395090,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 339050,
       "num": 339050,
       "word": "周震南父亲公司被强执44万",
@@ -633,14 +649,6 @@
       "onboard_time": 1705370429,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 324893,
-      "num": 271131,
-      "word": "每个月减重4到8斤相对合理",
-      "onboard_time": 1705395090,
-      "rank": 21,
-      "category": "运动健身"
     },
     {
       "raw_hot": 323586,
@@ -731,6 +739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295771,
+      "num": 295771,
+      "word": "十个勤天想邀请来总马化腾来种地",
+      "onboard_time": 1705395632,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 294196,
       "num": 294196,
       "word": "公司罚你50 你玩命追公交",
@@ -787,6 +803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 285883,
+      "num": 285883,
+      "word": "年会不能停票房破8亿",
+      "onboard_time": 1705397069,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 283562,
       "num": 283562,
       "word": "谭爷爷想问萌兰你还记得我吗",
@@ -819,14 +843,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 272472,
-      "num": 272472,
-      "word": "十个勤天想邀请来总马化腾来种地",
-      "onboard_time": 1705395632,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 266487,
       "num": 266487,
       "word": "洗个澡吹个毛还emo上了",
@@ -843,6 +859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262117,
+      "num": 262117,
+      "word": "西安的雪下的是馒头片吧",
+      "onboard_time": 1705396474,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258984,
       "num": 258984,
       "word": "小猫的猫窝全被拿去当坐垫了",
@@ -857,6 +881,14 @@
       "onboard_time": 1705371268,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254871,
+      "num": 254871,
+      "word": "周一围从朱丹口误后停更微博",
+      "onboard_time": 1705397610,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 249302,
@@ -945,6 +977,14 @@
       "onboard_time": 1705322909,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231228,
+      "num": 231228,
+      "word": "冬天不要催作家 很烦",
+      "onboard_time": 1705395932,
+      "rank": 37,
+      "category": "幽默,读书作家"
     },
     {
       "raw_hot": 229237,
@@ -1171,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200556,
+      "num": 200556,
+      "word": "孙丞潇写给金莎的信",
+      "onboard_time": 1705397610,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197907,
       "num": 197907,
       "word": "龚俊新中式丝绸套装",
@@ -1315,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184413,
+      "num": 184413,
+      "word": "重庆狼队挂牌公告",
+      "onboard_time": 1705396889,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183573,
       "num": 183573,
       "word": "湖人战胜雷霆",
@@ -1443,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161382,
-      "num": 161382,
-      "word": "冬天不要催作家 很烦",
-      "onboard_time": 1705395932,
-      "rank": 37,
-      "category": "幽默,读书作家"
-    },
-    {
       "raw_hot": 161333,
       "num": 161333,
       "word": "牛 其实我没有很想吃",
@@ -1481,6 +1529,14 @@
       "onboard_time": 1705322973,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 159302,
+      "num": 159302,
+      "word": "黄景瑜想演病娇",
+      "onboard_time": 1705397069,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 157142,
@@ -1587,20 +1643,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142501,
+      "num": 142501,
+      "word": "华为与长安汽车成立新公司",
+      "onboard_time": 1705395151,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142355,
       "num": 142355,
       "word": "0118决战国乙之巅",
       "onboard_time": 1705392390,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 141932,
-      "num": 141932,
-      "word": "华为与长安汽车成立新公司",
-      "onboard_time": 1705395151,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 140072,
@@ -1640,6 +1696,14 @@
       "word": "TES官宣苏沫靖风挂牌",
       "onboard_time": 1705388249,
       "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 137600,
+      "num": 137600,
+      "word": "武汉eStarPro挂牌公告",
+      "onboard_time": 1705397610,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -1705,6 +1769,14 @@
       "onboard_time": 1705319971,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 125658,
+      "num": 296482,
+      "word": "他们在支付宝是真的想教会我搞钱",
+      "onboard_time": 1705395632,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 123833,
@@ -1785,14 +1857,6 @@
       "onboard_time": 1705325132,
       "rank": 27,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 117568,
-      "num": 117568,
-      "word": "西安的雪下的是馒头片吧",
-      "onboard_time": 1705396474,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117352,
@@ -1953,14 +2017,6 @@
       "onboard_time": 1705361363,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 86274,
-      "num": 286630,
-      "word": "他们在支付宝是真的想教会我搞钱",
-      "onboard_time": 1705395632,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 82170,

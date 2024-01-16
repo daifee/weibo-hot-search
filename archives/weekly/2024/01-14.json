@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705396685587,
+  "endTime": 1705397676195,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -211,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1532379,
+      "num": 1532379,
+      "word": "胡海峰任民政部副部长",
+      "onboard_time": 1705393173,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1510146,
       "num": 1510146,
       "word": "APP未经同意跳转广告涉嫌违法",
@@ -297,14 +305,6 @@
       "onboard_time": 1705157865,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1390217,
-      "num": 1390217,
-      "word": "胡海峰任民政部副部长",
-      "onboard_time": 1705393173,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1386445,
@@ -867,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 796595,
+      "num": 796595,
+      "word": "中方建议菲律宾总统多读读书",
+      "onboard_time": 1705394910,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 789184,
       "num": 514704,
       "word": "李鸿其想与王紫璇结婚",
@@ -985,14 +993,6 @@
       "onboard_time": 1705328974,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 733234,
-      "num": 733234,
-      "word": "中方建议菲律宾总统多读读书",
-      "onboard_time": 1705394910,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 732185,
@@ -1308,7 +1308,7 @@
     },
     {
       "raw_hot": 634599,
-      "num": 454809,
+      "num": 456784,
       "word": "gidle 抄袭争议",
       "onboard_time": 1705391671,
       "rank": 10,
@@ -1795,6 +1795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 501268,
+      "num": 501268,
+      "word": "卖壁纸轻松月入10万",
+      "onboard_time": 1705385788,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497468,
       "num": 497468,
       "word": "白敬亭春晚彩排路透",
@@ -2123,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 422419,
+      "num": 422419,
+      "word": "田曦薇晒猫",
+      "onboard_time": 1705397610,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420651,
       "num": 420651,
       "word": "网络短剧 日本物价",
@@ -2161,14 +2177,6 @@
       "onboard_time": 1705188863,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 413573,
-      "num": 413573,
-      "word": "卖壁纸轻松月入10万",
-      "onboard_time": 1705385788,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412541,
@@ -2499,6 +2507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 352166,
+      "num": 271131,
+      "word": "每个月减重4到8斤相对合理",
+      "onboard_time": 1705395090,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 349633,
       "num": 349633,
       "word": "阿佘 历史话我想你了",
@@ -2633,14 +2649,6 @@
       "onboard_time": 1705370429,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 324893,
-      "num": 271131,
-      "word": "每个月减重4到8斤相对合理",
-      "onboard_time": 1705395090,
-      "rank": 21,
-      "category": "运动健身"
     },
     {
       "raw_hot": 323586,
@@ -2835,6 +2843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295771,
+      "num": 295771,
+      "word": "十个勤天想邀请来总马化腾来种地",
+      "onboard_time": 1705395632,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 295289,
       "num": 266220,
       "word": "娜扎 性感风",
@@ -2961,6 +2977,14 @@
       "onboard_time": 1705316672,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285883,
+      "num": 285883,
+      "word": "年会不能停票房破8亿",
+      "onboard_time": 1705397069,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 285870,
@@ -3099,14 +3123,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 272472,
-      "num": 272472,
-      "word": "十个勤天想邀请来总马化腾来种地",
-      "onboard_time": 1705395632,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 271066,
       "num": 219735,
       "word": "高叶哭了",
@@ -3185,6 +3201,14 @@
       "onboard_time": 1705224093,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 262117,
+      "num": 262117,
+      "word": "西安的雪下的是馒头片吧",
+      "onboard_time": 1705396474,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260346,
@@ -3297,6 +3321,14 @@
       "onboard_time": 1705312531,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 254871,
+      "num": 254871,
+      "word": "周一围从朱丹口误后停更微博",
+      "onboard_time": 1705397610,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 253771,
@@ -3601,6 +3633,14 @@
       "onboard_time": 1705206510,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231228,
+      "num": 231228,
+      "word": "冬天不要催作家 很烦",
+      "onboard_time": 1705395932,
+      "rank": 37,
+      "category": "幽默,读书作家"
     },
     {
       "raw_hot": 230435,
@@ -4219,6 +4259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200556,
+      "num": 200556,
+      "word": "孙丞潇写给金莎的信",
+      "onboard_time": 1705397610,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198804,
       "num": 198804,
       "word": "十二星座一周运势",
@@ -4633,6 +4681,14 @@
       "onboard_time": 1705244976,
       "rank": 34,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 184413,
+      "num": 184413,
+      "word": "重庆狼队挂牌公告",
+      "onboard_time": 1705396889,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 184382,
@@ -5267,14 +5323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161382,
-      "num": 161382,
-      "word": "冬天不要催作家 很烦",
-      "onboard_time": 1705395932,
-      "rank": 37,
-      "category": "幽默,读书作家"
-    },
-    {
       "raw_hot": 161333,
       "num": 161333,
       "word": "牛 其实我没有很想吃",
@@ -5321,6 +5369,14 @@
       "onboard_time": 1705161036,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159302,
+      "num": 159302,
+      "word": "黄景瑜想演病娇",
+      "onboard_time": 1705397069,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 158997,
@@ -5739,6 +5795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142501,
+      "num": 142501,
+      "word": "华为与长安汽车成立新公司",
+      "onboard_time": 1705395151,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142355,
       "num": 142355,
       "word": "0118决战国乙之巅",
@@ -5753,14 +5817,6 @@
       "onboard_time": 1705244794,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141932,
-      "num": 141932,
-      "word": "华为与长安汽车成立新公司",
-      "onboard_time": 1705395151,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 141377,
@@ -5952,6 +6008,14 @@
       "word": "TES官宣苏沫靖风挂牌",
       "onboard_time": 1705388249,
       "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 137600,
+      "num": 137600,
+      "word": "武汉eStarPro挂牌公告",
+      "onboard_time": 1705397610,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -6243,6 +6307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125658,
+      "num": 296482,
+      "word": "他们在支付宝是真的想教会我搞钱",
+      "onboard_time": 1705395632,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125228,
       "num": 130363,
       "word": "河南185男团跟游客公主牵手合照",
@@ -6473,14 +6545,6 @@
       "onboard_time": 1705331070,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 117568,
-      "num": 117568,
-      "word": "西安的雪下的是馒头片吧",
-      "onboard_time": 1705396474,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117352,
@@ -6969,14 +7033,6 @@
       "onboard_time": 1705279113,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 86274,
-      "num": 286630,
-      "word": "他们在支付宝是真的想教会我搞钱",
-      "onboard_time": 1705395632,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 85940,
