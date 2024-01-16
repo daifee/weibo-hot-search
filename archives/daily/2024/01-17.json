@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705443439896,
+  "endTime": 1705444479771,
   "band_list": [
     {
       "raw_hot": 1203088,
@@ -211,12 +211,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137610,
+      "num": 104056,
+      "word": "特朗普称我要回来了",
+      "onboard_time": 1705428858,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 135583,
       "num": 135583,
       "word": "优酷换logo了",
       "onboard_time": 1705388190,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132516,
+      "num": 132516,
+      "word": "渐冻人蔡磊澄清用药有效",
+      "onboard_time": 1705433414,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130152,
+      "num": 130152,
+      "word": "梁洛施首度回应过往称不后悔",
+      "onboard_time": 1705430955,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 129544,
@@ -267,36 +291,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 97028,
-      "num": 97028,
-      "word": "梁洛施首度回应过往称不后悔",
-      "onboard_time": 1705430955,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 96497,
-      "num": 78305,
-      "word": "特朗普称我要回来了",
-      "onboard_time": 1705428858,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 92575,
       "num": 92575,
       "word": "对偶像祛魅",
       "onboard_time": 1705415612,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91956,
-      "num": 91956,
-      "word": "渐冻人蔡磊澄清用药有效",
-      "onboard_time": 1705433414,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91742,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62394,
+      "num": 62394,
+      "word": "这头发长得颗粒无收烫得五谷丰登",
+      "onboard_time": 1705438693,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 61011,
       "num": 70504,
       "word": "白敬亭穿秋裤主打一个听劝",
@@ -459,12 +467,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 40714,
-      "num": 40714,
-      "word": "这头发长得颗粒无收烫得五谷丰登",
-      "onboard_time": 1705438693,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 46666,
+      "num": 26346,
+      "word": "国资公司回应中层领导出轨女同事",
+      "onboard_time": 1705441933,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32557,
@@ -483,28 +491,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24151,
-      "num": 22438,
-      "word": "国资公司回应中层领导出轨女同事",
-      "onboard_time": 1705441933,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22543,
-      "num": 22543,
+      "raw_hot": 32240,
+      "num": 32240,
       "word": "官方回应广东一中学要求统一校鞋",
       "onboard_time": 1705441453,
       "rank": 28,
       "category": "教育"
     },
     {
-      "raw_hot": 18269,
-      "num": 18269,
+      "raw_hot": 22701,
+      "num": 22701,
       "word": "买到黄标祖玛珑顾客起疑心",
       "onboard_time": 1705435033,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22678,
+      "num": 22678,
+      "word": "沈腾 范丞丞学得好才是师徒",
+      "onboard_time": 1705438993,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 20722,
+      "num": 20722,
+      "word": "短短几秒编剧震惊了我两次",
+      "onboard_time": 1705437134,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 17958,
@@ -515,19 +531,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 17815,
-      "num": 17815,
-      "word": "沈腾 范丞丞学得好才是师徒",
-      "onboard_time": 1705438993,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 16607,
-      "num": 16607,
-      "word": "短短几秒编剧震惊了我两次",
-      "onboard_time": 1705437134,
-      "rank": 48,
+      "raw_hot": 17398,
+      "num": 17398,
+      "word": "桔梗花 年终总结如鲠在喉",
+      "onboard_time": 1705441274,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -539,14 +547,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 14697,
-      "num": 14697,
-      "word": "桔梗花 年终总结如鲠在喉",
-      "onboard_time": 1705441274,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 13503,
       "num": 14645,
       "word": "蜂鸟音乐称拥有邓紫棋103首歌的版权",
@@ -555,8 +555,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 12028,
-      "num": 14672,
+      "raw_hot": 13331,
+      "num": 16720,
       "word": "老钱风妆容",
       "onboard_time": 1705436713,
       "rank": 47,
