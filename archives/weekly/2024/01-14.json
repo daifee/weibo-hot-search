@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705387019378,
+  "endTime": 1705389413762,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -531,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1057056,
+      "num": 1057056,
+      "word": "优酷换logo了",
+      "onboard_time": 1705388190,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1051960,
       "num": 1051960,
       "word": "白冰首播",
@@ -603,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 980335,
+      "num": 980335,
+      "word": "男子梦到家中有黄金挖40米深洞后摔死",
+      "onboard_time": 1705380392,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 978640,
       "num": 978640,
       "word": "张小斐 贾玲练出一身腱子肉",
@@ -649,14 +665,6 @@
       "onboard_time": 1705319911,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 950157,
-      "num": 950157,
-      "word": "男子梦到家中有黄金挖40米深洞后摔死",
-      "onboard_time": 1705380392,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 944430,
@@ -753,6 +761,14 @@
       "onboard_time": 1705218510,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 844358,
+      "num": 844358,
+      "word": "Minji为没吃过刀削面道歉",
+      "onboard_time": 1705387890,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 840189,
@@ -1195,6 +1211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 649551,
+      "num": 649551,
+      "word": "浙江省考出成绩",
+      "onboard_time": 1705388486,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 646251,
       "num": 646251,
       "word": "白鹿抽到了许佳琪织的围巾",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1705297950,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 592371,
+      "num": 592371,
+      "word": "一载中国游客大巴在泰国翻车",
+      "onboard_time": 1705385908,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 592098,
@@ -1539,6 +1571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 546465,
+      "num": 546465,
+      "word": "肉夹馍店因生意太好被举报关店",
+      "onboard_time": 1705383690,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543269,
       "num": 543269,
       "word": "GAI求助怎么给王鹤棣充会员",
@@ -1625,14 +1665,6 @@
       "onboard_time": 1705209510,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 514196,
-      "num": 514196,
-      "word": "肉夹馍店因生意太好被举报关店",
-      "onboard_time": 1705383690,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510863,
@@ -1883,6 +1915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 453828,
+      "num": 453828,
+      "word": "董宇辉研究公司春节错峰放假",
+      "onboard_time": 1705387588,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 451702,
       "num": 451702,
       "word": "利拉德三分绝杀",
@@ -1897,6 +1937,14 @@
       "onboard_time": 1705292074,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 446111,
+      "num": 240650,
+      "word": "退烧后的淄博",
+      "onboard_time": 1705388069,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445826,
@@ -2073,6 +2121,14 @@
       "onboard_time": 1705299929,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 406556,
+      "num": 406556,
+      "word": "韩国主帅拒绝跟马宁握手",
+      "onboard_time": 1705385551,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 406250,
@@ -2355,14 +2411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 356701,
-      "num": 356701,
-      "word": "一载中国游客大巴在泰国翻车",
-      "onboard_time": 1705385908,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349633,
       "num": 349633,
       "word": "阿佘 历史话我想你了",
@@ -2409,6 +2457,14 @@
       "onboard_time": 1705350014,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338507,
+      "num": 283859,
+      "word": "卖壁纸轻松月入10万",
+      "onboard_time": 1705385788,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338440,
@@ -2483,14 +2539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 324941,
-      "num": 283859,
-      "word": "卖壁纸轻松月入10万",
-      "onboard_time": 1705385788,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323369,
       "num": 323369,
       "word": "苹果夺2023年全球智能手机市场第一",
@@ -2505,14 +2553,6 @@
       "onboard_time": 1705383450,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 322733,
-      "num": 186013,
-      "word": "韩国主帅拒绝跟马宁握手",
-      "onboard_time": 1705385551,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 320836,
@@ -3203,6 +3243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245550,
+      "num": 240121,
+      "word": "教师妈妈辅导女儿作业脑出血",
+      "onboard_time": 1705387948,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 245239,
       "num": 245239,
       "word": "这才是真正的奢侈品吧",
@@ -3699,6 +3747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 213048,
+      "num": 213048,
+      "word": "世界之外",
+      "onboard_time": 1705388850,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211523,
       "num": 211523,
       "word": "肩颈痛大多是斜方肌出问题",
@@ -3745,6 +3801,14 @@
       "onboard_time": 1705375170,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 209007,
+      "num": 209007,
+      "word": "KPL转会期",
+      "onboard_time": 1705387890,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 208639,
@@ -3979,6 +4043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197907,
+      "num": 197907,
+      "word": "龚俊新中式丝绸套装",
+      "onboard_time": 1705389390,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197683,
       "num": 197683,
       "word": "于正新签约的男演员",
@@ -4209,6 +4281,14 @@
       "onboard_time": 1705329151,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188432,
+      "num": 188432,
+      "word": "沈腾逐渐丞化",
+      "onboard_time": 1705389334,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 188006,
@@ -5211,6 +5291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146430,
+      "num": 146430,
+      "word": "愿消防员战斗服的秘密永远不被揭开",
+      "onboard_time": 1705388013,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146184,
       "num": 146184,
       "word": "杨巡给梁思申下跪",
@@ -5499,6 +5587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138369,
+      "num": 138369,
+      "word": "CBA全明星首发公布",
+      "onboard_time": 1705387710,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138353,
       "num": 1006401,
       "word": "当中国铁路遇上中国传统色",
@@ -5537,6 +5633,14 @@
       "onboard_time": 1705301609,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137685,
+      "num": 137685,
+      "word": "TES官宣苏沫靖风挂牌",
+      "onboard_time": 1705388249,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 137089,
@@ -5875,6 +5979,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 123833,
+      "num": 123833,
+      "word": "光夜 陆沉如梦长栖PV",
+      "onboard_time": 1705387710,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123698,
       "num": 123698,
       "word": "一群消防员准备的生日有多惊喜",
@@ -5961,6 +6073,14 @@
       "onboard_time": 1705317930,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 119787,
+      "num": 119787,
+      "word": "蟹老板的睫毛是现实存在的",
+      "onboard_time": 1705389031,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 119451,
@@ -7049,6 +7169,14 @@
       "onboard_time": 1705130496,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21514,
+      "num": 340337,
+      "word": "世界之外1.18端上来",
+      "onboard_time": 1705388429,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 20944,

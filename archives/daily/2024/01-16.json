@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705387019378,
+  "endTime": 1705389413762,
   "band_list": [
     {
       "raw_hot": 1916476,
@@ -99,8 +99,16 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 950157,
-      "num": 950157,
+      "raw_hot": 1057056,
+      "num": 1057056,
+      "word": "优酷换logo了",
+      "onboard_time": 1705388190,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 980335,
+      "num": 980335,
       "word": "男子梦到家中有黄金挖40米深洞后摔死",
       "onboard_time": 1705380392,
       "rank": 10,
@@ -121,6 +129,14 @@
       "onboard_time": 1705376910,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 844358,
+      "num": 844358,
+      "word": "Minji为没吃过刀削面道歉",
+      "onboard_time": 1705387890,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 842698,
@@ -195,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649551,
+      "num": 649551,
+      "word": "浙江省考出成绩",
+      "onboard_time": 1705388486,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 646251,
       "num": 646251,
       "word": "白鹿抽到了许佳琪织的围巾",
@@ -217,6 +241,14 @@
       "onboard_time": 1705374088,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 592371,
+      "num": 592371,
+      "word": "一载中国游客大巴在泰国翻车",
+      "onboard_time": 1705385908,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 592195,
@@ -283,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 546465,
+      "num": 546465,
+      "word": "肉夹馍店因生意太好被举报关店",
+      "onboard_time": 1705383690,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537057,
       "num": 537057,
       "word": "肖战一年只休息半个月",
@@ -315,14 +355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 514196,
-      "num": 514196,
-      "word": "肉夹馍店因生意太好被举报关店",
-      "onboard_time": 1705383690,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 477354,
       "num": 477354,
       "word": "原来护发素这么有用",
@@ -343,6 +375,22 @@
       "num": 294597,
       "word": "网红用饮料做尿检后当医生面喝下",
       "onboard_time": 1705381353,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453828,
+      "num": 453828,
+      "word": "董宇辉研究公司春节错峰放假",
+      "onboard_time": 1705387588,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 446111,
+      "num": 240650,
+      "word": "退烧后的淄博",
+      "onboard_time": 1705388069,
       "rank": 21,
       "category": "社会新闻"
     },
@@ -369,6 +417,14 @@
       "onboard_time": 1705381953,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 406556,
+      "num": 406556,
+      "word": "韩国主帅拒绝跟马宁握手",
+      "onboard_time": 1705385551,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 399538,
@@ -435,20 +491,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 356701,
-      "num": 356701,
-      "word": "一载中国游客大巴在泰国翻车",
-      "onboard_time": 1705385908,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339050,
       "num": 339050,
       "word": "周震南父亲公司被强执44万",
       "onboard_time": 1705350014,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338507,
+      "num": 283859,
+      "word": "卖壁纸轻松月入10万",
+      "onboard_time": 1705385788,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330270,
@@ -483,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 324941,
-      "num": 283859,
-      "word": "卖壁纸轻松月入10万",
-      "onboard_time": 1705385788,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323369,
       "num": 323369,
       "word": "苹果夺2023年全球智能手机市场第一",
@@ -505,14 +553,6 @@
       "onboard_time": 1705383450,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 322733,
-      "num": 186013,
-      "word": "韩国主帅拒绝跟马宁握手",
-      "onboard_time": 1705385551,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 320836,
@@ -691,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245550,
+      "num": 240121,
+      "word": "教师妈妈辅导女儿作业脑出血",
+      "onboard_time": 1705387948,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 240637,
       "num": 236248,
       "word": "江宁婆婆给文旅局长们的建议",
@@ -819,6 +867,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 213048,
+      "num": 213048,
+      "word": "世界之外",
+      "onboard_time": 1705388850,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210755,
       "num": 210755,
       "word": "邓为抽到了米卡自制的手机支架",
@@ -841,6 +897,14 @@
       "onboard_time": 1705375170,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 209007,
+      "num": 209007,
+      "word": "KPL转会期",
+      "onboard_time": 1705387890,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 207194,
@@ -907,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197907,
+      "num": 197907,
+      "word": "龚俊新中式丝绸套装",
+      "onboard_time": 1705389390,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196126,
       "num": 196126,
       "word": "风骚律师 53提0中",
@@ -953,6 +1025,14 @@
       "onboard_time": 1705329151,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188432,
+      "num": 188432,
+      "word": "沈腾逐渐丞化",
+      "onboard_time": 1705389334,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 188006,
@@ -1187,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146430,
+      "num": 146430,
+      "word": "愿消防员战斗服的秘密永远不被揭开",
+      "onboard_time": 1705388013,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146195,
       "num": 146195,
       "word": "结婚前一定要知道的几件事",
@@ -1225,6 +1313,22 @@
       "onboard_time": 1705383991,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138369,
+      "num": 138369,
+      "word": "CBA全明星首发公布",
+      "onboard_time": 1705387710,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137685,
+      "num": 137685,
+      "word": "TES官宣苏沫靖风挂牌",
+      "onboard_time": 1705388249,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 136897,
@@ -1283,6 +1387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 123833,
+      "num": 123833,
+      "word": "光夜 陆沉如梦长栖PV",
+      "onboard_time": 1705387710,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123698,
       "num": 123698,
       "word": "一群消防员准备的生日有多惊喜",
@@ -1297,6 +1409,14 @@
       "onboard_time": 1705386752,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119787,
+      "num": 119787,
+      "word": "蟹老板的睫毛是现实存在的",
+      "onboard_time": 1705389031,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 119405,
@@ -1753,6 +1873,14 @@
       "onboard_time": 1705340359,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21514,
+      "num": 340337,
+      "word": "世界之外1.18端上来",
+      "onboard_time": 1705388429,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 19858,
