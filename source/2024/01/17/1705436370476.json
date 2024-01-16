@@ -1,0 +1,410 @@
+{
+  "runTime": 1705436370476,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 75482,
+        "num": 75482,
+        "word": "周一围从朱丹口误后停更微博",
+        "onboard_time": 1705397610,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67582,
+        "num": 67582,
+        "word": "抑郁症患者可能并不需要鼓励",
+        "onboard_time": 1705426097,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 7190,
+        "num": 58149,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56890,
+        "num": 56890,
+        "word": "梁洛施首度回应过往称不后悔",
+        "onboard_time": 1705430955,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56584,
+        "num": 56584,
+        "word": "老人突然离世三十九万元存款难取出",
+        "onboard_time": 1705391970,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53171,
+        "num": 53171,
+        "word": "欧阳娣娣说我来自中国",
+        "onboard_time": 1705417891,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52992,
+        "num": 52992,
+        "word": "金莎和男友 一九分成",
+        "onboard_time": 1705401091,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49930,
+        "num": 49930,
+        "word": "香港客机与韩国客机在日本机场相撞",
+        "onboard_time": 1705399833,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45019,
+        "num": 45019,
+        "word": "她的力气似乎很大 大到撑起了一个家",
+        "onboard_time": 1705417469,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42264,
+        "num": 42264,
+        "word": "巴黎LV大秀",
+        "onboard_time": 1705418493,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 66756,
+        "num": 42168,
+        "word": "华中农业大学学生实名举报导师学术造假",
+        "onboard_time": 1705411651,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 41783,
+        "num": 41783,
+        "word": "渐冻人蔡磊澄清用药有效",
+        "onboard_time": 1705433414,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36812,
+        "num": 36812,
+        "word": "仙剑四或将明天官宣",
+        "onboard_time": 1705414172,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36218,
+        "num": 36218,
+        "word": "10种嘌呤大户 高尿酸者少碰",
+        "onboard_time": 1705412791,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35070,
+        "num": 35070,
+        "word": "周一围朱丹电梯吻",
+        "onboard_time": 1705400073,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29154,
+        "num": 29154,
+        "word": "周震南痛失微博名",
+        "onboard_time": 1705403971,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28432,
+        "num": 28432,
+        "word": "金莎P图",
+        "onboard_time": 1705401992,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26440,
+        "num": 26440,
+        "word": "繁花里最让我误会的镜头",
+        "onboard_time": 1705421367,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26346,
+        "num": 26346,
+        "word": "9个月宝宝伸出小手搂着73岁太姥姥",
+        "onboard_time": 1705415850,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22820,
+        "num": 22820,
+        "word": "全球第二长寿男子去世",
+        "onboard_time": 1705408832,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22263,
+        "num": 22263,
+        "word": "6200元一杯天价咖啡店不到三月就闭店",
+        "onboard_time": 1705404811,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21829,
+        "num": 21829,
+        "word": "王一博公司与乐华无直接股权关联",
+        "onboard_time": 1705417352,
+        "rank": 21,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 21393,
+        "num": 21393,
+        "word": "女生搬家用保鲜膜裹行李直接带走",
+        "onboard_time": 1705408111,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21272,
+        "num": 21272,
+        "word": "辛芷蕾 今年我就是个笑话",
+        "onboard_time": 1705382552,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21250,
+        "num": 21250,
+        "word": "华中农业大学回应",
+        "onboard_time": 1705417290,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 21042,
+        "num": 21042,
+        "word": "华中农业大学",
+        "onboard_time": 1705411651,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 17280,
+        "num": 17280,
+        "word": "没了一块钱但获得一个亿",
+        "onboard_time": 1705416811,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17162,
+        "num": 17162,
+        "word": "有这些感觉请立刻休息",
+        "onboard_time": 1705428018,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17134,
+        "num": 17134,
+        "word": "优酷换logo了",
+        "onboard_time": 1705388190,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16971,
+        "num": 16971,
+        "word": "得知姐姐被训哭2岁男童和爸爸硬刚",
+        "onboard_time": 1705418612,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44938,
+        "num": 16678,
+        "word": "特朗普称我要回来了",
+        "onboard_time": 1705428858,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 15446,
+        "num": 15446,
+        "word": "大学生help大学生",
+        "onboard_time": 1705431315,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14916,
+        "num": 14916,
+        "word": "微博之夜妆容造型点评",
+        "onboard_time": 1705414472,
+        "rank": 32,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 14327,
+        "num": 14327,
+        "word": "买到黄标祖玛珑顾客起疑心",
+        "onboard_time": 1705435033,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13938,
+        "num": 13938,
+        "word": "小时候那批被打压式教育的人当爸妈了",
+        "onboard_time": 1705409370,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13503,
+        "num": 13503,
+        "word": "蜂鸟音乐称拥有邓紫棋103首歌的版权",
+        "onboard_time": 1705433115,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12836,
+        "num": 12836,
+        "word": "成毅狐妖蒙眼造型",
+        "onboard_time": 1705422144,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12745,
+        "num": 12745,
+        "word": "井柏然抽到辛芷蕾送的故宫盲盒",
+        "onboard_time": 1705406732,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12682,
+        "num": 12682,
+        "word": "龙币龙钞二次兑换开始",
+        "onboard_time": 1705417951,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12362,
+        "num": 12362,
+        "word": "苹果称VisionPro是终极娱乐设备",
+        "onboard_time": 1705418790,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12117,
+        "num": 12117,
+        "word": "GenG还我转播",
+        "onboard_time": 1705415315,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12095,
+        "num": 12095,
+        "word": "范闲 汗流浃背了吧",
+        "onboard_time": 1705400972,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11945,
+        "num": 11945,
+        "word": "957爆料LCK播不了",
+        "onboard_time": 1705409730,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11329,
+        "num": 11329,
+        "word": "邓紫棋已被前东家蜂鸟音乐注册成商标",
+        "onboard_time": 1705390531,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11125,
+        "num": 11125,
+        "word": "19层开播口碑",
+        "onboard_time": 1705412975,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10459,
+        "num": 10459,
+        "word": "对偶像祛魅",
+        "onboard_time": 1705415612,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10122,
+        "num": 10122,
+        "word": "胜宽CoverMV里出现文彬",
+        "onboard_time": 1705413513,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10033,
+        "num": 10033,
+        "word": "程潇烟花照",
+        "onboard_time": 1705419509,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9358,
+        "num": 9358,
+        "word": "gidle 抄袭争议",
+        "onboard_time": 1705391671,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 9177,
+        "num": 9177,
+        "word": "青岛男篮战胜广东男篮",
+        "onboard_time": 1705436293,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色金融发展之路#"
+    }
+  }
+}

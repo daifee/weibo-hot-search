@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705433651087,
+  "endTime": 1705436370476,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -8363,6 +8363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 56890,
+      "num": 56890,
+      "word": "梁洛施首度回应过往称不后悔",
+      "onboard_time": 1705430955,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56769,
       "num": 56769,
       "word": "警惕抑郁症的危险信号",
@@ -8507,6 +8515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41783,
+      "num": 41783,
+      "word": "渐冻人蔡磊澄清用药有效",
+      "onboard_time": 1705433414,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41493,
       "num": 52048,
       "word": "一心只想吃席的弟弟",
@@ -8593,14 +8609,6 @@
       "onboard_time": 1705388429,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 32945,
-      "num": 32945,
-      "word": "梁洛施首度回应过往称不后悔",
-      "onboard_time": 1705430955,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 32557,
@@ -8763,6 +8771,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 14327,
+      "num": 14327,
+      "word": "买到黄标祖玛珑顾客起疑心",
+      "onboard_time": 1705435033,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13503,
+      "num": 13503,
+      "word": "蜂鸟音乐称拥有邓紫棋103首歌的版权",
+      "onboard_time": 1705433115,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 13422,
       "num": 13422,
       "word": "黄子弘凡长沙抢票",
@@ -8777,14 +8801,6 @@
       "onboard_time": 1705345874,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 11798,
-      "num": 14660,
-      "word": "渐冻人蔡磊澄清用药有效",
-      "onboard_time": 1705433414,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11447,
@@ -8809,6 +8825,14 @@
       "onboard_time": 1705264453,
       "rank": 49,
       "category": "社会正能量,旅游"
+    },
+    {
+      "raw_hot": 9177,
+      "num": 9177,
+      "word": "青岛男篮战胜广东男篮",
+      "onboard_time": 1705436293,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
