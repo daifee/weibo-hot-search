@@ -1,0 +1,410 @@
+{
+  "runTime": 1705423200119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 721116,
+        "num": 721116,
+        "word": "欧阳娣娣说我来自中国",
+        "onboard_time": 1705417891,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 614997,
+        "num": 614997,
+        "word": "她的力气似乎很大 大到撑起了一个家",
+        "onboard_time": 1705417469,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24218,
+        "num": 455739,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426963,
+        "num": 426963,
+        "word": "仙剑四或将明天官宣",
+        "onboard_time": 1705414172,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412121,
+        "num": 412121,
+        "word": "金莎和男友 一九分成",
+        "onboard_time": 1705401091,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399102,
+        "num": 399102,
+        "word": "华中农业大学回应",
+        "onboard_time": 1705417290,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 361360,
+        "num": 361360,
+        "word": "10种嘌呤大户 高尿酸者少碰",
+        "onboard_time": 1705412791,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 358347,
+        "num": 358347,
+        "word": "老人突然离世三十九万元存款难取出",
+        "onboard_time": 1705391970,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298576,
+        "num": 298576,
+        "word": "周一围从朱丹口误后停更微博",
+        "onboard_time": 1705397610,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290448,
+        "num": 290448,
+        "word": "王一博公司与乐华无直接股权关联",
+        "onboard_time": 1705417352,
+        "rank": 9,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 865028,
+        "num": 288402,
+        "word": "华中农业大学学生实名举报导师学术造假",
+        "onboard_time": 1705411651,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 283776,
+        "num": 283776,
+        "word": "巴黎LV大秀",
+        "onboard_time": 1705418493,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 252987,
+        "num": 252987,
+        "word": "香港客机与韩国客机在日本机场相撞",
+        "onboard_time": 1705399833,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387056,
+        "num": 252446,
+        "word": "周一围朱丹电梯吻",
+        "onboard_time": 1705400073,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246394,
+        "num": 246394,
+        "word": "9个月宝宝伸出小手搂着73岁太姥姥",
+        "onboard_time": 1705415850,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229964,
+        "num": 229964,
+        "word": "全球第二长寿男子去世",
+        "onboard_time": 1705408832,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227161,
+        "num": 227161,
+        "word": "周震南痛失微博名",
+        "onboard_time": 1705403971,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207628,
+        "num": 207628,
+        "word": "程潇烟花照",
+        "onboard_time": 1705419509,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164592,
+        "num": 164592,
+        "word": "无效省钱",
+        "onboard_time": 1705413751,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151878,
+        "num": 151878,
+        "word": "金莎P图",
+        "onboard_time": 1705401992,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147708,
+        "num": 147708,
+        "word": "6200元一杯天价咖啡店不到三月就闭店",
+        "onboard_time": 1705404811,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142727,
+        "num": 142727,
+        "word": "易烊千玺黑调质感大片",
+        "onboard_time": 1705422383,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125007,
+        "num": 125007,
+        "word": "繁花里最让我误会的镜头",
+        "onboard_time": 1705421367,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122876,
+        "num": 122876,
+        "word": "没了一块钱但获得一个亿",
+        "onboard_time": 1705416811,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115226,
+        "num": 115226,
+        "word": "辛芷蕾 今年我就是个笑话",
+        "onboard_time": 1705382552,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112751,
+        "num": 112751,
+        "word": "得知姐姐被训哭2岁男童和爸爸硬刚",
+        "onboard_time": 1705418612,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111653,
+        "num": 111653,
+        "word": "优酷换logo了",
+        "onboard_time": 1705388190,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109315,
+        "num": 109315,
+        "word": "女生搬家用保鲜膜裹行李直接带走",
+        "onboard_time": 1705408111,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105100,
+        "num": 105100,
+        "word": "华中农业大学",
+        "onboard_time": 1705411651,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 93868,
+        "num": 93868,
+        "word": "小狗密谋",
+        "onboard_time": 1705417770,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86670,
+        "num": 86670,
+        "word": "苹果称VisionPro是终极娱乐设备",
+        "onboard_time": 1705418790,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 86271,
+        "num": 86271,
+        "word": "成毅狐妖蒙眼造型",
+        "onboard_time": 1705422144,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79817,
+        "num": 79817,
+        "word": "邓紫棋已被前东家蜂鸟音乐注册成商标",
+        "onboard_time": 1705390531,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 78487,
+        "num": 78487,
+        "word": "龙币龙钞二次兑换开始",
+        "onboard_time": 1705417951,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73138,
+        "num": 73138,
+        "word": "安心丈夫出轨",
+        "onboard_time": 1705400493,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68807,
+        "num": 68807,
+        "word": "19层开播口碑",
+        "onboard_time": 1705412975,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67413,
+        "num": 67413,
+        "word": "胜宽CoverMV里出现文彬",
+        "onboard_time": 1705413513,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 68400,
+        "num": 67395,
+        "word": "邓紫棋前经纪公司蜂鸟音乐仅3人参保",
+        "onboard_time": 1705422743,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67218,
+        "num": 67218,
+        "word": "小时候那批被打压式教育的人当爸妈了",
+        "onboard_time": 1705409370,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65466,
+        "num": 65466,
+        "word": "GenG还我转播",
+        "onboard_time": 1705415315,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64882,
+        "num": 64882,
+        "word": "对偶像祛魅",
+        "onboard_time": 1705415612,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63011,
+        "num": 63011,
+        "word": "gidle 抄袭争议",
+        "onboard_time": 1705391671,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 61217,
+        "num": 61217,
+        "word": "微博之夜妆容造型点评",
+        "onboard_time": 1705414472,
+        "rank": 42,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 57825,
+        "num": 57825,
+        "word": "猫咪窒息急救方法",
+        "onboard_time": 1705415612,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56906,
+        "num": 56906,
+        "word": "狐妖小红娘王权篇路透",
+        "onboard_time": 1705402174,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56832,
+        "num": 56832,
+        "word": "吴宣仪 你啊你啊",
+        "onboard_time": 1705398448,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55229,
+        "num": 55229,
+        "word": "井柏然抽到辛芷蕾送的故宫盲盒",
+        "onboard_time": 1705406732,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51142,
+        "num": 55222,
+        "word": "范闲 汗流浃背了吧",
+        "onboard_time": 1705400972,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49593,
+        "num": 55218,
+        "word": "957爆料LCK播不了",
+        "onboard_time": 1705409730,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47050,
+        "num": 55202,
+        "word": "白敬亭穿秋裤主打一个听劝",
+        "onboard_time": 1705413931,
+        "rank": 49,
+        "category": "艺人,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色金融发展之路#"
+    }
+  }
+}
