@@ -1,0 +1,410 @@
+{
+  "runTime": 1705372934902,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1366274,
+        "num": 1366274,
+        "word": "蜜雪冰城回应放弃瓶装水业务",
+        "onboard_time": 1705368570,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1155411,
+        "num": 1155411,
+        "word": "研究生为救人耽误考试",
+        "onboard_time": 1705368809,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30117,
+        "num": 815731,
+        "word": "空军红鹰飞行表演队最新训练大片",
+        "onboard_time": 1705324293,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 733864,
+        "num": 733864,
+        "word": "游本昌为了好剧本卖房",
+        "onboard_time": 1705366711,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 730956,
+        "num": 730956,
+        "word": "花花和萌兰见面了",
+        "onboard_time": 1705368570,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681828,
+        "num": 681828,
+        "word": "美国2024年总统选举首场初选开始",
+        "onboard_time": 1705370191,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 614239,
+        "num": 614239,
+        "word": "APP未经同意跳转广告涉嫌违法",
+        "onboard_time": 1705369829,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590770,
+        "num": 590770,
+        "word": "每周吃5个鸡蛋糖尿病高血压风险降低",
+        "onboard_time": 1705363828,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 562218,
+        "num": 562218,
+        "word": "女子与小伙裸聊后发截图命令对方网贷",
+        "onboard_time": 1705361723,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516215,
+        "num": 516215,
+        "word": "特朗普赢得艾奥瓦州初选",
+        "onboard_time": 1705370191,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 100213,
+        "num": 510831,
+        "word": "喝牛奶闹肚的人有福了",
+        "onboard_time": 1705371509,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 546394,
+        "num": 478801,
+        "word": "朝鲜废除祖国和平统一委员会",
+        "onboard_time": 1705361723,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 542917,
+        "num": 448990,
+        "word": "钢琴销量断崖式下滑",
+        "onboard_time": 1705371449,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530406,
+        "num": 400684,
+        "word": "刘浩存 吾家有女初长成",
+        "onboard_time": 1705369409,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 391136,
+        "num": 391136,
+        "word": "肖战一年只休息半个月",
+        "onboard_time": 1705366110,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515823,
+        "num": 387670,
+        "word": "网友开始自制欢宜香了",
+        "onboard_time": 1705360701,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383792,
+        "num": 383792,
+        "word": "彭昱畅送的礼物是胸针",
+        "onboard_time": 1705368029,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378911,
+        "num": 378911,
+        "word": "一天喝几杯咖啡不会超量",
+        "onboard_time": 1705369110,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 318403,
+        "num": 318403,
+        "word": "经期5个表现说明子宫很健康",
+        "onboard_time": 1705325251,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 309413,
+        "num": 309413,
+        "word": "萌兰也是听着果赖声长大的",
+        "onboard_time": 1705371268,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297296,
+        "num": 297296,
+        "word": "韩剧请和我的老公结婚",
+        "onboard_time": 1705365512,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291534,
+        "num": 291534,
+        "word": "勇士这也能输",
+        "onboard_time": 1705370429,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256249,
+        "num": 256249,
+        "word": "梅西因第一顺位票数多当选",
+        "onboard_time": 1705371690,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254636,
+        "num": 254636,
+        "word": "谭爷爷想问萌兰你还记得我吗",
+        "onboard_time": 1705368388,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225948,
+        "num": 225948,
+        "word": "四川宜宾市3.2级地震",
+        "onboard_time": 1705371268,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202435,
+        "num": 202435,
+        "word": "叔你别开了 我害怕",
+        "onboard_time": 1705367969,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202168,
+        "num": 202168,
+        "word": "2架波音飞机在美国芝加哥机场相撞",
+        "onboard_time": 1705364368,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 201797,
+        "num": 201797,
+        "word": "国乒釜山世乒赛团体赛名单",
+        "onboard_time": 1705371568,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189250,
+        "num": 189250,
+        "word": "河南省考连续3年扩招",
+        "onboard_time": 1705371568,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177309,
+        "num": 177309,
+        "word": "年轻人入行装修月入4万",
+        "onboard_time": 1705363886,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170837,
+        "num": 170837,
+        "word": "安心丈夫拒绝同房",
+        "onboard_time": 1705331611,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170129,
+        "num": 170129,
+        "word": "IU金泰亨新歌海报",
+        "onboard_time": 1705368508,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163754,
+        "num": 163754,
+        "word": "章若楠眼中的美女是辛芷蕾",
+        "onboard_time": 1705363109,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162693,
+        "num": 162693,
+        "word": "张凌赫抽到孙阳送的金手串",
+        "onboard_time": 1705362324,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157242,
+        "num": 157242,
+        "word": "我爸以为是我去开演唱会",
+        "onboard_time": 1705369887,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156243,
+        "num": 156243,
+        "word": "张雪峰公司再成立2家科技公司",
+        "onboard_time": 1705372468,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148891,
+        "num": 148891,
+        "word": "为什么名单没有陈幸同",
+        "onboard_time": 1705372168,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141198,
+        "num": 141198,
+        "word": "168元火锅套餐生菜只有1片叶子",
+        "onboard_time": 1705338321,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137818,
+        "num": 137818,
+        "word": "小学真正拉开差距的是这3件事",
+        "onboard_time": 1705367790,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132017,
+        "num": 132017,
+        "word": "小伙成50个鄂伦春老人共享孙子",
+        "onboard_time": 1705367790,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129184,
+        "num": 129184,
+        "word": "曝阿根廷将与国足交手",
+        "onboard_time": 1705372587,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123698,
+        "num": 123698,
+        "word": "一群消防员准备的生日有多惊喜",
+        "onboard_time": 1705372409,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122742,
+        "num": 122742,
+        "word": "女子40分钟一锅做出14道菜",
+        "onboard_time": 1705332990,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120370,
+        "num": 120370,
+        "word": "世界之外恋与深空 乙游大战",
+        "onboard_time": 1705372649,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116024,
+        "num": 116024,
+        "word": "家有儿女将开拍原班人马全员回归",
+        "onboard_time": 1705315291,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115302,
+        "num": 115302,
+        "word": "王鹤棣又戴了两个眼镜",
+        "onboard_time": 1705366052,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111116,
+        "num": 111116,
+        "word": "你还在等五月天假唱风波调查结果吗",
+        "onboard_time": 1705332689,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106738,
+        "num": 106738,
+        "word": "海口警方爆改文旅号",
+        "onboard_time": 1705370310,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106588,
+        "num": 106588,
+        "word": "民警帮找回4000元收到年轻人最高评价",
+        "onboard_time": 1705372887,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101699,
+        "num": 101699,
+        "word": "户口簿上再婚能否登记为已婚",
+        "onboard_time": 1705324773,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

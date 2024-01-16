@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705372297891,
+  "endTime": 1705372934902,
   "band_list": [
     {
       "raw_hot": 1825028,
@@ -19,16 +19,16 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1270369,
-      "num": 1270369,
+      "raw_hot": 1366274,
+      "num": 1366274,
       "word": "蜜雪冰城回应放弃瓶装水业务",
       "onboard_time": 1705368570,
       "rank": 18,
       "category": "美食"
     },
     {
-      "raw_hot": 1146890,
-      "num": 1146890,
+      "raw_hot": 1155411,
+      "num": 1155411,
       "word": "研究生为救人耽误考试",
       "onboard_time": 1705368809,
       "rank": 36,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 614239,
+      "num": 614239,
+      "word": "APP未经同意跳转广告涉嫌违法",
+      "onboard_time": 1705369829,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592195,
       "num": 446083,
       "word": "安心丈夫拒绝同房",
@@ -155,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 542917,
+      "num": 448990,
+      "word": "钢琴销量断崖式下滑",
+      "onboard_time": 1705371449,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537057,
       "num": 537057,
       "word": "肖战一年只休息半个月",
@@ -163,7 +179,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 522996,
+      "raw_hot": 530406,
       "num": 451998,
       "word": "刘浩存 吾家有女初长成",
       "onboard_time": 1705369409,
@@ -177,14 +193,6 @@
       "onboard_time": 1705328551,
       "rank": 1,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 429578,
-      "num": 429578,
-      "word": "APP未经同意跳转广告涉嫌违法",
-      "onboard_time": 1705369829,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 416621,
@@ -227,20 +235,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 378911,
+      "num": 378911,
+      "word": "一天喝几杯咖啡不会超量",
+      "onboard_time": 1705369110,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 375362,
       "num": 375362,
       "word": "苹果被欧盟要求3月7日前完成分拆AppStore",
       "onboard_time": 1705361665,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 372012,
-      "num": 372012,
-      "word": "一天喝几杯咖啡不会超量",
-      "onboard_time": 1705369110,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 339050,
@@ -283,19 +291,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 319146,
-      "num": 319146,
-      "word": "钢琴销量断崖式下滑",
-      "onboard_time": 1705371449,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317022,
       "num": 317022,
       "word": "三门峡小学幼儿园停课停学",
       "onboard_time": 1705349115,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309413,
+      "num": 309413,
+      "word": "萌兰也是听着果赖声长大的",
+      "onboard_time": 1705371268,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -339,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274532,
-      "num": 274532,
-      "word": "萌兰也是听着果赖声长大的",
-      "onboard_time": 1705371268,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263261,
       "num": 263261,
       "word": "张凌赫抽到孙阳送的金手串",
@@ -363,8 +363,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256249,
+      "num": 256249,
+      "word": "梅西因第一顺位票数多当选",
+      "onboard_time": 1705371690,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255864,
-      "num": 322897,
+      "num": 510831,
       "word": "喝牛奶闹肚的人有福了",
       "onboard_time": 1705371509,
       "rank": 18,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 216080,
-      "num": 191421,
+      "num": 202435,
       "word": "叔你别开了 我害怕",
       "onboard_time": 1705367969,
       "rank": 30,
@@ -459,20 +467,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 198840,
-      "num": 198840,
+      "raw_hot": 201797,
+      "num": 201797,
       "word": "国乒釜山世乒赛团体赛名单",
       "onboard_time": 1705371568,
       "rank": 25,
       "category": "体育"
     },
     {
-      "raw_hot": 196998,
-      "num": 196998,
-      "word": "梅西因第一顺位票数多当选",
-      "onboard_time": 1705371690,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 189250,
+      "num": 189250,
+      "word": "河南省考连续3年扩招",
+      "onboard_time": 1705371568,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 188479,
@@ -587,12 +595,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 153585,
-      "num": 153585,
-      "word": "河南省考连续3年扩招",
-      "onboard_time": 1705371568,
-      "rank": 36,
-      "category": "教育"
+      "raw_hot": 156243,
+      "num": 156243,
+      "word": "张雪峰公司再成立2家科技公司",
+      "onboard_time": 1705372468,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 148912,
@@ -601,6 +609,14 @@
       "onboard_time": 1705365450,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148891,
+      "num": 148891,
+      "word": "为什么名单没有陈幸同",
+      "onboard_time": 1705372168,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 146195,
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129184,
+      "num": 129184,
+      "word": "曝阿根廷将与国足交手",
+      "onboard_time": 1705372587,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127188,
       "num": 127188,
       "word": "欧文42分",
@@ -667,20 +691,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 123698,
+      "num": 123698,
+      "word": "一群消防员准备的生日有多惊喜",
+      "onboard_time": 1705372409,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120370,
+      "num": 120370,
+      "word": "世界之外恋与深空 乙游大战",
+      "onboard_time": 1705372649,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118878,
       "num": 118878,
       "word": "苹果官网大降价可退差价",
       "onboard_time": 1705316007,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 118317,
-      "num": 118317,
-      "word": "为什么名单没有陈幸同",
-      "onboard_time": 1705372168,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 117711,
@@ -737,6 +769,14 @@
       "onboard_time": 1705365931,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 106588,
+      "num": 106588,
+      "word": "民警帮找回4000元收到年轻人最高评价",
+      "onboard_time": 1705372887,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105793,
