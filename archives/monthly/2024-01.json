@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705418333453,
+  "endTime": 1705419268343,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -963,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1840632,
+      "num": 1814134,
+      "word": "华中农业大学学生实名举报导师学术造假",
+      "onboard_time": 1705411651,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1840163,
       "num": 1840163,
       "word": "韩媒嘲讽国足",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1705283788,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1814134,
-      "num": 1814134,
-      "word": "华中农业大学学生实名举报导师学术造假",
-      "onboard_time": 1705411651,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 1807604,
@@ -5467,6 +5467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 796318,
+      "num": 796318,
+      "word": "欧阳娣娣说我来自中国",
+      "onboard_time": 1705417891,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 796230,
       "num": 796230,
       "word": "陈楚生 新年第一次抢票",
@@ -6859,6 +6867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 698053,
+      "num": 698053,
+      "word": "10种嘌呤大户 高尿酸者少碰",
+      "onboard_time": 1705412791,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 698042,
       "num": 687354,
       "word": "11个王俊凯",
@@ -7857,14 +7873,6 @@
       "onboard_time": 1705051290,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 636160,
-      "num": 636160,
-      "word": "10种嘌呤大户 高尿酸者少碰",
-      "onboard_time": 1705412791,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 634599,
@@ -10475,6 +10483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514668,
+      "num": 514668,
+      "word": "华中农业大学回应",
+      "onboard_time": 1705417290,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 514447,
       "num": 514447,
       "word": "谢娜听到陈乔恩参加婚恋节目的反应",
@@ -12675,14 +12691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 430754,
-      "num": 430754,
-      "word": "华中农业大学回应",
-      "onboard_time": 1705417290,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 430651,
       "num": 330490,
       "word": "美国妈妈流行给婴儿舌头划一刀",
@@ -12833,14 +12841,6 @@
       "onboard_time": 1704360031,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 424447,
-      "num": 424447,
-      "word": "欧阳娣娣说我来自中国",
-      "onboard_time": 1705417891,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 424431,
@@ -15155,6 +15155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347400,
+      "num": 347400,
+      "word": "王一博公司与乐华无直接股权关联",
+      "onboard_time": 1705417352,
+      "rank": 18,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 347340,
       "num": 282644,
       "word": "男子离婚时拒养人工授精的儿子",
@@ -16153,6 +16161,14 @@
       "onboard_time": 1704948877,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 319041,
+      "num": 319041,
+      "word": "巴黎LV大秀",
+      "onboard_time": 1705418493,
+      "rank": 16,
+      "category": "时尚"
     },
     {
       "raw_hot": 318853,
@@ -17395,14 +17411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291961,
-      "num": 291961,
-      "word": "王一博公司与乐华无直接股权关联",
-      "onboard_time": 1705417352,
-      "rank": 18,
-      "category": "艺人,财经"
-    },
-    {
       "raw_hot": 291883,
       "num": 251018,
       "word": "张杰工作室辟谣",
@@ -18139,6 +18147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278185,
+      "num": 278185,
+      "word": "她的力气似乎很大 大到撑起了一个家",
+      "onboard_time": 1705417469,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278065,
       "num": 278065,
       "word": "孙颖莎3比0张本美和",
@@ -18633,6 +18649,14 @@
       "onboard_time": 1704449071,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 268572,
+      "num": 268572,
+      "word": "没了一块钱但获得一个亿",
+      "onboard_time": 1705416811,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 268255,
@@ -19897,14 +19921,6 @@
       "onboard_time": 1705316551,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248330,
-      "num": 248330,
-      "word": "没了一块钱但获得一个亿",
-      "onboard_time": 1705416811,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 248302,
@@ -22833,14 +22849,6 @@
       "onboard_time": 1704424952,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214250,
-      "num": 159525,
-      "word": "她的力气似乎很大 大到撑起了一个家",
-      "onboard_time": 1705417469,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 214231,
@@ -28571,6 +28579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175688,
+      "num": 175688,
+      "word": "对偶像祛魅",
+      "onboard_time": 1705415612,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175642,
       "num": 175642,
       "word": "原生家庭真能决定你的人生吗",
@@ -28657,14 +28673,6 @@
       "onboard_time": 1705057888,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 175207,
-      "num": 175207,
-      "word": "对偶像祛魅",
-      "onboard_time": 1705415612,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 175182,
@@ -29777,6 +29785,14 @@
       "onboard_time": 1704699448,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 168655,
+      "num": 168655,
+      "word": "小狗密谋",
+      "onboard_time": 1705417770,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 168615,
@@ -33555,6 +33571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145215,
+      "num": 145215,
+      "word": "龙币龙钞二次兑换开始",
+      "onboard_time": 1705417951,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 145173,
       "num": 145173,
       "word": "申PD写给seventeen的长文",
@@ -34219,6 +34243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141706,
+      "num": 141706,
+      "word": "苹果称VisionPro是终极娱乐设备",
+      "onboard_time": 1705418790,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 141678,
       "num": 141678,
       "word": "卢比奥退役",
@@ -34561,14 +34593,6 @@
       "onboard_time": 1704162762,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139669,
-      "num": 139669,
-      "word": "龙币龙钞二次兑换开始",
-      "onboard_time": 1705417951,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 139554,
@@ -35761,14 +35785,6 @@
       "onboard_time": 1704627991,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132743,
-      "num": 132743,
-      "word": "小狗密谋",
-      "onboard_time": 1705417770,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 132688,

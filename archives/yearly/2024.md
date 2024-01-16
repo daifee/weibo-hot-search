@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 23:18:53
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 23:34:28
 </p>
 </blockquote>
 <p>
@@ -735,6 +735,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%23" target="weibo">
+华中农业大学学生实名举报导师学术造假（热度：1840632）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E5%98%B2%E8%AE%BD%E5%9B%BD%E8%B6%B3%23" target="weibo">
 韩媒嘲讽国足（热度：1840163）
 </a>
@@ -761,12 +767,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%86%8D%E5%9B%9E%E5%BA%94%23" target="weibo">
 于正再回应（热度：1818197）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%23" target="weibo">
-华中农业大学学生实名举报导师学术造假（热度：1814134）
 </a>
 </li>
 

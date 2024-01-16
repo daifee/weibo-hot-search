@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705418333453,
+  "endTime": 1705419268343,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1840632,
+      "num": 1814134,
+      "word": "华中农业大学学生实名举报导师学术造假",
+      "onboard_time": 1705411651,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1840163,
       "num": 1840163,
       "word": "韩媒嘲讽国足",
@@ -177,14 +185,6 @@
       "onboard_time": 1705283788,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1814134,
-      "num": 1814134,
-      "word": "华中农业大学学生实名举报导师学术造假",
-      "onboard_time": 1705411651,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 1766864,
@@ -995,6 +995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 796318,
+      "num": 796318,
+      "word": "欧阳娣娣说我来自中国",
+      "onboard_time": 1705417891,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 789184,
       "num": 514704,
       "word": "李鸿其想与王紫璇结婚",
@@ -1227,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 698053,
+      "num": 698053,
+      "word": "10种嘌呤大户 高尿酸者少碰",
+      "onboard_time": 1705412791,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 695339,
       "num": 695339,
       "word": "王鹤棣抽到GAI送的十年SVIP",
@@ -1433,14 +1449,6 @@
       "onboard_time": 1705387588,
       "rank": 12,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 636160,
-      "num": 636160,
-      "word": "10种嘌呤大户 高尿酸者少碰",
-      "onboard_time": 1705412791,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 634599,
@@ -1923,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514668,
+      "num": 514668,
+      "word": "华中农业大学回应",
+      "onboard_time": 1705417290,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 510863,
       "num": 510863,
       "word": "佘诗曼获马来西亚最喜爱TVB女主角",
@@ -2299,14 +2315,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 430754,
-      "num": 430754,
-      "word": "华中农业大学回应",
-      "onboard_time": 1705417290,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 430433,
       "num": 273020,
       "word": "刘诗诗杨紫同台领奖",
@@ -2321,14 +2329,6 @@
       "onboard_time": 1705290571,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 424447,
-      "num": 424447,
-      "word": "欧阳娣娣说我来自中国",
-      "onboard_time": 1705417891,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 423364,
@@ -2779,6 +2779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 347400,
+      "num": 347400,
+      "word": "王一博公司与乐华无直接股权关联",
+      "onboard_time": 1705417352,
+      "rank": 18,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 343175,
       "num": 343175,
       "word": "武磊射门踢空",
@@ -2945,6 +2953,14 @@
       "onboard_time": 1705201111,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 319041,
+      "num": 319041,
+      "word": "巴黎LV大秀",
+      "onboard_time": 1705418493,
+      "rank": 16,
+      "category": "时尚"
     },
     {
       "raw_hot": 318553,
@@ -3195,14 +3211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 291961,
-      "num": 291961,
-      "word": "王一博公司与乐华无直接股权关联",
-      "onboard_time": 1705417352,
-      "rank": 18,
-      "category": "艺人,财经"
-    },
-    {
       "raw_hot": 291883,
       "num": 251018,
       "word": "张杰工作室辟谣",
@@ -3347,6 +3355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278185,
+      "num": 278185,
+      "word": "她的力气似乎很大 大到撑起了一个家",
+      "onboard_time": 1705417469,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277929,
       "num": 277929,
       "word": "宋茜丁禹兮 山河枕",
@@ -3465,6 +3481,14 @@
       "onboard_time": 1705195289,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268572,
+      "num": 268572,
+      "word": "没了一块钱但获得一个亿",
+      "onboard_time": 1705416811,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 267939,
@@ -3721,14 +3745,6 @@
       "onboard_time": 1705316551,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248330,
-      "num": 248330,
-      "word": "没了一块钱但获得一个亿",
-      "onboard_time": 1705416811,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 248274,
@@ -4313,14 +4329,6 @@
       "onboard_time": 1705304908,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214250,
-      "num": 159525,
-      "word": "她的力气似乎很大 大到撑起了一个家",
-      "onboard_time": 1705417469,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 214231,
@@ -5483,6 +5491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175688,
+      "num": 175688,
+      "word": "对偶像祛魅",
+      "onboard_time": 1705415612,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175627,
       "num": 175627,
       "word": "钟楚曦新剧演武媚娘",
@@ -5497,14 +5513,6 @@
       "onboard_time": 1705297649,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175207,
-      "num": 175207,
-      "word": "对偶像祛魅",
-      "onboard_time": 1705415612,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 174875,
@@ -5729,6 +5737,14 @@
       "onboard_time": 1705209871,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168655,
+      "num": 168655,
+      "word": "小狗密谋",
+      "onboard_time": 1705417770,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 168575,
@@ -6443,6 +6459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145215,
+      "num": 145215,
+      "word": "龙币龙钞二次兑换开始",
+      "onboard_time": 1705417951,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 144889,
       "num": 144889,
       "word": "林子善获TVB最佳男配角",
@@ -6603,6 +6627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141706,
+      "num": 141706,
+      "word": "苹果称VisionPro是终极娱乐设备",
+      "onboard_time": 1705418790,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 141472,
       "num": 141472,
       "word": "XYG 不挂牌",
@@ -6681,14 +6713,6 @@
       "onboard_time": 1705310130,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139669,
-      "num": 139669,
-      "word": "龙币龙钞二次兑换开始",
-      "onboard_time": 1705417951,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 139554,
@@ -6969,14 +6993,6 @@
       "onboard_time": 1705299209,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132743,
-      "num": 132743,
-      "word": "小狗密谋",
-      "onboard_time": 1705417770,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 132596,
