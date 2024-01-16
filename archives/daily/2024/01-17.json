@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705430158350,
+  "endTime": 1705432502601,
   "band_list": [
     {
       "raw_hot": 1203088,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78837,
+      "num": 26156,
+      "word": "特朗普称我要回来了",
+      "onboard_time": 1705428858,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 74227,
       "num": 74227,
       "word": "小时候那批被打压式教育的人当爸妈了",
@@ -435,14 +443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 34357,
-      "num": 26156,
-      "word": "特朗普称我要回来了",
-      "onboard_time": 1705428858,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 32557,
       "num": 32557,
       "word": "有这些感觉请立刻休息",
@@ -457,6 +457,22 @@
       "onboard_time": 1705410872,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31179,
+      "num": 31179,
+      "word": "梁洛施首度回应过往称不后悔",
+      "onboard_time": 1705430955,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17958,
+      "num": 17958,
+      "word": "大学生help大学生",
+      "onboard_time": 1705431315,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 15390,

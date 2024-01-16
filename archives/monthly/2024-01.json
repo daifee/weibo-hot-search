@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705430158350,
+  "endTime": 1705432502601,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -41555,6 +41555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78837,
+      "num": 26156,
+      "word": "特朗普称我要回来了",
+      "onboard_time": 1705428858,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 78522,
       "num": 78522,
       "word": "陈楚生 糊没事有彦斌",
@@ -43451,14 +43459,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 34357,
-      "num": 26156,
-      "word": "特朗普称我要回来了",
-      "onboard_time": 1705428858,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 34352,
       "num": 34352,
       "word": "养成这8个习惯或降低患癌风险",
@@ -43609,6 +43609,14 @@
       "onboard_time": 1704253291,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 31179,
+      "num": 31179,
+      "word": "梁洛施首度回应过往称不后悔",
+      "onboard_time": 1705430955,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 30553,
@@ -44001,6 +44009,14 @@
       "onboard_time": 1704771212,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17958,
+      "num": 17958,
+      "word": "大学生help大学生",
+      "onboard_time": 1705431315,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 17356,
