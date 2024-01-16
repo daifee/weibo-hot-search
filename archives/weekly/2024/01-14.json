@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705361678829,
+  "endTime": 1705367822641,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1825028,
+      "num": 1825028,
+      "word": "女子与小伙裸聊后发截图命令对方网贷",
+      "onboard_time": 1705361723,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1818197,
       "num": 1279754,
       "word": "于正再回应",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 1438103,
-      "num": 593510,
+      "num": 607652,
       "word": "经期5个表现说明子宫很健康",
       "onboard_time": 1705325251,
       "rank": 30,
@@ -209,6 +217,14 @@
       "onboard_time": 1705284148,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1427973,
+      "num": 557658,
+      "word": "朝鲜废除祖国和平统一委员会",
+      "onboard_time": 1705361723,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1399685,
@@ -353,6 +369,14 @@
       "onboard_time": 1705302629,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1141183,
+      "num": 1141183,
+      "word": "每周吃5个鸡蛋糖尿病高血压风险降低",
+      "onboard_time": 1705363828,
+      "rank": 1,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1140745,
@@ -843,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711422,
+      "num": 711422,
+      "word": "网友开始自制欢宜香了",
+      "onboard_time": 1705360701,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 711365,
       "num": 711365,
       "word": "春晚彩排明星",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1705227151,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 644236,
+      "num": 644236,
+      "word": "韩剧请和我的老公结婚",
+      "onboard_time": 1705365512,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 641320,
@@ -1219,12 +1259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571774,
+      "num": 571774,
+      "word": "游本昌为了好剧本卖房",
+      "onboard_time": 1705366711,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 566361,
       "num": 566361,
       "word": "发年终奖前离职还能拿年终奖吗",
       "onboard_time": 1705194211,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565424,
+      "num": 565424,
+      "word": "2架波音飞机在美国芝加哥机场相撞",
+      "onboard_time": 1705364368,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 564459,
@@ -1299,6 +1355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 547724,
+      "num": 547724,
+      "word": "姥姥姥爷不上春晚可惜了",
+      "onboard_time": 1705360640,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 543269,
       "num": 543269,
       "word": "GAI求助怎么给王鹤棣充会员",
@@ -1371,6 +1435,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 505397,
+      "num": 505397,
+      "word": "谭爷爷带花花看萌兰",
+      "onboard_time": 1705366891,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504257,
       "num": 364777,
       "word": "生个娃养到3岁20万够吗",
@@ -1441,6 +1513,14 @@
       "onboard_time": 1705294715,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 479778,
+      "num": 479778,
+      "word": "肖战一年只休息半个月",
+      "onboard_time": 1705366110,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 478136,
@@ -1803,6 +1883,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 394282,
+      "num": 394282,
+      "word": "年轻人入行装修月入4万",
+      "onboard_time": 1705363886,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393827,
       "num": 393827,
       "word": "在钢琴旁笑了9年的人是谁",
@@ -1897,6 +1985,14 @@
       "onboard_time": 1705287873,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375362,
+      "num": 375362,
+      "word": "苹果被欧盟要求3月7日前完成分拆AppStore",
+      "onboard_time": 1705361665,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 373479,
@@ -2252,7 +2348,7 @@
     },
     {
       "raw_hot": 294115,
-      "num": 158849,
+      "num": 209893,
       "word": "你还在等五月天假唱风波调查结果吗",
       "onboard_time": 1705332689,
       "rank": 35,
@@ -2289,6 +2385,14 @@
       "onboard_time": 1705331310,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 288277,
+      "num": 288277,
+      "word": "章若楠眼中的美女是辛芷蕾",
+      "onboard_time": 1705363109,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287829,
@@ -2464,6 +2568,14 @@
       "word": "虞书欣台下吃零食",
       "onboard_time": 1705283609,
       "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263261,
+      "num": 263261,
+      "word": "张凌赫抽到孙阳送的金手串",
+      "onboard_time": 1705362324,
+      "rank": 19,
       "category": "作品衍生"
     },
     {
@@ -2707,6 +2819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237490,
+      "num": 237490,
+      "word": "外卖小哥回应3年挣百万质疑",
+      "onboard_time": 1705366352,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236988,
       "num": 236988,
       "word": "网友吐槽婆婆一定要我生二胎",
@@ -2849,6 +2969,14 @@
       "onboard_time": 1705243834,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226541,
+      "num": 226541,
+      "word": "浙江一语文老师板书走红",
+      "onboard_time": 1705361965,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225846,
@@ -3211,6 +3339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202086,
+      "num": 202086,
+      "word": "王鹤棣又戴了两个眼镜",
+      "onboard_time": 1705366052,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201304,
       "num": 201304,
       "word": "刘宇宁盘串",
@@ -3323,14 +3459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192976,
-      "num": 79396,
-      "word": "姥姥姥爷不上春晚可惜了",
-      "onboard_time": 1705360640,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191746,
       "num": 191746,
       "word": "小金毛一不小心吃上了自助餐",
@@ -3441,6 +3569,14 @@
       "onboard_time": 1705326212,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188479,
+      "num": 188479,
+      "word": "漯河拿真百万汗血宝马载公主回家",
+      "onboard_time": 1705366711,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188469,
@@ -3723,6 +3859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177308,
+      "num": 177308,
+      "word": "美国国防部长奥斯汀出院",
+      "onboard_time": 1705363287,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 176927,
       "num": 195460,
       "word": "当前外卖骑手数量达1300万人",
@@ -3841,6 +3985,14 @@
       "onboard_time": 1705205669,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172652,
+      "num": 172652,
+      "word": "当你养了一只牧羊犬但家里没有羊时",
+      "onboard_time": 1705362445,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 171832,
@@ -3971,6 +4123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166100,
+      "num": 166100,
+      "word": "民警3小时调解纠纷女子送6锦旗",
+      "onboard_time": 1705367131,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166017,
       "num": 166017,
       "word": "假装导员给闺蜜的弟弟打电话",
@@ -4057,6 +4217,14 @@
       "onboard_time": 1705274303,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160442,
+      "num": 160442,
+      "word": "王鹤棣猜GAI送的是银行卡",
+      "onboard_time": 1705365812,
+      "rank": 32,
+      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 159628,
@@ -4171,6 +4339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152671,
+      "num": 152671,
+      "word": "小伙成50个鄂伦春老人共享孙子",
+      "onboard_time": 1705367790,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152512,
       "num": 152512,
       "word": "安心失去双腿后的平静",
@@ -4193,14 +4369,6 @@
       "onboard_time": 1705326154,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151592,
-      "num": 151592,
-      "word": "网友开始自制欢宜香了",
-      "onboard_time": 1705360701,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 151590,
@@ -4265,6 +4433,14 @@
       "onboard_time": 1705306949,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148912,
+      "num": 148912,
+      "word": "你好种地少年",
+      "onboard_time": 1705365450,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 146184,
@@ -4571,6 +4747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137498,
+      "num": 137498,
+      "word": "河南省考公告",
+      "onboard_time": 1705367608,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 137089,
       "num": 137089,
       "word": "恋与深空",
@@ -4593,6 +4777,14 @@
       "onboard_time": 1705217669,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 136897,
+      "num": 136897,
+      "word": "吹风机把小狗的嘴吹成TypeC",
+      "onboard_time": 1705361965,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 136604,
@@ -4731,6 +4923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130160,
+      "num": 130160,
+      "word": "陈泽深夜破防",
+      "onboard_time": 1705363950,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129944,
       "num": 129944,
       "word": "猫猫meme",
@@ -4771,6 +4971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127188,
+      "num": 127188,
+      "word": "欧文42分",
+      "onboard_time": 1705366171,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126929,
       "num": 126929,
       "word": "胶囊不能用热水送服",
@@ -4785,6 +4993,14 @@
       "onboard_time": 1705219590,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126563,
+      "num": 126563,
+      "word": "小学真正拉开差距的是这3件事",
+      "onboard_time": 1705367790,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 126198,
@@ -4987,6 +5203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117352,
+      "num": 117352,
+      "word": "壶鱼辣椒 不认识戏子祭酒",
+      "onboard_time": 1705361784,
+      "rank": 46,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 116807,
       "num": 116807,
       "word": "千与千寻AI版",
@@ -5065,6 +5289,22 @@
       "onboard_time": 1705236211,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112157,
+      "num": 112157,
+      "word": "王源最近一次哭是几天前",
+      "onboard_time": 1705363350,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111223,
+      "num": 111223,
+      "word": "小伙冰雪大世界救人身份不一般",
+      "onboard_time": 1705365931,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 110972,
@@ -5705,14 +5945,6 @@
       "onboard_time": 1705153665,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47716,
-      "num": 47716,
-      "word": "苹果被欧盟要求3月7日前完成分拆AppStore",
-      "onboard_time": 1705361665,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 45927,

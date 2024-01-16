@@ -1,0 +1,410 @@
+{
+  "runTime": 1705367822641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1825028,
+        "num": 1825028,
+        "word": "女子与小伙裸聊后发截图命令对方网贷",
+        "onboard_time": 1705361723,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1141183,
+        "num": 1141183,
+        "word": "每周吃5个鸡蛋糖尿病高血压风险降低",
+        "onboard_time": 1705363828,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54526,
+        "num": 792279,
+        "word": "空军红鹰飞行表演队最新训练大片",
+        "onboard_time": 1705324293,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 711422,
+        "num": 711422,
+        "word": "网友开始自制欢宜香了",
+        "onboard_time": 1705360701,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 644236,
+        "num": 644236,
+        "word": "韩剧请和我的老公结婚",
+        "onboard_time": 1705365512,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607652,
+        "num": 607652,
+        "word": "经期5个表现说明子宫很健康",
+        "onboard_time": 1705325251,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 571774,
+        "num": 571774,
+        "word": "游本昌为了好剧本卖房",
+        "onboard_time": 1705366711,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565424,
+        "num": 565424,
+        "word": "2架波音飞机在美国芝加哥机场相撞",
+        "onboard_time": 1705364368,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1427973,
+        "num": 557658,
+        "word": "朝鲜废除祖国和平统一委员会",
+        "onboard_time": 1705361723,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 547724,
+        "num": 547724,
+        "word": "姥姥姥爷不上春晚可惜了",
+        "onboard_time": 1705360640,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 505397,
+        "num": 505397,
+        "word": "谭爷爷带花花看萌兰",
+        "onboard_time": 1705366891,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479778,
+        "num": 479778,
+        "word": "肖战一年只休息半个月",
+        "onboard_time": 1705366110,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444829,
+        "num": 444829,
+        "word": "安心丈夫拒绝同房",
+        "onboard_time": 1705331611,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421278,
+        "num": 421278,
+        "word": "户口簿上再婚能否登记为已婚",
+        "onboard_time": 1705324773,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394282,
+        "num": 394282,
+        "word": "年轻人入行装修月入4万",
+        "onboard_time": 1705363886,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375362,
+        "num": 375362,
+        "word": "苹果被欧盟要求3月7日前完成分拆AppStore",
+        "onboard_time": 1705361665,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 372514,
+        "num": 372514,
+        "word": "家有儿女将开拍原班人马全员回归",
+        "onboard_time": 1705315291,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312326,
+        "num": 312326,
+        "word": "168元火锅套餐生菜只有1片叶子",
+        "onboard_time": 1705338321,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288277,
+        "num": 288277,
+        "word": "章若楠眼中的美女是辛芷蕾",
+        "onboard_time": 1705363109,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263261,
+        "num": 263261,
+        "word": "张凌赫抽到孙阳送的金手串",
+        "onboard_time": 1705362324,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240532,
+        "num": 240532,
+        "word": "周震南父亲公司被强执44万",
+        "onboard_time": 1705350014,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237490,
+        "num": 237490,
+        "word": "外卖小哥回应3年挣百万质疑",
+        "onboard_time": 1705366352,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231239,
+        "num": 231239,
+        "word": "夫妻不熟的聊天记录",
+        "onboard_time": 1705322909,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226541,
+        "num": 226541,
+        "word": "浙江一语文老师板书走红",
+        "onboard_time": 1705361965,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209893,
+        "num": 209893,
+        "word": "你还在等五月天假唱风波调查结果吗",
+        "onboard_time": 1705332689,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202086,
+        "num": 202086,
+        "word": "王鹤棣又戴了两个眼镜",
+        "onboard_time": 1705366052,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188479,
+        "num": 188479,
+        "word": "漯河拿真百万汗血宝马载公主回家",
+        "onboard_time": 1705366711,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186673,
+        "num": 186673,
+        "word": "女子40分钟一锅做出14道菜",
+        "onboard_time": 1705332990,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177308,
+        "num": 177308,
+        "word": "美国国防部长奥斯汀出院",
+        "onboard_time": 1705363287,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172652,
+        "num": 172652,
+        "word": "当你养了一只牧羊犬但家里没有羊时",
+        "onboard_time": 1705362445,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166100,
+        "num": 166100,
+        "word": "民警3小时调解纠纷女子送6锦旗",
+        "onboard_time": 1705367131,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160799,
+        "num": 160799,
+        "word": "花花一天被粉丝盘包浆",
+        "onboard_time": 1705325791,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160442,
+        "num": 160442,
+        "word": "王鹤棣猜GAI送的是银行卡",
+        "onboard_time": 1705365812,
+        "rank": 32,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 152671,
+        "num": 152671,
+        "word": "小伙成50个鄂伦春老人共享孙子",
+        "onboard_time": 1705367790,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151388,
+        "num": 151388,
+        "word": "杨幂绿戒指红美甲",
+        "onboard_time": 1705324954,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148912,
+        "num": 148912,
+        "word": "你好种地少年",
+        "onboard_time": 1705365450,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139167,
+        "num": 139167,
+        "word": "千万不要对抑郁症朋友说",
+        "onboard_time": 1705319911,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138170,
+        "num": 138170,
+        "word": "梅西蝉联世界足球先生",
+        "onboard_time": 1705360160,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137498,
+        "num": 137498,
+        "word": "河南省考公告",
+        "onboard_time": 1705367608,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136897,
+        "num": 136897,
+        "word": "吹风机把小狗的嘴吹成TypeC",
+        "onboard_time": 1705361965,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130160,
+        "num": 130160,
+        "word": "陈泽深夜破防",
+        "onboard_time": 1705363950,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127188,
+        "num": 127188,
+        "word": "欧文42分",
+        "onboard_time": 1705366171,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126563,
+        "num": 126563,
+        "word": "小学真正拉开差距的是这3件事",
+        "onboard_time": 1705367790,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124968,
+        "num": 124968,
+        "word": "族谱上烈士无后四个字泪目了",
+        "onboard_time": 1705359678,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123413,
+        "num": 123413,
+        "word": "周笔畅 第二名离第一就差一口气",
+        "onboard_time": 1705331669,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119424,
+        "num": 119424,
+        "word": "龙茅价格腰斩至3000元",
+        "onboard_time": 1705334069,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117352,
+        "num": 117352,
+        "word": "壶鱼辣椒 不认识戏子祭酒",
+        "onboard_time": 1705361784,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 112157,
+        "num": 112157,
+        "word": "王源最近一次哭是几天前",
+        "onboard_time": 1705363350,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112019,
+        "num": 112019,
+        "word": "举报县委书记被逮捕的河北老干部回家",
+        "onboard_time": 1705328974,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111223,
+        "num": 111223,
+        "word": "小伙冰雪大世界救人身份不一般",
+        "onboard_time": 1705365931,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
