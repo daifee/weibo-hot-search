@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705425383612,
+  "endTime": 1705426488081,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -8553,6 +8553,14 @@
       "onboard_time": 1705173916,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37890,
+      "num": 37890,
+      "word": "抑郁症患者可能并不需要鼓励",
+      "onboard_time": 1705426097,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 37088,
