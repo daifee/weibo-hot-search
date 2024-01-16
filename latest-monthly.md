@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 12:21:46
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 12:35:42
 </p>
 </blockquote>
 <p>
@@ -627,6 +627,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%83%AB%E4%B8%8D%E6%AD%BB%E5%BF%83%20%E7%83%AB%E4%BA%86%E6%83%B3%E6%AD%BB%E7%9A%84%E5%BF%83%23" target="weibo">
+不烫不死心 烫了想死的心（热度：1916476）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%B2%A1%E7%A9%BF%E7%A4%BC%E6%9C%8D%23" target="weibo">
 金晨没穿礼服（热度：1912631）
 </a>
@@ -761,12 +767,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%9C%B0%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%23" target="weibo">
 日本一地火山喷发（热度：1792783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%83%AB%E4%B8%8D%E6%AD%BB%E5%BF%83%20%E7%83%AB%E4%BA%86%E6%83%B3%E6%AD%BB%E7%9A%84%E5%BF%83%23" target="weibo">
-不烫不死心 烫了想死的心（热度：1792679）
 </a>
 </li>
 
@@ -1895,6 +1895,12 @@ A先生 胡歌的脸（热度：1234335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%94%A8%E5%A9%B4%E5%84%BF%E8%BD%A6%E6%8E%A8%E9%83%AD%E7%A2%A7%E5%A9%B7%23" target="weibo">
 向佐用婴儿车推郭碧婷（热度：1212992）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%E8%BF%9180%25%23" target="weibo">
+乐华股价暴跌近80%（热度：1212149）
 </a>
 </li>
 
@@ -3087,6 +3093,12 @@ papi酱 永远不知道同事到底叫什么（热度：951321）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AE%A9%E5%91%98%E5%B7%A5%E8%BF%87%E5%B9%B4%E5%88%AB%E7%BB%99%E5%AD%A9%E5%AD%90%E7%BA%A2%E5%8C%85%23" target="weibo">
+张雪峰让员工过年别给孩子红包（热度：932446）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%86%E4%BA%AB%E8%87%AA%E5%B7%B17%E6%97%AC%E7%88%B7%E7%88%B7%E8%80%81%E6%9D%A5%E5%BE%97%E5%AD%90%23" target="weibo">
 女子分享自己7旬爷爷老来得子（热度：929565）
 </a>
@@ -4235,12 +4247,6 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E4%BD%A0%E5%BF%AB%E6%8A%8A%E7%9C%BC%E9%95%9C%E6%91%98%E4%BA%86%E5%90%A7%23" target="weibo">
 黄景瑜你快把眼镜摘了吧（热度：759702）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AE%A9%E5%91%98%E5%B7%A5%E8%BF%87%E5%B9%B4%E5%88%AB%E7%BB%99%E5%AD%A9%E5%AD%90%E7%BA%A2%E5%8C%85%23" target="weibo">
-张雪峰让员工过年别给孩子红包（热度：759599）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GAI 五年后再给王鹤棣续SVIP（热度：690915）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E4%B8%80%E5%8F%A5%E5%BF%98%E5%B9%B4%E4%BA%A4%E6%AF%81%E4%BA%86%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%A4%9A%E5%B0%91%E6%B8%A9%E6%9F%94%23" target="weibo">
 赵昭仪一句忘年交毁了辛芷蕾多少温柔（热度：610864）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%9C%B2%E5%8F%AF%E9%80%83%E5%9D%90%E4%B8%80%E8%B5%B7%E4%BA%86%23" target="weibo">
-吴露可逃坐一起了（热度：610431）
 </a>
 </li>
 

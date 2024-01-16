@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705378906375,
+  "endTime": 1705379742637,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -819,6 +819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1916476,
+      "num": 1916476,
+      "word": "不烫不死心 烫了想死的心",
+      "onboard_time": 1705375769,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1912631,
       "num": 1912631,
       "word": "金晨没穿礼服",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1704100537,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1792679,
-      "num": 1792679,
-      "word": "不烫不死心 烫了想死的心",
-      "onboard_time": 1705375769,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 1791349,
