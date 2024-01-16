@@ -1,0 +1,410 @@
+{
+  "runTime": 1705387019378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1398530,
+        "num": 1398530,
+        "word": "辛芷蕾 今年我就是个笑话",
+        "onboard_time": 1705382552,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 944430,
+        "num": 944430,
+        "word": "俞敏洪建议一周放假两天半到三天",
+        "onboard_time": 1705381890,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50983,
+        "num": 866732,
+        "word": "总台驻瑙鲁亚伦报道点成立",
+        "onboard_time": 1705377689,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853523,
+        "num": 853523,
+        "word": "男子梦到家中有黄金挖40米深洞后摔死",
+        "onboard_time": 1705380392,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825597,
+        "num": 825597,
+        "word": "难哄阵容",
+        "onboard_time": 1705383450,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 772833,
+        "num": 772833,
+        "word": "乐华股价暴跌近80%",
+        "onboard_time": 1705378410,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563772,
+        "num": 563772,
+        "word": "惠英红抽中杨紫拼的乐高",
+        "onboard_time": 1705385788,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 561662,
+        "num": 561662,
+        "word": "女子酒店产子后遗弃被判故意杀人罪",
+        "onboard_time": 1705378713,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514196,
+        "num": 514196,
+        "word": "肉夹馍店因生意太好被举报关店",
+        "onboard_time": 1705383690,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514059,
+        "num": 514059,
+        "word": "蜂鸟删博",
+        "onboard_time": 1705381113,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 399538,
+        "num": 399538,
+        "word": "微博之夜明星互送礼物名单",
+        "onboard_time": 1705385429,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367885,
+        "num": 367885,
+        "word": "不烫不死心 烫了想死的心",
+        "onboard_time": 1705375769,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356701,
+        "num": 356701,
+        "word": "一载中国游客大巴在泰国翻车",
+        "onboard_time": 1705385908,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336750,
+        "num": 336750,
+        "word": "易烊千玺写龙",
+        "onboard_time": 1705381593,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326370,
+        "num": 326370,
+        "word": "中央大街的铁柱子都被包起来了",
+        "onboard_time": 1705379913,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323369,
+        "num": 323369,
+        "word": "苹果夺2023年全球智能手机市场第一",
+        "onboard_time": 1705382790,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 318401,
+        "num": 318401,
+        "word": "东方甄选主播天权提前复出引争议",
+        "onboard_time": 1705384651,
+        "rank": 16,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 305253,
+        "num": 305253,
+        "word": "网友开始自制欢宜香了",
+        "onboard_time": 1705360701,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291084,
+        "num": 291084,
+        "word": "专家喊话A股被严重低估",
+        "onboard_time": 1705381353,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 288074,
+        "num": 288074,
+        "word": "阿勒泰多处雪崩上千人滞留",
+        "onboard_time": 1705384111,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1199622,
+        "num": 286058,
+        "word": "儿子谎称睾丸破裂骗摆摊父亲30万",
+        "onboard_time": 1705382552,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363941,
+        "num": 284042,
+        "word": "网红用饮料做尿检后当医生面喝下",
+        "onboard_time": 1705381353,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324941,
+        "num": 283859,
+        "word": "卖壁纸轻松月入10万",
+        "onboard_time": 1705385788,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280442,
+        "num": 280442,
+        "word": "九尾 LGD",
+        "onboard_time": 1705383450,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278516,
+        "num": 278516,
+        "word": "恋与深空洗澡卡",
+        "onboard_time": 1705384952,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200311,
+        "num": 200311,
+        "word": "钢琴销量断崖式下滑",
+        "onboard_time": 1705371449,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196126,
+        "num": 196126,
+        "word": "风骚律师 53提0中",
+        "onboard_time": 1705385488,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191714,
+        "num": 191714,
+        "word": "久咳不愈竟因马桶下面的黑色霉菌",
+        "onboard_time": 1705379072,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190604,
+        "num": 190604,
+        "word": "江宁婆婆给文旅局长们的建议",
+        "onboard_time": 1705381113,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 180636,
+        "num": 180636,
+        "word": "经期5个表现说明子宫很健康",
+        "onboard_time": 1705325251,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 322733,
+        "num": 180384,
+        "word": "韩国主帅拒绝跟马宁握手",
+        "onboard_time": 1705385551,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179935,
+        "num": 179935,
+        "word": "乐华曾近六成营收来自王一博",
+        "onboard_time": 1705384411,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177595,
+        "num": 177595,
+        "word": "辛芷蕾说王安宇变油腻了",
+        "onboard_time": 1705384051,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176156,
+        "num": 176156,
+        "word": "丞磊抽到了张小斐送的刮刮乐",
+        "onboard_time": 1705381293,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171742,
+        "num": 171742,
+        "word": "洗个澡吹个毛还emo上了",
+        "onboard_time": 1705373488,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154842,
+        "num": 154842,
+        "word": "花花和萌兰见面了",
+        "onboard_time": 1705368570,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150219,
+        "num": 150219,
+        "word": "张雪峰让员工过年别给孩子红包",
+        "onboard_time": 1705376910,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148320,
+        "num": 148320,
+        "word": "湖人战胜雷霆",
+        "onboard_time": 1705384952,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144581,
+        "num": 144581,
+        "word": "尔滨开始为下个冬天存冰了",
+        "onboard_time": 1705384351,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135108,
+        "num": 135108,
+        "word": "研究生为救人耽误考试",
+        "onboard_time": 1705368809,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128967,
+        "num": 128967,
+        "word": "王者败方激励新机制探讨",
+        "onboard_time": 1705381053,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126327,
+        "num": 126327,
+        "word": "当我三岁的女儿第一次去纽约",
+        "onboard_time": 1705380931,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 122358,
+        "num": 122358,
+        "word": "辛芷蕾安利家乡鹤岗",
+        "onboard_time": 1705386752,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117321,
+        "num": 117321,
+        "word": "澳网",
+        "onboard_time": 1705386210,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115321,
+        "num": 115321,
+        "word": "凹进去这块地方能做什么",
+        "onboard_time": 1705383991,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114101,
+        "num": 114101,
+        "word": "游本昌为了好剧本卖房",
+        "onboard_time": 1705366711,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108436,
+        "num": 111681,
+        "word": "滞留禾木村游客现状",
+        "onboard_time": 1705385608,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110302,
+        "num": 110302,
+        "word": "山东一村子因蟠龙老井走红",
+        "onboard_time": 1705386693,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107150,
+        "num": 107150,
+        "word": "刘浩存 吾家有女初长成",
+        "onboard_time": 1705369409,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101543,
+        "num": 101543,
+        "word": "拉塞尔胃病",
+        "onboard_time": 1705386453,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

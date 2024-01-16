@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705386221124,
+  "endTime": 1705387019378,
   "band_list": [
     {
       "raw_hot": 1916476,
@@ -107,19 +107,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 944430,
+      "num": 944430,
+      "word": "俞敏洪建议一周放假两天半到三天",
+      "onboard_time": 1705381890,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 932446,
       "num": 932446,
       "word": "张雪峰让员工过年别给孩子红包",
       "onboard_time": 1705376910,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 852029,
-      "num": 852029,
-      "word": "俞敏洪建议一周放假两天半到三天",
-      "onboard_time": 1705381890,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -259,6 +259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 563772,
+      "num": 563772,
+      "word": "惠英红抽中杨紫拼的乐高",
+      "onboard_time": 1705385788,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 557759,
       "num": 557759,
       "word": "女子40分钟一锅做出14道菜",
@@ -307,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 514196,
+      "num": 514196,
+      "word": "肉夹馍店因生意太好被举报关店",
+      "onboard_time": 1705383690,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477354,
       "num": 477354,
       "word": "原来护发素这么有用",
@@ -331,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 460989,
-      "num": 460989,
-      "word": "肉夹馍店因生意太好被举报关店",
-      "onboard_time": 1705383690,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 419662,
       "num": 298108,
       "word": "久咳不愈竟因马桶下面的黑色霉菌",
@@ -360,6 +368,14 @@
       "word": "田曦薇抽到十个勤天送的面粉",
       "onboard_time": 1705381953,
       "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 399538,
+      "num": 399538,
+      "word": "微博之夜明星互送礼物名单",
+      "onboard_time": 1705385429,
+      "rank": 19,
       "category": "作品衍生"
     },
     {
@@ -395,14 +411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 391213,
-      "num": 391213,
-      "word": "惠英红抽中杨紫拼的乐高",
-      "onboard_time": 1705385788,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 378911,
       "num": 378911,
       "word": "一天喝几杯咖啡不会超量",
@@ -425,6 +433,14 @@
       "onboard_time": 1705371690,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356701,
+      "num": 356701,
+      "word": "一载中国游客大巴在泰国翻车",
+      "onboard_time": 1705385908,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339050,
@@ -467,12 +483,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324941,
+      "num": 283859,
+      "word": "卖壁纸轻松月入10万",
+      "onboard_time": 1705385788,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323369,
+      "num": 323369,
+      "word": "苹果夺2023年全球智能手机市场第一",
+      "onboard_time": 1705382790,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 323203,
       "num": 323203,
       "word": "九尾 LGD",
       "onboard_time": 1705383450,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 322733,
+      "num": 186013,
+      "word": "韩国主帅拒绝跟马宁握手",
+      "onboard_time": 1705385551,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 320836,
@@ -483,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319185,
-      "num": 319185,
-      "word": "苹果夺2023年全球智能手机市场第一",
-      "onboard_time": 1705382790,
-      "rank": 34,
-      "category": "数码"
+      "raw_hot": 318401,
+      "num": 318401,
+      "word": "东方甄选主播天权提前复出引争议",
+      "onboard_time": 1705384651,
+      "rank": 17,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 317022,
@@ -531,14 +571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 294289,
-      "num": 294289,
-      "word": "东方甄选主播天权提前复出引争议",
-      "onboard_time": 1705384651,
-      "rank": 17,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 294196,
       "num": 294196,
       "word": "公司罚你50 你玩命追公交",
@@ -563,8 +595,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 291084,
+      "num": 291084,
+      "word": "专家喊话A股被严重低估",
+      "onboard_time": 1705381353,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 288309,
-      "num": 263650,
+      "num": 278516,
       "word": "恋与深空洗澡卡",
       "onboard_time": 1705384952,
       "rank": 22,
@@ -579,28 +619,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 287820,
-      "num": 287820,
-      "word": "专家喊话A股被严重低估",
-      "onboard_time": 1705381353,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 283562,
       "num": 283562,
       "word": "谭爷爷想问萌兰你还记得我吗",
       "onboard_time": 1705368388,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282067,
-      "num": 282067,
-      "word": "微博之夜明星互送礼物名单",
-      "onboard_time": 1705385429,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 275789,
@@ -763,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216637,
-      "num": 186433,
-      "word": "卖壁纸轻松月入10万",
-      "onboard_time": 1705385788,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216536,
       "num": 216536,
       "word": "张艺兴还是对呱呱舞下手了",
@@ -825,14 +841,6 @@
       "onboard_time": 1705375170,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 208914,
-      "num": 186013,
-      "word": "韩国主帅拒绝跟马宁握手",
-      "onboard_time": 1705385551,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 207194,
@@ -899,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196126,
+      "num": 196126,
+      "word": "风骚律师 53提0中",
+      "onboard_time": 1705385488,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195011,
       "num": 195011,
       "word": "世界之外恋与深空 乙游大战",
@@ -907,28 +923,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194394,
-      "num": 194394,
-      "word": "风骚律师 53提0中",
-      "onboard_time": 1705385488,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190628,
       "num": 190628,
       "word": "19层今日开播",
       "onboard_time": 1705379133,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189950,
-      "num": 183192,
-      "word": "一载中国游客大巴在泰国翻车",
-      "onboard_time": 1705385908,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189250,
@@ -1195,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144581,
+      "num": 144581,
+      "word": "尔滨开始为下个冬天存冰了",
+      "onboard_time": 1705384351,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143893,
       "num": 143893,
       "word": "族谱上烈士无后四个字泪目了",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1705383991,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137776,
-      "num": 137776,
-      "word": "尔滨开始为下个冬天存冰了",
-      "onboard_time": 1705384351,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136897,
@@ -1291,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122358,
+      "num": 122358,
+      "word": "辛芷蕾安利家乡鹤岗",
+      "onboard_time": 1705386752,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119405,
       "num": 119405,
       "word": "熊家餐馆横扫艾美奖",
@@ -1339,6 +1347,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 117321,
+      "num": 117321,
+      "word": "澳网",
+      "onboard_time": 1705386210,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116420,
       "num": 116420,
       "word": "皇额娘推了熹娘娘原来是这个推",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1705379735,
       "rank": 49,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 115331,
-      "num": 115331,
-      "word": "澳网",
-      "onboard_time": 1705386210,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 112157,
@@ -1395,6 +1403,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 110302,
+      "num": 110302,
+      "word": "山东一村子因蟠龙老井走红",
+      "onboard_time": 1705386693,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109016,
       "num": 116708,
       "word": "滞留禾木村游客现状",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1705334248,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101543,
+      "num": 101543,
+      "word": "拉塞尔胃病",
+      "onboard_time": 1705386453,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95591,
