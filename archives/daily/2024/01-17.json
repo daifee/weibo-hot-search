@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705423200119,
+  "endTime": 1705425383612,
   "band_list": [
     {
       "raw_hot": 1203088,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218781,
+      "num": 192222,
+      "word": "金莎P图",
+      "onboard_time": 1705401992,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180705,
       "num": 70488,
       "word": "防止教师躺平多地探索教师退出机制",
@@ -163,20 +171,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166525,
+      "num": 166525,
+      "word": "繁花里最让我误会的镜头",
+      "onboard_time": 1705421367,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159861,
       "num": 159861,
       "word": "没了一块钱但获得一个亿",
       "onboard_time": 1705416811,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151878,
-      "num": 151878,
-      "word": "金莎P图",
-      "onboard_time": 1705401992,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 142727,
@@ -209,14 +217,6 @@
       "onboard_time": 1705408111,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125007,
-      "num": 125007,
-      "word": "繁花里最让我误会的镜头",
-      "onboard_time": 1705421367,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 122971,
@@ -385,6 +385,14 @@
       "onboard_time": 1705398448,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 63773,
+      "num": 63773,
+      "word": "王安宇帮秦海璐系安全带",
+      "onboard_time": 1705423881,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 61011,
