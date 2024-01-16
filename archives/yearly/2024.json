@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705404847374,
+  "endTime": 1705408453601,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -641,6 +641,14 @@
       "onboard_time": 1704939148,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2168732,
+      "num": 2168732,
+      "word": "香港客机与韩国客机在日本机场相撞",
+      "onboard_time": 1705399833,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2156582,
@@ -1289,6 +1297,14 @@
       "onboard_time": 1705058007,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1643198,
+      "num": 1643198,
+      "word": "周震南痛失微博名",
+      "onboard_time": 1705403971,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1631690,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1705382552,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1249423,
-      "num": 1249423,
-      "word": "赵丽颖演聋哑人",
-      "onboard_time": 1705028127,
-      "rank": 1,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1248833,
-      "num": 1248833,
-      "word": "马伊琍 果然互联网是有记忆的",
-      "onboard_time": 1705223069,
-      "rank": 13,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

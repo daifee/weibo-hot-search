@@ -1,7 +1,15 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705404847374,
+  "endTime": 1705408453601,
   "band_list": [
+    {
+      "raw_hot": 2168732,
+      "num": 2168732,
+      "word": "香港客机与韩国客机在日本机场相撞",
+      "onboard_time": 1705399833,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1916476,
       "num": 1916476,
@@ -56,6 +64,14 @@
       "word": "田曦薇晒猫",
       "onboard_time": 1705397610,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1643198,
+      "num": 1643198,
+      "word": "周震南痛失微博名",
+      "onboard_time": 1705403971,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -219,6 +235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 841894,
+      "num": 841894,
+      "word": "防止教师躺平多地探索教师退出机制",
+      "onboard_time": 1705406671,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 829921,
       "num": 829921,
       "word": "难哄阵容",
@@ -363,6 +387,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 601845,
+      "num": 290720,
+      "word": "6200元一杯天价咖啡店不到三月就闭店",
+      "onboard_time": 1705404811,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599469,
+      "num": 599469,
+      "word": "秀才账号被无限期回收直播权限",
+      "onboard_time": 1705402174,
+      "rank": 19,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 594405,
       "num": 594405,
       "word": "王一博不在乐华股东公示行列",
@@ -385,14 +425,6 @@
       "onboard_time": 1705331611,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 591463,
-      "num": 591463,
-      "word": "秀才账号被无限期回收直播权限",
-      "onboard_time": 1705402174,
-      "rank": 19,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 588009,
@@ -539,14 +571,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 467618,
-      "num": 467618,
-      "word": "周震南痛失微博名",
-      "onboard_time": 1705403971,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 467478,
       "num": 467478,
       "word": "中央大街的铁柱子都被包起来了",
@@ -569,6 +593,14 @@
       "onboard_time": 1705389809,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457876,
+      "num": 457876,
+      "word": "井柏然抽到辛芷蕾送的故宫盲盒",
+      "onboard_time": 1705406732,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 419662,
@@ -691,6 +723,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 367914,
+      "num": 367914,
+      "word": "大韩航空发布事故原因",
+      "onboard_time": 1705407450,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364049,
+      "num": 364049,
+      "word": "比亚迪发布会",
+      "onboard_time": 1705405887,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 359697,
       "num": 359697,
       "word": "梅西因第一顺位票数多当选",
@@ -705,6 +753,14 @@
       "onboard_time": 1705395090,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 342967,
+      "num": 342967,
+      "word": "女子开车起步撞倒外婆致其死亡",
+      "onboard_time": 1705407391,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339050,
@@ -851,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 300233,
+      "num": 300233,
+      "word": "19层",
+      "onboard_time": 1705401030,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298035,
       "num": 298035,
       "word": "南京HERO 辅助",
@@ -929,14 +993,6 @@
       "onboard_time": 1705390770,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 286815,
-      "num": 286815,
-      "word": "19层",
-      "onboard_time": 1705401030,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 285883,
@@ -1033,6 +1089,14 @@
       "onboard_time": 1705371268,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255473,
+      "num": 255473,
+      "word": "00后小伙同时感染甲流乙流被喊双流人",
+      "onboard_time": 1705404990,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 249302,
@@ -1259,6 +1323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212411,
+      "num": 212411,
+      "word": "徐明浩 八点钟练歌房",
+      "onboard_time": 1705407513,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210755,
       "num": 210755,
       "word": "邓为抽到了米卡自制的手机支架",
@@ -1465,6 +1537,14 @@
       "onboard_time": 1705402231,
       "rank": 36,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 189801,
+      "num": 189801,
+      "word": "卢伟冰称将形成苹果三星小米三足鼎立格局",
+      "onboard_time": 1705405412,
+      "rank": 29,
+      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 189250,
@@ -1691,6 +1771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172230,
+      "num": 172230,
+      "word": "放假大学生每天9点被萌娃叫醒",
+      "onboard_time": 1705407572,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171311,
       "num": 171311,
       "word": "萧敬腾 不是雨神是爱神",
@@ -1769,6 +1857,38 @@
       "onboard_time": 1705400972,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164037,
+      "num": 164037,
+      "word": "范闲 汗流浃背了吧",
+      "onboard_time": 1705400972,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163955,
+      "num": 163955,
+      "word": "女生搬家用保鲜膜裹行李直接带走",
+      "onboard_time": 1705408111,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162308,
+      "num": 162308,
+      "word": "挣钱真的能带来底气和自信",
+      "onboard_time": 1705405529,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 162232,
+      "num": 162232,
+      "word": "顶流大熊猫兄妹终于见面了",
+      "onboard_time": 1705405830,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161333,
@@ -1915,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146922,
+      "num": 146922,
+      "word": "日本北海道机场两客机相撞无人受伤",
+      "onboard_time": 1705405111,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146498,
       "num": 146498,
       "word": "揭秘萧敬腾的婚后生活",
@@ -1944,6 +2072,14 @@
       "word": "尔滨开始为下个冬天存冰了",
       "onboard_time": 1705384351,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144368,
+      "num": 144368,
+      "word": "妈妈带罕见病儿子游览近100个城市",
+      "onboard_time": 1705406610,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2011,6 +2147,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 139166,
+      "num": 139166,
+      "word": "侯明昊有效摘面具",
+      "onboard_time": 1705405773,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138369,
       "num": 138369,
       "word": "CBA全明星首发公布",
@@ -2041,6 +2185,14 @@
       "onboard_time": 1705361965,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135627,
+      "num": 135627,
+      "word": "陶喆武汉厦门双城官宣",
+      "onboard_time": 1705407332,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 131218,
@@ -2128,6 +2280,14 @@
       "word": "一群消防员准备的生日有多惊喜",
       "onboard_time": 1705372409,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123092,
+      "num": 495399,
+      "word": "拼多多版农业大摸底涨知识了",
+      "onboard_time": 1705402593,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -2241,14 +2401,6 @@
       "onboard_time": 1705379735,
       "rank": 49,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 115093,
-      "num": 115093,
-      "word": "6200元一杯天价咖啡店不到三月就闭店",
-      "onboard_time": 1705404811,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113067,
@@ -2419,14 +2571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77963,
-      "num": 495399,
-      "word": "拼多多版农业大摸底涨知识了",
-      "onboard_time": 1705402593,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77220,
       "num": 153628,
       "word": "关于乙流的9个热点问答",
@@ -2545,6 +2689,14 @@
       "onboard_time": 1705330649,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 65163,
+      "num": 1452064,
+      "word": "各地文旅局持续整活儿",
+      "onboard_time": 1705392153,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64641,
