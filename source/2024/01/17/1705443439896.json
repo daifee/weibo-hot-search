@@ -1,0 +1,410 @@
+{
+  "runTime": 1705443439896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 116800,
+        "num": 116800,
+        "word": "老人突然离世三十九万元存款难取出",
+        "onboard_time": 1705391970,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97028,
+        "num": 97028,
+        "word": "梁洛施首度回应过往称不后悔",
+        "onboard_time": 1705430955,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9403,
+        "num": 92581,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91956,
+        "num": 91956,
+        "word": "渐冻人蔡磊澄清用药有效",
+        "onboard_time": 1705433414,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91007,
+        "num": 91007,
+        "word": "金莎和男友 一九分成",
+        "onboard_time": 1705401091,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88436,
+        "num": 88436,
+        "word": "欧阳娣娣说我来自中国",
+        "onboard_time": 1705417891,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85847,
+        "num": 85847,
+        "word": "9个月宝宝伸出小手搂着73岁太姥姥",
+        "onboard_time": 1705415850,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84329,
+        "num": 84329,
+        "word": "抑郁症患者可能并不需要鼓励",
+        "onboard_time": 1705426097,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79405,
+        "num": 79405,
+        "word": "她的力气似乎很大 大到撑起了一个家",
+        "onboard_time": 1705417469,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78406,
+        "num": 78406,
+        "word": "周一围从朱丹口误后停更微博",
+        "onboard_time": 1705397610,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96497,
+        "num": 78305,
+        "word": "特朗普称我要回来了",
+        "onboard_time": 1705428858,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 78186,
+        "num": 78186,
+        "word": "华中农业大学学生实名举报导师学术造假",
+        "onboard_time": 1705411651,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 72594,
+        "num": 72594,
+        "word": "10种嘌呤大户 高尿酸者少碰",
+        "onboard_time": 1705412791,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61366,
+        "num": 61366,
+        "word": "香港客机与韩国客机在日本机场相撞",
+        "onboard_time": 1705399833,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48463,
+        "num": 48463,
+        "word": "周一围朱丹电梯吻",
+        "onboard_time": 1705400073,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44334,
+        "num": 44334,
+        "word": "王一博公司与乐华无直接股权关联",
+        "onboard_time": 1705417352,
+        "rank": 15,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 40714,
+        "num": 40714,
+        "word": "这头发长得颗粒无收烫得五谷丰登",
+        "onboard_time": 1705438693,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40378,
+        "num": 40378,
+        "word": "巴黎LV大秀",
+        "onboard_time": 1705418493,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 37271,
+        "num": 37271,
+        "word": "仙剑四或将明天官宣",
+        "onboard_time": 1705414172,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35655,
+        "num": 35655,
+        "word": "金莎P图",
+        "onboard_time": 1705401992,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33037,
+        "num": 33037,
+        "word": "女生搬家用保鲜膜裹行李直接带走",
+        "onboard_time": 1705408111,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30871,
+        "num": 30871,
+        "word": "繁花里最让我误会的镜头",
+        "onboard_time": 1705421367,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28925,
+        "num": 28925,
+        "word": "6200元一杯天价咖啡店不到三月就闭店",
+        "onboard_time": 1705404811,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27489,
+        "num": 27489,
+        "word": "得知姐姐被训哭2岁男童和爸爸硬刚",
+        "onboard_time": 1705418612,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27021,
+        "num": 27021,
+        "word": "全球第二长寿男子去世",
+        "onboard_time": 1705408832,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26125,
+        "num": 26125,
+        "word": "周震南痛失微博名",
+        "onboard_time": 1705403971,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23693,
+        "num": 23693,
+        "word": "没了一块钱但获得一个亿",
+        "onboard_time": 1705416811,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22784,
+        "num": 22784,
+        "word": "华中农业大学回应",
+        "onboard_time": 1705417290,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 22543,
+        "num": 22543,
+        "word": "官方回应广东一中学要求统一校鞋",
+        "onboard_time": 1705441453,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 22514,
+        "num": 22514,
+        "word": "辛芷蕾 今年我就是个笑话",
+        "onboard_time": 1705382552,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24151,
+        "num": 22438,
+        "word": "国资公司回应中层领导出轨女同事",
+        "onboard_time": 1705441933,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20383,
+        "num": 20383,
+        "word": "有这些感觉请立刻休息",
+        "onboard_time": 1705428018,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20110,
+        "num": 20110,
+        "word": "龙币龙钞二次兑换开始",
+        "onboard_time": 1705417951,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19727,
+        "num": 19727,
+        "word": "小时候那批被打压式教育的人当爸妈了",
+        "onboard_time": 1705409370,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18916,
+        "num": 18916,
+        "word": "华中农业大学",
+        "onboard_time": 1705411651,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 18269,
+        "num": 18269,
+        "word": "买到黄标祖玛珑顾客起疑心",
+        "onboard_time": 1705435033,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17815,
+        "num": 17815,
+        "word": "沈腾 范丞丞学得好才是师徒",
+        "onboard_time": 1705438993,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17175,
+        "num": 17175,
+        "word": "成毅狐妖蒙眼造型",
+        "onboard_time": 1705422144,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16607,
+        "num": 16607,
+        "word": "短短几秒编剧震惊了我两次",
+        "onboard_time": 1705437134,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16220,
+        "num": 16220,
+        "word": "优酷换logo了",
+        "onboard_time": 1705388190,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15267,
+        "num": 15267,
+        "word": "白敬亭穿秋裤主打一个听劝",
+        "onboard_time": 1705413931,
+        "rank": 40,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 15159,
+        "num": 15159,
+        "word": "范闲 汗流浃背了吧",
+        "onboard_time": 1705400972,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14926,
+        "num": 14926,
+        "word": "井柏然抽到辛芷蕾送的故宫盲盒",
+        "onboard_time": 1705406732,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14697,
+        "num": 14697,
+        "word": "桔梗花 年终总结如鲠在喉",
+        "onboard_time": 1705441274,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13114,
+        "num": 14690,
+        "word": "苹果称VisionPro是终极娱乐设备",
+        "onboard_time": 1705418790,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12624,
+        "num": 14680,
+        "word": "微博之夜妆容造型点评",
+        "onboard_time": 1705414472,
+        "rank": 45,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 12028,
+        "num": 14672,
+        "word": "老钱风妆容",
+        "onboard_time": 1705436713,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 12018,
+        "num": 14657,
+        "word": "GenG还我转播",
+        "onboard_time": 1705415315,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11634,
+        "num": 14648,
+        "word": "957爆料LCK播不了",
+        "onboard_time": 1705409730,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10659,
+        "num": 14645,
+        "word": "蜂鸟音乐称拥有邓紫棋103首歌的版权",
+        "onboard_time": 1705433115,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色金融发展之路#"
+    }
+  }
+}
