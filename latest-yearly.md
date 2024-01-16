@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 22:35:02
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 23:18:53
 </p>
 </blockquote>
 <p>
@@ -765,6 +765,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%23" target="weibo">
+华中农业大学学生实名举报导师学术造假（热度：1814134）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%86%B0%E9%94%A5%E7%A0%B8%E4%B8%AD%E5%80%92%E5%9C%B0%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%BA%AB%E4%BA%A1%23" target="weibo">
 被冰锥砸中倒地的大学生已身亡（热度：1807604）
 </a>
@@ -899,12 +905,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23A%E5%85%88%E7%94%9F%E8%B7%B3%E6%B5%B7%23" target="weibo">
 A先生跳海（热度：1721660）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%23" target="weibo">
-华中农业大学学生实名举报导师学术造假（热度：1719441）
 </a>
 </li>
 

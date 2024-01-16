@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705415702064,
+  "endTime": 1705418333453,
   "band_list": [
     {
       "raw_hot": 2168732,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1814134,
+      "num": 1814134,
+      "word": "华中农业大学学生实名举报导师学术造假",
+      "onboard_time": 1705411651,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1766864,
       "num": 1766864,
       "word": "周一围朱丹电梯吻",
@@ -57,14 +65,6 @@
       "onboard_time": 1705378410,
       "rank": 8,
       "category": "互联网,艺人"
-    },
-    {
-      "raw_hot": 1719441,
-      "num": 1719441,
-      "word": "华中农业大学学生实名举报导师学术造假",
-      "onboard_time": 1705411651,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 1711519,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 850906,
+      "num": 850906,
+      "word": "无效省钱",
+      "onboard_time": 1705413751,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 844358,
       "num": 844358,
       "word": "Minji为没吃过刀削面道歉",
@@ -401,6 +409,14 @@
       "onboard_time": 1705387588,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 636160,
+      "num": 636160,
+      "word": "10种嘌呤大户 高尿酸者少碰",
+      "onboard_time": 1705412791,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 634599,
@@ -563,14 +579,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 536160,
-      "num": 288326,
-      "word": "10种嘌呤大户 高尿酸者少碰",
-      "onboard_time": 1705412791,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 531043,
       "num": 531043,
       "word": "易烊千玺写龙",
@@ -657,6 +665,22 @@
       "onboard_time": 1705389809,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430754,
+      "num": 430754,
+      "word": "华中农业大学回应",
+      "onboard_time": 1705417290,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 424447,
+      "num": 424447,
+      "word": "欧阳娣娣说我来自中国",
+      "onboard_time": 1705417891,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 419662,
@@ -755,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392866,
+      "num": 392866,
+      "word": "9个月宝宝伸出小手搂着73岁太姥姥",
+      "onboard_time": 1705415850,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392655,
       "num": 328616,
       "word": "举报县委书记被逮捕的河北老干部回家",
@@ -769,14 +801,6 @@
       "onboard_time": 1705368029,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 387382,
-      "num": 387382,
-      "word": "无效省钱",
-      "onboard_time": 1705413751,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 381609,
@@ -1035,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291961,
+      "num": 291961,
+      "word": "王一博公司与乐华无直接股权关联",
+      "onboard_time": 1705417352,
+      "rank": 18,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 291755,
       "num": 291755,
       "word": "丞磊抽到了张小斐送的刮刮乐",
@@ -1200,6 +1232,14 @@
       "word": "七仔隐身了",
       "onboard_time": 1705399532,
       "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 248330,
+      "num": 248330,
+      "word": "没了一块钱但获得一个亿",
+      "onboard_time": 1705416811,
+      "rank": 22,
       "category": "幽默"
     },
     {
@@ -1417,6 +1457,14 @@
       "onboard_time": 1705382194,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214250,
+      "num": 159525,
+      "word": "她的力气似乎很大 大到撑起了一个家",
+      "onboard_time": 1705417469,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 213711,
@@ -1915,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175207,
+      "num": 175207,
+      "word": "对偶像祛魅",
+      "onboard_time": 1705415612,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173864,
       "num": 173864,
       "word": "河南省考公告",
@@ -2105,6 +2161,14 @@
       "onboard_time": 1705365812,
       "rank": 32,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 159907,
+      "num": 159907,
+      "word": "猫咪窒息急救方法",
+      "onboard_time": 1705415612,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 159695,
@@ -2395,6 +2459,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 139669,
+      "num": 139669,
+      "word": "龙币龙钞二次兑换开始",
+      "onboard_time": 1705417951,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139554,
       "num": 139554,
       "word": "凹进去这块地方能做什么",
@@ -2483,6 +2555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 132743,
+      "num": 132743,
+      "word": "小狗密谋",
+      "onboard_time": 1705417770,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131892,
       "num": 131892,
       "word": "把家门钥匙交给朋友之后",
@@ -2523,14 +2603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128645,
-      "num": 128645,
-      "word": "猫咪窒息急救方法",
-      "onboard_time": 1705415612,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 127862,
       "num": 127862,
       "word": "华夏日经ETF溢价率超21%",
@@ -2563,11 +2635,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124390,
-      "num": 124390,
-      "word": "对偶像祛魅",
-      "onboard_time": 1705415612,
-      "rank": 48,
+      "raw_hot": 125189,
+      "num": 125189,
+      "word": "厨房的灯亮起来房子才会变成家",
+      "onboard_time": 1705416811,
+      "rank": 41,
       "category": "情感"
     },
     {
@@ -2611,6 +2683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119865,
+      "num": 119865,
+      "word": "老人倒地瞬间女子及时用包托住头",
+      "onboard_time": 1705415974,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119405,
       "num": 119405,
       "word": "熊家餐馆横扫艾美奖",
@@ -2625,6 +2705,14 @@
       "onboard_time": 1705390290,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119146,
+      "num": 119146,
+      "word": "黄礼志申留真challenge",
+      "onboard_time": 1705417051,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 118878,
@@ -2745,6 +2833,14 @@
       "onboard_time": 1705386693,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109711,
+      "num": 109711,
+      "word": "以油养肤",
+      "onboard_time": 1705416689,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 109016,

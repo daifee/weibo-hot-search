@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 22:35:02
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 23:18:53
 </p>
 </blockquote>
 <p>
@@ -765,6 +765,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%23" target="weibo">
+华中农业大学学生实名举报导师学术造假（热度：1814134）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%86%B0%E9%94%A5%E7%A0%B8%E4%B8%AD%E5%80%92%E5%9C%B0%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%BA%AB%E4%BA%A1%23" target="weibo">
 被冰锥砸中倒地的大学生已身亡（热度：1807604）
 </a>
@@ -899,12 +905,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23A%E5%85%88%E7%94%9F%E8%B7%B3%E6%B5%B7%23" target="weibo">
 A先生跳海（热度：1721660）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%23" target="weibo">
-华中农业大学学生实名举报导师学术造假（热度：1719441）
 </a>
 </li>
 
@@ -3657,6 +3657,12 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%95%88%E7%9C%81%E9%92%B1%23" target="weibo">
+无效省钱（热度：850906）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%20%E8%83%A1%E6%AD%8C%E6%B4%BB%E5%88%B0%E7%8E%B0%E5%9C%A8%E7%9C%9F%E6%98%AF%E5%A5%87%E8%BF%B9%23" target="weibo">
 刘涛 胡歌活到现在真是奇迹（热度：850688）
 </a>
@@ -5901,6 +5907,12 @@ GAI 五年后再给王鹤棣续SVIP（热度：690915）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2310%E7%A7%8D%E5%98%8C%E5%91%A4%E5%A4%A7%E6%88%B7%20%E9%AB%98%E5%B0%BF%E9%85%B8%E8%80%85%E5%B0%91%E7%A2%B0%23" target="weibo">
+10种嘌呤大户 高尿酸者少碰（热度：636160）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23gidle%20%E6%8A%84%E8%A2%AD%E4%BA%89%E8%AE%AE%23" target="weibo">
 gidle 抄袭争议（热度：634599）
 </a>
@@ -5999,18 +6011,6 @@ gidle 抄袭争议（热度：634599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E5%85%B3%E7%B3%BB%20%E5%85%88%E4%BB%8E%E5%86%99%E5%9E%83%E5%9C%BE%E5%BC%80%E5%A7%8B%E5%90%A7%23" target="weibo">
 没关系 先从写垃圾开始吧（热度：624834）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%87%BA%E5%9B%BE%23" target="weibo">
-张婧仪出图（热度：623822）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E4%BA%91%23" target="weibo">
-地震云（热度：623594）
 </a>
 </li>
 
