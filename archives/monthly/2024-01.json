@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705432502601,
+  "endTime": 1705433651087,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -43547,6 +43547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 32945,
+      "num": 32945,
+      "word": "梁洛施首度回应过往称不后悔",
+      "onboard_time": 1705430955,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32763,
       "num": 2278074,
       "word": "聚焦中国经济圆桌会",
@@ -43609,14 +43617,6 @@
       "onboard_time": 1704253291,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 31179,
-      "num": 31179,
-      "word": "梁洛施首度回应过往称不后悔",
-      "onboard_time": 1705430955,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 30553,
@@ -44304,6 +44304,14 @@
       "word": "七仔葛优瘫式炫南瓜",
       "onboard_time": 1704223995,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11798,
+      "num": 14660,
+      "word": "渐冻人蔡磊澄清用药有效",
+      "onboard_time": 1705433414,
+      "rank": 47,
       "category": "社会新闻"
     },
     {

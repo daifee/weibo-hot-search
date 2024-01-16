@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705432502601,
+  "endTime": 1705433651087,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -8595,20 +8595,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 32945,
+      "num": 32945,
+      "word": "梁洛施首度回应过往称不后悔",
+      "onboard_time": 1705430955,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32557,
       "num": 32557,
       "word": "有这些感觉请立刻休息",
       "onboard_time": 1705428018,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 31179,
-      "num": 31179,
-      "word": "梁洛施首度回应过往称不后悔",
-      "onboard_time": 1705430955,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 29344,
@@ -8777,6 +8777,14 @@
       "onboard_time": 1705345874,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 11798,
+      "num": 14660,
+      "word": "渐冻人蔡磊澄清用药有效",
+      "onboard_time": 1705433414,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11447,
