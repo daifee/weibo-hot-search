@@ -1,6 +1,6 @@
 {
   "startTime": 1705335776050,
-  "endTime": 1705390441020,
+  "endTime": 1705393383477,
   "band_list": [
     {
       "raw_hot": 1916476,
@@ -59,6 +59,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1393414,
+      "num": 1393414,
+      "word": "邓紫棋已被前东家蜂鸟音乐注册成商标",
+      "onboard_time": 1705390531,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1366274,
       "num": 1366274,
       "word": "蜜雪冰城回应放弃瓶装水业务",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1257582,
-      "num": 289010,
+      "num": 304814,
       "word": "儿子谎称睾丸破裂骗摆摊父亲30万",
       "onboard_time": 1705382552,
       "rank": 20,
@@ -127,6 +135,22 @@
       "num": 932446,
       "word": "张雪峰让员工过年别给孩子红包",
       "onboard_time": 1705376910,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 909993,
+      "num": 909993,
+      "word": "退烧后的淄博",
+      "onboard_time": 1705388069,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 847732,
+      "num": 847732,
+      "word": "老人突然离世三十九万元存款难取出",
+      "onboard_time": 1705391970,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -243,6 +267,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 634599,
+      "num": 436194,
+      "word": "gidle 抄袭争议",
+      "onboard_time": 1705391671,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 633424,
       "num": 546314,
       "word": "A股",
@@ -315,14 +347,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 552037,
-      "num": 240650,
-      "word": "退烧后的淄博",
-      "onboard_time": 1705388069,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 547724,
       "num": 547724,
       "word": "姥姥姥爷不上春晚可惜了",
@@ -353,6 +377,14 @@
       "onboard_time": 1705377031,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 532721,
+      "num": 532721,
+      "word": "发消息讨好症",
+      "onboard_time": 1705390050,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 531043,
@@ -392,6 +424,22 @@
       "word": "网红用饮料做尿检后当医生面喝下",
       "onboard_time": 1705381353,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460181,
+      "num": 431736,
+      "word": "辛芷蕾 不让我进场我嗷嗷挤",
+      "onboard_time": 1705391551,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 458243,
+      "num": 458243,
+      "word": "男子做出会下雨的伞救活一个厂",
+      "onboard_time": 1705389809,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -467,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 381609,
+      "num": 381609,
+      "word": "韩名宿称中国裁判和中国足球一样差",
+      "onboard_time": 1705390232,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 378911,
       "num": 378911,
       "word": "一天喝几杯咖啡不会超量",
@@ -507,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331714,
+      "num": 331714,
+      "word": "河南省文旅厅发布严正声明",
+      "onboard_time": 1705389630,
+      "rank": 31,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 330270,
       "num": 330270,
       "word": "华晨宇 我祝你幸福而不是强大",
@@ -537,6 +601,14 @@
       "onboard_time": 1705370429,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 323586,
+      "num": 323586,
+      "word": "陈都灵唐妆少女",
+      "onboard_time": 1705391370,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 323369,
@@ -595,6 +667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 309775,
+      "num": 309775,
+      "word": "唐嫣虞书欣互关了",
+      "onboard_time": 1705390470,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308361,
       "num": 308361,
       "word": "小伙成50个鄂伦春老人共享孙子",
@@ -609,6 +689,14 @@
       "onboard_time": 1705319911,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302931,
+      "num": 302931,
+      "word": "张颂文评论区 演员的真诚",
+      "onboard_time": 1705391014,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 294196,
@@ -659,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 288100,
+      "num": 288100,
+      "word": "华为承诺不从事整车业务",
+      "onboard_time": 1705390770,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 283562,
       "num": 283562,
       "word": "谭爷爷想问萌兰你还记得我吗",
@@ -707,11 +803,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255758,
-      "num": 255758,
-      "word": "男子做出会下雨的伞救活一个厂",
-      "onboard_time": 1705389809,
-      "rank": 18,
+      "raw_hot": 255101,
+      "num": 255101,
+      "word": "胡海峰任民政部副部长",
+      "onboard_time": 1705393173,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -761,14 +857,6 @@
       "onboard_time": 1705374568,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 238047,
-      "num": 238047,
-      "word": "韩名宿称中国裁判和中国足球一样差",
-      "onboard_time": 1705390232,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 237622,
@@ -825,14 +913,6 @@
       "onboard_time": 1705374929,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227574,
-      "num": 182885,
-      "word": "河南省文旅厅发布严正声明",
-      "onboard_time": 1705389630,
-      "rank": 31,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 226541,
@@ -923,6 +1003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 209942,
+      "num": 209942,
+      "word": "赵丽颖打手语被听障女孩夸赞标准",
+      "onboard_time": 1705391430,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209575,
       "num": 209575,
       "word": "基金经理称此时不战A股更待何时",
@@ -1003,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201221,
+      "num": 201221,
+      "word": "中丸雄一结婚",
+      "onboard_time": 1705392153,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197907,
       "num": 197907,
       "word": "龚俊新中式丝绸套装",
@@ -1027,12 +1123,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192718,
+      "num": 208981,
+      "word": "国新办介绍2024春运安排",
+      "onboard_time": 1705392454,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192074,
+      "num": 192074,
+      "word": "易烊千玺VOGUE花絮",
+      "onboard_time": 1705392630,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190628,
       "num": 190628,
       "word": "19层今日开播",
       "onboard_time": 1705379133,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190435,
+      "num": 190435,
+      "word": "小女儿因妈妈一句我的孩子都优秀泪崩",
+      "onboard_time": 1705390470,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189250,
@@ -1145,6 +1265,14 @@
       "onboard_time": 1705325791,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177605,
+      "num": 177605,
+      "word": "王鹤棣疯狂安利王传君作品",
+      "onboard_time": 1705393050,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177308,
@@ -1347,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142355,
+      "num": 142355,
+      "word": "0118决战国乙之巅",
+      "onboard_time": 1705392390,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140072,
       "num": 140072,
       "word": "山东借走了各地文旅宣传口号",
@@ -1443,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126886,
+      "num": 126886,
+      "word": "牛 其实我没有很想吃",
+      "onboard_time": 1705393233,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126675,
       "num": 126675,
       "word": "月经3天和7天均属正常",
@@ -1473,6 +1617,14 @@
       "onboard_time": 1705386752,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120484,
+      "num": 120484,
+      "word": "宝宝你是一只跳跳虎",
+      "onboard_time": 1705393112,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 119405,
@@ -1915,12 +2067,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42378,
+      "num": 991172,
+      "word": "天舟七号将为航天员运来龙年盲盒",
+      "onboard_time": 1705392569,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41174,
       "num": 947630,
       "word": "任尔兴风作浪中国定能乘风破浪",
       "onboard_time": 1705374746,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40522,
+      "num": 305842,
+      "word": "底子真的很重要",
+      "onboard_time": 1705391370,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 40127,

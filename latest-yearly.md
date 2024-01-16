@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 15:34:01
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/16 16:23:03
 </p>
 </blockquote>
 <p>
@@ -1449,6 +1449,12 @@ iPhone为什么只有P大写（热度：1427162）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%B7%B2%E8%A2%AB%E5%89%8D%E4%B8%9C%E5%AE%B6%E8%9C%82%E9%B8%9F%E9%9F%B3%E4%B9%90%E6%B3%A8%E5%86%8C%E6%88%90%E5%95%86%E6%A0%87%23" target="weibo">
+邓紫棋已被前东家蜂鸟音乐注册成商标（热度：1393414）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F3%E5%A4%A9%E5%92%8C7%E5%A4%A9%E5%9D%87%E5%B1%9E%E6%AD%A3%E5%B8%B8%23" target="weibo">
 月经3天和7天均属正常（热度：1386445）
 </a>
@@ -1805,12 +1811,6 @@ A股大跌（热度：1296178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E9%97%A8%E6%AD%8C%E6%89%8B%E5%AD%99%E7%87%95%E5%A7%BF%23" target="weibo">
 冷门歌手孙燕姿（热度：1239716）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E9%9C%87%E6%84%9F%23" target="weibo">
-厦门震感（热度：1239644）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705390441020,
+  "endTime": 1705393383477,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -275,6 +275,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1393414,
+      "num": 1393414,
+      "word": "邓紫棋已被前东家蜂鸟音乐注册成商标",
+      "onboard_time": 1705390531,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1390672,
       "num": 1390672,
       "word": "朱一龙微博King",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 1257582,
-      "num": 289010,
+      "num": 304814,
       "word": "儿子谎称睾丸破裂骗摆摊父亲30万",
       "onboard_time": 1705382552,
       "rank": 20,
@@ -715,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 909993,
+      "num": 909993,
+      "word": "退烧后的淄博",
+      "onboard_time": 1705388069,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 904323,
       "num": 904323,
       "word": "对视 精神接吻",
@@ -761,6 +777,14 @@
       "onboard_time": 1705218510,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 847732,
+      "num": 847732,
+      "word": "老人突然离世三十九万元存款难取出",
+      "onboard_time": 1705391970,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 844358,
@@ -1267,6 +1291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 634599,
+      "num": 436194,
+      "word": "gidle 抄袭争议",
+      "onboard_time": 1705391671,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 633725,
       "num": 633725,
       "word": "皇额娘推了熹娘娘原来是这个推",
@@ -1555,14 +1587,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 552037,
-      "num": 240650,
-      "word": "退烧后的淄博",
-      "onboard_time": 1705388069,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 550843,
       "num": 550843,
       "word": "上市公司遭电诈9000万",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1705284086,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 532721,
+      "num": 532721,
+      "word": "发消息讨好症",
+      "onboard_time": 1705390050,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 531043,
@@ -1905,6 +1937,22 @@
       "onboard_time": 1705280611,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460181,
+      "num": 431736,
+      "word": "辛芷蕾 不让我进场我嗷嗷挤",
+      "onboard_time": 1705391551,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 458243,
+      "num": 458243,
+      "word": "男子做出会下雨的伞救活一个厂",
+      "onboard_time": 1705389809,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456040,
@@ -2275,6 +2323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 381609,
+      "num": 381609,
+      "word": "韩名宿称中国裁判和中国足球一样差",
+      "onboard_time": 1705390232,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 379109,
       "num": 379109,
       "word": "王楚钦vs林诗栋",
@@ -2499,6 +2555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 331714,
+      "num": 331714,
+      "word": "河南省文旅厅发布严正声明",
+      "onboard_time": 1705389630,
+      "rank": 31,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 330274,
       "num": 330274,
       "word": "陈哲远 内娱最好笑的吃播选手",
@@ -2537,6 +2601,14 @@
       "onboard_time": 1705370429,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 323586,
+      "num": 323586,
+      "word": "陈都灵唐妆少女",
+      "onboard_time": 1705391370,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 323369,
@@ -2659,6 +2731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 309775,
+      "num": 309775,
+      "word": "唐嫣虞书欣互关了",
+      "onboard_time": 1705390470,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308361,
       "num": 308361,
       "word": "小伙成50个鄂伦春老人共享孙子",
@@ -2697,6 +2777,14 @@
       "onboard_time": 1705156611,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302931,
+      "num": 302931,
+      "word": "张颂文评论区 演员的真诚",
+      "onboard_time": 1705391014,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 301568,
@@ -2817,6 +2905,14 @@
       "onboard_time": 1705363109,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288100,
+      "num": 288100,
+      "word": "华为承诺不从事整车业务",
+      "onboard_time": 1705390770,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 287829,
@@ -3139,20 +3235,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255758,
-      "num": 255758,
-      "word": "男子做出会下雨的伞救活一个厂",
-      "onboard_time": 1705389809,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255643,
       "num": 255643,
       "word": "孙怡又粉又闪",
       "onboard_time": 1705312531,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 255101,
+      "num": 255101,
+      "word": "胡海峰任民政部副部长",
+      "onboard_time": 1705393173,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253771,
@@ -3321,14 +3417,6 @@
       "onboard_time": 1705290511,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238047,
-      "num": 238047,
-      "word": "韩名宿称中国裁判和中国足球一样差",
-      "onboard_time": 1705390232,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 237851,
@@ -3505,14 +3593,6 @@
       "onboard_time": 1705327953,
       "rank": 40,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 227574,
-      "num": 182885,
-      "word": "河南省文旅厅发布严正声明",
-      "onboard_time": 1705389630,
-      "rank": 31,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 227048,
@@ -3819,6 +3899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 209942,
+      "num": 209942,
+      "word": "赵丽颖打手语被听障女孩夸赞标准",
+      "onboard_time": 1705391430,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209771,
       "num": 209771,
       "word": "繁花",
@@ -4043,6 +4131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201221,
+      "num": 201221,
+      "word": "中丸雄一结婚",
+      "onboard_time": 1705392153,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200849,
       "num": 200849,
       "word": "DYG鲨鱼乐队奇妙登场",
@@ -4171,6 +4267,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192718,
+      "num": 208981,
+      "word": "国新办介绍2024春运安排",
+      "onboard_time": 1705392454,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192074,
+      "num": 192074,
+      "word": "易烊千玺VOGUE花絮",
+      "onboard_time": 1705392630,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191746,
       "num": 191746,
       "word": "小金毛一不小心吃上了自助餐",
@@ -4233,6 +4345,14 @@
       "onboard_time": 1705292313,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190435,
+      "num": 190435,
+      "word": "小女儿因妈妈一句我的孩子都优秀泪崩",
+      "onboard_time": 1705390470,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190395,
@@ -4633,6 +4753,14 @@
       "onboard_time": 1705234652,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177605,
+      "num": 177605,
+      "word": "王鹤棣疯狂安利王传君作品",
+      "onboard_time": 1705393050,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177602,
@@ -5499,6 +5627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142355,
+      "num": 142355,
+      "word": "0118决战国乙之巅",
+      "onboard_time": 1705392390,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142002,
       "num": 153080,
       "word": "赵继伟 运动还是有好处的",
@@ -5955,6 +6091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126886,
+      "num": 126886,
+      "word": "牛 其实我没有很想吃",
+      "onboard_time": 1705393233,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126808,
       "num": 126808,
       "word": "部分省份乙流占比超过甲流",
@@ -6137,6 +6281,14 @@
       "onboard_time": 1705317930,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 120484,
+      "num": 120484,
+      "word": "宝宝你是一只跳跳虎",
+      "onboard_time": 1705393112,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 119451,
@@ -7099,6 +7251,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 42378,
+      "num": 991172,
+      "word": "天舟七号将为航天员运来龙年盲盒",
+      "onboard_time": 1705392569,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42271,
       "num": 63640,
       "word": "王源绊王源",
@@ -7129,6 +7289,14 @@
       "onboard_time": 1705205251,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 40522,
+      "num": 305842,
+      "word": "底子真的很重要",
+      "onboard_time": 1705391370,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 40127,
