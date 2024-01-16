@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705379742637,
+  "endTime": 1705382268201,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1705053810,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1726480,
+      "num": 1726480,
+      "word": "乐华股价暴跌近80%",
+      "onboard_time": 1705378410,
+      "rank": 8,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 1724405,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704803432,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1233256,
-      "num": 1233256,
-      "word": "文咏珊礼服 蛇与花交缠",
-      "onboard_time": 1705137229,
-      "rank": 41,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
