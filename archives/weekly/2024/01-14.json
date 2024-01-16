@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705436370476,
+  "endTime": 1705437268865,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -8403,6 +8403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54298,
+      "num": 41783,
+      "word": "渐冻人蔡磊澄清用药有效",
+      "onboard_time": 1705433414,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53677,
       "num": 53677,
       "word": "浑身痒痒肉的小金毛",
@@ -8513,14 +8521,6 @@
       "onboard_time": 1705154686,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41783,
-      "num": 41783,
-      "word": "渐冻人蔡磊澄清用药有效",
-      "onboard_time": 1705433414,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41493,
@@ -8755,6 +8755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 15423,
+      "num": 15423,
+      "word": "买到黄标祖玛珑顾客起疑心",
+      "onboard_time": 1705435033,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15390,
       "num": 22062,
       "word": "寒夜大学生不想打扰同学图书馆外背书",
@@ -8769,14 +8777,6 @@
       "onboard_time": 1705348513,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14327,
-      "num": 14327,
-      "word": "买到黄标祖玛珑顾客起疑心",
-      "onboard_time": 1705435033,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13503,
@@ -8827,12 +8827,28 @@
       "category": "社会正能量,旅游"
     },
     {
+      "raw_hot": 9583,
+      "num": 9583,
+      "word": "老钱风妆容",
+      "onboard_time": 1705436713,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 9177,
       "num": 9177,
       "word": "青岛男篮战胜广东男篮",
       "onboard_time": 1705436293,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9158,
+      "num": 9158,
+      "word": "短短几秒编剧震惊了我两次",
+      "onboard_time": 1705437134,
+      "rank": 48,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
