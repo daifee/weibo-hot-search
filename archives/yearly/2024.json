@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705461609225,
+  "endTime": 1705462458850,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2227,6 +2227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1340106,
+      "num": 1340106,
+      "word": "专家称龙年或出现生育小高峰",
+      "onboard_time": 1705460487,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1338489,
       "num": 931253,
       "word": "于正再次为张檬写长文",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704873510,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1277462,
-      "num": 582937,
-      "word": "刘诗诗吴奇隆带娃出门",
-      "onboard_time": 1704248911,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
