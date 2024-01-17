@@ -1,0 +1,410 @@
+{
+  "runTime": 1705498435564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2170273,
+        "num": 2170273,
+        "word": "张拿铁人设崩塌",
+        "onboard_time": 1705494388,
+        "rank": 0,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 1022866,
+        "num": 1022866,
+        "word": "仙剑四首播评价",
+        "onboard_time": 1705491028,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100049,
+        "num": 982245,
+        "word": "腊八蒜为啥是绿色的",
+        "onboard_time": 1705490848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1372715,
+        "num": 975567,
+        "word": "华中农大涉嫌学术不端教授多项专利被驳回",
+        "onboard_time": 1705490966,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953292,
+        "num": 953292,
+        "word": "国足vs黎巴嫩",
+        "onboard_time": 1705488750,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 748981,
+        "num": 748981,
+        "word": "宋小宝韩国",
+        "onboard_time": 1705485152,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691486,
+        "num": 691486,
+        "word": "仙剑四今晚开播",
+        "onboard_time": 1705470632,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 656220,
+        "num": 656220,
+        "word": "余华 最会写死亡的作家之一",
+        "onboard_time": 1705493429,
+        "rank": 7,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 614117,
+        "num": 614117,
+        "word": "仙剑四六对打",
+        "onboard_time": 1705493847,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 611053,
+        "num": 611053,
+        "word": "宋轶背上了文咏珊送的包",
+        "onboard_time": 1705497090,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581267,
+        "num": 581267,
+        "word": "华中农业大学回应涉事教师调查情况",
+        "onboard_time": 1705496669,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545470,
+        "num": 545470,
+        "word": "广电总局曾要求规避电视剧演员争番位",
+        "onboard_time": 1705492045,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 483776,
+        "num": 483776,
+        "word": "赵露思粉帽",
+        "onboard_time": 1705496367,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 464284,
+        "num": 464284,
+        "word": "优酷限免仙剑一三五",
+        "onboard_time": 1705492589,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450608,
+        "num": 450608,
+        "word": "武磊失空门",
+        "onboard_time": 1705498053,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445576,
+        "num": 445576,
+        "word": "iPhone15价格跌至史上最低",
+        "onboard_time": 1705476931,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 442545,
+        "num": 442545,
+        "word": "小孩哥沉默十秒 浙江文旅一年白干",
+        "onboard_time": 1705484970,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 412289,
+        "num": 412289,
+        "word": "苏醒爆改韩红",
+        "onboard_time": 1705492470,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370291,
+        "num": 370291,
+        "word": "武磊补射被扑",
+        "onboard_time": 1705494869,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356527,
+        "num": 356527,
+        "word": "天官赐福",
+        "onboard_time": 1705495409,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 327528,
+        "num": 327528,
+        "word": "国足黎巴嫩冲突",
+        "onboard_time": 1705497811,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320001,
+        "num": 320001,
+        "word": "祈今朝明日开播",
+        "onboard_time": 1705491810,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291964,
+        "num": 291964,
+        "word": "夹来的娃娃最好别放床头",
+        "onboard_time": 1705481130,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259240,
+        "num": 259240,
+        "word": "王劲松要求粉丝不要用他照片当头像",
+        "onboard_time": 1705485694,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243758,
+        "num": 243758,
+        "word": "泰国偶遇舒淇",
+        "onboard_time": 1705497628,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230520,
+        "num": 230520,
+        "word": "华中农大被举报教授官网个人页已删除",
+        "onboard_time": 1705484247,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229100,
+        "num": 229100,
+        "word": "水瓶座单身率高的原因",
+        "onboard_time": 1705492174,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227751,
+        "num": 227751,
+        "word": "0713男团眼里没有光了",
+        "onboard_time": 1705489828,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224471,
+        "num": 224471,
+        "word": "远离肠癌4种食物要少吃",
+        "onboard_time": 1705488750,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219869,
+        "num": 219869,
+        "word": "相亲对象是分手两年的前男友",
+        "onboard_time": 1705481368,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213632,
+        "num": 213632,
+        "word": "国足vs黎巴嫩首发",
+        "onboard_time": 1705488151,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204263,
+        "num": 204263,
+        "word": "董宇辉称有些活在阴沟里的人指责阳光耀眼",
+        "onboard_time": 1705487068,
+        "rank": 31,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 192552,
+        "num": 192552,
+        "word": "21岁女生每月3次月经病因在大脑",
+        "onboard_time": 1705479213,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190841,
+        "num": 190841,
+        "word": "大连人俱乐部解散",
+        "onboard_time": 1705494690,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180173,
+        "num": 180173,
+        "word": "当一个天秤座不再迁就你",
+        "onboard_time": 1705496669,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169004,
+        "num": 169004,
+        "word": "张天爱面部折叠度",
+        "onboard_time": 1705495830,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162245,
+        "num": 162245,
+        "word": "看得出考的是老师",
+        "onboard_time": 1705495048,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161920,
+        "num": 161920,
+        "word": "无畏 我做好准备了",
+        "onboard_time": 1705493370,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161315,
+        "num": 161315,
+        "word": "改善气血两虚的7种方法",
+        "onboard_time": 1705494928,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104487,
+        "num": 155511,
+        "word": "曾舜晞一口气说了6种吉",
+        "onboard_time": 1705497990,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154725,
+        "num": 154725,
+        "word": "为什么涨薪了反而会辞职",
+        "onboard_time": 1705485513,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149930,
+        "num": 149930,
+        "word": "早让秦海璐当导游 秦岚嗓子早好了",
+        "onboard_time": 1705491990,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149035,
+        "num": 149035,
+        "word": "于正晒吴宣仪定妆照",
+        "onboard_time": 1705483411,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146027,
+        "num": 146027,
+        "word": "林一微博之夜小作文",
+        "onboard_time": 1705495226,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144144,
+        "num": 144144,
+        "word": "过年觉得没年味的原因找到了",
+        "onboard_time": 1705493253,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142185,
+        "num": 142185,
+        "word": "国足亚洲杯生死战没有退路可言",
+        "onboard_time": 1705498412,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139924,
+        "num": 139924,
+        "word": "恋与深空",
+        "onboard_time": 1705493788,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139482,
+        "num": 139482,
+        "word": "广东唯一吃辣最猛的城市",
+        "onboard_time": 1705493666,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 219563,
+        "num": 138333,
+        "word": "陈哲远仙剑4状态",
+        "onboard_time": 1705497570,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134767,
+        "num": 134767,
+        "word": "张玉宁被换下",
+        "onboard_time": 1705497328,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705497690862,
+  "endTime": 1705498435564,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2170273,
+      "num": 2170273,
+      "word": "张拿铁人设崩塌",
+      "onboard_time": 1705494388,
+      "rank": 31,
+      "category": "幽默,网红"
+    },
+    {
       "raw_hot": 2168732,
       "num": 2168732,
       "word": "香港客机与韩国客机在日本机场相撞",
@@ -129,14 +137,6 @@
       "onboard_time": 1705280311,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 2121550,
-      "num": 2121550,
-      "word": "张拿铁人设崩塌",
-      "onboard_time": 1705494388,
-      "rank": 31,
-      "category": "幽默,网红"
     },
     {
       "raw_hot": 2102996,
@@ -987,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 953292,
+      "num": 953292,
+      "word": "国足vs黎巴嫩",
+      "onboard_time": 1705320930,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 951616,
       "num": 951616,
       "word": "2022届本科生平均月入近6千",
@@ -1699,14 +1707,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 676084,
-      "num": 676084,
-      "word": "国足vs黎巴嫩",
-      "onboard_time": 1705320930,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 676054,
       "num": 676054,
       "word": "杨紫 蛋仔派对代言人",
@@ -1756,11 +1756,19 @@
     },
     {
       "raw_hot": 656236,
-      "num": 611293,
+      "num": 614117,
       "word": "仙剑四六对打",
       "onboard_time": 1705493847,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 656220,
+      "num": 656220,
+      "word": "余华 最会写死亡的作家之一",
+      "onboard_time": 1705493429,
+      "rank": 21,
+      "category": "读书作家"
     },
     {
       "raw_hot": 655116,
@@ -1977,6 +1985,14 @@
       "onboard_time": 1705390050,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 611053,
+      "num": 611053,
+      "word": "宋轶背上了文咏珊送的包",
+      "onboard_time": 1705497090,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 610431,
@@ -2211,6 +2227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 581267,
+      "num": 581267,
+      "word": "华中农业大学回应涉事教师调查情况",
+      "onboard_time": 1705496669,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579087,
       "num": 579087,
       "word": "四川文旅 丁真",
@@ -2289,14 +2313,6 @@
       "onboard_time": 1705291173,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 561035,
-      "num": 561035,
-      "word": "余华 最会写死亡的作家之一",
-      "onboard_time": 1705493429,
-      "rank": 21,
-      "category": "读书作家"
     },
     {
       "raw_hot": 560424,
@@ -2968,6 +2984,14 @@
       "word": "利拉德三分绝杀",
       "onboard_time": 1705288049,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 450608,
+      "num": 450608,
+      "word": "武磊失空门",
+      "onboard_time": 1705498053,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -3851,14 +3875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332243,
-      "num": 332243,
-      "word": "华中农业大学回应涉事教师调查情况",
-      "onboard_time": 1705496669,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 332227,
       "num": 332227,
       "word": "LV大秀",
@@ -3931,6 +3947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327528,
+      "num": 327528,
+      "word": "国足黎巴嫩冲突",
+      "onboard_time": 1705497811,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327291,
       "num": 327291,
       "word": "勇士这也能输",
@@ -3961,14 +3985,6 @@
       "onboard_time": 1705382790,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 323310,
-      "num": 323310,
-      "word": "宋轶背上了文咏珊送的包",
-      "onboard_time": 1705497090,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 323262,
@@ -5115,6 +5131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243758,
+      "num": 243758,
+      "word": "泰国偶遇舒淇",
+      "onboard_time": 1705497628,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242680,
       "num": 242680,
       "word": "苹果头显单绑带戴20分钟感到疼痛",
@@ -5705,6 +5729,14 @@
       "onboard_time": 1705229611,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 219563,
+      "num": 138333,
+      "word": "陈哲远仙剑4状态",
+      "onboard_time": 1705497570,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 219464,
@@ -7139,6 +7171,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 180173,
+      "num": 180173,
+      "word": "当一个天秤座不再迁就你",
+      "onboard_time": 1705496669,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180072,
       "num": 168676,
       "word": "周深模仿周迅好多人啊",
@@ -7747,14 +7787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 165474,
-      "num": 165474,
-      "word": "泰国偶遇舒淇",
-      "onboard_time": 1705497628,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164956,
       "num": 164956,
       "word": "游客曝茶马古道旅行社强制体验骑马",
@@ -7849,6 +7881,14 @@
       "onboard_time": 1705311511,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162245,
+      "num": 162245,
+      "word": "看得出考的是老师",
+      "onboard_time": 1705495048,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 162232,
@@ -8017,22 +8057,6 @@
       "onboard_time": 1705196132,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 158475,
-      "num": 158475,
-      "word": "当一个天秤座不再迁就你",
-      "onboard_time": 1705496669,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 158262,
-      "num": 156254,
-      "word": "看得出考的是老师",
-      "onboard_time": 1705495048,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 158245,
@@ -8644,7 +8668,7 @@
     },
     {
       "raw_hot": 143798,
-      "num": 917815,
+      "num": 982245,
       "word": "腊八蒜为啥是绿色的",
       "onboard_time": 1705490848,
       "rank": 29,
@@ -8745,6 +8769,14 @@
       "onboard_time": 1705400732,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142185,
+      "num": 142185,
+      "word": "国足亚洲杯生死战没有退路可言",
+      "onboard_time": 1705498412,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 142153,
@@ -10120,6 +10152,14 @@
       "word": "时代少年团收到李宇春送的小牛",
       "onboard_time": 1705334248,
       "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104487,
+      "num": 155511,
+      "word": "曾舜晞一口气说了6种吉",
+      "onboard_time": 1705497990,
+      "rank": 39,
       "category": "作品衍生"
     },
     {
