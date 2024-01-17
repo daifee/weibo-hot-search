@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705526173267,
+  "endTime": 1705527267319,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -47203,6 +47203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 13482,
+      "num": 13482,
+      "word": "苹果头显感到疼痛解决方案",
+      "onboard_time": 1705523832,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 13454,
       "num": 19391,
       "word": "顽固性胃胀",
@@ -47257,14 +47265,6 @@
       "onboard_time": 1705345874,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 13163,
-      "num": 13163,
-      "word": "苹果头显感到疼痛解决方案",
-      "onboard_time": 1705523832,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 12978,
@@ -47377,6 +47377,14 @@
       "onboard_time": 1704831015,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10822,
+      "num": 10822,
+      "word": "天津迎来这种水果",
+      "onboard_time": 1705526231,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 10794,
