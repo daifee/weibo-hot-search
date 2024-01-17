@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705498435564,
+  "endTime": 1705501041692,
   "band_list": [
     {
       "raw_hot": 2770385,
@@ -81,6 +81,14 @@
       "onboard_time": 1705453590,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1451032,
+      "num": 1451032,
+      "word": "女童送医后死亡其父被刑拘",
+      "onboard_time": 1705498472,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1441832,
@@ -315,6 +323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 769320,
+      "num": 769320,
+      "word": "国足0比0黎巴嫩",
+      "onboard_time": 1705498472,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 759489,
       "num": 759489,
       "word": "乌合麒麟为哈尔滨作画",
@@ -323,12 +339,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 753550,
+      "num": 753550,
+      "word": "宋轶背上了文咏珊送的包",
+      "onboard_time": 1705497090,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 737369,
       "num": 737369,
       "word": "迪丽热巴胡先煦 朋友倒霉我拍照",
       "onboard_time": 1705478669,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 733661,
+      "num": 327620,
+      "word": "月薪四万是一种什么体验",
+      "onboard_time": 1705499610,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 721577,
@@ -419,6 +451,30 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 638451,
+      "num": 638451,
+      "word": "华中农业大学回应涉事教师调查情况",
+      "onboard_time": 1705496669,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636900,
+      "num": 636900,
+      "word": "钟楚曦侯雯元合体直播",
+      "onboard_time": 1705498892,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 634981,
+      "num": 634981,
+      "word": "又给优酷蹭到了",
+      "onboard_time": 1705499130,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 632952,
       "num": 632952,
       "word": "请和我的老公结婚 BTS",
@@ -499,14 +555,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 611053,
-      "num": 611053,
-      "word": "宋轶背上了文咏珊送的包",
-      "onboard_time": 1705497090,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 602732,
       "num": 602732,
       "word": "微信办公构成加班须支付加班工资",
@@ -553,14 +601,6 @@
       "onboard_time": 1705476388,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 581267,
-      "num": 581267,
-      "word": "华中农业大学回应涉事教师调查情况",
-      "onboard_time": 1705496669,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 579087,
@@ -1019,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373195,
+      "num": 373195,
+      "word": "国足黎巴嫩冲突",
+      "onboard_time": 1705497811,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 372043,
       "num": 372043,
       "word": "大连人俱乐部解散",
@@ -1107,6 +1155,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 332034,
+      "num": 332034,
+      "word": "肖战帮猫狗劝架",
+      "onboard_time": 1705500209,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 331134,
       "num": 303641,
       "word": "花儿与少年",
@@ -1129,14 +1185,6 @@
       "onboard_time": 1705486650,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 327528,
-      "num": 327528,
-      "word": "国足黎巴嫩冲突",
-      "onboard_time": 1705497811,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 324106,
@@ -1211,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312286,
+      "num": 312286,
+      "word": "恋与深空全球多地区登顶",
+      "onboard_time": 1705500632,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312163,
       "num": 312163,
       "word": "女儿本命年爸爸狂买36件红色礼物",
@@ -1243,12 +1299,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 302446,
+      "num": 302446,
+      "word": "韩国裁判判罚尺度",
+      "onboard_time": 1705499971,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299283,
       "num": 284754,
       "word": "恋与深空送足金",
       "onboard_time": 1705465054,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298636,
+      "num": 298636,
+      "word": "仙剑六",
+      "onboard_time": 1705499911,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 292731,
@@ -1563,6 +1635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232740,
+      "num": 232740,
+      "word": "当一个天秤座不再迁就你",
+      "onboard_time": 1705496669,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232432,
       "num": 211307,
       "word": "胡锡进谈GDP增长5.2%",
@@ -1779,6 +1859,22 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 202046,
+      "num": 202046,
+      "word": "辽宁男篮战胜山西男篮",
+      "onboard_time": 1705500692,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199940,
+      "num": 199940,
+      "word": "张镇麟47分",
+      "onboard_time": 1705500872,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199669,
       "num": 199669,
       "word": "国足比分预测",
@@ -1883,6 +1979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 192846,
+      "num": 192846,
+      "word": "张镇麟carry全场",
+      "onboard_time": 1705500511,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190324,
       "num": 190324,
       "word": "韩剧版我的局长父亲",
@@ -1931,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182970,
+      "num": 182970,
+      "word": "国足两连平",
+      "onboard_time": 1705500029,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182750,
       "num": 182750,
       "word": "郭敬明晒侯明昊原始帧",
@@ -1963,14 +2075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180173,
-      "num": 180173,
-      "word": "当一个天秤座不再迁就你",
-      "onboard_time": 1705496669,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179782,
       "num": 179782,
       "word": "LESSERAFIM将首登科切拉",
@@ -1985,6 +2089,14 @@
       "onboard_time": 1705463431,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 178813,
+      "num": 997155,
+      "word": "腊八蒜为啥是绿色的",
+      "onboard_time": 1705490848,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 176397,
@@ -2195,6 +2307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156404,
+      "num": 156404,
+      "word": "一只没有痛觉的小猫",
+      "onboard_time": 1705500572,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156039,
       "num": 156039,
       "word": "张玉宁被换下",
@@ -2267,6 +2387,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151870,
+      "num": 151870,
+      "word": "王嘉尔 海外报道",
+      "onboard_time": 1705500810,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150938,
+      "num": 150938,
+      "word": "韩媒称主裁对国足很宽容",
+      "onboard_time": 1705500991,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148923,
+      "num": 149823,
+      "word": "狂人谈HERO",
+      "onboard_time": 1705498709,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148582,
       "num": 148582,
       "word": "2023年全国居民人均可支配收入39218元",
@@ -2289,6 +2433,14 @@
       "onboard_time": 1705458749,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146370,
+      "num": 150186,
+      "word": "国足两场0进球",
+      "onboard_time": 1705499736,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 145598,
@@ -2321,14 +2473,6 @@
       "onboard_time": 1705472851,
       "rank": 44,
       "category": "旅游,艺人"
-    },
-    {
-      "raw_hot": 143798,
-      "num": 982245,
-      "word": "腊八蒜为啥是绿色的",
-      "onboard_time": 1705490848,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 143589,
@@ -2523,6 +2667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123666,
+      "num": 298127,
+      "word": "龙年吉祥话怎么说才有新意",
+      "onboard_time": 1705498892,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123497,
       "num": 1287725,
       "word": "众人将棉衣系成绳救回落水学生",
@@ -2660,7 +2812,7 @@
     },
     {
       "raw_hot": 104487,
-      "num": 155511,
+      "num": 233221,
       "word": "曾舜晞一口气说了6种吉",
       "onboard_time": 1705497990,
       "rank": 39,

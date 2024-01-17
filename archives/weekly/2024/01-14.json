@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705498435564,
+  "endTime": 1705501041692,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -401,6 +401,14 @@
       "onboard_time": 1705290813,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1451032,
+      "num": 1451032,
+      "word": "女童送医后死亡其父被刑拘",
+      "onboard_time": 1705498472,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1448180,
@@ -1331,6 +1339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 769320,
+      "num": 769320,
+      "word": "国足0比0黎巴嫩",
+      "onboard_time": 1705498472,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 769188,
       "num": 769188,
       "word": "2024央视春晚彩排",
@@ -1411,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 753550,
+      "num": 753550,
+      "word": "宋轶背上了文咏珊送的包",
+      "onboard_time": 1705497090,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 750286,
       "num": 750286,
       "word": "黄景瑜以为抽到了古董",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1705478669,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 733661,
+      "num": 327620,
+      "word": "月薪四万是一种什么体验",
+      "onboard_time": 1705499610,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 732185,
@@ -1843,12 +1875,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 638451,
+      "num": 638451,
+      "word": "华中农业大学回应涉事教师调查情况",
+      "onboard_time": 1705496669,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638233,
       "num": 638233,
       "word": "董宇辉研究公司春节错峰放假",
       "onboard_time": 1705387588,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 636900,
+      "num": 636900,
+      "word": "钟楚曦侯雯元合体直播",
+      "onboard_time": 1705498892,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 634981,
+      "num": 634981,
+      "word": "又给优酷蹭到了",
+      "onboard_time": 1705499130,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 634599,
@@ -1985,14 +2041,6 @@
       "onboard_time": 1705390050,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 611053,
-      "num": 611053,
-      "word": "宋轶背上了文咏珊送的包",
-      "onboard_time": 1705497090,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 610431,
@@ -2225,14 +2273,6 @@
       "onboard_time": 1705476388,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 581267,
-      "num": 581267,
-      "word": "华中农业大学回应涉事教师调查情况",
-      "onboard_time": 1705496669,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 579087,
@@ -3587,6 +3627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 373195,
+      "num": 373195,
+      "word": "国足黎巴嫩冲突",
+      "onboard_time": 1705497811,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373056,
       "num": 373056,
       "word": "蕾子急出了花少专用暗号",
@@ -3883,6 +3931,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 332034,
+      "num": 332034,
+      "word": "肖战帮猫狗劝架",
+      "onboard_time": 1705500209,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 331714,
       "num": 331714,
       "word": "河南省文旅厅发布严正声明",
@@ -3945,14 +4001,6 @@
       "onboard_time": 1705486650,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 327528,
-      "num": 327528,
-      "word": "国足黎巴嫩冲突",
-      "onboard_time": 1705497811,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 327291,
@@ -4131,6 +4179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 312286,
+      "num": 312286,
+      "word": "恋与深空全球多地区登顶",
+      "onboard_time": 1705500632,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312163,
       "num": 312163,
       "word": "女儿本命年爸爸狂买36件红色礼物",
@@ -4235,6 +4291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 302446,
+      "num": 302446,
+      "word": "韩国裁判判罚尺度",
+      "onboard_time": 1705499971,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301883,
       "num": 301883,
       "word": "957爆料LCK播不了",
@@ -4265,6 +4329,14 @@
       "onboard_time": 1705465054,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298636,
+      "num": 298636,
+      "word": "仙剑六",
+      "onboard_time": 1705499911,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 298108,
@@ -5419,6 +5491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232740,
+      "num": 232740,
+      "word": "当一个天秤座不再迁就你",
+      "onboard_time": 1705496669,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232517,
       "num": 190356,
       "word": "王嘉尔是来收租的吗",
@@ -6267,6 +6347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202046,
+      "num": 202046,
+      "word": "辽宁男篮战胜山西男篮",
+      "onboard_time": 1705500692,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201797,
       "num": 201797,
       "word": "国乒釜山世乒赛团体赛名单",
@@ -6321,6 +6409,14 @@
       "onboard_time": 1705413931,
       "rank": 29,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 199940,
+      "num": 199940,
+      "word": "张镇麟47分",
+      "onboard_time": 1705500872,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 199669,
@@ -6545,6 +6641,14 @@
       "onboard_time": 1705460909,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192846,
+      "num": 192846,
+      "word": "张镇麟carry全场",
+      "onboard_time": 1705500511,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 192718,
@@ -7019,6 +7123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182970,
+      "num": 182970,
+      "word": "国足两连平",
+      "onboard_time": 1705500029,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182825,
       "num": 182825,
       "word": "美驻伊拉克领事馆附近发生多起爆炸",
@@ -7171,14 +7283,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 180173,
-      "num": 180173,
-      "word": "当一个天秤座不再迁就你",
-      "onboard_time": 1705496669,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 180072,
       "num": 168676,
       "word": "周深模仿周迅好多人啊",
@@ -7225,6 +7329,14 @@
       "onboard_time": 1705188020,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178813,
+      "num": 997155,
+      "word": "腊八蒜为啥是绿色的",
+      "onboard_time": 1705490848,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 178357,
@@ -8139,6 +8251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156404,
+      "num": 156404,
+      "word": "一只没有痛觉的小猫",
+      "onboard_time": 1705500572,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156252,
       "num": 156252,
       "word": "防窥膜会不会伤眼睛",
@@ -8347,6 +8467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151870,
+      "num": 151870,
+      "word": "王嘉尔 海外报道",
+      "onboard_time": 1705500810,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151842,
       "num": 151842,
       "word": "七三一部队罪证陈列馆发文感谢",
@@ -8369,6 +8497,14 @@
       "onboard_time": 1705414472,
       "rank": 49,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 150938,
+      "num": 150938,
+      "word": "韩媒称主裁对国足很宽容",
+      "onboard_time": 1705500991,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 150219,
@@ -8425,6 +8561,14 @@
       "onboard_time": 1705306949,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148923,
+      "num": 149823,
+      "word": "狂人谈HERO",
+      "onboard_time": 1705498709,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 148912,
@@ -8505,6 +8649,14 @@
       "onboard_time": 1705388013,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146370,
+      "num": 150186,
+      "word": "国足两场0进球",
+      "onboard_time": 1705499736,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 146184,
@@ -8665,14 +8817,6 @@
       "onboard_time": 1705223250,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 143798,
-      "num": 982245,
-      "word": "腊八蒜为啥是绿色的",
-      "onboard_time": 1705490848,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 143589,
@@ -9563,6 +9707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123666,
+      "num": 298127,
+      "word": "龙年吉祥话怎么说才有新意",
+      "onboard_time": 1705498892,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123497,
       "num": 1287725,
       "word": "众人将棉衣系成绳救回落水学生",
@@ -10156,7 +10308,7 @@
     },
     {
       "raw_hot": 104487,
-      "num": 155511,
+      "num": 233221,
       "word": "曾舜晞一口气说了6种吉",
       "onboard_time": 1705497990,
       "rank": 39,
