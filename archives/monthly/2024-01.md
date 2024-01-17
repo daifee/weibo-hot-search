@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/17 22:17:21
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/17 22:34:15
 </p>
 </blockquote>
 <p>
@@ -825,6 +825,12 @@ iPhone15价格跌至史上最低（热度：1922878）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E9%80%81%E5%8C%BB%E5%90%8E%E6%AD%BB%E4%BA%A1%E5%85%B6%E7%88%B6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+女童送医后死亡其父被刑拘（热度：1823424）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%86%8D%E5%9B%9E%E5%BA%94%23" target="weibo">
 于正再回应（热度：1818197）
 </a>
@@ -1385,12 +1391,6 @@ APP未经同意跳转广告涉嫌违法（热度：1510146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E7%90%83%23" target="weibo">
 假球（热度：1453975）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E9%80%81%E5%8C%BB%E5%90%8E%E6%AD%BB%E4%BA%A1%E5%85%B6%E7%88%B6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-女童送医后死亡其父被刑拘（热度：1451032）
 </a>
 </li>
 
@@ -4029,6 +4029,12 @@ Minji为没吃过刀削面道歉（热度：844358）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%B6%89%E4%BA%8B%E6%95%99%E5%B8%88%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%23" target="weibo">
+华中农业大学回应涉事教师调查情况（热度：829296）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E5%A5%B3%E7%8E%8B%E5%AE%A3%E5%B8%83%E5%B0%86%E9%80%80%E4%BD%8D%23" target="weibo">
 丹麦女王宣布将退位（热度：827568）
 </a>
@@ -5637,6 +5643,12 @@ GAI 五年后再给王鹤棣续SVIP（热度：690915）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%88%E7%BB%99%E4%BC%98%E9%85%B7%E8%B9%AD%E5%88%B0%E4%BA%86%23" target="weibo">
+又给优酷蹭到了（热度：683638）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E9%A2%88%E9%83%A8%E6%B5%81%E8%A1%80%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB%E6%95%91%E6%B2%BB%23" target="weibo">
 李在明遇袭颈部流血紧急送医救治（热度：682112）
 </a>
@@ -5999,18 +6011,6 @@ GAI 五年后再给王鹤棣续SVIP（热度：690915）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%9D%8E%E9%93%81%E6%A1%88%E5%85%B3%E7%B3%BB%E7%BD%91%23" target="weibo">
 央视曝李铁案关系网（热度：655384）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%80%83%E6%88%90%E7%BB%A9%23" target="weibo">
-江苏省考成绩（热度：655116）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%91%87%E6%BB%9A%E6%AD%8C%E5%A7%AC%23" target="weibo">
-刘诗诗摇滚歌姬（热度：654544）
 </a>
 </li>
 

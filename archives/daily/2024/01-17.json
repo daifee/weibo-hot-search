@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705501041692,
+  "endTime": 1705502055592,
   "band_list": [
     {
       "raw_hot": 2770385,
@@ -83,8 +83,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1451032,
-      "num": 1451032,
+      "raw_hot": 1823424,
+      "num": 1823424,
       "word": "女童送医后死亡其父被刑拘",
       "onboard_time": 1705498472,
       "rank": 1,
@@ -275,6 +275,14 @@
       "category": "运动健身,社会新闻"
     },
     {
+      "raw_hot": 829296,
+      "num": 829296,
+      "word": "华中农业大学回应涉事教师调查情况",
+      "onboard_time": 1705496669,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 817203,
       "num": 817203,
       "word": "董宇辉称有些活在阴沟里的人指责阳光耀眼",
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 683638,
+      "num": 683638,
+      "word": "又给优酷蹭到了",
+      "onboard_time": 1705499130,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 656236,
       "num": 614117,
       "word": "仙剑四六对打",
@@ -451,27 +467,11 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 638451,
-      "num": 638451,
-      "word": "华中农业大学回应涉事教师调查情况",
-      "onboard_time": 1705496669,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 636900,
-      "num": 636900,
+      "raw_hot": 644800,
+      "num": 644800,
       "word": "钟楚曦侯雯元合体直播",
       "onboard_time": 1705498892,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 634981,
-      "num": 634981,
-      "word": "又给优酷蹭到了",
-      "onboard_time": 1705499130,
-      "rank": 9,
       "category": "剧集"
     },
     {
@@ -915,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 413273,
+      "num": 413273,
+      "word": "无畏说小义没有背刺兄弟",
+      "onboard_time": 1705501471,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 413229,
       "num": 413229,
       "word": "梁洛施说和李泽楷只是孩子的父母",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1705457248,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 341060,
+      "num": 296393,
+      "word": "车厘子降价仍不被买账",
+      "onboard_time": 1705501291,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 332227,
@@ -1411,6 +1427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267680,
+      "num": 267680,
+      "word": "中方将给予爱尔兰单方面免签",
+      "onboard_time": 1705501172,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 267422,
       "num": 267422,
       "word": "生孩子会特别选时间吗",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1705482270,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 266547,
+      "num": 266547,
+      "word": "王者嫦娥新皮肤",
+      "onboard_time": 1705501353,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 263650,
@@ -1515,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245071,
+      "num": 245071,
+      "word": "苹果承认GPU存在安全漏洞",
+      "onboard_time": 1705501112,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 244213,
       "num": 244213,
       "word": "早让秦海璐当导游 秦岚嗓子早好了",
@@ -1561,6 +1601,14 @@
       "onboard_time": 1705475734,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242356,
+      "num": 242356,
+      "word": "张镇麟47分",
+      "onboard_time": 1705500872,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 241971,
@@ -1681,6 +1729,14 @@
       "onboard_time": 1705468651,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226632,
+      "num": 226632,
+      "word": "原来参加婚礼也有这么多讲究",
+      "onboard_time": 1705501592,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 226481,
@@ -1867,14 +1923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199940,
-      "num": 199940,
-      "word": "张镇麟47分",
-      "onboard_time": 1705500872,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199669,
       "num": 199669,
       "word": "国足比分预测",
@@ -2003,6 +2051,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189284,
+      "num": 997155,
+      "word": "腊八蒜为啥是绿色的",
+      "onboard_time": 1705490848,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 188901,
       "num": 188901,
       "word": "梁建章建议育产假男女平等",
@@ -2051,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182502,
+      "num": 182502,
+      "word": "韩媒称主裁对国足很宽容",
+      "onboard_time": 1705500991,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181192,
       "num": 181192,
       "word": "网友称农村压岁钱畸形攀比严重",
@@ -2089,14 +2153,6 @@
       "onboard_time": 1705463431,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 178813,
-      "num": 997155,
-      "word": "腊八蒜为啥是绿色的",
-      "onboard_time": 1705490848,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 176397,
@@ -2187,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168600,
+      "num": 168600,
+      "word": "陈哲远第一套古装婚服",
+      "onboard_time": 1705501894,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168433,
       "num": 168433,
       "word": "祈今朝OST阵容",
@@ -2273,6 +2337,14 @@
       "onboard_time": 1705460007,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 158859,
+      "num": 158859,
+      "word": "王嘉尔 海外报道",
+      "onboard_time": 1705500810,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158013,
@@ -2385,22 +2457,6 @@
       "onboard_time": 1705482329,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151870,
-      "num": 151870,
-      "word": "王嘉尔 海外报道",
-      "onboard_time": 1705500810,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 150938,
-      "num": 150938,
-      "word": "韩媒称主裁对国足很宽容",
-      "onboard_time": 1705500991,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 148923,
@@ -2577,6 +2633,22 @@
       "onboard_time": 1705388190,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 133684,
+      "num": 133684,
+      "word": "青藏线上的烟火人间",
+      "onboard_time": 1705502010,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 133003,
+      "num": 133003,
+      "word": "苹果市值1个月蒸发超17000亿",
+      "onboard_time": 1705502010,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 132880,

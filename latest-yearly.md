@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/17 22:17:21
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/17 22:34:15
 </p>
 </blockquote>
 <p>
@@ -825,6 +825,12 @@ iPhone15价格跌至史上最低（热度：1922878）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E9%80%81%E5%8C%BB%E5%90%8E%E6%AD%BB%E4%BA%A1%E5%85%B6%E7%88%B6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+女童送医后死亡其父被刑拘（热度：1823424）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%86%8D%E5%9B%9E%E5%BA%94%23" target="weibo">
 于正再回应（热度：1818197）
 </a>
@@ -1385,12 +1391,6 @@ APP未经同意跳转广告涉嫌违法（热度：1510146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E7%90%83%23" target="weibo">
 假球（热度：1453975）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E9%80%81%E5%8C%BB%E5%90%8E%E6%AD%BB%E4%BA%A1%E5%85%B6%E7%88%B6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-女童送医后死亡其父被刑拘（热度：1451032）
 </a>
 </li>
 

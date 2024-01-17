@@ -1,0 +1,410 @@
+{
+  "runTime": 1705502055592,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1823424,
+        "num": 1823424,
+        "word": "女童送医后死亡其父被刑拘",
+        "onboard_time": 1705498472,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1480595,
+        "num": 1480595,
+        "word": "张拿铁人设崩塌",
+        "onboard_time": 1705494388,
+        "rank": 1,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 189284,
+        "num": 943915,
+        "word": "腊八蒜为啥是绿色的",
+        "onboard_time": 1705490848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829296,
+        "num": 829296,
+        "word": "华中农业大学回应涉事教师调查情况",
+        "onboard_time": 1705496669,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811364,
+        "num": 811364,
+        "word": "仙剑四首播评价",
+        "onboard_time": 1705491028,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 683638,
+        "num": 683638,
+        "word": "又给优酷蹭到了",
+        "onboard_time": 1705499130,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 658938,
+        "num": 658938,
+        "word": "宋轶背上了文咏珊送的包",
+        "onboard_time": 1705497090,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644800,
+        "num": 644800,
+        "word": "钟楚曦侯雯元合体直播",
+        "onboard_time": 1705498892,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 624203,
+        "num": 624203,
+        "word": "iPhone15价格跌至史上最低",
+        "onboard_time": 1705476931,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 593230,
+        "num": 593230,
+        "word": "宋小宝韩国",
+        "onboard_time": 1705485152,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696083,
+        "num": 571237,
+        "word": "华中农大涉嫌学术不端教授多项专利被驳回",
+        "onboard_time": 1705490966,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524067,
+        "num": 524067,
+        "word": "国足0比0黎巴嫩",
+        "onboard_time": 1705498472,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 502157,
+        "num": 502157,
+        "word": "仙剑四六对打",
+        "onboard_time": 1705493847,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413273,
+        "num": 413273,
+        "word": "无畏说小义没有背刺兄弟",
+        "onboard_time": 1705501471,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 370002,
+        "num": 370002,
+        "word": "小孩哥沉默十秒 浙江文旅一年白干",
+        "onboard_time": 1705484970,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 362844,
+        "num": 362844,
+        "word": "国足黎巴嫩冲突",
+        "onboard_time": 1705497811,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347089,
+        "num": 347089,
+        "word": "优酷限免仙剑一三五",
+        "onboard_time": 1705492589,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316325,
+        "num": 316325,
+        "word": "武磊失空门",
+        "onboard_time": 1705498053,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307681,
+        "num": 307681,
+        "word": "广电总局曾要求规避电视剧演员争番位",
+        "onboard_time": 1705492045,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301834,
+        "num": 301834,
+        "word": "肖战帮猫狗劝架",
+        "onboard_time": 1705500209,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 705981,
+        "num": 299925,
+        "word": "月薪四万是一种什么体验",
+        "onboard_time": 1705499610,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341060,
+        "num": 296393,
+        "word": "车厘子降价仍不被买账",
+        "onboard_time": 1705501291,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 284355,
+        "num": 284355,
+        "word": "恋与深空全球多地区登顶",
+        "onboard_time": 1705500632,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283426,
+        "num": 283426,
+        "word": "仙剑六",
+        "onboard_time": 1705499911,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280277,
+        "num": 280277,
+        "word": "余华 最会写死亡的作家之一",
+        "onboard_time": 1705493429,
+        "rank": 24,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 267680,
+        "num": 267680,
+        "word": "中方将给予爱尔兰单方面免签",
+        "onboard_time": 1705501172,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 266904,
+        "num": 266904,
+        "word": "夹来的娃娃最好别放床头",
+        "onboard_time": 1705481130,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266547,
+        "num": 266547,
+        "word": "王者嫦娥新皮肤",
+        "onboard_time": 1705501353,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245071,
+        "num": 245071,
+        "word": "苹果承认GPU存在安全漏洞",
+        "onboard_time": 1705501112,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 242356,
+        "num": 242356,
+        "word": "张镇麟47分",
+        "onboard_time": 1705500872,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236798,
+        "num": 236798,
+        "word": "苏醒爆改韩红",
+        "onboard_time": 1705492470,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227260,
+        "num": 227260,
+        "word": "当一个天秤座不再迁就你",
+        "onboard_time": 1705496669,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226632,
+        "num": 226632,
+        "word": "原来参加婚礼也有这么多讲究",
+        "onboard_time": 1705501592,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219134,
+        "num": 219134,
+        "word": "0713男团眼里没有光了",
+        "onboard_time": 1705489828,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219099,
+        "num": 219099,
+        "word": "赵露思粉帽",
+        "onboard_time": 1705496367,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213667,
+        "num": 213667,
+        "word": "祈今朝明日开播",
+        "onboard_time": 1705491810,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204885,
+        "num": 204885,
+        "word": "远离肠癌4种食物要少吃",
+        "onboard_time": 1705488750,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196818,
+        "num": 196818,
+        "word": "韩国裁判判罚尺度",
+        "onboard_time": 1705499971,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192725,
+        "num": 192725,
+        "word": "华中农大被举报教授官网个人页已删除",
+        "onboard_time": 1705484247,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182502,
+        "num": 182502,
+        "word": "韩媒称主裁对国足很宽容",
+        "onboard_time": 1705500991,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169955,
+        "num": 169955,
+        "word": "国足vs黎巴嫩",
+        "onboard_time": 1705488750,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169152,
+        "num": 169152,
+        "word": "王劲松要求粉丝不要用他照片当头像",
+        "onboard_time": 1705485694,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168600,
+        "num": 168600,
+        "word": "陈哲远第一套古装婚服",
+        "onboard_time": 1705501894,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165744,
+        "num": 165744,
+        "word": "水瓶座单身率高的原因",
+        "onboard_time": 1705492174,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158859,
+        "num": 158859,
+        "word": "王嘉尔 海外报道",
+        "onboard_time": 1705500810,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148417,
+        "num": 148417,
+        "word": "恋与深空",
+        "onboard_time": 1705493788,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142455,
+        "num": 142455,
+        "word": "天官赐福",
+        "onboard_time": 1705495409,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141728,
+        "num": 141728,
+        "word": "辽宁男篮战胜山西男篮",
+        "onboard_time": 1705500692,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133684,
+        "num": 133684,
+        "word": "青藏线上的烟火人间",
+        "onboard_time": 1705502010,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 133003,
+        "num": 133003,
+        "word": "苹果市值1个月蒸发超17000亿",
+        "onboard_time": 1705502010,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
