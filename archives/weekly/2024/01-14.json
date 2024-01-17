@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705512857054,
+  "endTime": 1705515765014,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -11155,6 +11155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 63892,
+      "num": 63892,
+      "word": "华中农大教授遭学生举报学术不端被调查",
+      "onboard_time": 1705513997,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63773,
       "num": 63773,
       "word": "王安宇帮秦海璐系安全带",
@@ -11515,6 +11523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 37513,
+      "num": 37513,
+      "word": "好强的饭缩力",
+      "onboard_time": 1705514177,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 37088,
       "num": 38268,
       "word": "aespa时代遗憾MV",
@@ -11577,6 +11593,30 @@
       "onboard_time": 1705482031,
       "rank": 39,
       "category": "旅游,网红"
+    },
+    {
+      "raw_hot": 26394,
+      "num": 26394,
+      "word": "三种鱼常吃会危害健康",
+      "onboard_time": 1705513277,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25860,
+      "num": 25860,
+      "word": "各地文旅摇人",
+      "onboard_time": 1705515554,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 25015,
+      "num": 25015,
+      "word": "一生爱和神仙交朋友的中国人",
+      "onboard_time": 1705513338,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 24520,
