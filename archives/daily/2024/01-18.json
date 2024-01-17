@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705529850823,
+  "endTime": 1705530877150,
   "band_list": [
     {
       "raw_hot": 1631758,
@@ -187,6 +187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156511,
+      "num": 156511,
+      "word": "村里停电新能源车变身老人生命充电桩",
+      "onboard_time": 1705507167,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151865,
       "num": 151865,
       "word": "王者嫦娥新皮肤",
@@ -331,14 +339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108889,
-      "num": 121912,
-      "word": "村里停电新能源车变身老人生命充电桩",
-      "onboard_time": 1705507167,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108213,
       "num": 108213,
       "word": "肖战帮猫狗劝架",
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57735,
+      "num": 57735,
+      "word": "什刹海偶遇章若楠滑冰",
+      "onboard_time": 1705515854,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50452,
       "num": 50452,
       "word": "00后表达感谢的方式真的很00后",
@@ -499,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38532,
-      "num": 38532,
-      "word": "什刹海偶遇章若楠滑冰",
-      "onboard_time": 1705515854,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33991,
       "num": 33991,
       "word": "各地文旅摇人",
@@ -523,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29222,
+      "num": 26394,
+      "word": "三种鱼常吃会危害健康",
+      "onboard_time": 1705513277,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 28673,
       "num": 28673,
       "word": "韩菱纱被抓捕",
@@ -531,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26394,
-      "num": 26394,
-      "word": "三种鱼常吃会危害健康",
-      "onboard_time": 1705513277,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 26391,
+      "num": 26391,
+      "word": "天舟七号发射",
+      "onboard_time": 1705496967,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25015,
@@ -547,12 +555,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 24666,
-      "num": 24666,
-      "word": "天舟七号发射",
-      "onboard_time": 1705496967,
-      "rank": 39,
-      "category": "国内时政"
+      "raw_hot": 18095,
+      "num": 20157,
+      "word": "卖爆的东北冰棍7成浙江产",
+      "onboard_time": 1705530435,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17823,
+      "num": 20149,
+      "word": "天津迎来这种水果",
+      "onboard_time": 1705526231,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 15692,
+      "num": 20090,
+      "word": "苹果头显感到疼痛解决方案",
+      "onboard_time": 1705523832,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 15412,
@@ -563,24 +587,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15308,
-      "num": 15308,
-      "word": "苹果头显感到疼痛解决方案",
-      "onboard_time": 1705523832,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 14635,
-      "num": 14635,
-      "word": "天津迎来这种水果",
-      "onboard_time": 1705526231,
+      "raw_hot": 14509,
+      "num": 20084,
+      "word": "影老板把半个东北带去春晚",
+      "onboard_time": 1705528033,
       "rank": 47,
-      "category": "美食"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14325,
-      "num": 14634,
+      "num": 20058,
       "word": "穆里尼奥告别罗马",
       "onboard_time": 1705527672,
       "rank": 45,
