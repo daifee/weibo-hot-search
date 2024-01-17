@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705468640193,
+  "endTime": 1705469667186,
   "band_list": [
     {
       "raw_hot": 2403487,
@@ -75,8 +75,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 979068,
-      "num": 979068,
+      "raw_hot": 995580,
+      "num": 995580,
       "word": "韩国男爱豆为逃兵役谎称智力障碍",
       "onboard_time": 1705465474,
       "rank": 10,
@@ -97,6 +97,14 @@
       "onboard_time": 1705417891,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 848365,
+      "num": 848365,
+      "word": "68岁大妈18岁身材每周5小时瑜伽",
+      "onboard_time": 1705463913,
+      "rank": 11,
+      "category": "运动健身,社会新闻"
     },
     {
       "raw_hot": 793673,
@@ -137,14 +145,6 @@
       "onboard_time": 1705447342,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 719000,
-      "num": 719000,
-      "word": "68岁大妈18岁身材每周5小时瑜伽",
-      "onboard_time": 1705463913,
-      "rank": 11,
-      "category": "运动健身,社会新闻"
     },
     {
       "raw_hot": 713397,
@@ -219,6 +219,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 613008,
+      "num": 613008,
+      "word": "大麦回应抢票林俊杰付款林子祥",
+      "onboard_time": 1705467092,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 602732,
+      "num": 602732,
+      "word": "微信办公构成加班须支付加班工资",
+      "onboard_time": 1705466371,
+      "rank": 9,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 582949,
       "num": 582949,
       "word": "B站崩了",
@@ -233,14 +249,6 @@
       "onboard_time": 1705461028,
       "rank": 23,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 572411,
-      "num": 572411,
-      "word": "微信办公构成加班须支付加班工资",
-      "onboard_time": 1705466371,
-      "rank": 9,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 562357,
@@ -435,14 +443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 400333,
-      "num": 400333,
-      "word": "大麦回应抢票林俊杰付款林子祥",
-      "onboard_time": 1705467092,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 399102,
       "num": 399102,
       "word": "华中农业大学回应",
@@ -539,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322221,
+      "num": 322221,
+      "word": "两名99后男子当街行凶被执行死刑",
+      "onboard_time": 1705468414,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321941,
       "num": 321941,
       "word": "王一博公司与乐华无直接股权关联",
@@ -595,12 +603,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 272768,
+      "num": 272768,
+      "word": "迪丽热巴用十分钟画的妆",
+      "onboard_time": 1705469550,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267422,
       "num": 267422,
       "word": "生孩子会特别选时间吗",
       "onboard_time": 1705467693,
       "rank": 25,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 266466,
+      "num": 266466,
+      "word": "花儿与少年",
+      "onboard_time": 1705468953,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 263514,
@@ -633,6 +657,14 @@
       "onboard_time": 1705403971,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 256850,
+      "num": 218905,
+      "word": "突然知道存不住钱的原因了",
+      "onboard_time": 1705468054,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 249609,
@@ -715,12 +747,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235165,
+      "num": 197716,
+      "word": "咒术回战 五条悟尸体被移走",
+      "onboard_time": 1705469312,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 226846,
       "num": 226846,
       "word": "两只金毛一个去哄一个来劝",
       "onboard_time": 1705466555,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226710,
+      "num": 226710,
+      "word": "杜兰特罚球绝杀",
+      "onboard_time": 1705468651,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 226481,
@@ -763,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216658,
-      "num": 216658,
-      "word": "突然知道存不住钱的原因了",
-      "onboard_time": 1705468054,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 214964,
       "num": 214964,
       "word": "王嘉尔看秀位置",
@@ -801,6 +841,14 @@
       "onboard_time": 1705464032,
       "rank": 14,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 194765,
+      "num": 194765,
+      "word": "太阳22分逆转国王",
+      "onboard_time": 1705468714,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 194466,
@@ -931,8 +979,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 161220,
-      "num": 161220,
+      "raw_hot": 161948,
+      "num": 161948,
       "word": "洪崖洞公主造型",
       "onboard_time": 1705464513,
       "rank": 47,
@@ -955,6 +1003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 153032,
+      "num": 153032,
+      "word": "机场民警回应粉丝代拍扰序",
+      "onboard_time": 1705469312,
+      "rank": 42,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 153004,
       "num": 153004,
       "word": "医学生带爷爷就诊获医生现场教学",
@@ -969,14 +1025,6 @@
       "onboard_time": 1705454012,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 149308,
-      "num": 149308,
-      "word": "两名99后男子当街行凶被执行死刑",
-      "onboard_time": 1705468414,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148582,
@@ -1065,6 +1113,14 @@
       "onboard_time": 1705466674,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136021,
+      "num": 136021,
+      "word": "前引号可以单独使用",
+      "onboard_time": 1705469491,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 135989,

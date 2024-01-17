@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/17 13:17:20
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/17 13:34:27
 </p>
 </blockquote>
 <p>
@@ -2895,6 +2895,12 @@ D社 该上班了（热度：998672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%88%B1%E8%B1%86%E4%B8%BA%E9%80%83%E5%85%B5%E5%BD%B9%E8%B0%8E%E7%A7%B0%E6%99%BA%E5%8A%9B%E9%9A%9C%E7%A2%8D%23" target="weibo">
+韩国男爱豆为逃兵役谎称智力障碍（热度：995580）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%20%E6%B5%AA5%23" target="weibo">
 蔡依林 浪5（热度：993471）
 </a>
@@ -2987,12 +2993,6 @@ iPhone从4000多米高空坠落仍可使用（热度：987136）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%A2%A6%E5%88%B0%E5%AE%B6%E4%B8%AD%E6%9C%89%E9%BB%84%E9%87%91%E6%8C%9640%E7%B1%B3%E6%B7%B1%E6%B4%9E%E5%90%8E%E6%91%94%E6%AD%BB%23" target="weibo">
 男子梦到家中有黄金挖40米深洞后摔死（热度：980335）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%88%B1%E8%B1%86%E4%B8%BA%E9%80%83%E5%85%B5%E5%BD%B9%E8%B0%8E%E7%A7%B0%E6%99%BA%E5%8A%9B%E9%9A%9C%E7%A2%8D%23" target="weibo">
-韩国男爱豆为逃兵役谎称智力障碍（热度：979068）
 </a>
 </li>
 
@@ -3737,6 +3737,12 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%A4%9A%E5%9B%8A%E5%8D%B5%E5%B7%A2%E7%BB%BC%E5%90%88%E5%BE%81%E5%A5%B3%E6%80%A7%E4%BC%9A%E5%87%BA%E7%8E%B0%E7%88%86%E7%97%98%23" target="weibo">
 有多囊卵巢综合征女性会出现爆痘（热度：850281）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2368%E5%B2%81%E5%A4%A7%E5%A6%8818%E5%B2%81%E8%BA%AB%E6%9D%90%E6%AF%8F%E5%91%A85%E5%B0%8F%E6%97%B6%E7%91%9C%E4%BC%BD%23" target="weibo">
+68岁大妈18岁身材每周5小时瑜伽（热度：848365）
 </a>
 </li>
 
@@ -5003,12 +5009,6 @@ iPhone电池门赔款到账（热度：737858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A9%86%E5%8A%9B%E5%8A%9D%E8%8C%83%E5%BF%97%E6%AF%85%E5%87%BA%E6%BC%94%E7%B9%81%E8%8A%B1%23" target="weibo">
 老婆力劝范志毅出演繁花（热度：719746）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2368%E5%B2%81%E5%A4%A7%E5%A6%8818%E5%B2%81%E8%BA%AB%E6%9D%90%E6%AF%8F%E5%91%A85%E5%B0%8F%E6%97%B6%E7%91%9C%E4%BC%BD%23" target="weibo">
-68岁大妈18岁身材每周5小时瑜伽（热度：719000）
 </a>
 </li>
 

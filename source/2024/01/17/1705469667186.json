@@ -1,0 +1,410 @@
+{
+  "runTime": 1705469667186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1375573,
+        "num": 1375573,
+        "word": "专家称龙年或出现生育小高峰",
+        "onboard_time": 1705460487,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995580,
+        "num": 995580,
+        "word": "韩国男爱豆为逃兵役谎称智力障碍",
+        "onboard_time": 1705465474,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12171,
+        "num": 870110,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848365,
+        "num": 848365,
+        "word": "68岁大妈18岁身材每周5小时瑜伽",
+        "onboard_time": 1705463913,
+        "rank": 3,
+        "category": "运动健身,社会新闻"
+      },
+      {
+        "raw_hot": 821711,
+        "num": 821711,
+        "word": "南方小土豆在东北旅游3天买了套房",
+        "onboard_time": 1705456226,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648767,
+        "num": 648767,
+        "word": "梁建章建议给有孩家庭每月1000至6000元",
+        "onboard_time": 1705465892,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630891,
+        "num": 630891,
+        "word": "周震南躲箱子里爆哭被抬走",
+        "onboard_time": 1705460727,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 625636,
+        "num": 625636,
+        "word": "国产剧终于癫成了我不认识的样子",
+        "onboard_time": 1705453590,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613008,
+        "num": 613008,
+        "word": "大麦回应抢票林俊杰付款林子祥",
+        "onboard_time": 1705467092,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 602732,
+        "num": 602732,
+        "word": "微信办公构成加班须支付加班工资",
+        "onboard_time": 1705466371,
+        "rank": 9,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 600203,
+        "num": 600203,
+        "word": "2023年中国出生人口902万人",
+        "onboard_time": 1705460069,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 507081,
+        "num": 507081,
+        "word": "网红樊小慧直播称被前婆婆上门殴打",
+        "onboard_time": 1705449626,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 441623,
+        "num": 441623,
+        "word": "国台办回应网上出现武统声音",
+        "onboard_time": 1705466077,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 436988,
+        "num": 436988,
+        "word": "清华大学辟谣80%毕业生出国",
+        "onboard_time": 1705455927,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322221,
+        "num": 322221,
+        "word": "两名99后男子当街行凶被执行死刑",
+        "onboard_time": 1705468414,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307113,
+        "num": 307113,
+        "word": "许凯虞书欣哭戏",
+        "onboard_time": 1705466134,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277873,
+        "num": 277873,
+        "word": "李现朱一龙都被湖北文旅摇来了",
+        "onboard_time": 1705464871,
+        "rank": 16,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 272768,
+        "num": 272768,
+        "word": "迪丽热巴用十分钟画的妆",
+        "onboard_time": 1705469550,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266889,
+        "num": 266889,
+        "word": "LV大秀",
+        "onboard_time": 1705463913,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 266466,
+        "num": 266466,
+        "word": "花儿与少年",
+        "onboard_time": 1705468953,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415225,
+        "num": 263126,
+        "word": "杨紫新中式马面裙",
+        "onboard_time": 1705464271,
+        "rank": 20,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 391406,
+        "num": 247321,
+        "word": "张元英胜诉获1亿韩元赔偿",
+        "onboard_time": 1705467393,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368294,
+        "num": 241633,
+        "word": "女子想再婚儿子拿父亲遗嘱将其告上法院",
+        "onboard_time": 1705464513,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346676,
+        "num": 228663,
+        "word": "分手前的聊天记录",
+        "onboard_time": 1705463791,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226710,
+        "num": 226710,
+        "word": "杜兰特罚球绝杀",
+        "onboard_time": 1705468651,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323635,
+        "num": 223157,
+        "word": "最佳睡眠不是睡够8小时",
+        "onboard_time": 1705456409,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256850,
+        "num": 218905,
+        "word": "突然知道存不住钱的原因了",
+        "onboard_time": 1705468054,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211716,
+        "num": 211716,
+        "word": "生孩子会特别选时间吗",
+        "onboard_time": 1705467693,
+        "rank": 27,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 202144,
+        "num": 202144,
+        "word": "四川文旅 丁真",
+        "onboard_time": 1705461028,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 184325,
+        "num": 198644,
+        "word": "二等功喜报送到家这位军嫂却哭了",
+        "onboard_time": 1705467631,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235165,
+        "num": 197716,
+        "word": "咒术回战 五条悟尸体被移走",
+        "onboard_time": 1705469312,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 195908,
+        "num": 195908,
+        "word": "小义 Hero",
+        "onboard_time": 1705464330,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194765,
+        "num": 194765,
+        "word": "太阳22分逆转国王",
+        "onboard_time": 1705468714,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188448,
+        "num": 188448,
+        "word": "两只金毛一个去哄一个来劝",
+        "onboard_time": 1705466555,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186387,
+        "num": 186387,
+        "word": "有多少毕业生愿意进厂工作",
+        "onboard_time": 1705467872,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183524,
+        "num": 183524,
+        "word": "抢林俊杰演唱会付款后变林子祥",
+        "onboard_time": 1705462348,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166282,
+        "num": 166282,
+        "word": "请和我的老公结婚 BTS",
+        "onboard_time": 1705452151,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162212,
+        "num": 162212,
+        "word": "恋与深空送足金",
+        "onboard_time": 1705465054,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161948,
+        "num": 161948,
+        "word": "洪崖洞公主造型",
+        "onboard_time": 1705464513,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 159885,
+        "num": 159885,
+        "word": "揭秘进口车厘子为何大跳水",
+        "onboard_time": 1705461989,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159294,
+        "num": 159294,
+        "word": "2023年我国GDP超126万亿元",
+        "onboard_time": 1705457429,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158619,
+        "num": 158619,
+        "word": "仙剑四官微开通",
+        "onboard_time": 1705459168,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153032,
+        "num": 153032,
+        "word": "机场民警回应粉丝代拍扰序",
+        "onboard_time": 1705469312,
+        "rank": 42,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 151579,
+        "num": 151579,
+        "word": "华中农业大学学生实名举报导师学术造假",
+        "onboard_time": 1705411651,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 142640,
+        "num": 142640,
+        "word": "苹果手表被曝将移除血氧传感器技术",
+        "onboard_time": 1705461808,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140007,
+        "num": 140007,
+        "word": "名校本科生毕业深造率达70%",
+        "onboard_time": 1705464569,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 136021,
+        "num": 136021,
+        "word": "前引号可以单独使用",
+        "onboard_time": 1705469491,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 130999,
+        "num": 130999,
+        "word": "年轻人谈恋爱麻烦的原因找到了",
+        "onboard_time": 1705461449,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129075,
+        "num": 129075,
+        "word": "在火车上吃什么最无敌",
+        "onboard_time": 1705464330,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123466,
+        "num": 123466,
+        "word": "小狗只吵架不动手",
+        "onboard_time": 1705461871,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程金融工作怎么看怎么干#"
+    }
+  }
+}
