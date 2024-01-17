@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705473407524,
+  "endTime": 1705475857311,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2387,20 +2387,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1291700,
+      "num": 1291700,
+      "word": "警方介入网红樊小慧称被前婆婆殴打",
+      "onboard_time": 1705470930,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1291477,
       "num": 1291477,
       "word": "36元成本一锅做出了10道菜",
       "onboard_time": 1705242515,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1290383,
-      "num": 1290383,
-      "word": "官方通报湖南一碗麻辣烫106元",
-      "onboard_time": 1704166538,
-      "rank": 3,
-      "category": "社会新闻,美食"
     }
   ],
   "hotgov_list": [
