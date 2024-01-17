@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705502055592,
+  "endTime": 1705504723388,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -747,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1134133,
+      "num": 1134133,
+      "word": "车厘子降价仍不被买账",
+      "onboard_time": 1705501291,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1125502,
       "num": 1047334,
       "word": "因为懒而得到了北京户口",
@@ -1088,6 +1096,14 @@
       "word": "两名99后男子当街行凶被执行死刑",
       "onboard_time": 1705468414,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 873327,
+      "num": 873327,
+      "word": "华中农大11名学生联名举报信长达125页",
+      "onboard_time": 1705502670,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -3131,6 +3147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 433701,
+      "num": 433701,
+      "word": "中方将给予爱尔兰单方面免签",
+      "onboard_time": 1705501172,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 432470,
       "num": 670626,
       "word": "90后瓦工日薪2000在省会买了房",
@@ -3803,6 +3827,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 354156,
+      "num": 269633,
+      "word": "不是情侣关系的占有欲",
+      "onboard_time": 1705503091,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 352558,
       "num": 352558,
       "word": "仙剑四开启预约",
@@ -3817,6 +3849,14 @@
       "onboard_time": 1705395090,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 351941,
+      "num": 351941,
+      "word": "王者嫦娥新皮肤",
+      "onboard_time": 1705501353,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 350442,
@@ -3865,14 +3905,6 @@
       "onboard_time": 1705300346,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 341060,
-      "num": 296393,
-      "word": "车厘子降价仍不被买账",
-      "onboard_time": 1705501291,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 340358,
@@ -4803,14 +4835,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 267680,
-      "num": 267680,
-      "word": "中方将给予爱尔兰单方面免签",
-      "onboard_time": 1705501172,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 267464,
       "num": 267464,
       "word": "GALA原来是你小子和赵露思开黑",
@@ -4835,20 +4859,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 267114,
+      "num": 267114,
+      "word": "原来参加婚礼也有这么多讲究",
+      "onboard_time": 1705501592,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266986,
       "num": 1282197,
       "word": "男子打球突发心梗万幸民警医护在场",
       "onboard_time": 1705401030,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266547,
-      "num": 266547,
-      "word": "王者嫦娥新皮肤",
-      "onboard_time": 1705501353,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 266487,
@@ -5539,6 +5563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232863,
+      "num": 232863,
+      "word": "于文文误入瓜子商战",
+      "onboard_time": 1705503029,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232740,
       "num": 232740,
       "word": "当一个天秤座不再迁就你",
@@ -5593,6 +5625,14 @@
       "onboard_time": 1705292553,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 230407,
+      "num": 230407,
+      "word": "国足",
+      "onboard_time": 1705210951,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 229552,
@@ -5665,14 +5705,6 @@
       "onboard_time": 1705468651,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226632,
-      "num": 226632,
-      "word": "原来参加婚礼也有这么多讲究",
-      "onboard_time": 1705501592,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 226541,
@@ -5955,6 +5987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216472,
+      "num": 216472,
+      "word": "西村力手机震动 钵钵鸡",
+      "onboard_time": 1705503990,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216080,
       "num": 202435,
       "word": "叔你别开了 我害怕",
@@ -6089,6 +6129,14 @@
       "onboard_time": 1705288229,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 211351,
+      "num": 205882,
+      "word": "李现谈接国色芳华的原因",
+      "onboard_time": 1705503213,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 211040,
@@ -6275,6 +6323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205311,
+      "num": 205311,
+      "word": "白鹿白色羽绒服",
+      "onboard_time": 1705502071,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205242,
       "num": 205242,
       "word": "唐双宁被决定逮捕",
@@ -6417,6 +6473,14 @@
       "onboard_time": 1705371568,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201309,
+      "num": 206050,
+      "word": "天舟七号发射火焰点亮夜空",
+      "onboard_time": 1705503631,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 201304,
@@ -7891,14 +7955,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 167329,
-      "num": 167329,
-      "word": "国足",
-      "onboard_time": 1705210951,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167220,
       "num": 167220,
       "word": "谭松韵喊大家来四川耍",
@@ -8139,12 +8195,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161066,
+      "num": 161066,
+      "word": "为什么父母总学不会道歉",
+      "onboard_time": 1705502552,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 160993,
+      "num": 160993,
+      "word": "林一追星成功胡歌",
+      "onboard_time": 1705502791,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160442,
       "num": 160442,
       "word": "王鹤棣猜GAI送的是银行卡",
       "onboard_time": 1705365812,
       "rank": 32,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 159946,
+      "num": 159946,
+      "word": "给外国美女爆改新中式妆容",
+      "onboard_time": 1705502909,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 159907,
@@ -8539,6 +8619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151974,
+      "num": 151974,
+      "word": "举报县委书记后被捕的老干部无犯罪事实",
+      "onboard_time": 1705504651,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151842,
       "num": 151842,
       "word": "七三一部队罪证陈列馆发文感谢",
@@ -8737,6 +8825,14 @@
       "onboard_time": 1705286130,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 145952,
+      "num": 145952,
+      "word": "国足暂列小组第二",
+      "onboard_time": 1705504110,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 145909,
