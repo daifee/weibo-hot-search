@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705459336411,
+  "endTime": 1705461609225,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -713,6 +713,14 @@
       "onboard_time": 1705406671,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2094865,
+      "num": 2094865,
+      "word": "2023年我国GDP超126万亿元",
+      "onboard_time": 1705457429,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2094204,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704248911,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1274861,
-      "num": 1274861,
-      "word": "日韩机票跌到史上最低",
-      "onboard_time": 1705028309,
-      "rank": 4,
-      "category": "旅游"
     }
   ],
   "hotgov_list": [
