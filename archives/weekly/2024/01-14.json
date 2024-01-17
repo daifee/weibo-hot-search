@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705458703025,
+  "endTime": 1705459336411,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1252135,
+      "num": 1252135,
+      "word": "清华大学辟谣80%毕业生出国",
+      "onboard_time": 1705455927,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1248833,
       "num": 1248833,
       "word": "马伊琍 果然互联网是有记忆的",
@@ -537,6 +545,14 @@
       "onboard_time": 1705305868,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1186799,
+      "num": 1186799,
+      "word": "2023年我国GDP超126万亿元",
+      "onboard_time": 1705457429,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1162294,
@@ -609,14 +625,6 @@
       "onboard_time": 1705289310,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1118494,
-      "num": 1118494,
-      "word": "清华大学辟谣80%毕业生出国",
-      "onboard_time": 1705455927,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1095666,
@@ -721,6 +729,14 @@
       "onboard_time": 1705319191,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1022435,
+      "num": 1022435,
+      "word": "最佳睡眠不是睡够8小时",
+      "onboard_time": 1705456409,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1016131,
@@ -875,20 +891,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 904580,
-      "num": 904580,
-      "word": "2023年我国GDP超126万亿元",
-      "onboard_time": 1705457429,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 904323,
       "num": 904323,
       "word": "对视 精神接吻",
       "onboard_time": 1705243893,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 895706,
+      "num": 895706,
+      "word": "南方小土豆在东北旅游3天买了套房",
+      "onboard_time": 1705456226,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 870334,
@@ -987,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 822473,
-      "num": 822473,
-      "word": "最佳睡眠不是睡够8小时",
-      "onboard_time": 1705456409,
-      "rank": 6,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 822393,
       "num": 822393,
       "word": "迪丽热巴来了",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1705296691,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 788669,
-      "num": 788669,
-      "word": "南方小土豆在东北旅游3天买了套房",
-      "onboard_time": 1705456226,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 782267,
@@ -1609,6 +1609,14 @@
       "onboard_time": 1705417469,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 614015,
+      "num": 614015,
+      "word": "2023年GDP增长5.2%",
+      "onboard_time": 1705458266,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 613975,
@@ -2755,6 +2763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 387194,
+      "num": 387194,
+      "word": "2023全国人口比上年末减少208万人",
+      "onboard_time": 1705458507,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386427,
       "num": 386427,
       "word": "钎城舞剑",
@@ -2833,14 +2849,6 @@
       "onboard_time": 1705287873,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376355,
-      "num": 376355,
-      "word": "2023年GDP增长5.2%",
-      "onboard_time": 1705458266,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 375362,
@@ -3011,6 +3019,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 346191,
+      "num": 346191,
+      "word": "ChatGPT之父称人类水平的AI即将出现",
+      "onboard_time": 1705457248,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 343175,
       "num": 343175,
       "word": "武磊射门踢空",
@@ -3025,6 +3041,14 @@
       "onboard_time": 1705300346,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340638,
+      "num": 340638,
+      "word": "怎么会有妈妈这样说自己的女儿",
+      "onboard_time": 1705456348,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 340358,
@@ -3171,14 +3195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 323081,
-      "num": 323081,
-      "word": "ChatGPT之父称人类水平的AI即将出现",
-      "onboard_time": 1705457248,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 320836,
       "num": 320836,
       "word": "阿勒泰多处雪崩上千人滞留",
@@ -3241,14 +3257,6 @@
       "onboard_time": 1705241975,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 315919,
-      "num": 315919,
-      "word": "怎么会有妈妈这样说自己的女儿",
-      "onboard_time": 1705456348,
-      "rank": 16,
-      "category": "美妆"
     },
     {
       "raw_hot": 315100,
@@ -4179,6 +4187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238724,
+      "num": 238724,
+      "word": "陈采尼 微博之夜造型点评",
+      "onboard_time": 1705458868,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 238401,
       "num": 238401,
       "word": "魏大勋收到雷佳音送的核桃",
@@ -4745,14 +4761,6 @@
       "onboard_time": 1705317810,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 210068,
-      "num": 210068,
-      "word": "2023全国人口比上年末减少208万人",
-      "onboard_time": 1705458507,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209942,
@@ -5963,6 +5971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172778,
+      "num": 172778,
+      "word": "金牛座具有强大的内核",
+      "onboard_time": 1705453889,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172683,
       "num": 172683,
       "word": "浓眉三双",
@@ -6225,14 +6241,6 @@
       "onboard_time": 1705367131,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166088,
-      "num": 166088,
-      "word": "金牛座具有强大的内核",
-      "onboard_time": 1705453889,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 166041,
@@ -6779,6 +6787,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148018,
+      "num": 148018,
+      "word": "上海市考出成绩",
+      "onboard_time": 1705458507,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 147909,
+      "num": 147909,
+      "word": "龙年国潮何以成年轻人新宠",
+      "onboard_time": 1705458749,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147317,
       "num": 147317,
       "word": "王源专栏的最后一篇是新疆的雪",
@@ -6953,6 +6977,14 @@
       "onboard_time": 1705223250,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 143589,
+      "num": 143589,
+      "word": "外卖小哥遇火灾用手中乌龙茶灭火",
+      "onboard_time": 1705458566,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143580,
@@ -7451,6 +7483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131747,
+      "num": 131747,
+      "word": "每天都要陪主人上班的猫咪",
+      "onboard_time": 1705458987,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131552,
       "num": 131552,
       "word": "妈妈的笑声比爸爸的普通话更好笑",
@@ -7539,6 +7579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127814,
+      "num": 127814,
+      "word": "模仿鸟类的穿衣风格",
+      "onboard_time": 1705458448,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 127808,
       "num": 127808,
       "word": "aespa年会表演舞台",
@@ -7603,6 +7651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126489,
+      "num": 126489,
+      "word": "超8成清华本科毕业生继续深造",
+      "onboard_time": 1705459050,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 126445,
       "num": 126445,
       "word": "苹果头显不支持WIFI6E",
@@ -7619,12 +7675,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 126031,
-      "num": 126031,
-      "word": "外卖小哥遇火灾用手中乌龙茶灭火",
-      "onboard_time": 1705458566,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 126043,
+      "num": 126043,
+      "word": "仙剑四官微开通",
+      "onboard_time": 1705459168,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 125949,
@@ -7699,14 +7755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124229,
-      "num": 124229,
-      "word": "上海市考出成绩",
-      "onboard_time": 1705458507,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 124166,
       "num": 124166,
       "word": "华为回应智界S7交付困难",
@@ -7769,14 +7817,6 @@
       "onboard_time": 1705234411,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 123120,
-      "num": 123120,
-      "word": "模仿鸟类的穿衣风格",
-      "onboard_time": 1705458448,
-      "rank": 43,
-      "category": "时尚"
     },
     {
       "raw_hot": 123062,
@@ -8281,6 +8321,14 @@
       "onboard_time": 1705330592,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106702,
+      "num": 106702,
+      "word": "华夏基金临时停牌",
+      "onboard_time": 1705455927,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 105993,

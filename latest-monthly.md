@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/17 10:31:43
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/17 10:42:16
 </p>
 </blockquote>
 <p>
@@ -1851,6 +1851,12 @@ A股大跌（热度：1296178）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A380%25%E6%AF%95%E4%B8%9A%E7%94%9F%E5%87%BA%E5%9B%BD%23" target="weibo">
+清华大学辟谣80%毕业生出国（热度：1252135）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%BC%94%E8%81%8B%E5%93%91%E4%BA%BA%23" target="weibo">
 赵丽颖演聋哑人（热度：1249423）
 </a>
@@ -2093,6 +2099,12 @@ A先生说辛芷蕾本人很漂亮（热度：1194844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB%23" target="weibo">
 女孩骨折忍痛赶飞机邻座是骨科主任（热度：1186866）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E6%88%91%E5%9B%BDGDP%E8%B6%85126%E4%B8%87%E4%BA%BF%E5%85%83%23" target="weibo">
+2023年我国GDP超126万亿元（热度：1186799）
 </a>
 </li>
 
@@ -2375,12 +2387,6 @@ A先生说辛芷蕾本人很漂亮（热度：1194844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E9%9C%80%E7%BB%88%E8%BA%AB%E6%8C%82%E7%B2%AA%E8%A2%8B%E6%A1%88%E8%BF%9B%E5%B1%95%23" target="weibo">
 女子被家暴16次需终身挂粪袋案进展（热度：1120090）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A380%25%E6%AF%95%E4%B8%9A%E7%94%9F%E5%87%BA%E5%9B%BD%23" target="weibo">
-清华大学辟谣80%毕业生出国（热度：1118494）
 </a>
 </li>
 
@@ -2759,6 +2765,12 @@ A先生李李恋情（热度：1095743）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E5%93%AD%E4%BA%86%23" target="weibo">
 高叶哭了（热度：1023813）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E4%B8%8D%E6%98%AF%E7%9D%A1%E5%A4%9F8%E5%B0%8F%E6%97%B6%23" target="weibo">
+最佳睡眠不是睡够8小时（热度：1022435）
 </a>
 </li>
 
@@ -3363,12 +3375,6 @@ IU染粉发（热度：920521）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E6%88%91%E5%9B%BDGDP%E8%B6%85126%E4%B8%87%E4%BA%BF%E5%85%83%23" target="weibo">
-2023年我国GDP超126万亿元（热度：904580）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88%23" target="weibo">
 沪上阿姨 魔道祖师（热度：904477）
 </a>
@@ -3437,6 +3443,12 @@ IU染粉发（热度：920521）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%97%A9%E6%9C%9F%E6%8A%95%E8%B5%84%E4%BA%BA%E4%B8%A5%E5%8E%89%E8%B0%B4%E8%B4%A3%E6%8A%96%E9%9F%B3%23" target="weibo">
 字节跳动早期投资人严厉谴责抖音（热度：896342）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E5%9C%A8%E4%B8%9C%E5%8C%97%E6%97%85%E6%B8%B83%E5%A4%A9%E4%B9%B0%E4%BA%86%E5%A5%97%E6%88%BF%23" target="weibo">
+南方小土豆在东北旅游3天买了套房（热度：895706）
 </a>
 </li>
 
@@ -3927,12 +3939,6 @@ joker不是小丑 是制胜的王牌（热度：824347）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E4%B8%8D%E6%98%AF%E7%9D%A1%E5%A4%9F8%E5%B0%8F%E6%97%B6%23" target="weibo">
-最佳睡眠不是睡够8小时（热度：822473）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%81%E5%AE%9E%E5%A4%B1%E8%81%9412%E5%A4%A9%E7%88%B6%E4%BA%B2%E5%B7%B2%E9%81%87%E5%AE%B3%23" target="weibo">
 男子证实失联12天父亲已遇害（热度：819550）
 </a>
@@ -4235,12 +4241,6 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%23" target="weibo">
 清华一本科生转学至双非院校（热度：789170）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E5%9C%A8%E4%B8%9C%E5%8C%97%E6%97%85%E6%B8%B83%E5%A4%A9%E4%B9%B0%E4%BA%86%E5%A5%97%E6%88%BF%23" target="weibo">
-南方小土豆在东北旅游3天买了套房（热度：788669）
 </a>
 </li>
 
