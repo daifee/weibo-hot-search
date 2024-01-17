@@ -1,7 +1,15 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705448081707,
+  "endTime": 1705454263883,
   "band_list": [
+    {
+      "raw_hot": 2403487,
+      "num": 2403487,
+      "word": "网红樊小慧直播称被前婆婆上门殴打",
+      "onboard_time": 1705449626,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
     {
       "raw_hot": 1203088,
       "num": 399292,
@@ -17,6 +25,54 @@
       "onboard_time": 1705417891,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 793673,
+      "num": 793673,
+      "word": "新疆1558名因雪崩滞留旅客离开景区",
+      "onboard_time": 1705451127,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 781850,
+      "num": 781850,
+      "word": "谢娜家吃饭的时候不允许看手机",
+      "onboard_time": 1705447462,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 720455,
+      "num": 720455,
+      "word": "海底捞能打毛线了",
+      "onboard_time": 1705447342,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676166,
+      "num": 676166,
+      "word": "2022届本科生平均月入近6千",
+      "onboard_time": 1705453289,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 661560,
+      "num": 661560,
+      "word": "军人结婚当天三等功喜报送上门",
+      "onboard_time": 1705451672,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632952,
+      "num": 632952,
+      "word": "请和我的老公结婚 BTS",
+      "onboard_time": 1705452151,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 614997,
@@ -43,12 +99,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 546644,
+      "num": 458433,
+      "word": "国产剧终于癫成了我不认识的样子",
+      "onboard_time": 1705453590,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 518905,
       "num": 518905,
       "word": "9个月宝宝伸出小手搂着73岁太姥姥",
       "onboard_time": 1705415850,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516708,
+      "num": 516708,
+      "word": "特朗普称我要回来了",
+      "onboard_time": 1705428858,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 485883,
@@ -59,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473137,
+      "num": 473137,
+      "word": "晒被子后的太阳味是怎么来的",
+      "onboard_time": 1705448183,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 458569,
       "num": 458569,
       "word": "10种嘌呤大户 高尿酸者少碰",
@@ -67,19 +147,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 437512,
-      "num": 437512,
-      "word": "特朗普称我要回来了",
-      "onboard_time": 1705428858,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 436833,
       "num": 360560,
       "word": "周一围朱丹电梯吻",
       "onboard_time": 1705400073,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 408399,
+      "num": 408399,
+      "word": "周一围从朱丹口误后停更微博",
+      "onboard_time": 1705397610,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -99,12 +179,36 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 393903,
-      "num": 393903,
-      "word": "周一围从朱丹口误后停更微博",
-      "onboard_time": 1705397610,
+      "raw_hot": 393586,
+      "num": 393586,
+      "word": "谭爷爷出差花花开启自助餐模式",
+      "onboard_time": 1705448183,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392562,
+      "num": 392562,
+      "word": "云台山妲己",
+      "onboard_time": 1705449444,
       "rank": 15,
-      "category": "综艺"
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 385707,
+      "num": 385707,
+      "word": "抢火车票不用自己设闹钟了",
+      "onboard_time": 1705453168,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378720,
+      "num": 378720,
+      "word": "老父亲叮嘱53岁单身女儿留足养老费",
+      "onboard_time": 1705451427,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364587,
@@ -121,6 +225,14 @@
       "onboard_time": 1705433414,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340285,
+      "num": 340285,
+      "word": "周一围 我们不改了",
+      "onboard_time": 1705454012,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 323262,
@@ -147,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276009,
+      "num": 276009,
+      "word": "被731部队罪证陈列馆的这幕震撼到",
+      "onboard_time": 1705453529,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263514,
       "num": 263514,
       "word": "国资公司回应中层领导出轨女同事",
@@ -161,6 +281,14 @@
       "onboard_time": 1705403971,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 249609,
+      "num": 249609,
+      "word": "繁花里最让我误会的镜头",
+      "onboard_time": 1705421367,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 249211,
@@ -179,11 +307,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242680,
+      "num": 242680,
+      "word": "苹果头显单绑带戴20分钟感到疼痛",
+      "onboard_time": 1705451127,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 240576,
+      "num": 240576,
+      "word": "东北F4合体摇出魏大勋上分",
+      "onboard_time": 1705453707,
+      "rank": 26,
+      "category": "旅游,艺人"
+    },
+    {
       "raw_hot": 238816,
       "num": 238816,
       "word": "程潇烟花照",
       "onboard_time": 1705419509,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 236966,
+      "num": 236966,
+      "word": "王俊凯机场路透",
+      "onboard_time": 1705448664,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -195,20 +347,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 224317,
-      "num": 224317,
-      "word": "谢娜家吃饭的时候不允许看手机",
-      "onboard_time": 1705447462,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218781,
       "num": 192222,
       "word": "金莎P图",
       "onboard_time": 1705401992,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180796,
+      "num": 180796,
+      "word": "王鹤棣花朵刺绣棒球服",
+      "onboard_time": 1705451248,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180705,
@@ -227,12 +379,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166525,
-      "num": 166525,
-      "word": "繁花里最让我误会的镜头",
-      "onboard_time": 1705421367,
-      "rank": 30,
+      "raw_hot": 169177,
+      "num": 169177,
+      "word": "骆驼小时候的样子",
+      "onboard_time": 1705449867,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 169039,
+      "num": 169039,
+      "word": "安心秦峰 至亲至疏夫妻",
+      "onboard_time": 1705451790,
+      "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166041,
+      "num": 166041,
+      "word": "为什么我们旅游度假会觉得累",
+      "onboard_time": 1705453289,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 164650,
+      "num": 164650,
+      "word": "樱桃和车厘子有啥区别",
+      "onboard_time": 1705449566,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 159861,
@@ -241,6 +417,14 @@
       "onboard_time": 1705416811,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149484,
+      "num": 149484,
+      "word": "王安宇在冰岛用冷水洗澡",
+      "onboard_time": 1705453948,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 144415,
@@ -267,6 +451,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138665,
+      "num": 138665,
+      "word": "金牛座具有强大的内核",
+      "onboard_time": 1705453889,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 137589,
+      "num": 137589,
+      "word": "一个人住与和爸妈住的区别",
+      "onboard_time": 1705454012,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 135989,
+      "num": 135989,
+      "word": "7岁爱喝奶小孩哥竟是武生大神",
+      "onboard_time": 1705449506,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135583,
       "num": 135583,
       "word": "优酷换logo了",
@@ -283,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126970,
+      "num": 126970,
+      "word": "朱婷41个一传",
+      "onboard_time": 1705452451,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126445,
       "num": 126445,
       "word": "苹果头显不支持WIFI6E",
       "onboard_time": 1705446618,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 123805,
+      "num": 123805,
+      "word": "IU2024世巡",
+      "onboard_time": 1705449085,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 122971,
@@ -299,20 +523,44 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 119915,
-      "num": 119915,
-      "word": "海底捞能打毛线了",
-      "onboard_time": 1705447342,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 122649,
+      "num": 122649,
+      "word": "窦靖童翻唱林宥嘉的浪费",
+      "onboard_time": 1705452749,
+      "rank": 45,
+      "category": "音乐"
     },
     {
-      "raw_hot": 113139,
-      "num": 113139,
+      "raw_hot": 120064,
+      "num": 120064,
       "word": "得知姐姐被训哭2岁男童和爸爸硬刚",
       "onboard_time": 1705418612,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118369,
+      "num": 118369,
+      "word": "有这些感觉请立刻休息",
+      "onboard_time": 1705428018,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117795,
+      "num": 117795,
+      "word": "20岁小伙失恋欲轻生民警教科书式劝导",
+      "onboard_time": 1705448183,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116331,
+      "num": 116331,
+      "word": "红山动物园丑猴子博物馆",
+      "onboard_time": 1705450948,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 111495,
@@ -409,14 +657,6 @@
       "onboard_time": 1705412975,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76342,
-      "num": 76342,
-      "word": "有这些感觉请立刻休息",
-      "onboard_time": 1705428018,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 74227,
@@ -579,8 +819,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 32457,
-      "num": 560289,
+      "raw_hot": 36980,
+      "num": 786229,
       "word": "相约冰雪",
       "onboard_time": 1705410872,
       "rank": 2,

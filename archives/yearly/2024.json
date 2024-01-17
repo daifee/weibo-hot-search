@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705448081707,
+  "endTime": 1705454263883,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -497,6 +497,14 @@
       "onboard_time": 1704512549,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2403487,
+      "num": 2403487,
+      "word": "网红樊小慧直播称被前婆婆上门殴打",
+      "onboard_time": 1705449626,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2396295,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704672148,
       "rank": 1,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 1264227,
-      "num": 1264227,
-      "word": "辛芷蕾喝多了",
-      "onboard_time": 1704673712,
-      "rank": 3,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
