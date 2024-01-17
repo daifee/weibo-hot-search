@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705490130487,
+  "endTime": 1705491249075,
   "band_list": [
     {
       "raw_hot": 2770385,
@@ -59,8 +59,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1478537,
-      "num": 1478537,
+      "raw_hot": 1669893,
+      "num": 1669893,
       "word": "人口",
       "onboard_time": 1705486588,
       "rank": 38,
@@ -139,8 +139,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 1098745,
-      "num": 1098745,
+      "raw_hot": 1139461,
+      "num": 1139461,
       "word": "王劲松要求粉丝不要用他照片当头像",
       "onboard_time": 1705485694,
       "rank": 15,
@@ -235,20 +235,20 @@
       "category": "运动健身,社会新闻"
     },
     {
+      "raw_hot": 817203,
+      "num": 817203,
+      "word": "董宇辉称有些活在阴沟里的人指责阳光耀眼",
+      "onboard_time": 1705487068,
+      "rank": 25,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 793673,
       "num": 793673,
       "word": "新疆1558名因雪崩滞留旅客离开景区",
       "onboard_time": 1705451127,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 792743,
-      "num": 792743,
-      "word": "董宇辉称有些活在阴沟里的人指责阳光耀眼",
-      "onboard_time": 1705487068,
-      "rank": 25,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 783403,
@@ -425,6 +425,14 @@
       "onboard_time": 1705466371,
       "rank": 9,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 600219,
+      "num": 600219,
+      "word": "0713男团眼里没有光了",
+      "onboard_time": 1705489828,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 596960,
@@ -731,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427359,
+      "num": 1678293,
+      "word": "河南肉盒已经出爱心款了",
+      "onboard_time": 1705488090,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 418176,
       "num": 418176,
       "word": "王安宇在冰岛用冷水洗澡",
@@ -939,14 +955,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 343510,
-      "num": 343510,
-      "word": "0713男团眼里没有光了",
-      "onboard_time": 1705489828,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 332227,
       "num": 332227,
       "word": "LV大秀",
@@ -960,6 +968,14 @@
       "word": "花儿与少年",
       "onboard_time": 1705468953,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 329835,
+      "num": 329835,
+      "word": "希林娜依高模仿世界小姐",
+      "onboard_time": 1705488210,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1009,6 +1025,14 @@
       "onboard_time": 1705486707,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 317219,
+      "num": 317219,
+      "word": "远离肠癌4种食物要少吃",
+      "onboard_time": 1705488750,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 317207,
@@ -1083,28 +1107,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 290059,
-      "num": 1317099,
-      "word": "河南肉盒已经出爱心款了",
-      "onboard_time": 1705488090,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
       "raw_hot": 289397,
       "num": 289397,
       "word": "赵丽颖诗意为河北打call",
       "onboard_time": 1705474893,
       "rank": 23,
       "category": "旅游,艺人"
-    },
-    {
-      "raw_hot": 288045,
-      "num": 288045,
-      "word": "远离肠癌4种食物要少吃",
-      "onboard_time": 1705488750,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 283842,
@@ -1145,14 +1153,6 @@
       "onboard_time": 1705475787,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276621,
-      "num": 276621,
-      "word": "希林娜依高模仿世界小姐",
-      "onboard_time": 1705488210,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 272991,
@@ -1435,6 +1435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222566,
+      "num": 222566,
+      "word": "祈今朝宣发",
+      "onboard_time": 1705487310,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222160,
       "num": 222160,
       "word": "内蒙古一地生三孩增加产假90天",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1705477771,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 221231,
+      "num": 221231,
+      "word": "仙剑四首播评价",
+      "onboard_time": 1705491028,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 220294,
@@ -1507,11 +1523,35 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 213572,
+      "num": 258102,
+      "word": "国足vs黎巴嫩",
+      "onboard_time": 1705488750,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 213027,
+      "num": 213027,
+      "word": "原神",
+      "onboard_time": 1705490609,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210791,
       "num": 210791,
       "word": "女子偶遇前夫有说有笑称还是亲戚",
       "onboard_time": 1705463670,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210257,
+      "num": 213886,
+      "word": "华中农大涉嫌学术不端教授多项专利被驳回",
+      "onboard_time": 1705490966,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1571,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199379,
+      "num": 1238125,
+      "word": "论摇人我只服河北",
+      "onboard_time": 1705489408,
+      "rank": 6,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 197692,
       "num": 197692,
       "word": "2024LCK春季赛",
@@ -1579,20 +1627,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 197488,
-      "num": 197488,
-      "word": "祈今朝宣发",
-      "onboard_time": 1705487310,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194765,
       "num": 194765,
       "word": "太阳22分逆转国王",
       "onboard_time": 1705468714,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194486,
+      "num": 166305,
+      "word": "韩菱纱云天河初遇",
+      "onboard_time": 1705490428,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 194466,
@@ -1633,14 +1681,6 @@
       "onboard_time": 1705477472,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189895,
-      "num": 1238125,
-      "word": "论摇人我只服河北",
-      "onboard_time": 1705489408,
-      "rank": 6,
-      "category": "旅游"
     },
     {
       "raw_hot": 189660,
@@ -1827,14 +1867,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 164357,
-      "num": 164357,
-      "word": "国足vs黎巴嫩",
-      "onboard_time": 1705488750,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161948,
       "num": 161948,
       "word": "洪崖洞公主造型",
@@ -1985,6 +2017,14 @@
       "onboard_time": 1705472851,
       "rank": 44,
       "category": "旅游,艺人"
+    },
+    {
+      "raw_hot": 143798,
+      "num": 255789,
+      "word": "腊八蒜为啥是绿色的",
+      "onboard_time": 1705490848,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 143589,
@@ -2531,7 +2571,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 58487,
+      "raw_hot": 58715,
       "num": 350434,
       "word": "小米SU7成50万内最期待车型",
       "onboard_time": 1705488151,
@@ -2596,7 +2636,7 @@
     },
     {
       "raw_hot": 36980,
-      "num": 1555349,
+      "num": 1673904,
       "word": "相约冰雪",
       "onboard_time": 1705410872,
       "rank": 2,
@@ -2635,6 +2675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 19701,
+      "num": 502002,
+      "word": "好多明星在天猫画龙年AI年画",
+      "onboard_time": 1705489229,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17958,
       "num": 17958,
       "word": "大学生help大学生",
@@ -2649,14 +2697,6 @@
       "onboard_time": 1705430115,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 14168,
-      "num": 502002,
-      "word": "好多明星在天猫画龙年AI年画",
-      "onboard_time": 1705489229,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 13503,

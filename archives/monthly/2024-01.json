@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705490130487,
+  "endTime": 1705491249075,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1323,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1669893,
+      "num": 1669893,
+      "word": "人口",
+      "onboard_time": 1705486588,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1666986,
       "num": 1666986,
       "word": "余额低于100元不能提现属霸王条款",
@@ -1745,14 +1753,6 @@
       "onboard_time": 1704244469,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1478537,
-      "num": 1478537,
-      "word": "人口",
-      "onboard_time": 1705486588,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1473561,
@@ -3147,6 +3147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1139461,
+      "num": 1139461,
+      "word": "王劲松要求粉丝不要用他照片当头像",
+      "onboard_time": 1705485694,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1139131,
       "num": 1139131,
       "word": "沈耀承认了抑郁症",
@@ -3321,14 +3329,6 @@
       "onboard_time": 1704512249,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1098745,
-      "num": 1098745,
-      "word": "王劲松要求粉丝不要用他照片当头像",
-      "onboard_time": 1705485694,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1098411,
@@ -5427,6 +5427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 817203,
+      "num": 817203,
+      "word": "董宇辉称有些活在阴沟里的人指责阳光耀眼",
+      "onboard_time": 1705487068,
+      "rank": 25,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 815577,
       "num": 815577,
       "word": "贾玲张小斐 我真的会谢",
@@ -5753,14 +5761,6 @@
       "onboard_time": 1704366990,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 792743,
-      "num": 792743,
-      "word": "董宇辉称有些活在阴沟里的人指责阳光耀眼",
-      "onboard_time": 1705487068,
-      "rank": 25,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 791132,
@@ -8881,6 +8881,14 @@
       "onboard_time": 1704790053,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600219,
+      "num": 600219,
+      "word": "0713男团眼里没有光了",
+      "onboard_time": 1705489828,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 599808,
@@ -13435,6 +13443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427359,
+      "num": 1678293,
+      "word": "河南肉盒已经出爱心款了",
+      "onboard_time": 1705488090,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 426800,
       "num": 850597,
       "word": "烟花",
@@ -16083,14 +16099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343510,
-      "num": 343510,
-      "word": "0713男团眼里没有光了",
-      "onboard_time": 1705489828,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 343451,
       "num": 650321,
       "word": "多囊卵巢不等于多囊卵巢综合征",
@@ -16561,6 +16569,14 @@
       "onboard_time": 1705047929,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 329835,
+      "num": 329835,
+      "word": "希林娜依高模仿世界小姐",
+      "onboard_time": 1705488210,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 329730,
@@ -17185,6 +17201,14 @@
       "onboard_time": 1705486707,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 317219,
+      "num": 317219,
+      "word": "远离肠癌4种食物要少吃",
+      "onboard_time": 1705488750,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 317207,
@@ -18507,14 +18531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 290059,
-      "num": 1317099,
-      "word": "河南肉盒已经出爱心款了",
-      "onboard_time": 1705488090,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
       "raw_hot": 289997,
       "num": 265687,
       "word": "许嵩回复了张靓颖",
@@ -18697,14 +18713,6 @@
       "onboard_time": 1704363212,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 288045,
-      "num": 288045,
-      "word": "远离肠癌4种食物要少吃",
-      "onboard_time": 1705488750,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 287840,
@@ -19281,14 +19289,6 @@
       "onboard_time": 1704777033,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276621,
-      "num": 276621,
-      "word": "希林娜依高模仿世界小姐",
-      "onboard_time": 1705488210,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 276560,
@@ -23347,6 +23347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222566,
+      "num": 222566,
+      "word": "祈今朝宣发",
+      "onboard_time": 1705487310,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222371,
       "num": 169793,
       "word": "你好星期六杨紫范丞丞预告",
@@ -23457,6 +23465,14 @@
       "onboard_time": 1705134639,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 221231,
+      "num": 221231,
+      "word": "仙剑四首播评价",
+      "onboard_time": 1705491028,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 221226,
@@ -24227,6 +24243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 213572,
+      "num": 258102,
+      "word": "国足vs黎巴嫩",
+      "onboard_time": 1705320930,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213399,
       "num": 213399,
       "word": "郑晓龙谈甄嬛传纯元的故事",
@@ -24248,6 +24272,14 @@
       "word": "世界之外",
       "onboard_time": 1705388850,
       "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 213027,
+      "num": 213027,
+      "word": "原神",
+      "onboard_time": 1704846393,
+      "rank": 45,
       "category": "游戏"
     },
     {
@@ -24521,6 +24553,14 @@
       "onboard_time": 1704699870,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 210257,
+      "num": 213886,
+      "word": "华中农大涉嫌学术不端教授多项专利被驳回",
+      "onboard_time": 1705490966,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210218,
@@ -26251,6 +26291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199379,
+      "num": 1238125,
+      "word": "论摇人我只服河北",
+      "onboard_time": 1705489408,
+      "rank": 6,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 199348,
       "num": 199348,
       "word": "荣耀发布会",
@@ -26521,14 +26569,6 @@
       "onboard_time": 1704619529,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 197488,
-      "num": 197488,
-      "word": "祈今朝宣发",
-      "onboard_time": 1705487310,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 197423,
@@ -27033,6 +27073,14 @@
       "onboard_time": 1704161256,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194486,
+      "num": 166305,
+      "word": "韩菱纱云天河初遇",
+      "onboard_time": 1705490428,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 194474,
@@ -27769,14 +27817,6 @@
       "onboard_time": 1704768752,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189895,
-      "num": 1238125,
-      "word": "论摇人我只服河北",
-      "onboard_time": 1705489408,
-      "rank": 6,
-      "category": "旅游"
     },
     {
       "raw_hot": 189867,
@@ -30587,14 +30627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 173372,
-      "num": 173372,
-      "word": "国足vs黎巴嫩",
-      "onboard_time": 1705320930,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173357,
       "num": 173357,
       "word": "这个华妃看起来烟熏火燎的",
@@ -32801,14 +32833,6 @@
       "onboard_time": 1704848911,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 159837,
-      "num": 159837,
-      "word": "原神",
-      "onboard_time": 1704846393,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 159836,
@@ -35625,6 +35649,14 @@
       "onboard_time": 1705223250,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 143798,
+      "num": 255789,
+      "word": "腊八蒜为啥是绿色的",
+      "onboard_time": 1705490848,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 143684,
@@ -43436,7 +43468,7 @@
     },
     {
       "raw_hot": 80339,
-      "num": 1555349,
+      "num": 1673904,
       "word": "相约冰雪",
       "onboard_time": 1705410872,
       "rank": 2,
@@ -44459,6 +44491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58715,
+      "num": 350434,
+      "word": "小米SU7成50万内最期待车型",
+      "onboard_time": 1705488151,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 58713,
       "num": 299705,
       "word": "华为门店里有龙出没",
@@ -44481,14 +44521,6 @@
       "onboard_time": 1704133757,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 58487,
-      "num": 350434,
-      "word": "小米SU7成50万内最期待车型",
-      "onboard_time": 1705488151,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 58476,
@@ -46027,6 +46059,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 19701,
+      "num": 502002,
+      "word": "好多明星在天猫画龙年AI年画",
+      "onboard_time": 1705489229,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19298,
       "num": 21943,
       "word": "小土豆初体验铲雪被东北大爷直夸",
@@ -46297,14 +46337,6 @@
       "onboard_time": 1704394576,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 14168,
-      "num": 502002,
-      "word": "好多明星在天猫画龙年AI年画",
-      "onboard_time": 1705489229,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 14035,
