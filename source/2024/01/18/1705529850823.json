@@ -1,0 +1,410 @@
+{
+  "runTime": 1705529850823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 139584,
+        "num": 139584,
+        "word": "大麦同意退款抢林俊杰变林子祥的票",
+        "onboard_time": 1705507469,
+        "rank": 0,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 132101,
+        "num": 132101,
+        "word": "海底捞打毛线收费39到99",
+        "onboard_time": 1705509444,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18639,
+        "num": 130819,
+        "word": "腊八蒜为啥是绿色的",
+        "onboard_time": 1705490848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129992,
+        "num": 129992,
+        "word": "女童送医后死亡其父被刑拘",
+        "onboard_time": 1705498472,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111174,
+        "num": 111174,
+        "word": "小孩哥沉默十秒 浙江文旅一年白干",
+        "onboard_time": 1705484970,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 102156,
+        "num": 102156,
+        "word": "车厘子降价仍不被买账",
+        "onboard_time": 1705501291,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102119,
+        "num": 102119,
+        "word": "村里停电新能源车变身老人生命充电桩",
+        "onboard_time": 1705507167,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81538,
+        "num": 81538,
+        "word": "仙剑四首播评价",
+        "onboard_time": 1705491028,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73704,
+        "num": 73704,
+        "word": "iPhone15价格跌至史上最低",
+        "onboard_time": 1705476931,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72048,
+        "num": 72048,
+        "word": "宋小宝韩国",
+        "onboard_time": 1705485152,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156356,
+        "num": 71171,
+        "word": "华中农大11名学生联名举报信长达125页",
+        "onboard_time": 1705502670,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66601,
+        "num": 66601,
+        "word": "徐志胜被家乡摇出来了",
+        "onboard_time": 1705506388,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51507,
+        "num": 51507,
+        "word": "张拿铁人设崩塌",
+        "onboard_time": 1705494388,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 45049,
+        "num": 45049,
+        "word": "中方将给予爱尔兰单方面免签",
+        "onboard_time": 1705501172,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39630,
+        "num": 39630,
+        "word": "王安宇等这一刻等很久了吧",
+        "onboard_time": 1705508964,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38532,
+        "num": 38532,
+        "word": "什刹海偶遇章若楠滑冰",
+        "onboard_time": 1705515854,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35849,
+        "num": 35849,
+        "word": "华中农大涉嫌学术不端教授多项专利被驳回",
+        "onboard_time": 1705490966,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33520,
+        "num": 33520,
+        "word": "宋轶背上了文咏珊送的包",
+        "onboard_time": 1705497090,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28047,
+        "num": 28047,
+        "word": "恋与深空",
+        "onboard_time": 1705493788,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26820,
+        "num": 26820,
+        "word": "远离肠癌4种食物要少吃",
+        "onboard_time": 1705488750,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39892,
+        "num": 26804,
+        "word": "月薪四万是一种什么体验",
+        "onboard_time": 1705499610,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30212,
+        "num": 26800,
+        "word": "网红樊小慧称被前婆婆殴打不是剧本",
+        "onboard_time": 1705505969,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 26763,
+        "num": 26763,
+        "word": "仙剑四六对打",
+        "onboard_time": 1705493847,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26017,
+        "num": 26017,
+        "word": "不是情侣关系的占有欲",
+        "onboard_time": 1705503091,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25057,
+        "num": 25057,
+        "word": "肖战帮猫狗劝架",
+        "onboard_time": 1705500209,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24666,
+        "num": 24666,
+        "word": "天舟七号发射",
+        "onboard_time": 1705496967,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22545,
+        "num": 22545,
+        "word": "国足黎巴嫩冲突",
+        "onboard_time": 1705497811,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22281,
+        "num": 22281,
+        "word": "又给优酷蹭到了",
+        "onboard_time": 1705499130,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21279,
+        "num": 21279,
+        "word": "钟楚曦侯雯元合体直播",
+        "onboard_time": 1705498892,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20973,
+        "num": 20973,
+        "word": "0713男团眼里没有光了",
+        "onboard_time": 1705489828,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24436,
+        "num": 20879,
+        "word": "三种鱼常吃会危害健康",
+        "onboard_time": 1705513277,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19238,
+        "num": 19238,
+        "word": "国足0比0黎巴嫩",
+        "onboard_time": 1705498472,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19065,
+        "num": 19065,
+        "word": "夹来的娃娃最好别放床头",
+        "onboard_time": 1705481130,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18658,
+        "num": 18658,
+        "word": "国足",
+        "onboard_time": 1705504229,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18244,
+        "num": 18244,
+        "word": "优酷限免仙剑一三五",
+        "onboard_time": 1705492589,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17933,
+        "num": 17933,
+        "word": "你希望春晚出现科目三吗",
+        "onboard_time": 1705516035,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17660,
+        "num": 17660,
+        "word": "华中农业大学回应涉事教师调查情况",
+        "onboard_time": 1705496669,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17044,
+        "num": 17044,
+        "word": "可偏偏是17年",
+        "onboard_time": 1705510641,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16379,
+        "num": 16379,
+        "word": "仙剑四今晚开播",
+        "onboard_time": 1705470632,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16362,
+        "num": 16362,
+        "word": "仙剑六",
+        "onboard_time": 1705499911,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16208,
+        "num": 16208,
+        "word": "无畏说小义没有背刺兄弟",
+        "onboard_time": 1705501471,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16036,
+        "num": 16036,
+        "word": "王者嫦娥新皮肤",
+        "onboard_time": 1705501353,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15308,
+        "num": 15308,
+        "word": "苹果头显感到疼痛解决方案",
+        "onboard_time": 1705523832,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14824,
+        "num": 14824,
+        "word": "水瓶座单身率高的原因",
+        "onboard_time": 1705492174,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14635,
+        "num": 14635,
+        "word": "天津迎来这种水果",
+        "onboard_time": 1705526231,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14325,
+        "num": 14634,
+        "word": "穆里尼奥告别罗马",
+        "onboard_time": 1705527672,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14119,
+        "num": 14633,
+        "word": "祈今朝明日开播",
+        "onboard_time": 1705491810,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12628,
+        "num": 14630,
+        "word": "恋与深空全球多地区登顶",
+        "onboard_time": 1705500632,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12384,
+        "num": 14627,
+        "word": "华中农大教授遭学生举报学术不端被调查",
+        "onboard_time": 1705513997,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12288,
+        "num": 14626,
+        "word": "如果奔跑是我的人生",
+        "onboard_time": 1705519214,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
