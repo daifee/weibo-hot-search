@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705480602289,
+  "endTime": 1705483122444,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2363,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1309497,
+      "num": 1309497,
+      "word": "21岁女生每月3次月经病因在大脑",
+      "onboard_time": 1705479213,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1301854,
       "num": 1301854,
       "word": "影评人说唐嫣繁花演技脱胎换骨",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704696629,
       "rank": 10,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1292816,
-      "num": 1292816,
-      "word": "家有儿女大电影定档",
-      "onboard_time": 1704256474,
-      "rank": 15,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
