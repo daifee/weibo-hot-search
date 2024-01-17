@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705476870460,
+  "endTime": 1705479790676,
   "band_list": [
     {
       "raw_hot": 2770385,
@@ -35,12 +35,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1913469,
+      "num": 1913469,
+      "word": "iPhone15价格跌至史上最低",
+      "onboard_time": 1705476931,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1837637,
       "num": 1837637,
       "word": "国产剧终于癫成了我不认识的样子",
       "onboard_time": 1705453590,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1441832,
+      "num": 1441832,
+      "word": "李晋晔辞职",
+      "onboard_time": 1705475909,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1386460,
@@ -203,20 +219,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 768375,
-      "num": 768375,
-      "word": "李晋晔辞职",
-      "onboard_time": 1705475909,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 759489,
       "num": 759489,
       "word": "乌合麒麟为哈尔滨作画",
       "onboard_time": 1705470569,
       "rank": 6,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 721577,
+      "num": 721577,
+      "word": "仙剑四仙剑六都发了预告",
+      "onboard_time": 1705476689,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 721459,
@@ -315,6 +331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 609758,
+      "num": 467159,
+      "word": "赖冠霖再次随地丢烟头",
+      "onboard_time": 1705476812,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 602732,
       "num": 602732,
       "word": "微信办公构成加班须支付加班工资",
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 560424,
-      "num": 339253,
+      "num": 363156,
       "word": "长期喝茶与喝白开水谁更健康",
       "onboard_time": 1705473149,
       "rank": 23,
@@ -419,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508789,
+      "num": 508789,
+      "word": "东方甄选1周掉粉18万",
+      "onboard_time": 1705476388,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 503808,
       "num": 503808,
       "word": "国台办回应网上出现武统声音",
@@ -483,6 +515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 467650,
+      "num": 467650,
+      "word": "全员加速中开录",
+      "onboard_time": 1705478669,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466155,
       "num": 466155,
       "word": "抢火车票不用自己设闹钟了",
@@ -521,6 +561,14 @@
       "onboard_time": 1705412791,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 445960,
+      "num": 445960,
+      "word": "无畏回应转辅助位",
+      "onboard_time": 1705477230,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 443234,
@@ -627,6 +675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 380138,
+      "num": 380138,
+      "word": "仙剑四",
+      "onboard_time": 1705479031,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378720,
       "num": 378720,
       "word": "老父亲叮嘱53岁单身女儿留足养老费",
@@ -643,12 +699,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365473,
+      "num": 365473,
+      "word": "A股超5000只个股下跌",
+      "onboard_time": 1705479091,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 364587,
       "num": 364587,
       "word": "巴黎LV大秀",
       "onboard_time": 1705418493,
       "rank": 8,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 363380,
+      "num": 363380,
+      "word": "迪丽热巴胡先煦 朋友倒霉我拍照",
+      "onboard_time": 1705478669,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 362189,
+      "num": 362189,
+      "word": "为什么女生容易长小肚子",
+      "onboard_time": 1705475369,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 358555,
@@ -739,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312644,
+      "num": 312644,
+      "word": "樊小慧被打",
+      "onboard_time": 1705477828,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 312163,
       "num": 312163,
       "word": "女儿本命年爸爸狂买36件红色礼物",
@@ -771,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294008,
+      "num": 225494,
+      "word": "21岁女生每月3次月经病因在大脑",
+      "onboard_time": 1705479213,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 289397,
       "num": 289397,
       "word": "赵丽颖诗意为河北打call",
@@ -795,12 +891,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 282369,
+      "num": 282369,
+      "word": "朱一龙伤疤",
+      "onboard_time": 1705477050,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267422,
       "num": 267422,
       "word": "生孩子会特别选时间吗",
       "onboard_time": 1705467693,
       "rank": 25,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 263922,
+      "num": 263922,
+      "word": "网传00后员工被公司要求陪酒后离职",
+      "onboard_time": 1705475787,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263514,
@@ -828,7 +940,7 @@
     },
     {
       "raw_hot": 262699,
-      "num": 212117,
+      "num": 225303,
       "word": "王安宇都吐了还在逞强",
       "onboard_time": 1705476269,
       "rank": 30,
@@ -867,14 +979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249352,
-      "num": 249352,
-      "word": "为什么女生容易长小肚子",
-      "onboard_time": 1705475369,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 249211,
       "num": 249211,
       "word": "全球第二长寿男子去世",
@@ -905,6 +1009,14 @@
       "onboard_time": 1705451127,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 242671,
+      "num": 242671,
+      "word": "狗狗趁主人不在家咬死120只鸡",
+      "onboard_time": 1705475734,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240576,
@@ -995,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222078,
+      "num": 222078,
+      "word": "王嘉尔皮手套上戴戒指",
+      "onboard_time": 1705477771,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218781,
       "num": 192222,
       "word": "金莎P图",
@@ -1043,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206376,
+      "num": 191000,
+      "word": "周震南微博名改回来了",
+      "onboard_time": 1705479390,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205315,
       "num": 143427,
       "word": "仙剑四不断更",
@@ -1051,16 +1179,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204377,
-      "num": 204377,
-      "word": "东方甄选1周掉粉18万",
-      "onboard_time": 1705476388,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 204303,
-      "num": 1147471,
+      "num": 1443831,
       "word": "2024开年最卷的为啥是文旅",
       "onboard_time": 1705460249,
       "rank": 27,
@@ -1073,14 +1193,6 @@
       "onboard_time": 1705464032,
       "rank": 14,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 202486,
-      "num": 202486,
-      "word": "仙剑四仙剑六都发了预告",
-      "onboard_time": 1705476689,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 194765,
@@ -1113,6 +1225,22 @@
       "onboard_time": 1705460909,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 191219,
+      "num": 191219,
+      "word": "DYG 小白熊",
+      "onboard_time": 1705479451,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 190324,
+      "num": 190324,
+      "word": "韩剧版我的局长父亲",
+      "onboard_time": 1705477472,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 189660,
@@ -1155,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179990,
-      "num": 179990,
-      "word": "网传00后员工被公司要求陪酒后离职",
-      "onboard_time": 1705475787,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179782,
       "num": 179782,
       "word": "LESSERAFIM将首登科切拉",
@@ -1187,6 +1307,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175829,
+      "num": 175829,
+      "word": "大侦探9演唱会节目单",
+      "onboard_time": 1705478372,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172804,
+      "num": 172804,
+      "word": "LCK队伍发布联合声明",
+      "onboard_time": 1705477711,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172778,
       "num": 172778,
       "word": "金牛座具有强大的内核",
@@ -1209,14 +1345,6 @@
       "onboard_time": 1705473030,
       "rank": 39,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 171387,
-      "num": 171387,
-      "word": "狗狗趁主人不在家咬死120只鸡",
-      "onboard_time": 1705475734,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170805,
@@ -1275,6 +1403,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 165423,
+      "num": 165423,
+      "word": "锅姨 这是第二次搞化学",
+      "onboard_time": 1705479570,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164650,
       "num": 164650,
       "word": "樱桃和车厘子有啥区别",
@@ -1313,6 +1449,14 @@
       "onboard_time": 1705473332,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153126,
+      "num": 153126,
+      "word": "猫遇到这辈子最难舔的毛了",
+      "onboard_time": 1705479633,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 153032,
@@ -1465,14 +1609,6 @@
       "onboard_time": 1705449506,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135928,
-      "num": 135928,
-      "word": "赖冠霖再次随地丢烟头",
-      "onboard_time": 1705476812,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 135583,
