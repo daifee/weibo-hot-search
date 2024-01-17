@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705523674690,
+  "endTime": 1705526173267,
   "band_list": [
     {
       "raw_hot": 1631758,
@@ -561,6 +561,14 @@
       "onboard_time": 1705519214,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13163,
+      "num": 13163,
+      "word": "苹果头显感到疼痛解决方案",
+      "onboard_time": 1705523832,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 12748,
