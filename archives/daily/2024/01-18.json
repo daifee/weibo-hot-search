@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705508646045,
+  "endTime": 1705509597968,
   "band_list": [
     {
       "raw_hot": 1631758,
@@ -19,8 +19,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 604769,
-      "num": 604769,
+      "raw_hot": 806702,
+      "num": 806702,
       "word": "大麦同意退款抢林俊杰变林子祥的票",
       "onboard_time": 1705507469,
       "rank": 1,
@@ -107,20 +107,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 309154,
+      "num": 309154,
+      "word": "小孩哥沉默十秒 浙江文旅一年白干",
+      "onboard_time": 1705484970,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 281593,
       "num": 179732,
       "word": "月薪四万是一种什么体验",
       "onboard_time": 1705499610,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 271366,
-      "num": 271366,
-      "word": "小孩哥沉默十秒 浙江文旅一年白干",
-      "onboard_time": 1705484970,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 264186,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 117927,
-      "num": 114971,
+      "num": 116464,
       "word": "祈今朝明日开播",
       "onboard_time": 1705491810,
       "rank": 34,
@@ -289,6 +289,14 @@
       "onboard_time": 1705489828,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111866,
+      "num": 111866,
+      "word": "高叶听到粉丝说放假45天的反应",
+      "onboard_time": 1705508308,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 111640,
@@ -339,12 +347,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 95198,
-      "num": 95198,
-      "word": "高叶听到粉丝说放假45天的反应",
-      "onboard_time": 1705508308,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 99841,
+      "num": 99841,
+      "word": "王安宇等这一刻等很久了吧",
+      "onboard_time": 1705508964,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 94692,
@@ -387,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76731,
+      "num": 76731,
+      "word": "仙剑四选角",
+      "onboard_time": 1705509382,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74410,
       "num": 82972,
       "word": "CBA",
@@ -401,6 +417,14 @@
       "onboard_time": 1705498472,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56407,
+      "num": 70347,
+      "word": "海底捞打毛线收费39到99",
+      "onboard_time": 1705509444,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
