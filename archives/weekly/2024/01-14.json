@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705475857311,
+  "endTime": 1705476870460,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -571,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1204875,
+      "num": 546314,
+      "word": "A股",
+      "onboard_time": 1705283129,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1204322,
       "num": 1204322,
       "word": "马丽雷佳音肖战 躲C位",
@@ -659,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1119583,
-      "num": 546314,
-      "word": "A股",
-      "onboard_time": 1705283129,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1095666,
       "num": 1095666,
       "word": "国考排名",
@@ -683,11 +683,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1087726,
+      "num": 1087726,
+      "word": "鞠婧祎工作室称仙剑四片方违约",
+      "onboard_time": 1705473030,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1081088,
       "num": 1081088,
       "word": "南方小土豆在东北旅游3天买了套房",
       "onboard_time": 1705456226,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1077106,
+      "num": 1077106,
+      "word": "患癌女子将遗产全留父亲被丈夫女儿起诉",
+      "onboard_time": 1705473452,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -721,14 +737,6 @@
       "onboard_time": 1705197751,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1058483,
-      "num": 1058483,
-      "word": "鞠婧祎工作室称仙剑四片方违约",
-      "onboard_time": 1705473030,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 1057333,
@@ -979,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 883619,
-      "num": 883619,
-      "word": "患癌女子将遗产全留父亲被丈夫女儿起诉",
-      "onboard_time": 1705473452,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 870334,
       "num": 870334,
       "word": "张颂文回复杨紫",
@@ -1225,6 +1225,14 @@
       "onboard_time": 1705214011,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 768375,
+      "num": 768375,
+      "word": "李晋晔辞职",
+      "onboard_time": 1705475909,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 768094,
@@ -2100,7 +2108,7 @@
     },
     {
       "raw_hot": 556303,
-      "num": 498492,
+      "num": 527176,
       "word": "赵昭仪边吃边yue",
       "onboard_time": 1705473571,
       "rank": 11,
@@ -2153,6 +2161,14 @@
       "onboard_time": 1705236510,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 542012,
+      "num": 542012,
+      "word": "茅台跌破1600元关口",
+      "onboard_time": 1705473990,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 538992,
@@ -2299,6 +2315,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 514145,
+      "num": 514145,
+      "word": "华中农大学生举报导师疑学术不端细节",
+      "onboard_time": 1705473990,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510863,
       "num": 510863,
       "word": "佘诗曼获马来西亚最喜爱TVB女主角",
@@ -2329,14 +2353,6 @@
       "onboard_time": 1705385788,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 505494,
-      "num": 505494,
-      "word": "茅台跌破1600元关口",
-      "onboard_time": 1705473990,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 504257,
@@ -3131,6 +3147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380883,
+      "num": 380883,
+      "word": "Uzi疑似获得名人堂皮肤",
+      "onboard_time": 1705474650,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 379109,
       "num": 379109,
       "word": "王楚钦vs林诗栋",
@@ -3201,14 +3225,6 @@
       "onboard_time": 1705219529,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 369419,
-      "num": 369419,
-      "word": "华中农大学生举报导师疑学术不端细节",
-      "onboard_time": 1705473990,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366928,
@@ -3377,14 +3393,6 @@
       "onboard_time": 1705159548,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 343143,
-      "num": 343143,
-      "word": "Uzi疑似获得名人堂皮肤",
-      "onboard_time": 1705474650,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 342673,
@@ -3899,6 +3907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 289397,
+      "num": 289397,
+      "word": "赵丽颖诗意为河北打call",
+      "onboard_time": 1705474893,
+      "rank": 23,
+      "category": "旅游,艺人"
+    },
+    {
       "raw_hot": 288309,
       "num": 278516,
       "word": "恋与深空洗澡卡",
@@ -4243,6 +4259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 262699,
+      "num": 212117,
+      "word": "王安宇都吐了还在逞强",
+      "onboard_time": 1705476269,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261161,
       "num": 261161,
       "word": "仙剑四官微开通",
@@ -4363,14 +4387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255756,
-      "num": 255756,
-      "word": "赵丽颖诗意为河北打call",
-      "onboard_time": 1705474893,
-      "rank": 23,
-      "category": "旅游,艺人"
-    },
-    {
       "raw_hot": 255643,
       "num": 255643,
       "word": "孙怡又粉又闪",
@@ -4433,6 +4449,14 @@
       "onboard_time": 1705238072,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249352,
+      "num": 249352,
+      "word": "为什么女生容易长小肚子",
+      "onboard_time": 1705475369,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 249302,
@@ -4627,6 +4651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238758,
+      "num": 238758,
+      "word": "关晓彤又健身了",
+      "onboard_time": 1705474769,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238401,
       "num": 238401,
       "word": "魏大勋收到雷佳音送的核桃",
@@ -4785,6 +4817,14 @@
       "onboard_time": 1705206510,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232432,
+      "num": 211307,
+      "word": "胡锡进谈GDP增长5.2%",
+      "onboard_time": 1705475853,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231228,
@@ -5163,14 +5203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214614,
-      "num": 214614,
-      "word": "关晓彤又健身了",
-      "onboard_time": 1705474769,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214231,
       "num": 214231,
       "word": "感冒后千万别做这3件事",
@@ -5443,6 +5475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204377,
+      "num": 204377,
+      "word": "东方甄选1周掉粉18万",
+      "onboard_time": 1705476388,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 204303,
       "num": 1147471,
       "word": "2024开年最卷的为啥是文旅",
@@ -5505,6 +5545,14 @@
       "onboard_time": 1705414592,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202486,
+      "num": 202486,
+      "word": "仙剑四仙剑六都发了预告",
+      "onboard_time": 1705476689,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 202116,
@@ -6331,6 +6379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179990,
+      "num": 179990,
+      "word": "网传00后员工被公司要求陪酒后离职",
+      "onboard_time": 1705475787,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179782,
       "num": 179782,
       "word": "LESSERAFIM将首登科切拉",
@@ -6635,6 +6691,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 171387,
+      "num": 171387,
+      "word": "狗狗趁主人不在家咬死120只鸡",
+      "onboard_time": 1705475734,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171311,
       "num": 171311,
       "word": "萧敬腾 不是雨神是爱神",
@@ -6849,6 +6913,14 @@
       "onboard_time": 1705210951,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167220,
+      "num": 167220,
+      "word": "谭松韵喊大家来四川耍",
+      "onboard_time": 1705475608,
+      "rank": 42,
+      "category": "旅游,艺人"
     },
     {
       "raw_hot": 166828,
@@ -7291,14 +7363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153845,
-      "num": 153845,
-      "word": "为什么女生容易长小肚子",
-      "onboard_time": 1705475369,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 153405,
       "num": 153405,
       "word": "是谁发明的过安检脱外套",
@@ -7497,14 +7561,6 @@
       "onboard_time": 1705404512,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147118,
-      "num": 147118,
-      "word": "谭松韵喊大家来四川耍",
-      "onboard_time": 1705475608,
-      "rank": 42,
-      "category": "旅游,艺人"
     },
     {
       "raw_hot": 146922,
@@ -8131,6 +8187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135928,
+      "num": 135928,
+      "word": "赖冠霖再次随地丢烟头",
+      "onboard_time": 1705476812,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135698,
       "num": 135698,
       "word": "标有这4个字的酱油最好别买",
@@ -8753,14 +8817,6 @@
       "onboard_time": 1705373007,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 118487,
-      "num": 118487,
-      "word": "网传00后员工被公司要求陪酒后离职",
-      "onboard_time": 1705475787,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118369,
@@ -9504,6 +9560,14 @@
       "word": "纽卡斯尔联2比3曼城",
       "onboard_time": 1705187960,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78878,
+      "num": 215447,
+      "word": "丘妈又来中国进年货了",
+      "onboard_time": 1705476033,
+      "rank": 29,
       "category": "体育"
     },
     {

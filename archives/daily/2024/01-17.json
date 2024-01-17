@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705475857311,
+  "endTime": 1705476870460,
   "band_list": [
     {
       "raw_hot": 2770385,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1204875,
+      "num": 533789,
+      "word": "A股",
+      "onboard_time": 1705457490,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1203088,
       "num": 399292,
       "word": "华中农业大学学生实名举报导师学术造假",
@@ -75,12 +83,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1119583,
-      "num": 498494,
-      "word": "A股",
-      "onboard_time": 1705457490,
-      "rank": 10,
-      "category": "财经"
+      "raw_hot": 1087726,
+      "num": 1087726,
+      "word": "鞠婧祎工作室称仙剑四片方违约",
+      "onboard_time": 1705473030,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 1081088,
@@ -91,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1058483,
-      "num": 1058483,
-      "word": "鞠婧祎工作室称仙剑四片方违约",
-      "onboard_time": 1705473030,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 1077106,
+      "num": 1077106,
+      "word": "患癌女子将遗产全留父亲被丈夫女儿起诉",
+      "onboard_time": 1705473452,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1022435,
@@ -136,14 +144,6 @@
       "word": "两名99后男子当街行凶被执行死刑",
       "onboard_time": 1705468414,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 883619,
-      "num": 883619,
-      "word": "患癌女子将遗产全留父亲被丈夫女儿起诉",
-      "onboard_time": 1705473452,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -201,6 +201,14 @@
       "onboard_time": 1705460727,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 768375,
+      "num": 768375,
+      "word": "李晋晔辞职",
+      "onboard_time": 1705475909,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 759489,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 556303,
-      "num": 498492,
+      "num": 527176,
       "word": "赵昭仪边吃边yue",
       "onboard_time": 1705473571,
       "rank": 11,
@@ -353,6 +361,14 @@
       "onboard_time": 1705414172,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 542012,
+      "num": 542012,
+      "word": "茅台跌破1600元关口",
+      "onboard_time": 1705473990,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 538992,
@@ -395,12 +411,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 505494,
-      "num": 505494,
-      "word": "茅台跌破1600元关口",
+      "raw_hot": 514145,
+      "num": 514145,
+      "word": "华中农大学生举报导师疑学术不端细节",
       "onboard_time": 1705473990,
-      "rank": 9,
-      "category": "财经"
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 503808,
@@ -603,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380883,
+      "num": 380883,
+      "word": "Uzi疑似获得名人堂皮肤",
+      "onboard_time": 1705474650,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 378720,
       "num": 378720,
       "word": "老父亲叮嘱53岁单身女儿留足养老费",
@@ -617,14 +641,6 @@
       "onboard_time": 1705469969,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369419,
-      "num": 369419,
-      "word": "华中农大学生举报导师疑学术不端细节",
-      "onboard_time": 1705473990,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364587,
@@ -673,14 +689,6 @@
       "onboard_time": 1705457248,
       "rank": 15,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 343143,
-      "num": 343143,
-      "word": "Uzi疑似获得名人堂皮肤",
-      "onboard_time": 1705474650,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 332227,
@@ -763,6 +771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 289397,
+      "num": 289397,
+      "word": "赵丽颖诗意为河北打call",
+      "onboard_time": 1705474893,
+      "rank": 23,
+      "category": "旅游,艺人"
+    },
+    {
       "raw_hot": 283273,
       "num": 290899,
       "word": "恋与深空明日上线",
@@ -811,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262699,
+      "num": 212117,
+      "word": "王安宇都吐了还在逞强",
+      "onboard_time": 1705476269,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261161,
       "num": 261161,
       "word": "仙剑四官微开通",
@@ -835,20 +859,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 255756,
-      "num": 255756,
-      "word": "赵丽颖诗意为河北打call",
-      "onboard_time": 1705474893,
-      "rank": 23,
-      "category": "旅游,艺人"
-    },
-    {
       "raw_hot": 249609,
       "num": 249609,
       "word": "繁花里最让我误会的镜头",
       "onboard_time": 1705421367,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249352,
+      "num": 249352,
+      "word": "为什么女生容易长小肚子",
+      "onboard_time": 1705475369,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 249211,
@@ -899,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238758,
+      "num": 238758,
+      "word": "关晓彤又健身了",
+      "onboard_time": 1705474769,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236966,
       "num": 236966,
       "word": "王俊凯机场路透",
@@ -921,6 +953,14 @@
       "onboard_time": 1705461871,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232432,
+      "num": 211307,
+      "word": "胡锡进谈GDP增长5.2%",
+      "onboard_time": 1705475853,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226846,
@@ -995,14 +1035,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 214614,
-      "num": 214614,
-      "word": "关晓彤又健身了",
-      "onboard_time": 1705474769,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210791,
       "num": 210791,
       "word": "女子偶遇前夫有说有笑称还是亲戚",
@@ -1019,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204377,
+      "num": 204377,
+      "word": "东方甄选1周掉粉18万",
+      "onboard_time": 1705476388,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 204303,
       "num": 1147471,
       "word": "2024开年最卷的为啥是文旅",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1705464032,
       "rank": 14,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 202486,
+      "num": 202486,
+      "word": "仙剑四仙剑六都发了预告",
+      "onboard_time": 1705476689,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 194765,
@@ -1107,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179990,
+      "num": 179990,
+      "word": "网传00后员工被公司要求陪酒后离职",
+      "onboard_time": 1705475787,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179782,
       "num": 179782,
       "word": "LESSERAFIM将首登科切拉",
@@ -1155,6 +1211,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 171387,
+      "num": 171387,
+      "word": "狗狗趁主人不在家咬死120只鸡",
+      "onboard_time": 1705475734,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170805,
       "num": 170805,
       "word": "星穹铁道真理医生",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1705473748,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167220,
+      "num": 167220,
+      "word": "谭松韵喊大家来四川耍",
+      "onboard_time": 1705475608,
+      "rank": 42,
+      "category": "旅游,艺人"
     },
     {
       "raw_hot": 166041,
@@ -1243,14 +1315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153845,
-      "num": 153845,
-      "word": "为什么女生容易长小肚子",
-      "onboard_time": 1705475369,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 153032,
       "num": 153032,
       "word": "机场民警回应粉丝代拍扰序",
@@ -1297,14 +1361,6 @@
       "onboard_time": 1705458749,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147118,
-      "num": 147118,
-      "word": "谭松韵喊大家来四川耍",
-      "onboard_time": 1705475608,
-      "rank": 42,
-      "category": "旅游,艺人"
     },
     {
       "raw_hot": 145598,
@@ -1409,6 +1465,14 @@
       "onboard_time": 1705449506,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135928,
+      "num": 135928,
+      "word": "赖冠霖再次随地丢烟头",
+      "onboard_time": 1705476812,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 135583,
@@ -1544,14 +1608,6 @@
       "word": "得知姐姐被训哭2岁男童和爸爸硬刚",
       "onboard_time": 1705418612,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118487,
-      "num": 118487,
-      "word": "网传00后员工被公司要求陪酒后离职",
-      "onboard_time": 1705475787,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1737,6 +1793,14 @@
       "onboard_time": 1705412975,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78878,
+      "num": 215447,
+      "word": "丘妈又来中国进年货了",
+      "onboard_time": 1705476033,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 74227,

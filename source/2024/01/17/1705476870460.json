@@ -1,0 +1,410 @@
+{
+  "runTime": 1705476870460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2175233,
+        "num": 2175233,
+        "word": "仙剑四今晚开播",
+        "onboard_time": 1705470632,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1211804,
+        "num": 1211804,
+        "word": "警方介入网红樊小慧称被前婆婆殴打",
+        "onboard_time": 1705470930,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 73705,
+        "num": 1119116,
+        "word": "2024开年最卷的为啥是文旅",
+        "onboard_time": 1705460249,
+        "rank": 2,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1087726,
+        "num": 1087726,
+        "word": "鞠婧祎工作室称仙剑四片方违约",
+        "onboard_time": 1705473030,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1077106,
+        "num": 1077106,
+        "word": "患癌女子将遗产全留父亲被丈夫女儿起诉",
+        "onboard_time": 1705473452,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832528,
+        "num": 832528,
+        "word": "董宇辉卖鱼",
+        "onboard_time": 1705473389,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 768375,
+        "num": 768375,
+        "word": "李晋晔辞职",
+        "onboard_time": 1705475909,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615403,
+        "num": 615403,
+        "word": "陈哲远方否认抢番",
+        "onboard_time": 1705472131,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542012,
+        "num": 542012,
+        "word": "茅台跌破1600元关口",
+        "onboard_time": 1705473990,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 538278,
+        "num": 538278,
+        "word": "乌合麒麟为哈尔滨作画",
+        "onboard_time": 1705470569,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1204875,
+        "num": 533789,
+        "word": "A股",
+        "onboard_time": 1705470569,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 527176,
+        "num": 527176,
+        "word": "赵昭仪边吃边yue",
+        "onboard_time": 1705473571,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514145,
+        "num": 514145,
+        "word": "华中农大学生举报导师疑学术不端细节",
+        "onboard_time": 1705473990,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475802,
+        "num": 475802,
+        "word": "南方小土豆在东北旅游3天买了套房",
+        "onboard_time": 1705456226,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403838,
+        "num": 403838,
+        "word": "周震南躲箱子里爆哭被抬走",
+        "onboard_time": 1705460727,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 395025,
+        "num": 395025,
+        "word": "无畏 辅助",
+        "onboard_time": 1705470688,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 380883,
+        "num": 380883,
+        "word": "Uzi疑似获得名人堂皮肤",
+        "onboard_time": 1705474650,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 352305,
+        "num": 352305,
+        "word": "两名99后男子当街行凶被执行死刑",
+        "onboard_time": 1705468414,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326704,
+        "num": 326704,
+        "word": "专家称龙年或出现生育小高峰",
+        "onboard_time": 1705460487,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300642,
+        "num": 300642,
+        "word": "鞠婧祎工作室回应署名争议",
+        "onboard_time": 1705471411,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550943,
+        "num": 299027,
+        "word": "长期喝茶与喝白开水谁更健康",
+        "onboard_time": 1705473149,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289397,
+        "num": 289397,
+        "word": "赵丽颖诗意为河北打call",
+        "onboard_time": 1705474893,
+        "rank": 21,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 273920,
+        "num": 273920,
+        "word": "咒术回战 五条悟尸体被移走",
+        "onboard_time": 1705469312,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 261578,
+        "num": 261578,
+        "word": "迪丽热巴用十分钟画的妆",
+        "onboard_time": 1705469550,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254631,
+        "num": 254631,
+        "word": "女儿本命年爸爸狂买36件红色礼物",
+        "onboard_time": 1705473630,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249352,
+        "num": 249352,
+        "word": "为什么女生容易长小肚子",
+        "onboard_time": 1705475369,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241437,
+        "num": 241437,
+        "word": "仙剑四开启预约",
+        "onboard_time": 1705472248,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238758,
+        "num": 238758,
+        "word": "关晓彤又健身了",
+        "onboard_time": 1705474769,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229021,
+        "num": 229021,
+        "word": "国产剧终于癫成了我不认识的样子",
+        "onboard_time": 1705453590,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78878,
+        "num": 215447,
+        "word": "丘妈又来中国进年货了",
+        "onboard_time": 1705476033,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262699,
+        "num": 212117,
+        "word": "王安宇都吐了还在逞强",
+        "onboard_time": 1705476269,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232432,
+        "num": 211307,
+        "word": "胡锡进谈GDP增长5.2%",
+        "onboard_time": 1705475853,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208674,
+        "num": 208674,
+        "word": "张元英胜诉获1亿韩元赔偿",
+        "onboard_time": 1705467393,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204377,
+        "num": 204377,
+        "word": "东方甄选1周掉粉18万",
+        "onboard_time": 1705476388,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202486,
+        "num": 202486,
+        "word": "仙剑四仙剑六都发了预告",
+        "onboard_time": 1705476689,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185996,
+        "num": 185996,
+        "word": "分手前的聊天记录",
+        "onboard_time": 1705463791,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182478,
+        "num": 182478,
+        "word": "辛芷蕾好会赚钱",
+        "onboard_time": 1705470510,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180003,
+        "num": 180003,
+        "word": "大麦回应抢票林俊杰付款林子祥",
+        "onboard_time": 1705467092,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179990,
+        "num": 179990,
+        "word": "网传00后员工被公司要求陪酒后离职",
+        "onboard_time": 1705475787,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172784,
+        "num": 172784,
+        "word": "小义 Hero",
+        "onboard_time": 1705464330,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171387,
+        "num": 171387,
+        "word": "狗狗趁主人不在家咬死120只鸡",
+        "onboard_time": 1705475734,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167220,
+        "num": 167220,
+        "word": "谭松韵喊大家来四川耍",
+        "onboard_time": 1705475608,
+        "rank": 41,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 163455,
+        "num": 163455,
+        "word": "68岁大妈18岁身材每周5小时瑜伽",
+        "onboard_time": 1705463913,
+        "rank": 42,
+        "category": "运动健身,社会新闻"
+      },
+      {
+        "raw_hot": 157686,
+        "num": 157686,
+        "word": "2023年中国出生人口902万人",
+        "onboard_time": 1705460069,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155496,
+        "num": 155496,
+        "word": "清华大学辟谣80%毕业生出国",
+        "onboard_time": 1705455927,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151821,
+        "num": 151821,
+        "word": "杨紫新中式马面裙",
+        "onboard_time": 1705464271,
+        "rank": 45,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 151726,
+        "num": 151726,
+        "word": "两万五的苹果头显值得买吗",
+        "onboard_time": 1705469791,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145956,
+        "num": 145956,
+        "word": "最佳睡眠不是睡够8小时",
+        "onboard_time": 1705456409,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137501,
+        "num": 137501,
+        "word": "韩国男爱豆为逃兵役谎称智力障碍",
+        "onboard_time": 1705465474,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135928,
+        "num": 135928,
+        "word": "赖冠霖再次随地丢烟头",
+        "onboard_time": 1705476812,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色金融发展之路#"
+    }
+  }
+}
