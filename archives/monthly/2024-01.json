@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705469667186,
+  "endTime": 1705472614587,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -401,6 +401,14 @@
       "onboard_time": 1704933933,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2770385,
+      "num": 2770385,
+      "word": "仙剑四今晚开播",
+      "onboard_time": 1705470632,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2766954,
@@ -4307,6 +4315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 936469,
+      "num": 936469,
+      "word": "警方介入网红樊小慧称被前婆婆殴打",
+      "onboard_time": 1705470930,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 935666,
       "num": 935666,
       "word": "因榴莲快熟了司机高速狂奔7小时交警拦下强制其休息",
@@ -4673,6 +4689,14 @@
       "onboard_time": 1705102282,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 885836,
+      "num": 885836,
+      "word": "两名99后男子当街行凶被执行死刑",
+      "onboard_time": 1705468414,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 885108,
@@ -5547,6 +5571,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 797183,
+      "num": 797183,
+      "word": "鞠婧祎工作室回应署名争议",
+      "onboard_time": 1705471411,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 796692,
       "num": 796692,
       "word": "明星出发微博之夜",
@@ -6305,6 +6337,14 @@
       "onboard_time": 1704779733,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 740055,
+      "num": 740055,
+      "word": "乌合麒麟为哈尔滨作画",
+      "onboard_time": 1705470569,
+      "rank": 6,
+      "category": "动漫"
     },
     {
       "raw_hot": 739580,
@@ -8371,6 +8411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 614587,
+      "num": 614587,
+      "word": "大麦回应抢票林俊杰付款林子祥",
+      "onboard_time": 1705467092,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 614568,
       "num": 614568,
       "word": "微博之夜嘉宾emoji",
@@ -8433,14 +8481,6 @@
       "onboard_time": 1704097660,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 613008,
-      "num": 613008,
-      "word": "大麦回应抢票林俊杰付款林子祥",
-      "onboard_time": 1705467092,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 612964,
@@ -10147,6 +10187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 538992,
+      "num": 538992,
+      "word": "迪丽热巴用十分钟画的妆",
+      "onboard_time": 1705469550,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 538940,
       "num": 538940,
       "word": "iPhone16Pro或加入电容式操作按钮",
@@ -11483,6 +11531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491244,
+      "num": 491244,
+      "word": "咒术回战 五条悟尸体被移走",
+      "onboard_time": 1705469312,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 490874,
       "num": 490874,
       "word": "杨幂说自己穿新中式被看到是荣幸",
@@ -12187,11 +12243,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 463648,
+      "num": 463648,
+      "word": "无畏 辅助",
+      "onboard_time": 1705470688,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 463561,
       "num": 463561,
       "word": "王安宇不吃海产的原因",
       "onboard_time": 1704455131,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 463519,
+      "num": 463519,
+      "word": "张元英胜诉获1亿韩元赔偿",
+      "onboard_time": 1705467393,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -12241,6 +12313,14 @@
       "onboard_time": 1704355952,
       "rank": 19,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 460890,
+      "num": 371417,
+      "word": "辛芷蕾好会赚钱",
+      "onboard_time": 1705470510,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 460885,
@@ -13297,14 +13377,6 @@
       "onboard_time": 1705379072,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419548,
-      "num": 267632,
-      "word": "张元英胜诉获1亿韩元赔偿",
-      "onboard_time": 1705467393,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 418812,
@@ -14795,6 +14867,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 375167,
+      "num": 375167,
+      "word": "迪丽热巴采访迪丽热巴",
+      "onboard_time": 1705469969,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374192,
       "num": 361273,
       "word": "宁波地铁偶遇卢昱晓",
@@ -14849,6 +14929,14 @@
       "onboard_time": 1704177630,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 373078,
+      "num": 373078,
+      "word": "陈哲远方否认抢番",
+      "onboard_time": 1705472131,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 373071,
@@ -15457,6 +15545,14 @@
       "onboard_time": 1704355353,
       "rank": 18,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 352558,
+      "num": 352558,
+      "word": "仙剑四开启预约",
+      "onboard_time": 1705472248,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 352166,
@@ -16475,14 +16571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 322221,
-      "num": 322221,
-      "word": "两名99后男子当街行凶被执行死刑",
-      "onboard_time": 1705468414,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322039,
       "num": 322039,
       "word": "刚打工的白狐vs打工了几天的白狐",
@@ -17313,6 +17401,14 @@
       "onboard_time": 1704621390,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 304248,
+      "num": 304248,
+      "word": "两万五的苹果头显值得买吗",
+      "onboard_time": 1705469791,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 303647,
@@ -18907,14 +19003,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 272768,
-      "num": 272768,
-      "word": "迪丽热巴用十分钟画的妆",
-      "onboard_time": 1705469550,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 272566,
       "num": 272566,
       "word": "吴千语很爱听施伯雄讲前任",
@@ -19651,6 +19739,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 261161,
+      "num": 261161,
+      "word": "仙剑四官微开通",
+      "onboard_time": 1705459168,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260901,
       "num": 247135,
       "word": "去年国外撤回大量中国学者论文",
@@ -19924,7 +20020,7 @@
     },
     {
       "raw_hot": 256850,
-      "num": 218905,
+      "num": 228616,
       "word": "突然知道存不住钱的原因了",
       "onboard_time": 1705468054,
       "rank": 29,
@@ -21507,14 +21603,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 235165,
-      "num": 197716,
-      "word": "咒术回战 五条悟尸体被移走",
-      "onboard_time": 1705469312,
-      "rank": 30,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 235140,
       "num": 235140,
       "word": "陈楚生清唱直到世界尽头",
@@ -22713,6 +22801,14 @@
       "onboard_time": 1705413513,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222160,
+      "num": 222160,
+      "word": "内蒙古一地生三孩增加产假90天",
+      "onboard_time": 1705470271,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222136,
@@ -26491,14 +26587,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 193297,
-      "num": 193297,
-      "word": "仙剑四官微开通",
-      "onboard_time": 1705459168,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193247,
       "num": 193247,
       "word": "哈尔滨惊现雪地骆驼",
@@ -27233,6 +27321,14 @@
       "onboard_time": 1704847711,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188901,
+      "num": 188901,
+      "word": "梁建章建议育产假男女平等",
+      "onboard_time": 1705471710,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188884,
@@ -30195,6 +30291,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 170805,
+      "num": 170805,
+      "word": "星穹铁道真理医生",
+      "onboard_time": 1705040249,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170797,
       "num": 170797,
       "word": "百岁太奶奶给曾孙女戴上婚戒",
@@ -31665,6 +31769,14 @@
       "onboard_time": 1704937349,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161691,
+      "num": 161691,
+      "word": "QQ音乐电视端将单独付费",
+      "onboard_time": 1705472131,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 161662,
@@ -34009,14 +34121,6 @@
       "onboard_time": 1704449372,
       "rank": 40,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 147291,
-      "num": 147291,
-      "word": "星穹铁道真理医生",
-      "onboard_time": 1705040249,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 147286,
@@ -36555,6 +36659,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 133777,
+      "num": 133777,
+      "word": "2023中国经济成绩单",
+      "onboard_time": 1705472372,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 133757,
       "num": 133757,
       "word": "尔滨你变了",
@@ -38001,6 +38113,14 @@
       "onboard_time": 1705459050,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 126472,
+      "num": 126472,
+      "word": "蔡依林燕尾双眼线",
+      "onboard_time": 1705470451,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126445,
@@ -39993,6 +40113,14 @@
       "onboard_time": 1705321227,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114011,
+      "num": 114011,
+      "word": "乔治末节18分",
+      "onboard_time": 1705472372,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 114004,
@@ -44505,6 +44633,14 @@
       "onboard_time": 1705337183,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 36631,
+      "num": 466557,
+      "word": "蛋仔派对国民原创乐园",
+      "onboard_time": 1705471230,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 36477,

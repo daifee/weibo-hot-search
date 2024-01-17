@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/17 13:34:27
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/17 14:23:34
 </p>
 </blockquote>
 <p>
@@ -311,6 +311,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E7%9C%BC%E4%BB%8E800%E5%BA%A6%E9%99%8D%E5%88%B0100%E5%BA%A6%E7%9A%84%E8%BF%87%E7%A8%8B%23" target="weibo">
 近视眼从800度降到100度的过程（热度：2786727）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%89%91%E5%9B%9B%E4%BB%8A%E6%99%9A%E5%BC%80%E6%92%AD%23" target="weibo">
+仙剑四今晚开播（热度：2770385）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ A股大跌（热度：1296178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B9%96%E5%8D%97%E4%B8%80%E7%A2%97%E9%BA%BB%E8%BE%A3%E7%83%AB106%E5%85%83%23" target="weibo">
 官方通报湖南一碗麻辣烫106元（热度：1290383）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B0%8E%E7%A7%B0%E5%A4%96%E5%8D%96%E5%90%83%E5%87%BA%E5%BC%82%E7%89%A9200%E5%A4%9A%E6%AC%A1%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-女子谎称外卖吃出异物200多次被刑拘（热度：1279788）
 </a>
 </li>
 

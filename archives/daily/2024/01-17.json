@@ -1,7 +1,15 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705469667186,
+  "endTime": 1705472614587,
   "band_list": [
+    {
+      "raw_hot": 2770385,
+      "num": 2770385,
+      "word": "仙剑四今晚开播",
+      "onboard_time": 1705470632,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 2403487,
       "num": 2403487,
@@ -91,6 +99,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 936469,
+      "num": 936469,
+      "word": "警方介入网红樊小慧称被前婆婆殴打",
+      "onboard_time": 1705470930,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 885836,
+      "num": 885836,
+      "word": "两名99后男子当街行凶被执行死刑",
+      "onboard_time": 1705468414,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857411,
       "num": 857411,
       "word": "欧阳娣娣说我来自中国",
@@ -105,6 +129,14 @@
       "onboard_time": 1705463913,
       "rank": 11,
       "category": "运动健身,社会新闻"
+    },
+    {
+      "raw_hot": 797183,
+      "num": 797183,
+      "word": "鞠婧祎工作室回应署名争议",
+      "onboard_time": 1705471411,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 793673,
@@ -129,6 +161,14 @@
       "onboard_time": 1705460727,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 740055,
+      "num": 740055,
+      "word": "乌合麒麟为哈尔滨作画",
+      "onboard_time": 1705470569,
+      "rank": 6,
+      "category": "动漫"
     },
     {
       "raw_hot": 721459,
@@ -203,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 614587,
+      "num": 614587,
+      "word": "大麦回应抢票林俊杰付款林子祥",
+      "onboard_time": 1705467092,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 614493,
       "num": 451119,
       "word": "年轻人谈恋爱麻烦的原因找到了",
@@ -217,14 +265,6 @@
       "onboard_time": 1705458266,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 613008,
-      "num": 613008,
-      "word": "大麦回应抢票林俊杰付款林子祥",
-      "onboard_time": 1705467092,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 602732,
@@ -265,6 +305,14 @@
       "onboard_time": 1705414172,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 538992,
+      "num": 538992,
+      "word": "迪丽热巴用十分钟画的妆",
+      "onboard_time": 1705469550,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 530884,
@@ -315,6 +363,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 491244,
+      "num": 491244,
+      "word": "咒术回战 五条悟尸体被移走",
+      "onboard_time": 1705469312,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 490789,
       "num": 490789,
       "word": "周一围 我们不改了",
@@ -355,12 +411,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463648,
+      "num": 463648,
+      "word": "无畏 辅助",
+      "onboard_time": 1705470688,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 463519,
+      "num": 463519,
+      "word": "张元英胜诉获1亿韩元赔偿",
+      "onboard_time": 1705467393,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461399,
       "num": 294002,
       "word": "分手前的聊天记录",
       "onboard_time": 1705463791,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 460890,
+      "num": 371417,
+      "word": "辛芷蕾好会赚钱",
+      "onboard_time": 1705470510,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 458569,
@@ -385,14 +465,6 @@
       "onboard_time": 1705400073,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 419548,
-      "num": 267632,
-      "word": "张元英胜诉获1亿韩元赔偿",
-      "onboard_time": 1705467393,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 418176,
@@ -483,6 +555,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375167,
+      "num": 375167,
+      "word": "迪丽热巴采访迪丽热巴",
+      "onboard_time": 1705469969,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 373078,
+      "num": 373078,
+      "word": "陈哲远方否认抢番",
+      "onboard_time": 1705472131,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364587,
       "num": 364587,
       "word": "巴黎LV大秀",
@@ -505,6 +593,14 @@
       "onboard_time": 1705433414,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352558,
+      "num": 352558,
+      "word": "仙剑四开启预约",
+      "onboard_time": 1705472248,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 350442,
@@ -531,20 +627,20 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 331134,
+      "num": 303641,
+      "word": "花儿与少年",
+      "onboard_time": 1705468953,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323262,
       "num": 323262,
       "word": "梁洛施首度回应过往称不后悔",
       "onboard_time": 1705430955,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 322221,
-      "num": 322221,
-      "word": "两名99后男子当街行凶被执行死刑",
-      "onboard_time": 1705468414,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321941,
@@ -579,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304248,
+      "num": 304248,
+      "word": "两万五的苹果头显值得买吗",
+      "onboard_time": 1705469791,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 299283,
       "num": 284754,
       "word": "恋与深空送足金",
@@ -603,28 +707,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 272768,
-      "num": 272768,
-      "word": "迪丽热巴用十分钟画的妆",
-      "onboard_time": 1705469550,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267422,
       "num": 267422,
       "word": "生孩子会特别选时间吗",
       "onboard_time": 1705467693,
       "rank": 25,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 266466,
-      "num": 266466,
-      "word": "花儿与少年",
-      "onboard_time": 1705468953,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 263514,
@@ -651,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261161,
+      "num": 261161,
+      "word": "仙剑四官微开通",
+      "onboard_time": 1705459168,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257195,
       "num": 257195,
       "word": "周震南痛失微博名",
@@ -660,7 +756,7 @@
     },
     {
       "raw_hot": 256850,
-      "num": 218905,
+      "num": 228616,
       "word": "突然知道存不住钱的原因了",
       "onboard_time": 1705468054,
       "rank": 29,
@@ -747,14 +843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 235165,
-      "num": 197716,
-      "word": "咒术回战 五条悟尸体被移走",
-      "onboard_time": 1705469312,
-      "rank": 30,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 226846,
       "num": 226846,
       "word": "两只金毛一个去哄一个来劝",
@@ -777,6 +865,14 @@
       "onboard_time": 1705426097,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 222160,
+      "num": 222160,
+      "word": "内蒙古一地生三孩增加产假90天",
+      "onboard_time": 1705470271,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218781,
@@ -875,12 +971,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 193297,
-      "num": 193297,
-      "word": "仙剑四官微开通",
-      "onboard_time": 1705459168,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 188901,
+      "num": 188901,
+      "word": "梁建章建议育产假男女平等",
+      "onboard_time": 1705471710,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182750,
@@ -939,6 +1035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170805,
+      "num": 170805,
+      "word": "星穹铁道真理医生",
+      "onboard_time": 1705471893,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170424,
       "num": 170424,
       "word": "6200元一杯天价咖啡店不到三月就闭店",
@@ -985,6 +1089,14 @@
       "onboard_time": 1705464513,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 161691,
+      "num": 161691,
+      "word": "QQ音乐电视端将单独付费",
+      "onboard_time": 1705472131,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 159861,
@@ -1139,6 +1251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133777,
+      "num": 133777,
+      "word": "2023中国经济成绩单",
+      "onboard_time": 1705472372,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132880,
       "num": 132880,
       "word": "巴黎时装周",
@@ -1193,6 +1313,14 @@
       "onboard_time": 1705459050,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 126472,
+      "num": 126472,
+      "word": "蔡依林燕尾双眼线",
+      "onboard_time": 1705470451,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126445,
@@ -1297,6 +1425,14 @@
       "onboard_time": 1705456109,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114011,
+      "num": 114011,
+      "word": "乔治末节18分",
+      "onboard_time": 1705472372,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 113087,
@@ -1601,6 +1737,14 @@
       "onboard_time": 1705410872,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36631,
+      "num": 466557,
+      "word": "蛋仔派对国民原创乐园",
+      "onboard_time": 1705471230,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 35140,
