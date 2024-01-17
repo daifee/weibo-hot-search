@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705479790676,
+  "endTime": 1705480602289,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -867,20 +867,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1922878,
+      "num": 1922878,
+      "word": "iPhone15价格跌至史上最低",
+      "onboard_time": 1705476931,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1916476,
       "num": 1916476,
       "word": "不烫不死心 烫了想死的心",
       "onboard_time": 1705375769,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1913469,
-      "num": 1913469,
-      "word": "iPhone15价格跌至史上最低",
-      "onboard_time": 1705476931,
-      "rank": 0,
-      "category": "数码"
     },
     {
       "raw_hot": 1912631,
@@ -8323,6 +8323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622572,
+      "num": 569408,
+      "word": "赖冠霖再次随地丢烟头",
+      "onboard_time": 1705476812,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621394,
       "num": 621394,
       "word": "北大试点取消绩点",
@@ -8611,14 +8619,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 609758,
-      "num": 467159,
-      "word": "赖冠霖再次随地丢烟头",
-      "onboard_time": 1705476812,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 609681,
       "num": 609681,
       "word": "陈泽微博是哪个",
@@ -8777,6 +8777,14 @@
       "onboard_time": 1705215450,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601245,
+      "num": 601245,
+      "word": "迪丽热巴胡先煦 朋友倒霉我拍照",
+      "onboard_time": 1705478669,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 601041,
@@ -9251,6 +9259,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 581987,
+      "num": 581987,
+      "word": "东方甄选1周掉粉18万",
+      "onboard_time": 1705476388,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 581772,
       "num": 581772,
       "word": "儿媳称拥有世界最好婆婆不接受反驳",
@@ -9713,6 +9729,14 @@
       "onboard_time": 1705284448,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556730,
+      "num": 556730,
+      "word": "A股超5000只个股下跌",
+      "onboard_time": 1705479091,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 556630,
@@ -10643,6 +10667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 524481,
+      "num": 524481,
+      "word": "21岁女生每月3次月经病因在大脑",
+      "onboard_time": 1705479213,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 524385,
       "num": 524385,
       "word": "拍繁花没有人相信自己真的杀青了",
@@ -11065,14 +11097,6 @@
       "onboard_time": 1704816988,
       "rank": 22,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 508789,
-      "num": 508789,
-      "word": "东方甄选1周掉粉18万",
-      "onboard_time": 1705476388,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 508432,
@@ -11667,6 +11691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 490327,
+      "num": 490327,
+      "word": "全员加速中开录",
+      "onboard_time": 1705478669,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 490322,
       "num": 490322,
       "word": "沈耀考倒数第一给他爸当生日礼物",
@@ -12209,14 +12241,6 @@
       "onboard_time": 1705123891,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 467650,
-      "num": 467650,
-      "word": "全员加速中开录",
-      "onboard_time": 1705478669,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 467577,
@@ -14387,6 +14411,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 392519,
+      "num": 392519,
+      "word": "周震南微博名改回来了",
+      "onboard_time": 1705479390,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 392504,
       "num": 392504,
       "word": "彭昱畅送的礼物是胸针",
@@ -15259,14 +15291,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 365473,
-      "num": 365473,
-      "word": "A股超5000只个股下跌",
-      "onboard_time": 1705479091,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 365382,
       "num": 365382,
       "word": "ITZY回归",
@@ -15361,14 +15385,6 @@
       "onboard_time": 1704785671,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 363380,
-      "num": 363380,
-      "word": "迪丽热巴胡先煦 朋友倒霉我拍照",
-      "onboard_time": 1705478669,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 363066,
@@ -18035,14 +18051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294008,
-      "num": 225494,
-      "word": "21岁女生每月3次月经病因在大脑",
-      "onboard_time": 1705479213,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 293738,
       "num": 293738,
       "word": "和颂四美",
@@ -18907,6 +18915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278609,
+      "num": 278609,
+      "word": "网传00后员工被公司要求陪酒后离职",
+      "onboard_time": 1705475787,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278576,
       "num": 278576,
       "word": "北京新年宝宝叫一博",
@@ -19747,14 +19763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263922,
-      "num": 263922,
-      "word": "网传00后员工被公司要求陪酒后离职",
-      "onboard_time": 1705475787,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263843,
       "num": 263843,
       "word": "约基奇绝杀勇士",
@@ -20465,6 +20473,14 @@
       "onboard_time": 1704600990,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253227,
+      "num": 253227,
+      "word": "锅姨 这是第二次搞化学",
+      "onboard_time": 1705479570,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 252984,
@@ -21196,7 +21212,7 @@
     },
     {
       "raw_hot": 242671,
-      "num": 242671,
+      "num": 245403,
       "word": "狗狗趁主人不在家咬死120只鸡",
       "onboard_time": 1705475734,
       "rank": 40,
@@ -21665,6 +21681,14 @@
       "onboard_time": 1705240114,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 236175,
+      "num": 236175,
+      "word": "猫遇到这辈子最难舔的毛了",
+      "onboard_time": 1705479633,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 236157,
@@ -22665,6 +22689,14 @@
       "onboard_time": 1704348154,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 225273,
+      "num": 225273,
+      "word": "DYG 小白熊",
+      "onboard_time": 1705479451,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 225172,
@@ -24705,14 +24737,6 @@
       "onboard_time": 1704283532,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206376,
-      "num": 191000,
-      "word": "周震南微博名改回来了",
-      "onboard_time": 1705479390,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 206292,
@@ -27153,14 +27177,6 @@
       "onboard_time": 1704166895,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 191219,
-      "num": 191219,
-      "word": "DYG 小白熊",
-      "onboard_time": 1705479451,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 191145,
@@ -31587,14 +31603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165423,
-      "num": 165423,
-      "word": "锅姨 这是第二次搞化学",
-      "onboard_time": 1705479570,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165374,
       "num": 165374,
       "word": "知道李铁被抓小球员说用实力赢更快乐",
@@ -31641,6 +31649,14 @@
       "onboard_time": 1704272251,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164998,
+      "num": 164998,
+      "word": "茅台市值跌破2万亿",
+      "onboard_time": 1705480530,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 164956,
@@ -32153,6 +32169,14 @@
       "onboard_time": 1705393233,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161333,
+      "num": 161333,
+      "word": "徐佳莹巡演十城官宣",
+      "onboard_time": 1705480472,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 161331,
@@ -32843,6 +32867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157151,
+      "num": 244624,
+      "word": "男孩叼着柿饼躺秸秆上晒太阳好惬意",
+      "onboard_time": 1705480291,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157142,
       "num": 157142,
       "word": "上海到漠河 好震撼的公交路线图",
@@ -33529,14 +33561,6 @@
       "onboard_time": 1704325825,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153126,
-      "num": 153126,
-      "word": "猫遇到这辈子最难舔的毛了",
-      "onboard_time": 1705479633,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 153116,
