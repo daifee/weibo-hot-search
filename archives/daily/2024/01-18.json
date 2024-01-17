@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705511805230,
+  "endTime": 1705512857054,
   "band_list": [
     {
       "raw_hot": 1631758,
@@ -67,20 +67,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 406296,
+      "num": 406296,
+      "word": "海底捞打毛线收费39到99",
+      "onboard_time": 1705509444,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402106,
       "num": 402106,
       "word": "宋小宝韩国",
       "onboard_time": 1705485152,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378340,
-      "num": 378340,
-      "word": "海底捞打毛线收费39到99",
-      "onboard_time": 1705509444,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350106,
@@ -227,8 +227,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134588,
-      "num": 134588,
+      "raw_hot": 136405,
+      "num": 136405,
       "word": "王安宇等这一刻等很久了吧",
       "onboard_time": 1705508964,
       "rank": 35,
@@ -363,6 +363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 95232,
+      "num": 95232,
+      "word": "可偏偏是17年",
+      "onboard_time": 1705510641,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94692,
       "num": 108935,
       "word": "国足",
@@ -400,14 +408,6 @@
       "word": "为什么父母总学不会道歉",
       "onboard_time": 1705502552,
       "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 85878,
-      "num": 85878,
-      "word": "可偏偏是17年",
-      "onboard_time": 1705510641,
-      "rank": 24,
       "category": "情感"
     },
     {
@@ -465,6 +465,14 @@
       "onboard_time": 1705496367,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 47058,
+      "num": 47058,
+      "word": "陈泽直播",
+      "onboard_time": 1705511600,
+      "rank": 41,
+      "category": "游戏,网红"
     }
   ],
   "hotgov_list": [
