@@ -1,0 +1,410 @@
+{
+  "runTime": 1705487836790,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2268421,
+        "num": 2268421,
+        "word": "宋小宝韩国",
+        "onboard_time": 1705485152,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290022,
+        "num": 1637033,
+        "word": "糯叽叽美食来给浙江文旅上分了",
+        "onboard_time": 1705485572,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 13600,
+        "num": 1404618,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1383893,
+        "num": 1383893,
+        "word": "仙剑四今晚开播",
+        "onboard_time": 1705470632,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123497,
+        "num": 1287725,
+        "word": "众人将棉衣系成绳救回落水学生",
+        "onboard_time": 1705487068,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1194313,
+        "num": 1194313,
+        "word": "华中农大被举报教授官网个人页已删除",
+        "onboard_time": 1705484247,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105897,
+        "num": 1191971,
+        "word": "空军红鹰飞行表演队在老挝压轴登场",
+        "onboard_time": 1705485031,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1191795,
+        "num": 1191795,
+        "word": "小孩哥沉默十秒 浙江文旅一年白干",
+        "onboard_time": 1705484970,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 904144,
+        "num": 904144,
+        "word": "王劲松要求粉丝不要用他照片当头像",
+        "onboard_time": 1705485694,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 783572,
+        "num": 783572,
+        "word": "21岁女生每月3次月经病因在大脑",
+        "onboard_time": 1705479213,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 657377,
+        "num": 657377,
+        "word": "iPhone15价格跌至史上最低",
+        "onboard_time": 1705476931,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 595739,
+        "num": 595739,
+        "word": "胡锡进总亏损63229元",
+        "onboard_time": 1705484732,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 542299,
+        "num": 542299,
+        "word": "李晋晔辞职",
+        "onboard_time": 1705475909,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536658,
+        "num": 536658,
+        "word": "夹来的娃娃最好别放床头",
+        "onboard_time": 1705481130,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46249,
+        "num": 501098,
+        "word": "数一数湖南的压箱底宝贝",
+        "onboard_time": 1705485627,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500586,
+        "num": 500586,
+        "word": "王者荣耀",
+        "onboard_time": 1705485268,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 443257,
+        "num": 443257,
+        "word": "真正的商战",
+        "onboard_time": 1705483831,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426245,
+        "num": 426245,
+        "word": "周震南微博名改回来了",
+        "onboard_time": 1705479390,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 402339,
+        "num": 402339,
+        "word": "人口",
+        "onboard_time": 1705486588,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391687,
+        "num": 391687,
+        "word": "小义 时间线",
+        "onboard_time": 1705486290,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 400757,
+        "num": 391414,
+        "word": "为什么涨薪了反而会辞职",
+        "onboard_time": 1705485513,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386311,
+        "num": 386311,
+        "word": "于正晒吴宣仪定妆照",
+        "onboard_time": 1705483411,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368420,
+        "num": 368420,
+        "word": "相亲对象是分手两年的前男友",
+        "onboard_time": 1705481368,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361590,
+        "num": 361590,
+        "word": "鞠婧祎工作室称仙剑四片方违约",
+        "onboard_time": 1705473030,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329985,
+        "num": 329985,
+        "word": "仙剑四仙剑六都发了预告",
+        "onboard_time": 1705476689,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322092,
+        "num": 322092,
+        "word": "董宇辉称有些活在阴沟里的人指责阳光耀眼",
+        "onboard_time": 1705487068,
+        "rank": 25,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 321697,
+        "num": 321697,
+        "word": "25岁西班牙女生在相亲角被50岁男士求婚",
+        "onboard_time": 1705485930,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317391,
+        "num": 317391,
+        "word": "云台山妲己称只和女生亲密互动",
+        "onboard_time": 1705486707,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 278642,
+        "num": 278642,
+        "word": "浙江文旅真把陈丽君摇来了",
+        "onboard_time": 1705481491,
+        "rank": 28,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 268145,
+        "num": 268145,
+        "word": "王鹤棣LV官网生图",
+        "onboard_time": 1705486588,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272991,
+        "num": 267489,
+        "word": "逆水寒 新衣服",
+        "onboard_time": 1705487310,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263650,
+        "num": 263650,
+        "word": "羽生结弦 天与地的安魂曲",
+        "onboard_time": 1705487009,
+        "rank": 31,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 255425,
+        "num": 255425,
+        "word": "发现裸辞并不会重启人生",
+        "onboard_time": 1705484490,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251353,
+        "num": 251353,
+        "word": "仙剑一三五都在优酷",
+        "onboard_time": 1705486650,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242009,
+        "num": 242009,
+        "word": "警方介入网红樊小慧称被前婆婆殴打",
+        "onboard_time": 1705470930,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 236742,
+        "num": 236742,
+        "word": "请钟辰乐归还李马克的手机",
+        "onboard_time": 1705486529,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215567,
+        "num": 215567,
+        "word": "仙剑四",
+        "onboard_time": 1705479031,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211331,
+        "num": 211331,
+        "word": "赵丽颖河北小作文",
+        "onboard_time": 1705486052,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201171,
+        "num": 201171,
+        "word": "迪丽热巴胡先煦 朋友倒霉我拍照",
+        "onboard_time": 1705478669,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199134,
+        "num": 199134,
+        "word": "T1 单独谈",
+        "onboard_time": 1705487608,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197488,
+        "num": 197488,
+        "word": "祈今朝宣发",
+        "onboard_time": 1705487310,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197311,
+        "num": 197311,
+        "word": "长期喝茶与喝白开水谁更健康",
+        "onboard_time": 1705473149,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193975,
+        "num": 193975,
+        "word": "拯救者发布会",
+        "onboard_time": 1705487550,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193707,
+        "num": 193707,
+        "word": "GDP",
+        "onboard_time": 1705481911,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190649,
+        "num": 190649,
+        "word": "迪丽热巴许愿海豚能够永远在大海里",
+        "onboard_time": 1705485333,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183199,
+        "num": 183199,
+        "word": "沪指跌超2%创三年半新低",
+        "onboard_time": 1705485988,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162742,
+        "num": 162742,
+        "word": "南方小土豆在东北旅游3天买了套房",
+        "onboard_time": 1705456226,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162308,
+        "num": 162308,
+        "word": "仙剑四开启预约",
+        "onboard_time": 1705472248,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156517,
+        "num": 156517,
+        "word": "全员加速中开录",
+        "onboard_time": 1705478669,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158066,
+        "num": 151923,
+        "word": "陈哲远方否认抢番",
+        "onboard_time": 1705472131,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#开年关键一课主题锚定金融#"
+    }
+  }
+}

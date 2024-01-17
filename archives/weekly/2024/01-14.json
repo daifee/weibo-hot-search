@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705486793466,
+  "endTime": 1705487836790,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -627,6 +627,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1194313,
+      "num": 1194313,
+      "word": "华中农大被举报教授官网个人页已删除",
+      "onboard_time": 1705484247,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1191795,
+      "num": 1191795,
+      "word": "小孩哥沉默十秒 浙江文旅一年白干",
+      "onboard_time": 1705484970,
+      "rank": 7,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1162294,
       "num": 1162294,
       "word": "钢琴销量断崖式下滑",
@@ -835,14 +851,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1021169,
-      "num": 1021169,
-      "word": "华中农大被举报教授官网个人页已删除",
-      "onboard_time": 1705484247,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1016131,
       "num": 826924,
       "word": "杨幂绿戒指红美甲",
@@ -979,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 926987,
-      "num": 926987,
-      "word": "小孩哥沉默十秒 浙江文旅一年白干",
-      "onboard_time": 1705484970,
-      "rank": 7,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 924856,
       "num": 924856,
       "word": "脱轨",
@@ -1025,6 +1025,14 @@
       "onboard_time": 1705243893,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 904144,
+      "num": 904144,
+      "word": "王劲松要求粉丝不要用他照片当头像",
+      "onboard_time": 1705485694,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 885836,
@@ -1987,6 +1995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 595739,
+      "num": 595739,
+      "word": "胡锡进总亏损63229元",
+      "onboard_time": 1705484732,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 594405,
       "num": 594405,
       "word": "王一博不在乐华股东公示行列",
@@ -2315,14 +2331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 536986,
-      "num": 536986,
-      "word": "胡锡进总亏损63229元",
-      "onboard_time": 1705484732,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 536707,
       "num": 536707,
       "word": "伊朗向伊拉克和叙利亚境内目标发射导弹",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705396474,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 524622,
-      "num": 524622,
-      "word": "王劲松要求粉丝不要用他照片当头像",
-      "onboard_time": 1705485694,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 524333,
@@ -3123,6 +3123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 402339,
+      "num": 402339,
+      "word": "人口",
+      "onboard_time": 1705486588,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402155,
       "num": 402155,
       "word": "朋友太多抑郁的可能性会变高",
@@ -3137,6 +3145,14 @@
       "onboard_time": 1705464330,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 400757,
+      "num": 391414,
+      "word": "为什么涨薪了反而会辞职",
+      "onboard_time": 1705485513,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 400218,
@@ -3243,12 +3259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390528,
-      "num": 390528,
-      "word": "为什么涨薪了反而会辞职",
-      "onboard_time": 1705485513,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 391687,
+      "num": 391687,
+      "word": "小义 时间线",
+      "onboard_time": 1705486290,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 390473,
@@ -3787,6 +3803,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 322092,
+      "num": 322092,
+      "word": "董宇辉称有些活在阴沟里的人指责阳光耀眼",
+      "onboard_time": 1705487068,
+      "rank": 25,
+      "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 321697,
+      "num": 321697,
+      "word": "25岁西班牙女生在相亲角被50岁男士求婚",
+      "onboard_time": 1705485930,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320836,
       "num": 320836,
       "word": "阿勒泰多处雪崩上千人滞留",
@@ -3833,6 +3865,14 @@
       "onboard_time": 1705140824,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 317391,
+      "num": 317391,
+      "word": "云台山妲己称只和女生亲密互动",
+      "onboard_time": 1705486707,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 317207,
@@ -4123,6 +4163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290022,
+      "num": 1784412,
+      "word": "糯叽叽美食来给浙江文旅上分了",
+      "onboard_time": 1705485572,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 289997,
       "num": 265687,
       "word": "许嵩回复了张靓颖",
@@ -4177,14 +4225,6 @@
       "onboard_time": 1705316672,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286715,
-      "num": 286715,
-      "word": "小义 时间线",
-      "onboard_time": 1705486290,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 285883,
@@ -4387,6 +4427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 272991,
+      "num": 267489,
+      "word": "逆水寒 新衣服",
+      "onboard_time": 1705487310,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271066,
       "num": 219735,
       "word": "高叶哭了",
@@ -4417,6 +4465,14 @@
       "onboard_time": 1705416811,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 268145,
+      "num": 268145,
+      "word": "王鹤棣LV官网生图",
+      "onboard_time": 1705486588,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 267939,
@@ -4481,6 +4537,14 @@
       "onboard_time": 1705283609,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263650,
+      "num": 263650,
+      "word": "羽生结弦 天与地的安魂曲",
+      "onboard_time": 1705487009,
+      "rank": 31,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 263514,
@@ -4691,12 +4755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251448,
-      "num": 251448,
-      "word": "25岁西班牙女生在相亲角被50岁男士求婚",
-      "onboard_time": 1705485930,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 251353,
+      "num": 251353,
+      "word": "仙剑一三五都在优酷",
+      "onboard_time": 1705486650,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 251169,
@@ -5019,6 +5083,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 236742,
+      "num": 236742,
+      "word": "请钟辰乐归还李马克的手机",
+      "onboard_time": 1705486529,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236179,
       "num": 236179,
       "word": "Meta承认使用盗版书籍训练AI",
@@ -5129,14 +5201,6 @@
       "onboard_time": 1705395932,
       "rank": 37,
       "category": "幽默,读书作家"
-    },
-    {
-      "raw_hot": 230524,
-      "num": 1784412,
-      "word": "糯叽叽美食来给浙江文旅上分了",
-      "onboard_time": 1705485572,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 230435,
@@ -5971,6 +6035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199134,
+      "num": 199134,
+      "word": "T1 单独谈",
+      "onboard_time": 1705487608,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198804,
       "num": 198804,
       "word": "十二星座一周运势",
@@ -6011,20 +6083,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197336,
-      "num": 197336,
-      "word": "王鹤棣LV官网生图",
-      "onboard_time": 1705486588,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 197335,
-      "num": 197335,
-      "word": "人口",
-      "onboard_time": 1705486588,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 197488,
+      "num": 197488,
+      "word": "祈今朝宣发",
+      "onboard_time": 1705487310,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 197166,
@@ -6121,6 +6185,14 @@
       "onboard_time": 1705225408,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193975,
+      "num": 193975,
+      "word": "拯救者发布会",
+      "onboard_time": 1705487550,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 193879,
@@ -6939,14 +7011,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 173890,
-      "num": 173890,
-      "word": "请钟辰乐归还李马克的手机",
-      "onboard_time": 1705486529,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173864,
       "num": 173864,
       "word": "河南省考公告",
@@ -7273,14 +7337,6 @@
       "onboard_time": 1705246714,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 167918,
-      "num": 167918,
-      "word": "云台山妲己称只和女生亲密互动",
-      "onboard_time": 1705486707,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 167809,
@@ -7633,14 +7689,6 @@
       "onboard_time": 1705224570,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 158180,
-      "num": 158180,
-      "word": "仙剑一三五都在优酷",
-      "onboard_time": 1705486650,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 157371,
@@ -9075,6 +9123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123497,
+      "num": 1287725,
+      "word": "众人将棉衣系成绳救回落水学生",
+      "onboard_time": 1705487068,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 123275,
       "num": 123275,
       "word": "林家栋演出租车司机真的有人拦车",
@@ -10411,6 +10467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46249,
+      "num": 530605,
+      "word": "数一数湖南的压箱底宝贝",
+      "onboard_time": 1705485627,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45927,
       "num": 350581,
       "word": "河南人间烟火气",
@@ -10592,14 +10656,6 @@
       "word": "长征七号首次手动点火发射",
       "onboard_time": 1705410751,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28477,
-      "num": 530605,
-      "word": "数一数湖南的压箱底宝贝",
-      "onboard_time": 1705485627,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

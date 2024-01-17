@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705486793466,
+  "endTime": 1705487836790,
   "band_list": [
     {
       "raw_hot": 2770385,
@@ -115,6 +115,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1194313,
+      "num": 1194313,
+      "word": "华中农大被举报教授官网个人页已删除",
+      "onboard_time": 1705484247,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1191795,
+      "num": 1191795,
+      "word": "小孩哥沉默十秒 浙江文旅一年白干",
+      "onboard_time": 1705484970,
+      "rank": 7,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1087726,
       "num": 1087726,
       "word": "鞠婧祎工作室称仙剑四片方违约",
@@ -147,14 +163,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1021169,
-      "num": 1021169,
-      "word": "华中农大被举报教授官网个人页已删除",
-      "onboard_time": 1705484247,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 995580,
       "num": 995580,
       "word": "韩国男爱豆为逃兵役谎称智力障碍",
@@ -179,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 926987,
-      "num": 926987,
-      "word": "小孩哥沉默十秒 浙江文旅一年白干",
-      "onboard_time": 1705484970,
-      "rank": 7,
-      "category": "旅游"
+      "raw_hot": 904144,
+      "num": 904144,
+      "word": "王劲松要求粉丝不要用他照片当头像",
+      "onboard_time": 1705485694,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 885836,
@@ -411,6 +419,14 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 595739,
+      "num": 595739,
+      "word": "胡锡进总亏损63229元",
+      "onboard_time": 1705484732,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 582949,
       "num": 582949,
       "word": "B站崩了",
@@ -499,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 536986,
-      "num": 536986,
-      "word": "胡锡进总亏损63229元",
-      "onboard_time": 1705484732,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 530884,
       "num": 496165,
       "word": "陈采尼 微博之夜造型点评",
@@ -521,14 +529,6 @@
       "onboard_time": 1705462348,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 524622,
-      "num": 524622,
-      "word": "王劲松要求粉丝不要用他照片当头像",
-      "onboard_time": 1705485694,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 518905,
@@ -747,12 +747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402339,
+      "num": 402339,
+      "word": "人口",
+      "onboard_time": 1705486588,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401546,
       "num": 401546,
       "word": "小义 Hero",
       "onboard_time": 1705464330,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 400757,
+      "num": 391414,
+      "word": "为什么涨薪了反而会辞职",
+      "onboard_time": 1705485513,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 399102,
@@ -779,12 +795,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 390528,
-      "num": 390528,
-      "word": "为什么涨薪了反而会辞职",
-      "onboard_time": 1705485513,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 391687,
+      "num": 391687,
+      "word": "小义 时间线",
+      "onboard_time": 1705486290,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 390473,
@@ -939,12 +955,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322092,
+      "num": 322092,
+      "word": "董宇辉称有些活在阴沟里的人指责阳光耀眼",
+      "onboard_time": 1705487068,
+      "rank": 25,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 321941,
       "num": 321941,
       "word": "王一博公司与乐华无直接股权关联",
       "onboard_time": 1705417352,
       "rank": 11,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 321697,
+      "num": 321697,
+      "word": "25岁西班牙女生在相亲角被50岁男士求婚",
+      "onboard_time": 1705485930,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317391,
+      "num": 317391,
+      "word": "云台山妲己称只和女生亲密互动",
+      "onboard_time": 1705486707,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 317207,
@@ -995,20 +1035,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290022,
+      "num": 1784412,
+      "word": "糯叽叽美食来给浙江文旅上分了",
+      "onboard_time": 1705485572,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 289397,
       "num": 289397,
       "word": "赵丽颖诗意为河北打call",
       "onboard_time": 1705474893,
       "rank": 23,
       "category": "旅游,艺人"
-    },
-    {
-      "raw_hot": 286715,
-      "num": 286715,
-      "word": "小义 时间线",
-      "onboard_time": 1705486290,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 283842,
@@ -1051,6 +1091,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272991,
+      "num": 267489,
+      "word": "逆水寒 新衣服",
+      "onboard_time": 1705487310,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 268145,
+      "num": 268145,
+      "word": "王鹤棣LV官网生图",
+      "onboard_time": 1705486588,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 267422,
       "num": 267422,
       "word": "生孩子会特别选时间吗",
@@ -1065,6 +1121,14 @@
       "onboard_time": 1705482270,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 263650,
+      "num": 263650,
+      "word": "羽生结弦 天与地的安魂曲",
+      "onboard_time": 1705487009,
+      "rank": 31,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 263514,
@@ -1131,12 +1195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251448,
-      "num": 251448,
-      "word": "25岁西班牙女生在相亲角被50岁男士求婚",
-      "onboard_time": 1705485930,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 251353,
+      "num": 251353,
+      "word": "仙剑一三五都在优酷",
+      "onboard_time": 1705486650,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 249609,
@@ -1235,6 +1299,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 236742,
+      "num": 236742,
+      "word": "请钟辰乐归还李马克的手机",
+      "onboard_time": 1705486529,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236175,
       "num": 236175,
       "word": "猫遇到这辈子最难舔的毛了",
@@ -1257,14 +1329,6 @@
       "onboard_time": 1705475853,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230524,
-      "num": 1784412,
-      "word": "糯叽叽美食来给浙江文旅上分了",
-      "onboard_time": 1705485572,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 226846,
@@ -1427,20 +1491,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197336,
-      "num": 197336,
-      "word": "王鹤棣LV官网生图",
-      "onboard_time": 1705486588,
-      "rank": 37,
-      "category": "作品衍生"
+      "raw_hot": 199134,
+      "num": 199134,
+      "word": "T1 单独谈",
+      "onboard_time": 1705487608,
+      "rank": 39,
+      "category": "电竞"
     },
     {
-      "raw_hot": 197335,
-      "num": 197335,
-      "word": "人口",
-      "onboard_time": 1705486588,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 197488,
+      "num": 197488,
+      "word": "祈今朝宣发",
+      "onboard_time": 1705487310,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 194765,
@@ -1457,6 +1521,14 @@
       "onboard_time": 1705467872,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193975,
+      "num": 193975,
+      "word": "拯救者发布会",
+      "onboard_time": 1705487550,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 193769,
@@ -1571,14 +1643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173890,
-      "num": 173890,
-      "word": "请钟辰乐归还李马克的手机",
-      "onboard_time": 1705486529,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 172804,
       "num": 172804,
       "word": "LCK队伍发布联合声明",
@@ -1651,14 +1715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167918,
-      "num": 167918,
-      "word": "云台山妲己称只和女生亲密互动",
-      "onboard_time": 1705486707,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 167220,
       "num": 167220,
       "word": "谭松韵喊大家来四川耍",
@@ -1713,14 +1769,6 @@
       "onboard_time": 1705460007,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 158180,
-      "num": 158180,
-      "word": "仙剑一三五都在优酷",
-      "onboard_time": 1705486650,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 157151,
@@ -2009,6 +2057,14 @@
       "onboard_time": 1705449085,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123497,
+      "num": 1287725,
+      "word": "众人将棉衣系成绳救回落水学生",
+      "onboard_time": 1705487068,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 123062,
@@ -2419,6 +2475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 46249,
+      "num": 530605,
+      "word": "数一数湖南的压箱底宝贝",
+      "onboard_time": 1705485627,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40425,
       "num": 49931,
       "word": "桔梗花 年终总结如鲠在喉",
@@ -2449,14 +2513,6 @@
       "onboard_time": 1705438993,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 28477,
-      "num": 530605,
-      "word": "数一数湖南的压箱底宝贝",
-      "onboard_time": 1705485627,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26496,
