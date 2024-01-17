@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705454263883,
+  "endTime": 1705455553042,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2043,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1382868,
+      "num": 1382868,
+      "word": "国产剧终于癫成了我不认识的样子",
+      "onboard_time": 1705453590,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1381638,
       "num": 1381638,
       "word": "iPhone16Pro渲染图曝光",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705028309,
       "rank": 4,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 1265933,
-      "num": 1265933,
-      "word": "马斯克回应吸毒",
-      "onboard_time": 1704672148,
-      "rank": 1,
-      "category": "社会新闻,互联网"
     }
   ],
   "hotgov_list": [

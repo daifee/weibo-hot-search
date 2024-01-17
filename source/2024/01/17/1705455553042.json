@@ -1,0 +1,410 @@
+{
+  "runTime": 1705455553042,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1972663,
+        "num": 1972663,
+        "word": "网红樊小慧直播称被前婆婆上门殴打",
+        "onboard_time": 1705449626,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1382868,
+        "num": 1382868,
+        "word": "国产剧终于癫成了我不认识的样子",
+        "onboard_time": 1705453590,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34364,
+        "num": 965878,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951616,
+        "num": 951616,
+        "word": "2022届本科生平均月入近6千",
+        "onboard_time": 1705453289,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721459,
+        "num": 721459,
+        "word": "新疆1000多名因雪崩滞留旅客离开景区",
+        "onboard_time": 1705451127,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692372,
+        "num": 692372,
+        "word": "军人结婚当天三等功喜报送上门",
+        "onboard_time": 1705451672,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544467,
+        "num": 544467,
+        "word": "谢娜家吃饭的时候不允许看手机",
+        "onboard_time": 1705447462,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532966,
+        "num": 532966,
+        "word": "请和我的老公结婚 BTS",
+        "onboard_time": 1705452151,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490789,
+        "num": 490789,
+        "word": "周一围 我们不改了",
+        "onboard_time": 1705454012,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466155,
+        "num": 466155,
+        "word": "抢火车票不用自己设闹钟了",
+        "onboard_time": 1705453168,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449226,
+        "num": 449226,
+        "word": "海底捞能打毛线了",
+        "onboard_time": 1705447342,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418176,
+        "num": 418176,
+        "word": "王安宇在冰岛用冷水洗澡",
+        "onboard_time": 1705453948,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358555,
+        "num": 358555,
+        "word": "被731部队罪证陈列馆的这幕震撼到",
+        "onboard_time": 1705453529,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343986,
+        "num": 343986,
+        "word": "老父亲叮嘱53岁单身女儿留足养老费",
+        "onboard_time": 1705451427,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332422,
+        "num": 332422,
+        "word": "梁洛施说和李泽楷只是孩子的父母",
+        "onboard_time": 1705454488,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328604,
+        "num": 328604,
+        "word": "周一围从朱丹口误后停更微博",
+        "onboard_time": 1705397610,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313411,
+        "num": 313411,
+        "word": "特朗普称我要回来了",
+        "onboard_time": 1705428858,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 276466,
+        "num": 276466,
+        "word": "云台山妲己",
+        "onboard_time": 1705449444,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 272053,
+        "num": 272053,
+        "word": "谭爷爷出差花花开启自助餐模式",
+        "onboard_time": 1705448183,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271151,
+        "num": 271151,
+        "word": "晒被子后的太阳味是怎么来的",
+        "onboard_time": 1705448183,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 264923,
+        "num": 264923,
+        "word": "欧阳娣娣说我来自中国",
+        "onboard_time": 1705417891,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262637,
+        "num": 262637,
+        "word": "华中农业大学学生实名举报导师学术造假",
+        "onboard_time": 1705411651,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 241758,
+        "num": 241758,
+        "word": "金莎和男友 一九分成",
+        "onboard_time": 1705401091,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239197,
+        "num": 239197,
+        "word": "10种嘌呤大户 高尿酸者少碰",
+        "onboard_time": 1705412791,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221422,
+        "num": 221422,
+        "word": "B站崩了",
+        "onboard_time": 1705446319,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 210381,
+        "num": 210381,
+        "word": "东北F4合体摇出魏大勋上分",
+        "onboard_time": 1705453707,
+        "rank": 25,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 195755,
+        "num": 195755,
+        "word": "仙剑四或将明天官宣",
+        "onboard_time": 1705414172,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195675,
+        "num": 195675,
+        "word": "王俊凯机场路透",
+        "onboard_time": 1705448664,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190973,
+        "num": 190973,
+        "word": "9个月宝宝伸出小手搂着73岁太姥姥",
+        "onboard_time": 1705415850,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188877,
+        "num": 188877,
+        "word": "苹果头显单绑带戴20分钟感到疼痛",
+        "onboard_time": 1705451127,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180286,
+        "num": 180286,
+        "word": "繁花里最让我误会的镜头",
+        "onboard_time": 1705421367,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166088,
+        "num": 166088,
+        "word": "金牛座具有强大的内核",
+        "onboard_time": 1705453889,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156167,
+        "num": 156167,
+        "word": "老人突然离世三十九万元存款难取出",
+        "onboard_time": 1705391970,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152838,
+        "num": 152838,
+        "word": "一个人住与和爸妈住的区别",
+        "onboard_time": 1705454012,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135664,
+        "num": 135664,
+        "word": "樱桃和车厘子有啥区别",
+        "onboard_time": 1705449566,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135088,
+        "num": 135088,
+        "word": "华中农业大学回应",
+        "onboard_time": 1705417290,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 134640,
+        "num": 134640,
+        "word": "抑郁症患者可能并不需要鼓励",
+        "onboard_time": 1705426097,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131392,
+        "num": 131392,
+        "word": "王鹤棣花朵刺绣棒球服",
+        "onboard_time": 1705451248,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127808,
+        "num": 127808,
+        "word": "aespa年会表演舞台",
+        "onboard_time": 1705455091,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123062,
+        "num": 123062,
+        "word": "国足vs黎巴嫩比分预测",
+        "onboard_time": 1705455147,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116963,
+        "num": 116963,
+        "word": "安心离了吧",
+        "onboard_time": 1705455328,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116109,
+        "num": 116109,
+        "word": "为什么我们旅游度假会觉得累",
+        "onboard_time": 1705453289,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113429,
+        "num": 113429,
+        "word": "7岁爱喝奶小孩哥竟是武生大神",
+        "onboard_time": 1705449506,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112874,
+        "num": 112874,
+        "word": "来河南最喜欢被叫什么",
+        "onboard_time": 1705455211,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112450,
+        "num": 112450,
+        "word": "王一博公司与乐华无直接股权关联",
+        "onboard_time": 1705417352,
+        "rank": 44,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 106459,
+        "num": 106459,
+        "word": "骆驼小时候的样子",
+        "onboard_time": 1705449867,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105062,
+        "num": 105062,
+        "word": "有这些感觉请立刻休息",
+        "onboard_time": 1705428018,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100972,
+        "num": 100972,
+        "word": "花饽饽一口咬出八个金元宝",
+        "onboard_time": 1705452390,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96135,
+        "num": 96135,
+        "word": "IU2024世巡",
+        "onboard_time": 1705449085,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96078,
+        "num": 96078,
+        "word": "20岁小伙失恋欲轻生民警教科书式劝导",
+        "onboard_time": 1705448183,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色金融发展之路#"
+    }
+  }
+}
