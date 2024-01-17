@@ -1,0 +1,410 @@
+{
+  "runTime": 1705458703025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1837637,
+        "num": 1837637,
+        "word": "国产剧终于癫成了我不认识的样子",
+        "onboard_time": 1705453590,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1118494,
+        "num": 1118494,
+        "word": "清华大学辟谣80%毕业生出国",
+        "onboard_time": 1705455927,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24235,
+        "num": 923043,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1235235,
+        "num": 918564,
+        "word": "网红樊小慧直播称被前婆婆上门殴打",
+        "onboard_time": 1705449626,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 904580,
+        "num": 904580,
+        "word": "2023年我国GDP超126万亿元",
+        "onboard_time": 1705457429,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 830761,
+        "num": 830761,
+        "word": "2022届本科生平均月入近6千",
+        "onboard_time": 1705453289,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822473,
+        "num": 822473,
+        "word": "最佳睡眠不是睡够8小时",
+        "onboard_time": 1705456409,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 788669,
+        "num": 788669,
+        "word": "南方小土豆在东北旅游3天买了套房",
+        "onboard_time": 1705456226,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503029,
+        "num": 503029,
+        "word": "请和我的老公结婚 BTS",
+        "onboard_time": 1705452151,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418402,
+        "num": 418402,
+        "word": "抢火车票不用自己设闹钟了",
+        "onboard_time": 1705453168,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562357,
+        "num": 417317,
+        "word": "A股",
+        "onboard_time": 1705457490,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 413229,
+        "num": 413229,
+        "word": "梁洛施说和李泽楷只是孩子的父母",
+        "onboard_time": 1705454488,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385240,
+        "num": 385240,
+        "word": "周一围 我们不改了",
+        "onboard_time": 1705454012,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376355,
+        "num": 376355,
+        "word": "2023年GDP增长5.2%",
+        "onboard_time": 1705458266,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 344478,
+        "num": 344478,
+        "word": "军人结婚当天三等功喜报送上门",
+        "onboard_time": 1705451672,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323081,
+        "num": 323081,
+        "word": "ChatGPT之父称人类水平的AI即将出现",
+        "onboard_time": 1705457248,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 315919,
+        "num": 315919,
+        "word": "怎么会有妈妈这样说自己的女儿",
+        "onboard_time": 1705456348,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 306973,
+        "num": 306973,
+        "word": "孙燕姿要久久爱主题曲MV",
+        "onboard_time": 1705456825,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306765,
+        "num": 306765,
+        "word": "被731部队罪证陈列馆的这幕震撼到",
+        "onboard_time": 1705453529,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302257,
+        "num": 302257,
+        "word": "王安宇在冰岛用冷水洗澡",
+        "onboard_time": 1705453948,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276576,
+        "num": 276576,
+        "word": "卷学历不香了吗",
+        "onboard_time": 1705456526,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 263419,
+        "num": 263419,
+        "word": "未来每10年出生人口下个百万台阶",
+        "onboard_time": 1705456707,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263178,
+        "num": 263178,
+        "word": "进价260元骨灰盒卖1790元被罚",
+        "onboard_time": 1705457188,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241332,
+        "num": 241332,
+        "word": "谢娜家吃饭的时候不允许看手机",
+        "onboard_time": 1705447462,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236780,
+        "num": 236780,
+        "word": "伊朗在巴境内的袭击已致2名儿童死亡",
+        "onboard_time": 1705457669,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 210068,
+        "num": 210068,
+        "word": "2023全国人口比上年末减少208万人",
+        "onboard_time": 1705458507,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196957,
+        "num": 196957,
+        "word": "华中农业大学学生实名举报导师学术造假",
+        "onboard_time": 1705411651,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 188964,
+        "num": 188964,
+        "word": "海底捞能打毛线了",
+        "onboard_time": 1705447342,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176397,
+        "num": 176397,
+        "word": "2023年国民经济运行情况",
+        "onboard_time": 1705457429,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171127,
+        "num": 171127,
+        "word": "仙剑四或将明天官宣",
+        "onboard_time": 1705414172,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168924,
+        "num": 168924,
+        "word": "老父亲叮嘱53岁单身女儿留足养老费",
+        "onboard_time": 1705451427,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163593,
+        "num": 163593,
+        "word": "金牛座具有强大的内核",
+        "onboard_time": 1705453889,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157410,
+        "num": 157410,
+        "word": "王俊凯机场路透",
+        "onboard_time": 1705448664,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149521,
+        "num": 149521,
+        "word": "B站崩了",
+        "onboard_time": 1705446319,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147988,
+        "num": 147988,
+        "word": "新疆1000多名因雪崩滞留旅客离开景区",
+        "onboard_time": 1705451127,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144730,
+        "num": 144730,
+        "word": "一个人住与和爸妈住的区别",
+        "onboard_time": 1705454012,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142153,
+        "num": 142153,
+        "word": "国新办新闻发布会",
+        "onboard_time": 1705458087,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141965,
+        "num": 141965,
+        "word": "周一围从朱丹口误后停更微博",
+        "onboard_time": 1705397610,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129826,
+        "num": 129826,
+        "word": "谭爷爷出差花花开启自助餐模式",
+        "onboard_time": 1705448183,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126226,
+        "num": 126226,
+        "word": "特朗普称我要回来了",
+        "onboard_time": 1705428858,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126031,
+        "num": 126031,
+        "word": "外卖小哥遇火灾用手中乌龙茶灭火",
+        "onboard_time": 1705458566,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124229,
+        "num": 124229,
+        "word": "上海市考出成绩",
+        "onboard_time": 1705458507,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123965,
+        "num": 123965,
+        "word": "欧阳娣娣说我来自中国",
+        "onboard_time": 1705417891,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123120,
+        "num": 123120,
+        "word": "模仿鸟类的穿衣风格",
+        "onboard_time": 1705458448,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 122426,
+        "num": 122426,
+        "word": "五菱回应相关视频",
+        "onboard_time": 1705458625,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118754,
+        "num": 118754,
+        "word": "繁花里最让我误会的镜头",
+        "onboard_time": 1705421367,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116925,
+        "num": 116925,
+        "word": "华中农业大学回应",
+        "onboard_time": 1705417290,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 115804,
+        "num": 115804,
+        "word": "人民解放军接被困游客回家",
+        "onboard_time": 1705456109,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113087,
+        "num": 113087,
+        "word": "张家界武陵源区文旅局长否认出镜表演赶尸",
+        "onboard_time": 1705457308,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112554,
+        "num": 112554,
+        "word": "抑郁症患者可能并不需要鼓励",
+        "onboard_time": 1705426097,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色金融发展之路#"
+    }
+  }
+}
