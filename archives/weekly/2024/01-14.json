@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705494854700,
+  "endTime": 1705495810407,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1841025,
+      "num": 1841025,
+      "word": "华中农大涉嫌学术不端教授多项专利被驳回",
+      "onboard_time": 1705490966,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1840632,
       "num": 1814134,
       "word": "华中农业大学学生实名举报导师学术造假",
@@ -289,14 +297,6 @@
       "onboard_time": 1705157987,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1718837,
-      "num": 1718837,
-      "word": "华中农大涉嫌学术不端教授多项专利被驳回",
-      "onboard_time": 1705490966,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1711519,
@@ -665,6 +665,14 @@
       "onboard_time": 1705484970,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1180948,
+      "num": 1180948,
+      "word": "张拿铁人设崩塌",
+      "onboard_time": 1705494388,
+      "rank": 31,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 1162294,
@@ -1827,6 +1835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 637596,
+      "num": 488279,
+      "word": "仙剑四六对打",
+      "onboard_time": 1705493847,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 634599,
       "num": 456784,
       "word": "gidle 抄袭争议",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1705293814,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 616066,
+      "num": 442339,
+      "word": "优酷限免仙剑一三五",
+      "onboard_time": 1705492589,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 614997,
@@ -2217,14 +2241,6 @@
       "onboard_time": 1705370191,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 567607,
-      "num": 415520,
-      "word": "优酷限免仙剑一三五",
-      "onboard_time": 1705492589,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 567584,
@@ -2697,14 +2713,6 @@
       "onboard_time": 1705204411,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 484232,
-      "num": 214857,
-      "word": "张拿铁人设崩塌",
-      "onboard_time": 1705494388,
-      "rank": 31,
-      "category": "幽默,网红"
     },
     {
       "raw_hot": 481648,
@@ -3483,14 +3491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378308,
-      "num": 378308,
-      "word": "仙剑四六对打",
-      "onboard_time": 1705493847,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 376748,
       "num": 341523,
       "word": "女子与男网友住酒店后称遭强奸",
@@ -3537,6 +3537,14 @@
       "onboard_time": 1705222650,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 372043,
+      "num": 372043,
+      "word": "大连人俱乐部解散",
+      "onboard_time": 1705494690,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 369436,
@@ -4027,6 +4035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315777,
+      "num": 291977,
+      "word": "水瓶座单身率高的原因",
+      "onboard_time": 1705492174,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 315100,
       "num": 315100,
       "word": "萌兰也是听着果赖声长大的",
@@ -4129,14 +4145,6 @@
       "onboard_time": 1705413333,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 306312,
-      "num": 289283,
-      "word": "水瓶座单身率高的原因",
-      "onboard_time": 1705492174,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 306222,
@@ -4283,6 +4291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292687,
+      "num": 292687,
+      "word": "余华 最会写死亡的作家之一",
+      "onboard_time": 1705493429,
+      "rank": 21,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 291883,
       "num": 251018,
       "word": "张杰工作室辟谣",
@@ -4297,6 +4313,14 @@
       "onboard_time": 1705381293,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 291564,
+      "num": 291564,
+      "word": "恋与深空",
+      "onboard_time": 1705230510,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 291084,
@@ -4337,14 +4361,6 @@
       "onboard_time": 1705474893,
       "rank": 23,
       "category": "旅游,艺人"
-    },
-    {
-      "raw_hot": 288380,
-      "num": 288380,
-      "word": "余华 最会写死亡的作家之一",
-      "onboard_time": 1705493429,
-      "rank": 21,
-      "category": "读书作家"
     },
     {
       "raw_hot": 288309,
@@ -4419,14 +4435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283311,
-      "num": 283311,
-      "word": "恋与深空",
-      "onboard_time": 1705230510,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 283278,
       "num": 283278,
       "word": "五福临门时间线",
@@ -4465,6 +4473,14 @@
       "onboard_time": 1705477050,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281425,
+      "num": 281425,
+      "word": "天官赐福",
+      "onboard_time": 1705495409,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 280782,
@@ -5691,11 +5707,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 218301,
-      "num": 218301,
-      "word": "大连人俱乐部解散",
-      "onboard_time": 1705494690,
-      "rank": 26,
+      "raw_hot": 218210,
+      "num": 190801,
+      "word": "武磊补射被扑",
+      "onboard_time": 1705494869,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -6329,6 +6345,14 @@
       "onboard_time": 1705314749,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 196723,
+      "num": 196723,
+      "word": "国足半场0比0黎巴嫩",
+      "onboard_time": 1705495468,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 196416,
@@ -7211,6 +7235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176019,
+      "num": 176019,
+      "word": "林一微博之夜小作文",
+      "onboard_time": 1705495226,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175829,
       "num": 175829,
       "word": "大侦探9演唱会节目单",
@@ -8019,6 +8051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156254,
+      "num": 156254,
+      "word": "看得出考的是老师",
+      "onboard_time": 1705495048,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156252,
       "num": 156252,
       "word": "防窥膜会不会伤眼睛",
@@ -8185,6 +8225,14 @@
       "onboard_time": 1705242634,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152510,
+      "num": 152510,
+      "word": "GEN对战T1",
+      "onboard_time": 1705495409,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 152459,
@@ -8577,6 +8625,14 @@
       "onboard_time": 1705294413,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 143203,
+      "num": 191481,
+      "word": "改善气血两虚的7种方法",
+      "onboard_time": 1705494928,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 143083,
@@ -9065,6 +9121,14 @@
       "onboard_time": 1705245693,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132069,
+      "num": 132069,
+      "word": "给全身脂肪上一课",
+      "onboard_time": 1705495647,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 132049,

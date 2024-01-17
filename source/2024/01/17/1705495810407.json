@@ -1,0 +1,410 @@
+{
+  "runTime": 1705495810407,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1841025,
+        "num": 1841025,
+        "word": "华中农大涉嫌学术不端教授多项专利被驳回",
+        "onboard_time": 1705490966,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180948,
+        "num": 1180948,
+        "word": "张拿铁人设崩塌",
+        "onboard_time": 1705494388,
+        "rank": 1,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 10569,
+        "num": 1157098,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1152869,
+        "num": 1152869,
+        "word": "宋小宝韩国",
+        "onboard_time": 1705485152,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1111865,
+        "num": 1111865,
+        "word": "仙剑四首播评价",
+        "onboard_time": 1705491028,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 684350,
+        "num": 684350,
+        "word": "苏醒爆改韩红",
+        "onboard_time": 1705492470,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 783975,
+        "num": 595748,
+        "word": "仙剑四今晚开播",
+        "onboard_time": 1705470632,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492006,
+        "num": 492006,
+        "word": "国足vs黎巴嫩",
+        "onboard_time": 1705488750,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 637596,
+        "num": 488279,
+        "word": "仙剑四六对打",
+        "onboard_time": 1705493847,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454237,
+        "num": 454237,
+        "word": "小孩哥沉默十秒 浙江文旅一年白干",
+        "onboard_time": 1705484970,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 616066,
+        "num": 442339,
+        "word": "优酷限免仙剑一三五",
+        "onboard_time": 1705492589,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496795,
+        "num": 435352,
+        "word": "祈今朝明日开播",
+        "onboard_time": 1705491810,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393476,
+        "num": 393476,
+        "word": "iPhone15价格跌至史上最低",
+        "onboard_time": 1705476931,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 377636,
+        "num": 377636,
+        "word": "王劲松要求粉丝不要用他照片当头像",
+        "onboard_time": 1705485694,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372043,
+        "num": 372043,
+        "word": "大连人俱乐部解散",
+        "onboard_time": 1705494690,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48485,
+        "num": 339905,
+        "word": "新一代拯救者全新发布",
+        "onboard_time": 1705492710,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 338989,
+        "num": 338989,
+        "word": "0713男团眼里没有光了",
+        "onboard_time": 1705489828,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315508,
+        "num": 315508,
+        "word": "董宇辉称有些活在阴沟里的人指责阳光耀眼",
+        "onboard_time": 1705487068,
+        "rank": 17,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 292687,
+        "num": 292687,
+        "word": "余华 最会写死亡的作家之一",
+        "onboard_time": 1705493429,
+        "rank": 18,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 275180,
+        "num": 292115,
+        "word": "夹来的娃娃最好别放床头",
+        "onboard_time": 1705481130,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315777,
+        "num": 291977,
+        "word": "水瓶座单身率高的原因",
+        "onboard_time": 1705492174,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291564,
+        "num": 291564,
+        "word": "恋与深空",
+        "onboard_time": 1705493788,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281425,
+        "num": 281425,
+        "word": "天官赐福",
+        "onboard_time": 1705495409,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 274333,
+        "num": 274333,
+        "word": "21岁女生每月3次月经病因在大脑",
+        "onboard_time": 1705479213,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256386,
+        "num": 256386,
+        "word": "无畏 我做好准备了",
+        "onboard_time": 1705493370,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221247,
+        "num": 221247,
+        "word": "远离肠癌4种食物要少吃",
+        "onboard_time": 1705488750,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211458,
+        "num": 211458,
+        "word": "相亲对象是分手两年的前男友",
+        "onboard_time": 1705481368,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206682,
+        "num": 206682,
+        "word": "华中农大被举报教授官网个人页已删除",
+        "onboard_time": 1705484247,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196723,
+        "num": 196723,
+        "word": "国足半场0比0黎巴嫩",
+        "onboard_time": 1705495468,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143203,
+        "num": 191481,
+        "word": "改善气血两虚的7种方法",
+        "onboard_time": 1705494928,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 774034,
+        "num": 191172,
+        "word": "广电总局曾要求规避电视剧演员争番位",
+        "onboard_time": 1705492045,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218210,
+        "num": 190801,
+        "word": "武磊补射被扑",
+        "onboard_time": 1705494869,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189008,
+        "num": 189008,
+        "word": "希林娜依高模仿世界小姐",
+        "onboard_time": 1705488210,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176019,
+        "num": 176019,
+        "word": "林一微博之夜小作文",
+        "onboard_time": 1705495226,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165971,
+        "num": 165971,
+        "word": "早让秦海璐当导游 秦岚嗓子早好了",
+        "onboard_time": 1705491990,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163563,
+        "num": 163563,
+        "word": "李晋晔辞职",
+        "onboard_time": 1705475909,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163172,
+        "num": 163172,
+        "word": "郭敬明发了田嘉瑞原始帧",
+        "onboard_time": 1705487847,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162224,
+        "num": 162224,
+        "word": "广东唯一吃辣最猛的城市",
+        "onboard_time": 1705493666,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159549,
+        "num": 159549,
+        "word": "过年觉得没年味的原因找到了",
+        "onboard_time": 1705493253,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157874,
+        "num": 157874,
+        "word": "北京文旅终于坐不住了",
+        "onboard_time": 1705493307,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 156254,
+        "num": 156254,
+        "word": "看得出考的是老师",
+        "onboard_time": 1705495048,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152510,
+        "num": 152510,
+        "word": "GEN对战T1",
+        "onboard_time": 1705495409,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150867,
+        "num": 150867,
+        "word": "为什么涨薪了反而会辞职",
+        "onboard_time": 1705485513,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145531,
+        "num": 145531,
+        "word": "于正晒吴宣仪定妆照",
+        "onboard_time": 1705483411,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142505,
+        "num": 142505,
+        "word": "胡锡进总亏损63229元",
+        "onboard_time": 1705484732,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134291,
+        "num": 134291,
+        "word": "或许这就是无畏的意义",
+        "onboard_time": 1705494331,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133429,
+        "num": 133429,
+        "word": "戴伟浚被对方鞋钉蹬脸",
+        "onboard_time": 1705494267,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132797,
+        "num": 132797,
+        "word": "小义 时间线",
+        "onboard_time": 1705486290,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119046,
+        "num": 132239,
+        "word": "68岁儿子笑着和98岁父亲顶嘴",
+        "onboard_time": 1705493184,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132069,
+        "num": 132069,
+        "word": "给全身脂肪上一课",
+        "onboard_time": 1705495647,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#开年关键一课主题锚定金融#"
+    }
+  }
+}

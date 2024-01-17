@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705494854700,
+  "endTime": 1705495810407,
   "band_list": [
     {
       "raw_hot": 2770385,
@@ -59,20 +59,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1841025,
+      "num": 1841025,
+      "word": "华中农大涉嫌学术不端教授多项专利被驳回",
+      "onboard_time": 1705490966,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1837637,
       "num": 1837637,
       "word": "国产剧终于癫成了我不认识的样子",
       "onboard_time": 1705453590,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1718837,
-      "num": 1718837,
-      "word": "华中农大涉嫌学术不端教授多项专利被驳回",
-      "onboard_time": 1705490966,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1441832,
@@ -153,6 +153,14 @@
       "onboard_time": 1705484970,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1180948,
+      "num": 1180948,
+      "word": "张拿铁人设崩塌",
+      "onboard_time": 1705494388,
+      "rank": 31,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 1139461,
@@ -395,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 637596,
+      "num": 488279,
+      "word": "仙剑四六对打",
+      "onboard_time": 1705493847,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 632952,
       "num": 632952,
       "word": "请和我的老公结婚 BTS",
@@ -432,6 +448,14 @@
       "word": "祈今朝明日开播",
       "onboard_time": 1705491810,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 616066,
+      "num": 442339,
+      "word": "优酷限免仙剑一三五",
+      "onboard_time": 1705492589,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -529,14 +553,6 @@
       "onboard_time": 1705479390,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 567607,
-      "num": 415520,
-      "word": "优酷限免仙剑一三五",
-      "onboard_time": 1705492589,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 567584,
@@ -697,14 +713,6 @@
       "onboard_time": 1705401091,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 484232,
-      "num": 214857,
-      "word": "张拿铁人设崩塌",
-      "onboard_time": 1705494388,
-      "rank": 31,
-      "category": "幽默,网红"
     },
     {
       "raw_hot": 473137,
@@ -939,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378308,
-      "num": 378308,
-      "word": "仙剑四六对打",
-      "onboard_time": 1705493847,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 376677,
       "num": 376677,
       "word": "GDP",
@@ -961,6 +961,14 @@
       "onboard_time": 1705469969,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372043,
+      "num": 372043,
+      "word": "大连人俱乐部解散",
+      "onboard_time": 1705494690,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 364587,
@@ -1131,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315777,
+      "num": 291977,
+      "word": "水瓶座单身率高的原因",
+      "onboard_time": 1705492174,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312163,
       "num": 312163,
       "word": "女儿本命年爸爸狂买36件红色礼物",
@@ -1153,14 +1169,6 @@
       "onboard_time": 1705456825,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 306312,
-      "num": 289283,
-      "word": "水瓶座单身率高的原因",
-      "onboard_time": 1705492174,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 302758,
@@ -1187,6 +1195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292687,
+      "num": 292687,
+      "word": "余华 最会写死亡的作家之一",
+      "onboard_time": 1705493429,
+      "rank": 21,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 291564,
+      "num": 291564,
+      "word": "恋与深空",
+      "onboard_time": 1705493788,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290470,
       "num": 1784412,
       "word": "糯叽叽美食来给浙江文旅上分了",
@@ -1203,28 +1227,12 @@
       "category": "旅游,艺人"
     },
     {
-      "raw_hot": 288380,
-      "num": 288380,
-      "word": "余华 最会写死亡的作家之一",
-      "onboard_time": 1705493429,
-      "rank": 21,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 283842,
       "num": 283842,
       "word": "茅台市值跌破2万亿",
       "onboard_time": 1705480530,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 283311,
-      "num": 283311,
-      "word": "恋与深空",
-      "onboard_time": 1705493788,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 283273,
@@ -1249,6 +1257,14 @@
       "onboard_time": 1705477050,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281425,
+      "num": 281425,
+      "word": "天官赐福",
+      "onboard_time": 1705495409,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 278609,
@@ -1595,11 +1611,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 218301,
-      "num": 218301,
-      "word": "大连人俱乐部解散",
-      "onboard_time": 1705494690,
-      "rank": 26,
+      "raw_hot": 218210,
+      "num": 190801,
+      "word": "武磊补射被扑",
+      "onboard_time": 1705494869,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -1737,6 +1753,14 @@
       "onboard_time": 1705489892,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196723,
+      "num": 196723,
+      "word": "国足半场0比0黎巴嫩",
+      "onboard_time": 1705495468,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 194765,
@@ -1897,6 +1921,14 @@
       "onboard_time": 1705457429,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 176019,
+      "num": 176019,
+      "word": "林一微博之夜小作文",
+      "onboard_time": 1705495226,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175829,
@@ -2075,6 +2107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156254,
+      "num": 156254,
+      "word": "看得出考的是老师",
+      "onboard_time": 1705495048,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154013,
       "num": 154013,
       "word": "乔治38分",
@@ -2121,6 +2161,14 @@
       "onboard_time": 1705454012,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152510,
+      "num": 152510,
+      "word": "GEN对战T1",
+      "onboard_time": 1705495409,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 152433,
@@ -2201,6 +2249,14 @@
       "onboard_time": 1705458566,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143203,
+      "num": 191481,
+      "word": "改善气血两虚的7种方法",
+      "onboard_time": 1705494928,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142727,
@@ -2289,6 +2345,14 @@
       "onboard_time": 1705460069,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 132069,
+      "num": 132069,
+      "word": "给全身脂肪上一课",
+      "onboard_time": 1705495647,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 131747,
