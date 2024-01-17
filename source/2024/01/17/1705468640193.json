@@ -1,0 +1,410 @@
+{
+  "runTime": 1705468640193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1535967,
+        "num": 1535967,
+        "word": "专家称龙年或出现生育小高峰",
+        "onboard_time": 1705460487,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 985715,
+        "num": 985715,
+        "word": "南方小土豆在东北旅游3天买了套房",
+        "onboard_time": 1705456226,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10531,
+        "num": 981856,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979068,
+        "num": 979068,
+        "word": "韩国男爱豆为逃兵役谎称智力障碍",
+        "onboard_time": 1705465474,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719000,
+        "num": 719000,
+        "word": "68岁大妈18岁身材每周5小时瑜伽",
+        "onboard_time": 1705463913,
+        "rank": 4,
+        "category": "运动健身,社会新闻"
+      },
+      {
+        "raw_hot": 713397,
+        "num": 713397,
+        "word": "梁建章建议给有孩家庭每月1000至6000元",
+        "onboard_time": 1705465892,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697553,
+        "num": 697553,
+        "word": "周震南躲箱子里爆哭被抬走",
+        "onboard_time": 1705460727,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 687990,
+        "num": 687990,
+        "word": "国产剧终于癫成了我不认识的样子",
+        "onboard_time": 1705453590,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 685699,
+        "num": 685699,
+        "word": "2023年中国出生人口902万人",
+        "onboard_time": 1705460069,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 572411,
+        "num": 572411,
+        "word": "微信办公构成加班须支付加班工资",
+        "onboard_time": 1705466371,
+        "rank": 9,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 535018,
+        "num": 535018,
+        "word": "网红樊小慧直播称被前婆婆上门殴打",
+        "onboard_time": 1705449626,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 503808,
+        "num": 503808,
+        "word": "国台办回应网上出现武统声音",
+        "onboard_time": 1705466077,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 449533,
+        "num": 449533,
+        "word": "清华大学辟谣80%毕业生出国",
+        "onboard_time": 1705455927,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400333,
+        "num": 400333,
+        "word": "大麦回应抢票林俊杰付款林子祥",
+        "onboard_time": 1705467092,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 350442,
+        "num": 350442,
+        "word": "许凯虞书欣哭戏",
+        "onboard_time": 1705466134,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333527,
+        "num": 333527,
+        "word": "李现朱一龙都被湖北文旅摇来了",
+        "onboard_time": 1705464871,
+        "rank": 15,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 298021,
+        "num": 298021,
+        "word": "LV大秀",
+        "onboard_time": 1705463913,
+        "rank": 16,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 274892,
+        "num": 274892,
+        "word": "四川文旅 丁真",
+        "onboard_time": 1705461028,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 272316,
+        "num": 272316,
+        "word": "抢林俊杰演唱会付款后变林子祥",
+        "onboard_time": 1705462348,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268169,
+        "num": 268169,
+        "word": "揭秘进口车厘子为何大跳水",
+        "onboard_time": 1705461989,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458770,
+        "num": 268054,
+        "word": "杨紫新中式马面裙",
+        "onboard_time": 1705464271,
+        "rank": 20,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 430979,
+        "num": 267925,
+        "word": "分手前的聊天记录",
+        "onboard_time": 1705463791,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424173,
+        "num": 267731,
+        "word": "女子想再婚儿子拿父亲遗嘱将其告上法院",
+        "onboard_time": 1705464513,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419548,
+        "num": 267632,
+        "word": "张元英胜诉获1亿韩元赔偿",
+        "onboard_time": 1705467393,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394623,
+        "num": 267526,
+        "word": "最佳睡眠不是睡够8小时",
+        "onboard_time": 1705456409,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267422,
+        "num": 267422,
+        "word": "生孩子会特别选时间吗",
+        "onboard_time": 1705467693,
+        "rank": 25,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 253499,
+        "num": 253499,
+        "word": "小义 Hero",
+        "onboard_time": 1705464330,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226846,
+        "num": 226846,
+        "word": "两只金毛一个去哄一个来劝",
+        "onboard_time": 1705466555,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217354,
+        "num": 217354,
+        "word": "二等功喜报送到家这位军嫂却哭了",
+        "onboard_time": 1705467631,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216658,
+        "num": 216658,
+        "word": "突然知道存不住钱的原因了",
+        "onboard_time": 1705468054,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201585,
+        "num": 201585,
+        "word": "年轻人谈恋爱麻烦的原因找到了",
+        "onboard_time": 1705461449,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198444,
+        "num": 198444,
+        "word": "苹果手表被曝将移除血氧传感器技术",
+        "onboard_time": 1705461808,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194466,
+        "num": 194466,
+        "word": "有多少毕业生愿意进厂工作",
+        "onboard_time": 1705467872,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191292,
+        "num": 191292,
+        "word": "2023年我国GDP超126万亿元",
+        "onboard_time": 1705457429,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182083,
+        "num": 182083,
+        "word": "请和我的老公结婚 BTS",
+        "onboard_time": 1705452151,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170764,
+        "num": 170764,
+        "word": "恋与深空送足金",
+        "onboard_time": 1705465054,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166152,
+        "num": 166152,
+        "word": "小狗只吵架不动手",
+        "onboard_time": 1705461871,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165019,
+        "num": 165019,
+        "word": "名校本科生毕业深造率达70%",
+        "onboard_time": 1705464569,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 161220,
+        "num": 161220,
+        "word": "洪崖洞公主造型",
+        "onboard_time": 1705464513,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 150834,
+        "num": 150834,
+        "word": "女子偶遇前夫有说有笑称还是亲戚",
+        "onboard_time": 1705463670,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149308,
+        "num": 149308,
+        "word": "两名99后男子当街行凶被执行死刑",
+        "onboard_time": 1705468414,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149102,
+        "num": 149102,
+        "word": "在火车上吃什么最无敌",
+        "onboard_time": 1705464330,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146870,
+        "num": 146870,
+        "word": "华中农业大学学生实名举报导师学术造假",
+        "onboard_time": 1705411651,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 143877,
+        "num": 143877,
+        "word": "大侦探9侦心侦意演唱会阵容",
+        "onboard_time": 1705461088,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138909,
+        "num": 138909,
+        "word": "2022届本科生平均月入近6千",
+        "onboard_time": 1705453289,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137774,
+        "num": 137774,
+        "word": "科切拉音乐节阵容",
+        "onboard_time": 1705466674,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134700,
+        "num": 134700,
+        "word": "王鹤棣 秀场也是他的游乐场",
+        "onboard_time": 1705463431,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 129239,
+        "num": 129239,
+        "word": "恋与深空明日上线",
+        "onboard_time": 1705464454,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127809,
+        "num": 127809,
+        "word": "梁洛施说和李泽楷只是孩子的父母",
+        "onboard_time": 1705454488,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126676,
+        "num": 126676,
+        "word": "LESSERAFIM将首登科切拉",
+        "onboard_time": 1705464271,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程金融工作怎么看怎么干#"
+    }
+  }
+}

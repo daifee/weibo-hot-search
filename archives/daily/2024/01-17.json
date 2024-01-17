@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705466177154,
+  "endTime": 1705468640193,
   "band_list": [
     {
       "raw_hot": 2403487,
@@ -75,6 +75,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 979068,
+      "num": 979068,
+      "word": "韩国男爱豆为逃兵役谎称智力障碍",
+      "onboard_time": 1705465474,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 951616,
       "num": 951616,
       "word": "2022届本科生平均月入近6千",
@@ -131,6 +139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719000,
+      "num": 719000,
+      "word": "68岁大妈18岁身材每周5小时瑜伽",
+      "onboard_time": 1705463913,
+      "rank": 11,
+      "category": "运动健身,社会新闻"
+    },
+    {
+      "raw_hot": 713397,
+      "num": 713397,
+      "word": "梁建章建议给有孩家庭每月1000至6000元",
+      "onboard_time": 1705465892,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709232,
       "num": 298429,
       "word": "杨紫新中式马面裙",
@@ -153,14 +177,6 @@
       "onboard_time": 1705451672,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 655593,
-      "num": 655593,
-      "word": "68岁大妈18岁身材每周5小时瑜伽",
-      "onboard_time": 1705463913,
-      "rank": 11,
-      "category": "运动健身,社会新闻"
     },
     {
       "raw_hot": 632952,
@@ -219,6 +235,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 572411,
+      "num": 572411,
+      "word": "微信办公构成加班须支付加班工资",
+      "onboard_time": 1705466371,
+      "rank": 9,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 562357,
       "num": 439001,
       "word": "A股",
@@ -233,14 +257,6 @@
       "onboard_time": 1705414172,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 540024,
-      "num": 540024,
-      "word": "韩国男爱豆为逃兵役谎称智力障碍",
-      "onboard_time": 1705465474,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 530884,
@@ -273,6 +289,14 @@
       "onboard_time": 1705428858,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 503808,
+      "num": 503808,
+      "word": "国台办回应网上出现武统声音",
+      "onboard_time": 1705466077,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 496266,
@@ -355,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419548,
+      "num": 267632,
+      "word": "张元英胜诉获1亿韩元赔偿",
+      "onboard_time": 1705467393,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418176,
       "num": 418176,
       "word": "王安宇在冰岛用冷水洗澡",
@@ -401,6 +433,14 @@
       "onboard_time": 1705464330,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 400333,
+      "num": 400333,
+      "word": "大麦回应抢票林俊杰付款林子祥",
+      "onboard_time": 1705467092,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 399102,
@@ -465,6 +505,14 @@
       "onboard_time": 1705433414,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350442,
+      "num": 350442,
+      "word": "许凯虞书欣哭戏",
+      "onboard_time": 1705466134,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 346191,
@@ -545,6 +593,14 @@
       "onboard_time": 1705464569,
       "rank": 31,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 267422,
+      "num": 267422,
+      "word": "生孩子会特别选时间吗",
+      "onboard_time": 1705467693,
+      "rank": 25,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 263514,
@@ -659,12 +715,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 235106,
-      "num": 235106,
-      "word": "许凯虞书欣哭戏",
-      "onboard_time": 1705466134,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 226846,
+      "num": 226846,
+      "word": "两只金毛一个去哄一个来劝",
+      "onboard_time": 1705466555,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 226481,
@@ -691,6 +747,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 217354,
+      "num": 217354,
+      "word": "二等功喜报送到家这位军嫂却哭了",
+      "onboard_time": 1705467631,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217316,
       "num": 217316,
       "word": "祈今朝首发预告",
@@ -699,20 +763,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216658,
+      "num": 216658,
+      "word": "突然知道存不住钱的原因了",
+      "onboard_time": 1705468054,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214964,
       "num": 214964,
       "word": "王嘉尔看秀位置",
       "onboard_time": 1705460069,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 211268,
-      "num": 211268,
-      "word": "梁建章建议给有孩家庭每月1000至6000元",
-      "onboard_time": 1705465892,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210791,
@@ -737,6 +801,14 @@
       "onboard_time": 1705464032,
       "rank": 14,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 194466,
+      "num": 194466,
+      "word": "有多少毕业生愿意进厂工作",
+      "onboard_time": 1705467872,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193769,
@@ -859,6 +931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 161220,
+      "num": 161220,
+      "word": "洪崖洞公主造型",
+      "onboard_time": 1705464513,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 159861,
       "num": 159861,
       "word": "没了一块钱但获得一个亿",
@@ -891,6 +971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149308,
+      "num": 149308,
+      "word": "两名99后男子当街行凶被执行死刑",
+      "onboard_time": 1705468414,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148582,
       "num": 148582,
       "word": "2023年全国居民人均可支配收入39218元",
@@ -913,14 +1001,6 @@
       "onboard_time": 1705458749,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146700,
-      "num": 146700,
-      "word": "洪崖洞公主造型",
-      "onboard_time": 1705464513,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 145598,
@@ -971,20 +1051,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 140445,
-      "num": 140445,
-      "word": "国台办回应网上出现武统声音",
-      "onboard_time": 1705466077,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 140349,
       "num": 140349,
       "word": "何猷君看王彦霖吃虫子的反应",
       "onboard_time": 1705462414,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137774,
+      "num": 137774,
+      "word": "科切拉音乐节阵容",
+      "onboard_time": 1705466674,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 135989,
