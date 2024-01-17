@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705518901237,
+  "endTime": 1705520047967,
   "band_list": [
     {
       "raw_hot": 1631758,
@@ -507,20 +507,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 31368,
+      "num": 31368,
+      "word": "什刹海偶遇章若楠滑冰",
+      "onboard_time": 1705515854,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30742,
       "num": 30742,
       "word": "你希望春晚出现科目三吗",
       "onboard_time": 1705516035,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29146,
-      "num": 29146,
-      "word": "什刹海偶遇章若楠滑冰",
-      "onboard_time": 1705515854,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 26394,
@@ -551,6 +551,14 @@
       "num": 20633,
       "word": "韩菱纱被抓捕",
       "onboard_time": 1705518792,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15412,
+      "num": 20178,
+      "word": "如果奔跑是我的人生",
+      "onboard_time": 1705519214,
       "rank": 48,
       "category": "剧集"
     }
