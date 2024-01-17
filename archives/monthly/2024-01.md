@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/17 14:23:34
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/17 14:36:47
 </p>
 </blockquote>
 <p>
@@ -1839,6 +1839,12 @@ A股大跌（热度：1296178）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E7%BD%91%E7%BA%A2%E6%A8%8A%E5%B0%8F%E6%85%A7%E7%A7%B0%E8%A2%AB%E5%89%8D%E5%A9%86%E5%A9%86%E6%AE%B4%E6%89%93%23" target="weibo">
+警方介入网红樊小慧称被前婆婆殴打（热度：1271879）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94%E5%90%B8%E6%AF%92%23" target="weibo">
 马斯克回应吸毒（热度：1265933）
 </a>
@@ -3249,12 +3255,6 @@ papi酱 永远不知道同事到底叫什么（热度：951321）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E7%BD%91%E7%BA%A2%E6%A8%8A%E5%B0%8F%E6%85%A7%E7%A7%B0%E8%A2%AB%E5%89%8D%E5%A9%86%E5%A9%86%E6%AE%B4%E6%89%93%23" target="weibo">
-警方介入网红樊小慧称被前婆婆殴打（热度：936469）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E6%A6%B4%E8%8E%B2%E5%BF%AB%E7%86%9F%E4%BA%86%E5%8F%B8%E6%9C%BA%E9%AB%98%E9%80%9F%E7%8B%82%E5%A5%947%E5%B0%8F%E6%97%B6%E4%BA%A4%E8%AD%A6%E6%8B%A6%E4%B8%8B%E5%BC%BA%E5%88%B6%E5%85%B6%E4%BC%91%E6%81%AF%23" target="weibo">
 因榴莲快熟了司机高速狂奔7小时交警拦下强制其休息（热度：935666）
 </a>
@@ -3759,6 +3759,12 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E7%BD%B2%E5%90%8D%E4%BA%89%E8%AE%AE%23" target="weibo">
+鞠婧祎工作室回应署名争议（热度：848596）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2368%E5%B2%81%E5%A4%A7%E5%A6%8818%E5%B2%81%E8%BA%AB%E6%9D%90%E6%AF%8F%E5%91%A85%E5%B0%8F%E6%97%B6%E7%91%9C%E4%BC%BD%23" target="weibo">
 68岁大妈18岁身材每周5小时瑜伽（热度：848365）
 </a>
@@ -4191,12 +4197,6 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E7%BD%B2%E5%90%8D%E4%BA%89%E8%AE%AE%23" target="weibo">
-鞠婧祎工作室回应署名争议（热度：797183）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E5%87%BA%E5%8F%91%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%23" target="weibo">
 明星出发微博之夜（热度：796692）
 </a>
@@ -4331,6 +4331,12 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86%E5%B0%94%E6%BB%A8%23" target="weibo">
 太超前了尔滨（热度：784715）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E6%96%B9%E5%90%A6%E8%AE%A4%E6%8A%A2%E7%95%AA%23" target="weibo">
+陈哲远方否认抢番（热度：783403）
 </a>
 </li>
 
@@ -4529,6 +4535,12 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E4%BD%A0%E5%BF%AB%E6%8A%8A%E7%9C%BC%E9%95%9C%E6%91%98%E4%BA%86%E5%90%A7%23" target="weibo">
 黄景瑜你快把眼镜摘了吧（热度：759702）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E4%B8%BA%E5%93%88%E5%B0%94%E6%BB%A8%E4%BD%9C%E7%94%BB%23" target="weibo">
+乌合麒麟为哈尔滨作画（热度：759489）
 </a>
 </li>
 
@@ -4763,12 +4775,6 @@ iPhone16将配备8GBRAM（热度：748094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E4%BD%A0%E7%8E%A9%E7%9C%9F%E7%9A%84%E5%95%8A%23" target="weibo">
 哈工大你玩真的啊（热度：741298）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E4%B8%BA%E5%93%88%E5%B0%94%E6%BB%A8%E4%BD%9C%E7%94%BB%23" target="weibo">
-乌合麒麟为哈尔滨作画（热度：740055）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GAI 五年后再给王鹤棣续SVIP（热度：690915）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E5%90%8C%E6%AC%BE%E7%AD%BE%E5%AD%97%E5%AE%89%E5%85%A8%E7%AC%94%E5%B7%B2%E5%94%AE9%E4%B8%87%E6%94%AF%23" target="weibo">
 李铁同款签字安全笔已售9万支（热度：640151）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E6%8C%A5%23" target="weibo">
-樊振东发挥（热度：639276）
 </a>
 </li>
 
