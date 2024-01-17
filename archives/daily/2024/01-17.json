@@ -1,6 +1,6 @@
 {
   "startTime": 1705422237867,
-  "endTime": 1705491249075,
+  "endTime": 1705494854700,
   "band_list": [
     {
       "raw_hot": 2770385,
@@ -43,6 +43,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1960296,
+      "num": 1669893,
+      "word": "人口",
+      "onboard_time": 1705486588,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1922878,
       "num": 1922878,
       "word": "iPhone15价格跌至史上最低",
@@ -59,11 +67,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1669893,
-      "num": 1669893,
-      "word": "人口",
-      "onboard_time": 1705486588,
-      "rank": 38,
+      "raw_hot": 1718837,
+      "num": 1718837,
+      "word": "华中农大涉嫌学术不端教授多项专利被驳回",
+      "onboard_time": 1705490966,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -113,6 +121,14 @@
       "onboard_time": 1705484247,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1213404,
+      "num": 1213404,
+      "word": "仙剑四首播评价",
+      "onboard_time": 1705491028,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 1204875,
@@ -243,6 +259,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 801105,
+      "num": 215434,
+      "word": "广电总局曾要求规避电视剧演员争番位",
+      "onboard_time": 1705492045,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 793673,
       "num": 793673,
       "word": "新疆1558名因雪崩滞留旅客离开景区",
@@ -315,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719716,
+      "num": 719716,
+      "word": "苏醒爆改韩红",
+      "onboard_time": 1705492470,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 713397,
       "num": 713397,
       "word": "梁建章建议给有孩家庭每月1000至6000元",
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676084,
+      "num": 676084,
+      "word": "国足vs黎巴嫩",
+      "onboard_time": 1705488750,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 632952,
       "num": 632952,
       "word": "请和我的老公结婚 BTS",
@@ -385,6 +425,14 @@
       "onboard_time": 1705476812,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 618521,
+      "num": 618521,
+      "word": "祈今朝明日开播",
+      "onboard_time": 1705491810,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 614997,
@@ -481,6 +529,14 @@
       "onboard_time": 1705479390,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 567607,
+      "num": 415520,
+      "word": "优酷限免仙剑一三五",
+      "onboard_time": 1705492589,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 567584,
@@ -641,6 +697,14 @@
       "onboard_time": 1705401091,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484232,
+      "num": 214857,
+      "word": "张拿铁人设崩塌",
+      "onboard_time": 1705494388,
+      "rank": 31,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 473137,
@@ -875,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378308,
+      "num": 378308,
+      "word": "仙剑四六对打",
+      "onboard_time": 1705493847,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376677,
       "num": 376677,
       "word": "GDP",
@@ -913,6 +985,14 @@
       "onboard_time": 1705453529,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358413,
+      "num": 358413,
+      "word": "无畏 我做好准备了",
+      "onboard_time": 1705493370,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 355280,
@@ -1075,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306312,
+      "num": 289283,
+      "word": "水瓶座单身率高的原因",
+      "onboard_time": 1705492174,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 302758,
       "num": 302758,
       "word": "郭敬明发了田嘉瑞原始帧",
@@ -1115,12 +1203,28 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 288380,
+      "num": 288380,
+      "word": "余华 最会写死亡的作家之一",
+      "onboard_time": 1705493429,
+      "rank": 21,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 283842,
       "num": 283842,
       "word": "茅台市值跌破2万亿",
       "onboard_time": 1705480530,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 283311,
+      "num": 283311,
+      "word": "恋与深空",
+      "onboard_time": 1705493788,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 283273,
@@ -1273,6 +1377,14 @@
       "onboard_time": 1705408832,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244213,
+      "num": 244213,
+      "word": "早让秦海璐当导游 秦岚嗓子早好了",
+      "onboard_time": 1705491990,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 243843,
@@ -1459,14 +1571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 221231,
-      "num": 221231,
-      "word": "仙剑四首播评价",
-      "onboard_time": 1705491028,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220294,
       "num": 211169,
       "word": "迪丽热巴许愿海豚能够永远在大海里",
@@ -1489,6 +1593,14 @@
       "onboard_time": 1705459527,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 218301,
+      "num": 218301,
+      "word": "大连人俱乐部解散",
+      "onboard_time": 1705494690,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 217354,
@@ -1523,12 +1635,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 213572,
-      "num": 258102,
-      "word": "国足vs黎巴嫩",
-      "onboard_time": 1705488750,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 213177,
+      "num": 213177,
+      "word": "北京文旅终于坐不住了",
+      "onboard_time": 1705493307,
+      "rank": 33,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 213027,
@@ -1544,14 +1656,6 @@
       "word": "女子偶遇前夫有说有笑称还是亲戚",
       "onboard_time": 1705463670,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210257,
-      "num": 213886,
-      "word": "华中农大涉嫌学术不端教授多项专利被驳回",
-      "onboard_time": 1705490966,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1619,6 +1723,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 197916,
+      "num": 217719,
+      "word": "戴伟浚被对方鞋钉蹬脸",
+      "onboard_time": 1705494267,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197692,
       "num": 197692,
       "word": "2024LCK春季赛",
@@ -1667,6 +1779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193627,
+      "num": 193627,
+      "word": "或许这就是无畏的意义",
+      "onboard_time": 1705494331,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193433,
       "num": 193433,
       "word": "朱一龙你好宠",
@@ -1697,6 +1817,22 @@
       "onboard_time": 1705471710,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188138,
+      "num": 188138,
+      "word": "过年觉得没年味的原因找到了",
+      "onboard_time": 1705493253,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 187822,
+      "num": 187822,
+      "word": "广东唯一吃辣最猛的城市",
+      "onboard_time": 1705493666,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 186148,
@@ -1867,6 +2003,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 163685,
+      "num": 163685,
+      "word": "波普林vs德约科维奇",
+      "onboard_time": 1705494388,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161948,
       "num": 161948,
       "word": "洪崖洞公主造型",
@@ -1899,6 +2043,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 158013,
+      "num": 158013,
+      "word": "威神V直播",
+      "onboard_time": 1705493788,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157637,
+      "num": 157637,
+      "word": "沈月约朋友逛吃vlog",
+      "onboard_time": 1705493788,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157151,
       "num": 244624,
       "word": "男孩叼着柿饼躺秸秆上晒太阳好惬意",
@@ -1921,6 +2081,14 @@
       "onboard_time": 1705473332,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153486,
+      "num": 215843,
+      "word": "天舟七号发射直播",
+      "onboard_time": 1705494147,
+      "rank": 29,
+      "category": "科学科普,国内时政"
     },
     {
       "raw_hot": 153141,
@@ -2057,6 +2225,14 @@
       "onboard_time": 1705458087,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140460,
+      "num": 140460,
+      "word": "68岁儿子笑着和98岁父亲顶嘴",
+      "onboard_time": 1705493184,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140349,
@@ -2619,6 +2795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 48889,
+      "num": 393176,
+      "word": "新一代拯救者全新发布",
+      "onboard_time": 1705492710,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46249,
       "num": 530605,
       "word": "数一数湖南的压箱底宝贝",
@@ -2732,6 +2916,9 @@
     },
     {
       "word": "#开年关键一课主题锚定金融#"
+    },
+    {
+      "word": "#冰雪春天#"
     }
   ]
 }

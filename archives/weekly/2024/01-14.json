@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705491249075,
+  "endTime": 1705494854700,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1960296,
+      "num": 1669893,
+      "word": "人口",
+      "onboard_time": 1705486588,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1922878,
       "num": 1922878,
       "word": "iPhone15价格跌至史上最低",
@@ -283,20 +291,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1718837,
+      "num": 1718837,
+      "word": "华中农大涉嫌学术不端教授多项专利被驳回",
+      "onboard_time": 1705490966,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1711519,
       "num": 1711519,
       "word": "优酷换logo了",
       "onboard_time": 1705388190,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1669893,
-      "num": 1669893,
-      "word": "人口",
-      "onboard_time": 1705486588,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1662513,
@@ -616,6 +624,14 @@
       "word": "于正 吴宣仪是临时救场",
       "onboard_time": 1705219529,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1213404,
+      "num": 1213404,
+      "word": "仙剑四首播评价",
+      "onboard_time": 1705491028,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1203,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 801105,
+      "num": 215434,
+      "word": "广电总局曾要求规避电视剧演员争番位",
+      "onboard_time": 1705492045,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 800210,
       "num": 800210,
       "word": "至少看过3遍以上的宝藏电影",
@@ -1475,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719716,
+      "num": 719716,
+      "word": "苏醒爆改韩红",
+      "onboard_time": 1705492470,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 716761,
       "num": 716761,
       "word": "3年挣102万外卖骑手辟谣被打",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1705219892,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 676084,
+      "num": 676084,
+      "word": "国足vs黎巴嫩",
+      "onboard_time": 1705320930,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 676054,
@@ -1849,6 +1889,14 @@
       "onboard_time": 1705244615,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 618521,
+      "num": 618521,
+      "word": "祈今朝明日开播",
+      "onboard_time": 1705491810,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 618223,
@@ -2169,6 +2217,14 @@
       "onboard_time": 1705370191,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 567607,
+      "num": 415520,
+      "word": "优酷限免仙剑一三五",
+      "onboard_time": 1705492589,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 567584,
@@ -2641,6 +2697,14 @@
       "onboard_time": 1705204411,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 484232,
+      "num": 214857,
+      "word": "张拿铁人设崩塌",
+      "onboard_time": 1705494388,
+      "rank": 31,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 481648,
@@ -3419,6 +3483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378308,
+      "num": 378308,
+      "word": "仙剑四六对打",
+      "onboard_time": 1705493847,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376748,
       "num": 341523,
       "word": "女子与男网友住酒店后称遭强奸",
@@ -3585,6 +3657,14 @@
       "onboard_time": 1705317571,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 358413,
+      "num": 358413,
+      "word": "无畏 我做好准备了",
+      "onboard_time": 1705493370,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 355280,
@@ -4051,6 +4131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 306312,
+      "num": 289283,
+      "word": "水瓶座单身率高的原因",
+      "onboard_time": 1705492174,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 306222,
       "num": 1346739,
       "word": "私家车坠入水塘热心群众接力救援",
@@ -4251,6 +4339,14 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 288380,
+      "num": 288380,
+      "word": "余华 最会写死亡的作家之一",
+      "onboard_time": 1705493429,
+      "rank": 21,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 288309,
       "num": 278516,
       "word": "恋与深空洗澡卡",
@@ -4321,6 +4417,14 @@
       "onboard_time": 1705368388,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283311,
+      "num": 283311,
+      "word": "恋与深空",
+      "onboard_time": 1705230510,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 283278,
@@ -4947,6 +5051,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 244213,
+      "num": 244213,
+      "word": "早让秦海璐当导游 秦岚嗓子早好了",
+      "onboard_time": 1705491990,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243843,
       "num": 243843,
       "word": "大侦探9侦心侦意演唱会阵容",
@@ -5507,14 +5619,6 @@
       "category": "电竞,作品衍生"
     },
     {
-      "raw_hot": 221231,
-      "num": 221231,
-      "word": "仙剑四首播评价",
-      "onboard_time": 1705491028,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220633,
       "num": 220633,
       "word": "现代医学解释中医的发物",
@@ -5585,6 +5689,14 @@
       "onboard_time": 1705459527,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 218301,
+      "num": 218301,
+      "word": "大连人俱乐部解散",
+      "onboard_time": 1705494690,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 218154,
@@ -5715,14 +5827,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 213572,
-      "num": 258102,
-      "word": "国足vs黎巴嫩",
-      "onboard_time": 1705320930,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213399,
       "num": 213399,
       "word": "郑晓龙谈甄嬛传纯元的故事",
@@ -5737,6 +5841,14 @@
       "onboard_time": 1705166188,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213177,
+      "num": 213177,
+      "word": "北京文旅终于坐不住了",
+      "onboard_time": 1705493307,
+      "rank": 33,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 213048,
@@ -5793,14 +5905,6 @@
       "onboard_time": 1705367790,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 210257,
-      "num": 213886,
-      "word": "华中农大涉嫌学术不端教授多项专利被驳回",
-      "onboard_time": 1705490966,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210073,
@@ -6187,6 +6291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197916,
+      "num": 217719,
+      "word": "戴伟浚被对方鞋钉蹬脸",
+      "onboard_time": 1705494267,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197907,
       "num": 197907,
       "word": "龚俊新中式丝绸套装",
@@ -6329,6 +6441,14 @@
       "onboard_time": 1705464330,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193627,
+      "num": 193627,
+      "word": "或许这就是无畏的意义",
+      "onboard_time": 1705494331,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 193433,
@@ -6595,6 +6715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188138,
+      "num": 188138,
+      "word": "过年觉得没年味的原因找到了",
+      "onboard_time": 1705493253,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188117,
       "num": 188117,
       "word": "张若昀客串大唐狄公案",
@@ -6609,6 +6737,14 @@
       "onboard_time": 1705368089,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187822,
+      "num": 187822,
+      "word": "广东唯一吃辣最猛的城市",
+      "onboard_time": 1705493666,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 187806,
@@ -7611,6 +7747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163685,
+      "num": 163685,
+      "word": "波普林vs德约科维奇",
+      "onboard_time": 1705494388,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163244,
       "num": 163244,
       "word": "东北高铁给南方人一点震撼",
@@ -7803,6 +7947,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158013,
+      "num": 158013,
+      "word": "威神V直播",
+      "onboard_time": 1705493788,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157637,
+      "num": 157637,
+      "word": "沈月约朋友逛吃vlog",
+      "onboard_time": 1705493788,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157371,
       "num": 157371,
       "word": "Hero奇妙夜魔性新歌",
@@ -7953,6 +8113,14 @@
       "onboard_time": 1705473332,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153486,
+      "num": 215843,
+      "word": "天舟七号发射直播",
+      "onboard_time": 1705494147,
+      "rank": 29,
+      "category": "科学科普,国内时政"
     },
     {
       "raw_hot": 153405,
@@ -8531,6 +8699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140460,
+      "num": 140460,
+      "word": "68岁儿子笑着和98岁父亲顶嘴",
+      "onboard_time": 1705493184,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140437,
       "num": 140437,
       "word": "梓墨独唱",
@@ -8721,14 +8897,6 @@
       "onboard_time": 1705397610,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 137089,
-      "num": 137089,
-      "word": "恋与深空",
-      "onboard_time": 1705230510,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 137015,
@@ -10593,6 +10761,14 @@
       "onboard_time": 1705153665,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48889,
+      "num": 393176,
+      "word": "新一代拯救者全新发布",
+      "onboard_time": 1705492710,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 46249,
