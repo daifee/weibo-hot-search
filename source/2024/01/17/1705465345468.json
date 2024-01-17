@@ -1,0 +1,410 @@
+{
+  "runTime": 1705465345468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2231888,
+        "num": 2231888,
+        "word": "专家称龙年或出现生育小高峰",
+        "onboard_time": 1705460487,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1386460,
+        "num": 1386460,
+        "word": "2023年中国出生人口902万人",
+        "onboard_time": 1705460069,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20112,
+        "num": 1167952,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987333,
+        "num": 987333,
+        "word": "南方小土豆在东北旅游3天买了套房",
+        "onboard_time": 1705456226,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759525,
+        "num": 759525,
+        "word": "网红樊小慧直播称被前婆婆上门殴打",
+        "onboard_time": 1705449626,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 731469,
+        "num": 731469,
+        "word": "周震南躲箱子里爆哭被抬走",
+        "onboard_time": 1705460727,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 665759,
+        "num": 665759,
+        "word": "国产剧终于癫成了我不认识的样子",
+        "onboard_time": 1705453590,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 622532,
+        "num": 622532,
+        "word": "清华大学辟谣80%毕业生出国",
+        "onboard_time": 1705455927,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579087,
+        "num": 579087,
+        "word": "四川文旅 丁真",
+        "onboard_time": 1705461028,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 529071,
+        "num": 529071,
+        "word": "抢林俊杰演唱会付款后变林子祥",
+        "onboard_time": 1705462348,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77796,
+        "num": 488761,
+        "word": "蛋仔派对蛋搭紫",
+        "onboard_time": 1705463913,
+        "rank": 10,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 485468,
+        "num": 485468,
+        "word": "68岁大妈18岁身材每周5小时瑜伽",
+        "onboard_time": 1705463913,
+        "rank": 11,
+        "category": "运动健身,社会新闻"
+      },
+      {
+        "raw_hot": 468752,
+        "num": 468752,
+        "word": "苹果手表被曝将移除血氧传感器技术",
+        "onboard_time": 1705461808,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 614493,
+        "num": 451119,
+        "word": "年轻人谈恋爱麻烦的原因找到了",
+        "onboard_time": 1705461449,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174610,
+        "num": 399483,
+        "word": "杨紫蛋仔派对代言人",
+        "onboard_time": 1705464032,
+        "rank": 14,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 390473,
+        "num": 390473,
+        "word": "揭秘进口车厘子为何大跳水",
+        "onboard_time": 1705461989,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361429,
+        "num": 361429,
+        "word": "2023年我国GDP超126万亿元",
+        "onboard_time": 1705457429,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 335033,
+        "num": 335033,
+        "word": "李现朱一龙都被湖北文旅摇来了",
+        "onboard_time": 1705464871,
+        "rank": 17,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 314166,
+        "num": 314166,
+        "word": "小义 Hero",
+        "onboard_time": 1705464330,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 296273,
+        "num": 296273,
+        "word": "LV大秀",
+        "onboard_time": 1705463913,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 667076,
+        "num": 291342,
+        "word": "杨紫新中式马面裙",
+        "onboard_time": 1705464271,
+        "rank": 20,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 461399,
+        "num": 290654,
+        "word": "分手前的聊天记录",
+        "onboard_time": 1705463791,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283273,
+        "num": 283273,
+        "word": "恋与深空明日上线",
+        "onboard_time": 1705464454,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 407852,
+        "num": 282978,
+        "word": "最佳睡眠不是睡够8小时",
+        "onboard_time": 1705456409,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 324636,
+        "num": 282674,
+        "word": "女子想再婚儿子拿父亲遗嘱将其告上法院",
+        "onboard_time": 1705464513,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283713,
+        "num": 282273,
+        "word": "恋与深空送足金",
+        "onboard_time": 1705465054,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281809,
+        "num": 281809,
+        "word": "陈采尼 微博之夜造型点评",
+        "onboard_time": 1705458868,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251497,
+        "num": 251497,
+        "word": "2022届本科生平均月入近6千",
+        "onboard_time": 1705453289,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236776,
+        "num": 236776,
+        "word": "怎么会有妈妈这样说自己的女儿",
+        "onboard_time": 1705456348,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 235840,
+        "num": 235840,
+        "word": "小狗只吵架不动手",
+        "onboard_time": 1705461871,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235503,
+        "num": 235503,
+        "word": "大侦探9侦心侦意演唱会阵容",
+        "onboard_time": 1705461088,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219933,
+        "num": 219933,
+        "word": "名校本科生毕业深造率达70%",
+        "onboard_time": 1705464569,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 212490,
+        "num": 212490,
+        "word": "祈今朝首发预告",
+        "onboard_time": 1705464330,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210791,
+        "num": 210791,
+        "word": "女子偶遇前夫有说有笑称还是亲戚",
+        "onboard_time": 1705463670,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201584,
+        "num": 201584,
+        "word": "请和我的老公结婚 BTS",
+        "onboard_time": 1705452151,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193769,
+        "num": 193769,
+        "word": "在火车上吃什么最无敌",
+        "onboard_time": 1705464330,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192357,
+        "num": 192357,
+        "word": "有些蔬菜嘌呤比肉还高",
+        "onboard_time": 1705459527,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189604,
+        "num": 189604,
+        "word": "王嘉尔看秀位置",
+        "onboard_time": 1705460069,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187278,
+        "num": 187278,
+        "word": "梁洛施说和李泽楷只是孩子的父母",
+        "onboard_time": 1705454488,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179045,
+        "num": 179045,
+        "word": "王鹤棣 秀场也是他的游乐场",
+        "onboard_time": 1705463431,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173256,
+        "num": 173256,
+        "word": "卷学历不香了吗",
+        "onboard_time": 1705456526,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 35140,
+        "num": 172564,
+        "word": "娜扎中式老钱妆",
+        "onboard_time": 1705463791,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172148,
+        "num": 172148,
+        "word": "LESSERAFIM将首登科切拉",
+        "onboard_time": 1705464271,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165331,
+        "num": 165331,
+        "word": "2023全国人口比上年末减少208万人",
+        "onboard_time": 1705458507,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149776,
+        "num": 149776,
+        "word": "华中农业大学学生实名举报导师学术造假",
+        "onboard_time": 1705411651,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 148936,
+        "num": 148936,
+        "word": "周一围 我们不改了",
+        "onboard_time": 1705454012,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145790,
+        "num": 145790,
+        "word": "王俊凯机场路透",
+        "onboard_time": 1705448664,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143488,
+        "num": 143488,
+        "word": "仙剑四官微开通",
+        "onboard_time": 1705459168,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140349,
+        "num": 140349,
+        "word": "何猷君看王彦霖吃虫子的反应",
+        "onboard_time": 1705462414,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130670,
+        "num": 130670,
+        "word": "蔚来车型",
+        "onboard_time": 1705461509,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#开年关键一课主题锚定金融#"
+    }
+  }
+}
