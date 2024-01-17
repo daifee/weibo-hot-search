@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705465345468,
+  "endTime": 1705466177154,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1081088,
+      "num": 1081088,
+      "word": "南方小土豆在东北旅游3天买了套房",
+      "onboard_time": 1705456226,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1073552,
       "num": 1073552,
       "word": "尼格买提叫的是娜扎全名",
@@ -777,14 +785,6 @@
       "onboard_time": 1705310791,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 987333,
-      "num": 987333,
-      "word": "南方小土豆在东北旅游3天买了套房",
-      "onboard_time": 1705456226,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 980335,
@@ -1323,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 709232,
+      "num": 298429,
+      "word": "杨紫新中式马面裙",
+      "onboard_time": 1705464271,
+      "rank": 20,
+      "category": "作品衍生,游戏"
+    },
+    {
       "raw_hot": 703634,
       "num": 703634,
       "word": "女子连吃一周腊肠左眼失明",
@@ -1475,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 667076,
-      "num": 291342,
-      "word": "杨紫新中式马面裙",
-      "onboard_time": 1705464271,
-      "rank": 20,
-      "category": "作品衍生,游戏"
-    },
-    {
       "raw_hot": 665624,
       "num": 665624,
       "word": "俞敏洪回应天权提前复出",
@@ -1505,6 +1505,14 @@
       "onboard_time": 1705302449,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 655593,
+      "num": 655593,
+      "word": "68岁大妈18岁身材每周5小时瑜伽",
+      "onboard_time": 1705463913,
+      "rank": 11,
+      "category": "运动健身,社会新闻"
     },
     {
       "raw_hot": 655116,
@@ -2027,6 +2035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 540024,
+      "num": 540024,
+      "word": "韩国男爱豆为逃兵役谎称智力障碍",
+      "onboard_time": 1705465474,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537524,
       "num": 537524,
       "word": "3人操纵股价被罚没6.6亿",
@@ -2275,14 +2291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 485468,
-      "num": 485468,
-      "word": "68岁大妈18岁身材每周5小时瑜伽",
-      "onboard_time": 1705463913,
-      "rank": 11,
-      "category": "运动健身,社会新闻"
-    },
-    {
       "raw_hot": 484261,
       "num": 484261,
       "word": "王一博 小滑一步",
@@ -2452,7 +2460,7 @@
     },
     {
       "raw_hot": 461399,
-      "num": 290654,
+      "num": 294002,
       "word": "分手前的聊天记录",
       "onboard_time": 1705463791,
       "rank": 21,
@@ -2544,6 +2552,14 @@
       "word": "男子吐槽华清宫贵妃入浴雕像不雅",
       "onboard_time": 1705321350,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443234,
+      "num": 288898,
+      "word": "女子想再婚儿子拿父亲遗嘱将其告上法院",
+      "onboard_time": 1705464513,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -2723,6 +2739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 408428,
+      "num": 408428,
+      "word": "李现朱一龙都被湖北文旅摇来了",
+      "onboard_time": 1705464871,
+      "rank": 17,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 408089,
       "num": 408089,
       "word": "狐妖小红娘王权篇路透",
@@ -2753,6 +2777,14 @@
       "onboard_time": 1705241739,
       "rank": 24,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 401546,
+      "num": 401546,
+      "word": "小义 Hero",
+      "onboard_time": 1705464330,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 400218,
@@ -3195,14 +3227,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 335033,
-      "num": 335033,
-      "word": "李现朱一龙都被湖北文旅摇来了",
-      "onboard_time": 1705464871,
-      "rank": 17,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 334530,
       "num": 334530,
       "word": "叠纸真的要上天",
@@ -3225,6 +3249,14 @@
       "onboard_time": 1705391014,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332227,
+      "num": 332227,
+      "word": "LV大秀",
+      "onboard_time": 1705463913,
+      "rank": 19,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 331714,
@@ -3273,14 +3305,6 @@
       "onboard_time": 1705370429,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 324636,
-      "num": 282674,
-      "word": "女子想再婚儿子拿父亲遗嘱将其告上法院",
-      "onboard_time": 1705464513,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323586,
@@ -3393,14 +3417,6 @@
       "onboard_time": 1705205310,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 314166,
-      "num": 314166,
-      "word": "小义 Hero",
-      "onboard_time": 1705464330,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 313180,
@@ -3523,6 +3539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299283,
+      "num": 284754,
+      "word": "恋与深空送足金",
+      "onboard_time": 1705465054,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298108,
       "num": 298108,
       "word": "马宁 黄牌",
@@ -3545,14 +3569,6 @@
       "onboard_time": 1705402770,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296273,
-      "num": 296273,
-      "word": "LV大秀",
-      "onboard_time": 1705463913,
-      "rank": 19,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 295771,
@@ -3707,14 +3723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283713,
-      "num": 282273,
-      "word": "恋与深空送足金",
-      "onboard_time": 1705465054,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 283562,
       "num": 283562,
       "word": "谭爷爷想问萌兰你还记得我吗",
@@ -3732,11 +3740,19 @@
     },
     {
       "raw_hot": 283273,
-      "num": 283273,
+      "num": 290899,
       "word": "恋与深空明日上线",
       "onboard_time": 1705464454,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 282778,
+      "num": 282778,
+      "word": "名校本科生毕业深造率达70%",
+      "onboard_time": 1705464569,
+      "rank": 31,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 282443,
@@ -4467,6 +4483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235106,
+      "num": 235106,
+      "word": "许凯虞书欣哭戏",
+      "onboard_time": 1705466134,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234810,
       "num": 192373,
       "word": "邱贻可 打好每一场",
@@ -4715,14 +4739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219933,
-      "num": 219933,
-      "word": "名校本科生毕业深造率达70%",
-      "onboard_time": 1705464569,
-      "rank": 31,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 219913,
       "num": 190518,
       "word": "不就是王家卫么 谁不会",
@@ -4784,6 +4800,14 @@
       "word": "祈今朝",
       "onboard_time": 1705309169,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217316,
+      "num": 217316,
+      "word": "祈今朝首发预告",
+      "onboard_time": 1705464330,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -4899,14 +4923,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 212490,
-      "num": 212490,
-      "word": "祈今朝首发预告",
-      "onboard_time": 1705464330,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212411,
       "num": 212411,
       "word": "徐明浩 八点钟练歌房",
@@ -4921,6 +4937,14 @@
       "onboard_time": 1705288229,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 211268,
+      "num": 211268,
+      "word": "梁建章建议给有孩家庭每月1000至6000元",
+      "onboard_time": 1705465892,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211040,
@@ -5161,6 +5185,14 @@
       "onboard_time": 1705377933,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203113,
+      "num": 401917,
+      "word": "杨紫蛋仔派对代言人",
+      "onboard_time": 1705464032,
+      "rank": 14,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 202687,
@@ -5979,6 +6011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179782,
+      "num": 179782,
+      "word": "LESSERAFIM将首登科切拉",
+      "onboard_time": 1705464271,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179443,
       "num": 179443,
       "word": "TXT更换编舞团队",
@@ -6123,14 +6163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174610,
-      "num": 399483,
-      "word": "杨紫蛋仔派对代言人",
-      "onboard_time": 1705464032,
-      "rank": 14,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 174418,
       "num": 174418,
       "word": "爱吃辣的人或收获4大好处",
@@ -6257,14 +6289,6 @@
       "onboard_time": 1705407572,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172148,
-      "num": 172148,
-      "word": "LESSERAFIM将首登科切拉",
-      "onboard_time": 1705464271,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 171832,
@@ -7099,6 +7123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146700,
+      "num": 146700,
+      "word": "洪崖洞公主造型",
+      "onboard_time": 1705464513,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 146498,
       "num": 146498,
       "word": "揭秘萧敬腾的婚后生活",
@@ -7425,6 +7457,14 @@
       "onboard_time": 1705289131,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140445,
+      "num": 140445,
+      "word": "国台办回应网上出现武统声音",
+      "onboard_time": 1705466077,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140437,
@@ -8699,6 +8739,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 103794,
+      "num": 506993,
+      "word": "蛋仔派对蛋搭紫",
+      "onboard_time": 1705463913,
+      "rank": 10,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 102938,
       "num": 102938,
       "word": "苏醒当着岳云鹏的面抢活",
@@ -9025,14 +9073,6 @@
       "onboard_time": 1705185077,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77796,
-      "num": 488761,
-      "word": "蛋仔派对蛋搭紫",
-      "onboard_time": 1705463913,
-      "rank": 10,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 77220,
