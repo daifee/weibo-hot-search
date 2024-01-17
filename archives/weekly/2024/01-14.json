@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705516555753,
+  "endTime": 1705518901237,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -11761,6 +11761,14 @@
       "onboard_time": 1705431315,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16477,
+      "num": 20633,
+      "word": "韩菱纱被抓捕",
+      "onboard_time": 1705518792,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 15734,
