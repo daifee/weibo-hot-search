@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705515765014,
+  "endTime": 1705516555753,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -44875,6 +44875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 65771,
+      "num": 63892,
+      "word": "华中农大教授遭学生举报学术不端被调查",
+      "onboard_time": 1705513997,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65572,
       "num": 65572,
       "word": "陈奕迅爆料杨千嬅后台用桶喝水",
@@ -44977,14 +44985,6 @@
       "onboard_time": 1705144365,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 63892,
-      "num": 63892,
-      "word": "华中农大教授遭学生举报学术不端被调查",
-      "onboard_time": 1705513997,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63881,
@@ -46099,6 +46099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40659,
+      "num": 40659,
+      "word": "好强的饭缩力",
+      "onboard_time": 1705514177,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 40522,
       "num": 305842,
       "word": "底子真的很重要",
@@ -46267,14 +46275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37513,
-      "num": 37513,
-      "word": "好强的饭缩力",
-      "onboard_time": 1705514177,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 37317,
       "num": 142846,
       "word": "宋轶微博之夜i了",
@@ -46385,6 +46385,14 @@
       "onboard_time": 1704303499,
       "rank": 31,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 33991,
+      "num": 33991,
+      "word": "各地文旅摇人",
+      "onboard_time": 1705515554,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 33831,
@@ -46515,6 +46523,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 30742,
+      "num": 30742,
+      "word": "你希望春晚出现科目三吗",
+      "onboard_time": 1705516035,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30553,
       "num": 33244,
       "word": "第一次见rua猫头鹰的",
@@ -46545,6 +46561,14 @@
       "onboard_time": 1705438993,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 29146,
+      "num": 29146,
+      "word": "什刹海偶遇章若楠滑冰",
+      "onboard_time": 1705515854,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 28778,
@@ -46625,14 +46649,6 @@
       "onboard_time": 1704482115,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 25860,
-      "num": 25860,
-      "word": "各地文旅摇人",
-      "onboard_time": 1705515554,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 25338,
