@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705598202169,
+  "endTime": 1705599244828,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -8923,6 +8923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186770,
+      "num": 186770,
+      "word": "阿信接龙红包",
+      "onboard_time": 1705598240,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186547,
       "num": 186547,
       "word": "云南白药炒股两年亏超22亿",
@@ -13657,6 +13665,14 @@
       "onboard_time": 1705187960,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79215,
+      "num": 79215,
+      "word": "最高检回应老干部举报当地领导被逮捕",
+      "onboard_time": 1705598240,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78878,
