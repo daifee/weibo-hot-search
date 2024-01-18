@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/19 06:34:39
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/19 07:19:04
 </p>
 </blockquote>
 <p>
@@ -1587,6 +1587,12 @@ iPhone为什么只有P大写（热度：1427162）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E5%A4%A7%E6%95%99%E5%B8%88%E9%BB%84%E6%9F%90%E6%9F%90%E5%AD%98%E5%9C%A8%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%23" target="weibo">
+华中农大教师黄某某存在学术不端（热度：1424763）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B453%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 伊朗连环爆炸已致53人死亡（热度：1421194）
 </a>
@@ -1805,12 +1811,6 @@ A股（热度：1375528）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%9B%E6%B1%9F%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E5%9D%A0%E6%A5%BC%E7%B3%BB%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%23" target="weibo">
 湛江中学老师坠楼系刑事案件（热度：1350463）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E7%9A%84%E5%AD%A6%E7%94%9F%E7%A7%B0%E6%8E%A5%E5%8F%97%E4%B8%8D%E4%BA%86%E8%AE%BA%E6%96%87%E6%98%AF%E5%81%87%E7%9A%84%23" target="weibo">
-举报导师的学生称接受不了论文是假的（热度：1350225）
 </a>
 </li>
 
