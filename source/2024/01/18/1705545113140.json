@@ -1,0 +1,410 @@
+{
+  "runTime": 1705545113140,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443517,
+        "num": 1443517,
+        "word": "河南云台山妲己扮演者道歉并暂停工作",
+        "onboard_time": 1705542506,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963733,
+        "num": 963733,
+        "word": "男大学生抽走女同学板凳致其骨折",
+        "onboard_time": 1705536386,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25263,
+        "num": 849883,
+        "word": "腊八蒜为啥是绿色的",
+        "onboard_time": 1705490848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1375528,
+        "num": 846219,
+        "word": "A股",
+        "onboard_time": 1705542206,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 776222,
+        "num": 776222,
+        "word": "腊八节",
+        "onboard_time": 1705532899,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708448,
+        "num": 708448,
+        "word": "新郎为宠妻办中式婚礼不料自己也入坑",
+        "onboard_time": 1705536746,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641987,
+        "num": 641987,
+        "word": "排列5开出55555清空5亿奖池",
+        "onboard_time": 1705542684,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 551496,
+        "num": 551496,
+        "word": "云南白药退出全部二级市场证券投资",
+        "onboard_time": 1705537107,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 453466,
+        "num": 453466,
+        "word": "世界之外 男主叫我名字",
+        "onboard_time": 1705539687,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 453360,
+        "num": 453360,
+        "word": "华中农大称调查情况将向社会公布",
+        "onboard_time": 1705538908,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413055,
+        "num": 413055,
+        "word": "林一刘浩存看到项圈的不同反应",
+        "onboard_time": 1705540225,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8617,
+        "num": 390421,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374648,
+        "num": 374648,
+        "word": "华中农大11名学生联名举报信长达125页",
+        "onboard_time": 1705502670,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356857,
+        "num": 356857,
+        "word": "好难 我要吃面了",
+        "onboard_time": 1705535903,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45806,
+        "num": 355525,
+        "word": "锣鼓喧天的山东乡村",
+        "onboard_time": 1705543226,
+        "rank": 14,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 354467,
+        "num": 354467,
+        "word": "AirPodsPro龙年特别款",
+        "onboard_time": 1705537529,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 332967,
+        "num": 332967,
+        "word": "仙剑六 端水",
+        "onboard_time": 1705539206,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331709,
+        "num": 331709,
+        "word": "海底捞打毛线收费39到99",
+        "onboard_time": 1705509444,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290991,
+        "num": 290991,
+        "word": "仙剑四特效",
+        "onboard_time": 1705541246,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287822,
+        "num": 287822,
+        "word": "代号鸢甘宁 狂野小狗",
+        "onboard_time": 1705543528,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 620494,
+        "num": 287010,
+        "word": "对方拒绝了您的生发请求",
+        "onboard_time": 1705541185,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286125,
+        "num": 286125,
+        "word": "迪丽热巴徒手提行李箱惊呆辛芷蕾",
+        "onboard_time": 1705538969,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235847,
+        "num": 235847,
+        "word": "李宏毅王楚然新剧开机宴路透",
+        "onboard_time": 1705543647,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225792,
+        "num": 225792,
+        "word": "大麦同意退款抢林俊杰变林子祥的票",
+        "onboard_time": 1705507469,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214842,
+        "num": 214842,
+        "word": "山东乡村也太会过年了",
+        "onboard_time": 1705544907,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202311,
+        "num": 202311,
+        "word": "国足迎重大利好",
+        "onboard_time": 1705540467,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188892,
+        "num": 188892,
+        "word": "二胎夫妻无偿帮单亲爸爸照顾女儿",
+        "onboard_time": 1705536567,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 177232,
+        "num": 177232,
+        "word": "哈尔滨文旅局长回应文旅比拼",
+        "onboard_time": 1705542865,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 175014,
+        "num": 175014,
+        "word": "花花代表四川文旅出战",
+        "onboard_time": 1705542446,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169037,
+        "num": 169037,
+        "word": "祈今朝怪物长得好像新浪微博",
+        "onboard_time": 1705538246,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168779,
+        "num": 168779,
+        "word": "这3种喝粥方式可能伤胃又致癌",
+        "onboard_time": 1705544005,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168434,
+        "num": 168434,
+        "word": "光与夜之恋古风",
+        "onboard_time": 1705544907,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164990,
+        "num": 164990,
+        "word": "蔡少芬 难怪谢娜女儿叫跳跳",
+        "onboard_time": 1705533681,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158034,
+        "num": 158034,
+        "word": "世界之外开服",
+        "onboard_time": 1705533140,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148037,
+        "num": 148037,
+        "word": "恋与深空",
+        "onboard_time": 1705493788,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147870,
+        "num": 147870,
+        "word": "象宝宝太贪玩把象姐姐逼崩溃",
+        "onboard_time": 1705542865,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147507,
+        "num": 147507,
+        "word": "车厘子降价仍不被买账",
+        "onboard_time": 1705501291,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143838,
+        "num": 143838,
+        "word": "iPhone15发售3个月仅掉价18.2%",
+        "onboard_time": 1705533982,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138361,
+        "num": 138361,
+        "word": "布林肯所乘波音737遭遇严重故障",
+        "onboard_time": 1705544305,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135123,
+        "num": 135123,
+        "word": "祝绪丹于正风波",
+        "onboard_time": 1705544965,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134327,
+        "num": 134327,
+        "word": "女童送医后死亡其父被刑拘",
+        "onboard_time": 1705498472,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131062,
+        "num": 131062,
+        "word": "最高法明确禁止借婚姻索取财物",
+        "onboard_time": 1705545084,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130392,
+        "num": 130392,
+        "word": "米兰偶遇李敏镐",
+        "onboard_time": 1705540225,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126143,
+        "num": 126143,
+        "word": "雪场偶遇孟佳张含韵",
+        "onboard_time": 1705542806,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125354,
+        "num": 125354,
+        "word": "发量少也能头包脸的公主披发",
+        "onboard_time": 1705537887,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 120188,
+        "num": 120188,
+        "word": "美军对也门胡塞武装目标发动新一轮袭击",
+        "onboard_time": 1705540225,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 119109,
+        "num": 119109,
+        "word": "点外卖遇到了离职侠",
+        "onboard_time": 1705537707,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117488,
+        "num": 117488,
+        "word": "15岁少年保送清华本硕博连读",
+        "onboard_time": 1705539627,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111132,
+        "num": 111132,
+        "word": "飞猪被曝3人买同趟航班价格不同",
+        "onboard_time": 1705545084,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110993,
+        "num": 110993,
+        "word": "上班就得有上班的样子",
+        "onboard_time": 1705538009,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#开年关键一课主题锚定金融#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705541879768,
+  "endTime": 1705545113140,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1899,6 +1899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1443517,
+      "num": 1443517,
+      "word": "河南云台山妲己扮演者道歉并暂停工作",
+      "onboard_time": 1705542506,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1442805,
       "num": 1442805,
       "word": "叶酸吃多了真的会致癌吗",
@@ -2171,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1375528,
+      "num": 846219,
+      "word": "A股",
+      "onboard_time": 1704161618,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1369226,
       "num": 564553,
       "word": "萝莉岛",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704079236,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1316477,
-      "num": 1316477,
-      "word": "孟子义叫江苏卫视大哥",
-      "onboard_time": 1704101077,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1316319,
-      "num": 1316319,
-      "word": "年底裸辞赶上了招聘荒",
-      "onboard_time": 1704876152,
-      "rank": 4,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
