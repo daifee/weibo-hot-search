@@ -1,0 +1,410 @@
+{
+  "runTime": 1705613647918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 92189,
+        "num": 92189,
+        "word": "安徽春晚小品跳科目三导演发声",
+        "onboard_time": 1705594764,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75226,
+        "num": 75226,
+        "word": "被抽走板凳骨折女生已自愿退学",
+        "onboard_time": 1705583969,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11345,
+        "num": 67085,
+        "word": "太空发快递可以当日达了",
+        "onboard_time": 1705582650,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66461,
+        "num": 66461,
+        "word": "江苏广电诉吴秀波案将开庭",
+        "onboard_time": 1705597521,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 58995,
+        "num": 58995,
+        "word": "最高检回应老干部举报当地领导被逮捕",
+        "onboard_time": 1705598240,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51824,
+        "num": 51824,
+        "word": "男子巴黎出差强吻女同事被开",
+        "onboard_time": 1705570588,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50205,
+        "num": 50205,
+        "word": "他不敢用力是看戒指嵌肉里怕你疼",
+        "onboard_time": 1705605375,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48555,
+        "num": 48555,
+        "word": "举报导师学生称不愿用造假成果毕业",
+        "onboard_time": 1705592010,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37907,
+        "num": 37907,
+        "word": "辛芷蕾凌晨三点半还在做饭",
+        "onboard_time": 1705568727,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35952,
+        "num": 35952,
+        "word": "世界之外",
+        "onboard_time": 1705576709,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58121,
+        "num": 35691,
+        "word": "有一天恶魔捡到了一个小婴儿",
+        "onboard_time": 1705599317,
+        "rank": 10,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 34748,
+        "num": 34748,
+        "word": "渐冻人蔡磊称他离死亡已经非常近了",
+        "onboard_time": 1705580067,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24401,
+        "num": 24401,
+        "word": "胡歌被问及上海特色时还要查大众点评",
+        "onboard_time": 1705596321,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23568,
+        "num": 23568,
+        "word": "阿信接龙红包",
+        "onboard_time": 1705598240,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22521,
+        "num": 22521,
+        "word": "仙剑四 仙剑六",
+        "onboard_time": 1705578027,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21426,
+        "num": 21426,
+        "word": "优酷 手握多部养老保险",
+        "onboard_time": 1705590756,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21354,
+        "num": 21354,
+        "word": "恋与深空",
+        "onboard_time": 1705575448,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21131,
+        "num": 21131,
+        "word": "因板凳骨折女生称父母与其断绝关系",
+        "onboard_time": 1705573110,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19664,
+        "num": 19664,
+        "word": "辛芷蕾拍秦岚只拍自己想看的",
+        "onboard_time": 1705604775,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18975,
+        "num": 18975,
+        "word": "彩礼",
+        "onboard_time": 1705554572,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102758,
+        "num": 18965,
+        "word": "华中农大教授回应学生举报不实",
+        "onboard_time": 1705581811,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38231,
+        "num": 18903,
+        "word": "公厕不要对着坑的洞洞拉",
+        "onboard_time": 1705589554,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19601,
+        "num": 18805,
+        "word": "原来台湾是这样丢垃圾的",
+        "onboard_time": 1705579947,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92777,
+        "num": 18729,
+        "word": "张黎 学生威胁学生是我听过最大笑话",
+        "onboard_time": 1705589851,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18719,
+        "num": 18719,
+        "word": "会长是女仆大人 大背头碓冰拓海",
+        "onboard_time": 1705611792,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 18444,
+        "num": 18444,
+        "word": "年终奖让我感觉到贫富差距",
+        "onboard_time": 1705584991,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74807,
+        "num": 18441,
+        "word": "华中农大",
+        "onboard_time": 1705584871,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 18433,
+        "num": 18433,
+        "word": "虞书欣新剧本体是条大粉鱼",
+        "onboard_time": 1705601416,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18169,
+        "num": 18169,
+        "word": "沈阳站改回沈阳站站",
+        "onboard_time": 1705587510,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11387,
+        "num": 17240,
+        "word": "萌兰玩起高难度飞天一字马了",
+        "onboard_time": 1705590212,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31510,
+        "num": 17166,
+        "word": "华中农大再回应教授被举报学术不端事件",
+        "onboard_time": 1705582588,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17073,
+        "num": 17073,
+        "word": "告别久坐小肚腩真的很简单",
+        "onboard_time": 1705595245,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 16656,
+        "num": 16656,
+        "word": "杨紫新剧网名",
+        "onboard_time": 1705589129,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21037,
+        "num": 16582,
+        "word": "华中农大举报学生发声",
+        "onboard_time": 1705582110,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16462,
+        "num": 16462,
+        "word": "TES不然",
+        "onboard_time": 1705588711,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15865,
+        "num": 15865,
+        "word": "张黎",
+        "onboard_time": 1705570466,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 15836,
+        "num": 15836,
+        "word": "林小宅人生第一部仙侠剧",
+        "onboard_time": 1705579769,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15235,
+        "num": 15235,
+        "word": "道歉哥出走三天归来仍要道歉",
+        "onboard_time": 1705592193,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14541,
+        "num": 14541,
+        "word": "王楚钦孙颖莎3比0黄镇廷杜凯琹",
+        "onboard_time": 1705593686,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13694,
+        "num": 13694,
+        "word": "单抽出沈星回",
+        "onboard_time": 1705590212,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13352,
+        "num": 13352,
+        "word": "最惊艳的仙剑系列女主",
+        "onboard_time": 1705576170,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13301,
+        "num": 13301,
+        "word": "华中农大学生举报导师事件四大疑问",
+        "onboard_time": 1705579587,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13231,
+        "num": 13231,
+        "word": "周海媚友情出演了仙剑四",
+        "onboard_time": 1705568250,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13116,
+        "num": 13116,
+        "word": "朋友吐槽吉克隽逸古装照丑",
+        "onboard_time": 1705603993,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12244,
+        "num": 12244,
+        "word": "洪知秀 澳门签售",
+        "onboard_time": 1705595782,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12024,
+        "num": 12024,
+        "word": "鞠婧祎红衣",
+        "onboard_time": 1705596083,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11846,
+        "num": 11846,
+        "word": "我想和你唱5定档",
+        "onboard_time": 1705605554,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11732,
+        "num": 11732,
+        "word": "繁花",
+        "onboard_time": 1705593566,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11497,
+        "num": 11497,
+        "word": "祈今朝",
+        "onboard_time": 1705575807,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10816,
+        "num": 10816,
+        "word": "草莓烧烤",
+        "onboard_time": 1705590091,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#统筹国内国际两个市场两种资源#"
+    }
+  }
+}
