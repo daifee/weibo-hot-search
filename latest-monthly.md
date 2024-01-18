@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/18 23:18:58
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/18 23:34:26
 </p>
 </blockquote>
 <p>
@@ -491,6 +491,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E6%8E%A8%E5%87%BA%E8%B4%AD%E7%A5%A8%E6%96%B0%E5%8A%9F%E8%83%BD%23" target="weibo">
 12306推出购票新功能（热度：2250367）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%BB%8E%20%E5%AD%A6%E7%94%9F%E5%A8%81%E8%83%81%E5%AD%A6%E7%94%9F%E6%98%AF%E6%88%91%E5%90%AC%E8%BF%87%E6%9C%80%E5%A4%A7%E7%AC%91%E8%AF%9D%23" target="weibo">
+张黎 学生威胁学生是我听过最大笑话（热度：2249156）
 </a>
 </li>
 
@@ -2255,12 +2261,6 @@ A先生 胡歌的脸（热度：1234335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9F%B3%E6%9C%89%E4%B8%80%E4%B8%AA3%E5%B2%81%E5%A5%B3%E5%84%BF%23" target="weibo">
 王石有一个3岁女儿（热度：1200317）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%BB%8E%20%E5%AD%A6%E7%94%9F%E5%A8%81%E8%83%81%E5%AD%A6%E7%94%9F%E6%98%AF%E6%88%91%E5%90%AC%E8%BF%87%E6%9C%80%E5%A4%A7%E7%AC%91%E8%AF%9D%23" target="weibo">
-张黎 学生威胁学生是我听过最大笑话（热度：1198932）
 </a>
 </li>
 
@@ -4599,6 +4599,12 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8E%95%E4%B8%8D%E8%A6%81%E5%AF%B9%E7%9D%80%E5%9D%91%E7%9A%84%E6%B4%9E%E6%B4%9E%E6%8B%89%23" target="weibo">
+公厕不要对着坑的洞洞拉（热度：795280）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%23" target="weibo">
 赵丽颖第二十条（热度：795049）
 </a>
@@ -6005,12 +6011,6 @@ GAI 五年后再给王鹤棣续SVIP（热度：690915）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%B1%AA%E9%81%93%E6%AD%89%23" target="weibo">
 付豪道歉（热度：678655）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E4%BA%86%20%E9%9B%B7%E9%B8%A3%E7%BB%88%E4%BA%8E%E6%B8%85%E7%99%BD%E4%BA%86%23" target="weibo">
-十年了 雷鸣终于清白了（热度：678307）
 </a>
 </li>
 

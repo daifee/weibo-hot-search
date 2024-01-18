@@ -1,0 +1,410 @@
+{
+  "runTime": 1705592066243,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1144481,
+        "num": 1144481,
+        "word": "被抽走板凳骨折女生已自愿退学",
+        "onboard_time": 1705583969,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576333,
+        "num": 576333,
+        "word": "沈阳站改回沈阳站站",
+        "onboard_time": 1705587510,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44960,
+        "num": 565076,
+        "word": "用中国诗画给各地文旅上分",
+        "onboard_time": 1705589791,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560533,
+        "num": 560533,
+        "word": "渐冻人蔡磊称他离死亡已经非常近了",
+        "onboard_time": 1705580067,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436675,
+        "num": 436675,
+        "word": "仙剑四 仙剑六",
+        "onboard_time": 1705578027,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423354,
+        "num": 423354,
+        "word": "杨紫新剧网名",
+        "onboard_time": 1705589129,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2249156,
+        "num": 415006,
+        "word": "张黎 学生威胁学生是我听过最大笑话",
+        "onboard_time": 1705589851,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510604,
+        "num": 412528,
+        "word": "彩礼",
+        "onboard_time": 1705554572,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383733,
+        "num": 383733,
+        "word": "世界之外",
+        "onboard_time": 1705576709,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 382138,
+        "num": 382138,
+        "word": "优酷 手握多部养老保险",
+        "onboard_time": 1705590756,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335905,
+        "num": 335905,
+        "word": "金珉奎 男孩学做饭大成功",
+        "onboard_time": 1705590934,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 901881,
+        "num": 332453,
+        "word": "华中农大再回应教授被举报学术不端事件",
+        "onboard_time": 1705582588,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311739,
+        "num": 311739,
+        "word": "单抽出沈星回",
+        "onboard_time": 1705590212,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298642,
+        "num": 298642,
+        "word": "因板凳骨折女生称父母与其断绝关系",
+        "onboard_time": 1705573110,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288808,
+        "num": 288808,
+        "word": "林小宅人生第一部仙侠剧",
+        "onboard_time": 1705579769,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2034165,
+        "num": 287190,
+        "word": "华中农大教授回应学生举报不实",
+        "onboard_time": 1705581811,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261934,
+        "num": 261934,
+        "word": "男子巴黎出差强吻女同事被开",
+        "onboard_time": 1705570588,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257031,
+        "num": 257031,
+        "word": "辛芷蕾凌晨三点半还在做饭",
+        "onboard_time": 1705568727,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452119,
+        "num": 247407,
+        "word": "华中农大举报学生发声",
+        "onboard_time": 1705582110,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227064,
+        "num": 227064,
+        "word": "草莓烧烤",
+        "onboard_time": 1705590091,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 795280,
+        "num": 224349,
+        "word": "公厕不要对着坑的洞洞拉",
+        "onboard_time": 1705589554,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303718,
+        "num": 223640,
+        "word": "华中农大",
+        "onboard_time": 1705584871,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 231236,
+        "num": 223449,
+        "word": "年终奖让我感觉到贫富差距",
+        "onboard_time": 1705584991,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220173,
+        "num": 220173,
+        "word": "杨紫叫范丞丞大明星",
+        "onboard_time": 1705590631,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221381,
+        "num": 220078,
+        "word": "华中农大学生举报导师事件四大疑问",
+        "onboard_time": 1705579587,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219128,
+        "num": 219128,
+        "word": "TES不然",
+        "onboard_time": 1705588711,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211346,
+        "num": 211346,
+        "word": "11名研究生称花一个月写125页举报信",
+        "onboard_time": 1705572331,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208769,
+        "num": 208769,
+        "word": "安心妈妈为了女儿减肥",
+        "onboard_time": 1705589249,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178888,
+        "num": 193448,
+        "word": "网购四斤车厘子收到带包装仅三斤",
+        "onboard_time": 1705568908,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 120326,
+        "num": 192989,
+        "word": "萌兰玩起高难度飞天一字马了",
+        "onboard_time": 1705590212,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192554,
+        "num": 192554,
+        "word": "最惊艳的仙剑系列女主",
+        "onboard_time": 1705576170,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192307,
+        "num": 192307,
+        "word": "恋与深空",
+        "onboard_time": 1705575448,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188557,
+        "num": 188557,
+        "word": "徐明浩澳门签售会路透",
+        "onboard_time": 1705589190,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187015,
+        "num": 187015,
+        "word": "原来台湾是这样丢垃圾的",
+        "onboard_time": 1705579947,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177775,
+        "num": 177775,
+        "word": "6年前蒋劲夫6900多万演男一",
+        "onboard_time": 1705554151,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173475,
+        "num": 173475,
+        "word": "周海媚友情出演了仙剑四",
+        "onboard_time": 1705568250,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172320,
+        "num": 172320,
+        "word": "张黎",
+        "onboard_time": 1705570466,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 167112,
+        "num": 167112,
+        "word": "当00后开始负责置办年货",
+        "onboard_time": 1705587809,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165394,
+        "num": 165394,
+        "word": "会武功的僵尸 永劫无僵",
+        "onboard_time": 1705591230,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153552,
+        "num": 153552,
+        "word": "李一桐晒狐妖王权篇片场照",
+        "onboard_time": 1705588591,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147758,
+        "num": 147758,
+        "word": "人民网评出格的文旅营销",
+        "onboard_time": 1705566386,
+        "rank": 40,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 140735,
+        "num": 140735,
+        "word": "朱挺宣布退役",
+        "onboard_time": 1705589791,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135330,
+        "num": 135330,
+        "word": "曾舜晞教教成毅对镜自拍吧",
+        "onboard_time": 1705582170,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121041,
+        "num": 121041,
+        "word": "郑爽百万股权被冻结",
+        "onboard_time": 1705572869,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116658,
+        "num": 116658,
+        "word": "KPL转会期",
+        "onboard_time": 1705589851,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114883,
+        "num": 114883,
+        "word": "姐姐以为失业金只能领一次",
+        "onboard_time": 1705571549,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113008,
+        "num": 113008,
+        "word": "恋与烧空勾引我",
+        "onboard_time": 1705588651,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110012,
+        "num": 110012,
+        "word": "白月梵星",
+        "onboard_time": 1705584330,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107667,
+        "num": 107667,
+        "word": "好令人震撼的增高鞋",
+        "onboard_time": 1705588651,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69211,
+        "num": 107406,
+        "word": "举报导师学生称不愿用造假成果毕业",
+        "onboard_time": 1705592010,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

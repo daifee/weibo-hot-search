@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705591138545,
+  "endTime": 1705592066243,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -121,6 +121,14 @@
       "onboard_time": 1705485152,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2249156,
+      "num": 1198932,
+      "word": "张黎 学生威胁学生是我听过最大笑话",
+      "onboard_time": 1705589851,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2231888,
@@ -801,14 +809,6 @@
       "onboard_time": 1705157389,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1198932,
-      "num": 1198932,
-      "word": "张黎 学生威胁学生是我听过最大笑话",
-      "onboard_time": 1705589851,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1198810,
@@ -1611,6 +1611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 795280,
+      "num": 259981,
+      "word": "公厕不要对着坑的洞洞拉",
+      "onboard_time": 1705589554,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 793673,
       "num": 793673,
       "word": "新疆1558名因雪崩滞留旅客离开景区",
@@ -2193,14 +2201,6 @@
       "onboard_time": 1705373369,
       "rank": 5,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 662653,
-      "num": 259981,
-      "word": "公厕不要对着坑的洞洞拉",
-      "onboard_time": 1705589554,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 661877,
@@ -4395,6 +4395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 382138,
+      "num": 382138,
+      "word": "优酷 手握多部养老保险",
+      "onboard_time": 1705590756,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382096,
       "num": 382096,
       "word": "江苏盐城3.0级地震",
@@ -4873,6 +4881,14 @@
       "onboard_time": 1705574485,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335905,
+      "num": 335905,
+      "word": "金珉奎 男孩学做饭大成功",
+      "onboard_time": 1705590934,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 335420,
@@ -7043,6 +7059,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 227064,
+      "num": 227064,
+      "word": "草莓烧烤",
+      "onboard_time": 1705590091,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227048,
       "num": 227048,
       "word": "李现生图",
@@ -7265,6 +7289,14 @@
       "onboard_time": 1705485333,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220173,
+      "num": 220173,
+      "word": "杨紫叫范丞丞大明星",
+      "onboard_time": 1705590631,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 219981,
@@ -8081,14 +8113,6 @@
       "onboard_time": 1705547726,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198948,
-      "num": 198948,
-      "word": "优酷 手握多部养老保险",
-      "onboard_time": 1705590756,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 198941,
@@ -8923,14 +8947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185968,
-      "num": 185968,
-      "word": "金珉奎 男孩学做饭大成功",
-      "onboard_time": 1705590934,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185679,
       "num": 185679,
       "word": "詹姆斯扑倒欧文",
@@ -8987,14 +9003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184054,
-      "num": 184054,
-      "word": "杨紫叫范丞丞大明星",
-      "onboard_time": 1705590631,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183885,
       "num": 183885,
       "word": "王一博新专plog",
@@ -9033,14 +9041,6 @@
       "onboard_time": 1705384952,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183283,
-      "num": 183283,
-      "word": "草莓烧烤",
-      "onboard_time": 1705590091,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 183132,
@@ -10065,6 +10065,14 @@
       "onboard_time": 1705276527,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165394,
+      "num": 165394,
+      "word": "会武功的僵尸 永劫无僵",
+      "onboard_time": 1705591230,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 165093,
@@ -12571,6 +12579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120326,
+      "num": 205310,
+      "word": "萌兰玩起高难度飞天一字马了",
+      "onboard_time": 1705590212,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120202,
       "num": 120202,
       "word": "宁艺卓在哪里",
@@ -13043,6 +13059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107667,
+      "num": 107667,
+      "word": "好令人震撼的增高鞋",
+      "onboard_time": 1705588651,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107472,
       "num": 196353,
       "word": "乌克兰空军称俄军发动导弹袭击",
@@ -13321,14 +13345,6 @@
       "onboard_time": 1705540588,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 96031,
-      "num": 205310,
-      "word": "萌兰玩起高难度飞天一字马了",
-      "onboard_time": 1705590212,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95232,
@@ -13704,6 +13720,14 @@
       "word": "感谢你在大雪里的坚守",
       "onboard_time": 1705485452,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69211,
+      "num": 107406,
+      "word": "举报导师学生称不愿用造假成果毕业",
+      "onboard_time": 1705592010,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -14163,6 +14187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 44960,
+      "num": 767791,
+      "word": "用中国诗画给各地文旅上分",
+      "onboard_time": 1705589791,
+      "rank": 2,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 44819,
       "num": 46696,
       "word": "没想到被一只猫挑衅了",
@@ -14297,14 +14329,6 @@
       "onboard_time": 1705337183,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 36766,
-      "num": 767791,
-      "word": "用中国诗画给各地文旅上分",
-      "onboard_time": 1705589791,
-      "rank": 2,
-      "category": "旅游"
     },
     {
       "raw_hot": 35140,
