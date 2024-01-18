@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705563254908,
+  "endTime": 1705566134865,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2719567,
+      "num": 2719567,
+      "word": "彩礼",
+      "onboard_time": 1705554572,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2698087,
       "num": 2698087,
       "word": "张继科复出",
@@ -465,14 +473,6 @@
       "onboard_time": 1704037559,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2564268,
-      "num": 2564268,
-      "word": "彩礼",
-      "onboard_time": 1705554572,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2491617,

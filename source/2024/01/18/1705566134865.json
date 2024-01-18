@@ -1,0 +1,410 @@
+{
+  "runTime": 1705566134865,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2719567,
+        "num": 2719567,
+        "word": "彩礼",
+        "onboard_time": 1705554572,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1274512,
+        "num": 1274512,
+        "word": "6年前蒋劲夫6900多万演男一",
+        "onboard_time": 1705554151,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39130,
+        "num": 969966,
+        "word": "大美中国 冰雪之约",
+        "onboard_time": 1705553551,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959244,
+        "num": 959244,
+        "word": "举报导师的学生称接受不了论文是假的",
+        "onboard_time": 1705559067,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635496,
+        "num": 635496,
+        "word": "拉椅子致同学重伤父母被判赔10万",
+        "onboard_time": 1705559550,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594374,
+        "num": 594374,
+        "word": "华中农大教授学术造假",
+        "onboard_time": 1705545625,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580309,
+        "num": 580309,
+        "word": "一中国籍女子在韩抽脂手术后死亡",
+        "onboard_time": 1705557089,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520948,
+        "num": 520948,
+        "word": "于正回复粉丝卢昱晓是女一号",
+        "onboard_time": 1705561349,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473519,
+        "num": 473519,
+        "word": "江疏影目前单身",
+        "onboard_time": 1705562546,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455335,
+        "num": 455335,
+        "word": "华为鸿蒙发布会",
+        "onboard_time": 1705562546,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 450005,
+        "num": 450005,
+        "word": "王乐君6年前曾发声反蒋劲夫家暴",
+        "onboard_time": 1705565068,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440485,
+        "num": 440485,
+        "word": "外媒曝豆荚猫被哥哥家暴",
+        "onboard_time": 1705563929,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393776,
+        "num": 393776,
+        "word": "虞书欣观众缘",
+        "onboard_time": 1705564467,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391495,
+        "num": 391495,
+        "word": "王安宇胡先煦打听各自的姐",
+        "onboard_time": 1705563750,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381182,
+        "num": 381182,
+        "word": "妲己和石矶娘娘",
+        "onboard_time": 1705561227,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 358841,
+        "num": 358841,
+        "word": "女妲己只和女生贴贴",
+        "onboard_time": 1705564766,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 335694,
+        "num": 335694,
+        "word": "檀健次 我这么man涂什么口红",
+        "onboard_time": 1705563209,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309519,
+        "num": 309519,
+        "word": "现在看封腾",
+        "onboard_time": 1705551386,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307171,
+        "num": 307171,
+        "word": "一起做大做强",
+        "onboard_time": 1705564168,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300866,
+        "num": 300866,
+        "word": "京东回应快递员退休有房有车",
+        "onboard_time": 1705559967,
+        "rank": 19,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 857653,
+        "num": 298136,
+        "word": "2800",
+        "onboard_time": 1705550968,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 294011,
+        "num": 294011,
+        "word": "市委书记不打招呼调研高中被门卫阻拦",
+        "onboard_time": 1705552112,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280676,
+        "num": 280676,
+        "word": "胡锡进辟谣跌到2800点以下跳楼",
+        "onboard_time": 1705564766,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 253920,
+        "num": 253920,
+        "word": "秦海璐被迪丽热巴吓哭了",
+        "onboard_time": 1705558706,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238974,
+        "num": 238974,
+        "word": "卡琳娜复更",
+        "onboard_time": 1705554511,
+        "rank": 24,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 36670,
+        "num": 233588,
+        "word": "世界之外无限流系统",
+        "onboard_time": 1705563028,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228211,
+        "num": 228211,
+        "word": "发现姥姥没有想象中爱我",
+        "onboard_time": 1705563028,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220717,
+        "num": 220717,
+        "word": "番位笑话",
+        "onboard_time": 1705552652,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219068,
+        "num": 219068,
+        "word": "50岁的舅舅被我骂哭了",
+        "onboard_time": 1705561827,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217948,
+        "num": 217948,
+        "word": "代号鸢甘宁剧情",
+        "onboard_time": 1705565608,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215066,
+        "num": 215066,
+        "word": "世界之外 能不能改改立绘",
+        "onboard_time": 1705554870,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208129,
+        "num": 208129,
+        "word": "傲寒拒绝无畏转辅助",
+        "onboard_time": 1705563627,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178129,
+        "num": 178129,
+        "word": "三大指数已全线翻红",
+        "onboard_time": 1705562847,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169199,
+        "num": 169199,
+        "word": "郝劭文就女儿被霸凌事件再发声",
+        "onboard_time": 1705553070,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168703,
+        "num": 168703,
+        "word": "SEVENTEEN澳门 中文歌",
+        "onboard_time": 1705565847,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160926,
+        "num": 160926,
+        "word": "尘夏傲寒压力下播",
+        "onboard_time": 1705565968,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160010,
+        "num": 160010,
+        "word": "股票",
+        "onboard_time": 1705561706,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155876,
+        "num": 155876,
+        "word": "林小宅藏药令女主",
+        "onboard_time": 1705561108,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153814,
+        "num": 153814,
+        "word": "河南云台山妲己扮演者道歉并暂停工作",
+        "onboard_time": 1705542506,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148855,
+        "num": 148855,
+        "word": "萧逸 等你回家",
+        "onboard_time": 1705565486,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143421,
+        "num": 143421,
+        "word": "大侦探9",
+        "onboard_time": 1705553312,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143401,
+        "num": 143401,
+        "word": "KPL有自己的许沁",
+        "onboard_time": 1705558050,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136531,
+        "num": 136531,
+        "word": "张若昀又演法医了",
+        "onboard_time": 1705561529,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131810,
+        "num": 131810,
+        "word": "DRG官宣百兽离队",
+        "onboard_time": 1705563627,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130825,
+        "num": 130825,
+        "word": "都江堰门票80元上海人15元",
+        "onboard_time": 1705565789,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 130605,
+        "num": 130605,
+        "word": "郑钦文首进澳网32强",
+        "onboard_time": 1705564406,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129650,
+        "num": 129650,
+        "word": "光与夜之恋电话",
+        "onboard_time": 1705546286,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124120,
+        "num": 124120,
+        "word": "高亭宇阿合娜尔公开恋情",
+        "onboard_time": 1705562608,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124038,
+        "num": 124038,
+        "word": "恋与深空正式上线",
+        "onboard_time": 1705546643,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118446,
+        "num": 118446,
+        "word": "江西文旅挟妈祖以令福建",
+        "onboard_time": 1705565429,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开年关键一课主题锚定金融#"
+    }
+  }
+}

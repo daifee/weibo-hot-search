@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705563254908,
+  "endTime": 1705566134865,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -51,8 +51,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 2564268,
-      "num": 2564268,
+      "raw_hot": 2719567,
+      "num": 2719567,
       "word": "彩礼",
       "onboard_time": 1705554572,
       "rank": 27,
@@ -3227,6 +3227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473519,
+      "num": 473519,
+      "word": "江疏影目前单身",
+      "onboard_time": 1705562546,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 473137,
       "num": 473137,
       "word": "晒被子后的太阳味是怎么来的",
@@ -3419,6 +3427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 455335,
+      "num": 455335,
+      "word": "华为鸿蒙发布会",
+      "onboard_time": 1705562546,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 455062,
       "num": 455062,
       "word": "狐妖小红娘月红篇腊八片花",
@@ -3473,6 +3489,14 @@
       "onboard_time": 1705498053,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 450005,
+      "num": 450005,
+      "word": "王乐君6年前曾发声反蒋劲夫家暴",
+      "onboard_time": 1705565068,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 446403,
@@ -3545,6 +3569,14 @@
       "onboard_time": 1705325670,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440485,
+      "num": 440485,
+      "word": "外媒曝豆荚猫被哥哥家暴",
+      "onboard_time": 1705563929,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 439906,
@@ -3907,6 +3939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393776,
+      "num": 393776,
+      "word": "虞书欣观众缘",
+      "onboard_time": 1705564467,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393740,
       "num": 393740,
       "word": "168元火锅套餐生菜只有1片叶子",
@@ -3953,6 +3993,14 @@
       "onboard_time": 1705486290,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 391495,
+      "num": 391495,
+      "word": "王安宇胡先煦打听各自的姐",
+      "onboard_time": 1705563750,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 390473,
@@ -4041,6 +4089,14 @@
       "onboard_time": 1705390232,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 381182,
+      "num": 381182,
+      "word": "妲己和石矶娘娘",
+      "onboard_time": 1705561227,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 380883,
@@ -4283,6 +4339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358841,
+      "num": 358841,
+      "word": "女妲己只和女生贴贴",
+      "onboard_time": 1705564766,
+      "rank": 15,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 358555,
       "num": 358555,
       "word": "被731部队罪证陈列馆的这幕震撼到",
@@ -4441,6 +4505,14 @@
       "onboard_time": 1705546286,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 335694,
+      "num": 335694,
+      "word": "檀健次 我这么man涂什么口红",
+      "onboard_time": 1705563209,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 335420,
@@ -4625,14 +4697,6 @@
       "onboard_time": 1705485930,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320930,
-      "num": 320930,
-      "word": "妲己和石矶娘娘",
-      "onboard_time": 1705561227,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 320836,
@@ -4827,6 +4891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307171,
+      "num": 307171,
+      "word": "一起做大做强",
+      "onboard_time": 1705564168,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307091,
       "num": 307091,
       "word": "2023TVB颁奖礼红毯",
@@ -4953,14 +5025,6 @@
       "onboard_time": 1705399352,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 297549,
-      "num": 297549,
-      "word": "华为鸿蒙发布会",
-      "onboard_time": 1705562546,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 297531,
@@ -5283,6 +5347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 280676,
+      "num": 280676,
+      "word": "胡锡进辟谣跌到2800点以下跳楼",
+      "onboard_time": 1705564766,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 279134,
       "num": 279134,
       "word": "邓为抽到了米卡自制的手机支架",
@@ -5457,14 +5529,6 @@
       "onboard_time": 1705195289,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 269218,
-      "num": 269218,
-      "word": "江疏影目前单身",
-      "onboard_time": 1705562546,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 268572,
@@ -6443,6 +6507,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 228211,
+      "num": 228211,
+      "word": "发现姥姥没有想象中爱我",
+      "onboard_time": 1705563028,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227830,
       "num": 211528,
       "word": "点外卖遇到了离职侠",
@@ -6745,6 +6817,14 @@
       "onboard_time": 1705540225,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 217948,
+      "num": 217948,
+      "word": "代号鸢甘宁剧情",
+      "onboard_time": 1705565608,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 217543,
@@ -7065,6 +7145,14 @@
       "onboard_time": 1705237652,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 208129,
+      "num": 208129,
+      "word": "傲寒拒绝无畏转辅助",
+      "onboard_time": 1705563627,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 207432,
@@ -8459,14 +8547,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 180178,
-      "num": 180178,
-      "word": "发现姥姥没有想象中爱我",
-      "onboard_time": 1705563028,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 180072,
       "num": 168676,
       "word": "周深模仿周迅好多人啊",
@@ -8545,6 +8625,14 @@
       "onboard_time": 1705400133,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178129,
+      "num": 178129,
+      "word": "三大指数已全线翻红",
+      "onboard_time": 1705562847,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 177602,
@@ -9003,6 +9091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 168703,
+      "num": 168703,
+      "word": "SEVENTEEN澳门 中文歌",
+      "onboard_time": 1705565847,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168691,
       "num": 168691,
       "word": "15岁少年保送清华本硕博连读",
@@ -9443,6 +9539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160926,
+      "num": 160926,
+      "word": "尘夏傲寒压力下播",
+      "onboard_time": 1705565968,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160442,
       "num": 160442,
       "word": "王鹤棣猜GAI送的是银行卡",
@@ -9843,14 +9947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 153369,
-      "num": 153369,
-      "word": "三大指数已全线翻红",
-      "onboard_time": 1705562847,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 153141,
       "num": 153141,
       "word": "当外国人看中国刺绣",
@@ -10049,6 +10145,14 @@
       "onboard_time": 1705372168,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148855,
+      "num": 148855,
+      "word": "萧逸 等你回家",
+      "onboard_time": 1705565486,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 148603,
@@ -10987,6 +11091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131810,
+      "num": 131810,
+      "word": "DRG官宣百兽离队",
+      "onboard_time": 1705563627,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131747,
       "num": 131747,
       "word": "每天都要陪主人上班的猫咪",
@@ -11027,12 +11139,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130825,
+      "num": 130825,
+      "word": "都江堰门票80元上海人15元",
+      "onboard_time": 1705565789,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 130613,
       "num": 130613,
       "word": "司机骂骂咧咧的倒出去了",
       "onboard_time": 1705287931,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130605,
+      "num": 130605,
+      "word": "郑钦文首进澳网32强",
+      "onboard_time": 1705564406,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 130160,
@@ -11427,14 +11555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122049,
-      "num": 122049,
-      "word": "檀健次 我这么man涂什么口红",
-      "onboard_time": 1705563209,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 121997,
       "num": 196613,
       "word": "情绪稳定确实是很好的品质",
@@ -11569,6 +11689,14 @@
       "onboard_time": 1705373007,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 118446,
+      "num": 118446,
+      "word": "江西文旅挟妈祖以令福建",
+      "onboard_time": 1705565429,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 118369,
@@ -12932,7 +13060,7 @@
     },
     {
       "raw_hot": 48166,
-      "num": 139936,
+      "num": 233588,
       "word": "世界之外无限流系统",
       "onboard_time": 1705563028,
       "rank": 46,
