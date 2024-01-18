@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705559857546,
+  "endTime": 1705562254225,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1017,6 +1017,14 @@
       "onboard_time": 1704723814,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1861071,
+      "num": 1861071,
+      "word": "彩礼",
+      "onboard_time": 1705554572,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1859322,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705479213,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1329807,
-      "num": 1792026,
-      "word": "爸爸说台湾宝宝在哈尔滨叫小当归",
-      "onboard_time": 1704611608,
-      "rank": 44,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

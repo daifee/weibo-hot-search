@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705559857546,
+  "endTime": 1705562254225,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1017,6 +1017,14 @@
       "onboard_time": 1704723814,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1861071,
+      "num": 1861071,
+      "word": "彩礼",
+      "onboard_time": 1705554572,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1859322,
@@ -2403,14 +2411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1329124,
-      "num": 1329124,
-      "word": "彩礼",
-      "onboard_time": 1705554572,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1326474,
       "num": 1326474,
       "word": "身份证45开头的哈尔滨免费吃冻梨",
@@ -2545,6 +2545,14 @@
       "onboard_time": 1704166538,
       "rank": 3,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1288273,
+      "num": 1288273,
+      "word": "举报导师的学生称接受不了论文是假的",
+      "onboard_time": 1705559067,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1279788,
@@ -8347,6 +8355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 650394,
+      "num": 650394,
+      "word": "拉椅子致同学重伤父母被判赔10万",
+      "onboard_time": 1705559550,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649551,
       "num": 649551,
       "word": "浙江省考出成绩",
@@ -9945,6 +9961,14 @@
       "onboard_time": 1705479390,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 573384,
+      "num": 404467,
+      "word": "京东回应快递员退休有房有车",
+      "onboard_time": 1705559967,
+      "rank": 10,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 573372,
@@ -14963,6 +14987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 399178,
+      "num": 399178,
+      "word": "于正回复粉丝卢昱晓是女一号",
+      "onboard_time": 1705561349,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398490,
       "num": 398490,
       "word": "四川省考 愉快的旅游",
@@ -16328,14 +16360,6 @@
       "word": "广西一中学学生趴桌午休收费260元",
       "onboard_time": 1704954928,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360825,
-      "num": 360825,
-      "word": "举报导师的学生称接受不了论文是假的",
-      "onboard_time": 1705559067,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -18915,6 +18939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296770,
+      "num": 296770,
+      "word": "云台山女妲己好漂亮",
+      "onboard_time": 1705560927,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 296687,
       "num": 296687,
       "word": "鄂伦春自治旗人大常委会主任感谢网友",
@@ -20089,6 +20121,14 @@
       "onboard_time": 1704358172,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277314,
+      "num": 277314,
+      "word": "阴阳师送666",
+      "onboard_time": 1705560685,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 277143,
@@ -21771,6 +21811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250973,
+      "num": 222184,
+      "word": "50岁的舅舅被我骂哭了",
+      "onboard_time": 1705561827,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250875,
       "num": 250875,
       "word": "庞博 年会不能停像没有花椒的饭",
@@ -22049,6 +22097,14 @@
       "onboard_time": 1704947674,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247526,
+      "num": 247526,
+      "word": "林小宅藏药令女主",
+      "onboard_time": 1705561108,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 247276,
@@ -22801,6 +22857,14 @@
       "onboard_time": 1704192334,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237712,
+      "num": 237712,
+      "word": "股票",
+      "onboard_time": 1705561706,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 237622,
@@ -24137,6 +24201,14 @@
       "onboard_time": 1705047631,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224390,
+      "num": 224390,
+      "word": "阴阳师",
+      "onboard_time": 1704607708,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 224367,
@@ -26035,6 +26107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207559,
+      "num": 207559,
+      "word": "妲己和石矶娘娘",
+      "onboard_time": 1705561227,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 207512,
       "num": 207512,
       "word": "王牌对王牌",
@@ -27057,14 +27137,6 @@
       "onboard_time": 1705062870,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201368,
-      "num": 201368,
-      "word": "阴阳师",
-      "onboard_time": 1704607708,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 201309,
@@ -28419,6 +28491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193899,
+      "num": 193899,
+      "word": "张语格与丝芭正式解约",
+      "onboard_time": 1705560027,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193879,
       "num": 193879,
       "word": "科目三的风吹到了曾黎",
@@ -29219,6 +29299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189346,
+      "num": 189346,
+      "word": "张若昀又演法医了",
+      "onboard_time": 1705561529,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189326,
       "num": 189326,
       "word": "当小砂糖橘遇上小雾凇",
@@ -29729,14 +29817,6 @@
       "onboard_time": 1705147843,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186312,
-      "num": 186312,
-      "word": "拉椅子致同学重伤父母被判赔10万",
-      "onboard_time": 1705559550,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186273,
@@ -36209,6 +36289,14 @@
       "onboard_time": 1704286415,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150079,
+      "num": 150079,
+      "word": "国乙巅峰对决日",
+      "onboard_time": 1705560087,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 150055,
@@ -47665,6 +47753,14 @@
       "onboard_time": 1704038452,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37728,
+      "num": 1307159,
+      "word": "大美中国 冰雪之约",
+      "onboard_time": 1705553551,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37317,

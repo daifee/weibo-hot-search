@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705559857546,
+  "endTime": 1705562254225,
   "band_list": [
     {
       "raw_hot": 2321866,
@@ -25,6 +25,14 @@
       "onboard_time": 1705554151,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1861071,
+      "num": 1861071,
+      "word": "彩礼",
+      "onboard_time": 1705554572,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1631758,
@@ -59,11 +67,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1329124,
-      "num": 1329124,
-      "word": "彩礼",
-      "onboard_time": 1705554572,
-      "rank": 27,
+      "raw_hot": 1288273,
+      "num": 1288273,
+      "word": "举报导师的学生称接受不了论文是假的",
+      "onboard_time": 1705559067,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -251,6 +259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 650394,
+      "num": 650394,
+      "word": "拉椅子致同学重伤父母被判赔10万",
+      "onboard_time": 1705559550,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641987,
       "num": 641987,
       "word": "排列5开出55555清空5亿奖池",
@@ -305,6 +321,14 @@
       "onboard_time": 1705551690,
       "rank": 42,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 573384,
+      "num": 404467,
+      "word": "京东回应快递员退休有房有车",
+      "onboard_time": 1705559967,
+      "rank": 10,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 568066,
@@ -499,6 +523,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 399178,
+      "num": 399178,
+      "word": "于正回复粉丝卢昱晓是女一号",
+      "onboard_time": 1705561349,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382298,
       "num": 382298,
       "word": "KPL有自己的许沁",
@@ -529,14 +561,6 @@
       "onboard_time": 1705545206,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 360825,
-      "num": 360825,
-      "word": "举报导师的学生称接受不了论文是假的",
-      "onboard_time": 1705559067,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350106,
@@ -619,6 +643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296770,
+      "num": 296770,
+      "word": "云台山女妲己好漂亮",
+      "onboard_time": 1705560927,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 290991,
       "num": 290991,
       "word": "仙剑四特效",
@@ -664,6 +696,14 @@
       "word": "沈星回 心里有我",
       "onboard_time": 1705556910,
       "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 277314,
+      "num": 277314,
+      "word": "阴阳师送666",
+      "onboard_time": 1705560685,
+      "rank": 19,
       "category": "游戏"
     },
     {
@@ -715,6 +755,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 260880,
+      "num": 260880,
+      "word": "光与夜之恋",
+      "onboard_time": 1705561647,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258294,
       "num": 258294,
       "word": "光与夜之恋古风",
@@ -745,6 +793,14 @@
       "onboard_time": 1705533140,
       "rank": 13,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 250973,
+      "num": 222184,
+      "word": "50岁的舅舅被我骂哭了",
+      "onboard_time": 1705561827,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 250766,
@@ -779,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247526,
+      "num": 247526,
+      "word": "林小宅藏药令女主",
+      "onboard_time": 1705561108,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246311,
       "num": 246311,
       "word": "仙剑四爱奇艺热度破7000",
@@ -793,6 +857,14 @@
       "onboard_time": 1705497090,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237712,
+      "num": 237712,
+      "word": "股票",
+      "onboard_time": 1705561706,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 235847,
@@ -825,6 +897,14 @@
       "onboard_time": 1705549588,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 224390,
+      "num": 224390,
+      "word": "阴阳师",
+      "onboard_time": 1705559726,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 220856,
@@ -883,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207559,
+      "num": 207559,
+      "word": "妲己和石矶娘娘",
+      "onboard_time": 1705561227,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 203557,
       "num": 203557,
       "word": "国足迎重大利好",
@@ -913,14 +1001,6 @@
       "onboard_time": 1705551630,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 201368,
-      "num": 201368,
-      "word": "阴阳师",
-      "onboard_time": 1705559726,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 199589,
@@ -995,6 +1075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193899,
+      "num": 193899,
+      "word": "张语格与丝芭正式解约",
+      "onboard_time": 1705560027,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193447,
       "num": 193447,
       "word": "无畏说小义没有背刺兄弟",
@@ -1035,6 +1123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 189346,
+      "num": 189346,
+      "word": "张若昀又演法医了",
+      "onboard_time": 1705561529,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187608,
       "num": 187608,
       "word": "祈今朝",
@@ -1065,14 +1161,6 @@
       "onboard_time": 1705549588,
       "rank": 40,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 186312,
-      "num": 186312,
-      "word": "拉椅子致同学重伤父母被判赔10万",
-      "onboard_time": 1705559550,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185679,
@@ -1344,6 +1432,14 @@
       "word": "王者嫦娥新皮肤",
       "onboard_time": 1705501353,
       "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 150079,
+      "num": 150079,
+      "word": "国乙巅峰对决日",
+      "onboard_time": 1705560087,
+      "rank": 41,
       "category": "游戏"
     },
     {
@@ -1929,6 +2025,14 @@
       "onboard_time": 1705548328,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37728,
+      "num": 1307159,
+      "word": "大美中国 冰雪之约",
+      "onboard_time": 1705553551,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33991,
