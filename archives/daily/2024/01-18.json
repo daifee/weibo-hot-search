@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705547957118,
+  "endTime": 1705548869672,
   "band_list": [
     {
       "raw_hot": 1631758,
@@ -8,6 +8,14 @@
       "word": "华中农大11名学生联名举报信长达125页",
       "onboard_time": 1705502670,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1511016,
+      "num": 1511016,
+      "word": "华中农大教授学术造假",
+      "onboard_time": 1705545625,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -19,28 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1384667,
+      "num": 1384667,
+      "word": "飞猪被曝3人买同趟航班价格不同",
+      "onboard_time": 1705545084,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1375528,
       "num": 846219,
       "word": "A股",
       "onboard_time": 1705542206,
       "rank": 3,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1349873,
-      "num": 1349873,
-      "word": "华中农大教授学术造假",
-      "onboard_time": 1705545625,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1181785,
-      "num": 1181785,
-      "word": "飞猪被曝3人买同趟航班价格不同",
-      "onboard_time": 1705545084,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1174071,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1009513,
+      "num": 1009513,
+      "word": "生理变化不该被指指点点",
+      "onboard_time": 1705546046,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1000632,
       "num": 1000632,
       "word": "车厘子降价仍不被买账",
@@ -81,14 +89,6 @@
       "onboard_time": 1705545147,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 905553,
-      "num": 905553,
-      "word": "生理变化不该被指指点点",
-      "onboard_time": 1705546046,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 845572,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508196,
+      "num": 508196,
+      "word": "胡锡进曾称2800点以下遍地是黄金",
+      "onboard_time": 1705546884,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 505133,
       "num": 505133,
       "word": "蔡少芬 难怪谢娜女儿叫跳跳",
@@ -225,6 +233,14 @@
       "onboard_time": 1705539687,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 447004,
+      "num": 447004,
+      "word": "警方回应网红铁头直播间自曝嫖娼",
+      "onboard_time": 1705547424,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436458,
@@ -275,6 +291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 383283,
+      "num": 383283,
+      "word": "狐妖小红娘月红篇腊八片花",
+      "onboard_time": 1705548206,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375992,
       "num": 375992,
       "word": "村里停电新能源车变身老人生命充电桩",
@@ -288,14 +312,6 @@
       "word": "A股为何创下阶段新低",
       "onboard_time": 1705545206,
       "rank": 31,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 364094,
-      "num": 364094,
-      "word": "胡锡进曾称2800点以下遍地是黄金",
-      "onboard_time": 1705546884,
-      "rank": 15,
       "category": "财经"
     },
     {
@@ -403,6 +419,30 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 274052,
+      "num": 274052,
+      "word": "云台山妲己coser",
+      "onboard_time": 1705548267,
+      "rank": 22,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 271657,
+      "num": 271657,
+      "word": "电影灿烂的她定档",
+      "onboard_time": 1705546710,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 269764,
+      "num": 269764,
+      "word": "影视公司起诉蒋劲夫被驳回",
+      "onboard_time": 1705548328,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264186,
       "num": 179704,
       "word": "不是情侣关系的占有欲",
@@ -435,14 +475,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 242721,
-      "num": 242721,
-      "word": "电影灿烂的她定档",
-      "onboard_time": 1705546710,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 238332,
       "num": 238332,
       "word": "宋轶背上了文咏珊送的包",
@@ -465,14 +497,6 @@
       "onboard_time": 1705537707,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 224268,
-      "num": 224268,
-      "word": "警方回应网红铁头直播间自曝嫖娼",
-      "onboard_time": 1705547424,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220856,
@@ -539,6 +563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199167,
+      "num": 199167,
+      "word": "王者荣耀闪退",
+      "onboard_time": 1705547726,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198941,
       "num": 198941,
       "word": "外资认为A股估值够便宜",
@@ -553,6 +585,22 @@
       "onboard_time": 1705533378,
       "rank": 37,
       "category": "科学科普,社会新闻"
+    },
+    {
+      "raw_hot": 197462,
+      "num": 197462,
+      "word": "神十八神十九航天员已确定",
+      "onboard_time": 1705547905,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 196070,
+      "num": 196070,
+      "word": "鸡蛋出现这一特征绝对吃不得",
+      "onboard_time": 1705546884,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 193447,
@@ -611,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184112,
-      "num": 184112,
-      "word": "鸡蛋出现这一特征绝对吃不得",
-      "onboard_time": 1705546884,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 182295,
       "num": 182295,
       "word": "天舟七号发射任务圆满成功",
@@ -649,14 +689,6 @@
       "onboard_time": 1705542865,
       "rank": 27,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 176424,
-      "num": 176424,
-      "word": "神十八神十九航天员已确定",
-      "onboard_time": 1705547905,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 175911,
@@ -699,14 +731,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 166455,
-      "num": 166455,
-      "word": "王者荣耀闪退",
-      "onboard_time": 1705547726,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 163718,
       "num": 128381,
       "word": "恋与制作人",
@@ -731,6 +755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 161673,
+      "num": 161673,
+      "word": "小狗吵架急得小猫团团转",
+      "onboard_time": 1705546529,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161273,
       "num": 161273,
       "word": "米兰偶遇李敏镐",
@@ -747,14 +779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159768,
-      "num": 159768,
-      "word": "小狗吵架急得小猫团团转",
-      "onboard_time": 1705546529,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159598,
       "num": 159598,
       "word": "光与夜之恋 转盘",
@@ -769,6 +793,14 @@
       "onboard_time": 1705544305,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 155615,
+      "num": 155615,
+      "word": "2024辽宁卫视春晚官宣",
+      "onboard_time": 1705548628,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 154352,
@@ -809,6 +841,14 @@
       "onboard_time": 1705541127,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148252,
+      "num": 148252,
+      "word": "于正新片 旋转番位",
+      "onboard_time": 1705548748,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 147870,
@@ -1052,7 +1092,7 @@
     },
     {
       "raw_hot": 103249,
-      "num": 1233985,
+      "num": 1359172,
       "word": "腊八蒜为啥是绿色的",
       "onboard_time": 1705490848,
       "rank": 2,
@@ -1187,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65951,
+      "num": 223835,
+      "word": "女生为全家买新衣拍全家福",
+      "onboard_time": 1705547969,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65771,
       "num": 63892,
       "word": "华中农大教授遭学生举报学术不端被调查",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1705470632,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39810,
+      "num": 134848,
+      "word": "艾伦海鲜档口开业",
+      "onboard_time": 1705548328,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 33991,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1705548869672,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1511016,
+        "num": 1511016,
+        "word": "华中农大教授学术造假",
+        "onboard_time": 1705545625,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1384667,
+        "num": 1384667,
+        "word": "飞猪被曝3人买同趟航班价格不同",
+        "onboard_time": 1705545084,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49816,
+        "num": 1359172,
+        "word": "腊八蒜为啥是绿色的",
+        "onboard_time": 1705490848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1344288,
+        "num": 1344288,
+        "word": "河南云台山妲己扮演者道歉并暂停工作",
+        "onboard_time": 1705542506,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009513,
+        "num": 1009513,
+        "word": "生理变化不该被指指点点",
+        "onboard_time": 1705546046,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 659323,
+        "num": 659323,
+        "word": "祝绪丹于正风波",
+        "onboard_time": 1705544965,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655664,
+        "num": 655664,
+        "word": "最高法明确禁止借婚姻索取财物",
+        "onboard_time": 1705545084,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508196,
+        "num": 508196,
+        "word": "胡锡进曾称2800点以下遍地是黄金",
+        "onboard_time": 1705546884,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 457642,
+        "num": 457642,
+        "word": "男大学生抽走女同学板凳致其骨折",
+        "onboard_time": 1705536386,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447004,
+        "num": 447004,
+        "word": "警方回应网红铁头直播间自曝嫖娼",
+        "onboard_time": 1705547424,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825461,
+        "num": 442804,
+        "word": "A股",
+        "onboard_time": 1705542206,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 676381,
+        "num": 441709,
+        "word": "上证跌破2800点",
+        "onboard_time": 1705545147,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 663096,
+        "num": 434238,
+        "word": "胡锡进",
+        "onboard_time": 1705545747,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422350,
+        "num": 422350,
+        "word": "新郎为宠妻办中式婚礼不料自己也入坑",
+        "onboard_time": 1705536746,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383283,
+        "num": 383283,
+        "word": "狐妖小红娘月红篇腊八片花",
+        "onboard_time": 1705548206,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328458,
+        "num": 328458,
+        "word": "排列5开出55555清空5亿奖池",
+        "onboard_time": 1705542684,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 324747,
+        "num": 324747,
+        "word": "云南白药退出全部二级市场证券投资",
+        "onboard_time": 1705537107,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 321701,
+        "num": 321701,
+        "word": "AirPodsPro龙年特别款",
+        "onboard_time": 1705537529,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 311261,
+        "num": 311261,
+        "word": "A股为何创下阶段新低",
+        "onboard_time": 1705545206,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 284255,
+        "num": 284255,
+        "word": "恋与深空正式上线",
+        "onboard_time": 1705546643,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329033,
+        "num": 283471,
+        "word": "对方拒绝了您的生发请求",
+        "onboard_time": 1705541185,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280894,
+        "num": 280894,
+        "word": "光与夜之恋电话",
+        "onboard_time": 1705546286,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274052,
+        "num": 274052,
+        "word": "云台山妲己coser",
+        "onboard_time": 1705548267,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 271657,
+        "num": 271657,
+        "word": "电影灿烂的她定档",
+        "onboard_time": 1705546710,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269764,
+        "num": 269764,
+        "word": "影视公司起诉蒋劲夫被驳回",
+        "onboard_time": 1705548328,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259053,
+        "num": 259053,
+        "word": "世界之外 男主叫我名字",
+        "onboard_time": 1705539687,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224273,
+        "num": 224273,
+        "word": "华中农业大学",
+        "onboard_time": 1705546046,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 65951,
+        "num": 223835,
+        "word": "女生为全家买新衣拍全家福",
+        "onboard_time": 1705547969,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223514,
+        "num": 223514,
+        "word": "腊八节",
+        "onboard_time": 1705532899,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214816,
+        "num": 214816,
+        "word": "仙剑六 端水",
+        "onboard_time": 1705539206,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203391,
+        "num": 203391,
+        "word": "好难 我要吃面了",
+        "onboard_time": 1705535903,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199167,
+        "num": 199167,
+        "word": "王者荣耀闪退",
+        "onboard_time": 1705547726,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197462,
+        "num": 197462,
+        "word": "神十八神十九航天员已确定",
+        "onboard_time": 1705547905,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196142,
+        "num": 196142,
+        "word": "林一刘浩存看到项圈的不同反应",
+        "onboard_time": 1705540225,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196070,
+        "num": 196070,
+        "word": "鸡蛋出现这一特征绝对吃不得",
+        "onboard_time": 1705546884,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193040,
+        "num": 193040,
+        "word": "世界之外开服",
+        "onboard_time": 1705533140,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178784,
+        "num": 178784,
+        "word": "TTG官宣Lovecd离队",
+        "onboard_time": 1705547306,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161673,
+        "num": 161673,
+        "word": "小狗吵架急得小猫团团转",
+        "onboard_time": 1705546529,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159276,
+        "num": 159276,
+        "word": "仙剑四特效",
+        "onboard_time": 1705541246,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155615,
+        "num": 155615,
+        "word": "2024辽宁卫视春晚官宣",
+        "onboard_time": 1705548628,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150408,
+        "num": 150408,
+        "word": "海底捞打毛线收费39到99",
+        "onboard_time": 1705509444,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149447,
+        "num": 149447,
+        "word": "光与夜之恋 转盘",
+        "onboard_time": 1705538788,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148252,
+        "num": 148252,
+        "word": "于正新片 旋转番位",
+        "onboard_time": 1705548748,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147668,
+        "num": 147668,
+        "word": "迪丽热巴徒手提行李箱惊呆辛芷蕾",
+        "onboard_time": 1705538969,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146124,
+        "num": 146124,
+        "word": "李宏毅王楚然新剧开机宴路透",
+        "onboard_time": 1705543647,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138192,
+        "num": 138192,
+        "word": "鞠婧祎陈哲远配音",
+        "onboard_time": 1705546464,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137735,
+        "num": 137735,
+        "word": "花花代表四川文旅出战",
+        "onboard_time": 1705542446,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136910,
+        "num": 136910,
+        "word": "华中农大11名学生联名举报信长达125页",
+        "onboard_time": 1705502670,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39810,
+        "num": 134848,
+        "word": "艾伦海鲜档口开业",
+        "onboard_time": 1705548328,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134594,
+        "num": 134594,
+        "word": "苹果将销售没有血氧检测功能的手表",
+        "onboard_time": 1705546408,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
