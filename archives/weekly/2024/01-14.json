@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705570484195,
+  "endTime": 1705573219624,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -867,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1098984,
+      "num": 1098984,
+      "word": "姐姐以为失业金只能领一次",
+      "onboard_time": 1705571549,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1098118,
       "num": 1098118,
       "word": "新郎为宠妻办中式婚礼不料自己也入坑",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1705417891,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 855698,
+      "num": 855698,
+      "word": "网购四斤车厘子收到带包装仅三斤",
+      "onboard_time": 1705568908,
+      "rank": 28,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 850906,
@@ -2067,6 +2083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 658362,
+      "num": 658362,
+      "word": "辛芷蕾凌晨三点半还在做饭",
+      "onboard_time": 1705568727,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 657309,
       "num": 299149,
       "word": "对方拒绝了您的生发请求",
@@ -2643,6 +2667,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 569503,
+      "num": 569503,
+      "word": "张黎",
+      "onboard_time": 1705570466,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 568451,
       "num": 568451,
       "word": "特朗普赢得艾奥瓦州初选",
@@ -2721,14 +2753,6 @@
       "onboard_time": 1705240174,
       "rank": 6,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 559010,
-      "num": 559010,
-      "word": "网购四斤车厘子收到带包装仅三斤",
-      "onboard_time": 1705568908,
-      "rank": 28,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 558879,
@@ -3739,14 +3763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 422820,
-      "num": 422820,
-      "word": "辛芷蕾凌晨三点半还在做饭",
-      "onboard_time": 1705568727,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 422752,
       "num": 422752,
       "word": "王楚钦说和莎莎学会了坚持",
@@ -3841,6 +3857,14 @@
       "onboard_time": 1705381953,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 412093,
+      "num": 1119600,
+      "word": "花花又听见谭爷爷喊果赖了",
+      "onboard_time": 1705566927,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411595,
@@ -4291,6 +4315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 372844,
+      "num": 372844,
+      "word": "国乙之癫",
+      "onboard_time": 1705569028,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 372043,
       "num": 372043,
       "word": "大连人俱乐部解散",
@@ -4520,6 +4552,14 @@
       "word": "ChatGPT之父称人类水平的AI即将出现",
       "onboard_time": 1705457248,
       "rank": 15,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 345371,
+      "num": 345371,
+      "word": "东方甄选回应带货西梅汁检出泻药",
+      "onboard_time": 1705572205,
+      "rank": 14,
       "category": "互联网"
     },
     {
@@ -4760,6 +4800,14 @@
       "word": "25岁西班牙女生在相亲角被50岁男士求婚",
       "onboard_time": 1705485930,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321289,
+      "num": 256632,
+      "word": "男子巴黎出差强吻女同事被开",
+      "onboard_time": 1705570588,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -5099,6 +5147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 297794,
+      "num": 1052614,
+      "word": "清华特奖双胞胎姐妹归国任教",
+      "onboard_time": 1705571429,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297531,
       "num": 297531,
       "word": "沈星回兔男郎",
@@ -5176,6 +5232,14 @@
       "word": "仙剑六 什么时候播",
       "onboard_time": 1705488690,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 292682,
+      "num": 292682,
+      "word": "林一把动心气球给了周也",
+      "onboard_time": 1705570466,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -5377,14 +5441,6 @@
       "onboard_time": 1705464569,
       "rank": 31,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 282477,
-      "num": 282477,
-      "word": "国乙之癫",
-      "onboard_time": 1705569028,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 282443,
@@ -5699,6 +5755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 265528,
+      "num": 265528,
+      "word": "11名研究生称花一个月写125页举报信",
+      "onboard_time": 1705572331,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265157,
       "num": 265157,
       "word": "阿富汗扎兰季市一大楼遭自杀式炸弹袭击",
@@ -6003,6 +6067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249740,
+      "num": 249740,
+      "word": "赵丽颖白色拖尾蓬蓬裙",
+      "onboard_time": 1705571369,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249705,
       "num": 249705,
       "word": "半熟恋人3开录",
@@ -6033,14 +6105,6 @@
       "onboard_time": 1705360160,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 249206,
-      "num": 249206,
-      "word": "花花又听见谭爷爷喊果赖了",
-      "onboard_time": 1705566927,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249172,
@@ -6747,6 +6811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223840,
+      "num": 223840,
+      "word": "Faker和enhypen联动",
+      "onboard_time": 1705572152,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223688,
       "num": 223688,
       "word": "献血小卡",
@@ -6825,6 +6897,14 @@
       "onboard_time": 1705477771,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 222042,
+      "num": 222042,
+      "word": "郑爽百万股权被冻结",
+      "onboard_time": 1705572869,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 221970,
@@ -9083,6 +9163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172382,
+      "num": 172382,
+      "word": "王海称东方甄选带货西梅汁检出泻药",
+      "onboard_time": 1705570828,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 172351,
       "num": 172351,
       "word": "2024年考证时间表来了",
@@ -9369,6 +9457,14 @@
       "onboard_time": 1705209570,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167479,
+      "num": 167479,
+      "word": "马国明称汤洛雯整天夸肖战",
+      "onboard_time": 1705571609,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 167345,
@@ -9763,6 +9859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159417,
+      "num": 159417,
+      "word": "股市",
+      "onboard_time": 1705569570,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159302,
       "num": 159302,
       "word": "黄景瑜想演病娇",
@@ -9792,14 +9896,6 @@
       "word": "吴晓求谈A股",
       "onboard_time": 1705559368,
       "rank": 40,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 158880,
-      "num": 158880,
-      "word": "股市",
-      "onboard_time": 1705569570,
-      "rank": 33,
       "category": "财经"
     },
     {
@@ -10417,6 +10513,14 @@
       "onboard_time": 1705558409,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146631,
+      "num": 146631,
+      "word": "谢兴阳 杭州不是美食荒漠",
+      "onboard_time": 1705570347,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 146596,
@@ -11267,6 +11371,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 132795,
+      "num": 132795,
+      "word": "世界之外系统哥",
+      "onboard_time": 1705571067,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132596,
       "num": 132596,
       "word": "考试最后一个考场 诸神黄昏",
@@ -11619,12 +11731,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124196,
+      "num": 124196,
+      "word": "湖南成暴雪中心",
+      "onboard_time": 1705572751,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124166,
       "num": 124166,
       "word": "华为回应智界S7交付困难",
       "onboard_time": 1705398448,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 123970,
+      "num": 123970,
+      "word": "因板凳骨折女生称父母与其断绝关系",
+      "onboard_time": 1705573110,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123907,
@@ -11657,14 +11785,6 @@
       "onboard_time": 1705449085,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 123802,
-      "num": 123802,
-      "word": "谢兴阳 杭州不是美食荒漠",
-      "onboard_time": 1705570347,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 123698,
@@ -11705,6 +11825,14 @@
       "onboard_time": 1705299569,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123206,
+      "num": 123206,
+      "word": "山东年味总是这么特别",
+      "onboard_time": 1705572751,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 123124,
@@ -11979,6 +12107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116988,
+      "num": 116988,
+      "word": "越祈面试失败",
+      "onboard_time": 1705572449,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116963,
       "num": 116963,
       "word": "安心离了吧",
@@ -12024,14 +12160,6 @@
       "word": "谁给钟楚曦递个悬疑剧本",
       "onboard_time": 1705390349,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 116154,
-      "num": 116154,
-      "word": "林一把动心气球给了周也",
-      "onboard_time": 1705570466,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -12081,6 +12209,14 @@
       "onboard_time": 1705214972,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114282,
+      "num": 114282,
+      "word": "这个青铜小狐狸竟是古人用来煮粥的",
+      "onboard_time": 1705572331,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114013,
@@ -12441,14 +12577,6 @@
       "onboard_time": 1705323332,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100342,
-      "num": 113811,
-      "word": "张黎",
-      "onboard_time": 1705570466,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 100218,
@@ -12952,6 +13080,14 @@
       "word": "中国城市轨道交通运营里程突破1万公里",
       "onboard_time": 1705228649,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67407,
+      "num": 856376,
+      "word": "边防战士第一次骑马巡逻说特自豪",
+      "onboard_time": 1705571429,
+      "rank": 6,
       "category": "社会新闻"
     },
     {

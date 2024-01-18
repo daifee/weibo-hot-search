@@ -1,0 +1,410 @@
+{
+  "runTime": 1705573219624,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1636856,
+        "num": 1636856,
+        "word": "彩礼",
+        "onboard_time": 1705554572,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412093,
+        "num": 1119600,
+        "word": "花花又听见谭爷爷喊果赖了",
+        "onboard_time": 1705566927,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28269,
+        "num": 1109159,
+        "word": "大美中国 冰雪之约",
+        "onboard_time": 1705553551,
+        "rank": 2,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1098984,
+        "num": 1098984,
+        "word": "姐姐以为失业金只能领一次",
+        "onboard_time": 1705571549,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297794,
+        "num": 1052614,
+        "word": "清华特奖双胞胎姐妹归国任教",
+        "onboard_time": 1705571429,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1040198,
+        "num": 1040198,
+        "word": "周海媚友情出演了仙剑四",
+        "onboard_time": 1705568250,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67407,
+        "num": 856376,
+        "word": "边防战士第一次骑马巡逻说特自豪",
+        "onboard_time": 1705571429,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855698,
+        "num": 855698,
+        "word": "网购四斤车厘子收到带包装仅三斤",
+        "onboard_time": 1705568908,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 824989,
+        "num": 824989,
+        "word": "6年前蒋劲夫6900多万演男一",
+        "onboard_time": 1705554151,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658362,
+        "num": 658362,
+        "word": "辛芷蕾凌晨三点半还在做饭",
+        "onboard_time": 1705568727,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569503,
+        "num": 569503,
+        "word": "张黎",
+        "onboard_time": 1705570466,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 452021,
+        "num": 452021,
+        "word": "人民网评出格的文旅营销",
+        "onboard_time": 1705566386,
+        "rank": 11,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 372844,
+        "num": 372844,
+        "word": "国乙之癫",
+        "onboard_time": 1705569028,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 355283,
+        "num": 355283,
+        "word": "HarmonyOS",
+        "onboard_time": 1705567829,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 345371,
+        "num": 345371,
+        "word": "东方甄选回应带货西梅汁检出泻药",
+        "onboard_time": 1705572205,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 357535,
+        "num": 340015,
+        "word": "我国打工人每周平均工作49小时",
+        "onboard_time": 1705566206,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 327803,
+        "num": 327803,
+        "word": "李宇春当年高考物理满分",
+        "onboard_time": 1705568546,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318395,
+        "num": 318395,
+        "word": "一中国籍女子在韩抽脂手术后死亡",
+        "onboard_time": 1705557089,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292682,
+        "num": 292682,
+        "word": "林一把动心气球给了周也",
+        "onboard_time": 1705570466,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265528,
+        "num": 265528,
+        "word": "11名研究生称花一个月写125页举报信",
+        "onboard_time": 1705572331,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793137,
+        "num": 261945,
+        "word": "举报导师的学生称接受不了论文是假的",
+        "onboard_time": 1705559067,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570281,
+        "num": 258013,
+        "word": "2800",
+        "onboard_time": 1705550968,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 321289,
+        "num": 256632,
+        "word": "男子巴黎出差强吻女同事被开",
+        "onboard_time": 1705570588,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291934,
+        "num": 251301,
+        "word": "华中农大教授学术造假",
+        "onboard_time": 1705545625,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249740,
+        "num": 249740,
+        "word": "赵丽颖白色拖尾蓬蓬裙",
+        "onboard_time": 1705571369,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238812,
+        "num": 238812,
+        "word": "虞书欣观众缘",
+        "onboard_time": 1705564467,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235439,
+        "num": 235439,
+        "word": "王乐君6年前曾发声反蒋劲夫家暴",
+        "onboard_time": 1705565068,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223840,
+        "num": 223840,
+        "word": "Faker和enhypen联动",
+        "onboard_time": 1705572152,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222042,
+        "num": 222042,
+        "word": "郑爽百万股权被冻结",
+        "onboard_time": 1705572869,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221417,
+        "num": 221417,
+        "word": "拉椅子致同学重伤父母被判赔10万",
+        "onboard_time": 1705559550,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216572,
+        "num": 216572,
+        "word": "张颂文辛芷蕾这么熟吗",
+        "onboard_time": 1705569207,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213248,
+        "num": 213248,
+        "word": "金星力挺春晚导演",
+        "onboard_time": 1705567950,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193619,
+        "num": 193619,
+        "word": "世界之外 能不能改改立绘",
+        "onboard_time": 1705554870,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188616,
+        "num": 188616,
+        "word": "女妲己只和女生贴贴",
+        "onboard_time": 1705564766,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 172382,
+        "num": 172382,
+        "word": "王海称东方甄选带货西梅汁检出泻药",
+        "onboard_time": 1705570828,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167479,
+        "num": 167479,
+        "word": "马国明称汤洛雯整天夸肖战",
+        "onboard_time": 1705571609,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161474,
+        "num": 161474,
+        "word": "杨幂的龙年穿搭",
+        "onboard_time": 1705569627,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159417,
+        "num": 159417,
+        "word": "股市",
+        "onboard_time": 1705569570,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146631,
+        "num": 146631,
+        "word": "谢兴阳 杭州不是美食荒漠",
+        "onboard_time": 1705570347,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138635,
+        "num": 138635,
+        "word": "SEVENTEEN澳门 中文歌",
+        "onboard_time": 1705565847,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132795,
+        "num": 132795,
+        "word": "世界之外系统哥",
+        "onboard_time": 1705571067,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132130,
+        "num": 132130,
+        "word": "为什么长大后口味变了",
+        "onboard_time": 1705568908,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130571,
+        "num": 130571,
+        "word": "市委书记不打招呼调研高中被门卫阻拦",
+        "onboard_time": 1705552112,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124196,
+        "num": 124196,
+        "word": "湖南成暴雪中心",
+        "onboard_time": 1705572751,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123970,
+        "num": 123970,
+        "word": "因板凳骨折女生称父母与其断绝关系",
+        "onboard_time": 1705573110,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123206,
+        "num": 123206,
+        "word": "山东年味总是这么特别",
+        "onboard_time": 1705572751,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116988,
+        "num": 116988,
+        "word": "越祈面试失败",
+        "onboard_time": 1705572449,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115930,
+        "num": 115930,
+        "word": "现在看封腾",
+        "onboard_time": 1705551386,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115350,
+        "num": 115350,
+        "word": "卡琳娜复更",
+        "onboard_time": 1705554511,
+        "rank": 48,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 114282,
+        "num": 114282,
+        "word": "这个青铜小狐狸竟是古人用来煮粥的",
+        "onboard_time": 1705572331,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开年关键一课主题锚定金融#"
+    }
+  }
+}

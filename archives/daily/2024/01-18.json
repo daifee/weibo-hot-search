@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705570484195,
+  "endTime": 1705573219624,
   "band_list": [
     {
       "raw_hot": 2719567,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1098984,
+      "num": 1098984,
+      "word": "姐姐以为失业金只能领一次",
+      "onboard_time": 1705571549,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1098118,
       "num": 1098118,
       "word": "新郎为宠妻办中式婚礼不料自己也入坑",
@@ -177,6 +185,14 @@
       "onboard_time": 1705545147,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 855698,
+      "num": 855698,
+      "word": "网购四斤车厘子收到带包装仅三斤",
+      "onboard_time": 1705568908,
+      "rank": 28,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 845572,
@@ -275,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 658362,
+      "num": 658362,
+      "word": "辛芷蕾凌晨三点半还在做饭",
+      "onboard_time": 1705568727,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 657309,
       "num": 299149,
       "word": "对方拒绝了您的生发请求",
@@ -363,20 +387,20 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 569503,
+      "num": 569503,
+      "word": "张黎",
+      "onboard_time": 1705570466,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 568066,
       "num": 568066,
       "word": "世界之外 能不能改改立绘",
       "onboard_time": 1705554870,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 559010,
-      "num": 559010,
-      "word": "网购四斤车厘子收到带包装仅三斤",
-      "onboard_time": 1705568908,
-      "rank": 28,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 555831,
@@ -587,20 +611,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 422820,
-      "num": 422820,
-      "word": "辛芷蕾凌晨三点半还在做饭",
-      "onboard_time": 1705568727,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 421310,
       "num": 421310,
       "word": "iPhone15价格跌至史上最低",
       "onboard_time": 1705476931,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 412093,
+      "num": 1119600,
+      "word": "花花又听见谭爷爷喊果赖了",
+      "onboard_time": 1705566927,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409832,
@@ -683,6 +707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 372844,
+      "num": 372844,
+      "word": "国乙之癫",
+      "onboard_time": 1705569028,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 361328,
       "num": 361328,
       "word": "檀健次 我这么man涂什么口红",
@@ -713,6 +745,14 @@
       "onboard_time": 1705484970,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 345371,
+      "num": 345371,
+      "word": "东方甄选回应带货西梅汁检出泻药",
+      "onboard_time": 1705572205,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 336709,
@@ -753,6 +793,14 @@
       "onboard_time": 1705531875,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 321289,
+      "num": 256632,
+      "word": "男子巴黎出差强吻女同事被开",
+      "onboard_time": 1705570588,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317216,
@@ -803,12 +851,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297794,
+      "num": 1052614,
+      "word": "清华特奖双胞胎姐妹归国任教",
+      "onboard_time": 1705571429,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296770,
       "num": 296770,
       "word": "云台山女妲己好漂亮",
       "onboard_time": 1705560927,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 292682,
+      "num": 292682,
+      "word": "林一把动心气球给了周也",
+      "onboard_time": 1705570466,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 291430,
@@ -849,14 +913,6 @@
       "onboard_time": 1705561827,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 282477,
-      "num": 282477,
-      "word": "国乙之癫",
-      "onboard_time": 1705569028,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 281887,
@@ -939,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 265528,
+      "num": 265528,
+      "word": "11名研究生称花一个月写125页举报信",
+      "onboard_time": 1705572331,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264186,
       "num": 179704,
       "word": "不是情侣关系的占有欲",
@@ -1003,20 +1067,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249740,
+      "num": 249740,
+      "word": "赵丽颖白色拖尾蓬蓬裙",
+      "onboard_time": 1705571369,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249705,
       "num": 249705,
       "word": "半熟恋人3开录",
       "onboard_time": 1705552353,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249206,
-      "num": 249206,
-      "word": "花花又听见谭爷爷喊果赖了",
-      "onboard_time": 1705566927,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248476,
@@ -1121,6 +1185,22 @@
       "onboard_time": 1705559726,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223840,
+      "num": 223840,
+      "word": "Faker和enhypen联动",
+      "onboard_time": 1705572152,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 222042,
+      "num": 222042,
+      "word": "郑爽百万股权被冻结",
+      "onboard_time": 1705572869,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 220856,
@@ -1555,6 +1635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172382,
+      "num": 172382,
+      "word": "王海称东方甄选带货西梅汁检出泻药",
+      "onboard_time": 1705570828,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 172227,
       "num": 172227,
       "word": "光夜 老公你看他",
@@ -1601,6 +1689,14 @@
       "onboard_time": 1705539627,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 167479,
+      "num": 167479,
+      "word": "马国明称汤洛雯整天夸肖战",
+      "onboard_time": 1705571609,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 167020,
@@ -1691,19 +1787,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159417,
+      "num": 159417,
+      "word": "股市",
+      "onboard_time": 1705569570,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158890,
       "num": 158890,
       "word": "吴晓求谈A股",
       "onboard_time": 1705559368,
       "rank": 40,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 158880,
-      "num": 158880,
-      "word": "股市",
-      "onboard_time": 1705569570,
-      "rank": 33,
       "category": "财经"
     },
     {
@@ -1843,6 +1939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146631,
+      "num": 146631,
+      "word": "谢兴阳 杭州不是美食荒漠",
+      "onboard_time": 1705570347,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146596,
       "num": 146596,
       "word": "杭州财神咖啡",
@@ -1963,6 +2067,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 132795,
+      "num": 132795,
+      "word": "世界之外系统哥",
+      "onboard_time": 1705571067,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131810,
       "num": 131810,
       "word": "DRG官宣百兽离队",
@@ -2027,12 +2139,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123802,
-      "num": 123802,
-      "word": "谢兴阳 杭州不是美食荒漠",
-      "onboard_time": 1705570347,
+      "raw_hot": 124196,
+      "num": 124196,
+      "word": "湖南成暴雪中心",
+      "onboard_time": 1705572751,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123970,
+      "num": 123970,
+      "word": "因板凳骨折女生称父母与其断绝关系",
+      "onboard_time": 1705573110,
       "rank": 44,
-      "category": "艺人"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123533,
@@ -2041,6 +2161,14 @@
       "onboard_time": 1705567888,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123206,
+      "num": 123206,
+      "word": "山东年味总是这么特别",
+      "onboard_time": 1705572751,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 120794,
@@ -2091,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116988,
+      "num": 116988,
+      "word": "越祈面试失败",
+      "onboard_time": 1705572449,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116836,
       "num": 116836,
       "word": "时空中的绘旅人",
@@ -2099,20 +2235,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 116154,
-      "num": 116154,
-      "word": "林一把动心气球给了周也",
-      "onboard_time": 1705570466,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115915,
       "num": 115915,
       "word": "国足黎巴嫩冲突",
       "onboard_time": 1705497811,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114282,
+      "num": 114282,
+      "word": "这个青铜小狐狸竟是古人用来煮粥的",
+      "onboard_time": 1705572331,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113178,
@@ -2201,14 +2337,6 @@
       "onboard_time": 1705488750,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 100342,
-      "num": 113811,
-      "word": "张黎",
-      "onboard_time": 1705570466,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 96060,
@@ -2313,6 +2441,14 @@
       "onboard_time": 1705533982,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67407,
+      "num": 856376,
+      "word": "边防战士第一次骑马巡逻说特自豪",
+      "onboard_time": 1705571429,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65771,
