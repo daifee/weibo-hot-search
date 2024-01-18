@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705562254225,
+  "endTime": 1705563254908,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -465,6 +465,14 @@
       "onboard_time": 1704037559,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2564268,
+      "num": 2564268,
+      "word": "彩礼",
+      "onboard_time": 1705554572,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2491617,
@@ -1017,14 +1025,6 @@
       "onboard_time": 1704723814,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1861071,
-      "num": 1861071,
-      "word": "彩礼",
-      "onboard_time": 1705554572,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1859322,
@@ -2347,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1350225,
+      "num": 1350225,
+      "word": "举报导师的学生称接受不了论文是假的",
+      "onboard_time": 1705559067,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1346067,
       "num": 576584,
       "word": "爱泼斯坦",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705206337,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1334934,
-      "num": 1334934,
-      "word": "21岁女生每月3次月经病因在大脑",
-      "onboard_time": 1705479213,
-      "rank": 30,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [

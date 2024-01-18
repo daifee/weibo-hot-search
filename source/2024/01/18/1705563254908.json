@@ -1,0 +1,410 @@
+{
+  "runTime": 1705563254908,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2564268,
+        "num": 2564268,
+        "word": "彩礼",
+        "onboard_time": 1705554572,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1480244,
+        "num": 1480244,
+        "word": "6年前蒋劲夫6900多万演男一",
+        "onboard_time": 1705554151,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40351,
+        "num": 1384599,
+        "word": "大美中国 冰雪之约",
+        "onboard_time": 1705553551,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1350225,
+        "num": 1350225,
+        "word": "举报导师的学生称接受不了论文是假的",
+        "onboard_time": 1705559067,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906718,
+        "num": 906718,
+        "word": "一中国籍女子在韩抽脂手术后死亡",
+        "onboard_time": 1705557089,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840694,
+        "num": 840694,
+        "word": "拉椅子致同学重伤父母被判赔10万",
+        "onboard_time": 1705559550,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589086,
+        "num": 589086,
+        "word": "于正回复粉丝卢昱晓是女一号",
+        "onboard_time": 1705561349,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 566308,
+        "num": 566308,
+        "word": "华中农大教授学术造假",
+        "onboard_time": 1705545625,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439730,
+        "num": 439730,
+        "word": "秦海璐被迪丽热巴吓哭了",
+        "onboard_time": 1705558706,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439197,
+        "num": 439197,
+        "word": "市委书记不打招呼调研高中被门卫阻拦",
+        "onboard_time": 1705552112,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501872,
+        "num": 423497,
+        "word": "京东回应快递员退休有房有车",
+        "onboard_time": 1705559967,
+        "rank": 10,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 381446,
+        "num": 381446,
+        "word": "现在看封腾",
+        "onboard_time": 1705551386,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320930,
+        "num": 320930,
+        "word": "妲己和石矶娘娘",
+        "onboard_time": 1705561227,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 316684,
+        "num": 316684,
+        "word": "卡琳娜复更",
+        "onboard_time": 1705554511,
+        "rank": 13,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 313266,
+        "num": 313266,
+        "word": "番位笑话",
+        "onboard_time": 1705552652,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308432,
+        "num": 308432,
+        "word": "KPL有自己的许沁",
+        "onboard_time": 1705558050,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 297549,
+        "num": 297549,
+        "word": "华为鸿蒙发布会",
+        "onboard_time": 1705562546,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 269451,
+        "num": 269451,
+        "word": "云台山女妲己好漂亮",
+        "onboard_time": 1705560927,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 269218,
+        "num": 269218,
+        "word": "江疏影目前单身",
+        "onboard_time": 1705562546,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261580,
+        "num": 261580,
+        "word": "世界之外 能不能改改立绘",
+        "onboard_time": 1705554870,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1055936,
+        "num": 260274,
+        "word": "2800",
+        "onboard_time": 1705550968,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 313294,
+        "num": 257574,
+        "word": "股票",
+        "onboard_time": 1705561706,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 291430,
+        "num": 256009,
+        "word": "光与夜之恋",
+        "onboard_time": 1705561647,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283888,
+        "num": 251733,
+        "word": "50岁的舅舅被我骂哭了",
+        "onboard_time": 1705561827,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250821,
+        "num": 250821,
+        "word": "倪萍辟谣整容",
+        "onboard_time": 1705557448,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239015,
+        "num": 239015,
+        "word": "巴基斯坦空袭位于伊朗东部的极端组织",
+        "onboard_time": 1705556668,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 225477,
+        "num": 225477,
+        "word": "阴阳师送666",
+        "onboard_time": 1705560685,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221312,
+        "num": 221312,
+        "word": "河南云台山妲己扮演者道歉并暂停工作",
+        "onboard_time": 1705542506,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215603,
+        "num": 215603,
+        "word": "A股",
+        "onboard_time": 1705542206,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 210799,
+        "num": 210799,
+        "word": "郝劭文就女儿被霸凌事件再发声",
+        "onboard_time": 1705553070,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209045,
+        "num": 209045,
+        "word": "林小宅藏药令女主",
+        "onboard_time": 1705561108,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189155,
+        "num": 189155,
+        "word": "张语格与丝芭正式解约",
+        "onboard_time": 1705560027,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180178,
+        "num": 180178,
+        "word": "发现姥姥没有想象中爱我",
+        "onboard_time": 1705563028,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179424,
+        "num": 179424,
+        "word": "辛芷蕾再现臭yue名场面",
+        "onboard_time": 1705551267,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179202,
+        "num": 179202,
+        "word": "沪指收复2800点关口",
+        "onboard_time": 1705562787,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174742,
+        "num": 174742,
+        "word": "迪丽热巴工作室P图",
+        "onboard_time": 1705555170,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167020,
+        "num": 167020,
+        "word": "刘诗诗P了小狮子",
+        "onboard_time": 1705562487,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165960,
+        "num": 165960,
+        "word": "藏药令开播",
+        "onboard_time": 1705562367,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165376,
+        "num": 165376,
+        "word": "张若昀又演法医了",
+        "onboard_time": 1705561529,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163411,
+        "num": 163411,
+        "word": "大侦探9",
+        "onboard_time": 1705553312,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155721,
+        "num": 155721,
+        "word": "高亭宇阿合娜尔公开恋情",
+        "onboard_time": 1705562608,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153369,
+        "num": 153369,
+        "word": "三大指数已全线翻红",
+        "onboard_time": 1705562847,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151876,
+        "num": 151876,
+        "word": "光与夜之恋电话",
+        "onboard_time": 1705546286,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150819,
+        "num": 150819,
+        "word": "恋与深空正式上线",
+        "onboard_time": 1705546643,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149760,
+        "num": 149760,
+        "word": "东北大冻梨被广西菜市场震惊到了",
+        "onboard_time": 1705556668,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 148431,
+        "num": 148431,
+        "word": "飞猪被曝3人买同趟航班价格不同",
+        "onboard_time": 1705545084,
+        "rank": 45,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 48166,
+        "num": 139936,
+        "word": "世界之外无限流系统",
+        "onboard_time": 1705563028,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138402,
+        "num": 138402,
+        "word": "上证跌破2800点",
+        "onboard_time": 1705545147,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128627,
+        "num": 128627,
+        "word": "新增2种情况下彩礼返还规则",
+        "onboard_time": 1705557688,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122049,
+        "num": 122049,
+        "word": "檀健次 我这么man涂什么口红",
+        "onboard_time": 1705563209,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

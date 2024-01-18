@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705562254225,
+  "endTime": 1705563254908,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -465,6 +465,14 @@
       "onboard_time": 1704037559,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2564268,
+      "num": 2564268,
+      "word": "彩礼",
+      "onboard_time": 1705554572,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2491617,
@@ -1017,14 +1025,6 @@
       "onboard_time": 1704723814,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1861071,
-      "num": 1861071,
-      "word": "彩礼",
-      "onboard_time": 1705554572,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1859322,
@@ -2347,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1350225,
+      "num": 1350225,
+      "word": "举报导师的学生称接受不了论文是假的",
+      "onboard_time": 1705559067,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1346067,
       "num": 576584,
       "word": "爱泼斯坦",
@@ -2545,14 +2553,6 @@
       "onboard_time": 1704166538,
       "rank": 3,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1288273,
-      "num": 1288273,
-      "word": "举报导师的学生称接受不了论文是假的",
-      "onboard_time": 1705559067,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1279788,
@@ -5353,6 +5353,14 @@
       "onboard_time": 1704714210,
       "rank": 10,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 840694,
+      "num": 840694,
+      "word": "拉椅子致同学重伤父母被判赔10万",
+      "onboard_time": 1705559550,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 840189,
@@ -8355,14 +8363,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 650394,
-      "num": 650394,
-      "word": "拉椅子致同学重伤父母被判赔10万",
-      "onboard_time": 1705559550,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 649551,
       "num": 649551,
       "word": "浙江省考出成绩",
@@ -9563,6 +9563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589086,
+      "num": 589086,
+      "word": "于正回复粉丝卢昱晓是女一号",
+      "onboard_time": 1705561349,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 589005,
       "num": 360371,
       "word": "日本地震已致98人死亡",
@@ -9964,7 +9972,7 @@
     },
     {
       "raw_hot": 573384,
-      "num": 404467,
+      "num": 423497,
       "word": "京东回应快递员退休有房有车",
       "onboard_time": 1705559967,
       "rank": 10,
@@ -14987,14 +14995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 399178,
-      "num": 399178,
-      "word": "于正回复粉丝卢昱晓是女一号",
-      "onboard_time": 1705561349,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 398490,
       "num": 398490,
       "word": "四川省考 愉快的旅游",
@@ -17739,6 +17739,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 320930,
+      "num": 320930,
+      "word": "妲己和石矶娘娘",
+      "onboard_time": 1705561227,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 320836,
       "num": 320836,
       "word": "阿勒泰多处雪崩上千人滞留",
@@ -18169,6 +18177,14 @@
       "onboard_time": 1704588807,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 313294,
+      "num": 257574,
+      "word": "股票",
+      "onboard_time": 1705561706,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 313279,
@@ -18907,6 +18923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 297549,
+      "num": 297549,
+      "word": "华为鸿蒙发布会",
+      "onboard_time": 1705562546,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 297531,
       "num": 297531,
       "word": "沈星回兔男郎",
@@ -19227,6 +19251,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 291430,
+      "num": 289568,
+      "word": "光与夜之恋",
+      "onboard_time": 1704604230,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 291215,
       "num": 291215,
       "word": "官方回应冰马俑是AI合成",
@@ -19368,14 +19400,6 @@
       "word": "原神 薙刀来",
       "onboard_time": 1704798932,
       "rank": 22,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 289568,
-      "num": 289568,
-      "word": "光与夜之恋",
-      "onboard_time": 1704604230,
-      "rank": 46,
       "category": "游戏"
     },
     {
@@ -19737,6 +19761,14 @@
       "onboard_time": 1704946596,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283888,
+      "num": 251733,
+      "word": "50岁的舅舅被我骂哭了",
+      "onboard_time": 1705561827,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 283842,
@@ -20505,6 +20537,14 @@
       "onboard_time": 1704521072,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269218,
+      "num": 269218,
+      "word": "江疏影目前单身",
+      "onboard_time": 1705562546,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 269175,
@@ -21811,14 +21851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250973,
-      "num": 222184,
-      "word": "50岁的舅舅被我骂哭了",
-      "onboard_time": 1705561827,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 250875,
       "num": 250875,
       "word": "庞博 年会不能停像没有花椒的饭",
@@ -22857,14 +22889,6 @@
       "onboard_time": 1704192334,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237712,
-      "num": 237712,
-      "word": "股票",
-      "onboard_time": 1705561706,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 237622,
@@ -26105,14 +26129,6 @@
       "onboard_time": 1705037429,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207559,
-      "num": 207559,
-      "word": "妲己和石矶娘娘",
-      "onboard_time": 1705561227,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 207512,
@@ -30955,6 +30971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180178,
+      "num": 180178,
+      "word": "发现姥姥没有想象中爱我",
+      "onboard_time": 1705563028,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180136,
       "num": 180136,
       "word": "维生素补剂 智商税",
@@ -31145,6 +31169,14 @@
       "onboard_time": 1705397851,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179202,
+      "num": 179202,
+      "word": "沪指收复2800点关口",
+      "onboard_time": 1705562787,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 179195,
@@ -33259,6 +33291,14 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 167020,
+      "num": 167020,
+      "word": "刘诗诗P了小狮子",
+      "onboard_time": 1705562487,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167019,
       "num": 167019,
       "word": "为什么人会长智齿",
@@ -33457,6 +33497,14 @@
       "onboard_time": 1704697769,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165960,
+      "num": 165960,
+      "word": "藏药令开播",
+      "onboard_time": 1705562367,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 165888,
@@ -35347,6 +35395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155721,
+      "num": 155721,
+      "word": "高亭宇阿合娜尔公开恋情",
+      "onboard_time": 1705562608,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155714,
       "num": 155714,
       "word": "奶奶隔屏喊话孙女赶紧回尔滨找小伙",
@@ -35697,6 +35753,14 @@
       "onboard_time": 1704985472,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153369,
+      "num": 153369,
+      "word": "三大指数已全线翻红",
+      "onboard_time": 1705562847,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 153326,
@@ -41763,6 +41827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122049,
+      "num": 122049,
+      "word": "檀健次 我这么man涂什么口红",
+      "onboard_time": 1705563209,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122021,
       "num": 122021,
       "word": "谢娜 一生要强的妈妈",
@@ -47235,6 +47307,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48166,
+      "num": 139936,
+      "word": "世界之外无限流系统",
+      "onboard_time": 1705563028,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 47970,
       "num": 47970,
       "word": "80岁爷爷说自己也曾是张万森",
@@ -47595,6 +47675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40351,
+      "num": 1384599,
+      "word": "大美中国 冰雪之约",
+      "onboard_time": 1705553551,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40194,
       "num": 40194,
       "word": "不要在负面情绪沉静太久",
@@ -47753,14 +47841,6 @@
       "onboard_time": 1704038452,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37728,
-      "num": 1307159,
-      "word": "大美中国 冰雪之约",
-      "onboard_time": 1705553551,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37317,
