@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705545749266,
+  "endTime": 1705547957118,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1739,20 +1739,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1500714,
+      "num": 1500714,
+      "word": "河南云台山妲己扮演者道歉并暂停工作",
+      "onboard_time": 1705542506,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1500079,
       "num": 1434924,
       "word": "已读乱回",
       "onboard_time": 1704546575,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1499652,
-      "num": 1499652,
-      "word": "河南云台山妲己扮演者道歉并暂停工作",
-      "onboard_time": 1705542506,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1499413,
@@ -2307,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1349873,
+      "num": 1349873,
+      "word": "华中农大教授学术造假",
+      "onboard_time": 1705545625,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1346067,
       "num": 576584,
       "word": "爱泼斯坦",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704506429,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1317787,
-      "num": 1317787,
-      "word": "连风都偏爱张小斐",
-      "onboard_time": 1704079236,
-      "rank": 6,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

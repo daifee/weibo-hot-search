@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705545749266,
+  "endTime": 1705547957118,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -403,8 +403,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1499652,
-      "num": 1499652,
+      "raw_hot": 1500714,
+      "num": 1500714,
       "word": "河南云台山妲己扮演者道歉并暂停工作",
       "onboard_time": 1705542506,
       "rank": 0,
@@ -537,6 +537,14 @@
       "onboard_time": 1705368570,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1349873,
+      "num": 1349873,
+      "word": "华中农大教授学术造假",
+      "onboard_time": 1705545625,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1341149,
@@ -705,6 +713,14 @@
       "onboard_time": 1705484970,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1181785,
+      "num": 1181785,
+      "word": "飞猪被曝3人买同趟航班价格不同",
+      "onboard_time": 1705545084,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1174071,
@@ -1099,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 923788,
+      "num": 485339,
+      "word": "上证跌破2800点",
+      "onboard_time": 1705545147,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 921240,
       "num": 921240,
       "word": "王鹤棣对秦岚贴脸开大",
@@ -1121,6 +1145,14 @@
       "onboard_time": 1705388069,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 905553,
+      "num": 905553,
+      "word": "生理变化不该被指指点点",
+      "onboard_time": 1705546046,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 904323,
@@ -1240,6 +1272,14 @@
       "word": "46岁知名麻醉科医生去世",
       "onboard_time": 1705299569,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 834445,
+      "num": 834445,
+      "word": "最高法明确禁止借婚姻索取财物",
+      "onboard_time": 1705545084,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1683,6 +1723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 705955,
+      "num": 468871,
+      "word": "胡锡进",
+      "onboard_time": 1705545747,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703634,
       "num": 703634,
       "word": "女子连吃一周腊肠左眼失明",
@@ -1809,6 +1857,14 @@
       "onboard_time": 1705215390,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 678190,
+      "num": 678190,
+      "word": "祝绪丹于正风波",
+      "onboard_time": 1705544965,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 677224,
@@ -3835,6 +3891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 372860,
+      "num": 372860,
+      "word": "A股为何创下阶段新低",
+      "onboard_time": 1705545206,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 372043,
       "num": 372043,
       "word": "大连人俱乐部解散",
@@ -3881,6 +3945,14 @@
       "onboard_time": 1705418493,
       "rank": 16,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 364094,
+      "num": 364094,
+      "word": "胡锡进曾称2800点以下遍地是黄金",
+      "onboard_time": 1705546884,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 364049,
@@ -4059,14 +4131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 342899,
-      "num": 342899,
-      "word": "最高法明确禁止借婚姻索取财物",
-      "onboard_time": 1705545084,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342673,
       "num": 342673,
       "word": "创造营亚洲学员官宣",
@@ -4105,6 +4169,14 @@
       "onboard_time": 1705192169,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 336709,
+      "num": 336709,
+      "word": "光与夜之恋电话",
+      "onboard_time": 1705546286,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 335420,
@@ -4395,14 +4467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 314029,
-      "num": 314029,
-      "word": "祝绪丹于正风波",
-      "onboard_time": 1705544965,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 313180,
       "num": 313180,
       "word": "杨紫微博之夜vlog",
@@ -4547,14 +4611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300238,
-      "num": 300238,
-      "word": "上证跌破2800点",
-      "onboard_time": 1705545147,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 300233,
       "num": 300233,
       "word": "19层",
@@ -4577,6 +4633,14 @@
       "onboard_time": 1705499911,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298419,
+      "num": 298419,
+      "word": "恋与深空正式上线",
+      "onboard_time": 1705546643,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 298108,
@@ -5515,6 +5579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242721,
+      "num": 242721,
+      "word": "电影灿烂的她定档",
+      "onboard_time": 1705546710,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242680,
       "num": 242680,
       "word": "苹果头显单绑带戴20分钟感到疼痛",
@@ -5795,14 +5867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233711,
-      "num": 233711,
-      "word": "飞猪被曝3人买同趟航班价格不同",
-      "onboard_time": 1705545084,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233445,
       "num": 233445,
       "word": "山东事业编",
@@ -6024,6 +6088,14 @@
       "word": "小熊猫带去哈尔滨的行李箱太可爱了",
       "onboard_time": 1705284388,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224268,
+      "num": 224268,
+      "word": "警方回应网红铁头直播间自曝嫖娼",
+      "onboard_time": 1705547424,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -7435,6 +7507,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 187253,
+      "num": 187253,
+      "word": "TTG官宣Lovecd离队",
+      "onboard_time": 1705547306,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187209,
       "num": 187209,
       "word": "发量少也能头包脸的公主披发",
@@ -7545,6 +7625,14 @@
       "onboard_time": 1705532718,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184112,
+      "num": 184112,
+      "word": "鸡蛋出现这一特征绝对吃不得",
+      "onboard_time": 1705546884,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 183885,
@@ -7713,14 +7801,6 @@
       "onboard_time": 1705401152,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181581,
-      "num": 181581,
-      "word": "A股为何创下阶段新低",
-      "onboard_time": 1705545206,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 181331,
@@ -7921,6 +8001,14 @@
       "onboard_time": 1705324232,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176424,
+      "num": 176424,
+      "word": "神十八神十九航天员已确定",
+      "onboard_time": 1705547905,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 176397,
@@ -8403,6 +8491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166455,
+      "num": 166455,
+      "word": "王者荣耀闪退",
+      "onboard_time": 1705547726,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166344,
       "num": 166344,
       "word": "当小猫发现一颗偷藏起来的冻干",
@@ -8555,6 +8651,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162567,
+      "num": 162567,
+      "word": "鞠婧祎陈哲远配音",
+      "onboard_time": 1705546464,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162265,
+      "num": 162265,
+      "word": "香港财政司长称对股市非常有信心",
+      "onboard_time": 1705546643,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162245,
       "num": 162245,
       "word": "看得出考的是老师",
@@ -8689,6 +8801,14 @@
       "onboard_time": 1705415612,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159768,
+      "num": 159768,
+      "word": "小狗吵架急得小猫团团转",
+      "onboard_time": 1705546529,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 159695,
@@ -8977,6 +9097,14 @@
       "onboard_time": 1705332151,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154352,
+      "num": 154352,
+      "word": "苹果将销售没有血氧检测功能的手表",
+      "onboard_time": 1705546408,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 154013,
@@ -9539,6 +9667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142997,
+      "num": 142997,
+      "word": "三星S24",
+      "onboard_time": 1705547006,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 142727,
       "num": 142727,
       "word": "易烊千玺黑调质感大片",
@@ -9801,6 +9937,14 @@
       "onboard_time": 1705222413,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138497,
+      "num": 138497,
+      "word": "萌娃叫不起爸爸大喊皇上驾崩了",
+      "onboard_time": 1705546166,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138369,
@@ -10905,14 +11049,6 @@
       "onboard_time": 1705363350,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 111960,
-      "num": 111960,
-      "word": "华中农大教授学术造假",
-      "onboard_time": 1705545625,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111866,
