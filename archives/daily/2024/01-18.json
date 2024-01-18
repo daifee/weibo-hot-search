@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705545113140,
+  "endTime": 1705545749266,
   "band_list": [
     {
       "raw_hot": 1631758,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1443517,
-      "num": 1443517,
+      "raw_hot": 1499652,
+      "num": 1499652,
       "word": "河南云台山妲己扮演者道歉并暂停工作",
       "onboard_time": 1705542506,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 657309,
+      "num": 299149,
+      "word": "对方拒绝了您的生发请求",
+      "onboard_time": 1705541185,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 655784,
       "num": 655784,
       "word": "好难 我要吃面了",
@@ -89,14 +97,6 @@
       "onboard_time": 1705542684,
       "rank": 6,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 620494,
-      "num": 287010,
-      "word": "对方拒绝了您的生发请求",
-      "onboard_time": 1705541185,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 593487,
@@ -171,6 +171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 436458,
+      "num": 436458,
+      "word": "林一刘浩存看到项圈的不同反应",
+      "onboard_time": 1705540225,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421310,
       "num": 421310,
       "word": "iPhone15价格跌至史上最低",
@@ -179,12 +187,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 413055,
-      "num": 413055,
-      "word": "林一刘浩存看到项圈的不同反应",
-      "onboard_time": 1705540225,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 409832,
+      "num": 409832,
+      "word": "AirPodsPro龙年特别款",
+      "onboard_time": 1705537529,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 405787,
@@ -219,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364967,
-      "num": 354467,
-      "word": "AirPodsPro龙年特别款",
-      "onboard_time": 1705537529,
-      "rank": 20,
-      "category": "数码"
-    },
-    {
       "raw_hot": 350106,
       "num": 350106,
       "word": "仙剑四六对打",
@@ -241,6 +241,14 @@
       "onboard_time": 1705484970,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 342899,
+      "num": 342899,
+      "word": "最高法明确禁止借婚姻索取财物",
+      "onboard_time": 1705545084,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327572,
@@ -273,6 +281,22 @@
       "onboard_time": 1705494388,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 314029,
+      "num": 314029,
+      "word": "祝绪丹于正风波",
+      "onboard_time": 1705544965,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 300238,
+      "num": 300238,
+      "word": "上证跌破2800点",
+      "onboard_time": 1705545147,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 290991,
@@ -315,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258294,
+      "num": 258294,
+      "word": "光与夜之恋古风",
+      "onboard_time": 1705544907,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252642,
       "num": 252642,
       "word": "徐志胜被家乡摇出来了",
@@ -345,6 +377,14 @@
       "onboard_time": 1705543647,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233711,
+      "num": 233711,
+      "word": "飞猪被曝3人买同趟航班价格不同",
+      "onboard_time": 1705545084,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227830,
@@ -411,6 +451,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202898,
+      "num": 202898,
+      "word": "以闪亮之名新大地图",
+      "onboard_time": 1705545206,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 198941,
+      "num": 198941,
+      "word": "外资认为A股估值够便宜",
+      "onboard_time": 1705545206,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 198499,
       "num": 198499,
       "word": "天舟七号与空间站成功对接",
@@ -475,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181581,
+      "num": 181581,
+      "word": "A股为何创下阶段新低",
+      "onboard_time": 1705545206,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179907,
       "num": 179907,
       "word": "优酷限免仙剑一三五",
@@ -499,8 +563,8 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 175014,
-      "num": 175014,
+      "raw_hot": 175911,
+      "num": 175911,
       "word": "花花代表四川文旅出战",
       "onboard_time": 1705542446,
       "rank": 28,
@@ -539,14 +603,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 168434,
-      "num": 168434,
-      "word": "光与夜之恋古风",
-      "onboard_time": 1705544907,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 163718,
       "num": 128381,
       "word": "恋与制作人",
@@ -577,6 +633,14 @@
       "onboard_time": 1705538788,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156547,
+      "num": 156547,
+      "word": "布林肯所乘波音737遭遇严重故障",
+      "onboard_time": 1705544305,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 153840,
@@ -675,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138361,
-      "num": 138361,
-      "word": "布林肯所乘波音737遭遇严重故障",
-      "onboard_time": 1705544305,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 136825,
       "num": 136825,
       "word": "勇士助理教练去世",
@@ -699,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135123,
-      "num": 135123,
-      "word": "祝绪丹于正风波",
-      "onboard_time": 1705544965,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134049,
       "num": 134049,
       "word": "什刹海偶遇章若楠滑冰",
@@ -721,14 +769,6 @@
       "onboard_time": 1705511600,
       "rank": 41,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 131062,
-      "num": 131062,
-      "word": "最高法明确禁止借婚姻索取财物",
-      "onboard_time": 1705545084,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127186,
@@ -763,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124615,
+      "num": 124615,
+      "word": "代号鸢 孙策地宫",
+      "onboard_time": 1705545447,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120794,
       "num": 120794,
       "word": "华中农大被举报教授官网个人页已删除",
@@ -777,6 +825,14 @@
       "onboard_time": 1705506329,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119192,
+      "num": 119192,
+      "word": "山东人自己的灵魂汁子",
+      "onboard_time": 1705545569,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 117927,
@@ -819,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111960,
+      "num": 111960,
+      "word": "华中农大教授学术造假",
+      "onboard_time": 1705545625,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111866,
       "num": 111866,
       "word": "高叶听到粉丝说放假45天的反应",
@@ -833,14 +897,6 @@
       "onboard_time": 1705492174,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111132,
-      "num": 111132,
-      "word": "飞猪被曝3人买同趟航班价格不同",
-      "onboard_time": 1705545084,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108213,

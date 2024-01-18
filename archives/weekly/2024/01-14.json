@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705545113140,
+  "endTime": 1705545749266,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1499652,
+      "num": 1499652,
+      "word": "河南云台山妲己扮演者道歉并暂停工作",
+      "onboard_time": 1705542506,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1473561,
       "num": 1473561,
       "word": "香港国泰航空客机与大韩航空客机在日本北海道机场相撞",
@@ -441,14 +449,6 @@
       "onboard_time": 1705382552,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1443517,
-      "num": 1443517,
-      "word": "河南云台山妲己扮演者道歉并暂停工作",
-      "onboard_time": 1705542506,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1441832,
@@ -1867,6 +1867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 657309,
+      "num": 299149,
+      "word": "对方拒绝了您的生发请求",
+      "onboard_time": 1705541185,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 656236,
       "num": 614117,
       "word": "仙剑四六对打",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1705476812,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 620494,
-      "num": 287010,
-      "word": "对方拒绝了您的生发请求",
-      "onboard_time": 1705541185,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 618804,
@@ -3259,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436458,
+      "num": 436458,
+      "word": "林一刘浩存看到项圈的不同反应",
+      "onboard_time": 1705540225,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435117,
       "num": 342964,
       "word": "陈都灵张婧仪自拍",
@@ -3403,14 +3411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413055,
-      "num": 413055,
-      "word": "林一刘浩存看到项圈的不同反应",
-      "onboard_time": 1705540225,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 412541,
       "num": 412541,
       "word": "穆里尼奥下课",
@@ -3449,6 +3449,14 @@
       "onboard_time": 1705408111,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409832,
+      "num": 409832,
+      "word": "AirPodsPro龙年特别款",
+      "onboard_time": 1705537529,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 408829,
@@ -3867,14 +3875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 364967,
-      "num": 354467,
-      "word": "AirPodsPro龙年特别款",
-      "onboard_time": 1705537529,
-      "rank": 20,
-      "category": "数码"
-    },
-    {
       "raw_hot": 364587,
       "num": 364587,
       "word": "巴黎LV大秀",
@@ -4057,6 +4057,14 @@
       "onboard_time": 1705159548,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342899,
+      "num": 342899,
+      "word": "最高法明确禁止借婚姻索取财物",
+      "onboard_time": 1705545084,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342673,
@@ -4387,6 +4395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 314029,
+      "num": 314029,
+      "word": "祝绪丹于正风波",
+      "onboard_time": 1705544965,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313180,
       "num": 313180,
       "word": "杨紫微博之夜vlog",
@@ -4529,6 +4545,14 @@
       "onboard_time": 1705212150,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300238,
+      "num": 300238,
+      "word": "上证跌破2800点",
+      "onboard_time": 1705545147,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 300233,
@@ -5195,6 +5219,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 258294,
+      "num": 258294,
+      "word": "光与夜之恋古风",
+      "onboard_time": 1705544907,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258205,
       "num": 214169,
       "word": "有人问你了吗",
@@ -5761,6 +5793,14 @@
       "onboard_time": 1705160859,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233711,
+      "num": 233711,
+      "word": "飞猪被曝3人买同趟航班价格不同",
+      "onboard_time": 1705545084,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233445,
@@ -6699,6 +6739,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 202898,
+      "num": 202898,
+      "word": "以闪亮之名新大地图",
+      "onboard_time": 1705545206,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202687,
       "num": 202687,
       "word": "公考雷达崩了",
@@ -6817,6 +6865,14 @@
       "onboard_time": 1705489408,
       "rank": 6,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 198941,
+      "num": 198941,
+      "word": "外资认为A股估值够便宜",
+      "onboard_time": 1705545206,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 198804,
@@ -7659,6 +7715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181581,
+      "num": 181581,
+      "word": "A股为何创下阶段新低",
+      "onboard_time": 1705545206,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 181331,
       "num": 181331,
       "word": "iQOO汗流浃背了",
@@ -7883,6 +7947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175911,
+      "num": 175911,
+      "word": "花花代表四川文旅出战",
+      "onboard_time": 1705542446,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175829,
       "num": 175829,
       "word": "大侦探9演唱会节目单",
@@ -7913,14 +7985,6 @@
       "onboard_time": 1705297649,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175014,
-      "num": 175014,
-      "word": "花花代表四川文旅出战",
-      "onboard_time": 1705542446,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174875,
@@ -8265,14 +8329,6 @@
       "onboard_time": 1705374208,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168434,
-      "num": 168434,
-      "word": "光与夜之恋古风",
-      "onboard_time": 1705544907,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 168433,
@@ -8809,6 +8865,14 @@
       "onboard_time": 1705283970,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156547,
+      "num": 156547,
+      "word": "布林肯所乘波音737遭遇严重故障",
+      "onboard_time": 1705544305,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 156404,
@@ -9747,14 +9811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138361,
-      "num": 138361,
-      "word": "布林肯所乘波音737遭遇严重故障",
-      "onboard_time": 1705544305,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 138353,
       "num": 1006401,
       "word": "当中国铁路遇上中国传统色",
@@ -9955,14 +10011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135123,
-      "num": 135123,
-      "word": "祝绪丹于正风波",
-      "onboard_time": 1705544965,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134758,
       "num": 134758,
       "word": "陈都灵港式甜美妆",
@@ -10089,14 +10137,6 @@
       "onboard_time": 1705334069,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 131062,
-      "num": 131062,
-      "word": "最高法明确禁止借婚姻索取财物",
-      "onboard_time": 1705545084,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130838,
@@ -10347,6 +10387,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 124615,
+      "num": 124615,
+      "word": "代号鸢 孙策地宫",
+      "onboard_time": 1705545447,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124497,
       "num": 124497,
       "word": "年度香水推荐",
@@ -10593,6 +10641,14 @@
       "onboard_time": 1705322851,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119192,
+      "num": 119192,
+      "word": "山东人自己的灵魂汁子",
+      "onboard_time": 1705545569,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 119146,
@@ -10851,6 +10907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 111960,
+      "num": 111960,
+      "word": "华中农大教授学术造假",
+      "onboard_time": 1705545625,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111866,
       "num": 111866,
       "word": "高叶听到粉丝说放假45天的反应",
@@ -10865,14 +10929,6 @@
       "onboard_time": 1705365931,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 111132,
-      "num": 111132,
-      "word": "飞猪被曝3人买同趟航班价格不同",
-      "onboard_time": 1705545084,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110972,

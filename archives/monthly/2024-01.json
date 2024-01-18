@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705545113140,
+  "endTime": 1705545749266,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1747,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1499652,
+      "num": 1499652,
+      "word": "河南云台山妲己扮演者道歉并暂停工作",
+      "onboard_time": 1705542506,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1499413,
       "num": 1499413,
       "word": "华图 敢耍老子",
@@ -1897,14 +1905,6 @@
       "onboard_time": 1705382552,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1443517,
-      "num": 1443517,
-      "word": "河南云台山妲己扮演者道歉并暂停工作",
-      "onboard_time": 1705542506,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1442805,
@@ -8027,6 +8027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 657309,
+      "num": 299149,
+      "word": "对方拒绝了您的生发请求",
+      "onboard_time": 1705541185,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 656936,
       "num": 656936,
       "word": "折腰补音完成",
@@ -8633,14 +8641,6 @@
       "onboard_time": 1704874353,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 620494,
-      "num": 287010,
-      "word": "对方拒绝了您的生发请求",
-      "onboard_time": 1705541185,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 620027,
@@ -13483,6 +13483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 436458,
+      "num": 436458,
+      "word": "林一刘浩存看到项圈的不同反应",
+      "onboard_time": 1705540225,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436116,
       "num": 436116,
       "word": "宝宝在军营被爸爸战友抢着抱",
@@ -14195,14 +14203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413055,
-      "num": 413055,
-      "word": "林一刘浩存看到项圈的不同反应",
-      "onboard_time": 1705540225,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 412881,
       "num": 412881,
       "word": "12岁肺纤维化女孩现在怎样了",
@@ -14401,6 +14401,14 @@
       "onboard_time": 1704263969,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409832,
+      "num": 409832,
+      "word": "AirPodsPro龙年特别款",
+      "onboard_time": 1705537529,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 409587,
@@ -15851,14 +15859,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 364967,
-      "num": 354467,
-      "word": "AirPodsPro龙年特别款",
-      "onboard_time": 1705537529,
-      "rank": 20,
-      "category": "数码"
-    },
-    {
       "raw_hot": 364851,
       "num": 281978,
       "word": "女孩认领遗失手机亮出的壁纸让人感动",
@@ -16521,6 +16521,14 @@
       "onboard_time": 1705159548,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342899,
+      "num": 342899,
+      "word": "最高法明确禁止借婚姻索取财物",
+      "onboard_time": 1705545084,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342830,
@@ -17763,6 +17771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 314029,
+      "num": 314029,
+      "word": "祝绪丹于正风波",
+      "onboard_time": 1705544965,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313719,
       "num": 313719,
       "word": "吸冻梨",
@@ -18369,6 +18385,14 @@
       "onboard_time": 1704687877,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 300238,
+      "num": 300238,
+      "word": "上证跌破2800点",
+      "onboard_time": 1705545147,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 300233,
@@ -20883,6 +20907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258294,
+      "num": 258294,
+      "word": "光与夜之恋古风",
+      "onboard_time": 1705544907,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258205,
       "num": 214169,
       "word": "有人问你了吗",
@@ -22793,6 +22825,14 @@
       "onboard_time": 1704088775,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233711,
+      "num": 233711,
+      "word": "飞猪被曝3人买同趟航班价格不同",
+      "onboard_time": 1705545084,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233642,
@@ -26259,6 +26299,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 202898,
+      "num": 202898,
+      "word": "以闪亮之名新大地图",
+      "onboard_time": 1705545206,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202856,
       "num": 202856,
       "word": "名侦探柯南 新兰小情侣",
@@ -27000,6 +27048,14 @@
       "word": "A股市场震荡收跌",
       "onboard_time": 1704706409,
       "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 198941,
+      "num": 198941,
+      "word": "外资认为A股估值够便宜",
+      "onboard_time": 1705545206,
+      "rank": 30,
       "category": "财经"
     },
     {
@@ -30011,6 +30067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181581,
+      "num": 181581,
+      "word": "A股为何创下阶段新低",
+      "onboard_time": 1705545206,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 181426,
       "num": 210976,
       "word": "哈尔滨亚冬会吉祥物",
@@ -30907,6 +30971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175911,
+      "num": 175911,
+      "word": "花花代表四川文旅出战",
+      "onboard_time": 1705542446,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175879,
       "num": 174831,
       "word": "钱天一晒聚餐照",
@@ -31097,14 +31169,6 @@
       "onboard_time": 1705152644,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175014,
-      "num": 175014,
-      "word": "花花代表四川文旅出战",
-      "onboard_time": 1705542446,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174986,
@@ -32321,14 +32385,6 @@
       "onboard_time": 1705374208,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168434,
-      "num": 168434,
-      "word": "光与夜之恋古风",
-      "onboard_time": 1705544907,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 168433,
@@ -34329,6 +34385,14 @@
       "onboard_time": 1704270091,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 156547,
+      "num": 156547,
+      "word": "布林肯所乘波音737遭遇严重故障",
+      "onboard_time": 1705544305,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 156485,
@@ -37707,14 +37771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138361,
-      "num": 138361,
-      "word": "布林肯所乘波音737遭遇严重故障",
-      "onboard_time": 1705544305,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 138355,
       "num": 138355,
       "word": "上海男孩离开尔滨前大哭不想走",
@@ -38393,14 +38449,6 @@
       "onboard_time": 1705190967,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135123,
-      "num": 135123,
-      "word": "祝绪丹于正风波",
-      "onboard_time": 1705544965,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 135117,
@@ -39169,14 +39217,6 @@
       "onboard_time": 1704786511,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 131062,
-      "num": 131062,
-      "word": "最高法明确禁止借婚姻索取财物",
-      "onboard_time": 1705545084,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131039,
@@ -40467,6 +40507,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 124615,
+      "num": 124615,
+      "word": "代号鸢 孙策地宫",
+      "onboard_time": 1705545447,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124601,
       "num": 124601,
       "word": "两只小羊带领小学生晨跑",
@@ -41401,6 +41449,14 @@
       "onboard_time": 1705079002,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119192,
+      "num": 119192,
+      "word": "山东人自己的灵魂汁子",
+      "onboard_time": 1705545569,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 119166,
@@ -42403,6 +42459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 111960,
+      "num": 111960,
+      "word": "华中农大教授学术造假",
+      "onboard_time": 1705545625,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111953,
       "num": 111953,
       "word": "樊振东3比2约奇克",
@@ -42456,14 +42520,6 @@
       "word": "民警6小时追回564件金饰",
       "onboard_time": 1704441030,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111132,
-      "num": 111132,
-      "word": "飞猪被曝3人买同趟航班价格不同",
-      "onboard_time": 1705545084,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
