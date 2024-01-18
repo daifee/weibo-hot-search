@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705616243229,
+  "endTime": 1705617279263,
   "band_list": [
     {
       "raw_hot": 2181146,
@@ -235,8 +235,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155916,
+      "num": 155916,
+      "word": "江苏广电诉吴秀波案将开庭",
+      "onboard_time": 1705597521,
+      "rank": 27,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 152344,
-      "num": 86422,
+      "num": 103136,
       "word": "最高检回应老干部举报当地领导被逮捕",
       "onboard_time": 1705598240,
       "rank": 22,
@@ -291,14 +299,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 121252,
-      "num": 121252,
-      "word": "江苏广电诉吴秀波案将开庭",
-      "onboard_time": 1705597521,
-      "rank": 27,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 120667,
       "num": 120667,
       "word": "原来台湾是这样丢垃圾的",
@@ -313,6 +313,14 @@
       "onboard_time": 1705568250,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119539,
+      "num": 77074,
+      "word": "有一天恶魔捡到了一个小婴儿",
+      "onboard_time": 1705599317,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 119294,
@@ -347,6 +355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112479,
+      "num": 112479,
+      "word": "他不敢用力是看戒指嵌肉里怕你疼",
+      "onboard_time": 1705605375,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100852,
       "num": 100852,
       "word": "李九 无畏需要自己思考的空间",
@@ -361,14 +377,6 @@
       "onboard_time": 1705570466,
       "rank": 41,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 95221,
-      "num": 77074,
-      "word": "有一天恶魔捡到了一个小婴儿",
-      "onboard_time": 1705599317,
-      "rank": 16,
-      "category": "动漫"
     },
     {
       "raw_hot": 93414,
@@ -433,14 +441,6 @@
       "onboard_time": 1705582170,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83053,
-      "num": 83053,
-      "word": "他不敢用力是看戒指嵌肉里怕你疼",
-      "onboard_time": 1705605375,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80543,
@@ -515,8 +515,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16820,
-      "num": 120394,
+      "raw_hot": 22377,
+      "num": 22377,
+      "word": "5个习惯减少塑料微粒风险",
+      "onboard_time": 1705615514,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20852,
+      "num": 166093,
       "word": "太空发快递可以当日达了",
       "onboard_time": 1705582650,
       "rank": 2,
@@ -529,14 +537,6 @@
       "onboard_time": 1705605554,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14454,
-      "num": 17131,
-      "word": "5个习惯减少塑料微粒风险",
-      "onboard_time": 1705615514,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 11806,
