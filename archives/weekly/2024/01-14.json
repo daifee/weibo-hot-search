@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705574266553,
+  "endTime": 1705576547983,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -216,6 +216,14 @@
       "word": "人口",
       "onboard_time": 1705486588,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1951960,
+      "num": 815016,
+      "word": "11名研究生称花一个月写125页举报信",
+      "onboard_time": 1705572331,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1451,14 +1459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 815016,
-      "num": 815016,
-      "word": "11名研究生称花一个月写125页举报信",
-      "onboard_time": 1705572331,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 806702,
       "num": 806702,
       "word": "大麦同意退款抢林俊杰变林子祥的票",
@@ -1729,6 +1729,14 @@
       "onboard_time": 1705478669,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 735671,
+      "num": 735671,
+      "word": "因板凳骨折女生称父母与其断绝关系",
+      "onboard_time": 1705573110,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733661,
@@ -2923,6 +2931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532928,
+      "num": 334659,
+      "word": "耙耙柑和丑橘是一种水果吗",
+      "onboard_time": 1705574306,
+      "rank": 20,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 531043,
       "num": 531043,
       "word": "易烊千玺写龙",
@@ -2937,6 +2953,14 @@
       "onboard_time": 1705458868,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 530812,
+      "num": 1052614,
+      "word": "清华特奖双胞胎姐妹归国任教",
+      "onboard_time": 1705571429,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530406,
@@ -3243,6 +3267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 483707,
+      "num": 483707,
+      "word": "东方甄选回应带货西梅汁检出泻药",
+      "onboard_time": 1705572205,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 482916,
       "num": 385792,
       "word": "我国打工人每周平均工作49小时",
@@ -3433,14 +3465,6 @@
       "onboard_time": 1705278151,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463978,
-      "num": 463978,
-      "word": "东方甄选回应带货西梅汁检出泻药",
-      "onboard_time": 1705572205,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 463740,
@@ -3689,6 +3713,14 @@
       "onboard_time": 1705222591,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437463,
+      "num": 437463,
+      "word": "X玖小分队龙丹妮聚餐",
+      "onboard_time": 1705575868,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 436458,
@@ -4363,6 +4395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 368975,
+      "num": 368975,
+      "word": "赵丽颖白色拖尾蓬蓬裙",
+      "onboard_time": 1705571369,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366928,
       "num": 366928,
       "word": "国考查成绩 打不开网站",
@@ -4531,14 +4571,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 351987,
-      "num": 1052614,
-      "word": "清华特奖双胞胎姐妹归国任教",
-      "onboard_time": 1705571429,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351941,
       "num": 351941,
       "word": "王者嫦娥新皮肤",
@@ -4643,6 +4675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 336100,
+      "num": 336100,
+      "word": "王楚钦孙颖莎3比0何钧杰李皓晴",
+      "onboard_time": 1705574485,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335420,
       "num": 406793,
       "word": "为什么烤红薯比蒸的好吃",
@@ -4697,6 +4737,14 @@
       "onboard_time": 1705500209,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 332028,
+      "num": 332028,
+      "word": "快递小哥3年赚108万接两娃来杭读书",
+      "onboard_time": 1705575210,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331714,
@@ -4771,14 +4819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 326592,
-      "num": 326592,
-      "word": "因板凳骨折女生称父母与其断绝关系",
-      "onboard_time": 1705573110,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324106,
       "num": 324106,
       "word": "两万五的苹果头显值得买吗",
@@ -4849,14 +4889,6 @@
       "onboard_time": 1705570588,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321145,
-      "num": 321145,
-      "word": "赵丽颖白色拖尾蓬蓬裙",
-      "onboard_time": 1705571369,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 320836,
@@ -5395,6 +5427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287757,
+      "num": 287757,
+      "word": "DYG有打野了",
+      "onboard_time": 1705573769,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 287469,
       "num": 248146,
       "word": "恋与深空全球裸眼3D大屏",
@@ -5657,6 +5697,14 @@
       "onboard_time": 1705296990,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 274078,
+      "num": 274078,
+      "word": "恋与深空 3D恋爱",
+      "onboard_time": 1705575448,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 274052,
@@ -6179,14 +6227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247267,
-      "num": 247267,
-      "word": "DYG有打野了",
-      "onboard_time": 1705573769,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 247182,
       "num": 247182,
       "word": "爷爷去世后奶奶独自从早待到晚",
@@ -6281,6 +6321,14 @@
       "onboard_time": 1705497628,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242895,
+      "num": 242895,
+      "word": "湖南成暴雪中心",
+      "onboard_time": 1705572751,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242680,
@@ -6617,6 +6665,14 @@
       "onboard_time": 1705475853,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231903,
+      "num": 231903,
+      "word": "最惊艳的仙剑系列女主",
+      "onboard_time": 1705576170,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 231805,
@@ -7891,14 +7947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196446,
-      "num": 196446,
-      "word": "湖南成暴雪中心",
-      "onboard_time": 1705572751,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196416,
       "num": 196416,
       "word": "陈泽说我有恋丑癖",
@@ -8051,6 +8099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193696,
+      "num": 193696,
+      "word": "DYG夏凌",
+      "onboard_time": 1705575990,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193627,
       "num": 193627,
       "word": "或许这就是无畏的意义",
@@ -8065,6 +8121,14 @@
       "onboard_time": 1705460909,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 193289,
+      "num": 193289,
+      "word": "肖战获影视榜样人气男演员奖",
+      "onboard_time": 1705574606,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 192846,
@@ -8889,6 +8953,14 @@
       "onboard_time": 1705188020,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178408,
+      "num": 178408,
+      "word": "网易诉暴雪案今日开庭取消",
+      "onboard_time": 1705575329,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 178357,
@@ -10643,6 +10715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145904,
+      "num": 145904,
+      "word": "KSG 流浪",
+      "onboard_time": 1705576525,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145749,
       "num": 145749,
       "word": "四川人你们怎么不笑了",
@@ -10835,6 +10915,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 143238,
+      "num": 143238,
+      "word": "祈今朝直播",
+      "onboard_time": 1705574908,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143083,
       "num": 143083,
       "word": "六公主镜头下的高清红毯群像",
@@ -10889,6 +10977,14 @@
       "onboard_time": 1705400732,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142241,
+      "num": 142241,
+      "word": "王雅繁vs拉杜卡努",
+      "onboard_time": 1705575268,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 142185,
@@ -11393,6 +11489,14 @@
       "onboard_time": 1705217311,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133205,
+      "num": 765172,
+      "word": "他们一心着急灭火没注意满身结冰",
+      "onboard_time": 1705574306,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133121,
@@ -13459,6 +13563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 47691,
+      "num": 500282,
+      "word": "劲酒你在支付宝的样子让我陌生",
+      "onboard_time": 1705575631,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46249,
       "num": 530605,
       "word": "数一数湖南的压箱底宝贝",
@@ -13569,6 +13681,14 @@
       "onboard_time": 1705514177,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 40575,
+      "num": 383956,
+      "word": "余承东称鸿蒙生态属于每一位开发者",
+      "onboard_time": 1705574129,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 40522,
@@ -13785,14 +13905,6 @@
       "onboard_time": 1705130496,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22054,
-      "num": 122561,
-      "word": "余承东称鸿蒙生态属于每一位开发者",
-      "onboard_time": 1705574129,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 20944,

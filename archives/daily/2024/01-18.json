@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705574266553,
+  "endTime": 1705576547983,
   "band_list": [
     {
       "raw_hot": 2719567,
@@ -33,6 +33,14 @@
       "onboard_time": 1705554151,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1951960,
+      "num": 815016,
+      "word": "11名研究生称花一个月写125页举报信",
+      "onboard_time": 1705572331,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1631758,
@@ -227,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 815016,
-      "num": 815016,
-      "word": "11名研究生称花一个月写125页举报信",
-      "onboard_time": 1705572331,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 806702,
       "num": 806702,
       "word": "大麦同意退款抢林俊杰变林子祥的票",
@@ -265,6 +265,14 @@
       "onboard_time": 1705570466,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 735671,
+      "num": 735671,
+      "word": "因板凳骨折女生称父母与其断绝关系",
+      "onboard_time": 1705573110,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 708920,
@@ -435,6 +443,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 532928,
+      "num": 334659,
+      "word": "耙耙柑和丑橘是一种水果吗",
+      "onboard_time": 1705574306,
+      "rank": 20,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 530812,
+      "num": 1052614,
+      "word": "清华特奖双胞胎姐妹归国任教",
+      "onboard_time": 1705571429,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527797,
       "num": 527797,
       "word": "大侦探9",
@@ -481,6 +505,14 @@
       "onboard_time": 1705552534,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 483707,
+      "num": 483707,
+      "word": "东方甄选回应带货西梅汁检出泻药",
+      "onboard_time": 1705572205,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 482916,
@@ -539,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 463978,
-      "num": 463978,
-      "word": "东方甄选回应带货西梅汁检出泻药",
-      "onboard_time": 1705572205,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 460169,
       "num": 395486,
       "word": "举报县委书记后被捕的老干部无犯罪事实",
@@ -600,6 +624,14 @@
       "word": "外媒曝豆荚猫被哥哥家暴",
       "onboard_time": 1705563929,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 437463,
+      "num": 437463,
+      "word": "X玖小分队龙丹妮聚餐",
+      "onboard_time": 1705575868,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -739,20 +771,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 368975,
+      "num": 368975,
+      "word": "赵丽颖白色拖尾蓬蓬裙",
+      "onboard_time": 1705571369,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361328,
       "num": 361328,
       "word": "檀健次 我这么man涂什么口红",
       "onboard_time": 1705563209,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 351987,
-      "num": 1052614,
-      "word": "清华特奖双胞胎姐妹归国任教",
-      "onboard_time": 1705571429,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350106,
@@ -787,6 +819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 336100,
+      "num": 336100,
+      "word": "王楚钦孙颖莎3比0何钧杰李皓晴",
+      "onboard_time": 1705574485,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332953,
       "num": 332953,
       "word": "徐明浩男大回国",
@@ -795,20 +835,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332028,
+      "num": 332028,
+      "word": "快递小哥3年赚108万接两娃来杭读书",
+      "onboard_time": 1705575210,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327572,
       "num": 327572,
       "word": "又给优酷蹭到了",
       "onboard_time": 1705499130,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 326592,
-      "num": 326592,
-      "word": "因板凳骨折女生称父母与其断绝关系",
-      "onboard_time": 1705573110,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325431,
@@ -841,14 +881,6 @@
       "onboard_time": 1705570588,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321145,
-      "num": 321145,
-      "word": "赵丽颖白色拖尾蓬蓬裙",
-      "onboard_time": 1705571369,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 317216,
@@ -931,6 +963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287757,
+      "num": 287757,
+      "word": "DYG有打野了",
+      "onboard_time": 1705573769,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 286677,
       "num": 286677,
       "word": "杨幂的龙年穿搭",
@@ -1009,6 +1049,14 @@
       "onboard_time": 1705546046,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 274078,
+      "num": 274078,
+      "word": "恋与深空 3D恋爱",
+      "onboard_time": 1705575448,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 274052,
@@ -1123,14 +1171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247267,
-      "num": 247267,
-      "word": "DYG有打野了",
-      "onboard_time": 1705573769,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 246311,
       "num": 246311,
       "word": "仙剑四爱奇艺热度破7000",
@@ -1139,12 +1179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242895,
+      "num": 242895,
+      "word": "湖南成暴雪中心",
+      "onboard_time": 1705572751,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238332,
       "num": 238332,
       "word": "宋轶背上了文咏珊送的包",
       "onboard_time": 1705497090,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237656,
+      "num": 237656,
+      "word": "恋与深空",
+      "onboard_time": 1705493788,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 235847,
@@ -1161,6 +1217,14 @@
       "onboard_time": 1705563028,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 231903,
+      "num": 231903,
+      "word": "最惊艳的仙剑系列女主",
+      "onboard_time": 1705576170,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 230952,
@@ -1249,6 +1313,14 @@
       "onboard_time": 1705533140,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216832,
+      "num": 216832,
+      "word": "祈今朝",
+      "onboard_time": 1705539928,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 215630,
@@ -1411,14 +1483,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 196446,
-      "num": 196446,
-      "word": "湖南成暴雪中心",
-      "onboard_time": 1705572751,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196346,
       "num": 196346,
       "word": "腊八",
@@ -1459,12 +1523,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193696,
+      "num": 193696,
+      "word": "DYG夏凌",
+      "onboard_time": 1705575990,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193447,
       "num": 193447,
       "word": "无畏说小义没有背刺兄弟",
       "onboard_time": 1705501471,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193289,
+      "num": 193289,
+      "word": "肖战获影视榜样人气男演员奖",
+      "onboard_time": 1705574606,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 192665,
@@ -1512,14 +1592,6 @@
       "word": "张若昀又演法医了",
       "onboard_time": 1705561529,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 187608,
-      "num": 187608,
-      "word": "祈今朝",
-      "onboard_time": 1705539928,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1603,6 +1675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178408,
+      "num": 178408,
+      "word": "网易诉暴雪案今日开庭取消",
+      "onboard_time": 1705575329,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178129,
       "num": 178129,
       "word": "三大指数已全线翻红",
@@ -1649,14 +1729,6 @@
       "onboard_time": 1705567950,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173656,
-      "num": 173656,
-      "word": "恋与深空",
-      "onboard_time": 1705493788,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 172386,
@@ -1995,6 +2067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 145904,
+      "num": 145904,
+      "word": "KSG 流浪",
+      "onboard_time": 1705576525,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145862,
       "num": 145862,
       "word": "恋与深空全球多地区登顶",
@@ -2027,12 +2107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143238,
+      "num": 143238,
+      "word": "祈今朝直播",
+      "onboard_time": 1705574908,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142997,
       "num": 142997,
       "word": "三星S24",
       "onboard_time": 1705547006,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 142241,
+      "num": 142241,
+      "word": "王雅繁vs拉杜卡努",
+      "onboard_time": 1705575268,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 141603,
@@ -2113,6 +2209,14 @@
       "onboard_time": 1705511600,
       "rank": 41,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 133205,
+      "num": 765172,
+      "word": "他们一心着急灭火没注意满身结冰",
+      "onboard_time": 1705574306,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131810,
@@ -2587,6 +2691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 47691,
+      "num": 500282,
+      "word": "劲酒你在支付宝的样子让我陌生",
+      "onboard_time": 1705575631,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45806,
       "num": 355525,
       "word": "锣鼓喧天的山东乡村",
@@ -2609,6 +2721,14 @@
       "onboard_time": 1705514177,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 40575,
+      "num": 383956,
+      "word": "余承东称鸿蒙生态属于每一位开发者",
+      "onboard_time": 1705574129,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 40441,
@@ -2673,14 +2793,6 @@
       "onboard_time": 1705513338,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 22054,
-      "num": 122561,
-      "word": "余承东称鸿蒙生态属于每一位开发者",
-      "onboard_time": 1705574129,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 17823,

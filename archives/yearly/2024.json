@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705574266553,
+  "endTime": 1705576547983,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -913,6 +913,14 @@
       "onboard_time": 1705147484,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1951960,
+      "num": 815016,
+      "word": "11名研究生称花一个月写125页举报信",
+      "onboard_time": 1705572331,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1936072,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705568250,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1338489,
-      "num": 931253,
-      "word": "于正再次为张檬写长文",
-      "onboard_time": 1704777811,
-      "rank": 11,
-      "category": "综艺,艺人"
     }
   ],
   "hotgov_list": [
