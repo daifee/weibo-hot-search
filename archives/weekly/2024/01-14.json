@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705552528867,
+  "endTime": 1705555059198,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -83,6 +83,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2321866,
+      "num": 607039,
+      "word": "2800",
+      "onboard_time": 1705550968,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2316181,
       "num": 2316181,
       "word": "华中农大教授学术造假",
@@ -105,14 +113,6 @@
       "onboard_time": 1705460487,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2214600,
-      "num": 607039,
-      "word": "2800",
-      "onboard_time": 1705550968,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 2170273,
@@ -627,6 +627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1275281,
+      "num": 1275281,
+      "word": "市委书记不打招呼调研高中被门卫阻拦",
+      "onboard_time": 1705552112,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1257582,
       "num": 366993,
       "word": "儿子谎称睾丸破裂骗摆摊父亲30万",
@@ -825,6 +833,14 @@
       "onboard_time": 1705536746,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1097815,
+      "num": 544906,
+      "word": "6年前蒋劲夫6900多万演男一",
+      "onboard_time": 1705554151,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1095666,
@@ -1091,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 953199,
+      "num": 953199,
+      "word": "辛芷蕾再现臭yue名场面",
+      "onboard_time": 1705551267,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 951616,
       "num": 951616,
       "word": "2022届本科生平均月入近6千",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1705299569,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 834607,
+      "num": 834607,
+      "word": "郝劭文就女儿被霸凌事件再发声",
+      "onboard_time": 1705553070,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 834445,
@@ -1753,6 +1785,14 @@
       "onboard_time": 1705481368,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 706977,
+      "num": 706977,
+      "word": "现在看封腾",
+      "onboard_time": 1705551386,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 705955,
@@ -2451,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584423,
+      "num": 584423,
+      "word": "英雄联盟手游代言人 王俊凯赵露思",
+      "onboard_time": 1705551690,
+      "rank": 42,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 584203,
       "num": 584203,
       "word": "水均益女儿从央视离职后宣布直播带货",
@@ -2723,6 +2771,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 536428,
+      "num": 536428,
+      "word": "番位笑话",
+      "onboard_time": 1705552652,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 536050,
       "num": 536050,
       "word": "奚梦瑶何猷君感情好的原因",
@@ -2777,6 +2833,14 @@
       "onboard_time": 1705488750,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 527797,
+      "num": 527797,
+      "word": "大侦探9",
+      "onboard_time": 1705553312,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 526828,
@@ -3019,6 +3083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 486917,
+      "num": 486917,
+      "word": "基金",
+      "onboard_time": 1705552534,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 484261,
       "num": 484261,
       "word": "王一博 小滑一步",
@@ -3195,14 +3267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 462480,
-      "num": 462480,
-      "word": "辛芷蕾再现臭yue名场面",
-      "onboard_time": 1705551267,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 462379,
       "num": 462379,
       "word": "博主质疑吉林文旅用张起灵宣传不妥",
@@ -3241,6 +3305,14 @@
       "onboard_time": 1705504651,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459540,
+      "num": 459540,
+      "word": "想恋爱的心突然就收回来了",
+      "onboard_time": 1705550551,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 458243,
@@ -3305,14 +3377,6 @@
       "onboard_time": 1705498053,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 450286,
-      "num": 450286,
-      "word": "英雄联盟手游代言人 王俊凯赵露思",
-      "onboard_time": 1705551690,
-      "rank": 42,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 446403,
@@ -3723,14 +3787,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 395029,
-      "num": 395029,
-      "word": "想恋爱的心突然就收回来了",
-      "onboard_time": 1705550551,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 394689,
       "num": 394689,
       "word": "小时候那批被打压式教育的人当爸妈了",
@@ -3956,7 +4012,7 @@
     },
     {
       "raw_hot": 375756,
-      "num": 301532,
+      "num": 312229,
       "word": "狗狗不理解但尊重猫猫的行为",
       "onboard_time": 1705550187,
       "rank": 21,
@@ -4065,6 +4121,14 @@
       "onboard_time": 1705405887,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 363773,
+      "num": 363773,
+      "word": "卡琳娜复更",
+      "onboard_time": 1705554511,
+      "rank": 18,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 362189,
@@ -4315,6 +4379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332953,
+      "num": 332953,
+      "word": "徐明浩男大回国",
+      "onboard_time": 1705553851,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332227,
       "num": 332227,
       "word": "LV大秀",
@@ -4337,14 +4409,6 @@
       "onboard_time": 1705389630,
       "rank": 31,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 331688,
-      "num": 331688,
-      "word": "现在看封腾",
-      "onboard_time": 1705551386,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 331134,
@@ -5147,6 +5211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 274539,
+      "num": 274539,
+      "word": "彩礼",
+      "onboard_time": 1705554572,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274344,
       "num": 274344,
       "word": "阿信新加坡演唱会破音被调侃宝娟嗓",
@@ -5611,6 +5683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248476,
+      "num": 248476,
+      "word": "罗云熙新剧演龙王",
+      "onboard_time": 1705553429,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248424,
       "num": 657117,
       "word": "大熊猫临近下班哐哐敲门等不了",
@@ -5744,6 +5824,14 @@
       "word": "赵丽颖河北小作文",
       "onboard_time": 1705486052,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 241849,
+      "num": 241849,
+      "word": "侃爷610万假牙",
+      "onboard_time": 1705554511,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -6083,6 +6171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230065,
+      "num": 230065,
+      "word": "是黎深不是曹操",
+      "onboard_time": 1705554328,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229552,
       "num": 229552,
       "word": "赵丽颖第二十条定格照",
@@ -6387,6 +6483,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 218923,
+      "num": 218923,
+      "word": "世界之外 能不能改改立绘",
+      "onboard_time": 1705554870,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218617,
       "num": 218617,
       "word": "因为不够上进朋友要跟我绝交",
@@ -6539,12 +6643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214811,
+      "num": 214811,
+      "word": "微星 拒绝内耗从删男友游戏开始",
+      "onboard_time": 1705553189,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 214650,
       "num": 214650,
       "word": "苏醒全英文接受采访",
       "onboard_time": 1705304908,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214385,
+      "num": 214385,
+      "word": "华中农大举报学生望严惩造假者",
+      "onboard_time": 1705554392,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214231,
@@ -6768,14 +6888,6 @@
       "word": "各省网友为文旅局长疯狂揽活",
       "onboard_time": 1705294891,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206685,
-      "num": 206685,
-      "word": "市委书记不打招呼调研高中被门卫阻拦",
-      "onboard_time": 1705552112,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -7361,6 +7473,14 @@
       "onboard_time": 1705392454,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192665,
+      "num": 192665,
+      "word": "LOL手游华彩迎春",
+      "onboard_time": 1705554929,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 192599,
@@ -8203,6 +8323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176402,
+      "num": 176402,
+      "word": "安心终于离了",
+      "onboard_time": 1705554690,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176397,
       "num": 176397,
       "word": "2023年国民经济运行情况",
@@ -8499,6 +8627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170356,
+      "num": 170356,
+      "word": "鸣潮奏鸣测试",
+      "onboard_time": 1705554988,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170314,
       "num": 170314,
       "word": "她是蔡磊最坚强的后盾",
@@ -8785,6 +8921,14 @@
       "onboard_time": 1705449566,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164636,
+      "num": 164636,
+      "word": "腊八",
+      "onboard_time": 1705555049,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164549,
@@ -11875,6 +12019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78792,
+      "num": 963984,
+      "word": "腊八节曾是古老的狂欢节",
+      "onboard_time": 1705554030,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78522,
       "num": 78522,
       "word": "陈楚生 糊没事有彦斌",
@@ -12169,6 +12321,14 @@
       "onboard_time": 1705445959,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 60658,
+      "num": 338065,
+      "word": "你知道拥抱的温度是0.5度吗",
+      "onboard_time": 1705553789,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 60211,

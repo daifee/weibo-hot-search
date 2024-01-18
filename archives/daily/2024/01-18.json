@@ -1,7 +1,15 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705552528867,
+  "endTime": 1705555059198,
   "band_list": [
+    {
+      "raw_hot": 2321866,
+      "num": 607039,
+      "word": "2800",
+      "onboard_time": 1705550968,
+      "rank": 10,
+      "category": "财经"
+    },
     {
       "raw_hot": 2316181,
       "num": 2316181,
@@ -9,14 +17,6 @@
       "onboard_time": 1705545625,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2214600,
-      "num": 607039,
-      "word": "2800",
-      "onboard_time": 1705550968,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 1631758,
@@ -51,6 +51,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1275281,
+      "num": 1275281,
+      "word": "市委书记不打招呼调研高中被门卫阻拦",
+      "onboard_time": 1705552112,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1174071,
       "num": 1174071,
       "word": "腊八节",
@@ -65,6 +73,14 @@
       "onboard_time": 1705536746,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1097815,
+      "num": 544906,
+      "word": "6年前蒋劲夫6900多万演男一",
+      "onboard_time": 1705554151,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1075983,
@@ -99,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 953199,
+      "num": 953199,
+      "word": "辛芷蕾再现臭yue名场面",
+      "onboard_time": 1705551267,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 923788,
       "num": 485339,
       "word": "上证跌破2800点",
@@ -113,6 +137,14 @@
       "onboard_time": 1705537107,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 834607,
+      "num": 834607,
+      "word": "郝劭文就女儿被霸凌事件再发声",
+      "onboard_time": 1705553070,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 834445,
@@ -145,6 +177,14 @@
       "onboard_time": 1705548328,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 706977,
+      "num": 706977,
+      "word": "现在看封腾",
+      "onboard_time": 1705551386,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 705955,
@@ -235,12 +275,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584423,
+      "num": 584423,
+      "word": "英雄联盟手游代言人 王俊凯赵露思",
+      "onboard_time": 1705551690,
+      "rank": 42,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 555831,
       "num": 326954,
       "word": "华中农大涉嫌学术不端教授多项专利被驳回",
       "onboard_time": 1705490966,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536428,
+      "num": 536428,
+      "word": "番位笑话",
+      "onboard_time": 1705552652,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 527797,
+      "num": 527797,
+      "word": "大侦探9",
+      "onboard_time": 1705553312,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 526828,
@@ -267,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 486917,
+      "num": 486917,
+      "word": "基金",
+      "onboard_time": 1705552534,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 480723,
       "num": 480723,
       "word": "女童送医后死亡其父被刑拘",
@@ -275,20 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462480,
-      "num": 462480,
-      "word": "辛芷蕾再现臭yue名场面",
-      "onboard_time": 1705551267,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 460169,
       "num": 395486,
       "word": "举报县委书记后被捕的老干部无犯罪事实",
       "onboard_time": 1705504651,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459540,
+      "num": 459540,
+      "word": "想恋爱的心突然就收回来了",
+      "onboard_time": 1705550551,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 455062,
@@ -305,14 +377,6 @@
       "onboard_time": 1705539687,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 450286,
-      "num": 450286,
-      "word": "英雄联盟手游代言人 王俊凯赵露思",
-      "onboard_time": 1705551690,
-      "rank": 42,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 436458,
@@ -371,14 +435,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 395029,
-      "num": 395029,
-      "word": "想恋爱的心突然就收回来了",
-      "onboard_time": 1705550551,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 375992,
       "num": 375992,
       "word": "村里停电新能源车变身老人生命充电桩",
@@ -388,7 +444,7 @@
     },
     {
       "raw_hot": 375756,
-      "num": 301532,
+      "num": 312229,
       "word": "狗狗不理解但尊重猫猫的行为",
       "onboard_time": 1705550187,
       "rank": 21,
@@ -401,6 +457,14 @@
       "onboard_time": 1705545206,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 363773,
+      "num": 363773,
+      "word": "卡琳娜复更",
+      "onboard_time": 1705554511,
+      "rank": 18,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 350106,
@@ -427,12 +491,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 331688,
-      "num": 331688,
-      "word": "现在看封腾",
-      "onboard_time": 1705551386,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 332953,
+      "num": 332953,
+      "word": "徐明浩男大回国",
+      "onboard_time": 1705553851,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 327572,
@@ -515,6 +579,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 274539,
+      "num": 274539,
+      "word": "彩礼",
+      "onboard_time": 1705554572,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274052,
       "num": 274052,
       "word": "云台山妲己coser",
@@ -571,6 +643,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248476,
+      "num": 248476,
+      "word": "罗云熙新剧演龙王",
+      "onboard_time": 1705553429,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 241849,
+      "num": 241849,
+      "word": "侃爷610万假牙",
+      "onboard_time": 1705554511,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238332,
       "num": 238332,
       "word": "宋轶背上了文咏珊送的包",
@@ -585,6 +673,14 @@
       "onboard_time": 1705543647,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230065,
+      "num": 230065,
+      "word": "是黎深不是曹操",
+      "onboard_time": 1705554328,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 227830,
@@ -609,6 +705,14 @@
       "onboard_time": 1705498892,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218923,
+      "num": 218923,
+      "word": "世界之外 能不能改改立绘",
+      "onboard_time": 1705554870,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 218135,
@@ -643,20 +747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214811,
+      "num": 214811,
+      "word": "微星 拒绝内耗从删男友游戏开始",
+      "onboard_time": 1705553189,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 214385,
+      "num": 214385,
+      "word": "华中农大举报学生望严惩造假者",
+      "onboard_time": 1705554392,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213709,
       "num": 213709,
       "word": "祈今朝怪物长得好像新浪微博",
       "onboard_time": 1705538246,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206685,
-      "num": 206685,
-      "word": "市委书记不打招呼调研高中被门卫阻拦",
-      "onboard_time": 1705552112,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203557,
@@ -745,6 +857,14 @@
       "onboard_time": 1705501471,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192665,
+      "num": 192665,
+      "word": "LOL手游华彩迎春",
+      "onboard_time": 1705554929,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 192397,
@@ -851,6 +971,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 176402,
+      "num": 176402,
+      "word": "安心终于离了",
+      "onboard_time": 1705554690,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175911,
       "num": 175911,
       "word": "花花代表四川文旅出战",
@@ -891,6 +1019,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 170356,
+      "num": 170356,
+      "word": "鸣潮奏鸣测试",
+      "onboard_time": 1705554988,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168779,
       "num": 168779,
       "word": "这3种喝粥方式可能伤胃又致癌",
@@ -913,6 +1049,14 @@
       "onboard_time": 1705552353,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 164636,
+      "num": 164636,
+      "word": "腊八",
+      "onboard_time": 1705555049,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163718,
@@ -1387,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78792,
+      "num": 963984,
+      "word": "腊八节曾是古老的狂欢节",
+      "onboard_time": 1705554030,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76731,
       "num": 76731,
       "word": "仙剑四选角",
@@ -1457,6 +1609,14 @@
       "onboard_time": 1705495830,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 60658,
+      "num": 338065,
+      "word": "你知道拥抱的温度是0.5度吗",
+      "onboard_time": 1705553789,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 58896,
