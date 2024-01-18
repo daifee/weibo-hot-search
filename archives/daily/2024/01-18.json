@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705559037607,
+  "endTime": 1705559857546,
   "band_list": [
     {
       "raw_hot": 2321866,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1198810,
+      "num": 1198810,
+      "word": "一中国籍女子在韩抽脂手术后死亡",
+      "onboard_time": 1705557089,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1174071,
       "num": 1174071,
       "word": "腊八节",
@@ -96,14 +104,6 @@
       "word": "男大学生抽走女同学板凳致其骨折",
       "onboard_time": 1705536386,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1023354,
-      "num": 1023354,
-      "word": "一中国籍女子在韩抽脂手术后死亡",
-      "onboard_time": 1705557089,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -371,6 +371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 482299,
+      "num": 482299,
+      "word": "秦海璐被迪丽热巴吓哭了",
+      "onboard_time": 1705558706,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 480723,
       "num": 480723,
       "word": "女童送医后死亡其父被刑拘",
@@ -427,8 +435,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 451495,
-      "num": 451495,
+      "raw_hot": 453141,
+      "num": 453141,
       "word": "倪萍辟谣整容",
       "onboard_time": 1705557448,
       "rank": 12,
@@ -491,6 +499,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 382298,
+      "num": 382298,
+      "word": "KPL有自己的许沁",
+      "onboard_time": 1705558050,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 375992,
       "num": 375992,
       "word": "村里停电新能源车变身老人生命充电桩",
@@ -513,6 +529,14 @@
       "onboard_time": 1705545206,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 360825,
+      "num": 360825,
+      "word": "举报导师的学生称接受不了论文是假的",
+      "onboard_time": 1705559067,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350106,
@@ -595,14 +619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 297997,
-      "num": 297997,
-      "word": "秦海璐被迪丽热巴吓哭了",
-      "onboard_time": 1705558706,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 290991,
       "num": 290991,
       "word": "仙剑四特效",
@@ -665,14 +681,6 @@
       "onboard_time": 1705548267,
       "rank": 22,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 273762,
-      "num": 273762,
-      "word": "KPL有自己的许沁",
-      "onboard_time": 1705558050,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 271657,
@@ -795,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230952,
+      "num": 230952,
+      "word": "俞敏洪再谈东方甄选风波",
+      "onboard_time": 1705558826,
+      "rank": 43,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 227830,
       "num": 211528,
       "word": "点外卖遇到了离职侠",
@@ -899,6 +915,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 201368,
+      "num": 201368,
+      "word": "阴阳师",
+      "onboard_time": 1705559726,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 199589,
+      "num": 199589,
+      "word": "齐司礼 量身定做",
+      "onboard_time": 1705559606,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 199167,
       "num": 199167,
       "word": "王者荣耀闪退",
@@ -987,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191882,
+      "num": 191882,
+      "word": "花楼担任eStar主教练",
+      "onboard_time": 1705559550,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191727,
       "num": 191727,
       "word": "朱一龙巴黎时装周",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1705549588,
       "rank": 40,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 186312,
+      "num": 186312,
+      "word": "拉椅子致同学重伤父母被判赔10万",
+      "onboard_time": 1705559550,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185679,
@@ -1123,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172227,
+      "num": 172227,
+      "word": "光夜 老公你看他",
+      "onboard_time": 1705557988,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171912,
       "num": 171912,
       "word": "基金称短期A股市场处于筑底阶段",
@@ -1169,14 +1225,6 @@
       "onboard_time": 1705552353,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 164457,
-      "num": 164457,
-      "word": "光夜 老公你看他",
-      "onboard_time": 1705557988,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 163718,
@@ -1243,6 +1291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158890,
+      "num": 158890,
+      "word": "吴晓求谈A股",
+      "onboard_time": 1705559368,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156547,
       "num": 156547,
       "word": "布林肯所乘波音737遭遇严重故障",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1705548628,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155312,
+      "num": 155312,
+      "word": "大咖指导炒股从赚2万到亏13万",
+      "onboard_time": 1705558706,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 154352,
@@ -1323,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146748,
+      "num": 146748,
+      "word": "钝感力是阴阳怪气的克星",
+      "onboard_time": 1705558409,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146596,
       "num": 146596,
       "word": "杭州财神咖啡",
@@ -1345,22 +1417,6 @@
       "onboard_time": 1705501172,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 143160,
-      "num": 143160,
-      "word": "俞敏洪再谈东方甄选风波",
-      "onboard_time": 1705558826,
-      "rank": 43,
-      "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 143096,
-      "num": 143096,
-      "word": "钝感力是阴阳怪气的克星",
-      "onboard_time": 1705558409,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 142997,
@@ -1393,14 +1449,6 @@
       "onboard_time": 1705496669,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139217,
-      "num": 139217,
-      "word": "大咖指导炒股从赚2万到亏13万",
-      "onboard_time": 1705558706,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 138497,

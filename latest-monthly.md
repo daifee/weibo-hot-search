@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/18 14:23:57
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/18 14:37:37
 </p>
 </blockquote>
 <p>
@@ -2211,6 +2211,12 @@ A先生 胡歌的脸（热度：1234335）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%9F%A9%E6%8A%BD%E8%84%82%E6%89%8B%E6%9C%AF%E5%90%8E%E6%AD%BB%E4%BA%A1%23" target="weibo">
+一中国籍女子在韩抽脂手术后死亡（热度：1198810）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%BF%918%E4%BA%BF%E4%BA%BA%E5%B7%A5%E8%B5%84%E8%90%BD%E5%90%8E%E4%BA%8E%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%23" target="weibo">
 全球近8亿人工资落后于通货膨胀（热度：1197524）
 </a>
@@ -2957,12 +2963,6 @@ A先生李李恋情（热度：1095743）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E5%93%AD%E4%BA%86%23" target="weibo">
 高叶哭了（热度：1023813）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%9F%A9%E6%8A%BD%E8%84%82%E6%89%8B%E6%9C%AF%E5%90%8E%E6%AD%BB%E4%BA%A1%23" target="weibo">
-一中国籍女子在韩抽脂手术后死亡（热度：1023354）
 </a>
 </li>
 
