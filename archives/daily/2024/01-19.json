@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705599244828,
+  "endTime": 1705602156479,
   "band_list": [
     {
       "raw_hot": 2181146,
@@ -73,6 +73,14 @@
       "onboard_time": 1705594764,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411916,
+      "num": 124071,
+      "word": "华中农大",
+      "onboard_time": 1705584871,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 357033,
@@ -227,20 +235,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152344,
+      "num": 86422,
+      "word": "最高检回应老干部举报当地领导被逮捕",
+      "onboard_time": 1705598240,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138730,
       "num": 138730,
       "word": "当00后开始负责置办年货",
       "onboard_time": 1705587809,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138074,
-      "num": 124071,
-      "word": "华中农大",
-      "onboard_time": 1705584871,
-      "rank": 33,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 133940,
@@ -329,6 +337,14 @@
       "onboard_time": 1705591230,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106765,
+      "num": 106765,
+      "word": "江苏广电诉吴秀波案将开庭",
+      "onboard_time": 1705597521,
+      "rank": 27,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 100852,
@@ -435,20 +451,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79215,
-      "num": 79215,
-      "word": "最高检回应老干部举报当地领导被逮捕",
-      "onboard_time": 1705598240,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 68127,
+      "num": 68127,
+      "word": "有一天恶魔捡到了一个小婴儿",
+      "onboard_time": 1705599317,
+      "rank": 16,
+      "category": "动漫"
     },
     {
-      "raw_hot": 73157,
-      "num": 73157,
-      "word": "江苏广电诉吴秀波案将开庭",
-      "onboard_time": 1705597521,
-      "rank": 27,
-      "category": "社会新闻,艺人"
+      "raw_hot": 40177,
+      "num": 40177,
+      "word": "乙游大战战况分析",
+      "onboard_time": 1705599737,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 37311,
+      "num": 37311,
+      "word": "虞书欣新剧本体是条大粉鱼",
+      "onboard_time": 1705601416,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 34225,
