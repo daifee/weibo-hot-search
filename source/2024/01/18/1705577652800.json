@@ -1,0 +1,410 @@
+{
+  "runTime": 1705577652800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1505941,
+        "num": 1505941,
+        "word": "彩礼",
+        "onboard_time": 1705554572,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621821,
+        "num": 1196994,
+        "word": "清华特奖双胞胎姐妹归国任教",
+        "onboard_time": 1705571429,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21628,
+        "num": 1059400,
+        "word": "大美中国 冰雪之约",
+        "onboard_time": 1705553551,
+        "rank": 2,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 938620,
+        "num": 938620,
+        "word": "因板凳骨折女生称父母与其断绝关系",
+        "onboard_time": 1705573110,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151296,
+        "num": 663700,
+        "word": "他们一心着急灭火没注意满身结冰",
+        "onboard_time": 1705574306,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649915,
+        "num": 649915,
+        "word": "6年前蒋劲夫6900多万演男一",
+        "onboard_time": 1705554151,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64076,
+        "num": 612480,
+        "word": "边防战士第一次骑马巡逻说特自豪",
+        "onboard_time": 1705571429,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600740,
+        "num": 600740,
+        "word": "周海媚友情出演了仙剑四",
+        "onboard_time": 1705568250,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 564483,
+        "num": 564483,
+        "word": "姐姐以为失业金只能领一次",
+        "onboard_time": 1705571549,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 546358,
+        "num": 546358,
+        "word": "辛芷蕾凌晨三点半还在做饭",
+        "onboard_time": 1705568727,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1905564,
+        "num": 542705,
+        "word": "11名研究生称花一个月写125页举报信",
+        "onboard_time": 1705572331,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614785,
+        "num": 539289,
+        "word": "张黎",
+        "onboard_time": 1705570466,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 535862,
+        "num": 535862,
+        "word": "X玖小分队龙丹妮聚餐",
+        "onboard_time": 1705575868,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533451,
+        "num": 533451,
+        "word": "快递小哥3年赚108万接两娃来杭读书",
+        "onboard_time": 1705575210,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92182,
+        "num": 502896,
+        "word": "劲酒你在支付宝的样子让我陌生",
+        "onboard_time": 1705575631,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501948,
+        "num": 501948,
+        "word": "郑爽百万股权被冻结",
+        "onboard_time": 1705572869,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462385,
+        "num": 462385,
+        "word": "最惊艳的仙剑系列女主",
+        "onboard_time": 1705576170,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461002,
+        "num": 461002,
+        "word": "网购四斤车厘子收到带包装仅三斤",
+        "onboard_time": 1705568908,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 459685,
+        "num": 459685,
+        "word": "要久久爱定档",
+        "onboard_time": 1705577246,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448645,
+        "num": 448645,
+        "word": "东方甄选回应带货西梅汁检出泻药",
+        "onboard_time": 1705572205,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 433116,
+        "num": 433116,
+        "word": "耙耙柑和丑橘是一种水果吗",
+        "onboard_time": 1705574306,
+        "rank": 20,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 393933,
+        "num": 393933,
+        "word": "世界之外",
+        "onboard_time": 1705576709,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298816,
+        "num": 298816,
+        "word": "举报导师的学生称接受不了论文是假的",
+        "onboard_time": 1705559067,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288823,
+        "num": 288823,
+        "word": "恋与深空",
+        "onboard_time": 1705575448,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288759,
+        "num": 288759,
+        "word": "赵丽颖白色拖尾蓬蓬裙",
+        "onboard_time": 1705571369,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 271825,
+        "num": 271825,
+        "word": "2800",
+        "onboard_time": 1705550968,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 270470,
+        "num": 270470,
+        "word": "男子巴黎出差强吻女同事被开",
+        "onboard_time": 1705570588,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252931,
+        "num": 252931,
+        "word": "湖南成暴雪中心",
+        "onboard_time": 1705572751,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244880,
+        "num": 244880,
+        "word": "祈今朝",
+        "onboard_time": 1705575807,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234620,
+        "num": 234620,
+        "word": "王楚钦孙颖莎3比0何钧杰李皓晴",
+        "onboard_time": 1705574485,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201363,
+        "num": 201363,
+        "word": "KSG 流浪",
+        "onboard_time": 1705576525,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197999,
+        "num": 197999,
+        "word": "华中农大教授学术造假",
+        "onboard_time": 1705545625,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190859,
+        "num": 190859,
+        "word": "DYG有打野了",
+        "onboard_time": 1705573769,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184012,
+        "num": 184012,
+        "word": "人民网评出格的文旅营销",
+        "onboard_time": 1705566386,
+        "rank": 33,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 182231,
+        "num": 182231,
+        "word": "虞书欣观众缘",
+        "onboard_time": 1705564467,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179938,
+        "num": 179938,
+        "word": "肖战获影视榜样人气男演员奖",
+        "onboard_time": 1705574606,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176883,
+        "num": 176883,
+        "word": "林一把动心气球给了周也",
+        "onboard_time": 1705570466,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175540,
+        "num": 175540,
+        "word": "世界之外 能不能改改立绘",
+        "onboard_time": 1705554870,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158902,
+        "num": 158902,
+        "word": "恋与深空 3D恋爱",
+        "onboard_time": 1705575448,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156755,
+        "num": 156755,
+        "word": "DYG夏凌",
+        "onboard_time": 1705575990,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41101,
+        "num": 153668,
+        "word": "余承东称鸿蒙生态属于每一位开发者",
+        "onboard_time": 1705574129,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153196,
+        "num": 153196,
+        "word": "网易诉暴雪案今日开庭取消",
+        "onboard_time": 1705575329,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151674,
+        "num": 151674,
+        "word": "一中国籍女子在韩抽脂手术后死亡",
+        "onboard_time": 1705557089,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150614,
+        "num": 150614,
+        "word": "张颂文辛芷蕾这么熟吗",
+        "onboard_time": 1705569207,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148542,
+        "num": 148542,
+        "word": "李宇春当年高考物理满分",
+        "onboard_time": 1705568546,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147614,
+        "num": 147614,
+        "word": "乙骨忧太 哥辞职了",
+        "onboard_time": 1705574972,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139663,
+        "num": 139663,
+        "word": "微星",
+        "onboard_time": 1705576827,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135232,
+        "num": 135232,
+        "word": "王乐君6年前曾发声反蒋劲夫家暴",
+        "onboard_time": 1705565068,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132392,
+        "num": 132392,
+        "word": "Faker和enhypen联动",
+        "onboard_time": 1705572152,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131499,
+        "num": 131499,
+        "word": "刘浩存哭戏",
+        "onboard_time": 1705577608,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#统筹国内国际两个市场两种资源#"
+    }
+  }
+}
