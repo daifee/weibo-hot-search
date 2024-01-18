@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705595911731,
+  "endTime": 1705598202169,
   "band_list": [
     {
       "raw_hot": 2181146,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641993,
+      "num": 641993,
+      "word": "举报导师学生称不愿用造假成果毕业",
+      "onboard_time": 1705592010,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604566,
       "num": 151017,
       "word": "公厕不要对着坑的洞洞拉",
       "onboard_time": 1705589554,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 589464,
-      "num": 589464,
-      "word": "举报导师学生称不愿用造假成果毕业",
-      "onboard_time": 1705592010,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 559478,
@@ -67,20 +67,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 419244,
+      "num": 419244,
+      "word": "安徽春晚小品跳科目三导演发声",
+      "onboard_time": 1705594764,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357033,
       "num": 137059,
       "word": "华中农大学生举报导师事件四大疑问",
       "onboard_time": 1705579587,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319637,
-      "num": 319637,
-      "word": "安徽春晚小品跳科目三导演发声",
-      "onboard_time": 1705594764,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 316680,
@@ -128,6 +128,14 @@
       "word": "杨紫新剧网名",
       "onboard_time": 1705589129,
       "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 275358,
+      "num": 275358,
+      "word": "胡歌被问及上海特色时还要查大众点评",
+      "onboard_time": 1705596321,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -355,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92095,
+      "num": 92095,
+      "word": "鞠婧祎红衣",
+      "onboard_time": 1705596083,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90667,
       "num": 90667,
       "word": "单抽出沈星回",
@@ -411,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73157,
+      "num": 73157,
+      "word": "江苏广电诉吴秀波案将开庭",
+      "onboard_time": 1705597521,
+      "rank": 27,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 34225,
       "num": 525161,
       "word": "用中国诗画给各地文旅上分",
@@ -422,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#冰雪春天#"
+    },
+    {
+      "word": "#统筹国内国际两个市场两种资源#"
     }
   ]
 }

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/14 00:21:24 ~ 2024/01/19 00:38:31
+本榜单时间：2024/01/14 00:21:24 ~ 2024/01/19 01:16:42
 </p>
 </blockquote>
 <p>
@@ -1755,6 +1755,12 @@ GAI 五年后再给王鹤棣续SVIP（热度：690915）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E5%AD%A6%E7%94%9F%E7%A7%B0%E4%B8%8D%E6%84%BF%E7%94%A8%E9%80%A0%E5%81%87%E6%88%90%E6%9E%9C%E6%AF%95%E4%B8%9A%23" target="weibo">
+举报导师学生称不愿用造假成果毕业（热度：641993）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%92%E5%88%975%E5%BC%80%E5%87%BA55555%E6%B8%85%E7%A9%BA5%E4%BA%BF%E5%A5%96%E6%B1%A0%23" target="weibo">
 排列5开出55555清空5亿奖池（热度：641987）
 </a>
@@ -2027,12 +2033,6 @@ gidle 抄袭争议（热度：634599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E5%A4%A7%E7%A7%B0%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%E5%B0%86%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%B8%83%23" target="weibo">
 华中农大称调查情况将向社会公布（热度：589877）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E5%AD%A6%E7%94%9F%E7%A7%B0%E4%B8%8D%E6%84%BF%E7%94%A8%E9%80%A0%E5%81%87%E6%88%90%E6%9E%9C%E6%AF%95%E4%B8%9A%23" target="weibo">
-举报导师学生称不愿用造假成果毕业（热度：589464）
 </a>
 </li>
 
@@ -3045,6 +3045,12 @@ HarmonyOS（热度：424490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E6%98%A5%E6%99%9A%E5%B0%8F%E5%93%81%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E5%AF%BC%E6%BC%94%E5%8F%91%E5%A3%B0%23" target="weibo">
+安徽春晚小品跳科目三导演发声（热度：419244）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E5%9C%A8%E5%86%B0%E5%B2%9B%E7%94%A8%E5%86%B7%E6%B0%B4%E6%B4%97%E6%BE%A1%23" target="weibo">
 王安宇在冰岛用冷水洗澡（热度：418176）
 </a>
@@ -3855,12 +3861,6 @@ LV大秀（热度：332227）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E6%98%A5%E6%99%9A%E5%B0%8F%E5%93%81%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E5%AF%BC%E6%BC%94%E5%8F%91%E5%A3%B0%23" target="weibo">
-安徽春晚小品跳科目三导演发声（热度：319637）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%BF%BB%E7%89%8C%20%E8%BA%AB%E9%AB%98%E6%B5%8B%E9%87%8F%E5%99%A8%23" target="weibo">
 微博之夜翻牌 身高测量器（热度：319598）
 </a>
@@ -4451,6 +4451,12 @@ SEVENTEEN澳门 中文歌（热度：278826）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9D%E7%89%9B%E5%A5%B6%E9%97%B9%E8%82%9A%E7%9A%84%E4%BA%BA%E6%9C%89%E7%A6%8F%E4%BA%86%23" target="weibo">
 喝牛奶闹肚的人有福了（热度：275789）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E8%A2%AB%E9%97%AE%E5%8F%8A%E4%B8%8A%E6%B5%B7%E7%89%B9%E8%89%B2%E6%97%B6%E8%BF%98%E8%A6%81%E6%9F%A5%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84%23" target="weibo">
+胡歌被问及上海特色时还要查大众点评（热度：275358）
 </a>
 </li>
 
@@ -10131,6 +10137,12 @@ WE RNGM EDGM 舞蹈串烧（热度：104119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%BA%A2%E8%A1%A3%23" target="weibo">
+鞠婧祎红衣（热度：92095）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Fly%E5%88%BA%E7%97%9B%E5%90%88%E5%94%B1%E5%A4%A7%E8%A7%92%E7%89%9B%E4%B9%8B%E6%AD%8C%23" target="weibo">
 Fly刺痛合唱大角牛之歌（热度：91833）
 </a>
@@ -10313,6 +10325,12 @@ CBA（热度：74410）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%8B%BE%E9%87%91%E4%B8%8D%E6%98%A7%E8%A2%AB%E6%B0%91%E8%AD%A6%E5%A5%96%E5%8A%B1%E8%AF%95%E5%8D%B7%E5%8F%91%E5%B0%84%E7%9C%BC%E7%A5%9E%E5%88%80%23" target="weibo">
 小学生拾金不昧被民警奖励试卷发射眼神刀（热度：73180）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%B9%BF%E7%94%B5%E8%AF%89%E5%90%B4%E7%A7%80%E6%B3%A2%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD%23" target="weibo">
+江苏广电诉吴秀波案将开庭（热度：73157）
 </a>
 </li>
 
