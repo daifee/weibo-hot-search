@@ -1,14 +1,22 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705551702826,
+  "endTime": 1705552528867,
   "band_list": [
     {
-      "raw_hot": 2189790,
-      "num": 2189790,
+      "raw_hot": 2316181,
+      "num": 2316181,
       "word": "华中农大教授学术造假",
       "onboard_time": 1705545625,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2214600,
+      "num": 607039,
+      "word": "2800",
+      "onboard_time": 1705550968,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1631758,
@@ -123,16 +131,16 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 780711,
-      "num": 780711,
+      "raw_hot": 796879,
+      "num": 796879,
       "word": "宋茜以为老公姐是老公他姐",
       "onboard_time": 1705548868,
       "rank": 5,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 754683,
-      "num": 754683,
+      "raw_hot": 776116,
+      "num": 776116,
       "word": "影视公司起诉蒋劲夫被驳回",
       "onboard_time": 1705548328,
       "rank": 24,
@@ -161,14 +169,6 @@
       "onboard_time": 1705544965,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 669233,
-      "num": 607039,
-      "word": "2800",
-      "onboard_time": 1705550968,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 657309,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462480,
+      "num": 462480,
+      "word": "辛芷蕾再现臭yue名场面",
+      "onboard_time": 1705551267,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460169,
       "num": 395486,
       "word": "举报县委书记后被捕的老干部无犯罪事实",
@@ -299,6 +307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 450286,
+      "num": 450286,
+      "word": "英雄联盟手游代言人 王俊凯赵露思",
+      "onboard_time": 1705551690,
+      "rank": 42,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 436458,
       "num": 436458,
       "word": "林一刘浩存看到项圈的不同反应",
@@ -307,8 +323,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 428879,
-      "num": 428879,
+      "raw_hot": 433574,
+      "num": 433574,
       "word": "90后儿媳套用职场技能把婆婆当甲方",
       "onboard_time": 1705549828,
       "rank": 14,
@@ -355,6 +371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 395029,
+      "num": 395029,
+      "word": "想恋爱的心突然就收回来了",
+      "onboard_time": 1705550551,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 375992,
       "num": 375992,
       "word": "村里停电新能源车变身老人生命充电桩",
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 375756,
-      "num": 266409,
+      "num": 301532,
       "word": "狗狗不理解但尊重猫猫的行为",
       "onboard_time": 1705550187,
       "rank": 21,
@@ -403,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 331688,
+      "num": 331688,
+      "word": "现在看封腾",
+      "onboard_time": 1705551386,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327572,
       "num": 327572,
       "word": "又给优酷蹭到了",
@@ -433,14 +465,6 @@
       "onboard_time": 1705494388,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 305922,
-      "num": 210358,
-      "word": "想恋爱的心突然就收回来了",
-      "onboard_time": 1705550551,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 298419,
@@ -539,6 +563,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 249705,
+      "num": 249705,
+      "word": "半熟恋人3开录",
+      "onboard_time": 1705552353,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238332,
       "num": 238332,
       "word": "宋轶背上了文咏珊送的包",
@@ -569,14 +601,6 @@
       "onboard_time": 1705549588,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 223858,
-      "num": 223858,
-      "word": "辛芷蕾再现臭yue名场面",
-      "onboard_time": 1705551267,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 220856,
@@ -627,12 +651,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206963,
-      "num": 206963,
-      "word": "现在看封腾",
-      "onboard_time": 1705551386,
+      "raw_hot": 206685,
+      "num": 206685,
+      "word": "市委书记不打招呼调研高中被门卫阻拦",
+      "onboard_time": 1705552112,
       "rank": 34,
-      "category": "剧集"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203557,
@@ -657,6 +681,14 @@
       "onboard_time": 1705545206,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202131,
+      "num": 202131,
+      "word": "大盘跌破2800点胡锡进会加仓吗",
+      "onboard_time": 1705551630,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 199167,
@@ -689,6 +721,14 @@
       "onboard_time": 1705547905,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 196829,
+      "num": 196829,
+      "word": "光夜五星员工",
+      "onboard_time": 1705551992,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 196070,
@@ -771,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184176,
-      "num": 184176,
-      "word": "英雄联盟手游代言人 王俊凯赵露思",
-      "onboard_time": 1705551690,
-      "rank": 42,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 182295,
       "num": 182295,
       "word": "天舟七号发射任务圆满成功",
@@ -835,6 +867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172386,
+      "num": 172386,
+      "word": "惠英红刘浩存哭戏感染力",
+      "onboard_time": 1705552353,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171912,
       "num": 171912,
       "word": "基金称短期A股市场处于筑底阶段",
@@ -867,12 +907,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 165338,
-      "num": 165338,
-      "word": "大盘跌破2800点胡锡进会加仓吗",
-      "onboard_time": 1705551630,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 165093,
+      "num": 165093,
+      "word": "摇人",
+      "onboard_time": 1705552353,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 163718,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1705537466,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146596,
+      "num": 146596,
+      "word": "杭州财神咖啡",
+      "onboard_time": 1705552466,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 145862,
@@ -1475,6 +1523,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 44982,
+      "num": 216363,
+      "word": "龙年还得看成龙",
+      "onboard_time": 1705549706,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 40659,
       "num": 40659,
       "word": "好强的饭缩力",
@@ -1497,14 +1553,6 @@
       "onboard_time": 1705548328,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38045,
-      "num": 210511,
-      "word": "龙年还得看成龙",
-      "onboard_time": 1705549706,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 33991,

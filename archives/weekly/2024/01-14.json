@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705551702826,
+  "endTime": 1705552528867,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -83,6 +83,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2316181,
+      "num": 2316181,
+      "word": "华中农大教授学术造假",
+      "onboard_time": 1705545625,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2283092,
       "num": 2283092,
       "word": "宋小宝韩国",
@@ -99,12 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2189790,
-      "num": 2189790,
-      "word": "华中农大教授学术造假",
-      "onboard_time": 1705545625,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 2214600,
+      "num": 607039,
+      "word": "2800",
+      "onboard_time": 1705550968,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 2170273,
@@ -1387,6 +1395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 796879,
+      "num": 796879,
+      "word": "宋茜以为老公姐是老公他姐",
+      "onboard_time": 1705548868,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 796595,
       "num": 796595,
       "word": "中方建议菲律宾总统多读读书",
@@ -1435,20 +1451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 780711,
-      "num": 780711,
-      "word": "宋茜以为老公姐是老公他姐",
-      "onboard_time": 1705548868,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 778890,
       "num": 778890,
       "word": "各地文旅局都疯了",
       "onboard_time": 1705233691,
       "rank": 11,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 776116,
+      "num": 776116,
+      "word": "影视公司起诉蒋劲夫被驳回",
+      "onboard_time": 1705548328,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 772649,
@@ -1553,14 +1569,6 @@
       "onboard_time": 1705236631,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 754683,
-      "num": 754683,
-      "word": "影视公司起诉蒋劲夫被驳回",
-      "onboard_time": 1705548328,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 753550,
@@ -1929,14 +1937,6 @@
       "onboard_time": 1705290089,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 669233,
-      "num": 607039,
-      "word": "2800",
-      "onboard_time": 1705550968,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 665624,
@@ -3195,6 +3195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 462480,
+      "num": 462480,
+      "word": "辛芷蕾再现臭yue名场面",
+      "onboard_time": 1705551267,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462379,
       "num": 462379,
       "word": "博主质疑吉林文旅用张起灵宣传不妥",
@@ -3297,6 +3305,14 @@
       "onboard_time": 1705498053,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 450286,
+      "num": 450286,
+      "word": "英雄联盟手游代言人 王俊凯赵露思",
+      "onboard_time": 1705551690,
+      "rank": 42,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 446403,
@@ -3411,6 +3427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 433574,
+      "num": 433574,
+      "word": "90后儿媳套用职场技能把婆婆当甲方",
+      "onboard_time": 1705549828,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432470,
       "num": 670626,
       "word": "90后瓦工日薪2000在省会买了房",
@@ -3433,14 +3457,6 @@
       "onboard_time": 1705154630,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 428879,
-      "num": 428879,
-      "word": "90后儿媳套用职场技能把婆婆当甲方",
-      "onboard_time": 1705549828,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427359,
@@ -3707,6 +3723,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 395029,
+      "num": 395029,
+      "word": "想恋爱的心突然就收回来了",
+      "onboard_time": 1705550551,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 394689,
       "num": 394689,
       "word": "小时候那批被打压式教育的人当爸妈了",
@@ -3932,7 +3956,7 @@
     },
     {
       "raw_hot": 375756,
-      "num": 266409,
+      "num": 301532,
       "word": "狗狗不理解但尊重猫猫的行为",
       "onboard_time": 1705550187,
       "rank": 21,
@@ -4315,6 +4339,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 331688,
+      "num": 331688,
+      "word": "现在看封腾",
+      "onboard_time": 1705551386,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331134,
       "num": 303641,
       "word": "花儿与少年",
@@ -4649,14 +4681,6 @@
       "onboard_time": 1705225829,
       "rank": 1,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 305922,
-      "num": 210358,
-      "word": "想恋爱的心突然就收回来了",
-      "onboard_time": 1705550551,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 304046,
@@ -5539,6 +5563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249705,
+      "num": 249705,
+      "word": "半熟恋人3开录",
+      "onboard_time": 1705552353,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249609,
       "num": 249609,
       "word": "繁花里最让我误会的镜头",
@@ -6195,14 +6227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223858,
-      "num": 223858,
-      "word": "辛芷蕾再现臭yue名场面",
-      "onboard_time": 1705551267,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223688,
       "num": 223688,
       "word": "献血小卡",
@@ -6747,12 +6771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206963,
-      "num": 206963,
-      "word": "现在看封腾",
-      "onboard_time": 1705551386,
+      "raw_hot": 206685,
+      "num": 206685,
+      "word": "市委书记不打招呼调研高中被门卫阻拦",
+      "onboard_time": 1705552112,
       "rank": 34,
-      "category": "剧集"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206168,
@@ -6953,6 +6977,14 @@
       "onboard_time": 1705414592,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202131,
+      "num": 202131,
+      "word": "大盘跌破2800点胡锡进会加仓吗",
+      "onboard_time": 1705551630,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 202116,
@@ -7160,6 +7192,14 @@
       "word": "天官赐福 花怜",
       "onboard_time": 1705314749,
       "rank": 41,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 196829,
+      "num": 196829,
+      "word": "光夜五星员工",
+      "onboard_time": 1705551992,
+      "rank": 37,
       "category": "动漫"
     },
     {
@@ -7787,14 +7827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184176,
-      "num": 184176,
-      "word": "英雄联盟手游代言人 王俊凯赵露思",
-      "onboard_time": 1705551690,
-      "rank": 42,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 183885,
       "num": 183885,
       "word": "王一博新专plog",
@@ -8363,6 +8395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172386,
+      "num": 172386,
+      "word": "惠英红刘浩存哭戏感染力",
+      "onboard_time": 1705552353,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172351,
       "num": 172351,
       "word": "2024年考证时间表来了",
@@ -8707,12 +8747,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 165338,
-      "num": 165338,
-      "word": "大盘跌破2800点胡锡进会加仓吗",
-      "onboard_time": 1705551630,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 165093,
+      "num": 165093,
+      "word": "摇人",
+      "onboard_time": 1705552353,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 164956,
@@ -9593,6 +9633,14 @@
       "onboard_time": 1705405111,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146596,
+      "num": 146596,
+      "word": "杭州财神咖啡",
+      "onboard_time": 1705552466,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 146498,
@@ -12387,6 +12435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 44982,
+      "num": 216363,
+      "word": "龙年还得看成龙",
+      "onboard_time": 1705549706,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 44819,
       "num": 46696,
       "word": "没想到被一只猫挑衅了",
@@ -12496,14 +12552,6 @@
       "word": "周深郎朗合作表演",
       "onboard_time": 1705173916,
       "rank": 46,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 38045,
-      "num": 210511,
-      "word": "龙年还得看成龙",
-      "onboard_time": 1705549706,
-      "rank": 30,
       "category": "作品衍生"
     },
     {
