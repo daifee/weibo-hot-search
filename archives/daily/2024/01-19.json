@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705602156479,
+  "endTime": 1705602994660,
   "band_list": [
     {
       "raw_hot": 2181146,
@@ -75,7 +75,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 411916,
+      "raw_hot": 418048,
       "num": 124071,
       "word": "华中农大",
       "onboard_time": 1705584871,
@@ -291,6 +291,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 121252,
+      "num": 121252,
+      "word": "江苏广电诉吴秀波案将开庭",
+      "onboard_time": 1705597521,
+      "rank": 27,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 120667,
       "num": 120667,
       "word": "原来台湾是这样丢垃圾的",
@@ -337,14 +345,6 @@
       "onboard_time": 1705591230,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 106765,
-      "num": 106765,
-      "word": "江苏广电诉吴秀波案将开庭",
-      "onboard_time": 1705597521,
-      "rank": 27,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 100852,
@@ -451,12 +451,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68127,
-      "num": 68127,
+      "raw_hot": 78854,
+      "num": 77074,
       "word": "有一天恶魔捡到了一个小婴儿",
       "onboard_time": 1705599317,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 41245,
+      "num": 41245,
+      "word": "虞书欣新剧本体是条大粉鱼",
+      "onboard_time": 1705601416,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 40177,
@@ -465,14 +473,6 @@
       "onboard_time": 1705599737,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 37311,
-      "num": 37311,
-      "word": "虞书欣新剧本体是条大粉鱼",
-      "onboard_time": 1705601416,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 34225,
