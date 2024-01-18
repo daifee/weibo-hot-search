@@ -1,0 +1,410 @@
+{
+  "runTime": 1705556049249,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2204359,
+        "num": 2204359,
+        "word": "6年前蒋劲夫6900多万演男一",
+        "onboard_time": 1705554151,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1955513,
+        "num": 1955513,
+        "word": "华中农大教授学术造假",
+        "onboard_time": 1705545625,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104856,
+        "num": 1266908,
+        "word": "腊八节曾是古老的狂欢节",
+        "onboard_time": 1705554030,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1230420,
+        "num": 1230420,
+        "word": "市委书记不打招呼调研高中被门卫阻拦",
+        "onboard_time": 1705552112,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940311,
+        "num": 940311,
+        "word": "卡琳娜复更",
+        "onboard_time": 1705554511,
+        "rank": 4,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 913439,
+        "num": 913439,
+        "word": "辛芷蕾再现臭yue名场面",
+        "onboard_time": 1705551267,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 908359,
+        "num": 908359,
+        "word": "彩礼",
+        "onboard_time": 1705554572,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738638,
+        "num": 738638,
+        "word": "郝劭文就女儿被霸凌事件再发声",
+        "onboard_time": 1705553070,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708920,
+        "num": 708920,
+        "word": "现在看封腾",
+        "onboard_time": 1705551386,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578129,
+        "num": 578129,
+        "word": "飞猪被曝3人买同趟航班价格不同",
+        "onboard_time": 1705545084,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1994738,
+        "num": 574574,
+        "word": "2800",
+        "onboard_time": 1705550968,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 568066,
+        "num": 568066,
+        "word": "世界之外 能不能改改立绘",
+        "onboard_time": 1705554870,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 567307,
+        "num": 567307,
+        "word": "河南云台山妲己扮演者道歉并暂停工作",
+        "onboard_time": 1705542506,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559975,
+        "num": 559975,
+        "word": "英雄联盟手游代言人 王俊凯赵露思",
+        "onboard_time": 1705551690,
+        "rank": 13,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 523285,
+        "num": 523285,
+        "word": "番位笑话",
+        "onboard_time": 1705552652,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463576,
+        "num": 463576,
+        "word": "基金",
+        "onboard_time": 1705552534,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 450147,
+        "num": 450147,
+        "word": "大侦探9",
+        "onboard_time": 1705553312,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439101,
+        "num": 439101,
+        "word": "迪丽热巴工作室P图",
+        "onboard_time": 1705555170,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419601,
+        "num": 419601,
+        "word": "想恋爱的心突然就收回来了",
+        "onboard_time": 1705550551,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376229,
+        "num": 376229,
+        "word": "宋茜以为老公姐是老公他姐",
+        "onboard_time": 1705548868,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36280,
+        "num": 336283,
+        "word": "你知道拥抱的温度是0.5度吗",
+        "onboard_time": 1705553789,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313273,
+        "num": 313273,
+        "word": "侃爷610万假牙",
+        "onboard_time": 1705554511,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308499,
+        "num": 308499,
+        "word": "狗狗不理解但尊重猫猫的行为",
+        "onboard_time": 1705550187,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306688,
+        "num": 306688,
+        "word": "于正新片 旋转番位",
+        "onboard_time": 1705548748,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288823,
+        "num": 288823,
+        "word": "徐明浩男大回国",
+        "onboard_time": 1705553851,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281887,
+        "num": 281887,
+        "word": "魏大勋凄美地剧照",
+        "onboard_time": 1705555228,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262199,
+        "num": 262199,
+        "word": "中国体彩客服称排列5开出55555不存在内幕",
+        "onboard_time": 1705549107,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256754,
+        "num": 256754,
+        "word": "是黎深不是曹操",
+        "onboard_time": 1705554328,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250766,
+        "num": 250766,
+        "word": "华中农大举报学生望严惩造假者",
+        "onboard_time": 1705554392,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188281,
+        "num": 248518,
+        "word": "90后儿媳套用职场技能把婆婆当甲方",
+        "onboard_time": 1705549828,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248018,
+        "num": 248018,
+        "word": "虞书欣颜文字",
+        "onboard_time": 1705555649,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246311,
+        "num": 246311,
+        "word": "仙剑四爱奇艺热度破7000",
+        "onboard_time": 1705555469,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239633,
+        "num": 239633,
+        "word": "A股",
+        "onboard_time": 1705542206,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238438,
+        "num": 238438,
+        "word": "警方回应网红铁头直播间自曝嫖娼",
+        "onboard_time": 1705547424,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237660,
+        "num": 237660,
+        "word": "影视公司起诉蒋劲夫被驳回",
+        "onboard_time": 1705548328,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229718,
+        "num": 229718,
+        "word": "光与夜之恋电话",
+        "onboard_time": 1705546286,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215524,
+        "num": 215524,
+        "word": "恋与深空正式上线",
+        "onboard_time": 1705546643,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205556,
+        "num": 205556,
+        "word": "生理变化不该被指指点点",
+        "onboard_time": 1705546046,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201079,
+        "num": 201079,
+        "word": "狐妖小红娘月红篇腊八片花",
+        "onboard_time": 1705548206,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196346,
+        "num": 196346,
+        "word": "腊八",
+        "onboard_time": 1705555049,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196187,
+        "num": 196187,
+        "word": "好难 我要吃面了",
+        "onboard_time": 1705535903,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194199,
+        "num": 194199,
+        "word": "2024LPL春季赛定妆照",
+        "onboard_time": 1705555589,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193235,
+        "num": 193235,
+        "word": "施瓦辛格被德国海关扣押",
+        "onboard_time": 1705549948,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187731,
+        "num": 187731,
+        "word": "罗云熙新剧演龙王",
+        "onboard_time": 1705553429,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178712,
+        "num": 178712,
+        "word": "世界之外 男主叫我名字",
+        "onboard_time": 1705539687,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177535,
+        "num": 177535,
+        "word": "世界之外开服",
+        "onboard_time": 1705533140,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164771,
+        "num": 164771,
+        "word": "你换一次手机要多久",
+        "onboard_time": 1705549588,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163196,
+        "num": 163196,
+        "word": "微星 拒绝内耗从删男友游戏开始",
+        "onboard_time": 1705553189,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161990,
+        "num": 161990,
+        "word": "安心终于离了",
+        "onboard_time": 1705554690,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161152,
+        "num": 161152,
+        "word": "LOL手游华彩迎春",
+        "onboard_time": 1705554929,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
