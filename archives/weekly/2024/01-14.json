@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705605290620,
+  "endTime": 1705606471320,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -14579,8 +14579,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23666,
-      "num": 23666,
+      "raw_hot": 23698,
+      "num": 23698,
       "word": "朋友吐槽吉克隽逸古装照丑",
       "onboard_time": 1705603993,
       "rank": 34,
@@ -14625,6 +14625,14 @@
       "onboard_time": 1705130496,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21083,
+      "num": 21083,
+      "word": "辛芷蕾拍秦岚只拍自己想看的",
+      "onboard_time": 1705604775,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 20944,
@@ -14691,14 +14699,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 18233,
-      "num": 19965,
-      "word": "辛芷蕾拍秦岚只拍自己想看的",
-      "onboard_time": 1705604775,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 17958,
       "num": 17958,
       "word": "大学生help大学生",
@@ -14747,6 +14747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 14639,
+      "num": 17613,
+      "word": "我想和你唱5定档",
+      "onboard_time": 1705605554,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14632,
       "num": 14632,
       "word": "游戏里角色的动作都是这么来的",
@@ -14769,6 +14777,14 @@
       "onboard_time": 1705527672,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14223,
+      "num": 106924,
+      "word": "太空发快递可以当日达了",
+      "onboard_time": 1705582650,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13503,
@@ -14817,14 +14833,6 @@
       "onboard_time": 1705521615,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 12399,
-      "num": 106924,
-      "word": "太空发快递可以当日达了",
-      "onboard_time": 1705582650,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11447,
