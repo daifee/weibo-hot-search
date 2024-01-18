@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705577652800,
+  "endTime": 1705581216949,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -1291,6 +1291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 867782,
+      "num": 867782,
+      "word": "要久久爱定档",
+      "onboard_time": 1705577246,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 866988,
       "num": 866988,
       "word": "应届生当上班主任之后",
@@ -1531,11 +1539,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 796361,
+      "num": 469362,
+      "word": "原来台湾是这样丢垃圾的",
+      "onboard_time": 1705579947,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 793673,
       "num": 793673,
       "word": "新疆1558名因雪崩滞留旅客离开景区",
       "onboard_time": 1705451127,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 789856,
+      "num": 789856,
+      "word": "快递小哥3年赚108万接两娃来杭读书",
+      "onboard_time": 1705575210,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1897,6 +1921,14 @@
       "onboard_time": 1705545747,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 704500,
+      "num": 704500,
+      "word": "仙剑四 仙剑六",
+      "onboard_time": 1705578027,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 703634,
@@ -2851,6 +2883,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 548293,
+      "num": 548293,
+      "word": "华中农大学生举报导师事件四大疑问",
+      "onboard_time": 1705579587,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547865,
       "num": 547865,
       "word": "李宇春被裙子封印住了",
@@ -2889,6 +2929,14 @@
       "onboard_time": 1705473990,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 540308,
+      "num": 540308,
+      "word": "渐冻人蔡磊称他离死亡已经非常近了",
+      "onboard_time": 1705580067,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 538992,
@@ -2947,16 +2995,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 533451,
-      "num": 533451,
-      "word": "快递小哥3年赚108万接两娃来杭读书",
-      "onboard_time": 1705575210,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 532928,
-      "num": 433116,
+      "num": 475467,
       "word": "耙耙柑和丑橘是一种水果吗",
       "onboard_time": 1705574306,
       "rank": 20,
@@ -3553,14 +3593,6 @@
       "onboard_time": 1705504651,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 459685,
-      "num": 459685,
-      "word": "要久久爱定档",
-      "onboard_time": 1705577246,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 459540,
@@ -4387,6 +4419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373178,
+      "num": 373178,
+      "word": "男子巴黎出差强吻女同事被开",
+      "onboard_time": 1705570588,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373056,
       "num": 373056,
       "word": "蕾子急出了花少专用暗号",
@@ -4609,6 +4649,14 @@
       "onboard_time": 1705501353,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 351473,
+      "num": 351473,
+      "word": "许诺 尽力了",
+      "onboard_time": 1705578508,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 350442,
@@ -4904,14 +4952,6 @@
       "word": "25岁西班牙女生在相亲角被50岁男士求婚",
       "onboard_time": 1705485930,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321289,
-      "num": 283001,
-      "word": "男子巴黎出差强吻女同事被开",
-      "onboard_time": 1705570588,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -6659,6 +6699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232975,
+      "num": 232975,
+      "word": "无畏粉丝给无畏的一封信",
+      "onboard_time": 1705579826,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 232954,
       "num": 232954,
       "word": "发现姥姥没有想象中爱我",
@@ -7121,6 +7169,14 @@
       "onboard_time": 1705565608,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217614,
+      "num": 217614,
+      "word": "林小宅人生第一部仙侠剧",
+      "onboard_time": 1705579769,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 217518,
@@ -7867,6 +7923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198788,
+      "num": 198788,
+      "word": "33诚C汇合AG",
+      "onboard_time": 1705580369,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198499,
       "num": 198499,
       "word": "天舟七号与空间站成功对接",
@@ -8419,6 +8483,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 189144,
+      "num": 189144,
+      "word": "杨紫要久久爱哭戏",
+      "onboard_time": 1705579587,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189050,
       "num": 189050,
       "word": "2023微博之夜战报",
@@ -8601,6 +8673,14 @@
       "onboard_time": 1705380931,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 186022,
+      "num": 186022,
+      "word": "全圆佑拿意林",
+      "onboard_time": 1705580306,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185679,
@@ -8931,12 +9011,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 179482,
+      "num": 179482,
+      "word": "TTG小白熊",
+      "onboard_time": 1705579706,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179443,
       "num": 179443,
       "word": "TXT更换编舞团队",
       "onboard_time": 1705294653,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179376,
+      "num": 179376,
+      "word": "黄轩为虞书欣包场祈今朝",
+      "onboard_time": 1705580789,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 179211,
@@ -9049,6 +9145,14 @@
       "onboard_time": 1705298489,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176647,
+      "num": 176647,
+      "word": "白鹿微博之夜妆容Vlog",
+      "onboard_time": 1705580849,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176605,
@@ -9563,6 +9667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167985,
+      "num": 167985,
+      "word": "我的妈我的姥",
+      "onboard_time": 1705577847,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167809,
       "num": 167809,
       "word": "曾舜晞的围脖掉色",
@@ -9601,6 +9713,14 @@
       "onboard_time": 1705475608,
       "rank": 42,
       "category": "旅游,艺人"
+    },
+    {
+      "raw_hot": 167155,
+      "num": 167155,
+      "word": "王鹤棣换发色全看心情",
+      "onboard_time": 1705580608,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167020,
@@ -9971,6 +10091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159666,
+      "num": 159666,
+      "word": "约旦空袭叙利亚造成10人死亡",
+      "onboard_time": 1705580427,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 159628,
       "num": 137365,
       "word": "李兰迪 玫瑰公主",
@@ -10193,6 +10321,14 @@
       "onboard_time": 1705372887,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156103,
+      "num": 156103,
+      "word": "京城大师赛",
+      "onboard_time": 1705579529,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 156039,
@@ -11515,6 +11651,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 133574,
+      "num": 133574,
+      "word": "刘浩存哭戏",
+      "onboard_time": 1705577608,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133404,
       "num": 133404,
       "word": "疾病焦虑障碍或会减少5年寿命",
@@ -11595,14 +11739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131499,
-      "num": 131499,
-      "word": "刘浩存哭戏",
-      "onboard_time": 1705577608,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 131426,
       "num": 131426,
       "word": "新疆姑娘机场救人后默默离开",
@@ -11641,6 +11777,14 @@
       "onboard_time": 1705564406,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130486,
+      "num": 130486,
+      "word": "别惹刚下班的打工人",
+      "onboard_time": 1705580789,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 130160,
@@ -12361,6 +12505,14 @@
       "onboard_time": 1705307309,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114874,
+      "num": 114874,
+      "word": "张艺兴制作腊八蒜",
+      "onboard_time": 1705581207,
+      "rank": 47,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 114333,
@@ -13169,6 +13321,14 @@
       "onboard_time": 1705510222,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71989,
+      "num": 234903,
+      "word": "路特斯EMEYA纯电弯道王",
+      "onboard_time": 1705579225,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 71828,
