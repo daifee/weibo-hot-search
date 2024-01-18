@@ -1,0 +1,410 @@
+{
+  "runTime": 1705584831933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1457594,
+        "num": 1457594,
+        "word": "渐冻人蔡磊称他离死亡已经非常近了",
+        "onboard_time": 1705580067,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1188259,
+        "num": 1188259,
+        "word": "华中农大再回应教授被举报学术不端事件",
+        "onboard_time": 1705582588,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14706,
+        "num": 912181,
+        "word": "腊八节祝你事事粥全",
+        "onboard_time": 1705547066,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816847,
+        "num": 816847,
+        "word": "彩礼",
+        "onboard_time": 1705554572,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591986,
+        "num": 591986,
+        "word": "仙剑四 仙剑六",
+        "onboard_time": 1705578027,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 585312,
+        "num": 585312,
+        "word": "男子巴黎出差强吻女同事被开",
+        "onboard_time": 1705570588,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508309,
+        "num": 508309,
+        "word": "要久久爱定档",
+        "onboard_time": 1705577246,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477502,
+        "num": 477502,
+        "word": "6年前蒋劲夫6900多万演男一",
+        "onboard_time": 1705554151,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447694,
+        "num": 447694,
+        "word": "林小宅人生第一部仙侠剧",
+        "onboard_time": 1705579769,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421636,
+        "num": 421636,
+        "word": "被抽走板凳骨折女生已自愿退学",
+        "onboard_time": 1705583969,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3547143,
+        "num": 417575,
+        "word": "华中农大教授回应学生举报不实",
+        "onboard_time": 1705581811,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849331,
+        "num": 416403,
+        "word": "华中农大学生举报导师事件四大疑问",
+        "onboard_time": 1705579587,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413206,
+        "num": 413206,
+        "word": "曾舜晞教教成毅对镜自拍吧",
+        "onboard_time": 1705582170,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386453,
+        "num": 386453,
+        "word": "因板凳骨折女生称父母与其断绝关系",
+        "onboard_time": 1705573110,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358620,
+        "num": 358620,
+        "word": "网购四斤车厘子收到带包装仅三斤",
+        "onboard_time": 1705568908,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 353700,
+        "num": 353700,
+        "word": "华中农大举报学生发声",
+        "onboard_time": 1705582110,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352571,
+        "num": 352571,
+        "word": "耙耙柑和丑橘是一种水果吗",
+        "onboard_time": 1705574306,
+        "rank": 16,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 307915,
+        "num": 307915,
+        "word": "黄轩为虞书欣包场祈今朝",
+        "onboard_time": 1705580789,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305629,
+        "num": 305629,
+        "word": "世界之外",
+        "onboard_time": 1705576709,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 299310,
+        "num": 299310,
+        "word": "最惊艳的仙剑系列女主",
+        "onboard_time": 1705576170,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27814,
+        "num": 296965,
+        "word": "恋与深空成年人的恋爱",
+        "onboard_time": 1705583247,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 921815,
+        "num": 294609,
+        "word": "原来月薪1万和10万的差距这么大",
+        "onboard_time": 1705582529,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 775661,
+        "num": 292349,
+        "word": "11名研究生称花一个月写125页举报信",
+        "onboard_time": 1705572331,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575946,
+        "num": 292034,
+        "word": "原来台湾是这样丢垃圾的",
+        "onboard_time": 1705579947,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289792,
+        "num": 289792,
+        "word": "周海媚友情出演了仙剑四",
+        "onboard_time": 1705568250,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259146,
+        "num": 259146,
+        "word": "刘诗诗马上弯腰补妆",
+        "onboard_time": 1705583429,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237923,
+        "num": 237923,
+        "word": "辛芷蕾凌晨三点半还在做饭",
+        "onboard_time": 1705568727,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230879,
+        "num": 230879,
+        "word": "最高法明确这几类不属于彩礼",
+        "onboard_time": 1705582470,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222344,
+        "num": 222344,
+        "word": "张黎",
+        "onboard_time": 1705570466,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 211579,
+        "num": 211579,
+        "word": "许诺 尽力了",
+        "onboard_time": 1705578508,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209010,
+        "num": 209010,
+        "word": "黄渤谈番位",
+        "onboard_time": 1705582769,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199012,
+        "num": 199012,
+        "word": "恋与深空",
+        "onboard_time": 1705575448,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190087,
+        "num": 190087,
+        "word": "快递小哥3年赚108万接两娃来杭读书",
+        "onboard_time": 1705575210,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190022,
+        "num": 190022,
+        "word": "姐姐以为失业金只能领一次",
+        "onboard_time": 1705571549,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182914,
+        "num": 182914,
+        "word": "虞书欣被直播背景板砸到",
+        "onboard_time": 1705581751,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172968,
+        "num": 172968,
+        "word": "白鹿微博之夜妆容Vlog",
+        "onboard_time": 1705580849,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169399,
+        "num": 169399,
+        "word": "郑爽百万股权被冻结",
+        "onboard_time": 1705572869,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166085,
+        "num": 166085,
+        "word": "人民网评出格的文旅营销",
+        "onboard_time": 1705566386,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 159528,
+        "num": 159528,
+        "word": "白月梵星",
+        "onboard_time": 1705584330,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154702,
+        "num": 154702,
+        "word": "猪次方",
+        "onboard_time": 1705581568,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152936,
+        "num": 152936,
+        "word": "X玖小分队龙丹妮聚餐",
+        "onboard_time": 1705575868,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151406,
+        "num": 151406,
+        "word": "华中农大教授学术造假",
+        "onboard_time": 1705545625,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148980,
+        "num": 148980,
+        "word": "赵丽颖白色拖尾蓬蓬裙",
+        "onboard_time": 1705571369,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148803,
+        "num": 148803,
+        "word": "无畏粉丝给无畏的一封信",
+        "onboard_time": 1705579826,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137721,
+        "num": 137721,
+        "word": "文旅局长们陷入新一轮内卷",
+        "onboard_time": 1705583913,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134268,
+        "num": 134268,
+        "word": "清华特奖双胞胎姐妹归国任教",
+        "onboard_time": 1705571429,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132920,
+        "num": 132920,
+        "word": "祈今朝",
+        "onboard_time": 1705575807,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126778,
+        "num": 126778,
+        "word": "这仿妆连人脸识别都能解开吧",
+        "onboard_time": 1705584569,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 120687,
+        "num": 120687,
+        "word": "全圆佑拿意林",
+        "onboard_time": 1705580306,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116773,
+        "num": 116773,
+        "word": "约旦空袭叙利亚造成10人死亡",
+        "onboard_time": 1705580427,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

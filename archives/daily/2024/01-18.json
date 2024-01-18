@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705584104589,
+  "endTime": 1705584831933,
   "band_list": [
     {
       "raw_hot": 3794387,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1457594,
+      "num": 1457594,
+      "word": "渐冻人蔡磊称他离死亡已经非常近了",
+      "onboard_time": 1705580067,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1398718,
       "num": 1398718,
       "word": "飞猪被曝3人买同趟航班价格不同",
@@ -81,14 +89,6 @@
       "onboard_time": 1705542206,
       "rank": 3,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1359082,
-      "num": 1359082,
-      "word": "渐冻人蔡磊称他离死亡已经非常近了",
-      "onboard_time": 1705580067,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1350225,
@@ -128,6 +128,14 @@
       "word": "一中国籍女子在韩抽脂手术后死亡",
       "onboard_time": 1705557089,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1188259,
+      "num": 1188259,
+      "word": "华中农大再回应教授被举报学术不端事件",
+      "onboard_time": 1705582588,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -235,7 +243,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 869658,
+      "raw_hot": 921815,
       "num": 294769,
       "word": "原来月薪1万和10万的差距这么大",
       "onboard_time": 1705582529,
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585312,
+      "num": 585312,
+      "word": "男子巴黎出差强吻女同事被开",
+      "onboard_time": 1705570588,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584423,
       "num": 584423,
       "word": "英雄联盟手游代言人 王俊凯赵露思",
@@ -504,22 +520,6 @@
       "word": "华中农大涉嫌学术不端教授多项专利被驳回",
       "onboard_time": 1705490966,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548323,
-      "num": 548323,
-      "word": "男子巴黎出差强吻女同事被开",
-      "onboard_time": 1705570588,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546204,
-      "num": 546204,
-      "word": "华中农大再回应教授被举报学术不端事件",
-      "onboard_time": 1705582588,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -715,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 447694,
+      "num": 447694,
+      "word": "林小宅人生第一部仙侠剧",
+      "onboard_time": 1705579769,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440485,
       "num": 440485,
       "word": "外媒曝豆荚猫被哥哥家暴",
@@ -763,12 +771,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 421636,
+      "num": 421636,
+      "word": "被抽走板凳骨折女生已自愿退学",
+      "onboard_time": 1705583969,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421310,
       "num": 421310,
       "word": "iPhone15价格跌至史上最低",
       "onboard_time": 1705476931,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 413206,
+      "num": 413206,
+      "word": "曾舜晞教教成毅对镜自拍吧",
+      "onboard_time": 1705582170,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 409832,
@@ -801,14 +825,6 @@
       "onboard_time": 1705533982,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 400433,
-      "num": 400433,
-      "word": "林小宅人生第一部仙侠剧",
-      "onboard_time": 1705579769,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 393933,
@@ -883,20 +899,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 365025,
-      "num": 365025,
-      "word": "曾舜晞教教成毅对镜自拍吧",
-      "onboard_time": 1705582170,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 361328,
       "num": 361328,
       "word": "檀健次 我这么man涂什么口红",
       "onboard_time": 1705563209,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353700,
+      "num": 353700,
+      "word": "华中农大举报学生发声",
+      "onboard_time": 1705582110,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351473,
@@ -1041,14 +1057,6 @@
       "onboard_time": 1705546643,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296872,
-      "num": 296872,
-      "word": "华中农大举报学生发声",
-      "onboard_time": 1705582110,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296770,
@@ -1225,6 +1233,14 @@
       "onboard_time": 1705556668,
       "rank": 24,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 259146,
+      "num": 259146,
+      "word": "刘诗诗马上弯腰补妆",
+      "onboard_time": 1705583429,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 258294,
@@ -1521,14 +1537,6 @@
       "onboard_time": 1705581207,
       "rank": 47,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 203724,
-      "num": 203724,
-      "word": "刘诗诗马上弯腰补妆",
-      "onboard_time": 1705583429,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 203557,
@@ -2139,6 +2147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159528,
+      "num": 159528,
+      "word": "白月梵星",
+      "onboard_time": 1705584330,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159417,
       "num": 159417,
       "word": "股市",
@@ -2217,14 +2233,6 @@
       "onboard_time": 1705565486,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 151984,
-      "num": 151984,
-      "word": "被抽走板凳骨折女生已自愿退学",
-      "onboard_time": 1705583969,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151865,
@@ -2451,6 +2459,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 137721,
+      "num": 137721,
+      "word": "文旅局长们陷入新一轮内卷",
+      "onboard_time": 1705583913,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136825,
       "num": 136825,
       "word": "勇士助理教练去世",
@@ -2537,6 +2553,14 @@
       "onboard_time": 1705541607,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126778,
+      "num": 126778,
+      "word": "这仿妆连人脸识别都能解开吧",
+      "onboard_time": 1705584569,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 126587,
@@ -2664,14 +2688,6 @@
       "word": "这个青铜小狐狸竟是古人用来煮粥的",
       "onboard_time": 1705572331,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113427,
-      "num": 113427,
-      "word": "文旅局长们陷入新一轮内卷",
-      "onboard_time": 1705583913,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -3091,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27814,
+      "num": 296965,
+      "word": "恋与深空成年人的恋爱",
+      "onboard_time": 1705583247,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26391,
       "num": 26391,
       "word": "天舟七号发射",
@@ -3105,14 +3129,6 @@
       "onboard_time": 1705513338,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19726,
-      "num": 213463,
-      "word": "恋与深空成年人的恋爱",
-      "onboard_time": 1705583247,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 17823,
@@ -3137,6 +3153,14 @@
       "onboard_time": 1705519214,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14706,
+      "num": 912181,
+      "word": "腊八节祝你事事粥全",
+      "onboard_time": 1705547066,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14509,
@@ -3169,14 +3193,6 @@
       "onboard_time": 1705521615,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10048,
-      "num": 600353,
-      "word": "腊八节祝你事事粥全",
-      "onboard_time": 1705547066,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8617,
