@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705566936997,
+  "endTime": 1705569502952,
   "band_list": [
     {
       "raw_hot": 2719567,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1338846,
+      "num": 1338846,
+      "word": "周海媚友情出演了仙剑四",
+      "onboard_time": 1705568250,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1275281,
       "num": 1275281,
       "word": "市委书记不打招呼调研高中被门卫阻拦",
@@ -129,6 +137,14 @@
       "onboard_time": 1705501291,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 963279,
+      "num": 963279,
+      "word": "人民网评出格的文旅营销",
+      "onboard_time": 1705566386,
+      "rank": 22,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 959634,
@@ -539,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 424490,
+      "num": 424490,
+      "word": "HarmonyOS",
+      "onboard_time": 1705567829,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 421310,
       "num": 421310,
       "word": "iPhone15价格跌至史上最低",
@@ -579,12 +603,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 395692,
+      "num": 395692,
+      "word": "李宇春当年高考物理满分",
+      "onboard_time": 1705568546,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391495,
       "num": 391495,
       "word": "王安宇胡先煦打听各自的姐",
       "onboard_time": 1705563750,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385792,
+      "num": 385792,
+      "word": "我国打工人每周平均工作49小时",
+      "onboard_time": 1705566206,
+      "rank": 35,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 382298,
@@ -641,6 +681,14 @@
       "onboard_time": 1705493847,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349674,
+      "num": 349674,
+      "word": "金星力挺春晚导演",
+      "onboard_time": 1705567950,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 348769,
@@ -851,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 265192,
+      "num": 265192,
+      "word": "辛芷蕾凌晨三点半还在做饭",
+      "onboard_time": 1705568727,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264186,
       "num": 179704,
       "word": "不是情侣关系的占有欲",
@@ -881,14 +937,6 @@
       "onboard_time": 1705544907,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 258038,
-      "num": 258038,
-      "word": "人民网评出格的文旅营销",
-      "onboard_time": 1705566386,
-      "rank": 22,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 256754,
@@ -931,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249206,
+      "num": 249206,
+      "word": "花花又听见谭爷爷喊果赖了",
+      "onboard_time": 1705566927,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248476,
       "num": 248476,
       "word": "罗云熙新剧演龙王",
@@ -961,6 +1017,14 @@
       "onboard_time": 1705555469,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238463,
+      "num": 219816,
+      "word": "张颂文辛芷蕾这么熟吗",
+      "onboard_time": 1705569207,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 238332,
@@ -995,6 +1059,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 229022,
+      "num": 229022,
+      "word": "为什么长大后口味变了",
+      "onboard_time": 1705568908,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227830,
       "num": 211528,
       "word": "点外卖遇到了离职侠",
@@ -1025,6 +1097,14 @@
       "onboard_time": 1705498892,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218303,
+      "num": 218303,
+      "word": "网购四斤车厘子收到带包装仅三斤",
+      "onboard_time": 1705568908,
+      "rank": 28,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 218135,
@@ -1081,6 +1161,14 @@
       "onboard_time": 1705538246,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212853,
+      "num": 212853,
+      "word": "腊八蒜",
+      "onboard_time": 1705567046,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 208239,
@@ -1203,6 +1291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 195201,
+      "num": 195201,
+      "word": "角膜移植手术后的眼缝合线",
+      "onboard_time": 1705568844,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 194199,
       "num": 194199,
       "word": "2024LPL春季赛定妆照",
@@ -1265,14 +1361,6 @@
       "onboard_time": 1705566386,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 191010,
-      "num": 191010,
-      "word": "我国打工人每周平均工作49小时",
-      "onboard_time": 1705566206,
-      "rank": 35,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 189346,
@@ -1403,12 +1491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176142,
+      "num": 176142,
+      "word": "国乙之癫",
+      "onboard_time": 1705569028,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175911,
       "num": 175911,
       "word": "花花代表四川文旅出战",
       "onboard_time": 1705542446,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175866,
+      "num": 175866,
+      "word": "涵艺爆料Doinb回归",
+      "onboard_time": 1705567950,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 173656,
@@ -1659,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148488,
+      "num": 148488,
+      "word": "商竣程首进大满贯32强",
+      "onboard_time": 1705568428,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147870,
       "num": 147870,
       "word": "象宝宝太贪玩把象姐姐逼崩溃",
@@ -1713,6 +1825,14 @@
       "onboard_time": 1705501172,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143642,
+      "num": 143642,
+      "word": "小沈阳再现2009春晚苏格兰裙",
+      "onboard_time": 1705567709,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 142997,
@@ -1867,6 +1987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123533,
+      "num": 123533,
+      "word": "祁煜脸红",
+      "onboard_time": 1705567888,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120794,
       "num": 120794,
       "word": "华中农大被举报教授官网个人页已删除",
@@ -1881,14 +2009,6 @@
       "onboard_time": 1705506329,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119918,
-      "num": 119918,
-      "word": "花花又听见谭爷爷喊果赖了",
-      "onboard_time": 1705566927,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119192,
@@ -2281,6 +2401,14 @@
       "onboard_time": 1705548328,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34377,
+      "num": 290805,
+      "word": "恋与深空开服抽岛",
+      "onboard_time": 1705567526,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 33991,

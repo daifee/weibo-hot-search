@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705566936997,
+  "endTime": 1705569502952,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2387,20 +2387,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1338846,
+      "num": 1338846,
+      "word": "周海媚友情出演了仙剑四",
+      "onboard_time": 1705568250,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1338489,
       "num": 931253,
       "word": "于正再次为张檬写长文",
       "onboard_time": 1704777811,
       "rank": 11,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 1335357,
-      "num": 1335357,
-      "word": "张凌赫 虞书欣是合作演员里最主动的",
-      "onboard_time": 1705206337,
-      "rank": 11,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
