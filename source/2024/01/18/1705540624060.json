@@ -1,0 +1,410 @@
+{
+  "runTime": 1705540624060,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1098118,
+        "num": 1098118,
+        "word": "新郎为宠妻办中式婚礼不料自己也入坑",
+        "onboard_time": 1705536746,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021017,
+        "num": 1021017,
+        "word": "腊八节",
+        "onboard_time": 1705532899,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103249,
+        "num": 991477,
+        "word": "腊八蒜为啥是绿色的",
+        "onboard_time": 1705490848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988818,
+        "num": 988818,
+        "word": "男大学生抽走女同学板凳致其骨折",
+        "onboard_time": 1705536386,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785716,
+        "num": 785716,
+        "word": "云南白药退出全部二级市场证券投资",
+        "onboard_time": 1705537107,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 655784,
+        "num": 655784,
+        "word": "好难 我要吃面了",
+        "onboard_time": 1705535903,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 516506,
+        "num": 516506,
+        "word": "大麦同意退款抢林俊杰变林子祥的票",
+        "onboard_time": 1705507469,
+        "rank": 6,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 505133,
+        "num": 505133,
+        "word": "蔡少芬 难怪谢娜女儿叫跳跳",
+        "onboard_time": 1705533681,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470578,
+        "num": 470578,
+        "word": "海底捞打毛线收费39到99",
+        "onboard_time": 1705509444,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402276,
+        "num": 402276,
+        "word": "车厘子降价仍不被买账",
+        "onboard_time": 1705501291,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 843842,
+        "num": 402188,
+        "word": "华中农大11名学生联名举报信长达125页",
+        "onboard_time": 1705502670,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498612,
+        "num": 402111,
+        "word": "仙剑六 端水",
+        "onboard_time": 1705539206,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401814,
+        "num": 401814,
+        "word": "iPhone15发售3个月仅掉价18.2%",
+        "onboard_time": 1705533982,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 381272,
+        "num": 381272,
+        "word": "华中农大称调查情况将向社会公布",
+        "onboard_time": 1705538908,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356551,
+        "num": 356551,
+        "word": "迪丽热巴徒手提行李箱惊呆辛芷蕾",
+        "onboard_time": 1705538969,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346646,
+        "num": 346646,
+        "word": "仙剑四首播评价",
+        "onboard_time": 1705491028,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324198,
+        "num": 324198,
+        "word": "世界之外 男主叫我名字",
+        "onboard_time": 1705539687,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296345,
+        "num": 296345,
+        "word": "女童送医后死亡其父被刑拘",
+        "onboard_time": 1705498472,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243190,
+        "num": 243190,
+        "word": "小孩哥沉默十秒 浙江文旅一年白干",
+        "onboard_time": 1705484970,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 234008,
+        "num": 234008,
+        "word": "瑞士申请加入文旅比拼",
+        "onboard_time": 1705531875,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 364967,
+        "num": 233768,
+        "word": "AirPodsPro龙年特别款",
+        "onboard_time": 1705537529,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 280761,
+        "num": 233670,
+        "word": "二胎夫妻无偿帮单亲爸爸照顾女儿",
+        "onboard_time": 1705536567,
+        "rank": 21,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 233358,
+        "num": 233358,
+        "word": "徐志胜被家乡摇出来了",
+        "onboard_time": 1705506388,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219086,
+        "num": 219086,
+        "word": "村里停电新能源车变身老人生命充电桩",
+        "onboard_time": 1705507167,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215630,
+        "num": 215630,
+        "word": "怎么腌翠绿不发黄的腊八蒜",
+        "onboard_time": 1705540588,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200772,
+        "num": 200772,
+        "word": "祈今朝怪物长得好像新浪微博",
+        "onboard_time": 1705538246,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192397,
+        "num": 192397,
+        "word": "国足可能2分出线",
+        "onboard_time": 1705537949,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191727,
+        "num": 191727,
+        "word": "朱一龙巴黎时装周",
+        "onboard_time": 1705539510,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187608,
+        "num": 187608,
+        "word": "祈今朝",
+        "onboard_time": 1705539928,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187209,
+        "num": 187209,
+        "word": "发量少也能头包脸的公主披发",
+        "onboard_time": 1705537887,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 227830,
+        "num": 182855,
+        "word": "点外卖遇到了离职侠",
+        "onboard_time": 1705537707,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176306,
+        "num": 176306,
+        "word": "宋轶背上了文咏珊送的包",
+        "onboard_time": 1705497090,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171180,
+        "num": 171180,
+        "word": "外国演员接力宣读南非起诉以色列文件",
+        "onboard_time": 1705536567,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 168691,
+        "num": 168691,
+        "word": "15岁少年保送清华本硕博连读",
+        "onboard_time": 1705539627,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167182,
+        "num": 167182,
+        "word": "美军对也门胡塞武装目标发动新一轮袭击",
+        "onboard_time": 1705540225,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 160401,
+        "num": 160401,
+        "word": "春运前我破碎20年的家完整了",
+        "onboard_time": 1705538728,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159659,
+        "num": 159659,
+        "word": "林一刘浩存看到项圈的不同反应",
+        "onboard_time": 1705540225,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159598,
+        "num": 159598,
+        "word": "光与夜之恋 转盘",
+        "onboard_time": 1705538788,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149401,
+        "num": 149401,
+        "word": "李白碎月剑心皮肤",
+        "onboard_time": 1705534762,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148437,
+        "num": 148437,
+        "word": "恋与深空",
+        "onboard_time": 1705493788,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147373,
+        "num": 147373,
+        "word": "上班就得有上班的样子",
+        "onboard_time": 1705538009,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147302,
+        "num": 147302,
+        "word": "车厘子价格跳水经销商不敢囤货了",
+        "onboard_time": 1705537466,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141587,
+        "num": 141587,
+        "word": "三星S24发布会",
+        "onboard_time": 1705536325,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136825,
+        "num": 136825,
+        "word": "勇士助理教练去世",
+        "onboard_time": 1705536987,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135609,
+        "num": 135609,
+        "word": "国足迎重大利好",
+        "onboard_time": 1705540467,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132540,
+        "num": 132540,
+        "word": "米兰偶遇李敏镐",
+        "onboard_time": 1705540225,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132191,
+        "num": 132191,
+        "word": "又给优酷蹭到了",
+        "onboard_time": 1705499130,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129631,
+        "num": 129631,
+        "word": "宋小宝韩国",
+        "onboard_time": 1705485152,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127515,
+        "num": 127515,
+        "word": "星痕 KSG",
+        "onboard_time": 1705538488,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72928,
+        "num": 127130,
+        "word": "三星发布首款AI手机",
+        "onboard_time": 1705540588,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#开年关键一课主题锚定金融#"
+    }
+  }
+}
