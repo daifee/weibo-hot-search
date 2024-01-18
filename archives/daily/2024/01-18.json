@@ -1,7 +1,15 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705582180917,
+  "endTime": 1705584104589,
   "band_list": [
+    {
+      "raw_hot": 3794387,
+      "num": 873503,
+      "word": "华中农大教授回应学生举报不实",
+      "onboard_time": 1705581811,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2719567,
       "num": 2719567,
@@ -73,6 +81,14 @@
       "onboard_time": 1705542206,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1359082,
+      "num": 1359082,
+      "word": "渐冻人蔡磊称他离死亡已经非常近了",
+      "onboard_time": 1705580067,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1350225,
@@ -179,14 +195,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 969242,
-      "num": 969242,
-      "word": "渐冻人蔡磊称他离死亡已经非常近了",
-      "onboard_time": 1705580067,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 959634,
       "num": 959634,
       "word": "于正新片 旋转番位",
@@ -227,12 +235,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 873503,
-      "num": 873503,
-      "word": "华中农大教授回应学生举报不实",
-      "onboard_time": 1705581811,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 869658,
+      "num": 294769,
+      "word": "原来月薪1万和10万的差距这么大",
+      "onboard_time": 1705582529,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 867782,
@@ -499,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548323,
+      "num": 548323,
+      "word": "男子巴黎出差强吻女同事被开",
+      "onboard_time": 1705570588,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546204,
+      "num": 546204,
+      "word": "华中农大再回应教授被举报学术不端事件",
+      "onboard_time": 1705582588,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536428,
       "num": 536428,
       "word": "番位笑话",
@@ -659,14 +683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 456978,
-      "num": 456978,
-      "word": "男子巴黎出差强吻女同事被开",
-      "onboard_time": 1705570588,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 455335,
       "num": 455335,
       "word": "华为鸿蒙发布会",
@@ -787,6 +803,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 400433,
+      "num": 400433,
+      "word": "林小宅人生第一部仙侠剧",
+      "onboard_time": 1705579769,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393933,
       "num": 393933,
       "word": "世界之外",
@@ -857,6 +881,14 @@
       "onboard_time": 1705571369,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 365025,
+      "num": 365025,
+      "word": "曾舜晞教教成毅对镜自拍吧",
+      "onboard_time": 1705582170,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 361328,
@@ -955,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321964,
+      "num": 321964,
+      "word": "黄轩为虞书欣包场祈今朝",
+      "onboard_time": 1705580789,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317216,
       "num": 317216,
       "word": "张拿铁人设崩塌",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1705546643,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 296872,
+      "num": 296872,
+      "word": "华中农大举报学生发声",
+      "onboard_time": 1705582110,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296770,
@@ -1171,14 +1219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 263482,
-      "num": 263482,
-      "word": "林小宅人生第一部仙侠剧",
-      "onboard_time": 1705579769,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260923,
       "num": 260923,
       "word": "东北大冻梨被广西菜市场震惊到了",
@@ -1251,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248150,
+      "num": 248150,
+      "word": "最高法明确这几类不属于彩礼",
+      "onboard_time": 1705582470,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248018,
       "num": 248018,
       "word": "虞书欣颜文字",
@@ -1321,14 +1369,6 @@
       "onboard_time": 1705558826,
       "rank": 43,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 230247,
-      "num": 230247,
-      "word": "黄轩为虞书欣包场祈今朝",
-      "onboard_time": 1705580789,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 229022,
@@ -1443,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213154,
+      "num": 213154,
+      "word": "黄渤谈番位",
+      "onboard_time": 1705582769,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212853,
       "num": 212853,
       "word": "腊八蒜",
@@ -1473,6 +1521,14 @@
       "onboard_time": 1705581207,
       "rank": 47,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 203724,
+      "num": 203724,
+      "word": "刘诗诗马上弯腰补妆",
+      "onboard_time": 1705583429,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 203557,
@@ -1609,6 +1665,14 @@
       "onboard_time": 1705546884,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195852,
+      "num": 195852,
+      "word": "白鹿微博之夜妆容Vlog",
+      "onboard_time": 1705580849,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195201,
@@ -1777,14 +1841,6 @@
       "onboard_time": 1705532718,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182971,
-      "num": 182971,
-      "word": "白鹿微博之夜妆容Vlog",
-      "onboard_time": 1705580849,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 182295,
@@ -2163,6 +2219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151984,
+      "num": 151984,
+      "word": "被抽走板凳骨折女生已自愿退学",
+      "onboard_time": 1705583969,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151865,
       "num": 151865,
       "word": "王者嫦娥新皮肤",
@@ -2523,14 +2587,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 123165,
-      "num": 123165,
-      "word": "曾舜晞教教成毅对镜自拍吧",
-      "onboard_time": 1705582170,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120794,
       "num": 120794,
       "word": "华中农大被举报教授官网个人页已删除",
@@ -2608,6 +2664,14 @@
       "word": "这个青铜小狐狸竟是古人用来煮粥的",
       "onboard_time": 1705572331,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113427,
+      "num": 113427,
+      "word": "文旅局长们陷入新一轮内卷",
+      "onboard_time": 1705583913,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -3043,6 +3107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 19726,
+      "num": 213463,
+      "word": "恋与深空成年人的恋爱",
+      "onboard_time": 1705583247,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 17823,
       "num": 20149,
       "word": "天津迎来这种水果",
@@ -3097,6 +3169,14 @@
       "onboard_time": 1705521615,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10048,
+      "num": 600353,
+      "word": "腊八节祝你事事粥全",
+      "onboard_time": 1705547066,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8617,
