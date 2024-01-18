@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705581216949,
+  "endTime": 1705582180917,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -803,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1164212,
+      "num": 484853,
+      "word": "原来台湾是这样丢垃圾的",
+      "onboard_time": 1705579947,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1162294,
       "num": 1162294,
       "word": "钢琴销量断崖式下滑",
@@ -881,6 +889,14 @@
       "onboard_time": 1705289310,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1122639,
+      "num": 1122639,
+      "word": "华中农大学生举报导师事件四大疑问",
+      "onboard_time": 1705579587,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1098118,
@@ -1123,6 +1139,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 969242,
+      "num": 969242,
+      "word": "渐冻人蔡磊称他离死亡已经非常近了",
+      "onboard_time": 1705580067,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 960547,
       "num": 960547,
       "word": "于正公开黄杨钿甜试戏片段",
@@ -1280,6 +1304,14 @@
       "word": "两名99后男子当街行凶被执行死刑",
       "onboard_time": 1705468414,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 873503,
+      "num": 873503,
+      "word": "华中农大教授回应学生举报不实",
+      "onboard_time": 1705581811,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1537,14 +1569,6 @@
       "onboard_time": 1705394910,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 796361,
-      "num": 469362,
-      "word": "原来台湾是这样丢垃圾的",
-      "onboard_time": 1705579947,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 793673,
@@ -2883,14 +2907,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 548293,
-      "num": 548293,
-      "word": "华中农大学生举报导师事件四大疑问",
-      "onboard_time": 1705579587,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 547865,
       "num": 547865,
       "word": "李宇春被裙子封印住了",
@@ -2929,14 +2945,6 @@
       "onboard_time": 1705473990,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 540308,
-      "num": 540308,
-      "word": "渐冻人蔡磊称他离死亡已经非常近了",
-      "onboard_time": 1705580067,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 538992,
@@ -2996,7 +3004,7 @@
     },
     {
       "raw_hot": 532928,
-      "num": 475467,
+      "num": 496342,
       "word": "耙耙柑和丑橘是一种水果吗",
       "onboard_time": 1705574306,
       "rank": 20,
@@ -3608,6 +3616,14 @@
       "word": "男子做出会下雨的伞救活一个厂",
       "onboard_time": 1705389809,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456978,
+      "num": 456978,
+      "word": "男子巴黎出差强吻女同事被开",
+      "onboard_time": 1705570588,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -4417,14 +4433,6 @@
       "onboard_time": 1705497811,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 373178,
-      "num": 373178,
-      "word": "男子巴黎出差强吻女同事被开",
-      "onboard_time": 1705570588,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 373056,
@@ -5939,6 +5947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263482,
+      "num": 263482,
+      "word": "林小宅人生第一部仙侠剧",
+      "onboard_time": 1705579769,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263419,
       "num": 263419,
       "word": "未来每10年出生人口下个百万台阶",
@@ -6795,6 +6811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230247,
+      "num": 230247,
+      "word": "黄轩为虞书欣包场祈今朝",
+      "onboard_time": 1705580789,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229552,
       "num": 229552,
       "word": "赵丽颖第二十条定格照",
@@ -7169,14 +7193,6 @@
       "onboard_time": 1705565608,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 217614,
-      "num": 217614,
-      "word": "林小宅人生第一部仙侠剧",
-      "onboard_time": 1705579769,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 217518,
@@ -7585,6 +7601,14 @@
       "onboard_time": 1705240293,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205747,
+      "num": 205747,
+      "word": "张艺兴制作腊八蒜",
+      "onboard_time": 1705581207,
+      "rank": 47,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 205317,
@@ -8195,6 +8219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193472,
+      "num": 193472,
+      "word": "猪次方",
+      "onboard_time": 1705581568,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193433,
       "num": 193433,
       "word": "朱一龙你好宠",
@@ -8273,6 +8305,14 @@
       "onboard_time": 1705411411,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191822,
+      "num": 191822,
+      "word": "虞书欣被直播背景板砸到",
+      "onboard_time": 1705581751,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 191756,
@@ -8803,6 +8843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182971,
+      "num": 182971,
+      "word": "白鹿微博之夜妆容Vlog",
+      "onboard_time": 1705580849,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182970,
       "num": 182970,
       "word": "国足两连平",
@@ -9027,14 +9075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179376,
-      "num": 179376,
-      "word": "黄轩为虞书欣包场祈今朝",
-      "onboard_time": 1705580789,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179211,
       "num": 179211,
       "word": "ale改名clearlove14",
@@ -9145,14 +9185,6 @@
       "onboard_time": 1705298489,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176647,
-      "num": 176647,
-      "word": "白鹿微博之夜妆容Vlog",
-      "onboard_time": 1705580849,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 176605,
@@ -10787,6 +10819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146889,
+      "num": 146889,
+      "word": "两人为预制蛋大打出手",
+      "onboard_time": 1705581329,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146748,
       "num": 146748,
       "word": "钝感力是阴阳怪气的克星",
@@ -12139,6 +12179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 123165,
+      "num": 123165,
+      "word": "曾舜晞教教成毅对镜自拍吧",
+      "onboard_time": 1705582170,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123124,
       "num": 123124,
       "word": "GALA选手LPL征战五周年",
@@ -12505,14 +12553,6 @@
       "onboard_time": 1705307309,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114874,
-      "num": 114874,
-      "word": "张艺兴制作腊八蒜",
-      "onboard_time": 1705581207,
-      "rank": 47,
-      "category": "艺人,美食"
     },
     {
       "raw_hot": 114333,
