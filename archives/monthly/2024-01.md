@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/18 16:22:14
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/18 16:35:36
 </p>
 </blockquote>
 <p>
@@ -5769,6 +5769,12 @@ GAI 五年后再给王鹤棣续SVIP（热度：690915）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B9%90%E5%90%9B6%E5%B9%B4%E5%89%8D%E6%9B%BE%E5%8F%91%E5%A3%B0%E5%8F%8D%E8%92%8B%E5%8A%B2%E5%A4%AB%E5%AE%B6%E6%9A%B4%23" target="weibo">
+王乐君6年前曾发声反蒋劲夫家暴（热度：687725）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%89%B9%20%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E7%90%83%E5%BE%88%E6%A8%A1%E7%B3%8A%23" target="weibo">
 马特 王楚钦发球很模糊（热度：687255）
 </a>
@@ -6005,12 +6011,6 @@ GAI 五年后再给王鹤棣续SVIP（热度：690915）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E8%AF%BB%E7%9E%8E%E5%9B%9E%23" target="weibo">
 已读瞎回（热度：669947）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%AF%B4%E6%9A%82%E5%81%9C%E6%98%AF%E4%B8%BA%E4%BA%86%E9%87%8D%E6%96%B0%E5%87%BA%E5%8F%91%23" target="weibo">
-王源说暂停是为了重新出发（热度：669817）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705566134865,
+  "endTime": 1705566936997,
   "band_list": [
     {
       "raw_hot": 2719567,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687725,
+      "num": 687725,
+      "word": "王乐君6年前曾发声反蒋劲夫家暴",
+      "onboard_time": 1705565068,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 678190,
       "num": 678190,
       "word": "祝绪丹于正风波",
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 498351,
+      "num": 498351,
+      "word": "女妲己只和女生贴贴",
+      "onboard_time": 1705564766,
+      "rank": 15,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 486917,
       "num": 486917,
       "word": "基金",
@@ -491,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 450005,
-      "num": 450005,
-      "word": "王乐君6年前曾发声反蒋劲夫家暴",
-      "onboard_time": 1705565068,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 440485,
       "num": 440485,
       "word": "外媒曝豆荚猫被哥哥家暴",
@@ -521,6 +529,14 @@
       "onboard_time": 1705549828,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432482,
+      "num": 432482,
+      "word": "虞书欣观众缘",
+      "onboard_time": 1705564467,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 421310,
@@ -561,14 +577,6 @@
       "onboard_time": 1705533982,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 393776,
-      "num": 393776,
-      "word": "虞书欣观众缘",
-      "onboard_time": 1705564467,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 391495,
@@ -619,12 +627,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 358841,
-      "num": 358841,
-      "word": "女妲己只和女生贴贴",
-      "onboard_time": 1705564766,
-      "rank": 15,
-      "category": "旅游"
+      "raw_hot": 361328,
+      "num": 361328,
+      "word": "檀健次 我这么man涂什么口红",
+      "onboard_time": 1705563209,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 350106,
@@ -649,14 +657,6 @@
       "onboard_time": 1705546286,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 335694,
-      "num": 335694,
-      "word": "檀健次 我这么man涂什么口红",
-      "onboard_time": 1705563209,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 332953,
@@ -803,6 +803,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 278826,
+      "num": 278826,
+      "word": "SEVENTEEN澳门 中文歌",
+      "onboard_time": 1705565847,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 277995,
       "num": 277995,
       "word": "沈星回 心里有我",
@@ -873,6 +881,14 @@
       "onboard_time": 1705544907,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 258038,
+      "num": 258038,
+      "word": "人民网评出格的文旅营销",
+      "onboard_time": 1705566386,
+      "rank": 22,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 256754,
@@ -963,20 +979,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232954,
+      "num": 232954,
+      "word": "发现姥姥没有想象中爱我",
+      "onboard_time": 1705563028,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230952,
       "num": 230952,
       "word": "俞敏洪再谈东方甄选风波",
       "onboard_time": 1705558826,
       "rank": 43,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 228211,
-      "num": 228211,
-      "word": "发现姥姥没有想象中爱我",
-      "onboard_time": 1705563028,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 227830,
@@ -1067,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208239,
+      "num": 208239,
+      "word": "魏晨抓了王鸥的娃娃",
+      "onboard_time": 1705566268,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208129,
       "num": 208129,
       "word": "傲寒拒绝无畏转辅助",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1705549107,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 203079,
+      "num": 203079,
+      "word": "尘夏傲寒压力下播",
+      "onboard_time": 1705565968,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 202898,
@@ -1225,6 +1257,22 @@
       "onboard_time": 1705539510,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 191318,
+      "num": 191318,
+      "word": "2024KPL春季转会期",
+      "onboard_time": 1705566386,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 191010,
+      "num": 191010,
+      "word": "我国打工人每周平均工作49小时",
+      "onboard_time": 1705566206,
+      "rank": 35,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 189346,
@@ -1419,14 +1467,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 168703,
-      "num": 168703,
-      "word": "SEVENTEEN澳门 中文歌",
-      "onboard_time": 1705565847,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 168691,
       "num": 168691,
       "word": "15岁少年保送清华本硕博连读",
@@ -1507,14 +1547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160926,
-      "num": 160926,
-      "word": "尘夏傲寒压力下播",
-      "onboard_time": 1705565968,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 160401,
       "num": 160401,
       "word": "春运前我破碎20年的家完整了",
@@ -1587,6 +1619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153640,
+      "num": 153640,
+      "word": "萧逸 等你回家",
+      "onboard_time": 1705565486,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151865,
       "num": 151865,
       "word": "王者嫦娥新皮肤",
@@ -1608,14 +1648,6 @@
       "word": "李白碎月剑心皮肤",
       "onboard_time": 1705534762,
       "rank": 38,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 148855,
-      "num": 148855,
-      "word": "萧逸 等你回家",
-      "onboard_time": 1705565486,
-      "rank": 39,
       "category": "游戏"
     },
     {
@@ -1723,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138194,
+      "num": 138194,
+      "word": "都江堰门票80元上海人15元",
+      "onboard_time": 1705565789,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 136825,
       "num": 136825,
       "word": "勇士助理教练去世",
@@ -1769,14 +1809,6 @@
       "onboard_time": 1705563627,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 130825,
-      "num": 130825,
-      "word": "都江堰门票80元上海人15元",
-      "onboard_time": 1705565789,
-      "rank": 44,
-      "category": "旅游"
     },
     {
       "raw_hot": 130605,
@@ -1849,6 +1881,14 @@
       "onboard_time": 1705506329,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119918,
+      "num": 119918,
+      "word": "花花又听见谭爷爷喊果赖了",
+      "onboard_time": 1705566927,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119192,
@@ -2313,6 +2353,14 @@
       "onboard_time": 1705527672,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12843,
+      "num": 1036286,
+      "word": "60秒速览天舟七号货运飞船发射",
+      "onboard_time": 1705566749,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12748,

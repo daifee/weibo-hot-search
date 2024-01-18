@@ -1,0 +1,410 @@
+{
+  "runTime": 1705566936997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2505640,
+        "num": 2505640,
+        "word": "彩礼",
+        "onboard_time": 1705554572,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1255494,
+        "num": 1255494,
+        "word": "6年前蒋劲夫6900多万演男一",
+        "onboard_time": 1705554151,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12843,
+        "num": 1036286,
+        "word": "60秒速览天舟七号货运飞船发射",
+        "onboard_time": 1705566749,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 929476,
+        "num": 929476,
+        "word": "举报导师的学生称接受不了论文是假的",
+        "onboard_time": 1705559067,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687725,
+        "num": 687725,
+        "word": "王乐君6年前曾发声反蒋劲夫家暴",
+        "onboard_time": 1705565068,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602266,
+        "num": 602266,
+        "word": "华中农大教授学术造假",
+        "onboard_time": 1705545625,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564695,
+        "num": 564695,
+        "word": "一中国籍女子在韩抽脂手术后死亡",
+        "onboard_time": 1705557089,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534770,
+        "num": 534770,
+        "word": "拉椅子致同学重伤父母被判赔10万",
+        "onboard_time": 1705559550,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498351,
+        "num": 498351,
+        "word": "女妲己只和女生贴贴",
+        "onboard_time": 1705564766,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 442431,
+        "num": 442431,
+        "word": "于正回复粉丝卢昱晓是女一号",
+        "onboard_time": 1705561349,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432482,
+        "num": 432482,
+        "word": "虞书欣观众缘",
+        "onboard_time": 1705564467,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419745,
+        "num": 419745,
+        "word": "江疏影目前单身",
+        "onboard_time": 1705562546,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406591,
+        "num": 406591,
+        "word": "外媒曝豆荚猫被哥哥家暴",
+        "onboard_time": 1705563929,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378893,
+        "num": 378893,
+        "word": "王安宇胡先煦打听各自的姐",
+        "onboard_time": 1705563750,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378083,
+        "num": 378083,
+        "word": "华为鸿蒙发布会",
+        "onboard_time": 1705562546,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 361328,
+        "num": 361328,
+        "word": "檀健次 我这么man涂什么口红",
+        "onboard_time": 1705563209,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309300,
+        "num": 309300,
+        "word": "妲己和石矶娘娘",
+        "onboard_time": 1705561227,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 306189,
+        "num": 306189,
+        "word": "市委书记不打招呼调研高中被门卫阻拦",
+        "onboard_time": 1705552112,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278826,
+        "num": 278826,
+        "word": "SEVENTEEN澳门 中文歌",
+        "onboard_time": 1705565847,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272503,
+        "num": 272503,
+        "word": "现在看封腾",
+        "onboard_time": 1705551386,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 803857,
+        "num": 265653,
+        "word": "2800",
+        "onboard_time": 1705550968,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258062,
+        "num": 258062,
+        "word": "胡锡进辟谣跌到2800点以下跳楼",
+        "onboard_time": 1705564766,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 258038,
+        "num": 258038,
+        "word": "人民网评出格的文旅营销",
+        "onboard_time": 1705566386,
+        "rank": 22,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 232954,
+        "num": 232954,
+        "word": "发现姥姥没有想象中爱我",
+        "onboard_time": 1705563028,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36327,
+        "num": 230613,
+        "word": "大美中国 冰雪之约",
+        "onboard_time": 1705553551,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229481,
+        "num": 229481,
+        "word": "卡琳娜复更",
+        "onboard_time": 1705554511,
+        "rank": 25,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 218967,
+        "num": 218967,
+        "word": "一起做大做强",
+        "onboard_time": 1705564168,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214098,
+        "num": 214098,
+        "word": "秦海璐被迪丽热巴吓哭了",
+        "onboard_time": 1705558706,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212868,
+        "num": 212868,
+        "word": "50岁的舅舅被我骂哭了",
+        "onboard_time": 1705561827,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208239,
+        "num": 208239,
+        "word": "魏晨抓了王鸥的娃娃",
+        "onboard_time": 1705566268,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205333,
+        "num": 205333,
+        "word": "京东回应快递员退休有房有车",
+        "onboard_time": 1705559967,
+        "rank": 30,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 203079,
+        "num": 203079,
+        "word": "尘夏傲寒压力下播",
+        "onboard_time": 1705565968,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200956,
+        "num": 200956,
+        "word": "世界之外 能不能改改立绘",
+        "onboard_time": 1705554870,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194735,
+        "num": 194735,
+        "word": "番位笑话",
+        "onboard_time": 1705552652,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191318,
+        "num": 191318,
+        "word": "2024KPL春季转会期",
+        "onboard_time": 1705566386,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191010,
+        "num": 191010,
+        "word": "我国打工人每周平均工作49小时",
+        "onboard_time": 1705566206,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 190997,
+        "num": 190997,
+        "word": "代号鸢甘宁剧情",
+        "onboard_time": 1705565608,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169065,
+        "num": 169065,
+        "word": "傲寒拒绝无畏转辅助",
+        "onboard_time": 1705563627,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153640,
+        "num": 153640,
+        "word": "萧逸 等你回家",
+        "onboard_time": 1705565486,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146393,
+        "num": 146393,
+        "word": "三大指数已全线翻红",
+        "onboard_time": 1705562847,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140986,
+        "num": 140986,
+        "word": "股票",
+        "onboard_time": 1705561706,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138194,
+        "num": 138194,
+        "word": "都江堰门票80元上海人15元",
+        "onboard_time": 1705565789,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 137755,
+        "num": 137755,
+        "word": "郝劭文就女儿被霸凌事件再发声",
+        "onboard_time": 1705553070,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135087,
+        "num": 135087,
+        "word": "林小宅藏药令女主",
+        "onboard_time": 1705561108,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131572,
+        "num": 131572,
+        "word": "大侦探9",
+        "onboard_time": 1705553312,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124343,
+        "num": 124343,
+        "word": "恋与深空正式上线",
+        "onboard_time": 1705546643,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123813,
+        "num": 123813,
+        "word": "张若昀又演法医了",
+        "onboard_time": 1705561529,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123643,
+        "num": 123643,
+        "word": "KPL有自己的许沁",
+        "onboard_time": 1705558050,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122464,
+        "num": 122464,
+        "word": "光与夜之恋电话",
+        "onboard_time": 1705546286,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119918,
+        "num": 119918,
+        "word": "花花又听见谭爷爷喊果赖了",
+        "onboard_time": 1705566927,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
