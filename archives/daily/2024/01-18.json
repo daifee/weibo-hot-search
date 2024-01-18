@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705569502952,
+  "endTime": 1705570484195,
   "band_list": [
     {
       "raw_hot": 2719567,
@@ -139,8 +139,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 963279,
-      "num": 963279,
+      "raw_hot": 970073,
+      "num": 970073,
       "word": "人民网评出格的文旅营销",
       "onboard_time": 1705566386,
       "rank": 22,
@@ -371,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 559010,
+      "num": 559010,
+      "word": "网购四斤车厘子收到带包装仅三斤",
+      "onboard_time": 1705568908,
+      "rank": 28,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 555831,
       "num": 326954,
       "word": "华中农大涉嫌学术不端教授多项专利被驳回",
@@ -435,6 +443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 482916,
+      "num": 385792,
+      "word": "我国打工人每周平均工作49小时",
+      "onboard_time": 1705566206,
+      "rank": 35,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 482299,
       "num": 482299,
       "word": "秦海璐被迪丽热巴吓哭了",
@@ -449,6 +465,14 @@
       "onboard_time": 1705498472,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476674,
+      "num": 476674,
+      "word": "李宇春当年高考物理满分",
+      "onboard_time": 1705568546,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 476510,
@@ -563,6 +587,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 422820,
+      "num": 422820,
+      "word": "辛芷蕾凌晨三点半还在做饭",
+      "onboard_time": 1705568727,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421310,
       "num": 421310,
       "word": "iPhone15价格跌至史上最低",
@@ -603,28 +635,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 395692,
-      "num": 395692,
-      "word": "李宇春当年高考物理满分",
-      "onboard_time": 1705568546,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 391495,
       "num": 391495,
       "word": "王安宇胡先煦打听各自的姐",
       "onboard_time": 1705563750,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 385792,
-      "num": 385792,
-      "word": "我国打工人每周平均工作49小时",
-      "onboard_time": 1705566206,
-      "rank": 35,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 382298,
@@ -771,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 299040,
+      "num": 299040,
+      "word": "张颂文辛芷蕾这么熟吗",
+      "onboard_time": 1705569207,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 298419,
       "num": 298419,
       "word": "恋与深空正式上线",
@@ -811,12 +835,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286677,
+      "num": 286677,
+      "word": "杨幂的龙年穿搭",
+      "onboard_time": 1705569627,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 283888,
       "num": 251733,
       "word": "50岁的舅舅被我骂哭了",
       "onboard_time": 1705561827,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 282477,
+      "num": 282477,
+      "word": "国乙之癫",
+      "onboard_time": 1705569028,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 281887,
@@ -897,14 +937,6 @@
       "onboard_time": 1705546710,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 265192,
-      "num": 265192,
-      "word": "辛芷蕾凌晨三点半还在做饭",
-      "onboard_time": 1705568727,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 264186,
@@ -1019,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238463,
-      "num": 219816,
-      "word": "张颂文辛芷蕾这么熟吗",
-      "onboard_time": 1705569207,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 238332,
       "num": 238332,
       "word": "宋轶背上了文咏珊送的包",
@@ -1067,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228712,
+      "num": 228712,
+      "word": "决战平安京",
+      "onboard_time": 1705569928,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227830,
       "num": 211528,
       "word": "点外卖遇到了离职侠",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1705498892,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218303,
-      "num": 218303,
-      "word": "网购四斤车厘子收到带包装仅三斤",
-      "onboard_time": 1705568908,
-      "rank": 28,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 218135,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1705545206,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 198900,
+      "num": 198900,
+      "word": "为什么说过了腊八就是年",
+      "onboard_time": 1705570050,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 198499,
@@ -1491,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176142,
-      "num": 176142,
-      "word": "国乙之癫",
-      "onboard_time": 1705569028,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175911,
       "num": 175911,
       "word": "花花代表四川文旅出战",
@@ -1675,6 +1699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 158880,
+      "num": 158880,
+      "word": "股市",
+      "onboard_time": 1705569570,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156547,
       "num": 156547,
       "word": "布林肯所乘波音737遭遇严重故障",
@@ -1736,6 +1768,14 @@
       "word": "王者嫦娥新皮肤",
       "onboard_time": 1705501353,
       "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 150283,
+      "num": 150283,
+      "word": "齐司礼电话",
+      "onboard_time": 1705569928,
+      "rank": 37,
       "category": "游戏"
     },
     {
@@ -1987,6 +2027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123802,
+      "num": 123802,
+      "word": "谢兴阳 杭州不是美食荒漠",
+      "onboard_time": 1705570347,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123533,
       "num": 123533,
       "word": "祁煜脸红",
@@ -2049,6 +2097,14 @@
       "onboard_time": 1705556729,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116154,
+      "num": 116154,
+      "word": "林一把动心气球给了周也",
+      "onboard_time": 1705570466,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 115915,
@@ -2145,6 +2201,14 @@
       "onboard_time": 1705488750,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100342,
+      "num": 113811,
+      "word": "张黎",
+      "onboard_time": 1705570466,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 96060,
