@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705584831933,
+  "endTime": 1705587426365,
   "band_list": [
     {
       "raw_hot": 3794387,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1473340,
+      "num": 1188259,
+      "word": "华中农大再回应教授被举报学术不端事件",
+      "onboard_time": 1705582588,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1457594,
       "num": 1457594,
       "word": "渐冻人蔡磊称他离死亡已经非常近了",
@@ -89,6 +97,14 @@
       "onboard_time": 1705542206,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1359422,
+      "num": 1359422,
+      "word": "被抽走板凳骨折女生已自愿退学",
+      "onboard_time": 1705583969,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1350225,
@@ -128,14 +144,6 @@
       "word": "一中国籍女子在韩抽脂手术后死亡",
       "onboard_time": 1705557089,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1188259,
-      "num": 1188259,
-      "word": "华中农大再回应教授被举报学术不端事件",
-      "onboard_time": 1705582588,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -232,6 +240,14 @@
       "word": "因板凳骨折女生称父母与其断绝关系",
       "onboard_time": 1705573110,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 931292,
+      "num": 931292,
+      "word": "华中农大举报学生发声",
+      "onboard_time": 1705582110,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -395,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 657687,
+      "num": 657687,
+      "word": "华中农大",
+      "onboard_time": 1705584871,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 657309,
       "num": 299149,
       "word": "对方拒绝了您的生发请求",
@@ -499,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574622,
+      "num": 574622,
+      "word": "林小宅人生第一部仙侠剧",
+      "onboard_time": 1705579769,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 573384,
       "num": 423497,
       "word": "京东回应快递员退休有房有车",
@@ -521,6 +553,14 @@
       "onboard_time": 1705490966,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554828,
+      "num": 293699,
+      "word": "年终奖让我感觉到贫富差距",
+      "onboard_time": 1705584991,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 536428,
@@ -715,12 +755,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 447694,
-      "num": 447694,
-      "word": "林小宅人生第一部仙侠剧",
-      "onboard_time": 1705579769,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 449820,
+      "num": 449820,
+      "word": "曾舜晞教教成毅对镜自拍吧",
+      "onboard_time": 1705582170,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 440485,
@@ -771,28 +811,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 421636,
-      "num": 421636,
-      "word": "被抽走板凳骨折女生已自愿退学",
-      "onboard_time": 1705583969,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421310,
       "num": 421310,
       "word": "iPhone15价格跌至史上最低",
       "onboard_time": 1705476931,
       "rank": 5,
       "category": "数码"
-    },
-    {
-      "raw_hot": 413206,
-      "num": 413206,
-      "word": "曾舜晞教教成毅对镜自拍吧",
-      "onboard_time": 1705582170,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 409832,
@@ -907,12 +931,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 353700,
-      "num": 353700,
-      "word": "华中农大举报学生发声",
-      "onboard_time": 1705582110,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 357794,
+      "num": 289759,
+      "word": "迪丽热巴 我也没瘦成这样吧",
+      "onboard_time": 1705585352,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 351473,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1705494388,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 314472,
+      "num": 314472,
+      "word": "白月梵星",
+      "onboard_time": 1705584330,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 313294,
@@ -1416,6 +1448,14 @@
       "word": "你换一次手机要多久",
       "onboard_time": 1705549588,
       "rank": 27,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 225746,
+      "num": 225746,
+      "word": "国产手机仍一机难求",
+      "onboard_time": 1705585352,
+      "rank": 28,
       "category": "数码"
     },
     {
@@ -2035,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167173,
+      "num": 167173,
+      "word": "张颂文不敢坐摩天轮",
+      "onboard_time": 1705585826,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167155,
       "num": 167155,
       "word": "王鹤棣换发色全看心情",
@@ -2147,14 +2195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159528,
-      "num": 159528,
-      "word": "白月梵星",
-      "onboard_time": 1705584330,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159417,
       "num": 159417,
       "word": "股市",
@@ -2264,6 +2304,14 @@
       "word": "国乙巅峰对决日",
       "onboard_time": 1705560087,
       "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 149649,
+      "num": 149649,
+      "word": "张大仙试玩李白新皮肤",
+      "onboard_time": 1705586369,
+      "rank": 39,
       "category": "游戏"
     },
     {
@@ -2491,6 +2539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134327,
+      "num": 134327,
+      "word": "陈星旭章若楠读自己的同人文",
+      "onboard_time": 1705585769,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134049,
       "num": 134049,
       "word": "什刹海偶遇章若楠滑冰",
@@ -2705,6 +2761,14 @@
       "onboard_time": 1705502132,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112303,
+      "num": 112303,
+      "word": "周鸿祎称要坚定支持华为",
+      "onboard_time": 1705585052,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 112207,
@@ -3131,6 +3195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 24176,
+      "num": 979900,
+      "word": "腊八节祝你事事粥全",
+      "onboard_time": 1705547066,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17823,
       "num": 20149,
       "word": "天津迎来这种水果",
@@ -3153,14 +3225,6 @@
       "onboard_time": 1705519214,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14706,
-      "num": 912181,
-      "word": "腊八节祝你事事粥全",
-      "onboard_time": 1705547066,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14509,
