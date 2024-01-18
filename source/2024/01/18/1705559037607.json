@@ -1,0 +1,410 @@
+{
+  "runTime": 1705559037607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2134608,
+        "num": 2134608,
+        "word": "6年前蒋劲夫6900多万演男一",
+        "onboard_time": 1705554151,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1725427,
+        "num": 1725427,
+        "word": "华中农大教授学术造假",
+        "onboard_time": 1705545625,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101465,
+        "num": 1362351,
+        "word": "腊八节曾是古老的狂欢节",
+        "onboard_time": 1705554030,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1329124,
+        "num": 1329124,
+        "word": "彩礼",
+        "onboard_time": 1705554572,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1023354,
+        "num": 1023354,
+        "word": "一中国籍女子在韩抽脂手术后死亡",
+        "onboard_time": 1705557089,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838386,
+        "num": 838386,
+        "word": "市委书记不打招呼调研高中被门卫阻拦",
+        "onboard_time": 1705552112,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673044,
+        "num": 673044,
+        "word": "卡琳娜复更",
+        "onboard_time": 1705554511,
+        "rank": 6,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 617688,
+        "num": 617688,
+        "word": "现在看封腾",
+        "onboard_time": 1705551386,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 577006,
+        "num": 577006,
+        "word": "辛芷蕾再现臭yue名场面",
+        "onboard_time": 1705551267,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551626,
+        "num": 551626,
+        "word": "郝劭文就女儿被霸凌事件再发声",
+        "onboard_time": 1705553070,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476510,
+        "num": 476510,
+        "word": "巴基斯坦空袭位于伊朗东部的极端组织",
+        "onboard_time": 1705556668,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 474716,
+        "num": 474716,
+        "word": "迪丽热巴工作室P图",
+        "onboard_time": 1705555170,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451495,
+        "num": 451495,
+        "word": "倪萍辟谣整容",
+        "onboard_time": 1705557448,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380299,
+        "num": 380299,
+        "word": "河南云台山妲己扮演者道歉并暂停工作",
+        "onboard_time": 1705542506,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375884,
+        "num": 375884,
+        "word": "番位笑话",
+        "onboard_time": 1705552652,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348194,
+        "num": 348194,
+        "word": "世界之外 能不能改改立绘",
+        "onboard_time": 1705554870,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327443,
+        "num": 327443,
+        "word": "大侦探9",
+        "onboard_time": 1705553312,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311688,
+        "num": 311688,
+        "word": "英雄联盟手游代言人 王俊凯赵露思",
+        "onboard_time": 1705551690,
+        "rank": 17,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 297997,
+        "num": 297997,
+        "word": "秦海璐被迪丽热巴吓哭了",
+        "onboard_time": 1705558706,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292876,
+        "num": 292876,
+        "word": "飞猪被曝3人买同趟航班价格不同",
+        "onboard_time": 1705545084,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361515,
+        "num": 289257,
+        "word": "2800",
+        "onboard_time": 1705550968,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 277995,
+        "num": 277995,
+        "word": "沈星回 心里有我",
+        "onboard_time": 1705556910,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273762,
+        "num": 273762,
+        "word": "KPL有自己的许沁",
+        "onboard_time": 1705558050,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 263582,
+        "num": 263582,
+        "word": "光与夜之恋摇人了",
+        "onboard_time": 1705556548,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260923,
+        "num": 260923,
+        "word": "东北大冻梨被广西菜市场震惊到了",
+        "onboard_time": 1705556668,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 253587,
+        "num": 253587,
+        "word": "基金",
+        "onboard_time": 1705552534,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 234251,
+        "num": 234251,
+        "word": "仙剑四爱奇艺热度破7000",
+        "onboard_time": 1705555469,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231997,
+        "num": 231997,
+        "word": "侃爷610万假牙",
+        "onboard_time": 1705554511,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204931,
+        "num": 204931,
+        "word": "A股",
+        "onboard_time": 1705542206,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192232,
+        "num": 192232,
+        "word": "恋与深空正式上线",
+        "onboard_time": 1705546643,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191017,
+        "num": 191017,
+        "word": "华中农大举报学生望严惩造假者",
+        "onboard_time": 1705554392,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189411,
+        "num": 189411,
+        "word": "想恋爱的心突然就收回来了",
+        "onboard_time": 1705550551,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187759,
+        "num": 187759,
+        "word": "光与夜之恋电话",
+        "onboard_time": 1705546286,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181281,
+        "num": 181281,
+        "word": "新增2种情况下彩礼返还规则",
+        "onboard_time": 1705557688,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172227,
+        "num": 172227,
+        "word": "狗狗不理解但尊重猫猫的行为",
+        "onboard_time": 1705550187,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171184,
+        "num": 171184,
+        "word": "魏大勋凄美地剧照",
+        "onboard_time": 1705555228,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169178,
+        "num": 169178,
+        "word": "徐明浩男大回国",
+        "onboard_time": 1705553851,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164457,
+        "num": 164457,
+        "word": "光夜 老公你看他",
+        "onboard_time": 1705557988,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161888,
+        "num": 161888,
+        "word": "于正新片 旋转番位",
+        "onboard_time": 1705548748,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160200,
+        "num": 160200,
+        "word": "宋茜以为老公姐是老公他姐",
+        "onboard_time": 1705548868,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155959,
+        "num": 155959,
+        "word": "上证跌破2800点",
+        "onboard_time": 1705545147,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149344,
+        "num": 149344,
+        "word": "世界之外 男主叫我名字",
+        "onboard_time": 1705539687,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146871,
+        "num": 146871,
+        "word": "虞书欣颜文字",
+        "onboard_time": 1705555649,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143160,
+        "num": 143160,
+        "word": "俞敏洪再谈东方甄选风波",
+        "onboard_time": 1705558826,
+        "rank": 43,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 143096,
+        "num": 143096,
+        "word": "钝感力是阴阳怪气的克星",
+        "onboard_time": 1705558409,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139217,
+        "num": 139217,
+        "word": "大咖指导炒股从赚2万到亏13万",
+        "onboard_time": 1705558706,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 131810,
+        "num": 131810,
+        "word": "世界之外开服",
+        "onboard_time": 1705533140,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124260,
+        "num": 124260,
+        "word": "代号鸢 袁基别钓了",
+        "onboard_time": 1705557749,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118275,
+        "num": 118275,
+        "word": "陈星旭怀疑自己被宋茜屏蔽",
+        "onboard_time": 1705556428,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116836,
+        "num": 116836,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1705556729,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

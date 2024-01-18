@@ -1,6 +1,6 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705556049249,
+  "endTime": 1705559037607,
   "band_list": [
     {
       "raw_hot": 2321866,
@@ -59,6 +59,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1329124,
+      "num": 1329124,
+      "word": "彩礼",
+      "onboard_time": 1705554572,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1275281,
       "num": 1275281,
       "word": "市委书记不打招呼调研高中被门卫阻拦",
@@ -88,6 +96,14 @@
       "word": "男大学生抽走女同学板凳致其骨折",
       "onboard_time": 1705536386,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1023354,
+      "num": 1023354,
+      "word": "一中国籍女子在韩抽脂手术后死亡",
+      "onboard_time": 1705557089,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -137,14 +153,6 @@
       "onboard_time": 1705545147,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 908359,
-      "num": 908359,
-      "word": "彩礼",
-      "onboard_time": 1705554572,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 845572,
@@ -371,6 +379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476510,
+      "num": 476510,
+      "word": "巴基斯坦空袭位于伊朗东部的极端组织",
+      "onboard_time": 1705556668,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 474716,
+      "num": 474716,
+      "word": "迪丽热巴工作室P图",
+      "onboard_time": 1705555170,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460169,
       "num": 395486,
       "word": "举报县委书记后被捕的老干部无犯罪事实",
@@ -403,12 +427,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 439101,
-      "num": 439101,
-      "word": "迪丽热巴工作室P图",
-      "onboard_time": 1705555170,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 451495,
+      "num": 451495,
+      "word": "倪萍辟谣整容",
+      "onboard_time": 1705557448,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 436458,
@@ -571,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297997,
+      "num": 297997,
+      "word": "秦海璐被迪丽热巴吓哭了",
+      "onboard_time": 1705558706,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290991,
       "num": 290991,
       "word": "仙剑四特效",
@@ -611,6 +643,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 277995,
+      "num": 277995,
+      "word": "沈星回 心里有我",
+      "onboard_time": 1705556910,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275833,
       "num": 275833,
       "word": "华中农业大学",
@@ -627,6 +667,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 273762,
+      "num": 273762,
+      "word": "KPL有自己的许沁",
+      "onboard_time": 1705558050,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 271657,
       "num": 271657,
       "word": "电影灿烂的她定档",
@@ -641,6 +689,22 @@
       "onboard_time": 1705503091,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 263582,
+      "num": 263582,
+      "word": "光与夜之恋摇人了",
+      "onboard_time": 1705556548,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 260923,
+      "num": 260923,
+      "word": "东北大冻梨被广西菜市场震惊到了",
+      "onboard_time": 1705556668,
+      "rank": 24,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 258294,
@@ -987,6 +1051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181281,
+      "num": 181281,
+      "word": "新增2种情况下彩礼返还规则",
+      "onboard_time": 1705557688,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179907,
       "num": 179907,
       "word": "优酷限免仙剑一三五",
@@ -1097,6 +1169,14 @@
       "onboard_time": 1705552353,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 164457,
+      "num": 164457,
+      "word": "光夜 老公你看他",
+      "onboard_time": 1705557988,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 163718,
@@ -1267,6 +1347,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 143160,
+      "num": 143160,
+      "word": "俞敏洪再谈东方甄选风波",
+      "onboard_time": 1705558826,
+      "rank": 43,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 143096,
+      "num": 143096,
+      "word": "钝感力是阴阳怪气的克星",
+      "onboard_time": 1705558409,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142997,
       "num": 142997,
       "word": "三星S24",
@@ -1297,6 +1393,14 @@
       "onboard_time": 1705496669,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139217,
+      "num": 139217,
+      "word": "大咖指导炒股从赚2万到亏13万",
+      "onboard_time": 1705558706,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 138497,
@@ -1387,6 +1491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124260,
+      "num": 124260,
+      "word": "代号鸢 袁基别钓了",
+      "onboard_time": 1705557749,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120794,
       "num": 120794,
       "word": "华中农大被举报教授官网个人页已删除",
@@ -1411,12 +1523,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 118275,
+      "num": 118275,
+      "word": "陈星旭怀疑自己被宋茜屏蔽",
+      "onboard_time": 1705556428,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117927,
       "num": 116464,
       "word": "祈今朝明日开播",
       "onboard_time": 1705491810,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116836,
+      "num": 116836,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1705556729,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 115915,
@@ -1476,7 +1604,7 @@
     },
     {
       "raw_hot": 104856,
-      "num": 1266908,
+      "num": 1362351,
       "word": "腊八节曾是古老的狂欢节",
       "onboard_time": 1705554030,
       "rank": 2,
