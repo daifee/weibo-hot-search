@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/18 11:34:29
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/18 12:21:42
 </p>
 </blockquote>
 <p>
@@ -509,6 +509,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A6%8F%E5%BD%A9%E5%B7%B2%E6%8A%A5%E8%AD%A6%23" target="weibo">
 中福彩已报警（热度：2192273）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E5%A4%A7%E6%95%99%E6%8E%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%23" target="weibo">
+华中农大教授学术造假（热度：2189790）
 </a>
 </li>
 
@@ -1287,12 +1293,6 @@ A先生跳海（热度：1721660）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E5%A4%A7%E6%95%99%E6%8E%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%23" target="weibo">
-华中农大教授学术造假（热度：1511016）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%96%B0%E5%86%A0%E7%97%85%E4%BE%8B%E5%8A%A0%E9%80%9F%E8%94%93%E5%BB%B6%23" target="weibo">
 全球新冠病例加速蔓延（热度：1510371）
 </a>
@@ -1611,6 +1611,12 @@ iPhone为什么只有P大写（热度：1427162）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E7%8C%AA%E8%A2%AB%E6%9B%9D3%E4%BA%BA%E4%B9%B0%E5%90%8C%E8%B6%9F%E8%88%AA%E7%8F%AD%E4%BB%B7%E6%A0%BC%E4%B8%8D%E5%90%8C%23" target="weibo">
+飞猪被曝3人买同趟航班价格不同（热度：1398718）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%90%91%E5%A4%AA%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8B%8D%E4%B8%8B%E4%BC%B0%E5%80%BC800%E4%B8%87%E8%B1%AA%E5%AE%85%23" target="weibo">
 00后向太直播间拍下估值800万豪宅（热度：1397279）
 </a>
@@ -1637,12 +1643,6 @@ iPhone为什么只有P大写（热度：1427162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8D%95%E8%BA%AB%E6%B1%89%E5%BC%80%E5%A7%8B%E6%B6%8C%E5%90%91%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%89%BE%E8%80%81%E5%A9%86%23" target="weibo">
 中国单身汉开始涌向尼泊尔找老婆（热度：1385205）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E7%8C%AA%E8%A2%AB%E6%9B%9D3%E4%BA%BA%E4%B9%B0%E5%90%8C%E8%B6%9F%E8%88%AA%E7%8F%AD%E4%BB%B7%E6%A0%BC%E4%B8%8D%E5%90%8C%23" target="weibo">
-飞猪被曝3人买同趟航班价格不同（热度：1384667）
 </a>
 </li>
 

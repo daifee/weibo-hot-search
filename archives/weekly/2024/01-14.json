@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705548869672,
+  "endTime": 1705551702826,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -96,6 +96,14 @@
       "word": "专家称龙年或出现生育小高峰",
       "onboard_time": 1705460487,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2189790,
+      "num": 2189790,
+      "word": "华中农大教授学术造假",
+      "onboard_time": 1705545625,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1511016,
-      "num": 1511016,
-      "word": "华中农大教授学术造假",
-      "onboard_time": 1705545625,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1510146,
       "num": 1510146,
       "word": "APP未经同意跳转广告涉嫌违法",
@@ -507,6 +507,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1398718,
+      "num": 1398718,
+      "word": "飞猪被曝3人买同趟航班价格不同",
+      "onboard_time": 1705545084,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1390672,
       "num": 1390672,
       "word": "朱一龙微博King",
@@ -529,14 +537,6 @@
       "onboard_time": 1705319971,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1384667,
-      "num": 1384667,
-      "word": "飞猪被曝3人买同趟航班价格不同",
-      "onboard_time": 1705545084,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1375528,
@@ -1051,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 959634,
+      "num": 959634,
+      "word": "于正新片 旋转番位",
+      "onboard_time": 1705548748,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 958329,
       "num": 958329,
       "word": "董宇辉卖鱼",
@@ -1427,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 780711,
+      "num": 780711,
+      "word": "宋茜以为老公姐是老公他姐",
+      "onboard_time": 1705548868,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 778890,
       "num": 778890,
       "word": "各地文旅局都疯了",
@@ -1537,6 +1553,14 @@
       "onboard_time": 1705236631,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 754683,
+      "num": 754683,
+      "word": "影视公司起诉蒋劲夫被驳回",
+      "onboard_time": 1705548328,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 753550,
@@ -1771,6 +1795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 697288,
+      "num": 697288,
+      "word": "警方回应网红铁头直播间自曝嫖娼",
+      "onboard_time": 1705547424,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 695339,
       "num": 695339,
       "word": "王鹤棣抽到GAI送的十年SVIP",
@@ -1897,6 +1929,14 @@
       "onboard_time": 1705290089,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 669233,
+      "num": 607039,
+      "word": "2800",
+      "onboard_time": 1705550968,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 665624,
@@ -2211,12 +2251,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 607653,
+      "num": 607653,
+      "word": "施瓦辛格被德国海关扣押",
+      "onboard_time": 1705549948,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 605773,
       "num": 605773,
       "word": "国考面试名单",
       "onboard_time": 1705201352,
       "rank": 12,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 605339,
+      "num": 605339,
+      "word": "中国体彩客服称排列5开出55555不存在内幕",
+      "onboard_time": 1705549107,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 604609,
@@ -2723,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 526828,
+      "num": 508196,
+      "word": "胡锡进曾称2800点以下遍地是黄金",
+      "onboard_time": 1705546884,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 525583,
       "num": 525583,
       "word": "陈豪TVB视帝",
@@ -2809,14 +2873,6 @@
       "onboard_time": 1705200811,
       "rank": 15,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 508196,
-      "num": 508196,
-      "word": "胡锡进曾称2800点以下遍地是黄金",
-      "onboard_time": 1705546884,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 505915,
@@ -3195,6 +3251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 455062,
+      "num": 455062,
+      "word": "狐妖小红娘月红篇腊八片花",
+      "onboard_time": 1705548206,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 454910,
       "num": 454910,
       "word": "王一博 这个热搜不错",
@@ -3233,14 +3297,6 @@
       "onboard_time": 1705498053,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 447004,
-      "num": 447004,
-      "word": "警方回应网红铁头直播间自曝嫖娼",
-      "onboard_time": 1705547424,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 446403,
@@ -3377,6 +3433,14 @@
       "onboard_time": 1705154630,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 428879,
+      "num": 428879,
+      "word": "90后儿媳套用职场技能把婆婆当甲方",
+      "onboard_time": 1705549828,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427359,
@@ -3763,14 +3827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 383283,
-      "num": 383283,
-      "word": "狐妖小红娘月红篇腊八片花",
-      "onboard_time": 1705548206,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 382747,
       "num": 382747,
       "word": "央视转播车已抵达西安",
@@ -3873,6 +3929,14 @@
       "onboard_time": 1705507167,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375756,
+      "num": 266409,
+      "word": "狗狗不理解但尊重猫猫的行为",
+      "onboard_time": 1705550187,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 375362,
@@ -4587,6 +4651,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 305922,
+      "num": 210358,
+      "word": "想恋爱的心突然就收回来了",
+      "onboard_time": 1705550551,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 304046,
       "num": 247048,
       "word": "迪丽热巴肖战 能不能有一个同框",
@@ -5121,14 +5193,6 @@
       "onboard_time": 1705195289,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 269764,
-      "num": 269764,
-      "word": "影视公司起诉蒋劲夫被驳回",
-      "onboard_time": 1705548328,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 268572,
@@ -6035,6 +6099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227478,
+      "num": 227478,
+      "word": "你换一次手机要多久",
+      "onboard_time": 1705549588,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 227048,
       "num": 227048,
       "word": "李现生图",
@@ -6121,6 +6193,14 @@
       "onboard_time": 1705284388,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223858,
+      "num": 223858,
+      "word": "辛芷蕾再现臭yue名场面",
+      "onboard_time": 1705551267,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 223688,
@@ -6667,6 +6747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206963,
+      "num": 206963,
+      "word": "现在看封腾",
+      "onboard_time": 1705551386,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206168,
       "num": 206168,
       "word": "AG新阵容官宣",
@@ -6825,6 +6913,14 @@
       "onboard_time": 1705540467,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203445,
+      "num": 203445,
+      "word": "A股中长期向好态势不变",
+      "onboard_time": 1705549107,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 203113,
@@ -7587,6 +7683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186547,
+      "num": 186547,
+      "word": "云南白药炒股两年亏超22亿",
+      "onboard_time": 1705549588,
+      "rank": 40,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 186502,
       "num": 186502,
       "word": "恋与深空 预约",
@@ -7625,6 +7729,14 @@
       "onboard_time": 1705380931,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 185679,
+      "num": 185679,
+      "word": "詹姆斯扑倒欧文",
+      "onboard_time": 1705549229,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 185671,
@@ -7673,6 +7785,14 @@
       "onboard_time": 1705532718,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184176,
+      "num": 184176,
+      "word": "英雄联盟手游代言人 王俊凯赵露思",
+      "onboard_time": 1705551690,
+      "rank": 42,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 183885,
@@ -7995,6 +8115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 177534,
+      "num": 177534,
+      "word": "许凯虞书欣新剧开播",
+      "onboard_time": 1705550671,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177346,
       "num": 177346,
       "word": "越南虽败犹荣",
@@ -8249,6 +8377,14 @@
       "onboard_time": 1705407572,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171912,
+      "num": 171912,
+      "word": "基金称短期A股市场处于筑底阶段",
+      "onboard_time": 1705550910,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 171832,
@@ -8571,6 +8707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 165338,
+      "num": 165338,
+      "word": "大盘跌破2800点胡锡进会加仓吗",
+      "onboard_time": 1705551630,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 164956,
       "num": 164956,
       "word": "游客曝茶马古道旅行社强制体验骑马",
@@ -8681,6 +8825,14 @@
       "onboard_time": 1705546464,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162330,
+      "num": 162330,
+      "word": "2024全国征兵",
+      "onboard_time": 1705550852,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 162265,
@@ -9385,14 +9537,6 @@
       "onboard_time": 1705459649,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 148252,
-      "num": 148252,
-      "word": "于正新片 旋转番位",
-      "onboard_time": 1705548748,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 148018,
@@ -10105,6 +10249,14 @@
       "onboard_time": 1705412849,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136638,
+      "num": 284945,
+      "word": "女生为全家买新衣拍全家福",
+      "onboard_time": 1705547969,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136604,
@@ -11899,14 +12051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65951,
-      "num": 223835,
-      "word": "女生为全家买新衣拍全家福",
-      "onboard_time": 1705547969,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65771,
       "num": 63892,
       "word": "华中农大教授遭学生举报学术不端被调查",
@@ -12352,6 +12496,14 @@
       "word": "周深郎朗合作表演",
       "onboard_time": 1705173916,
       "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 38045,
+      "num": 210511,
+      "word": "龙年还得看成龙",
+      "onboard_time": 1705549706,
+      "rank": 30,
       "category": "作品衍生"
     },
     {

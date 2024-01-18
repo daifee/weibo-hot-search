@@ -1,21 +1,21 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705548869672,
+  "endTime": 1705551702826,
   "band_list": [
+    {
+      "raw_hot": 2189790,
+      "num": 2189790,
+      "word": "华中农大教授学术造假",
+      "onboard_time": 1705545625,
+      "rank": 49,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1631758,
       "num": 424898,
       "word": "华中农大11名学生联名举报信长达125页",
       "onboard_time": 1705502670,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1511016,
-      "num": 1511016,
-      "word": "华中农大教授学术造假",
-      "onboard_time": 1705545625,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1384667,
-      "num": 1384667,
+      "raw_hot": 1398718,
+      "num": 1398718,
       "word": "飞猪被曝3人买同趟航班价格不同",
       "onboard_time": 1705545084,
       "rank": 48,
@@ -83,6 +83,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 959634,
+      "num": 959634,
+      "word": "于正新片 旋转番位",
+      "onboard_time": 1705548748,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 923788,
       "num": 485339,
       "word": "上证跌破2800点",
@@ -115,11 +123,35 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 780711,
+      "num": 780711,
+      "word": "宋茜以为老公姐是老公他姐",
+      "onboard_time": 1705548868,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 754683,
+      "num": 754683,
+      "word": "影视公司起诉蒋劲夫被驳回",
+      "onboard_time": 1705548328,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 705955,
       "num": 468871,
       "word": "胡锡进",
       "onboard_time": 1705545747,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697288,
+      "num": 697288,
+      "word": "警方回应网红铁头直播间自曝嫖娼",
+      "onboard_time": 1705547424,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -129,6 +161,14 @@
       "onboard_time": 1705544965,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669233,
+      "num": 607039,
+      "word": "2800",
+      "onboard_time": 1705550968,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 657309,
@@ -153,6 +193,22 @@
       "onboard_time": 1705542684,
       "rank": 6,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 607653,
+      "num": 607653,
+      "word": "施瓦辛格被德国海关扣押",
+      "onboard_time": 1705549948,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 605339,
+      "num": 605339,
+      "word": "中国体彩客服称排列5开出55555不存在内幕",
+      "onboard_time": 1705549107,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593487,
@@ -187,7 +243,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508196,
+      "raw_hot": 526828,
       "num": 508196,
       "word": "胡锡进曾称2800点以下遍地是黄金",
       "onboard_time": 1705546884,
@@ -227,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455062,
+      "num": 455062,
+      "word": "狐妖小红娘月红篇腊八片花",
+      "onboard_time": 1705548206,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 453466,
       "num": 453466,
       "word": "世界之外 男主叫我名字",
@@ -235,20 +299,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 447004,
-      "num": 447004,
-      "word": "警方回应网红铁头直播间自曝嫖娼",
-      "onboard_time": 1705547424,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 436458,
       "num": 436458,
       "word": "林一刘浩存看到项圈的不同反应",
       "onboard_time": 1705540225,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428879,
+      "num": 428879,
+      "word": "90后儿媳套用职场技能把婆婆当甲方",
+      "onboard_time": 1705549828,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421310,
@@ -291,20 +355,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 383283,
-      "num": 383283,
-      "word": "狐妖小红娘月红篇腊八片花",
-      "onboard_time": 1705548206,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 375992,
       "num": 375992,
       "word": "村里停电新能源车变身老人生命充电桩",
       "onboard_time": 1705507167,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375756,
+      "num": 266409,
+      "word": "狗狗不理解但尊重猫猫的行为",
+      "onboard_time": 1705550187,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 372860,
@@ -371,6 +435,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 305922,
+      "num": 210358,
+      "word": "想恋爱的心突然就收回来了",
+      "onboard_time": 1705550551,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 298419,
       "num": 298419,
       "word": "恋与深空正式上线",
@@ -435,14 +507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 269764,
-      "num": 269764,
-      "word": "影视公司起诉蒋劲夫被驳回",
-      "onboard_time": 1705548328,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264186,
       "num": 179704,
       "word": "不是情侣关系的占有欲",
@@ -499,6 +563,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227478,
+      "num": 227478,
+      "word": "你换一次手机要多久",
+      "onboard_time": 1705549588,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 223858,
+      "num": 223858,
+      "word": "辛芷蕾再现臭yue名场面",
+      "onboard_time": 1705551267,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220856,
       "num": 220856,
       "word": "钟楚曦侯雯元合体直播",
@@ -547,12 +627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206963,
+      "num": 206963,
+      "word": "现在看封腾",
+      "onboard_time": 1705551386,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203557,
       "num": 203557,
       "word": "国足迎重大利好",
       "onboard_time": 1705540467,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203445,
+      "num": 203445,
+      "word": "A股中长期向好态势不变",
+      "onboard_time": 1705549107,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 202898,
@@ -651,12 +747,36 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 186547,
+      "num": 186547,
+      "word": "云南白药炒股两年亏超22亿",
+      "onboard_time": 1705549588,
+      "rank": 40,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 185679,
+      "num": 185679,
+      "word": "詹姆斯扑倒欧文",
+      "onboard_time": 1705549229,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184198,
       "num": 184198,
       "word": "过了腊八就是年",
       "onboard_time": 1705532718,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184176,
+      "num": 184176,
+      "word": "英雄联盟手游代言人 王俊凯赵露思",
+      "onboard_time": 1705551690,
+      "rank": 42,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 182295,
@@ -683,6 +803,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 177534,
+      "num": 177534,
+      "word": "许凯虞书欣新剧开播",
+      "onboard_time": 1705550671,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177232,
       "num": 177232,
       "word": "哈尔滨文旅局长回应文旅比拼",
@@ -705,6 +833,14 @@
       "onboard_time": 1705493788,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171912,
+      "num": 171912,
+      "word": "基金称短期A股市场处于筑底阶段",
+      "onboard_time": 1705550910,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 171180,
@@ -731,6 +867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 165338,
+      "num": 165338,
+      "word": "大盘跌破2800点胡锡进会加仓吗",
+      "onboard_time": 1705551630,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163718,
       "num": 128381,
       "word": "恋与制作人",
@@ -745,6 +889,14 @@
       "onboard_time": 1705546464,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162330,
+      "num": 162330,
+      "word": "2024全国征兵",
+      "onboard_time": 1705550852,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 162265,
@@ -843,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148252,
-      "num": 148252,
-      "word": "于正新片 旋转番位",
-      "onboard_time": 1705548748,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147870,
       "num": 147870,
       "word": "象宝宝太贪玩把象姐姐逼崩溃",
@@ -937,6 +1081,14 @@
       "onboard_time": 1705536987,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136638,
+      "num": 284945,
+      "word": "女生为全家买新衣拍全家福",
+      "onboard_time": 1705547969,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136405,
@@ -1227,14 +1379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65951,
-      "num": 223835,
-      "word": "女生为全家买新衣拍全家福",
-      "onboard_time": 1705547969,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65771,
       "num": 63892,
       "word": "华中农大教授遭学生举报学术不端被调查",
@@ -1353,6 +1497,14 @@
       "onboard_time": 1705548328,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38045,
+      "num": 210511,
+      "word": "龙年还得看成龙",
+      "onboard_time": 1705549706,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 33991,
