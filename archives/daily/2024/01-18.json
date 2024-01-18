@@ -1,13 +1,21 @@
 {
   "startTime": 1705508646045,
-  "endTime": 1705540624060,
+  "endTime": 1705541879768,
   "band_list": [
     {
       "raw_hot": 1631758,
-      "num": 402188,
+      "num": 424898,
       "word": "华中农大11名学生联名举报信长达125页",
       "onboard_time": 1705502670,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1174071,
+      "num": 1174071,
+      "word": "腊八节",
+      "onboard_time": 1705532899,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -19,11 +27,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1021017,
-      "num": 1021017,
-      "word": "腊八节",
-      "onboard_time": 1705532899,
-      "rank": 0,
+      "raw_hot": 1075983,
+      "num": 1075983,
+      "word": "男大学生抽走女同学板凳致其骨折",
+      "onboard_time": 1705536386,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -35,12 +43,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 988818,
-      "num": 988818,
-      "word": "男大学生抽走女同学板凳致其骨折",
-      "onboard_time": 1705536386,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 845572,
+      "num": 845572,
+      "word": "云南白药退出全部二级市场证券投资",
+      "onboard_time": 1705537107,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 806702,
@@ -49,14 +57,6 @@
       "onboard_time": 1705507469,
       "rank": 1,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 785716,
-      "num": 785716,
-      "word": "云南白药退出全部二级市场证券投资",
-      "onboard_time": 1705537107,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 655784,
@@ -73,6 +73,14 @@
       "onboard_time": 1705491028,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 589877,
+      "num": 589877,
+      "word": "华中农大称调查情况将向社会公布",
+      "onboard_time": 1705538908,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 586967,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 498612,
-      "num": 402111,
+      "num": 458031,
       "word": "仙剑六 端水",
       "onboard_time": 1705539206,
       "rank": 11,
@@ -123,12 +131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433040,
+      "num": 433040,
+      "word": "世界之外 男主叫我名字",
+      "onboard_time": 1705539687,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 421310,
       "num": 421310,
       "word": "iPhone15价格跌至史上最低",
       "onboard_time": 1705476931,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 405787,
+      "num": 405787,
+      "word": "迪丽热巴徒手提行李箱惊呆辛芷蕾",
+      "onboard_time": 1705538969,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 402106,
@@ -147,14 +171,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 381272,
-      "num": 381272,
-      "word": "华中农大称调查情况将向社会公布",
-      "onboard_time": 1705538908,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 375992,
       "num": 375992,
       "word": "村里停电新能源车变身老人生命充电桩",
@@ -171,12 +187,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 356551,
-      "num": 356551,
-      "word": "迪丽热巴徒手提行李箱惊呆辛芷蕾",
-      "onboard_time": 1705538969,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 354240,
+      "num": 217234,
+      "word": "对方拒绝了您的生发请求",
+      "onboard_time": 1705541185,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 350106,
@@ -209,14 +225,6 @@
       "onboard_time": 1705492045,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 324198,
-      "num": 324198,
-      "word": "世界之外 男主叫我名字",
-      "onboard_time": 1705539687,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 322969,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 227830,
-      "num": 182855,
+      "num": 211528,
       "word": "点外卖遇到了离职侠",
       "onboard_time": 1705537707,
       "rank": 30,
@@ -297,6 +305,14 @@
       "onboard_time": 1705498892,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218135,
+      "num": 218135,
+      "word": "美军对也门胡塞武装目标发动新一轮袭击",
+      "onboard_time": 1705540225,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 217518,
@@ -315,11 +331,27 @@
       "category": "美食"
     },
     {
-      "raw_hot": 200772,
-      "num": 200772,
+      "raw_hot": 213709,
+      "num": 213709,
       "word": "祈今朝怪物长得好像新浪微博",
       "onboard_time": 1705538246,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203557,
+      "num": 203557,
+      "word": "国足迎重大利好",
+      "onboard_time": 1705540467,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203261,
+      "num": 203261,
+      "word": "仙剑四特效",
+      "onboard_time": 1705541246,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -329,6 +361,14 @@
       "onboard_time": 1705533378,
       "rank": 37,
       "category": "科学科普,社会新闻"
+    },
+    {
+      "raw_hot": 195559,
+      "num": 195559,
+      "word": "林一刘浩存看到项圈的不同反应",
+      "onboard_time": 1705540225,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 193447,
@@ -427,20 +467,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 167182,
-      "num": 167182,
-      "word": "美军对也门胡塞武装目标发动新一轮袭击",
-      "onboard_time": 1705540225,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 163718,
       "num": 128381,
       "word": "恋与制作人",
       "onboard_time": 1705533982,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161273,
+      "num": 161273,
+      "word": "米兰偶遇李敏镐",
+      "onboard_time": 1705540225,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 160401,
@@ -451,20 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159659,
-      "num": 159659,
-      "word": "林一刘浩存看到项圈的不同反应",
-      "onboard_time": 1705540225,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159598,
       "num": 159598,
       "word": "光与夜之恋 转盘",
       "onboard_time": 1705538788,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153840,
+      "num": 153840,
+      "word": "三角函数的公开课",
+      "onboard_time": 1705540705,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 151865,
@@ -481,6 +521,14 @@
       "onboard_time": 1705534762,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148603,
+      "num": 148603,
+      "word": "腊八节快乐",
+      "onboard_time": 1705541127,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147373,
@@ -515,6 +563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141603,
+      "num": 141603,
+      "word": "星痕 KSG",
+      "onboard_time": 1705538488,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141587,
       "num": 141587,
       "word": "三星S24发布会",
@@ -547,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135609,
-      "num": 135609,
-      "word": "国足迎重大利好",
-      "onboard_time": 1705540467,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134049,
       "num": 134049,
       "word": "什刹海偶遇章若楠滑冰",
@@ -571,28 +619,20 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 132540,
-      "num": 132540,
-      "word": "米兰偶遇李敏镐",
-      "onboard_time": 1705540225,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 127515,
-      "num": 127515,
-      "word": "星痕 KSG",
-      "onboard_time": 1705538488,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 127186,
       "num": 121493,
       "word": "原来参加婚礼也有这么多讲究",
       "onboard_time": 1705501592,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126975,
+      "num": 126975,
+      "word": "NCT新团NCTWISH",
+      "onboard_time": 1705541607,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 126587,
@@ -684,7 +724,7 @@
     },
     {
       "raw_hot": 103249,
-      "num": 991477,
+      "num": 1013691,
       "word": "腊八蒜为啥是绿色的",
       "onboard_time": 1705490848,
       "rank": 2,
@@ -713,6 +753,14 @@
       "onboard_time": 1705488750,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96060,
+      "num": 280259,
+      "word": "三星发布首款AI手机",
+      "onboard_time": 1705540588,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 95232,
@@ -793,14 +841,6 @@
       "onboard_time": 1705532597,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72928,
-      "num": 127130,
-      "word": "三星发布首款AI手机",
-      "onboard_time": 1705540588,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 72341,

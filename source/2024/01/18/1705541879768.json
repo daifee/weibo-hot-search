@@ -1,0 +1,410 @@
+{
+  "runTime": 1705541879768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1174071,
+        "num": 1174071,
+        "word": "腊八节",
+        "onboard_time": 1705532899,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075983,
+        "num": 1075983,
+        "word": "男大学生抽走女同学板凳致其骨折",
+        "onboard_time": 1705536386,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85530,
+        "num": 1013691,
+        "word": "腊八蒜为啥是绿色的",
+        "onboard_time": 1705490848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008819,
+        "num": 1008819,
+        "word": "新郎为宠妻办中式婚礼不料自己也入坑",
+        "onboard_time": 1705536746,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845572,
+        "num": 845572,
+        "word": "云南白药退出全部二级市场证券投资",
+        "onboard_time": 1705537107,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 606132,
+        "num": 606132,
+        "word": "好难 我要吃面了",
+        "onboard_time": 1705535903,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 589877,
+        "num": 589877,
+        "word": "华中农大称调查情况将向社会公布",
+        "onboard_time": 1705538908,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458031,
+        "num": 458031,
+        "word": "仙剑六 端水",
+        "onboard_time": 1705539206,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433040,
+        "num": 433040,
+        "word": "世界之外 男主叫我名字",
+        "onboard_time": 1705539687,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 430284,
+        "num": 430284,
+        "word": "蔡少芬 难怪谢娜女儿叫跳跳",
+        "onboard_time": 1705533681,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664769,
+        "num": 424898,
+        "word": "华中农大11名学生联名举报信长达125页",
+        "onboard_time": 1705502670,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405787,
+        "num": 405787,
+        "word": "迪丽热巴徒手提行李箱惊呆辛芷蕾",
+        "onboard_time": 1705538969,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389254,
+        "num": 389254,
+        "word": "大麦同意退款抢林俊杰变林子祥的票",
+        "onboard_time": 1705507469,
+        "rank": 12,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 384921,
+        "num": 384921,
+        "word": "海底捞打毛线收费39到99",
+        "onboard_time": 1705509444,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296468,
+        "num": 296468,
+        "word": "iPhone15发售3个月仅掉价18.2%",
+        "onboard_time": 1705533982,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 292133,
+        "num": 292133,
+        "word": "车厘子降价仍不被买账",
+        "onboard_time": 1705501291,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96060,
+        "num": 280259,
+        "word": "三星发布首款AI手机",
+        "onboard_time": 1705540588,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 269571,
+        "num": 269571,
+        "word": "女童送医后死亡其父被刑拘",
+        "onboard_time": 1705498472,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254232,
+        "num": 254232,
+        "word": "仙剑四首播评价",
+        "onboard_time": 1705491028,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218135,
+        "num": 218135,
+        "word": "美军对也门胡塞武装目标发动新一轮袭击",
+        "onboard_time": 1705540225,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 354240,
+        "num": 217234,
+        "word": "对方拒绝了您的生发请求",
+        "onboard_time": 1705541185,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307205,
+        "num": 216702,
+        "word": "AirPodsPro龙年特别款",
+        "onboard_time": 1705537529,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 249320,
+        "num": 216232,
+        "word": "二胎夫妻无偿帮单亲爸爸照顾女儿",
+        "onboard_time": 1705536567,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 213709,
+        "num": 213709,
+        "word": "祈今朝怪物长得好像新浪微博",
+        "onboard_time": 1705538246,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211528,
+        "num": 211528,
+        "word": "点外卖遇到了离职侠",
+        "onboard_time": 1705537707,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203557,
+        "num": 203557,
+        "word": "国足迎重大利好",
+        "onboard_time": 1705540467,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203261,
+        "num": 203261,
+        "word": "仙剑四特效",
+        "onboard_time": 1705541246,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195559,
+        "num": 195559,
+        "word": "林一刘浩存看到项圈的不同反应",
+        "onboard_time": 1705540225,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182541,
+        "num": 182541,
+        "word": "怎么腌翠绿不发黄的腊八蒜",
+        "onboard_time": 1705540588,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178069,
+        "num": 178069,
+        "word": "徐志胜被家乡摇出来了",
+        "onboard_time": 1705506388,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173567,
+        "num": 173567,
+        "word": "发量少也能头包脸的公主披发",
+        "onboard_time": 1705537887,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 172848,
+        "num": 172848,
+        "word": "恋与深空",
+        "onboard_time": 1705493788,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169647,
+        "num": 169647,
+        "word": "小孩哥沉默十秒 浙江文旅一年白干",
+        "onboard_time": 1705484970,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 166122,
+        "num": 166122,
+        "word": "村里停电新能源车变身老人生命充电桩",
+        "onboard_time": 1705507167,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161273,
+        "num": 161273,
+        "word": "米兰偶遇李敏镐",
+        "onboard_time": 1705540225,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158734,
+        "num": 158734,
+        "word": "15岁少年保送清华本硕博连读",
+        "onboard_time": 1705539627,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154384,
+        "num": 154384,
+        "word": "外国演员接力宣读南非起诉以色列文件",
+        "onboard_time": 1705536567,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153840,
+        "num": 153840,
+        "word": "三角函数的公开课",
+        "onboard_time": 1705540705,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148603,
+        "num": 148603,
+        "word": "腊八节快乐",
+        "onboard_time": 1705541127,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146815,
+        "num": 146815,
+        "word": "上班就得有上班的样子",
+        "onboard_time": 1705538009,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141603,
+        "num": 141603,
+        "word": "星痕 KSG",
+        "onboard_time": 1705538488,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139508,
+        "num": 139508,
+        "word": "世界之外开服",
+        "onboard_time": 1705533140,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133549,
+        "num": 133549,
+        "word": "春运前我破碎20年的家完整了",
+        "onboard_time": 1705538728,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133152,
+        "num": 133152,
+        "word": "国足可能2分出线",
+        "onboard_time": 1705537949,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130825,
+        "num": 130825,
+        "word": "车厘子价格跳水经销商不敢囤货了",
+        "onboard_time": 1705537466,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126975,
+        "num": 126975,
+        "word": "NCT新团NCTWISH",
+        "onboard_time": 1705541607,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121379,
+        "num": 121379,
+        "word": "李白碎月剑心皮肤",
+        "onboard_time": 1705534762,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115706,
+        "num": 115706,
+        "word": "瑞士申请加入文旅比拼",
+        "onboard_time": 1705531875,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113990,
+        "num": 113990,
+        "word": "宋轶背上了文咏珊送的包",
+        "onboard_time": 1705497090,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113357,
+        "num": 113357,
+        "word": "祈今朝",
+        "onboard_time": 1705539928,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

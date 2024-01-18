@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705540624060,
+  "endTime": 1705541879768,
   "band_list": [
     {
       "raw_hot": 5664655,
@@ -699,6 +699,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1174071,
+      "num": 1174071,
+      "word": "腊八节",
+      "onboard_time": 1705532899,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1162294,
       "num": 1162294,
       "word": "钢琴销量断崖式下滑",
@@ -827,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1075983,
+      "num": 1075983,
+      "word": "男大学生抽走女同学板凳致其骨折",
+      "onboard_time": 1705536386,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1073552,
       "num": 1073552,
       "word": "尼格买提叫的是娜扎全名",
@@ -923,14 +939,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1021017,
-      "num": 1021017,
-      "word": "腊八节",
-      "onboard_time": 1705532899,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1016131,
       "num": 826924,
       "word": "杨幂绿戒指红美甲",
@@ -961,14 +969,6 @@
       "onboard_time": 1705465474,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 988818,
-      "num": 988818,
-      "word": "男大学生抽走女同学板凳致其骨折",
-      "onboard_time": 1705536386,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 980335,
@@ -1203,6 +1203,14 @@
       "category": "运动健身,社会新闻"
     },
     {
+      "raw_hot": 845572,
+      "num": 845572,
+      "word": "云南白药退出全部二级市场证券投资",
+      "onboard_time": 1705537107,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 844358,
       "num": 844358,
       "word": "Minji为没吃过刀削面道歉",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1705296691,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 785716,
-      "num": 785716,
-      "word": "云南白药退出全部二级市场证券投资",
-      "onboard_time": 1705537107,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 783403,
@@ -2267,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589877,
+      "num": 589877,
+      "word": "华中农大称调查情况将向社会公布",
+      "onboard_time": 1705538908,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588925,
       "num": 588925,
       "word": "秦岚裙子的衩开到我心口",
@@ -2804,7 +2812,7 @@
     },
     {
       "raw_hot": 498612,
-      "num": 402111,
+      "num": 458031,
       "word": "仙剑六 端水",
       "onboard_time": 1705539206,
       "rank": 11,
@@ -3235,6 +3243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 433040,
+      "num": 433040,
+      "word": "世界之外 男主叫我名字",
+      "onboard_time": 1705539687,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 432470,
       "num": 670626,
       "word": "90后瓦工日薪2000在省会买了房",
@@ -3441,6 +3457,14 @@
       "onboard_time": 1705307010,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 405787,
+      "num": 405787,
+      "word": "迪丽热巴徒手提行李箱惊呆辛芷蕾",
+      "onboard_time": 1705538969,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 402155,
@@ -3657,14 +3681,6 @@
       "onboard_time": 1705390232,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 381272,
-      "num": 381272,
-      "word": "华中农大称调查情况将向社会公布",
-      "onboard_time": 1705538908,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 380883,
@@ -3923,14 +3939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 356551,
-      "num": 356551,
-      "word": "迪丽热巴徒手提行李箱惊呆辛芷蕾",
-      "onboard_time": 1705538969,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 355280,
       "num": 355280,
       "word": "渐冻人蔡磊澄清用药有效",
@@ -3945,6 +3953,14 @@
       "onboard_time": 1705477828,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 354240,
+      "num": 217234,
+      "word": "对方拒绝了您的生发请求",
+      "onboard_time": 1705541185,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 354156,
@@ -4177,14 +4193,6 @@
       "onboard_time": 1705370429,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 324198,
-      "num": 324198,
-      "word": "世界之外 男主叫我名字",
-      "onboard_time": 1705539687,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 324106,
@@ -5836,7 +5844,7 @@
     },
     {
       "raw_hot": 227830,
-      "num": 182855,
+      "num": 211528,
       "word": "点外卖遇到了离职侠",
       "onboard_time": 1705537707,
       "rank": 30,
@@ -6115,6 +6123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218135,
+      "num": 218135,
+      "word": "美军对也门胡塞武装目标发动新一轮袭击",
+      "onboard_time": 1705540225,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 217543,
       "num": 217543,
       "word": "祈今朝",
@@ -6257,6 +6273,14 @@
       "onboard_time": 1705378170,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 213709,
+      "num": 213709,
+      "word": "祈今朝怪物长得好像新浪微博",
+      "onboard_time": 1705538246,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 213399,
@@ -6603,6 +6627,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203557,
+      "num": 203557,
+      "word": "国足迎重大利好",
+      "onboard_time": 1705540467,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203261,
+      "num": 203261,
+      "word": "仙剑四特效",
+      "onboard_time": 1705541246,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203113,
       "num": 401917,
       "word": "杨紫蛋仔派对代言人",
@@ -6689,14 +6729,6 @@
       "onboard_time": 1705226670,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200772,
-      "num": 200772,
-      "word": "祈今朝怪物长得好像新浪微博",
-      "onboard_time": 1705538246,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 200556,
@@ -6857,6 +6889,14 @@
       "onboard_time": 1705195533,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195559,
+      "num": 195559,
+      "word": "林一刘浩存看到项圈的不同反应",
+      "onboard_time": 1705540225,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 195011,
@@ -8227,14 +8267,6 @@
       "category": "旅游,艺人"
     },
     {
-      "raw_hot": 167182,
-      "num": 167182,
-      "word": "美军对也门胡塞武装目标发动新一轮袭击",
-      "onboard_time": 1705540225,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 166828,
       "num": 166828,
       "word": "原来这就是相敬如宾啊",
@@ -8475,6 +8507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161273,
+      "num": 161273,
+      "word": "米兰偶遇李敏镐",
+      "onboard_time": 1705540225,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161066,
       "num": 161066,
       "word": "为什么父母总学不会道歉",
@@ -8529,14 +8569,6 @@
       "onboard_time": 1705393830,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159659,
-      "num": 159659,
-      "word": "林一刘浩存看到项圈的不同反应",
-      "onboard_time": 1705540225,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 159628,
@@ -8819,6 +8851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153840,
+      "num": 153840,
+      "word": "三角函数的公开课",
+      "onboard_time": 1705540705,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 153486,
       "num": 215843,
       "word": "天舟七号发射直播",
@@ -9033,6 +9073,14 @@
       "onboard_time": 1705372168,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148603,
+      "num": 148603,
+      "word": "腊八节快乐",
+      "onboard_time": 1705541127,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148582,
@@ -9419,6 +9467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 141603,
+      "num": 141603,
+      "word": "星痕 KSG",
+      "onboard_time": 1705538488,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141587,
       "num": 141587,
       "word": "三星S24发布会",
@@ -9795,14 +9851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135609,
-      "num": 135609,
-      "word": "国足迎重大利好",
-      "onboard_time": 1705540467,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135299,
       "num": 146158,
       "word": "给小朋友零花钱是必要的",
@@ -9897,14 +9945,6 @@
       "onboard_time": 1705245693,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132540,
-      "num": 132540,
-      "word": "米兰偶遇李敏镐",
-      "onboard_time": 1705540225,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 132049,
@@ -10051,14 +10091,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 127515,
-      "num": 127515,
-      "word": "星痕 KSG",
-      "onboard_time": 1705538488,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 127350,
       "num": 127350,
       "word": "辛芷蕾现身央视春晚彩排",
@@ -10073,6 +10105,14 @@
       "onboard_time": 1705366171,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126975,
+      "num": 126975,
+      "word": "NCT新团NCTWISH",
+      "onboard_time": 1705541607,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 126970,
@@ -11051,6 +11091,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 96060,
+      "num": 280259,
+      "word": "三星发布首款AI手机",
+      "onboard_time": 1705540588,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95232,
       "num": 95232,
       "word": "可偏偏是17年",
@@ -11353,14 +11401,6 @@
       "onboard_time": 1705532597,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72928,
-      "num": 127130,
-      "word": "三星发布首款AI手机",
-      "onboard_time": 1705540588,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 72716,
