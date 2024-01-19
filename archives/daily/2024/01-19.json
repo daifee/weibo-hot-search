@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705648617585,
+  "endTime": 1705649642501,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2635298,
-      "num": 925512,
+      "num": 929052,
       "word": "于正 让来不了的人去死吧",
       "onboard_time": 1705643667,
       "rank": 3,
@@ -27,19 +27,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2144782,
+      "num": 2144782,
+      "word": "专家称年轻人不生娃的思维是正确的",
+      "onboard_time": 1705644207,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1989448,
       "num": 1989448,
       "word": "中国夫妻疑因被谷歌裁员在美身亡",
       "onboard_time": 1705634728,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1973163,
-      "num": 1973163,
-      "word": "专家称年轻人不生娃的思维是正确的",
-      "onboard_time": 1705644207,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1094592,
+      "num": 499034,
+      "word": "于正 我说的是去撕吧",
+      "onboard_time": 1705648705,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1075726,
       "num": 364227,
       "word": "女子在家生产未剪脐带警车狂飙送医",
@@ -121,6 +129,14 @@
       "onboard_time": 1705632987,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 924448,
+      "num": 924448,
+      "word": "美甲店 杀熟",
+      "onboard_time": 1705647927,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 913154,
@@ -163,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 842428,
+      "num": 842428,
+      "word": "出成绩前大学生快把教务系统看烂了",
+      "onboard_time": 1705644867,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 816855,
       "num": 816855,
       "word": "九省联考",
@@ -185,14 +209,6 @@
       "onboard_time": 1705641869,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 809527,
-      "num": 809527,
-      "word": "出成绩前大学生快把教务系统看烂了",
-      "onboard_time": 1705644867,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 800984,
@@ -275,6 +291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 600081,
+      "num": 600081,
+      "word": "刘立宪被开除党籍",
+      "onboard_time": 1705648466,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565447,
       "num": 565447,
       "word": "高三艺考生292分拿下省状元",
@@ -315,6 +339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 509525,
+      "num": 509525,
+      "word": "胡塞武装称中俄等国船只可安全通过红海",
+      "onboard_time": 1705645586,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 496285,
       "num": 435590,
       "word": "妲己",
@@ -337,14 +369,6 @@
       "onboard_time": 1705637911,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 478499,
-      "num": 478499,
-      "word": "胡塞武装称中俄等国船只可安全通过红海",
-      "onboard_time": 1705645586,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 472571,
@@ -483,14 +507,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 345190,
-      "num": 142017,
-      "word": "美甲店 杀熟",
-      "onboard_time": 1705647927,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 340839,
       "num": 340839,
       "word": "女婴被抢15年找到后收买方已过追诉期",
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 318422,
-      "num": 188808,
+      "num": 228667,
       "word": "A股整体股息率已逼近历史高位",
       "onboard_time": 1705647386,
       "rank": 20,
@@ -723,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242524,
+      "num": 242524,
+      "word": "韩国知名rapper向警方自首吸毒",
+      "onboard_time": 1705649369,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237296,
       "num": 206250,
       "word": "小狗吵架试图咬死对方的空气",
@@ -771,12 +795,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225204,
+      "num": 225204,
+      "word": "国产剧癫妈",
+      "onboard_time": 1705648347,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220529,
       "num": 200289,
       "word": "一升瓶装水中竟有24万个塑料颗粒",
       "onboard_time": 1705622427,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219468,
+      "num": 219468,
+      "word": "因为会接水爸妈夸了我五分钟",
+      "onboard_time": 1705649008,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 216786,
@@ -867,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191582,
+      "num": 191582,
+      "word": "公司年假放了42天",
+      "onboard_time": 1705648768,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191526,
       "num": 191526,
       "word": "辛芷蕾凌晨三点半还在做饭",
@@ -939,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184201,
+      "num": 184201,
+      "word": "云台山妲己单人视频",
+      "onboard_time": 1705649427,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 182792,
       "num": 182792,
       "word": "茅子俊 仙剑茅血旺",
@@ -979,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177158,
+      "num": 177158,
+      "word": "蔡依林重庆演唱会官宣",
+      "onboard_time": 1705649247,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177046,
       "num": 177046,
       "word": "7岁北京小妞连夜打高铁捅戏窝子",
@@ -995,12 +1059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174557,
+      "num": 174557,
+      "word": "王安宇手臭的原因",
+      "onboard_time": 1705649187,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174071,
       "num": 174071,
       "word": "8部电影官宣2024春节档",
       "onboard_time": 1705641747,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173085,
+      "num": 173085,
+      "word": "恋与深空 句句有回音",
+      "onboard_time": 1705648705,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 166819,
@@ -1243,14 +1323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126159,
-      "num": 126159,
-      "word": "国产剧癫妈",
-      "onboard_time": 1705648347,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126113,
       "num": 126113,
       "word": "TES不然",
@@ -1307,20 +1379,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119622,
+      "num": 119622,
+      "word": "广东又要跌破0度",
+      "onboard_time": 1705648166,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119294,
       "num": 119294,
       "word": "繁花",
       "onboard_time": 1705593566,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118912,
-      "num": 118912,
-      "word": "刘立宪被开除党籍",
-      "onboard_time": 1705648466,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118070,
@@ -1361,14 +1433,6 @@
       "onboard_time": 1705632685,
       "rank": 43,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 115280,
-      "num": 115280,
-      "word": "广东又要跌破0度",
-      "onboard_time": 1705648166,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114899,
@@ -1419,6 +1483,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 111280,
+      "num": 111280,
+      "word": "跳水队公布世锦赛名单",
+      "onboard_time": 1705648705,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110522,
       "num": 110522,
       "word": "嗑到小说里的糖了",
@@ -1449,6 +1521,14 @@
       "onboard_time": 1705640428,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 105638,
+      "num": 105638,
+      "word": "松花湖偶遇张婧仪",
+      "onboard_time": 1705649247,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 105062,
@@ -1609,6 +1689,14 @@
       "onboard_time": 1705590212,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89009,
+      "num": 229023,
+      "word": "寻找回家的光",
+      "onboard_time": 1705648947,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 88906,

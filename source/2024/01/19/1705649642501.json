@@ -1,0 +1,402 @@
+{
+  "runTime": 1705649642501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2144782,
+        "num": 2144782,
+        "word": "专家称年轻人不生娃的思维是正确的",
+        "onboard_time": 1705644207,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946579,
+        "num": 946579,
+        "word": "日本首例特定未成年人被判死刑",
+        "onboard_time": 1705640309,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1655931,
+        "num": 929052,
+        "word": "于正 让来不了的人去死吧",
+        "onboard_time": 1705643667,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 924448,
+        "num": 924448,
+        "word": "美甲店 杀熟",
+        "onboard_time": 1705647927,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 842428,
+        "num": 842428,
+        "word": "出成绩前大学生快把教务系统看烂了",
+        "onboard_time": 1705644867,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 600081,
+        "num": 600081,
+        "word": "刘立宪被开除党籍",
+        "onboard_time": 1705648466,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564581,
+        "num": 564581,
+        "word": "张婧仪卢昱晓撞造型了",
+        "onboard_time": 1705641208,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509709,
+        "num": 509709,
+        "word": "华中农大教师黄某某存在学术不端",
+        "onboard_time": 1705619419,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509525,
+        "num": 509525,
+        "word": "胡塞武装称中俄等国船只可安全通过红海",
+        "onboard_time": 1705645586,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1094592,
+        "num": 499034,
+        "word": "于正 我说的是去撕吧",
+        "onboard_time": 1705648705,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482745,
+        "num": 482745,
+        "word": "iPhone到尔滨掉电有多快",
+        "onboard_time": 1705633826,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 442656,
+        "num": 442656,
+        "word": "中国夫妻疑因被谷歌裁员在美身亡",
+        "onboard_time": 1705634728,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381909,
+        "num": 381909,
+        "word": "四川乐山地震",
+        "onboard_time": 1705641869,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299329,
+        "num": 299329,
+        "word": "杨紫冬日梅子妆",
+        "onboard_time": 1705647568,
+        "rank": 14,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 296456,
+        "num": 296456,
+        "word": "春晚 科目三",
+        "onboard_time": 1705628670,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289213,
+        "num": 289213,
+        "word": "齐齐哈尔烤肉",
+        "onboard_time": 1705643667,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 242524,
+        "num": 242524,
+        "word": "韩国知名rapper向警方自首吸毒",
+        "onboard_time": 1705649369,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240818,
+        "num": 240818,
+        "word": "张黎 我们举报的问题不止于此",
+        "onboard_time": 1705633407,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89009,
+        "num": 229023,
+        "word": "寻找回家的光",
+        "onboard_time": 1705648947,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 312396,
+        "num": 228667,
+        "word": "A股整体股息率已逼近历史高位",
+        "onboard_time": 1705647386,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225204,
+        "num": 225204,
+        "word": "国产剧癫妈",
+        "onboard_time": 1705648347,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220254,
+        "num": 220254,
+        "word": "女子在家生产未剪脐带警车狂飙送医",
+        "onboard_time": 1705641025,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 219468,
+        "num": 219468,
+        "word": "因为会接水爸妈夸了我五分钟",
+        "onboard_time": 1705649008,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217700,
+        "num": 217700,
+        "word": "云台山景区就男女妲己事件致歉",
+        "onboard_time": 1705631607,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217761,
+        "num": 216001,
+        "word": "杨紫范丞丞好吵",
+        "onboard_time": 1705639590,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212155,
+        "num": 212155,
+        "word": "4岁小朋友存钱罐内存8万惊呆消防员",
+        "onboard_time": 1705641808,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199375,
+        "num": 199375,
+        "word": "宋茜victoria时代有多美",
+        "onboard_time": 1705643907,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191582,
+        "num": 191582,
+        "word": "公司年假放了42天",
+        "onboard_time": 1705648768,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187845,
+        "num": 187845,
+        "word": "重庆狼队公告",
+        "onboard_time": 1705644749,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184201,
+        "num": 184201,
+        "word": "云台山妲己单人视频",
+        "onboard_time": 1705649427,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 177158,
+        "num": 177158,
+        "word": "蔡依林重庆演唱会官宣",
+        "onboard_time": 1705649247,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174557,
+        "num": 174557,
+        "word": "王安宇手臭的原因",
+        "onboard_time": 1705649187,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173085,
+        "num": 173085,
+        "word": "恋与深空 句句有回音",
+        "onboard_time": 1705648705,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171631,
+        "num": 171631,
+        "word": "韩国剧组虐马致死被罚",
+        "onboard_time": 1705627888,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156621,
+        "num": 156621,
+        "word": "谢娜 有好几个朋友都不会再接我电话",
+        "onboard_time": 1705629568,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155732,
+        "num": 155732,
+        "word": "买酸奶时有这2个字要留个心眼",
+        "onboard_time": 1705633528,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143436,
+        "num": 143436,
+        "word": "小时候早早睡觉 现在熬夜玩手机",
+        "onboard_time": 1705648106,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142156,
+        "num": 142156,
+        "word": "iPhone16或新增拍照按钮",
+        "onboard_time": 1705637788,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135295,
+        "num": 135295,
+        "word": "旅游丢狗 铃芽之旅找大臣",
+        "onboard_time": 1705647568,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129496,
+        "num": 129496,
+        "word": "迪丽热巴弯腰不是在笑是在捡垃圾",
+        "onboard_time": 1705630409,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121648,
+        "num": 121648,
+        "word": "卢昱晓吴宣仪贴贴",
+        "onboard_time": 1705647746,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119622,
+        "num": 119622,
+        "word": "广东又要跌破0度",
+        "onboard_time": 1705648166,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118514,
+        "num": 118514,
+        "word": "张黎 毕业论文我写了大部分了",
+        "onboard_time": 1705633466,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116237,
+        "num": 116237,
+        "word": "为什么年轻人不愿意种地",
+        "onboard_time": 1705632987,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115369,
+        "num": 115369,
+        "word": "这些水滴居然是绣出来的",
+        "onboard_time": 1705642046,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114439,
+        "num": 114439,
+        "word": "仙剑四穿帮",
+        "onboard_time": 1705636709,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112225,
+        "num": 112225,
+        "word": "华中农大组建导师组负责黄某某研究生培养",
+        "onboard_time": 1705622786,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111280,
+        "num": 111280,
+        "word": "跳水队公布世锦赛名单",
+        "onboard_time": 1705648705,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105638,
+        "num": 105638,
+        "word": "松花湖偶遇张婧仪",
+        "onboard_time": 1705649247,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#统筹国内国际两个市场两种资源#"
+    }
+  }
+}
