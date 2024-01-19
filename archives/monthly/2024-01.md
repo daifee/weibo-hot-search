@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/19 17:18:16
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/19 17:34:30
 </p>
 </blockquote>
 <p>
@@ -2739,6 +2739,12 @@ Jennie离开YG的原因（热度：1109068）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%E6%9C%AC%E4%B8%8D%E9%9C%80%E5%AD%A6%E7%94%9F%E5%A6%82%E6%AD%A4%E5%86%92%E9%99%A9%23" target="weibo">
+举报导师学术造假本不需学生如此冒险（热度：1099942）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%87%BA%E4%BB%BB%E4%BF%B1%E4%B9%90%E9%83%A8%E6%8A%80%E6%9C%AF%E9%A1%BE%E9%97%AE%23" target="weibo">
 张继科出任俱乐部技术顾问（热度：1098411）
 </a>
@@ -3677,12 +3683,6 @@ papi酱 永远不知道同事到底叫什么（热度：951321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E5%A4%A7%E4%B8%BE%E6%8A%A5%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
 华中农大举报学生发声（热度：931292）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%E6%9C%AC%E4%B8%8D%E9%9C%80%E5%AD%A6%E7%94%9F%E5%A6%82%E6%AD%A4%E5%86%92%E9%99%A9%23" target="weibo">
-举报导师学术造假本不需学生如此冒险（热度：930998）
 </a>
 </li>
 

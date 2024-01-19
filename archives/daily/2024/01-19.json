@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705655896121,
+  "endTime": 1705656870207,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1099942,
+      "num": 930998,
+      "word": "举报导师学术造假本不需学生如此冒险",
+      "onboard_time": 1705653748,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1094592,
       "num": 499034,
       "word": "于正 我说的是去撕吧",
@@ -152,14 +160,6 @@
       "word": "张黎 毕业论文我写了大部分了",
       "onboard_time": 1705633466,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 930998,
-      "num": 930998,
-      "word": "举报导师学术造假本不需学生如此冒险",
-      "onboard_time": 1705653748,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 590117,
+      "num": 590117,
+      "word": "为什么吃的牛肉有时是彩色的",
+      "onboard_time": 1705651886,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 565447,
       "num": 565447,
       "word": "高三艺考生292分拿下省状元",
@@ -379,12 +387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 552578,
-      "num": 552578,
-      "word": "为什么吃的牛肉有时是彩色的",
-      "onboard_time": 1705651886,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 553793,
+      "num": 553793,
+      "word": "已读乱做",
+      "onboard_time": 1705652845,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 519786,
@@ -515,20 +523,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 417199,
+      "num": 417199,
+      "word": "女方家只收彩礼不陪嫁妆合适吗",
+      "onboard_time": 1705652845,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 410556,
       "num": 410556,
       "word": "齐齐哈尔烤肉",
       "onboard_time": 1705643667,
       "rank": 14,
       "category": "美食"
-    },
-    {
-      "raw_hot": 398937,
-      "num": 398937,
-      "word": "女方家只收彩礼不陪嫁妆合适吗",
-      "onboard_time": 1705652845,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 387794,
@@ -579,14 +587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 359002,
-      "num": 359002,
-      "word": "已读乱做",
-      "onboard_time": 1705652845,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 357033,
       "num": 137059,
       "word": "华中农大学生举报导师事件四大疑问",
@@ -617,6 +617,14 @@
       "onboard_time": 1705639110,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 341749,
+      "num": 341749,
+      "word": "秀才账号被封禁或涉诱导粉丝打赏",
+      "onboard_time": 1705655306,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 340839,
@@ -699,6 +707,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 290664,
+      "num": 290664,
+      "word": "恋与深空 抓娃娃",
+      "onboard_time": 1705655248,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290649,
       "num": 290649,
       "word": "减肥太快会导致皮肤松弛吗",
@@ -755,6 +771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 275458,
+      "num": 275458,
+      "word": "杨紫新剧鸡窝头",
+      "onboard_time": 1705652728,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275358,
       "num": 275358,
       "word": "胡歌被问及上海特色时还要查大众点评",
@@ -795,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258430,
-      "num": 258430,
-      "word": "杨紫新剧鸡窝头",
-      "onboard_time": 1705652728,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 257998,
       "num": 257998,
       "word": "最高检派专人赴河北指导马树山案",
@@ -835,20 +851,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 248909,
-      "num": 248909,
-      "word": "恋与深空 抓娃娃",
-      "onboard_time": 1705655248,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 247525,
       "num": 247525,
       "word": "王一博出发澳门",
       "onboard_time": 1705630590,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246062,
+      "num": 246062,
+      "word": "在美华人工程师枪杀妻子后自杀",
+      "onboard_time": 1705655607,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244494,
@@ -939,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226084,
+      "num": 226084,
+      "word": "骆歆cos卡莎",
+      "onboard_time": 1705656267,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225607,
       "num": 225607,
       "word": "外卖聊天记录",
@@ -963,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219520,
-      "num": 219520,
-      "word": "秀才账号被封禁或涉诱导粉丝打赏",
-      "onboard_time": 1705655306,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 219468,
       "num": 219468,
       "word": "因为会接水爸妈夸了我五分钟",
@@ -993,6 +1009,14 @@
       "onboard_time": 1705627405,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216054,
+      "num": 216054,
+      "word": "原件正确复印件才正确",
+      "onboard_time": 1705654466,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 209781,
@@ -1187,14 +1211,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 183361,
-      "num": 183361,
-      "word": "原件正确复印件才正确",
-      "onboard_time": 1705654466,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 182792,
       "num": 182792,
       "word": "茅子俊 仙剑茅血旺",
@@ -1267,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175899,
+      "num": 175899,
+      "word": "买酸奶最好别选带味的",
+      "onboard_time": 1705652788,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174557,
       "num": 174557,
       "word": "王安宇手臭的原因",
@@ -1291,14 +1315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171357,
-      "num": 171357,
-      "word": "买酸奶最好别选带味的",
-      "onboard_time": 1705652788,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 167840,
       "num": 167840,
       "word": "易方达基金张坤十大重仓股",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1705625669,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166477,
+      "num": 166477,
+      "word": "你也有今天豆瓣评分7.2",
+      "onboard_time": 1705655369,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 166049,
@@ -1417,14 +1441,6 @@
       "onboard_time": 1705647568,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153323,
-      "num": 153323,
-      "word": "你也有今天豆瓣评分7.2",
-      "onboard_time": 1705655369,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 152824,
@@ -1537,14 +1553,6 @@
       "onboard_time": 1705640490,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136299,
-      "num": 136299,
-      "word": "在美华人工程师枪杀妻子后自杀",
-      "onboard_time": 1705655607,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136077,
@@ -1673,6 +1681,14 @@
       "onboard_time": 1705629690,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123171,
+      "num": 123171,
+      "word": "苏醒扯面",
+      "onboard_time": 1705656685,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 121339,
