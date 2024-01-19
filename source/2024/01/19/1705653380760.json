@@ -1,0 +1,410 @@
+{
+  "runTime": 1705653380760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1761088,
+        "num": 1761088,
+        "word": "美甲店 杀熟",
+        "onboard_time": 1705647927,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1481040,
+        "num": 1481040,
+        "word": "校方不认定郝劭文女儿被霸凌",
+        "onboard_time": 1705651286,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66876,
+        "num": 1440248,
+        "word": "这条24公里跨海通道有5项世界首创",
+        "onboard_time": 1705650207,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1428848,
+        "num": 1428848,
+        "word": "于正 祝绪丹",
+        "onboard_time": 1705651046,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 915430,
+        "num": 915430,
+        "word": "董宇辉谈贾玲变化",
+        "onboard_time": 1705650150,
+        "rank": 4,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 842651,
+        "num": 842651,
+        "word": "吴宣仪 别开玩笑",
+        "onboard_time": 1705652068,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 624301,
+        "num": 624301,
+        "word": "吴亦凡关联公司仍欠约500万税款",
+        "onboard_time": 1705649909,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595181,
+        "num": 595181,
+        "word": "刘立宪被开除党籍",
+        "onboard_time": 1705648466,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591312,
+        "num": 591312,
+        "word": "韩国知名rapper向警方自首吸毒",
+        "onboard_time": 1705649369,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479004,
+        "num": 549229,
+        "word": "日本首例特定未成年人被判死刑",
+        "onboard_time": 1705640309,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 735104,
+        "num": 546008,
+        "word": "于正 让来不了的人去死吧",
+        "onboard_time": 1705643667,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 537171,
+        "num": 537171,
+        "word": "学校通报郝劭文女儿被霸凌事件",
+        "onboard_time": 1705651286,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489298,
+        "num": 489298,
+        "word": "景甜 一切要从擦干净手之后说起",
+        "onboard_time": 1705650207,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353091,
+        "num": 353091,
+        "word": "华中农大教师黄某某存在学术不端",
+        "onboard_time": 1705619419,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327707,
+        "num": 327707,
+        "word": "中国夫妻疑因被谷歌裁员在美身亡",
+        "onboard_time": 1705634728,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392629,
+        "num": 326854,
+        "word": "王诗龄拍杂志了",
+        "onboard_time": 1705649666,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 350300,
+        "num": 318600,
+        "word": "张婧仪卢昱晓撞造型了",
+        "onboard_time": 1705641208,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309848,
+        "num": 309848,
+        "word": "为什么吃的牛肉有时是彩色的",
+        "onboard_time": 1705651886,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 301639,
+        "num": 301639,
+        "word": "A股整体股息率已逼近历史高位",
+        "onboard_time": 1705647386,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258512,
+        "num": 258512,
+        "word": "出成绩前大学生快把教务系统看烂了",
+        "onboard_time": 1705644867,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258430,
+        "num": 258430,
+        "word": "杨紫新剧鸡窝头",
+        "onboard_time": 1705652728,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319852,
+        "num": 256577,
+        "word": "田曦薇张婧仪雪地撞衫",
+        "onboard_time": 1705652186,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226939,
+        "num": 226939,
+        "word": "胡塞武装称中俄等国船只可安全通过红海",
+        "onboard_time": 1705645586,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 214501,
+        "num": 214501,
+        "word": "外卖聊天记录",
+        "onboard_time": 1705650508,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208293,
+        "num": 208293,
+        "word": "化妆和不化妆的都沉默了",
+        "onboard_time": 1705650567,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224606,
+        "num": 208103,
+        "word": "林俊杰帮周杰伦王俊凯拍照",
+        "onboard_time": 1705651226,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217121,
+        "num": 208009,
+        "word": "换乘恋爱3",
+        "onboard_time": 1705651948,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207695,
+        "num": 207695,
+        "word": "公司年假放了42天",
+        "onboard_time": 1705648768,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201080,
+        "num": 201080,
+        "word": "女方家只收彩礼不陪嫁妆合适吗",
+        "onboard_time": 1705652845,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171648,
+        "num": 188708,
+        "word": "四川乐山地震",
+        "onboard_time": 1705641869,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187234,
+        "num": 187234,
+        "word": "春晚 科目三",
+        "onboard_time": 1705628670,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178956,
+        "num": 178956,
+        "word": "结婚前要把这7个问题聊清楚",
+        "onboard_time": 1705651167,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165592,
+        "num": 165592,
+        "word": "杨紫火星文自动回复",
+        "onboard_time": 1705652250,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164934,
+        "num": 164934,
+        "word": "因为会接水爸妈夸了我五分钟",
+        "onboard_time": 1705649008,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157014,
+        "num": 157014,
+        "word": "iPhone到尔滨掉电有多快",
+        "onboard_time": 1705633826,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155389,
+        "num": 155389,
+        "word": "女子在家生产未剪脐带警车狂飙送医",
+        "onboard_time": 1705641025,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 154130,
+        "num": 154130,
+        "word": "王安宇手臭的原因",
+        "onboard_time": 1705649187,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148956,
+        "num": 148956,
+        "word": "4岁小朋友存钱罐内存8万惊呆消防员",
+        "onboard_time": 1705641808,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142397,
+        "num": 142397,
+        "word": "广州队 最后12小时",
+        "onboard_time": 1705652845,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141701,
+        "num": 141701,
+        "word": "LCK宣布恢复FM",
+        "onboard_time": 1705651408,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134557,
+        "num": 134557,
+        "word": "TTG仙语连接成功",
+        "onboard_time": 1705653030,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132698,
+        "num": 132698,
+        "word": "这就是我小时候以为的世界",
+        "onboard_time": 1705651111,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131143,
+        "num": 131143,
+        "word": "易方达基金张坤十大重仓股",
+        "onboard_time": 1705650687,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128759,
+        "num": 128759,
+        "word": "喉结动了 门铃响了",
+        "onboard_time": 1705651527,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119808,
+        "num": 119808,
+        "word": "裁委会认定戴伟浚遭飞踹漏判红牌",
+        "onboard_time": 1705653030,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107604,
+        "num": 107604,
+        "word": "国产剧癫妈",
+        "onboard_time": 1705648347,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105979,
+        "num": 105979,
+        "word": "广西人年夜饭吃螺蛳粉吗",
+        "onboard_time": 1705653329,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105886,
+        "num": 105886,
+        "word": "买酸奶最好别选带味的",
+        "onboard_time": 1705652788,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105362,
+        "num": 105362,
+        "word": "iPhone16或新增拍照按钮",
+        "onboard_time": 1705637788,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103888,
+        "num": 103888,
+        "word": "为什么说要找情绪稳定的伴侣",
+        "onboard_time": 1705653329,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
