@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705660634517,
+  "endTime": 1705662970647,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1094592,
-      "num": 499034,
+      "num": 537522,
       "word": "于正 我说的是去撕吧",
       "onboard_time": 1705648705,
       "rank": 10,
@@ -299,12 +299,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774086,
+      "num": 774086,
+      "word": "麻将里面长这样",
+      "onboard_time": 1705658847,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 773027,
       "num": 773027,
       "word": "刘立宪被开除党籍",
       "onboard_time": 1705648466,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747526,
+      "num": 568789,
+      "word": "网易被曝大规模裁员",
+      "onboard_time": 1705661787,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 699010,
+      "num": 699010,
+      "word": "基金经理纷纷道歉",
+      "onboard_time": 1705660827,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 690073,
@@ -329,6 +353,14 @@
       "onboard_time": 1705631790,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 667819,
+      "num": 667819,
+      "word": "关晓彤告别王牌对王牌第八季",
+      "onboard_time": 1705660707,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 661384,
@@ -555,6 +587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 425120,
+      "num": 415248,
+      "word": "村民在微信群发了3句话被罚200元",
+      "onboard_time": 1705659026,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418048,
       "num": 124071,
       "word": "华中农大",
@@ -571,28 +611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 415248,
-      "num": 415248,
-      "word": "村民在微信群发了3句话被罚200元",
-      "onboard_time": 1705659026,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410556,
       "num": 410556,
       "word": "齐齐哈尔烤肉",
       "onboard_time": 1705643667,
       "rank": 14,
       "category": "美食"
-    },
-    {
-      "raw_hot": 395129,
-      "num": 395129,
-      "word": "麻将里面长这样",
-      "onboard_time": 1705658847,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 387794,
@@ -681,6 +705,14 @@
       "onboard_time": 1705639110,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 347442,
+      "num": 347442,
+      "word": "果郡王不知道 你李东学能不知道",
+      "onboard_time": 1705661366,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 340839,
@@ -971,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238375,
+      "num": 238375,
+      "word": "全员加速中 猎人赶高铁上班",
+      "onboard_time": 1705662385,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237296,
       "num": 206250,
       "word": "小狗吵架试图咬死对方的空气",
@@ -993,6 +1033,14 @@
       "onboard_time": 1705650567,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234229,
+      "num": 234229,
+      "word": "何猷君不在奚梦瑶是真正的i人",
+      "onboard_time": 1705660166,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 231636,
@@ -1131,6 +1179,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213781,
+      "num": 213781,
+      "word": "刘诗诗方告黑",
+      "onboard_time": 1705662085,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210953,
+      "num": 210953,
+      "word": "原神4.3版本",
+      "onboard_time": 1705662509,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209781,
       "num": 209781,
       "word": "公司年假放了42天",
@@ -1195,12 +1259,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204100,
+      "num": 204100,
+      "word": "广州队欠薪金额在8位数以上",
+      "onboard_time": 1705661066,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201381,
+      "num": 201381,
+      "word": "IU先行曲",
+      "onboard_time": 1705661907,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200784,
       "num": 200784,
       "word": "鸿蒙",
       "onboard_time": 1705635929,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 199296,
+      "num": 199296,
+      "word": "ITZY一位安可",
+      "onboard_time": 1705661966,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 196981,
@@ -1217,6 +1305,14 @@
       "onboard_time": 1705573110,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193694,
+      "num": 193694,
+      "word": "宋亚轩发文告别王牌",
+      "onboard_time": 1705662685,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 193261,
@@ -1443,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169134,
+      "num": 158267,
+      "word": "张婧仪毛绒帽子",
+      "onboard_time": 1705661305,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167840,
       "num": 167840,
       "word": "易方达基金张坤十大重仓股",
@@ -1659,12 +1763,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145503,
-      "num": 145503,
-      "word": "何猷君不在奚梦瑶是真正的i人",
-      "onboard_time": 1705660166,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 144340,
+      "num": 201666,
+      "word": "央广网评华中农大教授黄某某学术不端",
+      "onboard_time": 1705662385,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142397,
@@ -1867,6 +1971,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124748,
+      "num": 124748,
+      "word": "胡歌上海活动",
+      "onboard_time": 1705661665,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124229,
       "num": 124229,
       "word": "独立是一件很痛苦的事情",
@@ -1883,12 +1995,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123411,
+      "num": 123411,
+      "word": "当你喜欢上妈妈追过的爱豆",
+      "onboard_time": 1705661305,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123171,
       "num": 123171,
       "word": "苏醒扯面",
       "onboard_time": 1705656685,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122899,
+      "num": 122899,
+      "word": "电影花千骨首映礼",
+      "onboard_time": 1705660827,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 121339,

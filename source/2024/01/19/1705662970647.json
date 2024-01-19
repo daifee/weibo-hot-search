@@ -1,0 +1,402 @@
+{
+  "runTime": 1705662970647,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1027952,
+        "num": 1027952,
+        "word": "校方不认定郝劭文女儿被霸凌",
+        "onboard_time": 1705651286,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716556,
+        "num": 998625,
+        "word": "奶奶将孙女送的2元店手镯戴了12年",
+        "onboard_time": 1705658066,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969922,
+        "num": 969922,
+        "word": "于正 祝绪丹",
+        "onboard_time": 1705651046,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237934,
+        "num": 816511,
+        "word": "残疾男子摆摊拾荒16年捐出百万",
+        "onboard_time": 1705657827,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 779465,
+        "num": 779465,
+        "word": "九省联考数学 我真气笑了",
+        "onboard_time": 1705657467,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153320,
+        "num": 776757,
+        "word": "老师期末评语画了38个娃娃",
+        "onboard_time": 1705657827,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774086,
+        "num": 774086,
+        "word": "麻将里面长这样",
+        "onboard_time": 1705658847,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 699010,
+        "num": 699010,
+        "word": "基金经理纷纷道歉",
+        "onboard_time": 1705660827,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 667819,
+        "num": 667819,
+        "word": "关晓彤告别王牌对王牌第八季",
+        "onboard_time": 1705660707,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684452,
+        "num": 646141,
+        "word": "举报导师学术造假本不需学生如此冒险",
+        "onboard_time": 1705653748,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595936,
+        "num": 595936,
+        "word": "张杰和女儿AI照",
+        "onboard_time": 1705657947,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747526,
+        "num": 568789,
+        "word": "网易被曝大规模裁员",
+        "onboard_time": 1705661787,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 537522,
+        "num": 537522,
+        "word": "于正 我说的是去撕吧",
+        "onboard_time": 1705648705,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468593,
+        "num": 468593,
+        "word": "美甲店 杀熟",
+        "onboard_time": 1705647927,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 418913,
+        "num": 418913,
+        "word": "吴宣仪 别开玩笑",
+        "onboard_time": 1705652068,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397751,
+        "num": 397751,
+        "word": "日本首例特定未成年人被判死刑",
+        "onboard_time": 1705640309,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 365121,
+        "num": 365121,
+        "word": "朱旺旺妆容",
+        "onboard_time": 1705658129,
+        "rank": 17,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 362536,
+        "num": 362536,
+        "word": "吴亦凡关联公司仍欠约500万税款",
+        "onboard_time": 1705649909,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347442,
+        "num": 347442,
+        "word": "果郡王不知道 你李东学能不知道",
+        "onboard_time": 1705661366,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243052,
+        "num": 243052,
+        "word": "已读乱做",
+        "onboard_time": 1705652845,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 425120,
+        "num": 242441,
+        "word": "村民在微信群发了3句话被罚200元",
+        "onboard_time": 1705659026,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239635,
+        "num": 239635,
+        "word": "秀才账号被封禁或涉诱导粉丝打赏",
+        "onboard_time": 1705655306,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 238375,
+        "num": 238375,
+        "word": "全员加速中 猎人赶高铁上班",
+        "onboard_time": 1705662385,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234229,
+        "num": 234229,
+        "word": "何猷君不在奚梦瑶是真正的i人",
+        "onboard_time": 1705660166,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213781,
+        "num": 213781,
+        "word": "刘诗诗方告黑",
+        "onboard_time": 1705662085,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210953,
+        "num": 210953,
+        "word": "原神4.3版本",
+        "onboard_time": 1705662509,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204100,
+        "num": 204100,
+        "word": "广州队欠薪金额在8位数以上",
+        "onboard_time": 1705661066,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43340,
+        "num": 202096,
+        "word": "这条24公里跨海通道有5项世界首创",
+        "onboard_time": 1705650207,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144340,
+        "num": 201666,
+        "word": "央广网评华中农大教授黄某某学术不端",
+        "onboard_time": 1705662385,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201381,
+        "num": 201381,
+        "word": "IU先行曲",
+        "onboard_time": 1705661907,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199296,
+        "num": 199296,
+        "word": "ITZY一位安可",
+        "onboard_time": 1705661966,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198600,
+        "num": 198600,
+        "word": "韩国知名rapper向警方自首吸毒",
+        "onboard_time": 1705649369,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193694,
+        "num": 193694,
+        "word": "宋亚轩发文告别王牌",
+        "onboard_time": 1705662685,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184922,
+        "num": 184922,
+        "word": "这样洗羽绒服真的很干净",
+        "onboard_time": 1705660227,
+        "rank": 34,
+        "category": "时尚,科学科普"
+      },
+      {
+        "raw_hot": 175587,
+        "num": 175587,
+        "word": "张婧仪卢昱晓撞造型了",
+        "onboard_time": 1705641208,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173427,
+        "num": 173427,
+        "word": "董宇辉谈贾玲变化",
+        "onboard_time": 1705650150,
+        "rank": 36,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 169210,
+        "num": 169210,
+        "word": "任嘉伦金色卷发",
+        "onboard_time": 1705657167,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161083,
+        "num": 161083,
+        "word": "新年美甲",
+        "onboard_time": 1705659990,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 159700,
+        "num": 159700,
+        "word": "世界之外 保底",
+        "onboard_time": 1705658129,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169134,
+        "num": 158267,
+        "word": "张婧仪毛绒帽子",
+        "onboard_time": 1705661305,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156542,
+        "num": 156542,
+        "word": "谷歌中国工程师疑枪杀伴侣后自杀失败",
+        "onboard_time": 1705657587,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155681,
+        "num": 155681,
+        "word": "女方家只收彩礼不陪嫁妆合适吗",
+        "onboard_time": 1705652845,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145093,
+        "num": 145093,
+        "word": "章昊 换乘恋爱3OST",
+        "onboard_time": 1705658129,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136384,
+        "num": 136384,
+        "word": "林俊杰帮周杰伦王俊凯拍照",
+        "onboard_time": 1705651226,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124748,
+        "num": 124748,
+        "word": "胡歌上海活动",
+        "onboard_time": 1705661665,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123411,
+        "num": 123411,
+        "word": "当你喜欢上妈妈追过的爱豆",
+        "onboard_time": 1705661305,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122899,
+        "num": 122899,
+        "word": "电影花千骨首映礼",
+        "onboard_time": 1705660827,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114497,
+        "num": 114497,
+        "word": "雪地里摔倒的双胞胎",
+        "onboard_time": 1705660287,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109231,
+        "num": 109231,
+        "word": "在仙剑四中听到仙剑问情",
+        "onboard_time": 1705659990,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#从绿色发展中寻找发展的机遇和动力#"
+    }
+  }
+}
