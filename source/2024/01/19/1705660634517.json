@@ -1,0 +1,410 @@
+{
+  "runTime": 1705660634517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260110,
+        "num": 1260110,
+        "word": "校方不认定郝劭文女儿被霸凌",
+        "onboard_time": 1705651286,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777082,
+        "num": 1153897,
+        "word": "奶奶将孙女送的2元店手镯戴了12年",
+        "onboard_time": 1705658066,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59532,
+        "num": 1151228,
+        "word": "这条24公里跨海通道有5项世界首创",
+        "onboard_time": 1705650207,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148918,
+        "num": 1148918,
+        "word": "九省联考数学 我真气笑了",
+        "onboard_time": 1705657467,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 256074,
+        "num": 1076025,
+        "word": "残疾男子摆摊拾荒16年捐出百万",
+        "onboard_time": 1705657827,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1014345,
+        "num": 1014345,
+        "word": "于正 祝绪丹",
+        "onboard_time": 1705651046,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171720,
+        "num": 959766,
+        "word": "老师期末评语画了38个娃娃",
+        "onboard_time": 1705657827,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958562,
+        "num": 958562,
+        "word": "举报导师学术造假本不需学生如此冒险",
+        "onboard_time": 1705653748,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644379,
+        "num": 644379,
+        "word": "已读乱做",
+        "onboard_time": 1705652845,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 581619,
+        "num": 581619,
+        "word": "秀才账号被封禁或涉诱导粉丝打赏",
+        "onboard_time": 1705655306,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 907078,
+        "num": 577526,
+        "word": "张杰和女儿AI照",
+        "onboard_time": 1705657947,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554032,
+        "num": 554032,
+        "word": "吴宣仪 别开玩笑",
+        "onboard_time": 1705652068,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507230,
+        "num": 507230,
+        "word": "光明网评华中农大学生举报导师",
+        "onboard_time": 1705658186,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505895,
+        "num": 505895,
+        "word": "美甲店 杀熟",
+        "onboard_time": 1705647927,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 485482,
+        "num": 485482,
+        "word": "日本首例特定未成年人被判死刑",
+        "onboard_time": 1705640309,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 478818,
+        "num": 478818,
+        "word": "于正 我说的是去撕吧",
+        "onboard_time": 1705648705,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415248,
+        "num": 415248,
+        "word": "村民在微信群发了3句话被罚200元",
+        "onboard_time": 1705659026,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395129,
+        "num": 395129,
+        "word": "麻将里面长这样",
+        "onboard_time": 1705658847,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 389844,
+        "num": 389844,
+        "word": "吴亦凡关联公司仍欠约500万税款",
+        "onboard_time": 1705649909,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378554,
+        "num": 378554,
+        "word": "朱旺旺妆容",
+        "onboard_time": 1705658129,
+        "rank": 19,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 248294,
+        "num": 248294,
+        "word": "董宇辉谈贾玲变化",
+        "onboard_time": 1705650150,
+        "rank": 20,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 229129,
+        "num": 229129,
+        "word": "女方家只收彩礼不陪嫁妆合适吗",
+        "onboard_time": 1705652845,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224294,
+        "num": 224294,
+        "word": "韩国知名rapper向警方自首吸毒",
+        "onboard_time": 1705649369,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219439,
+        "num": 219439,
+        "word": "任嘉伦金色卷发",
+        "onboard_time": 1705657167,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217290,
+        "num": 217290,
+        "word": "世界之外 保底",
+        "onboard_time": 1705658129,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206030,
+        "num": 206030,
+        "word": "新年美甲",
+        "onboard_time": 1705659990,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 204078,
+        "num": 204078,
+        "word": "谷歌中国工程师疑枪杀伴侣后自杀失败",
+        "onboard_time": 1705657587,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197444,
+        "num": 197444,
+        "word": "章昊 换乘恋爱3OST",
+        "onboard_time": 1705658129,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195505,
+        "num": 195505,
+        "word": "为什么吃的牛肉有时是彩色的",
+        "onboard_time": 1705651886,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194379,
+        "num": 194379,
+        "word": "张婧仪卢昱晓撞造型了",
+        "onboard_time": 1705641208,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247726,
+        "num": 193172,
+        "word": "这样洗羽绒服真的很干净",
+        "onboard_time": 1705660227,
+        "rank": 30,
+        "category": "时尚,科学科普"
+      },
+      {
+        "raw_hot": 181929,
+        "num": 181929,
+        "word": "景甜 一切要从擦干净手之后说起",
+        "onboard_time": 1705650207,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158787,
+        "num": 158787,
+        "word": "在仙剑四中听到仙剑问情",
+        "onboard_time": 1705659990,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154312,
+        "num": 154312,
+        "word": "林俊杰帮周杰伦王俊凯拍照",
+        "onboard_time": 1705651226,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154639,
+        "num": 153972,
+        "word": "田曦薇张婧仪雪地撞衫",
+        "onboard_time": 1705652186,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145503,
+        "num": 145503,
+        "word": "何猷君不在奚梦瑶是真正的i人",
+        "onboard_time": 1705660166,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142129,
+        "num": 142129,
+        "word": "雪地里摔倒的双胞胎",
+        "onboard_time": 1705660287,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141773,
+        "num": 141773,
+        "word": "怪不得叫修狗呢",
+        "onboard_time": 1705659749,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140957,
+        "num": 140957,
+        "word": "光遇",
+        "onboard_time": 1705658728,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139875,
+        "num": 139875,
+        "word": "杨紫新剧鸡窝头",
+        "onboard_time": 1705652728,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138724,
+        "num": 138724,
+        "word": "华中农大教师黄某某存在学术不端",
+        "onboard_time": 1705619419,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135150,
+        "num": 135150,
+        "word": "骆歆cos卡莎",
+        "onboard_time": 1705656267,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127292,
+        "num": 127292,
+        "word": "去旅游的时候千万不要用手指鱼",
+        "onboard_time": 1705653510,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126521,
+        "num": 126521,
+        "word": "宝宝你怎么穿着虎皮裙",
+        "onboard_time": 1705660347,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125609,
+        "num": 125609,
+        "word": "神十七航天员开始进行天舟七号物资转运",
+        "onboard_time": 1705660287,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121799,
+        "num": 121799,
+        "word": "你也有今天豆瓣评分7.2",
+        "onboard_time": 1705655369,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117870,
+        "num": 117870,
+        "word": "在美华人工程师枪杀妻子后自杀",
+        "onboard_time": 1705655607,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117312,
+        "num": 117312,
+        "word": "A股整体股息率已逼近历史高位",
+        "onboard_time": 1705647386,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111880,
+        "num": 111880,
+        "word": "C罗确定来中国",
+        "onboard_time": 1705656985,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108586,
+        "num": 108586,
+        "word": "原件正确复印件才正确",
+        "onboard_time": 1705654466,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设金融强国使命在肩#"
+    }
+  }
+}

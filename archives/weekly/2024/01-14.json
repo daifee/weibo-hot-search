@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705659601805,
+  "endTime": 1705660634517,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -979,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1148918,
+      "num": 1148918,
+      "word": "九省联考数学 我真气笑了",
+      "onboard_time": 1705657467,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1148670,
       "num": 1148670,
       "word": "瑙鲁政府宣布承认一个中国",
@@ -1208,14 +1216,6 @@
       "word": "张雪峰向哈理工捐款100万",
       "onboard_time": 1705319191,
       "rank": 1,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 1026938,
-      "num": 1026938,
-      "word": "九省联考数学 我真气笑了",
-      "onboard_time": 1705657467,
-      "rank": 5,
       "category": "教育"
     },
     {
@@ -1945,6 +1945,14 @@
       "onboard_time": 1705233691,
       "rank": 11,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 777082,
+      "num": 1153897,
+      "word": "奶奶将孙女送的2元店手镯戴了12年",
+      "onboard_time": 1705658066,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 776116,
@@ -2697,14 +2705,6 @@
       "onboard_time": 1705387588,
       "rank": 12,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 638055,
-      "num": 1128807,
-      "word": "奶奶将孙女送的2元店手镯戴了12年",
-      "onboard_time": 1705658066,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 634599,
@@ -3675,6 +3675,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 507230,
+      "num": 507230,
+      "word": "光明网评华中农大学生举报导师",
+      "onboard_time": 1705658186,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505915,
       "num": 505915,
       "word": "大韩航空发布事故原因",
@@ -3945,14 +3953,6 @@
       "onboard_time": 1705207709,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 474824,
-      "num": 474824,
-      "word": "光明网评华中农大学生举报导师",
-      "onboard_time": 1705658186,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 474716,
@@ -4571,6 +4571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 415248,
+      "num": 415248,
+      "word": "村民在微信群发了3句话被罚200元",
+      "onboard_time": 1705659026,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415244,
       "num": 415244,
       "word": "黄健翔 亚洲足球的低水平丑陋暴露无遗",
@@ -4769,6 +4777,14 @@
       "onboard_time": 1705321648,
       "rank": 17,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 395129,
+      "num": 395129,
+      "word": "麻将里面长这样",
+      "onboard_time": 1705658847,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 394689,
@@ -5009,6 +5025,14 @@
       "onboard_time": 1705451427,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378554,
+      "num": 378554,
+      "word": "朱旺旺妆容",
+      "onboard_time": 1705658129,
+      "rank": 30,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 376748,
@@ -5857,14 +5881,6 @@
       "onboard_time": 1705238673,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 313079,
-      "num": 184392,
-      "word": "朱旺旺妆容",
-      "onboard_time": 1705658129,
-      "rank": 30,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 312884,
@@ -7035,6 +7051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 256074,
+      "num": 1076025,
+      "word": "残疾男子摆摊拾荒16年捐出百万",
+      "onboard_time": 1705657827,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 256066,
       "num": 256066,
       "word": "田曦薇李一桐 养眼组合",
@@ -7049,14 +7073,6 @@
       "onboard_time": 1705244255,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255997,
-      "num": 255997,
-      "word": "麻将里面长这样",
-      "onboard_time": 1705658847,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 255643,
@@ -7249,6 +7265,14 @@
       "onboard_time": 1705555649,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247726,
+      "num": 193172,
+      "word": "这样洗羽绒服真的很干净",
+      "onboard_time": 1705660227,
+      "rank": 30,
+      "category": "时尚,科学科普"
     },
     {
       "raw_hot": 247526,
@@ -8019,14 +8043,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 225920,
-      "num": 225920,
-      "word": "村民在微信群发了3句话被罚200元",
-      "onboard_time": 1705659026,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225846,
       "num": 225846,
       "word": "苏醒在零下舞台全开麦",
@@ -8353,6 +8369,14 @@
       "onboard_time": 1705464330,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217290,
+      "num": 217290,
+      "word": "世界之外 保底",
+      "onboard_time": 1705658129,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 217121,
@@ -8753,6 +8777,14 @@
       "onboard_time": 1705481368,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206030,
+      "num": 206030,
+      "word": "新年美甲",
+      "onboard_time": 1705659990,
+      "rank": 25,
+      "category": "美妆"
     },
     {
       "raw_hot": 206021,
@@ -10291,14 +10323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181414,
-      "num": 181414,
-      "word": "世界之外 保底",
-      "onboard_time": 1705658129,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 181331,
       "num": 181331,
       "word": "iQOO汗流浃背了",
@@ -10907,6 +10931,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 171720,
+      "num": 1005557,
+      "word": "老师期末评语画了38个娃娃",
+      "onboard_time": 1705657827,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171311,
       "num": 171311,
       "word": "萧敬腾 不是雨神是爱神",
@@ -11089,14 +11121,6 @@
       "onboard_time": 1705415315,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 168548,
-      "num": 1045308,
-      "word": "残疾男子摆摊拾荒16年捐出百万",
-      "onboard_time": 1705657827,
-      "rank": 4,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 168498,
@@ -11745,6 +11769,14 @@
       "onboard_time": 1705500810,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158787,
+      "num": 158787,
+      "word": "在仙剑四中听到仙剑问情",
+      "onboard_time": 1705659990,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 158679,
@@ -12603,6 +12635,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 145503,
+      "num": 145503,
+      "word": "何猷君不在奚梦瑶是真正的i人",
+      "onboard_time": 1705660166,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145268,
       "num": 254970,
       "word": "2023中国经济成绩单",
@@ -12891,12 +12931,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142129,
+      "num": 142129,
+      "word": "雪地里摔倒的双胞胎",
+      "onboard_time": 1705660287,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142002,
       "num": 153080,
       "word": "赵继伟 运动还是有好处的",
       "onboard_time": 1705244794,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141773,
+      "num": 141773,
+      "word": "怪不得叫修狗呢",
+      "onboard_time": 1705659749,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 141706,
@@ -13241,14 +13297,6 @@
       "onboard_time": 1705210409,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136994,
-      "num": 1005557,
-      "word": "老师期末评语画了38个娃娃",
-      "onboard_time": 1705657827,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136925,
@@ -13771,6 +13819,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 126521,
+      "num": 126521,
+      "word": "宝宝你怎么穿着虎皮裙",
+      "onboard_time": 1705660347,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126489,
       "num": 126489,
       "word": "超8成清华本科毕业生继续深造",
@@ -13849,6 +13905,14 @@
       "onboard_time": 1705627648,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125609,
+      "num": 125609,
+      "word": "神十七航天员开始进行天舟七号物资转运",
+      "onboard_time": 1705660287,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 125228,
