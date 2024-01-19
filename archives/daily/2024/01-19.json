@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705656870207,
+  "endTime": 1705659601805,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1099942,
-      "num": 930998,
+      "raw_hot": 1111340,
+      "num": 1111340,
       "word": "举报导师学术造假本不需学生如此冒险",
       "onboard_time": 1705653748,
       "rank": 4,
@@ -129,6 +129,22 @@
       "onboard_time": 1705641025,
       "rank": 41,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 1036316,
+      "num": 645740,
+      "word": "张杰和女儿AI照",
+      "onboard_time": 1705657947,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1026938,
+      "num": 1026938,
+      "word": "九省联考数学 我真气笑了",
+      "onboard_time": 1705657467,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 1017322,
@@ -201,6 +217,14 @@
       "onboard_time": 1705637368,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 860551,
+      "num": 860551,
+      "word": "已读乱做",
+      "onboard_time": 1705652845,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 850249,
@@ -339,6 +363,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638055,
+      "num": 1128807,
+      "word": "奶奶将孙女送的2元店手镯戴了12年",
+      "onboard_time": 1705658066,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620612,
+      "num": 620612,
+      "word": "秀才账号被封禁或涉诱导粉丝打赏",
+      "onboard_time": 1705655306,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 606437,
       "num": 606437,
       "word": "迪丽热巴弯腰不是在笑是在捡垃圾",
@@ -385,14 +425,6 @@
       "onboard_time": 1705590756,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 553793,
-      "num": 553793,
-      "word": "已读乱做",
-      "onboard_time": 1705652845,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 519786,
@@ -465,6 +497,14 @@
       "onboard_time": 1705637911,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 474824,
+      "num": 474824,
+      "word": "光明网评华中农大学生举报导师",
+      "onboard_time": 1705658186,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472571,
@@ -619,14 +659,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 341749,
-      "num": 341749,
-      "word": "秀才账号被封禁或涉诱导粉丝打赏",
-      "onboard_time": 1705655306,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 340839,
       "num": 340839,
       "word": "女婴被抢15年找到后收买方已过追诉期",
@@ -657,6 +689,14 @@
       "onboard_time": 1705576709,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 313079,
+      "num": 184392,
+      "word": "朱旺旺妆容",
+      "onboard_time": 1705658129,
+      "rank": 30,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 312884,
@@ -827,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255997,
+      "num": 255997,
+      "word": "麻将里面长这样",
+      "onboard_time": 1705658847,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254438,
       "num": 254438,
       "word": "男子巴黎出差强吻女同事被开",
@@ -883,6 +931,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242827,
+      "num": 242827,
+      "word": "任嘉伦金色卷发",
+      "onboard_time": 1705657167,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 240037,
+      "num": 240037,
+      "word": "谷歌中国工程师疑枪杀伴侣后自杀失败",
+      "onboard_time": 1705657587,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237296,
       "num": 206250,
       "word": "小狗吵架试图咬死对方的空气",
@@ -921,6 +985,14 @@
       "onboard_time": 1705638512,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 228215,
+      "num": 228215,
+      "word": "章昊 换乘恋爱3OST",
+      "onboard_time": 1705658129,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 227750,
@@ -963,6 +1035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 225920,
+      "num": 225920,
+      "word": "村民在微信群发了3句话被罚200元",
+      "onboard_time": 1705659026,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225607,
       "num": 225607,
       "word": "外卖聊天记录",
@@ -977,6 +1057,14 @@
       "onboard_time": 1705648347,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222306,
+      "num": 222306,
+      "word": "光遇",
+      "onboard_time": 1705658728,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 220529,
@@ -1227,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181414,
+      "num": 181414,
+      "word": "世界之外 保底",
+      "onboard_time": 1705658129,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179230,
       "num": 179230,
       "word": "洪知秀 澳门签售",
@@ -1315,6 +1411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168548,
+      "num": 1045308,
+      "word": "残疾男子摆摊拾荒16年捐出百万",
+      "onboard_time": 1705657827,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 167840,
       "num": 167840,
       "word": "易方达基金张坤十大重仓股",
@@ -1369,6 +1473,14 @@
       "onboard_time": 1705653329,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163714,
+      "num": 163714,
+      "word": "戚薇AG联动",
+      "onboard_time": 1705658367,
+      "rank": 36,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 161538,
@@ -1483,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148724,
+      "num": 148724,
+      "word": "C罗确定来中国",
+      "onboard_time": 1705656985,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147029,
       "num": 147029,
       "word": "卢昱晓吴宣仪贴贴",
@@ -1553,6 +1673,14 @@
       "onboard_time": 1705640490,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136994,
+      "num": 1005557,
+      "word": "老师期末评语画了38个娃娃",
+      "onboard_time": 1705657827,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136077,
@@ -1665,6 +1793,14 @@
       "onboard_time": 1705627648,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124853,
+      "num": 124853,
+      "word": "用螺蛳粉做出年夜饭",
+      "onboard_time": 1705656926,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 124229,
@@ -1953,6 +2089,14 @@
       "onboard_time": 1705619842,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97472,
+      "num": 97472,
+      "word": "世界之外支线",
+      "onboard_time": 1705658129,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 97445,

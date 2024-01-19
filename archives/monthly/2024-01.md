@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/19 17:34:30
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/19 18:20:01
 </p>
 </blockquote>
 <p>
@@ -2703,6 +2703,12 @@ A先生说辛芷蕾本人很漂亮（热度：1194844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%E6%9C%AC%E4%B8%8D%E9%9C%80%E5%AD%A6%E7%94%9F%E5%A6%82%E6%AD%A4%E5%86%92%E9%99%A9%23" target="weibo">
+举报导师学术造假本不需学生如此冒险（热度：1111340）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%23" target="weibo">
 小砂糖橘（热度：1109361）
 </a>
@@ -2735,12 +2741,6 @@ Jennie离开YG的原因（热度：1109068）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E7%A7%B0%E5%A6%BB%E5%AD%90%E6%8B%BF%E7%BB%BF%E5%8D%A1%E5%90%8E%E5%92%8C%E4%BB%96%E7%A6%BB%E5%A9%9A%23" target="weibo">
 复旦留美博士称妻子拿绿卡后和他离婚（热度：1102219）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%E6%9C%AC%E4%B8%8D%E9%9C%80%E5%AD%A6%E7%94%9F%E5%A6%82%E6%AD%A4%E5%86%92%E9%99%A9%23" target="weibo">
-举报导师学术造假本不需学生如此冒险（热度：1099942）
 </a>
 </li>
 
@@ -3057,6 +3057,12 @@ A先生李李恋情（热度：1095743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%92%8C%E5%A5%B3%E5%84%BFAI%E7%85%A7%23" target="weibo">
+张杰和女儿AI照（热度：1036316）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%AF%BC%E5%B8%88%E9%AA%82%E4%BA%BA%E5%8F%AF%E7%9C%9F%E9%AB%98%E7%BA%A7%23" target="weibo">
 现在的导师骂人可真高级（热度：1035478）
 </a>
@@ -3095,6 +3101,12 @@ A先生李李恋情（热度：1095743）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%90%91%E5%93%88%E7%90%86%E5%B7%A5%E6%8D%90%E6%AC%BE100%E4%B8%87%23" target="weibo">
 张雪峰向哈理工捐款100万（热度：1029380）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E7%9C%81%E8%81%94%E8%80%83%E6%95%B0%E5%AD%A6%20%E6%88%91%E7%9C%9F%E6%B0%94%E7%AC%91%E4%BA%86%23" target="weibo">
+九省联考数学 我真气笑了（热度：1026938）
 </a>
 </li>
 
@@ -4103,6 +4115,12 @@ papi酱菱红下线（热度：870941）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9D%8E%E9%93%81%E4%B8%80%E8%B7%AF%E7%A0%B8%E9%92%B1%E5%88%B0%E8%83%BD%E6%89%A7%E6%95%99%E5%9B%BD%E8%B6%B3%23" target="weibo">
 曝李铁一路砸钱到能执教国足（热度：860938）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E8%AF%BB%E4%B9%B1%E5%81%9A%23" target="weibo">
+已读乱做（热度：860551）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone电池门赔款到账（热度：737858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%8F%90%E9%86%92%E5%AE%BE%E9%A6%86%E9%85%92%E5%BA%97%E6%8A%8A%E6%8F%A1%E6%9C%BA%E9%81%87%23" target="weibo">
 哈尔滨提醒宾馆酒店把握机遇（热度：693711）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9Cvs%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
-林高远vs王楚钦（热度：693552）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E7%BB%99%E4%B8%AD%E5%A4%AE%E5%A4%A7%E8%A1%97%E9%93%BA%E5%9C%B0%E6%AF%AF%E4%BA%86%23" target="weibo">
-哈尔滨给中央大街铺地毯了（热度：693083）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD2024%E5%B9%B4%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E9%A6%96%E5%9C%BA%E5%88%9D%E9%80%89%E5%BC%80%E5%A7%8B%23" target="weibo">
-美国2024年总统选举首场初选开始（热度：692740）
 </a>
 </li>
 
