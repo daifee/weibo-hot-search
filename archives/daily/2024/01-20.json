@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705692852470,
+  "endTime": 1705695554992,
   "band_list": [
     {
       "raw_hot": 1321832,
@@ -243,6 +243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 134337,
+      "num": 134337,
+      "word": "萧山通报郝劭文称女儿被霸凌事件",
+      "onboard_time": 1705691114,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133704,
       "num": 133704,
       "word": "村民在微信群发了3句话被罚200元",
@@ -435,12 +443,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 61600,
-      "num": 61600,
-      "word": "萧山通报郝劭文称女儿被霸凌事件",
-      "onboard_time": 1705691114,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 67397,
+      "num": 67397,
+      "word": "梁朝伟拒绝被叫daddy",
+      "onboard_time": 1705692616,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 47983,
@@ -451,14 +459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 36583,
-      "num": 36583,
-      "word": "梁朝伟拒绝被叫daddy",
-      "onboard_time": 1705692616,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 31931,
       "num": 30597,
       "word": "我是顾客 我是骑手",
@@ -467,12 +467,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 23735,
+      "num": 23735,
+      "word": "美国男子同时让5女怀孕还办迎婴派对",
+      "onboard_time": 1705694833,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16795,
+      "num": 16795,
+      "word": "梁朝伟解读金手指认罪结局",
+      "onboard_time": 1705694655,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16362,
       "num": 16362,
       "word": "马树山举报两干部上周仍出席活动",
       "onboard_time": 1705692315,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15921,
+      "num": 15921,
+      "word": "当代大学生就业现状",
+      "onboard_time": 1705693513,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 13321,
