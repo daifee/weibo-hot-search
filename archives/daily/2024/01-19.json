@@ -1,10 +1,10 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705620866702,
+  "endTime": 1705627085683,
   "band_list": [
     {
-      "raw_hot": 3952297,
-      "num": 4404594,
+      "raw_hot": 8364759,
+      "num": 8364759,
       "word": "华中农大教师黄某某存在学术不端",
       "onboard_time": 1705619419,
       "rank": 0,
@@ -12,18 +12,34 @@
     },
     {
       "raw_hot": 2181146,
-      "num": 151569,
+      "num": 173049,
       "word": "张黎 学生威胁学生是我听过最大笑话",
       "onboard_time": 1705589851,
       "rank": 20,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1485766,
+      "num": 1485766,
+      "word": "华中农大组建导师组负责黄某某研究生培养",
+      "onboard_time": 1705622786,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1014567,
-      "num": 138302,
+      "num": 165581,
       "word": "华中农大教授回应学生举报不实",
       "onboard_time": 1705581811,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 847314,
+      "num": 847314,
+      "word": "女司机心脏病发作打120后失联110找到人",
+      "onboard_time": 1705620982,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -33,6 +49,22 @@
       "onboard_time": 1705583969,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794349,
+      "num": 794349,
+      "word": "黄飞若",
+      "onboard_time": 1705623090,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 682284,
+      "num": 682284,
+      "word": "金莎 控梦",
+      "onboard_time": 1705624469,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 661335,
@@ -52,11 +84,19 @@
     },
     {
       "raw_hot": 604566,
-      "num": 151017,
+      "num": 170821,
       "word": "公厕不要对着坑的洞洞拉",
       "onboard_time": 1705589554,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 565447,
+      "num": 565447,
+      "word": "高三艺考生292分拿下省状元",
+      "onboard_time": 1705618878,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 559478,
@@ -67,12 +107,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 489111,
-      "num": 489111,
+      "raw_hot": 519805,
+      "num": 519805,
+      "word": "11名研究生否认举报教授是被威胁",
+      "onboard_time": 1705626450,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519786,
+      "num": 519786,
       "word": "安徽春晚小品跳科目三导演发声",
       "onboard_time": 1705594764,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 516499,
+      "num": 516499,
+      "word": "他不敢用力是看戒指嵌肉里怕你疼",
+      "onboard_time": 1705605375,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 484626,
@@ -89,14 +145,6 @@
       "onboard_time": 1705590091,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 429725,
-      "num": 429725,
-      "word": "高三艺考生292分拿下省状元",
-      "onboard_time": 1705618878,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 418048,
@@ -123,11 +171,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 312844,
-      "num": 312844,
-      "word": "他不敢用力是看戒指嵌肉里怕你疼",
-      "onboard_time": 1705605375,
-      "rank": 32,
+      "raw_hot": 312884,
+      "num": 312884,
+      "word": "领队称小冻梨沉默是因为太紧张",
+      "onboard_time": 1705622130,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -153,6 +201,14 @@
       "onboard_time": 1705619842,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 289943,
+      "num": 289943,
+      "word": "熬夜吃辣 长斑",
+      "onboard_time": 1705624351,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 288524,
@@ -187,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272020,
+      "num": 170170,
+      "word": "一个经常早醒的人要警惕4种病",
+      "onboard_time": 1705622007,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 266359,
       "num": 266359,
       "word": "江苏广电诉吴秀波案将开庭",
@@ -203,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250963,
+      "num": 250963,
+      "word": "狼队Fly断开连接",
+      "onboard_time": 1705623930,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 244494,
       "num": 195553,
       "word": "有一天恶魔捡到了一个小婴儿",
@@ -217,6 +289,46 @@
       "onboard_time": 1705590934,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237296,
+      "num": 164918,
+      "word": "小狗吵架试图咬死对方的空气",
+      "onboard_time": 1705624590,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 235928,
+      "num": 235928,
+      "word": "分水果碰到人不在工位",
+      "onboard_time": 1705620982,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 226114,
+      "num": 164113,
+      "word": "原来公交车是这样换皮肤的",
+      "onboard_time": 1705620863,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 220529,
+      "num": 161804,
+      "word": "一升瓶装水中竟有24万个塑料颗粒",
+      "onboard_time": 1705622427,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216478,
+      "num": 216478,
+      "word": "妲己",
+      "onboard_time": 1705626812,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207245,
@@ -275,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181224,
+      "num": 160680,
+      "word": "减肥太快会导致皮肤松弛吗",
+      "onboard_time": 1705626569,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 179230,
       "num": 179230,
       "word": "洪知秀 澳门签售",
@@ -283,12 +403,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172991,
-      "num": 172991,
+      "raw_hot": 178347,
+      "num": 159307,
+      "word": "年终奖让我感觉到贫富差距",
+      "onboard_time": 1705584991,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 177046,
+      "num": 177046,
       "word": "7岁北京小妞连夜打高铁捅戏窝子",
       "onboard_time": 1705611073,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166819,
+      "num": 166819,
+      "word": "IVE英文新单曲",
+      "onboard_time": 1705625669,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 166049,
@@ -315,6 +451,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159045,
+      "num": 159045,
+      "word": "猫咪洗澡居然可以这么乖",
+      "onboard_time": 1705621645,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156022,
+      "num": 156022,
+      "word": "祁煜建模",
+      "onboard_time": 1705624889,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 154498,
+      "num": 154498,
+      "word": "李白新皮肤",
+      "onboard_time": 1705622609,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 151719,
+      "num": 1163482,
+      "word": "太空发快递可以当日达了",
+      "onboard_time": 1705582650,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 138730,
       "num": 138730,
       "word": "当00后开始负责置办年货",
@@ -331,20 +499,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132740,
-      "num": 132740,
-      "word": "年终奖让我感觉到贫富差距",
-      "onboard_time": 1705584991,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130429,
       "num": 130429,
       "word": "道歉哥出走三天归来仍要道歉",
       "onboard_time": 1705592193,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130022,
+      "num": 130022,
+      "word": "圆满组合",
+      "onboard_time": 1705625072,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127844,
+      "num": 127844,
+      "word": "无畏转辅助",
+      "onboard_time": 1705626388,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 126113,
@@ -419,6 +595,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 104375,
+      "num": 104375,
+      "word": "原生鸿蒙操作系统星河版曝光",
+      "onboard_time": 1705623269,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 100852,
       "num": 100852,
       "word": "李九 无畏需要自己思考的空间",
@@ -427,8 +611,16 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 99196,
-      "num": 99196,
+      "raw_hot": 100698,
+      "num": 100698,
+      "word": "辛芷蕾拍秦岚只拍自己想看的",
+      "onboard_time": 1705604775,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99975,
+      "num": 99975,
       "word": "虞书欣新剧本体是条大粉鱼",
       "onboard_time": 1705601416,
       "rank": 34,
@@ -467,6 +659,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 92558,
+      "num": 92558,
+      "word": "现在的广东早茶",
+      "onboard_time": 1705625791,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 92288,
       "num": 92288,
       "word": "安心妈妈为了女儿减肥",
@@ -483,12 +683,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91402,
+      "num": 91402,
+      "word": "字母哥全明星第三轮票王",
+      "onboard_time": 1705623751,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90667,
       "num": 90667,
       "word": "单抽出沈星回",
       "onboard_time": 1705590212,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90416,
+      "num": 90416,
+      "word": "最高检派专人赴河北指导马树山案",
+      "onboard_time": 1705627051,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89982,
+      "num": 89982,
+      "word": "不到150块带奶奶玩了一天",
+      "onboard_time": 1705627051,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 89220,
@@ -552,22 +776,6 @@
       "word": "迪丽热巴 我也没瘦成这样吧",
       "onboard_time": 1705585352,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 72978,
-      "num": 564181,
-      "word": "太空发快递可以当日达了",
-      "onboard_time": 1705582650,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 53643,
-      "num": 53643,
-      "word": "辛芷蕾拍秦岚只拍自己想看的",
-      "onboard_time": 1705604775,
-      "rank": 45,
       "category": "综艺"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705620866702,
+  "endTime": 1705627085683,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -81,6 +81,14 @@
       "onboard_time": 1705148511,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 8364759,
+      "num": 8364759,
+      "word": "华中农大教师黄某某存在学术不端",
+      "onboard_time": 1705619419,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7952941,
@@ -233,14 +241,6 @@
       "onboard_time": 1705158527,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 3952297,
-      "num": 4404594,
-      "word": "华中农大教师黄某某存在学术不端",
-      "onboard_time": 1705619419,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3884126,
@@ -1857,6 +1857,14 @@
       "onboard_time": 1704155016,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1485766,
+      "num": 1485766,
+      "word": "华中农大组建导师组负责黄某某研究生培养",
+      "onboard_time": 1705622786,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1485694,
@@ -5435,6 +5443,14 @@
       "category": "运动健身,社会新闻"
     },
     {
+      "raw_hot": 847314,
+      "num": 847314,
+      "word": "女司机心脏病发作打120后失联110找到人",
+      "onboard_time": 1705620982,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846190,
       "num": 846190,
       "word": "于正新剧女演员 换人",
@@ -6137,6 +6153,14 @@
       "onboard_time": 1704984153,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 794349,
+      "num": 794349,
+      "word": "黄飞若",
+      "onboard_time": 1705623090,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 794100,
@@ -7929,6 +7953,14 @@
       "onboard_time": 1705499130,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 682284,
+      "num": 682284,
+      "word": "金莎 控梦",
+      "onboard_time": 1705624469,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 682112,
@@ -10379,6 +10411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565447,
+      "num": 565447,
+      "word": "高三艺考生292分拿下省状元",
+      "onboard_time": 1705618878,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 565424,
       "num": 565424,
       "word": "2架波音飞机在美国芝加哥机场相撞",
@@ -11667,6 +11707,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 519805,
+      "num": 519805,
+      "word": "11名研究生否认举报教授是被威胁",
+      "onboard_time": 1705626450,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519786,
+      "num": 519786,
+      "word": "安徽春晚小品跳科目三导演发声",
+      "onboard_time": 1705594764,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 519678,
       "num": 519678,
       "word": "涉事公司回应女高管违法开除员工",
@@ -11753,6 +11809,14 @@
       "onboard_time": 1704546936,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516499,
+      "num": 516499,
+      "word": "他不敢用力是看戒指嵌肉里怕你疼",
+      "onboard_time": 1705605375,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515937,
@@ -12641,14 +12705,6 @@
       "onboard_time": 1704425790,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 489111,
-      "num": 489111,
-      "word": "安徽春晚小品跳科目三导演发声",
-      "onboard_time": 1705594764,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 488902,
@@ -14393,14 +14449,6 @@
       "onboard_time": 1704767010,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 429725,
-      "num": 429725,
-      "word": "高三艺考生292分拿下省状元",
-      "onboard_time": 1705618878,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 429429,
@@ -18731,20 +18779,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 312884,
+      "num": 312884,
+      "word": "领队称小冻梨沉默是因为太紧张",
+      "onboard_time": 1705622130,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312867,
       "num": 312867,
       "word": "2024金牛座多金又牛气",
       "onboard_time": 1704550232,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 312844,
-      "num": 312844,
-      "word": "他不敢用力是看戒指嵌肉里怕你疼",
-      "onboard_time": 1705605375,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312536,
@@ -19939,6 +19987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 289943,
+      "num": 289943,
+      "word": "熬夜吃辣 长斑",
+      "onboard_time": 1705624351,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 289397,
       "num": 289397,
       "word": "赵丽颖诗意为河北打call",
@@ -20977,6 +21033,14 @@
       "onboard_time": 1704705512,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 272020,
+      "num": 170170,
+      "word": "一个经常早醒的人要警惕4种病",
+      "onboard_time": 1705622007,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 271780,
@@ -22467,6 +22531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250963,
+      "num": 250963,
+      "word": "狼队Fly断开连接",
+      "onboard_time": 1705623930,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 250875,
       "num": 250875,
       "word": "庞博 年会不能停像没有花椒的饭",
@@ -23571,6 +23643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237296,
+      "num": 164918,
+      "word": "小狗吵架试图咬死对方的空气",
+      "onboard_time": 1705624590,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237009,
       "num": 237009,
       "word": "樊振东 签表",
@@ -23705,6 +23785,14 @@
       "onboard_time": 1704177332,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235928,
+      "num": 235928,
+      "word": "分水果碰到人不在工位",
+      "onboard_time": 1705620982,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 235919,
@@ -24683,6 +24771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226114,
+      "num": 164113,
+      "word": "原来公交车是这样换皮肤的",
+      "onboard_time": 1705620863,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226067,
       "num": 226067,
       "word": "高叶魏大勋 K396次列车",
@@ -25363,6 +25459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 220529,
+      "num": 161804,
+      "word": "一升瓶装水中竟有24万个塑料颗粒",
+      "onboard_time": 1705622427,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220471,
       "num": 220471,
       "word": "新中式 左压右扣",
@@ -25817,6 +25921,14 @@
       "onboard_time": 1705375348,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216478,
+      "num": 216478,
+      "word": "妲己",
+      "onboard_time": 1705626812,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216472,
@@ -31667,6 +31779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181224,
+      "num": 160680,
+      "word": "减肥太快会导致皮肤松弛吗",
+      "onboard_time": 1705626569,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 181192,
       "num": 181192,
       "word": "网友称农村压岁钱畸形攀比严重",
@@ -32393,6 +32513,14 @@
       "onboard_time": 1704953311,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 177046,
+      "num": 177046,
+      "word": "7岁北京小妞连夜打高铁捅戏窝子",
+      "onboard_time": 1705611073,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176997,
@@ -33193,14 +33321,6 @@
       "onboard_time": 1705058792,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 172991,
-      "num": 172991,
-      "word": "7岁北京小妞连夜打高铁捅戏窝子",
-      "onboard_time": 1705611073,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172947,
@@ -34313,6 +34433,14 @@
       "onboard_time": 1705327893,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166819,
+      "num": 166819,
+      "word": "IVE英文新单曲",
+      "onboard_time": 1705625669,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 166731,
@@ -35699,6 +35827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159045,
+      "num": 159045,
+      "word": "猫咪洗澡居然可以这么乖",
+      "onboard_time": 1705621645,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158997,
       "num": 158997,
       "word": "当狗狗意识到主人要给它刷牙",
@@ -36331,6 +36467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156022,
+      "num": 156022,
+      "word": "祁煜建模",
+      "onboard_time": 1705624889,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156010,
       "num": 156010,
       "word": "你不是销冠谁是销冠",
@@ -36617,6 +36761,14 @@
       "onboard_time": 1704891454,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154498,
+      "num": 154498,
+      "word": "李白新皮肤",
+      "onboard_time": 1705622609,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 154438,
@@ -37121,6 +37273,14 @@
       "onboard_time": 1704388161,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151719,
+      "num": 1163482,
+      "word": "太空发快递可以当日达了",
+      "onboard_time": 1705582650,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 151714,
@@ -41475,6 +41635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130022,
+      "num": 130022,
+      "word": "圆满组合",
+      "onboard_time": 1705625072,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130005,
       "num": 547008,
       "word": "浮生忆玲珑邀你共赴玲珑局",
@@ -41857,6 +42025,14 @@
       "onboard_time": 1705390050,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127844,
+      "num": 127844,
+      "word": "无畏转辅助",
+      "onboard_time": 1705626388,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 127829,
@@ -45499,6 +45675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 104375,
+      "num": 104375,
+      "word": "原生鸿蒙操作系统星河版曝光",
+      "onboard_time": 1705623269,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104312,
       "num": 341886,
       "word": "吉利银河E8价格",
@@ -45915,6 +46099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100698,
+      "num": 100698,
+      "word": "辛芷蕾拍秦岚只拍自己想看的",
+      "onboard_time": 1705604775,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100442,
       "num": 100442,
       "word": "00后新警3天连收3面锦旗被赞神速",
@@ -45945,6 +46137,14 @@
       "onboard_time": 1704063378,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99975,
+      "num": 99975,
+      "word": "虞书欣新剧本体是条大粉鱼",
+      "onboard_time": 1705601416,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 99927,
@@ -46025,14 +46225,6 @@
       "onboard_time": 1704929123,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99196,
-      "num": 99196,
-      "word": "虞书欣新剧本体是条大粉鱼",
-      "onboard_time": 1705601416,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 98998,
@@ -46515,6 +46707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92558,
+      "num": 92558,
+      "word": "现在的广东早茶",
+      "onboard_time": 1705625791,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 92318,
       "num": 309110,
       "word": "方便好用的涂抹式面膜",
@@ -46595,6 +46795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91402,
+      "num": 91402,
+      "word": "字母哥全明星第三轮票王",
+      "onboard_time": 1705623751,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91371,
       "num": 91371,
       "word": "高级香水合集",
@@ -46633,6 +46841,22 @@
       "onboard_time": 1704609929,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 90416,
+      "num": 90416,
+      "word": "最高检派专人赴河北指导马树山案",
+      "onboard_time": 1705627051,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89982,
+      "num": 89982,
+      "word": "不到150块带奶奶玩了一天",
+      "onboard_time": 1705627051,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 89735,
@@ -47385,14 +47609,6 @@
       "onboard_time": 1705532597,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72978,
-      "num": 564181,
-      "word": "太空发快递可以当日达了",
-      "onboard_time": 1705582650,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 72716,
@@ -48425,14 +48641,6 @@
       "onboard_time": 1705274663,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 53643,
-      "num": 53643,
-      "word": "辛芷蕾拍秦岚只拍自己想看的",
-      "onboard_time": 1705604775,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 53638,

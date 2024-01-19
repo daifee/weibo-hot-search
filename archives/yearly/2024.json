@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705620866702,
+  "endTime": 1705627085683,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -81,6 +81,14 @@
       "onboard_time": 1705148511,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 8364759,
+      "num": 8364759,
+      "word": "华中农大教师黄某某存在学术不端",
+      "onboard_time": 1705619419,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7952941,
@@ -233,14 +241,6 @@
       "onboard_time": 1705158527,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 3952297,
-      "num": 4404594,
-      "word": "华中农大教师黄某某存在学术不端",
-      "onboard_time": 1705619419,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3884126,
@@ -1859,6 +1859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1485766,
+      "num": 1485766,
+      "word": "华中农大组建导师组负责黄某某研究生培养",
+      "onboard_time": 1705622786,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1485694,
       "num": 1188259,
       "word": "华中农大再回应教授被举报学术不端事件",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704940831,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1350463,
-      "num": 1350463,
-      "word": "湛江中学老师坠楼系刑事案件",
-      "onboard_time": 1704697470,
-      "rank": 13,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

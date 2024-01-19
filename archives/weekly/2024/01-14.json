@@ -1,7 +1,15 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705620866702,
+  "endTime": 1705627085683,
   "band_list": [
+    {
+      "raw_hot": 8364759,
+      "num": 8364759,
+      "word": "华中农大教师黄某某存在学术不端",
+      "onboard_time": 1705619419,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 5664655,
       "num": 5664655,
@@ -25,14 +33,6 @@
       "onboard_time": 1705157987,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 3952297,
-      "num": 4404594,
-      "word": "华中农大教师黄某某存在学术不端",
-      "onboard_time": 1705619419,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3794387,
@@ -480,6 +480,14 @@
       "word": "河南云台山妲己扮演者道歉并暂停工作",
       "onboard_time": 1705542506,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1485766,
+      "num": 1485766,
+      "word": "华中农大组建导师组负责黄某某研究生培养",
+      "onboard_time": 1705622786,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1451,6 +1459,14 @@
       "category": "运动健身,社会新闻"
     },
     {
+      "raw_hot": 847314,
+      "num": 847314,
+      "word": "女司机心脏病发作打120后失联110找到人",
+      "onboard_time": 1705620982,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 845572,
       "num": 845572,
       "word": "云南白药退出全部二级市场证券投资",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1705589554,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 794349,
+      "num": 794349,
+      "word": "黄飞若",
+      "onboard_time": 1705623090,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 793673,
@@ -2153,6 +2177,14 @@
       "onboard_time": 1705499130,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 682284,
+      "num": 682284,
+      "word": "金莎 控梦",
+      "onboard_time": 1705624469,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 681309,
@@ -2899,6 +2931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565447,
+      "num": 565447,
+      "word": "高三艺考生292分拿下省状元",
+      "onboard_time": 1705618878,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 565424,
       "num": 565424,
       "word": "2架波音飞机在美国芝加哥机场相撞",
@@ -3219,6 +3259,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 519805,
+      "num": 519805,
+      "word": "11名研究生否认举报教授是被威胁",
+      "onboard_time": 1705626450,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519786,
+      "num": 519786,
+      "word": "安徽春晚小品跳科目三导演发声",
+      "onboard_time": 1705594764,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518905,
       "num": 518905,
       "word": "9个月宝宝伸出小手搂着73岁太姥姥",
@@ -3249,6 +3305,14 @@
       "onboard_time": 1705428858,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 516499,
+      "num": 516499,
+      "word": "他不敢用力是看戒指嵌肉里怕你疼",
+      "onboard_time": 1705605375,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514668,
@@ -3432,14 +3496,6 @@
       "word": "全员加速中开录",
       "onboard_time": 1705478669,
       "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 489111,
-      "num": 489111,
-      "word": "安徽春晚小品跳科目三导演发声",
-      "onboard_time": 1705594764,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -4001,14 +4057,6 @@
       "onboard_time": 1705154630,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 429725,
-      "num": 429725,
-      "word": "高三艺考生292分拿下省状元",
-      "onboard_time": 1705618878,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 427359,
@@ -5291,11 +5339,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 312844,
-      "num": 312844,
-      "word": "他不敢用力是看戒指嵌肉里怕你疼",
-      "onboard_time": 1705605375,
-      "rank": 32,
+      "raw_hot": 312884,
+      "num": 312884,
+      "word": "领队称小冻梨沉默是因为太紧张",
+      "onboard_time": 1705622130,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -5649,6 +5697,14 @@
       "onboard_time": 1705331310,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 289943,
+      "num": 289943,
+      "word": "熬夜吃辣 长斑",
+      "onboard_time": 1705624351,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 289397,
@@ -6017,6 +6073,14 @@
       "onboard_time": 1705487310,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 272020,
+      "num": 170170,
+      "word": "一个经常早醒的人要警惕4种病",
+      "onboard_time": 1705622007,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 271657,
@@ -6451,6 +6515,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 250963,
+      "num": 250963,
+      "word": "狼队Fly断开连接",
+      "onboard_time": 1705623930,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 250766,
       "num": 250766,
       "word": "华中农大举报学生望严惩造假者",
@@ -6835,6 +6907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237296,
+      "num": 164918,
+      "word": "小狗吵架试图咬死对方的空气",
+      "onboard_time": 1705624590,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236988,
       "num": 236988,
       "word": "网友吐槽婆婆一定要我生二胎",
@@ -6905,6 +6985,14 @@
       "onboard_time": 1705309888,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235928,
+      "num": 235928,
+      "word": "分水果碰到人不在工位",
+      "onboard_time": 1705620982,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 235919,
@@ -7203,6 +7291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 226114,
+      "num": 164113,
+      "word": "原来公交车是这样换皮肤的",
+      "onboard_time": 1705620863,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225846,
       "num": 225846,
       "word": "苏醒在零下舞台全开麦",
@@ -7363,6 +7459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220529,
+      "num": 161804,
+      "word": "一升瓶装水中竟有24万个塑料颗粒",
+      "onboard_time": 1705622427,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220294,
       "num": 211169,
       "word": "迪丽热巴许愿海豚能够永远在大海里",
@@ -7505,6 +7609,14 @@
       "onboard_time": 1705375348,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216478,
+      "num": 216478,
+      "word": "妲己",
+      "onboard_time": 1705626812,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216472,
@@ -9283,6 +9395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181224,
+      "num": 160680,
+      "word": "减肥太快会导致皮肤松弛吗",
+      "onboard_time": 1705626569,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 181192,
       "num": 181192,
       "word": "网友称农村压岁钱畸形攀比严重",
@@ -9507,6 +9627,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 177046,
+      "num": 177046,
+      "word": "7岁北京小妞连夜打高铁捅戏窝子",
+      "onboard_time": 1705611073,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176927,
       "num": 195460,
       "word": "当前外卖骑手数量达1300万人",
@@ -9697,14 +9825,6 @@
       "onboard_time": 1705376732,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172991,
-      "num": 172991,
-      "word": "7岁北京小妞连夜打高铁捅戏窝子",
-      "onboard_time": 1705611073,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172804,
@@ -10123,6 +10243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166819,
+      "num": 166819,
+      "word": "IVE英文新单曲",
+      "onboard_time": 1705625669,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166344,
       "num": 166344,
       "word": "当小猫发现一颗偷藏起来的冻干",
@@ -10531,6 +10659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159045,
+      "num": 159045,
+      "word": "猫咪洗澡居然可以这么乖",
+      "onboard_time": 1705621645,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158997,
       "num": 158997,
       "word": "当狗狗意识到主人要给它刷牙",
@@ -10739,6 +10875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156022,
+      "num": 156022,
+      "word": "祁煜建模",
+      "onboard_time": 1705624889,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155928,
       "num": 155928,
       "word": "李会泽崔然竣challenge",
@@ -10825,6 +10969,14 @@
       "onboard_time": 1705332151,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154498,
+      "num": 154498,
+      "word": "李白新皮肤",
+      "onboard_time": 1705622609,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 154352,
@@ -10969,6 +11121,14 @@
       "onboard_time": 1705326154,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151719,
+      "num": 1163482,
+      "word": "太空发快递可以当日达了",
+      "onboard_time": 1705582650,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 151590,
@@ -12243,6 +12403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130022,
+      "num": 130022,
+      "word": "圆满组合",
+      "onboard_time": 1705625072,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129944,
       "num": 129944,
       "word": "猫猫meme",
@@ -12281,6 +12449,14 @@
       "onboard_time": 1705390050,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127844,
+      "num": 127844,
+      "word": "无畏转辅助",
+      "onboard_time": 1705626388,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 127814,
@@ -13323,6 +13499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 104375,
+      "num": 104375,
+      "word": "原生鸿蒙操作系统星河版曝光",
+      "onboard_time": 1705623269,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104119,
       "num": 104119,
       "word": "WE RNGM EDGM 舞蹈串烧",
@@ -13411,6 +13595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100698,
+      "num": 100698,
+      "word": "辛芷蕾拍秦岚只拍自己想看的",
+      "onboard_time": 1705604775,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100442,
       "num": 100442,
       "word": "00后新警3天连收3面锦旗被赞神速",
@@ -13425,6 +13617,14 @@
       "onboard_time": 1705318411,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99975,
+      "num": 99975,
+      "word": "虞书欣新剧本体是条大粉鱼",
+      "onboard_time": 1705601416,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 99911,
@@ -13457,14 +13657,6 @@
       "onboard_time": 1705246352,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 99196,
-      "num": 99196,
-      "word": "虞书欣新剧本体是条大粉鱼",
-      "onboard_time": 1705601416,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 98814,
@@ -13595,6 +13787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92558,
+      "num": 92558,
+      "word": "现在的广东早茶",
+      "onboard_time": 1705625791,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 92182,
       "num": 502896,
       "word": "劲酒你在支付宝的样子让我陌生",
@@ -13617,6 +13817,30 @@
       "onboard_time": 1705233090,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91402,
+      "num": 91402,
+      "word": "字母哥全明星第三轮票王",
+      "onboard_time": 1705623751,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90416,
+      "num": 90416,
+      "word": "最高检派专人赴河北指导马树山案",
+      "onboard_time": 1705627051,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89982,
+      "num": 89982,
+      "word": "不到150块带奶奶玩了一天",
+      "onboard_time": 1705627051,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 89709,
@@ -13865,14 +14089,6 @@
       "onboard_time": 1705532597,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72978,
-      "num": 564181,
-      "word": "太空发快递可以当日达了",
-      "onboard_time": 1705582650,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 72716,
@@ -14225,14 +14441,6 @@
       "onboard_time": 1705274663,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 53643,
-      "num": 53643,
-      "word": "辛芷蕾拍秦岚只拍自己想看的",
-      "onboard_time": 1705604775,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 53492,
