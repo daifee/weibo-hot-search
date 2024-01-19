@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705702629401,
+  "endTime": 1705703660227,
   "band_list": [
     {
       "raw_hot": 1321832,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240031,
+      "num": 240031,
+      "word": "萧山通报郝劭文称女儿被霸凌事件",
+      "onboard_time": 1705691114,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229002,
       "num": 229002,
       "word": "美甲店 杀熟",
@@ -201,14 +209,6 @@
       "onboard_time": 1705673790,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 186072,
-      "num": 186072,
-      "word": "萧山通报郝劭文称女儿被霸凌事件",
-      "onboard_time": 1705691114,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177491,
@@ -411,12 +411,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76723,
+      "num": 76723,
+      "word": "梁朝伟拒绝被叫daddy",
+      "onboard_time": 1705692616,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 74944,
+      "num": 74944,
+      "word": "东北冻梨都被山东牡丹花惊艳到了",
+      "onboard_time": 1705695972,
+      "rank": 45,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 74533,
       "num": 74533,
       "word": "Apple Vision Pro",
       "onboard_time": 1705674210,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 73583,
+      "num": 33801,
+      "word": "美国男子同时让5女怀孕还办迎婴派对",
+      "onboard_time": 1705694833,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73080,
@@ -443,30 +467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 67397,
-      "num": 67397,
-      "word": "梁朝伟拒绝被叫daddy",
-      "onboard_time": 1705692616,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 61919,
-      "num": 26843,
-      "word": "美国男子同时让5女怀孕还办迎婴派对",
-      "onboard_time": 1705694833,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58427,
-      "num": 58427,
-      "word": "东北冻梨都被山东牡丹花惊艳到了",
-      "onboard_time": 1705695972,
-      "rank": 45,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 47983,
       "num": 47983,
       "word": "张雨绮纯欲千金妆",
@@ -483,8 +483,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 17857,
-      "num": 17857,
+      "raw_hot": 18251,
+      "num": 18251,
       "word": "马树山举报两干部上周仍出席活动",
       "onboard_time": 1705692315,
       "rank": 47,
@@ -500,15 +500,15 @@
     },
     {
       "raw_hot": 15921,
-      "num": 15921,
+      "num": 16553,
       "word": "当代大学生就业现状",
       "onboard_time": 1705693513,
       "rank": 46,
       "category": "幽默"
     },
     {
-      "raw_hot": 14757,
-      "num": 14757,
+      "raw_hot": 14951,
+      "num": 16601,
       "word": "中国最美的12个县城",
       "onboard_time": 1705696032,
       "rank": 46,
