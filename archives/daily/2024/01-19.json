@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705671241844,
+  "endTime": 1705673826555,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -9,6 +9,14 @@
       "onboard_time": 1705619419,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2918795,
+      "num": 2918795,
+      "word": "日本爆冷",
+      "onboard_time": 1705671747,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2635298,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1445993,
+      "num": 1335739,
+      "word": "华中农大学生称举报当晚被教授谈话",
+      "onboard_time": 1705671086,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1430684,
       "num": 1428848,
       "word": "于正 祝绪丹",
@@ -113,6 +129,14 @@
       "onboard_time": 1705633407,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1329670,
+      "num": 1329670,
+      "word": "何同学 做了一条流水线",
+      "onboard_time": 1705669107,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 1210903,
@@ -153,6 +177,14 @@
       "onboard_time": 1705648705,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1079399,
+      "num": 1079399,
+      "word": "哈佛女孩刘亦婷成为美国普通中产",
+      "onboard_time": 1705671268,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1075726,
@@ -435,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 649492,
-      "num": 216008,
-      "word": "何同学 做了一条流水线",
-      "onboard_time": 1705669107,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 644659,
       "num": 644659,
       "word": "仙剑四穿帮",
@@ -499,6 +523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 585877,
+      "num": 282539,
+      "word": "女子发现金戒指褪色竟救自己一命",
+      "onboard_time": 1705670846,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565447,
       "num": 565447,
       "word": "高三艺考生292分拿下省状元",
@@ -513,6 +545,14 @@
       "onboard_time": 1705590756,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 558934,
+      "num": 558934,
+      "word": "唐嫣皇后妆造",
+      "onboard_time": 1705672226,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 550818,
@@ -819,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358409,
+      "num": 358409,
+      "word": "B太 抖音公司深度探厂体验",
+      "onboard_time": 1705671030,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 357033,
       "num": 137059,
       "word": "华中农大学生举报导师事件四大疑问",
@@ -859,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337847,
+      "num": 337847,
+      "word": "与恶魔有约",
+      "onboard_time": 1705670967,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331474,
       "num": 331474,
       "word": "杨紫冬日梅子妆",
@@ -867,8 +923,8 @@
       "category": "剧集,美妆"
     },
     {
-      "raw_hot": 319633,
-      "num": 319633,
+      "raw_hot": 326804,
+      "num": 326804,
       "word": "江西公主到洛阳第一天就报警了",
       "onboard_time": 1705667189,
       "rank": 46,
@@ -985,6 +1041,14 @@
       "onboard_time": 1705634188,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 283717,
+      "num": 283717,
+      "word": "英雄联盟手游崩了",
+      "onboard_time": 1705672408,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 282824,
@@ -1387,14 +1451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213083,
-      "num": 213083,
-      "word": "华中农大学生称举报当晚被教授谈话",
-      "onboard_time": 1705671086,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210953,
       "num": 210953,
       "word": "原神4.3版本",
@@ -1483,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202378,
+      "num": 202378,
+      "word": "鹿晗愿望季",
+      "onboard_time": 1705672770,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202052,
       "num": 202052,
       "word": "央广网评华中农大教授黄某某学术不端",
@@ -1531,12 +1595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195502,
+      "num": 195502,
+      "word": "河北核查老干部举报县领导被逮捕",
+      "onboard_time": 1705673491,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195419,
       "num": 195419,
       "word": "因板凳骨折女生称父母与其断绝关系",
       "onboard_time": 1705573110,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194471,
+      "num": 194471,
+      "word": "伊拉克42年首胜日本",
+      "onboard_time": 1705672770,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 194289,
@@ -1627,12 +1707,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188476,
-      "num": 188476,
-      "word": "女子发现金戒指褪色竟救自己一命",
-      "onboard_time": 1705670846,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 188735,
+      "num": 188735,
+      "word": "王牌对王牌",
+      "onboard_time": 1705672650,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 188278,
@@ -1713,6 +1793,14 @@
       "onboard_time": 1705666525,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 181243,
+      "num": 181243,
+      "word": "我干什么你管得着吗",
+      "onboard_time": 1705673191,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 180580,
@@ -1843,14 +1931,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 166888,
-      "num": 166888,
-      "word": "B太 抖音公司深度探厂体验",
-      "onboard_time": 1705671030,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 166819,
       "num": 166819,
       "word": "IVE英文新单曲",
@@ -1891,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164580,
+      "num": 164580,
+      "word": "伊拉克2比1日本",
+      "onboard_time": 1705671629,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164011,
       "num": 164011,
       "word": "为什么说要找情绪稳定的伴侣",
@@ -1905,14 +1993,6 @@
       "onboard_time": 1705658367,
       "rank": 36,
       "category": "电竞,艺人"
-    },
-    {
-      "raw_hot": 163526,
-      "num": 163526,
-      "word": "与恶魔有约",
-      "onboard_time": 1705670967,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 161538,
@@ -2043,6 +2123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 151683,
+      "num": 151683,
+      "word": "你会经常在半夜醒来吗",
+      "onboard_time": 1705673068,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151090,
       "num": 151090,
       "word": "仙剑六的还原度",
@@ -2163,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136261,
+      "num": 136261,
+      "word": "伊拉克门将哭了",
+      "onboard_time": 1705673733,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136077,
       "num": 136077,
       "word": "微星",
@@ -2217,6 +2313,14 @@
       "onboard_time": 1705631369,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130962,
+      "num": 130962,
+      "word": "证监会坚决防止一退了之",
+      "onboard_time": 1705672467,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 130429,
@@ -2892,7 +2996,7 @@
     },
     {
       "raw_hot": 7474,
-      "num": 1078784,
+      "num": 1341366,
       "word": "相约冰雪",
       "onboard_time": 1705410872,
       "rank": 2,
