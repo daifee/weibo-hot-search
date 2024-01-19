@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705638139322,
+  "endTime": 1705639001780,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -883,6 +883,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1989448,
+      "num": 1989448,
+      "word": "中国夫妻疑因被谷歌裁员在美身亡",
+      "onboard_time": 1705634728,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1978439,
       "num": 1978439,
       "word": "微博之夜 四大才子",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1704110681,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1872519,
-      "num": 1872519,
-      "word": "中国夫妻疑因被谷歌裁员在美身亡",
-      "onboard_time": 1705634728,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1872018,
@@ -3891,6 +3891,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1050222,
+      "num": 606965,
+      "word": "张黎 我们举报的问题不止于此",
+      "onboard_time": 1705633407,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1049575,
       "num": 505070,
       "word": "曝林靖恩入住饭店后精神失控",
@@ -4712,14 +4720,6 @@
       "word": "俞敏洪建议一周放假两天半到三天",
       "onboard_time": 1705381890,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 941916,
-      "num": 606965,
-      "word": "张黎 我们举报的问题不止于此",
-      "onboard_time": 1705633407,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -5889,6 +5889,14 @@
       "onboard_time": 1705487068,
       "rank": 25,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 816855,
+      "num": 816855,
+      "word": "九省联考",
+      "onboard_time": 1705637189,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 815577,
@@ -7811,6 +7819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 696689,
+      "num": 696689,
+      "word": "瑞幸茅台再联名",
+      "onboard_time": 1705637368,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 695589,
       "num": 695589,
       "word": "梁朝伟 买3张影票就希望旁边没有人",
@@ -8767,6 +8783,14 @@
       "num": 644800,
       "word": "钟楚曦侯雯元合体直播",
       "onboard_time": 1705498892,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 644659,
+      "num": 644659,
+      "word": "仙剑四穿帮",
+      "onboard_time": 1705636709,
       "rank": 8,
       "category": "剧集"
     },
@@ -11859,14 +11883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 518964,
-      "num": 518964,
-      "word": "仙剑四穿帮",
-      "onboard_time": 1705636709,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 518905,
       "num": 518905,
       "word": "9个月宝宝伸出小手搂着73岁太姥姥",
@@ -12953,6 +12969,14 @@
       "onboard_time": 1704843324,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 483100,
+      "num": 483100,
+      "word": "Fly官宣加入RW",
+      "onboard_time": 1705637911,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 482916,
@@ -14721,14 +14745,6 @@
       "onboard_time": 1704884014,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 425868,
-      "num": 425868,
-      "word": "九省联考",
-      "onboard_time": 1705637189,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 425450,
@@ -16755,14 +16771,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 368237,
-      "num": 368237,
-      "word": "瑞幸茅台再联名",
-      "onboard_time": 1705637368,
-      "rank": 20,
-      "category": "美食"
-    },
-    {
       "raw_hot": 367864,
       "num": 282855,
       "word": "婆婆熬了多少我们该熬的夜",
@@ -17737,6 +17745,14 @@
       "onboard_time": 1704543153,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339131,
+      "num": 339131,
+      "word": "iPhone16或新增拍照按钮",
+      "onboard_time": 1705637788,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 339050,
@@ -20713,6 +20729,14 @@
       "onboard_time": 1705403791,
       "rank": 26,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 282403,
+      "num": 282403,
+      "word": "种粮一年收入不如外出打工一月",
+      "onboard_time": 1705637668,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282369,
@@ -24844,7 +24868,7 @@
     },
     {
       "raw_hot": 227750,
-      "num": 227750,
+      "num": 242785,
       "word": "00后与大妈完成黄金交棒",
       "onboard_time": 1705636410,
       "rank": 27,
@@ -26457,14 +26481,6 @@
       "onboard_time": 1705322372,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 214164,
-      "num": 218168,
-      "word": "种粮一年收入不如外出打工一月",
-      "onboard_time": 1705637668,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214089,
@@ -29939,6 +29955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192711,
+      "num": 192711,
+      "word": "华硕 不删游戏",
+      "onboard_time": 1705638512,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192694,
       "num": 179276,
       "word": "公司年会 员工表演",
@@ -32657,14 +32681,6 @@
       "onboard_time": 1704774697,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 178440,
-      "num": 178440,
-      "word": "Fly官宣加入RW",
-      "onboard_time": 1705637911,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 178408,
@@ -38897,14 +38913,6 @@
       "onboard_time": 1704028141,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145072,
-      "num": 145072,
-      "word": "iPhone16或新增拍照按钮",
-      "onboard_time": 1705637788,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 144954,
@@ -45412,7 +45420,7 @@
     },
     {
       "raw_hot": 109767,
-      "num": 423218,
+      "num": 539987,
       "word": "新型家庭团建方式",
       "onboard_time": 1705635929,
       "rank": 10,
@@ -46683,6 +46691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99141,
+      "num": 99141,
+      "word": "嗑到小说里的糖了",
+      "onboard_time": 1705638929,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 98998,
       "num": 98998,
       "word": "BLG战胜NIP",
@@ -47515,6 +47531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86118,
+      "num": 1382898,
+      "word": "春运期间外出如何防护",
+      "onboard_time": 1705636709,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85940,
       "num": 85940,
       "word": "王楚钦分享多哈短暂假期",
@@ -48121,14 +48145,6 @@
       "onboard_time": 1705579225,
       "rank": 20,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 71894,
-      "num": 1382898,
-      "word": "春运期间外出如何防护",
-      "onboard_time": 1705636709,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71847,
@@ -49107,6 +49123,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 53819,
+      "num": 474839,
+      "word": "蛋仔派对消保委防沉迷合作",
+      "onboard_time": 1705636828,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 53725,
       "num": 53725,
       "word": "胡先煦再也不想去徒步了吧",
@@ -49529,14 +49553,6 @@
       "onboard_time": 1705256595,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 45188,
-      "num": 413293,
-      "word": "蛋仔派对消保委防沉迷合作",
-      "onboard_time": 1705636828,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 45056,
