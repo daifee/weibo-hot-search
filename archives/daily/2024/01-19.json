@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705653380760,
+  "endTime": 1705655896121,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -67,20 +67,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1760172,
+      "num": 1760172,
+      "word": "校方不认定郝劭文女儿被霸凌",
+      "onboard_time": 1705651286,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1485766,
       "num": 1485766,
       "word": "华中农大组建导师组负责黄某某研究生培养",
       "onboard_time": 1705622786,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1481040,
-      "num": 1481040,
-      "word": "校方不认定郝劭文女儿被霸凌",
-      "onboard_time": 1705651286,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1430684,
@@ -155,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 930998,
+      "num": 930998,
+      "word": "举报导师学术造假本不需学生如此冒险",
+      "onboard_time": 1705653748,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 927171,
       "num": 927171,
       "word": "为什么年轻人不愿意种地",
       "onboard_time": 1705632987,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 924508,
+      "num": 924508,
+      "word": "吴宣仪 别开玩笑",
+      "onboard_time": 1705652068,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 913154,
@@ -201,14 +217,6 @@
       "onboard_time": 1705620982,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 842651,
-      "num": 842651,
-      "word": "吴宣仪 别开玩笑",
-      "onboard_time": 1705652068,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 842428,
@@ -371,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 552578,
+      "num": 552578,
+      "word": "为什么吃的牛肉有时是彩色的",
+      "onboard_time": 1705651886,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 519786,
       "num": 519786,
       "word": "安徽春晚小品跳科目三导演发声",
@@ -507,6 +523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 398937,
+      "num": 398937,
+      "word": "女方家只收彩礼不陪嫁妆合适吗",
+      "onboard_time": 1705652845,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 387794,
       "num": 387794,
       "word": "铁头被禁言",
@@ -539,12 +563,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 368210,
+      "num": 368210,
+      "word": "田曦薇张婧仪雪地撞衫",
+      "onboard_time": 1705652186,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 364472,
       "num": 364472,
       "word": "蔡依林2024巡演官宣",
       "onboard_time": 1705635385,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 359002,
+      "num": 359002,
+      "word": "已读乱做",
+      "onboard_time": 1705652845,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 357033,
@@ -595,14 +635,6 @@
       "category": "剧集,美妆"
     },
     {
-      "raw_hot": 319852,
-      "num": 256577,
-      "word": "田曦薇张婧仪雪地撞衫",
-      "onboard_time": 1705652186,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 318422,
       "num": 310507,
       "word": "A股整体股息率已逼近历史高位",
@@ -625,14 +657,6 @@
       "onboard_time": 1705622130,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309848,
-      "num": 309848,
-      "word": "为什么吃的牛肉有时是彩色的",
-      "onboard_time": 1705651886,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 302417,
@@ -811,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248909,
+      "num": 248909,
+      "word": "恋与深空 抓娃娃",
+      "onboard_time": 1705655248,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 247525,
       "num": 247525,
       "word": "王一博出发澳门",
@@ -891,10 +923,26 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227085,
+      "num": 227085,
+      "word": "去旅游的时候千万不要用手指鱼",
+      "onboard_time": 1705653510,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226114,
       "num": 170516,
       "word": "原来公交车是这样换皮肤的",
       "onboard_time": 1705620863,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 225607,
+      "num": 225607,
+      "word": "外卖聊天记录",
+      "onboard_time": 1705650508,
       "rank": 26,
       "category": "幽默"
     },
@@ -913,6 +961,14 @@
       "onboard_time": 1705622427,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219520,
+      "num": 219520,
+      "word": "秀才账号被封禁或涉诱导粉丝打赏",
+      "onboard_time": 1705655306,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 219468,
@@ -937,14 +993,6 @@
       "onboard_time": 1705627405,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 214501,
-      "num": 214501,
-      "word": "外卖聊天记录",
-      "onboard_time": 1705650508,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 209781,
@@ -987,20 +1035,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204898,
+      "num": 204898,
+      "word": "林孝埈出战十四冬",
+      "onboard_time": 1705654888,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204391,
       "num": 204391,
       "word": "最高检回应老干部举报当地领导被逮捕",
       "onboard_time": 1705598240,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201080,
-      "num": 201080,
-      "word": "女方家只收彩礼不陪嫁妆合适吗",
-      "onboard_time": 1705652845,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 200784,
@@ -1091,6 +1139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190128,
+      "num": 190128,
+      "word": "宋亚轩 哥哥们的玩具",
+      "onboard_time": 1705654049,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186918,
       "num": 186918,
       "word": "肖战名誉维权案件进展",
@@ -1131,12 +1187,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 183361,
+      "num": 183361,
+      "word": "原件正确复印件才正确",
+      "onboard_time": 1705654466,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182792,
       "num": 182792,
       "word": "茅子俊 仙剑茅血旺",
       "onboard_time": 1705631967,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181456,
+      "num": 181456,
+      "word": "裁委会认定戴伟浚遭飞踹漏判红牌",
+      "onboard_time": 1705653030,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 179230,
@@ -1219,6 +1291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171357,
+      "num": 171357,
+      "word": "买酸奶最好别选带味的",
+      "onboard_time": 1705652788,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 167840,
       "num": 167840,
       "word": "易方达基金张坤十大重仓股",
@@ -1257,6 +1337,14 @@
       "onboard_time": 1705554572,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164011,
+      "num": 164011,
+      "word": "为什么说要找情绪稳定的伴侣",
+      "onboard_time": 1705653329,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 161538,
@@ -1329,6 +1417,14 @@
       "onboard_time": 1705647568,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153323,
+      "num": 153323,
+      "word": "你也有今天豆瓣评分7.2",
+      "onboard_time": 1705655369,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 152824,
@@ -1443,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136299,
+      "num": 136299,
+      "word": "在美华人工程师枪杀妻子后自杀",
+      "onboard_time": 1705655607,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136077,
       "num": 136077,
       "word": "微星",
@@ -1457,6 +1561,14 @@
       "onboard_time": 1705653030,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134457,
+      "num": 134457,
+      "word": "没想到去尔滨是南猿北折",
+      "onboard_time": 1705653990,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 133940,
@@ -1547,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124229,
+      "num": 124229,
+      "word": "独立是一件很痛苦的事情",
+      "onboard_time": 1705655549,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124086,
       "num": 124086,
       "word": "男子晒自己陪娃学习的书房",
@@ -1569,14 +1689,6 @@
       "onboard_time": 1705579947,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119808,
-      "num": 119808,
-      "word": "裁委会认定戴伟浚遭飞踹漏判红牌",
-      "onboard_time": 1705653030,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 119656,
@@ -1747,14 +1859,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 105886,
-      "num": 105886,
-      "word": "买酸奶最好别选带味的",
-      "onboard_time": 1705652788,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 105638,
       "num": 105638,
       "word": "松花湖偶遇张婧仪",
@@ -1785,14 +1889,6 @@
       "onboard_time": 1705649845,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 103888,
-      "num": 103888,
-      "word": "为什么说要找情绪稳定的伴侣",
-      "onboard_time": 1705653329,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 102408,

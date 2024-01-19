@@ -1,0 +1,410 @@
+{
+  "runTime": 1705655896121,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1760172,
+        "num": 1760172,
+        "word": "校方不认定郝劭文女儿被霸凌",
+        "onboard_time": 1705651286,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1280180,
+        "num": 1280180,
+        "word": "美甲店 杀熟",
+        "onboard_time": 1705647927,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 64163,
+        "num": 1118206,
+        "word": "这条24公里跨海通道有5项世界首创",
+        "onboard_time": 1705650207,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085938,
+        "num": 1085938,
+        "word": "于正 祝绪丹",
+        "onboard_time": 1705651046,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 930998,
+        "num": 930998,
+        "word": "举报导师学术造假本不需学生如此冒险",
+        "onboard_time": 1705653748,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924508,
+        "num": 924508,
+        "word": "吴宣仪 别开玩笑",
+        "onboard_time": 1705652068,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 626690,
+        "num": 626690,
+        "word": "董宇辉谈贾玲变化",
+        "onboard_time": 1705650150,
+        "rank": 6,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 552578,
+        "num": 552578,
+        "word": "为什么吃的牛肉有时是彩色的",
+        "onboard_time": 1705651886,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 551414,
+        "num": 551414,
+        "word": "吴亦凡关联公司仍欠约500万税款",
+        "onboard_time": 1705649909,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521002,
+        "num": 521002,
+        "word": "日本首例特定未成年人被判死刑",
+        "onboard_time": 1705640309,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 521747,
+        "num": 519282,
+        "word": "于正 让来不了的人去死吧",
+        "onboard_time": 1705643667,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458303,
+        "num": 458303,
+        "word": "景甜 一切要从擦干净手之后说起",
+        "onboard_time": 1705650207,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398937,
+        "num": 398937,
+        "word": "女方家只收彩礼不陪嫁妆合适吗",
+        "onboard_time": 1705652845,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 388442,
+        "num": 388442,
+        "word": "韩国知名rapper向警方自首吸毒",
+        "onboard_time": 1705649369,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368210,
+        "num": 368210,
+        "word": "田曦薇张婧仪雪地撞衫",
+        "onboard_time": 1705652186,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359002,
+        "num": 359002,
+        "word": "已读乱做",
+        "onboard_time": 1705652845,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248909,
+        "num": 248909,
+        "word": "恋与深空 抓娃娃",
+        "onboard_time": 1705655248,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248438,
+        "num": 248438,
+        "word": "杨紫新剧鸡窝头",
+        "onboard_time": 1705652728,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243860,
+        "num": 243860,
+        "word": "中国夫妻疑因被谷歌裁员在美身亡",
+        "onboard_time": 1705634728,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234165,
+        "num": 234165,
+        "word": "王诗龄拍杂志了",
+        "onboard_time": 1705649666,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 227085,
+        "num": 227085,
+        "word": "去旅游的时候千万不要用手指鱼",
+        "onboard_time": 1705653510,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225607,
+        "num": 225607,
+        "word": "外卖聊天记录",
+        "onboard_time": 1705650508,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219520,
+        "num": 219520,
+        "word": "秀才账号被封禁或涉诱导粉丝打赏",
+        "onboard_time": 1705655306,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 201250,
+        "num": 206667,
+        "word": "刘立宪被开除党籍",
+        "onboard_time": 1705648466,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204898,
+        "num": 204898,
+        "word": "林孝埈出战十四冬",
+        "onboard_time": 1705654888,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216100,
+        "num": 204840,
+        "word": "张婧仪卢昱晓撞造型了",
+        "onboard_time": 1705641208,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204754,
+        "num": 204754,
+        "word": "学校通报郝劭文女儿被霸凌事件",
+        "onboard_time": 1705651286,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190128,
+        "num": 190128,
+        "word": "宋亚轩 哥哥们的玩具",
+        "onboard_time": 1705654049,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188963,
+        "num": 188963,
+        "word": "华中农大教师黄某某存在学术不端",
+        "onboard_time": 1705619419,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183583,
+        "num": 183583,
+        "word": "A股整体股息率已逼近历史高位",
+        "onboard_time": 1705647386,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188074,
+        "num": 183484,
+        "word": "林俊杰帮周杰伦王俊凯拍照",
+        "onboard_time": 1705651226,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183361,
+        "num": 183361,
+        "word": "原件正确复印件才正确",
+        "onboard_time": 1705654466,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181456,
+        "num": 181456,
+        "word": "裁委会认定戴伟浚遭飞踹漏判红牌",
+        "onboard_time": 1705653030,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171357,
+        "num": 171357,
+        "word": "买酸奶最好别选带味的",
+        "onboard_time": 1705652788,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166125,
+        "num": 166125,
+        "word": "换乘恋爱3",
+        "onboard_time": 1705651948,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164011,
+        "num": 164011,
+        "word": "为什么说要找情绪稳定的伴侣",
+        "onboard_time": 1705653329,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160182,
+        "num": 160182,
+        "word": "化妆和不化妆的都沉默了",
+        "onboard_time": 1705650567,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153323,
+        "num": 153323,
+        "word": "你也有今天豆瓣评分7.2",
+        "onboard_time": 1705655369,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151040,
+        "num": 151040,
+        "word": "胡塞武装称中俄等国船只可安全通过红海",
+        "onboard_time": 1705645586,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 146245,
+        "num": 146245,
+        "word": "春晚 科目三",
+        "onboard_time": 1705628670,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136299,
+        "num": 136299,
+        "word": "在美华人工程师枪杀妻子后自杀",
+        "onboard_time": 1705655607,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134457,
+        "num": 134457,
+        "word": "没想到去尔滨是南猿北折",
+        "onboard_time": 1705653990,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 133449,
+        "num": 133449,
+        "word": "结婚前要把这7个问题聊清楚",
+        "onboard_time": 1705651167,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132843,
+        "num": 132843,
+        "word": "四川乐山地震",
+        "onboard_time": 1705641869,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128093,
+        "num": 128093,
+        "word": "出成绩前大学生快把教务系统看烂了",
+        "onboard_time": 1705644867,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124229,
+        "num": 124229,
+        "word": "独立是一件很痛苦的事情",
+        "onboard_time": 1705655549,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123134,
+        "num": 123134,
+        "word": "公司年假放了42天",
+        "onboard_time": 1705648768,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120540,
+        "num": 120540,
+        "word": "iPhone到尔滨掉电有多快",
+        "onboard_time": 1705633826,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119081,
+        "num": 119081,
+        "word": "女子在家生产未剪脐带警车狂飙送医",
+        "onboard_time": 1705641025,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 115801,
+        "num": 115801,
+        "word": "4岁小朋友存钱罐内存8万惊呆消防员",
+        "onboard_time": 1705641808,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设金融强国使命在肩#"
+    }
+  }
+}
