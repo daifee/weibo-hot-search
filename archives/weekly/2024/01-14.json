@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705667626474,
+  "endTime": 1705668563096,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -929,6 +929,14 @@
       "onboard_time": 1705484970,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1174114,
+      "num": 1174114,
+      "word": "王海举报小杨哥带货假五常大米",
+      "onboard_time": 1705667007,
+      "rank": 8,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 1174071,
@@ -2115,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 755542,
+      "num": 755542,
+      "word": "封神第一部最终票房",
+      "onboard_time": 1705664129,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 753550,
       "num": 753550,
       "word": "宋轶背上了文咏珊送的包",
@@ -2321,14 +2337,6 @@
       "onboard_time": 1705545747,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 705397,
-      "num": 705397,
-      "word": "封神第一部最终票房",
-      "onboard_time": 1705664129,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 704500,
@@ -2561,6 +2569,14 @@
       "onboard_time": 1705373369,
       "rank": 5,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 662761,
+      "num": 662761,
+      "word": "猫咪在主人床上生宝宝",
+      "onboard_time": 1705664547,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 661877,
@@ -2809,14 +2825,6 @@
       "onboard_time": 1705481130,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 625042,
-      "num": 625042,
-      "word": "猫咪在主人床上生宝宝",
-      "onboard_time": 1705664547,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 622572,
@@ -3505,14 +3513,6 @@
       "onboard_time": 1705469550,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 538141,
-      "num": 538141,
-      "word": "王海举报小杨哥带货假五常大米",
-      "onboard_time": 1705667007,
-      "rank": 8,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 537524,
@@ -5187,6 +5187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374862,
+      "num": 374862,
+      "word": "无畏转辅",
+      "onboard_time": 1705668329,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 373479,
       "num": 552778,
       "word": "王毅阐明中方关于台湾局势严正立场",
@@ -5225,6 +5233,14 @@
       "onboard_time": 1705569028,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 372560,
+      "num": 372560,
+      "word": "聪明人离职",
+      "onboard_time": 1705666707,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 372043,
@@ -5379,6 +5395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359690,
+      "num": 359690,
+      "word": "原神前瞻",
+      "onboard_time": 1705664906,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 358555,
       "num": 358555,
       "word": "被731部队罪证陈列馆的这幕震撼到",
@@ -5531,6 +5555,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 345824,
+      "num": 345824,
+      "word": "炎亚纶正式复出",
+      "onboard_time": 1705665445,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343175,
       "num": 343175,
       "word": "武磊射门踢空",
@@ -5545,6 +5577,14 @@
       "onboard_time": 1705300346,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341325,
+      "num": 341325,
+      "word": "姜广涛直播",
+      "onboard_time": 1705667189,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 340839,
@@ -5625,14 +5665,6 @@
       "onboard_time": 1705297771,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 333934,
-      "num": 333934,
-      "word": "炎亚纶正式复出",
-      "onboard_time": 1705665445,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 333882,
@@ -6524,11 +6556,19 @@
     },
     {
       "raw_hot": 282824,
-      "num": 226964,
+      "num": 234736,
       "word": "祈今朝妆造",
       "onboard_time": 1705665927,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282818,
+      "num": 346217,
+      "word": "日本两球落后伊拉克",
+      "onboard_time": 1705667485,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 282778,
@@ -6779,14 +6819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 273099,
-      "num": 340945,
-      "word": "聪明人离职",
-      "onboard_time": 1705666707,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 273040,
       "num": 273040,
       "word": "KSG 久酷",
@@ -6897,6 +6929,14 @@
       "onboard_time": 1705482270,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 267169,
+      "num": 267169,
+      "word": "常华森他真的试图教会我",
+      "onboard_time": 1705667247,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 267114,
@@ -7211,12 +7251,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 253912,
-      "num": 253912,
-      "word": "原神前瞻",
-      "onboard_time": 1705664906,
-      "rank": 22,
-      "category": "游戏"
+      "raw_hot": 254725,
+      "num": 254725,
+      "word": "宋亚轩在王牌收官合照上P了贾玲",
+      "onboard_time": 1705664667,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 253771,
@@ -7683,14 +7723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 238178,
-      "num": 217329,
-      "word": "姜广涛直播",
-      "onboard_time": 1705667189,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238100,
       "num": 238100,
       "word": "安心妈妈为了女儿减肥",
@@ -7705,14 +7737,6 @@
       "onboard_time": 1705227809,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 237733,
-      "num": 200207,
-      "word": "宋亚轩在王牌收官合照上P了贾玲",
-      "onboard_time": 1705664667,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 237622,
@@ -8291,6 +8315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223245,
+      "num": 223245,
+      "word": "关注时间最长的明星",
+      "onboard_time": 1705667367,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222738,
       "num": 275459,
       "word": "江苏调整全省最低工资标准",
@@ -8593,6 +8625,14 @@
       "onboard_time": 1705654466,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216028,
+      "num": 247094,
+      "word": "江西公主到洛阳第一天就报警了",
+      "onboard_time": 1705667189,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215630,
@@ -10019,14 +10059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189557,
-      "num": 189557,
-      "word": "常华森他真的试图教会我",
-      "onboard_time": 1705667247,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189497,
       "num": 189497,
       "word": "陈丽君李云霄现身央视春晚联排",
@@ -11155,14 +11187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 172078,
-      "num": 172078,
-      "word": "日本两球落后伊拉克",
-      "onboard_time": 1705667485,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171912,
       "num": 171912,
       "word": "基金称短期A股市场处于筑底阶段",
@@ -11361,6 +11385,14 @@
       "onboard_time": 1705417770,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168626,
+      "num": 168626,
+      "word": "祈今朝腾讯热度破24000",
+      "onboard_time": 1705668268,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 168600,
@@ -12555,6 +12587,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 150644,
+      "num": 390229,
+      "word": "原神4.4版本直播",
+      "onboard_time": 1705665627,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150283,
       "num": 150283,
       "word": "齐司礼电话",
@@ -13339,14 +13379,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 140040,
-      "num": 140040,
-      "word": "关注时间最长的明星",
-      "onboard_time": 1705667367,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139989,
       "num": 139989,
       "word": "陈若华 颠婆养不出小白花",
@@ -13585,14 +13617,6 @@
       "onboard_time": 1705361965,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136896,
-      "num": 136896,
-      "word": "江西公主到洛阳第一天就报警了",
-      "onboard_time": 1705667189,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136825,
@@ -13993,6 +14017,14 @@
       "onboard_time": 1705372587,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127928,
+      "num": 127928,
+      "word": "翻到了爷爷的武汉大学成绩单",
+      "onboard_time": 1705668087,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 127903,
@@ -15233,14 +15265,6 @@
       "onboard_time": 1705649247,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105575,
-      "num": 390229,
-      "word": "原神4.4版本直播",
-      "onboard_time": 1705665627,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 105453,
@@ -16731,6 +16755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27452,
+      "num": 245003,
+      "word": "全球多地惊现美男鱼",
+      "onboard_time": 1705667786,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26496,
       "num": 171809,
       "word": "陈泽带火各地必玩景点",
@@ -17074,6 +17106,9 @@
     },
     {
       "word": "#加快建设金融强国使命在肩#"
+    },
+    {
+      "word": "#坚定科技报国为民造福理想#"
     }
   ]
 }
