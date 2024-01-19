@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705682387362,
+  "endTime": 1705684581430,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -1571,6 +1571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 921373,
+      "num": 921373,
+      "word": "12306回应成都至北京票价低至47元",
+      "onboard_time": 1705680388,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 921240,
       "num": 921240,
       "word": "王鹤棣对秦岚贴脸开大",
@@ -2137,14 +2145,6 @@
       "onboard_time": 1705193311,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 765272,
-      "num": 765272,
-      "word": "12306回应成都至北京票价低至47元",
-      "onboard_time": 1705680388,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 763420,
@@ -7651,6 +7651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248865,
+      "num": 248865,
+      "word": "张元英辣妹自拍",
+      "onboard_time": 1705681525,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248679,
       "num": 248679,
       "word": "七仔隐身了",
@@ -8265,14 +8273,6 @@
       "onboard_time": 1705628848,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231417,
-      "num": 231417,
-      "word": "张元英辣妹自拍",
-      "onboard_time": 1705681525,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 231228,
@@ -15971,6 +15971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97922,
+      "num": 97922,
+      "word": "22岁的蔡依林舞台",
+      "onboard_time": 1705683144,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97494,
       "num": 97494,
       "word": "林高远王曼昱23比21林钟勋申裕斌",
@@ -16193,6 +16201,14 @@
       "onboard_time": 1705392153,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88225,
+      "num": 88225,
+      "word": "祈今朝 配音",
+      "onboard_time": 1705683802,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 88052,
