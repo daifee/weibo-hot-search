@@ -1,0 +1,410 @@
+{
+  "runTime": 1705667626474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1049219,
+        "num": 1049219,
+        "word": "基金经理纷纷道歉",
+        "onboard_time": 1705660827,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 943173,
+        "num": 943173,
+        "word": "机智的医生生活 翻拍",
+        "onboard_time": 1705664065,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5579,
+        "num": 777778,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1218583,
+        "num": 748686,
+        "word": "于正 祝绪丹",
+        "onboard_time": 1705651046,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 705397,
+        "num": 705397,
+        "word": "封神第一部最终票房",
+        "onboard_time": 1705664129,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 679530,
+        "num": 679530,
+        "word": "伊拉克vs日本",
+        "onboard_time": 1705664245,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 625042,
+        "num": 625042,
+        "word": "猫咪在主人床上生宝宝",
+        "onboard_time": 1705664547,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 548989,
+        "num": 548989,
+        "word": "果郡王不知道 你李东学能不知道",
+        "onboard_time": 1705661366,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538141,
+        "num": 538141,
+        "word": "王海举报小杨哥带货假五常大米",
+        "onboard_time": 1705667007,
+        "rank": 8,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 529868,
+        "num": 529868,
+        "word": "美甲店 杀熟",
+        "onboard_time": 1705647927,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 523341,
+        "num": 523341,
+        "word": "关晓彤告别王牌对王牌第八季",
+        "onboard_time": 1705660707,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521978,
+        "num": 521978,
+        "word": "王星越反应",
+        "onboard_time": 1705665927,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403226,
+        "num": 403226,
+        "word": "吴宣仪 别开玩笑",
+        "onboard_time": 1705652068,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400073,
+        "num": 400073,
+        "word": "校方不认定郝劭文女儿被霸凌",
+        "onboard_time": 1705651286,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105575,
+        "num": 390229,
+        "word": "原神4.4版本直播",
+        "onboard_time": 1705665627,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 389429,
+        "num": 389429,
+        "word": "奶奶将孙女送的2元店手镯戴了12年",
+        "onboard_time": 1705658066,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509072,
+        "num": 380140,
+        "word": "举报导师学术造假本不需学生如此冒险",
+        "onboard_time": 1705653748,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367325,
+        "num": 367325,
+        "word": "陶喆抢票",
+        "onboard_time": 1705664607,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 360554,
+        "num": 360554,
+        "word": "于正 我说的是去撕吧",
+        "onboard_time": 1705648705,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273099,
+        "num": 340945,
+        "word": "聪明人离职",
+        "onboard_time": 1705666707,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333934,
+        "num": 333934,
+        "word": "炎亚纶正式复出",
+        "onboard_time": 1705665445,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330694,
+        "num": 330694,
+        "word": "全员加速中 猎人赶高铁上班",
+        "onboard_time": 1705662385,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253912,
+        "num": 253912,
+        "word": "原神前瞻",
+        "onboard_time": 1705664906,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246503,
+        "num": 246503,
+        "word": "九省联考数学 我真气笑了",
+        "onboard_time": 1705657467,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232175,
+        "num": 232175,
+        "word": "迪奥男装秀",
+        "onboard_time": 1705666586,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 282824,
+        "num": 226964,
+        "word": "祈今朝妆造",
+        "onboard_time": 1705665927,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258977,
+        "num": 220914,
+        "word": "张杰和女儿AI照",
+        "onboard_time": 1705657947,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238178,
+        "num": 217329,
+        "word": "姜广涛直播",
+        "onboard_time": 1705667189,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206571,
+        "num": 206571,
+        "word": "你微博关注最久的人是谁",
+        "onboard_time": 1705665747,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200384,
+        "num": 200384,
+        "word": "学术不端将面临什么处罚",
+        "onboard_time": 1705664727,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237733,
+        "num": 200207,
+        "word": "宋亚轩在王牌收官合照上P了贾玲",
+        "onboard_time": 1705664667,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230024,
+        "num": 198877,
+        "word": "村民在微信群发了3句话被罚200元",
+        "onboard_time": 1705659026,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861165,
+        "num": 195173,
+        "word": "网易被曝大规模裁员",
+        "onboard_time": 1705661787,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190516,
+        "num": 190516,
+        "word": "吴亦凡关联公司仍欠约500万税款",
+        "onboard_time": 1705649909,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161045,
+        "num": 189623,
+        "word": "日本首例特定未成年人被判死刑",
+        "onboard_time": 1705640309,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 189557,
+        "num": 189557,
+        "word": "常华森他真的试图教会我",
+        "onboard_time": 1705667247,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181273,
+        "num": 181273,
+        "word": "魔术快斗活了",
+        "onboard_time": 1705666525,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 172078,
+        "num": 172078,
+        "word": "日本两球落后伊拉克",
+        "onboard_time": 1705667485,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168753,
+        "num": 168753,
+        "word": "王俊凯巴黎时装周预告",
+        "onboard_time": 1705663707,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159766,
+        "num": 159766,
+        "word": "麻将里面长这样",
+        "onboard_time": 1705658847,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156798,
+        "num": 156798,
+        "word": "张婧仪卢昱晓撞造型了",
+        "onboard_time": 1705641208,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151033,
+        "num": 151033,
+        "word": "央广网评华中农大教授黄某某学术不端",
+        "onboard_time": 1705662385,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148074,
+        "num": 148074,
+        "word": "这样洗羽绒服真的很干净",
+        "onboard_time": 1705660227,
+        "rank": 42,
+        "category": "时尚,科学科普"
+      },
+      {
+        "raw_hot": 144891,
+        "num": 144891,
+        "word": "刘诗诗方告黑",
+        "onboard_time": 1705662085,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140836,
+        "num": 140836,
+        "word": "世界之外 保底",
+        "onboard_time": 1705658129,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140040,
+        "num": 140040,
+        "word": "关注时间最长的明星",
+        "onboard_time": 1705667367,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136896,
+        "num": 136896,
+        "word": "江西公主到洛阳第一天就报警了",
+        "onboard_time": 1705667189,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117521,
+        "num": 117521,
+        "word": "女方家只收彩礼不陪嫁妆合适吗",
+        "onboard_time": 1705652845,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116447,
+        "num": 116447,
+        "word": "IU先行曲",
+        "onboard_time": 1705661907,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107444,
+        "num": 107444,
+        "word": "林俊杰帮周杰伦王俊凯拍照",
+        "onboard_time": 1705651226,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#从绿色发展中寻找发展的机遇和动力#"
+    }
+  }
+}

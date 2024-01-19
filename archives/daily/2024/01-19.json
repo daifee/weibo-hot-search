@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705664054816,
+  "endTime": 1705667626474,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -147,6 +147,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 1049219,
+      "num": 1049219,
+      "word": "基金经理纷纷道歉",
+      "onboard_time": 1705660827,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1036316,
       "num": 645740,
       "word": "张杰和女儿AI照",
@@ -185,6 +193,14 @@
       "onboard_time": 1705633466,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 943173,
+      "num": 943173,
+      "word": "机智的医生生活 翻拍",
+      "onboard_time": 1705664065,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 927171,
@@ -241,14 +257,6 @@
       "onboard_time": 1705631607,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 848910,
-      "num": 848910,
-      "word": "基金经理纷纷道歉",
-      "onboard_time": 1705660827,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 847314,
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 705397,
+      "num": 705397,
+      "word": "封神第一部最终票房",
+      "onboard_time": 1705664129,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 690073,
       "num": 690073,
       "word": "韩国知名rapper向警方自首吸毒",
@@ -353,6 +369,14 @@
       "onboard_time": 1705624469,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 679530,
+      "num": 679530,
+      "word": "伊拉克vs日本",
+      "onboard_time": 1705664245,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 671200,
@@ -401,6 +425,14 @@
       "onboard_time": 1705592010,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625042,
+      "num": 625042,
+      "word": "猫咪在主人床上生宝宝",
+      "onboard_time": 1705664547,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 620612,
@@ -459,6 +491,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 548989,
+      "num": 548989,
+      "word": "果郡王不知道 你李东学能不知道",
+      "onboard_time": 1705661366,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 538141,
+      "num": 538141,
+      "word": "王海举报小杨哥带货假五常大米",
+      "onboard_time": 1705667007,
+      "rank": 8,
+      "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 521978,
+      "num": 521978,
+      "word": "王星越反应",
+      "onboard_time": 1705665927,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 519786,
       "num": 519786,
       "word": "安徽春晚小品跳科目三导演发声",
@@ -481,14 +537,6 @@
       "onboard_time": 1705632144,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 516027,
-      "num": 516027,
-      "word": "果郡王不知道 你李东学能不知道",
-      "onboard_time": 1705661366,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 509525,
@@ -683,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 367325,
+      "num": 367325,
+      "word": "陶喆抢票",
+      "onboard_time": 1705664607,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 364472,
       "num": 364472,
       "word": "蔡依林2024巡演官宣",
@@ -729,6 +785,14 @@
       "onboard_time": 1705628309,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333934,
+      "num": 333934,
+      "word": "炎亚纶正式复出",
+      "onboard_time": 1705665445,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 331474,
@@ -843,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 282824,
+      "num": 226964,
+      "word": "祈今朝妆造",
+      "onboard_time": 1705665927,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282514,
       "num": 282514,
       "word": "王楚钦孙颖莎3比0黄镇廷杜凯琹",
@@ -891,6 +963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 273099,
+      "num": 340945,
+      "word": "聪明人离职",
+      "onboard_time": 1705666707,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 272020,
       "num": 193819,
       "word": "一个经常早醒的人要警惕4种病",
@@ -937,6 +1017,14 @@
       "onboard_time": 1705570588,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253912,
+      "num": 253912,
+      "word": "原神前瞻",
+      "onboard_time": 1705664906,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 250963,
@@ -1011,6 +1099,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238178,
+      "num": 217329,
+      "word": "姜广涛直播",
+      "onboard_time": 1705667189,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237733,
+      "num": 200207,
+      "word": "宋亚轩在王牌收官合照上P了贾玲",
+      "onboard_time": 1705664667,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237296,
       "num": 206250,
       "word": "小狗吵架试图咬死对方的空气",
@@ -1041,6 +1145,14 @@
       "onboard_time": 1705660166,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232175,
+      "num": 232175,
+      "word": "迪奥男装秀",
+      "onboard_time": 1705666586,
+      "rank": 24,
+      "category": "时尚"
     },
     {
       "raw_hot": 231636,
@@ -1227,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206571,
+      "num": 206571,
+      "word": "你微博关注最久的人是谁",
+      "onboard_time": 1705665747,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 206030,
       "num": 206030,
       "word": "新年美甲",
@@ -1289,6 +1409,14 @@
       "onboard_time": 1705635929,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 200384,
+      "num": 200384,
+      "word": "学术不端将面临什么处罚",
+      "onboard_time": 1705664727,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199296,
@@ -1395,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189557,
+      "num": 189557,
+      "word": "常华森他真的试图教会我",
+      "onboard_time": 1705667247,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188278,
       "num": 188278,
       "word": "王俊凯巴黎时装周预告",
@@ -1457,6 +1593,14 @@
       "onboard_time": 1705653030,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181273,
+      "num": 181273,
+      "word": "魔术快斗活了",
+      "onboard_time": 1705666525,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 179230,
@@ -1545,6 +1689,14 @@
       "onboard_time": 1705648705,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172078,
+      "num": 172078,
+      "word": "日本两球落后伊拉克",
+      "onboard_time": 1705667485,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 171720,
@@ -1819,6 +1971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140040,
+      "num": 140040,
+      "word": "关注时间最长的明星",
+      "onboard_time": 1705667367,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139298,
       "num": 139298,
       "word": "阿改转会西安WE",
@@ -1849,6 +2009,14 @@
       "onboard_time": 1705640490,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136896,
+      "num": 136896,
+      "word": "江西公主到洛阳第一天就报警了",
+      "onboard_time": 1705667189,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136077,
@@ -2235,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105575,
+      "num": 390229,
+      "word": "原神4.4版本直播",
+      "onboard_time": 1705665627,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105062,
       "num": 105062,
       "word": "甄姬幽恒限时返场",
@@ -2560,6 +2736,14 @@
       "word": "老人留外孙女所制陶瓷杯小心泡养",
       "onboard_time": 1705609092,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5579,
+      "num": 777778,
+      "word": "相约冰雪",
+      "onboard_time": 1705410872,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705664054816,
+  "endTime": 1705667626474,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -3995,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1049219,
+      "num": 1049219,
+      "word": "基金经理纷纷道歉",
+      "onboard_time": 1705660827,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1049177,
       "num": 978512,
       "word": "外交部发言人就台湾选举答记者问",
@@ -4827,6 +4835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 943173,
+      "num": 943173,
+      "word": "机智的医生生活 翻拍",
+      "onboard_time": 1705664065,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 940311,
       "num": 940311,
       "word": "卡琳娜复更",
@@ -5633,14 +5649,6 @@
       "onboard_time": 1705631607,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 848910,
-      "num": 848910,
-      "word": "基金经理纷纷道歉",
-      "onboard_time": 1705660827,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 848596,
@@ -7835,6 +7843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705397,
+      "num": 705397,
+      "word": "封神第一部最终票房",
+      "onboard_time": 1705664129,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 704545,
       "num": 704545,
       "word": "时代少年团唱奇迹再现好开心",
@@ -8313,6 +8329,14 @@
       "onboard_time": 1704113680,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 679530,
+      "num": 679530,
+      "word": "伊拉克vs日本",
+      "onboard_time": 1705664245,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 678925,
@@ -9297,6 +9321,14 @@
       "onboard_time": 1704700410,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625042,
+      "num": 625042,
+      "word": "猫咪在主人床上生宝宝",
+      "onboard_time": 1705664547,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 624863,
@@ -11227,6 +11259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 548989,
+      "num": 548989,
+      "word": "果郡王不知道 你李东学能不知道",
+      "onboard_time": 1705661366,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 548815,
       "num": 548815,
       "word": "美国哈佛大学校长宣布辞职",
@@ -11569,6 +11609,14 @@
       "onboard_time": 1704767490,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538141,
+      "num": 538141,
+      "word": "王海举报小杨哥带货假五常大米",
+      "onboard_time": 1705667007,
+      "rank": 8,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 537644,
@@ -12019,6 +12067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521978,
+      "num": 521978,
+      "word": "王星越反应",
+      "onboard_time": 1705665927,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 521407,
       "num": 521407,
       "word": "贪官靠打麻将受贿900多万元",
@@ -12169,14 +12225,6 @@
       "onboard_time": 1704546936,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 516027,
-      "num": 516027,
-      "word": "果郡王不知道 你李东学能不知道",
-      "onboard_time": 1705661366,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 515937,
@@ -17139,6 +17187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367325,
+      "num": 367325,
+      "word": "陶喆抢票",
+      "onboard_time": 1705664607,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 367091,
       "num": 277341,
       "word": "无面男孩18岁洗掉脸上纹身",
@@ -18321,6 +18377,14 @@
       "onboard_time": 1704968731,
       "rank": 27,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 333934,
+      "num": 333934,
+      "word": "炎亚纶正式复出",
+      "onboard_time": 1705665445,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 333882,
@@ -21067,6 +21131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282824,
+      "num": 226964,
+      "word": "祈今朝妆造",
+      "onboard_time": 1705665927,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282778,
       "num": 282778,
       "word": "名校本科生毕业深造率达70%",
@@ -21633,6 +21705,14 @@
       "onboard_time": 1705643907,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273099,
+      "num": 340945,
+      "word": "聪明人离职",
+      "onboard_time": 1705666707,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 273040,
@@ -23027,6 +23107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 253912,
+      "num": 253912,
+      "word": "原神前瞻",
+      "onboard_time": 1705664906,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 253773,
       "num": 253773,
       "word": "董宇辉新账号将首播",
@@ -24291,6 +24379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 238178,
+      "num": 217329,
+      "word": "姜广涛直播",
+      "onboard_time": 1705667189,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238100,
       "num": 238100,
       "word": "安心妈妈为了女儿减肥",
@@ -24329,6 +24425,14 @@
       "onboard_time": 1704192334,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237733,
+      "num": 200207,
+      "word": "宋亚轩在王牌收官合照上P了贾玲",
+      "onboard_time": 1705664667,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 237622,
@@ -24945,6 +25049,14 @@
       "onboard_time": 1704812916,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 232175,
+      "num": 232175,
+      "word": "迪奥男装秀",
+      "onboard_time": 1705666586,
+      "rank": 24,
+      "category": "时尚"
     },
     {
       "raw_hot": 232054,
@@ -27979,6 +28091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206571,
+      "num": 206571,
+      "word": "你微博关注最久的人是谁",
+      "onboard_time": 1705665747,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 206292,
       "num": 206292,
       "word": "减肥哪有不疯的",
@@ -29145,6 +29265,14 @@
       "onboard_time": 1704439531,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200384,
+      "num": 200384,
+      "word": "学术不端将面临什么处罚",
+      "onboard_time": 1705664727,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200363,
@@ -31235,6 +31363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189557,
+      "num": 189557,
+      "word": "常华森他真的试图教会我",
+      "onboard_time": 1705667247,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189497,
       "num": 189497,
       "word": "陈丽君李云霄现身央视春晚联排",
@@ -32817,6 +32953,14 @@
       "onboard_time": 1705557688,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181273,
+      "num": 181273,
+      "word": "魔术快斗活了",
+      "onboard_time": 1705666525,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 181253,
@@ -34569,6 +34713,14 @@
       "onboard_time": 1704238885,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 172078,
+      "num": 172078,
+      "word": "日本两球落后伊拉克",
+      "onboard_time": 1705667485,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 172049,
@@ -40963,6 +41115,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 140040,
+      "num": 140040,
+      "word": "关注时间最长的明星",
+      "onboard_time": 1705667367,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139989,
       "num": 139989,
       "word": "陈若华 颠婆养不出小白花",
@@ -41633,6 +41793,14 @@
       "onboard_time": 1705361965,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136896,
+      "num": 136896,
+      "word": "江西公主到洛阳第一天就报警了",
+      "onboard_time": 1705667189,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136846,
@@ -47089,6 +47257,14 @@
       "onboard_time": 1705649247,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105575,
+      "num": 390229,
+      "word": "原神4.4版本直播",
+      "onboard_time": 1705665627,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 105513,
