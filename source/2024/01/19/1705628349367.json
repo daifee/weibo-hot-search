@@ -1,0 +1,410 @@
+{
+  "runTime": 1705628349367,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7261357,
+        "num": 7261357,
+        "word": "华中农大教师黄某某存在学术不端",
+        "onboard_time": 1705619419,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1196290,
+        "num": 1196290,
+        "word": "华中农大组建导师组负责黄某某研究生培养",
+        "onboard_time": 1705622786,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137348,
+        "num": 1122835,
+        "word": "太空发快递可以当日达了",
+        "onboard_time": 1705582650,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1091294,
+        "num": 1091294,
+        "word": "11名研究生否认举报教授是被威胁",
+        "onboard_time": 1705626450,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722385,
+        "num": 722385,
+        "word": "黄飞若",
+        "onboard_time": 1705623090,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 685568,
+        "num": 685568,
+        "word": "金莎 控梦",
+        "onboard_time": 1705624469,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 673971,
+        "num": 673971,
+        "word": "女司机心脏病发作打120后失联110找到人",
+        "onboard_time": 1705620982,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519014,
+        "num": 519014,
+        "word": "他不敢用力是看戒指嵌肉里怕你疼",
+        "onboard_time": 1705605375,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435590,
+        "num": 435590,
+        "word": "妲己",
+        "onboard_time": 1705626812,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422703,
+        "num": 422703,
+        "word": "安徽春晚小品跳科目三导演发声",
+        "onboard_time": 1705594764,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403333,
+        "num": 403333,
+        "word": "被抽走板凳骨折女生已自愿退学",
+        "onboard_time": 1705583969,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383028,
+        "num": 383028,
+        "word": "高三艺考生292分拿下省状元",
+        "onboard_time": 1705618878,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 382069,
+        "num": 382069,
+        "word": "韩国剧组虐马致死被罚",
+        "onboard_time": 1705627888,
+        "rank": 12,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 335775,
+        "num": 335775,
+        "word": "优酷 手握多部养老保险",
+        "onboard_time": 1705590756,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287453,
+        "num": 287453,
+        "word": "熬夜吃辣 长斑",
+        "onboard_time": 1705624351,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 257998,
+        "num": 257998,
+        "word": "最高检派专人赴河北指导马树山案",
+        "onboard_time": 1705627051,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254112,
+        "num": 254112,
+        "word": "减肥太快会导致皮肤松弛吗",
+        "onboard_time": 1705626569,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252606,
+        "num": 252606,
+        "word": "领队称小冻梨沉默是因为太紧张",
+        "onboard_time": 1705622130,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209506,
+        "num": 209506,
+        "word": "狼队Fly断开连接",
+        "onboard_time": 1705623930,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206898,
+        "num": 206898,
+        "word": "记者对话举报华中农大教授当事人",
+        "onboard_time": 1705627768,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039622,
+        "num": 206460,
+        "word": "张黎 学生威胁学生是我听过最大笑话",
+        "onboard_time": 1705589851,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357056,
+        "num": 206350,
+        "word": "公厕不要对着坑的洞洞拉",
+        "onboard_time": 1705589554,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211736,
+        "num": 206250,
+        "word": "小狗吵架试图咬死对方的空气",
+        "onboard_time": 1705624590,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205914,
+        "num": 205914,
+        "word": "吃货丫丫胃口有多好",
+        "onboard_time": 1705627588,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204082,
+        "num": 204082,
+        "word": "华中农大教授回应学生举报不实",
+        "onboard_time": 1705581811,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193261,
+        "num": 200858,
+        "word": "要久久爱",
+        "onboard_time": 1705627768,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200289,
+        "num": 200289,
+        "word": "一升瓶装水中竟有24万个塑料颗粒",
+        "onboard_time": 1705622427,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193819,
+        "num": 193819,
+        "word": "一个经常早醒的人要警惕4种病",
+        "onboard_time": 1705622007,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189701,
+        "num": 189701,
+        "word": "过去一年周冬雨的院线遭遇",
+        "onboard_time": 1705627405,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188926,
+        "num": 188926,
+        "word": "分水果碰到人不在工位",
+        "onboard_time": 1705620982,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170516,
+        "num": 170516,
+        "word": "原来公交车是这样换皮肤的",
+        "onboard_time": 1705620863,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157335,
+        "num": 157335,
+        "word": "奥特曼称相信AI无法替代人类",
+        "onboard_time": 1705627287,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146638,
+        "num": 146638,
+        "word": "华中农大教师黄某某被停职",
+        "onboard_time": 1705619481,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135261,
+        "num": 135261,
+        "word": "年终奖让我感觉到贫富差距",
+        "onboard_time": 1705584991,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130577,
+        "num": 130577,
+        "word": "沈阳站改回沈阳站站",
+        "onboard_time": 1705587510,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127941,
+        "num": 127941,
+        "word": "被撤销起诉的老干部曾被拘39天",
+        "onboard_time": 1705628129,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125620,
+        "num": 125620,
+        "word": "女特技飞行员说女孩学飞行有优势",
+        "onboard_time": 1705627648,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124760,
+        "num": 124760,
+        "word": "李白新皮肤",
+        "onboard_time": 1705622609,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122303,
+        "num": 122303,
+        "word": "猫咪洗澡居然可以这么乖",
+        "onboard_time": 1705621645,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121467,
+        "num": 121467,
+        "word": "无畏转辅助",
+        "onboard_time": 1705626388,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121339,
+        "num": 121339,
+        "word": "不到150块带奶奶玩了一天",
+        "onboard_time": 1705627051,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113753,
+        "num": 113753,
+        "word": "如果奔跑是我的人生",
+        "onboard_time": 1705628129,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113272,
+        "num": 113272,
+        "word": "祁煜建模",
+        "onboard_time": 1705624889,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111209,
+        "num": 111209,
+        "word": "女婴被抢15年找到后收买方已过追诉期",
+        "onboard_time": 1705628309,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110642,
+        "num": 110642,
+        "word": "华中农业大学",
+        "onboard_time": 1705619842,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 105273,
+        "num": 105273,
+        "word": "杨紫新剧网名",
+        "onboard_time": 1705589129,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102670,
+        "num": 102670,
+        "word": "7岁北京小妞连夜打高铁捅戏窝子",
+        "onboard_time": 1705611073,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109490,
+        "num": 100551,
+        "word": "举报导师学生称不愿用造假成果毕业",
+        "onboard_time": 1705592010,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91808,
+        "num": 91808,
+        "word": "IVE英文新单曲",
+        "onboard_time": 1705625669,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90490,
+        "num": 90490,
+        "word": "全圆佑入乡随俗的签售",
+        "onboard_time": 1705628309,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#统筹国内国际两个市场两种资源#"
+    }
+  }
+}
