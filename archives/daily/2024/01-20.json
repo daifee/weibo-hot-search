@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705706178959,
+  "endTime": 1705707261546,
   "band_list": [
     {
       "raw_hot": 1321832,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644648,
+      "num": 644648,
+      "word": "萧山通报郝劭文称女儿被霸凌事件",
+      "onboard_time": 1705691114,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591047,
       "num": 591047,
       "word": "韩国人将翻拍长津湖",
@@ -81,14 +89,6 @@
       "onboard_time": 1705675589,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 511329,
-      "num": 511329,
-      "word": "萧山通报郝劭文称女儿被霸凌事件",
-      "onboard_time": 1705691114,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 487571,
@@ -195,6 +195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216545,
+      "num": 216545,
+      "word": "东北冻梨都被山东牡丹花惊艳到了",
+      "onboard_time": 1705695972,
+      "rank": 45,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 212079,
+      "num": 212079,
+      "word": "梁朝伟拒绝被叫daddy",
+      "onboard_time": 1705692616,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208461,
       "num": 208461,
       "word": "陈飞宇全英文采访",
@@ -211,12 +227,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177524,
-      "num": 177524,
-      "word": "东北冻梨都被山东牡丹花惊艳到了",
-      "onboard_time": 1705695972,
-      "rank": 45,
-      "category": "美食,社会新闻"
+      "raw_hot": 197593,
+      "num": 80148,
+      "word": "美国男子同时让5女怀孕还办迎婴派对",
+      "onboard_time": 1705694833,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191566,
+      "num": 79955,
+      "word": "大寒",
+      "onboard_time": 1705706057,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177491,
@@ -233,22 +257,6 @@
       "onboard_time": 1705674152,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154995,
-      "num": 154995,
-      "word": "梁朝伟拒绝被叫daddy",
-      "onboard_time": 1705692616,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 148197,
-      "num": 62777,
-      "word": "美国男子同时让5女怀孕还办迎婴派对",
-      "onboard_time": 1705694833,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147079,
@@ -291,12 +299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129394,
+      "num": 129394,
+      "word": "江西公主到洛阳第一天就报警了",
+      "onboard_time": 1705667189,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128402,
       "num": 128402,
       "word": "祝绪丹烛光大片",
       "onboard_time": 1705680267,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126531,
+      "num": 77713,
+      "word": "第一批滑雪的人已经滑不起雪了",
+      "onboard_time": 1705705336,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 125934,
@@ -315,6 +339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123462,
+      "num": 123462,
+      "word": "陈哲远骨相",
+      "onboard_time": 1705704316,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120299,
       "num": 120299,
       "word": "吴宣仪 别开玩笑",
@@ -329,6 +361,14 @@
       "onboard_time": 1705666586,
       "rank": 36,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 109259,
+      "num": 109259,
+      "word": "还有三周就过年了",
+      "onboard_time": 1705706057,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 108911,
@@ -353,14 +393,6 @@
       "onboard_time": 1705671030,
       "rank": 38,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 102480,
-      "num": 102480,
-      "word": "江西公主到洛阳第一天就报警了",
-      "onboard_time": 1705667189,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101896,
@@ -427,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87465,
-      "num": 87465,
-      "word": "陈哲远骨相",
-      "onboard_time": 1705704316,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84324,
       "num": 84324,
       "word": "王星越反应",
@@ -443,12 +467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81977,
-      "num": 59769,
-      "word": "大寒",
+      "raw_hot": 80390,
+      "num": 80390,
+      "word": "尔滨有一片橘子味的钻石海",
       "onboard_time": 1705706057,
-      "rank": 22,
-      "category": "社会新闻"
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 74533,
@@ -483,20 +507,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 51349,
-      "num": 51349,
-      "word": "第一批滑雪的人已经滑不起雪了",
-      "onboard_time": 1705705336,
+      "raw_hot": 67112,
+      "num": 67112,
+      "word": "莎头让二追三",
+      "onboard_time": 1705706717,
       "rank": 26,
-      "category": "运动健身"
+      "category": "体育"
     },
     {
-      "raw_hot": 51053,
-      "num": 51053,
-      "word": "尔滨有一片橘子味的钻石海",
-      "onboard_time": 1705706057,
-      "rank": 28,
-      "category": "旅游"
+      "raw_hot": 66937,
+      "num": 66937,
+      "word": "宝妈给娃辅导作业气到心裂",
+      "onboard_time": 1705705397,
+      "rank": 37,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 47983,
@@ -507,32 +531,32 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 36441,
-      "num": 36441,
+      "raw_hot": 43670,
+      "num": 43670,
       "word": "我是顾客 我是骑手",
       "onboard_time": 1705689975,
       "rank": 34,
       "category": "幽默"
     },
     {
-      "raw_hot": 35168,
-      "num": 35168,
-      "word": "宝妈给娃辅导作业气到心裂",
-      "onboard_time": 1705705397,
-      "rank": 37,
-      "category": "母婴育儿"
+      "raw_hot": 39330,
+      "num": 39330,
+      "word": "大寒有哪些习俗",
+      "onboard_time": 1705707140,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 32035,
-      "num": 32035,
-      "word": "还有三周就过年了",
-      "onboard_time": 1705706057,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 39092,
+      "num": 39092,
+      "word": "苹果头显支持隔空播放",
+      "onboard_time": 1705707200,
+      "rank": 41,
+      "category": "数码"
     },
     {
-      "raw_hot": 30973,
-      "num": 30973,
+      "raw_hot": 33669,
+      "num": 33669,
       "word": "马树山举报两干部上周仍出席活动",
       "onboard_time": 1705692315,
       "rank": 47,
