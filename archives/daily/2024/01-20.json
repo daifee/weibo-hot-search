@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705681393524,
+  "endTime": 1705682387362,
   "band_list": [
     {
       "raw_hot": 1321832,
@@ -33,6 +33,14 @@
       "onboard_time": 1705677269,
       "rank": 4,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 765272,
+      "num": 765272,
+      "word": "12306回应成都至北京票价低至47元",
+      "onboard_time": 1705680388,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 756297,
@@ -155,12 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265713,
-      "num": 265713,
-      "word": "12306回应成都至北京票价低至47元",
-      "onboard_time": 1705680388,
+      "raw_hot": 231417,
+      "num": 231417,
+      "word": "张元英辣妹自拍",
+      "onboard_time": 1705681525,
       "rank": 18,
-      "category": "社会新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 229002,
@@ -171,8 +179,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 219938,
-      "num": 219938,
+      "raw_hot": 227333,
+      "num": 227333,
       "word": "虞书欣包子脸具象化",
       "onboard_time": 1705674266,
       "rank": 22,
@@ -251,20 +259,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128402,
+      "num": 128402,
+      "word": "祝绪丹烛光大片",
+      "onboard_time": 1705680267,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125934,
       "num": 125934,
       "word": "姜广涛直播",
       "onboard_time": 1705667189,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123653,
-      "num": 123653,
-      "word": "祝绪丹烛光大片",
-      "onboard_time": 1705680267,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 123492,
@@ -299,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107412,
+      "num": 107412,
+      "word": "张新成咬杯子 小狗叼飞盘",
+      "onboard_time": 1705681405,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102905,
       "num": 102905,
       "word": "B太 抖音公司深度探厂体验",
@@ -323,8 +339,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96825,
-      "num": 96825,
+      "raw_hot": 96833,
+      "num": 96833,
       "word": "苹果头显预售",
       "onboard_time": 1705679007,
       "rank": 41,
@@ -395,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71923,
+      "num": 71923,
+      "word": "世界之外文案",
+      "onboard_time": 1705681525,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 8054,
       "num": 1141995,
       "word": "相约冰雪",
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#冰雪春天#"
+    },
+    {
+      "word": "#加快建设金融强国使命在肩#"
     }
   ]
 }
