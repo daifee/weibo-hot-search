@@ -1,0 +1,410 @@
+{
+  "runTime": 1705689375068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 269177,
+        "num": 269177,
+        "word": "12306回应成都至北京票价低至47元",
+        "onboard_time": 1705680388,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264331,
+        "num": 264331,
+        "word": "日本爆冷",
+        "onboard_time": 1705671747,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2497,
+        "num": 249089,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244630,
+        "num": 244630,
+        "word": "亳州文旅把妲己请过去了",
+        "onboard_time": 1705677269,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 241758,
+        "num": 241758,
+        "word": "不会再有第二个恋与制作人了",
+        "onboard_time": 1705676190,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205087,
+        "num": 205087,
+        "word": "何同学 做了一条流水线",
+        "onboard_time": 1705669107,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187914,
+        "num": 187914,
+        "word": "哈佛女孩刘亦婷成为美国普通中产",
+        "onboard_time": 1705671268,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174479,
+        "num": 174479,
+        "word": "韩国人将翻拍长津湖",
+        "onboard_time": 1705668867,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166760,
+        "num": 166760,
+        "word": "王海举报小杨哥带货假五常大米",
+        "onboard_time": 1705667007,
+        "rank": 8,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 129453,
+        "num": 129453,
+        "word": "于正替吴宣仪澄清",
+        "onboard_time": 1705675589,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108666,
+        "num": 108666,
+        "word": "张元英辣妹自拍",
+        "onboard_time": 1705681525,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100946,
+        "num": 100946,
+        "word": "王鹤棣的店要开了",
+        "onboard_time": 1705677930,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90817,
+        "num": 90817,
+        "word": "世界之外",
+        "onboard_time": 1705673790,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87977,
+        "num": 87977,
+        "word": "2023年度个人所得税扣缴手续费退付开启",
+        "onboard_time": 1705674570,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 76837,
+        "num": 76837,
+        "word": "于正 祝绪丹",
+        "onboard_time": 1705651046,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73773,
+        "num": 73773,
+        "word": "虞书欣包子脸具象化",
+        "onboard_time": 1705674266,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71190,
+        "num": 71190,
+        "word": "与恶魔有约",
+        "onboard_time": 1705670967,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70129,
+        "num": 70129,
+        "word": "世界之外 保底",
+        "onboard_time": 1705658129,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65570,
+        "num": 65570,
+        "word": "美甲店 杀熟",
+        "onboard_time": 1705647927,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 63813,
+        "num": 63813,
+        "word": "祈今朝 配音",
+        "onboard_time": 1705683802,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91151,
+        "num": 63774,
+        "word": "女子发现金戒指褪色竟救自己一命",
+        "onboard_time": 1705670846,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62154,
+        "num": 62154,
+        "word": "王楚钦孙颖莎vs林高远王曼昱",
+        "onboard_time": 1705680148,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57559,
+        "num": 57559,
+        "word": "寒假工招到真正的大学生了",
+        "onboard_time": 1705676491,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55344,
+        "num": 55344,
+        "word": "22岁的蔡依林舞台",
+        "onboard_time": 1705683144,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55334,
+        "num": 55334,
+        "word": "柳智敏 请吃饭的漂亮姐姐",
+        "onboard_time": 1705675349,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54651,
+        "num": 54651,
+        "word": "王俊凯插兜失败",
+        "onboard_time": 1705675891,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 50875,
+        "num": 50875,
+        "word": "10个洗澡禁忌要知道",
+        "onboard_time": 1705676190,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47207,
+        "num": 47207,
+        "word": "水瓶座生日快乐",
+        "onboard_time": 1705674152,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44242,
+        "num": 44242,
+        "word": "江西公主到洛阳第一天就报警了",
+        "onboard_time": 1705667189,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9846,
+        "num": 41875,
+        "word": "侠客岛评迁西老干部举报领导反被捕",
+        "onboard_time": 1705688895,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50054,
+        "num": 41866,
+        "word": "村民在微信群发了3句话被罚200元",
+        "onboard_time": 1705659026,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41418,
+        "num": 41418,
+        "word": "封神第一部最终票房",
+        "onboard_time": 1705664129,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41081,
+        "num": 41081,
+        "word": "世界之外文案",
+        "onboard_time": 1705681525,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40925,
+        "num": 40925,
+        "word": "炎亚纶正式复出",
+        "onboard_time": 1705665445,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40160,
+        "num": 40160,
+        "word": "迪奥男装秀",
+        "onboard_time": 1705666586,
+        "rank": 34,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 40136,
+        "num": 40136,
+        "word": "原神前瞻",
+        "onboard_time": 1705664906,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39443,
+        "num": 39443,
+        "word": "关晓彤告别王牌对王牌第八季",
+        "onboard_time": 1705660707,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37300,
+        "num": 37300,
+        "word": "吴宣仪 别开玩笑",
+        "onboard_time": 1705652068,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33965,
+        "num": 33965,
+        "word": "机智的医生生活 翻拍",
+        "onboard_time": 1705664065,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33878,
+        "num": 33878,
+        "word": "姜广涛直播",
+        "onboard_time": 1705667189,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32998,
+        "num": 32998,
+        "word": "陈飞宇全英文采访",
+        "onboard_time": 1705675948,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 31090,
+        "num": 31090,
+        "word": "张雨绮纯欲千金妆",
+        "onboard_time": 1705685298,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30928,
+        "num": 30928,
+        "word": "祈今朝 严于绿己",
+        "onboard_time": 1705675289,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29935,
+        "num": 29935,
+        "word": "张新成咬杯子 小狗叼飞盘",
+        "onboard_time": 1705681405,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28785,
+        "num": 28785,
+        "word": "苹果头显预售",
+        "onboard_time": 1705679007,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27518,
+        "num": 27518,
+        "word": "边伯贤费加罗中国首封预告",
+        "onboard_time": 1705677089,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 26804,
+        "num": 26804,
+        "word": "B太 抖音公司深度探厂体验",
+        "onboard_time": 1705671030,
+        "rank": 46,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 26654,
+        "num": 26654,
+        "word": "猫咪在主人床上生宝宝",
+        "onboard_time": 1705664547,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26553,
+        "num": 26553,
+        "word": "祝绪丹烛光大片",
+        "onboard_time": 1705680267,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25841,
+        "num": 25841,
+        "word": "基金经理纷纷道歉",
+        "onboard_time": 1705660827,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设金融强国使命在肩#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705688584948,
+  "endTime": 1705689375068,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -17561,6 +17561,14 @@
       "onboard_time": 1705264453,
       "rank": 49,
       "category": "社会正能量,旅游"
+    },
+    {
+      "raw_hot": 9846,
+      "num": 41875,
+      "word": "侠客岛评迁西老干部举报领导反被捕",
+      "onboard_time": 1705688895,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9177,
