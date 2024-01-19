@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705677575562,
+  "endTime": 1705678489708,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -363,6 +363,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 798074,
+      "num": 798074,
+      "word": "不会再有第二个恋与制作人了",
+      "onboard_time": 1705676190,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 794349,
       "num": 794349,
       "word": "黄飞若",
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 768871,
+      "num": 768871,
+      "word": "2023年度个人所得税扣缴手续费退付开启",
+      "onboard_time": 1705674570,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 763420,
       "num": 763420,
       "word": "关晓彤告别王牌对王牌第八季",
@@ -419,20 +435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 686903,
+      "num": 531071,
+      "word": "亳州文旅把妲己请过去了",
+      "onboard_time": 1705677269,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 685568,
       "num": 685568,
       "word": "金莎 控梦",
       "onboard_time": 1705624469,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 683734,
-      "num": 683734,
-      "word": "2023年度个人所得税扣缴手续费退付开启",
-      "onboard_time": 1705674570,
-      "rank": 38,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 679530,
@@ -529,14 +545,6 @@
       "onboard_time": 1705589554,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 600991,
-      "num": 600991,
-      "word": "不会再有第二个恋与制作人了",
-      "onboard_time": 1705676190,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 599112,
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 421778,
-      "num": 264225,
+      "num": 277228,
       "word": "寒假工招到真正的大学生了",
       "onboard_time": 1705676491,
       "rank": 22,
@@ -883,6 +891,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 376238,
+      "num": 376238,
+      "word": "10个洗澡禁忌要知道",
+      "onboard_time": 1705676190,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 372560,
       "num": 372560,
       "word": "聪明人离职",
@@ -937,14 +953,6 @@
       "onboard_time": 1705579587,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351279,
-      "num": 351279,
-      "word": "10个洗澡禁忌要知道",
-      "onboard_time": 1705676190,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 350050,
@@ -1163,6 +1171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 276057,
+      "num": 276057,
+      "word": "举报导师学生说曾做好影响毕业打算",
+      "onboard_time": 1705677208,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275458,
       "num": 275458,
       "word": "杨紫新剧鸡窝头",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1705623930,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250953,
+      "num": 250953,
+      "word": "王鹤棣的店要开了",
+      "onboard_time": 1705677930,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 249358,
@@ -1571,14 +1595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 209436,
-      "num": 209436,
-      "word": "亳州文旅把妲己请过去了",
-      "onboard_time": 1705677269,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 207245,
       "num": 207245,
       "word": "林小宅人生第一部仙侠剧",
@@ -1707,6 +1723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198639,
+      "num": 198639,
+      "word": "A股",
+      "onboard_time": 1705677809,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 196981,
       "num": 196981,
       "word": "钟楚曦演技",
@@ -1793,14 +1817,6 @@
       "onboard_time": 1705568727,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191404,
-      "num": 191404,
-      "word": "举报导师学生说曾做好影响毕业打算",
-      "onboard_time": 1705677208,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190929,
@@ -1985,6 +2001,14 @@
       "onboard_time": 1705644328,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 178826,
+      "num": 178826,
+      "word": "朱一龙学吉他心得",
+      "onboard_time": 1705677809,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 178347,
