@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705673826555,
+  "endTime": 1705674891585,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1646711,
+      "num": 1646711,
+      "word": "哈佛女孩刘亦婷成为美国普通中产",
+      "onboard_time": 1705671268,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1535429,
       "num": 1535429,
       "word": "韩国人将翻拍长津湖",
@@ -177,14 +185,6 @@
       "onboard_time": 1705648705,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1079399,
-      "num": 1079399,
-      "word": "哈佛女孩刘亦婷成为美国普通中产",
-      "onboard_time": 1705671268,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1075726,
@@ -675,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 461298,
+      "num": 461298,
+      "word": "与恶魔有约",
+      "onboard_time": 1705670967,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 461291,
       "num": 461291,
       "word": "仙剑四里有江玉燕",
@@ -713,6 +721,14 @@
       "onboard_time": 1705667189,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428785,
+      "num": 428785,
+      "word": "B太 抖音公司深度探厂体验",
+      "onboard_time": 1705671030,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 428672,
@@ -851,20 +867,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 364128,
+      "num": 364128,
+      "word": "世界之外",
+      "onboard_time": 1705576709,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 359690,
       "num": 359690,
       "word": "原神前瞻",
       "onboard_time": 1705664906,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 358409,
-      "num": 358409,
-      "word": "B太 抖音公司深度探厂体验",
-      "onboard_time": 1705671030,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 357033,
@@ -907,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337847,
-      "num": 337847,
-      "word": "与恶魔有约",
-      "onboard_time": 1705670967,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 331474,
       "num": 331474,
       "word": "杨紫冬日梅子妆",
@@ -945,14 +953,6 @@
       "onboard_time": 1705647386,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 316680,
-      "num": 316680,
-      "word": "世界之外",
-      "onboard_time": 1705576709,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 312884,
@@ -1139,6 +1139,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 266193,
+      "num": 266193,
+      "word": "水瓶座生日快乐",
+      "onboard_time": 1705674152,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264652,
       "num": 264652,
       "word": "瘦大腿和肚子都有效的动作",
@@ -1211,6 +1219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248987,
+      "num": 248987,
+      "word": "河北核查老干部举报县领导被逮捕",
+      "onboard_time": 1705673491,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247726,
       "num": 202034,
       "word": "这样洗羽绒服真的很干净",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1705624590,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237160,
+      "num": 237160,
+      "word": "虞书欣包子脸具象化",
+      "onboard_time": 1705674266,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 235928,
@@ -1579,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199650,
+      "num": 199650,
+      "word": "无畏 我自己能负责",
+      "onboard_time": 1705674152,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199296,
       "num": 199296,
       "word": "ITZY一位安可",
@@ -1595,20 +1627,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195502,
-      "num": 195502,
-      "word": "河北核查老干部举报县领导被逮捕",
-      "onboard_time": 1705673491,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195419,
       "num": 195419,
       "word": "因板凳骨折女生称父母与其断绝关系",
       "onboard_time": 1705573110,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194862,
+      "num": 194862,
+      "word": "我干什么你管得着吗",
+      "onboard_time": 1705673191,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 194471,
@@ -1643,12 +1675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193028,
+      "num": 193028,
+      "word": "山下智久妈妈是车银优粉丝",
+      "onboard_time": 1705674390,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191881,
       "num": 191881,
       "word": "仙剑四",
       "onboard_time": 1705637128,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191653,
+      "num": 191653,
+      "word": "Apple Vision Pro",
+      "onboard_time": 1705674210,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 191526,
@@ -1673,6 +1721,14 @@
       "onboard_time": 1705645885,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190658,
+      "num": 190658,
+      "word": "于正回应网友说他长得丑",
+      "onboard_time": 1705674748,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 190627,
@@ -1721,6 +1777,14 @@
       "onboard_time": 1705663707,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 187898,
+      "num": 187898,
+      "word": "PS5原神启动套装",
+      "onboard_time": 1705674447,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 186918,
@@ -1779,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182548,
+      "num": 182548,
+      "word": "2023年度个人所得税扣缴手续费退付开启",
+      "onboard_time": 1705674570,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 181456,
       "num": 181456,
       "word": "裁委会认定戴伟浚遭飞踹漏判红牌",
@@ -1793,14 +1865,6 @@
       "onboard_time": 1705666525,
       "rank": 36,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 181243,
-      "num": 181243,
-      "word": "我干什么你管得着吗",
-      "onboard_time": 1705673191,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 180580,
@@ -2155,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148043,
+      "num": 148043,
+      "word": "伊拉克门将哭了",
+      "onboard_time": 1705673733,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147029,
       "num": 147029,
       "word": "卢昱晓吴宣仪贴贴",
@@ -2249,14 +2321,6 @@
       "onboard_time": 1705640490,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136261,
-      "num": 136261,
-      "word": "伊拉克门将哭了",
-      "onboard_time": 1705673733,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 136077,
@@ -2995,7 +3059,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7474,
+      "raw_hot": 8146,
       "num": 1341366,
       "word": "相约冰雪",
       "onboard_time": 1705410872,
