@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705631573070,
+  "endTime": 1705632181161,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1059,6 +1059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1862921,
+      "num": 1862921,
+      "word": "春晚 科目三",
+      "onboard_time": 1705628670,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1859322,
       "num": 1859322,
       "word": "霍尊复出",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1704342575,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1717382,
-      "num": 1717382,
-      "word": "春晚 科目三",
-      "onboard_time": 1705628670,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1714755,

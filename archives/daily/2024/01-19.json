@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705631573070,
+  "endTime": 1705632181161,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -12,15 +12,15 @@
     },
     {
       "raw_hot": 2181146,
-      "num": 215503,
+      "num": 238720,
       "word": "张黎 学生威胁学生是我听过最大笑话",
       "onboard_time": 1705589851,
       "rank": 20,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1717382,
-      "num": 1717382,
+      "raw_hot": 1862921,
+      "num": 1862921,
       "word": "春晚 科目三",
       "onboard_time": 1705628670,
       "rank": 1,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 913154,
+      "num": 913154,
+      "word": "谢娜 有好几个朋友都不会再接我电话",
+      "onboard_time": 1705629568,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 847314,
       "num": 847314,
       "word": "女司机心脏病发作打120后失联110找到人",
@@ -73,14 +81,6 @@
       "onboard_time": 1705623090,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 747227,
-      "num": 747227,
-      "word": "谢娜 有好几个朋友都不会再接我电话",
-      "onboard_time": 1705629568,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 685568,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 604566,
-      "num": 212082,
+      "num": 236692,
       "word": "公厕不要对着坑的洞洞拉",
       "onboard_time": 1705589554,
       "rank": 21,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 529221,
+      "num": 529221,
+      "word": "身家600亿富豪给员工每人1万红包",
+      "onboard_time": 1705630348,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519786,
       "num": 519786,
       "word": "安徽春晚小品跳科目三导演发声",
@@ -147,19 +155,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496285,
+      "num": 435590,
+      "word": "妲己",
+      "onboard_time": 1705626812,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494643,
+      "num": 494643,
+      "word": "迪丽热巴弯腰不是在笑是在捡垃圾",
+      "onboard_time": 1705630409,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484626,
       "num": 132427,
       "word": "华中农大再回应教授被举报学术不端事件",
       "onboard_time": 1705582588,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 476702,
-      "num": 435590,
-      "word": "妲己",
-      "onboard_time": 1705626812,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -187,24 +203,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 417142,
-      "num": 417142,
-      "word": "身家600亿富豪给员工每人1万红包",
-      "onboard_time": 1705630348,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408058,
-      "num": 408058,
-      "word": "迪丽热巴弯腰不是在笑是在捡垃圾",
-      "onboard_time": 1705630409,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 388396,
-      "num": 388396,
+      "raw_hot": 399697,
+      "num": 399697,
       "word": "打铁花和看打铁花的都沉默了",
       "onboard_time": 1705628369,
       "rank": 9,
@@ -217,6 +217,22 @@
       "onboard_time": 1705579587,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340839,
+      "num": 340839,
+      "word": "女婴被抢15年找到后收买方已过追诉期",
+      "onboard_time": 1705628309,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334144,
+      "num": 334144,
+      "word": "仙剑四里有江玉燕",
+      "onboard_time": 1705631067,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 316680,
@@ -235,12 +251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303199,
-      "num": 303199,
-      "word": "女婴被抢15年找到后收买方已过追诉期",
-      "onboard_time": 1705628309,
-      "rank": 43,
+      "raw_hot": 302706,
+      "num": 302706,
+      "word": "云台山景区就男女妲己事件致歉",
+      "onboard_time": 1705631607,
+      "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302417,
+      "num": 239073,
+      "word": "下完崽的狗子硬要给主人喂奶",
+      "onboard_time": 1705630711,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 301644,
@@ -267,6 +291,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 290649,
+      "num": 290649,
+      "word": "减肥太快会导致皮肤松弛吗",
+      "onboard_time": 1705626569,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 289943,
       "num": 289943,
       "word": "熬夜吃辣 长斑",
@@ -281,6 +313,14 @@
       "onboard_time": 1705580067,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283598,
+      "num": 283598,
+      "word": "朝鲜称测试水下核武器系统",
+      "onboard_time": 1705631790,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 282514,
@@ -323,14 +363,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 263703,
-      "num": 213605,
-      "word": "下完崽的狗子硬要给主人喂奶",
-      "onboard_time": 1705630711,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 257998,
       "num": 257998,
       "word": "最高检派专人赴河北指导马树山案",
@@ -347,20 +379,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254112,
-      "num": 254112,
-      "word": "减肥太快会导致皮肤松弛吗",
-      "onboard_time": 1705626569,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 250963,
       "num": 250963,
       "word": "狼队Fly断开连接",
       "onboard_time": 1705623930,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 247525,
+      "num": 247525,
+      "word": "王一博出发澳门",
+      "onboard_time": 1705630590,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 244494,
@@ -403,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231076,
-      "num": 231076,
-      "word": "仙剑四里有江玉燕",
-      "onboard_time": 1705631067,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226114,
       "num": 170516,
       "word": "原来公交车是这样换皮肤的",
@@ -433,14 +457,6 @@
       "onboard_time": 1705627405,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 208187,
-      "num": 208187,
-      "word": "王一博出发澳门",
-      "onboard_time": 1705630590,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 207245,
@@ -579,20 +595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164788,
+      "num": 164788,
+      "word": "苹果员工买头显可享75折",
+      "onboard_time": 1705630106,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 160275,
       "num": 160275,
       "word": "杨紫叫范丞丞大明星",
       "onboard_time": 1705590631,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159112,
-      "num": 159112,
-      "word": "苹果员工买头显可享75折",
-      "onboard_time": 1705630106,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 159045,
@@ -667,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131774,
+      "num": 131774,
+      "word": "为何学术不端屡禁不止",
+      "onboard_time": 1705631369,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130429,
       "num": 130429,
       "word": "道歉哥出走三天归来仍要道歉",
@@ -688,6 +712,14 @@
       "word": "祈今朝第一集 幼儿园逃窜儿童",
       "onboard_time": 1705628248,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128483,
+      "num": 128483,
+      "word": "茅子俊 仙剑茅血旺",
+      "onboard_time": 1705631967,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -739,14 +771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121080,
-      "num": 116771,
-      "word": "为何学术不端屡禁不止",
-      "onboard_time": 1705631369,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120667,
       "num": 120667,
       "word": "原来台湾是这样丢垃圾的",
@@ -787,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115817,
+      "num": 115817,
+      "word": "铁头被禁言",
+      "onboard_time": 1705632029,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114899,
       "num": 114899,
       "word": "会武功的僵尸 永劫无僵",
@@ -809,6 +841,14 @@
       "onboard_time": 1705628129,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113208,
+      "num": 113208,
+      "word": "纸嫁衣6",
+      "onboard_time": 1705632144,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 111355,
