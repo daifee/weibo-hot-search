@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705649642501,
+  "endTime": 1705652570734,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -233,6 +233,14 @@
       "onboard_time": 1705294173,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1990762,
+      "num": 1990762,
+      "word": "美甲店 杀熟",
+      "onboard_time": 1705647927,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 1989448,
@@ -609,6 +617,14 @@
       "onboard_time": 1705235371,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1430684,
+      "num": 929454,
+      "word": "于正 祝绪丹",
+      "onboard_time": 1705651046,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1428563,
@@ -1179,6 +1195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1017322,
+      "num": 1017322,
+      "word": "董宇辉谈贾玲变化",
+      "onboard_time": 1705650150,
+      "rank": 1,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 1016131,
       "num": 826924,
       "word": "杨幂绿戒指红美甲",
@@ -1395,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928293,
+      "num": 928293,
+      "word": "校方不认定郝劭文女儿被霸凌",
+      "onboard_time": 1705651286,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 927171,
       "num": 927171,
       "word": "为什么年轻人不愿意种地",
@@ -1409,14 +1441,6 @@
       "onboard_time": 1705209450,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 924448,
-      "num": 924448,
-      "word": "美甲店 杀熟",
-      "onboard_time": 1705647927,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 923788,
@@ -1891,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 773027,
+      "num": 773027,
+      "word": "刘立宪被开除党籍",
+      "onboard_time": 1705648466,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772649,
       "num": 772649,
       "word": "周震南躲箱子里爆哭被抬走",
@@ -2307,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690073,
+      "num": 690073,
+      "word": "韩国知名rapper向警方自首吸毒",
+      "onboard_time": 1705649369,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 688914,
       "num": 688914,
       "word": "张小斐 给你们看我姐可爱吗",
@@ -2473,6 +2513,14 @@
       "onboard_time": 1705541185,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 656898,
+      "num": 656898,
+      "word": "吴亦凡关联公司仍欠约500万税款",
+      "onboard_time": 1705649909,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 656236,
@@ -2851,14 +2899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 600081,
-      "num": 600081,
-      "word": "刘立宪被开除党籍",
-      "onboard_time": 1705648466,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 599469,
       "num": 599469,
       "word": "秀才账号被无限期回收直播权限",
@@ -2873,6 +2913,14 @@
       "onboard_time": 1705191690,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 599112,
+      "num": 466518,
+      "word": "学校通报郝劭文女儿被霸凌事件",
+      "onboard_time": 1705651286,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 598216,
@@ -3737,6 +3785,14 @@
       "onboard_time": 1705204411,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 484196,
+      "num": 484196,
+      "word": "王诗龄拍杂志了",
+      "onboard_time": 1705649666,
+      "rank": 9,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 483707,
@@ -4971,6 +5027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 372756,
+      "num": 372756,
+      "word": "吴宣仪 别开玩笑",
+      "onboard_time": 1705652068,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372043,
       "num": 372043,
       "word": "大连人俱乐部解散",
@@ -5129,6 +5193,14 @@
       "onboard_time": 1705493370,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 358121,
+      "num": 261508,
+      "word": "景甜 一切要从擦干净手之后说起",
+      "onboard_time": 1705650207,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 357794,
@@ -5580,7 +5652,7 @@
     },
     {
       "raw_hot": 318422,
-      "num": 228667,
+      "num": 310507,
       "word": "A股整体股息率已逼近历史高位",
       "onboard_time": 1705647386,
       "rank": 20,
@@ -6312,6 +6384,14 @@
       "word": "邓为抽到了米卡自制的手机支架",
       "onboard_time": 1705330891,
       "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 279074,
+      "num": 251676,
+      "word": "田曦薇张婧仪雪地撞衫",
+      "onboard_time": 1705652186,
+      "rank": 21,
       "category": "作品衍生"
     },
     {
@@ -7211,14 +7291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242524,
-      "num": 242524,
-      "word": "韩国知名rapper向警方自首吸毒",
-      "onboard_time": 1705649369,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242356,
       "num": 242356,
       "word": "张镇麟47分",
@@ -7491,6 +7563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234832,
+      "num": 234832,
+      "word": "化妆和不化妆的都沉默了",
+      "onboard_time": 1705650567,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234810,
       "num": 192373,
       "word": "邱贻可 打好每一场",
@@ -7627,6 +7707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230175,
+      "num": 189904,
+      "word": "为什么吃的牛肉有时是彩色的",
+      "onboard_time": 1705651886,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 229552,
       "num": 229552,
       "word": "赵丽颖第二十条定格照",
@@ -7705,6 +7793,14 @@
       "onboard_time": 1705636410,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227666,
+      "num": 227666,
+      "word": "林俊杰帮周杰伦王俊凯拍照",
+      "onboard_time": 1705651226,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 227478,
@@ -8347,6 +8443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209781,
+      "num": 209781,
+      "word": "公司年假放了42天",
+      "onboard_time": 1705648768,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209771,
       "num": 209771,
       "word": "繁花",
@@ -8513,6 +8617,14 @@
       "onboard_time": 1705581207,
       "rank": 47,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 205565,
+      "num": 205565,
+      "word": "外卖聊天记录",
+      "onboard_time": 1705650508,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 205317,
@@ -9187,6 +9299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192945,
+      "num": 192945,
+      "word": "换乘恋爱3",
+      "onboard_time": 1705651948,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192846,
       "num": 192846,
       "word": "张镇麟carry全场",
@@ -9297,14 +9417,6 @@
       "onboard_time": 1705588591,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191582,
-      "num": 191582,
-      "word": "公司年假放了42天",
-      "onboard_time": 1705648768,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 191578,
@@ -9713,6 +9825,14 @@
       "onboard_time": 1705230571,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186311,
+      "num": 186311,
+      "word": "结婚前要把这7个问题聊清楚",
+      "onboard_time": 1705651167,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 186148,
@@ -10827,6 +10947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167840,
+      "num": 167840,
+      "word": "易方达基金张坤十大重仓股",
+      "onboard_time": 1705650687,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167809,
       "num": 167809,
       "word": "曾舜晞的围脖掉色",
@@ -10953,6 +11081,14 @@
       "onboard_time": 1705562367,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165930,
+      "num": 165930,
+      "word": "杨紫火星文自动回复",
+      "onboard_time": 1705652250,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 165762,
@@ -11161,6 +11297,14 @@
       "onboard_time": 1705220851,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161538,
+      "num": 161538,
+      "word": "喉结动了 门铃响了",
+      "onboard_time": 1705651527,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 161446,
@@ -11755,6 +11899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152824,
+      "num": 152824,
+      "word": "这就是我小时候以为的世界",
+      "onboard_time": 1705651111,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152796,
       "num": 152796,
       "word": "星痕走不走",
@@ -12153,6 +12305,14 @@
       "onboard_time": 1705639052,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146117,
+      "num": 146117,
+      "word": "LCK宣布恢复FM",
+      "onboard_time": 1705651408,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 146049,
@@ -12641,6 +12801,14 @@
       "onboard_time": 1705502132,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139298,
+      "num": 139298,
+      "word": "阿改转会西安WE",
+      "onboard_time": 1705651111,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 139250,
@@ -14027,6 +14195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 114356,
+      "num": 114356,
+      "word": "网络播放量将制定统一标准",
+      "onboard_time": 1705650448,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 114333,
       "num": 116385,
       "word": "Tarzan韩服第一",
@@ -14435,6 +14611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 104210,
+      "num": 104210,
+      "word": "贵阳红糖馒头",
+      "onboard_time": 1705649845,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 104119,
       "num": 104119,
       "word": "WE RNGM EDGM 舞蹈串烧",
@@ -14804,7 +14988,7 @@
     },
     {
       "raw_hot": 89009,
-      "num": 229023,
+      "num": 398095,
       "word": "寻找回家的光",
       "onboard_time": 1705648947,
       "rank": 19,
@@ -15297,6 +15481,14 @@
       "onboard_time": 1705553789,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 60588,
+      "num": 930133,
+      "word": "这条24公里跨海通道有5项世界首创",
+      "onboard_time": 1705650207,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60211,
@@ -16183,6 +16375,9 @@
     },
     {
       "word": "#从绿色发展中寻找发展的机遇和动力#"
+    },
+    {
+      "word": "#加快建设金融强国使命在肩#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705649642501,
+  "endTime": 1705652570734,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1990762,
+      "num": 1990762,
+      "word": "美甲店 杀熟",
+      "onboard_time": 1705647927,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1989448,
       "num": 1989448,
       "word": "中国夫妻疑因被谷歌裁员在美身亡",
@@ -65,6 +73,14 @@
       "onboard_time": 1705622786,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1430684,
+      "num": 929454,
+      "word": "于正 祝绪丹",
+      "onboard_time": 1705651046,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1334577,
@@ -99,6 +115,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 1017322,
+      "num": 1017322,
+      "word": "董宇辉谈贾玲变化",
+      "onboard_time": 1705650150,
+      "rank": 1,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 1015599,
       "num": 1015599,
       "word": "iPhone到尔滨掉电有多快",
@@ -123,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928293,
+      "num": 928293,
+      "word": "校方不认定郝劭文女儿被霸凌",
+      "onboard_time": 1705651286,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 927171,
       "num": 927171,
       "word": "为什么年轻人不愿意种地",
       "onboard_time": 1705632987,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 924448,
-      "num": 924448,
-      "word": "美甲店 杀熟",
-      "onboard_time": 1705647927,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 913154,
@@ -227,6 +251,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 773027,
+      "num": 773027,
+      "word": "刘立宪被开除党籍",
+      "onboard_time": 1705648466,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690073,
+      "num": 690073,
+      "word": "韩国知名rapper向警方自首吸毒",
+      "onboard_time": 1705649369,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 685568,
       "num": 685568,
       "word": "金莎 控梦",
@@ -257,6 +297,14 @@
       "onboard_time": 1705619481,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 656898,
+      "num": 656898,
+      "word": "吴亦凡关联公司仍欠约500万税款",
+      "onboard_time": 1705649909,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 644659,
@@ -291,12 +339,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 600081,
-      "num": 600081,
-      "word": "刘立宪被开除党籍",
-      "onboard_time": 1705648466,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 599112,
+      "num": 466518,
+      "word": "学校通报郝劭文女儿被霸凌事件",
+      "onboard_time": 1705651286,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 565447,
@@ -361,6 +409,14 @@
       "onboard_time": 1705582588,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484196,
+      "num": 484196,
+      "word": "王诗龄拍杂志了",
+      "onboard_time": 1705649666,
+      "rank": 9,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 483100,
@@ -467,12 +523,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 372756,
+      "num": 372756,
+      "word": "吴宣仪 别开玩笑",
+      "onboard_time": 1705652068,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364472,
       "num": 364472,
       "word": "蔡依林2024巡演官宣",
       "onboard_time": 1705635385,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 358121,
+      "num": 261508,
+      "word": "景甜 一切要从擦干净手之后说起",
+      "onboard_time": 1705650207,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 357033,
@@ -524,7 +596,7 @@
     },
     {
       "raw_hot": 318422,
-      "num": 228667,
+      "num": 310507,
       "word": "A股整体股息率已逼近历史高位",
       "onboard_time": 1705647386,
       "rank": 20,
@@ -635,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279074,
+      "num": 251676,
+      "word": "田曦薇张婧仪雪地撞衫",
+      "onboard_time": 1705652186,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 276110,
       "num": 276110,
       "word": "Fly 彭云飞不踩刹车键",
@@ -739,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242524,
-      "num": 242524,
-      "word": "韩国知名rapper向警方自首吸毒",
-      "onboard_time": 1705649369,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237296,
       "num": 206250,
       "word": "小狗吵架试图咬死对方的空气",
@@ -763,12 +835,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234832,
+      "num": 234832,
+      "word": "化妆和不化妆的都沉默了",
+      "onboard_time": 1705650567,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231636,
       "num": 231636,
       "word": "云台山男妲己回应争议",
       "onboard_time": 1705628848,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230175,
+      "num": 189904,
+      "word": "为什么吃的牛肉有时是彩色的",
+      "onboard_time": 1705651886,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 229036,
@@ -785,6 +873,14 @@
       "onboard_time": 1705636410,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227666,
+      "num": 227666,
+      "word": "林俊杰帮周杰伦王俊凯拍照",
+      "onboard_time": 1705651226,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 226114,
@@ -827,6 +923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209781,
+      "num": 209781,
+      "word": "公司年假放了42天",
+      "onboard_time": 1705648768,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207245,
       "num": 207245,
       "word": "林小宅人生第一部仙侠剧",
@@ -857,6 +961,14 @@
       "onboard_time": 1705627588,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205565,
+      "num": 205565,
+      "word": "外卖聊天记录",
+      "onboard_time": 1705650508,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 204391,
@@ -899,20 +1011,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192945,
+      "num": 192945,
+      "word": "换乘恋爱3",
+      "onboard_time": 1705651948,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191881,
       "num": 191881,
       "word": "仙剑四",
       "onboard_time": 1705637128,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191582,
-      "num": 191582,
-      "word": "公司年假放了42天",
-      "onboard_time": 1705648768,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 191526,
@@ -977,6 +1089,14 @@
       "onboard_time": 1705598240,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186311,
+      "num": 186311,
+      "word": "结婚前要把这7个问题聊清楚",
+      "onboard_time": 1705651167,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 186138,
@@ -1083,6 +1203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167840,
+      "num": 167840,
+      "word": "易方达基金张坤十大重仓股",
+      "onboard_time": 1705650687,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 166819,
       "num": 166819,
       "word": "IVE英文新单曲",
@@ -1099,12 +1227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165930,
+      "num": 165930,
+      "word": "杨紫火星文自动回复",
+      "onboard_time": 1705652250,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165400,
       "num": 165400,
       "word": "彩礼",
       "onboard_time": 1705554572,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161538,
+      "num": 161538,
+      "word": "喉结动了 门铃响了",
+      "onboard_time": 1705651527,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 160275,
@@ -1171,6 +1315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152824,
+      "num": 152824,
+      "word": "这就是我小时候以为的世界",
+      "onboard_time": 1705651111,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152793,
       "num": 152793,
       "word": "小时候早早睡觉 现在熬夜玩手机",
@@ -1219,12 +1371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146117,
+      "num": 146117,
+      "word": "LCK宣布恢复FM",
+      "onboard_time": 1705651408,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141422,
       "num": 141422,
       "word": "祁煜啃手动情",
       "onboard_time": 1705643069,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139298,
+      "num": 139298,
+      "word": "阿改转会西安WE",
+      "onboard_time": 1705651111,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 138730,
@@ -1451,6 +1619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 114356,
+      "num": 114356,
+      "word": "网络播放量将制定统一标准",
+      "onboard_time": 1705650448,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 113753,
       "num": 113753,
       "word": "如果奔跑是我的人生",
@@ -1545,6 +1721,14 @@
       "onboard_time": 1705623269,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 104210,
+      "num": 104210,
+      "word": "贵阳红糖馒头",
+      "onboard_time": 1705649845,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 102408,
@@ -1692,7 +1876,7 @@
     },
     {
       "raw_hot": 89009,
-      "num": 229023,
+      "num": 398095,
       "word": "寻找回家的光",
       "onboard_time": 1705648947,
       "rank": 19,
@@ -1771,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60588,
+      "num": 930133,
+      "word": "这条24公里跨海通道有5项世界首创",
+      "onboard_time": 1705650207,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53819,
       "num": 474839,
       "word": "蛋仔派对消保委防沉迷合作",
@@ -1844,6 +2036,9 @@
     },
     {
       "word": "#从绿色发展中寻找发展的机遇和动力#"
+    },
+    {
+      "word": "#加快建设金融强国使命在肩#"
     }
   ]
 }
