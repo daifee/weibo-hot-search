@@ -1,0 +1,410 @@
+{
+  "runTime": 1705641443520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1655354,
+        "num": 1655354,
+        "word": "中国夫妻疑因被谷歌裁员在美身亡",
+        "onboard_time": 1705634728,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1200317,
+        "num": 1200317,
+        "word": "华中农大教师黄某某存在学术不端",
+        "onboard_time": 1705619419,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79406,
+        "num": 1034867,
+        "word": "春运期间外出如何防护",
+        "onboard_time": 1705636709,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920555,
+        "num": 920555,
+        "word": "春晚 科目三",
+        "onboard_time": 1705628670,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 900697,
+        "num": 900697,
+        "word": "瑞幸茅台再联名",
+        "onboard_time": 1705637368,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 762836,
+        "num": 762836,
+        "word": "iPhone到尔滨掉电有多快",
+        "onboard_time": 1705633826,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 746198,
+        "num": 746198,
+        "word": "九省联考",
+        "onboard_time": 1705637189,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 556018,
+        "num": 556018,
+        "word": "为什么年轻人不愿意种地",
+        "onboard_time": 1705632987,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 515199,
+        "num": 515199,
+        "word": "卢昱晓定妆照",
+        "onboard_time": 1705635028,
+        "rank": 8,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 509614,
+        "num": 509614,
+        "word": "仙剑四穿帮",
+        "onboard_time": 1705636709,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1334577,
+        "num": 505907,
+        "word": "张黎 我们举报的问题不止于此",
+        "onboard_time": 1705633407,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723419,
+        "num": 494483,
+        "word": "日本首例特定未成年人被判死刑",
+        "onboard_time": 1705640309,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 431695,
+        "num": 431695,
+        "word": "Fly官宣加入RW",
+        "onboard_time": 1705637911,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 452978,
+        "num": 430755,
+        "word": "张黎 毕业论文我写了大部分了",
+        "onboard_time": 1705633466,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65888,
+        "num": 421079,
+        "word": "花呗送特斯拉车主1000度电",
+        "onboard_time": 1705640428,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 417290,
+        "num": 417290,
+        "word": "谢娜 有好几个朋友都不会再接我电话",
+        "onboard_time": 1705629568,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402838,
+        "num": 402838,
+        "word": "云台山景区就男女妲己事件致歉",
+        "onboard_time": 1705631607,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393214,
+        "num": 393214,
+        "word": "韩国剧组虐马致死被罚",
+        "onboard_time": 1705627888,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348030,
+        "num": 348030,
+        "word": "茅台酱香巧克力",
+        "onboard_time": 1705639110,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 304906,
+        "num": 304906,
+        "word": "买酸奶时有这2个字要留个心眼",
+        "onboard_time": 1705633528,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 376466,
+        "num": 304089,
+        "word": "iPhone16或新增拍照按钮",
+        "onboard_time": 1705637788,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 361934,
+        "num": 301905,
+        "word": "杨紫范丞丞好吵",
+        "onboard_time": 1705639590,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331178,
+        "num": 299259,
+        "word": "华中农大组建导师组负责黄某某研究生培养",
+        "onboard_time": 1705622786,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295076,
+        "num": 295076,
+        "word": "种粮一年收入不如外出打工一月",
+        "onboard_time": 1705637668,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278905,
+        "num": 278905,
+        "word": "仙剑四里有江玉燕",
+        "onboard_time": 1705631067,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294559,
+        "num": 277517,
+        "word": "11名研究生否认举报教授是被威胁",
+        "onboard_time": 1705626450,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274323,
+        "num": 274323,
+        "word": "迪丽热巴弯腰不是在笑是在捡垃圾",
+        "onboard_time": 1705630409,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260254,
+        "num": 260254,
+        "word": "庞麦郎如今怎样了",
+        "onboard_time": 1705639768,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229036,
+        "num": 229036,
+        "word": "华硕 不删游戏",
+        "onboard_time": 1705638512,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164952,
+        "num": 204923,
+        "word": "身家600亿富豪给员工每人1万红包",
+        "onboard_time": 1705630348,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198005,
+        "num": 198005,
+        "word": "纸嫁衣6",
+        "onboard_time": 1705632144,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193481,
+        "num": 193481,
+        "word": "张婧仪卢昱晓撞造型了",
+        "onboard_time": 1705641208,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186648,
+        "num": 186648,
+        "word": "打铁花和看打铁花的都沉默了",
+        "onboard_time": 1705628369,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184052,
+        "num": 184052,
+        "word": "蔡依林2024巡演官宣",
+        "onboard_time": 1705635385,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168430,
+        "num": 168430,
+        "word": "电影八戒定档大年初一",
+        "onboard_time": 1705634188,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168309,
+        "num": 168309,
+        "word": "下完崽的狗子硬要给主人喂奶",
+        "onboard_time": 1705630711,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156671,
+        "num": 156671,
+        "word": "00后与大妈完成黄金交棒",
+        "onboard_time": 1705636410,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156068,
+        "num": 156068,
+        "word": "五福临门妆造",
+        "onboard_time": 1705636948,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140743,
+        "num": 140743,
+        "word": "微博上线关注天数",
+        "onboard_time": 1705640669,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146131,
+        "num": 139727,
+        "word": "五福临门5对CP",
+        "onboard_time": 1705639052,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138449,
+        "num": 138449,
+        "word": "快乐老友记今天很OK",
+        "onboard_time": 1705640490,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137108,
+        "num": 137108,
+        "word": "女子在家生产未剪脐带警车狂飙送医",
+        "onboard_time": 1705641025,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 136077,
+        "num": 136077,
+        "word": "微星",
+        "onboard_time": 1705628547,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134559,
+        "num": 134559,
+        "word": "女婴被抢15年找到后收买方已过追诉期",
+        "onboard_time": 1705628309,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130557,
+        "num": 130557,
+        "word": "妲己",
+        "onboard_time": 1705626812,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128440,
+        "num": 128440,
+        "word": "50岁以下农业从业人员仅占45.3%",
+        "onboard_time": 1705641208,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120829,
+        "num": 120829,
+        "word": "鸿蒙",
+        "onboard_time": 1705635929,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111626,
+        "num": 111626,
+        "word": "交错带",
+        "onboard_time": 1705641328,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110522,
+        "num": 110522,
+        "word": "嗑到小说里的糖了",
+        "onboard_time": 1705638929,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 102987,
+        "num": 102987,
+        "word": "狼队Fly断开连接",
+        "onboard_time": 1705623930,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#从绿色发展中寻找发展的机遇和动力#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705639001780,
+  "endTime": 1705641443520,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -707,6 +707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1334577,
+      "num": 606965,
+      "word": "张黎 我们举报的问题不止于此",
+      "onboard_time": 1705633407,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1313288,
       "num": 1313288,
       "word": "秘鲁外星人遗体是人工合成人偶",
@@ -1083,14 +1091,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1050222,
-      "num": 606965,
-      "word": "张黎 我们举报的问题不止于此",
-      "onboard_time": 1705633407,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1049177,
       "num": 978512,
       "word": "外交部发言人就台湾选举答记者问",
@@ -1425,6 +1425,14 @@
       "onboard_time": 1705243893,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 900697,
+      "num": 900697,
+      "word": "瑞幸茅台再联名",
+      "onboard_time": 1705637368,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 885836,
@@ -2011,6 +2019,14 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 723419,
+      "num": 494483,
+      "word": "日本首例特定未成年人被判死刑",
+      "onboard_time": 1705640309,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 721577,
       "num": 721577,
       "word": "仙剑四仙剑六都发了预告",
@@ -2177,14 +2193,6 @@
       "onboard_time": 1705547424,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 696689,
-      "num": 696689,
-      "word": "瑞幸茅台再联名",
-      "onboard_time": 1705637368,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 695339,
@@ -4771,6 +4779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 376466,
+      "num": 339131,
+      "word": "iPhone16或新增拍照按钮",
+      "onboard_time": 1705637788,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 376294,
       "num": 376294,
       "word": "武磊补射被扑",
@@ -4929,6 +4945,14 @@
       "onboard_time": 1705475369,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 361934,
+      "num": 301905,
+      "word": "杨紫范丞丞好吵",
+      "onboard_time": 1705639590,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 361328,
@@ -5107,6 +5131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 348030,
+      "num": 348030,
+      "word": "茅台酱香巧克力",
+      "onboard_time": 1705639110,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 347400,
       "num": 347400,
       "word": "王一博公司与乐华无直接股权关联",
@@ -5161,14 +5193,6 @@
       "onboard_time": 1705314028,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 339131,
-      "num": 339131,
-      "word": "iPhone16或新增拍照按钮",
-      "onboard_time": 1705637788,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 339050,
@@ -5811,6 +5835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295076,
+      "num": 295076,
+      "word": "种粮一年收入不如外出打工一月",
+      "onboard_time": 1705637668,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294922,
       "num": 294922,
       "word": "亚洲杯",
@@ -6105,14 +6137,6 @@
       "onboard_time": 1705403791,
       "rank": 26,
       "category": "艺人,财经"
-    },
-    {
-      "raw_hot": 282403,
-      "num": 282403,
-      "word": "种粮一年收入不如外出打工一月",
-      "onboard_time": 1705637668,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282369,
@@ -6569,6 +6593,14 @@
       "onboard_time": 1705168884,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260254,
+      "num": 260254,
+      "word": "庞麦郎如今怎样了",
+      "onboard_time": 1705639768,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 259561,
@@ -7465,6 +7497,14 @@
       "onboard_time": 1705377872,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229036,
+      "num": 229036,
+      "word": "华硕 不删游戏",
+      "onboard_time": 1705638512,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 229022,
@@ -8947,6 +8987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193481,
+      "num": 193481,
+      "word": "张婧仪卢昱晓撞造型了",
+      "onboard_time": 1705641208,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193472,
       "num": 193472,
       "word": "猪次方",
@@ -8993,14 +9041,6 @@
       "onboard_time": 1705392454,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192711,
-      "num": 192711,
-      "word": "华硕 不删游戏",
-      "onboard_time": 1705638512,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 192665,
@@ -11795,6 +11835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146131,
+      "num": 139727,
+      "word": "五福临门5对CP",
+      "onboard_time": 1705639052,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146049,
       "num": 146049,
       "word": "山西文旅不午休向河北卷王宣战",
@@ -12187,6 +12235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140743,
+      "num": 140743,
+      "word": "微博上线关注天数",
+      "onboard_time": 1705640669,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 140630,
       "num": 140630,
       "word": "雷佳音看热闹来了",
@@ -12355,6 +12411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138449,
+      "num": 138449,
+      "word": "快乐老友记今天很OK",
+      "onboard_time": 1705640490,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138369,
       "num": 138369,
       "word": "CBA全明星首发公布",
@@ -12441,6 +12505,14 @@
       "onboard_time": 1705397610,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137108,
+      "num": 137108,
+      "word": "女子在家生产未剪脐带警车狂飙送医",
+      "onboard_time": 1705641025,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 137015,
@@ -12841,6 +12913,14 @@
       "onboard_time": 1705372587,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128440,
+      "num": 128440,
+      "word": "50岁以下农业从业人员仅占45.3%",
+      "onboard_time": 1705641208,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127862,
@@ -13731,6 +13811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111626,
+      "num": 111626,
+      "word": "交错带",
+      "onboard_time": 1705641328,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 111355,
       "num": 111355,
       "word": "会长是女仆大人 大背头碓冰拓海",
@@ -13753,6 +13841,14 @@
       "onboard_time": 1705330291,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110522,
+      "num": 110522,
+      "word": "嗑到小说里的糖了",
+      "onboard_time": 1705638929,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 110302,
@@ -14121,14 +14217,6 @@
       "onboard_time": 1705246352,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 99141,
-      "num": 99141,
-      "word": "嗑到小说里的糖了",
-      "onboard_time": 1705638929,
-      "rank": 49,
-      "category": "读书作家"
     },
     {
       "raw_hot": 98814,
@@ -14729,6 +14817,14 @@
       "onboard_time": 1705274663,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65888,
+      "num": 421079,
+      "word": "花呗送特斯拉车主1000度电",
+      "onboard_time": 1705640428,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 65771,
@@ -15700,6 +15796,9 @@
     },
     {
       "word": "#统筹国内国际两个市场两种资源#"
+    },
+    {
+      "word": "#从绿色发展中寻找发展的机遇和动力#"
     }
   ]
 }

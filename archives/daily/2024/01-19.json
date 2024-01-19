@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705639001780,
+  "endTime": 1705641443520,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -43,19 +43,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1334577,
+      "num": 606965,
+      "word": "张黎 我们举报的问题不止于此",
+      "onboard_time": 1705633407,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1210903,
       "num": 1210903,
       "word": "11名研究生否认举报教授是被威胁",
       "onboard_time": 1705626450,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1050222,
-      "num": 606965,
-      "word": "张黎 我们举报的问题不止于此",
-      "onboard_time": 1705633407,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -97,6 +97,14 @@
       "onboard_time": 1705629568,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 900697,
+      "num": 900697,
+      "word": "瑞幸茅台再联名",
+      "onboard_time": 1705637368,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 850249,
@@ -147,12 +155,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 696689,
-      "num": 696689,
-      "word": "瑞幸茅台再联名",
-      "onboard_time": 1705637368,
-      "rank": 20,
-      "category": "美食"
+      "raw_hot": 723419,
+      "num": 494483,
+      "word": "日本首例特定未成年人被判死刑",
+      "onboard_time": 1705640309,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 685568,
@@ -347,12 +355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376466,
+      "num": 339131,
+      "word": "iPhone16或新增拍照按钮",
+      "onboard_time": 1705637788,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 364472,
       "num": 364472,
       "word": "蔡依林2024巡演官宣",
       "onboard_time": 1705635385,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 361934,
+      "num": 301905,
+      "word": "杨紫范丞丞好吵",
+      "onboard_time": 1705639590,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 357033,
@@ -371,20 +395,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 348030,
+      "num": 348030,
+      "word": "茅台酱香巧克力",
+      "onboard_time": 1705639110,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 340839,
       "num": 340839,
       "word": "女婴被抢15年找到后收买方已过追诉期",
       "onboard_time": 1705628309,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339131,
-      "num": 339131,
-      "word": "iPhone16或新增拍照按钮",
-      "onboard_time": 1705637788,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 316680,
@@ -424,6 +448,14 @@
       "word": "沈阳站改回沈阳站站",
       "onboard_time": 1705587510,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295076,
+      "num": 295076,
+      "word": "种粮一年收入不如外出打工一月",
+      "onboard_time": 1705637668,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -475,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282403,
-      "num": 282403,
-      "word": "种粮一年收入不如外出打工一月",
-      "onboard_time": 1705637668,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280157,
       "num": 280157,
       "word": "杨紫新剧网名",
@@ -513,6 +537,14 @@
       "onboard_time": 1705597521,
       "rank": 27,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 260254,
+      "num": 260254,
+      "word": "庞麦郎如今怎样了",
+      "onboard_time": 1705639768,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 257998,
@@ -593,6 +625,14 @@
       "onboard_time": 1705628848,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229036,
+      "num": 229036,
+      "word": "华硕 不删游戏",
+      "onboard_time": 1705638512,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 227750,
@@ -683,20 +723,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193481,
+      "num": 193481,
+      "word": "张婧仪卢昱晓撞造型了",
+      "onboard_time": 1705641208,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193261,
       "num": 200858,
       "word": "要久久爱",
       "onboard_time": 1705627768,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192711,
-      "num": 192711,
-      "word": "华硕 不删游戏",
-      "onboard_time": 1705638512,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 191881,
@@ -859,6 +899,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146131,
+      "num": 139727,
+      "word": "五福临门5对CP",
+      "onboard_time": 1705639052,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140743,
+      "num": 140743,
+      "word": "微博上线关注天数",
+      "onboard_time": 1705640669,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 138730,
       "num": 138730,
       "word": "当00后开始负责置办年货",
@@ -873,6 +929,30 @@
       "onboard_time": 1705629690,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138449,
+      "num": 138449,
+      "word": "快乐老友记今天很OK",
+      "onboard_time": 1705640490,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137108,
+      "num": 137108,
+      "word": "女子在家生产未剪脐带警车狂飙送医",
+      "onboard_time": 1705641025,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 136077,
+      "num": 136077,
+      "word": "微星",
+      "onboard_time": 1705628547,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 133940,
@@ -921,6 +1001,14 @@
       "onboard_time": 1705628248,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128440,
+      "num": 128440,
+      "word": "50岁以下农业从业人员仅占45.3%",
+      "onboard_time": 1705641208,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127844,
@@ -995,14 +1083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118497,
-      "num": 118497,
-      "word": "微星",
-      "onboard_time": 1705628547,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 117924,
       "num": 117924,
       "word": "谢娜和老舅合唱野狼disco",
@@ -1043,12 +1123,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111626,
+      "num": 111626,
+      "word": "交错带",
+      "onboard_time": 1705641328,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 111355,
       "num": 111355,
       "word": "会长是女仆大人 大背头碓冰拓海",
       "onboard_time": 1705611792,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 110522,
+      "num": 110522,
+      "word": "嗑到小说里的糖了",
+      "onboard_time": 1705638929,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 109974,
@@ -1105,14 +1201,6 @@
       "onboard_time": 1705601416,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99141,
-      "num": 99141,
-      "word": "嗑到小说里的糖了",
-      "onboard_time": 1705638929,
-      "rank": 49,
-      "category": "读书作家"
     },
     {
       "raw_hot": 97938,
@@ -1283,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65888,
+      "num": 421079,
+      "word": "花呗送特斯拉车主1000度电",
+      "onboard_time": 1705640428,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 65265,
       "num": 1383494,
       "word": "未来已来 对话副中心",
@@ -1361,6 +1457,9 @@
     },
     {
       "word": "#统筹国内国际两个市场两种资源#"
+    },
+    {
+      "word": "#从绿色发展中寻找发展的机遇和动力#"
     }
   ]
 }
