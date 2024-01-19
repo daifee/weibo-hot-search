@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705635257673,
+  "endTime": 1705638139322,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1704110681,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1872519,
+      "num": 1872519,
+      "word": "中国夫妻疑因被谷歌裁员在美身亡",
+      "onboard_time": 1705634728,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1872018,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704882093,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1355059,
-      "num": 617495,
-      "word": "日本地震已致至少48人死亡",
-      "onboard_time": 1704183034,
-      "rank": 10,
-      "category": "国外时政"
     }
   ],
   "hotgov_list": [

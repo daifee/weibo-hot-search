@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705635257673,
+  "endTime": 1705638139322,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -265,6 +265,14 @@
       "onboard_time": 1705375769,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1872519,
+      "num": 1872519,
+      "word": "中国夫妻疑因被谷歌裁员在美身亡",
+      "onboard_time": 1705634728,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1868676,
@@ -1131,6 +1139,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1015599,
+      "num": 1015599,
+      "word": "iPhone到尔滨掉电有多快",
+      "onboard_time": 1705633826,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1014196,
       "num": 1014196,
       "word": "田曦薇爱心痣",
@@ -1283,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 941916,
+      "num": 606965,
+      "word": "张黎 我们举报的问题不止于此",
+      "onboard_time": 1705633407,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 940311,
       "num": 940311,
       "word": "卡琳娜复更",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1705582110,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 927171,
+      "num": 927171,
+      "word": "为什么年轻人不愿意种地",
+      "onboard_time": 1705632987,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 924856,
@@ -1641,6 +1673,14 @@
       "onboard_time": 1705492045,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 800984,
+      "num": 800984,
+      "word": "卢昱晓定妆照",
+      "onboard_time": 1705635028,
+      "rank": 27,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 800210,
@@ -2259,14 +2299,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 673144,
-      "num": 606965,
-      "word": "张黎 我们举报的问题不止于此",
-      "onboard_time": 1705633407,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 671701,
       "num": 671701,
       "word": "原来护发素这么有用",
@@ -2723,14 +2755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 600186,
-      "num": 600186,
-      "word": "为什么年轻人不愿意种地",
-      "onboard_time": 1705632987,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 599469,
       "num": 599469,
       "word": "秀才账号被无限期回收直播权限",
@@ -2769,14 +2793,6 @@
       "onboard_time": 1705297950,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 595989,
-      "num": 595989,
-      "word": "iPhone到尔滨掉电有多快",
-      "onboard_time": 1705633826,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 595739,
@@ -3361,6 +3377,14 @@
       "onboard_time": 1705605375,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518964,
+      "num": 518964,
+      "word": "仙剑四穿帮",
+      "onboard_time": 1705636709,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 518905,
@@ -4187,6 +4211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 428672,
+      "num": 415520,
+      "word": "买酸奶时有这2个字要留个心眼",
+      "onboard_time": 1705633528,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 427359,
       "num": 1678293,
       "word": "河南肉盒已经出爱心款了",
@@ -4201,6 +4233,14 @@
       "onboard_time": 1705589129,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425868,
+      "num": 425868,
+      "word": "九省联考",
+      "onboard_time": 1705637189,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 425450,
@@ -4819,6 +4859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 368237,
+      "num": 368237,
+      "word": "瑞幸茅台再联名",
+      "onboard_time": 1705637368,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 366928,
       "num": 366928,
       "word": "国考查成绩 打不开网站",
@@ -4849,6 +4897,14 @@
       "onboard_time": 1705418493,
       "rank": 16,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 364472,
+      "num": 364472,
+      "word": "蔡依林2024巡演官宣",
+      "onboard_time": 1705635385,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 364049,
@@ -5169,14 +5225,6 @@
       "onboard_time": 1705391014,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 333298,
-      "num": 333298,
-      "word": "买酸奶时有这2个字要留个心眼",
-      "onboard_time": 1705633528,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 332953,
@@ -6043,14 +6091,6 @@
       "category": "艺人,财经"
     },
     {
-      "raw_hot": 282388,
-      "num": 282388,
-      "word": "中国夫妻疑因被谷歌裁员在美身亡",
-      "onboard_time": 1705634728,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282369,
       "num": 282369,
       "word": "朱一龙伤疤",
@@ -6763,6 +6803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249358,
+      "num": 249358,
+      "word": "五福临门妆造",
+      "onboard_time": 1705636948,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249302,
       "num": 249302,
       "word": "梅西蝉联世界足球先生",
@@ -7443,6 +7491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227750,
+      "num": 227750,
+      "word": "00后与大妈完成黄金交棒",
+      "onboard_time": 1705636410,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227478,
       "num": 227478,
       "word": "你换一次手机要多久",
@@ -7929,6 +7985,14 @@
       "onboard_time": 1705322372,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 214164,
+      "num": 218168,
+      "word": "种粮一年收入不如外出打工一月",
+      "onboard_time": 1705637668,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214039,
@@ -8491,20 +8555,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200784,
+      "num": 200784,
+      "word": "鸿蒙",
+      "onboard_time": 1705635929,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 200556,
       "num": 200556,
       "word": "孙丞潇写给金莎的信",
       "onboard_time": 1705397610,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200317,
-      "num": 200317,
-      "word": "卢昱晓定妆照",
-      "onboard_time": 1705635028,
-      "rank": 27,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 200204,
@@ -9825,6 +9889,14 @@
       "onboard_time": 1705587750,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178440,
+      "num": 178440,
+      "word": "Fly官宣加入RW",
+      "onboard_time": 1705637911,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 178408,
@@ -11771,6 +11843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 145072,
+      "num": 145072,
+      "word": "iPhone16或新增拍照按钮",
+      "onboard_time": 1705637788,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 144889,
       "num": 144889,
       "word": "林子善获TVB最佳男配角",
@@ -13691,6 +13771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109767,
+      "num": 423218,
+      "word": "新型家庭团建方式",
+      "onboard_time": 1705635929,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109711,
       "num": 109711,
       "word": "以油养肤",
@@ -13833,6 +13921,14 @@
       "onboard_time": 1705239092,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105062,
+      "num": 105062,
+      "word": "甄姬幽恒限时返场",
+      "onboard_time": 1705638093,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 104856,
@@ -14483,6 +14579,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 71894,
+      "num": 1382898,
+      "word": "春运期间外出如何防护",
+      "onboard_time": 1705636709,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71828,
       "num": 71828,
       "word": "猛龙步行者讨论交易西亚卡姆",
@@ -14985,6 +15089,14 @@
       "onboard_time": 1705256595,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 45188,
+      "num": 413293,
+      "word": "蛋仔派对消保委防沉迷合作",
+      "onboard_time": 1705636828,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 44982,
