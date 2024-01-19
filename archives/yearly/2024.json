@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705646207728,
+  "endTime": 1705648617585,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 2635298,
-      "num": 730863,
+      "num": 925512,
       "word": "于正 让来不了的人去死吧",
       "onboard_time": 1705643667,
       "rank": 3,
@@ -913,6 +913,14 @@
       "onboard_time": 1705160742,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1973163,
+      "num": 1973163,
+      "word": "专家称年轻人不生娃的思维是正确的",
+      "onboard_time": 1705644207,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1972988,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704731304,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1360274,
-      "num": 1360274,
-      "word": "尹锡悦回应李在明遇袭",
-      "onboard_time": 1704163717,
-      "rank": 3,
-      "category": "国外时政"
     }
   ],
   "hotgov_list": [

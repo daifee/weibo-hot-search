@@ -1,0 +1,402 @@
+{
+  "runTime": 1705648617585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1973163,
+        "num": 1973163,
+        "word": "专家称年轻人不生娃的思维是正确的",
+        "onboard_time": 1705644207,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120806,
+        "num": 1120806,
+        "word": "日本首例特定未成年人被判死刑",
+        "onboard_time": 1705640309,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1972850,
+        "num": 925512,
+        "word": "于正 让来不了的人去死吧",
+        "onboard_time": 1705643667,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 809527,
+        "num": 809527,
+        "word": "出成绩前大学生快把教务系统看烂了",
+        "onboard_time": 1705644867,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 602104,
+        "num": 602104,
+        "word": "张婧仪卢昱晓撞造型了",
+        "onboard_time": 1705641208,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562076,
+        "num": 562076,
+        "word": "iPhone到尔滨掉电有多快",
+        "onboard_time": 1705633826,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 529002,
+        "num": 529002,
+        "word": "华中农大教师黄某某存在学术不端",
+        "onboard_time": 1705619419,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503021,
+        "num": 503021,
+        "word": "四川乐山地震",
+        "onboard_time": 1705641869,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478499,
+        "num": 478499,
+        "word": "胡塞武装称中俄等国船只可安全通过红海",
+        "onboard_time": 1705645586,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 483343,
+        "num": 453816,
+        "word": "中国夫妻疑因被谷歌裁员在美身亡",
+        "onboard_time": 1705634728,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402302,
+        "num": 402302,
+        "word": "齐齐哈尔烤肉",
+        "onboard_time": 1705643667,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 345955,
+        "num": 345955,
+        "word": "张黎 我们举报的问题不止于此",
+        "onboard_time": 1705633407,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341940,
+        "num": 341940,
+        "word": "春晚 科目三",
+        "onboard_time": 1705628670,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331474,
+        "num": 331474,
+        "word": "杨紫冬日梅子妆",
+        "onboard_time": 1705647568,
+        "rank": 14,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 248253,
+        "num": 248253,
+        "word": "云台山景区就男女妲己事件致歉",
+        "onboard_time": 1705631607,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236378,
+        "num": 236378,
+        "word": "重庆狼队公告",
+        "onboard_time": 1705644749,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196810,
+        "num": 196810,
+        "word": "买酸奶时有这2个字要留个心眼",
+        "onboard_time": 1705633528,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193604,
+        "num": 193604,
+        "word": "韩国剧组虐马致死被罚",
+        "onboard_time": 1705627888,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278743,
+        "num": 193335,
+        "word": "杨紫范丞丞好吵",
+        "onboard_time": 1705639590,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318422,
+        "num": 188808,
+        "word": "A股整体股息率已逼近历史高位",
+        "onboard_time": 1705647386,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 288362,
+        "num": 186080,
+        "word": "女子在家生产未剪脐带警车狂飙送医",
+        "onboard_time": 1705641025,
+        "rank": 21,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 249726,
+        "num": 185738,
+        "word": "4岁小朋友存钱罐内存8万惊呆消防员",
+        "onboard_time": 1705641808,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240401,
+        "num": 182957,
+        "word": "宋茜victoria时代有多美",
+        "onboard_time": 1705643907,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180830,
+        "num": 180830,
+        "word": "谢娜 有好几个朋友都不会再接我电话",
+        "onboard_time": 1705629568,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158886,
+        "num": 158886,
+        "word": "iPhone16或新增拍照按钮",
+        "onboard_time": 1705637788,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152793,
+        "num": 152793,
+        "word": "小时候早早睡觉 现在熬夜玩手机",
+        "onboard_time": 1705648106,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151808,
+        "num": 151808,
+        "word": "为什么年轻人不愿意种地",
+        "onboard_time": 1705632987,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147029,
+        "num": 147029,
+        "word": "卢昱晓吴宣仪贴贴",
+        "onboard_time": 1705647746,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143170,
+        "num": 143170,
+        "word": "钟楚曦演技",
+        "onboard_time": 1705644807,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345190,
+        "num": 142017,
+        "word": "美甲店 杀熟",
+        "onboard_time": 1705647927,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 153607,
+        "num": 141668,
+        "word": "旅游丢狗 铃芽之旅找大臣",
+        "onboard_time": 1705647568,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140283,
+        "num": 140283,
+        "word": "张黎 毕业论文我写了大部分了",
+        "onboard_time": 1705633466,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132858,
+        "num": 132858,
+        "word": "这些水滴居然是绣出来的",
+        "onboard_time": 1705642046,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131515,
+        "num": 131515,
+        "word": "仙剑四穿帮",
+        "onboard_time": 1705636709,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134339,
+        "num": 130392,
+        "word": "华中农大组建导师组负责黄某某研究生培养",
+        "onboard_time": 1705622786,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126159,
+        "num": 126159,
+        "word": "国产剧癫妈",
+        "onboard_time": 1705648347,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122113,
+        "num": 122113,
+        "word": "迪丽热巴弯腰不是在笑是在捡垃圾",
+        "onboard_time": 1705630409,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120362,
+        "num": 120362,
+        "word": "仙剑六的还原度",
+        "onboard_time": 1705645409,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118912,
+        "num": 118912,
+        "word": "刘立宪被开除党籍",
+        "onboard_time": 1705648466,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118426,
+        "num": 118426,
+        "word": "Fly官宣加入RW",
+        "onboard_time": 1705637911,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115280,
+        "num": 115280,
+        "word": "广东又要跌破0度",
+        "onboard_time": 1705648166,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114398,
+        "num": 114398,
+        "word": "狼队官宣主教练LoveCD",
+        "onboard_time": 1705645885,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110515,
+        "num": 110515,
+        "word": "纸嫁衣6",
+        "onboard_time": 1705632144,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110339,
+        "num": 110339,
+        "word": "九省联考",
+        "onboard_time": 1705637189,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102852,
+        "num": 102852,
+        "word": "8部电影官宣2024春节档",
+        "onboard_time": 1705641747,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102408,
+        "num": 102408,
+        "word": "范丞丞戏里掉车门戏外掉衬裤",
+        "onboard_time": 1705646845,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97228,
+        "num": 97228,
+        "word": "广州队",
+        "onboard_time": 1705645766,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96678,
+        "num": 96678,
+        "word": "微博旅游之夜明星阵容官宣",
+        "onboard_time": 1705648526,
+        "rank": 48,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 96478,
+        "num": 96478,
+        "word": "星痕不走",
+        "onboard_time": 1705645288,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#从绿色发展中寻找发展的机遇和动力#"
+    }
+  }
+}
