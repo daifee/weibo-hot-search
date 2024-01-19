@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705691683377,
+  "endTime": 1705692852470,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -16699,6 +16699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61600,
+      "num": 61600,
+      "word": "萧山通报郝劭文称女儿被霸凌事件",
+      "onboard_time": 1705691114,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60696,
       "num": 60696,
       "word": "这些护肤品是来报恩的",
@@ -17187,6 +17195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 36583,
+      "num": 36583,
+      "word": "梁朝伟拒绝被叫daddy",
+      "onboard_time": 1705692616,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35140,
       "num": 172564,
       "word": "娜扎中式老钱妆",
@@ -17227,7 +17243,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 30597,
+      "raw_hot": 31931,
       "num": 30597,
       "word": "我是顾客 我是骑手",
       "onboard_time": 1705689975,
@@ -17273,14 +17289,6 @@
       "onboard_time": 1705583247,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26950,
-      "num": 26950,
-      "word": "萧山通报郝劭文称女儿被霸凌事件",
-      "onboard_time": 1705691114,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26496,
@@ -17441,6 +17449,14 @@
       "onboard_time": 1705526231,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 16362,
+      "num": 16362,
+      "word": "马树山举报两干部上周仍出席活动",
+      "onboard_time": 1705692315,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15734,

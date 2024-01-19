@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705691683377,
+  "endTime": 1705692852470,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -50595,6 +50595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 61600,
+      "num": 61600,
+      "word": "萧山通报郝劭文称女儿被霸凌事件",
+      "onboard_time": 1705691114,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61426,
       "num": 214126,
       "word": "苏翊鸣大方示爱朱易",
@@ -51899,6 +51907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 36583,
+      "num": 36583,
+      "word": "梁朝伟拒绝被叫daddy",
+      "onboard_time": 1705692616,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 36477,
       "num": 310521,
       "word": "首艘国产大邮轮开启商业首航",
@@ -52107,6 +52123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 31931,
+      "num": 30597,
+      "word": "我是顾客 我是骑手",
+      "onboard_time": 1705689975,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 31866,
       "num": 419058,
       "word": "浮生忆玲珑预捏脸",
@@ -52137,14 +52161,6 @@
       "onboard_time": 1704253291,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 30597,
-      "num": 30597,
-      "word": "我是顾客 我是骑手",
-      "onboard_time": 1705689975,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 30553,
@@ -52240,14 +52256,6 @@
       "word": "一句话送给2024年的自己",
       "onboard_time": 1703992651,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26950,
-      "num": 26950,
-      "word": "萧山通报郝劭文称女儿被霸凌事件",
-      "onboard_time": 1705691114,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -52689,6 +52697,14 @@
       "onboard_time": 1704639155,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16362,
+      "num": 16362,
+      "word": "马树山举报两干部上周仍出席活动",
+      "onboard_time": 1705692315,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16272,
