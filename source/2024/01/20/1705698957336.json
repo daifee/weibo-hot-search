@@ -1,0 +1,410 @@
+{
+  "runTime": 1705698957336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 124886,
+        "num": 124886,
+        "word": "萧山通报郝劭文称女儿被霸凌事件",
+        "onboard_time": 1705691114,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103513,
+        "num": 103513,
+        "word": "日本爆冷",
+        "onboard_time": 1705671747,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1613,
+        "num": 91806,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88938,
+        "num": 88938,
+        "word": "哈佛女孩刘亦婷成为美国普通中产",
+        "onboard_time": 1705671268,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85902,
+        "num": 85902,
+        "word": "12306回应成都至北京票价低至47元",
+        "onboard_time": 1705680388,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72480,
+        "num": 72480,
+        "word": "何同学 做了一条流水线",
+        "onboard_time": 1705669107,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 70845,
+        "num": 70845,
+        "word": "王海举报小杨哥带货假五常大米",
+        "onboard_time": 1705667007,
+        "rank": 6,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 56870,
+        "num": 56870,
+        "word": "亳州文旅把妲己请过去了",
+        "onboard_time": 1705677269,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 49758,
+        "num": 49758,
+        "word": "梁朝伟拒绝被叫daddy",
+        "onboard_time": 1705692616,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46276,
+        "num": 46276,
+        "word": "韩国人将翻拍长津湖",
+        "onboard_time": 1705668867,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42160,
+        "num": 42160,
+        "word": "不会再有第二个恋与制作人了",
+        "onboard_time": 1705676190,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33487,
+        "num": 33487,
+        "word": "王楚钦孙颖莎vs林高远王曼昱",
+        "onboard_time": 1705680148,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32943,
+        "num": 32943,
+        "word": "于正替吴宣仪澄清",
+        "onboard_time": 1705675589,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31360,
+        "num": 31360,
+        "word": "王鹤棣的店要开了",
+        "onboard_time": 1705677930,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30440,
+        "num": 30440,
+        "word": "世界之外",
+        "onboard_time": 1705673790,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26453,
+        "num": 26453,
+        "word": "虞书欣包子脸具象化",
+        "onboard_time": 1705674266,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25856,
+        "num": 25856,
+        "word": "美甲店 杀熟",
+        "onboard_time": 1705647927,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 25699,
+        "num": 25699,
+        "word": "于正 祝绪丹",
+        "onboard_time": 1705651046,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23565,
+        "num": 23565,
+        "word": "世界之外 保底",
+        "onboard_time": 1705658129,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22785,
+        "num": 22785,
+        "word": "王俊凯插兜失败",
+        "onboard_time": 1705675891,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 50959,
+        "num": 22719,
+        "word": "美国男子同时让5女怀孕还办迎婴派对",
+        "onboard_time": 1705694833,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39186,
+        "num": 22667,
+        "word": "女子发现金戒指褪色竟救自己一命",
+        "onboard_time": 1705670846,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22190,
+        "num": 22190,
+        "word": "江西公主到洛阳第一天就报警了",
+        "onboard_time": 1705667189,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21433,
+        "num": 21433,
+        "word": "东北冻梨都被山东牡丹花惊艳到了",
+        "onboard_time": 1705695972,
+        "rank": 23,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 20745,
+        "num": 20745,
+        "word": "寒假工招到真正的大学生了",
+        "onboard_time": 1705676491,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20197,
+        "num": 20197,
+        "word": "关晓彤告别王牌对王牌第八季",
+        "onboard_time": 1705660707,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18408,
+        "num": 18408,
+        "word": "10个洗澡禁忌要知道",
+        "onboard_time": 1705676190,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18226,
+        "num": 18226,
+        "word": "炎亚纶正式复出",
+        "onboard_time": 1705665445,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18004,
+        "num": 18004,
+        "word": "柳智敏 请吃饭的漂亮姐姐",
+        "onboard_time": 1705675349,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10114,
+        "num": 17757,
+        "word": "侠客岛评迁西老干部举报领导反被捕",
+        "onboard_time": 1705688895,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29927,
+        "num": 17750,
+        "word": "村民在微信群发了3句话被罚200元",
+        "onboard_time": 1705659026,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18969,
+        "num": 17677,
+        "word": "我是顾客 我是骑手",
+        "onboard_time": 1705689975,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17570,
+        "num": 17570,
+        "word": "水瓶座生日快乐",
+        "onboard_time": 1705674152,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17147,
+        "num": 17147,
+        "word": "马树山举报两干部上周仍出席活动",
+        "onboard_time": 1705692315,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16801,
+        "num": 16801,
+        "word": "封神第一部最终票房",
+        "onboard_time": 1705664129,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16219,
+        "num": 16219,
+        "word": "与恶魔有约",
+        "onboard_time": 1705670967,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16013,
+        "num": 16013,
+        "word": "张元英辣妹自拍",
+        "onboard_time": 1705681525,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15758,
+        "num": 15758,
+        "word": "迪奥男装秀",
+        "onboard_time": 1705666586,
+        "rank": 37,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 15442,
+        "num": 15442,
+        "word": "苹果头显预售",
+        "onboard_time": 1705679007,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14911,
+        "num": 14911,
+        "word": "B太 抖音公司深度探厂体验",
+        "onboard_time": 1705671030,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 14616,
+        "num": 14616,
+        "word": "22岁的蔡依林舞台",
+        "onboard_time": 1705683144,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14503,
+        "num": 14503,
+        "word": "当代大学生就业现状",
+        "onboard_time": 1705693513,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14472,
+        "num": 14472,
+        "word": "陈飞宇全英文采访",
+        "onboard_time": 1705675948,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 14292,
+        "num": 14292,
+        "word": "原神前瞻",
+        "onboard_time": 1705664906,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13785,
+        "num": 13785,
+        "word": "2023年度个人所得税扣缴手续费退付开启",
+        "onboard_time": 1705674570,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 13349,
+        "num": 13349,
+        "word": "吴宣仪 别开玩笑",
+        "onboard_time": 1705652068,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13108,
+        "num": 13108,
+        "word": "祈今朝 严于绿己",
+        "onboard_time": 1705675289,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13033,
+        "num": 13033,
+        "word": "中国最美的12个县城",
+        "onboard_time": 1705696032,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 12617,
+        "num": 12617,
+        "word": "河南文旅立flag",
+        "onboard_time": 1705697772,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 12405,
+        "num": 12405,
+        "word": "世界之外文案",
+        "onboard_time": 1705681525,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设金融强国使命在肩#"
+    }
+  }
+}
