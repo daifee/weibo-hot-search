@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705645419311,
+  "endTime": 1705646207728,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -1691,6 +1691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 810288,
+      "num": 810288,
+      "word": "四川乐山地震",
+      "onboard_time": 1705641869,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806702,
       "num": 806702,
       "word": "大麦同意退款抢林俊杰变林子祥的票",
@@ -1784,14 +1792,6 @@
       "word": "新疆1558名因雪崩滞留旅客离开景区",
       "onboard_time": 1705451127,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 791703,
-      "num": 791703,
-      "word": "四川乐山地震",
-      "onboard_time": 1705641869,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -2857,6 +2857,14 @@
       "onboard_time": 1705297950,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 595858,
+      "num": 595858,
+      "word": "专家称年轻人不生娃的思维是正确的",
+      "onboard_time": 1705644207,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 595739,
@@ -4155,14 +4163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442937,
-      "num": 226889,
-      "word": "专家称年轻人不生娃的思维是正确的",
-      "onboard_time": 1705644207,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441407,
       "num": 441407,
       "word": "金枪鱼一出生就必须不停地游",
@@ -4449,6 +4449,14 @@
       "onboard_time": 1705408111,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410556,
+      "num": 410556,
+      "word": "齐齐哈尔烤肉",
+      "onboard_time": 1705643667,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 409832,
@@ -5179,6 +5187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 348652,
+      "num": 348652,
+      "word": "重庆狼队公告",
+      "onboard_time": 1705644749,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 348030,
       "num": 348030,
       "word": "茅台酱香巧克力",
@@ -5609,6 +5625,14 @@
       "onboard_time": 1705205310,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 313523,
+      "num": 313523,
+      "word": "出成绩前大学生快把教务系统看烂了",
+      "onboard_time": 1705644867,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 313294,
@@ -6395,6 +6419,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 273161,
+      "num": 216656,
+      "word": "宋茜victoria时代有多美",
+      "onboard_time": 1705643907,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 273040,
       "num": 273040,
       "word": "KSG 久酷",
@@ -6553,14 +6585,6 @@
       "onboard_time": 1705283609,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 264150,
-      "num": 264150,
-      "word": "齐齐哈尔烤肉",
-      "onboard_time": 1705643667,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 263650,
@@ -7243,14 +7267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238546,
-      "num": 216656,
-      "word": "宋茜victoria时代有多美",
-      "onboard_time": 1705643907,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 238401,
       "num": 238401,
       "word": "魏大勋收到雷佳音送的核桃",
@@ -7553,14 +7569,6 @@
       "onboard_time": 1705210951,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229934,
-      "num": 229934,
-      "word": "重庆狼队公告",
-      "onboard_time": 1705644749,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 229552,
@@ -8915,14 +8923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196161,
-      "num": 196161,
-      "word": "出成绩前大学生快把教务系统看烂了",
-      "onboard_time": 1705644867,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 196126,
       "num": 196126,
       "word": "风骚律师 53提0中",
@@ -9267,6 +9267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 190889,
+      "num": 190889,
+      "word": "狼队官宣主教练LoveCD",
+      "onboard_time": 1705645885,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190858,
       "num": 190858,
       "word": "冻干水果是智商税吗",
@@ -9288,6 +9296,14 @@
       "word": "19层今日开播",
       "onboard_time": 1705379133,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190627,
+      "num": 190627,
+      "word": "于正说五福临门是爆款",
+      "onboard_time": 1705645465,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -9675,6 +9691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 184922,
+      "num": 184922,
+      "word": "胡塞武装称中俄等国船只可安全通过红海",
+      "onboard_time": 1705645586,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 184632,
       "num": 184632,
       "word": "字节仍在洽购饿了么",
@@ -10049,6 +10073,14 @@
       "onboard_time": 1705188020,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178924,
+      "num": 178924,
+      "word": "山东大集100元能做多少菜",
+      "onboard_time": 1705644328,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 178844,
@@ -10771,14 +10803,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 166678,
-      "num": 166678,
-      "word": "山东大集100元能做多少菜",
-      "onboard_time": 1705644328,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 166344,
       "num": 166344,
       "word": "当小猫发现一颗偷藏起来的冻干",
@@ -11275,6 +11299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158231,
+      "num": 158231,
+      "word": "星痕不走",
+      "onboard_time": 1705645288,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158013,
       "num": 158013,
       "word": "威神V直播",
@@ -11697,6 +11729,14 @@
       "onboard_time": 1705574306,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151090,
+      "num": 151090,
+      "word": "仙剑六的还原度",
+      "onboard_time": 1705645409,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 150996,
@@ -12947,14 +12987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131516,
-      "num": 131516,
-      "word": "星痕不走",
-      "onboard_time": 1705645288,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 131426,
       "num": 131426,
       "word": "新疆姑娘机场救人后默默离开",
@@ -13955,6 +13987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 112299,
+      "num": 112299,
+      "word": "广州队",
+      "onboard_time": 1705645766,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112238,
       "num": 112238,
       "word": "于适 用坚定步伐跑错方向",
@@ -14153,14 +14193,6 @@
       "onboard_time": 1705640428,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 107015,
-      "num": 107015,
-      "word": "仙剑六的还原度",
-      "onboard_time": 1705645409,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 106702,

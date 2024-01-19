@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705645419311,
+  "endTime": 1705646207728,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 810288,
+      "num": 810288,
+      "word": "四川乐山地震",
+      "onboard_time": 1705641869,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800984,
       "num": 800984,
       "word": "卢昱晓定妆照",
@@ -185,14 +193,6 @@
       "onboard_time": 1705623090,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 791703,
-      "num": 791703,
-      "word": "四川乐山地震",
-      "onboard_time": 1705641869,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 685568,
@@ -257,6 +257,14 @@
       "onboard_time": 1705589554,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 595858,
+      "num": 595858,
+      "word": "专家称年轻人不生娃的思维是正确的",
+      "onboard_time": 1705644207,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565447,
@@ -355,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 442937,
-      "num": 226889,
-      "word": "专家称年轻人不生娃的思维是正确的",
-      "onboard_time": 1705644207,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 438053,
       "num": 438053,
       "word": "草莓烧烤",
@@ -385,6 +385,14 @@
       "onboard_time": 1705584871,
       "rank": 33,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 410556,
+      "num": 410556,
+      "word": "齐齐哈尔烤肉",
+      "onboard_time": 1705643667,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 387794,
@@ -443,6 +451,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 348652,
+      "num": 348652,
+      "word": "重庆狼队公告",
+      "onboard_time": 1705644749,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 348030,
       "num": 348030,
       "word": "茅台酱香巧克力",
@@ -465,6 +481,14 @@
       "onboard_time": 1705576709,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 313523,
+      "num": 313523,
+      "word": "出成绩前大学生快把教务系统看烂了",
+      "onboard_time": 1705644867,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 312884,
@@ -579,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273161,
+      "num": 216656,
+      "word": "宋茜victoria时代有多美",
+      "onboard_time": 1705643907,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272020,
       "num": 193819,
       "word": "一个经常早醒的人要警惕4种病",
@@ -593,14 +625,6 @@
       "onboard_time": 1705597521,
       "rank": 27,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 264150,
-      "num": 264150,
-      "word": "齐齐哈尔烤肉",
-      "onboard_time": 1705643667,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 260254,
@@ -667,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238546,
-      "num": 216656,
-      "word": "宋茜victoria时代有多美",
-      "onboard_time": 1705643907,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 237296,
       "num": 206250,
       "word": "小狗吵架试图咬死对方的空气",
@@ -697,14 +713,6 @@
       "onboard_time": 1705628848,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229934,
-      "num": 229934,
-      "word": "重庆狼队公告",
-      "onboard_time": 1705644749,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 229036,
@@ -803,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196161,
-      "num": 196161,
-      "word": "出成绩前大学生快把教务系统看烂了",
-      "onboard_time": 1705644867,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 195419,
       "num": 195419,
       "word": "因板凳骨折女生称父母与其断绝关系",
@@ -849,6 +849,22 @@
       "onboard_time": 1705630106,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 190889,
+      "num": 190889,
+      "word": "狼队官宣主教练LoveCD",
+      "onboard_time": 1705645885,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 190627,
+      "num": 190627,
+      "word": "于正说五福临门是爆款",
+      "onboard_time": 1705645465,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 190247,
@@ -891,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184922,
+      "num": 184922,
+      "word": "胡塞武装称中俄等国船只可安全通过红海",
+      "onboard_time": 1705645586,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 182792,
       "num": 182792,
       "word": "茅子俊 仙剑茅血旺",
@@ -913,6 +937,14 @@
       "onboard_time": 1705633588,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178924,
+      "num": 178924,
+      "word": "山东大集100元能做多少菜",
+      "onboard_time": 1705644328,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 178347,
@@ -955,14 +987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 166678,
-      "num": 166678,
-      "word": "山东大集100元能做多少菜",
-      "onboard_time": 1705644328,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 166049,
       "num": 85296,
       "word": "马竞4比2皇马",
@@ -993,6 +1017,14 @@
       "onboard_time": 1705621645,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158231,
+      "num": 158231,
+      "word": "星痕不走",
+      "onboard_time": 1705645288,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 157335,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1705582650,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 151090,
+      "num": 151090,
+      "word": "仙剑六的还原度",
+      "onboard_time": 1705645409,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 146131,
@@ -1121,14 +1161,6 @@
       "onboard_time": 1705631369,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131516,
-      "num": 131516,
-      "word": "星痕不走",
-      "onboard_time": 1705645288,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 130429,
@@ -1291,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112299,
+      "num": 112299,
+      "word": "广州队",
+      "onboard_time": 1705645766,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111626,
       "num": 111626,
       "word": "交错带",
@@ -1337,14 +1377,6 @@
       "onboard_time": 1705640428,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 107015,
-      "num": 107015,
-      "word": "仙剑六的还原度",
-      "onboard_time": 1705645409,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 105062,
