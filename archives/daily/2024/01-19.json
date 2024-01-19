@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705662970647,
+  "endTime": 1705664054816,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -113,6 +113,14 @@
       "onboard_time": 1705657467,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1142678,
+      "num": 568789,
+      "word": "网易被曝大规模裁员",
+      "onboard_time": 1705661787,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 1111340,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 848910,
+      "num": 848910,
+      "word": "基金经理纷纷道歉",
+      "onboard_time": 1705660827,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 847314,
       "num": 847314,
       "word": "女司机心脏病发作打120后失联110找到人",
@@ -315,20 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 747526,
-      "num": 568789,
-      "word": "网易被曝大规模裁员",
-      "onboard_time": 1705661787,
-      "rank": 12,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 699010,
-      "num": 699010,
-      "word": "基金经理纷纷道歉",
-      "onboard_time": 1705660827,
-      "rank": 8,
-      "category": "财经"
+      "raw_hot": 763420,
+      "num": 763420,
+      "word": "关晓彤告别王牌对王牌第八季",
+      "onboard_time": 1705660707,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 690073,
@@ -353,14 +361,6 @@
       "onboard_time": 1705631790,
       "rank": 16,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 667819,
-      "num": 667819,
-      "word": "关晓彤告别王牌对王牌第八季",
-      "onboard_time": 1705660707,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 661384,
@@ -483,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 516027,
+      "num": 516027,
+      "word": "果郡王不知道 你李东学能不知道",
+      "onboard_time": 1705661366,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 509525,
       "num": 509525,
       "word": "胡塞武装称中俄等国船只可安全通过红海",
@@ -595,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420472,
+      "num": 420472,
+      "word": "全员加速中 猎人赶高铁上班",
+      "onboard_time": 1705662385,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418048,
       "num": 124071,
       "word": "华中农大",
@@ -705,14 +721,6 @@
       "onboard_time": 1705639110,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 347442,
-      "num": 347442,
-      "word": "果郡王不知道 你李东学能不知道",
-      "onboard_time": 1705661366,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 340839,
@@ -948,7 +956,7 @@
     },
     {
       "raw_hot": 247726,
-      "num": 193172,
+      "num": 202034,
       "word": "这样洗羽绒服真的很干净",
       "onboard_time": 1705660227,
       "rank": 30,
@@ -1001,14 +1009,6 @@
       "onboard_time": 1705657587,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238375,
-      "num": 238375,
-      "word": "全员加速中 猎人赶高铁上班",
-      "onboard_time": 1705662385,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 237296,
@@ -1267,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202052,
+      "num": 202052,
+      "word": "央广网评华中农大教授黄某某学术不端",
+      "onboard_time": 1705662385,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201381,
       "num": 201381,
       "word": "IU先行曲",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1705654049,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188278,
+      "num": 188278,
+      "word": "王俊凯巴黎时装周预告",
+      "onboard_time": 1705663707,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 186918,
@@ -1627,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159437,
+      "num": 159437,
+      "word": "年味从买年货开始",
+      "onboard_time": 1705663166,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159045,
       "num": 159045,
       "word": "猫咪洗澡居然可以这么乖",
@@ -1761,14 +1785,6 @@
       "onboard_time": 1705651408,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 144340,
-      "num": 201666,
-      "word": "央广网评华中农大教授黄某某学术不端",
-      "onboard_time": 1705662385,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142397,
@@ -1913,6 +1929,14 @@
       "onboard_time": 1705628248,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127903,
+      "num": 127903,
+      "word": "不要试图去理解一只小猫咪",
+      "onboard_time": 1705663587,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 127844,
