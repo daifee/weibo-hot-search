@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705641443520,
+  "endTime": 1705642458783,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1787,6 +1787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1510533,
+      "num": 1510533,
+      "word": "日本首例特定未成年人被判死刑",
+      "onboard_time": 1705640309,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1510371,
       "num": 1565338,
       "word": "全球新冠病例加速蔓延",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704496337,
       "rank": 13,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 1356185,
-      "num": 1356185,
-      "word": "易烊千玺赵今麦 白夜行",
-      "onboard_time": 1704882093,
-      "rank": 5,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

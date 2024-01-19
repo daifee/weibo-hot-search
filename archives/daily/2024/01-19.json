@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705641443520,
+  "endTime": 1705642458783,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -33,6 +33,14 @@
       "onboard_time": 1705628670,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1510533,
+      "num": 1510533,
+      "word": "日本首例特定未成年人被判死刑",
+      "onboard_time": 1705640309,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1485766,
@@ -153,14 +161,6 @@
       "onboard_time": 1705623090,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 723419,
-      "num": 494483,
-      "word": "日本首例特定未成年人被判死刑",
-      "onboard_time": 1705640309,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 685568,
@@ -347,6 +347,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 417043,
+      "num": 409085,
+      "word": "张婧仪卢昱晓撞造型了",
+      "onboard_time": 1705641208,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387794,
       "num": 387794,
       "word": "铁头被禁言",
@@ -355,8 +363,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383318,
+      "num": 383318,
+      "word": "杨紫范丞丞好吵",
+      "onboard_time": 1705639590,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376466,
-      "num": 339131,
+      "num": 343458,
       "word": "iPhone16或新增拍照按钮",
       "onboard_time": 1705637788,
       "rank": 40,
@@ -371,12 +387,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 361934,
-      "num": 301905,
-      "word": "杨紫范丞丞好吵",
-      "onboard_time": 1705639590,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 364227,
+      "num": 364227,
+      "word": "女子在家生产未剪脐带警车狂飙送医",
+      "onboard_time": 1705641025,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 357033,
@@ -408,6 +424,14 @@
       "word": "女婴被抢15年找到后收买方已过追诉期",
       "onboard_time": 1705628309,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317162,
+      "num": 317162,
+      "word": "四川乐山地震",
+      "onboard_time": 1705641869,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -513,6 +537,14 @@
       "onboard_time": 1705589129,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276110,
+      "num": 276110,
+      "word": "Fly 彭云飞不踩刹车键",
+      "onboard_time": 1705641987,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 275358,
@@ -651,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225968,
+      "num": 225968,
+      "word": "4岁小朋友存钱罐内存8万惊呆消防员",
+      "onboard_time": 1705641808,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220529,
       "num": 200289,
       "word": "一升瓶装水中竟有24万个塑料颗粒",
@@ -723,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193481,
-      "num": 193481,
-      "word": "张婧仪卢昱晓撞造型了",
-      "onboard_time": 1705641208,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193261,
       "num": 200858,
       "word": "要久久爱",
@@ -769,6 +801,14 @@
       "onboard_time": 1705575448,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187784,
+      "num": 187784,
+      "word": "这些水滴居然是绣出来的",
+      "onboard_time": 1705642046,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186770,
@@ -824,6 +864,14 @@
       "word": "7岁北京小妞连夜打高铁捅戏窝子",
       "onboard_time": 1705611073,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177029,
+      "num": 177029,
+      "word": "50岁以下农业从业人员仅占45.3%",
+      "onboard_time": 1705641208,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -891,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151825,
+      "num": 151825,
+      "word": "微博上线关注天数",
+      "onboard_time": 1705640669,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 151719,
       "num": 1163482,
       "word": "太空发快递可以当日达了",
@@ -899,20 +955,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 150433,
+      "num": 150433,
+      "word": "8部电影官宣2024春节档",
+      "onboard_time": 1705641747,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146131,
       "num": 139727,
       "word": "五福临门5对CP",
       "onboard_time": 1705639052,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140743,
-      "num": 140743,
-      "word": "微博上线关注天数",
-      "onboard_time": 1705640669,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 138730,
@@ -937,14 +993,6 @@
       "onboard_time": 1705640490,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137108,
-      "num": 137108,
-      "word": "女子在家生产未剪脐带警车狂飙送医",
-      "onboard_time": 1705641025,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 136077,
@@ -1001,14 +1049,6 @@
       "onboard_time": 1705628248,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128440,
-      "num": 128440,
-      "word": "50岁以下农业从业人员仅占45.3%",
-      "onboard_time": 1705641208,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127844,
@@ -1161,6 +1201,14 @@
       "onboard_time": 1705635929,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107047,
+      "num": 421079,
+      "word": "花呗送特斯拉车主1000度电",
+      "onboard_time": 1705640428,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 105062,
@@ -1369,14 +1417,6 @@
       "onboard_time": 1705585352,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 65888,
-      "num": 421079,
-      "word": "花呗送特斯拉车主1000度电",
-      "onboard_time": 1705640428,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 65265,
