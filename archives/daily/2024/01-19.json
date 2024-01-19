@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705642458783,
+  "endTime": 1705645419311,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -9,6 +9,14 @@
       "onboard_time": 1705619419,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2635298,
+      "num": 730863,
+      "word": "于正 让来不了的人去死吧",
+      "onboard_time": 1705643667,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2181146,
@@ -27,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1941098,
+      "num": 1941098,
+      "word": "日本首例特定未成年人被判死刑",
+      "onboard_time": 1705640309,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1862921,
       "num": 1862921,
       "word": "春晚 科目三",
       "onboard_time": 1705628670,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1510533,
-      "num": 1510533,
-      "word": "日本首例特定未成年人被判死刑",
-      "onboard_time": 1705640309,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1485766,
@@ -65,6 +73,14 @@
       "onboard_time": 1705626450,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1075726,
+      "num": 364227,
+      "word": "女子在家生产未剪脐带警车狂飙送医",
+      "onboard_time": 1705641025,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 1015599,
@@ -105,6 +121,14 @@
       "onboard_time": 1705629568,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 905584,
+      "num": 730505,
+      "word": "张婧仪卢昱晓撞造型了",
+      "onboard_time": 1705641208,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 900697,
@@ -161,6 +185,14 @@
       "onboard_time": 1705623090,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 791703,
+      "num": 791703,
+      "word": "四川乐山地震",
+      "onboard_time": 1705641869,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 685568,
@@ -323,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442937,
+      "num": 226889,
+      "word": "专家称年轻人不生娃的思维是正确的",
+      "onboard_time": 1705644207,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438053,
       "num": 438053,
       "word": "草莓烧烤",
@@ -347,14 +387,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 417043,
-      "num": 409085,
-      "word": "张婧仪卢昱晓撞造型了",
-      "onboard_time": 1705641208,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 387794,
       "num": 387794,
       "word": "铁头被禁言",
@@ -371,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381635,
+      "num": 225968,
+      "word": "4岁小朋友存钱罐内存8万惊呆消防员",
+      "onboard_time": 1705641808,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376466,
       "num": 343458,
       "word": "iPhone16或新增拍照按钮",
@@ -385,14 +425,6 @@
       "onboard_time": 1705635385,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 364227,
-      "num": 364227,
-      "word": "女子在家生产未剪脐带警车狂飙送医",
-      "onboard_time": 1705641025,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 357033,
@@ -424,14 +456,6 @@
       "word": "女婴被抢15年找到后收买方已过追诉期",
       "onboard_time": 1705628309,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317162,
-      "num": 317162,
-      "word": "四川乐山地震",
-      "onboard_time": 1705641869,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -571,6 +595,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 264150,
+      "num": 264150,
+      "word": "齐齐哈尔烤肉",
+      "onboard_time": 1705643667,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 260254,
       "num": 260254,
       "word": "庞麦郎如今怎样了",
@@ -635,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238546,
+      "num": 216656,
+      "word": "宋茜victoria时代有多美",
+      "onboard_time": 1705643907,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237296,
       "num": 206250,
       "word": "小狗吵架试图咬死对方的空气",
@@ -659,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229934,
+      "num": 229934,
+      "word": "重庆狼队公告",
+      "onboard_time": 1705644749,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 229036,
       "num": 229036,
       "word": "华硕 不删游戏",
@@ -681,14 +729,6 @@
       "onboard_time": 1705620863,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 225968,
-      "num": 225968,
-      "word": "4岁小朋友存钱罐内存8万惊呆消防员",
-      "onboard_time": 1705641808,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220529,
@@ -755,6 +795,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 196981,
+      "num": 196981,
+      "word": "钟楚曦演技",
+      "onboard_time": 1705644807,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196161,
+      "num": 196161,
+      "word": "出成绩前大学生快把教务系统看烂了",
+      "onboard_time": 1705644867,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195419,
       "num": 195419,
       "word": "因板凳骨折女生称父母与其断绝关系",
@@ -795,6 +851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 190247,
+      "num": 190247,
+      "word": "这些水滴居然是绣出来的",
+      "onboard_time": 1705642046,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190231,
       "num": 190231,
       "word": "恋与深空",
@@ -803,12 +867,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187784,
-      "num": 187784,
-      "word": "这些水滴居然是绣出来的",
-      "onboard_time": 1705642046,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 186918,
+      "num": 186918,
+      "word": "肖战名誉维权案件进展",
+      "onboard_time": 1705644090,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 186770,
@@ -875,12 +939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174071,
+      "num": 174071,
+      "word": "8部电影官宣2024春节档",
+      "onboard_time": 1705641747,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166819,
       "num": 166819,
       "word": "IVE英文新单曲",
       "onboard_time": 1705625669,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166678,
+      "num": 166678,
+      "word": "山东大集100元能做多少菜",
+      "onboard_time": 1705644328,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 166049,
@@ -923,6 +1003,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 156376,
+      "num": 156376,
+      "word": "苹果躺赚时代渐行渐远",
+      "onboard_time": 1705644506,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 156022,
       "num": 156022,
       "word": "祁煜建模",
@@ -955,20 +1043,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 150433,
-      "num": 150433,
-      "word": "8部电影官宣2024春节档",
-      "onboard_time": 1705641747,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 146131,
       "num": 139727,
       "word": "五福临门5对CP",
       "onboard_time": 1705639052,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141422,
+      "num": 141422,
+      "word": "祁煜啃手动情",
+      "onboard_time": 1705643069,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 138730,
@@ -1019,12 +1107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133191,
+      "num": 133191,
+      "word": "回家后奶奶给我安排的电脑桌",
+      "onboard_time": 1705644990,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131774,
       "num": 131774,
       "word": "为何学术不端屡禁不止",
       "onboard_time": 1705631369,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131516,
+      "num": 131516,
+      "word": "星痕不走",
+      "onboard_time": 1705645288,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 130429,
@@ -1123,12 +1227,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118070,
+      "num": 118070,
+      "word": "过冷水受到碰撞时会立刻凝固",
+      "onboard_time": 1705644207,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 117924,
       "num": 117924,
       "word": "谢娜和老舅合唱野狼disco",
       "onboard_time": 1705592908,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117445,
+      "num": 117445,
+      "word": "Fly坚定回归赛场决心",
+      "onboard_time": 1705643907,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 116744,
@@ -1153,6 +1273,14 @@
       "onboard_time": 1705591230,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114465,
+      "num": 114465,
+      "word": "九省联考语文",
+      "onboard_time": 1705645168,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 113753,
@@ -1209,6 +1337,14 @@
       "onboard_time": 1705640428,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 107015,
+      "num": 107015,
+      "word": "仙剑六的还原度",
+      "onboard_time": 1705645409,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 105062,

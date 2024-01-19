@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/19 13:34:18
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/19 14:23:39
 </p>
 </blockquote>
 <p>
@@ -359,6 +359,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%87%80%E8%B5%84%E4%BA%A7600%E4%BA%BF%23" target="weibo">
 章泽天净资产600亿（热度：2674649）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%20%E8%AE%A9%E6%9D%A5%E4%B8%8D%E4%BA%86%E7%9A%84%E4%BA%BA%E5%8E%BB%E6%AD%BB%E5%90%A7%23" target="weibo">
+于正 让来不了的人去死吧（热度：2635298）
 </a>
 </li>
 
@@ -725,6 +731,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%2311%E5%90%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A7%B0%E8%8A%B1%E4%B8%80%E4%B8%AA%E6%9C%88%E5%86%99125%E9%A1%B5%E4%B8%BE%E6%8A%A5%E4%BF%A1%23" target="weibo">
 11名研究生称花一个月写125页举报信（热度：1951960）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A6%96%E4%BE%8B%E7%89%B9%E5%AE%9A%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23" target="weibo">
+日本首例特定未成年人被判死刑（热度：1941098）
 </a>
 </li>
 
@@ -1349,12 +1361,6 @@ A先生跳海（热度：1721660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B3%BD%20%E4%B8%80%E4%B8%AA%E4%BA%BF%23" target="weibo">
 陈泽 一个亿（热度：1513830）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A6%96%E4%BE%8B%E7%89%B9%E5%AE%9A%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23" target="weibo">
-日本首例特定未成年人被判死刑（热度：1510533）
 </a>
 </li>
 
@@ -2829,6 +2835,12 @@ A先生李李恋情（热度：1095743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%AE%B6%E7%94%9F%E4%BA%A7%E6%9C%AA%E5%89%AA%E8%84%90%E5%B8%A6%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%99%E9%80%81%E5%8C%BB%23" target="weibo">
+女子在家生产未剪脐带警车狂飙送医（热度：1075726）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E7%A6%8F%E5%BD%A9%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%8F%90%E5%89%8D%E6%92%AD%E6%8A%A5%E4%B8%AD%E5%A5%96%E7%90%83%E5%8F%B7%23" target="weibo">
 网曝福彩主持人提前播报中奖球号（热度：1075499）
 </a>
@@ -3767,6 +3779,12 @@ IU染粉发（热度：920521）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%8B%20%E9%9B%AA%E7%90%B4%E8%A1%A8%E6%83%85%23" target="weibo">
 宋茜王鹤棣最后一下 雪琴表情（热度：909949）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%8D%A2%E6%98%B1%E6%99%93%E6%92%9E%E9%80%A0%E5%9E%8B%E4%BA%86%23" target="weibo">
+张婧仪卢昱晓撞造型了（热度：905584）
 </a>
 </li>
 
@@ -4727,6 +4745,12 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%87%8C%E5%87%BA%E7%8E%B0%E4%BA%8618%E5%B2%81%E7%9A%84%E9%A9%AC%E4%BC%8A%E7%90%8D%23" target="weibo">
 繁花里出现了18岁的马伊琍（热度：792914）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B9%90%E5%B1%B1%E5%9C%B0%E9%9C%87%23" target="weibo">
+四川乐山地震（热度：791703）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ GAI 五年后再给王鹤棣续SVIP（热度：690915）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%E9%BE%99%E5%B9%B4%E5%86%B2%E9%94%8B%E8%A1%A3%E7%82%92%E5%88%B012000%E5%85%83%23" target="weibo">
 始祖鸟龙年冲锋衣炒到12000元（热度：689576）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E7%BB%99%E4%BD%A0%E4%BB%AC%E7%9C%8B%E6%88%91%E5%A7%90%E5%8F%AF%E7%88%B1%E5%90%97%23" target="weibo">
-张小斐 给你们看我姐可爱吗（热度：688914）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B9%90%E5%90%9B6%E5%B9%B4%E5%89%8D%E6%9B%BE%E5%8F%91%E5%A3%B0%E5%8F%8D%E8%92%8B%E5%8A%B2%E5%A4%AB%E5%AE%B6%E6%9A%B4%23" target="weibo">
-王乐君6年前曾发声反蒋劲夫家暴（热度：687725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%89%B9%20%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E7%90%83%E5%BE%88%E6%A8%A1%E7%B3%8A%23" target="weibo">
-马特 王楚钦发球很模糊（热度：687255）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E5%83%8F%E5%89%A7%E9%A1%B6%E9%85%8D%23" target="weibo">
-偶像剧顶配（热度：686888）
 </a>
 </li>
 
