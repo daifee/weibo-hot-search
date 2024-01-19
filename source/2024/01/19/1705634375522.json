@@ -1,0 +1,410 @@
+{
+  "runTime": 1705634375522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2502648,
+        "num": 2502648,
+        "word": "华中农大教师黄某某存在学术不端",
+        "onboard_time": 1705619419,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1634041,
+        "num": 1634041,
+        "word": "春晚 科目三",
+        "onboard_time": 1705628670,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54320,
+        "num": 1111533,
+        "word": "未来已来 对话副中心",
+        "onboard_time": 1705629867,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966935,
+        "num": 966935,
+        "word": "11名研究生否认举报教授是被威胁",
+        "onboard_time": 1705626450,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671200,
+        "num": 671200,
+        "word": "朝鲜称测试水下核武器系统",
+        "onboard_time": 1705631790,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 659578,
+        "num": 659578,
+        "word": "身家600亿富豪给员工每人1万红包",
+        "onboard_time": 1705630348,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630179,
+        "num": 630179,
+        "word": "华中农大组建导师组负责黄某某研究生培养",
+        "onboard_time": 1705622786,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608750,
+        "num": 608750,
+        "word": "谢娜 有好几个朋友都不会再接我电话",
+        "onboard_time": 1705629568,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593102,
+        "num": 593102,
+        "word": "迪丽热巴弯腰不是在笑是在捡垃圾",
+        "onboard_time": 1705630409,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516971,
+        "num": 516971,
+        "word": "纸嫁衣6",
+        "onboard_time": 1705632144,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 776906,
+        "num": 512034,
+        "word": "云台山景区就男女妲己事件致歉",
+        "onboard_time": 1705631607,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472571,
+        "num": 472571,
+        "word": "韩国剧组虐马致死被罚",
+        "onboard_time": 1705627888,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465209,
+        "num": 465209,
+        "word": "打铁花和看打铁花的都沉默了",
+        "onboard_time": 1705628369,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 461291,
+        "num": 461291,
+        "word": "仙剑四里有江玉燕",
+        "onboard_time": 1705631067,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443384,
+        "num": 443384,
+        "word": "五福临门开机",
+        "onboard_time": 1705633109,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381942,
+        "num": 381942,
+        "word": "铁头被禁言",
+        "onboard_time": 1705632029,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366249,
+        "num": 366249,
+        "word": "为什么年轻人不愿意种地",
+        "onboard_time": 1705632987,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350050,
+        "num": 350050,
+        "word": "哈利伯顿全明星邀约王鹤棣",
+        "onboard_time": 1705632748,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 327043,
+        "num": 327043,
+        "word": "买酸奶时有这2个字要留个心眼",
+        "onboard_time": 1705633528,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 326573,
+        "num": 326573,
+        "word": "女婴被抢15年找到后收买方已过追诉期",
+        "onboard_time": 1705628309,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359591,
+        "num": 308754,
+        "word": "张黎 学生威胁学生是我听过最大笑话",
+        "onboard_time": 1705589851,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264510,
+        "num": 264510,
+        "word": "下完崽的狗子硬要给主人喂奶",
+        "onboard_time": 1705630711,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237076,
+        "num": 237076,
+        "word": "iPhone到尔滨掉电有多快",
+        "onboard_time": 1705633826,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 232874,
+        "num": 232874,
+        "word": "电影八戒定档大年初一",
+        "onboard_time": 1705634188,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219713,
+        "num": 219713,
+        "word": "王一博出发澳门",
+        "onboard_time": 1705630590,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210312,
+        "num": 210312,
+        "word": "女司机心脏病发作打120后失联110找到人",
+        "onboard_time": 1705620982,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205438,
+        "num": 205438,
+        "word": "妲己",
+        "onboard_time": 1705626812,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191125,
+        "num": 191125,
+        "word": "公厕不要对着坑的洞洞拉",
+        "onboard_time": 1705589554,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190929,
+        "num": 190929,
+        "word": "苹果员工买头显可享75折",
+        "onboard_time": 1705630106,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109974,
+        "num": 186736,
+        "word": "怎么挑好年货",
+        "onboard_time": 1705633109,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594411,
+        "num": 185312,
+        "word": "张黎 毕业论文我写了大部分了",
+        "onboard_time": 1705633466,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182792,
+        "num": 182792,
+        "word": "茅子俊 仙剑茅血旺",
+        "onboard_time": 1705631967,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179134,
+        "num": 179134,
+        "word": "曼城罪名坐实将被罚降级",
+        "onboard_time": 1705633588,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356821,
+        "num": 168439,
+        "word": "张黎 我们举报的问题不止于此",
+        "onboard_time": 1705633407,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151880,
+        "num": 151880,
+        "word": "他不敢用力是看戒指嵌肉里怕你疼",
+        "onboard_time": 1705605375,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150090,
+        "num": 150090,
+        "word": "被抽走板凳骨折女生已自愿退学",
+        "onboard_time": 1705583969,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143994,
+        "num": 143994,
+        "word": "狼队Fly断开连接",
+        "onboard_time": 1705623930,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169714,
+        "num": 142636,
+        "word": "黄飞若",
+        "onboard_time": 1705623090,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 139193,
+        "num": 139193,
+        "word": "高三艺考生292分拿下省状元",
+        "onboard_time": 1705618878,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138562,
+        "num": 138562,
+        "word": "过去一年周冬雨的院线遭遇",
+        "onboard_time": 1705627405,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126471,
+        "num": 126471,
+        "word": "金莎 控梦",
+        "onboard_time": 1705624469,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118497,
+        "num": 118497,
+        "word": "微星",
+        "onboard_time": 1705628547,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121732,
+        "num": 118280,
+        "word": "华中农大教师黄某某被停职",
+        "onboard_time": 1705619481,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115406,
+        "num": 115406,
+        "word": "陈朗写的悼文",
+        "onboard_time": 1705632685,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 113902,
+        "num": 113902,
+        "word": "要久久爱",
+        "onboard_time": 1705627768,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105513,
+        "num": 105513,
+        "word": "云台山男妲己回应争议",
+        "onboard_time": 1705628848,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100423,
+        "num": 100423,
+        "word": "原来公交车是这样换皮肤的",
+        "onboard_time": 1705620863,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99470,
+        "num": 99470,
+        "word": "gidle回归预告",
+        "onboard_time": 1705629690,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93323,
+        "num": 93323,
+        "word": "帆帆 每次分别都是新的开始",
+        "onboard_time": 1705634308,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95892,
+        "num": 93322,
+        "word": "记者对话举报华中农大教授当事人",
+        "onboard_time": 1705627768,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#统筹国内国际两个市场两种资源#"
+    }
+  }
+}
