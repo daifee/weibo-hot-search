@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705668563096,
+  "endTime": 1705670488508,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1355,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1729340,
+      "num": 1729340,
+      "word": "王海举报小杨哥带货假五常大米",
+      "onboard_time": 1705667007,
+      "rank": 8,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 1728461,
       "num": 548163,
       "word": "壶鱼辣椒 抄袭",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704885754,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1364753,
-      "num": 1364753,
-      "word": "杨幂 这是我穿过最美的裙子",
-      "onboard_time": 1705147607,
-      "rank": 16,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
