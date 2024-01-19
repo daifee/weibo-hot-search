@@ -1,0 +1,410 @@
+{
+  "runTime": 1705706178959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 511329,
+        "num": 511329,
+        "word": "萧山通报郝劭文称女儿被霸凌事件",
+        "onboard_time": 1705691114,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379475,
+        "num": 379475,
+        "word": "日本爆冷",
+        "onboard_time": 1705671747,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3766,
+        "num": 375261,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372955,
+        "num": 372955,
+        "word": "哈佛女孩刘亦婷成为美国普通中产",
+        "onboard_time": 1705671268,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338175,
+        "num": 338175,
+        "word": "12306回应成都至北京票价低至47元",
+        "onboard_time": 1705680388,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241775,
+        "num": 241775,
+        "word": "王海举报小杨哥带货假五常大米",
+        "onboard_time": 1705667007,
+        "rank": 5,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 238071,
+        "num": 238071,
+        "word": "何同学 做了一条流水线",
+        "onboard_time": 1705669107,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 209422,
+        "num": 209422,
+        "word": "亳州文旅把妲己请过去了",
+        "onboard_time": 1705677269,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 177524,
+        "num": 177524,
+        "word": "东北冻梨都被山东牡丹花惊艳到了",
+        "onboard_time": 1705695972,
+        "rank": 8,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 154995,
+        "num": 154995,
+        "word": "梁朝伟拒绝被叫daddy",
+        "onboard_time": 1705692616,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124400,
+        "num": 124400,
+        "word": "王鹤棣的店要开了",
+        "onboard_time": 1705677930,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106555,
+        "num": 106555,
+        "word": "于正替吴宣仪澄清",
+        "onboard_time": 1705675589,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101487,
+        "num": 101487,
+        "word": "韩国人将翻拍长津湖",
+        "onboard_time": 1705668867,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97000,
+        "num": 97000,
+        "word": "江西公主到洛阳第一天就报警了",
+        "onboard_time": 1705667189,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87465,
+        "num": 87465,
+        "word": "陈哲远骨相",
+        "onboard_time": 1705704316,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86661,
+        "num": 86661,
+        "word": "不会再有第二个恋与制作人了",
+        "onboard_time": 1705676190,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79170,
+        "num": 79170,
+        "word": "王俊凯插兜失败",
+        "onboard_time": 1705675891,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 75828,
+        "num": 75828,
+        "word": "王楚钦孙颖莎vs林高远王曼昱",
+        "onboard_time": 1705680148,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66844,
+        "num": 66844,
+        "word": "于正 祝绪丹",
+        "onboard_time": 1705651046,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63207,
+        "num": 63207,
+        "word": "10个洗澡禁忌要知道",
+        "onboard_time": 1705676190,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148197,
+        "num": 62777,
+        "word": "美国男子同时让5女怀孕还办迎婴派对",
+        "onboard_time": 1705694833,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125813,
+        "num": 60578,
+        "word": "女子发现金戒指褪色竟救自己一命",
+        "onboard_time": 1705670846,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81977,
+        "num": 59769,
+        "word": "大寒",
+        "onboard_time": 1705706057,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57472,
+        "num": 57472,
+        "word": "关晓彤告别王牌对王牌第八季",
+        "onboard_time": 1705660707,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56731,
+        "num": 56731,
+        "word": "寒假工招到真正的大学生了",
+        "onboard_time": 1705676491,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56218,
+        "num": 56218,
+        "word": "虞书欣包子脸具象化",
+        "onboard_time": 1705674266,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51349,
+        "num": 51349,
+        "word": "第一批滑雪的人已经滑不起雪了",
+        "onboard_time": 1705705336,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 51131,
+        "num": 51131,
+        "word": "封神第一部最终票房",
+        "onboard_time": 1705664129,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51053,
+        "num": 51053,
+        "word": "尔滨有一片橘子味的钻石海",
+        "onboard_time": 1705706057,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 47170,
+        "num": 47170,
+        "word": "与恶魔有约",
+        "onboard_time": 1705670967,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91683,
+        "num": 46677,
+        "word": "村民在微信群发了3句话被罚200元",
+        "onboard_time": 1705659026,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45976,
+        "num": 45976,
+        "word": "美甲店 杀熟",
+        "onboard_time": 1705647927,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 45484,
+        "num": 45484,
+        "word": "2023年度个人所得税扣缴手续费退付开启",
+        "onboard_time": 1705674570,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 41149,
+        "num": 41149,
+        "word": "22岁的蔡依林舞台",
+        "onboard_time": 1705683144,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40399,
+        "num": 40399,
+        "word": "炎亚纶正式复出",
+        "onboard_time": 1705665445,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36441,
+        "num": 36441,
+        "word": "我是顾客 我是骑手",
+        "onboard_time": 1705689975,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35840,
+        "num": 35840,
+        "word": "B太 抖音公司深度探厂体验",
+        "onboard_time": 1705671030,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 35168,
+        "num": 35168,
+        "word": "宝妈给娃辅导作业气到心裂",
+        "onboard_time": 1705705397,
+        "rank": 37,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 32940,
+        "num": 32940,
+        "word": "猫咪在主人床上生宝宝",
+        "onboard_time": 1705664547,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32035,
+        "num": 32035,
+        "word": "还有三周就过年了",
+        "onboard_time": 1705706057,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24185,
+        "num": 32014,
+        "word": "侠客岛评迁西老干部举报领导反被捕",
+        "onboard_time": 1705688895,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32010,
+        "num": 32010,
+        "word": "迪奥男装秀",
+        "onboard_time": 1705666586,
+        "rank": 41,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 31409,
+        "num": 31409,
+        "word": "世界之外",
+        "onboard_time": 1705673790,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31279,
+        "num": 31279,
+        "word": "陈飞宇全英文采访",
+        "onboard_time": 1705675948,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 30973,
+        "num": 30973,
+        "word": "马树山举报两干部上周仍出席活动",
+        "onboard_time": 1705692315,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30779,
+        "num": 30779,
+        "word": "水瓶座生日快乐",
+        "onboard_time": 1705674152,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28294,
+        "num": 30778,
+        "word": "柳智敏 请吃饭的漂亮姐姐",
+        "onboard_time": 1705675349,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27808,
+        "num": 30777,
+        "word": "祈今朝 严于绿己",
+        "onboard_time": 1705675289,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27416,
+        "num": 30773,
+        "word": "张元英辣妹自拍",
+        "onboard_time": 1705681525,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26331,
+        "num": 30772,
+        "word": "吴宣仪 别开玩笑",
+        "onboard_time": 1705652068,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设金融强国使命在肩#"
+    }
+  }
+}
