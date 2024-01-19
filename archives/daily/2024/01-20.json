@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705689375068,
+  "endTime": 1705691683377,
   "band_list": [
     {
       "raw_hot": 1321832,
@@ -443,7 +443,23 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 9846,
+      "raw_hot": 30597,
+      "num": 30597,
+      "word": "我是顾客 我是骑手",
+      "onboard_time": 1705689975,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 26950,
+      "num": 26950,
+      "word": "萧山通报郝劭文称女儿被霸凌事件",
+      "onboard_time": 1705691114,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13321,
       "num": 41875,
       "word": "侠客岛评迁西老干部举报领导反被捕",
       "onboard_time": 1705688895,

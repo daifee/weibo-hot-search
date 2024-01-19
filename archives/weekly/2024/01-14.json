@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705689375068,
+  "endTime": 1705691683377,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -17227,6 +17227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30597,
+      "num": 30597,
+      "word": "我是顾客 我是骑手",
+      "onboard_time": 1705689975,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30203,
       "num": 32427,
       "word": "沈腾 范丞丞学得好才是师徒",
@@ -17265,6 +17273,14 @@
       "onboard_time": 1705583247,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26950,
+      "num": 26950,
+      "word": "萧山通报郝劭文称女儿被霸凌事件",
+      "onboard_time": 1705691114,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26496,
@@ -17507,6 +17523,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 13321,
+      "num": 41875,
+      "word": "侠客岛评迁西老干部举报领导反被捕",
+      "onboard_time": 1705688895,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13286,
       "num": 13286,
       "word": "IU新单曲预告",
@@ -17561,14 +17585,6 @@
       "onboard_time": 1705264453,
       "rank": 49,
       "category": "社会正能量,旅游"
-    },
-    {
-      "raw_hot": 9846,
-      "num": 41875,
-      "word": "侠客岛评迁西老干部举报领导反被捕",
-      "onboard_time": 1705688895,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9177,
