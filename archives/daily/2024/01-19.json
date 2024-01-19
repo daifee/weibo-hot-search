@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705670488508,
+  "endTime": 1705671241844,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1839051,
+      "num": 1839051,
+      "word": "王海举报小杨哥带货假五常大米",
+      "onboard_time": 1705667007,
+      "rank": 8,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 1760172,
       "num": 1760172,
       "word": "校方不认定郝劭文女儿被霸凌",
@@ -75,12 +83,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1729340,
-      "num": 1729340,
-      "word": "王海举报小杨哥带货假五常大米",
-      "onboard_time": 1705667007,
-      "rank": 8,
-      "category": "互联网,网红"
+      "raw_hot": 1535429,
+      "num": 1535429,
+      "word": "韩国人将翻拍长津湖",
+      "onboard_time": 1705668867,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 1485766,
@@ -113,14 +121,6 @@
       "onboard_time": 1705626450,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1170526,
-      "num": 1170526,
-      "word": "韩国人将翻拍长津湖",
-      "onboard_time": 1705668867,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 1148918,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 649492,
+      "num": 216008,
+      "word": "何同学 做了一条流水线",
+      "onboard_time": 1705669107,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 644659,
       "num": 644659,
       "word": "仙剑四穿帮",
@@ -457,14 +465,6 @@
       "onboard_time": 1705655306,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 616281,
-      "num": 216008,
-      "word": "何同学 做了一条流水线",
-      "onboard_time": 1705669107,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 606437,
@@ -667,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 433716,
+      "num": 433716,
+      "word": "姜广涛直播",
+      "onboard_time": 1705667189,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428672,
       "num": 415520,
       "word": "买酸奶时有这2个字要留个心眼",
@@ -723,12 +731,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 401954,
-      "num": 401954,
-      "word": "姜广涛直播",
-      "onboard_time": 1705667189,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 389285,
+      "num": 389285,
+      "word": "迪奥男装秀",
+      "onboard_time": 1705666586,
+      "rank": 24,
+      "category": "时尚"
     },
     {
       "raw_hot": 387794,
@@ -859,6 +867,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 319633,
+      "num": 319633,
+      "word": "江西公主到洛阳第一天就报警了",
+      "onboard_time": 1705667189,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319078,
       "num": 347506,
       "word": "日本两球落后伊拉克",
@@ -889,14 +905,6 @@
       "onboard_time": 1705622130,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308524,
-      "num": 308524,
-      "word": "迪奥男装秀",
-      "onboard_time": 1705666586,
-      "rank": 24,
-      "category": "时尚"
     },
     {
       "raw_hot": 302417,
@@ -953,14 +961,6 @@
       "onboard_time": 1705626569,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 289989,
-      "num": 289989,
-      "word": "江西公主到洛阳第一天就报警了",
-      "onboard_time": 1705667189,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289943,
@@ -1075,6 +1075,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 264652,
+      "num": 264652,
+      "word": "瘦大腿和肚子都有效的动作",
+      "onboard_time": 1705669706,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 260254,
       "num": 260254,
       "word": "庞麦郎如今怎样了",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1705570588,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251108,
+      "num": 251108,
+      "word": "婚姻状态是否属于个人隐私",
+      "onboard_time": 1705669586,
+      "rank": 28,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 250963,
@@ -1177,14 +1193,6 @@
       "onboard_time": 1705657167,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 240674,
-      "num": 240674,
-      "word": "婚姻状态是否属于个人隐私",
-      "onboard_time": 1705669586,
-      "rank": 28,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 240037,
@@ -1379,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213083,
+      "num": 213083,
+      "word": "华中农大学生称举报当晚被教授谈话",
+      "onboard_time": 1705671086,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210953,
       "num": 210953,
       "word": "原神4.3版本",
@@ -1523,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194289,
+      "num": 194289,
+      "word": "亚洲杯",
+      "onboard_time": 1705670787,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193694,
       "num": 193694,
       "word": "宋亚轩发文告别王牌",
@@ -1603,20 +1627,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188476,
+      "num": 188476,
+      "word": "女子发现金戒指褪色竟救自己一命",
+      "onboard_time": 1705670846,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188278,
       "num": 188278,
       "word": "王俊凯巴黎时装周预告",
       "onboard_time": 1705663707,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 187757,
-      "num": 187757,
-      "word": "瘦大腿和肚子都有效的动作",
-      "onboard_time": 1705669706,
-      "rank": 35,
-      "category": "运动健身"
     },
     {
       "raw_hot": 186918,
@@ -1819,6 +1843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166888,
+      "num": 166888,
+      "word": "B太 抖音公司深度探厂体验",
+      "onboard_time": 1705671030,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 166819,
       "num": 166819,
       "word": "IVE英文新单曲",
@@ -1875,6 +1907,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 163526,
+      "num": 163526,
+      "word": "与恶魔有约",
+      "onboard_time": 1705670967,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161538,
       "num": 161538,
       "word": "喉结动了 门铃响了",
@@ -1921,6 +1961,14 @@
       "onboard_time": 1705645288,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157453,
+      "num": 157453,
+      "word": "再见啦天舟六号",
+      "onboard_time": 1705670367,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 157335,
@@ -2387,14 +2435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115660,
-      "num": 115660,
-      "word": "再见啦天舟六号",
-      "onboard_time": 1705670367,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 115406,
       "num": 115406,
       "word": "陈朗写的悼文",
@@ -2771,19 +2811,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65599,
+      "num": 334309,
+      "word": "全球多地惊现美男鱼",
+      "onboard_time": 1705667786,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65265,
       "num": 1383494,
       "word": "未来已来 对话副中心",
       "onboard_time": 1705629867,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57327,
-      "num": 334309,
-      "word": "全球多地惊现美男鱼",
-      "onboard_time": 1705667786,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2851,8 +2891,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6164,
-      "num": 902099,
+      "raw_hot": 7474,
+      "num": 1078784,
       "word": "相约冰雪",
       "onboard_time": 1705410872,
       "rank": 2,

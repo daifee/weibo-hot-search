@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705670488508,
+  "endTime": 1705671241844,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -355,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1839051,
+      "num": 1839051,
+      "word": "王海举报小杨哥带货假五常大米",
+      "onboard_time": 1705667007,
+      "rank": 8,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 1837637,
       "num": 1837637,
       "word": "国产剧终于癫成了我不认识的样子",
@@ -417,14 +425,6 @@
       "onboard_time": 1705583969,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1729340,
-      "num": 1729340,
-      "word": "王海举报小杨哥带货假五常大米",
-      "onboard_time": 1705667007,
-      "rank": 8,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 1728461,
@@ -513,6 +513,14 @@
       "onboard_time": 1705397610,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1535429,
+      "num": 1535429,
+      "word": "韩国人将翻拍长津湖",
+      "onboard_time": 1705668867,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 1532379,
@@ -945,14 +953,6 @@
       "onboard_time": 1705532899,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1170526,
-      "num": 1170526,
-      "word": "韩国人将翻拍长津湖",
-      "onboard_time": 1705668867,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 1164212,
@@ -2707,6 +2707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 649492,
+      "num": 216008,
+      "word": "何同学 做了一条流水线",
+      "onboard_time": 1705669107,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 646251,
       "num": 646251,
       "word": "白鹿抽到了许佳琪织的围巾",
@@ -2881,14 +2889,6 @@
       "onboard_time": 1705293814,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 616281,
-      "num": 216008,
-      "word": "何同学 做了一条流水线",
-      "onboard_time": 1705669107,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 616066,
@@ -4523,6 +4523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 433716,
+      "num": 433716,
+      "word": "姜广涛直播",
+      "onboard_time": 1705667189,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433701,
       "num": 433701,
       "word": "中方将给予爱尔兰单方面免签",
@@ -4859,14 +4867,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 401954,
-      "num": 401954,
-      "word": "姜广涛直播",
-      "onboard_time": 1705667189,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 401814,
       "num": 401814,
       "word": "iPhone15发售3个月仅掉价18.2%",
@@ -5017,6 +5017,14 @@
       "onboard_time": 1705328793,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 389285,
+      "num": 389285,
+      "word": "迪奥男装秀",
+      "onboard_time": 1705666586,
+      "rank": 24,
+      "category": "时尚"
     },
     {
       "raw_hot": 387794,
@@ -5899,6 +5907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319633,
+      "num": 319633,
+      "word": "江西公主到洛阳第一天就报警了",
+      "onboard_time": 1705667189,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319598,
       "num": 241224,
       "word": "微博之夜翻牌 身高测量器",
@@ -6105,14 +6121,6 @@
       "onboard_time": 1705456526,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 308524,
-      "num": 308524,
-      "word": "迪奥男装秀",
-      "onboard_time": 1705666586,
-      "rank": 24,
-      "category": "时尚"
     },
     {
       "raw_hot": 308361,
@@ -6449,14 +6457,6 @@
       "onboard_time": 1705331310,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 289989,
-      "num": 289989,
-      "word": "江西公主到洛阳第一天就报警了",
-      "onboard_time": 1705667189,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289943,
@@ -7035,6 +7035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264652,
+      "num": 264652,
+      "word": "瘦大腿和肚子都有效的动作",
+      "onboard_time": 1705669706,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 263650,
       "num": 263650,
       "word": "羽生结弦 天与地的安魂曲",
@@ -7363,6 +7371,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 251108,
+      "num": 251108,
+      "word": "婚姻状态是否属于个人隐私",
+      "onboard_time": 1705669586,
+      "rank": 28,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 250963,
       "num": 250963,
       "word": "狼队Fly断开连接",
@@ -7665,14 +7681,6 @@
       "onboard_time": 1705486052,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240674,
-      "num": 240674,
-      "word": "婚姻状态是否属于个人隐私",
-      "onboard_time": 1705669586,
-      "rank": 28,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 240637,
@@ -8817,6 +8825,14 @@
       "onboard_time": 1705582769,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213083,
+      "num": 213083,
+      "word": "华中农大学生称举报当晚被教授谈话",
+      "onboard_time": 1705671086,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213027,
@@ -10179,6 +10195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188476,
+      "num": 188476,
+      "word": "女子发现金戒指褪色竟救自己一命",
+      "onboard_time": 1705670846,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188469,
       "num": 188469,
       "word": "爱是常觉亏欠啊",
@@ -10249,14 +10273,6 @@
       "onboard_time": 1705216172,
       "rank": 37,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 187757,
-      "num": 187757,
-      "word": "瘦大腿和肚子都有效的动作",
-      "onboard_time": 1705669706,
-      "rank": 35,
-      "category": "运动健身"
     },
     {
       "raw_hot": 187739,
@@ -11611,6 +11627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166888,
+      "num": 166888,
+      "word": "B太 抖音公司深度探厂体验",
+      "onboard_time": 1705671030,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 166828,
       "num": 166828,
       "word": "原来这就是相敬如宾啊",
@@ -11825,6 +11849,14 @@
       "onboard_time": 1705494388,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163526,
+      "num": 163526,
+      "word": "与恶魔有约",
+      "onboard_time": 1705670967,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 163244,
@@ -12201,6 +12233,14 @@
       "onboard_time": 1705493788,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157453,
+      "num": 157453,
+      "word": "再见啦天舟六号",
+      "onboard_time": 1705670367,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 157371,
@@ -14923,14 +14963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115660,
-      "num": 115660,
-      "word": "再见啦天舟六号",
-      "onboard_time": 1705670367,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 115561,
       "num": 115561,
       "word": "江苏文旅开始卷了",
@@ -16219,6 +16251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65599,
+      "num": 334309,
+      "word": "全球多地惊现美男鱼",
+      "onboard_time": 1705667786,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65557,
       "num": 65557,
       "word": "官方回应广东一中学要求统一校鞋",
@@ -16351,14 +16391,6 @@
       "num": 162003,
       "word": "陕北4名小男孩唱山歌热情豪迈",
       "onboard_time": 1705318111,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57327,
-      "num": 334309,
-      "word": "全球多地惊现美男鱼",
-      "onboard_time": 1705667786,
       "rank": 29,
       "category": "社会新闻"
     },
