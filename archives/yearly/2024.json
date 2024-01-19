@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705628349367,
+  "endTime": 1705631573070,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1363,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1717382,
+      "num": 1717382,
+      "word": "春晚 科目三",
+      "onboard_time": 1705628670,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1714755,
       "num": 1714755,
       "word": "赵露思斑点小狗",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704183034,
       "rank": 10,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1350606,
-      "num": 1350606,
-      "word": "热辣滚烫阵容",
-      "onboard_time": 1704940831,
-      "rank": 32,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1705631573070,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6144927,
+        "num": 6144927,
+        "word": "华中农大教师黄某某存在学术不端",
+        "onboard_time": 1705619419,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1717382,
+        "num": 1717382,
+        "word": "春晚 科目三",
+        "onboard_time": 1705628670,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65265,
+        "num": 1383494,
+        "word": "未来已来 对话副中心",
+        "onboard_time": 1705629867,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1210903,
+        "num": 1210903,
+        "word": "11名研究生否认举报教授是被威胁",
+        "onboard_time": 1705626450,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747227,
+        "num": 747227,
+        "word": "谢娜 有好几个朋友都不会再接我电话",
+        "onboard_time": 1705629568,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467153,
+        "num": 467153,
+        "word": "韩国剧组虐马致死被罚",
+        "onboard_time": 1705627888,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 582549,
+        "num": 444196,
+        "word": "华中农大组建导师组负责黄某某研究生培养",
+        "onboard_time": 1705622786,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417142,
+        "num": 417142,
+        "word": "身家600亿富豪给员工每人1万红包",
+        "onboard_time": 1705630348,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408058,
+        "num": 408058,
+        "word": "迪丽热巴弯腰不是在笑是在捡垃圾",
+        "onboard_time": 1705630409,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388396,
+        "num": 388396,
+        "word": "打铁花和看打铁花的都沉默了",
+        "onboard_time": 1705628369,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 476702,
+        "num": 369358,
+        "word": "妲己",
+        "onboard_time": 1705626812,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338484,
+        "num": 338484,
+        "word": "女司机心脏病发作打120后失联110找到人",
+        "onboard_time": 1705620982,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303199,
+        "num": 303199,
+        "word": "女婴被抢15年找到后收买方已过追诉期",
+        "onboard_time": 1705628309,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276888,
+        "num": 276888,
+        "word": "黄飞若",
+        "onboard_time": 1705623090,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 259584,
+        "num": 259584,
+        "word": "他不敢用力是看戒指嵌肉里怕你疼",
+        "onboard_time": 1705605375,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251869,
+        "num": 251869,
+        "word": "减肥太快会导致皮肤松弛吗",
+        "onboard_time": 1705626569,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237567,
+        "num": 237567,
+        "word": "金莎 控梦",
+        "onboard_time": 1705624469,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231636,
+        "num": 231636,
+        "word": "云台山男妲己回应争议",
+        "onboard_time": 1705628848,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231076,
+        "num": 231076,
+        "word": "仙剑四里有江玉燕",
+        "onboard_time": 1705631067,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216786,
+        "num": 216786,
+        "word": "过去一年周冬雨的院线遭遇",
+        "onboard_time": 1705627405,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 502918,
+        "num": 215503,
+        "word": "张黎 学生威胁学生是我听过最大笑话",
+        "onboard_time": 1705589851,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263703,
+        "num": 213605,
+        "word": "下完崽的狗子硬要给主人喂奶",
+        "onboard_time": 1705630711,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256813,
+        "num": 212082,
+        "word": "公厕不要对着坑的洞洞拉",
+        "onboard_time": 1705589554,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208394,
+        "num": 208394,
+        "word": "被抽走板凳骨折女生已自愿退学",
+        "onboard_time": 1705583969,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208187,
+        "num": 208187,
+        "word": "王一博出发澳门",
+        "onboard_time": 1705630590,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186138,
+        "num": 186138,
+        "word": "2024首场寒潮遇上大寒节气",
+        "onboard_time": 1705630711,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174890,
+        "num": 174890,
+        "word": "高三艺考生292分拿下省状元",
+        "onboard_time": 1705618878,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165558,
+        "num": 165558,
+        "word": "记者对话举报华中农大教授当事人",
+        "onboard_time": 1705627768,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165515,
+        "num": 165515,
+        "word": "熬夜吃辣 长斑",
+        "onboard_time": 1705624351,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159112,
+        "num": 159112,
+        "word": "苹果员工买头显可享75折",
+        "onboard_time": 1705630106,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151328,
+        "num": 151328,
+        "word": "狼队Fly断开连接",
+        "onboard_time": 1705623930,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149761,
+        "num": 149761,
+        "word": "要久久爱",
+        "onboard_time": 1705627768,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145150,
+        "num": 145150,
+        "word": "一升瓶装水中竟有24万个塑料颗粒",
+        "onboard_time": 1705622427,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139832,
+        "num": 139832,
+        "word": "最高检派专人赴河北指导马树山案",
+        "onboard_time": 1705627051,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138556,
+        "num": 138556,
+        "word": "gidle回归预告",
+        "onboard_time": 1705629690,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138443,
+        "num": 138443,
+        "word": "优酷 手握多部养老保险",
+        "onboard_time": 1705590756,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133852,
+        "num": 133852,
+        "word": "被撤销起诉的老干部曾被拘39天",
+        "onboard_time": 1705628129,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129965,
+        "num": 129965,
+        "word": "祈今朝第一集 幼儿园逃窜儿童",
+        "onboard_time": 1705628248,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127150,
+        "num": 127150,
+        "word": "华中农大教授回应学生举报不实",
+        "onboard_time": 1705581811,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124086,
+        "num": 124086,
+        "word": "男子晒自己陪娃学习的书房",
+        "onboard_time": 1705629690,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123235,
+        "num": 123235,
+        "word": "安徽春晚小品跳科目三导演发声",
+        "onboard_time": 1705594764,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125402,
+        "num": 122907,
+        "word": "华中农大教师黄某某被停职",
+        "onboard_time": 1705619481,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122192,
+        "num": 122192,
+        "word": "吃货丫丫胃口有多好",
+        "onboard_time": 1705627588,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116937,
+        "num": 116937,
+        "word": "小狗吵架试图咬死对方的空气",
+        "onboard_time": 1705624590,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121080,
+        "num": 116771,
+        "word": "为何学术不端屡禁不止",
+        "onboard_time": 1705631369,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114709,
+        "num": 114709,
+        "word": "微星",
+        "onboard_time": 1705628547,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109959,
+        "num": 109959,
+        "word": "原来公交车是这样换皮肤的",
+        "onboard_time": 1705620863,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108971,
+        "num": 108971,
+        "word": "奥特曼称相信AI无法替代人类",
+        "onboard_time": 1705627287,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101298,
+        "num": 101298,
+        "word": "无畏转辅助",
+        "onboard_time": 1705626388,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95808,
+        "num": 95808,
+        "word": "一个经常早醒的人要警惕4种病",
+        "onboard_time": 1705622007,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#统筹国内国际两个市场两种资源#"
+    }
+  }
+}

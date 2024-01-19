@@ -1,6 +1,6 @@
 {
   "startTime": 1705595005476,
-  "endTime": 1705628349367,
+  "endTime": 1705631573070,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 2181146,
-      "num": 206460,
+      "num": 215503,
       "word": "张黎 学生威胁学生是我听过最大笑话",
       "onboard_time": 1705589851,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1717382,
+      "num": 1717382,
+      "word": "春晚 科目三",
+      "onboard_time": 1705628670,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1485766,
@@ -27,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1091294,
-      "num": 1091294,
+      "raw_hot": 1210903,
+      "num": 1210903,
       "word": "11名研究生否认举报教授是被威胁",
       "onboard_time": 1705626450,
       "rank": 8,
@@ -67,6 +75,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 747227,
+      "num": 747227,
+      "word": "谢娜 有好几个朋友都不会再接我电话",
+      "onboard_time": 1705629568,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 685568,
       "num": 685568,
       "word": "金莎 控梦",
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 604566,
-      "num": 206350,
+      "num": 212082,
       "word": "公厕不要对着坑的洞洞拉",
       "onboard_time": 1705589554,
       "rank": 21,
@@ -139,20 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476702,
+      "num": 435590,
+      "word": "妲己",
+      "onboard_time": 1705626812,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467153,
+      "num": 467153,
+      "word": "韩国剧组虐马致死被罚",
+      "onboard_time": 1705627888,
+      "rank": 12,
+      "category": "社会新闻,剧集"
+    },
+    {
       "raw_hot": 438053,
       "num": 438053,
       "word": "草莓烧烤",
       "onboard_time": 1705590091,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 435590,
-      "num": 435590,
-      "word": "妲己",
-      "onboard_time": 1705626812,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 418048,
@@ -163,12 +187,28 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 382069,
-      "num": 382069,
-      "word": "韩国剧组虐马致死被罚",
-      "onboard_time": 1705627888,
-      "rank": 12,
-      "category": "社会新闻,剧集"
+      "raw_hot": 417142,
+      "num": 417142,
+      "word": "身家600亿富豪给员工每人1万红包",
+      "onboard_time": 1705630348,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408058,
+      "num": 408058,
+      "word": "迪丽热巴弯腰不是在笑是在捡垃圾",
+      "onboard_time": 1705630409,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 388396,
+      "num": 388396,
+      "word": "打铁花和看打铁花的都沉默了",
+      "onboard_time": 1705628369,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 357033,
@@ -192,6 +232,14 @@
       "word": "领队称小冻梨沉默是因为太紧张",
       "onboard_time": 1705622130,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303199,
+      "num": 303199,
+      "word": "女婴被抢15年找到后收买方已过追诉期",
+      "onboard_time": 1705628309,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -275,6 +323,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 263703,
+      "num": 213605,
+      "word": "下完崽的狗子硬要给主人喂奶",
+      "onboard_time": 1705630711,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257998,
       "num": 257998,
       "word": "最高检派专人赴河北指导马树山案",
@@ -339,6 +395,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231636,
+      "num": 231636,
+      "word": "云台山男妲己回应争议",
+      "onboard_time": 1705628848,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231076,
+      "num": 231076,
+      "word": "仙剑四里有江玉燕",
+      "onboard_time": 1705631067,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226114,
       "num": 170516,
       "word": "原来公交车是这样换皮肤的",
@@ -353,6 +425,22 @@
       "onboard_time": 1705622427,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216786,
+      "num": 216786,
+      "word": "过去一年周冬雨的院线遭遇",
+      "onboard_time": 1705627405,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208187,
+      "num": 208187,
+      "word": "王一博出发澳门",
+      "onboard_time": 1705630590,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 207245,
@@ -427,20 +515,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189701,
-      "num": 189701,
-      "word": "过去一年周冬雨的院线遭遇",
-      "onboard_time": 1705627405,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 186770,
       "num": 186770,
       "word": "阿信接龙红包",
       "onboard_time": 1705598240,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186138,
+      "num": 186138,
+      "word": "2024首场寒潮遇上大寒节气",
+      "onboard_time": 1705630711,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179230,
@@ -499,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159112,
+      "num": 159112,
+      "word": "苹果员工买头显可享75折",
+      "onboard_time": 1705630106,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 159045,
       "num": 159045,
       "word": "猫咪洗澡居然可以这么乖",
@@ -547,11 +643,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138556,
+      "num": 138556,
+      "word": "gidle回归预告",
+      "onboard_time": 1705629690,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133940,
       "num": 133940,
       "word": "11名研究生称花一个月写125页举报信",
       "onboard_time": 1705572331,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133852,
+      "num": 133852,
+      "word": "被撤销起诉的老干部曾被拘39天",
+      "onboard_time": 1705628129,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -571,12 +683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127941,
-      "num": 127941,
-      "word": "被撤销起诉的老干部曾被拘39天",
-      "onboard_time": 1705628129,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 129965,
+      "num": 129965,
+      "word": "祈今朝第一集 幼儿园逃窜儿童",
+      "onboard_time": 1705628248,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 127844,
@@ -611,12 +723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124086,
+      "num": 124086,
+      "word": "男子晒自己陪娃学习的书房",
+      "onboard_time": 1705629690,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121339,
       "num": 121339,
       "word": "不到150块带奶奶玩了一天",
       "onboard_time": 1705627051,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121080,
+      "num": 116771,
+      "word": "为何学术不端屡禁不止",
+      "onboard_time": 1705631369,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120667,
@@ -667,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114709,
+      "num": 114709,
+      "word": "微星",
+      "onboard_time": 1705628547,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 113753,
       "num": 113753,
       "word": "如果奔跑是我的人生",
@@ -681,14 +817,6 @@
       "onboard_time": 1705611792,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 111209,
-      "num": 111209,
-      "word": "女婴被抢15年找到后收买方已过追诉期",
-      "onboard_time": 1705628309,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104375,
@@ -865,6 +993,14 @@
       "onboard_time": 1705585352,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65265,
+      "num": 1383494,
+      "word": "未来已来 对话副中心",
+      "onboard_time": 1705629867,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48111,
