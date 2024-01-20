@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705745875417,
+  "endTime": 1705746890537,
   "band_list": [
     {
       "raw_hot": 2205012,
@@ -27,19 +27,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2019141,
+      "num": 2019141,
+      "word": "美警方称杀妻中国工程师高度残忍",
+      "onboard_time": 1705743325,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1986328,
       "num": 1986328,
       "word": "王健林已卖10座万达广场",
       "onboard_time": 1705716686,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1890104,
-      "num": 1890104,
-      "word": "美警方称杀妻中国工程师高度残忍",
-      "onboard_time": 1705743325,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -155,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 832078,
+      "num": 832078,
+      "word": "丁程鑫追星成功王一博",
+      "onboard_time": 1705744706,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 828616,
       "num": 866181,
       "word": "高校偷偷为学生免费充了480度电",
       "onboard_time": 1705726346,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 815059,
-      "num": 815059,
-      "word": "丁程鑫追星成功王一博",
-      "onboard_time": 1705744706,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 813507,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 614484,
-      "num": 264498,
+      "num": 291987,
       "word": "小夫妻要第三胎却意外怀上了三胞胎",
       "onboard_time": 1705737329,
       "rank": 20,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559316,
+      "num": 559316,
+      "word": "繁花2",
+      "onboard_time": 1705746087,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 556896,
       "num": 556896,
       "word": "陈芋汐全英文发言",
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 539935,
-      "num": 256324,
+      "num": 281572,
       "word": "早睡把人际关系网都睡出来了",
       "onboard_time": 1705737506,
       "rank": 21,
@@ -449,6 +457,14 @@
       "onboard_time": 1705677930,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464952,
+      "num": 1321931,
+      "word": "山东大姐卖37年炉包供出研究生儿子",
+      "onboard_time": 1705744226,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 461419,
@@ -571,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380994,
+      "num": 380994,
+      "word": "赵今麦 异域公主",
+      "onboard_time": 1705746328,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380076,
       "num": 380076,
       "word": "哈佛女孩刘亦婷",
@@ -585,6 +609,14 @@
       "onboard_time": 1705720045,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 372919,
+      "num": 372919,
+      "word": "花花被夺笋后淡定再来一根",
+      "onboard_time": 1705744346,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364802,
@@ -620,7 +652,7 @@
     },
     {
       "raw_hot": 351849,
-      "num": 252624,
+      "num": 285184,
       "word": "男生喜欢甜妹是有原因的",
       "onboard_time": 1705742068,
       "rank": 28,
@@ -628,7 +660,7 @@
     },
     {
       "raw_hot": 346439,
-      "num": 258620,
+      "num": 288302,
       "word": "天秤 硬撑",
       "onboard_time": 1705742547,
       "rank": 34,
@@ -641,6 +673,14 @@
       "onboard_time": 1705676491,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342158,
+      "num": 342158,
+      "word": "知情人称杀妻案涉案二人未被谷歌裁员",
+      "onboard_time": 1705743086,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341848,
@@ -667,14 +707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 326791,
-      "num": 1030764,
-      "word": "山东大姐卖37年炉包供出研究生儿子",
-      "onboard_time": 1705744226,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323647,
       "num": 323647,
       "word": "3岁男童高烧惊厥幼师急得跪地拦车",
@@ -697,14 +729,6 @@
       "onboard_time": 1705713748,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 318281,
-      "num": 318281,
-      "word": "花花被夺笋后淡定再来一根",
-      "onboard_time": 1705744346,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315528,
@@ -745,6 +769,14 @@
       "onboard_time": 1705692616,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 295807,
+      "num": 295807,
+      "word": "变形计之要久久爱特辑",
+      "onboard_time": 1705744527,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 289539,
@@ -827,20 +859,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267749,
-      "num": 267749,
-      "word": "知情人称杀妻案涉案二人未被谷歌裁员",
-      "onboard_time": 1705743086,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266539,
       "num": 266539,
       "word": "女子吃一个多月胶原蛋白肝损伤",
       "onboard_time": 1705739486,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 264864,
+      "num": 264864,
+      "word": "张艺兴 威龙舞台",
+      "onboard_time": 1705744587,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 262941,
@@ -899,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244842,
-      "num": 244842,
-      "word": "张艺兴 威龙舞台",
-      "onboard_time": 1705744587,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243915,
       "num": 177828,
       "word": "袁大帅给杨洋化妆",
@@ -921,6 +945,14 @@
       "onboard_time": 1705706057,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 242687,
+      "num": 242687,
+      "word": "泽连斯基因特朗普感到不安",
+      "onboard_time": 1705745006,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 238068,
@@ -979,12 +1011,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222253,
-      "num": 222253,
-      "word": "变形计之要久久爱特辑",
-      "onboard_time": 1705744527,
+      "raw_hot": 222788,
+      "num": 222788,
+      "word": "女子提离职数月才获批单位赔56万",
+      "onboard_time": 1705745906,
       "rank": 29,
-      "category": "综艺"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221580,
@@ -1075,14 +1107,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204476,
-      "num": 204476,
-      "word": "泽连斯基因特朗普感到不安",
-      "onboard_time": 1705745006,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 204235,
       "num": 204235,
       "word": "恋与深空",
@@ -1107,6 +1131,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201318,
+      "num": 201318,
+      "word": "日本电商网站上线Switch2页面",
+      "onboard_time": 1705745849,
+      "rank": 49,
+      "category": "游戏,数码"
+    },
+    {
+      "raw_hot": 201251,
+      "num": 201251,
+      "word": "SEVENTEEN澳门演唱会",
+      "onboard_time": 1705746510,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200346,
       "num": 163880,
       "word": "陈祥龙游羊官宣",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1705673790,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197990,
+      "num": 197990,
+      "word": "应急局回应学校火灾致13人遇难",
+      "onboard_time": 1705746087,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196784,
@@ -1177,6 +1225,14 @@
       "onboard_time": 1705735046,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191633,
+      "num": 191633,
+      "word": "应急管理部工作组赶赴河南火灾现场",
+      "onboard_time": 1705746389,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191566,
@@ -1835,12 +1891,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112528,
-      "num": 112528,
-      "word": "日本电商网站上线Switch2页面",
-      "onboard_time": 1705745849,
-      "rank": 49,
-      "category": "游戏,数码"
+      "raw_hot": 113163,
+      "num": 819491,
+      "word": "医院门诊大厅开音乐会缓解病人焦虑",
+      "onboard_time": 1705744226,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110959,
@@ -2129,14 +2185,6 @@
       "onboard_time": 1705705397,
       "rank": 37,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 50335,
-      "num": 819491,
-      "word": "医院门诊大厅开音乐会缓解病人焦虑",
-      "onboard_time": 1705744226,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47983,

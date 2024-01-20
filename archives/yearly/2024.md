@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/20 18:17:55
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/20 18:34:50
 </p>
 </blockquote>
 <p>
@@ -711,6 +711,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%9D%80%E5%A6%BB%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%AB%98%E5%BA%A6%E6%AE%8B%E5%BF%8D%23" target="weibo">
+美警方称杀妻中国工程师高度残忍（热度：2019141）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%94%B2%E5%BA%97%20%E6%9D%80%E7%86%9F%23" target="weibo">
 美甲店 杀熟（热度：1990762）
 </a>
@@ -821,12 +827,6 @@ iPhone15价格跌至史上最低（热度：1922878）
 <li>
 <a href="https://s.weibo.com/weibo?q=%237%E5%B9%B4%E6%83%85%E4%BE%A3%E4%B8%8A%E6%81%8B%E7%BB%BC%E8%A2%AB%E6%89%80%E6%9C%89%E4%BA%BA%E5%8A%9D%E5%88%86%23" target="weibo">
 7年情侣上恋综被所有人劝分（热度：1891044）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%9D%80%E5%A6%BB%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%AB%98%E5%BA%A6%E6%AE%8B%E5%BF%8D%23" target="weibo">
-美警方称杀妻中国工程师高度残忍（热度：1890104）
 </a>
 </li>
 
