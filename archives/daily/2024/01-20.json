@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705753874033,
+  "endTime": 1705754820399,
   "band_list": [
     {
       "raw_hot": 2205012,
@@ -9,6 +9,14 @@
       "onboard_time": 1705711885,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2202486,
+      "num": 2202486,
+      "word": "王俊凯 很后悔昨天睡觉了",
+      "onboard_time": 1705752390,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2198965,
@@ -41,14 +49,6 @@
       "onboard_time": 1705716686,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1765223,
-      "num": 1765223,
-      "word": "王俊凯 很后悔昨天睡觉了",
-      "onboard_time": 1705752390,
-      "rank": 0,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1420747,
@@ -89,6 +89,14 @@
       "onboard_time": 1705669107,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1199210,
+      "num": 1018661,
+      "word": "学生公开华中农大教授造假证据",
+      "onboard_time": 1705751307,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1186190,
@@ -137,14 +145,6 @@
       "onboard_time": 1705739007,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1018661,
-      "num": 1018661,
-      "word": "学生公开华中农大教授造假证据",
-      "onboard_time": 1705751307,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1007089,
@@ -307,8 +307,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 656104,
-      "num": 656104,
+      "raw_hot": 671239,
+      "num": 671239,
       "word": "电视剧要久久爱",
       "onboard_time": 1705751307,
       "rank": 6,
@@ -387,6 +387,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 592469,
+      "num": 511152,
+      "word": "您的十年就值这么多了",
+      "onboard_time": 1705751485,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 591047,
       "num": 591047,
       "word": "韩国人将翻拍长津湖",
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 555403,
-      "num": 294847,
+      "num": 510939,
       "word": "要久久爱开播评价",
       "onboard_time": 1705752390,
       "rank": 11,
@@ -475,20 +483,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514601,
+      "num": 511006,
+      "word": "夫妻先后患癌原因就在饭桌上",
+      "onboard_time": 1705752025,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 512148,
       "num": 512148,
       "word": "韩国仁川新地标被质疑抄袭广州塔",
       "onboard_time": 1705724427,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 511797,
-      "num": 293416,
-      "word": "您的十年就值这么多了",
-      "onboard_time": 1705751485,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 501534,
@@ -513,14 +521,6 @@
       "onboard_time": 1705715065,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 489909,
-      "num": 294140,
-      "word": "夫妻先后患癌原因就在饭桌上",
-      "onboard_time": 1705752025,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 487571,
@@ -585,6 +585,14 @@
       "onboard_time": 1705733424,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448914,
+      "num": 448914,
+      "word": "吸草莓教程",
+      "onboard_time": 1705754788,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 436705,
@@ -761,6 +769,14 @@
       "onboard_time": 1705675349,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352113,
+      "num": 276799,
+      "word": "恋与深空心疼哥哥",
+      "onboard_time": 1705753227,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 351849,
@@ -971,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277151,
+      "num": 277151,
+      "word": "关晓彤春晚彩排生图",
+      "onboard_time": 1705754069,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273466,
       "num": 273466,
       "word": "马思纯晒杨紫范丞丞导演拍立得",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1705731984,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262772,
+      "num": 204278,
+      "word": "张拿铁好像是疯了",
+      "onboard_time": 1705754428,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 259441,
@@ -1123,8 +1155,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 234860,
+      "num": 234860,
+      "word": "萨摩耶 一怒之下怒了一下",
+      "onboard_time": 1705753109,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 233117,
-      "num": 233117,
+      "num": 274637,
       "word": "约旦vs韩国",
       "onboard_time": 1705749388,
       "rank": 27,
@@ -1145,14 +1185,6 @@
       "onboard_time": 1705717286,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230594,
-      "num": 276799,
-      "word": "恋与深空心疼哥哥",
-      "onboard_time": 1705753227,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 229002,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1705723407,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221555,
+      "num": 221555,
+      "word": "杨紫隐忍式哭戏",
+      "onboard_time": 1705753827,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 219481,
@@ -1371,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197547,
+      "num": 197547,
+      "word": "DRG官宣阿豆加入",
+      "onboard_time": 1705754428,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196784,
       "num": 196784,
       "word": "仙剑四五毒兽上线",
@@ -1449,14 +1497,6 @@
       "onboard_time": 1705706057,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190700,
-      "num": 190700,
-      "word": "萨摩耶 一怒之下怒了一下",
-      "onboard_time": 1705753109,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 189233,
@@ -1579,6 +1619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176689,
+      "num": 176689,
+      "word": "约旦反超韩国",
+      "onboard_time": 1705754608,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176381,
       "num": 176381,
       "word": "本地人回哈尔滨有多陌生",
@@ -1617,6 +1665,14 @@
       "onboard_time": 1705737085,
       "rank": 27,
       "category": "综艺,剧集"
+    },
+    {
+      "raw_hot": 169660,
+      "num": 180075,
+      "word": "目击者讲述河南南阳学校火灾",
+      "onboard_time": 1705754548,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169613,
@@ -1691,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156333,
+      "num": 156333,
+      "word": "提高文笔的方法",
+      "onboard_time": 1705753291,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 155706,
       "num": 155706,
       "word": "这就是街舞",
@@ -1753,14 +1817,6 @@
       "onboard_time": 1705722808,
       "rank": 40,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 151482,
-      "num": 151482,
-      "word": "提高文笔的方法",
-      "onboard_time": 1705753291,
-      "rank": 37,
-      "category": "读书作家"
     },
     {
       "raw_hot": 151281,
@@ -1961,6 +2017,14 @@
       "onboard_time": 1705675289,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130814,
+      "num": 130814,
+      "word": "谷歌殴打妻子致死工程师被控谋杀重罪",
+      "onboard_time": 1705754727,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129581,
@@ -2185,14 +2249,6 @@
       "onboard_time": 1705666586,
       "rank": 36,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 113670,
-      "num": 113670,
-      "word": "杨紫隐忍式哭戏",
-      "onboard_time": 1705753827,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 113545,
