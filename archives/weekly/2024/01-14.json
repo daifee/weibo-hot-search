@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705761239955,
+  "endTime": 1705763818988,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -1987,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 835790,
+      "num": 835790,
+      "word": "王一博HipHop Forever",
+      "onboard_time": 1705761152,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 835576,
       "num": 835576,
       "word": "46岁知名麻醉科医生去世",
@@ -2475,6 +2483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 753904,
+      "num": 753904,
+      "word": "男子徒手接住6楼坠落男孩",
+      "onboard_time": 1705759952,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 753550,
       "num": 753550,
       "word": "宋轶背上了文咏珊送的包",
@@ -2785,6 +2801,14 @@
       "onboard_time": 1705233507,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 694099,
+      "num": 694099,
+      "word": "医生 我是病了不是饿了",
+      "onboard_time": 1705762411,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 692740,
@@ -3225,14 +3249,6 @@
       "onboard_time": 1705223011,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 638324,
-      "num": 638324,
-      "word": "王一博HipHop Forever",
-      "onboard_time": 1705761152,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 638233,
@@ -5179,6 +5195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445493,
+      "num": 445493,
+      "word": "与恶魔有约大结局",
+      "onboard_time": 1705761391,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445121,
       "num": 445121,
       "word": "男子吐槽华清宫贵妃入浴雕像不雅",
@@ -6811,6 +6835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324807,
+      "num": 324807,
+      "word": "雷军称小米要成为全球前五车厂",
+      "onboard_time": 1705762112,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 324106,
       "num": 324106,
       "word": "两万五的苹果头显值得买吗",
@@ -7161,6 +7193,14 @@
       "onboard_time": 1705367790,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307360,
+      "num": 229987,
+      "word": "关于30岁女生给20岁女生的建议",
+      "onboard_time": 1705762112,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 307171,
@@ -7795,6 +7835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281605,
+      "num": 228306,
+      "word": "陈若华考公失败",
+      "onboard_time": 1705763670,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280782,
       "num": 212719,
       "word": "原神4.3版本",
@@ -8291,12 +8339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263334,
+      "num": 239707,
+      "word": "刘涛说害怕胡歌家的七只猫",
+      "onboard_time": 1705760552,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263261,
       "num": 263261,
       "word": "张凌赫抽到孙阳送的金手串",
       "onboard_time": 1705362324,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263254,
+      "num": 225829,
+      "word": "真喜欢怎么可能十几年不表白",
+      "onboard_time": 1705762112,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 263178,
@@ -8835,14 +8899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 246636,
-      "num": 239707,
-      "word": "刘涛说害怕胡歌家的七只猫",
-      "onboard_time": 1705760552,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246430,
       "num": 246430,
       "word": "恋与深空捏脸",
@@ -9025,14 +9081,6 @@
       "onboard_time": 1705408592,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240295,
-      "num": 240295,
-      "word": "男子徒手接住6楼坠落男孩",
-      "onboard_time": 1705759952,
-      "rank": 34,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 240294,
@@ -11259,6 +11307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 197359,
+      "num": 197359,
+      "word": "这哪是导师明明是阴阳师",
+      "onboard_time": 1705762770,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197051,
       "num": 197051,
       "word": "天官赐福 花怜",
@@ -11467,6 +11523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194065,
+      "num": 194065,
+      "word": "大阪甜品店 草莓塔",
+      "onboard_time": 1705763069,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 193975,
       "num": 193975,
       "word": "拯救者发布会",
@@ -11609,6 +11673,14 @@
       "onboard_time": 1705710442,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 192422,
+      "num": 192422,
+      "word": "张韶涵27场演唱会收官",
+      "onboard_time": 1705763130,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 192397,
@@ -15275,6 +15347,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 145293,
+      "num": 175601,
+      "word": "海归姑娘回国卖烧麦一年卖出2个亿",
+      "onboard_time": 1705763010,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145268,
       "num": 254970,
       "word": "2023中国经济成绩单",
@@ -15481,6 +15561,14 @@
       "onboard_time": 1705574908,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143207,
+      "num": 143207,
+      "word": "陈楚生王栎鑫对唱他不爱我",
+      "onboard_time": 1705763611,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 143083,
@@ -18721,6 +18809,14 @@
       "onboard_time": 1705185077,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78318,
+      "num": 106973,
+      "word": "阿森纳5比0水晶宫",
+      "onboard_time": 1705761571,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 77220,
