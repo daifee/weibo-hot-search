@@ -1,0 +1,410 @@
+{
+  "runTime": 1705743258373,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1106679,
+        "num": 1106679,
+        "word": "辛巴称最应该给孩子吃预制菜",
+        "onboard_time": 1705736067,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1030151,
+        "num": 1030151,
+        "word": "高一女生保送清华本硕博连读",
+        "onboard_time": 1705739007,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 3128,
+        "num": 894962,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776602,
+        "num": 776602,
+        "word": "唐嫣希望原班人马拍繁花2",
+        "onboard_time": 1705739906,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 576241,
+        "num": 576241,
+        "word": "毛晓慧 对不起丑到大家了",
+        "onboard_time": 1705720406,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482571,
+        "num": 482571,
+        "word": "庆余年2",
+        "onboard_time": 1705721726,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465147,
+        "num": 465147,
+        "word": "王健林已卖10座万达广场",
+        "onboard_time": 1705716686,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426779,
+        "num": 426779,
+        "word": "吴宣仪和粉丝哭穷",
+        "onboard_time": 1705724965,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412859,
+        "num": 412859,
+        "word": "狼队 菜得让人发笑",
+        "onboard_time": 1705740745,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 400740,
+        "num": 400740,
+        "word": "南阳学校火灾一对双胞胎中一人离世",
+        "onboard_time": 1705735226,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397670,
+        "num": 397670,
+        "word": "惹了沈星回 等于谁都没惹",
+        "onboard_time": 1705741047,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 363967,
+        "num": 363967,
+        "word": "起猛了在庆余年2看到羽皇了",
+        "onboard_time": 1705734867,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353700,
+        "num": 353700,
+        "word": "影版花千骨票房",
+        "onboard_time": 1705737085,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 350625,
+        "num": 350625,
+        "word": "Switch2",
+        "onboard_time": 1705742008,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 346551,
+        "num": 346551,
+        "word": "张黎科普什么是移鼠接猪",
+        "onboard_time": 1705740148,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 309215,
+        "num": 309215,
+        "word": "王一博只有一天排练时间",
+        "onboard_time": 1705736846,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300978,
+        "num": 300978,
+        "word": "感觉和魏大勋有点暧昧了",
+        "onboard_time": 1705732823,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288253,
+        "num": 288253,
+        "word": "街舞6队长穿搭",
+        "onboard_time": 1705740986,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271476,
+        "num": 271476,
+        "word": "高校偷偷为学生免费充了480度电",
+        "onboard_time": 1705726346,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266539,
+        "num": 266539,
+        "word": "女子吃一个多月胶原蛋白肝损伤",
+        "onboard_time": 1705739486,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 548053,
+        "num": 264498,
+        "word": "小夫妻要第三胎却意外怀上了三胞胎",
+        "onboard_time": 1705737329,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283814,
+        "num": 255550,
+        "word": "鞠婧祎为毛晓慧发声",
+        "onboard_time": 1705732647,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29588,
+        "num": 248403,
+        "word": "大寒迎年也迎春",
+        "onboard_time": 1705742609,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351969,
+        "num": 247745,
+        "word": "早睡把人际关系网都睡出来了",
+        "onboard_time": 1705737506,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351849,
+        "num": 237827,
+        "word": "男生喜欢甜妹是有原因的",
+        "onboard_time": 1705742068,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292017,
+        "num": 232241,
+        "word": "刮刮乐中100万的那个年轻人消失了",
+        "onboard_time": 1705735585,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290921,
+        "num": 226431,
+        "word": "谷歌中国籍男员工杀妻案细节披露",
+        "onboard_time": 1705736248,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223663,
+        "num": 223663,
+        "word": "茅子俊把白子画杀阡陌都演了",
+        "onboard_time": 1705734748,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204531,
+        "num": 204531,
+        "word": "AG 回放在哪",
+        "onboard_time": 1705742784,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198497,
+        "num": 198497,
+        "word": "8旬夫妇将房产过户给孙子被赶出家门",
+        "onboard_time": 1705732345,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185339,
+        "num": 185339,
+        "word": "周杰伦找王俊凯吃早餐",
+        "onboard_time": 1705733424,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179274,
+        "num": 179274,
+        "word": "贾乃亮录一期节目杜华就跑一个艺人",
+        "onboard_time": 1705739546,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170053,
+        "num": 170053,
+        "word": "一个孕一个吐分工明确",
+        "onboard_time": 1705735767,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169613,
+        "num": 169613,
+        "word": "章若楠什刹海滑冰",
+        "onboard_time": 1705742008,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166724,
+        "num": 166724,
+        "word": "天秤 硬撑",
+        "onboard_time": 1705742547,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155360,
+        "num": 155360,
+        "word": "睡眠冷知识",
+        "onboard_time": 1705741405,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149272,
+        "num": 149272,
+        "word": "遭男同学抽凳摔断肋骨当事女生发声",
+        "onboard_time": 1705727727,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145566,
+        "num": 145566,
+        "word": "陈祥龙游羊官宣",
+        "onboard_time": 1705738708,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138836,
+        "num": 138836,
+        "word": "以为狗走开了原来是走位",
+        "onboard_time": 1705742128,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127721,
+        "num": 127721,
+        "word": "本地人回哈尔滨有多陌生",
+        "onboard_time": 1705742368,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 125928,
+        "num": 125928,
+        "word": "董宇辉账号认证变更",
+        "onboard_time": 1705733068,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124119,
+        "num": 124119,
+        "word": "年会不能停",
+        "onboard_time": 1705742845,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123900,
+        "num": 123900,
+        "word": "吴宣仪回应争议",
+        "onboard_time": 1705727904,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121452,
+        "num": 121452,
+        "word": "在过年这件事上00后有多讲究",
+        "onboard_time": 1705740745,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119814,
+        "num": 119814,
+        "word": "男中一色金泳勋",
+        "onboard_time": 1705742906,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119123,
+        "num": 119123,
+        "word": "袁大帅给杨洋化妆",
+        "onboard_time": 1705736125,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114173,
+        "num": 114173,
+        "word": "妻子怀孕后丈夫出现恶心呕吐",
+        "onboard_time": 1705722569,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113377,
+        "num": 113377,
+        "word": "感受到了男友爸妈的心意",
+        "onboard_time": 1705739007,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112168,
+        "num": 112168,
+        "word": "知情人称杀妻案涉案二人未被谷歌裁员",
+        "onboard_time": 1705743086,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111991,
+        "num": 111991,
+        "word": "年轻人为什么会选择做主播",
+        "onboard_time": 1705739007,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进人的全面发展和社会全面进步#"
+    }
+  }
+}

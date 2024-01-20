@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705742188250,
+  "endTime": 1705743258373,
   "band_list": [
     {
       "raw_hot": 2205012,
@@ -99,6 +99,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1030151,
+      "num": 1030151,
+      "word": "高一女生保送清华本硕博连读",
+      "onboard_time": 1705739007,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1007089,
       "num": 1007089,
       "word": "外媒报道赵丽颖辛芷蕾新片",
@@ -121,14 +129,6 @@
       "onboard_time": 1705677269,
       "rank": 4,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 842067,
-      "num": 842067,
-      "word": "高一女生保送清华本硕博连读",
-      "onboard_time": 1705739007,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 842003,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 614484,
-      "num": 225778,
+      "num": 264498,
       "word": "小夫妻要第三胎却意外怀上了三胞胎",
       "onboard_time": 1705737329,
       "rank": 20,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 539935,
-      "num": 225629,
+      "num": 247745,
       "word": "早睡把人际关系网都睡出来了",
       "onboard_time": 1705737506,
       "rank": 21,
@@ -491,8 +491,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 412859,
+      "num": 412859,
+      "word": "狼队 菜得让人发笑",
+      "onboard_time": 1705740745,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 404447,
-      "num": 223190,
+      "num": 232241,
       "word": "刮刮乐中100万的那个年轻人消失了",
       "onboard_time": 1705735585,
       "rank": 31,
@@ -513,6 +521,14 @@
       "onboard_time": 1705711284,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397670,
+      "num": 397670,
+      "word": "惹了沈星回 等于谁都没惹",
+      "onboard_time": 1705741047,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 390526,
@@ -537,14 +553,6 @@
       "onboard_time": 1705720045,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 375525,
-      "num": 375525,
-      "word": "狼队 菜得让人发笑",
-      "onboard_time": 1705740745,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 364802,
@@ -579,6 +587,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351849,
+      "num": 237827,
+      "word": "男生喜欢甜妹是有原因的",
+      "onboard_time": 1705742068,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 350625,
+      "num": 350625,
+      "word": "Switch2",
+      "onboard_time": 1705742008,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 342593,
       "num": 228197,
       "word": "寒假工招到真正的大学生了",
@@ -609,14 +633,6 @@
       "onboard_time": 1705729165,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 328113,
-      "num": 328113,
-      "word": "惹了沈星回 等于谁都没惹",
-      "onboard_time": 1705741047,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 323647,
@@ -707,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288253,
+      "num": 288253,
+      "word": "街舞6队长穿搭",
+      "onboard_time": 1705740986,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285847,
       "num": 285847,
       "word": "4孩子置气吃醋父亲露背让抽打宣泄",
@@ -753,6 +777,14 @@
       "onboard_time": 1705670846,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266539,
+      "num": 266539,
+      "word": "女子吃一个多月胶原蛋白肝损伤",
+      "onboard_time": 1705739486,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 262941,
@@ -875,14 +907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226884,
-      "num": 226884,
-      "word": "女子吃一个多月胶原蛋白肝损伤",
-      "onboard_time": 1705739486,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 225932,
       "num": 225932,
       "word": "要久久爱首播2集不断更",
@@ -897,14 +921,6 @@
       "onboard_time": 1705723407,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219817,
-      "num": 219817,
-      "word": "街舞6队长穿搭",
-      "onboard_time": 1705740986,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 218984,
@@ -955,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209584,
-      "num": 209584,
-      "word": "男生喜欢甜妹是有原因的",
-      "onboard_time": 1705742068,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 209315,
       "num": 209315,
       "word": "庆帝高质量压轴出场",
@@ -985,6 +993,14 @@
       "onboard_time": 1705704316,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204531,
+      "num": 204531,
+      "word": "AG 回放在哪",
+      "onboard_time": 1705742784,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 204235,
@@ -1203,6 +1219,14 @@
       "category": "综艺,剧集"
     },
     {
+      "raw_hot": 169613,
+      "num": 169613,
+      "word": "章若楠什刹海滑冰",
+      "onboard_time": 1705742008,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167594,
       "num": 167594,
       "word": "郑钦文李娜正式会面",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1705734084,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166724,
+      "num": 166724,
+      "word": "天秤 硬撑",
+      "onboard_time": 1705742547,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 165727,
@@ -1419,6 +1451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138836,
+      "num": 138836,
+      "word": "以为狗走开了原来是走位",
+      "onboard_time": 1705742128,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138662,
       "num": 138662,
       "word": "A股",
@@ -1523,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127721,
+      "num": 127721,
+      "word": "本地人回哈尔滨有多陌生",
+      "onboard_time": 1705742368,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 126531,
       "num": 121804,
       "word": "第一批滑雪的人已经滑不起雪了",
@@ -1552,6 +1600,14 @@
       "word": "电影版花千骨今日上映",
       "onboard_time": 1705737144,
       "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 124119,
+      "num": 124119,
+      "word": "年会不能停",
+      "onboard_time": 1705742845,
+      "rank": 41,
       "category": "电影"
     },
     {
@@ -1611,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119814,
+      "num": 119814,
+      "word": "男中一色金泳勋",
+      "onboard_time": 1705742906,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119015,
       "num": 119015,
       "word": "深圳DYG转会公告",
@@ -1659,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112168,
+      "num": 112168,
+      "word": "知情人称杀妻案涉案二人未被谷歌裁员",
+      "onboard_time": 1705743086,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110959,
       "num": 110959,
       "word": "大寒是由冬向春的转折点",
@@ -1683,14 +1755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107555,
-      "num": 107555,
-      "word": "Switch2",
-      "onboard_time": 1705742008,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 107412,
       "num": 107412,
       "word": "张新成咬杯子 小狗叼飞盘",
@@ -1705,14 +1769,6 @@
       "onboard_time": 1705741469,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105197,
-      "num": 105197,
-      "word": "章若楠什刹海滑冰",
-      "onboard_time": 1705742008,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 104917,
@@ -1817,14 +1873,6 @@
       "onboard_time": 1705679007,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 96349,
-      "num": 96349,
-      "word": "以为狗走开了原来是走位",
-      "onboard_time": 1705742128,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 96086,
@@ -2011,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29588,
+      "num": 248403,
+      "word": "大寒迎年也迎春",
+      "onboard_time": 1705742609,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27730,
       "num": 311012,
       "word": "陈楚生专注音乐的第2个十年",
@@ -2087,6 +2143,9 @@
     },
     {
       "word": "#坚定科技报国为民造福理想#"
+    },
+    {
+      "word": "#促进人的全面发展和社会全面进步#"
     }
   ]
 }
