@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/20 22:15:32
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/20 22:33:59
 </p>
 </blockquote>
 <p>
@@ -1251,6 +1251,12 @@ A先生跳海（热度：1721660）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E4%BB%B6%E8%AD%A6%E5%AF%9F%E5%8E%85%E9%95%BF%E8%A2%AB%E6%8E%A7%E8%BF%87%E5%A4%B1%E6%9D%80%E4%BA%BA%23" target="weibo">
+梨泰院踩踏事件警察厅长被控过失杀人（热度：1623885）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%80%89%E4%B8%BE%23" target="weibo">
 台湾选举（热度：1623600）
 </a>
@@ -1523,12 +1529,6 @@ APP未经同意跳转广告涉嫌违法（热度：1510146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%97%E5%86%8D%E5%8D%96%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E4%B8%87%E8%BE%BE%E5%B9%BF%E5%9C%BA%23" target="weibo">
 王健林再卖一线城市万达广场（热度：1485559）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E4%BB%B6%E8%AD%A6%E5%AF%9F%E5%8E%85%E9%95%BF%E8%A2%AB%E6%8E%A7%E8%BF%87%E5%A4%B1%E6%9D%80%E4%BA%BA%23" target="weibo">
-梨泰院踩踏事件警察厅长被控过失杀人（热度：1482321）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705760132618,
+  "endTime": 1705761239955,
   "band_list": [
     {
       "raw_hot": 2382451,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1482321,
-      "num": 1482321,
+      "raw_hot": 1623885,
+      "num": 1623885,
       "word": "梨泰院踩踏事件警察厅长被控过失杀人",
       "onboard_time": 1705757609,
       "rank": 48,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785231,
+      "num": 785231,
+      "word": "街舞6总决赛",
+      "onboard_time": 1705759591,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 779555,
       "num": 779555,
       "word": "董宇辉账号认证变更",
@@ -313,6 +321,14 @@
       "onboard_time": 1705680148,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 737932,
+      "num": 737932,
+      "word": "徐明浩闪现街舞总决赛",
+      "onboard_time": 1705760129,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 737122,
@@ -409,6 +425,14 @@
       "onboard_time": 1705732647,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 638324,
+      "num": 638324,
+      "word": "王一博HipHop Forever",
+      "onboard_time": 1705761152,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 637792,
@@ -611,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 498214,
+      "num": 242595,
+      "word": "原来iPhone18离我们越来越近了",
+      "onboard_time": 1705760191,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 487571,
       "num": 487571,
       "word": "王海举报小杨哥带货假五常大米",
@@ -657,14 +689,6 @@
       "onboard_time": 1705722748,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 459802,
-      "num": 459802,
-      "word": "街舞6总决赛",
-      "onboard_time": 1705759591,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 456698,
@@ -825,6 +849,14 @@
       "onboard_time": 1705744346,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372531,
+      "num": 240515,
+      "word": "让男朋友猜到底谁是小三",
+      "onboard_time": 1705760552,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 364802,
@@ -1123,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266660,
+      "num": 266660,
+      "word": "狼队飞车十冠",
+      "onboard_time": 1705760249,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 266574,
       "num": 229385,
       "word": "当代研究生下午茶",
@@ -1211,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246636,
+      "num": 239707,
+      "word": "刘涛说害怕胡歌家的七只猫",
+      "onboard_time": 1705760552,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243915,
       "num": 177828,
       "word": "袁大帅给杨洋化妆",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1705745006,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 240295,
+      "num": 240295,
+      "word": "男子徒手接住6楼坠落男孩",
+      "onboard_time": 1705759952,
+      "rank": 34,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 238068,
@@ -1265,6 +1321,14 @@
       "onboard_time": 1705753109,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234529,
+      "num": 234529,
+      "word": "范丞丞给杨紫整惭愧了",
+      "onboard_time": 1705760673,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 233117,
@@ -1305,6 +1369,14 @@
       "onboard_time": 1705647927,
       "rank": 19,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 228811,
+      "num": 228811,
+      "word": "房东见证7年租客结婚生子帮带娃",
+      "onboard_time": 1705759287,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227333,
@@ -1465,6 +1537,14 @@
       "onboard_time": 1705704316,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204917,
+      "num": 204917,
+      "word": "阿K零分",
+      "onboard_time": 1705759890,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 204531,
@@ -1803,14 +1883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176625,
-      "num": 176625,
-      "word": "房东见证7年租客结婚生子帮带娃",
-      "onboard_time": 1705759287,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176381,
       "num": 176381,
       "word": "本地人回哈尔滨有多陌生",
@@ -1907,14 +1979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162637,
-      "num": 162637,
-      "word": "阿K零分",
-      "onboard_time": 1705759890,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161527,
       "num": 161527,
       "word": "水瓶座生日快乐",
@@ -1939,20 +2003,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159193,
+      "num": 159193,
+      "word": "广东存在感最低的城市",
+      "onboard_time": 1705759829,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159093,
       "num": 194620,
       "word": "网友喊话几小时后沈阳站站回来了",
       "onboard_time": 1705757371,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158008,
-      "num": 158008,
-      "word": "广东存在感最低的城市",
-      "onboard_time": 1705759829,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 156606,
@@ -2259,6 +2323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 130592,
+      "num": 130592,
+      "word": "过年亲戚问话怎么发癫",
+      "onboard_time": 1705760975,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129581,
       "num": 129581,
       "word": "春运火车票加大优惠力度",
@@ -2529,14 +2601,6 @@
       "onboard_time": 1705681405,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 106309,
-      "num": 166341,
-      "word": "男子徒手接住6楼坠落男孩",
-      "onboard_time": 1705759952,
-      "rank": 34,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 106076,
@@ -2954,6 +3018,9 @@
     },
     {
       "word": "#促进人的全面发展和社会全面进步#"
+    },
+    {
+      "word": "#坚持把防控风险作为金融工作的永恒主题#"
     }
   ]
 }
