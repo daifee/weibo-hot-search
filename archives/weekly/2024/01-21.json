@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705790035224,
+  "endTime": 1705792727098,
   "band_list": [
     {
       "raw_hot": 1230180,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166980,
+      "num": 166980,
+      "word": "黄文秀母校连续三年采购她生前驻村砂糖橘",
+      "onboard_time": 1705776255,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159702,
       "num": 159702,
       "word": "房东见证7年租客结婚生子帮带娃",
@@ -257,6 +265,14 @@
       "onboard_time": 1705765647,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 143753,
+      "num": 143753,
+      "word": "陈都灵称饰演花千骨有压力",
+      "onboard_time": 1705778234,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 142499,
@@ -403,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78835,
+      "num": 78835,
+      "word": "马树山事件调查核查工作正全面开展",
+      "onboard_time": 1705789453,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77068,
       "num": 77068,
       "word": "小夫妻要第三胎却意外怀上了三胞胎",
@@ -417,22 +441,6 @@
       "onboard_time": 1705752025,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 72869,
-      "num": 72869,
-      "word": "黄文秀母校连续三年采购她生前驻村砂糖橘",
-      "onboard_time": 1705776255,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69610,
-      "num": 69379,
-      "word": "陈都灵称饰演花千骨有压力",
-      "onboard_time": 1705778234,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 69579,
@@ -451,12 +459,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69221,
+      "num": 69221,
+      "word": "PoppinC街舞6总冠军",
+      "onboard_time": 1705792156,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67607,
       "num": 77064,
       "word": "文俊辉直播",
       "onboard_time": 1705758630,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58484,
+      "num": 58484,
+      "word": "美35岁女子连生12个娃",
+      "onboard_time": 1705784771,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52966,
@@ -467,15 +491,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49110,
-      "num": 24813,
-      "word": "美35岁女子连生12个娃",
-      "onboard_time": 1705784771,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45966,
+      "raw_hot": 50540,
       "num": 431349,
       "word": "博士乘组一个意外发现改变太空授课",
       "onboard_time": 1705755989,
@@ -483,20 +499,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21051,
-      "num": 21051,
+      "raw_hot": 40962,
+      "num": 40962,
       "word": "这年终奖也太接地气了",
       "onboard_time": 1705780934,
       "rank": 49,
       "category": "幽默"
     },
     {
-      "raw_hot": 17979,
-      "num": 17979,
-      "word": "马树山事件调查核查工作正全面开展",
-      "onboard_time": 1705789453,
-      "rank": 38,
+      "raw_hot": 36196,
+      "num": 36196,
+      "word": "山东菏泽一仓房爆炸照亮黑夜",
+      "onboard_time": 1705792458,
+      "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35315,
+      "num": 35315,
+      "word": "微星致歉",
+      "onboard_time": 1705792458,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 16003,
