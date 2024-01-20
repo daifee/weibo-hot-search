@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705767720581,
+  "endTime": 1705768680489,
   "band_list": [
     {
       "raw_hot": 1230180,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639121,
+      "num": 639121,
+      "word": "南太铉涉吸毒被判缓刑",
+      "onboard_time": 1705766068,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 615145,
       "num": 615145,
       "word": "海归姑娘回国卖烧麦一年卖出2个亿",
       "onboard_time": 1705763010,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 602827,
-      "num": 602827,
-      "word": "南太铉涉吸毒被判缓刑",
-      "onboard_time": 1705766068,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 507366,
@@ -73,6 +73,14 @@
       "onboard_time": 1705763069,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 383771,
+      "num": 383771,
+      "word": "秦岚手机丢了",
+      "onboard_time": 1705766971,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 383515,
@@ -131,20 +139,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244834,
+      "num": 238654,
+      "word": "27岁定律",
+      "onboard_time": 1705755268,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243667,
       "num": 243667,
       "word": "夫妻先后患癌原因就在饭桌上",
       "onboard_time": 1705752025,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 238654,
-      "num": 238654,
-      "word": "27岁定律",
-      "onboard_time": 1705755268,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 235281,
@@ -193,14 +201,6 @@
       "onboard_time": 1705752390,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187775,
-      "num": 241835,
-      "word": "秦岚手机丢了",
-      "onboard_time": 1705766971,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 180902,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75611,
+      "num": 75611,
+      "word": "舅舅向炫富的外甥借钱",
+      "onboard_time": 1705752025,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69579,
       "num": 77066,
       "word": "律师谈华人工程师杀妻案如何量刑",
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#坚持把防控风险作为金融工作的永恒主题#"
+    },
+    {
+      "word": "#促进人的全面发展和社会全面进步#"
     }
   ]
 }
