@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705725357564,
+  "endTime": 1705727790954,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1705028849,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1930567,
+      "num": 1930567,
+      "word": "吴宣仪和粉丝哭穷",
+      "onboard_time": 1705724965,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1922878,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705319971,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1385205,
-      "num": 590888,
-      "word": "中国单身汉开始涌向尼泊尔找老婆",
-      "onboard_time": 1704432392,
-      "rank": 31,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
