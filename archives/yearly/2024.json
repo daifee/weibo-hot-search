@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705720723308,
+  "endTime": 1705721671541,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2187,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1430322,
+      "num": 1430322,
+      "word": "毛晓慧 对不起丑到大家了",
+      "onboard_time": 1705720406,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1428563,
       "num": 1428563,
       "word": "北京上空出现疑似不明飞行物",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704432392,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1381638,
-      "num": 1381638,
-      "word": "iPhone16Pro渲染图曝光",
-      "onboard_time": 1704414874,
-      "rank": 1,
-      "category": "数码"
     }
   ],
   "hotgov_list": [
