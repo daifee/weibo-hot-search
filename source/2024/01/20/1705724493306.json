@@ -1,0 +1,410 @@
+{
+  "runTime": 1705724493306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2198965,
+        "num": 2198965,
+        "word": "毛晓慧 对不起丑到大家了",
+        "onboard_time": 1705720406,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1477796,
+        "num": 1477796,
+        "word": "王健林已卖10座万达广场",
+        "onboard_time": 1705716686,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14709,
+        "num": 1319817,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1271720,
+        "num": 1271720,
+        "word": "庆余年2",
+        "onboard_time": 1705721726,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1101296,
+        "num": 1101296,
+        "word": "姐弟坠亡案两凶手二审态度大转变",
+        "onboard_time": 1705718126,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671775,
+        "num": 671775,
+        "word": "庆余年2全阵容预告",
+        "onboard_time": 1705719387,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 556896,
+        "num": 556896,
+        "word": "陈芋汐全英文发言",
+        "onboard_time": 1705721966,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 637792,
+        "num": 540094,
+        "word": "李沁林婉儿红衣大婚造型",
+        "onboard_time": 1705721426,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 511456,
+        "num": 511456,
+        "word": "日本爆冷",
+        "onboard_time": 1705671747,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452398,
+        "num": 452398,
+        "word": "新娘让两个弟弟穿裙子当伴娘",
+        "onboard_time": 1705712184,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911763,
+        "num": 446845,
+        "word": "河南南阳一学校发生火灾已致13人遇难",
+        "onboard_time": 1705711885,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426605,
+        "num": 426605,
+        "word": "外媒报道赵丽颖辛芷蕾新片",
+        "onboard_time": 1705712905,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 420451,
+        "num": 420451,
+        "word": "江苏坠河男生家属开直播求助遭中断",
+        "onboard_time": 1705722388,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387684,
+        "num": 387684,
+        "word": "偶遇周杰伦王俊凯一起逛街",
+        "onboard_time": 1705711347,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16070,
+        "num": 375397,
+        "word": "蛋仔派对玩具历险季",
+        "onboard_time": 1705723225,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 364802,
+        "num": 364802,
+        "word": "张学友为繁花时隔29年再唱偷心",
+        "onboard_time": 1705718907,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 357926,
+        "num": 357926,
+        "word": "你好星期六全员重返童年",
+        "onboard_time": 1705721966,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327876,
+        "num": 327876,
+        "word": "买高铁票怎么选静音车厢",
+        "onboard_time": 1705722748,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286979,
+        "num": 286979,
+        "word": "南阳学校火灾遇难者均为三年级学生",
+        "onboard_time": 1705724007,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275944,
+        "num": 275944,
+        "word": "赵今麦张凌赫面纱吻路透",
+        "onboard_time": 1705720045,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569767,
+        "num": 272354,
+        "word": "妻子怀孕后丈夫出现恶心呕吐",
+        "onboard_time": 1705722569,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262495,
+        "num": 262495,
+        "word": "为何百果园不受欢迎了",
+        "onboard_time": 1705715005,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243655,
+        "num": 243655,
+        "word": "华中农大教授曾找举报同学交流",
+        "onboard_time": 1705710140,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235567,
+        "num": 235567,
+        "word": "庆余年第二季",
+        "onboard_time": 1705719925,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234506,
+        "num": 234506,
+        "word": "985学子升学率涨势喜人",
+        "onboard_time": 1705723467,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221580,
+        "num": 221580,
+        "word": "南阳火灾事故学校这周末没放假",
+        "onboard_time": 1705723407,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214785,
+        "num": 214785,
+        "word": "这就是街舞6总决赛节目单",
+        "onboard_time": 1705723047,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204235,
+        "num": 204235,
+        "word": "恋与深空",
+        "onboard_time": 1705721785,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84141,
+        "num": 203101,
+        "word": "王者李白动画剧集收官",
+        "onboard_time": 1705722986,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203054,
+        "num": 203054,
+        "word": "虞书欣 今朝你是我的汉堡人",
+        "onboard_time": 1705722088,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202996,
+        "num": 202996,
+        "word": "庆帝高质量压轴出场",
+        "onboard_time": 1705721785,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199409,
+        "num": 199409,
+        "word": "小杨哥称没卖过假五常大米",
+        "onboard_time": 1705716507,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196060,
+        "num": 196060,
+        "word": "杨紫轻甜糖果妆",
+        "onboard_time": 1705722209,
+        "rank": 32,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 195351,
+        "num": 195351,
+        "word": "郑钦文晋级澳网16强",
+        "onboard_time": 1705723407,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183548,
+        "num": 183548,
+        "word": "小男孩腿脚太快弄丢姥姥被妈妈灵魂拷问",
+        "onboard_time": 1705709363,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170674,
+        "num": 170674,
+        "word": "Jennie去看了曹承衍演唱会",
+        "onboard_time": 1705713748,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169765,
+        "num": 169765,
+        "word": "世界之外 上头",
+        "onboard_time": 1705713987,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183409,
+        "num": 167762,
+        "word": "杨紫范丞丞开播海报",
+        "onboard_time": 1705723825,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162535,
+        "num": 162535,
+        "word": "如果奔跑 撕碎婚姻的虚伪体面",
+        "onboard_time": 1705715065,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159615,
+        "num": 159615,
+        "word": "宋亚轩 糟了要长脑子了",
+        "onboard_time": 1705719746,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152265,
+        "num": 152265,
+        "word": "夏目友人帐第七季",
+        "onboard_time": 1705722808,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147250,
+        "num": 147250,
+        "word": "越卖越便宜的iPhone不香了吗",
+        "onboard_time": 1705714824,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140922,
+        "num": 140922,
+        "word": "起火学校附近商户发声",
+        "onboard_time": 1705723648,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13300,
+        "num": 134903,
+        "word": "大寒到 年味来",
+        "onboard_time": 1705720647,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134860,
+        "num": 134860,
+        "word": "布克52分",
+        "onboard_time": 1705723167,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128078,
+        "num": 128078,
+        "word": "韩国仁川新地标被质疑抄袭广州塔",
+        "onboard_time": 1705724427,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125221,
+        "num": 125221,
+        "word": "郑钦文vs王雅繁",
+        "onboard_time": 1705718846,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122654,
+        "num": 122654,
+        "word": "其实睡不着的是张怀民",
+        "onboard_time": 1705716025,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117570,
+        "num": 117570,
+        "word": "重庆姐弟坠亡案孩子生母现状",
+        "onboard_time": 1705711284,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112605,
+        "num": 112605,
+        "word": "赵丽颖无台词表演的动人之处",
+        "onboard_time": 1705720286,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定科技报国为民造福理想#"
+    }
+  }
+}
