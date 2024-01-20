@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705779251764,
+  "endTime": 1705781895692,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -52627,20 +52627,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 69610,
+      "num": 61639,
+      "word": "陈都灵称饰演花千骨有压力",
+      "onboard_time": 1705778234,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69534,
       "num": 69534,
       "word": "韩红唱成都时飙泪背后原因让人动容",
       "onboard_time": 1705769902,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69169,
-      "num": 61639,
-      "word": "陈都灵称饰演花千骨有压力",
-      "onboard_time": 1705778234,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 69085,
@@ -54883,6 +54883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26518,
+      "num": 26518,
+      "word": "黄文秀母校连续三年采购她生前驻村砂糖橘",
+      "onboard_time": 1705776255,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26496,
       "num": 171809,
       "word": "陈泽带火各地必玩景点",
@@ -54969,14 +54977,6 @@
       "onboard_time": 1704997637,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 23746,
-      "num": 23746,
-      "word": "黄文秀母校连续三年采购她生前驻村砂糖橘",
-      "onboard_time": 1705776255,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23607,
