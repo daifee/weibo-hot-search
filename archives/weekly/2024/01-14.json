@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705743258373,
+  "endTime": 1705745875417,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -345,6 +345,14 @@
       "onboard_time": 1705375769,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1890104,
+      "num": 1890104,
+      "word": "美警方称杀妻中国工程师高度残忍",
+      "onboard_time": 1705743325,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1868676,
@@ -1699,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 911351,
+      "num": 911351,
+      "word": "唐嫣希望原班人马拍繁花2",
+      "onboard_time": 1705739906,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 909993,
       "num": 909993,
       "word": "退烧后的淄博",
@@ -1948,7 +1964,7 @@
     },
     {
       "raw_hot": 828616,
-      "num": 828616,
+      "num": 866181,
       "word": "高校偷偷为学生免费充了480度电",
       "onboard_time": 1705726346,
       "rank": 21,
@@ -1993,6 +2009,14 @@
       "onboard_time": 1705238494,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 815059,
+      "num": 815059,
+      "word": "丁程鑫追星成功王一博",
+      "onboard_time": 1705744706,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 813507,
@@ -2113,14 +2137,6 @@
       "onboard_time": 1705451127,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 792388,
-      "num": 792388,
-      "word": "唐嫣希望原班人马拍繁花2",
-      "onboard_time": 1705739906,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 789856,
@@ -3916,7 +3932,7 @@
     },
     {
       "raw_hot": 539935,
-      "num": 247745,
+      "num": 256324,
       "word": "早睡把人际关系网都睡出来了",
       "onboard_time": 1705737506,
       "rank": 21,
@@ -4787,6 +4803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456698,
+      "num": 456698,
+      "word": "Switch2",
+      "onboard_time": 1705742008,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 456040,
       "num": 417479,
       "word": "微博之夜互送礼物拉表",
@@ -5307,6 +5331,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 411561,
+      "num": 411561,
+      "word": "惹了沈星回 等于谁都没惹",
+      "onboard_time": 1705741047,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 411071,
       "num": 293060,
       "word": "周也给每对CP一个家",
@@ -5396,7 +5428,7 @@
     },
     {
       "raw_hot": 404447,
-      "num": 232241,
+      "num": 252126,
       "word": "刮刮乐中100万的那个年轻人消失了",
       "onboard_time": 1705735585,
       "rank": 31,
@@ -5467,20 +5499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 397670,
-      "num": 397670,
-      "word": "惹了沈星回 等于谁都没惹",
-      "onboard_time": 1705741047,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 397378,
       "num": 397378,
       "word": "不要忽视霉菌对身体的危害",
       "onboard_time": 1705284328,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 396896,
+      "num": 396896,
+      "word": "九省联考英语",
+      "onboard_time": 1705743866,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 396373,
@@ -6148,7 +6180,7 @@
     },
     {
       "raw_hot": 351849,
-      "num": 237827,
+      "num": 252624,
       "word": "男生喜欢甜妹是有原因的",
       "onboard_time": 1705742068,
       "rank": 28,
@@ -6161,14 +6193,6 @@
       "onboard_time": 1705578508,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 350625,
-      "num": 350625,
-      "word": "Switch2",
-      "onboard_time": 1705742008,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 350442,
@@ -6225,6 +6249,14 @@
       "onboard_time": 1705417352,
       "rank": 18,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 346439,
+      "num": 258620,
+      "word": "天秤 硬撑",
+      "onboard_time": 1705742547,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 346191,
@@ -6483,6 +6515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326791,
+      "num": 1030764,
+      "word": "山东大姐卖37年炉包供出研究生儿子",
+      "onboard_time": 1705744226,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324106,
       "num": 324106,
       "word": "两万五的苹果头显值得买吗",
@@ -6633,6 +6673,14 @@
       "onboard_time": 1705384651,
       "rank": 17,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 318281,
+      "num": 318281,
+      "word": "花花被夺笋后淡定再来一根",
+      "onboard_time": 1705744346,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318092,
@@ -7747,6 +7795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 267749,
+      "num": 267749,
+      "word": "知情人称杀妻案涉案二人未被谷歌裁员",
+      "onboard_time": 1705743086,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267464,
       "num": 267464,
       "word": "GALA原来是你小子和赵露思开黑",
@@ -8489,6 +8545,14 @@
       "onboard_time": 1705309169,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244842,
+      "num": 244842,
+      "word": "张艺兴 威龙舞台",
+      "onboard_time": 1705744587,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 244494,
@@ -9363,6 +9427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222253,
+      "num": 222253,
+      "word": "变形计之要久久爱特辑",
+      "onboard_time": 1705744527,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222172,
       "num": 222172,
       "word": "胜宽CoverMV里出现文彬",
@@ -10203,6 +10275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204476,
+      "num": 204476,
+      "word": "泽连斯基因特朗普感到不安",
+      "onboard_time": 1705745006,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 204391,
       "num": 204391,
       "word": "最高检回应老干部举报当地领导被逮捕",
@@ -10379,6 +10459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201550,
+      "num": 201550,
+      "word": "杜华给贾乃亮的回复",
+      "onboard_time": 1705743450,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201381,
       "num": 201381,
       "word": "IU先行曲",
@@ -10465,6 +10553,14 @@
       "onboard_time": 1705401449,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200177,
+      "num": 200177,
+      "word": "这就是街舞直播",
+      "onboard_time": 1705743928,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 200011,
@@ -11345,6 +11441,14 @@
       "onboard_time": 1705672650,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188613,
+      "num": 188613,
+      "word": "河南发生火灾学校涵盖小学和幼儿园",
+      "onboard_time": 1705743386,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188528,
@@ -12259,6 +12363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 176381,
+      "num": 176381,
+      "word": "本地人回哈尔滨有多陌生",
+      "onboard_time": 1705742368,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 176078,
       "num": 176078,
       "word": "刘谦现身龙年央视春晚首次联排",
@@ -12961,14 +13073,6 @@
       "onboard_time": 1705625669,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 166724,
-      "num": 166724,
-      "word": "天秤 硬撑",
-      "onboard_time": 1705742547,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 166477,
@@ -13993,6 +14097,14 @@
       "onboard_time": 1705648106,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152681,
+      "num": 152681,
+      "word": "水哥倒拔庞博",
+      "onboard_time": 1705745426,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 152512,
@@ -15771,14 +15883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 127721,
-      "num": 127721,
-      "word": "本地人回哈尔滨有多陌生",
-      "onboard_time": 1705742368,
-      "rank": 39,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 127686,
       "num": 125777,
       "word": "一天在backseat里分手几十次",
@@ -16121,6 +16225,14 @@
       "onboard_time": 1705196609,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 123873,
+      "num": 123873,
+      "word": "医疗博主发布女患者隆胸视频",
+      "onboard_time": 1705745306,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123833,
@@ -16827,6 +16939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112528,
+      "num": 112528,
+      "word": "日本电商网站上线Switch2页面",
+      "onboard_time": 1705745849,
+      "rank": 49,
+      "category": "游戏,数码"
+    },
+    {
       "raw_hot": 112453,
       "num": 112453,
       "word": "咒术回战 最后的特级",
@@ -16857,14 +16977,6 @@
       "onboard_time": 1705236211,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 112168,
-      "num": 112168,
-      "word": "知情人称杀妻案涉案二人未被谷歌裁员",
-      "onboard_time": 1705743086,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112157,
@@ -18043,6 +18155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69955,
+      "num": 180410,
+      "word": "网友给宝总推荐上海特色",
+      "onboard_time": 1705744827,
+      "rank": 39,
+      "category": "社会新闻,剧集"
+    },
+    {
       "raw_hot": 68614,
       "num": 68614,
       "word": "有没有可能你其实是住公司",
@@ -18465,6 +18585,14 @@
       "onboard_time": 1705509742,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50335,
+      "num": 819491,
+      "word": "医院门诊大厅开音乐会缓解病人焦虑",
+      "onboard_time": 1705744226,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48972,

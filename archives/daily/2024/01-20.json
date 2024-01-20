@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705743258373,
+  "endTime": 1705745875417,
   "band_list": [
     {
       "raw_hot": 2205012,
@@ -32,6 +32,14 @@
       "word": "王健林已卖10座万达广场",
       "onboard_time": 1705716686,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1890104,
+      "num": 1890104,
+      "word": "美警方称杀妻中国工程师高度残忍",
+      "onboard_time": 1705743325,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 911351,
+      "num": 911351,
+      "word": "唐嫣希望原班人马拍繁花2",
+      "onboard_time": 1705739906,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 901678,
       "num": 901678,
       "word": "亳州文旅把妲己请过去了",
@@ -140,11 +156,19 @@
     },
     {
       "raw_hot": 828616,
-      "num": 828616,
+      "num": 866181,
       "word": "高校偷偷为学生免费充了480度电",
       "onboard_time": 1705726346,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 815059,
+      "num": 815059,
+      "word": "丁程鑫追星成功王一博",
+      "onboard_time": 1705744706,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 813507,
@@ -161,14 +185,6 @@
       "onboard_time": 1705724007,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 792388,
-      "num": 792388,
-      "word": "唐嫣希望原班人马拍繁花2",
-      "onboard_time": 1705739906,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 779555,
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 539935,
-      "num": 247745,
+      "num": 256324,
       "word": "早睡把人际关系网都睡出来了",
       "onboard_time": 1705737506,
       "rank": 21,
@@ -443,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456698,
+      "num": 456698,
+      "word": "Switch2",
+      "onboard_time": 1705742008,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 452806,
       "num": 452806,
       "word": "周杰伦找王俊凯吃早餐",
@@ -499,8 +523,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 411561,
+      "num": 411561,
+      "word": "惹了沈星回 等于谁都没惹",
+      "onboard_time": 1705741047,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 404447,
-      "num": 232241,
+      "num": 252126,
       "word": "刮刮乐中100万的那个年轻人消失了",
       "onboard_time": 1705735585,
       "rank": 31,
@@ -523,12 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 397670,
-      "num": 397670,
-      "word": "惹了沈星回 等于谁都没惹",
-      "onboard_time": 1705741047,
-      "rank": 14,
-      "category": "游戏"
+      "raw_hot": 396896,
+      "num": 396896,
+      "word": "九省联考英语",
+      "onboard_time": 1705743866,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 390526,
@@ -588,19 +620,19 @@
     },
     {
       "raw_hot": 351849,
-      "num": 237827,
+      "num": 252624,
       "word": "男生喜欢甜妹是有原因的",
       "onboard_time": 1705742068,
       "rank": 28,
       "category": "情感"
     },
     {
-      "raw_hot": 350625,
-      "num": 350625,
-      "word": "Switch2",
-      "onboard_time": 1705742008,
-      "rank": 41,
-      "category": "游戏"
+      "raw_hot": 346439,
+      "num": 258620,
+      "word": "天秤 硬撑",
+      "onboard_time": 1705742547,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 342593,
@@ -635,6 +667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 326791,
+      "num": 1030764,
+      "word": "山东大姐卖37年炉包供出研究生儿子",
+      "onboard_time": 1705744226,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323647,
       "num": 323647,
       "word": "3岁男童高烧惊厥幼师急得跪地拦车",
@@ -657,6 +697,14 @@
       "onboard_time": 1705713748,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 318281,
+      "num": 318281,
+      "word": "花花被夺笋后淡定再来一根",
+      "onboard_time": 1705744346,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315528,
@@ -779,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267749,
+      "num": 267749,
+      "word": "知情人称杀妻案涉案二人未被谷歌裁员",
+      "onboard_time": 1705743086,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266539,
       "num": 266539,
       "word": "女子吃一个多月胶原蛋白肝损伤",
@@ -841,6 +897,14 @@
       "onboard_time": 1705727069,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244842,
+      "num": 244842,
+      "word": "张艺兴 威龙舞台",
+      "onboard_time": 1705744587,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 243915,
@@ -913,6 +977,14 @@
       "onboard_time": 1705725927,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222253,
+      "num": 222253,
+      "word": "变形计之要久久爱特辑",
+      "onboard_time": 1705744527,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 221580,
@@ -1003,6 +1075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204476,
+      "num": 204476,
+      "word": "泽连斯基因特朗普感到不安",
+      "onboard_time": 1705745006,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 204235,
       "num": 204235,
       "word": "恋与深空",
@@ -1019,12 +1099,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201550,
+      "num": 201550,
+      "word": "杜华给贾乃亮的回复",
+      "onboard_time": 1705743450,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200346,
       "num": 163880,
       "word": "陈祥龙游羊官宣",
       "onboard_time": 1705738708,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 200177,
+      "num": 200177,
+      "word": "这就是街舞直播",
+      "onboard_time": 1705743928,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 198562,
@@ -1107,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188613,
+      "num": 188613,
+      "word": "河南发生火灾学校涵盖小学和幼儿园",
+      "onboard_time": 1705743386,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188449,
       "num": 182290,
       "word": "街边80一斤的凉拌土鸡",
@@ -1187,6 +1291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176381,
+      "num": 176381,
+      "word": "本地人回哈尔滨有多陌生",
+      "onboard_time": 1705742368,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 174898,
       "num": 174898,
       "word": "宋亚轩 糟了要长脑子了",
@@ -1241,14 +1353,6 @@
       "onboard_time": 1705734084,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166724,
-      "num": 166724,
-      "word": "天秤 硬撑",
-      "onboard_time": 1705742547,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 165727,
@@ -1337,6 +1441,14 @@
       "onboard_time": 1705726346,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152681,
+      "num": 152681,
+      "word": "水哥倒拔庞博",
+      "onboard_time": 1705745426,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 152265,
@@ -1563,14 +1675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127721,
-      "num": 127721,
-      "word": "本地人回哈尔滨有多陌生",
-      "onboard_time": 1705742368,
-      "rank": 39,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 126531,
       "num": 121804,
       "word": "第一批滑雪的人已经滑不起雪了",
@@ -1617,6 +1721,14 @@
       "onboard_time": 1705720347,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123873,
+      "num": 123873,
+      "word": "医疗博主发布女患者隆胸视频",
+      "onboard_time": 1705745306,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123492,
@@ -1723,12 +1835,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112168,
-      "num": 112168,
-      "word": "知情人称杀妻案涉案二人未被谷歌裁员",
-      "onboard_time": 1705743086,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 112528,
+      "num": 112528,
+      "word": "日本电商网站上线Switch2页面",
+      "onboard_time": 1705745849,
+      "rank": 49,
+      "category": "游戏,数码"
     },
     {
       "raw_hot": 110959,
@@ -1995,6 +2107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 69955,
+      "num": 180410,
+      "word": "网友给宝总推荐上海特色",
+      "onboard_time": 1705744827,
+      "rank": 39,
+      "category": "社会新闻,剧集"
+    },
+    {
       "raw_hot": 67112,
       "num": 67112,
       "word": "莎头让二追三",
@@ -2009,6 +2129,14 @@
       "onboard_time": 1705705397,
       "rank": 37,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 50335,
+      "num": 819491,
+      "word": "医院门诊大厅开音乐会缓解病人焦虑",
+      "onboard_time": 1705744226,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47983,

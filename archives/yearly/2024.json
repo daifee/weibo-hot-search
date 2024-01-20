@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705743258373,
+  "endTime": 1705745875417,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1704206677,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1890104,
+      "num": 1890104,
+      "word": "美警方称杀妻中国工程师高度残忍",
+      "onboard_time": 1705743325,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1880895,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705460069,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1386445,
-      "num": 846769,
-      "word": "月经3天和7天均属正常",
-      "onboard_time": 1705319971,
-      "rank": 3,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
