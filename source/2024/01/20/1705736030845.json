@@ -1,0 +1,410 @@
+{
+  "runTime": 1705736030845,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1219868,
+        "num": 1219868,
+        "word": "毛晓慧 对不起丑到大家了",
+        "onboard_time": 1705720406,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 932586,
+        "num": 932586,
+        "word": "吴宣仪和粉丝哭穷",
+        "onboard_time": 1705724965,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55117,
+        "num": 808806,
+        "word": "铁齿钢牙大国重器在山间海底放大招",
+        "onboard_time": 1705727547,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737122,
+        "num": 737122,
+        "word": "感觉和魏大勋有点暧昧了",
+        "onboard_time": 1705732823,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694153,
+        "num": 694153,
+        "word": "董宇辉账号认证变更",
+        "onboard_time": 1705733068,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 682022,
+        "num": 682022,
+        "word": "庆余年2",
+        "onboard_time": 1705721726,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 637362,
+        "num": 637362,
+        "word": "王健林已卖10座万达广场",
+        "onboard_time": 1705716686,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580336,
+        "num": 580336,
+        "word": "鞠婧祎为毛晓慧发声",
+        "onboard_time": 1705732647,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529235,
+        "num": 529235,
+        "word": "8旬夫妇将房产过户给孙子被赶出家门",
+        "onboard_time": 1705732345,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464506,
+        "num": 464506,
+        "word": "高校偷偷为学生免费充了480度电",
+        "onboard_time": 1705726346,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452806,
+        "num": 452806,
+        "word": "周杰伦找王俊凯吃早餐",
+        "onboard_time": 1705733424,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448864,
+        "num": 448864,
+        "word": "遭男同学抽凳摔断肋骨当事女生发声",
+        "onboard_time": 1705727727,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390526,
+        "num": 390526,
+        "word": "普京钻进冰窟窿沐浴",
+        "onboard_time": 1705734022,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380076,
+        "num": 380076,
+        "word": "哈佛女孩刘亦婷",
+        "onboard_time": 1705733966,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 334031,
+        "num": 334031,
+        "word": "吴宣仪回应争议",
+        "onboard_time": 1705727904,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322801,
+        "num": 322801,
+        "word": "李娜现身澳网",
+        "onboard_time": 1705734986,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309641,
+        "num": 309641,
+        "word": "茅子俊把白子画杀阡陌都演了",
+        "onboard_time": 1705734748,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281054,
+        "num": 281054,
+        "word": "南阳学校火灾一对双胞胎中一人离世",
+        "onboard_time": 1705735226,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267978,
+        "num": 267978,
+        "word": "王一博中式印花短褂",
+        "onboard_time": 1705732525,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260044,
+        "num": 260044,
+        "word": "姐弟坠亡案两凶手二审态度大转变",
+        "onboard_time": 1705718126,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343050,
+        "num": 260012,
+        "word": "妻子怀孕后丈夫出现恶心呕吐",
+        "onboard_time": 1705722569,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259273,
+        "num": 259273,
+        "word": "周杰伦林俊杰生图",
+        "onboard_time": 1705731984,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243562,
+        "num": 243562,
+        "word": "起猛了在庆余年2看到羽皇了",
+        "onboard_time": 1705734867,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210452,
+        "num": 210452,
+        "word": "萨摩耶把边牧关进了笼子",
+        "onboard_time": 1705733485,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173017,
+        "num": 173017,
+        "word": "仙剑四五毒兽上线",
+        "onboard_time": 1705732345,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169252,
+        "num": 169252,
+        "word": "新娘让两个弟弟穿裙子当伴娘",
+        "onboard_time": 1705712184,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163359,
+        "num": 163359,
+        "word": "秦岚嗓子快好了",
+        "onboard_time": 1705729165,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161747,
+        "num": 161747,
+        "word": "巴基斯坦恢复与伊朗关系",
+        "onboard_time": 1705726286,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 157509,
+        "num": 157509,
+        "word": "当狗子偷吃了一整包红薯干",
+        "onboard_time": 1705734084,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154176,
+        "num": 154176,
+        "word": "仙剑之父点赞许凯",
+        "onboard_time": 1705734626,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191939,
+        "num": 153307,
+        "word": "大白鹅舔铁舌头被冻住",
+        "onboard_time": 1705735046,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188189,
+        "num": 152865,
+        "word": "刮刮乐中100万的那个年轻人消失了",
+        "onboard_time": 1705735585,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152360,
+        "num": 152360,
+        "word": "日本爆冷",
+        "onboard_time": 1705671747,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150258,
+        "num": 150258,
+        "word": "张学友为繁花时隔29年再唱偷心",
+        "onboard_time": 1705718907,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149481,
+        "num": 149481,
+        "word": "Meta市值逼近1万亿美元",
+        "onboard_time": 1705735767,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144951,
+        "num": 144951,
+        "word": "985学子升学率涨势喜人",
+        "onboard_time": 1705723467,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144587,
+        "num": 144587,
+        "word": "韩国仁川新地标被质疑抄袭广州塔",
+        "onboard_time": 1705724427,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140829,
+        "num": 140829,
+        "word": "义乌200多岁的玉兰古树开花了",
+        "onboard_time": 1705734326,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 140610,
+        "num": 140610,
+        "word": "一个孕一个吐分工明确",
+        "onboard_time": 1705735767,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139645,
+        "num": 139645,
+        "word": "马思纯晒杨紫范丞丞导演拍立得",
+        "onboard_time": 1705728388,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128669,
+        "num": 128669,
+        "word": "董宇辉账号认证不再是东方甄选主播",
+        "onboard_time": 1705735165,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119397,
+        "num": 119397,
+        "word": "河南南阳一学校发生火灾已致13人遇难",
+        "onboard_time": 1705711885,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117215,
+        "num": 117215,
+        "word": "外媒报道赵丽颖辛芷蕾新片",
+        "onboard_time": 1705712905,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114781,
+        "num": 114781,
+        "word": "为何百果园不受欢迎了",
+        "onboard_time": 1705715005,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114222,
+        "num": 114222,
+        "word": "世界之外 上头",
+        "onboard_time": 1705713987,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103803,
+        "num": 103803,
+        "word": "马嘉祺居家vlog",
+        "onboard_time": 1705733906,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101837,
+        "num": 101837,
+        "word": "陈芋汐全英文发言",
+        "onboard_time": 1705721966,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101174,
+        "num": 101174,
+        "word": "商竣程退赛",
+        "onboard_time": 1705735284,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96759,
+        "num": 96759,
+        "word": "茅子俊力挺毛晓慧",
+        "onboard_time": 1705727787,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96043,
+        "num": 96043,
+        "word": "与恶魔有约15集好虐",
+        "onboard_time": 1705728567,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设金融强国使命在肩#"
+    }
+  }
+}
