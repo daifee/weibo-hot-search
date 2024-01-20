@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705713396751,
+  "endTime": 1705714624189,
   "band_list": [
     {
       "raw_hot": 2205012,
@@ -8,6 +8,14 @@
       "word": "河南南阳一学校发生火灾已致13人遇难",
       "onboard_time": 1705711885,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1420747,
+      "num": 1420747,
+      "word": "重庆姐弟坠亡案孩子生母现状",
+      "onboard_time": 1705711284,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -35,12 +43,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1046339,
-      "num": 1046339,
-      "word": "重庆姐弟坠亡案孩子生母现状",
-      "onboard_time": 1705711284,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 1007089,
+      "num": 1007089,
+      "word": "外媒报道赵丽颖辛芷蕾新片",
+      "onboard_time": 1705712905,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 921373,
@@ -59,6 +67,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 813507,
+      "num": 813507,
+      "word": "偶遇周杰伦王俊凯一起逛街",
+      "onboard_time": 1705711347,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 775617,
       "num": 775617,
       "word": "萧山通报郝劭文称女儿被霸凌事件",
@@ -75,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 758025,
-      "num": 758025,
-      "word": "偶遇周杰伦王俊凯一起逛街",
-      "onboard_time": 1705711347,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 756297,
       "num": 756297,
       "word": "哈佛女孩刘亦婷成为美国普通中产",
@@ -97,6 +105,14 @@
       "onboard_time": 1705680148,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 686863,
+      "num": 686863,
+      "word": "新娘让两个弟弟穿裙子当伴娘",
+      "onboard_time": 1705712184,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 671321,
@@ -129,14 +145,6 @@
       "onboard_time": 1705675589,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 501142,
-      "num": 501142,
-      "word": "外媒报道赵丽颖辛芷蕾新片",
-      "onboard_time": 1705712905,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 487571,
@@ -211,14 +219,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 331702,
-      "num": 331702,
-      "word": "新娘让两个弟弟穿裙子当伴娘",
-      "onboard_time": 1705712184,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323647,
       "num": 323647,
       "word": "3岁男童高烧惊厥幼师急得跪地拦车",
@@ -243,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 287814,
+      "num": 287814,
+      "word": "河南一学校发生火灾负责人已被控制",
+      "onboard_time": 1705713867,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285847,
       "num": 285847,
       "word": "4孩子置气吃醋父亲露背让抽打宣泄",
@@ -260,11 +268,19 @@
     },
     {
       "raw_hot": 270794,
-      "num": 233903,
+      "num": 235200,
       "word": "女子发现金戒指褪色竟救自己一命",
       "onboard_time": 1705670846,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258403,
+      "num": 258403,
+      "word": "世界之外 上头",
+      "onboard_time": 1705713987,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 248865,
@@ -289,6 +305,14 @@
       "onboard_time": 1705694833,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237912,
+      "num": 237912,
+      "word": "Jennie去看了曹承衍演唱会",
+      "onboard_time": 1705713748,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 231992,
@@ -321,6 +345,14 @@
       "onboard_time": 1705695972,
       "rank": 45,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 211261,
+      "num": 211261,
+      "word": "关晓彤被沈腾挡雨的动作帅到了",
+      "onboard_time": 1705712424,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 208461,
@@ -371,14 +403,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 185895,
-      "num": 185895,
-      "word": "关晓彤被沈腾挡雨的动作帅到了",
-      "onboard_time": 1705712424,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185209,
       "num": 180939,
       "word": "这是古墓派单位房吗",
@@ -427,12 +451,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 149164,
+      "num": 149164,
+      "word": "王楚钦孙颖莎逆转夺冠",
+      "onboard_time": 1705708581,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147079,
       "num": 147079,
       "word": "边伯贤费加罗中国首封预告",
       "onboard_time": 1705677089,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 146288,
+      "num": 146288,
+      "word": "萌兰小jio一蹬又在越狱了",
+      "onboard_time": 1705713445,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140596,
@@ -451,12 +491,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 136426,
-      "num": 136426,
-      "word": "王楚钦孙颖莎逆转夺冠",
-      "onboard_time": 1705708581,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 134212,
+      "num": 134212,
+      "word": "韩菱纱被附身",
+      "onboard_time": 1705712606,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 133704,
@@ -523,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115706,
+      "num": 115706,
+      "word": "太空回来的导师提起备课滔滔不绝",
+      "onboard_time": 1705713264,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115208,
       "num": 115208,
       "word": "迪奥男装秀",
@@ -555,12 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107538,
-      "num": 107538,
-      "word": "韩菱纱被附身",
-      "onboard_time": 1705712606,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 108777,
+      "num": 108777,
+      "word": "尿酸高偏方",
+      "onboard_time": 1705714528,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 107412,
@@ -595,6 +643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98006,
+      "num": 98006,
+      "word": "女子爬泰山拍到罕见碧霞宝光",
+      "onboard_time": 1705714585,
+      "rank": 49,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 97646,
       "num": 97646,
       "word": "机智的医生生活 翻拍",
@@ -617,14 +673,6 @@
       "onboard_time": 1705664547,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96076,
-      "num": 96076,
-      "word": "太空回来的导师提起备课滔滔不绝",
-      "onboard_time": 1705713264,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92339,
@@ -811,7 +859,7 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 8390,
+      "raw_hot": 9634,
       "num": 1141995,
       "word": "相约冰雪",
       "onboard_time": 1705410872,

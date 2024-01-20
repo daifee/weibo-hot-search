@@ -1,0 +1,410 @@
+{
+  "runTime": 1705714624189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2200237,
+        "num": 2200237,
+        "word": "河南南阳一学校发生火灾已致13人遇难",
+        "onboard_time": 1705711885,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1420747,
+        "num": 1420747,
+        "word": "重庆姐弟坠亡案孩子生母现状",
+        "onboard_time": 1705711284,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9634,
+        "num": 1092515,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007089,
+        "num": 1007089,
+        "word": "外媒报道赵丽颖辛芷蕾新片",
+        "onboard_time": 1705712905,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 813507,
+        "num": 813507,
+        "word": "偶遇周杰伦王俊凯一起逛街",
+        "onboard_time": 1705711347,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686863,
+        "num": 686863,
+        "word": "新娘让两个弟弟穿裙子当伴娘",
+        "onboard_time": 1705712184,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678419,
+        "num": 678419,
+        "word": "日本爆冷",
+        "onboard_time": 1705671747,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 649256,
+        "num": 649256,
+        "word": "小男孩腿脚太快弄丢姥姥被妈妈灵魂拷问",
+        "onboard_time": 1705709363,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489183,
+        "num": 489183,
+        "word": "哈佛女孩刘亦婷成为美国普通中产",
+        "onboard_time": 1705671268,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486579,
+        "num": 486579,
+        "word": "苹果成全球负债第二多的科技公司",
+        "onboard_time": 1705709061,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 470326,
+        "num": 470326,
+        "word": "萧山通报郝劭文称女儿被霸凌事件",
+        "onboard_time": 1705691114,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430742,
+        "num": 430742,
+        "word": "华中农大教授曾找举报同学交流",
+        "onboard_time": 1705710140,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422665,
+        "num": 422665,
+        "word": "亳州文旅把妲己请过去了",
+        "onboard_time": 1705677269,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 355154,
+        "num": 355154,
+        "word": "韩国人将翻拍长津湖",
+        "onboard_time": 1705668867,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331273,
+        "num": 331273,
+        "word": "张馨予近期状态",
+        "onboard_time": 1705711284,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288088,
+        "num": 288088,
+        "word": "12306回应成都至北京票价低至47元",
+        "onboard_time": 1705680388,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287814,
+        "num": 287814,
+        "word": "河南一学校发生火灾负责人已被控制",
+        "onboard_time": 1705713867,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280993,
+        "num": 280993,
+        "word": "梁朝伟拒绝被叫daddy",
+        "onboard_time": 1705692616,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266952,
+        "num": 266952,
+        "word": "3岁男童高烧惊厥幼师急得跪地拦车",
+        "onboard_time": 1705709001,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258403,
+        "num": 258403,
+        "word": "世界之外 上头",
+        "onboard_time": 1705713987,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260751,
+        "num": 252824,
+        "word": "4孩子置气吃醋父亲露背让抽打宣泄",
+        "onboard_time": 1705710084,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240239,
+        "num": 240239,
+        "word": "王海举报小杨哥带货假五常大米",
+        "onboard_time": 1705667007,
+        "rank": 21,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 237912,
+        "num": 237912,
+        "word": "Jennie去看了曹承衍演唱会",
+        "onboard_time": 1705713748,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235200,
+        "num": 235200,
+        "word": "女子发现金戒指褪色竟救自己一命",
+        "onboard_time": 1705670846,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224126,
+        "num": 224126,
+        "word": "美国男子同时让5女怀孕还办迎婴派对",
+        "onboard_time": 1705694833,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211261,
+        "num": 211261,
+        "word": "关晓彤被沈腾挡雨的动作帅到了",
+        "onboard_time": 1705712424,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209307,
+        "num": 209307,
+        "word": "何同学 做了一条流水线",
+        "onboard_time": 1705669107,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208043,
+        "num": 208043,
+        "word": "王鹤棣的店要开了",
+        "onboard_time": 1705677930,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203114,
+        "num": 203114,
+        "word": "练腿真的能瘦",
+        "onboard_time": 1705709963,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 183941,
+        "num": 183941,
+        "word": "于正替吴宣仪澄清",
+        "onboard_time": 1705675589,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181337,
+        "num": 181337,
+        "word": "街边80一斤的凉拌土鸡",
+        "onboard_time": 1705712125,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178545,
+        "num": 178545,
+        "word": "陈哲远骨相",
+        "onboard_time": 1705704316,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176734,
+        "num": 176734,
+        "word": "扎克伯格宣布再买35万个GPU",
+        "onboard_time": 1705710442,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175486,
+        "num": 175486,
+        "word": "这是古墓派单位房吗",
+        "onboard_time": 1705712125,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169844,
+        "num": 169844,
+        "word": "尔滨有一片橘子味的钻石海",
+        "onboard_time": 1705706057,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 158607,
+        "num": 158607,
+        "word": "大寒",
+        "onboard_time": 1705706057,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155047,
+        "num": 155047,
+        "word": "寒假工招到真正的大学生了",
+        "onboard_time": 1705676491,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152854,
+        "num": 152854,
+        "word": "不会再有第二个恋与制作人了",
+        "onboard_time": 1705676190,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149164,
+        "num": 149164,
+        "word": "王楚钦孙颖莎逆转夺冠",
+        "onboard_time": 1705708581,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146288,
+        "num": 146288,
+        "word": "萌兰小jio一蹬又在越狱了",
+        "onboard_time": 1705713445,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134212,
+        "num": 134212,
+        "word": "韩菱纱被附身",
+        "onboard_time": 1705712606,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124633,
+        "num": 124633,
+        "word": "王楚钦孙颖莎3比2林高远王曼昱",
+        "onboard_time": 1705707980,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119420,
+        "num": 119420,
+        "word": "日本小型探测器着陆月球表面但出故障",
+        "onboard_time": 1705709001,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 115706,
+        "num": 115706,
+        "word": "太空回来的导师提起备课滔滔不绝",
+        "onboard_time": 1705713264,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112360,
+        "num": 112360,
+        "word": "第一批滑雪的人已经滑不起雪了",
+        "onboard_time": 1705705336,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 110050,
+        "num": 110050,
+        "word": "王俊凯插兜失败",
+        "onboard_time": 1705675891,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 108777,
+        "num": 108777,
+        "word": "尿酸高偏方",
+        "onboard_time": 1705714528,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106078,
+        "num": 106078,
+        "word": "大寒是由冬向春的转折点",
+        "onboard_time": 1705711765,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105440,
+        "num": 105440,
+        "word": "虞书欣包子脸具象化",
+        "onboard_time": 1705674266,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98006,
+        "num": 98006,
+        "word": "女子爬泰山拍到罕见碧霞宝光",
+        "onboard_time": 1705714585,
+        "rank": 49,
+        "category": "社会新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#从绿色发展中寻找发展的机遇和动力#"
+    }
+  }
+}
