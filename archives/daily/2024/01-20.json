@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705750435375,
+  "endTime": 1705753874033,
   "band_list": [
     {
       "raw_hot": 2205012,
@@ -41,6 +41,14 @@
       "onboard_time": 1705716686,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1765223,
+      "num": 1765223,
+      "word": "王俊凯 很后悔昨天睡觉了",
+      "onboard_time": 1705752390,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1420747,
@@ -115,12 +123,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1081230,
+      "num": 1081230,
+      "word": "女子提离职数月才获批单位赔56万",
+      "onboard_time": 1705745906,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1030151,
       "num": 1030151,
       "word": "高一女生保送清华本硕博连读",
       "onboard_time": 1705739007,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1018661,
+      "num": 1018661,
+      "word": "学生公开华中农大教授造假证据",
+      "onboard_time": 1705751307,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1007089,
@@ -283,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 656104,
+      "num": 656104,
+      "word": "电视剧要久久爱",
+      "onboard_time": 1705751307,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 648863,
       "num": 648863,
       "word": "南阳学校火灾一对双胞胎中一人离世",
@@ -305,6 +337,14 @@
       "onboard_time": 1705721426,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 627087,
+      "num": 627087,
+      "word": "无偿to签 命硬的来",
+      "onboard_time": 1705749206,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 615362,
@@ -331,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 602353,
+      "num": 602353,
+      "word": "王一博这个笑的含金量",
+      "onboard_time": 1705752327,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 601161,
       "num": 601161,
       "word": "苹果成全球负债第二多的科技公司",
@@ -355,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 577811,
-      "num": 577811,
-      "word": "女子提离职数月才获批单位赔56万",
-      "onboard_time": 1705745906,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 564538,
       "num": 564538,
       "word": "江苏武进一企业因粉尘爆炸致8死8伤",
@@ -377,6 +417,14 @@
       "onboard_time": 1705721966,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 555403,
+      "num": 294847,
+      "word": "要久久爱开播评价",
+      "onboard_time": 1705752390,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 555268,
@@ -435,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511797,
+      "num": 293416,
+      "word": "您的十年就值这么多了",
+      "onboard_time": 1705751485,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 501534,
       "num": 1321931,
       "word": "山东大姐卖37年炉包供出研究生儿子",
@@ -457,6 +513,14 @@
       "onboard_time": 1705715065,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 489909,
+      "num": 294140,
+      "word": "夫妻先后患癌原因就在饭桌上",
+      "onboard_time": 1705752025,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 487571,
@@ -529,6 +593,14 @@
       "onboard_time": 1705716507,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 435842,
+      "num": 275830,
+      "word": "舅舅向炫富的外甥借钱",
+      "onboard_time": 1705752025,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 434992,
@@ -641,6 +713,14 @@
       "onboard_time": 1705720045,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 376021,
+      "num": 292627,
+      "word": "弟弟把你放心上你把弟弟发网上",
+      "onboard_time": 1705751369,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 372919,
@@ -819,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290836,
+      "num": 290836,
+      "word": "TF家族直播",
+      "onboard_time": 1705752988,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289539,
       "num": 289539,
       "word": "茅子俊力挺毛晓慧",
@@ -883,14 +971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275173,
-      "num": 275173,
-      "word": "无偿to签 命硬的来",
-      "onboard_time": 1705749206,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 273466,
       "num": 273466,
       "word": "马思纯晒杨紫范丞丞导演拍立得",
@@ -905,6 +985,14 @@
       "onboard_time": 1705670846,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267894,
+      "num": 267894,
+      "word": "你好星期六",
+      "onboard_time": 1705751848,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 266539,
@@ -1027,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237325,
+      "num": 237325,
+      "word": "TTG阿豆租借至DRG",
+      "onboard_time": 1705752807,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 233117,
       "num": 233117,
       "word": "约旦vs韩国",
@@ -1049,6 +1145,14 @@
       "onboard_time": 1705717286,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230594,
+      "num": 276799,
+      "word": "恋与深空心疼哥哥",
+      "onboard_time": 1705753227,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 229002,
@@ -1347,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190700,
+      "num": 190700,
+      "word": "萨摩耶 一怒之下怒了一下",
+      "onboard_time": 1705753109,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189233,
       "num": 189233,
       "word": "萌兰小jio一蹬又在越狱了",
@@ -1643,6 +1755,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 151482,
+      "num": 151482,
+      "word": "提高文笔的方法",
+      "onboard_time": 1705753291,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 151281,
       "num": 151281,
       "word": "喝烫水可能会致癌",
@@ -1689,6 +1809,14 @@
       "onboard_time": 1705677089,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 146168,
+      "num": 146168,
+      "word": "打工人一怒之下怒了一下",
+      "onboard_time": 1705751605,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 145960,
@@ -1883,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127026,
+      "num": 127026,
+      "word": "丁程鑫队长大秀Thule",
+      "onboard_time": 1705752327,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126531,
       "num": 121804,
       "word": "第一批滑雪的人已经滑不起雪了",
@@ -2027,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117194,
+      "num": 117194,
+      "word": "论小孩哥的情绪有多稳定",
+      "onboard_time": 1705751369,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115706,
       "num": 115706,
       "word": "太空回来的导师提起备课滔滔不绝",
@@ -2041,6 +2185,14 @@
       "onboard_time": 1705666586,
       "rank": 36,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 113670,
+      "num": 113670,
+      "word": "杨紫隐忍式哭戏",
+      "onboard_time": 1705753827,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 113545,

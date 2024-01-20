@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705750435375,
+  "endTime": 1705753874033,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1331,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1765223,
+      "num": 1765223,
+      "word": "王俊凯 很后悔昨天睡觉了",
+      "onboard_time": 1705752390,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1762300,
       "num": 995715,
       "word": "祝绪丹 女二",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704541174,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1386460,
-      "num": 1386460,
-      "word": "2023年中国出生人口902万人",
-      "onboard_time": 1705460069,
-      "rank": 12,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

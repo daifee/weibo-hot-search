@@ -1,0 +1,410 @@
+{
+  "runTime": 1705753874033,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1765223,
+        "num": 1765223,
+        "word": "王俊凯 很后悔昨天睡觉了",
+        "onboard_time": 1705752390,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1081230,
+        "num": 1081230,
+        "word": "女子提离职数月才获批单位赔56万",
+        "onboard_time": 1705745906,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9057,
+        "num": 1063292,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057372,
+        "num": 1057372,
+        "word": "繁花2",
+        "onboard_time": 1705746087,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1018661,
+        "num": 1018661,
+        "word": "学生公开华中农大教授造假证据",
+        "onboard_time": 1705751307,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735886,
+        "num": 735886,
+        "word": "唐嫣希望原班人马拍繁花2",
+        "onboard_time": 1705739906,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 656104,
+        "num": 656104,
+        "word": "电视剧要久久爱",
+        "onboard_time": 1705751307,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 627087,
+        "num": 627087,
+        "word": "无偿to签 命硬的来",
+        "onboard_time": 1705749206,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 602353,
+        "num": 602353,
+        "word": "王一博这个笑的含金量",
+        "onboard_time": 1705752327,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296379,
+        "num": 296379,
+        "word": "山东大姐卖37年炉包供出研究生儿子",
+        "onboard_time": 1705744226,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575590,
+        "num": 296332,
+        "word": "断崖式分手",
+        "onboard_time": 1705748607,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 555403,
+        "num": 294847,
+        "word": "要久久爱开播评价",
+        "onboard_time": 1705752390,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489909,
+        "num": 294140,
+        "word": "夫妻先后患癌原因就在饭桌上",
+        "onboard_time": 1705752025,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 511797,
+        "num": 293416,
+        "word": "您的十年就值这么多了",
+        "onboard_time": 1705751485,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376021,
+        "num": 292627,
+        "word": "弟弟把你放心上你把弟弟发网上",
+        "onboard_time": 1705751369,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342476,
+        "num": 292377,
+        "word": "赵今麦 异域公主",
+        "onboard_time": 1705746328,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325519,
+        "num": 291175,
+        "word": "毛晓慧 对不起丑到大家了",
+        "onboard_time": 1705720406,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290836,
+        "num": 290836,
+        "word": "TF家族直播",
+        "onboard_time": 1705752988,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230594,
+        "num": 276799,
+        "word": "恋与深空心疼哥哥",
+        "onboard_time": 1705753227,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237790,
+        "num": 275845,
+        "word": "王健林已卖10座万达广场",
+        "onboard_time": 1705716686,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435842,
+        "num": 275830,
+        "word": "舅舅向炫富的外甥借钱",
+        "onboard_time": 1705752025,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275437,
+        "num": 275437,
+        "word": "小夫妻要第三胎却意外怀上了三胞胎",
+        "onboard_time": 1705737329,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267894,
+        "num": 267894,
+        "word": "你好星期六",
+        "onboard_time": 1705751848,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237325,
+        "num": 237325,
+        "word": "TTG阿豆租借至DRG",
+        "onboard_time": 1705752807,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247306,
+        "num": 237164,
+        "word": "仙剑之父夸虞书欣可爱",
+        "onboard_time": 1705746929,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235720,
+        "num": 235720,
+        "word": "庆余年2",
+        "onboard_time": 1705721726,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227561,
+        "num": 227561,
+        "word": "约旦vs韩国",
+        "onboard_time": 1705749388,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221352,
+        "num": 221352,
+        "word": "辛巴称最应该给孩子吃预制菜",
+        "onboard_time": 1705736067,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 206662,
+        "num": 206662,
+        "word": "早睡把人际关系网都睡出来了",
+        "onboard_time": 1705737506,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135752,
+        "num": 203484,
+        "word": "高一女生保送清华本硕博连读",
+        "onboard_time": 1705739007,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 202163,
+        "num": 202163,
+        "word": "这就是街舞 灯牌",
+        "onboard_time": 1705748007,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190700,
+        "num": 190700,
+        "word": "萨摩耶 一怒之下怒了一下",
+        "onboard_time": 1705753109,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173580,
+        "num": 173580,
+        "word": "年会不能停票房破9亿",
+        "onboard_time": 1705749506,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171707,
+        "num": 171707,
+        "word": "电视剧你也有今天",
+        "onboard_time": 1705748547,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169339,
+        "num": 169339,
+        "word": "天秤 硬撑",
+        "onboard_time": 1705742547,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164848,
+        "num": 164848,
+        "word": "SEVENTEEN澳门演唱会",
+        "onboard_time": 1705746510,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162666,
+        "num": 162666,
+        "word": "日本超市的毛蟹",
+        "onboard_time": 1705748306,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151482,
+        "num": 151482,
+        "word": "提高文笔的方法",
+        "onboard_time": 1705753291,
+        "rank": 37,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 149308,
+        "num": 149308,
+        "word": "这就是街舞直播",
+        "onboard_time": 1705743928,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146168,
+        "num": 146168,
+        "word": "打工人一怒之下怒了一下",
+        "onboard_time": 1705751605,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145242,
+        "num": 145242,
+        "word": "谈恋爱越来越难的原因",
+        "onboard_time": 1705749747,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142706,
+        "num": 142706,
+        "word": "变形计之要久久爱特辑",
+        "onboard_time": 1705744527,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141388,
+        "num": 141388,
+        "word": "刮刮乐中100万的那个年轻人消失了",
+        "onboard_time": 1705735585,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140289,
+        "num": 140289,
+        "word": "高校偷偷为学生免费充了480度电",
+        "onboard_time": 1705726346,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139144,
+        "num": 139144,
+        "word": "因为懒得结婚被我妈说不要回家过年",
+        "onboard_time": 1705748249,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134666,
+        "num": 134666,
+        "word": "惹了沈星回 等于谁都没惹",
+        "onboard_time": 1705741047,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127026,
+        "num": 127026,
+        "word": "丁程鑫队长大秀Thule",
+        "onboard_time": 1705752327,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123140,
+        "num": 123140,
+        "word": "知情人称杀妻案涉案二人未被谷歌裁员",
+        "onboard_time": 1705743086,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117194,
+        "num": 117194,
+        "word": "论小孩哥的情绪有多稳定",
+        "onboard_time": 1705751369,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113670,
+        "num": 113670,
+        "word": "杨紫隐忍式哭戏",
+        "onboard_time": 1705753827,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进人的全面发展和社会全面进步#"
+    }
+  }
+}

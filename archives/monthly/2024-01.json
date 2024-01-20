@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705750435375,
+  "endTime": 1705753874033,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1329,6 +1329,14 @@
       "onboard_time": 1705400073,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1765223,
+      "num": 1765223,
+      "word": "王俊凯 很后悔昨天睡觉了",
+      "onboard_time": 1705752390,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1762300,
@@ -3923,6 +3931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1081230,
+      "num": 1081230,
+      "word": "女子提离职数月才获批单位赔56万",
+      "onboard_time": 1705745906,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1081088,
       "num": 1081088,
       "word": "南方小土豆在东北旅游3天买了套房",
@@ -4337,6 +4353,14 @@
       "onboard_time": 1705456409,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1018661,
+      "num": 1018661,
+      "word": "学生公开华中农大教授造假证据",
+      "onboard_time": 1705751307,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1018163,
@@ -9147,6 +9171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 656104,
+      "num": 656104,
+      "word": "电视剧要久久爱",
+      "onboard_time": 1705751307,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655784,
       "num": 655784,
       "word": "好难 我要吃面了",
@@ -9633,6 +9665,14 @@
       "onboard_time": 1704248249,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 627087,
+      "num": 627087,
+      "word": "无偿to签 命硬的来",
+      "onboard_time": 1705749206,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 626795,
@@ -10257,6 +10297,14 @@
       "onboard_time": 1705466371,
       "rank": 9,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 602353,
+      "num": 602353,
+      "word": "王一博这个笑的含金量",
+      "onboard_time": 1705752327,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 601497,
@@ -10947,14 +10995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 577811,
-      "num": 577811,
-      "word": "女子提离职数月才获批单位赔56万",
-      "onboard_time": 1705745906,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 577511,
       "num": 577511,
       "word": "樊振东vs达科",
@@ -11513,6 +11553,14 @@
       "onboard_time": 1704863435,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 555403,
+      "num": 294847,
+      "word": "要久久爱开播评价",
+      "onboard_time": 1705752390,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 555372,
@@ -12835,6 +12883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 511797,
+      "num": 293416,
+      "word": "您的十年就值这么多了",
+      "onboard_time": 1705751485,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511498,
       "num": 511498,
       "word": "游本昌王菊合照",
@@ -13633,6 +13689,14 @@
       "onboard_time": 1704094296,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 489909,
+      "num": 294140,
+      "word": "夫妻先后患癌原因就在饭桌上",
+      "onboard_time": 1705752025,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 489405,
@@ -15321,6 +15385,14 @@
       "onboard_time": 1704032173,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435842,
+      "num": 275830,
+      "word": "舅舅向炫富的外甥借钱",
+      "onboard_time": 1705752025,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 435117,
@@ -17633,6 +17705,14 @@
       "onboard_time": 1705676190,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 376021,
+      "num": 292627,
+      "word": "弟弟把你放心上你把弟弟发网上",
+      "onboard_time": 1705751369,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 375992,
@@ -21483,6 +21563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290836,
+      "num": 290836,
+      "word": "TF家族直播",
+      "onboard_time": 1705752988,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290835,
       "num": 290835,
       "word": "李铁托人花600万收买球员被独吞",
@@ -22563,14 +22651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275173,
-      "num": 275173,
-      "word": "无偿to签 命硬的来",
-      "onboard_time": 1705749206,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 274966,
       "num": 274966,
       "word": "邓为微博之夜预告照",
@@ -23009,6 +23089,14 @@
       "onboard_time": 1705219892,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 267894,
+      "num": 267894,
+      "word": "你好星期六",
+      "onboard_time": 1704541471,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 267737,
@@ -25611,6 +25699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237325,
+      "num": 237325,
+      "word": "TTG阿豆租借至DRG",
+      "onboard_time": 1705752807,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237296,
       "num": 206250,
       "word": "小狗吵架试图咬死对方的空气",
@@ -26371,6 +26467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230594,
+      "num": 276799,
+      "word": "恋与深空心疼哥哥",
+      "onboard_time": 1705753227,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230545,
       "num": 230545,
       "word": "肚子容易长肉是为啥",
@@ -26401,14 +26505,6 @@
       "onboard_time": 1705210951,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230405,
-      "num": 206362,
-      "word": "你好星期六",
-      "onboard_time": 1704541471,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 230294,
@@ -32569,6 +32665,14 @@
       "onboard_time": 1705409008,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190700,
+      "num": 190700,
+      "word": "萨摩耶 一怒之下怒了一下",
+      "onboard_time": 1705753109,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 190658,
@@ -40579,6 +40683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151482,
+      "num": 151482,
+      "word": "提高文笔的方法",
+      "onboard_time": 1705753291,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 151429,
       "num": 151429,
       "word": "2024狮子座好运苏醒",
@@ -41593,6 +41705,14 @@
       "onboard_time": 1704956247,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 146168,
+      "num": 146168,
+      "word": "打工人一怒之下怒了一下",
+      "onboard_time": 1705751605,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 146166,
@@ -45827,6 +45947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127026,
+      "num": 127026,
+      "word": "丁程鑫队长大秀Thule",
+      "onboard_time": 1705752327,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126975,
       "num": 126975,
       "word": "NCT新团NCTWISH",
@@ -47899,6 +48027,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 117194,
+      "num": 117194,
+      "word": "论小孩哥的情绪有多稳定",
+      "onboard_time": 1705751369,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117192,
       "num": 117192,
       "word": "哈尔滨旅游后劲儿太大",
@@ -48416,6 +48552,14 @@
       "word": "如果奔跑是我的人生",
       "onboard_time": 1705519214,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 113670,
+      "num": 113670,
+      "word": "杨紫隐忍式哭戏",
+      "onboard_time": 1705753827,
+      "rank": 49,
       "category": "剧集"
     },
     {
