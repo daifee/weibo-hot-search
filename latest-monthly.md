@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/20 14:21:58
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/20 14:35:20
 </p>
 </blockquote>
 <p>
@@ -4581,6 +4581,12 @@ Minji为没吃过刀削面道歉（热度：844358）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%81%B7%E5%81%B7%E4%B8%BA%E5%AD%A6%E7%94%9F%E5%85%8D%E8%B4%B9%E5%85%85%E4%BA%86480%E5%BA%A6%E7%94%B5%23" target="weibo">
+高校偷偷为学生免费充了480度电（热度：828616）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E5%A5%B3%E7%8E%8B%E5%AE%A3%E5%B8%83%E5%B0%86%E9%80%80%E4%BD%8D%23" target="weibo">
 丹麦女王宣布将退位（热度：827568）
 </a>
@@ -5285,12 +5291,6 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%89%A7%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF%23" target="weibo">
 国剧盛典红毯（热度：763742）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%81%B7%E5%81%B7%E4%B8%BA%E5%AD%A6%E7%94%9F%E5%85%8D%E8%B4%B9%E5%85%85%E4%BA%86480%E5%BA%A6%E7%94%B5%23" target="weibo">
-高校偷偷为学生免费充了480度电（热度：763559）
 </a>
 </li>
 
