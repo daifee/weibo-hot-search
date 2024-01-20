@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705757655123,
+  "endTime": 1705760132618,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1482321,
+      "num": 1482321,
+      "word": "梨泰院踩踏事件警察厅长被控过失杀人",
+      "onboard_time": 1705757609,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1473561,
       "num": 1473561,
       "word": "香港国泰航空客机与大韩航空客机在日本北海道机场相撞",
@@ -1200,6 +1208,14 @@
       "word": "华中农大学生举报导师事件四大疑问",
       "onboard_time": 1705579587,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1119447,
+      "num": 526558,
+      "word": "目击者讲述河南南阳学校火灾",
+      "onboard_time": 1705754548,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2371,6 +2387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 765431,
+      "num": 765431,
+      "word": "文俊辉直播",
+      "onboard_time": 1705758630,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 763420,
       "num": 763420,
       "word": "关晓彤告别王牌对王牌第八季",
@@ -3019,6 +3043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 658307,
+      "num": 264552,
+      "word": "爸爸逼着我吞下一个蛋黄",
+      "onboard_time": 1705755147,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 657309,
       "num": 299149,
       "word": "对方拒绝了您的生发请求",
@@ -3529,14 +3561,6 @@
       "onboard_time": 1705314088,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 597505,
-      "num": 264552,
-      "word": "爸爸逼着我吞下一个蛋黄",
-      "onboard_time": 1705755147,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 596960,
@@ -4225,14 +4249,6 @@
       "onboard_time": 1705546884,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 526558,
-      "num": 526558,
-      "word": "目击者讲述河南南阳学校火灾",
-      "onboard_time": 1705754548,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 525583,
@@ -4969,6 +4985,14 @@
       "onboard_time": 1705504651,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459802,
+      "num": 459802,
+      "word": "街舞6总决赛",
+      "onboard_time": 1705759591,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 459540,
@@ -6251,6 +6275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 361626,
+      "num": 361626,
+      "word": "与恶魔有约直播",
+      "onboard_time": 1705758389,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361328,
       "num": 361328,
       "word": "檀健次 我这么man涂什么口红",
@@ -6841,6 +6873,14 @@
       "onboard_time": 1705590212,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 320860,
+      "num": 320860,
+      "word": "律师谈华人工程师杀妻案如何量刑",
+      "onboard_time": 1705756647,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320836,
@@ -9891,6 +9931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 218800,
+      "num": 218800,
+      "word": "SEVENTEEN中文歌",
+      "onboard_time": 1705757609,
+      "rank": 40,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 218617,
       "num": 218617,
       "word": "因为不够上进朋友要跟我绝交",
@@ -9993,6 +10041,14 @@
       "onboard_time": 1705695972,
       "rank": 45,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 216537,
+      "num": 216537,
+      "word": "杨紫夸丁程鑫唱跳实力",
+      "onboard_time": 1705758749,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 216536,
@@ -10227,6 +10283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212299,
+      "num": 212299,
+      "word": "徐明浩澳门演唱会舞台",
+      "onboard_time": 1705759110,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211836,
       "num": 190934,
       "word": "奶奶被保健品店除名了",
@@ -10297,6 +10361,14 @@
       "onboard_time": 1705391430,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209845,
+      "num": 209845,
+      "word": "阿K我哭死",
+      "onboard_time": 1705758690,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 209781,
@@ -10825,6 +10897,14 @@
       "onboard_time": 1705745849,
       "rank": 49,
       "category": "游戏,数码"
+    },
+    {
+      "raw_hot": 201314,
+      "num": 201314,
+      "word": "韩国补时绝平",
+      "onboard_time": 1705758991,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 201309,
@@ -12635,14 +12715,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 178446,
-      "num": 178446,
-      "word": "律师谈华人工程师杀妻案如何量刑",
-      "onboard_time": 1705756647,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178408,
       "num": 178408,
       "word": "网易诉暴雪案今日开庭取消",
@@ -12760,6 +12832,14 @@
       "word": "当前外卖骑手数量达1300万人",
       "onboard_time": 1705298489,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176625,
+      "num": 176625,
+      "word": "房东见证7年租客结婚生子帮带娃",
+      "onboard_time": 1705759287,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -13763,6 +13843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162637,
+      "num": 162637,
+      "word": "阿K零分",
+      "onboard_time": 1705759890,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162567,
       "num": 162567,
       "word": "鞠婧祎陈哲远配音",
@@ -14137,6 +14225,14 @@
       "onboard_time": 1705493788,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158008,
+      "num": 158008,
+      "word": "广东存在感最低的城市",
+      "onboard_time": 1705759829,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 157637,
@@ -14665,14 +14761,6 @@
       "onboard_time": 1705313189,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151327,
-      "num": 151327,
-      "word": "SEVENTEEN中文歌",
-      "onboard_time": 1705757609,
-      "rank": 40,
-      "category": "音乐,艺人"
     },
     {
       "raw_hot": 151296,
@@ -15363,6 +15451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142513,
+      "num": 142513,
+      "word": "MC打射手",
+      "onboard_time": 1705757788,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142501,
       "num": 142501,
       "word": "华为与长安汽车成立新公司",
@@ -15835,6 +15931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137163,
+      "num": 137163,
+      "word": "美甲塑型",
+      "onboard_time": 1705757788,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 137015,
       "num": 137015,
       "word": "恋与深空预下载",
@@ -16201,14 +16305,6 @@
       "onboard_time": 1705757128,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 131291,
-      "num": 131291,
-      "word": "梨泰院踩踏事件警察厅长被控过失杀人",
-      "onboard_time": 1705757609,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131218,
@@ -16833,6 +16929,14 @@
       "onboard_time": 1705661305,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123307,
+      "num": 123307,
+      "word": "很多关系其实还称不上是朋友",
+      "onboard_time": 1705758088,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 123275,
@@ -17745,6 +17849,14 @@
       "onboard_time": 1705455927,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 106309,
+      "num": 166341,
+      "word": "男子徒手接住6楼坠落男孩",
+      "onboard_time": 1705759952,
+      "rank": 34,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 106076,

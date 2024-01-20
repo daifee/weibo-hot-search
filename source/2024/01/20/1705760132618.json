@@ -1,0 +1,410 @@
+{
+  "runTime": 1705760132618,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1860181,
+        "num": 1860181,
+        "word": "王俊凯 很后悔昨天睡觉了",
+        "onboard_time": 1705752390,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1482321,
+        "num": 1482321,
+        "word": "梨泰院踩踏事件警察厅长被控过失杀人",
+        "onboard_time": 1705757609,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9553,
+        "num": 891961,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842994,
+        "num": 842994,
+        "word": "吸草莓教程",
+        "onboard_time": 1705754788,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 765431,
+        "num": 765431,
+        "word": "文俊辉直播",
+        "onboard_time": 1705758630,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 700843,
+        "num": 700843,
+        "word": "繁花2",
+        "onboard_time": 1705746087,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 679539,
+        "num": 679539,
+        "word": "张拿铁好像是疯了",
+        "onboard_time": 1705754428,
+        "rank": 6,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 510213,
+        "num": 510213,
+        "word": "女子提离职数月才获批单位赔56万",
+        "onboard_time": 1705745906,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1119447,
+        "num": 505432,
+        "word": "目击者讲述河南南阳学校火灾",
+        "onboard_time": 1705754548,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459802,
+        "num": 459802,
+        "word": "街舞6总决赛",
+        "onboard_time": 1705759591,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443108,
+        "num": 443108,
+        "word": "夫妻先后患癌原因就在饭桌上",
+        "onboard_time": 1705752025,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 409581,
+        "num": 409581,
+        "word": "约旦反超韩国",
+        "onboard_time": 1705754608,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409115,
+        "num": 409115,
+        "word": "唐嫣希望原班人马拍繁花2",
+        "onboard_time": 1705739906,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393524,
+        "num": 393524,
+        "word": "王一博这个笑的含金量",
+        "onboard_time": 1705752327,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390383,
+        "num": 390383,
+        "word": "公子于鑫",
+        "onboard_time": 1705755329,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361626,
+        "num": 361626,
+        "word": "与恶魔有约直播",
+        "onboard_time": 1705758389,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354580,
+        "num": 354580,
+        "word": "要久久爱开播评价",
+        "onboard_time": 1705752390,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320860,
+        "num": 320860,
+        "word": "律师谈华人工程师杀妻案如何量刑",
+        "onboard_time": 1705756647,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284747,
+        "num": 284747,
+        "word": "电视剧要久久爱",
+        "onboard_time": 1705751307,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248523,
+        "num": 248523,
+        "word": "断崖式分手",
+        "onboard_time": 1705748607,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 658307,
+        "num": 236617,
+        "word": "爸爸逼着我吞下一个蛋黄",
+        "onboard_time": 1705755147,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 570233,
+        "num": 231140,
+        "word": "27岁定律",
+        "onboard_time": 1705755268,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218800,
+        "num": 218800,
+        "word": "SEVENTEEN中文歌",
+        "onboard_time": 1705757609,
+        "rank": 22,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 216537,
+        "num": 216537,
+        "word": "杨紫夸丁程鑫唱跳实力",
+        "onboard_time": 1705758749,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207702,
+        "num": 213492,
+        "word": "舅舅向炫富的外甥借钱",
+        "onboard_time": 1705752025,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212299,
+        "num": 212299,
+        "word": "徐明浩澳门演唱会舞台",
+        "onboard_time": 1705759110,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209845,
+        "num": 209845,
+        "word": "阿K我哭死",
+        "onboard_time": 1705758690,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202771,
+        "num": 202771,
+        "word": "小夫妻要第三胎却意外怀上了三胞胎",
+        "onboard_time": 1705737329,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201314,
+        "num": 201314,
+        "word": "韩国补时绝平",
+        "onboard_time": 1705758991,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187059,
+        "num": 187059,
+        "word": "这就是街舞直播",
+        "onboard_time": 1705743928,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181356,
+        "num": 181356,
+        "word": "弟弟把你放心上你把弟弟发网上",
+        "onboard_time": 1705751369,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176625,
+        "num": 176625,
+        "word": "房东见证7年租客结婚生子帮带娃",
+        "onboard_time": 1705759287,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175663,
+        "num": 175663,
+        "word": "孙兴慜勺子点球",
+        "onboard_time": 1705754910,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173304,
+        "num": 173304,
+        "word": "当代研究生下午茶",
+        "onboard_time": 1705756767,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106309,
+        "num": 166341,
+        "word": "男子徒手接住6楼坠落男孩",
+        "onboard_time": 1705759952,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 162637,
+        "num": 162637,
+        "word": "阿K零分",
+        "onboard_time": 1705759890,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162116,
+        "num": 162116,
+        "word": "杨紫隐忍式哭戏",
+        "onboard_time": 1705753827,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158008,
+        "num": 158008,
+        "word": "广东存在感最低的城市",
+        "onboard_time": 1705759829,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155106,
+        "num": 155106,
+        "word": "陈星旭和章若楠说话都自带波浪线",
+        "onboard_time": 1705755868,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154334,
+        "num": 154334,
+        "word": "毛晓慧 对不起丑到大家了",
+        "onboard_time": 1705720406,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147908,
+        "num": 147908,
+        "word": "庆余年2",
+        "onboard_time": 1705721726,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142513,
+        "num": 142513,
+        "word": "MC打射手",
+        "onboard_time": 1705757788,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138168,
+        "num": 138168,
+        "word": "萨摩耶 一怒之下怒了一下",
+        "onboard_time": 1705753109,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366368,
+        "num": 137697,
+        "word": "学生公开华中农大教授造假证据",
+        "onboard_time": 1705751307,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137163,
+        "num": 137163,
+        "word": "美甲塑型",
+        "onboard_time": 1705757788,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 134445,
+        "num": 134445,
+        "word": "早睡把人际关系网都睡出来了",
+        "onboard_time": 1705737506,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129535,
+        "num": 129535,
+        "word": "关晓彤春晚彩排生图",
+        "onboard_time": 1705754069,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123307,
+        "num": 123307,
+        "word": "很多关系其实还称不上是朋友",
+        "onboard_time": 1705758088,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120635,
+        "num": 120635,
+        "word": "这个牛肉拌面把我香迷糊了",
+        "onboard_time": 1705757006,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116127,
+        "num": 116127,
+        "word": "惹了沈星回 等于谁都没惹",
+        "onboard_time": 1705741047,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

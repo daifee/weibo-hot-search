@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/20 21:34:15
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/20 22:15:32
 </p>
 </blockquote>
 <p>
@@ -1527,6 +1527,12 @@ APP未经同意跳转广告涉嫌违法（热度：1510146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E4%BB%B6%E8%AD%A6%E5%AF%9F%E5%8E%85%E9%95%BF%E8%A2%AB%E6%8E%A7%E8%BF%87%E5%A4%B1%E6%9D%80%E4%BA%BA%23" target="weibo">
+梨泰院踩踏事件警察厅长被控过失杀人（热度：1482321）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%9B%BD%E6%B3%B0%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%9C%BA%E4%B8%8E%E5%A4%A7%E9%9F%A9%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%9C%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%BA%E5%9C%BA%E7%9B%B8%E6%92%9E%23" target="weibo">
 香港国泰航空客机与大韩航空客机在日本北海道机场相撞（热度：1473561）
 </a>
@@ -1805,12 +1811,6 @@ iPhone为什么只有P大写（热度：1427162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%90%91%E5%A4%AA%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8B%8D%E4%B8%8B%E4%BC%B0%E5%80%BC800%E4%B8%87%E8%B1%AA%E5%AE%85%23" target="weibo">
 00后向太直播间拍下估值800万豪宅（热度：1397279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E4%BB%8A%E5%A4%A9%E9%95%BF%E8%BF%99%E6%A0%B7%23" target="weibo">
-车银优今天长这样（热度：1396487）
 </a>
 </li>
 
