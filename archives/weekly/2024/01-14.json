@@ -1,6 +1,6 @@
 {
   "startTime": 1705162884977,
-  "endTime": 1705728846824,
+  "endTime": 1705731718897,
   "band_list": [
     {
       "raw_hot": 8364759,
@@ -2259,12 +2259,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 763559,
+      "num": 763559,
+      "word": "高校偷偷为学生免费充了480度电",
+      "onboard_time": 1705726346,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 763420,
       "num": 763420,
       "word": "关晓彤告别王牌对王牌第八季",
       "onboard_time": 1705660707,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 762545,
+      "num": 396673,
+      "word": "吴宣仪回应争议",
+      "onboard_time": 1705727904,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 759489,
@@ -3584,6 +3600,14 @@
       "word": "发年终奖前离职还能拿年终奖吗",
       "onboard_time": 1705194211,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566028,
+      "num": 566028,
+      "word": "遭男同学抽凳摔断肋骨当事女生发声",
+      "onboard_time": 1705727727,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5307,14 +5331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 396673,
-      "num": 396673,
-      "word": "吴宣仪回应争议",
-      "onboard_time": 1705727904,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 396373,
       "num": 396373,
       "word": "湖南卫视帮湖南文旅摇人",
@@ -5425,14 +5441,6 @@
       "onboard_time": 1705666586,
       "rank": 24,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 388734,
-      "num": 388734,
-      "word": "高校偷偷为学生免费充了480度电",
-      "onboard_time": 1705726346,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387794,
@@ -6251,6 +6259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 328855,
+      "num": 210355,
+      "word": "秦岚嗓子快好了",
+      "onboard_time": 1705729165,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 327725,
       "num": 327725,
       "word": "仙剑一三五都在优酷",
@@ -6963,12 +6979,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 289539,
+      "num": 289539,
+      "word": "茅子俊力挺毛晓慧",
+      "onboard_time": 1705727787,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289397,
       "num": 289397,
       "word": "赵丽颖诗意为河北打call",
       "onboard_time": 1705474893,
       "rank": 23,
       "category": "旅游,艺人"
+    },
+    {
+      "raw_hot": 288376,
+      "num": 288376,
+      "word": "夏以昼 复活吧我的爱人",
+      "onboard_time": 1705729945,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 288368,
@@ -7347,14 +7379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275202,
-      "num": 275202,
-      "word": "茅子俊力挺毛晓慧",
-      "onboard_time": 1705727787,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 274730,
       "num": 192662,
       "word": "张小斐是有点功夫在身上的",
@@ -7699,6 +7723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259441,
+      "num": 259441,
+      "word": "声生不息",
+      "onboard_time": 1705726588,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259146,
       "num": 259146,
       "word": "刘诗诗马上弯腰补妆",
@@ -7888,14 +7920,6 @@
       "word": "湖南成暴雪中心",
       "onboard_time": 1705572751,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252818,
-      "num": 252818,
-      "word": "遭男同学抽凳摔断肋骨当事女生发声",
-      "onboard_time": 1705727727,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -8417,6 +8441,14 @@
       "onboard_time": 1705227809,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237778,
+      "num": 237778,
+      "word": "马思纯晒杨紫范丞丞导演拍立得",
+      "onboard_time": 1705728388,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 237622,
@@ -9337,14 +9369,6 @@
       "onboard_time": 1705654466,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215943,
-      "num": 215943,
-      "word": "声生不息",
-      "onboard_time": 1705726588,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 215630,
@@ -10987,6 +11011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189016,
+      "num": 189016,
+      "word": "孙千新剧被女二反杀",
+      "onboard_time": 1705729226,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188901,
       "num": 188901,
       "word": "梁建章建议育产假男女平等",
@@ -11641,6 +11673,14 @@
       "onboard_time": 1705317212,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180062,
+      "num": 180062,
+      "word": "与恶魔有约15集好虐",
+      "onboard_time": 1705728567,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 179782,
@@ -12777,14 +12817,6 @@
       "onboard_time": 1705494388,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163519,
-      "num": 163519,
-      "word": "马思纯晒杨紫范丞丞导演拍立得",
-      "onboard_time": 1705728388,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 163244,
@@ -15203,6 +15235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128679,
+      "num": 128679,
+      "word": "一群年轻人靠写代码成为种田大神",
+      "onboard_time": 1705728806,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128402,
       "num": 128402,
       "word": "祝绪丹烛光大片",
@@ -15667,6 +15707,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 123175,
+      "num": 123175,
+      "word": "阿尔卡拉斯首进澳网16强",
+      "onboard_time": 1705730785,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123171,
       "num": 123171,
       "word": "苏醒扯面",
@@ -15705,6 +15753,14 @@
       "onboard_time": 1705660827,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122778,
+      "num": 122778,
+      "word": "庆余年2里的女性角色",
+      "onboard_time": 1705728927,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 122649,
@@ -16225,14 +16281,6 @@
       "onboard_time": 1705396408,
       "rank": 48,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 112977,
-      "num": 112977,
-      "word": "与恶魔有约15集好虐",
-      "onboard_time": 1705728567,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 112874,
@@ -16779,6 +16827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99732,
+      "num": 99732,
+      "word": "湖人不敌篮网",
+      "onboard_time": 1705731447,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99700,
       "num": 99700,
       "word": "路人把棉衣绑成绳救起落水学生",
@@ -16865,14 +16921,6 @@
       "onboard_time": 1705679007,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 96764,
-      "num": 96764,
-      "word": "一群年轻人靠写代码成为种田大神",
-      "onboard_time": 1705728806,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96678,
@@ -17131,6 +17179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85806,
+      "num": 1233799,
+      "word": "铁齿钢牙大国重器在山间海底放大招",
+      "onboard_time": 1705727547,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84141,
       "num": 203101,
       "word": "王者李白动画剧集收官",
@@ -17313,14 +17369,6 @@
       "onboard_time": 1705508064,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73406,
-      "num": 1233799,
-      "word": "铁齿钢牙大国重器在山间海底放大招",
-      "onboard_time": 1705727547,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73180,
@@ -18209,6 +18257,14 @@
       "onboard_time": 1705583247,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 27730,
+      "num": 311012,
+      "word": "陈楚生专注音乐的第2个十年",
+      "onboard_time": 1705730424,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 26496,

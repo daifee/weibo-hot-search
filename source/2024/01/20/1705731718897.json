@@ -1,0 +1,410 @@
+{
+  "runTime": 1705731718897,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1636856,
+        "num": 1636856,
+        "word": "吴宣仪和粉丝哭穷",
+        "onboard_time": 1705724965,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1096224,
+        "num": 1096224,
+        "word": "毛晓慧 对不起丑到大家了",
+        "onboard_time": 1705720406,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85806,
+        "num": 827735,
+        "word": "铁齿钢牙大国重器在山间海底放大招",
+        "onboard_time": 1705727547,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809631,
+        "num": 809631,
+        "word": "庆余年2",
+        "onboard_time": 1705721726,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 763559,
+        "num": 763559,
+        "word": "高校偷偷为学生免费充了480度电",
+        "onboard_time": 1705726346,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834467,
+        "num": 755152,
+        "word": "王健林已卖10座万达广场",
+        "onboard_time": 1705716686,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566028,
+        "num": 566028,
+        "word": "遭男同学抽凳摔断肋骨当事女生发声",
+        "onboard_time": 1705727727,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497637,
+        "num": 497637,
+        "word": "巴基斯坦恢复与伊朗关系",
+        "onboard_time": 1705726286,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 426296,
+        "num": 426296,
+        "word": "姐弟坠亡案两凶手二审态度大转变",
+        "onboard_time": 1705718126,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327815,
+        "num": 327815,
+        "word": "985学子升学率涨势喜人",
+        "onboard_time": 1705723467,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27730,
+        "num": 311012,
+        "word": "陈楚生专注音乐的第2个十年",
+        "onboard_time": 1705730424,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 762545,
+        "num": 307279,
+        "word": "吴宣仪回应争议",
+        "onboard_time": 1705727904,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301871,
+        "num": 301871,
+        "word": "韩国仁川新地标被质疑抄袭广州塔",
+        "onboard_time": 1705724427,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289539,
+        "num": 289539,
+        "word": "茅子俊力挺毛晓慧",
+        "onboard_time": 1705727787,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288376,
+        "num": 288376,
+        "word": "夏以昼 复活吧我的爱人",
+        "onboard_time": 1705729945,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283253,
+        "num": 283253,
+        "word": "外媒报道赵丽颖辛芷蕾新片",
+        "onboard_time": 1705712905,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260097,
+        "num": 260097,
+        "word": "江苏武进一企业因粉尘爆炸致8死8伤",
+        "onboard_time": 1705726467,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259441,
+        "num": 259441,
+        "word": "声生不息",
+        "onboard_time": 1705726588,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237778,
+        "num": 237778,
+        "word": "马思纯晒杨紫范丞丞导演拍立得",
+        "onboard_time": 1705728388,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211543,
+        "num": 211543,
+        "word": "日本爆冷",
+        "onboard_time": 1705671747,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392739,
+        "num": 210966,
+        "word": "妻子怀孕后丈夫出现恶心呕吐",
+        "onboard_time": 1705722569,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328855,
+        "num": 210355,
+        "word": "秦岚嗓子快好了",
+        "onboard_time": 1705729165,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209487,
+        "num": 209487,
+        "word": "张学友为繁花时隔29年再唱偷心",
+        "onboard_time": 1705718907,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189016,
+        "num": 189016,
+        "word": "孙千新剧被女二反杀",
+        "onboard_time": 1705729226,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185364,
+        "num": 185364,
+        "word": "为何百果园不受欢迎了",
+        "onboard_time": 1705715005,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180062,
+        "num": 180062,
+        "word": "与恶魔有约15集好虐",
+        "onboard_time": 1705728567,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170563,
+        "num": 170563,
+        "word": "新娘让两个弟弟穿裙子当伴娘",
+        "onboard_time": 1705712184,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169868,
+        "num": 169868,
+        "word": "李沁林婉儿红衣大婚造型",
+        "onboard_time": 1705721426,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156114,
+        "num": 156114,
+        "word": "偶遇周杰伦王俊凯一起逛街",
+        "onboard_time": 1705711347,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151990,
+        "num": 151990,
+        "word": "谁懂俞飞鸿李小冉同框的含金量",
+        "onboard_time": 1705727667,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148653,
+        "num": 148653,
+        "word": "买高铁票怎么选静音车厢",
+        "onboard_time": 1705722748,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143008,
+        "num": 143008,
+        "word": "庆余年2全阵容预告",
+        "onboard_time": 1705719387,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140611,
+        "num": 140611,
+        "word": "世界之外 上头",
+        "onboard_time": 1705713987,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140162,
+        "num": 140162,
+        "word": "奶奶被保健品店除名了",
+        "onboard_time": 1705724908,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130049,
+        "num": 130049,
+        "word": "河南南阳一学校发生火灾已致13人遇难",
+        "onboard_time": 1705711885,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128859,
+        "num": 128859,
+        "word": "要久久爱首播2集不断更",
+        "onboard_time": 1705725927,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128679,
+        "num": 128679,
+        "word": "一群年轻人靠写代码成为种田大神",
+        "onboard_time": 1705728806,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128019,
+        "num": 128019,
+        "word": "你好星期六全员重返童年",
+        "onboard_time": 1705721966,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123175,
+        "num": 123175,
+        "word": "阿尔卡拉斯首进澳网16强",
+        "onboard_time": 1705730785,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122778,
+        "num": 122778,
+        "word": "庆余年2里的女性角色",
+        "onboard_time": 1705728927,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118334,
+        "num": 118334,
+        "word": "范丞丞秒摸出魏大勋",
+        "onboard_time": 1705725267,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110872,
+        "num": 110872,
+        "word": "回次老家等于看了次心理医生",
+        "onboard_time": 1705726346,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105920,
+        "num": 105920,
+        "word": "江苏坠河男生家属开直播求助遭中断",
+        "onboard_time": 1705722388,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105676,
+        "num": 105676,
+        "word": "如果奔跑 撕碎婚姻的虚伪体面",
+        "onboard_time": 1705715065,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105484,
+        "num": 105484,
+        "word": "这就是街舞6总决赛节目单",
+        "onboard_time": 1705723047,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99732,
+        "num": 99732,
+        "word": "湖人不敌篮网",
+        "onboard_time": 1705731447,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99079,
+        "num": 99079,
+        "word": "陈芋汐全英文发言",
+        "onboard_time": 1705721966,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94842,
+        "num": 94842,
+        "word": "赵今麦张凌赫面纱吻路透",
+        "onboard_time": 1705720045,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93687,
+        "num": 93687,
+        "word": "一个人过年也要备点年货",
+        "onboard_time": 1705727186,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84084,
+        "num": 84084,
+        "word": "网剧我在大宋开酒吧",
+        "onboard_time": 1705725086,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设金融强国使命在肩#"
+    }
+  }
+}

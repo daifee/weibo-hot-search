@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705728846824,
+  "endTime": 1705731718897,
   "band_list": [
     {
       "raw_hot": 2205012,
@@ -155,6 +155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 763559,
+      "num": 763559,
+      "word": "高校偷偷为学生免费充了480度电",
+      "onboard_time": 1705726346,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762545,
+      "num": 396673,
+      "word": "吴宣仪回应争议",
+      "onboard_time": 1705727904,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 756297,
       "num": 756297,
       "word": "哈佛女孩刘亦婷成为美国普通中产",
@@ -216,6 +232,14 @@
       "word": "妻子怀孕后丈夫出现恶心呕吐",
       "onboard_time": 1705722569,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566028,
+      "num": 566028,
+      "word": "遭男同学抽凳摔断肋骨当事女生发声",
+      "onboard_time": 1705727727,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -355,22 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 396673,
-      "num": 396673,
-      "word": "吴宣仪回应争议",
-      "onboard_time": 1705727904,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 388734,
-      "num": 388734,
-      "word": "高校偷偷为学生免费充了480度电",
-      "onboard_time": 1705726346,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376250,
       "num": 376250,
       "word": "赵今麦张凌赫面纱吻路透",
@@ -427,6 +435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 328855,
+      "num": 210355,
+      "word": "秦岚嗓子快好了",
+      "onboard_time": 1705729165,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 323647,
       "num": 323647,
       "word": "3岁男童高烧惊厥幼师急得跪地拦车",
@@ -475,6 +491,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289539,
+      "num": 289539,
+      "word": "茅子俊力挺毛晓慧",
+      "onboard_time": 1705727787,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 288376,
+      "num": 288376,
+      "word": "夏以昼 复活吧我的爱人",
+      "onboard_time": 1705729945,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285847,
       "num": 285847,
       "word": "4孩子置气吃醋父亲露背让抽打宣泄",
@@ -507,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275202,
-      "num": 275202,
-      "word": "茅子俊力挺毛晓慧",
-      "onboard_time": 1705727787,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270794,
       "num": 235200,
       "word": "女子发现金戒指褪色竟救自己一命",
@@ -523,20 +547,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259441,
+      "num": 259441,
+      "word": "声生不息",
+      "onboard_time": 1705726588,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258403,
       "num": 258403,
       "word": "世界之外 上头",
       "onboard_time": 1705713987,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 252818,
-      "num": 252818,
-      "word": "遭男同学抽凳摔断肋骨当事女生发声",
-      "onboard_time": 1705727727,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248865,
@@ -576,6 +600,14 @@
       "word": "谁懂俞飞鸿李小冉同框的含金量",
       "onboard_time": 1705727667,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237778,
+      "num": 237778,
+      "word": "马思纯晒杨紫范丞丞导演拍立得",
+      "onboard_time": 1705728388,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -633,14 +665,6 @@
       "onboard_time": 1705695972,
       "rank": 45,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 215943,
-      "num": 215943,
-      "word": "声生不息",
-      "onboard_time": 1705726588,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 214785,
@@ -763,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189016,
+      "num": 189016,
+      "word": "孙千新剧被女二反杀",
+      "onboard_time": 1705729226,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188449,
       "num": 182290,
       "word": "街边80一斤的凉拌土鸡",
@@ -811,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180062,
+      "num": 180062,
+      "word": "与恶魔有约15集好虐",
+      "onboard_time": 1705728567,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177491,
       "num": 177491,
       "word": "封神第一部最终票房",
@@ -849,14 +889,6 @@
       "onboard_time": 1705714585,
       "rank": 49,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 163519,
-      "num": 163519,
-      "word": "马思纯晒杨紫范丞丞导演拍立得",
-      "onboard_time": 1705728388,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 162840,
@@ -1043,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128679,
+      "num": 128679,
+      "word": "一群年轻人靠写代码成为种田大神",
+      "onboard_time": 1705728806,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128402,
       "num": 128402,
       "word": "祝绪丹烛光大片",
@@ -1099,6 +1139,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123175,
+      "num": 123175,
+      "word": "阿尔卡拉斯首进澳网16强",
+      "onboard_time": 1705730785,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122778,
+      "num": 122778,
+      "word": "庆余年2里的女性角色",
+      "onboard_time": 1705728927,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121199,
       "num": 121199,
       "word": "澳网",
@@ -1137,14 +1193,6 @@
       "onboard_time": 1705666586,
       "rank": 36,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 112977,
-      "num": 112977,
-      "word": "与恶魔有约15集好虐",
-      "onboard_time": 1705728567,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 110959,
@@ -1219,6 +1267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99732,
+      "num": 99732,
+      "word": "湖人不敌篮网",
+      "onboard_time": 1705731447,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97646,
       "num": 97646,
       "word": "机智的医生生活 翻拍",
@@ -1233,14 +1289,6 @@
       "onboard_time": 1705679007,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 96764,
-      "num": 96764,
-      "word": "一群年轻人靠写代码成为种田大神",
-      "onboard_time": 1705728806,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96086,
@@ -1299,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85806,
+      "num": 1233799,
+      "word": "铁齿钢牙大国重器在山间海底放大招",
+      "onboard_time": 1705727547,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84324,
       "num": 84324,
       "word": "王星越反应",
@@ -1321,14 +1377,6 @@
       "onboard_time": 1705674210,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 73406,
-      "num": 1233799,
-      "word": "铁齿钢牙大国重器在山间海底放大招",
-      "onboard_time": 1705727547,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73080,
@@ -1417,6 +1465,14 @@
       "onboard_time": 1705692315,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27730,
+      "num": 311012,
+      "word": "陈楚生专注音乐的第2个十年",
+      "onboard_time": 1705730424,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 24185,
