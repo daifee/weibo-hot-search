@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705727790954,
+  "endTime": 1705728846824,
   "band_list": [
     {
       "raw_hot": 2205012,
@@ -19,20 +19,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2158769,
+      "num": 2158769,
+      "word": "吴宣仪和粉丝哭穷",
+      "onboard_time": 1705724965,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1986328,
       "num": 1986328,
       "word": "王健林已卖10座万达广场",
       "onboard_time": 1705716686,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1930567,
-      "num": 1930567,
-      "word": "吴宣仪和粉丝哭穷",
-      "onboard_time": 1705724965,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 1420747,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564538,
+      "num": 564538,
+      "word": "江苏武进一企业因粉尘爆炸致8死8伤",
+      "onboard_time": 1705726467,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556896,
       "num": 556896,
       "word": "陈芋汐全英文发言",
@@ -243,12 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 525389,
-      "num": 525389,
-      "word": "江苏武进一企业因粉尘爆炸致8死8伤",
-      "onboard_time": 1705726467,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 544044,
+      "num": 544044,
+      "word": "巴基斯坦恢复与伊朗关系",
+      "onboard_time": 1705726286,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 512148,
@@ -331,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403645,
-      "num": 403645,
-      "word": "巴基斯坦恢复与伊朗关系",
-      "onboard_time": 1705726286,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 399218,
       "num": 262495,
       "word": "为何百果园不受欢迎了",
@@ -353,6 +353,22 @@
       "onboard_time": 1705711284,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396673,
+      "num": 396673,
+      "word": "吴宣仪回应争议",
+      "onboard_time": 1705727904,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 388734,
+      "num": 388734,
+      "word": "高校偷偷为学生免费充了480度电",
+      "onboard_time": 1705726346,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376250,
@@ -393,6 +409,14 @@
       "onboard_time": 1705676491,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 341848,
+      "num": 341848,
+      "word": "985学子升学率涨势喜人",
+      "onboard_time": 1705723467,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 337387,
@@ -483,18 +507,18 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275202,
+      "num": 275202,
+      "word": "茅子俊力挺毛晓慧",
+      "onboard_time": 1705727787,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270794,
       "num": 235200,
       "word": "女子发现金戒指褪色竟救自己一命",
       "onboard_time": 1705670846,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265157,
-      "num": 265157,
-      "word": "高校偷偷为学生免费充了480度电",
-      "onboard_time": 1705726346,
       "rank": 21,
       "category": "社会新闻"
     },
@@ -507,12 +531,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 255828,
-      "num": 255828,
-      "word": "985学子升学率涨势喜人",
-      "onboard_time": 1705723467,
-      "rank": 24,
-      "category": "教育"
+      "raw_hot": 252818,
+      "num": 252818,
+      "word": "遭男同学抽凳摔断肋骨当事女生发声",
+      "onboard_time": 1705727727,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248865,
@@ -521,6 +545,14 @@
       "onboard_time": 1705681525,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248392,
+      "num": 248392,
+      "word": "河南南阳起火学校老师发声",
+      "onboard_time": 1705727069,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243580,
@@ -537,6 +569,14 @@
       "onboard_time": 1705694833,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238008,
+      "num": 234465,
+      "word": "谁懂俞飞鸿李小冉同框的含金量",
+      "onboard_time": 1705727667,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 231992,
@@ -595,6 +635,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 215943,
+      "num": 215943,
+      "word": "声生不息",
+      "onboard_time": 1705726588,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214785,
       "num": 214785,
       "word": "这就是街舞6总决赛节目单",
@@ -649,22 +697,6 @@
       "onboard_time": 1705704316,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206763,
-      "num": 206763,
-      "word": "声生不息",
-      "onboard_time": 1705726588,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 206409,
-      "num": 206409,
-      "word": "河南南阳起火学校老师发声",
-      "onboard_time": 1705727069,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204235,
@@ -819,6 +851,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 163519,
+      "num": 163519,
+      "word": "马思纯晒杨紫范丞丞导演拍立得",
+      "onboard_time": 1705728388,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162840,
       "num": 162840,
       "word": "陈若华有12个男朋友",
@@ -867,6 +907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 151240,
+      "num": 150245,
+      "word": "范丞丞秒摸出魏大勋",
+      "onboard_time": 1705725267,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150861,
       "num": 150861,
       "word": "C罗说击败哈兰德获最佳射手很自豪",
@@ -875,20 +923,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150245,
-      "num": 150245,
-      "word": "范丞丞秒摸出魏大勋",
-      "onboard_time": 1705725267,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147079,
       "num": 147079,
       "word": "边伯贤费加罗中国首封预告",
       "onboard_time": 1705677089,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 145073,
+      "num": 145073,
+      "word": "一个人过年也要备点年货",
+      "onboard_time": 1705727186,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 143495,
@@ -939,12 +987,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 137121,
-      "num": 137121,
-      "word": "一个人过年也要备点年货",
-      "onboard_time": 1705727186,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 136534,
+      "num": 136534,
+      "word": "杨婧茹获中国冬青奥首金",
+      "onboard_time": 1705728206,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 134860,
@@ -1059,14 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121176,
-      "num": 121176,
-      "word": "谁懂俞飞鸿李小冉同框的含金量",
-      "onboard_time": 1705727667,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120299,
       "num": 120299,
       "word": "吴宣仪 别开玩笑",
@@ -1099,12 +1139,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 114231,
-      "num": 114231,
-      "word": "遭男同学抽凳摔断肋骨当事女生发声",
-      "onboard_time": 1705727727,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 112977,
+      "num": 112977,
+      "word": "与恶魔有约15集好虐",
+      "onboard_time": 1705728567,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 110959,
@@ -1171,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99839,
+      "num": 99839,
+      "word": "年夜饭菜谱",
+      "onboard_time": 1705728746,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 97646,
       "num": 97646,
       "word": "机智的医生生活 翻拍",
@@ -1185,6 +1233,14 @@
       "onboard_time": 1705679007,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 96764,
+      "num": 96764,
+      "word": "一群年轻人靠写代码成为种田大神",
+      "onboard_time": 1705728806,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96086,
@@ -1265,6 +1321,14 @@
       "onboard_time": 1705674210,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 73406,
+      "num": 1233799,
+      "word": "铁齿钢牙大国重器在山间海底放大招",
+      "onboard_time": 1705727547,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73080,
@@ -1360,14 +1424,6 @@
       "word": "侠客岛评迁西老干部举报领导反被捕",
       "onboard_time": 1705688895,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23427,
-      "num": 1233799,
-      "word": "铁齿钢牙大国重器在山间海底放大招",
-      "onboard_time": 1705727547,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
