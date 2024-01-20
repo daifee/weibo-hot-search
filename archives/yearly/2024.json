@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705707261546,
+  "endTime": 1705713396751,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -713,6 +713,14 @@
       "onboard_time": 1704968910,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2205012,
+      "num": 2205012,
+      "word": "河南南阳一学校发生火灾已致13人遇难",
+      "onboard_time": 1705711885,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2204359,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704161618,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1369226,
-      "num": 564553,
-      "word": "萝莉岛",
-      "onboard_time": 1704436472,
-      "rank": 44,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

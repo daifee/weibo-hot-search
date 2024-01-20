@@ -1,7 +1,15 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705707261546,
+  "endTime": 1705713396751,
   "band_list": [
+    {
+      "raw_hot": 2205012,
+      "num": 2205012,
+      "word": "河南南阳一学校发生火灾已致13人遇难",
+      "onboard_time": 1705711885,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1321832,
       "num": 1321832,
@@ -27,6 +35,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1046339,
+      "num": 1046339,
+      "word": "重庆姐弟坠亡案孩子生母现状",
+      "onboard_time": 1705711284,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 921373,
       "num": 921373,
       "word": "12306回应成都至北京票价低至47元",
@@ -41,6 +57,30 @@
       "onboard_time": 1705677269,
       "rank": 4,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 775617,
+      "num": 775617,
+      "word": "萧山通报郝劭文称女儿被霸凌事件",
+      "onboard_time": 1705691114,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771888,
+      "num": 771888,
+      "word": "小男孩腿脚太快弄丢姥姥被妈妈灵魂拷问",
+      "onboard_time": 1705709363,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 758025,
+      "num": 758025,
+      "word": "偶遇周杰伦王俊凯一起逛街",
+      "onboard_time": 1705711347,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 756297,
@@ -67,12 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 644648,
-      "num": 644648,
-      "word": "萧山通报郝劭文称女儿被霸凌事件",
-      "onboard_time": 1705691114,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 601161,
+      "num": 601161,
+      "word": "苹果成全球负债第二多的科技公司",
+      "onboard_time": 1705709061,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 591047,
@@ -89,6 +129,14 @@
       "onboard_time": 1705675589,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 501142,
+      "num": 501142,
+      "word": "外媒报道赵丽颖辛芷蕾新片",
+      "onboard_time": 1705712905,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 487571,
@@ -113,6 +161,22 @@
       "onboard_time": 1705674570,
       "rank": 12,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 432818,
+      "num": 432818,
+      "word": "华中农大教授曾找举报同学交流",
+      "onboard_time": 1705710140,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397834,
+      "num": 397834,
+      "word": "张馨予近期状态",
+      "onboard_time": 1705711284,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 362011,
@@ -147,12 +211,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 331702,
+      "num": 331702,
+      "word": "新娘让两个弟弟穿裙子当伴娘",
+      "onboard_time": 1705712184,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323647,
+      "num": 323647,
+      "word": "3岁男童高烧惊厥幼师急得跪地拦车",
+      "onboard_time": 1705709001,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300279,
       "num": 300279,
       "word": "王俊凯插兜失败",
       "onboard_time": 1705675891,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 295888,
+      "num": 295888,
+      "word": "梁朝伟拒绝被叫daddy",
+      "onboard_time": 1705692616,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 285847,
+      "num": 285847,
+      "word": "4孩子置气吃醋父亲露背让抽打宣泄",
+      "onboard_time": 1705710084,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278924,
@@ -164,7 +260,7 @@
     },
     {
       "raw_hot": 270794,
-      "num": 225057,
+      "num": 233903,
       "word": "女子发现金戒指褪色竟救自己一命",
       "onboard_time": 1705670846,
       "rank": 21,
@@ -177,6 +273,30 @@
       "onboard_time": 1705681525,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243580,
+      "num": 243580,
+      "word": "尔滨有一片橘子味的钻石海",
+      "onboard_time": 1705706057,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 238068,
+      "num": 238068,
+      "word": "美国男子同时让5女怀孕还办迎婴派对",
+      "onboard_time": 1705694833,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231992,
+      "num": 231992,
+      "word": "练腿真的能瘦",
+      "onboard_time": 1705709963,
+      "rank": 25,
+      "category": "运动健身"
     },
     {
       "raw_hot": 229002,
@@ -203,20 +323,20 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 212079,
-      "num": 212079,
-      "word": "梁朝伟拒绝被叫daddy",
-      "onboard_time": 1705692616,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 208461,
       "num": 208461,
       "word": "陈飞宇全英文采访",
       "onboard_time": 1705675948,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 208204,
+      "num": 208204,
+      "word": "陈哲远骨相",
+      "onboard_time": 1705704316,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 198562,
@@ -227,20 +347,52 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197593,
-      "num": 80148,
-      "word": "美国男子同时让5女怀孕还办迎婴派对",
-      "onboard_time": 1705694833,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 192591,
+      "num": 192591,
+      "word": "扎克伯格宣布再买35万个GPU",
+      "onboard_time": 1705710442,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 191566,
-      "num": 79955,
+      "num": 168174,
       "word": "大寒",
       "onboard_time": 1705706057,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188449,
+      "num": 182290,
+      "word": "街边80一斤的凉拌土鸡",
+      "onboard_time": 1705712125,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 185895,
+      "num": 185895,
+      "word": "关晓彤被沈腾挡雨的动作帅到了",
+      "onboard_time": 1705712424,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185209,
+      "num": 180939,
+      "word": "这是古墓派单位房吗",
+      "onboard_time": 1705712125,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 183859,
+      "num": 183859,
+      "word": "王俊凯内场生图",
+      "onboard_time": 1705712666,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177491,
@@ -251,12 +403,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171856,
+      "num": 171856,
+      "word": "王楚钦孙颖莎3比2林高远王曼昱",
+      "onboard_time": 1705707980,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161527,
       "num": 161527,
       "word": "水瓶座生日快乐",
       "onboard_time": 1705674152,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154165,
+      "num": 154165,
+      "word": "日本小型探测器着陆月球表面但出故障",
+      "onboard_time": 1705709001,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 147079,
@@ -281,6 +449,14 @@
       "onboard_time": 1705677809,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136426,
+      "num": 136426,
+      "word": "王楚钦孙颖莎逆转夺冠",
+      "onboard_time": 1705708581,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 133704,
@@ -316,7 +492,7 @@
     },
     {
       "raw_hot": 126531,
-      "num": 77713,
+      "num": 121804,
       "word": "第一批滑雪的人已经滑不起雪了",
       "onboard_time": 1705705336,
       "rank": 26,
@@ -339,14 +515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 123462,
-      "num": 123462,
-      "word": "陈哲远骨相",
-      "onboard_time": 1705704316,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120299,
       "num": 120299,
       "word": "吴宣仪 别开玩笑",
@@ -363,6 +531,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 110959,
+      "num": 110959,
+      "word": "大寒是由冬向春的转折点",
+      "onboard_time": 1705711765,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109259,
       "num": 109259,
       "word": "还有三周就过年了",
@@ -377,6 +553,14 @@
       "onboard_time": 1705672226,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107538,
+      "num": 107538,
+      "word": "韩菱纱被附身",
+      "onboard_time": 1705712606,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 107412,
@@ -435,12 +619,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96076,
+      "num": 96076,
+      "word": "太空回来的导师提起备课滔滔不绝",
+      "onboard_time": 1705713264,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92339,
       "num": 92339,
       "word": "基金经理纷纷道歉",
       "onboard_time": 1705660827,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90709,
+      "num": 90709,
+      "word": "C罗说沙特联比法甲更有竞争力",
+      "onboard_time": 1705707920,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 90510,
@@ -459,20 +659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88229,
+      "num": 88229,
+      "word": "全嘻嘻对话区县公务员",
+      "onboard_time": 1705708880,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 87630,
+      "num": 87630,
+      "word": "太姥姥不接电话的原因找到了",
+      "onboard_time": 1705707320,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84324,
       "num": 84324,
       "word": "王星越反应",
       "onboard_time": 1705665927,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80390,
-      "num": 80390,
-      "word": "尔滨有一片橘子味的钻石海",
-      "onboard_time": 1705706057,
-      "rank": 28,
-      "category": "旅游"
     },
     {
       "raw_hot": 74533,
@@ -603,7 +811,7 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 8054,
+      "raw_hot": 8390,
       "num": 1141995,
       "word": "相约冰雪",
       "onboard_time": 1705410872,
