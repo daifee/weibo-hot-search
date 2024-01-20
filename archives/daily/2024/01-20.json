@@ -1,7 +1,15 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705754820399,
+  "endTime": 1705756735769,
   "band_list": [
+    {
+      "raw_hot": 2382451,
+      "num": 2382451,
+      "word": "王俊凯 很后悔昨天睡觉了",
+      "onboard_time": 1705752390,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
     {
       "raw_hot": 2205012,
       "num": 2205012,
@@ -9,14 +17,6 @@
       "onboard_time": 1705711885,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2202486,
-      "num": 2202486,
-      "word": "王俊凯 很后悔昨天睡觉了",
-      "onboard_time": 1705752390,
-      "rank": 0,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2198965,
@@ -107,6 +107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1159736,
+      "num": 834470,
+      "word": "吸草莓教程",
+      "onboard_time": 1705754788,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1131126,
       "num": 1131126,
       "word": "繁花2",
@@ -177,6 +185,14 @@
       "onboard_time": 1705677269,
       "rank": 4,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 864644,
+      "num": 864644,
+      "word": "您的十年就值这么多了",
+      "onboard_time": 1705751485,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 842003,
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752351,
+      "num": 752351,
+      "word": "谷歌殴打妻子致死工程师被控谋杀重罪",
+      "onboard_time": 1705754727,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744104,
       "num": 744104,
       "word": "王楚钦孙颖莎vs林高远王曼昱",
@@ -273,6 +297,22 @@
       "onboard_time": 1705732823,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 707502,
+      "num": 276799,
+      "word": "恋与深空心疼哥哥",
+      "onboard_time": 1705753227,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 703065,
+      "num": 278687,
+      "word": "27岁定律",
+      "onboard_time": 1705755268,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 691189,
@@ -387,12 +427,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 592469,
-      "num": 511152,
-      "word": "您的十年就值这么多了",
-      "onboard_time": 1705751485,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 597505,
+      "num": 264552,
+      "word": "爸爸逼着我吞下一个蛋黄",
+      "onboard_time": 1705755147,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 591047,
@@ -473,6 +513,22 @@
       "onboard_time": 1705732345,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527703,
+      "num": 527703,
+      "word": "约旦反超韩国",
+      "onboard_time": 1705754608,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 525901,
+      "num": 525901,
+      "word": "张拿铁好像是疯了",
+      "onboard_time": 1705754428,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 518668,
@@ -571,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457158,
+      "num": 457158,
+      "word": "公子于鑫",
+      "onboard_time": 1705755329,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456698,
       "num": 456698,
       "word": "Switch2",
@@ -585,14 +649,6 @@
       "onboard_time": 1705733424,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 448914,
-      "num": 448914,
-      "word": "吸草莓教程",
-      "onboard_time": 1705754788,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 436705,
@@ -691,6 +747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 396462,
+      "num": 396462,
+      "word": "目击者讲述河南南阳学校火灾",
+      "onboard_time": 1705754548,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390526,
       "num": 390526,
       "word": "普京钻进冰窟窿沐浴",
@@ -771,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352113,
-      "num": 276799,
-      "word": "恋与深空心疼哥哥",
-      "onboard_time": 1705753227,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 351849,
       "num": 285184,
       "word": "男生喜欢甜妹是有原因的",
@@ -817,6 +873,14 @@
       "onboard_time": 1705744527,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338534,
+      "num": 338534,
+      "word": "孙兴慜勺子点球",
+      "onboard_time": 1705754910,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 337387,
@@ -1043,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262772,
-      "num": 204278,
-      "word": "张拿铁好像是疯了",
-      "onboard_time": 1705754428,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 259441,
       "num": 259441,
       "word": "声生不息",
@@ -1187,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230002,
+      "num": 209441,
+      "word": "吃沙拉酱等于喝油",
+      "onboard_time": 1705755931,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 229002,
       "num": 229002,
       "word": "美甲店 杀熟",
@@ -1289,6 +1353,14 @@
       "onboard_time": 1705712424,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209700,
+      "num": 209700,
+      "word": "TTG重庆电子大赛冠军",
+      "onboard_time": 1705755450,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 209315,
@@ -1587,6 +1659,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183373,
+      "num": 183373,
+      "word": "dykens 淘汰",
+      "onboard_time": 1705756289,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182686,
+      "num": 182686,
+      "word": "58岁弹钢琴的工人大叔受邀看春晚",
+      "onboard_time": 1705755568,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181199,
       "num": 181199,
       "word": "鄂伦春族在四川吃串串被暖哭",
@@ -1619,14 +1707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176689,
-      "num": 176689,
-      "word": "约旦反超韩国",
-      "onboard_time": 1705754608,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176381,
       "num": 176381,
       "word": "本地人回哈尔滨有多陌生",
@@ -1651,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173240,
+      "num": 173240,
+      "word": "跨国版我的未来不是梦",
+      "onboard_time": 1705756110,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171856,
       "num": 171856,
       "word": "王楚钦孙颖莎3比2林高远王曼昱",
@@ -1665,14 +1753,6 @@
       "onboard_time": 1705737085,
       "rank": 27,
       "category": "综艺,剧集"
-    },
-    {
-      "raw_hot": 169660,
-      "num": 180075,
-      "word": "目击者讲述河南南阳学校火灾",
-      "onboard_time": 1705754548,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169613,
@@ -1745,6 +1825,14 @@
       "onboard_time": 1705708581,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156606,
+      "num": 156606,
+      "word": "陈星旭和章若楠说话都自带波浪线",
+      "onboard_time": 1705755868,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 156333,
@@ -2019,14 +2107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130814,
-      "num": 130814,
-      "word": "谷歌殴打妻子致死工程师被控谋杀重罪",
-      "onboard_time": 1705754727,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129581,
       "num": 129581,
       "word": "春运火车票加大优惠力度",
@@ -2040,6 +2120,14 @@
       "word": "江西公主到洛阳第一天就报警了",
       "onboard_time": 1705667189,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129144,
+      "num": 129144,
+      "word": "律师谈华人工程师杀妻案如何量刑",
+      "onboard_time": 1705756647,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2531,6 +2619,14 @@
       "category": "社会新闻,剧集"
     },
     {
+      "raw_hot": 67592,
+      "num": 198390,
+      "word": "博士乘组一个意外发现改变太空授课",
+      "onboard_time": 1705755989,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67112,
       "num": 67112,
       "word": "莎头让二追三",
@@ -2633,6 +2729,14 @@
       "onboard_time": 1705723225,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19985,
+      "num": 422323,
+      "word": "跟着杨紫上天猫办年货",
+      "onboard_time": 1705755629,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16795,
