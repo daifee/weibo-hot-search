@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705739657610,
+  "endTime": 1705742188250,
   "band_list": [
     {
       "raw_hot": 2205012,
@@ -75,6 +75,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1186190,
+      "num": 1186190,
+      "word": "辛巴称最应该给孩子吃预制菜",
+      "onboard_time": 1705736067,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1101296,
       "num": 1101296,
       "word": "姐弟坠亡案两凶手二审态度大转变",
@@ -89,14 +97,6 @@
       "onboard_time": 1705676190,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1021418,
-      "num": 1021418,
-      "word": "辛巴称最应该给孩子吃预制菜",
-      "onboard_time": 1705736067,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 1007089,
@@ -121,6 +121,14 @@
       "onboard_time": 1705677269,
       "rank": 4,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 842067,
+      "num": 842067,
+      "word": "高一女生保送清华本硕博连读",
+      "onboard_time": 1705739007,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 842003,
@@ -153,6 +161,14 @@
       "onboard_time": 1705724007,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 792388,
+      "num": 792388,
+      "word": "唐嫣希望原班人马拍繁花2",
+      "onboard_time": 1705739906,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 779555,
@@ -267,20 +283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 614484,
+      "num": 225778,
+      "word": "小夫妻要第三胎却意外怀上了三胞胎",
+      "onboard_time": 1705737329,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601161,
       "num": 601161,
       "word": "苹果成全球负债第二多的科技公司",
       "onboard_time": 1705709061,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 594555,
-      "num": 184128,
-      "word": "小夫妻要第三胎却意外怀上了三胞胎",
-      "onboard_time": 1705737329,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 591047,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 539935,
-      "num": 183391,
+      "num": 225629,
       "word": "早睡把人际关系网都睡出来了",
       "onboard_time": 1705737506,
       "rank": 21,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 482684,
-      "num": 347545,
+      "num": 369962,
       "word": "王一博只有一天排练时间",
       "onboard_time": 1705736846,
       "rank": 11,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 471933,
-      "num": 330911,
+      "num": 374934,
       "word": "起猛了在庆余年2看到羽皇了",
       "onboard_time": 1705734867,
       "rank": 42,
@@ -467,8 +483,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419194,
+      "num": 373169,
+      "word": "影版花千骨票房",
+      "onboard_time": 1705737085,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 404447,
-      "num": 182060,
+      "num": 223190,
       "word": "刮刮乐中100万的那个年轻人消失了",
       "onboard_time": 1705735585,
       "rank": 31,
@@ -515,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 373228,
-      "num": 192858,
-      "word": "影版花千骨票房",
-      "onboard_time": 1705737085,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 375525,
+      "num": 375525,
+      "word": "狼队 菜得让人发笑",
+      "onboard_time": 1705740745,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 364802,
@@ -529,6 +553,14 @@
       "onboard_time": 1705718907,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 363937,
+      "num": 363937,
+      "word": "张黎科普什么是移鼠接猪",
+      "onboard_time": 1705740148,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 362011,
@@ -577,6 +609,14 @@
       "onboard_time": 1705729165,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 328113,
+      "num": 328113,
+      "word": "惹了沈星回 等于谁都没惹",
+      "onboard_time": 1705741047,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 323647,
@@ -652,7 +692,7 @@
     },
     {
       "raw_hot": 288890,
-      "num": 178660,
+      "num": 184455,
       "word": "一个孕一个吐分工明确",
       "onboard_time": 1705735767,
       "rank": 38,
@@ -737,6 +777,14 @@
       "onboard_time": 1705713987,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249241,
+      "num": 220519,
+      "word": "贾乃亮录一期节目杜华就跑一个艺人",
+      "onboard_time": 1705739546,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 248865,
@@ -827,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226884,
+      "num": 226884,
+      "word": "女子吃一个多月胶原蛋白肝损伤",
+      "onboard_time": 1705739486,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 225932,
       "num": 225932,
       "word": "要久久爱首播2集不断更",
@@ -841,6 +897,22 @@
       "onboard_time": 1705723407,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219817,
+      "num": 219817,
+      "word": "街舞6队长穿搭",
+      "onboard_time": 1705740986,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 218984,
+      "num": 218984,
+      "word": "睡眠冷知识",
+      "onboard_time": 1705741405,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 216545,
@@ -881,6 +953,14 @@
       "onboard_time": 1705712424,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209584,
+      "num": 209584,
+      "word": "男生喜欢甜妹是有原因的",
+      "onboard_time": 1705742068,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 209315,
@@ -924,7 +1004,7 @@
     },
     {
       "raw_hot": 200346,
-      "num": 160210,
+      "num": 163880,
       "word": "陈祥龙游羊官宣",
       "onboard_time": 1705738708,
       "rank": 37,
@@ -993,14 +1073,6 @@
       "onboard_time": 1705706057,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189815,
-      "num": 160024,
-      "word": "贾乃亮录一期节目杜华就跑一个艺人",
-      "onboard_time": 1705739546,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 189233,
@@ -1107,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173758,
+      "num": 173758,
+      "word": "在过年这件事上00后有多讲究",
+      "onboard_time": 1705740745,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171856,
       "num": 171856,
       "word": "王楚钦孙颖莎3比2林高远王曼昱",
@@ -1153,14 +1233,6 @@
       "onboard_time": 1705714585,
       "rank": 49,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 163321,
-      "num": 159427,
-      "word": "高一女生保送清华本硕博连读",
-      "onboard_time": 1705739007,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 162840,
@@ -1579,12 +1651,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 111778,
-      "num": 111778,
-      "word": "女子吃一个多月胶原蛋白肝损伤",
-      "onboard_time": 1705739486,
-      "rank": 44,
-      "category": "健康医疗"
+      "raw_hot": 113545,
+      "num": 113545,
+      "word": "陈若华快碎了",
+      "onboard_time": 1705741647,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 110959,
@@ -1611,12 +1683,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107555,
+      "num": 107555,
+      "word": "Switch2",
+      "onboard_time": 1705742008,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107412,
       "num": 107412,
       "word": "张新成咬杯子 小狗叼飞盘",
       "onboard_time": 1705681405,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106076,
+      "num": 106076,
+      "word": "世界之外 易遇症",
+      "onboard_time": 1705741469,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 105197,
+      "num": 105197,
+      "word": "章若楠什刹海滑冰",
+      "onboard_time": 1705742008,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 104917,
@@ -1721,6 +1817,14 @@
       "onboard_time": 1705679007,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 96349,
+      "num": 96349,
+      "word": "以为狗走开了原来是走位",
+      "onboard_time": 1705742128,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 96086,
