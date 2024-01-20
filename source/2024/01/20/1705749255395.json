@@ -1,0 +1,410 @@
+{
+  "runTime": 1705749255395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1723649,
+        "num": 1723649,
+        "word": "美警方称杀妻中国工程师高度残忍",
+        "onboard_time": 1705743325,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501534,
+        "num": 1144032,
+        "word": "山东大姐卖37年炉包供出研究生儿子",
+        "onboard_time": 1705744226,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7006,
+        "num": 1131315,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131126,
+        "num": 1131126,
+        "word": "繁花2",
+        "onboard_time": 1705746087,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276084,
+        "num": 927375,
+        "word": "高校偷偷为学生免费充了480度电",
+        "onboard_time": 1705726346,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875324,
+        "num": 875324,
+        "word": "唐嫣希望原班人马拍繁花2",
+        "onboard_time": 1705739906,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198373,
+        "num": 648617,
+        "word": "医院门诊大厅开音乐会缓解病人焦虑",
+        "onboard_time": 1705744226,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644516,
+        "num": 644516,
+        "word": "丁程鑫追星成功王一博",
+        "onboard_time": 1705744706,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612777,
+        "num": 612777,
+        "word": "赵今麦 异域公主",
+        "onboard_time": 1705746328,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 531961,
+        "num": 531961,
+        "word": "辛巴称最应该给孩子吃预制菜",
+        "onboard_time": 1705736067,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 518668,
+        "num": 518668,
+        "word": "仙剑之父夸虞书欣可爱",
+        "onboard_time": 1705746929,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425731,
+        "num": 425731,
+        "word": "毛晓慧 对不起丑到大家了",
+        "onboard_time": 1705720406,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377754,
+        "num": 377754,
+        "word": "知情人称杀妻案涉案二人未被谷歌裁员",
+        "onboard_time": 1705743086,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340610,
+        "num": 340610,
+        "word": "变形计之要久久爱特辑",
+        "onboard_time": 1705744527,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333396,
+        "num": 333396,
+        "word": "王健林已卖10座万达广场",
+        "onboard_time": 1705716686,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329637,
+        "num": 329637,
+        "word": "花花被夺笋后淡定再来一根",
+        "onboard_time": 1705744346,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328368,
+        "num": 328368,
+        "word": "断崖式分手",
+        "onboard_time": 1705748607,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321724,
+        "num": 321724,
+        "word": "高一女生保送清华本硕博连读",
+        "onboard_time": 1705739007,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 306889,
+        "num": 306889,
+        "word": "庆余年2",
+        "onboard_time": 1705721726,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304789,
+        "num": 304789,
+        "word": "女子提离职数月才获批单位赔56万",
+        "onboard_time": 1705745906,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416787,
+        "num": 304241,
+        "word": "小夫妻要第三胎却意外怀上了三胞胎",
+        "onboard_time": 1705737329,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295028,
+        "num": 295028,
+        "word": "SEVENTEEN澳门演唱会",
+        "onboard_time": 1705746510,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 294312,
+        "num": 294312,
+        "word": "这就是街舞 灯牌",
+        "onboard_time": 1705748007,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268959,
+        "num": 268959,
+        "word": "早睡把人际关系网都睡出来了",
+        "onboard_time": 1705737506,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250297,
+        "num": 250297,
+        "word": "日本超市的毛蟹",
+        "onboard_time": 1705748306,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 247095,
+        "num": 247095,
+        "word": "Switch2",
+        "onboard_time": 1705742008,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234059,
+        "num": 234059,
+        "word": "天秤 硬撑",
+        "onboard_time": 1705742547,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227954,
+        "num": 227954,
+        "word": "刮刮乐中100万的那个年轻人消失了",
+        "onboard_time": 1705735585,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218657,
+        "num": 218657,
+        "word": "泽连斯基因特朗普感到不安",
+        "onboard_time": 1705745006,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196481,
+        "num": 196481,
+        "word": "张艺兴 威龙舞台",
+        "onboard_time": 1705744587,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195567,
+        "num": 195567,
+        "word": "因为懒得结婚被我妈说不要回家过年",
+        "onboard_time": 1705748249,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194320,
+        "num": 194320,
+        "word": "应急局回应学校火灾致13人遇难",
+        "onboard_time": 1705746087,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187276,
+        "num": 187276,
+        "word": "YG下单蝴蝶公主预定款",
+        "onboard_time": 1705746987,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187175,
+        "num": 187175,
+        "word": "男生喜欢甜妹是有原因的",
+        "onboard_time": 1705742068,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176726,
+        "num": 176726,
+        "word": "电视剧你也有今天",
+        "onboard_time": 1705748547,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176633,
+        "num": 176633,
+        "word": "惹了沈星回 等于谁都没惹",
+        "onboard_time": 1705741047,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168178,
+        "num": 168178,
+        "word": "鞠婧祎为毛晓慧发声",
+        "onboard_time": 1705732647,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163952,
+        "num": 163952,
+        "word": "吴宣仪和粉丝哭穷",
+        "onboard_time": 1705724965,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163716,
+        "num": 163716,
+        "word": "谷歌中国籍男员工杀妻案细节披露",
+        "onboard_time": 1705736248,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151281,
+        "num": 151281,
+        "word": "喝烫水可能会致癌",
+        "onboard_time": 1705748786,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149841,
+        "num": 149841,
+        "word": "这就是街舞直播",
+        "onboard_time": 1705743928,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148359,
+        "num": 148359,
+        "word": "九省联考英语",
+        "onboard_time": 1705743866,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143927,
+        "num": 143927,
+        "word": "感觉和魏大勋有点暧昧了",
+        "onboard_time": 1705732823,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139551,
+        "num": 139551,
+        "word": "河南发生火灾学校涵盖小学和幼儿园",
+        "onboard_time": 1705743386,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137349,
+        "num": 137349,
+        "word": "韩国vs约旦首发",
+        "onboard_time": 1705747767,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136473,
+        "num": 136473,
+        "word": "狼队 菜得让人发笑",
+        "onboard_time": 1705740745,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134537,
+        "num": 134537,
+        "word": "范丞丞机车男友混剪",
+        "onboard_time": 1705747888,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133123,
+        "num": 133123,
+        "word": "无偿to签 命硬的来",
+        "onboard_time": 1705749206,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132404,
+        "num": 132404,
+        "word": "影版花千骨票房",
+        "onboard_time": 1705737085,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129435,
+        "num": 129435,
+        "word": "周杰伦找王俊凯吃早餐",
+        "onboard_time": 1705733424,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定科技报国为民造福理想#"
+    }
+  }
+}
