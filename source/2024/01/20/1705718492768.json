@@ -1,0 +1,410 @@
+{
+  "runTime": 1705718492768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1887993,
+        "num": 1887993,
+        "word": "王健林已卖10座万达广场",
+        "onboard_time": 1705716686,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1266122,
+        "num": 1266122,
+        "word": "河南南阳一学校发生火灾已致13人遇难",
+        "onboard_time": 1705711885,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11274,
+        "num": 1045829,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000782,
+        "num": 1000782,
+        "word": "重庆姐弟坠亡案孩子生母现状",
+        "onboard_time": 1705711284,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933014,
+        "num": 933014,
+        "word": "外媒报道赵丽颖辛芷蕾新片",
+        "onboard_time": 1705712905,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 794439,
+        "num": 794439,
+        "word": "新娘让两个弟弟穿裙子当伴娘",
+        "onboard_time": 1705712184,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581018,
+        "num": 581018,
+        "word": "偶遇周杰伦王俊凯一起逛街",
+        "onboard_time": 1705711347,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509647,
+        "num": 509647,
+        "word": "日本爆冷",
+        "onboard_time": 1705671747,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 498586,
+        "num": 498586,
+        "word": "如果奔跑 撕碎婚姻的虚伪体面",
+        "onboard_time": 1705715065,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465669,
+        "num": 465669,
+        "word": "小男孩腿脚太快弄丢姥姥被妈妈灵魂拷问",
+        "onboard_time": 1705709363,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436705,
+        "num": 436705,
+        "word": "小杨哥称没卖过假五常大米",
+        "onboard_time": 1705716507,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 329974,
+        "num": 329974,
+        "word": "亳州文旅把妲己请过去了",
+        "onboard_time": 1705677269,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 315528,
+        "num": 315528,
+        "word": "杨紫范丞丞新剧今日开播",
+        "onboard_time": 1705716985,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312767,
+        "num": 312767,
+        "word": "华中农大教授曾找举报同学交流",
+        "onboard_time": 1705710140,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299610,
+        "num": 299610,
+        "word": "Jennie去看了曹承衍演唱会",
+        "onboard_time": 1705713748,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 298614,
+        "num": 298614,
+        "word": "韩国人将翻拍长津湖",
+        "onboard_time": 1705668867,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258543,
+        "num": 258543,
+        "word": "河南一学校发生火灾负责人已被控制",
+        "onboard_time": 1705713867,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257976,
+        "num": 257976,
+        "word": "哈佛女孩刘亦婷成为美国普通中产",
+        "onboard_time": 1705671268,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232735,
+        "num": 232735,
+        "word": "张馨予近期状态",
+        "onboard_time": 1705711284,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228637,
+        "num": 228637,
+        "word": "谷歌中国工程师命案和裁员无关",
+        "onboard_time": 1705717286,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392130,
+        "num": 228543,
+        "word": "为何百果园不受欢迎了",
+        "onboard_time": 1705715005,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269702,
+        "num": 228314,
+        "word": "越卖越便宜的iPhone不香了吗",
+        "onboard_time": 1705714824,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 258903,
+        "num": 228253,
+        "word": "其实睡不着的是张怀民",
+        "onboard_time": 1705716025,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227945,
+        "num": 227945,
+        "word": "萧山通报郝劭文称女儿被霸凌事件",
+        "onboard_time": 1705691114,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 209031,
+        "num": 209031,
+        "word": "姐弟坠亡案两凶手二审态度大转变",
+        "onboard_time": 1705718126,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189233,
+        "num": 189233,
+        "word": "萌兰小jio一蹬又在越狱了",
+        "onboard_time": 1705713445,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186264,
+        "num": 186264,
+        "word": "苹果成全球负债第二多的科技公司",
+        "onboard_time": 1705709061,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184884,
+        "num": 184884,
+        "word": "庆余年2预约破1000万",
+        "onboard_time": 1705718424,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181199,
+        "num": 181199,
+        "word": "鄂伦春族在四川吃串串被暖哭",
+        "onboard_time": 1705717166,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176537,
+        "num": 176537,
+        "word": "世界之外 上头",
+        "onboard_time": 1705713987,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168905,
+        "num": 168905,
+        "word": "12306回应成都至北京票价低至47元",
+        "onboard_time": 1705680388,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165727,
+        "num": 165727,
+        "word": "尿酸高偏方",
+        "onboard_time": 1705714528,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165512,
+        "num": 165512,
+        "word": "女子发现金戒指褪色竟救自己一命",
+        "onboard_time": 1705670846,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164459,
+        "num": 164459,
+        "word": "女子爬泰山拍到罕见碧霞宝光",
+        "onboard_time": 1705714585,
+        "rank": 33,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 162840,
+        "num": 162840,
+        "word": "陈若华有12个男朋友",
+        "onboard_time": 1705716208,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159336,
+        "num": 159336,
+        "word": "王楚钦孙颖莎逆转夺冠",
+        "onboard_time": 1705708581,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151042,
+        "num": 151042,
+        "word": "美国男子同时让5女怀孕还办迎婴派对",
+        "onboard_time": 1705694833,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149768,
+        "num": 149768,
+        "word": "C罗说击败哈兰德获最佳射手很自豪",
+        "onboard_time": 1705714824,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143238,
+        "num": 143238,
+        "word": "大寒",
+        "onboard_time": 1705706057,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140833,
+        "num": 140833,
+        "word": "街边80一斤的凉拌土鸡",
+        "onboard_time": 1705712125,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139085,
+        "num": 139085,
+        "word": "原神",
+        "onboard_time": 1705717646,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136273,
+        "num": 136273,
+        "word": "于正替吴宣仪澄清",
+        "onboard_time": 1705675589,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134858,
+        "num": 134858,
+        "word": "这是古墓派单位房吗",
+        "onboard_time": 1705712125,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131178,
+        "num": 131178,
+        "word": "4孩子置气吃醋父亲露背让抽打宣泄",
+        "onboard_time": 1705710084,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131122,
+        "num": 131122,
+        "word": "广州是一个不为面子而活的城市",
+        "onboard_time": 1705715484,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130645,
+        "num": 130645,
+        "word": "王鹤棣的店要开了",
+        "onboard_time": 1705677930,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128486,
+        "num": 128486,
+        "word": "春运火车票加大优惠力度",
+        "onboard_time": 1705716626,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121916,
+        "num": 121916,
+        "word": "寒假工招到真正的大学生了",
+        "onboard_time": 1705676491,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121199,
+        "num": 121199,
+        "word": "澳网",
+        "onboard_time": 1705718247,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118855,
+        "num": 118855,
+        "word": "韩菱纱被附身",
+        "onboard_time": 1705712606,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定科技报国为民造福理想#"
+    }
+  }
+}
