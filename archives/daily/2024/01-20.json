@@ -1,6 +1,6 @@
 {
   "startTime": 1705681393524,
-  "endTime": 1705732520128,
+  "endTime": 1705734963117,
   "band_list": [
     {
       "raw_hot": 2205012,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779555,
+      "num": 779555,
+      "word": "董宇辉账号认证变更",
+      "onboard_time": 1705733068,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 775617,
       "num": 775617,
       "word": "萧山通报郝劭文称女儿被霸凌事件",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 762545,
-      "num": 396673,
+      "num": 449773,
       "word": "吴宣仪回应争议",
       "onboard_time": 1705727904,
       "rank": 10,
@@ -209,6 +217,22 @@
       "onboard_time": 1705677208,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 665183,
+      "num": 665183,
+      "word": "感觉和魏大勋有点暧昧了",
+      "onboard_time": 1705732823,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 646277,
+      "num": 646277,
+      "word": "鞠婧祎为毛晓慧发声",
+      "onboard_time": 1705732647,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 637792,
@@ -339,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449148,
+      "num": 449148,
+      "word": "周杰伦找王俊凯吃早餐",
+      "onboard_time": 1705733424,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436705,
       "num": 436705,
       "word": "小杨哥称没卖过假五常大米",
@@ -377,6 +409,14 @@
       "onboard_time": 1705711284,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396353,
+      "num": 396353,
+      "word": "8旬夫妇将房产过户给孙子被赶出家门",
+      "onboard_time": 1705732345,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376250,
@@ -483,6 +523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 300158,
+      "num": 300158,
+      "word": "王一博中式印花短褂",
+      "onboard_time": 1705732525,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 295888,
       "num": 295888,
       "word": "梁朝伟拒绝被叫daddy",
@@ -512,6 +560,14 @@
       "word": "4孩子置气吃醋父亲露背让抽打宣泄",
       "onboard_time": 1705710084,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284273,
+      "num": 284273,
+      "word": "普京钻进冰窟窿沐浴",
+      "onboard_time": 1705734022,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -555,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262941,
+      "num": 262941,
+      "word": "周杰伦林俊杰生图",
+      "onboard_time": 1705731984,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259441,
       "num": 259441,
       "word": "声生不息",
@@ -577,6 +641,14 @@
       "onboard_time": 1705681525,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248847,
+      "num": 215903,
+      "word": "萨摩耶把边牧关进了笼子",
+      "onboard_time": 1705733485,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 248392,
@@ -617,6 +689,14 @@
       "onboard_time": 1705709963,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 231746,
+      "num": 231746,
+      "word": "哈佛女孩刘亦婷",
+      "onboard_time": 1705733966,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 230712,
@@ -723,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205286,
-      "num": 205286,
-      "word": "周杰伦林俊杰生图",
-      "onboard_time": 1705731984,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204235,
       "num": 204235,
       "word": "恋与深空",
@@ -755,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196784,
+      "num": 196784,
+      "word": "仙剑四五毒兽上线",
+      "onboard_time": 1705732345,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196060,
       "num": 196060,
       "word": "杨紫轻甜糖果妆",
@@ -777,6 +857,14 @@
       "onboard_time": 1705710442,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191975,
+      "num": 191975,
+      "word": "马嘉祺居家vlog",
+      "onboard_time": 1705733906,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 191566,
@@ -883,12 +971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169664,
-      "num": 169664,
-      "word": "仙剑四五毒兽上线",
-      "onboard_time": 1705732345,
+      "raw_hot": 167520,
+      "num": 167520,
+      "word": "当狗子偷吃了一整包红薯干",
+      "onboard_time": 1705734084,
       "rank": 28,
-      "category": "剧集"
+      "category": "幽默"
     },
     {
       "raw_hot": 165727,
@@ -1035,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140471,
+      "num": 140471,
+      "word": "义乌200多岁的玉兰古树开花了",
+      "onboard_time": 1705734326,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 139085,
       "num": 139085,
       "word": "原神",
@@ -1105,6 +1201,14 @@
       "onboard_time": 1705667189,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129353,
+      "num": 129353,
+      "word": "茅子俊把白子画杀阡陌都演了",
+      "onboard_time": 1705734748,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 128402,
@@ -1187,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120453,
+      "num": 120453,
+      "word": "仙剑之父点赞许凯",
+      "onboard_time": 1705734626,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120299,
       "num": 120299,
       "word": "吴宣仪 别开玩笑",
@@ -1235,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110290,
+      "num": 110290,
+      "word": "起猛了在庆余年2看到羽皇了",
+      "onboard_time": 1705734867,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109259,
       "num": 109259,
       "word": "还有三周就过年了",
@@ -1257,6 +1377,14 @@
       "onboard_time": 1705681405,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104917,
+      "num": 104917,
+      "word": "一刹那指的是多长时间",
+      "onboard_time": 1705734144,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 104204,
@@ -1305,6 +1433,14 @@
       "onboard_time": 1705728746,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 98790,
+      "num": 98790,
+      "word": "要久久爱录hi6花絮",
+      "onboard_time": 1705734447,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 97646,
@@ -1393,14 +1529,6 @@
       "onboard_time": 1705707320,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86144,
-      "num": 86144,
-      "word": "8旬夫妇将房产过户给孙子被赶出家门",
-      "onboard_time": 1705732345,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84324,
