@@ -1,0 +1,410 @@
+{
+  "runTime": 1705750435375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1084094,
+        "num": 1084094,
+        "word": "繁花2",
+        "onboard_time": 1705746087,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466091,
+        "num": 842098,
+        "word": "山东大姐卖37年炉包供出研究生儿子",
+        "onboard_time": 1705744226,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7696,
+        "num": 801541,
+        "word": "相约冰雪",
+        "onboard_time": 1705410872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801413,
+        "num": 801413,
+        "word": "唐嫣希望原班人马拍繁花2",
+        "onboard_time": 1705739906,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286028,
+        "num": 651174,
+        "word": "高校偷偷为学生免费充了480度电",
+        "onboard_time": 1705726346,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1575638,
+        "num": 642104,
+        "word": "美警方称杀妻中国工程师高度残忍",
+        "onboard_time": 1705743325,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169337,
+        "num": 620382,
+        "word": "医院门诊大厅开音乐会缓解病人焦虑",
+        "onboard_time": 1705744226,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615362,
+        "num": 615362,
+        "word": "赵今麦 异域公主",
+        "onboard_time": 1705746328,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 577811,
+        "num": 577811,
+        "word": "女子提离职数月才获批单位赔56万",
+        "onboard_time": 1705745906,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565903,
+        "num": 565903,
+        "word": "丁程鑫追星成功王一博",
+        "onboard_time": 1705744706,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 610758,
+        "num": 547420,
+        "word": "断崖式分手",
+        "onboard_time": 1705748607,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 508446,
+        "num": 508446,
+        "word": "仙剑之父夸虞书欣可爱",
+        "onboard_time": 1705746929,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485222,
+        "num": 485222,
+        "word": "辛巴称最应该给孩子吃预制菜",
+        "onboard_time": 1705736067,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 405726,
+        "num": 405726,
+        "word": "毛晓慧 对不起丑到大家了",
+        "onboard_time": 1705720406,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325283,
+        "num": 325283,
+        "word": "王健林已卖10座万达广场",
+        "onboard_time": 1705716686,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308614,
+        "num": 308614,
+        "word": "知情人称杀妻案涉案二人未被谷歌裁员",
+        "onboard_time": 1705743086,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302723,
+        "num": 302723,
+        "word": "庆余年2",
+        "onboard_time": 1705721726,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293763,
+        "num": 293763,
+        "word": "变形计之要久久爱特辑",
+        "onboard_time": 1705744527,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275173,
+        "num": 275173,
+        "word": "无偿to签 命硬的来",
+        "onboard_time": 1705749206,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 257543,
+        "num": 257543,
+        "word": "花花被夺笋后淡定再来一根",
+        "onboard_time": 1705744346,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41985,
+        "num": 255320,
+        "word": "汪苏泷看了王者动画想过年",
+        "onboard_time": 1705749628,
+        "rank": 20,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 385941,
+        "num": 255305,
+        "word": "小夫妻要第三胎却意外怀上了三胞胎",
+        "onboard_time": 1705737329,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267976,
+        "num": 255033,
+        "word": "这就是街舞 灯牌",
+        "onboard_time": 1705748007,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254640,
+        "num": 254640,
+        "word": "高一女生保送清华本硕博连读",
+        "onboard_time": 1705739007,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 252247,
+        "num": 252247,
+        "word": "日本超市的毛蟹",
+        "onboard_time": 1705748306,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 246114,
+        "num": 246114,
+        "word": "SEVENTEEN澳门演唱会",
+        "onboard_time": 1705746510,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 244824,
+        "num": 244824,
+        "word": "早睡把人际关系网都睡出来了",
+        "onboard_time": 1705737506,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233117,
+        "num": 233117,
+        "word": "约旦vs韩国",
+        "onboard_time": 1705749388,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219481,
+        "num": 219481,
+        "word": "电视剧你也有今天",
+        "onboard_time": 1705748547,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216460,
+        "num": 216460,
+        "word": "谈恋爱越来越难的原因",
+        "onboard_time": 1705749747,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201885,
+        "num": 201885,
+        "word": "中式和新中式有什么区别",
+        "onboard_time": 1705749326,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201480,
+        "num": 201480,
+        "word": "ibuki 女王",
+        "onboard_time": 1705749686,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196445,
+        "num": 196445,
+        "word": "天秤 硬撑",
+        "onboard_time": 1705742547,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193096,
+        "num": 193096,
+        "word": "刮刮乐中100万的那个年轻人消失了",
+        "onboard_time": 1705735585,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192830,
+        "num": 192830,
+        "word": "年会不能停票房破9亿",
+        "onboard_time": 1705749506,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190557,
+        "num": 190557,
+        "word": "因为懒得结婚被我妈说不要回家过年",
+        "onboard_time": 1705748249,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187675,
+        "num": 187675,
+        "word": "长白山回应网传在建云顶天宫",
+        "onboard_time": 1705749266,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 177825,
+        "num": 177825,
+        "word": "泽连斯基因特朗普感到不安",
+        "onboard_time": 1705745006,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 176042,
+        "num": 176042,
+        "word": "Switch2",
+        "onboard_time": 1705742008,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164463,
+        "num": 164463,
+        "word": "惹了沈星回 等于谁都没惹",
+        "onboard_time": 1705741047,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163023,
+        "num": 163023,
+        "word": "鞠婧祎为毛晓慧发声",
+        "onboard_time": 1705732647,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160888,
+        "num": 160888,
+        "word": "张艺兴 威龙舞台",
+        "onboard_time": 1705744587,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155587,
+        "num": 155587,
+        "word": "男生喜欢甜妹是有原因的",
+        "onboard_time": 1705742068,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154797,
+        "num": 154797,
+        "word": "适合久坐人群的4个健身动作",
+        "onboard_time": 1705750109,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 150604,
+        "num": 150604,
+        "word": "应急局回应学校火灾致13人遇难",
+        "onboard_time": 1705746087,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132682,
+        "num": 132682,
+        "word": "谷歌中国籍男员工杀妻案细节披露",
+        "onboard_time": 1705736248,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127485,
+        "num": 127485,
+        "word": "狼队 菜得让人发笑",
+        "onboard_time": 1705740745,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125351,
+        "num": 125351,
+        "word": "影版花千骨票房",
+        "onboard_time": 1705737085,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125219,
+        "num": 125219,
+        "word": "这就是街舞直播",
+        "onboard_time": 1705743928,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125177,
+        "num": 125177,
+        "word": "斯瓦泰克出局",
+        "onboard_time": 1705750350,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进人的全面发展和社会全面进步#"
+    }
+  }
+}
