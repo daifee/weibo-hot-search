@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705774869009,
+  "endTime": 1705775637936,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -46371,6 +46371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127407,
+      "num": 127407,
+      "word": "王嘉尔举着粉丝照片合照",
+      "onboard_time": 1705773377,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127355,
       "num": 127355,
       "word": "丁程鑫回家的伙食",
@@ -47313,14 +47321,6 @@
       "onboard_time": 1704803613,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123483,
-      "num": 123483,
-      "word": "王嘉尔举着粉丝照片合照",
-      "onboard_time": 1705773377,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 123475,

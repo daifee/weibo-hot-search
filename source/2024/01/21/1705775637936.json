@@ -1,0 +1,410 @@
+{
+  "runTime": 1705775637936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 271730,
+        "num": 271730,
+        "word": "王俊凯 很后悔昨天睡觉了",
+        "onboard_time": 1705752390,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201978,
+        "num": 201978,
+        "word": "医生 我是病了不是饿了",
+        "onboard_time": 1705762411,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36343,
+        "num": 192342,
+        "word": "博士乘组一个意外发现改变太空授课",
+        "onboard_time": 1705755989,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191939,
+        "num": 191939,
+        "word": "吸草莓教程",
+        "onboard_time": 1705754788,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156323,
+        "num": 156323,
+        "word": "海归姑娘回国卖烧麦一年卖出2个亿",
+        "onboard_time": 1705763010,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147903,
+        "num": 147903,
+        "word": "梨泰院踩踏事件警察厅长被控过失杀人",
+        "onboard_time": 1705757609,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127657,
+        "num": 127657,
+        "word": "繁花2",
+        "onboard_time": 1705746087,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127407,
+        "num": 127407,
+        "word": "王嘉尔举着粉丝照片合照",
+        "onboard_time": 1705773377,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122828,
+        "num": 122828,
+        "word": "南太铉涉吸毒被判缓刑",
+        "onboard_time": 1705766068,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120025,
+        "num": 120025,
+        "word": "秦岚手机丢了",
+        "onboard_time": 1705766971,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99338,
+        "num": 99338,
+        "word": "唐嫣希望原班人马拍繁花2",
+        "onboard_time": 1705739906,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76152,
+        "num": 76152,
+        "word": "夫妻先后患癌原因就在饭桌上",
+        "onboard_time": 1705752025,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75798,
+        "num": 75798,
+        "word": "魏大勋玩321木头人差点出事",
+        "onboard_time": 1705768882,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69414,
+        "num": 69414,
+        "word": "大阪甜品店 草莓塔",
+        "onboard_time": 1705763069,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 68706,
+        "num": 68706,
+        "word": "断崖式分手",
+        "onboard_time": 1705748607,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62241,
+        "num": 62241,
+        "word": "惹了沈星回 等于谁都没惹",
+        "onboard_time": 1705741047,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56120,
+        "num": 56120,
+        "word": "王一博HipHop Forever",
+        "onboard_time": 1705761152,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54252,
+        "num": 54252,
+        "word": "男子徒手接住6楼坠落男孩",
+        "onboard_time": 1705759952,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 54223,
+        "num": 54223,
+        "word": "谢可寅为虞书欣包场祈今朝",
+        "onboard_time": 1705768703,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38985,
+        "num": 54201,
+        "word": "考辛斯中国台湾联赛首秀13分",
+        "onboard_time": 1705768703,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85205,
+        "num": 53748,
+        "word": "原来iPhone18离我们越来越近了",
+        "onboard_time": 1705760191,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83257,
+        "num": 53345,
+        "word": "27岁定律",
+        "onboard_time": 1705755268,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59495,
+        "num": 52884,
+        "word": "爸爸逼着我吞下一个蛋黄",
+        "onboard_time": 1705755147,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59346,
+        "num": 52564,
+        "word": "房东见证7年租客结婚生子帮带娃",
+        "onboard_time": 1705759287,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52241,
+        "num": 52241,
+        "word": "日本连环撞车一汽车被挤到30cm厚",
+        "onboard_time": 1705764511,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50283,
+        "num": 50283,
+        "word": "真喜欢怎么可能十几年不表白",
+        "onboard_time": 1705762112,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46408,
+        "num": 46408,
+        "word": "与恶魔有约大结局",
+        "onboard_time": 1705761391,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44158,
+        "num": 44158,
+        "word": "陈楚生王栎鑫对唱他不爱我",
+        "onboard_time": 1705763611,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43576,
+        "num": 43576,
+        "word": "关于30岁女生给20岁女生的建议",
+        "onboard_time": 1705762112,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43195,
+        "num": 43195,
+        "word": "电视剧要久久爱",
+        "onboard_time": 1705751307,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42566,
+        "num": 42566,
+        "word": "舅舅向炫富的外甥借钱",
+        "onboard_time": 1705752025,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41102,
+        "num": 41102,
+        "word": "要久久爱开播评价",
+        "onboard_time": 1705752390,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40457,
+        "num": 40457,
+        "word": "徐明浩闪现街舞总决赛",
+        "onboard_time": 1705760129,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35984,
+        "num": 35984,
+        "word": "陈若华考公失败",
+        "onboard_time": 1705763670,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37343,
+        "num": 35764,
+        "word": "街舞6总决赛",
+        "onboard_time": 1705759591,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32830,
+        "num": 32830,
+        "word": "广东存在感最低的城市",
+        "onboard_time": 1705759829,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31842,
+        "num": 31842,
+        "word": "女子提离职数月才获批单位赔56万",
+        "onboard_time": 1705745906,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31086,
+        "num": 31086,
+        "word": "弟弟把你放心上你把弟弟发网上",
+        "onboard_time": 1705751369,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31075,
+        "num": 31075,
+        "word": "刘涛说害怕胡歌家的七只猫",
+        "onboard_time": 1705760552,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31067,
+        "num": 31067,
+        "word": "雷军称小米要成为全球前五车厂",
+        "onboard_time": 1705762112,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 28796,
+        "num": 28796,
+        "word": "韩红唱成都时飙泪背后原因让人动容",
+        "onboard_time": 1705769902,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28280,
+        "num": 28280,
+        "word": "论恋与深空的男主的语言艺术",
+        "onboard_time": 1705764090,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27765,
+        "num": 27765,
+        "word": "目击者讲述河南南阳学校火灾",
+        "onboard_time": 1705754548,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27366,
+        "num": 27366,
+        "word": "这哪是导师明明是阴阳师",
+        "onboard_time": 1705762770,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23804,
+        "num": 23804,
+        "word": "吴磊是又穿了深V吗",
+        "onboard_time": 1705765647,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23597,
+        "num": 23597,
+        "word": "张拿铁好像是疯了",
+        "onboard_time": 1705754428,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23185,
+        "num": 23185,
+        "word": "小夫妻要第三胎却意外怀上了三胞胎",
+        "onboard_time": 1705737329,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22952,
+        "num": 22952,
+        "word": "张韶涵27场演唱会收官",
+        "onboard_time": 1705763130,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22330,
+        "num": 22330,
+        "word": "战国贵族女子装束复原",
+        "onboard_time": 1705764511,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 21370,
+        "num": 21370,
+        "word": "公子于鑫",
+        "onboard_time": 1705755329,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进人的全面发展和社会全面进步#"
+    }
+  }
+}
