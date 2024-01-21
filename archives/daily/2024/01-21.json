@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705847634161,
+  "endTime": 1705850224922,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -17,6 +17,14 @@
       "onboard_time": 1705839807,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1796928,
+      "num": 1796928,
+      "word": "关于六寸蛋糕放5斤车厘子这件事",
+      "onboard_time": 1705845211,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1631346,
@@ -57,14 +65,6 @@
       "onboard_time": 1705809746,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1260208,
-      "num": 1260208,
-      "word": "关于六寸蛋糕放5斤车厘子这件事",
-      "onboard_time": 1705845211,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1230180,
@@ -267,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 714725,
+      "num": 714725,
+      "word": "勇敢的人先加王一博微信",
+      "onboard_time": 1705846950,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 712991,
       "num": 712991,
       "word": "张雪峰向郑州大学捐款300万",
@@ -403,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 572004,
-      "num": 572004,
-      "word": "勇敢的人先加王一博微信",
-      "onboard_time": 1705846950,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 549529,
       "num": 549529,
       "word": "邱莹莹爸爸变成黄瀛子爸爸",
@@ -507,6 +507,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 499709,
+      "num": 499709,
+      "word": "成毅提裙跑",
+      "onboard_time": 1705847608,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 491807,
       "num": 491807,
       "word": "鲸搁浅三亚一天要吃40斤鱿鱼",
@@ -539,6 +547,14 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 472033,
+      "num": 472033,
+      "word": "阿娇阿Sa真亲了吗",
+      "onboard_time": 1705848333,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 469678,
       "num": 469678,
       "word": "CBA裁判",
@@ -553,6 +569,14 @@
       "onboard_time": 1705830268,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 462529,
+      "num": 462529,
+      "word": "女孩把馒头做成带馅的1天卖500个",
+      "onboard_time": 1705848749,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449685,
@@ -601,6 +625,14 @@
       "onboard_time": 1705799783,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434243,
+      "num": 434243,
+      "word": "金莎首次上节目回应比男友大19岁",
+      "onboard_time": 1705846710,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 416799,
@@ -787,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348270,
+      "num": 348270,
+      "word": "文旅局长张大大同框喊麦宣传吉林",
+      "onboard_time": 1705845450,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 348119,
       "num": 348119,
       "word": "潘玮柏对粉丝说要不你来唱",
@@ -803,6 +843,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345441,
+      "num": 263309,
+      "word": "薛之谦新手机壳",
+      "onboard_time": 1705848990,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 344237,
+      "num": 344237,
+      "word": "肖战高奢全球合约汇总",
+      "onboard_time": 1705848512,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343968,
       "num": 343968,
       "word": "陈楚生和07年的自己合唱",
@@ -817,6 +873,14 @@
       "onboard_time": 1705841369,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333036,
+      "num": 333036,
+      "word": "会中文的韩国人和中国人都沉默了",
+      "onboard_time": 1705849768,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 332804,
@@ -857,14 +921,6 @@
       "onboard_time": 1705826544,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 313055,
-      "num": 313055,
-      "word": "文旅局长张大大同框喊麦宣传吉林",
-      "onboard_time": 1705845450,
-      "rank": 28,
-      "category": "旅游"
     },
     {
       "raw_hot": 311235,
@@ -995,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273433,
+      "num": 273433,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1705849711,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 265899,
       "num": 265899,
       "word": "梦境其实是可以控制的",
@@ -1011,20 +1075,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263248,
-      "num": 263248,
-      "word": "金莎首次上节目回应比男友大19岁",
-      "onboard_time": 1705846710,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261859,
       "num": 261859,
       "word": "要久久爱 我们没活成理想中的样子",
       "onboard_time": 1705802306,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258164,
+      "num": 258164,
+      "word": "公交车上踩掉大爷的新鞋",
+      "onboard_time": 1705844671,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 256909,
@@ -1075,6 +1139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247233,
+      "num": 247233,
+      "word": "不敢想象高中毕业后我是怎么走到今天的",
+      "onboard_time": 1705848448,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245386,
       "num": 245386,
       "word": "郭晶晶霍启刚亮相香港马拉松赛",
@@ -1105,14 +1177,6 @@
       "onboard_time": 1705752025,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 242879,
-      "num": 242879,
-      "word": "公交车上踩掉大爷的新鞋",
-      "onboard_time": 1705844671,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 242109,
@@ -1227,14 +1291,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 217165,
-      "num": 217165,
-      "word": "成毅提裙跑",
-      "onboard_time": 1705847608,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 216833,
       "num": 216833,
       "word": "回村后的萨摩耶 出淤泥而局部染",
@@ -1347,6 +1403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204299,
+      "num": 204299,
+      "word": "当女朋友知道我有强迫症后",
+      "onboard_time": 1705847492,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203896,
       "num": 203896,
       "word": "时代少年团有龙墩墩了",
@@ -1435,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196526,
+      "num": 196526,
+      "word": "没见过这么社死的女主角",
+      "onboard_time": 1705848269,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196499,
       "num": 196499,
       "word": "不然不在TTG打野了",
@@ -1457,6 +1529,14 @@
       "onboard_time": 1705752390,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195588,
+      "num": 195588,
+      "word": "书瑶 徕芬",
+      "onboard_time": 1705849531,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 195050,
@@ -1707,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170538,
+      "num": 170538,
+      "word": "若华官配",
+      "onboard_time": 1705847189,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168534,
       "num": 168534,
       "word": "春晚第二次联排明星阵容",
@@ -1739,11 +1827,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 163635,
-      "num": 163635,
-      "word": "若华官配",
-      "onboard_time": 1705847189,
-      "rank": 38,
+      "raw_hot": 163236,
+      "num": 163236,
+      "word": "蓝亦菲在关超婚礼上出现了",
+      "onboard_time": 1705846828,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -2083,6 +2171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135534,
+      "num": 135534,
+      "word": "原神",
+      "onboard_time": 1705849949,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135163,
       "num": 135163,
       "word": "中国队又包揽一场金银牌",
@@ -2336,14 +2432,6 @@
       "word": "不敢扔也从没派上用场的东西",
       "onboard_time": 1705832666,
       "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 116625,
-      "num": 116625,
-      "word": "当女朋友知道我有强迫症后",
-      "onboard_time": 1705847492,
-      "rank": 48,
       "category": "幽默"
     },
     {

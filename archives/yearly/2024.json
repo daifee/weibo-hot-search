@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705847634161,
+  "endTime": 1705850224922,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1315,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1796928,
+      "num": 1796928,
+      "word": "关于六寸蛋糕放5斤车厘子这件事",
+      "onboard_time": 1705845211,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1792783,
       "num": 1792783,
       "word": "日本一地火山喷发",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704951570,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1404555,
-      "num": 1404555,
-      "word": "胡歌当初不想再演戏的原因",
-      "onboard_time": 1704334589,
-      "rank": 10,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
