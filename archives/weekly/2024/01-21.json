@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705868322540,
+  "endTime": 1705869250753,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -3051,6 +3051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34962,
+      "num": 29324,
+      "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
+      "onboard_time": 1705867271,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34301,
       "num": 34301,
       "word": "石宇奇连续两周进决赛",
@@ -3065,14 +3073,6 @@
       "onboard_time": 1705793478,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24109,
-      "num": 24109,
-      "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
-      "onboard_time": 1705867271,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16003,
@@ -3097,6 +3097,14 @@
       "onboard_time": 1705865712,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 10258,
+      "num": 10258,
+      "word": "男子掉入冰窟消防员以身破冰相救",
+      "onboard_time": 1705869192,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 5769,

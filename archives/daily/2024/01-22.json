@@ -1,6 +1,6 @@
 {
   "startTime": 1705854115620,
-  "endTime": 1705868322540,
+  "endTime": 1705869250753,
   "band_list": [
     {
       "raw_hot": 1026719,
@@ -451,8 +451,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24109,
-      "num": 24109,
+      "raw_hot": 34962,
+      "num": 29324,
       "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
       "onboard_time": 1705867271,
       "rank": 18,
@@ -473,6 +473,14 @@
       "onboard_time": 1705865712,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 10258,
+      "num": 10258,
+      "word": "男子掉入冰窟消防员以身破冰相救",
+      "onboard_time": 1705869192,
+      "rank": 49,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
