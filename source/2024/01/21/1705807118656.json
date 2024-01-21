@@ -1,0 +1,410 @@
+{
+  "runTime": 1705807118656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1319307,
+        "num": 1319307,
+        "word": "韩安冉女儿被确诊多动症",
+        "onboard_time": 1705794679,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859289,
+        "num": 859289,
+        "word": "多地明确婚姻登记处除夕正常办公",
+        "onboard_time": 1705800865,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54554,
+        "num": 833145,
+        "word": "博士乘组一个意外发现改变太空授课",
+        "onboard_time": 1705755989,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1005313,
+        "num": 828993,
+        "word": "终于知道高铁盒饭受众是谁了",
+        "onboard_time": 1705797263,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 814021,
+        "num": 814021,
+        "word": "龙年央视春晚第二次联排",
+        "onboard_time": 1705804047,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457844,
+        "num": 457844,
+        "word": "鲸搁浅三亚一天要吃40斤鱿鱼",
+        "onboard_time": 1705804946,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416799,
+        "num": 416799,
+        "word": "老外爱上中国淘米水洗发露",
+        "onboard_time": 1705802067,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 406658,
+        "num": 406658,
+        "word": "数码宝贝 突然被刀",
+        "onboard_time": 1705801948,
+        "rank": 7,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 373856,
+        "num": 373856,
+        "word": "苹果龙年手机壳",
+        "onboard_time": 1705800446,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 357021,
+        "num": 357021,
+        "word": "人们为什么不往个人养老金账户里存钱",
+        "onboard_time": 1705803506,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 353224,
+        "num": 353224,
+        "word": "东方甄选谈董宇辉收益",
+        "onboard_time": 1705805547,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 351931,
+        "num": 351931,
+        "word": "王俊凯 很后悔昨天睡觉了",
+        "onboard_time": 1705752390,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 302586,
+        "num": 302586,
+        "word": "祈今朝 人狗恋",
+        "onboard_time": 1705799726,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286880,
+        "num": 286880,
+        "word": "东北又一城火了",
+        "onboard_time": 1705800266,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 274694,
+        "num": 274694,
+        "word": "清华特奖双胞胎姐妹回国任教都是博导",
+        "onboard_time": 1705800626,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268114,
+        "num": 268114,
+        "word": "花花就差一个西瓜了",
+        "onboard_time": 1705802726,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243325,
+        "num": 243325,
+        "word": "世界之外",
+        "onboard_time": 1705806623,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227391,
+        "num": 227391,
+        "word": "第一批90后现状如何",
+        "onboard_time": 1705806024,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220382,
+        "num": 220382,
+        "word": "要久久爱 我们没活成理想中的样子",
+        "onboard_time": 1705802306,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214082,
+        "num": 214082,
+        "word": "吃完葡萄不要马上喝水",
+        "onboard_time": 1705796785,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 696916,
+        "num": 213540,
+        "word": "西班牙男子猥亵自己6个月大女儿",
+        "onboard_time": 1705805006,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277574,
+        "num": 213130,
+        "word": "安心离婚后被求婚",
+        "onboard_time": 1705802967,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231719,
+        "num": 213060,
+        "word": "朋友圈背景图",
+        "onboard_time": 1705805967,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212592,
+        "num": 212592,
+        "word": "婚姻中看不见的女性之痛",
+        "onboard_time": 1705806444,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203272,
+        "num": 203272,
+        "word": "萌兰又变小金熊了",
+        "onboard_time": 1705805547,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201054,
+        "num": 201054,
+        "word": "陈楚生和07年的自己合唱",
+        "onboard_time": 1705804345,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190017,
+        "num": 190017,
+        "word": "陈朗悼夫文",
+        "onboard_time": 1705805906,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188773,
+        "num": 188773,
+        "word": "专家建议冬季每周洗澡1到2次",
+        "onboard_time": 1705798344,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185260,
+        "num": 185260,
+        "word": "浙江小姐姐买一个冻梨老板切块还装盒",
+        "onboard_time": 1705794800,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172224,
+        "num": 172224,
+        "word": "李娜澳网元老赛开门红",
+        "onboard_time": 1705804284,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166230,
+        "num": 166230,
+        "word": "与恶魔有约 鬼怪剧情",
+        "onboard_time": 1705793957,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156877,
+        "num": 156877,
+        "word": "英伟达CEO黄仁勋到访北上深办公室",
+        "onboard_time": 1705803146,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154732,
+        "num": 154732,
+        "word": "杨紫浅跳hiphop",
+        "onboard_time": 1705806623,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134890,
+        "num": 134890,
+        "word": "谁分得清留子是留学还是流放",
+        "onboard_time": 1705801645,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133396,
+        "num": 133396,
+        "word": "恋与深空贴脸开大光头",
+        "onboard_time": 1705805066,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127504,
+        "num": 127504,
+        "word": "蝴蝶壁纸",
+        "onboard_time": 1705802665,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127442,
+        "num": 127442,
+        "word": "李炎哲加盟新疆男篮",
+        "onboard_time": 1705804946,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127293,
+        "num": 127293,
+        "word": "幻兽帕鲁",
+        "onboard_time": 1705803384,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126877,
+        "num": 126877,
+        "word": "湖南21日迎暴雪大暴雪",
+        "onboard_time": 1705802484,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116873,
+        "num": 116873,
+        "word": "刘涛说害怕胡歌家的七只猫",
+        "onboard_time": 1705760552,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115701,
+        "num": 115701,
+        "word": "大熊猫和叶因伤暂停营业",
+        "onboard_time": 1705796724,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114786,
+        "num": 114786,
+        "word": "杨紫哭戏",
+        "onboard_time": 1705795159,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114427,
+        "num": 114427,
+        "word": "世界之外 吐息",
+        "onboard_time": 1705806567,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111169,
+        "num": 111169,
+        "word": "原来狗狗也有玩不起的时候",
+        "onboard_time": 1705806145,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109084,
+        "num": 109084,
+        "word": "陈都灵称饰演花千骨有压力",
+        "onboard_time": 1705778234,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107094,
+        "num": 107094,
+        "word": "PoppinC街舞6总冠军",
+        "onboard_time": 1705792156,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103860,
+        "num": 103860,
+        "word": "澳网元老赛",
+        "onboard_time": 1705804705,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103541,
+        "num": 103541,
+        "word": "医生 我是病了不是饿了",
+        "onboard_time": 1705762411,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99979,
+        "num": 99979,
+        "word": "焦虑症 口罩和塑料袋",
+        "onboard_time": 1705798344,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95213,
+        "num": 95213,
+        "word": "2024首个暴雪蓝色预警",
+        "onboard_time": 1705797081,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
