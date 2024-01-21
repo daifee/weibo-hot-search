@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705850224922,
+  "endTime": 1705851246172,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -243,6 +243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 770390,
+      "num": 770390,
+      "word": "会中文的韩国人和中国人都沉默了",
+      "onboard_time": 1705849768,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 769035,
       "num": 451715,
       "word": "肠道息肉上厕所时会有4个提示",
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 653333,
+      "num": 653333,
+      "word": "女孩把馒头做成带馅的1天卖500个",
+      "onboard_time": 1705848749,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651265,
       "num": 651265,
       "word": "网红是书瑶呀否认诽谤事件反转",
@@ -337,6 +353,14 @@
       "onboard_time": 1705835186,
       "rank": 13,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 640956,
+      "num": 640956,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1705849711,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 639121,
@@ -569,14 +593,6 @@
       "onboard_time": 1705830268,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 462529,
-      "num": 462529,
-      "word": "女孩把馒头做成带馅的1天卖500个",
-      "onboard_time": 1705848749,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 449685,
@@ -844,7 +860,7 @@
     },
     {
       "raw_hot": 345441,
-      "num": 263309,
+      "num": 268205,
       "word": "薛之谦新手机壳",
       "onboard_time": 1705848990,
       "rank": 20,
@@ -873,14 +889,6 @@
       "onboard_time": 1705841369,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 333036,
-      "num": 333036,
-      "word": "会中文的韩国人和中国人都沉默了",
-      "onboard_time": 1705849768,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 332804,
@@ -921,6 +929,14 @@
       "onboard_time": 1705826544,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317055,
+      "num": 317055,
+      "word": "书瑶 徕芬",
+      "onboard_time": 1705849531,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 311235,
@@ -1051,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273433,
-      "num": 273433,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1705849711,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 265899,
       "num": 265899,
       "word": "梦境其实是可以控制的",
@@ -1139,8 +1147,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 247233,
-      "num": 247233,
+      "raw_hot": 249196,
+      "num": 249196,
       "word": "不敢想象高中毕业后我是怎么走到今天的",
       "onboard_time": 1705848448,
       "rank": 23,
@@ -1467,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200364,
+      "num": 200364,
+      "word": "文俊辉猫猫",
+      "onboard_time": 1705850489,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199218,
       "num": 199218,
       "word": "许凯痛失真名",
@@ -1529,14 +1545,6 @@
       "onboard_time": 1705752390,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195588,
-      "num": 195588,
-      "word": "书瑶 徕芬",
-      "onboard_time": 1705849531,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 195050,
@@ -1723,6 +1731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 175480,
+      "num": 175480,
+      "word": "大多数人没有爱",
+      "onboard_time": 1705850427,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175091,
       "num": 172402,
       "word": "周深连续三年春晚彩排穿同一件羽绒服",
@@ -1745,6 +1761,14 @@
       "onboard_time": 1705820427,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172838,
+      "num": 172838,
+      "word": "粉龙",
+      "onboard_time": 1705850251,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 172059,
@@ -1931,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155309,
+      "num": 155309,
+      "word": "原神",
+      "onboard_time": 1705849949,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154893,
       "num": 154893,
       "word": "蝴蝶壁纸",
@@ -2083,6 +2115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142945,
+      "num": 142945,
+      "word": "袁咏仪演甄嬛胖橘都活不过两集",
+      "onboard_time": 1705851028,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142499,
       "num": 240887,
       "word": "女子提离职数月才获批单位赔56万",
@@ -2147,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137565,
+      "num": 137565,
+      "word": "厌冬症",
+      "onboard_time": 1705850967,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136575,
       "num": 136575,
       "word": "我爸是我见过最有松弛感的人",
@@ -2169,14 +2217,6 @@
       "onboard_time": 1705818869,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135534,
-      "num": 135534,
-      "word": "原神",
-      "onboard_time": 1705849949,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 135163,
