@@ -1,6 +1,6 @@
 {
   "startTime": 1705854115620,
-  "endTime": 1705864458410,
+  "endTime": 1705865654473,
   "band_list": [
     {
       "raw_hot": 1026719,
@@ -427,8 +427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46548,
-      "num": 46548,
+      "raw_hot": 47461,
+      "num": 47461,
       "word": "仙剑之父转发仙剑四微博",
       "onboard_time": 1705862295,
       "rank": 14,
@@ -443,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29304,
+      "num": 29304,
+      "word": "儿子和女儿结婚爸爸的不同反应",
+      "onboard_time": 1705864334,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 23699,
       "num": 23699,
       "word": "网红是书瑶呀否认诽谤事件反转",
       "onboard_time": 1705839388,
       "rank": 49,
       "category": "网红"
-    },
-    {
-      "raw_hot": 16497,
-      "num": 16497,
-      "word": "儿子和女儿结婚爸爸的不同反应",
-      "onboard_time": 1705864334,
-      "rank": 46,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
