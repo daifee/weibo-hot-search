@@ -1,0 +1,410 @@
+{
+  "runTime": 1705879101948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 474298,
+        "num": 474298,
+        "word": "微信红包并非转账认定赠与无需返还",
+        "onboard_time": 1705839807,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403721,
+        "num": 403721,
+        "word": "女孩把馒头做成带馅的1天卖500个",
+        "onboard_time": 1705848749,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29865,
+        "num": 330862,
+        "word": "当江浙沪遇上了古诗词",
+        "onboard_time": 1705845330,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318851,
+        "num": 318851,
+        "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
+        "onboard_time": 1705867271,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297631,
+        "num": 297631,
+        "word": "关于六寸蛋糕放5斤车厘子这件事",
+        "onboard_time": 1705845211,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267898,
+        "num": 267898,
+        "word": "为什么制冷和制热的26度不一样",
+        "onboard_time": 1705858456,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 215426,
+        "num": 215426,
+        "word": "会中文的韩国人和中国人都沉默了",
+        "onboard_time": 1705849768,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203159,
+        "num": 203159,
+        "word": "苏增添被查",
+        "onboard_time": 1705830867,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189804,
+        "num": 189804,
+        "word": "金莎首次上节目回应比男友大19岁",
+        "onboard_time": 1705846710,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151389,
+        "num": 151389,
+        "word": "勇敢的人先加王一博微信",
+        "onboard_time": 1705846950,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167700,
+        "num": 149359,
+        "word": "你真是饿了",
+        "onboard_time": 1705852706,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142688,
+        "num": 142688,
+        "word": "儿子和女儿结婚爸爸的不同反应",
+        "onboard_time": 1705864334,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131054,
+        "num": 131054,
+        "word": "官方通报大学生夜游网红火车站严重烧伤",
+        "onboard_time": 1705837526,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128653,
+        "num": 128653,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1705849711,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105949,
+        "num": 105949,
+        "word": "袁咏仪演甄嬛胖橘都活不过两集",
+        "onboard_time": 1705851028,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102732,
+        "num": 102732,
+        "word": "十三年怎么就抵不过三年了",
+        "onboard_time": 1705835008,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97902,
+        "num": 97902,
+        "word": "吃饭有这4个习惯或会被癌症盯上",
+        "onboard_time": 1705840407,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95102,
+        "num": 95102,
+        "word": "0713春晚联排13进9",
+        "onboard_time": 1705836807,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91198,
+        "num": 91198,
+        "word": "长沙下雪",
+        "onboard_time": 1705834226,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87333,
+        "num": 87333,
+        "word": "要久久爱收视率",
+        "onboard_time": 1705842329,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140308,
+        "num": 82701,
+        "word": "美国房主新买二手房冰柜里有颗人头",
+        "onboard_time": 1705851507,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73069,
+        "num": 73069,
+        "word": "白桃星座",
+        "onboard_time": 1705878017,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70452,
+        "num": 70452,
+        "word": "男子撸走1岁半幼儿金镯获刑9个月",
+        "onboard_time": 1705834466,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63244,
+        "num": 63244,
+        "word": "东北谷爱凌竟是52岁单身奶奶",
+        "onboard_time": 1705829425,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61170,
+        "num": 61170,
+        "word": "砂糖橘摆成了我吃不起的样子",
+        "onboard_time": 1705844848,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 60608,
+        "num": 60608,
+        "word": "年前冷静期",
+        "onboard_time": 1705875853,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60214,
+        "num": 60214,
+        "word": "考完研后才知道家里有五层别墅",
+        "onboard_time": 1705843948,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60206,
+        "num": 60206,
+        "word": "仙剑之父转发仙剑四微博",
+        "onboard_time": 1705862295,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60089,
+        "num": 60089,
+        "word": "快船战胜篮网",
+        "onboard_time": 1705878919,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57862,
+        "num": 57862,
+        "word": "篮网vs快船",
+        "onboard_time": 1705878739,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55092,
+        "num": 55092,
+        "word": "肖战高奢全球合约汇总",
+        "onboard_time": 1705848512,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54791,
+        "num": 54791,
+        "word": "0713又凑到一起干嘛呢",
+        "onboard_time": 1705851809,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53719,
+        "num": 53719,
+        "word": "原来萌兰这么大只啊",
+        "onboard_time": 1705836509,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53186,
+        "num": 53186,
+        "word": "成毅提裙跑",
+        "onboard_time": 1705847608,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52095,
+        "num": 52095,
+        "word": "蒋翼出现那刻偶像剧弱爆了",
+        "onboard_time": 1705841369,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49924,
+        "num": 49924,
+        "word": "阿娇阿Sa真亲了吗",
+        "onboard_time": 1705848333,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49649,
+        "num": 49649,
+        "word": "负面情绪为何总是在晚上出现",
+        "onboard_time": 1705871952,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45706,
+        "num": 45706,
+        "word": "小说女主就不配有正经工作吗",
+        "onboard_time": 1705855343,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46833,
+        "num": 45581,
+        "word": "迪丽热巴婴儿时期旧照",
+        "onboard_time": 1705840407,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45264,
+        "num": 45264,
+        "word": "演员陶昕然在零下25度的崇礼拍大片",
+        "onboard_time": 1705851627,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44734,
+        "num": 44734,
+        "word": "不敢想象高中毕业后我是怎么走到今天的",
+        "onboard_time": 1705848448,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42492,
+        "num": 42492,
+        "word": "书瑶 徕芬",
+        "onboard_time": 1705849531,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41577,
+        "num": 41577,
+        "word": "原来骑手不知道顾客能看见他全名",
+        "onboard_time": 1705828947,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39811,
+        "num": 39811,
+        "word": "陆沉生日卡",
+        "onboard_time": 1705878978,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37612,
+        "num": 37612,
+        "word": "猫咪吸水",
+        "onboard_time": 1705852586,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37268,
+        "num": 37268,
+        "word": "徕芬",
+        "onboard_time": 1705845629,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 37228,
+        "num": 37228,
+        "word": "朱一龙央视春晚",
+        "onboard_time": 1705853247,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34411,
+        "num": 34411,
+        "word": "厌冬症",
+        "onboard_time": 1705850967,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32230,
+        "num": 32230,
+        "word": "懂得人性才能谈好恋爱",
+        "onboard_time": 1705841129,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29580,
+        "num": 29580,
+        "word": "更适合大学生体质的托管所",
+        "onboard_time": 1705875493,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在福州工作期间珍贵影像#"
+    }
+  }
+}

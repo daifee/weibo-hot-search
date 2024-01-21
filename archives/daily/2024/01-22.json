@@ -1,6 +1,6 @@
 {
   "startTime": 1705854115620,
-  "endTime": 1705876438404,
+  "endTime": 1705879101948,
   "band_list": [
     {
       "raw_hot": 1026719,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318851,
+      "num": 318851,
+      "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
+      "onboard_time": 1705867271,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310459,
       "num": 310459,
       "word": "砂糖橘摆成了我吃不起的样子",
@@ -145,6 +153,14 @@
       "onboard_time": 1705849531,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 267898,
+      "num": 267898,
+      "word": "为什么制冷和制热的26度不一样",
+      "onboard_time": 1705858456,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 263132,
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142688,
+      "num": 142688,
+      "word": "儿子和女儿结婚爸爸的不同反应",
+      "onboard_time": 1705864334,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139658,
       "num": 139658,
       "word": "猫咪吸水",
@@ -265,6 +289,14 @@
       "onboard_time": 1705851388,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131054,
+      "num": 158380,
+      "word": "官方通报大学生夜游网红火车站严重烧伤",
+      "onboard_time": 1705837526,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130823,
@@ -299,28 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128148,
-      "num": 158380,
-      "word": "官方通报大学生夜游网红火车站严重烧伤",
-      "onboard_time": 1705837526,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121172,
       "num": 121172,
       "word": "原神",
       "onboard_time": 1705849949,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113584,
-      "num": 113584,
-      "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
-      "onboard_time": 1705867271,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109863,
@@ -361,14 +377,6 @@
       "onboard_time": 1705828645,
       "rank": 43,
       "category": "作品衍生,综艺"
-    },
-    {
-      "raw_hot": 96293,
-      "num": 96293,
-      "word": "为什么制冷和制热的26度不一样",
-      "onboard_time": 1705858456,
-      "rank": 17,
-      "category": "科学科普"
     },
     {
       "raw_hot": 95284,
@@ -427,12 +435,52 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63909,
-      "num": 55575,
-      "word": "儿子和女儿结婚爸爸的不同反应",
-      "onboard_time": 1705864334,
-      "rank": 46,
+      "raw_hot": 73069,
+      "num": 73069,
+      "word": "白桃星座",
+      "onboard_time": 1705878017,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 60608,
+      "num": 60608,
+      "word": "年前冷静期",
+      "onboard_time": 1705875853,
+      "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60206,
+      "num": 60206,
+      "word": "仙剑之父转发仙剑四微博",
+      "onboard_time": 1705862295,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 60089,
+      "num": 60089,
+      "word": "快船战胜篮网",
+      "onboard_time": 1705878919,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57862,
+      "num": 57862,
+      "word": "篮网vs快船",
+      "onboard_time": 1705878739,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52095,
+      "num": 52095,
+      "word": "蒋翼出现那刻偶像剧弱爆了",
+      "onboard_time": 1705841369,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 50179,
@@ -443,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47461,
-      "num": 47461,
-      "word": "仙剑之父转发仙剑四微博",
-      "onboard_time": 1705862295,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 49649,
+      "num": 49649,
+      "word": "负面情绪为何总是在晚上出现",
+      "onboard_time": 1705871952,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 43958,
@@ -459,12 +507,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38641,
-      "num": 38641,
-      "word": "负面情绪为何总是在晚上出现",
-      "onboard_time": 1705871952,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 39811,
+      "num": 39811,
+      "word": "陆沉生日卡",
+      "onboard_time": 1705878978,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 29580,
+      "num": 29580,
+      "word": "更适合大学生体质的托管所",
+      "onboard_time": 1705875493,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 23699,
@@ -480,14 +536,6 @@
       "word": "成都人的松弛感不像是演的",
       "onboard_time": 1705874413,
       "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 15492,
-      "num": 15492,
-      "word": "更适合大学生体质的托管所",
-      "onboard_time": 1705875493,
-      "rank": 47,
       "category": "幽默"
     },
     {
