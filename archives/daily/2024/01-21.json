@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705811717027,
+  "endTime": 1705815241314,
   "band_list": [
     {
       "raw_hot": 1631346,
@@ -17,6 +17,14 @@
       "onboard_time": 1705797263,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1295061,
+      "num": 1295061,
+      "word": "银川烧烤店爆炸受害者本该有逃生机会",
+      "onboard_time": 1705809746,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1230180,
@@ -43,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 975532,
+      "num": 975532,
+      "word": "你在表白 他在背词",
+      "onboard_time": 1705809686,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 870204,
       "num": 870204,
       "word": "龙年央视春晚第二次联排",
@@ -59,14 +75,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 774724,
-      "num": 774724,
-      "word": "你在表白 他在背词",
-      "onboard_time": 1705809686,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 701617,
       "num": 701617,
       "word": "梨泰院踩踏事件警察厅长被控过失杀人",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 699079,
-      "num": 235688,
+      "num": 269108,
       "word": "西班牙男子猥亵自己6个月大女儿",
       "onboard_time": 1705805006,
       "rank": 26,
@@ -91,20 +99,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 659322,
-      "num": 659322,
-      "word": "银川烧烤店爆炸受害者本该有逃生机会",
-      "onboard_time": 1705809746,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 639121,
       "num": 639121,
       "word": "南太铉涉吸毒被判缓刑",
       "onboard_time": 1705766068,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 626235,
+      "num": 626235,
+      "word": "贾玲张小斐杨紫跳舞",
+      "onboard_time": 1705812987,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 615145,
@@ -128,6 +136,30 @@
       "word": "清华特奖双胞胎姐妹回国任教都是博导",
       "onboard_time": 1705800626,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528157,
+      "num": 528157,
+      "word": "短道速滑 中国队智商碾压",
+      "onboard_time": 1705812085,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 518455,
+      "num": 518455,
+      "word": "王源飞波士顿开启新学期",
+      "onboard_time": 1705811367,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 516837,
+      "num": 516837,
+      "word": "张黎称已成立新导师组",
+      "onboard_time": 1705813588,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -283,6 +315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 400352,
+      "num": 400352,
+      "word": "4名女警生无可恋式推走故障叉车",
+      "onboard_time": 1705811125,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383515,
       "num": 383515,
       "word": "陈楚生王栎鑫对唱他不爱我",
@@ -323,6 +363,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345772,
+      "num": 345772,
+      "word": "成都女孩空手回家过年被父亲灵魂拷问",
+      "onboard_time": 1705809566,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344995,
+      "num": 344995,
+      "word": "兔子战术",
+      "onboard_time": 1705812146,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343968,
       "num": 343968,
       "word": "陈楚生和07年的自己合唱",
@@ -339,6 +395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 326570,
+      "num": 326570,
+      "word": "要久久爱 蓝亦菲去世了吗",
+      "onboard_time": 1705810703,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323395,
       "num": 323395,
       "word": "男子徒手接住6楼坠落男孩",
@@ -347,12 +411,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 311456,
-      "num": 311456,
-      "word": "要久久爱 蓝亦菲去世了吗",
-      "onboard_time": 1705810703,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 320312,
+      "num": 320312,
+      "word": "老爷爷打卡易烊千玺海报女孩热情帮拍",
+      "onboard_time": 1705813649,
+      "rank": 16,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 310706,
@@ -371,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303371,
-      "num": 234758,
-      "word": "成都女孩空手回家过年被父亲灵魂拷问",
-      "onboard_time": 1705809566,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298518,
       "num": 298518,
       "word": "魏大勋版帅哥被灌酒",
@@ -392,6 +448,14 @@
       "word": "原来iPhone18离我们越来越近了",
       "onboard_time": 1705760191,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 282908,
+      "num": 282908,
+      "word": "在暴雪时分",
+      "onboard_time": 1705812748,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -539,6 +603,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228469,
+      "num": 228469,
+      "word": "程潇帮选手去油",
+      "onboard_time": 1705814608,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224974,
+      "num": 224974,
+      "word": "C罗中国行",
+      "onboard_time": 1705814546,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223414,
       "num": 223414,
       "word": "真喜欢怎么可能十几年不表白",
@@ -569,14 +649,6 @@
       "onboard_time": 1705807470,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 208803,
-      "num": 208803,
-      "word": "王源飞波士顿开启新学期",
-      "onboard_time": 1705811367,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 206543,
@@ -683,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181467,
+      "num": 181467,
+      "word": "河南2023年人均收入29933元",
+      "onboard_time": 1705814127,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180902,
       "num": 239177,
       "word": "断崖式分手",
@@ -699,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180500,
+      "num": 180500,
+      "word": "洛枳当HR了",
+      "onboard_time": 1705811544,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180235,
       "num": 180235,
       "word": "陈都灵称饰演花千骨有压力",
@@ -713,6 +801,14 @@
       "onboard_time": 1705798284,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177927,
+      "num": 177927,
+      "word": "送到大学的外卖基本没有差评",
+      "onboard_time": 1705812024,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173789,
@@ -737,6 +833,14 @@
       "onboard_time": 1705811486,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166082,
+      "num": 166082,
+      "word": "C罗坐的包机里面长这样",
+      "onboard_time": 1705812628,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 163136,
@@ -779,12 +883,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 156152,
-      "num": 156152,
-      "word": "4名女警生无可恋式推走故障叉车",
-      "onboard_time": 1705811125,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 156413,
+      "num": 156413,
+      "word": "北京今年将新增中小学学位2万个",
+      "onboard_time": 1705814249,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 154893,
@@ -833,6 +937,14 @@
       "onboard_time": 1705800746,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143321,
+      "num": 143321,
+      "word": "新娘到底是怎么说服伴娘的",
+      "onboard_time": 1705811186,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 142499,
@@ -915,6 +1027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132881,
+      "num": 132881,
+      "word": "虞书欣刺绣桃花裙",
+      "onboard_time": 1705813166,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132302,
       "num": 132302,
       "word": "多动症",
@@ -964,7 +1084,7 @@
     },
     {
       "raw_hot": 123653,
-      "num": 861854,
+      "num": 909099,
       "word": "朱鹮雪中起舞水墨画瞬间活了起来",
       "onboard_time": 1705809626,
       "rank": 2,
@@ -993,14 +1113,6 @@
       "onboard_time": 1705804047,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 115670,
-      "num": 115670,
-      "word": "洛枳当HR了",
-      "onboard_time": 1705811544,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 114427,
@@ -1073,6 +1185,22 @@
       "onboard_time": 1705764511,
       "rank": 35,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 103409,
+      "num": 103409,
+      "word": "SNH48演出票拍出上万元",
+      "onboard_time": 1705815207,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 103387,
+      "num": 103387,
+      "word": "相亲相碍一家人",
+      "onboard_time": 1705815207,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 101963,
@@ -1305,6 +1433,14 @@
       "onboard_time": 1705793478,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31091,
+      "num": 104169,
+      "word": "祁煜人鱼脆弱期",
+      "onboard_time": 1705815207,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 16003,

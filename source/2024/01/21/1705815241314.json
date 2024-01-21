@@ -1,0 +1,410 @@
+{
+  "runTime": 1705815241314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1295061,
+        "num": 1295061,
+        "word": "银川烧烤店爆炸受害者本该有逃生机会",
+        "onboard_time": 1705809746,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975532,
+        "num": 975532,
+        "word": "你在表白 他在背词",
+        "onboard_time": 1705809686,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92850,
+        "num": 909099,
+        "word": "朱鹮雪中起舞水墨画瞬间活了起来",
+        "onboard_time": 1705809626,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858137,
+        "num": 858137,
+        "word": "韩安冉女儿被确诊多动症",
+        "onboard_time": 1705794679,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626235,
+        "num": 626235,
+        "word": "贾玲张小斐杨紫跳舞",
+        "onboard_time": 1705812987,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 528157,
+        "num": 528157,
+        "word": "短道速滑 中国队智商碾压",
+        "onboard_time": 1705812085,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 523329,
+        "num": 523329,
+        "word": "男孩跳绳6000下后气胸",
+        "onboard_time": 1705808186,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518455,
+        "num": 518455,
+        "word": "王源飞波士顿开启新学期",
+        "onboard_time": 1705811367,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516837,
+        "num": 516837,
+        "word": "张黎称已成立新导师组",
+        "onboard_time": 1705813588,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408148,
+        "num": 408148,
+        "word": "朋友圈背景图",
+        "onboard_time": 1705805967,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 400352,
+        "num": 400352,
+        "word": "4名女警生无可恋式推走故障叉车",
+        "onboard_time": 1705811125,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393984,
+        "num": 393984,
+        "word": "龙年央视春晚第二次联排",
+        "onboard_time": 1705804047,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345772,
+        "num": 345772,
+        "word": "成都女孩空手回家过年被父亲灵魂拷问",
+        "onboard_time": 1705809566,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344995,
+        "num": 344995,
+        "word": "兔子战术",
+        "onboard_time": 1705812146,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334751,
+        "num": 334751,
+        "word": "赵丽颖3天2篇河北小作文",
+        "onboard_time": 1705809626,
+        "rank": 14,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 326570,
+        "num": 326570,
+        "word": "要久久爱 蓝亦菲去世了吗",
+        "onboard_time": 1705810703,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320312,
+        "num": 320312,
+        "word": "老爷爷打卡易烊千玺海报女孩热情帮拍",
+        "onboard_time": 1705813649,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 282908,
+        "num": 282908,
+        "word": "在暴雪时分",
+        "onboard_time": 1705812748,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274772,
+        "num": 274772,
+        "word": "婚姻中看不见的女性之痛",
+        "onboard_time": 1705806444,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274311,
+        "num": 274311,
+        "word": "多地明确婚姻登记处除夕正常办公",
+        "onboard_time": 1705800865,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417447,
+        "num": 269108,
+        "word": "西班牙男子猥亵自己6个月大女儿",
+        "onboard_time": 1705805006,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247906,
+        "num": 247906,
+        "word": "中产涌入三亚扎堆买房子",
+        "onboard_time": 1705808666,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228469,
+        "num": 228469,
+        "word": "程潇帮选手去油",
+        "onboard_time": 1705814608,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224974,
+        "num": 224974,
+        "word": "C罗中国行",
+        "onboard_time": 1705814546,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203511,
+        "num": 203511,
+        "word": "鲸搁浅三亚一天要吃40斤鱿鱼",
+        "onboard_time": 1705804946,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195818,
+        "num": 195818,
+        "word": "王俊凯 很后悔昨天睡觉了",
+        "onboard_time": 1705752390,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181467,
+        "num": 181467,
+        "word": "河南2023年人均收入29933元",
+        "onboard_time": 1705814127,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180500,
+        "num": 180500,
+        "word": "洛枳当HR了",
+        "onboard_time": 1705811544,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177927,
+        "num": 177927,
+        "word": "送到大学的外卖基本没有差评",
+        "onboard_time": 1705812024,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166082,
+        "num": 166082,
+        "word": "C罗坐的包机里面长这样",
+        "onboard_time": 1705812628,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324696,
+        "num": 163626,
+        "word": "终于知道高铁盒饭受众是谁了",
+        "onboard_time": 1705797263,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156413,
+        "num": 156413,
+        "word": "北京今年将新增中小学学位2万个",
+        "onboard_time": 1705814249,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152472,
+        "num": 152472,
+        "word": "第一批90后现状如何",
+        "onboard_time": 1705806024,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143321,
+        "num": 143321,
+        "word": "新娘到底是怎么说服伴娘的",
+        "onboard_time": 1705811186,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140348,
+        "num": 140348,
+        "word": "世界之外",
+        "onboard_time": 1705806623,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137985,
+        "num": 137985,
+        "word": "萌兰又变小金熊了",
+        "onboard_time": 1705805547,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134203,
+        "num": 134203,
+        "word": "春晚第二次联排明星阵容",
+        "onboard_time": 1705811486,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132881,
+        "num": 132881,
+        "word": "虞书欣刺绣桃花裙",
+        "onboard_time": 1705813166,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129541,
+        "num": 129541,
+        "word": "魏大勋版帅哥被灌酒",
+        "onboard_time": 1705807347,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124793,
+        "num": 124793,
+        "word": "人们为什么不往个人养老金账户里存钱",
+        "onboard_time": 1705803506,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121506,
+        "num": 121506,
+        "word": "王一博摸喉结",
+        "onboard_time": 1705807709,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121185,
+        "num": 121185,
+        "word": "祈今朝 人狗恋",
+        "onboard_time": 1705799726,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120734,
+        "num": 120734,
+        "word": "苹果龙年手机壳",
+        "onboard_time": 1705800446,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113207,
+        "num": 113207,
+        "word": "西安WE豪华教练天团",
+        "onboard_time": 1705810467,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108578,
+        "num": 108578,
+        "word": "陈楚生和07年的自己合唱",
+        "onboard_time": 1705804345,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106356,
+        "num": 106356,
+        "word": "郭晶晶霍启刚亮相香港马拉松赛",
+        "onboard_time": 1705808846,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106005,
+        "num": 106005,
+        "word": "数码宝贝 突然被刀",
+        "onboard_time": 1705801948,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 31091,
+        "num": 104169,
+        "word": "祁煜人鱼脆弱期",
+        "onboard_time": 1705815207,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103409,
+        "num": 103409,
+        "word": "SNH48演出票拍出上万元",
+        "onboard_time": 1705815207,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103387,
+        "num": 103387,
+        "word": "相亲相碍一家人",
+        "onboard_time": 1705815207,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
