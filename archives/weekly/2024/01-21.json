@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705844057785,
+  "endTime": 1705846545049,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -8,6 +8,14 @@
       "word": "苏增添被查",
       "onboard_time": 1705830867,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2178207,
+      "num": 2178207,
+      "word": "微信红包并非转账认定赠与无需返还",
+      "onboard_time": 1705839807,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -25,6 +33,14 @@
       "onboard_time": 1705815626,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1443339,
+      "num": 1443339,
+      "word": "关于六寸蛋糕放5斤车厘子这件情",
+      "onboard_time": 1705845211,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1301584,
@@ -105,14 +121,6 @@
       "onboard_time": 1705762411,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1009243,
-      "num": 1009243,
-      "word": "微信红包并非转账认定赠与无需返还",
-      "onboard_time": 1705839807,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1008928,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 710558,
+      "num": 710558,
+      "word": "考完研后才知道家里有五层别墅",
+      "onboard_time": 1705843948,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 706216,
       "num": 706216,
       "word": "俞灏明 春晚",
@@ -273,6 +289,14 @@
       "onboard_time": 1705829486,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 658202,
+      "num": 658202,
+      "word": "砂糖橘摆成了我吃不起的样子",
+      "onboard_time": 1705844848,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 651265,
@@ -427,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516992,
+      "num": 516992,
+      "word": "徕芬",
+      "onboard_time": 1705845629,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 509800,
       "num": 509800,
       "word": "知道学生为什么清澈了",
@@ -440,6 +472,14 @@
       "word": "繁花2",
       "onboard_time": 1705746087,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 504290,
+      "num": 504290,
+      "word": "要久久爱收视率",
+      "onboard_time": 1705842329,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -483,20 +523,20 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 469678,
+      "num": 469678,
+      "word": "CBA裁判",
+      "onboard_time": 1705844790,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 466071,
       "num": 454746,
       "word": "影评人说杨紫是爆款制造机",
       "onboard_time": 1705830268,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 457758,
-      "num": 425632,
-      "word": "要久久爱收视率",
-      "onboard_time": 1705842329,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 449685,
@@ -569,14 +609,6 @@
       "onboard_time": 1705796785,
       "rank": 9,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 412846,
-      "num": 196873,
-      "word": "考完研后才知道家里有五层别墅",
-      "onboard_time": 1705843948,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 411341,
@@ -867,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293733,
+      "num": 242689,
+      "word": "食物语手游",
+      "onboard_time": 1705845450,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 288757,
       "num": 288757,
       "word": "食物语 百田",
@@ -1027,6 +1067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 242879,
+      "num": 242879,
+      "word": "公交车上踩掉大爷的新鞋",
+      "onboard_time": 1705844671,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242109,
       "num": 242109,
       "word": "打工人嘴替",
@@ -1105,6 +1153,14 @@
       "onboard_time": 1705805547,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222318,
+      "num": 222318,
+      "word": "要久久爱",
+      "onboard_time": 1705845211,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 218178,
@@ -1187,8 +1243,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 207440,
-      "num": 207440,
+      "raw_hot": 208752,
+      "num": 208752,
       "word": "懂得人性才能谈好恋爱",
       "onboard_time": 1705841129,
       "rank": 44,
@@ -1275,6 +1331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201247,
+      "num": 201247,
+      "word": "文旅局长张大大同框喊麦宣传吉林",
+      "onboard_time": 1705845450,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 200713,
       "num": 200713,
       "word": "听语气最后是收下了",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1705810467,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194597,
+      "num": 194597,
+      "word": "李虎翼三分",
+      "onboard_time": 1705845029,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 194366,
@@ -1595,6 +1667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166769,
+      "num": 166769,
+      "word": "国产三蹦子魅力传到外国",
+      "onboard_time": 1705846049,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166082,
       "num": 166082,
       "word": "C罗坐的包机里面长这样",
@@ -1641,6 +1721,14 @@
       "onboard_time": 1705827986,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162396,
+      "num": 162396,
+      "word": "CBA",
+      "onboard_time": 1705845149,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 162386,
@@ -1801,6 +1889,14 @@
       "onboard_time": 1705839747,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144475,
+      "num": 144475,
+      "word": "恋与深空壁纸",
+      "onboard_time": 1705846291,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 144190,
@@ -2019,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129109,
+      "num": 129109,
+      "word": "没人能空手走出景德镇",
+      "onboard_time": 1705843948,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128830,
       "num": 128830,
       "word": "投喂孙悟空",
@@ -2083,14 +2187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126622,
-      "num": 126622,
-      "word": "没人能空手走出景德镇",
-      "onboard_time": 1705843948,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125953,
       "num": 125953,
       "word": "国脚说国足没输球没掉队",
@@ -2137,6 +2233,14 @@
       "onboard_time": 1705828050,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121297,
+      "num": 121297,
+      "word": "陈泽直播",
+      "onboard_time": 1705844489,
+      "rank": 48,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 121087,
@@ -2489,6 +2593,14 @@
       "onboard_time": 1705760673,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85147,
+      "num": 1011403,
+      "word": "当江浙沪遇上了古诗词",
+      "onboard_time": 1705845330,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82280,

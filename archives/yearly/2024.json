@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705844057785,
+  "endTime": 1705846545049,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -777,6 +777,14 @@
       "onboard_time": 1704939148,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2178207,
+      "num": 2178207,
+      "word": "微信红包并非转账认定赠与无需返还",
+      "onboard_time": 1705839807,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2170273,
@@ -2179,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1443339,
+      "num": 1443339,
+      "word": "关于六寸蛋糕放5斤车厘子这件情",
+      "onboard_time": 1705845211,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1442805,
       "num": 1442805,
       "word": "叶酸吃多了真的会致癌吗",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704334589,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1404390,
-      "num": 399816,
-      "word": "南笙结婚",
-      "onboard_time": 1704505049,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 1404002,
-      "num": 1404002,
-      "word": "警方通报女大学生街头摆摊遭3名壮汉威胁",
-      "onboard_time": 1704188012,
-      "rank": 47,
-      "category": "社会新闻,教育"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1705846545049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2178207,
+        "num": 2178207,
+        "word": "微信红包并非转账认定赠与无需返还",
+        "onboard_time": 1705839807,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1443339,
+        "num": 1443339,
+        "word": "关于六寸蛋糕放5斤车厘子这件情",
+        "onboard_time": 1705845211,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85147,
+        "num": 1011403,
+        "word": "当江浙沪遇上了古诗词",
+        "onboard_time": 1705845330,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873567,
+        "num": 873567,
+        "word": "苏增添被查",
+        "onboard_time": 1705830867,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722004,
+        "num": 722004,
+        "word": "十三年怎么就抵不过三年了",
+        "onboard_time": 1705835008,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 710558,
+        "num": 710558,
+        "word": "考完研后才知道家里有五层别墅",
+        "onboard_time": 1705843948,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 663645,
+        "num": 663645,
+        "word": "0713春晚联排13进9",
+        "onboard_time": 1705836807,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658202,
+        "num": 658202,
+        "word": "砂糖橘摆成了我吃不起的样子",
+        "onboard_time": 1705844848,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 516992,
+        "num": 516992,
+        "word": "徕芬",
+        "onboard_time": 1705845629,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 504290,
+        "num": 504290,
+        "word": "要久久爱收视率",
+        "onboard_time": 1705842329,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469678,
+        "num": 469678,
+        "word": "CBA裁判",
+        "onboard_time": 1705844790,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381327,
+        "num": 381327,
+        "word": "原来骑手不知道顾客能看见他全名",
+        "onboard_time": 1705828947,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381021,
+        "num": 381021,
+        "word": "迪丽热巴婴儿时期旧照",
+        "onboard_time": 1705840407,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355732,
+        "num": 355732,
+        "word": "杨紫范丞丞情头",
+        "onboard_time": 1705828645,
+        "rank": 13,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 326192,
+        "num": 326192,
+        "word": "俞敏洪回应新东方留不住人才",
+        "onboard_time": 1705840528,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 294427,
+        "num": 294427,
+        "word": "官方通报大学生夜游网红火车站严重烧伤",
+        "onboard_time": 1705837526,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288493,
+        "num": 288493,
+        "word": "东北谷爱凌竟是52岁单身奶奶",
+        "onboard_time": 1705829425,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262774,
+        "num": 262774,
+        "word": "王一博周钰翔微信加上了吗",
+        "onboard_time": 1705840947,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254143,
+        "num": 254143,
+        "word": "邱莹莹爸爸变成黄瀛子爸爸",
+        "onboard_time": 1705841609,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242879,
+        "num": 242879,
+        "word": "公交车上踩掉大爷的新鞋",
+        "onboard_time": 1705844671,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293733,
+        "num": 242689,
+        "word": "食物语手游",
+        "onboard_time": 1705845450,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235138,
+        "num": 235138,
+        "word": "网红是书瑶呀否认诽谤事件反转",
+        "onboard_time": 1705839388,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 224375,
+        "num": 224375,
+        "word": "女儿接农村妈妈进城3个月后变化惊人",
+        "onboard_time": 1705826785,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222318,
+        "num": 222318,
+        "word": "要久久爱",
+        "onboard_time": 1705845211,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220850,
+        "num": 220850,
+        "word": "俞灏明 春晚",
+        "onboard_time": 1705833808,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216481,
+        "num": 216481,
+        "word": "蒋翼出现那刻偶像剧弱爆了",
+        "onboard_time": 1705841369,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208752,
+        "num": 208752,
+        "word": "懂得人性才能谈好恋爱",
+        "onboard_time": 1705841129,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208525,
+        "num": 208525,
+        "word": "男子撸走1岁半幼儿金镯获刑9个月",
+        "onboard_time": 1705834466,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201247,
+        "num": 201247,
+        "word": "文旅局长张大大同框喊麦宣传吉林",
+        "onboard_time": 1705845450,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 201026,
+        "num": 201026,
+        "word": "长沙下雪",
+        "onboard_time": 1705834226,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197218,
+        "num": 197218,
+        "word": "原来萌兰这么大只啊",
+        "onboard_time": 1705836509,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194597,
+        "num": 194597,
+        "word": "李虎翼三分",
+        "onboard_time": 1705845029,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191702,
+        "num": 191702,
+        "word": "许凯痛失真名",
+        "onboard_time": 1705843229,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190657,
+        "num": 190657,
+        "word": "鹿晗女粉丝为偶像赴深圳见C罗",
+        "onboard_time": 1705835186,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 174835,
+        "num": 174835,
+        "word": "白鹿跳舞了",
+        "onboard_time": 1705831888,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171235,
+        "num": 171235,
+        "word": "小县城赢家",
+        "onboard_time": 1705837646,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166769,
+        "num": 166769,
+        "word": "国产三蹦子魅力传到外国",
+        "onboard_time": 1705846049,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166106,
+        "num": 166106,
+        "word": "Twins演唱会",
+        "onboard_time": 1705841067,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164694,
+        "num": 164694,
+        "word": "印度一CEO表演时坠落死亡",
+        "onboard_time": 1705829486,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163403,
+        "num": 163403,
+        "word": "年轻人为何不愿去银行工作了",
+        "onboard_time": 1705830746,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162396,
+        "num": 162396,
+        "word": "CBA",
+        "onboard_time": 1705845149,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161829,
+        "num": 161829,
+        "word": "吃饭有这4个习惯或会被癌症盯上",
+        "onboard_time": 1705840407,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149510,
+        "num": 149510,
+        "word": "这就是传说中的钵钵鸡",
+        "onboard_time": 1705843948,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144475,
+        "num": 144475,
+        "word": "恋与深空壁纸",
+        "onboard_time": 1705846291,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140879,
+        "num": 140879,
+        "word": "彩礼的本质",
+        "onboard_time": 1705836509,
+        "rank": 44,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 135807,
+        "num": 135807,
+        "word": "叙利亚一家五口两年没吃过肉",
+        "onboard_time": 1705833267,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132717,
+        "num": 132717,
+        "word": "牙膏用没了先别着急扔",
+        "onboard_time": 1705840108,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129109,
+        "num": 129109,
+        "word": "没人能空手走出景德镇",
+        "onboard_time": 1705843948,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121297,
+        "num": 121297,
+        "word": "陈泽直播",
+        "onboard_time": 1705844489,
+        "rank": 48,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 120779,
+        "num": 120779,
+        "word": "回村后的萨摩耶 出淤泥而局部染",
+        "onboard_time": 1705839388,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在福州工作期间珍贵影像#"
+    }
+  }
+}
