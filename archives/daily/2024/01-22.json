@@ -1,6 +1,6 @@
 {
   "startTime": 1705854115620,
-  "endTime": 1705862115473,
+  "endTime": 1705864458410,
   "band_list": [
     {
       "raw_hot": 1026719,
@@ -379,20 +379,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90812,
+      "num": 84833,
+      "word": "为什么制冷和制热的26度不一样",
+      "onboard_time": 1705858456,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 87825,
       "num": 87825,
       "word": "东北谷爱凌竟是52岁单身奶奶",
       "onboard_time": 1705829425,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84833,
-      "num": 84833,
-      "word": "为什么制冷和制热的26度不一样",
-      "onboard_time": 1705858456,
-      "rank": 17,
-      "category": "科学科普"
     },
     {
       "raw_hot": 84708,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46548,
+      "num": 46548,
+      "word": "仙剑之父转发仙剑四微博",
+      "onboard_time": 1705862295,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43958,
       "num": 43958,
       "word": "薛之谦别开玩笑了",
@@ -441,6 +449,14 @@
       "onboard_time": 1705839388,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 16497,
+      "num": 16497,
+      "word": "儿子和女儿结婚爸爸的不同反应",
+      "onboard_time": 1705864334,
+      "rank": 46,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
