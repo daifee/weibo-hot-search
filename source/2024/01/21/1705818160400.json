@@ -1,0 +1,410 @@
+{
+  "runTime": 1705818160400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1051546,
+        "num": 1051546,
+        "word": "银川烧烤店爆炸受害者本该有逃生机会",
+        "onboard_time": 1705809746,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890536,
+        "num": 890536,
+        "word": "陆仙人停播超20天",
+        "onboard_time": 1705815566,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 67862,
+        "num": 735896,
+        "word": "朱鹮雪中起舞水墨画瞬间活了起来",
+        "onboard_time": 1705809626,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715585,
+        "num": 715585,
+        "word": "韩安冉女儿被确诊多动症",
+        "onboard_time": 1705794679,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687064,
+        "num": 687064,
+        "word": "你在表白 他在背词",
+        "onboard_time": 1705809686,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 576354,
+        "num": 576354,
+        "word": "贾玲张小斐杨紫跳舞",
+        "onboard_time": 1705812987,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 528582,
+        "num": 528582,
+        "word": "段奥娟毛笔字",
+        "onboard_time": 1705816226,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521680,
+        "num": 521680,
+        "word": "张黎称已成立新导师组",
+        "onboard_time": 1705813588,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431593,
+        "num": 431593,
+        "word": "5天快速掉10斤的减脂餐",
+        "onboard_time": 1705815626,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 411605,
+        "num": 411605,
+        "word": "4名女警生无可恋式推走故障叉车",
+        "onboard_time": 1705811125,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410175,
+        "num": 410175,
+        "word": "老爷爷打卡易烊千玺海报女孩热情帮拍",
+        "onboard_time": 1705813649,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 404887,
+        "num": 404887,
+        "word": "短道速滑 中国队智商碾压",
+        "onboard_time": 1705812085,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370089,
+        "num": 370089,
+        "word": "龙年央视春晚第二次联排",
+        "onboard_time": 1705804047,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367364,
+        "num": 367364,
+        "word": "兔子战术",
+        "onboard_time": 1705812146,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292452,
+        "num": 292452,
+        "word": "王源飞波士顿开启新学期",
+        "onboard_time": 1705811367,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263356,
+        "num": 263356,
+        "word": "男孩跳绳6000下后气胸",
+        "onboard_time": 1705808186,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237596,
+        "num": 237596,
+        "word": "河南2023年人均收入29933元",
+        "onboard_time": 1705814127,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232791,
+        "num": 232791,
+        "word": "在暴雪时分",
+        "onboard_time": 1705812748,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215075,
+        "num": 215075,
+        "word": "SNH48演出票拍出上万元",
+        "onboard_time": 1705815207,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213575,
+        "num": 213575,
+        "word": "赵丽颖3天2篇河北小作文",
+        "onboard_time": 1705809626,
+        "rank": 19,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 315182,
+        "num": 211214,
+        "word": "西班牙男子猥亵自己6个月大女儿",
+        "onboard_time": 1705805006,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287851,
+        "num": 210859,
+        "word": "查出幽门螺杆菌但没症状要治吗",
+        "onboard_time": 1705817307,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207188,
+        "num": 207188,
+        "word": "赵今麦给张凌赫买牛牛糖人",
+        "onboard_time": 1705817366,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205259,
+        "num": 205259,
+        "word": "要久久爱 蓝亦菲去世了吗",
+        "onboard_time": 1705810703,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48068,
+        "num": 204885,
+        "word": "祁煜人鱼脆弱期",
+        "onboard_time": 1705815207,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204807,
+        "num": 204807,
+        "word": "崩坏 匹诺康尼",
+        "onboard_time": 1705817664,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190885,
+        "num": 190885,
+        "word": "速效救心丸和硝酸甘油 谁更有用",
+        "onboard_time": 1705815987,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179657,
+        "num": 179657,
+        "word": "婚姻中看不见的女性之痛",
+        "onboard_time": 1705806444,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175624,
+        "num": 175624,
+        "word": "朋友圈背景图",
+        "onboard_time": 1705805967,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174231,
+        "num": 174231,
+        "word": "潘玮柏对粉丝说要不你来唱",
+        "onboard_time": 1705817724,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 305151,
+        "num": 173163,
+        "word": "终于知道高铁盒饭受众是谁了",
+        "onboard_time": 1705797263,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170979,
+        "num": 170979,
+        "word": "C罗说FIFA最佳奖项正失去可信度",
+        "onboard_time": 1705816646,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163150,
+        "num": 163150,
+        "word": "时代少年团手工能力",
+        "onboard_time": 1705816824,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154061,
+        "num": 154061,
+        "word": "北京今年将新增中小学学位2万个",
+        "onboard_time": 1705814249,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150806,
+        "num": 150806,
+        "word": "成都女孩空手回家过年被父亲灵魂拷问",
+        "onboard_time": 1705809566,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150034,
+        "num": 150034,
+        "word": "米哈游 橡皮管动画",
+        "onboard_time": 1705817608,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144190,
+        "num": 144190,
+        "word": "祈今朝英文名",
+        "onboard_time": 1705816945,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144014,
+        "num": 144014,
+        "word": "张心喆1000米夺金",
+        "onboard_time": 1705816886,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143908,
+        "num": 143908,
+        "word": "梦泪今晚开播",
+        "onboard_time": 1705816287,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140798,
+        "num": 140798,
+        "word": "王俊凯 很后悔昨天睡觉了",
+        "onboard_time": 1705752390,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137723,
+        "num": 137723,
+        "word": "杨超越帮苏醒找了四份工作",
+        "onboard_time": 1705815145,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137282,
+        "num": 137282,
+        "word": "送到大学的外卖基本没有差评",
+        "onboard_time": 1705812024,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135163,
+        "num": 135163,
+        "word": "中国队又包揽一场金银牌",
+        "onboard_time": 1705817366,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129423,
+        "num": 129423,
+        "word": "程潇帮选手去油",
+        "onboard_time": 1705814608,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129402,
+        "num": 129402,
+        "word": "鲸搁浅三亚一天要吃40斤鱿鱼",
+        "onboard_time": 1705804946,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126845,
+        "num": 126845,
+        "word": "世界之外",
+        "onboard_time": 1705806623,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116431,
+        "num": 116431,
+        "word": "安心离婚后被求婚",
+        "onboard_time": 1705802967,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114155,
+        "num": 114155,
+        "word": "不然不在TTG打野了",
+        "onboard_time": 1705818148,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107446,
+        "num": 107446,
+        "word": "C罗中国行",
+        "onboard_time": 1705814546,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103170,
+        "num": 103170,
+        "word": "老君山新年期间对属龙名龙游客免票",
+        "onboard_time": 1705818024,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
