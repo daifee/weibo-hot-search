@@ -1,6 +1,6 @@
 {
   "startTime": 1705854115620,
-  "endTime": 1705872869900,
+  "endTime": 1705875398253,
   "band_list": [
     {
       "raw_hot": 1026719,
@@ -387,6 +387,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 90181,
+      "num": 90181,
+      "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
+      "onboard_time": 1705867271,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87825,
       "num": 87825,
       "word": "东北谷爱凌竟是52岁单身奶奶",
@@ -419,16 +427,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 72177,
-      "num": 31563,
-      "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
-      "onboard_time": 1705867271,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63909,
-      "num": 32916,
+      "num": 35150,
       "word": "儿子和女儿结婚爸爸的不同反应",
       "onboard_time": 1705864334,
       "rank": 46,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27937,
+      "num": 27937,
+      "word": "负面情绪为何总是在晚上出现",
+      "onboard_time": 1705871952,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23699,
       "num": 23699,
       "word": "网红是书瑶呀否认诽谤事件反转",
@@ -467,12 +475,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 11358,
-      "num": 11358,
-      "word": "负面情绪为何总是在晚上出现",
-      "onboard_time": 1705871952,
+      "raw_hot": 14533,
+      "num": 14533,
+      "word": "成都人的松弛感不像是演的",
+      "onboard_time": 1705874413,
       "rank": 45,
-      "category": "情感"
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 12686,
+      "num": 14531,
+      "word": "新年plog接龙",
+      "onboard_time": 1705869433,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12321,
+      "num": 14529,
+      "word": "把冻梨拍成吃不起的样子",
+      "onboard_time": 1705872973,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 11235,
@@ -481,14 +505,6 @@
       "onboard_time": 1705865712,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 10610,
-      "num": 10610,
-      "word": "新年plog接龙",
-      "onboard_time": 1705869433,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10258,
