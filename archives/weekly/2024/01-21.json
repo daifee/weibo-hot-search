@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705833342168,
+  "endTime": 1705835660464,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -99,6 +99,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 993041,
+      "num": 1489384,
+      "word": "东北谷爱凌竟是52岁单身奶奶",
+      "onboard_time": 1705829425,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 983952,
       "num": 983952,
       "word": "朋友圈背景图",
@@ -113,14 +121,6 @@
       "onboard_time": 1705809686,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 960652,
-      "num": 1489384,
-      "word": "东北谷爱凌竟是52岁单身奶奶",
-      "onboard_time": 1705829425,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 920542,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 694521,
+      "num": 694521,
+      "word": "俞灏明 春晚",
+      "onboard_time": 1705833808,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 672128,
       "num": 672128,
       "word": "男孩跳绳6000下后气胸",
@@ -241,6 +249,14 @@
       "onboard_time": 1705812987,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 618728,
+      "num": 451975,
+      "word": "叙利亚一家五口两年没吃过肉",
+      "onboard_time": 1705833267,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 615145,
@@ -531,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376121,
+      "num": 376121,
+      "word": "C罗在机场用中文打招呼",
+      "onboard_time": 1705831888,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 367364,
       "num": 367364,
       "word": "兔子战术",
@@ -548,19 +572,11 @@
     },
     {
       "raw_hot": 365865,
-      "num": 204168,
+      "num": 216266,
       "word": "舅舅一张50换走外甥女过期压岁钱",
       "onboard_time": 1705830746,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360396,
-      "num": 360396,
-      "word": "C罗在机场用中文打招呼",
-      "onboard_time": 1705831888,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 358293,
@@ -569,6 +585,14 @@
       "onboard_time": 1705793957,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 357546,
+      "num": 357546,
+      "word": "鹿晗女粉丝为偶像赴深圳见C罗",
+      "onboard_time": 1705835186,
+      "rank": 13,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 352672,
@@ -699,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292625,
+      "num": 292625,
+      "word": "长沙下雪",
+      "onboard_time": 1705834226,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285075,
       "num": 240371,
       "word": "原来iPhone18离我们越来越近了",
@@ -707,8 +739,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283946,
+      "num": 215149,
+      "word": "男子撸走1岁半幼儿金镯获刑9个月",
+      "onboard_time": 1705834466,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283610,
-      "num": 200403,
+      "num": 211635,
       "word": "年轻人为何不愿去银行工作了",
       "onboard_time": 1705830746,
       "rank": 22,
@@ -915,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218178,
+      "num": 218178,
+      "word": "再就业男团春晚第二次联排",
+      "onboard_time": 1705831470,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217567,
       "num": 217567,
       "word": "日本连环撞车一汽车被挤到30cm厚",
@@ -947,6 +995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 207951,
+      "num": 207951,
+      "word": "水果摊上28元能买到一盒车厘子",
+      "onboard_time": 1705834466,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206630,
       "num": 206630,
       "word": "C罗确定出战中国行两场比赛",
@@ -961,6 +1017,14 @@
       "onboard_time": 1705798225,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206005,
+      "num": 206005,
+      "word": "九尾转会LGDNBW",
+      "onboard_time": 1705833687,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 205960,
@@ -1057,14 +1121,6 @@
       "onboard_time": 1705752390,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195087,
-      "num": 195087,
-      "word": "再就业男团春晚第二次联排",
-      "onboard_time": 1705831470,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 195050,
@@ -1203,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175794,
+      "num": 175794,
+      "word": "别再用冰箱自己冷冻水果了",
+      "onboard_time": 1705834349,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 175091,
       "num": 172402,
       "word": "周深连续三年春晚彩排穿同一件羽绒服",
@@ -1265,6 +1329,14 @@
       "onboard_time": 1705811486,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167977,
+      "num": 167977,
+      "word": "TTG再无XQ",
+      "onboard_time": 1705834286,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 166082,
@@ -1345,6 +1417,14 @@
       "onboard_time": 1705798403,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157412,
+      "num": 157412,
+      "word": "十三年怎么就抵不过三年了",
+      "onboard_time": 1705835008,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 156413,
@@ -1635,6 +1715,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 129682,
+      "num": 129682,
+      "word": "规矩是死的狗是活的",
+      "onboard_time": 1705834648,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127739,
       "num": 127739,
       "word": "魏大勋玩321木头人差点出事",
@@ -1697,6 +1785,14 @@
       "onboard_time": 1705809626,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123576,
+      "num": 123576,
+      "word": "TTG九尾断开连接",
+      "onboard_time": 1705833687,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 121844,
@@ -1763,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114559,
+      "num": 114559,
+      "word": "祈今朝",
+      "onboard_time": 1705834226,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114427,
       "num": 114427,
       "word": "世界之外 吐息",
@@ -1819,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107261,
+      "num": 107261,
+      "word": "九尾 新的起点",
+      "onboard_time": 1705833808,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107005,
       "num": 833145,
       "word": "博士乘组一个意外发现改变太空授课",
@@ -1841,6 +1953,14 @@
       "onboard_time": 1705816526,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105673,
+      "num": 105673,
+      "word": "投喂孙悟空",
+      "onboard_time": 1705835368,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 104413,
@@ -2065,14 +2185,6 @@
       "onboard_time": 1705751369,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79077,
-      "num": 79077,
-      "word": "叙利亚一家五口两年没吃过肉",
-      "onboard_time": 1705833267,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 77068,
