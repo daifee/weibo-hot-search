@@ -1,0 +1,410 @@
+{
+  "runTime": 1705843232316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1535086,
+        "num": 1535086,
+        "word": "苏增添被查",
+        "onboard_time": 1705830867,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922348,
+        "num": 922348,
+        "word": "0713春晚联排13进9",
+        "onboard_time": 1705836807,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17033,
+        "num": 800076,
+        "word": "缉毒警笔记里的经验总结让人泪目",
+        "onboard_time": 1705805306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793487,
+        "num": 793487,
+        "word": "官方通报大学生夜游网红火车站严重烧伤",
+        "onboard_time": 1705837526,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753467,
+        "num": 753467,
+        "word": "十三年怎么就抵不过三年了",
+        "onboard_time": 1705835008,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 651265,
+        "num": 651265,
+        "word": "网红是书瑶呀否认诽谤事件反转",
+        "onboard_time": 1705839388,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569905,
+        "num": 569905,
+        "word": "迪丽热巴婴儿时期旧照",
+        "onboard_time": 1705840407,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549366,
+        "num": 549366,
+        "word": "杨紫范丞丞情头",
+        "onboard_time": 1705828645,
+        "rank": 7,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 549170,
+        "num": 549170,
+        "word": "俞敏洪回应新东方留不住人才",
+        "onboard_time": 1705840528,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 524645,
+        "num": 524645,
+        "word": "小县城赢家",
+        "onboard_time": 1705837646,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 441947,
+        "num": 441947,
+        "word": "东北谷爱凌竟是52岁单身奶奶",
+        "onboard_time": 1705829425,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414595,
+        "num": 414595,
+        "word": "原来骑手不知道顾客能看见他全名",
+        "onboard_time": 1705828947,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 394174,
+        "num": 394174,
+        "word": "王一博周钰翔微信加上了吗",
+        "onboard_time": 1705840947,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357566,
+        "num": 357566,
+        "word": "邱莹莹爸爸变成黄瀛子爸爸",
+        "onboard_time": 1705841609,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335009,
+        "num": 335009,
+        "word": "蒋翼出现那刻偶像剧弱爆了",
+        "onboard_time": 1705841369,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319191,
+        "num": 319191,
+        "word": "彩礼的本质",
+        "onboard_time": 1705836509,
+        "rank": 15,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 314479,
+        "num": 314479,
+        "word": "女儿接农村妈妈进城3个月后变化惊人",
+        "onboard_time": 1705826785,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306934,
+        "num": 306934,
+        "word": "鹿晗女粉丝为偶像赴深圳见C罗",
+        "onboard_time": 1705835186,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 298802,
+        "num": 298802,
+        "word": "原来萌兰这么大只啊",
+        "onboard_time": 1705836509,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294227,
+        "num": 294227,
+        "word": "钟楚曦假肢戏拍摄过程",
+        "onboard_time": 1705837407,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 880633,
+        "num": 288944,
+        "word": "微信红包并非转账认定赠与无需返还",
+        "onboard_time": 1705839807,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263716,
+        "num": 263716,
+        "word": "俞灏明 春晚",
+        "onboard_time": 1705833808,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253754,
+        "num": 253754,
+        "word": "要久久爱收视率",
+        "onboard_time": 1705842329,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231668,
+        "num": 231668,
+        "word": "印度一CEO表演时坠落死亡",
+        "onboard_time": 1705829486,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207440,
+        "num": 207440,
+        "word": "懂得人性才能谈好恋爱",
+        "onboard_time": 1705841129,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201686,
+        "num": 201686,
+        "word": "原来白人真不会亚洲蹲",
+        "onboard_time": 1705839449,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199125,
+        "num": 199125,
+        "word": "牙膏用没了先别着急扔",
+        "onboard_time": 1705840108,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196856,
+        "num": 196856,
+        "word": "长沙下雪",
+        "onboard_time": 1705834226,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196083,
+        "num": 196083,
+        "word": "男子撸走1岁半幼儿金镯获刑9个月",
+        "onboard_time": 1705834466,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190937,
+        "num": 190937,
+        "word": "回村后的萨摩耶 出淤泥而局部染",
+        "onboard_time": 1705839388,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187530,
+        "num": 187530,
+        "word": "吃饭有这4个习惯或会被癌症盯上",
+        "onboard_time": 1705840407,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171014,
+        "num": 171014,
+        "word": "Twins演唱会",
+        "onboard_time": 1705841067,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169142,
+        "num": 169142,
+        "word": "白鹿跳舞了",
+        "onboard_time": 1705831888,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168396,
+        "num": 168396,
+        "word": "叙利亚一家五口两年没吃过肉",
+        "onboard_time": 1705833267,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 165692,
+        "num": 165692,
+        "word": "仙剑六男扮女装女扮男装",
+        "onboard_time": 1705838667,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149143,
+        "num": 149143,
+        "word": "要久久爱 爱与坚持",
+        "onboard_time": 1705842148,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145455,
+        "num": 145455,
+        "word": "肠道息肉上厕所时会有4个提示",
+        "onboard_time": 1705819644,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144511,
+        "num": 144511,
+        "word": "男子试图闯入霉霉公寓被捕",
+        "onboard_time": 1705842810,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142302,
+        "num": 142302,
+        "word": "年轻人为何不愿去银行工作了",
+        "onboard_time": 1705830746,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139412,
+        "num": 139412,
+        "word": "权顺荣小老虎",
+        "onboard_time": 1705838010,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130803,
+        "num": 130803,
+        "word": "舅舅一张50换走外甥女过期压岁钱",
+        "onboard_time": 1705830746,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125458,
+        "num": 125458,
+        "word": "三哥你就宠她吧",
+        "onboard_time": 1705842448,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122318,
+        "num": 122318,
+        "word": "广东男篮vs辽宁男篮",
+        "onboard_time": 1705840108,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115541,
+        "num": 115541,
+        "word": "国脚说国足没输球没掉队",
+        "onboard_time": 1705838667,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113270,
+        "num": 113270,
+        "word": "水果摊上28元能买到一盒车厘子",
+        "onboard_time": 1705834466,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111646,
+        "num": 111646,
+        "word": "谈感情可以谈钱没门",
+        "onboard_time": 1705839747,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107011,
+        "num": 107011,
+        "word": "卢布列夫晋级八强",
+        "onboard_time": 1705842930,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96216,
+        "num": 96216,
+        "word": "江豚风时舞 阴阳师",
+        "onboard_time": 1705839504,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94633,
+        "num": 94633,
+        "word": "陶喆厦门抢票",
+        "onboard_time": 1705839928,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90203,
+        "num": 90203,
+        "word": "婚礼回礼竟是一人一件四川省服",
+        "onboard_time": 1705821683,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进金融高水平对外开放#"
+    }
+  }
+}

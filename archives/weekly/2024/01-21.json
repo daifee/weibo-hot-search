@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705841220707,
+  "endTime": 1705843232316,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -163,6 +163,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 880633,
+      "num": 288944,
+      "word": "微信红包并非转账认定赠与无需返还",
+      "onboard_time": 1705839807,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 870204,
       "num": 870204,
       "word": "龙年央视春晚第二次联排",
@@ -200,14 +208,6 @@
       "word": "女儿接农村妈妈进城3个月后变化惊人",
       "onboard_time": 1705826785,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 800838,
-      "num": 270695,
-      "word": "微信红包并非转账认定赠与无需返还",
-      "onboard_time": 1705839807,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 651265,
+      "num": 651265,
+      "word": "网红是书瑶呀否认诽谤事件反转",
+      "onboard_time": 1705839388,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650857,
       "num": 650857,
       "word": "鹿晗女粉丝为偶像赴深圳见C罗",
@@ -339,6 +347,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569905,
+      "num": 569905,
+      "word": "迪丽热巴婴儿时期旧照",
+      "onboard_time": 1705840407,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 549170,
+      "num": 549170,
+      "word": "俞敏洪回应新东方留不住人才",
+      "onboard_time": 1705840528,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 531098,
       "num": 531098,
       "word": "俄罗斯航空公布阿富汗失事飞机细节",
@@ -369,6 +393,14 @@
       "onboard_time": 1705812085,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 524645,
+      "num": 524645,
+      "word": "小县城赢家",
+      "onboard_time": 1705837646,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 521680,
@@ -427,14 +459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 488333,
-      "num": 488333,
-      "word": "小县城赢家",
-      "onboard_time": 1705837646,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 487430,
       "num": 487430,
       "word": "第一批90后现状如何",
@@ -449,14 +473,6 @@
       "onboard_time": 1705809626,
       "rank": 8,
       "category": "旅游,艺人"
-    },
-    {
-      "raw_hot": 467403,
-      "num": 467403,
-      "word": "网红是书瑶呀否认诽谤事件反转",
-      "onboard_time": 1705839388,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 466071,
@@ -505,14 +521,6 @@
       "onboard_time": 1705754788,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 435485,
-      "num": 435485,
-      "word": "迪丽热巴婴儿时期旧照",
-      "onboard_time": 1705840407,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 435395,
@@ -603,6 +611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 394174,
+      "num": 394174,
+      "word": "王一博周钰翔微信加上了吗",
+      "onboard_time": 1705840947,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393391,
       "num": 393391,
       "word": "原来萌兰这么大只啊",
@@ -675,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357566,
+      "num": 357566,
+      "word": "邱莹莹爸爸变成黄瀛子爸爸",
+      "onboard_time": 1705841609,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352672,
       "num": 352672,
       "word": "沈马",
@@ -721,6 +745,14 @@
       "onboard_time": 1705804345,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 335009,
+      "num": 335009,
+      "word": "蒋翼出现那刻偶像剧弱爆了",
+      "onboard_time": 1705841369,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 332804,
@@ -939,12 +971,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 253857,
-      "num": 253857,
-      "word": "俞敏洪回应新东方留不住人才",
-      "onboard_time": 1705840528,
-      "rank": 21,
-      "category": "互联网"
+      "raw_hot": 253754,
+      "num": 253754,
+      "word": "要久久爱收视率",
+      "onboard_time": 1705842329,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 250477,
@@ -1131,6 +1163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 207440,
+      "num": 207440,
+      "word": "懂得人性才能谈好恋爱",
+      "onboard_time": 1705841129,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206630,
       "num": 206630,
       "word": "C罗确定出战中国行两场比赛",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1705762112,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199125,
+      "num": 199125,
+      "word": "牙膏用没了先别着急扔",
+      "onboard_time": 1705840108,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 198245,
@@ -1363,14 +1411,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 182827,
-      "num": 182827,
-      "word": "牙膏用没了先别着急扔",
-      "onboard_time": 1705840108,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181683,
       "num": 181683,
       "word": "范丞丞打假蒋翼列传",
@@ -1499,6 +1539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171014,
+      "num": 171014,
+      "word": "Twins演唱会",
+      "onboard_time": 1705841067,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170979,
       "num": 170979,
       "word": "C罗说FIFA最佳奖项正失去可信度",
@@ -1553,14 +1601,6 @@
       "onboard_time": 1705808545,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162814,
-      "num": 162814,
-      "word": "王一博周钰翔微信加上了吗",
-      "onboard_time": 1705840947,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 162624,
@@ -1675,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149143,
+      "num": 149143,
+      "word": "要久久爱 爱与坚持",
+      "onboard_time": 1705842148,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148994,
       "num": 148994,
       "word": "只有黄瀛子被留在了18岁",
@@ -1713,6 +1761,14 @@
       "onboard_time": 1705839747,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144511,
+      "num": 144511,
+      "word": "男子试图闯入霉霉公寓被捕",
+      "onboard_time": 1705842810,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 144190,
@@ -2003,28 +2059,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125458,
+      "num": 125458,
+      "word": "三哥你就宠她吧",
+      "onboard_time": 1705842448,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124798,
       "num": 124798,
       "word": "阶段性的友谊 不必太遗憾",
       "onboard_time": 1705797445,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124120,
-      "num": 124120,
-      "word": "懂得人性才能谈好恋爱",
-      "onboard_time": 1705841129,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 123694,
-      "num": 123694,
-      "word": "Twins演唱会",
-      "onboard_time": 1705841067,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 123653,
@@ -2177,6 +2225,14 @@
       "onboard_time": 1705833808,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107011,
+      "num": 107011,
+      "word": "卢布列夫晋级八强",
+      "onboard_time": 1705842930,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 107005,
@@ -2594,6 +2650,9 @@
     },
     {
       "word": "#读懂3820蕴含的有福密码#"
+    },
+    {
+      "word": "#推进金融高水平对外开放#"
     }
   ]
 }
