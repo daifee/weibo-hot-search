@@ -1,0 +1,410 @@
+{
+  "runTime": 1705844057785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1448073,
+        "num": 1448073,
+        "word": "苏增添被查",
+        "onboard_time": 1705830867,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009243,
+        "num": 1009243,
+        "word": "微信红包并非转账认定赠与无需返还",
+        "onboard_time": 1705839807,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16094,
+        "num": 935830,
+        "word": "缉毒警笔记里的经验总结让人泪目",
+        "onboard_time": 1705805306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867865,
+        "num": 867865,
+        "word": "0713春晚联排13进9",
+        "onboard_time": 1705836807,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 775709,
+        "num": 775709,
+        "word": "十三年怎么就抵不过三年了",
+        "onboard_time": 1705835008,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 647509,
+        "num": 647509,
+        "word": "网红是书瑶呀否认诽谤事件反转",
+        "onboard_time": 1705839388,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623606,
+        "num": 623606,
+        "word": "迪丽热巴婴儿时期旧照",
+        "onboard_time": 1705840407,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617495,
+        "num": 617495,
+        "word": "官方通报大学生夜游网红火车站严重烧伤",
+        "onboard_time": 1705837526,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577684,
+        "num": 577684,
+        "word": "俞敏洪回应新东方留不住人才",
+        "onboard_time": 1705840528,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 549529,
+        "num": 549529,
+        "word": "邱莹莹爸爸变成黄瀛子爸爸",
+        "onboard_time": 1705841609,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461691,
+        "num": 461691,
+        "word": "原来骑手不知道顾客能看见他全名",
+        "onboard_time": 1705828947,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 496383,
+        "num": 459844,
+        "word": "杨紫范丞丞情头",
+        "onboard_time": 1705828645,
+        "rank": 11,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 438322,
+        "num": 438322,
+        "word": "小县城赢家",
+        "onboard_time": 1705837646,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 457758,
+        "num": 425632,
+        "word": "要久久爱收视率",
+        "onboard_time": 1705842329,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402042,
+        "num": 402042,
+        "word": "王一博周钰翔微信加上了吗",
+        "onboard_time": 1705840947,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380152,
+        "num": 380152,
+        "word": "东北谷爱凌竟是52岁单身奶奶",
+        "onboard_time": 1705829425,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336700,
+        "num": 336700,
+        "word": "女儿接农村妈妈进城3个月后变化惊人",
+        "onboard_time": 1705826785,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289260,
+        "num": 289260,
+        "word": "原来萌兰这么大只啊",
+        "onboard_time": 1705836509,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281267,
+        "num": 281267,
+        "word": "蒋翼出现那刻偶像剧弱爆了",
+        "onboard_time": 1705841369,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273049,
+        "num": 273049,
+        "word": "鹿晗女粉丝为偶像赴深圳见C罗",
+        "onboard_time": 1705835186,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 269143,
+        "num": 269143,
+        "word": "彩礼的本质",
+        "onboard_time": 1705836509,
+        "rank": 20,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 240738,
+        "num": 240738,
+        "word": "俞灏明 春晚",
+        "onboard_time": 1705833808,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230665,
+        "num": 230665,
+        "word": "印度一CEO表演时坠落死亡",
+        "onboard_time": 1705829486,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216833,
+        "num": 216833,
+        "word": "回村后的萨摩耶 出淤泥而局部染",
+        "onboard_time": 1705839388,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214994,
+        "num": 214994,
+        "word": "牙膏用没了先别着急扔",
+        "onboard_time": 1705840108,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208418,
+        "num": 208418,
+        "word": "原来白人真不会亚洲蹲",
+        "onboard_time": 1705839449,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204450,
+        "num": 204450,
+        "word": "懂得人性才能谈好恋爱",
+        "onboard_time": 1705841129,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200830,
+        "num": 200830,
+        "word": "钟楚曦假肢戏拍摄过程",
+        "onboard_time": 1705837407,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199492,
+        "num": 199492,
+        "word": "长沙下雪",
+        "onboard_time": 1705834226,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199218,
+        "num": 199218,
+        "word": "许凯痛失真名",
+        "onboard_time": 1705843229,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412846,
+        "num": 196873,
+        "word": "考完研后才知道家里有五层别墅",
+        "onboard_time": 1705843948,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188756,
+        "num": 188756,
+        "word": "男子试图闯入霉霉公寓被捕",
+        "onboard_time": 1705842810,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183511,
+        "num": 183511,
+        "word": "吃饭有这4个习惯或会被癌症盯上",
+        "onboard_time": 1705840407,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181699,
+        "num": 181699,
+        "word": "白鹿跳舞了",
+        "onboard_time": 1705831888,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178408,
+        "num": 178408,
+        "word": "仙剑六男扮女装女扮男装",
+        "onboard_time": 1705838667,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177176,
+        "num": 177176,
+        "word": "男子撸走1岁半幼儿金镯获刑9个月",
+        "onboard_time": 1705834466,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163694,
+        "num": 163694,
+        "word": "Twins演唱会",
+        "onboard_time": 1705841067,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162704,
+        "num": 162704,
+        "word": "这就是传说中的钵钵鸡",
+        "onboard_time": 1705843948,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151392,
+        "num": 151392,
+        "word": "叙利亚一家五口两年没吃过肉",
+        "onboard_time": 1705833267,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 146182,
+        "num": 146182,
+        "word": "赵权否认取关泫雅",
+        "onboard_time": 1705843588,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138824,
+        "num": 138824,
+        "word": "肠道息肉上厕所时会有4个提示",
+        "onboard_time": 1705819644,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137959,
+        "num": 137959,
+        "word": "舅舅一张50换走外甥女过期压岁钱",
+        "onboard_time": 1705830746,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137878,
+        "num": 137878,
+        "word": "年轻人为何不愿去银行工作了",
+        "onboard_time": 1705830746,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128518,
+        "num": 128518,
+        "word": "三哥你就宠她吧",
+        "onboard_time": 1705842448,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126622,
+        "num": 126622,
+        "word": "没人能空手走出景德镇",
+        "onboard_time": 1705843948,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110601,
+        "num": 110601,
+        "word": "国脚说国足没输球没掉队",
+        "onboard_time": 1705838667,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110573,
+        "num": 110573,
+        "word": "权顺荣小老虎",
+        "onboard_time": 1705838010,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107722,
+        "num": 107722,
+        "word": "水果摊上28元能买到一盒车厘子",
+        "onboard_time": 1705834466,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103991,
+        "num": 103991,
+        "word": "广东男篮vs辽宁男篮",
+        "onboard_time": 1705840108,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103414,
+        "num": 103414,
+        "word": "谈感情可以谈钱没门",
+        "onboard_time": 1705839747,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在福州工作期间珍贵影像#"
+    }
+  }
+}
