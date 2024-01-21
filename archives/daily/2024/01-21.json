@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705810863623,
+  "endTime": 1705811717027,
   "band_list": [
     {
       "raw_hot": 1631346,
@@ -35,8 +35,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 905734,
-      "num": 905734,
+      "raw_hot": 983952,
+      "num": 983952,
       "word": "朋友圈背景图",
       "onboard_time": 1705805967,
       "rank": 22,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774724,
+      "num": 774724,
+      "word": "你在表白 他在背词",
+      "onboard_time": 1705809686,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 701617,
       "num": 701617,
       "word": "梨泰院踩踏事件警察厅长被控过失杀人",
@@ -72,6 +80,22 @@
       "word": "西班牙男子猥亵自己6个月大女儿",
       "onboard_time": 1705805006,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672128,
+      "num": 672128,
+      "word": "男孩跳绳6000下后气胸",
+      "onboard_time": 1705808186,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 659322,
+      "num": 659322,
+      "word": "银川烧烤店爆炸受害者本该有逃生机会",
+      "onboard_time": 1705809746,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -107,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 520992,
-      "num": 520992,
-      "word": "男孩跳绳6000下后气胸",
-      "onboard_time": 1705808186,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 507366,
       "num": 507366,
       "word": "繁花2",
@@ -147,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 450497,
-      "num": 450497,
+      "raw_hot": 477459,
+      "num": 477459,
       "word": "赵丽颖3天2篇河北小作文",
       "onboard_time": 1705809626,
       "rank": 8,
@@ -169,14 +185,6 @@
       "onboard_time": 1705800266,
       "rank": 15,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 447918,
-      "num": 447918,
-      "word": "你在表白 他在背词",
-      "onboard_time": 1705809686,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 444265,
@@ -283,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 380211,
-      "num": 380211,
-      "word": "银川烧烤店爆炸受害者本该有逃生机会",
-      "onboard_time": 1705809746,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379921,
       "num": 379921,
       "word": "大熊猫和叶因伤暂停营业",
@@ -347,11 +347,35 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 311456,
+      "num": 311456,
+      "word": "要久久爱 蓝亦菲去世了吗",
+      "onboard_time": 1705810703,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 310706,
+      "num": 310706,
+      "word": "中产涌入三亚扎堆买房子",
+      "onboard_time": 1705808666,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303484,
       "num": 303484,
       "word": "经常拥抱对身体有好处",
       "onboard_time": 1705796664,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303371,
+      "num": 234758,
+      "word": "成都女孩空手回家过年被父亲灵魂拷问",
+      "onboard_time": 1705809566,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -361,14 +385,6 @@
       "onboard_time": 1705807347,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293688,
-      "num": 234758,
-      "word": "成都女孩空手回家过年被父亲灵魂拷问",
-      "onboard_time": 1705809566,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285075,
@@ -399,14 +415,6 @@
       "num": 279976,
       "word": "花花就差一个西瓜了",
       "onboard_time": 1705802726,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275044,
-      "num": 275044,
-      "word": "中产涌入三亚扎堆买房子",
-      "onboard_time": 1705808666,
       "rank": 17,
       "category": "社会新闻"
     },
@@ -473,6 +481,14 @@
       "onboard_time": 1705798344,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245386,
+      "num": 245386,
+      "word": "郭晶晶霍启刚亮相香港马拉松赛",
+      "onboard_time": 1705808846,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 244969,
@@ -547,20 +563,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213199,
-      "num": 213199,
-      "word": "郭晶晶霍启刚亮相香港马拉松赛",
-      "onboard_time": 1705808846,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 210243,
       "num": 210243,
       "word": "粉笔模考 读不懂言语",
       "onboard_time": 1705807470,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 208803,
+      "num": 208803,
+      "word": "王源飞波士顿开启新学期",
+      "onboard_time": 1705811367,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 206543,
@@ -619,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195050,
+      "num": 195050,
+      "word": "西安WE豪华教练天团",
+      "onboard_time": 1705810467,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193893,
       "num": 174281,
       "word": "房东见证7年租客结婚生子帮带娃",
@@ -649,6 +673,14 @@
       "onboard_time": 1705803146,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 183160,
+      "num": 183160,
+      "word": "当小说里的豪宅照应进现实后",
+      "onboard_time": 1705810526,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 180902,
@@ -699,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168534,
+      "num": 168534,
+      "word": "春晚第二次联排明星阵容",
+      "onboard_time": 1705811486,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163136,
       "num": 163136,
       "word": "钟楚曦女团舞",
@@ -739,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156152,
+      "num": 156152,
+      "word": "4名女警生无可恋式推走故障叉车",
+      "onboard_time": 1705811125,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154893,
       "num": 154893,
       "word": "蝴蝶壁纸",
@@ -761,14 +809,6 @@
       "onboard_time": 1705798403,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151201,
-      "num": 151201,
-      "word": "西安WE豪华教练天团",
-      "onboard_time": 1705810467,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 149271,
@@ -923,12 +963,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122370,
-      "num": 117881,
-      "word": "要久久爱 蓝亦菲去世了吗",
-      "onboard_time": 1705810703,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 123653,
+      "num": 861854,
+      "word": "朱鹮雪中起舞水墨画瞬间活了起来",
+      "onboard_time": 1705809626,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121041,
@@ -955,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115670,
+      "num": 115670,
+      "word": "洛枳当HR了",
+      "onboard_time": 1705811544,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114427,
       "num": 114427,
       "word": "世界之外 吐息",
@@ -975,14 +1023,6 @@
       "num": 111169,
       "word": "原来狗狗也有玩不起的时候",
       "onboard_time": 1705806145,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 111151,
-      "num": 111151,
-      "word": "当小说里的豪宅照应进现实后",
-      "onboard_time": 1705810526,
       "rank": 43,
       "category": "幽默"
     },
@@ -1035,20 +1075,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 101963,
+      "num": 101963,
+      "word": "雷霆战胜森林狼",
+      "onboard_time": 1705811067,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100016,
       "num": 100016,
       "word": "尔滨中央大街现古希腊军团",
       "onboard_time": 1705792876,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 100015,
-      "num": 807196,
-      "word": "朱鹮雪中起舞水墨画瞬间活了起来",
-      "onboard_time": 1705809626,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99625,
