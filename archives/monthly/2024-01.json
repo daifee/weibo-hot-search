@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705871763253,
+  "endTime": 1705872869900,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -54987,6 +54987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 72177,
+      "num": 31563,
+      "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
+      "onboard_time": 1705867271,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72159,
       "num": 72159,
       "word": "王子文柠檬黄露腰裙",
@@ -55337,14 +55345,6 @@
       "onboard_time": 1704272851,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 66100,
-      "num": 29324,
-      "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
-      "onboard_time": 1705867271,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66068,
@@ -58241,6 +58241,14 @@
       "onboard_time": 1704137535,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11358,
+      "num": 11358,
+      "word": "负面情绪为何总是在晚上出现",
+      "onboard_time": 1705871952,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 11235,
