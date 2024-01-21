@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705846545049,
+  "endTime": 1705847634161,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -57,6 +57,14 @@
       "onboard_time": 1705809746,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1260208,
+      "num": 1260208,
+      "word": "关于六寸蛋糕放5斤车厘子这件事",
+      "onboard_time": 1705845211,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1230180,
@@ -219,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 810886,
+      "num": 810886,
+      "word": "徕芬",
+      "onboard_time": 1705845629,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 801871,
+      "num": 801871,
+      "word": "砂糖橘摆成了我吃不起的样子",
+      "onboard_time": 1705844848,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 769035,
       "num": 451715,
       "word": "肠道息肉上厕所时会有4个提示",
@@ -235,20 +259,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 733580,
+      "num": 733580,
+      "word": "考完研后才知道家里有五层别墅",
+      "onboard_time": 1705843948,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 712991,
       "num": 712991,
       "word": "张雪峰向郑州大学捐款300万",
       "onboard_time": 1705822106,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 710558,
-      "num": 710558,
-      "word": "考完研后才知道家里有五层别墅",
-      "onboard_time": 1705843948,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 706216,
@@ -289,14 +313,6 @@
       "onboard_time": 1705829486,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 658202,
-      "num": 658202,
-      "word": "砂糖橘摆成了我吃不起的样子",
-      "onboard_time": 1705844848,
-      "rank": 7,
-      "category": "美食"
     },
     {
       "raw_hot": 651265,
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572004,
+      "num": 572004,
+      "word": "勇敢的人先加王一博微信",
+      "onboard_time": 1705846950,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 549529,
       "num": 549529,
       "word": "邱莹莹爸爸变成黄瀛子爸爸",
@@ -449,14 +473,6 @@
       "onboard_time": 1705811367,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 516992,
-      "num": 516992,
-      "word": "徕芬",
-      "onboard_time": 1705845629,
-      "rank": 8,
-      "category": "网红"
     },
     {
       "raw_hot": 509800,
@@ -843,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313055,
+      "num": 313055,
+      "word": "文旅局长张大大同框喊麦宣传吉林",
+      "onboard_time": 1705845450,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 311235,
       "num": 311235,
       "word": "单位发的员工福利根本用不完",
@@ -900,7 +924,7 @@
     },
     {
       "raw_hot": 293733,
-      "num": 242689,
+      "num": 244225,
       "word": "食物语手游",
       "onboard_time": 1705845450,
       "rank": 20,
@@ -987,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263248,
+      "num": 263248,
+      "word": "金莎首次上节目回应比男友大19岁",
+      "onboard_time": 1705846710,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261859,
       "num": 261859,
       "word": "要久久爱 我们没活成理想中的样子",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1705795040,
       "rank": 14,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 253897,
+      "num": 253897,
+      "word": "懂得人性才能谈好恋爱",
+      "onboard_time": 1705841129,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 250477,
@@ -1187,6 +1227,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 217165,
+      "num": 217165,
+      "word": "成毅提裙跑",
+      "onboard_time": 1705847608,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216833,
       "num": 216833,
       "word": "回村后的萨摩耶 出淤泥而局部染",
@@ -1235,20 +1283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210706,
+      "num": 210706,
+      "word": "杨瀚森受伤",
+      "onboard_time": 1705847131,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210243,
       "num": 210243,
       "word": "粉笔模考 读不懂言语",
       "onboard_time": 1705807470,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 208752,
-      "num": 208752,
-      "word": "懂得人性才能谈好恋爱",
-      "onboard_time": 1705841129,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 206630,
@@ -1331,20 +1379,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 201247,
-      "num": 201247,
-      "word": "文旅局长张大大同框喊麦宣传吉林",
-      "onboard_time": 1705845450,
-      "rank": 28,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 200713,
       "num": 200713,
       "word": "听语气最后是收下了",
       "onboard_time": 1705829546,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200667,
+      "num": 200667,
+      "word": "辽宁男篮",
+      "onboard_time": 1705846950,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 200401,
@@ -1579,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176113,
+      "num": 176113,
+      "word": "国产三蹦子魅力传到外国",
+      "onboard_time": 1705846049,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175794,
       "num": 175794,
       "word": "别再用冰箱自己冷冻水果了",
@@ -1667,14 +1723,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166769,
-      "num": 166769,
-      "word": "国产三蹦子魅力传到外国",
-      "onboard_time": 1705846049,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166082,
       "num": 166082,
       "word": "C罗坐的包机里面长这样",
@@ -1689,6 +1737,14 @@
       "onboard_time": 1705830565,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 163635,
+      "num": 163635,
+      "word": "若华官配",
+      "onboard_time": 1705847189,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 163150,
@@ -2283,6 +2339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116625,
+      "num": 116625,
+      "word": "当女朋友知道我有强迫症后",
+      "onboard_time": 1705847492,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116325,
       "num": 116325,
       "word": "九省联考政治",
@@ -2353,6 +2417,14 @@
       "onboard_time": 1705822406,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107834,
+      "num": 1011403,
+      "word": "当江浙沪遇上了古诗词",
+      "onboard_time": 1705845330,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107384,
@@ -2593,14 +2665,6 @@
       "onboard_time": 1705760673,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85147,
-      "num": 1011403,
-      "word": "当江浙沪遇上了古诗词",
-      "onboard_time": 1705845330,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82280,
