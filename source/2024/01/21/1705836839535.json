@@ -1,0 +1,410 @@
+{
+  "runTime": 1705836839535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2237217,
+        "num": 2237217,
+        "word": "苏增添被查",
+        "onboard_time": 1705830867,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966651,
+        "num": 966651,
+        "word": "东北谷爱凌竟是52岁单身奶奶",
+        "onboard_time": 1705829425,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24986,
+        "num": 905808,
+        "word": "缉毒警笔记里的经验总结让人泪目",
+        "onboard_time": 1705805306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845451,
+        "num": 845451,
+        "word": "叙利亚一家五口两年没吃过肉",
+        "onboard_time": 1705833267,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 449689,
+        "num": 820545,
+        "word": "女儿接农村妈妈进城3个月后变化惊人",
+        "onboard_time": 1705826785,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816946,
+        "num": 816946,
+        "word": "原来骑手不知道顾客能看见他全名",
+        "onboard_time": 1705828947,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294813,
+        "num": 726001,
+        "word": "婚礼回礼竟是一人一件四川省服",
+        "onboard_time": 1705821683,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706216,
+        "num": 706216,
+        "word": "俞灏明 春晚",
+        "onboard_time": 1705833808,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665838,
+        "num": 665838,
+        "word": "杨紫范丞丞情头",
+        "onboard_time": 1705828645,
+        "rank": 8,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 650857,
+        "num": 650857,
+        "word": "鹿晗女粉丝为偶像赴深圳见C罗",
+        "onboard_time": 1705835186,
+        "rank": 9,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 470725,
+        "num": 470725,
+        "word": "印度一CEO表演时坠落死亡",
+        "onboard_time": 1705829486,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415469,
+        "num": 415469,
+        "word": "长沙下雪",
+        "onboard_time": 1705834226,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395494,
+        "num": 395494,
+        "word": "汉堡哥炸蛋姐",
+        "onboard_time": 1705821565,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371996,
+        "num": 371996,
+        "word": "白鹿跳舞了",
+        "onboard_time": 1705831888,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392680,
+        "num": 368542,
+        "word": "十三年怎么就抵不过三年了",
+        "onboard_time": 1705835008,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304584,
+        "num": 304584,
+        "word": "C罗在机场用中文打招呼",
+        "onboard_time": 1705831888,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282371,
+        "num": 282371,
+        "word": "肠道息肉上厕所时会有4个提示",
+        "onboard_time": 1705819644,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255942,
+        "num": 255942,
+        "word": "影评人说杨紫是爆款制造机",
+        "onboard_time": 1705830268,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212988,
+        "num": 245901,
+        "word": "印度赛石宇奇男单夺冠",
+        "onboard_time": 1705835669,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204476,
+        "num": 240965,
+        "word": "韩安冉女儿被确诊多动症",
+        "onboard_time": 1705794679,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350260,
+        "num": 240376,
+        "word": "男子撸走1岁半幼儿金镯获刑9个月",
+        "onboard_time": 1705834466,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239500,
+        "num": 239500,
+        "word": "舅舅一张50换走外甥女过期压岁钱",
+        "onboard_time": 1705830746,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237905,
+        "num": 237905,
+        "word": "年轻人为何不愿去银行工作了",
+        "onboard_time": 1705830746,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217190,
+        "num": 217190,
+        "word": "南方人去尔滨一定要提前准备",
+        "onboard_time": 1705836268,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 211364,
+        "num": 211364,
+        "word": "水果摊上28元能买到一盒车厘子",
+        "onboard_time": 1705834466,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171200,
+        "num": 171200,
+        "word": "演员孙茜带儿子去哈尔滨抱白狐了",
+        "onboard_time": 1705830447,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167952,
+        "num": 167952,
+        "word": "别再用冰箱自己冷冻水果了",
+        "onboard_time": 1705834349,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166679,
+        "num": 166679,
+        "word": "再就业男团春晚第二次联排",
+        "onboard_time": 1705831470,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165603,
+        "num": 165603,
+        "word": "知道学生为什么清澈了",
+        "onboard_time": 1705826365,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159494,
+        "num": 159494,
+        "word": "张雪峰向郑州大学捐款300万",
+        "onboard_time": 1705822106,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158430,
+        "num": 158430,
+        "word": "沈马",
+        "onboard_time": 1705829666,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154054,
+        "num": 154054,
+        "word": "TTG再无XQ",
+        "onboard_time": 1705834286,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142467,
+        "num": 142467,
+        "word": "规矩是死的狗是活的",
+        "onboard_time": 1705834648,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137749,
+        "num": 137749,
+        "word": "原来萌兰这么大只啊",
+        "onboard_time": 1705836509,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135729,
+        "num": 135729,
+        "word": "九尾转会LGDNBW",
+        "onboard_time": 1705833687,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134924,
+        "num": 134924,
+        "word": "彩礼的本质",
+        "onboard_time": 1705836509,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 128830,
+        "num": 128830,
+        "word": "投喂孙悟空",
+        "onboard_time": 1705835368,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 117300,
+        "num": 117300,
+        "word": "易烊千玺新春寄语写的隶书",
+        "onboard_time": 1705836327,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116963,
+        "num": 116963,
+        "word": "缅因猫生孩子就像开盲盒",
+        "onboard_time": 1705819946,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110077,
+        "num": 110077,
+        "word": "单位发的员工福利根本用不完",
+        "onboard_time": 1705826845,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106834,
+        "num": 106834,
+        "word": "终于知道高铁盒饭受众是谁了",
+        "onboard_time": 1705797263,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104879,
+        "num": 104879,
+        "word": "5天快速掉10斤的减脂餐",
+        "onboard_time": 1705815626,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102177,
+        "num": 102177,
+        "word": "九省联考政治 被猴挠三回",
+        "onboard_time": 1705830565,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100325,
+        "num": 100325,
+        "word": "哪个部位最难瘦",
+        "onboard_time": 1705826606,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 97343,
+        "num": 97343,
+        "word": "苏醒小号回应扯面",
+        "onboard_time": 1705829846,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96814,
+        "num": 96814,
+        "word": "TTG九尾断开连接",
+        "onboard_time": 1705833687,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93828,
+        "num": 93828,
+        "word": "0713春晚联排13进9",
+        "onboard_time": 1705836807,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93761,
+        "num": 93761,
+        "word": "被刘宇宁刻进骨子里的盘串",
+        "onboard_time": 1705828706,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93088,
+        "num": 93088,
+        "word": "九尾 新的起点",
+        "onboard_time": 1705833808,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92833,
+        "num": 92833,
+        "word": "美媒曝美国会禁止五角大楼从6家中企采购电池",
+        "onboard_time": 1705819827,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在福州工作期间珍贵影像#"
+    }
+  }
+}
