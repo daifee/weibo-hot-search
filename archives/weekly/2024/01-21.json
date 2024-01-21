@@ -1,7 +1,15 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705829654696,
+  "endTime": 1705832315351,
   "band_list": [
+    {
+      "raw_hot": 2074512,
+      "num": 2074512,
+      "word": "苏增添被查",
+      "onboard_time": 1705830867,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1631346,
       "num": 1631346,
@@ -67,6 +75,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1086663,
+      "num": 1086663,
+      "word": "杨紫范丞丞情头",
+      "onboard_time": 1705828645,
+      "rank": 1,
+      "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 1063701,
+      "num": 1063701,
+      "word": "原来骑手不知道顾客能看见他全名",
+      "onboard_time": 1705828947,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1037973,
       "num": 1037973,
       "word": "医生 我是病了不是饿了",
@@ -89,6 +113,14 @@
       "onboard_time": 1705809686,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 960652,
+      "num": 1489384,
+      "word": "东北谷爱凌竟是52岁单身奶奶",
+      "onboard_time": 1705829425,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 920542,
@@ -121,14 +153,6 @@
       "onboard_time": 1705800865,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 845786,
-      "num": 845786,
-      "word": "杨紫范丞丞情头",
-      "onboard_time": 1705828645,
-      "rank": 1,
-      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 822805,
@@ -243,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554077,
+      "num": 554077,
+      "word": "印度一CEO表演时坠落死亡",
+      "onboard_time": 1705829486,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531098,
       "num": 531098,
       "word": "俄罗斯航空公布阿富汗失事飞机细节",
@@ -337,6 +369,14 @@
       "onboard_time": 1705809626,
       "rank": 8,
       "category": "旅游,艺人"
+    },
+    {
+      "raw_hot": 466071,
+      "num": 365957,
+      "word": "影评人说杨紫是爆款制造机",
+      "onboard_time": 1705830268,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 449685,
@@ -507,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352672,
+      "num": 352672,
+      "word": "沈马",
+      "onboard_time": 1705829666,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 350087,
       "num": 225058,
       "word": "安心离婚后被求婚",
@@ -537,6 +585,14 @@
       "onboard_time": 1705804345,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 343807,
+      "num": 204168,
+      "word": "舅舅一张50换走外甥女过期压岁钱",
+      "onboard_time": 1705830746,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332804,
@@ -601,6 +657,14 @@
       "onboard_time": 1705796664,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301753,
+      "num": 203994,
+      "word": "段奥娟说了7次关门",
+      "onboard_time": 1705829366,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 300349,
@@ -691,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257922,
+      "num": 200403,
+      "word": "年轻人为何不愿去银行工作了",
+      "onboard_time": 1705830746,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256909,
       "num": 256909,
       "word": "王一博摸喉结",
@@ -771,20 +843,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240756,
-      "num": 240756,
-      "word": "原来骑手不知道顾客能看见他全名",
-      "onboard_time": 1705828947,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 235281,
       "num": 235281,
       "word": "陈若华考公失败",
       "onboard_time": 1705763670,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234337,
+      "num": 234337,
+      "word": "白鹿跳舞了",
+      "onboard_time": 1705831888,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 229336,
@@ -865,6 +937,14 @@
       "onboard_time": 1705807470,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 206630,
+      "num": 206630,
+      "word": "C罗确定出战中国行两场比赛",
+      "onboard_time": 1705830086,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 206543,
@@ -1091,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180098,
+      "num": 180098,
+      "word": "C罗在机场用中文打招呼",
+      "onboard_time": 1705831888,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178040,
       "num": 140051,
       "word": "从急诊医生角度说说结婚",
@@ -1105,6 +1193,14 @@
       "onboard_time": 1705812024,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177381,
+      "num": 177381,
+      "word": "再就业男团春晚第二次联排",
+      "onboard_time": 1705831470,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 175091,
@@ -1139,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171093,
+      "num": 165673,
+      "word": "李九以诗致敬动画李白",
+      "onboard_time": 1705831649,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170979,
       "num": 170979,
       "word": "C罗说FIFA最佳奖项正失去可信度",
@@ -1161,6 +1265,22 @@
       "onboard_time": 1705812628,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165824,
+      "num": 165824,
+      "word": "九省联考政治 被猴挠三回",
+      "onboard_time": 1705830565,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 163777,
+      "num": 163777,
+      "word": "演员孙茜带儿子去哈尔滨抱白狐了",
+      "onboard_time": 1705830447,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 163150,
@@ -1291,14 +1411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149114,
-      "num": 149114,
-      "word": "段奥娟说了7次关门",
-      "onboard_time": 1705829366,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148864,
       "num": 148864,
       "word": "吴磊是又穿了深V吗",
@@ -1379,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141565,
+      "num": 141565,
+      "word": "苏醒小号回应扯面",
+      "onboard_time": 1705829846,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141179,
       "num": 141179,
       "word": "安心决定不要孩子",
@@ -1433,14 +1553,6 @@
       "onboard_time": 1705818869,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135927,
-      "num": 135927,
-      "word": "东北谷爱凌竟是52岁单身奶奶",
-      "onboard_time": 1705829425,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135163,
@@ -1779,14 +1891,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 99734,
-      "num": 99734,
-      "word": "印度一CEO表演时坠落死亡",
-      "onboard_time": 1705829486,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99625,
       "num": 99625,
       "word": "广东存在感最低的城市",
@@ -1881,6 +1985,14 @@
       "onboard_time": 1705820606,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 93213,
+      "num": 93213,
+      "word": "RIIZE人歌一位",
+      "onboard_time": 1705830626,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 92808,
@@ -1996,7 +2108,7 @@
     },
     {
       "raw_hot": 58015,
-      "num": 827150,
+      "num": 1270863,
       "word": "缉毒警笔记里的经验总结让人泪目",
       "onboard_time": 1705805306,
       "rank": 7,

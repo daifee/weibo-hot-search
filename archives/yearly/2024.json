@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705829654696,
+  "endTime": 1705832315351,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -897,6 +897,14 @@
       "onboard_time": 1704901291,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2074512,
+      "num": 2074512,
+      "word": "苏增添被查",
+      "onboard_time": 1705830867,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2053517,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704188012,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1402783,
-      "num": 1402783,
-      "word": "王鹤棣吴露可逃分界线",
-      "onboard_time": 1705149829,
-      "rank": 40,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
