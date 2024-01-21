@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705818160400,
+  "endTime": 1705818956760,
   "band_list": [
     {
       "raw_hot": 1631346,
@@ -59,8 +59,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 890536,
-      "num": 890536,
+      "raw_hot": 920542,
+      "num": 920542,
       "word": "陆仙人停播超20天",
       "onboard_time": 1705815566,
       "rank": 1,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614766,
+      "num": 614766,
+      "word": "5天快速掉10斤的减脂餐",
+      "onboard_time": 1705815626,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 580381,
       "num": 580381,
       "word": "苹果龙年手机壳",
@@ -177,6 +185,14 @@
       "onboard_time": 1705811367,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 509955,
+      "num": 509955,
+      "word": "4名女警生无可恋式推走故障叉车",
+      "onboard_time": 1705811125,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507366,
@@ -267,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431593,
-      "num": 431593,
-      "word": "5天快速掉10斤的减脂餐",
-      "onboard_time": 1705815626,
-      "rank": 8,
-      "category": "美食"
-    },
-    {
       "raw_hot": 416799,
       "num": 416799,
       "word": "老外爱上中国淘米水洗发露",
@@ -289,14 +297,6 @@
       "onboard_time": 1705796785,
       "rank": 9,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 411605,
-      "num": 411605,
-      "word": "4名女警生无可恋式推走故障叉车",
-      "onboard_time": 1705811125,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 411341,
@@ -353,6 +353,14 @@
       "onboard_time": 1705763069,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 389102,
+      "num": 210859,
+      "word": "查出幽门螺杆菌但没症状要治吗",
+      "onboard_time": 1705817307,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 383515,
@@ -467,20 +475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287851,
-      "num": 210859,
-      "word": "查出幽门螺杆菌但没症状要治吗",
-      "onboard_time": 1705817307,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 285075,
       "num": 240371,
       "word": "原来iPhone18离我们越来越近了",
       "onboard_time": 1705760191,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283604,
+      "num": 283604,
+      "word": "河南2023年人均收入29933元",
+      "onboard_time": 1705814127,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282908,
@@ -513,6 +521,14 @@
       "onboard_time": 1705802726,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277151,
+      "num": 277151,
+      "word": "潘玮柏对粉丝说要不你来唱",
+      "onboard_time": 1705817724,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 265899,
@@ -619,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237596,
-      "num": 237596,
-      "word": "河南2023年人均收入29933元",
-      "onboard_time": 1705814127,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235281,
       "num": 235281,
       "word": "陈若华考公失败",
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216511,
+      "num": 207188,
+      "word": "赵今麦给张凌赫买牛牛糖人",
+      "onboard_time": 1705817366,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215075,
       "num": 215075,
       "word": "SNH48演出票拍出上万元",
@@ -697,14 +713,6 @@
       "onboard_time": 1705807470,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 207188,
-      "num": 207188,
-      "word": "赵今麦给张凌赫买牛牛糖人",
-      "onboard_time": 1705817366,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 206543,
@@ -761,6 +769,22 @@
       "onboard_time": 1705776255,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196499,
+      "num": 196499,
+      "word": "不然不在TTG打野了",
+      "onboard_time": 1705818148,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 196263,
+      "num": 197562,
+      "word": "米哈游 橡皮管动画",
+      "onboard_time": 1705817608,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 195641,
@@ -873,14 +897,6 @@
       "onboard_time": 1705812024,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174231,
-      "num": 174231,
-      "word": "潘玮柏对粉丝说要不你来唱",
-      "onboard_time": 1705817724,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 173789,
@@ -1003,14 +1019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150034,
-      "num": 150034,
-      "word": "米哈游 橡皮管动画",
-      "onboard_time": 1705817608,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149271,
       "num": 149271,
       "word": "杨紫哭戏",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1705765647,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 146560,
+      "num": 146560,
+      "word": "长沙TES转会公告",
+      "onboard_time": 1705818623,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 145353,
@@ -1107,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136059,
+      "num": 136059,
+      "word": "2024LPL春季赛主宣传片",
+      "onboard_time": 1705818869,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135163,
       "num": 135163,
       "word": "中国队又包揽一场金银牌",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1705802187,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130364,
+      "num": 130364,
+      "word": "6位伴娘穿军装踢正步为战友盖头纱",
+      "onboard_time": 1705818266,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127739,
@@ -1259,14 +1291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114155,
-      "num": 114155,
-      "word": "不然不在TTG打野了",
-      "onboard_time": 1705818148,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 112414,
       "num": 112414,
       "word": "香港马拉松",
@@ -1291,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109913,
+      "num": 109913,
+      "word": "时代少年团有龙墩墩了",
+      "onboard_time": 1705818869,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107384,
       "num": 107384,
       "word": "42岁波尔WTT男单夺冠",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1705796961,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105748,
+      "num": 105748,
+      "word": "李金恣冬青奥夺金",
+      "onboard_time": 1705816526,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 104413,
@@ -1620,6 +1660,9 @@
     },
     {
       "word": "#冰雪春天#"
+    },
+    {
+      "word": "#习近平在福州工作期间珍贵影像#"
     }
   ]
 }
