@@ -1,0 +1,410 @@
+{
+  "runTime": 1705804510526,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1516281,
+        "num": 1516281,
+        "word": "韩安冉女儿被确诊多动症",
+        "onboard_time": 1705794679,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1244016,
+        "num": 1244016,
+        "word": "终于知道高铁盒饭受众是谁了",
+        "onboard_time": 1705797263,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81116,
+        "num": 761767,
+        "word": "博士乘组一个意外发现改变太空授课",
+        "onboard_time": 1705755989,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 672848,
+        "num": 672848,
+        "word": "多地明确婚姻登记处除夕正常办公",
+        "onboard_time": 1705800865,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576371,
+        "num": 576371,
+        "word": "苹果龙年手机壳",
+        "onboard_time": 1705800446,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 572329,
+        "num": 572329,
+        "word": "清华特奖双胞胎姐妹回国任教都是博导",
+        "onboard_time": 1705800626,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449544,
+        "num": 449544,
+        "word": "东北又一城火了",
+        "onboard_time": 1705800266,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 397593,
+        "num": 397593,
+        "word": "祈今朝 人狗恋",
+        "onboard_time": 1705799726,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350127,
+        "num": 350127,
+        "word": "数码宝贝 突然被刀",
+        "onboard_time": 1705801948,
+        "rank": 8,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 346035,
+        "num": 346035,
+        "word": "老外爱上中国淘米水洗发露",
+        "onboard_time": 1705802067,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 333428,
+        "num": 333428,
+        "word": "吃完葡萄不要马上喝水",
+        "onboard_time": 1705796785,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 298858,
+        "num": 298858,
+        "word": "温州红十字会通报打工人嘴替视频",
+        "onboard_time": 1705799783,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292577,
+        "num": 292577,
+        "word": "王俊凯 很后悔昨天睡觉了",
+        "onboard_time": 1705752390,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 278657,
+        "num": 278657,
+        "word": "刘涛说害怕胡歌家的七只猫",
+        "onboard_time": 1705760552,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250934,
+        "num": 250934,
+        "word": "要久久爱 我们没活成理想中的样子",
+        "onboard_time": 1705802306,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246882,
+        "num": 246882,
+        "word": "与恶魔有约 鬼怪剧情",
+        "onboard_time": 1705793957,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246254,
+        "num": 246254,
+        "word": "龙年央视春晚第二次联排",
+        "onboard_time": 1705804047,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238954,
+        "num": 238954,
+        "word": "花花就差一个西瓜了",
+        "onboard_time": 1705802726,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229174,
+        "num": 229174,
+        "word": "浙江小姐姐买一个冻梨老板切块还装盒",
+        "onboard_time": 1705794800,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227011,
+        "num": 227011,
+        "word": "大熊猫和叶因伤暂停营业",
+        "onboard_time": 1705796724,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350087,
+        "num": 225058,
+        "word": "安心离婚后被求婚",
+        "onboard_time": 1705802967,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259895,
+        "num": 224089,
+        "word": "专家建议冬季每周洗澡1到2次",
+        "onboard_time": 1705798344,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222230,
+        "num": 222230,
+        "word": "焦虑症 口罩和塑料袋",
+        "onboard_time": 1705798344,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220931,
+        "num": 220931,
+        "word": "2024首个暴雪蓝色预警",
+        "onboard_time": 1705797081,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209900,
+        "num": 209900,
+        "word": "人们为什么不往个人养老金账户里存钱",
+        "onboard_time": 1705803506,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189100,
+        "num": 189100,
+        "word": "幻兽帕鲁",
+        "onboard_time": 1705803384,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188581,
+        "num": 188581,
+        "word": "英伟达CEO黄仁勋到访北上深办公室",
+        "onboard_time": 1705803146,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176187,
+        "num": 176187,
+        "word": "李娜澳网元老赛开门红",
+        "onboard_time": 1705804284,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160754,
+        "num": 160754,
+        "word": "湖南21日迎暴雪大暴雪",
+        "onboard_time": 1705802484,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156757,
+        "num": 156757,
+        "word": "谁分得清留子是留学还是流放",
+        "onboard_time": 1705801645,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156326,
+        "num": 156326,
+        "word": "王一博要糖吃",
+        "onboard_time": 1705798225,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154893,
+        "num": 154893,
+        "word": "蝴蝶壁纸",
+        "onboard_time": 1705802665,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150930,
+        "num": 150930,
+        "word": "医生 我是病了不是饿了",
+        "onboard_time": 1705762411,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144954,
+        "num": 144954,
+        "word": "梦境其实是可以控制的",
+        "onboard_time": 1705795943,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 138701,
+        "num": 138701,
+        "word": "陈都灵称饰演花千骨有压力",
+        "onboard_time": 1705778234,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135071,
+        "num": 135071,
+        "word": "碳酸饮料过量饮用导致尿酸升高",
+        "onboard_time": 1705800446,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132302,
+        "num": 132302,
+        "word": "多动症",
+        "onboard_time": 1705802187,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127876,
+        "num": 127876,
+        "word": "科目三值得上春晚吗",
+        "onboard_time": 1705795643,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126910,
+        "num": 126910,
+        "word": "经常拥抱对身体有好处",
+        "onboard_time": 1705796664,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123445,
+        "num": 123445,
+        "word": "PoppinC街舞6总冠军",
+        "onboard_time": 1705792156,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120823,
+        "num": 120823,
+        "word": "一个月跑步10小时收益最大",
+        "onboard_time": 1705795040,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 119269,
+        "num": 119269,
+        "word": "一只没有感情和痛觉的猫",
+        "onboard_time": 1705804047,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112961,
+        "num": 112961,
+        "word": "房东见证7年租客结婚生子帮带娃",
+        "onboard_time": 1705759287,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112414,
+        "num": 112414,
+        "word": "香港马拉松",
+        "onboard_time": 1705803623,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 111745,
+        "num": 111745,
+        "word": "原来iPhone18离我们越来越近了",
+        "onboard_time": 1705760191,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111355,
+        "num": 111355,
+        "word": "陈楚生和07年的自己合唱",
+        "onboard_time": 1705804345,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107069,
+        "num": 107069,
+        "word": "秦岚手机丢了",
+        "onboard_time": 1705766971,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105250,
+        "num": 105250,
+        "word": "日本连环撞车一汽车被挤到30cm厚",
+        "onboard_time": 1705764511,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104413,
+        "num": 104413,
+        "word": "勇士想交易维金斯",
+        "onboard_time": 1705803266,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104325,
+        "num": 104325,
+        "word": "海归姑娘回国卖烧麦一年卖出2个亿",
+        "onboard_time": 1705763010,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进人的全面发展和社会全面进步#"
+    }
+  }
+}
