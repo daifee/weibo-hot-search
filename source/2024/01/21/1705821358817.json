@@ -1,0 +1,410 @@
+{
+  "runTime": 1705821358817,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1409819,
+        "num": 1409819,
+        "word": "5天快速掉10斤的减脂餐",
+        "onboard_time": 1705815626,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1140243,
+        "num": 1140243,
+        "word": "客机在阿富汗坠毁",
+        "onboard_time": 1705819466,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80593,
+        "num": 964767,
+        "word": "朱鹮雪中起舞水墨画瞬间活了起来",
+        "onboard_time": 1705809626,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858523,
+        "num": 858523,
+        "word": "陆仙人停播超20天",
+        "onboard_time": 1705815566,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 822805,
+        "num": 822805,
+        "word": "沈腾马丽现身央视春晚第二次联排",
+        "onboard_time": 1705819166,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 624307,
+        "num": 624307,
+        "word": "韩安冉女儿被确诊多动症",
+        "onboard_time": 1705794679,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529207,
+        "num": 529207,
+        "word": "4名女警生无可恋式推走故障叉车",
+        "onboard_time": 1705811125,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506964,
+        "num": 506964,
+        "word": "银川烧烤店爆炸受害者本该有逃生机会",
+        "onboard_time": 1705809746,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432300,
+        "num": 432300,
+        "word": "你在表白 他在背词",
+        "onboard_time": 1705809686,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366432,
+        "num": 366432,
+        "word": "段奥娟毛笔字",
+        "onboard_time": 1705816226,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 769035,
+        "num": 359070,
+        "word": "肠道息肉上厕所时会有4个提示",
+        "onboard_time": 1705819644,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 390129,
+        "num": 354141,
+        "word": "美媒曝美国会禁止五角大楼从6家中企采购电池",
+        "onboard_time": 1705819827,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 348119,
+        "num": 348119,
+        "word": "潘玮柏对粉丝说要不你来唱",
+        "onboard_time": 1705817724,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 342273,
+        "num": 342273,
+        "word": "贾玲张小斐杨紫跳舞",
+        "onboard_time": 1705812987,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269787,
+        "num": 269787,
+        "word": "河南2023年人均收入29933元",
+        "onboard_time": 1705814127,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237025,
+        "num": 237025,
+        "word": "6位伴娘穿军装踢正步为战友盖头纱",
+        "onboard_time": 1705818266,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235473,
+        "num": 235473,
+        "word": "要久久爱 蓝亦菲去世了吗",
+        "onboard_time": 1705810703,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235136,
+        "num": 235136,
+        "word": "老爷爷打卡易烊千玺海报女孩热情帮拍",
+        "onboard_time": 1705813649,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 223767,
+        "num": 223767,
+        "word": "龙年央视春晚第二次联排",
+        "onboard_time": 1705804047,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210275,
+        "num": 210275,
+        "word": "张黎称已成立新导师组",
+        "onboard_time": 1705813588,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368675,
+        "num": 209158,
+        "word": "查出幽门螺杆菌但没症状要治吗",
+        "onboard_time": 1705817307,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215139,
+        "num": 208799,
+        "word": "西班牙男子猥亵自己6个月大女儿",
+        "onboard_time": 1705805006,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203896,
+        "num": 203896,
+        "word": "时代少年团有龙墩墩了",
+        "onboard_time": 1705818869,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176870,
+        "num": 176870,
+        "word": "短道速滑 中国队智商碾压",
+        "onboard_time": 1705812085,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173574,
+        "num": 173574,
+        "word": "eStar官宣绝意加入",
+        "onboard_time": 1705820427,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170955,
+        "num": 170955,
+        "word": "赵今麦给张凌赫买牛牛糖人",
+        "onboard_time": 1705817366,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165919,
+        "num": 165919,
+        "word": "范丞丞打假蒋翼列传",
+        "onboard_time": 1705821025,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164285,
+        "num": 164285,
+        "word": "董宇辉在西安要请粉丝吃饭",
+        "onboard_time": 1705820606,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156420,
+        "num": 156420,
+        "word": "米哈游 橡皮管动画",
+        "onboard_time": 1705817608,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149910,
+        "num": 149910,
+        "word": "南阳要求迅速查明学校火灾原因",
+        "onboard_time": 1705820305,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446067,
+        "num": 147347,
+        "word": "缅因猫生孩子就像开盲盒",
+        "onboard_time": 1705819946,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276608,
+        "num": 146738,
+        "word": "终于知道高铁盒饭受众是谁了",
+        "onboard_time": 1705797263,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143948,
+        "num": 143948,
+        "word": "章鱼巨丸子",
+        "onboard_time": 1705819946,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136162,
+        "num": 136162,
+        "word": "不然不在TTG打野了",
+        "onboard_time": 1705818148,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133983,
+        "num": 133983,
+        "word": "赵丽颖3天2篇河北小作文",
+        "onboard_time": 1705809626,
+        "rank": 34,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 130956,
+        "num": 130956,
+        "word": "在暴雪时分",
+        "onboard_time": 1705812748,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130887,
+        "num": 130887,
+        "word": "这才是滑雪的出场方式",
+        "onboard_time": 1705820666,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 124902,
+        "num": 124902,
+        "word": "婚姻中看不见的女性之痛",
+        "onboard_time": 1705806444,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124725,
+        "num": 124725,
+        "word": "杨超越不满意哭戏急哭了",
+        "onboard_time": 1705820906,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123746,
+        "num": 123746,
+        "word": "王源飞波士顿开启新学期",
+        "onboard_time": 1705811367,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122975,
+        "num": 122975,
+        "word": "男孩跳绳6000下后气胸",
+        "onboard_time": 1705808186,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121169,
+        "num": 121169,
+        "word": "世界之外",
+        "onboard_time": 1705806623,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120160,
+        "num": 120160,
+        "word": "C罗说FIFA最佳奖项正失去可信度",
+        "onboard_time": 1705816646,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112526,
+        "num": 112526,
+        "word": "朋友圈背景图",
+        "onboard_time": 1705805967,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105373,
+        "num": 105373,
+        "word": "王俊凯 很后悔昨天睡觉了",
+        "onboard_time": 1705752390,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 97661,
+        "num": 97661,
+        "word": "好朋友约会逛街准则",
+        "onboard_time": 1705821089,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96224,
+        "num": 96224,
+        "word": "祈今朝英文名",
+        "onboard_time": 1705816945,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95956,
+        "num": 95956,
+        "word": "鲸搁浅三亚一天要吃40斤鱿鱼",
+        "onboard_time": 1705804946,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95259,
+        "num": 95259,
+        "word": "长沙TES转会公告",
+        "onboard_time": 1705818623,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93682,
+        "num": 93682,
+        "word": "河南文旅这么玩是吧",
+        "onboard_time": 1705820606,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在福州工作期间珍贵影像#"
+    }
+  }
+}
