@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705800178548,
+  "endTime": 1705801439501,
   "band_list": [
     {
       "raw_hot": 1631346,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1235435,
-      "num": 1235435,
+      "raw_hot": 1301584,
+      "num": 1301584,
       "word": "终于知道高铁盒饭受众是谁了",
       "onboard_time": 1705797263,
       "rank": 1,
@@ -99,11 +99,35 @@
       "category": "美食"
     },
     {
+      "raw_hot": 435395,
+      "num": 435395,
+      "word": "温州红十字会通报打工人嘴替视频",
+      "onboard_time": 1705799783,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413402,
+      "num": 413402,
+      "word": "吃完葡萄不要马上喝水",
+      "onboard_time": 1705796785,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 403387,
       "num": 403387,
       "word": "秦岚手机丢了",
       "onboard_time": 1705766971,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 400607,
+      "num": 400607,
+      "word": "刘涛说害怕胡歌家的七只猫",
+      "onboard_time": 1705760552,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -131,20 +155,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378305,
-      "num": 378305,
-      "word": "刘涛说害怕胡歌家的七只猫",
-      "onboard_time": 1705760552,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 335875,
-      "num": 335875,
+      "raw_hot": 358293,
+      "num": 358293,
       "word": "与恶魔有约 鬼怪剧情",
       "onboard_time": 1705793957,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338284,
+      "num": 338284,
+      "word": "祈今朝 人狗恋",
+      "onboard_time": 1705799726,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 328546,
+      "num": 248309,
+      "word": "专家建议冬季每周洗澡1到2次",
+      "onboard_time": 1705798344,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 323395,
@@ -155,20 +187,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 321244,
-      "num": 321244,
-      "word": "吃完葡萄不要马上喝水",
-      "onboard_time": 1705796785,
-      "rank": 9,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 311848,
-      "num": 177607,
-      "word": "专家建议冬季每周洗澡1到2次",
-      "onboard_time": 1705798344,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 307788,
+      "num": 307788,
+      "word": "清华特奖双胞胎姐妹回国任教都是博导",
+      "onboard_time": 1705800626,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303484,
@@ -177,6 +201,14 @@
       "onboard_time": 1705796664,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298716,
+      "num": 298716,
+      "word": "苹果龙年手机壳",
+      "onboard_time": 1705800446,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 285075,
@@ -193,6 +225,14 @@
       "onboard_time": 1705762112,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 272865,
+      "num": 272865,
+      "word": "东北又一城火了",
+      "onboard_time": 1705800266,
+      "rank": 15,
+      "category": "旅游"
     },
     {
       "raw_hot": 265899,
@@ -235,8 +275,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 247480,
-      "num": 138398,
+      "raw_hot": 250477,
+      "num": 250477,
       "word": "焦虑症 口罩和塑料袋",
       "onboard_time": 1705798344,
       "rank": 30,
@@ -265,6 +305,14 @@
       "onboard_time": 1705752025,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 242109,
+      "num": 242109,
+      "word": "打工人嘴替",
+      "onboard_time": 1705800385,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235281,
@@ -297,6 +345,14 @@
       "onboard_time": 1705764511,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206543,
+      "num": 206543,
+      "word": "王一博要糖吃",
+      "onboard_time": 1705798225,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205960,
@@ -347,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184209,
-      "num": 184209,
-      "word": "温州红十字会通报打工人嘴替视频",
-      "onboard_time": 1705799783,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180902,
       "num": 239177,
       "word": "断崖式分手",
@@ -371,16 +419,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 179926,
-      "num": 179926,
-      "word": "王一博要糖吃",
-      "onboard_time": 1705798225,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 178040,
-      "num": 137606,
+      "num": 140051,
       "word": "从急诊医生角度说说结婚",
       "onboard_time": 1705798284,
       "rank": 31,
@@ -403,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166309,
-      "num": 166309,
-      "word": "祈今朝 人狗恋",
-      "onboard_time": 1705799726,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 165260,
+      "num": 165260,
+      "word": "多地明确婚姻登记处除夕正常办公",
+      "onboard_time": 1705800865,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161294,
@@ -459,6 +499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 145353,
+      "num": 145353,
+      "word": "黄豆也没想到这辈子能当乐器",
+      "onboard_time": 1705800746,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142499,
       "num": 240887,
       "word": "女子提离职数月才获批单位赔56万",
@@ -473,6 +521,14 @@
       "onboard_time": 1705795339,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138257,
+      "num": 138257,
+      "word": "碳酸饮料过量饮用导致尿酸升高",
+      "onboard_time": 1705800446,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136394,
@@ -601,6 +657,14 @@
       "onboard_time": 1705754548,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98824,
+      "num": 98824,
+      "word": "世界之外 别再惦记你那眸子了",
+      "onboard_time": 1705801286,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 97363,
