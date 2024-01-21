@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705855057012,
+  "endTime": 1705857350165,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -15435,6 +15435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 456577,
+      "num": 259238,
+      "word": "你真是饿了",
+      "onboard_time": 1705852706,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456567,
       "num": 456567,
       "word": "王一博张艺兴同回街舞6",
@@ -25073,14 +25081,6 @@
       "onboard_time": 1705144723,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 259238,
-      "num": 259238,
-      "word": "你真是饿了",
-      "onboard_time": 1705852706,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 259146,
@@ -53675,6 +53675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95284,
+      "num": 95284,
+      "word": "丁程鑫听到什么了",
+      "onboard_time": 1705855281,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95232,
       "num": 95232,
       "word": "可偏偏是17年",
@@ -54353,6 +54361,14 @@
       "onboard_time": 1704297029,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 84708,
+      "num": 84708,
+      "word": "小说女主就不配有正经工作吗",
+      "onboard_time": 1705855343,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 84639,
