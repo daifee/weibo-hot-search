@@ -1,6 +1,6 @@
 {
   "startTime": 1705854115620,
-  "endTime": 1705854115620,
+  "endTime": 1705855057012,
   "band_list": [
     {
       "raw_hot": 1026719,
@@ -67,8 +67,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 410787,
-      "num": 410787,
+      "raw_hot": 421846,
+      "num": 421846,
       "word": "不敢想象高中毕业后我是怎么走到今天的",
       "onboard_time": 1705848448,
       "rank": 9,
@@ -83,7 +83,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 324893,
+      "raw_hot": 326143,
       "num": 226706,
       "word": "美国房主新买二手房冰柜里有颗人头",
       "onboard_time": 1705851507,
@@ -131,8 +131,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265773,
-      "num": 265773,
+      "raw_hot": 270781,
+      "num": 270781,
       "word": "书瑶 徕芬",
       "onboard_time": 1705849531,
       "rank": 16,
@@ -153,6 +153,14 @@
       "onboard_time": 1705846710,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259238,
+      "num": 259238,
+      "word": "你真是饿了",
+      "onboard_time": 1705852706,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 244386,
@@ -184,14 +192,6 @@
       "word": "要久久爱收视率",
       "onboard_time": 1705842329,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 206692,
-      "num": 206692,
-      "word": "你真是饿了",
-      "onboard_time": 1705852706,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -283,6 +283,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129108,
+      "num": 129108,
+      "word": "东北麻辣烫",
+      "onboard_time": 1705853484,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 128912,
+      "num": 128912,
+      "word": "朱一龙央视春晚",
+      "onboard_time": 1705853247,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128148,
       "num": 158380,
       "word": "官方通报大学生夜游网红火车站严重烧伤",
@@ -297,14 +313,6 @@
       "onboard_time": 1705849949,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116721,
-      "num": 116721,
-      "word": "朱一龙央视春晚",
-      "onboard_time": 1705853247,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 109863,
@@ -371,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86779,
-      "num": 86779,
-      "word": "东北麻辣烫",
-      "onboard_time": 1705853484,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 82339,
       "num": 82339,
       "word": "陈泽直播",
@@ -406,6 +406,9 @@
   "hotgov_list": [
     {
       "word": "#习近平在福州工作期间珍贵影像#"
+    },
+    {
+      "word": "#推进金融高水平对外开放#"
     }
   ]
 }
