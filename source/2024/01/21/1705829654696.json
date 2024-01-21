@@ -1,0 +1,410 @@
+{
+  "runTime": 1705829654696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1126833,
+        "num": 1126833,
+        "word": "婚礼回礼竟是一人一件四川省服",
+        "onboard_time": 1705821683,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845786,
+        "num": 845786,
+        "word": "杨紫范丞丞情头",
+        "onboard_time": 1705828645,
+        "rank": 1,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 50085,
+        "num": 827150,
+        "word": "缉毒警笔记里的经验总结让人泪目",
+        "onboard_time": 1705805306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816564,
+        "num": 816564,
+        "word": "女儿接农村妈妈进城3个月后变化惊人",
+        "onboard_time": 1705826785,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567527,
+        "num": 567527,
+        "word": "汉堡哥炸蛋姐",
+        "onboard_time": 1705821565,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509800,
+        "num": 509800,
+        "word": "知道学生为什么清澈了",
+        "onboard_time": 1705826365,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 509790,
+        "num": 509790,
+        "word": "缅因猫生孩子就像开盲盒",
+        "onboard_time": 1705819946,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 474239,
+        "num": 474239,
+        "word": "俄罗斯航空公布阿富汗失事飞机细节",
+        "onboard_time": 1705826064,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 419500,
+        "num": 419500,
+        "word": "张雪峰向郑州大学捐款300万",
+        "onboard_time": 1705822106,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403803,
+        "num": 403803,
+        "word": "美媒曝美国会禁止五角大楼从6家中企采购电池",
+        "onboard_time": 1705819827,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 392153,
+        "num": 392153,
+        "word": "韩安冉女儿被确诊多动症",
+        "onboard_time": 1705794679,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384253,
+        "num": 384253,
+        "word": "杨幂大象包",
+        "onboard_time": 1705824145,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383424,
+        "num": 383424,
+        "word": "肠道息肉上厕所时会有4个提示",
+        "onboard_time": 1705819644,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300349,
+        "num": 300349,
+        "word": "毒舌电影合伙人赵铮去世",
+        "onboard_time": 1705827504,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 299891,
+        "num": 299891,
+        "word": "单位发的员工福利根本用不完",
+        "onboard_time": 1705826845,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290995,
+        "num": 290995,
+        "word": "5天快速掉10斤的减脂餐",
+        "onboard_time": 1705815626,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 284503,
+        "num": 284503,
+        "word": "郑晓龙评价罗晋",
+        "onboard_time": 1705826544,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240756,
+        "num": 240756,
+        "word": "原来骑手不知道顾客能看见他全名",
+        "onboard_time": 1705828947,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224533,
+        "num": 224533,
+        "word": "陆仙人停播超20天",
+        "onboard_time": 1705815566,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 224462,
+        "num": 224462,
+        "word": "沈腾马丽现身央视春晚第二次联排",
+        "onboard_time": 1705819166,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200713,
+        "num": 200713,
+        "word": "听语气最后是收下了",
+        "onboard_time": 1705829546,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194646,
+        "num": 194646,
+        "word": "周末拒绝加班被领导移除群聊",
+        "onboard_time": 1705827025,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194586,
+        "num": 194586,
+        "word": "你在表白 他在背词",
+        "onboard_time": 1705809686,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182839,
+        "num": 182839,
+        "word": "哪个部位最难瘦",
+        "onboard_time": 1705826606,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 169718,
+        "num": 169718,
+        "word": "C罗中国行",
+        "onboard_time": 1705814546,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169694,
+        "num": 169694,
+        "word": "客机在阿富汗坠毁",
+        "onboard_time": 1705819466,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162624,
+        "num": 162624,
+        "word": "刷牙经常出血小心肝脏问题",
+        "onboard_time": 1705827986,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161213,
+        "num": 161213,
+        "word": "千名球迷机场接机C罗",
+        "onboard_time": 1705826785,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160542,
+        "num": 160542,
+        "word": "董宇辉在西安要请粉丝吃饭",
+        "onboard_time": 1705820606,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154407,
+        "num": 154407,
+        "word": "警方通报温州一小区保安被炸伤",
+        "onboard_time": 1705826966,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172773,
+        "num": 153812,
+        "word": "终于知道高铁盒饭受众是谁了",
+        "onboard_time": 1705797263,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150372,
+        "num": 150372,
+        "word": "黄仁俊钟辰乐录制江苏春晚",
+        "onboard_time": 1705828767,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149114,
+        "num": 149114,
+        "word": "段奥娟说了7次关门",
+        "onboard_time": 1705829366,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141179,
+        "num": 141179,
+        "word": "安心决定不要孩子",
+        "onboard_time": 1705828345,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139075,
+        "num": 139075,
+        "word": "查出幽门螺杆菌但没症状要治吗",
+        "onboard_time": 1705817307,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137869,
+        "num": 137869,
+        "word": "商场张贴日系文化图案广告被约谈",
+        "onboard_time": 1705827025,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136876,
+        "num": 136876,
+        "word": "被刘宇宁刻进骨子里的盘串",
+        "onboard_time": 1705828706,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136575,
+        "num": 136575,
+        "word": "我爸是我见过最有松弛感的人",
+        "onboard_time": 1705828105,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135927,
+        "num": 135927,
+        "word": "东北谷爱凌竟是52岁单身奶奶",
+        "onboard_time": 1705829425,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132750,
+        "num": 132750,
+        "word": "6位伴娘穿军装踢正步为战友盖头纱",
+        "onboard_time": 1705818266,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127709,
+        "num": 127709,
+        "word": "见识到了真正的装修天才",
+        "onboard_time": 1705828824,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123537,
+        "num": 123537,
+        "word": "世界之外",
+        "onboard_time": 1705806623,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121087,
+        "num": 121087,
+        "word": "XYG官宣小盾加入",
+        "onboard_time": 1705829067,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116325,
+        "num": 116325,
+        "word": "九省联考政治",
+        "onboard_time": 1705828585,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111117,
+        "num": 111117,
+        "word": "要久久爱 蓝亦菲去世了吗",
+        "onboard_time": 1705810703,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107637,
+        "num": 107637,
+        "word": "4名女警生无可恋式推走故障叉车",
+        "onboard_time": 1705811125,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100792,
+        "num": 100792,
+        "word": "周深连续三年春晚彩排穿同一件羽绒服",
+        "onboard_time": 1705823184,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99734,
+        "num": 99734,
+        "word": "印度一CEO表演时坠落死亡",
+        "onboard_time": 1705829486,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97181,
+        "num": 97181,
+        "word": "杨超越不满意哭戏急哭了",
+        "onboard_time": 1705820906,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92184,
+        "num": 92184,
+        "word": "段奥娟毛笔字",
+        "onboard_time": 1705816226,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂3820蕴含的有福密码#"
+    }
+  }
+}

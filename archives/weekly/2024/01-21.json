@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705828598985,
+  "endTime": 1705829654696,
   "band_list": [
     {
       "raw_hot": 1631346,
@@ -123,12 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 845786,
+      "num": 845786,
+      "word": "杨紫范丞丞情头",
+      "onboard_time": 1705828645,
+      "rank": 1,
+      "category": "作品衍生,综艺"
+    },
+    {
       "raw_hot": 822805,
       "num": 822805,
       "word": "沈腾马丽现身央视春晚第二次联排",
       "onboard_time": 1705819166,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 816564,
+      "num": 816564,
+      "word": "女儿接农村妈妈进城3个月后变化惊人",
+      "onboard_time": 1705826785,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 769035,
@@ -152,14 +168,6 @@
       "word": "张雪峰向郑州大学捐款300万",
       "onboard_time": 1705822106,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 704171,
-      "num": 704171,
-      "word": "女儿接农村妈妈进城3个月后变化惊人",
-      "onboard_time": 1705826785,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 509800,
+      "num": 509800,
+      "word": "知道学生为什么清澈了",
+      "onboard_time": 1705826365,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 507366,
       "num": 507366,
       "word": "繁花2",
@@ -369,14 +385,6 @@
       "onboard_time": 1705799783,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419319,
-      "num": 419319,
-      "word": "知道学生为什么清澈了",
-      "onboard_time": 1705826365,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 416799,
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 321905,
-      "num": 209135,
+      "num": 284503,
       "word": "郑晓龙评价罗晋",
       "onboard_time": 1705826544,
       "rank": 20,
@@ -593,6 +601,14 @@
       "onboard_time": 1705796664,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300349,
+      "num": 300349,
+      "word": "毒舌电影合伙人赵铮去世",
+      "onboard_time": 1705827504,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 298518,
@@ -755,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240756,
+      "num": 240756,
+      "word": "原来骑手不知道顾客能看见他全名",
+      "onboard_time": 1705828947,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235281,
       "num": 235281,
       "word": "陈若华考公失败",
@@ -835,14 +859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 211572,
-      "num": 211572,
-      "word": "毒舌电影合伙人赵铮去世",
-      "onboard_time": 1705827504,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 210243,
       "num": 210243,
       "word": "粉笔模考 读不懂言语",
@@ -889,6 +905,14 @@
       "onboard_time": 1705818869,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200713,
+      "num": 200713,
+      "word": "听语气最后是收下了",
+      "onboard_time": 1705829546,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 200401,
@@ -1011,8 +1035,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182689,
-      "num": 182689,
+      "raw_hot": 182839,
+      "num": 182839,
       "word": "哪个部位最难瘦",
       "onboard_time": 1705826606,
       "rank": 24,
@@ -1155,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162624,
+      "num": 162624,
+      "word": "刷牙经常出血小心肝脏问题",
+      "onboard_time": 1705827986,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162386,
       "num": 162386,
       "word": "谁分得清留子是留学还是流放",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1705798883,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161213,
+      "num": 161213,
+      "word": "千名球迷机场接机C罗",
+      "onboard_time": 1705826785,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 160754,
@@ -1227,6 +1267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150372,
+      "num": 150372,
+      "word": "黄仁俊钟辰乐录制江苏春晚",
+      "onboard_time": 1705828767,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149910,
       "num": 149910,
       "word": "南阳要求迅速查明学校火灾原因",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1705795159,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149114,
+      "num": 149114,
+      "word": "段奥娟说了7次关门",
+      "onboard_time": 1705829366,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 148864,
@@ -1323,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141179,
+      "num": 141179,
+      "word": "安心决定不要孩子",
+      "onboard_time": 1705828345,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140672,
       "num": 140672,
       "word": "碳酸饮料过量饮用导致尿酸升高",
@@ -1339,12 +1403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136569,
-      "num": 136569,
-      "word": "刷牙经常出血小心肝脏问题",
-      "onboard_time": 1705827986,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 136876,
+      "num": 136876,
+      "word": "被刘宇宁刻进骨子里的盘串",
+      "onboard_time": 1705828706,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136575,
+      "num": 136575,
+      "word": "我爸是我见过最有松弛感的人",
+      "onboard_time": 1705828105,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 136394,
@@ -1363,12 +1435,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 135734,
-      "num": 135734,
-      "word": "千名球迷机场接机C罗",
-      "onboard_time": 1705826785,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 135927,
+      "num": 135927,
+      "word": "东北谷爱凌竟是52岁单身奶奶",
+      "onboard_time": 1705829425,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135163,
@@ -1459,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127709,
+      "num": 127709,
+      "word": "见识到了真正的装修天才",
+      "onboard_time": 1705828824,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127442,
       "num": 127442,
       "word": "李炎哲加盟新疆男篮",
@@ -1515,20 +1595,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121087,
+      "num": 121087,
+      "word": "XYG官宣小盾加入",
+      "onboard_time": 1705829067,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121041,
       "num": 121041,
       "word": "电视剧要久久爱",
       "onboard_time": 1705751307,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120972,
-      "num": 120972,
-      "word": "我爸是我见过最有松弛感的人",
-      "onboard_time": 1705828105,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 120445,
@@ -1545,6 +1625,14 @@
       "onboard_time": 1705804047,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116325,
+      "num": 116325,
+      "word": "九省联考政治",
+      "onboard_time": 1705828585,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 115060,
@@ -1609,14 +1697,6 @@
       "onboard_time": 1705792876,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107088,
-      "num": 107088,
-      "word": "安心决定不要孩子",
-      "onboard_time": 1705828345,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 107005,
@@ -1697,6 +1777,14 @@
       "onboard_time": 1705792876,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 99734,
+      "num": 99734,
+      "word": "印度一CEO表演时坠落死亡",
+      "onboard_time": 1705829486,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99625,
@@ -1819,14 +1907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85417,
-      "num": 85417,
-      "word": "九省联考政治",
-      "onboard_time": 1705828585,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 82280,
       "num": 82280,
       "word": "阿K零分",
@@ -1916,7 +1996,7 @@
     },
     {
       "raw_hot": 58015,
-      "num": 825810,
+      "num": 827150,
       "word": "缉毒警笔记里的经验总结让人泪目",
       "onboard_time": 1705805306,
       "rank": 7,
@@ -2007,6 +2087,9 @@
     },
     {
       "word": "#习近平在福州工作期间珍贵影像#"
+    },
+    {
+      "word": "#读懂3820蕴含的有福密码#"
     }
   ]
 }
