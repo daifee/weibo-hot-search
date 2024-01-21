@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705840280019,
+  "endTime": 1705841220707,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -91,8 +91,8 @@
       "category": "作品衍生,综艺"
     },
     {
-      "raw_hot": 1055331,
-      "num": 1055331,
+      "raw_hot": 1078046,
+      "num": 1078046,
       "word": "0713春晚联排13进9",
       "onboard_time": 1705836807,
       "rank": 46,
@@ -139,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 937194,
+      "num": 937194,
+      "word": "官方通报大学生夜游网红火车站严重烧伤",
+      "onboard_time": 1705837526,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 920542,
       "num": 920542,
       "word": "陆仙人停播超20天",
@@ -161,14 +169,6 @@
       "onboard_time": 1705804047,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 867734,
-      "num": 867734,
-      "word": "官方通报大学生夜游网红火车站严重烧伤",
-      "onboard_time": 1705837526,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 859289,
@@ -200,6 +200,14 @@
       "word": "女儿接农村妈妈进城3个月后变化惊人",
       "onboard_time": 1705826785,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800838,
+      "num": 270695,
+      "word": "微信红包并非转账认定赠与无需返还",
+      "onboard_time": 1705839807,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -419,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 488333,
+      "num": 488333,
+      "word": "小县城赢家",
+      "onboard_time": 1705837646,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 487430,
       "num": 487430,
       "word": "第一批90后现状如何",
@@ -435,12 +451,12 @@
       "category": "旅游,艺人"
     },
     {
-      "raw_hot": 468959,
-      "num": 468959,
-      "word": "小县城赢家",
-      "onboard_time": 1705837646,
-      "rank": 10,
-      "category": "情感"
+      "raw_hot": 467403,
+      "num": 467403,
+      "word": "网红是书瑶呀否认诽谤事件反转",
+      "onboard_time": 1705839388,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466071,
@@ -489,6 +505,14 @@
       "onboard_time": 1705754788,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 435485,
+      "num": 435485,
+      "word": "迪丽热巴婴儿时期旧照",
+      "onboard_time": 1705840407,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 435395,
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 350260,
-      "num": 240376,
+      "num": 246438,
       "word": "男子撸走1岁半幼儿金镯获刑9个月",
       "onboard_time": 1705834466,
       "rank": 21,
@@ -795,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288757,
+      "num": 288757,
+      "word": "食物语 百田",
+      "onboard_time": 1705839024,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285075,
       "num": 240371,
       "word": "原来iPhone18离我们越来越近了",
@@ -848,14 +880,6 @@
       "word": "花花就差一个西瓜了",
       "onboard_time": 1705802726,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269850,
-      "num": 179840,
-      "word": "微信红包并非转账认定赠与无需返还",
-      "onboard_time": 1705839807,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -915,6 +939,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 253857,
+      "num": 253857,
+      "word": "俞敏洪回应新东方留不住人才",
+      "onboard_time": 1705840528,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 250477,
       "num": 250477,
       "word": "焦虑症 口罩和塑料袋",
@@ -963,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237343,
-      "num": 237343,
-      "word": "网红是书瑶呀否认诽谤事件反转",
-      "onboard_time": 1705839388,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235281,
       "num": 235281,
       "word": "陈若华考公失败",
@@ -1003,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225502,
+      "num": 225502,
+      "word": "原来白人真不会亚洲蹲",
+      "onboard_time": 1705839449,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224974,
       "num": 224974,
       "word": "C罗中国行",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1705805547,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221037,
-      "num": 221037,
-      "word": "食物语 百田",
-      "onboard_time": 1705839024,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 218178,
@@ -1147,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205213,
+      "num": 205213,
+      "word": "回村后的萨摩耶 出淤泥而局部染",
+      "onboard_time": 1705839388,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204807,
       "num": 204807,
       "word": "崩坏 匹诺康尼",
@@ -1171,6 +1203,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202466,
+      "num": 202466,
+      "word": "吃饭有这4个习惯或会被癌症盯上",
+      "onboard_time": 1705840407,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201962,
+      "num": 201962,
+      "word": "陶喆厦门抢票",
+      "onboard_time": 1705839928,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200713,
       "num": 200713,
       "word": "听语气最后是收下了",
@@ -1193,14 +1241,6 @@
       "onboard_time": 1705804284,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197508,
-      "num": 197508,
-      "word": "陶喆厦门抢票",
-      "onboard_time": 1705839928,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 197441,
@@ -1259,6 +1299,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 194207,
+      "num": 194207,
+      "word": "江豚风时舞 阴阳师",
+      "onboard_time": 1705839504,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193893,
       "num": 174281,
       "word": "房东见证7年租客结婚生子帮带娃",
@@ -1313,6 +1361,14 @@
       "onboard_time": 1705826606,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 182827,
+      "num": 182827,
+      "word": "牙膏用没了先别着急扔",
+      "onboard_time": 1705840108,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 181683,
@@ -1459,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168357,
-      "num": 168357,
-      "word": "江豚风时舞 阴阳师",
-      "onboard_time": 1705839504,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 167977,
       "num": 167977,
       "word": "TTG再无XQ",
@@ -1491,14 +1539,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 164977,
-      "num": 164977,
-      "word": "回村后的萨摩耶 出淤泥而局部染",
-      "onboard_time": 1705839388,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163150,
       "num": 163150,
       "word": "时代少年团手工能力",
@@ -1513,6 +1553,14 @@
       "onboard_time": 1705808545,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162814,
+      "num": 162814,
+      "word": "王一博周钰翔微信加上了吗",
+      "onboard_time": 1705840947,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 162624,
@@ -1553,14 +1601,6 @@
       "onboard_time": 1705802484,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159624,
-      "num": 159624,
-      "word": "原来白人真不会亚洲蹲",
-      "onboard_time": 1705839449,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 158675,
@@ -1665,6 +1705,14 @@
       "onboard_time": 1705800746,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144808,
+      "num": 144808,
+      "word": "谈感情可以谈钱没门",
+      "onboard_time": 1705839747,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 144190,
@@ -1776,14 +1824,6 @@
       "word": "我爸是我见过最有松弛感的人",
       "onboard_time": 1705828105,
       "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 136463,
-      "num": 136463,
-      "word": "谈感情可以谈钱没门",
-      "onboard_time": 1705839747,
-      "rank": 38,
       "category": "情感"
     },
     {
@@ -1899,6 +1939,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 128206,
+      "num": 128206,
+      "word": "要久久爱台词",
+      "onboard_time": 1705840769,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127739,
       "num": 127739,
       "word": "魏大勋玩321木头人差点出事",
@@ -1939,14 +1987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126020,
-      "num": 126020,
-      "word": "牙膏用没了先别着急扔",
-      "onboard_time": 1705840108,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125953,
       "num": 125953,
       "word": "国脚说国足没输球没掉队",
@@ -1969,6 +2009,22 @@
       "onboard_time": 1705797445,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124120,
+      "num": 124120,
+      "word": "懂得人性才能谈好恋爱",
+      "onboard_time": 1705841129,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 123694,
+      "num": 123694,
+      "word": "Twins演唱会",
+      "onboard_time": 1705841067,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 123653,
@@ -2435,20 +2491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64841,
+      "num": 228069,
+      "word": "鸭鸭怎么可以吃鸭鸭",
+      "onboard_time": 1705837767,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 58015,
       "num": 1270863,
       "word": "缉毒警笔记里的经验总结让人泪目",
       "onboard_time": 1705805306,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56577,
-      "num": 228069,
-      "word": "鸭鸭怎么可以吃鸭鸭",
-      "onboard_time": 1705837767,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 52966,
