@@ -1,7 +1,23 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705793649956,
+  "endTime": 1705800178548,
   "band_list": [
+    {
+      "raw_hot": 1631346,
+      "num": 1631346,
+      "word": "韩安冉女儿被确诊多动症",
+      "onboard_time": 1705794679,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1235435,
+      "num": 1235435,
+      "word": "终于知道高铁盒饭受众是谁了",
+      "onboard_time": 1705797263,
+      "rank": 1,
+      "category": "情感"
+    },
     {
       "raw_hot": 1230180,
       "num": 1230180,
@@ -51,12 +67,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 449685,
+      "num": 449685,
+      "word": "浙江小姐姐买一个冻梨老板切块还装盒",
+      "onboard_time": 1705794800,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444265,
       "num": 444265,
       "word": "王一博HipHop Forever",
       "onboard_time": 1705761152,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 443662,
+      "num": 443662,
+      "word": "2024首个暴雪蓝色预警",
+      "onboard_time": 1705797081,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437909,
@@ -91,12 +123,60 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379921,
+      "num": 379921,
+      "word": "大熊猫和叶因伤暂停营业",
+      "onboard_time": 1705796724,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378305,
+      "num": 378305,
+      "word": "刘涛说害怕胡歌家的七只猫",
+      "onboard_time": 1705760552,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 335875,
+      "num": 335875,
+      "word": "与恶魔有约 鬼怪剧情",
+      "onboard_time": 1705793957,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323395,
       "num": 323395,
       "word": "男子徒手接住6楼坠落男孩",
       "onboard_time": 1705759952,
       "rank": 11,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 321244,
+      "num": 321244,
+      "word": "吃完葡萄不要马上喝水",
+      "onboard_time": 1705796785,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 311848,
+      "num": 177607,
+      "word": "专家建议冬季每周洗澡1到2次",
+      "onboard_time": 1705798344,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 303484,
+      "num": 303484,
+      "word": "经常拥抱对身体有好处",
+      "onboard_time": 1705796664,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285075,
@@ -113,6 +193,14 @@
       "onboard_time": 1705762112,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 265899,
+      "num": 265899,
+      "word": "梦境其实是可以控制的",
+      "onboard_time": 1705795943,
+      "rank": 13,
+      "category": "科学科普"
     },
     {
       "raw_hot": 265530,
@@ -139,6 +227,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255458,
+      "num": 255458,
+      "word": "一个月跑步10小时收益最大",
+      "onboard_time": 1705795040,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 247480,
+      "num": 138398,
+      "word": "焦虑症 口罩和塑料袋",
+      "onboard_time": 1705798344,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 244969,
+      "num": 244969,
+      "word": "科目三值得上春晚吗",
+      "onboard_time": 1705795643,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244834,
       "num": 238654,
       "word": "27岁定律",
@@ -161,6 +273,14 @@
       "onboard_time": 1705763670,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229336,
+      "num": 229336,
+      "word": "山东菏泽一仓房爆炸照亮黑夜",
+      "onboard_time": 1705792458,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223414,
@@ -219,6 +339,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193893,
+      "num": 174281,
+      "word": "房东见证7年租客结婚生子帮带娃",
+      "onboard_time": 1705759287,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184209,
+      "num": 184209,
+      "word": "温州红十字会通报打工人嘴替视频",
+      "onboard_time": 1705799783,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180902,
       "num": 239177,
       "word": "断崖式分手",
@@ -227,12 +363,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179121,
-      "num": 179121,
+      "raw_hot": 180235,
+      "num": 180235,
       "word": "陈都灵称饰演花千骨有压力",
       "onboard_time": 1705778234,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179926,
+      "num": 179926,
+      "word": "王一博要糖吃",
+      "onboard_time": 1705798225,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178040,
+      "num": 137606,
+      "word": "从急诊医生角度说说结婚",
+      "onboard_time": 1705798284,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 173789,
@@ -251,12 +403,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159702,
-      "num": 159702,
-      "word": "房东见证7年租客结婚生子帮带娃",
-      "onboard_time": 1705759287,
-      "rank": 29,
+      "raw_hot": 166309,
+      "num": 166309,
+      "word": "祈今朝 人狗恋",
+      "onboard_time": 1705799726,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161294,
+      "num": 161294,
+      "word": "南方加入下雪氛围组",
+      "onboard_time": 1705798883,
+      "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158675,
+      "num": 137274,
+      "word": "一个人打开论文真的好危险",
+      "onboard_time": 1705798403,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 154244,
@@ -265,6 +433,22 @@
       "onboard_time": 1705762770,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151605,
+      "num": 136704,
+      "word": "要是没这伴郎这婚都结不成",
+      "onboard_time": 1705798403,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 149271,
+      "num": 149271,
+      "word": "杨紫哭戏",
+      "onboard_time": 1705795159,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 148864,
@@ -283,6 +467,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142201,
+      "num": 142201,
+      "word": "赵秀丽终于把丈夫儿子下葬",
+      "onboard_time": 1705795339,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136394,
+      "num": 136394,
+      "word": "丁俊晖1比6奥沙利文",
+      "onboard_time": 1705796903,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134050,
       "num": 134050,
       "word": "张韶涵27场演唱会收官",
@@ -291,12 +491,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130419,
-      "num": 130419,
-      "word": "山东菏泽一仓房爆炸照亮黑夜",
-      "onboard_time": 1705792458,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 133985,
+      "num": 133985,
+      "word": "林书豪投疯了",
+      "onboard_time": 1705798104,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133914,
+      "num": 133914,
+      "word": "PoppinC街舞6总冠军",
+      "onboard_time": 1705792156,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 127739,
@@ -315,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124798,
+      "num": 124798,
+      "word": "阶段性的友谊 不必太遗憾",
+      "onboard_time": 1705797445,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121041,
       "num": 121041,
       "word": "电视剧要久久爱",
@@ -323,20 +539,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115589,
-      "num": 115589,
-      "word": "刘涛说害怕胡歌家的七只猫",
-      "onboard_time": 1705760552,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 107384,
+      "num": 107384,
+      "word": "42岁波尔WTT男单夺冠",
+      "onboard_time": 1705792876,
+      "rank": 15,
+      "category": "体育"
     },
     {
-      "raw_hot": 113459,
-      "num": 113459,
-      "word": "PoppinC街舞6总冠军",
-      "onboard_time": 1705792156,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 107005,
+      "num": 775004,
+      "word": "博士乘组一个意外发现改变太空授课",
+      "onboard_time": 1705755989,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 106947,
+      "num": 106947,
+      "word": "要久久爱开篇 成长反差",
+      "onboard_time": 1705796961,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 104375,
@@ -347,12 +571,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 100016,
+      "num": 100016,
+      "word": "尔滨中央大街现古希腊军团",
+      "onboard_time": 1705792876,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 99625,
       "num": 99625,
       "word": "广东存在感最低的城市",
       "onboard_time": 1705759829,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99601,
+      "num": 99601,
+      "word": "美35岁女子连生12个娃",
+      "onboard_time": 1705784771,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99180,
@@ -393,14 +633,6 @@
       "onboard_time": 1705764090,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 88481,
-      "num": 88481,
-      "word": "42岁波尔WTT男单夺冠",
-      "onboard_time": 1705792876,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 88407,
@@ -467,28 +699,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 77003,
-      "num": 52025,
-      "word": "尔滨中央大街现古希腊军团",
-      "onboard_time": 1705792876,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 75611,
       "num": 75611,
       "word": "舅舅向炫富的外甥借钱",
       "onboard_time": 1705752025,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 70309,
-      "num": 70309,
-      "word": "美35岁女子连生12个娃",
-      "onboard_time": 1705784771,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69579,
@@ -513,14 +729,6 @@
       "onboard_time": 1705758630,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 63536,
-      "num": 431349,
-      "word": "博士乘组一个意外发现改变太空授课",
-      "onboard_time": 1705755989,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 52966,
