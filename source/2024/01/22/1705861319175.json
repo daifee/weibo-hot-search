@@ -1,0 +1,410 @@
+{
+  "runTime": 1705861319175,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 288475,
+        "num": 288475,
+        "word": "微信红包并非转账认定赠与无需返还",
+        "onboard_time": 1705839807,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202484,
+        "num": 202484,
+        "word": "关于六寸蛋糕放5斤车厘子这件事",
+        "onboard_time": 1705845211,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14125,
+        "num": 182309,
+        "word": "当江浙沪遇上了古诗词",
+        "onboard_time": 1705845330,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167856,
+        "num": 167856,
+        "word": "女孩把馒头做成带馅的1天卖500个",
+        "onboard_time": 1705848749,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154171,
+        "num": 154171,
+        "word": "苏增添被查",
+        "onboard_time": 1705830867,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152192,
+        "num": 152192,
+        "word": "会中文的韩国人和中国人都沉默了",
+        "onboard_time": 1705849768,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151851,
+        "num": 151851,
+        "word": "不敢想象高中毕业后我是怎么走到今天的",
+        "onboard_time": 1705848448,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122608,
+        "num": 122608,
+        "word": "十三年怎么就抵不过三年了",
+        "onboard_time": 1705835008,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112573,
+        "num": 112573,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1705849711,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111946,
+        "num": 111946,
+        "word": "勇敢的人先加王一博微信",
+        "onboard_time": 1705846950,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215550,
+        "num": 111691,
+        "word": "你真是饿了",
+        "onboard_time": 1705852706,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101060,
+        "num": 101060,
+        "word": "砂糖橘摆成了我吃不起的样子",
+        "onboard_time": 1705844848,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87245,
+        "num": 87245,
+        "word": "徕芬",
+        "onboard_time": 1705845629,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 85777,
+        "num": 85777,
+        "word": "考完研后才知道家里有五层别墅",
+        "onboard_time": 1705843948,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74297,
+        "num": 74297,
+        "word": "金莎首次上节目回应比男友大19岁",
+        "onboard_time": 1705846710,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70323,
+        "num": 70323,
+        "word": "0713春晚联排13进9",
+        "onboard_time": 1705836807,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70311,
+        "num": 70311,
+        "word": "阿娇阿Sa真亲了吗",
+        "onboard_time": 1705848333,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65059,
+        "num": 65059,
+        "word": "为什么制冷和制热的26度不一样",
+        "onboard_time": 1705858456,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 57376,
+        "num": 57376,
+        "word": "要久久爱收视率",
+        "onboard_time": 1705842329,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42430,
+        "num": 51476,
+        "word": "长沙下雪",
+        "onboard_time": 1705834226,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85026,
+        "num": 51443,
+        "word": "美国房主新买二手房冰柜里有颗人头",
+        "onboard_time": 1705851507,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58646,
+        "num": 51348,
+        "word": "小说女主就不配有正经工作吗",
+        "onboard_time": 1705855343,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51105,
+        "num": 51105,
+        "word": "演员陶昕然在零下25度的崇礼拍大片",
+        "onboard_time": 1705851627,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49974,
+        "num": 49974,
+        "word": "猫咪吸水",
+        "onboard_time": 1705852586,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47933,
+        "num": 47933,
+        "word": "书瑶 徕芬",
+        "onboard_time": 1705849531,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43958,
+        "num": 43958,
+        "word": "薛之谦别开玩笑了",
+        "onboard_time": 1705861214,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41627,
+        "num": 41627,
+        "word": "东北麻辣烫",
+        "onboard_time": 1705853484,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40026,
+        "num": 40026,
+        "word": "成毅提裙跑",
+        "onboard_time": 1705847608,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39389,
+        "num": 39389,
+        "word": "官方通报大学生夜游网红火车站严重烧伤",
+        "onboard_time": 1705837526,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38254,
+        "num": 38254,
+        "word": "厌冬症",
+        "onboard_time": 1705850967,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38032,
+        "num": 38032,
+        "word": "薛之谦新手机壳",
+        "onboard_time": 1705848990,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36358,
+        "num": 36358,
+        "word": "迪丽热巴婴儿时期旧照",
+        "onboard_time": 1705840407,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35138,
+        "num": 35138,
+        "word": "男子撸走1岁半幼儿金镯获刑9个月",
+        "onboard_time": 1705834466,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35038,
+        "num": 35038,
+        "word": "吃饭有这4个习惯或会被癌症盯上",
+        "onboard_time": 1705840407,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34234,
+        "num": 34234,
+        "word": "袁咏仪演甄嬛胖橘都活不过两集",
+        "onboard_time": 1705851028,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34019,
+        "num": 34019,
+        "word": "陈泽直播",
+        "onboard_time": 1705844489,
+        "rank": 35,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 33771,
+        "num": 33771,
+        "word": "杨紫范丞丞情头",
+        "onboard_time": 1705828645,
+        "rank": 36,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 33024,
+        "num": 33024,
+        "word": "0713又凑到一起干嘛呢",
+        "onboard_time": 1705851809,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32849,
+        "num": 32849,
+        "word": "东北谷爱凌竟是52岁单身奶奶",
+        "onboard_time": 1705829425,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32012,
+        "num": 32012,
+        "word": "原来骑手不知道顾客能看见他全名",
+        "onboard_time": 1705828947,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31926,
+        "num": 31926,
+        "word": "懂得人性才能谈好恋爱",
+        "onboard_time": 1705841129,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31854,
+        "num": 31854,
+        "word": "丁程鑫听到什么了",
+        "onboard_time": 1705855281,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31349,
+        "num": 31349,
+        "word": "原神",
+        "onboard_time": 1705849949,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31177,
+        "num": 31177,
+        "word": "朱一龙央视春晚",
+        "onboard_time": 1705853247,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28851,
+        "num": 28851,
+        "word": "文俊辉猫猫",
+        "onboard_time": 1705850489,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26126,
+        "num": 26126,
+        "word": "大多数人没有爱",
+        "onboard_time": 1705850427,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25201,
+        "num": 25201,
+        "word": "原来萌兰这么大只啊",
+        "onboard_time": 1705836509,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24584,
+        "num": 24584,
+        "word": "粉龙",
+        "onboard_time": 1705850251,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23909,
+        "num": 23909,
+        "word": "肖战高奢全球合约汇总",
+        "onboard_time": 1705848512,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23699,
+        "num": 23699,
+        "word": "网红是书瑶呀否认诽谤事件反转",
+        "onboard_time": 1705839388,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂3820蕴含的有福密码#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705858449687,
+  "endTime": 1705861319175,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -55411,6 +55411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65059,
+      "num": 65059,
+      "word": "为什么制冷和制热的26度不一样",
+      "onboard_time": 1705858456,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 65026,
       "num": 102615,
       "word": "元梦之星央视跨晚",
@@ -56601,6 +56609,14 @@
       "onboard_time": 1705132715,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 43958,
+      "num": 43958,
+      "word": "薛之谦别开玩笑了",
+      "onboard_time": 1705861214,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 43876,

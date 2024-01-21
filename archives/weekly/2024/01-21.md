@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/21 00:22:00 ~ 2024/01/22 01:34:09
+本榜单时间：2024/01/21 00:22:00 ~ 2024/01/22 02:21:59
 </p>
 </blockquote>
 <p>
@@ -2241,6 +2241,12 @@ RIIZE人歌一位（热度：93213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%B6%E5%86%B7%E5%92%8C%E5%88%B6%E7%83%AD%E7%9A%8426%E5%BA%A6%E4%B8%8D%E4%B8%80%E6%A0%B7%23" target="weibo">
+为什么制冷和制热的26度不一样（热度：65059）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%AD%E9%B8%AD%E6%80%8E%E4%B9%88%E5%8F%AF%E4%BB%A5%E5%90%83%E9%B8%AD%E9%B8%AD%23" target="weibo">
 鸭鸭怎么可以吃鸭鸭（热度：64841）
 </a>
@@ -2273,6 +2279,12 @@ RIIZE人歌一位（热度：93213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%B0%944%E6%AF%943%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23" target="weibo">
 波尔4比3张本智和（热度：47796）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%88%AB%E5%BC%80%E7%8E%A9%E7%AC%91%E4%BA%86%23" target="weibo">
+薛之谦别开玩笑了（热度：43958）
 </a>
 </li>
 
