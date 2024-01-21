@@ -1,0 +1,410 @@
+{
+  "runTime": 1705826061868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1081944,
+        "num": 1081944,
+        "word": "缅因猫生孩子就像开盲盒",
+        "onboard_time": 1705819946,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 848470,
+        "num": 848470,
+        "word": "美媒曝美国会禁止五角大楼从6家中企采购电池",
+        "onboard_time": 1705819827,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 39700,
+        "num": 825810,
+        "word": "缉毒警笔记里的经验总结让人泪目",
+        "onboard_time": 1705805306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820772,
+        "num": 820772,
+        "word": "婚礼回礼竟是一人一件四川省服",
+        "onboard_time": 1705821683,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741302,
+        "num": 741302,
+        "word": "杨幂大象包",
+        "onboard_time": 1705824145,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 674966,
+        "num": 674966,
+        "word": "张雪峰向郑州大学捐款300万",
+        "onboard_time": 1705822106,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603595,
+        "num": 603595,
+        "word": "5天快速掉10斤的减脂餐",
+        "onboard_time": 1705815626,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 510386,
+        "num": 510386,
+        "word": "客机在阿富汗坠毁",
+        "onboard_time": 1705819466,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489122,
+        "num": 489122,
+        "word": "韩安冉女儿被确诊多动症",
+        "onboard_time": 1705794679,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413355,
+        "num": 413355,
+        "word": "陆仙人停播超20天",
+        "onboard_time": 1705815566,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 557806,
+        "num": 409299,
+        "word": "肠道息肉上厕所时会有4个提示",
+        "onboard_time": 1705819644,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 380262,
+        "num": 380262,
+        "word": "沈腾马丽现身央视春晚第二次联排",
+        "onboard_time": 1705819166,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357907,
+        "num": 357907,
+        "word": "汉堡哥炸蛋姐",
+        "onboard_time": 1705821565,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290758,
+        "num": 290758,
+        "word": "你在表白 他在背词",
+        "onboard_time": 1705809686,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238832,
+        "num": 238832,
+        "word": "6位伴娘穿军装踢正步为战友盖头纱",
+        "onboard_time": 1705818266,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222763,
+        "num": 222763,
+        "word": "潘玮柏对粉丝说要不你来唱",
+        "onboard_time": 1705817724,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197263,
+        "num": 197263,
+        "word": "4名女警生无可恋式推走故障叉车",
+        "onboard_time": 1705811125,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186946,
+        "num": 186946,
+        "word": "贾玲张小斐杨紫跳舞",
+        "onboard_time": 1705812987,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180993,
+        "num": 180993,
+        "word": "要久久爱 蓝亦菲去世了吗",
+        "onboard_time": 1705810703,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165601,
+        "num": 165601,
+        "word": "董宇辉在西安要请粉丝吃饭",
+        "onboard_time": 1705820606,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204808,
+        "num": 165592,
+        "word": "查出幽门螺杆菌但没症状要治吗",
+        "onboard_time": 1705817307,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203956,
+        "num": 165588,
+        "word": "杨超越不满意哭戏急哭了",
+        "onboard_time": 1705820906,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175091,
+        "num": 165588,
+        "word": "周深连续三年春晚彩排穿同一件羽绒服",
+        "onboard_time": 1705823184,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165580,
+        "num": 165580,
+        "word": "银川烧烤店爆炸受害者本该有逃生机会",
+        "onboard_time": 1705809746,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157407,
+        "num": 157407,
+        "word": "西班牙男子猥亵自己6个月大女儿",
+        "onboard_time": 1705805006,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142858,
+        "num": 142858,
+        "word": "世界之外",
+        "onboard_time": 1705806623,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133512,
+        "num": 133512,
+        "word": "老爷爷打卡易烊千玺海报女孩热情帮拍",
+        "onboard_time": 1705813649,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 125885,
+        "num": 125885,
+        "word": "陈楚生长沙演唱会好野",
+        "onboard_time": 1705825466,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125545,
+        "num": 125545,
+        "word": "段奥娟毛笔字",
+        "onboard_time": 1705816226,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118617,
+        "num": 118617,
+        "word": "短道速滑 中国队智商碾压",
+        "onboard_time": 1705812085,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244762,
+        "num": 117637,
+        "word": "终于知道高铁盒饭受众是谁了",
+        "onboard_time": 1705797263,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115060,
+        "num": 115060,
+        "word": "降本增效的四无婚礼",
+        "onboard_time": 1705825107,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112582,
+        "num": 112582,
+        "word": "河南2023年人均收入29933元",
+        "onboard_time": 1705814127,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105306,
+        "num": 105306,
+        "word": "章鱼巨丸子",
+        "onboard_time": 1705819946,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99013,
+        "num": 99013,
+        "word": "赵丽颖3天2篇河北小作文",
+        "onboard_time": 1705809626,
+        "rank": 34,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 95838,
+        "num": 95838,
+        "word": "时代少年团有龙墩墩了",
+        "onboard_time": 1705818869,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95613,
+        "num": 95613,
+        "word": "王源飞波士顿开启新学期",
+        "onboard_time": 1705811367,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94887,
+        "num": 94887,
+        "word": "用鸡蛋托做个龙年小手工",
+        "onboard_time": 1705824506,
+        "rank": 37,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 92603,
+        "num": 92603,
+        "word": "朋友圈背景图",
+        "onboard_time": 1705805967,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92126,
+        "num": 92126,
+        "word": "婚姻中看不见的女性之痛",
+        "onboard_time": 1705806444,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91162,
+        "num": 91162,
+        "word": "C罗说FIFA最佳奖项正失去可信度",
+        "onboard_time": 1705816646,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89474,
+        "num": 89474,
+        "word": "幻兽帕鲁Steam同时在线破百万",
+        "onboard_time": 1705824805,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83776,
+        "num": 83776,
+        "word": "张黎称已成立新导师组",
+        "onboard_time": 1705813588,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79812,
+        "num": 79812,
+        "word": "C罗中国行",
+        "onboard_time": 1705814546,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77607,
+        "num": 77607,
+        "word": "赵今麦给张凌赫买牛牛糖人",
+        "onboard_time": 1705817366,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77231,
+        "num": 77231,
+        "word": "eStar官宣绝意加入",
+        "onboard_time": 1705820427,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75459,
+        "num": 75459,
+        "word": "回家的礼物",
+        "onboard_time": 1705824624,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75441,
+        "num": 75441,
+        "word": "南阳要求迅速查明学校火灾原因",
+        "onboard_time": 1705820305,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72294,
+        "num": 72294,
+        "word": "WB官宣流浪离队",
+        "onboard_time": 1705822406,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72063,
+        "num": 72063,
+        "word": "米哈游 橡皮管动画",
+        "onboard_time": 1705817608,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在福州工作期间珍贵影像#"
+    }
+  }
+}
