@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705807118656,
+  "endTime": 1705808057334,
   "band_list": [
     {
       "raw_hot": 1631346,
@@ -35,20 +35,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 870204,
+      "num": 870204,
+      "word": "龙年央视春晚第二次联排",
+      "onboard_time": 1705804047,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 859289,
       "num": 859289,
       "word": "多地明确婚姻登记处除夕正常办公",
       "onboard_time": 1705800865,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 814021,
-      "num": 814021,
-      "word": "龙年央视春晚第二次联排",
-      "onboard_time": 1705804047,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 701617,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 696916,
-      "num": 213540,
+      "raw_hot": 699079,
+      "num": 219092,
       "word": "西班牙男子猥亵自己6个月大女儿",
       "onboard_time": 1705805006,
       "rank": 26,
@@ -107,8 +107,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 457844,
-      "num": 457844,
+      "raw_hot": 491807,
+      "num": 491807,
       "word": "鲸搁浅三亚一天要吃40斤鱿鱼",
       "onboard_time": 1705804946,
       "rank": 41,
@@ -179,6 +179,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 411341,
+      "num": 411341,
+      "word": "人们为什么不往个人养老金账户里存钱",
+      "onboard_time": 1705803506,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 406658,
       "num": 406658,
       "word": "数码宝贝 突然被刀",
@@ -219,6 +227,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 385691,
+      "num": 385691,
+      "word": "第一批90后现状如何",
+      "onboard_time": 1705806024,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383515,
       "num": 383515,
       "word": "陈楚生王栎鑫对唱他不爱我",
@@ -235,28 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374831,
+      "num": 366328,
+      "word": "婚姻中看不见的女性之痛",
+      "onboard_time": 1705806444,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 366806,
+      "num": 366806,
+      "word": "东方甄选谈董宇辉收益",
+      "onboard_time": 1705805547,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 358293,
       "num": 358293,
       "word": "与恶魔有约 鬼怪剧情",
       "onboard_time": 1705793957,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 357021,
-      "num": 357021,
-      "word": "人们为什么不往个人养老金账户里存钱",
-      "onboard_time": 1705803506,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 353224,
-      "num": 353224,
-      "word": "东方甄选谈董宇辉收益",
-      "onboard_time": 1705805547,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 350087,
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302644,
+      "num": 302644,
+      "word": "朋友圈背景图",
+      "onboard_time": 1705805967,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285075,
       "num": 240371,
       "word": "原来iPhone18离我们越来越近了",
@@ -307,8 +331,16 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 272235,
-      "num": 272235,
+      "raw_hot": 280044,
+      "num": 280044,
+      "word": "世界之外",
+      "onboard_time": 1705806623,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 279976,
+      "num": 279976,
       "word": "花花就差一个西瓜了",
       "onboard_time": 1705802726,
       "rank": 17,
@@ -395,14 +427,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 243325,
-      "num": 243325,
-      "word": "世界之外",
-      "onboard_time": 1705806623,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 242109,
       "num": 242109,
       "word": "打工人嘴替",
@@ -419,27 +443,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231719,
-      "num": 213060,
-      "word": "朋友圈背景图",
-      "onboard_time": 1705805967,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 229336,
       "num": 229336,
       "word": "山东菏泽一仓房爆炸照亮黑夜",
       "onboard_time": 1705792458,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227391,
-      "num": 227391,
-      "word": "第一批90后现状如何",
-      "onboard_time": 1705806024,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -451,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223212,
+      "num": 223212,
+      "word": "萌兰又变小金熊了",
+      "onboard_time": 1705805547,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217567,
       "num": 217567,
       "word": "日本连环撞车一汽车被挤到30cm厚",
@@ -459,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212592,
-      "num": 212592,
-      "word": "婚姻中看不见的女性之痛",
-      "onboard_time": 1705806444,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 210243,
+      "num": 210243,
+      "word": "粉笔模考 读不懂言语",
+      "onboard_time": 1705807470,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 206543,
@@ -475,20 +491,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206295,
+      "num": 206295,
+      "word": "王一博摸喉结",
+      "onboard_time": 1705807709,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205960,
       "num": 243549,
       "word": "徐明浩闪现街舞总决赛",
       "onboard_time": 1705760129,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203272,
-      "num": 203272,
-      "word": "萌兰又变小金熊了",
-      "onboard_time": 1705805547,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201054,
@@ -587,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178735,
+      "num": 178735,
+      "word": "杨紫浅跳hiphop",
+      "onboard_time": 1705806623,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178040,
       "num": 140051,
       "word": "从急诊医生角度说说结婚",
@@ -609,6 +633,14 @@
       "onboard_time": 1705768703,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164690,
+      "num": 164690,
+      "word": "魏大勋版帅哥被灌酒",
+      "onboard_time": 1705807347,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 162386,
@@ -649,14 +681,6 @@
       "onboard_time": 1705802665,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 154732,
-      "num": 154732,
-      "word": "杨紫浅跳hiphop",
-      "onboard_time": 1705806623,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 154244,
@@ -763,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133232,
+      "num": 133232,
+      "word": "济南RW侠转会公告",
+      "onboard_time": 1705807526,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132302,
       "num": 132302,
       "word": "多动症",
@@ -819,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120445,
+      "num": 120445,
+      "word": "宋小宝的小品女主缘",
+      "onboard_time": 1705807645,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119269,
       "num": 119269,
       "word": "一只没有感情和痛觉的猫",
@@ -849,6 +889,14 @@
       "onboard_time": 1705806145,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110648,
+      "num": 110648,
+      "word": "外卖平台不能让逆行成最优送餐路线",
+      "onboard_time": 1705807284,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107384,
