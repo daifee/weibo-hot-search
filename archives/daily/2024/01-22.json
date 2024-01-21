@@ -1,6 +1,6 @@
 {
   "startTime": 1705854115620,
-  "endTime": 1705865654473,
+  "endTime": 1705868322540,
   "band_list": [
     {
       "raw_hot": 1026719,
@@ -419,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63909,
+      "num": 32916,
+      "word": "儿子和女儿结婚爸爸的不同反应",
+      "onboard_time": 1705864334,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 50179,
       "num": 743825,
       "word": "当江浙沪遇上了古诗词",
@@ -443,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29304,
-      "num": 29304,
-      "word": "儿子和女儿结婚爸爸的不同反应",
-      "onboard_time": 1705864334,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 24109,
+      "num": 24109,
+      "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
+      "onboard_time": 1705867271,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23699,
@@ -457,6 +465,14 @@
       "onboard_time": 1705839388,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 11235,
+      "num": 11235,
+      "word": "广西的吃席从不会让人失望",
+      "onboard_time": 1705865712,
+      "rank": 49,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
