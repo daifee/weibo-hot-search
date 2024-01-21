@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705879101948,
+  "endTime": 1705880056601,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -17443,6 +17443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403631,
+      "num": 403631,
+      "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
+      "onboard_time": 1705867271,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403387,
       "num": 403387,
       "word": "秦岚手机丢了",
@@ -19763,6 +19771,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 346640,
+      "num": 346640,
+      "word": "为什么制冷和制热的26度不一样",
+      "onboard_time": 1705858456,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 346439,
       "num": 288302,
       "word": "天秤 硬撑",
@@ -21065,14 +21081,6 @@
       "onboard_time": 1704168879,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 318851,
-      "num": 318851,
-      "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
-      "onboard_time": 1705867271,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318741,
@@ -24313,14 +24321,6 @@
       "onboard_time": 1705219892,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 267898,
-      "num": 267898,
-      "word": "为什么制冷和制热的26度不一样",
-      "onboard_time": 1705858456,
-      "rank": 17,
-      "category": "科学科普"
     },
     {
       "raw_hot": 267894,
@@ -38251,6 +38251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173246,
+      "num": 173246,
+      "word": "儿子和女儿结婚爸爸的不同反应",
+      "onboard_time": 1705864334,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173240,
       "num": 173240,
       "word": "跨国版我的未来不是梦",
@@ -44899,14 +44907,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 142688,
-      "num": 142688,
-      "word": "儿子和女儿结婚爸爸的不同反应",
-      "onboard_time": 1705864334,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142646,
       "num": 142646,
       "word": "英伟达股价达新高",
@@ -46433,6 +46433,14 @@
       "onboard_time": 1704891033,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136289,
+      "num": 136289,
+      "word": "郎朗回应58岁建筑工人钢琴之约",
+      "onboard_time": 1705879339,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 136224,
@@ -49803,6 +49811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122027,
+      "num": 77255,
+      "word": "德桑蒂斯退出美国总统竞选",
+      "onboard_time": 1705879580,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 122021,
       "num": 122021,
       "word": "谢娜 一生要强的妈妈",
@@ -49921,6 +49937,14 @@
       "onboard_time": 1704986730,
       "rank": 41,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 121465,
+      "num": 121465,
+      "word": "快船战胜篮网",
+      "onboard_time": 1705878919,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 121420,
@@ -53203,6 +53227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100352,
+      "num": 100352,
+      "word": "陆沉生日卡",
+      "onboard_time": 1705878978,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100291,
       "num": 1329391,
       "word": "2024第一周忙碌带来确定性",
@@ -54323,6 +54355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 86725,
+      "num": 86725,
+      "word": "不能露脸的除了缉毒警还有反扒民警",
+      "onboard_time": 1705879401,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86627,
       "num": 86627,
       "word": "爱豆在舞台上头皮痒该怎么办呢",
@@ -54449,6 +54489,14 @@
       "onboard_time": 1704426393,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 83030,
+      "num": 83030,
+      "word": "仙剑之父转发仙剑四微博",
+      "onboard_time": 1705862295,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 82873,
@@ -54827,6 +54875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76633,
+      "num": 76633,
+      "word": "年前冷静期",
+      "onboard_time": 1705875853,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76567,
       "num": 76567,
       "word": "宜家紧急召回3008件充电器",
@@ -55089,6 +55145,14 @@
       "onboard_time": 1705069231,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 70639,
+      "num": 70639,
+      "word": "奥沙利文斯诺克大奖赛夺冠",
+      "onboard_time": 1705879339,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 70086,
@@ -55715,36 +55779,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 60608,
-      "num": 60608,
-      "word": "年前冷静期",
-      "onboard_time": 1705875853,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 60211,
       "num": 60211,
       "word": "陈哲远带瓜子去微博之夜",
       "onboard_time": 1705250844,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 60206,
-      "num": 60206,
-      "word": "仙剑之父转发仙剑四微博",
-      "onboard_time": 1705862295,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 60089,
-      "num": 60089,
-      "word": "快船战胜篮网",
-      "onboard_time": 1705878919,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 59998,
@@ -55867,6 +55907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58153,
+      "num": 58153,
+      "word": "篮网vs快船",
+      "onboard_time": 1705878739,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58148,
       "num": 58148,
       "word": "岳云鹏和燕子火花续上了",
@@ -55905,14 +55953,6 @@
       "onboard_time": 1705318111,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57862,
-      "num": 57862,
-      "word": "篮网vs快船",
-      "onboard_time": 1705878739,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 57729,
@@ -56043,6 +56083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55069,
+      "num": 55069,
+      "word": "奥沙利文赛季第四冠",
+      "onboard_time": 1705879882,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54662,
       "num": 54662,
       "word": "虞书欣黄轩互关",
@@ -56169,6 +56217,14 @@
       "onboard_time": 1705218269,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 52451,
+      "num": 52451,
+      "word": "马尔代夫夜潜遇见魔鬼鱼",
+      "onboard_time": 1705880001,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 52380,
@@ -56353,6 +56409,14 @@
       "onboard_time": 1705871952,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 49326,
+      "num": 49326,
+      "word": "皇马3比2阿尔梅里亚",
+      "onboard_time": 1705879882,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 48987,
@@ -56545,6 +56609,14 @@
       "onboard_time": 1705234891,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45616,
+      "num": 45616,
+      "word": "wife歌词",
+      "onboard_time": 1705880001,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 45561,
@@ -56921,14 +56993,6 @@
       "onboard_time": 1704168400,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39811,
-      "num": 39811,
-      "word": "陆沉生日卡",
-      "onboard_time": 1705878978,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 39810,
