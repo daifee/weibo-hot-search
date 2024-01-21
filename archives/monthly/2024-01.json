@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705836839535,
+  "endTime": 1705840280019,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -4235,6 +4235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1055331,
+      "num": 1055331,
+      "word": "0713春晚联排13进9",
+      "onboard_time": 1705836807,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1055132,
       "num": 1055132,
       "word": "董子健 居然真的是我",
@@ -4553,6 +4561,14 @@
       "onboard_time": 1705546046,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1008928,
+      "num": 1008928,
+      "word": "十三年怎么就抵不过三年了",
+      "onboard_time": 1705835008,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1007605,
@@ -5833,6 +5849,14 @@
       "onboard_time": 1705577246,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 867734,
+      "num": 867734,
+      "word": "官方通报大学生夜游网红火车站严重烧伤",
+      "onboard_time": 1705837526,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 866988,
@@ -13835,6 +13859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 500491,
+      "num": 500491,
+      "word": "彩礼的本质",
+      "onboard_time": 1705836509,
+      "rank": 35,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 500436,
       "num": 500436,
       "word": "热水泡脚确实能睡得更香",
@@ -14824,6 +14856,14 @@
       "word": "爸爸在我结婚前突然后悔了",
       "onboard_time": 1704582438,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 468959,
+      "num": 468959,
+      "word": "小县城赢家",
+      "onboard_time": 1705837646,
+      "rank": 10,
       "category": "情感"
     },
     {
@@ -17587,12 +17627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392680,
-      "num": 368542,
-      "word": "十三年怎么就抵不过三年了",
-      "onboard_time": 1705835008,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 393391,
+      "num": 393391,
+      "word": "原来萌兰这么大只啊",
+      "onboard_time": 1705836509,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392616,
@@ -21795,6 +21835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 300951,
+      "num": 300951,
+      "word": "钟楚曦假肢戏拍摄过程",
+      "onboard_time": 1705837407,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300674,
       "num": 300674,
       "word": "小熊猫离开尔滨临时妈妈哇哇大哭",
@@ -23881,6 +23929,14 @@
       "onboard_time": 1705195289,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 269850,
+      "num": 179840,
+      "word": "微信红包并非转账认定赠与无需返还",
+      "onboard_time": 1705839807,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269650,
@@ -26715,6 +26771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237343,
+      "num": 237343,
+      "word": "网红是书瑶呀否认诽谤事件反转",
+      "onboard_time": 1705839388,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237325,
       "num": 237325,
       "word": "TTG阿豆租借至DRG",
@@ -28347,6 +28411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223964,
+      "num": 223964,
+      "word": "权顺荣小老虎",
+      "onboard_time": 1705838010,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223867,
       "num": 220397,
       "word": "妈妈为了和我多聊天换头像",
@@ -28689,6 +28761,14 @@
       "onboard_time": 1704420627,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 221037,
+      "num": 221037,
+      "word": "食物语 百田",
+      "onboard_time": 1705839024,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 220912,
@@ -31275,6 +31355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203203,
+      "num": 203203,
+      "word": "广东男篮vs辽宁男篮",
+      "onboard_time": 1705840108,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203183,
       "num": 203183,
       "word": "广厦男篮战胜辽宁男篮",
@@ -32545,6 +32633,14 @@
       "onboard_time": 1704619529,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 197508,
+      "num": 197508,
+      "word": "陶喆厦门抢票",
+      "onboard_time": 1705839928,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 197462,
@@ -36387,6 +36483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179775,
+      "num": 179775,
+      "word": "仙剑六男扮女装女扮男装",
+      "onboard_time": 1705838667,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179741,
       "num": 179741,
       "word": "心疼梁祯元",
@@ -38771,6 +38875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 168357,
+      "num": 168357,
+      "word": "江豚风时舞 阴阳师",
+      "onboard_time": 1705839504,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168346,
       "num": 168346,
       "word": "兔牙时代",
@@ -39473,6 +39585,14 @@
       "onboard_time": 1705552353,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 164977,
+      "num": 164977,
+      "word": "回村后的萨摩耶 出淤泥而局部染",
+      "onboard_time": 1705839388,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 164956,
@@ -40497,6 +40617,14 @@
       "onboard_time": 1705161036,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159624,
+      "num": 159624,
+      "word": "原来白人真不会亚洲蹲",
+      "onboard_time": 1705839449,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 159598,
@@ -42840,6 +42968,14 @@
       "word": "于正妆造自认在影视界排第一",
       "onboard_time": 1705306949,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148994,
+      "num": 148994,
+      "word": "只有黄瀛子被留在了18岁",
+      "onboard_time": 1705838248,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -45459,14 +45595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 137749,
-      "num": 137749,
-      "word": "原来萌兰这么大只啊",
-      "onboard_time": 1705836509,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137723,
       "num": 137723,
       "word": "杨超越帮苏醒找了四份工作",
@@ -45795,6 +45923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136463,
+      "num": 136463,
+      "word": "谈感情可以谈钱没门",
+      "onboard_time": 1705839747,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136429,
       "num": 136429,
       "word": "最强大脑",
@@ -46105,14 +46241,6 @@
       "onboard_time": 1704273756,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 134924,
-      "num": 134924,
-      "word": "彩礼的本质",
-      "onboard_time": 1705836509,
-      "rank": 35,
-      "category": "社会议题"
     },
     {
       "raw_hot": 134908,
@@ -47033,6 +47161,14 @@
       "onboard_time": 1705297588,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130768,
+      "num": 130768,
+      "word": "易烊千玺新春寄语写的隶书",
+      "onboard_time": 1705836327,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 130747,
@@ -48211,6 +48347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126020,
+      "num": 126020,
+      "word": "牙膏用没了先别着急扔",
+      "onboard_time": 1705840108,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126009,
       "num": 126009,
       "word": "大熊猫渝爱背后真的没有拉链吗",
@@ -48225,6 +48369,14 @@
       "onboard_time": 1705592430,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 125953,
+      "num": 125953,
+      "word": "国脚说国足没输球没掉队",
+      "onboard_time": 1705838667,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 125949,
@@ -50131,14 +50283,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 117300,
-      "num": 117300,
-      "word": "易烊千玺新春寄语写的隶书",
-      "onboard_time": 1705836327,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117194,
       "num": 117194,
       "word": "论小孩哥的情绪有多稳定",
@@ -51963,6 +52107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104547,
+      "num": 104547,
+      "word": "辽粤大战",
+      "onboard_time": 1705837646,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104532,
       "num": 93159,
       "word": "董子健说新年第一个混蛋出现了",
@@ -53201,14 +53353,6 @@
       "onboard_time": 1704634653,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93828,
-      "num": 93828,
-      "word": "0713春晚联排13进9",
-      "onboard_time": 1705836807,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 93738,
@@ -55257,6 +55401,14 @@
       "onboard_time": 1704789452,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56577,
+      "num": 228069,
+      "word": "鸭鸭怎么可以吃鸭鸭",
+      "onboard_time": 1705837767,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 56440,

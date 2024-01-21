@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705836839535,
+  "endTime": 1705840280019,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -91,12 +91,28 @@
       "category": "作品衍生,综艺"
     },
     {
+      "raw_hot": 1055331,
+      "num": 1055331,
+      "word": "0713春晚联排13进9",
+      "onboard_time": 1705836807,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1037973,
       "num": 1037973,
       "word": "医生 我是病了不是饿了",
       "onboard_time": 1705762411,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1008928,
+      "num": 1008928,
+      "word": "十三年怎么就抵不过三年了",
+      "onboard_time": 1705835008,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 993041,
@@ -145,6 +161,14 @@
       "onboard_time": 1705804047,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 867734,
+      "num": 867734,
+      "word": "官方通报大学生夜游网红火车站严重烧伤",
+      "onboard_time": 1705837526,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 859289,
@@ -371,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 500491,
+      "num": 500491,
+      "word": "彩礼的本质",
+      "onboard_time": 1705836509,
+      "rank": 35,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 491807,
       "num": 491807,
       "word": "鲸搁浅三亚一天要吃40斤鱿鱼",
@@ -401,6 +433,14 @@
       "onboard_time": 1705809626,
       "rank": 8,
       "category": "旅游,艺人"
+    },
+    {
+      "raw_hot": 468959,
+      "num": 468959,
+      "word": "小县城赢家",
+      "onboard_time": 1705837646,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 466071,
@@ -539,12 +579,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 392680,
-      "num": 368542,
-      "word": "十三年怎么就抵不过三年了",
-      "onboard_time": 1705835008,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 393391,
+      "num": 393391,
+      "word": "原来萌兰这么大只啊",
+      "onboard_time": 1705836509,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389102,
@@ -731,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300951,
+      "num": 300951,
+      "word": "钟楚曦假肢戏拍摄过程",
+      "onboard_time": 1705837407,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300349,
       "num": 300349,
       "word": "毒舌电影合伙人赵铮去世",
@@ -800,6 +848,14 @@
       "word": "花花就差一个西瓜了",
       "onboard_time": 1705802726,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269850,
+      "num": 179840,
+      "word": "微信红包并非转账认定赠与无需返还",
+      "onboard_time": 1705839807,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -907,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237343,
+      "num": 237343,
+      "word": "网红是书瑶呀否认诽谤事件反转",
+      "onboard_time": 1705839388,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235281,
       "num": 235281,
       "word": "陈若华考公失败",
@@ -947,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223964,
+      "num": 223964,
+      "word": "权顺荣小老虎",
+      "onboard_time": 1705838010,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223414,
       "num": 223414,
       "word": "真喜欢怎么可能十几年不表白",
@@ -961,6 +1033,14 @@
       "onboard_time": 1705805547,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221037,
+      "num": 221037,
+      "word": "食物语 百田",
+      "onboard_time": 1705839024,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 218178,
@@ -1083,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203203,
+      "num": 203203,
+      "word": "广东男篮vs辽宁男篮",
+      "onboard_time": 1705840108,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200713,
       "num": 200713,
       "word": "听语气最后是收下了",
@@ -1105,6 +1193,14 @@
       "onboard_time": 1705804284,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197508,
+      "num": 197508,
+      "word": "陶喆厦门抢票",
+      "onboard_time": 1705839928,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 197441,
@@ -1267,6 +1363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179775,
+      "num": 179775,
+      "word": "仙剑六男扮女装女扮男装",
+      "onboard_time": 1705838667,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178040,
       "num": 140051,
       "word": "从急诊医生角度说说结婚",
@@ -1355,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168357,
+      "num": 168357,
+      "word": "江豚风时舞 阴阳师",
+      "onboard_time": 1705839504,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167977,
       "num": 167977,
       "word": "TTG再无XQ",
@@ -1377,6 +1489,14 @@
       "onboard_time": 1705830565,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164977,
+      "num": 164977,
+      "word": "回村后的萨摩耶 出淤泥而局部染",
+      "onboard_time": 1705839388,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 163150,
@@ -1433,6 +1553,14 @@
       "onboard_time": 1705802484,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159624,
+      "num": 159624,
+      "word": "原来白人真不会亚洲蹲",
+      "onboard_time": 1705839449,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 158675,
@@ -1504,6 +1632,14 @@
       "word": "杨紫哭戏",
       "onboard_time": 1705795159,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148994,
+      "num": 148994,
+      "word": "只有黄瀛子被留在了18岁",
+      "onboard_time": 1705838248,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1627,14 +1763,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 137749,
-      "num": 137749,
-      "word": "原来萌兰这么大只啊",
-      "onboard_time": 1705836509,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137723,
       "num": 137723,
       "word": "杨超越帮苏醒找了四份工作",
@@ -1648,6 +1776,14 @@
       "word": "我爸是我见过最有松弛感的人",
       "onboard_time": 1705828105,
       "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 136463,
+      "num": 136463,
+      "word": "谈感情可以谈钱没门",
+      "onboard_time": 1705839747,
+      "rank": 38,
       "category": "情感"
     },
     {
@@ -1673,14 +1809,6 @@
       "onboard_time": 1705817366,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134924,
-      "num": 134924,
-      "word": "彩礼的本质",
-      "onboard_time": 1705836509,
-      "rank": 35,
-      "category": "社会议题"
     },
     {
       "raw_hot": 134050,
@@ -1755,6 +1883,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 130768,
+      "num": 130768,
+      "word": "易烊千玺新春寄语写的隶书",
+      "onboard_time": 1705836327,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128830,
       "num": 128830,
       "word": "投喂孙悟空",
@@ -1800,6 +1936,22 @@
       "word": "澳网元老赛",
       "onboard_time": 1705804705,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126020,
+      "num": 126020,
+      "word": "牙膏用没了先别着急扔",
+      "onboard_time": 1705840108,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 125953,
+      "num": 125953,
+      "word": "国脚说国足没输球没掉队",
+      "onboard_time": 1705838667,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1881,14 +2033,6 @@
       "onboard_time": 1705832666,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 117300,
-      "num": 117300,
-      "word": "易烊千玺新春寄语写的隶书",
-      "onboard_time": 1705836327,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 116325,
@@ -1999,6 +2143,14 @@
       "num": 105748,
       "word": "李金恣冬青奥夺金",
       "onboard_time": 1705816526,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104547,
+      "num": 104547,
+      "word": "辽粤大战",
+      "onboard_time": 1705837646,
       "rank": 48,
       "category": "体育"
     },
@@ -2147,14 +2299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93828,
-      "num": 93828,
-      "word": "0713春晚联排13进9",
-      "onboard_time": 1705836807,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93682,
       "num": 93682,
       "word": "河南文旅这么玩是吧",
@@ -2297,6 +2441,14 @@
       "onboard_time": 1705805306,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56577,
+      "num": 228069,
+      "word": "鸭鸭怎么可以吃鸭鸭",
+      "onboard_time": 1705837767,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 52966,
