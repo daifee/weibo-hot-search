@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705804510526,
+  "endTime": 1705805100509,
   "band_list": [
     {
       "raw_hot": 1631346,
@@ -35,19 +35,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 758208,
+      "num": 758208,
+      "word": "多地明确婚姻登记处除夕正常办公",
+      "onboard_time": 1705800865,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 701617,
       "num": 701617,
       "word": "梨泰院踩踏事件警察厅长被控过失杀人",
       "onboard_time": 1705757609,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 672848,
-      "num": 672848,
-      "word": "多地明确婚姻登记处除夕正常办公",
-      "onboard_time": 1705800865,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 576371,
-      "num": 576371,
+      "raw_hot": 580381,
+      "num": 580381,
       "word": "苹果龙年手机壳",
       "onboard_time": 1705800446,
       "rank": 13,
@@ -81,6 +81,14 @@
       "onboard_time": 1705800626,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508167,
+      "num": 508167,
+      "word": "龙年央视春晚第二次联排",
+      "onboard_time": 1705804047,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 507366,
@@ -147,6 +155,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 405631,
+      "num": 405631,
+      "word": "祈今朝 人狗恋",
+      "onboard_time": 1705799726,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403387,
       "num": 403387,
       "word": "秦岚手机丢了",
@@ -171,12 +187,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 397593,
-      "num": 397593,
-      "word": "祈今朝 人狗恋",
-      "onboard_time": 1705799726,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 384994,
+      "num": 384994,
+      "word": "数码宝贝 突然被刀",
+      "onboard_time": 1705801948,
+      "rank": 8,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 383515,
@@ -203,12 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 350127,
-      "num": 350127,
-      "word": "数码宝贝 突然被刀",
-      "onboard_time": 1705801948,
-      "rank": 8,
-      "category": "动漫,作品衍生"
+      "raw_hot": 351006,
+      "num": 351006,
+      "word": "老外爱上中国淘米水洗发露",
+      "onboard_time": 1705802067,
+      "rank": 9,
+      "category": "美妆"
     },
     {
       "raw_hot": 350087,
@@ -217,14 +233,6 @@
       "onboard_time": 1705802967,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 346035,
-      "num": 346035,
-      "word": "老外爱上中国淘米水洗发露",
-      "onboard_time": 1705802067,
-      "rank": 9,
-      "category": "美妆"
     },
     {
       "raw_hot": 328546,
@@ -267,6 +275,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 272235,
+      "num": 272235,
+      "word": "花花就差一个西瓜了",
+      "onboard_time": 1705802726,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265899,
       "num": 265899,
       "word": "梦境其实是可以控制的",
@@ -280,6 +296,14 @@
       "word": "与恶魔有约大结局",
       "onboard_time": 1705761391,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 261859,
+      "num": 261859,
+      "word": "要久久爱 我们没活成理想中的样子",
+      "onboard_time": 1705802306,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -307,28 +331,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 250934,
-      "num": 250934,
-      "word": "要久久爱 我们没活成理想中的样子",
-      "onboard_time": 1705802306,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250477,
       "num": 250477,
       "word": "焦虑症 口罩和塑料袋",
       "onboard_time": 1705798344,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 246254,
-      "num": 246254,
-      "word": "龙年央视春晚第二次联排",
-      "onboard_time": 1705804047,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 244969,
@@ -363,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238954,
-      "num": 238954,
-      "word": "花花就差一个西瓜了",
-      "onboard_time": 1705802726,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 239088,
+      "num": 209900,
+      "word": "人们为什么不往个人养老金账户里存钱",
+      "onboard_time": 1705803506,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 235281,
@@ -403,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209900,
-      "num": 209900,
-      "word": "人们为什么不往个人养老金账户里存钱",
-      "onboard_time": 1705803506,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 206543,
       "num": 206543,
       "word": "王一博要糖吃",
@@ -433,6 +433,14 @@
       "onboard_time": 1705762112,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198245,
+      "num": 198245,
+      "word": "李娜澳网元老赛开门红",
+      "onboard_time": 1705804284,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 197441,
@@ -467,8 +475,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189100,
-      "num": 189100,
+      "raw_hot": 193551,
+      "num": 193551,
       "word": "幻兽帕鲁",
       "onboard_time": 1705803384,
       "rank": 25,
@@ -491,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180278,
+      "num": 180278,
+      "word": "西班牙男子猥亵自己6个月大女儿",
+      "onboard_time": 1705805006,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180235,
       "num": 180235,
       "word": "陈都灵称饰演花千骨有压力",
@@ -507,14 +523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176187,
-      "num": 176187,
-      "word": "李娜澳网元老赛开门红",
-      "onboard_time": 1705804284,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173789,
       "num": 173789,
       "word": "街舞6总决赛",
@@ -529,6 +537,14 @@
       "onboard_time": 1705768703,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162386,
+      "num": 162386,
+      "word": "谁分得清留子是留学还是流放",
+      "onboard_time": 1705801645,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 161294,
@@ -552,14 +568,6 @@
       "word": "一个人打开论文真的好危险",
       "onboard_time": 1705798403,
       "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 156757,
-      "num": 156757,
-      "word": "谁分得清留子是留学还是流放",
-      "onboard_time": 1705801645,
-      "rank": 29,
       "category": "幽默"
     },
     {
@@ -627,8 +635,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138257,
-      "num": 138257,
+      "raw_hot": 140672,
+      "num": 140672,
       "word": "碳酸饮料过量饮用导致尿酸升高",
       "onboard_time": 1705800446,
       "rank": 34,
@@ -667,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133682,
+      "num": 133682,
+      "word": "陈楚生和07年的自己合唱",
+      "onboard_time": 1705804345,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132302,
       "num": 132302,
       "word": "多动症",
@@ -691,12 +707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127296,
+      "num": 127296,
+      "word": "澳网元老赛",
+      "onboard_time": 1705804705,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124798,
       "num": 124798,
       "word": "阶段性的友谊 不必太遗憾",
       "onboard_time": 1705797445,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121546,
+      "num": 121546,
+      "word": "李炎哲加盟新疆男篮",
+      "onboard_time": 1705804946,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 121041,
@@ -715,20 +747,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117168,
+      "num": 117168,
+      "word": "鲸搁浅三亚一天要吃40斤鱿鱼",
+      "onboard_time": 1705804946,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112414,
       "num": 112414,
       "word": "香港马拉松",
       "onboard_time": 1705803623,
       "rank": 43,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 111355,
-      "num": 111355,
-      "word": "陈楚生和07年的自己合唱",
-      "onboard_time": 1705804345,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 107384,
@@ -753,6 +785,14 @@
       "onboard_time": 1705796961,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105988,
+      "num": 105988,
+      "word": "恋与深空贴脸开大光头",
+      "onboard_time": 1705805066,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 104413,
