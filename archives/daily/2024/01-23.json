@@ -1,10 +1,10 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705965508117,
+  "endTime": 1705966480510,
   "band_list": [
     {
-      "raw_hot": 3053375,
-      "num": 3053375,
+      "raw_hot": 3131026,
+      "num": 3131026,
       "word": "新疆乌什县7.1级地震",
       "onboard_time": 1705948695,
       "rank": 0,
@@ -67,11 +67,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 529725,
-      "num": 203512,
+      "raw_hot": 578197,
+      "num": 578197,
       "word": "6只狗仔被人掰断腿骨头裸露在外",
       "onboard_time": 1705947735,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490958,
+      "num": 490958,
+      "word": "警惕妇癌之王卵巢癌这些信号别忽视",
+      "onboard_time": 1705948634,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 480025,
+      "num": 480025,
+      "word": "新疆乌什7.1级地震已致3人受伤",
+      "onboard_time": 1705965019,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -115,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403344,
+      "num": 403344,
+      "word": "女子为带货编造中学生被继父强奸等谣言",
+      "onboard_time": 1705957992,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401192,
       "num": 144288,
       "word": "为什么每次洗澡身上都有泥可搓",
@@ -131,20 +155,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 393763,
-      "num": 393763,
-      "word": "警惕妇癌之王卵巢癌这些信号别忽视",
-      "onboard_time": 1705948634,
-      "rank": 11,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 393624,
       "num": 200166,
       "word": "冠磊",
       "onboard_time": 1705940243,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 367407,
+      "num": 261207,
+      "word": "俞敏洪让董宇辉改认证",
+      "onboard_time": 1705925246,
+      "rank": 10,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 352337,
@@ -155,20 +179,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 321827,
-      "num": 261207,
-      "word": "俞敏洪让董宇辉改认证",
-      "onboard_time": 1705925246,
-      "rank": 10,
-      "category": "互联网,网红"
+      "raw_hot": 314216,
+      "num": 314216,
+      "word": "17年前被入室抢走的姜甲儒找到了",
+      "onboard_time": 1705956913,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 309160,
-      "num": 309160,
-      "word": "女子为带货编造中学生被继父强奸等谣言",
-      "onboard_time": 1705957992,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 292461,
+      "num": 292461,
+      "word": "国足0比1卡塔尔",
+      "onboard_time": 1705965320,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 289278,
@@ -177,14 +201,6 @@
       "onboard_time": 1705915346,
       "rank": 8,
       "category": "网红"
-    },
-    {
-      "raw_hot": 263550,
-      "num": 166520,
-      "word": "17年前被入室抢走的姜甲儒找到了",
-      "onboard_time": 1705956913,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262659,
@@ -219,12 +235,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210865,
-      "num": 210865,
-      "word": "新疆乌什7.1级地震已致3人受伤",
-      "onboard_time": 1705965019,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 209974,
+      "num": 209974,
+      "word": "这一次竹马战胜了天降",
+      "onboard_time": 1705948216,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 207260,
@@ -267,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183525,
+      "num": 128686,
+      "word": "亚洲杯",
+      "onboard_time": 1705965860,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183292,
       "num": 183292,
       "word": "EDG太猛了",
@@ -283,14 +307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171951,
-      "num": 171951,
-      "word": "这一次竹马战胜了天降",
-      "onboard_time": 1705948216,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161207,
       "num": 161207,
       "word": "友情断层",
@@ -299,12 +315,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155840,
+      "num": 155840,
+      "word": "没盖杯盖的隔夜水别喝",
+      "onboard_time": 1705966340,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 146338,
       "num": 146338,
       "word": "快乐星球4的男主是女生演的",
       "onboard_time": 1705921468,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146308,
+      "num": 146308,
+      "word": "成毅工作室运镜跟郭虎学的吗",
+      "onboard_time": 1705963457,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142817,
@@ -331,14 +363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133057,
-      "num": 133057,
-      "word": "成毅工作室运镜跟郭虎学的吗",
-      "onboard_time": 1705963457,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 132045,
       "num": 132045,
       "word": "减肥动力喂到嘴边了",
@@ -347,11 +371,35 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 115662,
-      "num": 115662,
-      "word": "国足0比1卡塔尔",
-      "onboard_time": 1705965320,
-      "rank": 15,
+      "raw_hot": 131820,
+      "num": 131820,
+      "word": "国足只剩理论出线希望",
+      "onboard_time": 1705965381,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127101,
+      "num": 127101,
+      "word": "南方下的不是雪是壁纸",
+      "onboard_time": 1705957453,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124776,
+      "num": 131816,
+      "word": "新疆乌什震中20公里内人口极其稀少",
+      "onboard_time": 1705966040,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116553,
+      "num": 116553,
+      "word": "国足亚洲杯最差战绩",
+      "onboard_time": 1705965680,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -361,6 +409,14 @@
       "onboard_time": 1705941083,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 115016,
+      "num": 115016,
+      "word": "新疆消防救援队伍已赶赴震中",
+      "onboard_time": 1705965019,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112473,
@@ -379,6 +435,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111598,
+      "num": 111598,
+      "word": "新疆地震最新情况汇总",
+      "onboard_time": 1705965981,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110536,
+      "num": 110536,
+      "word": "发现我妈也在偷偷装大人",
+      "onboard_time": 1705966340,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110177,
       "num": 110177,
       "word": "A股大跌",
@@ -395,28 +467,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107240,
-      "num": 96532,
-      "word": "南方下的不是雪是壁纸",
-      "onboard_time": 1705957453,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107116,
       "num": 107116,
       "word": "祁煜与鱼",
       "onboard_time": 1705934668,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105588,
-      "num": 105588,
-      "word": "新疆消防救援队伍已赶赴震中",
-      "onboard_time": 1705965019,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102344,
@@ -457,6 +513,14 @@
       "onboard_time": 1705928368,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88897,
+      "num": 88897,
+      "word": "马诺已拿到人身保护令",
+      "onboard_time": 1705961894,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 87911,
@@ -507,14 +571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 78242,
-      "num": 78242,
-      "word": "马诺已拿到人身保护令",
-      "onboard_time": 1705961894,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 77978,
       "num": 77978,
       "word": "丁真 高原小土豆打卡哈尔滨",
@@ -563,12 +619,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70525,
+      "num": 70525,
+      "word": "国足小组第三",
+      "onboard_time": 1705965860,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66604,
       "num": 66604,
       "word": "秦岚说胡先煦是大油饼",
       "onboard_time": 1705942819,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64793,
+      "num": 64793,
+      "word": "陶晶莹控诉合伙人拿走公司私章",
+      "onboard_time": 1705950974,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64446,
+      "num": 64446,
+      "word": "三缺一是永远不可能的",
+      "onboard_time": 1705966040,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 64374,
@@ -579,24 +659,24 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 59657,
-      "num": 59657,
-      "word": "陶晶莹控诉合伙人拿走公司私章",
-      "onboard_time": 1705950974,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 60727,
+      "num": 60727,
+      "word": "县城高中是否再难出清北生",
+      "onboard_time": 1705966463,
+      "rank": 44,
+      "category": "教育"
     },
     {
-      "raw_hot": 58331,
-      "num": 58331,
+      "raw_hot": 58410,
+      "num": 58410,
       "word": "肖一成想和林西同房",
       "onboard_time": 1705963396,
       "rank": 34,
       "category": "剧集"
     },
     {
-      "raw_hot": 52361,
-      "num": 52361,
+      "raw_hot": 54261,
+      "num": 54261,
       "word": "小米超越苹果登顶中国第一",
       "onboard_time": 1705922126,
       "rank": 41,
@@ -619,20 +699,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44472,
-      "num": 44472,
-      "word": "国足只剩理论出线希望",
-      "onboard_time": 1705965381,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 41834,
       "num": 41834,
       "word": "RNG对战EDG",
       "onboard_time": 1705926927,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32842,
+      "num": 581166,
+      "word": "国字号重器硬核展示中国制造实力",
+      "onboard_time": 1705928249,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32452,
@@ -649,14 +729,6 @@
       "onboard_time": 1705956253,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 24279,
-      "num": 456159,
-      "word": "国字号重器硬核展示中国制造实力",
-      "onboard_time": 1705928249,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12534,
