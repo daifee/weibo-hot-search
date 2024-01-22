@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/23 02:23:14
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/23 02:36:42
 </p>
 </blockquote>
 <p>
@@ -5451,6 +5451,12 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%8B%9C%E5%9F%8E%E5%8E%BF%E5%8F%91%E7%94%9F4.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+新疆拜城县发生4.8级地震（热度：793785）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%861558%E5%90%8D%E5%9B%A0%E9%9B%AA%E5%B4%A9%E6%BB%9E%E7%95%99%E6%97%85%E5%AE%A2%E7%A6%BB%E5%BC%80%E6%99%AF%E5%8C%BA%23" target="weibo">
 新疆1558名因雪崩滞留旅客离开景区（热度：793673）
 </a>
@@ -6005,12 +6011,6 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%B9%B2%E9%83%A8%E9%85%92%E5%90%8E%E5%AE%B6%E6%9A%B4%E6%89%93%E6%AD%BB%E5%A6%BB%E5%AD%90%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
 高校干部酒后家暴打死妻子母亲发声（热度：750717）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B2%E6%88%91%E4%BB%AC%E8%BF%99%E8%A1%8C%E4%B8%8A%E4%B8%8D%E5%91%8A%E7%88%B6%E6%AF%8D%E4%B8%8B%E4%B8%8D%E5%91%8A%E5%A6%BB%E5%84%BF%23" target="weibo">
-干我们这行上不告父母下不告妻儿（热度：750313）
 </a>
 </li>
 

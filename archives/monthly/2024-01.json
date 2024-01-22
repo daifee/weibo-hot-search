@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705947794591,
+  "endTime": 1705948602253,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -7249,6 +7249,14 @@
       "onboard_time": 1704883171,
       "rank": 8,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 793785,
+      "num": 793785,
+      "word": "新疆拜城县发生4.8级地震",
+      "onboard_time": 1705899509,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 793673,
@@ -21633,14 +21641,6 @@
       "onboard_time": 1704774094,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 326369,
-      "num": 326369,
-      "word": "新疆拜城县发生4.8级地震",
-      "onboard_time": 1705899509,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326367,
@@ -57675,6 +57675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 76423,
+      "num": 76423,
+      "word": "图书馆30秒重创版",
+      "onboard_time": 1705945696,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76343,
       "num": 1521426,
       "word": "陆军2024开训大片有多硬核",
@@ -57985,6 +57993,14 @@
       "onboard_time": 1705769902,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69473,
+      "num": 61527,
+      "word": "这一次竹马战胜了天降",
+      "onboard_time": 1705948216,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 69085,
@@ -58859,6 +58875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56066,
+      "num": 56066,
+      "word": "6只狗仔被人掰断腿骨头裸露在外",
+      "onboard_time": 1705947735,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55903,
       "num": 243817,
       "word": "巩俐出演时尚主编",
@@ -58873,14 +58897,6 @@
       "onboard_time": 1705274721,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 55487,
-      "num": 55487,
-      "word": "图书馆30秒重创版",
-      "onboard_time": 1705945696,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 55394,
@@ -59361,6 +59377,14 @@
       "onboard_time": 1704031026,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 46811,
+      "num": 38243,
+      "word": "塔吉克斯坦2比1黎巴嫩",
+      "onboard_time": 1705948576,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 46398,
@@ -60641,14 +60665,6 @@
       "onboard_time": 1704219738,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 20240,
-      "num": 24954,
-      "word": "6只狗仔被人掰断腿骨头裸露在外",
-      "onboard_time": 1705947735,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20219,
