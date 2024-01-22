@@ -1,0 +1,410 @@
+{
+  "runTime": 1705916062097,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1318314,
+        "num": 1318314,
+        "word": "横店下雪 爆剧",
+        "onboard_time": 1705900165,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 938451,
+        "num": 938451,
+        "word": "阿莫西林滥用现象严重",
+        "onboard_time": 1705909828,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44296,
+        "num": 861441,
+        "word": "争分夺秒全力以赴",
+        "onboard_time": 1705908329,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830887,
+        "num": 830887,
+        "word": "迪丽热巴喀什",
+        "onboard_time": 1705914024,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 819311,
+        "num": 819311,
+        "word": "大哥收购2千万根苹果枝身价翻10倍",
+        "onboard_time": 1705913728,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649243,
+        "num": 649243,
+        "word": "横店一场雪成就了三部剧",
+        "onboard_time": 1705905325,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488206,
+        "num": 488206,
+        "word": "河南一女子称自己37岁当婆婆",
+        "onboard_time": 1705912589,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463619,
+        "num": 463619,
+        "word": "NewJeans被错认电子厂厂花",
+        "onboard_time": 1705910906,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 450863,
+        "num": 450863,
+        "word": "多位明星参演电影涉影视投资诈骗案",
+        "onboard_time": 1705907186,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328622,
+        "num": 447624,
+        "word": "慈母多败咪",
+        "onboard_time": 1705910670,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 700462,
+        "num": 436103,
+        "word": "江疏影",
+        "onboard_time": 1705909709,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 661453,
+        "num": 424223,
+        "word": "抗震小英雄林浩宣布结婚",
+        "onboard_time": 1705910787,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648096,
+        "num": 407450,
+        "word": "韩安冉前夫回应女儿确诊多动症",
+        "onboard_time": 1705915346,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 489840,
+        "num": 403537,
+        "word": "胡锡进称现在市场已处于明显低位",
+        "onboard_time": 1705912947,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 396246,
+        "num": 396246,
+        "word": "钟楚曦认证侯雯元挺温柔的",
+        "onboard_time": 1705911687,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372360,
+        "num": 372360,
+        "word": "刘涛 蓝牙",
+        "onboard_time": 1705915165,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319705,
+        "num": 319705,
+        "word": "雪球",
+        "onboard_time": 1705911087,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1481151,
+        "num": 316888,
+        "word": "A股大跌",
+        "onboard_time": 1705909587,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296864,
+        "num": 296864,
+        "word": "周小平 A股不涨比涨要安全",
+        "onboard_time": 1705915047,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 295435,
+        "num": 295435,
+        "word": "C罗球迷为见偶像跳到管控区域接机",
+        "onboard_time": 1705913246,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303272,
+        "num": 294138,
+        "word": "高铁上拒绝了带娃女士的让座要求",
+        "onboard_time": 1705908508,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280613,
+        "num": 280613,
+        "word": "郭敬明 大梦归离有自己的小时代",
+        "onboard_time": 1705910547,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260342,
+        "num": 260342,
+        "word": "方媛回应坐经济舱",
+        "onboard_time": 1705896388,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256754,
+        "num": 256754,
+        "word": "李沁捧雪照",
+        "onboard_time": 1705913126,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204952,
+        "num": 204952,
+        "word": "gap两年觉得活着真好",
+        "onboard_time": 1705914625,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221748,
+        "num": 204836,
+        "word": "阿祖你 我哭死",
+        "onboard_time": 1705910488,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202479,
+        "num": 202479,
+        "word": "tws是工作 riize是生活",
+        "onboard_time": 1705914447,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195417,
+        "num": 195417,
+        "word": "LPL",
+        "onboard_time": 1705915645,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186665,
+        "num": 186665,
+        "word": "李庚希是真豁出去了 彭彭应该就这样",
+        "onboard_time": 1705905867,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137300,
+        "num": 176320,
+        "word": "姐弟坠亡案生母期望有个孩子",
+        "onboard_time": 1705905325,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331524,
+        "num": 174097,
+        "word": "因为一个清洁袋我妈被罚了1500",
+        "onboard_time": 1705915408,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256274,
+        "num": 172497,
+        "word": "江疏影雪球爆仓去申万宏源消息不实",
+        "onboard_time": 1705914929,
+        "rank": 31,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 170496,
+        "num": 170496,
+        "word": "预制菜国标要来了",
+        "onboard_time": 1705913664,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168428,
+        "num": 168428,
+        "word": "i人都在做什么工作",
+        "onboard_time": 1705912406,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160661,
+        "num": 160661,
+        "word": "杨紫拼接长裙",
+        "onboard_time": 1705911447,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157999,
+        "num": 157999,
+        "word": "陈飞宇扔雪球",
+        "onboard_time": 1705915286,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157329,
+        "num": 157329,
+        "word": "A股三大指数均跌超3%",
+        "onboard_time": 1705907365,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157288,
+        "num": 157288,
+        "word": "TWS正式出道",
+        "onboard_time": 1705912286,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155117,
+        "num": 155117,
+        "word": "东北大花布是上海人设计的",
+        "onboard_time": 1705915708,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 136377,
+        "num": 152946,
+        "word": "胡锡进回应小红书博主穿越军事禁区",
+        "onboard_time": 1705912886,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152283,
+        "num": 152283,
+        "word": "过年原来比想象中更花钱",
+        "onboard_time": 1705915768,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147450,
+        "num": 147450,
+        "word": "单位发的显眼包年货",
+        "onboard_time": 1705915885,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146290,
+        "num": 146290,
+        "word": "宝可梦推文遭嘲讽",
+        "onboard_time": 1705913607,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145568,
+        "num": 145568,
+        "word": "这些玩意儿的威力仅次于砂糖橘",
+        "onboard_time": 1705916007,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141314,
+        "num": 141314,
+        "word": "抑郁的11个隐形信号",
+        "onboard_time": 1705910067,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132675,
+        "num": 132675,
+        "word": "过年前最离不开的软件",
+        "onboard_time": 1705910248,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131034,
+        "num": 131034,
+        "word": "雷军 互关",
+        "onboard_time": 1705916007,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130654,
+        "num": 130654,
+        "word": "实习第一年要给家里钱吗",
+        "onboard_time": 1705909828,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110944,
+        "num": 130481,
+        "word": "国务院安委会挂牌督办平顶山煤矿事故",
+        "onboard_time": 1705912346,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106671,
+        "num": 130374,
+        "word": "男生表白失败坠楼家属向多方索赔127万",
+        "onboard_time": 1705915946,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#3820战略工程蕴含怎样的魄力和精神#"
+    }
+  }
+}

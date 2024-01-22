@@ -1,6 +1,6 @@
 {
   "startTime": 1705854115620,
-  "endTime": 1705915174450,
+  "endTime": 1705916062097,
   "band_list": [
     {
       "raw_hot": 2152220,
@@ -171,6 +171,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 830887,
+      "num": 830887,
+      "word": "迪丽热巴喀什",
+      "onboard_time": 1705914024,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 819311,
+      "num": 819311,
+      "word": "大哥收购2千万根苹果枝身价翻10倍",
+      "onboard_time": 1705913728,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 818534,
       "num": 818534,
       "word": "岳云鹏被金莎的爱情冲击到",
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 735317,
-      "num": 384887,
+      "num": 424223,
       "word": "抗震小英雄林浩宣布结婚",
       "onboard_time": 1705910787,
       "rank": 26,
@@ -259,14 +275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 691799,
-      "num": 691799,
-      "word": "迪丽热巴喀什",
-      "onboard_time": 1705914024,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 672082,
       "num": 454668,
       "word": "雪球",
@@ -281,6 +289,14 @@
       "onboard_time": 1705903165,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 648096,
+      "num": 407450,
+      "word": "韩安冉前夫回应女儿确诊多动症",
+      "onboard_time": 1705915346,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 637868,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 579770,
-      "num": 381941,
+      "num": 403537,
       "word": "胡锡进称现在市场已处于明显低位",
       "onboard_time": 1705912947,
       "rank": 13,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 537413,
-      "num": 291252,
+      "num": 294138,
       "word": "高铁上拒绝了带娃女士的让座要求",
       "onboard_time": 1705908508,
       "rank": 26,
@@ -440,6 +456,14 @@
       "word": "辛巴回应孩子应吃预制菜言论",
       "onboard_time": 1705905983,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488206,
+      "num": 488206,
+      "word": "河南一女子称自己37岁当婆婆",
+      "onboard_time": 1705912589,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -505,14 +529,6 @@
       "onboard_time": 1705852706,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 463891,
-      "num": 463891,
-      "word": "大哥收购2千万根苹果枝身价翻10倍",
-      "onboard_time": 1705913728,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 463790,
@@ -585,14 +601,6 @@
       "onboard_time": 1705897648,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 416267,
-      "num": 416267,
-      "word": "河南一女子称自己37岁当婆婆",
-      "onboard_time": 1705912589,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412278,
@@ -675,6 +683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 372360,
+      "num": 372360,
+      "word": "刘涛 蓝牙",
+      "onboard_time": 1705915165,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 368373,
       "num": 368373,
       "word": "1米9萌兰最想删掉的视频",
@@ -755,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331524,
+      "num": 174097,
+      "word": "因为一个清洁袋我妈被罚了1500",
+      "onboard_time": 1705915408,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 329119,
       "num": 295219,
       "word": "基金",
@@ -817,6 +841,14 @@
       "onboard_time": 1705846710,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296864,
+      "num": 296864,
+      "word": "周小平 A股不涨比涨要安全",
+      "onboard_time": 1705915047,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 287874,
@@ -1123,6 +1155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204952,
+      "num": 204952,
+      "word": "gap两年觉得活着真好",
+      "onboard_time": 1705914625,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202632,
       "num": 202632,
       "word": "湖南文旅摇来了成毅",
@@ -1137,6 +1177,14 @@
       "onboard_time": 1705894707,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202479,
+      "num": 202479,
+      "word": "tws是工作 riize是生活",
+      "onboard_time": 1705914447,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202279,
@@ -1211,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195417,
+      "num": 195417,
+      "word": "LPL",
+      "onboard_time": 1705915645,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195228,
       "num": 195228,
       "word": "云南昭通山体滑坡已致3人遇难",
@@ -1241,22 +1297,6 @@
       "onboard_time": 1705910067,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 191587,
-      "num": 191587,
-      "word": "tws是工作 riize是生活",
-      "onboard_time": 1705914447,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190975,
-      "num": 190975,
-      "word": "gap两年觉得活着真好",
-      "onboard_time": 1705914625,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 190637,
@@ -1515,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157999,
+      "num": 157999,
+      "word": "陈飞宇扔雪球",
+      "onboard_time": 1705915286,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157981,
       "num": 157981,
       "word": "上海土豆面包乘飞机抵达尔滨",
@@ -1571,6 +1619,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155117,
+      "num": 155117,
+      "word": "东北大花布是上海人设计的",
+      "onboard_time": 1705915708,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 152283,
+      "num": 152283,
+      "word": "过年原来比想象中更花钱",
+      "onboard_time": 1705915768,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152127,
       "num": 152127,
       "word": "江西下雪了",
@@ -1603,14 +1667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148335,
-      "num": 148335,
-      "word": "周小平 A股不涨比涨要安全",
-      "onboard_time": 1705915047,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 148298,
       "num": 148298,
       "word": "谷爱凌 感谢支持和喜爱",
@@ -1627,12 +1683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147450,
+      "num": 147450,
+      "word": "单位发的显眼包年货",
+      "onboard_time": 1705915885,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146875,
       "num": 146875,
       "word": "国务院安委会挂牌督办平顶山煤矿事故",
       "onboard_time": 1705912346,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145568,
+      "num": 145568,
+      "word": "这些玩意儿的威力仅次于砂糖橘",
+      "onboard_time": 1705916007,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 144240,
@@ -1811,6 +1883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131034,
+      "num": 131034,
+      "word": "雷军 互关",
+      "onboard_time": 1705916007,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130823,
       "num": 130823,
       "word": "吃饭有这4个习惯或会被癌症盯上",
@@ -1857,14 +1937,6 @@
       "onboard_time": 1705853247,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128349,
-      "num": 128349,
-      "word": "刘涛 蓝牙",
-      "onboard_time": 1705915165,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 126762,
@@ -2033,6 +2105,14 @@
       "onboard_time": 1705905745,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106671,
+      "num": 130374,
+      "word": "男生表白失败坠楼家属向多方索赔127万",
+      "onboard_time": 1705915946,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106111,
