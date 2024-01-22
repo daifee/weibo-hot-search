@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705922169574,
+  "endTime": 1705923249362,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1539,20 +1539,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1722180,
+      "num": 1718960,
+      "word": "男生表白失败坠楼家属向多方索赔127万",
+      "onboard_time": 1705915946,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1721660,
       "num": 1721660,
       "word": "A先生跳海",
       "onboard_time": 1704632012,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1718960,
-      "num": 1718960,
-      "word": "男生表白失败坠楼家属向多方索赔127万",
-      "onboard_time": 1705915946,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1717598,
@@ -3561,6 +3561,14 @@
       "onboard_time": 1704095795,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1167149,
+      "num": 1167149,
+      "word": "品牌方已向刘诗诗道歉",
+      "onboard_time": 1705920507,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 1166315,
@@ -7315,6 +7323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 785265,
+      "num": 785265,
+      "word": "雪球爆仓",
+      "onboard_time": 1705919844,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 785231,
       "num": 785231,
       "word": "街舞6总决赛",
@@ -7481,14 +7497,6 @@
       "onboard_time": 1705691114,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 774498,
-      "num": 774498,
-      "word": "雪球爆仓",
-      "onboard_time": 1705919844,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 774086,
@@ -9361,14 +9369,6 @@
       "onboard_time": 1704294937,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 678395,
-      "num": 678395,
-      "word": "品牌方已向刘诗诗道歉",
-      "onboard_time": 1705920507,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 678307,
@@ -12353,6 +12353,14 @@
       "onboard_time": 1705332990,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 557685,
+      "num": 411847,
+      "word": "为什么总是女厕所排队长",
+      "onboard_time": 1705920328,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 557082,
@@ -22083,6 +22091,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 315975,
+      "num": 315975,
+      "word": "锦衣之下湖南卫视温暖重映",
+      "onboard_time": 1705921527,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315777,
       "num": 303970,
       "word": "水瓶座单身率高的原因",
@@ -22225,6 +22241,14 @@
       "onboard_time": 1704588807,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 313305,
+      "num": 313305,
+      "word": "小米超越苹果登顶中国第一",
+      "onboard_time": 1705922126,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 313294,
@@ -23433,6 +23457,14 @@
       "onboard_time": 1705231827,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291809,
+      "num": 291809,
+      "word": "抖音回应放贷余额近4000亿元",
+      "onboard_time": 1705921947,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 291755,
@@ -25667,6 +25699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263040,
+      "num": 1298447,
+      "word": "七仔滚了一身炸裂糖霜",
+      "onboard_time": 1705922004,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262941,
       "num": 262941,
       "word": "周杰伦林俊杰生图",
@@ -25761,14 +25801,6 @@
       "onboard_time": 1705802306,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261802,
-      "num": 261802,
-      "word": "为什么总是女厕所排队长",
-      "onboard_time": 1705920328,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 261792,
@@ -26899,14 +26931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248476,
-      "num": 248476,
-      "word": "锦衣之下湖南卫视温暖重映",
-      "onboard_time": 1705921527,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248424,
       "num": 657117,
       "word": "大熊猫临近下班哐哐敲门等不了",
@@ -27945,6 +27969,14 @@
       "onboard_time": 1704192334,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237822,
+      "num": 237822,
+      "word": "快乐星球4的男主是女生演的",
+      "onboard_time": 1705921468,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 237622,
@@ -31291,6 +31323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211790,
+      "num": 211790,
+      "word": "95生四大颜霸",
+      "onboard_time": 1705922187,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211723,
       "num": 211723,
       "word": "鞠婧祎奶栗妆",
@@ -31577,6 +31617,14 @@
       "onboard_time": 1705048468,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209904,
+      "num": 209904,
+      "word": "85后小伙返乡创业一年卖100万套毛笔",
+      "onboard_time": 1705922909,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209845,
@@ -39235,6 +39283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174984,
+      "num": 174984,
+      "word": "文俊辉江苏卫视春晚探班直播",
+      "onboard_time": 1705923028,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174983,
       "num": 174983,
       "word": "曝姆巴佩加盟皇马达协议",
@@ -43131,6 +43187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157222,
+      "num": 157222,
+      "word": "名侦探阿妮亚",
+      "onboard_time": 1705922306,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 157160,
       "num": 157160,
       "word": "霉霉大电影 美到我心软软",
@@ -43707,6 +43771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155036,
+      "num": 155036,
+      "word": "闲鱼开启微信收款",
+      "onboard_time": 1705922425,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 155020,
       "num": 155020,
       "word": "当HR让我在年会上表演节目",
@@ -43777,14 +43849,6 @@
       "onboard_time": 1705750109,
       "rank": 43,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 154632,
-      "num": 154632,
-      "word": "小米超越苹果登顶中国第一",
-      "onboard_time": 1705922126,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 154593,
@@ -45451,6 +45515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146873,
+      "num": 146873,
+      "word": "董宇辉称不会拉黑任何人",
+      "onboard_time": 1705923087,
+      "rank": 45,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 146802,
       "num": 146802,
       "word": "科目三原版原创朱开红",
@@ -46987,6 +47059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141454,
+      "num": 141454,
+      "word": "14薪的快乐",
+      "onboard_time": 1705923028,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141422,
       "num": 141422,
       "word": "祁煜啃手动情",
@@ -47320,14 +47400,6 @@
       "word": "陈若华 颠婆养不出小白花",
       "onboard_time": 1705310130,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 139989,
-      "num": 139989,
-      "word": "快乐星球4的男主是女生演的",
-      "onboard_time": 1705921468,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -48568,14 +48640,6 @@
       "word": "什么是雪球产品",
       "onboard_time": 1705914809,
       "rank": 47,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 134624,
-      "num": 134624,
-      "word": "抖音回应放贷余额近4000亿元",
-      "onboard_time": 1705921947,
-      "rank": 44,
       "category": "财经"
     },
     {
@@ -54811,14 +54875,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 103946,
-      "num": 248872,
-      "word": "七仔滚了一身炸裂糖霜",
-      "onboard_time": 1705922004,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103940,
       "num": 103940,
       "word": "周扬青曼谷跨年vlog",
@@ -55961,6 +56017,14 @@
       "onboard_time": 1704634653,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93761,
+      "num": 195780,
+      "word": "微博小秘书演我上班状态",
+      "onboard_time": 1705923211,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 93738,
@@ -59617,6 +59681,14 @@
       "onboard_time": 1704642390,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26584,
+      "num": 137243,
+      "word": "王者琥珀纪元孙燕姿合作预告",
+      "onboard_time": 1705923148,
+      "rank": 49,
+      "category": "音乐,电竞"
     },
     {
       "raw_hot": 26496,

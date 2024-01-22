@@ -1,0 +1,410 @@
+{
+  "runTime": 1705923249362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2197214,
+        "num": 2197214,
+        "word": "唐山打人案属地公安原局长获刑12年",
+        "onboard_time": 1705918345,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263040,
+        "num": 1298447,
+        "word": "七仔滚了一身炸裂糖霜",
+        "onboard_time": 1705922004,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41589,
+        "num": 1168323,
+        "word": "争分夺秒全力以赴",
+        "onboard_time": 1705908329,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167149,
+        "num": 1167149,
+        "word": "品牌方已向刘诗诗道歉",
+        "onboard_time": 1705920507,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206130,
+        "num": 839838,
+        "word": "货车侧翻众人9小时帮忙搬运货物",
+        "onboard_time": 1705917027,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823984,
+        "num": 823984,
+        "word": "横店下雪 爆剧",
+        "onboard_time": 1705900165,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 785265,
+        "num": 785265,
+        "word": "雪球爆仓",
+        "onboard_time": 1705919844,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 693019,
+        "num": 693019,
+        "word": "韩安冉前夫回应女儿确诊多动症",
+        "onboard_time": 1705915346,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 572426,
+        "num": 572426,
+        "word": "刘涛 蓝牙",
+        "onboard_time": 1705915165,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 416527,
+        "num": 416527,
+        "word": "雷军 互关",
+        "onboard_time": 1705916007,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1722180,
+        "num": 416356,
+        "word": "男生表白失败坠楼家属向多方索赔127万",
+        "onboard_time": 1705915946,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90766,
+        "num": 412267,
+        "word": "消防员归队老人拦路跪地感谢",
+        "onboard_time": 1705917027,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557685,
+        "num": 411847,
+        "word": "为什么总是女厕所排队长",
+        "onboard_time": 1705920328,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409797,
+        "num": 409797,
+        "word": "长春至成都一航班发动机空中喷火",
+        "onboard_time": 1705918828,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315975,
+        "num": 315975,
+        "word": "锦衣之下湖南卫视温暖重映",
+        "onboard_time": 1705921527,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313305,
+        "num": 313305,
+        "word": "小米超越苹果登顶中国第一",
+        "onboard_time": 1705922126,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 307748,
+        "num": 307748,
+        "word": "横店一场雪成就了三部剧",
+        "onboard_time": 1705905325,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291809,
+        "num": 291809,
+        "word": "抖音回应放贷余额近4000亿元",
+        "onboard_time": 1705921947,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 275751,
+        "num": 275751,
+        "word": "蝴蝶美甲",
+        "onboard_time": 1705917930,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 266522,
+        "num": 266522,
+        "word": "江疏影",
+        "onboard_time": 1705909709,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 386220,
+        "num": 265906,
+        "word": "A股大跌",
+        "onboard_time": 1705909587,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 257530,
+        "num": 257530,
+        "word": "迪丽热巴喀什",
+        "onboard_time": 1705914024,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245241,
+        "num": 245241,
+        "word": "横店剧组今日现状",
+        "onboard_time": 1705917086,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237822,
+        "num": 237822,
+        "word": "快乐星球4的男主是女生演的",
+        "onboard_time": 1705921468,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233469,
+        "num": 233469,
+        "word": "萌兰真不是1只八卦小熊",
+        "onboard_time": 1705919426,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224870,
+        "num": 224870,
+        "word": "杭州一小学取消寒假作业",
+        "onboard_time": 1705920750,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 222516,
+        "num": 222516,
+        "word": "李庚希是真豁出去了 彭彭应该就这样",
+        "onboard_time": 1705905867,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211790,
+        "num": 211790,
+        "word": "95生四大颜霸",
+        "onboard_time": 1705922187,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209904,
+        "num": 209904,
+        "word": "85后小伙返乡创业一年卖100万套毛笔",
+        "onboard_time": 1705922909,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93761,
+        "num": 195780,
+        "word": "微博小秘书演我上班状态",
+        "onboard_time": 1705923211,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193400,
+        "num": 193400,
+        "word": "河南一女子称自己37岁当婆婆",
+        "onboard_time": 1705912589,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192741,
+        "num": 192741,
+        "word": "TES在打什么",
+        "onboard_time": 1705917746,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187847,
+        "num": 187847,
+        "word": "2024KPL春季转会期",
+        "onboard_time": 1705922667,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183157,
+        "num": 183157,
+        "word": "1只银渐层烤火变半只金渐层",
+        "onboard_time": 1705919546,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180611,
+        "num": 180611,
+        "word": "胡锡进为今天的股市表现难过",
+        "onboard_time": 1705917685,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178467,
+        "num": 178467,
+        "word": "大哥收购2千万根苹果枝身价翻10倍",
+        "onboard_time": 1705913728,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174984,
+        "num": 174984,
+        "word": "文俊辉江苏卫视春晚探班直播",
+        "onboard_time": 1705923028,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174387,
+        "num": 174387,
+        "word": "NewJeans被错认电子厂厂花",
+        "onboard_time": 1705910906,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168097,
+        "num": 168097,
+        "word": "高铁上拒绝了带娃女士的让座要求",
+        "onboard_time": 1705908508,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167594,
+        "num": 167594,
+        "word": "郑钦文vs多丁",
+        "onboard_time": 1705919608,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166599,
+        "num": 166599,
+        "word": "让自己一年涨薪两次的方法",
+        "onboard_time": 1705918530,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164753,
+        "num": 164753,
+        "word": "阿莫西林滥用现象严重",
+        "onboard_time": 1705909828,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157222,
+        "num": 157222,
+        "word": "名侦探阿妮亚",
+        "onboard_time": 1705922306,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155036,
+        "num": 155036,
+        "word": "闲鱼开启微信收款",
+        "onboard_time": 1705922425,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151178,
+        "num": 151178,
+        "word": "因为一个清洁袋我妈被罚了1500",
+        "onboard_time": 1705915408,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146873,
+        "num": 146873,
+        "word": "董宇辉称不会拉黑任何人",
+        "onboard_time": 1705923087,
+        "rank": 45,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 144155,
+        "num": 144155,
+        "word": "周小平 A股不涨比涨要安全",
+        "onboard_time": 1705915047,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141454,
+        "num": 141454,
+        "word": "14薪的快乐",
+        "onboard_time": 1705923028,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138782,
+        "num": 138782,
+        "word": "放寒假和男朋友像在谈异国恋",
+        "onboard_time": 1705919368,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26584,
+        "num": 137243,
+        "word": "王者琥珀纪元孙燕姿合作预告",
+        "onboard_time": 1705923148,
+        "rank": 49,
+        "category": "音乐,电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对云南山体滑坡作出重要指示#"
+    }
+  }
+}
