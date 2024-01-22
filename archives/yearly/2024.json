@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705880056601,
+  "endTime": 1705886434038,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1507,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1717031,
+      "num": 1717031,
+      "word": "下雪",
+      "onboard_time": 1705883245,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1714755,
       "num": 1714755,
       "word": "赵露思斑点小狗",
@@ -2347,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1417397,
+      "num": 1417397,
+      "word": "研究生劳务费",
+      "onboard_time": 1705884266,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1417384,
       "num": 1417384,
       "word": "前世界冠军疑似被丈夫撞死",
@@ -2384,22 +2400,6 @@
       "word": "邓为 摆裙师",
       "onboard_time": 1705132776,
       "rank": 5,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1407407,
-      "num": 887705,
-      "word": "暖阳分手",
-      "onboard_time": 1704352710,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 1407157,
-      "num": 1407157,
-      "word": "迪丽热巴官宣微博之夜",
-      "onboard_time": 1704951570,
-      "rank": 1,
       "category": "作品衍生"
     }
   ],
