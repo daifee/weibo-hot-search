@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/22 18:20:16
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/22 18:38:12
 </p>
 </blockquote>
 <p>
@@ -359,6 +359,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%A4%8D%E5%87%BA%23" target="weibo">
 张继科复出（热度：2698087）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E6%89%93%E4%BA%BA%E6%A1%88%E5%B1%9E%E5%9C%B0%E5%85%AC%E5%AE%89%E5%8E%9F%E5%B1%80%E9%95%BF%E8%8E%B7%E5%88%9112%E5%B9%B4%23" target="weibo">
+唐山打人案属地公安原局长获刑12年（热度：2678805）
 </a>
 </li>
 
@@ -3933,6 +3939,12 @@ iPhone从4000多米高空坠落仍可使用（热度：987136）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%20%E8%93%9D%E7%89%99%23" target="weibo">
+刘涛 蓝牙（热度：953252）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%86%8D%E7%8E%B0%E8%87%ADyue%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
 辛芷蕾再现臭yue名场面（热度：953199）
 </a>
@@ -4157,12 +4169,6 @@ B站2023百大UP主（热度：927768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E8%A3%81%E5%91%98%E8%A5%BF%E5%AE%89%E6%9F%90%E5%85%AC%E5%8F%B8%E4%BB%8ECBD%E6%90%AC%E8%BF%9B%E7%A7%A6%E5%B2%AD%E5%B1%B1%E5%8C%BA%23" target="weibo">
 为裁员西安某公司从CBD搬进秦岭山区（热度：922842）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%20%E8%93%9D%E7%89%99%23" target="weibo">
-刘涛 蓝牙（热度：921859）
 </a>
 </li>
 
@@ -5849,12 +5855,6 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E8%8D%AF%E5%85%AD%E5%8E%82%23" target="weibo">
 哈药六厂（热度：756742）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E6%89%93%E4%BA%BA%E6%A1%88%E5%B1%9E%E5%9C%B0%E5%85%AC%E5%AE%89%E5%8E%9F%E5%B1%80%E9%95%BF%E8%8E%B7%E5%88%9112%E5%B9%B4%23" target="weibo">
-唐山打人案属地公安原局长获刑12年（热度：756712）
 </a>
 </li>
 

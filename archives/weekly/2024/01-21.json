@@ -1,7 +1,15 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705918816061,
+  "endTime": 1705919892220,
   "band_list": [
+    {
+      "raw_hot": 2678805,
+      "num": 2678805,
+      "word": "唐山打人案属地公安原局长获刑12年",
+      "onboard_time": 1705918345,
+      "rank": 9,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2569909,
       "num": 2569909,
@@ -307,6 +315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 953252,
+      "num": 953252,
+      "word": "刘涛 蓝牙",
+      "onboard_time": 1705915165,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 937194,
       "num": 937194,
       "word": "官方通报大学生夜游网红火车站严重烧伤",
@@ -321,14 +337,6 @@
       "onboard_time": 1705887683,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 921859,
-      "num": 921859,
-      "word": "刘涛 蓝牙",
-      "onboard_time": 1705915165,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 920542,
@@ -507,14 +515,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 756712,
-      "num": 756712,
-      "word": "唐山打人案属地公安原局长获刑12年",
-      "onboard_time": 1705918345,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 741302,
       "num": 741302,
       "word": "杨幂大象包",
@@ -560,6 +560,14 @@
       "word": "张雪峰向郑州大学捐款300万",
       "onboard_time": 1705822106,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 711401,
+      "num": 711401,
+      "word": "男生表白失败坠楼家属向多方索赔127万",
+      "onboard_time": 1705915946,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -731,14 +739,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 604067,
-      "num": 298870,
-      "word": "男生表白失败坠楼家属向多方索赔127万",
-      "onboard_time": 1705915946,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 603511,
       "num": 603511,
       "word": "安陵容早这样后宫没一个是对手",
@@ -812,7 +812,7 @@
     },
     {
       "raw_hot": 555518,
-      "num": 362502,
+      "num": 406505,
       "word": "周小平 A股不涨比涨要安全",
       "onboard_time": 1705915047,
       "rank": 40,
@@ -921,6 +921,14 @@
       "onboard_time": 1705896025,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 519500,
+      "num": 519500,
+      "word": "长春至成都一航班发动机空中喷火",
+      "onboard_time": 1705918828,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518455,
@@ -1155,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443894,
+      "num": 443894,
+      "word": "蝴蝶美甲",
+      "onboard_time": 1705917930,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 443662,
       "num": 443662,
       "word": "2024首个暴雪蓝色预警",
@@ -1363,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391427,
+      "num": 391427,
+      "word": "胡锡进为今天的股市表现难过",
+      "onboard_time": 1705917685,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 389418,
       "num": 389418,
       "word": "吃辣时流鼻涕 味觉性鼻炎",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1705793957,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 356082,
+      "num": 356082,
+      "word": "横店剧组今日现状",
+      "onboard_time": 1705917086,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 352672,
@@ -1667,14 +1699,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 326684,
-      "num": 326684,
-      "word": "胡锡进为今天的股市表现难过",
-      "onboard_time": 1705917685,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 326570,
       "num": 326570,
       "word": "要久久爱 蓝亦菲去世了吗",
@@ -1779,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300696,
+      "num": 300696,
+      "word": "让自己一年涨薪两次的方法",
+      "onboard_time": 1705918530,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300349,
       "num": 300349,
       "word": "毒舌电影合伙人赵铮去世",
@@ -1833,14 +1865,6 @@
       "onboard_time": 1705760191,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 284961,
-      "num": 284961,
-      "word": "蝴蝶美甲",
-      "onboard_time": 1705917930,
-      "rank": 24,
-      "category": "美妆"
     },
     {
       "raw_hot": 283610,
@@ -1905,6 +1929,14 @@
       "onboard_time": 1705902208,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270240,
+      "num": 270240,
+      "word": "DYG官宣小义离队",
+      "onboard_time": 1705919305,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 267244,
@@ -2043,14 +2075,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 248396,
-      "num": 248396,
-      "word": "横店剧组今日现状",
-      "onboard_time": 1705917086,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 248257,
       "num": 248257,
       "word": "白鹿下雪给粉丝送豆浆",
@@ -2065,6 +2089,14 @@
       "onboard_time": 1705808846,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245106,
+      "num": 245106,
+      "word": "放寒假和男朋友像在谈异国恋",
+      "onboard_time": 1705919368,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 244969,
@@ -2371,14 +2403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213946,
-      "num": 213946,
-      "word": "让自己一年涨薪两次的方法",
-      "onboard_time": 1705918530,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 212988,
       "num": 245901,
       "word": "印度赛石宇奇男单夺冠",
@@ -2409,6 +2433,14 @@
       "onboard_time": 1705917806,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 210909,
+      "num": 210909,
+      "word": "郑钦文vs多丁",
+      "onboard_time": 1705919608,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 210706,
@@ -2521,6 +2553,14 @@
       "onboard_time": 1705847492,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204248,
+      "num": 204248,
+      "word": "田嘉瑞打雪仗白得一个AirPods",
+      "onboard_time": 1705919246,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 203896,
@@ -2915,6 +2955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187066,
+      "num": 1506470,
+      "word": "消防员归队老人拦路跪地感谢",
+      "onboard_time": 1705917027,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187054,
       "num": 187054,
       "word": "人物年度面孔",
@@ -3083,6 +3131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176888,
+      "num": 176888,
+      "word": "1只银渐层烤火变半只金渐层",
+      "onboard_time": 1705919546,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176113,
       "num": 176113,
       "word": "国产三蹦子魅力传到外国",
@@ -3227,6 +3283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170794,
+      "num": 1060052,
+      "word": "货车侧翻众人9小时帮忙搬运货物",
+      "onboard_time": 1705917027,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170538,
       "num": 170538,
       "word": "若华官配",
@@ -3321,6 +3385,14 @@
       "onboard_time": 1705902145,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164274,
+      "num": 164274,
+      "word": "2024LPL春季赛",
+      "onboard_time": 1705919487,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 163940,
@@ -3419,20 +3491,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160198,
-      "num": 1133184,
-      "word": "消防员归队老人拦路跪地感谢",
-      "onboard_time": 1705917027,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160044,
       "num": 160044,
       "word": "过年原来比想象中更花钱",
       "onboard_time": 1705915768,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159563,
+      "num": 159563,
+      "word": "老鼠都快拿到冰箱了",
+      "onboard_time": 1705918467,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 158993,
+      "num": 158993,
+      "word": "七夜雪",
+      "onboard_time": 1705919608,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 158675,
@@ -3585,14 +3665,6 @@
       "onboard_time": 1705820305,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149876,
-      "num": 149876,
-      "word": "老鼠都快拿到冰箱了",
-      "onboard_time": 1705918467,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 149675,
@@ -3851,6 +3923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141553,
+      "num": 141553,
+      "word": "雪球爆仓",
+      "onboard_time": 1705919844,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 141488,
       "num": 141488,
       "word": "基金经理集体反思",
@@ -4025,14 +4105,6 @@
       "onboard_time": 1705798104,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133972,
-      "num": 989107,
-      "word": "货车侧翻众人9小时帮忙搬运货物",
-      "onboard_time": 1705917027,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133914,
@@ -4505,6 +4577,14 @@
       "onboard_time": 1705907847,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 110069,
+      "num": 455987,
+      "word": "萌兰真不是1只八卦小熊",
+      "onboard_time": 1705919426,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109570,
@@ -4988,7 +5068,7 @@
     },
     {
       "raw_hot": 68499,
-      "num": 1081711,
+      "num": 1280166,
       "word": "争分夺秒全力以赴",
       "onboard_time": 1705908329,
       "rank": 2,
@@ -5003,20 +5083,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65869,
+      "num": 926617,
+      "word": "100秒致敬珠峰边境派出所戍边人",
+      "onboard_time": 1705917027,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 64841,
       "num": 228069,
       "word": "鸭鸭怎么可以吃鸭鸭",
       "onboard_time": 1705837767,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 62524,
-      "num": 926617,
-      "word": "100秒致敬珠峰边境派出所戍边人",
-      "onboard_time": 1705917027,
-      "rank": 6,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 58153,
