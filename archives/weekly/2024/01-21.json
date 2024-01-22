@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705887749425,
+  "endTime": 1705890949027,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -307,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 729958,
+      "num": 729958,
+      "word": "岳云鹏被金莎的爱情冲击到",
+      "onboard_time": 1705888883,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 714725,
       "num": 714725,
       "word": "勇敢的人先加王一博微信",
@@ -403,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 629371,
+      "num": 629371,
+      "word": "在东北车厘子都要裹上暖宝宝",
+      "onboard_time": 1705886904,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 626235,
       "num": 626235,
       "word": "贾玲张小斐杨紫跳舞",
@@ -491,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 549347,
+      "num": 549347,
+      "word": "瑞幸易烊千玺小卡",
+      "onboard_time": 1705886724,
+      "rank": 9,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 537417,
       "num": 211660,
       "word": "南京一商场被指贴旭日旗遭网友怒斥后撤下",
@@ -563,6 +587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 508886,
+      "num": 508886,
+      "word": "安陵容早这样后宫没一个是对手",
+      "onboard_time": 1705887683,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 507366,
       "num": 507366,
       "word": "繁花2",
@@ -627,14 +659,6 @@
       "category": "旅游,艺人"
     },
     {
-      "raw_hot": 476178,
-      "num": 476178,
-      "word": "瑞幸易烊千玺小卡",
-      "onboard_time": 1705886724,
-      "rank": 9,
-      "category": "艺人,美食"
-    },
-    {
       "raw_hot": 472033,
       "num": 472033,
       "word": "阿娇阿Sa真亲了吗",
@@ -681,6 +705,22 @@
       "onboard_time": 1705800266,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 449476,
+      "num": 449476,
+      "word": "春运抢票12306新功能汇总",
+      "onboard_time": 1705887505,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446463,
+      "num": 446463,
+      "word": "阿莫西林只对6种病症有效",
+      "onboard_time": 1705885644,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 444265,
@@ -779,6 +819,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 407038,
+      "num": 407038,
+      "word": "哈药六厂",
+      "onboard_time": 1705889906,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 406658,
       "num": 406658,
       "word": "数码宝贝 突然被刀",
@@ -819,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400885,
+      "num": 400885,
+      "word": "A股",
+      "onboard_time": 1705887683,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 400607,
       "num": 400607,
       "word": "刘涛说害怕胡歌家的七只猫",
@@ -833,14 +889,6 @@
       "onboard_time": 1705763069,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 394896,
-      "num": 394896,
-      "word": "阿莫西林只对6种病症有效",
-      "onboard_time": 1705885644,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 393391,
@@ -875,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382961,
+      "num": 382961,
+      "word": "董宇辉认证修改",
+      "onboard_time": 1705888404,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 379921,
       "num": 379921,
       "word": "大熊猫和叶因伤暂停营业",
@@ -891,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378636,
+      "num": 262344,
+      "word": "真正摧毁肾的4个行为",
+      "onboard_time": 1705887805,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 376121,
       "num": 376121,
       "word": "C罗在机场用中文打招呼",
@@ -905,6 +969,22 @@
       "onboard_time": 1705885465,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 374341,
+      "num": 374341,
+      "word": "A股有望进入交易反弹窗口期",
+      "onboard_time": 1705886307,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 374138,
+      "num": 374138,
+      "word": "上海下雪",
+      "onboard_time": 1705887865,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367364,
@@ -961,6 +1041,14 @@
       "onboard_time": 1705802967,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348560,
+      "num": 348560,
+      "word": "1米9萌兰最想删掉的视频",
+      "onboard_time": 1705888224,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348270,
@@ -1235,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269173,
+      "num": 269173,
+      "word": "起诉张雪峰博主决定撤诉",
+      "onboard_time": 1705890205,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265913,
       "num": 265913,
       "word": "南方大范围降雪进入最强时段",
@@ -1307,14 +1403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 255606,
-      "num": 255606,
-      "word": "A股有望进入交易反弹窗口期",
-      "onboard_time": 1705886307,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 255458,
       "num": 255458,
       "word": "一个月跑步10小时收益最大",
@@ -1371,14 +1459,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 242957,
-      "num": 242957,
-      "word": "在东北车厘子都要裹上暖宝宝",
-      "onboard_time": 1705886904,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 242109,
       "num": 242109,
       "word": "打工人嘴替",
@@ -1387,12 +1467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236789,
+      "num": 236789,
+      "word": "适当减少饭量可减缓衰老速度",
+      "onboard_time": 1705889726,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 235281,
       "num": 235281,
       "word": "陈若华考公失败",
       "onboard_time": 1705763670,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232514,
+      "num": 160819,
+      "word": "小姐姐分享在广州做的美甲",
+      "onboard_time": 1705888823,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 229336,
@@ -1577,6 +1673,14 @@
       "onboard_time": 1705807470,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 210193,
+      "num": 210193,
+      "word": "边伯贤将3月举行演唱会",
+      "onboard_time": 1705890145,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 206922,
@@ -2099,6 +2203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166973,
+      "num": 166973,
+      "word": "广西广东等地将有大到暴雪",
+      "onboard_time": 1705890205,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166082,
       "num": 166082,
       "word": "C罗坐的包机里面长这样",
@@ -2523,14 +2635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134964,
-      "num": 134964,
-      "word": "A股",
-      "onboard_time": 1705887683,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 134050,
       "num": 134050,
       "word": "张韶涵27场演唱会收官",
@@ -2593,6 +2697,14 @@
       "onboard_time": 1705802187,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132226,
+      "num": 132226,
+      "word": "杜兰特质问为何不在GOAT讨论中",
+      "onboard_time": 1705890564,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 130887,
@@ -2707,12 +2819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126710,
-      "num": 126710,
-      "word": "春运抢票12306新功能汇总",
-      "onboard_time": 1705887505,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 126762,
+      "num": 126762,
+      "word": "N1出成绩",
+      "onboard_time": 1705890264,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 125953,
@@ -2827,6 +2939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 115949,
+      "num": 115949,
+      "word": "国足再迎亚洲杯生死战",
+      "onboard_time": 1705887805,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115073,
       "num": 115073,
       "word": "大学生寒假穿搭有多接地气",
@@ -2905,6 +3025,14 @@
       "onboard_time": 1705807284,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109341,
+      "num": 109341,
+      "word": "许凯认证周历杰身高179",
+      "onboard_time": 1705889546,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 108448,
@@ -3033,14 +3161,6 @@
       "onboard_time": 1705824506,
       "rank": 34,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 102191,
-      "num": 102191,
-      "word": "安陵容早这样后宫没一个是对手",
-      "onboard_time": 1705887683,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 101963,
