@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705908855960,
+  "endTime": 1705911854900,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -83,6 +83,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1548336,
+      "num": 395483,
+      "word": "江疏影",
+      "onboard_time": 1705909709,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1463346,
+      "num": 386485,
+      "word": "A股大跌",
+      "onboard_time": 1705909587,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1453093,
       "num": 1453093,
       "word": "研究生劳务费",
@@ -137,6 +153,14 @@
       "onboard_time": 1705752390,
       "rank": 0,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1227956,
+      "num": 1227956,
+      "word": "多位明星参演电影涉影视投资诈骗案",
+      "onboard_time": 1705907186,
+      "rank": 13,
+      "category": "社会新闻,电影"
     },
     {
       "raw_hot": 1160802,
@@ -379,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 813219,
-      "num": 813219,
-      "word": "多位明星参演电影涉影视投资诈骗案",
-      "onboard_time": 1705907186,
-      "rank": 13,
-      "category": "社会新闻,电影"
-    },
-    {
       "raw_hot": 810886,
       "num": 810886,
       "word": "徕芬",
@@ -459,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 723437,
+      "num": 723437,
+      "word": "申万回应江疏影雪球爆仓来到公司",
+      "onboard_time": 1705909226,
+      "rank": 3,
+      "category": "财经,艺人"
+    },
+    {
       "raw_hot": 714725,
       "num": 714725,
       "word": "勇敢的人先加王一博微信",
@@ -505,6 +529,14 @@
       "onboard_time": 1705805006,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 679033,
+      "num": 679033,
+      "word": "阿莫西林滥用现象严重",
+      "onboard_time": 1705909828,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 672128,
@@ -707,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533156,
+      "num": 268490,
+      "word": "高铁上拒绝了带娃女士的让座要求",
+      "onboard_time": 1705908508,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 531098,
       "num": 531098,
       "word": "俄罗斯航空公布阿富汗失事飞机细节",
@@ -811,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 503718,
+      "num": 503718,
+      "word": "NewJeans被错认电子厂厂花",
+      "onboard_time": 1705910906,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 500491,
       "num": 500491,
       "word": "彩礼的本质",
@@ -883,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 480153,
+      "num": 480153,
+      "word": "郭敬明 大梦归离有自己的小时代",
+      "onboard_time": 1705910547,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 479085,
       "num": 479085,
       "word": "董宇辉建议俞敏洪拍中国合伙人2",
@@ -905,6 +961,14 @@
       "onboard_time": 1705898129,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472234,
+      "num": 373397,
+      "word": "慈母多败咪",
+      "onboard_time": 1705910670,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 472033,
@@ -1105,6 +1169,14 @@
       "onboard_time": 1705813649,
       "rank": 16,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 406825,
+      "num": 366698,
+      "word": "雪球",
+      "onboard_time": 1705911087,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 406658,
@@ -1435,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329119,
+      "num": 295219,
+      "word": "基金",
+      "onboard_time": 1705909885,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 328546,
       "num": 248309,
       "word": "专家建议冬季每周洗澡1到2次",
@@ -1555,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297725,
+      "num": 297725,
+      "word": "阿祖你 我哭死",
+      "onboard_time": 1705910488,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293733,
       "num": 244225,
       "word": "食物语手游",
@@ -1577,6 +1665,14 @@
       "onboard_time": 1705850967,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 286938,
+      "num": 286938,
+      "word": "Hero再无久字辈",
+      "onboard_time": 1705910129,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 285075,
@@ -1683,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264822,
+      "num": 264822,
+      "word": "钟楚曦认证侯雯元挺温柔的",
+      "onboard_time": 1705911687,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264331,
       "num": 264331,
       "word": "王者荣耀刘慈欣平行世界",
@@ -1721,14 +1825,6 @@
       "onboard_time": 1705807709,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 256863,
-      "num": 193352,
-      "word": "高铁上拒绝了带娃女士的让座要求",
-      "onboard_time": 1705908508,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 256806,
@@ -1841,6 +1937,14 @@
       "onboard_time": 1705890145,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237838,
+      "num": 237838,
+      "word": "下班后就不要联系我了",
+      "onboard_time": 1705908207,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 235861,
@@ -1995,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219323,
+      "num": 219323,
+      "word": "过年前最离不开的软件",
+      "onboard_time": 1705910248,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 218382,
       "num": 218382,
       "word": "史铁生的一生是震撼我的",
@@ -2083,6 +2195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 211828,
+      "num": 211828,
+      "word": "抗震小英雄林浩宣布结婚",
+      "onboard_time": 1705910787,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211364,
       "num": 211364,
       "word": "水果摊上28元能买到一盒车厘子",
@@ -2097,6 +2217,14 @@
       "onboard_time": 1705847131,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210700,
+      "num": 210700,
+      "word": "实习第一年要给家里钱吗",
+      "onboard_time": 1705909828,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 210243,
@@ -2121,6 +2249,14 @@
       "onboard_time": 1705902927,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207824,
+      "num": 207824,
+      "word": "杨紫拼接长裙",
+      "onboard_time": 1705911447,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207480,
@@ -2459,12 +2595,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191803,
+      "num": 191803,
+      "word": "小米官方辟谣澎湃OS是自研系统",
+      "onboard_time": 1705909465,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 190885,
       "num": 190885,
       "word": "速效救心丸和硝酸甘油 谁更有用",
       "onboard_time": 1705815987,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190637,
+      "num": 190637,
+      "word": "打雪仗",
+      "onboard_time": 1705910729,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 190497,
+      "num": 190497,
+      "word": "苏州KSG转会公告",
+      "onboard_time": 1705911506,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 190107,
@@ -2507,6 +2667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 188173,
+      "num": 188173,
+      "word": "抑郁的11个隐形信号",
+      "onboard_time": 1705910067,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 187223,
       "num": 187223,
       "word": "2024KPL春季赛赛程",
@@ -2537,6 +2705,14 @@
       "onboard_time": 1705907665,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 183781,
+      "num": 183781,
+      "word": "杨紫大衣围巾氛围感",
+      "onboard_time": 1705909587,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 183160,
@@ -2617,6 +2793,14 @@
       "onboard_time": 1705838667,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178643,
+      "num": 178643,
+      "word": "A股创调整新低",
+      "onboard_time": 1705911025,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 178226,
@@ -2745,14 +2929,6 @@
       "onboard_time": 1705830447,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171706,
-      "num": 171706,
-      "word": "下班后就不要联系我了",
-      "onboard_time": 1705908207,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 171093,
@@ -3081,6 +3257,14 @@
       "onboard_time": 1705820305,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149675,
+      "num": 149675,
+      "word": "WBG老板回应设计师言论",
+      "onboard_time": 1705908686,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 149481,
@@ -3531,6 +3715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129344,
+      "num": 129344,
+      "word": "当初为什么把小猫带回了家",
+      "onboard_time": 1705911147,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129319,
       "num": 129319,
       "word": "仙剑之父转发仙剑四微博",
@@ -3675,6 +3867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123640,
+      "num": 123640,
+      "word": "云南昭通山体滑坡已致3人遇难",
+      "onboard_time": 1705911809,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123576,
       "num": 123576,
       "word": "TTG九尾断开连接",
@@ -3715,6 +3915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121045,
+      "num": 121045,
+      "word": "老外对中餐没有概念",
+      "onboard_time": 1705911447,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 121041,
       "num": 121041,
       "word": "电视剧要久久爱",
@@ -3753,14 +3961,6 @@
       "onboard_time": 1705832666,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119140,
-      "num": 119140,
-      "word": "WBG老板回应设计师言论",
-      "onboard_time": 1705908686,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 118199,
@@ -4379,6 +4579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68499,
+      "num": 822521,
+      "word": "争分夺秒全力以赴",
+      "onboard_time": 1705908329,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67607,
       "num": 77064,
       "word": "文俊辉直播",
@@ -4393,14 +4601,6 @@
       "onboard_time": 1705837767,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 63646,
-      "num": 822521,
-      "word": "争分夺秒全力以赴",
-      "onboard_time": 1705908329,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58153,
