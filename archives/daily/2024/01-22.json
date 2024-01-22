@@ -1,6 +1,6 @@
 {
   "startTime": 1705854115620,
-  "endTime": 1705936781039,
+  "endTime": 1705937689725,
   "band_list": [
     {
       "raw_hot": 2678805,
@@ -107,8 +107,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1308551,
-      "num": 1308551,
+      "raw_hot": 1334611,
+      "num": 1334611,
       "word": "老干妈回应被辛巴称为是预制菜",
       "onboard_time": 1705933050,
       "rank": 49,
@@ -259,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 870625,
+      "num": 870625,
+      "word": "国足vs卡塔尔",
+      "onboard_time": 1705933828,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 851121,
       "num": 851121,
       "word": "大哥收购2千万根苹果枝身价翻10倍",
@@ -281,14 +289,6 @@
       "onboard_time": 1705914024,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 823147,
-      "num": 823147,
-      "word": "国足vs卡塔尔",
-      "onboard_time": 1705933828,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 818534,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 701989,
+      "num": 701989,
+      "word": "三亚沙滩现多起剧毒僧帽水母伤人事件",
+      "onboard_time": 1705931426,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672082,
       "num": 454668,
       "word": "雪球",
@@ -497,14 +505,6 @@
       "onboard_time": 1705912947,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 579167,
-      "num": 579167,
-      "word": "三亚沙滩现多起剧毒僧帽水母伤人事件",
-      "onboard_time": 1705931426,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 573719,
@@ -979,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358216,
+      "num": 358216,
+      "word": "湖人交易",
+      "onboard_time": 1705936049,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356082,
       "num": 356082,
       "word": "横店剧组今日现状",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1705914929,
       "rank": 30,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 319600,
+      "num": 319600,
+      "word": "统计造假是统计领域最大的腐败",
+      "onboard_time": 1705932507,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319565,
@@ -1467,14 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235519,
-      "num": 235519,
-      "word": "湖人交易",
-      "onboard_time": 1705936049,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233071,
       "num": 207235,
       "word": "未定事件簿仙侠主题预告",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1705920750,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 228454,
-      "num": 228454,
-      "word": "统计造假是统计领域最大的腐败",
-      "onboard_time": 1705932507,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224591,
@@ -2123,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170341,
+      "num": 170341,
+      "word": "一个人爱你的最高形式",
+      "onboard_time": 1705935149,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170148,
       "num": 170148,
       "word": "狗 冒昧的人类",
@@ -2233,14 +2241,6 @@
       "onboard_time": 1705929508,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 164519,
-      "num": 164519,
-      "word": "一个人爱你的最高形式",
-      "onboard_time": 1705935149,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 164274,
@@ -2425,6 +2425,22 @@
       "onboard_time": 1705924168,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153541,
+      "num": 153541,
+      "word": "ioi圣诞合体",
+      "onboard_time": 1705936588,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153227,
+      "num": 153227,
+      "word": "雷东宝你干嘛啊",
+      "onboard_time": 1705936887,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 152700,
@@ -2787,14 +2803,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 131701,
-      "num": 131701,
-      "word": "ioi圣诞合体",
-      "onboard_time": 1705936588,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 131502,
       "num": 131502,
       "word": "60岁以上老人优先下铺",
@@ -2891,6 +2899,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 126144,
+      "num": 126144,
+      "word": "小米公布SU7设计稿",
+      "onboard_time": 1705934307,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 125763,
       "num": 125763,
       "word": "BLG春季赛首胜",
@@ -2915,6 +2931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121205,
+      "num": 121205,
+      "word": "你平时会接受预制菜吗",
+      "onboard_time": 1705936829,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 121172,
       "num": 121172,
       "word": "原神",
@@ -2929,14 +2953,6 @@
       "onboard_time": 1705911447,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 120084,
-      "num": 120084,
-      "word": "小米公布SU7设计稿",
-      "onboard_time": 1705934307,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 120044,
@@ -3105,6 +3121,14 @@
       "onboard_time": 1705891885,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102982,
+      "num": 102982,
+      "word": "为什么每次洗澡身上都有泥可搓",
+      "onboard_time": 1705937666,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 102503,
