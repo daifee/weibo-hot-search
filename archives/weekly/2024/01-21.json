@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705919892220,
+  "endTime": 1705922169574,
   "band_list": [
     {
       "raw_hot": 2678805,
@@ -73,6 +73,14 @@
       "onboard_time": 1705845211,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1718960,
+      "num": 1718960,
+      "word": "男生表白失败坠楼家属向多方索赔127万",
+      "onboard_time": 1705915946,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1655577,
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774498,
+      "num": 774498,
+      "word": "雪球爆仓",
+      "onboard_time": 1705919844,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 770390,
       "num": 770390,
       "word": "会中文的韩国人和中国人都沉默了",
@@ -563,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 711401,
-      "num": 711401,
-      "word": "男生表白失败坠楼家属向多方索赔127万",
-      "onboard_time": 1705915946,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 709587,
       "num": 709587,
       "word": "通勤婚姻",
@@ -601,6 +609,14 @@
       "onboard_time": 1705805006,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678395,
+      "num": 678395,
+      "word": "品牌方已向刘诗诗道歉",
+      "onboard_time": 1705920507,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 672128,
@@ -1859,6 +1875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 285398,
+      "num": 455987,
+      "word": "萌兰真不是1只八卦小熊",
+      "onboard_time": 1705919426,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285075,
       "num": 240371,
       "word": "原来iPhone18离我们越来越近了",
@@ -1995,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261802,
+      "num": 261802,
+      "word": "为什么总是女厕所排队长",
+      "onboard_time": 1705920328,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258164,
       "num": 258164,
       "word": "公交车上踩掉大爷的新鞋",
@@ -2073,6 +2105,14 @@
       "onboard_time": 1705889726,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 248476,
+      "num": 248476,
+      "word": "锦衣之下湖南卫视温暖重映",
+      "onboard_time": 1705921527,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 248257,
@@ -2209,6 +2249,14 @@
       "onboard_time": 1705893865,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230845,
+      "num": 230845,
+      "word": "杭州一小学取消寒假作业",
+      "onboard_time": 1705920750,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 229336,
@@ -2473,6 +2521,14 @@
       "onboard_time": 1705902927,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207768,
+      "num": 2132273,
+      "word": "货车侧翻众人9小时帮忙搬运货物",
+      "onboard_time": 1705917027,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207480,
@@ -2915,6 +2971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190049,
+      "num": 190049,
+      "word": "1只银渐层烤火变半只金渐层",
+      "onboard_time": 1705919546,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190017,
       "num": 190017,
       "word": "陈朗悼夫文",
@@ -3131,14 +3195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 176888,
-      "num": 176888,
-      "word": "1只银渐层烤火变半只金渐层",
-      "onboard_time": 1705919546,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176113,
       "num": 176113,
       "word": "国产三蹦子魅力传到外国",
@@ -3281,14 +3337,6 @@
       "onboard_time": 1705816646,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170794,
-      "num": 1060052,
-      "word": "货车侧翻众人9小时帮忙搬运货物",
-      "onboard_time": 1705917027,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170538,
@@ -3619,11 +3667,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 154632,
+      "num": 154632,
+      "word": "小米超越苹果登顶中国第一",
+      "onboard_time": 1705922126,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 154244,
       "num": 154244,
       "word": "这哪是导师明明是阴阳师",
       "onboard_time": 1705762770,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 152700,
+      "num": 152700,
+      "word": "高铁上不愿意换座就骂我倔",
+      "onboard_time": 1705920750,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -3787,6 +3851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144823,
+      "num": 144823,
+      "word": "澳网",
+      "onboard_time": 1705921109,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144808,
       "num": 144808,
       "word": "谈感情可以谈钱没门",
@@ -3923,14 +3995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141553,
-      "num": 141553,
-      "word": "雪球爆仓",
-      "onboard_time": 1705919844,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 141488,
       "num": 141488,
       "word": "基金经理集体反思",
@@ -3969,6 +4033,14 @@
       "onboard_time": 1705884089,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139989,
+      "num": 139989,
+      "word": "快乐星球4的男主是女生演的",
+      "onboard_time": 1705921468,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 139658,
@@ -4067,6 +4139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135676,
+      "num": 135676,
+      "word": "要久久爱金世佳杨紫对手戏",
+      "onboard_time": 1705919906,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135163,
       "num": 135163,
       "word": "中国队又包揽一场金银牌",
@@ -4088,6 +4168,14 @@
       "word": "什么是雪球产品",
       "onboard_time": 1705914809,
       "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 134624,
+      "num": 134624,
+      "word": "抖音回应放贷余额近4000亿元",
+      "onboard_time": 1705921947,
+      "rank": 44,
       "category": "财经"
     },
     {
@@ -4113,6 +4201,14 @@
       "onboard_time": 1705792156,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133799,
+      "num": 133799,
+      "word": "年会赚的钱比年终奖还多",
+      "onboard_time": 1705921825,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 133778,
@@ -4579,14 +4675,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 110069,
-      "num": 455987,
-      "word": "萌兰真不是1只八卦小熊",
-      "onboard_time": 1705919426,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109570,
       "num": 109570,
       "word": "盐卤牛肉",
@@ -4729,6 +4817,14 @@
       "onboard_time": 1705891885,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103946,
+      "num": 248872,
+      "word": "七仔滚了一身炸裂糖霜",
+      "onboard_time": 1705922004,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103387,
@@ -5068,7 +5164,7 @@
     },
     {
       "raw_hot": 68499,
-      "num": 1280166,
+      "num": 1726674,
       "word": "争分夺秒全力以赴",
       "onboard_time": 1705908329,
       "rank": 2,
