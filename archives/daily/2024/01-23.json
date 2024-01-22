@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705943799683,
+  "endTime": 1705944854448,
   "band_list": [
     {
       "raw_hot": 1669576,
@@ -40,6 +40,14 @@
       "word": "国足末轮生死战",
       "onboard_time": 1705925009,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 469594,
+      "num": 469594,
+      "word": "亚洲杯国足出线概率",
+      "onboard_time": 1705942883,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -107,14 +115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 352059,
-      "num": 352059,
-      "word": "亚洲杯国足出线概率",
-      "onboard_time": 1705942883,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 321827,
       "num": 261207,
       "word": "俞敏洪让董宇辉改认证",
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198801,
+      "num": 198801,
+      "word": "汪海林称不要说中国电影跟中国男足一样了",
+      "onboard_time": 1705940664,
+      "rank": 31,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 186201,
       "num": 186201,
       "word": "董宇辉封神名场面",
@@ -203,14 +211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178469,
-      "num": 178469,
-      "word": "汪海林称不要说中国电影跟中国男足一样了",
-      "onboard_time": 1705940664,
-      "rank": 31,
-      "category": "作品衍生,体育"
-    },
-    {
       "raw_hot": 161207,
       "num": 161207,
       "word": "友情断层",
@@ -233,6 +233,14 @@
       "onboard_time": 1705930827,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141958,
+      "num": 141958,
+      "word": "秀丽抽烟",
+      "onboard_time": 1705943122,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137845,
@@ -443,20 +451,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 63723,
-      "num": 63723,
-      "word": "秀丽抽烟",
-      "onboard_time": 1705943122,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 52361,
       "num": 52361,
       "word": "小米超越苹果登顶中国第一",
       "onboard_time": 1705922126,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 50876,
+      "num": 50876,
+      "word": "吴磊这个抬眼的杀伤力",
+      "onboard_time": 1705944738,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 41834,

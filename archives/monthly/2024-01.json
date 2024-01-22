@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705943799683,
+  "endTime": 1705944854448,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -15635,6 +15635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469594,
+      "num": 469594,
+      "word": "亚洲杯国足出线概率",
+      "onboard_time": 1705942883,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 469206,
       "num": 284197,
       "word": "爸爸在我结婚前突然后悔了",
@@ -20465,14 +20473,6 @@
       "onboard_time": 1705395090,
       "rank": 21,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 352059,
-      "num": 352059,
-      "word": "亚洲杯国足出线概率",
-      "onboard_time": 1705942883,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 352038,
@@ -34307,6 +34307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198801,
+      "num": 198801,
+      "word": "汪海林称不要说中国电影跟中国男足一样了",
+      "onboard_time": 1705940664,
+      "rank": 31,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 198788,
       "num": 198788,
       "word": "33诚C汇合AG",
@@ -38969,14 +38977,6 @@
       "onboard_time": 1704774697,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 178469,
-      "num": 178469,
-      "word": "汪海林称不要说中国电影跟中国男足一样了",
-      "onboard_time": 1705940664,
-      "rank": 31,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 178408,
@@ -47425,6 +47425,14 @@
       "onboard_time": 1704228553,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141958,
+      "num": 141958,
+      "word": "秀丽抽烟",
+      "onboard_time": 1705943122,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141912,
@@ -58403,14 +58411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63723,
-      "num": 63723,
-      "word": "秀丽抽烟",
-      "onboard_time": 1705943122,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 63535,
       "num": 143521,
       "word": "周杰伦启源",
@@ -59177,6 +59177,14 @@
       "onboard_time": 1704151225,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50876,
+      "num": 50876,
+      "word": "吴磊这个抬眼的杀伤力",
+      "onboard_time": 1705944738,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 50800,
