@@ -1,6 +1,6 @@
 {
   "startTime": 1705854115620,
-  "endTime": 1705893592456,
+  "endTime": 1705894453443,
   "band_list": [
     {
       "raw_hot": 2024924,
@@ -27,11 +27,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1163225,
-      "num": 1163225,
+      "raw_hot": 1289201,
+      "num": 1289201,
       "word": "云南昭通山体滑坡44人被埋",
       "onboard_time": 1705892126,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1260942,
+      "num": 1260942,
+      "word": "小红书博主引导网友穿越军事重地",
+      "onboard_time": 1705891225,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -67,20 +75,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 813254,
+      "num": 813254,
+      "word": "深圳队宣布解散",
+      "onboard_time": 1705892245,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 792801,
       "num": 792801,
       "word": "关于六寸蛋糕放5斤车厘子这件事",
       "onboard_time": 1705845211,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 775861,
-      "num": 775861,
-      "word": "小红书博主引导网友穿越军事重地",
-      "onboard_time": 1705891225,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 756742,
@@ -97,14 +105,6 @@
       "onboard_time": 1705849768,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 697630,
-      "num": 697630,
-      "word": "深圳队宣布解散",
-      "onboard_time": 1705892245,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 629371,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264331,
+      "num": 264331,
+      "word": "王者荣耀刘慈欣平行世界",
+      "onboard_time": 1705892786,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263132,
       "num": 225787,
       "word": "演员陶昕然在零下25度的崇礼拍大片",
@@ -483,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222775,
+      "num": 222775,
+      "word": "祈今朝男小三",
+      "onboard_time": 1705893626,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218382,
       "num": 218382,
       "word": "史铁生的一生是震撼我的",
@@ -497,14 +513,6 @@
       "onboard_time": 1705851028,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213024,
-      "num": 213024,
-      "word": "王者荣耀刘慈欣平行世界",
-      "onboard_time": 1705892786,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 212068,
@@ -635,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166292,
+      "num": 166292,
+      "word": "下雪文案",
+      "onboard_time": 1705894226,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165670,
       "num": 165670,
       "word": "黄瀛子为了看蒋翼女朋友抢捧花",
@@ -643,12 +659,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163940,
+      "num": 163940,
+      "word": "吴晓求回应为何A股跌个不停",
+      "onboard_time": 1705892846,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 160182,
+      "num": 160182,
+      "word": "云南镇雄突发山体滑坡47人被埋",
+      "onboard_time": 1705894286,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158518,
       "num": 158518,
       "word": "官方通报大学生夜游网红火车站严重烧伤",
       "onboard_time": 1705837526,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157040,
+      "num": 157040,
+      "word": "总结一下AI不能取代我的原因",
+      "onboard_time": 1705893686,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 156349,
@@ -675,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149490,
+      "num": 149490,
+      "word": "数码宝贝 把眼泪还回来",
+      "onboard_time": 1705893807,
+      "rank": 37,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 149481,
       "num": 149481,
       "word": "檀健次喊你游广西",
@@ -697,14 +745,6 @@
       "onboard_time": 1705834226,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143237,
-      "num": 143237,
-      "word": "吴晓求回应为何A股跌个不停",
-      "onboard_time": 1705892846,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 141488,
@@ -761,6 +801,14 @@
       "onboard_time": 1705891824,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131127,
+      "num": 131127,
+      "word": "世界之外 体力少",
+      "onboard_time": 1705894047,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 130823,
@@ -827,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120044,
+      "num": 120044,
+      "word": "岚图与华为签署战略合作协议",
+      "onboard_time": 1705894226,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 115949,
       "num": 115949,
       "word": "国足再迎亚洲杯生死战",
@@ -851,12 +907,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114138,
+      "num": 114138,
+      "word": "陆沉缄声之约",
+      "onboard_time": 1705894167,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113380,
       "num": 113380,
       "word": "幻兽帕鲁销量突破400万",
       "onboard_time": 1705884386,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112163,
+      "num": 112163,
+      "word": "华中农大被举报教授克扣研究生劳务费",
+      "onboard_time": 1705894405,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109863,
@@ -921,6 +993,14 @@
       "onboard_time": 1705878978,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99862,
+      "num": 1274132,
+      "word": "南方多地迎降雪",
+      "onboard_time": 1705893865,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99303,
