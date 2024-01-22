@@ -1,13 +1,21 @@
 {
   "startTime": 1705854115620,
-  "endTime": 1705891531435,
+  "endTime": 1705893592456,
   "band_list": [
     {
-      "raw_hot": 1977239,
-      "num": 1977239,
+      "raw_hot": 2024924,
+      "num": 2024924,
       "word": "下雪",
       "onboard_time": 1705883245,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1923835,
+      "num": 568983,
+      "word": "火灾遇难学生遗体呈躺睡状态",
+      "onboard_time": 1705891225,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -17,6 +25,14 @@
       "onboard_time": 1705884266,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1163225,
+      "num": 1163225,
+      "word": "云南昭通山体滑坡44人被埋",
+      "onboard_time": 1705892126,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1026719,
@@ -43,8 +59,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 795971,
-      "num": 795971,
+      "raw_hot": 818534,
+      "num": 818534,
       "word": "岳云鹏被金莎的爱情冲击到",
       "onboard_time": 1705888883,
       "rank": 3,
@@ -59,6 +75,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 775861,
+      "num": 775861,
+      "word": "小红书博主引导网友穿越军事重地",
+      "onboard_time": 1705891225,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756742,
+      "num": 756742,
+      "word": "哈药六厂",
+      "onboard_time": 1705889906,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 703058,
       "num": 703058,
       "word": "会中文的韩国人和中国人都沉默了",
@@ -67,12 +99,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 656702,
-      "num": 656702,
-      "word": "哈药六厂",
-      "onboard_time": 1705889906,
-      "rank": 13,
-      "category": "旅游"
+      "raw_hot": 697630,
+      "num": 697630,
+      "word": "深圳队宣布解散",
+      "onboard_time": 1705892245,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 629371,
@@ -89,6 +121,14 @@
       "onboard_time": 1705880421,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 603511,
+      "num": 603511,
+      "word": "安陵容早这样后宫没一个是对手",
+      "onboard_time": 1705887683,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 600916,
@@ -113,14 +153,6 @@
       "onboard_time": 1705849711,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 568271,
-      "num": 568271,
-      "word": "安陵容早这样后宫没一个是对手",
-      "onboard_time": 1705887683,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 549347,
@@ -195,19 +227,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 421423,
+      "num": 421423,
+      "word": "起诉张雪峰博主决定撤诉",
+      "onboard_time": 1705890205,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412278,
       "num": 412278,
       "word": "国家卫健委要求加强出生证管理",
       "onboard_time": 1705883904,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406116,
-      "num": 406116,
-      "word": "起诉张雪峰博主决定撤诉",
-      "onboard_time": 1705890205,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -289,14 +321,6 @@
       "onboard_time": 1705886307,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 368447,
-      "num": 368447,
-      "word": "火灾遇难学生遗体呈躺睡状态",
-      "onboard_time": 1705891225,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368373,
@@ -435,8 +459,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 235861,
+      "num": 235861,
+      "word": "方城起火宿舍疑为教室改建",
+      "onboard_time": 1705892962,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232514,
-      "num": 160819,
+      "num": 210712,
       "word": "小姐姐分享在广州做的美甲",
       "onboard_time": 1705888823,
       "rank": 30,
@@ -451,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218382,
+      "num": 218382,
+      "word": "史铁生的一生是震撼我的",
+      "onboard_time": 1705891585,
+      "rank": 26,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 214065,
       "num": 214065,
       "word": "袁咏仪演甄嬛胖橘都活不过两集",
@@ -459,12 +499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213024,
+      "num": 213024,
+      "word": "王者荣耀刘慈欣平行世界",
+      "onboard_time": 1705892786,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212068,
       "num": 212068,
       "word": "阿富汗坠机事件中有4人生还",
       "onboard_time": 1705883488,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 209980,
+      "num": 209980,
+      "word": "董宇辉获2023中国品牌人物500强前十",
+      "onboard_time": 1705892004,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 206960,
@@ -483,12 +539,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202632,
+      "num": 202632,
+      "word": "湖南文旅摇来了成毅",
+      "onboard_time": 1705893386,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201691,
       "num": 201691,
       "word": "广西广东等地将有大到暴雪",
       "onboard_time": 1705890205,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201112,
+      "num": 201112,
+      "word": "哥斯拉大战金刚2内地定档",
+      "onboard_time": 1705892547,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 199482,
@@ -513,6 +585,14 @@
       "onboard_time": 1705848990,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187054,
+      "num": 187054,
+      "word": "人物年度面孔",
+      "onboard_time": 1705892423,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185501,
@@ -595,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149481,
+      "num": 149481,
+      "word": "檀健次喊你游广西",
+      "onboard_time": 1705892727,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148298,
       "num": 148298,
       "word": "谷爱凌 感谢支持和喜爱",
@@ -609,6 +697,22 @@
       "onboard_time": 1705834226,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143237,
+      "num": 143237,
+      "word": "吴晓求回应为何A股跌个不停",
+      "onboard_time": 1705892846,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 141488,
+      "num": 141488,
+      "word": "基金经理集体反思",
+      "onboard_time": 1705891706,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 140304,
@@ -649,6 +753,14 @@
       "onboard_time": 1705851388,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131502,
+      "num": 131502,
+      "word": "60岁以上老人优先下铺",
+      "onboard_time": 1705891824,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130823,
@@ -771,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108414,
+      "num": 108414,
+      "word": "春运返程放空列车有2折以下低价票",
+      "onboard_time": 1705891527,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106111,
       "num": 106111,
       "word": "没见过这么社死的女主角",
@@ -785,6 +905,14 @@
       "onboard_time": 1705879401,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104048,
+      "num": 104048,
+      "word": "每一块砖都有了自己的皮肤",
+      "onboard_time": 1705891885,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 100352,
@@ -833,14 +961,6 @@
       "onboard_time": 1705828645,
       "rank": 43,
       "category": "作品衍生,综艺"
-    },
-    {
-      "raw_hot": 96937,
-      "num": 96937,
-      "word": "小红书博主引导网友穿越军事重地",
-      "onboard_time": 1705891225,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95284,
@@ -1033,6 +1153,14 @@
       "onboard_time": 1705872973,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 11848,
+      "num": 946884,
+      "word": "千年前的双鱼瓶藏着满满美好祝福",
+      "onboard_time": 1705893386,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11235,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1705893592456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2024924,
+        "num": 2024924,
+        "word": "下雪",
+        "onboard_time": 1705883245,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163225,
+        "num": 1163225,
+        "word": "云南昭通山体滑坡44人被埋",
+        "onboard_time": 1705892126,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11848,
+        "num": 946884,
+        "word": "千年前的双鱼瓶藏着满满美好祝福",
+        "onboard_time": 1705893386,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867651,
+        "num": 867651,
+        "word": "研究生劳务费",
+        "onboard_time": 1705884266,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 818534,
+        "num": 818534,
+        "word": "岳云鹏被金莎的爱情冲击到",
+        "onboard_time": 1705888883,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 775861,
+        "num": 775861,
+        "word": "小红书博主引导网友穿越军事重地",
+        "onboard_time": 1705891225,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756742,
+        "num": 756742,
+        "word": "哈药六厂",
+        "onboard_time": 1705889906,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 697630,
+        "num": 697630,
+        "word": "深圳队宣布解散",
+        "onboard_time": 1705892245,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 643062,
+        "num": 643062,
+        "word": "微信红包并非转账认定赠与无需返还",
+        "onboard_time": 1705839807,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603511,
+        "num": 603511,
+        "word": "安陵容早这样后宫没一个是对手",
+        "onboard_time": 1705887683,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1923835,
+        "num": 568983,
+        "word": "火灾遇难学生遗体呈躺睡状态",
+        "onboard_time": 1705891225,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421423,
+        "num": 421423,
+        "word": "起诉张雪峰博主决定撤诉",
+        "onboard_time": 1705890205,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353730,
+        "num": 353730,
+        "word": "上海下雪",
+        "onboard_time": 1705887865,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349632,
+        "num": 349632,
+        "word": "关于六寸蛋糕放5斤车厘子这件事",
+        "onboard_time": 1705845211,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332418,
+        "num": 332418,
+        "word": "鸡 你有没有为一块猪油拼过命",
+        "onboard_time": 1705881444,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301812,
+        "num": 301812,
+        "word": "在东北车厘子都要裹上暖宝宝",
+        "onboard_time": 1705886904,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 293637,
+        "num": 293637,
+        "word": "春运抢票12306新功能汇总",
+        "onboard_time": 1705887505,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275591,
+        "num": 275591,
+        "word": "A股",
+        "onboard_time": 1705887683,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 272864,
+        "num": 272864,
+        "word": "董宇辉认证修改",
+        "onboard_time": 1705888404,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 266358,
+        "num": 266358,
+        "word": "郎朗回应58岁建筑工人钢琴之约",
+        "onboard_time": 1705879339,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 47661,
+        "num": 241603,
+        "word": "当江浙沪遇上了古诗词",
+        "onboard_time": 1705845330,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339338,
+        "num": 239964,
+        "word": "真正摧毁肾的4个行为",
+        "onboard_time": 1705887805,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 236875,
+        "num": 236875,
+        "word": "适当减少饭量可减缓衰老速度",
+        "onboard_time": 1705889726,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235861,
+        "num": 235861,
+        "word": "方城起火宿舍疑为教室改建",
+        "onboard_time": 1705892962,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231346,
+        "num": 231346,
+        "word": "1米9萌兰最想删掉的视频",
+        "onboard_time": 1705888224,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229971,
+        "num": 229971,
+        "word": "阿莫西林只对6种病症有效",
+        "onboard_time": 1705885644,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218382,
+        "num": 218382,
+        "word": "史铁生的一生是震撼我的",
+        "onboard_time": 1705891585,
+        "rank": 26,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 213024,
+        "num": 213024,
+        "word": "王者荣耀刘慈欣平行世界",
+        "onboard_time": 1705892786,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210712,
+        "num": 210712,
+        "word": "小姐姐分享在广州做的美甲",
+        "onboard_time": 1705888823,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 209980,
+        "num": 209980,
+        "word": "董宇辉获2023中国品牌人物500强前十",
+        "onboard_time": 1705892004,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202632,
+        "num": 202632,
+        "word": "湖南文旅摇来了成毅",
+        "onboard_time": 1705893386,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201112,
+        "num": 201112,
+        "word": "哥斯拉大战金刚2内地定档",
+        "onboard_time": 1705892547,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187054,
+        "num": 187054,
+        "word": "人物年度面孔",
+        "onboard_time": 1705892423,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187053,
+        "num": 187053,
+        "word": "广西广东等地将有大到暴雪",
+        "onboard_time": 1705890205,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154981,
+        "num": 154981,
+        "word": "边伯贤将3月举行演唱会",
+        "onboard_time": 1705890145,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153841,
+        "num": 153841,
+        "word": "wife歌词",
+        "onboard_time": 1705880001,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151160,
+        "num": 151160,
+        "word": "女孩把馒头做成带馅的1天卖500个",
+        "onboard_time": 1705848749,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149481,
+        "num": 149481,
+        "word": "檀健次喊你游广西",
+        "onboard_time": 1705892727,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147810,
+        "num": 147810,
+        "word": "A股有望进入交易反弹窗口期",
+        "onboard_time": 1705886307,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143237,
+        "num": 143237,
+        "word": "吴晓求回应为何A股跌个不停",
+        "onboard_time": 1705892846,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141488,
+        "num": 141488,
+        "word": "基金经理集体反思",
+        "onboard_time": 1705891706,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139777,
+        "num": 139777,
+        "word": "吴彦祖 亚裔芭比刻板印象",
+        "onboard_time": 1705882043,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131502,
+        "num": 131502,
+        "word": "60岁以上老人优先下铺",
+        "onboard_time": 1705891824,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124704,
+        "num": 124704,
+        "word": "黄瀛子为了看蒋翼女朋友抢捧花",
+        "onboard_time": 1705886067,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118819,
+        "num": 118819,
+        "word": "你真是饿了",
+        "onboard_time": 1705852706,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116766,
+        "num": 116766,
+        "word": "杜兰特质问为何不在GOAT讨论中",
+        "onboard_time": 1705890564,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108414,
+        "num": 108414,
+        "word": "春运返程放空列车有2折以下低价票",
+        "onboard_time": 1705891527,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108218,
+        "num": 108218,
+        "word": "会中文的韩国人和中国人都沉默了",
+        "onboard_time": 1705849768,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104048,
+        "num": 104048,
+        "word": "每一块砖都有了自己的皮肤",
+        "onboard_time": 1705891885,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103203,
+        "num": 103203,
+        "word": "华西医生说九成大肠癌是它引起的",
+        "onboard_time": 1705880421,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进金融高水平对外开放#"
+    }
+  }
+}
