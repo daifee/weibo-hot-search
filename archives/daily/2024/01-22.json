@@ -1,7 +1,15 @@
 {
   "startTime": 1705854115620,
-  "endTime": 1705894453443,
+  "endTime": 1705897364408,
   "band_list": [
+    {
+      "raw_hot": 2088376,
+      "num": 2088376,
+      "word": "小红书博主引导网友穿越军事重地",
+      "onboard_time": 1705891225,
+      "rank": 45,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2024924,
       "num": 2024924,
@@ -35,11 +43,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1260942,
-      "num": 1260942,
-      "word": "小红书博主引导网友穿越军事重地",
-      "onboard_time": 1705891225,
-      "rank": 45,
+      "raw_hot": 1079832,
+      "num": 514227,
+      "word": "华中农大被举报教授克扣研究生劳务费",
+      "onboard_time": 1705894405,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1027284,
+      "num": 1027284,
+      "word": "云南镇雄突发山体滑坡47人被埋",
+      "onboard_time": 1705894286,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -49,6 +65,14 @@
       "onboard_time": 1705839807,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 908558,
+      "num": 908558,
+      "word": "方媛综艺首秀",
+      "onboard_time": 1705894886,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 889073,
@@ -139,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595713,
+      "num": 508852,
+      "word": "方媛回应坐经济舱",
+      "onboard_time": 1705896388,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 573719,
       "num": 573719,
       "word": "吴彦祖 亚裔芭比刻板印象",
@@ -171,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491356,
+      "num": 491356,
+      "word": "马伊琍唐嫣辛芷蕾合体首封",
+      "onboard_time": 1705896145,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 478043,
       "num": 478043,
       "word": "十三年怎么就抵不过三年了",
       "onboard_time": 1705835008,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 476783,
+      "num": 187144,
+      "word": "德国退出碳中和",
+      "onboard_time": 1705896025,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 470826,
@@ -201,6 +249,14 @@
       "onboard_time": 1705852706,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 467098,
+      "num": 467098,
+      "word": "原神掉粉",
+      "onboard_time": 1705895006,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 450152,
@@ -331,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360937,
+      "num": 360937,
+      "word": "董宇辉建议俞敏洪拍中国合伙人2",
+      "onboard_time": 1705895426,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 346640,
       "num": 346640,
       "word": "为什么制冷和制热的26度不一样",
@@ -345,6 +409,22 @@
       "onboard_time": 1705885826,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342065,
+      "num": 342065,
+      "word": "周杰伦 多重宇宙伦都是真的",
+      "onboard_time": 1705894947,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 335163,
+      "num": 335163,
+      "word": "花少5大收官连播3天",
+      "onboard_time": 1705896868,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 326143,
@@ -483,6 +563,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 229964,
+      "num": 1274132,
+      "word": "南方多地迎降雪",
+      "onboard_time": 1705893865,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224591,
       "num": 224591,
       "word": "大多数人没有爱",
@@ -587,12 +675,36 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 196808,
+      "num": 196808,
+      "word": "接倪妮 拍杨婧",
+      "onboard_time": 1705894707,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195856,
       "num": 195856,
       "word": "薛之谦新手机壳",
       "onboard_time": 1705848990,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193614,
+      "num": 193614,
+      "word": "黑龙江多地文旅连夜上大分",
+      "onboard_time": 1705896990,
+      "rank": 27,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 188250,
+      "num": 188250,
+      "word": "过年美甲",
+      "onboard_time": 1705896688,
+      "rank": 29,
+      "category": "美妆"
     },
     {
       "raw_hot": 187054,
@@ -609,6 +721,14 @@
       "onboard_time": 1705851809,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184801,
+      "num": 184801,
+      "word": "军事重地禁止进入并非儿戏",
+      "onboard_time": 1705896448,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178226,
@@ -633,6 +753,22 @@
       "onboard_time": 1705864334,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172899,
+      "num": 172899,
+      "word": "数码宝贝 把眼泪还回来",
+      "onboard_time": 1705893807,
+      "rank": 37,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 168929,
+      "num": 168929,
+      "word": "不会保存车厘子的人有福了",
+      "onboard_time": 1705895849,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 166806,
@@ -665,14 +801,6 @@
       "onboard_time": 1705892846,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 160182,
-      "num": 160182,
-      "word": "云南镇雄突发山体滑坡47人被埋",
-      "onboard_time": 1705894286,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158518,
@@ -715,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149490,
-      "num": 149490,
-      "word": "数码宝贝 把眼泪还回来",
-      "onboard_time": 1705893807,
-      "rank": 37,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 149481,
       "num": 149481,
       "word": "檀健次喊你游广西",
@@ -739,12 +859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147559,
+      "num": 147559,
+      "word": "卧铺票可在线自主选铺",
+      "onboard_time": 1705895544,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144240,
       "num": 228627,
       "word": "长沙下雪",
       "onboard_time": 1705834226,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142626,
+      "num": 142626,
+      "word": "成毅莲花楼哭戏赏析",
+      "onboard_time": 1705894646,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 141488,
@@ -777,6 +913,22 @@
       "onboard_time": 1705840407,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139347,
+      "num": 139347,
+      "word": "基金经理称当下是逆向投资好时机",
+      "onboard_time": 1705895787,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 137945,
+      "num": 137945,
+      "word": "2024山东春晚官宣",
+      "onboard_time": 1705895728,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 137434,
@@ -883,6 +1035,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 118199,
+      "num": 118199,
+      "word": "云南镇雄山体滑坡救援画面",
+      "onboard_time": 1705895131,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116471,
+      "num": 116471,
+      "word": "蘑菇头表情包创始人称未收到钱",
+      "onboard_time": 1705897289,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 115949,
       "num": 115949,
       "word": "国足再迎亚洲杯生死战",
@@ -921,14 +1089,6 @@
       "onboard_time": 1705884386,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 112163,
-      "num": 112163,
-      "word": "华中农大被举报教授克扣研究生劳务费",
-      "onboard_time": 1705894405,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109863,
@@ -993,14 +1153,6 @@
       "onboard_time": 1705878978,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 99862,
-      "num": 1274132,
-      "word": "南方多地迎降雪",
-      "onboard_time": 1705893865,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99303,
@@ -1268,6 +1420,9 @@
     },
     {
       "word": "#读懂3820蕴含的有福密码#"
+    },
+    {
+      "word": "#3820战略工程蕴含怎样的魄力和精神#"
     }
   ]
 }
