@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705952033840,
+  "endTime": 1705954778843,
   "band_list": [
     {
       "raw_hot": 2193160,
@@ -547,16 +547,16 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 29432,
-      "num": 29432,
+      "raw_hot": 32452,
+      "num": 32452,
       "word": "摆烂式恋爱",
       "onboard_time": 1705950435,
       "rank": 43,
       "category": "情感"
     },
     {
-      "raw_hot": 20272,
-      "num": 20272,
+      "raw_hot": 27006,
+      "num": 27006,
       "word": "陶晶莹控诉合伙人拿走公司私章",
       "onboard_time": 1705950974,
       "rank": 40,
@@ -568,6 +568,14 @@
       "word": "国字号重器硬核展示中国制造实力",
       "onboard_time": 1705928249,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12534,
+      "num": 12534,
+      "word": "萌二人教版掰竹子",
+      "onboard_time": 1705953313,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
