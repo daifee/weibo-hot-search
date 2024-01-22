@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/21 00:22:00 ~ 2024/01/22 23:34:49
+本榜单时间：2024/01/21 00:22:00 ~ 2024/01/23 00:22:59
 </p>
 </blockquote>
 <p>
@@ -219,6 +219,12 @@ A股三大指数均跌超3%（热度：1288927）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E5%8D%A1%E5%A1%94%E5%B0%94%23" target="weibo">
+国足vs卡塔尔（热度：1084282）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%230713%E6%98%A5%E6%99%9A%E8%81%94%E6%8E%9213%E8%BF%9B9%23" target="weibo">
 0713春晚联排13进9（热度：1078046）
 </a>
@@ -335,12 +341,6 @@ A股（热度：924804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%20%E4%BD%A0%E6%9C%89%E6%B2%A1%E6%9C%89%E4%B8%BA%E4%B8%80%E5%9D%97%E7%8C%AA%E6%B2%B9%E6%8B%BC%E8%BF%87%E5%91%BD%23" target="weibo">
 鸡 你有没有为一块猪油拼过命（热度：889073）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E5%8D%A1%E5%A1%94%E5%B0%94%23" target="weibo">
-国足vs卡塔尔（热度：870625）
 </a>
 </li>
 
@@ -969,6 +969,12 @@ TES在打什么（热度：457705）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%9F%E8%AE%A1%E9%80%A0%E5%81%87%E6%98%AF%E7%BB%9F%E8%AE%A1%E9%A2%86%E5%9F%9F%E6%9C%80%E5%A4%A7%E7%9A%84%E8%85%90%E8%B4%A5%23" target="weibo">
+统计造假是统计领域最大的腐败（热度：455955）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%B8%8D%E6%83%B3%E9%80%81%E4%B8%80%E4%B8%AA%E4%B8%8D%E6%83%B3%E6%8E%A5%23" target="weibo">
 一个不想送一个不想接（热度：454308）
 </a>
@@ -1151,6 +1157,12 @@ TES在打什么（热度：457705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%91%A8%E9%92%B0%E7%BF%94%E5%BE%AE%E4%BF%A1%E5%8A%A0%E4%B8%8A%E4%BA%86%E5%90%97%23" target="weibo">
 王一博周钰翔微信加上了吗（热度：402042）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%8F%E6%AC%A1%E6%B4%97%E6%BE%A1%E8%BA%AB%E4%B8%8A%E9%83%BD%E6%9C%89%E6%B3%A5%E5%8F%AF%E6%90%93%23" target="weibo">
+为什么每次洗澡身上都有泥可搓（热度：401192）
 </a>
 </li>
 
@@ -1493,12 +1505,6 @@ C罗球迷为见偶像跳到管控区域接机（热度：336550）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%99%93%E9%BE%99%E8%AF%84%E4%BB%B7%E7%BD%97%E6%99%8B%23" target="weibo">
 郑晓龙评价罗晋（热度：321905）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%9F%E8%AE%A1%E9%80%A0%E5%81%87%E6%98%AF%E7%BB%9F%E8%AE%A1%E9%A2%86%E5%9F%9F%E6%9C%80%E5%A4%A7%E7%9A%84%E8%85%90%E8%B4%A5%23" target="weibo">
-统计造假是统计领域最大的腐败（热度：319600）
 </a>
 </li>
 
@@ -2645,6 +2651,12 @@ TWS正式出道（热度：190411）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%86%99%E9%94%99%E9%A2%98%E7%94%A8%E6%89%93%E7%81%AB%E6%9C%BA%E5%BD%93%E6%B6%88%E9%99%A4%E7%AC%94%23" target="weibo">
 男孩写错题用打火机当消除笔（热度：182027）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%B0%81%E7%A5%9E%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
+董宇辉封神名场面（热度：181710）
 </a>
 </li>
 
@@ -4137,12 +4149,6 @@ Hero夏凌断开连接（热度：107269）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%8F%E6%AC%A1%E6%B4%97%E6%BE%A1%E8%BA%AB%E4%B8%8A%E9%83%BD%E6%9C%89%E6%B3%A5%E5%8F%AF%E6%90%93%23" target="weibo">
-为什么每次洗澡身上都有泥可搓（热度：102982）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E9%BE%99%E5%B9%B4%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23" target="weibo">
 这才是龙年的正确打开方式（热度：102503）
 </a>
@@ -4361,6 +4367,12 @@ RIIZE人歌一位（热度：93213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%89%8D%E5%86%B7%E9%9D%99%E6%9C%9F%23" target="weibo">
 年前冷静期（热度：76633）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%A0%E7%A3%8A%23" target="weibo">
+冠磊（热度：76297）
 </a>
 </li>
 
