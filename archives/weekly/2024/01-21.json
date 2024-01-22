@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705926911336,
+  "endTime": 1705927880784,
   "band_list": [
     {
       "raw_hot": 2678805,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1023378,
+      "num": 1023378,
+      "word": "快乐星球4的男主是女生演的",
+      "onboard_time": 1705921468,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1008928,
       "num": 1008928,
       "word": "十三年怎么就抵不过三年了",
@@ -387,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 883751,
+      "num": 883751,
+      "word": "马来西亚一载有16名中国游客客车发生事故",
+      "onboard_time": 1705924946,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 870204,
       "num": 870204,
       "word": "龙年央视春晚第二次联排",
@@ -417,14 +433,6 @@
       "onboard_time": 1705879339,
       "rank": 15,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 845795,
-      "num": 845795,
-      "word": "快乐星球4的男主是女生演的",
-      "onboard_time": 1705921468,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 845451,
@@ -491,20 +499,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 805155,
+      "num": 805155,
+      "word": "俞敏洪让董宇辉改认证",
+      "onboard_time": 1705925246,
+      "rank": 4,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 801871,
       "num": 801871,
       "word": "砂糖橘摆成了我吃不起的样子",
       "onboard_time": 1705844848,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 791725,
-      "num": 791725,
-      "word": "马来西亚一载有16名中国游客客车发生事故",
-      "onboard_time": 1705924946,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 791175,
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 745326,
-      "num": 483540,
+      "num": 510195,
       "word": "抖音回应放贷余额近4000亿元",
       "onboard_time": 1705921947,
       "rank": 44,
@@ -641,14 +649,6 @@
       "onboard_time": 1705805006,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 690334,
-      "num": 690334,
-      "word": "俞敏洪让董宇辉改认证",
-      "onboard_time": 1705925246,
-      "rank": 4,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 672128,
@@ -923,6 +923,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 529987,
+      "num": 529987,
+      "word": "他暗爽她也暗爽我明爽",
+      "onboard_time": 1705926025,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 529207,
       "num": 529207,
       "word": "4名女警生无可恋式推走故障叉车",
@@ -953,6 +961,14 @@
       "onboard_time": 1705895006,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 525774,
+      "num": 525774,
+      "word": "董宇辉称不会拉黑任何人",
+      "onboard_time": 1705923087,
+      "rank": 45,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 524645,
@@ -1105,14 +1121,6 @@
       "onboard_time": 1705806024,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 486413,
-      "num": 486413,
-      "word": "董宇辉称不会拉黑任何人",
-      "onboard_time": 1705923087,
-      "rank": 45,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 481369,
@@ -1507,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379759,
+      "num": 379759,
+      "word": "原来在高铁上发疯真的有用",
+      "onboard_time": 1705926087,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 379455,
       "num": 379455,
       "word": "杭州下雪",
@@ -1843,12 +1859,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 313610,
-      "num": 313610,
-      "word": "他暗爽她也暗爽我明爽",
-      "onboard_time": 1705926025,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 313314,
+      "num": 228291,
+      "word": "95生四大颜霸",
+      "onboard_time": 1705922187,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 311235,
@@ -1865,22 +1881,6 @@
       "onboard_time": 1705808666,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306659,
-      "num": 168840,
-      "word": "原来在高铁上发疯真的有用",
-      "onboard_time": 1705926087,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 306612,
-      "num": 228291,
-      "word": "95生四大颜霸",
-      "onboard_time": 1705922187,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 303484,
@@ -2307,6 +2307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 238618,
+      "num": 238618,
+      "word": "RNG对战EDG",
+      "onboard_time": 1705926927,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 235861,
       "num": 235861,
       "word": "方城起火宿舍疑为教室改建",
@@ -2603,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210461,
+      "num": 210461,
+      "word": "不用剧烈运动也能瘦全身的方法",
+      "onboard_time": 1705926265,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 210243,
       "num": 210243,
       "word": "粉笔模考 读不懂言语",
@@ -2875,11 +2891,27 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 199272,
+      "num": 232991,
+      "word": "促进资本市场平稳健康发展",
+      "onboard_time": 1705926626,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 199218,
       "num": 199218,
       "word": "许凯痛失真名",
       "onboard_time": 1705843229,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198306,
+      "num": 198306,
+      "word": "成毅施法路透",
+      "onboard_time": 1705927046,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -3051,14 +3083,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 191248,
-      "num": 191248,
-      "word": "促进资本市场平稳健康发展",
-      "onboard_time": 1705926626,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 190885,
       "num": 190885,
       "word": "速效救心丸和硝酸甘油 谁更有用",
@@ -3169,6 +3193,22 @@
       "onboard_time": 1705892423,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186389,
+      "num": 186389,
+      "word": "14薪的快乐",
+      "onboard_time": 1705923028,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 185613,
+      "num": 185613,
+      "word": "有些事情最好不要和父母说",
+      "onboard_time": 1705926868,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 185501,
@@ -3491,6 +3531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170148,
+      "num": 170148,
+      "word": "狗 冒昧的人类",
+      "onboard_time": 1705926808,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170085,
       "num": 170085,
       "word": "南来北往 预约",
@@ -3499,12 +3547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169787,
-      "num": 169787,
-      "word": "14薪的快乐",
-      "onboard_time": 1705923028,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 169567,
+      "num": 169567,
+      "word": "第一次知道可以用水熬猪油",
+      "onboard_time": 1705926626,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 168929,
@@ -3513,6 +3561,14 @@
       "onboard_time": 1705895849,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 168895,
+      "num": 168895,
+      "word": "阴阳师龙年新春版本",
+      "onboard_time": 1705926747,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 168534,
@@ -3537,14 +3593,6 @@
       "onboard_time": 1705924168,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 167770,
-      "num": 167770,
-      "word": "第一次知道可以用水熬猪油",
-      "onboard_time": 1705926626,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 166292,
@@ -3641,14 +3689,6 @@
       "onboard_time": 1705808545,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162779,
-      "num": 162779,
-      "word": "不用剧烈运动也能瘦全身的方法",
-      "onboard_time": 1705926265,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 162704,
@@ -3995,14 +4035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148212,
-      "num": 148212,
-      "word": "阴阳师龙年新春版本",
-      "onboard_time": 1705926747,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 147559,
       "num": 147559,
       "word": "卧铺票可在线自主选铺",
@@ -4041,14 +4073,6 @@
       "onboard_time": 1705843588,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145750,
-      "num": 145750,
-      "word": "有些事情最好不要和父母说",
-      "onboard_time": 1705926868,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 145568,
@@ -4219,6 +4243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141467,
+      "num": 141467,
+      "word": "蒋翼被黄瀛子误会是小三",
+      "onboard_time": 1705925787,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141179,
       "num": 141179,
       "word": "安心决定不要孩子",
@@ -4377,14 +4409,6 @@
       "onboard_time": 1705914809,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 134294,
-      "num": 134294,
-      "word": "蒋翼被黄瀛子误会是小三",
-      "onboard_time": 1705925787,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 134050,
@@ -4681,14 +4705,6 @@
       "onboard_time": 1705833687,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 122262,
-      "num": 122262,
-      "word": "狗 冒昧的人类",
-      "onboard_time": 1705926808,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 121844,
@@ -5011,6 +5027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104993,
+      "num": 104993,
+      "word": "Meiko在TES的首个MVP",
+      "onboard_time": 1705927708,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104654,
       "num": 104654,
       "word": "不能露脸的除了缉毒警还有反扒民警",
@@ -5065,6 +5089,14 @@
       "onboard_time": 1705818024,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 102503,
+      "num": 102503,
+      "word": "这才是龙年的正确打开方式",
+      "onboard_time": 1705924649,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 102270,
@@ -5137,6 +5169,14 @@
       "onboard_time": 1705887626,
       "rank": 48,
       "category": "旅游,时尚"
+    },
+    {
+      "raw_hot": 98659,
+      "num": 98659,
+      "word": "ON亮T1队标",
+      "onboard_time": 1705924587,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 97661,
