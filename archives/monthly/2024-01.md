@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/22 16:24:14
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/22 16:37:56
 </p>
 </blockquote>
 <p>
@@ -4911,6 +4911,12 @@ Minji为没吃过刀削面道歉（热度：844358）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E8%8E%AB%E8%A5%BF%E6%9E%97%E6%BB%A5%E7%94%A8%E7%8E%B0%E8%B1%A1%E4%B8%A5%E9%87%8D%23" target="weibo">
+阿莫西林滥用现象严重（热度：829699）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%B6%89%E4%BA%8B%E6%95%99%E5%B8%88%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%23" target="weibo">
 华中农业大学回应涉事教师调查情况（热度：829296）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16将配备8GBRAM（热度：748094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%9E%97%E9%AB%98%E8%BF%9C%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
 王楚钦孙颖莎vs林高远王曼昱（热度：744104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%BB%8E%23" target="weibo">
-张黎（热度：743103）
 </a>
 </li>
 

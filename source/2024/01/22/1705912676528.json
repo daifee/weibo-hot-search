@@ -1,0 +1,410 @@
+{
+  "runTime": 1705912676528,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1404194,
+        "num": 1404194,
+        "word": "横店下雪 爆剧",
+        "onboard_time": 1705900165,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1094936,
+        "num": 1094936,
+        "word": "多位明星参演电影涉影视投资诈骗案",
+        "onboard_time": 1705907186,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60537,
+        "num": 886056,
+        "word": "争分夺秒全力以赴",
+        "onboard_time": 1705908329,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829699,
+        "num": 829699,
+        "word": "阿莫西林滥用现象严重",
+        "onboard_time": 1705909828,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 753451,
+        "num": 753451,
+        "word": "横店一场雪成就了三部剧",
+        "onboard_time": 1705905325,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 637868,
+        "num": 637868,
+        "word": "慈母多败咪",
+        "onboard_time": 1705910670,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 618817,
+        "num": 618817,
+        "word": "NewJeans被错认电子厂厂花",
+        "onboard_time": 1705910906,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 486212,
+        "num": 486212,
+        "word": "申万回应江疏影雪球爆仓来到公司",
+        "onboard_time": 1705909226,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369732,
+        "num": 483435,
+        "word": "姐弟坠亡案生母期望有个孩子",
+        "onboard_time": 1705905325,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291042,
+        "num": 470119,
+        "word": "辛巴回应孩子应吃预制菜言论",
+        "onboard_time": 1705905983,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1446235,
+        "num": 458031,
+        "word": "A股大跌",
+        "onboard_time": 1705909587,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 672082,
+        "num": 454668,
+        "word": "雪球",
+        "onboard_time": 1705911087,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1325480,
+        "num": 443534,
+        "word": "江疏影",
+        "onboard_time": 1705909709,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438152,
+        "num": 438152,
+        "word": "钟楚曦认证侯雯元挺温柔的",
+        "onboard_time": 1705911687,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436214,
+        "num": 436214,
+        "word": "郭敬明 大梦归离有自己的小时代",
+        "onboard_time": 1705910547,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437918,
+        "num": 425582,
+        "word": "A股三大指数均跌超3%",
+        "onboard_time": 1705907365,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 345125,
+        "num": 345125,
+        "word": "阿祖你 我哭死",
+        "onboard_time": 1705910488,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317053,
+        "num": 317053,
+        "word": "方媛回应坐经济舱",
+        "onboard_time": 1705896388,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305126,
+        "num": 305126,
+        "word": "抗震小英雄林浩宣布结婚",
+        "onboard_time": 1705910787,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277637,
+        "num": 277637,
+        "word": "Hero再无久字辈",
+        "onboard_time": 1705910129,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 537413,
+        "num": 275892,
+        "word": "高铁上拒绝了带娃女士的让座要求",
+        "onboard_time": 1705908508,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273946,
+        "num": 273946,
+        "word": "基金",
+        "onboard_time": 1705909885,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 261069,
+        "num": 261069,
+        "word": "李庚希是真豁出去了 彭彭应该就这样",
+        "onboard_time": 1705905867,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252908,
+        "num": 252908,
+        "word": "杨紫拼接长裙",
+        "onboard_time": 1705911447,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242357,
+        "num": 242357,
+        "word": "下班后就不要联系我了",
+        "onboard_time": 1705908207,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240120,
+        "num": 240120,
+        "word": "实习第一年要给家里钱吗",
+        "onboard_time": 1705909828,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215090,
+        "num": 215090,
+        "word": "过年前最离不开的软件",
+        "onboard_time": 1705910248,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 213440,
+        "num": 213440,
+        "word": "甄嬛传藏海传 ZHZ",
+        "onboard_time": 1705904066,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195690,
+        "num": 195690,
+        "word": "A股",
+        "onboard_time": 1705887683,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195228,
+        "num": 195228,
+        "word": "云南昭通山体滑坡已致3人遇难",
+        "onboard_time": 1705911809,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193185,
+        "num": 193185,
+        "word": "小米官方辟谣澎湃OS是自研系统",
+        "onboard_time": 1705909465,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192271,
+        "num": 192271,
+        "word": "抑郁的11个隐形信号",
+        "onboard_time": 1705910067,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190411,
+        "num": 190411,
+        "word": "TWS正式出道",
+        "onboard_time": 1705912286,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185551,
+        "num": 185551,
+        "word": "苏州KSG转会公告",
+        "onboard_time": 1705911506,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167687,
+        "num": 167687,
+        "word": "三市下跌个股近5200只",
+        "onboard_time": 1705903165,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162087,
+        "num": 162087,
+        "word": "平顶山煤矿事故16人遇难",
+        "onboard_time": 1705911986,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156882,
+        "num": 156882,
+        "word": "A股创调整新低",
+        "onboard_time": 1705911025,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146452,
+        "num": 146452,
+        "word": "过年美甲",
+        "onboard_time": 1705896688,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142349,
+        "num": 142349,
+        "word": "当初为什么把小猫带回了家",
+        "onboard_time": 1705911147,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125356,
+        "num": 140991,
+        "word": "女子分手拒搬离前男友房子",
+        "onboard_time": 1705898129,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139995,
+        "num": 139995,
+        "word": "枭起青壤 陈哲远",
+        "onboard_time": 1705907008,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135683,
+        "num": 135683,
+        "word": "WBG老板回应设计师言论",
+        "onboard_time": 1705908686,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131319,
+        "num": 131319,
+        "word": "藏海传取景地",
+        "onboard_time": 1705904546,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128277,
+        "num": 128277,
+        "word": "通勤婚姻",
+        "onboard_time": 1705902927,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126490,
+        "num": 126490,
+        "word": "i人都在做什么工作",
+        "onboard_time": 1705912406,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119082,
+        "num": 119082,
+        "word": "国务院安委会挂牌督办平顶山煤矿事故",
+        "onboard_time": 1705912346,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118316,
+        "num": 118316,
+        "word": "关于六寸蛋糕放5斤车厘子这件事",
+        "onboard_time": 1705845211,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115769,
+        "num": 115769,
+        "word": "被金莎修图的样子真实到了",
+        "onboard_time": 1705901906,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108592,
+        "num": 108592,
+        "word": "我爸觉得范丞丞这个女婿不孬",
+        "onboard_time": 1705907127,
+        "rank": 48,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 102367,
+        "num": 108566,
+        "word": "河南一女子称自己37岁当婆婆",
+        "onboard_time": 1705912589,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对云南山体滑坡作出重要指示#"
+    }
+  }
+}

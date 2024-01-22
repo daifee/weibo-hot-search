@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705911854900,
+  "endTime": 1705912676528,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1548336,
-      "num": 395483,
+      "num": 443534,
       "word": "江疏影",
       "onboard_time": 1705909709,
       "rank": 10,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1463346,
-      "num": 386485,
+      "num": 458031,
       "word": "A股大跌",
       "onboard_time": 1705909587,
       "rank": 11,
@@ -363,6 +363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 829699,
+      "num": 829699,
+      "word": "阿莫西林滥用现象严重",
+      "onboard_time": 1705909828,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 822805,
       "num": 822805,
       "word": "沈腾马丽现身央视春晚第二次联排",
@@ -531,20 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 679033,
-      "num": 679033,
-      "word": "阿莫西林滥用现象严重",
-      "onboard_time": 1705909828,
-      "rank": 5,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 672128,
       "num": 672128,
       "word": "男孩跳绳6000下后气胸",
       "onboard_time": 1705808186,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672082,
+      "num": 454668,
+      "word": "雪球",
+      "onboard_time": 1705911087,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 666966,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 637868,
+      "num": 637868,
+      "word": "慈母多败咪",
+      "onboard_time": 1705910670,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 629371,
       "num": 629371,
       "word": "在东北车厘子都要裹上暖宝宝",
@@ -625,6 +641,14 @@
       "onboard_time": 1705840407,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 618817,
+      "num": 618817,
+      "word": "NewJeans被错认电子厂厂花",
+      "onboard_time": 1705910906,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 615816,
@@ -739,8 +763,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 533156,
-      "num": 268490,
+      "raw_hot": 537413,
+      "num": 275892,
       "word": "高铁上拒绝了带娃女士的让座要求",
       "onboard_time": 1705908508,
       "rank": 26,
@@ -851,14 +875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 503718,
-      "num": 503718,
-      "word": "NewJeans被错认电子厂厂花",
-      "onboard_time": 1705910906,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 500491,
       "num": 500491,
       "word": "彩礼的本质",
@@ -963,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 472234,
-      "num": 373397,
-      "word": "慈母多败咪",
-      "onboard_time": 1705910670,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 472033,
       "num": 472033,
       "word": "阿娇阿Sa真亲了吗",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1705797081,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438152,
+      "num": 438152,
+      "word": "钟楚曦认证侯雯元挺温柔的",
+      "onboard_time": 1705911687,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 437909,
@@ -1169,14 +1185,6 @@
       "onboard_time": 1705813649,
       "rank": 16,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 406825,
-      "num": 366698,
-      "word": "雪球",
-      "onboard_time": 1705911087,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 406658,
@@ -1451,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345125,
+      "num": 345125,
+      "word": "阿祖你 我哭死",
+      "onboard_time": 1705910488,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344237,
       "num": 344237,
       "word": "肖战高奢全球合约汇总",
@@ -1595,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305126,
+      "num": 305126,
+      "word": "抗震小英雄林浩宣布结婚",
+      "onboard_time": 1705910787,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303484,
       "num": 303484,
       "word": "经常拥抱对身体有好处",
@@ -1633,14 +1657,6 @@
       "onboard_time": 1705807347,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297725,
-      "num": 297725,
-      "word": "阿祖你 我哭死",
-      "onboard_time": 1705910488,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 293733,
@@ -1779,14 +1795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 264822,
-      "num": 264822,
-      "word": "钟楚曦认证侯雯元挺温柔的",
-      "onboard_time": 1705911687,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 264331,
       "num": 264331,
       "word": "王者荣耀刘慈欣平行世界",
@@ -1859,6 +1867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252908,
+      "num": 252908,
+      "word": "杨紫拼接长裙",
+      "onboard_time": 1705911447,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 252122,
       "num": 241204,
       "word": "原神代肝有多残酷",
@@ -1923,6 +1939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 242357,
+      "num": 242357,
+      "word": "下班后就不要联系我了",
+      "onboard_time": 1705908207,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242109,
       "num": 242109,
       "word": "打工人嘴替",
@@ -1931,20 +1955,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240120,
+      "num": 240120,
+      "word": "实习第一年要给家里钱吗",
+      "onboard_time": 1705909828,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238717,
       "num": 238717,
       "word": "边伯贤将3月举行演唱会",
       "onboard_time": 1705890145,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 237838,
-      "num": 237838,
-      "word": "下班后就不要联系我了",
-      "onboard_time": 1705908207,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 235861,
@@ -2195,14 +2219,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 211828,
-      "num": 211828,
-      "word": "抗震小英雄林浩宣布结婚",
-      "onboard_time": 1705910787,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211364,
       "num": 211364,
       "word": "水果摊上28元能买到一盒车厘子",
@@ -2217,14 +2233,6 @@
       "onboard_time": 1705847131,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210700,
-      "num": 210700,
-      "word": "实习第一年要给家里钱吗",
-      "onboard_time": 1705909828,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 210243,
@@ -2249,14 +2257,6 @@
       "onboard_time": 1705902927,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207824,
-      "num": 207824,
-      "word": "杨紫拼接长裙",
-      "onboard_time": 1705911447,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 207480,
@@ -2539,6 +2539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195228,
+      "num": 195228,
+      "word": "云南昭通山体滑坡已致3人遇难",
+      "onboard_time": 1705911809,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195050,
       "num": 195050,
       "word": "西安WE豪华教练天团",
@@ -2595,12 +2603,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 191803,
-      "num": 191803,
+      "raw_hot": 193185,
+      "num": 193185,
       "word": "小米官方辟谣澎湃OS是自研系统",
       "onboard_time": 1705909465,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 192271,
+      "num": 192271,
+      "word": "抑郁的11个隐形信号",
+      "onboard_time": 1705910067,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 190885,
@@ -2625,6 +2641,14 @@
       "onboard_time": 1705911506,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190411,
+      "num": 190411,
+      "word": "TWS正式出道",
+      "onboard_time": 1705912286,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 190107,
@@ -2665,14 +2689,6 @@
       "onboard_time": 1705803146,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 188173,
-      "num": 188173,
-      "word": "抑郁的11个隐形信号",
-      "onboard_time": 1705910067,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 187223,
@@ -3107,6 +3123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162087,
+      "num": 162087,
+      "word": "平顶山煤矿事故16人遇难",
+      "onboard_time": 1705911986,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161294,
       "num": 161294,
       "word": "南方加入下雪氛围组",
@@ -3435,6 +3459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142349,
+      "num": 142349,
+      "word": "当初为什么把小猫带回了家",
+      "onboard_time": 1705911147,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142201,
       "num": 142201,
       "word": "赵秀丽终于把丈夫儿子下葬",
@@ -3715,14 +3747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129344,
-      "num": 129344,
-      "word": "当初为什么把小猫带回了家",
-      "onboard_time": 1705911147,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129319,
       "num": 129319,
       "word": "仙剑之父转发仙剑四微博",
@@ -3827,6 +3851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 126490,
+      "num": 126490,
+      "word": "i人都在做什么工作",
+      "onboard_time": 1705912406,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125953,
       "num": 125953,
       "word": "国脚说国足没输球没掉队",
@@ -3864,14 +3896,6 @@
       "word": "朱鹮雪中起舞水墨画瞬间活了起来",
       "onboard_time": 1705809626,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123640,
-      "num": 123640,
-      "word": "云南昭通山体滑坡已致3人遇难",
-      "onboard_time": 1705911809,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -3961,6 +3985,14 @@
       "onboard_time": 1705832666,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119082,
+      "num": 119082,
+      "word": "国务院安委会挂牌督办平顶山煤矿事故",
+      "onboard_time": 1705912346,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118199,
@@ -4257,6 +4289,14 @@
       "onboard_time": 1705818024,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 102367,
+      "num": 108566,
+      "word": "河南一女子称自己37岁当婆婆",
+      "onboard_time": 1705912589,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102270,
@@ -4580,7 +4620,7 @@
     },
     {
       "raw_hot": 68499,
-      "num": 822521,
+      "num": 886056,
       "word": "争分夺秒全力以赴",
       "onboard_time": 1705908329,
       "rank": 2,
