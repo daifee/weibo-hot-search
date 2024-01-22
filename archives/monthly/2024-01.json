@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705944854448,
+  "endTime": 1705947794591,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -39755,6 +39755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174849,
+      "num": 174849,
+      "word": "秀丽抽烟",
+      "onboard_time": 1705943122,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174845,
       "num": 174845,
       "word": "嘲笑一只脏狗结果它是我家的",
@@ -47425,14 +47433,6 @@
       "onboard_time": 1704228553,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141958,
-      "num": 141958,
-      "word": "秀丽抽烟",
-      "onboard_time": 1705943122,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 141912,
@@ -58875,6 +58875,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 55487,
+      "num": 55487,
+      "word": "图书馆30秒重创版",
+      "onboard_time": 1705945696,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55394,
       "num": 55394,
       "word": "全国男生统一话术",
@@ -60633,6 +60641,14 @@
       "onboard_time": 1704219738,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 20240,
+      "num": 24954,
+      "word": "6只狗仔被人掰断腿骨头裸露在外",
+      "onboard_time": 1705947735,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20219,

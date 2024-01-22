@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705944854448,
+  "endTime": 1705947794591,
   "band_list": [
     {
       "raw_hot": 2678805,
@@ -3699,6 +3699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174849,
+      "num": 174849,
+      "word": "秀丽抽烟",
+      "onboard_time": 1705943122,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174610,
       "num": 174610,
       "word": "知情人士证实东方甄选将与TikTok合作",
@@ -4592,14 +4600,6 @@
       "word": "被刘宇宁刻进骨子里的盘串",
       "onboard_time": 1705828706,
       "rank": 36,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141958,
-      "num": 141958,
-      "word": "秀丽抽烟",
-      "onboard_time": 1705943122,
-      "rank": 38,
       "category": "作品衍生"
     },
     {
@@ -5963,6 +5963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55487,
+      "num": 55487,
+      "word": "图书馆30秒重创版",
+      "onboard_time": 1705945696,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55069,
       "num": 55069,
       "word": "奥沙利文赛季第四冠",
@@ -6081,6 +6089,14 @@
       "onboard_time": 1705923148,
       "rank": 49,
       "category": "音乐,电竞"
+    },
+    {
+      "raw_hot": 20240,
+      "num": 24954,
+      "word": "6只狗仔被人掰断腿骨头裸露在外",
+      "onboard_time": 1705947735,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18225,

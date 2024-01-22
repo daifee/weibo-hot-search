@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705944854448,
+  "endTime": 1705947794591,
   "band_list": [
     {
       "raw_hot": 1669576,
@@ -211,6 +211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174849,
+      "num": 174849,
+      "word": "秀丽抽烟",
+      "onboard_time": 1705943122,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161207,
       "num": 161207,
       "word": "友情断层",
@@ -233,14 +241,6 @@
       "onboard_time": 1705930827,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141958,
-      "num": 141958,
-      "word": "秀丽抽烟",
-      "onboard_time": 1705943122,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 137845,
@@ -451,6 +451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 55487,
+      "num": 55487,
+      "word": "图书馆30秒重创版",
+      "onboard_time": 1705945696,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52361,
       "num": 52361,
       "word": "小米超越苹果登顶中国第一",
@@ -473,6 +481,14 @@
       "onboard_time": 1705926927,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 20240,
+      "num": 24954,
+      "word": "6只狗仔被人掰断腿骨头裸露在外",
+      "onboard_time": 1705947735,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14049,
