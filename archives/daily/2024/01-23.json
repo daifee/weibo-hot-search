@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705961755282,
+  "endTime": 1705962853801,
   "band_list": [
     {
       "raw_hot": 2193160,
@@ -243,8 +243,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 163897,
-      "num": 163897,
+      "raw_hot": 172541,
+      "num": 172541,
       "word": "6只狗仔被人掰断腿骨头裸露在外",
       "onboard_time": 1705947735,
       "rank": 49,
@@ -291,12 +291,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133059,
+      "num": 81280,
+      "word": "警惕妇癌之王卵巢癌这些信号别忽视",
+      "onboard_time": 1705948634,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132045,
       "num": 132045,
       "word": "减肥动力喂到嘴边了",
       "onboard_time": 1705929748,
       "rank": 27,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 130983,
+      "num": 49612,
+      "word": "17年前被入室抢走的姜甲儒找到了",
+      "onboard_time": 1705956913,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115652,
@@ -339,11 +355,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107132,
-      "num": 45264,
-      "word": "17年前被入室抢走的姜甲儒找到了",
-      "onboard_time": 1705956913,
-      "rank": 12,
+      "raw_hot": 107812,
+      "num": 46736,
+      "word": "女子为带货编造中学生被继父强奸等谣言",
+      "onboard_time": 1705957992,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -395,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94185,
-      "num": 81280,
-      "word": "警惕妇癌之王卵巢癌这些信号别忽视",
-      "onboard_time": 1705948634,
-      "rank": 11,
-      "category": "健康医疗"
+      "raw_hot": 92320,
+      "num": 92320,
+      "word": "这一次竹马战胜了天降",
+      "onboard_time": 1705948216,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 87911,
@@ -425,22 +441,6 @@
       "onboard_time": 1705935509,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 84641,
-      "num": 43052,
-      "word": "女子为带货编造中学生被继父强奸等谣言",
-      "onboard_time": 1705957992,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83823,
-      "num": 83823,
-      "word": "这一次竹马战胜了天降",
-      "onboard_time": 1705948216,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 82208,
@@ -563,6 +563,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 41811,
+      "num": 33965,
+      "word": "南方下的不是雪是壁纸",
+      "onboard_time": 1705957453,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33190,
+      "num": 33190,
+      "word": "陶晶莹控诉合伙人拿走公司私章",
+      "onboard_time": 1705950974,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32452,
       "num": 32452,
       "word": "摆烂式恋爱",
@@ -571,28 +587,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 30423,
-      "num": 30423,
-      "word": "陶晶莹控诉合伙人拿走公司私章",
-      "onboard_time": 1705950974,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27798,
-      "num": 27798,
-      "word": "南方下的不是雪是壁纸",
-      "onboard_time": 1705957453,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23975,
-      "num": 23975,
+      "raw_hot": 27692,
+      "num": 27692,
       "word": "腰椎最喜欢的两个动作",
       "onboard_time": 1705956253,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 23640,
+      "num": 23640,
+      "word": "马诺已拿到人身保护令",
+      "onboard_time": 1705961894,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 14049,
