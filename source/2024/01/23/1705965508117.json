@@ -1,0 +1,410 @@
+{
+  "runTime": 1705965508117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3053375,
+        "num": 3053375,
+        "word": "新疆乌什县7.1级地震",
+        "onboard_time": 1705948695,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432878,
+        "num": 432878,
+        "word": "国足vs卡塔尔",
+        "onboard_time": 1705933828,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24279,
+        "num": 414862,
+        "word": "国字号重器硬核展示中国制造实力",
+        "onboard_time": 1705928249,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411395,
+        "num": 411395,
+        "word": "老干妈回应被辛巴称为是预制菜",
+        "onboard_time": 1705933050,
+        "rank": 3,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 393763,
+        "num": 393763,
+        "word": "警惕妇癌之王卵巢癌这些信号别忽视",
+        "onboard_time": 1705948634,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 309160,
+        "num": 309160,
+        "word": "女子为带货编造中学生被继父强奸等谣言",
+        "onboard_time": 1705957992,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295684,
+        "num": 295684,
+        "word": "新疆地震",
+        "onboard_time": 1705949355,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210865,
+        "num": 210865,
+        "word": "新疆乌什7.1级地震已致3人受伤",
+        "onboard_time": 1705965019,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529725,
+        "num": 203512,
+        "word": "6只狗仔被人掰断腿骨头裸露在外",
+        "onboard_time": 1705947735,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171951,
+        "num": 171951,
+        "word": "这一次竹马战胜了天降",
+        "onboard_time": 1705948216,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275994,
+        "num": 167719,
+        "word": "俞敏洪让董宇辉改认证",
+        "onboard_time": 1705925246,
+        "rank": 10,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 263550,
+        "num": 166520,
+        "word": "17年前被入室抢走的姜甲儒找到了",
+        "onboard_time": 1705956913,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161036,
+        "num": 161036,
+        "word": "要久久爱 飞榜",
+        "onboard_time": 1705931608,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133057,
+        "num": 133057,
+        "word": "成毅工作室运镜跟郭虎学的吗",
+        "onboard_time": 1705963457,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120305,
+        "num": 120305,
+        "word": "韩安冉前夫回应女儿确诊多动症",
+        "onboard_time": 1705915346,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115662,
+        "num": 115662,
+        "word": "国足0比1卡塔尔",
+        "onboard_time": 1705965320,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105588,
+        "num": 105588,
+        "word": "新疆消防救援队伍已赶赴震中",
+        "onboard_time": 1705965019,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105251,
+        "num": 105251,
+        "word": "唐山打人案属地公安原局长获刑12年",
+        "onboard_time": 1705918345,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98606,
+        "num": 98606,
+        "word": "一个不想送一个不想接",
+        "onboard_time": 1705928484,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98066,
+        "num": 98066,
+        "word": "湖人交易",
+        "onboard_time": 1705936049,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203293,
+        "num": 97832,
+        "word": "男生表白失败坠楼家属向多方索赔127万",
+        "onboard_time": 1705915946,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177515,
+        "num": 97351,
+        "word": "为什么每次洗澡身上都有泥可搓",
+        "onboard_time": 1705937666,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 107240,
+        "num": 96532,
+        "word": "南方下的不是雪是壁纸",
+        "onboard_time": 1705957453,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99790,
+        "num": 95850,
+        "word": "岳母搞传销骗了全家十几口100万",
+        "onboard_time": 1705930827,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95713,
+        "num": 95713,
+        "word": "亚洲杯国足出线概率",
+        "onboard_time": 1705942883,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87674,
+        "num": 87674,
+        "word": "阿克苏发生4.5级地震",
+        "onboard_time": 1705948815,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80970,
+        "num": 80970,
+        "word": "汪海林称不要说中国电影跟中国男足一样了",
+        "onboard_time": 1705940664,
+        "rank": 26,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 79193,
+        "num": 79193,
+        "word": "三亚沙滩现多起剧毒僧帽水母伤人事件",
+        "onboard_time": 1705931426,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78242,
+        "num": 78242,
+        "word": "马诺已拿到人身保护令",
+        "onboard_time": 1705961894,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 69752,
+        "num": 69752,
+        "word": "阴阳师 姑姑好伟大的脸",
+        "onboard_time": 1705929149,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285011,
+        "num": 68492,
+        "word": "台州车祸",
+        "onboard_time": 1705933109,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67068,
+        "num": 67068,
+        "word": "快乐星球4的男主是女生演的",
+        "onboard_time": 1705921468,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63568,
+        "num": 63568,
+        "word": "国际空间站不带中国玩倒逼我们弯道超车",
+        "onboard_time": 1705930770,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59657,
+        "num": 59657,
+        "word": "陶晶莹控诉合伙人拿走公司私章",
+        "onboard_time": 1705950974,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58331,
+        "num": 58331,
+        "word": "肖一成想和林西同房",
+        "onboard_time": 1705963396,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57780,
+        "num": 57780,
+        "word": "国足末轮生死战",
+        "onboard_time": 1705925009,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52489,
+        "num": 52489,
+        "word": "国足首发",
+        "onboard_time": 1705930948,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51582,
+        "num": 51582,
+        "word": "统计造假是统计领域最大的腐败",
+        "onboard_time": 1705932507,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50032,
+        "num": 50032,
+        "word": "抖音回应放贷余额近4000亿元",
+        "onboard_time": 1705921947,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47736,
+        "num": 47736,
+        "word": "C罗董方卓拥抱",
+        "onboard_time": 1705934190,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47363,
+        "num": 47363,
+        "word": "小米超越苹果登顶中国第一",
+        "onboard_time": 1705922126,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46082,
+        "num": 46082,
+        "word": "A股大跌",
+        "onboard_time": 1705909587,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44472,
+        "num": 44472,
+        "word": "国足只剩理论出线希望",
+        "onboard_time": 1705965381,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42398,
+        "num": 42398,
+        "word": "林一晒与刘浩存合照",
+        "onboard_time": 1705932329,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41007,
+        "num": 41007,
+        "word": "杨超越演疯批小白花",
+        "onboard_time": 1705930467,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39183,
+        "num": 39183,
+        "word": "EDG太猛了",
+        "onboard_time": 1705928669,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38845,
+        "num": 38845,
+        "word": "卡塔尔大轮换",
+        "onboard_time": 1705931968,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38823,
+        "num": 38823,
+        "word": "原来在高铁上发疯真的有用",
+        "onboard_time": 1705926087,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38436,
+        "num": 38436,
+        "word": "Clearlove重回赛场",
+        "onboard_time": 1705935509,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38091,
+        "num": 38091,
+        "word": "赵昭仪白色蕾丝裙",
+        "onboard_time": 1705941083,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对云南山体滑坡作出重要指示#"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705962853801,
+  "endTime": 1705965508117,
   "band_list": [
     {
-      "raw_hot": 2193160,
-      "num": 2193160,
+      "raw_hot": 3053375,
+      "num": 3053375,
       "word": "新疆乌什县7.1级地震",
       "onboard_time": 1705948695,
       "rank": 0,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 529725,
+      "num": 203512,
+      "word": "6只狗仔被人掰断腿骨头裸露在外",
+      "onboard_time": 1705947735,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469594,
       "num": 469594,
       "word": "亚洲杯国足出线概率",
@@ -123,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393763,
+      "num": 393763,
+      "word": "警惕妇癌之王卵巢癌这些信号别忽视",
+      "onboard_time": 1705948634,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 393624,
       "num": 200166,
       "word": "冠磊",
@@ -147,12 +163,28 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 309160,
+      "num": 309160,
+      "word": "女子为带货编造中学生被继父强奸等谣言",
+      "onboard_time": 1705957992,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289278,
       "num": 289278,
       "word": "韩安冉前夫回应女儿确诊多动症",
       "onboard_time": 1705915346,
       "rank": 8,
       "category": "网红"
+    },
+    {
+      "raw_hot": 263550,
+      "num": 166520,
+      "word": "17年前被入室抢走的姜甲儒找到了",
+      "onboard_time": 1705956913,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262659,
@@ -185,6 +217,14 @@
       "onboard_time": 1705932270,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210865,
+      "num": 210865,
+      "word": "新疆乌什7.1级地震已致3人受伤",
+      "onboard_time": 1705965019,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207260,
@@ -243,12 +283,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 172541,
-      "num": 172541,
-      "word": "6只狗仔被人掰断腿骨头裸露在外",
-      "onboard_time": 1705947735,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 171951,
+      "num": 171951,
+      "word": "这一次竹马战胜了天降",
+      "onboard_time": 1705948216,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 161207,
@@ -291,12 +331,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133059,
-      "num": 81280,
-      "word": "警惕妇癌之王卵巢癌这些信号别忽视",
-      "onboard_time": 1705948634,
-      "rank": 11,
-      "category": "健康医疗"
+      "raw_hot": 133057,
+      "num": 133057,
+      "word": "成毅工作室运镜跟郭虎学的吗",
+      "onboard_time": 1705963457,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132045,
@@ -307,12 +347,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 130983,
-      "num": 49612,
-      "word": "17年前被入室抢走的姜甲儒找到了",
-      "onboard_time": 1705956913,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 115662,
+      "num": 115662,
+      "word": "国足0比1卡塔尔",
+      "onboard_time": 1705965320,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 115652,
@@ -355,11 +395,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107812,
-      "num": 46736,
-      "word": "女子为带货编造中学生被继父强奸等谣言",
-      "onboard_time": 1705957992,
-      "rank": 48,
+      "raw_hot": 107240,
+      "num": 96532,
+      "word": "南方下的不是雪是壁纸",
+      "onboard_time": 1705957453,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -369,6 +409,14 @@
       "onboard_time": 1705934668,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105588,
+      "num": 105588,
+      "word": "新疆消防救援队伍已赶赴震中",
+      "onboard_time": 1705965019,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102344,
@@ -409,14 +457,6 @@
       "onboard_time": 1705928368,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92320,
-      "num": 92320,
-      "word": "这一次竹马战胜了天降",
-      "onboard_time": 1705948216,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 87911,
@@ -465,6 +505,14 @@
       "onboard_time": 1705942282,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 78242,
+      "num": 78242,
+      "word": "马诺已拿到人身保护令",
+      "onboard_time": 1705961894,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 77978,
@@ -531,6 +579,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 59657,
+      "num": 59657,
+      "word": "陶晶莹控诉合伙人拿走公司私章",
+      "onboard_time": 1705950974,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58331,
+      "num": 58331,
+      "word": "肖一成想和林西同房",
+      "onboard_time": 1705963396,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52361,
       "num": 52361,
       "word": "小米超越苹果登顶中国第一",
@@ -555,28 +619,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44472,
+      "num": 44472,
+      "word": "国足只剩理论出线希望",
+      "onboard_time": 1705965381,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41834,
       "num": 41834,
       "word": "RNG对战EDG",
       "onboard_time": 1705926927,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 41811,
-      "num": 33965,
-      "word": "南方下的不是雪是壁纸",
-      "onboard_time": 1705957453,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33190,
-      "num": 33190,
-      "word": "陶晶莹控诉合伙人拿走公司私章",
-      "onboard_time": 1705950974,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 32452,
@@ -595,15 +651,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 23640,
-      "num": 23640,
-      "word": "马诺已拿到人身保护令",
-      "onboard_time": 1705961894,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 14049,
+      "raw_hot": 24279,
       "num": 456159,
       "word": "国字号重器硬核展示中国制造实力",
       "onboard_time": 1705928249,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/23 06:34:13
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/23 07:18:28
 </p>
 </blockquote>
 <p>
@@ -275,6 +275,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E5%BC%95%E5%8F%915%E7%B1%B3%E6%B5%B7%E5%95%B8%23" target="weibo">
 日本强震引发5米海啸（热度：3135611）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%B9%8C%E4%BB%80%E5%8E%BF7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+新疆乌什县7.1级地震（热度：3053375）
 </a>
 </li>
 
@@ -587,12 +593,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E6%85%A7%20%E5%AF%B9%E4%B8%8D%E8%B5%B7%E4%B8%91%E5%88%B0%E5%A4%A7%E5%AE%B6%E4%BA%86%23" target="weibo">
 毛晓慧 对不起丑到大家了（热度：2198965）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%B9%8C%E4%BB%80%E5%8E%BF7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-新疆乌什县7.1级地震（热度：2193160）
 </a>
 </li>
 
