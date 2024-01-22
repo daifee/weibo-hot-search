@@ -1,0 +1,410 @@
+{
+  "runTime": 1705898220453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2058728,
+        "num": 2058728,
+        "word": "小红书博主引导网友穿越军事重地",
+        "onboard_time": 1705891225,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1250466,
+        "num": 1250466,
+        "word": "方媛回应坐经济舱",
+        "onboard_time": 1705896388,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231231,
+        "num": 1249595,
+        "word": "南方多地迎降雪",
+        "onboard_time": 1705893865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1249021,
+        "num": 1249021,
+        "word": "下雪",
+        "onboard_time": 1705883245,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837279,
+        "num": 837279,
+        "word": "云南镇雄突发山体滑坡47人被埋",
+        "onboard_time": 1705894286,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605170,
+        "num": 605170,
+        "word": "研究生劳务费",
+        "onboard_time": 1705884266,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 561724,
+        "num": 561724,
+        "word": "岳云鹏被金莎的爱情冲击到",
+        "onboard_time": 1705888883,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556900,
+        "num": 556900,
+        "word": "微信红包并非转账认定赠与无需返还",
+        "onboard_time": 1705839807,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540605,
+        "num": 540605,
+        "word": "深圳队宣布解散",
+        "onboard_time": 1705892245,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527984,
+        "num": 527984,
+        "word": "原神掉粉",
+        "onboard_time": 1705895006,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 845830,
+        "num": 526383,
+        "word": "方媛综艺首秀",
+        "onboard_time": 1705894886,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1106534,
+        "num": 523595,
+        "word": "华中农大被举报教授克扣研究生劳务费",
+        "onboard_time": 1705894405,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520649,
+        "num": 520649,
+        "word": "德国退出碳中和",
+        "onboard_time": 1705896025,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 496476,
+        "num": 496476,
+        "word": "关于六寸蛋糕放5斤车厘子这件事",
+        "onboard_time": 1705845211,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 493279,
+        "num": 493279,
+        "word": "花少5大收官连播3天",
+        "onboard_time": 1705896868,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1460826,
+        "num": 489141,
+        "word": "火灾遇难学生遗体呈躺睡状态",
+        "onboard_time": 1705891225,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472537,
+        "num": 472537,
+        "word": "安陵容早这样后宫没一个是对手",
+        "onboard_time": 1705887683,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 468625,
+        "num": 468625,
+        "word": "马伊琍唐嫣辛芷蕾合体首封",
+        "onboard_time": 1705896145,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459153,
+        "num": 459153,
+        "word": "董宇辉建议俞敏洪拍中国合伙人2",
+        "onboard_time": 1705895426,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 334122,
+        "num": 334122,
+        "word": "16岁刘亦菲旧照",
+        "onboard_time": 1705897648,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313848,
+        "num": 313848,
+        "word": "过年美甲",
+        "onboard_time": 1705896688,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 310507,
+        "num": 310507,
+        "word": "周杰伦 多重宇宙伦都是真的",
+        "onboard_time": 1705894947,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302527,
+        "num": 302527,
+        "word": "猫好 狗坏",
+        "onboard_time": 1705897948,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262426,
+        "num": 262426,
+        "word": "A股",
+        "onboard_time": 1705887683,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249266,
+        "num": 249266,
+        "word": "军事重地禁止进入并非儿戏",
+        "onboard_time": 1705896448,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231284,
+        "num": 231284,
+        "word": "黑龙江多地文旅连夜上大分",
+        "onboard_time": 1705896990,
+        "rank": 25,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 227150,
+        "num": 227150,
+        "word": "王者荣耀刘慈欣平行世界",
+        "onboard_time": 1705892786,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224468,
+        "num": 224468,
+        "word": "鸡 你有没有为一块猪油拼过命",
+        "onboard_time": 1705881444,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224168,
+        "num": 224168,
+        "word": "真正摧毁肾的4个行为",
+        "onboard_time": 1705887805,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215271,
+        "num": 215271,
+        "word": "哈药六厂",
+        "onboard_time": 1705889906,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 202610,
+        "num": 202610,
+        "word": "接倪妮 拍杨婧",
+        "onboard_time": 1705894707,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197766,
+        "num": 197766,
+        "word": "90后小伙给百位老人记手帐",
+        "onboard_time": 1705897467,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196294,
+        "num": 196294,
+        "word": "祈今朝男小三",
+        "onboard_time": 1705893626,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189333,
+        "num": 189333,
+        "word": "31省份最低工资表",
+        "onboard_time": 1705897769,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 177684,
+        "num": 177684,
+        "word": "上海下雪",
+        "onboard_time": 1705887865,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173716,
+        "num": 173716,
+        "word": "史铁生的一生是震撼我的",
+        "onboard_time": 1705891585,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 169972,
+        "num": 169972,
+        "word": "白鹿下雪给粉丝送豆浆",
+        "onboard_time": 1705897827,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168695,
+        "num": 168695,
+        "word": "不会保存车厘子的人有福了",
+        "onboard_time": 1705895849,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160937,
+        "num": 160937,
+        "word": "广西广东等地将有大到暴雪",
+        "onboard_time": 1705890205,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155996,
+        "num": 155996,
+        "word": "数码宝贝 把眼泪还回来",
+        "onboard_time": 1705893807,
+        "rank": 39,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 150958,
+        "num": 150958,
+        "word": "春运抢票12306新功能汇总",
+        "onboard_time": 1705887505,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143699,
+        "num": 143699,
+        "word": "杜兰特40分",
+        "onboard_time": 1705897530,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140434,
+        "num": 140434,
+        "word": "成毅莲花楼哭戏赏析",
+        "onboard_time": 1705894646,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132321,
+        "num": 132321,
+        "word": "2024山东春晚官宣",
+        "onboard_time": 1705895728,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131144,
+        "num": 131144,
+        "word": "蘑菇头表情包创始人称未收到钱",
+        "onboard_time": 1705897289,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130197,
+        "num": 130197,
+        "word": "卧铺票可在线自主选铺",
+        "onboard_time": 1705895544,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129986,
+        "num": 129986,
+        "word": "郎朗回应58岁建筑工人钢琴之约",
+        "onboard_time": 1705879339,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121929,
+        "num": 121929,
+        "word": "女子分手拒搬离前男友房子",
+        "onboard_time": 1705898129,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120407,
+        "num": 120407,
+        "word": "起诉张雪峰博主决定撤诉",
+        "onboard_time": 1705890205,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119698,
+        "num": 119698,
+        "word": "在东北车厘子都要裹上暖宝宝",
+        "onboard_time": 1705886904,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#3820战略工程蕴含怎样的魄力和精神#"
+    }
+  }
+}
