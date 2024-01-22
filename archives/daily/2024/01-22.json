@@ -1,6 +1,6 @@
 {
   "startTime": 1705854115620,
-  "endTime": 1705907859224,
+  "endTime": 1705908855960,
   "band_list": [
     {
       "raw_hot": 2152220,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1288927,
+      "num": 456884,
+      "word": "A股三大指数均跌超3%",
+      "onboard_time": 1705907365,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1106534,
       "num": 523595,
       "word": "华中农大被举报教授克扣研究生劳务费",
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 982436,
+      "num": 982436,
+      "word": "横店一场雪成就了三部剧",
+      "onboard_time": 1705905325,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 924804,
       "num": 400885,
       "word": "A股",
@@ -99,28 +115,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 910361,
-      "num": 910361,
-      "word": "横店一场雪成就了三部剧",
-      "onboard_time": 1705905325,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 908558,
       "num": 908558,
       "word": "方媛综艺首秀",
       "onboard_time": 1705894886,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 891326,
-      "num": 456884,
-      "word": "A股三大指数均跌超3%",
-      "onboard_time": 1705907365,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 889073,
@@ -161,6 +161,14 @@
       "onboard_time": 1705892245,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 813219,
+      "num": 813219,
+      "word": "多位明星参演电影涉影视投资诈骗案",
+      "onboard_time": 1705907186,
+      "rank": 13,
+      "category": "社会新闻,电影"
     },
     {
       "raw_hot": 792801,
@@ -339,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 489071,
+      "num": 489071,
+      "word": "辛巴回应孩子应吃预制菜言论",
+      "onboard_time": 1705905983,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481369,
       "num": 345844,
       "word": "猫好 狗坏",
@@ -417,14 +433,6 @@
       "onboard_time": 1705885644,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 431817,
-      "num": 431817,
-      "word": "辛巴回应孩子应吃预制菜言论",
-      "onboard_time": 1705905983,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429671,
@@ -563,8 +571,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349152,
-      "num": 349152,
+      "raw_hot": 352456,
+      "num": 352456,
       "word": "李庚希是真豁出去了 彭彭应该就这样",
       "onboard_time": 1705905867,
       "rank": 12,
@@ -577,14 +585,6 @@
       "onboard_time": 1705858456,
       "rank": 17,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 346296,
-      "num": 346296,
-      "word": "多位明星参演电影涉影视投资诈骗案",
-      "onboard_time": 1705907186,
-      "rank": 13,
-      "category": "社会新闻,电影"
     },
     {
       "raw_hot": 343806,
@@ -601,6 +601,14 @@
       "onboard_time": 1705894947,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333312,
+      "num": 333312,
+      "word": "枭起青壤 陈哲远",
+      "onboard_time": 1705907008,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 326369,
@@ -731,6 +739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 256863,
+      "num": 193352,
+      "word": "高铁上拒绝了带娃女士的让座要求",
+      "onboard_time": 1705908508,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252122,
       "num": 241204,
       "word": "原神代肝有多残酷",
@@ -819,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223328,
+      "num": 223328,
+      "word": "久酷 我会酷的久一点",
+      "onboard_time": 1705907127,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 222775,
       "num": 222775,
       "word": "祈今朝男小三",
@@ -875,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207480,
+      "num": 207480,
+      "word": "日经225指数续创34年新高",
+      "onboard_time": 1705908387,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 206960,
       "num": 206960,
       "word": "要久久爱收视率",
@@ -889,14 +921,6 @@
       "onboard_time": 1705880001,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206229,
-      "num": 206229,
-      "word": "枭起青壤 陈哲远",
-      "onboard_time": 1705907008,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 202632,
@@ -937,14 +961,6 @@
       "onboard_time": 1705892547,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 200702,
-      "num": 200702,
-      "word": "久酷 我会酷的久一点",
-      "onboard_time": 1705907127,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 200370,
@@ -995,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194144,
+      "num": 194144,
+      "word": "苏州KSG久酷连接成功",
+      "onboard_time": 1705907904,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190107,
       "num": 190107,
       "word": "中欧基金葛兰十大重仓股",
@@ -1035,20 +1059,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184482,
+      "num": 193395,
+      "word": "资金增持高股息概念股",
+      "onboard_time": 1705907665,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 182027,
       "num": 182027,
       "word": "男孩写错题用打火机当消除笔",
       "onboard_time": 1705900884,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178596,
-      "num": 177619,
-      "word": "资金增持高股息概念股",
-      "onboard_time": 1705907665,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 178226,
@@ -1099,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171706,
+      "num": 171706,
+      "word": "下班后就不要联系我了",
+      "onboard_time": 1705908207,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168929,
       "num": 168929,
       "word": "不会保存车厘子的人有福了",
@@ -1139,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165257,
+      "num": 165257,
+      "word": "接下来三周的工作计划安排",
+      "onboard_time": 1705903584,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165078,
       "num": 165078,
       "word": "明星雪景上班图",
@@ -1163,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157981,
+      "num": 157981,
+      "word": "上海土豆面包乘飞机抵达尔滨",
+      "onboard_time": 1705904845,
+      "rank": 39,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 157940,
       "num": 157940,
       "word": "拉塞尔是懂人情世故的",
@@ -1171,12 +1219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157164,
-      "num": 157164,
-      "word": "接下来三周的工作计划安排",
-      "onboard_time": 1705903584,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 157281,
+      "num": 157281,
+      "word": "钱恒成瑶初吻",
+      "onboard_time": 1705908024,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 157040,
@@ -1217,6 +1265,14 @@
       "onboard_time": 1705887145,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151597,
+      "num": 151597,
+      "word": "苦尔鳗",
+      "onboard_time": 1705908024,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 149481,
@@ -1411,14 +1467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 129346,
-      "num": 129346,
-      "word": "上海土豆面包乘飞机抵达尔滨",
-      "onboard_time": 1705904845,
-      "rank": 39,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 129319,
       "num": 129319,
       "word": "仙剑之父转发仙剑四微博",
@@ -1481,6 +1529,14 @@
       "onboard_time": 1705894226,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 119140,
+      "num": 119140,
+      "word": "WBG老板回应设计师言论",
+      "onboard_time": 1705908686,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 118199,
@@ -1547,6 +1603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 110265,
+      "num": 110265,
+      "word": "东方甄选出海",
+      "onboard_time": 1705907847,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 109863,
       "num": 109863,
       "word": "男子撸走1岁半幼儿金镯获刑9个月",
@@ -1587,12 +1651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107552,
-      "num": 107552,
-      "word": "东方甄选出海",
-      "onboard_time": 1705907847,
+      "raw_hot": 107269,
+      "num": 107269,
+      "word": "Hero夏凌断开连接",
+      "onboard_time": 1705905745,
       "rank": 49,
-      "category": "互联网"
+      "category": "电竞"
     },
     {
       "raw_hot": 106111,
@@ -1755,6 +1819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74347,
+      "num": 118877,
+      "word": "中国地下管道修复技术被用到北美欧洲",
+      "onboard_time": 1705907904,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70639,
       "num": 70639,
       "word": "奥沙利文斯诺克大奖赛夺冠",
@@ -1769,6 +1841,14 @@
       "onboard_time": 1705841369,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63646,
+      "num": 822521,
+      "word": "争分夺秒全力以赴",
+      "onboard_time": 1705908329,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58153,
@@ -1911,6 +1991,9 @@
     },
     {
       "word": "#3820战略工程蕴含怎样的魄力和精神#"
+    },
+    {
+      "word": "#习近平对云南山体滑坡作出重要指示#"
     }
   ]
 }
