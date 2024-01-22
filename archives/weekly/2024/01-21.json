@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705916062097,
+  "endTime": 1705918816061,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -113,6 +113,14 @@
       "onboard_time": 1705845211,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1347051,
+      "num": 1347051,
+      "word": "韩安冉前夫回应女儿确诊多动症",
+      "onboard_time": 1705915346,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 1301584,
@@ -291,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 969713,
+      "num": 969713,
+      "word": "雷军 互关",
+      "onboard_time": 1705916007,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 937194,
       "num": 937194,
       "word": "官方通报大学生夜游网红火车站严重烧伤",
@@ -305,6 +321,14 @@
       "onboard_time": 1705887683,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 921859,
+      "num": 921859,
+      "word": "刘涛 蓝牙",
+      "onboard_time": 1705915165,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 920542,
@@ -355,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 851121,
+      "num": 851121,
+      "word": "大哥收购2千万根苹果枝身价翻10倍",
+      "onboard_time": 1705913728,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 848793,
       "num": 848793,
       "word": "郎朗回应58岁建筑工人钢琴之约",
@@ -385,14 +417,6 @@
       "onboard_time": 1705819166,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 819311,
-      "num": 819311,
-      "word": "大哥收购2千万根苹果枝身价翻10倍",
-      "onboard_time": 1705913728,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 818534,
@@ -481,6 +505,14 @@
       "onboard_time": 1705889906,
       "rank": 13,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 756712,
+      "num": 756712,
+      "word": "唐山打人案属地公安原局长获刑12年",
+      "onboard_time": 1705918345,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 741302,
@@ -619,14 +651,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 648096,
-      "num": 407450,
-      "word": "韩安冉前夫回应女儿确诊多动症",
-      "onboard_time": 1705915346,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 640956,
       "num": 640956,
       "word": "本周狗屎运最旺的星座",
@@ -707,6 +731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 604067,
+      "num": 298870,
+      "word": "男生表白失败坠楼家属向多方索赔127万",
+      "onboard_time": 1705915946,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603511,
       "num": 603511,
       "word": "安陵容早这样后宫没一个是对手",
@@ -777,6 +809,14 @@
       "onboard_time": 1705800626,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555518,
+      "num": 362502,
+      "word": "周小平 A股不涨比涨要安全",
+      "onboard_time": 1705915047,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 549529,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1705897769,
       "rank": 33,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 457705,
+      "num": 457705,
+      "word": "TES在打什么",
+      "onboard_time": 1705917746,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 450152,
@@ -1387,14 +1435,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 372360,
-      "num": 372360,
-      "word": "刘涛 蓝牙",
-      "onboard_time": 1705915165,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 368373,
       "num": 368373,
       "word": "1米9萌兰最想删掉的视频",
@@ -1555,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339636,
+      "num": 339636,
+      "word": "BLG对战TES",
+      "onboard_time": 1705916905,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 337622,
       "num": 337622,
       "word": "李沁捧雪照",
@@ -1596,7 +1644,7 @@
     },
     {
       "raw_hot": 331524,
-      "num": 174097,
+      "num": 296378,
       "word": "因为一个清洁袋我妈被罚了1500",
       "onboard_time": 1705915408,
       "rank": 30,
@@ -1617,6 +1665,14 @@
       "onboard_time": 1705798344,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 326684,
+      "num": 326684,
+      "word": "胡锡进为今天的股市表现难过",
+      "onboard_time": 1705917685,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 326570,
@@ -1739,14 +1795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296864,
-      "num": 296864,
-      "word": "周小平 A股不涨比涨要安全",
-      "onboard_time": 1705915047,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 293733,
       "num": 244225,
       "word": "食物语手游",
@@ -1785,6 +1833,14 @@
       "onboard_time": 1705760191,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284961,
+      "num": 284961,
+      "word": "蝴蝶美甲",
+      "onboard_time": 1705917930,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 283610,
@@ -1987,6 +2043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 248396,
+      "num": 248396,
+      "word": "横店剧组今日现状",
+      "onboard_time": 1705917086,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248257,
       "num": 248257,
       "word": "白鹿下雪给粉丝送豆浆",
@@ -2017,6 +2081,14 @@
       "onboard_time": 1705755268,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244150,
+      "num": 244150,
+      "word": "云南山体滑坡已有8人遇难",
+      "onboard_time": 1705916427,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243667,
@@ -2299,6 +2371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213946,
+      "num": 213946,
+      "word": "让自己一年涨薪两次的方法",
+      "onboard_time": 1705918530,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212988,
       "num": 245901,
       "word": "印度赛石宇奇男单夺冠",
@@ -2321,6 +2401,14 @@
       "onboard_time": 1705834466,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210964,
+      "num": 210964,
+      "word": "火男打野",
+      "onboard_time": 1705917806,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 210706,
@@ -2441,6 +2529,14 @@
       "onboard_time": 1705818869,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203247,
+      "num": 203247,
+      "word": "多动症 遗传",
+      "onboard_time": 1705918407,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203203,
@@ -2979,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177550,
+      "num": 177550,
+      "word": "伽罗马超铠琥珀纪元皮肤",
+      "onboard_time": 1705918530,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176113,
       "num": 176113,
       "word": "国产三蹦子魅力传到外国",
@@ -3041,6 +3145,14 @@
       "onboard_time": 1705820427,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173386,
+      "num": 173386,
+      "word": "gapday是成年人的一次短逃离",
+      "onboard_time": 1705918169,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 173246,
@@ -3307,12 +3419,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160198,
+      "num": 1133184,
+      "word": "消防员归队老人拦路跪地感谢",
+      "onboard_time": 1705917027,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160044,
+      "num": 160044,
+      "word": "过年原来比想象中更花钱",
+      "onboard_time": 1705915768,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158675,
       "num": 137274,
       "word": "一个人打开论文真的好危险",
       "onboard_time": 1705798403,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158553,
+      "num": 158553,
+      "word": "温州下雪",
+      "onboard_time": 1705917386,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157999,
@@ -3411,14 +3547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152283,
-      "num": 152283,
-      "word": "过年原来比想象中更花钱",
-      "onboard_time": 1705915768,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152127,
       "num": 152127,
       "word": "江西下雪了",
@@ -3457,6 +3585,14 @@
       "onboard_time": 1705820305,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149876,
+      "num": 149876,
+      "word": "老鼠都快拿到冰箱了",
+      "onboard_time": 1705918467,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 149675,
@@ -3505,6 +3641,14 @@
       "onboard_time": 1705765647,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 148361,
+      "num": 148361,
+      "word": "BLG春季赛先下一城",
+      "onboard_time": 1705918764,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 148298,
@@ -3683,6 +3827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142047,
+      "num": 142047,
+      "word": "这猫上辈子是集装箱吧",
+      "onboard_time": 1705918647,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142004,
       "num": 142004,
       "word": "被刘宇宁刻进骨子里的盘串",
@@ -3721,6 +3873,14 @@
       "onboard_time": 1705800446,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140508,
+      "num": 140508,
+      "word": "TES 执着沙皇",
+      "onboard_time": 1705918647,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 140304,
@@ -3867,6 +4027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133972,
+      "num": 989107,
+      "word": "货车侧翻众人9小时帮忙搬运货物",
+      "onboard_time": 1705917027,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133914,
       "num": 133914,
       "word": "PoppinC街舞6总冠军",
@@ -3945,14 +4113,6 @@
       "onboard_time": 1705894047,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131034,
-      "num": 131034,
-      "word": "雷军 互关",
-      "onboard_time": 1705916007,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 130887,
@@ -4443,14 +4603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106671,
-      "num": 130374,
-      "word": "男生表白失败坠楼家属向多方索赔127万",
-      "onboard_time": 1705915946,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105748,
       "num": 105748,
       "word": "李金恣冬青奥夺金",
@@ -4836,7 +4988,7 @@
     },
     {
       "raw_hot": 68499,
-      "num": 904293,
+      "num": 1081711,
       "word": "争分夺秒全力以赴",
       "onboard_time": 1705908329,
       "rank": 2,
@@ -4857,6 +5009,14 @@
       "onboard_time": 1705837767,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 62524,
+      "num": 926617,
+      "word": "100秒致敬珠峰边境派出所戍边人",
+      "onboard_time": 1705917027,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 58153,
