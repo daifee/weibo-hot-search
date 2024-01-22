@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705923249362,
+  "endTime": 1705926911336,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -6323,6 +6323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 845795,
+      "num": 845795,
+      "word": "快乐星球4的男主是女生演的",
+      "onboard_time": 1705921468,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 845572,
       "num": 845572,
       "word": "云南白药退出全部二级市场证券投资",
@@ -7211,6 +7219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 791725,
+      "num": 791725,
+      "word": "马来西亚一载有16名中国游客客车发生事故",
+      "onboard_time": 1705924946,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 791175,
       "num": 365018,
       "word": "股市",
@@ -8033,6 +8049,14 @@
       "onboard_time": 1705069293,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 745326,
+      "num": 483540,
+      "word": "抖音回应放贷余额近4000亿元",
+      "onboard_time": 1705921947,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 745276,
@@ -9129,6 +9153,14 @@
       "onboard_time": 1705322973,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 690334,
+      "num": 690334,
+      "word": "俞敏洪让董宇辉改认证",
+      "onboard_time": 1705925246,
+      "rank": 4,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 690252,
@@ -10713,6 +10745,14 @@
       "onboard_time": 1704946353,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 616847,
+      "num": 616847,
+      "word": "锦衣之下湖南卫视温暖重映",
+      "onboard_time": 1705921527,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 616112,
@@ -14227,6 +14267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 503763,
+      "num": 503763,
+      "word": "小米超越苹果登顶中国第一",
+      "onboard_time": 1705922126,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 503703,
       "num": 503703,
       "word": "辛芷蕾 不让我进场我嗷嗷挤",
@@ -14889,6 +14937,14 @@
       "onboard_time": 1705552534,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 486413,
+      "num": 486413,
+      "word": "董宇辉称不会拉黑任何人",
+      "onboard_time": 1705923087,
+      "rank": 45,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 486403,
@@ -22091,14 +22147,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 315975,
-      "num": 315975,
-      "word": "锦衣之下湖南卫视温暖重映",
-      "onboard_time": 1705921527,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 315777,
       "num": 303970,
       "word": "水瓶座单身率高的原因",
@@ -22195,6 +22243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 313610,
+      "num": 313610,
+      "word": "他暗爽她也暗爽我明爽",
+      "onboard_time": 1705926025,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313583,
       "num": 313583,
       "word": "惠英红 南方小土豆堆雪人",
@@ -22241,14 +22297,6 @@
       "onboard_time": 1704588807,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 313305,
-      "num": 313305,
-      "word": "小米超越苹果登顶中国第一",
-      "onboard_time": 1705922126,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 313294,
@@ -22601,6 +22649,22 @@
       "onboard_time": 1705235371,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306659,
+      "num": 168840,
+      "word": "原来在高铁上发疯真的有用",
+      "onboard_time": 1705926087,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 306612,
+      "num": 228291,
+      "word": "95生四大颜霸",
+      "onboard_time": 1705922187,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 306545,
@@ -23275,6 +23339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 294689,
+      "num": 294689,
+      "word": "世界之外 消音哥能不能换CV",
+      "onboard_time": 1705925308,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 294559,
       "num": 294559,
       "word": "王鹤棣最喜欢挂檀健次身上",
@@ -23457,14 +23529,6 @@
       "onboard_time": 1705231827,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291809,
-      "num": 291809,
-      "word": "抖音回应放贷余额近4000亿元",
-      "onboard_time": 1705921947,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 291755,
@@ -24089,6 +24153,14 @@
       "onboard_time": 1705919426,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285059,
+      "num": 285059,
+      "word": "文俊辉黄仁俊钟辰乐同框",
+      "onboard_time": 1705924527,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 284963,
@@ -27827,6 +27899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 239101,
+      "num": 239101,
+      "word": "外国人以为的中国键盘",
+      "onboard_time": 1705924227,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239014,
       "num": 239014,
       "word": "GLASS拍的刘浩存林一",
@@ -27969,14 +28049,6 @@
       "onboard_time": 1704192334,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237822,
-      "num": 237822,
-      "word": "快乐星球4的男主是女生演的",
-      "onboard_time": 1705921468,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 237622,
@@ -31323,14 +31395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211790,
-      "num": 211790,
-      "word": "95生四大颜霸",
-      "onboard_time": 1705922187,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 211723,
       "num": 211723,
       "word": "鞠婧祎奶栗妆",
@@ -34115,6 +34179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198127,
+      "num": 198127,
+      "word": "国足末轮生死战",
+      "onboard_time": 1705925009,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198073,
       "num": 198073,
       "word": "猫咪山竹",
@@ -35688,6 +35760,14 @@
       "word": "A股2024年首个交易日",
       "onboard_time": 1704166895,
       "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 191248,
+      "num": 191248,
+      "word": "促进资本市场平稳健康发展",
+      "onboard_time": 1705926626,
+      "rank": 27,
       "category": "财经"
     },
     {
@@ -40475,6 +40555,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 169787,
+      "num": 169787,
+      "word": "14薪的快乐",
+      "onboard_time": 1705923028,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169781,
       "num": 169781,
       "word": "猫掌倒过来看是一个泰迪熊",
@@ -40899,6 +40987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167856,
+      "num": 167856,
+      "word": "Hero久竞人员变动公告",
+      "onboard_time": 1705924168,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167840,
       "num": 167840,
       "word": "易方达基金张坤十大重仓股",
@@ -40929,6 +41025,14 @@
       "onboard_time": 1704419608,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167770,
+      "num": 167770,
+      "word": "第一次知道可以用水熬猪油",
+      "onboard_time": 1705926626,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 167605,
@@ -41985,6 +42089,14 @@
       "onboard_time": 1705311511,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162779,
+      "num": 162779,
+      "word": "不用剧烈运动也能瘦全身的方法",
+      "onboard_time": 1705926265,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 162747,
@@ -43499,6 +43611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156135,
+      "num": 156135,
+      "word": "大江大河是巨大的菀菀类卿",
+      "onboard_time": 1705925366,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156103,
       "num": 156103,
       "word": "京城大师赛",
@@ -43809,6 +43929,14 @@
       "onboard_time": 1704271771,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154941,
+      "num": 154941,
+      "word": "郑钦文首进澳网八强",
+      "onboard_time": 1705924168,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 154893,
@@ -45299,6 +45427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148212,
+      "num": 148212,
+      "word": "阴阳师龙年新春版本",
+      "onboard_time": 1705926747,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148209,
       "num": 148209,
       "word": "关晓彤 宋亚轩逐渐放飞",
@@ -45513,14 +45649,6 @@
       "onboard_time": 1705912346,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146873,
-      "num": 146873,
-      "word": "董宇辉称不会拉黑任何人",
-      "onboard_time": 1705923087,
-      "rank": 45,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 146802,
@@ -45857,6 +45985,14 @@
       "onboard_time": 1704765752,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145750,
+      "num": 145750,
+      "word": "有些事情最好不要和父母说",
+      "onboard_time": 1705926868,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 145749,
@@ -47057,14 +47193,6 @@
       "onboard_time": 1705402412,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 141454,
-      "num": 141454,
-      "word": "14薪的快乐",
-      "onboard_time": 1705923028,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 141422,
@@ -48715,6 +48843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134294,
+      "num": 134294,
+      "word": "蒋翼被黄瀛子误会是小三",
+      "onboard_time": 1705925787,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134278,
       "num": 134278,
       "word": "陈星旭费启鸣竟然是同岁的",
@@ -48857,6 +48993,14 @@
       "onboard_time": 1705107446,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133719,
+      "num": 133719,
+      "word": "江苏卫视春晚探班直播",
+      "onboard_time": 1705925609,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 133684,
@@ -50875,6 +51019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125763,
+      "num": 125763,
+      "word": "BLG春季赛首胜",
+      "onboard_time": 1705923807,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125720,
       "num": 125720,
       "word": "韩国vs巴林",
@@ -51753,6 +51905,14 @@
       "onboard_time": 1704285755,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122262,
+      "num": 122262,
+      "word": "狗 冒昧的人类",
+      "onboard_time": 1705926808,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 122164,
@@ -59684,7 +59844,7 @@
     },
     {
       "raw_hot": 26584,
-      "num": 137243,
+      "num": 146372,
       "word": "王者琥珀纪元孙燕姿合作预告",
       "onboard_time": 1705923148,
       "rank": 49,

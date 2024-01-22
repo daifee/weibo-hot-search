@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705923249362,
+  "endTime": 1705926911336,
   "band_list": [
     {
       "raw_hot": 2678805,
@@ -419,6 +419,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 845795,
+      "num": 845795,
+      "word": "快乐星球4的男主是女生演的",
+      "onboard_time": 1705921468,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 845451,
       "num": 845451,
       "word": "叙利亚一家五口两年没吃过肉",
@@ -491,6 +499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 791725,
+      "num": 791725,
+      "word": "马来西亚一载有16名中国游客客车发生事故",
+      "onboard_time": 1705924946,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 791175,
       "num": 365018,
       "word": "股市",
@@ -537,6 +553,14 @@
       "onboard_time": 1705889906,
       "rank": 13,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 745326,
+      "num": 483540,
+      "word": "抖音回应放贷余额近4000亿元",
+      "onboard_time": 1705921947,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 741302,
@@ -617,6 +641,14 @@
       "onboard_time": 1705805006,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690334,
+      "num": 690334,
+      "word": "俞敏洪让董宇辉改认证",
+      "onboard_time": 1705925246,
+      "rank": 4,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 672128,
@@ -729,6 +761,14 @@
       "onboard_time": 1705910906,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 616847,
+      "num": 616847,
+      "word": "锦衣之下湖南卫视温暖重映",
+      "onboard_time": 1705921527,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 615816,
@@ -987,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 503763,
+      "num": 503763,
+      "word": "小米超越苹果登顶中国第一",
+      "onboard_time": 1705922126,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 500491,
       "num": 500491,
       "word": "彩礼的本质",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1705806024,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486413,
+      "num": 486413,
+      "word": "董宇辉称不会拉黑任何人",
+      "onboard_time": 1705923087,
+      "rank": 45,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 481369,
@@ -1787,20 +1843,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 315975,
-      "num": 315975,
-      "word": "锦衣之下湖南卫视温暖重映",
-      "onboard_time": 1705921527,
-      "rank": 23,
+      "raw_hot": 313610,
+      "num": 313610,
+      "word": "他暗爽她也暗爽我明爽",
+      "onboard_time": 1705926025,
+      "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 313305,
-      "num": 313305,
-      "word": "小米超越苹果登顶中国第一",
-      "onboard_time": 1705922126,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 311235,
@@ -1817,6 +1865,22 @@
       "onboard_time": 1705808666,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306659,
+      "num": 168840,
+      "word": "原来在高铁上发疯真的有用",
+      "onboard_time": 1705926087,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 306612,
+      "num": 228291,
+      "word": "95生四大颜霸",
+      "onboard_time": 1705922187,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 303484,
@@ -1867,20 +1931,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294689,
+      "num": 294689,
+      "word": "世界之外 消音哥能不能换CV",
+      "onboard_time": 1705925308,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 293733,
       "num": 244225,
       "word": "食物语手游",
       "onboard_time": 1705845450,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 291809,
-      "num": 291809,
-      "word": "抖音回应放贷余额近4000亿元",
-      "onboard_time": 1705921947,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 288757,
@@ -1921,6 +1985,14 @@
       "onboard_time": 1705760191,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285059,
+      "num": 285059,
+      "word": "文俊辉黄仁俊钟辰乐同框",
+      "onboard_time": 1705924527,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 283610,
@@ -2219,20 +2291,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239101,
+      "num": 239101,
+      "word": "外国人以为的中国键盘",
+      "onboard_time": 1705924227,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238717,
       "num": 238717,
       "word": "边伯贤将3月举行演唱会",
       "onboard_time": 1705890145,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 237822,
-      "num": 237822,
-      "word": "快乐星球4的男主是女生演的",
-      "onboard_time": 1705921468,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 235861,
@@ -2497,14 +2569,6 @@
       "onboard_time": 1705883488,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 211790,
-      "num": 211790,
-      "word": "95生四大颜霸",
-      "onboard_time": 1705922187,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 211364,
@@ -2827,6 +2891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198127,
+      "num": 198127,
+      "word": "国足末轮生死战",
+      "onboard_time": 1705925009,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197766,
       "num": 197766,
       "word": "90后小伙给百位老人记手帐",
@@ -2977,6 +3049,14 @@
       "onboard_time": 1705910067,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191248,
+      "num": 191248,
+      "word": "促进资本市场平稳健康发展",
+      "onboard_time": 1705926626,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 190885,
@@ -3419,6 +3499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169787,
+      "num": 169787,
+      "word": "14薪的快乐",
+      "onboard_time": 1705923028,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168929,
       "num": 168929,
       "word": "不会保存车厘子的人有福了",
@@ -3441,6 +3529,22 @@
       "onboard_time": 1705834286,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167856,
+      "num": 167856,
+      "word": "Hero久竞人员变动公告",
+      "onboard_time": 1705924168,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 167770,
+      "num": 167770,
+      "word": "第一次知道可以用水熬猪油",
+      "onboard_time": 1705926626,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 166292,
@@ -3537,6 +3641,14 @@
       "onboard_time": 1705808545,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162779,
+      "num": 162779,
+      "word": "不用剧烈运动也能瘦全身的方法",
+      "onboard_time": 1705926265,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 162704,
@@ -3699,6 +3811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 156135,
+      "num": 156135,
+      "word": "大江大河是巨大的菀菀类卿",
+      "onboard_time": 1705925366,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155933,
       "num": 155933,
       "word": "要久久爱婚礼戏",
@@ -3737,6 +3857,14 @@
       "onboard_time": 1705922425,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 154941,
+      "num": 154941,
+      "word": "郑钦文首进澳网八强",
+      "onboard_time": 1705924168,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 154893,
@@ -3867,6 +3995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148212,
+      "num": 148212,
+      "word": "阴阳师龙年新春版本",
+      "onboard_time": 1705926747,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147559,
       "num": 147559,
       "word": "卧铺票可在线自主选铺",
@@ -3891,14 +4027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146873,
-      "num": 146873,
-      "word": "董宇辉称不会拉黑任何人",
-      "onboard_time": 1705923087,
-      "rank": 45,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 146560,
       "num": 146560,
       "word": "长沙TES转会公告",
@@ -3913,6 +4041,14 @@
       "onboard_time": 1705843588,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145750,
+      "num": 145750,
+      "word": "有些事情最好不要和父母说",
+      "onboard_time": 1705926868,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 145568,
@@ -4083,14 +4219,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 141454,
-      "num": 141454,
-      "word": "14薪的快乐",
-      "onboard_time": 1705923028,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141179,
       "num": 141179,
       "word": "安心决定不要孩子",
@@ -4251,6 +4379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 134294,
+      "num": 134294,
+      "word": "蒋翼被黄瀛子误会是小三",
+      "onboard_time": 1705925787,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134050,
       "num": 134050,
       "word": "张韶涵27场演唱会收官",
@@ -4289,6 +4425,14 @@
       "onboard_time": 1705808426,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133719,
+      "num": 133719,
+      "word": "江苏卫视春晚探班直播",
+      "onboard_time": 1705925609,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 133396,
@@ -4499,6 +4643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125763,
+      "num": 125763,
+      "word": "BLG春季赛首胜",
+      "onboard_time": 1705923807,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124996,
       "num": 124996,
       "word": "郑书意蒋翼同款妆造",
@@ -4529,6 +4681,14 @@
       "onboard_time": 1705833687,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122262,
+      "num": 122262,
+      "word": "狗 冒昧的人类",
+      "onboard_time": 1705926808,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 121844,
@@ -5388,7 +5548,7 @@
     },
     {
       "raw_hot": 26584,
-      "num": 137243,
+      "num": 146372,
       "word": "王者琥珀纪元孙燕姿合作预告",
       "onboard_time": 1705923148,
       "rank": 49,
