@@ -1,0 +1,410 @@
+{
+  "runTime": 1705930430098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1657607,
+        "num": 1657607,
+        "word": "唐山打人案属地公安原局长获刑12年",
+        "onboard_time": 1705918345,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970595,
+        "num": 970595,
+        "word": "马来西亚一载有16名中国游客客车发生事故",
+        "onboard_time": 1705924946,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106585,
+        "num": 818821,
+        "word": "中国为什么一定要有自己的空间站",
+        "onboard_time": 1705928368,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777769,
+        "num": 777769,
+        "word": "快乐星球4的男主是女生演的",
+        "onboard_time": 1705921468,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 592274,
+        "num": 592274,
+        "word": "横店下雪 爆剧",
+        "onboard_time": 1705900165,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1029979,
+        "num": 576265,
+        "word": "俞敏洪让董宇辉改认证",
+        "onboard_time": 1705925246,
+        "rank": 5,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 526737,
+        "num": 526737,
+        "word": "韩安冉前夫回应女儿确诊多动症",
+        "onboard_time": 1705915346,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 460766,
+        "num": 460766,
+        "word": "他暗爽她也暗爽我明爽",
+        "onboard_time": 1705926025,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413019,
+        "num": 413019,
+        "word": "野生大熊猫叼着粉红幼崽林间穿行",
+        "onboard_time": 1705928426,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381104,
+        "num": 381104,
+        "word": "世界之外 消音哥能不能换CV",
+        "onboard_time": 1705925308,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 582049,
+        "num": 378684,
+        "word": "抖音回应放贷余额近4000亿元",
+        "onboard_time": 1705921947,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 429576,
+        "num": 377752,
+        "word": "原来在高铁上发疯真的有用",
+        "onboard_time": 1705926087,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375027,
+        "num": 375027,
+        "word": "EDG太猛了",
+        "onboard_time": 1705928669,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 349049,
+        "num": 349049,
+        "word": "阴阳师 姑姑好伟大的脸",
+        "onboard_time": 1705929149,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 347475,
+        "num": 347475,
+        "word": "横店一场雪成就了三部剧",
+        "onboard_time": 1705905325,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301446,
+        "num": 301446,
+        "word": "一个不想送一个不想接",
+        "onboard_time": 1705928484,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299489,
+        "num": 299489,
+        "word": "雪球爆仓",
+        "onboard_time": 1705919844,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 280803,
+        "num": 280803,
+        "word": "小米超越苹果登顶中国第一",
+        "onboard_time": 1705922126,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 272041,
+        "num": 272041,
+        "word": "久哲直播",
+        "onboard_time": 1705929808,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 266311,
+        "num": 266311,
+        "word": "锦衣之下湖南卫视温暖重映",
+        "onboard_time": 1705921527,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 733294,
+        "num": 265485,
+        "word": "男生表白失败坠楼家属向多方索赔127万",
+        "onboard_time": 1705915946,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284905,
+        "num": 261611,
+        "word": "A股大跌",
+        "onboard_time": 1705909587,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 266421,
+        "num": 258681,
+        "word": "不用剧烈运动也能瘦全身的方法",
+        "onboard_time": 1705926265,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 239942,
+        "num": 239942,
+        "word": "RNG 会不会bp",
+        "onboard_time": 1705928848,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 234345,
+        "num": 234345,
+        "word": "董宇辉称不会拉黑任何人",
+        "onboard_time": 1705923087,
+        "rank": 24,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 218892,
+        "num": 218892,
+        "word": "95生四大颜霸",
+        "onboard_time": 1705922187,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216653,
+        "num": 216653,
+        "word": "迪丽热巴喀什",
+        "onboard_time": 1705914024,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197308,
+        "num": 197308,
+        "word": "两部门向云南预拨5000万元救灾资金",
+        "onboard_time": 1705929867,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192949,
+        "num": 192949,
+        "word": "江疏影",
+        "onboard_time": 1705909709,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172240,
+        "num": 191238,
+        "word": "国足末轮生死战",
+        "onboard_time": 1705925009,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189619,
+        "num": 189619,
+        "word": "黄仁俊妆造",
+        "onboard_time": 1705928128,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182420,
+        "num": 182420,
+        "word": "外国人以为的中国键盘",
+        "onboard_time": 1705924227,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181488,
+        "num": 181488,
+        "word": "成毅施法路透",
+        "onboard_time": 1705927046,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166608,
+        "num": 166608,
+        "word": "河南一女子称自己37岁当婆婆",
+        "onboard_time": 1705912589,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165494,
+        "num": 165494,
+        "word": "大江大河之岁月如歌",
+        "onboard_time": 1705929264,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164921,
+        "num": 164921,
+        "word": "多位知名基金经理大幅加仓",
+        "onboard_time": 1705929508,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163320,
+        "num": 163320,
+        "word": "有些事情最好不要和父母说",
+        "onboard_time": 1705926868,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152480,
+        "num": 152480,
+        "word": "孟子义片场雪景照",
+        "onboard_time": 1705928669,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148666,
+        "num": 148666,
+        "word": "减肥动力喂到嘴边了",
+        "onboard_time": 1705929748,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 146543,
+        "num": 146543,
+        "word": "春花厌 雪景",
+        "onboard_time": 1705930349,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145351,
+        "num": 145351,
+        "word": "雷军 互关",
+        "onboard_time": 1705916007,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140020,
+        "num": 140020,
+        "word": "狗 冒昧的人类",
+        "onboard_time": 1705926808,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138977,
+        "num": 138977,
+        "word": "文俊辉黄仁俊钟辰乐同框",
+        "onboard_time": 1705924527,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136994,
+        "num": 136994,
+        "word": "阿莫西林滥用现象严重",
+        "onboard_time": 1705909828,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134304,
+        "num": 134304,
+        "word": "谁拿我电磁炉称体重了",
+        "onboard_time": 1705930046,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129710,
+        "num": 129710,
+        "word": "RNG对战EDG",
+        "onboard_time": 1705926927,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122955,
+        "num": 122955,
+        "word": "成都地铁被诬偷拍案当事人裸辞",
+        "onboard_time": 1705930287,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120006,
+        "num": 120006,
+        "word": "14薪的快乐",
+        "onboard_time": 1705923028,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119422,
+        "num": 119422,
+        "word": "因为一个清洁袋我妈被罚了1500",
+        "onboard_time": 1705915408,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117586,
+        "num": 117586,
+        "word": "促进资本市场平稳健康发展",
+        "onboard_time": 1705926626,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#3820战略工程蕴含怎样的魄力和精神#"
+    }
+  }
+}
