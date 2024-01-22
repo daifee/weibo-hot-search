@@ -1,10 +1,10 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705940579945,
+  "endTime": 1705941549547,
   "band_list": [
     {
-      "raw_hot": 1084282,
-      "num": 1084282,
+      "raw_hot": 1331879,
+      "num": 1331879,
       "word": "国足vs卡塔尔",
       "onboard_time": 1705933828,
       "rank": 0,
@@ -123,6 +123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 233228,
+      "num": 233228,
+      "word": "国足末轮生死战",
+      "onboard_time": 1705925009,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220622,
       "num": 220622,
       "word": "赵昭仪深V露背长裙",
@@ -137,6 +145,14 @@
       "onboard_time": 1705900165,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186201,
+      "num": 186201,
+      "word": "董宇辉封神名场面",
+      "onboard_time": 1705937906,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 184500,
@@ -155,12 +171,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 181710,
-      "num": 181710,
-      "word": "董宇辉封神名场面",
-      "onboard_time": 1705937906,
-      "rank": 17,
-      "category": "网红"
+      "raw_hot": 166616,
+      "num": 166616,
+      "word": "国足首发",
+      "onboard_time": 1705930948,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 161207,
@@ -171,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157105,
+      "num": 157105,
+      "word": "冠磊",
+      "onboard_time": 1705940243,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146338,
       "num": 146338,
       "word": "快乐星球4的男主是女生演的",
@@ -179,20 +203,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145359,
+      "num": 145359,
+      "word": "卡塔尔大轮换",
+      "onboard_time": 1705931968,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142817,
       "num": 142817,
       "word": "岳母搞传销骗了全家十几口100万",
       "onboard_time": 1705930827,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138454,
-      "num": 138454,
-      "word": "国足末轮生死战",
-      "onboard_time": 1705925009,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 137845,
@@ -219,20 +243,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 122181,
-      "num": 122181,
-      "word": "国足首发",
-      "onboard_time": 1705930948,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 120395,
-      "num": 120395,
-      "word": "卡塔尔大轮换",
-      "onboard_time": 1705931968,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 115652,
+      "num": 115652,
+      "word": "赵昭仪白色蕾丝裙",
+      "onboard_time": 1705941083,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 111948,
@@ -259,6 +275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107790,
+      "num": 107790,
+      "word": "汪海林称不要说中国电影跟中国男足一样了",
+      "onboard_time": 1705940664,
+      "rank": 31,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 107116,
       "num": 107116,
       "word": "祁煜与鱼",
@@ -275,8 +299,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 101256,
-      "num": 101256,
+      "raw_hot": 101782,
+      "num": 101782,
       "word": "阴阳师 姑姑好伟大的脸",
       "onboard_time": 1705929149,
       "rank": 35,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 79759,
-      "num": 79759,
+      "num": 111994,
       "word": "国际空间站不带中国玩倒逼我们弯道超车",
       "onboard_time": 1705930770,
       "rank": 41,
@@ -337,14 +361,6 @@
       "onboard_time": 1705931127,
       "rank": 42,
       "category": "网红"
-    },
-    {
-      "raw_hot": 76297,
-      "num": 76297,
-      "word": "冠磊",
-      "onboard_time": 1705940243,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 75648,
