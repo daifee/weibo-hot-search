@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705948602253,
+  "endTime": 1705950897413,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -769,6 +769,14 @@
       "onboard_time": 1705720406,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2193160,
+      "num": 2193160,
+      "word": "新疆乌什县7.1级地震",
+      "onboard_time": 1705948695,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2192273,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705361723,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1427162,
-      "num": 1427162,
-      "word": "iPhone为什么只有P大写",
-      "onboard_time": 1704121303,
-      "rank": 11,
-      "category": "数码"
     }
   ],
   "hotgov_list": [

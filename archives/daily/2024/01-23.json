@@ -1,7 +1,15 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705948602253,
+  "endTime": 1705950897413,
   "band_list": [
+    {
+      "raw_hot": 2193160,
+      "num": 2193160,
+      "word": "新疆乌什县7.1级地震",
+      "onboard_time": 1705948695,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1669576,
       "num": 1669576,
@@ -24,6 +32,14 @@
       "word": "新疆拜城县发生4.8级地震",
       "onboard_time": 1705899509,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 725469,
+      "num": 725469,
+      "word": "新疆地震",
+      "onboard_time": 1705949355,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -227,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162258,
+      "num": 162258,
+      "word": "6只狗仔被人掰断腿骨头裸露在外",
+      "onboard_time": 1705947735,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161207,
       "num": 161207,
       "word": "友情断层",
@@ -283,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 112473,
+      "num": 112473,
+      "word": "阿克苏发生4.5级地震",
+      "onboard_time": 1705948815,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111948,
       "num": 111948,
       "word": "韦世豪复出",
@@ -331,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98436,
+      "num": 98436,
+      "word": "图书馆30秒重创版",
+      "onboard_time": 1705945696,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97634,
       "num": 97634,
       "word": "原来接生戏是这样拍的",
@@ -371,6 +411,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84667,
+      "num": 81280,
+      "word": "警惕妇癌之王卵巢癌这些信号别忽视",
+      "onboard_time": 1705948634,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 83823,
+      "num": 83823,
+      "word": "这一次竹马战胜了天降",
+      "onboard_time": 1705948216,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82208,
       "num": 82208,
       "word": "江疏影",
@@ -401,14 +457,6 @@
       "onboard_time": 1705931127,
       "rank": 42,
       "category": "网红"
-    },
-    {
-      "raw_hot": 76423,
-      "num": 76423,
-      "word": "图书馆30秒重创版",
-      "onboard_time": 1705945696,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 75648,
@@ -451,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69473,
-      "num": 61527,
-      "word": "这一次竹马战胜了天降",
-      "onboard_time": 1705948216,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 66604,
       "num": 66604,
       "word": "秦岚说胡先煦是大油饼",
@@ -473,14 +513,6 @@
       "onboard_time": 1705934307,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 56066,
-      "num": 56066,
-      "word": "6只狗仔被人掰断腿骨头裸露在外",
-      "onboard_time": 1705947735,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52361,
@@ -513,6 +545,14 @@
       "onboard_time": 1705926927,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 19820,
+      "num": 19820,
+      "word": "摆烂式恋爱",
+      "onboard_time": 1705950435,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 14049,

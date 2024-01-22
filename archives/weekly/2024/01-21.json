@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705948602253,
+  "endTime": 1705950897413,
   "band_list": [
     {
       "raw_hot": 2678805,
@@ -15,6 +15,14 @@
       "num": 2569909,
       "word": "苏增添被查",
       "onboard_time": 1705830867,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2193160,
+      "num": 2193160,
+      "word": "新疆乌什县7.1级地震",
+      "onboard_time": 1705948695,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -633,6 +641,14 @@
       "onboard_time": 1705843948,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 725469,
+      "num": 725469,
+      "word": "新疆地震",
+      "onboard_time": 1705949355,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 723437,
@@ -4051,6 +4067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162258,
+      "num": 162258,
+      "word": "6只狗仔被人掰断腿骨头裸露在外",
+      "onboard_time": 1705947735,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162087,
       "num": 162087,
       "word": "平顶山煤矿事故16人遇难",
@@ -5347,6 +5371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112473,
+      "num": 112473,
+      "word": "阿克苏发生4.5级地震",
+      "onboard_time": 1705948815,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112414,
       "num": 112414,
       "word": "香港马拉松",
@@ -5643,6 +5675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98436,
+      "num": 98436,
+      "word": "图书馆30秒重创版",
+      "onboard_time": 1705945696,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97661,
       "num": 97661,
       "word": "好朋友约会逛街准则",
@@ -5787,6 +5827,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84667,
+      "num": 81280,
+      "word": "警惕妇癌之王卵巢癌这些信号别忽视",
+      "onboard_time": 1705948634,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 83823,
+      "num": 83823,
+      "word": "这一次竹马战胜了天降",
+      "onboard_time": 1705948216,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82280,
       "num": 82280,
       "word": "阿K零分",
@@ -5859,14 +5915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 76423,
-      "num": 76423,
-      "word": "图书馆30秒重创版",
-      "onboard_time": 1705945696,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 75611,
       "num": 75611,
       "word": "舅舅向炫富的外甥借钱",
@@ -5913,14 +5961,6 @@
       "onboard_time": 1705769902,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69473,
-      "num": 61527,
-      "word": "这一次竹马战胜了天降",
-      "onboard_time": 1705948216,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 68499,
@@ -5976,14 +6016,6 @@
       "word": "缉毒警笔记里的经验总结让人泪目",
       "onboard_time": 1705805306,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56066,
-      "num": 56066,
-      "word": "6只狗仔被人掰断腿骨头裸露在外",
-      "onboard_time": 1705947735,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -6113,6 +6145,14 @@
       "onboard_time": 1705923148,
       "rank": 49,
       "category": "音乐,电竞"
+    },
+    {
+      "raw_hot": 19820,
+      "num": 19820,
+      "word": "摆烂式恋爱",
+      "onboard_time": 1705950435,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 18225,
