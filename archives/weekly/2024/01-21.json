@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705934202362,
+  "endTime": 1705936781039,
   "band_list": [
     {
       "raw_hot": 2678805,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1700996,
+      "num": 459782,
+      "word": "台州车祸",
+      "onboard_time": 1705933109,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1655577,
       "num": 458031,
       "word": "A股大跌",
@@ -145,6 +153,14 @@
       "onboard_time": 1705915346,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1308551,
+      "num": 1308551,
+      "word": "老干妈回应被辛巴称为是预制菜",
+      "onboard_time": 1705933050,
+      "rank": 49,
+      "category": "网红,美食"
     },
     {
       "raw_hot": 1301584,
@@ -281,14 +297,6 @@
       "onboard_time": 1705762411,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1034787,
-      "num": 459782,
-      "word": "台州车祸",
-      "onboard_time": 1705933109,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1029979,
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 823147,
+      "num": 823147,
+      "word": "国足vs卡塔尔",
+      "onboard_time": 1705933828,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 822805,
       "num": 822805,
       "word": "沈腾马丽现身央视春晚第二次联排",
@@ -603,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 734249,
-      "num": 734249,
-      "word": "老干妈回应被辛巴称为是预制菜",
-      "onboard_time": 1705933050,
-      "rank": 49,
-      "category": "网红,美食"
-    },
-    {
       "raw_hot": 733580,
       "num": 733580,
       "word": "考完研后才知道家里有五层别墅",
@@ -659,20 +667,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 703954,
+      "num": 703954,
+      "word": "林一晒与刘浩存合照",
+      "onboard_time": 1705932329,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 701617,
       "num": 701617,
       "word": "梨泰院踩踏事件警察厅长被控过失杀人",
       "onboard_time": 1705757609,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 699349,
-      "num": 699349,
-      "word": "林一晒与刘浩存合照",
-      "onboard_time": 1705932329,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 699079,
@@ -873,6 +881,14 @@
       "onboard_time": 1705912947,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 579167,
+      "num": 579167,
+      "word": "三亚沙滩现多起剧毒僧帽水母伤人事件",
+      "onboard_time": 1705931426,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 577684,
@@ -1235,14 +1251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 464316,
-      "num": 464316,
-      "word": "三亚沙滩现多起剧毒僧帽水母伤人事件",
-      "onboard_time": 1705931426,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463790,
       "num": 463790,
       "word": "31省份最低工资表",
@@ -1587,14 +1595,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 387837,
-      "num": 387837,
-      "word": "国足vs卡塔尔",
-      "onboard_time": 1705933828,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 383515,
       "num": 383515,
       "word": "陈楚生王栎鑫对唱他不爱我",
@@ -1769,6 +1769,14 @@
       "onboard_time": 1705817724,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 347106,
+      "num": 347106,
+      "word": "浙江台州椒江内环高速连环撞",
+      "onboard_time": 1705933530,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346640,
@@ -2011,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306790,
+      "num": 306790,
+      "word": "C罗董方卓拥抱",
+      "onboard_time": 1705934190,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303484,
       "num": 303484,
       "word": "经常拥抱对身体有好处",
@@ -2123,14 +2139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284108,
-      "num": 284108,
-      "word": "浙江台州椒江内环高速连环撞",
-      "onboard_time": 1705933530,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283610,
       "num": 237905,
       "word": "年轻人为何不愿去银行工作了",
@@ -2185,6 +2193,14 @@
       "onboard_time": 1705885107,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277634,
+      "num": 277634,
+      "word": "友情断层",
+      "onboard_time": 1705933770,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 276939,
@@ -2507,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235519,
+      "num": 235519,
+      "word": "湖人交易",
+      "onboard_time": 1705936049,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235281,
       "num": 235281,
       "word": "陈若华考公失败",
@@ -2569,6 +2593,14 @@
       "onboard_time": 1705814608,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228454,
+      "num": 228454,
+      "word": "统计造假是统计领域最大的腐败",
+      "onboard_time": 1705932507,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228202,
@@ -2761,14 +2793,6 @@
       "onboard_time": 1705835669,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212344,
-      "num": 212344,
-      "word": "统计造假是统计领域最大的腐败",
-      "onboard_time": 1705932507,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212068,
@@ -3459,6 +3483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183777,
+      "num": 183777,
+      "word": "祁煜与鱼",
+      "onboard_time": 1705934668,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183160,
       "num": 183160,
       "word": "当小说里的豪宅照应进现实后",
@@ -3811,14 +3843,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166372,
-      "num": 166372,
-      "word": "友情断层",
-      "onboard_time": 1705933770,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 166292,
       "num": 166292,
       "word": "下雪文案",
@@ -3889,6 +3913,14 @@
       "onboard_time": 1705929508,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 164519,
+      "num": 164519,
+      "word": "一个人爱你的最高形式",
+      "onboard_time": 1705935149,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 164274,
@@ -4043,6 +4075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158216,
+      "num": 158216,
+      "word": "小天鹅藏在妈妈背上太萌了",
+      "onboard_time": 1705935389,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157999,
       "num": 157999,
       "word": "陈飞宇扔雪球",
@@ -4163,14 +4203,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 154715,
-      "num": 154715,
-      "word": "C罗董方卓拥抱",
-      "onboard_time": 1705934190,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154244,
       "num": 154244,
       "word": "这哪是导师明明是阴阳师",
@@ -4184,6 +4216,14 @@
       "word": "高铁上不愿意换座就骂我倔",
       "onboard_time": 1705920750,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 152491,
+      "num": 152491,
+      "word": "原来接生戏是这样拍的",
+      "onboard_time": 1705934968,
+      "rank": 38,
       "category": "幽默"
     },
     {
@@ -4811,6 +4851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 131701,
+      "num": 131701,
+      "word": "ioi圣诞合体",
+      "onboard_time": 1705936588,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 131502,
       "num": 131502,
       "word": "60岁以上老人优先下铺",
@@ -4921,6 +4969,14 @@
       "onboard_time": 1705840769,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127820,
+      "num": 127820,
+      "word": "Clearlove重回赛场",
+      "onboard_time": 1705935509,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 127739,
@@ -5081,6 +5137,14 @@
       "onboard_time": 1705807645,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120084,
+      "num": 120084,
+      "word": "小米公布SU7设计稿",
+      "onboard_time": 1705934307,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 120044,
@@ -5324,7 +5388,7 @@
     },
     {
       "raw_hot": 107030,
-      "num": 997786,
+      "num": 1041175,
       "word": "中国为什么一定要有自己的空间站",
       "onboard_time": 1705928368,
       "rank": 2,
