@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705886434038,
+  "endTime": 1705887749425,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -51,18 +51,18 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1443339,
-      "num": 1443339,
-      "word": "关于六寸蛋糕放5斤车厘子这件情",
-      "onboard_time": 1705845211,
+      "raw_hot": 1453093,
+      "num": 1453093,
+      "word": "研究生劳务费",
+      "onboard_time": 1705884266,
       "rank": 1,
       "category": "幽默"
     },
     {
-      "raw_hot": 1417397,
-      "num": 1417397,
-      "word": "研究生劳务费",
-      "onboard_time": 1705884266,
+      "raw_hot": 1443339,
+      "num": 1443339,
+      "word": "关于六寸蛋糕放5斤车厘子这件情",
+      "onboard_time": 1705845211,
       "rank": 1,
       "category": "幽默"
     },
@@ -203,6 +203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 889073,
+      "num": 889073,
+      "word": "鸡 你有没有为一块猪油拼过命",
+      "onboard_time": 1705881444,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 870204,
       "num": 870204,
       "word": "龙年央视春晚第二次联排",
@@ -296,14 +304,6 @@
       "word": "考完研后才知道家里有五层别墅",
       "onboard_time": 1705843948,
       "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 722222,
-      "num": 722222,
-      "word": "鸡 你有没有为一块猪油拼过命",
-      "onboard_time": 1705881444,
-      "rank": 5,
       "category": "幽默"
     },
     {
@@ -627,6 +627,14 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 476178,
+      "num": 476178,
+      "word": "瑞幸易烊千玺小卡",
+      "onboard_time": 1705886724,
+      "rank": 9,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 472033,
       "num": 472033,
       "word": "阿娇阿Sa真亲了吗",
@@ -827,6 +835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 394896,
+      "num": 394896,
+      "word": "阿莫西林只对6种病症有效",
+      "onboard_time": 1705885644,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 393391,
       "num": 393391,
       "word": "原来萌兰这么大只啊",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1705804345,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 343806,
+      "num": 343806,
+      "word": "举报县委书记被逮捕老干部称相信法律",
+      "onboard_time": 1705885826,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335009,
@@ -1203,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279838,
+      "num": 279838,
+      "word": "9只小麻雀整整齐齐挤在车轮上取暖",
+      "onboard_time": 1705885107,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265913,
       "num": 265913,
       "word": "南方大范围降雪进入最强时段",
@@ -1275,6 +1307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255606,
+      "num": 255606,
+      "word": "A股有望进入交易反弹窗口期",
+      "onboard_time": 1705886307,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 255458,
       "num": 255458,
       "word": "一个月跑步10小时收益最大",
@@ -1331,19 +1371,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 242957,
+      "num": 242957,
+      "word": "在东北车厘子都要裹上暖宝宝",
+      "onboard_time": 1705886904,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 242109,
       "num": 242109,
       "word": "打工人嘴替",
       "onboard_time": 1705800385,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241610,
-      "num": 241610,
-      "word": "9只小麻雀整整齐齐挤在车轮上取暖",
-      "onboard_time": 1705885107,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1539,14 +1579,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 210118,
-      "num": 210118,
-      "word": "阿莫西林只对6种病症有效",
-      "onboard_time": 1705885644,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 206922,
       "num": 206922,
       "word": "wife歌词",
@@ -1675,8 +1707,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199292,
-      "num": 199292,
+      "raw_hot": 199482,
+      "num": 199482,
+      "word": "苹果VisionPro国内最高炒到9万元",
+      "onboard_time": 1705885525,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 199399,
+      "num": 199399,
       "word": "机械姬的妆是钟楚曦自己画的",
       "onboard_time": 1705882406,
       "rank": 25,
@@ -1825,14 +1865,6 @@
       "onboard_time": 1705803146,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 187350,
-      "num": 187350,
-      "word": "苹果VisionPro国内最高炒到9万元",
-      "onboard_time": 1705885525,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 185501,
@@ -2083,6 +2115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 165670,
+      "num": 165670,
+      "word": "黄瀛子为了看蒋翼女朋友抢捧花",
+      "onboard_time": 1705886067,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163236,
       "num": 163236,
       "word": "蓝亦菲在关超婚礼上出现了",
@@ -2155,14 +2195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161059,
-      "num": 161059,
-      "word": "举报县委书记被逮捕老干部称相信法律",
-      "onboard_time": 1705885826,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160754,
       "num": 160754,
       "word": "湖南21日迎暴雪大暴雪",
@@ -2219,6 +2251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152127,
+      "num": 152127,
+      "word": "江西下雪了",
+      "onboard_time": 1705887145,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151605,
       "num": 136704,
       "word": "要是没这伴郎这婚都结不成",
@@ -2273,6 +2313,14 @@
       "onboard_time": 1705765647,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 148298,
+      "num": 148298,
+      "word": "谷爱凌 感谢支持和喜爱",
+      "onboard_time": 1705886966,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 146560,
@@ -2475,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134964,
+      "num": 134964,
+      "word": "A股",
+      "onboard_time": 1705887683,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 134050,
       "num": 134050,
       "word": "张韶涵27场演唱会收官",
@@ -2643,20 +2699,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127318,
-      "num": 127318,
-      "word": "黄瀛子为了看蒋翼女朋友抢捧花",
-      "onboard_time": 1705886067,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127296,
       "num": 127296,
       "word": "澳网元老赛",
       "onboard_time": 1705804705,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126710,
+      "num": 126710,
+      "word": "春运抢票12306新功能汇总",
+      "onboard_time": 1705887505,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125953,
@@ -2681,14 +2737,6 @@
       "onboard_time": 1705797445,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124157,
-      "num": 124157,
-      "word": "A股有望进入交易反弹窗口期",
-      "onboard_time": 1705886307,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 123653,
@@ -2987,6 +3035,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 102191,
+      "num": 102191,
+      "word": "安陵容早这样后宫没一个是对手",
+      "onboard_time": 1705887683,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101963,
       "num": 101963,
       "word": "雷霆战胜森林狼",
@@ -3041,6 +3097,14 @@
       "onboard_time": 1705801286,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98784,
+      "num": 98784,
+      "word": "东北旅游热带火俄罗斯公主写真",
+      "onboard_time": 1705887626,
+      "rank": 48,
+      "category": "旅游,时尚"
     },
     {
       "raw_hot": 97661,

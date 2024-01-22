@@ -1,0 +1,410 @@
+{
+  "runTime": 1705887749425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1500927,
+        "num": 1500927,
+        "word": "下雪",
+        "onboard_time": 1705883245,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1453093,
+        "num": 1453093,
+        "word": "研究生劳务费",
+        "onboard_time": 1705884266,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80306,
+        "num": 898021,
+        "word": "当江浙沪遇上了古诗词",
+        "onboard_time": 1705845330,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889073,
+        "num": 889073,
+        "word": "鸡 你有没有为一块猪油拼过命",
+        "onboard_time": 1705881444,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 783968,
+        "num": 783968,
+        "word": "微信红包并非转账认定赠与无需返还",
+        "onboard_time": 1705839807,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734809,
+        "num": 734809,
+        "word": "郎朗回应58岁建筑工人钢琴之约",
+        "onboard_time": 1705879339,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 583662,
+        "num": 583662,
+        "word": "关于六寸蛋糕放5斤车厘子这件事",
+        "onboard_time": 1705845211,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 489586,
+        "num": 489586,
+        "word": "吴彦祖 亚裔芭比刻板印象",
+        "onboard_time": 1705882043,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488927,
+        "num": 488927,
+        "word": "华西医生说九成大肠癌是它引起的",
+        "onboard_time": 1705880421,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 476178,
+        "num": 476178,
+        "word": "瑞幸易烊千玺小卡",
+        "onboard_time": 1705886724,
+        "rank": 9,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 413004,
+        "num": 413004,
+        "word": "女孩把馒头做成带馅的1天卖500个",
+        "onboard_time": 1705848749,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394896,
+        "num": 394896,
+        "word": "阿莫西林只对6种病症有效",
+        "onboard_time": 1705885644,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 366556,
+        "num": 366556,
+        "word": "国家卫健委要求加强出生证管理",
+        "onboard_time": 1705883904,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360764,
+        "num": 360764,
+        "word": "杭州下雪",
+        "onboard_time": 1705885887,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343806,
+        "num": 343806,
+        "word": "举报县委书记被逮捕老干部称相信法律",
+        "onboard_time": 1705885826,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334733,
+        "num": 334733,
+        "word": "尔滨冻梨之后又火了冻柿咖啡",
+        "onboard_time": 1705885465,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 301797,
+        "num": 301797,
+        "word": "吃辣时流鼻涕 味觉性鼻炎",
+        "onboard_time": 1705881502,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 286852,
+        "num": 286852,
+        "word": "会中文的韩国人和中国人都沉默了",
+        "onboard_time": 1705849768,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279838,
+        "num": 279838,
+        "word": "9只小麻雀整整齐齐挤在车轮上取暖",
+        "onboard_time": 1705885107,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255606,
+        "num": 255606,
+        "word": "A股有望进入交易反弹窗口期",
+        "onboard_time": 1705886307,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 250348,
+        "num": 250348,
+        "word": "勇敢的人先加王一博微信",
+        "onboard_time": 1705846950,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242957,
+        "num": 242957,
+        "word": "在东北车厘子都要裹上暖宝宝",
+        "onboard_time": 1705886904,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200596,
+        "num": 200596,
+        "word": "阿富汗坠机事件中有4人生还",
+        "onboard_time": 1705883488,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 199482,
+        "num": 199482,
+        "word": "苹果VisionPro国内最高炒到9万元",
+        "onboard_time": 1705885525,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199399,
+        "num": 199399,
+        "word": "机械姬的妆是钟楚曦自己画的",
+        "onboard_time": 1705882406,
+        "rank": 24,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 196820,
+        "num": 196820,
+        "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
+        "onboard_time": 1705867271,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178343,
+        "num": 178343,
+        "word": "wife歌词",
+        "onboard_time": 1705880001,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177589,
+        "num": 177589,
+        "word": "美国房主新买二手房冰柜里有颗人头",
+        "onboard_time": 1705851507,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165670,
+        "num": 165670,
+        "word": "黄瀛子为了看蒋翼女朋友抢捧花",
+        "onboard_time": 1705886067,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153518,
+        "num": 153518,
+        "word": "为什么制冷和制热的26度不一样",
+        "onboard_time": 1705858456,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 152127,
+        "num": 152127,
+        "word": "江西下雪了",
+        "onboard_time": 1705887145,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148803,
+        "num": 148803,
+        "word": "大熊猫跟饲养员学会龇牙",
+        "onboard_time": 1705882527,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148298,
+        "num": 148298,
+        "word": "谷爱凌 感谢支持和喜爱",
+        "onboard_time": 1705886966,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146788,
+        "num": 146788,
+        "word": "你真是饿了",
+        "onboard_time": 1705852706,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135109,
+        "num": 135109,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1705849711,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134964,
+        "num": 134964,
+        "word": "A股",
+        "onboard_time": 1705887683,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134276,
+        "num": 134276,
+        "word": "金莎首次上节目回应比男友大19岁",
+        "onboard_time": 1705846710,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132502,
+        "num": 132502,
+        "word": "南方大范围降雪进入最强时段",
+        "onboard_time": 1705881682,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126710,
+        "num": 126710,
+        "word": "春运抢票12306新功能汇总",
+        "onboard_time": 1705887505,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124228,
+        "num": 124228,
+        "word": "要久久爱收视率",
+        "onboard_time": 1705842329,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118144,
+        "num": 118144,
+        "word": "快船22比0收割比赛",
+        "onboard_time": 1705884089,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117708,
+        "num": 117708,
+        "word": "考完研后才知道家里有五层别墅",
+        "onboard_time": 1705843948,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112953,
+        "num": 112953,
+        "word": "仙剑之父转发仙剑四微博",
+        "onboard_time": 1705862295,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109266,
+        "num": 109266,
+        "word": "砂糖橘摆成了我吃不起的样子",
+        "onboard_time": 1705844848,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108814,
+        "num": 108814,
+        "word": "苏增添被查",
+        "onboard_time": 1705830867,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105058,
+        "num": 105058,
+        "word": "德桑蒂斯退出美国总统竞选",
+        "onboard_time": 1705879580,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 102191,
+        "num": 102191,
+        "word": "安陵容早这样后宫没一个是对手",
+        "onboard_time": 1705887683,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99721,
+        "num": 99721,
+        "word": "大学生寒假穿搭有多接地气",
+        "onboard_time": 1705884266,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98784,
+        "num": 98784,
+        "word": "东北旅游热带火俄罗斯公主写真",
+        "onboard_time": 1705887626,
+        "rank": 48,
+        "category": "旅游,时尚"
+      },
+      {
+        "raw_hot": 98649,
+        "num": 98649,
+        "word": "袁咏仪演甄嬛胖橘都活不过两集",
+        "onboard_time": 1705851028,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在福州工作期间珍贵影像#"
+    }
+  }
+}
