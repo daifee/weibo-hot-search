@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705950897413,
+  "endTime": 1705952033840,
   "band_list": [
     {
       "raw_hot": 2193160,
@@ -243,8 +243,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 162258,
-      "num": 162258,
+      "raw_hot": 163897,
+      "num": 163897,
       "word": "6只狗仔被人掰断腿骨头裸露在外",
       "onboard_time": 1705947735,
       "rank": 49,
@@ -547,12 +547,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 19820,
-      "num": 19820,
+      "raw_hot": 29432,
+      "num": 29432,
       "word": "摆烂式恋爱",
       "onboard_time": 1705950435,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20272,
+      "num": 20272,
+      "word": "陶晶莹控诉合伙人拿走公司私章",
+      "onboard_time": 1705950974,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 14049,
