@@ -1,10 +1,10 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705941549547,
+  "endTime": 1705943799683,
   "band_list": [
     {
-      "raw_hot": 1331879,
-      "num": 1331879,
+      "raw_hot": 1669576,
+      "num": 1669576,
       "word": "国足vs卡塔尔",
       "onboard_time": 1705933828,
       "rank": 0,
@@ -33,6 +33,14 @@
       "onboard_time": 1705918345,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628116,
+      "num": 628116,
+      "word": "国足末轮生死战",
+      "onboard_time": 1705925009,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 459588,
@@ -83,6 +91,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393624,
+      "num": 200166,
+      "word": "冠磊",
+      "onboard_time": 1705940243,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 352337,
+      "num": 352337,
+      "word": "国足首发",
+      "onboard_time": 1705930948,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 352059,
+      "num": 352059,
+      "word": "亚洲杯国足出线概率",
+      "onboard_time": 1705942883,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321827,
       "num": 261207,
       "word": "俞敏洪让董宇辉改认证",
@@ -123,14 +155,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 233228,
-      "num": 233228,
-      "word": "国足末轮生死战",
-      "onboard_time": 1705925009,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 220622,
       "num": 220622,
       "word": "赵昭仪深V露背长裙",
@@ -145,6 +169,14 @@
       "onboard_time": 1705900165,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201171,
+      "num": 201171,
+      "word": "卡塔尔大轮换",
+      "onboard_time": 1705931968,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 186201,
@@ -171,12 +203,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166616,
-      "num": 166616,
-      "word": "国足首发",
-      "onboard_time": 1705930948,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 178469,
+      "num": 178469,
+      "word": "汪海林称不要说中国电影跟中国男足一样了",
+      "onboard_time": 1705940664,
+      "rank": 31,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 161207,
@@ -187,28 +219,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157105,
-      "num": 157105,
-      "word": "冠磊",
-      "onboard_time": 1705940243,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 146338,
       "num": 146338,
       "word": "快乐星球4的男主是女生演的",
       "onboard_time": 1705921468,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145359,
-      "num": 145359,
-      "word": "卡塔尔大轮换",
-      "onboard_time": 1705931968,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 142817,
@@ -275,14 +291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107790,
-      "num": 107790,
-      "word": "汪海林称不要说中国电影跟中国男足一样了",
-      "onboard_time": 1705940664,
-      "rank": 31,
-      "category": "作品衍生,体育"
-    },
-    {
       "raw_hot": 107116,
       "num": 107116,
       "word": "祁煜与鱼",
@@ -313,6 +321,14 @@
       "onboard_time": 1705934968,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95638,
+      "num": 739963,
+      "word": "中国为什么一定要有自己的空间站",
+      "onboard_time": 1705928368,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87911,
@@ -353,6 +369,14 @@
       "onboard_time": 1705930770,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 78630,
+      "num": 78630,
+      "word": "代号鸢 孙策拧衣服",
+      "onboard_time": 1705942282,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 77978,
@@ -403,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66604,
+      "num": 66604,
+      "word": "秦岚说胡先煦是大油饼",
+      "onboard_time": 1705942819,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64374,
       "num": 64374,
       "word": "小米公布SU7设计稿",
@@ -411,10 +443,34 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 55942,
-      "num": 739963,
-      "word": "中国为什么一定要有自己的空间站",
-      "onboard_time": 1705928368,
+      "raw_hot": 63723,
+      "num": 63723,
+      "word": "秀丽抽烟",
+      "onboard_time": 1705943122,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 52361,
+      "num": 52361,
+      "word": "小米超越苹果登顶中国第一",
+      "onboard_time": 1705922126,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 41834,
+      "num": 41834,
+      "word": "RNG对战EDG",
+      "onboard_time": 1705926927,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 14049,
+      "num": 456159,
+      "word": "国字号重器硬核展示中国制造实力",
+      "onboard_time": 1705928249,
       "rank": 2,
       "category": "社会新闻"
     }
@@ -422,6 +478,9 @@
   "hotgov_list": [
     {
       "word": "#3820战略工程蕴含怎样的魄力和精神#"
+    },
+    {
+      "word": "#习近平对云南山体滑坡作出重要指示#"
     }
   ]
 }
