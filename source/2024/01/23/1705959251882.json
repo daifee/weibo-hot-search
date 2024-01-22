@@ -1,0 +1,410 @@
+{
+  "runTime": 1705959251882,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 593084,
+        "num": 593084,
+        "word": "新疆乌什县7.1级地震",
+        "onboard_time": 1705948695,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160017,
+        "num": 160017,
+        "word": "新疆地震",
+        "onboard_time": 1705949355,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7639,
+        "num": 102234,
+        "word": "国字号重器硬核展示中国制造实力",
+        "onboard_time": 1705928249,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97122,
+        "num": 97122,
+        "word": "6只狗仔被人掰断腿骨头裸露在外",
+        "onboard_time": 1705947735,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71709,
+        "num": 71709,
+        "word": "老干妈回应被辛巴称为是预制菜",
+        "onboard_time": 1705933050,
+        "rank": 4,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 68472,
+        "num": 68472,
+        "word": "国足vs卡塔尔",
+        "onboard_time": 1705933828,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50045,
+        "num": 50045,
+        "word": "阿克苏发生4.5级地震",
+        "onboard_time": 1705948815,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45754,
+        "num": 45754,
+        "word": "韩安冉前夫回应女儿确诊多动症",
+        "onboard_time": 1705915346,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44933,
+        "num": 44933,
+        "word": "这一次竹马战胜了天降",
+        "onboard_time": 1705948216,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25874,
+        "num": 25874,
+        "word": "世界之外 消音哥能不能换CV",
+        "onboard_time": 1705925308,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70345,
+        "num": 25861,
+        "word": "17年前被入室抢走的姜甲儒找到了",
+        "onboard_time": 1705956913,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63250,
+        "num": 25804,
+        "word": "警惕妇癌之王卵巢癌这些信号别忽视",
+        "onboard_time": 1705948634,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50212,
+        "num": 25725,
+        "word": "俞敏洪让董宇辉改认证",
+        "onboard_time": 1705925246,
+        "rank": 12,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 34751,
+        "num": 25624,
+        "word": "唐山打人案属地公安原局长获刑12年",
+        "onboard_time": 1705918345,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31936,
+        "num": 25588,
+        "word": "要久久爱 飞榜",
+        "onboard_time": 1705931608,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28458,
+        "num": 25535,
+        "word": "抖音回应放贷余额近4000亿元",
+        "onboard_time": 1705921947,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27681,
+        "num": 25469,
+        "word": "女子为带货编造中学生被继父强奸等谣言",
+        "onboard_time": 1705957992,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25425,
+        "num": 25425,
+        "word": "一个不想送一个不想接",
+        "onboard_time": 1705928484,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25248,
+        "num": 25248,
+        "word": "陶晶莹控诉合伙人拿走公司私章",
+        "onboard_time": 1705950974,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24876,
+        "num": 24876,
+        "word": "阴阳师 姑姑好伟大的脸",
+        "onboard_time": 1705929149,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53833,
+        "num": 24699,
+        "word": "男生表白失败坠楼家属向多方索赔127万",
+        "onboard_time": 1705915946,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32166,
+        "num": 24066,
+        "word": "为什么每次洗澡身上都有泥可搓",
+        "onboard_time": 1705937666,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 25766,
+        "num": 23802,
+        "word": "岳母搞传销骗了全家十几口100万",
+        "onboard_time": 1705930827,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25718,
+        "num": 23277,
+        "word": "南方下的不是雪是壁纸",
+        "onboard_time": 1705957453,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23077,
+        "num": 23077,
+        "word": "国足末轮生死战",
+        "onboard_time": 1705925009,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22847,
+        "num": 22847,
+        "word": "原来在高铁上发疯真的有用",
+        "onboard_time": 1705926087,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21135,
+        "num": 21135,
+        "word": "国足首发",
+        "onboard_time": 1705930948,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19841,
+        "num": 19841,
+        "word": "湖人交易",
+        "onboard_time": 1705936049,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19540,
+        "num": 19540,
+        "word": "三亚沙滩现多起剧毒僧帽水母伤人事件",
+        "onboard_time": 1705931426,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18411,
+        "num": 18411,
+        "word": "腰椎最喜欢的两个动作",
+        "onboard_time": 1705956253,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 52125,
+        "num": 18376,
+        "word": "台州车祸",
+        "onboard_time": 1705933109,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18052,
+        "num": 18052,
+        "word": "秀丽抽烟",
+        "onboard_time": 1705943122,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17034,
+        "num": 17034,
+        "word": "C罗董方卓拥抱",
+        "onboard_time": 1705934190,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16756,
+        "num": 16756,
+        "word": "快乐星球4的男主是女生演的",
+        "onboard_time": 1705921468,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16711,
+        "num": 16711,
+        "word": "小米超越苹果登顶中国第一",
+        "onboard_time": 1705922126,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 16361,
+        "num": 16361,
+        "word": "国际空间站不带中国玩倒逼我们弯道超车",
+        "onboard_time": 1705930770,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15960,
+        "num": 15960,
+        "word": "A股大跌",
+        "onboard_time": 1705909587,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14432,
+        "num": 14432,
+        "word": "代号鸢 孙策拧衣服",
+        "onboard_time": 1705942282,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14317,
+        "num": 14317,
+        "word": "图书馆30秒重创版",
+        "onboard_time": 1705945696,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14304,
+        "num": 14304,
+        "word": "冠磊",
+        "onboard_time": 1705940243,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14220,
+        "num": 14220,
+        "word": "摆烂式恋爱",
+        "onboard_time": 1705950435,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14217,
+        "num": 14217,
+        "word": "EDG太猛了",
+        "onboard_time": 1705928669,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14210,
+        "num": 14210,
+        "word": "塔吉克斯坦2比1黎巴嫩",
+        "onboard_time": 1705948576,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14170,
+        "num": 14170,
+        "word": "林一晒与刘浩存合照",
+        "onboard_time": 1705932329,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14039,
+        "num": 14039,
+        "word": "汪海林称不要说中国电影跟中国男足一样了",
+        "onboard_time": 1705940664,
+        "rank": 44,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 14023,
+        "num": 14023,
+        "word": "统计造假是统计领域最大的腐败",
+        "onboard_time": 1705932507,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13387,
+        "num": 13387,
+        "word": "亚洲杯国足出线概率",
+        "onboard_time": 1705942883,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13216,
+        "num": 13216,
+        "word": "卡塔尔大轮换",
+        "onboard_time": 1705931968,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11398,
+        "num": 11398,
+        "word": "Clearlove重回赛场",
+        "onboard_time": 1705935509,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10945,
+        "num": 10945,
+        "word": "赵昭仪白色蕾丝裙",
+        "onboard_time": 1705941083,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#3820战略工程蕴含怎样的魄力和精神#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705958167463,
+  "endTime": 1705959251882,
   "band_list": [
     {
       "raw_hot": 2193160,
@@ -499,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70345,
+      "num": 27683,
+      "word": "17年前被入室抢走的姜甲儒找到了",
+      "onboard_time": 1705956913,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66604,
       "num": 66604,
       "word": "秦岚说胡先煦是大油饼",
@@ -547,14 +555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 35359,
-      "num": 27683,
-      "word": "17年前被入室抢走的姜甲儒找到了",
-      "onboard_time": 1705956913,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32452,
       "num": 32452,
       "word": "摆烂式恋爱",
@@ -571,20 +571,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16936,
-      "num": 16936,
-      "word": "腰椎最喜欢的两个动作",
-      "onboard_time": 1705956253,
-      "rank": 29,
-      "category": "运动健身"
+      "raw_hot": 27681,
+      "num": 25469,
+      "word": "女子为带货编造中学生被继父强奸等谣言",
+      "onboard_time": 1705957992,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 16388,
-      "num": 16388,
+      "raw_hot": 25718,
+      "num": 23277,
       "word": "南方下的不是雪是壁纸",
       "onboard_time": 1705957453,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18411,
+      "num": 18411,
+      "word": "腰椎最喜欢的两个动作",
+      "onboard_time": 1705956253,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 14049,
@@ -600,14 +608,6 @@
       "word": "萌二人教版掰竹子",
       "onboard_time": 1705953313,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11821,
-      "num": 11821,
-      "word": "女子为带货编造中学生被继父强奸等谣言",
-      "onboard_time": 1705957992,
-      "rank": 48,
       "category": "社会新闻"
     }
   ],
