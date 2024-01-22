@@ -1,6 +1,6 @@
 {
   "startTime": 1705854115620,
-  "endTime": 1705905509388,
+  "endTime": 1705907859224,
   "band_list": [
     {
       "raw_hot": 2152220,
@@ -91,12 +91,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 924804,
+      "num": 400885,
+      "word": "A股",
+      "onboard_time": 1705887683,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 910361,
+      "num": 910361,
+      "word": "横店一场雪成就了三部剧",
+      "onboard_time": 1705905325,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 908558,
       "num": 908558,
       "word": "方媛综艺首秀",
       "onboard_time": 1705894886,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 891326,
+      "num": 456884,
+      "word": "A股三大指数均跌超3%",
+      "onboard_time": 1705907365,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 889073,
@@ -147,12 +171,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 791175,
+      "num": 365018,
+      "word": "股市",
+      "onboard_time": 1705901066,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 778147,
+      "num": 778147,
+      "word": "姐弟坠亡案生母期望有个孩子",
+      "onboard_time": 1705905325,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 756742,
       "num": 756742,
       "word": "哈药六厂",
       "onboard_time": 1705889906,
       "rank": 13,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 709587,
+      "num": 709587,
+      "word": "通勤婚姻",
+      "onboard_time": 1705902927,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 703058,
@@ -171,20 +219,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 650837,
-      "num": 365018,
-      "word": "股市",
-      "onboard_time": 1705901066,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 629371,
       "num": 629371,
       "word": "在东北车厘子都要裹上暖宝宝",
       "onboard_time": 1705886904,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 615816,
+      "num": 339570,
+      "word": "A股上涨个股仅200只",
+      "onboard_time": 1705904005,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 606628,
@@ -241,14 +289,6 @@
       "onboard_time": 1705886724,
       "rank": 9,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 537427,
-      "num": 357215,
-      "word": "通勤婚姻",
-      "onboard_time": 1705902927,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 537417,
@@ -363,14 +403,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 460608,
-      "num": 339570,
-      "word": "A股上涨个股仅200只",
-      "onboard_time": 1705904005,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 450152,
       "num": 450152,
       "word": "春运抢票12306新功能汇总",
@@ -379,20 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448271,
-      "num": 400885,
-      "word": "A股",
-      "onboard_time": 1705887683,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 446463,
       "num": 446463,
       "word": "阿莫西林只对6种病症有效",
       "onboard_time": 1705885644,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 431817,
+      "num": 431817,
+      "word": "辛巴回应孩子应吃预制菜言论",
+      "onboard_time": 1705905983,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429671,
@@ -531,12 +563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349152,
+      "num": 349152,
+      "word": "李庚希是真豁出去了 彭彭应该就这样",
+      "onboard_time": 1705905867,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 346640,
       "num": 346640,
       "word": "为什么制冷和制热的26度不一样",
       "onboard_time": 1705858456,
       "rank": 17,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 346296,
+      "num": 346296,
+      "word": "多位明星参演电影涉影视投资诈骗案",
+      "onboard_time": 1705907186,
+      "rank": 13,
+      "category": "社会新闻,电影"
     },
     {
       "raw_hot": 343806,
@@ -651,6 +699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 267244,
+      "num": 196554,
+      "word": "我爸觉得范丞丞这个女婿不孬",
+      "onboard_time": 1705907127,
+      "rank": 24,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 265913,
       "num": 265913,
       "word": "南方大范围降雪进入最强时段",
@@ -705,14 +761,6 @@
       "onboard_time": 1705847608,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 238901,
-      "num": 238901,
-      "word": "横店一场雪成就了三部剧",
-      "onboard_time": 1705905325,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 238717,
@@ -843,6 +891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206229,
+      "num": 206229,
+      "word": "枭起青壤 陈哲远",
+      "onboard_time": 1705907008,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202632,
       "num": 202632,
       "word": "湖南文旅摇来了成毅",
@@ -883,6 +939,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200702,
+      "num": 200702,
+      "word": "久酷 我会酷的久一点",
+      "onboard_time": 1705907127,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 200370,
+      "num": 200370,
+      "word": "上证指数再度失守2800点",
+      "onboard_time": 1705904126,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 199482,
       "num": 199482,
       "word": "苹果VisionPro国内最高炒到9万元",
@@ -921,14 +993,6 @@
       "onboard_time": 1705848990,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195561,
-      "num": 195561,
-      "word": "上证指数再度失守2800点",
-      "onboard_time": 1705904126,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 190107,
@@ -979,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178596,
+      "num": 177619,
+      "word": "资金增持高股息概念股",
+      "onboard_time": 1705907665,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 178226,
       "num": 178226,
       "word": "德桑蒂斯退出美国总统竞选",
@@ -1017,6 +1089,14 @@
       "onboard_time": 1705893807,
       "rank": 37,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 172333,
+      "num": 172333,
+      "word": "哈药六厂走红每天1万多人排队参观",
+      "onboard_time": 1705906587,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168929,
@@ -1091,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157164,
+      "num": 157164,
+      "word": "接下来三周的工作计划安排",
+      "onboard_time": 1705903584,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157040,
       "num": 157040,
       "word": "总结一下AI不能取代我的原因",
@@ -1121,14 +1209,6 @@
       "onboard_time": 1705848512,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152834,
-      "num": 152834,
-      "word": "接下来三周的工作计划安排",
-      "onboard_time": 1705903584,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 152127,
@@ -1227,6 +1307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138943,
+      "num": 138943,
+      "word": "世界是一个巨大的客厅",
+      "onboard_time": 1705905264,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138655,
       "num": 138655,
       "word": "中国的传统文化真是美到我了",
@@ -1307,6 +1395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130275,
+      "num": 130275,
+      "word": "湖人战胜开拓者",
+      "onboard_time": 1705907306,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129514,
       "num": 129514,
       "word": "文俊辉猫猫",
@@ -1355,12 +1451,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 121701,
-      "num": 121701,
-      "word": "世界是一个巨大的客厅",
-      "onboard_time": 1705905264,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 124996,
+      "num": 124996,
+      "word": "郑书意蒋翼同款妆造",
+      "onboard_time": 1705906344,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 121465,
@@ -1403,20 +1499,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115162,
+      "num": 115162,
+      "word": "DYG官宣夏凌加入",
+      "onboard_time": 1705906706,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115073,
       "num": 115073,
       "word": "大学生寒假穿搭有多接地气",
       "onboard_time": 1705884266,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 115020,
-      "num": 115020,
-      "word": "姐弟坠亡案生母期望有个孩子",
-      "onboard_time": 1705905325,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114534,
@@ -1441,6 +1537,14 @@
       "onboard_time": 1705884386,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110384,
+      "num": 110384,
+      "word": "100道年夜菜",
+      "onboard_time": 1705907847,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 109863,
@@ -1481,6 +1585,14 @@
       "onboard_time": 1705891527,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107552,
+      "num": 107552,
+      "word": "东方甄选出海",
+      "onboard_time": 1705907847,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 106111,

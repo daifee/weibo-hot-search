@@ -1,0 +1,410 @@
+{
+  "runTime": 1705907859224,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1797774,
+        "num": 1797774,
+        "word": "横店下雪 爆剧",
+        "onboard_time": 1705900165,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 921966,
+        "num": 921966,
+        "word": "火车司机抑郁障碍阳性率达到50%",
+        "onboard_time": 1705899805,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94232,
+        "num": 913925,
+        "word": "南方多地迎降雪",
+        "onboard_time": 1705893865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910361,
+        "num": 910361,
+        "word": "横店一场雪成就了三部剧",
+        "onboard_time": 1705905325,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 778147,
+        "num": 778147,
+        "word": "姐弟坠亡案生母期望有个孩子",
+        "onboard_time": 1705905325,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709587,
+        "num": 709587,
+        "word": "通勤婚姻",
+        "onboard_time": 1705902927,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 699124,
+        "num": 699124,
+        "word": "方媛回应坐经济舱",
+        "onboard_time": 1705896388,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564052,
+        "num": 564052,
+        "word": "甄嬛传藏海传 ZHZ",
+        "onboard_time": 1705904066,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480534,
+        "num": 480534,
+        "word": "小红书博主引导网友穿越军事重地",
+        "onboard_time": 1705891225,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474048,
+        "num": 474048,
+        "word": "云南山体滑坡已致2人遇难",
+        "onboard_time": 1705903525,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891326,
+        "num": 456884,
+        "word": "A股三大指数均跌超3%",
+        "onboard_time": 1705907365,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 431817,
+        "num": 431817,
+        "word": "辛巴回应孩子应吃预制菜言论",
+        "onboard_time": 1705905983,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349152,
+        "num": 349152,
+        "word": "李庚希是真豁出去了 彭彭应该就这样",
+        "onboard_time": 1705905867,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346296,
+        "num": 346296,
+        "word": "多位明星参演电影涉影视投资诈骗案",
+        "onboard_time": 1705907186,
+        "rank": 13,
+        "category": "社会新闻,电影"
+      },
+      {
+        "raw_hot": 307376,
+        "num": 307376,
+        "word": "被金莎修图的样子真实到了",
+        "onboard_time": 1705901906,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306848,
+        "num": 306848,
+        "word": "关于六寸蛋糕放5斤车厘子这件事",
+        "onboard_time": 1705845211,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255954,
+        "num": 255954,
+        "word": "藏海传取景地",
+        "onboard_time": 1705904546,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206229,
+        "num": 206229,
+        "word": "枭起青壤 陈哲远",
+        "onboard_time": 1705907008,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200702,
+        "num": 200702,
+        "word": "久酷 我会酷的久一点",
+        "onboard_time": 1705907127,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200370,
+        "num": 200370,
+        "word": "上证指数再度失守2800点",
+        "onboard_time": 1705904126,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 924804,
+        "num": 199966,
+        "word": "A股",
+        "onboard_time": 1705887683,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 649901,
+        "num": 198561,
+        "word": "三市下跌个股近5200只",
+        "onboard_time": 1705903165,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 615816,
+        "num": 198146,
+        "word": "A股上涨个股仅200只",
+        "onboard_time": 1705904005,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 791175,
+        "num": 196789,
+        "word": "股市",
+        "onboard_time": 1705901066,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 267244,
+        "num": 196554,
+        "word": "我爸觉得范丞丞这个女婿不孬",
+        "onboard_time": 1705907127,
+        "rank": 24,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 201911,
+        "num": 195212,
+        "word": "女子分手拒搬离前男友房子",
+        "onboard_time": 1705898129,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194680,
+        "num": 194680,
+        "word": "邓为直播带粉丝看雪",
+        "onboard_time": 1705902927,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193873,
+        "num": 193873,
+        "word": "军事重地禁止进入并非儿戏",
+        "onboard_time": 1705896448,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181549,
+        "num": 181549,
+        "word": "研究生劳务费",
+        "onboard_time": 1705884266,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178579,
+        "num": 178579,
+        "word": "过年美甲",
+        "onboard_time": 1705896688,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 178596,
+        "num": 177619,
+        "word": "资金增持高股息概念股",
+        "onboard_time": 1705907665,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172333,
+        "num": 172333,
+        "word": "哈药六厂走红每天1万多人排队参观",
+        "onboard_time": 1705906587,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168889,
+        "num": 168889,
+        "word": "鞠婧祎车窗看雪",
+        "onboard_time": 1705904845,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168046,
+        "num": 168046,
+        "word": "16岁刘亦菲旧照",
+        "onboard_time": 1705897648,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159657,
+        "num": 159657,
+        "word": "知情人士证实东方甄选将与TikTok合作",
+        "onboard_time": 1705904905,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157164,
+        "num": 157164,
+        "word": "接下来三周的工作计划安排",
+        "onboard_time": 1705903584,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156718,
+        "num": 156718,
+        "word": "原神掉粉",
+        "onboard_time": 1705895006,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138943,
+        "num": 138943,
+        "word": "世界是一个巨大的客厅",
+        "onboard_time": 1705905264,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138772,
+        "num": 138772,
+        "word": "胡先煦加盟毛雪汪",
+        "onboard_time": 1705902208,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130275,
+        "num": 130275,
+        "word": "湖人战胜开拓者",
+        "onboard_time": 1705907306,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129277,
+        "num": 129277,
+        "word": "上海土豆面包乘飞机抵达尔滨",
+        "onboard_time": 1705904845,
+        "rank": 40,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 125049,
+        "num": 125049,
+        "word": "微信红包并非转账认定赠与无需返还",
+        "onboard_time": 1705839807,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124996,
+        "num": 124996,
+        "word": "郑书意蒋翼同款妆造",
+        "onboard_time": 1705906344,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121358,
+        "num": 121358,
+        "word": "猫好 狗坏",
+        "onboard_time": 1705897948,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116351,
+        "num": 116351,
+        "word": "下雪",
+        "onboard_time": 1705883245,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115162,
+        "num": 115162,
+        "word": "DYG官宣夏凌加入",
+        "onboard_time": 1705906706,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112818,
+        "num": 112818,
+        "word": "马伊琍唐嫣辛芷蕾合体首封",
+        "onboard_time": 1705896145,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110384,
+        "num": 110384,
+        "word": "100道年夜菜",
+        "onboard_time": 1705907847,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109476,
+        "num": 109476,
+        "word": "深圳队宣布解散",
+        "onboard_time": 1705892245,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107552,
+        "num": 107552,
+        "word": "东方甄选出海",
+        "onboard_time": 1705907847,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#3820战略工程蕴含怎样的魄力和精神#"
+    }
+  }
+}
