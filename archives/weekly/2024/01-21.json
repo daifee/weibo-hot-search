@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705912676528,
+  "endTime": 1705915174450,
   "band_list": [
     {
       "raw_hot": 2569909,
@@ -67,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1655577,
+      "num": 458031,
+      "word": "A股大跌",
+      "onboard_time": 1705909587,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1631346,
       "num": 1631346,
       "word": "韩安冉女儿被确诊多动症",
@@ -89,14 +97,6 @@
       "onboard_time": 1705909709,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1463346,
-      "num": 458031,
-      "word": "A股大跌",
-      "onboard_time": 1705909587,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 1453093,
@@ -145,6 +145,14 @@
       "onboard_time": 1705907365,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1266625,
+      "num": 1266625,
+      "word": "阿莫西林滥用现象严重",
+      "onboard_time": 1705909828,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1230180,
@@ -363,14 +371,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 829699,
-      "num": 829699,
-      "word": "阿莫西林滥用现象严重",
-      "onboard_time": 1705909828,
-      "rank": 5,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 822805,
       "num": 822805,
       "word": "沈腾马丽现身央视春晚第二次联排",
@@ -475,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 735317,
+      "num": 384887,
+      "word": "抗震小英雄林浩宣布结婚",
+      "onboard_time": 1705910787,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733580,
       "num": 733580,
       "word": "考完研后才知道家里有五层别墅",
@@ -537,6 +545,14 @@
       "onboard_time": 1705805006,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691799,
+      "num": 691799,
+      "word": "迪丽热巴喀什",
+      "onboard_time": 1705914024,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 672128,
@@ -715,6 +731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 579770,
+      "num": 381941,
+      "word": "胡锡进称现在市场已处于明显低位",
+      "onboard_time": 1705912947,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 577684,
       "num": 577684,
       "word": "俞敏洪回应新东方留不住人才",
@@ -764,7 +788,7 @@
     },
     {
       "raw_hot": 537413,
-      "num": 275892,
+      "num": 291252,
       "word": "高铁上拒绝了带娃女士的让座要求",
       "onboard_time": 1705908508,
       "rank": 26,
@@ -1011,6 +1035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 463891,
+      "num": 463891,
+      "word": "大哥收购2千万根苹果枝身价翻10倍",
+      "onboard_time": 1705913728,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463790,
       "num": 463790,
       "word": "31省份最低工资表",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1705897648,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416267,
+      "num": 416267,
+      "word": "河南一女子称自己37岁当婆婆",
+      "onboard_time": 1705912589,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415469,
@@ -1499,6 +1539,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337622,
+      "num": 337622,
+      "word": "李沁捧雪照",
+      "onboard_time": 1705913126,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 336550,
+      "num": 336550,
+      "word": "C罗球迷为见偶像跳到管控区域接机",
+      "onboard_time": 1705913246,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335009,
       "num": 335009,
       "word": "蒋翼出现那刻偶像剧弱爆了",
@@ -1571,6 +1627,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 322033,
+      "num": 173646,
+      "word": "江疏影雪球爆仓去申万宏源消息不实",
+      "onboard_time": 1705914929,
+      "rank": 30,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 321905,
       "num": 284503,
       "word": "郑晓龙评价罗晋",
@@ -1608,14 +1672,6 @@
       "word": "中产涌入三亚扎堆买房子",
       "onboard_time": 1705808666,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305126,
-      "num": 305126,
-      "word": "抗震小英雄林浩宣布结婚",
-      "onboard_time": 1705910787,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2123,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220251,
+      "num": 220251,
+      "word": "i人都在做什么工作",
+      "onboard_time": 1705912406,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219323,
       "num": 219323,
       "word": "过年前最离不开的软件",
@@ -2619,6 +2683,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 191587,
+      "num": 191587,
+      "word": "tws是工作 riize是生活",
+      "onboard_time": 1705914447,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190975,
+      "num": 190975,
+      "word": "gap两年觉得活着真好",
+      "onboard_time": 1705914625,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190885,
       "num": 190885,
       "word": "速效救心丸和硝酸甘油 谁更有用",
@@ -2713,6 +2793,14 @@
       "onboard_time": 1705851809,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184964,
+      "num": 184964,
+      "word": "宝可梦推文遭嘲讽",
+      "onboard_time": 1705913607,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 184482,
@@ -2827,6 +2915,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 178165,
+      "num": 178165,
+      "word": "胡锡进回应小红书博主穿越军事禁区",
+      "onboard_time": 1705912886,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178040,
       "num": 140051,
       "word": "从急诊医生角度说说结婚",
@@ -2881,6 +2977,14 @@
       "onboard_time": 1705904905,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 173826,
+      "num": 173826,
+      "word": "预制菜国标要来了",
+      "onboard_time": 1705913664,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 173789,
@@ -2976,6 +3080,14 @@
       "word": "若华官配",
       "onboard_time": 1705847189,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170085,
+      "num": 170085,
+      "word": "南来北往 预约",
+      "onboard_time": 1705914024,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -3331,6 +3443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 148335,
+      "num": 148335,
+      "word": "周小平 A股不涨比涨要安全",
+      "onboard_time": 1705915047,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 148298,
       "num": 148298,
       "word": "谷爱凌 感谢支持和喜爱",
@@ -3344,6 +3464,14 @@
       "word": "卧铺票可在线自主选铺",
       "onboard_time": 1705895544,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146875,
+      "num": 146875,
+      "word": "国务院安委会挂牌督办平顶山煤矿事故",
+      "onboard_time": 1705912346,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -3425,6 +3553,14 @@
       "onboard_time": 1705897530,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143386,
+      "num": 143386,
+      "word": "周也雪景live图",
+      "onboard_time": 1705915107,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 143321,
@@ -3635,6 +3771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134751,
+      "num": 134751,
+      "word": "什么是雪球产品",
+      "onboard_time": 1705914809,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 134050,
       "num": 134050,
       "word": "张韶涵27场演唱会收官",
@@ -3681,6 +3825,14 @@
       "onboard_time": 1705807526,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132939,
+      "num": 132939,
+      "word": "杨紫解锁第十套高定",
+      "onboard_time": 1705912767,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 132881,
@@ -3795,6 +3947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128349,
+      "num": 128349,
+      "word": "刘涛 蓝牙",
+      "onboard_time": 1705915165,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128206,
       "num": 128206,
       "word": "要久久爱台词",
@@ -3849,14 +4009,6 @@
       "onboard_time": 1705890264,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 126490,
-      "num": 126490,
-      "word": "i人都在做什么工作",
-      "onboard_time": 1705912406,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 125953,
@@ -3985,14 +4137,6 @@
       "onboard_time": 1705832666,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119082,
-      "num": 119082,
-      "word": "国务院安委会挂牌督办平顶山煤矿事故",
-      "onboard_time": 1705912346,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118199,
@@ -4289,14 +4433,6 @@
       "onboard_time": 1705818024,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 102367,
-      "num": 108566,
-      "word": "河南一女子称自己37岁当婆婆",
-      "onboard_time": 1705912589,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102270,
@@ -4620,7 +4756,7 @@
     },
     {
       "raw_hot": 68499,
-      "num": 886056,
+      "num": 904293,
       "word": "争分夺秒全力以赴",
       "onboard_time": 1705908329,
       "rank": 2,
