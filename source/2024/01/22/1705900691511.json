@@ -1,0 +1,410 @@
+{
+  "runTime": 1705900691511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1904224,
+        "num": 1904224,
+        "word": "方媛回应坐经济舱",
+        "onboard_time": 1705896388,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1298121,
+        "num": 1298121,
+        "word": "小红书博主引导网友穿越军事重地",
+        "onboard_time": 1705891225,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166021,
+        "num": 991858,
+        "word": "南方多地迎降雪",
+        "onboard_time": 1705893865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852636,
+        "num": 852636,
+        "word": "下雪",
+        "onboard_time": 1705883245,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650567,
+        "num": 650567,
+        "word": "关于六寸蛋糕放5斤车厘子这件事",
+        "onboard_time": 1705845211,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 558969,
+        "num": 558969,
+        "word": "横店下雪 爆剧",
+        "onboard_time": 1705900165,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 536351,
+        "num": 536351,
+        "word": "研究生劳务费",
+        "onboard_time": 1705884266,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 491483,
+        "num": 491483,
+        "word": "云南镇雄突发山体滑坡47人被埋",
+        "onboard_time": 1705894286,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481119,
+        "num": 481119,
+        "word": "花少5大收官连播3天",
+        "onboard_time": 1705896868,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479085,
+        "num": 479085,
+        "word": "董宇辉建议俞敏洪拍中国合伙人2",
+        "onboard_time": 1705895426,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 471997,
+        "num": 471997,
+        "word": "微信红包并非转账认定赠与无需返还",
+        "onboard_time": 1705839807,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463790,
+        "num": 463790,
+        "word": "31省份最低工资表",
+        "onboard_time": 1705897769,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 430817,
+        "num": 430817,
+        "word": "原神掉粉",
+        "onboard_time": 1705895006,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 429671,
+        "num": 429671,
+        "word": "过年美甲",
+        "onboard_time": 1705896688,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 416582,
+        "num": 416582,
+        "word": "16岁刘亦菲旧照",
+        "onboard_time": 1705897648,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415163,
+        "num": 415163,
+        "word": "方媛综艺首秀",
+        "onboard_time": 1705894886,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371941,
+        "num": 371941,
+        "word": "军事重地禁止进入并非儿戏",
+        "onboard_time": 1705896448,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359269,
+        "num": 359269,
+        "word": "桂林下雪",
+        "onboard_time": 1705898253,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354089,
+        "num": 354089,
+        "word": "A股",
+        "onboard_time": 1705887683,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 347621,
+        "num": 347621,
+        "word": "马伊琍唐嫣辛芷蕾合体首封",
+        "onboard_time": 1705896145,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 481369,
+        "num": 345844,
+        "word": "猫好 狗坏",
+        "onboard_time": 1705897948,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 476771,
+        "num": 345720,
+        "word": "女子分手拒搬离前男友房子",
+        "onboard_time": 1705898129,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343076,
+        "num": 343076,
+        "word": "岳云鹏被金莎的爱情冲击到",
+        "onboard_time": 1705888883,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326369,
+        "num": 326369,
+        "word": "新疆拜城县发生4.8级地震",
+        "onboard_time": 1705899509,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316403,
+        "num": 316403,
+        "word": "深圳队宣布解散",
+        "onboard_time": 1705892245,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268935,
+        "num": 268935,
+        "word": "安陵容早这样后宫没一个是对手",
+        "onboard_time": 1705887683,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237468,
+        "num": 237468,
+        "word": "白鹿下雪给粉丝送豆浆",
+        "onboard_time": 1705897827,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222614,
+        "num": 222614,
+        "word": "上证指数",
+        "onboard_time": 1705899448,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 216823,
+        "num": 216823,
+        "word": "真正摧毁肾的4个行为",
+        "onboard_time": 1705887805,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25063,
+        "num": 215333,
+        "word": "恋与深空恋爱外语两手抓",
+        "onboard_time": 1705899569,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268870,
+        "num": 215327,
+        "word": "火车司机抑郁障碍阳性率达到50%",
+        "onboard_time": 1705899805,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215281,
+        "num": 215281,
+        "word": "周杰伦 多重宇宙伦都是真的",
+        "onboard_time": 1705894947,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202279,
+        "num": 202279,
+        "word": "这是我的岛开录",
+        "onboard_time": 1705900047,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190107,
+        "num": 190107,
+        "word": "中欧基金葛兰十大重仓股",
+        "onboard_time": 1705899688,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189284,
+        "num": 189284,
+        "word": "我和妈妈买年货的区别",
+        "onboard_time": 1705900165,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188211,
+        "num": 188211,
+        "word": "鸡 你有没有为一块猪油拼过命",
+        "onboard_time": 1705881444,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187223,
+        "num": 187223,
+        "word": "2024KPL春季赛赛程",
+        "onboard_time": 1705899688,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168563,
+        "num": 168563,
+        "word": "不会保存车厘子的人有福了",
+        "onboard_time": 1705895849,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155933,
+        "num": 155933,
+        "word": "要久久爱婚礼戏",
+        "onboard_time": 1705899268,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145705,
+        "num": 145705,
+        "word": "史铁生的一生是震撼我的",
+        "onboard_time": 1705891585,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 141447,
+        "num": 141447,
+        "word": "上海下雪",
+        "onboard_time": 1705887865,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138655,
+        "num": 138655,
+        "word": "中国的传统文化真是美到我了",
+        "onboard_time": 1705899748,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138185,
+        "num": 138185,
+        "word": "鞠婧祎韩菱纱主题曲上线",
+        "onboard_time": 1705899148,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135058,
+        "num": 135058,
+        "word": "昆明迎来新年第一场雪",
+        "onboard_time": 1705899329,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134328,
+        "num": 134328,
+        "word": "黑龙江多地文旅连夜上大分",
+        "onboard_time": 1705896990,
+        "rank": 44,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 131599,
+        "num": 131599,
+        "word": "广西广东等地将有大到暴雪",
+        "onboard_time": 1705890205,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122877,
+        "num": 122877,
+        "word": "祈今朝男小三",
+        "onboard_time": 1705893626,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119867,
+        "num": 119867,
+        "word": "哈药六厂",
+        "onboard_time": 1705889906,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 111721,
+        "num": 111721,
+        "word": "成毅莲花楼哭戏赏析",
+        "onboard_time": 1705894646,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108163,
+        "num": 108163,
+        "word": "春运抢票12306新功能汇总",
+        "onboard_time": 1705887505,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#3820战略工程蕴含怎样的魄力和精神#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705898220453,
+  "endTime": 1705900691511,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1705124313,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1904224,
+      "num": 1904224,
+      "word": "方媛回应坐经济舱",
+      "onboard_time": 1705896388,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1897679,
@@ -3025,14 +3033,6 @@
       "onboard_time": 1705455927,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1250466,
-      "num": 1250466,
-      "word": "方媛回应坐经济舱",
-      "onboard_time": 1705896388,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1249534,
@@ -12059,6 +12059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 558969,
+      "num": 558969,
+      "word": "横店下雪 爆剧",
+      "onboard_time": 1705900165,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 558947,
       "num": 558947,
       "word": "春晚彩排",
@@ -14787,6 +14795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 481369,
+      "num": 345844,
+      "word": "猫好 狗坏",
+      "onboard_time": 1705897948,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 480575,
       "num": 480575,
       "word": "王家卫在片场让马伊琍不要低头",
@@ -14801,6 +14817,14 @@
       "onboard_time": 1705722388,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479085,
+      "num": 479085,
+      "word": "董宇辉建议俞敏洪拍中国合伙人2",
+      "onboard_time": 1705895426,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 478951,
@@ -14865,6 +14889,14 @@
       "onboard_time": 1704257974,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476771,
+      "num": 345720,
+      "word": "女子分手拒搬离前男友房子",
+      "onboard_time": 1705898129,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476674,
@@ -15387,6 +15419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463790,
+      "num": 463790,
+      "word": "31省份最低工资表",
+      "onboard_time": 1705897769,
+      "rank": 33,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 463740,
       "num": 391463,
       "word": "为孩子不离婚孩子真能快乐吗",
@@ -15569,14 +15609,6 @@
       "onboard_time": 1705550551,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 459153,
-      "num": 459153,
-      "word": "董宇辉建议俞敏洪拍中国合伙人2",
-      "onboard_time": 1705895426,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 459113,
@@ -16587,6 +16619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429671,
+      "num": 429671,
+      "word": "过年美甲",
+      "onboard_time": 1705896688,
+      "rank": 29,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 429429,
       "num": 429429,
       "word": "刘宇宁直播门票",
@@ -17049,6 +17089,14 @@
       "onboard_time": 1705331669,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 416582,
+      "num": 416582,
+      "word": "16岁刘亦菲旧照",
+      "onboard_time": 1705897648,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 416418,
@@ -19099,6 +19147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371941,
+      "num": 371941,
+      "word": "军事重地禁止进入并非儿戏",
+      "onboard_time": 1705896448,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371441,
       "num": 274322,
       "word": "00后男孩500元一天出租自己",
@@ -19625,6 +19681,14 @@
       "onboard_time": 1705664906,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 359269,
+      "num": 359269,
+      "word": "桂林下雪",
+      "onboard_time": 1705898253,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358804,
@@ -20643,14 +20707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 334122,
-      "num": 334122,
-      "word": "16岁刘亦菲旧照",
-      "onboard_time": 1705897648,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 333882,
       "num": 271755,
       "word": "第一批回村的猫咪已经被欺负了",
@@ -20945,6 +21001,14 @@
       "onboard_time": 1704774094,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 326369,
+      "num": 326369,
+      "word": "新疆拜城县发生4.8级地震",
+      "onboard_time": 1705899509,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326367,
@@ -21715,14 +21779,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 313848,
-      "num": 313848,
-      "word": "过年美甲",
-      "onboard_time": 1705896688,
-      "rank": 29,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 313719,
       "num": 313719,
       "word": "吸冻梨",
@@ -22305,14 +22361,6 @@
       "onboard_time": 1705487847,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 302527,
-      "num": 302527,
-      "word": "猫好 狗坏",
-      "onboard_time": 1705897948,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 302446,
@@ -24619,6 +24667,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 268870,
+      "num": 215327,
+      "word": "火车司机抑郁障碍阳性率达到50%",
+      "onboard_time": 1705899805,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268721,
       "num": 268721,
       "word": "RIIZE空降",
@@ -26291,14 +26347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 249266,
-      "num": 249266,
-      "word": "军事重地禁止进入并非儿戏",
-      "onboard_time": 1705896448,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249241,
       "num": 220519,
       "word": "贾乃亮录一期节目杜华就跑一个艺人",
@@ -27417,6 +27465,14 @@
       "onboard_time": 1704194912,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237468,
+      "num": 237468,
+      "word": "白鹿下雪给粉丝送豆浆",
+      "onboard_time": 1705897827,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 237388,
@@ -29297,6 +29353,14 @@
       "onboard_time": 1705412975,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222614,
+      "num": 222614,
+      "word": "上证指数",
+      "onboard_time": 1704680188,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 222566,
@@ -32355,6 +32419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202279,
+      "num": 202279,
+      "word": "这是我的岛开录",
+      "onboard_time": 1705900047,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202190,
       "num": 202190,
       "word": "支援尔滨的白狐上岗了",
@@ -35179,6 +35251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190107,
+      "num": 190107,
+      "word": "中欧基金葛兰十大重仓股",
+      "onboard_time": 1705899688,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 190082,
       "num": 190082,
       "word": "拉椅子 喊麦",
@@ -35323,14 +35403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189333,
-      "num": 189333,
-      "word": "31省份最低工资表",
-      "onboard_time": 1705897769,
-      "rank": 33,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 189326,
       "num": 189326,
       "word": "当小砂糖橘遇上小雾凇",
@@ -35353,6 +35425,14 @@
       "onboard_time": 1705490848,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 189284,
+      "num": 189284,
+      "word": "我和妈妈买年货的区别",
+      "onboard_time": 1705900165,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 189250,
@@ -35808,6 +35888,14 @@
       "word": "TTG官宣Lovecd离队",
       "onboard_time": 1705547306,
       "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 187223,
+      "num": 187223,
+      "word": "2024KPL春季赛赛程",
+      "onboard_time": 1705899688,
+      "rank": 36,
       "category": "电竞"
     },
     {
@@ -39499,14 +39587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169972,
-      "num": 169972,
-      "word": "白鹿下雪给粉丝送豆浆",
-      "onboard_time": 1705897827,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169960,
       "num": 169960,
       "word": "汪小姐变脸",
@@ -41971,14 +42051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158298,
-      "num": 158298,
-      "word": "上证指数",
-      "onboard_time": 1704680188,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 158266,
       "num": 158266,
       "word": "大鹏回应新电影豆瓣8.2分",
@@ -42521,6 +42593,14 @@
       "onboard_time": 1704932730,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155933,
+      "num": 155933,
+      "word": "要久久爱婚礼戏",
+      "onboard_time": 1705899268,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 155928,
@@ -46483,6 +46563,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 138655,
+      "num": 138655,
+      "word": "中国的传统文化真是美到我了",
+      "onboard_time": 1705899748,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138654,
       "num": 138654,
       "word": "减少卡粉的最重要的步骤",
@@ -46641,6 +46729,14 @@
       "onboard_time": 1705565789,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 138185,
+      "num": 138185,
+      "word": "鞠婧祎韩菱纱主题曲上线",
+      "onboard_time": 1705899148,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 138145,
@@ -47353,6 +47449,14 @@
       "onboard_time": 1705033296,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 135058,
+      "num": 135058,
+      "word": "昆明迎来新年第一场雪",
+      "onboard_time": 1705899329,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135037,
@@ -50561,14 +50665,6 @@
       "onboard_time": 1704592470,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121929,
-      "num": 121929,
-      "word": "女子分手拒搬离前男友房子",
-      "onboard_time": 1705898129,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121912,
@@ -58377,6 +58473,14 @@
       "onboard_time": 1704133997,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25063,
+      "num": 215333,
+      "word": "恋与深空恋爱外语两手抓",
+      "onboard_time": 1705899569,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 25015,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705898220453,
+  "endTime": 1705900691511,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1705124313,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1904224,
+      "num": 1904224,
+      "word": "方媛回应坐经济舱",
+      "onboard_time": 1705896388,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1897679,
@@ -2392,14 +2400,6 @@
       "word": "杨幂 大头打一下",
       "onboard_time": 1705145804,
       "rank": 11,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1415027,
-      "num": 1415027,
-      "word": "杨紫几点出图",
-      "onboard_time": 1705129294,
-      "rank": 5,
       "category": "作品衍生"
     }
   ],
