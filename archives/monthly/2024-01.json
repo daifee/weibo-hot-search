@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705954778843,
+  "endTime": 1705955656136,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -60315,6 +60315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30423,
+      "num": 30423,
+      "word": "陶晶莹控诉合伙人拿走公司私章",
+      "onboard_time": 1705950974,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30375,
       "num": 237105,
       "word": "谢谢元梦帮我圆梦",
@@ -60433,14 +60441,6 @@
       "onboard_time": 1705899569,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27006,
-      "num": 27006,
-      "word": "陶晶莹控诉合伙人拿走公司私章",
-      "onboard_time": 1705950974,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 26706,
