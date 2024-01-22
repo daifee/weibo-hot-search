@@ -1,0 +1,410 @@
+{
+  "runTime": 1705891531435,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1977239,
+        "num": 1977239,
+        "word": "下雪",
+        "onboard_time": 1705883245,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1178104,
+        "num": 1178104,
+        "word": "研究生劳务费",
+        "onboard_time": 1705884266,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59746,
+        "num": 881684,
+        "word": "当江浙沪遇上了古诗词",
+        "onboard_time": 1705845330,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795971,
+        "num": 795971,
+        "word": "岳云鹏被金莎的爱情冲击到",
+        "onboard_time": 1705888883,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 656702,
+        "num": 656702,
+        "word": "哈药六厂",
+        "onboard_time": 1705889906,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 650351,
+        "num": 650351,
+        "word": "微信红包并非转账认定赠与无需返还",
+        "onboard_time": 1705839807,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577270,
+        "num": 577270,
+        "word": "在东北车厘子都要裹上暖宝宝",
+        "onboard_time": 1705886904,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 568271,
+        "num": 568271,
+        "word": "安陵容早这样后宫没一个是对手",
+        "onboard_time": 1705887683,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 524674,
+        "num": 524674,
+        "word": "鸡 你有没有为一块猪油拼过命",
+        "onboard_time": 1705881444,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 522772,
+        "num": 522772,
+        "word": "瑞幸易烊千玺小卡",
+        "onboard_time": 1705886724,
+        "rank": 9,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 450152,
+        "num": 450152,
+        "word": "春运抢票12306新功能汇总",
+        "onboard_time": 1705887505,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425955,
+        "num": 425955,
+        "word": "阿莫西林只对6种病症有效",
+        "onboard_time": 1705885644,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 419151,
+        "num": 419151,
+        "word": "关于六寸蛋糕放5斤车厘子这件事",
+        "onboard_time": 1705845211,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 406116,
+        "num": 406116,
+        "word": "起诉张雪峰博主决定撤诉",
+        "onboard_time": 1705890205,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396930,
+        "num": 396930,
+        "word": "郎朗回应58岁建筑工人钢琴之约",
+        "onboard_time": 1705879339,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 392756,
+        "num": 392756,
+        "word": "上海下雪",
+        "onboard_time": 1705887865,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386339,
+        "num": 386339,
+        "word": "A股",
+        "onboard_time": 1705887683,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 368447,
+        "num": 368447,
+        "word": "火灾遇难学生遗体呈躺睡状态",
+        "onboard_time": 1705891225,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368373,
+        "num": 368373,
+        "word": "1米9萌兰最想删掉的视频",
+        "onboard_time": 1705888224,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353038,
+        "num": 353038,
+        "word": "A股有望进入交易反弹窗口期",
+        "onboard_time": 1705886307,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 398797,
+        "num": 352300,
+        "word": "真正摧毁肾的4个行为",
+        "onboard_time": 1705887805,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 349984,
+        "num": 349984,
+        "word": "董宇辉认证修改",
+        "onboard_time": 1705888404,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 249001,
+        "num": 249001,
+        "word": "适当减少饭量可减缓衰老速度",
+        "onboard_time": 1705889726,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238717,
+        "num": 238717,
+        "word": "边伯贤将3月举行演唱会",
+        "onboard_time": 1705890145,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201691,
+        "num": 201691,
+        "word": "广西广东等地将有大到暴雪",
+        "onboard_time": 1705890205,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190503,
+        "num": 190503,
+        "word": "女孩把馒头做成带馅的1天卖500个",
+        "onboard_time": 1705848749,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190180,
+        "num": 190180,
+        "word": "举报县委书记被逮捕老干部称相信法律",
+        "onboard_time": 1705885826,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189498,
+        "num": 189498,
+        "word": "吴彦祖 亚裔芭比刻板印象",
+        "onboard_time": 1705882043,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175974,
+        "num": 175974,
+        "word": "华西医生说九成大肠癌是它引起的",
+        "onboard_time": 1705880421,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150732,
+        "num": 150732,
+        "word": "会中文的韩国人和中国人都沉默了",
+        "onboard_time": 1705849768,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188774,
+        "num": 150349,
+        "word": "小姐姐分享在广州做的美甲",
+        "onboard_time": 1705888823,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 148158,
+        "num": 148158,
+        "word": "wife歌词",
+        "onboard_time": 1705880001,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139903,
+        "num": 139903,
+        "word": "9只小麻雀整整齐齐挤在车轮上取暖",
+        "onboard_time": 1705885107,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137434,
+        "num": 137434,
+        "word": "杜兰特质问为何不在GOAT讨论中",
+        "onboard_time": 1705890564,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136034,
+        "num": 136034,
+        "word": "杭州下雪",
+        "onboard_time": 1705885887,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130610,
+        "num": 130610,
+        "word": "黄瀛子为了看蒋翼女朋友抢捧花",
+        "onboard_time": 1705886067,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128729,
+        "num": 128729,
+        "word": "吃辣时流鼻涕 味觉性鼻炎",
+        "onboard_time": 1705881502,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122268,
+        "num": 122268,
+        "word": "N1出成绩",
+        "onboard_time": 1705890264,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119036,
+        "num": 119036,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1705849711,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117806,
+        "num": 117806,
+        "word": "勇敢的人先加王一博微信",
+        "onboard_time": 1705846950,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111251,
+        "num": 111251,
+        "word": "你真是饿了",
+        "onboard_time": 1705852706,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110656,
+        "num": 110656,
+        "word": "国足再迎亚洲杯生死战",
+        "onboard_time": 1705887805,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108766,
+        "num": 108766,
+        "word": "许凯认证周历杰身高179",
+        "onboard_time": 1705889546,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103343,
+        "num": 103343,
+        "word": "美国房主新买二手房冰柜里有颗人头",
+        "onboard_time": 1705851507,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97459,
+        "num": 97459,
+        "word": "缓解焦虑的办法",
+        "onboard_time": 1705891163,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96937,
+        "num": 96937,
+        "word": "小红书博主引导网友穿越军事重地",
+        "onboard_time": 1705891225,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94893,
+        "num": 94893,
+        "word": "砂糖橘摆成了我吃不起的样子",
+        "onboard_time": 1705844848,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92895,
+        "num": 92895,
+        "word": "尔滨冻梨之后又火了冻柿咖啡",
+        "onboard_time": 1705885465,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87886,
+        "num": 87886,
+        "word": "苹果VisionPro国内最高炒到9万元",
+        "onboard_time": 1705885525,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85320,
+        "num": 85320,
+        "word": "阿富汗坠机事件中有4人生还",
+        "onboard_time": 1705883488,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进金融高水平对外开放#"
+    }
+  }
+}
