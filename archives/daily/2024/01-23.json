@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1706016123480,
+  "endTime": 1706016836270,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1778466,
-      "num": 403634,
+      "num": 493652,
       "word": "私密整形一夜爆火",
       "onboard_time": 1706009611,
       "rank": 49,
@@ -187,6 +187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 904289,
+      "num": 474628,
+      "word": "C罗向中国球迷道歉",
+      "onboard_time": 1706016272,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 894977,
       "num": 894977,
       "word": "上班后才知道妈妈把我养得多好",
@@ -227,20 +235,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 859574,
+      "num": 859574,
+      "word": "权志龙有超过2000首未发布的歌曲",
+      "onboard_time": 1706014532,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 835613,
       "num": 835613,
       "word": "杨紫和孙俪妹妹演同事",
       "onboard_time": 1705978707,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 823128,
-      "num": 823128,
-      "word": "权志龙有超过2000首未发布的歌曲",
-      "onboard_time": 1706014532,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 812249,
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565146,
+      "num": 565146,
+      "word": "国足无缘亚洲杯16强",
+      "onboard_time": 1706015973,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 558609,
       "num": 558609,
       "word": "肖宇梁 纯元瓶",
@@ -521,6 +537,14 @@
       "onboard_time": 1706006490,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 524787,
+      "num": 524787,
+      "word": "马伊琍大女儿近照",
+      "onboard_time": 1706015733,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 500959,
@@ -755,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 396892,
+      "num": 396892,
+      "word": "王菊吐槽总被漂亮礼服尺码PUA",
+      "onboard_time": 1706014950,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393624,
       "num": 200166,
       "word": "冠磊",
@@ -827,20 +859,20 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 366468,
+      "num": 366468,
+      "word": "张小斐短发",
+      "onboard_time": 1706016092,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 360468,
       "num": 360468,
       "word": "只要上过班我们就脏了",
       "onboard_time": 1705990046,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 360170,
-      "num": 318684,
-      "word": "王菊吐槽总被漂亮礼服尺码PUA",
-      "onboard_time": 1706014950,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 357066,
@@ -899,6 +931,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329319,
+      "num": 329319,
+      "word": "国足亚洲杯出局",
+      "onboard_time": 1706016151,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 324510,
+      "num": 324510,
+      "word": "C罗中国行主办方全套退款",
+      "onboard_time": 1706015973,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322913,
       "num": 322913,
       "word": "杜兰特绝杀",
@@ -931,12 +979,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 320008,
-      "num": 320008,
-      "word": "国足无缘亚洲杯16强",
-      "onboard_time": 1706015973,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 320573,
+      "num": 283327,
+      "word": "入职第二天公司年会喜提大奖",
+      "onboard_time": 1706015251,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 319708,
@@ -1124,7 +1172,7 @@
     },
     {
       "raw_hot": 276808,
-      "num": 246668,
+      "num": 268525,
       "word": "情侣酒店走光索要10倍赔偿",
       "onboard_time": 1706013691,
       "rank": 38,
@@ -1137,14 +1185,6 @@
       "onboard_time": 1705973189,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276615,
-      "num": 240680,
-      "word": "入职第二天公司年会喜提大奖",
-      "onboard_time": 1706015251,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 276402,
@@ -1193,14 +1233,6 @@
       "onboard_time": 1706000550,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268828,
-      "num": 268828,
-      "word": "马伊琍大女儿近照",
-      "onboard_time": 1706015733,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 267654,
@@ -1507,6 +1539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217831,
+      "num": 217831,
+      "word": "C罗说中国是第二故乡",
+      "onboard_time": 1706016394,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216126,
       "num": 216126,
       "word": "七千五的工作和考研怎么选",
@@ -1539,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211429,
+      "num": 204158,
+      "word": "外婆去世后我找到了这本日记",
+      "onboard_time": 1706016512,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210512,
       "num": 210512,
       "word": "赵昭仪导游第一件事是逃亡",
@@ -1553,14 +1601,6 @@
       "onboard_time": 1705971627,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210253,
-      "num": 203955,
-      "word": "C罗中国行主办方全套退款",
-      "onboard_time": 1706015973,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 210141,
@@ -1667,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200905,
+      "num": 200905,
+      "word": "叙利亚进球",
+      "onboard_time": 1706016333,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200816,
       "num": 200816,
       "word": "这窗帘拉上吸血鬼来了都得敲门",
@@ -1761,6 +1809,14 @@
       "onboard_time": 1706005408,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190912,
+      "num": 190912,
+      "word": "国航工作人员疏忽致飞机起落架无法收回",
+      "onboard_time": 1706016453,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190873,
@@ -2033,6 +2089,14 @@
       "onboard_time": 1705987468,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168098,
+      "num": 168098,
+      "word": "古有木兰替父从军 今有秀丽替女出嫁",
+      "onboard_time": 1706016214,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 167954,
@@ -2601,14 +2665,6 @@
       "onboard_time": 1705929149,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 122755,
-      "num": 122755,
-      "word": "张小斐短发",
-      "onboard_time": 1706016092,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 121918,

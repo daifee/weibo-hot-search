@@ -1,0 +1,410 @@
+{
+  "runTime": 1706016836270,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1243840,
+        "num": 1243840,
+        "word": "李湘宣布退休后又复工",
+        "onboard_time": 1706009851,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1117696,
+        "num": 1117696,
+        "word": "雷军 医美",
+        "onboard_time": 1706010931,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 19778,
+        "num": 945271,
+        "word": "地震时客运员第一反应疏散旅客",
+        "onboard_time": 1705973369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928782,
+        "num": 928782,
+        "word": "辛芷蕾穿了顶级高定",
+        "onboard_time": 1706010692,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 859574,
+        "num": 859574,
+        "word": "权志龙有超过2000首未发布的歌曲",
+        "onboard_time": 1706014532,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 807035,
+        "num": 807035,
+        "word": "雷东宝出轨",
+        "onboard_time": 1706013632,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 734643,
+        "num": 734643,
+        "word": "6寸蛋糕用5斤车厘子店家道歉",
+        "onboard_time": 1706004511,
+        "rank": 6,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 565146,
+        "num": 565146,
+        "word": "国足无缘亚洲杯16强",
+        "onboard_time": 1706015973,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524787,
+        "num": 524787,
+        "word": "马伊琍大女儿近照",
+        "onboard_time": 1706015733,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512991,
+        "num": 512991,
+        "word": "C罗中国行比赛延期",
+        "onboard_time": 1706013691,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1499248,
+        "num": 493652,
+        "word": "私密整形一夜爆火",
+        "onboard_time": 1706009611,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 904289,
+        "num": 474628,
+        "word": "C罗向中国球迷道歉",
+        "onboard_time": 1706016272,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396892,
+        "num": 396892,
+        "word": "王菊吐槽总被漂亮礼服尺码PUA",
+        "onboard_time": 1706014950,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367847,
+        "num": 367847,
+        "word": "papi酱 无法工作的理由",
+        "onboard_time": 1706008409,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 366468,
+        "num": 366468,
+        "word": "张小斐短发",
+        "onboard_time": 1706016092,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333483,
+        "num": 333483,
+        "word": "一下子得罪四个人",
+        "onboard_time": 1705994308,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329319,
+        "num": 329319,
+        "word": "国足亚洲杯出局",
+        "onboard_time": 1706016151,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324510,
+        "num": 324510,
+        "word": "C罗中国行主办方全套退款",
+        "onboard_time": 1706015973,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296366,
+        "num": 296366,
+        "word": "权珉娥ins发疤痕照",
+        "onboard_time": 1706012791,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291642,
+        "num": 291642,
+        "word": "新疆7.1级地震已致3死5伤",
+        "onboard_time": 1706009311,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330646,
+        "num": 285725,
+        "word": "有了男朋友好像失去了社交能力",
+        "onboard_time": 1706013812,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320573,
+        "num": 283327,
+        "word": "入职第二天公司年会喜提大奖",
+        "onboard_time": 1706015251,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277380,
+        "num": 277380,
+        "word": "日本一男子性侵多名2岁以下女婴",
+        "onboard_time": 1705999229,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268525,
+        "num": 268525,
+        "word": "情侣酒店走光索要10倍赔偿",
+        "onboard_time": 1706013691,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267883,
+        "num": 267883,
+        "word": "订婚强奸案当事男子母亲将为儿辩护",
+        "onboard_time": 1706007570,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222735,
+        "num": 222735,
+        "word": "秦岚卷发",
+        "onboard_time": 1706013271,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220035,
+        "num": 220035,
+        "word": "赵丽颖发文支持电影版花千骨",
+        "onboard_time": 1706006610,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217831,
+        "num": 217831,
+        "word": "C罗说中国是第二故乡",
+        "onboard_time": 1706016394,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212197,
+        "num": 212197,
+        "word": "韩剧 中国白瓷",
+        "onboard_time": 1706006011,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205028,
+        "num": 205028,
+        "word": "C罗 踢不踢",
+        "onboard_time": 1706001690,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211429,
+        "num": 204158,
+        "word": "外婆去世后我找到了这本日记",
+        "onboard_time": 1706016512,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200905,
+        "num": 200905,
+        "word": "叙利亚进球",
+        "onboard_time": 1706016333,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190912,
+        "num": 190912,
+        "word": "国航工作人员疏忽致飞机起落架无法收回",
+        "onboard_time": 1706016453,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189479,
+        "num": 189479,
+        "word": "女子在ATM机房避寒10分钟被银行喊话",
+        "onboard_time": 1706003607,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176421,
+        "num": 176421,
+        "word": "杨幂哄娃式撸猫",
+        "onboard_time": 1706013152,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171730,
+        "num": 171730,
+        "word": "京东被曝重返央视春晚",
+        "onboard_time": 1706009851,
+        "rank": 35,
+        "category": "互联网,综艺"
+      },
+      {
+        "raw_hot": 169420,
+        "num": 169420,
+        "word": "王者荣耀",
+        "onboard_time": 1706011229,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168975,
+        "num": 168975,
+        "word": "腾讯64.2亿海淀拿地",
+        "onboard_time": 1706005408,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168098,
+        "num": 168098,
+        "word": "古有木兰替父从军 今有秀丽替女出嫁",
+        "onboard_time": 1706016214,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154782,
+        "num": 154782,
+        "word": "月嫂下户后还在朋友圈发我家的照片",
+        "onboard_time": 1706002590,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151289,
+        "num": 151289,
+        "word": "顾时夜糙汉",
+        "onboard_time": 1706011355,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149485,
+        "num": 149485,
+        "word": "C罗出席赛前发布会",
+        "onboard_time": 1706010391,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149265,
+        "num": 149265,
+        "word": "吴京的腿怎么了",
+        "onboard_time": 1706006670,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148128,
+        "num": 148128,
+        "word": "张常宁复出第一分",
+        "onboard_time": 1706014591,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148046,
+        "num": 148046,
+        "word": "要久久爱 剪辑",
+        "onboard_time": 1706014532,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146408,
+        "num": 146408,
+        "word": "盖浇饭是预制菜重灾区",
+        "onboard_time": 1706014892,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135571,
+        "num": 135571,
+        "word": "成毅王权富贵高清正脸照",
+        "onboard_time": 1706009192,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129725,
+        "num": 129725,
+        "word": "新疆乌什地震新闻发布会",
+        "onboard_time": 1706011890,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129237,
+        "num": 129237,
+        "word": "非诚勿扰宝马女起诉离婚",
+        "onboard_time": 1705998211,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 124318,
+        "num": 124318,
+        "word": "七千五的工作和考研怎么选",
+        "onboard_time": 1706009192,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对云南山体滑坡作出重要指示#"
+    }
+  }
+}
