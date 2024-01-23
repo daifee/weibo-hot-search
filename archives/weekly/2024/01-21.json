@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705980882179,
+  "endTime": 1705983734966,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -171,6 +171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1399184,
+      "num": 1399184,
+      "word": "papi酱产后四个月去面试繁花",
+      "onboard_time": 1705982250,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1347051,
       "num": 1347051,
       "word": "韩安冉前夫回应女儿确诊多动症",
@@ -273,6 +281,14 @@
       "onboard_time": 1705819946,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1154580,
+      "num": 1154580,
+      "word": "刘亚仁自曝因抑郁症吸毒",
+      "onboard_time": 1705981046,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1147282,
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686350,
+      "num": 686350,
+      "word": "不愿意请男朋友吃1000块的日料",
+      "onboard_time": 1705979483,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 672128,
       "num": 672128,
       "word": "男孩跳绳6000下后气胸",
@@ -835,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 651402,
+      "num": 651402,
+      "word": "租房45天电费要了900多块钱",
+      "onboard_time": 1705982067,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 651265,
       "num": 651265,
       "word": "网红是书瑶呀否认诽谤事件反转",
@@ -872,6 +904,14 @@
       "word": "慈母多败咪",
       "onboard_time": 1705910670,
       "rank": 12,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 635413,
+      "num": 635413,
+      "word": "我妈把我和炒的年货放一个屋",
+      "onboard_time": 1705979727,
+      "rank": 38,
       "category": "幽默"
     },
     {
@@ -947,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 612889,
-      "num": 612889,
-      "word": "不愿意请男朋友吃1000块的日料",
-      "onboard_time": 1705979483,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 606628,
       "num": 606628,
       "word": "华西医生说九成大肠癌是它引起的",
@@ -988,7 +1020,7 @@
     },
     {
       "raw_hot": 588053,
-      "num": 248217,
+      "num": 248482,
       "word": "茅台瑞幸联名为何不火了",
       "onboard_time": 1705972710,
       "rank": 22,
@@ -1489,6 +1521,14 @@
       "onboard_time": 1705932507,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454906,
+      "num": 454906,
+      "word": "肖宇梁 纯元瓶",
+      "onboard_time": 1705982549,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 454308,
@@ -2235,6 +2275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 329813,
+      "num": 329813,
+      "word": "孙艳 要久久爱",
+      "onboard_time": 1705981587,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329119,
       "num": 295219,
       "word": "基金",
@@ -2467,14 +2515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 288853,
-      "num": 180546,
-      "word": "我妈把我和炒的年货放一个屋",
-      "onboard_time": 1705979727,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 288757,
       "num": 288757,
       "word": "食物语 百田",
@@ -2537,6 +2577,14 @@
       "onboard_time": 1705814127,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283398,
+      "num": 283398,
+      "word": "恋与制作人",
+      "onboard_time": 1705981948,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 282908,
@@ -2635,6 +2683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 273554,
+      "num": 273554,
+      "word": "感觉双胞胎有点癫癫的",
+      "onboard_time": 1705982007,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273501,
       "num": 238391,
       "word": "光夜 亚父陆沉",
@@ -2673,6 +2729,14 @@
       "onboard_time": 1705907127,
       "rank": 24,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 266681,
+      "num": 285018,
+      "word": "王宝强加入河北扛旗大军",
+      "onboard_time": 1705981104,
+      "rank": 19,
+      "category": "艺人,旅游"
     },
     {
       "raw_hot": 266421,
@@ -2753,6 +2817,14 @@
       "onboard_time": 1705844671,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 257881,
+      "num": 257881,
+      "word": "YG预计今年内推出新组合",
+      "onboard_time": 1705980925,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 256909,
@@ -2859,6 +2931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246033,
+      "num": 246033,
+      "word": "男子一个多月内逃缴停车费1500元被刑拘",
+      "onboard_time": 1705982067,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245386,
       "num": 245386,
       "word": "郭晶晶霍启刚亮相香港马拉松赛",
@@ -2931,6 +3011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239331,
+      "num": 239331,
+      "word": "C罗将在中国挑战吉尼斯纪录",
+      "onboard_time": 1705983265,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239101,
       "num": 239101,
       "word": "外国人以为的中国键盘",
@@ -2977,6 +3065,22 @@
       "onboard_time": 1705763670,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235235,
+      "num": 235235,
+      "word": "恩比德狂轰70分",
+      "onboard_time": 1705982849,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 233463,
+      "num": 233463,
+      "word": "提前回家过春节的00后现状",
+      "onboard_time": 1705981648,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 233071,
@@ -3057,6 +3161,14 @@
       "onboard_time": 1705820906,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227046,
+      "num": 227046,
+      "word": "三市上涨个股近3200只",
+      "onboard_time": 1705980866,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 225502,
@@ -3155,6 +3267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219794,
+      "num": 219794,
+      "word": "尔滨冰马俑果真上线了",
+      "onboard_time": 1705983210,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 219323,
       "num": 219323,
       "word": "过年前最离不开的软件",
@@ -3251,6 +3371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212625,
+      "num": 212625,
+      "word": "狗妈妈搂回小狗不让人摸",
+      "onboard_time": 1705983210,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212068,
       "num": 212068,
       "word": "阿富汗坠机事件中有4人生还",
@@ -3321,6 +3449,14 @@
       "onboard_time": 1705922909,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209536,
+      "num": 209536,
+      "word": "iOS17.3",
+      "onboard_time": 1705980687,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 209308,
@@ -3627,6 +3763,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 198489,
+      "num": 198489,
+      "word": "国足目前属于亚洲几流",
+      "onboard_time": 1705979666,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198306,
       "num": 198306,
       "word": "成毅施法路透",
@@ -3673,6 +3817,14 @@
       "onboard_time": 1705928128,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197450,
+      "num": 197450,
+      "word": "2024男频剧",
+      "onboard_time": 1705983149,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 197441,
@@ -3931,6 +4083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187509,
+      "num": 187509,
+      "word": "翻到和老公相亲时的聊天记录",
+      "onboard_time": 1705983389,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187223,
       "num": 187223,
       "word": "2024KPL春季赛赛程",
@@ -3971,6 +4131,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 185623,
+      "num": 185623,
+      "word": "唐斯62分",
+      "onboard_time": 1705981348,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185613,
       "num": 185613,
       "word": "有些事情最好不要和父母说",
@@ -4009,6 +4177,14 @@
       "onboard_time": 1705907665,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 184340,
+      "num": 184340,
+      "word": "幻兽帕鲁宝可梦MOD",
+      "onboard_time": 1705981468,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 183781,
@@ -4073,6 +4249,14 @@
       "onboard_time": 1705900884,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181845,
+      "num": 181845,
+      "word": "00后摄影博主良田打卡春晚",
+      "onboard_time": 1705982791,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 181683,
@@ -4291,14 +4475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173026,
-      "num": 173026,
-      "word": "国足目前属于亚洲几流",
-      "onboard_time": 1705979666,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172899,
       "num": 172899,
       "word": "数码宝贝 把眼泪还回来",
@@ -4473,6 +4649,14 @@
       "onboard_time": 1705968147,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167431,
+      "num": 167431,
+      "word": "突然被身边的龙味震撼到了",
+      "onboard_time": 1705983026,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 166292,
@@ -4875,6 +5059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152922,
+      "num": 152922,
+      "word": "12306抢票",
+      "onboard_time": 1705983571,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152700,
       "num": 152700,
       "word": "高铁上不愿意换座就骂我倔",
@@ -4995,12 +5187,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 148469,
-      "num": 148469,
-      "word": "iOS17.3",
-      "onboard_time": 1705980687,
-      "rank": 40,
-      "category": "数码"
+      "raw_hot": 148757,
+      "num": 148757,
+      "word": "仙剑女主变迁史",
+      "onboard_time": 1705983689,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 148361,
@@ -6027,14 +6219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114376,
-      "num": 114376,
-      "word": "三市上涨个股近3200只",
-      "onboard_time": 1705980866,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 114138,
       "num": 114138,
       "word": "陆沉缄声之约",
@@ -6739,6 +6923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62706,
+      "num": 295729,
+      "word": "为什么丰田坚持混动路线",
+      "onboard_time": 1705980687,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 58410,
       "num": 58410,
       "word": "肖一成想和林西同房",
@@ -6764,7 +6956,7 @@
     },
     {
       "raw_hot": 56065,
-      "num": 1157282,
+      "num": 1164371,
       "word": "国字号重器硬核展示中国制造实力",
       "onboard_time": 1705928249,
       "rank": 2,
@@ -6835,6 +7027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48032,
+      "num": 343771,
+      "word": "余额宝送的超大年货包要用火车运",
+      "onboard_time": 1705982430,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 47796,
       "num": 47796,
       "word": "波尔4比3张本智和",
@@ -6873,14 +7073,6 @@
       "onboard_time": 1705950435,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31940,
-      "num": 111795,
-      "word": "为什么丰田坚持混动路线",
-      "onboard_time": 1705980687,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 31165,
