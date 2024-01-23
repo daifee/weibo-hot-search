@@ -1,0 +1,410 @@
+{
+  "runTime": 1705974022965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2231055,
+        "num": 2231055,
+        "word": "新疆乌什县7.1级地震",
+        "onboard_time": 1705948695,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1135374,
+        "num": 1135374,
+        "word": "苹果龙年手机壳被吐槽指蟒为龙",
+        "onboard_time": 1705968625,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 42853,
+        "num": 1084866,
+        "word": "国字号重器硬核展示中国制造实力",
+        "onboard_time": 1705928249,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1083277,
+        "num": 1083277,
+        "word": "发现我妈也在偷偷装大人",
+        "onboard_time": 1705966340,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 986062,
+        "num": 986062,
+        "word": "武磊承认中国足球令人失望",
+        "onboard_time": 1705970730,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 625654,
+        "num": 625654,
+        "word": "苹果已付清12亿卢布反垄断罚款",
+        "onboard_time": 1705970849,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 618435,
+        "num": 618435,
+        "word": "老干妈回应被辛巴称为是预制菜",
+        "onboard_time": 1705933050,
+        "rank": 6,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 587292,
+        "num": 587292,
+        "word": "这道菜能不能灭了整个东三省",
+        "onboard_time": 1705967005,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 547263,
+        "num": 547263,
+        "word": "杨幂粉色新中式棉服",
+        "onboard_time": 1705969168,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 443783,
+        "num": 443783,
+        "word": "没盖杯盖的隔夜水别喝",
+        "onboard_time": 1705966340,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 386361,
+        "num": 386361,
+        "word": "韦世豪 确实是我们踢得太臭了",
+        "onboard_time": 1705969710,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378849,
+        "num": 378849,
+        "word": "6只狗仔被人掰断腿骨头裸露在外",
+        "onboard_time": 1705947735,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357066,
+        "num": 357066,
+        "word": "C罗 银耳雪梨汤",
+        "onboard_time": 1705972050,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352144,
+        "num": 352144,
+        "word": "齐司礼玉佩",
+        "onboard_time": 1705973307,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300132,
+        "num": 300132,
+        "word": "新疆乌什震中20公里内人口极其稀少",
+        "onboard_time": 1705966040,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284787,
+        "num": 284787,
+        "word": "樱桃姐退坑",
+        "onboard_time": 1705969407,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 276522,
+        "num": 276522,
+        "word": "警惕妇癌之王卵巢癌这些信号别忽视",
+        "onboard_time": 1705948634,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 276402,
+        "num": 276402,
+        "word": "邓为刚化形的小雪狐",
+        "onboard_time": 1705970550,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266479,
+        "num": 266479,
+        "word": "这一次竹马战胜了天降",
+        "onboard_time": 1705948216,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248668,
+        "num": 248668,
+        "word": "新疆乌什县又发生5.2级地震",
+        "onboard_time": 1705973010,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588053,
+        "num": 248217,
+        "word": "茅台瑞幸联名为何不火了",
+        "onboard_time": 1705972710,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 350855,
+        "num": 246346,
+        "word": "原来被辞退前都是有征兆的",
+        "onboard_time": 1705968265,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307130,
+        "num": 245871,
+        "word": "光与夜之恋",
+        "onboard_time": 1705972829,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242845,
+        "num": 242845,
+        "word": "为什么每次洗澡身上都有泥可搓",
+        "onboard_time": 1705937666,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 238792,
+        "num": 238792,
+        "word": "要久久爱 飞榜",
+        "onboard_time": 1705931608,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225027,
+        "num": 225027,
+        "word": "以老友记主演为灵感的穿搭",
+        "onboard_time": 1705970249,
+        "rank": 25,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 215116,
+        "num": 215116,
+        "word": "冬天养狗人的底线越来越低了",
+        "onboard_time": 1705973189,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210338,
+        "num": 210338,
+        "word": "陈若华未婚夫习惯性出轨",
+        "onboard_time": 1705971627,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189462,
+        "num": 189462,
+        "word": "南方下的不是雪是壁纸",
+        "onboard_time": 1705957453,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183717,
+        "num": 183717,
+        "word": "俞敏洪让董宇辉改认证",
+        "onboard_time": 1705925246,
+        "rank": 29,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 342126,
+        "num": 183233,
+        "word": "点外卖误把老板备注成了老爸",
+        "onboard_time": 1705973609,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305265,
+        "num": 182321,
+        "word": "新疆地震男子裹被子从5楼箭步逃生",
+        "onboard_time": 1705973129,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276760,
+        "num": 180491,
+        "word": "新疆地震多趟列车运行受影响",
+        "onboard_time": 1705973189,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194814,
+        "num": 179342,
+        "word": "台州车祸",
+        "onboard_time": 1705933109,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178624,
+        "num": 178624,
+        "word": "小黄豆 顾茜茜",
+        "onboard_time": 1705968206,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168473,
+        "num": 168473,
+        "word": "地震时客运员第一反应疏散旅客",
+        "onboard_time": 1705973369,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161412,
+        "num": 161412,
+        "word": "新疆乌什7.1级地震已致3人受伤",
+        "onboard_time": 1705965019,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159788,
+        "num": 159788,
+        "word": "女子为带货编造中学生被继父强奸等谣言",
+        "onboard_time": 1705957992,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158956,
+        "num": 158956,
+        "word": "偷偷搞体态 重心问题",
+        "onboard_time": 1705970670,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 148940,
+        "num": 148940,
+        "word": "岳母搞传销骗了全家十几口100万",
+        "onboard_time": 1705930827,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138341,
+        "num": 138341,
+        "word": "新疆此次地震主余型的可能性较大",
+        "onboard_time": 1705968147,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135325,
+        "num": 135325,
+        "word": "国足0比1卡塔尔",
+        "onboard_time": 1705965320,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128966,
+        "num": 128966,
+        "word": "书中自有黄金屋具象化了",
+        "onboard_time": 1705971147,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 122110,
+        "num": 122110,
+        "word": "C罗敬酒",
+        "onboard_time": 1705967784,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118970,
+        "num": 118970,
+        "word": "让陌生人给自己孩子让座",
+        "onboard_time": 1705968568,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116726,
+        "num": 116726,
+        "word": "县城高中是否再难出清北生",
+        "onboard_time": 1705966463,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113635,
+        "num": 113635,
+        "word": "男生表白失败坠楼家属向多方索赔127万",
+        "onboard_time": 1705915946,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113178,
+        "num": 113178,
+        "word": "一个不想送一个不想接",
+        "onboard_time": 1705928484,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108096,
+        "num": 108096,
+        "word": "17年前被入室抢走的姜甲儒找到了",
+        "onboard_time": 1705956913,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104468,
+        "num": 104468,
+        "word": "湖人交易",
+        "onboard_time": 1705936049,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#3820战略工程蕴含怎样的魄力和精神#"
+    }
+  }
+}

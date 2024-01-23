@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705972723410,
+  "endTime": 1705974022965,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 986062,
+      "num": 986062,
+      "word": "武磊承认中国足球令人失望",
+      "onboard_time": 1705970730,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 983952,
       "num": 983952,
       "word": "朋友圈背景图",
@@ -465,14 +473,6 @@
       "onboard_time": 1705881444,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 884049,
-      "num": 884049,
-      "word": "武磊承认中国足球令人失望",
-      "onboard_time": 1705970730,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 870204,
@@ -859,6 +859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 625654,
+      "num": 625654,
+      "word": "苹果已付清12亿卢布反垄断罚款",
+      "onboard_time": 1705970849,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 623606,
       "num": 623606,
       "word": "迪丽热巴婴儿时期旧照",
@@ -921,6 +929,14 @@
       "onboard_time": 1705821565,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 588053,
+      "num": 248217,
+      "word": "茅台瑞幸联名为何不火了",
+      "onboard_time": 1705972710,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 584794,
@@ -1017,14 +1033,6 @@
       "onboard_time": 1705915047,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 554602,
-      "num": 472504,
-      "word": "苹果已付清12亿卢布反垄断罚款",
-      "onboard_time": 1705970849,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 549529,
@@ -1620,7 +1628,7 @@
     },
     {
       "raw_hot": 411152,
-      "num": 231754,
+      "num": 246346,
       "word": "原来被辞退前都是有征兆的",
       "onboard_time": 1705968265,
       "rank": 20,
@@ -1684,7 +1692,7 @@
     },
     {
       "raw_hot": 401192,
-      "num": 229046,
+      "num": 242845,
       "word": "为什么每次洗澡身上都有泥可搓",
       "onboard_time": 1705937666,
       "rank": 49,
@@ -1907,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357066,
+      "num": 357066,
+      "word": "C罗 银耳雪梨汤",
+      "onboard_time": 1705972050,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356082,
       "num": 356082,
       "word": "横店剧组今日现状",
@@ -1929,6 +1945,14 @@
       "onboard_time": 1705905867,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 352144,
+      "num": 352144,
+      "word": "齐司礼玉佩",
+      "onboard_time": 1705973307,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 350260,
@@ -2033,6 +2057,14 @@
       "onboard_time": 1705969407,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 342126,
+      "num": 183233,
+      "word": "点外卖误把老板备注成了老爸",
+      "onboard_time": 1705973609,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 342065,
@@ -2219,12 +2251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307130,
+      "num": 245871,
+      "word": "光与夜之恋",
+      "onboard_time": 1705972829,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 306790,
       "num": 306790,
       "word": "C罗董方卓拥抱",
       "onboard_time": 1705934190,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305265,
+      "num": 182321,
+      "word": "新疆地震男子裹被子从5楼箭步逃生",
+      "onboard_time": 1705973129,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303804,
@@ -2289,14 +2337,6 @@
       "onboard_time": 1705931009,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 296541,
-      "num": 230197,
-      "word": "茅台瑞幸联名为何不火了",
-      "onboard_time": 1705972710,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 293733,
@@ -2433,6 +2473,22 @@
       "onboard_time": 1705902208,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276760,
+      "num": 180491,
+      "word": "新疆地震多趟列车运行受影响",
+      "onboard_time": 1705973189,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276402,
+      "num": 276402,
+      "word": "邓为刚化形的小雪狐",
+      "onboard_time": 1705970550,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 275723,
@@ -2643,6 +2699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 248668,
+      "num": 248668,
+      "word": "新疆乌什县又发生5.2级地震",
+      "onboard_time": 1705973010,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248257,
       "num": 248257,
       "word": "白鹿下雪给粉丝送豆浆",
@@ -2851,14 +2915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 225067,
-      "num": 225067,
-      "word": "邓为刚化形的小雪狐",
-      "onboard_time": 1705970550,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224974,
       "num": 224974,
       "word": "C罗中国行",
@@ -2939,14 +2995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220438,
-      "num": 220438,
-      "word": "C罗 银耳雪梨汤",
-      "onboard_time": 1705972050,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 220251,
       "num": 220251,
       "word": "i人都在做什么工作",
@@ -3009,6 +3057,14 @@
       "onboard_time": 1705817366,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215116,
+      "num": 215116,
+      "word": "冬天养狗人的底线越来越低了",
+      "onboard_time": 1705973189,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 215075,
@@ -3083,6 +3139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210338,
+      "num": 210338,
+      "word": "陈若华未婚夫习惯性出轨",
+      "onboard_time": 1705971627,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210243,
       "num": 210243,
       "word": "粉笔模考 读不懂言语",
@@ -3153,14 +3217,6 @@
       "onboard_time": 1705798225,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 206067,
-      "num": 206067,
-      "word": "陈若华未婚夫习惯性出轨",
-      "onboard_time": 1705971627,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 206005,
@@ -4131,6 +4187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168473,
+      "num": 168473,
+      "word": "地震时客运员第一反应疏散旅客",
+      "onboard_time": 1705973369,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167977,
       "num": 167977,
       "word": "TTG再无XQ",
@@ -4361,6 +4425,14 @@
       "onboard_time": 1705919608,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158956,
+      "num": 158956,
+      "word": "偷偷搞体态 重心问题",
+      "onboard_time": 1705970670,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 158675,
