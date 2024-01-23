@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705994272088,
+  "endTime": 1705995248913,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -51,6 +51,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1236982,
+      "num": 1236982,
+      "word": "今年的龙是不是兔子改的",
+      "onboard_time": 1705990824,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1208685,
       "num": 1208685,
       "word": "新疆地震男子裹被子从5楼箭步逃生",
@@ -80,14 +88,6 @@
       "word": "发现我妈也在偷偷装大人",
       "onboard_time": 1705966340,
       "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 1054636,
-      "num": 1054636,
-      "word": "今年的龙是不是兔子改的",
-      "onboard_time": 1705990824,
-      "rank": 30,
       "category": "幽默"
     },
     {
@@ -243,6 +243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 613877,
+      "num": 613877,
+      "word": "谷歌中国籍工程师承认殴打妻子致死",
+      "onboard_time": 1705993948,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593514,
       "num": 593514,
       "word": "赵丽颖演出了苦难无声却震耳欲聋",
@@ -291,7 +299,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 560498,
+      "raw_hot": 567160,
       "num": 196611,
       "word": "44岁女高管被老公要求不生孩子就离婚",
       "onboard_time": 1705991906,
@@ -539,6 +547,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 360468,
+      "num": 360468,
+      "word": "只要上过班我们就脏了",
+      "onboard_time": 1705990046,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 357066,
       "num": 357066,
       "word": "C罗 银耳雪梨汤",
@@ -579,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 338801,
+      "num": 338801,
+      "word": "一下子得罪四个人",
+      "onboard_time": 1705994308,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329813,
       "num": 329813,
       "word": "孙艳 要久久爱",
@@ -593,14 +617,6 @@
       "onboard_time": 1705985189,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 322801,
-      "num": 322801,
-      "word": "只要上过班我们就脏了",
-      "onboard_time": 1705990046,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 321808,
@@ -635,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 308507,
+      "num": 152828,
+      "word": "一个蛋挞在吃另一个蛋挞",
+      "onboard_time": 1705993224,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 307130,
       "num": 245871,
       "word": "光与夜之恋",
@@ -657,6 +681,14 @@
       "onboard_time": 1705973189,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 297469,
+      "num": 297469,
+      "word": "辛芷蕾切到手着急的是秦岚",
+      "onboard_time": 1705992686,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 295346,
@@ -707,14 +739,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280279,
-      "num": 280279,
-      "word": "辛芷蕾切到手着急的是秦岚",
-      "onboard_time": 1705992686,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 279654,
       "num": 279654,
       "word": "萧逸卡面",
@@ -753,6 +777,14 @@
       "onboard_time": 1705970550,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275086,
+      "num": 218810,
+      "word": "王安宇把辛芷蕾逼急了",
+      "onboard_time": 1705993771,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 273501,
@@ -883,20 +915,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 240480,
+      "num": 240480,
+      "word": "文俊辉军大衣",
+      "onboard_time": 1705993887,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240244,
       "num": 240244,
       "word": "白起 手链",
       "onboard_time": 1705984889,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239675,
-      "num": 152828,
-      "word": "一个蛋挞在吃另一个蛋挞",
-      "onboard_time": 1705993224,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 238120,
@@ -1017,14 +1049,6 @@
       "onboard_time": 1705977208,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209043,
-      "num": 152349,
-      "word": "王安宇把辛芷蕾逼急了",
-      "onboard_time": 1705993771,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 207260,
@@ -1179,14 +1203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186517,
-      "num": 186517,
-      "word": "谷歌中国籍工程师承认殴打妻子致死",
-      "onboard_time": 1705993948,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186201,
       "num": 186201,
       "word": "董宇辉封神名场面",
@@ -1267,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181756,
-      "num": 181756,
-      "word": "文俊辉军大衣",
-      "onboard_time": 1705993887,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 180949,
       "num": 180949,
       "word": "王者荣耀首个平行世界CG",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1705977686,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179321,
+      "num": 179321,
+      "word": "让皮肤变超好的10个小知识",
+      "onboard_time": 1705993592,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 178171,
@@ -1555,14 +1571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140999,
-      "num": 140999,
-      "word": "让皮肤变超好的10个小知识",
-      "onboard_time": 1705993592,
-      "rank": 39,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 140003,
       "num": 140003,
       "word": "广东人还要在冰箱待三天",
@@ -1608,6 +1616,14 @@
       "word": "一个人爱你的最高形式",
       "onboard_time": 1705935149,
       "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 133877,
+      "num": 133877,
+      "word": "为什么找对象比找工作难",
+      "onboard_time": 1705992987,
+      "rank": 43,
       "category": "情感"
     },
     {
@@ -1683,14 +1699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123067,
-      "num": 123067,
-      "word": "为什么找对象比找工作难",
-      "onboard_time": 1705992987,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 119523,
       "num": 119523,
       "word": "家乡美食接龙",
@@ -1729,6 +1737,14 @@
       "onboard_time": 1705968265,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113247,
+      "num": 113247,
+      "word": "救护车陷雪地打滑路人组团推车",
+      "onboard_time": 1705995090,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112473,
@@ -1779,8 +1795,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108542,
-      "num": 108542,
+      "raw_hot": 109491,
+      "num": 109491,
       "word": "美式韩妆",
       "onboard_time": 1705991786,
       "rank": 48,
@@ -1817,6 +1833,14 @@
       "onboard_time": 1705936588,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101576,
+      "num": 101576,
+      "word": "一些刻在中国人血脉里的习惯",
+      "onboard_time": 1705995210,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 98436,

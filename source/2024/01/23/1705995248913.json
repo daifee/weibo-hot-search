@@ -1,0 +1,410 @@
+{
+  "runTime": 1705995248913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1289047,
+        "num": 1289047,
+        "word": "为啥南方人都不穿黑色羽绒服",
+        "onboard_time": 1705987825,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1236982,
+        "num": 1236982,
+        "word": "今年的龙是不是兔子改的",
+        "onboard_time": 1705990824,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66658,
+        "num": 1046724,
+        "word": "新疆地震最新情况汇总",
+        "onboard_time": 1705965981,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030751,
+        "num": 1030751,
+        "word": "孙丞潇说金莎做财产公证就不惦记了",
+        "onboard_time": 1705991906,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 687792,
+        "num": 687792,
+        "word": "papi酱产后四个月去面试繁花",
+        "onboard_time": 1705982250,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613877,
+        "num": 613877,
+        "word": "谷歌中国籍工程师承认殴打妻子致死",
+        "onboard_time": 1705993948,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505865,
+        "num": 505865,
+        "word": "中国正在考虑采取一揽子措施来稳定股市",
+        "onboard_time": 1705988607,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 454560,
+        "num": 454560,
+        "word": "女生瘦20斤回家后遭爷爷霸总式投喂",
+        "onboard_time": 1705985487,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430499,
+        "num": 430499,
+        "word": "关晓彤的包是高脚杯",
+        "onboard_time": 1705991847,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371602,
+        "num": 371602,
+        "word": "张颂文 你配得上法国的ID",
+        "onboard_time": 1705988667,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360468,
+        "num": 360468,
+        "word": "只要上过班我们就脏了",
+        "onboard_time": 1705990046,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338801,
+        "num": 338801,
+        "word": "一下子得罪四个人",
+        "onboard_time": 1705994308,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297469,
+        "num": 297469,
+        "word": "辛芷蕾切到手着急的是秦岚",
+        "onboard_time": 1705992686,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296247,
+        "num": 296247,
+        "word": "男子下班后回工作消息获赔3万加班费",
+        "onboard_time": 1705989685,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260840,
+        "num": 260840,
+        "word": "12306抢票",
+        "onboard_time": 1705983571,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240480,
+        "num": 240480,
+        "word": "文俊辉军大衣",
+        "onboard_time": 1705993887,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224401,
+        "num": 224401,
+        "word": "李家超称香港证券市场未见异常",
+        "onboard_time": 1705992867,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 275086,
+        "num": 218810,
+        "word": "王安宇把辛芷蕾逼急了",
+        "onboard_time": 1705993771,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199221,
+        "num": 199221,
+        "word": "热辣滚烫官博声明",
+        "onboard_time": 1705988848,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194128,
+        "num": 194128,
+        "word": "不愿意请男朋友吃1000块的日料",
+        "onboard_time": 1705979483,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 567160,
+        "num": 193545,
+        "word": "44岁女高管被老公要求不生孩子就离婚",
+        "onboard_time": 1705991906,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192377,
+        "num": 192377,
+        "word": "假如遗传了父母双方的缺点",
+        "onboard_time": 1705987468,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190699,
+        "num": 190699,
+        "word": "刘亚仁自曝因抑郁症吸毒",
+        "onboard_time": 1705981046,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179321,
+        "num": 179321,
+        "word": "让皮肤变超好的10个小知识",
+        "onboard_time": 1705993592,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 177570,
+        "num": 177570,
+        "word": "杨紫和孙俪妹妹演同事",
+        "onboard_time": 1705978707,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172829,
+        "num": 172829,
+        "word": "我妈把我和炒的年货放一个屋",
+        "onboard_time": 1705979727,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171698,
+        "num": 171698,
+        "word": "张杰2024山东春晚官宣",
+        "onboard_time": 1705993286,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167781,
+        "num": 167781,
+        "word": "成毅白衣雪景照",
+        "onboard_time": 1705993286,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154212,
+        "num": 154212,
+        "word": "新疆乌什县7.1级地震",
+        "onboard_time": 1705948695,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148360,
+        "num": 148360,
+        "word": "当狗狗用了人的发膜",
+        "onboard_time": 1705989926,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308507,
+        "num": 148187,
+        "word": "一个蛋挞在吃另一个蛋挞",
+        "onboard_time": 1705993224,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146630,
+        "num": 146630,
+        "word": "研究生的心里话都在致谢里",
+        "onboard_time": 1705991906,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142137,
+        "num": 142137,
+        "word": "拳头被裁员工将获至少6个月工资补偿",
+        "onboard_time": 1705990107,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141017,
+        "num": 141017,
+        "word": "印度股市总市值首超港股",
+        "onboard_time": 1705989746,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136697,
+        "num": 136697,
+        "word": "仙剑女主变迁史",
+        "onboard_time": 1705983689,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134868,
+        "num": 134868,
+        "word": "C罗将在中国挑战吉尼斯纪录",
+        "onboard_time": 1705983265,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134818,
+        "num": 134818,
+        "word": "租房45天电费要了900多块钱",
+        "onboard_time": 1705982067,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133877,
+        "num": 133877,
+        "word": "为什么找对象比找工作难",
+        "onboard_time": 1705992987,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124794,
+        "num": 124794,
+        "word": "花儿与少年",
+        "onboard_time": 1705988545,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119847,
+        "num": 119847,
+        "word": "臣女甄猪年18",
+        "onboard_time": 1705993168,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115903,
+        "num": 115903,
+        "word": "苹果回应手机壳指蟒为龙",
+        "onboard_time": 1705976846,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113247,
+        "num": 113247,
+        "word": "救护车陷雪地打滑路人组团推车",
+        "onboard_time": 1705995090,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113039,
+        "num": 113039,
+        "word": "北京高院工作报告点名吴亦凡案",
+        "onboard_time": 1705984829,
+        "rank": 42,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 112833,
+        "num": 112833,
+        "word": "让腰越来越细的10个小习惯",
+        "onboard_time": 1705986090,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 112132,
+        "num": 112132,
+        "word": "茅台瑞幸联名为何不火了",
+        "onboard_time": 1705972710,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109504,
+        "num": 109504,
+        "word": "任天堂回应幻兽帕鲁爆火",
+        "onboard_time": 1705989266,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109491,
+        "num": 109491,
+        "word": "美式韩妆",
+        "onboard_time": 1705991786,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 106124,
+        "num": 106124,
+        "word": "赵丽颖晒新电影海报",
+        "onboard_time": 1705991606,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101576,
+        "num": 101576,
+        "word": "一些刻在中国人血脉里的习惯",
+        "onboard_time": 1705995210,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101283,
+        "num": 101283,
+        "word": "肖宇梁 纯元瓶",
+        "onboard_time": 1705982549,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对云南山体滑坡作出重要指示#"
+    }
+  }
+}
