@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706002487489,
+  "endTime": 1706005176757,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -7564,7 +7564,7 @@
     },
     {
       "raw_hot": 785130,
-      "num": 257309,
+      "num": 294044,
       "word": "日本一男子性侵多名2岁以下女婴",
       "onboard_time": 1705999229,
       "rank": 20,
@@ -8393,6 +8393,14 @@
       "onboard_time": 1704959369,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 738949,
+      "num": 738949,
+      "word": "龙年专属烫发",
+      "onboard_time": 1706002112,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 738337,
@@ -15427,6 +15435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 484464,
+      "num": 484464,
+      "word": "女子在ATM机房避寒10分钟被银行喊话",
+      "onboard_time": 1706003607,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484373,
       "num": 484373,
       "word": "HYBS解散",
@@ -18515,6 +18531,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 408391,
+      "num": 540334,
+      "word": "C罗 踢不踢",
+      "onboard_time": 1706001690,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 408089,
       "num": 408089,
       "word": "狐妖小红娘王权篇路透",
@@ -18857,6 +18881,14 @@
       "onboard_time": 1704620190,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 398085,
+      "num": 398085,
+      "word": "6寸蛋糕用5斤车厘子店家道歉",
+      "onboard_time": 1706004511,
+      "rank": 14,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 398017,
@@ -19379,6 +19411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 387827,
+      "num": 387827,
+      "word": "丁达尔效瀛",
+      "onboard_time": 1705999771,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 387794,
       "num": 387794,
       "word": "铁头被禁言",
@@ -19529,6 +19569,14 @@
       "onboard_time": 1705276586,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 384015,
+      "num": 194167,
+      "word": "月嫂下户后还在朋友圈发我家的照片",
+      "onboard_time": 1706002590,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 383515,
@@ -20561,14 +20609,6 @@
       "onboard_time": 1705060047,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 362761,
-      "num": 362761,
-      "word": "C罗 踢不踢",
-      "onboard_time": 1706001690,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 362659,
@@ -23587,14 +23627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 304044,
-      "num": 304044,
-      "word": "丁达尔效瀛",
-      "onboard_time": 1705999771,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 304036,
       "num": 304036,
       "word": "河南一学校发生火灾负责人已被控制",
@@ -24233,6 +24265,14 @@
       "onboard_time": 1705748007,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294227,
+      "num": 294227,
+      "word": "杀妻谷歌工程师可能判死刑",
+      "onboard_time": 1706004029,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294196,
@@ -24945,6 +24985,14 @@
       "onboard_time": 1704047005,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286381,
+      "num": 286381,
+      "word": "逆水寒 男装花神",
+      "onboard_time": 1706004151,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 286326,
@@ -25953,6 +26001,14 @@
       "onboard_time": 1704705512,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 272048,
+      "num": 272048,
+      "word": "帕鲁 宝可梦",
+      "onboard_time": 1706002590,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 272041,
@@ -27819,6 +27875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 250875,
+      "num": 250875,
+      "word": "卢昱晓片场照",
+      "onboard_time": 1706002590,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250767,
       "num": 250767,
       "word": "敖瑞鹏公主抱白鹿",
@@ -27953,6 +28017,14 @@
       "onboard_time": 1705636948,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249325,
+      "num": 193363,
+      "word": "日本的人肉周边有多离谱",
+      "onboard_time": 1706004629,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 249302,
@@ -28681,6 +28753,14 @@
       "onboard_time": 1705657167,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 242761,
+      "num": 242761,
+      "word": "赖薇如登记结婚",
+      "onboard_time": 1706001813,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 242687,
@@ -32857,6 +32937,14 @@
       "onboard_time": 1704978991,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209994,
+      "num": 209994,
+      "word": "俞敏洪称猪被逼到墙角也咬人",
+      "onboard_time": 1706002112,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 209986,
@@ -39275,14 +39363,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 182452,
-      "num": 182452,
-      "word": "赖薇如登记结婚",
-      "onboard_time": 1706001813,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182451,
       "num": 152235,
       "word": "桃草",
@@ -41433,6 +41513,14 @@
       "onboard_time": 1704202417,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 172845,
+      "num": 172845,
+      "word": "两句话妈妈从我2岁问到20岁",
+      "onboard_time": 1706003849,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 172838,
@@ -44739,6 +44827,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 158469,
+      "num": 158469,
+      "word": "在没有婚姻的社会长大是什么体验",
+      "onboard_time": 1706002531,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158461,
       "num": 158461,
       "word": "东北小冻梨们来上海了",
@@ -44985,6 +45081,14 @@
       "onboard_time": 1704525630,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157427,
+      "num": 157427,
+      "word": "李蓓称距离20年一遇的牛市不远了",
+      "onboard_time": 1706003731,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 157371,
@@ -47419,6 +47523,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147010,
+      "num": 147010,
+      "word": "大江大河口碑",
+      "onboard_time": 1706003010,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146953,
+      "num": 146953,
+      "word": "成都AG转会公告",
+      "onboard_time": 1706002531,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146922,
       "num": 146922,
       "word": "日本北海道机场两客机相撞无人受伤",
@@ -48643,14 +48763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142711,
-      "num": 142711,
-      "word": "俞敏洪称猪被逼到墙角也咬人",
-      "onboard_time": 1706002112,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 142702,
       "num": 142702,
       "word": "林允儿FM Dance Challenge",
@@ -49441,14 +49553,6 @@
       "onboard_time": 1704162762,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139709,
-      "num": 139709,
-      "word": "龙年专属烫发",
-      "onboard_time": 1706002112,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 139671,
@@ -52857,6 +52961,14 @@
       "onboard_time": 1704768932,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 126721,
+      "num": 126721,
+      "word": "德约科维奇第11次晋级澳网四强",
+      "onboard_time": 1706004687,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 126567,
@@ -57987,6 +58099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98585,
+      "num": 630665,
+      "word": "特警寒冬英勇跳江救人",
+      "onboard_time": 1706003671,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 98436,
       "num": 98436,
       "word": "图书馆30秒重创版",
@@ -61777,6 +61897,14 @@
       "onboard_time": 1704340773,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 39040,
+      "num": 295365,
+      "word": "元梦之星千架无人机送祝福",
+      "onboard_time": 1706003791,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 38909,

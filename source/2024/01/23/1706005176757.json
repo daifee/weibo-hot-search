@@ -1,0 +1,410 @@
+{
+  "runTime": 1706005176757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1143962,
+        "num": 1143962,
+        "word": "非诚勿扰宝马女起诉离婚",
+        "onboard_time": 1705998211,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 738949,
+        "num": 738949,
+        "word": "龙年专属烫发",
+        "onboard_time": 1706002112,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36896,
+        "num": 712867,
+        "word": "地震时客运员第一反应疏散旅客",
+        "onboard_time": 1705973369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707276,
+        "num": 707276,
+        "word": "为啥南方人都不穿黑色羽绒服",
+        "onboard_time": 1705987825,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248201,
+        "num": 644737,
+        "word": "女生瘦20斤回家后遭爷爷霸总式投喂",
+        "onboard_time": 1705985487,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643781,
+        "num": 643781,
+        "word": "妹妹养父母去世后亲生父母求和",
+        "onboard_time": 1705998269,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98585,
+        "num": 630665,
+        "word": "特警寒冬英勇跳江救人",
+        "onboard_time": 1706003671,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 618100,
+        "num": 618100,
+        "word": "今年的龙是不是兔子改的",
+        "onboard_time": 1705990824,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 617606,
+        "num": 617606,
+        "word": "陈小春被Jasper问得汗流浃背了",
+        "onboard_time": 1706001028,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 408391,
+        "num": 540334,
+        "word": "C罗 踢不踢",
+        "onboard_time": 1706001690,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 492290,
+        "num": 492290,
+        "word": "一下子得罪四个人",
+        "onboard_time": 1705994308,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484464,
+        "num": 484464,
+        "word": "女子在ATM机房避寒10分钟被银行喊话",
+        "onboard_time": 1706003607,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457777,
+        "num": 457777,
+        "word": "papi酱产后四个月去面试繁花",
+        "onboard_time": 1705982250,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407778,
+        "num": 407778,
+        "word": "韩国23%小学在校生不足60人",
+        "onboard_time": 1705997549,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398085,
+        "num": 398085,
+        "word": "6寸蛋糕用5斤车厘子店家道歉",
+        "onboard_time": 1706004511,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 387827,
+        "num": 387827,
+        "word": "丁达尔效瀛",
+        "onboard_time": 1705999771,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352994,
+        "num": 352994,
+        "word": "吴亦凡关联公司已成老赖",
+        "onboard_time": 1705997071,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326656,
+        "num": 326656,
+        "word": "孙丞潇说金莎做财产公证就不惦记了",
+        "onboard_time": 1705991906,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39040,
+        "num": 295365,
+        "word": "元梦之星千架无人机送祝福",
+        "onboard_time": 1706003791,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294227,
+        "num": 294227,
+        "word": "杀妻谷歌工程师可能判死刑",
+        "onboard_time": 1706004029,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567716,
+        "num": 294044,
+        "word": "日本一男子性侵多名2岁以下女婴",
+        "onboard_time": 1705999229,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293605,
+        "num": 293605,
+        "word": "谷歌中国籍工程师承认殴打妻子致死",
+        "onboard_time": 1705993948,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286381,
+        "num": 286381,
+        "word": "逆水寒 男装花神",
+        "onboard_time": 1706004151,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272048,
+        "num": 272048,
+        "word": "帕鲁 宝可梦",
+        "onboard_time": 1706002590,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250875,
+        "num": 250875,
+        "word": "卢昱晓片场照",
+        "onboard_time": 1706002590,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242761,
+        "num": 242761,
+        "word": "赖薇如登记结婚",
+        "onboard_time": 1706001813,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219934,
+        "num": 219934,
+        "word": "姚笛转行做导演",
+        "onboard_time": 1705995751,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209994,
+        "num": 209994,
+        "word": "俞敏洪称猪被逼到墙角也咬人",
+        "onboard_time": 1706002112,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205794,
+        "num": 205794,
+        "word": "44岁女高管被老公要求不生孩子就离婚",
+        "onboard_time": 1705991906,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104610,
+        "num": 195926,
+        "word": "新疆乌什县7.1级地震",
+        "onboard_time": 1705948695,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384015,
+        "num": 194167,
+        "word": "月嫂下户后还在朋友圈发我家的照片",
+        "onboard_time": 1706002590,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249325,
+        "num": 193363,
+        "word": "日本的人肉周边有多离谱",
+        "onboard_time": 1706004629,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191763,
+        "num": 191763,
+        "word": "支付宝公布五福新玩法",
+        "onboard_time": 1706000432,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183684,
+        "num": 183684,
+        "word": "凤凰传奇免费联动时装",
+        "onboard_time": 1705998811,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176717,
+        "num": 176717,
+        "word": "福宝将于四月回国",
+        "onboard_time": 1706000730,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172845,
+        "num": 172845,
+        "word": "两句话妈妈从我2岁问到20岁",
+        "onboard_time": 1706003849,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164685,
+        "num": 164685,
+        "word": "吴千语施伯雄对待伴侣出轨的态度",
+        "onboard_time": 1706000550,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158469,
+        "num": 158469,
+        "word": "在没有婚姻的社会长大是什么体验",
+        "onboard_time": 1706002531,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157427,
+        "num": 157427,
+        "word": "李蓓称距离20年一遇的牛市不远了",
+        "onboard_time": 1706003731,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154380,
+        "num": 154380,
+        "word": "辛芷蕾冰川照",
+        "onboard_time": 1706000550,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147010,
+        "num": 147010,
+        "word": "大江大河口碑",
+        "onboard_time": 1706003010,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146953,
+        "num": 146953,
+        "word": "成都AG转会公告",
+        "onboard_time": 1706002531,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127832,
+        "num": 127832,
+        "word": "张艺兴给王大陆叫外卖",
+        "onboard_time": 1705997549,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126721,
+        "num": 126721,
+        "word": "德约科维奇第11次晋级澳网四强",
+        "onboard_time": 1706004687,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122213,
+        "num": 122213,
+        "word": "关晓彤的包是高脚杯",
+        "onboard_time": 1705991847,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119931,
+        "num": 119931,
+        "word": "一个蛋挞在吃另一个蛋挞",
+        "onboard_time": 1705993224,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115279,
+        "num": 115279,
+        "word": "齐司礼被鞭打",
+        "onboard_time": 1705998749,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112792,
+        "num": 112792,
+        "word": "C罗中国行 魔法对抗魔法",
+        "onboard_time": 1706001932,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107062,
+        "num": 107062,
+        "word": "上海本地股集体爆发",
+        "onboard_time": 1705995629,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103612,
+        "num": 103612,
+        "word": "相遇的意义",
+        "onboard_time": 1706002409,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对云南山体滑坡作出重要指示#"
+    }
+  }
+}

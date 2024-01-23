@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706002487489,
+  "endTime": 1706005176757,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -732,7 +732,7 @@
     },
     {
       "raw_hot": 785130,
-      "num": 257309,
+      "num": 294044,
       "word": "日本一男子性侵多名2岁以下女婴",
       "onboard_time": 1705999229,
       "rank": 20,
@@ -793,6 +793,14 @@
       "onboard_time": 1705824145,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 738949,
+      "num": 738949,
+      "word": "龙年专属烫发",
+      "onboard_time": 1706002112,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 735317,
@@ -1555,6 +1563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 484464,
+      "num": 484464,
+      "word": "女子在ATM机房避寒10分钟被银行喊话",
+      "onboard_time": 1706003607,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481369,
       "num": 345844,
       "word": "猫好 狗坏",
@@ -1955,6 +1971,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 408391,
+      "num": 540334,
+      "word": "C罗 踢不踢",
+      "onboard_time": 1706001690,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 407736,
       "num": 407736,
       "word": "热辣滚烫官博声明",
@@ -2043,6 +2067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 398085,
+      "num": 398085,
+      "word": "6寸蛋糕用5斤车厘子店家道歉",
+      "onboard_time": 1706004511,
+      "rank": 14,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 397635,
       "num": 231337,
       "word": "C罗敬酒",
@@ -2107,6 +2139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 387827,
+      "num": 387827,
+      "word": "丁达尔效瀛",
+      "onboard_time": 1705999771,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 385877,
       "num": 385877,
       "word": "英雄联盟开发商裁员11%",
@@ -2121,6 +2161,14 @@
       "onboard_time": 1705986090,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 384015,
+      "num": 194167,
+      "word": "月嫂下户后还在朋友圈发我家的照片",
+      "onboard_time": 1706002590,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 383515,
@@ -2241,14 +2289,6 @@
       "onboard_time": 1705830746,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362761,
-      "num": 362761,
-      "word": "C罗 踢不踢",
-      "onboard_time": 1706001690,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 360468,
@@ -2691,14 +2731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304044,
-      "num": 304044,
-      "word": "丁达尔效瀛",
-      "onboard_time": 1705999771,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 303804,
       "num": 303804,
       "word": "这一次竹马战胜了天降",
@@ -2795,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294227,
+      "num": 294227,
+      "word": "杀妻谷歌工程师可能判死刑",
+      "onboard_time": 1706004029,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293733,
       "num": 244225,
       "word": "食物语手游",
@@ -2841,6 +2881,14 @@
       "onboard_time": 1705910129,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 286381,
+      "num": 286381,
+      "word": "逆水寒 男装花神",
+      "onboard_time": 1706004151,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 285398,
@@ -3041,6 +3089,14 @@
       "onboard_time": 1705931968,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272048,
+      "num": 272048,
+      "word": "帕鲁 宝可梦",
+      "onboard_time": 1706002590,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 272041,
@@ -3267,12 +3323,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250875,
+      "num": 250875,
+      "word": "卢昱晓片场照",
+      "onboard_time": 1706002590,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250477,
       "num": 250477,
       "word": "焦虑症 口罩和塑料袋",
       "onboard_time": 1705798344,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249325,
+      "num": 193363,
+      "word": "日本的人肉周边有多离谱",
+      "onboard_time": 1706004629,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 249001,
@@ -3369,6 +3441,14 @@
       "onboard_time": 1705752025,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 242761,
+      "num": 242761,
+      "word": "赖薇如登记结婚",
+      "onboard_time": 1706001813,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 242357,
@@ -3849,6 +3929,14 @@
       "onboard_time": 1705807470,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 209994,
+      "num": 209994,
+      "word": "俞敏洪称猪被逼到墙角也咬人",
+      "onboard_time": 1706002112,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 209980,
@@ -4731,14 +4819,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 182452,
-      "num": 182452,
-      "word": "赖薇如登记结婚",
-      "onboard_time": 1706001813,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182027,
       "num": 182027,
       "word": "男孩写错题用打火机当消除笔",
@@ -5001,6 +5081,14 @@
       "onboard_time": 1705893807,
       "rank": 37,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 172845,
+      "num": 172845,
+      "word": "两句话妈妈从我2岁问到20岁",
+      "onboard_time": 1706003849,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 172838,
@@ -5491,6 +5579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158469,
+      "num": 158469,
+      "word": "在没有婚姻的社会长大是什么体验",
+      "onboard_time": 1706002531,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158216,
       "num": 158216,
       "word": "小天鹅藏在妈妈背上太萌了",
@@ -5529,6 +5625,14 @@
       "onboard_time": 1705997429,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157427,
+      "num": 157427,
+      "word": "李蓓称距离20年一遇的牛市不远了",
+      "onboard_time": 1706003731,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 157281,
@@ -5851,12 +5955,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147010,
+      "num": 147010,
+      "word": "大江大河口碑",
+      "onboard_time": 1706003010,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146984,
       "num": 146984,
       "word": "花儿与少年",
       "onboard_time": 1705988545,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146953,
+      "num": 146953,
+      "word": "成都AG转会公告",
+      "onboard_time": 1706002531,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 146875,
@@ -6035,14 +6155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142711,
-      "num": 142711,
-      "word": "俞敏洪称猪被逼到墙角也咬人",
-      "onboard_time": 1706002112,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 142626,
       "num": 142626,
       "word": "成毅莲花楼哭戏赏析",
@@ -6177,14 +6289,6 @@
       "onboard_time": 1705930287,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139709,
-      "num": 139709,
-      "word": "龙年专属烫发",
-      "onboard_time": 1706002112,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 139671,
@@ -6713,6 +6817,14 @@
       "onboard_time": 1705890264,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 126721,
+      "num": 126721,
+      "word": "德约科维奇第11次晋级澳网四强",
+      "onboard_time": 1706004687,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 126144,
@@ -7467,6 +7579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98585,
+      "num": 630665,
+      "word": "特警寒冬英勇跳江救人",
+      "onboard_time": 1706003671,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 98436,
       "num": 98436,
       "word": "图书馆30秒重创版",
@@ -7993,6 +8113,14 @@
       "onboard_time": 1705861214,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39040,
+      "num": 295365,
+      "word": "元梦之星千架无人机送祝福",
+      "onboard_time": 1706003791,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 34301,
