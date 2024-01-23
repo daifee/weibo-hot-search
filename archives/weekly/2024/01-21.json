@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705991843181,
+  "endTime": 1705994272088,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -369,6 +369,22 @@
       "onboard_time": 1705899805,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1054636,
+      "num": 1054636,
+      "word": "今年的龙是不是兔子改的",
+      "onboard_time": 1705990824,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1044847,
+      "num": 1044847,
+      "word": "孙丞潇说金莎做财产公证就不惦记了",
+      "onboard_time": 1705991906,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1037973,
@@ -1155,6 +1171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 560498,
+      "num": 196611,
+      "word": "44岁女高管被老公要求不生孩子就离婚",
+      "onboard_time": 1705991906,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558609,
       "num": 558609,
       "word": "肖宇梁 纯元瓶",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1705800266,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 448839,
+      "num": 448839,
+      "word": "关晓彤的包是高脚杯",
+      "onboard_time": 1705991847,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 447417,
@@ -2187,14 +2219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 351077,
-      "num": 157787,
-      "word": "今年的龙是不是兔子改的",
-      "onboard_time": 1705990824,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 350260,
       "num": 246438,
       "word": "男子撸走1岁半幼儿金镯获刑9个月",
@@ -2435,6 +2459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322801,
+      "num": 322801,
+      "word": "只要上过班我们就脏了",
+      "onboard_time": 1705990046,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 322033,
       "num": 173646,
       "word": "江疏影雪球爆仓去申万宏源消息不实",
@@ -2449,6 +2481,14 @@
       "onboard_time": 1705826544,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321808,
+      "num": 321808,
+      "word": "男子下班后回工作消息获赔3万加班费",
+      "onboard_time": 1705989685,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319708,
@@ -2577,14 +2617,6 @@
       "onboard_time": 1705918530,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 300540,
-      "num": 300540,
-      "word": "男子下班后回工作消息获赔3万加班费",
-      "onboard_time": 1705989685,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300349,
@@ -2745,6 +2777,14 @@
       "onboard_time": 1705762112,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 280279,
+      "num": 280279,
+      "word": "辛芷蕾切到手着急的是秦岚",
+      "onboard_time": 1705992686,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 280044,
@@ -2953,14 +2993,6 @@
       "onboard_time": 1705922004,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262853,
-      "num": 262853,
-      "word": "只要上过班我们就脏了",
-      "onboard_time": 1705990046,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 261859,
@@ -3203,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240917,
+      "num": 240917,
+      "word": "李家超称香港证券市场未见异常",
+      "onboard_time": 1705992867,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 240244,
       "num": 240244,
       "word": "白起 手链",
@@ -3217,6 +3257,14 @@
       "onboard_time": 1705909828,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239675,
+      "num": 152828,
+      "word": "一个蛋挞在吃另一个蛋挞",
+      "onboard_time": 1705993224,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 239101,
@@ -3691,6 +3739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209043,
+      "num": 152349,
+      "word": "王安宇把辛芷蕾逼急了",
+      "onboard_time": 1705993771,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207768,
       "num": 2132273,
       "word": "货车侧翻众人9小时帮忙搬运货物",
@@ -3899,6 +3955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201792,
+      "num": 201792,
+      "word": "成毅白衣雪景照",
+      "onboard_time": 1705993286,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201691,
       "num": 201691,
       "word": "广西广东等地将有大到暴雪",
@@ -3961,6 +4025,14 @@
       "onboard_time": 1705885525,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 199449,
+      "num": 199449,
+      "word": "张杰2024山东春晚官宣",
+      "onboard_time": 1705993286,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 199399,
@@ -4363,6 +4435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186517,
+      "num": 186517,
+      "word": "谷歌中国籍工程师承认殴打妻子致死",
+      "onboard_time": 1705993948,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186389,
       "num": 186389,
       "word": "14薪的快乐",
@@ -4505,6 +4585,14 @@
       "onboard_time": 1705982791,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181756,
+      "num": 181756,
+      "word": "文俊辉军大衣",
+      "onboard_time": 1705993887,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181683,
@@ -4881,6 +4969,14 @@
       "onboard_time": 1705926747,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168764,
+      "num": 152294,
+      "word": "勇敢的大学生先出洋相",
+      "onboard_time": 1705993406,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 168534,
@@ -5443,6 +5539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151518,
+      "num": 151518,
+      "word": "研究生的心里话都在致谢里",
+      "onboard_time": 1705991906,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150372,
       "num": 150372,
       "word": "黄仁俊钟辰乐录制江苏春晚",
@@ -5545,6 +5649,14 @@
       "onboard_time": 1705915885,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146984,
+      "num": 146984,
+      "word": "花儿与少年",
+      "onboard_time": 1705988545,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 146875,
@@ -5707,6 +5819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143029,
+      "num": 143029,
+      "word": "臣女甄猪年18",
+      "onboard_time": 1705993168,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142626,
       "num": 142626,
       "word": "成毅莲花楼哭戏赏析",
@@ -5801,6 +5921,14 @@
       "onboard_time": 1705987468,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140999,
+      "num": 140999,
+      "word": "让皮肤变超好的10个小知识",
+      "onboard_time": 1705993592,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 140672,
@@ -5972,7 +6100,7 @@
     },
     {
       "raw_hot": 136135,
-      "num": 969097,
+      "num": 1048184,
       "word": "新疆地震最新情况汇总",
       "onboard_time": 1705965981,
       "rank": 28,
@@ -6001,14 +6129,6 @@
       "onboard_time": 1705817366,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135153,
-      "num": 135153,
-      "word": "花儿与少年",
-      "onboard_time": 1705988545,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 135058,
@@ -6411,6 +6531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123067,
+      "num": 123067,
+      "word": "为什么找对象比找工作难",
+      "onboard_time": 1705992987,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121844,
       "num": 121844,
       "word": "杨紫黄瀛子蓝发自拍",
@@ -6721,6 +6849,14 @@
       "onboard_time": 1705889546,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108542,
+      "num": 108542,
+      "word": "美式韩妆",
+      "onboard_time": 1705991786,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 108448,
@@ -7097,14 +7233,6 @@
       "onboard_time": 1705764090,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 90905,
-      "num": 90905,
-      "word": "美式韩妆",
-      "onboard_time": 1705991786,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 88897,
