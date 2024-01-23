@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706035003269,
+  "endTime": 1706037290298,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -9179,20 +9179,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27101,
+      "num": 27101,
+      "word": "腾讯音乐榜2023年度榜单",
+      "onboard_time": 1706034677,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 26584,
       "num": 146372,
       "word": "王者琥珀纪元孙燕姿合作预告",
       "onboard_time": 1705923148,
       "rank": 49,
       "category": "音乐,电竞"
-    },
-    {
-      "raw_hot": 24279,
-      "num": 24279,
-      "word": "腾讯音乐榜2023年度榜单",
-      "onboard_time": 1706034677,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 19573,
