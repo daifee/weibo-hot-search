@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706005176757,
+  "endTime": 1706006261705,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -89,6 +89,14 @@
       "onboard_time": 1705845211,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1740904,
+      "num": 1740904,
+      "word": "6寸蛋糕用5斤车厘子店家道歉",
+      "onboard_time": 1706004511,
+      "rank": 14,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1722180,
@@ -593,6 +601,14 @@
       "onboard_time": 1705804047,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 863674,
+      "num": 863674,
+      "word": "女子在ATM机房避寒10分钟被银行喊话",
+      "onboard_time": 1706003607,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 859289,
@@ -1563,14 +1579,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 484464,
-      "num": 484464,
-      "word": "女子在ATM机房避寒10分钟被银行喊话",
-      "onboard_time": 1706003607,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 481369,
       "num": 345844,
       "word": "猫好 狗坏",
@@ -1801,6 +1809,22 @@
       "onboard_time": 1705932270,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 439474,
+      "num": 439474,
+      "word": "杀妻谷歌工程师可能判死刑",
+      "onboard_time": 1706004029,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438765,
+      "num": 438765,
+      "word": "腾讯64.2亿海淀拿地",
+      "onboard_time": 1706005408,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 438152,
@@ -2067,14 +2091,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 398085,
-      "num": 398085,
-      "word": "6寸蛋糕用5斤车厘子店家道歉",
-      "onboard_time": 1706004511,
-      "rank": 14,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 397635,
       "num": 231337,
       "word": "C罗敬酒",
@@ -2164,7 +2180,7 @@
     },
     {
       "raw_hot": 384015,
-      "num": 194167,
+      "num": 196681,
       "word": "月嫂下户后还在朋友圈发我家的照片",
       "onboard_time": 1706002590,
       "rank": 30,
@@ -2731,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306316,
+      "num": 250088,
+      "word": "日本的人肉周边有多离谱",
+      "onboard_time": 1706004629,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 303804,
       "num": 303804,
       "word": "这一次竹马战胜了天降",
@@ -2824,14 +2848,6 @@
       "word": "国安部揭一起境外间谍情报机关围猎套路",
       "onboard_time": 1705975287,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294227,
-      "num": 294227,
-      "word": "杀妻谷歌工程师可能判死刑",
-      "onboard_time": 1706004029,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3339,12 +3355,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 249325,
-      "num": 193363,
-      "word": "日本的人肉周边有多离谱",
-      "onboard_time": 1706004629,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 249290,
+      "num": 249290,
+      "word": "两句话妈妈从我2岁问到20岁",
+      "onboard_time": 1706003849,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 249001,
@@ -3497,6 +3513,14 @@
       "onboard_time": 1705909828,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239739,
+      "num": 239739,
+      "word": "军大衣又赢麻了",
+      "onboard_time": 1706005947,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 239101,
@@ -3761,6 +3785,14 @@
       "onboard_time": 1705912406,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219769,
+      "num": 219769,
+      "word": "云南镇雄山体滑坡已致25人遇难",
+      "onboard_time": 1706005710,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219323,
@@ -4531,6 +4563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193358,
+      "num": 193358,
+      "word": "韩剧 中国白瓷",
+      "onboard_time": 1706006011,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193185,
       "num": 193185,
       "word": "小米官方辟谣澎湃OS是自研系统",
@@ -4553,6 +4593,14 @@
       "onboard_time": 1705990107,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191129,
+      "num": 191129,
+      "word": "SEVENTEEN中文单曲",
+      "onboard_time": 1706005408,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 190885,
@@ -5083,14 +5131,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 172845,
-      "num": 172845,
-      "word": "两句话妈妈从我2岁问到20岁",
-      "onboard_time": 1706003849,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172838,
       "num": 172838,
       "word": "粉龙",
@@ -5252,7 +5292,7 @@
     },
     {
       "raw_hot": 168473,
-      "num": 720743,
+      "num": 878314,
       "word": "地震时客运员第一反应疏散旅客",
       "onboard_time": 1705973369,
       "rank": 35,
@@ -5385,6 +5425,14 @@
       "onboard_time": 1705929508,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 164447,
+      "num": 164447,
+      "word": "在没有婚姻的社会长大是什么体验",
+      "onboard_time": 1706002531,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 164274,
@@ -5577,14 +5625,6 @@
       "onboard_time": 1705917386,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158469,
-      "num": 158469,
-      "word": "在没有婚姻的社会长大是什么体验",
-      "onboard_time": 1706002531,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 158216,
@@ -6475,6 +6515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 134345,
+      "num": 134345,
+      "word": "过了时效的事怎么发朋友圈",
+      "onboard_time": 1706005595,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134304,
       "num": 134304,
       "word": "谁拿我电磁炉称体重了",
@@ -6721,6 +6769,14 @@
       "onboard_time": 1705853484,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 129034,
+      "num": 129034,
+      "word": "陪主人坐月子的小狗 想吃素了",
+      "onboard_time": 1706005947,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 128912,
@@ -7475,6 +7531,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 103152,
+      "num": 103152,
+      "word": "这通电话也太难为弟弟了",
+      "onboard_time": 1706005830,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102503,
       "num": 102503,
       "word": "这才是龙年的正确打开方式",
@@ -7580,7 +7644,7 @@
     },
     {
       "raw_hot": 98585,
-      "num": 630665,
+      "num": 709799,
       "word": "特警寒冬英勇跳江救人",
       "onboard_time": 1706003671,
       "rank": 6,
