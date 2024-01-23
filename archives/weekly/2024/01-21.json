@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705995248913,
+  "endTime": 1705998188227,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -251,8 +251,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1236982,
-      "num": 1236982,
+      "raw_hot": 1250497,
+      "num": 1250497,
       "word": "今年的龙是不是兔子改的",
       "onboard_time": 1705990824,
       "rank": 30,
@@ -337,6 +337,14 @@
       "onboard_time": 1705982067,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1127432,
+      "num": 1127432,
+      "word": "谷歌中国籍工程师承认殴打妻子致死",
+      "onboard_time": 1705993948,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1116327,
@@ -555,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 886015,
+      "num": 886015,
+      "word": "姚笛转行做导演",
+      "onboard_time": 1705995751,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 870204,
       "num": 870204,
       "word": "龙年央视春晚第二次联排",
@@ -577,6 +593,14 @@
       "onboard_time": 1705913728,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 851055,
+      "num": 851055,
+      "word": "一下子得罪四个人",
+      "onboard_time": 1705994308,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 848793,
@@ -1011,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622174,
+      "num": 622174,
+      "word": "云南山体滑坡已致20人遇难24人失联",
+      "onboard_time": 1705996410,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 618817,
       "num": 618817,
       "word": "NewJeans被错认电子厂厂花",
@@ -1040,14 +1072,6 @@
       "word": "海归姑娘回国卖烧麦一年卖出2个亿",
       "onboard_time": 1705763010,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 613877,
-      "num": 613877,
-      "word": "谷歌中国籍工程师承认殴打妻子致死",
-      "onboard_time": 1705993948,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1361,6 +1385,14 @@
       "onboard_time": 1705826365,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 508961,
+      "num": 508961,
+      "word": "吴亦凡关联公司已成老赖",
+      "onboard_time": 1705997071,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 507366,
@@ -1801,6 +1833,14 @@
       "onboard_time": 1705890205,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421209,
+      "num": 421209,
+      "word": "上海本地股集体爆发",
+      "onboard_time": 1705995629,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 416799,
@@ -2363,14 +2403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 338801,
-      "num": 338801,
-      "word": "一下子得罪四个人",
-      "onboard_time": 1705994308,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 337622,
       "num": 337622,
       "word": "李沁捧雪照",
@@ -2507,6 +2539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321056,
+      "num": 182904,
+      "word": "一个蛋挞在吃另一个蛋挞",
+      "onboard_time": 1705993224,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 319708,
       "num": 319708,
       "word": "假如遗传了父母双方的缺点",
@@ -2577,14 +2617,6 @@
       "onboard_time": 1705808666,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308507,
-      "num": 152828,
-      "word": "一个蛋挞在吃另一个蛋挞",
-      "onboard_time": 1705993224,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 307130,
@@ -2908,7 +2940,7 @@
     },
     {
       "raw_hot": 275086,
-      "num": 218810,
+      "num": 270769,
       "word": "王安宇把辛芷蕾逼急了",
       "onboard_time": 1705993771,
       "rank": 31,
@@ -4507,6 +4539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 185054,
+      "num": 185054,
+      "word": "韩国23%小学在校生不足60人",
+      "onboard_time": 1705997549,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184964,
       "num": 184964,
       "word": "宝可梦推文遭嘲讽",
@@ -4739,6 +4779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177277,
+      "num": 177277,
+      "word": "为什么找对象比找工作难",
+      "onboard_time": 1705992987,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176113,
       "num": 176113,
       "word": "国产三蹦子魅力传到外国",
@@ -4857,6 +4905,14 @@
       "onboard_time": 1705986027,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172389,
+      "num": 171598,
+      "word": "张艺兴给王大陆叫外卖",
+      "onboard_time": 1705997549,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172333,
@@ -5057,6 +5113,14 @@
       "onboard_time": 1705968147,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166793,
+      "num": 140255,
+      "word": "杨鸣和辽宁益胜解约",
+      "onboard_time": 1705997307,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 166292,
@@ -5707,6 +5771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145906,
+      "num": 145906,
+      "word": "曾经骂过的国足竟已是巅峰",
+      "onboard_time": 1705997429,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145756,
       "num": 145756,
       "word": "让陌生人给自己孩子让座",
@@ -6059,6 +6131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137517,
+      "num": 137517,
+      "word": "原来我从小听过的这个故事是假的",
+      "onboard_time": 1705995994,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137434,
       "num": 137434,
       "word": "杜兰特质问为何不在GOAT讨论中",
@@ -6187,14 +6267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133877,
-      "num": 133877,
-      "word": "为什么找对象比找工作难",
-      "onboard_time": 1705992987,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133799,
       "num": 133799,
       "word": "年会赚的钱比年终奖还多",
@@ -6233,6 +6305,14 @@
       "onboard_time": 1705807526,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132986,
+      "num": 132986,
+      "word": "孙坚回陕西搭棚子摆流水席请员工吃",
+      "onboard_time": 1705995872,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 132939,
@@ -6337,6 +6417,14 @@
       "onboard_time": 1705907306,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129885,
+      "num": 129885,
+      "word": "新疆乌什县地震已致6人受伤",
+      "onboard_time": 1705996469,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129665,
@@ -6545,6 +6633,14 @@
       "onboard_time": 1705833687,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121899,
+      "num": 121899,
+      "word": "电影第二十条 正当防卫",
+      "onboard_time": 1705997912,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 121844,
@@ -6816,6 +6912,14 @@
       "word": "原来狗狗也有玩不起的时候",
       "onboard_time": 1705806145,
       "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 110673,
+      "num": 110673,
+      "word": "五道口 兔套龙",
+      "onboard_time": 1705997730,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -7219,6 +7323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93988,
+      "num": 93988,
+      "word": "今天的天气适合跟恋人一起",
+      "onboard_time": 1705997489,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93922,
       "num": 93922,
       "word": "马树山事件调查核查工作正全面开展",
@@ -7257,6 +7369,14 @@
       "onboard_time": 1705764090,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91378,
+      "num": 91378,
+      "word": "爸妈眼里你赖床的样子",
+      "onboard_time": 1705995751,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 88897,
