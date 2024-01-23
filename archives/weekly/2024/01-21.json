@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706034176290,
+  "endTime": 1706035003269,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -9115,6 +9115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35592,
+      "num": 35592,
+      "word": "恋与深空 祁煜cos",
+      "onboard_time": 1706032579,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 34301,
       "num": 34301,
       "word": "石宇奇连续两周进决赛",
@@ -9137,14 +9145,6 @@
       "onboard_time": 1705950435,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 32359,
-      "num": 32359,
-      "word": "恋与深空 祁煜cos",
-      "onboard_time": 1706032579,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 31165,
@@ -9185,6 +9185,14 @@
       "onboard_time": 1705923148,
       "rank": 49,
       "category": "音乐,电竞"
+    },
+    {
+      "raw_hot": 24279,
+      "num": 24279,
+      "word": "腾讯音乐榜2023年度榜单",
+      "onboard_time": 1706034677,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 19573,
