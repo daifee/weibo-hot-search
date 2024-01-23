@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705998188227,
+  "endTime": 1705999014477,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -139,8 +139,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 851055,
-      "num": 851055,
+      "raw_hot": 872134,
+      "num": 872134,
       "word": "一下子得罪四个人",
       "onboard_time": 1705994308,
       "rank": 11,
@@ -217,6 +217,14 @@
       "onboard_time": 1705933109,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 714621,
+      "num": 714621,
+      "word": "吴亦凡关联公司已成老赖",
+      "onboard_time": 1705997071,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 695062,
@@ -339,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 508961,
-      "num": 508961,
-      "word": "吴亦凡关联公司已成老赖",
-      "onboard_time": 1705997071,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 500959,
       "num": 500959,
       "word": "12306抢票",
@@ -369,6 +369,14 @@
       "onboard_time": 1705978465,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 481000,
+      "num": 481000,
+      "word": "非诚勿扰宝马女起诉离婚",
+      "onboard_time": 1705998211,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 480025,
@@ -411,11 +419,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458199,
+      "num": 458199,
+      "word": "妹妹养父母去世后亲生父母求和",
+      "onboard_time": 1705998269,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 455955,
       "num": 455955,
       "word": "统计造假是统计领域最大的腐败",
       "onboard_time": 1705932507,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451424,
+      "num": 451424,
+      "word": "韩国23%小学在校生不足60人",
+      "onboard_time": 1705997549,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -755,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286135,
+      "num": 167074,
+      "word": "凤凰传奇免费联动时装",
+      "onboard_time": 1705998811,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284979,
       "num": 284979,
       "word": "感觉双胞胎有点癫癫的",
@@ -811,8 +843,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275086,
-      "num": 270769,
+      "raw_hot": 275267,
+      "num": 275267,
       "word": "王安宇把辛芷蕾逼急了",
       "onboard_time": 1705993771,
       "rank": 31,
@@ -833,6 +865,14 @@
       "onboard_time": 1705983210,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 267654,
+      "num": 171598,
+      "word": "张艺兴给王大陆叫外卖",
+      "onboard_time": 1705997549,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 266681,
@@ -1259,14 +1299,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 185054,
-      "num": 185054,
-      "word": "韩国23%小学在校生不足60人",
-      "onboard_time": 1705997549,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184500,
       "num": 184500,
       "word": "C罗董方卓拥抱",
@@ -1379,14 +1411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172389,
-      "num": 171598,
-      "word": "张艺兴给王大陆叫外卖",
-      "onboard_time": 1705997549,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 171878,
       "num": 171878,
       "word": "美国50ETF临时停牌",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1705989266,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 169559,
+      "num": 169559,
+      "word": "齐司礼被鞭打",
+      "onboard_time": 1705998749,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 168764,
@@ -1523,6 +1555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 157608,
+      "num": 157608,
+      "word": "曾经骂过的国足竟已是巅峰",
+      "onboard_time": 1705997429,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154719,
       "num": 154719,
       "word": "任天堂回应幻兽帕鲁爆火",
@@ -1593,14 +1633,6 @@
       "onboard_time": 1705963457,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 145906,
-      "num": 145906,
-      "word": "曾经骂过的国足竟已是巅峰",
-      "onboard_time": 1705997429,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 145756,
@@ -1699,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133928,
+      "num": 133928,
+      "word": "电影第二十条 正当防卫",
+      "onboard_time": 1705997912,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132986,
       "num": 132986,
       "word": "孙坚回陕西搭棚子摆流水席请员工吃",
@@ -1771,6 +1811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125379,
+      "num": 125379,
+      "word": "德约科维奇vs弗里茨",
+      "onboard_time": 1705998390,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123609,
       "num": 123609,
       "word": "光夜 江湖阁主夏鸣星",
@@ -1787,12 +1835,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 121899,
-      "num": 121899,
-      "word": "电影第二十条 正当防卫",
-      "onboard_time": 1705997912,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 121918,
+      "num": 121918,
+      "word": "杭州官宣梅西3月来",
+      "onboard_time": 1705998211,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120546,
+      "num": 120546,
+      "word": "江苏人不能原谅白素贞的理由",
+      "onboard_time": 1705998390,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 119523,
@@ -1801,6 +1857,14 @@
       "onboard_time": 1705989146,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 117393,
+      "num": 117393,
+      "word": "五道口 兔套龙",
+      "onboard_time": 1705997730,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 116553,
@@ -1867,14 +1931,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 110673,
-      "num": 110673,
-      "word": "五道口 兔套龙",
-      "onboard_time": 1705997730,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110177,
       "num": 110177,
       "word": "A股大跌",
@@ -1905,6 +1961,14 @@
       "onboard_time": 1705991786,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 107524,
+      "num": 107524,
+      "word": "KPL换乘恋爱",
+      "onboard_time": 1705998871,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 107116,
@@ -1977,6 +2041,14 @@
       "onboard_time": 1705997489,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92507,
+      "num": 92507,
+      "word": "原来吃席也讲究技术",
+      "onboard_time": 1705998930,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 91378,

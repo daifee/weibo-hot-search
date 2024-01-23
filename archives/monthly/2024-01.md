@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/23 16:23:08
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/23 16:36:54
 </p>
 </blockquote>
 <p>
@@ -4665,6 +4665,12 @@ IU染粉发（热度：920521）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%8B%E5%AD%90%E5%BE%97%E7%BD%AA%E5%9B%9B%E4%B8%AA%E4%BA%BA%23" target="weibo">
+一下子得罪四个人（热度：872134）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AE%8B%E8%8C%9C%20rapper%E5%92%8C%E4%BB%96%E7%9A%84%E7%88%B1%E8%B1%86%E5%A5%B3%E5%8F%8B%23" target="weibo">
 王鹤棣宋茜 rapper和他的爱豆女友（热度：871981）
 </a>
@@ -4835,12 +4841,6 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%93%A5%E6%94%B6%E8%B4%AD2%E5%8D%83%E4%B8%87%E6%A0%B9%E8%8B%B9%E6%9E%9C%E6%9E%9D%E8%BA%AB%E4%BB%B7%E7%BF%BB10%E5%80%8D%23" target="weibo">
 大哥收购2千万根苹果枝身价翻10倍（热度：851121）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%8B%E5%AD%90%E5%BE%97%E7%BD%AA%E5%9B%9B%E4%B8%AA%E4%BA%BA%23" target="weibo">
-一下子得罪四个人（热度：851055）
 </a>
 </li>
 
