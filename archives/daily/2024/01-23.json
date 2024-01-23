@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705988068937,
+  "endTime": 1705991036489,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -9,6 +9,14 @@
       "onboard_time": 1705948695,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1926025,
+      "num": 1926025,
+      "word": "为啥南方人都不穿黑色羽绒服",
+      "onboard_time": 1705987825,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 1721765,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728157,
+      "num": 728157,
+      "word": "中国正在考虑采取一揽子措施来稳定股市",
+      "onboard_time": 1705988607,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 725469,
       "num": 725469,
       "word": "新疆地震",
@@ -185,6 +201,14 @@
       "onboard_time": 1705976846,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 656944,
+      "num": 656944,
+      "word": "张颂文 你配得上法国的ID",
+      "onboard_time": 1705988667,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 628116,
@@ -387,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 407736,
+      "num": 407736,
+      "word": "热辣滚烫官博声明",
+      "onboard_time": 1705988848,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 403344,
       "num": 403344,
       "word": "女子为带货编造中学生被继父强奸等谣言",
@@ -433,6 +465,14 @@
       "onboard_time": 1705976606,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 384973,
+      "num": 268463,
+      "word": "让腰越来越细的10个小习惯",
+      "onboard_time": 1705986090,
+      "rank": 21,
+      "category": "运动健身"
     },
     {
       "raw_hot": 380200,
@@ -515,20 +555,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 325003,
-      "num": 268463,
-      "word": "让腰越来越细的10个小习惯",
-      "onboard_time": 1705986090,
-      "rank": 21,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 322913,
       "num": 322913,
       "word": "杜兰特绝杀",
       "onboard_time": 1705985189,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 319708,
+      "num": 319708,
+      "word": "假如遗传了父母双方的缺点",
+      "onboard_time": 1705987468,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 314216,
@@ -683,14 +723,6 @@
       "category": "艺人,旅游"
     },
     {
-      "raw_hot": 263437,
-      "num": 263437,
-      "word": "为啥南方人都不穿黑色羽绒服",
-      "onboard_time": 1705987825,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 262659,
       "num": 262659,
       "word": "湖人交易",
@@ -739,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250045,
+      "num": 250045,
+      "word": "男子下班后回工作消息获赔3万加班费",
+      "onboard_time": 1705989685,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248668,
       "num": 248668,
       "word": "新疆乌什县又发生5.2级地震",
@@ -761,6 +801,14 @@
       "onboard_time": 1705982067,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245775,
+      "num": 234922,
+      "word": "当狗狗用了人的发膜",
+      "onboard_time": 1705989926,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 245535,
@@ -955,6 +1003,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200800,
+      "num": 157787,
+      "word": "今年的龙是不是兔子改的",
+      "onboard_time": 1705990824,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 200584,
+      "num": 200584,
+      "word": "印度股市总市值首超港股",
+      "onboard_time": 1705989746,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 198801,
       "num": 198801,
       "word": "汪海林称不要说中国电影跟中国男足一样了",
@@ -1019,6 +1083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190162,
+      "num": 190162,
+      "word": "只要上过班我们就脏了",
+      "onboard_time": 1705990046,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187482,
       "num": 187482,
       "word": "岳母搞传销骗了全家十几口100万",
@@ -1049,6 +1121,14 @@
       "onboard_time": 1705976365,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 184715,
+      "num": 184715,
+      "word": "拳头被裁员工将获至少6个月工资补偿",
+      "onboard_time": 1705990107,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 184500,
@@ -1123,14 +1203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179105,
-      "num": 179105,
-      "word": "假如遗传了父母双方的缺点",
-      "onboard_time": 1705987468,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 178171,
       "num": 178171,
       "word": "赵丽颖新电影开通官微",
@@ -1169,6 +1241,14 @@
       "onboard_time": 1705971147,
       "rank": 34,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 169896,
+      "num": 169896,
+      "word": "花旗信用卡将无法交易",
+      "onboard_time": 1705989266,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 168708,
@@ -1211,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163693,
+      "num": 163693,
+      "word": "王俊凯 杰伦脑",
+      "onboard_time": 1705990527,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163592,
       "num": 163592,
       "word": "放假后就成了德华",
@@ -1233,6 +1321,22 @@
       "onboard_time": 1705970670,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 158795,
+      "num": 158795,
+      "word": "这几种水果蒸着吃更好",
+      "onboard_time": 1705989807,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 154719,
+      "num": 154719,
+      "word": "任天堂回应幻兽帕鲁爆火",
+      "onboard_time": 1705989266,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 154314,
@@ -1291,12 +1395,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144908,
+      "num": 144908,
+      "word": "年糕是浙江省省饭吧",
+      "onboard_time": 1705988904,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 141168,
       "num": 141168,
       "word": "拜年是不是无意义社交",
       "onboard_time": 1705987468,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139498,
+      "num": 139498,
+      "word": "秦岚穿得暖呼呼",
+      "onboard_time": 1705988427,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 137845,
@@ -1339,6 +1459,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 131951,
+      "num": 131951,
+      "word": "大花袄火到了游戏圈",
+      "onboard_time": 1705990767,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131820,
       "num": 131820,
       "word": "国足只剩理论出线希望",
@@ -1353,6 +1481,22 @@
       "onboard_time": 1705977867,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131204,
+      "num": 131204,
+      "word": "花儿与少年",
+      "onboard_time": 1705988545,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129825,
+      "num": 129825,
+      "word": "广东人还要在冰箱待三天",
+      "onboard_time": 1705988128,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129665,
@@ -1385,6 +1529,22 @@
       "onboard_time": 1705929149,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119523,
+      "num": 119523,
+      "word": "家乡美食接龙",
+      "onboard_time": 1705989146,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 119160,
+      "num": 119160,
+      "word": "秦海璐秦岚辛芷蕾讨论纸尿裤",
+      "onboard_time": 1705990948,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 116553,
@@ -1433,6 +1593,14 @@
       "onboard_time": 1705931666,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111212,
+      "num": 111212,
+      "word": "上海春考",
+      "onboard_time": 1705990348,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 110177,

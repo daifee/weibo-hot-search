@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1705988068937,
+  "endTime": 1705991036489,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1705028849,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1926025,
+      "num": 1926025,
+      "word": "为啥南方人都不穿黑色羽绒服",
+      "onboard_time": 1705987825,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 1923835,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705235371,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1430684,
-      "num": 1428848,
-      "word": "于正 祝绪丹",
-      "onboard_time": 1705651046,
-      "rank": 3,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
