@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705983734966,
+  "endTime": 1705984596881,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1399184,
-      "num": 1399184,
+      "raw_hot": 1583697,
+      "num": 1583697,
       "word": "papi酱产后四个月去面试繁花",
       "onboard_time": 1705982250,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 924361,
+      "num": 924361,
+      "word": "租房45天电费要了900多块钱",
+      "onboard_time": 1705982067,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 894977,
       "num": 894977,
       "word": "上班后才知道妈妈把我养得多好",
@@ -113,6 +121,14 @@
       "onboard_time": 1705949355,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 724848,
+      "num": 724848,
+      "word": "我妈把我和炒的年货放一个屋",
+      "onboard_time": 1705979727,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 718774,
@@ -155,22 +171,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 651402,
-      "num": 651402,
-      "word": "租房45天电费要了900多块钱",
-      "onboard_time": 1705982067,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 635413,
-      "num": 635413,
-      "word": "我妈把我和炒的年货放一个屋",
-      "onboard_time": 1705979727,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 628116,
       "num": 628116,
       "word": "国足末轮生死战",
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 588053,
-      "num": 248482,
+      "num": 271453,
       "word": "茅台瑞幸联名为何不火了",
       "onboard_time": 1705972710,
       "rank": 22,
@@ -225,6 +225,14 @@
       "onboard_time": 1705969168,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 558609,
+      "num": 558609,
+      "word": "肖宇梁 纯元瓶",
+      "onboard_time": 1705982549,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 490958,
@@ -291,20 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 454906,
-      "num": 454906,
-      "word": "肖宇梁 纯元瓶",
-      "onboard_time": 1705982549,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 449493,
       "num": 158445,
       "word": "男生表白失败坠楼家属向多方索赔127万",
       "onboard_time": 1705915946,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447417,
+      "num": 447417,
+      "word": "C罗将在中国挑战吉尼斯纪录",
+      "onboard_time": 1705983265,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 445983,
@@ -395,6 +403,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 381940,
+      "num": 381940,
+      "word": "12306抢票",
+      "onboard_time": 1705983571,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377105,
+      "num": 288997,
+      "word": "光遇",
+      "onboard_time": 1705984408,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 376029,
       "num": 376029,
       "word": "A股",
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308924,
+      "num": 308924,
+      "word": "仙剑女主变迁史",
+      "onboard_time": 1705983689,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307130,
       "num": 245871,
       "word": "光与夜之恋",
@@ -523,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284979,
+      "num": 284979,
+      "word": "感觉双胞胎有点癫癫的",
+      "onboard_time": 1705982007,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283398,
       "num": 283398,
       "word": "恋与制作人",
@@ -536,6 +576,22 @@
       "word": "萧逸卡面",
       "onboard_time": 1705975170,
       "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 277391,
+      "num": 277391,
+      "word": "翻到和老公相亲时的聊天记录",
+      "onboard_time": 1705983389,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 277288,
+      "num": 277288,
+      "word": "光遇复刻",
+      "onboard_time": 1705983751,
+      "rank": 23,
       "category": "游戏"
     },
     {
@@ -555,20 +611,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273554,
-      "num": 273554,
-      "word": "感觉双胞胎有点癫癫的",
-      "onboard_time": 1705982007,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 273501,
       "num": 238391,
       "word": "光夜 亚父陆沉",
       "onboard_time": 1705978465,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 272667,
+      "num": 272667,
+      "word": "尔滨冰马俑果真上线了",
+      "onboard_time": 1705983210,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 266681,
@@ -611,6 +667,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 251454,
+      "num": 251454,
+      "word": "狗妈妈搂回小狗不让人摸",
+      "onboard_time": 1705983210,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248668,
       "num": 248668,
       "word": "新疆乌什县又发生5.2级地震",
@@ -641,14 +705,6 @@
       "onboard_time": 1705921947,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 239331,
-      "num": 239331,
-      "word": "C罗将在中国挑战吉尼斯纪录",
-      "onboard_time": 1705983265,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 238120,
@@ -707,28 +763,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219794,
-      "num": 219794,
-      "word": "尔滨冰马俑果真上线了",
-      "onboard_time": 1705983210,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 219115,
       "num": 193508,
       "word": "光夜 齐司礼神衹转世",
       "onboard_time": 1705977146,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 212625,
-      "num": 212625,
-      "word": "狗妈妈搂回小狗不让人摸",
-      "onboard_time": 1705983210,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 210338,
@@ -811,6 +851,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198404,
+      "num": 198404,
+      "word": "蒋翼预言了范丞丞的2018年",
+      "onboard_time": 1705984110,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198298,
+      "num": 198298,
+      "word": "马丽给刘耀文擦秃噜皮了",
+      "onboard_time": 1705984169,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 197966,
+      "num": 197966,
+      "word": "突然被身边的龙味震撼到了",
+      "onboard_time": 1705983026,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197805,
       "num": 197805,
       "word": "国足主帅扬科维奇或将下课",
@@ -841,14 +905,6 @@
       "onboard_time": 1705979424,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187509,
-      "num": 187509,
-      "word": "翻到和老公相亲时的聊天记录",
-      "onboard_time": 1705983389,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 187482,
@@ -955,6 +1011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178171,
+      "num": 178171,
+      "word": "赵丽颖新电影开通官微",
+      "onboard_time": 1705984228,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174849,
       "num": 174849,
       "word": "秀丽抽烟",
@@ -987,20 +1051,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167824,
+      "num": 167824,
+      "word": "龙头 水龙头",
+      "onboard_time": 1705984352,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167608,
       "num": 167608,
       "word": "新疆此次地震主余型的可能性较大",
       "onboard_time": 1705968147,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167431,
-      "num": 167431,
-      "word": "突然被身边的龙味震撼到了",
-      "onboard_time": 1705983026,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 163592,
@@ -1035,28 +1099,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 152922,
-      "num": 152922,
-      "word": "12306抢票",
-      "onboard_time": 1705983571,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149029,
       "num": 149029,
       "word": "有洗衣机还一直坚持手洗的妈妈",
       "onboard_time": 1705980565,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148757,
-      "num": 148757,
-      "word": "仙剑女主变迁史",
-      "onboard_time": 1705983689,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 146338,
@@ -1387,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72958,
+      "num": 354065,
+      "word": "余额宝送的超大年货包要用火车运",
+      "onboard_time": 1705982430,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 72397,
       "num": 72397,
       "word": "上次这么钓的还是上官浅",
@@ -1481,14 +1537,6 @@
       "onboard_time": 1705944738,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48032,
-      "num": 343771,
-      "word": "余额宝送的超大年货包要用火车运",
-      "onboard_time": 1705982430,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 46811,

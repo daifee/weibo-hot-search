@@ -1,0 +1,410 @@
+{
+  "runTime": 1705984596881,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1583697,
+        "num": 1583697,
+        "word": "papi酱产后四个月去面试繁花",
+        "onboard_time": 1705982250,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1102272,
+        "num": 1102272,
+        "word": "刘亚仁自曝因抑郁症吸毒",
+        "onboard_time": 1705981046,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8231,
+        "num": 1020083,
+        "word": "国字号重器硬核展示中国制造实力",
+        "onboard_time": 1705928249,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987936,
+        "num": 987936,
+        "word": "哈尔滨回应20元羊汤只有5片肉卷",
+        "onboard_time": 1705975587,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924361,
+        "num": 924361,
+        "word": "租房45天电费要了900多块钱",
+        "onboard_time": 1705982067,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 855043,
+        "num": 855043,
+        "word": "新疆乌什县7.1级地震",
+        "onboard_time": 1705948695,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724848,
+        "num": 724848,
+        "word": "我妈把我和炒的年货放一个屋",
+        "onboard_time": 1705979727,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 657648,
+        "num": 657648,
+        "word": "不愿意请男朋友吃1000块的日料",
+        "onboard_time": 1705979483,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 646140,
+        "num": 646140,
+        "word": "杨紫和孙俪妹妹演同事",
+        "onboard_time": 1705978707,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 588690,
+        "num": 588690,
+        "word": "上班后才知道妈妈把我养得多好",
+        "onboard_time": 1705974686,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 558609,
+        "num": 558609,
+        "word": "肖宇梁 纯元瓶",
+        "onboard_time": 1705982549,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447417,
+        "num": 447417,
+        "word": "C罗将在中国挑战吉尼斯纪录",
+        "onboard_time": 1705983265,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381940,
+        "num": 381940,
+        "word": "12306抢票",
+        "onboard_time": 1705983571,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380258,
+        "num": 380258,
+        "word": "苹果回应手机壳指蟒为龙",
+        "onboard_time": 1705976846,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72958,
+        "num": 354065,
+        "word": "余额宝送的超大年货包要用火车运",
+        "onboard_time": 1705982430,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 347536,
+        "num": 347536,
+        "word": "新疆地震男子裹被子从5楼箭步逃生",
+        "onboard_time": 1705973129,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329234,
+        "num": 329234,
+        "word": "A股今年有望走出前低后高",
+        "onboard_time": 1705978465,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 312572,
+        "num": 312572,
+        "word": "武磊承认中国足球令人失望",
+        "onboard_time": 1705970730,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308924,
+        "num": 308924,
+        "word": "仙剑女主变迁史",
+        "onboard_time": 1705983689,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290526,
+        "num": 290526,
+        "word": "孙艳 要久久爱",
+        "onboard_time": 1705981587,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377105,
+        "num": 288997,
+        "word": "光遇",
+        "onboard_time": 1705984408,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284979,
+        "num": 284979,
+        "word": "感觉双胞胎有点癫癫的",
+        "onboard_time": 1705982007,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277391,
+        "num": 277391,
+        "word": "翻到和老公相亲时的聊天记录",
+        "onboard_time": 1705983389,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277288,
+        "num": 277288,
+        "word": "光遇复刻",
+        "onboard_time": 1705983751,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272667,
+        "num": 272667,
+        "word": "尔滨冰马俑果真上线了",
+        "onboard_time": 1705983210,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 271453,
+        "num": 271453,
+        "word": "茅台瑞幸联名为何不火了",
+        "onboard_time": 1705972710,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 261707,
+        "num": 261707,
+        "word": "韩素希叼笔盖",
+        "onboard_time": 1705976188,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251454,
+        "num": 251454,
+        "word": "狗妈妈搂回小狗不让人摸",
+        "onboard_time": 1705983210,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235083,
+        "num": 235083,
+        "word": "王宝强加入河北扛旗大军",
+        "onboard_time": 1705981104,
+        "rank": 28,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 234654,
+        "num": 234654,
+        "word": "男子一个多月内逃缴停车费1500元被刑拘",
+        "onboard_time": 1705982067,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215345,
+        "num": 215345,
+        "word": "恩比德狂轰70分",
+        "onboard_time": 1705982849,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214546,
+        "num": 214546,
+        "word": "YG预计今年内推出新组合",
+        "onboard_time": 1705980925,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210901,
+        "num": 210901,
+        "word": "A股",
+        "onboard_time": 1705979245,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200064,
+        "num": 200064,
+        "word": "恋与制作人",
+        "onboard_time": 1705981948,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199152,
+        "num": 199152,
+        "word": "三市上涨个股近3200只",
+        "onboard_time": 1705980866,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198404,
+        "num": 198404,
+        "word": "蒋翼预言了范丞丞的2018年",
+        "onboard_time": 1705984110,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198298,
+        "num": 198298,
+        "word": "马丽给刘耀文擦秃噜皮了",
+        "onboard_time": 1705984169,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197966,
+        "num": 197966,
+        "word": "突然被身边的龙味震撼到了",
+        "onboard_time": 1705983026,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185003,
+        "num": 185003,
+        "word": "杨紫谈30岁",
+        "onboard_time": 1705980085,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180212,
+        "num": 180212,
+        "word": "提前回家过春节的00后现状",
+        "onboard_time": 1705981648,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178171,
+        "num": 178171,
+        "word": "赵丽颖新电影开通官微",
+        "onboard_time": 1705984228,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175009,
+        "num": 175009,
+        "word": "国足目前属于亚洲几流",
+        "onboard_time": 1705979666,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173336,
+        "num": 173336,
+        "word": "iOS17.3",
+        "onboard_time": 1705980687,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169922,
+        "num": 169922,
+        "word": "发现我妈也在偷偷装大人",
+        "onboard_time": 1705966340,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167824,
+        "num": 167824,
+        "word": "龙头 水龙头",
+        "onboard_time": 1705984352,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160771,
+        "num": 160771,
+        "word": "2024男频剧",
+        "onboard_time": 1705983149,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160681,
+        "num": 160681,
+        "word": "王者荣耀首个平行世界CG",
+        "onboard_time": 1705980687,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158488,
+        "num": 158488,
+        "word": "英雄联盟开发商裁员11%",
+        "onboard_time": 1705976606,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144684,
+        "num": 144684,
+        "word": "00后摄影博主良田打卡春晚",
+        "onboard_time": 1705982791,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139742,
+        "num": 139742,
+        "word": "唐斯62分",
+        "onboard_time": 1705981348,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对云南山体滑坡作出重要指示#"
+    }
+  }
+}
