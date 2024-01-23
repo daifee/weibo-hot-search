@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706051898364,
+  "endTime": 1706052883101,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -2795,6 +2795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343991,
+      "num": 235353,
+      "word": "售楼处回应保安被指穿衣少瑟瑟发抖",
+      "onboard_time": 1706042894,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343968,
       "num": 343968,
       "word": "陈楚生和07年的自己合唱",
@@ -3427,6 +3435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277355,
+      "num": 277355,
+      "word": "新疆阿合奇5.7级地震",
+      "onboard_time": 1706051543,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277288,
       "num": 277288,
       "word": "光遇复刻",
@@ -3537,14 +3553,6 @@
       "onboard_time": 1706000550,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268548,
-      "num": 195364,
-      "word": "售楼处回应保安被指穿衣少瑟瑟发抖",
-      "onboard_time": 1706042894,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267654,
@@ -4403,6 +4411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213819,
+      "num": 213819,
+      "word": "马诺称闪婚后半年被家暴7次",
+      "onboard_time": 1706031678,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 213770,
       "num": 213770,
       "word": "蒋翼预言了范丞丞的2018年",
@@ -5001,14 +5017,6 @@
       "onboard_time": 1705929867,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196945,
-      "num": 196945,
-      "word": "马诺称闪婚后半年被家暴7次",
-      "onboard_time": 1706031678,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 196808,
@@ -6427,6 +6435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156956,
+      "num": 156956,
+      "word": "但凡有高中文化也不会这么编",
+      "onboard_time": 1706038936,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156413,
       "num": 156413,
       "word": "北京今年将新增中小学学位2万个",
@@ -7811,14 +7827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123230,
-      "num": 123230,
-      "word": "新疆阿合奇5.7级地震",
-      "onboard_time": 1706051543,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121918,
       "num": 121918,
       "word": "杭州官宣梅西3月来",
@@ -8283,6 +8291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108120,
+      "num": 108120,
+      "word": "委员建议中小学设副班主任",
+      "onboard_time": 1706044276,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 107936,
       "num": 107936,
       "word": "WB官宣流浪离队",
@@ -8363,14 +8379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105802,
-      "num": 105802,
-      "word": "委员建议中小学设副班主任",
-      "onboard_time": 1706044276,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 105748,
       "num": 105748,
       "word": "李金恣冬青奥夺金",
@@ -8427,14 +8435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103724,
-      "num": 103724,
-      "word": "但凡有高中文化也不会这么编",
-      "onboard_time": 1706038936,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 103387,
       "num": 103387,
       "word": "相亲相碍一家人",
@@ -8457,6 +8457,14 @@
       "onboard_time": 1706005830,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102717,
+      "num": 102717,
+      "word": "阿里巴巴回应马云蔡崇信大幅增持",
+      "onboard_time": 1706051421,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 102503,
@@ -8779,6 +8787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80346,
+      "num": 63769,
+      "word": "菲律宾总统称台湾是中国的一个省",
+      "onboard_time": 1706052383,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 79997,
       "num": 79997,
       "word": "6个过冬神器秒变伤人暗器",
@@ -8897,6 +8913,14 @@
       "onboard_time": 1705965860,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70332,
+      "num": 63490,
+      "word": "这么睡有奇效",
+      "onboard_time": 1706052143,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 69579,
@@ -9075,12 +9099,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52311,
+      "num": 52311,
+      "word": "热火黄蜂交易",
+      "onboard_time": 1706051904,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50876,
       "num": 50876,
       "word": "吴磊这个抬眼的杀伤力",
       "onboard_time": 1705944738,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50290,
+      "num": 50290,
+      "word": "小孩姐 人家要摸你你不要不识好歹",
+      "onboard_time": 1706040617,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 49649,
@@ -9097,14 +9137,6 @@
       "onboard_time": 1705879882,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48281,
-      "num": 45606,
-      "word": "小孩姐 人家要摸你你不要不识好歹",
-      "onboard_time": 1706040617,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 48068,
@@ -9131,20 +9163,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44094,
-      "num": 44094,
-      "word": "阿里巴巴回应马云蔡崇信大幅增持",
-      "onboard_time": 1706051421,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 43958,
       "num": 43958,
       "word": "薛之谦别开玩笑了",
       "onboard_time": 1705861214,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43500,
+      "num": 43500,
+      "word": "张黎 举报前已做好最坏打算",
+      "onboard_time": 1706052745,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41522,
