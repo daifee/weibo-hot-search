@@ -1,0 +1,410 @@
+{
+  "runTime": 1706002487489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1571291,
+        "num": 1571291,
+        "word": "非诚勿扰宝马女起诉离婚",
+        "onboard_time": 1705998211,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 731721,
+        "num": 731721,
+        "word": "妹妹养父母去世后亲生父母求和",
+        "onboard_time": 1705998269,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51531,
+        "num": 702311,
+        "word": "地震时客运员第一反应疏散旅客",
+        "onboard_time": 1705973369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685821,
+        "num": 685821,
+        "word": "今年的龙是不是兔子改的",
+        "onboard_time": 1705990824,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 635627,
+        "num": 635627,
+        "word": "陈小春被Jasper问得汗流浃背了",
+        "onboard_time": 1706001028,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 635187,
+        "num": 635187,
+        "word": "韩国23%小学在校生不足60人",
+        "onboard_time": 1705997549,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593938,
+        "num": 593938,
+        "word": "一下子得罪四个人",
+        "onboard_time": 1705994308,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509129,
+        "num": 509129,
+        "word": "吴亦凡关联公司已成老赖",
+        "onboard_time": 1705997071,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497901,
+        "num": 497901,
+        "word": "为啥南方人都不穿黑色羽绒服",
+        "onboard_time": 1705987825,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 384551,
+        "num": 494362,
+        "word": "谷歌中国籍工程师承认殴打妻子致死",
+        "onboard_time": 1705993948,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492388,
+        "num": 492388,
+        "word": "papi酱产后四个月去面试繁花",
+        "onboard_time": 1705982250,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374228,
+        "num": 374228,
+        "word": "姚笛转行做导演",
+        "onboard_time": 1705995751,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362761,
+        "num": 362761,
+        "word": "C罗 踢不踢",
+        "onboard_time": 1706001690,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356631,
+        "num": 356631,
+        "word": "孙丞潇说金莎做财产公证就不惦记了",
+        "onboard_time": 1705991906,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194036,
+        "num": 316166,
+        "word": "支付宝公布五福新玩法",
+        "onboard_time": 1706000432,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 304044,
+        "num": 304044,
+        "word": "丁达尔效瀛",
+        "onboard_time": 1705999771,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290387,
+        "num": 290387,
+        "word": "凤凰传奇免费联动时装",
+        "onboard_time": 1705998811,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269720,
+        "num": 269720,
+        "word": "吴千语施伯雄对待伴侣出轨的态度",
+        "onboard_time": 1706000550,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254477,
+        "num": 254477,
+        "word": "齐司礼被鞭打",
+        "onboard_time": 1705998749,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237724,
+        "num": 237724,
+        "word": "女生瘦20斤回家后遭爷爷霸总式投喂",
+        "onboard_time": 1705985487,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766108,
+        "num": 231381,
+        "word": "日本一男子性侵多名2岁以下女婴",
+        "onboard_time": 1705999229,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216125,
+        "num": 216125,
+        "word": "44岁女高管被老公要求不生孩子就离婚",
+        "onboard_time": 1705991906,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210047,
+        "num": 210047,
+        "word": "上海本地股集体爆发",
+        "onboard_time": 1705995629,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186430,
+        "num": 186430,
+        "word": "辛芷蕾冰川照",
+        "onboard_time": 1706000550,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185387,
+        "num": 185387,
+        "word": "福宝将于四月回国",
+        "onboard_time": 1706000730,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182452,
+        "num": 182452,
+        "word": "赖薇如登记结婚",
+        "onboard_time": 1706001813,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177142,
+        "num": 177142,
+        "word": "张艺兴给王大陆叫外卖",
+        "onboard_time": 1705997549,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168514,
+        "num": 168514,
+        "word": "一个蛋挞在吃另一个蛋挞",
+        "onboard_time": 1705993224,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159692,
+        "num": 159692,
+        "word": "云南山体滑坡已致20人遇难24人失联",
+        "onboard_time": 1705996410,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109317,
+        "num": 153252,
+        "word": "新疆乌什县7.1级地震",
+        "onboard_time": 1705948695,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151611,
+        "num": 151611,
+        "word": "关晓彤的包是高脚杯",
+        "onboard_time": 1705991847,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148853,
+        "num": 148853,
+        "word": "C罗中国行 魔法对抗魔法",
+        "onboard_time": 1706001932,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144421,
+        "num": 144421,
+        "word": "王安宇把辛芷蕾逼急了",
+        "onboard_time": 1705993771,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142711,
+        "num": 142711,
+        "word": "俞敏洪称猪被逼到墙角也咬人",
+        "onboard_time": 1706002112,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141887,
+        "num": 141887,
+        "word": "12306抢票",
+        "onboard_time": 1705983571,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139709,
+        "num": 139709,
+        "word": "龙年专属烫发",
+        "onboard_time": 1706002112,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139047,
+        "num": 139047,
+        "word": "财神英文名 MoneyGod",
+        "onboard_time": 1706000313,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118885,
+        "num": 118885,
+        "word": "相遇的意义",
+        "onboard_time": 1706002409,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116557,
+        "num": 116557,
+        "word": "第一次觉得这个牌子这么潮",
+        "onboard_time": 1706000251,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112073,
+        "num": 112073,
+        "word": "只要上过班我们就脏了",
+        "onboard_time": 1705990046,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110150,
+        "num": 110150,
+        "word": "上海申花赛前发布会取消",
+        "onboard_time": 1706002050,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105001,
+        "num": 105001,
+        "word": "杨鸣和辽宁益胜解约",
+        "onboard_time": 1705997307,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102367,
+        "num": 102367,
+        "word": "江苏人不能原谅白素贞的理由",
+        "onboard_time": 1705998390,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102091,
+        "num": 102091,
+        "word": "原来吃席也讲究技术",
+        "onboard_time": 1705998930,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99491,
+        "num": 99491,
+        "word": "曾经骂过的国足竟已是巅峰",
+        "onboard_time": 1705997429,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98569,
+        "num": 98569,
+        "word": "CBA全明星阵容公布",
+        "onboard_time": 1705999952,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97055,
+        "num": 97055,
+        "word": "杭州官宣梅西3月来",
+        "onboard_time": 1705998211,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96456,
+        "num": 96456,
+        "word": "KPL换乘恋爱",
+        "onboard_time": 1705998871,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95639,
+        "num": 95639,
+        "word": "赵露思生活碎片plog",
+        "onboard_time": 1705999709,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94539,
+        "num": 94539,
+        "word": "不愿意请男朋友吃1000块的日料",
+        "onboard_time": 1705979483,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#跨越近30年始终如一的情怀#"
+    }
+  }
+}
