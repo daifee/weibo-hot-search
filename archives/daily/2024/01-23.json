@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705987058726,
+  "endTime": 1705988068937,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -83,20 +83,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 964994,
+      "num": 964994,
+      "word": "女生瘦20斤回家后遭爷爷霸总式投喂",
+      "onboard_time": 1705985487,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 894977,
       "num": 894977,
       "word": "上班后才知道妈妈把我养得多好",
       "onboard_time": 1705974686,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 837263,
-      "num": 837263,
-      "word": "女生瘦20斤回家后遭爷爷霸总式投喂",
-      "onboard_time": 1705985487,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 835613,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 588053,
-      "num": 380968,
+      "num": 435054,
       "word": "茅台瑞幸联名为何不火了",
       "onboard_time": 1705972710,
       "rank": 22,
@@ -515,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325003,
+      "num": 268463,
+      "word": "让腰越来越细的10个小习惯",
+      "onboard_time": 1705986090,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 322913,
       "num": 322913,
       "word": "杜兰特绝杀",
@@ -529,6 +537,14 @@
       "onboard_time": 1705956913,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313463,
+      "num": 313463,
+      "word": "射雕英雄传年内上映",
+      "onboard_time": 1705987407,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 307130,
@@ -667,6 +683,14 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 263437,
+      "num": 263437,
+      "word": "为啥南方人都不穿黑色羽绒服",
+      "onboard_time": 1705987825,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 262659,
       "num": 262659,
       "word": "湖人交易",
@@ -689,6 +713,14 @@
       "onboard_time": 1705980925,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255087,
+      "num": 255087,
+      "word": "云南镇雄山体滑坡已致12人遇难",
+      "onboard_time": 1705987167,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252804,
@@ -715,12 +747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248203,
-      "num": 248203,
-      "word": "让腰越来越细的10个小习惯",
-      "onboard_time": 1705986090,
-      "rank": 21,
-      "category": "运动健身"
+      "raw_hot": 246553,
+      "num": 246553,
+      "word": "家里只有我一个人时才有安全感",
+      "onboard_time": 1705986748,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 246033,
@@ -771,14 +803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234863,
-      "num": 197914,
-      "word": "家里只有我一个人时才有安全感",
-      "onboard_time": 1705986748,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 233463,
       "num": 233463,
       "word": "提前回家过春节的00后现状",
@@ -817,6 +841,14 @@
       "onboard_time": 1705985849,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222601,
+      "num": 188713,
+      "word": "外国人模仿中国人模仿外国人",
+      "onboard_time": 1705986449,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 220622,
@@ -883,6 +915,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 206404,
+      "num": 206404,
+      "word": "大家都在玩梗只有我真的在农村",
+      "onboard_time": 1705985668,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204481,
       "num": 184865,
       "word": "哪个ip的留子最癫",
@@ -905,14 +945,6 @@
       "onboard_time": 1705977564,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202963,
-      "num": 202963,
-      "word": "大家都在玩梗只有我真的在农村",
-      "onboard_time": 1705985668,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 201171,
@@ -1091,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179105,
+      "num": 179105,
+      "word": "假如遗传了父母双方的缺点",
+      "onboard_time": 1705987468,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178171,
       "num": 178171,
       "word": "赵丽颖新电影开通官微",
@@ -1131,14 +1171,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 169391,
-      "num": 169391,
-      "word": "外国人模仿中国人模仿外国人",
-      "onboard_time": 1705986449,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 168708,
       "num": 168708,
       "word": "要久久爱",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1705973369,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168414,
+      "num": 168414,
+      "word": "高芙 女单",
+      "onboard_time": 1705987468,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 167824,
@@ -1251,6 +1291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141168,
+      "num": 141168,
+      "word": "拜年是不是无意义社交",
+      "onboard_time": 1705987468,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137845,
       "num": 137845,
       "word": "世界之外 消音哥能不能换CV",
@@ -1268,7 +1316,7 @@
     },
     {
       "raw_hot": 136135,
-      "num": 136135,
+      "num": 969097,
       "word": "新疆地震最新情况汇总",
       "onboard_time": 1705965981,
       "rank": 28,
@@ -1417,6 +1465,14 @@
       "onboard_time": 1705934668,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105963,
+      "num": 105963,
+      "word": "杜兰特43分",
+      "onboard_time": 1705987287,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 103834,
