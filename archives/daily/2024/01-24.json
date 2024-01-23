@@ -1,6 +1,6 @@
 {
   "startTime": 1706027038365,
-  "endTime": 1706041169422,
+  "endTime": 1706042075007,
   "band_list": [
     {
       "raw_hot": 1053358,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44643,
+      "num": 35325,
+      "word": "但凡有高中文化也不会这么编",
+      "onboard_time": 1706038936,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 43773,
       "num": 43773,
       "word": "侃爷妻子手机壁纸",
@@ -459,14 +467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 28584,
-      "num": 28584,
-      "word": "但凡有高中文化也不会这么编",
-      "onboard_time": 1706038936,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 27101,
       "num": 27101,
       "word": "腾讯音乐榜2023年度榜单",
@@ -475,8 +475,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 13340,
-      "num": 13340,
+      "raw_hot": 19135,
+      "num": 15517,
       "word": "小孩姐 人家要摸你你不要不识好歹",
       "onboard_time": 1706040617,
       "rank": 41,
@@ -489,6 +489,14 @@
       "onboard_time": 1705996169,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10413,
+      "num": 11954,
+      "word": "到底什么是消炎药",
+      "onboard_time": 1706041936,
+      "rank": 49,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
