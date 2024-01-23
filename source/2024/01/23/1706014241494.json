@@ -1,0 +1,410 @@
+{
+  "runTime": 1706014241494,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1480837,
+        "num": 1480837,
+        "word": "李湘宣布退休后又复工",
+        "onboard_time": 1706009851,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1244473,
+        "num": 1244473,
+        "word": "雷军 医美",
+        "onboard_time": 1706010931,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23873,
+        "num": 1010320,
+        "word": "地震时客运员第一反应疏散旅客",
+        "onboard_time": 1705973369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962047,
+        "num": 962047,
+        "word": "辛芷蕾穿了顶级高定",
+        "onboard_time": 1706010692,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 885814,
+        "num": 885814,
+        "word": "6寸蛋糕用5斤车厘子店家道歉",
+        "onboard_time": 1706004511,
+        "rank": 4,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 655372,
+        "num": 655372,
+        "word": "papi酱 无法工作的理由",
+        "onboard_time": 1706008409,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 637812,
+        "num": 637812,
+        "word": "C罗中国行比赛延期",
+        "onboard_time": 1706013691,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474665,
+        "num": 474665,
+        "word": "C罗出席赛前发布会",
+        "onboard_time": 1706010391,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431485,
+        "num": 431485,
+        "word": "新疆7.1级地震已致3死5伤",
+        "onboard_time": 1706009311,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405786,
+        "num": 405786,
+        "word": "一下子得罪四个人",
+        "onboard_time": 1705994308,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1778466,
+        "num": 403634,
+        "word": "私密整形一夜爆火",
+        "onboard_time": 1706009611,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 455637,
+        "num": 401892,
+        "word": "订婚强奸案当事男子母亲将为儿辩护",
+        "onboard_time": 1706007570,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399354,
+        "num": 399354,
+        "word": "权珉娥ins发疤痕照",
+        "onboard_time": 1706012791,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359854,
+        "num": 359854,
+        "word": "韩剧 中国白瓷",
+        "onboard_time": 1706006011,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344274,
+        "num": 344274,
+        "word": "C罗 踢不踢",
+        "onboard_time": 1706001690,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341969,
+        "num": 341969,
+        "word": "京东被曝重返央视春晚",
+        "onboard_time": 1706009851,
+        "rank": 15,
+        "category": "互联网,综艺"
+      },
+      {
+        "raw_hot": 341782,
+        "num": 341782,
+        "word": "雷东宝出轨",
+        "onboard_time": 1706013632,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316266,
+        "num": 316266,
+        "word": "腾讯64.2亿海淀拿地",
+        "onboard_time": 1706005408,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 307469,
+        "num": 307469,
+        "word": "新疆乌什地震新闻发布会",
+        "onboard_time": 1706011890,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304610,
+        "num": 304610,
+        "word": "赵丽颖发文支持电影版花千骨",
+        "onboard_time": 1706006610,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288274,
+        "num": 288274,
+        "word": "有了男朋友好像失去了社交能力",
+        "onboard_time": 1706013812,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273248,
+        "num": 273248,
+        "word": "日本一男子性侵多名2岁以下女婴",
+        "onboard_time": 1705999229,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269209,
+        "num": 269209,
+        "word": "吴京的腿怎么了",
+        "onboard_time": 1706006670,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261423,
+        "num": 261423,
+        "word": "秦岚卷发",
+        "onboard_time": 1706013271,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247149,
+        "num": 247149,
+        "word": "女子在ATM机房避寒10分钟被银行喊话",
+        "onboard_time": 1706003607,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228519,
+        "num": 228519,
+        "word": "杨幂哄娃式撸猫",
+        "onboard_time": 1706013152,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203703,
+        "num": 203703,
+        "word": "顾时夜糙汉",
+        "onboard_time": 1706011355,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199170,
+        "num": 199170,
+        "word": "王者荣耀",
+        "onboard_time": 1706011229,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198398,
+        "num": 198398,
+        "word": "七千五的工作和考研怎么选",
+        "onboard_time": 1706009192,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198114,
+        "num": 198114,
+        "word": "学术蝗虫",
+        "onboard_time": 1706006490,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189813,
+        "num": 189813,
+        "word": "非诚勿扰宝马女起诉离婚",
+        "onboard_time": 1705998211,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 187056,
+        "num": 187056,
+        "word": "成毅王权富贵高清正脸照",
+        "onboard_time": 1706009192,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170806,
+        "num": 170806,
+        "word": "突然意识到妈妈需要我照顾了",
+        "onboard_time": 1706012014,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167669,
+        "num": 167669,
+        "word": "祈今朝 双生禁忌骨科",
+        "onboard_time": 1706012610,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158720,
+        "num": 158720,
+        "word": "拉夏贝尔总部基地9.5亿元起拍",
+        "onboard_time": 1706010150,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158338,
+        "num": 158338,
+        "word": "黄瀛子呸呸呸出个蒋",
+        "onboard_time": 1706013512,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76752,
+        "num": 158116,
+        "word": "哈尔滨把和平精英搬进现实",
+        "onboard_time": 1706010331,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157966,
+        "num": 157966,
+        "word": "月嫂下户后还在朋友圈发我家的照片",
+        "onboard_time": 1706002590,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156587,
+        "num": 156587,
+        "word": "情侣酒店走光索要10倍赔偿",
+        "onboard_time": 1706013691,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147423,
+        "num": 147423,
+        "word": "恋与深空",
+        "onboard_time": 1706013870,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144689,
+        "num": 144689,
+        "word": "papi酱产后四个月去面试繁花",
+        "onboard_time": 1705982250,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144659,
+        "num": 144659,
+        "word": "云南镇雄山体滑坡灾害已致31人遇难",
+        "onboard_time": 1706010089,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134235,
+        "num": 134235,
+        "word": "为啥南方人都不穿黑色羽绒服",
+        "onboard_time": 1705987825,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132315,
+        "num": 132315,
+        "word": "赵昭仪平价穿搭",
+        "onboard_time": 1706009491,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131676,
+        "num": 131676,
+        "word": "陈小春被Jasper问得汗流浃背了",
+        "onboard_time": 1706001028,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128742,
+        "num": 128742,
+        "word": "夫妻在吵架网友在分家",
+        "onboard_time": 1706012430,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122496,
+        "num": 122496,
+        "word": "已经不习惯秦岚正常的声音了",
+        "onboard_time": 1706008710,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118653,
+        "num": 118653,
+        "word": "若华结局",
+        "onboard_time": 1706011532,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117300,
+        "num": 117300,
+        "word": "小学生用播音腔骂大学生",
+        "onboard_time": 1706009671,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107761,
+        "num": 107761,
+        "word": "今年的龙是不是兔子改的",
+        "onboard_time": 1705990824,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跨越近30年始终如一的情怀#"
+    }
+  }
+}

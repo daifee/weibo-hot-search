@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706013263395,
+  "endTime": 1706014241494,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1411,6 +1411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1778466,
+      "num": 403634,
+      "word": "私密整形一夜爆火",
+      "onboard_time": 1706009611,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1777446,
       "num": 1777446,
       "word": "哈佛大学校长 抄袭",
@@ -1617,14 +1625,6 @@
       "onboard_time": 1705388190,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1709061,
-      "num": 371587,
-      "word": "私密整形一夜爆火",
-      "onboard_time": 1706009611,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 1700996,
@@ -3259,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1244473,
+      "num": 1244473,
+      "word": "雷军 医美",
+      "onboard_time": 1706010931,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1242405,
       "num": 1242405,
       "word": "腾讯破30000的四部剧",
@@ -4872,14 +4880,6 @@
       "word": "iPhone到尔滨掉电有多快",
       "onboard_time": 1705633826,
       "rank": 22,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 1014916,
-      "num": 1014916,
-      "word": "雷军 医美",
-      "onboard_time": 1706010931,
-      "rank": 3,
       "category": "数码"
     },
     {
@@ -10731,6 +10731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 637812,
+      "num": 637812,
+      "word": "C罗中国行比赛延期",
+      "onboard_time": 1706013691,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 637810,
       "num": 404914,
       "word": "00后回应被富豪父亲隐瞒家产20年",
@@ -15907,6 +15915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474665,
+      "num": 474665,
+      "word": "C罗出席赛前发布会",
+      "onboard_time": 1706010391,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474484,
       "num": 474484,
       "word": "卢美琳是嫁给黄河路的女人",
@@ -18979,6 +18995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 399354,
+      "num": 399354,
+      "word": "权珉娥ins发疤痕照",
+      "onboard_time": 1706012791,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399218,
       "num": 262495,
       "word": "为何百果园不受欢迎了",
@@ -21625,6 +21649,14 @@
       "onboard_time": 1705723467,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 341782,
+      "num": 341782,
+      "word": "雷东宝出轨",
+      "onboard_time": 1706013632,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 340926,
@@ -24923,6 +24955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 288274,
+      "num": 288274,
+      "word": "有了男朋友好像失去了社交能力",
+      "onboard_time": 1706013812,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288271,
       "num": 288271,
       "word": "李诚儒给宋亚轩的三个忠告",
@@ -25473,14 +25513,6 @@
       "onboard_time": 1705555228,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281812,
-      "num": 281812,
-      "word": "C罗出席赛前发布会",
-      "onboard_time": 1706010391,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 281295,
@@ -27113,6 +27145,14 @@
       "onboard_time": 1706005710,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261423,
+      "num": 261423,
+      "word": "秦岚卷发",
+      "onboard_time": 1706013271,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 261384,
@@ -30537,6 +30577,14 @@
       "onboard_time": 1704330392,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 228519,
+      "num": 228519,
+      "word": "杨幂哄娃式撸猫",
+      "onboard_time": 1706013152,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228515,
@@ -38123,14 +38171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188790,
-      "num": 188790,
-      "word": "权珉娥ins发疤痕照",
-      "onboard_time": 1706012791,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188767,
       "num": 247933,
       "word": "广州成都深圳成元旦假期最火城市",
@@ -39377,14 +39417,6 @@
       "onboard_time": 1705756289,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183364,
-      "num": 183364,
-      "word": "杨幂哄娃式撸猫",
-      "onboard_time": 1706013152,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 183341,
@@ -43043,6 +43075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167669,
+      "num": 167669,
+      "word": "祈今朝 双生禁忌骨科",
+      "onboard_time": 1706012610,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167608,
       "num": 167608,
       "word": "新疆此次地震主余型的可能性较大",
@@ -43561,14 +43601,6 @@
       "onboard_time": 1704777695,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 165601,
-      "num": 165601,
-      "word": "祈今朝 双生禁忌骨科",
-      "onboard_time": 1706012610,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 165588,
@@ -45187,6 +45219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158338,
+      "num": 158338,
+      "word": "黄瀛子呸呸呸出个蒋",
+      "onboard_time": 1706013512,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158266,
       "num": 158266,
       "word": "大鹏回应新电影豆瓣8.2分",
@@ -45569,6 +45609,14 @@
       "onboard_time": 1704585201,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156587,
+      "num": 156587,
+      "word": "情侣酒店走光索要10倍赔偿",
+      "onboard_time": 1706013691,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156557,

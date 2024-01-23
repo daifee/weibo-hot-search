@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1706013263395,
+  "endTime": 1706014241494,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -27,20 +27,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1778466,
+      "num": 403634,
+      "word": "私密整形一夜爆火",
+      "onboard_time": 1706009611,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1721765,
       "num": 1721765,
       "word": "哈尔滨回应20元羊汤只有5片肉卷",
       "onboard_time": 1705975587,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1709061,
-      "num": 371587,
-      "word": "私密整形一夜爆火",
-      "onboard_time": 1706009611,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 1669576,
@@ -89,6 +89,14 @@
       "onboard_time": 1705990824,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1244473,
+      "num": 1244473,
+      "word": "雷军 医美",
+      "onboard_time": 1706010931,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 1208685,
@@ -145,14 +153,6 @@
       "onboard_time": 1705991906,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1014916,
-      "num": 1014916,
-      "word": "雷军 医美",
-      "onboard_time": 1706010931,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 986062,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 637812,
+      "num": 637812,
+      "word": "C罗中国行比赛延期",
+      "onboard_time": 1706013691,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 635627,
       "num": 635627,
       "word": "陈小春被Jasper问得汗流浃背了",
@@ -544,6 +552,14 @@
       "word": "韦世豪 确实是我们踢得太臭了",
       "onboard_time": 1705969710,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 474665,
+      "num": 474665,
+      "word": "C罗出席赛前发布会",
+      "onboard_time": 1706010391,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -699,6 +715,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 399354,
+      "num": 399354,
+      "word": "权珉娥ins发疤痕照",
+      "onboard_time": 1706012791,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398388,
       "num": 398388,
       "word": "林一晒与刘浩存合照",
@@ -833,6 +857,14 @@
       "onboard_time": 1705973609,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 341782,
+      "num": 341782,
+      "word": "雷东宝出轨",
+      "onboard_time": 1706013632,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 329813,
@@ -995,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288274,
+      "num": 288274,
+      "word": "有了男朋友好像失去了社交能力",
+      "onboard_time": 1706013812,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 287031,
       "num": 262174,
       "word": "为什么建议年轻人要学会送礼",
@@ -1025,14 +1065,6 @@
       "onboard_time": 1705981948,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 281812,
-      "num": 281812,
-      "word": "C罗出席赛前发布会",
-      "onboard_time": 1706010391,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 279654,
@@ -1153,6 +1185,14 @@
       "onboard_time": 1706005710,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261423,
+      "num": 261423,
+      "word": "秦岚卷发",
+      "onboard_time": 1706013271,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 260225,
@@ -1363,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228519,
+      "num": 228519,
+      "word": "杨幂哄娃式撸猫",
+      "onboard_time": 1706013152,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 227338,
       "num": 227338,
       "word": "突然意识到妈妈需要我照顾了",
@@ -1571,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199170,
+      "num": 199170,
+      "word": "王者荣耀",
+      "onboard_time": 1706011229,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198801,
       "num": 198801,
       "word": "汪海林称不要说中国电影跟中国男足一样了",
@@ -1657,14 +1713,6 @@
       "onboard_time": 1705979424,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188790,
-      "num": 188790,
-      "word": "权珉娥ins发疤痕照",
-      "onboard_time": 1706012791,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 188065,
@@ -1769,14 +1817,6 @@
       "onboard_time": 1705977564,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183364,
-      "num": 183364,
-      "word": "杨幂哄娃式撸猫",
-      "onboard_time": 1706013152,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 183292,
@@ -1891,14 +1931,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 168884,
-      "num": 168884,
-      "word": "王者荣耀",
-      "onboard_time": 1706011229,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 168764,
       "num": 152294,
       "word": "勇敢的大学生先出洋相",
@@ -1947,6 +1979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167669,
+      "num": 167669,
+      "word": "祈今朝 双生禁忌骨科",
+      "onboard_time": 1706012610,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167608,
       "num": 167608,
       "word": "新疆此次地震主余型的可能性较大",
@@ -1969,14 +2009,6 @@
       "onboard_time": 1705997307,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165601,
-      "num": 165601,
-      "word": "祈今朝 双生禁忌骨科",
-      "onboard_time": 1706012610,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 164447,
@@ -2043,6 +2075,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 158338,
+      "num": 158338,
+      "word": "黄瀛子呸呸呸出个蒋",
+      "onboard_time": 1706013512,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157608,
       "num": 157608,
       "word": "曾经骂过的国足竟已是巅峰",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1706003731,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156587,
+      "num": 156587,
+      "word": "情侣酒店走光索要10倍赔偿",
+      "onboard_time": 1706013691,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154719,
@@ -2129,6 +2177,14 @@
       "onboard_time": 1706001932,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147423,
+      "num": 147423,
+      "word": "恋与深空",
+      "onboard_time": 1706013870,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 147010,
