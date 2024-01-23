@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706014241494,
+  "endTime": 1706016123480,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -3187,6 +3187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1254761,
+      "num": 1254761,
+      "word": "雷军 医美",
+      "onboard_time": 1706010931,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1252135,
       "num": 1252135,
       "word": "清华大学辟谣80%毕业生出国",
@@ -3257,14 +3265,6 @@
       "onboard_time": 1705120769,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1244473,
-      "num": 1244473,
-      "word": "雷军 医美",
-      "onboard_time": 1706010931,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 1242405,
@@ -6299,6 +6299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 870527,
+      "num": 870527,
+      "word": "雷东宝出轨",
+      "onboard_time": 1706013632,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 870334,
       "num": 870334,
       "word": "张颂文回复杨紫",
@@ -6969,6 +6977,14 @@
       "onboard_time": 1705144542,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 823128,
+      "num": 823128,
+      "word": "权志龙有超过2000首未发布的歌曲",
+      "onboard_time": 1706014532,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 822805,
@@ -9539,6 +9555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 689668,
+      "num": 689668,
+      "word": "C罗中国行比赛延期",
+      "onboard_time": 1706013691,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 689593,
       "num": 684101,
       "word": "腾讯游戏致歉",
@@ -10729,14 +10753,6 @@
       "onboard_time": 1705910670,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 637812,
-      "num": 637812,
-      "word": "C罗中国行比赛延期",
-      "onboard_time": 1706013691,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 637810,
@@ -20851,6 +20867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 360170,
+      "num": 318684,
+      "word": "王菊吐槽总被漂亮礼服尺码PUA",
+      "onboard_time": 1706014950,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360058,
       "num": 360058,
       "word": "警方通报女子驾车当街撞倒丈夫",
@@ -21017,6 +21041,14 @@
       "onboard_time": 1705972050,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357001,
+      "num": 288274,
+      "word": "有了男朋友好像失去了社交能力",
+      "onboard_time": 1706013812,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 356965,
@@ -21649,14 +21681,6 @@
       "onboard_time": 1705723467,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 341782,
-      "num": 341782,
-      "word": "雷东宝出轨",
-      "onboard_time": 1706013632,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 340926,
@@ -22817,6 +22841,14 @@
       "onboard_time": 1704332128,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320008,
+      "num": 320008,
+      "word": "国足无缘亚洲杯16强",
+      "onboard_time": 1706015973,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 319910,
@@ -24955,14 +24987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 288274,
-      "num": 288274,
-      "word": "有了男朋友好像失去了社交能力",
-      "onboard_time": 1706013812,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 288271,
       "num": 288271,
       "word": "李诚儒给宋亚轩的三个忠告",
@@ -25859,12 +25883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276808,
+      "num": 246668,
+      "word": "情侣酒店走光索要10倍赔偿",
+      "onboard_time": 1706013691,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276760,
       "num": 248083,
       "word": "新疆地震多趟列车运行受影响",
       "onboard_time": 1705973189,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276615,
+      "num": 240680,
+      "word": "入职第二天公司年会喜提大奖",
+      "onboard_time": 1706015251,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 276591,
@@ -26425,6 +26465,14 @@
       "onboard_time": 1704809375,
       "rank": 38,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 268828,
+      "num": 268828,
+      "word": "马伊琍大女儿近照",
+      "onboard_time": 1706015733,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 268721,
@@ -33163,6 +33211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 210253,
+      "num": 203955,
+      "word": "C罗中国行主办方全套退款",
+      "onboard_time": 1706015973,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210243,
       "num": 210243,
       "word": "粉笔模考 读不懂言语",
@@ -37691,6 +37747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190577,
+      "num": 190577,
+      "word": "张常宁复出第一分",
+      "onboard_time": 1706014591,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190502,
       "num": 190502,
       "word": "蔡少芬问孙千哈尔滨冰雕",
@@ -42171,6 +42235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171412,
+      "num": 171412,
+      "word": "盖浇饭是预制菜重灾区",
+      "onboard_time": 1706014892,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 171370,
       "num": 171370,
       "word": "尔滨失物招领遥遥领先",
@@ -42884,7 +42956,7 @@
     },
     {
       "raw_hot": 168473,
-      "num": 1025472,
+      "num": 1043153,
       "word": "地震时客运员第一反应疏散旅客",
       "onboard_time": 1705973369,
       "rank": 35,
@@ -43105,6 +43177,14 @@
       "onboard_time": 1705739245,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167568,
+      "num": 167568,
+      "word": "王者或参与沙特电竞世界杯",
+      "onboard_time": 1706015132,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 167550,
@@ -43545,6 +43625,14 @@
       "onboard_time": 1704858154,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165732,
+      "num": 165732,
+      "word": "沙特电竞世界杯项目名单",
+      "onboard_time": 1706015372,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 165727,
@@ -44393,6 +44481,14 @@
       "onboard_time": 1704937349,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161705,
+      "num": 161705,
+      "word": "要久久爱 剪辑",
+      "onboard_time": 1706014532,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 161673,
@@ -45609,14 +45705,6 @@
       "onboard_time": 1704585201,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156587,
-      "num": 156587,
-      "word": "情侣酒店走光索要10倍赔偿",
-      "onboard_time": 1706013691,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156557,
@@ -49475,6 +49563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141611,
+      "num": 141611,
+      "word": "大家早恋是怎么被父母发现的",
+      "onboard_time": 1706015251,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141603,
       "num": 141603,
       "word": "星痕 KSG",
@@ -52819,6 +52915,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 128582,
+      "num": 128582,
+      "word": "每天练一分钟拥有挺拔身姿",
+      "onboard_time": 1706015251,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 128570,
       "num": 128570,
       "word": "韩剧京城怪物",
@@ -54425,6 +54529,14 @@
       "onboard_time": 1705728927,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122755,
+      "num": 122755,
+      "word": "张小斐短发",
+      "onboard_time": 1706016092,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 122741,

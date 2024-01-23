@@ -1,0 +1,410 @@
+{
+  "runTime": 1706016123480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1316123,
+        "num": 1316123,
+        "word": "李湘宣布退休后又复工",
+        "onboard_time": 1706009851,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1254761,
+        "num": 1254761,
+        "word": "雷军 医美",
+        "onboard_time": 1706010931,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20787,
+        "num": 1043153,
+        "word": "地震时客运员第一反应疏散旅客",
+        "onboard_time": 1705973369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960302,
+        "num": 960302,
+        "word": "辛芷蕾穿了顶级高定",
+        "onboard_time": 1706010692,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 870527,
+        "num": 870527,
+        "word": "雷东宝出轨",
+        "onboard_time": 1706013632,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 823128,
+        "num": 823128,
+        "word": "权志龙有超过2000首未发布的歌曲",
+        "onboard_time": 1706014532,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 774200,
+        "num": 774200,
+        "word": "6寸蛋糕用5斤车厘子店家道歉",
+        "onboard_time": 1706004511,
+        "rank": 6,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 689668,
+        "num": 689668,
+        "word": "C罗中国行比赛延期",
+        "onboard_time": 1706013691,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 481189,
+        "num": 481189,
+        "word": "papi酱 无法工作的理由",
+        "onboard_time": 1706008409,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 320008,
+        "num": 320008,
+        "word": "国足无缘亚洲杯16强",
+        "onboard_time": 1706015973,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1657128,
+        "num": 319739,
+        "word": "私密整形一夜爆火",
+        "onboard_time": 1706009611,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 376567,
+        "num": 319237,
+        "word": "一下子得罪四个人",
+        "onboard_time": 1705994308,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360170,
+        "num": 318684,
+        "word": "王菊吐槽总被漂亮礼服尺码PUA",
+        "onboard_time": 1706014950,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342999,
+        "num": 318123,
+        "word": "权珉娥ins发疤痕照",
+        "onboard_time": 1706012791,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317804,
+        "num": 317804,
+        "word": "新疆7.1级地震已致3死5伤",
+        "onboard_time": 1706009311,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308354,
+        "num": 308354,
+        "word": "C罗出席赛前发布会",
+        "onboard_time": 1706010391,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293826,
+        "num": 293826,
+        "word": "订婚强奸案当事男子母亲将为儿辩护",
+        "onboard_time": 1706007570,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278306,
+        "num": 278306,
+        "word": "C罗 踢不踢",
+        "onboard_time": 1706001690,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268828,
+        "num": 268828,
+        "word": "马伊琍大女儿近照",
+        "onboard_time": 1706015733,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256883,
+        "num": 256883,
+        "word": "赵丽颖发文支持电影版花千骨",
+        "onboard_time": 1706006610,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 357001,
+        "num": 252690,
+        "word": "有了男朋友好像失去了社交能力",
+        "onboard_time": 1706013812,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288803,
+        "num": 251931,
+        "word": "日本一男子性侵多名2岁以下女婴",
+        "onboard_time": 1705999229,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276808,
+        "num": 246668,
+        "word": "情侣酒店走光索要10倍赔偿",
+        "onboard_time": 1706013691,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276615,
+        "num": 240680,
+        "word": "入职第二天公司年会喜提大奖",
+        "onboard_time": 1706015251,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238760,
+        "num": 238760,
+        "word": "韩剧 中国白瓷",
+        "onboard_time": 1706006011,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237646,
+        "num": 237646,
+        "word": "京东被曝重返央视春晚",
+        "onboard_time": 1706009851,
+        "rank": 25,
+        "category": "互联网,综艺"
+      },
+      {
+        "raw_hot": 231488,
+        "num": 231488,
+        "word": "秦岚卷发",
+        "onboard_time": 1706013271,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221715,
+        "num": 221715,
+        "word": "女子在ATM机房避寒10分钟被银行喊话",
+        "onboard_time": 1706003607,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206886,
+        "num": 206886,
+        "word": "腾讯64.2亿海淀拿地",
+        "onboard_time": 1706005408,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205097,
+        "num": 205097,
+        "word": "王者荣耀",
+        "onboard_time": 1706011229,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210253,
+        "num": 203955,
+        "word": "C罗中国行主办方全套退款",
+        "onboard_time": 1706015973,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201874,
+        "num": 201874,
+        "word": "新疆乌什地震新闻发布会",
+        "onboard_time": 1706011890,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190577,
+        "num": 190577,
+        "word": "张常宁复出第一分",
+        "onboard_time": 1706014591,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189456,
+        "num": 189456,
+        "word": "杨幂哄娃式撸猫",
+        "onboard_time": 1706013152,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185744,
+        "num": 185744,
+        "word": "吴京的腿怎么了",
+        "onboard_time": 1706006670,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172799,
+        "num": 172799,
+        "word": "非诚勿扰宝马女起诉离婚",
+        "onboard_time": 1705998211,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171412,
+        "num": 171412,
+        "word": "盖浇饭是预制菜重灾区",
+        "onboard_time": 1706014892,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169101,
+        "num": 169101,
+        "word": "顾时夜糙汉",
+        "onboard_time": 1706011355,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167568,
+        "num": 167568,
+        "word": "王者或参与沙特电竞世界杯",
+        "onboard_time": 1706015132,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165732,
+        "num": 165732,
+        "word": "沙特电竞世界杯项目名单",
+        "onboard_time": 1706015372,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162923,
+        "num": 162923,
+        "word": "月嫂下户后还在朋友圈发我家的照片",
+        "onboard_time": 1706002590,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161705,
+        "num": 161705,
+        "word": "要久久爱 剪辑",
+        "onboard_time": 1706014532,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158065,
+        "num": 158065,
+        "word": "七千五的工作和考研怎么选",
+        "onboard_time": 1706009192,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153451,
+        "num": 153451,
+        "word": "成毅王权富贵高清正脸照",
+        "onboard_time": 1706009192,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150181,
+        "num": 150181,
+        "word": "突然意识到妈妈需要我照顾了",
+        "onboard_time": 1706012014,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141611,
+        "num": 141611,
+        "word": "大家早恋是怎么被父母发现的",
+        "onboard_time": 1706015251,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128582,
+        "num": 128582,
+        "word": "每天练一分钟拥有挺拔身姿",
+        "onboard_time": 1706015251,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 122755,
+        "num": 122755,
+        "word": "张小斐短发",
+        "onboard_time": 1706016092,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122511,
+        "num": 122511,
+        "word": "祈今朝 双生禁忌骨科",
+        "onboard_time": 1706012610,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122123,
+        "num": 122123,
+        "word": "拉夏贝尔总部基地9.5亿元起拍",
+        "onboard_time": 1706010150,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对云南山体滑坡作出重要指示#"
+    }
+  }
+}

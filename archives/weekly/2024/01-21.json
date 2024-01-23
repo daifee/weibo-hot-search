@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706014241494,
+  "endTime": 1706016123480,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -283,20 +283,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1254761,
+      "num": 1254761,
+      "word": "雷军 医美",
+      "onboard_time": 1706010931,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1250497,
       "num": 1250497,
       "word": "今年的龙是不是兔子改的",
       "onboard_time": 1705990824,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1244473,
-      "num": 1244473,
-      "word": "雷军 医美",
-      "onboard_time": 1706010931,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 1230180,
@@ -651,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 870527,
+      "num": 870527,
+      "word": "雷东宝出轨",
+      "onboard_time": 1706013632,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 870204,
       "num": 870204,
       "word": "龙年央视春晚第二次联排",
@@ -705,6 +713,14 @@
       "onboard_time": 1705914024,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 823128,
+      "num": 823128,
+      "word": "权志龙有超过2000首未发布的歌曲",
+      "onboard_time": 1706014532,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 822805,
@@ -1003,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689668,
+      "num": 689668,
+      "word": "C罗中国行比赛延期",
+      "onboard_time": 1706013691,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 686350,
       "num": 686350,
       "word": "不愿意请男朋友吃1000块的日料",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1705910670,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 637812,
-      "num": 637812,
-      "word": "C罗中国行比赛延期",
-      "onboard_time": 1706013691,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 635627,
@@ -2435,6 +2451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 360170,
+      "num": 318684,
+      "word": "王菊吐槽总被漂亮礼服尺码PUA",
+      "onboard_time": 1706014950,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359269,
       "num": 359269,
       "word": "桂林下雪",
@@ -2465,6 +2489,14 @@
       "onboard_time": 1705972050,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357001,
+      "num": 288274,
+      "word": "有了男朋友好像失去了社交能力",
+      "onboard_time": 1706013812,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 356082,
@@ -2617,14 +2649,6 @@
       "onboard_time": 1705894947,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341782,
-      "num": 341782,
-      "word": "雷东宝出轨",
-      "onboard_time": 1706013632,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 339636,
@@ -2785,6 +2809,14 @@
       "onboard_time": 1705998749,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 320008,
+      "num": 320008,
+      "word": "国足无缘亚洲杯16强",
+      "onboard_time": 1706015973,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 319708,
@@ -3027,14 +3059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 288274,
-      "num": 288274,
-      "word": "有了男朋友好像失去了社交能力",
-      "onboard_time": 1706013812,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 287874,
       "num": 287874,
       "word": "厌冬症",
@@ -3211,12 +3235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276808,
+      "num": 246668,
+      "word": "情侣酒店走光索要10倍赔偿",
+      "onboard_time": 1706013691,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276760,
       "num": 248083,
       "word": "新疆地震多趟列车运行受影响",
       "onboard_time": 1705973189,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276615,
+      "num": 240680,
+      "word": "入职第二天公司年会喜提大奖",
+      "onboard_time": 1706015251,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 276402,
@@ -3305,6 +3345,14 @@
       "onboard_time": 1706000550,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268828,
+      "num": 268828,
+      "word": "马伊琍大女儿近照",
+      "onboard_time": 1706015733,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 267654,
@@ -4195,6 +4243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210253,
+      "num": 203955,
+      "word": "C罗中国行主办方全套退款",
+      "onboard_time": 1706015973,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210243,
       "num": 210243,
       "word": "粉笔模考 读不懂言语",
@@ -4337,6 +4393,14 @@
       "onboard_time": 1705827025,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205097,
+      "num": 205097,
+      "word": "王者荣耀",
+      "onboard_time": 1706011229,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 204952,
@@ -4577,14 +4641,6 @@
       "onboard_time": 1705843229,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199170,
-      "num": 199170,
-      "word": "王者荣耀",
-      "onboard_time": 1706011229,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 198801,
@@ -4881,6 +4937,14 @@
       "onboard_time": 1705910729,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190577,
+      "num": 190577,
+      "word": "张常宁复出第一分",
+      "onboard_time": 1706014591,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 190497,
@@ -5467,6 +5531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171412,
+      "num": 171412,
+      "word": "盖浇饭是预制菜重灾区",
+      "onboard_time": 1706014892,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 171093,
       "num": 165673,
       "word": "李九以诗致敬动画李白",
@@ -5580,7 +5652,7 @@
     },
     {
       "raw_hot": 168473,
-      "num": 1025472,
+      "num": 1043153,
       "word": "地震时客运员第一反应疏散旅客",
       "onboard_time": 1705973369,
       "rank": 35,
@@ -5643,6 +5715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167568,
+      "num": 167568,
+      "word": "王者或参与沙特电竞世界杯",
+      "onboard_time": 1706015132,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166858,
       "num": 166858,
       "word": "外媒指控幻兽帕鲁虐待动物",
@@ -5689,6 +5769,14 @@
       "onboard_time": 1705830565,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 165732,
+      "num": 165732,
+      "word": "沙特电竞世界杯项目名单",
+      "onboard_time": 1706015372,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 165670,
@@ -5841,6 +5929,14 @@
       "onboard_time": 1705911986,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161705,
+      "num": 161705,
+      "word": "要久久爱 剪辑",
+      "onboard_time": 1706014532,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 161294,
@@ -6025,14 +6121,6 @@
       "onboard_time": 1705893686,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156587,
-      "num": 156587,
-      "word": "情侣酒店走光索要10倍赔偿",
-      "onboard_time": 1706013691,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156413,
@@ -6611,6 +6699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141611,
+      "num": 141611,
+      "word": "大家早恋是怎么被父母发现的",
+      "onboard_time": 1706015251,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141565,
       "num": 141565,
       "word": "苏醒小号回应扯面",
@@ -7171,6 +7267,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 128582,
+      "num": 128582,
+      "word": "每天练一分钟拥有挺拔身姿",
+      "onboard_time": 1706015251,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 128518,
       "num": 128518,
       "word": "三哥你就宠她吧",
@@ -7345,6 +7449,14 @@
       "onboard_time": 1705833687,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122755,
+      "num": 122755,
+      "word": "张小斐短发",
+      "onboard_time": 1706016092,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121918,
