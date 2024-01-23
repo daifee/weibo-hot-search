@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706027038365,
+  "endTime": 1706028060540,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -12611,6 +12611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572606,
+      "num": 572606,
+      "word": "211硕士回应入职不到半年被裁",
+      "onboard_time": 1706025271,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572329,
       "num": 572329,
       "word": "清华特奖双胞胎姐妹回国任教都是博导",
@@ -16961,14 +16969,6 @@
       "onboard_time": 1704535713,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 451763,
-      "num": 351654,
-      "word": "211硕士回应入职不到半年被裁",
-      "onboard_time": 1706025271,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 451702,
@@ -21536,6 +21536,14 @@
       "word": "阿佘 历史话我想你了",
       "onboard_time": 1705242695,
       "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 349469,
+      "num": 349469,
+      "word": "TFBOYS坐房顶干嘛",
+      "onboard_time": 1706026528,
+      "rank": 17,
       "category": "作品衍生"
     },
     {
@@ -30105,14 +30113,6 @@
       "onboard_time": 1704162339,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235114,
-      "num": 235114,
-      "word": "TFBOYS坐房顶干嘛",
-      "onboard_time": 1706026528,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 235106,
@@ -58913,6 +58913,14 @@
       "onboard_time": 1704929123,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99232,
+      "num": 99232,
+      "word": "MBC向Minji道歉",
+      "onboard_time": 1706027967,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 98998,
