@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706030195464,
+  "endTime": 1706031253666,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -62635,6 +62635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 41522,
+      "num": 41522,
+      "word": "庞博不愧是有三行代码在太空的",
+      "onboard_time": 1706030122,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41493,
       "num": 52048,
       "word": "一心只想吃席的弟弟",
@@ -62857,14 +62865,6 @@
       "onboard_time": 1706003791,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 38916,
-      "num": 38916,
-      "word": "庞博不愧是有三行代码在太空的",
-      "onboard_time": 1706030122,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 38909,
