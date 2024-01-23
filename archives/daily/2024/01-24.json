@@ -1,6 +1,6 @@
 {
   "startTime": 1706027038365,
-  "endTime": 1706048249451,
+  "endTime": 1706049333382,
   "band_list": [
     {
       "raw_hot": 1053358,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90053,
+      "num": 90053,
+      "word": "马诺称闪婚后半年被家暴7次",
+      "onboard_time": 1706031678,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 88535,
       "num": 88535,
       "word": "C罗中国行主办方全套退款",
@@ -339,11 +347,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85353,
+      "num": 85353,
+      "word": "但凡有高中文化也不会这么编",
+      "onboard_time": 1706038936,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 82050,
       "num": 82050,
       "word": "国航工作人员疏忽致飞机起落架无法收回",
       "onboard_time": 1706016453,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81095,
+      "num": 78518,
+      "word": "售楼处回应保安被指穿衣少瑟瑟发抖",
+      "onboard_time": 1706042894,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -387,14 +411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 65737,
-      "num": 65737,
-      "word": "马诺称闪婚后半年被家暴7次",
-      "onboard_time": 1706031678,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 64663,
       "num": 64663,
       "word": "活该你有这么多男朋友",
@@ -411,12 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61490,
-      "num": 61490,
-      "word": "但凡有高中文化也不会这么编",
-      "onboard_time": 1706038936,
-      "rank": 14,
-      "category": "作品衍生"
+      "raw_hot": 62772,
+      "num": 62772,
+      "word": "委员建议中小学设副班主任",
+      "onboard_time": 1706044276,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 60692,
@@ -427,20 +443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53720,
-      "num": 20505,
-      "word": "售楼处回应保安被指穿衣少瑟瑟发抖",
-      "onboard_time": 1706042894,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48770,
       "num": 48770,
       "word": "权珉娥ins发疤痕照",
       "onboard_time": 1706012791,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48281,
+      "num": 27763,
+      "word": "小孩姐 人家要摸你你不要不识好歹",
+      "onboard_time": 1706040617,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 43773,
@@ -459,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38022,
-      "num": 38022,
-      "word": "委员建议中小学设副班主任",
-      "onboard_time": 1706044276,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 35592,
       "num": 35592,
       "word": "恋与深空 祁煜cos",
@@ -481,14 +489,6 @@
       "onboard_time": 1706031558,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 32713,
-      "num": 20443,
-      "word": "小孩姐 人家要摸你你不要不识好歹",
-      "onboard_time": 1706040617,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 27101,
@@ -507,8 +507,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12941,
-      "num": 15024,
+      "raw_hot": 15968,
+      "num": 19389,
       "word": "南方下雪有多出片",
       "onboard_time": 1706044575,
       "rank": 49,
