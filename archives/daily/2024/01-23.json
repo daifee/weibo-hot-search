@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705977190677,
+  "endTime": 1705977833630,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -27,6 +27,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1208685,
+      "num": 1208685,
+      "word": "新疆地震男子裹被子从5楼箭步逃生",
+      "onboard_time": 1705973129,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1116327,
       "num": 1116327,
       "word": "发现我妈也在偷偷装大人",
@@ -35,20 +43,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1047295,
-      "num": 1047295,
-      "word": "新疆地震男子裹被子从5楼箭步逃生",
-      "onboard_time": 1705973129,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 986062,
       "num": 986062,
       "word": "武磊承认中国足球令人失望",
       "onboard_time": 1705970730,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 964191,
+      "num": 964191,
+      "word": "哈尔滨回应20元羊汤只有5片肉卷",
+      "onboard_time": 1705975587,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 810799,
@@ -67,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 775272,
+      "num": 775272,
+      "word": "上班后才知道妈妈把我养得多好",
+      "onboard_time": 1705974686,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 725469,
       "num": 725469,
       "word": "新疆地震",
       "onboard_time": 1705949355,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 723216,
-      "num": 723216,
-      "word": "上班后才知道妈妈把我养得多好",
-      "onboard_time": 1705974686,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 718774,
@@ -104,14 +112,6 @@
       "word": "唐山打人案属地公安原局长获刑12年",
       "onboard_time": 1705918345,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 669463,
-      "num": 669463,
-      "word": "哈尔滨回应20元羊汤只有5片肉卷",
-      "onboard_time": 1705975587,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -161,6 +161,14 @@
       "onboard_time": 1705969168,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 503200,
+      "num": 503200,
+      "word": "韩素希叼笔盖",
+      "onboard_time": 1705976188,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 490958,
@@ -227,12 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434696,
+      "raw_hot": 445983,
       "num": 430434,
       "word": "A股超百股跌停",
       "onboard_time": 1705974390,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 428368,
+      "num": 428368,
+      "word": "成都下雪",
+      "onboard_time": 1705975646,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424336,
@@ -243,20 +259,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 424073,
+      "num": 424073,
+      "word": "苏打绿 抢票",
+      "onboard_time": 1705976426,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 411152,
       "num": 246346,
       "word": "原来被辞退前都是有征兆的",
       "onboard_time": 1705968265,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 405599,
-      "num": 405599,
-      "word": "成都下雪",
-      "onboard_time": 1705975646,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403344,
@@ -307,14 +323,6 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 366889,
-      "num": 366889,
-      "word": "韩素希叼笔盖",
-      "onboard_time": 1705976188,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 357066,
       "num": 357066,
       "word": "C罗 银耳雪梨汤",
@@ -347,12 +355,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 342127,
-      "num": 342127,
-      "word": "苏打绿 抢票",
-      "onboard_time": 1705976426,
-      "rank": 15,
-      "category": "演出"
+      "raw_hot": 342550,
+      "num": 342550,
+      "word": "苹果回应手机壳指蟒为龙",
+      "onboard_time": 1705976846,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 342126,
@@ -451,6 +459,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 249725,
+      "num": 249725,
+      "word": "龙年的龙味越来越足了",
+      "onboard_time": 1705976365,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 248668,
       "num": 248668,
       "word": "新疆乌什县又发生5.2级地震",
@@ -473,6 +489,22 @@
       "onboard_time": 1705921947,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 241567,
+      "num": 241567,
+      "word": "英雄联盟开发商裁员11%",
+      "onboard_time": 1705976606,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 238120,
+      "num": 238120,
+      "word": "光夜 萧逸战损",
+      "onboard_time": 1705977146,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 232309,
@@ -499,6 +531,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219115,
+      "num": 193508,
+      "word": "光夜 齐司礼神衹转世",
+      "onboard_time": 1705977146,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 212634,
+      "num": 212634,
+      "word": "国安部揭一起境外间谍情报机关围猎套路",
+      "onboard_time": 1705975287,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210338,
       "num": 210338,
       "word": "陈若华未婚夫习惯性出轨",
@@ -507,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207550,
-      "num": 207550,
-      "word": "苹果回应手机壳指蟒为龙",
-      "onboard_time": 1705976846,
-      "rank": 24,
-      "category": "数码"
+      "raw_hot": 209308,
+      "num": 209308,
+      "word": "光夜 异邦君主查理苏",
+      "onboard_time": 1705977208,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 207260,
@@ -521,14 +569,6 @@
       "onboard_time": 1705900165,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202038,
-      "num": 202038,
-      "word": "国安部揭一起境外间谍情报机关围猎套路",
-      "onboard_time": 1705975287,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201171,
@@ -547,20 +587,20 @@
       "category": "作品衍生,体育"
     },
     {
-      "raw_hot": 192939,
-      "num": 192939,
+      "raw_hot": 197805,
+      "num": 197805,
       "word": "国足主帅扬科维奇或将下课",
       "onboard_time": 1705974989,
       "rank": 27,
       "category": "体育"
     },
     {
-      "raw_hot": 190808,
-      "num": 190808,
-      "word": "英雄联盟开发商裁员11%",
-      "onboard_time": 1705976606,
-      "rank": 29,
-      "category": "游戏"
+      "raw_hot": 193720,
+      "num": 193720,
+      "word": "iOS17.3正式版新增被盗设备保护功能",
+      "onboard_time": 1705976905,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 187482,
@@ -569,14 +609,6 @@
       "onboard_time": 1705930827,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186350,
-      "num": 186350,
-      "word": "龙年的龙味越来越足了",
-      "onboard_time": 1705976365,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 186201,
@@ -611,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183420,
+      "num": 183420,
+      "word": "光夜",
+      "onboard_time": 1705977564,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183292,
       "num": 183292,
       "word": "EDG太猛了",
@@ -625,14 +665,6 @@
       "onboard_time": 1705943122,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173571,
-      "num": 173571,
-      "word": "光夜 萧逸战损",
-      "onboard_time": 1705977146,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 171878,
@@ -691,12 +723,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 149563,
-      "num": 149563,
-      "word": "iOS17.3正式版新增被盗设备保护功能",
-      "onboard_time": 1705976905,
-      "rank": 38,
-      "category": "数码"
+      "raw_hot": 151345,
+      "num": 151345,
+      "word": "唐斯半场44分",
+      "onboard_time": 1705977564,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 146338,
@@ -747,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134487,
+      "num": 134487,
+      "word": "恋爱的90天定律",
+      "onboard_time": 1705977686,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132045,
       "num": 132045,
       "word": "减肥动力喂到嘴边了",
@@ -784,14 +824,6 @@
       "word": "阴阳师 姑姑好伟大的脸",
       "onboard_time": 1705929149,
       "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 122449,
-      "num": 122449,
-      "word": "光夜 齐司礼神衹转世",
-      "onboard_time": 1705977146,
-      "rank": 48,
       "category": "游戏"
     },
     {
@@ -1028,7 +1060,7 @@
     },
     {
       "raw_hot": 68541,
-      "num": 124654,
+      "num": 156725,
       "word": "脆皮中年新春补点啥",
       "onboard_time": 1705977086,
       "rank": 47,

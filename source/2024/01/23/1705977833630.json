@@ -1,0 +1,410 @@
+{
+  "runTime": 1705977833630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1441042,
+        "num": 1441042,
+        "word": "新疆乌什县7.1级地震",
+        "onboard_time": 1705948695,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1208685,
+        "num": 1208685,
+        "word": "新疆地震男子裹被子从5楼箭步逃生",
+        "onboard_time": 1705973129,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28126,
+        "num": 1017606,
+        "word": "国字号重器硬核展示中国制造实力",
+        "onboard_time": 1705928249,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964191,
+        "num": 964191,
+        "word": "哈尔滨回应20元羊汤只有5片肉卷",
+        "onboard_time": 1705975587,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775272,
+        "num": 775272,
+        "word": "上班后才知道妈妈把我养得多好",
+        "onboard_time": 1705974686,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 760754,
+        "num": 760754,
+        "word": "发现我妈也在偷偷装大人",
+        "onboard_time": 1705966340,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 566190,
+        "num": 566190,
+        "word": "武磊承认中国足球令人失望",
+        "onboard_time": 1705970730,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530396,
+        "num": 530396,
+        "word": "苹果龙年手机壳被吐槽指蟒为龙",
+        "onboard_time": 1705968625,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 503200,
+        "num": 503200,
+        "word": "韩素希叼笔盖",
+        "onboard_time": 1705976188,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 428368,
+        "num": 428368,
+        "word": "成都下雪",
+        "onboard_time": 1705975646,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445983,
+        "num": 426746,
+        "word": "A股超百股跌停",
+        "onboard_time": 1705974390,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 425050,
+        "num": 425050,
+        "word": "杨幂粉色新中式棉服",
+        "onboard_time": 1705969168,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 424073,
+        "num": 424073,
+        "word": "苏打绿 抢票",
+        "onboard_time": 1705976426,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 401256,
+        "num": 401256,
+        "word": "苹果已付清12亿卢布反垄断罚款",
+        "onboard_time": 1705970849,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 395399,
+        "num": 395399,
+        "word": "老干妈回应被辛巴称为是预制菜",
+        "onboard_time": 1705933050,
+        "rank": 14,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 342550,
+        "num": 342550,
+        "word": "苹果回应手机壳指蟒为龙",
+        "onboard_time": 1705976846,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 317013,
+        "num": 317013,
+        "word": "这道菜能不能灭了整个东三省",
+        "onboard_time": 1705967005,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278780,
+        "num": 278780,
+        "word": "冬天养狗人的底线越来越低了",
+        "onboard_time": 1705973189,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249725,
+        "num": 249725,
+        "word": "龙年的龙味越来越足了",
+        "onboard_time": 1705976365,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241567,
+        "num": 241567,
+        "word": "英雄联盟开发商裁员11%",
+        "onboard_time": 1705976606,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 398296,
+        "num": 240591,
+        "word": "茅台瑞幸联名为何不火了",
+        "onboard_time": 1705972710,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 238120,
+        "num": 238120,
+        "word": "光夜 萧逸战损",
+        "onboard_time": 1705977146,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230006,
+        "num": 230006,
+        "word": "点外卖误把老板备注成了老爸",
+        "onboard_time": 1705973609,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225834,
+        "num": 225834,
+        "word": "新疆地震多趟列车运行受影响",
+        "onboard_time": 1705973189,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217037,
+        "num": 217037,
+        "word": "6只狗仔被人掰断腿骨头裸露在外",
+        "onboard_time": 1705947735,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212634,
+        "num": 212634,
+        "word": "国安部揭一起境外间谍情报机关围猎套路",
+        "onboard_time": 1705975287,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209369,
+        "num": 209369,
+        "word": "萧逸卡面",
+        "onboard_time": 1705975170,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209308,
+        "num": 209308,
+        "word": "光夜 异邦君主查理苏",
+        "onboard_time": 1705977208,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197805,
+        "num": 197805,
+        "word": "国足主帅扬科维奇或将下课",
+        "onboard_time": 1705974989,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193720,
+        "num": 193720,
+        "word": "iOS17.3正式版新增被盗设备保护功能",
+        "onboard_time": 1705976905,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 219115,
+        "num": 193508,
+        "word": "光夜 齐司礼神衹转世",
+        "onboard_time": 1705977146,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192742,
+        "num": 192742,
+        "word": "光与夜之恋",
+        "onboard_time": 1705972829,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190516,
+        "num": 190516,
+        "word": "没盖杯盖的隔夜水别喝",
+        "onboard_time": 1705966340,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189900,
+        "num": 189900,
+        "word": "齐司礼玉佩",
+        "onboard_time": 1705973307,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183420,
+        "num": 183420,
+        "word": "光夜",
+        "onboard_time": 1705977564,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181381,
+        "num": 181381,
+        "word": "邓为刚化形的小雪狐",
+        "onboard_time": 1705970550,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169024,
+        "num": 169024,
+        "word": "这一次竹马战胜了天降",
+        "onboard_time": 1705948216,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167212,
+        "num": 167212,
+        "word": "C罗 银耳雪梨汤",
+        "onboard_time": 1705972050,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158620,
+        "num": 158620,
+        "word": "要久久爱 飞榜",
+        "onboard_time": 1705931608,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157385,
+        "num": 157385,
+        "word": "原来被辞退前都是有征兆的",
+        "onboard_time": 1705968265,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55975,
+        "num": 156725,
+        "word": "脆皮中年新春补点啥",
+        "onboard_time": 1705977086,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156225,
+        "num": 156225,
+        "word": "新疆乌什县又发生5.2级地震",
+        "onboard_time": 1705973010,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151345,
+        "num": 151345,
+        "word": "唐斯半场44分",
+        "onboard_time": 1705977564,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142535,
+        "num": 142535,
+        "word": "看似包装普通却好吃的特产年货",
+        "onboard_time": 1705976365,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141975,
+        "num": 141975,
+        "word": "樱桃姐退坑",
+        "onboard_time": 1705969407,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139305,
+        "num": 139305,
+        "word": "为什么每次洗澡身上都有泥可搓",
+        "onboard_time": 1705937666,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 137030,
+        "num": 137030,
+        "word": "警惕妇癌之王卵巢癌这些信号别忽视",
+        "onboard_time": 1705948634,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134487,
+        "num": 134487,
+        "word": "恋爱的90天定律",
+        "onboard_time": 1705977686,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125418,
+        "num": 125418,
+        "word": "陈若华未婚夫习惯性出轨",
+        "onboard_time": 1705971627,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124331,
+        "num": 124331,
+        "word": "韦世豪 确实是我们踢得太臭了",
+        "onboard_time": 1705969710,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#3820战略工程蕴含怎样的魄力和精神#"
+    }
+  }
+}
