@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706023150403,
+  "endTime": 1706024087451,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -1299,6 +1299,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 603403,
+      "num": 603403,
+      "word": "湖南暴雪已致1万多人受灾",
+      "onboard_time": 1706020412,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597202,
+      "num": 597202,
+      "word": "赛琳娜回应身材变化争议",
+      "onboard_time": 1706020596,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 593514,
       "num": 593514,
       "word": "赵丽颖演出了苦难无声却震耳欲聋",
@@ -1347,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581057,
+      "num": 581057,
+      "word": "华中农大被举报导师上课用视频敷衍",
+      "onboard_time": 1706020473,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580381,
       "num": 580381,
       "word": "苹果龙年手机壳",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1705947735,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577978,
+      "num": 577978,
+      "word": "IU新歌",
+      "onboard_time": 1706021975,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 577684,
@@ -1633,14 +1665,6 @@
       "onboard_time": 1706016453,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507942,
-      "num": 507942,
-      "word": "IU新歌",
-      "onboard_time": 1706021975,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 507366,
@@ -1979,14 +2003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 446593,
-      "num": 446593,
-      "word": "赛琳娜回应身材变化争议",
-      "onboard_time": 1706020596,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 446463,
       "num": 446463,
       "word": "阿莫西林只对6种病症有效",
@@ -2161,14 +2177,6 @@
       "onboard_time": 1705995629,
       "rank": 10,
       "category": "财经"
-    },
-    {
-      "raw_hot": 417243,
-      "num": 417243,
-      "word": "华中农大被举报导师上课用视频敷衍",
-      "onboard_time": 1706020473,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 416799,
@@ -2363,14 +2371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 396196,
-      "num": 396196,
-      "word": "湖南暴雪已致1万多人受灾",
-      "onboard_time": 1706020412,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 393624,
       "num": 200166,
       "word": "冠磊",
@@ -2411,6 +2411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 391368,
+      "num": 391368,
+      "word": "成都好大的雪",
+      "onboard_time": 1706020232,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389418,
       "num": 389418,
       "word": "吃辣时流鼻涕 味觉性鼻炎",
@@ -2449,6 +2457,14 @@
       "onboard_time": 1705986090,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 384692,
+      "num": 384692,
+      "word": "一脚淘汰30亿人",
+      "onboard_time": 1706019454,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 384015,
@@ -2616,14 +2632,6 @@
       "word": "湖人交易",
       "onboard_time": 1705936049,
       "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 357492,
-      "num": 357492,
-      "word": "一脚淘汰30亿人",
-      "onboard_time": 1706019454,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -2920,14 +2928,6 @@
       "word": "美国房主新买二手房冰柜里有颗人头",
       "onboard_time": 1705851507,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325055,
-      "num": 325055,
-      "word": "成都好大的雪",
-      "onboard_time": 1706020232,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -3691,6 +3691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254243,
+      "num": 249386,
+      "word": "竟然被一条狗帅到了",
+      "onboard_time": 1706022811,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254216,
       "num": 254216,
       "word": "2024奥斯卡提名",
@@ -3795,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248491,
+      "num": 248491,
+      "word": "A股已具备熊市末期尾部特征",
+      "onboard_time": 1706021674,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 248257,
       "num": 248257,
       "word": "白鹿下雪给粉丝送豆浆",
@@ -3867,6 +3883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 244388,
+      "num": 244388,
+      "word": "宁拆一座庙必毁这桩婚",
+      "onboard_time": 1706022995,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244150,
       "num": 244150,
       "word": "云南山体滑坡已有8人遇难",
@@ -3889,6 +3913,14 @@
       "onboard_time": 1706001813,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242527,
+      "num": 242527,
+      "word": "奶奶学会微信只为了给我转账",
+      "onboard_time": 1706022753,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 242357,
@@ -4035,14 +4067,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 232438,
-      "num": 232438,
-      "word": "A股已具备熊市末期尾部特征",
-      "onboard_time": 1706021674,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 232309,
       "num": 232309,
       "word": "小黄豆 顾茜茜",
@@ -4105,14 +4129,6 @@
       "onboard_time": 1705814608,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228332,
-      "num": 228332,
-      "word": "竟然被一条狗帅到了",
-      "onboard_time": 1706022811,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 228202,
@@ -4352,14 +4368,6 @@
       "word": "牙膏用没了先别着急扔",
       "onboard_time": 1705840108,
       "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 214270,
-      "num": 189192,
-      "word": "奶奶学会微信只为了给我转账",
-      "onboard_time": 1706022753,
-      "rank": 30,
       "category": "幽默"
     },
     {
@@ -5331,6 +5339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185541,
+      "num": 185541,
+      "word": "有这4个特质的人不易得癌",
+      "onboard_time": 1706022811,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 185501,
       "num": 185501,
       "word": "0713又凑到一起干嘛呢",
@@ -5529,14 +5545,6 @@
       "onboard_time": 1705838667,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179376,
-      "num": 179376,
-      "word": "有这4个特质的人不易得癌",
-      "onboard_time": 1706022811,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 179321,
@@ -7171,6 +7179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137341,
+      "num": 137341,
+      "word": "法医秦明之偷窥者",
+      "onboard_time": 1706023290,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 137138,
       "num": 137138,
       "word": "Meiko回应Clearlove",
@@ -7241,14 +7257,6 @@
       "onboard_time": 1705899329,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134776,
-      "num": 134776,
-      "word": "宁拆一座庙必毁这桩婚",
-      "onboard_time": 1706022995,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 134751,
@@ -7963,6 +7971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115669,
+      "num": 115669,
+      "word": "藏在巷子里的红烧牛肉面",
+      "onboard_time": 1706023651,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 115652,
       "num": 115652,
       "word": "赵昭仪白色蕾丝裙",
@@ -8073,6 +8089,14 @@
       "onboard_time": 1705995090,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112476,
+      "num": 112476,
+      "word": "萨摩耶被训耳朵消失变海豹",
+      "onboard_time": 1706023710,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 112473,
@@ -9083,7 +9107,7 @@
       "category": "音乐,电竞"
     },
     {
-      "raw_hot": 19211,
+      "raw_hot": 19573,
       "num": 1108428,
       "word": "天舟七号运送的太空快递已被签收",
       "onboard_time": 1705996169,

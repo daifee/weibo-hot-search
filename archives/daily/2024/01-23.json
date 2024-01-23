@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1706023150403,
+  "endTime": 1706024087451,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -483,6 +483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603403,
+      "num": 603403,
+      "word": "湖南暴雪已致1万多人受灾",
+      "onboard_time": 1706020412,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597202,
+      "num": 597202,
+      "word": "赛琳娜回应身材变化争议",
+      "onboard_time": 1706020596,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 593514,
       "num": 593514,
       "word": "赵丽颖演出了苦难无声却震耳欲聋",
@@ -507,12 +523,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 581057,
+      "num": 581057,
+      "word": "华中农大被举报导师上课用视频敷衍",
+      "onboard_time": 1706020473,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 578197,
       "num": 578197,
       "word": "6只狗仔被人掰断腿骨头裸露在外",
       "onboard_time": 1705947735,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577978,
+      "num": 577978,
+      "word": "IU新歌",
+      "onboard_time": 1706021975,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 576530,
@@ -585,14 +617,6 @@
       "onboard_time": 1706016453,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507942,
-      "num": 507942,
-      "word": "IU新歌",
-      "onboard_time": 1706021975,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 500959,
@@ -723,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 446593,
-      "num": 446593,
-      "word": "赛琳娜回应身材变化争议",
-      "onboard_time": 1706020596,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 445983,
       "num": 430434,
       "word": "A股超百股跌停",
@@ -801,14 +817,6 @@
       "onboard_time": 1705995629,
       "rank": 10,
       "category": "财经"
-    },
-    {
-      "raw_hot": 417243,
-      "num": 417243,
-      "word": "华中农大被举报导师上课用视频敷衍",
-      "onboard_time": 1706020473,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 411152,
@@ -883,20 +891,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 396196,
-      "num": 396196,
-      "word": "湖南暴雪已致1万多人受灾",
-      "onboard_time": 1706020412,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 393624,
       "num": 200166,
       "word": "冠磊",
       "onboard_time": 1705940243,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 391368,
+      "num": 391368,
+      "word": "成都好大的雪",
+      "onboard_time": 1706020232,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387827,
@@ -921,6 +929,14 @@
       "onboard_time": 1705986090,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 384692,
+      "num": 384692,
+      "word": "一脚淘汰30亿人",
+      "onboard_time": 1706019454,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 384015,
@@ -977,14 +993,6 @@
       "onboard_time": 1705990046,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 357492,
-      "num": 357492,
-      "word": "一脚淘汰30亿人",
-      "onboard_time": 1706019454,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 357066,
@@ -1065,14 +1073,6 @@
       "onboard_time": 1706016151,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 325055,
-      "num": 325055,
-      "word": "成都好大的雪",
-      "onboard_time": 1706020232,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322913,
@@ -1435,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254243,
+      "num": 249386,
+      "word": "竟然被一条狗帅到了",
+      "onboard_time": 1706022811,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254216,
       "num": 254216,
       "word": "2024奥斯卡提名",
@@ -1491,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248491,
+      "num": 248491,
+      "word": "A股已具备熊市末期尾部特征",
+      "onboard_time": 1706021674,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 247988,
       "num": 247988,
       "word": "顾时夜糙汉",
@@ -1531,12 +1547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244388,
+      "num": 244388,
+      "word": "宁拆一座庙必毁这桩婚",
+      "onboard_time": 1706022995,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242761,
       "num": 242761,
       "word": "赖薇如登记结婚",
       "onboard_time": 1706001813,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242527,
+      "num": 242527,
+      "word": "奶奶学会微信只为了给我转账",
+      "onboard_time": 1706022753,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 242437,
@@ -1611,14 +1643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 232438,
-      "num": 232438,
-      "word": "A股已具备熊市末期尾部特征",
-      "onboard_time": 1706021674,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 232309,
       "num": 232309,
       "word": "小黄豆 顾茜茜",
@@ -1641,14 +1665,6 @@
       "onboard_time": 1706013152,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 228332,
-      "num": 228332,
-      "word": "竟然被一条狗帅到了",
-      "onboard_time": 1706022811,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 227338,
@@ -1721,14 +1737,6 @@
       "onboard_time": 1705989746,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 214270,
-      "num": 189192,
-      "word": "奶奶学会微信只为了给我转账",
-      "onboard_time": 1706022753,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 213770,
@@ -2059,6 +2067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185541,
+      "num": 185541,
+      "word": "有这4个特质的人不易得癌",
+      "onboard_time": 1706022811,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 185387,
       "num": 185387,
       "word": "福宝将于四月回国",
@@ -2153,14 +2169,6 @@
       "onboard_time": 1705977686,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179376,
-      "num": 179376,
-      "word": "有这4个特质的人不易得癌",
-      "onboard_time": 1706022811,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 179321,
@@ -2691,6 +2699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137341,
+      "num": 137341,
+      "word": "法医秦明之偷窥者",
+      "onboard_time": 1706023290,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 137044,
       "num": 137044,
       "word": "果然发疯后开心多了",
@@ -2713,14 +2729,6 @@
       "onboard_time": 1705935149,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134776,
-      "num": 134776,
-      "word": "宁拆一座庙必毁这桩婚",
-      "onboard_time": 1706022995,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 134345,
@@ -3003,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115669,
+      "num": 115669,
+      "word": "藏在巷子里的红烧牛肉面",
+      "onboard_time": 1706023651,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 115652,
       "num": 115652,
       "word": "赵昭仪白色蕾丝裙",
@@ -3041,6 +3057,14 @@
       "onboard_time": 1705995090,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112476,
+      "num": 112476,
+      "word": "萨摩耶被训耳朵消失变海豹",
+      "onboard_time": 1706023710,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 112473,
@@ -3507,7 +3531,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 19211,
+      "raw_hot": 19573,
       "num": 1108428,
       "word": "天舟七号运送的太空快递已被签收",
       "onboard_time": 1705996169,
