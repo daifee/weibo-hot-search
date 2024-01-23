@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706006261705,
+  "endTime": 1706008536382,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -41,6 +41,14 @@
       "onboard_time": 1705900165,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2151112,
+      "num": 2151112,
+      "word": "6寸蛋糕用5斤车厘子店家道歉",
+      "onboard_time": 1706004511,
+      "rank": 14,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 2095430,
@@ -89,14 +97,6 @@
       "onboard_time": 1705845211,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1740904,
-      "num": 1740904,
-      "word": "6寸蛋糕用5斤车厘子店家道歉",
-      "onboard_time": 1706004511,
-      "rank": 14,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1722180,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1075000,
+      "num": 475695,
+      "word": "腾讯64.2亿海淀拿地",
+      "onboard_time": 1706005408,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1058359,
       "num": 1058359,
       "word": "火车司机抑郁障碍阳性率达到50%",
@@ -587,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 883716,
+      "num": 883716,
+      "word": "女子在ATM机房避寒10分钟被银行喊话",
+      "onboard_time": 1706003607,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 872134,
       "num": 872134,
       "word": "一下子得罪四个人",
@@ -601,14 +617,6 @@
       "onboard_time": 1705804047,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 863674,
-      "num": 863674,
-      "word": "女子在ATM机房避寒10分钟被银行喊话",
-      "onboard_time": 1706003607,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 859289,
@@ -657,6 +665,14 @@
       "onboard_time": 1705914024,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 822952,
+      "num": 822952,
+      "word": "韩剧 中国白瓷",
+      "onboard_time": 1706006011,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 822805,
@@ -969,6 +985,14 @@
       "onboard_time": 1705911087,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 666991,
+      "num": 666991,
+      "word": "赵丽颖发文支持电影版花千骨",
+      "onboard_time": 1706006610,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 666966,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1705886724,
       "rank": 9,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 545246,
+      "num": 545246,
+      "word": "吴京的腿怎么了",
+      "onboard_time": 1706006670,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 543919,
@@ -1699,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 460906,
+      "num": 460906,
+      "word": "学术蝗虫",
+      "onboard_time": 1706006490,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 457705,
       "num": 457705,
       "word": "TES在打什么",
@@ -1817,14 +1857,6 @@
       "onboard_time": 1706004029,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438765,
-      "num": 438765,
-      "word": "腾讯64.2亿海淀拿地",
-      "onboard_time": 1706005408,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 438152,
@@ -2180,7 +2212,7 @@
     },
     {
       "raw_hot": 384015,
-      "num": 196681,
+      "num": 266726,
       "word": "月嫂下户后还在朋友圈发我家的照片",
       "onboard_time": 1706002590,
       "rank": 30,
@@ -2691,6 +2723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 316753,
+      "num": 316753,
+      "word": "江疏影韩素希秀场同框",
+      "onboard_time": 1706006791,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 314216,
       "num": 314216,
       "word": "17年前被入室抢走的姜甲儒找到了",
@@ -3011,6 +3051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279100,
+      "num": 279100,
+      "word": "张凌赫叫谁土豆呢",
+      "onboard_time": 1706006431,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277634,
       "num": 277634,
       "word": "友情断层",
@@ -3227,6 +3275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261454,
+      "num": 261454,
+      "word": "云南镇雄山体滑坡已致25人遇难",
+      "onboard_time": 1706005710,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260225,
       "num": 260225,
       "word": "龙年的龙味越来越足了",
@@ -3355,12 +3411,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 250454,
+      "num": 250454,
+      "word": "徐明浩成都",
+      "onboard_time": 1706007209,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249290,
       "num": 249290,
       "word": "两句话妈妈从我2岁问到20岁",
       "onboard_time": 1706003849,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249222,
+      "num": 249222,
+      "word": "订婚强奸案当事男子母亲将为儿辩护",
+      "onboard_time": 1706007570,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249001,
@@ -3787,14 +3859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 219769,
-      "num": 219769,
-      "word": "云南镇雄山体滑坡已致25人遇难",
-      "onboard_time": 1706005710,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219323,
       "num": 219323,
       "word": "过年前最离不开的软件",
@@ -4139,6 +4203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204189,
+      "num": 204189,
+      "word": "宋运辉梁思申一吻定情",
+      "onboard_time": 1706007692,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203896,
       "num": 203896,
       "word": "时代少年团有龙墩墩了",
@@ -4241,6 +4313,14 @@
       "onboard_time": 1705892547,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200816,
+      "num": 200816,
+      "word": "这窗帘拉上吸血鬼来了都得敲门",
+      "onboard_time": 1706007692,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 200713,
@@ -4561,14 +4641,6 @@
       "onboard_time": 1705978766,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 193358,
-      "num": 193358,
-      "word": "韩剧 中国白瓷",
-      "onboard_time": 1706006011,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 193185,
@@ -5347,6 +5419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166858,
+      "num": 166858,
+      "word": "外媒指控幻兽帕鲁虐待动物",
+      "onboard_time": 1706007391,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166793,
       "num": 140255,
       "word": "杨鸣和辽宁益胜解约",
@@ -5627,6 +5707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158376,
+      "num": 158376,
+      "word": "赵昭仪导游第一件事是逃亡",
+      "onboard_time": 1706008348,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158216,
       "num": 158216,
       "word": "小天鹅藏在妈妈背上太萌了",
@@ -5665,6 +5753,14 @@
       "onboard_time": 1705997429,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157523,
+      "num": 157523,
+      "word": "WE新主场buff",
+      "onboard_time": 1706006971,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 157427,
@@ -6089,6 +6185,14 @@
       "onboard_time": 1705800746,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145153,
+      "num": 145153,
+      "word": "i人喜欢的东西",
+      "onboard_time": 1706006549,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 144908,
@@ -6723,6 +6827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130267,
+      "num": 130267,
+      "word": "文旅湖南摇来了王栎鑫",
+      "onboard_time": 1706006370,
+      "rank": 41,
+      "category": "旅游,艺人"
+    },
+    {
       "raw_hot": 129885,
       "num": 129885,
       "word": "新疆乌什县地震已致6人受伤",
@@ -6867,6 +6979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127111,
+      "num": 127111,
+      "word": "蚂蚁那么小是有原因的",
+      "onboard_time": 1706008229,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126762,
       "num": 126762,
       "word": "N1出成绩",
@@ -6937,6 +7057,14 @@
       "onboard_time": 1705797445,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124000,
+      "num": 124000,
+      "word": "papi酱 无法工作的理由",
+      "onboard_time": 1706008409,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 123653,
@@ -7289,6 +7417,14 @@
       "onboard_time": 1705806145,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110988,
+      "num": 110988,
+      "word": "小象摔倒了也是第一时间去找妈妈",
+      "onboard_time": 1706008348,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 110648,
