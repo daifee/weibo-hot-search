@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706045664051,
+  "endTime": 1706048249451,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -8931,6 +8931,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 65737,
+      "num": 65737,
+      "word": "马诺称闪婚后半年被家暴7次",
+      "onboard_time": 1706031678,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 64841,
       "num": 228069,
       "word": "鸭鸭怎么可以吃鸭鸭",
@@ -8969,6 +8977,14 @@
       "onboard_time": 1705980687,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 61490,
+      "num": 61490,
+      "word": "但凡有高中文化也不会这么编",
+      "onboard_time": 1706038936,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 58410,
@@ -9011,6 +9027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53720,
+      "num": 20505,
+      "word": "售楼处回应保安被指穿衣少瑟瑟发抖",
+      "onboard_time": 1706042894,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52966,
       "num": 77061,
       "word": "韩国补时绝平",
@@ -9051,14 +9075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 49627,
-      "num": 43279,
-      "word": "马诺称闪婚后半年被家暴7次",
-      "onboard_time": 1706031678,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 49326,
       "num": 49326,
       "word": "皇马3比2阿尔梅里亚",
@@ -9091,14 +9107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44643,
-      "num": 42044,
-      "word": "但凡有高中文化也不会这么编",
-      "onboard_time": 1706038936,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 43958,
       "num": 43958,
       "word": "薛之谦别开玩笑了",
@@ -9121,6 +9129,14 @@
       "onboard_time": 1706003791,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38022,
+      "num": 38022,
+      "word": "委员建议中小学设副班主任",
+      "onboard_time": 1706044276,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 35592,
@@ -9148,7 +9164,7 @@
     },
     {
       "raw_hot": 32713,
-      "num": 16205,
+      "num": 20443,
       "word": "小孩姐 人家要摸你你不要不识好歹",
       "onboard_time": 1706040617,
       "rank": 41,
@@ -9177,14 +9193,6 @@
       "onboard_time": 1705875493,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 29451,
-      "num": 16197,
-      "word": "售楼处回应保安被指穿衣少瑟瑟发抖",
-      "onboard_time": 1706042894,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27692,
@@ -9251,20 +9259,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15696,
-      "num": 15696,
-      "word": "委员建议中小学设副班主任",
-      "onboard_time": 1706044276,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 13800,
       "num": 13823,
       "word": "篮网vs湖人",
       "onboard_time": 1705788072,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12941,
+      "num": 15024,
+      "word": "南方下雪有多出片",
+      "onboard_time": 1706044575,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 12686,
@@ -9305,14 +9313,6 @@
       "onboard_time": 1705865712,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 10569,
-      "num": 12775,
-      "word": "南方下雪有多出片",
-      "onboard_time": 1706044575,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 10413,
