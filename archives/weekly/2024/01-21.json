@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705977833630,
+  "endTime": 1705979958563,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -121,6 +121,14 @@
       "onboard_time": 1705794679,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1621996,
+      "num": 1621996,
+      "word": "哈尔滨回应20元羊汤只有5片肉卷",
+      "onboard_time": 1705975587,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1617445,
@@ -427,14 +435,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 964191,
-      "num": 964191,
-      "word": "哈尔滨回应20元羊汤只有5片肉卷",
-      "onboard_time": 1705975587,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 953252,
       "num": 953252,
       "word": "刘涛 蓝牙",
@@ -481,6 +481,14 @@
       "onboard_time": 1705819827,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 894977,
+      "num": 894977,
+      "word": "上班后才知道妈妈把我养得多好",
+      "onboard_time": 1705974686,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 889073,
@@ -619,20 +627,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 778159,
+      "num": 778159,
+      "word": "杨紫和孙俪妹妹演同事",
+      "onboard_time": 1705978707,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 778147,
       "num": 778147,
       "word": "姐弟坠亡案生母期望有个孩子",
       "onboard_time": 1705905325,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 775272,
-      "num": 775272,
-      "word": "上班后才知道妈妈把我养得多好",
-      "onboard_time": 1705974686,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 770390,
@@ -955,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 588657,
+      "num": 588657,
+      "word": "韩素希叼笔盖",
+      "onboard_time": 1705976188,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 588053,
       "num": 248217,
       "word": "茅台瑞幸联名为何不火了",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1705920328,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 556936,
+      "num": 556936,
+      "word": "苹果回应手机壳指蟒为龙",
+      "onboard_time": 1705976846,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 555518,
@@ -1233,14 +1257,6 @@
       "onboard_time": 1705922126,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 503200,
-      "num": 503200,
-      "word": "韩素希叼笔盖",
-      "onboard_time": 1705976188,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 500491,
@@ -1667,6 +1683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 412526,
+      "num": 412526,
+      "word": "A股今年有望走出前低后高",
+      "onboard_time": 1705978465,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 412278,
       "num": 412278,
       "word": "国家卫健委要求加强出生证管理",
@@ -1841,6 +1865,14 @@
       "onboard_time": 1705817307,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 385877,
+      "num": 385877,
+      "word": "英雄联盟开发商裁员11%",
+      "onboard_time": 1705976606,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 383515,
@@ -2113,14 +2145,6 @@
       "onboard_time": 1705969407,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 342550,
-      "num": 342550,
-      "word": "苹果回应手机壳指蟒为龙",
-      "onboard_time": 1705976846,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 342126,
@@ -2579,6 +2603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 273501,
+      "num": 238391,
+      "word": "光夜 亚父陆沉",
+      "onboard_time": 1705978465,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 272658,
       "num": 272658,
       "word": "卡塔尔大轮换",
@@ -2755,19 +2787,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 251675,
+      "num": 251675,
+      "word": "龙年的龙味越来越足了",
+      "onboard_time": 1705976365,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250477,
       "num": 250477,
       "word": "焦虑症 口罩和塑料袋",
       "onboard_time": 1705798344,
       "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 249725,
-      "num": 249725,
-      "word": "龙年的龙味越来越足了",
-      "onboard_time": 1705976365,
-      "rank": 31,
       "category": "情感"
     },
     {
@@ -2859,14 +2891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241567,
-      "num": 241567,
-      "word": "英雄联盟开发商裁员11%",
-      "onboard_time": 1705976606,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 240120,
       "num": 240120,
       "word": "实习第一年要给家里钱吗",
@@ -2921,6 +2945,14 @@
       "onboard_time": 1705763670,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234928,
+      "num": 234928,
+      "word": "国安部揭一起境外间谍情报机关围猎套路",
+      "onboard_time": 1705975287,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233071,
@@ -3195,14 +3227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212634,
-      "num": 212634,
-      "word": "国安部揭一起境外间谍情报机关围猎套路",
-      "onboard_time": 1705975287,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212068,
       "num": 212068,
       "word": "阿富汗坠机事件中有4人生还",
@@ -3323,6 +3347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206615,
+      "num": 206615,
+      "word": "iOS17.3正式版新增被盗设备保护功能",
+      "onboard_time": 1705976905,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 206543,
       "num": 206543,
       "word": "王一博要糖吃",
@@ -3369,6 +3401,14 @@
       "onboard_time": 1705817664,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204481,
+      "num": 184865,
+      "word": "哪个ip的留子最癫",
+      "onboard_time": 1705978583,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 204299,
@@ -3731,14 +3771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193720,
-      "num": 193720,
-      "word": "iOS17.3正式版新增被盗设备保护功能",
-      "onboard_time": 1705976905,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 193551,
       "num": 193551,
       "word": "幻兽帕鲁",
@@ -3769,6 +3801,22 @@
       "onboard_time": 1705815987,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190873,
+      "num": 190873,
+      "word": "光与夜之恋大曜风云",
+      "onboard_time": 1705979424,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 190642,
+      "num": 190642,
+      "word": "唐斯半场44分",
+      "onboard_time": 1705977564,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 190637,
@@ -3947,6 +3995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183743,
+      "num": 183743,
+      "word": "业内称预制菜有这四大类",
+      "onboard_time": 1705979187,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183525,
       "num": 128686,
       "word": "亚洲杯",
@@ -4035,6 +4091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180121,
+      "num": 180121,
+      "word": "恋爱的90天定律",
+      "onboard_time": 1705977686,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179775,
       "num": 179775,
       "word": "仙剑六男扮女装女扮男装",
@@ -4081,6 +4145,14 @@
       "onboard_time": 1705812024,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177827,
+      "num": 177827,
+      "word": "服务员说这个菜拍照效果好让我录像",
+      "onboard_time": 1705978766,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 177550,
@@ -4459,6 +4531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 163592,
+      "num": 163592,
+      "word": "放假后就成了德华",
+      "onboard_time": 1705979424,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163236,
       "num": 163236,
       "word": "蓝亦菲在关超婚礼上出现了",
@@ -4531,6 +4611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161294,
+      "num": 161294,
+      "word": "不愿意请男朋友吃1000块的日料",
+      "onboard_time": 1705979483,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161213,
       "num": 161213,
       "word": "千名球迷机场接机C罗",
@@ -4553,6 +4641,14 @@
       "onboard_time": 1705915768,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159729,
+      "num": 159729,
+      "word": "我妈把我和炒的年货放一个屋",
+      "onboard_time": 1705979727,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 159563,
@@ -4803,11 +4899,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 151345,
-      "num": 151345,
-      "word": "唐斯半场44分",
-      "onboard_time": 1705977564,
-      "rank": 42,
+      "raw_hot": 151338,
+      "num": 151338,
+      "word": "国足目前属于亚洲几流",
+      "onboard_time": 1705979666,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -5331,14 +5427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 134487,
-      "num": 134487,
-      "word": "恋爱的90天定律",
-      "onboard_time": 1705977686,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134304,
       "num": 134304,
       "word": "谁拿我电磁炉称体重了",
@@ -5440,6 +5528,14 @@
       "word": "国足只剩理论出线希望",
       "onboard_time": 1705965381,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131517,
+      "num": 131517,
+      "word": "恩比德三节59分",
+      "onboard_time": 1705977867,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -5681,6 +5777,14 @@
       "onboard_time": 1705809626,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123609,
+      "num": 123609,
+      "word": "光夜 江湖阁主夏鸣星",
+      "onboard_time": 1705978223,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 123576,
