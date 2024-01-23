@@ -1,0 +1,410 @@
+{
+  "runTime": 1705991843181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2095430,
+        "num": 2095430,
+        "word": "为啥南方人都不穿黑色羽绒服",
+        "onboard_time": 1705987825,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 898220,
+        "num": 898220,
+        "word": "papi酱产后四个月去面试繁花",
+        "onboard_time": 1705982250,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96463,
+        "num": 864452,
+        "word": "新疆地震最新情况汇总",
+        "onboard_time": 1705965981,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850100,
+        "num": 850100,
+        "word": "女生瘦20斤回家后遭爷爷霸总式投喂",
+        "onboard_time": 1705985487,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766339,
+        "num": 766339,
+        "word": "中国正在考虑采取一揽子措施来稳定股市",
+        "onboard_time": 1705988607,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 647019,
+        "num": 647019,
+        "word": "张颂文 你配得上法国的ID",
+        "onboard_time": 1705988667,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367000,
+        "num": 367000,
+        "word": "热辣滚烫官博声明",
+        "onboard_time": 1705988848,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346371,
+        "num": 346371,
+        "word": "租房45天电费要了900多块钱",
+        "onboard_time": 1705982067,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316965,
+        "num": 316965,
+        "word": "假如遗传了父母双方的缺点",
+        "onboard_time": 1705987468,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306320,
+        "num": 306320,
+        "word": "刘亚仁自曝因抑郁症吸毒",
+        "onboard_time": 1705981046,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300540,
+        "num": 300540,
+        "word": "男子下班后回工作消息获赔3万加班费",
+        "onboard_time": 1705989685,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264623,
+        "num": 264623,
+        "word": "我妈把我和炒的年货放一个屋",
+        "onboard_time": 1705979727,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262853,
+        "num": 262853,
+        "word": "只要上过班我们就脏了",
+        "onboard_time": 1705990046,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260024,
+        "num": 260024,
+        "word": "杨紫和孙俪妹妹演同事",
+        "onboard_time": 1705978707,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246807,
+        "num": 246807,
+        "word": "赵丽颖演出了苦难无声却震耳欲聋",
+        "onboard_time": 1705985251,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228855,
+        "num": 228855,
+        "word": "不愿意请男朋友吃1000块的日料",
+        "onboard_time": 1705979483,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227506,
+        "num": 227506,
+        "word": "北京高院工作报告点名吴亦凡案",
+        "onboard_time": 1705984829,
+        "rank": 16,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 227056,
+        "num": 227056,
+        "word": "仙剑女主变迁史",
+        "onboard_time": 1705983689,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220828,
+        "num": 220828,
+        "word": "新疆乌什县7.1级地震",
+        "onboard_time": 1705948695,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219062,
+        "num": 219062,
+        "word": "茅台瑞幸联名为何不火了",
+        "onboard_time": 1705972710,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 348184,
+        "num": 217455,
+        "word": "让腰越来越细的10个小习惯",
+        "onboard_time": 1705986090,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 227878,
+        "num": 217193,
+        "word": "当狗狗用了人的发膜",
+        "onboard_time": 1705989926,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215833,
+        "num": 215833,
+        "word": "印度股市总市值首超港股",
+        "onboard_time": 1705989746,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200922,
+        "num": 200922,
+        "word": "12306抢票",
+        "onboard_time": 1705983571,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192025,
+        "num": 192025,
+        "word": "拳头被裁员工将获至少6个月工资补偿",
+        "onboard_time": 1705990107,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187628,
+        "num": 187628,
+        "word": "射雕英雄传年内上映",
+        "onboard_time": 1705987407,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167954,
+        "num": 167954,
+        "word": "赵丽颖晒新电影海报",
+        "onboard_time": 1705991606,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161232,
+        "num": 161232,
+        "word": "赵露思和小朋友打雪仗",
+        "onboard_time": 1705991425,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155948,
+        "num": 155948,
+        "word": "苹果回应手机壳指蟒为龙",
+        "onboard_time": 1705976846,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145645,
+        "num": 151808,
+        "word": "大花袄火到了游戏圈",
+        "onboard_time": 1705990767,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351077,
+        "num": 151754,
+        "word": "今年的龙是不是兔子改的",
+        "onboard_time": 1705990824,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151574,
+        "num": 151574,
+        "word": "王俊凯 杰伦脑",
+        "onboard_time": 1705990527,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149395,
+        "num": 149395,
+        "word": "任天堂回应幻兽帕鲁爆火",
+        "onboard_time": 1705989266,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140003,
+        "num": 140003,
+        "word": "广东人还要在冰箱待三天",
+        "onboard_time": 1705988128,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139305,
+        "num": 139305,
+        "word": "花旗信用卡将无法交易",
+        "onboard_time": 1705989266,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135762,
+        "num": 135762,
+        "word": "这几种水果蒸着吃更好",
+        "onboard_time": 1705989807,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135153,
+        "num": 135153,
+        "word": "花儿与少年",
+        "onboard_time": 1705988545,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130567,
+        "num": 130567,
+        "word": "詹姆斯高强度上网",
+        "onboard_time": 1705991187,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130812,
+        "num": 129476,
+        "word": "秦海璐秦岚辛芷蕾讨论纸尿裤",
+        "onboard_time": 1705990948,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128053,
+        "num": 128053,
+        "word": "肖宇梁 纯元瓶",
+        "onboard_time": 1705982549,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119762,
+        "num": 119762,
+        "word": "哈尔滨回应20元羊汤只有5片肉卷",
+        "onboard_time": 1705975587,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116617,
+        "num": 116617,
+        "word": "大家都在玩梗只有我真的在农村",
+        "onboard_time": 1705985668,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111067,
+        "num": 111067,
+        "word": "C罗将在中国挑战吉尼斯纪录",
+        "onboard_time": 1705983265,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117991,
+        "num": 110118,
+        "word": "秦岚穿得暖呼呼",
+        "onboard_time": 1705988427,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106296,
+        "num": 106296,
+        "word": "尔滨冰马俑果真上线了",
+        "onboard_time": 1705983210,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 105902,
+        "num": 105902,
+        "word": "蒋翼预言了范丞丞的2018年",
+        "onboard_time": 1705984110,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103586,
+        "num": 103586,
+        "word": "杜兰特绝杀",
+        "onboard_time": 1705985189,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94469,
+        "num": 94469,
+        "word": "外国人模仿中国人模仿外国人",
+        "onboard_time": 1705986449,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90905,
+        "num": 90905,
+        "word": "美式韩妆",
+        "onboard_time": 1705991786,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 90162,
+        "num": 90162,
+        "word": "上海春考",
+        "onboard_time": 1705990348,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跨越近30年始终如一的情怀#"
+    }
+  }
+}

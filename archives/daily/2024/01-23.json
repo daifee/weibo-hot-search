@@ -1,6 +1,6 @@
 {
   "startTime": 1705940579945,
-  "endTime": 1705991036489,
+  "endTime": 1705991843181,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1926025,
-      "num": 1926025,
+      "raw_hot": 2095430,
+      "num": 2095430,
       "word": "为啥南方人都不穿黑色羽绒服",
       "onboard_time": 1705987825,
       "rank": 21,
@@ -139,8 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 728157,
-      "num": 728157,
+      "raw_hot": 766339,
+      "num": 766339,
       "word": "中国正在考虑采取一揽子措施来稳定股市",
       "onboard_time": 1705988607,
       "rank": 4,
@@ -531,6 +531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 351077,
+      "num": 157787,
+      "word": "今年的龙是不是兔子改的",
+      "onboard_time": 1705990824,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 342823,
       "num": 342823,
       "word": "樱桃姐退坑",
@@ -601,6 +609,14 @@
       "onboard_time": 1705948216,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300540,
+      "num": 300540,
+      "word": "男子下班后回工作消息获赔3万加班费",
+      "onboard_time": 1705989685,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299271,
@@ -723,6 +739,14 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 262853,
+      "num": 262853,
+      "word": "只要上过班我们就脏了",
+      "onboard_time": 1705990046,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262659,
       "num": 262659,
       "word": "湖人交易",
@@ -769,14 +793,6 @@
       "onboard_time": 1705983210,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 250045,
-      "num": 250045,
-      "word": "男子下班后回工作消息获赔3万加班费",
-      "onboard_time": 1705989685,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248668,
@@ -915,6 +931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215833,
+      "num": 215833,
+      "word": "印度股市总市值首超港股",
+      "onboard_time": 1705989746,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 213770,
       "num": 213770,
       "word": "蒋翼预言了范丞丞的2018年",
@@ -1003,22 +1027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200800,
-      "num": 157787,
-      "word": "今年的龙是不是兔子改的",
-      "onboard_time": 1705990824,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 200584,
-      "num": 200584,
-      "word": "印度股市总市值首超港股",
-      "onboard_time": 1705989746,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 198801,
       "num": 198801,
       "word": "汪海林称不要说中国电影跟中国男足一样了",
@@ -1075,20 +1083,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192025,
+      "num": 192025,
+      "word": "拳头被裁员工将获至少6个月工资补偿",
+      "onboard_time": 1705990107,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190873,
       "num": 190873,
       "word": "光与夜之恋大曜风云",
       "onboard_time": 1705979424,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 190162,
-      "num": 190162,
-      "word": "只要上过班我们就脏了",
-      "onboard_time": 1705990046,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 187482,
@@ -1121,14 +1129,6 @@
       "onboard_time": 1705976365,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 184715,
-      "num": 184715,
-      "word": "拳头被裁员工将获至少6个月工资补偿",
-      "onboard_time": 1705990107,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 184500,
@@ -1275,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167954,
+      "num": 167954,
+      "word": "赵丽颖晒新电影海报",
+      "onboard_time": 1705991606,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167824,
       "num": 167824,
       "word": "龙头 水龙头",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1705979424,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161232,
+      "num": 161232,
+      "word": "赵露思和小朋友打雪仗",
+      "onboard_time": 1705991425,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161207,
@@ -1395,6 +1411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145645,
+      "num": 151808,
+      "word": "大花袄火到了游戏圈",
+      "onboard_time": 1705990767,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144908,
       "num": 144908,
       "word": "年糕是浙江省省饭吧",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1705987468,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140003,
+      "num": 140003,
+      "word": "广东人还要在冰箱待三天",
+      "onboard_time": 1705988128,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139498,
@@ -1443,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135153,
+      "num": 135153,
+      "word": "花儿与少年",
+      "onboard_time": 1705988545,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135029,
       "num": 135029,
       "word": "一个人爱你的最高形式",
@@ -1457,14 +1497,6 @@
       "onboard_time": 1705929748,
       "rank": 27,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 131951,
-      "num": 131951,
-      "word": "大花袄火到了游戏圈",
-      "onboard_time": 1705990767,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131820,
@@ -1483,20 +1515,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131204,
-      "num": 131204,
-      "word": "花儿与少年",
-      "onboard_time": 1705988545,
-      "rank": 39,
+      "raw_hot": 130812,
+      "num": 129476,
+      "word": "秦海璐秦岚辛芷蕾讨论纸尿裤",
+      "onboard_time": 1705990948,
+      "rank": 45,
       "category": "综艺"
     },
     {
-      "raw_hot": 129825,
-      "num": 129825,
-      "word": "广东人还要在冰箱待三天",
-      "onboard_time": 1705988128,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 130567,
+      "num": 130567,
+      "word": "詹姆斯高强度上网",
+      "onboard_time": 1705991187,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 129665,
@@ -1537,14 +1569,6 @@
       "onboard_time": 1705989146,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 119160,
-      "num": 119160,
-      "word": "秦海璐秦岚辛芷蕾讨论纸尿裤",
-      "onboard_time": 1705990948,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 116553,
@@ -1681,6 +1705,14 @@
       "onboard_time": 1705928368,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90905,
+      "num": 90905,
+      "word": "美式韩妆",
+      "onboard_time": 1705991786,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 88897,
