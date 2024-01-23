@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706009650972,
+  "endTime": 1706013263395,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1619,6 +1619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1709061,
+      "num": 371587,
+      "word": "私密整形一夜爆火",
+      "onboard_time": 1706009611,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1700996,
       "num": 459782,
       "word": "台州车祸",
@@ -2081,6 +2089,14 @@
       "onboard_time": 1705150373,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1527480,
+      "num": 1527480,
+      "word": "李湘宣布退休后又复工",
+      "onboard_time": 1706009851,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1514250,
@@ -4859,6 +4875,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1014916,
+      "num": 1014916,
+      "word": "雷军 医美",
+      "onboard_time": 1706010931,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1014196,
       "num": 1014196,
       "word": "田曦薇爱心痣",
@@ -5329,6 +5353,14 @@
       "onboard_time": 1704342997,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 962179,
+      "num": 962179,
+      "word": "辛芷蕾穿了顶级高定",
+      "onboard_time": 1706010692,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 962028,
@@ -8065,6 +8097,14 @@
       "onboard_time": 1705368570,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 758143,
+      "num": 758143,
+      "word": "papi酱 无法工作的理由",
+      "onboard_time": 1706008409,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 757350,
@@ -14995,6 +15035,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 499990,
+      "num": 499990,
+      "word": "新疆7.1级地震已致3死5伤",
+      "onboard_time": 1706009311,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499709,
       "num": 499709,
       "word": "成毅提裙跑",
@@ -16611,14 +16659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455919,
-      "num": 455919,
-      "word": "papi酱 无法工作的理由",
-      "onboard_time": 1706008409,
-      "rank": 45,
-      "category": "网红"
-    },
-    {
       "raw_hot": 455540,
       "num": 455540,
       "word": "董宇辉回应带货化妆品",
@@ -17321,6 +17361,14 @@
       "onboard_time": 1705540225,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436210,
+      "num": 367359,
+      "word": "京东被曝重返央视春晚",
+      "onboard_time": 1706009851,
+      "rank": 11,
+      "category": "互联网,综艺"
     },
     {
       "raw_hot": 436116,
@@ -23299,6 +23347,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 311994,
+      "num": 311994,
+      "word": "新疆乌什地震新闻发布会",
+      "onboard_time": 1706011890,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311573,
       "num": 311573,
       "word": "肖战宣传家乡重庆",
@@ -24257,14 +24313,6 @@
       "onboard_time": 1705395632,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 295628,
-      "num": 295628,
-      "word": "新疆7.1级地震已致3死5伤",
-      "onboard_time": 1706009311,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295346,
@@ -25425,6 +25473,14 @@
       "onboard_time": 1705555228,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281812,
+      "num": 281812,
+      "word": "C罗出席赛前发布会",
+      "onboard_time": 1706010391,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 281295,
@@ -28339,6 +28395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247988,
+      "num": 247988,
+      "word": "顾时夜糙汉",
+      "onboard_time": 1706011355,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 247922,
       "num": 239000,
       "word": "什么是断崖式绝交",
@@ -29329,6 +29393,14 @@
       "onboard_time": 1705589249,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238091,
+      "num": 238091,
+      "word": "云南镇雄山体滑坡灾害已致31人遇难",
+      "onboard_time": 1706010089,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238068,
@@ -30609,6 +30681,14 @@
       "onboard_time": 1704789091,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227338,
+      "num": 227338,
+      "word": "突然意识到妈妈需要我照顾了",
+      "onboard_time": 1706012014,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 227226,
@@ -32267,6 +32347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216126,
+      "num": 216126,
+      "word": "七千五的工作和考研怎么选",
+      "onboard_time": 1706009192,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216080,
       "num": 202435,
       "word": "叔你别开了 我害怕",
@@ -32321,14 +32409,6 @@
       "onboard_time": 1704171163,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215563,
-      "num": 215563,
-      "word": "七千五的工作和考研怎么选",
-      "onboard_time": 1706009192,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 215496,
@@ -33049,6 +33129,14 @@
       "onboard_time": 1704510630,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210141,
+      "num": 210141,
+      "word": "成毅王权富贵高清正脸照",
+      "onboard_time": 1706009192,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210073,
@@ -37723,14 +37811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 190081,
-      "num": 190081,
-      "word": "成毅王权富贵高清正脸照",
-      "onboard_time": 1706009192,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 190049,
       "num": 190049,
       "word": "1只银渐层烤火变半只金渐层",
@@ -38041,6 +38121,14 @@
       "onboard_time": 1704867754,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188790,
+      "num": 188790,
+      "word": "权珉娥ins发疤痕照",
+      "onboard_time": 1706012791,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 188767,
@@ -39289,6 +39377,14 @@
       "onboard_time": 1705756289,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183364,
+      "num": 183364,
+      "word": "杨幂哄娃式撸猫",
+      "onboard_time": 1706013152,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183341,
@@ -41771,6 +41867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172396,
+      "num": 172396,
+      "word": "拉夏贝尔总部基地9.5亿元起拍",
+      "onboard_time": 1706010150,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 172386,
       "num": 172386,
       "word": "惠英红刘浩存哭戏感染力",
@@ -42748,7 +42852,7 @@
     },
     {
       "raw_hot": 168473,
-      "num": 878314,
+      "num": 1025472,
       "word": "地震时客运员第一反应疏散旅客",
       "onboard_time": 1705973369,
       "rank": 35,
@@ -43457,6 +43561,14 @@
       "onboard_time": 1704777695,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165601,
+      "num": 165601,
+      "word": "祈今朝 双生禁忌骨科",
+      "onboard_time": 1706012610,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 165588,
@@ -44897,6 +45009,14 @@
       "onboard_time": 1705559368,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 158888,
+      "num": 158888,
+      "word": "夫妻在吵架网友在分家",
+      "onboard_time": 1706012430,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 158886,
@@ -48097,6 +48217,14 @@
       "onboard_time": 1705063772,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145838,
+      "num": 145838,
+      "word": "赵昭仪平价穿搭",
+      "onboard_time": 1706009491,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145825,
@@ -51539,14 +51667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132565,
-      "num": 132565,
-      "word": "赵昭仪平价穿搭",
-      "onboard_time": 1706009491,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 132539,
       "num": 132539,
       "word": "论父母的职业对孩子的影响有多大",
@@ -52049,6 +52169,14 @@
       "onboard_time": 1704692011,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130620,
+      "num": 130620,
+      "word": "小学生用播音腔骂大学生",
+      "onboard_time": 1706009671,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 130613,
@@ -54819,6 +54947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119902,
+      "num": 119902,
+      "word": "若华结局",
+      "onboard_time": 1706011532,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119875,
       "num": 119875,
       "word": "辅导孩子写作业哪有不发疯的",
@@ -55089,14 +55225,6 @@
       "onboard_time": 1705731447,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118631,
-      "num": 114859,
-      "word": "私密整形一夜爆火",
-      "onboard_time": 1706009611,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 118621,
@@ -56409,6 +56537,14 @@
       "onboard_time": 1705611792,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111322,
+      "num": 111322,
+      "word": "喜欢小猫和喜欢小狗背后的心理差异",
+      "onboard_time": 1706012311,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 111280,
@@ -59841,6 +59977,14 @@
       "onboard_time": 1705792458,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 76957,
+      "num": 319751,
+      "word": "哈尔滨把和平精英搬进现实",
+      "onboard_time": 1706010331,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 76891,
