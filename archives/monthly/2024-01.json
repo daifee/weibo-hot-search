@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706008536382,
+  "endTime": 1706009650972,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -4420,7 +4420,7 @@
     },
     {
       "raw_hot": 1075000,
-      "num": 475695,
+      "num": 552211,
       "word": "腾讯64.2亿海淀拿地",
       "onboard_time": 1706005408,
       "rank": 12,
@@ -5233,6 +5233,14 @@
       "onboard_time": 1705287992,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 974259,
+      "num": 974259,
+      "word": "韩剧 中国白瓷",
+      "onboard_time": 1706006011,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 973921,
@@ -6928,14 +6936,6 @@
       "word": "棣欣引力 对视",
       "onboard_time": 1705144542,
       "rank": 26,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 822952,
-      "num": 822952,
-      "word": "韩剧 中国白瓷",
-      "onboard_time": 1706006011,
-      "rank": 32,
       "category": "作品衍生"
     },
     {
@@ -9971,6 +9971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 668792,
+      "num": 668792,
+      "word": "赵丽颖发文支持电影版花千骨",
+      "onboard_time": 1706006610,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 668228,
       "num": 668228,
       "word": "杨紫国色芳华造型",
@@ -9993,14 +10001,6 @@
       "onboard_time": 1704773432,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 666991,
-      "num": 666991,
-      "word": "赵丽颖发文支持电影版花千骨",
-      "onboard_time": 1706006610,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 666966,
@@ -10112,6 +10112,14 @@
       "word": "沈阳站改回沈阳站站",
       "onboard_time": 1705587510,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 661558,
+      "num": 661558,
+      "word": "订婚强奸案当事男子母亲将为儿辩护",
+      "onboard_time": 1706007570,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -10505,6 +10513,14 @@
       "onboard_time": 1705138485,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645369,
+      "num": 645369,
+      "word": "吴京的腿怎么了",
+      "onboard_time": 1706006670,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 645010,
@@ -13011,6 +13027,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 554175,
+      "num": 554175,
+      "word": "学术蝗虫",
+      "onboard_time": 1706006490,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 553950,
       "num": 553950,
       "word": "陈建斌劝架 哞两声得了",
@@ -13369,14 +13393,6 @@
       "onboard_time": 1705755329,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 545246,
-      "num": 545246,
-      "word": "吴京的腿怎么了",
-      "onboard_time": 1706006670,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 544137,
@@ -16411,14 +16427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 460906,
-      "num": 460906,
-      "word": "学术蝗虫",
-      "onboard_time": 1706006490,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 460895,
       "num": 360427,
       "word": "多部门介入郝劭文女儿被校园霸凌",
@@ -16601,6 +16609,14 @@
       "onboard_time": 1705932507,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455919,
+      "num": 455919,
+      "word": "papi酱 无法工作的理由",
+      "onboard_time": 1706008409,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 455540,
@@ -24243,6 +24259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295628,
+      "num": 295628,
+      "word": "新疆7.1级地震已致3死5伤",
+      "onboard_time": 1706009311,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295346,
       "num": 295346,
       "word": "国安部揭一起境外间谍情报机关围猎套路",
@@ -24969,6 +24993,14 @@
       "onboard_time": 1705316672,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 287031,
+      "num": 262174,
+      "word": "为什么建议年轻人要学会送礼",
+      "onboard_time": 1706009192,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 286967,
@@ -28121,14 +28153,6 @@
       "onboard_time": 1705739546,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249222,
-      "num": 249222,
-      "word": "订婚强奸案当事男子母亲将为儿辩护",
-      "onboard_time": 1706007570,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249172,
@@ -32299,6 +32323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215563,
+      "num": 215563,
+      "word": "七千五的工作和考研怎么选",
+      "onboard_time": 1706009192,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 215496,
       "num": 215496,
       "word": "滑雪的尽头 骨科",
@@ -32707,6 +32739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212316,
+      "num": 212316,
+      "word": "宋运辉梁思申一吻定情",
+      "onboard_time": 1706007692,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212299,
       "num": 212299,
       "word": "徐明浩澳门演唱会舞台",
@@ -32953,6 +32993,14 @@
       "onboard_time": 1705064490,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 210512,
+      "num": 210512,
+      "word": "赵昭仪导游第一件事是逃亡",
+      "onboard_time": 1706008348,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 210481,
@@ -34249,14 +34297,6 @@
       "onboard_time": 1705299267,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 204189,
-      "num": 204189,
-      "word": "宋运辉梁思申一吻定情",
-      "onboard_time": 1706007692,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 204100,
@@ -37683,6 +37723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190081,
+      "num": 190081,
+      "word": "成毅王权富贵高清正脸照",
+      "onboard_time": 1706009192,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190049,
       "num": 190049,
       "word": "1只银渐层烤火变半只金渐层",
@@ -38153,6 +38201,14 @@
       "onboard_time": 1705587809,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188065,
+      "num": 188065,
+      "word": "已经不习惯秦岚正常的声音了",
+      "onboard_time": 1706008710,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188038,
@@ -38665,6 +38721,14 @@
       "onboard_time": 1704887071,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185612,
+      "num": 185612,
+      "word": "OMG战胜WE",
+      "onboard_time": 1706008950,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 185599,
@@ -41409,6 +41473,14 @@
       "onboard_time": 1704782730,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 173683,
+      "num": 173683,
+      "word": "i人喜欢的东西",
+      "onboard_time": 1706006549,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 173624,
@@ -44971,14 +45043,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 158376,
-      "num": 158376,
-      "word": "赵昭仪导游第一件事是逃亡",
-      "onboard_time": 1706008348,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158352,
       "num": 158352,
       "word": "excuse咪 打扰了",
@@ -46851,6 +46915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150838,
+      "num": 150838,
+      "word": "爸爸来北京后开始试着跑网约车",
+      "onboard_time": 1706009192,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150814,
       "num": 150814,
       "word": "小杨哥徒弟红绿灯的黄复播销售额近千万",
@@ -48232,14 +48304,6 @@
       "word": "一个人跨年 仪式感",
       "onboard_time": 1704028141,
       "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 145153,
-      "num": 145153,
-      "word": "i人喜欢的东西",
-      "onboard_time": 1706006549,
-      "rank": 37,
       "category": "情感"
     },
     {
@@ -51475,6 +51539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132565,
+      "num": 132565,
+      "word": "赵昭仪平价穿搭",
+      "onboard_time": 1706009491,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 132539,
       "num": 132539,
       "word": "论父母的职业对孩子的影响有多大",
@@ -53811,14 +53883,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 124000,
-      "num": 124000,
-      "word": "papi酱 无法工作的理由",
-      "onboard_time": 1706008409,
-      "rank": 45,
-      "category": "网红"
-    },
-    {
       "raw_hot": 123907,
       "num": 123907,
       "word": "前国脚曾拒绝效力国家队",
@@ -55025,6 +55089,14 @@
       "onboard_time": 1705731447,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118631,
+      "num": 114859,
+      "word": "私密整形一夜爆火",
+      "onboard_time": 1706009611,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 118621,
