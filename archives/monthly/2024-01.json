@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706038447804,
+  "endTime": 1706041169422,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -63315,6 +63315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28584,
+      "num": 28584,
+      "word": "但凡有高中文化也不会这么编",
+      "onboard_time": 1706038936,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 28544,
       "num": 33206,
       "word": "傅菁翻跳guilty",
@@ -64113,6 +64121,14 @@
       "onboard_time": 1705345993,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13340,
+      "num": 13340,
+      "word": "小孩姐 人家要摸你你不要不识好歹",
+      "onboard_time": 1706040617,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 13331,
