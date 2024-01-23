@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1705966480510,
+  "endTime": 1705972723410,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -179,6 +179,14 @@
       "category": "网红,美食"
     },
     {
+      "raw_hot": 1311597,
+      "num": 1311597,
+      "word": "苹果龙年手机壳被吐槽指蟒为龙",
+      "onboard_time": 1705968625,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1301584,
       "num": 1301584,
       "word": "终于知道高铁盒饭受众是谁了",
@@ -273,6 +281,14 @@
       "onboard_time": 1705819466,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1116327,
+      "num": 1116327,
+      "word": "发现我妈也在偷偷装大人",
+      "onboard_time": 1705966340,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1106534,
@@ -449,6 +465,14 @@
       "onboard_time": 1705881444,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 884049,
+      "num": 884049,
+      "word": "武磊承认中国足球令人失望",
+      "onboard_time": 1705970730,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 870204,
@@ -657,6 +681,14 @@
       "onboard_time": 1705909226,
       "rank": 3,
       "category": "财经,艺人"
+    },
+    {
+      "raw_hot": 718774,
+      "num": 718774,
+      "word": "这道菜能不能灭了整个东三省",
+      "onboard_time": 1705967005,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 714725,
@@ -939,6 +971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 576530,
+      "num": 576530,
+      "word": "没盖杯盖的隔夜水别喝",
+      "onboard_time": 1705966340,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 573719,
       "num": 573719,
       "word": "吴彦祖 亚裔芭比刻板印象",
@@ -955,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571986,
+      "num": 571986,
+      "word": "杨幂粉色新中式棉服",
+      "onboard_time": 1705969168,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 557685,
       "num": 411847,
       "word": "为什么总是女厕所排队长",
@@ -969,6 +1017,14 @@
       "onboard_time": 1705915047,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 554602,
+      "num": 472504,
+      "word": "苹果已付清12亿卢布反垄断罚款",
+      "onboard_time": 1705970849,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 549529,
@@ -1259,6 +1315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 478059,
+      "num": 478059,
+      "word": "韦世豪 确实是我们踢得太臭了",
+      "onboard_time": 1705969710,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 477459,
       "num": 477459,
       "word": "赵丽颖3天2篇河北小作文",
@@ -1313,6 +1377,14 @@
       "onboard_time": 1705830268,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 464161,
+      "num": 464161,
+      "word": "新疆乌什震中20公里内人口极其稀少",
+      "onboard_time": 1705966040,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463790,
@@ -1547,6 +1619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 411152,
+      "num": 231754,
+      "word": "原来被辞退前都是有征兆的",
+      "onboard_time": 1705968265,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 410175,
       "num": 410175,
       "word": "老爷爷打卡易烊千玺海报女孩热情帮拍",
@@ -1604,7 +1684,7 @@
     },
     {
       "raw_hot": 401192,
-      "num": 144288,
+      "num": 229046,
       "word": "为什么每次洗澡身上都有泥可搓",
       "onboard_time": 1705937666,
       "rank": 49,
@@ -1633,6 +1713,14 @@
       "onboard_time": 1705887805,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 397635,
+      "num": 231337,
+      "word": "C罗敬酒",
+      "onboard_time": 1705967784,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 393624,
@@ -1939,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342823,
+      "num": 342823,
+      "word": "樱桃姐退坑",
+      "onboard_time": 1705969407,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 342065,
       "num": 342065,
       "word": "周杰伦 多重宇宙伦都是真的",
@@ -2131,6 +2227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303804,
+      "num": 303804,
+      "word": "这一次竹马战胜了天降",
+      "onboard_time": 1705948216,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303484,
       "num": 303484,
       "word": "经常拥抱对身体有好处",
@@ -2185,6 +2289,14 @@
       "onboard_time": 1705931009,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 296541,
+      "num": 230197,
+      "word": "茅台瑞幸联名为何不火了",
+      "onboard_time": 1705972710,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 293733,
@@ -2491,6 +2603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252804,
+      "num": 252804,
+      "word": "以老友记主演为灵感的穿搭",
+      "onboard_time": 1705970249,
+      "rank": 16,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 252122,
       "num": 241204,
       "word": "原神代肝有多残酷",
@@ -2659,6 +2779,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 232309,
+      "num": 232309,
+      "word": "小黄豆 顾茜茜",
+      "onboard_time": 1705968206,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 231284,
       "num": 231284,
       "word": "黑龙江多地文旅连夜上大分",
@@ -2691,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228947,
+      "num": 228947,
+      "word": "南方下的不是雪是壁纸",
+      "onboard_time": 1705957453,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228469,
       "num": 228469,
       "word": "程潇帮选手去油",
@@ -2713,6 +2849,14 @@
       "onboard_time": 1705839449,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225067,
+      "num": 225067,
+      "word": "邓为刚化形的小雪狐",
+      "onboard_time": 1705970550,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 224974,
@@ -2793,6 +2937,14 @@
       "onboard_time": 1705845211,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220438,
+      "num": 220438,
+      "word": "C罗 银耳雪梨汤",
+      "onboard_time": 1705972050,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 220251,
@@ -2947,14 +3099,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 209974,
-      "num": 209974,
-      "word": "这一次竹马战胜了天降",
-      "onboard_time": 1705948216,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209904,
       "num": 209904,
       "word": "85后小伙返乡创业一年卖100万套毛笔",
@@ -3009,6 +3153,14 @@
       "onboard_time": 1705798225,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206067,
+      "num": 206067,
+      "word": "陈若华未婚夫习惯性出轨",
+      "onboard_time": 1705971627,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 206005,
@@ -3875,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171878,
+      "num": 171878,
+      "word": "美国50ETF临时停牌",
+      "onboard_time": 1705971450,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 171093,
       "num": 165673,
       "word": "李九以诗致敬动画李白",
@@ -3897,6 +4057,14 @@
       "onboard_time": 1705816646,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170869,
+      "num": 170869,
+      "word": "书中自有黄金屋具象化了",
+      "onboard_time": 1705971147,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 170538,
@@ -3977,6 +4145,14 @@
       "onboard_time": 1705924168,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167608,
+      "num": 167608,
+      "word": "新疆此次地震主余型的可能性较大",
+      "onboard_time": 1705968147,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166292,
@@ -4283,14 +4459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155840,
-      "num": 155840,
-      "word": "没盖杯盖的隔夜水别喝",
-      "onboard_time": 1705966340,
-      "rank": 13,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 155320,
       "num": 155320,
       "word": "商场张贴日系文化图案广告被约谈",
@@ -4337,6 +4505,14 @@
       "onboard_time": 1705802665,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 154314,
+      "num": 154314,
+      "word": "县城高中是否再难出清北生",
+      "onboard_time": 1705966463,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 154244,
@@ -4537,6 +4713,14 @@
       "onboard_time": 1705843588,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145756,
+      "num": 145756,
+      "word": "让陌生人给自己孩子让座",
+      "onboard_time": 1705968568,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 145639,
@@ -4875,6 +5059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136135,
+      "num": 136135,
+      "word": "新疆地震最新情况汇总",
+      "onboard_time": 1705965981,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136059,
       "num": 136059,
       "word": "2024LPL春季赛主宣传片",
@@ -5067,6 +5259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129665,
+      "num": 129665,
+      "word": "魏如萱的奶奶实在是太可爱了",
+      "onboard_time": 1705970008,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129319,
       "num": 129319,
       "word": "仙剑之父转发仙剑四微博",
@@ -5155,6 +5355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127610,
+      "num": 127610,
+      "word": "RNG战胜EDG",
+      "onboard_time": 1705972228,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127442,
       "num": 127442,
       "word": "李炎哲加盟新疆男篮",
@@ -5177,14 +5385,6 @@
       "onboard_time": 1705804705,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127101,
-      "num": 127101,
-      "word": "南方下的不是雪是壁纸",
-      "onboard_time": 1705957453,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126762,
@@ -5241,14 +5441,6 @@
       "onboard_time": 1705797445,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124776,
-      "num": 131816,
-      "word": "新疆乌什震中20公里内人口极其稀少",
-      "onboard_time": 1705966040,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123653,
@@ -5467,6 +5659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113804,
+      "num": 113804,
+      "word": "RNG 会不会BP",
+      "onboard_time": 1705968265,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113657,
       "num": 113657,
       "word": "印度赛陈雨菲女单亚军",
@@ -5499,14 +5699,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 111598,
-      "num": 111598,
-      "word": "新疆地震最新情况汇总",
-      "onboard_time": 1705965981,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111169,
       "num": 111169,
       "word": "原来狗狗也有玩不起的时候",
@@ -5523,14 +5715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110536,
-      "num": 110536,
-      "word": "发现我妈也在偷偷装大人",
-      "onboard_time": 1705966340,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110384,
       "num": 110384,
       "word": "100道年夜菜",
@@ -5545,6 +5729,14 @@
       "onboard_time": 1705907847,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 110094,
+      "num": 110094,
+      "word": "地震灾区在校学生已全部疏散完毕",
+      "onboard_time": 1705970067,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109570,
@@ -5697,6 +5889,14 @@
       "onboard_time": 1705891885,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103834,
+      "num": 103834,
+      "word": "湖人老鹰将重启交易谈判",
+      "onboard_time": 1705970131,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 103387,
@@ -6147,14 +6347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 60727,
-      "num": 60727,
-      "word": "县城高中是否再难出清北生",
-      "onboard_time": 1705966463,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 58410,
       "num": 58410,
       "word": "肖一成想和林西同房",
@@ -6176,6 +6368,14 @@
       "word": "缉毒警笔记里的经验总结让人泪目",
       "onboard_time": 1705805306,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56065,
+      "num": 1157282,
+      "word": "国字号重器硬核展示中国制造实力",
+      "onboard_time": 1705928249,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -6273,14 +6473,6 @@
       "onboard_time": 1705793237,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32842,
-      "num": 581166,
-      "word": "国字号重器硬核展示中国制造实力",
-      "onboard_time": 1705928249,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32452,
