@@ -1,6 +1,6 @@
 {
   "startTime": 1706027038365,
-  "endTime": 1706080645594,
+  "endTime": 1706081656163,
   "band_list": [
     {
       "raw_hot": 3927509,
@@ -33,6 +33,14 @@
       "onboard_time": 1706061211,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1333216,
+      "num": 1333216,
+      "word": "网红巨人小莫去世家人拒领骨灰",
+      "onboard_time": 1706079510,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1328553,
@@ -155,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 759072,
+      "num": 759072,
+      "word": "10岁小孩分享辣条后同学死亡被诉",
+      "onboard_time": 1706079810,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727628,
       "num": 727628,
       "word": "花少",
@@ -169,14 +185,6 @@
       "onboard_time": 1706016272,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 712324,
-      "num": 343304,
-      "word": "网红巨人小莫去世家人拒领骨灰",
-      "onboard_time": 1706079510,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 687564,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 655517,
-      "num": 342807,
+      "num": 541069,
       "word": "英国偶遇章泽天",
       "onboard_time": 1706078668,
       "rank": 11,
@@ -411,6 +419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 397475,
+      "num": 397475,
+      "word": "迪丽热巴给花少团买礼物",
+      "onboard_time": 1706080470,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396657,
       "num": 396657,
       "word": "李湘宣布退休后又复工",
@@ -531,19 +547,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 317744,
-      "num": 317744,
-      "word": "10岁小孩分享辣条后同学死亡被诉",
-      "onboard_time": 1706079810,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315013,
       "num": 315013,
       "word": "重庆下雪",
       "onboard_time": 1706053406,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314814,
+      "num": 314814,
+      "word": "济南一酒店凌晨起火致4人死亡",
+      "onboard_time": 1706079329,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273841,
+      "num": 273841,
+      "word": "马云成阿里最大单一股东",
+      "onboard_time": 1706081008,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 270410,
       "num": 234136,
       "word": "朋友之间最大方的那个就是最穷的",
@@ -675,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245841,
-      "num": 245841,
-      "word": "济南一酒店凌晨起火致4人死亡",
-      "onboard_time": 1706079329,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241787,
       "num": 241787,
       "word": "这么睡有奇效",
@@ -691,12 +707,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 241038,
-      "num": 241038,
-      "word": "迪丽热巴给花少团买礼物",
-      "onboard_time": 1706080470,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 234047,
+      "num": 234047,
+      "word": "预制菜 年夜饭",
+      "onboard_time": 1706080711,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 226848,
@@ -745,6 +761,14 @@
       "onboard_time": 1706065889,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218536,
+      "num": 218536,
+      "word": "上班后人的性格真的会变",
+      "onboard_time": 1706077112,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 214981,
@@ -849,14 +873,6 @@
       "onboard_time": 1706077767,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203011,
-      "num": 203011,
-      "word": "上班后人的性格真的会变",
-      "onboard_time": 1706077112,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 198330,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1706078250,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153549,
+      "num": 153549,
+      "word": "巨人小莫",
+      "onboard_time": 1706080830,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151915,
@@ -1219,6 +1243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126962,
+      "num": 126962,
+      "word": "幻兽帕鲁销量突破700万",
+      "onboard_time": 1706080590,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126600,
       "num": 126600,
       "word": "万鹏付辛博合照",
@@ -1331,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118277,
+      "num": 118277,
+      "word": "处女座真的嘴硬",
+      "onboard_time": 1706080530,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118140,
       "num": 118140,
       "word": "快船战胜湖人",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1706063189,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 108424,
-      "num": 108424,
-      "word": "幻兽帕鲁销量突破700万",
-      "onboard_time": 1706080590,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 108120,
@@ -1443,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100642,
+      "num": 100642,
+      "word": "A股超3900只个股下跌",
+      "onboard_time": 1706081488,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97356,
       "num": 97356,
       "word": "订婚强奸案当事男子母亲将为儿辩护",
@@ -1465,14 +1505,6 @@
       "onboard_time": 1706009311,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96820,
-      "num": 96820,
-      "word": "处女座真的嘴硬",
-      "onboard_time": 1706080530,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 96270,
@@ -1513,6 +1545,22 @@
       "onboard_time": 1706020772,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92999,
+      "num": 92999,
+      "word": "第一次看到鱼无力的表情",
+      "onboard_time": 1706081551,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 90424,
+      "num": 90424,
+      "word": "郑钦文vs卡林斯卡娅",
+      "onboard_time": 1706081613,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 88948,
