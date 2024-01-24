@@ -1,6 +1,6 @@
 {
   "startTime": 1706027038365,
-  "endTime": 1706085409543,
+  "endTime": 1706087907854,
   "band_list": [
     {
       "raw_hot": 3927509,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1237232,
+      "num": 1237232,
+      "word": "青岛女销售一年卖170台保时捷",
+      "onboard_time": 1706082032,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1158739,
       "num": 1158739,
       "word": "10岁小孩分享辣条后同学死亡被诉",
@@ -112,14 +120,6 @@
       "word": "花花知道自己的弟弟变妹妹了吗",
       "onboard_time": 1706070633,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1017607,
-      "num": 1017607,
-      "word": "青岛女销售一年卖170台保时捷",
-      "onboard_time": 1706082032,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -371,6 +371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 498582,
+      "num": 498582,
+      "word": "为什么有些韩国人觉得中国菜难吃",
+      "onboard_time": 1706085809,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 477858,
       "num": 237901,
       "word": "王健林的年会停了",
@@ -435,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438858,
+      "num": 438858,
+      "word": "人民文娱评仙剑四祈今朝",
+      "onboard_time": 1706086769,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 437794,
       "num": 437794,
       "word": "特朗普在新罕布什尔州共和党初选中胜出",
       "onboard_time": 1706060427,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 433326,
+      "num": 433326,
+      "word": "胡先煦认证赵昭仪最佳导游",
+      "onboard_time": 1706086589,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 428466,
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359558,
+      "num": 359558,
+      "word": "春节前理发 中国人的豪赌",
+      "onboard_time": 1706086769,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 349469,
       "num": 349469,
       "word": "TFBOYS坐房顶干嘛",
@@ -577,6 +609,14 @@
       "onboard_time": 1706069135,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331636,
+      "num": 331636,
+      "word": "个人养老金制度将推进全面实施",
+      "onboard_time": 1706087550,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 325438,
@@ -659,12 +699,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297140,
+      "num": 297140,
+      "word": "黄多多 新电影",
+      "onboard_time": 1706087550,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 295126,
       "num": 295126,
       "word": "河南发生火灾学校发布通报",
       "onboard_time": 1706020054,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294103,
+      "num": 294103,
+      "word": "邓家佳收到粉丝做的PPT",
+      "onboard_time": 1706084371,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 283355,
@@ -731,6 +787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249454,
+      "num": 249454,
+      "word": "赵昭仪长文感谢花少团",
+      "onboard_time": 1706085150,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248383,
       "num": 248383,
       "word": "寻亲家长26年后一眼认出人贩子",
@@ -747,20 +811,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242709,
-      "num": 242709,
-      "word": "邓家佳收到粉丝做的PPT",
-      "onboard_time": 1706084371,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241787,
       "num": 241787,
       "word": "这么睡有奇效",
       "onboard_time": 1706052143,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229695,
+      "num": 229695,
+      "word": "2000元整捆纸币取出20万即视感",
+      "onboard_time": 1706087189,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229330,
+      "num": 229330,
+      "word": "央行历次降准A股怎么走",
+      "onboard_time": 1706086228,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 226848,
@@ -875,6 +947,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 209672,
+      "num": 209672,
+      "word": "花千骨",
+      "onboard_time": 1706086647,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209648,
       "num": 209648,
       "word": "藏海传抵制代拍声明",
@@ -931,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201750,
+      "num": 201750,
+      "word": "小金毛被猫猫打耳光还傻笑",
+      "onboard_time": 1706084250,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198330,
       "num": 198330,
       "word": "竟然被一条狗帅到了",
@@ -953,14 +1041,6 @@
       "onboard_time": 1706082452,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193453,
-      "num": 147856,
-      "word": "小金毛被猫猫打耳光还傻笑",
-      "onboard_time": 1706084250,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 192566,
@@ -1019,12 +1099,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174681,
-      "num": 174681,
-      "word": "赵昭仪长文感谢花少团",
-      "onboard_time": 1706085150,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 177950,
+      "num": 177950,
+      "word": "张馨予打卡黑龙江小狐狸的家",
+      "onboard_time": 1706085991,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175803,
+      "num": 175803,
+      "word": "不喜欢的衣服留着上班穿",
+      "onboard_time": 1706087489,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 172767,
@@ -1217,6 +1305,14 @@
       "onboard_time": 1706083530,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145548,
+      "num": 145548,
+      "word": "间谍过家家 次瓜见父母",
+      "onboard_time": 1706086527,
+      "rank": 35,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 145148,
@@ -1515,6 +1611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120839,
+      "num": 120839,
+      "word": "吃海鲜被章鱼喷墨",
+      "onboard_time": 1706087729,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119024,
       "num": 119024,
       "word": "当新人销售第一次打电话",
@@ -1579,6 +1683,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 109364,
+      "num": 109364,
+      "word": "特斯拉回应将生产紧凑型跨界车",
+      "onboard_time": 1706087430,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 108120,
       "num": 108120,
       "word": "委员建议中小学设副班主任",
@@ -1635,12 +1747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103476,
+      "num": 103476,
+      "word": "澳网",
+      "onboard_time": 1706086647,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103378,
       "num": 103378,
       "word": "过年必备仪式感九件套",
       "onboard_time": 1706073450,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102623,
+      "num": 102623,
+      "word": "郑钦文vs卡林斯卡娅",
+      "onboard_time": 1706081613,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101230,
@@ -1673,6 +1801,14 @@
       "onboard_time": 1706064151,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96838,
+      "num": 96838,
+      "word": "阴阳师新春皮肤",
+      "onboard_time": 1706087189,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 96824,
@@ -1721,14 +1857,6 @@
       "onboard_time": 1706020772,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90424,
-      "num": 90424,
-      "word": "郑钦文vs卡林斯卡娅",
-      "onboard_time": 1706081613,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 88948,

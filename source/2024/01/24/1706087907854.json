@@ -1,0 +1,410 @@
+{
+  "runTime": 1706087907854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1883618,
+        "num": 1883618,
+        "word": "央行降准0.5个百分点",
+        "onboard_time": 1706083530,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1237232,
+        "num": 1237232,
+        "word": "青岛女销售一年卖170台保时捷",
+        "onboard_time": 1706082032,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37168,
+        "num": 867317,
+        "word": "4分半回顾改革开放大事记",
+        "onboard_time": 1706084793,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856590,
+        "num": 856590,
+        "word": "SKII曾称日本最大湖泊是产品唯一水质来源",
+        "onboard_time": 1706082330,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 663445,
+        "num": 663445,
+        "word": "第一批网红奶茶悄悄消失",
+        "onboard_time": 1706065050,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634174,
+        "num": 634174,
+        "word": "10岁小孩分享辣条后同学死亡被诉",
+        "onboard_time": 1706079810,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700974,
+        "num": 601172,
+        "word": "网红巨人小莫去世家人拒领骨灰",
+        "onboard_time": 1706079510,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498582,
+        "num": 498582,
+        "word": "为什么有些韩国人觉得中国菜难吃",
+        "onboard_time": 1706085809,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 438858,
+        "num": 438858,
+        "word": "人民文娱评仙剑四祈今朝",
+        "onboard_time": 1706086769,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433326,
+        "num": 433326,
+        "word": "胡先煦认证赵昭仪最佳导游",
+        "onboard_time": 1706086589,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359558,
+        "num": 359558,
+        "word": "春节前理发 中国人的豪赌",
+        "onboard_time": 1706086769,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342456,
+        "num": 342456,
+        "word": "韩媒嫉妒C罗在中国道歉",
+        "onboard_time": 1706076927,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331636,
+        "num": 331636,
+        "word": "个人养老金制度将推进全面实施",
+        "onboard_time": 1706087550,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 317967,
+        "num": 317967,
+        "word": "和叶 弟弟变妹妹",
+        "onboard_time": 1706063308,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297140,
+        "num": 297140,
+        "word": "黄多多 新电影",
+        "onboard_time": 1706087550,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294103,
+        "num": 294103,
+        "word": "邓家佳收到粉丝做的PPT",
+        "onboard_time": 1706084371,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292836,
+        "num": 292836,
+        "word": "坏消息工资要年后发",
+        "onboard_time": 1706070691,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250409,
+        "num": 250409,
+        "word": "钟楚曦怕自己太瘦观众不喜欢",
+        "onboard_time": 1706076150,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249454,
+        "num": 249454,
+        "word": "赵昭仪长文感谢花少团",
+        "onboard_time": 1706085150,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237529,
+        "num": 237529,
+        "word": "赵今麦妆造全靠脸了",
+        "onboard_time": 1706068951,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229695,
+        "num": 229695,
+        "word": "2000元整捆纸币取出20万即视感",
+        "onboard_time": 1706087189,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229330,
+        "num": 229330,
+        "word": "央行历次降准A股怎么走",
+        "onboard_time": 1706086228,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226612,
+        "num": 226612,
+        "word": "预制菜 年夜饭",
+        "onboard_time": 1706080711,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 224607,
+        "num": 224607,
+        "word": "迪丽热巴给花少团买礼物",
+        "onboard_time": 1706080470,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209672,
+        "num": 209672,
+        "word": "花千骨",
+        "onboard_time": 1706086647,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201750,
+        "num": 201750,
+        "word": "小金毛被猫猫打耳光还傻笑",
+        "onboard_time": 1706084250,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185373,
+        "num": 185373,
+        "word": "马云成阿里最大单一股东",
+        "onboard_time": 1706081008,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 180637,
+        "num": 180637,
+        "word": "我发现冷漠比共情好用",
+        "onboard_time": 1706082452,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177950,
+        "num": 177950,
+        "word": "张馨予打卡黑龙江小狐狸的家",
+        "onboard_time": 1706085991,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176178,
+        "num": 176178,
+        "word": "花花知道自己的弟弟变妹妹了吗",
+        "onboard_time": 1706070633,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176102,
+        "num": 176102,
+        "word": "电影花千骨导演道歉",
+        "onboard_time": 1706061509,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175803,
+        "num": 175803,
+        "word": "不喜欢的衣服留着上班穿",
+        "onboard_time": 1706087489,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158548,
+        "num": 158548,
+        "word": "英国偶遇章泽天",
+        "onboard_time": 1706078668,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155389,
+        "num": 155389,
+        "word": "吴磊赵今麦脸颊吻",
+        "onboard_time": 1706077229,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150197,
+        "num": 150197,
+        "word": "英国的性教育",
+        "onboard_time": 1706061450,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145548,
+        "num": 145548,
+        "word": "间谍过家家 次瓜见父母",
+        "onboard_time": 1706086527,
+        "rank": 35,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 141138,
+        "num": 141138,
+        "word": "处女座真的嘴硬",
+        "onboard_time": 1706080530,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139979,
+        "num": 139979,
+        "word": "李宏毅回应新戏",
+        "onboard_time": 1706077767,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132134,
+        "num": 132134,
+        "word": "董明珠称身上毛衣不到200块",
+        "onboard_time": 1706076927,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131530,
+        "num": 131530,
+        "word": "济南一酒店凌晨起火致4人死亡",
+        "onboard_time": 1706079329,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125821,
+        "num": 125821,
+        "word": "林忆莲将复出",
+        "onboard_time": 1706082687,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120839,
+        "num": 120839,
+        "word": "吃海鲜被章鱼喷墨",
+        "onboard_time": 1706087729,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115114,
+        "num": 115114,
+        "word": "花千骨票房",
+        "onboard_time": 1706064088,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112073,
+        "num": 112073,
+        "word": "当狗狗以为自己要留在乡下了",
+        "onboard_time": 1706082812,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109364,
+        "num": 109364,
+        "word": "特斯拉回应将生产紧凑型跨界车",
+        "onboard_time": 1706087430,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 108051,
+        "num": 108051,
+        "word": "A股超3900只个股下跌",
+        "onboard_time": 1706081488,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103588,
+        "num": 103588,
+        "word": "女子称在银行取5000元现金被刁难",
+        "onboard_time": 1706072671,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103476,
+        "num": 103476,
+        "word": "澳网",
+        "onboard_time": 1706086647,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102623,
+        "num": 102623,
+        "word": "郑钦文vs卡林斯卡娅",
+        "onboard_time": 1706081613,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96838,
+        "num": 96838,
+        "word": "阴阳师新春皮肤",
+        "onboard_time": 1706087189,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#树牢群众观点贯彻群众路线#"
+    }
+  }
+}
