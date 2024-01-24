@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/25 00:23:27 ~ 2024/01/25 04:19:34
+本榜单时间：2024/01/25 00:23:27 ~ 2024/01/25 04:34:38
 </p>
 </blockquote>
 <p>
@@ -376,7 +376,7 @@ NMIXX一位（热度：43516）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%B5%B7%E7%81%AB%E5%BA%97%E9%93%BA%E5%9C%B0%E4%B8%8B%E5%AE%A4%E6%AD%A4%E5%89%8D%E8%A3%85%E4%BF%AE%23" target="weibo">
-江西起火店铺地下室此前装修（热度：20458）
+江西起火店铺地下室此前装修（热度：21305）
 </a>
 </li>
 
@@ -388,7 +388,13 @@ NMIXX一位（热度：43516）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E4%B8%AD100%E5%A4%9A%E8%AD%A6%E5%8A%9B%E5%87%BA%E5%8A%A8%E6%89%BE%E7%9A%84%E5%AD%A9%E5%AD%90%E8%A2%AB%E4%BA%A4%E8%AD%A6%E6%8D%A1%E5%88%B0%23" target="weibo">
-暴雪中100多警力出动找的孩子被交警捡到（热度：14751）
+暴雪中100多警力出动找的孩子被交警捡到（热度：15566）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E6%96%B0%E4%BD%99%E7%81%AB%E7%81%BE%E4%BA%B2%E5%8E%86%E8%80%85%E8%AE%B2%E8%BF%B0%E9%80%83%E7%94%9F%E7%BB%8F%E5%8E%86%23" target="weibo">
+江西新余火灾亲历者讲述逃生经历（热度：10109）
 </a>
 </li>
 
