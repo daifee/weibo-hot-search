@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/24 19:15:37
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/24 19:34:06
 </p>
 </blockquote>
 <p>
@@ -573,6 +573,12 @@ C罗向中国球迷道歉（热度：2416354）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E5%BC%BA%E5%A5%B89%E5%90%8D%E5%A5%B3%E7%94%9F1%E4%BA%BA%E8%8E%B7%E6%AD%BB%E5%88%91%23" target="weibo">
+两小学教师强奸9名女生1人获死刑（热度：2231974）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%BE%99%E5%B9%B4%E6%88%96%E5%87%BA%E7%8E%B0%E7%94%9F%E8%82%B2%E5%B0%8F%E9%AB%98%E5%B3%B0%23" target="weibo">
 专家称龙年或出现生育小高峰（热度：2231888）
 </a>
@@ -779,12 +785,6 @@ C罗向中国球迷道歉（热度：2416354）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E5%87%BA%E5%9B%BD%E7%9A%84%E6%97%85%E6%B8%B8%E5%9C%B0%23" target="weibo">
 发朋友圈被误认为出国的旅游地（热度：2040575）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E5%BC%BA%E5%A5%B89%E5%90%8D%E5%A5%B3%E7%94%9F1%E4%BA%BA%E8%8E%B7%E6%AD%BB%E5%88%91%23" target="weibo">
-两小学教师强奸9名女生1人获死刑（热度：2032431）
 </a>
 </li>
 
@@ -1749,6 +1749,12 @@ APP未经同意跳转广告涉嫌违法（热度：1510146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%B8%8D%E6%BB%A1%E4%B8%AD%E5%9B%BD%E8%A1%8C%E4%B8%BB%E5%8A%9E%E6%96%B9%23" target="weibo">
+C罗不满中国行主办方（热度：1464904）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8C%87%E8%82%9B%E7%8F%A0%E4%BD%9C%E5%BC%8A%E8%B1%A1%E6%A3%8B%E5%86%A0%E5%86%9B%E8%B5%B7%E8%AF%89%E4%B8%AD%E5%9B%BD%E6%A3%8B%E5%8D%8F%23" target="weibo">
 被指肛珠作弊象棋冠军起诉中国棋协（热度：1464481）
 </a>
@@ -1859,12 +1865,6 @@ APP未经同意跳转广告涉嫌违法（热度：1510146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E6%9C%9F5%E4%B8%AA%E8%A1%A8%E7%8E%B0%E8%AF%B4%E6%98%8E%E5%AD%90%E5%AE%AB%E5%BE%88%E5%81%A5%E5%BA%B7%23" target="weibo">
 经期5个表现说明子宫很健康（热度：1438103）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%B8%8D%E6%BB%A1%E4%B8%AD%E5%9B%BD%E8%A1%8C%E4%B8%BB%E5%8A%9E%E6%96%B9%23" target="weibo">
-C罗不满中国行主办方（热度：1433764）
 </a>
 </li>
 
@@ -2691,6 +2691,12 @@ A先生 胡歌的脸（热度：1234335）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E6%96%B0%E4%BD%99%E7%81%AB%E7%81%BE25%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+江西新余火灾25人遇难（热度：1218720）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8ECCTV5%E5%88%B0CCTV1%23" target="weibo">
 从CCTV5到CCTV1（热度：1217437）
 </a>
@@ -3177,6 +3183,12 @@ A先生说辛芷蕾本人很漂亮（热度：1194844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%97%A0%E8%87%AA%E6%9D%80%E5%8B%87%E6%B0%94%E7%A0%B8%E6%AD%BB%E8%B7%AF%E4%BA%BA%E6%B1%82%E6%AD%BB%E5%88%91%23" target="weibo">
+男子无自杀勇气砸死路人求死刑（热度：1124550）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E4%BB%A5%E6%AD%BB%E9%80%BC%E5%A9%9A%E5%84%BF%E5%AD%90%E7%BB%93%E5%A9%9A%E5%8D%8A%E5%B9%B4%E9%97%AA%E7%A6%BB%23" target="weibo">
 母亲以死逼婚儿子结婚半年闪离（热度：1123550）
 </a>
@@ -3623,12 +3635,6 @@ A先生李李恋情（热度：1095743）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E7%9B%90%E8%BF%87%E5%A4%9A%E8%87%B4%E6%AD%BB%E7%8E%87%E4%B8%96%E7%95%8C%E7%AC%AC1%23" target="weibo">
 中国人吃盐过多致死率世界第1（热度：1048484）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%97%A0%E8%87%AA%E6%9D%80%E5%8B%87%E6%B0%94%E7%A0%B8%E6%AD%BB%E8%B7%AF%E4%BA%BA%E6%B1%82%E6%AD%BB%E5%88%91%23" target="weibo">
-男子无自杀勇气砸死路人求死刑（热度：1048130）
 </a>
 </li>
 
@@ -4977,6 +4983,12 @@ SKII曾称日本最大湖泊是产品唯一水质来源（热度：866032）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E7%AD%BE%E5%94%AE%E6%80%81%E5%BA%A6%E5%86%8D%E6%83%B9%E4%BA%89%E8%AE%AE%23" target="weibo">
+宁艺卓签售态度再惹争议（热度：862172）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9D%8E%E9%93%81%E4%B8%80%E8%B7%AF%E7%A0%B8%E9%92%B1%E5%88%B0%E8%83%BD%E6%89%A7%E6%95%99%E5%9B%BD%E8%B6%B3%23" target="weibo">
 曝李铁一路砸钱到能执教国足（热度：860938）
 </a>
@@ -5117,12 +5129,6 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%8E%E6%9C%97%E5%9B%9E%E5%BA%9458%E5%B2%81%E5%BB%BA%E7%AD%91%E5%B7%A5%E4%BA%BA%E9%92%A2%E7%90%B4%E4%B9%8B%E7%BA%A6%23" target="weibo">
 郎朗回应58岁建筑工人钢琴之约（热度：848793）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E7%AD%BE%E5%94%AE%E6%80%81%E5%BA%A6%E5%86%8D%E6%83%B9%E4%BA%89%E8%AE%AE%23" target="weibo">
-宁艺卓签售态度再惹争议（热度：848730）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E5%A4%A7%23" target="weibo">
 华中农大（热度：781969）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%AE%B6%E5%90%83%E9%A5%AD%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%8D%E5%85%81%E8%AE%B8%E7%9C%8B%E6%89%8B%E6%9C%BA%23" target="weibo">
-谢娜家吃饭的时候不允许看手机（热度：781850）
 </a>
 </li>
 
