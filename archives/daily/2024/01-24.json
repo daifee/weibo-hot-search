@@ -1,6 +1,6 @@
 {
   "startTime": 1706027038365,
-  "endTime": 1706102510302,
+  "endTime": 1706103228459,
   "band_list": [
     {
       "raw_hot": 7473338,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1666157,
-      "num": 1252897,
+      "num": 1277153,
       "word": "张檬备孕失败",
       "onboard_time": 1706095589,
       "rank": 10,
@@ -307,8 +307,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 735238,
-      "num": 271265,
+      "raw_hot": 736973,
+      "num": 314540,
       "word": "男子带9月孕妻爬山被亲妈语音轰炸",
       "onboard_time": 1706100275,
       "rank": 30,
@@ -329,6 +329,14 @@
       "onboard_time": 1706016272,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 709743,
+      "num": 709743,
+      "word": "江西火灾多人从二楼跳下被民警接住",
+      "onboard_time": 1706099610,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 701506,
@@ -433,14 +441,6 @@
       "onboard_time": 1706022995,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 609623,
-      "num": 609623,
-      "word": "江西火灾多人从二楼跳下被民警接住",
-      "onboard_time": 1706099610,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 604466,
@@ -563,6 +563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 485100,
+      "num": 485100,
+      "word": "C罗对直播带货网红蹭流量很生气",
+      "onboard_time": 1706099190,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 480618,
       "num": 480618,
       "word": "知情人称江西起火商铺尚未开业",
@@ -651,14 +659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 448655,
-      "num": 448655,
-      "word": "C罗对直播带货网红蹭流量很生气",
-      "onboard_time": 1706099190,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 443705,
       "num": 443705,
       "word": "詹青云 在爱里成为完整的我",
@@ -681,6 +681,14 @@
       "onboard_time": 1706060427,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 435283,
+      "num": 435283,
+      "word": "菏泽一臭水沟惊现8箱飞天茅台",
+      "onboard_time": 1706101116,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428466,
@@ -883,12 +891,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 324250,
+      "num": 324250,
+      "word": "潘斌龙说赵丽颖哭戏令人心碎",
+      "onboard_time": 1706102074,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 320774,
+      "num": 320774,
+      "word": "暧昧期容易上头的星座",
+      "onboard_time": 1706099793,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 319594,
       "num": 319594,
       "word": "林俊杰福州抢票",
       "onboard_time": 1706098471,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 319575,
+      "num": 319575,
+      "word": "巴宝莉门店回应热水袋不能装沸水",
+      "onboard_time": 1706101355,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317756,
@@ -921,14 +953,6 @@
       "onboard_time": 1706013632,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 307983,
-      "num": 307983,
-      "word": "暧昧期容易上头的星座",
-      "onboard_time": 1706099793,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 305787,
@@ -984,14 +1008,6 @@
       "word": "河南发生火灾学校发布通报",
       "onboard_time": 1706020054,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289827,
-      "num": 289827,
-      "word": "菏泽一臭水沟惊现8箱飞天茅台",
-      "onboard_time": 1706101116,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1075,6 +1091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 266024,
+      "num": 266024,
+      "word": "收到何同学的纸鸽了",
+      "onboard_time": 1706102195,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 262673,
       "num": 262673,
       "word": "李不言胖了好多",
@@ -1089,14 +1113,6 @@
       "onboard_time": 1706081613,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 260493,
-      "num": 260493,
-      "word": "巴宝莉门店回应热水袋不能装沸水",
-      "onboard_time": 1706101355,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258145,
@@ -1155,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246276,
+      "num": 246276,
+      "word": "麦当劳将再次上架优惠券",
+      "onboard_time": 1706098773,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 245365,
       "num": 165005,
       "word": "郑钦文决胜盘",
@@ -1209,14 +1233,6 @@
       "onboard_time": 1706082687,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225208,
-      "num": 225208,
-      "word": "麦当劳将再次上架优惠券",
-      "onboard_time": 1706098773,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 225084,
@@ -1363,14 +1379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207590,
-      "num": 207590,
-      "word": "潘斌龙说赵丽颖哭戏令人心碎",
-      "onboard_time": 1706102074,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 207457,
       "num": 207457,
       "word": "马伊琍大女儿近照",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1706065530,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 192228,
+      "num": 173854,
+      "word": "静脉血与动脉血",
+      "onboard_time": 1706102378,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 189664,
@@ -1563,14 +1579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177193,
-      "num": 177193,
-      "word": "收到何同学的纸鸽了",
-      "onboard_time": 1706102195,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 176780,
       "num": 165088,
       "word": "IU先行曲LovewinsAll",
@@ -1585,6 +1593,14 @@
       "onboard_time": 1706099311,
       "rank": 31,
       "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 174218,
+      "num": 174218,
+      "word": "雷东宝吃前妻韦春红的醋",
+      "onboard_time": 1706102793,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 173563,
@@ -1603,6 +1619,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 173112,
+      "num": 173112,
+      "word": "玩具螃蟹 当初就该烂在厂里",
+      "onboard_time": 1706099910,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172767,
       "num": 172767,
       "word": "2024年江原冬青奥会",
@@ -1617,14 +1641,6 @@
       "onboard_time": 1706081488,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 171082,
-      "num": 171082,
-      "word": "玩具螃蟹 当初就该烂在厂里",
-      "onboard_time": 1706099910,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 170178,
@@ -1803,14 +1819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149136,
-      "num": 149136,
-      "word": "静脉血与动脉血",
-      "onboard_time": 1706102378,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 148783,
       "num": 148783,
       "word": "澳网2024",
@@ -1889,6 +1897,14 @@
       "onboard_time": 1706072193,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142683,
+      "num": 142683,
+      "word": "冰雪大世界一个烤红薯卖38元",
+      "onboard_time": 1706101116,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142439,
@@ -1971,14 +1987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138501,
-      "num": 138501,
-      "word": "冰雪大世界一个烤红薯卖38元",
-      "onboard_time": 1706101116,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138198,
       "num": 138198,
       "word": "黄瀛子使不完的牛劲",
@@ -2059,6 +2067,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 131700,
+      "num": 131700,
+      "word": "孕期能做哪些运动",
+      "onboard_time": 1706102614,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 131412,
       "num": 131412,
       "word": "外交部回应中瑙复交",
@@ -2105,6 +2121,14 @@
       "onboard_time": 1706080590,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126911,
+      "num": 126911,
+      "word": "小猫拔河",
+      "onboard_time": 1706101056,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 126600,
@@ -2251,14 +2275,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120507,
-      "num": 120507,
-      "word": "小猫拔河",
-      "onboard_time": 1706101056,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119808,
       "num": 119808,
       "word": "麦当劳客服回应无法点餐",
@@ -2339,6 +2355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111375,
+      "num": 111375,
+      "word": "iG开门红",
+      "onboard_time": 1706103216,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110941,
       "num": 110941,
       "word": "格林认为杜兰特不在GOAT讨论中",
@@ -2361,6 +2385,14 @@
       "onboard_time": 1706087430,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 108985,
+      "num": 108985,
+      "word": "新余上月曾有火灾致死事故并刚排查整治",
+      "onboard_time": 1706103216,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108522,
@@ -2699,20 +2731,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56978,
+      "num": 1299758,
+      "word": "舰载直升机氛围感大片",
+      "onboard_time": 1706101292,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52311,
       "num": 52311,
       "word": "热火黄蜂交易",
       "onboard_time": 1706051904,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51912,
-      "num": 1298706,
-      "word": "舰载直升机氛围感大片",
-      "onboard_time": 1706101292,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51140,
