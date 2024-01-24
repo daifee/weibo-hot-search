@@ -1,6 +1,6 @@
 {
   "startTime": 1706027038365,
-  "endTime": 1706070161347,
+  "endTime": 1706071029601,
   "band_list": [
     {
       "raw_hot": 3927509,
@@ -17,6 +17,14 @@
       "onboard_time": 1706061211,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1389284,
+      "num": 1389284,
+      "word": "中国瑙鲁复交",
+      "onboard_time": 1706070091,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1328553,
@@ -75,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 814646,
-      "num": 814646,
+      "raw_hot": 846094,
+      "num": 846094,
       "word": "春节未成年只能玩9小时游戏",
       "onboard_time": 1706066611,
       "rank": 36,
@@ -155,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 604466,
+      "num": 604466,
+      "word": "中国和瑙鲁复交仪式即将举行",
+      "onboard_time": 1706070032,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 597039,
       "num": 597039,
       "word": "211硕士回应入职不到半年被裁",
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 543546,
-      "num": 309859,
+      "num": 386229,
       "word": "第一批网红奶茶悄悄消失",
       "onboard_time": 1706065050,
       "rank": 20,
@@ -225,6 +241,14 @@
       "onboard_time": 1706068052,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491840,
+      "num": 491840,
+      "word": "坏消息工资要年后发",
+      "onboard_time": 1706070691,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 477858,
@@ -281,6 +305,14 @@
       "onboard_time": 1706020596,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 423454,
+      "num": 423454,
+      "word": "Jennie公主切双马尾",
+      "onboard_time": 1706069913,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 396657,
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337025,
+      "num": 337025,
+      "word": "仙剑二外传选角",
+      "onboard_time": 1706069135,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325438,
       "num": 325438,
       "word": "云南60余岁夫妻手拉手遇难",
@@ -427,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294698,
-      "num": 294698,
-      "word": "仙剑二外传选角",
-      "onboard_time": 1706069135,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 283355,
       "num": 283355,
       "word": "美军称对伊拉克实施了打击",
@@ -467,12 +499,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 267115,
-      "num": 267115,
+      "raw_hot": 267975,
+      "num": 267975,
       "word": "阴阳师",
       "onboard_time": 1706069552,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 264786,
+      "num": 264786,
+      "word": "詹青云 在爱里成为完整的我",
+      "onboard_time": 1706070691,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 253531,
@@ -579,6 +619,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 209648,
+      "num": 209648,
+      "word": "藏海传抵制代拍声明",
+      "onboard_time": 1706070932,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208227,
       "num": 208227,
       "word": "丁也 癫公",
@@ -603,20 +651,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204836,
+      "num": 204836,
+      "word": "花花知道自己的弟弟变妹妹了吗",
+      "onboard_time": 1706070633,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204079,
       "num": 204079,
       "word": "高亚麟夸易烊千玺",
       "onboard_time": 1706058271,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199989,
-      "num": 199989,
-      "word": "Jennie公主切双马尾",
-      "onboard_time": 1706069913,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198330,
@@ -691,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165309,
-      "num": 165309,
-      "word": "中国和瑙鲁复交仪式即将举行",
-      "onboard_time": 1706070032,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 164657,
       "num": 164657,
       "word": "美国男篮巴黎奥运会候选名单",
@@ -729,14 +769,6 @@
       "onboard_time": 1706038936,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 153993,
-      "num": 153993,
-      "word": "中国瑙鲁复交",
-      "onboard_time": 1706070091,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 151915,
@@ -785,6 +817,14 @@
       "onboard_time": 1706063611,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146592,
+      "num": 146592,
+      "word": "哪本完结小说全网无代餐",
+      "onboard_time": 1706070276,
+      "rank": 40,
+      "category": "读书作家"
     },
     {
       "raw_hot": 145148,
@@ -857,6 +897,14 @@
       "onboard_time": 1706057729,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132425,
+      "num": 132425,
+      "word": "SKII大中华区销量受日本排污影响暴跌",
+      "onboard_time": 1706070871,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 131952,
@@ -1107,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87150,
+      "num": 1200196,
+      "word": "中国空间站核心舱入轨1000天",
+      "onboard_time": 1706068830,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86386,
       "num": 86386,
       "word": "女子在ATM机房避寒10分钟被银行喊话",
@@ -1131,20 +1187,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 75985,
-      "num": 857466,
-      "word": "中国空间站核心舱入轨1000天",
-      "onboard_time": 1706068830,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74786,
       "num": 74786,
       "word": "2024奥斯卡提名",
       "onboard_time": 1706018915,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 74562,
+      "num": 563745,
+      "word": "一句话送给更好的自己",
+      "onboard_time": 1706067329,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 74507,
@@ -1161,14 +1217,6 @@
       "onboard_time": 1706026646,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 67938,
-      "num": 563745,
-      "word": "一句话送给更好的自己",
-      "onboard_time": 1706067329,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 64663,
@@ -1313,6 +1361,9 @@
     },
     {
       "word": "#跨越近30年始终如一的情怀#"
+    },
+    {
+      "word": "#培养更多适应高质量发展高水平自立自强的各类人才#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706070161347,
+  "endTime": 1706071029601,
   "band_list": [
     {
       "raw_hot": 3927509,
@@ -249,6 +249,14 @@
       "onboard_time": 1705845211,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1389284,
+      "num": 1389284,
+      "word": "中国瑙鲁复交",
+      "onboard_time": 1706070091,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1347051,
@@ -795,6 +803,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 846094,
+      "num": 846094,
+      "word": "春节未成年只能玩9小时游戏",
+      "onboard_time": 1706066611,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 845451,
       "num": 845451,
       "word": "叙利亚一家五口两年没吃过肉",
@@ -848,14 +864,6 @@
       "word": "云南山体滑坡已致2人遇难",
       "onboard_time": 1705903525,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 814646,
-      "num": 814646,
-      "word": "春节未成年只能玩9小时游戏",
-      "onboard_time": 1706066611,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1427,6 +1435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 604466,
+      "num": 604466,
+      "word": "中国和瑙鲁复交仪式即将举行",
+      "onboard_time": 1706070032,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 603511,
       "num": 603511,
       "word": "安陵容早这样后宫没一个是对手",
@@ -1692,7 +1708,7 @@
     },
     {
       "raw_hot": 543546,
-      "num": 309859,
+      "num": 386229,
       "word": "第一批网红奶茶悄悄消失",
       "onboard_time": 1706065050,
       "rank": 20,
@@ -1913,6 +1929,14 @@
       "onboard_time": 1705896868,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 491840,
+      "num": 491840,
+      "word": "坏消息工资要年后发",
+      "onboard_time": 1706070691,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 491807,
@@ -2353,6 +2377,14 @@
       "onboard_time": 1705976426,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 423454,
+      "num": 423454,
+      "word": "Jennie公主切双马尾",
+      "onboard_time": 1706069913,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 422530,
@@ -3083,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337025,
+      "num": 337025,
+      "word": "仙剑二外传选角",
+      "onboard_time": 1706069135,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 336563,
       "num": 336563,
       "word": "杨紫给新戏衣服打码",
@@ -3499,14 +3539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294698,
-      "num": 294698,
-      "word": "仙剑二外传选角",
-      "onboard_time": 1706069135,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 293733,
       "num": 244225,
       "word": "食物语手游",
@@ -3851,6 +3883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267975,
+      "num": 267975,
+      "word": "阴阳师",
+      "onboard_time": 1706069552,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 267654,
       "num": 201970,
       "word": "张艺兴给王大陆叫外卖",
@@ -3873,14 +3913,6 @@
       "onboard_time": 1705907127,
       "rank": 24,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 267115,
-      "num": 267115,
-      "word": "阴阳师",
-      "onboard_time": 1706069552,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 266681,
@@ -3921,6 +3953,14 @@
       "onboard_time": 1705761391,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264786,
+      "num": 264786,
+      "word": "詹青云 在爱里成为完整的我",
+      "onboard_time": 1706070691,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 264331,
@@ -4931,6 +4971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209648,
+      "num": 209648,
+      "word": "藏海传抵制代拍声明",
+      "onboard_time": 1706070932,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209536,
       "num": 209536,
       "word": "iOS17.3",
@@ -5065,6 +5113,14 @@
       "onboard_time": 1706061810,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204836,
+      "num": 204836,
+      "word": "花花知道自己的弟弟变妹妹了吗",
+      "onboard_time": 1706070633,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204807,
@@ -5273,14 +5329,6 @@
       "onboard_time": 1705850489,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199989,
-      "num": 199989,
-      "word": "Jennie公主切双马尾",
-      "onboard_time": 1706069913,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199482,
@@ -6563,14 +6611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165309,
-      "num": 165309,
-      "word": "中国和瑙鲁复交仪式即将举行",
-      "onboard_time": 1706070032,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 165257,
       "num": 165257,
       "word": "接下来三周的工作计划安排",
@@ -7027,14 +7067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 153993,
-      "num": 153993,
-      "word": "中国瑙鲁复交",
-      "onboard_time": 1706070091,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 153567,
       "num": 153567,
       "word": "我国再次成功发射一箭五星",
@@ -7329,6 +7361,14 @@
       "onboard_time": 1705912346,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146592,
+      "num": 146592,
+      "word": "哪本完结小说全网无代餐",
+      "onboard_time": 1706070276,
+      "rank": 40,
+      "category": "读书作家"
     },
     {
       "raw_hot": 146560,
@@ -8009,6 +8049,14 @@
       "onboard_time": 1705813166,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132425,
+      "num": 132425,
+      "word": "SKII大中华区销量受日本排污影响暴跌",
+      "onboard_time": 1706070871,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 132302,
@@ -9451,6 +9499,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 87150,
+      "num": 1200196,
+      "word": "中国空间站核心舱入轨1000天",
+      "onboard_time": 1706068830,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86055,
       "num": 86055,
       "word": "范丞丞给杨紫整惭愧了",
@@ -9555,14 +9611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 75985,
-      "num": 857466,
-      "word": "中国空间站核心舱入轨1000天",
-      "onboard_time": 1706068830,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75611,
       "num": 75611,
       "word": "舅舅向炫富的外甥借钱",
@@ -9577,6 +9625,14 @@
       "onboard_time": 1705824624,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74562,
+      "num": 563745,
+      "word": "一句话送给更好的自己",
+      "onboard_time": 1706067329,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 74347,
@@ -9657,14 +9713,6 @@
       "onboard_time": 1705908329,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67938,
-      "num": 563745,
-      "word": "一句话送给更好的自己",
-      "onboard_time": 1706067329,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 67607,
@@ -10121,6 +10169,9 @@
     },
     {
       "word": "#扎实稳健推进中国式现代化建设#"
+    },
+    {
+      "word": "#培养更多适应高质量发展高水平自立自强的各类人才#"
     }
   ]
 }
