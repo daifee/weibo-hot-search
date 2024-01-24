@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706066362643,
+  "endTime": 1706067263847,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -227,8 +227,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1493630,
-      "num": 1493630,
+      "raw_hot": 1507294,
+      "num": 1507294,
       "word": "中国资产暴涨",
       "onboard_time": 1706061211,
       "rank": 1,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 924804,
-      "num": 452731,
+      "num": 453402,
       "word": "A股",
       "onboard_time": 1705887683,
       "rank": 35,
@@ -713,6 +713,14 @@
       "onboard_time": 1705881444,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 887365,
+      "num": 758003,
+      "word": "举报黄飞若学术不端的学生们正接洽新导师",
+      "onboard_time": 1706064387,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 886015,
@@ -945,14 +953,6 @@
       "onboard_time": 1706008409,
       "rank": 45,
       "category": "网红"
-    },
-    {
-      "raw_hot": 758003,
-      "num": 758003,
-      "word": "举报黄飞若学术不端的学生们正接洽新导师",
-      "onboard_time": 1706064387,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 756742,
@@ -1819,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 505739,
+      "num": 273892,
+      "word": "第一批网红奶茶悄悄消失",
+      "onboard_time": 1706065050,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504290,
       "num": 504290,
       "word": "要久久爱收视率",
@@ -2105,14 +2113,6 @@
       "onboard_time": 1705928484,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 451644,
-      "num": 268795,
-      "word": "第一批网红奶茶悄悄消失",
-      "onboard_time": 1706065050,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 450152,
@@ -3547,6 +3547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283355,
+      "num": 283355,
+      "word": "美军称对伊拉克实施了打击",
+      "onboard_time": 1706064991,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 282908,
       "num": 282908,
       "word": "在暴雪时分",
@@ -3761,14 +3769,6 @@
       "onboard_time": 1706000550,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 269041,
-      "num": 269041,
-      "word": "美军称对伊拉克实施了打击",
-      "onboard_time": 1706064991,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 267654,
@@ -4435,6 +4435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 226848,
+      "num": 226848,
+      "word": "曝中国足协或将很快重启选帅事宜",
+      "onboard_time": 1706066069,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225874,
       "num": 225874,
       "word": "星穹铁道黄泉",
@@ -4545,6 +4553,14 @@
       "onboard_time": 1705845211,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220261,
+      "num": 220261,
+      "word": "飞驰人生2剧组被e人统治了",
+      "onboard_time": 1706065889,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 220251,
@@ -4681,6 +4697,22 @@
       "onboard_time": 1705984110,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213700,
+      "num": 213700,
+      "word": "美兰 这个经历似曾相识",
+      "onboard_time": 1706066910,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213274,
+      "num": 213274,
+      "word": "潘粤明 看国足只有更伤心",
+      "onboard_time": 1706065650,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 212988,
@@ -5099,12 +5131,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200969,
-      "num": 200969,
-      "word": "飞驰人生2剧组被e人统治了",
-      "onboard_time": 1706065889,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 200991,
+      "num": 200991,
+      "word": "A股国家队最新出手",
+      "onboard_time": 1706066611,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 200905,
@@ -5827,6 +5859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181160,
+      "num": 181160,
+      "word": "我推的孩子真人化",
+      "onboard_time": 1706066849,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 180949,
       "num": 180949,
       "word": "王者荣耀首个平行世界CG",
@@ -5987,14 +6027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175216,
-      "num": 147729,
-      "word": "潘粤明 看国足只有更伤心",
-      "onboard_time": 1706065650,
-      "rank": 30,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 175091,
       "num": 172402,
       "word": "周深连续三年春晚彩排穿同一件羽绒服",
@@ -6089,6 +6121,14 @@
       "onboard_time": 1705850251,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172767,
+      "num": 172767,
+      "word": "2024年江原冬青奥会",
+      "onboard_time": 1706066428,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 172756,
@@ -6561,6 +6601,14 @@
       "onboard_time": 1705827986,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162492,
+      "num": 162492,
+      "word": "冯仑张朝阳谈董宇辉为何火",
+      "onboard_time": 1706066849,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 162396,
@@ -7811,6 +7859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133585,
+      "num": 133585,
+      "word": "春节未成年只能玩9小时游戏",
+      "onboard_time": 1706066611,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133396,
       "num": 133396,
       "word": "恋与深空贴脸开大光头",
@@ -7865,6 +7921,14 @@
       "onboard_time": 1706017654,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131952,
+      "num": 131952,
+      "word": "董宇辉卖文学杂志创纪录",
+      "onboard_time": 1706066849,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 131820,
@@ -8337,14 +8401,6 @@
       "onboard_time": 1705807645,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120268,
-      "num": 120268,
-      "word": "曝中国足协或将很快重启选帅事宜",
-      "onboard_time": 1706066069,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 120044,
@@ -9131,6 +9187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 95974,
+      "num": 95974,
+      "word": "湖人vs快船",
+      "onboard_time": 1706067149,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95477,
       "num": 95477,
       "word": "儿科诊室里的成年人",
@@ -9715,6 +9779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30255,
+      "num": 332723,
+      "word": "健康新年有新意",
+      "onboard_time": 1706065229,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 29580,
       "num": 29580,
       "word": "更适合大学生体质的托管所",
@@ -9753,14 +9825,6 @@
       "onboard_time": 1705923148,
       "rank": 49,
       "category": "音乐,电竞"
-    },
-    {
-      "raw_hot": 24171,
-      "num": 332723,
-      "word": "健康新年有新意",
-      "onboard_time": 1706065229,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 21877,

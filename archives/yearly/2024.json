@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706066362643,
+  "endTime": 1706067263847,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2155,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1507294,
+      "num": 1507294,
+      "word": "中国资产暴涨",
+      "onboard_time": 1706061211,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1504636,
       "num": 1504636,
       "word": "邓紫棋已被前东家蜂鸟音乐注册成商标",
@@ -2225,14 +2233,6 @@
       "onboard_time": 1704155016,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1493630,
-      "num": 1493630,
-      "word": "中国资产暴涨",
-      "onboard_time": 1706061211,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 1485766,
