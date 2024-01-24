@@ -1,14 +1,22 @@
 {
   "startTime": 1706027038365,
-  "endTime": 1706064190608,
+  "endTime": 1706066362643,
   "band_list": [
     {
-      "raw_hot": 1784672,
-      "num": 1784672,
+      "raw_hot": 2950428,
+      "num": 2950428,
       "word": "和叶 弟弟变妹妹",
       "onboard_time": 1706063308,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1493630,
+      "num": 1493630,
+      "word": "中国资产暴涨",
+      "onboard_time": 1706061211,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 1328553,
@@ -27,20 +35,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1159865,
-      "num": 1159865,
-      "word": "中国资产暴涨",
-      "onboard_time": 1706061211,
-      "rank": 1,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1090559,
-      "num": 424354,
+      "num": 498115,
       "word": "英国的性教育",
       "onboard_time": 1706061450,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1083395,
+      "num": 1083395,
+      "word": "晚睡晚起睡够时长算熬夜吗",
+      "onboard_time": 1706060610,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1053358,
@@ -59,12 +67,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 758003,
+      "num": 758003,
+      "word": "举报黄飞若学术不端的学生们正接洽新导师",
+      "onboard_time": 1706064387,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 714460,
       "num": 714460,
       "word": "C罗向中国球迷道歉",
       "onboard_time": 1706016272,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 687564,
+      "num": 687564,
+      "word": "李兰迪 归国白月光",
+      "onboard_time": 1706064329,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 686994,
@@ -91,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 634129,
+      "num": 634129,
+      "word": "和叶花花原来是姐妹",
+      "onboard_time": 1706064329,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627762,
       "num": 627762,
       "word": "菲律宾总统称台湾是中国的一个省",
@@ -115,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 593168,
-      "num": 593168,
-      "word": "晚睡晚起睡够时长算熬夜吗",
-      "onboard_time": 1706060610,
-      "rank": 8,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 590677,
       "num": 590677,
       "word": "法国9岁男孩被遗弃后独自生活2年",
@@ -137,6 +161,14 @@
       "onboard_time": 1706062110,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 569382,
+      "num": 569382,
+      "word": "花千骨票房",
+      "onboard_time": 1706064088,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 530969,
@@ -161,6 +193,22 @@
       "onboard_time": 1706004511,
       "rank": 4,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 452731,
+      "num": 452731,
+      "word": "A股",
+      "onboard_time": 1706062710,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 451644,
+      "num": 268795,
+      "word": "第一批网红奶茶悄悄消失",
+      "onboard_time": 1706065050,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440031,
@@ -275,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312525,
-      "num": 312525,
-      "word": "A股",
-      "onboard_time": 1706062710,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 309530,
       "num": 309530,
       "word": "雷东宝出轨",
@@ -297,6 +337,14 @@
       "onboard_time": 1706021975,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 298851,
+      "num": 298851,
+      "word": "流浪地球3开拍了",
+      "onboard_time": 1706063848,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 295126,
@@ -331,12 +379,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 269041,
+      "num": 269041,
+      "word": "美军称对伊拉克实施了打击",
+      "onboard_time": 1706064991,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 253531,
       "num": 253531,
       "word": "孙坚办陕西流水席",
       "onboard_time": 1706058027,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248383,
+      "num": 248383,
+      "word": "寻亲家长26年后一眼认出人贩子",
+      "onboard_time": 1706062289,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247125,
@@ -395,14 +459,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 210837,
-      "num": 210837,
-      "word": "寻亲家长26年后一眼认出人贩子",
-      "onboard_time": 1706062289,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208227,
       "num": 208227,
       "word": "丁也 癫公",
@@ -435,12 +491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200969,
+      "num": 200969,
+      "word": "飞驰人生2剧组被e人统治了",
+      "onboard_time": 1706065889,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198330,
       "num": 198330,
       "word": "竟然被一条狗帅到了",
       "onboard_time": 1706022811,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192566,
+      "num": 192566,
+      "word": "中国中长期资金入市潜力大",
+      "onboard_time": 1706065530,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 181301,
@@ -457,6 +529,14 @@
       "onboard_time": 1706058513,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175216,
+      "num": 147729,
+      "word": "潘粤明 看国足只有更伤心",
+      "onboard_time": 1706065650,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 167361,
@@ -505,14 +585,6 @@
       "onboard_time": 1706038936,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 154617,
-      "num": 154617,
-      "word": "流浪地球3开拍了",
-      "onboard_time": 1706063848,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 151915,
@@ -667,20 +739,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122850,
-      "num": 122850,
-      "word": "花千骨票房",
-      "onboard_time": 1706064088,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 122255,
       "num": 122255,
       "word": "河南学校火灾致13死4伤7人被抓",
       "onboard_time": 1706019871,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120268,
+      "num": 120268,
+      "word": "曝中国足协或将很快重启选帅事宜",
+      "onboard_time": 1706066069,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 119024,
@@ -747,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101230,
+      "num": 101230,
+      "word": "微博健康公开课",
+      "onboard_time": 1706066130,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100794,
       "num": 100794,
       "word": "C罗",
@@ -785,6 +865,14 @@
       "onboard_time": 1706025869,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95407,
+      "num": 95407,
+      "word": "还以为繁花出番外了",
+      "onboard_time": 1706065828,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 94244,
@@ -961,6 +1049,14 @@
       "onboard_time": 1706034677,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24171,
+      "num": 332723,
+      "word": "健康新年有新意",
+      "onboard_time": 1706065229,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 21877,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706064190608,
+  "endTime": 1706066362643,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -377,6 +377,14 @@
       "onboard_time": 1704035651,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2950428,
+      "num": 2950428,
+      "word": "和叶 弟弟变妹妹",
+      "onboard_time": 1706063308,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2933095,
@@ -1427,14 +1435,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1784672,
-      "num": 1784672,
-      "word": "和叶 弟弟变妹妹",
-      "onboard_time": 1706063308,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1778466,
       "num": 539179,
       "word": "私密整形一夜爆火",
@@ -2227,6 +2227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1493630,
+      "num": 1493630,
+      "word": "中国资产暴涨",
+      "onboard_time": 1706061211,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1485766,
       "num": 1485766,
       "word": "华中农大组建导师组负责黄某某研究生培养",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705845211,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1442805,
-      "num": 1442805,
-      "word": "叶酸吃多了真的会致癌吗",
-      "onboard_time": 1704259951,
-      "rank": 30,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
