@@ -1,10 +1,10 @@
 {
   "startTime": 1706027038365,
-  "endTime": 1706100640360,
+  "endTime": 1706102510302,
   "band_list": [
     {
-      "raw_hot": 6455298,
-      "num": 7705298,
+      "raw_hot": 7473338,
+      "num": 8261812,
       "word": "江西新余火灾39人遇难",
       "onboard_time": 1706098652,
       "rank": 0,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1666157,
-      "num": 849451,
+      "num": 1252897,
       "word": "张檬备孕失败",
       "onboard_time": 1706095589,
       "rank": 10,
@@ -307,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 735238,
+      "num": 271265,
+      "word": "男子带9月孕妻爬山被亲妈语音轰炸",
+      "onboard_time": 1706100275,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727628,
       "num": 727628,
       "word": "花少",
@@ -427,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 609623,
+      "num": 609623,
+      "word": "江西火灾多人从二楼跳下被民警接住",
+      "onboard_time": 1706099610,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604466,
       "num": 604466,
       "word": "中国和瑙鲁复交仪式即将举行",
@@ -483,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 558617,
+      "num": 558617,
+      "word": "男主脱衣服受刑的原因",
+      "onboard_time": 1706096908,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 554873,
       "num": 554873,
       "word": "肖战工作室新增营业性演出许可",
@@ -537,6 +561,14 @@
       "onboard_time": 1706080711,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 480618,
+      "num": 480618,
+      "word": "知情人称江西起火商铺尚未开业",
+      "onboard_time": 1706100876,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477858,
@@ -619,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 448655,
+      "num": 448655,
+      "word": "C罗对直播带货网红蹭流量很生气",
+      "onboard_time": 1706099190,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443705,
       "num": 443705,
       "word": "詹青云 在爱里成为完整的我",
@@ -667,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406737,
+      "num": 406737,
+      "word": "来报恩的车厘子",
+      "onboard_time": 1706097691,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 398486,
       "num": 1386868,
       "word": "女子险遭钢筋贯穿因手机得救",
@@ -707,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378436,
-      "num": 378436,
-      "word": "男主脱衣服受刑的原因",
-      "onboard_time": 1706096908,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 377781,
       "num": 367094,
       "word": "TT违反禁毒条例被禁赛25场",
@@ -739,6 +779,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 369749,
+      "num": 369749,
+      "word": "徐明浩又美甲了",
+      "onboard_time": 1706100876,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366038,
       "num": 366038,
       "word": "A股国家队最新出手",
@@ -753,14 +801,6 @@
       "onboard_time": 1706020232,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358661,
-      "num": 358661,
-      "word": "C罗对直播带货网红蹭流量很生气",
-      "onboard_time": 1706099190,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 356180,
@@ -809,14 +849,6 @@
       "onboard_time": 1706075969,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 343004,
-      "num": 343004,
-      "word": "来报恩的车厘子",
-      "onboard_time": 1706097691,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 337025,
@@ -891,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307983,
+      "num": 307983,
+      "word": "暧昧期容易上头的星座",
+      "onboard_time": 1706099793,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 305787,
       "num": 305787,
       "word": "IU新歌",
@@ -945,6 +985,22 @@
       "onboard_time": 1706020054,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289827,
+      "num": 289827,
+      "word": "菏泽一臭水沟惊现8箱飞天茅台",
+      "onboard_time": 1706101116,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289510,
+      "num": 289510,
+      "word": "游本昌回应一夜之间又红了",
+      "onboard_time": 1706099190,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 288184,
@@ -1035,27 +1091,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260493,
+      "num": 260493,
+      "word": "巴宝莉门店回应热水袋不能装沸水",
+      "onboard_time": 1706101355,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258145,
       "num": 258145,
       "word": "吴磊赵今麦脸颊吻",
       "onboard_time": 1706077229,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 253964,
-      "num": 253964,
-      "word": "暧昧期容易上头的星座",
-      "onboard_time": 1706099793,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 253762,
-      "num": 253762,
-      "word": "游本昌回应一夜之间又红了",
-      "onboard_time": 1706099190,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1163,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225208,
+      "num": 225208,
+      "word": "麦当劳将再次上架优惠券",
+      "onboard_time": 1706098773,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 225084,
       "num": 225084,
       "word": "专家评年轻人羡慕蓝领收入高",
@@ -1177,14 +1233,6 @@
       "onboard_time": 1706072671,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 224975,
-      "num": 224975,
-      "word": "江西火灾多人从二楼跳下被民警接住",
-      "onboard_time": 1706099610,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224615,
@@ -1313,6 +1361,14 @@
       "onboard_time": 1706059169,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207590,
+      "num": 207590,
+      "word": "潘斌龙说赵丽颖哭戏令人心碎",
+      "onboard_time": 1706102074,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 207457,
@@ -1507,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177193,
+      "num": 177193,
+      "word": "收到何同学的纸鸽了",
+      "onboard_time": 1706102195,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 176780,
       "num": 165088,
       "word": "IU先行曲LovewinsAll",
@@ -1523,20 +1587,20 @@
       "category": "国内时政,社会新闻"
     },
     {
+      "raw_hot": 173563,
+      "num": 173563,
+      "word": "酸奶为什么这么贵了",
+      "onboard_time": 1706100815,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 173172,
       "num": 173172,
       "word": "俄官员称坠毁伊尔76被导弹击落",
       "onboard_time": 1706091933,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 173120,
-      "num": 163063,
-      "word": "男子带9月孕妻爬山被亲妈语音轰炸",
-      "onboard_time": 1706100275,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172767,
@@ -1555,20 +1619,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171082,
+      "num": 171082,
+      "word": "玩具螃蟹 当初就该烂在厂里",
+      "onboard_time": 1706099910,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170178,
       "num": 170178,
       "word": "载65名被俘乌克兰军人的运输机坠毁",
       "onboard_time": 1706093490,
       "rank": 31,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 168043,
-      "num": 168043,
-      "word": "麦当劳将再次上架优惠券",
-      "onboard_time": 1706098773,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 167361,
@@ -1739,6 +1803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149136,
+      "num": 149136,
+      "word": "静脉血与动脉血",
+      "onboard_time": 1706102378,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148783,
       "num": 148783,
       "word": "澳网2024",
@@ -1859,14 +1931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139741,
-      "num": 139741,
-      "word": "玩具螃蟹 当初就该烂在厂里",
-      "onboard_time": 1706099910,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139411,
       "num": 139411,
       "word": "顾时夜啃俩馍",
@@ -1899,6 +1963,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138510,
+      "num": 138510,
+      "word": "第34届飞天奖入围名单预测",
+      "onboard_time": 1706097992,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138501,
+      "num": 138501,
+      "word": "冰雪大世界一个烤红薯卖38元",
+      "onboard_time": 1706101116,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138198,
       "num": 138198,
       "word": "黄瀛子使不完的牛劲",
@@ -1913,14 +1993,6 @@
       "onboard_time": 1706016092,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 137145,
-      "num": 137145,
-      "word": "第34届飞天奖入围名单预测",
-      "onboard_time": 1706097992,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 136640,
@@ -1961,6 +2033,14 @@
       "onboard_time": 1706091690,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133659,
+      "num": 133659,
+      "word": "TTG公布新赛季教练组",
+      "onboard_time": 1706102137,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 133649,
@@ -2057,6 +2137,14 @@
       "onboard_time": 1706079869,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125541,
+      "num": 125541,
+      "word": "C罗球迷退票难",
+      "onboard_time": 1706100633,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 125360,
@@ -2163,6 +2251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120507,
+      "num": 120507,
+      "word": "小猫拔河",
+      "onboard_time": 1706101056,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119808,
       "num": 119808,
       "word": "麦当劳客服回应无法点餐",
@@ -2265,6 +2361,14 @@
       "onboard_time": 1706087430,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 108522,
+      "num": 108522,
+      "word": "蒋翼的翼是小心翼翼的翼",
+      "onboard_time": 1706100815,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 108120,
@@ -2601,6 +2705,14 @@
       "onboard_time": 1706051904,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51912,
+      "num": 1298706,
+      "word": "舰载直升机氛围感大片",
+      "onboard_time": 1706101292,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51140,

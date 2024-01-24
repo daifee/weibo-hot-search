@@ -1,10 +1,10 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706100640360,
+  "endTime": 1706102510302,
   "band_list": [
     {
-      "raw_hot": 6455298,
-      "num": 7705298,
+      "raw_hot": 7473338,
+      "num": 8261812,
       "word": "江西新余火灾39人遇难",
       "onboard_time": 1706098652,
       "rank": 0,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1666157,
-      "num": 849451,
+      "num": 1252897,
       "word": "张檬备孕失败",
       "onboard_time": 1706095589,
       "rank": 10,
@@ -1227,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735238,
+      "num": 271265,
+      "word": "男子带9月孕妻爬山被亲妈语音轰炸",
+      "onboard_time": 1706100275,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733580,
       "num": 733580,
       "word": "考完研后才知道家里有五层别墅",
@@ -1691,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 609623,
+      "num": 609623,
+      "word": "江西火灾多人从二楼跳下被民警接住",
+      "onboard_time": 1706099610,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606628,
       "num": 606628,
       "word": "华西医生说九成大肠癌是它引起的",
@@ -1913,6 +1929,14 @@
       "onboard_time": 1706016092,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 558617,
+      "num": 558617,
+      "word": "男主脱衣服受刑的原因",
+      "onboard_time": 1706096908,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 558609,
@@ -2299,6 +2323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 480618,
+      "num": 480618,
+      "word": "知情人称江西起火商铺尚未开业",
+      "onboard_time": 1706100876,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480153,
       "num": 480153,
       "word": "郭敬明 大梦归离有自己的小时代",
@@ -2553,6 +2585,14 @@
       "onboard_time": 1705991847,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 448655,
+      "num": 448655,
+      "word": "C罗对直播带货网红蹭流量很生气",
+      "onboard_time": 1706099190,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 447417,
@@ -2867,6 +2907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 406737,
+      "num": 406737,
+      "word": "来报恩的车厘子",
+      "onboard_time": 1706097691,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 406658,
       "num": 406658,
       "word": "数码宝贝 突然被刀",
@@ -3155,14 +3203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378436,
-      "num": 378436,
-      "word": "男主脱衣服受刑的原因",
-      "onboard_time": 1706096908,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 377798,
       "num": 308761,
       "word": "岳母搞传销骗了全家十几口100万",
@@ -3227,6 +3267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 369749,
+      "num": 369749,
+      "word": "徐明浩又美甲了",
+      "onboard_time": 1706100876,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368373,
       "num": 368373,
       "word": "1米9萌兰最想删掉的视频",
@@ -3281,14 +3329,6 @@
       "onboard_time": 1705898253,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358661,
-      "num": 358661,
-      "word": "C罗对直播带货网红蹭流量很生气",
-      "onboard_time": 1706099190,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 358293,
@@ -3497,14 +3537,6 @@
       "onboard_time": 1706075969,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 343004,
-      "num": 343004,
-      "word": "来报恩的车厘子",
-      "onboard_time": 1706097691,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 342823,
@@ -3859,6 +3891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307983,
+      "num": 307983,
+      "word": "暧昧期容易上头的星座",
+      "onboard_time": 1706099793,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307130,
       "num": 245871,
       "word": "光与夜之恋",
@@ -4033,6 +4073,22 @@
       "onboard_time": 1705965320,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289827,
+      "num": 289827,
+      "word": "菏泽一臭水沟惊现8箱飞天茅台",
+      "onboard_time": 1706101116,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289510,
+      "num": 289510,
+      "word": "游本昌回应一夜之间又红了",
+      "onboard_time": 1706099190,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 288863,
@@ -4531,6 +4587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260493,
+      "num": 260493,
+      "word": "巴宝莉门店回应热水袋不能装沸水",
+      "onboard_time": 1706101355,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260225,
       "num": 260225,
       "word": "龙年的龙味越来越足了",
@@ -4619,28 +4683,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 253964,
-      "num": 253964,
-      "word": "暧昧期容易上头的星座",
-      "onboard_time": 1706099793,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 253897,
       "num": 253897,
       "word": "懂得人性才能谈好恋爱",
       "onboard_time": 1705841129,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 253762,
-      "num": 253762,
-      "word": "游本昌回应一夜之间又红了",
-      "onboard_time": 1706099190,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 253531,
@@ -5195,6 +5243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225208,
+      "num": 225208,
+      "word": "麦当劳将再次上架优惠券",
+      "onboard_time": 1706098773,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 225084,
       "num": 225084,
       "word": "专家评年轻人羡慕蓝领收入高",
@@ -5209,14 +5265,6 @@
       "onboard_time": 1706072671,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 224975,
-      "num": 224975,
-      "word": "江西火灾多人从二楼跳下被民警接住",
-      "onboard_time": 1706099610,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224974,
@@ -5697,6 +5745,14 @@
       "onboard_time": 1705917027,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207590,
+      "num": 207590,
+      "word": "潘斌龙说赵丽颖哭戏令人心碎",
+      "onboard_time": 1706102074,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 207480,
@@ -6931,6 +6987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177193,
+      "num": 177193,
+      "word": "收到何同学的纸鸽了",
+      "onboard_time": 1706102195,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 176780,
       "num": 165088,
       "word": "IU先行曲LovewinsAll",
@@ -7035,6 +7099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173563,
+      "num": 173563,
+      "word": "酸奶为什么这么贵了",
+      "onboard_time": 1706100815,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 173386,
       "num": 173386,
       "word": "gapday是成年人的一次短逃离",
@@ -7057,14 +7129,6 @@
       "onboard_time": 1706091933,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 173120,
-      "num": 163063,
-      "word": "男子带9月孕妻爬山被亲妈语音轰炸",
-      "onboard_time": 1706100275,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172899,
@@ -7169,6 +7233,14 @@
       "onboard_time": 1705831649,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171082,
+      "num": 171082,
+      "word": "玩具螃蟹 当初就该烂在厂里",
+      "onboard_time": 1706099910,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 171014,
@@ -7297,14 +7369,6 @@
       "onboard_time": 1705987468,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168043,
-      "num": 168043,
-      "word": "麦当劳将再次上架优惠券",
-      "onboard_time": 1706098773,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 167977,
@@ -8179,6 +8243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149136,
+      "num": 149136,
+      "word": "静脉血与动脉血",
+      "onboard_time": 1706102378,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 149029,
       "num": 149029,
       "word": "有洗衣机还一直坚持手洗的妈妈",
@@ -8723,14 +8795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139741,
-      "num": 139741,
-      "word": "玩具螃蟹 当初就该烂在厂里",
-      "onboard_time": 1706099910,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139671,
       "num": 139671,
       "word": "三款发簪盘发",
@@ -8811,6 +8875,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138510,
+      "num": 138510,
+      "word": "第34届飞天奖入围名单预测",
+      "onboard_time": 1706097992,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138501,
+      "num": 138501,
+      "word": "冰雪大世界一个烤红薯卖38元",
+      "onboard_time": 1706101116,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138198,
       "num": 138198,
       "word": "黄瀛子使不完的牛劲",
@@ -8873,14 +8953,6 @@
       "onboard_time": 1706023290,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 137145,
-      "num": 137145,
-      "word": "第34届飞天奖入围名单预测",
-      "onboard_time": 1706097992,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 137138,
@@ -9073,6 +9145,14 @@
       "onboard_time": 1705925609,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133659,
+      "num": 133659,
+      "word": "TTG公布新赛季教练组",
+      "onboard_time": 1706102137,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 133649,
@@ -9531,6 +9611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125541,
+      "num": 125541,
+      "word": "C罗球迷退票难",
+      "onboard_time": 1706100633,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125379,
       "num": 125379,
       "word": "德约科维奇vs弗里茨",
@@ -9736,6 +9824,14 @@
       "word": "江苏人不能原谅白素贞的理由",
       "onboard_time": 1705998390,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120507,
+      "num": 120507,
+      "word": "小猫拔河",
+      "onboard_time": 1706101056,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -10209,6 +10305,14 @@
       "onboard_time": 1705998871,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108522,
+      "num": 108522,
+      "word": "蒋翼的翼是小心翼翼的翼",
+      "onboard_time": 1706100815,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 108448,
@@ -11193,6 +11297,14 @@
       "onboard_time": 1706051904,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51912,
+      "num": 1298706,
+      "word": "舰载直升机氛围感大片",
+      "onboard_time": 1706101292,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50876,

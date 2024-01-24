@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706100640360,
+  "endTime": 1706102510302,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -131,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7473338,
+      "num": 8261812,
+      "word": "江西新余火灾39人遇难",
+      "onboard_time": 1706098652,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6792938,
       "num": 6792938,
       "word": "国考出成绩",
@@ -145,14 +153,6 @@
       "onboard_time": 1705133740,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 6455298,
-      "num": 7705298,
-      "word": "江西新余火灾39人遇难",
-      "onboard_time": 1706098652,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6441845,
@@ -1748,7 +1748,7 @@
     },
     {
       "raw_hot": 1666157,
-      "num": 849451,
+      "num": 1252897,
       "word": "张檬备孕失败",
       "onboard_time": 1706095589,
       "rank": 10,
@@ -8907,6 +8907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735238,
+      "num": 271265,
+      "word": "男子带9月孕妻爬山被亲妈语音轰炸",
+      "onboard_time": 1706100275,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734315,
       "num": 449217,
       "word": "邓为出图",
@@ -11899,6 +11907,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 609623,
+      "num": 609623,
+      "word": "江西火灾多人从二楼跳下被民警接住",
+      "onboard_time": 1706099610,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609071,
       "num": 609071,
       "word": "肖程皓发不当言论暂停其主持人工作",
@@ -13401,6 +13417,14 @@
       "onboard_time": 1705161519,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 558617,
+      "num": 558617,
+      "word": "男主脱衣服受刑的原因",
+      "onboard_time": 1706096908,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 558609,
@@ -16315,6 +16339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 480618,
+      "num": 480618,
+      "word": "知情人称江西起火商铺尚未开业",
+      "onboard_time": 1706100876,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480575,
       "num": 480575,
       "word": "王家卫在片场让马伊琍不要低头",
@@ -17649,6 +17681,14 @@
       "onboard_time": 1704700469,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448655,
+      "num": 448655,
+      "word": "C罗对直播带货网红蹭流量很生气",
+      "onboard_time": 1706099190,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 448082,
@@ -19467,6 +19507,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 406737,
+      "num": 406737,
+      "word": "来报恩的车厘子",
+      "onboard_time": 1706097691,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 406658,
       "num": 406658,
       "word": "数码宝贝 突然被刀",
@@ -20811,14 +20859,6 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 378436,
-      "num": 378436,
-      "word": "男主脱衣服受刑的原因",
-      "onboard_time": 1706096908,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 378228,
       "num": 378228,
       "word": "繁花 李李被抓",
@@ -21257,6 +21297,14 @@
       "onboard_time": 1705114411,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 369749,
+      "num": 369749,
+      "word": "徐明浩又美甲了",
+      "onboard_time": 1706100876,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 369436,
@@ -21777,14 +21825,6 @@
       "onboard_time": 1704440069,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 358661,
-      "num": 358661,
-      "word": "C罗对直播带货网红蹭流量很生气",
-      "onboard_time": 1706099190,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 358555,
@@ -22473,14 +22513,6 @@
       "onboard_time": 1705159548,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 343004,
-      "num": 343004,
-      "word": "来报恩的车厘子",
-      "onboard_time": 1706097691,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 342830,
@@ -24563,6 +24595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307983,
+      "num": 307983,
+      "word": "暧昧期容易上头的星座",
+      "onboard_time": 1706099793,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307886,
       "num": 307886,
       "word": "钎九 又幸福了",
@@ -25811,11 +25851,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 289827,
+      "num": 289827,
+      "word": "菏泽一臭水沟惊现8箱飞天茅台",
+      "onboard_time": 1706101116,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289539,
       "num": 289539,
       "word": "茅子俊力挺毛晓慧",
       "onboard_time": 1705727787,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 289510,
+      "num": 289510,
+      "word": "游本昌回应一夜之间又红了",
+      "onboard_time": 1706099190,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -28347,6 +28403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260493,
+      "num": 260493,
+      "word": "巴宝莉门店回应热水袋不能装沸水",
+      "onboard_time": 1706101355,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260437,
       "num": 260437,
       "word": "日本能登地区已发生1000余次地震",
@@ -28939,14 +29003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253964,
-      "num": 253964,
-      "word": "暧昧期容易上头的星座",
-      "onboard_time": 1706099793,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 253941,
       "num": 253941,
       "word": "刺伤李在明嫌疑人信息",
@@ -28977,14 +29033,6 @@
       "onboard_time": 1705227630,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 253762,
-      "num": 253762,
-      "word": "游本昌回应一夜之间又红了",
-      "onboard_time": 1706099190,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 253531,
@@ -32323,6 +32371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 225208,
+      "num": 225208,
+      "word": "麦当劳将再次上架优惠券",
+      "onboard_time": 1706098773,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 225204,
       "num": 225204,
       "word": "国产剧癫妈",
@@ -32377,14 +32433,6 @@
       "onboard_time": 1706072671,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 224975,
-      "num": 224975,
-      "word": "江西火灾多人从二楼跳下被民警接住",
-      "onboard_time": 1706099610,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224974,
@@ -35097,6 +35145,14 @@
       "onboard_time": 1705037429,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207590,
+      "num": 207590,
+      "word": "潘斌龙说赵丽颖哭戏令人心碎",
+      "onboard_time": 1706102074,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 207512,
@@ -42435,6 +42491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177193,
+      "num": 177193,
+      "word": "收到何同学的纸鸽了",
+      "onboard_time": 1706102195,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 177158,
       "num": 177158,
       "word": "蔡依林重庆演唱会官宣",
@@ -43267,6 +43331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173563,
+      "num": 173563,
+      "word": "酸奶为什么这么贵了",
+      "onboard_time": 1706100815,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 173557,
       "num": 173557,
       "word": "贪官盲目搞开发致债务剧增超千亿",
@@ -43409,14 +43481,6 @@
       "onboard_time": 1706091933,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 173120,
-      "num": 163063,
-      "word": "男子带9月孕妻爬山被亲妈语音轰炸",
-      "onboard_time": 1706100275,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173107,
@@ -43905,6 +43969,14 @@
       "onboard_time": 1705831649,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171082,
+      "num": 171082,
+      "word": "玩具螃蟹 当初就该烂在厂里",
+      "onboard_time": 1706099910,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 171081,
@@ -44657,14 +44729,6 @@
       "onboard_time": 1704327752,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168043,
-      "num": 168043,
-      "word": "麦当劳将再次上架优惠券",
-      "onboard_time": 1706098773,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 168018,
@@ -49331,6 +49395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149136,
+      "num": 149136,
+      "word": "静脉血与动脉血",
+      "onboard_time": 1706102378,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 149118,
       "num": 149118,
       "word": "山河四省梦幻联动了",
@@ -51947,14 +52019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139741,
-      "num": 139741,
-      "word": "玩具螃蟹 当初就该烂在厂里",
-      "onboard_time": 1706099910,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139671,
       "num": 139671,
       "word": "三款发簪盘发",
@@ -52265,6 +52329,22 @@
       "onboard_time": 1706060009,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138510,
+      "num": 138510,
+      "word": "第34届飞天奖入围名单预测",
+      "onboard_time": 1706097992,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138501,
+      "num": 138501,
+      "word": "冰雪大世界一个烤红薯卖38元",
+      "onboard_time": 1706101116,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138497,
@@ -52705,14 +52785,6 @@
       "onboard_time": 1704153632,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137145,
-      "num": 137145,
-      "word": "第34届飞天奖入围名单预测",
-      "onboard_time": 1706097992,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 137138,
@@ -53561,6 +53633,14 @@
       "onboard_time": 1705502010,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 133659,
+      "num": 133659,
+      "word": "TTG公布新赛季教练组",
+      "onboard_time": 1706102137,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 133649,
@@ -55907,6 +55987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125541,
+      "num": 125541,
+      "word": "C罗球迷退票难",
+      "onboard_time": 1706100633,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125512,
       "num": 356293,
       "word": "华莱士将送出超3万份免单",
@@ -57185,6 +57273,14 @@
       "onboard_time": 1704114759,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120507,
+      "num": 120507,
+      "word": "小猫拔河",
+      "onboard_time": 1706101056,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 120490,
@@ -59465,6 +59561,14 @@
       "onboard_time": 1705998871,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108522,
+      "num": 108522,
+      "word": "蒋翼的翼是小心翼翼的翼",
+      "onboard_time": 1706100815,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 108448,
@@ -64169,6 +64273,14 @@
       "onboard_time": 1704921973,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 51912,
+      "num": 1298706,
+      "word": "舰载直升机氛围感大片",
+      "onboard_time": 1706101292,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51908,

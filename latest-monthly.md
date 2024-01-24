@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/24 20:50:40
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/24 21:21:50
 </p>
 </blockquote>
 <p>
@@ -111,6 +111,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E6%96%B0%E4%BD%99%E7%81%AB%E7%81%BE39%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+江西新余火灾39人遇难（热度：7473338）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E5%87%BA%E6%88%90%E7%BB%A9%23" target="weibo">
 国考出成绩（热度：6792938）
 </a>
@@ -119,12 +125,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E8%B0%81%E8%AF%B4%E6%88%91%E6%98%AF%E6%96%91%E7%82%B9%E7%8B%97%23" target="weibo">
 赵露思 谁说我是斑点狗（热度：6470111）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E6%96%B0%E4%BD%99%E7%81%AB%E7%81%BE39%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
-江西新余火灾39人遇难（热度：6455298）
 </a>
 </li>
 
