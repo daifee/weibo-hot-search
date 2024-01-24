@@ -1,0 +1,410 @@
+{
+  "runTime": 1706080645594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1664271,
+        "num": 1664271,
+        "word": "第一批网红奶茶悄悄消失",
+        "onboard_time": 1706065050,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108149,
+        "num": 1108149,
+        "word": "韩媒嫉妒C罗在中国道歉",
+        "onboard_time": 1706076927,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37422,
+        "num": 927343,
+        "word": "中国空间站核心舱入轨1000天",
+        "onboard_time": 1706068830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816864,
+        "num": 816864,
+        "word": "董明珠称身上毛衣不到200块",
+        "onboard_time": 1706076927,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 760443,
+        "num": 760443,
+        "word": "赵昭仪手绘了23天的回忆",
+        "onboard_time": 1706075550,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625867,
+        "num": 625867,
+        "word": "和叶 弟弟变妹妹",
+        "onboard_time": 1706063308,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531201,
+        "num": 531201,
+        "word": "多方回应小伙晕倒做手术后去世",
+        "onboard_time": 1706076868,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461795,
+        "num": 461795,
+        "word": "钟楚曦怕自己太瘦观众不喜欢",
+        "onboard_time": 1706076150,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408184,
+        "num": 408184,
+        "word": "赵今麦妆造全靠脸了",
+        "onboard_time": 1706068951,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344478,
+        "num": 344478,
+        "word": "花少",
+        "onboard_time": 1706074950,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712324,
+        "num": 343304,
+        "word": "网红巨人小莫去世家人拒领骨灰",
+        "onboard_time": 1706079510,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655517,
+        "num": 342807,
+        "word": "英国偶遇章泽天",
+        "onboard_time": 1706078668,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 402809,
+        "num": 342671,
+        "word": "坏消息工资要年后发",
+        "onboard_time": 1706070691,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341894,
+        "num": 341894,
+        "word": "英国的性教育",
+        "onboard_time": 1706061450,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 340910,
+        "num": 340910,
+        "word": "中国资产暴涨",
+        "onboard_time": 1706061211,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 317744,
+        "num": 317744,
+        "word": "10岁小孩分享辣条后同学死亡被诉",
+        "onboard_time": 1706079810,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300347,
+        "num": 300347,
+        "word": "秀智 我有时候会孤立我自己",
+        "onboard_time": 1706076689,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261127,
+        "num": 261127,
+        "word": "SKII大中华区销量受日本排污影响暴跌",
+        "onboard_time": 1706070871,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 258145,
+        "num": 258145,
+        "word": "吴磊赵今麦脸颊吻",
+        "onboard_time": 1706077229,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252482,
+        "num": 252482,
+        "word": "Uzi谈RNG假赛谣言",
+        "onboard_time": 1706078488,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247166,
+        "num": 247166,
+        "word": "花花知道自己的弟弟变妹妹了吗",
+        "onboard_time": 1706070633,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245841,
+        "num": 245841,
+        "word": "济南一酒店凌晨起火致4人死亡",
+        "onboard_time": 1706079329,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245290,
+        "num": 245290,
+        "word": "女子称在银行取5000元现金被刁难",
+        "onboard_time": 1706072671,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241038,
+        "num": 241038,
+        "word": "迪丽热巴给花少团买礼物",
+        "onboard_time": 1706080470,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213360,
+        "num": 213360,
+        "word": "证监会副主席王建军采访",
+        "onboard_time": 1706078968,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203011,
+        "num": 203011,
+        "word": "上班后人的性格真的会变",
+        "onboard_time": 1706077112,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202410,
+        "num": 202410,
+        "word": "李念三胎产后复工状态",
+        "onboard_time": 1706073271,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198743,
+        "num": 198743,
+        "word": "李宏毅回应新戏",
+        "onboard_time": 1706077767,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185663,
+        "num": 185663,
+        "word": "花千骨票房",
+        "onboard_time": 1706064088,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178849,
+        "num": 178849,
+        "word": "李敏镐金智秀围读剧本",
+        "onboard_time": 1706075969,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180555,
+        "num": 167109,
+        "word": "电影花千骨导演道歉",
+        "onboard_time": 1706061509,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154390,
+        "num": 154390,
+        "word": "A股国家队最新出手",
+        "onboard_time": 1706066611,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154304,
+        "num": 154304,
+        "word": "食物语",
+        "onboard_time": 1706078250,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142780,
+        "num": 142780,
+        "word": "晚睡晚起睡够时长算熬夜吗",
+        "onboard_time": 1706060610,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141269,
+        "num": 141269,
+        "word": "春节未成年只能玩9小时游戏",
+        "onboard_time": 1706066611,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138198,
+        "num": 138198,
+        "word": "黄瀛子使不完的牛劲",
+        "onboard_time": 1706079930,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137605,
+        "num": 137605,
+        "word": "爸爸把我买的车厘子送人了",
+        "onboard_time": 1706055089,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126106,
+        "num": 126106,
+        "word": "RNG官方辟谣假赛风波",
+        "onboard_time": 1706079869,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122128,
+        "num": 122128,
+        "word": "IU金泰亨MV婚纱照",
+        "onboard_time": 1706062110,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119206,
+        "num": 119206,
+        "word": "王鹤棣火焰粉发",
+        "onboard_time": 1706068652,
+        "rank": 39,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 109977,
+        "num": 109977,
+        "word": "肖战工作室新增营业性演出许可",
+        "onboard_time": 1706067450,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108424,
+        "num": 108424,
+        "word": "幻兽帕鲁销量突破700万",
+        "onboard_time": 1706080590,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107208,
+        "num": 107208,
+        "word": "Jennie公主切双马尾",
+        "onboard_time": 1706069913,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 104961,
+        "num": 104961,
+        "word": "消防员搜救时身后巨石滚落",
+        "onboard_time": 1706080230,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104804,
+        "num": 104804,
+        "word": "朴灿烈右腿受伤",
+        "onboard_time": 1706077286,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100808,
+        "num": 100808,
+        "word": "杭州四季青清仓羽绒服100多随便挑",
+        "onboard_time": 1706072671,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 96820,
+        "num": 96820,
+        "word": "处女座真的嘴硬",
+        "onboard_time": 1706080530,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94804,
+        "num": 94804,
+        "word": "肌肉垃圾桶",
+        "onboard_time": 1706078488,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 88948,
+        "num": 88948,
+        "word": "你们公司还开年会吗",
+        "onboard_time": 1706078787,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86434,
+        "num": 86434,
+        "word": "中国电视剧年度盛典宣传片",
+        "onboard_time": 1706078848,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实稳健推进中国式现代化建设#"
+    }
+  }
+}

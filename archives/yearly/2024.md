@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/24 14:37:27
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/24 15:17:25
 </p>
 </blockquote>
 <p>
@@ -1299,6 +1299,12 @@ A先生跳海（热度：1721660）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E7%BD%91%E7%BA%A2%E5%A5%B6%E8%8C%B6%E6%82%84%E6%82%84%E6%B6%88%E5%A4%B1%23" target="weibo">
+第一批网红奶茶悄悄消失（热度：1664271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%99%92%E7%8C%AB%23" target="weibo">
 田曦薇晒猫（热度：1662513）
 </a>
@@ -1691,12 +1697,6 @@ APP未经同意跳转广告涉嫌违法（热度：1510146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%8A%E7%99%8C%23" target="weibo">
 床癌（热度：1496042）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E7%BD%91%E7%BA%A2%E5%A5%B6%E8%8C%B6%E6%82%84%E6%82%84%E6%B6%88%E5%A4%B1%23" target="weibo">
-第一批网红奶茶悄悄消失（热度：1492317）
 </a>
 </li>
 

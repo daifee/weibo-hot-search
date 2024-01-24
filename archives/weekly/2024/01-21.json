@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706078247623,
+  "endTime": 1706080645594,
   "band_list": [
     {
       "raw_hot": 3927509,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1664271,
+      "num": 1664271,
+      "word": "第一批网红奶茶悄悄消失",
+      "onboard_time": 1706065050,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1655577,
       "num": 458031,
       "word": "A股大跌",
@@ -241,14 +249,6 @@
       "onboard_time": 1706061211,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1492317,
-      "num": 1492317,
-      "word": "第一批网红奶茶悄悄消失",
-      "onboard_time": 1706065050,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1453093,
@@ -467,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1108149,
+      "num": 1108149,
+      "word": "韩媒嫉妒C罗在中国道歉",
+      "onboard_time": 1706076927,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1106534,
       "num": 523595,
       "word": "华中农大被举报教授克扣研究生劳务费",
@@ -683,14 +691,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 948157,
-      "num": 948157,
-      "word": "韩媒嫉妒C罗在中国道歉",
-      "onboard_time": 1706076927,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 947740,
       "num": 947740,
       "word": "李胜利说要把权志龙带来柬埔寨",
@@ -889,6 +889,14 @@
       "onboard_time": 1705888883,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 816864,
+      "num": 816864,
+      "word": "董明珠称身上毛衣不到200块",
+      "onboard_time": 1706076927,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 816564,
@@ -1147,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712324,
+      "num": 343304,
+      "word": "网红巨人小莫去世家人拒领骨灰",
+      "onboard_time": 1706079510,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709587,
       "num": 709587,
       "word": "通勤婚姻",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1705997549,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655517,
+      "num": 342807,
+      "word": "英国偶遇章泽天",
+      "onboard_time": 1706078668,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 653333,
@@ -1779,6 +1803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 531201,
+      "num": 531201,
+      "word": "多方回应小伙晕倒做手术后去世",
+      "onboard_time": 1706076868,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531098,
       "num": 531098,
       "word": "俄罗斯航空公布阿富汗失事飞机细节",
@@ -2195,6 +2227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 461795,
+      "num": 461795,
+      "word": "钟楚曦怕自己太瘦观众不喜欢",
+      "onboard_time": 1706076150,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 457705,
       "num": 457705,
       "word": "TES在打什么",
@@ -2531,14 +2571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412009,
-      "num": 412009,
-      "word": "董明珠称身上毛衣不到200块",
-      "onboard_time": 1706076927,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 411341,
       "num": 411341,
       "word": "人们为什么不往个人养老金账户里存钱",
@@ -2817,14 +2849,6 @@
       "onboard_time": 1706015973,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 380350,
-      "num": 380350,
-      "word": "钟楚曦怕自己太瘦观众不喜欢",
-      "onboard_time": 1706076150,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 380200,
@@ -3419,6 +3443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317744,
+      "num": 317744,
+      "word": "10岁小孩分享辣条后同学死亡被诉",
+      "onboard_time": 1706079810,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317055,
       "num": 317055,
       "word": "书瑶 徕芬",
@@ -3561,6 +3593,14 @@
       "onboard_time": 1705827504,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 300347,
+      "num": 300347,
+      "word": "秀智 我有时候会孤立我自己",
+      "onboard_time": 1706076689,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 299323,
@@ -4107,6 +4147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258145,
+      "num": 258145,
+      "word": "吴磊赵今麦脸颊吻",
+      "onboard_time": 1706077229,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257881,
       "num": 257881,
       "word": "YG预计今年内推出新组合",
@@ -4203,6 +4251,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 252482,
+      "num": 252482,
+      "word": "Uzi谈RNG假赛谣言",
+      "onboard_time": 1706078488,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 252122,
       "num": 241204,
       "word": "原神代肝有多残酷",
@@ -4248,14 +4304,6 @@
       "word": "徐明浩成都",
       "onboard_time": 1706007209,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 249925,
-      "num": 249925,
-      "word": "秀智 我有时候会孤立我自己",
-      "onboard_time": 1706076689,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -4336,6 +4384,14 @@
       "word": "男子一个多月内逃缴停车费1500元被刑拘",
       "onboard_time": 1705982067,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245841,
+      "num": 245841,
+      "word": "济南一酒店凌晨起火致4人死亡",
+      "onboard_time": 1706079329,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -4433,6 +4489,14 @@
       "onboard_time": 1706052143,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241038,
+      "num": 241038,
+      "word": "迪丽热巴给花少团买礼物",
+      "onboard_time": 1706080470,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 240917,
@@ -4569,14 +4633,6 @@
       "onboard_time": 1705968206,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 232138,
-      "num": 232138,
-      "word": "吴磊赵今麦脸颊吻",
-      "onboard_time": 1706077229,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 231284,
@@ -4931,14 +4987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213953,
-      "num": 213953,
-      "word": "多方回应小伙晕倒做手术后去世",
-      "onboard_time": 1706076868,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213819,
       "num": 213819,
       "word": "马诺称闪婚后半年被家暴7次",
@@ -4953,6 +5001,14 @@
       "onboard_time": 1705984110,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213360,
+      "num": 213360,
+      "word": "证监会副主席王建军采访",
+      "onboard_time": 1706078968,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 213274,
@@ -5329,6 +5385,14 @@
       "onboard_time": 1705840108,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203011,
+      "num": 203011,
+      "word": "上班后人的性格真的会变",
+      "onboard_time": 1706077112,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 202632,
@@ -6217,14 +6281,6 @@
       "onboard_time": 1705838667,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179369,
-      "num": 179369,
-      "word": "上班后人的性格真的会变",
-      "onboard_time": 1706077112,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 179321,
@@ -7243,6 +7299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 154304,
+      "num": 154304,
+      "word": "食物语",
+      "onboard_time": 1706078250,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154244,
       "num": 154244,
       "word": "这哪是导师明明是阴阳师",
@@ -8003,6 +8067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138198,
+      "num": 138198,
+      "word": "黄瀛子使不完的牛劲",
+      "onboard_time": 1706079930,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138185,
       "num": 138185,
       "word": "鞠婧祎韩菱纱主题曲上线",
@@ -8617,6 +8689,14 @@
       "onboard_time": 1705934307,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 126106,
+      "num": 126106,
+      "word": "RNG官方辟谣假赛风波",
+      "onboard_time": 1706079869,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 125953,
@@ -9251,6 +9331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108424,
+      "num": 108424,
+      "word": "幻兽帕鲁销量突破700万",
+      "onboard_time": 1706080590,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108414,
       "num": 108414,
       "word": "春运返程放空列车有2折以下低价票",
@@ -9361,6 +9449,14 @@
       "onboard_time": 1705816526,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104961,
+      "num": 104961,
+      "word": "消防员搜救时身后巨石滚落",
+      "onboard_time": 1706080230,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104654,
@@ -9619,6 +9715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96820,
+      "num": 96820,
+      "word": "处女座真的嘴硬",
+      "onboard_time": 1706080530,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96661,
       "num": 96661,
       "word": "伪素颜睫毛",
@@ -9665,6 +9769,14 @@
       "onboard_time": 1705768703,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94804,
+      "num": 94804,
+      "word": "肌肉垃圾桶",
+      "onboard_time": 1706078488,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 94680,
@@ -9747,6 +9859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88948,
+      "num": 88948,
+      "word": "你们公司还开年会吗",
+      "onboard_time": 1706078787,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88897,
       "num": 88897,
       "word": "马诺已拿到人身保护令",
@@ -9769,6 +9889,14 @@
       "onboard_time": 1706068830,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86434,
+      "num": 86434,
+      "word": "中国电视剧年度盛典宣传片",
+      "onboard_time": 1706078848,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 86055,
