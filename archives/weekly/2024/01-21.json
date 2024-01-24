@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706114372912,
+  "endTime": 1706116621594,
   "band_list": [
     {
       "raw_hot": 7473338,
@@ -4131,6 +4131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 298760,
+      "num": 298760,
+      "word": "游本昌回应一夜之间又红了",
+      "onboard_time": 1706099190,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298617,
       "num": 298617,
       "word": "幻兽帕鲁",
@@ -4193,14 +4201,6 @@
       "onboard_time": 1705965320,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 289510,
-      "num": 289510,
-      "word": "游本昌回应一夜之间又红了",
-      "onboard_time": 1706099190,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 288863,
@@ -11619,6 +11619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57955,
+      "num": 57955,
+      "word": "范丞丞片场穿杨紫拖鞋",
+      "onboard_time": 1706115203,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56065,
       "num": 1164371,
       "word": "国字号重器硬核展示中国制造实力",
@@ -11633,6 +11641,14 @@
       "onboard_time": 1705879882,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54013,
+      "num": 54013,
+      "word": "恋与深空 永远有哥哥罩着",
+      "onboard_time": 1706114606,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 52966,
@@ -11745,6 +11761,14 @@
       "onboard_time": 1705861214,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43516,
+      "num": 43516,
+      "word": "NMIXX一位",
+      "onboard_time": 1706116103,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 41522,
@@ -11979,18 +12003,18 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 5769,
-      "num": 858545,
-      "word": "相约冰雪",
-      "onboard_time": 1705410872,
+      "raw_hot": 7845,
+      "num": 759642,
+      "word": "我国高光谱综合观测卫星投入使用",
+      "onboard_time": 1706100514,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5297,
-      "num": 759642,
-      "word": "我国高光谱综合观测卫星投入使用",
-      "onboard_time": 1706100514,
+      "raw_hot": 5769,
+      "num": 858545,
+      "word": "相约冰雪",
+      "onboard_time": 1705410872,
       "rank": 2,
       "category": "社会新闻"
     }

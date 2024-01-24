@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706114372912,
+  "endTime": 1706116621594,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -25299,6 +25299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 298760,
+      "num": 298760,
+      "word": "游本昌回应一夜之间又红了",
+      "onboard_time": 1706099190,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298636,
       "num": 298636,
       "word": "仙剑六",
@@ -25976,14 +25984,6 @@
       "word": "茅子俊力挺毛晓慧",
       "onboard_time": 1705727787,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 289510,
-      "num": 289510,
-      "word": "游本昌回应一夜之间又红了",
-      "onboard_time": 1706099190,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -64307,6 +64307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57955,
+      "num": 57955,
+      "word": "范丞丞片场穿杨紫拖鞋",
+      "onboard_time": 1706115203,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57915,
       "num": 162003,
       "word": "陕北4名小男孩唱山歌热情豪迈",
@@ -64505,6 +64513,14 @@
       "onboard_time": 1705015883,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 54013,
+      "num": 54013,
+      "word": "恋与深空 永远有哥哥罩着",
+      "onboard_time": 1706114606,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 53917,
@@ -65193,6 +65209,14 @@
       "onboard_time": 1704703591,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 43516,
+      "num": 43516,
+      "word": "NMIXX一位",
+      "onboard_time": 1706116103,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 43332,
@@ -67075,19 +67099,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7845,
+      "num": 759642,
+      "word": "我国高光谱综合观测卫星投入使用",
+      "onboard_time": 1706100514,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7655,
       "num": 270594,
       "word": "中国航天员大队26岁生日快乐",
       "onboard_time": 1704412950,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5297,
-      "num": 759642,
-      "word": "我国高光谱综合观测卫星投入使用",
-      "onboard_time": 1706100514,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
