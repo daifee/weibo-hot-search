@@ -1,21 +1,21 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706067263847,
+  "endTime": 1706070161347,
   "band_list": [
+    {
+      "raw_hot": 3927509,
+      "num": 3927509,
+      "word": "和叶 弟弟变妹妹",
+      "onboard_time": 1706063308,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3131026,
       "num": 3131026,
       "word": "新疆乌什县7.1级地震",
       "onboard_time": 1705948695,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2950428,
-      "num": 2950428,
-      "word": "和叶 弟弟变妹妹",
-      "onboard_time": 1706063308,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 1090559,
-      "num": 498115,
+      "num": 532512,
       "word": "英国的性教育",
       "onboard_time": 1706061450,
       "rank": 10,
@@ -848,6 +848,14 @@
       "word": "云南山体滑坡已致2人遇难",
       "onboard_time": 1705903525,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814646,
+      "num": 814646,
+      "word": "春节未成年只能玩9小时游戏",
+      "onboard_time": 1706066611,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1292,7 +1300,7 @@
     },
     {
       "raw_hot": 634308,
-      "num": 416777,
+      "num": 445554,
       "word": "爸爸把我买的车厘子送人了",
       "onboard_time": 1706055089,
       "rank": 20,
@@ -1353,6 +1361,14 @@
       "onboard_time": 1705840407,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 623439,
+      "num": 623439,
+      "word": "赵今麦妆造全靠脸了",
+      "onboard_time": 1706068951,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 622174,
@@ -1449,6 +1465,14 @@
       "onboard_time": 1705821565,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 592757,
+      "num": 592757,
+      "word": "美兰 这个经历似曾相识",
+      "onboard_time": 1706066910,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590677,
@@ -1627,6 +1651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 554873,
+      "num": 554873,
+      "word": "肖战工作室新增营业性演出许可",
+      "onboard_time": 1706067450,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554175,
       "num": 554175,
       "word": "学术蝗虫",
@@ -1659,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543546,
+      "num": 309859,
+      "word": "第一批网红奶茶悄悄消失",
+      "onboard_time": 1706065050,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537417,
       "num": 211660,
       "word": "南京一商场被指贴旭日旗遭网友怒斥后撤下",
@@ -1688,6 +1728,14 @@
       "word": "12306抢票",
       "onboard_time": 1705983571,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530353,
+      "num": 530353,
+      "word": "熊猫性别",
+      "onboard_time": 1706068052,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1817,14 +1865,6 @@
       "onboard_time": 1705746087,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 505739,
-      "num": 273892,
-      "word": "第一批网红奶茶悄悄消失",
-      "onboard_time": 1706065050,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 504290,
@@ -2089,6 +2129,14 @@
       "onboard_time": 1705917746,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 456110,
+      "num": 456110,
+      "word": "王鹤棣火焰粉发",
+      "onboard_time": 1706068652,
+      "rank": 14,
+      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 455955,
@@ -3139,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325438,
+      "num": 325438,
+      "word": "云南60余岁夫妻手拉手遇难",
+      "onboard_time": 1706067329,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323395,
       "num": 323395,
       "word": "男子徒手接住6楼坠落男孩",
@@ -3395,12 +3451,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 298617,
+      "num": 298617,
+      "word": "幻兽帕鲁",
+      "onboard_time": 1705803384,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298518,
       "num": 298518,
       "word": "魏大勋版帅哥被灌酒",
       "onboard_time": 1705807347,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298444,
+      "num": 298444,
+      "word": "A股国家队最新出手",
+      "onboard_time": 1706066611,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 298414,
@@ -3425,6 +3497,14 @@
       "onboard_time": 1705975287,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294698,
+      "num": 294698,
+      "word": "仙剑二外传选角",
+      "onboard_time": 1706069135,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 293733,
@@ -3793,6 +3873,14 @@
       "onboard_time": 1705907127,
       "rank": 24,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 267115,
+      "num": 267115,
+      "word": "阴阳师",
+      "onboard_time": 1706069552,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 266681,
@@ -4675,6 +4763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214612,
+      "num": 214612,
+      "word": "国务院国资委强化A股投资者回报",
+      "onboard_time": 1706068710,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 214065,
       "num": 214065,
       "word": "袁咏仪演甄嬛胖橘都活不过两集",
@@ -4697,14 +4793,6 @@
       "onboard_time": 1705984110,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213700,
-      "num": 213700,
-      "word": "美兰 这个经历似曾相识",
-      "onboard_time": 1706066910,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213274,
@@ -5131,14 +5219,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200991,
-      "num": 200991,
-      "word": "A股国家队最新出手",
-      "onboard_time": 1706066611,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 200905,
       "num": 200905,
       "word": "叙利亚进球",
@@ -5193,6 +5273,14 @@
       "onboard_time": 1705850489,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199989,
+      "num": 199989,
+      "word": "Jennie公主切双马尾",
+      "onboard_time": 1706069913,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199482,
@@ -5465,14 +5553,6 @@
       "onboard_time": 1705759287,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193551,
-      "num": 193551,
-      "word": "幻兽帕鲁",
-      "onboard_time": 1705803384,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 193471,
@@ -6483,6 +6563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165309,
+      "num": 165309,
+      "word": "中国和瑙鲁复交仪式即将举行",
+      "onboard_time": 1706070032,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 165257,
       "num": 165257,
       "word": "接下来三周的工作计划安排",
@@ -6939,6 +7027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153993,
+      "num": 153993,
+      "word": "中国瑙鲁复交",
+      "onboard_time": 1706070091,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153567,
       "num": 153567,
       "word": "我国再次成功发射一箭五星",
@@ -7041,6 +7137,14 @@
       "onboard_time": 1705991906,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150915,
+      "num": 150915,
+      "word": "苹果在中国推出AppleMusic古典乐",
+      "onboard_time": 1706067390,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 150838,
@@ -7305,6 +7409,14 @@
       "onboard_time": 1705800746,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145148,
+      "num": 145148,
+      "word": "打工和创业最大的区别是什么",
+      "onboard_time": 1706069192,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 144908,
@@ -7859,14 +7971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 133585,
-      "num": 133585,
-      "word": "春节未成年只能玩9小时游戏",
-      "onboard_time": 1706066611,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133396,
       "num": 133396,
       "word": "恋与深空贴脸开大光头",
@@ -8323,6 +8427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122916,
+      "num": 122916,
+      "word": "减肥哪有不疯的",
+      "onboard_time": 1706068170,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 122361,
+      "num": 122361,
+      "word": "鱿鱼游戏2今年播出",
+      "onboard_time": 1706067450,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121918,
       "num": 121918,
       "word": "杭州官宣梅西3月来",
@@ -8361,6 +8481,14 @@
       "onboard_time": 1705829067,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121053,
+      "num": 121053,
+      "word": "安徽砀山先进工作者举报局长后被判刑",
+      "onboard_time": 1706067689,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121045,
@@ -8665,6 +8793,14 @@
       "onboard_time": 1705995090,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113238,
+      "num": 113238,
+      "word": "湖人vs快船",
+      "onboard_time": 1706067149,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 112476,
@@ -9187,14 +9323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 95974,
-      "num": 95974,
-      "word": "湖人vs快船",
-      "onboard_time": 1706067149,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95477,
       "num": 95477,
       "word": "儿科诊室里的成年人",
@@ -9427,6 +9555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75985,
+      "num": 857466,
+      "word": "中国空间站核心舱入轨1000天",
+      "onboard_time": 1706068830,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75611,
       "num": 75611,
       "word": "舅舅向炫富的外甥借钱",
@@ -9521,6 +9657,14 @@
       "onboard_time": 1705908329,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67938,
+      "num": 563745,
+      "word": "一句话送给更好的自己",
+      "onboard_time": 1706067329,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 67607,

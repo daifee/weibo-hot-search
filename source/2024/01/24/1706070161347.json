@@ -1,0 +1,410 @@
+{
+  "runTime": 1706070161347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3927509,
+        "num": 3927509,
+        "word": "和叶 弟弟变妹妹",
+        "onboard_time": 1706063308,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1237849,
+        "num": 1237849,
+        "word": "中国资产暴涨",
+        "onboard_time": 1706061211,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75985,
+        "num": 857466,
+        "word": "中国空间站核心舱入轨1000天",
+        "onboard_time": 1706068830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814646,
+        "num": 814646,
+        "word": "春节未成年只能玩9小时游戏",
+        "onboard_time": 1706066611,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 623439,
+        "num": 623439,
+        "word": "赵今麦妆造全靠脸了",
+        "onboard_time": 1706068951,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 758434,
+        "num": 621552,
+        "word": "举报黄飞若学术不端的学生们正接洽新导师",
+        "onboard_time": 1706064387,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606633,
+        "num": 606633,
+        "word": "晚睡晚起睡够时长算熬夜吗",
+        "onboard_time": 1706060610,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 592757,
+        "num": 592757,
+        "word": "美兰 这个经历似曾相识",
+        "onboard_time": 1706066910,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592652,
+        "num": 592652,
+        "word": "李兰迪 归国白月光",
+        "onboard_time": 1706064329,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591399,
+        "num": 591399,
+        "word": "电影花千骨导演道歉",
+        "onboard_time": 1706061509,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67938,
+        "num": 563745,
+        "word": "一句话送给更好的自己",
+        "onboard_time": 1706067329,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 554873,
+        "num": 554873,
+        "word": "肖战工作室新增营业性演出许可",
+        "onboard_time": 1706067450,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532512,
+        "num": 532512,
+        "word": "英国的性教育",
+        "onboard_time": 1706061450,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 530353,
+        "num": 530353,
+        "word": "熊猫性别",
+        "onboard_time": 1706068052,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456110,
+        "num": 456110,
+        "word": "王鹤棣火焰粉发",
+        "onboard_time": 1706068652,
+        "rank": 14,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 445554,
+        "num": 445554,
+        "word": "爸爸把我买的车厘子送人了",
+        "onboard_time": 1706055089,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375700,
+        "num": 375700,
+        "word": "IU金泰亨MV婚纱照",
+        "onboard_time": 1706062110,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 370409,
+        "num": 370409,
+        "word": "花千骨票房",
+        "onboard_time": 1706064088,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325438,
+        "num": 325438,
+        "word": "云南60余岁夫妻手拉手遇难",
+        "onboard_time": 1706067329,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319187,
+        "num": 319187,
+        "word": "和叶花花原来是姐妹",
+        "onboard_time": 1706064329,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543546,
+        "num": 309859,
+        "word": "第一批网红奶茶悄悄消失",
+        "onboard_time": 1706065050,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298617,
+        "num": 298617,
+        "word": "幻兽帕鲁",
+        "onboard_time": 1706069135,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298444,
+        "num": 298444,
+        "word": "A股国家队最新出手",
+        "onboard_time": 1706066611,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 294698,
+        "num": 294698,
+        "word": "仙剑二外传选角",
+        "onboard_time": 1706069135,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268458,
+        "num": 268458,
+        "word": "李胜利说要把权志龙带来柬埔寨",
+        "onboard_time": 1706055812,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267115,
+        "num": 267115,
+        "word": "阴阳师",
+        "onboard_time": 1706069552,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233952,
+        "num": 233952,
+        "word": "宁拆一座庙必毁这桩婚",
+        "onboard_time": 1706022995,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214612,
+        "num": 214612,
+        "word": "国务院国资委强化A股投资者回报",
+        "onboard_time": 1706068710,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209579,
+        "num": 209579,
+        "word": "A股",
+        "onboard_time": 1706062710,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199989,
+        "num": 199989,
+        "word": "Jennie公主切双马尾",
+        "onboard_time": 1706069913,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185470,
+        "num": 185470,
+        "word": "湖南暴雪已致1万多人受灾",
+        "onboard_time": 1706020412,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183427,
+        "num": 183427,
+        "word": "曝中国足协或将很快重启选帅事宜",
+        "onboard_time": 1706066069,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171938,
+        "num": 171938,
+        "word": "12306抢票",
+        "onboard_time": 1706058211,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165309,
+        "num": 165309,
+        "word": "中国和瑙鲁复交仪式即将举行",
+        "onboard_time": 1706070032,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 155754,
+        "num": 155754,
+        "word": "洗狐狸",
+        "onboard_time": 1706060850,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154002,
+        "num": 154002,
+        "word": "寻亲家长26年后一眼认出人贩子",
+        "onboard_time": 1706062289,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153993,
+        "num": 153993,
+        "word": "中国瑙鲁复交",
+        "onboard_time": 1706070091,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150915,
+        "num": 150915,
+        "word": "苹果在中国推出AppleMusic古典乐",
+        "onboard_time": 1706067390,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145279,
+        "num": 145279,
+        "word": "王健林的年会停了",
+        "onboard_time": 1706055689,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145148,
+        "num": 145148,
+        "word": "打工和创业最大的区别是什么",
+        "onboard_time": 1706069192,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141628,
+        "num": 141628,
+        "word": "潘粤明 看国足只有更伤心",
+        "onboard_time": 1706065650,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 135301,
+        "num": 135301,
+        "word": "飞驰人生2剧组被e人统治了",
+        "onboard_time": 1706065889,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123181,
+        "num": 123181,
+        "word": "我推的孩子真人化",
+        "onboard_time": 1706066849,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 123025,
+        "num": 123025,
+        "word": "陆虎为老婆庆生",
+        "onboard_time": 1706063308,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122916,
+        "num": 122916,
+        "word": "减肥哪有不疯的",
+        "onboard_time": 1706068170,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122361,
+        "num": 122361,
+        "word": "鱿鱼游戏2今年播出",
+        "onboard_time": 1706067450,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121053,
+        "num": 121053,
+        "word": "安徽砀山先进工作者举报局长后被判刑",
+        "onboard_time": 1706067689,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120646,
+        "num": 120646,
+        "word": "新疆余震1104次",
+        "onboard_time": 1706057912,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113255,
+        "num": 113255,
+        "word": "冯仑张朝阳谈董宇辉为何火",
+        "onboard_time": 1706066849,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113238,
+        "num": 113238,
+        "word": "湖人vs快船",
+        "onboard_time": 1706067149,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实稳健推进中国式现代化建设#"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "startTime": 1706027038365,
-  "endTime": 1706067263847,
+  "endTime": 1706070161347,
   "band_list": [
     {
-      "raw_hot": 2950428,
-      "num": 2950428,
+      "raw_hot": 3927509,
+      "num": 3927509,
       "word": "和叶 弟弟变妹妹",
       "onboard_time": 1706063308,
       "rank": 4,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1090559,
-      "num": 498115,
+      "num": 532512,
       "word": "英国的性教育",
       "onboard_time": 1706061450,
       "rank": 10,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 814646,
+      "num": 814646,
+      "word": "春节未成年只能玩9小时游戏",
+      "onboard_time": 1706066611,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 714460,
       "num": 714460,
       "word": "C罗向中国球迷道歉",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 634308,
-      "num": 416777,
+      "num": 445554,
       "word": "爸爸把我买的车厘子送人了",
       "onboard_time": 1706055089,
       "rank": 20,
@@ -131,6 +139,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 623439,
+      "num": 623439,
+      "word": "赵今麦妆造全靠脸了",
+      "onboard_time": 1706068951,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 610625,
       "num": 610625,
       "word": "宁拆一座庙必毁这桩婚",
@@ -144,6 +160,14 @@
       "word": "211硕士回应入职不到半年被裁",
       "onboard_time": 1706025271,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592757,
+      "num": 592757,
+      "word": "美兰 这个经历似曾相识",
+      "onboard_time": 1706066910,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -171,6 +195,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 554873,
+      "num": 554873,
+      "word": "肖战工作室新增营业性演出许可",
+      "onboard_time": 1706067450,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 543546,
+      "num": 309859,
+      "word": "第一批网红奶茶悄悄消失",
+      "onboard_time": 1706065050,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530969,
       "num": 530969,
       "word": "12306抢票",
@@ -179,11 +219,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 505739,
-      "num": 273892,
-      "word": "第一批网红奶茶悄悄消失",
-      "onboard_time": 1706065050,
-      "rank": 20,
+      "raw_hot": 530353,
+      "num": 530353,
+      "word": "熊猫性别",
+      "onboard_time": 1706068052,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -201,6 +241,14 @@
       "onboard_time": 1706004511,
       "rank": 4,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 456110,
+      "num": 456110,
+      "word": "王鹤棣火焰粉发",
+      "onboard_time": 1706068652,
+      "rank": 14,
+      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 453402,
@@ -307,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325438,
+      "num": 325438,
+      "word": "云南60余岁夫妻手拉手遇难",
+      "onboard_time": 1706067329,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317756,
       "num": 317756,
       "word": "孙千这是素颜吗",
@@ -347,12 +403,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 298617,
+      "num": 298617,
+      "word": "幻兽帕鲁",
+      "onboard_time": 1706069135,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 298444,
+      "num": 298444,
+      "word": "A股国家队最新出手",
+      "onboard_time": 1706066611,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 295126,
       "num": 295126,
       "word": "河南发生火灾学校发布通报",
       "onboard_time": 1706020054,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294698,
+      "num": 294698,
+      "word": "仙剑二外传选角",
+      "onboard_time": 1706069135,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 283355,
@@ -385,6 +465,14 @@
       "onboard_time": 1706055149,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267115,
+      "num": 267115,
+      "word": "阴阳师",
+      "onboard_time": 1706069552,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 253531,
@@ -467,20 +555,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214612,
+      "num": 214612,
+      "word": "国务院国资委强化A股投资者回报",
+      "onboard_time": 1706068710,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 213819,
       "num": 213819,
       "word": "马诺称闪婚后半年被家暴7次",
       "onboard_time": 1706031678,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 213700,
-      "num": 213700,
-      "word": "美兰 这个经历似曾相识",
-      "onboard_time": 1706066910,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213274,
@@ -523,12 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200991,
-      "num": 200991,
-      "word": "A股国家队最新出手",
-      "onboard_time": 1706066611,
-      "rank": 26,
-      "category": "财经"
+      "raw_hot": 199989,
+      "num": 199989,
+      "word": "Jennie公主切双马尾",
+      "onboard_time": 1706069913,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198330,
@@ -603,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165309,
+      "num": 165309,
+      "word": "中国和瑙鲁复交仪式即将举行",
+      "onboard_time": 1706070032,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 164657,
       "num": 164657,
       "word": "美国男篮巴黎奥运会候选名单",
@@ -635,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153993,
+      "num": 153993,
+      "word": "中国瑙鲁复交",
+      "onboard_time": 1706070091,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151915,
       "num": 151915,
       "word": "杨紫给新戏衣服打码",
@@ -649,6 +753,14 @@
       "onboard_time": 1706053285,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 150915,
+      "num": 150915,
+      "word": "苹果在中国推出AppleMusic古典乐",
+      "onboard_time": 1706067390,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 150383,
@@ -673,6 +785,14 @@
       "onboard_time": 1706063611,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145148,
+      "num": 145148,
+      "word": "打工和创业最大的区别是什么",
+      "onboard_time": 1706069192,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 144544,
@@ -739,14 +859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 133585,
-      "num": 133585,
-      "word": "春节未成年只能玩9小时游戏",
-      "onboard_time": 1706066611,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131952,
       "num": 131952,
       "word": "董宇辉卖文学杂志创纪录",
@@ -803,11 +915,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122916,
+      "num": 122916,
+      "word": "减肥哪有不疯的",
+      "onboard_time": 1706068170,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 122361,
+      "num": 122361,
+      "word": "鱿鱼游戏2今年播出",
+      "onboard_time": 1706067450,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122255,
       "num": 122255,
       "word": "河南学校火灾致13死4伤7人被抓",
       "onboard_time": 1706019871,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121053,
+      "num": 121053,
+      "word": "安徽砀山先进工作者举报局长后被判刑",
+      "onboard_time": 1706067689,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -833,6 +969,14 @@
       "onboard_time": 1706060310,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113238,
+      "num": 113238,
+      "word": "湖人vs快船",
+      "onboard_time": 1706067149,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 112233,
@@ -923,14 +1067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 95974,
-      "num": 95974,
-      "word": "湖人vs快船",
-      "onboard_time": 1706067149,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95407,
       "num": 95407,
       "word": "还以为繁花出番外了",
@@ -995,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75985,
+      "num": 857466,
+      "word": "中国空间站核心舱入轨1000天",
+      "onboard_time": 1706068830,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74786,
       "num": 74786,
       "word": "2024奥斯卡提名",
@@ -1017,6 +1161,14 @@
       "onboard_time": 1706026646,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 67938,
+      "num": 563745,
+      "word": "一句话送给更好的自己",
+      "onboard_time": 1706067329,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 64663,
