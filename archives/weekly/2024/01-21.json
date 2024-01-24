@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706120523140,
+  "endTime": 1706121335379,
   "band_list": [
     {
       "raw_hot": 7473338,
@@ -11779,6 +11779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40840,
+      "num": 40840,
+      "word": "嗑女一男二是我的宿命",
+      "onboard_time": 1706120420,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40329,
       "num": 1228316,
       "word": "动车组集结如陆地航母蓄势待发",
@@ -11801,14 +11809,6 @@
       "onboard_time": 1706117241,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 35691,
-      "num": 35691,
-      "word": "嗑女一男二是我的宿命",
-      "onboard_time": 1706120420,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 35592,
