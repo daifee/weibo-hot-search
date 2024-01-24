@@ -1,0 +1,410 @@
+{
+  "runTime": 1706134644773,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 196991,
+        "num": 196991,
+        "word": "民政部回复龙年不宜结婚",
+        "onboard_time": 1706107055,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155324,
+        "num": 155324,
+        "word": "女生腹泻后未在意5天后心脏停跳",
+        "onboard_time": 1706108254,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7452,
+        "num": 137080,
+        "word": "我国高光谱综合观测卫星投入使用",
+        "onboard_time": 1706100514,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120708,
+        "num": 120708,
+        "word": "C罗不满中国行主办方",
+        "onboard_time": 1706091150,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120429,
+        "num": 120429,
+        "word": "菏泽一臭水沟惊现8箱飞天茅台",
+        "onboard_time": 1706101116,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119356,
+        "num": 119356,
+        "word": "C罗对直播带货网红蹭流量很生气",
+        "onboard_time": 1706099190,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110125,
+        "num": 110125,
+        "word": "江西新余火灾39人遇难",
+        "onboard_time": 1706098652,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95789,
+        "num": 95789,
+        "word": "张檬备孕失败",
+        "onboard_time": 1706095589,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71959,
+        "num": 71959,
+        "word": "游本昌回应一夜之间又红了",
+        "onboard_time": 1706099190,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69781,
+        "num": 69781,
+        "word": "车厘子价格降不动了",
+        "onboard_time": 1706107775,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 67747,
+        "num": 67747,
+        "word": "暴雪中100多警力出动找的孩子被交警捡到",
+        "onboard_time": 1706123536,
+        "rank": 10,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 64690,
+        "num": 64690,
+        "word": "女销售1人贡献保时捷中国0.2%销量",
+        "onboard_time": 1706121617,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 56028,
+        "num": 56028,
+        "word": "王鹤棣 小肚子",
+        "onboard_time": 1706098711,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45939,
+        "num": 45939,
+        "word": "江西新余火灾伤者比较年轻",
+        "onboard_time": 1706108732,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42444,
+        "num": 42444,
+        "word": "黄多多 新电影",
+        "onboard_time": 1706087550,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40877,
+        "num": 40877,
+        "word": "巴宝莉门店回应热水袋不能装沸水",
+        "onboard_time": 1706101355,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40273,
+        "num": 40273,
+        "word": "美甲 丑甲",
+        "onboard_time": 1706107534,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 38754,
+        "num": 38754,
+        "word": "俄坠毁运输机上74人全部遇难",
+        "onboard_time": 1706095830,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 35885,
+        "num": 35885,
+        "word": "商场公厕男女标志像猜谜",
+        "onboard_time": 1706103754,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34565,
+        "num": 34565,
+        "word": "父亲安慰剖腹产女儿心疼落泪",
+        "onboard_time": 1706104596,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70611,
+        "num": 34445,
+        "word": "男子带9月孕妻爬山被亲妈语音轰炸",
+        "onboard_time": 1706100275,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48221,
+        "num": 34127,
+        "word": "情侣住店赤身裸体房门突然被打开",
+        "onboard_time": 1706089831,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31041,
+        "num": 31041,
+        "word": "小伙景区买7颗珠子编手链被收1650",
+        "onboard_time": 1706107713,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30223,
+        "num": 30223,
+        "word": "莫小贝都31岁了",
+        "onboard_time": 1706098291,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30165,
+        "num": 30165,
+        "word": "才工作两年父母就找我借钱",
+        "onboard_time": 1706104113,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24685,
+        "num": 24685,
+        "word": "为什么衣服上的火锅味一直散不掉",
+        "onboard_time": 1706108133,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 24517,
+        "num": 24517,
+        "word": "辛巴带货为何屡屡惹争议",
+        "onboard_time": 1706111908,
+        "rank": 26,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 24500,
+        "num": 24500,
+        "word": "港媒曝黎淑贤凶宅被低价放售",
+        "onboard_time": 1706108675,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23919,
+        "num": 23919,
+        "word": "宁艺卓签售态度再惹争议",
+        "onboard_time": 1706092170,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21992,
+        "num": 21992,
+        "word": "江西新余火灾亲历者讲述逃生经历",
+        "onboard_time": 1706128455,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42010,
+        "num": 21952,
+        "word": "辛巴怒斥快手",
+        "onboard_time": 1706106456,
+        "rank": 30,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 21866,
+        "num": 21866,
+        "word": "江西起火店铺地下室此前装修",
+        "onboard_time": 1706124618,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20877,
+        "num": 20877,
+        "word": "7年长跑情侣互换龙年礼后决定结婚",
+        "onboard_time": 1706090130,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20822,
+        "num": 20822,
+        "word": "暧昧期容易上头的星座",
+        "onboard_time": 1706099793,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20683,
+        "num": 20683,
+        "word": "人夫感是一种什么感觉",
+        "onboard_time": 1706109212,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19167,
+        "num": 19167,
+        "word": "江西新余火灾现场已无被困人员",
+        "onboard_time": 1706106034,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18838,
+        "num": 18838,
+        "word": "魏大勋新手机壳",
+        "onboard_time": 1706105196,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18244,
+        "num": 18244,
+        "word": "还好蒋翼长嘴了",
+        "onboard_time": 1706133074,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18100,
+        "num": 18100,
+        "word": "女子被筷子毛刺扎伤治疗花费1万7",
+        "onboard_time": 1706103573,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18041,
+        "num": 18041,
+        "word": "男主脱衣服受刑的原因",
+        "onboard_time": 1706096908,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15646,
+        "num": 15646,
+        "word": "范丞丞片场穿杨紫拖鞋",
+        "onboard_time": 1706115203,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15298,
+        "num": 15298,
+        "word": "江西火灾多人从二楼跳下被民警接住",
+        "onboard_time": 1706099610,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15073,
+        "num": 15073,
+        "word": "潘斌龙说赵丽颖哭戏令人心碎",
+        "onboard_time": 1706102074,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14612,
+        "num": 14612,
+        "word": "阚清子绿色清凉吊带裙",
+        "onboard_time": 1706108555,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14457,
+        "num": 14457,
+        "word": "3种肠息肉易癌变",
+        "onboard_time": 1706130794,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14365,
+        "num": 14365,
+        "word": "上海火锅店帅哥图鉴",
+        "onboard_time": 1706131816,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14284,
+        "num": 14284,
+        "word": "韩素希收到Jennie的小卡",
+        "onboard_time": 1706112809,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13526,
+        "num": 14278,
+        "word": "嗑女一男二是我的宿命",
+        "onboard_time": 1706120420,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13400,
+        "num": 14268,
+        "word": "花少 姐狗文学",
+        "onboard_time": 1706096791,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11619,
+        "num": 14258,
+        "word": "王大陆吃到了张艺兴的外卖",
+        "onboard_time": 1706103815,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对江西新余市火灾事故作出重要指示#"
+    }
+  }
+}

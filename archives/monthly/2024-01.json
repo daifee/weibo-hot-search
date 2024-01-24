@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706132046014,
+  "endTime": 1706134644773,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -63587,6 +63587,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 67747,
+      "num": 67747,
+      "word": "暴雪中100多警力出动找的孩子被交警捡到",
+      "onboard_time": 1706123536,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 67582,
       "num": 67582,
       "word": "买到黄标祖玛珑顾客起疑心",
@@ -63873,6 +63881,14 @@
       "onboard_time": 1704875193,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 64690,
+      "num": 64690,
+      "word": "女销售1人贡献保时捷中国0.2%销量",
+      "onboard_time": 1706121617,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 64663,
@@ -65003,14 +65019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46161,
-      "num": 46161,
-      "word": "女销售1人贡献保时捷中国0.2%销量",
-      "onboard_time": 1706121617,
-      "rank": 22,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 45927,
       "num": 350581,
       "word": "河南人间烟火气",
@@ -66107,14 +66115,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 25403,
-      "num": 25403,
-      "word": "暴雪中100多警力出动找的孩子被交警捡到",
-      "onboard_time": 1706123536,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 25338,
       "num": 25338,
       "word": "cos的风还是吹到了霉霉大电影",
@@ -66283,11 +66283,27 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 21992,
+      "num": 21992,
+      "word": "江西新余火灾亲历者讲述逃生经历",
+      "onboard_time": 1706128455,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21877,
       "num": 21877,
       "word": "一场在地震中完成的紧急开颅手术",
       "onboard_time": 1706042535,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21866,
+      "num": 21866,
+      "word": "江西起火店铺地下室此前装修",
+      "onboard_time": 1706124618,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -66304,14 +66320,6 @@
       "word": "新年满弦开弓一起迈出新步伐",
       "onboard_time": 1704253829,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21305,
-      "num": 21305,
-      "word": "江西起火店铺地下室此前装修",
-      "onboard_time": 1706124618,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -66507,6 +66515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 18244,
+      "num": 18244,
+      "word": "还好蒋翼长嘴了",
+      "onboard_time": 1706133074,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18225,
       "num": 18225,
       "word": "成都人的松弛感不像是演的",
@@ -66659,14 +66675,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 15748,
-      "num": 15748,
-      "word": "江西新余火灾亲历者讲述逃生经历",
-      "onboard_time": 1706128455,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15734,
       "num": 15734,
       "word": "代号鸢",
@@ -66779,12 +66787,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 14457,
+      "num": 14457,
+      "word": "3种肠息肉易癌变",
+      "onboard_time": 1706130794,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 14440,
       "num": 19396,
       "word": "NMIXX概念预告",
       "onboard_time": 1704394576,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 14365,
+      "num": 14365,
+      "word": "上海火锅店帅哥图鉴",
+      "onboard_time": 1706131816,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 14325,
@@ -66905,14 +66929,6 @@
       "onboard_time": 1705000694,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12920,
-      "num": 12920,
-      "word": "3种肠息肉易癌变",
-      "onboard_time": 1706130794,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 12843,

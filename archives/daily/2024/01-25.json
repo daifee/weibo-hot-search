@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706132046014,
+  "endTime": 1706134644773,
   "band_list": [
     {
       "raw_hot": 1248136,
@@ -395,6 +395,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67747,
+      "num": 67747,
+      "word": "暴雪中100多警力出动找的孩子被交警捡到",
+      "onboard_time": 1706123536,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 64690,
+      "num": 64690,
+      "word": "女销售1人贡献保时捷中国0.2%销量",
+      "onboard_time": 1706121617,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60993,
       "num": 71564,
       "word": "国家卫健委向江西派出国家级医疗专家",
@@ -425,14 +441,6 @@
       "onboard_time": 1706114185,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46161,
-      "num": 46161,
-      "word": "女销售1人贡献保时捷中国0.2%销量",
-      "onboard_time": 1706121617,
-      "rank": 22,
-      "category": "汽车"
     },
     {
       "raw_hot": 43516,
@@ -467,14 +475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 25403,
-      "num": 25403,
-      "word": "暴雪中100多警力出动找的孩子被交警捡到",
-      "onboard_time": 1706123536,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 24808,
       "num": 964532,
       "word": "舰载直升机氛围感大片",
@@ -491,8 +491,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21305,
-      "num": 21305,
+      "raw_hot": 21992,
+      "num": 21992,
+      "word": "江西新余火灾亲历者讲述逃生经历",
+      "onboard_time": 1706128455,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21866,
+      "num": 21866,
       "word": "江西起火店铺地下室此前装修",
       "onboard_time": 1706124618,
       "rank": 48,
@@ -507,20 +515,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15748,
-      "num": 15748,
-      "word": "江西新余火灾亲历者讲述逃生经历",
-      "onboard_time": 1706128455,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 18244,
+      "num": 18244,
+      "word": "还好蒋翼长嘴了",
+      "onboard_time": 1706133074,
+      "rank": 37,
+      "category": "剧集"
     },
     {
-      "raw_hot": 12920,
-      "num": 12920,
+      "raw_hot": 14457,
+      "num": 14457,
       "word": "3种肠息肉易癌变",
       "onboard_time": 1706130794,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 14365,
+      "num": 14365,
+      "word": "上海火锅店帅哥图鉴",
+      "onboard_time": 1706131816,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 7845,
