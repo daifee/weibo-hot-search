@@ -1,0 +1,410 @@
+{
+  "runTime": 1706060394261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 721562,
+        "num": 721562,
+        "word": "湖南暴雪已致1万多人受灾",
+        "onboard_time": 1706020412,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599997,
+        "num": 599997,
+        "word": "宁拆一座庙必毁这桩婚",
+        "onboard_time": 1706022995,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17488,
+        "num": 547996,
+        "word": "天舟七号运送的太空快递已被签收",
+        "onboard_time": 1705996169,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191741,
+        "num": 542834,
+        "word": "张黎 举报前已做好最坏打算",
+        "onboard_time": 1706052745,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530969,
+        "num": 530969,
+        "word": "12306抢票",
+        "onboard_time": 1706058211,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445252,
+        "num": 445252,
+        "word": "菲律宾总统称台湾是中国的一个省",
+        "onboard_time": 1706052383,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 440690,
+        "num": 440690,
+        "word": "211硕士回应入职不到半年被裁",
+        "onboard_time": 1706025271,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440031,
+        "num": 440031,
+        "word": "华中农大黄飞若曾叫嚣有专业律师团",
+        "onboard_time": 1706057431,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423884,
+        "num": 423884,
+        "word": "法国9岁男孩被遗弃后独自生活2年",
+        "onboard_time": 1706053707,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375116,
+        "num": 375116,
+        "word": "新疆余震1104次",
+        "onboard_time": 1706057912,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920923,
+        "num": 372264,
+        "word": "李胜利说要把权志龙带来柬埔寨",
+        "onboard_time": 1706055812,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634308,
+        "num": 369356,
+        "word": "爸爸把我买的车厘子送人了",
+        "onboard_time": 1706055089,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377781,
+        "num": 367094,
+        "word": "TT违反禁毒条例被禁赛25场",
+        "onboard_time": 1706057373,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 362389,
+        "num": 362389,
+        "word": "情侣酒店走光索要10倍赔偿",
+        "onboard_time": 1706013691,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319425,
+        "num": 319425,
+        "word": "6寸蛋糕用5斤车厘子店家道歉",
+        "onboard_time": 1706004511,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 311997,
+        "num": 311997,
+        "word": "成都好大的雪",
+        "onboard_time": 1706020232,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281846,
+        "num": 281846,
+        "word": "C罗向中国球迷道歉",
+        "onboard_time": 1706016272,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253531,
+        "num": 253531,
+        "word": "孙坚办陕西流水席",
+        "onboard_time": 1706058027,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238147,
+        "num": 238147,
+        "word": "一脚淘汰30亿人",
+        "onboard_time": 1706019454,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237267,
+        "num": 237267,
+        "word": "请和我的老公结婚",
+        "onboard_time": 1706052927,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419785,
+        "num": 231027,
+        "word": "王健林的年会停了",
+        "onboard_time": 1706055689,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249119,
+        "num": 227941,
+        "word": "朋友之间最大方的那个就是最穷的",
+        "onboard_time": 1706055149,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223997,
+        "num": 223997,
+        "word": "211高材生回村创业成村宠",
+        "onboard_time": 1706058990,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206668,
+        "num": 206668,
+        "word": "丁也 癫公",
+        "onboard_time": 1706059169,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206332,
+        "num": 206332,
+        "word": "重庆下雪",
+        "onboard_time": 1706053406,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193234,
+        "num": 193234,
+        "word": "孙千这是素颜吗",
+        "onboard_time": 1706019213,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180867,
+        "num": 180867,
+        "word": "中国香港0比3巴勒斯坦",
+        "onboard_time": 1706058513,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178366,
+        "num": 178366,
+        "word": "赛琳娜回应身材变化争议",
+        "onboard_time": 1706020596,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171044,
+        "num": 171044,
+        "word": "TFBOYS坐房顶干嘛",
+        "onboard_time": 1706026528,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167361,
+        "num": 167361,
+        "word": "阿里巴巴大涨超7%",
+        "onboard_time": 1706059228,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165940,
+        "num": 165940,
+        "word": "摄影师拍到布氏鲸90度垂直捕食",
+        "onboard_time": 1706058330,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164657,
+        "num": 164657,
+        "word": "美国男篮巴黎奥运会候选名单",
+        "onboard_time": 1706058689,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164055,
+        "num": 164055,
+        "word": "第一次带孩子吃蜜雪冰城",
+        "onboard_time": 1706055812,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160165,
+        "num": 160165,
+        "word": "售楼处回应保安被指穿衣少瑟瑟发抖",
+        "onboard_time": 1706042894,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158685,
+        "num": 158685,
+        "word": "高亚麟夸易烊千玺",
+        "onboard_time": 1706058271,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154766,
+        "num": 154766,
+        "word": "李湘宣布退休后又复工",
+        "onboard_time": 1706009851,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153436,
+        "num": 153436,
+        "word": "这么睡有奇效",
+        "onboard_time": 1706052143,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150934,
+        "num": 150934,
+        "word": "IU新歌",
+        "onboard_time": 1706021975,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149811,
+        "num": 149811,
+        "word": "男子骑车摔倒女子陪伴救助",
+        "onboard_time": 1706059352,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 136742,
+        "num": 136742,
+        "word": "国足遭淘汰后启程回国",
+        "onboard_time": 1706060009,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136640,
+        "num": 136640,
+        "word": "2014年已经是10年前了",
+        "onboard_time": 1706059410,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135434,
+        "num": 135434,
+        "word": "有了男朋友好像失去了社交能力",
+        "onboard_time": 1706013812,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132194,
+        "num": 132194,
+        "word": "A股已具备熊市末期尾部特征",
+        "onboard_time": 1706021674,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121110,
+        "num": 121110,
+        "word": "阿里巴巴回应马云蔡崇信大幅增持",
+        "onboard_time": 1706051421,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120168,
+        "num": 120168,
+        "word": "怎么喂出一辆猫",
+        "onboard_time": 1706055510,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115998,
+        "num": 115998,
+        "word": "暴雪等极端天气安全指南",
+        "onboard_time": 1706060310,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114143,
+        "num": 114143,
+        "word": "为什么彩条牙膏的颜色不会混合",
+        "onboard_time": 1706053285,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 111755,
+        "num": 111755,
+        "word": "暴雪游戏国服停服一周年",
+        "onboard_time": 1706057729,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105318,
+        "num": 105318,
+        "word": "辛芷蕾穿了顶级高定",
+        "onboard_time": 1706010692,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 102686,
+        "num": 102686,
+        "word": "有这4个特质的人不易得癌",
+        "onboard_time": 1706022811,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实稳健推进中国式现代化建设#"
+    }
+  }
+}
