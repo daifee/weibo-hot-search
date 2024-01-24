@@ -1,0 +1,410 @@
+{
+  "runTime": 1706092645095,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2124064,
+        "num": 2124064,
+        "word": "麦当劳崩了",
+        "onboard_time": 1706088510,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1041011,
+        "num": 1694166,
+        "word": "7年长跑情侣互换龙年礼后决定结婚",
+        "onboard_time": 1706090130,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35717,
+        "num": 1556772,
+        "word": "4分半回顾改革开放大事记",
+        "onboard_time": 1706084793,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1421872,
+        "num": 1421872,
+        "word": "C罗不满中国行主办方",
+        "onboard_time": 1706091150,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351481,
+        "num": 1309824,
+        "word": "以前的和叶vs现在的和叶",
+        "onboard_time": 1706089831,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1209622,
+        "num": 1209622,
+        "word": "在俄坠毁运输机上63人全部遇难",
+        "onboard_time": 1706089711,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 354828,
+        "num": 1201664,
+        "word": "女子险遭钢筋贯穿因手机得救",
+        "onboard_time": 1706091933,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1198289,
+        "num": 1198289,
+        "word": "黄多多 新电影",
+        "onboard_time": 1706087550,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 700202,
+        "num": 700202,
+        "word": "麦当劳 我等吃不素之霸呢",
+        "onboard_time": 1706090909,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 676192,
+        "num": 676192,
+        "word": "青岛女销售一年卖170台保时捷",
+        "onboard_time": 1706082032,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634367,
+        "num": 634367,
+        "word": "春节前理发 中国人的豪赌",
+        "onboard_time": 1706086769,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 490973,
+        "num": 490973,
+        "word": "第一批网红奶茶悄悄消失",
+        "onboard_time": 1706065050,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472642,
+        "num": 472642,
+        "word": "个人养老金制度将推进全面实施",
+        "onboard_time": 1706087550,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 455925,
+        "num": 455925,
+        "word": "宁艺卓签售态度再惹争议",
+        "onboard_time": 1706092170,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 401875,
+        "num": 401875,
+        "word": "不喜欢的衣服留着上班穿",
+        "onboard_time": 1706087489,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 386576,
+        "num": 386576,
+        "word": "人民文娱评仙剑四祈今朝",
+        "onboard_time": 1706086769,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331307,
+        "num": 331307,
+        "word": "邓家佳收到粉丝做的PPT",
+        "onboard_time": 1706084371,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 330078,
+        "num": 330078,
+        "word": "为什么有些韩国人觉得中国菜难吃",
+        "onboard_time": 1706085809,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324332,
+        "num": 324332,
+        "word": "胡先煦认证赵昭仪最佳导游",
+        "onboard_time": 1706086589,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286520,
+        "num": 286520,
+        "word": "IU新歌空降成绩",
+        "onboard_time": 1706089051,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 701506,
+        "num": 284804,
+        "word": "情侣住店赤身裸体房门突然被打开",
+        "onboard_time": 1706089831,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282565,
+        "num": 282565,
+        "word": "央行降准0.5个百分点",
+        "onboard_time": 1706083530,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 281603,
+        "num": 281603,
+        "word": "李现为杨紫挡太阳",
+        "onboard_time": 1706090671,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273668,
+        "num": 273668,
+        "word": "云南山体滑坡34人遇难",
+        "onboard_time": 1706088631,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269837,
+        "num": 269837,
+        "word": "男子无自杀勇气砸死路人求死刑",
+        "onboard_time": 1706091871,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265403,
+        "num": 265403,
+        "word": "网红巨人小莫去世家人拒领骨灰",
+        "onboard_time": 1706079510,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228864,
+        "num": 228864,
+        "word": "狗狗把断爪叼回家主人泪崩",
+        "onboard_time": 1706089650,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191181,
+        "num": 191181,
+        "word": "SKII曾称日本最大湖泊是产品唯一水质来源",
+        "onboard_time": 1706082330,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 84256,
+        "num": 175965,
+        "word": "新年沉浸式大扫除",
+        "onboard_time": 1706092111,
+        "rank": 28,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 173172,
+        "num": 173172,
+        "word": "俄官员称坠毁伊尔76被导弹击落",
+        "onboard_time": 1706091933,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 155834,
+        "num": 155834,
+        "word": "招呼亲戚来吃饭17口人全被埋",
+        "onboard_time": 1706089532,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151909,
+        "num": 151909,
+        "word": "2000元整捆纸币取出20万即视感",
+        "onboard_time": 1706087189,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151071,
+        "num": 151071,
+        "word": "和叶 弟弟变妹妹",
+        "onboard_time": 1706063308,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146586,
+        "num": 146586,
+        "word": "郑钦文一发成功率",
+        "onboard_time": 1706092529,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141521,
+        "num": 141521,
+        "word": "郑钦文vs卡林斯卡娅",
+        "onboard_time": 1706081613,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138374,
+        "num": 138374,
+        "word": "韩媒嫉妒C罗在中国道歉",
+        "onboard_time": 1706076927,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135380,
+        "num": 135380,
+        "word": "中国足协即将重启换帅程序",
+        "onboard_time": 1706091690,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126828,
+        "num": 126828,
+        "word": "坏消息工资要年后发",
+        "onboard_time": 1706070691,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126664,
+        "num": 126664,
+        "word": "黑执事鬼灭之刃 4月回归",
+        "onboard_time": 1706092352,
+        "rank": 38,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 124795,
+        "num": 124795,
+        "word": "专家评年轻人羡慕蓝领收入高",
+        "onboard_time": 1706090790,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121675,
+        "num": 121675,
+        "word": "迪丽热巴给花少团买礼物",
+        "onboard_time": 1706080470,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121198,
+        "num": 121198,
+        "word": "IU先行曲LovewinsAll",
+        "onboard_time": 1706088988,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116226,
+        "num": 116226,
+        "word": "勇敢狗狗勇闯山东",
+        "onboard_time": 1706092229,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116195,
+        "num": 116195,
+        "word": "赵今麦妆造全靠脸了",
+        "onboard_time": 1706068951,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112676,
+        "num": 112676,
+        "word": "吃海鲜被章鱼喷墨",
+        "onboard_time": 1706087729,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107785,
+        "num": 107785,
+        "word": "蔡磊称为几年后千千万万个蔡磊而努力",
+        "onboard_time": 1706090550,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104910,
+        "num": 104910,
+        "word": "麦当劳客服回应无法点餐",
+        "onboard_time": 1706092471,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102603,
+        "num": 102603,
+        "word": "张馨予打卡黑龙江小狐狸的家",
+        "onboard_time": 1706085991,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100704,
+        "num": 100704,
+        "word": "赵昭仪长文感谢花少团",
+        "onboard_time": 1706085150,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97184,
+        "num": 97184,
+        "word": "钟楚曦怕自己太瘦观众不喜欢",
+        "onboard_time": 1706076150,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实稳健推进中国式现代化建设#"
+    }
+  }
+}
