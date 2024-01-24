@@ -1,0 +1,410 @@
+{
+  "runTime": 1706099683915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4296867,
+        "num": 5093734,
+        "word": "江西新余火灾39人遇难",
+        "onboard_time": 1706098652,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882685,
+        "num": 882685,
+        "word": "王鹤棣 小肚子",
+        "onboard_time": 1706098711,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27964,
+        "num": 849920,
+        "word": "动车组集结如陆地航母蓄势待发",
+        "onboard_time": 1706084190,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1666157,
+        "num": 849451,
+        "word": "张檬备孕失败",
+        "onboard_time": 1706095589,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1357357,
+        "num": 849380,
+        "word": "两小学教师强奸9名女生1人获死刑",
+        "onboard_time": 1706092771,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848676,
+        "num": 848676,
+        "word": "C罗不满中国行主办方",
+        "onboard_time": 1706091150,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695277,
+        "num": 695277,
+        "word": "莫小贝都31岁了",
+        "onboard_time": 1706098291,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 642663,
+        "num": 642663,
+        "word": "俄坠毁运输机上74人全部遇难",
+        "onboard_time": 1706095830,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 509445,
+        "num": 509445,
+        "word": "黄多多 新电影",
+        "onboard_time": 1706087550,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 497873,
+        "num": 497873,
+        "word": "男子无自杀勇气砸死路人求死刑",
+        "onboard_time": 1706091871,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434840,
+        "num": 434840,
+        "word": "宁艺卓签售态度再惹争议",
+        "onboard_time": 1706092170,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 369479,
+        "num": 369479,
+        "word": "男主脱衣服受刑的原因",
+        "onboard_time": 1706096908,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334115,
+        "num": 334115,
+        "word": "来报恩的车厘子",
+        "onboard_time": 1706097691,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 302532,
+        "num": 302532,
+        "word": "7年长跑情侣互换龙年礼后决定结婚",
+        "onboard_time": 1706090130,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296322,
+        "num": 296322,
+        "word": "林俊杰福州抢票",
+        "onboard_time": 1706098471,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 288184,
+        "num": 288184,
+        "word": "波司登董事长现场演示踩缝纫机",
+        "onboard_time": 1706095171,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278568,
+        "num": 278568,
+        "word": "男子公然侮辱火灾遇难学生被拘",
+        "onboard_time": 1706097449,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243099,
+        "num": 243099,
+        "word": "麦当劳崩了",
+        "onboard_time": 1706088510,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 220143,
+        "num": 220143,
+        "word": "第一批网红奶茶悄悄消失",
+        "onboard_time": 1706065050,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212013,
+        "num": 212013,
+        "word": "青岛女销售一年卖170台保时捷",
+        "onboard_time": 1706082032,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480641,
+        "num": 208388,
+        "word": "情侣住店赤身裸体房门突然被打开",
+        "onboard_time": 1706089831,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184061,
+        "num": 184061,
+        "word": "花少 姐狗文学",
+        "onboard_time": 1706096791,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183845,
+        "num": 183845,
+        "word": "倪萍祈求上天再给蔡磊50年",
+        "onboard_time": 1706097992,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178057,
+        "num": 178057,
+        "word": "李不言胖了好多",
+        "onboard_time": 1706099013,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177909,
+        "num": 177909,
+        "word": "张雨绮女友报备",
+        "onboard_time": 1706097271,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176352,
+        "num": 176352,
+        "word": "以前的和叶vs现在的和叶",
+        "onboard_time": 1706089831,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166010,
+        "num": 166010,
+        "word": "游本昌回应一夜之间又红了",
+        "onboard_time": 1706099190,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156394,
+        "num": 156394,
+        "word": "李湘复出后开通二手平台账号",
+        "onboard_time": 1706099431,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149422,
+        "num": 149422,
+        "word": "为什么有些韩国人觉得中国菜难吃",
+        "onboard_time": 1706085809,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140283,
+        "num": 140283,
+        "word": "电影院连放12个小时哈利波特",
+        "onboard_time": 1706094811,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214540,
+        "num": 139760,
+        "word": "C罗对直播带货网红蹭流量很生气",
+        "onboard_time": 1706099190,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175071,
+        "num": 139533,
+        "word": "遏制各类安全事故多发连发势头",
+        "onboard_time": 1706099311,
+        "rank": 31,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 138310,
+        "num": 138310,
+        "word": "IU新歌空降成绩",
+        "onboard_time": 1706089051,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137145,
+        "num": 137145,
+        "word": "第34届飞天奖入围名单预测",
+        "onboard_time": 1706097992,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134288,
+        "num": 134288,
+        "word": "李现为杨紫挡太阳",
+        "onboard_time": 1706090671,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126587,
+        "num": 126587,
+        "word": "乌国防部称无法确认俄坠毁运输机被乌击落",
+        "onboard_time": 1706094511,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 123989,
+        "num": 123989,
+        "word": "2次辍学的00后小伙大学逆袭年级第一",
+        "onboard_time": 1706095771,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 123609,
+        "num": 123609,
+        "word": "王安宇秦海璐CP",
+        "onboard_time": 1706096670,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122028,
+        "num": 122028,
+        "word": "麦当劳将再次上架优惠券",
+        "onboard_time": 1706098773,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121989,
+        "num": 121989,
+        "word": "郑钦文首进大满贯四强",
+        "onboard_time": 1706094032,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121282,
+        "num": 121282,
+        "word": "四川九牛搬迁至深圳",
+        "onboard_time": 1706098291,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119098,
+        "num": 119098,
+        "word": "张檬咨询试管婴儿",
+        "onboard_time": 1706097871,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116776,
+        "num": 116776,
+        "word": "春节前理发 中国人的豪赌",
+        "onboard_time": 1706086769,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106436,
+        "num": 106436,
+        "word": "朴志晟栗色头发",
+        "onboard_time": 1706095712,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104142,
+        "num": 104142,
+        "word": "人民文娱评仙剑四祈今朝",
+        "onboard_time": 1706086769,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103092,
+        "num": 103092,
+        "word": "个人养老金制度将推进全面实施",
+        "onboard_time": 1706087550,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102015,
+        "num": 102015,
+        "word": "王者龙耀许愿池",
+        "onboard_time": 1706093971,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101750,
+        "num": 101750,
+        "word": "江西火灾多人从二楼跳下被民警接住",
+        "onboard_time": 1706099610,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97136,
+        "num": 97136,
+        "word": "央行降准0.5个百分点",
+        "onboard_time": 1706083530,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96665,
+        "num": 96665,
+        "word": "麦当劳 我等吃不素之霸呢",
+        "onboard_time": 1706090909,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实稳健推进中国式现代化建设#"
+    }
+  }
+}

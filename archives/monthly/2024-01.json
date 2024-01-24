@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706096046122,
+  "endTime": 1706099683915,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -225,6 +225,14 @@
       "onboard_time": 1705162961,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 4296867,
+      "num": 5093734,
+      "word": "江西新余火灾39人遇难",
+      "onboard_time": 1706098652,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4140986,
@@ -1737,6 +1745,14 @@
       "onboard_time": 1704338491,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1666157,
+      "num": 849451,
+      "word": "张檬备孕失败",
+      "onboard_time": 1706095589,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1664271,
@@ -6427,6 +6443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 882685,
+      "num": 882685,
+      "word": "王鹤棣 小肚子",
+      "onboard_time": 1706098711,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 882435,
       "num": 882435,
       "word": "贝肯鲍尔去世",
@@ -9771,6 +9795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 695277,
+      "num": 695277,
+      "word": "莫小贝都31岁了",
+      "onboard_time": 1706098291,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 693711,
       "num": 693711,
       "word": "哈尔滨提醒宾馆酒店把握机遇",
@@ -10843,14 +10875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 651459,
-      "num": 651459,
-      "word": "张檬备孕失败",
-      "onboard_time": 1706095589,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 651265,
       "num": 651265,
       "word": "网红是书瑶呀否认诽谤事件反转",
@@ -11001,6 +11025,14 @@
       "onboard_time": 1704341735,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 642663,
+      "num": 642663,
+      "word": "俄坠毁运输机上74人全部遇难",
+      "onboard_time": 1706095830,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 642623,
@@ -21219,6 +21251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 369479,
+      "num": 369479,
+      "word": "男主脱衣服受刑的原因",
+      "onboard_time": 1706096908,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369436,
       "num": 325066,
       "word": "李冰冰晒与娜扎周也徐若晗合照",
@@ -22913,6 +22953,14 @@
       "onboard_time": 1705729165,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 334115,
+      "num": 334115,
+      "word": "来报恩的车厘子",
+      "onboard_time": 1706097691,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 333882,
@@ -25275,6 +25323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 296322,
+      "num": 296322,
+      "word": "林俊杰福州抢票",
+      "onboard_time": 1706098471,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 296170,
       "num": 296170,
       "word": "王者海诺新皮肤",
@@ -25936,6 +25992,14 @@
       "word": "哈尔滨大哥凡尔赛炫耀花式订单",
       "onboard_time": 1704435092,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288184,
+      "num": 288184,
+      "word": "波司登董事长现场演示踩缝纫机",
+      "onboard_time": 1706095171,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -26664,6 +26728,14 @@
       "word": "北京新年宝宝叫一博",
       "onboard_time": 1704093032,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278568,
+      "num": 278568,
+      "word": "男子公然侮辱火灾遇难学生被拘",
+      "onboard_time": 1706097449,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -28489,14 +28561,6 @@
       "onboard_time": 1706077229,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258002,
-      "num": 258002,
-      "word": "波司登董事长现场演示踩缝纫机",
-      "onboard_time": 1706095171,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257998,
@@ -33803,14 +33867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214742,
-      "num": 214742,
-      "word": "俄坠毁运输机上74人全部遇难",
-      "onboard_time": 1706095830,
-      "rank": 24,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 214710,
       "num": 214710,
       "word": "他33岁失去左腿35岁站上世界舞台",
@@ -33857,6 +33913,14 @@
       "onboard_time": 1704977851,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214540,
+      "num": 139760,
+      "word": "C罗对直播带货网红蹭流量很生气",
+      "onboard_time": 1706099190,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 214387,
@@ -40635,6 +40699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184061,
+      "num": 184061,
+      "word": "花少 姐狗文学",
+      "onboard_time": 1706096791,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184047,
       "num": 184047,
       "word": "陈粒 我以为选了个新世界其实都一样",
@@ -40689,6 +40761,14 @@
       "onboard_time": 1705712666,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183845,
+      "num": 183845,
+      "word": "倪萍祈求上天再给蔡磊50年",
+      "onboard_time": 1706097992,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 183826,
@@ -42139,6 +42219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178057,
+      "num": 178057,
+      "word": "李不言胖了好多",
+      "onboard_time": 1706099013,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178040,
       "num": 140051,
       "word": "从急诊医生角度说说结婚",
@@ -42169,6 +42257,14 @@
       "onboard_time": 1705812024,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177909,
+      "num": 177909,
+      "word": "张雨绮女友报备",
+      "onboard_time": 1706097271,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 177908,
@@ -42745,6 +42841,14 @@
       "onboard_time": 1705823184,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175071,
+      "num": 139533,
+      "word": "遏制各类安全事故多发连发势头",
+      "onboard_time": 1706099311,
+      "rank": 31,
+      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 175070,
@@ -45041,6 +45145,14 @@
       "onboard_time": 1704697769,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166010,
+      "num": 166010,
+      "word": "游本昌回应一夜之间又红了",
+      "onboard_time": 1706099190,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 166006,
@@ -47361,6 +47473,14 @@
       "onboard_time": 1704008371,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156394,
+      "num": 156394,
+      "word": "李湘复出后开通二手平台账号",
+      "onboard_time": 1706099431,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 156376,
@@ -52547,6 +52667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137145,
+      "num": 137145,
+      "word": "第34届飞天奖入围名单预测",
+      "onboard_time": 1706097992,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137138,
       "num": 137138,
       "word": "Meiko回应Clearlove",
@@ -56091,6 +56219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 123989,
+      "num": 363092,
+      "word": "2次辍学的00后小伙大学逆袭年级第一",
+      "onboard_time": 1706095771,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 123907,
       "num": 123907,
       "word": "前国脚曾拒绝效力国家队",
@@ -56209,6 +56345,14 @@
       "onboard_time": 1705978223,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123609,
+      "num": 123609,
+      "word": "王安宇秦海璐CP",
+      "onboard_time": 1706096670,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 123576,
@@ -56595,6 +56739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122028,
+      "num": 122028,
+      "word": "麦当劳将再次上架优惠券",
+      "onboard_time": 1706098773,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 122021,
       "num": 122021,
       "word": "谢娜 一生要强的妈妈",
@@ -56777,6 +56929,14 @@
       "onboard_time": 1704768809,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121282,
+      "num": 121282,
+      "word": "四川九牛搬迁至深圳",
+      "onboard_time": 1706098291,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 121260,
@@ -57305,6 +57465,14 @@
       "onboard_time": 1704626310,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 119098,
+      "num": 119098,
+      "word": "张檬咨询试管婴儿",
+      "onboard_time": 1706097871,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 119024,
@@ -60401,6 +60569,14 @@
       "onboard_time": 1704897632,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101750,
+      "num": 101750,
+      "word": "江西火灾多人从二楼跳下被民警接住",
+      "onboard_time": 1706099610,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101672,
@@ -65161,14 +65337,6 @@
       "onboard_time": 1704576614,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31756,
-      "num": 363092,
-      "word": "2次辍学的00后小伙大学逆袭年级第一",
-      "onboard_time": 1706095771,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 31679,
