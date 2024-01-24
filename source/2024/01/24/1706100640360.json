@@ -1,0 +1,410 @@
+{
+  "runTime": 1706100640360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6455298,
+        "num": 7705298,
+        "word": "江西新余火灾39人遇难",
+        "onboard_time": 1706098652,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1450872,
+        "num": 1450872,
+        "word": "王鹤棣 小肚子",
+        "onboard_time": 1706098711,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 5297,
+        "num": 759642,
+        "word": "我国高光谱综合观测卫星投入使用",
+        "onboard_time": 1706100514,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1468787,
+        "num": 747145,
+        "word": "张檬备孕失败",
+        "onboard_time": 1706095589,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654189,
+        "num": 654189,
+        "word": "C罗不满中国行主办方",
+        "onboard_time": 1706091150,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598162,
+        "num": 598162,
+        "word": "俄坠毁运输机上74人全部遇难",
+        "onboard_time": 1706095830,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 590269,
+        "num": 590269,
+        "word": "莫小贝都31岁了",
+        "onboard_time": 1706098291,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 480307,
+        "num": 480307,
+        "word": "黄多多 新电影",
+        "onboard_time": 1706087550,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 452943,
+        "num": 452943,
+        "word": "男子无自杀勇气砸死路人求死刑",
+        "onboard_time": 1706091871,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379307,
+        "num": 379307,
+        "word": "宁艺卓签售态度再惹争议",
+        "onboard_time": 1706092170,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 378436,
+        "num": 378436,
+        "word": "男主脱衣服受刑的原因",
+        "onboard_time": 1706096908,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358661,
+        "num": 358661,
+        "word": "C罗对直播带货网红蹭流量很生气",
+        "onboard_time": 1706099190,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343004,
+        "num": 343004,
+        "word": "来报恩的车厘子",
+        "onboard_time": 1706097691,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40329,
+        "num": 329466,
+        "word": "动车组集结如陆地航母蓄势待发",
+        "onboard_time": 1706084190,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319594,
+        "num": 319594,
+        "word": "林俊杰福州抢票",
+        "onboard_time": 1706098471,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286580,
+        "num": 286580,
+        "word": "李湘复出后开通二手平台账号",
+        "onboard_time": 1706099431,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262673,
+        "num": 262673,
+        "word": "李不言胖了好多",
+        "onboard_time": 1706099013,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253964,
+        "num": 253964,
+        "word": "暧昧期容易上头的星座",
+        "onboard_time": 1706099793,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253784,
+        "num": 253784,
+        "word": "7年长跑情侣互换龙年礼后决定结婚",
+        "onboard_time": 1706090130,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253762,
+        "num": 253762,
+        "word": "游本昌回应一夜之间又红了",
+        "onboard_time": 1706099190,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495942,
+        "num": 252238,
+        "word": "情侣住店赤身裸体房门突然被打开",
+        "onboard_time": 1706089831,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250329,
+        "num": 250329,
+        "word": "男子公然侮辱火灾遇难学生被拘",
+        "onboard_time": 1706097449,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233820,
+        "num": 233820,
+        "word": "波司登董事长现场演示踩缝纫机",
+        "onboard_time": 1706095171,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224975,
+        "num": 224975,
+        "word": "江西火灾多人从二楼跳下被民警接住",
+        "onboard_time": 1706099610,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209347,
+        "num": 209347,
+        "word": "麦当劳崩了",
+        "onboard_time": 1706088510,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181693,
+        "num": 181693,
+        "word": "第一批网红奶茶悄悄消失",
+        "onboard_time": 1706065050,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175468,
+        "num": 175468,
+        "word": "青岛女销售一年卖170台保时捷",
+        "onboard_time": 1706082032,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168043,
+        "num": 168043,
+        "word": "麦当劳将再次上架优惠券",
+        "onboard_time": 1706098773,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166146,
+        "num": 166146,
+        "word": "遏制各类安全事故多发连发势头",
+        "onboard_time": 1706099311,
+        "rank": 28,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 1230892,
+        "num": 164262,
+        "word": "两小学教师强奸9名女生1人获死刑",
+        "onboard_time": 1706092771,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173120,
+        "num": 163063,
+        "word": "男子带9月孕妻爬山被亲妈语音轰炸",
+        "onboard_time": 1706100275,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161205,
+        "num": 161205,
+        "word": "花少 姐狗文学",
+        "onboard_time": 1706096791,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144131,
+        "num": 144131,
+        "word": "以前的和叶vs现在的和叶",
+        "onboard_time": 1706089831,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139741,
+        "num": 139741,
+        "word": "玩具螃蟹 当初就该烂在厂里",
+        "onboard_time": 1706099910,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138588,
+        "num": 138588,
+        "word": "为什么有些韩国人觉得中国菜难吃",
+        "onboard_time": 1706085809,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136226,
+        "num": 136226,
+        "word": "李现为杨紫挡太阳",
+        "onboard_time": 1706090671,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133042,
+        "num": 133042,
+        "word": "张雨绮女友报备",
+        "onboard_time": 1706097271,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132040,
+        "num": 132040,
+        "word": "倪萍祈求上天再给蔡磊50年",
+        "onboard_time": 1706097992,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130428,
+        "num": 130428,
+        "word": "宋运辉梁思申 双A智性恋",
+        "onboard_time": 1706100090,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125235,
+        "num": 125235,
+        "word": "第34届飞天奖入围名单预测",
+        "onboard_time": 1706097992,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120564,
+        "num": 120564,
+        "word": "春节前理发 中国人的豪赌",
+        "onboard_time": 1706086769,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119280,
+        "num": 119280,
+        "word": "电影院连放12个小时哈利波特",
+        "onboard_time": 1706094811,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109117,
+        "num": 109117,
+        "word": "IU新歌空降成绩",
+        "onboard_time": 1706089051,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107830,
+        "num": 107830,
+        "word": "2次辍学的00后小伙大学逆袭年级第一",
+        "onboard_time": 1706095771,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 107428,
+        "num": 107428,
+        "word": "王安宇秦海璐CP",
+        "onboard_time": 1706096670,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100237,
+        "num": 100237,
+        "word": "个人养老金制度将推进全面实施",
+        "onboard_time": 1706087550,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97590,
+        "num": 97590,
+        "word": "朴志晟栗色头发",
+        "onboard_time": 1706095712,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97569,
+        "num": 97569,
+        "word": "郑钦文首进大满贯四强",
+        "onboard_time": 1706094032,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96267,
+        "num": 96267,
+        "word": "张檬咨询试管婴儿",
+        "onboard_time": 1706097871,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93746,
+        "num": 93746,
+        "word": "四川九牛搬迁至深圳",
+        "onboard_time": 1706098291,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养更多适应高质量发展高水平自立自强的各类人才#"
+    }
+  }
+}
