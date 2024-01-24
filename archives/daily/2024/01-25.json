@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706134644773,
+  "endTime": 1706135724344,
   "band_list": [
     {
       "raw_hot": 1248136,
@@ -179,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154681,
+      "num": 154681,
+      "word": "C罗对直播带货网红蹭流量很生气",
+      "onboard_time": 1706099190,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140348,
       "num": 140348,
       "word": "知情人称江西火灾楼栋二楼没消防通道",
@@ -193,14 +201,6 @@
       "onboard_time": 1706109212,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129384,
-      "num": 129384,
-      "word": "C罗对直播带货网红蹭流量很生气",
-      "onboard_time": 1706099190,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 128926,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94974,
+      "num": 94974,
+      "word": "暴雪中100多警力出动找的孩子被交警捡到",
+      "onboard_time": 1706123536,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 93784,
       "num": 93784,
       "word": "巴宝莉门店回应热水袋不能装沸水",
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82785,
+      "num": 82785,
+      "word": "女销售1人贡献保时捷中国0.2%销量",
+      "onboard_time": 1706121617,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 81081,
       "num": 81081,
       "word": "辛巴带货为何屡屡惹争议",
@@ -393,22 +409,6 @@
       "onboard_time": 1706109573,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 67747,
-      "num": 67747,
-      "word": "暴雪中100多警力出动找的孩子被交警捡到",
-      "onboard_time": 1706123536,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 64690,
-      "num": 64690,
-      "word": "女销售1人贡献保时捷中国0.2%销量",
-      "onboard_time": 1706121617,
-      "rank": 22,
-      "category": "汽车"
     },
     {
       "raw_hot": 60993,
@@ -475,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27383,
+      "num": 27383,
+      "word": "江西起火店铺地下室此前装修",
+      "onboard_time": 1706124618,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24808,
       "num": 964532,
       "word": "舰载直升机氛围感大片",
@@ -491,19 +499,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21992,
-      "num": 21992,
+      "raw_hot": 23767,
+      "num": 23767,
+      "word": "还好蒋翼长嘴了",
+      "onboard_time": 1706133074,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23118,
+      "num": 23118,
       "word": "江西新余火灾亲历者讲述逃生经历",
       "onboard_time": 1706128455,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21866,
-      "num": 21866,
-      "word": "江西起火店铺地下室此前装修",
-      "onboard_time": 1706124618,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -515,28 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18244,
-      "num": 18244,
-      "word": "还好蒋翼长嘴了",
-      "onboard_time": 1706133074,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 14457,
-      "num": 14457,
-      "word": "3种肠息肉易癌变",
-      "onboard_time": 1706130794,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 14365,
-      "num": 14365,
+      "raw_hot": 17457,
+      "num": 17457,
       "word": "上海火锅店帅哥图鉴",
       "onboard_time": 1706131816,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15074,
+      "num": 16505,
+      "word": "3种肠息肉易癌变",
+      "onboard_time": 1706130794,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 7845,
