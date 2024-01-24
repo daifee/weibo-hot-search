@@ -1,0 +1,410 @@
+{
+  "runTime": 1706078247623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1492317,
+        "num": 1492317,
+        "word": "第一批网红奶茶悄悄消失",
+        "onboard_time": 1706065050,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089575,
+        "num": 1089575,
+        "word": "和叶 弟弟变妹妹",
+        "onboard_time": 1706063308,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41150,
+        "num": 961161,
+        "word": "中国空间站核心舱入轨1000天",
+        "onboard_time": 1706068830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948157,
+        "num": 948157,
+        "word": "韩媒嫉妒C罗在中国道歉",
+        "onboard_time": 1706076927,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 831447,
+        "num": 831447,
+        "word": "赵昭仪手绘了23天的回忆",
+        "onboard_time": 1706075550,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 709950,
+        "num": 709950,
+        "word": "SKII大中华区销量受日本排污影响暴跌",
+        "onboard_time": 1706070871,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 654753,
+        "num": 654753,
+        "word": "花少",
+        "onboard_time": 1706074950,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 636024,
+        "num": 636024,
+        "word": "赵今麦妆造全靠脸了",
+        "onboard_time": 1706068951,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439799,
+        "num": 439799,
+        "word": "李念三胎产后复工状态",
+        "onboard_time": 1706073271,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412009,
+        "num": 412009,
+        "word": "董明珠称身上毛衣不到200块",
+        "onboard_time": 1706076927,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 457267,
+        "num": 405921,
+        "word": "坏消息工资要年后发",
+        "onboard_time": 1706070691,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 427936,
+        "num": 405629,
+        "word": "英国的性教育",
+        "onboard_time": 1706061450,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 392325,
+        "num": 392325,
+        "word": "花花知道自己的弟弟变妹妹了吗",
+        "onboard_time": 1706070633,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391650,
+        "num": 391650,
+        "word": "中国资产暴涨",
+        "onboard_time": 1706061211,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 380350,
+        "num": 380350,
+        "word": "钟楚曦怕自己太瘦观众不喜欢",
+        "onboard_time": 1706076150,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322542,
+        "num": 322542,
+        "word": "李敏镐金智秀围读剧本",
+        "onboard_time": 1706075969,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274842,
+        "num": 274842,
+        "word": "詹青云 在爱里成为完整的我",
+        "onboard_time": 1706070691,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249925,
+        "num": 249925,
+        "word": "秀智 我有时候会孤立我自己",
+        "onboard_time": 1706076689,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239164,
+        "num": 239164,
+        "word": "电影花千骨导演道歉",
+        "onboard_time": 1706061509,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232138,
+        "num": 232138,
+        "word": "吴磊赵今麦脸颊吻",
+        "onboard_time": 1706077229,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386962,
+        "num": 230070,
+        "word": "女子称在银行取5000元现金被刁难",
+        "onboard_time": 1706072671,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215435,
+        "num": 215435,
+        "word": "A股国家队最新出手",
+        "onboard_time": 1706066611,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213953,
+        "num": 213953,
+        "word": "多方回应小伙晕倒做手术后去世",
+        "onboard_time": 1706076868,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211433,
+        "num": 211433,
+        "word": "春节未成年只能玩9小时游戏",
+        "onboard_time": 1706066611,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210493,
+        "num": 210493,
+        "word": "花千骨票房",
+        "onboard_time": 1706064088,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203510,
+        "num": 203510,
+        "word": "李宏毅回应新戏",
+        "onboard_time": 1706077767,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197893,
+        "num": 197893,
+        "word": "Jennie公主切双马尾",
+        "onboard_time": 1706069913,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187260,
+        "num": 187260,
+        "word": "晚睡晚起睡够时长算熬夜吗",
+        "onboard_time": 1706060610,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179369,
+        "num": 179369,
+        "word": "上班后人的性格真的会变",
+        "onboard_time": 1706077112,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176841,
+        "num": 176841,
+        "word": "爸爸把我买的车厘子送人了",
+        "onboard_time": 1706055089,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172994,
+        "num": 172994,
+        "word": "瑙鲁承诺不再同台湾发生任何官方关系",
+        "onboard_time": 1706074770,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171836,
+        "num": 171836,
+        "word": "IU金泰亨MV婚纱照",
+        "onboard_time": 1706062110,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151434,
+        "num": 151434,
+        "word": "杭州四季青清仓羽绒服100多随便挑",
+        "onboard_time": 1706072671,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 147863,
+        "num": 147863,
+        "word": "中国瑙鲁复交",
+        "onboard_time": 1706070091,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147708,
+        "num": 147708,
+        "word": "朴灿烈右腿受伤",
+        "onboard_time": 1706077286,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128853,
+        "num": 128853,
+        "word": "肖战工作室新增营业性演出许可",
+        "onboard_time": 1706067450,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128851,
+        "num": 128851,
+        "word": "D社被警方扣押搜查",
+        "onboard_time": 1706075310,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125626,
+        "num": 125626,
+        "word": "王鹤棣火焰粉发",
+        "onboard_time": 1706068652,
+        "rank": 37,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 125360,
+        "num": 125360,
+        "word": "电影花千骨制片人发文",
+        "onboard_time": 1706076388,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125206,
+        "num": 125206,
+        "word": "为什么很多人喜欢吃路边摊",
+        "onboard_time": 1706072492,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112977,
+        "num": 112977,
+        "word": "小狗这一生如履薄冰",
+        "onboard_time": 1706073989,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105800,
+        "num": 105800,
+        "word": "李兰迪 归国白月光",
+        "onboard_time": 1706064329,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97019,
+        "num": 97019,
+        "word": "快船战胜湖人",
+        "onboard_time": 1706074950,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95180,
+        "num": 95180,
+        "word": "仙剑二外传选角",
+        "onboard_time": 1706069135,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90960,
+        "num": 90960,
+        "word": "中国瑙鲁联合公报全文",
+        "onboard_time": 1706076453,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89079,
+        "num": 89079,
+        "word": "哪本完结小说全网无代餐",
+        "onboard_time": 1706070276,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 85992,
+        "num": 85992,
+        "word": "武汉eStar转会公告",
+        "onboard_time": 1706074469,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82331,
+        "num": 82331,
+        "word": "保持规律的睡眠就不算熬夜",
+        "onboard_time": 1706072193,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81432,
+        "num": 81432,
+        "word": "蔡依林佛山抢票",
+        "onboard_time": 1706075187,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81423,
+        "num": 81423,
+        "word": "和叶花花原来是姐妹",
+        "onboard_time": 1706064329,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养更多适应高质量发展高水平自立自强的各类人才#"
+    }
+  }
+}

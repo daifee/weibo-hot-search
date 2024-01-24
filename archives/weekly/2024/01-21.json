@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706077447900,
+  "endTime": 1706078247623,
   "band_list": [
     {
       "raw_hot": 3927509,
@@ -241,6 +241,14 @@
       "onboard_time": 1706061211,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1492317,
+      "num": 1492317,
+      "word": "第一批网红奶茶悄悄消失",
+      "onboard_time": 1706065050,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1453093,
@@ -507,14 +515,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1064956,
-      "num": 1064956,
-      "word": "第一批网红奶茶悄悄消失",
-      "onboard_time": 1706065050,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1058359,
       "num": 1058359,
       "word": "火车司机抑郁障碍阳性率达到50%",
@@ -681,6 +681,14 @@
       "onboard_time": 1706070871,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 948157,
+      "num": 948157,
+      "word": "韩媒嫉妒C罗在中国道歉",
+      "onboard_time": 1706076927,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 947740,
@@ -851,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 831447,
+      "num": 831447,
+      "word": "赵昭仪手绘了23天的回忆",
+      "onboard_time": 1706075550,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 830887,
       "num": 830887,
       "word": "迪丽热巴喀什",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1705988607,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 763942,
-      "num": 763942,
-      "word": "赵昭仪手绘了23天的回忆",
-      "onboard_time": 1706075550,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 758143,
@@ -1561,14 +1569,6 @@
       "onboard_time": 1705972710,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 585845,
-      "num": 585845,
-      "word": "韩媒嫉妒C罗在中国道歉",
-      "onboard_time": 1706076927,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 584794,
@@ -2531,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412009,
+      "num": 412009,
+      "word": "董明珠称身上毛衣不到200块",
+      "onboard_time": 1706076927,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 411341,
       "num": 411341,
       "word": "人们为什么不往个人养老金账户里存钱",
@@ -2747,6 +2755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 386962,
+      "num": 253379,
+      "word": "女子称在银行取5000元现金被刁难",
+      "onboard_time": 1706072671,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385877,
       "num": 385877,
       "word": "英雄联盟开发商裁员11%",
@@ -2803,12 +2819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380438,
-      "num": 253379,
-      "word": "女子称在银行取5000元现金被刁难",
-      "onboard_time": 1706072671,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 380350,
+      "num": 380350,
+      "word": "钟楚曦怕自己太瘦观众不喜欢",
+      "onboard_time": 1706076150,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 380200,
@@ -3473,14 +3489,6 @@
       "onboard_time": 1705808666,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307151,
-      "num": 307151,
-      "word": "钟楚曦怕自己太瘦观众不喜欢",
-      "onboard_time": 1706076150,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 307130,
@@ -4243,6 +4251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249925,
+      "num": 249925,
+      "word": "秀智 我有时候会孤立我自己",
+      "onboard_time": 1706076689,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249290,
       "num": 249290,
       "word": "两句话妈妈从我2岁问到20岁",
@@ -4555,6 +4571,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 232138,
+      "num": 232138,
+      "word": "吴磊赵今麦脸颊吻",
+      "onboard_time": 1706077229,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231284,
       "num": 231284,
       "word": "黑龙江多地文旅连夜上大分",
@@ -4795,14 +4819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 219006,
-      "num": 219006,
-      "word": "秀智 我有时候会孤立我自己",
-      "onboard_time": 1706076689,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218382,
       "num": 218382,
       "word": "史铁生的一生是震撼我的",
@@ -4913,6 +4929,14 @@
       "onboard_time": 1705851028,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213953,
+      "num": 213953,
+      "word": "多方回应小伙晕倒做手术后去世",
+      "onboard_time": 1706076868,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213819,
@@ -5281,6 +5305,14 @@
       "onboard_time": 1705977564,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203510,
+      "num": 203510,
+      "word": "李宏毅回应新戏",
+      "onboard_time": 1706077767,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 203247,
@@ -6187,6 +6219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179369,
+      "num": 179369,
+      "word": "上班后人的性格真的会变",
+      "onboard_time": 1706077112,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179321,
       "num": 179321,
       "word": "让皮肤变超好的10个小知识",
@@ -6257,14 +6297,6 @@
       "onboard_time": 1705992987,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176797,
-      "num": 176797,
-      "word": "董明珠称身上毛衣不到200块",
-      "onboard_time": 1706076927,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 176113,
@@ -7299,14 +7331,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 151704,
-      "num": 151704,
-      "word": "上班后人的性格真的会变",
-      "onboard_time": 1706077112,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 151605,
       "num": 136704,
       "word": "要是没这伴郎这婚都结不成",
@@ -7465,6 +7489,14 @@
       "onboard_time": 1705886966,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147708,
+      "num": 147708,
+      "word": "朴灿烈右腿受伤",
+      "onboard_time": 1706077286,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 147559,
@@ -7761,14 +7793,6 @@
       "onboard_time": 1705911147,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142256,
-      "num": 142256,
-      "word": "吴磊赵今麦脸颊吻",
-      "onboard_time": 1706077229,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 142201,
@@ -8595,14 +8619,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 126037,
-      "num": 126037,
-      "word": "多方回应小伙晕倒做手术后去世",
-      "onboard_time": 1706076868,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125953,
       "num": 125953,
       "word": "国脚说国足没输球没掉队",
@@ -8633,6 +8649,14 @@
       "onboard_time": 1705998390,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125360,
+      "num": 125360,
+      "word": "电影花千骨制片人发文",
+      "onboard_time": 1706076388,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 124996,
@@ -8681,14 +8705,6 @@
       "onboard_time": 1706055449,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123184,
-      "num": 123184,
-      "word": "电影花千骨制片人发文",
-      "onboard_time": 1706076388,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 122916,
@@ -8873,14 +8889,6 @@
       "onboard_time": 1706002409,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 118354,
-      "num": 118354,
-      "word": "朴灿烈右腿受伤",
-      "onboard_time": 1706077286,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 118199,
