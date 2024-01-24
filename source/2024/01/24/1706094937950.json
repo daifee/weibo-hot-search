@@ -1,0 +1,410 @@
+{
+  "runTime": 1706094937950,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1433764,
+        "num": 1433764,
+        "word": "C罗不满中国行主办方",
+        "onboard_time": 1706091150,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 905006,
+        "num": 1429779,
+        "word": "7年长跑情侣互换龙年礼后决定结婚",
+        "onboard_time": 1706090130,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34375,
+        "num": 1419719,
+        "word": "4分半回顾改革开放大事记",
+        "onboard_time": 1706084793,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2032431,
+        "num": 1407240,
+        "word": "两小学教师强奸9名女生1人获死刑",
+        "onboard_time": 1706092771,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398486,
+        "num": 1386868,
+        "word": "女子险遭钢筋贯穿因手机得救",
+        "onboard_time": 1706091933,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1384162,
+        "num": 1384162,
+        "word": "麦当劳崩了",
+        "onboard_time": 1706088510,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 356180,
+        "num": 1068665,
+        "word": "以前的和叶vs现在的和叶",
+        "onboard_time": 1706089831,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048130,
+        "num": 1048130,
+        "word": "男子无自杀勇气砸死路人求死刑",
+        "onboard_time": 1706091871,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848730,
+        "num": 848730,
+        "word": "宁艺卓签售态度再惹争议",
+        "onboard_time": 1706092170,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 848530,
+        "num": 848530,
+        "word": "黄多多 新电影",
+        "onboard_time": 1706087550,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 665235,
+        "num": 665235,
+        "word": "郑钦文首进大满贯四强",
+        "onboard_time": 1706094032,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553258,
+        "num": 553258,
+        "word": "江西新余一楼房发生火灾已致7人死亡",
+        "onboard_time": 1706092891,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479305,
+        "num": 479305,
+        "word": "麦当劳 我等吃不素之霸呢",
+        "onboard_time": 1706090909,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 457847,
+        "num": 457847,
+        "word": "在俄坠毁运输机上人员疑全部遇难",
+        "onboard_time": 1706089711,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 441407,
+        "num": 441407,
+        "word": "青岛女销售一年卖170台保时捷",
+        "onboard_time": 1706082032,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405841,
+        "num": 405841,
+        "word": "第一批网红奶茶悄悄消失",
+        "onboard_time": 1706065050,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314706,
+        "num": 314706,
+        "word": "邓家佳收到粉丝做的PPT",
+        "onboard_time": 1706084371,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 7120,
+        "num": 271339,
+        "word": "新年沉浸式大扫除",
+        "onboard_time": 1706092111,
+        "rank": 17,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 261554,
+        "num": 261554,
+        "word": "郑钦文vs卡林斯卡娅",
+        "onboard_time": 1706081613,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257195,
+        "num": 257195,
+        "word": "春节前理发 中国人的豪赌",
+        "onboard_time": 1706086769,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 686321,
+        "num": 256437,
+        "word": "情侣住店赤身裸体房门突然被打开",
+        "onboard_time": 1706089831,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254550,
+        "num": 254550,
+        "word": "人民文娱评仙剑四祈今朝",
+        "onboard_time": 1706086769,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241471,
+        "num": 241471,
+        "word": "个人养老金制度将推进全面实施",
+        "onboard_time": 1706087550,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 239558,
+        "num": 239558,
+        "word": "李现为杨紫挡太阳",
+        "onboard_time": 1706090671,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231607,
+        "num": 231607,
+        "word": "澳网四强",
+        "onboard_time": 1706093611,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228375,
+        "num": 228375,
+        "word": "IU新歌空降成绩",
+        "onboard_time": 1706089051,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227822,
+        "num": 227822,
+        "word": "狗狗把断爪叼回家主人泪崩",
+        "onboard_time": 1706089650,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216315,
+        "num": 216315,
+        "word": "不喜欢的衣服留着上班穿",
+        "onboard_time": 1706087489,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194006,
+        "num": 194006,
+        "word": "王者龙耀许愿池",
+        "onboard_time": 1706093971,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189836,
+        "num": 189836,
+        "word": "为什么有些韩国人觉得中国菜难吃",
+        "onboard_time": 1706085809,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182865,
+        "num": 182865,
+        "word": "主办方曾要求C罗带伤上场",
+        "onboard_time": 1706094452,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170178,
+        "num": 170178,
+        "word": "载65名被俘乌克兰军人的运输机坠毁",
+        "onboard_time": 1706093490,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 166225,
+        "num": 166225,
+        "word": "央行降准0.5个百分点",
+        "onboard_time": 1706083530,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245365,
+        "num": 165005,
+        "word": "郑钦文决胜盘",
+        "onboard_time": 1706093490,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148667,
+        "num": 148667,
+        "word": "黑执事鬼灭之刃 4月回归",
+        "onboard_time": 1706092352,
+        "rank": 34,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 148638,
+        "num": 148638,
+        "word": "俄官员称坠毁伊尔76被导弹击落",
+        "onboard_time": 1706091933,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147705,
+        "num": 147705,
+        "word": "网红巨人小莫去世家人拒领骨灰",
+        "onboard_time": 1706079510,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132846,
+        "num": 132846,
+        "word": "胡先煦认证赵昭仪最佳导游",
+        "onboard_time": 1706086589,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130249,
+        "num": 130249,
+        "word": "SKII曾称日本最大湖泊是产品唯一水质来源",
+        "onboard_time": 1706082330,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 123762,
+        "num": 123762,
+        "word": "和叶 弟弟变妹妹",
+        "onboard_time": 1706063308,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120416,
+        "num": 120416,
+        "word": "乌国防部称无法确认俄坠毁运输机被乌击落",
+        "onboard_time": 1706094511,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 119808,
+        "num": 119808,
+        "word": "麦当劳客服回应无法点餐",
+        "onboard_time": 1706092471,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119136,
+        "num": 119136,
+        "word": "克宫回应一运输机坠毁",
+        "onboard_time": 1706094628,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 109376,
+        "num": 109376,
+        "word": "迪丽热巴给花少团买礼物",
+        "onboard_time": 1706080470,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108076,
+        "num": 108076,
+        "word": "中国足协即将重启换帅程序",
+        "onboard_time": 1706091690,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108052,
+        "num": 108052,
+        "word": "电影院连放12个小时哈利波特",
+        "onboard_time": 1706094811,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107068,
+        "num": 107068,
+        "word": "2000元整捆纸币取出20万即视感",
+        "onboard_time": 1706087189,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103907,
+        "num": 103907,
+        "word": "澳网2024",
+        "onboard_time": 1706094932,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97997,
+        "num": 97997,
+        "word": "赵昭仪长文感谢花少团",
+        "onboard_time": 1706085150,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97848,
+        "num": 97848,
+        "word": "澳网",
+        "onboard_time": 1706086647,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#树牢群众观点贯彻群众路线#"
+    }
+  }
+}

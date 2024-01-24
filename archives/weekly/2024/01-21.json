@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706092645095,
+  "endTime": 1706094937950,
   "band_list": [
     {
       "raw_hot": 3927509,
@@ -96,6 +96,14 @@
       "word": "小红书博主引导网友穿越军事重地",
       "onboard_time": 1705891225,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2032431,
+      "num": 1407240,
+      "word": "两小学教师强奸9名女生1人获死刑",
+      "onboard_time": 1706092771,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -283,8 +291,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1421872,
-      "num": 1421872,
+      "raw_hot": 1433764,
+      "num": 1433764,
       "word": "C罗不满中国行主办方",
       "onboard_time": 1706091150,
       "rank": 30,
@@ -611,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1048130,
+      "num": 1048130,
+      "word": "男子无自杀勇气砸死路人求死刑",
+      "onboard_time": 1706091871,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1044847,
       "num": 1044847,
       "word": "孙丞潇说金莎做财产公证就不惦记了",
@@ -921,6 +937,14 @@
       "onboard_time": 1705879339,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 848730,
+      "num": 848730,
+      "word": "宁艺卓签售态度再惹争议",
+      "onboard_time": 1706092170,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 848373,
@@ -1377,6 +1401,14 @@
       "onboard_time": 1705829486,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 665235,
+      "num": 665235,
+      "word": "郑钦文首进大满贯四强",
+      "onboard_time": 1706094032,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 661991,
@@ -1875,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 553258,
+      "num": 553258,
+      "word": "江西新余一楼房发生火灾已致7人死亡",
+      "onboard_time": 1706092891,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 549529,
       "num": 549529,
       "word": "邱莹莹爸爸变成黄瀛子爸爸",
@@ -2371,6 +2411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 457847,
+      "num": 457847,
+      "word": "在俄坠毁运输机上人员疑全部遇难",
+      "onboard_time": 1706089711,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 457705,
       "num": 457705,
       "word": "TES在打什么",
@@ -2393,14 +2441,6 @@
       "onboard_time": 1705932507,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 455925,
-      "num": 455925,
-      "word": "宁艺卓签售态度再惹争议",
-      "onboard_time": 1706092170,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 455020,
@@ -2867,6 +2907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 398486,
+      "num": 1386868,
+      "word": "女子险遭钢筋贯穿因手机得救",
+      "onboard_time": 1706091933,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397635,
       "num": 231337,
       "word": "C罗敬酒",
@@ -3211,20 +3259,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 356180,
+      "num": 1350328,
+      "word": "以前的和叶vs现在的和叶",
+      "onboard_time": 1706089831,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356082,
       "num": 356082,
       "word": "横店剧组今日现状",
       "onboard_time": 1705917086,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 354828,
-      "num": 1201664,
-      "word": "女子险遭钢筋贯穿因手机得救",
-      "onboard_time": 1706091933,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354363,
@@ -3257,14 +3305,6 @@
       "onboard_time": 1705973307,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 351481,
-      "num": 1350328,
-      "word": "以前的和叶vs现在的和叶",
-      "onboard_time": 1706089831,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350260,
@@ -4235,14 +4275,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 269837,
-      "num": 269837,
-      "word": "男子无自杀勇气砸死路人求死刑",
-      "onboard_time": 1706091871,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269720,
       "num": 269720,
       "word": "吴千语施伯雄对待伴侣出轨的态度",
@@ -4353,6 +4385,14 @@
       "onboard_time": 1705802306,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261554,
+      "num": 261554,
+      "word": "郑钦文vs卡林斯卡娅",
+      "onboard_time": 1706081613,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 261454,
@@ -4659,6 +4699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245365,
+      "num": 165005,
+      "word": "郑钦文决胜盘",
+      "onboard_time": 1706093490,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245106,
       "num": 245106,
       "word": "放寒假和男朋友像在谈异国恋",
@@ -4873,6 +4921,14 @@
       "onboard_time": 1705968206,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 231607,
+      "num": 231607,
+      "word": "澳网四强",
+      "onboard_time": 1706093611,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 231284,
@@ -6099,6 +6155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 194006,
+      "num": 194006,
+      "word": "王者龙耀许愿池",
+      "onboard_time": 1706093971,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193893,
       "num": 174281,
       "word": "房东见证7年租客结婚生子帮带娃",
@@ -6457,6 +6521,14 @@
       "onboard_time": 1705810526,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182865,
+      "num": 182865,
+      "word": "主办方曾要求C罗带伤上场",
+      "onboard_time": 1706094452,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 182839,
@@ -6929,6 +7001,14 @@
       "onboard_time": 1705935149,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170178,
+      "num": 170178,
+      "word": "载65名被俘乌克兰军人的运输机坠毁",
+      "onboard_time": 1706093490,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 170148,
@@ -7707,14 +7787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 153510,
-      "num": 153510,
-      "word": "郑钦文vs卡林斯卡娅",
-      "onboard_time": 1706081613,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153227,
       "num": 153227,
       "word": "雷东宝你干嘛啊",
@@ -7921,6 +7993,14 @@
       "onboard_time": 1706001932,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148667,
+      "num": 148667,
+      "word": "黑执事鬼灭之刃 4月回归",
+      "onboard_time": 1706092352,
+      "rank": 38,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 148610,
@@ -9147,14 +9227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126664,
-      "num": 126664,
-      "word": "黑执事鬼灭之刃 4月回归",
-      "onboard_time": 1706092352,
-      "rank": 38,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 126586,
       "num": 126586,
       "word": "MBC向Minji道歉",
@@ -9395,6 +9467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120416,
+      "num": 120416,
+      "word": "乌国防部称无法确认俄坠毁运输机被乌击落",
+      "onboard_time": 1706094511,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 120044,
       "num": 120044,
       "word": "岚图与华为签署战略合作协议",
@@ -9409,6 +9489,14 @@
       "onboard_time": 1706011532,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119808,
+      "num": 119808,
+      "word": "麦当劳客服回应无法点餐",
+      "onboard_time": 1706092471,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 119743,
@@ -9441,6 +9529,14 @@
       "onboard_time": 1705832666,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119136,
+      "num": 119136,
+      "word": "克宫回应一运输机坠毁",
+      "onboard_time": 1706094628,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 119024,
@@ -9859,6 +9955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 108052,
+      "num": 108052,
+      "word": "电影院连放12个小时哈利波特",
+      "onboard_time": 1706094811,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107936,
       "num": 107936,
       "word": "WB官宣流浪离队",
@@ -9995,14 +10099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104910,
-      "num": 104910,
-      "word": "麦当劳客服回应无法点餐",
-      "onboard_time": 1706092471,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 104654,
       "num": 104654,
       "word": "不能露脸的除了缉毒警还有反扒民警",
@@ -10041,6 +10137,14 @@
       "onboard_time": 1705891885,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103907,
+      "num": 103907,
+      "word": "澳网2024",
+      "onboard_time": 1706094932,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 103834,
@@ -10500,7 +10604,7 @@
     },
     {
       "raw_hot": 84256,
-      "num": 175965,
+      "num": 271339,
       "word": "新年沉浸式大扫除",
       "onboard_time": 1706092111,
       "rank": 28,
