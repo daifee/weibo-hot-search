@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706135724344,
+  "endTime": 1706138300322,
   "band_list": [
     {
       "raw_hot": 1248136,
@@ -83,12 +83,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 321855,
-      "num": 321855,
+      "raw_hot": 416721,
+      "num": 416721,
       "word": "菏泽一臭水沟惊现8箱飞天茅台",
       "onboard_time": 1706101116,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380048,
+      "num": 380048,
+      "word": "C罗对直播带货网红蹭流量很生气",
+      "onboard_time": 1706099190,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 298760,
@@ -139,6 +147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232652,
+      "num": 232652,
+      "word": "暴雪中100多警力出动找的孩子被交警捡到",
+      "onboard_time": 1706123536,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 231985,
+      "num": 231985,
+      "word": "女销售1人贡献保时捷中国0.2%销量",
+      "onboard_time": 1706121617,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 217611,
       "num": 217611,
       "word": "暧昧期容易上头的星座",
@@ -153,6 +177,14 @@
       "onboard_time": 1706112809,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193612,
+      "num": 193612,
+      "word": "江西新余致39死火灾原因",
+      "onboard_time": 1706137823,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193102,
@@ -179,12 +211,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154681,
-      "num": 154681,
-      "word": "C罗对直播带货网红蹭流量很生气",
-      "onboard_time": 1706099190,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 159317,
+      "num": 159317,
+      "word": "父亲安慰剖腹产女儿心疼落泪",
+      "onboard_time": 1706104596,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151586,
+      "num": 151586,
+      "word": "江西 火灾",
+      "onboard_time": 1706138184,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140348,
@@ -209,6 +249,14 @@
       "onboard_time": 1706105196,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120398,
+      "num": 120398,
+      "word": "巴宝莉门店回应热水袋不能装沸水",
+      "onboard_time": 1706101355,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119646,
@@ -259,6 +307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 105845,
+      "num": 105845,
+      "word": "商场公厕男女标志像猜谜",
+      "onboard_time": 1706103754,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96759,
       "num": 96759,
       "word": "蓝亦菲爸爸偷了黄瀛子爸爸的钱",
@@ -280,30 +336,6 @@
       "word": "江西火灾多人从二楼跳下被民警接住",
       "onboard_time": 1706099610,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94974,
-      "num": 94974,
-      "word": "暴雪中100多警力出动找的孩子被交警捡到",
-      "onboard_time": 1706123536,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 93784,
-      "num": 93784,
-      "word": "巴宝莉门店回应热水袋不能装沸水",
-      "onboard_time": 1706101355,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90699,
-      "num": 90699,
-      "word": "父亲安慰剖腹产女儿心疼落泪",
-      "onboard_time": 1706104596,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -347,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82785,
-      "num": 82785,
-      "word": "女销售1人贡献保时捷中国0.2%销量",
-      "onboard_time": 1706121617,
-      "rank": 22,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 81081,
       "num": 81081,
       "word": "辛巴带货为何屡屡惹争议",
@@ -387,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72819,
-      "num": 72819,
-      "word": "商场公厕男女标志像猜谜",
-      "onboard_time": 1706103754,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71586,
       "num": 71586,
       "word": "王大陆吃到了张艺兴的外卖",
@@ -411,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65778,
+      "num": 65778,
+      "word": "恋与深空彩蛋",
+      "onboard_time": 1706138003,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 60993,
       "num": 71564,
       "word": "国家卫健委向江西派出国家级医疗专家",
@@ -419,11 +443,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59707,
+      "num": 59707,
+      "word": "江西起火店铺地下室此前装修",
+      "onboard_time": 1706124618,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57955,
       "num": 57955,
       "word": "范丞丞片场穿杨紫拖鞋",
       "onboard_time": 1706115203,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 55690,
+      "num": 55690,
+      "word": "朱颜曼滋要久久爱状态",
+      "onboard_time": 1706137222,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -440,6 +480,14 @@
       "word": "骄阳伴我新京报年度暖心剧集",
       "onboard_time": 1706114185,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 46428,
+      "num": 46428,
+      "word": "还好蒋翼长嘴了",
+      "onboard_time": 1706133074,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -475,11 +523,27 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 27383,
-      "num": 27383,
-      "word": "江西起火店铺地下室此前装修",
-      "onboard_time": 1706124618,
-      "rank": 48,
+      "raw_hot": 36526,
+      "num": 36526,
+      "word": "花儿与少年",
+      "onboard_time": 1706138242,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 35162,
+      "num": 35162,
+      "word": "为什么你那么容易生气",
+      "onboard_time": 1706138184,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 33565,
+      "num": 33565,
+      "word": "江西新余火灾亲历者讲述逃生经历",
+      "onboard_time": 1706128455,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -497,22 +561,6 @@
       "onboard_time": 1706119942,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 23767,
-      "num": 23767,
-      "word": "还好蒋翼长嘴了",
-      "onboard_time": 1706133074,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 23118,
-      "num": 23118,
-      "word": "江西新余火灾亲历者讲述逃生经历",
-      "onboard_time": 1706128455,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19598,
@@ -539,8 +587,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 7845,
-      "num": 427349,
+      "raw_hot": 13340,
+      "num": 485060,
       "word": "我国高光谱综合观测卫星投入使用",
       "onboard_time": 1706100514,
       "rank": 2,
