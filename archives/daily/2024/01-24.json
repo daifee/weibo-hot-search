@@ -1,7 +1,15 @@
 {
   "startTime": 1706027038365,
-  "endTime": 1706063573398,
+  "endTime": 1706064190608,
   "band_list": [
+    {
+      "raw_hot": 1784672,
+      "num": 1784672,
+      "word": "和叶 弟弟变妹妹",
+      "onboard_time": 1706063308,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1328553,
       "num": 1328553,
@@ -19,6 +27,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1159865,
+      "num": 1159865,
+      "word": "中国资产暴涨",
+      "onboard_time": 1706061211,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1090559,
+      "num": 424354,
+      "word": "英国的性教育",
+      "onboard_time": 1706061450,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1053358,
       "num": 1053358,
       "word": "湖南暴雪已致1万多人受灾",
@@ -27,28 +51,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1025980,
-      "num": 1025980,
-      "word": "中国资产暴涨",
-      "onboard_time": 1706061211,
-      "rank": 1,
-      "category": "财经"
-    },
-    {
       "raw_hot": 947740,
       "num": 947740,
       "word": "李胜利说要把权志龙带来柬埔寨",
       "onboard_time": 1706055812,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 869145,
-      "num": 424354,
-      "word": "英国的性教育",
-      "onboard_time": 1706061450,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 714460,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593168,
+      "num": 593168,
+      "word": "晚睡晚起睡够时长算熬夜吗",
+      "onboard_time": 1706060610,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 590677,
       "num": 590677,
       "word": "法国9岁男孩被遗弃后独自生活2年",
@@ -115,16 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 557623,
-      "num": 557623,
-      "word": "和叶 弟弟变妹妹",
-      "onboard_time": 1706063308,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 539450,
-      "num": 539450,
+      "raw_hot": 582209,
+      "num": 582209,
       "word": "IU金泰亨MV婚纱照",
       "onboard_time": 1706062110,
       "rank": 5,
@@ -161,14 +169,6 @@
       "onboard_time": 1706057431,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439188,
-      "num": 439188,
-      "word": "晚睡晚起睡够时长算熬夜吗",
-      "onboard_time": 1706060610,
-      "rank": 8,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 437794,
@@ -235,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 346101,
+      "num": 346101,
+      "word": "洗狐狸",
+      "onboard_time": 1706060850,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 345467,
       "num": 345467,
       "word": "一脚淘汰30亿人",
@@ -251,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330315,
-      "num": 330315,
-      "word": "洗狐狸",
-      "onboard_time": 1706060850,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 317756,
       "num": 317756,
       "word": "孙千这是素颜吗",
@@ -273,6 +273,14 @@
       "onboard_time": 1706053406,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312525,
+      "num": 312525,
+      "word": "A股",
+      "onboard_time": 1706062710,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 309530,
@@ -315,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272905,
-      "num": 272905,
-      "word": "A股",
-      "onboard_time": 1706062710,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 270410,
       "num": 234136,
       "word": "朋友之间最大方的那个就是最穷的",
@@ -339,20 +339,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247125,
+      "num": 228844,
+      "word": "陆虎为老婆庆生",
+      "onboard_time": 1706063308,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241787,
       "num": 241787,
       "word": "这么睡有奇效",
       "onboard_time": 1706052143,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 228844,
-      "num": 228844,
-      "word": "陆虎为老婆庆生",
-      "onboard_time": 1706063308,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 224615,
@@ -395,6 +395,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 210837,
+      "num": 210837,
+      "word": "寻亲家长26年后一眼认出人贩子",
+      "onboard_time": 1706062289,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208227,
       "num": 208227,
       "word": "丁也 癫公",
@@ -411,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204950,
+      "num": 204950,
+      "word": "刘宇宁仙剑四云天河主题曲",
+      "onboard_time": 1706061810,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204079,
       "num": 204079,
       "word": "高亚麟夸易烊千玺",
@@ -419,28 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203478,
-      "num": 203478,
-      "word": "刘宇宁仙剑四云天河主题曲",
-      "onboard_time": 1706061810,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198330,
       "num": 198330,
       "word": "竟然被一条狗帅到了",
       "onboard_time": 1706022811,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195797,
-      "num": 195797,
-      "word": "寻亲家长26年后一眼认出人贩子",
-      "onboard_time": 1706062289,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181301,
@@ -507,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154617,
+      "num": 154617,
+      "word": "流浪地球3开拍了",
+      "onboard_time": 1706063848,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151915,
       "num": 151915,
       "word": "杨紫给新戏衣服打码",
@@ -539,12 +547,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 148610,
+      "num": 148610,
+      "word": "地震瞬间他们选择为患者继续完成手术",
+      "onboard_time": 1706063611,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144544,
       "num": 144544,
       "word": "奶奶学会微信只为了给我转账",
       "onboard_time": 1706022753,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142071,
+      "num": 142071,
+      "word": "苹果龙年壁纸龙五爪",
+      "onboard_time": 1706063611,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 138641,
@@ -643,12 +667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122850,
+      "num": 122850,
+      "word": "花千骨票房",
+      "onboard_time": 1706064088,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122255,
       "num": 122255,
       "word": "河南学校火灾致13死4伤7人被抓",
       "onboard_time": 1706019871,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119024,
+      "num": 119024,
+      "word": "当新人销售第一次打电话",
+      "onboard_time": 1706063548,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 118904,
@@ -707,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102124,
-      "num": 102124,
-      "word": "当新人销售第一次打电话",
-      "onboard_time": 1706063548,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100794,
       "num": 100794,
       "word": "C罗",
@@ -729,6 +761,14 @@
       "onboard_time": 1706007570,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97343,
+      "num": 97343,
+      "word": "小黑 妈妈再也不怕看不到我了",
+      "onboard_time": 1706064151,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 96824,
@@ -932,7 +972,7 @@
     },
     {
       "raw_hot": 17935,
-      "num": 874350,
+      "num": 1172679,
       "word": "天舟七号运送的太空快递已被签收",
       "onboard_time": 1705996169,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706063573398,
+  "endTime": 1706064190608,
   "band_list": [
     {
       "raw_hot": 3131026,
@@ -113,6 +113,14 @@
       "onboard_time": 1705845211,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1784672,
+      "num": 1784672,
+      "word": "和叶 弟弟变妹妹",
+      "onboard_time": 1706063308,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1778466,
@@ -379,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1159865,
+      "num": 1159865,
+      "word": "中国资产暴涨",
+      "onboard_time": 1706061211,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1154580,
       "num": 1154580,
       "word": "刘亚仁自曝因抑郁症吸毒",
@@ -441,6 +457,14 @@
       "onboard_time": 1705894405,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1090559,
+      "num": 424354,
+      "word": "英国的性教育",
+      "onboard_time": 1706061450,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 1086663,
@@ -513,14 +537,6 @@
       "onboard_time": 1705894286,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1025980,
-      "num": 1025980,
-      "word": "中国资产暴涨",
-      "onboard_time": 1706061211,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 1023378,
@@ -729,14 +745,6 @@
       "onboard_time": 1705804047,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 869145,
-      "num": 424354,
-      "word": "英国的性教育",
-      "onboard_time": 1706061450,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 859574,
@@ -1411,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 593168,
+      "num": 593168,
+      "word": "晚睡晚起睡够时长算熬夜吗",
+      "onboard_time": 1706060610,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 590677,
       "num": 590677,
       "word": "法国9岁男孩被遗弃后独自生活2年",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1705831888,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 582209,
+      "num": 582209,
+      "word": "IU金泰亨MV婚纱照",
+      "onboard_time": 1706062110,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 580381,
@@ -1563,14 +1587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 557623,
-      "num": 557623,
-      "word": "和叶 弟弟变妹妹",
-      "onboard_time": 1706063308,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 555518,
       "num": 406505,
       "word": "周小平 A股不涨比涨要安全",
@@ -1609,14 +1625,6 @@
       "onboard_time": 1705928426,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 539450,
-      "num": 539450,
-      "word": "IU金泰亨MV婚纱照",
-      "onboard_time": 1706062110,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 537417,
@@ -2169,14 +2177,6 @@
       "onboard_time": 1706004029,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439188,
-      "num": 439188,
-      "word": "晚睡晚起睡够时长算熬夜吗",
-      "onboard_time": 1706060610,
-      "rank": 8,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 438152,
@@ -2891,6 +2891,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 346101,
+      "num": 346101,
+      "word": "洗狐狸",
+      "onboard_time": 1706060850,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 345772,
       "num": 345772,
       "word": "成都女孩空手回家过年被父亲灵魂拷问",
@@ -3040,14 +3048,6 @@
       "word": "因为一个清洁袋我妈被罚了1500",
       "onboard_time": 1705915408,
       "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 330315,
-      "num": 330315,
-      "word": "洗狐狸",
-      "onboard_time": 1706060850,
-      "rank": 14,
       "category": "情感"
     },
     {
@@ -4035,6 +4035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247125,
+      "num": 228844,
+      "word": "陆虎为老婆庆生",
+      "onboard_time": 1706063308,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246553,
       "num": 246553,
       "word": "家里只有我一个人时才有安全感",
@@ -4321,14 +4329,6 @@
       "onboard_time": 1705957453,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228844,
-      "num": 228844,
-      "word": "陆虎为老婆庆生",
-      "onboard_time": 1706063308,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 228519,
@@ -4683,6 +4683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210837,
+      "num": 210837,
+      "word": "寻亲家长26年后一眼认出人贩子",
+      "onboard_time": 1706062289,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210706,
       "num": 210706,
       "word": "杨瀚森受伤",
@@ -4875,6 +4883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204950,
+      "num": 204950,
+      "word": "刘宇宁仙剑四云天河主题曲",
+      "onboard_time": 1706061810,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204807,
       "num": 204807,
       "word": "崩坏 匹诺康尼",
@@ -4937,14 +4953,6 @@
       "onboard_time": 1705977564,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203478,
-      "num": 203478,
-      "word": "刘宇宁仙剑四云天河主题曲",
-      "onboard_time": 1706061810,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 203247,
@@ -5273,14 +5281,6 @@
       "onboard_time": 1705817608,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 195797,
-      "num": 195797,
-      "word": "寻亲家长26年后一眼认出人贩子",
-      "onboard_time": 1706062289,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195641,
@@ -6795,6 +6795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154617,
+      "num": 154617,
+      "word": "流浪地球3开拍了",
+      "onboard_time": 1706063848,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154314,
       "num": 154314,
       "word": "县城高中是否再难出清北生",
@@ -7017,6 +7025,14 @@
       "onboard_time": 1706001932,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148610,
+      "num": 148610,
+      "word": "地震瞬间他们选择为患者继续完成手术",
+      "onboard_time": 1706063611,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148361,
@@ -7313,6 +7329,14 @@
       "onboard_time": 1705795339,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142071,
+      "num": 142071,
+      "word": "苹果龙年壁纸龙五爪",
+      "onboard_time": 1706063611,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 142047,
@@ -8163,6 +8187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122850,
+      "num": 122850,
+      "word": "花千骨票房",
+      "onboard_time": 1706064088,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121918,
       "num": 121918,
       "word": "杭州官宣梅西3月来",
@@ -8288,6 +8320,14 @@
       "word": "不敢扔也从没派上用场的东西",
       "onboard_time": 1705832666,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 119024,
+      "num": 119024,
+      "word": "当新人销售第一次打电话",
+      "onboard_time": 1706063548,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -8843,14 +8883,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 102124,
-      "num": 102124,
-      "word": "当新人销售第一次打电话",
-      "onboard_time": 1706063548,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 102091,
       "num": 102091,
       "word": "原来吃席也讲究技术",
@@ -8985,6 +9017,14 @@
       "onboard_time": 1705741047,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97343,
+      "num": 97343,
+      "word": "小黑 妈妈再也不怕看不到我了",
+      "onboard_time": 1706064151,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 96933,
@@ -9636,7 +9676,7 @@
     },
     {
       "raw_hot": 19573,
-      "num": 1108428,
+      "num": 1172679,
       "word": "天舟七号运送的太空快递已被签收",
       "onboard_time": 1705996169,
       "rank": 2,
