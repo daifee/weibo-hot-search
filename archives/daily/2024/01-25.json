@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706117668977,
+  "endTime": 1706120523140,
   "band_list": [
     {
       "raw_hot": 1248136,
@@ -451,12 +451,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 35691,
+      "num": 35691,
+      "word": "嗑女一男二是我的宿命",
+      "onboard_time": 1706120420,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24808,
       "num": 964532,
       "word": "舰载直升机氛围感大片",
       "onboard_time": 1706101292,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24685,
+      "num": 24685,
+      "word": "飞天奖报名启动",
+      "onboard_time": 1706119942,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 7845,
