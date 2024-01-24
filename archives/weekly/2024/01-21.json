@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706073473313,
+  "endTime": 1706074493814,
   "band_list": [
     {
       "raw_hot": 3927509,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1052704,
+      "num": 1052704,
+      "word": "花花知道自己的弟弟变妹妹了吗",
+      "onboard_time": 1706070633,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1044847,
       "num": 1044847,
       "word": "孙丞潇说金莎做财产公证就不惦记了",
@@ -947,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777750,
+      "num": 777750,
+      "word": "赵今麦妆造全靠脸了",
+      "onboard_time": 1706068951,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 770390,
       "num": 770390,
       "word": "会中文的韩国人和中国人都沉默了",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1705998269,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 729733,
+      "num": 729733,
+      "word": "SKII大中华区销量受日本排污影响暴跌",
+      "onboard_time": 1706070871,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 725469,
@@ -1187,14 +1211,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 670009,
-      "num": 670009,
-      "word": "赵今麦妆造全靠脸了",
-      "onboard_time": 1706068951,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 668792,
       "num": 668792,
       "word": "赵丽颖发文支持电影版花千骨",
@@ -1208,14 +1224,6 @@
       "word": "印度一CEO表演时坠落死亡",
       "onboard_time": 1705829486,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 663569,
-      "num": 663569,
-      "word": "花花知道自己的弟弟变妹妹了吗",
-      "onboard_time": 1706070633,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1899,12 +1907,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 505736,
-      "num": 505736,
-      "word": "SKII大中华区销量受日本排污影响暴跌",
-      "onboard_time": 1706070871,
-      "rank": 43,
-      "category": "美妆"
+      "raw_hot": 506751,
+      "num": 389507,
+      "word": "李念三胎产后复工状态",
+      "onboard_time": 1706073271,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 504290,
@@ -2273,6 +2281,14 @@
       "onboard_time": 1705917930,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 443705,
+      "num": 443705,
+      "word": "詹青云 在爱里成为完整的我",
+      "onboard_time": 1706070691,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 443662,
@@ -2763,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380438,
+      "num": 253379,
+      "word": "女子称在银行取5000元现金被刁难",
+      "onboard_time": 1706072671,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380200,
       "num": 380200,
       "word": "仙剑女主变迁史",
@@ -2873,6 +2897,14 @@
       "onboard_time": 1705805547,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 366038,
+      "num": 366038,
+      "word": "A股国家队最新出手",
+      "onboard_time": 1706066611,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 365865,
@@ -3032,14 +3064,6 @@
       "word": "洗狐狸",
       "onboard_time": 1706060850,
       "rank": 14,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 346053,
-      "num": 346053,
-      "word": "詹青云 在爱里成为完整的我",
-      "onboard_time": 1706070691,
-      "rank": 28,
       "category": "情感"
     },
     {
@@ -3417,14 +3441,6 @@
       "onboard_time": 1705808666,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307404,
-      "num": 307404,
-      "word": "A股国家队最新出手",
-      "onboard_time": 1706066611,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 307130,
@@ -4523,14 +4539,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 230789,
-      "num": 230789,
-      "word": "女子称在银行取5000元现金被刁难",
-      "onboard_time": 1706072671,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229336,
       "num": 229336,
       "word": "山东菏泽一仓房爆炸照亮黑夜",
@@ -4612,7 +4620,7 @@
     },
     {
       "raw_hot": 225029,
-      "num": 179021,
+      "num": 179219,
       "word": "杭州四季青清仓羽绒服100多随便挑",
       "onboard_time": 1706072671,
       "rank": 30,
@@ -5555,6 +5563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195828,
+      "num": 195828,
+      "word": "证监会回应近期股市波动",
+      "onboard_time": 1706073570,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 195641,
       "num": 242450,
       "word": "要久久爱开播评价",
@@ -5995,6 +6011,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 182631,
+      "num": 182631,
+      "word": "星穹铁道砂金",
+      "onboard_time": 1706074113,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182606,
       "num": 182606,
       "word": "古有木兰替父从军 今有秀丽替女出嫁",
@@ -6361,14 +6385,6 @@
       "onboard_time": 1705971450,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 171495,
-      "num": 171495,
-      "word": "李念三胎产后复工状态",
-      "onboard_time": 1706073271,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 171412,
@@ -7763,6 +7779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140411,
+      "num": 140411,
+      "word": "研究将市值管理纳入央企负责人考核",
+      "onboard_time": 1706073933,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140304,
       "num": 140304,
       "word": "快船22比0收割比赛",
@@ -7839,6 +7863,14 @@
       "num": 138655,
       "word": "中国的传统文化真是美到我了",
       "onboard_time": 1705899748,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 138556,
+      "num": 138556,
+      "word": "富养自己",
+      "onboard_time": 1706071594,
       "rank": 41,
       "category": "情感"
     },
@@ -7945,6 +7977,14 @@
       "onboard_time": 1705796903,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136229,
+      "num": 136229,
+      "word": "小狗这一生如履薄冰",
+      "onboard_time": 1706073989,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 136135,
@@ -8129,14 +8169,6 @@
       "onboard_time": 1705802187,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 132244,
-      "num": 132244,
-      "word": "富养自己",
-      "onboard_time": 1706071594,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 132052,
@@ -8625,6 +8657,14 @@
       "onboard_time": 1705751307,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121022,
+      "num": 121022,
+      "word": "武汉eStar转会公告",
+      "onboard_time": 1706074469,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 120660,
