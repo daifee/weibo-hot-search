@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706123732889,
+  "endTime": 1706124857226,
   "band_list": [
     {
       "raw_hot": 1248136,
@@ -459,8 +459,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29471,
-      "num": 29471,
+      "raw_hot": 35559,
+      "num": 35559,
       "word": "女销售1人贡献保时捷中国0.2%销量",
       "onboard_time": 1706121617,
       "rank": 22,
@@ -489,6 +489,14 @@
       "onboard_time": 1706121858,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12540,
+      "num": 15622,
+      "word": "江西起火店铺地下室此前装修",
+      "onboard_time": 1706124618,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7845,
