@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/24 13:34:53
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/24 14:24:07
 </p>
 </blockquote>
 <p>
@@ -3441,6 +3441,12 @@ A先生李李恋情（热度：1095743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E7%BD%91%E7%BA%A2%E5%A5%B6%E8%8C%B6%E6%82%84%E6%82%84%E6%B6%88%E5%A4%B1%23" target="weibo">
+第一批网红奶茶悄悄消失（热度：1064956）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E4%B8%89%E5%80%8D%E5%B7%A5%E8%B5%84%E6%97%A5%E5%8E%86%23" target="weibo">
 2024年三倍工资日历（热度：1064930）
 </a>
@@ -4253,6 +4259,12 @@ papi酱 永远不知道同事到底叫什么（热度：951321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%20%E6%81%B6%E5%A5%B3%E5%BF%83%E6%80%81%E6%8B%92%E7%BB%9D%E5%86%85%E8%80%97%23" target="weibo">
 霉霉 恶女心态拒绝内耗（热度：948611）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23SKII%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E9%94%80%E9%87%8F%E5%8F%97%E6%97%A5%E6%9C%AC%E6%8E%92%E6%B1%A1%E5%BD%B1%E5%93%8D%E6%9A%B4%E8%B7%8C%23" target="weibo">
+SKII大中华区销量受日本排污影响暴跌（热度：948264）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E8%BA%B2%E7%AE%B1%E5%AD%90%E9%87%8C%E7%88%86%E5%93%AD%E8%A2%AB%E6%8A%AC%E8%B5%B0%23" target="weibo">
 周震南躲箱子里爆哭被抬走（热度：772649）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%94%B7%E5%AD%A9%E8%85%BF%E8%84%9A%E5%A4%AA%E5%BF%AB%E5%BC%84%E4%B8%A2%E5%A7%A5%E5%A7%A5%E8%A2%AB%E5%A6%88%E5%A6%88%E7%81%B5%E9%AD%82%E6%8B%B7%E9%97%AE%23" target="weibo">
-小男孩腿脚太快弄丢姥姥被妈妈灵魂拷问（热度：771888）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%9A%E4%B8%AD%E6%96%87%E7%9A%84%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
-会中文的韩国人和中国人都沉默了（热度：770390）
 </a>
 </li>
 
