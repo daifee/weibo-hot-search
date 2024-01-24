@@ -1,6 +1,6 @@
 {
   "startTime": 1706027038365,
-  "endTime": 1706071029601,
+  "endTime": 1706073473313,
   "band_list": [
     {
       "raw_hot": 3927509,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1602990,
+      "num": 1602990,
+      "word": "中国瑙鲁复交",
+      "onboard_time": 1706070091,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1507294,
       "num": 1507294,
       "word": "中国资产暴涨",
       "onboard_time": 1706061211,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1389284,
-      "num": 1389284,
-      "word": "中国瑙鲁复交",
-      "onboard_time": 1706070091,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1328553,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807078,
+      "num": 491840,
+      "word": "坏消息工资要年后发",
+      "onboard_time": 1706070691,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 714460,
       "num": 714460,
       "word": "C罗向中国球迷道歉",
@@ -112,6 +120,22 @@
       "word": "华中农大被举报导师上课用视频敷衍",
       "onboard_time": 1706020473,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 670009,
+      "num": 670009,
+      "word": "赵今麦妆造全靠脸了",
+      "onboard_time": 1706068951,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 663569,
+      "num": 663569,
+      "word": "花花知道自己的弟弟变妹妹了吗",
+      "onboard_time": 1706070633,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -145,14 +169,6 @@
       "onboard_time": 1706052383,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 623439,
-      "num": 623439,
-      "word": "赵今麦妆造全靠脸了",
-      "onboard_time": 1706068951,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 610625,
@@ -243,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 491840,
-      "num": 491840,
-      "word": "坏消息工资要年后发",
-      "onboard_time": 1706070691,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 505736,
+      "num": 505736,
+      "word": "SKII大中华区销量受日本排污影响暴跌",
+      "onboard_time": 1706070871,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 477858,
@@ -371,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 346053,
+      "num": 346053,
+      "word": "詹青云 在爱里成为完整的我",
+      "onboard_time": 1706070691,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 345467,
       "num": 345467,
       "word": "一脚淘汰30亿人",
@@ -427,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307404,
+      "num": 307404,
+      "word": "A股国家队最新出手",
+      "onboard_time": 1706066611,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 305787,
       "num": 305787,
       "word": "IU新歌",
@@ -449,14 +481,6 @@
       "onboard_time": 1706069135,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 298444,
-      "num": 298444,
-      "word": "A股国家队最新出手",
-      "onboard_time": 1706066611,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 295126,
@@ -507,14 +531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 264786,
-      "num": 264786,
-      "word": "詹青云 在爱里成为完整的我",
-      "onboard_time": 1706070691,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 253531,
       "num": 253531,
       "word": "孙坚办陕西流水席",
@@ -547,12 +563,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230789,
+      "num": 230789,
+      "word": "女子称在银行取5000元现金被刁难",
+      "onboard_time": 1706072671,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226848,
       "num": 226848,
       "word": "曝中国足协或将很快重启选帅事宜",
       "onboard_time": 1706066069,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225029,
+      "num": 179021,
+      "word": "杭州四季青清仓羽绒服100多随便挑",
+      "onboard_time": 1706072671,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 224615,
@@ -603,6 +635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 214093,
+      "num": 214093,
+      "word": "甜馨跳舞直拍",
+      "onboard_time": 1706071351,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213819,
       "num": 213819,
       "word": "马诺称闪婚后半年被家暴7次",
@@ -651,12 +691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204836,
-      "num": 204836,
-      "word": "花花知道自己的弟弟变妹妹了吗",
-      "onboard_time": 1706070633,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 204625,
+      "num": 204625,
+      "word": "KPL抢票",
+      "onboard_time": 1706072431,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 204079,
@@ -681,6 +721,14 @@
       "onboard_time": 1706065530,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 186667,
+      "num": 186667,
+      "word": "为什么很多人喜欢吃路边摊",
+      "onboard_time": 1706072492,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 181301,
@@ -713,6 +761,14 @@
       "onboard_time": 1706066428,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171495,
+      "num": 171495,
+      "word": "李念三胎产后复工状态",
+      "onboard_time": 1706073271,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 167361,
@@ -761,6 +817,14 @@
       "onboard_time": 1706062228,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160835,
+      "num": 160835,
+      "word": "哪本完结小说全网无代餐",
+      "onboard_time": 1706070276,
+      "rank": 40,
+      "category": "读书作家"
     },
     {
       "raw_hot": 156956,
@@ -819,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146592,
-      "num": 146592,
-      "word": "哪本完结小说全网无代餐",
-      "onboard_time": 1706070276,
-      "rank": 40,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 145148,
       "num": 145148,
       "word": "打工和创业最大的区别是什么",
@@ -843,12 +899,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144354,
+      "num": 144354,
+      "word": "保持规律的睡眠就不算熬夜",
+      "onboard_time": 1706072193,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 142071,
       "num": 142071,
       "word": "苹果龙年壁纸龙五爪",
       "onboard_time": 1706063611,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 140832,
+      "num": 140832,
+      "word": "时代少年团北京春晚定妆照",
+      "onboard_time": 1706071891,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 138641,
@@ -899,12 +971,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 132425,
-      "num": 132425,
-      "word": "SKII大中华区销量受日本排污影响暴跌",
-      "onboard_time": 1706070871,
-      "rank": 43,
-      "category": "美妆"
+      "raw_hot": 132244,
+      "num": 132244,
+      "word": "富养自己",
+      "onboard_time": 1706071594,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 131952,
@@ -1065,6 +1137,14 @@
       "onboard_time": 1706017174,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103378,
+      "num": 103378,
+      "word": "过年必备仪式感九件套",
+      "onboard_time": 1706073450,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 101230,

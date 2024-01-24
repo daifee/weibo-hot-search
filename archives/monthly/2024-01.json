@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706071029601,
+  "endTime": 1706073473313,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1891,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1602990,
+      "num": 1602990,
+      "word": "中国瑙鲁复交",
+      "onboard_time": 1706070091,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1600135,
       "num": 1600135,
       "word": "弑母案吴谢宇被母亲家属拉黑",
@@ -2657,14 +2665,6 @@
       "onboard_time": 1704541174,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1389284,
-      "num": 1389284,
-      "word": "中国瑙鲁复交",
-      "onboard_time": 1706070091,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1386460,
@@ -7299,6 +7299,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 807078,
+      "num": 491840,
+      "word": "坏消息工资要年后发",
+      "onboard_time": 1706070691,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 806762,
       "num": 806762,
       "word": "王菲 她甚至能治王家卫",
@@ -10115,6 +10123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 670009,
+      "num": 670009,
+      "word": "赵今麦妆造全靠脸了",
+      "onboard_time": 1706068951,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 669982,
       "num": 1664347,
       "word": "真正不能空腹吃的是这3种水果",
@@ -10241,6 +10257,14 @@
       "onboard_time": 1704249030,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 663569,
+      "num": 663569,
+      "word": "花花知道自己的弟弟变妹妹了吗",
+      "onboard_time": 1706070633,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662761,
@@ -11193,14 +11217,6 @@
       "onboard_time": 1704969811,
       "rank": 7,
       "category": "自然"
-    },
-    {
-      "raw_hot": 623439,
-      "num": 623439,
-      "word": "赵今麦妆造全靠脸了",
-      "onboard_time": 1706068951,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 623221,
@@ -15059,6 +15075,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 505736,
+      "num": 505736,
+      "word": "SKII大中华区销量受日本排污影响暴跌",
+      "onboard_time": 1706070871,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 505707,
       "num": 336066,
       "word": "杨幂翡翠",
@@ -15609,14 +15633,6 @@
       "onboard_time": 1704763412,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 491840,
-      "num": 491840,
-      "word": "坏消息工资要年后发",
-      "onboard_time": 1706070691,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 491807,
@@ -21923,6 +21939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 346053,
+      "num": 346053,
+      "word": "詹青云 在爱里成为完整的我",
+      "onboard_time": 1706070691,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 345812,
       "num": 345812,
       "word": "人间清醒是李湘",
@@ -24123,6 +24147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307404,
+      "num": 307404,
+      "word": "A股国家队最新出手",
+      "onboard_time": 1706066611,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 307360,
       "num": 270752,
       "word": "关于30岁女生给20岁女生的建议",
@@ -24689,14 +24721,6 @@
       "onboard_time": 1705807347,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 298444,
-      "num": 298444,
-      "word": "A股国家队最新出手",
-      "onboard_time": 1706066611,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 298419,
@@ -27417,14 +27441,6 @@
       "onboard_time": 1704104561,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264786,
-      "num": 264786,
-      "word": "詹青云 在爱里成为完整的我",
-      "onboard_time": 1706070691,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 264763,
@@ -31003,6 +31019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230789,
+      "num": 230789,
+      "word": "女子称在银行取5000元现金被刁难",
+      "onboard_time": 1706072671,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230787,
       "num": 230787,
       "word": "热巴拿火山丝当祛痘针",
@@ -31753,6 +31777,14 @@
       "onboard_time": 1704669321,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 225029,
+      "num": 179021,
+      "word": "杭州四季青清仓羽绒服100多随便挑",
+      "onboard_time": 1706072671,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 224974,
@@ -33337,6 +33369,14 @@
       "onboard_time": 1705322372,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 214093,
+      "num": 214093,
+      "word": "甜馨跳舞直拍",
+      "onboard_time": 1706071351,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 214089,
@@ -34955,14 +34995,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 204836,
-      "num": 204836,
-      "word": "花花知道自己的弟弟变妹妹了吗",
-      "onboard_time": 1706070633,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204827,
       "num": 204827,
       "word": "河南煤矿事故已致13人遇难3人失联",
@@ -35017,6 +35049,14 @@
       "onboard_time": 1705384411,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204625,
+      "num": 204625,
+      "word": "KPL抢票",
+      "onboard_time": 1706072431,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 204583,
@@ -39403,6 +39443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186667,
+      "num": 186667,
+      "word": "为什么很多人喜欢吃路边摊",
+      "onboard_time": 1706072492,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186547,
       "num": 186547,
       "word": "云南白药炒股两年亏超22亿",
@@ -43003,6 +43051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171495,
+      "num": 171495,
+      "word": "李念三胎产后复工状态",
+      "onboard_time": 1706073271,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171412,
       "num": 171412,
       "word": "盖浇饭是预制菜重灾区",
@@ -45569,6 +45625,14 @@
       "onboard_time": 1704499046,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160835,
+      "num": 160835,
+      "word": "哪本完结小说全网无代餐",
+      "onboard_time": 1706070276,
+      "rank": 40,
+      "category": "读书作家"
     },
     {
       "raw_hot": 160754,
@@ -48987,14 +49051,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 146592,
-      "num": 146592,
-      "word": "哪本完结小说全网无代餐",
-      "onboard_time": 1706070276,
-      "rank": 40,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 146560,
       "num": 146560,
       "word": "长沙TES转会公告",
@@ -49705,6 +49761,14 @@
       "onboard_time": 1704612090,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144354,
+      "num": 144354,
+      "word": "保持规律的睡眠就不算熬夜",
+      "onboard_time": 1706072193,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144332,
@@ -50705,6 +50769,14 @@
       "onboard_time": 1704279993,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140832,
+      "num": 140832,
+      "word": "时代少年团北京春晚定妆照",
+      "onboard_time": 1706071891,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 140829,
@@ -52803,14 +52875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132425,
-      "num": 132425,
-      "word": "SKII大中华区销量受日本排污影响暴跌",
-      "onboard_time": 1706070871,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 132420,
       "num": 124700,
       "word": "OPPO 全球首款双潜望",
@@ -52841,6 +52905,14 @@
       "onboard_time": 1705802187,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132244,
+      "num": 132244,
+      "word": "富养自己",
+      "onboard_time": 1706071594,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 132180,
@@ -59129,6 +59201,14 @@
       "onboard_time": 1705815207,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103378,
+      "num": 103378,
+      "word": "过年必备仪式感九件套",
+      "onboard_time": 1706073450,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 103341,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706071029601,
+  "endTime": 1706073473313,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1891,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1602990,
+      "num": 1602990,
+      "word": "中国瑙鲁复交",
+      "onboard_time": 1706070091,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1600135,
       "num": 1600135,
       "word": "弑母案吴谢宇被母亲家属拉黑",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705671086,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1443339,
-      "num": 1443339,
-      "word": "关于六寸蛋糕放5斤车厘子这件情",
-      "onboard_time": 1705845211,
-      "rank": 1,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
