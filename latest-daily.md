@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/25 00:23:27 ~ 2024/01/25 01:17:01
+本榜单时间：2024/01/25 00:23:27 ~ 2024/01/25 01:34:28
 </p>
 </blockquote>
 <p>
@@ -341,6 +341,12 @@ NMIXX一位（热度：43516）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%BD%E7%BD%97%E9%93%A0%E9%A9%AC%E8%B6%85%E6%96%B0%E7%9A%AE%E8%82%A4%23" target="weibo">
 伽罗铠马超新皮肤（热度：41416）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%98%B4%E8%A7%92%E4%B8%89%E9%A2%97%E7%97%A3%23" target="weibo">
+王鹤棣嘴角三颗痣（热度：38890）
 </a>
 </li>
 
