@@ -1,0 +1,410 @@
+{
+  "runTime": 1706091601329,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2772422,
+        "num": 2772422,
+        "word": "麦当劳崩了",
+        "onboard_time": 1706088510,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 711564,
+        "num": 1499458,
+        "word": "7年长跑情侣互换龙年礼后决定结婚",
+        "onboard_time": 1706090130,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41268,
+        "num": 1428592,
+        "word": "4分半回顾改革开放大事记",
+        "onboard_time": 1706084793,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1399976,
+        "num": 1399976,
+        "word": "黄多多 新电影",
+        "onboard_time": 1706087550,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262664,
+        "num": 1350328,
+        "word": "以前的和叶vs现在的和叶",
+        "onboard_time": 1706089831,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1326605,
+        "num": 1326605,
+        "word": "在俄坠毁运输机上63人全部遇难",
+        "onboard_time": 1706089711,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 103081,
+        "num": 869006,
+        "word": "小朋友给消防员送水被回赠零食大礼包",
+        "onboard_time": 1706089831,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848373,
+        "num": 848373,
+        "word": "春节前理发 中国人的豪赌",
+        "onboard_time": 1706086769,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 796061,
+        "num": 796061,
+        "word": "青岛女销售一年卖170台保时捷",
+        "onboard_time": 1706082032,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595693,
+        "num": 595693,
+        "word": "个人养老金制度将推进全面实施",
+        "onboard_time": 1706087550,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 521621,
+        "num": 521621,
+        "word": "第一批网红奶茶悄悄消失",
+        "onboard_time": 1706065050,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454859,
+        "num": 454859,
+        "word": "为什么有些韩国人觉得中国菜难吃",
+        "onboard_time": 1706085809,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 449414,
+        "num": 449414,
+        "word": "不喜欢的衣服留着上班穿",
+        "onboard_time": 1706087489,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 422088,
+        "num": 422088,
+        "word": "云南山体滑坡34人遇难",
+        "onboard_time": 1706088631,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422030,
+        "num": 422030,
+        "word": "人民文娱评仙剑四祈今朝",
+        "onboard_time": 1706086769,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379371,
+        "num": 379371,
+        "word": "央行降准0.5个百分点",
+        "onboard_time": 1706083530,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 366527,
+        "num": 366527,
+        "word": "胡先煦认证赵昭仪最佳导游",
+        "onboard_time": 1706086589,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331598,
+        "num": 331598,
+        "word": "邓家佳收到粉丝做的PPT",
+        "onboard_time": 1706084371,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 327413,
+        "num": 327413,
+        "word": "网红巨人小莫去世家人拒领骨灰",
+        "onboard_time": 1706079510,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311767,
+        "num": 311767,
+        "word": "麦当劳 我等吃不素之霸呢",
+        "onboard_time": 1706090909,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 685027,
+        "num": 306733,
+        "word": "情侣住店赤身裸体房门突然被打开",
+        "onboard_time": 1706089831,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296466,
+        "num": 296466,
+        "word": "李现为杨紫挡太阳",
+        "onboard_time": 1706090671,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292488,
+        "num": 292488,
+        "word": "SKII曾称日本最大湖泊是产品唯一水质来源",
+        "onboard_time": 1706082330,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 280354,
+        "num": 280354,
+        "word": "IU新歌空降成绩",
+        "onboard_time": 1706089051,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225084,
+        "num": 225084,
+        "word": "专家评年轻人羡慕蓝领收入高",
+        "onboard_time": 1706090790,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167507,
+        "num": 167507,
+        "word": "2000元整捆纸币取出20万即视感",
+        "onboard_time": 1706087189,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165523,
+        "num": 165523,
+        "word": "韩媒嫉妒C罗在中国道歉",
+        "onboard_time": 1706076927,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165308,
+        "num": 165308,
+        "word": "和叶 弟弟变妹妹",
+        "onboard_time": 1706063308,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176780,
+        "num": 165088,
+        "word": "IU先行曲LovewinsAll",
+        "onboard_time": 1706088988,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157307,
+        "num": 157307,
+        "word": "招呼亲戚来吃饭17口人全被埋",
+        "onboard_time": 1706089532,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540695,
+        "num": 157033,
+        "word": "C罗不满中国行主办方",
+        "onboard_time": 1706091150,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222870,
+        "num": 155917,
+        "word": "狗狗把断爪叼回家主人泪崩",
+        "onboard_time": 1706089650,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153510,
+        "num": 153510,
+        "word": "郑钦文vs卡林斯卡娅",
+        "onboard_time": 1706081613,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139693,
+        "num": 139693,
+        "word": "坏消息工资要年后发",
+        "onboard_time": 1706070691,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139079,
+        "num": 139079,
+        "word": "张馨予打卡黑龙江小狐狸的家",
+        "onboard_time": 1706085991,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133600,
+        "num": 133600,
+        "word": "迪丽热巴给花少团买礼物",
+        "onboard_time": 1706080470,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127061,
+        "num": 127061,
+        "word": "赵今麦妆造全靠脸了",
+        "onboard_time": 1706068951,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122138,
+        "num": 122138,
+        "word": "赵昭仪长文感谢花少团",
+        "onboard_time": 1706085150,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119786,
+        "num": 119786,
+        "word": "吃海鲜被章鱼喷墨",
+        "onboard_time": 1706087729,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106878,
+        "num": 106878,
+        "word": "李宏毅回应新戏",
+        "onboard_time": 1706077767,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104625,
+        "num": 104625,
+        "word": "农学生寒假回家带科研梨1个重1斤",
+        "onboard_time": 1706088029,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104142,
+        "num": 104142,
+        "word": "吴磊赵今麦脸颊吻",
+        "onboard_time": 1706077229,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101717,
+        "num": 101717,
+        "word": "蔡磊称为几年后千千万万个蔡磊而努力",
+        "onboard_time": 1706090550,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96948,
+        "num": 96948,
+        "word": "间谍过家家 次瓜见父母",
+        "onboard_time": 1706086527,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 95314,
+        "num": 95314,
+        "word": "巴黎高定时装周",
+        "onboard_time": 1706090730,
+        "rank": 44,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 289760,
+        "num": 95252,
+        "word": "10岁小孩分享辣条后同学死亡被诉",
+        "onboard_time": 1706079810,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95125,
+        "num": 95125,
+        "word": "钟楚曦怕自己太瘦观众不喜欢",
+        "onboard_time": 1706076150,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91347,
+        "num": 91347,
+        "word": "在东北问好吃不好吃意味着什么",
+        "onboard_time": 1706089650,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89579,
+        "num": 89579,
+        "word": "花花知道自己的弟弟变妹妹了吗",
+        "onboard_time": 1706070633,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83790,
+        "num": 83790,
+        "word": "英国偶遇章泽天",
+        "onboard_time": 1706078668,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养更多适应高质量发展高水平自立自强的各类人才#"
+    }
+  }
+}

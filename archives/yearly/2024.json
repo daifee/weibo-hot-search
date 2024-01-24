@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706088888851,
+  "endTime": 1706091601329,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -441,6 +441,14 @@
       "onboard_time": 1704933933,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2772422,
+      "num": 2772422,
+      "word": "麦当劳崩了",
+      "onboard_time": 1706088510,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 2770385,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704846449,
       "rank": 0,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1447207,
-      "num": 1447207,
-      "word": "车厘子降价仍不被买账",
-      "onboard_time": 1705501291,
-      "rank": 21,
-      "category": "美食"
     }
   ],
   "hotgov_list": [

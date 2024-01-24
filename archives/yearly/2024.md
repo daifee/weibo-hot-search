@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/24 17:34:48
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/24 18:20:01
 </p>
 </blockquote>
 <p>
@@ -341,6 +341,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E7%9C%BC%E4%BB%8E800%E5%BA%A6%E9%99%8D%E5%88%B0100%E5%BA%A6%E7%9A%84%E8%BF%87%E7%A8%8B%23" target="weibo">
 近视眼从800度降到100度的过程（热度：2786727）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%B4%A9%E4%BA%86%23" target="weibo">
+麦当劳崩了（热度：2772422）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ APP未经同意跳转广告涉嫌违法（热度：1510146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%9C%E6%AD%A2%E4%B9%B1%E5%90%83%E6%B0%94%E8%A1%80%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 停止乱吃气血就回来了（热度：1447276）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E9%99%8D%E4%BB%B7%E4%BB%8D%E4%B8%8D%E8%A2%AB%E4%B9%B0%E8%B4%A6%23" target="weibo">
-车厘子降价仍不被买账（热度：1447207）
 </a>
 </li>
 

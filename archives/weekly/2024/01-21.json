@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706088888851,
+  "endTime": 1706091601329,
   "band_list": [
     {
       "raw_hot": 3927509,
@@ -17,6 +17,14 @@
       "onboard_time": 1705948695,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2772422,
+      "num": 2772422,
+      "word": "麦当劳崩了",
+      "onboard_time": 1706088510,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 2678805,
@@ -275,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1399976,
+      "num": 1399976,
+      "word": "黄多多 新电影",
+      "onboard_time": 1706087550,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1383309,
       "num": 1383309,
       "word": "网红巨人小莫去世家人拒领骨灰",
@@ -307,12 +323,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1319859,
-      "num": 1319859,
-      "word": "黄多多 新电影",
-      "onboard_time": 1706087550,
-      "rank": 14,
-      "category": "电影"
+      "raw_hot": 1326605,
+      "num": 1326605,
+      "word": "在俄坠毁运输机上63人全部遇难",
+      "onboard_time": 1706089711,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1311597,
@@ -651,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 986450,
-      "num": 986450,
-      "word": "麦当劳崩了",
-      "onboard_time": 1706088510,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
       "raw_hot": 986062,
       "num": 986062,
       "word": "武磊承认中国足球令人失望",
@@ -897,6 +905,14 @@
       "onboard_time": 1705879339,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 848373,
+      "num": 848373,
+      "word": "春节前理发 中国人的豪赌",
+      "onboard_time": 1706086769,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 846094,
@@ -1219,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711564,
+      "num": 1499458,
+      "word": "7年长跑情侣互换龙年礼后决定结婚",
+      "onboard_time": 1706090130,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709587,
       "num": 709587,
       "word": "通勤婚姻",
@@ -1299,12 +1323,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 672864,
-      "num": 672864,
-      "word": "春节前理发 中国人的豪赌",
-      "onboard_time": 1706086769,
-      "rank": 10,
-      "category": "幽默"
+      "raw_hot": 685027,
+      "num": 306733,
+      "word": "情侣住店赤身裸体房门突然被打开",
+      "onboard_time": 1706089831,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672128,
@@ -1859,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540695,
+      "num": 157033,
+      "word": "C罗不满中国行主办方",
+      "onboard_time": 1706091150,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 537417,
       "num": 211660,
       "word": "南京一商场被指贴旭日旗遭网友怒斥后撤下",
@@ -2403,6 +2435,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 449414,
+      "num": 449414,
+      "word": "不喜欢的衣服留着上班穿",
+      "onboard_time": 1706087489,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 448839,
       "num": 448839,
       "word": "关晓彤的包是高脚杯",
@@ -2593,6 +2633,14 @@
       "onboard_time": 1705901906,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 422088,
+      "num": 422088,
+      "word": "云南山体滑坡34人遇难",
+      "onboard_time": 1706088631,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421846,
@@ -3411,6 +3459,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 331598,
+      "num": 331598,
+      "word": "邓家佳收到粉丝做的PPT",
+      "onboard_time": 1706084371,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331524,
       "num": 296378,
       "word": "因为一个清洁袋我妈被罚了1500",
@@ -3635,6 +3691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311767,
+      "num": 311767,
+      "word": "麦当劳 我等吃不素之霸呢",
+      "onboard_time": 1706090909,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 311235,
       "num": 311235,
       "word": "单位发的员工福利根本用不完",
@@ -3787,20 +3851,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296466,
+      "num": 296466,
+      "word": "李现为杨紫挡太阳",
+      "onboard_time": 1706090671,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295346,
       "num": 295346,
       "word": "国安部揭一起境外间谍情报机关围猎套路",
       "onboard_time": 1705975287,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294103,
-      "num": 294103,
-      "word": "邓家佳收到粉丝做的PPT",
-      "onboard_time": 1706084371,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 293733,
@@ -3961,6 +4025,14 @@
       "onboard_time": 1706052927,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280354,
+      "num": 280354,
+      "word": "IU新歌空降成绩",
+      "onboard_time": 1706089051,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 280044,
@@ -4240,6 +4312,14 @@
       "word": "七仔滚了一身炸裂糖霜",
       "onboard_time": 1705922004,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262664,
+      "num": 1350328,
+      "word": "以前的和叶vs现在的和叶",
+      "onboard_time": 1706089831,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -4699,14 +4779,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 238160,
-      "num": 238160,
-      "word": "不喜欢的衣服留着上班穿",
-      "onboard_time": 1706087489,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 238120,
       "num": 238120,
       "word": "光夜 萧逸战损",
@@ -4875,14 +4947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226045,
-      "num": 226045,
-      "word": "云南山体滑坡34人遇难",
-      "onboard_time": 1706088631,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225970,
       "num": 225970,
       "word": "林忆莲将复出",
@@ -4905,6 +4969,14 @@
       "onboard_time": 1705839449,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225084,
+      "num": 225084,
+      "word": "专家评年轻人羡慕蓝领收入高",
+      "onboard_time": 1706090790,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225029,
@@ -4968,6 +5040,14 @@
       "word": "萌兰又变小金熊了",
       "onboard_time": 1705805547,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222870,
+      "num": 155917,
+      "word": "狗狗把断爪叼回家主人泪崩",
+      "onboard_time": 1706089650,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -6563,6 +6643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176780,
+      "num": 165088,
+      "word": "IU先行曲LovewinsAll",
+      "onboard_time": 1706088988,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 176113,
       "num": 176113,
       "word": "国产三蹦子魅力传到外国",
@@ -7403,6 +7491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 157307,
+      "num": 157307,
+      "word": "招呼亲戚来吃饭17口人全被埋",
+      "onboard_time": 1706089532,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157281,
       "num": 157281,
       "word": "钱恒成瑶初吻",
@@ -7579,6 +7675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153510,
+      "num": 153510,
+      "word": "郑钦文vs卡林斯卡娅",
+      "onboard_time": 1706081613,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153227,
       "num": 153227,
       "word": "雷东宝你干嘛啊",
@@ -7681,14 +7785,6 @@
       "onboard_time": 1706009192,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150499,
-      "num": 150499,
-      "word": "郑钦文vs卡林斯卡娅",
-      "onboard_time": 1706081613,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 150383,
@@ -9907,6 +10003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103081,
+      "num": 869006,
+      "word": "小朋友给消防员送水被回赠零食大礼包",
+      "onboard_time": 1706089831,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102503,
       "num": 102503,
       "word": "这才是龙年的正确打开方式",
@@ -9937,6 +10041,14 @@
       "onboard_time": 1705811067,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101717,
+      "num": 101717,
+      "word": "蔡磊称为几年后千千万万个蔡磊而努力",
+      "onboard_time": 1706090550,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101576,
@@ -10123,6 +10235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95314,
+      "num": 95314,
+      "word": "巴黎高定时装周",
+      "onboard_time": 1706090730,
+      "rank": 44,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 95284,
       "num": 95284,
       "word": "丁程鑫听到什么了",
@@ -10232,6 +10352,14 @@
       "word": "爸妈眼里你赖床的样子",
       "onboard_time": 1705995751,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 91347,
+      "num": 91347,
+      "word": "在东北问好吃不好吃意味着什么",
+      "onboard_time": 1706089650,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -10652,7 +10780,7 @@
     },
     {
       "raw_hot": 48854,
-      "num": 1268270,
+      "num": 1428592,
       "word": "4分半回顾改革开放大事记",
       "onboard_time": 1706084793,
       "rank": 2,
