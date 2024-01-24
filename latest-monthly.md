@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/25 07:18:20
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/25 07:34:29
 </p>
 </blockquote>
 <p>
@@ -4881,6 +4881,12 @@ IU染粉发（热度：920521）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E6%96%B0%E4%BD%99%E8%87%B439%E6%AD%BB%E7%81%AB%E7%81%BE%E5%8E%9F%E5%9B%A0%23" target="weibo">
+江西新余致39死火灾原因（热度：881560）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E7%A2%B0%E6%92%9E%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83%23" target="weibo">
 深圳欢乐谷过山车碰撞事故调查报告公布（热度：881279）
 </a>
@@ -6005,12 +6011,6 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%97%E8%88%9E6%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
 街舞6总决赛（热度：785231）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E5%A4%9A%E5%90%8D2%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%A5%B3%E5%A9%B4%23" target="weibo">
-日本一男子性侵多名2岁以下女婴（热度：785130）
 </a>
 </li>
 
