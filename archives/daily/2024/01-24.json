@@ -1,6 +1,6 @@
 {
   "startTime": 1706027038365,
-  "endTime": 1706106975355,
+  "endTime": 1706109589477,
   "band_list": [
     {
       "raw_hot": 7473338,
@@ -67,6 +67,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1579199,
+      "num": 1579199,
+      "word": "江西新余火灾现场已无被困人员",
+      "onboard_time": 1706106034,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1507294,
       "num": 1507294,
       "word": "中国资产暴涨",
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1337175,
+      "num": 1337175,
+      "word": "美甲 丑甲",
+      "onboard_time": 1706107534,
+      "rank": 3,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1328553,
       "num": 1328553,
       "word": "电影花千骨导演道歉",
@@ -144,6 +160,14 @@
       "word": "江西新余火灾25人遇难",
       "onboard_time": 1706095052,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1191219,
+      "num": 1191219,
+      "word": "民政部回复龙年不宜结婚",
+      "onboard_time": 1706107055,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -387,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 673464,
+      "num": 673464,
+      "word": "知情人称江西火灾楼栋二楼没消防通道",
+      "onboard_time": 1706104836,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665235,
       "num": 665235,
       "word": "郑钦文首进大满贯四强",
@@ -449,6 +481,14 @@
       "onboard_time": 1706022995,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 604689,
+      "num": 604689,
+      "word": "女生腹泻后未在意5天后心脏停跳",
+      "onboard_time": 1706108254,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 604466,
@@ -611,14 +651,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 474721,
-      "num": 474721,
-      "word": "江西新余火灾现场已无被困人员",
-      "onboard_time": 1706106034,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 474329,
       "num": 474329,
       "word": "胡先煦认证赵昭仪最佳导游",
@@ -665,14 +697,6 @@
       "onboard_time": 1706081008,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 453428,
-      "num": 453428,
-      "word": "知情人称江西火灾楼栋二楼没消防通道",
-      "onboard_time": 1706104836,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 453402,
@@ -787,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388708,
+      "num": 388708,
+      "word": "车厘子价格降不动了",
+      "onboard_time": 1706107775,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 386962,
       "num": 253379,
       "word": "女子称在银行取5000元现金被刁难",
@@ -833,6 +865,14 @@
       "onboard_time": 1706066611,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 365348,
+      "num": 207156,
+      "word": "辛巴怒斥快手",
+      "onboard_time": 1706106456,
+      "rank": 30,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 364699,
@@ -1163,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261067,
+      "num": 261067,
+      "word": "江西新余火灾伤者比较年轻",
+      "onboard_time": 1706108732,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258145,
       "num": 258145,
       "word": "吴磊赵今麦脸颊吻",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1706062289,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247127,
+      "num": 247127,
+      "word": "阚清子绿色清凉吊带裙",
+      "onboard_time": 1706108555,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 247125,
@@ -1339,20 +1395,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221826,
+      "num": 221826,
+      "word": "港媒曝黎淑贤凶宅被低价放售",
+      "onboard_time": 1706108675,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221260,
       "num": 221260,
       "word": "A股已具备熊市末期尾部特征",
       "onboard_time": 1706021674,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 220351,
-      "num": 207156,
-      "word": "辛巴怒斥快手",
-      "onboard_time": 1706106456,
-      "rank": 30,
-      "category": "网红,互联网"
     },
     {
       "raw_hot": 220261,
@@ -1555,12 +1611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194446,
+      "num": 194446,
+      "word": "小伙景区买7颗珠子编手链被收1650",
+      "onboard_time": 1706107713,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193874,
       "num": 193874,
       "word": "酸奶为什么这么贵了",
       "onboard_time": 1706100815,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 193038,
+      "num": 193038,
+      "word": "江西新余医院派直升机救援",
+      "onboard_time": 1706108854,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192566,
@@ -1755,6 +1827,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 168169,
+      "num": 168169,
+      "word": "倪萍每晚都去蔡磊直播间买东西",
+      "onboard_time": 1706106573,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167361,
       "num": 167361,
       "word": "阿里巴巴大涨超7%",
@@ -1793,14 +1873,6 @@
       "onboard_time": 1706058689,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163847,
-      "num": 163847,
-      "word": "倪萍每晚都去蔡磊直播间买东西",
-      "onboard_time": 1706106573,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 162492,
@@ -2171,6 +2243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135444,
+      "num": 135444,
+      "word": "人夫感是一种什么感觉",
+      "onboard_time": 1706109212,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135380,
       "num": 135380,
       "word": "中国足协即将重启换帅程序",
@@ -2209,6 +2289,14 @@
       "onboard_time": 1706105553,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132215,
+      "num": 132215,
+      "word": "猫猫也会弱智吗",
+      "onboard_time": 1706109153,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 131952,
@@ -2491,12 +2579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118368,
+      "num": 118368,
+      "word": "成都AG2023纪录片",
+      "onboard_time": 1706108013,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118140,
       "num": 118140,
       "word": "快船战胜湖人",
       "onboard_time": 1706074950,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117975,
+      "num": 117975,
+      "word": "为什么衣服上的火锅味一直散不掉",
+      "onboard_time": 1706108133,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 117851,
@@ -2539,11 +2643,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111654,
+      "num": 111654,
+      "word": "钱恒 不装了我是个疯批",
+      "onboard_time": 1706109573,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110941,
       "num": 110941,
       "word": "格林认为杜兰特不在GOAT讨论中",
       "onboard_time": 1706061870,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110349,
+      "num": 110349,
+      "word": "兹维列夫3比1阿尔卡拉斯",
+      "onboard_time": 1706108611,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2876,7 +2996,7 @@
     },
     {
       "raw_hot": 66389,
-      "num": 1299758,
+      "num": 1414791,
       "word": "舰载直升机氛围感大片",
       "onboard_time": 1706101292,
       "rank": 2,
