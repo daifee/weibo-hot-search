@@ -1,0 +1,410 @@
+{
+  "runTime": 1706063573398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1328553,
+        "num": 1328553,
+        "word": "电影花千骨导演道歉",
+        "onboard_time": 1706061509,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1025980,
+        "num": 1025980,
+        "word": "中国资产暴涨",
+        "onboard_time": 1706061211,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13224,
+        "num": 673977,
+        "word": "天舟七号运送的太空快递已被签收",
+        "onboard_time": 1705996169,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578110,
+        "num": 578110,
+        "word": "湖南暴雪已致1万多人受灾",
+        "onboard_time": 1706020412,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557623,
+        "num": 557623,
+        "word": "和叶 弟弟变妹妹",
+        "onboard_time": 1706063308,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539450,
+        "num": 539450,
+        "word": "IU金泰亨MV婚纱照",
+        "onboard_time": 1706062110,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 467434,
+        "num": 467434,
+        "word": "12306抢票",
+        "onboard_time": 1706058211,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443643,
+        "num": 443643,
+        "word": "宁拆一座庙必毁这桩婚",
+        "onboard_time": 1706022995,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439188,
+        "num": 439188,
+        "word": "晚睡晚起睡够时长算熬夜吗",
+        "onboard_time": 1706060610,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 437794,
+        "num": 437794,
+        "word": "特朗普在新罕布什尔州共和党初选中胜出",
+        "onboard_time": 1706060427,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 869145,
+        "num": 424354,
+        "word": "英国的性教育",
+        "onboard_time": 1706061450,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 623503,
+        "num": 418921,
+        "word": "李胜利说要把权志龙带来柬埔寨",
+        "onboard_time": 1706055812,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488657,
+        "num": 416777,
+        "word": "爸爸把我买的车厘子送人了",
+        "onboard_time": 1706055089,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392663,
+        "num": 392663,
+        "word": "张黎 举报前已做好最坏打算",
+        "onboard_time": 1706052745,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330315,
+        "num": 330315,
+        "word": "洗狐狸",
+        "onboard_time": 1706060850,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291457,
+        "num": 291457,
+        "word": "211硕士回应入职不到半年被裁",
+        "onboard_time": 1706025271,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290152,
+        "num": 290152,
+        "word": "新疆余震1104次",
+        "onboard_time": 1706057912,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272905,
+        "num": 272905,
+        "word": "A股",
+        "onboard_time": 1706062710,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 236581,
+        "num": 236581,
+        "word": "菲律宾总统称台湾是中国的一个省",
+        "onboard_time": 1706052383,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 228844,
+        "num": 228844,
+        "word": "陆虎为老婆庆生",
+        "onboard_time": 1706063308,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228245,
+        "num": 228245,
+        "word": "TT违反禁毒条例被禁赛25场",
+        "onboard_time": 1706057373,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208632,
+        "num": 208632,
+        "word": "王健林的年会停了",
+        "onboard_time": 1706055689,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208227,
+        "num": 208227,
+        "word": "丁也 癫公",
+        "onboard_time": 1706059169,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203478,
+        "num": 203478,
+        "word": "刘宇宁仙剑四云天河主题曲",
+        "onboard_time": 1706061810,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200534,
+        "num": 200534,
+        "word": "法国9岁男孩被遗弃后独自生活2年",
+        "onboard_time": 1706053707,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195797,
+        "num": 195797,
+        "word": "寻亲家长26年后一眼认出人贩子",
+        "onboard_time": 1706062289,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195546,
+        "num": 195546,
+        "word": "华中农大黄飞若曾叫嚣有专业律师团",
+        "onboard_time": 1706057431,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177395,
+        "num": 177395,
+        "word": "成都好大的雪",
+        "onboard_time": 1706020232,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172101,
+        "num": 172101,
+        "word": "情侣酒店走光索要10倍赔偿",
+        "onboard_time": 1706013691,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167265,
+        "num": 167265,
+        "word": "孙坚办陕西流水席",
+        "onboard_time": 1706058027,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163898,
+        "num": 163898,
+        "word": "6寸蛋糕用5斤车厘子店家道歉",
+        "onboard_time": 1706004511,
+        "rank": 30,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 161344,
+        "num": 161344,
+        "word": "冬青奥会短道速滑混接中国夺金",
+        "onboard_time": 1706062228,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149895,
+        "num": 149895,
+        "word": "朋友之间最大方的那个就是最穷的",
+        "onboard_time": 1706055149,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149021,
+        "num": 149021,
+        "word": "男子骑车摔倒女子陪伴救助",
+        "onboard_time": 1706059352,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 145889,
+        "num": 145889,
+        "word": "高亚麟夸易烊千玺",
+        "onboard_time": 1706058271,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145154,
+        "num": 145154,
+        "word": "C罗向中国球迷道歉",
+        "onboard_time": 1706016272,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138514,
+        "num": 138514,
+        "word": "国足遭淘汰后启程回国",
+        "onboard_time": 1706060009,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134269,
+        "num": 134269,
+        "word": "请和我的老公结婚",
+        "onboard_time": 1706052927,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124432,
+        "num": 124432,
+        "word": "TFBOYS坐房顶干嘛",
+        "onboard_time": 1706026528,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120821,
+        "num": 120821,
+        "word": "孙千这是素颜吗",
+        "onboard_time": 1706019213,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118904,
+        "num": 118904,
+        "word": "张力尹曾面试我是歌手落选",
+        "onboard_time": 1706062768,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116318,
+        "num": 116318,
+        "word": "2014年已经是10年前了",
+        "onboard_time": 1706059410,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113493,
+        "num": 113493,
+        "word": "211高材生回村创业成村宠",
+        "onboard_time": 1706058990,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110941,
+        "num": 110941,
+        "word": "格林认为杜兰特不在GOAT讨论中",
+        "onboard_time": 1706061870,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110231,
+        "num": 110231,
+        "word": "如何有效抗老",
+        "onboard_time": 1706063189,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 109990,
+        "num": 109990,
+        "word": "IU新歌",
+        "onboard_time": 1706021975,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108962,
+        "num": 108962,
+        "word": "重庆下雪",
+        "onboard_time": 1706053406,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107532,
+        "num": 107532,
+        "word": "一脚淘汰30亿人",
+        "onboard_time": 1706019454,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102124,
+        "num": 102124,
+        "word": "当新人销售第一次打电话",
+        "onboard_time": 1706063548,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101083,
+        "num": 101083,
+        "word": "赛琳娜回应身材变化争议",
+        "onboard_time": 1706020596,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实稳健推进中国式现代化建设#"
+    }
+  }
+}
