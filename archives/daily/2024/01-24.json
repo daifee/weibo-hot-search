@@ -1,6 +1,6 @@
 {
   "startTime": 1706027038365,
-  "endTime": 1706087907854,
+  "endTime": 1706088888851,
   "band_list": [
     {
       "raw_hot": 3927509,
@@ -59,6 +59,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1319859,
+      "num": 1319859,
+      "word": "黄多多 新电影",
+      "onboard_time": 1706087550,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1278281,
       "num": 1278281,
       "word": "张黎 举报前已做好最坏打算",
@@ -67,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1237232,
-      "num": 1237232,
+      "raw_hot": 1240154,
+      "num": 1240154,
       "word": "青岛女销售一年卖170台保时捷",
       "onboard_time": 1706082032,
       "rank": 4,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 986450,
+      "num": 986450,
+      "word": "麦当劳崩了",
+      "onboard_time": 1706088510,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 948264,
       "num": 948264,
       "word": "SKII大中华区销量受日本排污影响暴跌",
@@ -145,6 +161,14 @@
       "onboard_time": 1706064387,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 867442,
+      "num": 867442,
+      "word": "个人养老金制度将推进全面实施",
+      "onboard_time": 1706087550,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 866032,
@@ -225,6 +249,14 @@
       "onboard_time": 1706020473,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672864,
+      "num": 672864,
+      "word": "春节前理发 中国人的豪赌",
+      "onboard_time": 1706086769,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 655517,
@@ -323,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 563827,
+      "num": 563827,
+      "word": "为什么有些韩国人觉得中国菜难吃",
+      "onboard_time": 1706085809,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 554873,
       "num": 554873,
       "word": "肖战工作室新增营业性演出许可",
@@ -371,14 +411,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 498582,
-      "num": 498582,
-      "word": "为什么有些韩国人觉得中国菜难吃",
-      "onboard_time": 1706085809,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 477858,
       "num": 237901,
       "word": "王健林的年会停了",
@@ -393,6 +425,22 @@
       "onboard_time": 1706004511,
       "rank": 4,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 474329,
+      "num": 474329,
+      "word": "胡先煦认证赵昭仪最佳导游",
+      "onboard_time": 1706086589,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 462833,
+      "num": 462833,
+      "word": "人民文娱评仙剑四祈今朝",
+      "onboard_time": 1706086769,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 461795,
@@ -443,28 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438858,
-      "num": 438858,
-      "word": "人民文娱评仙剑四祈今朝",
-      "onboard_time": 1706086769,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 437794,
       "num": 437794,
       "word": "特朗普在新罕布什尔州共和党初选中胜出",
       "onboard_time": 1706060427,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 433326,
-      "num": 433326,
-      "word": "胡先煦认证赵昭仪最佳导游",
-      "onboard_time": 1706086589,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 428466,
@@ -555,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359558,
-      "num": 359558,
-      "word": "春节前理发 中国人的豪赌",
-      "onboard_time": 1706086769,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 349469,
       "num": 349469,
       "word": "TFBOYS坐房顶干嘛",
@@ -609,14 +633,6 @@
       "onboard_time": 1706069135,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 331636,
-      "num": 331636,
-      "word": "个人养老金制度将推进全面实施",
-      "onboard_time": 1706087550,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 325438,
@@ -697,14 +713,6 @@
       "onboard_time": 1706069135,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 297140,
-      "num": 297140,
-      "word": "黄多多 新电影",
-      "onboard_time": 1706087550,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 295126,
@@ -811,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246417,
+      "num": 229695,
+      "word": "2000元整捆纸币取出20万即视感",
+      "onboard_time": 1706087189,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241787,
       "num": 241787,
       "word": "这么睡有奇效",
@@ -819,12 +835,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 229695,
-      "num": 229695,
-      "word": "2000元整捆纸币取出20万即视感",
-      "onboard_time": 1706087189,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 238160,
+      "num": 238160,
+      "word": "不喜欢的衣服留着上班穿",
+      "onboard_time": 1706087489,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 229330,
@@ -841,6 +857,14 @@
       "onboard_time": 1706066069,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226045,
+      "num": 226045,
+      "word": "云南山体滑坡34人遇难",
+      "onboard_time": 1706088631,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225970,
@@ -1027,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196130,
+      "num": 196130,
+      "word": "吃海鲜被章鱼喷墨",
+      "onboard_time": 1706087729,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195828,
       "num": 195828,
       "word": "证监会回应近期股市波动",
@@ -1105,14 +1137,6 @@
       "onboard_time": 1706085991,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175803,
-      "num": 175803,
-      "word": "不喜欢的衣服留着上班穿",
-      "onboard_time": 1706087489,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 172767,
@@ -1211,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155169,
+      "num": 151288,
+      "word": "间谍过家家 次瓜见父母",
+      "onboard_time": 1706086527,
+      "rank": 35,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 154641,
       "num": 154641,
       "word": "杨紫帷帽遮面",
@@ -1259,6 +1291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 150499,
+      "num": 150499,
+      "word": "郑钦文vs卡林斯卡娅",
+      "onboard_time": 1706081613,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150383,
       "num": 150383,
       "word": "阿里巴巴回应马云蔡崇信大幅增持",
@@ -1299,20 +1339,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147377,
+      "num": 147377,
+      "word": "农学生寒假回家带科研梨1个重1斤",
+      "onboard_time": 1706088029,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147129,
       "num": 147129,
       "word": "秦海璐顶梁柱",
       "onboard_time": 1706083530,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145548,
-      "num": 145548,
-      "word": "间谍过家家 次瓜见父母",
-      "onboard_time": 1706086527,
-      "rank": 35,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 145148,
@@ -1579,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122285,
+      "num": 122285,
+      "word": "杨紫的刘海不听话",
+      "onboard_time": 1706088390,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122255,
       "num": 122255,
       "word": "河南学校火灾致13死4伤7人被抓",
@@ -1609,14 +1657,6 @@
       "onboard_time": 1706074469,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120839,
-      "num": 120839,
-      "word": "吃海鲜被章鱼喷墨",
-      "onboard_time": 1706087729,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 119024,
@@ -1763,14 +1803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102623,
-      "num": 102623,
-      "word": "郑钦文vs卡林斯卡娅",
-      "onboard_time": 1706081613,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 101230,
       "num": 101230,
       "word": "微博健康公开课",
@@ -1857,6 +1889,14 @@
       "onboard_time": 1706020772,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92185,
+      "num": 92185,
+      "word": "建议规范中医药养生保健市场",
+      "onboard_time": 1706088330,
+      "rank": 48,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 88948,
@@ -2004,7 +2044,7 @@
     },
     {
       "raw_hot": 48854,
-      "num": 1042245,
+      "num": 1268270,
       "word": "4分半回顾改革开放大事记",
       "onboard_time": 1706084793,
       "rank": 2,
