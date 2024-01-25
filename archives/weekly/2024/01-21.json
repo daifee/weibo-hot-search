@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706217299611,
+  "endTime": 1706218446096,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -14419,6 +14419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48218,
+      "num": 48218,
+      "word": "逃犯加入日本国籍后回国就被抓",
+      "onboard_time": 1706216475,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48068,
       "num": 204885,
       "word": "祁煜人鱼脆弱期",
@@ -14611,12 +14619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28623,
+      "num": 28623,
+      "word": "你愿意工资减少换退休金吗",
+      "onboard_time": 1706216775,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27692,
       "num": 27692,
       "word": "腰椎最喜欢的两个动作",
       "onboard_time": 1705956253,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 27491,
+      "num": 27491,
+      "word": "女子发现丈夫犯罪起诉离婚被驳",
+      "onboard_time": 1706216956,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27266,
@@ -14672,14 +14696,6 @@
       "word": "藏在中国探月海报里的彩蛋",
       "onboard_time": 1706068710,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22285,
-      "num": 17485,
-      "word": "逃犯加入日本国籍后回国就被抓",
-      "onboard_time": 1706216475,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -14739,6 +14755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 17285,
+      "num": 17285,
+      "word": "女子强行试衣服扯破后拒赔",
+      "onboard_time": 1706217796,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16003,
       "num": 16003,
       "word": "陈星旭章若楠重现求婚名场面",
@@ -14771,28 +14795,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 14002,
-      "num": 14002,
-      "word": "你愿意工资减少换退休金吗",
-      "onboard_time": 1706216775,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13800,
       "num": 13823,
       "word": "篮网vs湖人",
       "onboard_time": 1705788072,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13186,
-      "num": 13186,
-      "word": "女子发现丈夫犯罪起诉离婚被驳",
-      "onboard_time": 1706216956,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12686,
@@ -14825,6 +14833,14 @@
       "onboard_time": 1705893386,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11609,
+      "num": 11609,
+      "word": "练练 韦春红离婚堪比医美",
+      "onboard_time": 1706218215,
+      "rank": 47,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 11235,
