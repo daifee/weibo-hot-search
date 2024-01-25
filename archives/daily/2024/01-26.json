@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706200850829,
+  "endTime": 1706202994554,
   "band_list": [
     {
       "raw_hot": 1622115,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436458,
+      "num": 436458,
+      "word": "你支持取消离婚冷静期吗",
+      "onboard_time": 1706200587,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385378,
       "num": 385378,
       "word": "肖战路透",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 244829,
-      "num": 139091,
+      "num": 147132,
       "word": "迪丽热巴成都",
       "onboard_time": 1706191412,
       "rank": 22,
@@ -201,6 +209,14 @@
       "onboard_time": 1706196872,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150374,
+      "num": 115805,
+      "word": "韩国人防猝死套餐靠谱吗",
+      "onboard_time": 1706201424,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144223,
@@ -339,12 +355,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 80312,
-      "num": 80312,
+      "raw_hot": 89781,
+      "num": 89781,
       "word": "世界之外 我为什么成不了单推",
       "onboard_time": 1706198311,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 77122,
+      "num": 77122,
+      "word": "泡温泉会感染HPV和妇科病吗",
+      "onboard_time": 1706202084,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 75962,
@@ -352,14 +376,6 @@
       "word": "云南山体滑坡44人遇难",
       "onboard_time": 1706187275,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75598,
-      "num": 75598,
-      "word": "你支持取消离婚冷静期吗",
-      "onboard_time": 1706200587,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
