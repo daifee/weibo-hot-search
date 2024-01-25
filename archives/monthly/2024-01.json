@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706207844227,
+  "endTime": 1706210093381,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -68339,6 +68339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 35155,
+      "num": 27028,
+      "word": "长脸改短",
+      "onboard_time": 1706206700,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 35140,
       "num": 172564,
       "word": "娜扎中式老钱妆",
@@ -68659,8 +68667,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29295,
-      "num": 26666,
+      "raw_hot": 29337,
+      "num": 28229,
       "word": "辛芷蕾把花少团说哭了",
       "onboard_time": 1706206579,
       "rank": 49,
@@ -68747,6 +68755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27275,
+      "num": 27275,
+      "word": "巴黎街头中国簪花女孩惊艳外国人",
+      "onboard_time": 1706206521,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27266,
       "num": 215333,
       "word": "恋与深空恋爱外语两手抓",
@@ -68787,6 +68803,14 @@
       "category": "旅游,网红"
     },
     {
+      "raw_hot": 26179,
+      "num": 26179,
+      "word": "辛芷蕾笑着笑着就哭了",
+      "onboard_time": 1706208857,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25913,
       "num": 25913,
       "word": "最受欢迎动漫女角色榜单",
@@ -68801,14 +68825,6 @@
       "onboard_time": 1704133997,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 25041,
-      "num": 25041,
-      "word": "长脸改短",
-      "onboard_time": 1706206700,
-      "rank": 39,
-      "category": "美妆"
     },
     {
       "raw_hot": 25015,
@@ -69193,6 +69209,14 @@
       "onboard_time": 1705257315,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18264,
+      "num": 18264,
+      "word": "世界之外 卡关",
+      "onboard_time": 1706208738,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 18262,

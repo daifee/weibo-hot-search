@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706207844227,
+  "endTime": 1706210093381,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -14507,6 +14507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35155,
+      "num": 27028,
+      "word": "长脸改短",
+      "onboard_time": 1706206700,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 34301,
       "num": 34301,
       "word": "石宇奇连续两周进决赛",
@@ -14579,8 +14587,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29295,
-      "num": 26666,
+      "raw_hot": 29337,
+      "num": 28229,
       "word": "辛芷蕾把花少团说哭了",
       "onboard_time": 1706206579,
       "rank": 49,
@@ -14593,6 +14601,14 @@
       "onboard_time": 1705956253,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 27275,
+      "num": 27275,
+      "word": "巴黎街头中国簪花女孩惊艳外国人",
+      "onboard_time": 1706206521,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27266,
@@ -14619,12 +14635,12 @@
       "category": "音乐,电竞"
     },
     {
-      "raw_hot": 25041,
-      "num": 25041,
-      "word": "长脸改短",
-      "onboard_time": 1706206700,
-      "rank": 39,
-      "category": "美妆"
+      "raw_hot": 26179,
+      "num": 26179,
+      "word": "辛芷蕾笑着笑着就哭了",
+      "onboard_time": 1706208857,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 24685,
@@ -14681,6 +14697,14 @@
       "onboard_time": 1706169092,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 18264,
+      "num": 18264,
+      "word": "世界之外 卡关",
+      "onboard_time": 1706208738,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 18225,
