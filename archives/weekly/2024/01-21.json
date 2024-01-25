@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706192257887,
+  "endTime": 1706193360545,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -201,6 +201,14 @@
       "onboard_time": 1706020054,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1835263,
+      "num": 1835263,
+      "word": "减重100斤的贾玲惊呆潘斌龙",
+      "onboard_time": 1706191595,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 1814184,
@@ -1411,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 813270,
+      "num": 339830,
+      "word": "弭金秒删",
+      "onboard_time": 1706192133,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 813254,
       "num": 813254,
       "word": "深圳队宣布解散",
@@ -1457,14 +1473,6 @@
       "onboard_time": 1705844848,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 798199,
-      "num": 479356,
-      "word": "减重100斤的贾玲惊呆潘斌龙",
-      "onboard_time": 1706191595,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 793785,
@@ -2443,6 +2451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 567616,
+      "num": 360256,
+      "word": "弭金 吓到大家不好意思",
+      "onboard_time": 1706190813,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 567160,
       "num": 239446,
       "word": "44岁女高管被老公要求不生孩子就离婚",
@@ -2681,14 +2697,6 @@
       "onboard_time": 1705837646,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 523245,
-      "num": 360256,
-      "word": "弭金 吓到大家不好意思",
-      "onboard_time": 1706190813,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 522618,
@@ -3481,6 +3489,14 @@
       "onboard_time": 1705975646,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428049,
+      "num": 246311,
+      "word": "迪丽热巴成都",
+      "onboard_time": 1706191412,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 427933,
@@ -5227,28 +5243,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 293434,
+      "num": 293434,
+      "word": "宝爸辞职做自媒体有多心酸",
+      "onboard_time": 1706186556,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292461,
       "num": 292461,
       "word": "国足0比1卡塔尔",
       "onboard_time": 1705965320,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 289077,
-      "num": 246311,
-      "word": "迪丽热巴成都",
-      "onboard_time": 1706191412,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 288876,
-      "num": 288876,
-      "word": "宝爸辞职做自媒体有多心酸",
-      "onboard_time": 1706186556,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 288863,
@@ -5425,6 +5433,14 @@
       "onboard_time": 1705762112,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 282088,
+      "num": 248985,
+      "word": "中石油涨停意味着什么",
+      "onboard_time": 1706189492,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 280761,
@@ -6057,14 +6073,6 @@
       "onboard_time": 1705889726,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 248985,
-      "num": 248985,
-      "word": "中石油涨停意味着什么",
-      "onboard_time": 1706189492,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 248904,
@@ -7113,6 +7121,14 @@
       "onboard_time": 1705835669,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212660,
+      "num": 212660,
+      "word": "中字头股票3天市值暴增1万亿",
+      "onboard_time": 1706192133,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 212617,
@@ -8435,14 +8451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187268,
-      "num": 187268,
-      "word": "弭金秒删",
-      "onboard_time": 1706192133,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 187223,
       "num": 187223,
       "word": "2024KPL春季赛赛程",
@@ -8609,6 +8617,14 @@
       "onboard_time": 1705988545,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184493,
+      "num": 189709,
+      "word": "云南挂牌督办在建高速8死事故",
+      "onboard_time": 1706191954,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184484,
@@ -9707,6 +9723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164432,
+      "num": 191817,
+      "word": "老鼠躺猫妈怀里每天和幼猫一起睡",
+      "onboard_time": 1706191715,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164274,
       "num": 164274,
       "word": "2024LPL春季赛",
@@ -9833,14 +9857,6 @@
       "onboard_time": 1706171491,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 161862,
-      "num": 191817,
-      "word": "老鼠躺猫妈怀里每天和幼猫一起睡",
-      "onboard_time": 1706191715,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 161705,
@@ -10923,6 +10939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143377,
+      "num": 143377,
+      "word": "国产剧第一个活明白的女孩",
+      "onboard_time": 1706193213,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143321,
       "num": 143321,
       "word": "新娘到底是怎么说服伴娘的",
@@ -11001,6 +11025,14 @@
       "onboard_time": 1705795339,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142077,
+      "num": 142077,
+      "word": "云南山体滑坡新闻发布会",
+      "onboard_time": 1706192795,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142071,
@@ -11505,14 +11537,6 @@
       "onboard_time": 1705930046,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134183,
-      "num": 189709,
-      "word": "云南挂牌督办在建高速8死事故",
-      "onboard_time": 1706191954,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134115,
@@ -12043,6 +12067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127224,
+      "num": 127224,
+      "word": "试工一天被劝退",
+      "onboard_time": 1706191895,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127111,
       "num": 127111,
       "word": "蚂蚁那么小是有原因的",
@@ -12235,20 +12267,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123442,
+      "num": 123442,
+      "word": "2023年全球一百名时尚界领军人物",
+      "onboard_time": 1706192254,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 123316,
       "num": 123316,
       "word": "南方人自制冻梨翻车",
       "onboard_time": 1706055449,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123117,
-      "num": 123117,
-      "word": "中字头股票3天市值暴增1万亿",
-      "onboard_time": 1706192133,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 123065,
@@ -14219,6 +14251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39300,
+      "num": 1226879,
+      "word": "何以中国的文明密码",
+      "onboard_time": 1706192194,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39040,
       "num": 295365,
       "word": "元梦之星千架无人机送祝福",
@@ -14513,14 +14553,6 @@
       "onboard_time": 1705986689,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 5848,
-      "num": 954494,
-      "word": "何以中国的文明密码",
-      "onboard_time": 1706192194,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5769,

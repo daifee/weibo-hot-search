@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706192257887,
+  "endTime": 1706193360545,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1435,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1835263,
+      "num": 1835263,
+      "word": "减重100斤的贾玲惊呆潘斌龙",
+      "onboard_time": 1706191595,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1833494,
       "num": 1833494,
       "word": "女子到银行存10万现金被问钱来源",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704546575,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1499413,
-      "num": 1499413,
-      "word": "华图 敢耍老子",
-      "onboard_time": 1704635614,
-      "rank": 3,
-      "category": "教育"
     }
   ],
   "hotgov_list": [
