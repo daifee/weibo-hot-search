@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706171801948,
+  "endTime": 1706174301923,
   "band_list": [
     {
       "raw_hot": 7797604,
@@ -169,6 +169,14 @@
       "onboard_time": 1706020054,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1845867,
+      "num": 1845867,
+      "word": "祖国统一台湾当归解放军始终以行动说话",
+      "onboard_time": 1706170892,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1814184,
@@ -515,6 +523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1279712,
+      "num": 1279712,
+      "word": "奚梦瑶卖奢侈品包包10块一件",
+      "onboard_time": 1706172150,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1278281,
       "num": 1278281,
       "word": "张黎 举报前已做好最坏打算",
@@ -569,6 +585,14 @@
       "onboard_time": 1705907186,
       "rank": 13,
       "category": "社会新闻,电影"
+    },
+    {
+      "raw_hot": 1225374,
+      "num": 1225374,
+      "word": "华中农大被查教授论文中18亿买猪饲料",
+      "onboard_time": 1706170831,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1220836,
@@ -739,14 +763,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1081531,
-      "num": 1081531,
-      "word": "祖国统一台湾当归解放军始终以行动说话",
-      "onboard_time": 1706170892,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1078046,
       "num": 1078046,
       "word": "0713春晚联排13进9",
@@ -857,6 +873,14 @@
       "onboard_time": 1705835008,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 993773,
+      "num": 993773,
+      "word": "男人花期真的很短",
+      "onboard_time": 1706168311,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 993041,
@@ -1313,14 +1337,6 @@
       "onboard_time": 1705844848,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 795216,
-      "num": 795216,
-      "word": "男人花期真的很短",
-      "onboard_time": 1706168311,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 793785,
@@ -2147,6 +2163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 579281,
+      "num": 579281,
+      "word": "张馨予低温烫伤",
+      "onboard_time": 1706171010,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578197,
       "num": 578197,
       "word": "6只狗仔被人掰断腿骨头裸露在外",
@@ -2169,14 +2193,6 @@
       "onboard_time": 1705840528,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 576681,
-      "num": 576681,
-      "word": "华中农大被查教授论文中18亿买猪饲料",
-      "onboard_time": 1706170831,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 576530,
@@ -2819,14 +2835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 472927,
-      "num": 472927,
-      "word": "张馨予低温烫伤",
-      "onboard_time": 1706171010,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 472033,
       "num": 472033,
       "word": "阿娇阿Sa真亲了吗",
@@ -2985,6 +2993,14 @@
       "onboard_time": 1705928484,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 452589,
+      "num": 452589,
+      "word": "于正说要好看得瘦到85斤",
+      "onboard_time": 1706169810,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 452588,
@@ -3299,6 +3315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 418975,
+      "num": 306977,
+      "word": "医生从听力减退小伙耳道拽出蘑菇",
+      "onboard_time": 1706173414,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417709,
       "num": 417709,
       "word": "虞书欣司机在高速倒车交警已介入",
@@ -3417,6 +3441,14 @@
       "onboard_time": 1705799726,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 404043,
+      "num": 306865,
+      "word": "男子偷70斤香肠被抓时已全吃完",
+      "onboard_time": 1706171372,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403631,
@@ -3596,7 +3628,7 @@
     },
     {
       "raw_hot": 392248,
-      "num": 278414,
+      "num": 306063,
       "word": "走亲戚花了一千五买年货",
       "onboard_time": 1706169990,
       "rank": 20,
@@ -3616,6 +3648,14 @@
       "word": "成都好大的雪",
       "onboard_time": 1706020232,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389977,
+      "num": 389977,
+      "word": "新余火灾离世学生准备专升本2年半",
+      "onboard_time": 1706172092,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3737,6 +3777,14 @@
       "onboard_time": 1705796724,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379737,
+      "num": 379737,
+      "word": "俞敏洪同意去蔡磊直播间卖货",
+      "onboard_time": 1706170653,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 379455,
@@ -4059,6 +4107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 348430,
+      "num": 348430,
+      "word": "朴信惠啥时候结的婚",
+      "onboard_time": 1706172631,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348331,
       "num": 348331,
       "word": "花少播完了我该判给谁",
@@ -4128,14 +4184,6 @@
       "word": "阿祖你 我哭死",
       "onboard_time": 1705910488,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 344475,
-      "num": 344475,
-      "word": "于正说要好看得瘦到85斤",
-      "onboard_time": 1706169810,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -4659,6 +4707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 307108,
+      "num": 307108,
+      "word": "男明星簪花造型",
+      "onboard_time": 1706172572,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 306790,
       "num": 306790,
       "word": "C罗董方卓拥抱",
@@ -4833,14 +4889,6 @@
       "onboard_time": 1705992686,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 296703,
-      "num": 296703,
-      "word": "俞敏洪同意去蔡磊直播间卖货",
-      "onboard_time": 1706170653,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 296466,
@@ -5049,6 +5097,14 @@
       "onboard_time": 1706018854,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 282539,
+      "num": 282539,
+      "word": "新加坡免签受益人王俊凯",
+      "onboard_time": 1706173829,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 282485,
@@ -6115,6 +6171,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 229744,
+      "num": 170349,
+      "word": "日本歌手Shiho感谢中国女孩",
+      "onboard_time": 1706173294,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229336,
       "num": 229336,
       "word": "山东菏泽一仓房爆炸照亮黑夜",
@@ -6441,14 +6505,6 @@
       "onboard_time": 1706094511,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 218905,
-      "num": 218905,
-      "word": "男子偷70斤香肠被抓时已全吃完",
-      "onboard_time": 1706171372,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218687,
@@ -8715,6 +8771,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 170554,
+      "num": 170554,
+      "word": "哈尔滨回应打造羽绒服品牌建议",
+      "onboard_time": 1706173230,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170538,
       "num": 170538,
       "word": "若华官配",
@@ -8817,6 +8881,14 @@
       "onboard_time": 1705926747,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168848,
+      "num": 168848,
+      "word": "新余火灾救人者称浓烟吃不消",
+      "onboard_time": 1706173655,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168764,
@@ -9107,6 +9179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163534,
+      "num": 163534,
+      "word": "鹦鹉爱说脏话被罚和不会说的关一起",
+      "onboard_time": 1706172752,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163236,
       "num": 163236,
       "word": "蓝亦菲在关超婚礼上出现了",
@@ -9313,6 +9393,14 @@
       "onboard_time": 1706012430,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158844,
+      "num": 158844,
+      "word": "哈尔滨 NorthEast羽绒服",
+      "onboard_time": 1706172513,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 158795,
@@ -10755,6 +10843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135125,
+      "num": 135125,
+      "word": "渐冻症",
+      "onboard_time": 1706172332,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135116,
       "num": 135116,
       "word": "逆转裁判456发售",
@@ -11411,6 +11507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125165,
+      "num": 125165,
+      "word": "人最怕的就是进入心理上的死胡同",
+      "onboard_time": 1706172992,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124996,
       "num": 124996,
       "word": "郑书意蒋翼同款妆造",
@@ -11425,6 +11529,14 @@
       "onboard_time": 1705797445,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124599,
+      "num": 124599,
+      "word": "泡面 占卜",
+      "onboard_time": 1706174192,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 124364,
@@ -11673,6 +11785,14 @@
       "onboard_time": 1706022332,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119624,
+      "num": 119624,
+      "word": "雪落敦煌鸣沙山美如诗画",
+      "onboard_time": 1706174255,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 119523,
@@ -13459,6 +13579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 29990,
+      "num": 1484873,
+      "word": "中山站建站35周年",
+      "onboard_time": 1706157030,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29580,
       "num": 29580,
       "word": "更适合大学生体质的托管所",
@@ -13536,14 +13664,6 @@
       "word": "一场在地震中完成的紧急开颅手术",
       "onboard_time": 1706042535,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20689,
-      "num": 1153735,
-      "word": "中山站建站35周年",
-      "onboard_time": 1706157030,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
