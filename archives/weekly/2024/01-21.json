@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706182440756,
+  "endTime": 1706186082700,
   "band_list": [
     {
       "raw_hot": 7797604,
@@ -17,6 +17,14 @@
       "onboard_time": 1706098652,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5825081,
+      "num": 5825081,
+      "word": "徐娇怼于正",
+      "onboard_time": 1706183971,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 3927509,
@@ -595,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1230277,
+      "num": 788835,
+      "word": "徐娇 让人瘦到85是有多歹毒",
+      "onboard_time": 1706184993,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1230180,
       "num": 1230180,
       "word": "王俊凯 很后悔昨天睡觉了",
@@ -987,6 +1003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 969565,
+      "num": 969565,
+      "word": "轰动了整个阅卷组",
+      "onboard_time": 1706180193,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 964994,
       "num": 964994,
       "word": "女生瘦20斤回家后遭爷爷霸总式投喂",
@@ -1179,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 868012,
-      "num": 868012,
-      "word": "轰动了整个阅卷组",
-      "onboard_time": 1706180193,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 867442,
       "num": 867442,
       "word": "个人养老金制度将推进全面实施",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1705819166,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 821271,
+      "num": 821271,
+      "word": "女子离婚冷静期内被丈夫杀害",
+      "onboard_time": 1706181631,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 818534,
@@ -1505,6 +1529,14 @@
       "onboard_time": 1705889906,
       "rank": 13,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 747445,
+      "num": 747445,
+      "word": "杨紫演技",
+      "onboard_time": 1706184628,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 745326,
@@ -1915,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647075,
+      "num": 647075,
+      "word": "离世培训机构学生出租屋备着切好的菜",
+      "onboard_time": 1706180132,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 645369,
       "num": 645369,
       "word": "吴京的腿怎么了",
@@ -2283,6 +2323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 576427,
+      "num": 536215,
+      "word": "秦海璐回复王新军",
+      "onboard_time": 1706183790,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 573719,
       "num": 573719,
       "word": "吴彦祖 亚裔芭比刻板印象",
@@ -2627,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511687,
+      "num": 511687,
+      "word": "花少5一场盛大的be美学",
+      "onboard_time": 1706180729,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509800,
       "num": 509800,
       "word": "知道学生为什么清澈了",
@@ -2840,6 +2896,14 @@
       "word": "郭敬明 大梦归离有自己的小时代",
       "onboard_time": 1705910547,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 480065,
+      "num": 326583,
+      "word": "于正审美",
+      "onboard_time": 1706184452,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -3299,14 +3363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434398,
-      "num": 434398,
-      "word": "花少5一场盛大的be美学",
-      "onboard_time": 1706180729,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 434243,
       "num": 434243,
       "word": "金莎首次上节目回应比男友大19岁",
@@ -3409,6 +3465,14 @@
       "onboard_time": 1705848448,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 421580,
+      "num": 255144,
+      "word": "赵晴身高",
+      "onboard_time": 1706185318,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 421444,
@@ -4355,14 +4419,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 342792,
-      "num": 342792,
-      "word": "女子离婚冷静期内被丈夫杀害",
-      "onboard_time": 1706181631,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342126,
       "num": 233786,
       "word": "点外卖误把老板备注成了老爸",
@@ -4771,14 +4827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314213,
-      "num": 314213,
-      "word": "离世培训机构学生出租屋备着切好的菜",
-      "onboard_time": 1706180132,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313463,
       "num": 313463,
       "word": "射雕英雄传年内上映",
@@ -5139,6 +5187,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 287198,
+      "num": 245331,
+      "word": "为什么结婚后都容易变胖",
+      "onboard_time": 1706183613,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 287031,
       "num": 262174,
       "word": "为什么建议年轻人要学会送礼",
@@ -5433,6 +5489,14 @@
       "onboard_time": 1705978465,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273488,
+      "num": 273488,
+      "word": "郑钦文VS雅斯特列姆斯卡",
+      "onboard_time": 1706178873,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 272778,
@@ -5787,6 +5851,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 252605,
+      "num": 218692,
+      "word": "王鹤棣直播",
+      "onboard_time": 1706184153,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252482,
       "num": 252482,
       "word": "Uzi谈RNG假赛谣言",
@@ -5857,6 +5929,14 @@
       "onboard_time": 1706007209,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249901,
+      "num": 218467,
+      "word": "辛芷蕾选的照片是靠在胡先煦肩上",
+      "onboard_time": 1706183070,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 249454,
@@ -6297,6 +6377,14 @@
       "onboard_time": 1706165912,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231813,
+      "num": 188666,
+      "word": "陶喆演唱会",
+      "onboard_time": 1706185290,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 231607,
@@ -7011,14 +7099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210008,
-      "num": 210008,
-      "word": "郑钦文VS雅斯特列姆斯卡",
-      "onboard_time": 1706178873,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209994,
       "num": 209994,
       "word": "俞敏洪称猪被逼到墙角也咬人",
@@ -7281,6 +7361,14 @@
       "onboard_time": 1705978583,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204407,
+      "num": 188501,
+      "word": "花儿与少年5",
+      "onboard_time": 1706184089,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 204342,
@@ -7585,6 +7673,14 @@
       "onboard_time": 1705843229,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198945,
+      "num": 188354,
+      "word": "秦海璐穿了吊带红裙",
+      "onboard_time": 1706185831,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198801,
@@ -8179,6 +8275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 187351,
+      "num": 187351,
+      "word": "一只被送错的狗狗",
+      "onboard_time": 1706185594,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187223,
       "num": 187223,
       "word": "2024KPL春季赛赛程",
@@ -8681,6 +8785,14 @@
       "onboard_time": 1705918530,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177401,
+      "num": 177401,
+      "word": "内娱女子组合TFGirls",
+      "onboard_time": 1706186073,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177277,
@@ -9969,6 +10081,22 @@
       "onboard_time": 1706167891,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153747,
+      "num": 153747,
+      "word": "网友票选韩娱六大美女",
+      "onboard_time": 1706183370,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153694,
+      "num": 127495,
+      "word": "迪丽热巴要做最快乐的巴巴",
+      "onboard_time": 1706184153,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 153650,
@@ -11803,6 +11931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125129,
+      "num": 125129,
+      "word": "gala对线",
+      "onboard_time": 1706185952,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124996,
       "num": 124996,
       "word": "郑书意蒋翼同款妆造",
@@ -11840,6 +11976,14 @@
       "word": "朱鹮雪中起舞水墨画瞬间活了起来",
       "onboard_time": 1705809626,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123645,
+      "num": 123645,
+      "word": "新余",
+      "onboard_time": 1706184513,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

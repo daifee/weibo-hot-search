@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706182440756,
+  "endTime": 1706186082700,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -177,6 +177,14 @@
       "onboard_time": 1704173134,
       "rank": 0,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 5825081,
+      "num": 5825081,
+      "word": "徐娇怼于正",
+      "onboard_time": 1706183971,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 5781277,
@@ -3643,6 +3651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1230277,
+      "num": 788835,
+      "word": "徐娇 让人瘦到85是有多歹毒",
+      "onboard_time": 1706184993,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1230202,
       "num": 3034054,
       "word": "女生未满19岁确诊卵巢早衰",
@@ -5747,6 +5763,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 969565,
+      "num": 969565,
+      "word": "轰动了整个阅卷组",
+      "onboard_time": 1706180193,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 969009,
       "num": 969009,
       "word": "一个人骂我 说明不了什么",
@@ -6835,14 +6859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 868012,
-      "num": 868012,
-      "word": "轰动了整个阅卷组",
-      "onboard_time": 1706180193,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 867930,
       "num": 867930,
       "word": "赵露思哭到颤抖",
@@ -7592,6 +7608,14 @@
       "word": "谷歌殴打妻子致死工程师被控谋杀重罪",
       "onboard_time": 1705754727,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 821271,
+      "num": 821271,
+      "word": "女子离婚冷静期内被丈夫杀害",
+      "onboard_time": 1706181631,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -8961,6 +8985,14 @@
       "onboard_time": 1705289549,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 747445,
+      "num": 747445,
+      "word": "杨紫演技",
+      "onboard_time": 1706184628,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 747216,
@@ -11323,6 +11355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 647075,
+      "num": 647075,
+      "word": "离世培训机构学生出租屋备着切好的菜",
+      "onboard_time": 1706180132,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 647062,
       "num": 647062,
       "word": "玲花是来争夺赵露思抚养权的",
@@ -13393,6 +13433,14 @@
       "onboard_time": 1705966340,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 576427,
+      "num": 536215,
+      "word": "秦海璐回复王新军",
+      "onboard_time": 1706183790,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 576135,
@@ -15603,6 +15651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 511687,
+      "num": 511687,
+      "word": "花少5一场盛大的be美学",
+      "onboard_time": 1706180729,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511498,
       "num": 511498,
       "word": "游本昌王菊合照",
@@ -16864,6 +16920,14 @@
       "word": "郭敬明 大梦归离有自己的小时代",
       "onboard_time": 1705910547,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 480065,
+      "num": 326583,
+      "word": "于正审美",
+      "onboard_time": 1706184452,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -18787,14 +18851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434398,
-      "num": 434398,
-      "word": "花少5一场盛大的be美学",
-      "onboard_time": 1706180729,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 434243,
       "num": 434243,
       "word": "金莎首次上节目回应比男友大19岁",
@@ -19361,6 +19417,14 @@
       "onboard_time": 1705676491,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 421580,
+      "num": 255144,
+      "word": "赵晴身高",
+      "onboard_time": 1706185318,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 421444,
@@ -23347,14 +23411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342792,
-      "num": 342792,
-      "word": "女子离婚冷静期内被丈夫杀害",
-      "onboard_time": 1706181631,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342703,
       "num": 281642,
       "word": "工作一年了你攒了多少钱",
@@ -25144,14 +25200,6 @@
       "word": "17年前被入室抢走的姜甲儒找到了",
       "onboard_time": 1705956913,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314213,
-      "num": 314213,
-      "word": "离世培训机构学生出租屋备着切好的菜",
-      "onboard_time": 1706180132,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -27179,6 +27227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 287198,
+      "num": 245331,
+      "word": "为什么结婚后都容易变胖",
+      "onboard_time": 1706183613,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 287031,
       "num": 262174,
       "word": "为什么建议年轻人要学会送礼",
@@ -28233,6 +28289,14 @@
       "onboard_time": 1705978465,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273488,
+      "num": 273488,
+      "word": "郑钦文VS雅斯特列姆斯卡",
+      "onboard_time": 1706178873,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 273466,
@@ -30179,6 +30243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252605,
+      "num": 218692,
+      "word": "王鹤棣直播",
+      "onboard_time": 1706184153,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252604,
       "num": 252604,
       "word": "宋运辉梁思申 心动的信号",
@@ -30473,6 +30545,14 @@
       "onboard_time": 1705058848,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249901,
+      "num": 218467,
+      "word": "辛芷蕾选的照片是靠在胡先煦肩上",
+      "onboard_time": 1706183070,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 249705,
@@ -32681,6 +32761,14 @@
       "onboard_time": 1704870331,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231813,
+      "num": 188666,
+      "word": "陶喆演唱会",
+      "onboard_time": 1706185290,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 231805,
@@ -35995,14 +36083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 210008,
-      "num": 210008,
-      "word": "郑钦文VS雅斯特列姆斯卡",
-      "onboard_time": 1706178873,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209994,
       "num": 209994,
       "word": "俞敏洪称猪被逼到墙角也咬人",
@@ -37209,6 +37289,14 @@
       "onboard_time": 1704508828,
       "rank": 25,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 204407,
+      "num": 188501,
+      "word": "花儿与少年5",
+      "onboard_time": 1706184089,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 204391,
@@ -38641,6 +38729,14 @@
       "onboard_time": 1704706409,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 198945,
+      "num": 188354,
+      "word": "秦海璐穿了吊带红裙",
+      "onboard_time": 1706185831,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198941,
@@ -41651,6 +41747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187351,
+      "num": 187351,
+      "word": "一只被送错的狗狗",
+      "onboard_time": 1706185594,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187341,
       "num": 155623,
       "word": "偷偷跑回家见妈妈",
@@ -44113,6 +44217,14 @@
       "onboard_time": 1704267089,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 177401,
+      "num": 177401,
+      "word": "内娱女子组合TFGirls",
+      "onboard_time": 1706186073,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177346,
@@ -50145,6 +50257,22 @@
       "onboard_time": 1704681390,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153747,
+      "num": 153747,
+      "word": "网友票选韩娱六大美女",
+      "onboard_time": 1706183370,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153694,
+      "num": 127495,
+      "word": "迪丽热巴要做最快乐的巴巴",
+      "onboard_time": 1706184153,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 153650,
@@ -58267,6 +58395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125129,
+      "num": 125129,
+      "word": "gala对线",
+      "onboard_time": 1706185952,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125112,
       "num": 125112,
       "word": "小砂糖橘感谢东北的老铁们",
@@ -58624,6 +58760,14 @@
       "word": "朱鹮雪中起舞水墨画瞬间活了起来",
       "onboard_time": 1705809626,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123645,
+      "num": 123645,
+      "word": "新余",
+      "onboard_time": 1706184513,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

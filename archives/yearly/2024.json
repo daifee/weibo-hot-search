@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706182440756,
+  "endTime": 1706186082700,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -177,6 +177,14 @@
       "onboard_time": 1704173134,
       "rank": 0,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 5825081,
+      "num": 5825081,
+      "word": "徐娇怼于正",
+      "onboard_time": 1706183971,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 5781277,
@@ -2392,14 +2400,6 @@
       "word": "华中农大组建导师组负责黄某某研究生培养",
       "onboard_time": 1705622786,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1485694,
-      "num": 1188259,
-      "word": "华中农大再回应教授被举报学术不端事件",
-      "onboard_time": 1705582588,
-      "rank": 6,
       "category": "社会新闻"
     }
   ],
