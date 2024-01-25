@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706177977240,
+  "endTime": 1706179070747,
   "band_list": [
     {
       "raw_hot": 7797604,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3479106,
-      "num": 3479106,
+      "raw_hot": 3592037,
+      "num": 3592037,
       "word": "谢楠回应被劝离婚",
       "onboard_time": 1706176892,
       "rank": 0,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1221119,
+      "num": 696790,
+      "word": "谢楠吴京 我们足够相爱",
+      "onboard_time": 1706176832,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1220836,
       "num": 1220836,
       "word": "男子性侵少女被判无罪后检察机关抗诉",
@@ -211,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 864098,
+      "num": 864098,
+      "word": "爱情公寓3的发布会",
+      "onboard_time": 1706175991,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 856187,
       "num": 856187,
       "word": "培训班有学生逃课买衣服避过火灾",
@@ -259,14 +275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 759237,
-      "num": 759237,
-      "word": "爱情公寓3的发布会",
-      "onboard_time": 1706175991,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 740926,
       "num": 740926,
       "word": "江西新余火灾12名责任人被控制",
@@ -288,6 +296,22 @@
       "word": "江西新余火灾",
       "onboard_time": 1706160151,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 700543,
+      "num": 700543,
+      "word": "汪峰女儿 那英公司",
+      "onboard_time": 1706177912,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 689534,
+      "num": 689534,
+      "word": "新余火灾中培训班为临时加课",
+      "onboard_time": 1706178153,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -321,14 +345,6 @@
       "onboard_time": 1706166630,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 632330,
-      "num": 632330,
-      "word": "谢楠吴京 我们足够相爱",
-      "onboard_time": 1706176832,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 592009,
@@ -683,6 +699,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 375242,
+      "num": 1956982,
+      "word": "这杯泼天的富贵我先干了",
+      "onboard_time": 1706176294,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 371322,
       "num": 371322,
       "word": "东方甄选带货57亿营收28亿",
@@ -836,7 +860,7 @@
     },
     {
       "raw_hot": 316284,
-      "num": 277733,
+      "num": 300581,
       "word": "秦岚抱歉忽略了辛芷蕾",
       "onboard_time": 1706174731,
       "rank": 30,
@@ -899,14 +923,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 299430,
-      "num": 1409424,
-      "word": "这杯泼天的富贵我先干了",
-      "onboard_time": 1706176294,
-      "rank": 1,
-      "category": "美食"
-    },
-    {
       "raw_hot": 298760,
       "num": 298760,
       "word": "游本昌回应一夜之间又红了",
@@ -921,6 +937,14 @@
       "onboard_time": 1706157453,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296060,
+      "num": 296060,
+      "word": "39岁日本妈妈准备生第10胎",
+      "onboard_time": 1706177431,
+      "rank": 33,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 288180,
@@ -1107,6 +1131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230352,
+      "num": 230352,
+      "word": "新余火灾涉事机构经营范围不含培训",
+      "onboard_time": 1706178034,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229779,
       "num": 229779,
       "word": "MAC像个大疯子",
@@ -1187,20 +1219,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 219210,
+      "num": 219210,
+      "word": "女子称7万元做磨骨后火箭式衰老",
+      "onboard_time": 1706178331,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218687,
       "num": 218687,
       "word": "大熊猫野外种群总量增至近1900只",
       "onboard_time": 1706149289,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217915,
-      "num": 217915,
-      "word": "39岁日本妈妈准备生第10胎",
-      "onboard_time": 1706177431,
-      "rank": 33,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 217611,
@@ -1299,12 +1331,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 203734,
+      "num": 203734,
+      "word": "郑钦文VS雅斯特列姆斯卡",
+      "onboard_time": 1706178873,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202861,
       "num": 202861,
       "word": "第五人格",
       "onboard_time": 1706154813,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202789,
+      "num": 202789,
+      "word": "中国冰淇淋在韩国爆火",
+      "onboard_time": 1706178994,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 202036,
@@ -1443,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191226,
+      "num": 191226,
+      "word": "世界之外天地无束",
+      "onboard_time": 1706178994,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191102,
       "num": 191102,
       "word": "2024KPL春季赛大名单",
@@ -1523,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183909,
+      "num": 1188287,
+      "word": "睿宝再现老爸乐宝经典动作",
+      "onboard_time": 1706176232,
+      "rank": 4,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 183685,
       "num": 183685,
       "word": "A股超百股涨停",
@@ -1553,14 +1617,6 @@
       "onboard_time": 1706149348,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178339,
-      "num": 1188287,
-      "word": "睿宝再现老爸乐宝经典动作",
-      "onboard_time": 1706176232,
-      "rank": 4,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 177636,
@@ -2043,6 +2099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117793,
+      "num": 117793,
+      "word": "OPPO小折叠登顶中国市场第一",
+      "onboard_time": 1706178573,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 117642,
       "num": 117642,
       "word": "接在外打工的妈妈回家过年",
@@ -2081,14 +2145,6 @@
       "onboard_time": 1706103573,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114094,
-      "num": 114094,
-      "word": "汪峰女儿 那英公司",
-      "onboard_time": 1706177912,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 113780,
@@ -2291,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57431,
+      "num": 595629,
+      "word": "2024宝石老舅又不服了",
+      "onboard_time": 1706169631,
+      "rank": 47,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 54013,
       "num": 54013,
       "word": "恋与深空 永远有哥哥罩着",
@@ -2345,14 +2409,6 @@
       "onboard_time": 1706117241,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 35747,
-      "num": 595629,
-      "word": "2024宝石老舅又不服了",
-      "onboard_time": 1706169631,
-      "rank": 47,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 33565,
