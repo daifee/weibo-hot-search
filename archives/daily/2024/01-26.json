@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706214866831,
+  "endTime": 1706217299611,
   "band_list": [
     {
       "raw_hot": 1622115,
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91396,
+      "num": 91396,
+      "word": "女子列车吧唧嘴3小时大爷崩溃",
+      "onboard_time": 1706212396,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90220,
       "num": 90220,
       "word": "秦海璐穿了吊带红裙",
@@ -417,14 +425,6 @@
       "onboard_time": 1706194832,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 62890,
-      "num": 62890,
-      "word": "女子列车吧唧嘴3小时大爷崩溃",
-      "onboard_time": 1706212396,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57750,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22285,
+      "num": 17485,
+      "word": "逃犯加入日本国籍后回国就被抓",
+      "onboard_time": 1706216475,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18264,
       "num": 18264,
       "word": "世界之外 卡关",
@@ -505,6 +513,22 @@
       "onboard_time": 1706213236,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14002,
+      "num": 14002,
+      "word": "你愿意工资减少换退休金吗",
+      "onboard_time": 1706216775,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13186,
+      "num": 13186,
+      "word": "女子发现丈夫犯罪起诉离婚被驳",
+      "onboard_time": 1706216956,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9848,
