@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706186082700,
+  "endTime": 1706187038786,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8309889,
+      "num": 8309889,
+      "word": "徐娇怼于正",
+      "onboard_time": 1706183971,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 7952941,
       "num": 7952941,
       "word": "杨紫三获微博Queen",
@@ -177,14 +185,6 @@
       "onboard_time": 1704173134,
       "rank": 0,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 5825081,
-      "num": 5825081,
-      "word": "徐娇怼于正",
-      "onboard_time": 1706183971,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 5781277,
@@ -1531,6 +1531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1784876,
+      "num": 1001807,
+      "word": "徐娇 让人瘦到85是有多歹毒",
+      "onboard_time": 1706184993,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1778466,
       "num": 539179,
       "word": "私密整形一夜爆火",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704155016,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1485766,
-      "num": 1485766,
-      "word": "华中农大组建导师组负责黄某某研究生培养",
-      "onboard_time": 1705622786,
-      "rank": 1,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

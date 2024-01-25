@@ -1,7 +1,15 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706186082700,
+  "endTime": 1706187038786,
   "band_list": [
+    {
+      "raw_hot": 8309889,
+      "num": 8309889,
+      "word": "徐娇怼于正",
+      "onboard_time": 1706183971,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 7797604,
       "num": 8254922,
@@ -9,14 +17,6 @@
       "onboard_time": 1706166154,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5825081,
-      "num": 5825081,
-      "word": "徐娇怼于正",
-      "onboard_time": 1706183971,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 3592037,
@@ -65,6 +65,14 @@
       "onboard_time": 1706154332,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1784876,
+      "num": 1001807,
+      "word": "徐娇 让人瘦到85是有多歹毒",
+      "onboard_time": 1706184993,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1767184,
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1230277,
-      "num": 788835,
-      "word": "徐娇 让人瘦到85是有多歹毒",
-      "onboard_time": 1706184993,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1220836,
       "num": 1220836,
       "word": "男子性侵少女被判无罪后检察机关抗诉",
@@ -161,6 +161,14 @@
       "onboard_time": 1706108254,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1078859,
+      "num": 1078859,
+      "word": "赵晴身高",
+      "onboard_time": 1706185318,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1071730,
@@ -185,6 +193,14 @@
       "onboard_time": 1706162912,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1011368,
+      "num": 1011368,
+      "word": "郑钦文VS雅斯特列姆斯卡",
+      "onboard_time": 1706178873,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 993773,
@@ -291,8 +307,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 821271,
-      "num": 821271,
+      "raw_hot": 828151,
+      "num": 828151,
       "word": "女子离婚冷静期内被丈夫杀害",
       "onboard_time": 1706181631,
       "rank": 20,
@@ -564,7 +580,7 @@
     },
     {
       "raw_hot": 480065,
-      "num": 326583,
+      "num": 450989,
       "word": "于正审美",
       "onboard_time": 1706184452,
       "rank": 15,
@@ -697,14 +713,6 @@
       "onboard_time": 1706148030,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 421580,
-      "num": 255144,
-      "word": "赵晴身高",
-      "onboard_time": 1706185318,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 418917,
@@ -859,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352793,
+      "num": 219160,
+      "word": "秦海璐穿了吊带红裙",
+      "onboard_time": 1706185831,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 352191,
       "num": 151586,
       "word": "江西 火灾",
@@ -995,6 +1011,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 305303,
+      "num": 245331,
+      "word": "为什么结婚后都容易变胖",
+      "onboard_time": 1706183613,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 302771,
       "num": 302771,
       "word": "东北冻梨原来是道年夜菜",
@@ -1067,14 +1091,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 287198,
-      "num": 245331,
-      "word": "为什么结婚后都容易变胖",
-      "onboard_time": 1706183613,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 276429,
       "num": 245308,
       "word": "妈妈不小心把我送她的耳环弄掉了",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1706139626,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273488,
-      "num": 273488,
-      "word": "郑钦文VS雅斯特列姆斯卡",
-      "onboard_time": 1706178873,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 272778,
@@ -1289,6 +1297,14 @@
       "onboard_time": 1706178034,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229948,
+      "num": 190279,
+      "word": "内娱女子组合TFGirls",
+      "onboard_time": 1706186073,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229779,
@@ -1507,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203619,
+      "num": 188852,
+      "word": "宝爸辞职做自媒体有多心酸",
+      "onboard_time": 1706186556,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202861,
       "num": 202861,
       "word": "第五人格",
@@ -1561,14 +1585,6 @@
       "onboard_time": 1706152049,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 198945,
-      "num": 188354,
-      "word": "秦海璐穿了吊带红裙",
-      "onboard_time": 1706185831,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198619,
@@ -1755,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184050,
+      "num": 184050,
+      "word": "澳网直播",
+      "onboard_time": 1706183853,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183909,
       "num": 1188287,
       "word": "睿宝再现老爸乐宝经典动作",
@@ -1801,14 +1825,6 @@
       "onboard_time": 1706139324,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 177401,
-      "num": 177401,
-      "word": "内娱女子组合TFGirls",
-      "onboard_time": 1706186073,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 175680,
@@ -1889,6 +1905,14 @@
       "onboard_time": 1706171372,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169761,
+      "num": 169761,
+      "word": "郑钦文张之臻冲击澳网决赛",
+      "onboard_time": 1706148268,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 169178,
@@ -2011,6 +2035,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 154133,
+      "num": 154133,
+      "word": "迪丽热巴要做最快乐的巴巴",
+      "onboard_time": 1706184153,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154067,
       "num": 154067,
       "word": "赵昭仪漫画",
@@ -2043,14 +2075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153694,
-      "num": 127495,
-      "word": "迪丽热巴要做最快乐的巴巴",
-      "onboard_time": 1706184153,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153650,
       "num": 153650,
       "word": "东部战区回应美舰过航台湾海峡",
@@ -2073,6 +2097,14 @@
       "onboard_time": 1706142809,
       "rank": 41,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 149816,
+      "num": 149816,
+      "word": "gala对线",
+      "onboard_time": 1706185952,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 145940,
@@ -2227,6 +2259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130526,
+      "num": 130526,
+      "word": "新5系价格发布",
+      "onboard_time": 1706186917,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 129886,
       "num": 129886,
       "word": "人夫感是一种什么感觉",
@@ -2259,20 +2299,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125129,
-      "num": 125129,
-      "word": "gala对线",
-      "onboard_time": 1706185952,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 124364,
       "num": 124364,
       "word": "为什么衣服上的火锅味一直散不掉",
       "onboard_time": 1706108133,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 123765,
+      "num": 123765,
+      "word": "农大丁同学收到春晚邀约后",
+      "onboard_time": 1706186974,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123645,
@@ -2289,14 +2329,6 @@
       "onboard_time": 1706167468,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120390,
-      "num": 120390,
-      "word": "郑钦文张之臻冲击澳网决赛",
-      "onboard_time": 1706148268,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 119843,
@@ -2657,6 +2689,14 @@
       "onboard_time": 1706103455,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 41206,
+      "num": 191036,
+      "word": "三星AI拍照卷起来了",
+      "onboard_time": 1706186316,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 40840,

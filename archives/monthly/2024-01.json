@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706186082700,
+  "endTime": 1706187038786,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8309889,
+      "num": 8309889,
+      "word": "徐娇怼于正",
+      "onboard_time": 1706183971,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 7952941,
       "num": 7952941,
       "word": "杨紫三获微博Queen",
@@ -177,14 +185,6 @@
       "onboard_time": 1704173134,
       "rank": 0,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 5825081,
-      "num": 5825081,
-      "word": "徐娇怼于正",
-      "onboard_time": 1706183971,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 5781277,
@@ -1529,6 +1529,14 @@
       "onboard_time": 1704343776,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1784876,
+      "num": 1001807,
+      "word": "徐娇 让人瘦到85是有多歹毒",
+      "onboard_time": 1706184993,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1778466,
@@ -3651,14 +3659,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1230277,
-      "num": 788835,
-      "word": "徐娇 让人瘦到85是有多歹毒",
-      "onboard_time": 1706184993,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1230202,
       "num": 3034054,
       "word": "女生未满19岁确诊卵巢早衰",
@@ -4779,6 +4779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1078859,
+      "num": 1078859,
+      "word": "赵晴身高",
+      "onboard_time": 1706185318,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1078071,
       "num": 1078071,
       "word": "6名干部违规聚餐狂饮7瓶白酒致1死",
@@ -5337,6 +5345,14 @@
       "onboard_time": 1705147004,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1011368,
+      "num": 1011368,
+      "word": "郑钦文VS雅斯特列姆斯卡",
+      "onboard_time": 1706178873,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 1010509,
@@ -7515,6 +7531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 828151,
+      "num": 828151,
+      "word": "女子离婚冷静期内被丈夫杀害",
+      "onboard_time": 1706181631,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 827568,
       "num": 827568,
       "word": "丹麦女王宣布将退位",
@@ -7608,14 +7632,6 @@
       "word": "谷歌殴打妻子致死工程师被控谋杀重罪",
       "onboard_time": 1705754727,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 821271,
-      "num": 821271,
-      "word": "女子离婚冷静期内被丈夫杀害",
-      "onboard_time": 1706181631,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -16924,7 +16940,7 @@
     },
     {
       "raw_hot": 480065,
-      "num": 326583,
+      "num": 450989,
       "word": "于正审美",
       "onboard_time": 1706184452,
       "rank": 15,
@@ -19417,14 +19433,6 @@
       "onboard_time": 1705676491,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 421580,
-      "num": 255144,
-      "word": "赵晴身高",
-      "onboard_time": 1706185318,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 421444,
@@ -22907,6 +22915,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 352793,
+      "num": 219160,
+      "word": "秦海璐穿了吊带红裙",
+      "onboard_time": 1706185831,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 352672,
       "num": 352672,
       "word": "沈马",
@@ -25771,6 +25787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 305303,
+      "num": 245331,
+      "word": "为什么结婚后都容易变胖",
+      "onboard_time": 1706183613,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 305164,
       "num": 305164,
       "word": "猫猫没有骨头的铁证",
@@ -27227,14 +27251,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 287198,
-      "num": 245331,
-      "word": "为什么结婚后都容易变胖",
-      "onboard_time": 1706183613,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 287031,
       "num": 262174,
       "word": "为什么建议年轻人要学会送礼",
@@ -28289,14 +28305,6 @@
       "onboard_time": 1705978465,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 273488,
-      "num": 273488,
-      "word": "郑钦文VS雅斯特列姆斯卡",
-      "onboard_time": 1706178873,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 273466,
@@ -33011,6 +33019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 229948,
+      "num": 190279,
+      "word": "内娱女子组合TFGirls",
+      "onboard_time": 1706186073,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229793,
       "num": 229793,
       "word": "荣耀保时捷",
@@ -37467,6 +37483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203619,
+      "num": 188852,
+      "word": "宝爸辞职做自媒体有多心酸",
+      "onboard_time": 1706186556,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203608,
       "num": 203608,
       "word": "小米高管回应年会跳舞视频",
@@ -38729,14 +38753,6 @@
       "onboard_time": 1704706409,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 198945,
-      "num": 188354,
-      "word": "秦海璐穿了吊带红裙",
-      "onboard_time": 1706185831,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198941,
@@ -42547,6 +42563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184050,
+      "num": 184050,
+      "word": "澳网直播",
+      "onboard_time": 1706183853,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184047,
       "num": 184047,
       "word": "陈粒 我以为选了个新世界其实都一样",
@@ -44217,14 +44241,6 @@
       "onboard_time": 1704267089,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 177401,
-      "num": 177401,
-      "word": "内娱女子组合TFGirls",
-      "onboard_time": 1706186073,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 177346,
@@ -46225,6 +46241,14 @@
       "onboard_time": 1704893317,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169761,
+      "num": 169761,
+      "word": "郑钦文张之臻冲击澳网决赛",
+      "onboard_time": 1706148268,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 169700,
@@ -50171,6 +50195,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 154133,
+      "num": 154133,
+      "word": "迪丽热巴要做最快乐的巴巴",
+      "onboard_time": 1706184153,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154073,
       "num": 154073,
       "word": "哈尔滨大姐遇台湾女生疯狂投喂",
@@ -50265,14 +50297,6 @@
       "onboard_time": 1706183370,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153694,
-      "num": 127495,
-      "word": "迪丽热巴要做最快乐的巴巴",
-      "onboard_time": 1706184153,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 153650,
@@ -51305,6 +51329,14 @@
       "onboard_time": 1705013599,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149816,
+      "num": 149816,
+      "word": "gala对线",
+      "onboard_time": 1706185952,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 149811,
@@ -56723,6 +56755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130526,
+      "num": 130526,
+      "word": "新5系价格发布",
+      "onboard_time": 1706186917,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 130515,
       "num": 130515,
       "word": "80岁奶奶带卤猪蹄去看好闺蜜",
@@ -58395,14 +58435,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 125129,
-      "num": 125129,
-      "word": "gala对线",
-      "onboard_time": 1706185952,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 125112,
       "num": 125112,
       "word": "小砂糖橘感谢东北的老铁们",
@@ -58713,6 +58745,14 @@
       "onboard_time": 1705449085,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123765,
+      "num": 123765,
+      "word": "农大丁同学收到春晚邀约后",
+      "onboard_time": 1706186974,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123722,
@@ -59625,14 +59665,6 @@
       "onboard_time": 1704274234,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 120390,
-      "num": 120390,
-      "word": "郑钦文张之臻冲击澳网决赛",
-      "onboard_time": 1706148268,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 120329,
@@ -67457,6 +67489,14 @@
       "onboard_time": 1705173138,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 41206,
+      "num": 191036,
+      "word": "三星AI拍照卷起来了",
+      "onboard_time": 1706186316,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 41174,

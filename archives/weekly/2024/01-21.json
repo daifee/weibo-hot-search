@@ -1,7 +1,15 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706186082700,
+  "endTime": 1706187038786,
   "band_list": [
+    {
+      "raw_hot": 8309889,
+      "num": 8309889,
+      "word": "徐娇怼于正",
+      "onboard_time": 1706183971,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 7797604,
       "num": 8254922,
@@ -17,14 +25,6 @@
       "onboard_time": 1706098652,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5825081,
-      "num": 5825081,
-      "word": "徐娇怼于正",
-      "onboard_time": 1706183971,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 3927509,
@@ -217,6 +217,14 @@
       "onboard_time": 1706154332,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1784876,
+      "num": 1001807,
+      "word": "徐娇 让人瘦到85是有多歹毒",
+      "onboard_time": 1706184993,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1778466,
@@ -603,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1230277,
-      "num": 788835,
-      "word": "徐娇 让人瘦到85是有多歹毒",
-      "onboard_time": 1706184993,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1230180,
       "num": 1230180,
       "word": "王俊凯 很后悔昨天睡觉了",
@@ -795,6 +795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1078859,
+      "num": 1078859,
+      "word": "赵晴身高",
+      "onboard_time": 1706185318,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1078046,
       "num": 1078046,
       "word": "0713春晚联排13进9",
@@ -905,6 +913,14 @@
       "onboard_time": 1706162912,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1011368,
+      "num": 1011368,
+      "word": "郑钦文VS雅斯特列姆斯卡",
+      "onboard_time": 1706178873,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 1008928,
@@ -1331,20 +1347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 828151,
+      "num": 828151,
+      "word": "女子离婚冷静期内被丈夫杀害",
+      "onboard_time": 1706181631,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 822805,
       "num": 822805,
       "word": "沈腾马丽现身央视春晚第二次联排",
       "onboard_time": 1705819166,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 821271,
-      "num": 821271,
-      "word": "女子离婚冷静期内被丈夫杀害",
-      "onboard_time": 1706181631,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 818534,
@@ -2900,7 +2916,7 @@
     },
     {
       "raw_hot": 480065,
-      "num": 326583,
+      "num": 450989,
       "word": "于正审美",
       "onboard_time": 1706184452,
       "rank": 15,
@@ -3465,14 +3481,6 @@
       "onboard_time": 1705848448,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 421580,
-      "num": 255144,
-      "word": "赵晴身高",
-      "onboard_time": 1706185318,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 421444,
@@ -4235,6 +4243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352793,
+      "num": 219160,
+      "word": "秦海璐穿了吊带红裙",
+      "onboard_time": 1706185831,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 352672,
       "num": 352672,
       "word": "沈马",
@@ -4923,6 +4939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305303,
+      "num": 245331,
+      "word": "为什么结婚后都容易变胖",
+      "onboard_time": 1706183613,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 303804,
       "num": 303804,
       "word": "这一次竹马战胜了天降",
@@ -5185,14 +5209,6 @@
       "onboard_time": 1706146529,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 287198,
-      "num": 245331,
-      "word": "为什么结婚后都容易变胖",
-      "onboard_time": 1706183613,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 287031,
@@ -5489,14 +5505,6 @@
       "onboard_time": 1705978465,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 273488,
-      "num": 273488,
-      "word": "郑钦文VS雅斯特列姆斯卡",
-      "onboard_time": 1706178873,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 272778,
@@ -6425,6 +6433,14 @@
       "onboard_time": 1706178034,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229948,
+      "num": 190279,
+      "word": "内娱女子组合TFGirls",
+      "onboard_time": 1706186073,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229779,
@@ -7419,6 +7435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203619,
+      "num": 188852,
+      "word": "宝爸辞职做自媒体有多心酸",
+      "onboard_time": 1706186556,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203510,
       "num": 203510,
       "word": "李宏毅回应新戏",
@@ -7673,14 +7697,6 @@
       "onboard_time": 1705843229,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198945,
-      "num": 188354,
-      "word": "秦海璐穿了吊带红裙",
-      "onboard_time": 1706185831,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198801,
@@ -8475,6 +8491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184050,
+      "num": 184050,
+      "word": "澳网直播",
+      "onboard_time": 1706183853,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183909,
       "num": 1188287,
       "word": "睿宝再现老爸乐宝经典动作",
@@ -8785,14 +8809,6 @@
       "onboard_time": 1705918530,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 177401,
-      "num": 177401,
-      "word": "内娱女子组合TFGirls",
-      "onboard_time": 1706186073,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 177277,
@@ -9217,6 +9233,14 @@
       "onboard_time": 1705989266,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 169761,
+      "num": 169761,
+      "word": "郑钦文张之臻冲击澳网决赛",
+      "onboard_time": 1706148268,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 169567,
@@ -10059,6 +10083,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 154133,
+      "num": 154133,
+      "word": "迪丽热巴要做最快乐的巴巴",
+      "onboard_time": 1706184153,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154067,
       "num": 154067,
       "word": "赵昭仪漫画",
@@ -10089,14 +10121,6 @@
       "onboard_time": 1706183370,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153694,
-      "num": 127495,
-      "word": "迪丽热巴要做最快乐的巴巴",
-      "onboard_time": 1706184153,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 153650,
@@ -10297,6 +10321,14 @@
       "onboard_time": 1705820305,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149816,
+      "num": 149816,
+      "word": "gala对线",
+      "onboard_time": 1706185952,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 149811,
@@ -11571,6 +11603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130526,
+      "num": 130526,
+      "word": "新5系价格发布",
+      "onboard_time": 1706186917,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 130506,
       "num": 130506,
       "word": "CBA全明星阵容公布",
@@ -11931,14 +11971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125129,
-      "num": 125129,
-      "word": "gala对线",
-      "onboard_time": 1706185952,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 124996,
       "num": 124996,
       "word": "郑书意蒋翼同款妆造",
@@ -11969,6 +12001,14 @@
       "onboard_time": 1706095771,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 123765,
+      "num": 123765,
+      "word": "农大丁同学收到春晚邀约后",
+      "onboard_time": 1706186974,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123653,
@@ -12169,14 +12209,6 @@
       "onboard_time": 1705807645,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120390,
-      "num": 120390,
-      "word": "郑钦文张之臻冲击澳网决赛",
-      "onboard_time": 1706148268,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 120044,
@@ -13953,6 +13985,14 @@
       "onboard_time": 1706030122,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41206,
+      "num": 191036,
+      "word": "三星AI拍照卷起来了",
+      "onboard_time": 1706186316,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 40840,
