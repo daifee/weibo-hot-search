@@ -1,0 +1,410 @@
+{
+  "runTime": 1706160885427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1220836,
+        "num": 1220836,
+        "word": "男子性侵少女被判无罪后检察机关抗诉",
+        "onboard_time": 1706157335,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1215354,
+        "num": 1215354,
+        "word": "虞书欣司机在高速上倒车",
+        "onboard_time": 1706144850,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89642,
+        "num": 1018683,
+        "word": "农历龙年知识帖",
+        "onboard_time": 1706157151,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954301,
+        "num": 954301,
+        "word": "煮苹果水",
+        "onboard_time": 1706152771,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 915112,
+        "num": 915112,
+        "word": "江西新余火灾有学生不幸遇难",
+        "onboard_time": 1706160031,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856187,
+        "num": 856187,
+        "word": "培训班有学生逃课买衣服避过火灾",
+        "onboard_time": 1706157335,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710620,
+        "num": 710620,
+        "word": "99年女孩购买入住毛坯房父亲特意来看望",
+        "onboard_time": 1706154150,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702487,
+        "num": 702487,
+        "word": "江西新余火灾",
+        "onboard_time": 1706160151,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652773,
+        "num": 652773,
+        "word": "网课入侵猝死老师女儿再发声",
+        "onboard_time": 1706147729,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644278,
+        "num": 644278,
+        "word": "宝可梦公司调查幻兽帕鲁",
+        "onboard_time": 1706158832,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 642312,
+        "num": 642312,
+        "word": "韩国13岁出道女孩",
+        "onboard_time": 1706154632,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583432,
+        "num": 583432,
+        "word": "鸡蛋上最脏的东西可能被你吃了",
+        "onboard_time": 1706154332,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 506935,
+        "num": 506935,
+        "word": "霍启刚天津政协委员",
+        "onboard_time": 1706159135,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457604,
+        "num": 457604,
+        "word": "民政部回复龙年不宜结婚",
+        "onboard_time": 1706107055,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438404,
+        "num": 438404,
+        "word": "吴磊赵今麦车窗吻",
+        "onboard_time": 1706153488,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429860,
+        "num": 429860,
+        "word": "美嘉被山根挡住的眼泪",
+        "onboard_time": 1706147129,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417459,
+        "num": 417459,
+        "word": "花儿与少年5收官",
+        "onboard_time": 1706157934,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387222,
+        "num": 387222,
+        "word": "蔡磊希望妻子为自己复仇",
+        "onboard_time": 1706159314,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362993,
+        "num": 362993,
+        "word": "蔡磊说生病才知道有多少骗子",
+        "onboard_time": 1706155111,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357134,
+        "num": 357134,
+        "word": "虞书欣司机在高速倒车交警已介入",
+        "onboard_time": 1706157271,
+        "rank": 19,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 903472,
+        "num": 355572,
+        "word": "有夜尿与没有夜尿的人谁更健康",
+        "onboard_time": 1706156253,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 353948,
+        "num": 353948,
+        "word": "尔滨撒娇白狐把女游客亲迷糊了",
+        "onboard_time": 1706157693,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327099,
+        "num": 327099,
+        "word": "京极真 园子",
+        "onboard_time": 1706159492,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 318146,
+        "num": 318146,
+        "word": "东方甄选带货57亿营收28亿",
+        "onboard_time": 1706159612,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 315225,
+        "num": 315225,
+        "word": "宁艺卓 多动症",
+        "onboard_time": 1706139266,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291937,
+        "num": 291937,
+        "word": "内马尔第三个孩子",
+        "onboard_time": 1706152950,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265398,
+        "num": 265398,
+        "word": "江西新余致39死火灾原因",
+        "onboard_time": 1706137823,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260478,
+        "num": 260478,
+        "word": "中国最好听的小县城名字",
+        "onboard_time": 1706157453,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260427,
+        "num": 260427,
+        "word": "IU新歌 挂窗帘",
+        "onboard_time": 1706154932,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235191,
+        "num": 235191,
+        "word": "世卫警告X疾病比新冠致命20倍",
+        "onboard_time": 1706151752,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242209,
+        "num": 234383,
+        "word": "她上班的时候眼里有光",
+        "onboard_time": 1706160151,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219255,
+        "num": 219255,
+        "word": "他不急她不急我很急",
+        "onboard_time": 1706159970,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218657,
+        "num": 218657,
+        "word": "江西新余火灾事故新闻发布会",
+        "onboard_time": 1706142329,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212023,
+        "num": 212023,
+        "word": "为什么大家不再神化苹果了",
+        "onboard_time": 1706159072,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200608,
+        "num": 200608,
+        "word": "京阿尼纵火案判处被告死刑",
+        "onboard_time": 1706160752,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197356,
+        "num": 197356,
+        "word": "大侦探9侦心侦意演唱会",
+        "onboard_time": 1706160211,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190862,
+        "num": 190862,
+        "word": "世界之外 AI图",
+        "onboard_time": 1706151686,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172338,
+        "num": 172338,
+        "word": "檀健次 给爸妈带好",
+        "onboard_time": 1706154632,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167336,
+        "num": 167336,
+        "word": "12306候补",
+        "onboard_time": 1706150729,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164740,
+        "num": 164740,
+        "word": "辛芷蕾胡先煦 好嗑",
+        "onboard_time": 1706140347,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164435,
+        "num": 164435,
+        "word": "GQ镜头下的谢娜",
+        "onboard_time": 1706157814,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159453,
+        "num": 159453,
+        "word": "宫颈癌知晓月",
+        "onboard_time": 1706158533,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153306,
+        "num": 153306,
+        "word": "中字头10余股涨停",
+        "onboard_time": 1706155774,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148633,
+        "num": 148633,
+        "word": "吴磊第一部现偶剧",
+        "onboard_time": 1706153550,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140675,
+        "num": 140675,
+        "word": "江西新余火灾12名责任人被控制",
+        "onboard_time": 1706139566,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136713,
+        "num": 136713,
+        "word": "两市上涨个股超4600只",
+        "onboard_time": 1706160870,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133063,
+        "num": 133063,
+        "word": "奶狗不叫姐心思肯定野",
+        "onboard_time": 1706159254,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133002,
+        "num": 133002,
+        "word": "女子返乡火车上炫鸭脖啃出一座山",
+        "onboard_time": 1706153133,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131122,
+        "num": 131122,
+        "word": "赵露思喊你来四川耍",
+        "onboard_time": 1706160387,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129751,
+        "num": 129751,
+        "word": "新年美甲",
+        "onboard_time": 1706153791,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对江西新余市火灾事故作出重要指示#"
+    }
+  }
+}
