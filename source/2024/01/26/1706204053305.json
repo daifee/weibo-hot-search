@@ -1,0 +1,410 @@
+{
+  "runTime": 1706204053305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 745950,
+        "num": 745950,
+        "word": "徐娇怼于正",
+        "onboard_time": 1706183971,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 659258,
+        "num": 659258,
+        "word": "你支持取消离婚冷静期吗",
+        "onboard_time": 1706200587,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13735,
+        "num": 559496,
+        "word": "何以中国的文明密码",
+        "onboard_time": 1706192194,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483464,
+        "num": 483464,
+        "word": "不要再把肉泡水里解冻了",
+        "onboard_time": 1706196572,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 403585,
+        "num": 403585,
+        "word": "祖国统一台湾当归",
+        "onboard_time": 1706194594,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 358198,
+        "num": 358198,
+        "word": "科学家警告小心北极僵尸病毒",
+        "onboard_time": 1706193813,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290013,
+        "num": 290013,
+        "word": "徐娇 让人瘦到85是有多歹毒",
+        "onboard_time": 1706184993,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289876,
+        "num": 289876,
+        "word": "谢楠回应被劝离婚",
+        "onboard_time": 1706176892,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273410,
+        "num": 273410,
+        "word": "减重100斤的贾玲惊呆潘斌龙",
+        "onboard_time": 1706191595,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265889,
+        "num": 265889,
+        "word": "李娜",
+        "onboard_time": 1706188473,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218046,
+        "num": 218046,
+        "word": "于正 谢谢妹妹给热度",
+        "onboard_time": 1706190273,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217152,
+        "num": 217152,
+        "word": "辛芷蕾选的照片是靠在胡先煦肩上",
+        "onboard_time": 1706183070,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206049,
+        "num": 206049,
+        "word": "华中农大回应举报导师的学生原学制不变",
+        "onboard_time": 1706196393,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173085,
+        "num": 173085,
+        "word": "爱情公寓3的发布会",
+        "onboard_time": 1706175991,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161297,
+        "num": 161297,
+        "word": "周星驰黑长直",
+        "onboard_time": 1706194534,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131763,
+        "num": 131763,
+        "word": "俞敏洪回应董宇辉新号分流",
+        "onboard_time": 1706199151,
+        "rank": 15,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 126089,
+        "num": 126089,
+        "word": "肖战路透",
+        "onboard_time": 1706195374,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114093,
+        "num": 114093,
+        "word": "迪丽热巴成都",
+        "onboard_time": 1706191412,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107265,
+        "num": 107265,
+        "word": "世界之外 我为什么成不了单推",
+        "onboard_time": 1706198311,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96507,
+        "num": 96507,
+        "word": "轰动了整个阅卷组",
+        "onboard_time": 1706180193,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160695,
+        "num": 94870,
+        "word": "韩国人防猝死套餐靠谱吗",
+        "onboard_time": 1706201424,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126887,
+        "num": 90705,
+        "word": "泡温泉会感染HPV和妇科病吗",
+        "onboard_time": 1706202084,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111281,
+        "num": 88599,
+        "word": "花儿与少年5",
+        "onboard_time": 1706184089,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86395,
+        "num": 86395,
+        "word": "免疫力低下的5个表现",
+        "onboard_time": 1706194892,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83033,
+        "num": 83033,
+        "word": "花少5一场盛大的be美学",
+        "onboard_time": 1706180729,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79906,
+        "num": 79906,
+        "word": "杨紫演技",
+        "onboard_time": 1706184628,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79771,
+        "num": 79771,
+        "word": "张婧仪路透",
+        "onboard_time": 1706194773,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78012,
+        "num": 78012,
+        "word": "秦海璐回复王新军",
+        "onboard_time": 1706183790,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57054,
+        "num": 73054,
+        "word": "中石油涨停意味着什么",
+        "onboard_time": 1706189492,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38350,
+        "num": 72392,
+        "word": "云南山体滑坡44人遇难",
+        "onboard_time": 1706187275,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72176,
+        "num": 72176,
+        "word": "国产剧第一个活明白的女孩",
+        "onboard_time": 1706193213,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68437,
+        "num": 68437,
+        "word": "弭金秒删",
+        "onboard_time": 1706192133,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65786,
+        "num": 65786,
+        "word": "新加坡免签受益人王俊凯",
+        "onboard_time": 1706173829,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 60061,
+        "num": 60061,
+        "word": "微软游戏部门裁员1900人",
+        "onboard_time": 1706196393,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48881,
+        "num": 48881,
+        "word": "医生从听力减退小伙耳道拽出蘑菇",
+        "onboard_time": 1706173414,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61607,
+        "num": 47261,
+        "word": "朴信惠产后复出",
+        "onboard_time": 1706169751,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57498,
+        "num": 46569,
+        "word": "赵晴身高",
+        "onboard_time": 1706185318,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44411,
+        "num": 44411,
+        "word": "为什么结婚后都容易变胖",
+        "onboard_time": 1706183613,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43614,
+        "num": 43614,
+        "word": "多干一秒都是对我工资的不尊重",
+        "onboard_time": 1706196094,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43244,
+        "num": 43244,
+        "word": "狮子座是一个爱憎分明的人",
+        "onboard_time": 1706187695,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57231,
+        "num": 43074,
+        "word": "秦海璐穿了吊带红裙",
+        "onboard_time": 1706185831,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40157,
+        "num": 42683,
+        "word": "郑钦文首进大满贯决赛",
+        "onboard_time": 1706187217,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54515,
+        "num": 41972,
+        "word": "徐娇赵晴合照",
+        "onboard_time": 1706188173,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53873,
+        "num": 41600,
+        "word": "内娱女子组合TFGirls",
+        "onboard_time": 1706186073,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41476,
+        "num": 41476,
+        "word": "长了一副娃娃脸的柯基",
+        "onboard_time": 1706195014,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38673,
+        "num": 38673,
+        "word": "中国冰淇淋在韩国爆火",
+        "onboard_time": 1706178994,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 36717,
+        "num": 36717,
+        "word": "宝爸辞职做自媒体有多心酸",
+        "onboard_time": 1706186556,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40398,
+        "num": 36712,
+        "word": "徐娇女王行为",
+        "onboard_time": 1706196872,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36697,
+        "num": 36697,
+        "word": "TT战胜LNG",
+        "onboard_time": 1706193695,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36655,
+        "num": 36655,
+        "word": "弭金 吓到大家不好意思",
+        "onboard_time": 1706190813,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决遏制各类安全事故多发连发势头#"
+    }
+  }
+}
