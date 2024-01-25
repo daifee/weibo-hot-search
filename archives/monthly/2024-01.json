@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706188928614,
+  "endTime": 1706189636361,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -8843,6 +8843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 756274,
+      "num": 756274,
+      "word": "云南山体滑坡44人遇难",
+      "onboard_time": 1706187275,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 756170,
       "num": 533951,
       "word": "金莎P图",
@@ -8961,6 +8969,14 @@
       "onboard_time": 1704854431,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 750291,
+      "num": 449124,
+      "word": "徐娇赵晴合照",
+      "onboard_time": 1706188173,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 750286,
@@ -9272,14 +9288,6 @@
       "word": "男子在日军731部队遗址前直播带货",
       "onboard_time": 1704788974,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 736598,
-      "num": 736598,
-      "word": "云南山体滑坡44人遇难",
-      "onboard_time": 1706187275,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -14571,6 +14579,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 544032,
+      "num": 544032,
+      "word": "李娜",
+      "onboard_time": 1706188473,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 543978,
       "num": 543978,
       "word": "河南宁陵县通报一学生坠亡事件",
@@ -16105,14 +16121,6 @@
       "onboard_time": 1705021770,
       "rank": 25,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 502151,
-      "num": 407417,
-      "word": "徐娇赵晴合照",
-      "onboard_time": 1706188173,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 502107,
@@ -18585,6 +18593,14 @@
       "onboard_time": 1705464513,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443176,
+      "num": 443176,
+      "word": "于正怼脸生图",
+      "onboard_time": 1706188413,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 443073,
@@ -25435,14 +25451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311313,
-      "num": 253747,
-      "word": "于正怼脸生图",
-      "onboard_time": 1706188413,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311245,
       "num": 311245,
       "word": "东北大哥12年手撕万片纸尿裤",
@@ -26001,14 +26009,6 @@
       "onboard_time": 1706104955,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301893,
-      "num": 301893,
-      "word": "李娜",
-      "onboard_time": 1706188473,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 301883,
@@ -31763,6 +31763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239890,
+      "num": 203707,
+      "word": "花儿与少年5",
+      "onboard_time": 1706184089,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239858,
       "num": 239858,
       "word": "南北方牛奶居然还不一样",
@@ -34089,14 +34097,6 @@
       "onboard_time": 1704507808,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223344,
-      "num": 203707,
-      "word": "花儿与少年5",
-      "onboard_time": 1706184089,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 223328,
@@ -39491,6 +39491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196274,
+      "num": 196274,
+      "word": "网球",
+      "onboard_time": 1706188653,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196263,
       "num": 197562,
       "word": "米哈游 橡皮管动画",
@@ -41035,14 +41043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190450,
-      "num": 190450,
-      "word": "网球",
-      "onboard_time": 1706188653,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190418,
       "num": 190418,
       "word": "你也有今天开播",
@@ -41904,6 +41904,14 @@
       "word": "虞书欣檀健次热聊",
       "onboard_time": 1705215030,
       "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187069,
+      "num": 187069,
+      "word": "王鹤棣 帅得很高清",
+      "onboard_time": 1706188473,
+      "rank": 38,
       "category": "作品衍生"
     },
     {
@@ -43865,6 +43873,14 @@
       "onboard_time": 1705294653,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179324,
+      "num": 194577,
+      "word": "狮子座是一个爱憎分明的人",
+      "onboard_time": 1706187695,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 179321,
@@ -48315,14 +48331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161366,
-      "num": 161366,
-      "word": "王鹤棣 帅得很高清",
-      "onboard_time": 1706188473,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 161344,
       "num": 161344,
       "word": "冬青奥会短道速滑混接中国夺金",
@@ -48385,14 +48393,6 @@
       "onboard_time": 1705274303,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161277,
-      "num": 161277,
-      "word": "狮子座是一个爱憎分明的人",
-      "onboard_time": 1706187695,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 161273,
@@ -52299,6 +52299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146324,
+      "num": 146324,
+      "word": "没艺术细胞就不要挑战陶艺了",
+      "onboard_time": 1706188715,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146308,
       "num": 146308,
       "word": "成毅工作室运镜跟郭虎学的吗",
@@ -55483,14 +55491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135395,
-      "num": 135395,
-      "word": "没艺术细胞就不要挑战陶艺了",
-      "onboard_time": 1706188715,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 135388,
       "num": 348290,
       "word": "萌兰院子里的雪不多了",
@@ -55697,6 +55697,14 @@
       "onboard_time": 1704199471,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134612,
+      "num": 134612,
+      "word": "中石油涨停意味着什么",
+      "onboard_time": 1706189492,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 134557,
@@ -55993,6 +56001,14 @@
       "onboard_time": 1704597870,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133513,
+      "num": 352680,
+      "word": "新5系价格发布",
+      "onboard_time": 1706186917,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 133495,
@@ -56849,14 +56865,6 @@
       "onboard_time": 1706181032,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 130526,
-      "num": 286631,
-      "word": "新5系价格发布",
-      "onboard_time": 1706186917,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 130515,
